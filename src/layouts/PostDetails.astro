@@ -8,6 +8,7 @@ import Datetime from "@/components/Datetime.astro";
 import EditPost from "@/components/EditPost.astro";
 import ShareLinks from "@/components/ShareLinks.astro";
 import BackButton from "@/components/BackButton.astro";
+import { SITE } from "@/config";
 import BackToTopButton from "@/components/BackToTopButton.astro";
 import { getPath } from "@/utils/getPath";
 import { slugifyStr } from "@/utils/slugify";
@@ -83,6 +84,18 @@ const nextPost =
 ---
 
 <Layout {...layoutProps}>
+
+  <!-- HowTo Schema for Google Featured Snippets -->
+  <script type="application/ld+json" is:inline set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    "name": title,
+    "description": description,
+    "datePublished": pubDatetime?.toISOString(),
+    "dateModified": modDatetime ? modDatetime.toISOString() : pubDatetime?.toISOString(),
+    "author": { "@type": "Organization", "name": SITE.title, "url": SITE.website },
+    "publisher": { "@type": "Organization", "name": SITE.title, "url": SITE.website }
+  })} />
   <Header />
   <BackButton />
   <main
