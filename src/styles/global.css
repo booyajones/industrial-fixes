@@ -5,15 +5,15 @@
 
 :root,
 html[data-theme="light"] {
-  --background: #1a1a1a;
-  --foreground: #e8e8e8;
-  --accent: #f59e0b;
-  --muted: #2d2d2d;
-  --border: #3d3d3d;
+  --background: #ffffff;
+  --foreground: #1a1a1a;
+  --accent: #d97706;
+  --muted: #f4f4f5;
+  --border: #e4e4e7;
 }
 
 html[data-theme="dark"] {
-  --background: #0f0f0f;
+  --background: #111111;
   --foreground: #e8e8e8;
   --accent: #f59e0b;
   --muted: #1f1f1f;
