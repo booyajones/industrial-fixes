@@ -30,7 +30,7 @@ On Mitsubishi systems, P1 is also used in some models to indicate a refrigerant 
 - **Failed indoor fan motor** — A fan running at reduced speed or intermittently failing to spin will cause coil freeze even with a clean filter and correct refrigerant charge.
 - **Thermistor (temperature sensor) failure** — An indoor thermistor reading falsely low will trigger P1 even when the coil is at normal temperature.
 
-## Step-by-Step Fix
+## Step-by-Step Fix {#step-by-step-fix}
 
 1. **Switch to FAN ONLY mode and let the coil thaw.** Before diagnosing anything, the coil must be ice-free. Set the remote to fan-only mode (no cooling or heating) at high speed and run for 30–60 minutes. You may see water dripping from the unit — this is normal ice melt draining. Do not skip this step; diagnosing a frozen coil gives you no useful information.
 
@@ -44,7 +44,7 @@ On Mitsubishi systems, P1 is also used in some models to indicate a refrigerant 
 
 6. **Restore and monitor.** Once coil is thawed, filter is clean, and fan is confirmed running, restore the unit to normal cooling mode. Monitor for 2–3 hours. If P1 returns within 30 minutes with a clean filter and the fan running, low refrigerant is the most likely cause.
 
-## Parts That May Need Replacement
+## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
 | Part | Where to Buy | Typical Cost |
 |------|-------------|-------------|

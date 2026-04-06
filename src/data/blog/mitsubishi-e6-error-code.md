@@ -4,7 +4,7 @@ author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-07T08:00:00Z
 modDatetime: 2024-03-07T08:00:00Z
 slug: mitsubishi-e6-error-code
-featured: false
+featured: true
 draft: false
 tags:
   - hvac
@@ -30,7 +30,7 @@ E6 is a wiring or board issue, not a refrigerant or mechanical issue. The fix is
 - **Failed indoor unit PCB** — Less common, but the indoor board can also fail to receive or transmit correctly.
 - **Loose terminal connections** — Vibration over years of operation can loosen terminal screws, creating intermittent contact that causes E6 faults that come and go.
 
-## Step-by-Step Fix
+## Step-by-Step Fix {#step-by-step-fix}
 
 1. **Kill power to both indoor and outdoor units.** Flip the outdoor disconnect and the indoor breaker. Wait 60 seconds for capacitors to discharge.
 
@@ -48,7 +48,7 @@ E6 is a wiring or board issue, not a refrigerant or mechanical issue. The fix is
 
 8. **If wiring is confirmed good, test the outdoor PCB.** With a licensed tech and service documentation, verify the outdoor board is transmitting on the S-wire using an oscilloscope or Mitsubishi service tool. A board that shows no signal output needs replacement.
 
-## Parts That May Need Replacement
+## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
 | Part | Where to Buy | Typical Cost |
 |------|-------------|-------------|

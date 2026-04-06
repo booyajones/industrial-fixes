@@ -30,7 +30,7 @@ On Burnham boilers, lockout is a safety feature — repeated ignition failures c
 - **Flame sensor failure** — The ionization rod that proves flame presence is corroded, coated, or positioned incorrectly. The burner may actually light briefly, but the control can't confirm the flame and shuts off the gas.
 - **Control board fault** — The integrated boiler controller fails to properly sequence the ignition cycle.
 
-## Step-by-Step Fix
+## Step-by-Step Fix {#step-by-step-fix}
 
 1. **Clear the lockout and observe the startup sequence.** Press and hold the reset button on the boiler control (typically 3–5 seconds, or consult your specific boiler's manual). Stand back and listen: you should hear the pre-purge fan (if equipped) run, then a clicking igniter, then the burner lighting within 4–7 seconds. If you hear clicking but no ignition, gas supply is suspect. If you hear nothing, the control or igniter wiring is suspect.
 
@@ -48,7 +48,7 @@ On Burnham boilers, lockout is a safety feature — repeated ignition failures c
 
 8. **After repair, run 3 complete heat cycles.** Confirm E1 does not return before returning the boiler to unattended operation.
 
-## Parts That May Need Replacement
+## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
 | Part | Where to Buy | Typical Cost |
 |------|-------------|-------------|

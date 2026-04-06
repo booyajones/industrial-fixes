@@ -30,7 +30,7 @@ When P1 is active, the controller typically switches the compressor and fans to 
 - **Wrong probe type installed as replacement** — The XR60C uses an NTC 10kΩ at 25°C probe. Installing an NTC 5kΩ or PTC probe as a replacement will produce an out-of-range reading and trigger P1.
 - **Controller input failure** — Rarely, the analog input circuit on the controller itself fails. If a confirmed working probe plugged in still shows P1, the controller is suspect.
 
-## Step-by-Step Fix
+## Step-by-Step Fix {#step-by-step-fix}
 
 1. **Locate Probe 1.** On the XR60C, Probe 1 is connected to terminals 10 and 11 (probe input, marked P1 on the controller). Trace the wire from those terminals to the probe tip, which is typically clipped to the evaporator coil or mounted in the return air stream.
 
@@ -44,7 +44,7 @@ When P1 is active, the controller typically switches the compressor and fans to 
 
 6. **After replacement, verify setpoints.** The XR60C can lose parameter settings if the controller has been power-cycled repeatedly during the fault. Navigate to the SET menu and confirm: St (set point) = your target temp, LS (minimum set) and US (maximum set) = appropriate limits for your application, and P2 function if you have a second probe installed (defrost termination, condenser monitoring, etc.).
 
-## Parts That May Need Replacement
+## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
 | Part | Where to Buy | Typical Cost |
 |------|-------------|-------------|

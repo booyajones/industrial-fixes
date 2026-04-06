@@ -26,7 +26,7 @@ description: "Carrier error code 34 means ignition proving failure — the furna
 - **Cracked heat exchanger causing flame rollout** — A cracked exchanger disrupts the flame pattern, preventing the sensor from reading a stable flame.
 - **Control board or flame sensor wiring fault** — Loose connector at the flame sensor or a failing board that can't read the microamp signal correctly.
 
-## Step-by-Step Fix
+## Step-by-Step Fix {#step-by-step-fix}
 
 1. **Kill power and gas to the furnace.** Flip the disconnect switch and turn the gas shutoff to the OFF position. Wait 5 minutes for any residual gas to clear before opening the cabinet.
 
@@ -44,7 +44,7 @@ description: "Carrier error code 34 means ignition proving failure — the furna
 
 8. **Clear the lockout and test.** After any repair, restore power, cycle the thermostat, and watch 2–3 full ignition cycles to confirm the fault doesn't return.
 
-## Parts That May Need Replacement
+## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
 | Part | Where to Buy | Typical Cost |
 |------|-------------|-------------|

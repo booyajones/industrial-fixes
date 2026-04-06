@@ -30,7 +30,7 @@ This is a serious alarm that should not be repeatedly cleared and ignored — it
 - **Failing servo amplifier** — An amplifier with degraded current sensing or a failing IGBT can report false overload conditions or genuinely overcurrent during normal operation.
 - **Ambient temperature too high in the cabinet** — The servo amplifier's built-in thermal model accounts for ambient temperature. A cabinet running at 45°C+ degrades the amplifier's continuous current rating.
 
-## Step-by-Step Fix
+## Step-by-Step Fix {#step-by-step-fix}
 
 1. **Note which axis is alarming and when.** Is it alarming at startup (before any movement)? During specific moves? Only during heavy cuts? The timing tells you everything: startup = mechanical binding or parameter issue; only during heavy cuts = application problem; any move = motor or amplifier fault.
 
@@ -46,7 +46,7 @@ This is a serious alarm that should not be repeatedly cleared and ignored — it
 
 7. **Review and adjust servo parameters (with caution).** If all mechanical and thermal checks are good, a Fanuc-trained tech should review the servo parameter file — specifically the current limit (parameter 2065), motor ID (parameter 2020), and acceleration/deceleration rates. Incorrect motor ID causes the amplifier to use the wrong current tables.
 
-## Parts That May Need Replacement
+## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
 | Part | Where to Buy | Typical Cost |
 |------|-------------|-------------|

@@ -29,7 +29,7 @@ On some Daikin models, E1 can also indicate a communication error between the in
 - **Moisture intrusion on the PCB** — Condensate dripping onto the board during a drain overflow event can cause corrosion on the sensor input tracks.
 - **Incorrect model number PCB installed** — A replacement board from an incompatible model will throw E1 immediately due to thermistor reference value mismatches.
 
-## Step-by-Step Fix
+## Step-by-Step Fix {#step-by-step-fix}
 
 1. **Power off the unit completely.** Flip the circuit breaker and wait 60 seconds. Do not attempt to diagnose with live voltage on the PCB.
 
@@ -45,7 +45,7 @@ On some Daikin models, E1 can also indicate a communication error between the in
 
 7. **Replace the faulty thermistor and retest.** Thermistors are inexpensive (under $20 in most cases) and model-specific. With the replacement installed and connectors confirmed seated, restore power and initiate a normal operating cycle. E1 should clear immediately on startup.
 
-## Parts That May Need Replacement
+## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
 | Part | Where to Buy | Typical Cost |
 |------|-------------|-------------|

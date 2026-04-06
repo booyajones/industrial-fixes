@@ -27,7 +27,7 @@ description: "Carrier error code 21 signals a gas heating lockout — the furnac
 - **Gas valve not opening** — A failed gas valve solenoid means no gas reaches the burners even when the igniter is hot and everything else checks out.
 - **Control board failure** — Boards that can't properly sequence the ignition cycle will produce repeated heating lockouts without an obvious component failure.
 
-## Step-by-Step Fix
+## Step-by-Step Fix {#step-by-step-fix}
 
 1. **Document the flash code before resetting.** Note how many times the LED blinks — 2 flashes, pause, 1 flash = code 21. Then cycle the thermostat to OFF and wait 60 seconds to clear the lockout. This is not a fix; it's just clearing the board to allow diagnosis.
 
@@ -43,7 +43,7 @@ description: "Carrier error code 21 signals a gas heating lockout — the furnac
 
 7. **Clear and verify.** After any repair, cycle power fully (kill the 120V disconnect), wait 30 seconds, restore power, and run 3–5 full heat cycles back-to-back without resetting to confirm the lockout doesn't recur.
 
-## Parts That May Need Replacement
+## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
 | Part | Where to Buy | Typical Cost |
 |------|-------------|-------------|

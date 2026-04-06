@@ -30,7 +30,7 @@ The limit switch is doing exactly what it's designed to do. The fault is almost 
 - **Cracked heat exchanger** — A cracked exchanger disrupts airflow patterns and can cause hot spots that repeatedly trip the limit even when the blower is running correctly.
 - **Limit switch out of calibration or failed open** — Rare, but older limit switches can drift low and trip at normal operating temperatures.
 
-## Step-by-Step Fix
+## Step-by-Step Fix {#step-by-step-fix}
 
 1. **Check and replace the air filter immediately.** Pull the filter, hold it to light — if you can't see light through it, it's too dirty. Replace it now with the correct size and MERV rating (MERV 8–11 is ideal for most residential systems; MERV 13+ can restrict airflow on older furnaces).
 
@@ -48,7 +48,7 @@ The limit switch is doing exactly what it's designed to do. The fault is almost 
 
 8. **Verify return air temperature.** Clip a thermometer to the return air plenum. Temperature should be 55–75°F during steady-state operation. Above 80°F return air (common in homes with returns too close to the furnace) indicates system-level airflow problems.
 
-## Parts That May Need Replacement
+## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
 | Part | Where to Buy | Typical Cost |
 |------|-------------|-------------|

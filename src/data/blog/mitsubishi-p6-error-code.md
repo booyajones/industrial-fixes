@@ -30,7 +30,7 @@ This is one of the most common Mitsubishi mini split faults — and one of the m
 - **Dirty evaporator coil causing excess condensate** — A coil with significant dirt or biological growth produces condensate faster than a clean coil and can overwhelm a partially blocked drain.
 - **Failed condensate pump** — On installations where the drain runs uphill via a condensate pump, a dead pump will cause the pan to fill quickly.
 
-## Step-by-Step Fix
+## Step-by-Step Fix {#step-by-step-fix}
 
 1. **Turn the unit OFF** at the remote and the circuit breaker. Do not attempt drain service with the unit powered on.
 
@@ -48,7 +48,7 @@ This is one of the most common Mitsubishi mini split faults — and one of the m
 
 8. **Restore power and confirm operation.** Power the unit back on. The P6 fault should clear automatically once the float switch is in the down position. Run the unit for 15–20 minutes and confirm the drain pan stays empty.
 
-## Parts That May Need Replacement
+## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
 | Part | Where to Buy | Typical Cost |
 |------|-------------|-------------|

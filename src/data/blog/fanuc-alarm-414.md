@@ -30,7 +30,7 @@ Following error is always present during motion (it's physically impossible to h
 - **Motor coupling or ballscrew coupling slippage** — If the coupling between the motor shaft and the ballscrew slips, the motor spins but the axis doesn't move. The following error grows until alarm.
 - **Servo amplifier fault** — A failing amplifier may not deliver the commanded current, causing the motor to fall behind under load.
 
-## Step-by-Step Fix
+## Step-by-Step Fix {#step-by-step-fix}
 
 1. **Determine when the alarm triggers.** Does it happen at startup (before movement), during rapid traverse, during feed moves, or only during heavy cuts? Startup = encoder or parameter issue. During rapids = tolerance or gain issue. During heavy cuts = mechanical overload.
 
@@ -46,7 +46,7 @@ Following error is always present during motion (it's physically impossible to h
 
 7. **Check servo load meter during the fault conditions.** If following error alarms only during heavy cuts, the axis is being mechanically overloaded. Reduce depth of cut, feedrate, or increase the following error tolerance for that application.
 
-## Parts That May Need Replacement
+## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
 | Part | Where to Buy | Typical Cost |
 |------|-------------|-------------|

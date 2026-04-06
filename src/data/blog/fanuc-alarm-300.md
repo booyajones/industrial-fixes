@@ -4,7 +4,7 @@ author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-10T08:00:00Z
 modDatetime: 2024-03-10T08:00:00Z
 slug: fanuc-alarm-300
-featured: false
+featured: true
 draft: false
 tags:
   - cnc
@@ -31,7 +31,7 @@ The "n" in "n-TH AX" refers to the axis number — Alarm 300 with axis 1 = X axi
 - **Failed absolute encoder** — The encoder itself (the Pulse Coder unit attached to the servo motor) has failed internally. Less common than battery failure, but it happens, especially on motors with high hours.
 - **Servo amplifier failure** — The amp can misread encoder data during a fault condition and flag it as an APC alarm.
 
-## Step-by-Step Fix
+## Step-by-Step Fix {#step-by-step-fix}
 
 1. **Identify which axis is affected.** The alarm display will show which axis number (n-TH AX). Note this — if it's a Z axis on a vertical machining center, extra care is needed when re-referencing because the axis needs to be supported or moved up before homing.
 
@@ -47,7 +47,7 @@ The "n" in "n-TH AX" refers to the axis number — Alarm 300 with axis 1 = X axi
 
 7. **Set a battery replacement reminder.** Fanuc encoder batteries should be replaced every 1–2 years, proactively. Don't wait for Alarm 306 (low battery warning). Use the machine maintenance log.
 
-## Parts That May Need Replacement
+## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
 | Part | Where to Buy | Typical Cost |
 |------|-------------|-------------|

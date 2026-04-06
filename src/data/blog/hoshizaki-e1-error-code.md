@@ -4,7 +4,7 @@ author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-13T08:00:00Z
 modDatetime: 2024-03-13T08:00:00Z
 slug: hoshizaki-e1-error-code
-featured: false
+featured: true
 draft: false
 tags:
   - commercial-refrigeration

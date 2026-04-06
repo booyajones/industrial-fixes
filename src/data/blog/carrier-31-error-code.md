@@ -28,7 +28,7 @@ description: "Carrier error code 31 means the pressure switch is stuck open or f
 - **Blocked flue or vent pipe** — A partially blocked flue increases static resistance, reducing the draft at the pressure switch sensing port.
 - **Cracked inducer housing** — A crack in the inducer housing allows air to leak, reducing the negative pressure at the switch port.
 
-## Step-by-Step Fix
+## Step-by-Step Fix {#step-by-step-fix}
 
 1. **Verify the draft inducer starts during the heat call.** Initiate a heat cycle and listen for the inducer motor (the smaller motor on top/side of the heat exchanger) to start and ramp up within 5–10 seconds. If it doesn't start, the problem is upstream of the pressure switch — check inducer motor wiring and control board output.
 
@@ -44,7 +44,7 @@ description: "Carrier error code 31 means the pressure switch is stuck open or f
 
 7. **Clear and retest.** After repair, restore power and run 3 complete heat cycles. Confirm code 31 does not return. If it returns intermittently (only when cold, only in rain), the problem is likely moisture/condensate-related and requires fixing the drainage system.
 
-## Parts That May Need Replacement
+## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
 | Part | Where to Buy | Typical Cost |
 |------|-------------|-------------|

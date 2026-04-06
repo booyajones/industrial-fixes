@@ -43,7 +43,7 @@ This guide covers the most common True Refrigeration error codes and their fixes
 - **Wiring fault at controller** — Wire pulled from terminal block, terminal loose, or wire broken at the connector crimp.
 - **Controller board failure** — After a power surge or years of service, the analog input circuit on the True controller can fail.
 
-## Step-by-Step Fix for E1 / E2 Sensor Faults
+## Step-by-Step Fix for E1 / E2 Sensor Faults {#step-by-step-fix}
 
 1. **Identify which probe is faulting.** E1 = return air/room sensor, E2 = evaporator coil sensor. Both use identical NTC 10kΩ probes in most True models, but they're mounted in different locations.
 
@@ -65,7 +65,7 @@ This guide covers the most common True Refrigeration error codes and their fixes
 
 4. **Verify defrost is completing normally.** A unit stuck in defrost (F3 or dF that doesn't clear) won't cool until defrost ends. Check the defrost termination thermostat and the defrost heater.
 
-## Parts That May Need Replacement
+## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
 | Part | Where to Buy | Typical Cost |
 |------|-------------|-------------|
