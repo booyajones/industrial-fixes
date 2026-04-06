@@ -3,35 +3,18 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+Industrial Error Code Fixes exists for one reason: when your equipment throws a fault code at 2am and you need to know if it's a filter or a cracked heat exchanger, you shouldn't have to dig through a 300-page service manual.
 
-![Astro Paper](public/astropaper-og.jpg)
+Every guide on this site covers a real fault code on real equipment. Carrier, Fanuc, Mitsubishi, Hoshizaki, Navien, Trane, and 30+ other manufacturers. Each covers what the code means, the most likely causes in order of frequency, and a step-by-step diagnostic sequence. Parts tables list what you might need and where to get it.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+These guides are built from OEM service literature, manufacturer fault code databases, and field experience. They're written for technicians and experienced DIYers. We assume you know how to use a multimeter and aren't afraid to pull a panel.
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+## What we cover
 
-## Features
+- HVAC: furnaces, mini splits, commercial RTUs
+- Commercial refrigeration: walk-in coolers, reach-in cases, ice machines
+- CNC machines: Fanuc, Haas, Mazak, Siemens, Okuma
+- VFDs and motor drives: ABB, Yaskawa, Allen-Bradley
+- Boilers: gas and condensing, residential and commercial
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
-
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
-
-and so much more.
-
-## Show your support
-
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+If you need a part, the parts tables link to suppliers. If you need a tech, call one. Some of these repairs require a manometer, combustion analyzer, or licensed gas work. The guides tell you when that line is crossed.
