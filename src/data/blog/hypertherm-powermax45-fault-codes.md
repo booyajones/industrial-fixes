@@ -1,6 +1,6 @@
 ---
-title: "Hypertherm Powermax 45 Fault Code Guide"
-description: "Hypertherm Powermax45 fault codes: common 0-30, 0-70, pressure, consumable, and overtemp faults with causes and fixes."
+title: "Hypertherm Powermax 45 Fault Codes — Fix Guide"
+description: "Hypertherm Powermax 45 plasma cutter fault codes: what each code means and how to fix it."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
 author: "ErrorCodeFixes"
@@ -11,36 +11,43 @@ tags:
   - hypertherm
 ---
 
-## Hypertherm Powermax45 Fault Codes — What It Means
+## Hypertherm Powermax 45 Fault Codes — What They Mean
 
-The Hypertherm Powermax45 plasma cutter displays numeric fault codes on the front panel. Common codes involve gas pressure, torch consumables, internal temperature, and input power. Two of the most frequent are **0-30** and **0-70**, both already familiar to many fab shops.
+The Hypertherm Powermax 45 (and 45 XP) is one of the most widely used plasma cutters in fabrication shops and field service. It uses a fault code system displayed on the front panel LED to indicate problems. Fault codes appear as two-part numbers (e.g., 0-30, 0-50, 0-70).
+
+| Code | Meaning |
+|------|---------|
+| 0-30 | Shield missing or consumable fault |
+| 0-50 | No arc transfer |
+| 0-70 | DC bus undervoltage |
+| 0-10 | Overcurrent |
+| 0-20 | Input phase loss (three-phase units) |
 
 [Jump to Fix](#fix)
 
-## Common Causes
+## Most Common Powermax 45 Fault Codes and Fixes {#fix}
 
-- **Insufficient air pressure** — Shop air pressure too low or regulator restricted.
-- **Consumable issue** — Electrode, nozzle, or retaining cap not installed correctly.
-- **Overtemperature** — Duty cycle exceeded or cooling airflow blocked.
-- **Input power fault** — Wrong line voltage or loose input connection.
+### 0-30 — Consumable / Shield Fault
+Most common Powermax fault. Power off and inspect the torch — missing shield, damaged nozzle, worn electrode, or wrong consumable part numbers for the amperage setting. Reassemble carefully. Hand-tighten the shield cup only.
 
-## Step-by-Step Fix {#fix}
+### 0-50 — No Arc Transfer
+The pilot arc fired but didn't transfer to the workpiece. Causes: work clamp not on the workpiece (clamp on the table, not the part), gap too large (torch too far from metal), or severely worn consumables.
 
-1. Verify clean, dry compressed air at the correct pressure for the Powermax45.
-2. Remove the torch cap and inspect electrode, nozzle, swirl ring, and retaining cap.
-3. Replace any worn consumables and reassemble exactly in order.
-4. Check cooling air passages and make sure the fan is operating.
-5. Verify the machine is connected to the correct input voltage and the supply is stable.
-6. Restart and test cut quality.
+### 0-70 — DC Bus Undervoltage
+Input voltage too low. Check supply voltage at the machine under load. Eliminate extension cords. On generator power, verify the generator regulation is stable.
+
+### 0-10 — Overcurrent
+Torch directly shorted to workpiece or consumables arc-through on thick material. Clear any short and inspect consumables.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Electrode | Replace as a set with nozzle when worn |
-| Nozzle | Match amperage and torch type |
-| Retaining cap | Replace if cracked or cross-threaded |
-| Air filter element | If shop air is contaminated |
+| Electrode | Replace when pit depth exceeds 1/16" |
+| Nozzle | Replace when orifice is eroded |
+| Shield cup | Replace if cracked or threads are damaged |
+| Work clamp / lead | Replace if damaged |
 
 ## When to Call a Pro
-If fault codes remain after verifying air pressure and replacing consumables, the unit may have an internal sensor or power board issue. Hypertherm service can test those components quickly.
+
+0-70 or 0-10 faults that persist with correct input voltage and new consumables indicate an internal power supply fault. Hypertherm authorized service handles internal component repair.
