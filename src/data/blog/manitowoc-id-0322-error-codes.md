@@ -1,0 +1,46 @@
+---
+title: "Manitowoc ID-0322 Error Codes — Fix Guide"
+description: "Manitowoc ID-0322 ice machine error codes: what each means and how to fix it."
+pubDatetime: 2026-04-22T22:00:00Z
+modDatetime: 2026-04-22T22:00:00Z
+author: "ErrorCodeFixes"
+featured: false
+draft: false
+tags:
+  - refrigeration
+  - manitowoc
+---
+
+## Manitowoc ID-0322 Error Codes — What They Mean
+
+The Manitowoc ID-0322 produces approximately 321 lbs/day of Dice ice and is a common choice for undercounter and small restaurant applications. It uses the standard Manitowoc Indigo fault code system.
+
+| Code | Meaning | Urgency |
+|------|---------|---------|
+| 1 | Long harvest | Medium |
+| 2 | Harvest timeout | High |
+| 3 | Long freeze | Medium |
+| 6 | Water fill timeout | Medium |
+| E04 | High condenser temperature | High |
+| E05 | High pressure cutout | High |
+
+[Jump to Fix](#fix)
+
+## ID-0322 Specific Notes {#fix}
+
+The ID-0322 is often installed in tight undercounter spaces where ventilation is restricted. Codes 3 and E04 are very common in these installations because the condenser can't reject heat in an enclosed cabinet.
+
+**Undercounter ventilation check:** Verify there's at least 6 inches of clearance at the front (air intake) and that the hot air can escape. Recirculating hot exhaust air back through the intake causes chronic cycle faults on the ID-0322.
+
+**Code 6 on ID-0322:** The compact water inlet valve on this model clogs quickly with hard water scale. Soak the valve screen in white vinegar for 30 minutes when cleaning.
+
+## Parts Often Needed
+
+| Part | Notes |
+|------|-------|
+| Water inlet valve | Code 6 — compact valve specific to this model |
+| Manitowoc cleaner | Quarterly |
+
+## When to Call a Pro
+
+E05 high pressure cutout and sealed system work require EPA 608 certification.
