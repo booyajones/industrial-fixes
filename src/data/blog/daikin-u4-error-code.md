@@ -13,33 +13,33 @@ tags:
 
 ## Daikin U4 Error Code — What It Means
 
-Daikin error code U4 indicates a communication fault between the indoor unit and the outdoor unit. On Daikin split and VRV/VRF systems, U4 typically means the outdoor unit stopped receiving valid serial communication from the indoor unit (or vice versa), and the system has shut down to prevent operating in an undefined state. This is different from the refrigerant-related U4 on some older Daikin VRV systems — the specific meaning varies slightly by model family, so confirm against the unit's technical manual. On most residential and light-commercial Daikin units, U4 = communication failure.
+For the Daikin systems targeted here, U4 points to a refrigerant leak or low-pressure condition. The outdoor unit sees suction pressure or derived refrigerant conditions outside the safe operating window and shuts the system down before the compressor runs damaged from low mass flow or oil return problems. In the field, U4 usually shows up after a slow leak at a flare joint, service valve, branch box connection, or indoor coil. A severely restricted metering path can create the same symptom.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Damaged or loose communication wiring** — The S/S, S1/S2, or F1/F2 communication terminals on the indoor or outdoor unit have a loose wire, corroded terminal, or broken conductor. These small-gauge wires are vulnerable to mechanical damage.
-- **Power supply issue at outdoor unit** — If the outdoor unit loses its independent power feed or a breaker trips, it can no longer respond to indoor unit communication, generating U4 at the indoor unit.
-- **Shielding or grounding fault** — On longer wire runs, an ungrounded or improperly shielded communication cable picks up electrical noise that corrupts the serial signal.
-- **Failed indoor or outdoor control PCB** — After a power surge or extended moisture exposure, the communication transceiver on one of the PCBs may fail, preventing the handshake from completing.
+- **Refrigerant leak at flare or braze joint** — A slow leak drops system charge until suction pressure falls below the protection threshold.
+- **Service valves not fully open** — After service or installation, a partially front-seated liquid or suction valve can starve the circuit and mimic a low-charge fault.
+- **Restricted refrigerant flow** — A plugged filter drier, kinked liquid line, or metering restriction can pull suction pressure down even with charge still in the system.
+- **Pressure sensor fault** — A failed low-pressure transducer or control input can report an artificial low-pressure condition and post U4 even when the circuit is healthy.
 
 ## Step-by-Step Fix {#fix}
 
-1. **Check power to the outdoor unit** — Confirm the outdoor unit's breaker or disconnect is on and the unit has voltage at the terminal block. A tripped breaker or blown fuse eliminates outdoor unit communication.
-2. **Inspect F1/F2 (or S1/S2) terminals at both units** — Shut off both units. Remove the covers and locate the low-voltage terminal strip. Confirm communication wires are seated under their respective terminals and not corroded.
-3. **Test wire continuity** — Use a multimeter to verify the communication wire has continuity end-to-end and no short to ground. Replace the full run if damaged.
-4. **Power cycle both units in the correct order** — Restore outdoor unit power first, wait 2 minutes, then restore indoor unit power. This ensures the outdoor unit initializes before the indoor unit begins polling for communication.
-5. **Check for additional fault codes on outdoor PCB** — Pull the outdoor unit service cover and look at the diagnostic LED on the control board. An independent fault on the outdoor board (e.g., fan motor, refrigerant pressure) may be the real cause and U4 is secondary.
+1. **Check service valve position** — Verify both liquid and gas service valves are fully back-seated. A half-open valve is an easy miss after service work.
+2. **Inspect the circuit for signs of oil** — Look at flare nuts, branch joints, service ports, and indoor coil connections. Oil staining is the fastest field clue that refrigerant has been leaking.
+3. **Measure operating pressures** — Connect gauges rated for the refrigerant in the unit and compare suction and discharge pressures to expected values for the ambient and load.
+4. **Leak-check suspicious joints** — Use an electronic leak detector or nitrogen/soap solution to confirm leaks at flare connections, branch boxes, and coil joints.
+5. **Reset the system** — After repairing the leak, evacuating, and charging to the factory specification, cycle power and confirm U4 clears and pressures stabilize.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Communication cable (shielded 2-wire) | Replace entire run; field splices cause intermittent faults |
-| Indoor PCB | Replace if confirmed failed after eliminating wiring issues |
-| Outdoor PCB | Replace if outdoor board damaged by surge; confirm with Daikin diagnostic tool |
+| Refrigerant charge | Add only after leak repair and evacuation are complete |
+| Flare nuts or flare fittings | Replace any leaking connection instead of trying to reuse a damaged flare |
+| Pressure sensor | Replace if gauge readings are normal but the controller still reports a low-pressure fault |
 
 ## When to Call a Pro
 
-If replacing the communication wire doesn't clear U4 and both unit boards appear functional, the fault may require Daikin's Intelligent Touch Controller or a manufacturer diagnostic tool to read fault history and confirm which unit is the communication initiator vs. responder. This diagnosis is best handled by a Daikin-certified technician.
+Leak repair, evacuation, and charging require EPA 608 certification and the correct Daikin charge procedure. If U4 is real, running the unit low on charge can damage the compressor fast.
