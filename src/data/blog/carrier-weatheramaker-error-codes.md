@@ -1,0 +1,65 @@
+---
+title: "Carrier WeatherMaker Rooftop Unit Error Codes: Complete Guide"
+description: "Carrier WeatherMaker RTU error codes for 48 and 50 Series commercial rooftop units. Flash codes, fault descriptions, and technician-level fixes."
+pubDatetime: 2026-04-22T23:45:00Z
+modDatetime: 2026-04-22T23:45:00Z
+author: "ErrorCodeFixes"
+featured: false
+draft: false
+tags:
+  - hvac
+  - carrier
+  - rooftop-unit
+  - commercial-hvac
+---
+
+# Carrier WeatherMaker Rooftop Unit Error Codes
+
+Carrier WeatherMaker 48/50 Series RTUs use an LED diagnostic board that flashes fault codes. Count the LED flashes, wait for a 3-second pause, and count again. The total equals the fault code. Some newer units display codes on a 7-segment display.
+
+## WeatherMaker Flash Code Table
+
+| Code | Fault Description | Common Cause | Action |
+|------|------------------|--------------|--------|
+| 2 | Low-pressure lockout | Low refrigerant, dirty evaporator coil | Check static pressure, inspect filter |
+| 3 | High-pressure lockout | Dirty condenser coil, failed condenser fan | Wash coil, check fan rotation |
+| 11 | Ignition failure | No gas, weak spark, dirty flame sensor | Check gas pressure (3.5 in. w.c.) |
+| 12 | Flame sense fault | Dirty or cracked flame sensor | Clean or replace flame sensor rod |
+| 13 | Limit switch open | Restricted airflow, dirty filter | Replace filter, check blower wheel |
+| 14 | Ignition lockout | 3 failed ignition attempts | Manual reset required |
+| 21 | Gas valve fault | Failed gas valve or wiring issue | Check 24 VAC at gas valve |
+| 22 | Low combustion air | Blocked flue, failed inducer | Inspect flue and inducer pressure |
+| 23 | Draft safeguard switch | Blocked flue or failed inducer motor | Measure inducer manifold pressure |
+| 31 | High-pressure switch open | Refrigerant overcharge, blocked condenser | Check subcooling (10–15°F target) |
+| 33 | Limit switch lockout | Persistent overtemperature | Fix airflow restriction before reset |
+| 41 | Blower motor fault | Failed blower motor or run capacitor | Check capacitor µF, motor amps |
+| 42 | Inducer motor fault | Failed inducer motor or blocked flue | Check inducer amp draw |
+| 44 | Control board fault | Internal board failure | Replace IFC board |
+| 46 | Power failure | Power interruption detected | Check supply voltage and breakers |
+
+## Most Common WeatherMaker Faults
+
+### Code 13 — Limit Switch Open
+The top commercial RTU call. Work through in order: replace dirty filter, verify all grilles are open, inspect blower wheel for debris, then check limit switch continuity at room temperature.
+
+### Code 23 — Draft Safeguard Switch
+Measure inducer manifold pressure before condemning the pressure switch. Typical WeatherMaker spec is -0.20 to -0.35 in. w.c. at the pressure switch. A blocked flue screen is a common culprit.
+
+### Code 11 — Ignition Failure
+Check gas pressure first. Natural gas inlet pressure must be 5–7 in. w.c.; manifold pressure 3.5 in. w.c. Clean the flame sensor rod with steel wool — measure µA (must exceed 1.5 µA).
+
+### Code 3 — High Pressure
+Verify all condenser fan motors are running and drawing rated amps. Wash the condenser coil. Check refrigerant subcooling with manifold gauges.
+
+## Parts Commonly Needed
+
+| Part | Notes |
+|------|-------|
+| Flame sensor rod | Clean first; replace if µA reading is below 1.5 |
+| IFC board | Model-specific — cross-reference part number |
+| Limit switch | Match temperature rating exactly |
+| Run capacitor | Test µF with capacitor tester before condemning motor |
+| Inducer motor | Check capacitor before replacing motor |
+| Pressure switch | Verify switch spec matches flue pressure measured |
+
+> **Pro tip:** Carrier WeatherMaker IFC boards store the last 5 fault codes. Hold the diagnostic button 5 seconds to retrieve fault history before clearing codes.
