@@ -1,0 +1,57 @@
+---
+title: "Sullivan-Palatek Air Compressor Fault Codes — Complete Guide"
+description: "Sullivan-Palatek air compressor fault codes and alarms: causes, troubleshooting steps, and repair tips for rotary screw and reciprocating compressors."
+pubDatetime: 2026-04-22T21:00:00Z
+modDatetime: 2026-04-22T21:00:00Z
+author: "ErrorCodeFixes"
+featured: false
+draft: false
+tags:
+  - compressor
+  - sullivan-palatek
+  - industrial
+---
+
+## Sullivan-Palatek Compressor Fault Codes — Quick Reference
+
+Sullivan-Palatek compressors use electronic controllers that display fault codes and shutdown alarms related to temperature, pressure, motor overload, and sensor conditions. Models include rotary screw and reciprocating units used across industrial plants and contractors.
+
+| Fault | Meaning | Quick Fix |
+|-------|---------|-----------|
+| High Discharge Temp | Discharge air temperature exceeded limit | Check oil level, cooler, and fan |
+| Motor Overload | Motor current exceeded setpoint | Check voltage and load demand |
+| High Oil Temp | Oil temperature too high | Clean oil cooler, check oil level |
+| Low Oil Pressure | Oil system fault | Check oil level and filter |
+| Sensor Fault | Temp or pressure sensor signal lost | Inspect sensor and wiring |
+| Emergency Stop | E-stop button activated | Reset E-stop, check for hazard |
+| High Air Pressure | System pressure exceeded safety limit | Check pressure switch and unloader |
+| Service Due | Maintenance interval elapsed | Perform PM and reset counter |
+
+## Most Common Faults
+
+### High Discharge Temperature
+Discharge temperature shutdown is the most common fault on Sullivan-Palatek rotary screw compressors. Check the oil level first. Dirty or clogged oil coolers, failed cooling fans, and high ambient temperature all contribute. Clean cooler cores with dry air applied against normal airflow direction.
+
+### Motor Overload
+Verify incoming voltage on all three phases. Voltage imbalance above 2% causes significant current imbalance. Check demand — if the compressor runs fully loaded continuously, confirm the motor is correctly sized for the application.
+
+### Low Oil Pressure
+Check oil level and the oil filter condition. A clogged filter on a cold start will trip low oil pressure before the oil warms and flows freely. Replace the filter if it's past its interval.
+
+## Parts Often Needed
+
+| Part | Notes |
+|------|-------|
+| Oil filter | Replace at every service interval |
+| Oil separator element | Replace when differential pressure is high |
+| Discharge temperature sensor | Inspect on repeated high-temp faults |
+| Cooling fan motor | Check on high-temp shutdowns |
+
+## Jump to Fix
+
+- **High temp fault** → Check oil level → Clean cooler → Verify fan operation
+- **Motor overload** → Check voltage balance → Reduce demand → Check motor amps
+- **Low oil pressure** → Check oil level → Replace filter → Inspect oil pump
+
+## When to Call a Pro
+Repeated temperature or pressure faults after routine service indicate airend wear or cooling system failure that requires a qualified compressor technician.
