@@ -1,0 +1,46 @@
+---
+title: "LG Mini-Split CH67 Error Code — Causes & Fix"
+description: "What LG mini-split CH67 error code means, why the outdoor fan motor faults, and how to fix it step by step."
+pubDatetime: 2026-04-22T12:00:00Z
+modDatetime: 2026-04-22T12:00:00Z
+author: "ErrorCodeFixes"
+featured: false
+draft: false
+tags:
+  - mini-split
+  - lg
+---
+
+## LG Mini-Split CH67 Error Code — What It Means
+
+The LG CH67 error code indicates an **outdoor fan motor fault** — the outdoor unit's control board commanded the condenser fan to run but detected an abnormal speed or current condition. On LG dual-inverter systems, the outdoor fan motor is typically a DC brushless or BLDC type; the board monitors motor feedback and triggers CH67 if the fan doesn't reach speed, stalls, or draws unexpected current. The system shuts down to prevent compressor overheating from loss of condenser airflow.
+
+[Jump to Fix](#fix)
+
+## Common Causes
+
+- **Debris blocking the outdoor fan** — Leaves, plastic bags, or ice lodged in the fan blade or grille prevents the fan from spinning up; this is the most common cause.
+- **Failed outdoor fan motor** — Bearing failure or winding failure causes the motor to stall or draw excess current.
+- **Outdoor PCB fan output failure** — The board's fan driver circuit fails, sending incorrect signals or no signal to the BLDC motor.
+- **Damaged fan blade** — A cracked or imbalanced blade creates drag that overloads the motor.
+
+## Step-by-Step Fix {#fix}
+
+1. **Inspect the outdoor fan** — With the system off, look through the fan grille or top panel for debris. Remove any obstruction. Spin the fan blade by hand — it should rotate freely with no binding or scraping.
+2. **Check for ice** — In heating mode during cold weather, ice can build up and jam the fan. Allow the unit to defrost (defrost mode or ambient heat) and clear the ice before restarting.
+3. **Power-cycle the outdoor unit** — Turn off the breaker for 5 minutes. Restore and test. If CH67 clears and doesn't return, the fault may have been a momentary obstruction.
+4. **Inspect the fan motor wiring** — Check the connector between the fan motor and the outdoor PCB. Look for corrosion, damage, or pushed-out terminals.
+5. **Test DC voltage to the fan** — With the system calling for cooling, measure DC voltage at the fan motor connector from the PCB. If voltage is present but fan doesn't run, the motor is failed. If no voltage, the PCB fan driver is the issue.
+6. **Replace the fan motor** — LG outdoor fans are model-specific BLDC motors. Match the part number and shaft length exactly.
+
+## Parts Often Needed
+
+| Part | Notes |
+|------|-------|
+| Outdoor BLDC fan motor | LG-specific; match model and part number — wrong motor will re-fault |
+| Fan blade | Replace if cracked or visibly damaged |
+| Outdoor PCB | If board's fan driver is confirmed failed |
+
+## When to Call a Pro
+
+If the fan motor and blade are confirmed good but CH67 persists, the outdoor PCB requires replacement. LG outdoor PCBs on inverter systems are matched to the compressor and fan control parameters — incorrect substitution can damage the compressor. Use an LG-authorized dealer for parts and programming.
