@@ -1,4 +1,4 @@
----
+﻿---
 title: "Danfoss FC302 Complete Fault Code Guide — All Faults and Fixes"
 description: "Complete fault code guide for the Danfoss VLT AutomationDrive FC302, covering alarm and warning codes, causes, and step-by-step troubleshooting."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -20,20 +20,20 @@ The Danfoss FC302 VLT AutomationDrive is a high-feature industrial VFD used on c
 
 ## Danfoss FC302 Common Alarm and Fault Codes
 
-| Code | Meaning |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning |
 |------|---------|
-| Alarm 14 | Earth fault |
-| Alarm 16 | Short circuit |
-| Alarm 29 | Heatsink temperature |
-| Alarm 30 | Motor phase U missing |
-| Alarm 31 | Motor phase V missing |
-| Alarm 32 | Motor phase W missing |
-| Alarm 38 | Internal fault |
-| Alarm 46 | Power card supply |
-| Alarm 51 | AMA check failed |
-| Alarm 57 | DC link undervoltage |
-| Alarm 59 | Current limit |
-| Alarm 80 | Drive initialized to default value |
+| [Alarm 14](https://www.amazon.com/s?k=Alarm%2014&tag=errorcodefixe-20) | Earth fault |
+| [Alarm 16](https://www.amazon.com/s?k=Alarm%2016&tag=errorcodefixe-20) | Short circuit |
+| [Alarm 29](https://www.amazon.com/s?k=Alarm%2029&tag=errorcodefixe-20) | Heatsink temperature |
+| [Alarm 30](https://www.amazon.com/s?k=Alarm%2030&tag=errorcodefixe-20) | Motor phase U missing |
+| [Alarm 31](https://www.amazon.com/s?k=Alarm%2031&tag=errorcodefixe-20) | Motor phase V missing |
+| [Alarm 32](https://www.amazon.com/s?k=Alarm%2032&tag=errorcodefixe-20) | Motor phase W missing |
+| [Alarm 38](https://www.amazon.com/s?k=Alarm%2038&tag=errorcodefixe-20) | Internal fault |
+| [Alarm 46](https://www.amazon.com/s?k=Alarm%2046&tag=errorcodefixe-20) | Power card supply |
+| [Alarm 51](https://www.amazon.com/s?k=Alarm%2051&tag=errorcodefixe-20) | AMA check failed |
+| [Alarm 57](https://www.amazon.com/s?k=Alarm%2057&tag=errorcodefixe-20) | DC link undervoltage |
+| [Alarm 59](https://www.amazon.com/s?k=Alarm%2059&tag=errorcodefixe-20) | Current limit |
+| [Alarm 80](https://www.amazon.com/s?k=Alarm%2080&tag=errorcodefixe-20) | Drive initialized to default value |
 
 ## Common Causes by Code
 
@@ -58,12 +58,12 @@ The Danfoss FC302 VLT AutomationDrive is a high-feature industrial VFD used on c
 
 | Part | Notes |
 |------|-------|
-| Cooling fan kit | Common maintenance item on older FC302 drives |
-| Input fuses | Check for undervoltage or single-phasing |
-| Motor cable | Replace if insulation is damaged |
-| LCP keypad | Useful when display or navigation is unreliable |
-| Power card | Possible cause of Alarm 46 or internal faults |
-| Drive | For persistent Alarm 38 or output section failures |
+| [Cooling fan kit](https://www.amazon.com/s?k=Cooling%20fan%20kit&tag=errorcodefixe-20) | Common maintenance item on older FC302 drives |
+| [Input fuses](https://www.amazon.com/s?k=Input%20fuses&tag=errorcodefixe-20) | Check for undervoltage or single-phasing |
+| [Motor cable](https://www.amazon.com/s?k=Motor%20cable&tag=errorcodefixe-20) | Replace if insulation is damaged |
+| [LCP keypad](https://www.amazon.com/s?k=LCP%20keypad&tag=errorcodefixe-20) | Useful when display or navigation is unreliable |
+| [Power card](https://www.amazon.com/s?k=Power%20card&tag=errorcodefixe-20) | Possible cause of Alarm 46 or internal faults |
+| [Drive](https://www.amazon.com/s?k=Drive&tag=errorcodefixe-20) | For persistent Alarm 38 or output section failures |
 
 ## When to Call a Pro
 

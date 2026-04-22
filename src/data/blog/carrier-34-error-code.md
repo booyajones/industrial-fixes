@@ -1,4 +1,4 @@
----
+﻿---
 title: "Carrier 34 Error Code — Ignition Proving Failure Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-01T08:00:00Z
@@ -46,12 +46,9 @@ description: "Carrier error code 34 means ignition proving failure — the furna
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Where to Buy | Typical Cost |
-|------|-------------|-------------|
-| Flame sensor rod (universal, replaces OEM) | Carrier dealer, Johnstone Supply, Grainger | $8–$20 |
-| Hot surface igniter — Carrier/Bryant OEM (Part #LH33ZS004) | Carrier dealer, HVAC Supply Outlet | $30–$65 |
-| Gas valve — White-Rodgers 36E (common Carrier app) | Johnstone Supply, Wittichen Supply | $80–$180 |
-| Carrier control board (Part #HK42FZ series) | Carrier OEM parts dealer | $150–$300 |
+| Part | Where to Buy | Typical Cost | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |-------------|-------------|
+| Flame sensor rod (universal, replaces OEM) | [Carrier dealer, Johnstone Supply, Grainger](https://www.amazon.com/s?k=Carrier%20dealer%2C%20Johnstone%20Supply%2C%20Grainger&tag=errorcodefixe-20) | $8–$20 |
+| [Hot surface igniter — Carrier/Bryant OEM (Part #LH33ZS004)](https://www.amazon.com/s?k=Hot%20surface%20igniter%20%E2%80%94%20Carrier%2FBryant%20OEM%20(Part%20%23LH33ZS004)&tag=errorcodefixe-20) | Carrier dealer, HVAC Supply Outlet | $30–$65 | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Gas valve — White-Rodgers 36E (common Carrier app) | Johnstone Supply, Wittichen Supply | [$80–$180](https://www.amazon.com/s?k=%2480%E2%80%93%24180&tag=errorcodefixe-20) |  | Carrier control board (Part #HK42FZ series) | [Carrier OEM parts dealer](https://www.amazon.com/s?k=Carrier%20OEM%20parts%20dealer&tag=errorcodefixe-20) | $150–$300 |
 
 ## When to Call a Professional
 

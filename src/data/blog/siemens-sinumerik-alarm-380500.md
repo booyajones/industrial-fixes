@@ -1,4 +1,4 @@
----
+﻿---
 title: "Siemens Sinumerik Alarm 380500 — Causes & Fix"
 description: "What Siemens Sinumerik alarm 380500 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,9 +36,9 @@ Siemens Sinumerik alarm 380500 (%1 is a group alarm for drive (SINAMICS/611D) fa
 
 | Part | Notes |
 |------|-------|
-| DRIVE-CLiQ cable | Replace if signal quality is degraded or cable is physically damaged |
-| SINAMICS S120 motor module | Replace if hardware fault confirmed in drive diagnostics |
-| Encoder cable (SMC to motor) | Replace if encoder fault is the confirmed sub-fault |
+| [DRIVE-CLiQ cable](https://www.amazon.com/s?k=DRIVE-CLiQ%20cable&tag=errorcodefixe-20) | Replace if signal quality is degraded or cable is physically damaged |
+| [SINAMICS S120 motor module](https://www.amazon.com/s?k=SINAMICS%20S120%20motor%20module&tag=errorcodefixe-20) | Replace if hardware fault confirmed in drive diagnostics |
+| [Encoder cable (SMC to motor)](https://www.amazon.com/s?k=Encoder%20cable%20(SMC%20to%20motor)&tag=errorcodefixe-20) | Replace if encoder fault is the confirmed sub-fault |
 
 ## When to Call a Pro
 

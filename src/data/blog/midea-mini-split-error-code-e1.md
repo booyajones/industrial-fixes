@@ -1,4 +1,4 @@
----
+﻿---
 title: "Midea Mini Split E1 Error Code — Causes & Fix"
 description: "What Midea mini split error code E1 means, why high pressure protection trips, and how to diagnose and fix it."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -38,10 +38,10 @@ E1 on a Midea mini split indicates a high pressure fault. The high-pressure swit
 
 | Part | Notes |
 |------|-------|
-| Condenser fan run capacitor | Most common cause of fan-related E1 faults; inexpensive fix |
-| Condenser fan motor | Replace if capacitor is good but motor will not run |
-| High-pressure switch | Replace if switch opens below rated cutout |
-| Refrigerant (R-410A) | Adjust charge only with certified technician and manifold gauges |
+| [Condenser fan run capacitor](https://www.amazon.com/s?k=Condenser%20fan%20run%20capacitor&tag=errorcodefixe-20) | Most common cause of fan-related E1 faults; inexpensive fix |
+| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | Replace if capacitor is good but motor will not run |
+| [High-pressure switch](https://www.amazon.com/s?k=High-pressure%20switch&tag=errorcodefixe-20) | Replace if switch opens below rated cutout |
+| [Refrigerant (R-410A)](https://www.amazon.com/s?k=Refrigerant%20(R-410A)&tag=errorcodefixe-20) | Adjust charge only with certified technician and manifold gauges |
 
 ## When to Call a Pro
 

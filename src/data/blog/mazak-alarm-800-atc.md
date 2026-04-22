@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mazak Alarm 800 — Tool Magazine Fault"
 description: "Mazak alarm 800 tool magazine fault: causes, magazine sensor checks, ATC timing issues, and repair steps for Mazak machining centers."
 pubDatetime: 2026-04-22T19:00:00Z
@@ -39,10 +39,10 @@ Mazak alarm **800** is typically a **tool magazine or ATC positioning fault**. T
 
 | Part | Notes |
 |------|-------|
-| Proximity sensor | Home and pocket sensors fail from coolant/chip exposure |
-| Magazine motor brake | Causes drag or incomplete index |
-| ATC air valve | Check timing and cylinder response |
-| Tool pocket hardware | Bent pocket hardware causes jams |
+| [Proximity sensor](https://www.amazon.com/s?k=Proximity%20sensor&tag=errorcodefixe-20) | Home and pocket sensors fail from coolant/chip exposure |
+| [Magazine motor brake](https://www.amazon.com/s?k=Magazine%20motor%20brake&tag=errorcodefixe-20) | Causes drag or incomplete index |
+| [ATC air valve](https://www.amazon.com/s?k=ATC%20air%20valve&tag=errorcodefixe-20) | Check timing and cylinder response |
+| [Tool pocket hardware](https://www.amazon.com/s?k=Tool%20pocket%20hardware&tag=errorcodefixe-20) | Bent pocket hardware causes jams |
 
 ## When to Call a Pro
 If the magazine is out of timing or the Geneva/index mechanism needs adjustment, call a Mazak service tech. ATC timing errors can escalate into tool changer crashes quickly.

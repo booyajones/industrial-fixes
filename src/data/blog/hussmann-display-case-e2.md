@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hussmann Display Case E2 Error Code — Defrost Circuit Fault"
 description: "What the Hussmann display case E2 error code means, why the defrost circuit fault triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -38,10 +38,10 @@ On Hussmann supermarket display cases (reach-in and open-air merchandisers), E2 
 
 | Part | Notes |
 |------|-------|
-| Defrost heater assembly | Match wattage and physical size from case engineering data |
-| Defrost termination thermostat | Match setpoint temperature and style (normally open/closed) |
-| Door gasket set | Replace if torn or not sealing flat against the door frame |
-| Defrost contactor | Replace if contactor doesn't pull in during defrost initiation |
+| [Defrost heater assembly](https://www.amazon.com/s?k=Defrost%20heater%20assembly&tag=errorcodefixe-20) | Match wattage and physical size from case engineering data |
+| [Defrost termination thermostat](https://www.amazon.com/s?k=Defrost%20termination%20thermostat&tag=errorcodefixe-20) | Match setpoint temperature and style (normally open/closed) |
+| [Door gasket set](https://www.amazon.com/s?k=Door%20gasket%20set&tag=errorcodefixe-20) | Replace if torn or not sealing flat against the door frame |
+| [Defrost contactor](https://www.amazon.com/s?k=Defrost%20contactor&tag=errorcodefixe-20) | Replace if contactor doesn't pull in during defrost initiation |
 
 ## When to Call a Pro
 

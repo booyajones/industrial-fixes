@@ -1,4 +1,4 @@
----
+﻿---
 title: "Emerson E2 Refrigeration Controller Error Codes - Complete Guide"
 description: "Emerson (Copeland) E2 refrigeration controller error codes and alarms for supermarket and cold storage: causes and fix steps."
 pubDatetime: 2026-04-22T20:00:00Z
@@ -17,18 +17,10 @@ tags:
 
 The Emerson E2 (formerly Alerton, now Emerson Climate Technologies) is a refrigeration and HVAC supervisory controller used in supermarkets, convenience stores, and cold storage. Alarms display on the E2 touchscreen and via the Emerson Store Connect cloud platform.
 
-| Alarm | Device | Meaning | Quick Fix |
-|-------|--------|---------|-----------|
-| Sensor Failure | Case/Rack | Sensor open, short, or out of range | Check sensor wiring |
-| Temperature High | Refrigerated case | Case temp above setpoint | Check defrost, door seals, evap fan |
-| Discharge Pressure High | Compressor rack | High head pressure | Check condenser, refrigerant |
-| Suction Pressure Low | Rack | Low suction pressure | Check expansion valve, refrigerant |
-| Low Superheat | Circuit | Flood-back condition | Check TXV or EEV |
-| High Superheat | Circuit | TXV/EEV starving | Check TXV setting or EEV stepper |
-| Compressor Fault | Rack | Compressor failure or alarm | Check compressor controller |
-| Defrost Fail | Case | Defrost didn't complete | Check defrost heater and termination |
-| Communication Fault | I/O board | E2 cannot reach I/O node | Check RS-485 wiring |
-| Oil Failure | Compressor | Low oil pressure | Check oil level and crankcase |
+| [Alarm](https://www.amazon.com/s?k=Alarm&tag=errorcodefixe-20) | Device | Meaning | [Quick Fix](https://www.amazon.com/s?k=Quick%20Fix&tag=errorcodefixe-20) |  |-------|--------|---------|-----------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Sensor Failure | Case/Rack | [Sensor open, short, or out of range](https://www.amazon.com/s?k=Sensor%20open%2C%20short%2C%20or%20out%20of%20range&tag=errorcodefixe-20) | Check sensor wiring |
+| [Temperature High](https://www.amazon.com/s?k=Temperature%20High&tag=errorcodefixe-20) | Refrigerated case | Case temp above setpoint | [Check defrost, door seals, evap fan](https://www.amazon.com/s?k=Check%20defrost%2C%20door%20seals%2C%20evap%20fan&tag=errorcodefixe-20) |  | Discharge Pressure High | [Compressor rack](https://www.amazon.com/s?k=Compressor%20rack&tag=errorcodefixe-20) | High head pressure | Check condenser, refrigerant | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Suction Pressure Low | Rack | [Low suction pressure](https://www.amazon.com/s?k=Low%20suction%20pressure&tag=errorcodefixe-20) | Check expansion valve, refrigerant |
+| [Low Superheat](https://www.amazon.com/s?k=Low%20Superheat&tag=errorcodefixe-20) | Circuit | Flood-back condition | [Check TXV or EEV](https://www.amazon.com/s?k=Check%20TXV%20or%20EEV&tag=errorcodefixe-20) |  | High Superheat | [Circuit](https://www.amazon.com/s?k=Circuit&tag=errorcodefixe-20) | TXV/EEV starving | Check TXV setting or EEV stepper | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Compressor Fault | Rack | [Compressor failure or alarm](https://www.amazon.com/s?k=Compressor%20failure%20or%20alarm&tag=errorcodefixe-20) | Check compressor controller |
+| [Defrost Fail](https://www.amazon.com/s?k=Defrost%20Fail&tag=errorcodefixe-20) | Case | Defrost didn't complete | [Check defrost heater and termination](https://www.amazon.com/s?k=Check%20defrost%20heater%20and%20termination&tag=errorcodefixe-20) |  | Communication Fault | [I/O board](https://www.amazon.com/s?k=I%2FO%20board&tag=errorcodefixe-20) | E2 cannot reach I/O node | Check RS-485 wiring | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Oil Failure | Compressor | [Low oil pressure](https://www.amazon.com/s?k=Low%20oil%20pressure&tag=errorcodefixe-20) | Check oil level and crankcase |
 
 ## Most Common Faults
 
@@ -48,11 +40,11 @@ E2 defrost fail alarms occur when a defrost cycle doesn't terminate within the m
 
 | Part | Notes |
 |------|-------|
-| E2 temperature sensor (NTC) | Replace on sensor failure |
-| Defrost heater element | Replace on defrost fail |
-| Defrost termination thermostat | Replace on defrost timeout |
-| Evaporator fan motor | Replace on case temp alarm |
-| E2 I/O board | Replace on communication fault |
+| [E2 temperature sensor (NTC)](https://www.amazon.com/s?k=E2%20temperature%20sensor%20(NTC)&tag=errorcodefixe-20) | Replace on sensor failure |
+| [Defrost heater element](https://www.amazon.com/s?k=Defrost%20heater%20element&tag=errorcodefixe-20) | Replace on defrost fail |
+| [Defrost termination thermostat](https://www.amazon.com/s?k=Defrost%20termination%20thermostat&tag=errorcodefixe-20) | Replace on defrost timeout |
+| [Evaporator fan motor](https://www.amazon.com/s?k=Evaporator%20fan%20motor&tag=errorcodefixe-20) | Replace on case temp alarm |
+| [E2 I/O board](https://www.amazon.com/s?k=E2%20I%2FO%20board&tag=errorcodefixe-20) | Replace on communication fault |
 
 ## When to Call a Pro
 Emerson E2 refrigerant circuit diagnostics, EEV calibration, and compressor rack management require EPA Section 608 certification and E2 training. Incorrect setpoint changes can cause food safety violations.

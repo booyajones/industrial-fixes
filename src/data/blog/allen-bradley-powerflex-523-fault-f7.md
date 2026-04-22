@@ -1,4 +1,4 @@
----
+﻿---
 title: "Allen Bradley PowerFlex 523 F7 Fault — Causes & Fix"
 description: "What Allen Bradley PowerFlex 523 Fault F7 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -36,8 +36,8 @@ Fault F7 on the Allen Bradley PowerFlex 523 indicates motor overload — the dri
 
 | Part | Notes |
 |------|-------|
-| Pump impeller / strainer | If cavitation or blockage was root cause |
-| Panel cooling fan | If ambient temperature was root cause |
+| [Pump impeller / strainer](https://www.amazon.com/s?k=Pump%20impeller%20%2F%20strainer&tag=errorcodefixe-20) | If cavitation or blockage was root cause |
+| [Panel cooling fan](https://www.amazon.com/s?k=Panel%20cooling%20fan&tag=errorcodefixe-20) | If ambient temperature was root cause |
 
 ## When to Call a Pro
 

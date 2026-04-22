@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hoshizaki KM-1301 Error Codes — Complete Guide"
 description: "Hoshizaki KM-1301 error codes: freeze cycle, harvest cycle, thermistor, and water system faults with causes and fixes."
 pubDatetime: 2026-04-22T16:00:00Z
@@ -37,10 +37,10 @@ The Hoshizaki KM-1301 is a large-capacity crescent cuber used in hotels, restaur
 
 | Part | Notes |
 |------|-------|
-| Thermistor | KM-series specific probe |
-| Float switch | Common scale-related failure point |
-| Hot gas valve coil | Replace if not energizing |
-| Water inlet valve | If leaking or slow-filling |
+| [Thermistor](https://www.amazon.com/s?k=Thermistor&tag=errorcodefixe-20) | KM-series specific probe |
+| [Float switch](https://www.amazon.com/s?k=Float%20switch&tag=errorcodefixe-20) | Common scale-related failure point |
+| [Hot gas valve coil](https://www.amazon.com/s?k=Hot%20gas%20valve%20coil&tag=errorcodefixe-20) | Replace if not energizing |
+| [Water inlet valve](https://www.amazon.com/s?k=Water%20inlet%20valve&tag=errorcodefixe-20) | If leaking or slow-filling |
 
 ## When to Call a Pro
 If the KM-1301 is running long cycles with a clean condenser and good water flow, the issue may be refrigerant charge, a restricted TXV, or a hot gas valve problem. Those are refrigeration service jobs.

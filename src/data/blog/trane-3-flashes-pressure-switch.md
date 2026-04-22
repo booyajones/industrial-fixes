@@ -1,4 +1,4 @@
----
+﻿---
 title: "Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide"
 description: "Trane 3 flashes specifically indicating a pressure switch fault. This guide covers differential pressure switch testing, hose tracing, condensate drain diagnosis, and inducer verification."
 pubDatetime: 2026-04-22T18:00:00Z
@@ -20,10 +20,10 @@ On most Trane furnaces, **3 flashes** from the diagnostic LED means a **pressure
 
 ## The Two Types of Trane Pressure Switch Faults
 
-| Scenario | What It Means |
+| [Scenario](https://www.amazon.com/s?k=Scenario&tag=errorcodefixe-20) | What It Means |
 |---|---|
-| Switch won't close (stuck open) | Inducer running but no/low draft — most common |
-| Switch won't open (stuck closed) | Welded contacts or condensate in switch — less common |
+| [Switch won't close (stuck open)](https://www.amazon.com/s?k=Switch%20won't%20close%20(stuck%20open)&tag=errorcodefixe-20) | Inducer running but no/low draft — most common |
+| [Switch won't open (stuck closed)](https://www.amazon.com/s?k=Switch%20won't%20open%20(stuck%20closed)&tag=errorcodefixe-20) | Welded contacts or condensate in switch — less common |
 
 Both cause 3 flashes but require different repairs.
 
@@ -79,12 +79,9 @@ Even if the switch and hoses are good, a worn inducer motor may not generate eno
 
 ## Pressure Switch Reference Values (Common Trane Models)
 
-| Model Series | Switch Rating | Switch Part |
-|---|---|---|
-| TUD/TDX 80% | -0.45" WC | SWT2641, SWT02641 |
-| XR95 (condensing) | -0.20" WC, -1.75" WC | Multiple switches |
-| XV95 (2-stage) | Dual switch assembly | CNT04784 |
-| XC95M (modulating) | 3 switches | Multiple |
+| [Model Series](https://www.amazon.com/s?k=Model%20Series&tag=errorcodefixe-20) | Switch Rating | Switch Part | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | --- |---|---|
+| TUD/TDX 80% | [-0.45" WC](https://www.amazon.com/s?k=-0.45%22%20WC&tag=errorcodefixe-20) | SWT2641, SWT02641 |
+| [XR95 (condensing)](https://www.amazon.com/s?k=XR95%20(condensing)&tag=errorcodefixe-20) | -0.20" WC, -1.75" WC | Multiple switches | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | XV95 (2-stage) | Dual switch assembly | [CNT04784](https://www.amazon.com/s?k=CNT04784&tag=errorcodefixe-20) |  | XC95M (modulating) | [3 switches](https://www.amazon.com/s?k=3%20switches&tag=errorcodefixe-20) | Multiple |
 
 *Always verify on the IFC board label or tech spec sheet for your specific model.*
 
@@ -92,11 +89,11 @@ Even if the switch and hoses are good, a worn inducer motor may not generate eno
 
 | Part | Typical Cost |
 |---|---|
-| Pressure switch (generic) | $15–45 |
-| OEM Trane pressure switch | $40–90 |
-| Inducer motor assembly | $150–400 |
-| Condensate trap kit | $15–30 |
-| Drain line tubing (per foot) | $1–2 |
+| [Pressure switch (generic)](https://www.amazon.com/s?k=Pressure%20switch%20(generic)&tag=errorcodefixe-20) | $15–45 |
+| [OEM Trane pressure switch](https://www.amazon.com/s?k=OEM%20Trane%20pressure%20switch&tag=errorcodefixe-20) | $40–90 |
+| [Inducer motor assembly](https://www.amazon.com/s?k=Inducer%20motor%20assembly&tag=errorcodefixe-20) | $150–400 |
+| [Condensate trap kit](https://www.amazon.com/s?k=Condensate%20trap%20kit&tag=errorcodefixe-20) | $15–30 |
+| [Drain line tubing (per foot)](https://www.amazon.com/s?k=Drain%20line%20tubing%20(per%20foot)&tag=errorcodefixe-20) | $1–2 |
 
 ## When Code 3 Becomes Code 4 or Code 6
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Lennox Mini Split Error Code E1 — Causes & Fix"
 description: "What Lennox mini split error code E1 means, why communication fails, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -38,9 +38,9 @@ E1 on a Lennox mini split (MLA, MCA, or MPA series) signals a communication faul
 
 | Part | Notes |
 |------|-------|
-| S-wire / signal wire | 18 AWG, 2-conductor shielded recommended |
-| Outdoor control PCB | Lennox OEM; verify firmware compatibility |
-| Indoor control PCB | Replace only if outdoor board swap does not resolve |
+| [S-wire / signal wire](https://www.amazon.com/s?k=S-wire%20%2F%20signal%20wire&tag=errorcodefixe-20) | 18 AWG, 2-conductor shielded recommended |
+| [Outdoor control PCB](https://www.amazon.com/s?k=Outdoor%20control%20PCB&tag=errorcodefixe-20) | Lennox OEM; verify firmware compatibility |
+| [Indoor control PCB](https://www.amazon.com/s?k=Indoor%20control%20PCB&tag=errorcodefixe-20) | Replace only if outdoor board swap does not resolve |
 
 ## When to Call a Pro
 

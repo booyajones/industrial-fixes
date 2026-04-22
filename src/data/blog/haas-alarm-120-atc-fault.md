@@ -1,4 +1,4 @@
----
+﻿---
 title: "Haas Alarm 120 ATC Fault — Causes & Fix"
 description: "What Haas Alarm 120 Automatic Tool Changer fault means, why it trips, and how to clear and fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,10 +36,10 @@ Haas **Alarm 120** is an **Automatic Tool Changer (ATC) fault** — the tool cha
 
 | Part | Notes |
 |------|-------|
-| ATC proximity switch | Replace when LED state is wrong for the arm's known position |
-| ATC motor or gear drive | Replace when motor tests show winding fault or drive won't turn under power |
-| Tool retention knob | Replace if a tool is dropping out of the carousel pocket |
-| Tool holder | Inspect BT/CAT holders for damage that prevents proper seating |
+| [ATC proximity switch](https://www.amazon.com/s?k=ATC%20proximity%20switch&tag=errorcodefixe-20) | Replace when LED state is wrong for the arm's known position |
+| [ATC motor or gear drive](https://www.amazon.com/s?k=ATC%20motor%20or%20gear%20drive&tag=errorcodefixe-20) | Replace when motor tests show winding fault or drive won't turn under power |
+| [Tool retention knob](https://www.amazon.com/s?k=Tool%20retention%20knob&tag=errorcodefixe-20) | Replace if a tool is dropping out of the carousel pocket |
+| [Tool holder](https://www.amazon.com/s?k=Tool%20holder&tag=errorcodefixe-20) | Inspect BT/CAT holders for damage that prevents proper seating |
 
 ## When to Call a Pro
 

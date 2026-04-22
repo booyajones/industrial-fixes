@@ -1,4 +1,4 @@
----
+﻿---
 title: "Johnson Controls HVAC VFD Fault Codes — Common Faults and Fixes"
 description: "Guide to Johnson Controls variable frequency drive fault codes used in HVAC systems, what each fault means, and how to fix the most common problems."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -19,16 +19,16 @@ Johnson Controls uses variable frequency drives from multiple OEM manufacturers 
 
 ## Most Common JCI VFD Fault Codes
 
-| Code | Meaning |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning |
 |------|---------|
-| OC / OCA | Overcurrent — motor drawing excess amps |
-| OV | Overvoltage — DC bus voltage too high |
-| UV | Undervoltage — DC bus voltage too low |
-| OH | Overheat — drive heat sink temperature exceeded |
-| GF | Ground fault — current path to ground detected |
-| OL / OLT | Motor overload — thermal model exceeded |
-| LF | Input phase loss — single-phasing on supply |
-| EF | External fault — remote fault input activated |
+| [OC / OCA](https://www.amazon.com/s?k=OC%20%2F%20OCA&tag=errorcodefixe-20) | Overcurrent — motor drawing excess amps |
+| [OV](https://www.amazon.com/s?k=OV&tag=errorcodefixe-20) | Overvoltage — DC bus voltage too high |
+| [UV](https://www.amazon.com/s?k=UV&tag=errorcodefixe-20) | Undervoltage — DC bus voltage too low |
+| [OH](https://www.amazon.com/s?k=OH&tag=errorcodefixe-20) | Overheat — drive heat sink temperature exceeded |
+| [GF](https://www.amazon.com/s?k=GF&tag=errorcodefixe-20) | Ground fault — current path to ground detected |
+| [OL / OLT](https://www.amazon.com/s?k=OL%20%2F%20OLT&tag=errorcodefixe-20) | Motor overload — thermal model exceeded |
+| [LF](https://www.amazon.com/s?k=LF&tag=errorcodefixe-20) | Input phase loss — single-phasing on supply |
+| [EF](https://www.amazon.com/s?k=EF&tag=errorcodefixe-20) | External fault — remote fault input activated |
 
 ## Common Causes
 
@@ -52,10 +52,10 @@ Johnson Controls uses variable frequency drives from multiple OEM manufacturers 
 
 | Part | Notes |
 |------|-------|
-| Drive cooling fan (internal) | Match voltage and airflow to original; JCI part number cross-references to Hitachi or other OEM |
-| Input fuse set | Match voltage and amp rating from drive nameplate |
-| Dynamic braking resistor | For OV faults on high-inertia fans without adequate deceleration ramp |
-| Replacement VFD | For output IGBT failure confirmed by no-load OC test |
+| [Drive cooling fan (internal)](https://www.amazon.com/s?k=Drive%20cooling%20fan%20(internal)&tag=errorcodefixe-20) | Match voltage and airflow to original; JCI part number cross-references to Hitachi or other OEM |
+| [Input fuse set](https://www.amazon.com/s?k=Input%20fuse%20set&tag=errorcodefixe-20) | Match voltage and amp rating from drive nameplate |
+| [Dynamic braking resistor](https://www.amazon.com/s?k=Dynamic%20braking%20resistor&tag=errorcodefixe-20) | For OV faults on high-inertia fans without adequate deceleration ramp |
+| [Replacement VFD](https://www.amazon.com/s?k=Replacement%20VFD&tag=errorcodefixe-20) | For output IGBT failure confirmed by no-load OC test |
 
 ## When to Call a Pro
 

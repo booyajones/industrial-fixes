@@ -1,4 +1,4 @@
----
+﻿---
 title: "Carrier Heat Pump E1 Error Code — Causes & Fix"
 description: "What Carrier heat pump E1 error code means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,9 +36,9 @@ E1 on a Carrier heat pump system indicates a communication fault between the ind
 
 | Part | Notes |
 |------|-------|
-| Communication wire (18/2 shielded) | Replace run completely if damaged; splices are unreliable |
-| Indoor air handler control board | Replace if board damage is confirmed post-surge |
-| Outdoor unit control board | Replace if outdoor board transceiver is confirmed failed |
+| [Communication wire (18/2 shielded)](https://www.amazon.com/s?k=Communication%20wire%20(18%2F2%20shielded)&tag=errorcodefixe-20) | Replace run completely if damaged; splices are unreliable |
+| [Indoor air handler control board](https://www.amazon.com/s?k=Indoor%20air%20handler%20control%20board&tag=errorcodefixe-20) | Replace if board damage is confirmed post-surge |
+| [Outdoor unit control board](https://www.amazon.com/s?k=Outdoor%20unit%20control%20board&tag=errorcodefixe-20) | Replace if outdoor board transceiver is confirmed failed |
 
 ## When to Call a Pro
 

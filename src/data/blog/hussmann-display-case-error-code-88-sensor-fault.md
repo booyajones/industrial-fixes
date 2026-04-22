@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hussmann Refrigeration Display Case Error Code 88 — Sensor Fault Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-15T08:00:00Z
@@ -48,11 +48,8 @@ Hussmann display cases (the P series, R series, and I series merchandisers found
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Part Number | Typical Cost | Where to Buy |
-|------|------------|-------------|-------------|
-| Hussmann NTC Temperature Sensor | 0528900 | $25–$38 | Parts Town / Amazon |
-| Sensor Connector Kit (2-pin) | Generic 2-pin Molex | $5–$10 | Amazon / electrical supply |
-| Hussmann Case Controller (if board failed) | Model-specific | $250–$450 | Hussmann dealer / Parts Town |
+| Part | Part Number | Typical Cost | [Where to Buy](https://www.amazon.com/s?k=Where%20to%20Buy&tag=errorcodefixe-20) |  |------|------------|-------------|-------------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Hussmann NTC Temperature Sensor | 0528900 | [$25–$38](https://www.amazon.com/s?k=%2425%E2%80%93%2438&tag=errorcodefixe-20) | Parts Town / Amazon |
+| [Sensor Connector Kit (2-pin)](https://www.amazon.com/s?k=Sensor%20Connector%20Kit%20(2-pin)&tag=errorcodefixe-20) | Generic 2-pin Molex | $5–$10 | [Amazon / electrical supply](https://www.amazon.com/s?k=Amazon%20%2F%20electrical%20supply&tag=errorcodefixe-20) |  | Hussmann Case Controller (if board failed) | [Model-specific](https://www.amazon.com/s?k=Model-specific&tag=errorcodefixe-20) | $250–$450 | Hussmann dealer / Parts Town |
 
 ## When to Call a Professional
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "NUM CNC Alarm E28 — Causes & Fix"
 description: "What NUM CNC Alarm E28 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T20:00:00Z
@@ -36,9 +36,9 @@ Alarm E28 on NUM CNC controls (NUM 1060, 1080, and Axium series) indicates a dri
 
 | Part | Notes |
 |------|-------|
-| Serial link communication cable | NUM-specific — replace if damaged |
-| 24V power supply | Replace if voltage is marginal |
-| NUM servo drive module | Replace if module has internal fault |
+| [Serial link communication cable](https://www.amazon.com/s?k=Serial%20link%20communication%20cable&tag=errorcodefixe-20) | NUM-specific — replace if damaged |
+| [24V power supply](https://www.amazon.com/s?k=24V%20power%20supply&tag=errorcodefixe-20) | Replace if voltage is marginal |
+| [NUM servo drive module](https://www.amazon.com/s?k=NUM%20servo%20drive%20module&tag=errorcodefixe-20) | Replace if module has internal fault |
 
 ## When to Call a Pro
 

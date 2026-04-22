@@ -1,4 +1,4 @@
----
+﻿---
 title: "Lennox XC16 Air Conditioner Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Lennox XC16 air conditioner error codes, alert codes, common fault causes, and step-by-step fixes for technicians and homeowners."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -20,19 +20,19 @@ The Lennox XC16 is a 16–21 SEER2 two-stage central air conditioner that uses t
 
 ## Lennox XC16 Error Code Reference
 
-| Alert Code | Meaning |
+| [Alert Code](https://www.amazon.com/s?k=Alert%20Code&tag=errorcodefixe-20) | Meaning |
 |---|---|
-| 103 | High-pressure switch open |
-| 111 | Low-pressure switch open |
-| 114 | Loss of charge — pressure too low |
-| 125 | Outdoor fan motor fault |
-| 204 | Compressor protection — thermal overload |
-| 223 | Discharge temperature sensor fault |
-| 225 | Outdoor ambient sensor fault |
-| 231 | Communication fault — outdoor board |
-| 327 | High-stage compressor fault |
-| 332 | Contactor fault detected |
-| 411 | Control board hardware fault |
+| [103](https://www.amazon.com/s?k=103&tag=errorcodefixe-20) | High-pressure switch open |
+| [111](https://www.amazon.com/s?k=111&tag=errorcodefixe-20) | Low-pressure switch open |
+| [114](https://www.amazon.com/s?k=114&tag=errorcodefixe-20) | Loss of charge — pressure too low |
+| [125](https://www.amazon.com/s?k=125&tag=errorcodefixe-20) | Outdoor fan motor fault |
+| [204](https://www.amazon.com/s?k=204&tag=errorcodefixe-20) | Compressor protection — thermal overload |
+| [223](https://www.amazon.com/s?k=223&tag=errorcodefixe-20) | Discharge temperature sensor fault |
+| [225](https://www.amazon.com/s?k=225&tag=errorcodefixe-20) | Outdoor ambient sensor fault |
+| [231](https://www.amazon.com/s?k=231&tag=errorcodefixe-20) | Communication fault — outdoor board |
+| [327](https://www.amazon.com/s?k=327&tag=errorcodefixe-20) | High-stage compressor fault |
+| [332](https://www.amazon.com/s?k=332&tag=errorcodefixe-20) | Contactor fault detected |
+| [411](https://www.amazon.com/s?k=411&tag=errorcodefixe-20) | Control board hardware fault |
 
 ## Common Causes by Code
 
@@ -54,12 +54,12 @@ The Lennox XC16 is a 16–21 SEER2 two-stage central air conditioner that uses t
 
 | Part | Notes |
 |---|---|
-| Dual run capacitor | Compressor and fan; most common single failure |
-| Contactor | Two-pole; check for pitting and coil resistance |
-| Condenser fan motor | Match HP, RPM, frame size |
-| High-pressure switch | 610 PSIG cutout for R-410A |
-| Low-pressure switch | 50 PSIG cutout; replace if code persists |
-| Outdoor communication board | For Alert 231 or 411 |
+| [Dual run capacitor](https://www.amazon.com/s?k=Dual%20run%20capacitor&tag=errorcodefixe-20) | Compressor and fan; most common single failure |
+| [Contactor](https://www.amazon.com/s?k=Contactor&tag=errorcodefixe-20) | Two-pole; check for pitting and coil resistance |
+| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | Match HP, RPM, frame size |
+| [High-pressure switch](https://www.amazon.com/s?k=High-pressure%20switch&tag=errorcodefixe-20) | 610 PSIG cutout for R-410A |
+| [Low-pressure switch](https://www.amazon.com/s?k=Low-pressure%20switch&tag=errorcodefixe-20) | 50 PSIG cutout; replace if code persists |
+| [Outdoor communication board](https://www.amazon.com/s?k=Outdoor%20communication%20board&tag=errorcodefixe-20) | For Alert 231 or 411 |
 
 ## When to Call a Pro
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mitsubishi E5 Error Code — Causes & Fix"
 description: "What Mitsubishi mini-split E5 means, why the drain pump faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,10 +36,10 @@ E5 on a Mitsubishi mini-split indoor unit indicates a drain pump fault or a drai
 
 | Part | Notes |
 |------|-------|
-| Condensate drain pump | Match Mitsubishi model and voltage; many are 115V |
-| Float switch | Often sold with pump kits |
-| Drain hose (flexible) | Replace if kinked or biologically fouled |
-| Drain pan tablets (algae inhibitor) | Preventive maintenance; reduces future blockages |
+| [Condensate drain pump](https://www.amazon.com/s?k=Condensate%20drain%20pump&tag=errorcodefixe-20) | Match Mitsubishi model and voltage; many are 115V |
+| [Float switch](https://www.amazon.com/s?k=Float%20switch&tag=errorcodefixe-20) | Often sold with pump kits |
+| [Drain hose (flexible)](https://www.amazon.com/s?k=Drain%20hose%20(flexible)&tag=errorcodefixe-20) | Replace if kinked or biologically fouled |
+| [Drain pan tablets (algae inhibitor)](https://www.amazon.com/s?k=Drain%20pan%20tablets%20(algae%20inhibitor)&tag=errorcodefixe-20) | Preventive maintenance; reduces future blockages |
 
 ## When to Call a Pro
 

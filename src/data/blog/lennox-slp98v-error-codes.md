@@ -1,4 +1,4 @@
----
+﻿---
 title: "Lennox SLP98V Error Codes — Variable-Speed Furnace Fault Guide"
 description: "Lennox SLP98V error codes: iComfort fault codes, flash codes, and variable-speed blower faults for the 98% AFUE SLP98V furnace."
 pubDatetime: 2026-04-22T16:00:00Z
@@ -19,21 +19,12 @@ The Lennox SLP98V is a two-stage, variable-speed, 98% AFUE gas furnace — one o
 
 ## iComfort Fault Code Quick Reference
 
-| Code | Meaning | Priority |
-|------|---------|---------|
-| 103 | Rollout switch lockout | Critical |
-| 204 | Ignition lockout | High |
-| 223 | High-limit open | Medium |
-| 225 | Flame rollout switch open | Critical |
-| 231 | Gas valve fault | Critical |
-| 292 | Variable-speed blower fault | Medium |
-| 327 | Pressure switch stuck closed | Medium |
-| 332 | Inducer motor fault | High |
-| 411 | Flame sensed without call | Critical |
-| 412 | Flame failure | High |
-| 432 | Communication fault | Medium |
-| 434 | Blower motor (ECM) fault | Medium |
-| 540 | Control board fault | High |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning | Priority | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |---------|---------|
+| 103 | [Rollout switch lockout](https://www.amazon.com/s?k=Rollout%20switch%20lockout&tag=errorcodefixe-20) | Critical |
+| [204](https://www.amazon.com/s?k=204&tag=errorcodefixe-20) | Ignition lockout | High | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 223 | High-limit open | [Medium](https://www.amazon.com/s?k=Medium&tag=errorcodefixe-20) |  | 225 | [Flame rollout switch open](https://www.amazon.com/s?k=Flame%20rollout%20switch%20open&tag=errorcodefixe-20) | Critical |
+| [231](https://www.amazon.com/s?k=231&tag=errorcodefixe-20) | Gas valve fault | Critical | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 292 | Variable-speed blower fault | [Medium](https://www.amazon.com/s?k=Medium&tag=errorcodefixe-20) |  | 327 | [Pressure switch stuck closed](https://www.amazon.com/s?k=Pressure%20switch%20stuck%20closed&tag=errorcodefixe-20) | Medium |
+| [332](https://www.amazon.com/s?k=332&tag=errorcodefixe-20) | Inducer motor fault | High | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 411 | Flame sensed without call | [Critical](https://www.amazon.com/s?k=Critical&tag=errorcodefixe-20) |  | 412 | [Flame failure](https://www.amazon.com/s?k=Flame%20failure&tag=errorcodefixe-20) | High |
+| [432](https://www.amazon.com/s?k=432&tag=errorcodefixe-20) | Communication fault | Medium | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 434 | Blower motor (ECM) fault | [Medium](https://www.amazon.com/s?k=Medium&tag=errorcodefixe-20) |  | 540 | [Control board fault](https://www.amazon.com/s?k=Control%20board%20fault&tag=errorcodefixe-20) | High |
 
 ## SLP98V-Specific Issues
 
@@ -68,10 +59,10 @@ The rollout switch has tripped and the board has exceeded the maximum reset atte
 
 | Part | Notes |
 |------|-------|
-| ECM motor module | Lennox 100392-03 or model-specific |
-| Igniter | Lennox 65J6301 |
-| Control board | Lennox 100390-09 (match to unit label) |
-| Rollout switch | Lennox 19J6801 |
+| [ECM motor module](https://www.amazon.com/s?k=ECM%20motor%20module&tag=errorcodefixe-20) | Lennox 100392-03 or model-specific |
+| [Igniter](https://www.amazon.com/s?k=Igniter&tag=errorcodefixe-20) | Lennox 65J6301 |
+| [Control board](https://www.amazon.com/s?k=Control%20board&tag=errorcodefixe-20) | Lennox 100390-09 (match to unit label) |
+| [Rollout switch](https://www.amazon.com/s?k=Rollout%20switch&tag=errorcodefixe-20) | Lennox 19J6801 |
 
 ## When to Call a Pro
 The SLP98V's variable-speed ECM motor and iComfort communication system require installer-level diagnostics for anything beyond cleaning and filter replacement. Code 103 (rollout lockout) and code 411 (flame without call) require licensed technician attention before restart.

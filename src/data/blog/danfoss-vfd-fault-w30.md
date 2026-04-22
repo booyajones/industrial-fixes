@@ -1,4 +1,4 @@
----
+﻿---
 title: "Danfoss VFD Fault W30 — Brake Resistor Overtemperature Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-04-14T08:00:00Z
@@ -47,8 +47,8 @@ Improve ventilation at the resistor location: mount the resistor where airflow c
 
 | Part | Where to Buy |
 |------|-------------|
-| Danfoss braking resistor (size to application) | Grainger, Amazon |
-| Resistor enclosure with ventilation | Grainger |
+| [Danfoss braking resistor (size to application)](https://www.amazon.com/s?k=Danfoss%20braking%20resistor%20(size%20to%20application)&tag=errorcodefixe-20) | Grainger, Amazon |
+| [Resistor enclosure with ventilation](https://www.amazon.com/s?k=Resistor%20enclosure%20with%20ventilation&tag=errorcodefixe-20) | Grainger |
 
 ## When to Call a Technician
 

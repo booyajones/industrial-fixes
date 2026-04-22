@@ -1,4 +1,4 @@
----
+﻿---
 title: "Danfoss VFD Fault UL — Causes & Fix"
 description: "What Danfoss VFD fault UL means, why underload trips the drive, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,9 +36,9 @@ Fault UL (Underload) on a Danfoss FC series drive (FC102, FC202, FC302) indicate
 
 | Part | Notes |
 |------|-------|
-| Drive belt (V-belt or synchronous) | Match pitch and length to OEM specification |
-| Flexible coupling insert | Replace spider/element if coupling is used |
-| Pump foot valve or check valve | If pump repeatedly loses prime |
+| [Drive belt (V-belt or synchronous)](https://www.amazon.com/s?k=Drive%20belt%20(V-belt%20or%20synchronous)&tag=errorcodefixe-20) | Match pitch and length to OEM specification |
+| [Flexible coupling insert](https://www.amazon.com/s?k=Flexible%20coupling%20insert&tag=errorcodefixe-20) | Replace spider/element if coupling is used |
+| [Pump foot valve or check valve](https://www.amazon.com/s?k=Pump%20foot%20valve%20or%20check%20valve&tag=errorcodefixe-20) | If pump repeatedly loses prime |
 
 ## When to Call a Pro
 

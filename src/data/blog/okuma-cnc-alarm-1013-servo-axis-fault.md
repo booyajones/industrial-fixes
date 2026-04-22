@@ -1,4 +1,4 @@
----
+﻿---
 title: "Okuma CNC Alarm 1013 — Servo Axis Fault Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-15T08:00:00Z
@@ -49,12 +49,8 @@ Alarm 1013 always includes an axis identifier in the full alarm text displayed o
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Part Number | Typical Cost | Where to Buy |
-|------|------------|-------------|-------------|
-| Amplifier Cooling Fan (40mm or 60mm DC) | Match by voltage/CFM/frame | $20–$60 | Grainger / Amazon |
-| Cabinet Air Filter Mat | Okuma part or cut-to-size foam | $10–$30 | Okuma dealer / filter supply |
-| Okuma IGBT Servo Amplifier (if failed) | Axis-specific, contact Okuma | $2,000–$6,000 | Okuma America dealer |
-| One-Shot Lube Oil (ISO 68 way oil) | Generic ISO 68 | $15–$30/gallon | Grainger / MSC Industrial |
+| Part | Part Number | Typical Cost | [Where to Buy](https://www.amazon.com/s?k=Where%20to%20Buy&tag=errorcodefixe-20) |  |------|------------|-------------|-------------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Amplifier Cooling Fan (40mm or 60mm DC) | Match by voltage/CFM/frame | [$20–$60](https://www.amazon.com/s?k=%2420%E2%80%93%2460&tag=errorcodefixe-20) | Grainger / Amazon |
+| [Cabinet Air Filter Mat](https://www.amazon.com/s?k=Cabinet%20Air%20Filter%20Mat&tag=errorcodefixe-20) | Okuma part or cut-to-size foam | $10–$30 | [Okuma dealer / filter supply](https://www.amazon.com/s?k=Okuma%20dealer%20%2F%20filter%20supply&tag=errorcodefixe-20) |  | Okuma IGBT Servo Amplifier (if failed) | [Axis-specific, contact Okuma](https://www.amazon.com/s?k=Axis-specific%2C%20contact%20Okuma&tag=errorcodefixe-20) | $2,000–$6,000 | Okuma America dealer | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | One-Shot Lube Oil (ISO 68 way oil) | Generic ISO 68 | [$15–$30/gallon](https://www.amazon.com/s?k=%2415%E2%80%93%2430%2Fgallon&tag=errorcodefixe-20) | Grainger / MSC Industrial |
 
 ## When to Call a Professional
 

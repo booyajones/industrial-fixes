@@ -1,4 +1,4 @@
----
+﻿---
 title: "Armstrong Air Handler E1 Error Code — Communication Fault Fix"
 description: "What the Armstrong air handler E1 error code means, why the communication fault triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -38,10 +38,10 @@ Armstrong Air is a brand within the Allied Air Enterprises family (part of Lenno
 
 | Part | Notes |
 |------|-------|
-| iComfort thermostat | Bus master — if thermostat is suspected, replace first |
-| Outdoor unit communicating control board | If outdoor unit drops off the system map |
-| Air handler control board | If air handler doesn't communicate even with a known-good thermostat |
-| Low-voltage thermostat cable (18/5) | Replace full run if damaged |
+| [iComfort thermostat](https://www.amazon.com/s?k=iComfort%20thermostat&tag=errorcodefixe-20) | Bus master — if thermostat is suspected, replace first |
+| [Outdoor unit communicating control board](https://www.amazon.com/s?k=Outdoor%20unit%20communicating%20control%20board&tag=errorcodefixe-20) | If outdoor unit drops off the system map |
+| [Air handler control board](https://www.amazon.com/s?k=Air%20handler%20control%20board&tag=errorcodefixe-20) | If air handler doesn't communicate even with a known-good thermostat |
+| [Low-voltage thermostat cable (18/5)](https://www.amazon.com/s?k=Low-voltage%20thermostat%20cable%20(18%2F5)&tag=errorcodefixe-20) | Replace full run if damaged |
 
 ## When to Call a Pro
 

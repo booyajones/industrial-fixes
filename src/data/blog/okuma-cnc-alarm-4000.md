@@ -1,4 +1,4 @@
----
+﻿---
 title: "Okuma CNC Alarm 4000 - Causes & Fix"
 description: "What Okuma CNC Alarm 4000 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T20:00:00Z
@@ -36,9 +36,9 @@ Okuma Alarm 4000 indicates a safety circuit error - the machine's safety monitor
 
 | Part | Notes |
 |------|-------|
-| Safety relay module | Replace if relay won't reset or has failed contacts |
-| Door interlock switch | Replace if switch won't confirm door closed |
-| E-stop button | Replace if button mechanism is stuck |
+| [Safety relay module](https://www.amazon.com/s?k=Safety%20relay%20module&tag=errorcodefixe-20) | Replace if relay won't reset or has failed contacts |
+| [Door interlock switch](https://www.amazon.com/s?k=Door%20interlock%20switch&tag=errorcodefixe-20) | Replace if switch won't confirm door closed |
+| [E-stop button](https://www.amazon.com/s?k=E-stop%20button&tag=errorcodefixe-20) | Replace if button mechanism is stuck |
 
 ## When to Call a Pro
 

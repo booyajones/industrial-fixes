@@ -1,4 +1,4 @@
----
+﻿---
 title: "Frigidaire Mini Split E1 Error Code — Communication Error Fix"
 description: "What the Frigidaire mini split E1 error code means, why the communication fault triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -38,10 +38,10 @@ On Frigidaire mini split systems, E1 indicates a communication error between the
 
 | Part | Notes |
 |------|-------|
-| Outdoor unit control PCB | Most common hardware fix for persistent E1 |
-| Indoor unit control PCB | Replace if outdoor board replacement doesn't resolve E1 |
-| 3-conductor signal wire | Replace if communication wire is damaged in the lineset |
-| Surge protector | Install on outdoor unit if E1 followed a lightning/surge event |
+| [Outdoor unit control PCB](https://www.amazon.com/s?k=Outdoor%20unit%20control%20PCB&tag=errorcodefixe-20) | Most common hardware fix for persistent E1 |
+| [Indoor unit control PCB](https://www.amazon.com/s?k=Indoor%20unit%20control%20PCB&tag=errorcodefixe-20) | Replace if outdoor board replacement doesn't resolve E1 |
+| [3-conductor signal wire](https://www.amazon.com/s?k=3-conductor%20signal%20wire&tag=errorcodefixe-20) | Replace if communication wire is damaged in the lineset |
+| [Surge protector](https://www.amazon.com/s?k=Surge%20protector&tag=errorcodefixe-20) | Install on outdoor unit if E1 followed a lightning/surge event |
 
 ## When to Call a Pro
 

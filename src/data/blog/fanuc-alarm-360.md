@@ -1,4 +1,4 @@
----
+﻿---
 title: "Fanuc Alarm 360 — APC Alarm Battery Low Causes & Fix"
 description: "What Fanuc alarm 360 means, why the absolute pulse coder battery alarm fires, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -37,8 +37,8 @@ Alarm 360 on a Fanuc CNC system is an APC (Absolute Pulse Coder) alarm — speci
 
 | Part | Notes |
 |------|-------|
-| Fanuc APC battery A06B-6073-K001 | Standard AA lithium, 3V; use genuine Fanuc or a direct equivalent |
-| Multi-axis battery pack (where applicable) | Some machines use a single pack for multiple axes — replace as a complete unit |
+| [Fanuc APC battery A06B-6073-K001](https://www.amazon.com/s?k=Fanuc%20APC%20battery%20A06B-6073-K001&tag=errorcodefixe-20) | Standard AA lithium, 3V; use genuine Fanuc or a direct equivalent |
+| [Multi-axis battery pack (where applicable)](https://www.amazon.com/s?k=Multi-axis%20battery%20pack%20(where%20applicable)&tag=errorcodefixe-20) | Some machines use a single pack for multiple axes — replace as a complete unit |
 
 ## When to Call a Pro
 

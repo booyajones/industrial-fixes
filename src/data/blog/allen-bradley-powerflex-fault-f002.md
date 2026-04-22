@@ -1,4 +1,4 @@
----
+﻿---
 title: "Allen-Bradley PowerFlex Fault F002 — Causes & Fix"
 description: "What Allen-Bradley PowerFlex F002 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,9 +36,9 @@ Allen-Bradley PowerFlex fault F002 means Auxiliary Input — a digital input con
 
 | Part | Notes |
 |------|-------|
-| Terminal block wire (18–22 AWG) | Replace if the auxiliary input wire is damaged |
-| Motor overload relay | If the external device that tripped is the overload; reset or replace |
-| Safety relay (Pilz, Allen-Bradley GuardMaster) | If the safety circuit is the interlock source and it has failed |
+| [Terminal block wire (18–22 AWG)](https://www.amazon.com/s?k=Terminal%20block%20wire%20(18%E2%80%9322%20AWG)&tag=errorcodefixe-20) | Replace if the auxiliary input wire is damaged |
+| [Motor overload relay](https://www.amazon.com/s?k=Motor%20overload%20relay&tag=errorcodefixe-20) | If the external device that tripped is the overload; reset or replace |
+| [Safety relay (Pilz, Allen-Bradley GuardMaster)](https://www.amazon.com/s?k=Safety%20relay%20(Pilz%2C%20Allen-Bradley%20GuardMaster)&tag=errorcodefixe-20) | If the safety circuit is the interlock source and it has failed |
 
 ## When to Call a Pro
 

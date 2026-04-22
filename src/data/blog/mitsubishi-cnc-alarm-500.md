@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mitsubishi CNC Alarm 500 — Causes & Fix"
 description: "What Mitsubishi CNC alarm 500 means on M70/M80 series, why servo error occurs, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,10 +36,10 @@ Alarm 500 on a Mitsubishi CNC (M70, M70V, M80, M800 series controls) indicates a
 
 | Part | Notes |
 |------|-------|
-| MDS servo amplifier | Mitsubishi MDS-D2/EX series; match axis kW rating |
-| Servo motor (HF/HC series) | Mitsubishi OEM; match drive and machine specifications |
-| Encoder feedback cable | Mitsubishi preassembled; use OEM for reliable shielding |
-| Encoder backup battery | Replace every 3–5 years on absolute encoder systems |
+| [MDS servo amplifier](https://www.amazon.com/s?k=MDS%20servo%20amplifier&tag=errorcodefixe-20) | Mitsubishi MDS-D2/EX series; match axis kW rating |
+| [Servo motor (HF/HC series)](https://www.amazon.com/s?k=Servo%20motor%20(HF%2FHC%20series)&tag=errorcodefixe-20) | Mitsubishi OEM; match drive and machine specifications |
+| [Encoder feedback cable](https://www.amazon.com/s?k=Encoder%20feedback%20cable&tag=errorcodefixe-20) | Mitsubishi preassembled; use OEM for reliable shielding |
+| [Encoder backup battery](https://www.amazon.com/s?k=Encoder%20backup%20battery&tag=errorcodefixe-20) | Replace every 3–5 years on absolute encoder systems |
 
 ## When to Call a Pro
 

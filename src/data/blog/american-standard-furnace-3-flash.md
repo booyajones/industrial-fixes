@@ -1,4 +1,4 @@
----
+﻿---
 title: "American Standard Furnace 3 Flash Error Code — Causes & Fix"
 description: "What 3 flashes on an American Standard furnace means, why the pressure switch faults, and how to diagnose and fix it."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -38,10 +38,10 @@ Three LED flashes on an American Standard furnace indicates a pressure switch fa
 
 | Part | Notes |
 |------|-------|
-| Pressure switch | Match to furnace model; verify opening/closing pressure setpoint |
-| Pressure switch hose | Replace cracked or collapsed hose; typically 5/16" ID rubber tubing |
-| Condensate drain trap | Replace if cracked or clogged beyond cleaning |
-| Draft inducer motor assembly | Replace if motor bearings are failing or wheel is corroded |
+| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Match to furnace model; verify opening/closing pressure setpoint |
+| [Pressure switch hose](https://www.amazon.com/s?k=Pressure%20switch%20hose&tag=errorcodefixe-20) | Replace cracked or collapsed hose; typically 5/16" ID rubber tubing |
+| [Condensate drain trap](https://www.amazon.com/s?k=Condensate%20drain%20trap&tag=errorcodefixe-20) | Replace if cracked or clogged beyond cleaning |
+| [Draft inducer motor assembly](https://www.amazon.com/s?k=Draft%20inducer%20motor%20assembly&tag=errorcodefixe-20) | Replace if motor bearings are failing or wheel is corroded |
 
 ## When to Call a Pro
 

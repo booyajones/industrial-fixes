@@ -1,4 +1,4 @@
----
+﻿---
 title: "Heil Furnace E4 Error Code — Causes & Fix"
 description: "What Heil furnace E4 error code means, why the limit circuit opens, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -37,9 +37,9 @@ The Heil E4 error code indicates an **open limit circuit** — one of the high-l
 
 | Part | Notes |
 |------|-------|
-| High-limit switch | Must match the temperature rating stamped on the switch (e.g., L200°F) |
-| Blower run capacitor | Match µF and voltage; common values are 5 µF and 7.5 µF at 370V |
-| Air filter | Replace on a regular schedule; every 1–3 months for standard 1" filters |
+| [High-limit switch](https://www.amazon.com/s?k=High-limit%20switch&tag=errorcodefixe-20) | Must match the temperature rating stamped on the switch (e.g., L200°F) |
+| [Blower run capacitor](https://www.amazon.com/s?k=Blower%20run%20capacitor&tag=errorcodefixe-20) | Match µF and voltage; common values are 5 µF and 7.5 µF at 370V |
+| [Air filter](https://www.amazon.com/s?k=Air%20filter&tag=errorcodefixe-20) | Replace on a regular schedule; every 1–3 months for standard 1" filters |
 
 ## When to Call a Pro
 

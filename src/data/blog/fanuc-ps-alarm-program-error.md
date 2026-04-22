@@ -1,4 +1,4 @@
----
+﻿---
 title: "Fanuc P/S Alarm Program Syntax Error — Causes & Fix"
 description: "What Fanuc P/S alarms mean, why program syntax errors occur, and how to find and fix them step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,8 +36,8 @@ tags:
 
 | Part | Notes |
 |------|-------|
-| Fanuc Operator's Manual | Essential reference for alarm code list and program format rules for your specific control series (0i, 16i, 18i, 31i, etc.) |
-| Fanuc Programming Manual | Reference for correct G and M code syntax, canned cycle formats, and address word requirements |
+| [Fanuc Operator's Manual](https://www.amazon.com/s?k=Fanuc%20Operator's%20Manual&tag=errorcodefixe-20) | Essential reference for alarm code list and program format rules for your specific control series (0i, 16i, 18i, 31i, etc.) |
+| [Fanuc Programming Manual](https://www.amazon.com/s?k=Fanuc%20Programming%20Manual&tag=errorcodefixe-20) | Reference for correct G and M code syntax, canned cycle formats, and address word requirements |
 
 ## When to Call a Pro
 

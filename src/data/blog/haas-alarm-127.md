@@ -1,4 +1,4 @@
----
+﻿---
 title: "Haas Alarm 127 — Tool Unclamped Fault"
 description: "Haas alarm 127 tool unclamped fault: causes, drawbar checks, air pressure requirements, and repair steps for Haas mills."
 pubDatetime: 2026-04-22T19:00:00Z
@@ -39,10 +39,10 @@ Haas alarm **127** means the control expected the spindle tool clamp to release,
 
 | Part | Notes |
 |------|-------|
-| Unclamp switch | Common on intermittent faults |
-| Solenoid valve / coil | Check voltage and air output |
-| Pull stud | Replace damaged or incorrect styles |
-| Drawbar rebuild kit | Includes Belleville washers and seals |
+| [Unclamp switch](https://www.amazon.com/s?k=Unclamp%20switch&tag=errorcodefixe-20) | Common on intermittent faults |
+| [Solenoid valve / coil](https://www.amazon.com/s?k=Solenoid%20valve%20%2F%20coil&tag=errorcodefixe-20) | Check voltage and air output |
+| [Pull stud](https://www.amazon.com/s?k=Pull%20stud&tag=errorcodefixe-20) | Replace damaged or incorrect styles |
+| [Drawbar rebuild kit](https://www.amazon.com/s?k=Drawbar%20rebuild%20kit&tag=errorcodefixe-20) | Includes Belleville washers and seals |
 
 ## When to Call a Pro
 Drawbar rebuilds and spindle unclamp piston service should be handled by a machine tool tech. Improper reassembly can create dangerous tool retention problems.

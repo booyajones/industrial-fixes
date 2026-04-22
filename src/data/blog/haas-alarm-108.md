@@ -1,4 +1,4 @@
----
+﻿---
 title: "Haas Alarm 108 — Causes & Fix"
 description: "What Haas CNC alarm 108 means, why the spindle drive faults, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,10 +36,10 @@ Alarm 108 on a Haas CNC machining center or lathe indicates a Spindle Drive Faul
 
 | Part | Notes |
 |------|-------|
-| Cabinet cooling fans | Match enclosure fan voltage and CFM rating |
-| Spindle drive (vector drive) | Model depends on machine year; Haas parts department |
-| Spindle motor | Haas OEM; vector-rated motor required |
-| Spindle encoder | If drive sub-fault is encoder-related |
+| [Cabinet cooling fans](https://www.amazon.com/s?k=Cabinet%20cooling%20fans&tag=errorcodefixe-20) | Match enclosure fan voltage and CFM rating |
+| [Spindle drive (vector drive)](https://www.amazon.com/s?k=Spindle%20drive%20(vector%20drive)&tag=errorcodefixe-20) | Model depends on machine year; Haas parts department |
+| [Spindle motor](https://www.amazon.com/s?k=Spindle%20motor&tag=errorcodefixe-20) | Haas OEM; vector-rated motor required |
+| [Spindle encoder](https://www.amazon.com/s?k=Spindle%20encoder&tag=errorcodefixe-20) | If drive sub-fault is encoder-related |
 
 ## When to Call a Pro
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Nordyne Furnace E4 Error Code — Causes & Fix"
 description: "What Nordyne furnace error code E4 means, why ignition locks out, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -38,9 +38,9 @@ E4 on a Nordyne furnace (and Nordyne-built brands including Frigidaire, Gibson, 
 
 | Part | Notes |
 |------|-------|
-| Hot surface igniter | Nordyne-specific part; use OEM or a direct replacement with matching wattage |
-| Flame sensor | Standard universal sensors work in most Nordyne models |
-| Gas valve | Replace only after confirming 24VAC input with no gas output |
+| [Hot surface igniter](https://www.amazon.com/s?k=Hot%20surface%20igniter&tag=errorcodefixe-20) | Nordyne-specific part; use OEM or a direct replacement with matching wattage |
+| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | Standard universal sensors work in most Nordyne models |
+| [Gas valve](https://www.amazon.com/s?k=Gas%20valve&tag=errorcodefixe-20) | Replace only after confirming 24VAC input with no gas output |
 
 ## When to Call a Pro
 

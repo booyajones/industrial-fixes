@@ -1,4 +1,4 @@
----
+﻿---
 title: "Manitowoc IY-0454 Error Codes — Fix Guide"
 description: "Manitowoc IY-0454 ice machine error codes: what each means and how to fix it."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -15,16 +15,11 @@ tags:
 
 The Manitowoc IY-0454 is a 455 lb/day Indigo series half-dice ice machine commonly installed in hotel bars, restaurants, and healthcare facilities. It uses the standard Manitowoc Indigo fault code system.
 
-| Code | Meaning | Urgency |
-|------|---------|---------|
-| 1 | Long harvest | Medium |
-| 2 | Harvest timeout | High |
-| 3 | Long freeze | Medium |
-| 5 | Safety switch fault | High |
-| 6 | Water fill timeout | Medium |
-| E04 | High condenser temperature | High |
-| E05 | High pressure cutout | High |
-| E06 | Low pressure cutout | High |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning | Urgency | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |---------|---------|
+| 1 | [Long harvest](https://www.amazon.com/s?k=Long%20harvest&tag=errorcodefixe-20) | Medium |
+| [2](https://www.amazon.com/s?k=2&tag=errorcodefixe-20) | Harvest timeout | High | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 3 | Long freeze | [Medium](https://www.amazon.com/s?k=Medium&tag=errorcodefixe-20) |  | 5 | [Safety switch fault](https://www.amazon.com/s?k=Safety%20switch%20fault&tag=errorcodefixe-20) | High |
+| [6](https://www.amazon.com/s?k=6&tag=errorcodefixe-20) | Water fill timeout | Medium | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E04 | High condenser temperature | [High](https://www.amazon.com/s?k=High&tag=errorcodefixe-20) |  | E05 | [High pressure cutout](https://www.amazon.com/s?k=High%20pressure%20cutout&tag=errorcodefixe-20) | High |
+| [E06](https://www.amazon.com/s?k=E06&tag=errorcodefixe-20) | Low pressure cutout | High |
 
 [Jump to Fix](#fix)
 
@@ -38,11 +33,7 @@ The Manitowoc IY-0454 is a 455 lb/day Indigo series half-dice ice machine common
 
 ## Parts Often Needed
 
-| Part | Notes |
-|------|-------|
-| Condenser fan motor | Most common fix for E04/E05 |
-| Water inlet valve | Code 6 fix |
-| Manitowoc Ice Machine Cleaner | Use every 6 months |
+| Part | Notes | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |-------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Condenser fan motor | Most common fix for E04/E05 | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Water inlet valve | Code 6 fix | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Manitowoc Ice Machine Cleaner | Use every 6 months |
 
 ## When to Call a Pro
 

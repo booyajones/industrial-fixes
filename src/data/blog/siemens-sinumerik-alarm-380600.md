@@ -1,4 +1,4 @@
----
+﻿---
 title: "Siemens Sinumerik Alarm 380600 — Encoder Fault"
 description: "What Siemens Sinumerik alarm 380600 means, why an encoder fault occurs, and how to diagnose and fix it."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -39,10 +39,10 @@ Siemens Sinumerik alarm 380600 indicates an encoder fault on a servo axis. The f
 
 | Part | Notes |
 |------|-------|
-| Encoder feedback cable | Must be shielded; match connector type to drive interface |
-| Rotary encoder (motor-mounted) | Match to servo motor model and Sinumerik interface type |
-| Linear scale read head | OEM replacement for Heidenhain/Renishaw scale |
-| DRIVE-CLiQ cable | For newer SINAMICS drives with DRIVE-CLiQ encoder interface |
+| [Encoder feedback cable](https://www.amazon.com/s?k=Encoder%20feedback%20cable&tag=errorcodefixe-20) | Must be shielded; match connector type to drive interface |
+| [Rotary encoder (motor-mounted)](https://www.amazon.com/s?k=Rotary%20encoder%20(motor-mounted)&tag=errorcodefixe-20) | Match to servo motor model and Sinumerik interface type |
+| [Linear scale read head](https://www.amazon.com/s?k=Linear%20scale%20read%20head&tag=errorcodefixe-20) | OEM replacement for Heidenhain/Renishaw scale |
+| [DRIVE-CLiQ cable](https://www.amazon.com/s?k=DRIVE-CLiQ%20cable&tag=errorcodefixe-20) | For newer SINAMICS drives with DRIVE-CLiQ encoder interface |
 
 ## When to Call a Pro
 

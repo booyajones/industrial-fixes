@@ -1,4 +1,4 @@
----
+﻿---
 title: "ABB ACS580 Fault 3130 — Input Phase Loss Fix"
 description: "What ABB ACS580 fault 3130 means, why input phase loss triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -39,9 +39,9 @@ The ABB ACS580 is a general-purpose all-compatible drive designed for industrial
 
 | Part | Notes |
 |------|-------|
-| Input fuses | Match the type and amperage from the ACS580 hardware manual for the specific frame size |
-| AC contactor | Replace if contact inspection shows pitting or high resistance under load |
-| Power terminal lug | Replace if existing lug is corroded or cracked |
+| [Input fuses](https://www.amazon.com/s?k=Input%20fuses&tag=errorcodefixe-20) | Match the type and amperage from the ACS580 hardware manual for the specific frame size |
+| [AC contactor](https://www.amazon.com/s?k=AC%20contactor&tag=errorcodefixe-20) | Replace if contact inspection shows pitting or high resistance under load |
+| [Power terminal lug](https://www.amazon.com/s?k=Power%20terminal%20lug&tag=errorcodefixe-20) | Replace if existing lug is corroded or cracked |
 
 ## When to Call a Pro
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Weil-McLain Boiler Error Code E08 — Causes & Fix"
 description: "What Weil-McLain E08 DHW sensor fault means, why it trips, and how to diagnose and fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,8 +36,8 @@ The Weil-McLain **E08 error code** indicates a **domestic hot water (DHW) sensor
 
 | Part | Notes |
 |------|-------|
-| DHW thermistor/sensor | Match exact Weil-McLain part number for your model; resistance spec is model-specific |
-| Sensor wire harness | Replace if wire insulation is damaged between sensor and control board |
+| [DHW thermistor/sensor](https://www.amazon.com/s?k=DHW%20thermistor%2Fsensor&tag=errorcodefixe-20) | Match exact Weil-McLain part number for your model; resistance spec is model-specific |
+| [Sensor wire harness](https://www.amazon.com/s?k=Sensor%20wire%20harness&tag=errorcodefixe-20) | Replace if wire insulation is damaged between sensor and control board |
 
 ## When to Call a Pro
 

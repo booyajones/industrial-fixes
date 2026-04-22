@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hypertherm Plasma Cutter Fault 0-30 — Causes & Fix"
 description: "What Hypertherm fault code 0-30 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,9 +36,9 @@ Fault 0-30 on Hypertherm plasma cutters (Powermax series) indicates a consumable
 
 | Part | Notes |
 |------|-------|
-| Electrode | Replace when pit depth exceeds 1/16" (1.5mm) |
-| Nozzle | Replace when orifice is eroded or asymmetrical |
-| Shield / retaining cap | Replace if cracked, burnt, or threads are damaged |
+| [Electrode](https://www.amazon.com/s?k=Electrode&tag=errorcodefixe-20) | Replace when pit depth exceeds 1/16" (1.5mm) |
+| [Nozzle](https://www.amazon.com/s?k=Nozzle&tag=errorcodefixe-20) | Replace when orifice is eroded or asymmetrical |
+| [Shield / retaining cap](https://www.amazon.com/s?k=Shield%20%2F%20retaining%20cap&tag=errorcodefixe-20) | Replace if cracked, burnt, or threads are damaged |
 
 ## When to Call a Pro
 

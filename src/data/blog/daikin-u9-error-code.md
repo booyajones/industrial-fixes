@@ -1,4 +1,4 @@
----
+﻿---
 title: "Daikin U9 Error Code — Causes & Fix"
 description: "What Daikin U9 means on a mini-split, why high pressure trips the system, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,10 +36,10 @@ U9 on a Daikin mini-split indicates an abnormally high discharge pressure on the
 
 | Part | Notes |
 |------|-------|
-| Condenser fan motor | Match OEM RPM and rotation direction |
-| Condenser fan capacitor | Test first; often cheaper than the motor |
-| High-pressure switch | OEM replacement; must match pressure cutout rating |
-| Coil fin comb | Straighten bent fins to restore airflow |
+| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | Match OEM RPM and rotation direction |
+| [Condenser fan capacitor](https://www.amazon.com/s?k=Condenser%20fan%20capacitor&tag=errorcodefixe-20) | Test first; often cheaper than the motor |
+| [High-pressure switch](https://www.amazon.com/s?k=High-pressure%20switch&tag=errorcodefixe-20) | OEM replacement; must match pressure cutout rating |
+| [Coil fin comb](https://www.amazon.com/s?k=Coil%20fin%20comb&tag=errorcodefixe-20) | Straighten bent fins to restore airflow |
 
 ## When to Call a Pro
 

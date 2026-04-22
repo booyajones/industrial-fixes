@@ -1,4 +1,4 @@
----
+﻿---
 title: "Thermal Dynamics Plasma Cutter Fault 1 — Causes & Fix"
 description: "What Thermal Dynamics Fault 1 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -36,10 +36,10 @@ Fault 1 on Thermal Dynamics plasma cutters (Cutmaster and PCH/M series) indicate
 
 | Part | Notes |
 |------|-------|
-| Electrode | Replace when pit exceeds 1/16" |
-| Nozzle | Replace when orifice is eroded or asymmetrical |
-| Shield cup | Replace if cracked or threads are damaged |
-| Torch lead | If connector is damaged or internal wiring is shorted |
+| [Electrode](https://www.amazon.com/s?k=Electrode&tag=errorcodefixe-20) | Replace when pit exceeds 1/16" |
+| [Nozzle](https://www.amazon.com/s?k=Nozzle&tag=errorcodefixe-20) | Replace when orifice is eroded or asymmetrical |
+| [Shield cup](https://www.amazon.com/s?k=Shield%20cup&tag=errorcodefixe-20) | Replace if cracked or threads are damaged |
+| [Torch lead](https://www.amazon.com/s?k=Torch%20lead&tag=errorcodefixe-20) | If connector is damaged or internal wiring is shorted |
 
 ## When to Call a Pro
 

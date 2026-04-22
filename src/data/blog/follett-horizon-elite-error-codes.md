@@ -1,4 +1,4 @@
----
+﻿---
 title: "Follett Horizon Elite Error Code Guide — Causes & Fixes"
 description: "Follett Horizon Elite ice machine error codes: what each code means and how to fix it."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -19,14 +19,14 @@ Follett Horizon Elite ice and water dispensers (7HCD, 15HCD, 25HCD, 50HCD, and 1
 
 ## Common Error Codes
 
-| Code | Meaning |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning |
 |------|---------|
-| E1 | Ice Making Fault (general ice production fault) |
-| E2 | Water Inlet Fault |
-| E3 | Ice Level Sensor Fault |
-| E4 | Auger Motor Fault |
-| E5 | Refrigeration System Fault |
-| Ht | High Temperature Alarm |
+| [E1](https://www.amazon.com/s?k=E1&tag=errorcodefixe-20) | Ice Making Fault (general ice production fault) |
+| [E2](https://www.amazon.com/s?k=E2&tag=errorcodefixe-20) | Water Inlet Fault |
+| [E3](https://www.amazon.com/s?k=E3&tag=errorcodefixe-20) | Ice Level Sensor Fault |
+| [E4](https://www.amazon.com/s?k=E4&tag=errorcodefixe-20) | Auger Motor Fault |
+| [E5](https://www.amazon.com/s?k=E5&tag=errorcodefixe-20) | Refrigeration System Fault |
+| [Ht](https://www.amazon.com/s?k=Ht&tag=errorcodefixe-20) | High Temperature Alarm |
 
 ## Common Causes
 
@@ -49,10 +49,10 @@ Follett Horizon Elite ice and water dispensers (7HCD, 15HCD, 25HCD, 50HCD, and 1
 
 | Part | Notes |
 |------|-------|
-| Auger motor | Common failure on higher-volume units |
-| Ice level sensor | Replace if bridging is chronic or sensor fails |
-| Water inlet valve | Replace if screen damage or coil failure |
-| Follett Ice Machine Cleaner | Use quarterly |
+| [Auger motor](https://www.amazon.com/s?k=Auger%20motor&tag=errorcodefixe-20) | Common failure on higher-volume units |
+| [Ice level sensor](https://www.amazon.com/s?k=Ice%20level%20sensor&tag=errorcodefixe-20) | Replace if bridging is chronic or sensor fails |
+| [Water inlet valve](https://www.amazon.com/s?k=Water%20inlet%20valve&tag=errorcodefixe-20) | Replace if screen damage or coil failure |
+| [Follett Ice Machine Cleaner](https://www.amazon.com/s?k=Follett%20Ice%20Machine%20Cleaner&tag=errorcodefixe-20) | Use quarterly |
 
 ## When to Call a Pro
 

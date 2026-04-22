@@ -1,4 +1,4 @@
----
+﻿---
 title: "Fanuc Alarm 700 Spindle Overheat — Detailed Fix Guide"
 description: "Fanuc alarm 700 spindle overheat: detailed causes, spindle cooling checks, thermistor diagnosis, and repair steps for Fanuc-controlled machines."
 pubDatetime: 2026-04-22T19:00:00Z
@@ -40,10 +40,10 @@ Fanuc alarm **700** means the spindle motor temperature exceeded the safe limit 
 
 | Part | Notes |
 |------|-------|
-| Spindle cooling fan or blower | Match voltage and motor frame |
-| Spindle thermistor | Use OEM equivalent |
-| Spindle bearings | Precision install required |
-| Air filter media | Some machines use filtered spindle blower air |
+| [Spindle cooling fan or blower](https://www.amazon.com/s?k=Spindle%20cooling%20fan%20or%20blower&tag=errorcodefixe-20) | Match voltage and motor frame |
+| [Spindle thermistor](https://www.amazon.com/s?k=Spindle%20thermistor&tag=errorcodefixe-20) | Use OEM equivalent |
+| [Spindle bearings](https://www.amazon.com/s?k=Spindle%20bearings&tag=errorcodefixe-20) | Precision install required |
+| [Air filter media](https://www.amazon.com/s?k=Air%20filter%20media&tag=errorcodefixe-20) | Some machines use filtered spindle blower air |
 
 ## When to Call a Pro
 If alarm 700 returns after cooling airflow is restored, the spindle bearings or spindle motor itself may be failing. Bearing replacement and spindle rebuild work should go to a qualified machine tool technician.

@@ -1,4 +1,4 @@
----
+﻿---
 title: "LG Mini Split CH01 Error Code — Causes & Fix"
 description: "What LG CH01 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,9 +36,9 @@ LG error code CH01 (also displayed as "C1" or "CH 01") means the indoor unit roo
 
 | Part | Notes |
 |------|-------|
-| LG indoor thermistor (room temp) | LG part 6615A20042A or equivalent; confirm for your model series |
-| Contact cleaner | For connector maintenance |
-| Indoor PCB | If sensor tests good and fault persists |
+| [LG indoor thermistor (room temp)](https://www.amazon.com/s?k=LG%20indoor%20thermistor%20(room%20temp)&tag=errorcodefixe-20) | LG part 6615A20042A or equivalent; confirm for your model series |
+| [Contact cleaner](https://www.amazon.com/s?k=Contact%20cleaner&tag=errorcodefixe-20) | For connector maintenance |
+| [Indoor PCB](https://www.amazon.com/s?k=Indoor%20PCB&tag=errorcodefixe-20) | If sensor tests good and fault persists |
 
 ## When to Call a Pro
 

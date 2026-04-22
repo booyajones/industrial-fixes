@@ -1,4 +1,4 @@
----
+﻿---
 title: "Lincoln Electric Power MIG Error Codes — Fix Guide"
 description: "Lincoln Electric Power MIG welder error codes: what each code means and how to fix it."
 pubDatetime: 2026-04-22T16:00:00Z
@@ -15,15 +15,15 @@ tags:
 
 Lincoln Electric Power MIG welders (210 MP, 256, 260, 350MP) are widely used MIG, flux-core, and multi-process welders. They display alphanumeric error codes on the digital panel when faults occur. This guide covers the most common Power MIG error codes.
 
-| Code | Meaning |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning |
 |------|---------|
-| E10 | Thermal overload |
-| E11 | Thermal overload (secondary) |
-| E12 | Input contactor fault |
-| E13 | Output contactor fault |
-| E14 | Input voltage fault |
-| E20 | Wire feeder communication fault |
-| E31 | Output overcurrent |
+| [E10](https://www.amazon.com/s?k=E10&tag=errorcodefixe-20) | Thermal overload |
+| [E11](https://www.amazon.com/s?k=E11&tag=errorcodefixe-20) | Thermal overload (secondary) |
+| [E12](https://www.amazon.com/s?k=E12&tag=errorcodefixe-20) | Input contactor fault |
+| [E13](https://www.amazon.com/s?k=E13&tag=errorcodefixe-20) | Output contactor fault |
+| [E14](https://www.amazon.com/s?k=E14&tag=errorcodefixe-20) | Input voltage fault |
+| [E20](https://www.amazon.com/s?k=E20&tag=errorcodefixe-20) | Wire feeder communication fault |
+| [E31](https://www.amazon.com/s?k=E31&tag=errorcodefixe-20) | Output overcurrent |
 
 [Jump to Fix](#fix)
 
@@ -48,9 +48,9 @@ Short circuit at the output. Inspect gun, cable, and nozzle/tip for shorts. Powe
 
 | Part | Notes |
 |------|-------|
-| MIG gun | Replace if internal cable short found |
-| Input/output contactor | Match to Power MIG model |
-| Interconnect cable (feeder to PS) | For E20 |
+| [MIG gun](https://www.amazon.com/s?k=MIG%20gun&tag=errorcodefixe-20) | Replace if internal cable short found |
+| [Input/output contactor](https://www.amazon.com/s?k=Input%2Foutput%20contactor&tag=errorcodefixe-20) | Match to Power MIG model |
+| [Interconnect cable (feeder to PS)](https://www.amazon.com/s?k=Interconnect%20cable%20(feeder%20to%20PS)&tag=errorcodefixe-20) | For E20 |
 
 ## When to Call a Pro
 

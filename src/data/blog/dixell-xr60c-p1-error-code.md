@@ -1,4 +1,4 @@
----
+﻿---
 title: "Dixell XR60C P1 Error Code Fix — Sensor Fault"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-13T08:00:00Z
@@ -46,11 +46,9 @@ When P1 is active, the controller typically switches the compressor and fans to 
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Where to Buy | Typical Cost |
-|------|-------------|-------------|
-| NTC 10kΩ replacement probe (universal, 6 ft lead) | Grainger, Amazon, Parts Town | $12–$30 |
-| Dixell XR60C replacement controller | Parts Town, Restaurant Equipment World | $60–$120 |
-| Probe mounting clip | Parts Town, HVAC distributor | $2–$8 |
+| Part | Where to Buy | Typical Cost | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |-------------|-------------|
+| NTC 10kΩ replacement probe (universal, 6 ft lead) | [Grainger, Amazon, Parts Town](https://www.amazon.com/s?k=Grainger%2C%20Amazon%2C%20Parts%20Town&tag=errorcodefixe-20) | $12–$30 |
+| [Dixell XR60C replacement controller](https://www.amazon.com/s?k=Dixell%20XR60C%20replacement%20controller&tag=errorcodefixe-20) | Parts Town, Restaurant Equipment World | $60–$120 | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Probe mounting clip | Parts Town, HVAC distributor | $2–$8 |
 
 ## When to Call a Professional
 

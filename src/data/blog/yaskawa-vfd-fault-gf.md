@@ -1,4 +1,4 @@
----
+﻿---
 title: "Yaskawa VFD Fault GF — Causes & Fix"
 description: "What Yaskawa GF means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,9 +36,9 @@ Yaskawa fault GF means ground fault — the drive detected that output current i
 
 | Part | Notes |
 |------|-------|
-| Motor (replacement) | Required if winding insulation tests below acceptable threshold |
-| VFD-rated output cable (shielded) | Replace if any conductor shows insulation damage |
-| Output reactor (line choke) | Install if GF is caused by long cable capacitive leakage |
+| [Motor (replacement)](https://www.amazon.com/s?k=Motor%20(replacement)&tag=errorcodefixe-20) | Required if winding insulation tests below acceptable threshold |
+| [VFD-rated output cable (shielded)](https://www.amazon.com/s?k=VFD-rated%20output%20cable%20(shielded)&tag=errorcodefixe-20) | Replace if any conductor shows insulation damage |
+| [Output reactor (line choke)](https://www.amazon.com/s?k=Output%20reactor%20(line%20choke)&tag=errorcodefixe-20) | Install if GF is caused by long cable capacitive leakage |
 
 ## When to Call a Pro
 

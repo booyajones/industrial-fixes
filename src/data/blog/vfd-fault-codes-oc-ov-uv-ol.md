@@ -1,4 +1,4 @@
----
+﻿---
 title: "VFD Fault Codes OC, OV, UV, OL — Complete Fix Guide"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-16T08:00:00Z
@@ -69,12 +69,8 @@ Note: exact fault code naming varies by brand. ABB uses "OC1," "OC2," "OC3" for 
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Description | Typical Cost | Where to Buy |
-|------|------------|-------------|-------------|
-| Braking resistor | OV protection for high-inertia loads | $50–$300 | Automation Direct / Grainger |
-| Input line fuses | UV/OC protection on input | $5–$25 each | Grainger / McMaster-Carr |
-| Drive replacement (≤5HP) | If IGBT shorted (OC on every start) | $200–$800 | AutomationDirect / Drives Warehouse |
-| External motor cooling fan | OL fix for low-speed applications | $50–$200 | Grainger / Amazon |
+| Part | Description | Typical Cost | [Where to Buy](https://www.amazon.com/s?k=Where%20to%20Buy&tag=errorcodefixe-20) |  |------|------------|-------------|-------------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Braking resistor | OV protection for high-inertia loads | [$50–$300](https://www.amazon.com/s?k=%2450%E2%80%93%24300&tag=errorcodefixe-20) | Automation Direct / Grainger |
+| [Input line fuses](https://www.amazon.com/s?k=Input%20line%20fuses&tag=errorcodefixe-20) | UV/OC protection on input | $5–$25 each | [Grainger / McMaster-Carr](https://www.amazon.com/s?k=Grainger%20%2F%20McMaster-Carr&tag=errorcodefixe-20) |  | Drive replacement (≤5HP) | [If IGBT shorted (OC on every start)](https://www.amazon.com/s?k=If%20IGBT%20shorted%20(OC%20on%20every%20start)&tag=errorcodefixe-20) | $200–$800 | AutomationDirect / Drives Warehouse | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | External motor cooling fan | OL fix for low-speed applications | [$50–$200](https://www.amazon.com/s?k=%2450%E2%80%93%24200&tag=errorcodefixe-20) | Grainger / Amazon |
 
 ## When to Call a Professional
 

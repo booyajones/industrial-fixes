@@ -1,4 +1,4 @@
----
+﻿---
 title: "ABB VFD Fault 3210 — Causes & Fix"
 description: "What ABB VFD fault 3210 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,9 +36,9 @@ ABB fault code 3210 (DC UNDERVOLT) indicates the DC bus voltage dropped below th
 
 | Part | Notes |
 |------|-------|
-| Input fuses (class J or RK5) | Match AIC rating and current rating to drive nameplate |
-| Line reactor | Install if not present; reduces voltage sag and protects drive from line transients |
-| Input contactor | Replace if any pole shows excessive arcing or fails to close fully |
+| [Input fuses (class J or RK5)](https://www.amazon.com/s?k=Input%20fuses%20(class%20J%20or%20RK5)&tag=errorcodefixe-20) | Match AIC rating and current rating to drive nameplate |
+| [Line reactor](https://www.amazon.com/s?k=Line%20reactor&tag=errorcodefixe-20) | Install if not present; reduces voltage sag and protects drive from line transients |
+| [Input contactor](https://www.amazon.com/s?k=Input%20contactor&tag=errorcodefixe-20) | Replace if any pole shows excessive arcing or fails to close fully |
 
 ## When to Call a Pro
 

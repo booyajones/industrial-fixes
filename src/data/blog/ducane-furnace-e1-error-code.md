@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ducane Furnace E1 Error Code — Causes & Fix"
 description: "What Ducane furnace error code E1 means, why the pressure switch faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -38,9 +38,9 @@ E1 on a Ducane furnace points to a pressure switch or inducer circuit fault. Duc
 
 | Part | Notes |
 |------|-------|
-| Pressure switch | Match the exact WC rating on the Ducane label |
-| Pressure switch hose | Use rubber tubing of the correct inner diameter |
-| Inducer motor | Match HP, RPM, and flange configuration for the Ducane model |
+| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Match the exact WC rating on the Ducane label |
+| [Pressure switch hose](https://www.amazon.com/s?k=Pressure%20switch%20hose&tag=errorcodefixe-20) | Use rubber tubing of the correct inner diameter |
+| [Inducer motor](https://www.amazon.com/s?k=Inducer%20motor&tag=errorcodefixe-20) | Match HP, RPM, and flange configuration for the Ducane model |
 
 ## When to Call a Pro
 

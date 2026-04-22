@@ -1,4 +1,4 @@
----
+﻿---
 title: "York 8 Flashes Error Code — Causes & Fix"
 description: "What 8 flashes on a York furnace means, why ignition lockout occurs, and how to diagnose and reset the system."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -38,10 +38,10 @@ Eight LED flashes on a York furnace indicates ignition lockout. The control boar
 
 | Part | Notes |
 |------|-------|
-| Hot surface igniter | Verify silicon carbide vs. silicon nitride type for your York model |
-| Flame sensor | Universal or OEM; clean before replacing to confirm fault |
-| Pressure switch | Replace if diaphragm is ruptured or contacts are open at correct vacuum |
-| Draft inducer motor | Replace if motor is noisy, slow, or fails to start |
+| [Hot surface igniter](https://www.amazon.com/s?k=Hot%20surface%20igniter&tag=errorcodefixe-20) | Verify silicon carbide vs. silicon nitride type for your York model |
+| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | Universal or OEM; clean before replacing to confirm fault |
+| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Replace if diaphragm is ruptured or contacts are open at correct vacuum |
+| [Draft inducer motor](https://www.amazon.com/s?k=Draft%20inducer%20motor&tag=errorcodefixe-20) | Replace if motor is noisy, slow, or fails to start |
 
 ## When to Call a Pro
 

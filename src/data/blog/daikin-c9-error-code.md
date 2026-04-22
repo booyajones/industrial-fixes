@@ -1,4 +1,4 @@
----
+﻿---
 title: "Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault"
 description: "Daikin error code C9 means the compressor discharge temperature sensor is faulty or out of range. Learn causes, diagnostic steps, and how to fix it."
 pubDatetime: 2026-04-22T17:00:00Z
@@ -29,13 +29,13 @@ The discharge temperature sensor (also called the Td sensor) is mounted on the c
 
 ## Common Causes {#most-likely-cause}
 
-| Cause | Likelihood |
+| [Cause](https://www.amazon.com/s?k=Cause&tag=errorcodefixe-20) | Likelihood |
 |---|---|
-| Failed discharge temperature sensor | Very High |
-| Loose or corroded sensor connector | High |
-| Damaged sensor wiring (pinched or chafed) | Medium |
-| Outdoor PCB fault (analog input failure) | Medium |
-| Actual high discharge temperature (low refrigerant) | Low |
+| [Failed discharge temperature sensor](https://www.amazon.com/s?k=Failed%20discharge%20temperature%20sensor&tag=errorcodefixe-20) | Very High |
+| [Loose or corroded sensor connector](https://www.amazon.com/s?k=Loose%20or%20corroded%20sensor%20connector&tag=errorcodefixe-20) | High |
+| [Damaged sensor wiring (pinched or chafed)](https://www.amazon.com/s?k=Damaged%20sensor%20wiring%20(pinched%20or%20chafed)&tag=errorcodefixe-20) | Medium |
+| [Outdoor PCB fault (analog input failure)](https://www.amazon.com/s?k=Outdoor%20PCB%20fault%20(analog%20input%20failure)&tag=errorcodefixe-20) | Medium |
+| [Actual high discharge temperature (low refrigerant)](https://www.amazon.com/s?k=Actual%20high%20discharge%20temperature%20(low%20refrigerant)&tag=errorcodefixe-20) | Low |
 
 ## Step-by-Step Diagnosis {#diagnosis}
 
@@ -69,9 +69,9 @@ Daikin discharge temperature sensors are typically NTC thermistors:
 
 | Part | Notes |
 |---|---|
-| Discharge temperature sensor (Td) | Daikin part 1634898 or model-specific equivalent |
-| Outdoor unit PCB | Only replace if sensor and wiring check out |
-| Sensor clamp / bracket | Ensure full contact with discharge pipe |
+| [Discharge temperature sensor (Td)](https://www.amazon.com/s?k=Discharge%20temperature%20sensor%20(Td)&tag=errorcodefixe-20) | Daikin part 1634898 or model-specific equivalent |
+| [Outdoor unit PCB](https://www.amazon.com/s?k=Outdoor%20unit%20PCB&tag=errorcodefixe-20) | Only replace if sensor and wiring check out |
+| [Sensor clamp / bracket](https://www.amazon.com/s?k=Sensor%20clamp%20%2F%20bracket&tag=errorcodefixe-20) | Ensure full contact with discharge pipe |
 
 ## Reset Procedure
 

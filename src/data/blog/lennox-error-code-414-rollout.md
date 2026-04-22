@@ -1,4 +1,4 @@
----
+﻿---
 title: "Lennox Error Code 414 Rollout — Causes & Fix"
 description: "What Lennox error code 414 rollout means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,9 +36,9 @@ Lennox fault code 414 has two distinct triggers on SureLight control boards: one
 
 | Part | Notes |
 |------|-------|
-| Rollout limit switch (manual reset) | Buy matching pair if replacing one; Lennox uses 190°F or 250°F rated switches depending on position |
-| Induced draft motor | Replace if insufficient draft is confirmed cause of rollout |
-| Gas valve | Replace only if manifold pressure is non-adjustable and out of spec |
+| [Rollout limit switch (manual reset)](https://www.amazon.com/s?k=Rollout%20limit%20switch%20(manual%20reset)&tag=errorcodefixe-20) | Buy matching pair if replacing one; Lennox uses 190°F or 250°F rated switches depending on position |
+| [Induced draft motor](https://www.amazon.com/s?k=Induced%20draft%20motor&tag=errorcodefixe-20) | Replace if insufficient draft is confirmed cause of rollout |
+| [Gas valve](https://www.amazon.com/s?k=Gas%20valve&tag=errorcodefixe-20) | Replace only if manifold pressure is non-adjustable and out of spec |
 
 ## When to Call a Pro
 

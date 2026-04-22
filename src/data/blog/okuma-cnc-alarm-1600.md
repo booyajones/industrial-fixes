@@ -1,4 +1,4 @@
----
+﻿---
 title: "Okuma CNC Alarm 1600 — Communication Error Causes & Fix"
 description: "What Okuma CNC alarm 1600 means, why CNC to drive communication fails, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -37,9 +37,9 @@ Okuma Alarm 1600 indicates a **communication error between the CNC control unit 
 
 | Part | Notes |
 |------|-------|
-| Drive communication cable | Okuma model-specific; flat ribbon or shielded serial cable |
-| 24VDC control power supply | If 24V is absent; match voltage and current rating |
-| Drive module (servo amplifier) | If station-specific drive fault persists after reseating |
+| [Drive communication cable](https://www.amazon.com/s?k=Drive%20communication%20cable&tag=errorcodefixe-20) | Okuma model-specific; flat ribbon or shielded serial cable |
+| [24VDC control power supply](https://www.amazon.com/s?k=24VDC%20control%20power%20supply&tag=errorcodefixe-20) | If 24V is absent; match voltage and current rating |
+| [Drive module (servo amplifier)](https://www.amazon.com/s?k=Drive%20module%20(servo%20amplifier)&tag=errorcodefixe-20) | If station-specific drive fault persists after reseating |
 
 ## When to Call a Pro
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Fanuc Alarm 10 Servo Alarm — Causes & Fix"
 description: "What Fanuc alarm 10 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,9 +36,9 @@ Fanuc alarm 10 means servo alarm on the X-axis — specifically, the X-axis serv
 
 | Part | Notes |
 |------|-------|
-| Fanuc servo amplifier (alpha-i or beta-i series) | Model-specific; match axis and current rating |
-| Encoder (Fanuc A860 series) | Replace if encoder fault code on amplifier LED |
-| Servo motor power cable | Replace if chafed or shorted near the machine cable carrier |
+| [Fanuc servo amplifier (alpha-i or beta-i series)](https://www.amazon.com/s?k=Fanuc%20servo%20amplifier%20(alpha-i%20or%20beta-i%20series)&tag=errorcodefixe-20) | Model-specific; match axis and current rating |
+| [Encoder (Fanuc A860 series)](https://www.amazon.com/s?k=Encoder%20(Fanuc%20A860%20series)&tag=errorcodefixe-20) | Replace if encoder fault code on amplifier LED |
+| [Servo motor power cable](https://www.amazon.com/s?k=Servo%20motor%20power%20cable&tag=errorcodefixe-20) | Replace if chafed or shorted near the machine cable carrier |
 
 ## When to Call a Pro
 

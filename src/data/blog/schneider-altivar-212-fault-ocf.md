@@ -1,4 +1,4 @@
----
+﻿---
 title: "Schneider Altivar 212 Fault OCF — Overcurrent Causes & Fix"
 description: "What Schneider Altivar 212 fault OCF means, why overcurrent trips the drive, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -39,8 +39,8 @@ OCF (Overcurrent) on a Schneider Altivar 212 drive means the output current has 
 
 | Part | Notes |
 |------|-------|
-| Motor output cable | Replace if damaged or megohm test reveals insulation failure |
-| Drive (ATV212) | Required if IGBT failure is confirmed |
+| [Motor output cable](https://www.amazon.com/s?k=Motor%20output%20cable&tag=errorcodefixe-20) | Replace if damaged or megohm test reveals insulation failure |
+| [Drive (ATV212)](https://www.amazon.com/s?k=Drive%20(ATV212)&tag=errorcodefixe-20) | Required if IGBT failure is confirmed |
 
 ## When to Call a Pro
 

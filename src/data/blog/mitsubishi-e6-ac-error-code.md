@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mitsubishi E6 AC Error Code — Causes & Fix"
 description: "What Mitsubishi E6 means on AC units specifically, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,9 +36,9 @@ On Mitsubishi air conditioning units (MSZ-GL, MSZ-GE, MSY, and similar cooling-o
 
 | Part | Notes |
 |------|-------|
-| 3-conductor shielded control cable (18 AWG) | Replace full run if damage is found anywhere along it |
-| Outdoor PCB | If wiring is confirmed good and E6 persists, outdoor board is the next suspect |
-| Indoor PCB | Less commonly the cause, but possible if outdoor board passes self-test |
+| [3-conductor shielded control cable (18 AWG)](https://www.amazon.com/s?k=3-conductor%20shielded%20control%20cable%20(18%20AWG)&tag=errorcodefixe-20) | Replace full run if damage is found anywhere along it |
+| [Outdoor PCB](https://www.amazon.com/s?k=Outdoor%20PCB&tag=errorcodefixe-20) | If wiring is confirmed good and E6 persists, outdoor board is the next suspect |
+| [Indoor PCB](https://www.amazon.com/s?k=Indoor%20PCB&tag=errorcodefixe-20) | Less commonly the cause, but possible if outdoor board passes self-test |
 
 ## When to Call a Pro
 

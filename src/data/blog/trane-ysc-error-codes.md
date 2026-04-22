@@ -1,4 +1,4 @@
----
+﻿---
 title: "Trane YSC Packaged Rooftop Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Trane YSC packaged rooftop unit error codes, LED flash sequences, common fault causes, and step-by-step repair procedures for commercial technicians."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -21,21 +21,21 @@ The Trane YSC is a light commercial gas/electric packaged rooftop unit available
 
 ## Trane YSC ReliaTel Fault Code Reference
 
-| Display Code | Fault |
+| [Display Code](https://www.amazon.com/s?k=Display%20Code&tag=errorcodefixe-20) | Fault |
 |---|---|
-| HP | High-pressure switch trip |
-| LP | Low-pressure switch trip |
-| FP | Freeze protection — supply air low temperature |
-| OFC | Outdoor fan circuit fault |
-| IFC | Indoor fan circuit fault |
-| HPS | High-pressure switch lockout (manual reset required) |
-| LPS | Low-pressure switch lockout (manual reset required) |
-| LLT | Liquid line temperature sensor fault |
-| RAT | Return air temperature sensor fault |
-| SAT | Supply air temperature sensor fault |
-| OAT | Outdoor air temperature sensor fault |
-| COM | Communication fault |
-| 88 | Self-test mode |
+| [HP](https://www.amazon.com/s?k=HP&tag=errorcodefixe-20) | High-pressure switch trip |
+| [LP](https://www.amazon.com/s?k=LP&tag=errorcodefixe-20) | Low-pressure switch trip |
+| [FP](https://www.amazon.com/s?k=FP&tag=errorcodefixe-20) | Freeze protection — supply air low temperature |
+| [OFC](https://www.amazon.com/s?k=OFC&tag=errorcodefixe-20) | Outdoor fan circuit fault |
+| [IFC](https://www.amazon.com/s?k=IFC&tag=errorcodefixe-20) | Indoor fan circuit fault |
+| [HPS](https://www.amazon.com/s?k=HPS&tag=errorcodefixe-20) | High-pressure switch lockout (manual reset required) |
+| [LPS](https://www.amazon.com/s?k=LPS&tag=errorcodefixe-20) | Low-pressure switch lockout (manual reset required) |
+| [LLT](https://www.amazon.com/s?k=LLT&tag=errorcodefixe-20) | Liquid line temperature sensor fault |
+| [RAT](https://www.amazon.com/s?k=RAT&tag=errorcodefixe-20) | Return air temperature sensor fault |
+| [SAT](https://www.amazon.com/s?k=SAT&tag=errorcodefixe-20) | Supply air temperature sensor fault |
+| [OAT](https://www.amazon.com/s?k=OAT&tag=errorcodefixe-20) | Outdoor air temperature sensor fault |
+| [COM](https://www.amazon.com/s?k=COM&tag=errorcodefixe-20) | Communication fault |
+| [88](https://www.amazon.com/s?k=88&tag=errorcodefixe-20) | Self-test mode |
 
 ## Common Causes by Code
 
@@ -57,12 +57,12 @@ The Trane YSC is a light commercial gas/electric packaged rooftop unit available
 
 | Part | Notes |
 |---|---|
-| Condenser fan motor | Multiple motors on larger tonnage; match HP and RPM |
-| Run capacitor | Check µF against nameplate before replacing motor |
-| ReliaTel controller | For persistent COM or sensor faults |
-| Supply/return air sensor | NTC thermistor; causes FP, SAT, or RAT codes |
-| High-pressure switch | 610 PSIG for R-410A |
-| Liquid line filter-drier | Replace after any refrigerant-side repair |
+| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | Multiple motors on larger tonnage; match HP and RPM |
+| [Run capacitor](https://www.amazon.com/s?k=Run%20capacitor&tag=errorcodefixe-20) | Check µF against nameplate before replacing motor |
+| [ReliaTel controller](https://www.amazon.com/s?k=ReliaTel%20controller&tag=errorcodefixe-20) | For persistent COM or sensor faults |
+| [Supply/return air sensor](https://www.amazon.com/s?k=Supply%2Freturn%20air%20sensor&tag=errorcodefixe-20) | NTC thermistor; causes FP, SAT, or RAT codes |
+| [High-pressure switch](https://www.amazon.com/s?k=High-pressure%20switch&tag=errorcodefixe-20) | 610 PSIG for R-410A |
+| [Liquid line filter-drier](https://www.amazon.com/s?k=Liquid%20line%20filter-drier&tag=errorcodefixe-20) | Replace after any refrigerant-side repair |
 
 ## When to Call a Pro
 

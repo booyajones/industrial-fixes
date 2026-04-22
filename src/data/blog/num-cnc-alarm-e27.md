@@ -1,4 +1,4 @@
----
+﻿---
 title: "NUM CNC Alarm E27 — Servo Error Causes & Fix"
 description: "What NUM CNC alarm E27 means on NUM 1060/1080 series controls, why servo errors occur, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -39,9 +39,9 @@ Alarm E27 on a NUM CNC system (NUM 1060, 1080, or Flexium series) indicates a se
 
 | Part | Notes |
 |------|-------|
-| Encoder or linear scale read head | Match NUM feedback specification for the axis |
-| NUM servo amplifier | Match axis power rating and NUM system generation |
-| Feedback cable | Shielded; replace if any damage or corrosion is found |
+| [Encoder or linear scale read head](https://www.amazon.com/s?k=Encoder%20or%20linear%20scale%20read%20head&tag=errorcodefixe-20) | Match NUM feedback specification for the axis |
+| [NUM servo amplifier](https://www.amazon.com/s?k=NUM%20servo%20amplifier&tag=errorcodefixe-20) | Match axis power rating and NUM system generation |
+| [Feedback cable](https://www.amazon.com/s?k=Feedback%20cable&tag=errorcodefixe-20) | Shielded; replace if any damage or corrosion is found |
 
 ## When to Call a Pro
 

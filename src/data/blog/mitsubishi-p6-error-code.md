@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mitsubishi Mini Split P6 Error Code Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-05T08:00:00Z
@@ -50,12 +50,9 @@ This is one of the most common Mitsubishi mini split faults — and one of the m
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Where to Buy | Typical Cost |
-|------|-------------|-------------|
-| Condensate pump (Little Giant VCMA-20ULS) | Amazon, Grainger | $60–$100 |
-| Float switch (Rectorseal Sure Seal replacement) | HVAC distributor | $15–$35 |
-| 3/4" PVC drain line fittings and pipe | Home Depot | $10–$20 |
-| Evaporator coil cleaner (Nu-Calgon 4171-75) | Amazon, Johnstone Supply | $12–$20 |
+| Part | Where to Buy | Typical Cost | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |-------------|-------------|
+| Condensate pump (Little Giant VCMA-20ULS) | [Amazon, Grainger](https://www.amazon.com/s?k=Amazon%2C%20Grainger&tag=errorcodefixe-20) | $60–$100 |
+| [Float switch (Rectorseal Sure Seal replacement)](https://www.amazon.com/s?k=Float%20switch%20(Rectorseal%20Sure%20Seal%20replacement)&tag=errorcodefixe-20) | HVAC distributor | $15–$35 | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 3/4" PVC drain line fittings and pipe | Home Depot | [$10–$20](https://www.amazon.com/s?k=%2410%E2%80%93%2420&tag=errorcodefixe-20) |  | Evaporator coil cleaner (Nu-Calgon 4171-75) | [Amazon, Johnstone Supply](https://www.amazon.com/s?k=Amazon%2C%20Johnstone%20Supply&tag=errorcodefixe-20) | $12–$20 |
 
 ## When to Call a Professional
 

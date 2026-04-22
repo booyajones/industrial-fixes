@@ -1,4 +1,4 @@
----
+﻿---
 title: "Tuttnauer Autoclave Fault Codes - Complete Guide"
 description: "Tuttnauer autoclave fault codes for 2340, 3870, Elara, and Valueklave series: error codes, causes, and troubleshooting steps."
 pubDatetime: 2026-04-22T20:00:00Z
@@ -17,18 +17,10 @@ tags:
 
 Tuttnauer autoclaves (2340, 3870, Elara, Valueklave, and EZ10 series) display fault codes on the digital or LED display panel. Common in dental, veterinary, and laboratory settings.
 
-| Code | Model | Meaning | Quick Fix |
-|------|-------|---------|-----------|
-| E1 | All | Temperature sensor fault | Check sensor wiring and resistance |
-| E2 | All | Pressure sensor fault | Check transducer signal |
-| E3 | 2340/3870 | Temperature not reached in time | Check steam supply and door seal |
-| E4 | All | Overpressure safety fault | Check safety valve |
-| E5 | All | Door not closed or locked | Check door and locking mechanism |
-| E6 | Electronic | Memory/EEPROM fault | Contact service |
-| E7 | Elara | Water level fault | Check water reservoir |
-| E8 | Elara | Conductivity fault | Check water quality (use distilled) |
-| E9 | EZ10 | Printer fault | Check printer paper/connection |
-| LO | Display | Low water level | Refill with distilled water |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Model | Meaning | [Quick Fix](https://www.amazon.com/s?k=Quick%20Fix&tag=errorcodefixe-20) |  |------|-------|---------|-----------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E1 | All | [Temperature sensor fault](https://www.amazon.com/s?k=Temperature%20sensor%20fault&tag=errorcodefixe-20) | Check sensor wiring and resistance |
+| [E2](https://www.amazon.com/s?k=E2&tag=errorcodefixe-20) | All | Pressure sensor fault | [Check transducer signal](https://www.amazon.com/s?k=Check%20transducer%20signal&tag=errorcodefixe-20) |  | E3 | [2340/3870](https://www.amazon.com/s?k=2340%2F3870&tag=errorcodefixe-20) | Temperature not reached in time | Check steam supply and door seal | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E4 | All | [Overpressure safety fault](https://www.amazon.com/s?k=Overpressure%20safety%20fault&tag=errorcodefixe-20) | Check safety valve |
+| [E5](https://www.amazon.com/s?k=E5&tag=errorcodefixe-20) | All | Door not closed or locked | [Check door and locking mechanism](https://www.amazon.com/s?k=Check%20door%20and%20locking%20mechanism&tag=errorcodefixe-20) |  | E6 | [Electronic](https://www.amazon.com/s?k=Electronic&tag=errorcodefixe-20) | Memory/EEPROM fault | Contact service | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E7 | Elara | [Water level fault](https://www.amazon.com/s?k=Water%20level%20fault&tag=errorcodefixe-20) | Check water reservoir |
+| [E8](https://www.amazon.com/s?k=E8&tag=errorcodefixe-20) | Elara | Conductivity fault | [Check water quality (use distilled)](https://www.amazon.com/s?k=Check%20water%20quality%20(use%20distilled)&tag=errorcodefixe-20) |  | E9 | [EZ10](https://www.amazon.com/s?k=EZ10&tag=errorcodefixe-20) | Printer fault | Check printer paper/connection | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | LO | Display | [Low water level](https://www.amazon.com/s?k=Low%20water%20level&tag=errorcodefixe-20) | Refill with distilled water |
 
 ## Most Common Faults
 
@@ -51,11 +43,11 @@ Elara models test water conductivity to prevent mineral buildup damage. If tap w
 
 | Part | Notes |
 |------|-------|
-| PT100 temperature sensor | Replace on E1 |
-| Door gasket (silicone) | Replace on E5 / poor sealing |
-| Heating element | Replace on slow heat-up |
-| Safety valve | Replace on overpressure fault |
-| Level sensor | Replace on false LO alarm |
+| [PT100 temperature sensor](https://www.amazon.com/s?k=PT100%20temperature%20sensor&tag=errorcodefixe-20) | Replace on E1 |
+| [Door gasket (silicone)](https://www.amazon.com/s?k=Door%20gasket%20(silicone)&tag=errorcodefixe-20) | Replace on E5 / poor sealing |
+| [Heating element](https://www.amazon.com/s?k=Heating%20element&tag=errorcodefixe-20) | Replace on slow heat-up |
+| [Safety valve](https://www.amazon.com/s?k=Safety%20valve&tag=errorcodefixe-20) | Replace on overpressure fault |
+| [Level sensor](https://www.amazon.com/s?k=Level%20sensor&tag=errorcodefixe-20) | Replace on false LO alarm |
 
 ## When to Call a Pro
 Tuttnauer autoclave spore testing, cycle validation, and annual PM require trained biomedical technicians. In dental and medical practices, sterilizer validation records are required by regulatory bodies.

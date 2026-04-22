@@ -1,4 +1,4 @@
----
+﻿---
 title: "Danfoss FC102 VLT HVAC Drive Fault Codes — Complete Diagnostic Reference"
 description: "Complete guide to Danfoss FC102 VLT HVAC Drive fault codes, alarm causes, and step-by-step repair procedures for HVAC and industrial technicians."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -21,29 +21,29 @@ The Danfoss VLT HVAC Drive FC102 is a variable frequency drive purpose-built for
 
 ## Danfoss FC102 Alarm Code Reference
 
-| Alarm Code | Description |
+| [Alarm Code](https://www.amazon.com/s?k=Alarm%20Code&tag=errorcodefixe-20) | Description |
 |---|---|
-| AL 2 | Live zero fault — 4–20mA signal lost |
-| AL 4 | Mains phase loss — input phase fault |
-| AL 5 | DC link voltage high — overvoltage |
-| AL 6 | DC link voltage low — undervoltage |
-| AL 7 | DC overvoltage — transient surge |
-| AL 8 | DC undervoltage |
-| AL 9 | Inverter overloaded — I²t |
-| AL 10 | Motor ETR overload — thermal |
-| AL 11 | Motor thermistor overtemperature |
-| AL 12 | Torque limit — load too high |
-| AL 13 | Overcurrent — output short circuit |
-| AL 14 | Earth fault — ground fault on motor output |
-| AL 16 | Short circuit — output phases shorted |
-| AL 17 | Control word timeout — fieldbus loss |
-| AL 18 | Startup fault |
-| AL 25 | Brake resistor short circuit |
-| AL 29 | Drive overtemperature — heatsink |
-| AL 30 | Motor phase loss |
-| AL 34 | Fieldbus communication fault |
-| AL 47 | 24V supply low |
-| AL 65 | Control card overtemperature |
+| [AL 2](https://www.amazon.com/s?k=AL%202&tag=errorcodefixe-20) | Live zero fault — 4–20mA signal lost |
+| [AL 4](https://www.amazon.com/s?k=AL%204&tag=errorcodefixe-20) | Mains phase loss — input phase fault |
+| [AL 5](https://www.amazon.com/s?k=AL%205&tag=errorcodefixe-20) | DC link voltage high — overvoltage |
+| [AL 6](https://www.amazon.com/s?k=AL%206&tag=errorcodefixe-20) | DC link voltage low — undervoltage |
+| [AL 7](https://www.amazon.com/s?k=AL%207&tag=errorcodefixe-20) | DC overvoltage — transient surge |
+| [AL 8](https://www.amazon.com/s?k=AL%208&tag=errorcodefixe-20) | DC undervoltage |
+| [AL 9](https://www.amazon.com/s?k=AL%209&tag=errorcodefixe-20) | Inverter overloaded — I²t |
+| [AL 10](https://www.amazon.com/s?k=AL%2010&tag=errorcodefixe-20) | Motor ETR overload — thermal |
+| [AL 11](https://www.amazon.com/s?k=AL%2011&tag=errorcodefixe-20) | Motor thermistor overtemperature |
+| [AL 12](https://www.amazon.com/s?k=AL%2012&tag=errorcodefixe-20) | Torque limit — load too high |
+| [AL 13](https://www.amazon.com/s?k=AL%2013&tag=errorcodefixe-20) | Overcurrent — output short circuit |
+| [AL 14](https://www.amazon.com/s?k=AL%2014&tag=errorcodefixe-20) | Earth fault — ground fault on motor output |
+| [AL 16](https://www.amazon.com/s?k=AL%2016&tag=errorcodefixe-20) | Short circuit — output phases shorted |
+| [AL 17](https://www.amazon.com/s?k=AL%2017&tag=errorcodefixe-20) | Control word timeout — fieldbus loss |
+| [AL 18](https://www.amazon.com/s?k=AL%2018&tag=errorcodefixe-20) | Startup fault |
+| [AL 25](https://www.amazon.com/s?k=AL%2025&tag=errorcodefixe-20) | Brake resistor short circuit |
+| [AL 29](https://www.amazon.com/s?k=AL%2029&tag=errorcodefixe-20) | Drive overtemperature — heatsink |
+| [AL 30](https://www.amazon.com/s?k=AL%2030&tag=errorcodefixe-20) | Motor phase loss |
+| [AL 34](https://www.amazon.com/s?k=AL%2034&tag=errorcodefixe-20) | Fieldbus communication fault |
+| [AL 47](https://www.amazon.com/s?k=AL%2047&tag=errorcodefixe-20) | 24V supply low |
+| [AL 65](https://www.amazon.com/s?k=AL%2065&tag=errorcodefixe-20) | Control card overtemperature |
 
 ## Common Causes by Code
 
@@ -65,11 +65,11 @@ The Danfoss VLT HVAC Drive FC102 is a variable frequency drive purpose-built for
 
 | Part | Notes |
 |---|---|
-| LCP panel | For display faults; replaceable without drive power-off |
-| HVAC drive cooling fan | Internal replacement fan; fan fault causes AL 29 |
-| Motor thermistor | KTY or PTC; for AL 11 |
-| BACnet/IP or Modbus card | For fieldbus integration |
-| Complete FC102 drive | For hardware faults or severe damage |
+| [LCP panel](https://www.amazon.com/s?k=LCP%20panel&tag=errorcodefixe-20) | For display faults; replaceable without drive power-off |
+| [HVAC drive cooling fan](https://www.amazon.com/s?k=HVAC%20drive%20cooling%20fan&tag=errorcodefixe-20) | Internal replacement fan; fan fault causes AL 29 |
+| [Motor thermistor](https://www.amazon.com/s?k=Motor%20thermistor&tag=errorcodefixe-20) | KTY or PTC; for AL 11 |
+| [BACnet/IP or Modbus card](https://www.amazon.com/s?k=BACnet%2FIP%20or%20Modbus%20card&tag=errorcodefixe-20) | For fieldbus integration |
+| [Complete FC102 drive](https://www.amazon.com/s?k=Complete%20FC102%20drive&tag=errorcodefixe-20) | For hardware faults or severe damage |
 
 ## When to Call a Pro
 

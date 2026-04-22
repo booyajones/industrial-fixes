@@ -1,4 +1,4 @@
----
+﻿---
 title: "Fanuc CNC Alarm Codes — Complete Reference"
 description: "Fanuc CNC alarm codes: servo alarms (400–499), overtravel (1–6), APC alarms (300–360), and program errors (PS alarms) with causes and fixes."
 pubDatetime: 2026-04-22T16:00:00Z
@@ -15,24 +15,12 @@ tags:
 
 Fanuc CNC controls (0i, 16i, 18i, 21i, 30i, 31i, 32i series) display alarm codes on the CNC operator panel with a prefix letter indicating the alarm type. **SV** = Servo alarm, **OT** = Overtravel, **APC** = Absolute position encoder alarm, **PS** = Program/parameter error, **SP** = Spindle alarm, **SYS** = System alarm.
 
-| Code | Type | Meaning | Common Fix |
-|------|------|---------|-----------|
-| 1–6 | OT | Overtravel (+ or −) each axis | Release axis from hardware limit |
-| 90 | — | Axis servo alarm | Check servo drive and motor |
-| 300 | APC | Reference return required | Perform reference return |
-| 360 | APC | Battery for absolute encoder low | Replace encoder battery |
-| 400 | SV | Servo alarm — axis n | Check amplifier and motor |
-| 401 | SV | Servo ready signal off | Check servo power supply |
-| 411 | SV | Axis n: error too large | Servo tuning or mechanical issue |
-| 414 | SV | FSSB communication fault | Check FSSB cable |
-| 424 | SV | Servo motor overheat | Check motor cooling |
-| 435 | SV | Axis n: overspeed | Check feedback device |
-| 436 | SV | Axis n: current position error | Check scale or encoder |
-| 437 | SV | Axis n: position gain error | Check servo parameters |
-| 700 | SP | Spindle alarm | Check spindle drive |
-| 750 | SP | Spindle feedback fault | Check spindle encoder |
-
-## Most Common Codes
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Type | Meaning | [Common Fix](https://www.amazon.com/s?k=Common%20Fix&tag=errorcodefixe-20) |  |------|------|---------|-----------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 1–6 | OT | [Overtravel (+ or −) each axis](https://www.amazon.com/s?k=Overtravel%20(%2B%20or%20%E2%88%92)%20each%20axis&tag=errorcodefixe-20) | Release axis from hardware limit |
+| [90](https://www.amazon.com/s?k=90&tag=errorcodefixe-20) | — | Axis servo alarm | [Check servo drive and motor](https://www.amazon.com/s?k=Check%20servo%20drive%20and%20motor&tag=errorcodefixe-20) |  | 300 | [APC](https://www.amazon.com/s?k=APC&tag=errorcodefixe-20) | Reference return required | Perform reference return | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 360 | APC | [Battery for absolute encoder low](https://www.amazon.com/s?k=Battery%20for%20absolute%20encoder%20low&tag=errorcodefixe-20) | Replace encoder battery |
+| [400](https://www.amazon.com/s?k=400&tag=errorcodefixe-20) | SV | Servo alarm — axis n | [Check amplifier and motor](https://www.amazon.com/s?k=Check%20amplifier%20and%20motor&tag=errorcodefixe-20) |  | 401 | [SV](https://www.amazon.com/s?k=SV&tag=errorcodefixe-20) | Servo ready signal off | Check servo power supply | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 411 | SV | [Axis n: error too large](https://www.amazon.com/s?k=Axis%20n%3A%20error%20too%20large&tag=errorcodefixe-20) | Servo tuning or mechanical issue |
+| [414](https://www.amazon.com/s?k=414&tag=errorcodefixe-20) | SV | FSSB communication fault | [Check FSSB cable](https://www.amazon.com/s?k=Check%20FSSB%20cable&tag=errorcodefixe-20) |  | 424 | [SV](https://www.amazon.com/s?k=SV&tag=errorcodefixe-20) | Servo motor overheat | Check motor cooling | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 435 | SV | [Axis n: overspeed](https://www.amazon.com/s?k=Axis%20n%3A%20overspeed&tag=errorcodefixe-20) | Check feedback device |
+| [436](https://www.amazon.com/s?k=436&tag=errorcodefixe-20) | SV | Axis n: current position error | [Check scale or encoder](https://www.amazon.com/s?k=Check%20scale%20or%20encoder&tag=errorcodefixe-20) |  | 437 | [SV](https://www.amazon.com/s?k=SV&tag=errorcodefixe-20) | Axis n: position gain error | Check servo parameters | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 700 | SP | [Spindle alarm](https://www.amazon.com/s?k=Spindle%20alarm&tag=errorcodefixe-20) | Check spindle drive |
+| [750](https://www.amazon.com/s?k=750&tag=errorcodefixe-20) | SP | Spindle feedback fault | [Check spindle encoder](https://www.amazon.com/s?k=Check%20spindle%20encoder&tag=errorcodefixe-20) | ## Most Common Codes
 
 ### Alarm 1–6: Overtravel
 A machine axis traveled beyond its hardware limit switch. The axis is physically held at the limit. To release: (1) enter the Fanuc manual override mode (hold the OT release function key + jog in the opposite direction from the limit), (2) jog the axis back within the machine travel range. On most Fanuc 0i-F controls, hold the soft key labeled "OT Release" then jog the axis in the opposite direction.
@@ -61,13 +49,8 @@ The spindle drive reported a fault. Check the spindle drive's own fault display 
 
 Most Fanuc alarms clear with the RESET key on the MDI panel after the cause is fixed. OT alarms require the special OT Release procedure (hold release key while jogging). APC/encoder alarms may require a controlled machine reference return.
 
-## Parts Often Needed
-
-| Part | Notes |
-|------|-------|
-| Encoder battery | A06B-6073-K001 (3V, check model for compatible P/N) |
-| FSSB fiber optic cable | A66L-6001-0023 series |
-| Servo amplifier | A06B-6140 series (0i-D) or A06B-6141 series (0i-F) |
+## Parts Often Needed | Part | [Notes](https://www.amazon.com/s?k=Notes&tag=errorcodefixe-20) |  |------|-------|
+| Encoder battery | [A06B-6073-K001 (3V, check model for compatible P/N)](https://www.amazon.com/s?k=A06B-6073-K001%20(3V%2C%20check%20model%20for%20compatible%20P%2FN)&tag=errorcodefixe-20) |  | FSSB fiber optic cable | [A66L-6001-0023 series](https://www.amazon.com/s?k=A66L-6001-0023%20series&tag=errorcodefixe-20) |  | Servo amplifier | A06B-6140 series (0i-D) or A06B-6141 series (0i-F) |
 
 ## When to Call a Pro
 Alarm 414 (FSSB communication failure across multiple axes), SYS (system) alarms, and SP spindle alarms with no clear mechanical cause require a Fanuc-trained service engineer. Fanuc has 24-hour phone support for production-critical alarm conditions.

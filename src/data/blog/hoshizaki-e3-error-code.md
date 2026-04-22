@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hoshizaki E3 Error Code — Causes & Fix"
 description: "What Hoshizaki E3 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,9 +36,9 @@ Hoshizaki error code E3 means the harvest cycle is taking too long — the contr
 
 | Part | Notes |
 |------|-------|
-| Hot gas bypass valve | Hoshizaki part number varies by model; do not substitute non-OEM valves |
-| Condenser coil cleaner (foaming) | Nu-Calgon Coil King or equivalent |
-| Refrigerant (R-404A or R-448A depending on model) | Requires EPA 608-certified tech |
+| [Hot gas bypass valve](https://www.amazon.com/s?k=Hot%20gas%20bypass%20valve&tag=errorcodefixe-20) | Hoshizaki part number varies by model; do not substitute non-OEM valves |
+| [Condenser coil cleaner (foaming)](https://www.amazon.com/s?k=Condenser%20coil%20cleaner%20(foaming)&tag=errorcodefixe-20) | Nu-Calgon Coil King or equivalent |
+| [Refrigerant (R-404A or R-448A depending on model)](https://www.amazon.com/s?k=Refrigerant%20(R-404A%20or%20R-448A%20depending%20on%20model)&tag=errorcodefixe-20) | Requires EPA 608-certified tech |
 
 ## When to Call a Pro
 

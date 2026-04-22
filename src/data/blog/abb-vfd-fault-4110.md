@@ -1,4 +1,4 @@
----
+﻿---
 title: "ABB VFD Fault 4110 — Causes & Fix"
 description: "What ABB VFD fault code 4110 means, why the control board temperature alarm trips, and how to diagnose and fix it."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -38,9 +38,9 @@ Fault 4110 on an ABB variable frequency drive (ACS series) indicates a control b
 
 | Part | Notes |
 |------|-------|
-| Internal cooling fan | Match to ABB drive frame size and part number |
-| Enclosure ventilation fan | For panel cooling; add if ambient is consistently high |
-| Thermal interface pad | Replace if control board heat sink compound has dried out |
+| [Internal cooling fan](https://www.amazon.com/s?k=Internal%20cooling%20fan&tag=errorcodefixe-20) | Match to ABB drive frame size and part number |
+| [Enclosure ventilation fan](https://www.amazon.com/s?k=Enclosure%20ventilation%20fan&tag=errorcodefixe-20) | For panel cooling; add if ambient is consistently high |
+| [Thermal interface pad](https://www.amazon.com/s?k=Thermal%20interface%20pad&tag=errorcodefixe-20) | Replace if control board heat sink compound has dried out |
 
 ## When to Call a Pro
 

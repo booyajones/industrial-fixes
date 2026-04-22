@@ -1,4 +1,4 @@
----
+﻿---
 title: "Fanuc Alarm 750 — Causes & Fix"
 description: "What Fanuc CNC alarm 750 means, why the spindle serial link errors, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -39,9 +39,9 @@ Alarm 750 on a Fanuc CNC (FS0i, FS16i, FS18i, FS21i, FS30i) is a Spindle Serial 
 
 | Part | Notes |
 |------|-------|
-| JYA/JYB optical fiber cable | Fanuc OEM; do not substitute standard fiber patch cables |
-| Spindle amplifier (SPM) | Must match Fanuc model and revision |
-| 24VDC control power supply | Replace if output is absent or out of tolerance |
+| [JYA/JYB optical fiber cable](https://www.amazon.com/s?k=JYA%2FJYB%20optical%20fiber%20cable&tag=errorcodefixe-20) | Fanuc OEM; do not substitute standard fiber patch cables |
+| [Spindle amplifier (SPM)](https://www.amazon.com/s?k=Spindle%20amplifier%20(SPM)&tag=errorcodefixe-20) | Must match Fanuc model and revision |
+| [24VDC control power supply](https://www.amazon.com/s?k=24VDC%20control%20power%20supply&tag=errorcodefixe-20) | Replace if output is absent or out of tolerance |
 
 ## When to Call a Pro
 

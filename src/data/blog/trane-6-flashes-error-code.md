@@ -1,4 +1,4 @@
----
+﻿---
 title: "Trane 6 Flashes Error Code — Causes & Fix"
 description: "What Trane 6 flash error code means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,9 +36,9 @@ Six LED flashes on a Trane furnace control board indicates the rollout switch ha
 
 | Part | Notes |
 |------|-------|
-| Rollout switch (manual reset) | Match the correct temperature rating for your model |
-| Induced draft motor | Replace if running slow, noisy, or failing to start |
-| Flue vent pipe section | Replace collapsed or damaged vent segments |
+| [Rollout switch (manual reset)](https://www.amazon.com/s?k=Rollout%20switch%20(manual%20reset)&tag=errorcodefixe-20) | Match the correct temperature rating for your model |
+| [Induced draft motor](https://www.amazon.com/s?k=Induced%20draft%20motor&tag=errorcodefixe-20) | Replace if running slow, noisy, or failing to start |
+| [Flue vent pipe section](https://www.amazon.com/s?k=Flue%20vent%20pipe%20section&tag=errorcodefixe-20) | Replace collapsed or damaged vent segments |
 
 ## When to Call a Pro
 

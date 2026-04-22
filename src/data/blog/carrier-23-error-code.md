@@ -1,4 +1,4 @@
----
+﻿---
 title: "Carrier 23 Error Code — Draft Safeguard Switch Fault"
 description: "Carrier error code 23 means the draft safeguard switch opened or failed to prove proper inducer draft. Learn the causes, diagnostics, and fix for Carrier 23."
 pubDatetime: 2026-04-22T17:00:00Z
@@ -40,10 +40,10 @@ Carrier **error code 23** means the **draft safeguard switch is open** or failed
 
 | Part | Notes |
 |------|-------|
-| Pressure switch | Match the exact negative-pressure rating |
-| Pressure-switch tubing | Cheap and often overlooked |
-| Inducer motor assembly | Replace if weak, noisy, or seized |
-| Condensate trap / hose | Check on condensing furnaces |
+| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Match the exact negative-pressure rating |
+| [Pressure-switch tubing](https://www.amazon.com/s?k=Pressure-switch%20tubing&tag=errorcodefixe-20) | Cheap and often overlooked |
+| [Inducer motor assembly](https://www.amazon.com/s?k=Inducer%20motor%20assembly&tag=errorcodefixe-20) | Replace if weak, noisy, or seized |
+| [Condensate trap / hose](https://www.amazon.com/s?k=Condensate%20trap%20%2F%20hose&tag=errorcodefixe-20) | Check on condensing furnaces |
 
 ## When to Call a Pro
 

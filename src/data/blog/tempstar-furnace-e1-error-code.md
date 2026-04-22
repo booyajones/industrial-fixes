@@ -1,4 +1,4 @@
----
+﻿---
 title: "Tempstar Furnace E1 Error Code — Causes & Fix"
 description: "What Tempstar furnace E1 error code means, why the pressure switch faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -37,9 +37,9 @@ The Tempstar E1 error code indicates a **pressure switch fault** — the control
 
 | Part | Notes |
 |------|-------|
-| Draft pressure switch | Single or dual-port; match cracking pressure specification from label |
-| Pressure switch hose | 3/16" or 1/4" silicone tubing |
-| Inducer motor assembly | Match HP, frame, and flange dimensions to the original |
+| [Draft pressure switch](https://www.amazon.com/s?k=Draft%20pressure%20switch&tag=errorcodefixe-20) | Single or dual-port; match cracking pressure specification from label |
+| [Pressure switch hose](https://www.amazon.com/s?k=Pressure%20switch%20hose&tag=errorcodefixe-20) | 3/16" or 1/4" silicone tubing |
+| [Inducer motor assembly](https://www.amazon.com/s?k=Inducer%20motor%20assembly&tag=errorcodefixe-20) | Match HP, frame, and flange dimensions to the original |
 
 ## When to Call a Pro
 

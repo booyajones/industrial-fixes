@@ -1,4 +1,4 @@
----
+﻿---
 title: "Tyler Refrigeration Error Code 1 — High Temperature Alarm"
 description: "What Tyler Refrigeration Error Code 1 means, why the high temperature alarm triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -40,10 +40,10 @@ Tyler Refrigeration (a brand under the Hill Phoenix / Dover Corporation umbrella
 
 | Part | Notes |
 |------|-------|
-| Evaporator fan motor | Match voltage, RPM, and blade diameter from existing motor |
-| Temperature sensor (NTC thermistor) | Match resistance specification — usually 10K ohm at 77°F |
-| Door gasket set | Match case model number for correct gasket profile |
-| Filter drier | Replace whenever refrigerant circuit is opened |
+| [Evaporator fan motor](https://www.amazon.com/s?k=Evaporator%20fan%20motor&tag=errorcodefixe-20) | Match voltage, RPM, and blade diameter from existing motor |
+| [Temperature sensor (NTC thermistor)](https://www.amazon.com/s?k=Temperature%20sensor%20(NTC%20thermistor)&tag=errorcodefixe-20) | Match resistance specification — usually 10K ohm at 77°F |
+| [Door gasket set](https://www.amazon.com/s?k=Door%20gasket%20set&tag=errorcodefixe-20) | Match case model number for correct gasket profile |
+| [Filter drier](https://www.amazon.com/s?k=Filter%20drier&tag=errorcodefixe-20) | Replace whenever refrigerant circuit is opened |
 
 ## When to Call a Pro
 

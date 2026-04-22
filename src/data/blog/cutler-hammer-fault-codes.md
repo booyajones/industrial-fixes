@@ -1,4 +1,4 @@
----
+﻿---
 title: "Cutler-Hammer (Eaton) Fault Codes - Complete Guide"
 description: "Cutler-Hammer (Eaton) motor starters, contactors, and circuit breaker fault codes: overload relay trips, fault indicators, and fixes."
 pubDatetime: 2026-04-22T20:00:00Z
@@ -17,18 +17,10 @@ tags:
 
 Cutler-Hammer (branded Eaton since 2004) makes motor starters, combination motor controllers, and circuit breakers. The most common fault diagnostics come from the C441 Motor Insight, C440/E3 Plus electronic overload relays, and Freedom Series contactors.
 
-| Fault | Device | Meaning | Quick Fix |
-|-------|--------|---------|-----------|
-| OL - Overload | C440/E3 Plus | Motor current exceeded | Check motor amps and load |
-| GF - Ground Fault | E3 Plus | Earth fault detected | Check motor insulation |
-| PL - Phase Loss | E3 Plus | Missing phase on motor | Check supply and connections |
-| PI - Phase Imbalance | E3 Plus | Phase current imbalance | Check supply voltage balance |
-| JM - Jam/Stall | E3 Plus | Motor stalled or jammed | Check driven load |
-| UL - Underload | E3 Plus | Motor running light | Check driven load coupling |
-| Thermistor Trip | E3 Plus | Motor thermistor tripped | Check motor cooling |
-| NVR Trip | Starter | No-voltage release - power loss | Normal after power loss |
-| Contactor Weld | N/A | Contacts welded closed | Replace contactor |
-| Reset Required | C440 | Fault latch - manual reset needed | Identify fault, reset relay |
+| [Fault](https://www.amazon.com/s?k=Fault&tag=errorcodefixe-20) | Device | Meaning | [Quick Fix](https://www.amazon.com/s?k=Quick%20Fix&tag=errorcodefixe-20) |  |-------|--------|---------|-----------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | OL - Overload | C440/E3 Plus | [Motor current exceeded](https://www.amazon.com/s?k=Motor%20current%20exceeded&tag=errorcodefixe-20) | Check motor amps and load |
+| [GF - Ground Fault](https://www.amazon.com/s?k=GF%20-%20Ground%20Fault&tag=errorcodefixe-20) | E3 Plus | Earth fault detected | [Check motor insulation](https://www.amazon.com/s?k=Check%20motor%20insulation&tag=errorcodefixe-20) |  | PL - Phase Loss | [E3 Plus](https://www.amazon.com/s?k=E3%20Plus&tag=errorcodefixe-20) | Missing phase on motor | Check supply and connections | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | PI - Phase Imbalance | E3 Plus | [Phase current imbalance](https://www.amazon.com/s?k=Phase%20current%20imbalance&tag=errorcodefixe-20) | Check supply voltage balance |
+| [JM - Jam/Stall](https://www.amazon.com/s?k=JM%20-%20Jam%2FStall&tag=errorcodefixe-20) | E3 Plus | Motor stalled or jammed | [Check driven load](https://www.amazon.com/s?k=Check%20driven%20load&tag=errorcodefixe-20) |  | UL - Underload | [E3 Plus](https://www.amazon.com/s?k=E3%20Plus&tag=errorcodefixe-20) | Motor running light | Check driven load coupling | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Thermistor Trip | E3 Plus | [Motor thermistor tripped](https://www.amazon.com/s?k=Motor%20thermistor%20tripped&tag=errorcodefixe-20) | Check motor cooling |
+| [NVR Trip](https://www.amazon.com/s?k=NVR%20Trip&tag=errorcodefixe-20) | Starter | No-voltage release - power loss | [Normal after power loss](https://www.amazon.com/s?k=Normal%20after%20power%20loss&tag=errorcodefixe-20) |  | Contactor Weld | [N/A](https://www.amazon.com/s?k=N%2FA&tag=errorcodefixe-20) | Contacts welded closed | Replace contactor | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Reset Required | C440 | [Fault latch - manual reset needed](https://www.amazon.com/s?k=Fault%20latch%20-%20manual%20reset%20needed&tag=errorcodefixe-20) | Identify fault, reset relay |
 
 ## Most Common Faults
 
@@ -48,11 +40,11 @@ The E3 Plus Jam function trips when current exceeds a set multiple of FLA for a 
 
 | Part | Notes |
 |------|-------|
-| C440 overload relay | Replace on relay failure |
-| Freedom contactor | Replace on welded contacts |
-| E3 Plus module | Replace on electronics fault |
-| Overload heater elements (older) | Size to motor FLA |
-| Contactor coil | Replace on coil open/short |
+| [C440 overload relay](https://www.amazon.com/s?k=C440%20overload%20relay&tag=errorcodefixe-20) | Replace on relay failure |
+| [Freedom contactor](https://www.amazon.com/s?k=Freedom%20contactor&tag=errorcodefixe-20) | Replace on welded contacts |
+| [E3 Plus module](https://www.amazon.com/s?k=E3%20Plus%20module&tag=errorcodefixe-20) | Replace on electronics fault |
+| [Overload heater elements (older)](https://www.amazon.com/s?k=Overload%20heater%20elements%20(older)&tag=errorcodefixe-20) | Size to motor FLA |
+| [Contactor coil](https://www.amazon.com/s?k=Contactor%20coil&tag=errorcodefixe-20) | Replace on coil open/short |
 
 ## When to Call a Pro
 Repeated overload trips on a properly-sized motor indicate mechanical or electrical problems with the motor or load. Have a motor shop test winding insulation resistance and bearing condition before assuming the relay is mis-set.

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Goodman 5 Flash Error Code — Causes & Fix"
 description: "What Goodman 5 flash means, why flame is sensed without a call for heat, and how to fix it step by step."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,10 +36,10 @@ Five flashes on a Goodman furnace diagnostic LED indicates "Flame Sensed When No
 
 | Part | Notes |
 |------|-------|
-| Flame sensor rod | Inexpensive universal or OEM; clean before replacing |
-| Gas valve | Replace if leaking through in standby; match BTU rating |
-| Flame sensor wire lead | Replace if insulation is damaged |
-| Control board | Last resort after other components verified |
+| [Flame sensor rod](https://www.amazon.com/s?k=Flame%20sensor%20rod&tag=errorcodefixe-20) | Inexpensive universal or OEM; clean before replacing |
+| [Gas valve](https://www.amazon.com/s?k=Gas%20valve&tag=errorcodefixe-20) | Replace if leaking through in standby; match BTU rating |
+| [Flame sensor wire lead](https://www.amazon.com/s?k=Flame%20sensor%20wire%20lead&tag=errorcodefixe-20) | Replace if insulation is damaged |
+| [Control board](https://www.amazon.com/s?k=Control%20board&tag=errorcodefixe-20) | Last resort after other components verified |
 
 ## When to Call a Pro
 

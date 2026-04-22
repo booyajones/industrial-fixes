@@ -1,4 +1,4 @@
----
+﻿---
 title: "American Water Heater Error Codes — Complete Guide"
 description: "American Water Heater error codes for gas, electric, and power vent models. Decode LED flash codes and digital display errors to fix your American water heater."
 pubDatetime: 2026-04-22T18:00:00Z
@@ -20,29 +20,15 @@ American Water Heaters is a subsidiary of A.O. Smith and shares manufacturing wi
 
 American Water Heater gas models (ProLine, Glasslined, Commercial series) use an **LED status indicator** on the gas valve body:
 
-| Flash Code | Meaning | Fix |
-|---|---|---|
-| 1 flash | Normal operation | None — system OK |
-| 2 flashes | Low thermopile voltage | Clean thermocouple, check pilot flame |
-| 3 flashes | Pressure switch fault (power vent models only) | Check blower, hoses, vent |
-| 4 flashes | Temperature limit exceeded | Reduce setpoint, check T&P valve |
-| 5 flashes | Thermal switch / sensor fault | Replace gas control valve |
-| 6 flashes | Gas valve internal fault | Replace gas control valve |
-| 7 flashes | Pilot not proving | Relight pilot, replace thermocouple |
-| Continuous ON | Power fault / flame without pilot | Gas valve failure |
+| [Flash Code](https://www.amazon.com/s?k=Flash%20Code&tag=errorcodefixe-20) | Meaning | Fix | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | --- |---|---|
+| 1 flash | [Normal operation](https://www.amazon.com/s?k=Normal%20operation&tag=errorcodefixe-20) | None — system OK |
+| [2 flashes](https://www.amazon.com/s?k=2%20flashes&tag=errorcodefixe-20) | Low thermopile voltage | Clean thermocouple, check pilot flame | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 3 flashes | Pressure switch fault (power vent models only) | [Check blower, hoses, vent](https://www.amazon.com/s?k=Check%20blower%2C%20hoses%2C%20vent&tag=errorcodefixe-20) |  | 4 flashes | [Temperature limit exceeded](https://www.amazon.com/s?k=Temperature%20limit%20exceeded&tag=errorcodefixe-20) | Reduce setpoint, check T&P valve |
+| [5 flashes](https://www.amazon.com/s?k=5%20flashes&tag=errorcodefixe-20) | Thermal switch / sensor fault | Replace gas control valve | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 6 flashes | Gas valve internal fault | [Replace gas control valve](https://www.amazon.com/s?k=Replace%20gas%20control%20valve&tag=errorcodefixe-20) |  | 7 flashes | [Pilot not proving](https://www.amazon.com/s?k=Pilot%20not%20proving&tag=errorcodefixe-20) | Relight pilot, replace thermocouple |
+| [Continuous ON](https://www.amazon.com/s?k=Continuous%20ON&tag=errorcodefixe-20) | Power fault / flame without pilot | Gas valve failure | [## Electric Models — Digital Display Codes
 
-## Electric Models — Digital Display Codes
-
-American Water Heater electric models with digital controls (ProLine Specialist, Marathon series):
-
-| Code | Meaning | Action |
-|---|---|---|
-| E1 | Upper heating element fault | Test, replace element |
-| E2 | Lower heating element fault | Test, replace element |
-| E3 | Upper thermostat fault | Test or replace thermostat |
-| E4 | Lower thermostat fault | Test or replace thermostat |
-| E5 | High limit (ECO) tripped | Reset red button, find cause |
-| E6 | Control board fault | Replace electronic thermostat/board |
+American Water Heater electric models with digital controls (ProLine Specialist, Marathon series):](https://www.amazon.com/s?k=%23%23%20Electric%20Models%20%E2%80%94%20Digital%20Display%20Codes%0A%0AAmerican%20Water%20Heater%20electric%20models%20with%20digital%20controls%20(ProLine%20Specialist%2C%20Marathon%20series)%3A&tag=errorcodefixe-20) | Code | Meaning | [Action](https://www.amazon.com/s?k=Action&tag=errorcodefixe-20) |  |---|---|---|
+| [E1](https://www.amazon.com/s?k=E1&tag=errorcodefixe-20) | Upper heating element fault | Test, replace element | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E2 | Lower heating element fault | [Test, replace element](https://www.amazon.com/s?k=Test%2C%20replace%20element&tag=errorcodefixe-20) |  | E3 | [Upper thermostat fault](https://www.amazon.com/s?k=Upper%20thermostat%20fault&tag=errorcodefixe-20) | Test or replace thermostat |
+| [E4](https://www.amazon.com/s?k=E4&tag=errorcodefixe-20) | Lower thermostat fault | Test or replace thermostat | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E5 | High limit (ECO) tripped | [Reset red button, find cause](https://www.amazon.com/s?k=Reset%20red%20button%2C%20find%20cause&tag=errorcodefixe-20) |  | E6 | [Control board fault](https://www.amazon.com/s?k=Control%20board%20fault&tag=errorcodefixe-20) | Replace electronic thermostat/board |
 
 ## Most Common American Water Heater Faults
 
@@ -85,11 +71,9 @@ Investigate why it tripped: failed thermostat letting element run continuously i
 
 Most American Water Heater gas models use a standard 24" or 36" universal thermocouple:
 
-| Part | Source | Cost |
-|---|---|---|
-| 24" universal thermocouple | Hardware store (Rheem, Honeywell compatible) | $8–15 |
-| 36" for tall units | Hardware store | $10–18 |
-| OEM thermocouple | AWH parts online | $15–25 |
+| Part | Source | Cost | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | --- |---|---|
+| 24" universal thermocouple | [Hardware store (Rheem, Honeywell compatible)](https://www.amazon.com/s?k=Hardware%20store%20(Rheem%2C%20Honeywell%20compatible)&tag=errorcodefixe-20) | $8–15 |
+| [36" for tall units](https://www.amazon.com/s?k=36%22%20for%20tall%20units&tag=errorcodefixe-20) | Hardware store | $10–18 | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | OEM thermocouple | AWH parts online | $15–25 |
 
 Thread the thermocouple into the gas valve finger-tight plus 1/4 turn — never overtighten, as the fitting is soft brass.
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Burnham Boiler E3 Error Code — Causes & Fix"
 description: "What Burnham boiler E3 error code means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,9 +36,9 @@ Burnham boiler error code E3 indicates a high-limit lockout. The high-temperatur
 
 | Part | Notes |
 |------|-------|
-| Circulator pump | Replace if failed; Taco 007 or Grundfos 15-58 are common on Burnham systems |
-| Expansion tank | Replace if waterlogged (tap the tank — a full-water sound means replace) |
-| High-limit control | Replace if it won't reset or trips below setpoint |
+| [Circulator pump](https://www.amazon.com/s?k=Circulator%20pump&tag=errorcodefixe-20) | Replace if failed; Taco 007 or Grundfos 15-58 are common on Burnham systems |
+| [Expansion tank](https://www.amazon.com/s?k=Expansion%20tank&tag=errorcodefixe-20) | Replace if waterlogged (tap the tank — a full-water sound means replace) |
+| [High-limit control](https://www.amazon.com/s?k=High-limit%20control&tag=errorcodefixe-20) | Replace if it won't reset or trips below setpoint |
 
 ## When to Call a Pro
 

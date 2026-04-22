@@ -1,4 +1,4 @@
----
+﻿---
 title: "Goodman Furnace EE2 Error Code — Causes & Fix"
 description: "What Goodman furnace EE2 error code means, why it appears, and how to diagnose and fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,9 +36,9 @@ The Goodman **EE2 error code** appears on the communicating thermostat or contro
 
 | Part | Notes |
 |------|-------|
-| Communicating thermostat | Replace when thermostat communication circuit has failed |
-| Furnace control board | Replace when board communication circuit fails and all wiring tests good |
-| Low-voltage wiring (18/5 or 18/8) | Replace if wire continuity test shows any open conductors |
+| [Communicating thermostat](https://www.amazon.com/s?k=Communicating%20thermostat&tag=errorcodefixe-20) | Replace when thermostat communication circuit has failed |
+| [Furnace control board](https://www.amazon.com/s?k=Furnace%20control%20board&tag=errorcodefixe-20) | Replace when board communication circuit fails and all wiring tests good |
+| [Low-voltage wiring (18/5 or 18/8)](https://www.amazon.com/s?k=Low-voltage%20wiring%20(18%2F5%20or%2018%2F8)&tag=errorcodefixe-20) | Replace if wire continuity test shows any open conductors |
 
 ## When to Call a Pro
 

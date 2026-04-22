@@ -1,4 +1,4 @@
----
+﻿---
 title: "Goodman Furnace E2 Error Code — Flame Sense Fault (Digital Display Models)"
 description: "Goodman E2 error on digital display furnaces means a flame sense fault. Learn how to clean the flame sensor, test it, and fix ignition timing issues."
 pubDatetime: 2026-04-22T18:00:00Z
@@ -22,14 +22,14 @@ The **E2 error code** on Goodman furnaces with digital displays (common on newer
 
 ## Why E2 Happens
 
-| Cause | Frequency |
+| [Cause](https://www.amazon.com/s?k=Cause&tag=errorcodefixe-20) | Frequency |
 |---|---|
-| Dirty/oxidized flame sensor rod | Very common |
-| Weak igniter (not hot enough to light gas) | Common |
-| Low gas pressure | Common |
-| Gas valve not opening (failed coil or wiring) | Moderate |
-| Flame sensor wire broken or grounded | Moderate |
-| IFC board microamp circuit failed | Rare |
+| [Dirty/oxidized flame sensor rod](https://www.amazon.com/s?k=Dirty%2Foxidized%20flame%20sensor%20rod&tag=errorcodefixe-20) | Very common |
+| [Weak igniter (not hot enough to light gas)](https://www.amazon.com/s?k=Weak%20igniter%20(not%20hot%20enough%20to%20light%20gas)&tag=errorcodefixe-20) | Common |
+| [Low gas pressure](https://www.amazon.com/s?k=Low%20gas%20pressure&tag=errorcodefixe-20) | Common |
+| [Gas valve not opening (failed coil or wiring)](https://www.amazon.com/s?k=Gas%20valve%20not%20opening%20(failed%20coil%20or%20wiring)&tag=errorcodefixe-20) | Moderate |
+| [Flame sensor wire broken or grounded](https://www.amazon.com/s?k=Flame%20sensor%20wire%20broken%20or%20grounded&tag=errorcodefixe-20) | Moderate |
+| [IFC board microamp circuit failed](https://www.amazon.com/s?k=IFC%20board%20microamp%20circuit%20failed&tag=errorcodefixe-20) | Rare |
 
 ## How the Flame Sensor Works
 
@@ -68,11 +68,11 @@ The silicon carbide or silicon nitride igniter must reach 1800°F+ to reliably i
 
 | Part | Cost |
 |---|---|
-| Flame sensor (universal) | $10–20 |
-| OEM Goodman flame sensor | $25–45 |
-| Hot surface igniter | $20–50 |
-| Gas valve | $80–200 |
-| IFC board | $100–300 |
+| [Flame sensor (universal)](https://www.amazon.com/s?k=Flame%20sensor%20(universal)&tag=errorcodefixe-20) | $10–20 |
+| [OEM Goodman flame sensor](https://www.amazon.com/s?k=OEM%20Goodman%20flame%20sensor&tag=errorcodefixe-20) | $25–45 |
+| [Hot surface igniter](https://www.amazon.com/s?k=Hot%20surface%20igniter&tag=errorcodefixe-20) | $20–50 |
+| [Gas valve](https://www.amazon.com/s?k=Gas%20valve&tag=errorcodefixe-20) | $80–200 |
+| [IFC board](https://www.amazon.com/s?k=IFC%20board&tag=errorcodefixe-20) | $100–300 |
 
 ## E2 vs. E1 vs. EE2
 

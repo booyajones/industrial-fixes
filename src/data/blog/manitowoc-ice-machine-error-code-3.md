@@ -1,4 +1,4 @@
----
+﻿---
 title: "Manitowoc Ice Machine Error Code 3 — Causes & Fix"
 description: "What Manitowoc ice machine error code 3 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,9 +36,9 @@ Manitowoc ice machine error code 3 indicates that the freeze cycle took too long
 
 | Part | Notes |
 |------|-------|
-| Condenser fan motor | Match HP and rotation; Manitowoc uses specific motor sizes by model |
-| Condenser coil cleaner | Use Nu-Brite or equivalent food-safe coil cleaner |
-| Refrigerant (tech access required) | Leak repair and recharge require EPA 608 certification |
+| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | Match HP and rotation; Manitowoc uses specific motor sizes by model |
+| [Condenser coil cleaner](https://www.amazon.com/s?k=Condenser%20coil%20cleaner&tag=errorcodefixe-20) | Use Nu-Brite or equivalent food-safe coil cleaner |
+| [Refrigerant (tech access required)](https://www.amazon.com/s?k=Refrigerant%20(tech%20access%20required)&tag=errorcodefixe-20) | Leak repair and recharge require EPA 608 certification |
 
 ## When to Call a Pro
 

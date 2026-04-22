@@ -1,4 +1,4 @@
----
+﻿---
 title: "Trane XV20i Error Code 79 — Causes & Fix"
 description: "What Trane XV20i error code 79 means, why communication faults occur, and how to diagnose and fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,10 +36,10 @@ Trane **error code 79** on the XV20i variable-speed heat pump means a **communic
 
 | Part | Notes |
 |------|-------|
-| ComfortLink II thermostat | Replace when thermostat communication circuit has failed |
-| Outdoor unit control board | Replace after lightning strike or if board shows burn marks |
-| Communication wire (18-gauge, 2-conductor) | Replace entire run if wire is damaged; don't splice communication wire |
-| Air handler control board | Replace if air handler shows its own separate communication fault |
+| [ComfortLink II thermostat](https://www.amazon.com/s?k=ComfortLink%20II%20thermostat&tag=errorcodefixe-20) | Replace when thermostat communication circuit has failed |
+| [Outdoor unit control board](https://www.amazon.com/s?k=Outdoor%20unit%20control%20board&tag=errorcodefixe-20) | Replace after lightning strike or if board shows burn marks |
+| [Communication wire (18-gauge, 2-conductor)](https://www.amazon.com/s?k=Communication%20wire%20(18-gauge%2C%202-conductor)&tag=errorcodefixe-20) | Replace entire run if wire is damaged; don't splice communication wire |
+| [Air handler control board](https://www.amazon.com/s?k=Air%20handler%20control%20board&tag=errorcodefixe-20) | Replace if air handler shows its own separate communication fault |
 
 ## When to Call a Pro
 

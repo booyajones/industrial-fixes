@@ -1,4 +1,4 @@
----
+﻿---
 title: "Beverage-Air Refrigerator Error Code E1 — Causes & Fix"
 description: "What Beverage-Air E1 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -36,9 +36,9 @@ The E1 code on Beverage-Air commercial refrigerators signals a probe fault — t
 
 | Part | Notes |
 |------|-------|
-| NTC temperature probe | Use OEM or exact resistance spec match |
-| Probe wire harness | If wire is damaged beyond the probe itself |
-| Electronic controller board | Last resort if probe/wire test good |
+| [NTC temperature probe](https://www.amazon.com/s?k=NTC%20temperature%20probe&tag=errorcodefixe-20) | Use OEM or exact resistance spec match |
+| [Probe wire harness](https://www.amazon.com/s?k=Probe%20wire%20harness&tag=errorcodefixe-20) | If wire is damaged beyond the probe itself |
+| [Electronic controller board](https://www.amazon.com/s?k=Electronic%20controller%20board&tag=errorcodefixe-20) | Last resort if probe/wire test good |
 
 ## When to Call a Pro
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Siemens SINUMERIK Alarm 25000 — Drive Fault Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-15T08:00:00Z
@@ -49,12 +49,8 @@ SINUMERIK alarms in this range are extremely common on 828D/840D machines in the
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Part Number | Typical Cost | Where to Buy |
-|------|------------|-------------|-------------|
-| SINAMICS S120 Motor Module (booksize) | 6SL3120-1TE21-0AA3 (axis-specific) | $1,800–$5,000 | Siemens distributor |
-| DRIVE-CLiQ Cable (pre-made) | 6FX5002-2DC10-xxxx (by length) | $40–$200 | Siemens / automation distributors |
-| SMx Encoder Module | 6SL3055-0AA00-5AA3 (module-specific) | $400–$1,200 | Siemens distributor |
-| Encoder Battery (absolute) | 6SX7000-0AF80 | $15–$25 | Siemens distributor |
+| Part | Part Number | Typical Cost | [Where to Buy](https://www.amazon.com/s?k=Where%20to%20Buy&tag=errorcodefixe-20) |  |------|------------|-------------|-------------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | SINAMICS S120 Motor Module (booksize) | 6SL3120-1TE21-0AA3 (axis-specific) | [$1,800–$5,000](https://www.amazon.com/s?k=%241%2C800%E2%80%93%245%2C000&tag=errorcodefixe-20) | Siemens distributor |
+| [DRIVE-CLiQ Cable (pre-made)](https://www.amazon.com/s?k=DRIVE-CLiQ%20Cable%20(pre-made)&tag=errorcodefixe-20) | 6FX5002-2DC10-xxxx (by length) | $40–$200 | [Siemens / automation distributors](https://www.amazon.com/s?k=Siemens%20%2F%20automation%20distributors&tag=errorcodefixe-20) |  | SMx Encoder Module | [6SL3055-0AA00-5AA3 (module-specific)](https://www.amazon.com/s?k=6SL3055-0AA00-5AA3%20(module-specific)&tag=errorcodefixe-20) | $400–$1,200 | Siemens distributor | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Encoder Battery (absolute) | 6SX7000-0AF80 | [$15–$25](https://www.amazon.com/s?k=%2415%E2%80%93%2425&tag=errorcodefixe-20) | Siemens distributor |
 
 ## When to Call a Professional
 

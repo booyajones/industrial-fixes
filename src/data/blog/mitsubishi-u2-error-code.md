@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mitsubishi U2 Error Code — Causes & Fix"
 description: "What Mitsubishi mini-split U2 error code means, why overcurrent or power supply faults trigger, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -37,9 +37,9 @@ The Mitsubishi U2 error code indicates an **overcurrent or abnormal high voltage
 
 | Part | Notes |
 |------|-------|
-| Inverter PCB (outdoor unit board) | If board is confirmed faulty; Mitsubishi-specific — match model exactly |
-| Compressor | Only after full electrical diagnosis confirms winding fault |
-| Surge protector / line conditioner | If utility voltage quality is poor |
+| [Inverter PCB (outdoor unit board)](https://www.amazon.com/s?k=Inverter%20PCB%20(outdoor%20unit%20board)&tag=errorcodefixe-20) | If board is confirmed faulty; Mitsubishi-specific — match model exactly |
+| [Compressor](https://www.amazon.com/s?k=Compressor&tag=errorcodefixe-20) | Only after full electrical diagnosis confirms winding fault |
+| [Surge protector / line conditioner](https://www.amazon.com/s?k=Surge%20protector%20%2F%20line%20conditioner&tag=errorcodefixe-20) | If utility voltage quality is poor |
 
 ## When to Call a Pro
 

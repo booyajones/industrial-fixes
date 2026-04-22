@@ -1,4 +1,4 @@
----
+﻿---
 title: "Fanuc Alarm 436 — Causes & Fix"
 description: "What Fanuc Alarm 436 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -36,9 +36,9 @@ Fanuc Alarm 436 indicates a servo following error on the Z-axis — the actual Z
 
 | Part | Notes |
 |------|-------|
-| Counterbalance cylinder / seals | If air pressure drops due to seal wear |
-| Z-axis encoder cable | Most common cause of intermittent 436 |
-| Z-axis servo motor | If motor winding test shows fault |
+| [Counterbalance cylinder / seals](https://www.amazon.com/s?k=Counterbalance%20cylinder%20%2F%20seals&tag=errorcodefixe-20) | If air pressure drops due to seal wear |
+| [Z-axis encoder cable](https://www.amazon.com/s?k=Z-axis%20encoder%20cable&tag=errorcodefixe-20) | Most common cause of intermittent 436 |
+| [Z-axis servo motor](https://www.amazon.com/s?k=Z-axis%20servo%20motor&tag=errorcodefixe-20) | If motor winding test shows fault |
 
 ## When to Call a Pro
 

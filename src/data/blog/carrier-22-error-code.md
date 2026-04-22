@@ -1,4 +1,4 @@
----
+﻿---
 title: "Carrier 22 Error Code — Causes & Fix"
 description: "What Carrier error code 22 means, what causes the LSOM stall fault on single-stage furnaces, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,10 +36,10 @@ Carrier fault code 22 indicates a limit device lockout on a single-stage furnace
 
 | Part | Notes |
 |------|-------|
-| Air filter | Most common fix; replace first |
-| Blower run capacitor | Match µF and voltage exactly to OEM spec |
-| High-limit switch | Verify OEM part number; temperature rating varies by model |
-| Control board | Replace only if board relay is confirmed faulty |
+| [Air filter](https://www.amazon.com/s?k=Air%20filter&tag=errorcodefixe-20) | Most common fix; replace first |
+| [Blower run capacitor](https://www.amazon.com/s?k=Blower%20run%20capacitor&tag=errorcodefixe-20) | Match µF and voltage exactly to OEM spec |
+| [High-limit switch](https://www.amazon.com/s?k=High-limit%20switch&tag=errorcodefixe-20) | Verify OEM part number; temperature rating varies by model |
+| [Control board](https://www.amazon.com/s?k=Control%20board&tag=errorcodefixe-20) | Replace only if board relay is confirmed faulty |
 
 ## When to Call a Pro
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Carrier 24ACC Air Conditioner Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Carrier 24ACC central air conditioner error codes, flash sequences, common fault causes, and step-by-step fixes for the most common failures."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -20,16 +20,16 @@ The Carrier 24ACC is a Comfort series central air conditioner (condensing unit o
 
 ## Carrier 24ACC Flash Code Reference
 
-| Flash Code | Meaning |
+| [Flash Code](https://www.amazon.com/s?k=Flash%20Code&tag=errorcodefixe-20) | Meaning |
 |------------|---------|
-| 1 flash | Normal — unit running |
-| 2 flashes | High-pressure switch open |
-| 3 flashes | Low-pressure switch open |
-| 4 flashes | Compressor protection fault |
-| 5 flashes | Control board fault |
-| 6 flashes | Outdoor ambient sensor fault |
-| 7 flashes | Discharge temperature sensor fault |
-| 8 flashes | Communication fault (if connected to Infinity system) |
+| [1 flash](https://www.amazon.com/s?k=1%20flash&tag=errorcodefixe-20) | Normal — unit running |
+| [2 flashes](https://www.amazon.com/s?k=2%20flashes&tag=errorcodefixe-20) | High-pressure switch open |
+| [3 flashes](https://www.amazon.com/s?k=3%20flashes&tag=errorcodefixe-20) | Low-pressure switch open |
+| [4 flashes](https://www.amazon.com/s?k=4%20flashes&tag=errorcodefixe-20) | Compressor protection fault |
+| [5 flashes](https://www.amazon.com/s?k=5%20flashes&tag=errorcodefixe-20) | Control board fault |
+| [6 flashes](https://www.amazon.com/s?k=6%20flashes&tag=errorcodefixe-20) | Outdoor ambient sensor fault |
+| [7 flashes](https://www.amazon.com/s?k=7%20flashes&tag=errorcodefixe-20) | Discharge temperature sensor fault |
+| [8 flashes](https://www.amazon.com/s?k=8%20flashes&tag=errorcodefixe-20) | Communication fault (if connected to Infinity system) |
 
 ## Common Causes by Code
 
@@ -52,12 +52,12 @@ The Carrier 24ACC is a Comfort series central air conditioner (condensing unit o
 
 | Part | Notes |
 |------|-------|
-| Run capacitor | Dual run capacitor for compressor and fan; common failure |
-| Contactor | Pitted contacts cause voltage drop and Code 4 |
-| Low-pressure switch | Replace if Code 3 persists with correct charge |
-| High-pressure switch | Replace if Code 2 persists with clean coil |
-| Condenser fan motor | Check capacitor first before replacing |
-| Control board | For Code 5 or persistent unexplained faults |
+| [Run capacitor](https://www.amazon.com/s?k=Run%20capacitor&tag=errorcodefixe-20) | Dual run capacitor for compressor and fan; common failure |
+| [Contactor](https://www.amazon.com/s?k=Contactor&tag=errorcodefixe-20) | Pitted contacts cause voltage drop and Code 4 |
+| [Low-pressure switch](https://www.amazon.com/s?k=Low-pressure%20switch&tag=errorcodefixe-20) | Replace if Code 3 persists with correct charge |
+| [High-pressure switch](https://www.amazon.com/s?k=High-pressure%20switch&tag=errorcodefixe-20) | Replace if Code 2 persists with clean coil |
+| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | Check capacitor first before replacing |
+| [Control board](https://www.amazon.com/s?k=Control%20board&tag=errorcodefixe-20) | For Code 5 or persistent unexplained faults |
 
 ## When to Call a Pro
 

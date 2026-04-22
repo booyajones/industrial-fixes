@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hydrotherm Boiler Error Code E1 — Causes & Fix"
 description: "What Hydrotherm boiler error code E1 means, why ignition fails, and how to diagnose and restore normal operation."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -38,10 +38,10 @@ E1 on a Hydrotherm boiler indicates ignition failure. The boiler control attempt
 
 | Part | Notes |
 |------|-------|
-| Flame sensor rod | OEM or universal; clean before replacing |
-| Spark electrode assembly | Check gap and insulator condition |
-| Gas valve | Replace only after voltage and gas supply confirmed |
-| Boiler control board | Last resort if all components test normal |
+| [Flame sensor rod](https://www.amazon.com/s?k=Flame%20sensor%20rod&tag=errorcodefixe-20) | OEM or universal; clean before replacing |
+| [Spark electrode assembly](https://www.amazon.com/s?k=Spark%20electrode%20assembly&tag=errorcodefixe-20) | Check gap and insulator condition |
+| [Gas valve](https://www.amazon.com/s?k=Gas%20valve&tag=errorcodefixe-20) | Replace only after voltage and gas supply confirmed |
+| [Boiler control board](https://www.amazon.com/s?k=Boiler%20control%20board&tag=errorcodefixe-20) | Last resort if all components test normal |
 
 ## When to Call a Pro
 

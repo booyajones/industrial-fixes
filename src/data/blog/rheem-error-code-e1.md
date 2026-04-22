@@ -1,4 +1,4 @@
----
+﻿---
 title: "Rheem Air Handler E1 Error Code — Causes & Fix"
 description: "What the Rheem E1 error code means on air handlers and heat pumps, why the communication fault triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -38,10 +38,10 @@ On Rheem EcoNet-enabled air handlers and heat pumps, E1 indicates a communicatio
 
 | Part | Notes |
 |------|-------|
-| EcoNet control board (indoor) | Match to air handler model number |
-| Outdoor unit communicating control board | Order by outdoor unit model from data plate |
-| EcoNet Wi-Fi module | Replace if module has physical damage or is confirmed corrupted |
-| 18/5 communication cable | Replace the full run if damaged |
+| [EcoNet control board (indoor)](https://www.amazon.com/s?k=EcoNet%20control%20board%20(indoor)&tag=errorcodefixe-20) | Match to air handler model number |
+| [Outdoor unit communicating control board](https://www.amazon.com/s?k=Outdoor%20unit%20communicating%20control%20board&tag=errorcodefixe-20) | Order by outdoor unit model from data plate |
+| [EcoNet Wi-Fi module](https://www.amazon.com/s?k=EcoNet%20Wi-Fi%20module&tag=errorcodefixe-20) | Replace if module has physical damage or is confirmed corrupted |
+| [18/5 communication cable](https://www.amazon.com/s?k=18%2F5%20communication%20cable&tag=errorcodefixe-20) | Replace the full run if damaged |
 
 ## When to Call a Pro
 

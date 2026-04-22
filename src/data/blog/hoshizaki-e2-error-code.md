@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hoshizaki E2 Error Code — Harvest Fault Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-04-15T08:00:00Z
@@ -45,9 +45,9 @@ For low refrigerant: a licensed EPA 608-certified refrigeration technician must 
 
 | Part | Where to Buy |
 |------|-------------|
-| Hoshizaki harvest valve solenoid | RepairClinic, SupplyHouse |
-| Hoshizaki descaler (nickel-safe) | Amazon, SupplyHouse |
-| Ice machine cleaner / sanitizer kit | Amazon, RepairClinic |
+| [Hoshizaki harvest valve solenoid](https://www.amazon.com/s?k=Hoshizaki%20harvest%20valve%20solenoid&tag=errorcodefixe-20) | RepairClinic, SupplyHouse |
+| [Hoshizaki descaler (nickel-safe)](https://www.amazon.com/s?k=Hoshizaki%20descaler%20(nickel-safe)&tag=errorcodefixe-20) | Amazon, SupplyHouse |
+| [Ice machine cleaner / sanitizer kit](https://www.amazon.com/s?k=Ice%20machine%20cleaner%20%2F%20sanitizer%20kit&tag=errorcodefixe-20) | Amazon, RepairClinic |
 
 ## When to Call a Technician
 

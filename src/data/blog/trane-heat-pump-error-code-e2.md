@@ -1,4 +1,4 @@
----
+﻿---
 title: "Trane Heat Pump E2 Error Code — Outdoor Coil Sensor Fault"
 description: "What Trane heat pump E2 means, why the outdoor coil sensor fails, and how to fix it on Trane XR, XL, and XC heat pump systems."
 pubDatetime: 2026-04-22T16:00:00Z
@@ -37,8 +37,8 @@ Trane heat pump error code **E2** typically indicates an **outdoor coil temperat
 
 | Part | Notes |
 |------|-------|
-| Outdoor coil thermistor | Trane SEN1584 or model-specific; verify correct part |
-| Wire repair kit | Solder and heat shrink, or weatherproof butt connectors |
+| [Outdoor coil thermistor](https://www.amazon.com/s?k=Outdoor%20coil%20thermistor&tag=errorcodefixe-20) | Trane SEN1584 or model-specific; verify correct part |
+| [Wire repair kit](https://www.amazon.com/s?k=Wire%20repair%20kit&tag=errorcodefixe-20) | Solder and heat shrink, or weatherproof butt connectors |
 
 ## When to Call a Pro
 If E2 persists after thermistor and connector work, have a technician verify the outdoor PCB's sensor input. On Trane ComfortLink II communicating systems, E2 as a communication fault requires checking the communication bus and may indicate a failing outdoor unit board.

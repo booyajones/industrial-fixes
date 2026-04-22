@@ -1,4 +1,4 @@
----
+﻿---
 title: "Goodman Heat Pump E1 Error Code — Pressure Switch Fault"
 description: "What Goodman heat pump E1 means, why the pressure switch opens, and how to fix it on Goodman heat pump systems."
 pubDatetime: 2026-04-22T16:00:00Z
@@ -37,9 +37,9 @@ On Goodman heat pump systems, error code **E1** typically indicates a **high-pre
 
 | Part | Notes |
 |------|-------|
-| High-pressure switch | Typically 400–450 PSI cutout for R-410A |
-| Low-pressure switch | Typically 40–50 PSI cutout for R-410A |
-| Outdoor fan capacitor | 5 µF or 7.5 µF / 370V (check existing cap label) |
+| [High-pressure switch](https://www.amazon.com/s?k=High-pressure%20switch&tag=errorcodefixe-20) | Typically 400–450 PSI cutout for R-410A |
+| [Low-pressure switch](https://www.amazon.com/s?k=Low-pressure%20switch&tag=errorcodefixe-20) | Typically 40–50 PSI cutout for R-410A |
+| [Outdoor fan capacitor](https://www.amazon.com/s?k=Outdoor%20fan%20capacitor&tag=errorcodefixe-20) | 5 µF or 7.5 µF / 370V (check existing cap label) |
 
 ## When to Call a Pro
 If E1 returns after a reset and the outdoor coil is clean, have a certified HVAC tech check refrigerant pressures. A low charge means there's a leak — adding refrigerant without finding the leak is a waste of money and harms the environment.

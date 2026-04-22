@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hypertherm Plasma Cutter Fault 0-70 — Causes & Fix"
 description: "What Hypertherm fault code 0-70 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -36,9 +36,9 @@ Fault 0-70 on Hypertherm Powermax plasma cutters indicates a DC bus undervoltage
 
 | Part | Notes |
 |------|-------|
-| Input capacitor bank | Degrades with age; requires authorized service to replace |
-| PFC module | Fails on heavily used machines; authorized service only |
-| Input power cable | Replace if cord is damaged or plug is corroded |
+| [Input capacitor bank](https://www.amazon.com/s?k=Input%20capacitor%20bank&tag=errorcodefixe-20) | Degrades with age; requires authorized service to replace |
+| [PFC module](https://www.amazon.com/s?k=PFC%20module&tag=errorcodefixe-20) | Fails on heavily used machines; authorized service only |
+| [Input power cable](https://www.amazon.com/s?k=Input%20power%20cable&tag=errorcodefixe-20) | Replace if cord is damaged or plug is corroded |
 
 ## When to Call a Pro
 

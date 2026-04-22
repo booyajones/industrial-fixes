@@ -1,4 +1,4 @@
----
+﻿---
 title: "Samsung Mini-Split E5-01 Error Code — Outdoor Coil Sensor Fault"
 description: "Samsung mini-split error code E5-01 means the outdoor coil temperature sensor is faulty. Learn causes, diagnostic steps, and how to fix Samsung E5-01."
 pubDatetime: 2026-04-22T17:00:00Z
@@ -40,13 +40,13 @@ The outdoor coil sensor monitors the temperature of the outdoor heat exchanger c
 
 ## Common Causes {#most-likely-cause}
 
-| Cause | Likelihood |
+| [Cause](https://www.amazon.com/s?k=Cause&tag=errorcodefixe-20) | Likelihood |
 |---|---|
-| Failed outdoor coil sensor | Very High |
-| Sensor pulled out of coil clip | High |
-| Wiring harness loose at PCB | High |
-| Damaged sensor wire (pinched or corroded) | Medium |
-| Outdoor PCB analog input fault | Low |
+| [Failed outdoor coil sensor](https://www.amazon.com/s?k=Failed%20outdoor%20coil%20sensor&tag=errorcodefixe-20) | Very High |
+| [Sensor pulled out of coil clip](https://www.amazon.com/s?k=Sensor%20pulled%20out%20of%20coil%20clip&tag=errorcodefixe-20) | High |
+| [Wiring harness loose at PCB](https://www.amazon.com/s?k=Wiring%20harness%20loose%20at%20PCB&tag=errorcodefixe-20) | High |
+| [Damaged sensor wire (pinched or corroded)](https://www.amazon.com/s?k=Damaged%20sensor%20wire%20(pinched%20or%20corroded)&tag=errorcodefixe-20) | Medium |
+| [Outdoor PCB analog input fault](https://www.amazon.com/s?k=Outdoor%20PCB%20analog%20input%20fault&tag=errorcodefixe-20) | Low |
 
 ## Step-by-Step Diagnosis {#diagnosis}
 
@@ -75,9 +75,9 @@ Samsung outdoor coil sensors are NTC thermistors:
 
 | Part | Notes |
 |---|---|
-| Outdoor coil temperature sensor | Samsung OEM — match model (10K or 15K NTC) |
-| Sensor mounting clip | Small plastic clip on coil tube — check it's intact |
-| Outdoor PCB | Only if sensor swap doesn't clear the fault |
+| [Outdoor coil temperature sensor](https://www.amazon.com/s?k=Outdoor%20coil%20temperature%20sensor&tag=errorcodefixe-20) | Samsung OEM — match model (10K or 15K NTC) |
+| [Sensor mounting clip](https://www.amazon.com/s?k=Sensor%20mounting%20clip&tag=errorcodefixe-20) | Small plastic clip on coil tube — check it's intact |
+| [Outdoor PCB](https://www.amazon.com/s?k=Outdoor%20PCB&tag=errorcodefixe-20) | Only if sensor swap doesn't clear the fault |
 
 ## Reset Procedure
 

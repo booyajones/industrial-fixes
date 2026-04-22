@@ -1,4 +1,4 @@
----
+﻿---
 title: "True Refrigeration Error Codes — Complete Fix Guide"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-14T08:00:00Z
@@ -23,18 +23,11 @@ This guide covers the most common True Refrigeration error codes and their fixes
 
 ## True Refrigeration Error Code Reference
 
-| Code | Meaning | Common Cause |
-|------|---------|-------------|
-| E1 | Return air sensor (room probe) fault | Failed or disconnected NTC probe |
-| E2 | Evaporator coil sensor fault | Probe failure, ice buildup over sensor |
-| E3 | Condenser sensor fault | Probe failure or disconnection |
-| E4 | Discharge line temperature fault | Probe failure, actual high discharge temp |
-| E5 | Ambient temperature sensor fault | Controller or sensor issue |
-| F1 | High temperature alarm | Product zone temp too high — door left open, condenser dirty |
-| F2 | Low temperature alarm | Freezer over-cooling, stuck defrost, sensor fault |
-| F3 | Defrost timeout alarm | Defrost heater failure, stuck defrost termination thermostat |
-| dF | Currently in defrost cycle | Normal state — not an alarm |
-| Hi | High temperature cutout active | Compressor safety shutdown due to high temp |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning | Common Cause | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |---------|-------------|
+| E1 | [Return air sensor (room probe) fault](https://www.amazon.com/s?k=Return%20air%20sensor%20(room%20probe)%20fault&tag=errorcodefixe-20) | Failed or disconnected NTC probe |
+| [E2](https://www.amazon.com/s?k=E2&tag=errorcodefixe-20) | Evaporator coil sensor fault | Probe failure, ice buildup over sensor | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E3 | Condenser sensor fault | [Probe failure or disconnection](https://www.amazon.com/s?k=Probe%20failure%20or%20disconnection&tag=errorcodefixe-20) |  | E4 | [Discharge line temperature fault](https://www.amazon.com/s?k=Discharge%20line%20temperature%20fault&tag=errorcodefixe-20) | Probe failure, actual high discharge temp |
+| [E5](https://www.amazon.com/s?k=E5&tag=errorcodefixe-20) | Ambient temperature sensor fault | Controller or sensor issue | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | F1 | High temperature alarm | [Product zone temp too high — door left open, condenser dirty](https://www.amazon.com/s?k=Product%20zone%20temp%20too%20high%20%E2%80%94%20door%20left%20open%2C%20condenser%20dirty&tag=errorcodefixe-20) |  | F2 | [Low temperature alarm](https://www.amazon.com/s?k=Low%20temperature%20alarm&tag=errorcodefixe-20) | Freezer over-cooling, stuck defrost, sensor fault |
+| [F3](https://www.amazon.com/s?k=F3&tag=errorcodefixe-20) | Defrost timeout alarm | Defrost heater failure, stuck defrost termination thermostat | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | dF | Currently in defrost cycle | [Normal state — not an alarm](https://www.amazon.com/s?k=Normal%20state%20%E2%80%94%20not%20an%20alarm&tag=errorcodefixe-20) |  | Hi | [High temperature cutout active](https://www.amazon.com/s?k=High%20temperature%20cutout%20active&tag=errorcodefixe-20) | Compressor safety shutdown due to high temp |
 
 ## Common Causes (E1/E2 — Most Frequent)
 
@@ -67,13 +60,10 @@ This guide covers the most common True Refrigeration error codes and their fixes
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Where to Buy | Typical Cost |
-|------|-------------|-------------|
-| NTC 10kΩ replacement probe (True compatible) | Parts Town, RestaurantEquipment.Parts | $12–$30 |
-| True defrost heater (model-specific, e.g., 915146) | Parts Town, Grainger | $40–$100 |
-| Defrost termination thermostat | Parts Town, OEM appliance parts | $15–$40 |
-| Condenser fan motor (True OEM, model-specific) | Parts Town, Amazon | $40–$120 |
-| True electronic controller replacement | Parts Town, True dealer | $80–$200 |
+| Part | Where to Buy | Typical Cost | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |-------------|-------------|
+| NTC 10kΩ replacement probe (True compatible) | [Parts Town, RestaurantEquipment.Parts](https://www.amazon.com/s?k=Parts%20Town%2C%20RestaurantEquipment.Parts&tag=errorcodefixe-20) | $12–$30 |
+| [True defrost heater (model-specific, e.g., 915146)](https://www.amazon.com/s?k=True%20defrost%20heater%20(model-specific%2C%20e.g.%2C%20915146)&tag=errorcodefixe-20) | Parts Town, Grainger | $40–$100 | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Defrost termination thermostat | Parts Town, OEM appliance parts | [$15–$40](https://www.amazon.com/s?k=%2415%E2%80%93%2440&tag=errorcodefixe-20) |  | Condenser fan motor (True OEM, model-specific) | [Parts Town, Amazon](https://www.amazon.com/s?k=Parts%20Town%2C%20Amazon&tag=errorcodefixe-20) | $40–$120 |
+| [True electronic controller replacement](https://www.amazon.com/s?k=True%20electronic%20controller%20replacement&tag=errorcodefixe-20) | Parts Town, True dealer | $80–$200 |
 
 ## When to Call a Professional
 

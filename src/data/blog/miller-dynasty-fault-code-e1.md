@@ -1,4 +1,4 @@
----
+﻿---
 title: "Miller Dynasty E1 Fault Code — Causes & Fix"
 description: "What Miller Dynasty E1 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -36,9 +36,9 @@ The E1 fault on Miller Dynasty TIG welders (Dynasty 200, 210, 280, 300, and 350 
 
 | Part | Notes |
 |------|-------|
-| Input power cable / plug | Replace if damaged or high resistance |
-| Control board | If E1 persists with correct, stable input voltage |
-| Input voltage selector / jumper | If installed incorrectly during a prior repair |
+| [Input power cable / plug](https://www.amazon.com/s?k=Input%20power%20cable%20%2F%20plug&tag=errorcodefixe-20) | Replace if damaged or high resistance |
+| [Control board](https://www.amazon.com/s?k=Control%20board&tag=errorcodefixe-20) | If E1 persists with correct, stable input voltage |
+| [Input voltage selector / jumper](https://www.amazon.com/s?k=Input%20voltage%20selector%20%2F%20jumper&tag=errorcodefixe-20) | If installed incorrectly during a prior repair |
 
 ## When to Call a Pro
 

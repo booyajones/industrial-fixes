@@ -1,4 +1,4 @@
----
+﻿---
 title: "Goodman Furnace 5 Flash Error Code — Causes & Fix"
 description: "What Goodman furnace 5 flashes means, why flame sensed without heat call trips, and how to fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,10 +36,10 @@ A Goodman furnace flashing **5 blinks** on the LED status light means **flame se
 
 | Part | Notes |
 |------|-------|
-| Flame sensor | Replace if rod is corroded or cleaning doesn't resolve false signal |
-| Flame sensor wire harness | Replace if wire insulation has melted or shorted to ground |
-| Gas valve | Replace if valve leaks gas after de-energizing; requires licensed gas work |
-| Control board | Replace if all sensor and wiring checks pass but 5 flashes persist |
+| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | Replace if rod is corroded or cleaning doesn't resolve false signal |
+| [Flame sensor wire harness](https://www.amazon.com/s?k=Flame%20sensor%20wire%20harness&tag=errorcodefixe-20) | Replace if wire insulation has melted or shorted to ground |
+| [Gas valve](https://www.amazon.com/s?k=Gas%20valve&tag=errorcodefixe-20) | Replace if valve leaks gas after de-energizing; requires licensed gas work |
+| [Control board](https://www.amazon.com/s?k=Control%20board&tag=errorcodefixe-20) | Replace if all sensor and wiring checks pass but 5 flashes persist |
 
 ## When to Call a Pro
 

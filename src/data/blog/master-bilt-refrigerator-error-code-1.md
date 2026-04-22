@@ -1,4 +1,4 @@
----
+﻿---
 title: "Master-Bilt Refrigerator Error Code 1 — Causes & Fix"
 description: "What Master-Bilt Error Code 1 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -36,9 +36,9 @@ Error Code 1 on Master-Bilt commercial refrigerators and freezers (reach-ins, gl
 
 | Part | Notes |
 |------|-------|
-| Door gasket | Master-Bilt model-specific — measure door perimeter |
-| Condenser fan motor | Match to unit model and voltage |
-| Defrost heater / thermostat | If evaporator is heavily frosted |
+| [Door gasket](https://www.amazon.com/s?k=Door%20gasket&tag=errorcodefixe-20) | Master-Bilt model-specific — measure door perimeter |
+| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | Match to unit model and voltage |
+| [Defrost heater / thermostat](https://www.amazon.com/s?k=Defrost%20heater%20%2F%20thermostat&tag=errorcodefixe-20) | If evaporator is heavily frosted |
 
 ## When to Call a Pro
 

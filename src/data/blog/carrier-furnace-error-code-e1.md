@@ -1,4 +1,4 @@
----
+﻿---
 title: "Carrier Furnace E1 Error Code — Causes & Fix"
 description: "What the Carrier E1 error code means on communicating furnaces and heat pumps, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -39,10 +39,10 @@ On Carrier Infinity and Performance series communicating systems, the E1 error i
 
 | Part | Notes |
 |------|-------|
-| Infinity communicating thermostat | Bus master — replace first if wiring is good |
-| Indoor air handler/furnace control board | Match part number from unit data plate exactly |
-| Outdoor unit control board | If outdoor unit absent from system map after thermostat swap |
-| Low-voltage thermostat wire (18/5 or 18/8) | Replace entire run if corroded or damaged |
+| [Infinity communicating thermostat](https://www.amazon.com/s?k=Infinity%20communicating%20thermostat&tag=errorcodefixe-20) | Bus master — replace first if wiring is good |
+| [Indoor air handler/furnace control board](https://www.amazon.com/s?k=Indoor%20air%20handler%2Ffurnace%20control%20board&tag=errorcodefixe-20) | Match part number from unit data plate exactly |
+| [Outdoor unit control board](https://www.amazon.com/s?k=Outdoor%20unit%20control%20board&tag=errorcodefixe-20) | If outdoor unit absent from system map after thermostat swap |
+| [Low-voltage thermostat wire (18/5 or 18/8)](https://www.amazon.com/s?k=Low-voltage%20thermostat%20wire%20(18%2F5%20or%2018%2F8)&tag=errorcodefixe-20) | Replace entire run if corroded or damaged |
 
 ## When to Call a Pro
 

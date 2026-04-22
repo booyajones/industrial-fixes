@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hoshizaki E4 Error Code — Causes & Fix"
 description: "What Hoshizaki E4 error code means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,9 +36,9 @@ Hoshizaki error code E4 indicates an ice thickness sensor fault. The ice thickne
 
 | Part | Notes |
 |------|-------|
-| Ice thickness sensor | Must be OEM Hoshizaki; resistance curve is model-specific |
-| Water distribution tube | Replace if holes are blocked and cannot be cleared by cleaning |
-| Ice machine cleaner (Hoshizaki branded) | Required for monthly/quarterly descaling in hard water areas |
+| [Ice thickness sensor](https://www.amazon.com/s?k=Ice%20thickness%20sensor&tag=errorcodefixe-20) | Must be OEM Hoshizaki; resistance curve is model-specific |
+| [Water distribution tube](https://www.amazon.com/s?k=Water%20distribution%20tube&tag=errorcodefixe-20) | Replace if holes are blocked and cannot be cleared by cleaning |
+| [Ice machine cleaner (Hoshizaki branded)](https://www.amazon.com/s?k=Ice%20machine%20cleaner%20(Hoshizaki%20branded)&tag=errorcodefixe-20) | Required for monthly/quarterly descaling in hard water areas |
 
 ## When to Call a Pro
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Fujitsu Mini Split E1 Error Code — Causes & Fix"
 description: "What Fujitsu E1 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,9 +36,9 @@ Fujitsu error code E1 (displayed as "E:01" on the remote or flashed on the unit)
 
 | Part | Notes |
 |------|-------|
-| Outdoor PCB | The most common board failure for persistent E1; Fujitsu part number is model-specific |
-| Fuse (for outdoor PCB) | Typically 6.3A or 10A; check the PCB silkscreen for rating |
-| Communication cable (shielded 3-conductor) | Replace if damaged; 18 AWG minimum |
+| [Outdoor PCB](https://www.amazon.com/s?k=Outdoor%20PCB&tag=errorcodefixe-20) | The most common board failure for persistent E1; Fujitsu part number is model-specific |
+| [Fuse (for outdoor PCB)](https://www.amazon.com/s?k=Fuse%20(for%20outdoor%20PCB)&tag=errorcodefixe-20) | Typically 6.3A or 10A; check the PCB silkscreen for rating |
+| [Communication cable (shielded 3-conductor)](https://www.amazon.com/s?k=Communication%20cable%20(shielded%203-conductor)&tag=errorcodefixe-20) | Replace if damaged; 18 AWG minimum |
 
 ## When to Call a Pro
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Lennox Error Code 231 — Causes & Fix"
 description: "What Lennox error code 231 means, why the rollout switch trips, and how to reset and repair it safely."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -38,9 +38,9 @@ Lennox error code 231 indicates a rollout switch fault. The rollout switch is a 
 
 | Part | Notes |
 |------|-------|
-| Rollout switch (limit switch) | Match to Lennox model number; auto-reset and manual-reset versions exist |
-| Draft inducer motor | Replace if motor is noisy, weak, or fails to start |
-| Burner assembly / orifices | Replace if burners are corroded or clogged beyond cleaning |
+| [Rollout switch (limit switch)](https://www.amazon.com/s?k=Rollout%20switch%20(limit%20switch)&tag=errorcodefixe-20) | Match to Lennox model number; auto-reset and manual-reset versions exist |
+| [Draft inducer motor](https://www.amazon.com/s?k=Draft%20inducer%20motor&tag=errorcodefixe-20) | Replace if motor is noisy, weak, or fails to start |
+| [Burner assembly / orifices](https://www.amazon.com/s?k=Burner%20assembly%20%2F%20orifices&tag=errorcodefixe-20) | Replace if burners are corroded or clogged beyond cleaning |
 
 ## When to Call a Pro
 

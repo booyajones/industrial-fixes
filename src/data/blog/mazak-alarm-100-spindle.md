@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mazak Alarm 100 Spindle Alarm — Causes & Fix"
 description: "What Mazak alarm 100 means, why a spindle alarm occurs, and how to diagnose and fix the spindle drive system."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -38,10 +38,10 @@ Alarm 100 on a Mazak CNC (Mazatrol T-, M-, or Fusion series) indicates a spindle
 
 | Part | Notes |
 |------|-------|
-| Spindle drive cooling fan | Replace if fan is seized or running slowly |
-| Spindle motor encoder | Replace if encoder feedback is confirmed faulty |
-| Spindle drive module | Contact Mazak service for correct replacement part |
-| Spindle motor | Replace if windings are confirmed damaged |
+| [Spindle drive cooling fan](https://www.amazon.com/s?k=Spindle%20drive%20cooling%20fan&tag=errorcodefixe-20) | Replace if fan is seized or running slowly |
+| [Spindle motor encoder](https://www.amazon.com/s?k=Spindle%20motor%20encoder&tag=errorcodefixe-20) | Replace if encoder feedback is confirmed faulty |
+| [Spindle drive module](https://www.amazon.com/s?k=Spindle%20drive%20module&tag=errorcodefixe-20) | Contact Mazak service for correct replacement part |
+| [Spindle motor](https://www.amazon.com/s?k=Spindle%20motor&tag=errorcodefixe-20) | Replace if windings are confirmed damaged |
 
 ## When to Call a Pro
 

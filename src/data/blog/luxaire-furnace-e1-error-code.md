@@ -1,4 +1,4 @@
----
+﻿---
 title: "Luxaire Furnace E1 Error Code — System Lockout"
 description: "What the Luxaire furnace E1 error code means, why the system locks out, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -39,11 +39,11 @@ Luxaire is a York-branded product line (both are owned by Johnson Controls/Bosch
 
 | Part | Notes |
 |------|-------|
-| Hot surface ignitor | Most common fix when prior fault was ignition — match voltage (80V or 120V) |
-| Flame sensor | Replace if ceramic is cracked; clean if just dirty |
-| Pressure switch | Match setpoint from switch body |
-| Air filter | Replace if limit trips were caused by restricted airflow |
-| Control board | Replace if E1 appears without prior fault history (board self-fault) |
+| [Hot surface ignitor](https://www.amazon.com/s?k=Hot%20surface%20ignitor&tag=errorcodefixe-20) | Most common fix when prior fault was ignition — match voltage (80V or 120V) |
+| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | Replace if ceramic is cracked; clean if just dirty |
+| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Match setpoint from switch body |
+| [Air filter](https://www.amazon.com/s?k=Air%20filter&tag=errorcodefixe-20) | Replace if limit trips were caused by restricted airflow |
+| [Control board](https://www.amazon.com/s?k=Control%20board&tag=errorcodefixe-20) | Replace if E1 appears without prior fault history (board self-fault) |
 
 ## When to Call a Pro
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mazak CNC Alarm 200 Parameter Fault — Causes & Fix"
 description: "What Mazak CNC Alarm 200 (Parameter Fault) means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T18:00:00Z
@@ -36,7 +36,7 @@ Mazak Alarm 200 indicates a parameter fault — the MAZATROL control detected an
 
 | Part | Notes |
 |------|-------|
-| CMOS backup battery | Replace if battery-backed parameter loss is the cause |
+| [CMOS backup battery](https://www.amazon.com/s?k=CMOS%20backup%20battery&tag=errorcodefixe-20) | Replace if battery-backed parameter loss is the cause |
 
 ## When to Call a Pro
 

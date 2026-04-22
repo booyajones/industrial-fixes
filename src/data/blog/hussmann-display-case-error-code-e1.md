@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hussmann Display Case Error Code E1 — Causes & Fix"
 description: "What Hussmann display case error code E1 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,9 +36,9 @@ Hussmann display case error code E1 usually indicates a defrost heater fault or 
 
 | Part | Notes |
 |------|-------|
-| Defrost heater | Replace if continuity is open or the heater sheath is damaged |
-| Defrost termination sensor | Replace if temperature response to the controller is wrong |
-| Defrost relay or controller output board | Replace if the heater never gets voltage during forced defrost |
+| [Defrost heater](https://www.amazon.com/s?k=Defrost%20heater&tag=errorcodefixe-20) | Replace if continuity is open or the heater sheath is damaged |
+| [Defrost termination sensor](https://www.amazon.com/s?k=Defrost%20termination%20sensor&tag=errorcodefixe-20) | Replace if temperature response to the controller is wrong |
+| [Defrost relay or controller output board](https://www.amazon.com/s?k=Defrost%20relay%20or%20controller%20output%20board&tag=errorcodefixe-20) | Replace if the heater never gets voltage during forced defrost |
 
 ## When to Call a Pro
 

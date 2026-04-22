@@ -1,4 +1,4 @@
----
+﻿---
 title: "Comfortmaker Furnace E4 Error Code — Causes & Fix"
 description: "What Comfortmaker furnace error code E4 means, why ignition fails, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -37,9 +37,9 @@ E4 on a Comfortmaker furnace indicates an ignition failure lockout — the contr
 
 | Part | Notes |
 |------|-------|
-| Hot surface igniter | Match voltage (120V) and mounting style; OEM or quality aftermarket |
-| Flame sensor rod | Replace if cleaning does not restore normal microamp signal |
-| Gas valve | Replace only after confirming 24VAC input with no output |
+| [Hot surface igniter](https://www.amazon.com/s?k=Hot%20surface%20igniter&tag=errorcodefixe-20) | Match voltage (120V) and mounting style; OEM or quality aftermarket |
+| [Flame sensor rod](https://www.amazon.com/s?k=Flame%20sensor%20rod&tag=errorcodefixe-20) | Replace if cleaning does not restore normal microamp signal |
+| [Gas valve](https://www.amazon.com/s?k=Gas%20valve&tag=errorcodefixe-20) | Replace only after confirming 24VAC input with no output |
 
 ## When to Call a Pro
 

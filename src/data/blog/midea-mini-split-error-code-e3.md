@@ -1,4 +1,4 @@
----
+﻿---
 title: "Midea Mini Split Error Code E3 — Causes & Fix"
 description: "What Midea mini split error code E3 means, why communication fails between units, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -38,9 +38,9 @@ E3 on a Midea mini split signals a communication error between the indoor evapor
 
 | Part | Notes |
 |------|-------|
-| S-wire / communication wire | 18 AWG, 2–3 conductor; length to match the run |
-| Outdoor control PCB | Match Midea model number |
-| Indoor control PCB | Replace if outdoor board swap does not resolve the fault |
+| [S-wire / communication wire](https://www.amazon.com/s?k=S-wire%20%2F%20communication%20wire&tag=errorcodefixe-20) | 18 AWG, 2–3 conductor; length to match the run |
+| [Outdoor control PCB](https://www.amazon.com/s?k=Outdoor%20control%20PCB&tag=errorcodefixe-20) | Match Midea model number |
+| [Indoor control PCB](https://www.amazon.com/s?k=Indoor%20control%20PCB&tag=errorcodefixe-20) | Replace if outdoor board swap does not resolve the fault |
 
 ## When to Call a Pro
 

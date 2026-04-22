@@ -1,4 +1,4 @@
----
+﻿---
 title: "Carrier 58MVB Furnace Error Codes — Variable-Speed Furnace Fault Guide"
 description: "Complete guide to Carrier 58MVB variable-speed furnace error codes, flash sequences, what each fault means, and how to diagnose and fix the most common failures."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -20,26 +20,26 @@ The Carrier 58MVB is a variable-speed, multi-position gas furnace that uses an E
 
 ## Carrier 58MVB Flash Code Reference
 
-| Flash Code | Meaning |
+| [Flash Code](https://www.amazon.com/s?k=Flash%20Code&tag=errorcodefixe-20) | Meaning |
 |------------|---------|
-| 1 flash | Normal — furnace call satisfied |
-| 2 flashes | System lockout — retry limit reached |
-| 3 flashes | Pressure switch stuck open or failed |
-| 4 flashes | Open high-limit switch |
-| 5 flashes | Flame detected with no call for heat |
-| 6 flashes | 115V power issue at control board |
-| 7 flashes | Gas valve circuit fault |
-| 8 flashes | Low flame signal (weak or dirty flame sensor) |
-| 9 flashes | Reversed pressure switch hose |
-| 11 flashes | Ignitor circuit open |
-| 13 flashes | Limit switch cycle lockout (>3 trips in one hour) |
-| 14 flashes | Ignition lockout (3 failed ignition attempts) |
-| 23 flashes | Pressure switch stuck closed before inducer |
-| 24 flashes | Secondary pressure switch (two-stage units) |
-| 31 flashes | High-limit switch open |
-| 33 flashes | Pressure switch opens during run cycle |
-| 34 flashes | Ignition proving failed |
-| 45 flashes | Control board or gas valve fault |
+| [1 flash](https://www.amazon.com/s?k=1%20flash&tag=errorcodefixe-20) | Normal — furnace call satisfied |
+| [2 flashes](https://www.amazon.com/s?k=2%20flashes&tag=errorcodefixe-20) | System lockout — retry limit reached |
+| [3 flashes](https://www.amazon.com/s?k=3%20flashes&tag=errorcodefixe-20) | Pressure switch stuck open or failed |
+| [4 flashes](https://www.amazon.com/s?k=4%20flashes&tag=errorcodefixe-20) | Open high-limit switch |
+| [5 flashes](https://www.amazon.com/s?k=5%20flashes&tag=errorcodefixe-20) | Flame detected with no call for heat |
+| [6 flashes](https://www.amazon.com/s?k=6%20flashes&tag=errorcodefixe-20) | 115V power issue at control board |
+| [7 flashes](https://www.amazon.com/s?k=7%20flashes&tag=errorcodefixe-20) | Gas valve circuit fault |
+| [8 flashes](https://www.amazon.com/s?k=8%20flashes&tag=errorcodefixe-20) | Low flame signal (weak or dirty flame sensor) |
+| [9 flashes](https://www.amazon.com/s?k=9%20flashes&tag=errorcodefixe-20) | Reversed pressure switch hose |
+| [11 flashes](https://www.amazon.com/s?k=11%20flashes&tag=errorcodefixe-20) | Ignitor circuit open |
+| [13 flashes](https://www.amazon.com/s?k=13%20flashes&tag=errorcodefixe-20) | Limit switch cycle lockout (>3 trips in one hour) |
+| [14 flashes](https://www.amazon.com/s?k=14%20flashes&tag=errorcodefixe-20) | Ignition lockout (3 failed ignition attempts) |
+| [23 flashes](https://www.amazon.com/s?k=23%20flashes&tag=errorcodefixe-20) | Pressure switch stuck closed before inducer |
+| [24 flashes](https://www.amazon.com/s?k=24%20flashes&tag=errorcodefixe-20) | Secondary pressure switch (two-stage units) |
+| [31 flashes](https://www.amazon.com/s?k=31%20flashes&tag=errorcodefixe-20) | High-limit switch open |
+| [33 flashes](https://www.amazon.com/s?k=33%20flashes&tag=errorcodefixe-20) | Pressure switch opens during run cycle |
+| [34 flashes](https://www.amazon.com/s?k=34%20flashes&tag=errorcodefixe-20) | Ignition proving failed |
+| [45 flashes](https://www.amazon.com/s?k=45%20flashes&tag=errorcodefixe-20) | Control board or gas valve fault |
 
 ## Common Causes by Code
 
@@ -61,12 +61,12 @@ The Carrier 58MVB is a variable-speed, multi-position gas furnace that uses an E
 
 | Part | Notes |
 |------|-------|
-| Flame sensor | Most common cause of Code 8; clean or replace |
-| Hot surface ignitor | For Code 11 or 14; confirm correct wattage for 58MVB |
-| Pressure switch | For persistent Code 3 or 33 after drain is clear |
-| High-limit switch | For persistent Code 4/31 with adequate airflow |
-| Control board | For Code 45 or board damage; match to furnace serial |
-| Condensate trap | Replace if cracked or plugged; specific to 58MVB design |
+| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | Most common cause of Code 8; clean or replace |
+| [Hot surface ignitor](https://www.amazon.com/s?k=Hot%20surface%20ignitor&tag=errorcodefixe-20) | For Code 11 or 14; confirm correct wattage for 58MVB |
+| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | For persistent Code 3 or 33 after drain is clear |
+| [High-limit switch](https://www.amazon.com/s?k=High-limit%20switch&tag=errorcodefixe-20) | For persistent Code 4/31 with adequate airflow |
+| [Control board](https://www.amazon.com/s?k=Control%20board&tag=errorcodefixe-20) | For Code 45 or board damage; match to furnace serial |
+| [Condensate trap](https://www.amazon.com/s?k=Condensate%20trap&tag=errorcodefixe-20) | Replace if cracked or plugged; specific to 58MVB design |
 
 ## When to Call a Pro
 

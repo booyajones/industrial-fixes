@@ -1,4 +1,4 @@
----
+﻿---
 title: "Danfoss VFD Fault OL — Causes & Fix"
 description: "What Danfoss VFD fault OL means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,9 +36,9 @@ Danfoss VFD fault OL (Motor Overload) indicates that the drive's electronic ther
 
 | Part | Notes |
 |------|-------|
-| Larger frame motor | Required if load genuinely exceeds motor rating |
-| Load-side bearings or impeller | Clean or replace if mechanical drag is the root cause |
-| Motor PTC thermistor | Wire into the drive's thermistor input for actual motor temperature feedback |
+| [Larger frame motor](https://www.amazon.com/s?k=Larger%20frame%20motor&tag=errorcodefixe-20) | Required if load genuinely exceeds motor rating |
+| [Load-side bearings or impeller](https://www.amazon.com/s?k=Load-side%20bearings%20or%20impeller&tag=errorcodefixe-20) | Clean or replace if mechanical drag is the root cause |
+| [Motor PTC thermistor](https://www.amazon.com/s?k=Motor%20PTC%20thermistor&tag=errorcodefixe-20) | Wire into the drive's thermistor input for actual motor temperature feedback |
 
 ## When to Call a Pro
 

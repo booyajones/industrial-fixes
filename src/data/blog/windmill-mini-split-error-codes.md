@@ -1,4 +1,4 @@
----
+﻿---
 title: "Windmill AC Mini Split Error Codes — Complete Fault Code Guide"
 description: "Complete guide to Windmill AC mini split error codes, fault causes, and step-by-step troubleshooting for the most common communication, sensor, and protection faults."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -20,22 +20,22 @@ The Windmill AC is a direct-to-consumer mini split sold online and through selec
 
 ## Windmill AC Error Code Reference
 
-| Code | Meaning |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning |
 |------|---------|
-| E1 | Indoor/outdoor communication fault |
-| E2 | Indoor fan motor fault |
-| E3 | Outdoor fan motor fault |
-| E4 | Indoor coil freeze protection |
-| E5 | Compressor overload protection |
-| E6 | High-pressure protection |
-| E7 | Low-pressure protection |
-| F1 | Room temperature sensor fault |
-| F2 | Indoor coil temperature sensor fault |
-| F3 | Outdoor ambient temperature sensor fault |
-| F4 | Outdoor coil temperature sensor fault |
-| F5 | Discharge temperature sensor fault |
-| P0 | IPM/inverter protection |
-| P6 | Compressor preheat protection |
+| [E1](https://www.amazon.com/s?k=E1&tag=errorcodefixe-20) | Indoor/outdoor communication fault |
+| [E2](https://www.amazon.com/s?k=E2&tag=errorcodefixe-20) | Indoor fan motor fault |
+| [E3](https://www.amazon.com/s?k=E3&tag=errorcodefixe-20) | Outdoor fan motor fault |
+| [E4](https://www.amazon.com/s?k=E4&tag=errorcodefixe-20) | Indoor coil freeze protection |
+| [E5](https://www.amazon.com/s?k=E5&tag=errorcodefixe-20) | Compressor overload protection |
+| [E6](https://www.amazon.com/s?k=E6&tag=errorcodefixe-20) | High-pressure protection |
+| [E7](https://www.amazon.com/s?k=E7&tag=errorcodefixe-20) | Low-pressure protection |
+| [F1](https://www.amazon.com/s?k=F1&tag=errorcodefixe-20) | Room temperature sensor fault |
+| [F2](https://www.amazon.com/s?k=F2&tag=errorcodefixe-20) | Indoor coil temperature sensor fault |
+| [F3](https://www.amazon.com/s?k=F3&tag=errorcodefixe-20) | Outdoor ambient temperature sensor fault |
+| [F4](https://www.amazon.com/s?k=F4&tag=errorcodefixe-20) | Outdoor coil temperature sensor fault |
+| [F5](https://www.amazon.com/s?k=F5&tag=errorcodefixe-20) | Discharge temperature sensor fault |
+| [P0](https://www.amazon.com/s?k=P0&tag=errorcodefixe-20) | IPM/inverter protection |
+| [P6](https://www.amazon.com/s?k=P6&tag=errorcodefixe-20) | Compressor preheat protection |
 
 ## Common Causes by Code
 
@@ -61,11 +61,11 @@ The Windmill AC is a direct-to-consumer mini split sold online and through selec
 
 | Part | Notes |
 |------|-------|
-| Indoor filter | Clean/replace; most common cause of E4 |
-| Temperature sensors | F1/F2/F3/F4/F5 types; NTC thermistors |
-| Indoor PCB | For E2 with confirmed free-spinning motor |
-| Communication cable | 3-conductor; replace if damaged |
-| Outdoor PCB | For E3 or P0 after other causes ruled out |
+| [Indoor filter](https://www.amazon.com/s?k=Indoor%20filter&tag=errorcodefixe-20) | Clean/replace; most common cause of E4 |
+| [Temperature sensors](https://www.amazon.com/s?k=Temperature%20sensors&tag=errorcodefixe-20) | F1/F2/F3/F4/F5 types; NTC thermistors |
+| [Indoor PCB](https://www.amazon.com/s?k=Indoor%20PCB&tag=errorcodefixe-20) | For E2 with confirmed free-spinning motor |
+| [Communication cable](https://www.amazon.com/s?k=Communication%20cable&tag=errorcodefixe-20) | 3-conductor; replace if damaged |
+| [Outdoor PCB](https://www.amazon.com/s?k=Outdoor%20PCB&tag=errorcodefixe-20) | For E3 or P0 after other causes ruled out |
 
 ## When to Call a Pro
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Lochinvar Boiler Flame Fail Error — Causes & Fix"
 description: "What Lochinvar boiler flame fail ignition error means, why it locks out, and how to diagnose and fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,10 +36,10 @@ A **Flame Fail** lockout on a Lochinvar boiler (Knight, CREST, WHN, or commercia
 
 | Part | Notes |
 |------|-------|
-| Flame rod / flame sensor | Replace when cleaning doesn't restore detection; verify exact part number for your model |
-| Ignition electrode | Replace when ceramic insulator is cracked or gap is incorrect |
-| High-voltage ignition cable | Replace if cable insulation is cracked or arc marks are visible |
-| Gas valve | Replace only after confirming gas supply is adequate and ignition is working |
+| [Flame rod / flame sensor](https://www.amazon.com/s?k=Flame%20rod%20%2F%20flame%20sensor&tag=errorcodefixe-20) | Replace when cleaning doesn't restore detection; verify exact part number for your model |
+| [Ignition electrode](https://www.amazon.com/s?k=Ignition%20electrode&tag=errorcodefixe-20) | Replace when ceramic insulator is cracked or gap is incorrect |
+| [High-voltage ignition cable](https://www.amazon.com/s?k=High-voltage%20ignition%20cable&tag=errorcodefixe-20) | Replace if cable insulation is cracked or arc marks are visible |
+| [Gas valve](https://www.amazon.com/s?k=Gas%20valve&tag=errorcodefixe-20) | Replace only after confirming gas supply is adequate and ignition is working |
 
 ## When to Call a Pro
 

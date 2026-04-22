@@ -1,4 +1,4 @@
----
+﻿---
 title: "Schneider Altivar Fault CFF — Causes & Fix"
 description: "What Schneider Altivar fault CFF means, why incorrect configuration triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -39,8 +39,8 @@ Schneider Altivar fault **CFF** (Configuration Fault) indicates an **incorrect c
 
 | Part | Notes |
 |------|-------|
-| No hardware typically needed | CFF is almost always a configuration/software issue |
-| Option card | Only if the installed card is damaged or wrong type |
+| [No hardware typically needed](https://www.amazon.com/s?k=No%20hardware%20typically%20needed&tag=errorcodefixe-20) | CFF is almost always a configuration/software issue |
+| [Option card](https://www.amazon.com/s?k=Option%20card&tag=errorcodefixe-20) | Only if the installed card is damaged or wrong type |
 
 ## When to Call a Pro
 

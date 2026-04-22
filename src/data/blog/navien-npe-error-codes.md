@@ -1,4 +1,4 @@
----
+﻿---
 title: "Navien NPE Series Error Codes — Tankless Water Heater Fault Guide"
 description: "Complete guide to Navien NPE series tankless water heater error codes, what each fault means, and step-by-step troubleshooting for ignition, flow, and sensor failures."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -20,25 +20,25 @@ The Navien NPE series (including NPE-180A, NPE-210A, NPE-240A, NPE-180S, NPE-210
 
 ## Navien NPE Series Error Code Reference
 
-| Code | Meaning |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning |
 |------|---------|
-| E001 | Abnormal ignition — failed to ignite |
-| E002 | Abnormal ignition — flame loss during operation |
-| E003 | Ignition failure (repeated attempts failed) |
-| E004 | False flame detection |
-| E006 | Hot water outlet temperature is too high (overtemp) |
-| E007 | Hot water outlet temperature sensor fault |
-| E008 | Cold water inlet temperature sensor fault |
-| E009 | Exhaust overheat sensor fault |
-| E010 | Abnormal air pressure switch |
-| E011 | Cascade communication error (multiple units) |
-| E012 | Gas valve fault |
-| E013 | Gas pressure sensor fault |
-| E016 | Cold water bypass valve fault |
-| E024 | Fan motor fault |
-| E030 | Freeze protection active |
-| E031 | PCB temperature sensor fault |
-| E302 | Abnormal water flow sensor |
+| [E001](https://www.amazon.com/s?k=E001&tag=errorcodefixe-20) | Abnormal ignition — failed to ignite |
+| [E002](https://www.amazon.com/s?k=E002&tag=errorcodefixe-20) | Abnormal ignition — flame loss during operation |
+| [E003](https://www.amazon.com/s?k=E003&tag=errorcodefixe-20) | Ignition failure (repeated attempts failed) |
+| [E004](https://www.amazon.com/s?k=E004&tag=errorcodefixe-20) | False flame detection |
+| [E006](https://www.amazon.com/s?k=E006&tag=errorcodefixe-20) | Hot water outlet temperature is too high (overtemp) |
+| [E007](https://www.amazon.com/s?k=E007&tag=errorcodefixe-20) | Hot water outlet temperature sensor fault |
+| [E008](https://www.amazon.com/s?k=E008&tag=errorcodefixe-20) | Cold water inlet temperature sensor fault |
+| [E009](https://www.amazon.com/s?k=E009&tag=errorcodefixe-20) | Exhaust overheat sensor fault |
+| [E010](https://www.amazon.com/s?k=E010&tag=errorcodefixe-20) | Abnormal air pressure switch |
+| [E011](https://www.amazon.com/s?k=E011&tag=errorcodefixe-20) | Cascade communication error (multiple units) |
+| [E012](https://www.amazon.com/s?k=E012&tag=errorcodefixe-20) | Gas valve fault |
+| [E013](https://www.amazon.com/s?k=E013&tag=errorcodefixe-20) | Gas pressure sensor fault |
+| [E016](https://www.amazon.com/s?k=E016&tag=errorcodefixe-20) | Cold water bypass valve fault |
+| [E024](https://www.amazon.com/s?k=E024&tag=errorcodefixe-20) | Fan motor fault |
+| [E030](https://www.amazon.com/s?k=E030&tag=errorcodefixe-20) | Freeze protection active |
+| [E031](https://www.amazon.com/s?k=E031&tag=errorcodefixe-20) | PCB temperature sensor fault |
+| [E302](https://www.amazon.com/s?k=E302&tag=errorcodefixe-20) | Abnormal water flow sensor |
 
 ## Common Causes by Code
 
@@ -63,12 +63,12 @@ The Navien NPE series (including NPE-180A, NPE-210A, NPE-240A, NPE-180S, NPE-210
 
 | Part | Notes |
 |------|-------|
-| Flow sensor | E302; descale first before replacing |
-| Air pressure switch | E010 after vent confirmed clear |
-| Gas valve assembly | E001/E002 after pressure confirmed |
-| Fan motor assembly | E024; includes wheel |
-| Outlet temperature sensor | E007; NTC type |
-| Igniter | For E001 with confirmed gas supply |
+| [Flow sensor](https://www.amazon.com/s?k=Flow%20sensor&tag=errorcodefixe-20) | E302; descale first before replacing |
+| [Air pressure switch](https://www.amazon.com/s?k=Air%20pressure%20switch&tag=errorcodefixe-20) | E010 after vent confirmed clear |
+| [Gas valve assembly](https://www.amazon.com/s?k=Gas%20valve%20assembly&tag=errorcodefixe-20) | E001/E002 after pressure confirmed |
+| [Fan motor assembly](https://www.amazon.com/s?k=Fan%20motor%20assembly&tag=errorcodefixe-20) | E024; includes wheel |
+| [Outlet temperature sensor](https://www.amazon.com/s?k=Outlet%20temperature%20sensor&tag=errorcodefixe-20) | E007; NTC type |
+| [Igniter](https://www.amazon.com/s?k=Igniter&tag=errorcodefixe-20) | For E001 with confirmed gas supply |
 
 ## When to Call a Pro
 

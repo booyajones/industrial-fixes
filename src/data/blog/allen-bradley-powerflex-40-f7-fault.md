@@ -1,4 +1,4 @@
----
+﻿---
 title: "Allen Bradley PowerFlex 40 F7 Fault — Causes & Fix"
 description: "What Allen Bradley PowerFlex 40 F7 Motor Overload means, why it trips, and how to clear and fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,9 +36,9 @@ The Allen Bradley PowerFlex 40 **F7 fault** is a **Motor Overload** (electronic 
 
 | Part | Notes |
 |------|-------|
-| PowerFlex 40 replacement drive | If internal overload circuit is damaged after repeated thermal trips |
-| Motor (replacement) | When motor windings are degraded from repeated overload events |
-| Enclosure cooling fan or AC unit | If fault only occurs in summer or when enclosure door is closed |
+| [PowerFlex 40 replacement drive](https://www.amazon.com/s?k=PowerFlex%2040%20replacement%20drive&tag=errorcodefixe-20) | If internal overload circuit is damaged after repeated thermal trips |
+| [Motor (replacement)](https://www.amazon.com/s?k=Motor%20(replacement)&tag=errorcodefixe-20) | When motor windings are degraded from repeated overload events |
+| [Enclosure cooling fan or AC unit](https://www.amazon.com/s?k=Enclosure%20cooling%20fan%20or%20AC%20unit&tag=errorcodefixe-20) | If fault only occurs in summer or when enclosure door is closed |
 
 ## When to Call a Pro
 

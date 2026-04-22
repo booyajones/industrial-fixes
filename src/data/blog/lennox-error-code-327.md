@@ -1,4 +1,4 @@
----
+﻿---
 title: "Lennox Error Code 327 — Causes & Fix"
 description: "What Lennox error code 327 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,9 +36,9 @@ Lennox fault code 327 is a limit fault — the high-temperature limit switch ope
 
 | Part | Notes |
 |------|-------|
-| Air filter (1" or 4" media) | Replace on schedule; 1" filters need monthly checks in dusty environments |
-| Blower motor capacitor | Test capacitance before condemning the motor |
-| High-limit switch | Replace if it doesn't reset after the system cools down |
+| [Air filter (1" or 4" media)](https://www.amazon.com/s?k=Air%20filter%20(1%22%20or%204%22%20media)&tag=errorcodefixe-20) | Replace on schedule; 1" filters need monthly checks in dusty environments |
+| [Blower motor capacitor](https://www.amazon.com/s?k=Blower%20motor%20capacitor&tag=errorcodefixe-20) | Test capacitance before condemning the motor |
+| [High-limit switch](https://www.amazon.com/s?k=High-limit%20switch&tag=errorcodefixe-20) | Replace if it doesn't reset after the system cools down |
 
 ## When to Call a Pro
 

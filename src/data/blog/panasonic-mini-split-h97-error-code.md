@@ -1,4 +1,4 @@
----
+﻿---
 title: "Panasonic Mini-Split H97 Error Code — Causes & Fix"
 description: "What Panasonic mini-split H97 means, why communication fails, and how to fix it step by step."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,9 +36,9 @@ H97 on a Panasonic mini-split system indicates a communication error between the
 
 | Part | Notes |
 |------|-------|
-| Interconnecting cable (3-conductor) | 18 AWG minimum; run separately from high-voltage lines |
-| Indoor control board | Replace if board communication section is confirmed failed |
-| Outdoor control board | Replace after confirming power and wiring are not the cause |
+| [Interconnecting cable (3-conductor)](https://www.amazon.com/s?k=Interconnecting%20cable%20(3-conductor)&tag=errorcodefixe-20) | 18 AWG minimum; run separately from high-voltage lines |
+| [Indoor control board](https://www.amazon.com/s?k=Indoor%20control%20board&tag=errorcodefixe-20) | Replace if board communication section is confirmed failed |
+| [Outdoor control board](https://www.amazon.com/s?k=Outdoor%20control%20board&tag=errorcodefixe-20) | Replace after confirming power and wiring are not the cause |
 
 ## When to Call a Pro
 

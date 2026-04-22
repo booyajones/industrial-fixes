@@ -1,4 +1,4 @@
----
+﻿---
 title: "York Mini Split Error Code E1 — Causes & Fix"
 description: "What York mini split error code E1 means, why communication fails, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -37,8 +37,8 @@ E1 on a York mini split indicates a communication error between the indoor and o
 
 | Part | Notes |
 |------|-------|
-| Communication wire | 18 AWG 2-conductor; match the original run length |
-| Outdoor control PCB | York OEM; must match model series |
+| [Communication wire](https://www.amazon.com/s?k=Communication%20wire&tag=errorcodefixe-20) | 18 AWG 2-conductor; match the original run length |
+| [Outdoor control PCB](https://www.amazon.com/s?k=Outdoor%20control%20PCB&tag=errorcodefixe-20) | York OEM; must match model series |
 
 ## When to Call a Pro
 

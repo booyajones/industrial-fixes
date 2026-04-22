@@ -1,4 +1,4 @@
----
+﻿---
 title: "Bosch Heat Pump E1 Error Code — Causes & Fix"
 description: "What the Bosch heat pump E1 error code means, why it triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -38,10 +38,10 @@ On Bosch Inverter Ducted Split (IDS) and Bosch Climate 5000 heat pump systems, E
 
 | Part | Notes |
 |------|-------|
-| Bosch IDS communicating thermostat | Replace if thermostat diagnostics show no outdoor unit detected |
-| Outdoor unit inverter control board | Primary suspect for persistent E1 after wiring confirmed |
-| Communication cable (2-conductor) | Replace if physical damage is found |
-| Indoor unit control board | Secondary suspect if outdoor board swap doesn't resolve |
+| [Bosch IDS communicating thermostat](https://www.amazon.com/s?k=Bosch%20IDS%20communicating%20thermostat&tag=errorcodefixe-20) | Replace if thermostat diagnostics show no outdoor unit detected |
+| [Outdoor unit inverter control board](https://www.amazon.com/s?k=Outdoor%20unit%20inverter%20control%20board&tag=errorcodefixe-20) | Primary suspect for persistent E1 after wiring confirmed |
+| [Communication cable (2-conductor)](https://www.amazon.com/s?k=Communication%20cable%20(2-conductor)&tag=errorcodefixe-20) | Replace if physical damage is found |
+| [Indoor unit control board](https://www.amazon.com/s?k=Indoor%20unit%20control%20board&tag=errorcodefixe-20) | Secondary suspect if outdoor board swap doesn't resolve |
 
 ## When to Call a Pro
 

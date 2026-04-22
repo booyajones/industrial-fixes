@@ -1,4 +1,4 @@
----
+﻿---
 title: "Okuma CNC Alarm 2030 Spindle Drive Fault — Causes & Fix"
 description: "What Okuma alarm 2030 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,9 +36,9 @@ Okuma alarm 2030 indicates a spindle drive fault — the spindle drive (inverter
 
 | Part | Notes |
 |------|-------|
-| Spindle encoder | Okuma uses proprietary encoders; must be Okuma OEM |
-| Spindle drive (PREX or DRIVE II) | Replace if drive sub-fault indicates internal hardware failure |
-| Spindle bearings | Replace at a motor shop if bearing fault is confirmed |
+| [Spindle encoder](https://www.amazon.com/s?k=Spindle%20encoder&tag=errorcodefixe-20) | Okuma uses proprietary encoders; must be Okuma OEM |
+| [Spindle drive (PREX or DRIVE II)](https://www.amazon.com/s?k=Spindle%20drive%20(PREX%20or%20DRIVE%20II)&tag=errorcodefixe-20) | Replace if drive sub-fault indicates internal hardware failure |
+| [Spindle bearings](https://www.amazon.com/s?k=Spindle%20bearings&tag=errorcodefixe-20) | Replace at a motor shop if bearing fault is confirmed |
 
 ## When to Call a Pro
 

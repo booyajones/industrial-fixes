@@ -1,4 +1,4 @@
----
+﻿---
 title: "Rinnai RUR Series Error Codes — Tankless Water Heater Fault Guide"
 description: "Complete guide to Rinnai RUR series condensing tankless water heater error codes, fault causes, and step-by-step troubleshooting for the most common failures."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -20,24 +20,24 @@ The Rinnai RUR series (RUR160iN, RUR199iN, RUR160eN, RUR199eN) are condensing ta
 
 ## Rinnai RUR Series Error Code Reference
 
-| Code | Meaning |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning |
 |------|---------|
-| 02 | Bypass flow control fault |
-| 10 | Exhaust air temperature sensor fault |
-| 11 | Ignition failure |
-| 12 | Flame failure during operation |
-| 14 | Thermal fuse (overtemp) tripped |
-| 16 | Overtemp — maximum outlet temperature exceeded |
-| 25 | Condensate neutralizer/drain fault |
-| 31 | Combustion air inlet sensor fault |
-| 32 | Outlet water temperature sensor fault |
-| 33 | Heat exchanger outlet sensor fault |
-| 52 | Modulating gas valve error |
-| 61 | Fan/combustion air fault |
-| 65 | Water flow adjustment fault |
-| 71 | Gas valve solenoid fault |
-| 72 | Flame sensor fault |
-| 79 | Water temperature mismatch |
+| [02](https://www.amazon.com/s?k=02&tag=errorcodefixe-20) | Bypass flow control fault |
+| [10](https://www.amazon.com/s?k=10&tag=errorcodefixe-20) | Exhaust air temperature sensor fault |
+| [11](https://www.amazon.com/s?k=11&tag=errorcodefixe-20) | Ignition failure |
+| [12](https://www.amazon.com/s?k=12&tag=errorcodefixe-20) | Flame failure during operation |
+| [14](https://www.amazon.com/s?k=14&tag=errorcodefixe-20) | Thermal fuse (overtemp) tripped |
+| [16](https://www.amazon.com/s?k=16&tag=errorcodefixe-20) | Overtemp — maximum outlet temperature exceeded |
+| [25](https://www.amazon.com/s?k=25&tag=errorcodefixe-20) | Condensate neutralizer/drain fault |
+| [31](https://www.amazon.com/s?k=31&tag=errorcodefixe-20) | Combustion air inlet sensor fault |
+| [32](https://www.amazon.com/s?k=32&tag=errorcodefixe-20) | Outlet water temperature sensor fault |
+| [33](https://www.amazon.com/s?k=33&tag=errorcodefixe-20) | Heat exchanger outlet sensor fault |
+| [52](https://www.amazon.com/s?k=52&tag=errorcodefixe-20) | Modulating gas valve error |
+| [61](https://www.amazon.com/s?k=61&tag=errorcodefixe-20) | Fan/combustion air fault |
+| [65](https://www.amazon.com/s?k=65&tag=errorcodefixe-20) | Water flow adjustment fault |
+| [71](https://www.amazon.com/s?k=71&tag=errorcodefixe-20) | Gas valve solenoid fault |
+| [72](https://www.amazon.com/s?k=72&tag=errorcodefixe-20) | Flame sensor fault |
+| [79](https://www.amazon.com/s?k=79&tag=errorcodefixe-20) | Water temperature mismatch |
 
 ## Common Causes by Code
 
@@ -64,12 +64,12 @@ The Rinnai RUR series (RUR160iN, RUR199iN, RUR160eN, RUR199eN) are condensing ta
 
 | Part | Notes |
 |------|-------|
-| Thermal fuse | One-time device; investigate cause before replacing |
-| Combustion fan assembly | For Code 61; includes wheel |
-| Gas valve | For Code 71 with confirmed 24V signal |
-| Flame sensor rod | For Code 72; clean first |
-| Condensate drain trap | Check for blockage or replace if cracked |
-| Remote controller (MC-91-2) | If display is faulty or communication fails |
+| [Thermal fuse](https://www.amazon.com/s?k=Thermal%20fuse&tag=errorcodefixe-20) | One-time device; investigate cause before replacing |
+| [Combustion fan assembly](https://www.amazon.com/s?k=Combustion%20fan%20assembly&tag=errorcodefixe-20) | For Code 61; includes wheel |
+| [Gas valve](https://www.amazon.com/s?k=Gas%20valve&tag=errorcodefixe-20) | For Code 71 with confirmed 24V signal |
+| [Flame sensor rod](https://www.amazon.com/s?k=Flame%20sensor%20rod&tag=errorcodefixe-20) | For Code 72; clean first |
+| [Condensate drain trap](https://www.amazon.com/s?k=Condensate%20drain%20trap&tag=errorcodefixe-20) | Check for blockage or replace if cracked |
+| [Remote controller (MC-91-2)](https://www.amazon.com/s?k=Remote%20controller%20(MC-91-2)&tag=errorcodefixe-20) | If display is faulty or communication fails |
 
 ## When to Call a Pro
 

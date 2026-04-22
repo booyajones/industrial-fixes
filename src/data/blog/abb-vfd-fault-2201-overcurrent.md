@@ -1,4 +1,4 @@
----
+﻿---
 title: "ABB VFD Fault 2201 — Overcurrent Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-15T08:00:00Z
@@ -51,11 +51,8 @@ Fault 2201 is nearly always caused by something external to the drive — the mo
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Part Number | Typical Cost | Where to Buy |
-|------|------------|-------------|-------------|
-| ABB Output Reactor (dV/dt filter) | NOCH0100-61 (varies by A rating) | $80–$350 | ABB distributor / Automation Direct |
-| Motor (if insulation failed) | Match frame/HP/voltage | $200–$2000+ | Grainger / motor repair shop |
-| Replacement ACS355 Drive | ACS355-03E-07A3-4 (varies) | $500–$1200 | ABB distributor |
+| Part | Part Number | Typical Cost | [Where to Buy](https://www.amazon.com/s?k=Where%20to%20Buy&tag=errorcodefixe-20) |  |------|------------|-------------|-------------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ABB Output Reactor (dV/dt filter) | NOCH0100-61 (varies by A rating) | [$80–$350](https://www.amazon.com/s?k=%2480%E2%80%93%24350&tag=errorcodefixe-20) | ABB distributor / Automation Direct |
+| [Motor (if insulation failed)](https://www.amazon.com/s?k=Motor%20(if%20insulation%20failed)&tag=errorcodefixe-20) | Match frame/HP/voltage | $200–$2000+ | [Grainger / motor repair shop](https://www.amazon.com/s?k=Grainger%20%2F%20motor%20repair%20shop&tag=errorcodefixe-20) |  | Replacement ACS355 Drive | [ACS355-03E-07A3-4 (varies)](https://www.amazon.com/s?k=ACS355-03E-07A3-4%20(varies)&tag=errorcodefixe-20) | $500–$1200 | ABB distributor |
 
 ## When to Call a Professional
 

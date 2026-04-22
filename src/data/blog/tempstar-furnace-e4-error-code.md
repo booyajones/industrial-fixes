@@ -1,4 +1,4 @@
----
+﻿---
 title: "Tempstar Furnace E4 Error Code — Causes & Fix"
 description: "What Tempstar furnace error code E4 means, why the limit circuit opens, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -37,9 +37,9 @@ E4 on a Tempstar furnace signals an open limit circuit — the high-limit switch
 
 | Part | Notes |
 |------|-------|
-| High-limit switch | Match the °F trip rating and mounting configuration |
-| Rollout limit switch | Many are auto-reset; persistent trips require root-cause repair |
-| Blower run capacitor | Match µF and VAC rating exactly |
+| [High-limit switch](https://www.amazon.com/s?k=High-limit%20switch&tag=errorcodefixe-20) | Match the °F trip rating and mounting configuration |
+| [Rollout limit switch](https://www.amazon.com/s?k=Rollout%20limit%20switch&tag=errorcodefixe-20) | Many are auto-reset; persistent trips require root-cause repair |
+| [Blower run capacitor](https://www.amazon.com/s?k=Blower%20run%20capacitor&tag=errorcodefixe-20) | Match µF and VAC rating exactly |
 
 ## When to Call a Pro
 

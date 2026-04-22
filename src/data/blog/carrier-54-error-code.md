@@ -1,4 +1,4 @@
----
+﻿---
 title: "Carrier 54 Error Code — Soft Lockout: Low Pressure Switch Open"
 description: "What Carrier error code 54 means, why the low pressure switch won't close, and how to fix it step by step."
 pubDatetime: 2026-04-22T16:00:00Z
@@ -39,10 +39,10 @@ A "soft lockout" means the board will retry after a wait period (usually 1 hour)
 
 | Part | Notes |
 |------|-------|
-| Condensate trap | Brand-specific; check model label for Carrier part number |
-| Pressure switch | 0.60" or 0.80" WC setpoint depending on model |
-| Pressure switch hose | 3/8" ID rubber vacuum hose, ~6–12" length |
-| Inducer motor assembly | LH680016 or similar — match by model number |
+| [Condensate trap](https://www.amazon.com/s?k=Condensate%20trap&tag=errorcodefixe-20) | Brand-specific; check model label for Carrier part number |
+| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | 0.60" or 0.80" WC setpoint depending on model |
+| [Pressure switch hose](https://www.amazon.com/s?k=Pressure%20switch%20hose&tag=errorcodefixe-20) | 3/8" ID rubber vacuum hose, ~6–12" length |
+| [Inducer motor assembly](https://www.amazon.com/s?k=Inducer%20motor%20assembly&tag=errorcodefixe-20) | LH680016 or similar — match by model number |
 
 ## When to Call a Pro
 If the trap is clear, hose is intact, and the pressure switch tests good but code 54 still appears, you likely have a failing inducer motor or a secondary heat exchanger that's partially plugged. Both require tools and expertise beyond basic DIY — contact an HVAC technician.

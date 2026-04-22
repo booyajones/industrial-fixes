@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mitsubishi CNC Alarm Y96 — Causes & Fix"
 description: "What Mitsubishi CNC Alarm Y96 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -36,9 +36,9 @@ Alarm Y96 on Mitsubishi CNC systems (M800/M830 series) indicates a servo axis fa
 
 | Part | Notes |
 |------|-------|
-| SSCNET III/H fiber cable | Replace if bent or damaged |
-| Servo motor encoder cable | Replace if signal loss is detected |
-| MDS-E/EH servo drive | Replace if drive internal fault is confirmed |
+| [SSCNET III/H fiber cable](https://www.amazon.com/s?k=SSCNET%20III%2FH%20fiber%20cable&tag=errorcodefixe-20) | Replace if bent or damaged |
+| [Servo motor encoder cable](https://www.amazon.com/s?k=Servo%20motor%20encoder%20cable&tag=errorcodefixe-20) | Replace if signal loss is detected |
+| [MDS-E/EH servo drive](https://www.amazon.com/s?k=MDS-E%2FEH%20servo%20drive&tag=errorcodefixe-20) | Replace if drive internal fault is confirmed |
 
 ## When to Call a Pro
 

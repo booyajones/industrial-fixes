@@ -1,4 +1,4 @@
----
+﻿---
 title: "Goodman 9 Flash Error Code — Causes & Fix"
 description: "What Goodman 9 flash means, why reversed line/load power causes it, and how to fix the wiring safely."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -38,9 +38,9 @@ Nine flashes on a Goodman furnace diagnostic LED indicates reversed line and loa
 
 | Part | Notes |
 |------|-------|
-| Outlet polarity tester | Inexpensive tool for quickly diagnosing reversed outlets |
-| Wire nuts / terminals | For re-terminating corrected wiring connections |
-| Furnace control board | Only if board was damaged by sustained polarity reversal (rare) |
+| [Outlet polarity tester](https://www.amazon.com/s?k=Outlet%20polarity%20tester&tag=errorcodefixe-20) | Inexpensive tool for quickly diagnosing reversed outlets |
+| [Wire nuts / terminals](https://www.amazon.com/s?k=Wire%20nuts%20%2F%20terminals&tag=errorcodefixe-20) | For re-terminating corrected wiring connections |
+| [Furnace control board](https://www.amazon.com/s?k=Furnace%20control%20board&tag=errorcodefixe-20) | Only if board was damaged by sustained polarity reversal (rare) |
 
 ## When to Call a Pro
 

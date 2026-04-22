@@ -1,4 +1,4 @@
----
+﻿---
 title: "True Refrigeration E1 Error Code — Causes & Fix"
 description: "What True Refrigeration E1 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,9 +36,9 @@ True Refrigeration error code E1 indicates a temperature sensor fault. On True r
 
 | Part | Notes |
 |------|-------|
-| Cabinet temperature probe (NTC) | Match controller type and resistance curve before ordering |
-| Probe extension harness | Replace if the wire run is damaged inside the cabinet chase |
-| Electronic temperature controller | Replace only after testing with a known-good probe |
+| [Cabinet temperature probe (NTC)](https://www.amazon.com/s?k=Cabinet%20temperature%20probe%20(NTC)&tag=errorcodefixe-20) | Match controller type and resistance curve before ordering |
+| [Probe extension harness](https://www.amazon.com/s?k=Probe%20extension%20harness&tag=errorcodefixe-20) | Replace if the wire run is damaged inside the cabinet chase |
+| [Electronic temperature controller](https://www.amazon.com/s?k=Electronic%20temperature%20controller&tag=errorcodefixe-20) | Replace only after testing with a known-good probe |
 
 ## When to Call a Pro
 

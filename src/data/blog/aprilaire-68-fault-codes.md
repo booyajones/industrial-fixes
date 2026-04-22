@@ -1,4 +1,4 @@
----
+﻿---
 title: "Aprilaire 68 Dehumidifier Fault Codes — Troubleshooting Guide"
 description: "Aprilaire 68 whole-home dehumidifier fault codes and error messages: E1, E2, E3 causes and step-by-step troubleshooting for residential and light commercial."
 pubDatetime: 2026-04-22T21:00:00Z
@@ -16,16 +16,10 @@ tags:
 
 The Aprilaire 68 is a high-capacity whole-home dehumidifier (130 pints/day). It uses an electronic control board that displays fault codes on the unit's LED status panel.
 
-| Fault Code | Meaning | Quick Fix |
-|-----------|---------|-----------|
-| E1 | Freeze protection — coil temperature too low | Check refrigerant charge and airflow |
-| E2 | High pressure fault | Check condenser coil cleanliness and airflow |
-| E3 | Compressor fault | Check compressor and electrical supply |
-| Drain alarm | Drain line backup or float switch trip | Check drain line and float switch |
-| Low airflow | Dirty filter or blocked airflow | Replace air filter |
-| Sensor fault | Temperature sensor failure | Check sensor and replace |
-
-## Most Common Faults
+| [Fault Code](https://www.amazon.com/s?k=Fault%20Code&tag=errorcodefixe-20) | Meaning | Quick Fix | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ----------- |---------|-----------|
+| E1 | [Freeze protection — coil temperature too low](https://www.amazon.com/s?k=Freeze%20protection%20%E2%80%94%20coil%20temperature%20too%20low&tag=errorcodefixe-20) | Check refrigerant charge and airflow |
+| [E2](https://www.amazon.com/s?k=E2&tag=errorcodefixe-20) | High pressure fault | Check condenser coil cleanliness and airflow | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E3 | Compressor fault | [Check compressor and electrical supply](https://www.amazon.com/s?k=Check%20compressor%20and%20electrical%20supply&tag=errorcodefixe-20) |  | Drain alarm | [Drain line backup or float switch trip](https://www.amazon.com/s?k=Drain%20line%20backup%20or%20float%20switch%20trip&tag=errorcodefixe-20) | Check drain line and float switch |
+| [Low airflow](https://www.amazon.com/s?k=Low%20airflow&tag=errorcodefixe-20) | Dirty filter or blocked airflow | Replace air filter | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Sensor fault | Temperature sensor failure | [Check sensor and replace](https://www.amazon.com/s?k=Check%20sensor%20and%20replace&tag=errorcodefixe-20) | ## Most Common Faults
 
 ### E1 — Freeze Protection
 The evaporator coil temperature has dropped below the freeze protection setpoint. The unit shuts down to prevent ice buildup. Causes:
@@ -62,14 +56,8 @@ The Aprilaire 68 can gravity drain or use a condensate pump. If water backs up a
 2. Flush with diluted bleach solution
 3. Check that the drain line has adequate slope
 
-## Parts Often Needed
-
-| Part | Notes |
-|------|-------|
-| Air filter | Most common maintenance item |
-| Refrigerant charge | After confirmed E1 with clean filter |
-| Start capacitor | Common on E3 compressor faults |
-| Condensate pump | Replace if pump fails to discharge |
+## Parts Often Needed | Part | [Notes](https://www.amazon.com/s?k=Notes&tag=errorcodefixe-20) |  |------|-------|
+| Air filter | [Most common maintenance item](https://www.amazon.com/s?k=Most%20common%20maintenance%20item&tag=errorcodefixe-20) |  | Refrigerant charge | [After confirmed E1 with clean filter](https://www.amazon.com/s?k=After%20confirmed%20E1%20with%20clean%20filter&tag=errorcodefixe-20) |  | Start capacitor | [Common on E3 compressor faults](https://www.amazon.com/s?k=Common%20on%20E3%20compressor%20faults&tag=errorcodefixe-20) |  | Condensate pump | Replace if pump fails to discharge |
 
 ## Jump to Fix
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Rheem Furnace 4 Flashes — Open High Temperature Limit Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-29T08:00:00Z
@@ -47,9 +47,9 @@ If the fault recurs after airflow correction and limit replacement, have a licen
 
 | Part | Where to Buy |
 |------|-------------|
-| High limit switch | RepairClinic, SupplyHouse |
-| Blower motor capacitor | Grainger, Amazon |
-| PSC or ECM blower motor | RepairClinic, Grainger |
+| [High limit switch](https://www.amazon.com/s?k=High%20limit%20switch&tag=errorcodefixe-20) | RepairClinic, SupplyHouse |
+| [Blower motor capacitor](https://www.amazon.com/s?k=Blower%20motor%20capacitor&tag=errorcodefixe-20) | Grainger, Amazon |
+| [PSC or ECM blower motor](https://www.amazon.com/s?k=PSC%20or%20ECM%20blower%20motor&tag=errorcodefixe-20) | RepairClinic, Grainger |
 
 ## When to Call a Technician
 

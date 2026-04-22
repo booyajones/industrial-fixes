@@ -1,4 +1,4 @@
----
+﻿---
 title: "Manitowoc Ice Machine Error Code 6 — Causes & Fix"
 description: "What Manitowoc Error Code 6 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,9 +36,9 @@ Error Code 6 on a Manitowoc ice machine indicates a water fill timeout — the m
 
 | Part | Notes |
 |------|-------|
-| Water inlet valve | Most common fix; replace if flow is restricted |
-| Water level probe/float switch | Replace if it's not signaling full trough correctly |
-| Water supply line | Replace if kinked or cracked |
+| [Water inlet valve](https://www.amazon.com/s?k=Water%20inlet%20valve&tag=errorcodefixe-20) | Most common fix; replace if flow is restricted |
+| [Water level probe/float switch](https://www.amazon.com/s?k=Water%20level%20probe%2Ffloat%20switch&tag=errorcodefixe-20) | Replace if it's not signaling full trough correctly |
+| [Water supply line](https://www.amazon.com/s?k=Water%20supply%20line&tag=errorcodefixe-20) | Replace if kinked or cracked |
 
 ## When to Call a Pro
 

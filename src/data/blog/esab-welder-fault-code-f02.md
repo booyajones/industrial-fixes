@@ -1,4 +1,4 @@
----
+﻿---
 title: "ESAB Welder F02 Fault Code — Causes & Fix"
 description: "What ESAB Welder F02 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -36,10 +36,10 @@ The F02 fault on ESAB welders (Rebel, Rogue, and Fabricator series) indicates an
 
 | Part | Notes |
 |------|-------|
-| Contact tip | Replace if burnt, spattered, or worn |
-| MIG gun nozzle | Replace if spatter bridges to contact tip |
-| MIG gun / torch cable | Replace if internal short is found |
-| IGBT power module | If F02 persists after all external causes are cleared — authorized service |
+| [Contact tip](https://www.amazon.com/s?k=Contact%20tip&tag=errorcodefixe-20) | Replace if burnt, spattered, or worn |
+| [MIG gun nozzle](https://www.amazon.com/s?k=MIG%20gun%20nozzle&tag=errorcodefixe-20) | Replace if spatter bridges to contact tip |
+| [MIG gun / torch cable](https://www.amazon.com/s?k=MIG%20gun%20%2F%20torch%20cable&tag=errorcodefixe-20) | Replace if internal short is found |
+| [IGBT power module](https://www.amazon.com/s?k=IGBT%20power%20module&tag=errorcodefixe-20) | If F02 persists after all external causes are cleared — authorized service |
 
 ## When to Call a Pro
 

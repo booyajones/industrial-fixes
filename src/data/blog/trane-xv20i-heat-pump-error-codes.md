@@ -1,4 +1,4 @@
----
+﻿---
 title: "Trane XV20i Heat Pump Error Codes — Common Faults & Fixes"
 description: "Complete guide to Trane XV20i error codes, what they mean, and how to diagnose and fix the most common faults."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,10 +36,10 @@ The Trane XV20i is a communicating variable-speed heat pump that runs on Trane's
 
 | Part | Notes |
 |------|-------|
-| ComfortLink II thermostat | Replace when thermostat communication circuit fails (Code 79 persists after wiring check) |
-| Outdoor unit control board | Replace after lightning damage or when outdoor-side fault codes point to board failure |
-| Defrost sensor | Replace for persistent Code 89 after confirming refrigerant charge is correct |
-| Air filter | Replace for Code 91 caused by restricted airflow |
+| [ComfortLink II thermostat](https://www.amazon.com/s?k=ComfortLink%20II%20thermostat&tag=errorcodefixe-20) | Replace when thermostat communication circuit fails (Code 79 persists after wiring check) |
+| [Outdoor unit control board](https://www.amazon.com/s?k=Outdoor%20unit%20control%20board&tag=errorcodefixe-20) | Replace after lightning damage or when outdoor-side fault codes point to board failure |
+| [Defrost sensor](https://www.amazon.com/s?k=Defrost%20sensor&tag=errorcodefixe-20) | Replace for persistent Code 89 after confirming refrigerant charge is correct |
+| [Air filter](https://www.amazon.com/s?k=Air%20filter&tag=errorcodefixe-20) | Replace for Code 91 caused by restricted airflow |
 
 ## When to Call a Pro
 

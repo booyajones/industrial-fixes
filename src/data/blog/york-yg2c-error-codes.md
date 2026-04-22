@@ -1,4 +1,4 @@
----
+﻿---
 title: "York YG2C Furnace Error Codes — Flash Code Diagnostic Guide"
 description: "Complete guide to York YG2C furnace error codes, flash sequences, fault causes, and step-by-step repairs for the most common HVAC failures."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -20,21 +20,21 @@ The York YG2C is a two-stage, variable-speed gas furnace in the Affinity series.
 
 ## York YG2C Flash Code Reference
 
-| Flash Code | Meaning |
+| [Flash Code](https://www.amazon.com/s?k=Flash%20Code&tag=errorcodefixe-20) | Meaning |
 |------------|---------|
-| 1 flash | Normal — call satisfied |
-| 2 flashes | Lockout — ignition failure |
-| 3 flashes | Pressure switch stuck open |
-| 4 flashes | High-limit switch open |
-| 5 flashes | Flame detected without call |
-| 6 flashes | 115V power fault or reversed polarity |
-| 7 flashes | Gas valve circuit fault |
-| 8 flashes | Weak flame signal |
-| 9 flashes | Rollout switch open |
-| 10 flashes | Inducer or pressure switch fault (low fire) |
-| 11 flashes | Blower motor fault |
-| 12 flashes | Limit device lockout (repeated trips) |
-| 13 flashes | Control board fault |
+| [1 flash](https://www.amazon.com/s?k=1%20flash&tag=errorcodefixe-20) | Normal — call satisfied |
+| [2 flashes](https://www.amazon.com/s?k=2%20flashes&tag=errorcodefixe-20) | Lockout — ignition failure |
+| [3 flashes](https://www.amazon.com/s?k=3%20flashes&tag=errorcodefixe-20) | Pressure switch stuck open |
+| [4 flashes](https://www.amazon.com/s?k=4%20flashes&tag=errorcodefixe-20) | High-limit switch open |
+| [5 flashes](https://www.amazon.com/s?k=5%20flashes&tag=errorcodefixe-20) | Flame detected without call |
+| [6 flashes](https://www.amazon.com/s?k=6%20flashes&tag=errorcodefixe-20) | 115V power fault or reversed polarity |
+| [7 flashes](https://www.amazon.com/s?k=7%20flashes&tag=errorcodefixe-20) | Gas valve circuit fault |
+| [8 flashes](https://www.amazon.com/s?k=8%20flashes&tag=errorcodefixe-20) | Weak flame signal |
+| [9 flashes](https://www.amazon.com/s?k=9%20flashes&tag=errorcodefixe-20) | Rollout switch open |
+| [10 flashes](https://www.amazon.com/s?k=10%20flashes&tag=errorcodefixe-20) | Inducer or pressure switch fault (low fire) |
+| [11 flashes](https://www.amazon.com/s?k=11%20flashes&tag=errorcodefixe-20) | Blower motor fault |
+| [12 flashes](https://www.amazon.com/s?k=12%20flashes&tag=errorcodefixe-20) | Limit device lockout (repeated trips) |
+| [13 flashes](https://www.amazon.com/s?k=13%20flashes&tag=errorcodefixe-20) | Control board fault |
 
 ## Common Causes by Code
 
@@ -59,12 +59,12 @@ The York YG2C is a two-stage, variable-speed gas furnace in the Affinity series.
 
 | Part | Notes |
 |------|-------|
-| Hot surface ignitor | York/Nordyne-specific; confirm model compatibility |
-| ECM blower module | Rear of motor; test before replacing full motor |
-| Pressure switch | Confirm low-fire and high-fire ratings separately |
-| Rollout switch | Manual reset; investigate root cause |
-| High-limit switch | Auto-reset; check continuity |
-| Control board | For Code 13 or unexplained faults |
+| [Hot surface ignitor](https://www.amazon.com/s?k=Hot%20surface%20ignitor&tag=errorcodefixe-20) | York/Nordyne-specific; confirm model compatibility |
+| [ECM blower module](https://www.amazon.com/s?k=ECM%20blower%20module&tag=errorcodefixe-20) | Rear of motor; test before replacing full motor |
+| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Confirm low-fire and high-fire ratings separately |
+| [Rollout switch](https://www.amazon.com/s?k=Rollout%20switch&tag=errorcodefixe-20) | Manual reset; investigate root cause |
+| [High-limit switch](https://www.amazon.com/s?k=High-limit%20switch&tag=errorcodefixe-20) | Auto-reset; check continuity |
+| [Control board](https://www.amazon.com/s?k=Control%20board&tag=errorcodefixe-20) | For Code 13 or unexplained faults |
 
 ## When to Call a Pro
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Midea Mini Split F1 Error Code — Causes & Fix"
 description: "What Midea mini split error code F1 means, why the indoor ambient temperature sensor fails, and how to fix it."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -38,9 +38,9 @@ F1 on a Midea mini split indicates a fault with the indoor ambient temperature s
 
 | Part | Notes |
 |------|-------|
-| Indoor ambient thermistor (NTC 10K) | Match to Midea model; generic 10K NTC thermistors often compatible |
-| Indoor control board | Replace only if thermistor and wiring test good |
-| Thermistor wiring harness | Replace if wire insulation is damaged |
+| [Indoor ambient thermistor (NTC 10K)](https://www.amazon.com/s?k=Indoor%20ambient%20thermistor%20(NTC%2010K)&tag=errorcodefixe-20) | Match to Midea model; generic 10K NTC thermistors often compatible |
+| [Indoor control board](https://www.amazon.com/s?k=Indoor%20control%20board&tag=errorcodefixe-20) | Replace only if thermistor and wiring test good |
+| [Thermistor wiring harness](https://www.amazon.com/s?k=Thermistor%20wiring%20harness&tag=errorcodefixe-20) | Replace if wire insulation is damaged |
 
 ## When to Call a Pro
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Fanuc Alarm 409 — Servo Overload (Z-Axis)"
 description: "Fanuc Alarm 409 means the servo load on the Z-axis exceeded the allowable threshold. Learn the common causes and how to fix Fanuc 409."
 pubDatetime: 2026-04-22T17:00:00Z
@@ -40,10 +40,10 @@ tags:
 
 | Part | Notes |
 |------|-------|
-| Way lube metering unit | Replace if Z-axis is running dry |
-| Servo motor brake assembly | If brake is dragging |
-| Counterbalance seals / regulator parts | If pressure will not hold |
-| Z-axis thrust bearings | Replace if ballscrew is tight or noisy |
+| [Way lube metering unit](https://www.amazon.com/s?k=Way%20lube%20metering%20unit&tag=errorcodefixe-20) | Replace if Z-axis is running dry |
+| [Servo motor brake assembly](https://www.amazon.com/s?k=Servo%20motor%20brake%20assembly&tag=errorcodefixe-20) | If brake is dragging |
+| [Counterbalance seals / regulator parts](https://www.amazon.com/s?k=Counterbalance%20seals%20%2F%20regulator%20parts&tag=errorcodefixe-20) | If pressure will not hold |
+| [Z-axis thrust bearings](https://www.amazon.com/s?k=Z-axis%20thrust%20bearings&tag=errorcodefixe-20) | Replace if ballscrew is tight or noisy |
 
 ## When to Call a Pro
 

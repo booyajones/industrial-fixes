@@ -1,4 +1,4 @@
----
+﻿---
 title: "Oriental Motor AlphaStep Fault Codes — Complete Guide"
 description: "Oriental Motor AlphaStep fault codes for AZ, AR, and AlphaStep drives: alarm codes, causes, and step-by-step fixes for closed-loop stepper systems."
 pubDatetime: 2026-04-22T19:00:00Z
@@ -16,18 +16,11 @@ tags:
 
 Oriental Motor AlphaStep systems use closed-loop stepper motors with dedicated drivers from the AZ and AR series. Alarm codes appear on the driver display and through the ALM output. The exact code list varies by generation, but the faults below cover the most common AlphaStep alarms seen in automation panels.
 
-| Code | Meaning | Quick Fix |
-|------|---------|-----------|
-| AL01 | Overvoltage | Check DC power supply |
-| AL02 | Undervoltage | Verify power supply under load |
-| AL03 | Overcurrent | Check motor cable and load |
-| AL06 | Encoder / sensor fault | Check feedback cable |
-| AL08 | Motor overheat | Reduce load; check ambient temp |
-| AL13 | Position deviation excessive | Check coupling and load jam |
-| AL20 | EEPROM / parameter fault | Reload parameters |
-| AL30 | CPU / internal fault | Power cycle; replace driver if persists |
-| AL40 | Network communication fault | Check Modbus / EtherCAT wiring |
-| AL46 | Home sensor / limit input fault | Check DI wiring and sensor state |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning | Quick Fix | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |---------|-----------|
+| AL01 | [Overvoltage](https://www.amazon.com/s?k=Overvoltage&tag=errorcodefixe-20) | Check DC power supply |
+| [AL02](https://www.amazon.com/s?k=AL02&tag=errorcodefixe-20) | Undervoltage | Verify power supply under load | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | AL03 | Overcurrent | [Check motor cable and load](https://www.amazon.com/s?k=Check%20motor%20cable%20and%20load&tag=errorcodefixe-20) |  | AL06 | [Encoder / sensor fault](https://www.amazon.com/s?k=Encoder%20%2F%20sensor%20fault&tag=errorcodefixe-20) | Check feedback cable |
+| [AL08](https://www.amazon.com/s?k=AL08&tag=errorcodefixe-20) | Motor overheat | Reduce load; check ambient temp | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | AL13 | Position deviation excessive | [Check coupling and load jam](https://www.amazon.com/s?k=Check%20coupling%20and%20load%20jam&tag=errorcodefixe-20) |  | AL20 | [EEPROM / parameter fault](https://www.amazon.com/s?k=EEPROM%20%2F%20parameter%20fault&tag=errorcodefixe-20) | Reload parameters |
+| [AL30](https://www.amazon.com/s?k=AL30&tag=errorcodefixe-20) | CPU / internal fault | Power cycle; replace driver if persists | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | AL40 | Network communication fault | [Check Modbus / EtherCAT wiring](https://www.amazon.com/s?k=Check%20Modbus%20%2F%20EtherCAT%20wiring&tag=errorcodefixe-20) |  | AL46 | [Home sensor / limit input fault](https://www.amazon.com/s?k=Home%20sensor%20%2F%20limit%20input%20fault&tag=errorcodefixe-20) | Check DI wiring and sensor state |
 
 ## Most Common Faults
 
@@ -47,10 +40,10 @@ Oriental Motor AZ and AR drivers are sensitive to supply voltage drop during fas
 
 | Part | Notes |
 |------|-------|
-| Driver unit | Replace if AL30 persists |
-| Motor / feedback cable | Common field failure item |
-| Switching power supply | Check wattage and voltage stability |
-| Flexible coupling | Slipping couplings often trigger AL13 |
+| [Driver unit](https://www.amazon.com/s?k=Driver%20unit&tag=errorcodefixe-20) | Replace if AL30 persists |
+| [Motor / feedback cable](https://www.amazon.com/s?k=Motor%20%2F%20feedback%20cable&tag=errorcodefixe-20) | Common field failure item |
+| [Switching power supply](https://www.amazon.com/s?k=Switching%20power%20supply&tag=errorcodefixe-20) | Check wattage and voltage stability |
+| [Flexible coupling](https://www.amazon.com/s?k=Flexible%20coupling&tag=errorcodefixe-20) | Slipping couplings often trigger AL13 |
 
 ## When to Call a Pro
 If the driver stores repeated AL30 internal faults or the axis cannot hold position after cable checks, involve an automation technician. Replacing the wrong component in a closed-loop stepper system gets expensive fast.

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Fanuc Alarm 1 Overtravel — Causes & Fix"
 description: "What Fanuc alarm 1 overtravel minus means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,8 +36,8 @@ Fanuc alarm 1 (OT0001: OVER TRAVEL: -X, or the corresponding axis) is a hardware
 
 | Part | Notes |
 |------|-------|
-| Hardware overtravel limit switch | Replace if switch is damaged or producing false signals |
-| Switch mounting bracket | Replace if bracket is bent and mis-positioning the switch |
+| [Hardware overtravel limit switch](https://www.amazon.com/s?k=Hardware%20overtravel%20limit%20switch&tag=errorcodefixe-20) | Replace if switch is damaged or producing false signals |
+| [Switch mounting bracket](https://www.amazon.com/s?k=Switch%20mounting%20bracket&tag=errorcodefixe-20) | Replace if bracket is bent and mis-positioning the switch |
 
 ## When to Call a Pro
 

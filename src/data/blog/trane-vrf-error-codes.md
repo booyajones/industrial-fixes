@@ -1,4 +1,4 @@
----
+﻿---
 title: "Trane VRF System Error Codes Guide"
 description: "Complete guide to Trane VRF error codes. Covers all fault codes for Trane VRF multi-split systems with diagnostic steps and technician fixes."
 pubDatetime: 2026-04-22T17:00:00Z
@@ -21,42 +21,21 @@ Trane VRF (Variable Refrigerant Flow) systems display fault codes on the wired r
 
 ### Outdoor Unit Faults
 
-| Code | Description | Common Cause |
-|---|---|---|
-| E01 | Outdoor PCB fault | Replace main control board |
-| E02 | High-pressure protection | Dirty condenser coil, overcharge |
-| E03 | Low-pressure protection | Low refrigerant, airflow issue |
-| E04 | Discharge temperature high | Low refrigerant, TXV restriction |
-| E05 | Phase detection fault | Check 3-phase power and rotation |
-| E06 | Compressor overload protection | High amp draw — check compressor |
-| E07 | Fan motor fault | Fan motor or inverter board fault |
-| E08 | Electronic expansion valve fault | EEV coil or wiring |
-| E09 | Outdoor temperature sensor fault | Replace outdoor air sensor |
-| E10 | Heat exchanger sensor fault | Check condenser coil sensor |
-| E11 | Discharge pipe sensor fault | Sensor at compressor discharge |
-| E12 | Communication fault — outdoor PCBs | Internal board communication |
-
-### Indoor Unit Faults
-
-| Code | Description | Common Cause |
-|---|---|---|
-| I01 | Indoor PCB fault | Replace indoor control board |
-| I02 | Communication fault — indoor | Check F1/F2 wiring |
-| I03 | Indoor fan motor fault | Fan motor or capacitor |
-| I04 | Freeze protection | Low refrigerant, dirty filter |
-| I05 | Drain sensor / overflow fault | Blocked drain, failed pump |
-| I06 | Room temperature sensor fault | Check 10K sensor |
-| I07 | Indoor coil sensor fault | Check pipe temperature sensor |
-| I08 | Indoor EEV fault | EEV coil or wiring |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Description | Common Cause | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | --- |---|---|
+| E01 | [Outdoor PCB fault](https://www.amazon.com/s?k=Outdoor%20PCB%20fault&tag=errorcodefixe-20) | Replace main control board |
+| [E02](https://www.amazon.com/s?k=E02&tag=errorcodefixe-20) | High-pressure protection | Dirty condenser coil, overcharge | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E03 | Low-pressure protection | [Low refrigerant, airflow issue](https://www.amazon.com/s?k=Low%20refrigerant%2C%20airflow%20issue&tag=errorcodefixe-20) |  | E04 | [Discharge temperature high](https://www.amazon.com/s?k=Discharge%20temperature%20high&tag=errorcodefixe-20) | Low refrigerant, TXV restriction |
+| [E05](https://www.amazon.com/s?k=E05&tag=errorcodefixe-20) | Phase detection fault | Check 3-phase power and rotation | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E06 | Compressor overload protection | [High amp draw — check compressor](https://www.amazon.com/s?k=High%20amp%20draw%20%E2%80%94%20check%20compressor&tag=errorcodefixe-20) |  | E07 | [Fan motor fault](https://www.amazon.com/s?k=Fan%20motor%20fault&tag=errorcodefixe-20) | Fan motor or inverter board fault |
+| [E08](https://www.amazon.com/s?k=E08&tag=errorcodefixe-20) | Electronic expansion valve fault | EEV coil or wiring | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E09 | Outdoor temperature sensor fault | [Replace outdoor air sensor](https://www.amazon.com/s?k=Replace%20outdoor%20air%20sensor&tag=errorcodefixe-20) |  | E10 | [Heat exchanger sensor fault](https://www.amazon.com/s?k=Heat%20exchanger%20sensor%20fault&tag=errorcodefixe-20) | Check condenser coil sensor |
+| [E11](https://www.amazon.com/s?k=E11&tag=errorcodefixe-20) | Discharge pipe sensor fault | Sensor at compressor discharge | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E12 | Communication fault — outdoor PCBs | [Internal board communication](https://www.amazon.com/s?k=Internal%20board%20communication&tag=errorcodefixe-20) | ### Indoor Unit Faults | Code | [Description](https://www.amazon.com/s?k=Description&tag=errorcodefixe-20) | Common Cause |
+|---|---|---| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | I01 | Indoor PCB fault | [Replace indoor control board](https://www.amazon.com/s?k=Replace%20indoor%20control%20board&tag=errorcodefixe-20) |  | I02 | [Communication fault — indoor](https://www.amazon.com/s?k=Communication%20fault%20%E2%80%94%20indoor&tag=errorcodefixe-20) | Check F1/F2 wiring |
+| [I03](https://www.amazon.com/s?k=I03&tag=errorcodefixe-20) | Indoor fan motor fault | Fan motor or capacitor | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | I04 | Freeze protection | [Low refrigerant, dirty filter](https://www.amazon.com/s?k=Low%20refrigerant%2C%20dirty%20filter&tag=errorcodefixe-20) |  | I05 | [Drain sensor / overflow fault](https://www.amazon.com/s?k=Drain%20sensor%20%2F%20overflow%20fault&tag=errorcodefixe-20) | Blocked drain, failed pump |
+| [I06](https://www.amazon.com/s?k=I06&tag=errorcodefixe-20) | Room temperature sensor fault | Check 10K sensor | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | I07 | Indoor coil sensor fault | [Check pipe temperature sensor](https://www.amazon.com/s?k=Check%20pipe%20temperature%20sensor&tag=errorcodefixe-20) |  | I08 | [Indoor EEV fault](https://www.amazon.com/s?k=Indoor%20EEV%20fault&tag=errorcodefixe-20) | EEV coil or wiring |
 
 ### System-Wide Faults
 
-| Code | Description | Common Cause |
-|---|---|---|
-| C01 | Communication fault — all units | F1/F2 network issue |
-| C02 | Address conflict | Duplicate indoor unit addresses |
-| C03 | Indoor unit capacity mismatch | Connected capacity exceeds outdoor |
-| L01 | Hard lockout — requires manual reset | 3 consecutive same faults |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Description | Common Cause | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | --- |---|---|
+| C01 | [Communication fault — all units](https://www.amazon.com/s?k=Communication%20fault%20%E2%80%94%20all%20units&tag=errorcodefixe-20) | F1/F2 network issue |
+| [C02](https://www.amazon.com/s?k=C02&tag=errorcodefixe-20) | Address conflict | Duplicate indoor unit addresses | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | C03 | Indoor unit capacity mismatch | [Connected capacity exceeds outdoor](https://www.amazon.com/s?k=Connected%20capacity%20exceeds%20outdoor&tag=errorcodefixe-20) |  | L01 | [Hard lockout — requires manual reset](https://www.amazon.com/s?k=Hard%20lockout%20%E2%80%94%20requires%20manual%20reset&tag=errorcodefixe-20) | 3 consecutive same faults |
 
 ## Most Common Trane VRF Faults
 
@@ -94,10 +73,10 @@ Trane VRF (Variable Refrigerant Flow) systems display fault codes on the wired r
 
 | Part | Notes |
 |---|---|
-| EEV coil | Model-specific — check winding resistance before replacement |
-| Outdoor main board | Match exact model — firmware may need update |
-| Indoor PCB | Indoor unit-specific part number |
-| Temperature sensor | 10K NTC — match resistance curve |
-| Communication wire | 18-gauge unshielded 2-conductor |
+| [EEV coil](https://www.amazon.com/s?k=EEV%20coil&tag=errorcodefixe-20) | Model-specific — check winding resistance before replacement |
+| [Outdoor main board](https://www.amazon.com/s?k=Outdoor%20main%20board&tag=errorcodefixe-20) | Match exact model — firmware may need update |
+| [Indoor PCB](https://www.amazon.com/s?k=Indoor%20PCB&tag=errorcodefixe-20) | Indoor unit-specific part number |
+| [Temperature sensor](https://www.amazon.com/s?k=Temperature%20sensor&tag=errorcodefixe-20) | 10K NTC — match resistance curve |
+| [Communication wire](https://www.amazon.com/s?k=Communication%20wire&tag=errorcodefixe-20) | 18-gauge unshielded 2-conductor |
 
 > **Note:** Trane VRF systems are manufactured in partnership with Daikin. Some service procedures and parts cross-reference to Daikin VRV documentation.

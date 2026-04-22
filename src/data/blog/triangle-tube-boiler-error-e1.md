@@ -1,4 +1,4 @@
----
+﻿---
 title: "Triangle Tube Boiler Error E1 — Causes & Fix"
 description: "What Triangle Tube boiler error code E1 means, why the boiler locks out, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -37,9 +37,9 @@ E1 on a Triangle Tube boiler (Prestige Solo, Excellence, or Challenger series) i
 
 | Part | Notes |
 |------|-------|
-| Ionization electrode | Triangle Tube OEM or equivalent; match electrode model |
-| Condensate trap | Internal siphon trap; must be OEM to ensure correct water seal volume |
-| Gas combination valve | Test voltage input and gas pressure before condemning the valve |
+| [Ionization electrode](https://www.amazon.com/s?k=Ionization%20electrode&tag=errorcodefixe-20) | Triangle Tube OEM or equivalent; match electrode model |
+| [Condensate trap](https://www.amazon.com/s?k=Condensate%20trap&tag=errorcodefixe-20) | Internal siphon trap; must be OEM to ensure correct water seal volume |
+| [Gas combination valve](https://www.amazon.com/s?k=Gas%20combination%20valve&tag=errorcodefixe-20) | Test voltage input and gas pressure before condemning the valve |
 
 ## When to Call a Pro
 

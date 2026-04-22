@@ -1,4 +1,4 @@
----
+﻿---
 title: "Turbo Air Freezer Error Code E2 — Causes & Fix"
 description: "What Turbo Air Freezer E2 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T16:00:00Z
@@ -36,10 +36,10 @@ The E2 error on Turbo Air commercial freezers (reach-ins, undercounters, and pre
 
 | Part | Notes |
 |------|-------|
-| Door gasket | Turbo Air model-specific — measure and order by model number |
-| Condenser fan motor | Replace if not spinning with compressor on |
-| Defrost heater | Match to freezer model voltage and wattage |
-| Defrost termination thermostat | Replace if open at room temp |
+| [Door gasket](https://www.amazon.com/s?k=Door%20gasket&tag=errorcodefixe-20) | Turbo Air model-specific — measure and order by model number |
+| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | Replace if not spinning with compressor on |
+| [Defrost heater](https://www.amazon.com/s?k=Defrost%20heater&tag=errorcodefixe-20) | Match to freezer model voltage and wattage |
+| [Defrost termination thermostat](https://www.amazon.com/s?k=Defrost%20termination%20thermostat&tag=errorcodefixe-20) | Replace if open at room temp |
 
 ## When to Call a Pro
 

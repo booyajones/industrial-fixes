@@ -1,4 +1,4 @@
----
+﻿---
 title: "Siemens SINAMICS V20 F4 Fault — Causes & Fix"
 description: "What Siemens SINAMICS V20 F4 inverter overtemperature means, why it trips, and how to fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,9 +36,9 @@ The Siemens SINAMICS V20 **F4 fault** is an **Inverter Overtemperature** fault. 
 
 | Part | Notes |
 |------|-------|
-| Enclosure thermostat fan unit | Install when panel ambient consistently exceeds 40°C |
-| Compressed air canister | For routine quarterly vent cleaning |
-| Larger frame V20 drive | Required if drive is genuinely undersized for continuous load |
+| [Enclosure thermostat fan unit](https://www.amazon.com/s?k=Enclosure%20thermostat%20fan%20unit&tag=errorcodefixe-20) | Install when panel ambient consistently exceeds 40°C |
+| [Compressed air canister](https://www.amazon.com/s?k=Compressed%20air%20canister&tag=errorcodefixe-20) | For routine quarterly vent cleaning |
+| [Larger frame V20 drive](https://www.amazon.com/s?k=Larger%20frame%20V20%20drive&tag=errorcodefixe-20) | Required if drive is genuinely undersized for continuous load |
 
 ## When to Call a Pro
 

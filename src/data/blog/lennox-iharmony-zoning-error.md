@@ -1,4 +1,4 @@
----
+﻿---
 title: "Lennox iHarmony Zoning System Error Codes — Troubleshooting Guide"
 description: "Lennox iHarmony zoning system error codes and fault conditions: zone controller, damper, and sensor faults with causes and troubleshooting steps."
 pubDatetime: 2026-04-22T21:00:00Z
@@ -17,16 +17,10 @@ tags:
 
 The Lennox iHarmony zoning system uses a central Zoning System Controller and motorized dampers in each zone. The iComfort thermostat displays error codes when the zone system detects a fault.
 
-| Error | Meaning | Quick Fix |
-|-------|---------|-----------|
-| Zone Lost | Zone panel communication lost | Check panel power and bus wiring |
-| Damper Fault | Zone damper not responding | Check damper wiring and actuator |
-| Zone Sensor Error | Zone temperature sensor fault | Check sensor resistance and wiring |
-| Bypass Fault | Bypass damper not responding | Check bypass damper and actuator |
-| Zone Comm Error | Zone panel communication error | Check wiring and panel power |
-| Discharge Limit | Discharge air too hot or cold | Check equipment operation and limits |
-
-## Most Common Faults
+| [Error](https://www.amazon.com/s?k=Error&tag=errorcodefixe-20) | Meaning | Quick Fix | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------- |---------|-----------|
+| Zone Lost | [Zone panel communication lost](https://www.amazon.com/s?k=Zone%20panel%20communication%20lost&tag=errorcodefixe-20) | Check panel power and bus wiring |
+| [Damper Fault](https://www.amazon.com/s?k=Damper%20Fault&tag=errorcodefixe-20) | Zone damper not responding | Check damper wiring and actuator | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Zone Sensor Error | Zone temperature sensor fault | [Check sensor resistance and wiring](https://www.amazon.com/s?k=Check%20sensor%20resistance%20and%20wiring&tag=errorcodefixe-20) |  | Bypass Fault | [Bypass damper not responding](https://www.amazon.com/s?k=Bypass%20damper%20not%20responding&tag=errorcodefixe-20) | Check bypass damper and actuator |
+| [Zone Comm Error](https://www.amazon.com/s?k=Zone%20Comm%20Error&tag=errorcodefixe-20) | Zone panel communication error | Check wiring and panel power | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Discharge Limit | Discharge air too hot or cold | [Check equipment operation and limits](https://www.amazon.com/s?k=Check%20equipment%20operation%20and%20limits&tag=errorcodefixe-20) | ## Most Common Faults
 
 ### Zone Lost / Zone Communication Error
 The iHarmony zone panel is not communicating with the thermostat. Check:
@@ -49,27 +43,13 @@ The discharge air temperature is outside the configured limits. The iHarmony mon
 - Discharge limit setpoints in the system programming
 - HVAC equipment operation (is the furnace or air handler producing the expected output?)
 
-## iHarmony Zone Panel LED Reference
-
-| LED Status | Meaning |
-|-----------|---------|
-| Solid green | Normal operation |
-| Flashing green | Communication active |
-| Flashing amber | Zone damper fault |
-| Solid red | Major fault |
-
-## System Setup Verification
+## iHarmony Zone Panel LED Reference | LED Status | [Meaning](https://www.amazon.com/s?k=Meaning&tag=errorcodefixe-20) |  |-----------|---------|
+| Solid green | [Normal operation](https://www.amazon.com/s?k=Normal%20operation&tag=errorcodefixe-20) |  | Flashing green | [Communication active](https://www.amazon.com/s?k=Communication%20active&tag=errorcodefixe-20) |  | Flashing amber | [Zone damper fault](https://www.amazon.com/s?k=Zone%20damper%20fault&tag=errorcodefixe-20) |  | Solid red | [Major fault](https://www.amazon.com/s?k=Major%20fault&tag=errorcodefixe-20) | ## System Setup Verification
 
 The iHarmony system must be programmed with the correct number of zones and equipment type. A mismatch between the programming and the installed hardware is a common source of faults after service or replacement.
 
-## Parts Often Needed
-
-| Part | Notes |
-|------|-------|
-| iHarmony zone panel | Replace on persistent comm errors |
-| Zone damper actuator | Replace on damper fault |
-| Zone temperature sensor | Replace on sensor error |
-| Bypass damper | Inspect on high static pressure |
+## Parts Often Needed | Part | [Notes](https://www.amazon.com/s?k=Notes&tag=errorcodefixe-20) |  |------|-------|
+| iHarmony zone panel | [Replace on persistent comm errors](https://www.amazon.com/s?k=Replace%20on%20persistent%20comm%20errors&tag=errorcodefixe-20) |  | Zone damper actuator | [Replace on damper fault](https://www.amazon.com/s?k=Replace%20on%20damper%20fault&tag=errorcodefixe-20) |  | Zone temperature sensor | [Replace on sensor error](https://www.amazon.com/s?k=Replace%20on%20sensor%20error&tag=errorcodefixe-20) |  | Bypass damper | Inspect on high static pressure |
 
 ## Jump to Fix
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "ABB ACS550 AF10 Fault — Causes & Fix"
 description: "What ABB ACS550 AF10 heatsink overtemperature means, why it trips, and how to clean and fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,8 +36,8 @@ The ABB ACS550 **AF10 fault** is a **Heatsink Overtemperature** fault. The drive
 
 | Part | Notes |
 |------|-------|
-| Internal cooling fan | ABB part number varies by frame size (R1–R6); confirm before ordering |
-| Enclosure thermostat fan unit | Install when ambient routinely exceeds 40°C |
+| [Internal cooling fan](https://www.amazon.com/s?k=Internal%20cooling%20fan&tag=errorcodefixe-20) | ABB part number varies by frame size (R1–R6); confirm before ordering |
+| [Enclosure thermostat fan unit](https://www.amazon.com/s?k=Enclosure%20thermostat%20fan%20unit&tag=errorcodefixe-20) | Install when ambient routinely exceeds 40°C |
 
 ## When to Call a Pro
 

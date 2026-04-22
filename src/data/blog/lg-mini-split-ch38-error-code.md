@@ -1,4 +1,4 @@
----
+﻿---
 title: "LG Mini-Split CH38 Error Code — Causes & Fix"
 description: "What LG mini-split CH38 error code means, why the outdoor inverter compressor faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -37,9 +37,9 @@ The LG CH38 error code indicates an **outdoor inverter compressor fault** — th
 
 | Part | Notes |
 |------|-------|
-| Inverter PCB (outdoor unit) | If board is confirmed faulty; LG-specific — match model number |
-| Refrigerant (R410A or R32) | Requires EPA 608 certification to purchase and handle |
-| Compressor | Last resort after full electrical diagnosis |
+| [Inverter PCB (outdoor unit)](https://www.amazon.com/s?k=Inverter%20PCB%20(outdoor%20unit)&tag=errorcodefixe-20) | If board is confirmed faulty; LG-specific — match model number |
+| [Refrigerant (R410A or R32)](https://www.amazon.com/s?k=Refrigerant%20(R410A%20or%20R32)&tag=errorcodefixe-20) | Requires EPA 608 certification to purchase and handle |
+| [Compressor](https://www.amazon.com/s?k=Compressor&tag=errorcodefixe-20) | Last resort after full electrical diagnosis |
 
 ## When to Call a Pro
 

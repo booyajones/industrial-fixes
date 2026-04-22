@@ -1,4 +1,4 @@
----
+﻿---
 title: "ABB VFD Fault 3130 — Input Phase Loss Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-04-12T08:00:00Z
@@ -45,9 +45,9 @@ After fixing the supply issue, clear the fault on the drive (press RESET or cycl
 
 | Part | Where to Buy |
 |------|-------------|
-| HRC input fuses (match rating) | Grainger, Amazon |
-| Input terminal block (if damaged) | Grainger |
-| Three-phase input contactor | Grainger, Amazon |
+| [HRC input fuses (match rating)](https://www.amazon.com/s?k=HRC%20input%20fuses%20(match%20rating)&tag=errorcodefixe-20) | Grainger, Amazon |
+| [Input terminal block (if damaged)](https://www.amazon.com/s?k=Input%20terminal%20block%20(if%20damaged)&tag=errorcodefixe-20) | Grainger |
+| [Three-phase input contactor](https://www.amazon.com/s?k=Three-phase%20input%20contactor&tag=errorcodefixe-20) | Grainger, Amazon |
 
 ## When to Call a Technician
 

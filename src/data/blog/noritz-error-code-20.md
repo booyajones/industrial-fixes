@@ -1,4 +1,4 @@
----
+﻿---
 title: "Noritz Error Code 20 — Low Water Flow"
 description: "Noritz tankless water heater Error Code 20 means low water flow or a water flow sensor fault. Learn causes, diagnostic steps, and how to fix Noritz Error 20."
 pubDatetime: 2026-04-22T17:00:00Z
@@ -31,14 +31,14 @@ tags:
 
 ## Common Causes {#most-likely-cause}
 
-| Cause | Likelihood |
+| [Cause](https://www.amazon.com/s?k=Cause&tag=errorcodefixe-20) | Likelihood |
 |---|---|
-| Clogged inlet filter screen | Very High |
-| Partially closed cold water shutoff valve | High |
-| Low water pressure at the unit | High |
-| Scale or debris blocking the flow sensor | Medium |
-| Failed flow sensor | Medium |
-| Scale in hot water piping or fixtures | Low |
+| [Clogged inlet filter screen](https://www.amazon.com/s?k=Clogged%20inlet%20filter%20screen&tag=errorcodefixe-20) | Very High |
+| [Partially closed cold water shutoff valve](https://www.amazon.com/s?k=Partially%20closed%20cold%20water%20shutoff%20valve&tag=errorcodefixe-20) | High |
+| [Low water pressure at the unit](https://www.amazon.com/s?k=Low%20water%20pressure%20at%20the%20unit&tag=errorcodefixe-20) | High |
+| [Scale or debris blocking the flow sensor](https://www.amazon.com/s?k=Scale%20or%20debris%20blocking%20the%20flow%20sensor&tag=errorcodefixe-20) | Medium |
+| [Failed flow sensor](https://www.amazon.com/s?k=Failed%20flow%20sensor&tag=errorcodefixe-20) | Medium |
+| [Scale in hot water piping or fixtures](https://www.amazon.com/s?k=Scale%20in%20hot%20water%20piping%20or%20fixtures&tag=errorcodefixe-20) | Low |
 
 ## Step-by-Step Diagnosis {#diagnosis}
 
@@ -82,8 +82,8 @@ Noritz units reset automatically when flow is restored:
 
 | Part | Notes |
 |---|---|
-| Flow sensor assembly | Noritz part 100-194-0001 or model-specific |
-| Inlet filter screen | Noritz part or equivalent mesh screen |
-| Pressure regulator | If incoming pressure is consistently low |
+| [Flow sensor assembly](https://www.amazon.com/s?k=Flow%20sensor%20assembly&tag=errorcodefixe-20) | Noritz part 100-194-0001 or model-specific |
+| [Inlet filter screen](https://www.amazon.com/s?k=Inlet%20filter%20screen&tag=errorcodefixe-20) | Noritz part or equivalent mesh screen |
+| [Pressure regulator](https://www.amazon.com/s?k=Pressure%20regulator&tag=errorcodefixe-20) | If incoming pressure is consistently low |
 
 > **Pro tip:** If Error 20 occurs intermittently rather than constantly, check for partially open fixtures or a check valve that is sticking. Intermittent flow loss below the minimum triggers Error 20 briefly before flow returns.

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Haas Alarm 114 — Spindle Over Speed Causes & Fix"
 description: "What Haas alarm 114 spindle over speed means, why it triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -37,8 +37,8 @@ Haas Alarm 114 is a **spindle over speed** fault — the spindle exceeded its ma
 
 | Part | Notes |
 |------|-------|
-| Spindle encoder cable | If encoder signal quality is the root cause |
-| No parts for parameter-only fixes | — |
+| [Spindle encoder cable](https://www.amazon.com/s?k=Spindle%20encoder%20cable&tag=errorcodefixe-20) | If encoder signal quality is the root cause |
+| [No parts for parameter-only fixes](https://www.amazon.com/s?k=No%20parts%20for%20parameter-only%20fixes&tag=errorcodefixe-20) | — |
 
 ## When to Call a Pro
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Yaskawa VFD Fault BB — Causes & Fix"
 description: "What Yaskawa VFD fault BB (Baseblock) means, why it's different from a hard fault, and when action is needed."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -39,8 +39,8 @@ Yaskawa BB stands for **Baseblock** — this is **not a hard fault**. Baseblock 
 
 | Part | Notes |
 |------|-------|
-| No parts typically needed | BB is a control signal issue, not a hardware failure |
-| Terminal block or wiring | If the baseblock input terminal is damaged or wiring has failed |
+| [No parts typically needed](https://www.amazon.com/s?k=No%20parts%20typically%20needed&tag=errorcodefixe-20) | BB is a control signal issue, not a hardware failure |
+| [Terminal block or wiring](https://www.amazon.com/s?k=Terminal%20block%20or%20wiring&tag=errorcodefixe-20) | If the baseblock input terminal is damaged or wiring has failed |
 
 ## When to Call a Pro
 

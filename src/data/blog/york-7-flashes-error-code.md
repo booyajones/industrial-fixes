@@ -1,4 +1,4 @@
----
+﻿---
 title: "York 7 Flashes Error Code — Ignition Lockout Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-04-01T08:00:00Z
@@ -44,9 +44,9 @@ If gas flow is absent despite a correct igniter glow, check for closed manual sh
 
 | Part | Where to Buy |
 |------|-------------|
-| Flame sensor | RepairClinic, Amazon |
-| Hot surface igniter | RepairClinic, SupplyHouse |
-| Gas valve | SupplyHouse, Grainger |
+| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | RepairClinic, Amazon |
+| [Hot surface igniter](https://www.amazon.com/s?k=Hot%20surface%20igniter&tag=errorcodefixe-20) | RepairClinic, SupplyHouse |
+| [Gas valve](https://www.amazon.com/s?k=Gas%20valve&tag=errorcodefixe-20) | SupplyHouse, Grainger |
 
 ## When to Call a Technician
 

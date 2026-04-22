@@ -1,4 +1,4 @@
----
+﻿---
 title: "Rinnai Error Code 65 — Water Flow Rate Fault"
 description: "Rinnai tankless water heater Error Code 65 means insufficient water flow or a water flow sensor fault. Learn causes, diagnostic steps, and how to fix it."
 pubDatetime: 2026-04-22T17:00:00Z
@@ -31,15 +31,15 @@ tags:
 
 ## Common Causes {#most-likely-cause}
 
-| Cause | Likelihood |
+| [Cause](https://www.amazon.com/s?k=Cause&tag=errorcodefixe-20) | Likelihood |
 |---|---|
-| Clogged inlet filter screen | Very High |
-| Partially closed shutoff valve | High |
-| Low water pressure at the unit | High |
-| Scale or debris in the flow sensor | Medium |
-| Failed water flow sensor | Medium |
-| Scale-clogged hot water piping or fixture | Medium |
-| Recirculation pump issue | Low |
+| [Clogged inlet filter screen](https://www.amazon.com/s?k=Clogged%20inlet%20filter%20screen&tag=errorcodefixe-20) | Very High |
+| [Partially closed shutoff valve](https://www.amazon.com/s?k=Partially%20closed%20shutoff%20valve&tag=errorcodefixe-20) | High |
+| [Low water pressure at the unit](https://www.amazon.com/s?k=Low%20water%20pressure%20at%20the%20unit&tag=errorcodefixe-20) | High |
+| [Scale or debris in the flow sensor](https://www.amazon.com/s?k=Scale%20or%20debris%20in%20the%20flow%20sensor&tag=errorcodefixe-20) | Medium |
+| [Failed water flow sensor](https://www.amazon.com/s?k=Failed%20water%20flow%20sensor&tag=errorcodefixe-20) | Medium |
+| [Scale-clogged hot water piping or fixture](https://www.amazon.com/s?k=Scale-clogged%20hot%20water%20piping%20or%20fixture&tag=errorcodefixe-20) | Medium |
+| [Recirculation pump issue](https://www.amazon.com/s?k=Recirculation%20pump%20issue&tag=errorcodefixe-20) | Low |
 
 ## Step-by-Step Diagnosis {#diagnosis}
 
@@ -75,9 +75,9 @@ The most common fix for Error 65:
 
 | Part | Notes |
 |---|---|
-| Flow sensor (water flow rate sensor) | Rinnai part 100001226 or model-specific |
-| Inlet filter screen | Rinnai part 100028 or equivalent |
-| Flow control valve | Some models have a flow adjustment valve — may need cleaning |
+| [Flow sensor (water flow rate sensor)](https://www.amazon.com/s?k=Flow%20sensor%20(water%20flow%20rate%20sensor)&tag=errorcodefixe-20) | Rinnai part 100001226 or model-specific |
+| [Inlet filter screen](https://www.amazon.com/s?k=Inlet%20filter%20screen&tag=errorcodefixe-20) | Rinnai part 100028 or equivalent |
+| [Flow control valve](https://www.amazon.com/s?k=Flow%20control%20valve&tag=errorcodefixe-20) | Some models have a flow adjustment valve — may need cleaning |
 
 ## Reset Procedure
 

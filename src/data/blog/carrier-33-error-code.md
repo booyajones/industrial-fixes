@@ -1,4 +1,4 @@
----
+﻿---
 title: "Carrier 33 Error Code — Causes & Fix"
 description: "What Carrier 33 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,10 +36,10 @@ Carrier furnace fault code 33 means the limit device is open — the high-limit 
 
 | Part | Notes |
 |------|-------|
-| High-limit switch | Trips on temp; test with multimeter for continuity at room temp — should be closed |
-| Rollout limit switch | Manual reset; if it trips repeatedly, the heat exchanger is the problem |
-| Blower run capacitor | Most common blower fix; costs $10–20 and takes 15 minutes |
-| Air filter (MERV 8–11) | Replace every 90 days minimum |
+| [High-limit switch](https://www.amazon.com/s?k=High-limit%20switch&tag=errorcodefixe-20) | Trips on temp; test with multimeter for continuity at room temp — should be closed |
+| [Rollout limit switch](https://www.amazon.com/s?k=Rollout%20limit%20switch&tag=errorcodefixe-20) | Manual reset; if it trips repeatedly, the heat exchanger is the problem |
+| [Blower run capacitor](https://www.amazon.com/s?k=Blower%20run%20capacitor&tag=errorcodefixe-20) | Most common blower fix; costs $10–20 and takes 15 minutes |
+| [Air filter (MERV 8–11)](https://www.amazon.com/s?k=Air%20filter%20(MERV%208%E2%80%9311)&tag=errorcodefixe-20) | Replace every 90 days minimum |
 
 ## When to Call a Pro
 

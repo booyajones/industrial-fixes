@@ -1,4 +1,4 @@
----
+﻿---
 title: "Rinnai Error Code 52 — Outlet Water Temperature Sensor Fault"
 description: "Rinnai tankless water heater Error Code 52 means the outlet water temperature sensor has failed. Learn causes, diagnostic steps, and the fix."
 pubDatetime: 2026-04-22T17:00:00Z
@@ -29,22 +29,10 @@ The outlet temperature sensor monitors the temperature of the water leaving the 
 
 ## Rinnai Temperature Sensor Codes
 
-| Code | Sensor | Location |
-|---|---|---|
-| 52 | Outlet water temperature sensor | Outgoing hot water side |
-| 53 | Inlet water temperature sensor | Incoming cold water side |
-| 61 | Gas combustion fault | Not a sensor — burner issue |
-
-## Common Causes {#most-likely-cause}
-
-| Cause | Likelihood |
-|---|---|
-| Failed outlet temperature sensor | Very High |
-| Corroded or loose sensor connector | High |
-| Damaged sensor wire (water damage, pinching) | Medium |
-| Control board analog input failure | Low |
-
-## Step-by-Step Diagnosis {#diagnosis}
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Sensor | Location | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | --- |---|---|
+| 52 | [Outlet water temperature sensor](https://www.amazon.com/s?k=Outlet%20water%20temperature%20sensor&tag=errorcodefixe-20) | Outgoing hot water side |
+| [53](https://www.amazon.com/s?k=53&tag=errorcodefixe-20) | Inlet water temperature sensor | Incoming cold water side | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 61 | Gas combustion fault | [Not a sensor — burner issue](https://www.amazon.com/s?k=Not%20a%20sensor%20%E2%80%94%20burner%20issue&tag=errorcodefixe-20) | ## Common Causes {#most-likely-cause} | Cause | [Likelihood](https://www.amazon.com/s?k=Likelihood&tag=errorcodefixe-20) |  |---|---|
+| Failed outlet temperature sensor | [Very High](https://www.amazon.com/s?k=Very%20High&tag=errorcodefixe-20) |  | Corroded or loose sensor connector | [High](https://www.amazon.com/s?k=High&tag=errorcodefixe-20) |  | Damaged sensor wire (water damage, pinching) | [Medium](https://www.amazon.com/s?k=Medium&tag=errorcodefixe-20) |  | Control board analog input failure | [Low](https://www.amazon.com/s?k=Low&tag=errorcodefixe-20) | ## Step-by-Step Diagnosis {#diagnosis}
 
 **Step 1 — Locate the outlet temperature sensor**
 - The sensor is mounted on or near the outgoing water connection on the heat exchanger
@@ -71,13 +59,8 @@ Rinnai outlet temperature sensors are NTC thermistors:
 - If the sensor resistance is correct but Error 52 persists, the board analog input may have failed
 - This is uncommon — try a known-good replacement sensor first
 
-## Replacement Parts {#parts}
-
-| Part | Notes |
-|---|---|
-| Outlet temperature sensor | Rinnai part 100001223 or model-specific equivalent |
-| Inlet temperature sensor (if confused with 53) | Rinnai part 100001222 |
-| Control board | Last resort — verify sensor and wiring first |
+## Replacement Parts {#parts} | Part | [Notes](https://www.amazon.com/s?k=Notes&tag=errorcodefixe-20) |  |---|---|
+| Outlet temperature sensor | [Rinnai part 100001223 or model-specific equivalent](https://www.amazon.com/s?k=Rinnai%20part%20100001223%20or%20model-specific%20equivalent&tag=errorcodefixe-20) |  | Inlet temperature sensor (if confused with 53) | [Rinnai part 100001222](https://www.amazon.com/s?k=Rinnai%20part%20100001222&tag=errorcodefixe-20) |  | Control board | Last resort — verify sensor and wiring first |
 
 ## Reset Procedure
 

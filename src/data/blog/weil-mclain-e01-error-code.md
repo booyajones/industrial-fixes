@@ -1,4 +1,4 @@
----
+﻿---
 title: "Weil-McLain Boiler Error Code E01 — Lockout Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-17T08:00:00Z
@@ -52,12 +52,8 @@ This code is one of the most searched Weil-McLain faults because it appears freq
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Part Number | Typical Cost | Where to Buy |
-|------|------------|-------------|-------------|
-| Flame sensor | 383-500-044 | $30–$45 | HVAC Parts / Weil-McLain Distributor |
-| Igniter | 383-500-043 | $50–$70 | HVAC Parts / Weil-McLain Distributor |
-| Gas valve | 383-500-376 | $200–$350 | Weil-McLain Distributor |
-| Burner control module | 383-500-372 | $280–$420 | Weil-McLain Distributor |
+| Part | Part Number | Typical Cost | [Where to Buy](https://www.amazon.com/s?k=Where%20to%20Buy&tag=errorcodefixe-20) |  |------|------------|-------------|-------------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Flame sensor | 383-500-044 | [$30–$45](https://www.amazon.com/s?k=%2430%E2%80%93%2445&tag=errorcodefixe-20) | HVAC Parts / Weil-McLain Distributor |
+| [Igniter](https://www.amazon.com/s?k=Igniter&tag=errorcodefixe-20) | 383-500-043 | $50–$70 | [HVAC Parts / Weil-McLain Distributor](https://www.amazon.com/s?k=HVAC%20Parts%20%2F%20Weil-McLain%20Distributor&tag=errorcodefixe-20) |  | Gas valve | [383-500-376](https://www.amazon.com/s?k=383-500-376&tag=errorcodefixe-20) | $200–$350 | Weil-McLain Distributor | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Burner control module | 383-500-372 | [$280–$420](https://www.amazon.com/s?k=%24280%E2%80%93%24420&tag=errorcodefixe-20) | Weil-McLain Distributor |
 
 ## When to Call a Professional
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Carrier 12 Error Code — Causes & Fix"
 description: "What Carrier error code 12 means, why the blower stays on after the heat cycle, and how to fix it step by step."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,10 +36,10 @@ Carrier fault code 12 indicates the blower motor is running after the normal pos
 
 | Part | Notes |
 |------|-------|
-| Air filter (1" or 4" media) | Replace first; most common fix |
-| High-limit switch | Manual-reset or auto-reset depending on furnace model |
-| Blower run capacitor | Test before replacing; match µF and voltage rating exactly |
-| Control board | Replace if blower relay is stuck; match Carrier part number |
+| [Air filter (1" or 4" media)](https://www.amazon.com/s?k=Air%20filter%20(1%22%20or%204%22%20media)&tag=errorcodefixe-20) | Replace first; most common fix |
+| [High-limit switch](https://www.amazon.com/s?k=High-limit%20switch&tag=errorcodefixe-20) | Manual-reset or auto-reset depending on furnace model |
+| [Blower run capacitor](https://www.amazon.com/s?k=Blower%20run%20capacitor&tag=errorcodefixe-20) | Test before replacing; match µF and voltage rating exactly |
+| [Control board](https://www.amazon.com/s?k=Control%20board&tag=errorcodefixe-20) | Replace if blower relay is stuck; match Carrier part number |
 
 ## When to Call a Pro
 

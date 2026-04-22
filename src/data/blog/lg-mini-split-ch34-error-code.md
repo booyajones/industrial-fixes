@@ -1,4 +1,4 @@
----
+﻿---
 title: "LG Mini-Split CH34 Error Code — Causes & Fix"
 description: "What LG mini-split CH34 means, why the outdoor unit faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,10 +36,10 @@ CH34 on an LG mini-split system indicates an outdoor unit fault — specifically
 
 | Part | Notes |
 |------|-------|
-| Outdoor condenser fan motor | Match RPM, frame size, and rotation |
-| Condenser fan capacitor | Test before ordering a new motor |
-| Outdoor unit inverter board | OEM required; match exact model number |
-| Refrigerant (R-410A or R-32) | Licensed tech only |
+| [Outdoor condenser fan motor](https://www.amazon.com/s?k=Outdoor%20condenser%20fan%20motor&tag=errorcodefixe-20) | Match RPM, frame size, and rotation |
+| [Condenser fan capacitor](https://www.amazon.com/s?k=Condenser%20fan%20capacitor&tag=errorcodefixe-20) | Test before ordering a new motor |
+| [Outdoor unit inverter board](https://www.amazon.com/s?k=Outdoor%20unit%20inverter%20board&tag=errorcodefixe-20) | OEM required; match exact model number |
+| [Refrigerant (R-410A or R-32)](https://www.amazon.com/s?k=Refrigerant%20(R-410A%20or%20R-32)&tag=errorcodefixe-20) | Licensed tech only |
 
 ## When to Call a Pro
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Amana Furnace 3 Flash Error Code — Causes & Fix"
 description: "What Amana 3 flashes means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,10 +36,10 @@ Three flashes on an Amana furnace LED indicates a draft pressure fault — the p
 
 | Part | Notes |
 |------|-------|
-| Inducer motor run capacitor | Most common fix when motor hums but won't start |
-| Pressure switch | Amana/Goodman often use B1370738 or similar; check WC rating |
-| Pressure switch hose | 3/8" ID; sold by the foot |
-| Condensate trap (Amana part) | Replace if cracked or permanently fouled |
+| [Inducer motor run capacitor](https://www.amazon.com/s?k=Inducer%20motor%20run%20capacitor&tag=errorcodefixe-20) | Most common fix when motor hums but won't start |
+| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Amana/Goodman often use B1370738 or similar; check WC rating |
+| [Pressure switch hose](https://www.amazon.com/s?k=Pressure%20switch%20hose&tag=errorcodefixe-20) | 3/8" ID; sold by the foot |
+| [Condensate trap (Amana part)](https://www.amazon.com/s?k=Condensate%20trap%20(Amana%20part)&tag=errorcodefixe-20) | Replace if cracked or permanently fouled |
 
 ## When to Call a Pro
 

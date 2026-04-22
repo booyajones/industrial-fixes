@@ -1,4 +1,4 @@
----
+﻿---
 title: "Allen-Bradley PowerFlex 755 Fault 7 — Motor Overload Causes & Fix"
 description: "What Allen-Bradley PowerFlex 755 fault 7 means, why motor overload trips the drive, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -38,8 +38,8 @@ Fault 7 (Motor Overload) on an Allen-Bradley PowerFlex 755 drive means the drive
 
 | Part | Notes |
 |------|-------|
-| Motor (if failed) | A motor winding failure increases current draw dramatically |
-| Input fuses | A degraded input fuse creates phase imbalance triggering secondary overload |
+| [Motor (if failed)](https://www.amazon.com/s?k=Motor%20(if%20failed)&tag=errorcodefixe-20) | A motor winding failure increases current draw dramatically |
+| [Input fuses](https://www.amazon.com/s?k=Input%20fuses&tag=errorcodefixe-20) | A degraded input fuse creates phase imbalance triggering secondary overload |
 
 ## When to Call a Pro
 

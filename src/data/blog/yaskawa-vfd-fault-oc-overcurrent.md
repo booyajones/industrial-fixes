@@ -1,4 +1,4 @@
----
+﻿---
 title: "Yaskawa VFD Fault OC — Overcurrent Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-15T08:00:00Z
@@ -49,12 +49,8 @@ OC is distinct from Yaskawa's OL1 (motor overload) and OL2 (drive overload) faul
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Part Number | Typical Cost | Where to Buy |
-|------|------------|-------------|-------------|
-| Yaskawa dV/dt Output Filter | LCRD series (size by drive A) | $150–$600 | Yaskawa distributor |
-| Inverter-duty Motor | NEMA MG1 Part 31 rated | $300–$2000+ | Grainger / motor shop |
-| Replacement J1000 Drive | CIMR-JU2A0004FAA (varies) | $300–$700 | Yaskawa distributor / Amazon |
-| Motor Cable (THHN shielded) | By footage | $2–$8/ft | Grainger / electrical supply |
+| Part | Part Number | Typical Cost | [Where to Buy](https://www.amazon.com/s?k=Where%20to%20Buy&tag=errorcodefixe-20) |  |------|------------|-------------|-------------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Yaskawa dV/dt Output Filter | LCRD series (size by drive A) | [$150–$600](https://www.amazon.com/s?k=%24150%E2%80%93%24600&tag=errorcodefixe-20) | Yaskawa distributor |
+| [Inverter-duty Motor](https://www.amazon.com/s?k=Inverter-duty%20Motor&tag=errorcodefixe-20) | NEMA MG1 Part 31 rated | $300–$2000+ | [Grainger / motor shop](https://www.amazon.com/s?k=Grainger%20%2F%20motor%20shop&tag=errorcodefixe-20) |  | Replacement J1000 Drive | [CIMR-JU2A0004FAA (varies)](https://www.amazon.com/s?k=CIMR-JU2A0004FAA%20(varies)&tag=errorcodefixe-20) | $300–$700 | Yaskawa distributor / Amazon | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Motor Cable (THHN shielded) | By footage | [$2–$8/ft](https://www.amazon.com/s?k=%242%E2%80%93%248%2Fft&tag=errorcodefixe-20) | Grainger / electrical supply |
 
 ## When to Call a Professional
 

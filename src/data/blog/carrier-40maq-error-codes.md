@@ -1,4 +1,4 @@
----
+﻿---
 title: "Carrier 40MAQ / 40MVC Mini Split Error Codes — Causes & Fix"
 description: "Carrier 40MAQ and 40MVC mini split error codes explained — what each code means, why it happens, and how to fix it."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -41,10 +41,10 @@ The Carrier 40MAQ and 40MVC are single-zone mini-split indoor units paired with 
 
 | Part | Notes |
 |------|-------|
-| Indoor ambient thermistor (T1) | Carrier 40MAQ OEM part; match resistance curve |
-| Indoor coil thermistor (T2) | Same resistance curve as T1 on most models |
-| Communication wire (S-wire) | 18 AWG; replace full run if damaged |
-| Outdoor fan motor | Match HP, RPM, and shaft direction |
+| [Indoor ambient thermistor (T1)](https://www.amazon.com/s?k=Indoor%20ambient%20thermistor%20(T1)&tag=errorcodefixe-20) | Carrier 40MAQ OEM part; match resistance curve |
+| [Indoor coil thermistor (T2)](https://www.amazon.com/s?k=Indoor%20coil%20thermistor%20(T2)&tag=errorcodefixe-20) | Same resistance curve as T1 on most models |
+| [Communication wire (S-wire)](https://www.amazon.com/s?k=Communication%20wire%20(S-wire)&tag=errorcodefixe-20) | 18 AWG; replace full run if damaged |
+| [Outdoor fan motor](https://www.amazon.com/s?k=Outdoor%20fan%20motor&tag=errorcodefixe-20) | Match HP, RPM, and shaft direction |
 
 ## When to Call a Pro
 

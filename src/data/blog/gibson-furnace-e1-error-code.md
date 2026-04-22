@@ -1,4 +1,4 @@
----
+﻿---
 title: "Gibson Furnace E1 Error Code — Causes & Fix"
 description: "What Gibson furnace error code E1 means, why the pressure switch faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -38,9 +38,9 @@ E1 on a Gibson furnace means the pressure switch did not close within the allowe
 
 | Part | Notes |
 |------|-------|
-| Pressure switch hose | Use matched rubber tubing; do not use rigid vinyl that can crack |
-| Pressure switch | Match WC rating from the label on the Gibson switch |
-| Inducer motor assembly | Match model number; Nortek/Gibson motors are often model-specific |
+| [Pressure switch hose](https://www.amazon.com/s?k=Pressure%20switch%20hose&tag=errorcodefixe-20) | Use matched rubber tubing; do not use rigid vinyl that can crack |
+| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Match WC rating from the label on the Gibson switch |
+| [Inducer motor assembly](https://www.amazon.com/s?k=Inducer%20motor%20assembly&tag=errorcodefixe-20) | Match model number; Nortek/Gibson motors are often model-specific |
 
 ## When to Call a Pro
 

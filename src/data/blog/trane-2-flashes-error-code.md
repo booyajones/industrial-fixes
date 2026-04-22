@@ -1,4 +1,4 @@
----
+﻿---
 title: "Trane 2 Flashes Error Code — Causes & Fix"
 description: "What Trane 2 flashes means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,9 +36,9 @@ Two flashes on a Trane furnace LED indicates a system lockout — the furnace tr
 
 | Part | Notes |
 |------|-------|
-| Hot surface igniter | Match OEM part number; aftermarket igniters often have shorter lifespans |
-| Flame sensor rod | Universal fit in most cases; costs under $15 |
-| Pressure switch | Test with manometer; replace if diaphragm is torn |
+| [Hot surface igniter](https://www.amazon.com/s?k=Hot%20surface%20igniter&tag=errorcodefixe-20) | Match OEM part number; aftermarket igniters often have shorter lifespans |
+| [Flame sensor rod](https://www.amazon.com/s?k=Flame%20sensor%20rod&tag=errorcodefixe-20) | Universal fit in most cases; costs under $15 |
+| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Test with manometer; replace if diaphragm is torn |
 
 ## When to Call a Pro
 

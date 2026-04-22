@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hoshizaki F2 Error Code — Ice Full Sensor Fault Causes & Fix"
 description: "What Hoshizaki error code F2 means, why the ice full sensor faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -38,8 +38,8 @@ F2 on a Hoshizaki ice machine indicates an ice full sensor fault — the machine
 
 | Part | Notes |
 |------|-------|
-| Bin thermostat | Hoshizaki OEM; match the specific KML or IM model |
-| Photocell bin control | Match model series; includes transmitter and receiver on some models |
+| [Bin thermostat](https://www.amazon.com/s?k=Bin%20thermostat&tag=errorcodefixe-20) | Hoshizaki OEM; match the specific KML or IM model |
+| [Photocell bin control](https://www.amazon.com/s?k=Photocell%20bin%20control&tag=errorcodefixe-20) | Match model series; includes transmitter and receiver on some models |
 
 ## When to Call a Pro
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Carrier Infinity Series 24ACC6 Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Carrier Infinity 24ACC6 air conditioner error codes, flash sequences, fault causes, and step-by-step fixes for the most common failures."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -21,20 +21,20 @@ The Carrier Infinity 24ACC6 is a high-efficiency single-stage central air condit
 
 ## Carrier 24ACC6 Error Code Reference
 
-| Code / Flash | Meaning |
+| [Code / Flash](https://www.amazon.com/s?k=Code%20%2F%20Flash&tag=errorcodefixe-20) | Meaning |
 |---|---|
-| 2 flashes | High-pressure switch open |
-| 3 flashes | Low-pressure switch open |
-| 4 flashes | Compressor protection active |
-| 5 flashes | Outdoor control board fault |
-| 6 flashes | Outdoor ambient temperature sensor fault |
-| 7 flashes | Discharge line temperature sensor fault |
-| 8 flashes | Communication bus fault (Infinity link) |
-| 11 flashes | Thermistor fault — outdoor coil sensor |
-| Thermostat: 174 | High-pressure trip |
-| Thermostat: 175 | Low-pressure trip |
-| Thermostat: 178 | Compressor communication fault |
-| Thermostat: 179 | Outdoor fan fault |
+| [2 flashes](https://www.amazon.com/s?k=2%20flashes&tag=errorcodefixe-20) | High-pressure switch open |
+| [3 flashes](https://www.amazon.com/s?k=3%20flashes&tag=errorcodefixe-20) | Low-pressure switch open |
+| [4 flashes](https://www.amazon.com/s?k=4%20flashes&tag=errorcodefixe-20) | Compressor protection active |
+| [5 flashes](https://www.amazon.com/s?k=5%20flashes&tag=errorcodefixe-20) | Outdoor control board fault |
+| [6 flashes](https://www.amazon.com/s?k=6%20flashes&tag=errorcodefixe-20) | Outdoor ambient temperature sensor fault |
+| [7 flashes](https://www.amazon.com/s?k=7%20flashes&tag=errorcodefixe-20) | Discharge line temperature sensor fault |
+| [8 flashes](https://www.amazon.com/s?k=8%20flashes&tag=errorcodefixe-20) | Communication bus fault (Infinity link) |
+| [11 flashes](https://www.amazon.com/s?k=11%20flashes&tag=errorcodefixe-20) | Thermistor fault — outdoor coil sensor |
+| [Thermostat: 174](https://www.amazon.com/s?k=Thermostat%3A%20174&tag=errorcodefixe-20) | High-pressure trip |
+| [Thermostat: 175](https://www.amazon.com/s?k=Thermostat%3A%20175&tag=errorcodefixe-20) | Low-pressure trip |
+| [Thermostat: 178](https://www.amazon.com/s?k=Thermostat%3A%20178&tag=errorcodefixe-20) | Compressor communication fault |
+| [Thermostat: 179](https://www.amazon.com/s?k=Thermostat%3A%20179&tag=errorcodefixe-20) | Outdoor fan fault |
 
 ## Common Causes by Code
 
@@ -56,12 +56,12 @@ The Carrier Infinity 24ACC6 is a high-efficiency single-stage central air condit
 
 | Part | Notes |
 |---|---|
-| Run capacitor | Dual run capacitor for compressor and fan motor |
-| Contactor | Check for pitted or welded contacts |
-| Low-pressure switch | Replace if Code 3 persists with correct charge |
-| Outdoor coil thermistor | For Code 11; inexpensive OEM part |
-| Infinity control board | For persistent Code 5 or communication faults |
-| Condenser fan motor | Confirm correct rotation before condemning |
+| [Run capacitor](https://www.amazon.com/s?k=Run%20capacitor&tag=errorcodefixe-20) | Dual run capacitor for compressor and fan motor |
+| [Contactor](https://www.amazon.com/s?k=Contactor&tag=errorcodefixe-20) | Check for pitted or welded contacts |
+| [Low-pressure switch](https://www.amazon.com/s?k=Low-pressure%20switch&tag=errorcodefixe-20) | Replace if Code 3 persists with correct charge |
+| [Outdoor coil thermistor](https://www.amazon.com/s?k=Outdoor%20coil%20thermistor&tag=errorcodefixe-20) | For Code 11; inexpensive OEM part |
+| [Infinity control board](https://www.amazon.com/s?k=Infinity%20control%20board&tag=errorcodefixe-20) | For persistent Code 5 or communication faults |
+| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | Confirm correct rotation before condemning |
 
 ## When to Call a Pro
 

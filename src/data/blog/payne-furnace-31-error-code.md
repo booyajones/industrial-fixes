@@ -1,4 +1,4 @@
----
+﻿---
 title: "Payne Furnace 31 Error Code — Causes & Fix"
 description: "What Payne furnace error code 31 means, why it happens, and how to fix the pressure switch fault step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -38,9 +38,9 @@ A Payne furnace flashing code 31 signals a pressure switch fault — the inducer
 
 | Part | Notes |
 |------|-------|
-| Pressure switch (single or dual) | Match the water column rating stamped on the original switch |
-| Pressure switch hose | Use the correct ID rubber tubing; generic vinyl can collapse |
-| Inducer motor assembly | Required if motor is noisy, slow, or intermittent |
+| [Pressure switch (single or dual)](https://www.amazon.com/s?k=Pressure%20switch%20(single%20or%20dual)&tag=errorcodefixe-20) | Match the water column rating stamped on the original switch |
+| [Pressure switch hose](https://www.amazon.com/s?k=Pressure%20switch%20hose&tag=errorcodefixe-20) | Use the correct ID rubber tubing; generic vinyl can collapse |
+| [Inducer motor assembly](https://www.amazon.com/s?k=Inducer%20motor%20assembly&tag=errorcodefixe-20) | Required if motor is noisy, slow, or intermittent |
 
 ## When to Call a Pro
 

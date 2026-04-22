@@ -1,4 +1,4 @@
----
+﻿---
 title: "Rinnai Error Code 12 — Causes & Fix"
 description: "What Rinnai 12 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,9 +36,9 @@ Rinnai error code 12 indicates flame failure — the unit ignited but the flame 
 
 | Part | Notes |
 |------|-------|
-| Flame rod / ionization sensor | Rinnai part number varies by model (REU-VC, RL, RU series) |
-| Igniter electrode | Replace if gap is out of spec or electrode is cracked |
-| Vent termination cap (Rinnai-approved) | Replace if the cap restricts exhaust or allows recirculation |
+| [Flame rod / ionization sensor](https://www.amazon.com/s?k=Flame%20rod%20%2F%20ionization%20sensor&tag=errorcodefixe-20) | Rinnai part number varies by model (REU-VC, RL, RU series) |
+| [Igniter electrode](https://www.amazon.com/s?k=Igniter%20electrode&tag=errorcodefixe-20) | Replace if gap is out of spec or electrode is cracked |
+| [Vent termination cap (Rinnai-approved)](https://www.amazon.com/s?k=Vent%20termination%20cap%20(Rinnai-approved)&tag=errorcodefixe-20) | Replace if the cap restricts exhaust or allows recirculation |
 
 ## When to Call a Pro
 

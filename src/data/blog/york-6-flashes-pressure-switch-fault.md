@@ -1,4 +1,4 @@
----
+﻿---
 title: "York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-15T08:00:00Z
@@ -48,12 +48,8 @@ York, Coleman, and Luxaire are all manufactured by Johnson Controls and share th
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Part Number | Typical Cost | Where to Buy |
-|------|------------|-------------|-------------|
-| York Pressure Switch (primary) | 025-27766-000 | $30–$45 | Repair Clinic / Amazon |
-| Inducer Draft Motor (if failed) | S1-32435820000 | $180–$280 | Repair Clinic / HVAC distributor |
-| Pressure Switch Tubing (bulk) | Generic 3/16" ID silicone | $5–$10 | Amazon / hardware store |
-| Condensate Drain Trap | S1-37327820000 | $18–$30 | Repair Clinic |
+| Part | Part Number | Typical Cost | [Where to Buy](https://www.amazon.com/s?k=Where%20to%20Buy&tag=errorcodefixe-20) |  |------|------------|-------------|-------------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | York Pressure Switch (primary) | 025-27766-000 | [$30–$45](https://www.amazon.com/s?k=%2430%E2%80%93%2445&tag=errorcodefixe-20) | Repair Clinic / Amazon |
+| [Inducer Draft Motor (if failed)](https://www.amazon.com/s?k=Inducer%20Draft%20Motor%20(if%20failed)&tag=errorcodefixe-20) | S1-32435820000 | $180–$280 | [Repair Clinic / HVAC distributor](https://www.amazon.com/s?k=Repair%20Clinic%20%2F%20HVAC%20distributor&tag=errorcodefixe-20) |  | Pressure Switch Tubing (bulk) | [Generic 3/16" ID silicone](https://www.amazon.com/s?k=Generic%203%2F16%22%20ID%20silicone&tag=errorcodefixe-20) | $5–$10 | Amazon / hardware store | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Condensate Drain Trap | S1-37327820000 | [$18–$30](https://www.amazon.com/s?k=%2418%E2%80%93%2430&tag=errorcodefixe-20) | Repair Clinic |
 
 ## When to Call a Professional
 

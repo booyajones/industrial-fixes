@@ -1,4 +1,4 @@
----
+﻿---
 title: "Trane Error Code 126 — Ignition Lockout Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-12T08:00:00Z
@@ -49,12 +49,8 @@ Code 126 is most commonly seen on Trane XR80, XR95, and S9V2 series furnaces. Th
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Part Number | Typical Cost | Where to Buy |
-|------|------------|-------------|-------------|
-| Hot surface igniter | SEN00484 | $35–$50 | Repair Clinic / Amazon |
-| Flame sensor | SEN00106 | $18–$28 | Repair Clinic / Amazon |
-| Gas valve | SV9541Q8544 | $150–$220 | HVAC Distributors |
-| Control board (X-13) | CNT05015 | $180–$280 | Repair Clinic |
+| Part | Part Number | Typical Cost | [Where to Buy](https://www.amazon.com/s?k=Where%20to%20Buy&tag=errorcodefixe-20) |  |------|------------|-------------|-------------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Hot surface igniter | SEN00484 | [$35–$50](https://www.amazon.com/s?k=%2435%E2%80%93%2450&tag=errorcodefixe-20) | Repair Clinic / Amazon |
+| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | SEN00106 | $18–$28 | [Repair Clinic / Amazon](https://www.amazon.com/s?k=Repair%20Clinic%20%2F%20Amazon&tag=errorcodefixe-20) |  | Gas valve | [SV9541Q8544](https://www.amazon.com/s?k=SV9541Q8544&tag=errorcodefixe-20) | $150–$220 | HVAC Distributors | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Control board (X-13) | CNT05015 | [$180–$280](https://www.amazon.com/s?k=%24180%E2%80%93%24280&tag=errorcodefixe-20) | Repair Clinic |
 
 ## When to Call a Professional
 

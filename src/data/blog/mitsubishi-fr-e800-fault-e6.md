@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mitsubishi FR-E800 Fault E6 — Causes & Fix"
 description: "What Mitsubishi FR-E800 Fault E6 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -36,8 +36,8 @@ Fault E6 on the Mitsubishi FR-E800 inverter indicates a brake transistor fault �
 
 | Part | Notes |
 |------|-------|
-| Braking resistor | Match to FR-E800 frame size and duty cycle requirement |
-| FR-E800 inverter unit | If internal brake transistor has failed |
+| [Braking resistor](https://www.amazon.com/s?k=Braking%20resistor&tag=errorcodefixe-20) | Match to FR-E800 frame size and duty cycle requirement |
+| [FR-E800 inverter unit](https://www.amazon.com/s?k=FR-E800%20inverter%20unit&tag=errorcodefixe-20) | If internal brake transistor has failed |
 
 ## When to Call a Pro
 

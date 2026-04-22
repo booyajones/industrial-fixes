@@ -1,4 +1,4 @@
----
+﻿---
 title: "Allen Bradley PowerFlex 700 F7 Fault — Causes & Fix"
 description: "What Allen Bradley PowerFlex 700 Fault F7 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -36,8 +36,8 @@ Fault F7 on the Allen Bradley PowerFlex 700 AC drive indicates motor overload �
 
 | Part | Notes |
 |------|-------|
-| Motor (if windings damaged by sustained OL) | Verify winding resistance before replacement |
-| Driven equipment bearings | Replace if seized bearing was root cause |
+| [Motor (if windings damaged by sustained OL)](https://www.amazon.com/s?k=Motor%20(if%20windings%20damaged%20by%20sustained%20OL)&tag=errorcodefixe-20) | Verify winding resistance before replacement |
+| [Driven equipment bearings](https://www.amazon.com/s?k=Driven%20equipment%20bearings&tag=errorcodefixe-20) | Replace if seized bearing was root cause |
 
 ## When to Call a Pro
 

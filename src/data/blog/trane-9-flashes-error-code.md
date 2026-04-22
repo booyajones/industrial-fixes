@@ -1,4 +1,4 @@
----
+﻿---
 title: "Trane 9 Flashes Error Code — Causes & Fix"
 description: "What Trane 9 flash error code means, why flame signal is low or absent, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -37,9 +37,9 @@ Nine flashes on a Trane furnace status LED indicates a **low or no flame signal*
 
 | Part | Notes |
 |------|-------|
-| Flame sensor rod | Inexpensive universal or OEM; match length and mounting bracket style |
-| Hot surface ignitor | Silicon nitride (most Trane) — match voltage (120V) and resistance spec |
-| Gas valve | Only if manifold pressure is confirmed low and regulator adjustment doesn't correct it |
+| [Flame sensor rod](https://www.amazon.com/s?k=Flame%20sensor%20rod&tag=errorcodefixe-20) | Inexpensive universal or OEM; match length and mounting bracket style |
+| [Hot surface ignitor](https://www.amazon.com/s?k=Hot%20surface%20ignitor&tag=errorcodefixe-20) | Silicon nitride (most Trane) — match voltage (120V) and resistance spec |
+| [Gas valve](https://www.amazon.com/s?k=Gas%20valve&tag=errorcodefixe-20) | Only if manifold pressure is confirmed low and regulator adjustment doesn't correct it |
 
 ## When to Call a Pro
 

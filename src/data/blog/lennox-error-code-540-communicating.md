@@ -1,4 +1,4 @@
----
+﻿---
 title: "Lennox Error Code 540 — Communicating System Fault (Detailed Guide)"
 description: "Lennox 540 error in communicating systems means a component lost communication on the iComfort bus. This guide identifies which device failed and how to restore the system."
 pubDatetime: 2026-04-22T18:00:00Z
@@ -21,14 +21,14 @@ Lennox error code 540 appears on systems using the **iComfort communicating plat
 
 ## What Devices Are on the iComfort Bus
 
-| Device | Role |
+| [Device](https://www.amazon.com/s?k=Device&tag=errorcodefixe-20) | Role |
 |---|---|
-| iComfort thermostat (S30, E30, Wi-Fi) | System controller/master |
-| Gas furnace (SL280, SLP99, XC21 AHU) | Indoor unit |
-| Outdoor condenser/heat pump (XC21, XP21) | Outdoor unit |
-| iHarmony zoning panel | Optional zone controller |
-| iBreeze ventilation module | Optional ventilation |
-| Humiditrol or power humidifier | Optional accessory |
+| [iComfort thermostat (S30, E30, Wi-Fi)](https://www.amazon.com/s?k=iComfort%20thermostat%20(S30%2C%20E30%2C%20Wi-Fi)&tag=errorcodefixe-20) | System controller/master |
+| [Gas furnace (SL280, SLP99, XC21 AHU)](https://www.amazon.com/s?k=Gas%20furnace%20(SL280%2C%20SLP99%2C%20XC21%20AHU)&tag=errorcodefixe-20) | Indoor unit |
+| [Outdoor condenser/heat pump (XC21, XP21)](https://www.amazon.com/s?k=Outdoor%20condenser%2Fheat%20pump%20(XC21%2C%20XP21)&tag=errorcodefixe-20) | Outdoor unit |
+| [iHarmony zoning panel](https://www.amazon.com/s?k=iHarmony%20zoning%20panel&tag=errorcodefixe-20) | Optional zone controller |
+| [iBreeze ventilation module](https://www.amazon.com/s?k=iBreeze%20ventilation%20module&tag=errorcodefixe-20) | Optional ventilation |
+| [Humiditrol or power humidifier](https://www.amazon.com/s?k=Humiditrol%20or%20power%20humidifier&tag=errorcodefixe-20) | Optional accessory |
 
 When any of these loses communication, 540 appears on the thermostat or furnace display.
 
@@ -80,10 +80,10 @@ A wire pinched in a door, damaged by rodents, or accidentally touching 24V can s
 
 | Part | Cost |
 |---|---|
-| iComfort thermostat (E30) | $200–400 |
-| Furnace IFC board (communicating) | $150–400 |
-| Outdoor unit control board | $150–500 |
-| Communication bus cable (4-wire, per foot) | $0.50–1.50 |
+| [iComfort thermostat (E30)](https://www.amazon.com/s?k=iComfort%20thermostat%20(E30)&tag=errorcodefixe-20) | $200–400 |
+| [Furnace IFC board (communicating)](https://www.amazon.com/s?k=Furnace%20IFC%20board%20(communicating)&tag=errorcodefixe-20) | $150–400 |
+| [Outdoor unit control board](https://www.amazon.com/s?k=Outdoor%20unit%20control%20board&tag=errorcodefixe-20) | $150–500 |
+| [Communication bus cable (4-wire, per foot)](https://www.amazon.com/s?k=Communication%20bus%20cable%20(4-wire%2C%20per%20foot)&tag=errorcodefixe-20) | $0.50–1.50 |
 
 ## iComfort 540 Sub-Codes
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Lennox Error Code 332 — Causes & Fix"
 description: "What Lennox error code 332 means, why the limit device opens, and how to diagnose and fix restricted airflow."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -38,10 +38,10 @@ Lennox error code 332 indicates an open limit device. The high-limit switch is a
 
 | Part | Notes |
 |------|-------|
-| Air filter (1" or 4" media) | Replace every 1–3 months depending on MERV rating and household conditions |
-| High-limit switch | Match to Lennox model; verify opening temperature rating |
-| Blower motor run capacitor | Replace if motor hums but does not start at full speed |
-| Blower motor | Replace if capacitor is good but motor is still weak or overheating |
+| [Air filter (1" or 4" media)](https://www.amazon.com/s?k=Air%20filter%20(1%22%20or%204%22%20media)&tag=errorcodefixe-20) | Replace every 1–3 months depending on MERV rating and household conditions |
+| [High-limit switch](https://www.amazon.com/s?k=High-limit%20switch&tag=errorcodefixe-20) | Match to Lennox model; verify opening temperature rating |
+| [Blower motor run capacitor](https://www.amazon.com/s?k=Blower%20motor%20run%20capacitor&tag=errorcodefixe-20) | Replace if motor hums but does not start at full speed |
+| [Blower motor](https://www.amazon.com/s?k=Blower%20motor&tag=errorcodefixe-20) | Replace if capacitor is good but motor is still weak or overheating |
 
 ## When to Call a Pro
 

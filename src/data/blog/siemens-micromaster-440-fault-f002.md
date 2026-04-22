@@ -1,4 +1,4 @@
----
+﻿---
 title: "Siemens Micromaster 440 Fault F002 — Overcurrent"
 description: "Siemens Micromaster 440 F002 fault means overcurrent on the output. Learn the causes, parameter fixes, and hardware checks for F002."
 pubDatetime: 2026-04-22T17:00:00Z
@@ -40,9 +40,9 @@ tags:
 
 | Part | Notes |
 |------|-------|
-| Motor cable | Use shielded VFD cable for long runs |
-| Replacement motor | Needed if windings are grounded |
-| Micromaster 440 drive | Replace if output module is shorted |
+| [Motor cable](https://www.amazon.com/s?k=Motor%20cable&tag=errorcodefixe-20) | Use shielded VFD cable for long runs |
+| [Replacement motor](https://www.amazon.com/s?k=Replacement%20motor&tag=errorcodefixe-20) | Needed if windings are grounded |
+| [Micromaster 440 drive](https://www.amazon.com/s?k=Micromaster%20440%20drive&tag=errorcodefixe-20) | Replace if output module is shorted |
 
 ## When to Call a Pro
 

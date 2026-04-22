@@ -1,4 +1,4 @@
----
+﻿---
 title: "Schneider Altivar Fault OBF — Causes & Fix"
 description: "What Schneider Altivar OBF fault means, why motor overload trips the drive, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,8 +36,8 @@ OBF (Motor Overload Fault) on a Schneider Altivar drive (ATV12, ATV320, ATV630) 
 
 | Part | Notes |
 |------|-------|
-| Replacement motor | If windings are confirmed overheated (insulation resistance test) |
-| System components (impeller, filter) | If overload is caused by blocked system elements |
+| [Replacement motor](https://www.amazon.com/s?k=Replacement%20motor&tag=errorcodefixe-20) | If windings are confirmed overheated (insulation resistance test) |
+| [System components (impeller, filter)](https://www.amazon.com/s?k=System%20components%20(impeller%2C%20filter)&tag=errorcodefixe-20) | If overload is caused by blocked system elements |
 
 ## When to Call a Pro
 

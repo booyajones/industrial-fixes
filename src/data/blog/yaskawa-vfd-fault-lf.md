@@ -1,4 +1,4 @@
----
+﻿---
 title: "Yaskawa VFD Fault LF — Causes & Fix"
 description: "What Yaskawa VFD fault LF means, why output phase loss trips the drive, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,9 +36,9 @@ Fault LF on a Yaskawa drive (A1000, V1000, GA700, GA800) stands for Output Phase
 
 | Part | Notes |
 |------|-------|
-| Motor cable (VFD-rated, screened) | Replace if any conductor shows intermittent or open continuity |
-| Motor (rewind or replacement) | If open winding is confirmed |
-| Output contactor | Replace if single pole fails to make contact |
+| [Motor cable (VFD-rated, screened)](https://www.amazon.com/s?k=Motor%20cable%20(VFD-rated%2C%20screened)&tag=errorcodefixe-20) | Replace if any conductor shows intermittent or open continuity |
+| [Motor (rewind or replacement)](https://www.amazon.com/s?k=Motor%20(rewind%20or%20replacement)&tag=errorcodefixe-20) | If open winding is confirmed |
+| [Output contactor](https://www.amazon.com/s?k=Output%20contactor&tag=errorcodefixe-20) | Replace if single pole fails to make contact |
 
 ## When to Call a Pro
 

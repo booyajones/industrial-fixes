@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hoshizaki F1 Error Code — Causes & Fix"
 description: "What Hoshizaki F1 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -36,9 +36,9 @@ The F1 error on Hoshizaki ice machines indicates abnormal drain pump operation �
 
 | Part | Notes |
 |------|-------|
-| Drain pump motor | Match to Hoshizaki model — voltage and flow rate vary |
-| Drain check valve | Replace if stuck closed |
-| Control board | If pump has voltage but board relay failed |
+| [Drain pump motor](https://www.amazon.com/s?k=Drain%20pump%20motor&tag=errorcodefixe-20) | Match to Hoshizaki model — voltage and flow rate vary |
+| [Drain check valve](https://www.amazon.com/s?k=Drain%20check%20valve&tag=errorcodefixe-20) | Replace if stuck closed |
+| [Control board](https://www.amazon.com/s?k=Control%20board&tag=errorcodefixe-20) | If pump has voltage but board relay failed |
 
 ## When to Call a Pro
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "CyberPower UPS Error Codes - Complete Guide"
 description: "CyberPower UPS error codes and fault indicators for OL, PR, and Smart App series: LED alerts, beep codes, causes, and fixes."
 pubDatetime: 2026-04-22T20:00:00Z
@@ -16,18 +16,10 @@ tags:
 
 CyberPower UPS systems (OL series online, PR series, Smart App series, and CP series) communicate faults via LED indicators, LCD displays, and CyberPower PowerPanel software.
 
-| Fault / LED | Series | Meaning | Quick Fix |
-|------------|--------|---------|-----------|
-| On Battery LED | All | Utility power lost | Check power input |
-| Overload LED | All | Load exceeds UPS capacity | Reduce load |
-| Replace Battery LED | All | Battery end of life | Replace battery |
-| Fault LED | OL | Internal UPS fault | Contact support |
-| Bypass LED | OL | UPS in bypass mode | Check for internal fault |
-| Site Wiring Fault | OL/PR | Building wiring issue | Call electrician |
-| Battery Low Beeps | All | Runtime below threshold | Connect to utility or reduce load |
-| Constant Alarm | All | Critical fault - battery very low | Connect to power immediately |
-| Input Out of Range | OL | Utility voltage exceeds transfer range | Check supply voltage |
-| F01 - Fan Fault | OL3000RT+ | Cooling fan failure | Replace fan module |
+| [Fault / LED](https://www.amazon.com/s?k=Fault%20%2F%20LED&tag=errorcodefixe-20) | Series | Meaning | [Quick Fix](https://www.amazon.com/s?k=Quick%20Fix&tag=errorcodefixe-20) |  |------------|--------|---------|-----------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | On Battery LED | All | [Utility power lost](https://www.amazon.com/s?k=Utility%20power%20lost&tag=errorcodefixe-20) | Check power input |
+| [Overload LED](https://www.amazon.com/s?k=Overload%20LED&tag=errorcodefixe-20) | All | Load exceeds UPS capacity | [Reduce load](https://www.amazon.com/s?k=Reduce%20load&tag=errorcodefixe-20) |  | Replace Battery LED | [All](https://www.amazon.com/s?k=All&tag=errorcodefixe-20) | Battery end of life | Replace battery | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Fault LED | OL | [Internal UPS fault](https://www.amazon.com/s?k=Internal%20UPS%20fault&tag=errorcodefixe-20) | Contact support |
+| [Bypass LED](https://www.amazon.com/s?k=Bypass%20LED&tag=errorcodefixe-20) | OL | UPS in bypass mode | [Check for internal fault](https://www.amazon.com/s?k=Check%20for%20internal%20fault&tag=errorcodefixe-20) |  | Site Wiring Fault | [OL/PR](https://www.amazon.com/s?k=OL%2FPR&tag=errorcodefixe-20) | Building wiring issue | Call electrician | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Battery Low Beeps | All | [Runtime below threshold](https://www.amazon.com/s?k=Runtime%20below%20threshold&tag=errorcodefixe-20) | Connect to utility or reduce load |
+| [Constant Alarm](https://www.amazon.com/s?k=Constant%20Alarm&tag=errorcodefixe-20) | All | Critical fault - battery very low | [Connect to power immediately](https://www.amazon.com/s?k=Connect%20to%20power%20immediately&tag=errorcodefixe-20) |  | Input Out of Range | [OL](https://www.amazon.com/s?k=OL&tag=errorcodefixe-20) | Utility voltage exceeds transfer range | Check supply voltage | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | F01 - Fan Fault | OL3000RT+ | [Cooling fan failure](https://www.amazon.com/s?k=Cooling%20fan%20failure&tag=errorcodefixe-20) | Replace fan module |
 
 ## Most Common Faults
 
@@ -47,10 +39,10 @@ OL series models have configurable input voltage windows. If utility voltage flu
 
 | Part | Notes |
 |------|-------|
-| Replacement battery | Match OEM part or equivalent VRLA |
-| Fan module (OL3000RT+) | Replace on fan fault |
-| Network management card | Replace on communication fault |
-| Output fuse | Replace on blown output fuse |
+| [Replacement battery](https://www.amazon.com/s?k=Replacement%20battery&tag=errorcodefixe-20) | Match OEM part or equivalent VRLA |
+| [Fan module (OL3000RT+)](https://www.amazon.com/s?k=Fan%20module%20(OL3000RT%2B)&tag=errorcodefixe-20) | Replace on fan fault |
+| [Network management card](https://www.amazon.com/s?k=Network%20management%20card&tag=errorcodefixe-20) | Replace on communication fault |
+| [Output fuse](https://www.amazon.com/s?k=Output%20fuse&tag=errorcodefixe-20) | Replace on blown output fuse |
 
 ## When to Call a Pro
 CyberPower OL (online) series internal inverter and rectifier failures require factory service. Do not attempt capacitor or power board replacement without proper training and safety precautions.

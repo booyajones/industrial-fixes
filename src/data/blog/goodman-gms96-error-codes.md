@@ -1,4 +1,4 @@
----
+﻿---
 title: "Goodman GMS96 Error Codes — Fault Code Guide"
 description: "Goodman GMS96 furnace error codes: all flash codes for the popular 96% AFUE single-stage furnace with causes and fixes."
 pubDatetime: 2026-04-22T16:00:00Z
@@ -19,19 +19,11 @@ The Goodman GMS96 is a single-stage, 96% AFUE gas furnace and one of the most wi
 
 ## Flash Code Quick Reference
 
-| Flashes | Meaning | Most Common Cause |
-|---------|---------|------------------|
-| 1 | Lockout — retries exceeded | Ignition failure |
-| 2 | Pressure switch stuck open | Condensate trap, hose, or inducer |
-| 3 | Pressure switch stuck closed | Hose routing or switch failure |
-| 4 | High limit device open | Dirty filter or blocked airflow |
-| 5 | Flame without call / roll-out | Gas valve or safety switch |
-| 6 | Reversed line polarity | Fix wiring at disconnect |
-| 7 | Gas valve energized — no call | Board or gas valve fault |
-| 8 | Low flame sensor signal | Clean flame sensor rod |
-| 9 | Igniter fault | Check igniter continuity |
-
-## GMS96-Specific Issues
+| [Flashes](https://www.amazon.com/s?k=Flashes&tag=errorcodefixe-20) | Meaning | Most Common Cause | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | --------- |---------|------------------|
+| 1 | [Lockout — retries exceeded](https://www.amazon.com/s?k=Lockout%20%E2%80%94%20retries%20exceeded&tag=errorcodefixe-20) | Ignition failure |
+| [2](https://www.amazon.com/s?k=2&tag=errorcodefixe-20) | Pressure switch stuck open | Condensate trap, hose, or inducer | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 3 | Pressure switch stuck closed | [Hose routing or switch failure](https://www.amazon.com/s?k=Hose%20routing%20or%20switch%20failure&tag=errorcodefixe-20) |  | 4 | [High limit device open](https://www.amazon.com/s?k=High%20limit%20device%20open&tag=errorcodefixe-20) | Dirty filter or blocked airflow |
+| [5](https://www.amazon.com/s?k=5&tag=errorcodefixe-20) | Flame without call / roll-out | Gas valve or safety switch | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 6 | Reversed line polarity | [Fix wiring at disconnect](https://www.amazon.com/s?k=Fix%20wiring%20at%20disconnect&tag=errorcodefixe-20) |  | 7 | [Gas valve energized — no call](https://www.amazon.com/s?k=Gas%20valve%20energized%20%E2%80%94%20no%20call&tag=errorcodefixe-20) | Board or gas valve fault |
+| [8](https://www.amazon.com/s?k=8&tag=errorcodefixe-20) | Low flame sensor signal | Clean flame sensor rod | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 9 | Igniter fault | [Check igniter continuity](https://www.amazon.com/s?k=Check%20igniter%20continuity&tag=errorcodefixe-20) | ## GMS96-Specific Issues
 
 ### 2 Flashes: Pressure Switch — GMS96
 The GMS96 uses a plastic condensate trap assembly (Goodman part PCBBF118S and related variants). This trap is press-fit together and can develop hairline cracks at the joints over time, causing air leaks. Cracks may not be visible — submerse the trap in water while applying air pressure to check for bubbles.
@@ -60,15 +52,8 @@ The GMS96 uses a silicon nitride hot-surface igniter (Goodman B1401015S or B1401
 3. Test the igniter — measure resistance with a multimeter. Replace if OL.
 4. Power cycle and attempt to start.
 
-## Parts Often Needed
-
-| Part | Notes |
-|------|-------|
-| Hot-surface igniter | Goodman B1401015S |
-| Condensate trap | Goodman PCBBF118S or PCBBF133 |
-| Pressure switch | 0.60" WC — Goodman B1370169 or B1370138 |
-| Flame sensor | Goodman 20285401 |
-| Blower run capacitor | 7.5 or 10 µF / 370V |
+## Parts Often Needed | Part | [Notes](https://www.amazon.com/s?k=Notes&tag=errorcodefixe-20) |  |------|-------|
+| Hot-surface igniter | [Goodman B1401015S](https://www.amazon.com/s?k=Goodman%20B1401015S&tag=errorcodefixe-20) |  | Condensate trap | [Goodman PCBBF118S or PCBBF133](https://www.amazon.com/s?k=Goodman%20PCBBF118S%20or%20PCBBF133&tag=errorcodefixe-20) |  | Pressure switch | [0.60" WC — Goodman B1370169 or B1370138](https://www.amazon.com/s?k=0.60%22%20WC%20%E2%80%94%20Goodman%20B1370169%20or%20B1370138&tag=errorcodefixe-20) |  | Flame sensor | [Goodman 20285401](https://www.amazon.com/s?k=Goodman%2020285401&tag=errorcodefixe-20) |  | Blower run capacitor | 7.5 or 10 µF / 370V |
 
 ## When to Call a Pro
 If you're seeing 7-flash or 5-flash codes (gas valve faults), or if the furnace has rolled out, stop using the furnace and contact a licensed HVAC technician before restarting.

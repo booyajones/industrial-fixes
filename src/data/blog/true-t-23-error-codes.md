@@ -1,4 +1,4 @@
----
+﻿---
 title: "True T-23 Refrigerator Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to True T-23 commercial refrigerator error codes, diagnostic LED codes, common fault causes, and step-by-step repair procedures."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -20,17 +20,17 @@ The True T-23 is a one-section reach-in commercial refrigerator widely used in b
 
 ## True T-23 Digital Control Error Code Reference
 
-| Code | Fault |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Fault |
 |---|---|
-| E1 | Ambient temperature sensor fault |
-| E2 | Cabinet temperature sensor fault — top |
-| E3 | Cabinet temperature sensor fault — bottom (where equipped) |
-| E4 | Evaporator coil temperature sensor fault |
-| E5 | Defrost sensor fault |
-| E6 | High temperature alarm — cabinet above setpoint |
-| E7 | Door open alarm — door held open beyond time limit |
-| E8 | Defrost cycle timeout — defrost took too long |
-| EE | Control board fault |
+| [E1](https://www.amazon.com/s?k=E1&tag=errorcodefixe-20) | Ambient temperature sensor fault |
+| [E2](https://www.amazon.com/s?k=E2&tag=errorcodefixe-20) | Cabinet temperature sensor fault — top |
+| [E3](https://www.amazon.com/s?k=E3&tag=errorcodefixe-20) | Cabinet temperature sensor fault — bottom (where equipped) |
+| [E4](https://www.amazon.com/s?k=E4&tag=errorcodefixe-20) | Evaporator coil temperature sensor fault |
+| [E5](https://www.amazon.com/s?k=E5&tag=errorcodefixe-20) | Defrost sensor fault |
+| [E6](https://www.amazon.com/s?k=E6&tag=errorcodefixe-20) | High temperature alarm — cabinet above setpoint |
+| [E7](https://www.amazon.com/s?k=E7&tag=errorcodefixe-20) | Door open alarm — door held open beyond time limit |
+| [E8](https://www.amazon.com/s?k=E8&tag=errorcodefixe-20) | Defrost cycle timeout — defrost took too long |
+| [EE](https://www.amazon.com/s?k=EE&tag=errorcodefixe-20) | Control board fault |
 
 ## Common Causes by Code
 
@@ -52,12 +52,12 @@ The True T-23 is a one-section reach-in commercial refrigerator widely used in b
 
 | Part | Notes |
 |---|---|
-| Cabinet temperature sensor | True part; check connector type |
-| Defrost heater | Matches voltage and wattage |
-| Evaporator fan motor | Shaded pole type; match CFM |
-| Defrost termination thermostat | Check cutout temperature rating |
-| Condenser fan motor | Bottom-mounted; check rotation |
-| True Digital Control board | For EE fault; verify power supply first |
+| [Cabinet temperature sensor](https://www.amazon.com/s?k=Cabinet%20temperature%20sensor&tag=errorcodefixe-20) | True part; check connector type |
+| [Defrost heater](https://www.amazon.com/s?k=Defrost%20heater&tag=errorcodefixe-20) | Matches voltage and wattage |
+| [Evaporator fan motor](https://www.amazon.com/s?k=Evaporator%20fan%20motor&tag=errorcodefixe-20) | Shaded pole type; match CFM |
+| [Defrost termination thermostat](https://www.amazon.com/s?k=Defrost%20termination%20thermostat&tag=errorcodefixe-20) | Check cutout temperature rating |
+| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | Bottom-mounted; check rotation |
+| [True Digital Control board](https://www.amazon.com/s?k=True%20Digital%20Control%20board&tag=errorcodefixe-20) | For EE fault; verify power supply first |
 
 ## When to Call a Pro
 

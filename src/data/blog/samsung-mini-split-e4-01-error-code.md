@@ -1,4 +1,4 @@
----
+﻿---
 title: "Samsung Mini Split E4-01 Error Code — Causes & Fix"
 description: "What Samsung E4-01 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,9 +36,9 @@ Samsung error code E4-01 indicates a temperature sensor fault — specifically, 
 
 | Part | Notes |
 |------|-------|
-| Samsung indoor temperature sensor (TA) | Part number varies by model series; DB32-00028A is common on older units |
-| Contact cleaner | For connector maintenance |
-| Indoor PCB | If sensor tests good and E4-01 persists |
+| [Samsung indoor temperature sensor (TA)](https://www.amazon.com/s?k=Samsung%20indoor%20temperature%20sensor%20(TA)&tag=errorcodefixe-20) | Part number varies by model series; DB32-00028A is common on older units |
+| [Contact cleaner](https://www.amazon.com/s?k=Contact%20cleaner&tag=errorcodefixe-20) | For connector maintenance |
+| [Indoor PCB](https://www.amazon.com/s?k=Indoor%20PCB&tag=errorcodefixe-20) | If sensor tests good and E4-01 persists |
 
 ## When to Call a Pro
 

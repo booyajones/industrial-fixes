@@ -1,4 +1,4 @@
----
+﻿---
 title: "Rinnai Error Code 14 — Causes & Fix"
 description: "What Rinnai error code 14 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,9 +36,9 @@ Rinnai error code 14 indicates the thermal fuse (or flue thermal fuse) has opene
 
 | Part | Notes |
 |------|-------|
-| Thermal fuse (case or combustion type) | Non-resettable; must be replaced; match temperature rating and model number |
-| Descaling kit (citric acid) | Use if scale is confirmed cause; prevents recurrence |
-| Vent pipe section or cap | Replace damaged sections contributing to exhaust blockage |
+| [Thermal fuse (case or combustion type)](https://www.amazon.com/s?k=Thermal%20fuse%20(case%20or%20combustion%20type)&tag=errorcodefixe-20) | Non-resettable; must be replaced; match temperature rating and model number |
+| [Descaling kit (citric acid)](https://www.amazon.com/s?k=Descaling%20kit%20(citric%20acid)&tag=errorcodefixe-20) | Use if scale is confirmed cause; prevents recurrence |
+| [Vent pipe section or cap](https://www.amazon.com/s?k=Vent%20pipe%20section%20or%20cap&tag=errorcodefixe-20) | Replace damaged sections contributing to exhaust blockage |
 
 ## When to Call a Pro
 

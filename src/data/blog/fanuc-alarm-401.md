@@ -1,4 +1,4 @@
----
+﻿---
 title: "Fanuc Alarm 401 — Servo Axis Overload Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-11T08:00:00Z
@@ -48,12 +48,9 @@ This is a serious alarm that should not be repeatedly cleared and ignored — it
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Where to Buy | Typical Cost |
-|------|-------------|-------------|
-| Servo motor (Fanuc αi series, model-specific) | Fanuc America, Motion Controls LLC | $800–$3,000 |
-| Servo amplifier (Fanuc αi-B or βi-B series) | Fanuc America, used CNC dealers | $600–$2,500 |
-| Way lube pump (Bijur D-Series or equiv.) | MSC Industrial, Grainger | $150–$350 |
-| Cabinet cooling fan (120mm or 172mm) | Amazon, Grainger | $20–$60 |
+| Part | Where to Buy | Typical Cost | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |-------------|-------------|
+| Servo motor (Fanuc αi series, model-specific) | [Fanuc America, Motion Controls LLC](https://www.amazon.com/s?k=Fanuc%20America%2C%20Motion%20Controls%20LLC&tag=errorcodefixe-20) | $800–$3,000 |
+| [Servo amplifier (Fanuc αi-B or βi-B series)](https://www.amazon.com/s?k=Servo%20amplifier%20(Fanuc%20%CE%B1i-B%20or%20%CE%B2i-B%20series)&tag=errorcodefixe-20) | Fanuc America, used CNC dealers | $600–$2,500 | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Way lube pump (Bijur D-Series or equiv.) | MSC Industrial, Grainger | [$150–$350](https://www.amazon.com/s?k=%24150%E2%80%93%24350&tag=errorcodefixe-20) |  | Cabinet cooling fan (120mm or 172mm) | [Amazon, Grainger](https://www.amazon.com/s?k=Amazon%2C%20Grainger&tag=errorcodefixe-20) | $20–$60 |
 
 ## When to Call a Professional
 

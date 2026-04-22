@@ -1,4 +1,4 @@
----
+﻿---
 title: "ESAB Rebel EMP Error Codes — Fix Guide"
 description: "ESAB Rebel EMP multi-process welder error codes: what each code means and how to fix it."
 pubDatetime: 2026-04-22T16:00:00Z
@@ -15,13 +15,13 @@ tags:
 
 The ESAB Rebel EMP (215ic, 235ic, 285ic) is a popular multi-process welder used in fabrication, field service, and vocational training. It displays alphanumeric fault codes on the color LCD screen when problems occur. This guide covers the most common Rebel EMP error codes.
 
-| Code | Meaning |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning |
 |------|---------|
-| F01 | Thermal overload |
-| F02 | Output overcurrent / short circuit |
-| F03 | Input voltage out of range |
-| F04 | Communication fault |
-| F05 | Wire feeder fault |
+| [F01](https://www.amazon.com/s?k=F01&tag=errorcodefixe-20) | Thermal overload |
+| [F02](https://www.amazon.com/s?k=F02&tag=errorcodefixe-20) | Output overcurrent / short circuit |
+| [F03](https://www.amazon.com/s?k=F03&tag=errorcodefixe-20) | Input voltage out of range |
+| [F04](https://www.amazon.com/s?k=F04&tag=errorcodefixe-20) | Communication fault |
+| [F05](https://www.amazon.com/s?k=F05&tag=errorcodefixe-20) | Wire feeder fault |
 
 [Jump to Fix](#fix)
 
@@ -46,9 +46,9 @@ The wire drive motor isn't operating correctly. Check for wire jam, worn drive r
 
 | Part | Notes |
 |------|-------|
-| MIG gun | For F02 if cable fault found |
-| Drive rolls | Replace if worn and slipping wire |
-| Inlet guide / liner | Replace if wire bird-nests occur |
+| [MIG gun](https://www.amazon.com/s?k=MIG%20gun&tag=errorcodefixe-20) | For F02 if cable fault found |
+| [Drive rolls](https://www.amazon.com/s?k=Drive%20rolls&tag=errorcodefixe-20) | Replace if worn and slipping wire |
+| [Inlet guide / liner](https://www.amazon.com/s?k=Inlet%20guide%20%2F%20liner&tag=errorcodefixe-20) | Replace if wire bird-nests occur |
 
 ## When to Call a Pro
 

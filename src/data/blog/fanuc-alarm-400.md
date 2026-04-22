@@ -1,4 +1,4 @@
----
+﻿---
 title: "Fanuc Alarm 400 — Causes & Fix"
 description: "What Fanuc alarm 400 servo overload X-axis means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,9 +36,9 @@ Fanuc alarm 400 (SV0400: SERVO OVERLOAD: X AXIS) is a servo amplifier overload a
 
 | Part | Notes |
 |------|-------|
-| Servo amplifier cooling fan | Match voltage and CFM; Fanuc uses 24VDC fans on most amplifiers |
-| Ball screw nut or bearings | Replace if mechanical binding is the confirmed cause |
-| Servo amplifier module | Replace if amplifier fails to reset after cooling and cause is identified/corrected |
+| [Servo amplifier cooling fan](https://www.amazon.com/s?k=Servo%20amplifier%20cooling%20fan&tag=errorcodefixe-20) | Match voltage and CFM; Fanuc uses 24VDC fans on most amplifiers |
+| [Ball screw nut or bearings](https://www.amazon.com/s?k=Ball%20screw%20nut%20or%20bearings&tag=errorcodefixe-20) | Replace if mechanical binding is the confirmed cause |
+| [Servo amplifier module](https://www.amazon.com/s?k=Servo%20amplifier%20module&tag=errorcodefixe-20) | Replace if amplifier fails to reset after cooling and cause is identified/corrected |
 
 ## When to Call a Pro
 

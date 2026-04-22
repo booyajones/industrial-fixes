@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mazak CNC Alarm 30 — Servo Alarm Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-15T08:00:00Z
@@ -49,12 +49,8 @@ Alarm 30 is a category alarm that can originate from any servo axis (X, Y, Z, B,
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Part Number | Typical Cost | Where to Buy |
-|------|------------|-------------|-------------|
-| Fanuc Servo Amplifier (Alpha-series) | A06B-6140-H006 (axis-specific) | $1,500–$4,000 | Fanuc America / repair centers |
-| Servo Motor Encoder Cable | A66L-0001-0284 (size-specific) | $80–$250 | Fanuc America / Mazak parts |
-| Fanuc Servo Motor (if motor failed) | A06B-0205-B100 (model-specific) | $1,200–$3,500 | Fanuc America / repair centers |
-| Power Supply Module (PSM) | A06B-6150-H030 (size-specific) | $2,000–$5,000 | Fanuc America |
+| Part | Part Number | Typical Cost | [Where to Buy](https://www.amazon.com/s?k=Where%20to%20Buy&tag=errorcodefixe-20) |  |------|------------|-------------|-------------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Fanuc Servo Amplifier (Alpha-series) | A06B-6140-H006 (axis-specific) | [$1,500–$4,000](https://www.amazon.com/s?k=%241%2C500%E2%80%93%244%2C000&tag=errorcodefixe-20) | Fanuc America / repair centers |
+| [Servo Motor Encoder Cable](https://www.amazon.com/s?k=Servo%20Motor%20Encoder%20Cable&tag=errorcodefixe-20) | A66L-0001-0284 (size-specific) | $80–$250 | [Fanuc America / Mazak parts](https://www.amazon.com/s?k=Fanuc%20America%20%2F%20Mazak%20parts&tag=errorcodefixe-20) |  | Fanuc Servo Motor (if motor failed) | [A06B-0205-B100 (model-specific)](https://www.amazon.com/s?k=A06B-0205-B100%20(model-specific)&tag=errorcodefixe-20) | $1,200–$3,500 | Fanuc America / repair centers | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Power Supply Module (PSM) | A06B-6150-H030 (size-specific) | [$2,000–$5,000](https://www.amazon.com/s?k=%242%2C000%E2%80%93%245%2C000&tag=errorcodefixe-20) | Fanuc America |
 
 ## When to Call a Professional
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Yaskawa GA700 OC Fault — Overcurrent Fix"
 description: "What the Yaskawa GA700 OC overcurrent fault means, why it triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -19,11 +19,11 @@ The Yaskawa GA700 is the latest generation general-purpose inverter, succeeding 
 
 ## OC Sub-Faults on the GA700
 
-| Code | When It Occurs |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | When It Occurs |
 |------|---------------|
-| oC1 | During acceleration |
-| oC2 | During deceleration |
-| oC3 | At constant speed |
+| [oC1](https://www.amazon.com/s?k=oC1&tag=errorcodefixe-20) | During acceleration |
+| [oC2](https://www.amazon.com/s?k=oC2&tag=errorcodefixe-20) | During deceleration |
+| [oC3](https://www.amazon.com/s?k=oC3&tag=errorcodefixe-20) | At constant speed |
 
 ## Common Causes
 
@@ -48,9 +48,9 @@ The Yaskawa GA700 is the latest generation general-purpose inverter, succeeding 
 
 | Part | Notes |
 |------|-------|
-| Output reactor (load reactor) | For long cable runs >100 ft; reduces capacitive OC faults |
-| Dynamic braking resistor/unit | For oC2 on high-inertia loads |
-| Motor (replacement) | If megger test shows insulation breakdown |
+| [Output reactor (load reactor)](https://www.amazon.com/s?k=Output%20reactor%20(load%20reactor)&tag=errorcodefixe-20) | For long cable runs >100 ft; reduces capacitive OC faults |
+| [Dynamic braking resistor/unit](https://www.amazon.com/s?k=Dynamic%20braking%20resistor%2Funit&tag=errorcodefixe-20) | For oC2 on high-inertia loads |
+| [Motor (replacement)](https://www.amazon.com/s?k=Motor%20(replacement)&tag=errorcodefixe-20) | If megger test shows insulation breakdown |
 
 ## When to Call a Pro
 

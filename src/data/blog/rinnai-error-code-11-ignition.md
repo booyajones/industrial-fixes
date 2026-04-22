@@ -1,4 +1,4 @@
----
+﻿---
 title: "Rinnai Error Code 11 No Ignition — Causes & Fix"
 description: "What Rinnai error code 11 no ignition lockout means, why it trips, and how to diagnose and fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,9 +36,9 @@ Rinnai **Error Code 11** on a tankless water heater means **no ignition** — th
 
 | Part | Notes |
 |------|-------|
-| Ignition electrode | Replace if electrode tip is worn, cracked, or gap is incorrect |
-| Flame sensor (ionization rod) | Replace if cleaning doesn't restore detection |
-| Gas valve | Replace only after confirming gas supply pressure is correct and ignition components are functional |
+| [Ignition electrode](https://www.amazon.com/s?k=Ignition%20electrode&tag=errorcodefixe-20) | Replace if electrode tip is worn, cracked, or gap is incorrect |
+| [Flame sensor (ionization rod)](https://www.amazon.com/s?k=Flame%20sensor%20(ionization%20rod)&tag=errorcodefixe-20) | Replace if cleaning doesn't restore detection |
+| [Gas valve](https://www.amazon.com/s?k=Gas%20valve&tag=errorcodefixe-20) | Replace only after confirming gas supply pressure is correct and ignition components are functional |
 
 ## When to Call a Pro
 

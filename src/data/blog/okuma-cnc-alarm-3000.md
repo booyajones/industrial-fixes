@@ -1,4 +1,4 @@
----
+﻿---
 title: "Okuma Alarm 3000 — Main CPU Error"
 description: "Okuma CNC alarm 3000 main CPU error: causes, power supply checks, memory issues, and service steps for Okuma controls."
 pubDatetime: 2026-04-22T19:00:00Z
@@ -39,10 +39,10 @@ Okuma alarm **3000** is a **main CPU or control system fault**. It points to a p
 
 | Part | Notes |
 |------|-------|
-| Backup battery | Replace on schedule to avoid memory loss |
-| Cabinet cooling fan / filter | Overheating damages control boards |
-| CNC power supply module | Check outputs before replacing CPU boards |
-| CPU or memory board | Usually requires OEM support |
+| [Backup battery](https://www.amazon.com/s?k=Backup%20battery&tag=errorcodefixe-20) | Replace on schedule to avoid memory loss |
+| [Cabinet cooling fan / filter](https://www.amazon.com/s?k=Cabinet%20cooling%20fan%20%2F%20filter&tag=errorcodefixe-20) | Overheating damages control boards |
+| [CNC power supply module](https://www.amazon.com/s?k=CNC%20power%20supply%20module&tag=errorcodefixe-20) | Check outputs before replacing CPU boards |
+| [CPU or memory board](https://www.amazon.com/s?k=CPU%20or%20memory%20board&tag=errorcodefixe-20) | Usually requires OEM support |
 
 ## When to Call a Pro
 Alarm 3000 often requires Okuma service or a qualified CNC electronics specialist. Do not shotgun-replace boards without verifying the power supply first. A bad power supply can damage replacement boards too.

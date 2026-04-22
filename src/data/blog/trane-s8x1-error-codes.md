@@ -1,4 +1,4 @@
----
+﻿---
 title: "Trane S8X1 Furnace Error Codes — Flash Code Diagnostic Guide"
 description: "Complete guide to Trane S8X1 furnace error codes, flash sequences, what each fault means, and step-by-step repairs for the most common failures."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -20,20 +20,20 @@ The Trane S8X1 is an 80% AFUE, single-stage, multi-position gas furnace in the S
 
 ## Trane S8X1 Flash Code Reference
 
-| Flash Code | Meaning |
+| [Flash Code](https://www.amazon.com/s?k=Flash%20Code&tag=errorcodefixe-20) | Meaning |
 |------------|---------|
-| Continuous on | Normal — no call for heat |
-| Continuous off | No power to board |
-| 2 flashes | System lockout — retry limit |
-| 3 flashes | Pressure switch fault |
-| 4 flashes | High-limit switch open |
-| 5 flashes | Flame sensed without call |
-| 6 flashes | 115V reversed polarity |
-| 7 flashes | Gas valve error |
-| 8 flashes | Weak flame signal |
-| 9 flashes | Rollout switch open |
-| 13 flashes | Limit cycle lockout |
-| 14 flashes | Ignition lockout (3 failed attempts) |
+| [Continuous on](https://www.amazon.com/s?k=Continuous%20on&tag=errorcodefixe-20) | Normal — no call for heat |
+| [Continuous off](https://www.amazon.com/s?k=Continuous%20off&tag=errorcodefixe-20) | No power to board |
+| [2 flashes](https://www.amazon.com/s?k=2%20flashes&tag=errorcodefixe-20) | System lockout — retry limit |
+| [3 flashes](https://www.amazon.com/s?k=3%20flashes&tag=errorcodefixe-20) | Pressure switch fault |
+| [4 flashes](https://www.amazon.com/s?k=4%20flashes&tag=errorcodefixe-20) | High-limit switch open |
+| [5 flashes](https://www.amazon.com/s?k=5%20flashes&tag=errorcodefixe-20) | Flame sensed without call |
+| [6 flashes](https://www.amazon.com/s?k=6%20flashes&tag=errorcodefixe-20) | 115V reversed polarity |
+| [7 flashes](https://www.amazon.com/s?k=7%20flashes&tag=errorcodefixe-20) | Gas valve error |
+| [8 flashes](https://www.amazon.com/s?k=8%20flashes&tag=errorcodefixe-20) | Weak flame signal |
+| [9 flashes](https://www.amazon.com/s?k=9%20flashes&tag=errorcodefixe-20) | Rollout switch open |
+| [13 flashes](https://www.amazon.com/s?k=13%20flashes&tag=errorcodefixe-20) | Limit cycle lockout |
+| [14 flashes](https://www.amazon.com/s?k=14%20flashes&tag=errorcodefixe-20) | Ignition lockout (3 failed attempts) |
 
 ## Common Causes by Code
 
@@ -57,12 +57,12 @@ The Trane S8X1 is an 80% AFUE, single-stage, multi-position gas furnace in the S
 
 | Part | Notes |
 |------|-------|
-| Pressure switch hose | Inexpensive; check for cracks first |
-| Flame sensor | ~$15; clean before replacing |
-| Hot surface ignitor | 120V silicon nitride; confirm model compatibility |
-| High-limit switch | Check continuity before ordering |
-| Gas valve | 24V Honeywell or White-Rodgers; confirm voltage |
-| Control board | For Code 6 or persistent unexplained faults |
+| [Pressure switch hose](https://www.amazon.com/s?k=Pressure%20switch%20hose&tag=errorcodefixe-20) | Inexpensive; check for cracks first |
+| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | ~$15; clean before replacing |
+| [Hot surface ignitor](https://www.amazon.com/s?k=Hot%20surface%20ignitor&tag=errorcodefixe-20) | 120V silicon nitride; confirm model compatibility |
+| [High-limit switch](https://www.amazon.com/s?k=High-limit%20switch&tag=errorcodefixe-20) | Check continuity before ordering |
+| [Gas valve](https://www.amazon.com/s?k=Gas%20valve&tag=errorcodefixe-20) | 24V Honeywell or White-Rodgers; confirm voltage |
+| [Control board](https://www.amazon.com/s?k=Control%20board&tag=errorcodefixe-20) | For Code 6 or persistent unexplained faults |
 
 ## When to Call a Pro
 

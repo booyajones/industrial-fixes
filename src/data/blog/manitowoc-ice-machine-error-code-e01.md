@@ -1,4 +1,4 @@
----
+﻿---
 title: "Manitowoc Ice Machine E01 Error Code — Causes & Fix"
 description: "What Manitowoc E01 long freeze cycle means, why it shuts down, and how to diagnose and fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,9 +36,9 @@ The Manitowoc Indigo series displays **E01** when the ice-making (freeze) cycle 
 
 | Part | Notes |
 |------|-------|
-| Refrigerant charge (R-404A or R-448A per model) | Add only after locating and repairing leak; EPA Section 608 certification required |
-| Expansion valve (TXV) | Replace if suction pressure is very low with normal refrigerant charge |
-| Evaporator cleaning kit | Scale buildup on the evaporator slab can extend freeze times |
+| [Refrigerant charge (R-404A or R-448A per model)](https://www.amazon.com/s?k=Refrigerant%20charge%20(R-404A%20or%20R-448A%20per%20model)&tag=errorcodefixe-20) | Add only after locating and repairing leak; EPA Section 608 certification required |
+| [Expansion valve (TXV)](https://www.amazon.com/s?k=Expansion%20valve%20(TXV)&tag=errorcodefixe-20) | Replace if suction pressure is very low with normal refrigerant charge |
+| [Evaporator cleaning kit](https://www.amazon.com/s?k=Evaporator%20cleaning%20kit&tag=errorcodefixe-20) | Scale buildup on the evaporator slab can extend freeze times |
 
 ## When to Call a Pro
 

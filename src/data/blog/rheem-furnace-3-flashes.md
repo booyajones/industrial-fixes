@@ -1,4 +1,4 @@
----
+﻿---
 title: "Rheem Furnace 3 Flashes Error Code — Causes & Fix"
 description: "What Rheem 3 flashes means on a furnace, why the draft pressure switch faults, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,10 +36,10 @@ Three flashes on a Rheem furnace diagnostic LED signals a pressure switch fault 
 
 | Part | Notes |
 |------|-------|
-| Draft pressure switch | Match Rheem part number; pressure rating varies by model |
-| Pressure switch hose | Standard 1/4" ID silicone or rubber tubing |
-| Inducer motor capacitor | Test before replacing the full motor assembly |
-| Induced draft motor | Replace if capacitor checks good but motor is slow or noisy |
+| [Draft pressure switch](https://www.amazon.com/s?k=Draft%20pressure%20switch&tag=errorcodefixe-20) | Match Rheem part number; pressure rating varies by model |
+| [Pressure switch hose](https://www.amazon.com/s?k=Pressure%20switch%20hose&tag=errorcodefixe-20) | Standard 1/4" ID silicone or rubber tubing |
+| [Inducer motor capacitor](https://www.amazon.com/s?k=Inducer%20motor%20capacitor&tag=errorcodefixe-20) | Test before replacing the full motor assembly |
+| [Induced draft motor](https://www.amazon.com/s?k=Induced%20draft%20motor&tag=errorcodefixe-20) | Replace if capacitor checks good but motor is slow or noisy |
 
 ## When to Call a Pro
 

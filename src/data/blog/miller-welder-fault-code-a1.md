@@ -1,4 +1,4 @@
----
+﻿---
 title: "Miller Welder A1 Fault Code — Causes & Fix"
 description: "What Miller Welder A1 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -36,9 +36,9 @@ The A1 fault on Miller welders signals an overcurrent condition — the output c
 
 | Part | Notes |
 |------|-------|
-| MIG gun / torch | Replace if internal cable short is found |
-| Output cable | Replace if insulation is damaged |
-| IGBT power module | If A1 persists at normal parameters — requires authorized service |
+| [MIG gun / torch](https://www.amazon.com/s?k=MIG%20gun%20%2F%20torch&tag=errorcodefixe-20) | Replace if internal cable short is found |
+| [Output cable](https://www.amazon.com/s?k=Output%20cable&tag=errorcodefixe-20) | Replace if insulation is damaged |
+| [IGBT power module](https://www.amazon.com/s?k=IGBT%20power%20module&tag=errorcodefixe-20) | If A1 persists at normal parameters — requires authorized service |
 
 ## When to Call a Pro
 

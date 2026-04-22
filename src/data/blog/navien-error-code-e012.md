@@ -1,4 +1,4 @@
----
+﻿---
 title: "Navien Error Code E012 — Flame Loss During Operation Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-04-08T08:00:00Z
@@ -48,9 +48,9 @@ For a worn combustion blower: replace the combustion blower assembly. Navien blo
 
 | Part | Where to Buy |
 |------|-------------|
-| Flame sensor rod assembly | RepairClinic, SupplyHouse |
-| Combustion blower motor | SupplyHouse, Grainger |
-| Condensate drain assembly | Amazon, RepairClinic |
+| [Flame sensor rod assembly](https://www.amazon.com/s?k=Flame%20sensor%20rod%20assembly&tag=errorcodefixe-20) | RepairClinic, SupplyHouse |
+| [Combustion blower motor](https://www.amazon.com/s?k=Combustion%20blower%20motor&tag=errorcodefixe-20) | SupplyHouse, Grainger |
+| [Condensate drain assembly](https://www.amazon.com/s?k=Condensate%20drain%20assembly&tag=errorcodefixe-20) | Amazon, RepairClinic |
 
 ## When to Call a Technician
 

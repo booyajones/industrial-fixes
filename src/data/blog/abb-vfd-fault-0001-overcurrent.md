@@ -1,4 +1,4 @@
----
+﻿---
 title: "ABB VFD Fault 0001 Overcurrent — Causes & Fix"
 description: "What ABB VFD fault 0001 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,9 +36,9 @@ ABB fault code 0001 (OVERCURR) means the drive detected output current exceeding
 
 | Part | Notes |
 |------|-------|
-| IGBT power module | If the drive was damaged by a severe short; requires drive specialist |
-| Motor (replacement) | If winding insulation tests below 1 MΩ |
-| Motor cable (shielded VFD-rated) | Replace if any conductor shows insulation damage |
+| [IGBT power module](https://www.amazon.com/s?k=IGBT%20power%20module&tag=errorcodefixe-20) | If the drive was damaged by a severe short; requires drive specialist |
+| [Motor (replacement)](https://www.amazon.com/s?k=Motor%20(replacement)&tag=errorcodefixe-20) | If winding insulation tests below 1 MΩ |
+| [Motor cable (shielded VFD-rated)](https://www.amazon.com/s?k=Motor%20cable%20(shielded%20VFD-rated)&tag=errorcodefixe-20) | Replace if any conductor shows insulation damage |
 
 ## When to Call a Pro
 

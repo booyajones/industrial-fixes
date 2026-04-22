@@ -1,4 +1,4 @@
----
+﻿---
 title: "Noritz Error Code 10 — Causes & Fix"
 description: "What Noritz 10 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,9 +36,9 @@ Noritz error code 10 means abnormal combustion — the unit's flame sensor detec
 
 | Part | Notes |
 |------|-------|
-| Burner assembly | Replace if ports are physically damaged or permanently fouled |
-| Gas conversion kit (NG to LP or vice versa) | Required if unit was converted and not properly configured |
-| Flame sensor / ionization rod | Replace if sensor is cracked or heavily corroded |
+| [Burner assembly](https://www.amazon.com/s?k=Burner%20assembly&tag=errorcodefixe-20) | Replace if ports are physically damaged or permanently fouled |
+| [Gas conversion kit (NG to LP or vice versa)](https://www.amazon.com/s?k=Gas%20conversion%20kit%20(NG%20to%20LP%20or%20vice%20versa)&tag=errorcodefixe-20) | Required if unit was converted and not properly configured |
+| [Flame sensor / ionization rod](https://www.amazon.com/s?k=Flame%20sensor%20%2F%20ionization%20rod&tag=errorcodefixe-20) | Replace if sensor is cracked or heavily corroded |
 
 ## When to Call a Pro
 

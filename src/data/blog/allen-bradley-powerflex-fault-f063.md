@@ -1,4 +1,4 @@
----
+﻿---
 title: "Allen-Bradley PowerFlex Fault F063 — Causes & Fix"
 description: "What Allen-Bradley PowerFlex fault code F063 means, why SW OverCurrent trips, and how to diagnose and fix it."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -38,9 +38,9 @@ Fault F063 (SW OverCurrent) on an Allen-Bradley PowerFlex drive indicates that t
 
 | Part | Notes |
 |------|-------|
-| Motor bearings | Replace if driven equipment has a seized bearing causing overload |
-| Motor (larger frame) | Required if motor is confirmed undersized for the application |
-| PowerFlex control board | Only if fault persists with correct parameters and no mechanical cause |
+| [Motor bearings](https://www.amazon.com/s?k=Motor%20bearings&tag=errorcodefixe-20) | Replace if driven equipment has a seized bearing causing overload |
+| [Motor (larger frame)](https://www.amazon.com/s?k=Motor%20(larger%20frame)&tag=errorcodefixe-20) | Required if motor is confirmed undersized for the application |
+| [PowerFlex control board](https://www.amazon.com/s?k=PowerFlex%20control%20board&tag=errorcodefixe-20) | Only if fault persists with correct parameters and no mechanical cause |
 
 ## When to Call a Pro
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Welbilt Ice Machine Error Codes — Guide"
 description: "Welbilt ice machine error codes (Manitowoc and Multiplex brands): what each code means and how to fix it."
 pubDatetime: 2026-04-22T18:00:00Z
@@ -17,28 +17,28 @@ Welbilt is the parent company of Manitowoc Ice and Multiplex, two major commerci
 
 ## Manitowoc Indigo Codes (Welbilt)
 
-| Code | Meaning |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning |
 |------|---------|
-| 1 | Long harvest |
-| 2 | Harvest timeout |
-| 3 | Long freeze |
-| 5 | Safety switch fault |
-| 6 | Water fill timeout |
-| E04 | High condenser temp |
-| E05 | High pressure cutout |
-| E06 | Low pressure cutout |
+| [1](https://www.amazon.com/s?k=1&tag=errorcodefixe-20) | Long harvest |
+| [2](https://www.amazon.com/s?k=2&tag=errorcodefixe-20) | Harvest timeout |
+| [3](https://www.amazon.com/s?k=3&tag=errorcodefixe-20) | Long freeze |
+| [5](https://www.amazon.com/s?k=5&tag=errorcodefixe-20) | Safety switch fault |
+| [6](https://www.amazon.com/s?k=6&tag=errorcodefixe-20) | Water fill timeout |
+| [E04](https://www.amazon.com/s?k=E04&tag=errorcodefixe-20) | High condenser temp |
+| [E05](https://www.amazon.com/s?k=E05&tag=errorcodefixe-20) | High pressure cutout |
+| [E06](https://www.amazon.com/s?k=E06&tag=errorcodefixe-20) | Low pressure cutout |
 
 ## Manitowoc NEO Codes (Welbilt)
 
-| Code | Meaning |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning |
 |------|---------|
-| E01 | Long freeze cycle |
-| E02 | Harvest timeout |
-| E03 | Water fill timeout |
-| E04 | High condenser temperature |
-| E05 | High pressure cutout |
-| E06 | Low pressure cutout |
-| E08 | Ice thickness sensor fault |
+| [E01](https://www.amazon.com/s?k=E01&tag=errorcodefixe-20) | Long freeze cycle |
+| [E02](https://www.amazon.com/s?k=E02&tag=errorcodefixe-20) | Harvest timeout |
+| [E03](https://www.amazon.com/s?k=E03&tag=errorcodefixe-20) | Water fill timeout |
+| [E04](https://www.amazon.com/s?k=E04&tag=errorcodefixe-20) | High condenser temperature |
+| [E05](https://www.amazon.com/s?k=E05&tag=errorcodefixe-20) | High pressure cutout |
+| [E06](https://www.amazon.com/s?k=E06&tag=errorcodefixe-20) | Low pressure cutout |
+| [E08](https://www.amazon.com/s?k=E08&tag=errorcodefixe-20) | Ice thickness sensor fault |
 
 [Jump to Fix](#fix)
 
@@ -60,9 +60,9 @@ Check supply shutoff is fully open, pressure is 20-80 PSI, and inlet valve scree
 
 | Part | Notes |
 |------|-------|
-| Condenser fan motor | Most common mechanical fix for E04/E05 |
-| Water inlet valve | For Code 6 / E03 |
-| Manitowoc Ice Machine Cleaner | Use every 6 months minimum |
+| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | Most common mechanical fix for E04/E05 |
+| [Water inlet valve](https://www.amazon.com/s?k=Water%20inlet%20valve&tag=errorcodefixe-20) | For Code 6 / E03 |
+| [Manitowoc Ice Machine Cleaner](https://www.amazon.com/s?k=Manitowoc%20Ice%20Machine%20Cleaner&tag=errorcodefixe-20) | Use every 6 months minimum |
 
 ## When to Call a Pro
 

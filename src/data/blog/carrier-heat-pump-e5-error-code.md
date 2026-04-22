@@ -1,4 +1,4 @@
----
+﻿---
 title: "Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix"
 description: "What Carrier heat pump E5 means, why defrost fails, and how to fix E5 error codes on Carrier heat pump systems."
 pubDatetime: 2026-04-22T16:00:00Z
@@ -36,9 +36,9 @@ Carrier heat pump error code **E5** indicates a **defrost fault** — the heat p
 
 | Part | Notes |
 |------|-------|
-| Outdoor coil thermistor | Carrier 338818-702 or model-specific |
-| Reversing valve solenoid coil | 24V AC solenoid coil |
-| Reversing valve (if stuck) | Mechanical replacement — requires brazing |
+| [Outdoor coil thermistor](https://www.amazon.com/s?k=Outdoor%20coil%20thermistor&tag=errorcodefixe-20) | Carrier 338818-702 or model-specific |
+| [Reversing valve solenoid coil](https://www.amazon.com/s?k=Reversing%20valve%20solenoid%20coil&tag=errorcodefixe-20) | 24V AC solenoid coil |
+| [Reversing valve (if stuck)](https://www.amazon.com/s?k=Reversing%20valve%20(if%20stuck)&tag=errorcodefixe-20) | Mechanical replacement — requires brazing |
 
 ## When to Call a Pro
 Low refrigerant charge and reversing valve replacement require an EPA 608-certified HVAC technician. Don't ignore E5 — running a heat pump with a failed defrost system causes ice to accumulate and can damage the outdoor fan blade and coil.

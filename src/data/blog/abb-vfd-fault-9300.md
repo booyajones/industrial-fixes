@@ -1,4 +1,4 @@
----
+﻿---
 title: "ABB VFD Fault 9300 — Causes & Fix"
 description: "What ABB VFD fault 9300 means, why the fan faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -37,8 +37,8 @@ ABB fault 9300 is a **cooling fan fault** — the drive's internal cooling fan (
 
 | Part | Notes |
 |------|-------|
-| Internal cooling fan | ABB frame-size-specific; order by drive model number and frame size |
-| Fan power supply (internal PSU) | If fan supply voltage is absent |
+| [Internal cooling fan](https://www.amazon.com/s?k=Internal%20cooling%20fan&tag=errorcodefixe-20) | ABB frame-size-specific; order by drive model number and frame size |
+| [Fan power supply (internal PSU)](https://www.amazon.com/s?k=Fan%20power%20supply%20(internal%20PSU)&tag=errorcodefixe-20) | If fan supply voltage is absent |
 
 ## When to Call a Pro
 

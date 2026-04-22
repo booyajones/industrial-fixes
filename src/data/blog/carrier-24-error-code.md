@@ -1,4 +1,4 @@
----
+﻿---
 title: "Carrier 24 Error Code — Causes & Fix"
 description: "What Carrier 24 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,9 +36,9 @@ Carrier fault code 24 means the secondary voltage fuse is open. The control boar
 
 | Part | Notes |
 |------|-------|
-| 3A mini blade fuse (AGC-3 or ATC-3) | Carry a pack of 5; cheap insurance |
-| Thermostat wire (18/5 or 18/8) | Replace if the old run has any worn insulation |
-| 40VA furnace transformer | Replace if the transformer itself is shorted (measure secondary: should be ~28VAC no-load) |
+| [3A mini blade fuse (AGC-3 or ATC-3)](https://www.amazon.com/s?k=3A%20mini%20blade%20fuse%20(AGC-3%20or%20ATC-3)&tag=errorcodefixe-20) | Carry a pack of 5; cheap insurance |
+| [Thermostat wire (18/5 or 18/8)](https://www.amazon.com/s?k=Thermostat%20wire%20(18%2F5%20or%2018%2F8)&tag=errorcodefixe-20) | Replace if the old run has any worn insulation |
+| [40VA furnace transformer](https://www.amazon.com/s?k=40VA%20furnace%20transformer&tag=errorcodefixe-20) | Replace if the transformer itself is shorted (measure secondary: should be ~28VAC no-load) |
 
 ## When to Call a Pro
 

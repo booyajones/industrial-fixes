@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mitsubishi U1 Error Code — Causes & Fix"
 description: "What Mitsubishi U1 error code means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,9 +36,9 @@ Mitsubishi error code U1 indicates a voltage imbalance or phase detection fault.
 
 | Part | Notes |
 |------|-------|
-| Supply wire upsizing | Consult NEC and unit ampacity specs; undersized wire is a fire risk |
-| Fuse holder or cartridge fuse | Replace blown fuses; identify the short or overload that caused the blow first |
-| Inverter PCB | Replace only after confirming supply voltage is within specification |
+| [Supply wire upsizing](https://www.amazon.com/s?k=Supply%20wire%20upsizing&tag=errorcodefixe-20) | Consult NEC and unit ampacity specs; undersized wire is a fire risk |
+| [Fuse holder or cartridge fuse](https://www.amazon.com/s?k=Fuse%20holder%20or%20cartridge%20fuse&tag=errorcodefixe-20) | Replace blown fuses; identify the short or overload that caused the blow first |
+| [Inverter PCB](https://www.amazon.com/s?k=Inverter%20PCB&tag=errorcodefixe-20) | Replace only after confirming supply voltage is within specification |
 
 ## When to Call a Pro
 

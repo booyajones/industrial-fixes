@@ -1,4 +1,4 @@
----
+﻿---
 title: "Allen-Bradley PowerFlex Fault F012 — Causes & Fix"
 description: "What Allen-Bradley PowerFlex fault F012 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,9 +36,9 @@ Allen-Bradley PowerFlex fault F012 is an output phase-to-phase overcurrent fault
 
 | Part | Notes |
 |------|-------|
-| Motor (replacement) | If winding short is confirmed; compare repair cost vs. replacement |
-| Output cable | Replace complete run if cable short is found |
-| Drive output power module | If drive's internal current sensing or IGBT triggered incorrectly; verify externally first |
+| [Motor (replacement)](https://www.amazon.com/s?k=Motor%20(replacement)&tag=errorcodefixe-20) | If winding short is confirmed; compare repair cost vs. replacement |
+| [Output cable](https://www.amazon.com/s?k=Output%20cable&tag=errorcodefixe-20) | Replace complete run if cable short is found |
+| [Drive output power module](https://www.amazon.com/s?k=Drive%20output%20power%20module&tag=errorcodefixe-20) | If drive's internal current sensing or IGBT triggered incorrectly; verify externally first |
 
 ## When to Call a Pro
 

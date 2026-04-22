@@ -1,4 +1,4 @@
----
+﻿---
 title: "Schneider Altivar Fault OCF — Causes & Fix"
 description: "What Schneider Altivar OCF fault means, why overcurrent trips the drive, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,9 +36,9 @@ OCF (Overcurrent Fault) on a Schneider Altivar drive (ATV12, ATV320, ATV630, ATV
 
 | Part | Notes |
 |------|-------|
-| Motor cable (VFD-rated, screened) | Replace if insulation test fails |
-| Motor (replacement or rewind) | If winding short circuit is confirmed |
-| Drive output filter (dV/dt) | Reduces cable stress on long runs |
+| [Motor cable (VFD-rated, screened)](https://www.amazon.com/s?k=Motor%20cable%20(VFD-rated%2C%20screened)&tag=errorcodefixe-20) | Replace if insulation test fails |
+| [Motor (replacement or rewind)](https://www.amazon.com/s?k=Motor%20(replacement%20or%20rewind)&tag=errorcodefixe-20) | If winding short circuit is confirmed |
+| [Drive output filter (dV/dt)](https://www.amazon.com/s?k=Drive%20output%20filter%20(dV%2Fdt)&tag=errorcodefixe-20) | Reduces cable stress on long runs |
 
 ## When to Call a Pro
 

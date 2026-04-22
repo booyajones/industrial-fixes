@@ -1,4 +1,4 @@
----
+﻿---
 title: "Miller Welder H1 Fault Code — Causes & Fix"
 description: "What Miller Welder H1 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,9 +36,9 @@ The H1 fault on Miller welders (Dynasty TIG, Maxstar, Multimatic, and Millermati
 
 | Part | Notes |
 |------|-------|
-| Cooling fan assembly | Match to exact welder model — Miller uses several fan configs |
-| Thermistor / thermal switch | If H1 trips immediately when cool — sensor may be shorted |
-| Vent cleaning brush + compressed air | Preventive maintenance; clean every 3–6 months in shop environments |
+| [Cooling fan assembly](https://www.amazon.com/s?k=Cooling%20fan%20assembly&tag=errorcodefixe-20) | Match to exact welder model — Miller uses several fan configs |
+| [Thermistor / thermal switch](https://www.amazon.com/s?k=Thermistor%20%2F%20thermal%20switch&tag=errorcodefixe-20) | If H1 trips immediately when cool — sensor may be shorted |
+| [Vent cleaning brush + compressed air](https://www.amazon.com/s?k=Vent%20cleaning%20brush%20%2B%20compressed%20air&tag=errorcodefixe-20) | Preventive maintenance; clean every 3–6 months in shop environments |
 
 ## When to Call a Pro
 

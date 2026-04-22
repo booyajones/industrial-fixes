@@ -1,4 +1,4 @@
----
+﻿---
 title: "Manitowoc ID-0502 Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Manitowoc ID-0502 ice machine error codes, diagnostic display codes, common fault causes, and step-by-step repair procedures."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -20,21 +20,21 @@ The Manitowoc ID-0502 is a remote-air-cooled (D-series) cube ice machine produci
 
 ## Manitowoc ID-0502 Error Code Reference
 
-| Code | Fault |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Fault |
 |---|---|
-| 1 | Long freeze cycle |
-| 2 | Long harvest cycle |
-| 3 | Short freeze cycle |
-| 4 | Short harvest cycle |
-| 5 | Water level sensor fault |
-| 6 | Water inlet valve fault |
-| 7 | High-pressure fault (HP switch) |
-| 8 | Harvest temperature not reached |
-| 9 | Freeze temperature not reached |
-| 10 | Remote condenser communication fault |
-| 11 | Bin full — bin thermostat or level switch |
-| 12 | Remote condenser fan motor fault |
-| 13 | Ambient temperature out of range |
+| [1](https://www.amazon.com/s?k=1&tag=errorcodefixe-20) | Long freeze cycle |
+| [2](https://www.amazon.com/s?k=2&tag=errorcodefixe-20) | Long harvest cycle |
+| [3](https://www.amazon.com/s?k=3&tag=errorcodefixe-20) | Short freeze cycle |
+| [4](https://www.amazon.com/s?k=4&tag=errorcodefixe-20) | Short harvest cycle |
+| [5](https://www.amazon.com/s?k=5&tag=errorcodefixe-20) | Water level sensor fault |
+| [6](https://www.amazon.com/s?k=6&tag=errorcodefixe-20) | Water inlet valve fault |
+| [7](https://www.amazon.com/s?k=7&tag=errorcodefixe-20) | High-pressure fault (HP switch) |
+| [8](https://www.amazon.com/s?k=8&tag=errorcodefixe-20) | Harvest temperature not reached |
+| [9](https://www.amazon.com/s?k=9&tag=errorcodefixe-20) | Freeze temperature not reached |
+| [10](https://www.amazon.com/s?k=10&tag=errorcodefixe-20) | Remote condenser communication fault |
+| [11](https://www.amazon.com/s?k=11&tag=errorcodefixe-20) | Bin full — bin thermostat or level switch |
+| [12](https://www.amazon.com/s?k=12&tag=errorcodefixe-20) | Remote condenser fan motor fault |
+| [13](https://www.amazon.com/s?k=13&tag=errorcodefixe-20) | Ambient temperature out of range |
 
 ## Common Causes by Code
 
@@ -56,12 +56,12 @@ The Manitowoc ID-0502 is a remote-air-cooled (D-series) cube ice machine produci
 
 | Part | Notes |
 |---|---|
-| Remote condenser fan motor | Multiple motors on large remote units |
-| Hot gas solenoid valve | Check coil continuity before condemning |
-| Communication cable | Re-run if damaged; use proper outdoor-rated cable |
-| Water curtain switch | Same as IYT series |
-| Float switch | Water trough level sensor |
-| HP switch | Manual reset after Code 7 |
+| [Remote condenser fan motor](https://www.amazon.com/s?k=Remote%20condenser%20fan%20motor&tag=errorcodefixe-20) | Multiple motors on large remote units |
+| [Hot gas solenoid valve](https://www.amazon.com/s?k=Hot%20gas%20solenoid%20valve&tag=errorcodefixe-20) | Check coil continuity before condemning |
+| [Communication cable](https://www.amazon.com/s?k=Communication%20cable&tag=errorcodefixe-20) | Re-run if damaged; use proper outdoor-rated cable |
+| [Water curtain switch](https://www.amazon.com/s?k=Water%20curtain%20switch&tag=errorcodefixe-20) | Same as IYT series |
+| [Float switch](https://www.amazon.com/s?k=Float%20switch&tag=errorcodefixe-20) | Water trough level sensor |
+| [HP switch](https://www.amazon.com/s?k=HP%20switch&tag=errorcodefixe-20) | Manual reset after Code 7 |
 
 ## When to Call a Pro
 

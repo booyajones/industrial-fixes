@@ -1,4 +1,4 @@
----
+﻿---
 title: "York 4 Flashes Error Code — Open Limit Device Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-31T08:00:00Z
@@ -44,9 +44,9 @@ If the limit switch has failed, replace it. York furnaces use multiple limit swi
 
 | Part | Where to Buy |
 |------|-------------|
-| High limit switch | RepairClinic, SupplyHouse |
-| Blower motor run capacitor | Grainger, Amazon |
-| PSC blower motor | RepairClinic, Grainger |
+| [High limit switch](https://www.amazon.com/s?k=High%20limit%20switch&tag=errorcodefixe-20) | RepairClinic, SupplyHouse |
+| [Blower motor run capacitor](https://www.amazon.com/s?k=Blower%20motor%20run%20capacitor&tag=errorcodefixe-20) | Grainger, Amazon |
+| [PSC blower motor](https://www.amazon.com/s?k=PSC%20blower%20motor&tag=errorcodefixe-20) | RepairClinic, Grainger |
 
 ## When to Call a Technician
 

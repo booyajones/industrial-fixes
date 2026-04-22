@@ -1,4 +1,4 @@
----
+﻿---
 title: "Scotsman HID312 Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Scotsman HID312 ice machine error codes, diagnostic display codes, common fault causes, and step-by-step repair procedures."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -20,21 +20,21 @@ The Scotsman HID312 is a self-contained cube ice machine and dispenser producing
 
 ## Scotsman HID312 Error Code Reference
 
-| Code | Fault |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Fault |
 |---|---|
-| 1 | Long freeze — high water temperature or scale |
-| 2 | Short freeze — freezing too quickly (possible refrigerant overcharge or TXV fault) |
-| 3 | Long harvest — ice not releasing properly |
-| 4 | Short harvest — harvest cycle completing too quickly |
-| 5 | Harvest temperature not reached |
-| 6 | High-pressure fault |
-| 7 | Low-pressure fault |
-| 8 | Water circuit fault — float switch or inlet valve |
-| 9 | Freeze temperature sensor fault |
-| 10 | Harvest temperature sensor fault |
-| 11 | Bin thermostat fault |
-| 12 | Dispenser mechanism fault |
-| 13 | Communication fault — SmartBoard |
+| [1](https://www.amazon.com/s?k=1&tag=errorcodefixe-20) | Long freeze — high water temperature or scale |
+| [2](https://www.amazon.com/s?k=2&tag=errorcodefixe-20) | Short freeze — freezing too quickly (possible refrigerant overcharge or TXV fault) |
+| [3](https://www.amazon.com/s?k=3&tag=errorcodefixe-20) | Long harvest — ice not releasing properly |
+| [4](https://www.amazon.com/s?k=4&tag=errorcodefixe-20) | Short harvest — harvest cycle completing too quickly |
+| [5](https://www.amazon.com/s?k=5&tag=errorcodefixe-20) | Harvest temperature not reached |
+| [6](https://www.amazon.com/s?k=6&tag=errorcodefixe-20) | High-pressure fault |
+| [7](https://www.amazon.com/s?k=7&tag=errorcodefixe-20) | Low-pressure fault |
+| [8](https://www.amazon.com/s?k=8&tag=errorcodefixe-20) | Water circuit fault — float switch or inlet valve |
+| [9](https://www.amazon.com/s?k=9&tag=errorcodefixe-20) | Freeze temperature sensor fault |
+| [10](https://www.amazon.com/s?k=10&tag=errorcodefixe-20) | Harvest temperature sensor fault |
+| [11](https://www.amazon.com/s?k=11&tag=errorcodefixe-20) | Bin thermostat fault |
+| [12](https://www.amazon.com/s?k=12&tag=errorcodefixe-20) | Dispenser mechanism fault |
+| [13](https://www.amazon.com/s?k=13&tag=errorcodefixe-20) | Communication fault — SmartBoard |
 
 ## Common Causes by Code
 
@@ -56,12 +56,12 @@ The Scotsman HID312 is a self-contained cube ice machine and dispenser producing
 
 | Part | Notes |
 |---|---|
-| Water curtain switch | Scotsman-specific micro-switch |
-| Float switch / water level sensor | Check for scale before replacing |
-| Condenser fan motor | Match HP and rotation direction |
-| Thermistor sensors | Freeze and harvest sensors; sold as a kit |
-| Dispenser auger motor | Check for ice jam before ordering |
-| SmartBoard | For Code 13; verify power supply first |
+| [Water curtain switch](https://www.amazon.com/s?k=Water%20curtain%20switch&tag=errorcodefixe-20) | Scotsman-specific micro-switch |
+| [Float switch / water level sensor](https://www.amazon.com/s?k=Float%20switch%20%2F%20water%20level%20sensor&tag=errorcodefixe-20) | Check for scale before replacing |
+| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | Match HP and rotation direction |
+| [Thermistor sensors](https://www.amazon.com/s?k=Thermistor%20sensors&tag=errorcodefixe-20) | Freeze and harvest sensors; sold as a kit |
+| [Dispenser auger motor](https://www.amazon.com/s?k=Dispenser%20auger%20motor&tag=errorcodefixe-20) | Check for ice jam before ordering |
+| [SmartBoard](https://www.amazon.com/s?k=SmartBoard&tag=errorcodefixe-20) | For Code 13; verify power supply first |
 
 ## When to Call a Pro
 

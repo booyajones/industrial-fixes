@@ -1,4 +1,4 @@
----
+﻿---
 title: "Okuma CNC Alarm 1400 — Encoder Error"
 description: "What Okuma CNC alarm 1400 means, why an encoder error occurs, and how to diagnose and fix the feedback system."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -38,10 +38,10 @@ Alarm 1400 on an Okuma CNC machine indicates an encoder error on a servo axis. T
 
 | Part | Notes |
 |------|-------|
-| Encoder backup battery | Okuma-specific lithium battery; replace every 3–5 years preventively |
-| Encoder feedback cable | OEM Okuma cable; match to motor and drive model |
-| Absolute encoder (Okuma OEM) | Requires Okuma service for replacement and calibration |
-| Servo drive (SERVOPACK) | Replace if drive's encoder interface has failed |
+| [Encoder backup battery](https://www.amazon.com/s?k=Encoder%20backup%20battery&tag=errorcodefixe-20) | Okuma-specific lithium battery; replace every 3–5 years preventively |
+| [Encoder feedback cable](https://www.amazon.com/s?k=Encoder%20feedback%20cable&tag=errorcodefixe-20) | OEM Okuma cable; match to motor and drive model |
+| [Absolute encoder (Okuma OEM)](https://www.amazon.com/s?k=Absolute%20encoder%20(Okuma%20OEM)&tag=errorcodefixe-20) | Requires Okuma service for replacement and calibration |
+| [Servo drive (SERVOPACK)](https://www.amazon.com/s?k=Servo%20drive%20(SERVOPACK)&tag=errorcodefixe-20) | Replace if drive's encoder interface has failed |
 
 ## When to Call a Pro
 

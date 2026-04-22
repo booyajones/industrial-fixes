@@ -1,4 +1,4 @@
----
+﻿---
 title: "ICP Furnace E4 Error Code — Causes & Fix"
 description: "What ICP/Heil furnace E4 means, why the limit circuit opens, and how to fix it step by step."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,10 +36,10 @@ E4 on an ICP furnace (International Comfort Products — the parent platform for
 
 | Part | Notes |
 |------|-------|
-| Air filter | Always first check on E4 |
-| High-limit switch | Auto or manual reset; verify trip temperature matches OEM spec |
-| Rollout limit switch | Manual reset only; replace if reset button does not hold |
-| Blower run capacitor | Inexpensive first test before replacing the blower motor |
+| [Air filter](https://www.amazon.com/s?k=Air%20filter&tag=errorcodefixe-20) | Always first check on E4 |
+| [High-limit switch](https://www.amazon.com/s?k=High-limit%20switch&tag=errorcodefixe-20) | Auto or manual reset; verify trip temperature matches OEM spec |
+| [Rollout limit switch](https://www.amazon.com/s?k=Rollout%20limit%20switch&tag=errorcodefixe-20) | Manual reset only; replace if reset button does not hold |
+| [Blower run capacitor](https://www.amazon.com/s?k=Blower%20run%20capacitor&tag=errorcodefixe-20) | Inexpensive first test before replacing the blower motor |
 
 ## When to Call a Pro
 

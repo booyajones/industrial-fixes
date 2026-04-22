@@ -1,4 +1,4 @@
----
+﻿---
 title: "Senville SENA Series Mini Split Error Codes — Complete Fault Guide"
 description: "Complete guide to Senville SENA series mini split error codes, fault causes, and step-by-step troubleshooting for communication, sensor, and protection faults."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -20,25 +20,25 @@ The Senville SENA series covers a range of ductless mini split units from 9,000 
 
 ## Senville SENA Error Code Reference
 
-| Code | Meaning |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning |
 |------|---------|
-| E1 | Indoor/outdoor communication error |
-| E2 | Indoor fan motor error |
-| E3 | Outdoor fan motor error |
-| E4 | High-pressure protection |
-| E5 | Low-pressure protection |
-| E6 | Compressor overcurrent or overload |
-| E7 | IPM (inverter power module) protection |
-| E8 | AC input current protection |
-| F0 | Outdoor ambient temperature sensor fault |
-| F1 | Indoor temperature sensor fault |
-| F2 | Indoor coil temperature sensor fault |
-| F3 | Outdoor coil temperature sensor fault |
-| F4 | Discharge temperature sensor fault |
-| F5 | Suction temperature sensor fault |
-| P1 | High-pressure switch protection |
-| P2 | Low-pressure switch protection |
-| P4 | Freeze protection (indoor coil too cold) |
+| [E1](https://www.amazon.com/s?k=E1&tag=errorcodefixe-20) | Indoor/outdoor communication error |
+| [E2](https://www.amazon.com/s?k=E2&tag=errorcodefixe-20) | Indoor fan motor error |
+| [E3](https://www.amazon.com/s?k=E3&tag=errorcodefixe-20) | Outdoor fan motor error |
+| [E4](https://www.amazon.com/s?k=E4&tag=errorcodefixe-20) | High-pressure protection |
+| [E5](https://www.amazon.com/s?k=E5&tag=errorcodefixe-20) | Low-pressure protection |
+| [E6](https://www.amazon.com/s?k=E6&tag=errorcodefixe-20) | Compressor overcurrent or overload |
+| [E7](https://www.amazon.com/s?k=E7&tag=errorcodefixe-20) | IPM (inverter power module) protection |
+| [E8](https://www.amazon.com/s?k=E8&tag=errorcodefixe-20) | AC input current protection |
+| [F0](https://www.amazon.com/s?k=F0&tag=errorcodefixe-20) | Outdoor ambient temperature sensor fault |
+| [F1](https://www.amazon.com/s?k=F1&tag=errorcodefixe-20) | Indoor temperature sensor fault |
+| [F2](https://www.amazon.com/s?k=F2&tag=errorcodefixe-20) | Indoor coil temperature sensor fault |
+| [F3](https://www.amazon.com/s?k=F3&tag=errorcodefixe-20) | Outdoor coil temperature sensor fault |
+| [F4](https://www.amazon.com/s?k=F4&tag=errorcodefixe-20) | Discharge temperature sensor fault |
+| [F5](https://www.amazon.com/s?k=F5&tag=errorcodefixe-20) | Suction temperature sensor fault |
+| [P1](https://www.amazon.com/s?k=P1&tag=errorcodefixe-20) | High-pressure switch protection |
+| [P2](https://www.amazon.com/s?k=P2&tag=errorcodefixe-20) | Low-pressure switch protection |
+| [P4](https://www.amazon.com/s?k=P4&tag=errorcodefixe-20) | Freeze protection (indoor coil too cold) |
 
 ## Common Causes by Code
 
@@ -63,12 +63,12 @@ The Senville SENA series covers a range of ductless mini split units from 9,000 
 
 | Part | Notes |
 |------|-------|
-| Indoor room temp sensor | F1; NTC 10kΩ at 25°C typical |
-| Indoor coil sensor | F2; clip-on type on evaporator |
-| Outdoor PCB | For E7 after charge and compressor confirmed |
-| Communication cable | 3-conductor; replace full run |
-| Indoor PCB | For E2 or E1 with confirmed good wiring |
-| Outdoor fan motor | For E3; confirm DC or AC type |
+| [Indoor room temp sensor](https://www.amazon.com/s?k=Indoor%20room%20temp%20sensor&tag=errorcodefixe-20) | F1; NTC 10kΩ at 25°C typical |
+| [Indoor coil sensor](https://www.amazon.com/s?k=Indoor%20coil%20sensor&tag=errorcodefixe-20) | F2; clip-on type on evaporator |
+| [Outdoor PCB](https://www.amazon.com/s?k=Outdoor%20PCB&tag=errorcodefixe-20) | For E7 after charge and compressor confirmed |
+| [Communication cable](https://www.amazon.com/s?k=Communication%20cable&tag=errorcodefixe-20) | 3-conductor; replace full run |
+| [Indoor PCB](https://www.amazon.com/s?k=Indoor%20PCB&tag=errorcodefixe-20) | For E2 or E1 with confirmed good wiring |
+| [Outdoor fan motor](https://www.amazon.com/s?k=Outdoor%20fan%20motor&tag=errorcodefixe-20) | For E3; confirm DC or AC type |
 
 ## When to Call a Pro
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Haas Alarm 121 — ATC Arm Fault"
 description: "Haas Alarm 121 means the automatic tool changer arm failed to complete its motion correctly. Learn the causes and how to fix Haas Alarm 121."
 pubDatetime: 2026-04-22T17:00:00Z
@@ -40,10 +40,10 @@ tags:
 
 | Part | Notes |
 |------|-------|
-| Proximity switch | Common if the control never sees arm position |
-| ATC arm gripper fingers | Replace if bent or worn |
-| Air regulator / filter parts | Low air causes incomplete actuation |
-| ATC gearbox components | If timing will not hold |
+| [Proximity switch](https://www.amazon.com/s?k=Proximity%20switch&tag=errorcodefixe-20) | Common if the control never sees arm position |
+| [ATC arm gripper fingers](https://www.amazon.com/s?k=ATC%20arm%20gripper%20fingers&tag=errorcodefixe-20) | Replace if bent or worn |
+| [Air regulator / filter parts](https://www.amazon.com/s?k=Air%20regulator%20%2F%20filter%20parts&tag=errorcodefixe-20) | Low air causes incomplete actuation |
+| [ATC gearbox components](https://www.amazon.com/s?k=ATC%20gearbox%20components&tag=errorcodefixe-20) | If timing will not hold |
 
 ## When to Call a Pro
 

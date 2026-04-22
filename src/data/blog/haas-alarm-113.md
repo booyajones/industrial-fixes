@@ -1,4 +1,4 @@
----
+﻿---
 title: "Haas Alarm 113 — Spindle Encoder Fault Causes & Fix"
 description: "What Haas alarm 113 spindle encoder fault means, why it triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -37,8 +37,8 @@ Haas Alarm 113 is a **spindle encoder fault** — the CNC detected that the spin
 
 | Part | Notes |
 |------|-------|
-| Spindle encoder cable | Haas model-specific, shielded; order by machine model and serial |
-| Spindle encoder | Integrated with spindle motor on many Haas models; order through HFO |
+| [Spindle encoder cable](https://www.amazon.com/s?k=Spindle%20encoder%20cable&tag=errorcodefixe-20) | Haas model-specific, shielded; order by machine model and serial |
+| [Spindle encoder](https://www.amazon.com/s?k=Spindle%20encoder&tag=errorcodefixe-20) | Integrated with spindle motor on many Haas models; order through HFO |
 
 ## When to Call a Pro
 

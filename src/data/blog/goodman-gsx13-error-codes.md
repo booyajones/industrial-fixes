@@ -1,4 +1,4 @@
----
+﻿---
 title: "Goodman GSX13 Air Conditioner Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Goodman GSX13 air conditioner error codes, LED flash sequences, fault causes, and step-by-step fixes for the most common failures."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -20,16 +20,16 @@ The Goodman GSX13 is a 13 SEER single-stage residential central air conditioner 
 
 ## Goodman GSX13 LED Flash Code Reference
 
-| Flash Sequence | Fault |
+| [Flash Sequence](https://www.amazon.com/s?k=Flash%20Sequence&tag=errorcodefixe-20) | Fault |
 |---|---|
-| 1 flash | Normal / standby |
-| 2 flashes | High-pressure switch open |
-| 3 flashes | Low-pressure switch open |
-| 4 flashes | Open circuit in compressor protection (overload or internal protection) |
-| 5 flashes | Outdoor control board fault |
-| 6 flashes | Outdoor ambient thermistor fault |
-| 7 flashes | Discharge thermistor fault |
-| Rapid flash | Low voltage — check transformer |
+| [1 flash](https://www.amazon.com/s?k=1%20flash&tag=errorcodefixe-20) | Normal / standby |
+| [2 flashes](https://www.amazon.com/s?k=2%20flashes&tag=errorcodefixe-20) | High-pressure switch open |
+| [3 flashes](https://www.amazon.com/s?k=3%20flashes&tag=errorcodefixe-20) | Low-pressure switch open |
+| [4 flashes](https://www.amazon.com/s?k=4%20flashes&tag=errorcodefixe-20) | Open circuit in compressor protection (overload or internal protection) |
+| [5 flashes](https://www.amazon.com/s?k=5%20flashes&tag=errorcodefixe-20) | Outdoor control board fault |
+| [6 flashes](https://www.amazon.com/s?k=6%20flashes&tag=errorcodefixe-20) | Outdoor ambient thermistor fault |
+| [7 flashes](https://www.amazon.com/s?k=7%20flashes&tag=errorcodefixe-20) | Discharge thermistor fault |
+| [Rapid flash](https://www.amazon.com/s?k=Rapid%20flash&tag=errorcodefixe-20) | Low voltage — check transformer |
 
 ## Common Causes by Code
 
@@ -52,12 +52,12 @@ The Goodman GSX13 is a 13 SEER single-stage residential central air conditioner 
 
 | Part | Notes |
 |---|---|
-| Dual run capacitor | Single most common GSX13 failure |
-| Contactor | Check for pitting; replace if contacts are burned |
-| Control board | For Code 5; check fuse first (usually 5A) |
-| Run capacitor (fan only) | Some GSX13 boards use separate fan capacitor |
-| High-pressure switch | For persistent Code 2 after coil service |
-| Low-pressure switch | For persistent Code 3 with correct charge |
+| [Dual run capacitor](https://www.amazon.com/s?k=Dual%20run%20capacitor&tag=errorcodefixe-20) | Single most common GSX13 failure |
+| [Contactor](https://www.amazon.com/s?k=Contactor&tag=errorcodefixe-20) | Check for pitting; replace if contacts are burned |
+| [Control board](https://www.amazon.com/s?k=Control%20board&tag=errorcodefixe-20) | For Code 5; check fuse first (usually 5A) |
+| [Run capacitor (fan only)](https://www.amazon.com/s?k=Run%20capacitor%20(fan%20only)&tag=errorcodefixe-20) | Some GSX13 boards use separate fan capacitor |
+| [High-pressure switch](https://www.amazon.com/s?k=High-pressure%20switch&tag=errorcodefixe-20) | For persistent Code 2 after coil service |
+| [Low-pressure switch](https://www.amazon.com/s?k=Low-pressure%20switch&tag=errorcodefixe-20) | For persistent Code 3 with correct charge |
 
 ## When to Call a Pro
 

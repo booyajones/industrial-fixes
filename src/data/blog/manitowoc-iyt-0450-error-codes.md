@@ -1,4 +1,4 @@
----
+﻿---
 title: "Manitowoc IYT-0450 Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Manitowoc IYT-0450 ice machine error codes, diagnostic display codes, common fault causes, and step-by-step repair procedures."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -20,21 +20,21 @@ The Manitowoc IYT-0450 is a top-air-discharge (T-series) cube ice machine produc
 
 ## Manitowoc IYT-0450 Error Code Reference
 
-| Code | Fault |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Fault |
 |---|---|
-| 1 | Long freeze cycle — freeze took too long |
-| 2 | Long harvest cycle — harvest took too long |
-| 3 | Short freeze cycle — freeze too brief |
-| 4 | Short harvest cycle — harvest too brief |
-| 5 | Water sensor fault — float switch error |
-| 6 | Water inlet valve fault |
-| 7 | High-pressure fault — HP switch trip |
-| 8 | Harvest temperature not reached (hot gas) |
-| 9 | Freeze temperature not reached (evaporator) |
-| 10 | Control board fault |
-| 11 | Bin full — bin level switch active |
-| 12 | Low ambient temperature lockout |
-| 13 | High ambient temperature limit |
+| [1](https://www.amazon.com/s?k=1&tag=errorcodefixe-20) | Long freeze cycle — freeze took too long |
+| [2](https://www.amazon.com/s?k=2&tag=errorcodefixe-20) | Long harvest cycle — harvest took too long |
+| [3](https://www.amazon.com/s?k=3&tag=errorcodefixe-20) | Short freeze cycle — freeze too brief |
+| [4](https://www.amazon.com/s?k=4&tag=errorcodefixe-20) | Short harvest cycle — harvest too brief |
+| [5](https://www.amazon.com/s?k=5&tag=errorcodefixe-20) | Water sensor fault — float switch error |
+| [6](https://www.amazon.com/s?k=6&tag=errorcodefixe-20) | Water inlet valve fault |
+| [7](https://www.amazon.com/s?k=7&tag=errorcodefixe-20) | High-pressure fault — HP switch trip |
+| [8](https://www.amazon.com/s?k=8&tag=errorcodefixe-20) | Harvest temperature not reached (hot gas) |
+| [9](https://www.amazon.com/s?k=9&tag=errorcodefixe-20) | Freeze temperature not reached (evaporator) |
+| [10](https://www.amazon.com/s?k=10&tag=errorcodefixe-20) | Control board fault |
+| [11](https://www.amazon.com/s?k=11&tag=errorcodefixe-20) | Bin full — bin level switch active |
+| [12](https://www.amazon.com/s?k=12&tag=errorcodefixe-20) | Low ambient temperature lockout |
+| [13](https://www.amazon.com/s?k=13&tag=errorcodefixe-20) | High ambient temperature limit |
 
 ## Common Causes by Code
 
@@ -56,12 +56,12 @@ The Manitowoc IYT-0450 is a top-air-discharge (T-series) cube ice machine produc
 
 | Part | Notes |
 |---|---|
-| Hot gas valve | Solenoid valve; check for coil continuity |
-| Water curtain switch | Micro-switch type; check actuation and wiring |
-| Float switch | Water level control; clean before replacing |
-| Harvest thermistor | Monitors evaporator during harvest |
-| Water inlet valve | Solenoid; check strainer first |
-| High-pressure switch | Manual reset required after Code 7 |
+| [Hot gas valve](https://www.amazon.com/s?k=Hot%20gas%20valve&tag=errorcodefixe-20) | Solenoid valve; check for coil continuity |
+| [Water curtain switch](https://www.amazon.com/s?k=Water%20curtain%20switch&tag=errorcodefixe-20) | Micro-switch type; check actuation and wiring |
+| [Float switch](https://www.amazon.com/s?k=Float%20switch&tag=errorcodefixe-20) | Water level control; clean before replacing |
+| [Harvest thermistor](https://www.amazon.com/s?k=Harvest%20thermistor&tag=errorcodefixe-20) | Monitors evaporator during harvest |
+| [Water inlet valve](https://www.amazon.com/s?k=Water%20inlet%20valve&tag=errorcodefixe-20) | Solenoid; check strainer first |
+| [High-pressure switch](https://www.amazon.com/s?k=High-pressure%20switch&tag=errorcodefixe-20) | Manual reset required after Code 7 |
 
 ## When to Call a Pro
 

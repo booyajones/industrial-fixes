@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mitsubishi FR Series VFD Fault E6 — Causes & Fix"
 description: "What Mitsubishi FR series VFD fault E6 means, why the brake transistor fault trips, and how to diagnose and fix it."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -38,9 +38,9 @@ E6 (or E.6) on a Mitsubishi FR series VFD (FR-A700, FR-A800, FR-E700, FR-E800) i
 
 | Part | Notes |
 |------|-------|
-| Braking resistor | Match to Mitsubishi FR drive model; verify Ω rating and wattage |
-| Brake transistor / drive power board | Replace if transistor is confirmed failed; typically requires whole board |
-| Braking resistor wiring | Use wire rated for resistor peak current; keep leads short |
+| [Braking resistor](https://www.amazon.com/s?k=Braking%20resistor&tag=errorcodefixe-20) | Match to Mitsubishi FR drive model; verify Ω rating and wattage |
+| [Brake transistor / drive power board](https://www.amazon.com/s?k=Brake%20transistor%20%2F%20drive%20power%20board&tag=errorcodefixe-20) | Replace if transistor is confirmed failed; typically requires whole board |
+| [Braking resistor wiring](https://www.amazon.com/s?k=Braking%20resistor%20wiring&tag=errorcodefixe-20) | Use wire rated for resistor peak current; keep leads short |
 
 ## When to Call a Pro
 

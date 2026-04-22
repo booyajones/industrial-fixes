@@ -1,4 +1,4 @@
----
+﻿---
 title: "Senville Mini Split E1 Error Code — Causes & Fix"
 description: "What Senville mini split error code E1 means, why indoor/outdoor communication fails, and how to restore the system."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -38,9 +38,9 @@ E1 on a Senville mini split indicates a communication fault between the indoor a
 
 | Part | Notes |
 |------|-------|
-| 18 AWG 3-conductor cable | For replacing damaged communication wire runs |
-| Indoor control board | Replace if wire and power check out but E1 persists |
-| Outdoor control board (PCB) | Replace if outdoor unit confirmed as communication failure source |
+| [18 AWG 3-conductor cable](https://www.amazon.com/s?k=18%20AWG%203-conductor%20cable&tag=errorcodefixe-20) | For replacing damaged communication wire runs |
+| [Indoor control board](https://www.amazon.com/s?k=Indoor%20control%20board&tag=errorcodefixe-20) | Replace if wire and power check out but E1 persists |
+| [Outdoor control board (PCB)](https://www.amazon.com/s?k=Outdoor%20control%20board%20(PCB)&tag=errorcodefixe-20) | Replace if outdoor unit confirmed as communication failure source |
 
 ## When to Call a Pro
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Heidenhain TNC 640 Error Code Guide — Complete Diagnostic Reference"
 description: "Complete guide to Heidenhain TNC 640 error codes, meanings, causes, and first-step troubleshooting procedures for CNC technicians."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -20,16 +20,16 @@ The Heidenhain TNC 640 is a premium CNC control used on advanced 5-axis milling 
 
 ## Common Heidenhain TNC 640 Alarm Reference
 
-| Alarm | Meaning |
+| [Alarm](https://www.amazon.com/s?k=Alarm&tag=errorcodefixe-20) | Meaning |
 |---|---|
-| 100 | PLC not ready |
-| 115 | Axis enable missing |
-| 130 | Reference mark not found |
-| 200 | Drive fault |
-| 399 | Servo or drive communication issue |
-| 601 | Spindle fault |
-| 710 | Encoder signal fault |
-| 740 | Power interruption / control voltage issue |
+| [100](https://www.amazon.com/s?k=100&tag=errorcodefixe-20) | PLC not ready |
+| [115](https://www.amazon.com/s?k=115&tag=errorcodefixe-20) | Axis enable missing |
+| [130](https://www.amazon.com/s?k=130&tag=errorcodefixe-20) | Reference mark not found |
+| [200](https://www.amazon.com/s?k=200&tag=errorcodefixe-20) | Drive fault |
+| [399](https://www.amazon.com/s?k=399&tag=errorcodefixe-20) | Servo or drive communication issue |
+| [601](https://www.amazon.com/s?k=601&tag=errorcodefixe-20) | Spindle fault |
+| [710](https://www.amazon.com/s?k=710&tag=errorcodefixe-20) | Encoder signal fault |
+| [740](https://www.amazon.com/s?k=740&tag=errorcodefixe-20) | Power interruption / control voltage issue |
 
 ## Common Causes by Alarm
 
@@ -51,10 +51,10 @@ The Heidenhain TNC 640 is a premium CNC control used on advanced 5-axis milling 
 
 | Part | Notes |
 |---|---|
-| Encoder cable | Common wear/failure item |
-| Reference switch | For repeated homing issues |
-| Control power supply | For unstable control voltage |
-| Drive module | Only after connector and supply checks |
+| [Encoder cable](https://www.amazon.com/s?k=Encoder%20cable&tag=errorcodefixe-20) | Common wear/failure item |
+| [Reference switch](https://www.amazon.com/s?k=Reference%20switch&tag=errorcodefixe-20) | For repeated homing issues |
+| [Control power supply](https://www.amazon.com/s?k=Control%20power%20supply&tag=errorcodefixe-20) | For unstable control voltage |
+| [Drive module](https://www.amazon.com/s?k=Drive%20module&tag=errorcodefixe-20) | Only after connector and supply checks |
 
 ## When to Call a Pro
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Carrier 21 Error Code — Gas Heating Lockout Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-02T08:00:00Z
@@ -45,12 +45,9 @@ description: "Carrier error code 21 signals a gas heating lockout — the furnac
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Where to Buy | Typical Cost |
-|------|-------------|-------------|
-| Draft inducer motor assembly (Carrier OEM #HC21ZE120) | Carrier dealer, RepairClinic | $120–$250 |
-| Pressure switch (Carrier #HK06WC085) | Johnstone Supply, Grainger | $20–$45 |
-| Gas combination valve (White-Rodgers 36J) | Carrier dealer, HVAC Supply | $90–$200 |
-| Ignition control board (Carrier HK42FZ series) | Carrier OEM dealer | $150–$320 |
+| Part | Where to Buy | Typical Cost | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |-------------|-------------|
+| Draft inducer motor assembly (Carrier OEM #HC21ZE120) | [Carrier dealer, RepairClinic](https://www.amazon.com/s?k=Carrier%20dealer%2C%20RepairClinic&tag=errorcodefixe-20) | $120–$250 |
+| [Pressure switch (Carrier #HK06WC085)](https://www.amazon.com/s?k=Pressure%20switch%20(Carrier%20%23HK06WC085)&tag=errorcodefixe-20) | Johnstone Supply, Grainger | $20–$45 | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Gas combination valve (White-Rodgers 36J) | Carrier dealer, HVAC Supply | [$90–$200](https://www.amazon.com/s?k=%2490%E2%80%93%24200&tag=errorcodefixe-20) |  | Ignition control board (Carrier HK42FZ series) | [Carrier OEM dealer](https://www.amazon.com/s?k=Carrier%20OEM%20dealer&tag=errorcodefixe-20) | $150–$320 |
 
 ## When to Call a Professional
 

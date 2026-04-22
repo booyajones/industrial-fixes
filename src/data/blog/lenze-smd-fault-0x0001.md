@@ -1,4 +1,4 @@
----
+﻿---
 title: "Lenze SMD Fault 0x0001 — Overcurrent"
 description: "Lenze SMD fault 0x0001 means overcurrent on the drive output. Learn the common causes, parameter checks, and repair steps."
 pubDatetime: 2026-04-22T17:00:00Z
@@ -40,9 +40,9 @@ tags:
 
 | Part | Notes |
 |------|-------|
-| VFD-rated motor cable | Replace damaged output cable |
-| Motor | Replace if windings are shorted or grounded |
-| Lenze SMD drive | Replace if output stage is failed |
+| [VFD-rated motor cable](https://www.amazon.com/s?k=VFD-rated%20motor%20cable&tag=errorcodefixe-20) | Replace damaged output cable |
+| [Motor](https://www.amazon.com/s?k=Motor&tag=errorcodefixe-20) | Replace if windings are shorted or grounded |
+| [Lenze SMD drive](https://www.amazon.com/s?k=Lenze%20SMD%20drive&tag=errorcodefixe-20) | Replace if output stage is failed |
 
 ## When to Call a Pro
 

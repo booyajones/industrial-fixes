@@ -1,4 +1,4 @@
----
+﻿---
 title: "Carrier 13 Soft Lockout — What's Different from Hard Lockout"
 description: "Carrier fault code 13 is a soft lockout, not a hard lockout. Learn what triggers it, how it differs from code 31, and how to clear it without a service call."
 pubDatetime: 2026-04-22T18:00:00Z
@@ -19,12 +19,9 @@ Carrier fault code 13 means the furnace has entered a **soft lockout** after det
 
 ## Soft Lockout vs. Hard Lockout
 
-| Feature | Soft Lockout (Code 13) | Hard Lockout (Code 31/33) |
-|---|---|---|
-| Auto-recovery | Yes, after timed delay | No — manual reset required |
-| Cause | Limit switch opened during run | Repeated failures, flame rollout |
-| Danger level | Lower | Higher |
-| Restart needed | Usually automatic | Power cycle or thermostat reset |
+| [Feature](https://www.amazon.com/s?k=Feature&tag=errorcodefixe-20) | Soft Lockout (Code 13) | Hard Lockout (Code 31/33) | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | --- |---|---|
+| Auto-recovery | [Yes, after timed delay](https://www.amazon.com/s?k=Yes%2C%20after%20timed%20delay&tag=errorcodefixe-20) | No — manual reset required |
+| [Cause](https://www.amazon.com/s?k=Cause&tag=errorcodefixe-20) | Limit switch opened during run | Repeated failures, flame rollout | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Danger level | Lower | [Higher](https://www.amazon.com/s?k=Higher&tag=errorcodefixe-20) |  | Restart needed | [Usually automatic](https://www.amazon.com/s?k=Usually%20automatic&tag=errorcodefixe-20) | Power cycle or thermostat reset |
 
 ## What Triggers Code 13
 
@@ -51,12 +48,9 @@ The limit switch opens when the furnace heat exchanger overheats. Common trigger
 
 ## Parts That May Be Needed
 
-| Part | Why | Avg. Cost |
-|---|---|---|
-| Air filter (MERV 8–11) | Primary fix | $10–25 |
-| Limit switch | If switch fails open | $20–50 |
-| Blower motor | If not running properly | $150–400 |
-| IFC board | If it keeps locking out incorrectly | $100–300 |
+| Part | Why | Avg. Cost | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | --- |---|---|
+| Air filter (MERV 8–11) | [Primary fix](https://www.amazon.com/s?k=Primary%20fix&tag=errorcodefixe-20) | $10–25 |
+| [Limit switch](https://www.amazon.com/s?k=Limit%20switch&tag=errorcodefixe-20) | If switch fails open | $20–50 | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Blower motor | If not running properly | [$150–400](https://www.amazon.com/s?k=%24150%E2%80%93400&tag=errorcodefixe-20) |  | IFC board | [If it keeps locking out incorrectly](https://www.amazon.com/s?k=If%20it%20keeps%20locking%20out%20incorrectly&tag=errorcodefixe-20) | $100–300 |
 
 ## When to Call a Pro
 

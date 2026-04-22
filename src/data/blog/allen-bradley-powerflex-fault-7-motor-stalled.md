@@ -1,4 +1,4 @@
----
+﻿---
 title: "Allen-Bradley PowerFlex VFD Fault F7 — Motor Stalled Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-15T08:00:00Z
@@ -49,11 +49,8 @@ PowerFlex drives are among the most common VFDs in industrial applications — c
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Part Number | Typical Cost | Where to Buy |
-|------|------------|-------------|-------------|
-| Replacement PowerFlex 4 Drive (if damaged) | 22A-D2P3N104 (varies by HP) | $350–$900 | Automation Direct / Rockwell dealer |
-| Motor Coupling (if sheared) | Application-specific | $20–$150 | Grainger / McMaster-Carr |
-| Replacement Motor Bearings | Match motor frame size | $15–$80 | Grainger / bearing supply |
+| Part | Part Number | Typical Cost | [Where to Buy](https://www.amazon.com/s?k=Where%20to%20Buy&tag=errorcodefixe-20) |  |------|------------|-------------|-------------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Replacement PowerFlex 4 Drive (if damaged) | 22A-D2P3N104 (varies by HP) | [$350–$900](https://www.amazon.com/s?k=%24350%E2%80%93%24900&tag=errorcodefixe-20) | Automation Direct / Rockwell dealer |
+| [Motor Coupling (if sheared)](https://www.amazon.com/s?k=Motor%20Coupling%20(if%20sheared)&tag=errorcodefixe-20) | Application-specific | $20–$150 | [Grainger / McMaster-Carr](https://www.amazon.com/s?k=Grainger%20%2F%20McMaster-Carr&tag=errorcodefixe-20) |  | Replacement Motor Bearings | [Match motor frame size](https://www.amazon.com/s?k=Match%20motor%20frame%20size&tag=errorcodefixe-20) | $15–$80 | Grainger / bearing supply |
 
 ## When to Call a Professional
 

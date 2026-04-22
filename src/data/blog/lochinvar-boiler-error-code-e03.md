@@ -1,4 +1,4 @@
----
+﻿---
 title: "Lochinvar Boiler Error Code E03 — High Limit Tripped"
 description: "Lochinvar E03 error means the high limit switch opened due to overtemperature. Learn why this happens on Knight and Crest boilers and how to fix it."
 pubDatetime: 2026-04-22T18:00:00Z
@@ -28,15 +28,15 @@ The switch is typically located on the supply outlet of the boiler, mounted in a
 
 ## Why Water Gets Too Hot — Common Causes
 
-| Cause | Explanation |
+| [Cause](https://www.amazon.com/s?k=Cause&tag=errorcodefixe-20) | Explanation |
 |---|---|
-| Setpoint too high | Boiler set to run near limit temp |
-| Blocked heat distribution | Radiators, baseboard, or zone valves closed |
-| Zone valve failure | Zone valve stuck closed, no load |
-| Pump failure | Circulator not moving water through system |
-| Airlock in system | Air pocket preventing water circulation |
-| Sensor miscalibration | Wrong reading, causing boiler to overshoot |
-| Oversized boiler | Too much output for the system's load |
+| [Setpoint too high](https://www.amazon.com/s?k=Setpoint%20too%20high&tag=errorcodefixe-20) | Boiler set to run near limit temp |
+| [Blocked heat distribution](https://www.amazon.com/s?k=Blocked%20heat%20distribution&tag=errorcodefixe-20) | Radiators, baseboard, or zone valves closed |
+| [Zone valve failure](https://www.amazon.com/s?k=Zone%20valve%20failure&tag=errorcodefixe-20) | Zone valve stuck closed, no load |
+| [Pump failure](https://www.amazon.com/s?k=Pump%20failure&tag=errorcodefixe-20) | Circulator not moving water through system |
+| [Airlock in system](https://www.amazon.com/s?k=Airlock%20in%20system&tag=errorcodefixe-20) | Air pocket preventing water circulation |
+| [Sensor miscalibration](https://www.amazon.com/s?k=Sensor%20miscalibration&tag=errorcodefixe-20) | Wrong reading, causing boiler to overshoot |
+| [Oversized boiler](https://www.amazon.com/s?k=Oversized%20boiler&tag=errorcodefixe-20) | Too much output for the system's load |
 
 ## How to Diagnose E03
 
@@ -60,18 +60,18 @@ On Lochinvar Knight boilers: the E03 fault is typically auto-resetting once the 
 
 | Part | Cost |
 |---|---|
-| Circulator pump (Taco 007) | $120–200 |
-| Zone valve (Taco, Honeywell) | $80–150 |
-| High limit switch | $30–80 |
-| Supply temperature sensor | $30–60 |
+| [Circulator pump (Taco 007)](https://www.amazon.com/s?k=Circulator%20pump%20(Taco%20007)&tag=errorcodefixe-20) | $120–200 |
+| [Zone valve (Taco, Honeywell)](https://www.amazon.com/s?k=Zone%20valve%20(Taco%2C%20Honeywell)&tag=errorcodefixe-20) | $80–150 |
+| [High limit switch](https://www.amazon.com/s?k=High%20limit%20switch&tag=errorcodefixe-20) | $30–80 |
+| [Supply temperature sensor](https://www.amazon.com/s?k=Supply%20temperature%20sensor&tag=errorcodefixe-20) | $30–60 |
 
 ## E03 vs. E01 on Lochinvar
 
-| Code | Meaning |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning |
 |---|---|
-| E01 | Ignition failure (no flame) |
-| E02 | Ignition lockout after retries |
-| E03 | High limit tripped (this post) |
-| E04 | Low water pressure fault |
+| [E01](https://www.amazon.com/s?k=E01&tag=errorcodefixe-20) | Ignition failure (no flame) |
+| [E02](https://www.amazon.com/s?k=E02&tag=errorcodefixe-20) | Ignition lockout after retries |
+| [E03](https://www.amazon.com/s?k=E03&tag=errorcodefixe-20) | High limit tripped (this post) |
+| [E04](https://www.amazon.com/s?k=E04&tag=errorcodefixe-20) | Low water pressure fault |
 
 If E03 happens only on very cold days when the boiler is running at full capacity, the boiler may be appropriately sized but the distribution system has too much resistance. A hydronic balancing tech can verify.

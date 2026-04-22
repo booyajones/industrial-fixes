@@ -1,4 +1,4 @@
----
+﻿---
 title: "Siemens G120C VFD Fault Code Guide — Complete Diagnostic Reference"
 description: "Complete guide to Siemens SINAMICS G120C compact VFD fault codes, causes, and step-by-step repair procedures for industrial technicians."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -20,23 +20,23 @@ The Siemens SINAMICS G120C is a compact variable frequency drive in the G120 pro
 
 ## Siemens G120C Common Fault Code Reference
 
-| Fault Code | Description |
+| [Fault Code](https://www.amazon.com/s?k=Fault%20Code&tag=errorcodefixe-20) | Description |
 |---|---|
-| F00001 | Overcurrent — drive output current exceeded limit |
-| F00002 | Overvoltage — DC link voltage too high |
-| F00003 | Undervoltage — DC link voltage too low |
-| F00004 | Drive overtemperature — heatsink temp exceeded |
-| F00005 | Drive I²t overload |
-| F00011 | Motor overtemperature — PTC/NTC sensor |
-| F00021 | Ground fault detected |
-| F00030 | Drive hardware fault |
-| F00051 | EEPROM fault — parameter storage error |
-| F00052 | Power stack fault |
-| F00070 | CB30B communication board fault |
-| F00071 | PROFIBUS/PROFINET communication fault |
-| F00076 | PID feedback sensor fault |
-| F00090 | Encoder fault (where encoder is fitted) |
-| F01003 | Motor phase loss |
+| [F00001](https://www.amazon.com/s?k=F00001&tag=errorcodefixe-20) | Overcurrent — drive output current exceeded limit |
+| [F00002](https://www.amazon.com/s?k=F00002&tag=errorcodefixe-20) | Overvoltage — DC link voltage too high |
+| [F00003](https://www.amazon.com/s?k=F00003&tag=errorcodefixe-20) | Undervoltage — DC link voltage too low |
+| [F00004](https://www.amazon.com/s?k=F00004&tag=errorcodefixe-20) | Drive overtemperature — heatsink temp exceeded |
+| [F00005](https://www.amazon.com/s?k=F00005&tag=errorcodefixe-20) | Drive I²t overload |
+| [F00011](https://www.amazon.com/s?k=F00011&tag=errorcodefixe-20) | Motor overtemperature — PTC/NTC sensor |
+| [F00021](https://www.amazon.com/s?k=F00021&tag=errorcodefixe-20) | Ground fault detected |
+| [F00030](https://www.amazon.com/s?k=F00030&tag=errorcodefixe-20) | Drive hardware fault |
+| [F00051](https://www.amazon.com/s?k=F00051&tag=errorcodefixe-20) | EEPROM fault — parameter storage error |
+| [F00052](https://www.amazon.com/s?k=F00052&tag=errorcodefixe-20) | Power stack fault |
+| [F00070](https://www.amazon.com/s?k=F00070&tag=errorcodefixe-20) | CB30B communication board fault |
+| [F00071](https://www.amazon.com/s?k=F00071&tag=errorcodefixe-20) | PROFIBUS/PROFINET communication fault |
+| [F00076](https://www.amazon.com/s?k=F00076&tag=errorcodefixe-20) | PID feedback sensor fault |
+| [F00090](https://www.amazon.com/s?k=F00090&tag=errorcodefixe-20) | Encoder fault (where encoder is fitted) |
+| [F01003](https://www.amazon.com/s?k=F01003&tag=errorcodefixe-20) | Motor phase loss |
 
 ## Common Causes by Fault
 
@@ -59,11 +59,11 @@ The Siemens SINAMICS G120C is a compact variable frequency drive in the G120 pro
 
 | Part | Notes |
 |---|---|
-| G120C internal cooling fan | Replacement fan for thermal fault prevention |
-| BOP-2 operator panel | For local diagnostics and parameter access |
-| PROFIBUS connector | 9-pin D-sub with built-in EOL resistor |
-| Motor PTC thermistor | For F00011; check PTC resistance (normal: 100–1000 Ω) |
-| Complete G120C drive | For F00030 or F00052 hardware faults |
+| [G120C internal cooling fan](https://www.amazon.com/s?k=G120C%20internal%20cooling%20fan&tag=errorcodefixe-20) | Replacement fan for thermal fault prevention |
+| [BOP-2 operator panel](https://www.amazon.com/s?k=BOP-2%20operator%20panel&tag=errorcodefixe-20) | For local diagnostics and parameter access |
+| [PROFIBUS connector](https://www.amazon.com/s?k=PROFIBUS%20connector&tag=errorcodefixe-20) | 9-pin D-sub with built-in EOL resistor |
+| [Motor PTC thermistor](https://www.amazon.com/s?k=Motor%20PTC%20thermistor&tag=errorcodefixe-20) | For F00011; check PTC resistance (normal: 100–1000 Ω) |
+| [Complete G120C drive](https://www.amazon.com/s?k=Complete%20G120C%20drive&tag=errorcodefixe-20) | For F00030 or F00052 hardware faults |
 
 ## When to Call a Pro
 

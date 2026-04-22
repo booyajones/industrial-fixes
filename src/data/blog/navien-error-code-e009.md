@@ -1,4 +1,4 @@
----
+﻿---
 title: "Navien E009 Error Code — Causes & Fix"
 description: "What Navien error code E009 means, why the heat exchanger overheats, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,10 +36,10 @@ E009 on a Navien tankless water heater or combi-boiler indicates a heat exchange
 
 | Part | Notes |
 |------|-------|
-| Cold water inlet filter screen | Clean with vinegar; replace if corroded |
-| Heat exchanger outlet thermistor | Navien OEM; match NPE or NCB model series |
-| Descaling kit | Vinegar flush clears most mineral scale |
-| Flow sensor | Replace if confirmed not reporting flow during demand |
+| [Cold water inlet filter screen](https://www.amazon.com/s?k=Cold%20water%20inlet%20filter%20screen&tag=errorcodefixe-20) | Clean with vinegar; replace if corroded |
+| [Heat exchanger outlet thermistor](https://www.amazon.com/s?k=Heat%20exchanger%20outlet%20thermistor&tag=errorcodefixe-20) | Navien OEM; match NPE or NCB model series |
+| [Descaling kit](https://www.amazon.com/s?k=Descaling%20kit&tag=errorcodefixe-20) | Vinegar flush clears most mineral scale |
+| [Flow sensor](https://www.amazon.com/s?k=Flow%20sensor&tag=errorcodefixe-20) | Replace if confirmed not reporting flow during demand |
 
 ## When to Call a Pro
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mazak Alarm 600 ATC — Automatic Tool Changer Fault Causes & Fix"
 description: "What Mazak alarm 600 ATC means, why the automatic tool changer faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -39,9 +39,9 @@ Alarm 600 (ATC Alarm) on a Mazak CNC machining center (Nexus, Variaxis, Integrex
 
 | Part | Notes |
 |------|-------|
-| ATC proximity switch | Match the Mazak machine model and switch thread/body size |
-| Retention knob (pull stud) | Must match the spindle taper (CAT40, BT40, HSK-A63, etc.) |
-| ATC pneumatic solenoid valve | Replace if actuator does not respond to commanded position |
+| [ATC proximity switch](https://www.amazon.com/s?k=ATC%20proximity%20switch&tag=errorcodefixe-20) | Match the Mazak machine model and switch thread/body size |
+| [Retention knob (pull stud)](https://www.amazon.com/s?k=Retention%20knob%20(pull%20stud)&tag=errorcodefixe-20) | Must match the spindle taper (CAT40, BT40, HSK-A63, etc.) |
+| [ATC pneumatic solenoid valve](https://www.amazon.com/s?k=ATC%20pneumatic%20solenoid%20valve&tag=errorcodefixe-20) | Replace if actuator does not respond to commanded position |
 
 ## When to Call a Pro
 

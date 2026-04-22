@@ -1,4 +1,4 @@
----
+﻿---
 title: "Danfoss VFD Fault E-Trip — Causes & Fix"
 description: "What Danfoss VFD fault E-Trip means, why an external trip input activates, and how to diagnose and clear it."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -38,9 +38,9 @@ E-Trip on a Danfoss VFD (FC 200, FC 300, VLT series) indicates that an external 
 
 | Part | Notes |
 |------|-------|
-| Motor PTC thermistor | Replace if thermistor has failed short or open |
-| Process switch (pressure/flow/level) | Replace if switch contacts have failed open |
-| Terminal wiring | Re-terminate loose or broken wires at the drive control terminal block |
+| [Motor PTC thermistor](https://www.amazon.com/s?k=Motor%20PTC%20thermistor&tag=errorcodefixe-20) | Replace if thermistor has failed short or open |
+| [Process switch (pressure/flow/level)](https://www.amazon.com/s?k=Process%20switch%20(pressure%2Fflow%2Flevel)&tag=errorcodefixe-20) | Replace if switch contacts have failed open |
+| [Terminal wiring](https://www.amazon.com/s?k=Terminal%20wiring&tag=errorcodefixe-20) | Re-terminate loose or broken wires at the drive control terminal block |
 
 ## When to Call a Pro
 

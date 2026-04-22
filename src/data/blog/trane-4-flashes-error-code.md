@@ -1,4 +1,4 @@
----
+﻿---
 title: "Trane 4 Flashes Error Code — Open High Limit Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-25T08:00:00Z
@@ -47,10 +47,10 @@ If no airflow or mechanical cause is found, have the heat exchanger inspected fo
 
 | Part | Where to Buy |
 |------|-------------|
-| High limit switch | RepairClinic, SupplyHouse |
-| Blower motor run capacitor | Grainger, Amazon |
-| ECM or PSC blower motor | RepairClinic, Grainger |
-| Air filter (replacement) | Amazon, SupplyHouse |
+| [High limit switch](https://www.amazon.com/s?k=High%20limit%20switch&tag=errorcodefixe-20) | RepairClinic, SupplyHouse |
+| [Blower motor run capacitor](https://www.amazon.com/s?k=Blower%20motor%20run%20capacitor&tag=errorcodefixe-20) | Grainger, Amazon |
+| [ECM or PSC blower motor](https://www.amazon.com/s?k=ECM%20or%20PSC%20blower%20motor&tag=errorcodefixe-20) | RepairClinic, Grainger |
+| [Air filter (replacement)](https://www.amazon.com/s?k=Air%20filter%20(replacement)&tag=errorcodefixe-20) | Amazon, SupplyHouse |
 
 ## When to Call a Technician
 

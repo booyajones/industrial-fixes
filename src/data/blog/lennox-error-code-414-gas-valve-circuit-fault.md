@@ -1,4 +1,4 @@
----
+﻿---
 title: "Lennox Error Code 414 — Gas Valve Circuit Fault Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-15T08:00:00Z
@@ -48,11 +48,8 @@ Code 414 is stored in the furnace's fault history and displayed on the diagnosti
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Part Number | Typical Cost | Where to Buy |
-|------|------------|-------------|-------------|
-| Lennox Gas Valve | 1171688 | $140–$165 | Repair Clinic / Lennox dealer |
-| Lennox SureLight Control Board | 51M33 | $220–$275 | Repair Clinic / HVAC distributor |
-| Wiring Harness (if burnt) | Contact Lennox dealer | $40–$80 | Lennox dealer |
+| Part | Part Number | Typical Cost | [Where to Buy](https://www.amazon.com/s?k=Where%20to%20Buy&tag=errorcodefixe-20) |  |------|------------|-------------|-------------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Lennox Gas Valve | 1171688 | [$140–$165](https://www.amazon.com/s?k=%24140%E2%80%93%24165&tag=errorcodefixe-20) | Repair Clinic / Lennox dealer |
+| [Lennox SureLight Control Board](https://www.amazon.com/s?k=Lennox%20SureLight%20Control%20Board&tag=errorcodefixe-20) | 51M33 | $220–$275 | [Repair Clinic / HVAC distributor](https://www.amazon.com/s?k=Repair%20Clinic%20%2F%20HVAC%20distributor&tag=errorcodefixe-20) |  | Wiring Harness (if burnt) | [Contact Lennox dealer](https://www.amazon.com/s?k=Contact%20Lennox%20dealer&tag=errorcodefixe-20) | $40–$80 | Lennox dealer |
 
 ## When to Call a Professional
 

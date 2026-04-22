@@ -1,4 +1,4 @@
----
+﻿---
 title: "Copeland Compressor Error Code 1 — High Pressure Cutout Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-18T08:00:00Z
@@ -52,12 +52,8 @@ High pressure trips are serious. Sustained high discharge pressure overheats the
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Part Number | Typical Cost | Where to Buy |
-|------|------------|-------------|-------------|
-| High pressure switch (400 PSI R-404A) | Ranco 010-1766 | $25–$45 | Grainger / Johnstone Supply |
-| Condenser fan motor (1/4 HP, 208/230V) | Fasco D7909 | $55–$90 | Grainger / Amazon |
-| Fan motor run capacitor | Various (per motor rating) | $8–$20 | Grainger / Amazon |
-| Condenser coil cleaner (commercial) | Nu-Brite or similar | $20–$35 | HVAC distributors |
+| Part | Part Number | Typical Cost | [Where to Buy](https://www.amazon.com/s?k=Where%20to%20Buy&tag=errorcodefixe-20) |  |------|------------|-------------|-------------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | High pressure switch (400 PSI R-404A) | Ranco 010-1766 | [$25–$45](https://www.amazon.com/s?k=%2425%E2%80%93%2445&tag=errorcodefixe-20) | Grainger / Johnstone Supply |
+| [Condenser fan motor (1/4 HP, 208/230V)](https://www.amazon.com/s?k=Condenser%20fan%20motor%20(1%2F4%20HP%2C%20208%2F230V)&tag=errorcodefixe-20) | Fasco D7909 | $55–$90 | [Grainger / Amazon](https://www.amazon.com/s?k=Grainger%20%2F%20Amazon&tag=errorcodefixe-20) |  | Fan motor run capacitor | [Various (per motor rating)](https://www.amazon.com/s?k=Various%20(per%20motor%20rating)&tag=errorcodefixe-20) | $8–$20 | Grainger / Amazon | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Condenser coil cleaner (commercial) | Nu-Brite or similar | [$20–$35](https://www.amazon.com/s?k=%2420%E2%80%93%2435&tag=errorcodefixe-20) | HVAC distributors |
 
 ## When to Call a Professional
 

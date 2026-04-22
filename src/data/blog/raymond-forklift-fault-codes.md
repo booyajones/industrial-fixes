@@ -1,4 +1,4 @@
----
+﻿---
 title: "Raymond Forklift Fault Codes - Complete Guide"
 description: "Raymond forklift fault codes for 7000 series, 8000 series, and Reach-Fork trucks: error codes, causes, and troubleshooting steps."
 pubDatetime: 2026-04-22T20:00:00Z
@@ -16,18 +16,10 @@ tags:
 
 Raymond forklifts (7000 and 8000 series reach trucks, 4000 series order pickers, and SASIS counterbalanced) display fault codes on the Easi-Voice or Integrated Operator System (IOS) display. Codes are read via the Raymond Service Advisor diagnostic tool.
 
-| Code Range | System | Meaning | Quick Fix |
-|-----------|--------|---------|-----------|
-| 100-199 | Drive | Drive motor/controller fault | Check motor and controller |
-| 200-299 | Pump | Hydraulic pump fault | Check pump motor and controller |
-| 300-399 | Steer | Steer system fault | Check motor and feedback |
-| 400-499 | Brake | Brake system fault | Check brake coil and switches |
-| 500-599 | Battery | Battery/charger fault | Charge battery, check cells |
-| 600-699 | I/O | Sensor or switch fault | Check wiring and sensors |
-| 700-799 | Display | Display/communication fault | Check display and harness |
-| 800-899 | System | Main controller fault | Connect Service Advisor |
-| 900-999 | Safety | Safety system fault | Safety-critical - call service |
-| 000 | Clear | No active faults | Normal operation |
+| [Code Range](https://www.amazon.com/s?k=Code%20Range&tag=errorcodefixe-20) | System | Meaning | [Quick Fix](https://www.amazon.com/s?k=Quick%20Fix&tag=errorcodefixe-20) |  |-----------|--------|---------|-----------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 100-199 | Drive | [Drive motor/controller fault](https://www.amazon.com/s?k=Drive%20motor%2Fcontroller%20fault&tag=errorcodefixe-20) | Check motor and controller |
+| [200-299](https://www.amazon.com/s?k=200-299&tag=errorcodefixe-20) | Pump | Hydraulic pump fault | [Check pump motor and controller](https://www.amazon.com/s?k=Check%20pump%20motor%20and%20controller&tag=errorcodefixe-20) |  | 300-399 | [Steer](https://www.amazon.com/s?k=Steer&tag=errorcodefixe-20) | Steer system fault | Check motor and feedback | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 400-499 | Brake | [Brake system fault](https://www.amazon.com/s?k=Brake%20system%20fault&tag=errorcodefixe-20) | Check brake coil and switches |
+| [500-599](https://www.amazon.com/s?k=500-599&tag=errorcodefixe-20) | Battery | Battery/charger fault | [Charge battery, check cells](https://www.amazon.com/s?k=Charge%20battery%2C%20check%20cells&tag=errorcodefixe-20) |  | 600-699 | [I/O](https://www.amazon.com/s?k=I%2FO&tag=errorcodefixe-20) | Sensor or switch fault | Check wiring and sensors | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 700-799 | Display | [Display/communication fault](https://www.amazon.com/s?k=Display%2Fcommunication%20fault&tag=errorcodefixe-20) | Check display and harness |
+| [800-899](https://www.amazon.com/s?k=800-899&tag=errorcodefixe-20) | System | Main controller fault | [Connect Service Advisor](https://www.amazon.com/s?k=Connect%20Service%20Advisor&tag=errorcodefixe-20) |  | 900-999 | [Safety](https://www.amazon.com/s?k=Safety&tag=errorcodefixe-20) | Safety system fault | Safety-critical - call service | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 000 | Clear | [No active faults](https://www.amazon.com/s?k=No%20active%20faults&tag=errorcodefixe-20) | Normal operation |
 
 ## Most Common Faults
 
@@ -47,11 +39,11 @@ Safety faults on Raymond forklifts include unintended movement detection and ope
 
 | Part | Notes |
 |------|-------|
-| Drive motor encoder | Replace on 105 fault |
-| Operator presence switch | Replace on 601 fault |
-| Brake coil | Replace on brake fault |
-| Battery connector | Replace on 505 fault |
-| Drive controller | Replace on persistent 100-series fault |
+| [Drive motor encoder](https://www.amazon.com/s?k=Drive%20motor%20encoder&tag=errorcodefixe-20) | Replace on 105 fault |
+| [Operator presence switch](https://www.amazon.com/s?k=Operator%20presence%20switch&tag=errorcodefixe-20) | Replace on 601 fault |
+| [Brake coil](https://www.amazon.com/s?k=Brake%20coil&tag=errorcodefixe-20) | Replace on brake fault |
+| [Battery connector](https://www.amazon.com/s?k=Battery%20connector&tag=errorcodefixe-20) | Replace on 505 fault |
+| [Drive controller](https://www.amazon.com/s?k=Drive%20controller&tag=errorcodefixe-20) | Replace on persistent 100-series fault |
 
 ## When to Call a Pro
 Raymond's Service Advisor tool and calibration procedures are dealer-only. Safety system faults (900-series) must be investigated and cleared by Raymond-authorized service.

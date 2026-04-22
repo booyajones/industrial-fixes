@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hoshizaki E6 Error Code — Causes & Fix"
 description: "What Hoshizaki ice machine error code E6 means, why the refrigerant circuit faults, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,10 +36,10 @@ Error code E6 on a Hoshizaki ice machine (KM, KMD, FS, DCM, AM series) indicates
 
 | Part | Notes |
 |------|-------|
-| Hot gas solenoid valve | Hoshizaki OEM; match model and coil voltage |
-| Harvest thermistor | Match KM or FS series connector |
-| Condenser coil cleaner | Nu-Calgon Coil-Aid or equivalent |
-| Refrigerant (R-404A or R-448A) | Licensed tech required for handling |
+| [Hot gas solenoid valve](https://www.amazon.com/s?k=Hot%20gas%20solenoid%20valve&tag=errorcodefixe-20) | Hoshizaki OEM; match model and coil voltage |
+| [Harvest thermistor](https://www.amazon.com/s?k=Harvest%20thermistor&tag=errorcodefixe-20) | Match KM or FS series connector |
+| [Condenser coil cleaner](https://www.amazon.com/s?k=Condenser%20coil%20cleaner&tag=errorcodefixe-20) | Nu-Calgon Coil-Aid or equivalent |
+| [Refrigerant (R-404A or R-448A)](https://www.amazon.com/s?k=Refrigerant%20(R-404A%20or%20R-448A)&tag=errorcodefixe-20) | Licensed tech required for handling |
 
 ## When to Call a Pro
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Heatcraft Refrigeration Alarm 3 — High Discharge Temperature"
 description: "What Heatcraft Refrigeration Alarm 3 means, why discharge temperature goes high, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -39,11 +39,11 @@ On Heatcraft condensing units and remote condensers (Larkin, Bohn, Climate Contr
 
 | Part | Notes |
 |------|-------|
-| Filter drier | Replace whenever the refrigerant circuit is opened; replace proactively if frosted |
-| Condenser fan motor | Match HP, voltage, and RPM from motor nameplate |
-| Condenser fan capacitor | Test before replacing motor |
-| TXV (thermostatic expansion valve) | Replace if superheat is uncontrollable and drier/charge are correct |
-| Discharge temperature sensor | Replace if Alarm 3 triggers at normal discharge temps (sensor fault) |
+| [Filter drier](https://www.amazon.com/s?k=Filter%20drier&tag=errorcodefixe-20) | Replace whenever the refrigerant circuit is opened; replace proactively if frosted |
+| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | Match HP, voltage, and RPM from motor nameplate |
+| [Condenser fan capacitor](https://www.amazon.com/s?k=Condenser%20fan%20capacitor&tag=errorcodefixe-20) | Test before replacing motor |
+| [TXV (thermostatic expansion valve)](https://www.amazon.com/s?k=TXV%20(thermostatic%20expansion%20valve)&tag=errorcodefixe-20) | Replace if superheat is uncontrollable and drier/charge are correct |
+| [Discharge temperature sensor](https://www.amazon.com/s?k=Discharge%20temperature%20sensor&tag=errorcodefixe-20) | Replace if Alarm 3 triggers at normal discharge temps (sensor fault) |
 
 ## When to Call a Pro
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mitsubishi PUY Air Handler Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Mitsubishi PUY series air handler error codes, what each fault means, and step-by-step troubleshooting for the most common failures."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -20,21 +20,21 @@ The Mitsubishi PUY (Power Unit, Y-series) is a ducted air handler designed to wo
 
 ## Mitsubishi PUY Common Error Codes
 
-| Code | Meaning |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning |
 |------|---------|
-| E0 | Remote controller communication error |
-| E1 | Indoor PCB fault |
-| E3 | Fan motor error |
-| E4 | Drain sensor error or drain overflow |
-| E6 | Transmission error (indoor-outdoor) |
-| E9 | EEV (electronic expansion valve) error |
-| P1 | Intake air temperature sensor fault |
-| P2 | Pipe temperature sensor fault |
-| P4 | Drain full or sensor fault |
-| P6 | Freeze protection or overload protection |
-| P8 | High-temperature protection |
-| P9 | High-temperature pipe protection |
-| U6 | Compressor overcurrent or system protection |
+| [E0](https://www.amazon.com/s?k=E0&tag=errorcodefixe-20) | Remote controller communication error |
+| [E1](https://www.amazon.com/s?k=E1&tag=errorcodefixe-20) | Indoor PCB fault |
+| [E3](https://www.amazon.com/s?k=E3&tag=errorcodefixe-20) | Fan motor error |
+| [E4](https://www.amazon.com/s?k=E4&tag=errorcodefixe-20) | Drain sensor error or drain overflow |
+| [E6](https://www.amazon.com/s?k=E6&tag=errorcodefixe-20) | Transmission error (indoor-outdoor) |
+| [E9](https://www.amazon.com/s?k=E9&tag=errorcodefixe-20) | EEV (electronic expansion valve) error |
+| [P1](https://www.amazon.com/s?k=P1&tag=errorcodefixe-20) | Intake air temperature sensor fault |
+| [P2](https://www.amazon.com/s?k=P2&tag=errorcodefixe-20) | Pipe temperature sensor fault |
+| [P4](https://www.amazon.com/s?k=P4&tag=errorcodefixe-20) | Drain full or sensor fault |
+| [P6](https://www.amazon.com/s?k=P6&tag=errorcodefixe-20) | Freeze protection or overload protection |
+| [P8](https://www.amazon.com/s?k=P8&tag=errorcodefixe-20) | High-temperature protection |
+| [P9](https://www.amazon.com/s?k=P9&tag=errorcodefixe-20) | High-temperature pipe protection |
+| [U6](https://www.amazon.com/s?k=U6&tag=errorcodefixe-20) | Compressor overcurrent or system protection |
 
 ## Common Causes by Code
 
@@ -60,12 +60,12 @@ The Mitsubishi PUY (Power Unit, Y-series) is a ducted air handler designed to wo
 
 | Part | Notes |
 |------|-------|
-| EEV coil | Removable; replace before refrigerant work |
-| Wired remote controller | Test swap to isolate E0 |
-| Drain float switch | Check continuity; replace if stuck |
-| Indoor PCB | For E1 or persistent unexplained faults |
-| DC fan motor | For E3 with confirmed mechanical fault |
-| Transmission cable | Two-wire; replace entire run if damaged |
+| [EEV coil](https://www.amazon.com/s?k=EEV%20coil&tag=errorcodefixe-20) | Removable; replace before refrigerant work |
+| [Wired remote controller](https://www.amazon.com/s?k=Wired%20remote%20controller&tag=errorcodefixe-20) | Test swap to isolate E0 |
+| [Drain float switch](https://www.amazon.com/s?k=Drain%20float%20switch&tag=errorcodefixe-20) | Check continuity; replace if stuck |
+| [Indoor PCB](https://www.amazon.com/s?k=Indoor%20PCB&tag=errorcodefixe-20) | For E1 or persistent unexplained faults |
+| [DC fan motor](https://www.amazon.com/s?k=DC%20fan%20motor&tag=errorcodefixe-20) | For E3 with confirmed mechanical fault |
+| [Transmission cable](https://www.amazon.com/s?k=Transmission%20cable&tag=errorcodefixe-20) | Two-wire; replace entire run if damaged |
 
 ## When to Call a Pro
 

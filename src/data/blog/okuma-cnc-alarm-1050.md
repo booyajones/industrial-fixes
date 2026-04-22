@@ -1,4 +1,4 @@
----
+﻿---
 title: "Okuma CNC Alarm 1050 — Causes & Fix"
 description: "What Okuma CNC alarm 1050 means, why the servo alarm trips, and how to diagnose and fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,10 +36,10 @@ Alarm 1050 on an Okuma CNC (OSP-P300, OSP-P200, OSP-P100 series — Multus, GENO
 
 | Part | Notes |
 |------|-------|
-| Okuma servo drive | OEM; must match machine model and axis rating |
-| Okuma OSE encoder | OEM position encoder; requires axis setup after replacement |
-| Encoder/resolver cable | Replace if insulation or shield is damaged |
-| Servo motor | Replace if winding insulation fails Megger test |
+| [Okuma servo drive](https://www.amazon.com/s?k=Okuma%20servo%20drive&tag=errorcodefixe-20) | OEM; must match machine model and axis rating |
+| [Okuma OSE encoder](https://www.amazon.com/s?k=Okuma%20OSE%20encoder&tag=errorcodefixe-20) | OEM position encoder; requires axis setup after replacement |
+| [Encoder/resolver cable](https://www.amazon.com/s?k=Encoder%2Fresolver%20cable&tag=errorcodefixe-20) | Replace if insulation or shield is damaged |
+| [Servo motor](https://www.amazon.com/s?k=Servo%20motor&tag=errorcodefixe-20) | Replace if winding insulation fails Megger test |
 
 ## When to Call a Pro
 

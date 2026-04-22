@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mitsubishi P8 Error Code — Causes & Fix"
 description: "What Mitsubishi mini-split P8 means, why the compressor faults, and how to diagnose and fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -37,10 +37,10 @@ P8 on a Mitsubishi mini-split system indicates a compressor fault — specifical
 
 | Part | Notes |
 |------|-------|
-| IPM (Intelligent Power Module) | Mitsubishi OEM; match outdoor unit model exactly |
-| Outdoor unit main control board | Often bundled with IPM on smaller units |
-| Compressor | Major repair; compare to new system cost for older units |
-| Refrigerant (R-410A or R-32) | Requires licensed tech for handling |
+| [IPM (Intelligent Power Module)](https://www.amazon.com/s?k=IPM%20(Intelligent%20Power%20Module)&tag=errorcodefixe-20) | Mitsubishi OEM; match outdoor unit model exactly |
+| [Outdoor unit main control board](https://www.amazon.com/s?k=Outdoor%20unit%20main%20control%20board&tag=errorcodefixe-20) | Often bundled with IPM on smaller units |
+| [Compressor](https://www.amazon.com/s?k=Compressor&tag=errorcodefixe-20) | Major repair; compare to new system cost for older units |
+| [Refrigerant (R-410A or R-32)](https://www.amazon.com/s?k=Refrigerant%20(R-410A%20or%20R-32)&tag=errorcodefixe-20) | Requires licensed tech for handling |
 
 ## When to Call a Pro
 

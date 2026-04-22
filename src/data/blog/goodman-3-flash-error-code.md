@@ -1,4 +1,4 @@
----
+﻿---
 title: "Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-11T08:00:00Z
@@ -49,12 +49,8 @@ The pressure switch is a safety device that verifies the inducer motor is genera
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Part Number | Typical Cost | Where to Buy |
-|------|------------|-------------|-------------|
-| Pressure switch | B1370112 | $30–$45 | Repair Clinic / Amazon |
-| Inducer motor capacitor | B175-1068 | $8–$15 | Repair Clinic / Amazon |
-| Inducer motor assembly | B1859005 | $120–$180 | HVAC Parts / Repair Clinic |
-| Condensate drain trap | B1787419 | $12–$20 | Repair Clinic |
+| Part | Part Number | Typical Cost | [Where to Buy](https://www.amazon.com/s?k=Where%20to%20Buy&tag=errorcodefixe-20) |  |------|------------|-------------|-------------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Pressure switch | B1370112 | [$30–$45](https://www.amazon.com/s?k=%2430%E2%80%93%2445&tag=errorcodefixe-20) | Repair Clinic / Amazon |
+| [Inducer motor capacitor](https://www.amazon.com/s?k=Inducer%20motor%20capacitor&tag=errorcodefixe-20) | B175-1068 | $8–$15 | [Repair Clinic / Amazon](https://www.amazon.com/s?k=Repair%20Clinic%20%2F%20Amazon&tag=errorcodefixe-20) |  | Inducer motor assembly | [B1859005](https://www.amazon.com/s?k=B1859005&tag=errorcodefixe-20) | $120–$180 | HVAC Parts / Repair Clinic | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Condensate drain trap | B1787419 | [$12–$20](https://www.amazon.com/s?k=%2412%E2%80%93%2420&tag=errorcodefixe-20) | Repair Clinic |
 
 ## When to Call a Professional
 

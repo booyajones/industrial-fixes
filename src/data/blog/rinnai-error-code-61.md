@@ -1,4 +1,4 @@
----
+﻿---
 title: "Rinnai Error Code 61 — Causes & Fix"
 description: "What Rinnai error code 61 means, why the combustion fan faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -37,9 +37,9 @@ Rinnai error code 61 indicates a **combustion fan (inducer) fault** — the unit
 
 | Part | Notes |
 |------|-------|
-| Combustion fan assembly | Rinnai model-specific; do not substitute — RPM and CFM specs must match |
-| Hall sensor (if separate) | On some models the Hall sensor is replaceable independent of the motor |
-| PCB (main control board) | Only if fan supply voltage is confirmed absent at the board output |
+| [Combustion fan assembly](https://www.amazon.com/s?k=Combustion%20fan%20assembly&tag=errorcodefixe-20) | Rinnai model-specific; do not substitute — RPM and CFM specs must match |
+| [Hall sensor (if separate)](https://www.amazon.com/s?k=Hall%20sensor%20(if%20separate)&tag=errorcodefixe-20) | On some models the Hall sensor is replaceable independent of the motor |
+| [PCB (main control board)](https://www.amazon.com/s?k=PCB%20(main%20control%20board)&tag=errorcodefixe-20) | Only if fan supply voltage is confirmed absent at the board output |
 
 ## When to Call a Pro
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Samsung Mini-Split E3-01 Error Code — Causes & Fix"
 description: "What Samsung mini-split E3-01 error code means, why the indoor fan motor faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -37,9 +37,9 @@ The Samsung E3-01 error code indicates an **indoor fan motor fault** — the ind
 
 | Part | Notes |
 |------|-------|
-| Indoor BLDC fan motor | Samsung model-specific; verify by model number |
-| Indoor PCB | If fan driver confirmed failed |
-| Evaporator fan cleaner (coil cleaner) | Prevents recurrence; clean annually |
+| [Indoor BLDC fan motor](https://www.amazon.com/s?k=Indoor%20BLDC%20fan%20motor&tag=errorcodefixe-20) | Samsung model-specific; verify by model number |
+| [Indoor PCB](https://www.amazon.com/s?k=Indoor%20PCB&tag=errorcodefixe-20) | If fan driver confirmed failed |
+| [Evaporator fan cleaner (coil cleaner)](https://www.amazon.com/s?k=Evaporator%20fan%20cleaner%20(coil%20cleaner)&tag=errorcodefixe-20) | Prevents recurrence; clean annually |
 
 ## When to Call a Pro
 

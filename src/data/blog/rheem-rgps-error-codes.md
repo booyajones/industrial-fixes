@@ -1,4 +1,4 @@
----
+﻿---
 title: "Rheem RGPS Furnace Error Codes — Flash Code Diagnostic Guide"
 description: "Complete guide to Rheem RGPS series furnace error codes and flash sequences, covering pressure switch, ignition, limit, and rollout faults with step-by-step fixes."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -20,20 +20,20 @@ The Rheem RGPS is a high-efficiency (96% AFUE) single-stage gas furnace in the C
 
 ## Rheem RGPS Flash Code Reference
 
-| Flash Code | Meaning |
+| [Flash Code](https://www.amazon.com/s?k=Flash%20Code&tag=errorcodefixe-20) | Meaning |
 |------------|---------|
-| 2 flashes | Lockout — failed ignition (3 attempts) |
-| 3 flashes | Pressure switch fault |
-| 4 flashes | Open high-limit switch |
-| 5 flashes | Flame sensed — gas valve not energized |
-| 6 flashes | Rollout switch open |
-| 7 flashes | Limit cycle lockout (excessive trips) |
-| 8 flashes | Low flame signal / dirty flame sensor |
-| 9 flashes | Reversed AC power polarity |
-| 10 flashes | Low-fire pressure switch fault (two-stage) |
-| 11 flashes | Auxiliary limit or secondary limit fault |
-| 12 flashes | Gas valve relay fault |
-| 13 flashes | Inducer failed to reach speed |
+| [2 flashes](https://www.amazon.com/s?k=2%20flashes&tag=errorcodefixe-20) | Lockout — failed ignition (3 attempts) |
+| [3 flashes](https://www.amazon.com/s?k=3%20flashes&tag=errorcodefixe-20) | Pressure switch fault |
+| [4 flashes](https://www.amazon.com/s?k=4%20flashes&tag=errorcodefixe-20) | Open high-limit switch |
+| [5 flashes](https://www.amazon.com/s?k=5%20flashes&tag=errorcodefixe-20) | Flame sensed — gas valve not energized |
+| [6 flashes](https://www.amazon.com/s?k=6%20flashes&tag=errorcodefixe-20) | Rollout switch open |
+| [7 flashes](https://www.amazon.com/s?k=7%20flashes&tag=errorcodefixe-20) | Limit cycle lockout (excessive trips) |
+| [8 flashes](https://www.amazon.com/s?k=8%20flashes&tag=errorcodefixe-20) | Low flame signal / dirty flame sensor |
+| [9 flashes](https://www.amazon.com/s?k=9%20flashes&tag=errorcodefixe-20) | Reversed AC power polarity |
+| [10 flashes](https://www.amazon.com/s?k=10%20flashes&tag=errorcodefixe-20) | Low-fire pressure switch fault (two-stage) |
+| [11 flashes](https://www.amazon.com/s?k=11%20flashes&tag=errorcodefixe-20) | Auxiliary limit or secondary limit fault |
+| [12 flashes](https://www.amazon.com/s?k=12%20flashes&tag=errorcodefixe-20) | Gas valve relay fault |
+| [13 flashes](https://www.amazon.com/s?k=13%20flashes&tag=errorcodefixe-20) | Inducer failed to reach speed |
 
 ## Common Causes by Code
 
@@ -58,12 +58,12 @@ The Rheem RGPS is a high-efficiency (96% AFUE) single-stage gas furnace in the C
 
 | Part | Notes |
 |------|-------|
-| Hot surface ignitor | 120V silicon nitride; Rheem-specific part |
-| Condensate trap | Inside cabinet; replace if cracked or heavily scaled |
-| Pressure switch | Two on two-stage RGPS; confirm part numbers |
-| Flame sensor | Clean first; replace if damaged |
-| Inducer motor assembly | With mounting plate; common on older RGPS |
-| Auxiliary limit switch | Located on secondary heat exchanger |
+| [Hot surface ignitor](https://www.amazon.com/s?k=Hot%20surface%20ignitor&tag=errorcodefixe-20) | 120V silicon nitride; Rheem-specific part |
+| [Condensate trap](https://www.amazon.com/s?k=Condensate%20trap&tag=errorcodefixe-20) | Inside cabinet; replace if cracked or heavily scaled |
+| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Two on two-stage RGPS; confirm part numbers |
+| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | Clean first; replace if damaged |
+| [Inducer motor assembly](https://www.amazon.com/s?k=Inducer%20motor%20assembly&tag=errorcodefixe-20) | With mounting plate; common on older RGPS |
+| [Auxiliary limit switch](https://www.amazon.com/s?k=Auxiliary%20limit%20switch&tag=errorcodefixe-20) | Located on secondary heat exchanger |
 
 ## When to Call a Pro
 

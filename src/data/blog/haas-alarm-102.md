@@ -1,4 +1,4 @@
----
+﻿---
 title: "Haas Alarm 102 — Servo Drive Fault Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-04-10T08:00:00Z
@@ -48,9 +48,9 @@ For an encoder issue: inspect the encoder cable and connector first. If the cabl
 
 | Part | Where to Buy |
 |------|-------------|
-| Servo motor coupler | Grainger, Amazon |
-| Servo amplifier / drive | Grainger (call for Haas-compatible) |
-| Encoder cable assembly | Contact Haas service |
+| [Servo motor coupler](https://www.amazon.com/s?k=Servo%20motor%20coupler&tag=errorcodefixe-20) | Grainger, Amazon |
+| [Servo amplifier / drive](https://www.amazon.com/s?k=Servo%20amplifier%20%2F%20drive&tag=errorcodefixe-20) | Grainger (call for Haas-compatible) |
+| [Encoder cable assembly](https://www.amazon.com/s?k=Encoder%20cable%20assembly&tag=errorcodefixe-20) | Contact Haas service |
 
 ## When to Call a Technician
 

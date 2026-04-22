@@ -1,4 +1,4 @@
----
+﻿---
 title: "Daikin VRV E7 Error Code — Causes & Fix"
 description: "What Daikin VRV/VRF E7 fan motor fault means, why it trips, and how to diagnose and fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,9 +36,9 @@ The Daikin VRV/VRF **E7 error code** indicates a **fan motor fault** — the out
 
 | Part | Notes |
 |------|-------|
-| Outdoor fan motor | Confirm exact replacement by model number; Daikin VRV fan motors are inverter-duty rated |
-| Fan propeller/blade assembly | Replace if any blade is cracked or deformed |
-| Outdoor PCB (fan inverter board) | Replace when PCB shows burn damage or motor tests good but E7 persists |
+| [Outdoor fan motor](https://www.amazon.com/s?k=Outdoor%20fan%20motor&tag=errorcodefixe-20) | Confirm exact replacement by model number; Daikin VRV fan motors are inverter-duty rated |
+| [Fan propeller/blade assembly](https://www.amazon.com/s?k=Fan%20propeller%2Fblade%20assembly&tag=errorcodefixe-20) | Replace if any blade is cracked or deformed |
+| [Outdoor PCB (fan inverter board)](https://www.amazon.com/s?k=Outdoor%20PCB%20(fan%20inverter%20board)&tag=errorcodefixe-20) | Replace when PCB shows burn damage or motor tests good but E7 persists |
 
 ## When to Call a Pro
 

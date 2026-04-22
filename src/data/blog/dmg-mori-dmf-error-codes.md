@@ -1,4 +1,4 @@
----
+﻿---
 title: "DMG Mori DMF Series Fault Codes — Common Alarms and Fixes"
 description: "Complete guide to common DMG Mori DMF series fault codes, including spindle, servo, lubrication, and control alarms with practical troubleshooting steps."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -20,14 +20,14 @@ DMG Mori DMF series machines are high-end 5-axis or multi-axis machining centers
 
 ## Common DMF Alarm Groups
 
-| Code | Meaning |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning |
 |------|---------|
-| Servo / axis | Axis following, overload, or encoder fault |
-| Spindle | Spindle drive, orientation, or cooling alarm |
-| Lube | Central lubrication low pressure / low level |
-| Hydraulic | Clamp or pressure alarm |
-| ATC | Tool magazine or changer alarm |
-| Control | PLC / NC communication or software fault |
+| [Servo / axis](https://www.amazon.com/s?k=Servo%20%2F%20axis&tag=errorcodefixe-20) | Axis following, overload, or encoder fault |
+| [Spindle](https://www.amazon.com/s?k=Spindle&tag=errorcodefixe-20) | Spindle drive, orientation, or cooling alarm |
+| [Lube](https://www.amazon.com/s?k=Lube&tag=errorcodefixe-20) | Central lubrication low pressure / low level |
+| [Hydraulic](https://www.amazon.com/s?k=Hydraulic&tag=errorcodefixe-20) | Clamp or pressure alarm |
+| [ATC](https://www.amazon.com/s?k=ATC&tag=errorcodefixe-20) | Tool magazine or changer alarm |
+| [Control](https://www.amazon.com/s?k=Control&tag=errorcodefixe-20) | PLC / NC communication or software fault |
 
 ## Common Causes by Code
 
@@ -51,12 +51,12 @@ DMG Mori DMF series machines are high-end 5-axis or multi-axis machining centers
 
 | Part | Notes |
 |------|-------|
-| Lube pump parts | A common early failure point |
-| Chiller service kit | Spindle alarms often start here |
-| Prox sensors | ATC and position feedback faults |
-| Hydraulic filters | Cheap compared with the faults they prevent |
-| Encoder cables | Intermittent axis faults on aging machines |
-| Battery / backup parts | For control memory and PLC issues |
+| [Lube pump parts](https://www.amazon.com/s?k=Lube%20pump%20parts&tag=errorcodefixe-20) | A common early failure point |
+| [Chiller service kit](https://www.amazon.com/s?k=Chiller%20service%20kit&tag=errorcodefixe-20) | Spindle alarms often start here |
+| [Prox sensors](https://www.amazon.com/s?k=Prox%20sensors&tag=errorcodefixe-20) | ATC and position feedback faults |
+| [Hydraulic filters](https://www.amazon.com/s?k=Hydraulic%20filters&tag=errorcodefixe-20) | Cheap compared with the faults they prevent |
+| [Encoder cables](https://www.amazon.com/s?k=Encoder%20cables&tag=errorcodefixe-20) | Intermittent axis faults on aging machines |
+| [Battery / backup parts](https://www.amazon.com/s?k=Battery%20%2F%20backup%20parts&tag=errorcodefixe-20) | For control memory and PLC issues |
 
 ## When to Call a Pro
 

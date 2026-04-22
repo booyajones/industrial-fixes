@@ -1,4 +1,4 @@
----
+﻿---
 title: "Weil-McLain E06 Error Code — Ignition Lockout"
 description: "Weil-McLain E06 means the boiler failed to establish flame after multiple ignition attempts and entered lockout. Here's how to diagnose and reset it."
 pubDatetime: 2026-04-22T18:00:00Z
@@ -33,14 +33,14 @@ Failure at any step causes E06 after retries.
 
 ## Most Common E06 Causes
 
-| Cause | What to Check |
+| [Cause](https://www.amazon.com/s?k=Cause&tag=errorcodefixe-20) | What to Check |
 |---|---|
-| No gas supply | Gas valve at boiler, main shutoff, utility supply |
-| Dirty flame sensor | Rod coated with oxide — clean with emery cloth |
-| Failed igniter | Cracked or weak hot surface igniter |
-| Failed gas valve | Valve not opening on command |
-| Draft pressure fault | Blocked flue, failed inducer, blocked condensate |
-| Fuel pressure too low | Check gas pressure at manifold (3.5" WC natural gas) |
+| [No gas supply](https://www.amazon.com/s?k=No%20gas%20supply&tag=errorcodefixe-20) | Gas valve at boiler, main shutoff, utility supply |
+| [Dirty flame sensor](https://www.amazon.com/s?k=Dirty%20flame%20sensor&tag=errorcodefixe-20) | Rod coated with oxide — clean with emery cloth |
+| [Failed igniter](https://www.amazon.com/s?k=Failed%20igniter&tag=errorcodefixe-20) | Cracked or weak hot surface igniter |
+| [Failed gas valve](https://www.amazon.com/s?k=Failed%20gas%20valve&tag=errorcodefixe-20) | Valve not opening on command |
+| [Draft pressure fault](https://www.amazon.com/s?k=Draft%20pressure%20fault&tag=errorcodefixe-20) | Blocked flue, failed inducer, blocked condensate |
+| [Fuel pressure too low](https://www.amazon.com/s?k=Fuel%20pressure%20too%20low&tag=errorcodefixe-20) | Check gas pressure at manifold (3.5" WC natural gas) |
 
 ## How to Reset E06
 
@@ -70,11 +70,11 @@ The boiler will immediately attempt a new ignition sequence. Watch and listen:
 
 | Part | Cost |
 |---|---|
-| Flame sensor rod | $15–35 |
-| Hot surface igniter | $30–70 |
-| Gas valve | $150–350 |
-| Condensate trap | $15–30 |
-| Control board | $200–500 |
+| [Flame sensor rod](https://www.amazon.com/s?k=Flame%20sensor%20rod&tag=errorcodefixe-20) | $15–35 |
+| [Hot surface igniter](https://www.amazon.com/s?k=Hot%20surface%20igniter&tag=errorcodefixe-20) | $30–70 |
+| [Gas valve](https://www.amazon.com/s?k=Gas%20valve&tag=errorcodefixe-20) | $150–350 |
+| [Condensate trap](https://www.amazon.com/s?k=Condensate%20trap&tag=errorcodefixe-20) | $15–30 |
+| [Control board](https://www.amazon.com/s?k=Control%20board&tag=errorcodefixe-20) | $200–500 |
 
 ## E06 vs. E02
 

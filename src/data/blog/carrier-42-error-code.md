@@ -1,4 +1,4 @@
----
+﻿---
 title: "Carrier 42 Error Code — Causes & Fix"
 description: "What Carrier error code 42 means, why the inducer motor faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -36,9 +36,9 @@ Carrier code 42 is an **inducer motor fault** — the control board fired the in
 
 | Part | Notes |
 |------|-------|
-| Inducer motor assembly | Match HP and RPM to model; Carrier OEM or aftermarket (Fasco, Rotom) |
-| Draft pressure switch | Single or dual-port; verify cracking pressure spec on the label |
-| Pressure switch hose | Standard 3/16" or 1/4" silicone tubing |
+| [Inducer motor assembly](https://www.amazon.com/s?k=Inducer%20motor%20assembly&tag=errorcodefixe-20) | Match HP and RPM to model; Carrier OEM or aftermarket (Fasco, Rotom) |
+| [Draft pressure switch](https://www.amazon.com/s?k=Draft%20pressure%20switch&tag=errorcodefixe-20) | Single or dual-port; verify cracking pressure spec on the label |
+| [Pressure switch hose](https://www.amazon.com/s?k=Pressure%20switch%20hose&tag=errorcodefixe-20) | Standard 3/16" or 1/4" silicone tubing |
 
 ## When to Call a Pro
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hoshizaki F01 Error Code — Causes & Fix"
 description: "What Hoshizaki F01 error code means, why abnormal ice making operation triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -37,9 +37,9 @@ Hoshizaki F01 indicates **abnormal ice making operation** — the machine starte
 
 | Part | Notes |
 |------|-------|
-| Hoshizaki scale remover (nickel-safe) | Hoshizaki brand or equivalent — do not use acid-based cleaners on nickel evaporators |
-| Condenser coil cleaner | Commercial HVAC coil cleaner, non-acidic |
-| Water filter cartridge | Reduces scale buildup in hard-water areas |
+| [Hoshizaki scale remover (nickel-safe)](https://www.amazon.com/s?k=Hoshizaki%20scale%20remover%20(nickel-safe)&tag=errorcodefixe-20) | Hoshizaki brand or equivalent — do not use acid-based cleaners on nickel evaporators |
+| [Condenser coil cleaner](https://www.amazon.com/s?k=Condenser%20coil%20cleaner&tag=errorcodefixe-20) | Commercial HVAC coil cleaner, non-acidic |
+| [Water filter cartridge](https://www.amazon.com/s?k=Water%20filter%20cartridge&tag=errorcodefixe-20) | Reduces scale buildup in hard-water areas |
 
 ## When to Call a Pro
 

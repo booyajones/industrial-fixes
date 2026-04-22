@@ -1,4 +1,4 @@
----
+﻿---
 title: "Allen-Bradley PowerFlex Fault F004 — Causes & Fix"
 description: "What Allen-Bradley PowerFlex fault F004 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,9 +36,9 @@ Allen-Bradley PowerFlex fault F004 is a DC bus undervoltage fault. The drive's D
 
 | Part | Notes |
 |------|-------|
-| Input fuses (class J or CC) | Use properly rated fuses; wrong rating will not protect the drive |
-| DC bus capacitor kit | Available from Rockwell or aftermarket repair kits for common models |
-| Input line reactor (3–5%) | Install if supply impedance is causing voltage dips |
+| [Input fuses (class J or CC)](https://www.amazon.com/s?k=Input%20fuses%20(class%20J%20or%20CC)&tag=errorcodefixe-20) | Use properly rated fuses; wrong rating will not protect the drive |
+| [DC bus capacitor kit](https://www.amazon.com/s?k=DC%20bus%20capacitor%20kit&tag=errorcodefixe-20) | Available from Rockwell or aftermarket repair kits for common models |
+| [Input line reactor (3–5%)](https://www.amazon.com/s?k=Input%20line%20reactor%20(3%E2%80%935%25)&tag=errorcodefixe-20) | Install if supply impedance is causing voltage dips |
 
 ## When to Call a Pro
 

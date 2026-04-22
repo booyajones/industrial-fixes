@@ -1,4 +1,4 @@
----
+﻿---
 title: "Daikin U2 Error Code — Causes & Fix"
 description: "What Daikin U2 means on a mini-split, why undervoltage protection activates, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,10 +36,10 @@ U2 on a Daikin mini-split or multi-zone system indicates a power supply undervol
 
 | Part | Notes |
 |------|-------|
-| Start capacitor (outdoor unit) | A weak start cap causes high inrush and voltage dip |
-| Run capacitor | Test with capacitor meter; replace if outside tolerance |
-| Disconnect block or fuse holder | Replace if contacts are corroded or burned |
-| Wire (correct gauge) | Upgrade if voltage drop calculation shows undersizing |
+| [Start capacitor (outdoor unit)](https://www.amazon.com/s?k=Start%20capacitor%20(outdoor%20unit)&tag=errorcodefixe-20) | A weak start cap causes high inrush and voltage dip |
+| [Run capacitor](https://www.amazon.com/s?k=Run%20capacitor&tag=errorcodefixe-20) | Test with capacitor meter; replace if outside tolerance |
+| [Disconnect block or fuse holder](https://www.amazon.com/s?k=Disconnect%20block%20or%20fuse%20holder&tag=errorcodefixe-20) | Replace if contacts are corroded or burned |
+| [Wire (correct gauge)](https://www.amazon.com/s?k=Wire%20(correct%20gauge)&tag=errorcodefixe-20) | Upgrade if voltage drop calculation shows undersizing |
 
 ## When to Call a Pro
 

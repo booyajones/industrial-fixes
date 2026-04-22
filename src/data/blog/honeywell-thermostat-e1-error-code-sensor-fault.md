@@ -1,4 +1,4 @@
----
+﻿---
 title: "Honeywell Thermostat E1 Error Code — Sensor Fault Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-15T08:00:00Z
@@ -50,12 +50,8 @@ Unlike external sensor errors (which can sometimes be resolved by repositioning 
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Part Number | Typical Cost | Where to Buy |
-|------|------------|-------------|-------------|
-| Honeywell T6 Pro Thermostat | TH6320U2008 | $70–$85 | Amazon / Home Depot |
-| Honeywell T9 Smart Thermostat | RTH9585WF | $130–$160 | Amazon / Best Buy |
-| Honeywell T10 Pro Thermostat | THX321WFS | $150–$190 | Amazon / Home Depot |
-| Smart Room Sensor (T9/T10) | RCHTSENSOR-1PK | $28–$35 | Amazon |
+| Part | Part Number | Typical Cost | [Where to Buy](https://www.amazon.com/s?k=Where%20to%20Buy&tag=errorcodefixe-20) |  |------|------------|-------------|-------------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Honeywell T6 Pro Thermostat | TH6320U2008 | [$70–$85](https://www.amazon.com/s?k=%2470%E2%80%93%2485&tag=errorcodefixe-20) | Amazon / Home Depot |
+| [Honeywell T9 Smart Thermostat](https://www.amazon.com/s?k=Honeywell%20T9%20Smart%20Thermostat&tag=errorcodefixe-20) | RTH9585WF | $130–$160 | [Amazon / Best Buy](https://www.amazon.com/s?k=Amazon%20%2F%20Best%20Buy&tag=errorcodefixe-20) |  | Honeywell T10 Pro Thermostat | [THX321WFS](https://www.amazon.com/s?k=THX321WFS&tag=errorcodefixe-20) | $150–$190 | Amazon / Home Depot | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Smart Room Sensor (T9/T10) | RCHTSENSOR-1PK | [$28–$35](https://www.amazon.com/s?k=%2428%E2%80%93%2435&tag=errorcodefixe-20) | Amazon |
 
 ## When to Call a Professional
 

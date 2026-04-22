@@ -1,4 +1,4 @@
----
+﻿---
 title: "Lennox XP21 Heat Pump Error Codes — iComfort Fault Code Guide"
 description: "Complete guide to Lennox XP21 heat pump error codes displayed on the iComfort thermostat and control board, including common faults and step-by-step fixes."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -20,18 +20,18 @@ The Lennox XP21 is a variable-capacity heat pump in the Elite series. It uses Le
 
 ## Lennox XP21 Common Fault Codes
 
-| Code | Description |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Description |
 |------|-------------|
-| 104 | Low-pressure switch open |
-| 107 | High-pressure switch open |
-| 110 | Defrost sensor fault |
-| 126 | Communication error between outdoor and indoor units |
-| 204 | Discharge temperature sensor fault |
-| 206 | Outdoor ambient temperature sensor fault |
-| 227 | Compressor protection device tripped |
-| 328 | Variable-speed compressor drive fault |
-| 411 | Low-refrigerant charge detected |
-| 512 | Outdoor fan motor fault |
+| [104](https://www.amazon.com/s?k=104&tag=errorcodefixe-20) | Low-pressure switch open |
+| [107](https://www.amazon.com/s?k=107&tag=errorcodefixe-20) | High-pressure switch open |
+| [110](https://www.amazon.com/s?k=110&tag=errorcodefixe-20) | Defrost sensor fault |
+| [126](https://www.amazon.com/s?k=126&tag=errorcodefixe-20) | Communication error between outdoor and indoor units |
+| [204](https://www.amazon.com/s?k=204&tag=errorcodefixe-20) | Discharge temperature sensor fault |
+| [206](https://www.amazon.com/s?k=206&tag=errorcodefixe-20) | Outdoor ambient temperature sensor fault |
+| [227](https://www.amazon.com/s?k=227&tag=errorcodefixe-20) | Compressor protection device tripped |
+| [328](https://www.amazon.com/s?k=328&tag=errorcodefixe-20) | Variable-speed compressor drive fault |
+| [411](https://www.amazon.com/s?k=411&tag=errorcodefixe-20) | Low-refrigerant charge detected |
+| [512](https://www.amazon.com/s?k=512&tag=errorcodefixe-20) | Outdoor fan motor fault |
 
 ## Common Causes by Code
 
@@ -55,12 +55,12 @@ The Lennox XP21 is a variable-capacity heat pump in the Elite series. It uses Le
 
 | Part | Notes |
 |------|-------|
-| Refrigerant charge (R-410A) | Requires EPA certification; fix leak first |
-| Defrost sensor | Clip-on type for outdoor coil |
-| Communicating bus wire | 18-gauge two-wire; replace if damaged |
-| ECM outdoor fan motor | ECM type; confirm XP21 model compatibility |
-| Compressor drive (inverter) | Major part; Lennox dealer required for diagnosis |
-| High/low pressure switch | Match to XP21 refrigerant circuit pressures |
+| [Refrigerant charge (R-410A)](https://www.amazon.com/s?k=Refrigerant%20charge%20(R-410A)&tag=errorcodefixe-20) | Requires EPA certification; fix leak first |
+| [Defrost sensor](https://www.amazon.com/s?k=Defrost%20sensor&tag=errorcodefixe-20) | Clip-on type for outdoor coil |
+| [Communicating bus wire](https://www.amazon.com/s?k=Communicating%20bus%20wire&tag=errorcodefixe-20) | 18-gauge two-wire; replace if damaged |
+| [ECM outdoor fan motor](https://www.amazon.com/s?k=ECM%20outdoor%20fan%20motor&tag=errorcodefixe-20) | ECM type; confirm XP21 model compatibility |
+| [Compressor drive (inverter)](https://www.amazon.com/s?k=Compressor%20drive%20(inverter)&tag=errorcodefixe-20) | Major part; Lennox dealer required for diagnosis |
+| [High/low pressure switch](https://www.amazon.com/s?k=High%2Flow%20pressure%20switch&tag=errorcodefixe-20) | Match to XP21 refrigerant circuit pressures |
 
 ## When to Call a Pro
 

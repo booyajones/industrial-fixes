@@ -1,4 +1,4 @@
----
+﻿---
 title: "Haas Alarm 105 E-Stop — Causes & Fix"
 description: "What Haas alarm 105 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,8 +36,8 @@ Haas alarm 105 means Emergency Stop is active — the E-stop circuit has been op
 
 | Part | Notes |
 |------|-------|
-| E-stop push button (40mm mushroom head) | Replace if contacts are worn or button won't release after rotation |
-| E-stop wiring terminals | Inspect and tighten all terminals in the E-stop chain |
+| [E-stop push button (40mm mushroom head)](https://www.amazon.com/s?k=E-stop%20push%20button%20(40mm%20mushroom%20head)&tag=errorcodefixe-20) | Replace if contacts are worn or button won't release after rotation |
+| [E-stop wiring terminals](https://www.amazon.com/s?k=E-stop%20wiring%20terminals&tag=errorcodefixe-20) | Inspect and tighten all terminals in the E-stop chain |
 
 ## When to Call a Pro
 

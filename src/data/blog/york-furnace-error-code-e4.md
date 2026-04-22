@@ -1,4 +1,4 @@
----
+﻿---
 title: "York Furnace E4 Error Code — Ignition Failure"
 description: "What the York furnace E4 error code means, why ignition fails, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -39,10 +39,10 @@ On York furnaces with LED display panels (YP9C, TM9V, and related models), E4 in
 
 | Part | Notes |
 |------|-------|
-| Hot surface ignitor | Match exact part — York uses both 120V silicon carbide and 80V silicon nitride types |
-| Flame sensor | Universal sensors work but OEM preferred for reliability |
-| Gas valve | Replace only after confirming 24VAC at valve terminals with no gas flow |
-| Control board | Last resort — if ignitor, sensor, and gas valve all check out |
+| [Hot surface ignitor](https://www.amazon.com/s?k=Hot%20surface%20ignitor&tag=errorcodefixe-20) | Match exact part — York uses both 120V silicon carbide and 80V silicon nitride types |
+| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | Universal sensors work but OEM preferred for reliability |
+| [Gas valve](https://www.amazon.com/s?k=Gas%20valve&tag=errorcodefixe-20) | Replace only after confirming 24VAC at valve terminals with no gas flow |
+| [Control board](https://www.amazon.com/s?k=Control%20board&tag=errorcodefixe-20) | Last resort — if ignitor, sensor, and gas valve all check out |
 
 ## When to Call a Pro
 

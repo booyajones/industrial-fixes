@@ -1,4 +1,4 @@
----
+﻿---
 title: "Hobart Commercial Dishwasher Error Codes — Guide"
 description: "Hobart commercial dishwasher error codes: what each code means and how to fix it."
 pubDatetime: 2026-04-22T17:00:00Z
@@ -15,16 +15,11 @@ tags:
 
 Hobart commercial dishwashers (AM15, CLeN, UW50, and FOSS series undercounters, door-types, and flight machines) use electronic controls that display fault codes when problems are detected. Hobart is the dominant commercial dishwasher brand in US foodservice.
 
-| Code | Meaning | Urgency |
-|------|---------|---------|
-| E1 | Wash tank temperature too low | Medium |
-| E2 | Final rinse temperature too low | High |
-| E3 | Low water level / fill fault | Medium |
-| E4 | Drain fault | Medium |
-| E5 | Wash pump motor fault | High |
-| E6 | Rinse pump fault | High |
-| E7 | Door switch fault | Medium |
-| E8 | Detergent dispensing fault | Low |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning | Urgency | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |---------|---------|
+| E1 | [Wash tank temperature too low](https://www.amazon.com/s?k=Wash%20tank%20temperature%20too%20low&tag=errorcodefixe-20) | Medium |
+| [E2](https://www.amazon.com/s?k=E2&tag=errorcodefixe-20) | Final rinse temperature too low | High | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E3 | Low water level / fill fault | [Medium](https://www.amazon.com/s?k=Medium&tag=errorcodefixe-20) |  | E4 | [Drain fault](https://www.amazon.com/s?k=Drain%20fault&tag=errorcodefixe-20) | Medium |
+| [E5](https://www.amazon.com/s?k=E5&tag=errorcodefixe-20) | Wash pump motor fault | High | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E6 | Rinse pump fault | [High](https://www.amazon.com/s?k=High&tag=errorcodefixe-20) |  | E7 | [Door switch fault](https://www.amazon.com/s?k=Door%20switch%20fault&tag=errorcodefixe-20) | Medium |
+| [E8](https://www.amazon.com/s?k=E8&tag=errorcodefixe-20) | Detergent dispensing fault | Low |
 
 [Jump to Fix](#fix)
 
@@ -47,12 +42,7 @@ Door not closed or door interlock switch fault. Verify door closes fully and lat
 
 ## Parts Often Needed
 
-| Part | Notes |
-|------|-------|
-| Wash pump motor | Most urgent repair — no washing without it |
-| Booster heater element | For E1/E2 temperature faults |
-| Water inlet valve | For E3 fill faults |
-| Drain pump | For E4 drain faults |
+| Part | Notes | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |-------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Wash pump motor | Most urgent repair — no washing without it | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Booster heater element | For E1/E2 temperature faults | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Water inlet valve | For E3 fill faults | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Drain pump | For E4 drain faults |
 
 ## When to Call a Pro
 

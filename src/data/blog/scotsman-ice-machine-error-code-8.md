@@ -1,4 +1,4 @@
----
+﻿---
 title: "Scotsman Ice Machine Error Code 8 — Causes & Fix"
 description: "What Scotsman ice machine error code 8 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,9 +36,9 @@ Scotsman error code 8 indicates a water inlet valve fault. The control board com
 
 | Part | Notes |
 |------|-------|
-| Water inlet valve | Replace if the coil is open or the valve is restricted internally |
-| Water level probe or float assembly | Replace if the board never gets a proper full-level signal |
-| Inlet strainer or screen | Replace if the original screen is damaged during cleaning |
+| [Water inlet valve](https://www.amazon.com/s?k=Water%20inlet%20valve&tag=errorcodefixe-20) | Replace if the coil is open or the valve is restricted internally |
+| [Water level probe or float assembly](https://www.amazon.com/s?k=Water%20level%20probe%20or%20float%20assembly&tag=errorcodefixe-20) | Replace if the board never gets a proper full-level signal |
+| [Inlet strainer or screen](https://www.amazon.com/s?k=Inlet%20strainer%20or%20screen&tag=errorcodefixe-20) | Replace if the original screen is damaged during cleaning |
 
 ## When to Call a Pro
 

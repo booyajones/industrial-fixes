@@ -1,4 +1,4 @@
----
+﻿---
 title: "Carrier 13 Error Code — Limit Switch Lockout Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-03T08:00:00Z
@@ -50,12 +50,9 @@ The limit switch is doing exactly what it's designed to do. The fault is almost 
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Where to Buy | Typical Cost |
-|------|-------------|-------------|
-| High-limit switch (Carrier #HH12ZB195 or equiv.) | Carrier dealer, Johnstone Supply | $15–$40 |
-| Blower motor run capacitor (match µF and voltage) | HVAC Supply, Amazon | $10–$30 |
-| ECM blower motor (Carrier OEM #HC43AE116) | Carrier dealer, RepairClinic | $200–$500 |
-| Air filter (16x25x1, MERV 8) | Home Depot, Costco | $8–$25 |
+| Part | Where to Buy | Typical Cost | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |-------------|-------------|
+| High-limit switch (Carrier #HH12ZB195 or equiv.) | [Carrier dealer, Johnstone Supply](https://www.amazon.com/s?k=Carrier%20dealer%2C%20Johnstone%20Supply&tag=errorcodefixe-20) | $15–$40 |
+| [Blower motor run capacitor (match µF and voltage)](https://www.amazon.com/s?k=Blower%20motor%20run%20capacitor%20(match%20%C2%B5F%20and%20voltage)&tag=errorcodefixe-20) | HVAC Supply, Amazon | $10–$30 | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ECM blower motor (Carrier OEM #HC43AE116) | Carrier dealer, RepairClinic | [$200–$500](https://www.amazon.com/s?k=%24200%E2%80%93%24500&tag=errorcodefixe-20) |  | Air filter (16x25x1, MERV 8) | [Home Depot, Costco](https://www.amazon.com/s?k=Home%20Depot%2C%20Costco&tag=errorcodefixe-20) | $8–$25 |
 
 ## When to Call a Professional
 

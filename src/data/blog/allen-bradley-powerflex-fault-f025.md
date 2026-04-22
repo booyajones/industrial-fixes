@@ -1,4 +1,4 @@
----
+﻿---
 title: "Allen-Bradley PowerFlex Fault F025 — Causes & Fix"
 description: "What Allen-Bradley PowerFlex F025 drive overtemp fault means, why it trips, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,9 +36,9 @@ Fault F025 on an Allen-Bradley PowerFlex 40, 400, 525, or 755 drive indicates Dr
 
 | Part | Notes |
 |------|-------|
-| Internal cooling fan | PowerFlex model-specific; 24VDC or 120VAC depending on drive size |
-| Enclosure filtered fan kit | Add supplemental airflow if enclosure thermal management is inadequate |
-| Enclosure thermostat | Control panel fan or AC unit activation for sealed enclosures |
+| [Internal cooling fan](https://www.amazon.com/s?k=Internal%20cooling%20fan&tag=errorcodefixe-20) | PowerFlex model-specific; 24VDC or 120VAC depending on drive size |
+| [Enclosure filtered fan kit](https://www.amazon.com/s?k=Enclosure%20filtered%20fan%20kit&tag=errorcodefixe-20) | Add supplemental airflow if enclosure thermal management is inadequate |
+| [Enclosure thermostat](https://www.amazon.com/s?k=Enclosure%20thermostat&tag=errorcodefixe-20) | Control panel fan or AC unit activation for sealed enclosures |
 
 ## When to Call a Pro
 

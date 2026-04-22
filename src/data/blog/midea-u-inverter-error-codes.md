@@ -1,4 +1,4 @@
----
+﻿---
 title: "Midea U-Inverter Mini Split Error Codes — Complete Fault Guide"
 description: "Complete guide to Midea U-Inverter mini split error codes, what each fault means, and step-by-step troubleshooting for the most common failures."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -20,20 +20,20 @@ The Midea U-Inverter is a window-mounted mini split with a unique U-shaped desig
 
 ## Midea U-Inverter Error Code Reference
 
-| Code | Meaning |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning |
 |------|---------|
-| E1 | Indoor room temperature sensor fault |
-| E2 | Indoor coil temperature sensor fault |
-| E3 | Outdoor coil temperature sensor fault |
-| E4 | High-temperature protection (compressor or discharge) |
-| E5 | Freeze protection (indoor coil too cold) |
-| E6 | Communication error (indoor PCB to outdoor module) |
-| E7 | Outdoor fan motor fault |
-| E8 | PFC module protection |
-| E9 | Compressor drive fault (IPM protection) |
-| F0 | Discharge temperature sensor fault |
-| P2 | Low-pressure protection |
-| P6 | Compressor preheat active |
+| [E1](https://www.amazon.com/s?k=E1&tag=errorcodefixe-20) | Indoor room temperature sensor fault |
+| [E2](https://www.amazon.com/s?k=E2&tag=errorcodefixe-20) | Indoor coil temperature sensor fault |
+| [E3](https://www.amazon.com/s?k=E3&tag=errorcodefixe-20) | Outdoor coil temperature sensor fault |
+| [E4](https://www.amazon.com/s?k=E4&tag=errorcodefixe-20) | High-temperature protection (compressor or discharge) |
+| [E5](https://www.amazon.com/s?k=E5&tag=errorcodefixe-20) | Freeze protection (indoor coil too cold) |
+| [E6](https://www.amazon.com/s?k=E6&tag=errorcodefixe-20) | Communication error (indoor PCB to outdoor module) |
+| [E7](https://www.amazon.com/s?k=E7&tag=errorcodefixe-20) | Outdoor fan motor fault |
+| [E8](https://www.amazon.com/s?k=E8&tag=errorcodefixe-20) | PFC module protection |
+| [E9](https://www.amazon.com/s?k=E9&tag=errorcodefixe-20) | Compressor drive fault (IPM protection) |
+| [F0](https://www.amazon.com/s?k=F0&tag=errorcodefixe-20) | Discharge temperature sensor fault |
+| [P2](https://www.amazon.com/s?k=P2&tag=errorcodefixe-20) | Low-pressure protection |
+| [P6](https://www.amazon.com/s?k=P6&tag=errorcodefixe-20) | Compressor preheat active |
 
 ## Common Causes by Code
 
@@ -57,11 +57,11 @@ The Midea U-Inverter is a window-mounted mini split with a unique U-shaped desig
 
 | Part | Notes |
 |------|-------|
-| Room temperature sensor (E1) | NTC 10kΩ; confirm U-Inverter model number |
-| Coil temperature sensor (E2) | Clip-on type; confirm coil sensor vs. room sensor |
-| Indoor PCB | For E6 with confirmed cable connection |
-| Internal cable assembly | Between indoor and outdoor sections |
-| Outdoor PCB | For E9 after charge confirmed |
+| [Room temperature sensor (E1)](https://www.amazon.com/s?k=Room%20temperature%20sensor%20(E1)&tag=errorcodefixe-20) | NTC 10kΩ; confirm U-Inverter model number |
+| [Coil temperature sensor (E2)](https://www.amazon.com/s?k=Coil%20temperature%20sensor%20(E2)&tag=errorcodefixe-20) | Clip-on type; confirm coil sensor vs. room sensor |
+| [Indoor PCB](https://www.amazon.com/s?k=Indoor%20PCB&tag=errorcodefixe-20) | For E6 with confirmed cable connection |
+| [Internal cable assembly](https://www.amazon.com/s?k=Internal%20cable%20assembly&tag=errorcodefixe-20) | Between indoor and outdoor sections |
+| [Outdoor PCB](https://www.amazon.com/s?k=Outdoor%20PCB&tag=errorcodefixe-20) | For E9 after charge confirmed |
 
 ## When to Call a Pro
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Danfoss AKC Controller Fault Codes - Complete Guide"
 description: "Danfoss AKC refrigeration controller fault codes for supermarket showcase and cold storage: causes and troubleshooting steps."
 pubDatetime: 2026-04-22T20:00:00Z
@@ -16,18 +16,11 @@ tags:
 
 Danfoss AKC controllers (AKC 15, 22, 24, 55, 114, and the newer AK-CC series) manage refrigerated display cases, walk-in coolers, and rack systems. Alarms appear on the controller display and via the Danfoss AKM or ADAP-KOOL network.
 
-| Alarm / Code | Meaning | Quick Fix |
-|-------------|---------|-----------|
-| A1 - Temperature High | Case temperature above alarm setpoint | Check defrost, door seals, fans |
-| A2 - Temperature Low | Case temp below low alarm setpoint | Check thermostat/thermistor |
-| A3 - Defrost Timeout | Defrost exceeded maximum time | Check defrost heater and termination |
-| A4 - Sensor Fault | Temperature sensor open or shorted | Check sensor wiring |
-| A5 - Defrost Sensor Fault | Defrost termination sensor fault | Check termination sensor |
-| A6 - Door Switch Alarm | Door open too long | Check door and switch |
-| A7 - Communication Fault | Network communication lost | Check LonWorks/RS-485 wiring |
-| A8 - Air Sensor Fault | Air inlet or outlet sensor fault | Check sensor |
-| A9 - Power Fail | Supply power was interrupted | Normal after power outage |
-| A10 - Controller Fault | Internal controller error | Replace controller |
+| [Alarm / Code](https://www.amazon.com/s?k=Alarm%20%2F%20Code&tag=errorcodefixe-20) | Meaning | Quick Fix | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------------- |---------|-----------|
+| A1 - Temperature High | [Case temperature above alarm setpoint](https://www.amazon.com/s?k=Case%20temperature%20above%20alarm%20setpoint&tag=errorcodefixe-20) | Check defrost, door seals, fans |
+| [A2 - Temperature Low](https://www.amazon.com/s?k=A2%20-%20Temperature%20Low&tag=errorcodefixe-20) | Case temp below low alarm setpoint | Check thermostat/thermistor | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | A3 - Defrost Timeout | Defrost exceeded maximum time | [Check defrost heater and termination](https://www.amazon.com/s?k=Check%20defrost%20heater%20and%20termination&tag=errorcodefixe-20) |  | A4 - Sensor Fault | [Temperature sensor open or shorted](https://www.amazon.com/s?k=Temperature%20sensor%20open%20or%20shorted&tag=errorcodefixe-20) | Check sensor wiring |
+| [A5 - Defrost Sensor Fault](https://www.amazon.com/s?k=A5%20-%20Defrost%20Sensor%20Fault&tag=errorcodefixe-20) | Defrost termination sensor fault | Check termination sensor | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | A6 - Door Switch Alarm | Door open too long | [Check door and switch](https://www.amazon.com/s?k=Check%20door%20and%20switch&tag=errorcodefixe-20) |  | A7 - Communication Fault | [Network communication lost](https://www.amazon.com/s?k=Network%20communication%20lost&tag=errorcodefixe-20) | Check LonWorks/RS-485 wiring |
+| [A8 - Air Sensor Fault](https://www.amazon.com/s?k=A8%20-%20Air%20Sensor%20Fault&tag=errorcodefixe-20) | Air inlet or outlet sensor fault | Check sensor | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | A9 - Power Fail | Supply power was interrupted | [Normal after power outage](https://www.amazon.com/s?k=Normal%20after%20power%20outage&tag=errorcodefixe-20) |  | A10 - Controller Fault | [Internal controller error](https://www.amazon.com/s?k=Internal%20controller%20error&tag=errorcodefixe-20) | Replace controller |
 
 ## Most Common Faults
 
@@ -47,11 +40,11 @@ AKC controllers on LonWorks or RS-485 networks alarm on communication loss. Chec
 
 | Part | Notes |
 |------|-------|
-| AKC temperature sensor (NTC) | Replace on A4/A5 fault |
-| Defrost heater element | Replace on A3 timeout |
-| Defrost safety thermostat | Replace on A3 timeout |
-| Evaporator fan motor | Replace on temperature alarm |
-| AKC controller | Replace on A10 fault |
+| [AKC temperature sensor (NTC)](https://www.amazon.com/s?k=AKC%20temperature%20sensor%20(NTC)&tag=errorcodefixe-20) | Replace on A4/A5 fault |
+| [Defrost heater element](https://www.amazon.com/s?k=Defrost%20heater%20element&tag=errorcodefixe-20) | Replace on A3 timeout |
+| [Defrost safety thermostat](https://www.amazon.com/s?k=Defrost%20safety%20thermostat&tag=errorcodefixe-20) | Replace on A3 timeout |
+| [Evaporator fan motor](https://www.amazon.com/s?k=Evaporator%20fan%20motor&tag=errorcodefixe-20) | Replace on temperature alarm |
+| [AKC controller](https://www.amazon.com/s?k=AKC%20controller&tag=errorcodefixe-20) | Replace on A10 fault |
 
 ## When to Call a Pro
 Danfoss ADAP-KOOL network configuration and AKM system management require Danfoss-trained refrigeration controls technicians. A misconfigured AKC defrost schedule can cause food safety violations.

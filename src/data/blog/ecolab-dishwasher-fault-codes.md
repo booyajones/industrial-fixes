@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ecolab Dishwasher Fault Codes — Guide"
 description: "Ecolab commercial dishwasher fault codes: what each means and how to fix it."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -15,16 +15,16 @@ tags:
 
 Ecolab provides chemical programs and equipment for commercial dishwashers across food service and healthcare. Ecolab's chemical dispensing systems and their SMART chemical controllers display fault codes when problems occur with the chemical feed or machine integration.
 
-| Code | Meaning |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning |
 |------|---------|
-| AL 01 | No detergent (dispenser empty or fault) |
-| AL 02 | No rinse aid |
-| AL 03 | Conductivity too high (over-concentration) |
-| AL 04 | Conductivity too low (under-concentration) |
-| AL 05 | High water temperature alert |
-| AL 06 | Low water temperature alert |
-| AL 07 | Communication fault (machine interface) |
-| AL 08 | Probe fault (conductivity sensor) |
+| [AL 01](https://www.amazon.com/s?k=AL%2001&tag=errorcodefixe-20) | No detergent (dispenser empty or fault) |
+| [AL 02](https://www.amazon.com/s?k=AL%2002&tag=errorcodefixe-20) | No rinse aid |
+| [AL 03](https://www.amazon.com/s?k=AL%2003&tag=errorcodefixe-20) | Conductivity too high (over-concentration) |
+| [AL 04](https://www.amazon.com/s?k=AL%2004&tag=errorcodefixe-20) | Conductivity too low (under-concentration) |
+| [AL 05](https://www.amazon.com/s?k=AL%2005&tag=errorcodefixe-20) | High water temperature alert |
+| [AL 06](https://www.amazon.com/s?k=AL%2006&tag=errorcodefixe-20) | Low water temperature alert |
+| [AL 07](https://www.amazon.com/s?k=AL%2007&tag=errorcodefixe-20) | Communication fault (machine interface) |
+| [AL 08](https://www.amazon.com/s?k=AL%2008&tag=errorcodefixe-20) | Probe fault (conductivity sensor) |
 
 [Jump to Fix](#fix)
 
@@ -42,9 +42,9 @@ Ecolab provides chemical programs and equipment for commercial dishwashers acros
 
 | Part | Notes |
 |------|-------|
-| Conductivity probe | Clean quarterly; replace if coating is damaged |
-| Dosing pump | Replace if pump isn't delivering product |
-| Ecolab product (detergent, rinse aid) | Refill when AL 01/02 appears |
+| [Conductivity probe](https://www.amazon.com/s?k=Conductivity%20probe&tag=errorcodefixe-20) | Clean quarterly; replace if coating is damaged |
+| [Dosing pump](https://www.amazon.com/s?k=Dosing%20pump&tag=errorcodefixe-20) | Replace if pump isn't delivering product |
+| [Ecolab product (detergent, rinse aid)](https://www.amazon.com/s?k=Ecolab%20product%20(detergent%2C%20rinse%20aid)&tag=errorcodefixe-20) | Refill when AL 01/02 appears |
 
 ## When to Call a Pro
 

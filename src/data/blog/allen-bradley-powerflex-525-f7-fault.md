@@ -1,4 +1,4 @@
----
+﻿---
 title: "Allen Bradley PowerFlex 525 F7 Fault — Causes & Fix"
 description: "What Allen Bradley PowerFlex 525 F7 Motor Overload means, why it trips, and how to fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,9 +36,9 @@ The Allen Bradley PowerFlex 525 **F7 fault** is a **Motor Overload** trip — th
 
 | Part | Notes |
 |------|-------|
-| PowerFlex 525 replacement drive | If drive-side thermal model circuit has been damaged by repeated trips |
-| Motor replacement | When motor has degraded winding insulation from prior overload events |
-| Enclosure ventilation | Add when enclosure ambient is >40°C; required for drive AND motor |
+| [PowerFlex 525 replacement drive](https://www.amazon.com/s?k=PowerFlex%20525%20replacement%20drive&tag=errorcodefixe-20) | If drive-side thermal model circuit has been damaged by repeated trips |
+| [Motor replacement](https://www.amazon.com/s?k=Motor%20replacement&tag=errorcodefixe-20) | When motor has degraded winding insulation from prior overload events |
+| [Enclosure ventilation](https://www.amazon.com/s?k=Enclosure%20ventilation&tag=errorcodefixe-20) | Add when enclosure ambient is >40°C; required for drive AND motor |
 
 ## When to Call a Pro
 

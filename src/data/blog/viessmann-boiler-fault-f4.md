@@ -1,4 +1,4 @@
----
+﻿---
 title: "Viessmann Boiler Fault F4 — Causes & Fix"
 description: "What Viessmann boiler fault code F4 means, why ignition fails, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -37,9 +37,9 @@ Fault F4 on a Viessmann boiler (Vitodens 050-W, 100-W, 200-W series) indicates a
 
 | Part | Notes |
 |------|-------|
-| Ionization/ignition electrode | Viessmann OEM; match model and burner version |
-| Ignition cable (high-tension lead) | Replace if insulation is cracked or burned |
-| Gas combination valve (VCG) | Replace only after confirming correct valve input voltage and pressure |
+| [Ionization/ignition electrode](https://www.amazon.com/s?k=Ionization%2Fignition%20electrode&tag=errorcodefixe-20) | Viessmann OEM; match model and burner version |
+| [Ignition cable (high-tension lead)](https://www.amazon.com/s?k=Ignition%20cable%20(high-tension%20lead)&tag=errorcodefixe-20) | Replace if insulation is cracked or burned |
+| [Gas combination valve (VCG)](https://www.amazon.com/s?k=Gas%20combination%20valve%20(VCG)&tag=errorcodefixe-20) | Replace only after confirming correct valve input voltage and pressure |
 
 ## When to Call a Pro
 

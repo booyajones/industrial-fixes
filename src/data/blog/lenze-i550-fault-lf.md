@@ -1,4 +1,4 @@
----
+﻿---
 title: "Lenze i550 Fault LF — Phase Loss Causes & Fix"
 description: "What Lenze i550 fault LF means, why phase loss trips the drive, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -37,8 +37,8 @@ Fault LF (Line Failure / Phase Loss) on a Lenze i550 drive means the drive has d
 
 | Part | Notes |
 |------|-------|
-| Semiconductor input fuses | Use Lenze-specified aR or gR fuse type; do not substitute standard HRC fuses |
-| Input terminal block | Replace if arcing damage or severe corrosion is present |
+| [Semiconductor input fuses](https://www.amazon.com/s?k=Semiconductor%20input%20fuses&tag=errorcodefixe-20) | Use Lenze-specified aR or gR fuse type; do not substitute standard HRC fuses |
+| [Input terminal block](https://www.amazon.com/s?k=Input%20terminal%20block&tag=errorcodefixe-20) | Replace if arcing damage or severe corrosion is present |
 
 ## When to Call a Pro
 

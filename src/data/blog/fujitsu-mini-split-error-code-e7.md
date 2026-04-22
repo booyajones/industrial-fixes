@@ -1,4 +1,4 @@
----
+﻿---
 title: "Fujitsu Mini-Split E7 Error Code — Causes & Fix"
 description: "What Fujitsu mini-split E7 error code means, why the drain pump faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -37,9 +37,9 @@ The Fujitsu E7 error code indicates a **drain pump fault** — the indoor unit d
 
 | Part | Notes |
 |------|-------|
-| Condensate pump | Match voltage and lift capacity to the original unit |
-| Float switch | Inexpensive; use Fujitsu OEM or universal equivalent |
-| Drain line check valve | 1/2" or 3/4" inline check valve |
+| [Condensate pump](https://www.amazon.com/s?k=Condensate%20pump&tag=errorcodefixe-20) | Match voltage and lift capacity to the original unit |
+| [Float switch](https://www.amazon.com/s?k=Float%20switch&tag=errorcodefixe-20) | Inexpensive; use Fujitsu OEM or universal equivalent |
+| [Drain line check valve](https://www.amazon.com/s?k=Drain%20line%20check%20valve&tag=errorcodefixe-20) | 1/2" or 3/4" inline check valve |
 
 ## When to Call a Pro
 

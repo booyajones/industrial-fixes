@@ -1,4 +1,4 @@
----
+﻿---
 title: "Trane 3 Flashes Error Code — Pressure Switch Fault Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-24T08:00:00Z
@@ -46,10 +46,10 @@ If inducer RPM is low or the motor sounds labored: check inducer motor capacitor
 
 | Part | Where to Buy |
 |------|-------------|
-| Pressure switch (match rating and model) | RepairClinic, SupplyHouse |
-| Pressure switch hose / tubing | RepairClinic, Amazon |
-| Inducer motor run capacitor | Grainger, Amazon |
-| Inducer motor assembly | RepairClinic, Grainger |
+| [Pressure switch (match rating and model)](https://www.amazon.com/s?k=Pressure%20switch%20(match%20rating%20and%20model)&tag=errorcodefixe-20) | RepairClinic, SupplyHouse |
+| [Pressure switch hose / tubing](https://www.amazon.com/s?k=Pressure%20switch%20hose%20%2F%20tubing&tag=errorcodefixe-20) | RepairClinic, Amazon |
+| [Inducer motor run capacitor](https://www.amazon.com/s?k=Inducer%20motor%20run%20capacitor&tag=errorcodefixe-20) | Grainger, Amazon |
+| [Inducer motor assembly](https://www.amazon.com/s?k=Inducer%20motor%20assembly&tag=errorcodefixe-20) | RepairClinic, Grainger |
 
 ## When to Call a Technician
 

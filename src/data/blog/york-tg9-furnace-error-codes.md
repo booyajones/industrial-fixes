@@ -1,4 +1,4 @@
----
+﻿---
 title: "York TG9 Furnace Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to York TG9 furnace error codes, LED flash sequences, common fault causes, and step-by-step repair procedures for HVAC technicians."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -20,20 +20,20 @@ The York TG9 is a 96% AFUE two-stage variable-speed gas furnace. It is part of Y
 
 ## York TG9 LED Flash Code Reference
 
-| Flash Sequence | Fault |
+| [Flash Sequence](https://www.amazon.com/s?k=Flash%20Sequence&tag=errorcodefixe-20) | Fault |
 |---|---|
-| 1 flash | Normal — waiting for call |
-| 2 flashes | Pressure switch stuck open |
-| 3 flashes | Pressure switch stuck closed |
-| 4 flashes | High-limit switch open |
-| 5 flashes | Ignition lockout — 3 failed attempts |
-| 6 flashes | Rollout switch open |
-| 7 flashes | Flame sensed without gas valve call |
-| 8 flashes | Inducer motor speed fault |
-| 9 flashes | Blower motor fault |
-| 10 flashes | Control board fault |
-| 11 flashes | Communication fault (if connected to York thermostat) |
-| Rapid | Low voltage — below 18VAC |
+| [1 flash](https://www.amazon.com/s?k=1%20flash&tag=errorcodefixe-20) | Normal — waiting for call |
+| [2 flashes](https://www.amazon.com/s?k=2%20flashes&tag=errorcodefixe-20) | Pressure switch stuck open |
+| [3 flashes](https://www.amazon.com/s?k=3%20flashes&tag=errorcodefixe-20) | Pressure switch stuck closed |
+| [4 flashes](https://www.amazon.com/s?k=4%20flashes&tag=errorcodefixe-20) | High-limit switch open |
+| [5 flashes](https://www.amazon.com/s?k=5%20flashes&tag=errorcodefixe-20) | Ignition lockout — 3 failed attempts |
+| [6 flashes](https://www.amazon.com/s?k=6%20flashes&tag=errorcodefixe-20) | Rollout switch open |
+| [7 flashes](https://www.amazon.com/s?k=7%20flashes&tag=errorcodefixe-20) | Flame sensed without gas valve call |
+| [8 flashes](https://www.amazon.com/s?k=8%20flashes&tag=errorcodefixe-20) | Inducer motor speed fault |
+| [9 flashes](https://www.amazon.com/s?k=9%20flashes&tag=errorcodefixe-20) | Blower motor fault |
+| [10 flashes](https://www.amazon.com/s?k=10%20flashes&tag=errorcodefixe-20) | Control board fault |
+| [11 flashes](https://www.amazon.com/s?k=11%20flashes&tag=errorcodefixe-20) | Communication fault (if connected to York thermostat) |
+| [Rapid](https://www.amazon.com/s?k=Rapid&tag=errorcodefixe-20) | Low voltage — below 18VAC |
 
 ## Common Causes by Code
 
@@ -55,12 +55,12 @@ The York TG9 is a 96% AFUE two-stage variable-speed gas furnace. It is part of Y
 
 | Part | Notes |
 |---|---|
-| Hot surface igniter | Silicon nitride; specific to TG9 model |
-| Flame sensor | Rod-type; clean before replacing |
-| Condensate trap | PVC trap assembly; critical to pressure switch operation |
-| ECM blower motor module | Module only — verify motor spins freely before replacing |
-| Inducer motor assembly | ECM type; includes tach feedback |
-| Pressure switch | Check tubing and condensate trap first |
+| [Hot surface igniter](https://www.amazon.com/s?k=Hot%20surface%20igniter&tag=errorcodefixe-20) | Silicon nitride; specific to TG9 model |
+| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | Rod-type; clean before replacing |
+| [Condensate trap](https://www.amazon.com/s?k=Condensate%20trap&tag=errorcodefixe-20) | PVC trap assembly; critical to pressure switch operation |
+| [ECM blower motor module](https://www.amazon.com/s?k=ECM%20blower%20motor%20module&tag=errorcodefixe-20) | Module only — verify motor spins freely before replacing |
+| [Inducer motor assembly](https://www.amazon.com/s?k=Inducer%20motor%20assembly&tag=errorcodefixe-20) | ECM type; includes tach feedback |
+| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Check tubing and condensate trap first |
 
 ## When to Call a Pro
 

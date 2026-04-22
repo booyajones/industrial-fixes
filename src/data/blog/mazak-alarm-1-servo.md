@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mazak Alarm 1 Servo Alarm — Causes & Fix"
 description: "What Mazak alarm 1 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,9 +36,9 @@ Mazak alarm 1 (or alarm number beginning with 1 in the servo alarm group) indica
 
 | Part | Notes |
 |------|-------|
-| Servo amplifier module | Mazak uses Mitsubishi MDS-C or MDS-E series in most modern machines |
-| Encoder cable (shielded) | Replace if any damage is found; encoder cable is a common failure on older machines |
-| Ball screw or linear guide lubrication | Often overlooked; dry guides cause servo overload |
+| [Servo amplifier module](https://www.amazon.com/s?k=Servo%20amplifier%20module&tag=errorcodefixe-20) | Mazak uses Mitsubishi MDS-C or MDS-E series in most modern machines |
+| [Encoder cable (shielded)](https://www.amazon.com/s?k=Encoder%20cable%20(shielded)&tag=errorcodefixe-20) | Replace if any damage is found; encoder cable is a common failure on older machines |
+| [Ball screw or linear guide lubrication](https://www.amazon.com/s?k=Ball%20screw%20or%20linear%20guide%20lubrication&tag=errorcodefixe-20) | Often overlooked; dry guides cause servo overload |
 
 ## When to Call a Pro
 

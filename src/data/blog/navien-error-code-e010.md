@@ -1,4 +1,4 @@
----
+﻿---
 title: "Navien Error Code E010 — Causes & Fix"
 description: "What Navien error code E010 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,9 +36,9 @@ Navien error code E010 indicates an air pressure sensor (APS) fault. The APS is 
 
 | Part | Notes |
 |------|-------|
-| Air pressure sensor (APS) | Navien part; match to unit model — setpoints differ by BTU rating |
-| APS tubing (replacement) | Cheap; replace if cracked or contaminated |
-| Combustion blower assembly | Replace if blower speed is confirmed low under load |
+| [Air pressure sensor (APS)](https://www.amazon.com/s?k=Air%20pressure%20sensor%20(APS)&tag=errorcodefixe-20) | Navien part; match to unit model — setpoints differ by BTU rating |
+| [APS tubing (replacement)](https://www.amazon.com/s?k=APS%20tubing%20(replacement)&tag=errorcodefixe-20) | Cheap; replace if cracked or contaminated |
+| [Combustion blower assembly](https://www.amazon.com/s?k=Combustion%20blower%20assembly&tag=errorcodefixe-20) | Replace if blower speed is confirmed low under load |
 
 ## When to Call a Pro
 

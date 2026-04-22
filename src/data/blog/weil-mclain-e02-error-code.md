@@ -1,4 +1,4 @@
----
+﻿---
 title: "Weil-McLain E02 Error Code — Causes & Fix"
 description: "What Weil-McLain E02 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,9 +36,9 @@ Weil-McLain error code E02 means the high-limit has tripped — the boiler's wat
 
 | Part | Notes |
 |------|-------|
-| Circulator pump | Match flange size and head pressure to original; Taco 007 is common on Weil-McLain installs |
-| Zone valve | Test each zone valve motor with a multimeter; replace if coil is open |
-| High-limit aquastat (older models) | Capillary-bulb type on older GV/WTGO boilers; replace if sensing element is damaged |
+| [Circulator pump](https://www.amazon.com/s?k=Circulator%20pump&tag=errorcodefixe-20) | Match flange size and head pressure to original; Taco 007 is common on Weil-McLain installs |
+| [Zone valve](https://www.amazon.com/s?k=Zone%20valve&tag=errorcodefixe-20) | Test each zone valve motor with a multimeter; replace if coil is open |
+| [High-limit aquastat (older models)](https://www.amazon.com/s?k=High-limit%20aquastat%20(older%20models)&tag=errorcodefixe-20) | Capillary-bulb type on older GV/WTGO boilers; replace if sensing element is damaged |
 
 ## When to Call a Pro
 

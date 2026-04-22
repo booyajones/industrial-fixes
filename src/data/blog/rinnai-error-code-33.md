@@ -1,4 +1,4 @@
----
+﻿---
 title: "Rinnai Error Code 33 — Causes & Fix"
 description: "What Rinnai error code 33 means, why exhaust overheat triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -37,9 +37,9 @@ Rinnai error code 33 indicates **exhaust overheat** — the flue exhaust tempera
 
 | Part | Notes |
 |------|-------|
-| Exhaust temperature thermistor | Rinnai model-specific; verify part number for your series (V, RU, or RL) |
-| Descaling kit | Pump + citric acid; available from Rinnai dealers |
-| Vent terminal cap | Replace if damaged or blocked by animal activity |
+| [Exhaust temperature thermistor](https://www.amazon.com/s?k=Exhaust%20temperature%20thermistor&tag=errorcodefixe-20) | Rinnai model-specific; verify part number for your series (V, RU, or RL) |
+| [Descaling kit](https://www.amazon.com/s?k=Descaling%20kit&tag=errorcodefixe-20) | Pump + citric acid; available from Rinnai dealers |
+| [Vent terminal cap](https://www.amazon.com/s?k=Vent%20terminal%20cap&tag=errorcodefixe-20) | Replace if damaged or blocked by animal activity |
 
 ## When to Call a Pro
 

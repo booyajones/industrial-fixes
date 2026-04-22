@@ -1,4 +1,4 @@
----
+﻿---
 title: "True Refrigeration E4 Error Code — Causes & Fix"
 description: "What True Refrigeration error code E4 means, why the defrost heater faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -38,8 +38,8 @@ E4 on a True commercial refrigerator or freezer signals a defrost heater fault �
 
 | Part | Notes |
 |------|-------|
-| Defrost heater | True OEM or exact resistance match; match wattage and physical length |
-| Defrost termination thermostat | Match clip type and temperature rating for the True model |
+| [Defrost heater](https://www.amazon.com/s?k=Defrost%20heater&tag=errorcodefixe-20) | True OEM or exact resistance match; match wattage and physical length |
+| [Defrost termination thermostat](https://www.amazon.com/s?k=Defrost%20termination%20thermostat&tag=errorcodefixe-20) | Match clip type and temperature rating for the True model |
 
 ## When to Call a Pro
 

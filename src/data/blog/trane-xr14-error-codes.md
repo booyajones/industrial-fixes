@@ -1,4 +1,4 @@
----
+﻿---
 title: "Trane XR14 Heat Pump Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Trane XR14 heat pump error codes, flash sequences, common fault causes, and step-by-step fixes for the most common failures."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -20,16 +20,16 @@ The Trane XR14 is a single-stage heat pump in the XR series — a straightforwar
 
 ## Trane XR14 Flash Code Reference
 
-| Flash Code | Meaning |
+| [Flash Code](https://www.amazon.com/s?k=Flash%20Code&tag=errorcodefixe-20) | Meaning |
 |------------|---------|
-| 1 flash | Normal operation |
-| 2 flashes | High-pressure switch open |
-| 3 flashes | Low-pressure switch open |
-| 4 flashes | Outdoor ambient lockout (below 0°F) |
-| 5 flashes | Compressor overload or protection device |
-| 6 flashes | Control board fault |
-| 7 flashes | Discharge line temperature sensor fault |
-| 8 flashes | Defrost control fault |
+| [1 flash](https://www.amazon.com/s?k=1%20flash&tag=errorcodefixe-20) | Normal operation |
+| [2 flashes](https://www.amazon.com/s?k=2%20flashes&tag=errorcodefixe-20) | High-pressure switch open |
+| [3 flashes](https://www.amazon.com/s?k=3%20flashes&tag=errorcodefixe-20) | Low-pressure switch open |
+| [4 flashes](https://www.amazon.com/s?k=4%20flashes&tag=errorcodefixe-20) | Outdoor ambient lockout (below 0°F) |
+| [5 flashes](https://www.amazon.com/s?k=5%20flashes&tag=errorcodefixe-20) | Compressor overload or protection device |
+| [6 flashes](https://www.amazon.com/s?k=6%20flashes&tag=errorcodefixe-20) | Control board fault |
+| [7 flashes](https://www.amazon.com/s?k=7%20flashes&tag=errorcodefixe-20) | Discharge line temperature sensor fault |
+| [8 flashes](https://www.amazon.com/s?k=8%20flashes&tag=errorcodefixe-20) | Defrost control fault |
 
 ## Common Causes by Code
 
@@ -52,12 +52,12 @@ The Trane XR14 is a single-stage heat pump in the XR series — a straightforwar
 
 | Part | Notes |
 |------|-------|
-| Run capacitor | Dual run cap for compressor and fan; high failure rate |
-| Contactor | Pitted contacts cause voltage drop |
-| Defrost board | For Code 8; match to XR14 model number |
-| Defrost sensor | Clipped to outdoor coil |
-| Low-pressure switch | For Code 3 with correct refrigerant charge |
-| High-pressure switch | For Code 2 with clean coil and correct charge |
+| [Run capacitor](https://www.amazon.com/s?k=Run%20capacitor&tag=errorcodefixe-20) | Dual run cap for compressor and fan; high failure rate |
+| [Contactor](https://www.amazon.com/s?k=Contactor&tag=errorcodefixe-20) | Pitted contacts cause voltage drop |
+| [Defrost board](https://www.amazon.com/s?k=Defrost%20board&tag=errorcodefixe-20) | For Code 8; match to XR14 model number |
+| [Defrost sensor](https://www.amazon.com/s?k=Defrost%20sensor&tag=errorcodefixe-20) | Clipped to outdoor coil |
+| [Low-pressure switch](https://www.amazon.com/s?k=Low-pressure%20switch&tag=errorcodefixe-20) | For Code 3 with correct refrigerant charge |
+| [High-pressure switch](https://www.amazon.com/s?k=High-pressure%20switch&tag=errorcodefixe-20) | For Code 2 with clean coil and correct charge |
 
 ## When to Call a Pro
 

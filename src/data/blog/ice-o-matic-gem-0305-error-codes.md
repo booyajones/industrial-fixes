@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ice-O-Matic GEM-0305 Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Ice-O-Matic GEM-0305 ice machine error codes, diagnostic LED codes, common fault causes, and step-by-step repair procedures."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -20,21 +20,21 @@ The Ice-O-Matic GEM-0305 is a GEMU (Elevation) series cube ice machine producing
 
 ## Ice-O-Matic GEM-0305 Error Code Reference
 
-| Code | Fault |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Fault |
 |---|---|
-| E1 | Freeze cycle time exceeded |
-| E2 | Harvest cycle time exceeded |
-| E3 | Freeze sensor fault — evaporator thermistor |
-| E4 | Harvest sensor fault — hot gas thermistor |
-| E5 | High-pressure cutout |
-| E6 | Low-pressure cutout |
-| E7 | Water supply fault — float switch |
-| E8 | Bin full — bin thermostat active |
-| E9 | Incoming water temperature too high (>90°F) |
-| F1 | Condenser fan motor fault |
-| F2 | Water pump fault |
-| F3 | Hot gas valve fault |
-| F4 | Harvest gate motor fault |
+| [E1](https://www.amazon.com/s?k=E1&tag=errorcodefixe-20) | Freeze cycle time exceeded |
+| [E2](https://www.amazon.com/s?k=E2&tag=errorcodefixe-20) | Harvest cycle time exceeded |
+| [E3](https://www.amazon.com/s?k=E3&tag=errorcodefixe-20) | Freeze sensor fault — evaporator thermistor |
+| [E4](https://www.amazon.com/s?k=E4&tag=errorcodefixe-20) | Harvest sensor fault — hot gas thermistor |
+| [E5](https://www.amazon.com/s?k=E5&tag=errorcodefixe-20) | High-pressure cutout |
+| [E6](https://www.amazon.com/s?k=E6&tag=errorcodefixe-20) | Low-pressure cutout |
+| [E7](https://www.amazon.com/s?k=E7&tag=errorcodefixe-20) | Water supply fault — float switch |
+| [E8](https://www.amazon.com/s?k=E8&tag=errorcodefixe-20) | Bin full — bin thermostat active |
+| [E9](https://www.amazon.com/s?k=E9&tag=errorcodefixe-20) | Incoming water temperature too high (>90°F) |
+| [F1](https://www.amazon.com/s?k=F1&tag=errorcodefixe-20) | Condenser fan motor fault |
+| [F2](https://www.amazon.com/s?k=F2&tag=errorcodefixe-20) | Water pump fault |
+| [F3](https://www.amazon.com/s?k=F3&tag=errorcodefixe-20) | Hot gas valve fault |
+| [F4](https://www.amazon.com/s?k=F4&tag=errorcodefixe-20) | Harvest gate motor fault |
 
 ## Common Causes by Code
 
@@ -57,12 +57,12 @@ The Ice-O-Matic GEM-0305 is a GEMU (Elevation) series cube ice machine producing
 
 | Part | Notes |
 |---|---|
-| Hot gas solenoid valve | Check coil resistance before ordering complete valve |
-| Harvest gate motor | GEM-specific gear motor; not interchangeable |
-| Float switch | Float plus switch assembly |
-| Freeze/harvest thermistors | Sold individually or as a pair |
-| Condenser fan motor | Confirm CFM and HP rating |
-| Water inlet valve | Include strainer in cleaning |
+| [Hot gas solenoid valve](https://www.amazon.com/s?k=Hot%20gas%20solenoid%20valve&tag=errorcodefixe-20) | Check coil resistance before ordering complete valve |
+| [Harvest gate motor](https://www.amazon.com/s?k=Harvest%20gate%20motor&tag=errorcodefixe-20) | GEM-specific gear motor; not interchangeable |
+| [Float switch](https://www.amazon.com/s?k=Float%20switch&tag=errorcodefixe-20) | Float plus switch assembly |
+| [Freeze/harvest thermistors](https://www.amazon.com/s?k=Freeze%2Fharvest%20thermistors&tag=errorcodefixe-20) | Sold individually or as a pair |
+| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | Confirm CFM and HP rating |
+| [Water inlet valve](https://www.amazon.com/s?k=Water%20inlet%20valve&tag=errorcodefixe-20) | Include strainer in cleaning |
 
 ## When to Call a Pro
 

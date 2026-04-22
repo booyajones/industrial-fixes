@@ -1,4 +1,4 @@
----
+﻿---
 title: "SEW-Eurodrive Fault F07 — Causes & Fix"
 description: "What SEW-Eurodrive F07 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,9 +36,9 @@ SEW-Eurodrive fault F07 means overvoltage on the DC link — the DC bus voltage 
 
 | Part | Notes |
 |------|-------|
-| Braking resistor (SEW-specified) | Must match SEW's resistance and wattage specification for your drive size |
-| Brake chopper module | Internal to larger drives; separate external module for high-power applications |
-| Line reactor | Reduces input overvoltage from supply transients |
+| [Braking resistor (SEW-specified)](https://www.amazon.com/s?k=Braking%20resistor%20(SEW-specified)&tag=errorcodefixe-20) | Must match SEW's resistance and wattage specification for your drive size |
+| [Brake chopper module](https://www.amazon.com/s?k=Brake%20chopper%20module&tag=errorcodefixe-20) | Internal to larger drives; separate external module for high-power applications |
+| [Line reactor](https://www.amazon.com/s?k=Line%20reactor&tag=errorcodefixe-20) | Reduces input overvoltage from supply transients |
 
 ## When to Call a Pro
 

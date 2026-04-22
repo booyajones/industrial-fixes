@@ -1,4 +1,4 @@
----
+﻿---
 title: "ABB VFD Fault 5010 — Causes & Fix"
 description: "What ABB VFD fault 5010 means, why Safe Torque Off activates, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,10 +36,10 @@ Fault 5010 on ABB ACS drives (ACS580, ACS880, ACH580) indicates that the Safe To
 
 | Part | Notes |
 |------|-------|
-| Safety relay (24VDC) | Match safety relay series (Pilz, Schmersal, Sick, etc.) |
-| ABB STO option card (FSIO) | ACS880 drives with separate STO option module |
-| 24VDC control power supply | Replace if STO supply is failed |
-| STO wiring (24VDC, shielded) | Replace any damaged conductors in the STO circuit |
+| [Safety relay (24VDC)](https://www.amazon.com/s?k=Safety%20relay%20(24VDC)&tag=errorcodefixe-20) | Match safety relay series (Pilz, Schmersal, Sick, etc.) |
+| [ABB STO option card (FSIO)](https://www.amazon.com/s?k=ABB%20STO%20option%20card%20(FSIO)&tag=errorcodefixe-20) | ACS880 drives with separate STO option module |
+| [24VDC control power supply](https://www.amazon.com/s?k=24VDC%20control%20power%20supply&tag=errorcodefixe-20) | Replace if STO supply is failed |
+| [STO wiring (24VDC, shielded)](https://www.amazon.com/s?k=STO%20wiring%20(24VDC%2C%20shielded)&tag=errorcodefixe-20) | Replace any damaged conductors in the STO circuit |
 
 ## When to Call a Pro
 

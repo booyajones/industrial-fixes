@@ -1,4 +1,4 @@
----
+﻿---
 title: "Allen-Bradley PowerFlex Fault F111 — Causes & Fix"
 description: "What Allen-Bradley PowerFlex fault F111 means, why motor over speed triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -37,9 +37,9 @@ Allen-Bradley PowerFlex fault F111 is a **Motor Over Speed** fault — the drive
 
 | Part | Notes |
 |------|-------|
-| Dynamic brake resistor | Required if regenerative overspeed is the root cause |
-| Encoder cable | Shielded, properly routed; replace if damaged |
-| No hardware parts for parameter-only fixes | — |
+| [Dynamic brake resistor](https://www.amazon.com/s?k=Dynamic%20brake%20resistor&tag=errorcodefixe-20) | Required if regenerative overspeed is the root cause |
+| [Encoder cable](https://www.amazon.com/s?k=Encoder%20cable&tag=errorcodefixe-20) | Shielded, properly routed; replace if damaged |
+| [No hardware parts for parameter-only fixes](https://www.amazon.com/s?k=No%20hardware%20parts%20for%20parameter-only%20fixes&tag=errorcodefixe-20) | — |
 
 ## When to Call a Pro
 

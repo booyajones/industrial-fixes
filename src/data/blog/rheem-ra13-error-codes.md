@@ -1,4 +1,4 @@
----
+﻿---
 title: "Rheem RA13 Air Conditioner Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Rheem RA13 central air conditioner error codes, LED flash sequences, fault causes, and step-by-step repair procedures for technicians."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -20,16 +20,16 @@ The Rheem RA13 (and its Ruud counterpart, the RA13) is a 13–14 SEER single-sta
 
 ## Rheem RA13 LED Flash Code Reference
 
-| Flash Sequence | Fault |
+| [Flash Sequence](https://www.amazon.com/s?k=Flash%20Sequence&tag=errorcodefixe-20) | Fault |
 |---|---|
-| 1 flash | Normal — standby |
-| 2 flashes | High-pressure switch open |
-| 3 flashes | Low-pressure switch open |
-| 4 flashes | Compressor protection device open |
-| 5 flashes | Control board fault |
-| 6 flashes | Thermistor fault — outdoor sensor |
-| 7 flashes | Anti-short cycle lockout (5-minute delay) |
-| Rapid continuous | Low voltage — below 18VAC |
+| [1 flash](https://www.amazon.com/s?k=1%20flash&tag=errorcodefixe-20) | Normal — standby |
+| [2 flashes](https://www.amazon.com/s?k=2%20flashes&tag=errorcodefixe-20) | High-pressure switch open |
+| [3 flashes](https://www.amazon.com/s?k=3%20flashes&tag=errorcodefixe-20) | Low-pressure switch open |
+| [4 flashes](https://www.amazon.com/s?k=4%20flashes&tag=errorcodefixe-20) | Compressor protection device open |
+| [5 flashes](https://www.amazon.com/s?k=5%20flashes&tag=errorcodefixe-20) | Control board fault |
+| [6 flashes](https://www.amazon.com/s?k=6%20flashes&tag=errorcodefixe-20) | Thermistor fault — outdoor sensor |
+| [7 flashes](https://www.amazon.com/s?k=7%20flashes&tag=errorcodefixe-20) | Anti-short cycle lockout (5-minute delay) |
+| [Rapid continuous](https://www.amazon.com/s?k=Rapid%20continuous&tag=errorcodefixe-20) | Low voltage — below 18VAC |
 
 ## Common Causes by Code
 
@@ -51,12 +51,12 @@ The Rheem RA13 (and its Ruud counterpart, the RA13) is a 13–14 SEER single-sta
 
 | Part | Notes |
 |---|---|
-| Dual run capacitor | Most common RA13 failure; affects both fan and compressor |
-| Contactor | 2-pole; inspect for pitting and carbon buildup |
-| High-pressure switch | Spade terminals; replaces easily |
-| Low-pressure switch | 50 PSIG cutout for R-410A |
-| Control board | Check fuse first before ordering board |
-| Condenser fan motor | Match RPM, HP, and shaft size |
+| [Dual run capacitor](https://www.amazon.com/s?k=Dual%20run%20capacitor&tag=errorcodefixe-20) | Most common RA13 failure; affects both fan and compressor |
+| [Contactor](https://www.amazon.com/s?k=Contactor&tag=errorcodefixe-20) | 2-pole; inspect for pitting and carbon buildup |
+| [High-pressure switch](https://www.amazon.com/s?k=High-pressure%20switch&tag=errorcodefixe-20) | Spade terminals; replaces easily |
+| [Low-pressure switch](https://www.amazon.com/s?k=Low-pressure%20switch&tag=errorcodefixe-20) | 50 PSIG cutout for R-410A |
+| [Control board](https://www.amazon.com/s?k=Control%20board&tag=errorcodefixe-20) | Check fuse first before ordering board |
+| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | Match RPM, HP, and shaft size |
 
 ## When to Call a Pro
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Schneider Altivar 320 Fault Code Guide — Complete Diagnostic Reference"
 description: "Complete guide to Schneider Electric Altivar 320 VFD fault codes, causes, and step-by-step repair procedures for industrial technicians."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -20,23 +20,23 @@ The Schneider Electric Altivar 320 (ATV320) is a variable speed drive for simple
 
 ## Schneider ATV320 Fault Code Reference
 
-| Code | Fault |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Fault |
 |---|---|
-| OCF | Overcurrent fault |
-| OBF | Overbraking / DC bus overvoltage during deceleration |
-| OSF | Overspeed fault — motor running above maximum frequency |
-| PHF | Input phase loss |
-| SCF1 | Output phase short circuit — motor phases shorted |
-| SCF3 | Ground short circuit on motor output |
-| OHF | Drive overtemperature |
-| OLF | Motor thermal overload |
-| ULF | Underload fault — motor current below minimum threshold |
-| EEF1 | EEPROM fault — control board memory |
-| CFF | Configuration factory reset fault |
-| INF | Internal hardware fault |
-| SLF1 | Modbus communication loss |
-| CAF | CAN bus communication loss |
-| LFF1 | Loss of 4–20mA feedback signal (AI1 input) |
+| [OCF](https://www.amazon.com/s?k=OCF&tag=errorcodefixe-20) | Overcurrent fault |
+| [OBF](https://www.amazon.com/s?k=OBF&tag=errorcodefixe-20) | Overbraking / DC bus overvoltage during deceleration |
+| [OSF](https://www.amazon.com/s?k=OSF&tag=errorcodefixe-20) | Overspeed fault — motor running above maximum frequency |
+| [PHF](https://www.amazon.com/s?k=PHF&tag=errorcodefixe-20) | Input phase loss |
+| [SCF1](https://www.amazon.com/s?k=SCF1&tag=errorcodefixe-20) | Output phase short circuit — motor phases shorted |
+| [SCF3](https://www.amazon.com/s?k=SCF3&tag=errorcodefixe-20) | Ground short circuit on motor output |
+| [OHF](https://www.amazon.com/s?k=OHF&tag=errorcodefixe-20) | Drive overtemperature |
+| [OLF](https://www.amazon.com/s?k=OLF&tag=errorcodefixe-20) | Motor thermal overload |
+| [ULF](https://www.amazon.com/s?k=ULF&tag=errorcodefixe-20) | Underload fault — motor current below minimum threshold |
+| [EEF1](https://www.amazon.com/s?k=EEF1&tag=errorcodefixe-20) | EEPROM fault — control board memory |
+| [CFF](https://www.amazon.com/s?k=CFF&tag=errorcodefixe-20) | Configuration factory reset fault |
+| [INF](https://www.amazon.com/s?k=INF&tag=errorcodefixe-20) | Internal hardware fault |
+| [SLF1](https://www.amazon.com/s?k=SLF1&tag=errorcodefixe-20) | Modbus communication loss |
+| [CAF](https://www.amazon.com/s?k=CAF&tag=errorcodefixe-20) | CAN bus communication loss |
+| [LFF1](https://www.amazon.com/s?k=LFF1&tag=errorcodefixe-20) | Loss of 4–20mA feedback signal (AI1 input) |
 
 ## Common Causes by Code
 
@@ -59,11 +59,11 @@ The Schneider Electric Altivar 320 (ATV320) is a variable speed drive for simple
 
 | Part | Notes |
 |---|---|
-| Braking resistor | External; required for fast deceleration on high-inertia loads |
-| ATV320 replacement drive | For INF or persistent hardware faults |
-| SoMove configuration cable | USB-to-RJ45 for parameter access and diagnostics |
-| Input fuses | Semiconductor fuses rated for the drive input current |
-| Analog sensor | For LFF1; check sensor supply and output |
+| [Braking resistor](https://www.amazon.com/s?k=Braking%20resistor&tag=errorcodefixe-20) | External; required for fast deceleration on high-inertia loads |
+| [ATV320 replacement drive](https://www.amazon.com/s?k=ATV320%20replacement%20drive&tag=errorcodefixe-20) | For INF or persistent hardware faults |
+| [SoMove configuration cable](https://www.amazon.com/s?k=SoMove%20configuration%20cable&tag=errorcodefixe-20) | USB-to-RJ45 for parameter access and diagnostics |
+| [Input fuses](https://www.amazon.com/s?k=Input%20fuses&tag=errorcodefixe-20) | Semiconductor fuses rated for the drive input current |
+| [Analog sensor](https://www.amazon.com/s?k=Analog%20sensor&tag=errorcodefixe-20) | For LFF1; check sensor supply and output |
 
 ## When to Call a Pro
 

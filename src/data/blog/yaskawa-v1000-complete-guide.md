@@ -1,4 +1,4 @@
----
+﻿---
 title: "Yaskawa V1000 Complete Fault Code Guide — All Faults and Fixes"
 description: "Complete fault code guide for the Yaskawa V1000 microdrive, covering major alarm and fault codes, causes, and step-by-step troubleshooting."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -20,20 +20,20 @@ The Yaskawa V1000 is one of the most common compact VFDs in North American plant
 
 ## Yaskawa V1000 Common Fault Codes
 
-| Code | Meaning |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning |
 |------|---------|
-| oC | Overcurrent |
-| oV | Overvoltage |
-| UV1 | Main circuit undervoltage |
-| oH | Drive overheat |
-| oL1 | Motor overload |
-| oL2 | Drive overload |
-| oL3 | Overtorque |
-| PF | Input phase loss |
-| LF | Output phase loss |
-| GF | Ground fault |
-| bb | Baseblock / run disabled |
-| CPF00 | Control board fault |
+| [oC](https://www.amazon.com/s?k=oC&tag=errorcodefixe-20) | Overcurrent |
+| [oV](https://www.amazon.com/s?k=oV&tag=errorcodefixe-20) | Overvoltage |
+| [UV1](https://www.amazon.com/s?k=UV1&tag=errorcodefixe-20) | Main circuit undervoltage |
+| [oH](https://www.amazon.com/s?k=oH&tag=errorcodefixe-20) | Drive overheat |
+| [oL1](https://www.amazon.com/s?k=oL1&tag=errorcodefixe-20) | Motor overload |
+| [oL2](https://www.amazon.com/s?k=oL2&tag=errorcodefixe-20) | Drive overload |
+| [oL3](https://www.amazon.com/s?k=oL3&tag=errorcodefixe-20) | Overtorque |
+| [PF](https://www.amazon.com/s?k=PF&tag=errorcodefixe-20) | Input phase loss |
+| [LF](https://www.amazon.com/s?k=LF&tag=errorcodefixe-20) | Output phase loss |
+| [GF](https://www.amazon.com/s?k=GF&tag=errorcodefixe-20) | Ground fault |
+| [bb](https://www.amazon.com/s?k=bb&tag=errorcodefixe-20) | Baseblock / run disabled |
+| [CPF00](https://www.amazon.com/s?k=CPF00&tag=errorcodefixe-20) | Control board fault |
 
 ## Common Causes by Code
 
@@ -57,12 +57,12 @@ The Yaskawa V1000 is one of the most common compact VFDs in North American plant
 
 | Part | Notes |
 |------|-------|
-| Cooling fan | Routine wear item on older V1000 drives |
-| Braking resistor | Needed for fast stops on high-inertia loads |
-| Input fuses | Check all three for PF and UV1 events |
-| Motor cable | Replace if insulation tests low to ground |
-| Keypad / operator | Useful if display or parameter access is unreliable |
-| Drive | For CPF faults or repeated hardware trips after field wiring is confirmed |
+| [Cooling fan](https://www.amazon.com/s?k=Cooling%20fan&tag=errorcodefixe-20) | Routine wear item on older V1000 drives |
+| [Braking resistor](https://www.amazon.com/s?k=Braking%20resistor&tag=errorcodefixe-20) | Needed for fast stops on high-inertia loads |
+| [Input fuses](https://www.amazon.com/s?k=Input%20fuses&tag=errorcodefixe-20) | Check all three for PF and UV1 events |
+| [Motor cable](https://www.amazon.com/s?k=Motor%20cable&tag=errorcodefixe-20) | Replace if insulation tests low to ground |
+| [Keypad / operator](https://www.amazon.com/s?k=Keypad%20%2F%20operator&tag=errorcodefixe-20) | Useful if display or parameter access is unreliable |
+| [Drive](https://www.amazon.com/s?k=Drive&tag=errorcodefixe-20) | For CPF faults or repeated hardware trips after field wiring is confirmed |
 
 ## When to Call a Pro
 

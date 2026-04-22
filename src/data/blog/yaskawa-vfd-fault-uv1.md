@@ -1,4 +1,4 @@
----
+﻿---
 title: "Yaskawa VFD Fault UV1 — Causes & Fix"
 description: "What Yaskawa UV1 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,9 +36,9 @@ Yaskawa fault UV1 means main circuit undervoltage — the DC bus voltage dropped
 
 | Part | Notes |
 |------|-------|
-| Input fuses (semiconductor type) | Yaskawa specifies fuse type and current rating in the drive manual |
-| DC bus capacitors | Replacement is practical on larger drives; requires capacitor reformation procedure |
-| Line reactor | Reduces the impact of utility voltage sags on the DC bus |
+| [Input fuses (semiconductor type)](https://www.amazon.com/s?k=Input%20fuses%20(semiconductor%20type)&tag=errorcodefixe-20) | Yaskawa specifies fuse type and current rating in the drive manual |
+| [DC bus capacitors](https://www.amazon.com/s?k=DC%20bus%20capacitors&tag=errorcodefixe-20) | Replacement is practical on larger drives; requires capacitor reformation procedure |
+| [Line reactor](https://www.amazon.com/s?k=Line%20reactor&tag=errorcodefixe-20) | Reduces the impact of utility voltage sags on the DC bus |
 
 ## When to Call a Pro
 

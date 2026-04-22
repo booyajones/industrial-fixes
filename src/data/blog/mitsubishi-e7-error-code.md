@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mitsubishi E7 Error Code — Refrigerant Cycle Fault"
 description: "Mitsubishi mini-split Error Code E7 indicates a refrigerant cycle abnormality. Learn causes, diagnostic steps, and fixes for Mitsubishi E7."
 pubDatetime: 2026-04-22T17:00:00Z
@@ -34,14 +34,14 @@ Always verify by checking the service manual for your specific model number.
 
 ## Common Causes {#most-likely-cause}
 
-| Cause | Likelihood |
+| [Cause](https://www.amazon.com/s?k=Cause&tag=errorcodefixe-20) | Likelihood |
 |---|---|
-| Failed outdoor fan motor | Very High |
-| Failed outdoor fan run capacitor | High |
-| Outdoor fan motor winding failure | High |
-| Outdoor PCB fan control relay failure | Medium |
-| Debris blocking outdoor fan blade | Medium |
-| Refrigerant undercharge affecting cycle temps | Low |
+| [Failed outdoor fan motor](https://www.amazon.com/s?k=Failed%20outdoor%20fan%20motor&tag=errorcodefixe-20) | Very High |
+| [Failed outdoor fan run capacitor](https://www.amazon.com/s?k=Failed%20outdoor%20fan%20run%20capacitor&tag=errorcodefixe-20) | High |
+| [Outdoor fan motor winding failure](https://www.amazon.com/s?k=Outdoor%20fan%20motor%20winding%20failure&tag=errorcodefixe-20) | High |
+| [Outdoor PCB fan control relay failure](https://www.amazon.com/s?k=Outdoor%20PCB%20fan%20control%20relay%20failure&tag=errorcodefixe-20) | Medium |
+| [Debris blocking outdoor fan blade](https://www.amazon.com/s?k=Debris%20blocking%20outdoor%20fan%20blade&tag=errorcodefixe-20) | Medium |
+| [Refrigerant undercharge affecting cycle temps](https://www.amazon.com/s?k=Refrigerant%20undercharge%20affecting%20cycle%20temps&tag=errorcodefixe-20) | Low |
 
 ## Step-by-Step Diagnosis {#diagnosis}
 
@@ -76,9 +76,9 @@ Always verify by checking the service manual for your specific model number.
 
 | Part | Notes |
 |---|---|
-| Outdoor fan motor | Match HP, RPM, shaft length, rotation direction |
-| Run capacitor | Match µF and voltage — 370V or 440V |
-| Outdoor PCB | Only replace after confirming power supply issue |
+| [Outdoor fan motor](https://www.amazon.com/s?k=Outdoor%20fan%20motor&tag=errorcodefixe-20) | Match HP, RPM, shaft length, rotation direction |
+| [Run capacitor](https://www.amazon.com/s?k=Run%20capacitor&tag=errorcodefixe-20) | Match µF and voltage — 370V or 440V |
+| [Outdoor PCB](https://www.amazon.com/s?k=Outdoor%20PCB&tag=errorcodefixe-20) | Only replace after confirming power supply issue |
 
 ## Reset Procedure
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Daikin F3 Error Code — Causes & Fix"
 description: "What Daikin F3 error code means, why the discharge temp sensor faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -37,8 +37,8 @@ The Daikin F3 error code indicates a **discharge temperature sensor (thermistor)
 
 | Part | Notes |
 |------|-------|
-| Discharge temperature sensor (thermistor) | Must match Daikin model; resistance spec varies by series |
-| Sensor harness wiring | If the harness is damaged; use equivalent gauge wire |
+| [Discharge temperature sensor (thermistor)](https://www.amazon.com/s?k=Discharge%20temperature%20sensor%20(thermistor)&tag=errorcodefixe-20) | Must match Daikin model; resistance spec varies by series |
+| [Sensor harness wiring](https://www.amazon.com/s?k=Sensor%20harness%20wiring&tag=errorcodefixe-20) | If the harness is damaged; use equivalent gauge wire |
 
 ## When to Call a Pro
 

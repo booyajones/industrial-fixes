@@ -1,4 +1,4 @@
----
+﻿---
 title: "Noritz Error Code 16 — Causes & Fix"
 description: "What Noritz error code 16 means, why over-temperature shutdown occurs, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,9 +36,9 @@ Error code 16 on a Noritz tankless water heater indicates an over-temperature sh
 
 | Part | Notes |
 |------|-------|
-| Outlet thermistor | Noritz OEM NTC sensor; match model series |
-| Inlet filter screen | Clean or replace; inexpensive maintenance item |
-| Descaling solution | White vinegar or commercial tankless descaler |
+| [Outlet thermistor](https://www.amazon.com/s?k=Outlet%20thermistor&tag=errorcodefixe-20) | Noritz OEM NTC sensor; match model series |
+| [Inlet filter screen](https://www.amazon.com/s?k=Inlet%20filter%20screen&tag=errorcodefixe-20) | Clean or replace; inexpensive maintenance item |
+| [Descaling solution](https://www.amazon.com/s?k=Descaling%20solution&tag=errorcodefixe-20) | White vinegar or commercial tankless descaler |
 
 ## When to Call a Pro
 

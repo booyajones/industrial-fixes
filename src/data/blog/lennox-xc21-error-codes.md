@@ -1,4 +1,4 @@
----
+﻿---
 title: "Lennox XC21 Error Codes — Diagnostic Guide and Fixes"
 description: "Complete guide to Lennox XC21 variable-capacity heat pump error codes displayed on iComfort thermostats, with causes and step-by-step fixes."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -19,16 +19,16 @@ The Lennox XC21 is a variable-capacity inverter heat pump that communicates with
 
 ## Most Common XC21 Alert Codes
 
-| Alert Code | Meaning |
+| [Alert Code](https://www.amazon.com/s?k=Alert%20Code&tag=errorcodefixe-20) | Meaning |
 |-----------|---------|
-| 434 | Outdoor unit lost communication |
-| 411 | Indoor unit lost communication |
-| 327 | High discharge temperature |
-| 225 | Low-pressure fault (outdoor) |
-| 223 | High-pressure fault (outdoor) |
-| 204 | Compressor over-current |
-| 125 | Outdoor ambient temperature sensor fault |
-| 103 | Discharge temperature sensor fault |
+| [434](https://www.amazon.com/s?k=434&tag=errorcodefixe-20) | Outdoor unit lost communication |
+| [411](https://www.amazon.com/s?k=411&tag=errorcodefixe-20) | Indoor unit lost communication |
+| [327](https://www.amazon.com/s?k=327&tag=errorcodefixe-20) | High discharge temperature |
+| [225](https://www.amazon.com/s?k=225&tag=errorcodefixe-20) | Low-pressure fault (outdoor) |
+| [223](https://www.amazon.com/s?k=223&tag=errorcodefixe-20) | High-pressure fault (outdoor) |
+| [204](https://www.amazon.com/s?k=204&tag=errorcodefixe-20) | Compressor over-current |
+| [125](https://www.amazon.com/s?k=125&tag=errorcodefixe-20) | Outdoor ambient temperature sensor fault |
+| [103](https://www.amazon.com/s?k=103&tag=errorcodefixe-20) | Discharge temperature sensor fault |
 
 ## Common Causes
 
@@ -51,11 +51,11 @@ The Lennox XC21 is a variable-capacity inverter heat pump that communicates with
 
 | Part | Notes |
 |------|-------|
-| iComfort thermostat (S30 or E30) | For persistent 411/434 after wiring confirmed |
-| Outdoor unit control board | For persistent 434 — must match XC21 model exactly |
-| Condenser fan motor + capacitor | For Alert 223 with clean coil; test capacitor before motor |
-| Low-pressure switch | For persistent Alert 225 after confirming charge |
-| Discharge temperature sensor | For Alert 103 or persistent 327 with correct charge |
+| [iComfort thermostat (S30 or E30)](https://www.amazon.com/s?k=iComfort%20thermostat%20(S30%20or%20E30)&tag=errorcodefixe-20) | For persistent 411/434 after wiring confirmed |
+| [Outdoor unit control board](https://www.amazon.com/s?k=Outdoor%20unit%20control%20board&tag=errorcodefixe-20) | For persistent 434 — must match XC21 model exactly |
+| [Condenser fan motor + capacitor](https://www.amazon.com/s?k=Condenser%20fan%20motor%20%2B%20capacitor&tag=errorcodefixe-20) | For Alert 223 with clean coil; test capacitor before motor |
+| [Low-pressure switch](https://www.amazon.com/s?k=Low-pressure%20switch&tag=errorcodefixe-20) | For persistent Alert 225 after confirming charge |
+| [Discharge temperature sensor](https://www.amazon.com/s?k=Discharge%20temperature%20sensor&tag=errorcodefixe-20) | For Alert 103 or persistent 327 with correct charge |
 
 ## When to Call a Pro
 

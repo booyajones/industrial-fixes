@@ -1,4 +1,4 @@
----
+﻿---
 title: "Navien Error Code E007 — Causes & Fix"
 description: "What Navien error code E007 means, why hot water outlet temperature is too high, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -37,9 +37,9 @@ Navien E007 indicates **abnormally high temperature at the hot water outlet** �
 
 | Part | Notes |
 |------|-------|
-| Outlet water temperature thermistor | Navien model-specific; matches DHW outlet sensor spec |
-| Descaling kit | Pump + citric acid solution; available from Navien or HVAC supply houses |
-| Cold water inlet filter screen | Inexpensive; keep a spare on hand |
+| [Outlet water temperature thermistor](https://www.amazon.com/s?k=Outlet%20water%20temperature%20thermistor&tag=errorcodefixe-20) | Navien model-specific; matches DHW outlet sensor spec |
+| [Descaling kit](https://www.amazon.com/s?k=Descaling%20kit&tag=errorcodefixe-20) | Pump + citric acid solution; available from Navien or HVAC supply houses |
+| [Cold water inlet filter screen](https://www.amazon.com/s?k=Cold%20water%20inlet%20filter%20screen&tag=errorcodefixe-20) | Inexpensive; keep a spare on hand |
 
 ## When to Call a Pro
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mazak Alarm 50 Servo — Causes & Fix"
 description: "What Mazak CNC alarm 50 servo drive fault means, how to diagnose it, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,10 +36,10 @@ Alarm 50 on a Mazak CNC (Mazatrol T32, M32, Fusion 640, Matrix, Smooth controls)
 
 | Part | Notes |
 |------|-------|
-| MDS servo amplifier | Mitsubishi MDS-B, MDS-C1, or MDS-D series depending on control vintage |
-| OSA absolute encoder | Mitsubishi OEM; requires reference point recovery after replacement |
-| Encoder backup battery | 3.6V lithium; replace every 3–5 years |
-| Cabinet cooling fan | Match electrical cabinet specifications |
+| [MDS servo amplifier](https://www.amazon.com/s?k=MDS%20servo%20amplifier&tag=errorcodefixe-20) | Mitsubishi MDS-B, MDS-C1, or MDS-D series depending on control vintage |
+| [OSA absolute encoder](https://www.amazon.com/s?k=OSA%20absolute%20encoder&tag=errorcodefixe-20) | Mitsubishi OEM; requires reference point recovery after replacement |
+| [Encoder backup battery](https://www.amazon.com/s?k=Encoder%20backup%20battery&tag=errorcodefixe-20) | 3.6V lithium; replace every 3–5 years |
+| [Cabinet cooling fan](https://www.amazon.com/s?k=Cabinet%20cooling%20fan&tag=errorcodefixe-20) | Match electrical cabinet specifications |
 
 ## When to Call a Pro
 

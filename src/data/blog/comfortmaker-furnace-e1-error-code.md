@@ -1,4 +1,4 @@
----
+﻿---
 title: "Comfortmaker Furnace E1 Error Code — Causes & Fix"
 description: "What Comfortmaker furnace E1 error code means, why the system locks out, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -37,9 +37,9 @@ The Comfortmaker E1 error code is a **system lockout** — the furnace has excee
 
 | Part | Notes |
 |------|-------|
-| Flame sensor rod | Address ignition lockouts first — easiest and cheapest fix |
-| Air filter | For limit lockouts; replace and confirm blower operation |
-| Rollout switch | Manual-reset thermal fuse; match temperature rating |
+| [Flame sensor rod](https://www.amazon.com/s?k=Flame%20sensor%20rod&tag=errorcodefixe-20) | Address ignition lockouts first — easiest and cheapest fix |
+| [Air filter](https://www.amazon.com/s?k=Air%20filter&tag=errorcodefixe-20) | For limit lockouts; replace and confirm blower operation |
+| [Rollout switch](https://www.amazon.com/s?k=Rollout%20switch&tag=errorcodefixe-20) | Manual-reset thermal fuse; match temperature rating |
 
 ## When to Call a Pro
 

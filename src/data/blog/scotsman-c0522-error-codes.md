@@ -1,4 +1,4 @@
----
+﻿---
 title: "Scotsman C0522 Error Codes — Fix Guide"
 description: "Scotsman C0522 ice machine error codes: what each means and how to fix it."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -15,16 +15,11 @@ tags:
 
 The Scotsman C0522 is a 522 lb/day cube ice machine (Prodigy series) found in restaurants, hotels, and hospitality operations. It uses the Scotsman SmartBoard controller with numeric fault codes.
 
-| Code | Meaning | Urgency |
-|------|---------|---------|
-| 1 | Long harvest cycle | Medium |
-| 2 | Repeated harvest timeouts | High |
-| 3 | Long freeze cycle | Medium |
-| 4 | Long harvest assist | High |
-| 5 | Harvest assist fault | High |
-| 8 | Water inlet valve fault | Medium |
-| E1 | Evaporator thermistor fault | Medium |
-| P1 | Power interruption (informational) | Low |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning | Urgency | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |---------|---------|
+| 1 | [Long harvest cycle](https://www.amazon.com/s?k=Long%20harvest%20cycle&tag=errorcodefixe-20) | Medium |
+| [2](https://www.amazon.com/s?k=2&tag=errorcodefixe-20) | Repeated harvest timeouts | High | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 3 | Long freeze cycle | [Medium](https://www.amazon.com/s?k=Medium&tag=errorcodefixe-20) |  | 4 | [Long harvest assist](https://www.amazon.com/s?k=Long%20harvest%20assist&tag=errorcodefixe-20) | High |
+| [5](https://www.amazon.com/s?k=5&tag=errorcodefixe-20) | Harvest assist fault | High | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 8 | Water inlet valve fault | [Medium](https://www.amazon.com/s?k=Medium&tag=errorcodefixe-20) |  | E1 | [Evaporator thermistor fault](https://www.amazon.com/s?k=Evaporator%20thermistor%20fault&tag=errorcodefixe-20) | Medium |
+| [P1](https://www.amazon.com/s?k=P1&tag=errorcodefixe-20) | Power interruption (informational) | Low |
 
 [Jump to Fix](#fix)
 
@@ -40,11 +35,7 @@ The Scotsman C0522 is a 522 lb/day cube ice machine (Prodigy series) found in re
 
 ## Parts Often Needed
 
-| Part | Notes |
-|------|-------|
-| Harvest assist solenoid valve | Most common Code 4/5 repair |
-| Evaporator thermistor | Code E1 |
-| Water inlet valve | Code 8 |
+| Part | Notes | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |-------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Harvest assist solenoid valve | Most common Code 4/5 repair | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Evaporator thermistor | Code E1 | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Water inlet valve | Code 8 |
 
 ## When to Call a Pro
 

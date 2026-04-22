@@ -1,4 +1,4 @@
----
+﻿---
 title: "Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix"
 description: "What Yaskawa GA700 fault UV1 means, why main circuit undervoltage trips the drive, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -38,8 +38,8 @@ UV1 on a Yaskawa GA700 drive (GA700 = Yaskawa's heavy-duty industrial drive plat
 
 | Part | Notes |
 |------|-------|
-| Input fuses (semiconductor) | Use Yaskawa-specified fuse type for GA700 ampere rating |
-| Soft-charge relay or thermistor | GA700 frame-size specific; order from Yaskawa |
+| [Input fuses (semiconductor)](https://www.amazon.com/s?k=Input%20fuses%20(semiconductor)&tag=errorcodefixe-20) | Use Yaskawa-specified fuse type for GA700 ampere rating |
+| [Soft-charge relay or thermistor](https://www.amazon.com/s?k=Soft-charge%20relay%20or%20thermistor&tag=errorcodefixe-20) | GA700 frame-size specific; order from Yaskawa |
 
 ## When to Call a Pro
 

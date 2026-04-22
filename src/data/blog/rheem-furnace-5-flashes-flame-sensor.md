@@ -1,4 +1,4 @@
----
+﻿---
 title: "Rheem Furnace 5 Flashes Error Code — Flame Sensor Fault Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-15T08:00:00Z
@@ -48,11 +48,8 @@ This is one of the most common furnace faults in the field. The flame sensor its
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Part Number | Typical Cost | Where to Buy |
-|------|------------|-------------|-------------|
-| Rheem OEM Flame Sensor | 42-24195-01 | $18–$25 | Repair Clinic / Amazon |
-| Hot Surface Igniter (HSI) | SP10266 | $35–$45 | Repair Clinic / Amazon |
-| Rheem Control Board (if board is bad) | 62-24268-82 | $150–$220 | Repair Clinic / HVAC distributor |
+| Part | Part Number | Typical Cost | [Where to Buy](https://www.amazon.com/s?k=Where%20to%20Buy&tag=errorcodefixe-20) |  |------|------------|-------------|-------------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Rheem OEM Flame Sensor | 42-24195-01 | [$18–$25](https://www.amazon.com/s?k=%2418%E2%80%93%2425&tag=errorcodefixe-20) | Repair Clinic / Amazon |
+| [Hot Surface Igniter (HSI)](https://www.amazon.com/s?k=Hot%20Surface%20Igniter%20(HSI)&tag=errorcodefixe-20) | SP10266 | $35–$45 | [Repair Clinic / Amazon](https://www.amazon.com/s?k=Repair%20Clinic%20%2F%20Amazon&tag=errorcodefixe-20) |  | Rheem Control Board (if board is bad) | [62-24268-82](https://www.amazon.com/s?k=62-24268-82&tag=errorcodefixe-20) | $150–$220 | Repair Clinic / HVAC distributor |
 
 ## When to Call a Professional
 

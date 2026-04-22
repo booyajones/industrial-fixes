@@ -1,4 +1,4 @@
----
+﻿---
 title: "Noritz NRCP Series Error Codes — Condensing Tankless Fault Guide"
 description: "Complete guide to Noritz NRCP series condensing tankless water heater error codes, fault causes, and step-by-step troubleshooting."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -20,25 +20,25 @@ The Noritz NRCP series (NRCP1112-DV, NRCP1262-DV) are direct-vent condensing tan
 
 ## Noritz NRCP Error Code Reference
 
-| Code | Meaning |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning |
 |------|---------|
-| 10 | Air supply or exhaust blockage |
-| 11 | Ignition failure |
-| 12 | Accidental flame extinction |
-| 14 | Thermal fuse fault |
-| 16 | Outlet water temperature overheat |
-| 20 | Water temperature sensor fault |
-| 21 | Secondary heat exchanger temp sensor fault |
-| 29 | Neutralizer (condensate) fault |
-| 31 | Flue gas sensor fault |
-| 51 | Gas valve fault |
-| 52 | Gas valve — failure to close |
-| 57 | Combustion fan fault |
-| 58 | Combustion air switch fault |
-| 66 | Water flow sensor fault |
-| 67 | Hot water temperature thermistor fault |
-| 71 | Abnormal PCB |
-| 90 | Exhaust temperature too high |
+| [10](https://www.amazon.com/s?k=10&tag=errorcodefixe-20) | Air supply or exhaust blockage |
+| [11](https://www.amazon.com/s?k=11&tag=errorcodefixe-20) | Ignition failure |
+| [12](https://www.amazon.com/s?k=12&tag=errorcodefixe-20) | Accidental flame extinction |
+| [14](https://www.amazon.com/s?k=14&tag=errorcodefixe-20) | Thermal fuse fault |
+| [16](https://www.amazon.com/s?k=16&tag=errorcodefixe-20) | Outlet water temperature overheat |
+| [20](https://www.amazon.com/s?k=20&tag=errorcodefixe-20) | Water temperature sensor fault |
+| [21](https://www.amazon.com/s?k=21&tag=errorcodefixe-20) | Secondary heat exchanger temp sensor fault |
+| [29](https://www.amazon.com/s?k=29&tag=errorcodefixe-20) | Neutralizer (condensate) fault |
+| [31](https://www.amazon.com/s?k=31&tag=errorcodefixe-20) | Flue gas sensor fault |
+| [51](https://www.amazon.com/s?k=51&tag=errorcodefixe-20) | Gas valve fault |
+| [52](https://www.amazon.com/s?k=52&tag=errorcodefixe-20) | Gas valve — failure to close |
+| [57](https://www.amazon.com/s?k=57&tag=errorcodefixe-20) | Combustion fan fault |
+| [58](https://www.amazon.com/s?k=58&tag=errorcodefixe-20) | Combustion air switch fault |
+| [66](https://www.amazon.com/s?k=66&tag=errorcodefixe-20) | Water flow sensor fault |
+| [67](https://www.amazon.com/s?k=67&tag=errorcodefixe-20) | Hot water temperature thermistor fault |
+| [71](https://www.amazon.com/s?k=71&tag=errorcodefixe-20) | Abnormal PCB |
+| [90](https://www.amazon.com/s?k=90&tag=errorcodefixe-20) | Exhaust temperature too high |
 
 ## Common Causes by Code
 
@@ -64,12 +64,12 @@ The Noritz NRCP series (NRCP1112-DV, NRCP1262-DV) are direct-vent condensing tan
 
 | Part | Notes |
 |------|-------|
-| Thermal fuse | One-time; must replace; fix root cause first |
-| Neutralizer media | Calcium carbonate; annual replacement in hard water |
-| Combustion fan | For Code 57 after obstacle check |
-| Flow sensor | For Code 66 after descaling attempt |
-| Gas valve assembly | For Code 51 after confirmed 24V signal |
-| Secondary heat exchanger | For Code 90 due to scale — expensive; consider unit age |
+| [Thermal fuse](https://www.amazon.com/s?k=Thermal%20fuse&tag=errorcodefixe-20) | One-time; must replace; fix root cause first |
+| [Neutralizer media](https://www.amazon.com/s?k=Neutralizer%20media&tag=errorcodefixe-20) | Calcium carbonate; annual replacement in hard water |
+| [Combustion fan](https://www.amazon.com/s?k=Combustion%20fan&tag=errorcodefixe-20) | For Code 57 after obstacle check |
+| [Flow sensor](https://www.amazon.com/s?k=Flow%20sensor&tag=errorcodefixe-20) | For Code 66 after descaling attempt |
+| [Gas valve assembly](https://www.amazon.com/s?k=Gas%20valve%20assembly&tag=errorcodefixe-20) | For Code 51 after confirmed 24V signal |
+| [Secondary heat exchanger](https://www.amazon.com/s?k=Secondary%20heat%20exchanger&tag=errorcodefixe-20) | For Code 90 due to scale — expensive; consider unit age |
 
 ## When to Call a Pro
 

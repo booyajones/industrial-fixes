@@ -1,4 +1,4 @@
----
+﻿---
 title: "Fanuc Alarm 600 — Causes & Fix"
 description: "What Fanuc Alarm 600 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T18:00:00Z
@@ -36,8 +36,8 @@ Fanuc Alarm 600 is an APC (Absolute Pulse Coder) alarm series — the absolute e
 
 | Part | Notes |
 |------|-------|
-| Fanuc encoder backup battery | Match to Fanuc system — A06B-6073-K001 (6V) or model-specific |
-| Battery cable harness | Replace if corroded |
+| [Fanuc encoder backup battery](https://www.amazon.com/s?k=Fanuc%20encoder%20backup%20battery&tag=errorcodefixe-20) | Match to Fanuc system — A06B-6073-K001 (6V) or model-specific |
+| [Battery cable harness](https://www.amazon.com/s?k=Battery%20cable%20harness&tag=errorcodefixe-20) | Replace if corroded |
 
 ## When to Call a Pro
 

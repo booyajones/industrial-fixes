@@ -1,4 +1,4 @@
----
+﻿---
 title: "Miller Welder Fault Code B1 — Causes & Fix"
 description: "What Miller welder fault code B1 means, why output voltage faults trigger, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -36,9 +36,9 @@ Miller fault code B1 indicates an **output voltage fault**. The machine's contro
 
 | Part | Notes |
 |------|-------|
-| Weld lead set | Replace if insulation is damaged or terminals are overheated |
-| Work clamp | Weak spring or burned contact surfaces create voltage instability |
-| Output board / power module | Needed if B1 persists with no external load connected |
+| [Weld lead set](https://www.amazon.com/s?k=Weld%20lead%20set&tag=errorcodefixe-20) | Replace if insulation is damaged or terminals are overheated |
+| [Work clamp](https://www.amazon.com/s?k=Work%20clamp&tag=errorcodefixe-20) | Weak spring or burned contact surfaces create voltage instability |
+| [Output board / power module](https://www.amazon.com/s?k=Output%20board%20%2F%20power%20module&tag=errorcodefixe-20) | Needed if B1 persists with no external load connected |
 
 ## When to Call a Pro
 

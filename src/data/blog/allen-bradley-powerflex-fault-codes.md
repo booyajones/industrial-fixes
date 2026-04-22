@@ -1,4 +1,4 @@
----
+﻿---
 title: "Allen Bradley PowerFlex Fault Codes — Complete Reference"
 description: "Allen Bradley PowerFlex fault codes: all F and fault number codes for PowerFlex 4, 40, 523, 525, 700, 753, and 755 drives."
 pubDatetime: 2026-04-22T16:00:00Z
@@ -15,21 +15,11 @@ tags:
 
 Allen Bradley PowerFlex drives display fault codes on the integral keypad or HIM (Human Interface Module). The fault code format varies by drive family: PowerFlex 4/40 use F-prefix codes; PowerFlex 523/525 use F or numeric codes; PowerFlex 700/753/755 use numeric fault codes accessible via the keypad or DriveExplorer/Studio 5000 software.
 
-| Code | Drive | Meaning | Common Fix |
-|------|-------|---------|-----------|
-| F002 | 4/40/523 | Auxiliary input fault | Check enable input wiring |
-| F004 | 4/40/523 | Undervoltage | Check input power; transformer |
-| F005 | 4/40/523 | Overvoltage | Decel ramp too fast; add braking resistor |
-| F007 | 4/40/523 | Motor overload (OL) | Reduce load; check motor current |
-| F012 | 40/523 | HW overcurrent | Check motor wiring; mechanical jam |
-| F025 | 40/523 | DPI comm fault | Check HIM or comm module connection |
-| F063 | 40/523 | SW overcurrent | Check drive-to-motor wiring |
-| F069 | 40/525 | PI feedback loss | Check feedback device wiring |
-| F111 | 40/525 | External fault | Check fault input wiring and source |
-| Fault 3 | 700/753/755 | Power loss | Check supply voltage |
-| Fault 7 | 700/753/755 | Motor stalled | Check load; increase stall timeout |
-| Fault 12 | 700/753/755 | HW overcurrent | Check wiring; mechanical jam |
-| Fault 35 | 753/755 | Comms loss | Check EtherNet/IP or DeviceNet |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Drive | Meaning | [Common Fix](https://www.amazon.com/s?k=Common%20Fix&tag=errorcodefixe-20) |  |------|-------|---------|-----------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | F002 | 4/40/523 | [Auxiliary input fault](https://www.amazon.com/s?k=Auxiliary%20input%20fault&tag=errorcodefixe-20) | Check enable input wiring |
+| [F004](https://www.amazon.com/s?k=F004&tag=errorcodefixe-20) | 4/40/523 | Undervoltage | [Check input power; transformer](https://www.amazon.com/s?k=Check%20input%20power%3B%20transformer&tag=errorcodefixe-20) |  | F005 | [4/40/523](https://www.amazon.com/s?k=4%2F40%2F523&tag=errorcodefixe-20) | Overvoltage | Decel ramp too fast; add braking resistor | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | F007 | 4/40/523 | [Motor overload (OL)](https://www.amazon.com/s?k=Motor%20overload%20(OL)&tag=errorcodefixe-20) | Reduce load; check motor current |
+| [F012](https://www.amazon.com/s?k=F012&tag=errorcodefixe-20) | 40/523 | HW overcurrent | [Check motor wiring; mechanical jam](https://www.amazon.com/s?k=Check%20motor%20wiring%3B%20mechanical%20jam&tag=errorcodefixe-20) |  | F025 | [40/523](https://www.amazon.com/s?k=40%2F523&tag=errorcodefixe-20) | DPI comm fault | Check HIM or comm module connection | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | F063 | 40/523 | [SW overcurrent](https://www.amazon.com/s?k=SW%20overcurrent&tag=errorcodefixe-20) | Check drive-to-motor wiring |
+| [F069](https://www.amazon.com/s?k=F069&tag=errorcodefixe-20) | 40/525 | PI feedback loss | [Check feedback device wiring](https://www.amazon.com/s?k=Check%20feedback%20device%20wiring&tag=errorcodefixe-20) |  | F111 | [40/525](https://www.amazon.com/s?k=40%2F525&tag=errorcodefixe-20) | External fault | Check fault input wiring and source | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Fault 3 | 700/753/755 | [Power loss](https://www.amazon.com/s?k=Power%20loss&tag=errorcodefixe-20) | Check supply voltage |
+| [Fault 7](https://www.amazon.com/s?k=Fault%207&tag=errorcodefixe-20) | 700/753/755 | Motor stalled | [Check load; increase stall timeout](https://www.amazon.com/s?k=Check%20load%3B%20increase%20stall%20timeout&tag=errorcodefixe-20) |  | Fault 12 | [700/753/755](https://www.amazon.com/s?k=700%2F753%2F755&tag=errorcodefixe-20) | HW overcurrent | Check wiring; mechanical jam | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Fault 35 | 753/755 | [Comms loss](https://www.amazon.com/s?k=Comms%20loss&tag=errorcodefixe-20) | Check EtherNet/IP or DeviceNet |
 
 ## Most Common Codes
 
@@ -65,9 +55,9 @@ The drive lost communication with the EtherNet/IP network or I/O scanner. Check:
 
 | Part | Notes |
 |------|-------|
-| HIM module | PowerFlex 4/40: 22-HIM-A3; PF700: 20-HIM-A3 |
-| Dynamic braking resistor | Size per drive HP; Rockwell catalog or third-party |
-| Contactor / line reactor | Add if experiencing nuisance undervoltage trips |
+| [HIM module](https://www.amazon.com/s?k=HIM%20module&tag=errorcodefixe-20) | PowerFlex 4/40: 22-HIM-A3; PF700: 20-HIM-A3 |
+| [Dynamic braking resistor](https://www.amazon.com/s?k=Dynamic%20braking%20resistor&tag=errorcodefixe-20) | Size per drive HP; Rockwell catalog or third-party |
+| [Contactor / line reactor](https://www.amazon.com/s?k=Contactor%20%2F%20line%20reactor&tag=errorcodefixe-20) | Add if experiencing nuisance undervoltage trips |
 
 ## When to Call a Pro
 F012 (hardware overcurrent) and any fault accompanied by a burning smell or visible damage to the drive's output stage require qualified drive service technicians. Replacing IGBTs and gate drivers inside a PowerFlex 700 or 755 requires specialized training and tools.

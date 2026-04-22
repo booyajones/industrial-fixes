@@ -1,4 +1,4 @@
----
+﻿---
 title: "Lennox 103 Error Code — Causes & Fix"
 description: "What Lennox 103 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,10 +36,10 @@ Lennox error code 103 indicates a pressure switch fault — the iComfort or Sure
 
 | Part | Notes |
 |------|-------|
-| Induced draft motor | Model-specific; Lennox uses several suppliers across product lines |
-| Draft motor capacitor | Cheap fix if motor won't start; test before replacing motor |
-| Pressure switch | Match the WC rating printed on the old switch |
-| Condensate trap | Replacement traps are model-specific on Lennox 90%+ units |
+| [Induced draft motor](https://www.amazon.com/s?k=Induced%20draft%20motor&tag=errorcodefixe-20) | Model-specific; Lennox uses several suppliers across product lines |
+| [Draft motor capacitor](https://www.amazon.com/s?k=Draft%20motor%20capacitor&tag=errorcodefixe-20) | Cheap fix if motor won't start; test before replacing motor |
+| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Match the WC rating printed on the old switch |
+| [Condensate trap](https://www.amazon.com/s?k=Condensate%20trap&tag=errorcodefixe-20) | Replacement traps are model-specific on Lennox 90%+ units |
 
 ## When to Call a Pro
 

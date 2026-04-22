@@ -1,4 +1,4 @@
----
+﻿---
 title: "Pioneer Mini Split Error Code F1 — Causes & Fix"
 description: "What Pioneer mini split error code F1 means, why the temperature sensor faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -38,8 +38,8 @@ F1 on a Pioneer mini split signals a temperature sensor fault on the indoor unit
 
 | Part | Notes |
 |------|-------|
-| Indoor ambient (room) thermistor | Typically labeled T1 on the PCB |
-| Evaporator coil thermistor | Typically labeled T2; clips to the coil fins |
+| [Indoor ambient (room) thermistor](https://www.amazon.com/s?k=Indoor%20ambient%20(room)%20thermistor&tag=errorcodefixe-20) | Typically labeled T1 on the PCB |
+| [Evaporator coil thermistor](https://www.amazon.com/s?k=Evaporator%20coil%20thermistor&tag=errorcodefixe-20) | Typically labeled T2; clips to the coil fins |
 
 ## When to Call a Pro
 

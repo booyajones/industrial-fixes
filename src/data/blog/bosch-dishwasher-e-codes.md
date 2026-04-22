@@ -1,4 +1,4 @@
----
+﻿---
 title: "Bosch Commercial Dishwasher E-Codes — Guide"
 description: "Bosch commercial dishwasher E-codes: what each means and how to fix it."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -15,19 +15,11 @@ tags:
 
 Bosch commercial dishwashers (undercounter, door-type, and conveyor models) display E-codes when faults occur. Bosch commercial equipment is common in hotel, restaurant, and healthcare food service operations.
 
-| Code | Meaning | Urgency |
-|------|---------|---------|
-| E1 | Water inlet fault | Medium |
-| E2 | Drain fault | Medium |
-| E3 | Water temperature too low | Medium |
-| E4 | Overflow fault | High |
-| E5 | Wash pump motor fault | High |
-| E6 | Final rinse temperature low | High |
-| E7 | Heating element fault | Medium |
-| E8 | Detergent system fault | Low |
-| E9 | Door lock fault | Medium |
-
-[Jump to Fix](#fix)
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning | Urgency | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |---------|---------|
+| E1 | [Water inlet fault](https://www.amazon.com/s?k=Water%20inlet%20fault&tag=errorcodefixe-20) | Medium |
+| [E2](https://www.amazon.com/s?k=E2&tag=errorcodefixe-20) | Drain fault | Medium | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E3 | Water temperature too low | [Medium](https://www.amazon.com/s?k=Medium&tag=errorcodefixe-20) |  | E4 | [Overflow fault](https://www.amazon.com/s?k=Overflow%20fault&tag=errorcodefixe-20) | High |
+| [E5](https://www.amazon.com/s?k=E5&tag=errorcodefixe-20) | Wash pump motor fault | High | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E6 | Final rinse temperature low | [High](https://www.amazon.com/s?k=High&tag=errorcodefixe-20) |  | E7 | [Heating element fault](https://www.amazon.com/s?k=Heating%20element%20fault&tag=errorcodefixe-20) | Medium |
+| [E8](https://www.amazon.com/s?k=E8&tag=errorcodefixe-20) | Detergent system fault | Low | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E9 | Door lock fault | [Medium](https://www.amazon.com/s?k=Medium&tag=errorcodefixe-20) | [Jump to Fix](#fix)
 
 ## Common Fixes {#fix}
 
@@ -39,14 +31,8 @@ Bosch commercial dishwashers (undercounter, door-type, and conveyor models) disp
 
 **E4 (overflow):** Drain is blocked or drain pump has failed. Check drain line for blockage. Test drain pump operation.
 
-## Parts Often Needed
-
-| Part | Notes |
-|------|-------|
-| Booster heater element | For E3/E6 temperature faults |
-| Wash pump motor | For E5 — most urgent repair |
-| Water inlet valve | For E1 |
-| Drain pump | For E2/E4 |
+## Parts Often Needed | Part | [Notes](https://www.amazon.com/s?k=Notes&tag=errorcodefixe-20) |  |------|-------|
+| Booster heater element | [For E3/E6 temperature faults](https://www.amazon.com/s?k=For%20E3%2FE6%20temperature%20faults&tag=errorcodefixe-20) |  | Wash pump motor | [For E5 — most urgent repair](https://www.amazon.com/s?k=For%20E5%20%E2%80%94%20most%20urgent%20repair&tag=errorcodefixe-20) |  | Water inlet valve | [For E1](https://www.amazon.com/s?k=For%20E1&tag=errorcodefixe-20) |  | Drain pump | For E2/E4 |
 
 ## When to Call a Pro
 

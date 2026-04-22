@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mazak Alarm 200 — Spindle Speed Error Causes & Fix"
 description: "What Mazak alarm 200 spindle speed error means, why it triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -37,9 +37,9 @@ Mazak Alarm 200 is a **spindle speed error** — the spindle did not reach or ma
 
 | Part | Notes |
 |------|-------|
-| Spindle drive belt | Match length, width, and tooth profile to the original |
-| Spindle encoder | Mazak model-specific; order through Mazak or an authorized Mazak dealer |
-| Spindle drive (inverter) | If drive faults are confirmed and the drive cannot be repaired |
+| [Spindle drive belt](https://www.amazon.com/s?k=Spindle%20drive%20belt&tag=errorcodefixe-20) | Match length, width, and tooth profile to the original |
+| [Spindle encoder](https://www.amazon.com/s?k=Spindle%20encoder&tag=errorcodefixe-20) | Mazak model-specific; order through Mazak or an authorized Mazak dealer |
+| [Spindle drive (inverter)](https://www.amazon.com/s?k=Spindle%20drive%20(inverter)&tag=errorcodefixe-20) | If drive faults are confirmed and the drive cannot be repaired |
 
 ## When to Call a Pro
 

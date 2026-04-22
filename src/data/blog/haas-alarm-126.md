@@ -1,4 +1,4 @@
----
+﻿---
 title: "Haas Alarm 126 — ATC Door Fault"
 description: "Haas alarm 126 ATC door fault: what it means, common causes, and how to fix tool changer door problems on Haas mills."
 pubDatetime: 2026-04-22T19:00:00Z
@@ -39,10 +39,10 @@ Haas alarm **126** indicates an **ATC door fault**. The automatic tool changer d
 
 | Part | Notes |
 |------|-------|
-| ATC door air cylinder | Common wear item |
-| Door open/close switch | Adjust before replacing |
-| Solenoid valve | Match Haas air manifold spec |
-| Linkage hardware | Bent linkage causes repeat faults |
+| [ATC door air cylinder](https://www.amazon.com/s?k=ATC%20door%20air%20cylinder&tag=errorcodefixe-20) | Common wear item |
+| [Door open/close switch](https://www.amazon.com/s?k=Door%20open%2Fclose%20switch&tag=errorcodefixe-20) | Adjust before replacing |
+| [Solenoid valve](https://www.amazon.com/s?k=Solenoid%20valve&tag=errorcodefixe-20) | Match Haas air manifold spec |
+| [Linkage hardware](https://www.amazon.com/s?k=Linkage%20hardware&tag=errorcodefixe-20) | Bent linkage causes repeat faults |
 
 ## When to Call a Pro
 If the door cylinder and switch both test good but the alarm continues, the tool changer timing or I/O diagnostics may need deeper Haas service access. A Haas tech can verify the I/O state live during a tool change.

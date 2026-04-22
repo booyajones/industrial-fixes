@@ -1,4 +1,4 @@
----
+﻿---
 title: "Lennox Error Code 432 — Causes & Fix"
 description: "What Lennox error code 432 means, why the blower motor faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -37,9 +37,9 @@ Lennox code 432 is a **blower motor fault** — the control board or communicati
 
 | Part | Notes |
 |------|-------|
-| ECM motor module (control module) | Lennox-specific module — matches the motor's frame and communicating protocol |
-| ECM blower motor | Full motor replacement if module tests good but motor still fails |
-| Control board | If board relay is confirmed failed and no signal is reaching the motor |
+| [ECM motor module (control module)](https://www.amazon.com/s?k=ECM%20motor%20module%20(control%20module)&tag=errorcodefixe-20) | Lennox-specific module — matches the motor's frame and communicating protocol |
+| [ECM blower motor](https://www.amazon.com/s?k=ECM%20blower%20motor&tag=errorcodefixe-20) | Full motor replacement if module tests good but motor still fails |
+| [Control board](https://www.amazon.com/s?k=Control%20board&tag=errorcodefixe-20) | If board relay is confirmed failed and no signal is reaching the motor |
 
 ## When to Call a Pro
 

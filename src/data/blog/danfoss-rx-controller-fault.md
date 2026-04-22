@@ -1,4 +1,4 @@
----
+﻿---
 title: "Danfoss RX Controller Fault Codes — Troubleshooting Guide"
 description: "Danfoss RX refrigeration controller fault codes and alarms: probe failures, defrost faults, communication issues, and step-by-step fixes."
 pubDatetime: 2026-04-22T21:00:00Z
@@ -17,15 +17,10 @@ tags:
 
 Danfoss refrigeration controllers use short alarm codes for sensor, temperature, defrost, and communication problems. The exact code list varies by controller family, but these are the alarms technicians see most often on RX-style walk-in and case controls.
 
-| Code | Meaning | Quick Fix |
-|------|---------|-----------|
-| E1 | Room sensor fault | Check room probe and wiring |
-| E2 | Evaporator sensor fault | Check coil probe location and resistance |
-| HA | High temperature alarm | Check box temp, airflow, and refrigerant system |
-| LA | Low temperature alarm | Check setpoint and sensor calibration |
-| dEF | Defrost fault / defrost overdue | Check heaters, termination probe, and timer settings |
-| DO | Door open alarm | Check door switch and wiring |
-| Com | Communication fault | Check network cable and addressing |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning | Quick Fix | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |---------|-----------|
+| E1 | [Room sensor fault](https://www.amazon.com/s?k=Room%20sensor%20fault&tag=errorcodefixe-20) | Check room probe and wiring |
+| [E2](https://www.amazon.com/s?k=E2&tag=errorcodefixe-20) | Evaporator sensor fault | Check coil probe location and resistance | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | HA | High temperature alarm | [Check box temp, airflow, and refrigerant system](https://www.amazon.com/s?k=Check%20box%20temp%2C%20airflow%2C%20and%20refrigerant%20system&tag=errorcodefixe-20) |  | LA | [Low temperature alarm](https://www.amazon.com/s?k=Low%20temperature%20alarm&tag=errorcodefixe-20) | Check setpoint and sensor calibration |
+| [dEF](https://www.amazon.com/s?k=dEF&tag=errorcodefixe-20) | Defrost fault / defrost overdue | Check heaters, termination probe, and timer settings | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | DO | Door open alarm | [Check door switch and wiring](https://www.amazon.com/s?k=Check%20door%20switch%20and%20wiring&tag=errorcodefixe-20) |  | Com | [Communication fault](https://www.amazon.com/s?k=Communication%20fault&tag=errorcodefixe-20) | Check network cable and addressing |
 
 ## Most Common Faults
 
@@ -50,10 +45,10 @@ If the controller does not see the coil warm up during defrost, it alarms on def
 
 | Part | Notes |
 |------|-------|
-| Room probe | Replace on E1 alarms |
-| Evaporator probe | Replace on E2 or defrost alarms |
-| Defrost heater | Replace if open on ohm check |
-| Door switch | Replace on repeated DO alarms |
+| [Room probe](https://www.amazon.com/s?k=Room%20probe&tag=errorcodefixe-20) | Replace on E1 alarms |
+| [Evaporator probe](https://www.amazon.com/s?k=Evaporator%20probe&tag=errorcodefixe-20) | Replace on E2 or defrost alarms |
+| [Defrost heater](https://www.amazon.com/s?k=Defrost%20heater&tag=errorcodefixe-20) | Replace if open on ohm check |
+| [Door switch](https://www.amazon.com/s?k=Door%20switch&tag=errorcodefixe-20) | Replace on repeated DO alarms |
 
 ## Jump to Fix
 

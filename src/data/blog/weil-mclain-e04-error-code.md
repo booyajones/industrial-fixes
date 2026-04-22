@@ -1,4 +1,4 @@
----
+﻿---
 title: "Weil-McLain E04 Error Code — Causes & Fix"
 description: "What Weil-McLain E04 error code means, why the sensor faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -37,9 +37,9 @@ Weil-McLain E04 indicates a **temperature sensor fault** — one of the boiler's
 
 | Part | Notes |
 |------|-------|
-| Supply thermistor (S1) | Weil-McLain model-specific; verify for Ultra vs. Gold/CGa series |
-| Return thermistor (S2) | Match immersion well length and resistance spec |
-| DHW sensor (S3) | Only on combi models with domestic hot water capability |
+| [Supply thermistor (S1)](https://www.amazon.com/s?k=Supply%20thermistor%20(S1)&tag=errorcodefixe-20) | Weil-McLain model-specific; verify for Ultra vs. Gold/CGa series |
+| [Return thermistor (S2)](https://www.amazon.com/s?k=Return%20thermistor%20(S2)&tag=errorcodefixe-20) | Match immersion well length and resistance spec |
+| [DHW sensor (S3)](https://www.amazon.com/s?k=DHW%20sensor%20(S3)&tag=errorcodefixe-20) | Only on combi models with domestic hot water capability |
 
 ## When to Call a Pro
 

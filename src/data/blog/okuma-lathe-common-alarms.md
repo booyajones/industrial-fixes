@@ -1,4 +1,4 @@
----
+﻿---
 title: "Okuma LB/LU Lathe Common Alarm Guide — OSP-P300 Series"
 description: "Okuma LB and LU series CNC lathe common alarms for OSP-P300 and OSP-U100 controls: alarm descriptions, causes, and troubleshooting steps."
 pubDatetime: 2026-04-22T21:00:00Z
@@ -20,28 +20,22 @@ Okuma CNC lathes (LB, LU, LT, and Crown series) use the OSP-P300 (newer) or OSP-
 
 ## Alarm Number Ranges
 
-| Range | Category |
+| [Range](https://www.amazon.com/s?k=Range&tag=errorcodefixe-20) | Category |
 |-------|----------|
-| 1000–1099 | Servo system alarms |
-| 1200–1299 | Spindle alarms |
-| 1400–1499 | NC/system alarms |
-| 1600–1799 | I/O and PLC alarms |
-| 2000–2099 | Over-travel and limit alarms |
-| 3000–3099 | Communication alarms |
-| 4000–4099 | Tool post and turret alarms |
+| [1000–1099](https://www.amazon.com/s?k=1000%E2%80%931099&tag=errorcodefixe-20) | Servo system alarms |
+| [1200–1299](https://www.amazon.com/s?k=1200%E2%80%931299&tag=errorcodefixe-20) | Spindle alarms |
+| [1400–1499](https://www.amazon.com/s?k=1400%E2%80%931499&tag=errorcodefixe-20) | NC/system alarms |
+| [1600–1799](https://www.amazon.com/s?k=1600%E2%80%931799&tag=errorcodefixe-20) | I/O and PLC alarms |
+| [2000–2099](https://www.amazon.com/s?k=2000%E2%80%932099&tag=errorcodefixe-20) | Over-travel and limit alarms |
+| [3000–3099](https://www.amazon.com/s?k=3000%E2%80%933099&tag=errorcodefixe-20) | Communication alarms |
+| [4000–4099](https://www.amazon.com/s?k=4000%E2%80%934099&tag=errorcodefixe-20) | Tool post and turret alarms |
 
 ## Common Alarms Quick Reference
 
-| Alarm | Meaning | Quick Fix |
-|-------|---------|-----------|
-| 1013 Servo Axis Fault | Servo drive fault — specified axis | Check drive and motor |
-| 1050 ABS Data Error | Absolute encoder data lost | Replace encoder battery and re-home |
-| 1201 Spindle Drive Error | Spindle amplifier fault | Note sub-code on drive |
-| 1400 Memory Check Error | NC program memory error | Re-initialize or reload NC memory |
-| 2000 Over Travel | Axis exceeded travel limit | Jog axis off limit, check soft limits |
-| 4000 Turret Fault | Turret did not index correctly | Check hydraulic and position sensor |
-
-## Most Common LB/LU Alarms
+| [Alarm](https://www.amazon.com/s?k=Alarm&tag=errorcodefixe-20) | Meaning | Quick Fix | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------- |---------|-----------|
+| 1013 Servo Axis Fault | [Servo drive fault — specified axis](https://www.amazon.com/s?k=Servo%20drive%20fault%20%E2%80%94%20specified%20axis&tag=errorcodefixe-20) | Check drive and motor |
+| [1050 ABS Data Error](https://www.amazon.com/s?k=1050%20ABS%20Data%20Error&tag=errorcodefixe-20) | Absolute encoder data lost | Replace encoder battery and re-home | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 1201 Spindle Drive Error | Spindle amplifier fault | [Note sub-code on drive](https://www.amazon.com/s?k=Note%20sub-code%20on%20drive&tag=errorcodefixe-20) |  | 1400 Memory Check Error | [NC program memory error](https://www.amazon.com/s?k=NC%20program%20memory%20error&tag=errorcodefixe-20) | Re-initialize or reload NC memory |
+| [2000 Over Travel](https://www.amazon.com/s?k=2000%20Over%20Travel&tag=errorcodefixe-20) | Axis exceeded travel limit | Jog axis off limit, check soft limits | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 4000 Turret Fault | Turret did not index correctly | [Check hydraulic and position sensor](https://www.amazon.com/s?k=Check%20hydraulic%20and%20position%20sensor&tag=errorcodefixe-20) | ## Most Common LB/LU Alarms
 
 ### Alarm 1013 — Servo Axis Fault
 The servo drive (OSP-P300 uses Okuma-specific drives) has detected a fault on the named axis. Read the drive sub-code on the amplifier display. Common causes: motor overload, encoder fault, regeneration fault, or power supply issue.
@@ -73,14 +67,8 @@ The OSP-P300 control includes:
 
 When THINC detects anomalies (vibration, thermal), it can trigger preventive alarms before hard failures occur.
 
-## Parts Often Needed
-
-| Part | Notes |
-|------|-------|
-| Encoder battery (3.6V lithium) | Replace on ABS data errors |
-| Servo amplifier module | Replace on persistent 1013 faults |
-| Turret hydraulic motor | Replace on turret fault if hydraulic |
-| Spindle encoder | Replace on persistent 1201 faults |
+## Parts Often Needed | Part | [Notes](https://www.amazon.com/s?k=Notes&tag=errorcodefixe-20) |  |------|-------|
+| Encoder battery (3.6V lithium) | [Replace on ABS data errors](https://www.amazon.com/s?k=Replace%20on%20ABS%20data%20errors&tag=errorcodefixe-20) |  | Servo amplifier module | [Replace on persistent 1013 faults](https://www.amazon.com/s?k=Replace%20on%20persistent%201013%20faults&tag=errorcodefixe-20) |  | Turret hydraulic motor | [Replace on turret fault if hydraulic](https://www.amazon.com/s?k=Replace%20on%20turret%20fault%20if%20hydraulic&tag=errorcodefixe-20) |  | Spindle encoder | Replace on persistent 1201 faults |
 
 ## Jump to Fix
 

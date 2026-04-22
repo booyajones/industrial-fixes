@@ -1,4 +1,4 @@
----
+﻿---
 title: "Lincoln Electric E11 Error Code — Causes & Fix"
 description: "What Lincoln Electric E11 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,9 +36,9 @@ The E11 fault on Lincoln Electric welders (Power MIG, Invertec, and Power Wave s
 
 | Part | Notes |
 |------|-------|
-| Cooling fan motor | Replace if not running; match to welder model |
-| Thermal switch / thermistor | If fault triggers immediately even when cool — sensor may be bad |
-| Air filter / vent screen | Some models have removable filters; clean or replace |
+| [Cooling fan motor](https://www.amazon.com/s?k=Cooling%20fan%20motor&tag=errorcodefixe-20) | Replace if not running; match to welder model |
+| [Thermal switch / thermistor](https://www.amazon.com/s?k=Thermal%20switch%20%2F%20thermistor&tag=errorcodefixe-20) | If fault triggers immediately even when cool — sensor may be bad |
+| [Air filter / vent screen](https://www.amazon.com/s?k=Air%20filter%20%2F%20vent%20screen&tag=errorcodefixe-20) | Some models have removable filters; clean or replace |
 
 ## When to Call a Pro
 

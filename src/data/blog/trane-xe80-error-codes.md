@@ -1,4 +1,4 @@
----
+﻿---
 title: "Trane XE80 Furnace Error Codes — Fault Code Guide"
 description: "Trane XE80 furnace error codes: flash code meanings and fixes for this popular 80% AFUE single-stage furnace still common in the field."
 pubDatetime: 2026-04-22T16:00:00Z
@@ -19,19 +19,11 @@ The Trane XE80 is an older 80% AFUE single-stage gas furnace that was widely ins
 
 ## Flash Code Quick Reference
 
-| Flashes | Meaning | Notes |
-|---------|---------|-------|
-| 1 | Lockout — retries exceeded | Check igniter and gas |
-| 2 | Pressure switch open | Check inducer and hose |
-| 3 | High-limit or roll-out open | Filter, airflow, or roll-out |
-| 4 | Ignition failure | Igniter or gas supply |
-| 5 | Flame without call | Gas valve leaking |
-| 6 | Reversed polarity | Fix incoming wiring |
-| 7 | Gas valve problem | Valve or board fault |
-| 8 | Low flame signal | Clean flame sensor |
-| Slow flash | Standby | Normal |
-
-## Common Causes for XE80-Specific Issues
+| [Flashes](https://www.amazon.com/s?k=Flashes&tag=errorcodefixe-20) | Meaning | Notes | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | --------- |---------|-------|
+| 1 | [Lockout — retries exceeded](https://www.amazon.com/s?k=Lockout%20%E2%80%94%20retries%20exceeded&tag=errorcodefixe-20) | Check igniter and gas |
+| [2](https://www.amazon.com/s?k=2&tag=errorcodefixe-20) | Pressure switch open | Check inducer and hose | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 3 | High-limit or roll-out open | [Filter, airflow, or roll-out](https://www.amazon.com/s?k=Filter%2C%20airflow%2C%20or%20roll-out&tag=errorcodefixe-20) |  | 4 | [Ignition failure](https://www.amazon.com/s?k=Ignition%20failure&tag=errorcodefixe-20) | Igniter or gas supply |
+| [5](https://www.amazon.com/s?k=5&tag=errorcodefixe-20) | Flame without call | Gas valve leaking | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 6 | Reversed polarity | [Fix incoming wiring](https://www.amazon.com/s?k=Fix%20incoming%20wiring&tag=errorcodefixe-20) |  | 7 | [Gas valve problem](https://www.amazon.com/s?k=Gas%20valve%20problem&tag=errorcodefixe-20) | Valve or board fault |
+| [8](https://www.amazon.com/s?k=8&tag=errorcodefixe-20) | Low flame signal | Clean flame sensor | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Slow flash | Standby | [Normal](https://www.amazon.com/s?k=Normal&tag=errorcodefixe-20) | ## Common Causes for XE80-Specific Issues
 
 ### 2 Flashes: Pressure Switch (XE80 — 80% Furnace)
 On the XE80, there is no condensate drain — so a 2-flash fault is almost always: (1) a cracked pressure switch hose between the inducer housing and the pressure switch, (2) a failed inducer motor or blower wheel, or (3) a dead pressure switch. The XE80 uses an atmospheric combustion chamber with an induced draft blower — the pressure switch monitors draft, not condensate.
@@ -57,14 +49,8 @@ The XE80 uses a hot-surface igniter (silicon carbide on older units, silicon nit
 3. Test the blower run capacitor with a capacitor meter — replace if reading is more than 10% below rated value.
 4. Verify the blower wheel is clean and spins freely.
 
-## Parts Often Needed
-
-| Part | Notes |
-|------|-------|
-| Hot-surface igniter | Trane CNT1011, CNT05473 or OEM equivalent |
-| Blower run capacitor | 5–10 µF / 370V depending on motor |
-| Pressure switch | 0.35"–0.50" WC for XE80 |
-| Pressure switch hose | 3/8" ID rubber vacuum hose |
+## Parts Often Needed | Part | [Notes](https://www.amazon.com/s?k=Notes&tag=errorcodefixe-20) |  |------|-------|
+| Hot-surface igniter | [Trane CNT1011, CNT05473 or OEM equivalent](https://www.amazon.com/s?k=Trane%20CNT1011%2C%20CNT05473%20or%20OEM%20equivalent&tag=errorcodefixe-20) |  | Blower run capacitor | [5–10 µF / 370V depending on motor](https://www.amazon.com/s?k=5%E2%80%9310%20%C2%B5F%20%2F%20370V%20depending%20on%20motor&tag=errorcodefixe-20) |  | Pressure switch | [0.35"–0.50" WC for XE80](https://www.amazon.com/s?k=0.35%22%E2%80%930.50%22%20WC%20for%20XE80&tag=errorcodefixe-20) |  | Pressure switch hose | 3/8" ID rubber vacuum hose |
 
 ## When to Call a Pro
 The Trane XE80 is aging — most units are 15–25+ years old. If you're facing repeated ignition failures, a cracked heat exchanger is possible. A CO detector test and heat exchanger inspection by a licensed tech is worth scheduling on any XE80 over 20 years old, especially before another heating season.

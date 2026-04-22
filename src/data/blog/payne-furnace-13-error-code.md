@@ -1,4 +1,4 @@
----
+﻿---
 title: "Payne Furnace 13 Error Code — Causes & Fix"
 description: "What Payne furnace error code 13 means, why the limit device locks out, and how to fix it step by step."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,10 +36,10 @@ Payne is a Carrier-family brand and shares the same control board diagnostic cod
 
 | Part | Notes |
 |------|-------|
-| Air filter | Replace first; most common fix on code 13 |
-| Blower run capacitor | Match µF and voltage rating to OEM spec |
-| High-limit switch | Press reset first; replace only if contacts are open at room temp |
-| Control board | Replace if board relay faults are confirmed |
+| [Air filter](https://www.amazon.com/s?k=Air%20filter&tag=errorcodefixe-20) | Replace first; most common fix on code 13 |
+| [Blower run capacitor](https://www.amazon.com/s?k=Blower%20run%20capacitor&tag=errorcodefixe-20) | Match µF and voltage rating to OEM spec |
+| [High-limit switch](https://www.amazon.com/s?k=High-limit%20switch&tag=errorcodefixe-20) | Press reset first; replace only if contacts are open at room temp |
+| [Control board](https://www.amazon.com/s?k=Control%20board&tag=errorcodefixe-20) | Replace if board relay faults are confirmed |
 
 ## When to Call a Pro
 

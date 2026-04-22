@@ -1,4 +1,4 @@
----
+﻿---
 title: "Haas Alarm 134 Spindle Drive Fault — Causes & Fix"
 description: "What Haas Alarm 134 spindle drive fault means, why it trips, and how to diagnose and fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,10 +36,10 @@ Haas **Alarm 134** is a **Spindle Drive Fault** — the spindle vector drive has
 
 | Part | Notes |
 |------|-------|
-| Spindle vector drive | Replace when internal drive fault code points to drive-side failure |
-| Cabinet cooling fan | Replace when drive is overheating due to failed fan |
-| Spindle motor | Replace when phase-to-ground resistance is low or windings are unbalanced |
-| Spindle motor power cable | Replace if cable insulation is damaged near the cabinet entry |
+| [Spindle vector drive](https://www.amazon.com/s?k=Spindle%20vector%20drive&tag=errorcodefixe-20) | Replace when internal drive fault code points to drive-side failure |
+| [Cabinet cooling fan](https://www.amazon.com/s?k=Cabinet%20cooling%20fan&tag=errorcodefixe-20) | Replace when drive is overheating due to failed fan |
+| [Spindle motor](https://www.amazon.com/s?k=Spindle%20motor&tag=errorcodefixe-20) | Replace when phase-to-ground resistance is low or windings are unbalanced |
+| [Spindle motor power cable](https://www.amazon.com/s?k=Spindle%20motor%20power%20cable&tag=errorcodefixe-20) | Replace if cable insulation is damaged near the cabinet entry |
 
 ## When to Call a Pro
 

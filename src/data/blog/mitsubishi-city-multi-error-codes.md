@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix"
 description: "What Mitsubishi City Multi P8 and E6 commercial VRF error codes mean, why they trip, and how to diagnose and fix them."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -41,9 +41,9 @@ Both codes cause the affected zone to stop cooling or heating. E6 often affects 
 
 | Part | Notes |
 |------|-------|
-| Electronic expansion valve (EEV) | Replace if P8 persists with adequate refrigerant charge |
-| Communication cable (VCTF 0.75mm²) | Replace if continuity test shows broken communication conductor |
-| Refrigerant charge (R-410A) | Add only after locating and repairing leak; EPA 608 certification required |
+| [Electronic expansion valve (EEV)](https://www.amazon.com/s?k=Electronic%20expansion%20valve%20(EEV)&tag=errorcodefixe-20) | Replace if P8 persists with adequate refrigerant charge |
+| [Communication cable (VCTF 0.75mm²)](https://www.amazon.com/s?k=Communication%20cable%20(VCTF%200.75mm%C2%B2)&tag=errorcodefixe-20) | Replace if continuity test shows broken communication conductor |
+| [Refrigerant charge (R-410A)](https://www.amazon.com/s?k=Refrigerant%20charge%20(R-410A)&tag=errorcodefixe-20) | Add only after locating and repairing leak; EPA 608 certification required |
 
 ## When to Call a Pro
 

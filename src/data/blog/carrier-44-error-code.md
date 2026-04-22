@@ -1,4 +1,4 @@
----
+﻿---
 title: "Carrier 44 Error Code — Causes & Fix"
 description: "What Carrier error code 44 means, why the igniter circuit opens, and how to fix it step by step."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -38,9 +38,9 @@ Carrier error code 44 indicates an open igniter circuit. The furnace control boa
 
 | Part | Notes |
 |------|-------|
-| Hot surface igniter | Match to furnace model; silicon nitride is more durable than silicon carbide |
-| Igniter wiring harness | Replace if insulation is melted or connector pins are corroded |
-| Furnace control board | Only if relay confirmed open under load testing |
+| [Hot surface igniter](https://www.amazon.com/s?k=Hot%20surface%20igniter&tag=errorcodefixe-20) | Match to furnace model; silicon nitride is more durable than silicon carbide |
+| [Igniter wiring harness](https://www.amazon.com/s?k=Igniter%20wiring%20harness&tag=errorcodefixe-20) | Replace if insulation is melted or connector pins are corroded |
+| [Furnace control board](https://www.amazon.com/s?k=Furnace%20control%20board&tag=errorcodefixe-20) | Only if relay confirmed open under load testing |
 
 ## When to Call a Pro
 

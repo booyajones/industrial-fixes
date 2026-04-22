@@ -1,4 +1,4 @@
----
+﻿---
 title: "Heidenhain Error Code 399 Servo Error — Causes & Fix"
 description: "What Heidenhain TNC 640 error code 399 means, why a servo error occurs, and how to diagnose and recover the axis."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -38,10 +38,10 @@ Error 399 on a Heidenhain TNC 640 (and related iTNC/TNC series) controls indicat
 
 | Part | Notes |
 |------|-------|
-| Linear encoder read head | Replace if contamination or physical damage is found |
-| Encoder feedback cable | Replace if intermittent signal is confirmed |
-| Ball screw support bearing | Replace if ball screw binding is due to bearing failure |
-| Servo drive module | Replace if drive has a confirmed hardware fault accompanying error 399 |
+| [Linear encoder read head](https://www.amazon.com/s?k=Linear%20encoder%20read%20head&tag=errorcodefixe-20) | Replace if contamination or physical damage is found |
+| [Encoder feedback cable](https://www.amazon.com/s?k=Encoder%20feedback%20cable&tag=errorcodefixe-20) | Replace if intermittent signal is confirmed |
+| [Ball screw support bearing](https://www.amazon.com/s?k=Ball%20screw%20support%20bearing&tag=errorcodefixe-20) | Replace if ball screw binding is due to bearing failure |
+| [Servo drive module](https://www.amazon.com/s?k=Servo%20drive%20module&tag=errorcodefixe-20) | Replace if drive has a confirmed hardware fault accompanying error 399 |
 
 ## When to Call a Pro
 

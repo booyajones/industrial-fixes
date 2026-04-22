@@ -1,4 +1,4 @@
----
+﻿---
 title: "Goodman GMSS96 Furnace Error Codes — Flash Code Diagnostic Guide"
 description: "Complete guide to Goodman GMSS96 96% AFUE furnace error codes, flash sequences, common fault causes, and step-by-step fixes."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -20,20 +20,20 @@ The Goodman GMSS96 is a 96% AFUE, single-stage, multi-speed gas furnace. It is a
 
 ## Goodman GMSS96 Flash Code Reference
 
-| Flash Code | Meaning |
+| [Flash Code](https://www.amazon.com/s?k=Flash%20Code&tag=errorcodefixe-20) | Meaning |
 |------------|---------|
-| Continuous on | No call for heat (normal) |
-| Continuous off | No power to board |
-| 1 flash | Lockout — gas or ignition fault |
-| 2 flashes | Pressure switch stuck open |
-| 3 flashes | Pressure switch stuck closed |
-| 4 flashes | Open high-limit device |
-| 5 flashes | Flame sensed, gas valve not energized |
-| 6 flashes | Rollout switch open |
-| 7 flashes | Inducer motor fault |
-| 8 flashes | Low flame signal |
-| 9 flashes | Reversed 115V AC polarity |
-| 10 flashes | Gas valve circuit fault |
+| [Continuous on](https://www.amazon.com/s?k=Continuous%20on&tag=errorcodefixe-20) | No call for heat (normal) |
+| [Continuous off](https://www.amazon.com/s?k=Continuous%20off&tag=errorcodefixe-20) | No power to board |
+| [1 flash](https://www.amazon.com/s?k=1%20flash&tag=errorcodefixe-20) | Lockout — gas or ignition fault |
+| [2 flashes](https://www.amazon.com/s?k=2%20flashes&tag=errorcodefixe-20) | Pressure switch stuck open |
+| [3 flashes](https://www.amazon.com/s?k=3%20flashes&tag=errorcodefixe-20) | Pressure switch stuck closed |
+| [4 flashes](https://www.amazon.com/s?k=4%20flashes&tag=errorcodefixe-20) | Open high-limit device |
+| [5 flashes](https://www.amazon.com/s?k=5%20flashes&tag=errorcodefixe-20) | Flame sensed, gas valve not energized |
+| [6 flashes](https://www.amazon.com/s?k=6%20flashes&tag=errorcodefixe-20) | Rollout switch open |
+| [7 flashes](https://www.amazon.com/s?k=7%20flashes&tag=errorcodefixe-20) | Inducer motor fault |
+| [8 flashes](https://www.amazon.com/s?k=8%20flashes&tag=errorcodefixe-20) | Low flame signal |
+| [9 flashes](https://www.amazon.com/s?k=9%20flashes&tag=errorcodefixe-20) | Reversed 115V AC polarity |
+| [10 flashes](https://www.amazon.com/s?k=10%20flashes&tag=errorcodefixe-20) | Gas valve circuit fault |
 
 ## Common Causes by Code
 
@@ -59,12 +59,12 @@ The Goodman GMSS96 is a 96% AFUE, single-stage, multi-speed gas furnace. It is a
 
 | Part | Notes |
 |------|-------|
-| PVC condensate trap | Specific to GMSS96; replace if cracked or plugged |
-| Flame sensor | Common; OEM or universal replacement |
-| Pressure switch | Match water column rating to model (0.85" or 1.5") |
-| Inducer motor | With or without housing; check wheel for debris first |
-| High-limit switch | Check both main and auxiliary |
-| Rollout switch | Investigate crack before replacing |
+| [PVC condensate trap](https://www.amazon.com/s?k=PVC%20condensate%20trap&tag=errorcodefixe-20) | Specific to GMSS96; replace if cracked or plugged |
+| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | Common; OEM or universal replacement |
+| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Match water column rating to model (0.85" or 1.5") |
+| [Inducer motor](https://www.amazon.com/s?k=Inducer%20motor&tag=errorcodefixe-20) | With or without housing; check wheel for debris first |
+| [High-limit switch](https://www.amazon.com/s?k=High-limit%20switch&tag=errorcodefixe-20) | Check both main and auxiliary |
+| [Rollout switch](https://www.amazon.com/s?k=Rollout%20switch&tag=errorcodefixe-20) | Investigate crack before replacing |
 
 ## When to Call a Pro
 

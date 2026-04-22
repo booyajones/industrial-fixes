@@ -1,4 +1,4 @@
----
+﻿---
 title: "ABB VFD Fault 3300 — Causes & Fix"
 description: "What ABB VFD fault code 3300 means, why earth leakage trips the drive, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,9 +36,9 @@ Fault 3300 on an ABB ACS series drive (ACS580, ACS880, ACS310, etc.) indicates a
 
 | Part | Notes |
 |------|-------|
-| Motor cable (XLPE, screened) | Use VFD-rated cable with continuous shield; correct cross-section for ampacity |
-| Motor (rewind or replacement) | If insulation resistance is below 1 MΩ at 500VDC |
-| Cable glands and conduit fittings | Replace if water entry point identified |
+| [Motor cable (XLPE, screened)](https://www.amazon.com/s?k=Motor%20cable%20(XLPE%2C%20screened)&tag=errorcodefixe-20) | Use VFD-rated cable with continuous shield; correct cross-section for ampacity |
+| [Motor (rewind or replacement)](https://www.amazon.com/s?k=Motor%20(rewind%20or%20replacement)&tag=errorcodefixe-20) | If insulation resistance is below 1 MΩ at 500VDC |
+| [Cable glands and conduit fittings](https://www.amazon.com/s?k=Cable%20glands%20and%20conduit%20fittings&tag=errorcodefixe-20) | Replace if water entry point identified |
 
 ## When to Call a Pro
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Scotsman Ice Machine Error Code 4 — Causes & Fix"
 description: "What Scotsman code 4 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,9 +36,9 @@ Scotsman error code 4 means long freeze — the freeze cycle is taking longer th
 
 | Part | Notes |
 |------|-------|
-| Scotsman Ice Machine Cleaner (5 lb) | Nickel-safe descaling acid for evaporator; don't substitute generic acid |
-| Condenser fan motor | Match RPM and CFM to OEM spec |
-| Refrigerant (R-404A or R-448A) | EPA 608 required; find and fix leaks before recharging |
+| [Scotsman Ice Machine Cleaner (5 lb)](https://www.amazon.com/s?k=Scotsman%20Ice%20Machine%20Cleaner%20(5%20lb)&tag=errorcodefixe-20) | Nickel-safe descaling acid for evaporator; don't substitute generic acid |
+| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | Match RPM and CFM to OEM spec |
+| [Refrigerant (R-404A or R-448A)](https://www.amazon.com/s?k=Refrigerant%20(R-404A%20or%20R-448A)&tag=errorcodefixe-20) | EPA 608 required; find and fix leaks before recharging |
 
 ## When to Call a Pro
 

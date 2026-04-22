@@ -1,4 +1,4 @@
----
+﻿---
 title: "Yaskawa VFD Fault CF — Causes & Fix"
 description: "What Yaskawa CF means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,9 +36,9 @@ Yaskawa fault CF means control fault — the drive's internal CPU detected a sel
 
 | Part | Notes |
 |------|-------|
-| Yaskawa control PCB | If parameter reset and card removal don't resolve CF, board is suspect |
-| Option card replacement | If a communication card is confirmed faulty |
-| Ground cable (5mm² or larger) | Verify drive chassis is properly bonded to earth ground |
+| [Yaskawa control PCB](https://www.amazon.com/s?k=Yaskawa%20control%20PCB&tag=errorcodefixe-20) | If parameter reset and card removal don't resolve CF, board is suspect |
+| [Option card replacement](https://www.amazon.com/s?k=Option%20card%20replacement&tag=errorcodefixe-20) | If a communication card is confirmed faulty |
+| [Ground cable (5mm² or larger)](https://www.amazon.com/s?k=Ground%20cable%20(5mm%C2%B2%20or%20larger)&tag=errorcodefixe-20) | Verify drive chassis is properly bonded to earth ground |
 
 ## When to Call a Pro
 

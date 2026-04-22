@@ -1,4 +1,4 @@
----
+﻿---
 title: "Manitowoc NEO Ice Machine Error Code Guide — Causes & Fixes"
 description: "Manitowoc NEO ice machine error codes: what each code means and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -19,15 +19,10 @@ Manitowoc NEO ice machines are the latest generation of Manitowoc commercial ice
 
 ## NEO Error Code Summary
 
-| Code | Meaning | Urgency |
-|------|---------|---------|
-| E01 | Long freeze cycle | Medium |
-| E02 | Harvest timeout | High |
-| E03 | Water fill timeout | Medium |
-| E04 | High condenser temperature | High |
-| E05 | High pressure cutout | High |
-| E06 | Low pressure cutout | High |
-| E08 | Ice thickness sensor fault | Medium |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning | Urgency | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |---------|---------|
+| E01 | [Long freeze cycle](https://www.amazon.com/s?k=Long%20freeze%20cycle&tag=errorcodefixe-20) | Medium |
+| [E02](https://www.amazon.com/s?k=E02&tag=errorcodefixe-20) | Harvest timeout | High | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E03 | Water fill timeout | [Medium](https://www.amazon.com/s?k=Medium&tag=errorcodefixe-20) |  | E04 | [High condenser temperature](https://www.amazon.com/s?k=High%20condenser%20temperature&tag=errorcodefixe-20) | High |
+| [E05](https://www.amazon.com/s?k=E05&tag=errorcodefixe-20) | High pressure cutout | High | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E06 | Low pressure cutout | [High](https://www.amazon.com/s?k=High&tag=errorcodefixe-20) |  | E08 | [Ice thickness sensor fault](https://www.amazon.com/s?k=Ice%20thickness%20sensor%20fault&tag=errorcodefixe-20) | Medium |
 
 ## Common Causes
 
@@ -49,10 +44,10 @@ Manitowoc NEO ice machines are the latest generation of Manitowoc commercial ice
 
 | Part | Notes |
 |------|-------|
-| Condenser fan motor | Replace if not running with compressor on |
-| Water inlet valve | Replace if screen damaged or coil failed |
-| Ice thickness probe | Replace if scaled beyond cleaning |
-| Manitowoc Ice Machine Cleaner | Use with every service call |
+| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | Replace if not running with compressor on |
+| [Water inlet valve](https://www.amazon.com/s?k=Water%20inlet%20valve&tag=errorcodefixe-20) | Replace if screen damaged or coil failed |
+| [Ice thickness probe](https://www.amazon.com/s?k=Ice%20thickness%20probe&tag=errorcodefixe-20) | Replace if scaled beyond cleaning |
+| [Manitowoc Ice Machine Cleaner](https://www.amazon.com/s?k=Manitowoc%20Ice%20Machine%20Cleaner&tag=errorcodefixe-20) | Use with every service call |
 
 ## When to Call a Pro
 

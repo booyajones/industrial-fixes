@@ -1,4 +1,4 @@
----
+﻿---
 title: "Armstrong Furnace E4 Error Code — Causes & Fix"
 description: "What Armstrong furnace E4 means, why ignition fails repeatedly, and how to fix it step by step."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,10 +36,10 @@ E4 on an Armstrong Air furnace (part of the Allied Air Enterprises family, which
 
 | Part | Notes |
 |------|-------|
-| Hot surface ignitor | Verify voltage rating (120V or 80V) and physical dimensions |
-| Flame sensor rod | Clean first; replace if signal remains weak |
-| Gas valve | Replace if 24VAC is confirmed at coil but valve won't open |
-| Pressure switch | Replace if draft system is confirmed working but switch stays open |
+| [Hot surface ignitor](https://www.amazon.com/s?k=Hot%20surface%20ignitor&tag=errorcodefixe-20) | Verify voltage rating (120V or 80V) and physical dimensions |
+| [Flame sensor rod](https://www.amazon.com/s?k=Flame%20sensor%20rod&tag=errorcodefixe-20) | Clean first; replace if signal remains weak |
+| [Gas valve](https://www.amazon.com/s?k=Gas%20valve&tag=errorcodefixe-20) | Replace if 24VAC is confirmed at coil but valve won't open |
+| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Replace if draft system is confirmed working but switch stays open |
 
 ## When to Call a Pro
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Haas Alarm 118 — Spindle Orientation Fault Causes & Fix"
 description: "What Haas alarm 118 means, why spindle orientation fails, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -39,9 +39,9 @@ Alarm 118 (SPINDLE ORIENTATION FAULT) on a Haas CNC machining center means the s
 
 | Part | Notes |
 |------|-------|
-| Spindle orientation sensor (Hall effect) | Match Haas machine model and spindle type |
-| Spindle encoder | Replace if feedback signal is noisy or lost |
-| Spindle belt | Haas OEM belt; match machine and spindle size |
+| [Spindle orientation sensor (Hall effect)](https://www.amazon.com/s?k=Spindle%20orientation%20sensor%20(Hall%20effect)&tag=errorcodefixe-20) | Match Haas machine model and spindle type |
+| [Spindle encoder](https://www.amazon.com/s?k=Spindle%20encoder&tag=errorcodefixe-20) | Replace if feedback signal is noisy or lost |
+| [Spindle belt](https://www.amazon.com/s?k=Spindle%20belt&tag=errorcodefixe-20) | Haas OEM belt; match machine and spindle size |
 
 ## When to Call a Pro
 

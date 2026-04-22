@@ -1,4 +1,4 @@
----
+﻿---
 title: "Yaskawa VFD Fault OV — DC Bus Overvoltage Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-04-13T08:00:00Z
@@ -45,9 +45,9 @@ For high incoming line voltage: check with the utility or install a line reactor
 
 | Part | Where to Buy |
 |------|-------------|
-| Dynamic braking resistor (size per drive model) | Grainger, Amazon |
-| Line reactor (input) | Grainger |
-| Braking transistor module (if internal) | Contact Yaskawa |
+| [Dynamic braking resistor (size per drive model)](https://www.amazon.com/s?k=Dynamic%20braking%20resistor%20(size%20per%20drive%20model)&tag=errorcodefixe-20) | Grainger, Amazon |
+| [Line reactor (input)](https://www.amazon.com/s?k=Line%20reactor%20(input)&tag=errorcodefixe-20) | Grainger |
+| [Braking transistor module (if internal)](https://www.amazon.com/s?k=Braking%20transistor%20module%20(if%20internal)&tag=errorcodefixe-20) | Contact Yaskawa |
 
 ## When to Call a Technician
 

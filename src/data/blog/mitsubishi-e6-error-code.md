@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mitsubishi Mini Split E6 Error Code Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-07T08:00:00Z
@@ -50,12 +50,9 @@ E6 is a wiring or board issue, not a refrigerant or mechanical issue. The fix is
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Where to Buy | Typical Cost |
-|------|-------------|-------------|
-| Outdoor unit main PCB (model-specific, e.g., T7WE24032) | HVAC Parts Shop, eBay OEM | $180–$400 |
-| Indoor unit main PCB (model-specific) | HVAC Parts Shop, Mitsubishi dealer | $120–$350 |
-| 14/3 communication wire (per foot) | Home Depot, Lowes | $0.50–$1.50/ft |
-| Terminal block connector set | Amazon, Grainger | $10–$25 |
+| Part | Where to Buy | Typical Cost | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |-------------|-------------|
+| Outdoor unit main PCB (model-specific, e.g., T7WE24032) | [HVAC Parts Shop, eBay OEM](https://www.amazon.com/s?k=HVAC%20Parts%20Shop%2C%20eBay%20OEM&tag=errorcodefixe-20) | $180–$400 |
+| [Indoor unit main PCB (model-specific)](https://www.amazon.com/s?k=Indoor%20unit%20main%20PCB%20(model-specific)&tag=errorcodefixe-20) | HVAC Parts Shop, Mitsubishi dealer | $120–$350 | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 14/3 communication wire (per foot) | Home Depot, Lowes | [$0.50–$1.50/ft](https://www.amazon.com/s?k=%240.50%E2%80%93%241.50%2Fft&tag=errorcodefixe-20) |  | Terminal block connector set | [Amazon, Grainger](https://www.amazon.com/s?k=Amazon%2C%20Grainger&tag=errorcodefixe-20) | $10–$25 |
 
 ## When to Call a Professional
 

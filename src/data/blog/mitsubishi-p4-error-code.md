@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mitsubishi P4 Error Code — Drain System Fault: Causes & Fix"
 description: "What Mitsubishi P4 means, why the drain system faults, and how to fix P4 on Mitsubishi mini-split systems."
 pubDatetime: 2026-04-22T16:00:00Z
@@ -37,9 +37,9 @@ Mitsubishi error code **P4** indicates a **drain system fault**. The indoor unit
 
 | Part | Notes |
 |------|-------|
-| Drain hose | Replace if kinked or brittle |
-| Float switch | Model-specific indoor unit part |
-| Drain pump | Required on many cassette and concealed units |
+| [Drain hose](https://www.amazon.com/s?k=Drain%20hose&tag=errorcodefixe-20) | Replace if kinked or brittle |
+| [Float switch](https://www.amazon.com/s?k=Float%20switch&tag=errorcodefixe-20) | Model-specific indoor unit part |
+| [Drain pump](https://www.amazon.com/s?k=Drain%20pump&tag=errorcodefixe-20) | Required on many cassette and concealed units |
 
 ## When to Call a Pro
 If the drain pump is not operating or the unit is built into a ceiling with poor access, a Mitsubishi technician can diagnose the float circuit and pump wiring safely.

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Gree Mini Split E3 Error Code — Causes & Fix"
 description: "What Gree mini split error code E3 means, why low pressure protection trips, and how to diagnose and fix it."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -38,10 +38,10 @@ E3 on a Gree mini split indicates low pressure protection. The system detected t
 
 | Part | Notes |
 |------|-------|
-| Indoor air filter | Clean monthly in heavy-use seasons |
-| Electronic expansion valve (EEV) | Replace if valve is confirmed stuck closed |
-| Refrigerant (R-410A) | Recharge only after leak is found and repaired |
-| Flare fittings / line set | Replace if leak is at a flare connection |
+| [Indoor air filter](https://www.amazon.com/s?k=Indoor%20air%20filter&tag=errorcodefixe-20) | Clean monthly in heavy-use seasons |
+| [Electronic expansion valve (EEV)](https://www.amazon.com/s?k=Electronic%20expansion%20valve%20(EEV)&tag=errorcodefixe-20) | Replace if valve is confirmed stuck closed |
+| [Refrigerant (R-410A)](https://www.amazon.com/s?k=Refrigerant%20(R-410A)&tag=errorcodefixe-20) | Recharge only after leak is found and repaired |
+| [Flare fittings / line set](https://www.amazon.com/s?k=Flare%20fittings%20%2F%20line%20set&tag=errorcodefixe-20) | Replace if leak is at a flare connection |
 
 ## When to Call a Pro
 

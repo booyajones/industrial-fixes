@@ -1,4 +1,4 @@
----
+﻿---
 title: "Pioneer Mini Split P0 Error Code — Causes & Fix"
 description: "What Pioneer mini split error code P0 means, why high pressure protection trips, and how to diagnose and fix it."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -38,10 +38,10 @@ P0 on a Pioneer mini split indicates a high pressure protection fault. The high-
 
 | Part | Notes |
 |------|-------|
-| Condenser fan run capacitor | Most common cause of fan-not-running high-pressure faults |
-| Condenser fan motor | Replace if capacitor check is good but motor is seized |
-| High-pressure switch | Replace if opens below rated cutout pressure |
-| Refrigerant (R-410A) | Adjust charge only via certified technician with gauges |
+| [Condenser fan run capacitor](https://www.amazon.com/s?k=Condenser%20fan%20run%20capacitor&tag=errorcodefixe-20) | Most common cause of fan-not-running high-pressure faults |
+| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | Replace if capacitor check is good but motor is seized |
+| [High-pressure switch](https://www.amazon.com/s?k=High-pressure%20switch&tag=errorcodefixe-20) | Replace if opens below rated cutout pressure |
+| [Refrigerant (R-410A)](https://www.amazon.com/s?k=Refrigerant%20(R-410A)&tag=errorcodefixe-20) | Adjust charge only via certified technician with gauges |
 
 ## When to Call a Pro
 

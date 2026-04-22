@@ -1,4 +1,4 @@
----
+﻿---
 title: "Carrier Error Code 56 — IFC Fault (Induced Draft Motor)"
 description: "Carrier furnace fault code 56 points to a problem with the induced draft blower or its proving circuit. Here's how to diagnose and fix it."
 pubDatetime: 2026-04-22T18:00:00Z
@@ -27,14 +27,14 @@ The induced draft blower (also called inducer or draft motor) pulls combustion g
 
 ## Common Causes of Code 56
 
-| Cause | Likelihood |
+| [Cause](https://www.amazon.com/s?k=Cause&tag=errorcodefixe-20) | Likelihood |
 |---|---|
-| Blocked or frozen condensate drain | High |
-| Cracked or disconnected pressure switch hose | High |
-| Failed pressure switch | Medium |
-| Inducer motor failed or seized | Medium |
-| Blocked flue/intake pipe | Medium |
-| Faulty IFC board | Low |
+| [Blocked or frozen condensate drain](https://www.amazon.com/s?k=Blocked%20or%20frozen%20condensate%20drain&tag=errorcodefixe-20) | High |
+| [Cracked or disconnected pressure switch hose](https://www.amazon.com/s?k=Cracked%20or%20disconnected%20pressure%20switch%20hose&tag=errorcodefixe-20) | High |
+| [Failed pressure switch](https://www.amazon.com/s?k=Failed%20pressure%20switch&tag=errorcodefixe-20) | Medium |
+| [Inducer motor failed or seized](https://www.amazon.com/s?k=Inducer%20motor%20failed%20or%20seized&tag=errorcodefixe-20) | Medium |
+| [Blocked flue/intake pipe](https://www.amazon.com/s?k=Blocked%20flue%2Fintake%20pipe&tag=errorcodefixe-20) | Medium |
+| [Faulty IFC board](https://www.amazon.com/s?k=Faulty%20IFC%20board&tag=errorcodefixe-20) | Low |
 
 ## Step-by-Step Diagnosis
 
@@ -52,10 +52,10 @@ The induced draft blower (also called inducer or draft motor) pulls combustion g
 
 | Part | Cost Estimate |
 |---|---|
-| Pressure switch | $25–60 |
-| Pressure switch hose kit | $5–15 |
-| Inducer motor assembly | $150–350 |
-| IFC board (last resort) | $100–300 |
+| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | $25–60 |
+| [Pressure switch hose kit](https://www.amazon.com/s?k=Pressure%20switch%20hose%20kit&tag=errorcodefixe-20) | $5–15 |
+| [Inducer motor assembly](https://www.amazon.com/s?k=Inducer%20motor%20assembly&tag=errorcodefixe-20) | $150–350 |
+| [IFC board (last resort)](https://www.amazon.com/s?k=IFC%20board%20(last%20resort)&tag=errorcodefixe-20) | $100–300 |
 
 ## Pro Tip
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Westinghouse Furnace E1 Error Code — Causes & Fix"
 description: "What Westinghouse furnace error code E1 means, why the system locks out, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -38,9 +38,9 @@ E1 on a Westinghouse furnace indicates a system lockout following a failed start
 
 | Part | Notes |
 |------|-------|
-| Hot surface igniter | Match Westinghouse/Nordyne model number for correct wattage |
-| Flame sensor | Clean first; replace if cleaning does not resolve |
-| Pressure switch | Match WC rating from original switch label |
+| [Hot surface igniter](https://www.amazon.com/s?k=Hot%20surface%20igniter&tag=errorcodefixe-20) | Match Westinghouse/Nordyne model number for correct wattage |
+| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | Clean first; replace if cleaning does not resolve |
+| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Match WC rating from original switch label |
 
 ## When to Call a Pro
 
