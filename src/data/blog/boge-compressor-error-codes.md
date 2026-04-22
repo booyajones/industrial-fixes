@@ -1,5 +1,5 @@
 ---
-title: "BOGE Air Compressor Error Codes — Complete Guide"
+title: "BOGE Air Compressor Error Codes - Complete Guide"
 description: "BOGE rotary screw compressor error codes for BOGE Control and Select modules: faults, causes, and repair steps."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
@@ -12,7 +12,7 @@ tags:
   - industrial
 ---
 
-## BOGE Compressor Error Codes — Quick Reference
+## BOGE Compressor Error Codes - Quick Reference
 
 BOGE rotary screw compressors (S, C, and BLUEKAT series) use the BOGE Control and BOGE Select electronic controllers. Alarms display as text or numeric codes depending on controller generation.
 
@@ -32,13 +32,13 @@ BOGE rotary screw compressors (S, C, and BLUEKAT series) use the BOGE Control an
 ## Most Common Faults
 
 ### High Final Pressure Temperature
-BOGE screw compressors are sensitive to oil cooler cleanliness. The cooler fins on BOGE units pack densely and require cleaning from the inside out with compressed air or a fin brush. Verify the cooling fan capacitor — a slow fan is a common cause that's easy to overlook.
+BOGE screw compressors are sensitive to oil cooler cleanliness. The cooler fins on BOGE units pack densely and require cleaning from the inside out with compressed air or a fin brush. Verify the cooling fan capacitor - a slow fan is a common cause that's easy to overlook.
 
 ### Air Filter Differential High
 Some BOGE models have a differential pressure switch across the air filter. A clogged filter reduces airflow, increases velocity through the airend, and causes temperature rise. Replace the filter element before it triggers this shutdown.
 
 ### Oil Separator DP
-The separator element is a scheduled service part — typically 3,000–4,000 hours. In dusty environments or with degraded oil, it can plug much sooner. A high differential pressure across the separator increases power consumption noticeably before triggering the alarm.
+The separator element is a scheduled service part - typically 3,000–4,000 hours. In dusty environments or with degraded oil, it can plug much sooner. A high differential pressure across the separator increases power consumption noticeably before triggering the alarm.
 
 ## Parts Often Needed
 
@@ -52,3 +52,4 @@ The separator element is a scheduled service part — typically 3,000–4,000 ho
 
 ## When to Call a Pro
 BOGE compressors require factory-specific oil types and torque specs on separator housing reassembly. If repeated temperature shutdowns occur after service, contact a BOGE authorized service provider.
+

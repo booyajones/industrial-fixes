@@ -1,5 +1,5 @@
 ---
-title: "Tuttnauer Autoclave Fault Codes — Complete Guide"
+title: "Tuttnauer Autoclave Fault Codes - Complete Guide"
 description: "Tuttnauer autoclave fault codes for 2340, 3870, Elara, and Valueklave series: error codes, causes, and troubleshooting steps."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
@@ -13,7 +13,7 @@ tags:
   - medical
 ---
 
-## Tuttnauer Autoclave Fault Codes — Quick Reference
+## Tuttnauer Autoclave Fault Codes - Quick Reference
 
 Tuttnauer autoclaves (2340, 3870, Elara, Valueklave, and EZ10 series) display fault codes on the digital or LED display panel. Common in dental, veterinary, and laboratory settings.
 
@@ -32,19 +32,19 @@ Tuttnauer autoclaves (2340, 3870, Elara, Valueklave, and EZ10 series) display fa
 
 ## Most Common Faults
 
-### E1 — Temperature Sensor Fault
-Tuttnauer uses PT100 temperature sensors in the chamber. An E1 fault means the sensor is reading out of range — either a broken wire (reads too high) or a short (reads too low). Disconnect the sensor and test resistance: 100 ohms at 0°C, approximately 138 ohms at 100°C. Replace the sensor if values are incorrect.
+### E1 - Temperature Sensor Fault
+Tuttnauer uses PT100 temperature sensors in the chamber. An E1 fault means the sensor is reading out of range - either a broken wire (reads too high) or a short (reads too low). Disconnect the sensor and test resistance: 100 ohms at 0°C, approximately 138 ohms at 100°C. Replace the sensor if values are incorrect.
 
-### E3 — Temperature Not Reached
+### E3 - Temperature Not Reached
 If the autoclave doesn't reach the target temperature (121°C or 134°C) within the preset time, E3 aborts the cycle. This is commonly caused by: door not sealing fully (check gasket), low steam generation from a scaled heating element, or insufficient water. Descale the unit if limescale buildup is visible.
 
-### E5 — Door Fault
+### E5 - Door Fault
 Tuttnauer door faults indicate the door locking mechanism didn't complete. On manual-lock models, ensure the door handle is fully rotated to the locked position. On automatic-lock models, check the door solenoid and locking cam. A worn door gasket that lets steam escape also prevents the door from locking under pressure.
 
-### E7 / LO — Water Level Fault
-Elara and EZ10 models have internal water reservoirs with level sensors. Always use distilled or RO water — tap water causes mineral scaling that damages the heating element and clogs the strainer. Clean the water reservoir and level sensor if false water level alarms occur with a full reservoir.
+### E7 / LO - Water Level Fault
+Elara and EZ10 models have internal water reservoirs with level sensors. Always use distilled or RO water - tap water causes mineral scaling that damages the heating element and clogs the strainer. Clean the water reservoir and level sensor if false water level alarms occur with a full reservoir.
 
-### E8 — Conductivity Fault (Elara)
+### E8 - Conductivity Fault (Elara)
 Elara models test water conductivity to prevent mineral buildup damage. If tap water or inadequately treated water is used, E8 triggers and the cycle is aborted. Use only distilled or deionized water with conductivity below 15 µS/cm.
 
 ## Parts Often Needed
@@ -59,3 +59,4 @@ Elara models test water conductivity to prevent mineral buildup damage. If tap w
 
 ## When to Call a Pro
 Tuttnauer autoclave spore testing, cycle validation, and annual PM require trained biomedical technicians. In dental and medical practices, sterilizer validation records are required by regulatory bodies.
+

@@ -1,5 +1,5 @@
 ---
-title: "Emerson E2 Refrigeration Controller Error Codes — Complete Guide"
+title: "Emerson E2 Refrigeration Controller Error Codes - Complete Guide"
 description: "Emerson (Copeland) E2 refrigeration controller error codes and alarms for supermarket and cold storage: causes and fix steps."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
@@ -13,7 +13,7 @@ tags:
   - e2-controller
 ---
 
-## Emerson E2 Controller Error Codes — Quick Reference
+## Emerson E2 Controller Error Codes - Quick Reference
 
 The Emerson E2 (formerly Alerton, now Emerson Climate Technologies) is a refrigeration and HVAC supervisory controller used in supermarkets, convenience stores, and cold storage. Alarms display on the E2 touchscreen and via the Emerson Store Connect cloud platform.
 
@@ -33,7 +33,7 @@ The Emerson E2 (formerly Alerton, now Emerson Climate Technologies) is a refrige
 ## Most Common Faults
 
 ### Temperature High Alarm (Case)
-Check defrost schedule first — a missed defrost causes ice buildup on the evaporator coil, which blocks airflow and raises case temperature. Also check: door gaskets, evaporator fan motors, and the case curtains overnight. If all defrost cycles are running normally, suspect refrigerant charge or a failed expansion valve.
+Check defrost schedule first - a missed defrost causes ice buildup on the evaporator coil, which blocks airflow and raises case temperature. Also check: door gaskets, evaporator fan motors, and the case curtains overnight. If all defrost cycles are running normally, suspect refrigerant charge or a failed expansion valve.
 
 ### Discharge Pressure High
 High discharge pressure (head pressure) indicates: dirty or failed condenser coil, failed condenser fan motors, high ambient temperature, or refrigerant overcharge. Check condenser coil cleanliness and fan operation. On air-cooled systems, condenser pressure should be 15–25°F above ambient.
@@ -56,3 +56,4 @@ E2 defrost fail alarms occur when a defrost cycle doesn't terminate within the m
 
 ## When to Call a Pro
 Emerson E2 refrigerant circuit diagnostics, EEV calibration, and compressor rack management require EPA Section 608 certification and E2 training. Incorrect setpoint changes can cause food safety violations.
+

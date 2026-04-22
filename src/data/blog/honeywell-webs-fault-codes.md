@@ -1,5 +1,5 @@
 ---
-title: "Honeywell WEBs Building Controller Fault Codes — Complete Guide"
+title: "Honeywell WEBs Building Controller Fault Codes - Complete Guide"
 description: "Honeywell WEBs-AX and WEBs-4S building controller fault codes and alarms: communication errors, sensor faults, causes and fixes."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
@@ -13,7 +13,7 @@ tags:
   - building-automation
 ---
 
-## Honeywell WEBs Fault Codes — Quick Reference
+## Honeywell WEBs Fault Codes - Quick Reference
 
 Honeywell WEBs-AX and WEBs-4S supervisory controllers and field controllers (XL15B, XL10, Spyder, Sylk devices) use the Niagara Framework and appear in the Honeywell Workbench or WEBs Commissioning Tool.
 
@@ -33,7 +33,7 @@ Honeywell WEBs-AX and WEBs-4S supervisory controllers and field controllers (XL1
 ## Most Common Faults
 
 ### {fault} State on Points
-In Niagara/WEBs, a {fault} status means the point has a valid connection to the controller but the controller cannot read the physical input or cannot reach the downstream device. Check the driver connection status in the Workbench point browser — look for the driver's health indicator (green = ok, red = fault).
+In Niagara/WEBs, a {fault} status means the point has a valid connection to the controller but the controller cannot read the physical input or cannot reach the downstream device. Check the driver connection status in the Workbench point browser - look for the driver's health indicator (green = ok, red = fault).
 
 ### Communication Loss to Sylk/XL10 Devices
 Honeywell Sylk devices communicate over a proprietary two-wire bus. Communication faults occur when bus polarity is reversed, bus length exceeds limits, or multiple devices share the same address. Use the Honeywell Commissioning Tool to scan for devices and check addressing.
@@ -56,3 +56,4 @@ WEBs supervisory controllers store application data in flash memory. A database 
 
 ## When to Call a Pro
 Niagara Framework database programming, WEBs licensing issues, and LON commissioning require certified Niagara/Honeywell technicians. Incorrect configuration changes can cause entire floor or building HVAC to misbehave.
+

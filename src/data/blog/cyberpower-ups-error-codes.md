@@ -1,5 +1,5 @@
 ---
-title: "CyberPower UPS Error Codes — Complete Guide"
+title: "CyberPower UPS Error Codes - Complete Guide"
 description: "CyberPower UPS error codes and fault indicators for OL, PR, and Smart App series: LED alerts, beep codes, causes, and fixes."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
@@ -12,7 +12,7 @@ tags:
   - power-systems
 ---
 
-## CyberPower UPS Error Codes — Quick Reference
+## CyberPower UPS Error Codes - Quick Reference
 
 CyberPower UPS systems (OL series online, PR series, Smart App series, and CP series) communicate faults via LED indicators, LCD displays, and CyberPower PowerPanel software.
 
@@ -25,17 +25,17 @@ CyberPower UPS systems (OL series online, PR series, Smart App series, and CP se
 | Bypass LED | OL | UPS in bypass mode | Check for internal fault |
 | Site Wiring Fault | OL/PR | Building wiring issue | Call electrician |
 | Battery Low Beeps | All | Runtime below threshold | Connect to utility or reduce load |
-| Constant Alarm | All | Critical fault — battery very low | Connect to power immediately |
+| Constant Alarm | All | Critical fault - battery very low | Connect to power immediately |
 | Input Out of Range | OL | Utility voltage exceeds transfer range | Check supply voltage |
-| F01 — Fan Fault | OL3000RT+ | Cooling fan failure | Replace fan module |
+| F01 - Fan Fault | OL3000RT+ | Cooling fan failure | Replace fan module |
 
 ## Most Common Faults
 
 ### Replace Battery
-CyberPower batteries last 3–5 years under normal conditions. Heat and frequent discharges shorten life significantly. CyberPower uses standard VRLA (AGM) batteries — replacements are available from CyberPower or third-party suppliers. Match voltage, AH rating, and physical dimensions.
+CyberPower batteries last 3–5 years under normal conditions. Heat and frequent discharges shorten life significantly. CyberPower uses standard VRLA (AGM) batteries - replacements are available from CyberPower or third-party suppliers. Match voltage, AH rating, and physical dimensions.
 
 ### Overload
-Check the load with a watt meter. CyberPower UPS systems are rated in both VA and watts — make sure both ratings are not exceeded. Laser printers create large inrush currents on startup that can trip overload protection. Connect printers to surge-only outlets rather than battery-backed outlets.
+Check the load with a watt meter. CyberPower UPS systems are rated in both VA and watts - make sure both ratings are not exceeded. Laser printers create large inrush currents on startup that can trip overload protection. Connect printers to surge-only outlets rather than battery-backed outlets.
 
 ### Bypass (OL Series)
 The OL series (true online double-conversion) transfers to static bypass when the inverter faults or overheats. A bypass alarm means load is running unprotected. Check the LCD for the specific fault code that caused the bypass transfer. Common causes: overtemperature from blocked vents, inverter fault, or output overload.
@@ -54,3 +54,4 @@ OL series models have configurable input voltage windows. If utility voltage flu
 
 ## When to Call a Pro
 CyberPower OL (online) series internal inverter and rectifier failures require factory service. Do not attempt capacitor or power board replacement without proper training and safety precautions.
+

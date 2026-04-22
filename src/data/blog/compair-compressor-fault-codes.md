@@ -1,5 +1,5 @@
 ---
-title: "CompAir Air Compressor Fault Codes — Complete Guide"
+title: "CompAir Air Compressor Fault Codes - Complete Guide"
 description: "CompAir rotary screw compressor fault codes and alarms: causes, diagnostic steps, and repair guidance for L, D, and B series."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
@@ -12,7 +12,7 @@ tags:
   - industrial
 ---
 
-## CompAir Compressor Fault Codes — Quick Reference
+## CompAir Compressor Fault Codes - Quick Reference
 
 CompAir (Gardner Denver brand) rotary screw compressors use the Delcos XL and Delcos Pro controllers on L, D, and B series machines. Alarms fall into warnings (continue running) and shutdowns (compressor stops).
 
@@ -32,7 +32,7 @@ CompAir (Gardner Denver brand) rotary screw compressors use the Delcos XL and De
 ## Most Common Faults
 
 ### High Discharge Temperature
-Clean the cooler bundle and verify fan operation first. CompAir oil coolers are often cooled by a fan driven by the main motor belt or a separate motor — check that the fan runs at full speed. Also check oil type and level; synthetic oil is strongly preferred.
+Clean the cooler bundle and verify fan operation first. CompAir oil coolers are often cooled by a fan driven by the main motor belt or a separate motor - check that the fan runs at full speed. Also check oil type and level; synthetic oil is strongly preferred.
 
 ### Oil Separator DP High
 Separator element typically needs replacement every 2,000–6,000 hours depending on operating conditions. Running dusty environments accelerates clogging. A blocked separator increases energy consumption and causes oil carryover into the air system.
@@ -55,3 +55,4 @@ Check current draw on all three phases with a clamp meter. Unbalanced loading, i
 
 ## When to Call a Pro
 If the compressor shuts down on high temperature after cooler cleaning and oil service, suspect airend discharge valve or screw wear. CompAir airend rebuilds require factory tooling and specifications.
+

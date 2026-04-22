@@ -1,5 +1,5 @@
 ---
-title: "GE Industrial Circuit Breaker Fault Codes — Complete Guide"
+title: "GE Industrial Circuit Breaker Fault Codes - Complete Guide"
 description: "GE Industrial (ABB, Grid Solutions) MCCB and power circuit breaker fault codes: DECS trip unit alarms, causes, and reset procedures."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
@@ -12,7 +12,7 @@ tags:
   - electrical
 ---
 
-## GE Circuit Breaker Fault Codes — Quick Reference
+## GE Circuit Breaker Fault Codes - Quick Reference
 
 GE Industrial circuit breakers (Power/Vac, AKR, SACE PowerBreak II, Spectra RMS) use DECS, DECS-UPM, and M-DECS trip units. GE's power circuit breaker line was acquired by ABB and continues under the ABB/Grid Solutions brand.
 
@@ -32,10 +32,10 @@ GE Industrial circuit breakers (Power/Vac, AKR, SACE PowerBreak II, Spectra RMS)
 ## Most Common Faults
 
 ### Overload Trip (DECS)
-GE DECS trip units record last trip information on the LED panel. Press the RECALL button on DECS-UPM to display last trip current on the digital readout. An overload trip on a correctly-set breaker means load has grown — check motor FLA, transformer loading, or added loads.
+GE DECS trip units record last trip information on the LED panel. Press the RECALL button on DECS-UPM to display last trip current on the digital readout. An overload trip on a correctly-set breaker means load has grown - check motor FLA, transformer loading, or added loads.
 
 ### Short Circuit Trip
-GE PowerBreak and AKR breakers have been extensively used in critical infrastructure. After a short circuit trip, check the arc chutes for damage — repeated SC trips degrade the arc chute inserts. Contact inspection should be done by a GE/ABB-trained technician.
+GE PowerBreak and AKR breakers have been extensively used in critical infrastructure. After a short circuit trip, check the arc chutes for damage - repeated SC trips degrade the arc chute inserts. Contact inspection should be done by a GE/ABB-trained technician.
 
 ### Ground Fault
 DECS ground fault detection on GE breakers uses a summation of phase CT currents. False ground fault trips on long cable runs can be caused by cable capacitance. If nuisance trips occur, raise the Ig threshold after confirming the system is actually free of ground faults.
@@ -55,3 +55,4 @@ GE DECS breakers with phase loss protection trip immediately on loss of any phas
 
 ## When to Call a Pro
 GE/ABB Power circuit breaker maintenance requires factory training. Contact ABB Grid Solutions for authorized service on AKR and PowerBreak II breakers.
+

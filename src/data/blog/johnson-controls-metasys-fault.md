@@ -1,5 +1,5 @@
 ---
-title: "Johnson Controls Metasys BMS Fault Codes — Complete Guide"
+title: "Johnson Controls Metasys BMS Fault Codes - Complete Guide"
 description: "Johnson Controls Metasys building management system fault codes and alarms for NAE, NCE, and field controllers: causes and fixes."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
@@ -13,7 +13,7 @@ tags:
   - building-automation
 ---
 
-## Johnson Controls Metasys Fault Codes — Quick Reference
+## Johnson Controls Metasys Fault Codes - Quick Reference
 
 Johnson Controls Metasys BMS uses Network Automation Engines (NAE/NCE), Field Equipment Controllers (FEC, IOM), and Application Specific Controllers (VAV, AHU). Alarms appear on the Metasys UI, Site Control Panel, and via e-mail notifications.
 
@@ -33,10 +33,10 @@ Johnson Controls Metasys BMS uses Network Automation Engines (NAE/NCE), Field Eq
 ## Most Common Faults
 
 ### Communication Lost
-A controller showing Communication Lost in Metasys means the NAE or NCE cannot reach the field controller via BACnet MS/TP (RS-485) or BACnet IP. Check the MS/TP wiring for broken wires, incorrect termination, or address conflicts. MS/TP requires a 120-ohm terminator at each end of the trunk only — extra terminators cause reflections and communication loss.
+A controller showing Communication Lost in Metasys means the NAE or NCE cannot reach the field controller via BACnet MS/TP (RS-485) or BACnet IP. Check the MS/TP wiring for broken wires, incorrect termination, or address conflicts. MS/TP requires a 120-ohm terminator at each end of the trunk only - extra terminators cause reflections and communication loss.
 
 ### Out of Range (OOR) Sensor
-OOR alarms indicate a sensor reading outside its configured high/low limits. Causes include: failed sensor, broken wire, incorrect input configuration (0–10V vs 4–20mA), or a shorted input. Check the raw input value in Metasys — a 0% or 100% reading with a known engineering unit indicates a wiring failure.
+OOR alarms indicate a sensor reading outside its configured high/low limits. Causes include: failed sensor, broken wire, incorrect input configuration (0–10V vs 4–20mA), or a shorted input. Check the raw input value in Metasys - a 0% or 100% reading with a known engineering unit indicates a wiring failure.
 
 ### Fan Status Fail
 Metasys AHU controllers compare the commanded fan state with the status feedback (usually a current sensor or differential pressure switch). Status Fail means the command says ON but the status says OFF, or vice versa. Check the fan drive (VFD or motor starter) and the status input wiring.
@@ -56,3 +56,4 @@ A freezestat in an AHU trips on low coil temperature to prevent chilled water co
 
 ## When to Call a Pro
 Metasys NAE/NCE database management, firmware upgrades, and object configuration require Metasys-trained technicians. Incorrect NAE configuration can affect entire building HVAC systems simultaneously.
+

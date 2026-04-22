@@ -1,5 +1,5 @@
 ---
-title: "Automated Logic WebCTRL Fault Codes — Complete Guide"
+title: "Automated Logic WebCTRL Fault Codes - Complete Guide"
 description: "Automated Logic WebCTRL BAS fault codes and alarms for ALC controllers: communication failures, sensor faults, and troubleshooting steps."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
@@ -13,7 +13,7 @@ tags:
   - building-automation
 ---
 
-## Automated Logic WebCTRL Fault Codes — Quick Reference
+## Automated Logic WebCTRL Fault Codes - Quick Reference
 
 Automated Logic (Carrier subsidiary) WebCTRL uses BACnet controllers (MCB, LGR, VMA, ZN series) and SiteBuilder software. Alarms display in the WebCTRL Alarm Manager and via e-mail/SMS notification.
 
@@ -56,3 +56,4 @@ WebCTRL runs as a Windows service. If the service crashes or fails to start afte
 
 ## When to Call a Pro
 WebCTRL server administration, database management, and BACnet network configuration require Automated Logic-certified technicians. An incorrect network change can disable multiple buildings simultaneously.
+

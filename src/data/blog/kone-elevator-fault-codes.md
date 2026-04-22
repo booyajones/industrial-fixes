@@ -1,5 +1,5 @@
 ---
-title: "KONE Elevator Fault Codes — Complete Guide"
+title: "KONE Elevator Fault Codes - Complete Guide"
 description: "KONE elevator fault codes for MonoSpace, EcoDisc, and MiniSpace systems: common alarms, causes, and diagnostic steps."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
@@ -12,7 +12,7 @@ tags:
   - lift
 ---
 
-## KONE Elevator Fault Codes — Quick Reference
+## KONE Elevator Fault Codes - Quick Reference
 
 KONE elevators (MonoSpace, EcoDisc, MiniSpace, NanoSpace, and TravelMaster hydraulics) use the V3F16L and KONE CX/DX controller platforms. Faults are logged in the controller and accessible via KONE TKS or KONE Care service tools.
 
@@ -41,7 +41,7 @@ KONE uses proprietary KONE door operators (KSD, KSD-2). Door fault causes includ
 KONE V3F16L drives use VACON power electronics. Drive fault codes on the display follow the VACON F-fault format. Common codes: F3 (input phase loss), F7 (saturation), F9 (undervoltage). Check the drive keypad fault history directly. Many V3F faults are caused by the main power supply quality, not the drive itself.
 
 ### Unintended Car Movement (UCM)
-UCM detection is a mandatory safety feature on modern KONE installations. If the car moves without door zone or door fully closed, UCM triggers and requires a technician reset. Root causes: failed brake, failed door zone sensor, or drive fault. This is a safety-critical fault — do not bypass.
+UCM detection is a mandatory safety feature on modern KONE installations. If the car moves without door zone or door fully closed, UCM triggers and requires a technician reset. Root causes: failed brake, failed door zone sensor, or drive fault. This is a safety-critical fault - do not bypass.
 
 ## Parts Often Needed
 
@@ -55,3 +55,4 @@ UCM detection is a mandatory safety feature on modern KONE installations. If the
 
 ## When to Call a Pro
 **KONE elevator systems require licensed elevator mechanics.** KONE Care service tools and software are proprietary. Do not attempt repair or fault reset without proper training and authorization.
+

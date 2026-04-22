@@ -1,5 +1,5 @@
 ---
-title: "Mitsubishi Elevator Fault Codes — Complete Guide"
+title: "Mitsubishi Elevator Fault Codes - Complete Guide"
 description: "Mitsubishi elevator fault codes for NEXIEZ, ELENESSA, and MELCO systems: common alarms, causes, and diagnostic steps."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
@@ -12,7 +12,7 @@ tags:
   - lift
 ---
 
-## Mitsubishi Elevator Fault Codes — Quick Reference
+## Mitsubishi Elevator Fault Codes - Quick Reference
 
 Mitsubishi Electric elevators (NEXIEZ, ELENESSA, GRANDEUR, Sigma series) use the Mitsubishi VFEM and proprietary control platforms. Fault codes are accessible via the Mitsubishi service tool (MELTRAC) or the controller's LED/LCD panel.
 
@@ -32,10 +32,10 @@ Mitsubishi Electric elevators (NEXIEZ, ELENESSA, GRANDEUR, Sigma series) use the
 ## Most Common Faults
 
 ### Safety Circuit Open
-Mitsubishi NEXIEZ and ELENESSA controllers monitor individual safety inputs electronically. The MELTRAC service tool identifies the open contact by name. Door contacts (landing and car gate) are the most frequent failure point. Mitsubishi uses a dual-channel door contact system on newer models — both channels must be healthy.
+Mitsubishi NEXIEZ and ELENESSA controllers monitor individual safety inputs electronically. The MELTRAC service tool identifies the open contact by name. Door contacts (landing and car gate) are the most frequent failure point. Mitsubishi uses a dual-channel door contact system on newer models - both channels must be healthy.
 
 ### Drive Fault (E-series codes)
-Mitsubishi elevators use proprietary Mitsubishi Electric FR-series derived inverters. Drive faults display as E0x through E99. Common: E01 (overcurrent), E09 (overvoltage on deceleration — check regenerative resistor), E16 (encoder communication lost). Access the full fault history on the inverter's keypad.
+Mitsubishi elevators use proprietary Mitsubishi Electric FR-series derived inverters. Drive faults display as E0x through E99. Common: E01 (overcurrent), E09 (overvoltage on deceleration - check regenerative resistor), E16 (encoder communication lost). Access the full fault history on the inverter's keypad.
 
 ### Door Fault
 Mitsubishi uses the door zone sensor and door operator control card to manage door timing. A door fault triggers when the door doesn't close within the allowed time or when the light curtain reverses too many times. Check the sill and interlock mechanism. On older SIGMA series, worn door cam rollers cause repeated reversals.
@@ -55,3 +55,4 @@ Mitsubishi gearless machines use dual electromagnetic brakes. Each brake has a m
 
 ## When to Call a Pro
 **Mitsubishi elevator systems require licensed elevator mechanics.** MELTRAC software and programming are proprietary to Mitsubishi Electric authorized service personnel. Never bypass safety circuits or ignore UCM faults.
+

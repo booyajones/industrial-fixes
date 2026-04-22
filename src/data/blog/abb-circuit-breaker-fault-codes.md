@@ -1,5 +1,5 @@
 ---
-title: "ABB Tmax/Emax Circuit Breaker Fault Codes — Complete Guide"
+title: "ABB Tmax/Emax Circuit Breaker Fault Codes - Complete Guide"
 description: "ABB Tmax T-series and Emax 2 circuit breaker fault codes, trip indicators, and Ekip trip unit alarms: causes and reset steps."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
@@ -12,7 +12,7 @@ tags:
   - electrical
 ---
 
-## ABB Circuit Breaker Fault Codes — Quick Reference
+## ABB Circuit Breaker Fault Codes - Quick Reference
 
 ABB Tmax (T4, T5, T6, T7) and Emax 2 air circuit breakers use Ekip trip units (G, M, Hi, E series) that display fault history via LED indicators, Ekip Com modules, and the ABB Electrical Systems software.
 
@@ -32,7 +32,7 @@ ABB Tmax (T4, T5, T6, T7) and Emax 2 air circuit breakers use Ekip trip units (G
 ## Most Common Faults
 
 ### Long-Time Overload (LT)
-Ekip trip units record fault current and duration. Use the Ekip View software (via USB or Ekip Com) to read the trip log and verify actual fault current. If fault current is below rated load current, check the Ekip LT threshold (Ir) and time settings — factory defaults may not match your installation.
+Ekip trip units record fault current and duration. Use the Ekip View software (via USB or Ekip Com) to read the trip log and verify actual fault current. If fault current is below rated load current, check the Ekip LT threshold (Ir) and time settings - factory defaults may not match your installation.
 
 ### Instantaneous Trip (I)
 ABB Emax 2 instantaneous trips indicate fault current above the Ii threshold, typically a bolted fault or severe cable insulation failure. After the breaker opens, inspect all load-side cables with a megohmmeter before re-energizing.
@@ -55,3 +55,4 @@ The Ekip Com module provides Modbus, PROFIBUS, or BACnet connectivity. Loss of c
 
 ## When to Call a Pro
 ABB circuit breaker contact inspection and Ekip calibration require qualified electrical personnel. Do not reset after an instantaneous trip without verifying the load circuit is fault-free.
+

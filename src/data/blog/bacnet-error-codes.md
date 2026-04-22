@@ -1,5 +1,5 @@
 ---
-title: "BACnet Protocol Error Codes — Complete Guide"
+title: "BACnet Protocol Error Codes - Complete Guide"
 description: "BACnet protocol error codes, reject reasons, and abort codes for building automation systems: causes and troubleshooting steps."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
@@ -12,7 +12,7 @@ tags:
   - protocol
 ---
 
-## BACnet Error Codes — Quick Reference
+## BACnet Error Codes - Quick Reference
 
 BACnet (Building Automation and Control Networks, ASHRAE Standard 135) defines specific error codes returned by devices in response to service requests. These appear in BACnet client software, commissioning tools, and network analyzers.
 
@@ -58,3 +58,4 @@ BACnet devices enforce their own limits on writable properties. A setpoint contr
 
 ## When to Call a Pro
 BACnet network design, router configuration, and integration between different BACnet implementations often require a certified BACnet professional (CBP) or integration specialist.
+

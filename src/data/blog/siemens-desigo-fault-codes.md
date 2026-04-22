@@ -1,5 +1,5 @@
 ---
-title: "Siemens Desigo BMS Fault Codes — Complete Guide"
+title: "Siemens Desigo BMS Fault Codes - Complete Guide"
 description: "Siemens Desigo CC and Desigo Insight BMS fault codes and alarms for PXC controllers and field devices: causes and diagnostic steps."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
@@ -13,7 +13,7 @@ tags:
   - building-automation
 ---
 
-## Siemens Desigo BMS Fault Codes — Quick Reference
+## Siemens Desigo BMS Fault Codes - Quick Reference
 
 Siemens Desigo building management systems use PXC (Compact), PXM (Modular), and PXA (Application) controllers with room units and field devices. Alarms appear in Desigo CC or Desigo Insight management stations.
 
@@ -42,7 +42,7 @@ Siemens Desigo PXC inputs accept Ni1000, PT1000, 0–10V, and 4–20mA signals. 
 When a Desigo AHU controller detects temperatures below the freeze protection setpoint (typically 4–7°C on the preheat coil leaving air), it closes the outdoor air damper, opens the heating valve fully, and alarms. Check the preheat coil valve for freezing or failure, and verify the freezestat position and wiring.
 
 ### Hardware Fault
-PXC hardware faults indicate a failed processor module, power supply, or flash memory error. Check the module status LED — a solid red LED on the PXC module indicates hardware failure. Try a cold restart (power cycle) first; if the fault persists, replace the module.
+PXC hardware faults indicate a failed processor module, power supply, or flash memory error. Check the module status LED - a solid red LED on the PXC module indicates hardware failure. Try a cold restart (power cycle) first; if the fault persists, replace the module.
 
 ## Parts Often Needed
 
@@ -56,3 +56,4 @@ PXC hardware faults indicate a failed processor module, power supply, or flash m
 
 ## When to Call a Pro
 Desigo CC database configuration, PXC programming with XWORKSplus, and network integration require Siemens-trained personnel. Incorrect configuration changes can affect entire building zones simultaneously.
+

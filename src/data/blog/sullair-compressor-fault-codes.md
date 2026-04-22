@@ -1,5 +1,5 @@
 ---
-title: "Sullair Air Compressor Fault Codes — Complete Guide"
+title: "Sullair Air Compressor Fault Codes - Complete Guide"
 description: "Sullair rotary screw compressor fault codes and alarms for Supervisor and Touch Panel controllers: causes, fixes, and parts."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
@@ -12,7 +12,7 @@ tags:
   - industrial
 ---
 
-## Sullair Compressor Fault Codes — Quick Reference
+## Sullair Compressor Fault Codes - Quick Reference
 
 Sullair rotary screw compressors use the Supervisor and Touch Panel controllers to display warning and shutdown alarms. Codes vary by model (S-Series, 900/1150 HH, ShopTek), but these are the most common alarm families.
 
@@ -38,7 +38,7 @@ The leading cause of Sullair shutdowns. Dirty oil cooler fins, low oil level, hi
 A restricted oil separator causes high pressure drop and oil carryover into the discharge air. Replace the separator element at or before the rated service interval. On Sullair units this is typically 2,000–4,000 hours depending on model.
 
 ### Low Oil Pressure
-Check the oil level first — if low, fill and reset. If oil level is correct, the oil filter may be bypassing or the scavenge line may be blocked. On older units, the oil pump pickup can become contaminated.
+Check the oil level first - if low, fill and reset. If oil level is correct, the oil filter may be bypassing or the scavenge line may be blocked. On older units, the oil pump pickup can become contaminated.
 
 ### Motor Overload
 Verify incoming voltage balance on all three phases. Unbalanced voltage causes disproportionate current draw on one phase and will trip the overload even at normal load. Also check the inlet valve if the compressor loads too heavily on startup.
@@ -55,3 +55,4 @@ Verify incoming voltage balance on all three phases. Unbalanced voltage causes d
 
 ## When to Call a Pro
 Repeated discharge temperature trips after cleaning, or loss of oil pressure with correct oil level, indicate internal airend wear or oil pump failure. These require disassembly and should be handled by a Sullair-trained technician.
+

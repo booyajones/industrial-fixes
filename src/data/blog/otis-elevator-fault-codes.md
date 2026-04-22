@@ -1,5 +1,5 @@
 ---
-title: "Otis Elevator Fault Codes — Complete Guide (Gen2 / Elevonic)"
+title: "Otis Elevator Fault Codes - Complete Guide (Gen2 / Elevonic)"
 description: "Otis elevator fault codes for Gen2, Elevonic 411, and Otis 2000 systems: common alarms, causes, and diagnostic steps."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
@@ -12,7 +12,7 @@ tags:
   - lift
 ---
 
-## Otis Elevator Fault Codes — Quick Reference
+## Otis Elevator Fault Codes - Quick Reference
 
 Otis elevators (Gen2, Elevonic 411, Otis 2000, GeN2 Comfort, and LiNX controller systems) log faults accessible via the Otis service tool (OSCAR or LiNX service tool) or the controller's onboard diagnostic display.
 
@@ -32,7 +32,7 @@ Otis elevators (Gen2, Elevonic 411, Otis 2000, GeN2 Comfort, and LiNX controller
 ## Most Common Faults
 
 ### Safety Chain Open (Gen2)
-The Gen2 uses a monitored safety chain. The LiNX controller reads individual safety inputs via a serial safety link — unlike older relay systems, individual contacts can be identified directly on the LiNX display. Check door contacts first (UCM — unintended car movement), then gate switches and pit stop.
+The Gen2 uses a monitored safety chain. The LiNX controller reads individual safety inputs via a serial safety link - unlike older relay systems, individual contacts can be identified directly on the LiNX display. Check door contacts first (UCM - unintended car movement), then gate switches and pit stop.
 
 ### Door Fault
 Otis Gen2 uses a Hollister-Whitney or Wittur door operator. Door faults include: door reversal from the light curtain, door motor overcurrent, and door open time exceeded. Check that the door sill is clear of debris and the door clutch/vane engages properly at each floor landing.
@@ -41,7 +41,7 @@ Otis Gen2 uses a Hollister-Whitney or Wittur door operator. Door faults include:
 Gen2 gearless machines use electromagnetic disc brakes. A brake fault means the brake monitoring contacts don't confirm the expected state (open on run, closed on stop). Check the brake contactor and the brake monitoring switch. Brake drag (brake not fully releasing) causes motor overtemperature and drive overcurrent.
 
 ### Drive Fault
-Gen2 uses Otis-proprietary regenerative drives in newer installations. A drive fault code is logged on the LiNX display. Common codes: OV (overvoltage), OC (overcurrent), and thermal. The regenerative drive returns braking energy to the building — if the building supply is at high voltage, OV faults occur on deceleration.
+Gen2 uses Otis-proprietary regenerative drives in newer installations. A drive fault code is logged on the LiNX display. Common codes: OV (overvoltage), OC (overcurrent), and thermal. The regenerative drive returns braking energy to the building - if the building supply is at high voltage, OV faults occur on deceleration.
 
 ## Parts Often Needed
 
@@ -55,3 +55,4 @@ Gen2 uses Otis-proprietary regenerative drives in newer installations. A drive f
 
 ## When to Call a Pro
 **Otis elevator systems require licensed elevator mechanics.** The LiNX controller programming is locked and accessible only to Otis-authorized personnel. Do not attempt to clear faults in the pit without proper lockout/tagout procedures.
+

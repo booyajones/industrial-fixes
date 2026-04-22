@@ -1,5 +1,5 @@
 ---
-title: "Siemens Circuit Breaker Fault Codes — Complete Guide"
+title: "Siemens Circuit Breaker Fault Codes - Complete Guide"
 description: "Siemens 3WL and 3VA circuit breaker fault codes and ETU trip unit alarms: overload, short circuit, ground fault, causes and fixes."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
@@ -12,7 +12,7 @@ tags:
   - electrical
 ---
 
-## Siemens Circuit Breaker Fault Codes — Quick Reference
+## Siemens Circuit Breaker Fault Codes - Quick Reference
 
 Siemens 3WL air circuit breakers and 3VA molded case breakers use ETU (Electronic Trip Unit) 20B, 25B, 45B, and 76B trip units. Faults are shown via LED indicators, ETU displays, and PROFIBUS/Modbus communication.
 
@@ -55,3 +55,4 @@ ETU 45B and 76B include ground fault protection via a summation CT (3-phase). Tr
 
 ## When to Call a Pro
 Siemens 3WL maintenance (lubrication, contact inspection, arc chute replacement) requires factory-trained personnel. 3VA trip unit verification should be done with Siemens Sentron software.
+

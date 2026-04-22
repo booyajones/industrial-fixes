@@ -1,5 +1,5 @@
 ---
-title: "Sun Hydraulics Fault Codes — Complete Guide"
+title: "Sun Hydraulics Fault Codes - Complete Guide"
 description: "Sun Hydraulics (Helios) electrohydraulic manifold and controller fault codes: causes, diagnostic steps, and repair guidance."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
@@ -12,7 +12,7 @@ tags:
   - industrial
 ---
 
-## Sun Hydraulics Fault Codes — Quick Reference
+## Sun Hydraulics Fault Codes - Quick Reference
 
 Sun Hydraulics (now Helios Technologies) manufactures screw-in hydraulic cartridge valves and Enovation Controls (Murphy) electronic systems for mobile and industrial hydraulics. Faults appear on MurphyLink displays or CAN bus diagnostics.
 
@@ -32,10 +32,10 @@ Sun Hydraulics (now Helios Technologies) manufactures screw-in hydraulic cartrid
 ## Most Common Faults
 
 ### Solenoid Open Circuit
-The most common electrohydraulic fault on Sun/Helios systems. Vibration, moisture, and heat cycling cause solenoid connector failures. Check the DT or Deutsch connector pins before replacing the solenoid — bent or pushed-back pins are the leading cause of open circuit faults on mobile equipment.
+The most common electrohydraulic fault on Sun/Helios systems. Vibration, moisture, and heat cycling cause solenoid connector failures. Check the DT or Deutsch connector pins before replacing the solenoid - bent or pushed-back pins are the leading cause of open circuit faults on mobile equipment.
 
 ### CAN Bus Fault
-Sun Hydraulics controllers on CAN networks require proper 120-ohm termination resistors at both ends of the CAN bus. A missing or failed terminator causes intermittent or total communication loss. Measure CAN HI to CAN LO — you should read approximately 60 ohms (two 120-ohm resistors in parallel) with power off.
+Sun Hydraulics controllers on CAN networks require proper 120-ohm termination resistors at both ends of the CAN bus. A missing or failed terminator causes intermittent or total communication loss. Measure CAN HI to CAN LO - you should read approximately 60 ohms (two 120-ohm resistors in parallel) with power off.
 
 ### Sensor Signal Low/High
 Sun proportional hydraulic systems often use 0.5–4.5VDC ratiometric pressure sensors. A reference supply failure causes all sensors to read low simultaneously. Check the 5V sensor supply pin at the controller connector first before replacing sensors.
@@ -55,3 +55,4 @@ In mobile equipment, hydraulic oil temperature control relies on adequate fan co
 
 ## When to Call a Pro
 Enovation/Murphy controller calibration for load-sensing systems and proportional valve flow tuning requires factory documentation. Incorrect calibration causes erratic machine motion.
+
