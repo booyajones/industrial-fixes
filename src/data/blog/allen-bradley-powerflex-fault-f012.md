@@ -1,0 +1,45 @@
+---
+title: "Allen-Bradley PowerFlex Fault F012 — Causes & Fix"
+description: "What Allen-Bradley PowerFlex fault F012 means, why it happens, and how to fix it step by step."
+pubDatetime: 2026-04-22T09:00:00Z
+modDatetime: 2026-04-22T09:00:00Z
+author: "ErrorCodeFixes"
+featured: false
+draft: false
+tags:
+  - vfd
+  - allen-bradley
+---
+
+## Allen-Bradley PowerFlex Fault F012 — What It Means
+
+Allen-Bradley PowerFlex fault F012 is an output phase-to-phase overcurrent fault. The drive's current sensing detected output current exceeding 200–300% of drive rated current — a condition that indicates a very low impedance path across the output phases, such as a motor winding short, an output phase-to-phase cable fault, or a power factor correction capacitor improperly connected to the drive output. F012 trips instantaneously via hardware protection and cannot be inhibited through software. This makes it distinct from the software-adjustable overload faults (F005, F007) and indicates a genuine power circuit fault.
+
+[Jump to Fix](#fix)
+
+## Common Causes
+
+- **Motor winding short circuit (phase to phase)** — The motor has developed an inter-turn or phase-to-phase short in the windings, creating near-zero impedance between two output terminals.
+- **Short circuit in output cable** — Physical damage (pinching, abrasion, rodent damage) to the output cable between the drive and motor creates a direct conductor-to-conductor short.
+- **Power factor correction capacitors on output** — PF capacitors installed on the load side of the drive cause massive current transients when the drive's switching frequency excites them. Never install PF capacitors between a VFD and its motor.
+- **Wrong motor connected or wired incorrectly** — A delta-wired motor connected in wye, a wrong-voltage motor, or wiring errors in the terminal box can create low-impedance conditions that trip F012 on startup.
+
+## Step-by-Step Fix {#fix}
+
+1. **Disconnect the motor and output cable from the drive** — Remove all wiring from T1, T2, T3. Attempt to clear the fault with the output disconnected. If F012 clears (and doesn't return on a run command with no motor), the fault is external to the drive.
+2. **Measure resistance between output phases** — With the drive output disconnected and all power off, measure T1-T2, T2-T3, and T1-T3. All three should be equal (matching the motor winding resistance). Any near-zero reading indicates a short in the motor or cable.
+3. **Megger test motor and cable separately** — Disconnect the cable at the motor terminal box. Megger each cable conductor against ground and against each other. Megger each motor terminal against the others and against ground.
+4. **Inspect motor terminal box for wiring errors** — Open the motor junction box. Verify the correct connection pattern (wye or delta) for the supply voltage. Look for accidentally bridged terminals.
+5. **Remove any PF capacitors from the load circuit** — If PF capacitors are present in the circuit between the drive and motor, remove them immediately. Relocate any PF correction to the input side of the drive if required.
+
+## Parts Often Needed
+
+| Part | Notes |
+|------|-------|
+| Motor (replacement) | If winding short is confirmed; compare repair cost vs. replacement |
+| Output cable | Replace complete run if cable short is found |
+| Drive output power module | If drive's internal current sensing or IGBT triggered incorrectly; verify externally first |
+
+## When to Call a Pro
+
+If the drive itself trips F012 with nothing connected to the output terminals, the fault is internal to the drive's power electronics. This requires a Rockwell-authorized service technician or a drive repair depot — do not attempt to clear this condition by parameter adjustment.
