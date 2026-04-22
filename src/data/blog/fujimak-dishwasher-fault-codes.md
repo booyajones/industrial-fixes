@@ -1,48 +1,51 @@
----
-title: "Fujimak Commercial Dishwasher Fault Codes — Guide"
-description: "Fujimak commercial dishwasher fault codes: what each means and how to fix it."
+﻿---
+title: "Fujimak Commercial Dishwasher Fault Codes: Complete Guide"
+description: "Fujimak commercial dishwasher fault codes and alarm messages. Common wash, rinse, heating, and drain faults with technician-level fixes."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
 author: "ErrorCodeFixes"
 featured: false
 draft: false
 tags:
-  - refrigeration
+  - food-equipment
   - fujimak
+  - dishwasher
+  - commercial-kitchen
 ---
 
-## Fujimak Commercial Dishwasher Fault Codes — What They Mean
+# Fujimak Commercial Dishwasher Fault Codes
 
-Fujimak is a Japanese commercial foodservice equipment brand whose dishwashers are common in Japanese and Asian fusion restaurants, hotel operations, and institutional kitchens across Asia and increasingly the US.
+Fujimak commercial dishwashers show alarm codes on the front display when the machine detects a fill, drain, temperature, or pump problem. Exact code lists vary by model, but the same failure patterns repeat across undercounter, hood-type, and rack conveyor units.
 
-| Code | Meaning | Urgency |
-|------|---------|---------|
-| E1 | Water level fault / fill timeout | Medium |
-| E2 | Drain fault | Medium |
-| E3 | Wash temperature below setpoint | Medium |
-| E4 | Final rinse temperature below setpoint | High |
-| E5 | Wash pump motor fault | High |
-| E6 | Booster heater fault | Medium |
-| E8 | Door interlock fault | Medium |
+## Common Fujimak Dishwasher Fault Table
 
-[Jump to Fix](#fix)
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning | Common Cause | [Action](https://www.amazon.com/s?k=Action&tag=errorcodefixe-20) |  |------|---------|--------------|--------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E1 | Fill timeout | [Water supply closed, inlet valve failed, strainer blocked](https://www.amazon.com/s?k=Water%20supply%20closed%2C%20inlet%20valve%20failed%2C%20strainer%20blocked&tag=errorcodefixe-20) | Check water supply and inlet valve |
+| [E2](https://www.amazon.com/s?k=E2&tag=errorcodefixe-20) | Drain timeout | Drain pump blocked or hose restricted | [Clean drain hose and pump](https://www.amazon.com/s?k=Clean%20drain%20hose%20and%20pump&tag=errorcodefixe-20) |  | E3 | [Wash tank overheat](https://www.amazon.com/s?k=Wash%20tank%20overheat&tag=errorcodefixe-20) | Heater relay stuck or probe bad | Check probe and heater contactor | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E4 | Rinse temp low | [Booster heater fault or scale buildup](https://www.amazon.com/s?k=Booster%20heater%20fault%20or%20scale%20buildup&tag=errorcodefixe-20) | Check booster heater and descale |
+| [E5](https://www.amazon.com/s?k=E5&tag=errorcodefixe-20) | Door safety open | Door switch or latch issue | [Check door interlock switch](https://www.amazon.com/s?k=Check%20door%20interlock%20switch&tag=errorcodefixe-20) |  | E6 | [Wash pump overload](https://www.amazon.com/s?k=Wash%20pump%20overload&tag=errorcodefixe-20) | Pump jammed or capacitor weak | Check impeller and capacitor | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E7 | Thermistor fault | [Temperature probe open or shorted](https://www.amazon.com/s?k=Temperature%20probe%20open%20or%20shorted&tag=errorcodefixe-20) | Measure probe resistance |
+| [E8](https://www.amazon.com/s?k=E8&tag=errorcodefixe-20) | Water level error | Level sensor fouled | [Clean level probe or float](https://www.amazon.com/s?k=Clean%20level%20probe%20or%20float&tag=errorcodefixe-20) |  | E9 | [Communication fault](https://www.amazon.com/s?k=Communication%20fault&tag=errorcodefixe-20) | PCB or display harness issue | Check harness and control board | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | EA | Auto drain error | [Drain solenoid or timer issue](https://www.amazon.com/s?k=Drain%20solenoid%20or%20timer%20issue&tag=errorcodefixe-20) | Check drain valve and timer |
 
-## Most Common Fujimak Fixes {#fix}
+## Most Common Fujimak Faults
 
-**E1 (water level/fill):** Verify water supply valve is fully open. Check supply pressure (minimum 0.5 bar). Clean the water inlet valve filter. If the unit has a rinse water softener, verify it's regenerating correctly.
+### E1 — Fill Timeout
+Start at the incoming water supply. Confirm the stop valve is open and pressure meets the machine spec. Then pull and clean the inlet strainer. Scale and debris from old plumbing cause more E1 faults than failed valves.
 
-**E3/E4 (temperature):** Fujimak machines require 60°C (140°F) wash and 82-85°C (180-185°F) rinse. Check the booster heater element continuity. On models with steam injection, verify steam supply. Low incoming water temperature extends heat-up time and causes E3/E4.
+### E4 — Rinse Temperature Low
+Commercial dishwashers need proper rinse temperature for sanitation. Check booster heater contactor, high-limit reset, and the temperature probe. If the heater is drawing current but temperature climbs slowly, descale the booster tank.
 
-**E5 (wash pump):** Check for glass fragments or debris in the pump sump filter (clean it every day). Test pump motor. Fujimak pumps are reliable but debris is the most common cause of pump failure.
+### E6 — Wash Pump Overload
+Kill power before opening the pump housing. Broken glass, labels, and food scraps jam the impeller. If the impeller spins freely, check the motor capacitor and compare running amps to the nameplate.
 
-## Parts Often Needed
+### E8 — Water Level Error
+Many Fujimak units use a level probe or float chamber. Grease and scale coat the sensor and confuse the control. Clean the probe and the chamber thoroughly, then run a full cycle to confirm the level stabilizes.
+
+## Parts Commonly Needed
 
 | Part | Notes |
 |------|-------|
-| [Booster heater element](https://www.amazon.com/s?k=commercial+dishwasher+booster+heater&tag=errorcodefixe-20) | For E4/E6 temperature faults |
-| [Pump motor](https://www.amazon.com/s?k=commercial+dishwasher+pump+motor&tag=errorcodefixe-20) | For E5 — match voltage and HP |
-| [Water inlet valve](https://www.amazon.com/s?k=dishwasher+solenoid+water+inlet+valve&tag=errorcodefixe-20) | For E1 |
+| [Inlet solenoid valve](https://www.amazon.com/s?k=Inlet%20solenoid%20valve&tag=errorcodefixe-20) | Match voltage and pipe size |
+| [Wash pump capacitor](https://www.amazon.com/s?k=Wash%20pump%20capacitor&tag=errorcodefixe-20) | Check µF before replacing motor |
+| [Thermistor or temperature probe](https://www.amazon.com/s?k=Thermistor%20or%20temperature%20probe&tag=errorcodefixe-20) | Compare resistance to service chart |
+| [Level probe or float switch](https://www.amazon.com/s?k=Level%20probe%20or%20float%20switch&tag=errorcodefixe-20) | Clean first |
+| [Door switch](https://www.amazon.com/s?k=Door%20switch&tag=errorcodefixe-20) | Common on high-cycle machines |
 
-## When to Call a Pro
-
-Fujimak authorized service in the US handles component replacement and commissioning. Contact Fujimak USA or an authorized service agent for persistent faults.
+> **Pro tip:** Test a full wash and rinse cycle after the repair. A Fujimak machine may fill correctly on the first cycle and still fail on the second if the drain line, heater, or level sensor remains marginal.

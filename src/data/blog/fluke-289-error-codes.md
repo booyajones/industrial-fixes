@@ -1,4 +1,4 @@
----
+﻿---
 title: "Fluke 289 Multimeter Error Codes: Complete Guide"
 description: "Fluke 289 digital multimeter error codes and display messages. Error causes and technician-level troubleshooting for the Fluke 289 industrial multimeter."
 pubDatetime: 2026-04-22T23:45:00Z
@@ -19,18 +19,10 @@ The Fluke 289 is a professional true-RMS multimeter designed for industrial tech
 
 ## Fluke 289 Error Messages Table
 
-| Display | Meaning | Cause | Action |
-|---------|---------|-------|--------|
-| OL | Overload | Input exceeds measurement range | Select higher range or check connections |
-| FUSED | Fuse blown | Current path fuse blown | Replace 11A or 440mA fuse |
-| BATT | Low battery | Battery below minimum voltage | Replace AA batteries |
-| CAL ERR | Calibration error | Internal calibration failed | Return for calibration |
-| ERR x | Measurement error | Context-dependent error | Check input signal and connections |
-| dBm | dB milliwatt | Reference impedance mode active | Normal for dBm measurements |
-| OPEN TC | Open thermocouple | TC probe not connected | Check Type K thermocouple connection |
-| SHORT | Short circuit detected | Leads shorted in resistance mode | Check measurement leads |
-| HOLD | Reading held | Auto-Hold or Touch Hold active | Press HOLD to release |
-| SMOOTH | Averaging mode | Noise filter active | Press SMOOTH to toggle off |
+| [Display](https://www.amazon.com/s?k=Display&tag=errorcodefixe-20) | Meaning | Cause | [Action](https://www.amazon.com/s?k=Action&tag=errorcodefixe-20) |  |---------|---------|-------|--------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | OL | Overload | [Input exceeds measurement range](https://www.amazon.com/s?k=Input%20exceeds%20measurement%20range&tag=errorcodefixe-20) | Select higher range or check connections |
+| [FUSED](https://www.amazon.com/s?k=FUSED&tag=errorcodefixe-20) | Fuse blown | Current path fuse blown | [Replace 11A or 440mA fuse](https://www.amazon.com/s?k=Replace%2011A%20or%20440mA%20fuse&tag=errorcodefixe-20) |  | BATT | [Low battery](https://www.amazon.com/s?k=Low%20battery&tag=errorcodefixe-20) | Battery below minimum voltage | Replace AA batteries | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | CAL ERR | Calibration error | [Internal calibration failed](https://www.amazon.com/s?k=Internal%20calibration%20failed&tag=errorcodefixe-20) | Return for calibration |
+| [ERR x](https://www.amazon.com/s?k=ERR%20x&tag=errorcodefixe-20) | Measurement error | Context-dependent error | [Check input signal and connections](https://www.amazon.com/s?k=Check%20input%20signal%20and%20connections&tag=errorcodefixe-20) |  | dBm | [dB milliwatt](https://www.amazon.com/s?k=dB%20milliwatt&tag=errorcodefixe-20) | Reference impedance mode active | Normal for dBm measurements | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | OPEN TC | Open thermocouple | [TC probe not connected](https://www.amazon.com/s?k=TC%20probe%20not%20connected&tag=errorcodefixe-20) | Check Type K thermocouple connection |
+| [SHORT](https://www.amazon.com/s?k=SHORT&tag=errorcodefixe-20) | Short circuit detected | Leads shorted in resistance mode | [Check measurement leads](https://www.amazon.com/s?k=Check%20measurement%20leads&tag=errorcodefixe-20) |  | HOLD | [Reading held](https://www.amazon.com/s?k=Reading%20held&tag=errorcodefixe-20) | Auto-Hold or Touch Hold active | Press HOLD to release | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | SMOOTH | Averaging mode | [Noise filter active](https://www.amazon.com/s?k=Noise%20filter%20active&tag=errorcodefixe-20) | Press SMOOTH to toggle off |
 
 ## Most Common Fluke 289 Issues
 
@@ -50,10 +42,10 @@ Indicates the internal calibration reference has failed. This is usually caused 
 
 | Part | Notes |
 |------|-------|
-| Fuse 11A/600V | Fluke PN 943260 — use only Fluke fuses |
-| Fuse 440mA/1000V | Fluke PN 943261 |
-| AA batteries | Alkaline — 6x AA |
-| Test leads | Fluke TL175 or TL80A |
-| Type K thermocouple | 80BK-A for HVAC temperature measurements |
+| [Fuse 11A/600V](https://www.amazon.com/s?k=Fuse%2011A%2F600V&tag=errorcodefixe-20) | Fluke PN 943260 — use only Fluke fuses |
+| [Fuse 440mA/1000V](https://www.amazon.com/s?k=Fuse%20440mA%2F1000V&tag=errorcodefixe-20) | Fluke PN 943261 |
+| [AA batteries](https://www.amazon.com/s?k=AA%20batteries&tag=errorcodefixe-20) | Alkaline — 6x AA |
+| [Test leads](https://www.amazon.com/s?k=Test%20leads&tag=errorcodefixe-20) | Fluke TL175 or TL80A |
+| [Type K thermocouple](https://www.amazon.com/s?k=Type%20K%20thermocouple&tag=errorcodefixe-20) | 80BK-A for HVAC temperature measurements |
 
 > **Pro tip:** Fluke 289 has memory logging capability — up to 15,000 time-stamped readings. When troubleshooting intermittent faults, set up logging mode (MIN/MAX/AVG or Event Log) before leaving the site to capture conditions that occur after hours.

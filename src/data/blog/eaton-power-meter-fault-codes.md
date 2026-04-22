@@ -1,4 +1,4 @@
----
+﻿---
 title: "Eaton Power Meter Fault Codes: Complete Guide"
 description: "Eaton power meter fault codes and error diagnostics. IQ series and EMon-D meter faults, causes, and technician-level troubleshooting."
 pubDatetime: 2026-04-22T23:45:00Z
@@ -19,18 +19,10 @@ Eaton power meters (IQ 300, IQ 260, Power Xpert Meter, EMon-D) are used for ener
 
 ## Eaton Power Meter Error Reference
 
-| Error/Code | Fault Description | Common Cause | Action |
-|-----------|------------------|--------------|--------|
-| CT open | Current transformer open | CT secondary disconnected | Check CT wiring immediately |
-| PT fault | Potential transformer fault | PT secondary voltage absent | Check PT and wiring |
-| Memory err | Data memory error | EEPROM or flash fault | Cycle power; contact Eaton |
-| Comm err | Communication fault | Modbus/BACnet comm loss | Check wiring and baud rate |
-| RTC fault | Real-time clock fault | Clock battery failure | Replace internal battery |
-| Overrange | Input over-range | Signal above meter rating | Check CT/PT ratios |
-| Setup err | Configuration error | Invalid parameter entries | Verify CT/PT ratio settings |
-| Cal err | Calibration error | Internal calibration fault | Return for recalibration |
-| Temp err | Temperature out of range | Meter too hot or cold | Check installation environment |
-| LOG FULL | Data log full | Memory full | Download and clear log data |
+| [Error/Code](https://www.amazon.com/s?k=Error%2FCode&tag=errorcodefixe-20) | Fault Description | Common Cause | [Action](https://www.amazon.com/s?k=Action&tag=errorcodefixe-20) |  |-----------|------------------|--------------|--------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | CT open | Current transformer open | [CT secondary disconnected](https://www.amazon.com/s?k=CT%20secondary%20disconnected&tag=errorcodefixe-20) | Check CT wiring immediately |
+| [PT fault](https://www.amazon.com/s?k=PT%20fault&tag=errorcodefixe-20) | Potential transformer fault | PT secondary voltage absent | [Check PT and wiring](https://www.amazon.com/s?k=Check%20PT%20and%20wiring&tag=errorcodefixe-20) |  | Memory err | [Data memory error](https://www.amazon.com/s?k=Data%20memory%20error&tag=errorcodefixe-20) | EEPROM or flash fault | Cycle power; contact Eaton | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Comm err | Communication fault | [Modbus/BACnet comm loss](https://www.amazon.com/s?k=Modbus%2FBACnet%20comm%20loss&tag=errorcodefixe-20) | Check wiring and baud rate |
+| [RTC fault](https://www.amazon.com/s?k=RTC%20fault&tag=errorcodefixe-20) | Real-time clock fault | Clock battery failure | [Replace internal battery](https://www.amazon.com/s?k=Replace%20internal%20battery&tag=errorcodefixe-20) |  | Overrange | [Input over-range](https://www.amazon.com/s?k=Input%20over-range&tag=errorcodefixe-20) | Signal above meter rating | Check CT/PT ratios | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Setup err | Configuration error | [Invalid parameter entries](https://www.amazon.com/s?k=Invalid%20parameter%20entries&tag=errorcodefixe-20) | Verify CT/PT ratio settings |
+| [Cal err](https://www.amazon.com/s?k=Cal%20err&tag=errorcodefixe-20) | Calibration error | Internal calibration fault | [Return for recalibration](https://www.amazon.com/s?k=Return%20for%20recalibration&tag=errorcodefixe-20) |  | Temp err | [Temperature out of range](https://www.amazon.com/s?k=Temperature%20out%20of%20range&tag=errorcodefixe-20) | Meter too hot or cold | Check installation environment | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | LOG FULL | Data log full | [Memory full](https://www.amazon.com/s?k=Memory%20full&tag=errorcodefixe-20) | Download and clear log data |
 
 ## Most Common Eaton Meter Faults
 
@@ -50,10 +42,10 @@ The real-time clock battery (typically a CR2032) powers the internal clock durin
 
 | Part | Notes |
 |------|-------|
-| CT shorting blocks | Safety-critical — keep available for maintenance |
-| RS-485 termination resistors | 120Ω — for Modbus network |
-| CR2032 battery | Internal RTC backup |
-| USB-to-RS485 adapter | For meter configuration and data download |
-| Replacement meter | Compare meter to existing when replacing — verify register mapping |
+| [CT shorting blocks](https://www.amazon.com/s?k=CT%20shorting%20blocks&tag=errorcodefixe-20) | Safety-critical — keep available for maintenance |
+| [RS-485 termination resistors](https://www.amazon.com/s?k=RS-485%20termination%20resistors&tag=errorcodefixe-20) | 120Ω — for Modbus network |
+| [CR2032 battery](https://www.amazon.com/s?k=CR2032%20battery&tag=errorcodefixe-20) | Internal RTC backup |
+| [USB-to-RS485 adapter](https://www.amazon.com/s?k=USB-to-RS485%20adapter&tag=errorcodefixe-20) | For meter configuration and data download |
+| [Replacement meter](https://www.amazon.com/s?k=Replacement%20meter&tag=errorcodefixe-20) | Compare meter to existing when replacing — verify register mapping |
 
 > **Pro tip:** Eaton Power Xpert Meters support energy data export to PowerNet, EnergyAware, and third-party SCADA platforms. Always download historical demand data before replacing a meter — billing data may be required for utility reconciliation.

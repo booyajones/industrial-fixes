@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide"
 description: "Mitsubishi PEX City Multi indoor unit error codes and fault diagnostics. P-series codes, causes, and technician-level troubleshooting."
 pubDatetime: 2026-04-22T23:45:00Z
@@ -19,18 +19,10 @@ Mitsubishi City Multi PEX series indoor units display fault codes via LED on the
 
 ## PEX Indoor Unit Fault Code Table
 
-| Code | Fault Description | Common Cause | Action |
-|------|------------------|--------------|--------|
-| P1 | Intake air temp sensor fault | Open or short in sensor | Check sensor resistance (10kΩ at 77°F) |
-| P2 | Pipe (liquid) sensor fault | Sensor failure | Check refrigerant pipe sensor |
-| P4 | Drain pump fault | Drain pump failure or float switch | Check pump operation and float switch |
-| P5 | Drain float switch open | High condensate level | Clear drain pan, check drain pump |
-| P6 | Fan motor fault | Indoor fan motor failure | Check motor amps and operation |
-| P8 | Pipe temp protection | Excessively high or low pipe temp | Check refrigerant charge and flow |
-| P9 | Indoor unit error (communication) | Branch controller address | Check BC controller addressing |
-| E1 | Outdoor unit error | Fault from outdoor unit | Check outdoor unit PCB |
-| E6 | No communication with outdoor | Communication wiring | Check transmission wiring |
-| E7 | Fan lock | Fan motor locked | Check fan blade and motor |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Fault Description | Common Cause | [Action](https://www.amazon.com/s?k=Action&tag=errorcodefixe-20) |  |------|------------------|--------------|--------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | P1 | Intake air temp sensor fault | [Open or short in sensor](https://www.amazon.com/s?k=Open%20or%20short%20in%20sensor&tag=errorcodefixe-20) | Check sensor resistance (10kΩ at 77°F) |
+| [P2](https://www.amazon.com/s?k=P2&tag=errorcodefixe-20) | Pipe (liquid) sensor fault | Sensor failure | [Check refrigerant pipe sensor](https://www.amazon.com/s?k=Check%20refrigerant%20pipe%20sensor&tag=errorcodefixe-20) |  | P4 | [Drain pump fault](https://www.amazon.com/s?k=Drain%20pump%20fault&tag=errorcodefixe-20) | Drain pump failure or float switch | Check pump operation and float switch | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | P5 | Drain float switch open | [High condensate level](https://www.amazon.com/s?k=High%20condensate%20level&tag=errorcodefixe-20) | Clear drain pan, check drain pump |
+| [P6](https://www.amazon.com/s?k=P6&tag=errorcodefixe-20) | Fan motor fault | Indoor fan motor failure | [Check motor amps and operation](https://www.amazon.com/s?k=Check%20motor%20amps%20and%20operation&tag=errorcodefixe-20) |  | P8 | [Pipe temp protection](https://www.amazon.com/s?k=Pipe%20temp%20protection&tag=errorcodefixe-20) | Excessively high or low pipe temp | Check refrigerant charge and flow | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | P9 | Indoor unit error (communication) | [Branch controller address](https://www.amazon.com/s?k=Branch%20controller%20address&tag=errorcodefixe-20) | Check BC controller addressing |
+| [E1](https://www.amazon.com/s?k=E1&tag=errorcodefixe-20) | Outdoor unit error | Fault from outdoor unit | [Check outdoor unit PCB](https://www.amazon.com/s?k=Check%20outdoor%20unit%20PCB&tag=errorcodefixe-20) |  | E6 | [No communication with outdoor](https://www.amazon.com/s?k=No%20communication%20with%20outdoor&tag=errorcodefixe-20) | Communication wiring | Check transmission wiring | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E7 | Fan lock | [Fan motor locked](https://www.amazon.com/s?k=Fan%20motor%20locked&tag=errorcodefixe-20) | Check fan blade and motor |
 
 ## Most Common PEX Indoor Faults
 
@@ -50,10 +42,10 @@ If pipe temperature is too high or too low, the unit shuts down to protect the r
 
 | Part | Notes |
 |------|-------|
-| Intake or pipe sensor | Mitsubishi-specific thermistors |
-| Drain pump | Match voltage and lift height |
-| Indoor PCB | Match PEX model and revision |
-| Fan motor | Match speed, HP, and frame |
-| Float switch | Universal float switch fits most pans |
+| [Intake or pipe sensor](https://www.amazon.com/s?k=Intake%20or%20pipe%20sensor&tag=errorcodefixe-20) | Mitsubishi-specific thermistors |
+| [Drain pump](https://www.amazon.com/s?k=Drain%20pump&tag=errorcodefixe-20) | Match voltage and lift height |
+| [Indoor PCB](https://www.amazon.com/s?k=Indoor%20PCB&tag=errorcodefixe-20) | Match PEX model and revision |
+| [Fan motor](https://www.amazon.com/s?k=Fan%20motor&tag=errorcodefixe-20) | Match speed, HP, and frame |
+| [Float switch](https://www.amazon.com/s?k=Float%20switch&tag=errorcodefixe-20) | Universal float switch fits most pans |
 
 > **Pro tip:** Mitsubishi City Multi systems allow all indoor unit faults to be read from the G-50A or AE-200 centralized controller. Use the controller's "Monitor" screen to see all unit statuses simultaneously without checking each indoor unit individually.
