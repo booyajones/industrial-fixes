@@ -1,0 +1,49 @@
+---
+title: "Lenze SMD Fault 0x0001 — Overcurrent"
+description: "Lenze SMD fault 0x0001 means overcurrent on the drive output. Learn the common causes, parameter checks, and repair steps."
+pubDatetime: 2026-04-22T17:00:00Z
+modDatetime: 2026-04-22T17:00:00Z
+author: "ErrorCodeFixes"
+featured: false
+draft: false
+tags:
+  - vfd
+  - lenze
+  - smd
+  - overcurrent
+---
+
+## Lenze SMD Fault 0x0001 — What It Means
+
+**Fault 0x0001** on a Lenze SMD drive means the inverter detected **overcurrent** on the output stage. This usually happens during startup, acceleration, or a sudden load change. The drive trips immediately to protect the IGBTs.
+
+[Jump to Fix](#fix)
+
+## Common Causes
+
+- **Acceleration time is too short**. The motor demands more current than the drive can deliver during ramp-up.
+- **Motor or load is mechanically jammed**. A stalled load produces very high current instantly.
+- **Output short or motor winding fault**. Damaged motor leads or grounded windings look like overcurrent.
+- **Motor data is programmed incorrectly**. Wrong voltage, frequency, or current values distort control.
+- **Failed output transistor**. If the drive faults instantly with the motor disconnected, suspect internal IGBT damage.
+
+## Step-by-Step Fix {#fix}
+
+1. **Increase acceleration time** in the Lenze parameter menu. If the trip happens during ramp-up, double the accel time first.
+2. **Check the mechanical load**. Rotate the shaft by hand with power off. Any binding or jam must be fixed before resetting.
+3. **Disconnect the motor and megger it**. Measure each phase to ground. Below 1 MΩ means the motor or cable has an insulation failure.
+4. **Verify motor nameplate parameters** in the drive. Voltage, full-load amps, and base frequency must match.
+5. **Check the output stage**. If the drive trips with the motor disconnected, the output transistors are likely damaged.
+6. **Test with no load** if the application allows. If the fault disappears unloaded, the driven machine is the problem.
+
+## Parts Often Needed
+
+| Part | Notes |
+|------|-------|
+| VFD-rated motor cable | Replace damaged output cable |
+| Motor | Replace if windings are shorted or grounded |
+| Lenze SMD drive | Replace if output stage is failed |
+
+## When to Call a Pro
+
+If you have correct parameters, a free-turning load, and a clean megger test but 0x0001 still occurs, the drive itself is probably damaged internally.

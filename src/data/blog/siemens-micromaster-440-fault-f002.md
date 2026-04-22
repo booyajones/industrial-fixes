@@ -1,0 +1,49 @@
+---
+title: "Siemens Micromaster 440 Fault F002 — Overcurrent"
+description: "Siemens Micromaster 440 F002 fault means overcurrent on the output. Learn the causes, parameter fixes, and hardware checks for F002."
+pubDatetime: 2026-04-22T17:00:00Z
+modDatetime: 2026-04-22T17:00:00Z
+author: "ErrorCodeFixes"
+featured: false
+draft: false
+tags:
+  - vfd
+  - siemens
+  - micromaster
+  - overcurrent
+---
+
+## Siemens Micromaster 440 Fault F002 — What It Means
+
+**F002** on a Siemens Micromaster 440 means the drive has tripped on **overcurrent**. The output current exceeded the safe threshold, usually during acceleration, a load shock, or because of a shorted motor circuit.
+
+[Jump to Fix](#fix)
+
+## Common Causes
+
+- **Acceleration ramp too short**. The most common field cause.
+- **Motor shaft or driven machine is jammed**. Bearings, gearbox, or belt issues cause immediate current spikes.
+- **Shorted motor cable or grounded motor**. Damaged insulation looks like an overcurrent event.
+- **Wrong motor parameters**. Incorrect P0304, P0305, or P0310 values can destabilize control.
+- **Failed IGBT module**. If the fault appears with no motor connected, the drive is likely damaged.
+
+## Step-by-Step Fix {#fix}
+
+1. **Increase ramp time**. Check acceleration parameters and lengthen the ramp significantly.
+2. **Inspect the driven machine**. Disconnect the motor from the load if possible and test again.
+3. **Megger the motor and output cable**. Low insulation resistance means motor or cable failure.
+4. **Verify motor parameters**. Confirm rated current, power, voltage, and frequency match the nameplate.
+5. **Run motor identification / commissioning** if the drive was recently replaced or reprogrammed.
+6. **Check the output stage**. Persistent F002 with the motor disconnected usually means a failed IGBT section.
+
+## Parts Often Needed
+
+| Part | Notes |
+|------|-------|
+| Motor cable | Use shielded VFD cable for long runs |
+| Replacement motor | Needed if windings are grounded |
+| Micromaster 440 drive | Replace if output module is shorted |
+
+## When to Call a Pro
+
+If F002 trips under light load with correct parameters and a healthy motor, the drive likely has an internal hardware failure.

@@ -1,0 +1,50 @@
+---
+title: "Haas Alarm 121 — ATC Arm Fault"
+description: "Haas Alarm 121 means the automatic tool changer arm failed to complete its motion correctly. Learn the causes and how to fix Haas Alarm 121."
+pubDatetime: 2026-04-22T17:00:00Z
+modDatetime: 2026-04-22T17:00:00Z
+author: "ErrorCodeFixes"
+featured: false
+draft: false
+tags:
+  - cnc
+  - haas
+  - atc
+  - tool-changer
+---
+
+## Haas Alarm 121 — What It Means
+
+**Alarm 121** on a Haas mill means the **automatic tool changer arm did not reach the expected position** during a tool change. The arm may be blocked, mis-timed, or failing to actuate completely.
+
+[Jump to Fix](#fix)
+
+## Common Causes
+
+- **ATC arm is out of alignment**. After a crash or jam, timing can shift.
+- **Low air pressure**. Haas tool changers rely heavily on clean, stable air supply.
+- **Dirty or sticky tool changer mechanism**. Chips and dried grease create drag.
+- **Failed proximity switch or sensor**. The control doesn't see the arm in the correct position.
+- **Damaged arm or gripper fingers**. Physical interference prevents full travel.
+
+## Step-by-Step Fix {#fix}
+
+1. **Check shop air pressure**. Haas machines generally want clean, dry air around 100 psi.
+2. **Inspect the ATC arm for chips or crash damage**. Remove any debris around the arm pocket and grippers.
+3. **Run tool changer recovery** from the Haas service menu if the machine supports it.
+4. **Check arm sensors / prox switches**. Confirm each switch changes state when the arm moves.
+5. **Inspect timing marks** on the arm and gearbox. Mis-timed arms must be realigned to Haas procedure.
+6. **Lubricate the mechanism** if dry or sticky.
+
+## Parts Often Needed
+
+| Part | Notes |
+|------|-------|
+| Proximity switch | Common if the control never sees arm position |
+| ATC arm gripper fingers | Replace if bent or worn |
+| Air regulator / filter parts | Low air causes incomplete actuation |
+| ATC gearbox components | If timing will not hold |
+
+## When to Call a Pro
+
+If the arm is visibly out of time or the changer jammed during a crash, the safest path is a proper Haas recovery and alignment procedure. Forcing the changer can bend the arm or damage the carousel.
