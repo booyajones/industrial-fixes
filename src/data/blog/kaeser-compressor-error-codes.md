@@ -1,52 +1,51 @@
 ---
-title: "Kaeser Air Compressor Error Codes — Guide"
-description: "Kaeser rotary screw air compressor error codes: what each means and how to fix it."
+title: "Kaeser Air Compressor Error Codes — Complete Guide"
+description: "Kaeser compressor error codes for Sigma Control and rotary screw compressors: common warnings, shutdowns, causes, and fixes."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
 author: "ErrorCodeFixes"
 featured: false
 draft: false
 tags:
-  - refrigeration
+  - compressor
   - kaeser
+  - industrial
 ---
 
-## Kaeser Air Compressor Error Codes — What They Mean
+## Kaeser Compressor Error Codes — Quick Reference
 
-Kaeser Kompressoren (AS, SM, BSD, CSD, CSDX series) uses the SIGMA CONTROL 2 controller, which provides comprehensive fault and alarm displays. Kaeser is a premium German compressor brand highly regarded for reliability in manufacturing and process industries.
+Kaeser screw compressors with Sigma Control controllers report warnings and shutdowns for temperature, pressure, service intervals, and sensor faults. The Sigma Control panel may show text alarms rather than short numeric codes, depending on controller generation.
 
-| Alarm | Meaning | Urgency |
-|-------|---------|---------|
-| High final pressure temperature | Discharge air temp exceeded limit | Critical |
-| High pressure | System pressure over maximum | High |
-| Oil separator differential pressure | Separator element needs replacement | Medium |
-| Airend temperature | Airend outlet temperature too high | Critical |
-| Motor temperature | Drive motor overtemperature | High |
-| Sensor failure | Temperature or pressure sensor fault | Medium |
-| Service interval | Planned maintenance overdue | Low |
+| Alarm | Meaning | Quick Fix |
+|-------|---------|-----------|
+| Final Compression Temp High | Compressor too hot | Clean coolers; check oil |
+| Motor Protection Trip | Main motor overload | Check load and contactor |
+| Sensor Fault | Bad temp/pressure sensor | Inspect and replace sensor |
+| Dryer Fault | Integrated dryer issue | Check condenser and dryer circuit |
+| Service Due | Scheduled maintenance due | Perform PM and reset counter |
+| Emergency Stop | E-stop active | Reset and inspect loop |
+| Pressure Switch Fault | Control pressure issue | Check transducer and loading controls |
+| Phase Fault | Supply power issue | Check voltage balance |
 
-[Jump to Fix](#fix)
+## Most Common Faults
 
-## Most Common Kaeser Faults and Fixes {#fix}
+### Final Compression Temperature High
+Kaeser packages are efficient, but they still depend on clean cooling surfaces and correct oil flow. Blow out coolers, verify cabinet fans run properly, and confirm the oil level is correct with the unit in the proper state per Kaeser instructions.
 
-### High Final Pressure Temperature / Airend Temperature
-Check Kaeser Sigma Fluid oil level (sight glass, unit running). Clean the oil cooler and air cooler — Kaeser recommends cleaning every 1,000 hours in dusty environments. Verify cooling fan operation. Kaeser units have a bypass thermostatic valve; test it by checking whether outlet oil temperature is within 5-10°C of ambient after a cold start.
+### Sensor Fault
+Before replacing expensive valves or motors, compare the controller reading to an independent gauge or temperature probe. Kaeser sensor failures are common enough that a bad sensor should always be on the suspect list.
 
-### Oil Separator DP
-Kaeser recommends separator element replacement every 4,000 hours. The SIGMA CONTROL 2 tracks this automatically. Use Kaeser OEM elements to maintain warranty and performance.
-
-### Service Interval
-The SIGMA CONTROL 2 tracks running hours and displays planned maintenance reminders. Service includes: oil/filter change, separator element, belt tension (if applicable), and safety valve test.
+### Dryer Fault
+If the package has an integrated refrigerated dryer, the dryer can trip independently of the compressor. Check condenser cleanliness, ambient temperature, and whether the dryer fan is running.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Oil separator element | Kaeser OEM — specific to each model |
-| Kaeser Sigma Fluid 1 or Plus | Synthetic lubricant — do not substitute |
-| Oil filter | Replace at every oil change |
-| Thermostatic bypass valve | For chronic airend temperature faults |
+| Temperature or pressure sensor | Common controller alarm source |
+| Service kit | Oil, separator, filters |
+| Cabinet fan | Overheat alarms often trace here |
+| Dryer condenser fan / contactor | On integrated dryer faults |
 
 ## When to Call a Pro
-
-Kaeser authorized service handles SIGMA CONTROL 2 programming, airend service, and leak repair under warranty terms. Kaeser has one of the strongest authorized service networks in the US.
+Kaeser Sigma Control diagnostics are much easier with factory documentation and service access. If alarms persist after PM work, involve a Kaeser-trained compressor tech before the airend is damaged.

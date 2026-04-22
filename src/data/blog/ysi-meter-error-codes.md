@@ -1,53 +1,51 @@
 ---
-title: "YSI Multi-Parameter Meter Error Codes — Guide"
-description: "YSI Pro Series and EXO sonde error codes: what each means and how to fix it."
+title: "YSI Multi-Parameter Meter Error Codes — Complete Guide"
+description: "YSI meter error codes for ProDSS, ProQuatro, and handheld water quality meters: sensor errors, calibration issues, and fixes."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
 author: "ErrorCodeFixes"
 featured: false
 draft: false
 tags:
-  - refrigeration
+  - instrument
   - ysi
+  - water-quality
 ---
 
-## YSI Multi-Parameter Meter Error Codes — What They Mean
+## YSI Meter Error Codes — Quick Reference
 
-YSI (Xylem) Pro Series handheld meters and EXO multi-parameter sondes are used in water quality monitoring, environmental sampling, and industrial process water applications. They display error codes and diagnostic messages.
+YSI handheld meters and sondes are used for dissolved oxygen, conductivity, pH, and multi-parameter water quality testing. Error messages usually involve sensor recognition, calibration failure, membrane problems, and communication faults between the meter and sonde.
 
-| Error / Message | Meaning |
-|----------------|---------|
-| Sensor error | Sensor is not responding or reading out of range |
-| Low battery | Battery requires replacement or charging |
-| Air calibration fail | DO membrane cap dry or old, calibration didn't pass |
-| Membrane cap needed | Dissolved oxygen membrane cap requires replacement |
-| Conductivity out of range | Conductivity outside calibration range |
-| GPS error (EXO) | GPS module fault |
+| Message / Code | Meaning | Quick Fix |
+|----------------|---------|-----------|
+| Sensor Not Found | Probe not recognized | Clean contacts; reseat sensor |
+| Cal Error | Calibration failed | Use fresh standards; retry |
+| DO Error | Dissolved oxygen sensor issue | Check membrane and electrolyte |
+| pH Error | pH probe unstable or failed | Rehydrate or replace probe |
+| Cond Error | Conductivity sensor fault | Clean cell; check fouling |
+| Memory Full | Logged data storage full | Export and clear memory |
+| Battery Low | Battery voltage low | Replace or recharge battery |
+| Comm Error | Sonde or cable communication problem | Check cable and connector pins |
 
-[Jump to Fix](#fix)
+## Most Common Faults
 
-## Most Common YSI Errors and Fixes {#fix}
+### Cal Error
+Calibration failures are usually not meter failures. They are most often caused by old calibration solutions, contaminated standards, dirty probes, or temperature mismatch between the standard and the sensor. Always start with fresh standards and rinse thoroughly between steps.
 
-### Sensor Error
-Rinse the sensor port with clean water. For DO sensors, verify the membrane cap is properly installed and not damaged. For conductivity/temperature, check for debris in the sensor cell. If sensor error persists, the sensor port or sensor electronics may need factory service.
+### DO Error
+Dissolved oxygen probes are sensitive to membrane condition. Torn membranes, trapped air bubbles, or depleted electrolyte cause unstable readings and DO errors. Replace the membrane cap, refill electrolyte, and let the probe polarize per the manual before recalibrating.
 
-### Air Calibration Fail
-The dissolved oxygen sensor calibration in air failed. Causes: membrane cap is too old (replace every 30-90 days depending on use), membrane is fouled, or the calibration environment wasn't stable (moving air, temperature changes during calibration).
-
-### Membrane Cap Needed
-The DO membrane cap consumption indicator has reached its service limit. Replace the membrane cap and refill with electrolyte solution. YSI provides specific membrane caps for each probe model.
-
-### Low Battery
-Replace batteries (AA or lithium AA depending on model) or charge the internal Li-ion battery. YSI meters have reduced accuracy when operating on low battery.
+### Sensor Not Found
+YSI field meters often live in wet environments, so connector corrosion is common. Clean the sensor and cable contacts carefully, inspect for bent pins, and reseat the probe firmly. If the error moves when you swap cables, the cable is the problem.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| DO membrane cap kit | Replace every 30-90 days; model-specific |
-| Electrolyte solution | Required with each membrane cap replacement |
-| AA batteries or Li-ion battery | Match to meter model |
+| DO membrane kit | Includes membrane and electrolyte |
+| pH probe | Consumable item |
+| Calibration solutions | Use fresh, uncontaminated standards |
+| Field cable | Damaged pins cause comms faults |
 
 ## When to Call a Pro
-
-Sensor calibration failures that persist after membrane cap replacement and thorough cleaning require YSI factory service for sensor replacement.
+If multiple sensors fail recognition on the same handheld meter after connector cleaning, the instrument itself may have a board problem. For regulated water testing, replace questionable probes rather than chasing unstable field readings.

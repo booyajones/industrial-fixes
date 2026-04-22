@@ -1,50 +1,51 @@
 ---
-title: "Quincy Compressor Fault Codes — Guide"
-description: "Quincy rotary screw air compressor fault codes: what each means and how to fix it."
+title: "Quincy Compressor Fault Codes — Complete Guide"
+description: "Quincy compressor fault codes for rotary screw and QGS/QGV series compressors: common alarms, causes, and fixes."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
 author: "ErrorCodeFixes"
 featured: false
 draft: false
 tags:
-  - refrigeration
+  - compressor
   - quincy
+  - industrial
 ---
 
-## Quincy Compressor Fault Codes — What They Mean
+## Quincy Compressor Fault Codes — Quick Reference
 
-Quincy Compressor (QGS, QGV, and QSI series rotary screw compressors) use the Intellisys-based Sequencer controller, displaying fault codes on the controller display. Quincy is a major US-made compressor brand common in manufacturing and industrial facilities.
+Quincy rotary screw compressors use controller alarms for high temperature, motor overload, pressure switch problems, and service intervals. QGS and QGV units also carry VSD-related alarms on variable-speed models.
 
-| Alarm | Meaning | Urgency |
-|-------|---------|---------|
-| High outlet temperature | Discharge temp exceeded limit | Critical |
-| High pressure | System over-pressure | High |
-| Low sump pressure | Internal pressure drop | High |
-| Oil separator DP | Separator element needs service | Medium |
-| Sensor fault | Bad sensor reading | Medium |
-| Starter / motor fault | Drive motor protection tripped | High |
+| Alarm | Meaning | Quick Fix |
+|-------|---------|-----------|
+| High Temp | Discharge or oil temp too high | Clean coolers; check oil |
+| Motor Overload | Main motor current high | Check load and voltage |
+| Pressure Sensor Fault | Bad transducer signal | Inspect sensor and wiring |
+| Phase Fault | Input phase loss / reversal | Check incoming power |
+| VSD Fault | Drive-level trip | Read drive history |
+| Service Alarm | PM due | Perform scheduled maintenance |
+| E-Stop | Emergency stop active | Reset circuit |
+| Low Oil Shutdown | Lubrication issue | Check oil and filters |
 
-[Jump to Fix](#fix)
+## Most Common Faults
 
-## Most Common Quincy Faults and Fixes {#fix}
+### High Temp
+High-temperature alarms on Quincy screws are almost always maintenance-related. Dirty coolers, wrong oil, low oil level, or failed fan motors are the first checks. Cleanliness matters more than people realize on screw compressors.
 
-### High Outlet Temperature
-Oil level, cooler fouling, and thermostatic valve are the three items to check in order. Low oil → not enough fluid for cooling. Fouled cooler → inadequate heat rejection. Failed thermostatic valve → cold oil bypasses the cooler incorrectly.
+### Phase Fault
+If a Quincy compressor shows a phase fault after electrical work, verify phase sequence and voltage balance at the disconnect. Loose lugs and weak contactors create intermittent phase-loss alarms under load.
 
-### Oil Separator DP
-Replace the oil separator element. Quincy recommends replacement every 4,000 hours or 1 year. Excessive DP causes oil carryover into the airline.
-
-### Sensor Fault
-Verify the temperature or pressure reading against an independent instrument. Quincy uses standard industrial sensors (PT100 RTDs, 4-20mA pressure transmitters). Replace if failed.
+### Pressure Sensor Fault
+A dead or drifting pressure transducer makes the controller do strange things, including bad load/unload behavior and nuisance shutdowns. Compare the controller pressure reading to a calibrated mechanical gauge before replacing valves.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Oil separator element | Quincy OEM — critical for carryover performance |
-| Quincy Quinsyn Plus oil | Synthetic lubricant for QGS series |
-| Thermostatic mixing valve | Common cause of chronic high temperature faults |
+| Pressure transducer | Frequent electronic failure |
+| Air/oil separator | Major service item |
+| Oil filter | Replace during PM |
+| Fan motor / contactor | Check on temperature faults |
 
 ## When to Call a Pro
-
-Quincy authorized service handles sealed system, bearing, and rotor work. Don't attempt to open the compressor airend without factory training.
+If the compressor is tripping on high temp after cooler cleaning and PM service, the oil thermostatic valve or airend may be wearing out. That is specialist work.

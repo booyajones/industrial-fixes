@@ -1,51 +1,51 @@
 ---
-title: "Gardner Denver Compressor Fault Codes — Guide"
-description: "Gardner Denver rotary screw air compressor fault codes: what each means and how to fix it."
+title: "Gardner Denver Compressor Fault Codes — Complete Guide"
+description: "Gardner Denver compressor fault codes for rotary screw compressors: controller alarms, common shutdowns, causes, and troubleshooting steps."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
 author: "ErrorCodeFixes"
 featured: false
 draft: false
 tags:
-  - refrigeration
+  - compressor
   - gardner-denver
+  - industrial
 ---
 
-## Gardner Denver Compressor Fault Codes — What They Mean
+## Gardner Denver Compressor Fault Codes — Quick Reference
 
-Gardner Denver (now part of Ingersoll-Rand / Compression Technologies and Services) manufactures rotary screw, reciprocating, and centrifugal compressors. Their Compressor Logic and INTELLISYS controllers display fault codes when shutdowns occur.
+Gardner Denver compressors use controller alarms covering temperature, pressure, motor protection, and service intervals. Model families vary, but high-temp and sensor-related trips are the most common field issues.
 
-| Alarm | Meaning | Urgency |
-|-------|---------|---------|
-| High temperature shutdown | Discharge temp exceeded safe limit | Critical |
-| Low oil pressure | Oil pressure dropped below minimum | Critical |
-| High pressure | System pressure over maximum | High |
-| Oil separator element differential | Element saturated, needs replacement | Medium |
-| Temperature sensor fault | Sensor reading out of range | Medium |
-| Motor thermal protection | Drive motor overtemperature | High |
+| Alarm | Meaning | Quick Fix |
+|-------|---------|-----------|
+| High Discharge Temp | Compressor overheating | Clean coolers; verify fan airflow |
+| Low Oil Pressure | Lubrication fault | Check oil level and filters |
+| Motor Overload | Current too high | Check amperage and load |
+| Sensor Failure | Temperature or pressure sensor fault | Test or replace sensor |
+| Separator Alarm | Restriction across separator | Replace separator element |
+| Emergency Stop | E-stop input active | Reset and inspect circuit |
+| Service Due | Maintenance interval reached | Perform PM |
+| Phase Loss | Missing input phase | Check incoming power |
 
-[Jump to Fix](#fix)
+## Most Common Faults
 
-## Most Common Gardner Denver Faults and Fixes {#fix}
-
-### High Temperature Shutdown
-Same as all rotary screw compressors: check oil level, clean oil cooler and aftercooler, verify cooling fan(s) operation, check thermostatic mixing valve. Gardner Denver units have a sight glass for oil level — check with the unit running.
+### High Discharge Temperature
+Dirty coolers, high ambient temperature, and low oil level top the list. Gardner Denver units in dusty shops often need much more aggressive cooler cleaning than the calendar PM schedule suggests.
 
 ### Low Oil Pressure
-Check oil level. Inspect the oil filter — a plugged filter causes low oil pressure. Verify the oil pressure sensor is reading correctly against a mechanical gauge.
+Check the obvious first: oil level, oil filter condition, and whether the machine was just serviced with the correct lubricant. Wrong oil viscosity can trigger both pressure and temperature problems.
 
-### Oil Separator DP
-Replace the separator element at the recommended service interval (typically 4,000 hours). Gardner Denver OEM elements are recommended.
+### Separator Alarm
+A high differential across the separator often shows up as reduced efficiency before a shutdown. If the separator is near PM interval anyway, replace it rather than trying to stretch service.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Oil separator element | Gardner Denver OEM |
-| Oil filter | Replace at every oil change |
-| Compressor oil (Gardner Denver Aeon lubricant) | OEM fluid specified for airend warranty |
-| Thermostatic valve | For chronic high temperature |
+| Oil separator | Standard PM replacement |
+| Temp / pressure sensor | Common controller alarm source |
+| Oil filter | Replace with service kits |
+| Fan motor / belt | Check cooling system on overheats |
 
 ## When to Call a Pro
-
-Gardner Denver authorized service handles airend, bearing, and valve work. Contact Compression Technologies and Services (CTS) for factory-trained service.
+If the unit continues to trip after basic PM and cooler cleaning, have a compressor specialist inspect the thermostatic valve, inlet valve, and airend condition.

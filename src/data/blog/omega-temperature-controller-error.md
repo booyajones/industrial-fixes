@@ -1,54 +1,51 @@
 ---
-title: "Omega Temperature Controller Error Codes — Guide"
-description: "Omega Engineering temperature controller error codes: what each means and how to fix it."
+title: "Omega Temperature Controller Error Codes — Complete Guide"
+description: "Omega temperature controller error codes for CN7800, CN7500, CN8200, and related PID controllers: sensor errors, alarm states, and fixes."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
 author: "ErrorCodeFixes"
 featured: false
 draft: false
 tags:
-  - refrigeration
+  - instrument
   - omega
+  - temperature-control
 ---
 
-## Omega Temperature Controller Error Codes — What They Mean
+## Omega Temperature Controller Error Codes — Quick Reference
 
-Omega Engineering temperature controllers (CN series, iSeries, and Platinum series) are widely used in industrial ovens, furnaces, heat treat equipment, and process applications. They display alphanumeric error codes when sensor or system faults occur.
+Omega PID temperature controllers are used in ovens, heaters, process skids, and lab equipment. The exact menu structure varies by series, but the same faults appear repeatedly: sensor open, reversed thermocouple polarity, output alarm, and memory/configuration faults.
 
-| Code | Meaning |
-|------|---------|
-| Err 1 / OPNC | Open circuit — sensor or thermocouple is open |
-| Err 2 / SHRT | Short circuit — sensor leads shorted |
-| Err 3 / OVER | Over-range — temperature exceeds sensor or controller range |
-| Err 4 / UNDR | Under-range — temperature below sensor minimum |
-| Err 5 | ADC fault (internal) |
-| HiLim | High temperature limit alarm |
-| LoLim | Low temperature limit alarm |
+| Display | Meaning | Quick Fix |
+|---------|---------|-----------|
+| OPEN | Sensor input open | Check thermocouple or RTD wiring |
+| Err | General controller fault | Power cycle and review setup |
+| HHHH | Process value above range | Check sensor type and wiring |
+| LLLL | Process value below range | Check sensor wiring / polarity |
+| A1 / A2 | Alarm 1 or Alarm 2 active | Review alarm setpoints |
+| AdEr | A/D converter input error | Check sensor input and board |
+| EEPROM | Memory/configuration fault | Re-enter setup |
+| SV flashing | Setpoint or output inhibit issue | Check mode and lock settings |
 
-[Jump to Fix](#fix)
+## Most Common Faults
 
-## Most Common Omega Controller Errors and Fixes {#fix}
+### OPEN — Sensor Open
+The controller believes the sensor circuit is open. For thermocouples, check both wires at the input terminals and verify the correct thermocouple type is configured in the menu. A type J thermocouple wired into a controller configured for type K can produce strange readings before eventually showing an error.
 
-### Err 1 / OPNC — Open Circuit
-Most common error. Test thermocouple or RTD continuity. Broken thermocouple wire = open circuit. Also check terminal connections at the controller — loose screw terminals cause open-circuit readings.
+### HHHH / LLLL — Out of Range Input
+A wildly high or low process value is usually a sensor wiring or setup issue, not an actual process temperature. For RTDs, confirm the controller is configured for 2-wire or 3-wire input correctly. For thermocouples, reversed polarity often shows unstable or low readings.
 
-### Err 2 / SHRT — Short Circuit
-Thermocouple leads touching (shorted) or a failed RTD. Check for insulation damage on sensor leads, especially near high-temperature zones.
-
-### OVER / UNDR — Range Error
-The actual temperature is outside the sensor or controller's range. Verify the correct sensor type is selected in controller parameters (Type K, J, T, RTD, etc.). A type mismatch between sensor and controller causes OVER or UNDR readings at normal temperatures.
-
-### HiLim / LoLim
-Temperature crossed the alarm setpoint. Verify the setpoint is configured correctly for the process. If temperature is genuinely out of range, investigate the heating/cooling system.
+### Alarm Outputs Active
+Omega controllers use A1 and A2 to indicate that the measured value crossed the configured alarm threshold. This is not always a controller failure. Review whether the alarm is absolute high/low, deviation high/low, or band alarm. Many service calls turn out to be a misunderstood alarm mode.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Thermocouple (Type K, J, T, etc.) | Match to controller input type — Type K is most common |
-| RTD (PT100) | For RTD-input controllers |
-| Terminal connector | Omega 1/4" DIN panel terminals if loose |
+| Thermocouple probe | Most common field replacement |
+| RTD probe | Check 2-wire vs 3-wire style |
+| Solid-state relay | If control output is present but heater does not energize |
+| Controller | Replace only after sensor and output checks |
 
 ## When to Call a Pro
-
-Err 5 (ADC fault) indicates internal controller failure. Omega Engineering technical support can determine if the controller needs factory repair or replacement.
+If the controller shows A/D or EEPROM faults repeatedly after power cycling, the internal electronics are failing. For critical ovens or process heaters, replace the controller and verify tuning before returning to production.

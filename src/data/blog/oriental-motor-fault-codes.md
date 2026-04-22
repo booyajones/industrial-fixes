@@ -1,50 +1,56 @@
 ---
-title: "Oriental Motor AlphaStep Fault Codes — Guide"
-description: "Oriental Motor AlphaStep and AZ Series fault codes: what each means and how to fix it."
+title: "Oriental Motor AlphaStep Fault Codes — Complete Guide"
+description: "Oriental Motor AlphaStep fault codes for AZ, AR, and AlphaStep drives: alarm codes, causes, and step-by-step fixes for closed-loop stepper systems."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
 author: "ErrorCodeFixes"
 featured: false
 draft: false
 tags:
-  - vfd
+  - motor-control
   - oriental-motor
+  - stepper
 ---
 
-## Oriental Motor AlphaStep Fault Codes — What They Mean
+## Oriental Motor AlphaStep Fault Codes — Quick Reference
 
-Oriental Motor AlphaStep (AZ Series) closed-loop step motors and drivers are widely used in precision positioning applications in manufacturing and automation.
+Oriental Motor AlphaStep systems use closed-loop stepper motors with dedicated drivers from the AZ and AR series. Alarm codes appear on the driver display and through the ALM output. The exact code list varies by generation, but the faults below cover the most common AlphaStep alarms seen in automation panels.
 
-| Code | Meaning |
-|------|---------|
-| E001 | Overcurrent |
-| E002 | Overvoltage |
-| E003 | Undervoltage |
-| E004 | Motor Overtemperature |
-| E005 | Driver Overtemperature |
-| E007 | Position Error (following error exceeded) |
-| E010 | CPU Fault |
-| E020 | Communication Fault |
+| Code | Meaning | Quick Fix |
+|------|---------|-----------|
+| AL01 | Overvoltage | Check DC power supply |
+| AL02 | Undervoltage | Verify power supply under load |
+| AL03 | Overcurrent | Check motor cable and load |
+| AL06 | Encoder / sensor fault | Check feedback cable |
+| AL08 | Motor overheat | Reduce load; check ambient temp |
+| AL13 | Position deviation excessive | Check coupling and load jam |
+| AL20 | EEPROM / parameter fault | Reload parameters |
+| AL30 | CPU / internal fault | Power cycle; replace driver if persists |
+| AL40 | Network communication fault | Check Modbus / EtherCAT wiring |
+| AL46 | Home sensor / limit input fault | Check DI wiring and sensor state |
 
-[Jump to Fix](#fix)
+## Most Common Faults
 
-## Common AlphaStep Faults and Fixes {#fix}
+### AL13 — Position Deviation Excessive
+This is the AlphaStep alarm technicians see most often. The motor is being commanded to move, but the closed-loop feedback says the shaft is falling behind. Causes include a jammed axis, loose coupling, acceleration set too aggressively, or a motor undersized for the load. Inspect the coupling first. A slipping clamp-style coupling can trigger AL13 without any obvious mechanical noise.
 
-**E001 — Overcurrent:** Check for mechanical binding on the linear or rotary load. Verify motor current setting in the driver matches the motor rating. Reduce acceleration to lower inrush.
+### AL03 — Overcurrent
+An overcurrent fault usually means the motor cable has insulation damage, a phase is shorted, or the driven mechanism is binding hard enough that current spikes above the driver's limit. Disconnect the motor from the load and test again. If the alarm clears with the load removed, the problem is mechanical.
 
-**E007 — Position Error:** The motor couldn't track the commanded position. Reduce move speed or acceleration. Check for mechanical binding, insufficient torque for the load, or encoder cable damage.
+### AL06 — Encoder / Sensor Fault
+AlphaStep closed-loop motors rely on built-in feedback. Check the motor feedback cable, connector latch, and any extension cable. Oil contamination or a loose connector at the drive is a common cause. Never hot-plug the motor cable with power applied.
 
-**E004/E005 — Overtemperature:** Reduce duty cycle. Verify the driver is mounted with adequate airflow per the installation manual. Mounting to a heat sink or metal plate is required for many models.
-
-**E020 — Communication:** Check RS-485 or EtherNet/IP cable connections and termination resistors.
+### AL01 / AL02 — Supply Voltage Faults
+Oriental Motor AZ and AR drivers are sensitive to supply voltage drop during fast moves. Measure voltage at the drive's DC input during acceleration, not just at idle. If the power supply sags when multiple axes move together, upsize the supply or separate the axes across supplies.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Encoder cable | For E007 if signal loss is root cause |
-| Heat sink / mounting plate | For recurring E005 |
+| Driver unit | Replace if AL30 persists |
+| Motor / feedback cable | Common field failure item |
+| Switching power supply | Check wattage and voltage stability |
+| Flexible coupling | Slipping couplings often trigger AL13 |
 
 ## When to Call a Pro
-
-E010 CPU faults require Oriental Motor technical support for diagnosis and repair.
+If the driver stores repeated AL30 internal faults or the axis cannot hold position after cable checks, involve an automation technician. Replacing the wrong component in a closed-loop stepper system gets expensive fast.
