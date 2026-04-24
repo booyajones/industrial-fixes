@@ -10,10 +10,38 @@ const { description, title } = Astro.props;
   <div class="quick-answer-label">⚡ Quick Answer</div>
   <p class="quick-answer-text">{description}</p>
   <div class="quick-answer-buttons">
-    <a href="#step-by-step-fix" class="qa-btn qa-btn-primary">Jump to Fix →</a>
-    <a href="#parts-that-may-need-replacement" class="qa-btn qa-btn-secondary">View Parts →</a>
+    <a href="#step-by-step-fix" class="qa-btn qa-btn-primary" id="qa-fix-btn">Jump to Fix →</a>
+    <a href="#parts-that-may-need-replacement" class="qa-btn qa-btn-secondary" id="qa-parts-btn">View Parts →</a>
   </div>
 </div>
+
+<script is:inline>
+  // Find the correct anchor IDs on this page and update button hrefs
+  document.addEventListener('DOMContentLoaded', function() {
+    // Fix: step-by-step section — try multiple possible IDs
+    var fixBtn = document.getElementById('qa-fix-btn');
+    if (fixBtn) {
+      var fixAnchors = ['step-by-step-fix', 'step-by-step', 'fix'];
+      for (var i = 0; i < fixAnchors.length; i++) {
+        if (document.getElementById(fixAnchors[i])) {
+          fixBtn.href = '#' + fixAnchors[i];
+          break;
+        }
+      }
+    }
+    // Parts: try multiple possible IDs
+    var partsBtn = document.getElementById('qa-parts-btn');
+    if (partsBtn) {
+      var partsAnchors = ['parts-that-may-need-replacement', 'parts-often-needed', 'parts-and-tools-often-needed', 'parts-commonly-needed', 'parts-you-may-need', 'parts-to-have-ready', 'parts'];
+      for (var j = 0; j < partsAnchors.length; j++) {
+        if (document.getElementById(partsAnchors[j])) {
+          partsBtn.href = '#' + partsAnchors[j];
+          break;
+        }
+      }
+    }
+  });
+</script>
 
 <style>
   .quick-answer-box {
