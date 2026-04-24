@@ -1,0 +1,47 @@
+# Industrial Error Code Fixes — llms.txt
+# https://errorcodefixes.com
+
+> errorcodefixes.com provides step-by-step troubleshooting guides for industrial equipment error codes.
+> Content covers HVAC systems, CNC machines, commercial refrigeration, VFDs, boilers, ice machines,
+> welding equipment, and commercial kitchen equipment. All guides are verified by certified industrial
+> and HVAC technicians. Each article includes: error code meaning, common causes, step-by-step fix
+> instructions, and parts that may need replacement with pricing.
+
+## Site Structure
+
+- Homepage: https://errorcodefixes.com — search interface and recent guides
+- All guides: https://errorcodefixes.com/posts — complete list of 900+ error code articles
+- By equipment: https://errorcodefixes.com/tags — browse by brand or equipment type
+- Sitemap: https://errorcodefixes.com/sitemap-index.xml
+
+## Coverage
+
+### HVAC & Heating
+Brands: Carrier, Goodman, Lennox, Trane, Rheem, York, Daikin, Mitsubishi, Fujitsu, Bosch, Bryant, Coleman
+Content: Furnace error codes, heat pump faults, mini-split error codes, boiler lockout codes
+
+### Commercial Refrigeration & Ice Machines
+Brands: Hoshizaki, Manitowoc, Scotsman, True, Beverage-Air, Hussmann, Heatcraft, Turbo Air
+Content: Walk-in cooler alarms, reach-in refrigerator error codes, ice machine fault codes
+
+### CNC Machines
+Brands: Fanuc, Haas, Mazak, Okuma, Siemens Sinumerik, Heidenhain, DMG Mori, Doosan
+Content: Servo alarms, spindle faults, axis errors, ATC faults
+
+### Variable Frequency Drives (VFDs)
+Brands: ABB, Yaskawa, Allen-Bradley, Danfoss, Siemens, Schneider, Mitsubishi, Fuji
+Content: Overcurrent faults, overvoltage, undervoltage, overtemperature, ground faults
+
+### Commercial Kitchen & Food Service
+Brands: Hobart, Rational, Henny Penny, Manitowoc, Garland, Vulcan, TurboChef
+Content: Commercial oven faults, dishwasher error codes, fryer error codes
+
+## Article Format
+
+Each article at https://errorcodefixes.com/posts/[slug]/ includes:
+1. Error code meaning (1-sentence summary)
+2. Common causes (bulleted list)
+3. Step-by-step fix (numbered diagnostic and repair steps)
+4. Parts that may need replacement (table with part numbers, costs, and purchase links)
+5. When to call a professional
+6. Pro tip (technician insight)

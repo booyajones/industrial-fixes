@@ -2,3 +2,25 @@ User-agent: *
 Allow: /
 
 Sitemap: https://errorcodefixes.com/sitemap-index.xml
+
+# AI crawlers — explicitly allowed
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+# LLM optimization file
+# llms.txt: https://errorcodefixes.com/llms.txt

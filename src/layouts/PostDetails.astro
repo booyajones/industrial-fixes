@@ -86,7 +86,7 @@ const nextPost =
 
 <Layout {...layoutProps}>
 
-  <!-- HowTo Schema for Google Featured Snippets -->
+  <!-- HowTo Schema for Google Featured Snippets / Rich Results -->
   <script type="application/ld+json" is:inline set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "HowTo",
@@ -95,7 +95,33 @@ const nextPost =
     "datePublished": pubDatetime?.toISOString(),
     "dateModified": modDatetime ? modDatetime.toISOString() : pubDatetime?.toISOString(),
     "author": { "@type": "Organization", "name": SITE.title, "url": SITE.website },
-    "publisher": { "@type": "Organization", "name": SITE.title, "url": SITE.website }
+    "publisher": { "@type": "Organization", "name": SITE.title, "url": SITE.website },
+    "supply": [
+      { "@type": "HowToSupply", "name": tags && tags.length > 0 ? tags[0] : "Replacement parts" },
+      { "@type": "HowToSupply", "name": "Multimeter" }
+    ],
+    "tool": [
+      { "@type": "HowToTool", "name": "Multimeter" },
+      { "@type": "HowToTool", "name": "Screwdriver set" },
+      { "@type": "HowToTool", "name": "Service manual" }
+    ],
+    "step": [
+      {
+        "@type": "HowToStep",
+        "name": "Diagnose the error code",
+        "text": "Read the error code description and identify the most likely cause using the guide above."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Follow the fix instructions",
+        "text": "Follow the step-by-step repair instructions in this article, checking each common cause in order."
+      },
+      {
+        "@type": "HowToStep",
+        "name": "Verify the repair",
+        "text": "Test the equipment after completing the repair to confirm the error code is cleared and the unit operates normally."
+      }
+    ]
   })} />
   <Header />
   <BackButton />
