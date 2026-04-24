@@ -1,6 +1,7 @@
 ---
 import { Font } from "astro:assets";
 import { ClientRouter } from "astro:transitions";
+import ChatWidget from "../components/ChatWidget.astro";
 import { PUBLIC_GOOGLE_SITE_VERIFICATION, PUBLIC_GA4_MEASUREMENT_ID } from "astro:env/client";
 import { SITE } from "@/config";
 import "@/styles/global.css";
@@ -201,5 +202,8 @@ const structuredData = {
 
     <!-- Load full theme logic -->
     <script src="../scripts/theme.ts"></script>
+
+    <!-- AI Chat Widget -->
+    <ChatWidget />
   </body>
 </html>

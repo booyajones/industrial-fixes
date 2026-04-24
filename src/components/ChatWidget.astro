@@ -1,0 +1,361 @@
+---
+// ChatWidget — floating AI chat assistant powered by Cloudflare Worker + OpenAI gpt-4o-mini
+// Worker URL: https://errorcodefixes-chat.errorcodefixes.workers.dev
+// To update: change CHAT_API_URL below and redeploy with: git push origin main
+---
+
+<div id="chat-widget" aria-label="AI chat assistant">
+  <button id="chat-toggle" aria-label="Ask AI about this error code" aria-expanded="false">
+    <span class="chat-icon" aria-hidden="true">🔧</span>
+    <span class="chat-label">Ask AI</span>
+  </button>
+
+  <div id="chat-panel" role="dialog" aria-label="AI Error Code Assistant" hidden>
+    <div class="chat-header">
+      <h3>Ask About This Error</h3>
+      <button id="chat-close" aria-label="Close chat">✕</button>
+    </div>
+    <div class="chat-messages" id="chat-messages" aria-live="polite" aria-atomic="false">
+      <div class="chat-message bot-message">
+        Hi! Ask me anything about industrial error codes. Example: &ldquo;What does Carrier error 13 mean?&rdquo; or &ldquo;How do I fix a Yaskawa OC fault?&rdquo;
+      </div>
+    </div>
+    <div class="chat-input-area">
+      <input
+        type="text"
+        id="chat-input"
+        placeholder="Ask about an error code..."
+        maxlength="300"
+        aria-label="Your question"
+        autocomplete="off"
+      />
+      <button id="chat-send" type="button">Send</button>
+    </div>
+  </div>
+</div>
+
+<style>
+  #chat-widget {
+    position: fixed;
+    bottom: 1.5rem;
+    right: 1.5rem;
+    z-index: 1000;
+    font-family: system-ui, -apple-system, sans-serif;
+  }
+
+  #chat-toggle {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: #d97706;
+    color: white;
+    border: none;
+    border-radius: 999px;
+    padding: 0.75rem 1.25rem;
+    font-size: 0.9rem;
+    font-weight: 600;
+    cursor: pointer;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+    line-height: 1;
+  }
+  #chat-toggle:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.3);
+  }
+  #chat-toggle:focus-visible {
+    outline: 2px solid #fbbf24;
+    outline-offset: 2px;
+  }
+
+  #chat-panel {
+    position: absolute;
+    bottom: 4rem;
+    right: 0;
+    width: 360px;
+    max-width: calc(100vw - 2rem);
+    background: white;
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    /* Animate open/close */
+    transform-origin: bottom right;
+    animation: chat-open 0.18s ease forwards;
+  }
+  #chat-panel[hidden] {
+    display: none !important;
+  }
+
+  @keyframes chat-open {
+    from { opacity: 0; transform: scale(0.92); }
+    to   { opacity: 1; transform: scale(1); }
+  }
+
+  .chat-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #d97706;
+    color: white;
+    padding: 0.75rem 1rem;
+    flex-shrink: 0;
+  }
+  .chat-header h3 {
+    margin: 0;
+    font-size: 0.95rem;
+    font-weight: 600;
+  }
+  #chat-close {
+    background: none;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 1rem;
+    padding: 0.25rem 0.4rem;
+    border-radius: 4px;
+    line-height: 1;
+  }
+  #chat-close:hover { background: rgba(255, 255, 255, 0.2); }
+  #chat-close:focus-visible { outline: 2px solid white; }
+
+  .chat-messages {
+    flex: 1;
+    min-height: 180px;
+    max-height: 300px;
+    overflow-y: auto;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    background: #fafafa;
+  }
+
+  .chat-message {
+    padding: 0.6rem 0.9rem;
+    border-radius: 8px;
+    font-size: 0.875rem;
+    line-height: 1.55;
+    max-width: 92%;
+    word-break: break-word;
+  }
+  .bot-message {
+    background: #f3f4f6;
+    align-self: flex-start;
+    color: #111827;
+  }
+  .user-message {
+    background: #fef3c7;
+    border: 1px solid #fcd34d;
+    align-self: flex-end;
+    color: #111827;
+  }
+  .source-link {
+    margin-top: 0.5rem;
+    font-size: 0.75rem;
+  }
+  .source-link a {
+    color: #d97706;
+    text-decoration: underline;
+    font-weight: 500;
+  }
+  .source-link a:hover { color: #b45309; }
+  .thinking-indicator {
+    display: flex;
+    gap: 4px;
+    align-items: center;
+    padding: 0.6rem 0.9rem;
+  }
+  .thinking-dot {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: #9ca3af;
+    animation: thinking-bounce 1.2s infinite ease-in-out;
+  }
+  .thinking-dot:nth-child(1) { animation-delay: 0s; }
+  .thinking-dot:nth-child(2) { animation-delay: 0.2s; }
+  .thinking-dot:nth-child(3) { animation-delay: 0.4s; }
+  @keyframes thinking-bounce {
+    0%, 80%, 100% { transform: translateY(0); opacity: 0.6; }
+    40% { transform: translateY(-5px); opacity: 1; }
+  }
+
+  .chat-input-area {
+    display: flex;
+    gap: 0.5rem;
+    padding: 0.75rem;
+    border-top: 1px solid #e5e7eb;
+    background: white;
+    flex-shrink: 0;
+  }
+  #chat-input {
+    flex: 1;
+    padding: 0.5rem 0.75rem;
+    border: 1px solid #d1d5db;
+    border-radius: 6px;
+    font-size: 0.875rem;
+    outline: none;
+    color: #111827;
+    background: white;
+  }
+  #chat-input:focus { border-color: #d97706; box-shadow: 0 0 0 2px rgba(217,119,6,0.15); }
+  #chat-send {
+    background: #d97706;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 0.5rem 1rem;
+    font-size: 0.875rem;
+    font-weight: 600;
+    cursor: pointer;
+    flex-shrink: 0;
+    transition: background 0.15s;
+  }
+  #chat-send:hover { background: #b45309; }
+  #chat-send:disabled { opacity: 0.5; cursor: not-allowed; }
+  #chat-send:focus-visible { outline: 2px solid #fbbf24; outline-offset: 2px; }
+
+  /* Dark mode support */
+  @media (prefers-color-scheme: dark) {
+    #chat-panel { background: #1f2937; border-color: #374151; }
+    .chat-messages { background: #111827; }
+    .bot-message { background: #374151; color: #f9fafb; }
+    .user-message { background: #451a03; border-color: #92400e; color: #fef3c7; }
+    .chat-input-area { background: #1f2937; border-color: #374151; }
+    #chat-input { background: #374151; border-color: #4b5563; color: #f9fafb; }
+    #chat-input:focus { border-color: #d97706; }
+  }
+
+  /* Mobile adjustments */
+  @media (max-width: 420px) {
+    #chat-widget { bottom: 1rem; right: 1rem; }
+    #chat-panel { width: calc(100vw - 2rem); }
+  }
+</style>
+
+<script is:inline>
+(function () {
+  const CHAT_API_URL = 'https://errorcodefixes-chat.errorcodefixes.workers.dev';
+
+  const toggle = document.getElementById('chat-toggle');
+  const panel = document.getElementById('chat-panel');
+  const closeBtn = document.getElementById('chat-close');
+  const input = document.getElementById('chat-input');
+  const sendBtn = document.getElementById('chat-send');
+  const messages = document.getElementById('chat-messages');
+
+  if (!toggle || !panel || !input || !sendBtn || !messages) return;
+
+  function openPanel() {
+    panel.hidden = false;
+    toggle.setAttribute('aria-expanded', 'true');
+    // Re-trigger animation
+    panel.style.animation = 'none';
+    panel.offsetHeight; // reflow
+    panel.style.animation = '';
+    input.focus();
+  }
+
+  function closePanel() {
+    panel.hidden = true;
+    toggle.setAttribute('aria-expanded', 'false');
+    toggle.focus();
+  }
+
+  toggle.addEventListener('click', () => {
+    panel.hidden ? openPanel() : closePanel();
+  });
+
+  closeBtn.addEventListener('click', closePanel);
+
+  // Close on Escape
+  document.addEventListener('keydown', e => {
+    if (e.key === 'Escape' && !panel.hidden) closePanel();
+  });
+
+  function addMessage(text, type, sourceUrl) {
+    const div = document.createElement('div');
+    div.className = 'chat-message ' + type;
+    div.textContent = text;
+    if (sourceUrl) {
+      const linkWrap = document.createElement('div');
+      linkWrap.className = 'source-link';
+      const a = document.createElement('a');
+      a.href = sourceUrl;
+      a.textContent = 'View full guide \u2192';
+      a.target = '_blank';
+      a.rel = 'noopener noreferrer';
+      linkWrap.appendChild(a);
+      div.appendChild(linkWrap);
+    }
+    messages.appendChild(div);
+    messages.scrollTop = messages.scrollHeight;
+    return div;
+  }
+
+  function addThinking() {
+    const wrap = document.createElement('div');
+    wrap.className = 'chat-message bot-message thinking-indicator';
+    wrap.id = 'thinking-msg';
+    for (let i = 0; i < 3; i++) {
+      const dot = document.createElement('span');
+      dot.className = 'thinking-dot';
+      wrap.appendChild(dot);
+    }
+    messages.appendChild(wrap);
+    messages.scrollTop = messages.scrollHeight;
+    return wrap;
+  }
+
+  async function sendMessage() {
+    const question = input.value.trim();
+    if (!question || sendBtn.disabled) return;
+
+    addMessage(question, 'user-message');
+    input.value = '';
+    sendBtn.disabled = true;
+    input.disabled = true;
+
+    const thinkingEl = addThinking();
+
+    try {
+      const resp = await fetch(CHAT_API_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ question })
+      });
+
+      thinkingEl.remove();
+
+      if (!resp.ok) {
+        addMessage('The AI service returned an error. Please try again or browse our articles directly.', 'bot-message');
+      } else {
+        const data = await resp.json();
+        addMessage(
+          data.answer || 'Sorry, I could not generate an answer.',
+          'bot-message',
+          data.source || null
+        );
+      }
+    } catch (e) {
+      thinkingEl.remove();
+      addMessage('Network error. Please check your connection and try again.', 'bot-message');
+    }
+
+    sendBtn.disabled = false;
+    input.disabled = false;
+    input.focus();
+  }
+
+  sendBtn.addEventListener('click', sendMessage);
+  input.addEventListener('keydown', e => {
+    if (e.key === 'Enter' && !e.shiftKey) {
+      e.preventDefault();
+      sendMessage();
+    }
+  });
+})();
+</script>
