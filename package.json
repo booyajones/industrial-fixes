@@ -24,6 +24,7 @@
     "remark-toc": "^9.0.0",
     "satori": "^0.15.2",
     "sharp": "^0.34.2",
+    "slugify": "^1.6.6",
     "tailwindcss": "^4.1.11"
   },
   "devDependencies": {
