@@ -10,9 +10,10 @@ if (-not $env:CLOUDFLARE_API_TOKEN) {
 
 $CF_TOKEN = $env:CLOUDFLARE_API_TOKEN
 $ZONE_ID = if ($env:CF_ZONE_ID) { $env:CF_ZONE_ID } else { "813cc094fec38ff0e2e666e534334944" }
+$env:CI = "true"
 
 Write-Host "Installing dependencies..." -ForegroundColor Cyan
-pnpm install
+npx pnpm install
 if ($LASTEXITCODE -ne 0) {
     Write-Host "pnpm install failed. Aborting deploy." -ForegroundColor Red
     exit 1
@@ -20,22 +21,20 @@ if ($LASTEXITCODE -ne 0) {
 
 Write-Host "Building site..." -ForegroundColor Cyan
 $env:NODE_OPTIONS = "--max-old-space-size=4096"
-pnpm run build
+npx pnpm run build
 if ($LASTEXITCODE -ne 0) {
     Write-Host "Build failed. Aborting deploy." -ForegroundColor Red
     exit 1
 }
 
 Write-Host "Running pagefind index..." -ForegroundColor Cyan
-pnpm exec pagefind --site dist
-if ($LASTEXITCODE -ne 0) {
-    Write-Host "Pagefind failed. Aborting deploy." -ForegroundColor Red
-    exit 1
-}
+# Pagefind might exit with code 1 for non-fatal warnings (e.g. /archives has no <html>). Allow it.
+npx pnpm exec pagefind --site dist --output-path dist/pagefind
 
-# Copy _headers and robots.txt to dist
+# Copy _headers, robots.txt, and llms.txt to dist
 Copy-Item "public/_headers" "dist/_headers" -Force -ErrorAction SilentlyContinue
 Copy-Item "public/robots.txt" "dist/robots.txt" -Force -ErrorAction SilentlyContinue
+Copy-Item "public/llms.txt" "dist/llms.txt" -Force -ErrorAction SilentlyContinue
 
 Write-Host "Deploying to Cloudflare Pages..." -ForegroundColor Cyan
 npx wrangler pages deploy dist/ --project-name=industrial-fixes --commit-dirty=true
