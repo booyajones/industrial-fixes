@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Henny Penny Fryer Error Codes — Guide"
 description: "Henny Penny commercial fryer error codes: what each means and how to fix it."
 pubDatetime: 2026-04-22T18:00:00Z
@@ -15,10 +15,16 @@ tags:
 
 Henny Penny manufactures pressure fryers, open fryers, and combi cooking equipment for fast food chains and foodservice operations. Their SmartTouch and analog controllers display fault codes when problems occur.
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning | Urgency | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |---------|---------|
-| E-1 | [Thermocouple/sensor fault](https://www.amazon.com/s?k=Thermocouple%2Fsensor%20fault&tag=errorcodefixe-20) | High |
-| [E-2](https://www.amazon.com/s?k=E-2&tag=errorcodefixe-20) | High temperature limit | Critical | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E-3 | Ignition failure | [High](https://www.amazon.com/s?k=High&tag=errorcodefixe-20) |  | E-4 | [Hi-limit cutout tripped](https://www.amazon.com/s?k=Hi-limit%20cutout%20tripped&tag=errorcodefixe-20) | Critical |
-| [E-5](https://www.amazon.com/s?k=E-5&tag=errorcodefixe-20) | Pressure switch fault (pressure fryers) | High | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E-7 | Heater element fault (electric models) | [High](https://www.amazon.com/s?k=High&tag=errorcodefixe-20) | [Jump to Fix](#fix)
+| Code | Meaning | Urgency |
+|------|---------|---------|
+| E-1 | Thermocouple/sensor fault | High |
+| E-2 | High temperature limit | Critical |
+| E-3 | Ignition failure | High |
+| E-4 | Hi-limit cutout tripped | Critical |
+| E-5 | Pressure switch fault (pressure fryers) | High |
+| E-7 | Heater element fault (electric models) | High |
+
+[Jump to Fix](#fix)
 
 ## Most Common Henny Penny Faults and Fixes {#fix}
 
@@ -34,9 +40,13 @@ Gas ignition failed within the trial-for-ignition period. Check gas supply, pilo
 ### E-5 — Pressure Switch (Pressure Fryers)
 The lid pressure switch didn't confirm correct lid seal or pressure. Check lid gasket condition and seating. Verify pressure switch operation.
 
-## Parts Often Needed | Part | [Notes](https://www.amazon.com/s?k=Notes&tag=errorcodefixe-20) |  |------|-------|
-| Thermocouple | [Henny Penny OEM — type K typically](https://www.amazon.com/s?k=Henny%20Penny%20OEM%20%E2%80%94%20type%20K%20typically&tag=errorcodefixe-20) |  | Hi-limit thermostat | [Manual reset type — replace if won't hold](https://www.amazon.com/s?k=Manual%20reset%20type%20%E2%80%94%20replace%20if%20won't%20hold&tag=errorcodefixe-20) |  | Lid gasket | For pressure fryer E-5 — replace if cracked |
+## Parts Often Needed
 
+| Part | Notes |
+|------|-------|
+| Thermocouple | [Amazon](https://www.amazon.com/s?k=Thermocouple&tag=errorcodefixes-20) \| Henny Penny OEM — type K typically |
+| Hi-limit thermostat | [Amazon](https://www.amazon.com/s?k=Hi-limit+thermostat&tag=errorcodefixes-20) \| Manual reset type — replace if won't hold |
+| Lid gasket | [Amazon](https://www.amazon.com/s?k=Lid+gasket&tag=errorcodefixes-20) \| For pressure fryer E-5 — replace if cracked |
 ## When to Call a Pro
 
 E-2/E-4 high temperature events require root cause investigation before returning to service. Gas work requires a certified technician.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lennox Error Code 125 — Causes & Fix"
 description: "What Lennox error code 125 means, why the pressure switch stays open at the end of heat speed, and how to fix it."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -38,11 +38,10 @@ Lennox error code 125 indicates that the pressure switch opened or failed to clo
 
 | Part | Notes |
 |------|-------|
-| [Pressure switch (heat speed rated)](https://www.amazon.com/s?k=Pressure%20switch%20(heat%20speed%20rated)&tag=errorcodefixe-20) | Verify correct setpoint for your Lennox model and vent configuration |
-| [Draft inducer motor](https://www.amazon.com/s?k=Draft%20inducer%20motor&tag=errorcodefixe-20) | Replace if motor cannot maintain heat-speed pressure |
-| [Pressure switch hose](https://www.amazon.com/s?k=Pressure%20switch%20hose&tag=errorcodefixe-20) | 5/16" rubber hose; replace if cracked or water-logged |
-| [Condensate trap assembly](https://www.amazon.com/s?k=Condensate%20trap%20assembly&tag=errorcodefixe-20) | Replace if cracked or blocked beyond cleaning |
-
+| Pressure switch (heat speed rated) | [Amazon](https://www.amazon.com/s?k=Pressure+switch+%28heat+speed+rated%29&tag=errorcodefixes-20) \| Verify correct setpoint for your Lennox model and vent configuration |
+| Draft inducer motor | [Amazon](https://www.amazon.com/s?k=Draft+inducer+motor&tag=errorcodefixes-20) \| Replace if motor cannot maintain heat-speed pressure |
+| Pressure switch hose | [Amazon](https://www.amazon.com/s?k=Pressure+switch+hose&tag=errorcodefixes-20) \| 5/16" rubber hose; replace if cracked or water-logged |
+| Condensate trap assembly | [Amazon](https://www.amazon.com/s?k=Condensate+trap+assembly&tag=errorcodefixes-20) \| Replace if cracked or blocked beyond cleaning |
 ## When to Call a Pro
 
 If inducer pressure tests and component replacements do not resolve code 125, a Lennox-authorized technician should perform a full system performance check. Vent sizing issues or heat exchanger restrictions may require redesign of the venting system.

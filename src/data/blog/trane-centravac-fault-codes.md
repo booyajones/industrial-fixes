@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Trane CenTraVac Chiller Fault Codes — Common Faults Guide"
 description: "Guide to Trane CenTraVac centrifugal chiller fault codes, what each fault means, and how to diagnose the most common problems."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -19,16 +19,16 @@ The Trane CenTraVac (CVHE, CVHF, CVHG series) is a water-cooled centrifugal chil
 
 ## Most Common CenTraVac Fault Codes
 
-| [Fault](https://www.amazon.com/s?k=Fault&tag=errorcodefixe-20) | Meaning |
+| Fault | Meaning |
 |-------|---------|
-| [Chilled Water Flow Lost](https://www.amazon.com/s?k=Chilled%20Water%20Flow%20Lost&tag=errorcodefixe-20) | Loss of chilled water flow switch signal |
-| [Condenser Water Flow Lost](https://www.amazon.com/s?k=Condenser%20Water%20Flow%20Lost&tag=errorcodefixe-20) | Loss of condenser water flow switch signal |
-| [Low Refrigerant Pressure](https://www.amazon.com/s?k=Low%20Refrigerant%20Pressure&tag=errorcodefixe-20) | Suction pressure below minimum limit |
-| [High Condenser Pressure](https://www.amazon.com/s?k=High%20Condenser%20Pressure&tag=errorcodefixe-20) | Condenser pressure above limit |
-| [High Motor Temperature](https://www.amazon.com/s?k=High%20Motor%20Temperature&tag=errorcodefixe-20) | Motor winding overtemperature |
-| [Starter Fault](https://www.amazon.com/s?k=Starter%20Fault&tag=errorcodefixe-20) | Motor starter failure |
-| [Oil Pressure Low](https://www.amazon.com/s?k=Oil%20Pressure%20Low&tag=errorcodefixe-20) | Lubrication system oil pressure below limit |
-| [High Discharge Temperature](https://www.amazon.com/s?k=High%20Discharge%20Temperature&tag=errorcodefixe-20) | Compressor discharge temp exceeded limit |
+| Chilled Water Flow Lost | Loss of chilled water flow switch signal |
+| Condenser Water Flow Lost | Loss of condenser water flow switch signal |
+| Low Refrigerant Pressure | Suction pressure below minimum limit |
+| High Condenser Pressure | Condenser pressure above limit |
+| High Motor Temperature | Motor winding overtemperature |
+| Starter Fault | Motor starter failure |
+| Oil Pressure Low | Lubrication system oil pressure below limit |
+| High Discharge Temperature | Compressor discharge temp exceeded limit |
 
 ## Common Causes
 
@@ -51,11 +51,10 @@ The Trane CenTraVac (CVHE, CVHF, CVHG series) is a water-cooled centrifugal chil
 
 | Part | Notes |
 |------|-------|
-| [Flow switch (chilled or condenser side)](https://www.amazon.com/s?k=Flow%20switch%20(chilled%20or%20condenser%20side)&tag=errorcodefixe-20) | Trane OEM preferred; confirm differential pressure setpoint |
-| [Oil pump](https://www.amazon.com/s?k=Oil%20pump&tag=errorcodefixe-20) | For persistent oil pressure faults with correct oil level |
-| [Purge unit components](https://www.amazon.com/s?k=Purge%20unit%20components&tag=errorcodefixe-20) | Purge compressor, desiccant, and purge valves — annual service item |
-| [Condenser tube brush set](https://www.amazon.com/s?k=Condenser%20tube%20brush%20set&tag=errorcodefixe-20) | For tube fouling cleaning |
-
+| Flow switch (chilled or condenser side) | [Amazon](https://www.amazon.com/s?k=Flow+switch+%28chilled+or+condenser+side%29&tag=errorcodefixes-20) \| Trane OEM preferred; confirm differential pressure setpoint |
+| Oil pump | [Amazon](https://www.amazon.com/s?k=Oil+pump&tag=errorcodefixes-20) \| For persistent oil pressure faults with correct oil level |
+| Purge unit components | [Amazon](https://www.amazon.com/s?k=Purge+unit+components&tag=errorcodefixes-20) \| Purge compressor, desiccant, and purge valves — annual service item |
+| Condenser tube brush set | [Amazon](https://www.amazon.com/s?k=Condenser+tube+brush+set&tag=errorcodefixes-20) \| For tube fouling cleaning |
 ## When to Call a Pro
 
 CenTraVac chillers are high-value, complex machines — a single diagnostic mistake can cause compressor damage worth hundreds of thousands of dollars. All refrigerant work (including non-condensable purging), oil analysis, and shaft seal service must be performed by Trane-certified technicians using the Tracer CH530 service software. Never attempt to add refrigerant to a CenTraVac without a full leak test and Trane engineering authorization.

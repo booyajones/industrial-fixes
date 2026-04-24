@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mitsubishi FR-D700 VFD Fault Codes — Complete Diagnostic Reference"
 description: "Complete guide to Mitsubishi FR-D700 VFD fault codes, causes, and step-by-step repair procedures for industrial technicians."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -20,20 +20,20 @@ The Mitsubishi FR-D700 is a compact inverter drive used on conveyors, small pump
 
 ## Mitsubishi FR-D700 Common Fault Code Reference
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning |
+| Code | Meaning |
 |---|---|
-| [OC1](https://www.amazon.com/s?k=OC1&tag=errorcodefixe-20) | Overcurrent during acceleration |
-| [OC2](https://www.amazon.com/s?k=OC2&tag=errorcodefixe-20) | Overcurrent during constant speed |
-| [OC3](https://www.amazon.com/s?k=OC3&tag=errorcodefixe-20) | Overcurrent during deceleration |
-| [OV1](https://www.amazon.com/s?k=OV1&tag=errorcodefixe-20) | Overvoltage during acceleration |
-| [OV2](https://www.amazon.com/s?k=OV2&tag=errorcodefixe-20) | Overvoltage during run |
-| [OV3](https://www.amazon.com/s?k=OV3&tag=errorcodefixe-20) | Overvoltage during deceleration |
-| [THT](https://www.amazon.com/s?k=THT&tag=errorcodefixe-20) | Inverter overtemperature |
-| [THM](https://www.amazon.com/s?k=THM&tag=errorcodefixe-20) | Motor thermal overload |
-| [UVT](https://www.amazon.com/s?k=UVT&tag=errorcodefixe-20) | Undervoltage |
-| [GF](https://www.amazon.com/s?k=GF&tag=errorcodefixe-20) | Ground fault |
-| [OLT](https://www.amazon.com/s?k=OLT&tag=errorcodefixe-20) | Stall prevention / overload trip |
-| [CPU](https://www.amazon.com/s?k=CPU&tag=errorcodefixe-20) | Internal control fault |
+| OC1 | Overcurrent during acceleration |
+| OC2 | Overcurrent during constant speed |
+| OC3 | Overcurrent during deceleration |
+| OV1 | Overvoltage during acceleration |
+| OV2 | Overvoltage during run |
+| OV3 | Overvoltage during deceleration |
+| THT | Inverter overtemperature |
+| THM | Motor thermal overload |
+| UVT | Undervoltage |
+| GF | Ground fault |
+| OLT | Stall prevention / overload trip |
+| CPU | Internal control fault |
 
 ## Common Causes by Fault
 
@@ -55,11 +55,10 @@ The Mitsubishi FR-D700 is a compact inverter drive used on conveyors, small pump
 
 | Part | Notes |
 |---|---|
-| [Cooling fan](https://www.amazon.com/s?k=Cooling%20fan&tag=errorcodefixe-20) | Common thermal trip cause |
-| [Keypad](https://www.amazon.com/s?k=Keypad&tag=errorcodefixe-20) | For damaged display/buttons |
-| [Replacement FR-D700 drive](https://www.amazon.com/s?k=Replacement%20FR-D700%20drive&tag=errorcodefixe-20) | For CPU faults |
-| [Braking resistor](https://www.amazon.com/s?k=Braking%20resistor&tag=errorcodefixe-20) | If fast stop is application-critical |
-
+| Cooling fan | [Amazon](https://www.amazon.com/s?k=Cooling+fan&tag=errorcodefixes-20) \| Common thermal trip cause |
+| Keypad | [Amazon](https://www.amazon.com/s?k=Keypad&tag=errorcodefixes-20) \| For damaged display/buttons |
+| Replacement FR-D700 drive | [Amazon](https://www.amazon.com/s?k=Replacement+FR-D700+drive&tag=errorcodefixes-20) \| For CPU faults |
+| Braking resistor | [Amazon](https://www.amazon.com/s?k=Braking+resistor&tag=errorcodefixes-20) \| If fast stop is application-critical |
 ## When to Call a Pro
 
 Persistent CPU faults or repeated GF trips with the motor disconnected usually mean internal inverter damage. Mitsubishi drive service or a qualified controls technician should evaluate before the drive is put back into production.

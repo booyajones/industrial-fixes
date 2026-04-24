@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Rinnai Error Code 25 — Causes & Fix"
 description: "What Rinnai 25 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,10 +36,9 @@ Rinnai error code 25 means the thermal fuse or overheat cutoff has activated. Ri
 
 | Part | Notes |
 |------|-------|
-| [Thermal fuse (one-time trip)](https://www.amazon.com/s?k=Thermal%20fuse%20(one-time%20trip)&tag=errorcodefixe-20) | Model-specific; Rinnai part number stamped on old fuse — must match |
-| [Vent termination cap (Rinnai-approved)](https://www.amazon.com/s?k=Vent%20termination%20cap%20(Rinnai-approved)&tag=errorcodefixe-20) | Replace if blockage was in the cap |
-| [Vent pipe (3" or 4" PVC schedule 40)](https://www.amazon.com/s?k=Vent%20pipe%20(3%22%20or%204%22%20PVC%20schedule%2040)&tag=errorcodefixe-20) | Reroute if run length exceeded spec |
-
+| Thermal fuse (one-time trip) | [Amazon](https://www.amazon.com/s?k=Thermal+fuse+%28one-time+trip%29&tag=errorcodefixes-20) \| Model-specific; Rinnai part number stamped on old fuse — must match |
+| Vent termination cap (Rinnai-approved) | [Amazon](https://www.amazon.com/s?k=Vent+termination+cap+%28Rinnai-approved%29&tag=errorcodefixes-20) \| Replace if blockage was in the cap |
+| Vent pipe (3" or 4" PVC schedule 40) | [Amazon](https://www.amazon.com/s?k=Vent+pipe+%283%22+or+4%22+PVC+schedule+40%29&tag=errorcodefixes-20) \| Reroute if run length exceeded spec |
 ## When to Call a Pro
 
 A thermal fuse that blows again shortly after replacement means the root cause wasn't fully corrected. A Navien-certified tech (or Rinnai service tech) can do a combustion analysis and verify vent performance with proper instruments.

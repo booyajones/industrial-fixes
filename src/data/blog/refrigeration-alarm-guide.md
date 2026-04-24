@@ -54,13 +54,12 @@ Before you reach for gauges, check box temperature, airflow, coil condition, con
 
 | Item | Notes |
 |------|-------|
-| Probe / thermistor | Cheap part, common failure |
-| Condenser brush or coil cleaner | Dirty condensers are everywhere |
-| Fan motor | Evaporator and condenser fan failures are common |
-| Door gasket | Warm-box issues on walk-ins and merchandisers |
-| Defrost heater / timer | For recurring defrost alarms |
-| Controller manual | Alarm meanings vary by platform |
-
+| Probe / thermistor | [Amazon](https://www.amazon.com/s?k=Probe+%2F+thermistor&tag=errorcodefixes-20) \| Cheap part, common failure |
+| Condenser brush or coil cleaner | [Amazon](https://www.amazon.com/s?k=Condenser+brush+or+coil+cleaner&tag=errorcodefixes-20) \| Dirty condensers are everywhere |
+| Fan motor | [Amazon](https://www.amazon.com/s?k=Fan+motor&tag=errorcodefixes-20) \| Evaporator and condenser fan failures are common |
+| Door gasket | [Amazon](https://www.amazon.com/s?k=Door+gasket&tag=errorcodefixes-20) \| Warm-box issues on walk-ins and merchandisers |
+| Defrost heater / timer | [Amazon](https://www.amazon.com/s?k=Defrost+heater+%2F+timer&tag=errorcodefixes-20) \| For recurring defrost alarms |
+| Controller manual | [Amazon](https://www.amazon.com/s?k=Controller+manual&tag=errorcodefixes-20) \| Alarm meanings vary by platform |
 ## When to Call a Pro
 
 If the alarm points to high temperature with weak cooling, or if a defrost alarm repeats after heaters and sensors check out, it is time for refrigeration tools and a real pressure-temperature diagnosis.

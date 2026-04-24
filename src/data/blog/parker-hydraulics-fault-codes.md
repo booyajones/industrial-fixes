@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Parker Hydraulics Fault Codes - Complete Guide"
 description: "Parker Hannifin hydraulic system fault codes for proportional valves, servo drives, and hydraulic power units: causes and fixes."
 pubDatetime: 2026-04-22T20:00:00Z
@@ -16,11 +16,18 @@ tags:
 
 Parker Hannifin hydraulic systems include servo proportional valves (D1FT, D3FT), electronic amplifier cards (PCD, IQAN), and hydraulic power units. Faults display on amplifier LEDs, IQAN displays, or Parker SSD drives.
 
-| [Fault / Code](https://www.amazon.com/s?k=Fault%20%2F%20Code&tag=errorcodefixe-20) | Meaning | Quick Fix | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------------- |---------|-----------|
-| F01 - Supply Voltage Low | [Amplifier supply below limit](https://www.amazon.com/s?k=Amplifier%20supply%20below%20limit&tag=errorcodefixe-20) | Check 24VDC supply |
-| [F02 - Supply Voltage High](https://www.amazon.com/s?k=F02%20-%20Supply%20Voltage%20High&tag=errorcodefixe-20) | Over-voltage on amplifier | Check power supply | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | F03 - Solenoid Overcurrent | Valve coil short or overload | [Check valve wiring and coil](https://www.amazon.com/s?k=Check%20valve%20wiring%20and%20coil&tag=errorcodefixe-20) |  | F04 - Position Sensor Fault | [LVDT or potentiometer signal bad](https://www.amazon.com/s?k=LVDT%20or%20potentiometer%20signal%20bad&tag=errorcodefixe-20) | Check sensor wiring and supply |
-| [F05 - Temperature High](https://www.amazon.com/s?k=F05%20-%20Temperature%20High&tag=errorcodefixe-20) | Amplifier overtemp | Check cabinet cooling | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | F06 - Communication Fault | Serial or fieldbus link lost | [Check cable and address](https://www.amazon.com/s?k=Check%20cable%20and%20address&tag=errorcodefixe-20) |  | IQAN: System Pressure Low | [HPU not reaching set pressure](https://www.amazon.com/s?k=HPU%20not%20reaching%20set%20pressure&tag=errorcodefixe-20) | Check pump, relief valve, oil level |
-| [IQAN: Temperature High](https://www.amazon.com/s?k=IQAN%3A%20Temperature%20High&tag=errorcodefixe-20) | Oil temperature exceeded | Check oil cooler and fan | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | IQAN: Filter Blocked | Hydraulic filter DP exceeded | [Replace filter element](https://www.amazon.com/s?k=Replace%20filter%20element&tag=errorcodefixe-20) |  | SSD: Overcurrent | [Parker SSD drive fault](https://www.amazon.com/s?k=Parker%20SSD%20drive%20fault&tag=errorcodefixe-20) | Check motor and wiring |
+| Fault / Code | Meaning | Quick Fix |
+|-------------|---------|-----------|
+| F01 - Supply Voltage Low | Amplifier supply below limit | Check 24VDC supply |
+| F02 - Supply Voltage High | Over-voltage on amplifier | Check power supply |
+| F03 - Solenoid Overcurrent | Valve coil short or overload | Check valve wiring and coil |
+| F04 - Position Sensor Fault | LVDT or potentiometer signal bad | Check sensor wiring and supply |
+| F05 - Temperature High | Amplifier overtemp | Check cabinet cooling |
+| F06 - Communication Fault | Serial or fieldbus link lost | Check cable and address |
+| IQAN: System Pressure Low | HPU not reaching set pressure | Check pump, relief valve, oil level |
+| IQAN: Temperature High | Oil temperature exceeded | Check oil cooler and fan |
+| IQAN: Filter Blocked | Hydraulic filter DP exceeded | Replace filter element |
+| SSD: Overcurrent | Parker SSD drive fault | Check motor and wiring |
 
 ## Most Common Faults
 
@@ -40,12 +47,11 @@ Parker HPU coolers can be air-cooled or water-cooled. Air-cooled: check fan oper
 
 | Part | Notes |
 |------|-------|
-| [Hydraulic filter element](https://www.amazon.com/s?k=Hydraulic%20filter%20element&tag=errorcodefixe-20) | Replace on DP high fault |
-| [Proportional valve coil](https://www.amazon.com/s?k=Proportional%20valve%20coil&tag=errorcodefixe-20) | Replace on solenoid overcurrent |
-| [LVDT position sensor](https://www.amazon.com/s?k=LVDT%20position%20sensor&tag=errorcodefixe-20) | Replace on position fault |
-| [Parker amplifier card (PCD)](https://www.amazon.com/s?k=Parker%20amplifier%20card%20(PCD)&tag=errorcodefixe-20) | Replace on repeated electronics faults |
-| [Seal kit for HPU pump](https://www.amazon.com/s?k=Seal%20kit%20for%20HPU%20pump&tag=errorcodefixe-20) | Common after high-hour operation |
-
+| Hydraulic filter element | [Amazon](https://www.amazon.com/s?k=Hydraulic+filter+element&tag=errorcodefixes-20) \| Replace on DP high fault |
+| Proportional valve coil | [Amazon](https://www.amazon.com/s?k=Proportional+valve+coil&tag=errorcodefixes-20) \| Replace on solenoid overcurrent |
+| LVDT position sensor | [Amazon](https://www.amazon.com/s?k=LVDT+position+sensor&tag=errorcodefixes-20) \| Replace on position fault |
+| Parker amplifier card (PCD) | [Amazon](https://www.amazon.com/s?k=Parker+amplifier+card+%28PCD%29&tag=errorcodefixes-20) \| Replace on repeated electronics faults |
+| Seal kit for HPU pump | [Amazon](https://www.amazon.com/s?k=Seal+kit+for+HPU+pump&tag=errorcodefixes-20) \| Common after high-hour operation |
 ## When to Call a Pro
 Parker proportional valve tuning (gain, dither, ramp settings) and IQAN programming require trained personnel. Mis-tuned proportional valves can cause machine oscillation or dangerous runaway motion.
 

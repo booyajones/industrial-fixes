@@ -54,13 +54,12 @@ The same blink pattern does not mean the same thing on every brand. Always pair 
 
 | Item | Notes |
 |------|-------|
-| Indoor filter | Most overlooked mini split maintenance item |
-| Thermistors | Cheap parts that trigger lots of codes |
-| Communication wire | Common install and rodent damage issue |
-| Indoor fan motor | For fan speed and freeze complaints |
-| Outdoor PCB | For inverter and communication faults |
-| Service manual | Often the fastest path on private-label brands |
-
+| Indoor filter | [Amazon](https://www.amazon.com/s?k=Indoor+filter&tag=errorcodefixes-20) \| Most overlooked mini split maintenance item |
+| Thermistors | [Amazon](https://www.amazon.com/s?k=Thermistors&tag=errorcodefixes-20) \| Cheap parts that trigger lots of codes |
+| Communication wire | [Amazon](https://www.amazon.com/s?k=Communication+wire&tag=errorcodefixes-20) \| Common install and rodent damage issue |
+| Indoor fan motor | [Amazon](https://www.amazon.com/s?k=Indoor+fan+motor&tag=errorcodefixes-20) \| For fan speed and freeze complaints |
+| Outdoor PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB&tag=errorcodefixes-20) \| For inverter and communication faults |
+| Service manual | [Amazon](https://www.amazon.com/s?k=Service+manual&tag=errorcodefixes-20) \| Often the fastest path on private-label brands |
 ## When to Call a Pro
 
 If the blinking lights trace back to an inverter protection fault, compressor fault, or suspected refrigerant issue, stop resetting it and call a mini split tech. Repeatedly forcing a faulted inverter system to restart is how cheap problems become expensive ones.

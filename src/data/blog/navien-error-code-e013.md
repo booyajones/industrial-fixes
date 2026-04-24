@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Navien Error Code E013 — Causes & Fix"
 description: "What Navien error code E013 means, why the domestic hot water inlet sensor faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -37,9 +37,8 @@ Navien E013 indicates a **domestic hot water (DHW) inlet temperature sensor faul
 
 | Part | Notes |
 |------|-------|
-| [DHW inlet thermistor](https://www.amazon.com/s?k=DHW%20inlet%20thermistor&tag=errorcodefixe-20) | Navien model-specific — verify part number for NPE vs. NR series |
-| [Thermistor connector repair kit](https://www.amazon.com/s?k=Thermistor%20connector%20repair%20kit&tag=errorcodefixe-20) | If pins are corroded and sensor itself is good |
-
+| DHW inlet thermistor | [Amazon](https://www.amazon.com/s?k=DHW+inlet+thermistor&tag=errorcodefixes-20) \| Navien model-specific — verify part number for NPE vs. NR series |
+| Thermistor connector repair kit | [Amazon](https://www.amazon.com/s?k=Thermistor+connector+repair+kit&tag=errorcodefixes-20) \| If pins are corroded and sensor itself is good |
 ## When to Call a Pro
 
 If the sensor measures in-spec and connections are clean but E013 persists, the PCB has a failed input and requires replacement. Navien PCB replacement should be done by a Navien-trained technician to ensure the new board is matched and configured correctly for your unit's model and gas type.

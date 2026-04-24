@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Siemens Sinumerik Alarm 380500 — Causes & Fix"
 description: "What Siemens Sinumerik alarm 380500 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,10 +36,9 @@ Siemens Sinumerik alarm 380500 (%1 is a group alarm for drive (SINAMICS/611D) fa
 
 | Part | Notes |
 |------|-------|
-| [DRIVE-CLiQ cable](https://www.amazon.com/s?k=DRIVE-CLiQ%20cable&tag=errorcodefixe-20) | Replace if signal quality is degraded or cable is physically damaged |
-| [SINAMICS S120 motor module](https://www.amazon.com/s?k=SINAMICS%20S120%20motor%20module&tag=errorcodefixe-20) | Replace if hardware fault confirmed in drive diagnostics |
-| [Encoder cable (SMC to motor)](https://www.amazon.com/s?k=Encoder%20cable%20(SMC%20to%20motor)&tag=errorcodefixe-20) | Replace if encoder fault is the confirmed sub-fault |
-
+| DRIVE-CLiQ cable | [Amazon](https://www.amazon.com/s?k=DRIVE-CLiQ+cable&tag=errorcodefixes-20) \| Replace if signal quality is degraded or cable is physically damaged |
+| SINAMICS S120 motor module | [Amazon](https://www.amazon.com/s?k=SINAMICS+S120+motor+module&tag=errorcodefixes-20) \| Replace if hardware fault confirmed in drive diagnostics |
+| Encoder cable (SMC to motor) | [Amazon](https://www.amazon.com/s?k=Encoder+cable+%28SMC+to+motor%29&tag=errorcodefixes-20) \| Replace if encoder fault is the confirmed sub-fault |
 ## When to Call a Pro
 
 Sinumerik 840D/840Dsl systems require Siemens commissioning software (Starter or SINAMICS Startdrive) to properly diagnose drive-level faults and re-commission servo parameters after a motor module replacement. This work is typically performed by a Siemens-certified service engineer.

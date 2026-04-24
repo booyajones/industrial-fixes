@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Trane Rooftop Unit Fault 77 — High Pressure Cutout"
 description: "Trane RTU Fault 77 means a high-pressure cutout on the refrigerant circuit. Learn the exact causes, diagnostic steps, and fixes for this commercial HVAC fault."
 pubDatetime: 2026-04-22T17:00:00Z
@@ -29,15 +29,15 @@ The high-pressure switch monitors refrigerant discharge pressure. For R-410A sys
 
 ## Common Causes {#most-likely-cause}
 
-| [Cause](https://www.amazon.com/s?k=Cause&tag=errorcodefixe-20) | Likelihood |
+| Cause | Likelihood |
 |---|---|
-| [Dirty or blocked condenser coil](https://www.amazon.com/s?k=Dirty%20or%20blocked%20condenser%20coil&tag=errorcodefixe-20) | Very High |
-| [One or more condenser fan motors not running](https://www.amazon.com/s?k=One%20or%20more%20condenser%20fan%20motors%20not%20running&tag=errorcodefixe-20) | Very High |
-| [Refrigerant overcharge](https://www.amazon.com/s?k=Refrigerant%20overcharge&tag=errorcodefixe-20) | Medium |
-| [Failed condenser fan capacitor](https://www.amazon.com/s?k=Failed%20condenser%20fan%20capacitor&tag=errorcodefixe-20) | Medium |
-| [Non-condensables in refrigerant circuit](https://www.amazon.com/s?k=Non-condensables%20in%20refrigerant%20circuit&tag=errorcodefixe-20) | Medium |
-| [Defective high-pressure switch](https://www.amazon.com/s?k=Defective%20high-pressure%20switch&tag=errorcodefixe-20) | Low |
-| [Restricted liquid line or TXV](https://www.amazon.com/s?k=Restricted%20liquid%20line%20or%20TXV&tag=errorcodefixe-20) | Low |
+| Dirty or blocked condenser coil | Very High |
+| One or more condenser fan motors not running | Very High |
+| Refrigerant overcharge | Medium |
+| Failed condenser fan capacitor | Medium |
+| Non-condensables in refrigerant circuit | Medium |
+| Defective high-pressure switch | Low |
+| Restricted liquid line or TXV | Low |
 
 ## Step-by-Step Diagnosis {#diagnosis}
 
@@ -80,9 +80,8 @@ Trane RTUs require a manual reset for Fault 77 in most configurations:
 
 | Part | Notes |
 |---|---|
-| [Condenser fan run capacitor](https://www.amazon.com/s?k=Condenser%20fan%20run%20capacitor&tag=errorcodefixe-20) | Match µF and voltage — 370V or 440V AC |
-| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | Match HP, RPM, rotation direction |
-| [High-pressure switch](https://www.amazon.com/s?k=High-pressure%20switch&tag=errorcodefixe-20) | Trane part BRD05072 or equivalent — match trip pressure |
-| [TXV valve](https://www.amazon.com/s?k=TXV%20valve&tag=errorcodefixe-20) | Model-specific — match refrigerant type |
-
+| Condenser fan run capacitor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+run+capacitor&tag=errorcodefixes-20) \| Match µF and voltage — 370V or 440V AC |
+| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Match HP, RPM, rotation direction |
+| High-pressure switch | [Amazon](https://www.amazon.com/s?k=High-pressure+switch&tag=errorcodefixes-20) \| Trane part BRD05072 or equivalent — match trip pressure |
+| TXV valve | [Amazon](https://www.amazon.com/s?k=TXV+valve&tag=errorcodefixes-20) \| Model-specific — match refrigerant type |
 > **Pro tip:** On hot summer days, high head pressure is often entirely caused by a dirty condenser coil or a stopped condenser fan. Clean the coil and replace the capacitor before assuming refrigerant issues.

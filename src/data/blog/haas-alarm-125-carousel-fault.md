@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Haas Alarm 125 Tool Carousel Fault — Causes & Fix"
 description: "What Haas Alarm 125 tool carousel fault means, why it trips, and how to diagnose and fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,10 +36,9 @@ Haas **Alarm 125** indicates a **tool carousel fault**. On Haas mills with an um
 
 | Part | Notes |
 |------|-------|
-| [Carousel proximity switch](https://www.amazon.com/s?k=Carousel%20proximity%20switch&tag=errorcodefixe-20) | Replace if the LED state does not change at the expected position |
-| [Carousel motor or gearbox](https://www.amazon.com/s?k=Carousel%20motor%20or%20gearbox&tag=errorcodefixe-20) | Replace when the carousel stalls or rotates unevenly |
-| [Tool holder / pull stud](https://www.amazon.com/s?k=Tool%20holder%20%2F%20pull%20stud&tag=errorcodefixe-20) | Replace if a damaged holder is hanging in the pocket |
-
+| Carousel proximity switch | [Amazon](https://www.amazon.com/s?k=Carousel+proximity+switch&tag=errorcodefixes-20) \| Replace if the LED state does not change at the expected position |
+| Carousel motor or gearbox | [Amazon](https://www.amazon.com/s?k=Carousel+motor+or+gearbox&tag=errorcodefixes-20) \| Replace when the carousel stalls or rotates unevenly |
+| Tool holder / pull stud | [Amazon](https://www.amazon.com/s?k=Tool+holder+%2F+pull+stud&tag=errorcodefixes-20) \| Replace if a damaged holder is hanging in the pocket |
 ## When to Call a Pro
 
 If the carousel is mechanically jammed and ATC recovery cannot return it to home, stop there. Forcing the changer can bend the arm or damage the carousel plate. Haas Factory Outlet service is the right move in that situation.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "ABB VFD Fault 5010 — Causes & Fix"
 description: "What ABB VFD fault 5010 means, why Safe Torque Off activates, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,11 +36,10 @@ Fault 5010 on ABB ACS drives (ACS580, ACS880, ACH580) indicates that the Safe To
 
 | Part | Notes |
 |------|-------|
-| [Safety relay (24VDC)](https://www.amazon.com/s?k=Safety%20relay%20(24VDC)&tag=errorcodefixe-20) | Match safety relay series (Pilz, Schmersal, Sick, etc.) |
-| [ABB STO option card (FSIO)](https://www.amazon.com/s?k=ABB%20STO%20option%20card%20(FSIO)&tag=errorcodefixe-20) | ACS880 drives with separate STO option module |
-| [24VDC control power supply](https://www.amazon.com/s?k=24VDC%20control%20power%20supply&tag=errorcodefixe-20) | Replace if STO supply is failed |
-| [STO wiring (24VDC, shielded)](https://www.amazon.com/s?k=STO%20wiring%20(24VDC%2C%20shielded)&tag=errorcodefixe-20) | Replace any damaged conductors in the STO circuit |
-
+| Safety relay (24VDC) | [Amazon](https://www.amazon.com/s?k=Safety+relay+%2824VDC%29&tag=errorcodefixes-20) \| Match safety relay series (Pilz, Schmersal, Sick, etc.) |
+| ABB STO option card (FSIO) | [Amazon](https://www.amazon.com/s?k=ABB+STO+option+card+%28FSIO%29&tag=errorcodefixes-20) \| ACS880 drives with separate STO option module |
+| 24VDC control power supply | [Amazon](https://www.amazon.com/s?k=24VDC+control+power+supply&tag=errorcodefixes-20) \| Replace if STO supply is failed |
+| STO wiring (24VDC, shielded) | [Amazon](https://www.amazon.com/s?k=STO+wiring+%2824VDC%2C+shielded%29&tag=errorcodefixes-20) \| Replace any damaged conductors in the STO circuit |
 ## When to Call a Pro
 
 Modifying or bypassing STO safety circuits is a machinery safety violation and must never be done to get a machine running. Fault 5010 without an obvious safety trigger requires a certified safety engineer and/or ABB service technician to diagnose the STO circuit.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Goodman 1 Flash Error Code — What It Means"
 description: "What Goodman 1 flash status LED means, why it indicates normal operation, and what to check if your furnace still isn't heating."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -37,10 +37,9 @@ On Goodman furnaces, **1 flash on the status LED indicates normal operation with
 
 | Part | Notes |
 |------|-------|
-| [Control board fuse (3A or 5A)](https://www.amazon.com/s?k=Control%20board%20fuse%20(3A%20or%205A)&tag=errorcodefixe-20) | Small ATO/ATC blade fuse on the board; always replace with same rating |
-| [Door interlock switch](https://www.amazon.com/s?k=Door%20interlock%20switch&tag=errorcodefixe-20) | Push-button switch on the blower compartment; inexpensive and easy to replace |
-| [Thermostat](https://www.amazon.com/s?k=Thermostat&tag=errorcodefixe-20) | If thermostat isn't generating the 24V W signal |
-
+| Control board fuse (3A or 5A) | [Amazon](https://www.amazon.com/s?k=Control+board+fuse+%283A+or+5A%29&tag=errorcodefixes-20) \| Small ATO/ATC blade fuse on the board; always replace with same rating |
+| Door interlock switch | [Amazon](https://www.amazon.com/s?k=Door+interlock+switch&tag=errorcodefixes-20) \| Push-button switch on the blower compartment; inexpensive and easy to replace |
+| Thermostat | [Amazon](https://www.amazon.com/s?k=Thermostat&tag=errorcodefixes-20) \| If thermostat isn't generating the 24V W signal |
 ## When to Call a Pro
 
 A 1-flash condition means the board itself is healthy — if you've confirmed the thermostat is calling for heat, all wiring is secure, and the door switch closes properly, but the furnace still won't initiate a heating cycle, there may be a soft lockout condition from a prior fault. Have a technician read the full fault history from the board to identify what tripped it.

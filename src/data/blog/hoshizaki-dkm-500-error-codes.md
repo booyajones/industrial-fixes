@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Hoshizaki DKM-500 cube dispenser error codes, diagnostic LED codes, common fault causes, and step-by-step repair procedures."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -20,20 +20,20 @@ The Hoshizaki DKM-500 is a self-contained cube ice dispenser producing approxima
 
 ## Hoshizaki DKM-500 Error Code Reference
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Fault |
+| Code | Fault |
 |---|---|
-| [E1](https://www.amazon.com/s?k=E1&tag=errorcodefixe-20) | Freeze cycle time exceeded — over-time |
-| [E2](https://www.amazon.com/s?k=E2&tag=errorcodefixe-20) | High-pressure cutout |
-| [E3](https://www.amazon.com/s?k=E3&tag=errorcodefixe-20) | Low-pressure cutout / loss of charge |
-| [E4](https://www.amazon.com/s?k=E4&tag=errorcodefixe-20) | Evaporator temperature sensor fault |
-| [E5](https://www.amazon.com/s?k=E5&tag=errorcodefixe-20) | Water inlet temperature sensor fault |
-| [E6](https://www.amazon.com/s?k=E6&tag=errorcodefixe-20) | Control board communication fault |
-| [E7](https://www.amazon.com/s?k=E7&tag=errorcodefixe-20) | Dispenser mechanism fault |
-| [E8](https://www.amazon.com/s?k=E8&tag=errorcodefixe-20) | Water supply fault |
-| [E9](https://www.amazon.com/s?k=E9&tag=errorcodefixe-20) | Float switch fault — water level |
-| [F1](https://www.amazon.com/s?k=F1&tag=errorcodefixe-20) | Condenser fan motor fault |
-| [F2](https://www.amazon.com/s?k=F2&tag=errorcodefixe-20) | Hot gas valve fault |
-| [F3](https://www.amazon.com/s?k=F3&tag=errorcodefixe-20) | Harvest assist motor fault (dispenser) |
+| E1 | Freeze cycle time exceeded — over-time |
+| E2 | High-pressure cutout |
+| E3 | Low-pressure cutout / loss of charge |
+| E4 | Evaporator temperature sensor fault |
+| E5 | Water inlet temperature sensor fault |
+| E6 | Control board communication fault |
+| E7 | Dispenser mechanism fault |
+| E8 | Water supply fault |
+| E9 | Float switch fault — water level |
+| F1 | Condenser fan motor fault |
+| F2 | Hot gas valve fault |
+| F3 | Harvest assist motor fault (dispenser) |
 
 ## Common Causes by Code
 
@@ -55,13 +55,12 @@ The Hoshizaki DKM-500 is a self-contained cube ice dispenser producing approxima
 
 | Part | Notes |
 |---|---|
-| [Water inlet valve](https://www.amazon.com/s?k=Water%20inlet%20valve&tag=errorcodefixe-20) | Solenoid coil or complete valve assembly |
-| [Float switch](https://www.amazon.com/s?k=Float%20switch&tag=errorcodefixe-20) | Specific to DKM dispenser design |
-| [Dispenser motor](https://www.amazon.com/s?k=Dispenser%20motor&tag=errorcodefixe-20) | Check for ice jam before ordering |
-| [Evaporator thermistor](https://www.amazon.com/s?k=Evaporator%20thermistor&tag=errorcodefixe-20) | For E4; check resistance at room temperature |
-| [High-pressure switch](https://www.amazon.com/s?k=High-pressure%20switch&tag=errorcodefixe-20) | Manual-reset; check cutout pressure rating |
-| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | Match existing HP and blade size |
-
+| Water inlet valve | [Amazon](https://www.amazon.com/s?k=Water+inlet+valve&tag=errorcodefixes-20) \| Solenoid coil or complete valve assembly |
+| Float switch | [Amazon](https://www.amazon.com/s?k=Float+switch&tag=errorcodefixes-20) \| Specific to DKM dispenser design |
+| Dispenser motor | [Amazon](https://www.amazon.com/s?k=Dispenser+motor&tag=errorcodefixes-20) \| Check for ice jam before ordering |
+| Evaporator thermistor | [Amazon](https://www.amazon.com/s?k=Evaporator+thermistor&tag=errorcodefixes-20) \| For E4; check resistance at room temperature |
+| High-pressure switch | [Amazon](https://www.amazon.com/s?k=High-pressure+switch&tag=errorcodefixes-20) \| Manual-reset; check cutout pressure rating |
+| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Match existing HP and blade size |
 ## When to Call a Pro
 
 Healthcare-installed DKM-500 units are subject to NSF sanitation requirements and manufacturer maintenance schedules. Any refrigerant repair requires EPA 608 certification. The DKM-500 dispenser mechanism disassembly requires familiarity with Hoshizaki's specific assembly — a certified Hoshizaki service agent should perform major dispenser repairs to maintain the warranty and NSF certification.

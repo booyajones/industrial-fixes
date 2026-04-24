@@ -1,4 +1,4 @@
-﻿---
+---
 title: "ecobee Thermostat E1 Error — Heating System Fault"
 description: "What the ecobee E1 error code means, why the heating system fault triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -38,11 +38,10 @@ The ecobee SmartThermostat displays an E1 alert when it detects a heating system
 
 | Part | Notes |
 |------|-------|
-| [C-wire adapter (PEK)](https://www.amazon.com/s?k=C-wire%20adapter%20(PEK)&tag=errorcodefixe-20) | If no C wire exists at the thermostat — ecobee includes one in the box |
-| [18/5 thermostat wire](https://www.amazon.com/s?k=18%2F5%20thermostat%20wire&tag=errorcodefixe-20) | If existing wire is damaged or too short to add C wire |
-| [Furnace hot surface ignitor](https://www.amazon.com/s?k=Furnace%20hot%20surface%20ignitor&tag=errorcodefixe-20) | If the furnace itself is locked out on ignition failure |
-| [ecobee SmartThermostat](https://www.amazon.com/s?k=ecobee%20SmartThermostat&tag=errorcodefixe-20) | If thermostat hardware is confirmed faulty after configuration checks |
-
+| C-wire adapter (PEK) | [Amazon](https://www.amazon.com/s?k=C-wire+adapter+%28PEK%29&tag=errorcodefixes-20) \| If no C wire exists at the thermostat — ecobee includes one in the box |
+| 18/5 thermostat wire | [Amazon](https://www.amazon.com/s?k=18%2F5+thermostat+wire&tag=errorcodefixes-20) \| If existing wire is damaged or too short to add C wire |
+| Furnace hot surface ignitor | [Amazon](https://www.amazon.com/s?k=Furnace+hot+surface+ignitor&tag=errorcodefixes-20) \| If the furnace itself is locked out on ignition failure |
+| ecobee SmartThermostat | [Amazon](https://www.amazon.com/s?k=ecobee+SmartThermostat&tag=errorcodefixes-20) \| If thermostat hardware is confirmed faulty after configuration checks |
 ## When to Call a Pro
 
 If the furnace is operating normally but ecobee keeps logging E1, the issue is likely in the thermostat configuration or sensor placement — both are DIY-friendly fixes. If the furnace itself has a locked-out fault code you can't diagnose, an HVAC technician should be the next call, not an ecobee support ticket.

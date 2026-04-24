@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ice Machine Error Code Lookup: All Brands"
 description: "Master ice machine error code lookup guide covering Hoshizaki, Manitowoc, Scotsman, Ice-O-Matic, Follett, and more."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -20,14 +20,14 @@ Ice machine codes usually point to freeze time, harvest time, water level, conde
 
 ## Common Ice Machine Fault Patterns
 
-| [Fault Type](https://www.amazon.com/s?k=Fault%20Type&tag=errorcodefixe-20) | What It Usually Means |
+| Fault Type | What It Usually Means |
 |---|---|
-| [Long freeze](https://www.amazon.com/s?k=Long%20freeze&tag=errorcodefixe-20) | Scale, dirty condenser, low charge, warm water |
-| [Long harvest](https://www.amazon.com/s?k=Long%20harvest&tag=errorcodefixe-20) | Hot gas issue, curtain/gate problem, slab release issue |
-| [High pressure](https://www.amazon.com/s?k=High%20pressure&tag=errorcodefixe-20) | Condenser dirty or fan/water regulation problem |
-| [Water fault](https://www.amazon.com/s?k=Water%20fault&tag=errorcodefixe-20) | Float switch, inlet valve, low pressure |
-| [Sensor fault](https://www.amazon.com/s?k=Sensor%20fault&tag=errorcodefixe-20) | Thermistor or float reading out of range |
-| [Bin full / dispenser fault](https://www.amazon.com/s?k=Bin%20full%20%2F%20dispenser%20fault&tag=errorcodefixe-20) | Bin switch, auger, gate, or dispenser jam |
+| Long freeze | Scale, dirty condenser, low charge, warm water |
+| Long harvest | Hot gas issue, curtain/gate problem, slab release issue |
+| High pressure | Condenser dirty or fan/water regulation problem |
+| Water fault | Float switch, inlet valve, low pressure |
+| Sensor fault | Thermistor or float reading out of range |
+| Bin full / dispenser fault | Bin switch, auger, gate, or dispenser jam |
 
 ## Brand Hubs Covered
 
@@ -50,12 +50,11 @@ Ice machine codes usually point to freeze time, harvest time, water level, conde
 
 | Part | Notes |
 |---|---|
-| [Water inlet valve](https://www.amazon.com/s?k=Water%20inlet%20valve&tag=errorcodefixe-20) | Fill issues |
-| [Float switch](https://www.amazon.com/s?k=Float%20switch&tag=errorcodefixe-20) | Water level faults |
-| [Thermistor](https://www.amazon.com/s?k=Thermistor&tag=errorcodefixe-20) | Freeze/harvest sensor problems |
-| [Hot gas valve](https://www.amazon.com/s?k=Hot%20gas%20valve&tag=errorcodefixe-20) | Harvest faults |
-| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | High-pressure trips |
-
+| Water inlet valve | [Amazon](https://www.amazon.com/s?k=Water+inlet+valve&tag=errorcodefixes-20) \| Fill issues |
+| Float switch | [Amazon](https://www.amazon.com/s?k=Float+switch&tag=errorcodefixes-20) \| Water level faults |
+| Thermistor | [Amazon](https://www.amazon.com/s?k=Thermistor&tag=errorcodefixes-20) \| Freeze/harvest sensor problems |
+| Hot gas valve | [Amazon](https://www.amazon.com/s?k=Hot+gas+valve&tag=errorcodefixes-20) \| Harvest faults |
+| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| High-pressure trips |
 ## When to Call a Pro
 
 If the machine is in a foodservice or healthcare setting and codes continue after cleaning and basic checks, bring in a commercial refrigeration tech. Ice quality, sanitation, and production rate all matter, not just whether the machine turns on.

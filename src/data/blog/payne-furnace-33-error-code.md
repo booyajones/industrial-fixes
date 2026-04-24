@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Payne Furnace 33 Error Code — Causes & Fix"
 description: "What Payne furnace error code 33 means, why the limit device trips, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -37,10 +37,9 @@ Code 33 on a Payne furnace means the limit device has opened and locked out the 
 
 | Part | Notes |
 |------|-------|
-| [High-limit switch](https://www.amazon.com/s?k=High-limit%20switch&tag=errorcodefixe-20) | Match temperature rating (e.g., 200°F) and mounting style |
-| [Rollout limit switch](https://www.amazon.com/s?k=Rollout%20limit%20switch&tag=errorcodefixe-20) | Often auto-reset; manual-reset models require button press after fixing root cause |
-| [Blower motor run capacitor](https://www.amazon.com/s?k=Blower%20motor%20run%20capacitor&tag=errorcodefixe-20) | Match µF and VAC rating printed on the old capacitor |
-
+| High-limit switch | [Amazon](https://www.amazon.com/s?k=High-limit+switch&tag=errorcodefixes-20) \| Match temperature rating (e.g., 200°F) and mounting style |
+| Rollout limit switch | [Amazon](https://www.amazon.com/s?k=Rollout+limit+switch&tag=errorcodefixes-20) \| Often auto-reset; manual-reset models require button press after fixing root cause |
+| Blower motor run capacitor | [Amazon](https://www.amazon.com/s?k=Blower+motor+run+capacitor&tag=errorcodefixes-20) \| Match µF and VAC rating printed on the old capacitor |
 ## When to Call a Pro
 
 If the limit trips repeatedly after cleaning the filter and confirming good airflow, have a technician inspect the heat exchanger for cracks. A cracked heat exchanger can allow combustion gases into the living space and is a carbon monoxide hazard.

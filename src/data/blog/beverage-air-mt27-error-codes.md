@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Beverage-Air MT27 Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Beverage-Air MT27 commercial refrigerator error codes, diagnostic LED codes, common fault causes, and step-by-step repair procedures."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -20,18 +20,18 @@ The Beverage-Air MT27 is a 27-cubic-foot one-section commercial reach-in refrige
 
 ## Beverage-Air MT27 Electronic Controller Error Code Reference
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Fault |
+| Code | Fault |
 |---|---|
-| [E0](https://www.amazon.com/s?k=E0&tag=errorcodefixe-20) | EEPROM fault — controller memory error |
-| [E1](https://www.amazon.com/s?k=E1&tag=errorcodefixe-20) | Cabinet temperature sensor fault |
-| [E2](https://www.amazon.com/s?k=E2&tag=errorcodefixe-20) | Evaporator temperature sensor fault |
-| [E3](https://www.amazon.com/s?k=E3&tag=errorcodefixe-20) | High temperature alarm — cabinet above setpoint |
-| [E4](https://www.amazon.com/s?k=E4&tag=errorcodefixe-20) | Defrost cycle timeout |
-| [E5](https://www.amazon.com/s?k=E5&tag=errorcodefixe-20) | Door open alarm |
-| [E6](https://www.amazon.com/s?k=E6&tag=errorcodefixe-20) | Low temperature alarm |
-| [E7](https://www.amazon.com/s?k=E7&tag=errorcodefixe-20) | Condenser temperature sensor fault (where equipped) |
-| [Hi](https://www.amazon.com/s?k=Hi&tag=errorcodefixe-20) | High temperature display — reading above display limit |
-| [Lo](https://www.amazon.com/s?k=Lo&tag=errorcodefixe-20) | Low temperature display — reading below display limit |
+| E0 | EEPROM fault — controller memory error |
+| E1 | Cabinet temperature sensor fault |
+| E2 | Evaporator temperature sensor fault |
+| E3 | High temperature alarm — cabinet above setpoint |
+| E4 | Defrost cycle timeout |
+| E5 | Door open alarm |
+| E6 | Low temperature alarm |
+| E7 | Condenser temperature sensor fault (where equipped) |
+| Hi | High temperature display — reading above display limit |
+| Lo | Low temperature display — reading below display limit |
 
 ## Common Causes by Code
 
@@ -53,13 +53,12 @@ The Beverage-Air MT27 is a 27-cubic-foot one-section commercial reach-in refrige
 
 | Part | Notes |
 |---|---|
-| [Cabinet temperature sensor](https://www.amazon.com/s?k=Cabinet%20temperature%20sensor&tag=errorcodefixe-20) | NTC thermistor; Beverage-Air part |
-| [Defrost heater](https://www.amazon.com/s?k=Defrost%20heater&tag=errorcodefixe-20) | Match wattage to existing heater |
-| [Defrost termination thermostat](https://www.amazon.com/s?k=Defrost%20termination%20thermostat&tag=errorcodefixe-20) | Check cutout temperature rating |
-| [Electronic controller](https://www.amazon.com/s?k=Electronic%20controller&tag=errorcodefixe-20) | For E0; note model-specific programming needed |
-| [Door gasket](https://www.amazon.com/s?k=Door%20gasket&tag=errorcodefixe-20) | Magnetic; order by door style |
-| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | Match RPM and blade pitch |
-
+| Cabinet temperature sensor | [Amazon](https://www.amazon.com/s?k=Cabinet+temperature+sensor&tag=errorcodefixes-20) \| NTC thermistor; Beverage-Air part |
+| Defrost heater | [Amazon](https://www.amazon.com/s?k=Defrost+heater&tag=errorcodefixes-20) \| Match wattage to existing heater |
+| Defrost termination thermostat | [Amazon](https://www.amazon.com/s?k=Defrost+termination+thermostat&tag=errorcodefixes-20) \| Check cutout temperature rating |
+| Electronic controller | [Amazon](https://www.amazon.com/s?k=Electronic+controller&tag=errorcodefixes-20) \| For E0; note model-specific programming needed |
+| Door gasket | [Amazon](https://www.amazon.com/s?k=Door+gasket&tag=errorcodefixes-20) \| Magnetic; order by door style |
+| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Match RPM and blade pitch |
 ## When to Call a Pro
 
 Beverage-Air MT27 units with persistent high temperature (E3) after condenser cleaning should be checked for refrigerant charge by a licensed refrigeration technician. In convenience store environments, these units often run 24/7 and are subjected to high ambient temperatures — a system that was adequate at installation may be marginal 5–10 years later as component wear accumulates.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mitsubishi E6 AC Error Code — Causes & Fix"
 description: "What Mitsubishi E6 means on AC units specifically, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,10 +36,9 @@ On Mitsubishi air conditioning units (MSZ-GL, MSZ-GE, MSY, and similar cooling-o
 
 | Part | Notes |
 |------|-------|
-| [3-conductor shielded control cable (18 AWG)](https://www.amazon.com/s?k=3-conductor%20shielded%20control%20cable%20(18%20AWG)&tag=errorcodefixe-20) | Replace full run if damage is found anywhere along it |
-| [Outdoor PCB](https://www.amazon.com/s?k=Outdoor%20PCB&tag=errorcodefixe-20) | If wiring is confirmed good and E6 persists, outdoor board is the next suspect |
-| [Indoor PCB](https://www.amazon.com/s?k=Indoor%20PCB&tag=errorcodefixe-20) | Less commonly the cause, but possible if outdoor board passes self-test |
-
+| 3-conductor shielded control cable (18 AWG) | [Amazon](https://www.amazon.com/s?k=3-conductor+shielded+control+cable+%2818+AWG%29&tag=errorcodefixes-20) \| Replace full run if damage is found anywhere along it |
+| Outdoor PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB&tag=errorcodefixes-20) \| If wiring is confirmed good and E6 persists, outdoor board is the next suspect |
+| Indoor PCB | [Amazon](https://www.amazon.com/s?k=Indoor+PCB&tag=errorcodefixes-20) \| Less commonly the cause, but possible if outdoor board passes self-test |
 ## When to Call a Pro
 
 If wiring is confirmed intact, polarities are correct, and E6 persists after a full power cycle, board-level diagnosis requires a Mitsubishi-authorized technician with Diamond tool access to read fault history and test communication signals.

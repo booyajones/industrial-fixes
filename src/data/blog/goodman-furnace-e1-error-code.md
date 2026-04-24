@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Goodman Furnace E1 Error Code — Causes & Fix"
 description: "What the Goodman furnace E1 error code means, why the pressure switch fault triggers it, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -38,12 +38,11 @@ On newer Goodman furnaces equipped with an LED display panel (GMVC96, GMSS96, AM
 
 | Part | Notes |
 |------|-------|
-| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Match the set-point rating (stamped on switch body) — Goodman uses both single and dual pressure switches |
-| [Inducer motor capacitor](https://www.amazon.com/s?k=Inducer%20motor%20capacitor&tag=errorcodefixe-20) | Usually 5–7 µF; test before replacing the motor |
-| [Inducer draft motor assembly](https://www.amazon.com/s?k=Inducer%20draft%20motor%20assembly&tag=errorcodefixe-20) | Replace if motor is noisy or spinning slow with good capacitor |
-| [Condensate trap](https://www.amazon.com/s?k=Condensate%20trap&tag=errorcodefixe-20) | Replace if cracked or if internal ball is stuck |
-| [Pressure switch hose](https://www.amazon.com/s?k=Pressure%20switch%20hose&tag=errorcodefixe-20) | Available by the foot at HVAC supply houses |
-
+| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Match the set-point rating (stamped on switch body) — Goodman uses both single and dual pressure switches |
+| Inducer motor capacitor | [Amazon](https://www.amazon.com/s?k=Inducer+motor+capacitor&tag=errorcodefixes-20) \| Usually 5–7 µF; test before replacing the motor |
+| Inducer draft motor assembly | [Amazon](https://www.amazon.com/s?k=Inducer+draft+motor+assembly&tag=errorcodefixes-20) \| Replace if motor is noisy or spinning slow with good capacitor |
+| Condensate trap | [Amazon](https://www.amazon.com/s?k=Condensate+trap&tag=errorcodefixes-20) \| Replace if cracked or if internal ball is stuck |
+| Pressure switch hose | [Amazon](https://www.amazon.com/s?k=Pressure+switch+hose&tag=errorcodefixes-20) \| Available by the foot at HVAC supply houses |
 ## When to Call a Pro
 
 If you've cleared the drain, confirmed the flue, replaced the pressure switch, and the E1 persists, you likely have a cracked heat exchanger creating a secondary pressure imbalance — a serious safety issue that requires a licensed technician to diagnose with a combustion analyzer before the furnace can legally be returned to service.

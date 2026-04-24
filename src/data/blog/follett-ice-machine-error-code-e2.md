@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Follett Ice Machine Error Code E2 — Causes & Fix"
 description: "What Follett ice machine error code E2 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,10 +36,9 @@ Follett error code E2 indicates a water inlet fault. The machine commanded a fil
 
 | Part | Notes |
 |------|-------|
-| [Water inlet valve](https://www.amazon.com/s?k=Water%20inlet%20valve&tag=errorcodefixe-20) | Replace if the coil energizes but flow stays weak |
-| [Water level sensor or float assembly](https://www.amazon.com/s?k=Water%20level%20sensor%20or%20float%20assembly&tag=errorcodefixe-20) | Replace if the control never sees a full reservoir |
-| [Water filter cartridge](https://www.amazon.com/s?k=Water%20filter%20cartridge&tag=errorcodefixe-20) | Replace if a clogged filter is starving the machine |
-
+| Water inlet valve | [Amazon](https://www.amazon.com/s?k=Water+inlet+valve&tag=errorcodefixes-20) \| Replace if the coil energizes but flow stays weak |
+| Water level sensor or float assembly | [Amazon](https://www.amazon.com/s?k=Water+level+sensor+or+float+assembly&tag=errorcodefixes-20) \| Replace if the control never sees a full reservoir |
+| Water filter cartridge | [Amazon](https://www.amazon.com/s?k=Water+filter+cartridge&tag=errorcodefixes-20) \| Replace if a clogged filter is starving the machine |
 ## When to Call a Pro
 
 If the machine still faults on E2 with good supply pressure and a clean valve, the board may be losing the level signal or the reservoir geometry may be scaled badly enough to affect sensor action. A commercial ice tech can diagnose the control inputs safely.

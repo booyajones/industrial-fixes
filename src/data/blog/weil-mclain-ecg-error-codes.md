@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Weil-McLain ECG Boiler Error Codes — Complete Fault Guide"
 description: "Complete guide to Weil-McLain ECG series gas boiler error codes, fault causes, and step-by-step troubleshooting for the most common heating system failures."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -20,24 +20,24 @@ The Weil-McLain ECG (ECG-Series) is a cast-iron gas boiler designed for hydronic
 
 ## Weil-McLain ECG Fault Indicators
 
-| [Indicator](https://www.amazon.com/s?k=Indicator&tag=errorcodefixe-20) | Meaning |
+| Indicator | Meaning |
 |-----------|---------|
-| [Red LED flashing (fast)](https://www.amazon.com/s?k=Red%20LED%20flashing%20(fast)&tag=errorcodefixe-20) | Ignition lockout — failed to establish flame |
-| [Red LED flashing (slow)](https://www.amazon.com/s?k=Red%20LED%20flashing%20(slow)&tag=errorcodefixe-20) | Soft lockout — pressure or temperature limit tripped |
-| [Red LED steady](https://www.amazon.com/s?k=Red%20LED%20steady&tag=errorcodefixe-20) | Control board fault |
-| [Pilot out (standing pilot)](https://www.amazon.com/s?k=Pilot%20out%20(standing%20pilot)&tag=errorcodefixe-20) | Pilot light extinguished — thermocouple or draft |
-| [Limit switch open](https://www.amazon.com/s?k=Limit%20switch%20open&tag=errorcodefixe-20) | High temperature or pressure limit tripped |
-| [Low water cutoff open](https://www.amazon.com/s?k=Low%20water%20cutoff%20open&tag=errorcodefixe-20) | Low water in boiler — flow or makeup issue |
+| Red LED flashing (fast) | Ignition lockout — failed to establish flame |
+| Red LED flashing (slow) | Soft lockout — pressure or temperature limit tripped |
+| Red LED steady | Control board fault |
+| Pilot out (standing pilot) | Pilot light extinguished — thermocouple or draft |
+| Limit switch open | High temperature or pressure limit tripped |
+| Low water cutoff open | Low water in boiler — flow or makeup issue |
 
 ## Common ECG Fault Codes (Beckett AFG Ignition Module)
 
-| [Flash Code](https://www.amazon.com/s?k=Flash%20Code&tag=errorcodefixe-20) | Meaning |
+| Flash Code | Meaning |
 |------------|---------|
-| [1 flash](https://www.amazon.com/s?k=1%20flash&tag=errorcodefixe-20) | Pilot/ignition failed — lockout |
-| [2 flashes](https://www.amazon.com/s?k=2%20flashes&tag=errorcodefixe-20) | Pilot established but main burner failed |
-| [3 flashes](https://www.amazon.com/s?k=3%20flashes&tag=errorcodefixe-20) | Flame signal lost during run |
-| [4 flashes](https://www.amazon.com/s?k=4%20flashes&tag=errorcodefixe-20) | Limit string open (limit, pressure switch, LWCO) |
-| [5 flashes](https://www.amazon.com/s?k=5%20flashes&tag=errorcodefixe-20) | Control board fault |
+| 1 flash | Pilot/ignition failed — lockout |
+| 2 flashes | Pilot established but main burner failed |
+| 3 flashes | Flame signal lost during run |
+| 4 flashes | Limit string open (limit, pressure switch, LWCO) |
+| 5 flashes | Control board fault |
 
 ## Common Causes
 
@@ -61,13 +61,12 @@ The Weil-McLain ECG (ECG-Series) is a cast-iron gas boiler designed for hydronic
 
 | Part | Notes |
 |------|-------|
-| [Thermocouple](https://www.amazon.com/s?k=Thermocouple&tag=errorcodefixe-20) | For standing pilot models; $10–20 |
-| [Ignition module (Beckett/Honeywell)](https://www.amazon.com/s?k=Ignition%20module%20(Beckett%2FHoneywell)&tag=errorcodefixe-20) | For electronic ignition lockout |
-| [Circulator pump](https://www.amazon.com/s?k=Circulator%20pump&tag=errorcodefixe-20) | For limit trips with zone valve confirmed open |
-| [Low water cutoff (LWCO)](https://www.amazon.com/s?k=Low%20water%20cutoff%20(LWCO)&tag=errorcodefixe-20) | For LWCO lockout with normal water level |
-| [Expansion tank](https://www.amazon.com/s?k=Expansion%20tank&tag=errorcodefixe-20) | For pressure relief weeping; confirm pre-charge |
-| [Aquastat relay](https://www.amazon.com/s?k=Aquastat%20relay&tag=errorcodefixe-20) | For control failures on older ECG models |
-
+| Thermocouple | [Amazon](https://www.amazon.com/s?k=Thermocouple&tag=errorcodefixes-20) \| For standing pilot models; $10–20 |
+| Ignition module (Beckett/Honeywell) | [Amazon](https://www.amazon.com/s?k=Ignition+module+%28Beckett%2FHoneywell%29&tag=errorcodefixes-20) \| For electronic ignition lockout |
+| Circulator pump | [Amazon](https://www.amazon.com/s?k=Circulator+pump&tag=errorcodefixes-20) \| For limit trips with zone valve confirmed open |
+| Low water cutoff (LWCO) | [Amazon](https://www.amazon.com/s?k=Low+water+cutoff+%28LWCO%29&tag=errorcodefixes-20) \| For LWCO lockout with normal water level |
+| Expansion tank | [Amazon](https://www.amazon.com/s?k=Expansion+tank&tag=errorcodefixes-20) \| For pressure relief weeping; confirm pre-charge |
+| Aquastat relay | [Amazon](https://www.amazon.com/s?k=Aquastat+relay&tag=errorcodefixes-20) \| For control failures on older ECG models |
 ## When to Call a Pro
 
 Gas boiler work involves gas combustion, high-temperature/pressure systems, and often asbestos insulation on older installations. If you smell gas, see carbon deposits on the burner, or the LWCO has tripped on a steam boiler, stop operating the unit and call a licensed heating contractor immediately.

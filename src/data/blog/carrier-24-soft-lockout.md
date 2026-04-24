@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Carrier Error Code 24 — Secondary Voltage Fuse Open"
 description: "Carrier fault code 24 means the 3-amp secondary fuse on the IFC board has blown. Here's what caused it and how to replace it without burning through another fuse."
 pubDatetime: 2026-04-22T18:00:00Z
@@ -30,14 +30,14 @@ Any short circuit on these wires will blow the fuse.
 
 ## Why Fuse 24 Blows
 
-| [Cause](https://www.amazon.com/s?k=Cause&tag=errorcodefixe-20) | How Common |
+| Cause | How Common |
 |---|---|
-| [Wiring short on thermostat wire (bare wire touching metal)](https://www.amazon.com/s?k=Wiring%20short%20on%20thermostat%20wire%20(bare%20wire%20touching%20metal)&tag=errorcodefixe-20) | Very common |
-| [Shorted humidifier control board](https://www.amazon.com/s?k=Shorted%20humidifier%20control%20board&tag=errorcodefixe-20) | Common |
-| [Shorted zone controller or relay board](https://www.amazon.com/s?k=Shorted%20zone%20controller%20or%20relay%20board&tag=errorcodefixe-20) | Common |
-| [Shorted gas valve coil](https://www.amazon.com/s?k=Shorted%20gas%20valve%20coil&tag=errorcodefixe-20) | Occasional |
-| [Wiring pinched by furnace door](https://www.amazon.com/s?k=Wiring%20pinched%20by%20furnace%20door&tag=errorcodefixe-20) | Occasional |
-| [Faulty IFC board (rare internal short)](https://www.amazon.com/s?k=Faulty%20IFC%20board%20(rare%20internal%20short)&tag=errorcodefixe-20) | Rare |
+| Wiring short on thermostat wire (bare wire touching metal) | Very common |
+| Shorted humidifier control board | Common |
+| Shorted zone controller or relay board | Common |
+| Shorted gas valve coil | Occasional |
+| Wiring pinched by furnace door | Occasional |
+| Faulty IFC board (rare internal short) | Rare |
 
 ## How to Find and Fix the Short
 
@@ -55,11 +55,10 @@ Any short circuit on these wires will blow the fuse.
 
 | Part | Cost |
 |---|---|
-| [3-amp ATO/ATC fuse (pack)](https://www.amazon.com/s?k=3-amp%20ATO%2FATC%20fuse%20(pack)&tag=errorcodefixe-20) | $3–8 |
-| [Gas valve](https://www.amazon.com/s?k=Gas%20valve&tag=errorcodefixe-20) | $80–200 |
-| [Humidifier control board](https://www.amazon.com/s?k=Humidifier%20control%20board&tag=errorcodefixe-20) | $30–80 |
-| [IFC board (if internal fault)](https://www.amazon.com/s?k=IFC%20board%20(if%20internal%20fault)&tag=errorcodefixe-20) | $100–300 |
-
+| 3-amp ATO/ATC fuse (pack) | [Amazon](https://www.amazon.com/s?k=3-amp+ATO%2FATC+fuse+%28pack%29&tag=errorcodefixes-20) \| $3–8 |
+| Gas valve | [Amazon](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) \| $80–200 |
+| Humidifier control board | [Amazon](https://www.amazon.com/s?k=Humidifier+control+board&tag=errorcodefixes-20) \| $30–80 |
+| IFC board (if internal fault) | [Amazon](https://www.amazon.com/s?k=IFC+board+%28if+internal+fault%29&tag=errorcodefixes-20) \| $100–300 |
 ## Pro Tip
 
 Fuses don't blow for no reason. Every time you replace a fuse without finding the short, you risk burning out the transformer or the IFC board. Spend the extra 15 minutes tracing the short before you close the furnace back up — it will save you a $200+ board replacement.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Hoshizaki E5 Error Code — Causes & Fix"
 description: "What Hoshizaki E5 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,10 +36,9 @@ Hoshizaki error code E5 means high-temperature shutdown — the control board de
 
 | Part | Notes |
 |------|-------|
-| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | Match OEM spec; Hoshizaki uses specific RPM and CFM ratings |
-| [Condenser fan blade](https://www.amazon.com/s?k=Condenser%20fan%20blade&tag=errorcodefixe-20) | Replace if cracked or damaged; damaged blades reduce airflow significantly |
-| [Condenser coil cleaner](https://www.amazon.com/s?k=Condenser%20coil%20cleaner&tag=errorcodefixe-20) | Nu-Calgon Coil King foam cleaner; rinse thoroughly |
-
+| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Match OEM spec; Hoshizaki uses specific RPM and CFM ratings |
+| Condenser fan blade | [Amazon](https://www.amazon.com/s?k=Condenser+fan+blade&tag=errorcodefixes-20) \| Replace if cracked or damaged; damaged blades reduce airflow significantly |
+| Condenser coil cleaner | [Amazon](https://www.amazon.com/s?k=Condenser+coil+cleaner&tag=errorcodefixes-20) \| Nu-Calgon Coil King foam cleaner; rinse thoroughly |
 ## When to Call a Pro
 
 If the condenser is clean, fan is running, and ambient temperature is acceptable, but E5 persists, the refrigerant system needs pressure testing. A certified refrigeration technician can diagnose high-side pressure and compressor condition.

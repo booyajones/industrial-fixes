@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Coleman Furnace 4 Flashes Error Code — Causes & Fix"
 description: "What Coleman furnace 4 flashes means, why the high limit switch opens, and how to diagnose and fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,11 +36,10 @@ A Coleman furnace flashing **4 blinks** on the LED status light indicates the **
 
 | Part | Notes |
 |------|-------|
-| [High limit switch](https://www.amazon.com/s?k=High%20limit%20switch&tag=errorcodefixe-20) | Replace when switch tests open at ambient temperature |
-| [Blower motor capacitor](https://www.amazon.com/s?k=Blower%20motor%20capacitor&tag=errorcodefixe-20) | Replace if blower runs slow; test with capacitor meter |
-| [1" air filter](https://www.amazon.com/s?k=1%22%20air%20filter&tag=errorcodefixe-20) | Replace every 1–3 months to prevent recurrence |
-| [Blower motor](https://www.amazon.com/s?k=Blower%20motor&tag=errorcodefixe-20) | Replace if capacitor is good but motor runs slowly or not at all |
-
+| High limit switch | [Amazon](https://www.amazon.com/s?k=High+limit+switch&tag=errorcodefixes-20) \| Replace when switch tests open at ambient temperature |
+| Blower motor capacitor | [Amazon](https://www.amazon.com/s?k=Blower+motor+capacitor&tag=errorcodefixes-20) \| Replace if blower runs slow; test with capacitor meter |
+| 1" air filter | [Amazon](https://www.amazon.com/s?k=1%22+air+filter&tag=errorcodefixes-20) \| Replace every 1–3 months to prevent recurrence |
+| Blower motor | [Amazon](https://www.amazon.com/s?k=Blower+motor&tag=errorcodefixes-20) \| Replace if capacitor is good but motor runs slowly or not at all |
 ## When to Call a Pro
 
 A cracked heat exchanger is a carbon monoxide risk. If 4 flashes returns repeatedly after correcting the filter and blower, have a licensed HVAC tech perform a heat exchanger inspection before running the furnace again.

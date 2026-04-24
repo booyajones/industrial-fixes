@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Follett Ice Machine Error Code E3 — Causes & Fix"
 description: "What Follett Ice Machine E3 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -36,9 +36,8 @@ The E3 error on Follett ice and water dispensers indicates an ice level sensor f
 
 | Part | Notes |
 |------|-------|
-| [Ice level sensor](https://www.amazon.com/s?k=Ice%20level%20sensor&tag=errorcodefixe-20) | Match to Follett model (7 Series vs 15 Series vs 25 Series vary) |
-| [Follett Ice Machine Cleaner](https://www.amazon.com/s?k=Follett%20Ice%20Machine%20Cleaner&tag=errorcodefixe-20) | Use quarterly to prevent sensor scale buildup |
-
+| Ice level sensor | [Amazon](https://www.amazon.com/s?k=Ice+level+sensor&tag=errorcodefixes-20) \| Match to Follett model (7 Series vs 15 Series vs 25 Series vary) |
+| Follett Ice Machine Cleaner | [Amazon](https://www.amazon.com/s?k=Follett+Ice+Machine+Cleaner&tag=errorcodefixes-20) \| Use quarterly to prevent sensor scale buildup |
 ## When to Call a Pro
 
 If sensor replacement doesn't clear E3, the control board's sensor input circuit may have failed. A Follett-certified technician handles board-level repair.

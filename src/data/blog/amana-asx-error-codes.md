@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Amana ASX Air Conditioner Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Amana ASX air conditioner error codes, LED flash sequences, common fault causes, and step-by-step repair procedures for technicians."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -20,16 +20,16 @@ The Amana ASX series (ASX13, ASX14, ASX16) are residential central air condition
 
 ## Amana ASX LED Flash Code Reference
 
-| [Flash Sequence](https://www.amazon.com/s?k=Flash%20Sequence&tag=errorcodefixe-20) | Fault |
+| Flash Sequence | Fault |
 |---|---|
-| [1 flash](https://www.amazon.com/s?k=1%20flash&tag=errorcodefixe-20) | Normal — standby |
-| [2 flashes](https://www.amazon.com/s?k=2%20flashes&tag=errorcodefixe-20) | High-pressure switch open |
-| [3 flashes](https://www.amazon.com/s?k=3%20flashes&tag=errorcodefixe-20) | Low-pressure switch open |
-| [4 flashes](https://www.amazon.com/s?k=4%20flashes&tag=errorcodefixe-20) | Compressor protection device open (thermal overload) |
-| [5 flashes](https://www.amazon.com/s?k=5%20flashes&tag=errorcodefixe-20) | Control board fault |
-| [6 flashes](https://www.amazon.com/s?k=6%20flashes&tag=errorcodefixe-20) | Outdoor ambient thermistor fault |
-| [7 flashes](https://www.amazon.com/s?k=7%20flashes&tag=errorcodefixe-20) | Discharge temperature thermistor fault |
-| [Rapid flash](https://www.amazon.com/s?k=Rapid%20flash&tag=errorcodefixe-20) | Low voltage — check 24VAC transformer |
+| 1 flash | Normal — standby |
+| 2 flashes | High-pressure switch open |
+| 3 flashes | Low-pressure switch open |
+| 4 flashes | Compressor protection device open (thermal overload) |
+| 5 flashes | Control board fault |
+| 6 flashes | Outdoor ambient thermistor fault |
+| 7 flashes | Discharge temperature thermistor fault |
+| Rapid flash | Low voltage — check 24VAC transformer |
 
 ## Common Causes by Code
 
@@ -51,13 +51,12 @@ The Amana ASX series (ASX13, ASX14, ASX16) are residential central air condition
 
 | Part | Notes |
 |---|---|
-| [Dual run capacitor](https://www.amazon.com/s?k=Dual%20run%20capacitor&tag=errorcodefixe-20) | Most common ASX failure; shared compressor and fan capacitor |
-| [Contactor](https://www.amazon.com/s?k=Contactor&tag=errorcodefixe-20) | 2-pole; check contact gap and coil pull-in voltage |
-| [High-pressure switch](https://www.amazon.com/s?k=High-pressure%20switch&tag=errorcodefixe-20) | Spade terminals; direct swap |
-| [Low-pressure switch](https://www.amazon.com/s?k=Low-pressure%20switch&tag=errorcodefixe-20) | 50 PSIG cutout for R-410A |
-| [Ambient thermistor](https://www.amazon.com/s?k=Ambient%20thermistor&tag=errorcodefixe-20) | For Code 6; usually on a pigtail connector |
-| [Control board](https://www.amazon.com/s?k=Control%20board&tag=errorcodefixe-20) | For Code 5; verify fuse and transformer first |
-
+| Dual run capacitor | [Amazon](https://www.amazon.com/s?k=Dual+run+capacitor&tag=errorcodefixes-20) \| Most common ASX failure; shared compressor and fan capacitor |
+| Contactor | [Amazon](https://www.amazon.com/s?k=Contactor&tag=errorcodefixes-20) \| 2-pole; check contact gap and coil pull-in voltage |
+| High-pressure switch | [Amazon](https://www.amazon.com/s?k=High-pressure+switch&tag=errorcodefixes-20) \| Spade terminals; direct swap |
+| Low-pressure switch | [Amazon](https://www.amazon.com/s?k=Low-pressure+switch&tag=errorcodefixes-20) \| 50 PSIG cutout for R-410A |
+| Ambient thermistor | [Amazon](https://www.amazon.com/s?k=Ambient+thermistor&tag=errorcodefixes-20) \| For Code 6; usually on a pigtail connector |
+| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| For Code 5; verify fuse and transformer first |
 ## When to Call a Pro
 
 Refrigerant service on the Amana ASX requires EPA 608 certification and proper manifold gauge equipment. Amana (Daikin/Goodman) offers a Lifetime Compressor Warranty on some ASX models for the original registered homeowner — check warranty status before authorizing a compressor replacement, as the part may be covered at no cost.

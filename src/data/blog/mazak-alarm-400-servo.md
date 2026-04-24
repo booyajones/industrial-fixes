@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mazak Alarm 400 Servo Error — Causes & Fix"
 description: "What Mazak alarm 400 servo error means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,10 +36,9 @@ Mazak alarm 400 is a servo error indicating a fault in the axis servo drive or s
 
 | Part | Notes |
 |------|-------|
-| [Mitsubishi servo amplifier (MR-J series)](https://www.amazon.com/s?k=Mitsubishi%20servo%20amplifier%20(MR-J%20series)&tag=errorcodefixe-20) | Match the specific model for the axis — voltage, current rating, and feedback type |
-| [Servo motor](https://www.amazon.com/s?k=Servo%20motor&tag=errorcodefixe-20) | Mazak typically uses Mitsubishi HF/HC series motors; match by model number |
-| [Encoder cable](https://www.amazon.com/s?k=Encoder%20cable&tag=errorcodefixe-20) | Replace if feedback is the confirmed cause of the fault |
-
+| Mitsubishi servo amplifier (MR-J series) | [Amazon](https://www.amazon.com/s?k=Mitsubishi+servo+amplifier+%28MR-J+series%29&tag=errorcodefixes-20) \| Match the specific model for the axis — voltage, current rating, and feedback type |
+| Servo motor | [Amazon](https://www.amazon.com/s?k=Servo+motor&tag=errorcodefixes-20) \| Mazak typically uses Mitsubishi HF/HC series motors; match by model number |
+| Encoder cable | [Amazon](https://www.amazon.com/s?k=Encoder+cable&tag=errorcodefixes-20) \| Replace if feedback is the confirmed cause of the fault |
 ## When to Call a Pro
 
 Mazak alarm 400 with a servo drive sub-fault of AL.16 (encoder error) or AL.24 (amplifier hardware fault) typically requires the servo amplifier to be replaced and potentially returned to Mitsubishi or a repair depot. Contact Mazak service for drives under warranty.

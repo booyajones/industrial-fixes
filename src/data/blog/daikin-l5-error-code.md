@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Daikin L5 Error Code — Compressor Lock Fault"
 description: "Daikin error code L5 means the compressor is locked or has failed to start. Learn the exact causes, diagnostic steps, and how to fix Daikin L5."
 pubDatetime: 2026-04-22T17:00:00Z
@@ -32,15 +32,15 @@ The outdoor unit inverter board monitors compressor current and feedback. L5 is 
 
 ## Common Causes {#most-likely-cause}
 
-| [Cause](https://www.amazon.com/s?k=Cause&tag=errorcodefixe-20) | Likelihood |
+| Cause | Likelihood |
 |---|---|
-| [Failed compressor (seized or winding fault)](https://www.amazon.com/s?k=Failed%20compressor%20(seized%20or%20winding%20fault)&tag=errorcodefixe-20) | High |
-| [Liquid refrigerant flooding compressor on startup](https://www.amazon.com/s?k=Liquid%20refrigerant%20flooding%20compressor%20on%20startup&tag=errorcodefixe-20) | High |
-| [Inverter IPM (power module) fault](https://www.amazon.com/s?k=Inverter%20IPM%20(power%20module)%20fault&tag=errorcodefixe-20) | Medium |
-| [Low supply voltage causing startup failure](https://www.amazon.com/s?k=Low%20supply%20voltage%20causing%20startup%20failure&tag=errorcodefixe-20) | Medium |
-| [Refrigerant overcharge causing liquid slugging](https://www.amazon.com/s?k=Refrigerant%20overcharge%20causing%20liquid%20slugging&tag=errorcodefixe-20) | Medium |
-| [Failed crankcase heater (causing liquid in compressor)](https://www.amazon.com/s?k=Failed%20crankcase%20heater%20(causing%20liquid%20in%20compressor)&tag=errorcodefixe-20) | Medium |
-| [Outdoor PCB fault](https://www.amazon.com/s?k=Outdoor%20PCB%20fault&tag=errorcodefixe-20) | Low |
+| Failed compressor (seized or winding fault) | High |
+| Liquid refrigerant flooding compressor on startup | High |
+| Inverter IPM (power module) fault | Medium |
+| Low supply voltage causing startup failure | Medium |
+| Refrigerant overcharge causing liquid slugging | Medium |
+| Failed crankcase heater (causing liquid in compressor) | Medium |
+| Outdoor PCB fault | Low |
 
 ## Step-by-Step Diagnosis {#diagnosis}
 
@@ -77,10 +77,9 @@ The outdoor unit inverter board monitors compressor current and feedback. L5 is 
 
 | Part | Notes |
 |---|---|
-| [Crankcase heater](https://www.amazon.com/s?k=Crankcase%20heater&tag=errorcodefixe-20) | Match wattage — Daikin part varies by compressor |
-| [Inverter PCB](https://www.amazon.com/s?k=Inverter%20PCB&tag=errorcodefixe-20) | High-value part — verify compressor first |
-| [Compressor](https://www.amazon.com/s?k=Compressor&tag=errorcodefixe-20) | Requires refrigerant recovery — EPA 608 certified tech |
-
+| Crankcase heater | [Amazon](https://www.amazon.com/s?k=Crankcase+heater&tag=errorcodefixes-20) \| Match wattage — Daikin part varies by compressor |
+| Inverter PCB | [Amazon](https://www.amazon.com/s?k=Inverter+PCB&tag=errorcodefixes-20) \| High-value part — verify compressor first |
+| Compressor | [Amazon](https://www.amazon.com/s?k=Compressor&tag=errorcodefixes-20) \| Requires refrigerant recovery — EPA 608 certified tech |
 ## Reset Procedure
 
 L5 is a hard fault on most Daikin models:

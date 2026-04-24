@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Bryant Furnace 13 Error Code — Causes & Fix"
 description: "What Bryant 13 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,11 +36,10 @@ Bryant fault code 13 means the limit device is open — the high-limit switch or
 
 | Part | Notes |
 |------|-------|
-| [High-limit switch](https://www.amazon.com/s?k=High-limit%20switch&tag=errorcodefixe-20) | Auto-reset; match temperature rating stamped on old switch |
-| [Rollout limit switch](https://www.amazon.com/s?k=Rollout%20limit%20switch&tag=errorcodefixe-20) | Manual-reset; repeated tripping = CO hazard, stop and call a tech |
-| [Blower run capacitor](https://www.amazon.com/s?k=Blower%20run%20capacitor&tag=errorcodefixe-20) | Test first; replacing motor without testing capacitor is wasteful |
-| [Air filter (1-inch or media)](https://www.amazon.com/s?k=Air%20filter%20(1-inch%20or%20media)&tag=errorcodefixe-20) | Replace every 90 days |
-
+| High-limit switch | [Amazon](https://www.amazon.com/s?k=High-limit+switch&tag=errorcodefixes-20) \| Auto-reset; match temperature rating stamped on old switch |
+| Rollout limit switch | [Amazon](https://www.amazon.com/s?k=Rollout+limit+switch&tag=errorcodefixes-20) \| Manual-reset; repeated tripping = CO hazard, stop and call a tech |
+| Blower run capacitor | [Amazon](https://www.amazon.com/s?k=Blower+run+capacitor&tag=errorcodefixes-20) \| Test first; replacing motor without testing capacitor is wasteful |
+| Air filter (1-inch or media) | [Amazon](https://www.amazon.com/s?k=Air+filter+%281-inch+or+media%29&tag=errorcodefixes-20) \| Replace every 90 days |
 ## When to Call a Pro
 
 A rollout switch that trips repeatedly means combustion gases are leaving the firebox — that's a CO risk. Don't operate the furnace. Call a tech to inspect the heat exchanger and flue before the next run.

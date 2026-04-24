@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mitsubishi Mini Split P1 Error Code Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-06T08:00:00Z
@@ -46,10 +46,12 @@ On Mitsubishi systems, P1 is also used in some models to indicate a refrigerant 
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Where to Buy | Typical Cost | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |-------------|-------------|
-| Indoor thermistor set (Mitsubishi E22D33426 or equiv.) | [HVAC Parts Shop, eBay OEM parts](https://www.amazon.com/s?k=HVAC%20Parts%20Shop%2C%20eBay%20OEM%20parts&tag=errorcodefixe-20) | $20–$50 |
-| [Indoor fan motor (model-specific, e.g., Mitsubishi E22-M00 series)](https://www.amazon.com/s?k=Indoor%20fan%20motor%20(model-specific%2C%20e.g.%2C%20Mitsubishi%20E22-M00%20series)&tag=errorcodefixe-20) | RepairClinic, HVAC Parts Shop | $80–$180 | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Refrigerant R-410A (tech-supplied, requires EPA 608) | N/A — licensed tech only | [$50–$200 (labor + material)](https://www.amazon.com/s?k=%2450%E2%80%93%24200%20(labor%20%2B%20material)&tag=errorcodefixe-20) |  | Replacement filter screens | [Amazon, Mitsubishi dealer](https://www.amazon.com/s?k=Amazon%2C%20Mitsubishi%20dealer&tag=errorcodefixe-20) | $10–$25 |
-
+| Part | Where to Buy | Typical Cost |
+|------|-------------|-------------|
+| Indoor thermistor set (Mitsubishi E22D33426 or equiv.) | [Amazon](https://www.amazon.com/s?k=Indoor+thermistor+set+%28Mitsubishi+E22D33426+or+equiv.%29&tag=errorcodefixes-20) \| HVAC Parts Shop, eBay OEM parts | $20–$50 |
+| Indoor fan motor (model-specific, e.g., Mitsubishi E22-M00 series) | [Amazon](https://www.amazon.com/s?k=Indoor+fan+motor+%28model-specific%2C+e.g.%2C+Mitsubishi+E22-M00+series%29&tag=errorcodefixes-20) \| RepairClinic, HVAC Parts Shop | $80–$180 |
+| Refrigerant R-410A (tech-supplied, requires EPA 608) | [Amazon](https://www.amazon.com/s?k=Refrigerant+R-410A+%28tech-supplied%2C+requires+EPA+608%29&tag=errorcodefixes-20) \| N/A — licensed tech only | $50–$200 (labor + material) |
+| Replacement filter screens | [Amazon](https://www.amazon.com/s?k=Replacement+filter+screens&tag=errorcodefixes-20) \| Amazon, Mitsubishi dealer | $10–$25 |
 ## When to Call a Professional
 
 If coil freezing returns after cleaning the filter and confirming good airflow, you almost certainly have a refrigerant leak. Refrigerant work requires EPA Section 608 certification — this is not a DIY repair. A tech needs to find the leak, recover the remaining charge, repair the leak, pressure test, evacuate to 500 microns, and recharge to the nameplate specification. Tell them: "Mitsubishi P1 freeze fault, filter is clean, fan runs fine. I suspect low refrigerant — I need a leak check and charge verification."

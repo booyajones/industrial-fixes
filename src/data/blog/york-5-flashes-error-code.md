@@ -1,4 +1,4 @@
-﻿---
+---
 title: "York 5 Flashes Error Code — Causes & Fix"
 description: "What York 5 flashes means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,10 +36,9 @@ Five flashes on a York furnace LED means a flame sense fault — the furnace ign
 
 | Part | Notes |
 |------|-------|
-| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | Match York OEM; universal versions also work |
-| [Sandpaper (400-grit) or steel wool](https://www.amazon.com/s?k=Sandpaper%20(400-grit)%20or%20steel%20wool&tag=errorcodefixe-20) | For sensor cleaning |
-| [Gas valve](https://www.amazon.com/s?k=Gas%20valve&tag=errorcodefixe-20) | Replace only after confirming correct voltage at valve terminals with no output |
-
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Match York OEM; universal versions also work |
+| Sandpaper (400-grit) or steel wool | [Amazon](https://www.amazon.com/s?k=Sandpaper+%28400-grit%29+or+steel+wool&tag=errorcodefixes-20) \| For sensor cleaning |
+| Gas valve | [Amazon](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) \| Replace only after confirming correct voltage at valve terminals with no output |
 ## When to Call a Pro
 
 If the sensor is clean and correctly positioned but the fault persists, gas valve or combustion diagnosis requires a licensed tech. Adjusting gas pressure requires a manometer and gas certification.

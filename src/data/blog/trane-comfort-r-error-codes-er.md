@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Trane ComfortR ER Error Code — Causes & Fix"
 description: "What the Trane ComfortR ER error code means on a communicating system, why communication fails, and how to restore the link."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -38,11 +38,10 @@ The ER code on a Trane ComfortR communicating system indicates a communication e
 
 | Part | Notes |
 |------|-------|
-| [Communication wire (18 AWG, 4-conductor)](https://www.amazon.com/s?k=Communication%20wire%20(18%20AWG%2C%204-conductor)&tag=errorcodefixe-20) | Replace damaged runs; use shielded wire in high-interference environments |
-| [Air handler control board](https://www.amazon.com/s?k=Air%20handler%20control%20board&tag=errorcodefixe-20) | Replace if communication module confirmed dead |
-| [Outdoor unit control board](https://www.amazon.com/s?k=Outdoor%20unit%20control%20board&tag=errorcodefixe-20) | Replace if isolation test confirms outdoor unit is generating the ER |
-| [ComfortLink II thermostat](https://www.amazon.com/s?k=ComfortLink%20II%20thermostat&tag=errorcodefixe-20) | Replace if thermostat is source of bus failure |
-
+| Communication wire (18 AWG, 4-conductor) | [Amazon](https://www.amazon.com/s?k=Communication+wire+%2818+AWG%2C+4-conductor%29&tag=errorcodefixes-20) \| Replace damaged runs; use shielded wire in high-interference environments |
+| Air handler control board | [Amazon](https://www.amazon.com/s?k=Air+handler+control+board&tag=errorcodefixes-20) \| Replace if communication module confirmed dead |
+| Outdoor unit control board | [Amazon](https://www.amazon.com/s?k=Outdoor+unit+control+board&tag=errorcodefixes-20) \| Replace if isolation test confirms outdoor unit is generating the ER |
+| ComfortLink II thermostat | [Amazon](https://www.amazon.com/s?k=ComfortLink+II+thermostat&tag=errorcodefixes-20) \| Replace if thermostat is source of bus failure |
 ## When to Call a Pro
 
 Trane communicating system diagnostics require familiarity with the ComfortLink II architecture and access to Trane's service tool or diagnostic port. If you cannot isolate the faulty component after power cycling and wiring inspection, call a Trane-certified technician who has the diagnostic software.

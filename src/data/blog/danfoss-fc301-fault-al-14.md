@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Danfoss FC301 Fault AL 14 — Ground Fault Causes & Fix"
 description: "What Danfoss FC301 alarm AL 14 means, why ground fault trips the drive, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -38,9 +38,8 @@ Alarm 14 (Ground Fault) on a Danfoss FC301 drive means the drive has detected an
 
 | Part | Notes |
 |------|-------|
-| [Motor output cable](https://www.amazon.com/s?k=Motor%20output%20cable&tag=errorcodefixe-20) | Replace fully if insulation damage is found |
-| [Motor (rewind or replace)](https://www.amazon.com/s?k=Motor%20(rewind%20or%20replace)&tag=errorcodefixe-20) | Required if winding insulation tests below 1 MΩ |
-
+| Motor output cable | [Amazon](https://www.amazon.com/s?k=Motor+output+cable&tag=errorcodefixes-20) \| Replace fully if insulation damage is found |
+| Motor (rewind or replace) | [Amazon](https://www.amazon.com/s?k=Motor+%28rewind+or+replace%29&tag=errorcodefixes-20) \| Required if winding insulation tests below 1 MΩ |
 ## When to Call a Pro
 
 Megohmmeter testing and motor insulation diagnosis should be performed by a qualified electrician. A motor with insulation failure below 1 MΩ is a safety hazard and must not be operated until repaired or replaced.

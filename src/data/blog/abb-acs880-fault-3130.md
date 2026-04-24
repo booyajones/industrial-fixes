@@ -1,4 +1,4 @@
-﻿---
+---
 title: "ABB ACS880 Fault 3130 — Input Phase Loss Causes & Fix"
 description: "What ABB ACS880 fault 3130 means, why input phase loss occurs, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -37,10 +37,9 @@ Fault 3130 (Input Phase Loss) on an ABB ACS880 drive means the drive's input pha
 
 | Part | Notes |
 |------|-------|
-| [Input fuses (semiconductor type)](https://www.amazon.com/s?k=Input%20fuses%20(semiconductor%20type)&tag=errorcodefixe-20) | ACS880 requires gR or aR semiconductor fuses — not standard HRC fuses |
-| [Input contactor](https://www.amazon.com/s?k=Input%20contactor&tag=errorcodefixe-20) | Match voltage and current rating for the ACS880 frame size |
-| [Input cable lugs](https://www.amazon.com/s?k=Input%20cable%20lugs&tag=errorcodefixe-20) | Use the torque-rated lugs specified in the ACS880 hardware manual |
-
+| Input fuses (semiconductor type) | [Amazon](https://www.amazon.com/s?k=Input+fuses+%28semiconductor+type%29&tag=errorcodefixes-20) \| ACS880 requires gR or aR semiconductor fuses — not standard HRC fuses |
+| Input contactor | [Amazon](https://www.amazon.com/s?k=Input+contactor&tag=errorcodefixes-20) \| Match voltage and current rating for the ACS880 frame size |
+| Input cable lugs | [Amazon](https://www.amazon.com/s?k=Input+cable+lugs&tag=errorcodefixes-20) \| Use the torque-rated lugs specified in the ACS880 hardware manual |
 ## When to Call a Pro
 
 Fault 3130 diagnosis involves live three-phase voltages up to 690 VAC. All measurements must be made by a qualified electrical technician wearing appropriate PPE. Never probe input terminals on a live drive without arc-flash assessment.

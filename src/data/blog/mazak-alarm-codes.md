@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mazak CNC Alarm Codes — Common Faults and Fixes"
 description: "Mazak CNC alarm codes: servo alarms (1–99), spindle alarms (100–299), servo axis faults (400–499), ATC faults (600+), and PC alarms (500+) with fixes."
 pubDatetime: 2026-04-22T16:00:00Z
@@ -15,10 +15,18 @@ tags:
 
 Mazak CNC machines (Nexus, Variaxis, Integrex, DONE IN ONE series) with Mazatrol or EIA/ISO controls display alarm codes on the control screen. Alarm categories group faults by hundred: **1–99** (servo system), **50+** (basic servo), **100–299** (spindle), **400–499** (servo axis data), **500–599** (CNC/PC system), **600+** (ATC/pallet). Mazak's Smooth controls display plain-language alarm messages in addition to numbers.
 
-| [Alarm](https://www.amazon.com/s?k=Alarm&tag=errorcodefixe-20) | Category | Meaning | [Common Fix](https://www.amazon.com/s?k=Common%20Fix&tag=errorcodefixe-20) |  |-------|---------|---------|-----------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 1 | Servo | [Servo alarm — axis](https://www.amazon.com/s?k=Servo%20alarm%20%E2%80%94%20axis&tag=errorcodefixe-20) | Check servo drive |
-| [30](https://www.amazon.com/s?k=30&tag=errorcodefixe-20) | Servo | Axis position error | [Check ballscrew; servo tuning](https://www.amazon.com/s?k=Check%20ballscrew%3B%20servo%20tuning&tag=errorcodefixe-20) |  | 50 | [Servo](https://www.amazon.com/s?k=Servo&tag=errorcodefixe-20) | Basic servo fault | Check servo amp and motor | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 100 | Spindle | [Spindle alarm](https://www.amazon.com/s?k=Spindle%20alarm&tag=errorcodefixe-20) | Check spindle drive display |
-| [200](https://www.amazon.com/s?k=200&tag=errorcodefixe-20) | Spindle | Spindle speed error | [Check spindle encoder](https://www.amazon.com/s?k=Check%20spindle%20encoder&tag=errorcodefixe-20) |  | 400 | [Servo](https://www.amazon.com/s?k=Servo&tag=errorcodefixe-20) | Axis data alarm | Check axis servo parameter | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 500 | PC/CNC | [PC system alarm](https://www.amazon.com/s?k=PC%20system%20alarm&tag=errorcodefixe-20) | Check control computer |
-| [600](https://www.amazon.com/s?k=600&tag=errorcodefixe-20) | ATC | Tool changer fault | [Check ATC mechanism](https://www.amazon.com/s?k=Check%20ATC%20mechanism&tag=errorcodefixe-20) | ## Most Common Codes
+| Alarm | Category | Meaning | Common Fix |
+|-------|---------|---------|-----------|
+| 1 | Servo | Servo alarm — axis | Check servo drive |
+| 30 | Servo | Axis position error | Check ballscrew; servo tuning |
+| 50 | Servo | Basic servo fault | Check servo amp and motor |
+| 100 | Spindle | Spindle alarm | Check spindle drive display |
+| 200 | Spindle | Spindle speed error | Check spindle encoder |
+| 400 | Servo | Axis data alarm | Check axis servo parameter |
+| 500 | PC/CNC | PC system alarm | Check control computer |
+| 600 | ATC | Tool changer fault | Check ATC mechanism |
+
+## Most Common Codes
 
 ### Alarm 1 / Alarm 30: Servo Alarm / Position Error
 These are the most common Mazak alarms in production environments. Alarm 1 comes from the servo drive itself reporting a hardware fault. Alarm 30 (Axis Position Error) means the axis commanded position and actual position diverged beyond the tolerance band.
@@ -49,8 +57,13 @@ The tool changer failed mid-cycle. Check: (1) the ATC arm sensors (proximity swi
 4. Use MDI jog mode to move axes to a safe position.
 5. Re-home the machine (reference return) before running programs.
 
-## Parts Often Needed | Part | [Notes](https://www.amazon.com/s?k=Notes&tag=errorcodefixe-20) |  |------|-------|
-| Servo encoder cable | [Route-specific; measure length before ordering](https://www.amazon.com/s?k=Route-specific%3B%20measure%20length%20before%20ordering&tag=errorcodefixe-20) |  | Lube oil pump | [Bijur or Farval pump, machine-specific](https://www.amazon.com/s?k=Bijur%20or%20Farval%20pump%2C%20machine-specific&tag=errorcodefixe-20) |  | ATC proximity switch | [PNP or NPN — check existing wiring](https://www.amazon.com/s?k=PNP%20or%20NPN%20%E2%80%94%20check%20existing%20wiring&tag=errorcodefixe-20) |  | Servo drive | Mitsubishi MDS-B or MDS-C series, machine-specific |
+## Parts Often Needed
 
+| Part | Notes |
+|------|-------|
+| Servo encoder cable | [Amazon](https://www.amazon.com/s?k=Servo+encoder+cable&tag=errorcodefixes-20) \| Route-specific; measure length before ordering |
+| Lube oil pump | [Amazon](https://www.amazon.com/s?k=Lube+oil+pump&tag=errorcodefixes-20) \| Bijur or Farval pump, machine-specific |
+| ATC proximity switch | [Amazon](https://www.amazon.com/s?k=ATC+proximity+switch&tag=errorcodefixes-20) \| PNP or NPN — check existing wiring |
+| Servo drive | [Amazon](https://www.amazon.com/s?k=Servo+drive&tag=errorcodefixes-20) \| Mitsubishi MDS-B or MDS-C series, machine-specific |
 ## When to Call a Pro
 Alarm 500 that persists after restart (Mazatrol PC failure) and ATC mechanical crashes that leave tools stuck in the arm require Mazak factory service or a Mazak-authorized technician. Running a machine with an unresolved servo position error risks further mechanical damage.

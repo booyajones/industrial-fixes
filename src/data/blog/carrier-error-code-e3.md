@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Carrier E3 Error Code — Causes & Fix"
 description: "What Carrier E3 means on AC and heat pump units, why the IPM module faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,11 +36,10 @@ The Carrier E3 error code indicates an **IPM (Intelligent Power Module) fault** 
 
 | Part | Notes |
 |------|-------|
-| [IPM / Inverter control board](https://www.amazon.com/s?k=IPM%20%2F%20Inverter%20control%20board&tag=errorcodefixe-20) | Replace when fault persists after cleaning and fan checks; brand-specific part number required |
-| [Outdoor fan motor](https://www.amazon.com/s?k=Outdoor%20fan%20motor&tag=errorcodefixe-20) | Replace if motor windings test open or motor is seized |
-| [Run capacitor](https://www.amazon.com/s?k=Run%20capacitor&tag=errorcodefixe-20) | Replace if capacitance reads >10% below rated value |
-| [Coil cleaner (Nu-Calgon Evap Foam)](https://www.amazon.com/s?k=Coil%20cleaner%20(Nu-Calgon%20Evap%20Foam)&tag=errorcodefixe-20) | Use for routine condenser cleaning to prevent thermal faults |
-
+| IPM / Inverter control board | [Amazon](https://www.amazon.com/s?k=IPM+%2F+Inverter+control+board&tag=errorcodefixes-20) \| Replace when fault persists after cleaning and fan checks; brand-specific part number required |
+| Outdoor fan motor | [Amazon](https://www.amazon.com/s?k=Outdoor+fan+motor&tag=errorcodefixes-20) \| Replace if motor windings test open or motor is seized |
+| Run capacitor | [Amazon](https://www.amazon.com/s?k=Run+capacitor&tag=errorcodefixes-20) \| Replace if capacitance reads >10% below rated value |
+| Coil cleaner (Nu-Calgon Evap Foam) | [Amazon](https://www.amazon.com/s?k=Coil+cleaner+%28Nu-Calgon+Evap+Foam%29&tag=errorcodefixes-20) \| Use for routine condenser cleaning to prevent thermal faults |
 ## When to Call a Pro
 
 If the condenser coil is clean, the fan runs correctly, and E3 still returns within minutes of reset, the IPM board has failed internally. IPM replacement requires handling high-voltage DC bus capacitors — a licensed HVAC-R technician or electrician should perform this repair.

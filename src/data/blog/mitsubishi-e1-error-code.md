@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-04-05T08:00:00Z
@@ -44,9 +44,9 @@ If wiring checks out, the fault is in a PCB. The indoor PCB is more commonly at 
 
 | Part | Where to Buy |
 |------|-------------|
-| [Communication / control cable (per foot)](https://www.amazon.com/s?k=Communication%20%2F%20control%20cable%20(per%20foot)&tag=errorcodefixe-20) | Grainger, Amazon |
-| [Indoor unit main PCB](https://www.amazon.com/s?k=Indoor%20unit%20main%20PCB&tag=errorcodefixe-20) | SupplyHouse, Grainger |
-| [Outdoor main PCB](https://www.amazon.com/s?k=Outdoor%20main%20PCB&tag=errorcodefixe-20) | SupplyHouse, Grainger |
+| Communication / control cable (per foot) | Grainger, Amazon |
+| Indoor unit main PCB | SupplyHouse, Grainger |
+| Outdoor main PCB | SupplyHouse, Grainger |
 
 ## When to Call a Technician
 

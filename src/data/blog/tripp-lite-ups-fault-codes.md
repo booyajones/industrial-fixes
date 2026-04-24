@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Tripp Lite UPS Fault Codes - Complete Guide"
 description: "Tripp Lite UPS error codes and fault indicators for SmartOnline, Smart Pro, and SU series: LED codes, alarms, and troubleshooting."
 pubDatetime: 2026-04-22T20:00:00Z
@@ -16,10 +16,18 @@ tags:
 
 Tripp Lite UPS systems (SmartOnline SU series, Smart Pro SMART series, and ECO series) communicate faults via LED panels, LCD displays, audible alarms, and Tripp Lite PowerAlert software.
 
-| [Fault / Alarm](https://www.amazon.com/s?k=Fault%20%2F%20Alarm&tag=errorcodefixe-20) | Series | Meaning | [Quick Fix](https://www.amazon.com/s?k=Quick%20Fix&tag=errorcodefixe-20) |  |--------------|--------|---------|-----------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | On Battery | All | [Utility power lost](https://www.amazon.com/s?k=Utility%20power%20lost&tag=errorcodefixe-20) | Check power input |
-| [Overload](https://www.amazon.com/s?k=Overload&tag=errorcodefixe-20) | All | Load over UPS rating | [Reduce connected load](https://www.amazon.com/s?k=Reduce%20connected%20load&tag=errorcodefixe-20) |  | Replace Battery | [All](https://www.amazon.com/s?k=All&tag=errorcodefixe-20) | Battery test failed | Replace battery | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Battery Low | All | [Runtime near zero](https://www.amazon.com/s?k=Runtime%20near%20zero&tag=errorcodefixe-20) | Connect to power |
-| [Fault LED (red)](https://www.amazon.com/s?k=Fault%20LED%20(red)&tag=errorcodefixe-20) | SmartOnline | UPS internal fault | [Check LCD for code](https://www.amazon.com/s?k=Check%20LCD%20for%20code&tag=errorcodefixe-20) |  | Bypass Active | [SmartOnline](https://www.amazon.com/s?k=SmartOnline&tag=errorcodefixe-20) | Online UPS on bypass | Check fault log | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Overtemp | SmartOnline | [Thermal protection active](https://www.amazon.com/s?k=Thermal%20protection%20active&tag=errorcodefixe-20) | Check ventilation |
-| [F03](https://www.amazon.com/s?k=F03&tag=errorcodefixe-20) | SmartOnline | Output fault | [Check load and output](https://www.amazon.com/s?k=Check%20load%20and%20output&tag=errorcodefixe-20) |  | Communication Fault | [All](https://www.amazon.com/s?k=All&tag=errorcodefixe-20) | Network card offline | Check network card | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Site Wiring Fault | All | [Ground wiring problem](https://www.amazon.com/s?k=Ground%20wiring%20problem&tag=errorcodefixe-20) | Call electrician |
+| Fault / Alarm | Series | Meaning | Quick Fix |
+|--------------|--------|---------|-----------|
+| On Battery | All | Utility power lost | Check power input |
+| Overload | All | Load over UPS rating | Reduce connected load |
+| Replace Battery | All | Battery test failed | Replace battery |
+| Battery Low | All | Runtime near zero | Connect to power |
+| Fault LED (red) | SmartOnline | UPS internal fault | Check LCD for code |
+| Bypass Active | SmartOnline | Online UPS on bypass | Check fault log |
+| Overtemp | SmartOnline | Thermal protection active | Check ventilation |
+| F03 | SmartOnline | Output fault | Check load and output |
+| Communication Fault | All | Network card offline | Check network card |
+| Site Wiring Fault | All | Ground wiring problem | Call electrician |
 
 ## Most Common Faults
 
@@ -39,11 +47,10 @@ Tripp Lite SNMPWEBCARD or ENVIROSENSE network cards can fault after firmware upd
 
 | Part | Notes |
 |------|-------|
-| [Replacement battery](https://www.amazon.com/s?k=Replacement%20battery&tag=errorcodefixe-20) | Size to UPS model - check label |
-| [SNMPWEBCARD network card](https://www.amazon.com/s?k=SNMPWEBCARD%20network%20card&tag=errorcodefixe-20) | Replace on communication fault |
-| [Input/output fuses](https://www.amazon.com/s?k=Input%2Foutput%20fuses&tag=errorcodefixe-20) | Check after overload events |
-| [Fan (SmartOnline large units)](https://www.amazon.com/s?k=Fan%20(SmartOnline%20large%20units)&tag=errorcodefixe-20) | Replace on overtemp fault |
-
+| Replacement battery | [Amazon](https://www.amazon.com/s?k=Replacement+battery&tag=errorcodefixes-20) \| Size to UPS model - check label |
+| SNMPWEBCARD network card | [Amazon](https://www.amazon.com/s?k=SNMPWEBCARD+network+card&tag=errorcodefixes-20) \| Replace on communication fault |
+| Input/output fuses | [Amazon](https://www.amazon.com/s?k=Input%2Foutput+fuses&tag=errorcodefixes-20) \| Check after overload events |
+| Fan (SmartOnline large units) | [Amazon](https://www.amazon.com/s?k=Fan+%28SmartOnline+large+units%29&tag=errorcodefixes-20) \| Replace on overtemp fault |
 ## When to Call a Pro
 Tripp Lite SmartOnline SU-series internal rectifier and inverter failures require service. Contact Tripp Lite technical support - they offer depot repair and advanced exchange on most models.
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Crown Forklift Fault Codes - Complete Guide"
 description: "Crown forklift fault codes for RC, RR, SC, and FC series electric forklifts: error codes, causes, and troubleshooting steps."
 pubDatetime: 2026-04-22T20:00:00Z
@@ -16,11 +16,18 @@ tags:
 
 Crown forklifts (RC, RR reach trucks, SC stand-up, FC counterbalanced, and ESR order pickers) display fault codes on the InfoLink or Crown Access 1 2 3 display. Codes are accessible via the Crown Diagnostic Analyst software.
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning | Quick Fix | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |---------|-----------|
-| 01 xx | [Drive system fault](https://www.amazon.com/s?k=Drive%20system%20fault&tag=errorcodefixe-20) | Check drive motor and controller |
-| [02 xx](https://www.amazon.com/s?k=02%20xx&tag=errorcodefixe-20) | Lift system fault | Check lift motor and pump | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 03 xx | Steer system fault | [Check steer motor and sensor](https://www.amazon.com/s?k=Check%20steer%20motor%20and%20sensor&tag=errorcodefixe-20) |  | 04 xx | [Brake system fault](https://www.amazon.com/s?k=Brake%20system%20fault&tag=errorcodefixe-20) | Check brake system |
-| [05 xx](https://www.amazon.com/s?k=05%20xx&tag=errorcodefixe-20) | Battery/charger fault | Check battery and charger | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 06 xx | Display/communication fault | [Check harness and display](https://www.amazon.com/s?k=Check%20harness%20and%20display&tag=errorcodefixe-20) |  | 07 xx | [Main controller fault](https://www.amazon.com/s?k=Main%20controller%20fault&tag=errorcodefixe-20) | Connect Diagnostic Analyst |
-| [08 xx](https://www.amazon.com/s?k=08%20xx&tag=errorcodefixe-20) | Temperature fault | Allow cooling, check environment | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 09 xx | I/O fault | [Check sensor and harness](https://www.amazon.com/s?k=Check%20sensor%20and%20harness&tag=errorcodefixe-20) |  | 10 xx | [System warning](https://www.amazon.com/s?k=System%20warning&tag=errorcodefixe-20) | Read specific subcode |
+| Code | Meaning | Quick Fix |
+|------|---------|-----------|
+| 01 xx | Drive system fault | Check drive motor and controller |
+| 02 xx | Lift system fault | Check lift motor and pump |
+| 03 xx | Steer system fault | Check steer motor and sensor |
+| 04 xx | Brake system fault | Check brake system |
+| 05 xx | Battery/charger fault | Check battery and charger |
+| 06 xx | Display/communication fault | Check harness and display |
+| 07 xx | Main controller fault | Connect Diagnostic Analyst |
+| 08 xx | Temperature fault | Allow cooling, check environment |
+| 09 xx | I/O fault | Check sensor and harness |
+| 10 xx | System warning | Read specific subcode |
 
 ## Most Common Faults
 
@@ -40,12 +47,11 @@ Crown controllers and motors have thermal protection. Temperature faults occur i
 
 | Part | Notes |
 |------|-------|
-| [Steer potentiometer](https://www.amazon.com/s?k=Steer%20potentiometer&tag=errorcodefixe-20) | Replace on 03-xx fault |
-| [Motor thermal sensor](https://www.amazon.com/s?k=Motor%20thermal%20sensor&tag=errorcodefixe-20) | Replace on overheat fault |
-| [Encoder (drive motor)](https://www.amazon.com/s?k=Encoder%20(drive%20motor)&tag=errorcodefixe-20) | Replace on 01-03 fault |
-| [Drive controller](https://www.amazon.com/s?k=Drive%20controller&tag=errorcodefixe-20) | Replace on persistent 01-xx fault |
-| [Battery indicator/display](https://www.amazon.com/s?k=Battery%20indicator%2Fdisplay&tag=errorcodefixe-20) | Replace on 06-xx fault |
-
+| Steer potentiometer | [Amazon](https://www.amazon.com/s?k=Steer+potentiometer&tag=errorcodefixes-20) \| Replace on 03-xx fault |
+| Motor thermal sensor | [Amazon](https://www.amazon.com/s?k=Motor+thermal+sensor&tag=errorcodefixes-20) \| Replace on overheat fault |
+| Encoder (drive motor) | [Amazon](https://www.amazon.com/s?k=Encoder+%28drive+motor%29&tag=errorcodefixes-20) \| Replace on 01-03 fault |
+| Drive controller | [Amazon](https://www.amazon.com/s?k=Drive+controller&tag=errorcodefixes-20) \| Replace on persistent 01-xx fault |
+| Battery indicator/display | [Amazon](https://www.amazon.com/s?k=Battery+indicator%2Fdisplay&tag=errorcodefixes-20) \| Replace on 06-xx fault |
 ## When to Call a Pro
 Crown forklifts require Crown-authorized service for mast and hydraulic repairs. The Diagnostic Analyst software is dealer-only - internal fault codes and calibration procedures are not published for general use.
 

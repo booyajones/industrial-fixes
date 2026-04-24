@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Yaskawa VFD Fault SC — Causes & Fix"
 description: "What Yaskawa VFD fault SC means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,10 +36,9 @@ Yaskawa VFD fault SC (IGBT Short Circuit or Gate Drive Fault) indicates that the
 
 | Part | Notes |
 |------|-------|
-| [Drive IGBT module / power board](https://www.amazon.com/s?k=Drive%20IGBT%20module%20%2F%20power%20board&tag=errorcodefixe-20) | Must match drive voltage/current rating; Yaskawa components are model-specific |
-| [Motor (replace or rewind)](https://www.amazon.com/s?k=Motor%20(replace%20or%20rewind)&tag=errorcodefixe-20) | If winding short is confirmed; rewinding larger motors is cost-effective |
-| [Output cable](https://www.amazon.com/s?k=Output%20cable&tag=errorcodefixe-20) | Replace if insulation damage or conductor-to-conductor short found |
-
+| Drive IGBT module / power board | [Amazon](https://www.amazon.com/s?k=Drive+IGBT+module+%2F+power+board&tag=errorcodefixes-20) \| Must match drive voltage/current rating; Yaskawa components are model-specific |
+| Motor (replace or rewind) | [Amazon](https://www.amazon.com/s?k=Motor+%28replace+or+rewind%29&tag=errorcodefixes-20) \| If winding short is confirmed; rewinding larger motors is cost-effective |
+| Output cable | [Amazon](https://www.amazon.com/s?k=Output+cable&tag=errorcodefixes-20) \| Replace if insulation damage or conductor-to-conductor short found |
 ## When to Call a Pro
 
 SC faults involving failed IGBTs inside the drive require capacitor discharge verification, high-voltage PPE, and component-level knowledge. IGBT module replacement on industrial drives is typically performed by a Yaskawa service technician or certified drive repair center.

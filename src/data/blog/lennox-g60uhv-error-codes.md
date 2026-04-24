@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lennox G60UHV Furnace Error Codes — Flash Code Diagnostic Guide"
 description: "Complete guide to Lennox G60UHV variable-speed furnace error codes, flash sequences, fault causes, and step-by-step repairs for the most common failures."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -20,21 +20,21 @@ The Lennox G60UHV is a variable-speed, 80% AFUE gas furnace that uses an ECM blo
 
 ## Lennox G60UHV Flash Code Reference
 
-| [Flash Code](https://www.amazon.com/s?k=Flash%20Code&tag=errorcodefixe-20) | Meaning |
+| Flash Code | Meaning |
 |------------|---------|
-| [1 flash](https://www.amazon.com/s?k=1%20flash&tag=errorcodefixe-20) | Normal — call for heat satisfied |
-| [2 flashes](https://www.amazon.com/s?k=2%20flashes&tag=errorcodefixe-20) | Inducer motor not at speed |
-| [3 flashes](https://www.amazon.com/s?k=3%20flashes&tag=errorcodefixe-20) | Pressure switch stuck open |
-| [4 flashes](https://www.amazon.com/s?k=4%20flashes&tag=errorcodefixe-20) | High-limit switch open |
-| [5 flashes](https://www.amazon.com/s?k=5%20flashes&tag=errorcodefixe-20) | Flame sensed — no call for heat |
-| [6 flashes](https://www.amazon.com/s?k=6%20flashes&tag=errorcodefixe-20) | AC power fault (115V) |
-| [7 flashes](https://www.amazon.com/s?k=7%20flashes&tag=errorcodefixe-20) | Gas valve circuit fault |
-| [8 flashes](https://www.amazon.com/s?k=8%20flashes&tag=errorcodefixe-20) | Ignition lockout (failed to prove flame) |
-| [9 flashes](https://www.amazon.com/s?k=9%20flashes&tag=errorcodefixe-20) | Rollout limit switch open |
-| [10 flashes](https://www.amazon.com/s?k=10%20flashes&tag=errorcodefixe-20) | Pressure switch stuck closed |
-| [11 flashes](https://www.amazon.com/s?k=11%20flashes&tag=errorcodefixe-20) | Blower motor fault |
-| [12 flashes](https://www.amazon.com/s?k=12%20flashes&tag=errorcodefixe-20) | Limit device fault (repeated trips) |
-| [13 flashes](https://www.amazon.com/s?k=13%20flashes&tag=errorcodefixe-20) | Control board failure |
+| 1 flash | Normal — call for heat satisfied |
+| 2 flashes | Inducer motor not at speed |
+| 3 flashes | Pressure switch stuck open |
+| 4 flashes | High-limit switch open |
+| 5 flashes | Flame sensed — no call for heat |
+| 6 flashes | AC power fault (115V) |
+| 7 flashes | Gas valve circuit fault |
+| 8 flashes | Ignition lockout (failed to prove flame) |
+| 9 flashes | Rollout limit switch open |
+| 10 flashes | Pressure switch stuck closed |
+| 11 flashes | Blower motor fault |
+| 12 flashes | Limit device fault (repeated trips) |
+| 13 flashes | Control board failure |
 
 ## Common Causes by Code
 
@@ -58,13 +58,12 @@ The Lennox G60UHV is a variable-speed, 80% AFUE gas furnace that uses an ECM blo
 
 | Part | Notes |
 |------|-------|
-| [SureLight ignitor](https://www.amazon.com/s?k=SureLight%20ignitor&tag=errorcodefixe-20) | Lennox-specific; use OEM part number |
-| [Condensate trap](https://www.amazon.com/s?k=Condensate%20trap&tag=errorcodefixe-20) | Integrated into G60UHV cabinet; replace if cracked |
-| [ECM blower module](https://www.amazon.com/s?k=ECM%20blower%20module&tag=errorcodefixe-20) | Mounts to rear of motor; test before replacing motor |
-| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Confirm correct rating for single or two-stage |
-| [Inducer motor](https://www.amazon.com/s?k=Inducer%20motor&tag=errorcodefixe-20) | Replace bearing or full motor assembly |
-| [Control board](https://www.amazon.com/s?k=Control%20board&tag=errorcodefixe-20) | For Code 13 or communication errors |
-
+| SureLight ignitor | [Amazon](https://www.amazon.com/s?k=SureLight+ignitor&tag=errorcodefixes-20) \| Lennox-specific; use OEM part number |
+| Condensate trap | [Amazon](https://www.amazon.com/s?k=Condensate+trap&tag=errorcodefixes-20) \| Integrated into G60UHV cabinet; replace if cracked |
+| ECM blower module | [Amazon](https://www.amazon.com/s?k=ECM+blower+module&tag=errorcodefixes-20) \| Mounts to rear of motor; test before replacing motor |
+| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Confirm correct rating for single or two-stage |
+| Inducer motor | [Amazon](https://www.amazon.com/s?k=Inducer+motor&tag=errorcodefixes-20) \| Replace bearing or full motor assembly |
+| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| For Code 13 or communication errors |
 ## When to Call a Pro
 
 The G60UHV's ECM motor requires specialized diagnosis. Lennox sells a motor tester tool (L0409MOTORTOOL) used by authorized dealers to identify whether the fault is in the motor, module, or control board. If you're seeing Code 11 or 13 without an obvious cause, an authorized Lennox dealer can connect diagnostic tools for a definitive diagnosis.

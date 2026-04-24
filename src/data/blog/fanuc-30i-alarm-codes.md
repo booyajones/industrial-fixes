@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference"
 description: "Complete guide to Fanuc 30i, 31i, and 32i CNC alarm codes, meanings, causes, and first-step troubleshooting procedures."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -20,20 +20,20 @@ The Fanuc 30i, 31i, and 32i controls are higher-end CNC platforms used on multi-
 
 ## Common Fanuc 30i/31i/32i Alarm Reference
 
-| [Alarm](https://www.amazon.com/s?k=Alarm&tag=errorcodefixe-20) | Meaning |
+| Alarm | Meaning |
 |---|---|
-| [100](https://www.amazon.com/s?k=100&tag=errorcodefixe-20) | Parameter error |
-| [300](https://www.amazon.com/s?k=300&tag=errorcodefixe-20) | Emergency stop |
-| [350](https://www.amazon.com/s?k=350&tag=errorcodefixe-20) | I/O link communication fault |
-| [401](https://www.amazon.com/s?k=401&tag=errorcodefixe-20) | Servo alarm — VRDY off |
-| [409](https://www.amazon.com/s?k=409&tag=errorcodefixe-20) | Spindle serial link fault |
-| [414](https://www.amazon.com/s?k=414&tag=errorcodefixe-20) | Servo alarm detail |
-| [436](https://www.amazon.com/s?k=436&tag=errorcodefixe-20) | Zero position return fault |
-| [500](https://www.amazon.com/s?k=500&tag=errorcodefixe-20) | Servo overcurrent |
-| [700](https://www.amazon.com/s?k=700&tag=errorcodefixe-20) | Spindle alarm |
-| [750](https://www.amazon.com/s?k=750&tag=errorcodefixe-20) | Serial pulse coder alarm |
-| [911](https://www.amazon.com/s?k=911&tag=errorcodefixe-20) | SRAM error |
-| [920](https://www.amazon.com/s?k=920&tag=errorcodefixe-20) | Servo parameter mismatch |
+| 100 | Parameter error |
+| 300 | Emergency stop |
+| 350 | I/O link communication fault |
+| 401 | Servo alarm — VRDY off |
+| 409 | Spindle serial link fault |
+| 414 | Servo alarm detail |
+| 436 | Zero position return fault |
+| 500 | Servo overcurrent |
+| 700 | Spindle alarm |
+| 750 | Serial pulse coder alarm |
+| 911 | SRAM error |
+| 920 | Servo parameter mismatch |
 
 ## Common Causes by Alarm
 
@@ -55,11 +55,10 @@ The Fanuc 30i, 31i, and 32i controls are higher-end CNC platforms used on multi-
 
 | Part | Notes |
 |---|---|
-| [Encoder battery](https://www.amazon.com/s?k=Encoder%20battery&tag=errorcodefixe-20) | Prevents position loss |
-| [I/O link cable](https://www.amazon.com/s?k=I%2FO%20link%20cable&tag=errorcodefixe-20) | Common issue in harsh cabinets |
-| [Servo amplifier](https://www.amazon.com/s?k=Servo%20amplifier&tag=errorcodefixe-20) | For persistent VRDY/overcurrent faults |
-| [Spindle interface board](https://www.amazon.com/s?k=Spindle%20interface%20board&tag=errorcodefixe-20) | OEM dependent |
-
+| Encoder battery | [Amazon](https://www.amazon.com/s?k=Encoder+battery&tag=errorcodefixes-20) \| Prevents position loss |
+| I/O link cable | [Amazon](https://www.amazon.com/s?k=I%2FO+link+cable&tag=errorcodefixes-20) \| Common issue in harsh cabinets |
+| Servo amplifier | [Amazon](https://www.amazon.com/s?k=Servo+amplifier&tag=errorcodefixes-20) \| For persistent VRDY/overcurrent faults |
+| Spindle interface board | [Amazon](https://www.amazon.com/s?k=Spindle+interface+board&tag=errorcodefixes-20) \| OEM dependent |
 ## When to Call a Pro
 
 These controls often run on high-value production equipment. Repeated 911, 920, or spindle serial alarms justify immediate involvement from a Fanuc-trained technician or the machine builder because incorrect recovery can cost parameters, offsets, and machine geometry.

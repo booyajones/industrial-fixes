@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Trane XR80 Error Codes — Flash Code Quick Reference"
 description: "Complete Trane XR80 flash code guide: what each LED pattern (1–9 flashes) means and how to fix common faults."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -19,11 +19,18 @@ The Trane XR80 is a single-stage 80% AFUE gas furnace that communicates faults t
 
 ## Trane XR80 Flash Code Reference
 
-| [Flash Code](https://www.amazon.com/s?k=Flash%20Code&tag=errorcodefixe-20) | Meaning | Priority | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------------ |---------|----------|
-| Steady ON | [Normal operation](https://www.amazon.com/s?k=Normal%20operation&tag=errorcodefixe-20) | — |
-| [1 Flash](https://www.amazon.com/s?k=1%20Flash&tag=errorcodefixe-20) | System lockout (exceeded retry/recycle count) | High | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 2 Flashes | Pressure switch stuck open | [Medium](https://www.amazon.com/s?k=Medium&tag=errorcodefixe-20) |  | 3 Flashes | [Pressure switch stuck closed](https://www.amazon.com/s?k=Pressure%20switch%20stuck%20closed&tag=errorcodefixe-20) | Medium |
-| [4 Flashes](https://www.amazon.com/s?k=4%20Flashes&tag=errorcodefixe-20) | Open high-limit device | High | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 5 Flashes | Flame sensed without call for heat | [High](https://www.amazon.com/s?k=High&tag=errorcodefixe-20) |  | 6 Flashes | [115V AC power reversed (polarity fault)](https://www.amazon.com/s?k=115V%20AC%20power%20reversed%20(polarity%20fault)&tag=errorcodefixe-20) | Medium |
-| [7 Flashes](https://www.amazon.com/s?k=7%20Flashes&tag=errorcodefixe-20) | Gas valve circuit fault or low flame signal | High | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 8 Flashes | Low flame signal / ignition problem | [High](https://www.amazon.com/s?k=High&tag=errorcodefixe-20) |  | 9 Flashes | [Blower on-delay timeout (blower not starting)](https://www.amazon.com/s?k=Blower%20on-delay%20timeout%20(blower%20not%20starting)&tag=errorcodefixe-20) | High |
+| Flash Code | Meaning | Priority |
+|------------|---------|----------|
+| Steady ON | Normal operation | — |
+| 1 Flash | System lockout (exceeded retry/recycle count) | High |
+| 2 Flashes | Pressure switch stuck open | Medium |
+| 3 Flashes | Pressure switch stuck closed | Medium |
+| 4 Flashes | Open high-limit device | High |
+| 5 Flashes | Flame sensed without call for heat | High |
+| 6 Flashes | 115V AC power reversed (polarity fault) | Medium |
+| 7 Flashes | Gas valve circuit fault or low flame signal | High |
+| 8 Flashes | Low flame signal / ignition problem | High |
+| 9 Flashes | Blower on-delay timeout (blower not starting) | High |
 
 ## Step-by-Step Fix {#fix}
 
@@ -58,12 +65,11 @@ Test the run capacitor (match µF rating). Check for debris binding the blower w
 
 | Part | Notes |
 |------|-------|
-| [Flame sensor rod](https://www.amazon.com/s?k=Flame%20sensor%20rod&tag=errorcodefixe-20) | Most codes 7 and 8 start with the sensor |
-| [Blower run capacitor](https://www.amazon.com/s?k=Blower%20run%20capacitor&tag=errorcodefixe-20) | Code 9; match µF and voltage on the capacitor label |
-| [Hot surface ignitor](https://www.amazon.com/s?k=Hot%20surface%20ignitor&tag=errorcodefixe-20) | Code 8; silicon carbide, 120V |
-| [Draft pressure switch](https://www.amazon.com/s?k=Draft%20pressure%20switch&tag=errorcodefixe-20) | Codes 2 and 3 |
-| [High-limit switch](https://www.amazon.com/s?k=High-limit%20switch&tag=errorcodefixe-20) | Code 4; match temperature rating |
-
+| Flame sensor rod | [Amazon](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20) \| Most codes 7 and 8 start with the sensor |
+| Blower run capacitor | [Amazon](https://www.amazon.com/s?k=Blower+run+capacitor&tag=errorcodefixes-20) \| Code 9; match µF and voltage on the capacitor label |
+| Hot surface ignitor | [Amazon](https://www.amazon.com/s?k=Hot+surface+ignitor&tag=errorcodefixes-20) \| Code 8; silicon carbide, 120V |
+| Draft pressure switch | [Amazon](https://www.amazon.com/s?k=Draft+pressure+switch&tag=errorcodefixes-20) \| Codes 2 and 3 |
+| High-limit switch | [Amazon](https://www.amazon.com/s?k=High-limit+switch&tag=errorcodefixes-20) \| Code 4; match temperature rating |
 ## When to Call a Pro
 
 Code 5 (flame without call) is a gas leak/valve failure — shut off the gas and do not attempt DIY repair. Code 4 that recurs after replacing the filter and confirming airflow may indicate a cracked heat exchanger, which requires professional inspection and is a carbon monoxide hazard.

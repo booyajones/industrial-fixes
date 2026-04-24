@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Hoshizaki KM Series E1 Error Code — Causes & Fix"
 description: "What Hoshizaki KM Series E1 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,10 +36,9 @@ The E1 error on Hoshizaki KM Series modular ice machines (KM-320, KM-515, KM-130
 
 | Part | Notes |
 |------|-------|
-| [Hoshizaki Scale Away cleaner](https://www.amazon.com/s?k=Hoshizaki%20Scale%20Away%20cleaner&tag=errorcodefixe-20) | Descale quarterly or per local water hardness |
-| [Water distribution tube](https://www.amazon.com/s?k=Water%20distribution%20tube&tag=errorcodefixe-20) | Replace if nozzles are clogged or cracked |
-| [Refrigerant (R-404A / R-448A)](https://www.amazon.com/s?k=Refrigerant%20(R-404A%20%2F%20R-448A)&tag=errorcodefixe-20) | Only after finding and repairing the leak |
-
+| Hoshizaki Scale Away cleaner | [Amazon](https://www.amazon.com/s?k=Hoshizaki+Scale+Away+cleaner&tag=errorcodefixes-20) \| Descale quarterly or per local water hardness |
+| Water distribution tube | [Amazon](https://www.amazon.com/s?k=Water+distribution+tube&tag=errorcodefixes-20) \| Replace if nozzles are clogged or cracked |
+| Refrigerant (R-404A / R-448A) | [Amazon](https://www.amazon.com/s?k=Refrigerant+%28R-404A+%2F+R-448A%29&tag=errorcodefixes-20) \| Only after finding and repairing the leak |
 ## When to Call a Pro
 
 Refrigerant work on Hoshizaki KM units requires EPA 608 certification and recovery equipment. If condenser and water system are clean and E1 persists, a certified refrigeration tech should check the sealed system.

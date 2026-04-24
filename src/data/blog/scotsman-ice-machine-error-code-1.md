@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Scotsman Ice Machine Error Code 1 — High Pressure Cutout Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-04-16T08:00:00Z
@@ -46,9 +46,9 @@ If refrigerant system issues are present (overcharge, non-condensables, restrict
 
 | Part | Where to Buy |
 |------|-------------|
-| [Scotsman condenser fan motor](https://www.amazon.com/s?k=Scotsman%20condenser%20fan%20motor&tag=errorcodefixe-20) | RepairClinic, SupplyHouse |
-| [Coil cleaner (Nu-Brite or equivalent)](https://www.amazon.com/s?k=Coil%20cleaner%20(Nu-Brite%20or%20equivalent)&tag=errorcodefixe-20) | Amazon, Grainger |
-| [High pressure switch](https://www.amazon.com/s?k=High%20pressure%20switch&tag=errorcodefixe-20) | RepairClinic, SupplyHouse |
+| Scotsman condenser fan motor | RepairClinic, SupplyHouse |
+| Coil cleaner (Nu-Brite or equivalent) | Amazon, Grainger |
+| High pressure switch | RepairClinic, SupplyHouse |
 
 ## When to Call a Technician
 

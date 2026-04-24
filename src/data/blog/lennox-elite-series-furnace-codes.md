@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Lennox Elite Series furnace error codes, LED flash sequences, alert codes, common fault causes, and step-by-step repair procedures."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -20,12 +20,22 @@ The Lennox Elite Series includes several residential gas furnace models: the EL1
 
 ## Lennox Elite Series Flash Code / Alert Code Reference
 
-| [Flash Code](https://www.amazon.com/s?k=Flash%20Code&tag=errorcodefixe-20) | Alert Code | Fault | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | --- |---|---|
-| 2 flashes | [111](https://www.amazon.com/s?k=111&tag=errorcodefixe-20) | Pressure switch stuck open |
-| [3 flashes](https://www.amazon.com/s?k=3%20flashes&tag=errorcodefixe-20) | 112 | Pressure switch stuck closed | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 4 flashes | 223 | [Open high-limit device](https://www.amazon.com/s?k=Open%20high-limit%20device&tag=errorcodefixe-20) |  | 5 flashes | [224](https://www.amazon.com/s?k=224&tag=errorcodefixe-20) | Rollout switch open |
-| [6 flashes](https://www.amazon.com/s?k=6%20flashes&tag=errorcodefixe-20) | 225 | Flame not established at end of trial | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 7 flashes | 411 | [Ignition lockout — 3 retries failed](https://www.amazon.com/s?k=Ignition%20lockout%20%E2%80%94%203%20retries%20failed&tag=errorcodefixe-20) |  | 8 flashes | [412](https://www.amazon.com/s?k=412&tag=errorcodefixe-20) | Flame sensed without gas valve call |
-| [9 flashes](https://www.amazon.com/s?k=9%20flashes&tag=errorcodefixe-20) | 414 | Low gas pressure | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 10 flashes | 431 | [Communication fault (iComfort)](https://www.amazon.com/s?k=Communication%20fault%20(iComfort)&tag=errorcodefixe-20) |  | 11 flashes | [432](https://www.amazon.com/s?k=432&tag=errorcodefixe-20) | Blower fault |
-| [12 flashes](https://www.amazon.com/s?k=12%20flashes&tag=errorcodefixe-20) | 434 | Inducer motor fault | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Rapid | 540 | [Control board fault](https://www.amazon.com/s?k=Control%20board%20fault&tag=errorcodefixe-20) | ## Common Causes by Code
+| Flash Code | Alert Code | Fault |
+|---|---|---|
+| 2 flashes | 111 | Pressure switch stuck open |
+| 3 flashes | 112 | Pressure switch stuck closed |
+| 4 flashes | 223 | Open high-limit device |
+| 5 flashes | 224 | Rollout switch open |
+| 6 flashes | 225 | Flame not established at end of trial |
+| 7 flashes | 411 | Ignition lockout — 3 retries failed |
+| 8 flashes | 412 | Flame sensed without gas valve call |
+| 9 flashes | 414 | Low gas pressure |
+| 10 flashes | 431 | Communication fault (iComfort) |
+| 11 flashes | 432 | Blower fault |
+| 12 flashes | 434 | Inducer motor fault |
+| Rapid | 540 | Control board fault |
+
+## Common Causes by Code
 
 - **2 flashes / Alert 111 — Pressure switch open** — On 90%+ Elite models, check the condensate drain and the secondary heat exchanger for water blockage. On 80% models, check flue gas venting for obstruction. The inducer must run and create negative pressure before the pressure switch closes.
 - **4 flashes / Alert 223 — High limit** — Restricted airflow is the primary cause. Lennox Elite Series blowers use either PSC or ECM motors — on ECM models, a failed motor module can reduce airflow even with no obvious symptom.
@@ -41,9 +51,16 @@ The Lennox Elite Series includes several residential gas furnace models: the EL1
 4. **For rollout switch (5 flashes / Alert 224)** — Do not reset until the cause is identified. Inspect the heat exchanger for cracks using a flashlight through the burner ports. Also measure gas manifold pressure — should be 3.5" WC natural gas, not higher.
 5. **For ignition failure (7 flashes / Alert 411)** — Watch the ignition sequence through the sight glass. Time the igniter warm-up (17–40 seconds depending on model). If the igniter glows and gas doesn't light, check gas valve operation with a voltmeter at the valve terminals (24VAC on call for heat).
 
-## Parts Often Needed | Part | [Notes](https://www.amazon.com/s?k=Notes&tag=errorcodefixe-20) |  |---|---|
-| SureLight igniter | [Silicon nitride; part number varies by model](https://www.amazon.com/s?k=Silicon%20nitride%3B%20part%20number%20varies%20by%20model&tag=errorcodefixe-20) |  | Flame sensor | [Clean with fine steel wool; measure µA output](https://www.amazon.com/s?k=Clean%20with%20fine%20steel%20wool%3B%20measure%20%C2%B5A%20output&tag=errorcodefixe-20) |  | Pressure switch | [Single or dual switch depending on model](https://www.amazon.com/s?k=Single%20or%20dual%20switch%20depending%20on%20model&tag=errorcodefixe-20) |  | ECM blower motor module | [Replace module only if motor spins freely](https://www.amazon.com/s?k=Replace%20module%20only%20if%20motor%20spins%20freely&tag=errorcodefixe-20) |  | High-limit switch | [Check reset button — some are auto-reset, some manual](https://www.amazon.com/s?k=Check%20reset%20button%20%E2%80%94%20some%20are%20auto-reset%2C%20some%20manual&tag=errorcodefixe-20) |  | Rollout switch | Manual-reset; do not bypass |
+## Parts Often Needed
 
+| Part | Notes |
+|---|---|
+| SureLight igniter | [Amazon](https://www.amazon.com/s?k=SureLight+igniter&tag=errorcodefixes-20) \| Silicon nitride; part number varies by model |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Clean with fine steel wool; measure µA output |
+| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Single or dual switch depending on model |
+| ECM blower motor module | [Amazon](https://www.amazon.com/s?k=ECM+blower+motor+module&tag=errorcodefixes-20) \| Replace module only if motor spins freely |
+| High-limit switch | [Amazon](https://www.amazon.com/s?k=High-limit+switch&tag=errorcodefixes-20) \| Check reset button — some are auto-reset, some manual |
+| Rollout switch | [Amazon](https://www.amazon.com/s?k=Rollout+switch&tag=errorcodefixes-20) \| Manual-reset; do not bypass |
 ## When to Call a Pro
 
 Lennox Elite Series furnaces with iComfort communicating systems require Lennox service tools for full diagnostics. Alert Code 540 (control board fault) and any code that returns after a verified repair should be evaluated by a Lennox Premier Dealer. Heat exchanger inspection for rollout switch trips requires camera inspection equipment and combustion analysis.

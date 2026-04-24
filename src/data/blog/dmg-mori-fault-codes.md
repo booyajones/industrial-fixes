@@ -1,4 +1,4 @@
-﻿---
+---
 title: "DMG Mori CNC Fault Codes Guide — CELOS / Siemens 840D"
 description: "DMG Mori CNC machine fault codes for CELOS and Siemens 840D SL controls: alarm descriptions, servo and spindle faults, and troubleshooting steps."
 pubDatetime: 2026-04-22T21:00:00Z
@@ -20,12 +20,12 @@ DMG Mori machining centers and lathes (NLX, NHX, DMC, CTX, DMU series) typically
 
 ## Alarm Types on DMG Mori Machines
 
-| [Alarm Range](https://www.amazon.com/s?k=Alarm%20Range&tag=errorcodefixe-20) | Source |
+| Alarm Range | Source |
 |------------|--------|
-| [1–999](https://www.amazon.com/s?k=1%E2%80%93999&tag=errorcodefixe-20) | Siemens NC alarms (channel) |
-| [300000–399999](https://www.amazon.com/s?k=300000%E2%80%93399999&tag=errorcodefixe-20) | Siemens SINAMICS drive alarms (A3xxxxx) |
-| [380000–380999](https://www.amazon.com/s?k=380000%E2%80%93380999&tag=errorcodefixe-20) | Servo drive alarms |
-| [700000–799999](https://www.amazon.com/s?k=700000%E2%80%93799999&tag=errorcodefixe-20) | PLC alarms (DMG machine-specific) |
+| 1–999 | Siemens NC alarms (channel) |
+| 300000–399999 | Siemens SINAMICS drive alarms (A3xxxxx) |
+| 380000–380999 | Servo drive alarms |
+| 700000–799999 | PLC alarms (DMG machine-specific) |
 
 See also: [Siemens SINUMERIK Alarm Guide](/siemens-sinumerik-840d-alarm-25000) for detailed Siemens NC alarm coverage.
 
@@ -72,11 +72,10 @@ These appear as advisory alarms (yellow) and do not prevent machine operation bu
 
 | Part | Notes |
 |------|-------|
-| [SINAMICS encoder cable](https://www.amazon.com/s?k=SINAMICS%20encoder%20cable&tag=errorcodefixe-20) | Replace on F07805 encoder faults |
-| [Hydraulic filter](https://www.amazon.com/s?k=Hydraulic%20filter&tag=errorcodefixe-20) | Replace on lubrication/hydraulic alarms |
-| [Tool changer cam followers](https://www.amazon.com/s?k=Tool%20changer%20cam%20followers&tag=errorcodefixe-20) | Inspect on ATC faults |
-| [Lubrication pump](https://www.amazon.com/s?k=Lubrication%20pump&tag=errorcodefixe-20) | Replace on lubrication alarms |
-
+| SINAMICS encoder cable | [Amazon](https://www.amazon.com/s?k=SINAMICS+encoder+cable&tag=errorcodefixes-20) \| Replace on F07805 encoder faults |
+| Hydraulic filter | [Amazon](https://www.amazon.com/s?k=Hydraulic+filter&tag=errorcodefixes-20) \| Replace on lubrication/hydraulic alarms |
+| Tool changer cam followers | [Amazon](https://www.amazon.com/s?k=Tool+changer+cam+followers&tag=errorcodefixes-20) \| Inspect on ATC faults |
+| Lubrication pump | [Amazon](https://www.amazon.com/s?k=Lubrication+pump&tag=errorcodefixes-20) \| Replace on lubrication alarms |
 ## Jump to Fix
 
 - **380xxx drive fault** → Check SINAMICS fault buffer → Diagnose F-code → Address root cause

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Carrier 58CVA Furnace Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Carrier 58CVA furnace error codes, LED flash sequences, common fault causes, and step-by-step repair procedures for HVAC technicians."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -20,28 +20,28 @@ The Carrier 58CVA is a two-stage variable-speed gas furnace delivering 80% AFUE 
 
 ## Carrier 58CVA Error Code Reference
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Fault |
+| Code | Fault |
 |---|---|
-| [11](https://www.amazon.com/s?k=11&tag=errorcodefixe-20) | No ignition — failed to light |
-| [12](https://www.amazon.com/s?k=12&tag=errorcodefixe-20) | Blower on after delay (not a fault — status) |
-| [13](https://www.amazon.com/s?k=13&tag=errorcodefixe-20) | Limit device lockout — exceeded 3 limit trips |
-| [14](https://www.amazon.com/s?k=14&tag=errorcodefixe-20) | Ignition lockout — exceeded 3 ignition failures |
-| [21](https://www.amazon.com/s?k=21&tag=errorcodefixe-20) | Gas heating lockout — control reset required |
-| [22](https://www.amazon.com/s?k=22&tag=errorcodefixe-20) | Abnormal flame sense current |
-| [23](https://www.amazon.com/s?k=23&tag=errorcodefixe-20) | Pressure switch stuck open |
-| [24](https://www.amazon.com/s?k=24&tag=errorcodefixe-20) | Secondary voltage fuse blown |
-| [25](https://www.amazon.com/s?k=25&tag=errorcodefixe-20) | Modulating gas valve fault |
-| [31](https://www.amazon.com/s?k=31&tag=errorcodefixe-20) | Pressure switch stuck closed |
-| [32](https://www.amazon.com/s?k=32&tag=errorcodefixe-20) | Pressure switch open during run |
-| [33](https://www.amazon.com/s?k=33&tag=errorcodefixe-20) | Limit circuit open |
-| [34](https://www.amazon.com/s?k=34&tag=errorcodefixe-20) | Igniter circuit open |
-| [41](https://www.amazon.com/s?k=41&tag=errorcodefixe-20) | Blower motor fault |
-| [42](https://www.amazon.com/s?k=42&tag=errorcodefixe-20) | Inducer motor fault |
-| [43](https://www.amazon.com/s?k=43&tag=errorcodefixe-20) | Condensate system fault (if equipped) |
-| [44](https://www.amazon.com/s?k=44&tag=errorcodefixe-20) | Flame sensed after gas valve closed |
-| [45](https://www.amazon.com/s?k=45&tag=errorcodefixe-20) | Control board fault |
-| [46](https://www.amazon.com/s?k=46&tag=errorcodefixe-20) | Incorrect line voltage (out of range) |
-| [47](https://www.amazon.com/s?k=47&tag=errorcodefixe-20) | Low-stage pressure switch stuck open |
+| 11 | No ignition — failed to light |
+| 12 | Blower on after delay (not a fault — status) |
+| 13 | Limit device lockout — exceeded 3 limit trips |
+| 14 | Ignition lockout — exceeded 3 ignition failures |
+| 21 | Gas heating lockout — control reset required |
+| 22 | Abnormal flame sense current |
+| 23 | Pressure switch stuck open |
+| 24 | Secondary voltage fuse blown |
+| 25 | Modulating gas valve fault |
+| 31 | Pressure switch stuck closed |
+| 32 | Pressure switch open during run |
+| 33 | Limit circuit open |
+| 34 | Igniter circuit open |
+| 41 | Blower motor fault |
+| 42 | Inducer motor fault |
+| 43 | Condensate system fault (if equipped) |
+| 44 | Flame sensed after gas valve closed |
+| 45 | Control board fault |
+| 46 | Incorrect line voltage (out of range) |
+| 47 | Low-stage pressure switch stuck open |
 
 ## Common Causes by Code
 
@@ -64,13 +64,12 @@ The Carrier 58CVA is a two-stage variable-speed gas furnace delivering 80% AFUE 
 
 | Part | Notes |
 |---|---|
-| [Hot surface igniter](https://www.amazon.com/s?k=Hot%20surface%20igniter&tag=errorcodefixe-20) | Silicon nitride; handle carefully, avoid touching ceramic |
-| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | Clean first; replace if cracked or reading <0.5 µA |
-| [ECM blower motor](https://www.amazon.com/s?k=ECM%20blower%20motor&tag=errorcodefixe-20) | Verify correct motor model; programmed to unit |
-| [Inducer motor](https://www.amazon.com/s?k=Inducer%20motor&tag=errorcodefixe-20) | Match frame size and speed rating |
-| [High-limit switch](https://www.amazon.com/s?k=High-limit%20switch&tag=errorcodefixe-20) | L170°F or L200°F depending on unit config |
-| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Check tubing for blockage before replacing |
-
+| Hot surface igniter | [Amazon](https://www.amazon.com/s?k=Hot+surface+igniter&tag=errorcodefixes-20) \| Silicon nitride; handle carefully, avoid touching ceramic |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Clean first; replace if cracked or reading <0.5 µA |
+| ECM blower motor | [Amazon](https://www.amazon.com/s?k=ECM+blower+motor&tag=errorcodefixes-20) \| Verify correct motor model; programmed to unit |
+| Inducer motor | [Amazon](https://www.amazon.com/s?k=Inducer+motor&tag=errorcodefixes-20) \| Match frame size and speed rating |
+| High-limit switch | [Amazon](https://www.amazon.com/s?k=High-limit+switch&tag=errorcodefixes-20) \| L170°F or L200°F depending on unit config |
+| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Check tubing for blockage before replacing |
 ## When to Call a Pro
 
 The 58CVA's two-stage gas valve and ECM motor require familiarity with Carrier's variable-speed control logic to diagnose correctly. If Code 45 (control board fault) appears, contact a Carrier authorized dealer — board replacement on a variable-speed furnace requires configuration matching the ECM motor and gas valve parameters.

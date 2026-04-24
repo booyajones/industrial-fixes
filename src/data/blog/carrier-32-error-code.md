@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Carrier 32 Error Code — Causes & Fix"
 description: "What Carrier error code 32 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,10 +36,9 @@ Carrier fault code 32 indicates a pressure switch stuck in the closed (satisfied
 
 | Part | Notes |
 |------|-------|
-| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Match exact part number — setpoint varies by model and BTU rating |
-| [Pressure switch tubing (rubber)](https://www.amazon.com/s?k=Pressure%20switch%20tubing%20(rubber)&tag=errorcodefixe-20) | Replace if cracked, kinked, or contaminated with residue |
-| [Inducer motor](https://www.amazon.com/s?k=Inducer%20motor&tag=errorcodefixe-20) | If inducer fails to create adequate draft, switch may never open |
-
+| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Match exact part number — setpoint varies by model and BTU rating |
+| Pressure switch tubing (rubber) | [Amazon](https://www.amazon.com/s?k=Pressure+switch+tubing+%28rubber%29&tag=errorcodefixes-20) \| Replace if cracked, kinked, or contaminated with residue |
+| Inducer motor | [Amazon](https://www.amazon.com/s?k=Inducer+motor&tag=errorcodefixes-20) \| If inducer fails to create adequate draft, switch may never open |
 ## When to Call a Pro
 
 If clearing the condensate path and replacing the pressure switch doesn't resolve the fault, the issue may be a blocked flue, failed inducer assembly, or cracked inducer housing — all of which require professional diagnosis and venting inspection.

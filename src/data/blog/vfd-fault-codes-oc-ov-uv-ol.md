@@ -1,4 +1,4 @@
-﻿---
+---
 title: "VFD Fault Codes OC, OV, UV, OL — Complete Fix Guide"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-16T08:00:00Z
@@ -69,9 +69,12 @@ Note: exact fault code naming varies by brand. ABB uses "OC1," "OC2," "OC3" for 
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Description | Typical Cost | [Where to Buy](https://www.amazon.com/s?k=Where%20to%20Buy&tag=errorcodefixe-20) |  |------|------------|-------------|-------------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Braking resistor | OV protection for high-inertia loads | [$50–$300](https://www.amazon.com/s?k=%2450%E2%80%93%24300&tag=errorcodefixe-20) | Automation Direct / Grainger |
-| [Input line fuses](https://www.amazon.com/s?k=Input%20line%20fuses&tag=errorcodefixe-20) | UV/OC protection on input | $5–$25 each | [Grainger / McMaster-Carr](https://www.amazon.com/s?k=Grainger%20%2F%20McMaster-Carr&tag=errorcodefixe-20) |  | Drive replacement (≤5HP) | [If IGBT shorted (OC on every start)](https://www.amazon.com/s?k=If%20IGBT%20shorted%20(OC%20on%20every%20start)&tag=errorcodefixe-20) | $200–$800 | AutomationDirect / Drives Warehouse | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | External motor cooling fan | OL fix for low-speed applications | [$50–$200](https://www.amazon.com/s?k=%2450%E2%80%93%24200&tag=errorcodefixe-20) | Grainger / Amazon |
-
+| Part | Description | Typical Cost | Where to Buy |
+|------|------------|-------------|-------------|
+| Braking resistor | OV protection for high-inertia loads | $50–$300 | [Amazon](https://www.amazon.com/s?k=OV+protection+for+high-inertia+loads&tag=errorcodefixes-20) \| Automation Direct / Grainger |
+| Input line fuses | UV/OC protection on input | $5–$25 each | [Amazon](https://www.amazon.com/s?k=UV%2FOC+protection+on+input&tag=errorcodefixes-20) \| Grainger / McMaster-Carr |
+| Drive replacement (≤5HP) | If IGBT shorted (OC on every start) | $200–$800 | [Amazon](https://www.amazon.com/s?k=If+IGBT+shorted+%28OC+on+every+start%29&tag=errorcodefixes-20) \| AutomationDirect / Drives Warehouse |
+| External motor cooling fan | OL fix for low-speed applications | $50–$200 | [Amazon](https://www.amazon.com/s?k=OL+fix+for+low-speed+applications&tag=errorcodefixes-20) \| Grainger / Amazon |
 ## When to Call a Professional
 
 If you've extended ramps, verified motor parameters, confirmed the mechanical load is free, and the fault code still persists — the fault is likely inside the drive (failed IGBT output transistor, blown gate driver, failed DC bus capacitor) or inside the motor (shorted winding, failed bearing causing high current draw). IGBT testing requires live measurements inside the drive's power section with potentially lethal DC bus voltages present (up to 1,000V DC). This work requires a qualified industrial electrician or drive service technician. Most drive manufacturers have authorized service centers that can bench-test drives and perform IGBT module replacement at substantially less cost than a new drive.

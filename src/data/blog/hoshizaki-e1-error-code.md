@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-13T08:00:00Z
@@ -50,11 +50,8 @@ This code is extremely common in commercial kitchens, particularly in high-use e
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Part Number | Typical Cost | [Where to Buy](https://www.amazon.com/s?k=Where%20to%20Buy&tag=errorcodefixe-20) |  |------|------------|-------------|-------------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Water inlet valve | 4A5375-02 | [$75–$100](https://www.amazon.com/s?k=%2475%E2%80%93%24100&tag=errorcodefixe-20) | Parts Town / Grainger |
-| [Float switch](https://www.amazon.com/s?k=Float%20switch&tag=errorcodefixe-20) | 4A2734-01 | $40–$55 | [Parts Town / Amazon](https://www.amazon.com/s?k=Parts%20Town%20%2F%20Amazon&tag=errorcodefixe-20) |  | Inlet valve strainer (only) | [4A3237-01](https://www.amazon.com/s?k=4A3237-01&tag=errorcodefixe-20) | $8–$15 | Parts Town | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Water supply line (braided SS, 6ft) | — | [$12–$20](https://www.amazon.com/s?k=%2412%E2%80%93%2420&tag=errorcodefixe-20) | Home Depot / Amazon |
+| Part | Part Number | Typical Cost | Where to Buy | ------ | ------------ | ------------- | ------------- |  | Water inlet valve | 4A5375-02 | $75–$100 | Parts Town / Grainger |
+|------|------|------|------|------|------|------|------|------|------|------|------|------|
+| Float switch | 4A2734-01 | $40–$55 | [Amazon](https://www.amazon.com/s?k=4A2734-01+Home+Depot+%2F+Amazon&tag=errorcodefixes-20) \| Parts Town / Amazon | Inlet valve strainer (only) | 4A3237-01 | $8–$15 | Parts Town |  | Water supply line (braided SS, 6ft) | — | $12–$20 | Home Depot / Amazon |
 
-## When to Call a Professional
-
-If the water supply, inlet valve, and float switch all check out and the E1 code persists, the machine's control board may be misreading the float switch signal or the wiring harness has a fault. Control board diagnosis on commercial ice equipment requires familiarity with Hoshizaki's diagnostic LED sequences and service manual schematics — a qualified commercial refrigeration technician should perform this work. Also note: if the machine hasn't been professionally cleaned and descaled in the past 6 months, heavily scaled internal components can cause multiple overlapping E-codes that are impossible to sort out without a full service.
-
-> **Pro tip:** In high-mineral-water areas, the most common E1 cause is a partially blocked inlet valve strainer — not a failed valve. Before ordering the full valve assembly ($85), spend 5 minutes removing and cleaning the strainer first. A clean strainer resolves roughly a third of E1 calls in hard-water markets, and the strainer costs under $15 to replace if cleaning doesn't fully restore flow.
+## 

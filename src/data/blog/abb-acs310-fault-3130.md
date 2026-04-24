@@ -1,4 +1,4 @@
-﻿---
+---
 title: "ABB ACS310 Fault 3130 — Causes & Fix"
 description: "What ABB ACS310 Fault 3130 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,10 +36,9 @@ Fault 3130 on the ABB ACS310 variable frequency drive indicates an input phase l
 
 | Part | Notes |
 |------|-------|
-| [Input fuses (Class J or equivalent)](https://www.amazon.com/s?k=Input%20fuses%20(Class%20J%20or%20equivalent)&tag=errorcodefixe-20) | Match to ACS310 input current rating — replace all three |
-| [Input contactor](https://www.amazon.com/s?k=Input%20contactor&tag=errorcodefixe-20) | Replace if contacts are burned or pitted |
-| [Input terminal block](https://www.amazon.com/s?k=Input%20terminal%20block&tag=errorcodefixe-20) | If lug damage is found during inspection |
-
+| Input fuses (Class J or equivalent) | [Amazon](https://www.amazon.com/s?k=Input+fuses+%28Class+J+or+equivalent%29&tag=errorcodefixes-20) \| Match to ACS310 input current rating — replace all three |
+| Input contactor | [Amazon](https://www.amazon.com/s?k=Input+contactor&tag=errorcodefixes-20) \| Replace if contacts are burned or pitted |
+| Input terminal block | [Amazon](https://www.amazon.com/s?k=Input+terminal+block&tag=errorcodefixes-20) \| If lug damage is found during inspection |
 ## When to Call a Pro
 
 Phase loss diagnosis requires working in live panels with dangerous voltages. If you're not qualified to work on industrial electrical enclosures with exposed live terminals, have a licensed electrician trace and repair the input circuit.

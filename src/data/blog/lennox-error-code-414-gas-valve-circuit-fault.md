@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lennox Error Code 414 — Gas Valve Circuit Fault Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-15T08:00:00Z
@@ -48,11 +48,15 @@ Code 414 is stored in the furnace's fault history and displayed on the diagnosti
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Part Number | Typical Cost | [Where to Buy](https://www.amazon.com/s?k=Where%20to%20Buy&tag=errorcodefixe-20) |  |------|------------|-------------|-------------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Lennox Gas Valve | 1171688 | [$140–$165](https://www.amazon.com/s?k=%24140%E2%80%93%24165&tag=errorcodefixe-20) | Repair Clinic / Lennox dealer |
-| [Lennox SureLight Control Board](https://www.amazon.com/s?k=Lennox%20SureLight%20Control%20Board&tag=errorcodefixe-20) | 51M33 | $220–$275 | [Repair Clinic / HVAC distributor](https://www.amazon.com/s?k=Repair%20Clinic%20%2F%20HVAC%20distributor&tag=errorcodefixe-20) |  | Wiring Harness (if burnt) | [Contact Lennox dealer](https://www.amazon.com/s?k=Contact%20Lennox%20dealer&tag=errorcodefixe-20) | $40–$80 | Lennox dealer |
+| Part | Part Number | Typical Cost | Where to Buy |
+|------|------------|-------------|---------------|
+| Lennox Gas Valve | 1171688 | $140–$165 | [Amazon](https://www.amazon.com/s?k=Lennox+1171688+gas+valve&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=1171688) |
+| Lennox SureLight Control Board | 51M33 | $220–$275 | [Amazon](https://www.amazon.com/s?k=Lennox+51M33+SureLight+control+board&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=51M33) |
+| Wiring Harness (if burnt) | — | $40–$80 | [Lennox dealer](https://www.lennox.com/dealers) |
 
 ## When to Call a Professional
 
 Gas valve replacement is not a DIY repair in most states. Disconnecting a gas line requires a licensed contractor in jurisdictions that enforce local mechanical codes, and the work must be leak-tested before the system is returned to service. If your 414 code points to a gas valve failure, call a licensed HVAC contractor — the gas valve itself is inexpensive, but the labor and leak test are required steps, not optional ones. Control board replacement is generally within the skill set of a competent DIYer with electrical troubleshooting experience, but don't replace the board before confirming the gas valve and wiring are healthy — you'll spend $250 and still have a 414 code.
 
 > **Pro tip:** Lennox 414 codes that appear only on the first heat call of the day (and clear after a manual reset) often indicate a gas valve that's sticking closed due to debris in the valve seat — not a relay fault at all. Ask your tech to check inlet gas pressure and run the valve through several cycles before condemning either the board or the valve.
+

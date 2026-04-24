@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Haas Alarm 110 — Causes & Fix"
 description: "What Haas CNC alarm 110 means, why the axis drive faults, and how to diagnose and fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,11 +36,10 @@ Alarm 110 on a Haas CNC indicates an Axis Drive Fault — one of the servo axis 
 
 | Part | Notes |
 |------|-------|
-| [Servo amplifier (axis drive)](https://www.amazon.com/s?k=Servo%20amplifier%20(axis%20drive)&tag=errorcodefixe-20) | Haas or compatible OEM; must match axis motor |
-| [Motor encoder](https://www.amazon.com/s?k=Motor%20encoder&tag=errorcodefixe-20) | Match motor model and encoder resolution |
-| [Encoder cable](https://www.amazon.com/s?k=Encoder%20cable&tag=errorcodefixe-20) | VFD-rated and shielded; replace if damaged |
-| [Cabinet cooling fans](https://www.amazon.com/s?k=Cabinet%20cooling%20fans&tag=errorcodefixe-20) | Match voltage and CFM |
-
+| Servo amplifier (axis drive) | [Amazon](https://www.amazon.com/s?k=Servo+amplifier+%28axis+drive%29&tag=errorcodefixes-20) \| Haas or compatible OEM; must match axis motor |
+| Motor encoder | [Amazon](https://www.amazon.com/s?k=Motor+encoder&tag=errorcodefixes-20) \| Match motor model and encoder resolution |
+| Encoder cable | [Amazon](https://www.amazon.com/s?k=Encoder+cable&tag=errorcodefixes-20) \| VFD-rated and shielded; replace if damaged |
+| Cabinet cooling fans | [Amazon](https://www.amazon.com/s?k=Cabinet+cooling+fans&tag=errorcodefixes-20) \| Match voltage and CFM |
 ## When to Call a Pro
 
 After a crash event causing alarm 110, always have a qualified technician verify axis alignment and ball screw integrity before returning the machine to production. Proceeding with an unverified axis after a crash can cause inaccurate parts and further machine damage.

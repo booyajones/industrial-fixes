@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Schneider Altivar 61 OBF Fault — Causes & Fix"
 description: "What Schneider Altivar 61 OBF fault means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -36,9 +36,8 @@ The OBF fault on the Schneider Electric Altivar 61 variable speed drive indicate
 
 | Part | Notes |
 |------|-------|
-| [Motor (if windings damaged)](https://www.amazon.com/s?k=Motor%20(if%20windings%20damaged)&tag=errorcodefixe-20) | Test winding resistance and insulation before replacement |
-| [Motor cooling fan](https://www.amazon.com/s?k=Motor%20cooling%20fan&tag=errorcodefixe-20) | Replace if not running on force-ventilated motor |
-
+| Motor (if windings damaged) | [Amazon](https://www.amazon.com/s?k=Motor+%28if+windings+damaged%29&tag=errorcodefixes-20) \| Test winding resistance and insulation before replacement |
+| Motor cooling fan | [Amazon](https://www.amazon.com/s?k=Motor+cooling+fan&tag=errorcodefixes-20) \| Replace if not running on force-ventilated motor |
 ## When to Call a Pro
 
 If OBF trips with correct parameters and no mechanical overload, the motor may be undersized for the application. Consult an Schneider application engineer for drive/motor sizing review.

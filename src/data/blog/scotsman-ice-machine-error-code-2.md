@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Scotsman Ice Machine Error Code 2 — Causes & Fix"
 description: "What Scotsman ice machine error code 2 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,10 +36,9 @@ Scotsman error code 2 indicates a long harvest cycle. The control board expected
 
 | Part | Notes |
 |------|-------|
-| [Hot gas valve coil or valve assembly](https://www.amazon.com/s?k=Hot%20gas%20valve%20coil%20or%20valve%20assembly&tag=errorcodefixe-20) | Replace if the valve doesn't energize or shift cleanly in harvest |
-| [Curtain or curtain switch](https://www.amazon.com/s?k=Curtain%20or%20curtain%20switch&tag=errorcodefixe-20) | Replace if the curtain drags or the switch input is erratic |
-| [Nickel-safe ice machine cleaner](https://www.amazon.com/s?k=Nickel-safe%20ice%20machine%20cleaner&tag=errorcodefixe-20) | Required if scale is causing the slab to stick to the evaporator |
-
+| Hot gas valve coil or valve assembly | [Amazon](https://www.amazon.com/s?k=Hot+gas+valve+coil+or+valve+assembly&tag=errorcodefixes-20) \| Replace if the valve doesn't energize or shift cleanly in harvest |
+| Curtain or curtain switch | [Amazon](https://www.amazon.com/s?k=Curtain+or+curtain+switch&tag=errorcodefixes-20) \| Replace if the curtain drags or the switch input is erratic |
+| Nickel-safe ice machine cleaner | [Amazon](https://www.amazon.com/s?k=Nickel-safe+ice+machine+cleaner&tag=errorcodefixes-20) \| Required if scale is causing the slab to stick to the evaporator |
 ## When to Call a Pro
 
 If harvest stays long after cleaning and the hot gas valve tests good, the machine may have a refrigerant issue or a restricted metering circuit. That work requires a licensed refrigeration technician.

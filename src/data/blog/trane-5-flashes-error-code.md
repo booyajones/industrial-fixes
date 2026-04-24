@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Trane 5 Flashes Error Code — Causes & Fix"
 description: "What Trane 5 flashes means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,11 +36,10 @@ Five flashes on a Trane furnace LED means the pressure switch is stuck open. The
 
 | Part | Notes |
 |------|-------|
-| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Match the water column rating on the old switch (e.g., -0.65" WC) |
-| [Draft motor run capacitor](https://www.amazon.com/s?k=Draft%20motor%20run%20capacitor&tag=errorcodefixe-20) | Cheap fix if motor hums but won't start |
-| [Pressure switch hose (3/8" ID)](https://www.amazon.com/s?k=Pressure%20switch%20hose%20(3%2F8%22%20ID)&tag=errorcodefixe-20) | Cut to length; sells by the foot |
-| [Condensate trap](https://www.amazon.com/s?k=Condensate%20trap&tag=errorcodefixe-20) | Replace if cracked or permanently clogged |
-
+| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Match the water column rating on the old switch (e.g., -0.65" WC) |
+| Draft motor run capacitor | [Amazon](https://www.amazon.com/s?k=Draft+motor+run+capacitor&tag=errorcodefixes-20) \| Cheap fix if motor hums but won't start |
+| Pressure switch hose (3/8" ID) | [Amazon](https://www.amazon.com/s?k=Pressure+switch+hose+%283%2F8%22+ID%29&tag=errorcodefixes-20) \| Cut to length; sells by the foot |
+| Condensate trap | [Amazon](https://www.amazon.com/s?k=Condensate+trap&tag=errorcodefixes-20) \| Replace if cracked or permanently clogged |
 ## When to Call a Pro
 
 If the draft motor is confirmed running at speed and the vent pipes are clear, but the switch still won't close, a tech should verify static pressure with a manometer before condemning the switch. An incorrectly rated replacement switch will fail in the same way.

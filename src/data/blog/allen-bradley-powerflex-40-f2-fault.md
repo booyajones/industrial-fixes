@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Allen Bradley PowerFlex 40 F2 Fault — Causes & Fix"
 description: "What Allen Bradley PowerFlex 40 F2 ground fault means, why it trips, and how to diagnose and fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,10 +36,9 @@ The Allen Bradley PowerFlex 40 **F2 fault** is a **Ground Fault** — the drive 
 
 | Part | Notes |
 |------|-------|
-| [Motor replacement](https://www.amazon.com/s?k=Motor%20replacement&tag=errorcodefixe-20) | When megohm test shows failed insulation |
-| [VFD-rated output cable](https://www.amazon.com/s?k=VFD-rated%20output%20cable&tag=errorcodefixe-20) | Replace if cable insulation is damaged; use shielded cable for long runs |
-| [Motor terminal box sealant](https://www.amazon.com/s?k=Motor%20terminal%20box%20sealant&tag=errorcodefixe-20) | Use in wet locations to prevent moisture intrusion |
-
+| Motor replacement | [Amazon](https://www.amazon.com/s?k=Motor+replacement&tag=errorcodefixes-20) \| When megohm test shows failed insulation |
+| VFD-rated output cable | [Amazon](https://www.amazon.com/s?k=VFD-rated+output+cable&tag=errorcodefixes-20) \| Replace if cable insulation is damaged; use shielded cable for long runs |
+| Motor terminal box sealant | [Amazon](https://www.amazon.com/s?k=Motor+terminal+box+sealant&tag=errorcodefixes-20) \| Use in wet locations to prevent moisture intrusion |
 ## When to Call a Pro
 
 If F2 fires with the motor disconnected (no load on the drive), the drive's IGBT module may have failed with an internal ground path. This requires internal drive inspection by an AB-authorized service center.

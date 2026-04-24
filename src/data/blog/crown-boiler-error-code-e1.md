@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Crown Boiler E1 Error Code — Lockout Guide"
 description: "Crown Boiler E1 error means an ignition lockout. This guide covers Crown Bimini, Aruba, and Sentinel boiler E1 diagnosis, reset, and common causes."
 pubDatetime: 2026-04-22T18:00:00Z
@@ -22,15 +22,15 @@ E1 appears on Crown Bimini (BIMINI), Aruba (ARUBA), and Sentinel (PHNTM) condens
 
 ## What Causes E1
 
-| [Root Cause](https://www.amazon.com/s?k=Root%20Cause&tag=errorcodefixe-20) | Signs |
+| Root Cause | Signs |
 |---|---|
-| [No gas supply](https://www.amazon.com/s?k=No%20gas%20supply&tag=errorcodefixe-20) | No click/no smell during startup |
-| [Failed igniter](https://www.amazon.com/s?k=Failed%20igniter&tag=errorcodefixe-20) | No spark or no glow (check through view port) |
-| [Failed flame sensor](https://www.amazon.com/s?k=Failed%20flame%20sensor&tag=errorcodefixe-20) | Flame lights, then immediately shuts off |
-| [Blocked condensate drain](https://www.amazon.com/s?k=Blocked%20condensate%20drain&tag=errorcodefixe-20) | Boiler attempts ignition but draft fault intervenes |
-| [Low gas pressure](https://www.amazon.com/s?k=Low%20gas%20pressure&tag=errorcodefixe-20) | Flame lights weakly, then drops out |
-| [Dirty burner](https://www.amazon.com/s?k=Dirty%20burner&tag=errorcodefixe-20) | Delayed ignition, weak flame signal |
-| [Control board failure](https://www.amazon.com/s?k=Control%20board%20failure&tag=errorcodefixe-20) | Random lockout with no clear cause |
+| No gas supply | No click/no smell during startup |
+| Failed igniter | No spark or no glow (check through view port) |
+| Failed flame sensor | Flame lights, then immediately shuts off |
+| Blocked condensate drain | Boiler attempts ignition but draft fault intervenes |
+| Low gas pressure | Flame lights weakly, then drops out |
+| Dirty burner | Delayed ignition, weak flame signal |
+| Control board failure | Random lockout with no clear cause |
 
 ## How to Reset E1 on Crown Boilers
 
@@ -80,11 +80,11 @@ Crown condensing boilers won't attempt ignition if the condensate drain is flood
 
 | Part | Cost |
 |---|---|
-| [Hot surface igniter](https://www.amazon.com/s?k=Hot%20surface%20igniter&tag=errorcodefixe-20) | $30–80 |
-| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | $15–35 |
-| [Gas valve](https://www.amazon.com/s?k=Gas%20valve&tag=errorcodefixe-20) | $150–300 |
-| [Condensate trap (Crown OEM)](https://www.amazon.com/s?k=Condensate%20trap%20(Crown%20OEM)&tag=errorcodefixe-20) | $20–40 |
-| [Control board](https://www.amazon.com/s?k=Control%20board&tag=errorcodefixe-20) | $200–500 |
+| Hot surface igniter | $30–80 |
+| Flame sensor | $15–35 |
+| Gas valve | $150–300 |
+| Condensate trap (Crown OEM) | $20–40 |
+| Control board | $200–500 |
 
 ## Crown vs. Weil-McLain vs. Burnham E1
 

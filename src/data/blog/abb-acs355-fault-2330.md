@@ -1,4 +1,4 @@
-﻿---
+---
 title: "ABB ACS355 Fault 2330 — Ground Fault"
 description: "ABB ACS355 drive Fault 2330 means a ground fault has been detected on the output. Learn causes, diagnostic steps, and how to clear this VFD fault."
 pubDatetime: 2026-04-22T17:00:00Z
@@ -33,14 +33,14 @@ In a properly wired motor and drive system, output current should flow only thro
 
 ## Common Causes {#most-likely-cause}
 
-| [Cause](https://www.amazon.com/s?k=Cause&tag=errorcodefixe-20) | Likelihood |
+| Cause | Likelihood |
 |---|---|
-| [Failed motor winding insulation (aged motor)](https://www.amazon.com/s?k=Failed%20motor%20winding%20insulation%20(aged%20motor)&tag=errorcodefixe-20) | High |
-| [Damaged output cable (chafed or pinched)](https://www.amazon.com/s?k=Damaged%20output%20cable%20(chafed%20or%20pinched)&tag=errorcodefixe-20) | High |
-| [Moisture in motor terminal box](https://www.amazon.com/s?k=Moisture%20in%20motor%20terminal%20box&tag=errorcodefixe-20) | High |
-| [Long motor cable with high capacitive ground current](https://www.amazon.com/s?k=Long%20motor%20cable%20with%20high%20capacitive%20ground%20current&tag=errorcodefixe-20) | Medium |
-| [Drive output IGBT failure (internal fault)](https://www.amazon.com/s?k=Drive%20output%20IGBT%20failure%20(internal%20fault)&tag=errorcodefixe-20) | Medium |
-| [Incorrect fault 2330 trip (ground fault threshold too sensitive)](https://www.amazon.com/s?k=Incorrect%20fault%202330%20trip%20(ground%20fault%20threshold%20too%20sensitive)&tag=errorcodefixe-20) | Low |
+| Failed motor winding insulation (aged motor) | High |
+| Damaged output cable (chafed or pinched) | High |
+| Moisture in motor terminal box | High |
+| Long motor cable with high capacitive ground current | Medium |
+| Drive output IGBT failure (internal fault) | Medium |
+| Incorrect fault 2330 trip (ground fault threshold too sensitive) | Low |
 
 ## Step-by-Step Diagnosis {#diagnosis}
 
@@ -87,8 +87,7 @@ After identifying and fixing the fault:
 
 | Part | Notes |
 |---|---|
-| [Motor (rewound or replacement)](https://www.amazon.com/s?k=Motor%20(rewound%20or%20replacement)&tag=errorcodefixe-20) | Match HP, voltage, frame, and poles |
-| [Motor cable (shielded)](https://www.amazon.com/s?k=Motor%20cable%20(shielded)&tag=errorcodefixe-20) | Use shielded 4-conductor cable for VFD applications |
-| [ACS355 drive](https://www.amazon.com/s?k=ACS355%20drive&tag=errorcodefixe-20) | If output IGBT confirmed failed |
-
+| Motor (rewound or replacement) | [Amazon](https://www.amazon.com/s?k=Motor+%28rewound+or+replacement%29&tag=errorcodefixes-20) \| Match HP, voltage, frame, and poles |
+| Motor cable (shielded) | [Amazon](https://www.amazon.com/s?k=Motor+cable+%28shielded%29&tag=errorcodefixes-20) \| Use shielded 4-conductor cable for VFD applications |
+| ACS355 drive | [Amazon](https://www.amazon.com/s?k=ACS355+drive&tag=errorcodefixes-20) \| If output IGBT confirmed failed |
 > **Pro tip:** The ABB ACS355 supports a ground fault trip sensitivity parameter. For long cable runs, check parameter 1601 and consult ABB application note AN-14-0046 for capacitive ground current calculations.

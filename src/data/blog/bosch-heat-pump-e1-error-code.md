@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Bosch Heat Pump E1 Error Code — Causes & Fix"
 description: "What the Bosch heat pump E1 error code means, why it triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -38,11 +38,10 @@ On Bosch Inverter Ducted Split (IDS) and Bosch Climate 5000 heat pump systems, E
 
 | Part | Notes |
 |------|-------|
-| [Bosch IDS communicating thermostat](https://www.amazon.com/s?k=Bosch%20IDS%20communicating%20thermostat&tag=errorcodefixe-20) | Replace if thermostat diagnostics show no outdoor unit detected |
-| [Outdoor unit inverter control board](https://www.amazon.com/s?k=Outdoor%20unit%20inverter%20control%20board&tag=errorcodefixe-20) | Primary suspect for persistent E1 after wiring confirmed |
-| [Communication cable (2-conductor)](https://www.amazon.com/s?k=Communication%20cable%20(2-conductor)&tag=errorcodefixe-20) | Replace if physical damage is found |
-| [Indoor unit control board](https://www.amazon.com/s?k=Indoor%20unit%20control%20board&tag=errorcodefixe-20) | Secondary suspect if outdoor board swap doesn't resolve |
-
+| Bosch IDS communicating thermostat | [Amazon](https://www.amazon.com/s?k=Bosch+IDS+communicating+thermostat&tag=errorcodefixes-20) \| Replace if thermostat diagnostics show no outdoor unit detected |
+| Outdoor unit inverter control board | [Amazon](https://www.amazon.com/s?k=Outdoor+unit+inverter+control+board&tag=errorcodefixes-20) \| Primary suspect for persistent E1 after wiring confirmed |
+| Communication cable (2-conductor) | [Amazon](https://www.amazon.com/s?k=Communication+cable+%282-conductor%29&tag=errorcodefixes-20) \| Replace if physical damage is found |
+| Indoor unit control board | [Amazon](https://www.amazon.com/s?k=Indoor+unit+control+board&tag=errorcodefixes-20) \| Secondary suspect if outdoor board swap doesn't resolve |
 ## When to Call a Pro
 
 Bosch inverter heat pump control boards contain high-voltage components (DC bus up to 400V from the inverter stage). Diagnosis beyond the low-voltage communication circuit requires a technician trained on inverter heat pump systems. Bosch has an authorized service network with access to the Bosch HVAC service portal for remote diagnostics and firmware updates.

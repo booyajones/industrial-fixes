@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Omron VFD Fault E07 — Causes & Fix"
 description: "What Omron 3G3MX2 VFD fault E07 means, why overcurrent triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -37,9 +37,8 @@ On Omron 3G3MX2 series drives (which are Omron's rebranded Yaskawa-OEM variable 
 
 | Part | Notes |
 |------|-------|
-| [Motor output cable](https://www.amazon.com/s?k=Motor%20output%20cable&tag=errorcodefixe-20) | Shielded, rated for inverter output; replace if insulation is damaged |
-| [Motor (replacement or rewind)](https://www.amazon.com/s?k=Motor%20(replacement%20or%20rewind)&tag=errorcodefixe-20) | If winding insulation test fails |
-
+| Motor output cable | [Amazon](https://www.amazon.com/s?k=Motor+output+cable&tag=errorcodefixes-20) \| Shielded, rated for inverter output; replace if insulation is damaged |
+| Motor (replacement or rewind) | [Amazon](https://www.amazon.com/s?k=Motor+%28replacement+or+rewind%29&tag=errorcodefixes-20) \| If winding insulation test fails |
 ## When to Call a Pro
 
 If E07 persists with the motor disconnected (fault on no-load), the drive's IGBT output stage has failed and the drive requires component-level repair or replacement. Contact Omron service or a certified VFD repair shop.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lennox Error Code 223 — Causes & Fix"
 description: "What Lennox error code 223 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,10 +36,9 @@ Lennox fault code 223 indicates a draft inducer fault — the control board comm
 
 | Part | Notes |
 |------|-------|
-| [Induced draft motor](https://www.amazon.com/s?k=Induced%20draft%20motor&tag=errorcodefixe-20) | Match exact HP, voltage, and rotation direction |
-| [Run capacitor](https://www.amazon.com/s?k=Run%20capacitor&tag=errorcodefixe-20) | Test before replacing motor — often the actual failure point |
-| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Replace if switch fails to close with confirmed draft present |
-
+| Induced draft motor | [Amazon](https://www.amazon.com/s?k=Induced+draft+motor&tag=errorcodefixes-20) \| Match exact HP, voltage, and rotation direction |
+| Run capacitor | [Amazon](https://www.amazon.com/s?k=Run+capacitor&tag=errorcodefixes-20) \| Test before replacing motor — often the actual failure point |
+| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Replace if switch fails to close with confirmed draft present |
 ## When to Call a Pro
 
 If the inducer motor is confirmed running and the pressure switch still won't close, the furnace may have a blocked or undersized venting system. Flue system evaluation and correction require proper tools and training to avoid creating a carbon monoxide hazard.

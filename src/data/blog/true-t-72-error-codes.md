@@ -1,4 +1,4 @@
-﻿---
+---
 title: "True T-72 Refrigerator Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to True T-72 commercial refrigerator error codes, diagnostic display codes, common fault causes, and step-by-step repair procedures."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -20,18 +20,18 @@ The True T-72 is a three-section reach-in commercial refrigerator with three ful
 
 ## True T-72 Error Code Reference
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Fault |
+| Code | Fault |
 |---|---|
-| [E1](https://www.amazon.com/s?k=E1&tag=errorcodefixe-20) | Ambient temperature sensor fault |
-| [E2](https://www.amazon.com/s?k=E2&tag=errorcodefixe-20) | Cabinet temperature sensor fault — section 1 |
-| [E3](https://www.amazon.com/s?k=E3&tag=errorcodefixe-20) | Cabinet temperature sensor fault — section 2 |
-| [E4](https://www.amazon.com/s?k=E4&tag=errorcodefixe-20) | Cabinet temperature sensor fault — section 3 |
-| [E5](https://www.amazon.com/s?k=E5&tag=errorcodefixe-20) | Evaporator sensor fault |
-| [E6](https://www.amazon.com/s?k=E6&tag=errorcodefixe-20) | High cabinet temperature alarm |
-| [E7](https://www.amazon.com/s?k=E7&tag=errorcodefixe-20) | Door open alarm — any section |
-| [E8](https://www.amazon.com/s?k=E8&tag=errorcodefixe-20) | Defrost cycle timeout |
-| [E9](https://www.amazon.com/s?k=E9&tag=errorcodefixe-20) | Compressor overcurrent or fault |
-| [EE](https://www.amazon.com/s?k=EE&tag=errorcodefixe-20) | Control board fault |
+| E1 | Ambient temperature sensor fault |
+| E2 | Cabinet temperature sensor fault — section 1 |
+| E3 | Cabinet temperature sensor fault — section 2 |
+| E4 | Cabinet temperature sensor fault — section 3 |
+| E5 | Evaporator sensor fault |
+| E6 | High cabinet temperature alarm |
+| E7 | Door open alarm — any section |
+| E8 | Defrost cycle timeout |
+| E9 | Compressor overcurrent or fault |
+| EE | Control board fault |
 
 ## Common Causes by Code
 
@@ -53,13 +53,12 @@ The True T-72 is a three-section reach-in commercial refrigerator with three ful
 
 | Part | Notes |
 |---|---|
-| [Cabinet temperature sensor](https://www.amazon.com/s?k=Cabinet%20temperature%20sensor&tag=errorcodefixe-20) | True-specific NTC sensor; 3 per T-72 |
-| [Door gasket](https://www.amazon.com/s?k=Door%20gasket&tag=errorcodefixe-20) | Magnetic gasket; order by section (left/center/right) |
-| [Defrost heater](https://www.amazon.com/s?k=Defrost%20heater&tag=errorcodefixe-20) | Match voltage and wattage |
-| [Defrost termination thermostat](https://www.amazon.com/s?k=Defrost%20termination%20thermostat&tag=errorcodefixe-20) | Check cutout temp rating |
-| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | Confirm blade size and rotation |
-| [True Digital Control board](https://www.amazon.com/s?k=True%20Digital%20Control%20board&tag=errorcodefixe-20) | Check power supply caps first |
-
+| Cabinet temperature sensor | [Amazon](https://www.amazon.com/s?k=Cabinet+temperature+sensor&tag=errorcodefixes-20) \| True-specific NTC sensor; 3 per T-72 |
+| Door gasket | [Amazon](https://www.amazon.com/s?k=Door+gasket&tag=errorcodefixes-20) \| Magnetic gasket; order by section (left/center/right) |
+| Defrost heater | [Amazon](https://www.amazon.com/s?k=Defrost+heater&tag=errorcodefixes-20) \| Match voltage and wattage |
+| Defrost termination thermostat | [Amazon](https://www.amazon.com/s?k=Defrost+termination+thermostat&tag=errorcodefixes-20) \| Check cutout temp rating |
+| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Confirm blade size and rotation |
+| True Digital Control board | [Amazon](https://www.amazon.com/s?k=True+Digital+Control+board&tag=errorcodefixes-20) \| Check power supply caps first |
 ## When to Call a Pro
 
 A T-72 with repeated E6 faults despite clean condenser and working fans may have a refrigerant charge issue — a three-section unit with a single refrigerant circuit has more complex charging requirements than a single-section unit. A licensed refrigeration technician should perform manifold gauge diagnostics and verify superheat/subcooling before any refrigerant-side work.

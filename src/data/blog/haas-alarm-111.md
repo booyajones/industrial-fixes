@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Haas Alarm 111 — Drive Fault"
 description: "What Haas CNC alarm 111 means, why a drive fault occurs, and how to diagnose and fix the servo drive system."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -38,10 +38,9 @@ Haas alarm 111 indicates a drive fault on one of the machine's servo axes. The H
 
 | Part | Notes |
 |------|-------|
-| [Servo drive module](https://www.amazon.com/s?k=Servo%20drive%20module&tag=errorcodefixe-20) | Order from Haas Factory Outlet; match to machine and axis |
-| [Cabinet cooling fan](https://www.amazon.com/s?k=Cabinet%20cooling%20fan&tag=errorcodefixe-20) | Replace if fan is failed or running slowly |
-| [Drive bus capacitors](https://www.amazon.com/s?k=Drive%20bus%20capacitors&tag=errorcodefixe-20) | Replace in aging drives if bus voltage is unstable |
-
+| Servo drive module | [Amazon](https://www.amazon.com/s?k=Servo+drive+module&tag=errorcodefixes-20) \| Order from Haas Factory Outlet; match to machine and axis |
+| Cabinet cooling fan | [Amazon](https://www.amazon.com/s?k=Cabinet+cooling+fan&tag=errorcodefixes-20) \| Replace if fan is failed or running slowly |
+| Drive bus capacitors | [Amazon](https://www.amazon.com/s?k=Drive+bus+capacitors&tag=errorcodefixes-20) \| Replace in aging drives if bus voltage is unstable |
 ## When to Call a Pro
 
 Haas servo drive replacement and servo tuning should be performed by a Haas Factory Outlet (HFO) service technician. Incorrect drive installation or parameter configuration can cause further machine damage.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Trane 1 Flash Error Code — Causes & Fix"
 description: "What Trane 1 flash means on a furnace LED, why it signals normal operation or lockout depending on model, and how to respond."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -38,10 +38,9 @@ On most Trane furnaces, a single LED flash (1 blink, pause, repeat) signals norm
 
 | Part | Notes |
 |------|-------|
-| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | Universal or OEM; clean before replacing to confirm the part is actually faulty |
-| [Hot surface igniter](https://www.amazon.com/s?k=Hot%20surface%20igniter&tag=errorcodefixe-20) | Replace if cracked or reading open resistance |
-| [Furnace control board](https://www.amazon.com/s?k=Furnace%20control%20board&tag=errorcodefixe-20) | Last resort if power cycling and component replacement do not resolve lockout |
-
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Universal or OEM; clean before replacing to confirm the part is actually faulty |
+| Hot surface igniter | [Amazon](https://www.amazon.com/s?k=Hot+surface+igniter&tag=errorcodefixes-20) \| Replace if cracked or reading open resistance |
+| Furnace control board | [Amazon](https://www.amazon.com/s?k=Furnace+control+board&tag=errorcodefixes-20) \| Last resort if power cycling and component replacement do not resolve lockout |
 ## When to Call a Pro
 
 If the furnace locks out repeatedly after power cycling and you cannot identify a failed igniter, flame sensor, or gas supply problem, call a licensed HVAC technician. Persistent lockout may indicate a gas valve fault or combustion air issue that requires combustion analysis to diagnose safely.

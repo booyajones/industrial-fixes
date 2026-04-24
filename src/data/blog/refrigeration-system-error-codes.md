@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Commercial Refrigeration Error Codes — Master Guide"
 description: "Commercial refrigeration error codes for walk-in coolers, reach-ins, and ice machines: what each code means and how to fix it."
 pubDatetime: 2026-04-22T17:00:00Z
@@ -35,32 +35,31 @@ Refrigerant circuit fault. High pressure = dirty condenser or overcharge. Low pr
 
 ## Brand-Specific Code Guides
 
-| [Brand](https://www.amazon.com/s?k=Brand&tag=errorcodefixe-20) | Code Guide |
+| Brand | Code Guide |
 |-------|-----------|
-| [Hoshizaki](https://www.amazon.com/s?k=Hoshizaki&tag=errorcodefixe-20) | E1-E9 (ice machines), F1-F3 |
-| [Manitowoc](https://www.amazon.com/s?k=Manitowoc&tag=errorcodefixe-20) | Codes 1-10, E01-E06 (Indigo) |
-| [True](https://www.amazon.com/s?k=True&tag=errorcodefixe-20) | E1-E4, HI |
-| [Beverage-Air](https://www.amazon.com/s?k=Beverage-Air&tag=errorcodefixe-20) | E1-E3 |
-| [Turbo Air](https://www.amazon.com/s?k=Turbo%20Air&tag=errorcodefixe-20) | E1-E2 |
-| [Continental](https://www.amazon.com/s?k=Continental&tag=errorcodefixe-20) | E1 |
-| [Traulsen](https://www.amazon.com/s?k=Traulsen&tag=errorcodefixe-20) | E1-E2 |
-| [Master-Bilt](https://www.amazon.com/s?k=Master-Bilt&tag=errorcodefixe-20) | Codes 1-5 |
-| [Delfield](https://www.amazon.com/s?k=Delfield&tag=errorcodefixe-20) | E1 |
-| [Nor-Lake](https://www.amazon.com/s?k=Nor-Lake&tag=errorcodefixe-20) | E1 |
-| [Heatcraft/Bohn/Larkin](https://www.amazon.com/s?k=Heatcraft%2FBohn%2FLarkin&tag=errorcodefixe-20) | Alarms 1-7 |
-| [Hussmann](https://www.amazon.com/s?k=Hussmann&tag=errorcodefixe-20) | E1-E5 |
+| Hoshizaki | E1-E9 (ice machines), F1-F3 |
+| Manitowoc | Codes 1-10, E01-E06 (Indigo) |
+| True | E1-E4, HI |
+| Beverage-Air | E1-E3 |
+| Turbo Air | E1-E2 |
+| Continental | E1 |
+| Traulsen | E1-E2 |
+| Master-Bilt | Codes 1-5 |
+| Delfield | E1 |
+| Nor-Lake | E1 |
+| Heatcraft/Bohn/Larkin | Alarms 1-7 |
+| Hussmann | E1-E5 |
 
 ## Parts That Fix 80% of All Commercial Refrigeration Alarms
 
 | Part | Which Alarms It Fixes |
 |------|----------------------|
-| [NTC temperature sensor](https://www.amazon.com/s?k=NTC%20temperature%20sensor&tag=errorcodefixe-20) | E1, Sensor Fault, Code 7 |
-| [Defrost heater](https://www.amazon.com/s?k=Defrost%20heater&tag=errorcodefixe-20) | E3, Code 5, Defrost Fault |
-| [Defrost termination thermostat](https://www.amazon.com/s?k=Defrost%20termination%20thermostat&tag=errorcodefixe-20) | E3, Code 5 |
-| [Evaporator fan motor](https://www.amazon.com/s?k=Evaporator%20fan%20motor&tag=errorcodefixe-20) | E4, Code 6, Fan Alarm |
-| [Door gasket](https://www.amazon.com/s?k=Door%20gasket&tag=errorcodefixe-20) | E2, HI, High Temp |
-| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | E2, High Temp (when condenser-related) |
-
+| NTC temperature sensor | [Amazon](https://www.amazon.com/s?k=NTC+temperature+sensor&tag=errorcodefixes-20) \| E1, Sensor Fault, Code 7 |
+| Defrost heater | [Amazon](https://www.amazon.com/s?k=Defrost+heater&tag=errorcodefixes-20) \| E3, Code 5, Defrost Fault |
+| Defrost termination thermostat | [Amazon](https://www.amazon.com/s?k=Defrost+termination+thermostat&tag=errorcodefixes-20) \| E3, Code 5 |
+| Evaporator fan motor | [Amazon](https://www.amazon.com/s?k=Evaporator+fan+motor&tag=errorcodefixes-20) \| E4, Code 6, Fan Alarm |
+| Door gasket | [Amazon](https://www.amazon.com/s?k=Door+gasket&tag=errorcodefixes-20) \| E2, HI, High Temp |
+| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| E2, High Temp (when condenser-related) |
 ## When to Call a Pro
 
 Any pressure fault (high or low) indicates a refrigerant system issue requiring EPA 608 certification. Do not attempt to add refrigerant without finding and repairing the leak.

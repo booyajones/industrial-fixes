@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Honeywell T10 Pro/RTH9585 Thermostat Error Codes — Fix Guide"
 description: "Honeywell T10 Pro and RTH9585 smart thermostat error codes: E1, E2, E9 sensor and communication faults with causes and step-by-step troubleshooting."
 pubDatetime: 2026-04-22T21:00:00Z
@@ -18,10 +18,16 @@ tags:
 
 The Honeywell T10 Pro (THX321WFS) and RTH9585 Wi-Fi smart thermostats display error codes on screen when a sensor or communication fault is detected.
 
-| [Error Code](https://www.amazon.com/s?k=Error%20Code&tag=errorcodefixe-20) | Meaning | Quick Fix | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ----------- |---------|-----------|
-| E1 | [Indoor temperature sensor fault](https://www.amazon.com/s?k=Indoor%20temperature%20sensor%20fault&tag=errorcodefixe-20) | Check wiring, replace if needed |
-| [E2](https://www.amazon.com/s?k=E2&tag=errorcodefixe-20) | Outdoor temperature sensor fault | Check outdoor sensor connection | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E3 | Floor sensor fault (radiant) | [Check floor sensor wiring](https://www.amazon.com/s?k=Check%20floor%20sensor%20wiring&tag=errorcodefixe-20) |  | E9 | [Condensate line full / wet switch](https://www.amazon.com/s?k=Condensate%20line%20full%20%2F%20wet%20switch&tag=errorcodefixe-20) | Check and clear condensate drain |
-| [Cool On Flash](https://www.amazon.com/s?k=Cool%20On%20Flash&tag=errorcodefixe-20) | Short cycle protection | Wait 5 minutes — normal protective delay | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Aux Heat On | Auxiliary heat active | [Check outdoor temp and heat pump operation](https://www.amazon.com/s?k=Check%20outdoor%20temp%20and%20heat%20pump%20operation&tag=errorcodefixe-20) | ## Most Common Errors
+| Error Code | Meaning | Quick Fix |
+|-----------|---------|-----------|
+| E1 | Indoor temperature sensor fault | Check wiring, replace if needed |
+| E2 | Outdoor temperature sensor fault | Check outdoor sensor connection |
+| E3 | Floor sensor fault (radiant) | Check floor sensor wiring |
+| E9 | Condensate line full / wet switch | Check and clear condensate drain |
+| Cool On Flash | Short cycle protection | Wait 5 minutes — normal protective delay |
+| Aux Heat On | Auxiliary heat active | Check outdoor temp and heat pump operation |
+
+## Most Common Errors
 
 ### E1 — Indoor Temperature Sensor Fault
 The thermostat cannot read its internal temperature sensor. This is usually an internal failure — the T10 Pro's built-in sensor has failed. Try resetting the thermostat:
@@ -48,9 +54,15 @@ The condensate drain line is full or a wet (water) switch has tripped. This prot
 
 "Cool On" flashing on the display is NOT an error — it is a short-cycle delay (typically 5 minutes) to protect the compressor. Wait for the flash to stop and normal cooling to begin.
 
-## T10 Pro vs RTH9585 Differences | Feature | [T10 Pro](https://www.amazon.com/s?k=T10%20Pro&tag=errorcodefixe-20) | RTH9585 |
-|---------|---------|---------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Smart Response | Yes | [No](https://www.amazon.com/s?k=No&tag=errorcodefixe-20) |  | Wi-Fi | [Yes](https://www.amazon.com/s?k=Yes&tag=errorcodefixe-20) | Yes |
-| [Remote sensor](https://www.amazon.com/s?k=Remote%20sensor&tag=errorcodefixe-20) | Up to 6 | No | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Humidity control | Yes | [Basic](https://www.amazon.com/s?k=Basic&tag=errorcodefixe-20) |  | Display | [Color](https://www.amazon.com/s?k=Color&tag=errorcodefixe-20) | B&W |
+## T10 Pro vs RTH9585 Differences
+
+| Feature | T10 Pro | RTH9585 |
+|---------|---------|---------|
+| Smart Response | Yes | No |
+| Wi-Fi | Yes | Yes |
+| Remote sensor | Up to 6 | No |
+| Humidity control | Yes | Basic |
+| Display | Color | B&W |
 
 ## Wiring Error at Installation
 
@@ -67,10 +79,9 @@ A missing C wire causes power issues and can cause erratic behavior or error cod
 
 | Part | Notes |
 |------|-------|
-| [Replacement thermostat](https://www.amazon.com/s?k=Replacement%20thermostat&tag=errorcodefixe-20) | For E1 internal sensor failure |
-| [Outdoor temperature sensor](https://www.amazon.com/s?k=Outdoor%20temperature%20sensor&tag=errorcodefixe-20) | For E2 if accessory sensor is damaged |
-| [Condensate pan tablets](https://www.amazon.com/s?k=Condensate%20pan%20tablets&tag=errorcodefixe-20) | Prevent algae growth causing E9 |
-
+| Replacement thermostat | [Amazon](https://www.amazon.com/s?k=Replacement+thermostat&tag=errorcodefixes-20) \| For E1 internal sensor failure |
+| Outdoor temperature sensor | [Amazon](https://www.amazon.com/s?k=Outdoor+temperature+sensor&tag=errorcodefixes-20) \| For E2 if accessory sensor is damaged |
+| Condensate pan tablets | [Amazon](https://www.amazon.com/s?k=Condensate+pan+tablets&tag=errorcodefixes-20) \| Prevent algae growth causing E9 |
 ## Jump to Fix
 
 - **E1** → Reset thermostat → If persists, replace thermostat

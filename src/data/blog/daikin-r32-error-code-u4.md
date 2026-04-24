@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Daikin R-32 System U4 Error Code — Communication Fault Fix"
 description: "What the U4 error code means on Daikin R-32 refrigerant mini splits and heat pumps, why communication fails, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -38,11 +38,10 @@ U4 on Daikin R-32 mini split and heat pump systems (including the FTK, FTXM, and
 
 | Part | Notes |
 |------|-------|
-| [Outdoor inverter PCB](https://www.amazon.com/s?k=Outdoor%20inverter%20PCB&tag=errorcodefixe-20) | Must match R-32 model exactly — not interchangeable with R-410A boards |
-| [3-conductor signal cable](https://www.amazon.com/s?k=3-conductor%20signal%20cable&tag=errorcodefixe-20) | Replace if physical damage is found |
-| [Indoor unit control PCB](https://www.amazon.com/s?k=Indoor%20unit%20control%20PCB&tag=errorcodefixe-20) | Secondary failure point if outdoor board swap doesn't resolve U4 |
-| [Surge protector (outdoor)](https://www.amazon.com/s?k=Surge%20protector%20(outdoor)&tag=errorcodefixe-20) | Install if U4 followed a surge event to prevent recurrence |
-
+| Outdoor inverter PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+inverter+PCB&tag=errorcodefixes-20) \| Must match R-32 model exactly — not interchangeable with R-410A boards |
+| 3-conductor signal cable | [Amazon](https://www.amazon.com/s?k=3-conductor+signal+cable&tag=errorcodefixes-20) \| Replace if physical damage is found |
+| Indoor unit control PCB | [Amazon](https://www.amazon.com/s?k=Indoor+unit+control+PCB&tag=errorcodefixes-20) \| Secondary failure point if outdoor board swap doesn't resolve U4 |
+| Surge protector (outdoor) | [Amazon](https://www.amazon.com/s?k=Surge+protector+%28outdoor%29&tag=errorcodefixes-20) \| Install if U4 followed a surge event to prevent recurrence |
 ## When to Call a Pro
 
 R-32 refrigerant is mildly flammable (A2L classification) and requires technicians with specific R-32 handling certification in many jurisdictions. Any refrigerant-side work on a Daikin R-32 system must be done by a certified technician. For the communication fault itself, the wiring and board checks are within the skill range of a capable DIYer, but board replacement on the outdoor inverter unit involves high-voltage DC components.

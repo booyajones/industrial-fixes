@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Haas Alarm 124 — Causes & Fix"
 description: "What Haas Alarm 124 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T18:00:00Z
@@ -36,9 +36,8 @@ Haas Alarm 124 indicates an ATC no-tool condition — the control commanded a to
 
 | Part | Notes |
 |------|-------|
-| [Tool-present proximity switch](https://www.amazon.com/s?k=Tool-present%20proximity%20switch&tag=errorcodefixe-20) | Replace if not detecting loaded tools |
-| [Tool holder / pull stud](https://www.amazon.com/s?k=Tool%20holder%20%2F%20pull%20stud&tag=errorcodefixe-20) | Inspect if tool won't seat correctly |
-
+| Tool-present proximity switch | [Amazon](https://www.amazon.com/s?k=Tool-present+proximity+switch&tag=errorcodefixes-20) \| Replace if not detecting loaded tools |
+| Tool holder / pull stud | [Amazon](https://www.amazon.com/s?k=Tool+holder+%2F+pull+stud&tag=errorcodefixes-20) \| Inspect if tool won't seat correctly |
 ## When to Call a Pro
 
 If multiple pockets report Alarm 124 despite tools being loaded, the ATC carousel position calibration or tool detection system needs Haas service diagnosis.

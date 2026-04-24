@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Bryant Furnace 31 Error Code — Pressure Switch Open"
 description: "What the Bryant furnace 31 error code means, why the pressure switch fault triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -39,12 +39,11 @@ Bryant furnaces share engineering with Carrier (both are UTC/Carrier brands), so
 
 | Part | Notes |
 |------|-------|
-| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Match the setpoint — Bryant uses both single and dual switches depending on model |
-| [Inducer draft motor capacitor](https://www.amazon.com/s?k=Inducer%20draft%20motor%20capacitor&tag=errorcodefixe-20) | Test before replacing the motor — most motor failures are actually capacitor failures |
-| [Inducer draft motor assembly](https://www.amazon.com/s?k=Inducer%20draft%20motor%20assembly&tag=errorcodefixe-20) | Replace if motor is noisy, slow, or seized with a good capacitor |
-| [Condensate trap](https://www.amazon.com/s?k=Condensate%20trap&tag=errorcodefixe-20) | Replace if cracked or if the internal float is stuck |
-| [Pressure switch tubing](https://www.amazon.com/s?k=Pressure%20switch%20tubing&tag=errorcodefixe-20) | Available by the foot at HVAC supply houses |
-
+| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Match the setpoint — Bryant uses both single and dual switches depending on model |
+| Inducer draft motor capacitor | [Amazon](https://www.amazon.com/s?k=Inducer+draft+motor+capacitor&tag=errorcodefixes-20) \| Test before replacing the motor — most motor failures are actually capacitor failures |
+| Inducer draft motor assembly | [Amazon](https://www.amazon.com/s?k=Inducer+draft+motor+assembly&tag=errorcodefixes-20) \| Replace if motor is noisy, slow, or seized with a good capacitor |
+| Condensate trap | [Amazon](https://www.amazon.com/s?k=Condensate+trap&tag=errorcodefixes-20) \| Replace if cracked or if the internal float is stuck |
+| Pressure switch tubing | [Amazon](https://www.amazon.com/s?k=Pressure+switch+tubing&tag=errorcodefixes-20) \| Available by the foot at HVAC supply houses |
 ## When to Call a Pro
 
 A persistent 31 after replacing the pressure switch and confirming inducer speed may indicate a cracked heat exchanger, which creates secondary pressure imbalances in the inducer path. A cracked heat exchanger is a serious safety concern — have a licensed HVAC technician perform a combustion analysis before returning the furnace to service.

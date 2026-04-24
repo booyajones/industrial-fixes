@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Carrier Error Code 58 — Causes & Fix"
 description: "What Carrier error code 58 flame sense fault means, why it trips, and how to diagnose and fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,10 +36,9 @@ Carrier **error code 58** indicates a **flame sense fault** — the flame sensor
 
 | Part | Notes |
 |------|-------|
-| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | Replace when cleaning doesn't restore a reliable signal |
-| [Flame sensor wire/harness](https://www.amazon.com/s?k=Flame%20sensor%20wire%2Fharness&tag=errorcodefixe-20) | Replace if insulation is damaged |
-| [Gas valve](https://www.amazon.com/s?k=Gas%20valve&tag=errorcodefixe-20) | Replace if unstable flame is confirmed to be from valve pressure variation |
-
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Replace when cleaning doesn't restore a reliable signal |
+| Flame sensor wire/harness | [Amazon](https://www.amazon.com/s?k=Flame+sensor+wire%2Fharness&tag=errorcodefixes-20) \| Replace if insulation is damaged |
+| Gas valve | [Amazon](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) \| Replace if unstable flame is confirmed to be from valve pressure variation |
 ## When to Call a Pro
 
 Code 58 from a cracked heat exchanger is a carbon monoxide hazard. If the flame sensor and gas supply both check out but code 58 persists, have a licensed HVAC tech perform a heat exchanger inspection before operating the furnace further.

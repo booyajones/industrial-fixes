@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Haas Alarm 122 — ATC Chain Fault"
 description: "Haas Alarm 122 means the automatic tool changer chain or carousel failed to index correctly. Learn the causes and how to fix Haas Alarm 122."
 pubDatetime: 2026-04-22T17:00:00Z
@@ -40,11 +40,10 @@ tags:
 
 | Part | Notes |
 |------|-------|
-| [Carousel proximity switch](https://www.amazon.com/s?k=Carousel%20proximity%20switch&tag=errorcodefixe-20) | Replace if position is not detected |
-| [Tool pocket hardware](https://www.amazon.com/s?k=Tool%20pocket%20hardware&tag=errorcodefixe-20) | Bent pockets or dogs must be replaced |
-| [Carousel drive motor](https://www.amazon.com/s?k=Carousel%20drive%20motor&tag=errorcodefixe-20) | If weak or stalled under normal load |
-| [Air regulator parts](https://www.amazon.com/s?k=Air%20regulator%20parts&tag=errorcodefixe-20) | If pneumatic assist is weak |
-
+| Carousel proximity switch | [Amazon](https://www.amazon.com/s?k=Carousel+proximity+switch&tag=errorcodefixes-20) \| Replace if position is not detected |
+| Tool pocket hardware | [Amazon](https://www.amazon.com/s?k=Tool+pocket+hardware&tag=errorcodefixes-20) \| Bent pockets or dogs must be replaced |
+| Carousel drive motor | [Amazon](https://www.amazon.com/s?k=Carousel+drive+motor&tag=errorcodefixes-20) \| If weak or stalled under normal load |
+| Air regulator parts | [Amazon](https://www.amazon.com/s?k=Air+regulator+parts&tag=errorcodefixes-20) \| If pneumatic assist is weak |
 ## When to Call a Pro
 
 If the carousel repeatedly stops between positions or the magazine is physically damaged, deeper alignment and changer timing work may be required.

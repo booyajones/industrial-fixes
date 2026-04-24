@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Carrier Heat Pump E1 Error Code — Causes & Fix"
 description: "What Carrier heat pump E1 error code means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,10 +36,9 @@ E1 on a Carrier heat pump system indicates a communication fault between the ind
 
 | Part | Notes |
 |------|-------|
-| [Communication wire (18/2 shielded)](https://www.amazon.com/s?k=Communication%20wire%20(18%2F2%20shielded)&tag=errorcodefixe-20) | Replace run completely if damaged; splices are unreliable |
-| [Indoor air handler control board](https://www.amazon.com/s?k=Indoor%20air%20handler%20control%20board&tag=errorcodefixe-20) | Replace if board damage is confirmed post-surge |
-| [Outdoor unit control board](https://www.amazon.com/s?k=Outdoor%20unit%20control%20board&tag=errorcodefixe-20) | Replace if outdoor board transceiver is confirmed failed |
-
+| Communication wire (18/2 shielded) | [Amazon](https://www.amazon.com/s?k=Communication+wire+%2818%2F2+shielded%29&tag=errorcodefixes-20) \| Replace run completely if damaged; splices are unreliable |
+| Indoor air handler control board | [Amazon](https://www.amazon.com/s?k=Indoor+air+handler+control+board&tag=errorcodefixes-20) \| Replace if board damage is confirmed post-surge |
+| Outdoor unit control board | [Amazon](https://www.amazon.com/s?k=Outdoor+unit+control+board&tag=errorcodefixes-20) \| Replace if outdoor board transceiver is confirmed failed |
 ## When to Call a Pro
 
 Carrier Infinity system boards can cost $400–$800+. Before condemning a board, have a technician verify the communication signal with a scope or manufacturer diagnostic tool. Replacing the wrong board is an expensive mistake.

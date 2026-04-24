@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Danfoss FC302 Alarm AL 29 — Causes & Fix"
 description: "What Danfoss FC302 Alarm AL 29 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -36,9 +36,8 @@ Alarm AL 29 on the Danfoss FC302 (VLT AutomationDrive) indicates heat sink overt
 
 | Part | Notes |
 |------|-------|
-| [FC302 cooling fan assembly](https://www.amazon.com/s?k=FC302%20cooling%20fan%20assembly&tag=errorcodefixe-20) | Match to drive frame size — A2/A3/B1/B2/etc. |
-| [Panel ventilation / cooling unit](https://www.amazon.com/s?k=Panel%20ventilation%20%2F%20cooling%20unit&tag=errorcodefixe-20) | If ambient temp is the root cause |
-
+| FC302 cooling fan assembly | [Amazon](https://www.amazon.com/s?k=FC302+cooling+fan+assembly&tag=errorcodefixes-20) \| Match to drive frame size — A2/A3/B1/B2/etc. |
+| Panel ventilation / cooling unit | [Amazon](https://www.amazon.com/s?k=Panel+ventilation+%2F+cooling+unit&tag=errorcodefixes-20) \| If ambient temp is the root cause |
 ## When to Call a Pro
 
 If the drive trips AL 29 immediately after restart with clean fins and correct ambient, the thermal sensor or IGBT module may have failed. Danfoss authorized service handles internal component replacement.

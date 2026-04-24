@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Delfield Refrigerator Error Code E1 — Causes & Fix"
 description: "What Delfield refrigerator error code E1 means, why the temperature sensor faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -37,9 +37,8 @@ E1 on a Delfield refrigerator usually indicates a temperature sensor fault. Delf
 
 | Part | Notes |
 |------|-------|
-| [Temperature probe / thermistor](https://www.amazon.com/s?k=Temperature%20probe%20%2F%20thermistor&tag=errorcodefixe-20) | Match the Delfield model and controller family |
-| [Sensor harness](https://www.amazon.com/s?k=Sensor%20harness&tag=errorcodefixe-20) | Replace if the wire is cut, brittle, or corroded |
-
+| Temperature probe / thermistor | [Amazon](https://www.amazon.com/s?k=Temperature+probe+%2F+thermistor&tag=errorcodefixes-20) \| Match the Delfield model and controller family |
+| Sensor harness | [Amazon](https://www.amazon.com/s?k=Sensor+harness&tag=errorcodefixes-20) \| Replace if the wire is cut, brittle, or corroded |
 ## When to Call a Pro
 
 If the new probe reads correctly but E1 stays on the display, call a refrigeration technician. The control board input may have failed, and that requires controller-level diagnosis and setup.

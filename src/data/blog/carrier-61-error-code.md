@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Carrier Error Code 61 — Rollout Switch Lockout"
 description: "Carrier fault code 61 means a rollout switch tripped. This is a serious safety fault — do not bypass it. Here's what causes rollout and how to fix it safely."
 pubDatetime: 2026-04-22T18:00:00Z
@@ -25,14 +25,14 @@ Rollout switches are thermal fuses mounted around the burner compartment. They t
 
 ## Why Flames Roll Out
 
-| [Root Cause](https://www.amazon.com/s?k=Root%20Cause&tag=errorcodefixe-20) | Explanation |
+| Root Cause | Explanation |
 |---|---|
-| [Cracked or failed heat exchanger](https://www.amazon.com/s?k=Cracked%20or%20failed%20heat%20exchanger&tag=errorcodefixe-20) | Primary cause — combustion gases back up into burner box |
-| [Blocked flue or inducer](https://www.amazon.com/s?k=Blocked%20flue%20or%20inducer&tag=errorcodefixe-20) | No draft to pull flames through heat exchanger |
-| [Dirty burners or orifices](https://www.amazon.com/s?k=Dirty%20burners%20or%20orifices&tag=errorcodefixe-20) | Delayed ignition causes flame surge |
-| [Oversized gas valve orifice](https://www.amazon.com/s?k=Oversized%20gas%20valve%20orifice&tag=errorcodefixe-20) | Too much gas for the heat exchanger to handle |
-| [Failed inducer motor](https://www.amazon.com/s?k=Failed%20inducer%20motor&tag=errorcodefixe-20) | No draft, flames roll back |
-| [Collapsed or blocked heat exchanger](https://www.amazon.com/s?k=Collapsed%20or%20blocked%20heat%20exchanger&tag=errorcodefixe-20) | Internal restriction causes backpressure |
+| Cracked or failed heat exchanger | Primary cause — combustion gases back up into burner box |
+| Blocked flue or inducer | No draft to pull flames through heat exchanger |
+| Dirty burners or orifices | Delayed ignition causes flame surge |
+| Oversized gas valve orifice | Too much gas for the heat exchanger to handle |
+| Failed inducer motor | No draft, flames roll back |
+| Collapsed or blocked heat exchanger | Internal restriction causes backpressure |
 
 ## How to Reset and Diagnose
 
@@ -50,11 +50,10 @@ Rollout switches are thermal fuses mounted around the burner compartment. They t
 
 | Part | Avg. Cost |
 |---|---|
-| [Rollout switch (replacement)](https://www.amazon.com/s?k=Rollout%20switch%20(replacement)&tag=errorcodefixe-20) | $15–40 |
-| [Inducer motor](https://www.amazon.com/s?k=Inducer%20motor&tag=errorcodefixe-20) | $150–350 |
-| [Heat exchanger (cell or full assembly)](https://www.amazon.com/s?k=Heat%20exchanger%20(cell%20or%20full%20assembly)&tag=errorcodefixe-20) | $300–1,200+ |
-| [IFC board](https://www.amazon.com/s?k=IFC%20board&tag=errorcodefixe-20) | $100–300 |
-
+| Rollout switch (replacement) | [Amazon](https://www.amazon.com/s?k=Rollout+switch+%28replacement%29&tag=errorcodefixes-20) \| $15–40 |
+| Inducer motor | [Amazon](https://www.amazon.com/s?k=Inducer+motor&tag=errorcodefixes-20) \| $150–350 |
+| Heat exchanger (cell or full assembly) | [Amazon](https://www.amazon.com/s?k=Heat+exchanger+%28cell+or+full+assembly%29&tag=errorcodefixes-20) \| $300–1,200+ |
+| IFC board | [Amazon](https://www.amazon.com/s?k=IFC+board&tag=errorcodefixes-20) \| $100–300 |
 ## CO Safety Warning
 
 If code 61 is tripping repeatedly, install a CO detector near the furnace immediately. A cracked heat exchanger with flame rollout can produce enough CO to be life-threatening within hours. If the CO detector alarms, evacuate and call 911 before calling an HVAC tech.

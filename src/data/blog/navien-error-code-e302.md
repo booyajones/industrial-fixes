@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Navien E302 Error Code — Causes & Fix"
 description: "What Navien E302 means, why low system water pressure triggers it, and how to fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,10 +36,9 @@ The Navien E302 error code means **low system water pressure**. On Navien combi-
 
 | Part | Notes |
 |------|-------|
-| [Expansion tank (2–4 gallon for residential)](https://www.amazon.com/s?k=Expansion%20tank%20(2%E2%80%934%20gallon%20for%20residential)&tag=errorcodefixe-20) | Replace when bladder fails; size to system volume |
-| [Manual fill valve](https://www.amazon.com/s?k=Manual%20fill%20valve&tag=errorcodefixe-20) | Replace if valve body is corroded or won't fully open/close |
-| [Air vent (automatic Caleffi or Taco)](https://www.amazon.com/s?k=Air%20vent%20(automatic%20Caleffi%20or%20Taco)&tag=errorcodefixe-20) | Replace leaking auto-vents on high points of the loop |
-
+| Expansion tank (2–4 gallon for residential) | [Amazon](https://www.amazon.com/s?k=Expansion+tank+%282%E2%80%934+gallon+for+residential%29&tag=errorcodefixes-20) \| Replace when bladder fails; size to system volume |
+| Manual fill valve | [Amazon](https://www.amazon.com/s?k=Manual+fill+valve&tag=errorcodefixes-20) \| Replace if valve body is corroded or won't fully open/close |
+| Air vent (automatic Caleffi or Taco) | [Amazon](https://www.amazon.com/s?k=Air+vent+%28automatic+Caleffi+or+Taco%29&tag=errorcodefixes-20) \| Replace leaking auto-vents on high points of the loop |
 ## When to Call a Pro
 
 If you repressurize and E302 returns within hours, there's a leak somewhere in the system that requires pressure testing to locate. A plumber or boiler tech can perform a static pressure test to pinpoint the leak before it causes heat exchanger damage.

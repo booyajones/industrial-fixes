@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Trane XR13 Air Conditioner Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Trane XR13 central air conditioner error codes, LED flash sequences, common fault causes, and step-by-step repair procedures."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -20,17 +20,17 @@ The Trane XR13 is a 13 SEER single-stage central air conditioner in Trane's valu
 
 ## Trane XR13 LED Flash Code Reference
 
-| [Flash Sequence](https://www.amazon.com/s?k=Flash%20Sequence&tag=errorcodefixe-20) | Fault |
+| Flash Sequence | Fault |
 |---|---|
-| [Continuous ON](https://www.amazon.com/s?k=Continuous%20ON&tag=errorcodefixe-20) | Normal operation |
-| [2 flashes](https://www.amazon.com/s?k=2%20flashes&tag=errorcodefixe-20) | High-pressure switch open |
-| [3 flashes](https://www.amazon.com/s?k=3%20flashes&tag=errorcodefixe-20) | Low-pressure switch open |
-| [4 flashes](https://www.amazon.com/s?k=4%20flashes&tag=errorcodefixe-20) | Open circuit — compressor protection device |
-| [5 flashes](https://www.amazon.com/s?k=5%20flashes&tag=errorcodefixe-20) | Control board fault |
-| [6 flashes](https://www.amazon.com/s?k=6%20flashes&tag=errorcodefixe-20) | Outdoor thermistor fault |
-| [7 flashes](https://www.amazon.com/s?k=7%20flashes&tag=errorcodefixe-20) | Loss of charge (pressure switch) |
-| [8 flashes](https://www.amazon.com/s?k=8%20flashes&tag=errorcodefixe-20) | Anti-short cycle delay active |
-| [9 flashes](https://www.amazon.com/s?k=9%20flashes&tag=errorcodefixe-20) | Communication fault (if connected to ComfortLink thermostat) |
+| Continuous ON | Normal operation |
+| 2 flashes | High-pressure switch open |
+| 3 flashes | Low-pressure switch open |
+| 4 flashes | Open circuit — compressor protection device |
+| 5 flashes | Control board fault |
+| 6 flashes | Outdoor thermistor fault |
+| 7 flashes | Loss of charge (pressure switch) |
+| 8 flashes | Anti-short cycle delay active |
+| 9 flashes | Communication fault (if connected to ComfortLink thermostat) |
 
 ## Common Causes by Code
 
@@ -52,13 +52,12 @@ The Trane XR13 is a 13 SEER single-stage central air conditioner in Trane's valu
 
 | Part | Notes |
 |---|---|
-| [Dual run capacitor](https://www.amazon.com/s?k=Dual%20run%20capacitor&tag=errorcodefixe-20) | Most common failure on XR13 outdoor units |
-| [Contactor](https://www.amazon.com/s?k=Contactor&tag=errorcodefixe-20) | Replace if contacts are pitted or discolored |
-| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | Confirm rotation direction (counterclockwise from top) |
-| [High-pressure switch](https://www.amazon.com/s?k=High-pressure%20switch&tag=errorcodefixe-20) | Replace if Code 2 persists after coil cleaning |
-| [Low-pressure switch](https://www.amazon.com/s?k=Low-pressure%20switch&tag=errorcodefixe-20) | Replace if Code 3 persists with correct charge |
-| [Control board](https://www.amazon.com/s?k=Control%20board&tag=errorcodefixe-20) | For Code 5; check fuse before replacing board |
-
+| Dual run capacitor | [Amazon](https://www.amazon.com/s?k=Dual+run+capacitor&tag=errorcodefixes-20) \| Most common failure on XR13 outdoor units |
+| Contactor | [Amazon](https://www.amazon.com/s?k=Contactor&tag=errorcodefixes-20) \| Replace if contacts are pitted or discolored |
+| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Confirm rotation direction (counterclockwise from top) |
+| High-pressure switch | [Amazon](https://www.amazon.com/s?k=High-pressure+switch&tag=errorcodefixes-20) \| Replace if Code 2 persists after coil cleaning |
+| Low-pressure switch | [Amazon](https://www.amazon.com/s?k=Low-pressure+switch&tag=errorcodefixes-20) \| Replace if Code 3 persists with correct charge |
+| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| For Code 5; check fuse before replacing board |
 ## When to Call a Pro
 
 Any investigation of low-pressure or high-pressure faults that goes beyond visual inspection and switch testing requires refrigerant manifold gauges and EPA 608 certification. If the compressor hums but won't start, test the capacitor first — a failed run capacitor is the most common cause of compressor no-start on XR13 units.

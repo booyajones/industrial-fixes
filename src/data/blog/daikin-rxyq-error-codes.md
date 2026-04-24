@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Daikin RXYQ VRV System Error Codes — Complete Fault Code Guide"
 description: "Complete guide to Daikin RXYQ VRV commercial system error codes, what each fault means, and step-by-step troubleshooting for the most common failures."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -21,26 +21,26 @@ The Daikin RXYQ is a commercial VRV (Variable Refrigerant Volume) outdoor unit u
 
 ## Daikin RXYQ Common Error Codes
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning |
+| Code | Meaning |
 |------|---------|
-| [E1](https://www.amazon.com/s?k=E1&tag=errorcodefixe-20) | Indoor PCB fault |
-| [E3](https://www.amazon.com/s?k=E3&tag=errorcodefixe-20) | High-pressure protection |
-| [E4](https://www.amazon.com/s?k=E4&tag=errorcodefixe-20) | Low-pressure protection |
-| [E5](https://www.amazon.com/s?k=E5&tag=errorcodefixe-20) | Outdoor fan motor fault |
-| [E7](https://www.amazon.com/s?k=E7&tag=errorcodefixe-20) | Electronic expansion valve (EEV) fault |
-| [E9](https://www.amazon.com/s?k=E9&tag=errorcodefixe-20) | Drain pump fault (indoor unit) |
-| [F3](https://www.amazon.com/s?k=F3&tag=errorcodefixe-20) | Discharge pipe temperature protection |
-| [F6](https://www.amazon.com/s?k=F6&tag=errorcodefixe-20) | Refrigerant overcharge / high-pressure protection |
-| [H6](https://www.amazon.com/s?k=H6&tag=errorcodefixe-20) | Outdoor fan motor position error |
-| [J3](https://www.amazon.com/s?k=J3&tag=errorcodefixe-20) | Discharge temperature sensor (Td) fault |
-| [J6](https://www.amazon.com/s?k=J6&tag=errorcodefixe-20) | Outdoor heat exchanger sensor fault |
-| [L4](https://www.amazon.com/s?k=L4&tag=errorcodefixe-20) | Radiation fin temperature rise |
-| [L5](https://www.amazon.com/s?k=L5&tag=errorcodefixe-20) | Inverter overcurrent protection |
-| [L9](https://www.amazon.com/s?k=L9&tag=errorcodefixe-20) | Compressor startup failure |
-| [U0](https://www.amazon.com/s?k=U0&tag=errorcodefixe-20) | Refrigerant shortage |
-| [U4](https://www.amazon.com/s?k=U4&tag=errorcodefixe-20) | Transmission error (outdoor to indoor) |
-| [U5](https://www.amazon.com/s?k=U5&tag=errorcodefixe-20) | Transmission error (remote to indoor) |
-| [UA](https://www.amazon.com/s?k=UA&tag=errorcodefixe-20) | Refrigerant address setting error |
+| E1 | Indoor PCB fault |
+| E3 | High-pressure protection |
+| E4 | Low-pressure protection |
+| E5 | Outdoor fan motor fault |
+| E7 | Electronic expansion valve (EEV) fault |
+| E9 | Drain pump fault (indoor unit) |
+| F3 | Discharge pipe temperature protection |
+| F6 | Refrigerant overcharge / high-pressure protection |
+| H6 | Outdoor fan motor position error |
+| J3 | Discharge temperature sensor (Td) fault |
+| J6 | Outdoor heat exchanger sensor fault |
+| L4 | Radiation fin temperature rise |
+| L5 | Inverter overcurrent protection |
+| L9 | Compressor startup failure |
+| U0 | Refrigerant shortage |
+| U4 | Transmission error (outdoor to indoor) |
+| U5 | Transmission error (remote to indoor) |
+| UA | Refrigerant address setting error |
 
 ## Common Causes by Code
 
@@ -64,13 +64,12 @@ The Daikin RXYQ is a commercial VRV (Variable Refrigerant Volume) outdoor unit u
 
 | Part | Notes |
 |------|-------|
-| [EEV coil](https://www.amazon.com/s?k=EEV%20coil&tag=errorcodefixe-20) | Removable without opening refrigerant circuit |
-| [F1/F2 communication wire](https://www.amazon.com/s?k=F1%2FF2%20communication%20wire&tag=errorcodefixe-20) | Twisted-pair shielded; replace if damaged |
-| [Outdoor fan motor](https://www.amazon.com/s?k=Outdoor%20fan%20motor&tag=errorcodefixe-20) | Confirm EC or AC type for RXYQ vintage |
-| [Outdoor PCB (control board)](https://www.amazon.com/s?k=Outdoor%20PCB%20(control%20board)&tag=errorcodefixe-20) | For L9 or L5 after other causes ruled out |
-| [Refrigerant (R-410A or R-32)](https://www.amazon.com/s?k=Refrigerant%20(R-410A%20or%20R-32)&tag=errorcodefixe-20) | Confirm refrigerant type from unit nameplate |
-| [Pressure sensor](https://www.amazon.com/s?k=Pressure%20sensor&tag=errorcodefixe-20) | High and low side; check resistance before replacing |
-
+| EEV coil | [Amazon](https://www.amazon.com/s?k=EEV+coil&tag=errorcodefixes-20) \| Removable without opening refrigerant circuit |
+| F1/F2 communication wire | [Amazon](https://www.amazon.com/s?k=F1%2FF2+communication+wire&tag=errorcodefixes-20) \| Twisted-pair shielded; replace if damaged |
+| Outdoor fan motor | [Amazon](https://www.amazon.com/s?k=Outdoor+fan+motor&tag=errorcodefixes-20) \| Confirm EC or AC type for RXYQ vintage |
+| Outdoor PCB (control board) | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB+%28control+board%29&tag=errorcodefixes-20) \| For L9 or L5 after other causes ruled out |
+| Refrigerant (R-410A or R-32) | [Amazon](https://www.amazon.com/s?k=Refrigerant+%28R-410A+or+R-32%29&tag=errorcodefixes-20) \| Confirm refrigerant type from unit nameplate |
+| Pressure sensor | [Amazon](https://www.amazon.com/s?k=Pressure+sensor&tag=errorcodefixes-20) \| High and low side; check resistance before replacing |
 ## When to Call a Pro
 
 Daikin VRV systems require Daikin-certified technicians for refrigerant work, inverter diagnosis, and address configuration. The RXYQ refrigerant addressing system (using rotary switches on each indoor unit PCB) is proprietary and misconfiguration causes system-wide faults. Contact a Daikin authorized service provider for L9, L5, or multi-unit U4 faults.

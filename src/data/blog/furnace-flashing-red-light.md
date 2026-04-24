@@ -54,13 +54,12 @@ Rollout switch trips, repeated ignition lockouts, or a furnace that smells like 
 
 | Item | Notes |
 |------|-------|
-| Air filter | Cheap first step for limit and airflow complaints |
-| Flame sensor | Clean or replace for weak flame signal issues |
-| Pressure switch hose | Often cracked or loose |
-| Hot surface ignitor | Common ignition failure part |
-| Multimeter | Needed for continuity and voltage checks |
-| Manometer | Useful for real draft and gas pressure diagnosis |
-
+| Air filter | [Amazon](https://www.amazon.com/s?k=Air+filter&tag=errorcodefixes-20) \| Cheap first step for limit and airflow complaints |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Clean or replace for weak flame signal issues |
+| Pressure switch hose | [Amazon](https://www.amazon.com/s?k=Pressure+switch+hose&tag=errorcodefixes-20) \| Often cracked or loose |
+| Hot surface ignitor | [Amazon](https://www.amazon.com/s?k=Hot+surface+ignitor&tag=errorcodefixes-20) \| Common ignition failure part |
+| Multimeter | [Amazon](https://www.amazon.com/s?k=Multimeter&tag=errorcodefixes-20) \| Needed for continuity and voltage checks |
+| Manometer | [Amazon](https://www.amazon.com/s?k=Manometer&tag=errorcodefixes-20) \| Useful for real draft and gas pressure diagnosis |
 ## When to Call a Pro
 
 If the flashing red light points to rollout, repeated ignition failure, or gas-related faults, stop there and call an HVAC tech. Safety-device trips are one area where guessing can turn into a carbon monoxide or gas hazard fast.

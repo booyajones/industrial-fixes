@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Manitowoc Ice Machine Error Code 2 — Causes & Fix"
 description: "What Manitowoc error code 2 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,10 +36,9 @@ Manitowoc error code 2 (or "Code 2" on older models, "2" on the LED display) mea
 
 | Part | Notes |
 |------|-------|
-| [Harvest valve (hot gas solenoid)](https://www.amazon.com/s?k=Harvest%20valve%20(hot%20gas%20solenoid)&tag=errorcodefixe-20) | Must be OEM for Manitowoc; aftermarket valves frequently cause new code 2 issues |
-| [Manitowoc ACE 5 cleaner](https://www.amazon.com/s?k=Manitowoc%20ACE%205%20cleaner&tag=errorcodefixe-20) | Specifically formulated for Manitowoc; descales and sanitizes |
-| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | Replace if fan isn't running at full speed |
-
+| Harvest valve (hot gas solenoid) | [Amazon](https://www.amazon.com/s?k=Harvest+valve+%28hot+gas+solenoid%29&tag=errorcodefixes-20) \| Must be OEM for Manitowoc; aftermarket valves frequently cause new code 2 issues |
+| Manitowoc ACE 5 cleaner | [Amazon](https://www.amazon.com/s?k=Manitowoc+ACE+5+cleaner&tag=errorcodefixes-20) \| Specifically formulated for Manitowoc; descales and sanitizes |
+| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Replace if fan isn't running at full speed |
 ## When to Call a Pro
 
 Refrigerant diagnosis and harvest valve replacement in the refrigeration circuit require an EPA 608-certified refrigeration technician. Don't attempt to add refrigerant without first finding and fixing the leak.

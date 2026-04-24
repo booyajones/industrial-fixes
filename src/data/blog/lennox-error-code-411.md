@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lennox Error Code 411 — Ignition Proving Fault Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-04-03T08:00:00Z
@@ -46,9 +46,9 @@ Gas pressure adjustment and gas valve replacement require a licensed technician 
 
 | Part | Where to Buy |
 |------|-------------|
-| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | RepairClinic, Amazon |
-| [Hot surface igniter (silicon nitride)](https://www.amazon.com/s?k=Hot%20surface%20igniter%20(silicon%20nitride)&tag=errorcodefixe-20) | RepairClinic, SupplyHouse |
-| [Gas valve](https://www.amazon.com/s?k=Gas%20valve&tag=errorcodefixe-20) | SupplyHouse, Grainger |
+| Flame sensor | RepairClinic, Amazon |
+| Hot surface igniter (silicon nitride) | RepairClinic, SupplyHouse |
+| Gas valve | SupplyHouse, Grainger |
 
 ## When to Call a Technician
 

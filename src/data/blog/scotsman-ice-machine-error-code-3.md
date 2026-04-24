@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Scotsman Ice Machine Error Code 3 — Causes & Fix"
 description: "What Scotsman Error Code 3 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,10 +36,9 @@ Error Code 3 on a Scotsman ice machine indicates a long freeze cycle — the mac
 
 | Part | Notes |
 |------|-------|
-| [Ice thickness sensor](https://www.amazon.com/s?k=Ice%20thickness%20sensor&tag=errorcodefixe-20) | Replace if scaled beyond cleaning or reading out of spec |
-| [Condenser brush / coil cleaner](https://www.amazon.com/s?k=Condenser%20brush%20%2F%20coil%20cleaner&tag=errorcodefixe-20) | Maintenance item — clean every 3–6 months |
-| [Refrigerant (R-404A or R-448A)](https://www.amazon.com/s?k=Refrigerant%20(R-404A%20or%20R-448A)&tag=errorcodefixe-20) | Add only after finding and fixing the leak |
-
+| Ice thickness sensor | [Amazon](https://www.amazon.com/s?k=Ice+thickness+sensor&tag=errorcodefixes-20) \| Replace if scaled beyond cleaning or reading out of spec |
+| Condenser brush / coil cleaner | [Amazon](https://www.amazon.com/s?k=Condenser+brush+%2F+coil+cleaner&tag=errorcodefixes-20) \| Maintenance item — clean every 3–6 months |
+| Refrigerant (R-404A or R-448A) | [Amazon](https://www.amazon.com/s?k=Refrigerant+%28R-404A+or+R-448A%29&tag=errorcodefixes-20) \| Add only after finding and fixing the leak |
 ## When to Call a Pro
 
 Refrigerant diagnosis and recharge requires EPA 608 certification. If condenser and sensor are clean and ambient is normal, have a certified tech check the refrigeration circuit.

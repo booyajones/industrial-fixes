@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Trane XV80 Furnace Error Codes — Flash Code Diagnostic Guide"
 description: "Complete guide to Trane XV80 furnace error codes, flash sequences, common fault causes, and step-by-step repairs for pressure switch, ignition, and limit faults."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -20,20 +20,20 @@ The Trane XV80 is an 80% AFUE, variable-speed gas furnace using an ECM blower mo
 
 ## Trane XV80 Flash Code Reference
 
-| [Flash Code](https://www.amazon.com/s?k=Flash%20Code&tag=errorcodefixe-20) | Meaning |
+| Flash Code | Meaning |
 |------------|---------|
-| [1 flash](https://www.amazon.com/s?k=1%20flash&tag=errorcodefixe-20) | Normal operation — call satisfied |
-| [2 flashes](https://www.amazon.com/s?k=2%20flashes&tag=errorcodefixe-20) | System lockout (exceeded retry count) |
-| [3 flashes](https://www.amazon.com/s?k=3%20flashes&tag=errorcodefixe-20) | Pressure switch open — inducer or draft issue |
-| [4 flashes](https://www.amazon.com/s?k=4%20flashes&tag=errorcodefixe-20) | Open high-limit device |
-| [5 flashes](https://www.amazon.com/s?k=5%20flashes&tag=errorcodefixe-20) | Flame sensed — gas valve not energized |
-| [6 flashes](https://www.amazon.com/s?k=6%20flashes&tag=errorcodefixe-20) | 115V wiring fault or reversed polarity |
-| [7 flashes](https://www.amazon.com/s?k=7%20flashes&tag=errorcodefixe-20) | Gas valve circuit problem |
-| [8 flashes](https://www.amazon.com/s?k=8%20flashes&tag=errorcodefixe-20) | Low flame signal — dirty flame sensor |
-| [9 flashes](https://www.amazon.com/s?k=9%20flashes&tag=errorcodefixe-20) | Rollout switch open |
-| [13 flashes](https://www.amazon.com/s?k=13%20flashes&tag=errorcodefixe-20) | Limit cycle lockout — excessive trips |
-| [14 flashes](https://www.amazon.com/s?k=14%20flashes&tag=errorcodefixe-20) | Ignition lockout — failed 3 consecutive attempts |
-| [34 flashes](https://www.amazon.com/s?k=34%20flashes&tag=errorcodefixe-20) | Ignition proving failed |
+| 1 flash | Normal operation — call satisfied |
+| 2 flashes | System lockout (exceeded retry count) |
+| 3 flashes | Pressure switch open — inducer or draft issue |
+| 4 flashes | Open high-limit device |
+| 5 flashes | Flame sensed — gas valve not energized |
+| 6 flashes | 115V wiring fault or reversed polarity |
+| 7 flashes | Gas valve circuit problem |
+| 8 flashes | Low flame signal — dirty flame sensor |
+| 9 flashes | Rollout switch open |
+| 13 flashes | Limit cycle lockout — excessive trips |
+| 14 flashes | Ignition lockout — failed 3 consecutive attempts |
+| 34 flashes | Ignition proving failed |
 
 ## Common Causes by Code
 
@@ -58,13 +58,12 @@ The Trane XV80 is an 80% AFUE, variable-speed gas furnace using an ECM blower mo
 
 | Part | Notes |
 |------|-------|
-| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | Common; cost ~$15–25 |
-| [Hot surface ignitor](https://www.amazon.com/s?k=Hot%20surface%20ignitor&tag=errorcodefixe-20) | Silicon nitride, 120V; confirm part for XV80 |
-| [ECM blower module](https://www.amazon.com/s?k=ECM%20blower%20module&tag=errorcodefixe-20) | Fits behind the motor; test before replacing motor |
-| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Match to inducer model and tubing port |
-| [Rollout switch](https://www.amazon.com/s?k=Rollout%20switch&tag=errorcodefixe-20) | Investigate cause before replacing |
-| [Control board (IFC)](https://www.amazon.com/s?k=Control%20board%20(IFC)&tag=errorcodefixe-20) | For repeated unexplained lockouts |
-
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Common; cost ~$15–25 |
+| Hot surface ignitor | [Amazon](https://www.amazon.com/s?k=Hot+surface+ignitor&tag=errorcodefixes-20) \| Silicon nitride, 120V; confirm part for XV80 |
+| ECM blower module | [Amazon](https://www.amazon.com/s?k=ECM+blower+module&tag=errorcodefixes-20) \| Fits behind the motor; test before replacing motor |
+| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Match to inducer model and tubing port |
+| Rollout switch | [Amazon](https://www.amazon.com/s?k=Rollout+switch&tag=errorcodefixes-20) \| Investigate cause before replacing |
+| Control board (IFC) | [Amazon](https://www.amazon.com/s?k=Control+board+%28IFC%29&tag=errorcodefixes-20) \| For repeated unexplained lockouts |
 ## When to Call a Pro
 
 A cracked heat exchanger in the XV80 is a carbon monoxide hazard. If the rollout switch has tripped, do not operate the furnace until a licensed technician inspects the heat exchanger. ECM motor troubleshooting also benefits from Trane's proprietary diagnostic tools available to authorized dealers.

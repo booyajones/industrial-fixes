@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Rinnai Error Code 32 — Causes & Fix"
 description: "What Rinnai error code 32 means, why the overheat cutoff trips, and how to diagnose and fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,10 +36,9 @@ Error code 32 on a Rinnai tankless water heater indicates the outlet water tempe
 
 | Part | Notes |
 |------|-------|
-| [Thermal fuse (outlet)](https://www.amazon.com/s?k=Thermal%20fuse%20(outlet)&tag=errorcodefixe-20) | Rinnai OEM; one-time device, must be replaced after trip |
-| [Outlet thermistor](https://www.amazon.com/s?k=Outlet%20thermistor&tag=errorcodefixe-20) | NTC type; match model-specific part number |
-| [Descaling solution](https://www.amazon.com/s?k=Descaling%20solution&tag=errorcodefixe-20) | White vinegar or Rinnai-approved descaler |
-
+| Thermal fuse (outlet) | [Amazon](https://www.amazon.com/s?k=Thermal+fuse+%28outlet%29&tag=errorcodefixes-20) \| Rinnai OEM; one-time device, must be replaced after trip |
+| Outlet thermistor | [Amazon](https://www.amazon.com/s?k=Outlet+thermistor&tag=errorcodefixes-20) \| NTC type; match model-specific part number |
+| Descaling solution | [Amazon](https://www.amazon.com/s?k=Descaling+solution&tag=errorcodefixes-20) \| White vinegar or Rinnai-approved descaler |
 ## When to Call a Pro
 
 If the thermal fuse blows repeatedly after replacement, the root cause (scale or flow issue) has not been resolved. A licensed plumber should perform a full heat exchanger inspection and potentially install a water treatment system upstream of the unit.

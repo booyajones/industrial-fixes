@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Hoshizaki E6 Error Code — Causes & Fix"
 description: "What Hoshizaki ice machine error code E6 means, why the refrigerant circuit faults, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,11 +36,10 @@ Error code E6 on a Hoshizaki ice machine (KM, KMD, FS, DCM, AM series) indicates
 
 | Part | Notes |
 |------|-------|
-| [Hot gas solenoid valve](https://www.amazon.com/s?k=Hot%20gas%20solenoid%20valve&tag=errorcodefixe-20) | Hoshizaki OEM; match model and coil voltage |
-| [Harvest thermistor](https://www.amazon.com/s?k=Harvest%20thermistor&tag=errorcodefixe-20) | Match KM or FS series connector |
-| [Condenser coil cleaner](https://www.amazon.com/s?k=Condenser%20coil%20cleaner&tag=errorcodefixe-20) | Nu-Calgon Coil-Aid or equivalent |
-| [Refrigerant (R-404A or R-448A)](https://www.amazon.com/s?k=Refrigerant%20(R-404A%20or%20R-448A)&tag=errorcodefixe-20) | Licensed tech required for handling |
-
+| Hot gas solenoid valve | [Amazon](https://www.amazon.com/s?k=Hot+gas+solenoid+valve&tag=errorcodefixes-20) \| Hoshizaki OEM; match model and coil voltage |
+| Harvest thermistor | [Amazon](https://www.amazon.com/s?k=Harvest+thermistor&tag=errorcodefixes-20) \| Match KM or FS series connector |
+| Condenser coil cleaner | [Amazon](https://www.amazon.com/s?k=Condenser+coil+cleaner&tag=errorcodefixes-20) \| Nu-Calgon Coil-Aid or equivalent |
+| Refrigerant (R-404A or R-448A) | [Amazon](https://www.amazon.com/s?k=Refrigerant+%28R-404A+or+R-448A%29&tag=errorcodefixes-20) \| Licensed tech required for handling |
 ## When to Call a Pro
 
 Refrigerant system diagnosis and repair on commercial ice machines requires EPA 608 certification and commercial refrigeration experience. E6 caused by low charge also requires a leak search — operating with a known leak is illegal under EPA Section 608 regulations.

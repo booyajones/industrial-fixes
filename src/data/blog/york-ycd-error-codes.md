@@ -1,4 +1,4 @@
-﻿---
+---
 title: "York YCD Packaged Unit Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to York YCD packaged rooftop unit error codes, diagnostic LED flash sequences, common fault causes, and step-by-step repair procedures."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -21,20 +21,20 @@ The York YCD is a commercial single-packaged gas/electric rooftop unit available
 
 ## York YCD Status LED / Fault Code Reference
 
-| [LED Code](https://www.amazon.com/s?k=LED%20Code&tag=errorcodefixe-20) | Fault |
+| LED Code | Fault |
 |---|---|
-| [1 flash](https://www.amazon.com/s?k=1%20flash&tag=errorcodefixe-20) | Normal — no fault |
-| [2 flashes](https://www.amazon.com/s?k=2%20flashes&tag=errorcodefixe-20) | High-pressure switch open |
-| [3 flashes](https://www.amazon.com/s?k=3%20flashes&tag=errorcodefixe-20) | Low-pressure switch open |
-| [4 flashes](https://www.amazon.com/s?k=4%20flashes&tag=errorcodefixe-20) | Compressor lockout — 3 consecutive high-pressure trips |
-| [5 flashes](https://www.amazon.com/s?k=5%20flashes&tag=errorcodefixe-20) | Compressor lockout — 3 consecutive low-pressure trips |
-| [6 flashes](https://www.amazon.com/s?k=6%20flashes&tag=errorcodefixe-20) | Low ambient lockout |
-| [7 flashes](https://www.amazon.com/s?k=7%20flashes&tag=errorcodefixe-20) | Outdoor fan fault |
-| [8 flashes](https://www.amazon.com/s?k=8%20flashes&tag=errorcodefixe-20) | Return air sensor fault |
-| [9 flashes](https://www.amazon.com/s?k=9%20flashes&tag=errorcodefixe-20) | Discharge air sensor fault |
-| [10 flashes](https://www.amazon.com/s?k=10%20flashes&tag=errorcodefixe-20) | Communication fault — BACnet/N2 |
-| [11 flashes](https://www.amazon.com/s?k=11%20flashes&tag=errorcodefixe-20) | Condenser coil sensor fault |
-| [Solid ON](https://www.amazon.com/s?k=Solid%20ON&tag=errorcodefixe-20) | Freeze protection active |
+| 1 flash | Normal — no fault |
+| 2 flashes | High-pressure switch open |
+| 3 flashes | Low-pressure switch open |
+| 4 flashes | Compressor lockout — 3 consecutive high-pressure trips |
+| 5 flashes | Compressor lockout — 3 consecutive low-pressure trips |
+| 6 flashes | Low ambient lockout |
+| 7 flashes | Outdoor fan fault |
+| 8 flashes | Return air sensor fault |
+| 9 flashes | Discharge air sensor fault |
+| 10 flashes | Communication fault — BACnet/N2 |
+| 11 flashes | Condenser coil sensor fault |
+| Solid ON | Freeze protection active |
 
 ## Common Causes by Code
 
@@ -56,13 +56,12 @@ The York YCD is a commercial single-packaged gas/electric rooftop unit available
 
 | Part | Notes |
 |---|---|
-| [Run capacitor](https://www.amazon.com/s?k=Run%20capacitor&tag=errorcodefixe-20) | For condenser fan motor |
-| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | Match tonnage — 3-ton and 5-ton use different motors |
-| [High-pressure switch](https://www.amazon.com/s?k=High-pressure%20switch&tag=errorcodefixe-20) | 610 PSIG cutout for R-410A |
-| [Low-pressure switch](https://www.amazon.com/s?k=Low-pressure%20switch&tag=errorcodefixe-20) | 50 PSIG cutout |
-| [Discharge air sensor](https://www.amazon.com/s?k=Discharge%20air%20sensor&tag=errorcodefixe-20) | NTC thermistor; check resistance at known temperature |
-| [Unit controller board](https://www.amazon.com/s?k=Unit%20controller%20board&tag=errorcodefixe-20) | For persistent communication or sensor faults |
-
+| Run capacitor | [Amazon](https://www.amazon.com/s?k=Run+capacitor&tag=errorcodefixes-20) \| For condenser fan motor |
+| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Match tonnage — 3-ton and 5-ton use different motors |
+| High-pressure switch | [Amazon](https://www.amazon.com/s?k=High-pressure+switch&tag=errorcodefixes-20) \| 610 PSIG cutout for R-410A |
+| Low-pressure switch | [Amazon](https://www.amazon.com/s?k=Low-pressure+switch&tag=errorcodefixes-20) \| 50 PSIG cutout |
+| Discharge air sensor | [Amazon](https://www.amazon.com/s?k=Discharge+air+sensor&tag=errorcodefixes-20) \| NTC thermistor; check resistance at known temperature |
+| Unit controller board | [Amazon](https://www.amazon.com/s?k=Unit+controller+board&tag=errorcodefixes-20) \| For persistent communication or sensor faults |
 ## When to Call a Pro
 
 York YCD packaged units are commercial equipment requiring HVAC-R licensed technicians for refrigerant work. BACnet/N2 communication troubleshooting typically requires access to the building management system and a BMS-capable service technician. Compressor replacement on a YCD is a multi-hour job requiring refrigerant recovery equipment.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "ESAB Welder F01 Fault Code — Causes & Fix"
 description: "What ESAB Welder F01 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -36,10 +36,9 @@ The F01 fault on ESAB welders (Rebel, Rogue, and Fabricator series) indicates a 
 
 | Part | Notes |
 |------|-------|
-| [Cooling fan assembly](https://www.amazon.com/s?k=Cooling%20fan%20assembly&tag=errorcodefixe-20) | Match to ESAB model — fan specs vary across Rebel generations |
-| [Thermistor / thermal sensor](https://www.amazon.com/s?k=Thermistor%20%2F%20thermal%20sensor&tag=errorcodefixe-20) | If F01 trips immediately even when cool |
-| [Compressed air / vent brush](https://www.amazon.com/s?k=Compressed%20air%20%2F%20vent%20brush&tag=errorcodefixe-20) | For preventive cleaning every 3–6 months |
-
+| Cooling fan assembly | [Amazon](https://www.amazon.com/s?k=Cooling+fan+assembly&tag=errorcodefixes-20) \| Match to ESAB model — fan specs vary across Rebel generations |
+| Thermistor / thermal sensor | [Amazon](https://www.amazon.com/s?k=Thermistor+%2F+thermal+sensor&tag=errorcodefixes-20) \| If F01 trips immediately even when cool |
+| Compressed air / vent brush | [Amazon](https://www.amazon.com/s?k=Compressed+air+%2F+vent+brush&tag=errorcodefixes-20) \| For preventive cleaning every 3–6 months |
 ## When to Call a Pro
 
 If F01 persists immediately after cooldown or trips within seconds of starting an arc, the IGBT or thermistor has likely failed. ESAB authorized service is needed for internal component replacement.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Trane 7 Flashes Error Code — Gas Valve Circuit Fault Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-26T08:00:00Z
@@ -46,10 +46,10 @@ If the gas valve is not opening (no gas smell, no ignition) but the igniter glow
 
 | Part | Where to Buy |
 |------|-------------|
-| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | RepairClinic, Amazon |
-| [Hot surface igniter (match model)](https://www.amazon.com/s?k=Hot%20surface%20igniter%20(match%20model)&tag=errorcodefixe-20) | RepairClinic, SupplyHouse |
-| [Gas valve](https://www.amazon.com/s?k=Gas%20valve&tag=errorcodefixe-20) | SupplyHouse, Grainger |
-| [Control board](https://www.amazon.com/s?k=Control%20board&tag=errorcodefixe-20) | RepairClinic, Grainger |
+| Flame sensor | RepairClinic, Amazon |
+| Hot surface igniter (match model) | RepairClinic, SupplyHouse |
+| Gas valve | SupplyHouse, Grainger |
+| Control board | RepairClinic, Grainger |
 
 ## When to Call a Technician
 

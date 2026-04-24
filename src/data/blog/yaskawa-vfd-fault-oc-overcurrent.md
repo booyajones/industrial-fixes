@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Yaskawa VFD Fault OC — Overcurrent Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-15T08:00:00Z
@@ -49,11 +49,8 @@ OC is distinct from Yaskawa's OL1 (motor overload) and OL2 (drive overload) faul
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Part Number | Typical Cost | [Where to Buy](https://www.amazon.com/s?k=Where%20to%20Buy&tag=errorcodefixe-20) |  |------|------------|-------------|-------------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Yaskawa dV/dt Output Filter | LCRD series (size by drive A) | [$150–$600](https://www.amazon.com/s?k=%24150%E2%80%93%24600&tag=errorcodefixe-20) | Yaskawa distributor |
-| [Inverter-duty Motor](https://www.amazon.com/s?k=Inverter-duty%20Motor&tag=errorcodefixe-20) | NEMA MG1 Part 31 rated | $300–$2000+ | [Grainger / motor shop](https://www.amazon.com/s?k=Grainger%20%2F%20motor%20shop&tag=errorcodefixe-20) |  | Replacement J1000 Drive | [CIMR-JU2A0004FAA (varies)](https://www.amazon.com/s?k=CIMR-JU2A0004FAA%20(varies)&tag=errorcodefixe-20) | $300–$700 | Yaskawa distributor / Amazon | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Motor Cable (THHN shielded) | By footage | [$2–$8/ft](https://www.amazon.com/s?k=%242%E2%80%93%248%2Fft&tag=errorcodefixe-20) | Grainger / electrical supply |
+| Part | Part Number | Typical Cost | Where to Buy | ------ | ------------ | ------------- | ------------- |  | Yaskawa dV/dt Output Filter | LCRD series (size by drive A) | $150–$600 | Yaskawa distributor |
+|------|------|------|------|------|------|------|------|------|------|------|------|------|
+| Inverter-duty Motor | NEMA MG1 Part 31 rated | $300–$2000+ | [Amazon](https://www.amazon.com/s?k=NEMA+MG1+Part+31+rated+NEMA+MG1+Part+31+rated&tag=errorcodefixes-20) \| Grainger / motor shop | Replacement J1000 Drive | CIMR-JU2A0004FAA (varies)&tag=) | $300–$700 | Yaskawa distributor / Amazon |  | Motor Cable (THHN shielded) | By footage | $2–$8/ft | Grainger / electrical supply |
 
-## When to Call a Professional
-
-If drive-only testing (Step 5) produces an OC fault with no motor connected, the drive has a failed output IGBT module. IGBT replacement in Yaskawa drives is possible but requires component-level repair experience, IGBT handling precautions, and a gate driver test before reassembly. For smaller drives (J1000 under 3 HP), replacement is often more economical than repair. For larger A1000 drives, an authorized Yaskawa repair center can often replace IGBT modules and retest for significantly less than a new drive. Do not attempt to operate a drive with a suspected failed IGBT — you risk damaging the input rectifier and control board in addition to the output stage.
-
-> **Pro tip:** Yaskawa OC faults that occur at a repeatable output frequency (e.g., always at 15 Hz) during acceleration often point to a mechanical resonance frequency — the load's natural vibration frequency aligns with the drive output, causing current oscillation that trips OC. Yaskawa drives include a Jump Frequency function (d3-01 through d3-04) that skips specific output frequencies. Enabling jump frequency around the resonant point eliminates these faults without changing any mechanical components.
+## 

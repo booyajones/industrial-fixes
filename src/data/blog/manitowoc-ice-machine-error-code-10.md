@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix"
 description: "What Manitowoc ice machine error code 10 means, why the ice full sensor faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -38,9 +38,8 @@ Error code 10 on a Manitowoc ice machine (Indigo and Indigo NXT series) indicate
 
 | Part | Notes |
 |------|-------|
-| [Ice level sensor (IR)](https://www.amazon.com/s?k=Ice%20level%20sensor%20(IR)&tag=errorcodefixe-20) | Manitowoc Indigo OEM; match the series (S/D/F) |
-| [Sensor wiring harness](https://www.amazon.com/s?k=Sensor%20wiring%20harness&tag=errorcodefixe-20) | Replace if corrosion or damage is found at the connector |
-
+| Ice level sensor (IR) | [Amazon](https://www.amazon.com/s?k=Ice+level+sensor+%28IR%29&tag=errorcodefixes-20) \| Manitowoc Indigo OEM; match the series (S/D/F) |
+| Sensor wiring harness | [Amazon](https://www.amazon.com/s?k=Sensor+wiring+harness&tag=errorcodefixes-20) \| Replace if corrosion or damage is found at the connector |
 ## When to Call a Pro
 
 If error code 10 persists after sensor replacement and the machine is under commercial warranty, contact Manitowoc's service network. A control board fault that is misinterpreting a good sensor signal requires board-level diagnosis.

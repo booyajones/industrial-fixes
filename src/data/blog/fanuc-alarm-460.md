@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fanuc Alarm 460 — Spindle Overload"
 description: "Fanuc Alarm 460 means spindle load exceeded the allowable limit. Learn what causes Fanuc spindle overload alarms and how to fix them."
 pubDatetime: 2026-04-22T17:00:00Z
@@ -40,11 +40,10 @@ tags:
 
 | Part | Notes |
 |------|-------|
-| [Spindle bearings](https://www.amazon.com/s?k=Spindle%20bearings&tag=errorcodefixe-20) | Replace if heat or noise is present |
-| [Toolholder / cutting tool](https://www.amazon.com/s?k=Toolholder%20%2F%20cutting%20tool&tag=errorcodefixe-20) | Dull tools are the simplest fix |
-| [Drive cooling fan](https://www.amazon.com/s?k=Drive%20cooling%20fan&tag=errorcodefixe-20) | Check spindle drive cabinet airflow |
-| [Belt set](https://www.amazon.com/s?k=Belt%20set&tag=errorcodefixe-20) | Replace if glazed, cracked, or over-tensioned |
-
+| Spindle bearings | [Amazon](https://www.amazon.com/s?k=Spindle+bearings&tag=errorcodefixes-20) \| Replace if heat or noise is present |
+| Toolholder / cutting tool | [Amazon](https://www.amazon.com/s?k=Toolholder+%2F+cutting+tool&tag=errorcodefixes-20) \| Dull tools are the simplest fix |
+| Drive cooling fan | [Amazon](https://www.amazon.com/s?k=Drive+cooling+fan&tag=errorcodefixes-20) \| Check spindle drive cabinet airflow |
+| Belt set | [Amazon](https://www.amazon.com/s?k=Belt+set&tag=errorcodefixes-20) \| Replace if glazed, cracked, or over-tensioned |
 ## When to Call a Pro
 
 If spindle load is high with no cutting load, the machine likely needs spindle service, drive diagnostics, or both. Continuing to run it risks spindle damage.

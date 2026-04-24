@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Carrier 31 Error Code — Pressure Switch Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-04T08:00:00Z
@@ -46,10 +46,12 @@ description: "Carrier error code 31 means the pressure switch is stuck open or f
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Where to Buy | Typical Cost | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |-------------|-------------|
-| Pressure switch (Carrier #HK06WC085 or HK06WC064) | [Carrier dealer, Johnstone Supply](https://www.amazon.com/s?k=Carrier%20dealer%2C%20Johnstone%20Supply&tag=errorcodefixe-20) | $20–$50 |
-| [Draft inducer assembly (Carrier #HC21ZE120A)](https://www.amazon.com/s?k=Draft%20inducer%20assembly%20(Carrier%20%23HC21ZE120A)&tag=errorcodefixe-20) | RepairClinic, Carrier OEM | $120–$280 | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Condensate drain line kit | Home Depot, HVAC Supply | [$10–$25](https://www.amazon.com/s?k=%2410%E2%80%93%2425&tag=errorcodefixe-20) |  | Pressure switch hose (3/8" ID vinyl, sold by foot) | [Any hardware store](https://www.amazon.com/s?k=Any%20hardware%20store&tag=errorcodefixe-20) | $2–$5 |
-
+| Part | Where to Buy | Typical Cost |
+|------|-------------|-------------|
+| Pressure switch (Carrier #HK06WC085 or HK06WC064) | [Amazon](https://www.amazon.com/s?k=Pressure+switch+%28Carrier+%23HK06WC085+or+HK06WC064%29&tag=errorcodefixes-20) \| Carrier dealer, Johnstone Supply | $20–$50 |
+| Draft inducer assembly (Carrier #HC21ZE120A) | [Amazon](https://www.amazon.com/s?k=Draft+inducer+assembly+%28Carrier+%23HC21ZE120A%29&tag=errorcodefixes-20) \| RepairClinic, Carrier OEM | $120–$280 |
+| Condensate drain line kit | [Amazon](https://www.amazon.com/s?k=Condensate+drain+line+kit&tag=errorcodefixes-20) \| Home Depot, HVAC Supply | $10–$25 |
+| Pressure switch hose (3/8" ID vinyl, sold by foot) | [Amazon](https://www.amazon.com/s?k=Pressure+switch+hose+%283%2F8%22+ID+vinyl%2C+sold+by+foot%29&tag=errorcodefixes-20) \| Any hardware store | $2–$5 |
 ## When to Call a Professional
 
 If you've cleared the hose, dried the switch, confirmed the inducer runs strongly, and the switch still won't close — you need a tech with a manometer to measure actual draft. A furnace that produces too little draft for its pressure switch rating usually means either the inducer is failing internally (impeller wear) or there's a major flue restriction. Both require hands-on diagnosis. Tell your tech: "Code 31, pressure switch won't close. I've already cleared the hose and the switch tests good at rest. I need you to measure draft on the inducer."

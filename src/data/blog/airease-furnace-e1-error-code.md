@@ -1,4 +1,4 @@
-﻿---
+---
 title: "AirEase Furnace E1 Error Code — Causes & Fix"
 description: "What AirEase furnace error code E1 means, why the system locks out, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -38,10 +38,9 @@ E1 on an AirEase furnace indicates a system lockout — the furnace attempted th
 
 | Part | Notes |
 |------|-------|
-| [Hot surface igniter](https://www.amazon.com/s?k=Hot%20surface%20igniter&tag=errorcodefixe-20) | Lennox/AirEase specific; verify voltage and element style |
-| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | Replace if cleaning does not restore normal operation |
-| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Match water column rating from the label on the original switch |
-
+| Hot surface igniter | [Amazon](https://www.amazon.com/s?k=Hot+surface+igniter&tag=errorcodefixes-20) \| Lennox/AirEase specific; verify voltage and element style |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Replace if cleaning does not restore normal operation |
+| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Match water column rating from the label on the original switch |
 ## When to Call a Pro
 
 If the furnace re-locks within a day or two of clearing, or if gas pressure measurement or valve replacement is needed, contact a licensed technician. Persistent lockouts often indicate a failing heat exchanger or control board.

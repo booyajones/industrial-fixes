@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Danfoss VFD Fault AL 14 — Causes & Fix"
 description: "What Danfoss VFD alarm AL 14 means, why ground fault triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -37,9 +37,8 @@ Danfoss alarm AL 14 is a **Ground Fault** — the drive detected significant cur
 
 | Part | Notes |
 |------|-------|
-| [Motor (rewound or replacement)](https://www.amazon.com/s?k=Motor%20(rewound%20or%20replacement)&tag=errorcodefixe-20) | If insulation resistance is below 1 MΩ |
-| [Output power cable](https://www.amazon.com/s?k=Output%20power%20cable&tag=errorcodefixe-20) | Shielded, rated for VFD output; replace if megger test shows insulation damage |
-
+| Motor (rewound or replacement) | [Amazon](https://www.amazon.com/s?k=Motor+%28rewound+or+replacement%29&tag=errorcodefixes-20) \| If insulation resistance is below 1 MΩ |
+| Output power cable | [Amazon](https://www.amazon.com/s?k=Output+power+cable&tag=errorcodefixes-20) \| Shielded, rated for VFD output; replace if megger test shows insulation damage |
 ## When to Call a Pro
 
 If AL 14 persists with the motor disconnected, the drive itself has a faulty output stage. Danfoss IGBT replacement requires specialized soldering and testing equipment. Contact Danfoss service or a certified drive repair shop — do not attempt internal drive repair without proper training.

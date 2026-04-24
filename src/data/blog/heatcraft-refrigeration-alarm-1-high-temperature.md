@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Heatcraft Refrigeration Alarm 1 — High Temperature Fault Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-15T08:00:00Z
@@ -51,9 +51,12 @@ This alarm does not necessarily mean the refrigeration system has failed complet
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Part Number | Typical Cost | [Where to Buy](https://www.amazon.com/s?k=Where%20to%20Buy&tag=errorcodefixe-20) |  |------|------------|-------------|-------------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Evaporator Fan Motor (typical) | Match by HP/frame/RPM | [$45–$120](https://www.amazon.com/s?k=%2445%E2%80%93%24120&tag=errorcodefixe-20) | Parts Town / Grainger |
-| [NTC Temperature Sensor (10kΩ)](https://www.amazon.com/s?k=NTC%20Temperature%20Sensor%20(10k%CE%A9)&tag=errorcodefixe-20) | Model-specific | $20–$45 | [Parts Town / Heatcraft dealer](https://www.amazon.com/s?k=Parts%20Town%20%2F%20Heatcraft%20dealer&tag=errorcodefixe-20) |  | Defrost Termination Thermostat | [Model-specific](https://www.amazon.com/s?k=Model-specific&tag=errorcodefixe-20) | $15–$35 | Parts Town | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Heatcraft EC Controller | Model-specific | [$180–$350](https://www.amazon.com/s?k=%24180%E2%80%93%24350&tag=errorcodefixe-20) | Heatcraft dealer |
-
+| Part | Part Number | Typical Cost | Where to Buy |
+|------|------------|-------------|-------------|
+| Evaporator Fan Motor (typical) | Match by HP/frame/RPM | $45–$120 | [Amazon](https://www.amazon.com/s?k=Match+by+HP%2Fframe%2FRPM+Evaporator+Fan+Motor+%28typical%29&tag=errorcodefixes-20) \| Parts Town / Grainger |
+| NTC Temperature Sensor (10kΩ) | Model-specific | $20–$45 | [Amazon](https://www.amazon.com/s?k=Model-specific+NTC+Temperature+Sensor+%2810k%CE%A9%29&tag=errorcodefixes-20) \| Parts Town / Heatcraft dealer |
+| Defrost Termination Thermostat | Model-specific | $15–$35 | [Amazon](https://www.amazon.com/s?k=Model-specific+Defrost+Termination+Thermostat&tag=errorcodefixes-20) \| Parts Town |
+| Heatcraft EC Controller | Model-specific | $180–$350 | [Amazon](https://www.amazon.com/s?k=Model-specific+Heatcraft+EC+Controller&tag=errorcodefixes-20) \| Heatcraft dealer |
 ## When to Call a Professional
 
 Any diagnosis involving refrigerant — checking pressures, adding charge, finding and repairing leaks — requires EPA 608 certification and proper recovery equipment. Do not attempt to add refrigerant to a walk-in cooler without verifying the existing charge and finding the source of any leak. Repeatedly topping off a leaking system is expensive, environmentally irresponsible, and will eventually cause compressor failure from oil loss. A refrigeration technician should handle any system that won't pull down despite clean coils, running fans, and a good condenser — the root cause is almost always a refrigerant-side issue.

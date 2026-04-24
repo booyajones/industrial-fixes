@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Carrier 43 Error Code — Rollout Switch Open Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-23T08:00:00Z
@@ -48,9 +48,9 @@ Once the root cause is corrected, locate the rollout switch (typically a disc-sh
 
 | Part | Where to Buy |
 |------|-------------|
-| [Rollout switch / limit switch](https://www.amazon.com/s?k=Rollout%20switch%20%2F%20limit%20switch&tag=errorcodefixe-20) | RepairClinic, SupplyHouse |
-| [Inducer motor assembly](https://www.amazon.com/s?k=Inducer%20motor%20assembly&tag=errorcodefixe-20) | RepairClinic, Grainger |
-| [Gas valve](https://www.amazon.com/s?k=Gas%20valve&tag=errorcodefixe-20) | SupplyHouse, Grainger |
+| Rollout switch / limit switch | RepairClinic, SupplyHouse |
+| Inducer motor assembly | RepairClinic, Grainger |
+| Gas valve | SupplyHouse, Grainger |
 
 ## When to Call a Technician
 

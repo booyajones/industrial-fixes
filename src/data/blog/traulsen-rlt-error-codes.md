@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Traulsen RLT Series Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Traulsen RLT Series commercial refrigerator error codes, diagnostic codes, common fault causes, and step-by-step repair procedures."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -20,18 +20,18 @@ The Traulsen RLT Series are reach-in commercial refrigerators designed for deman
 
 ## Traulsen RLT Digital Control System Error Code Reference
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Fault |
+| Code | Fault |
 |---|---|
-| [E1](https://www.amazon.com/s?k=E1&tag=errorcodefixe-20) | Box temperature sensor fault |
-| [E2](https://www.amazon.com/s?k=E2&tag=errorcodefixe-20) | Evaporator inlet temperature sensor fault |
-| [E3](https://www.amazon.com/s?k=E3&tag=errorcodefixe-20) | Evaporator outlet temperature sensor fault |
-| [E4](https://www.amazon.com/s?k=E4&tag=errorcodefixe-20) | Defrost termination sensor fault |
-| [E5](https://www.amazon.com/s?k=E5&tag=errorcodefixe-20) | High temperature alarm |
-| [E6](https://www.amazon.com/s?k=E6&tag=errorcodefixe-20) | Low temperature alarm |
-| [E7](https://www.amazon.com/s?k=E7&tag=errorcodefixe-20) | Defrost timeout |
-| [E8](https://www.amazon.com/s?k=E8&tag=errorcodefixe-20) | Door open alarm |
-| [E9](https://www.amazon.com/s?k=E9&tag=errorcodefixe-20) | Probe 1 or Probe 2 open-circuit |
-| [Er](https://www.amazon.com/s?k=Er&tag=errorcodefixe-20) | System error — communication between controller and relay board |
+| E1 | Box temperature sensor fault |
+| E2 | Evaporator inlet temperature sensor fault |
+| E3 | Evaporator outlet temperature sensor fault |
+| E4 | Defrost termination sensor fault |
+| E5 | High temperature alarm |
+| E6 | Low temperature alarm |
+| E7 | Defrost timeout |
+| E8 | Door open alarm |
+| E9 | Probe 1 or Probe 2 open-circuit |
+| Er | System error — communication between controller and relay board |
 
 ## Common Causes by Code
 
@@ -53,13 +53,12 @@ The Traulsen RLT Series are reach-in commercial refrigerators designed for deman
 
 | Part | Notes |
 |---|---|
-| [Box temperature sensor](https://www.amazon.com/s?k=Box%20temperature%20sensor&tag=errorcodefixe-20) | Traulsen specific; verify probe length and connector |
-| [Defrost heater](https://www.amazon.com/s?k=Defrost%20heater&tag=errorcodefixe-20) | Match wattage; multiple heaters on some RLT models |
-| [Defrost termination thermostat](https://www.amazon.com/s?k=Defrost%20termination%20thermostat&tag=errorcodefixe-20) | Check cutout temperature |
-| [DCS relay board](https://www.amazon.com/s?k=DCS%20relay%20board&tag=errorcodefixe-20) | For Er fault; verify cable before replacing board |
-| [Door gasket](https://www.amazon.com/s?k=Door%20gasket&tag=errorcodefixe-20) | Traulsen magnetic gasket; order by door and hinge orientation |
-| [Evaporator fan motor](https://www.amazon.com/s?k=Evaporator%20fan%20motor&tag=errorcodefixe-20) | Match existing specifications |
-
+| Box temperature sensor | [Amazon](https://www.amazon.com/s?k=Box+temperature+sensor&tag=errorcodefixes-20) \| Traulsen specific; verify probe length and connector |
+| Defrost heater | [Amazon](https://www.amazon.com/s?k=Defrost+heater&tag=errorcodefixes-20) \| Match wattage; multiple heaters on some RLT models |
+| Defrost termination thermostat | [Amazon](https://www.amazon.com/s?k=Defrost+termination+thermostat&tag=errorcodefixes-20) \| Check cutout temperature |
+| DCS relay board | [Amazon](https://www.amazon.com/s?k=DCS+relay+board&tag=errorcodefixes-20) \| For Er fault; verify cable before replacing board |
+| Door gasket | [Amazon](https://www.amazon.com/s?k=Door+gasket&tag=errorcodefixes-20) \| Traulsen magnetic gasket; order by door and hinge orientation |
+| Evaporator fan motor | [Amazon](https://www.amazon.com/s?k=Evaporator+fan+motor&tag=errorcodefixes-20) \| Match existing specifications |
 ## When to Call a Pro
 
 Traulsen is a premium commercial refrigeration brand — warranty service must be performed by Welbilt/Traulsen authorized service agents to maintain the warranty. HACCP data logging through the DCS system is a critical food safety feature for healthcare and institutional kitchens — any fault that compromises temperature logging should be addressed immediately by a qualified refrigeration technician.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Navien NFC Combi Boiler Error Codes: Complete Guide"
 description: "Navien NFC combi boiler error codes and fault diagnostics. E-series error codes, causes, and technician-level troubleshooting procedures."
 pubDatetime: 2026-04-22T23:45:00Z
@@ -19,26 +19,45 @@ Navien NFC series combination boilers provide both space heating and domestic ho
 
 ## NFC Error Code Table
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Fault Description | Common Cause | [Action](https://www.amazon.com/s?k=Action&tag=errorcodefixe-20) |  |------|------------------|--------------|--------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E001 | Ignition failure | [No gas, failed igniter, or sensor](https://www.amazon.com/s?k=No%20gas%2C%20failed%20igniter%2C%20or%20sensor&tag=errorcodefixe-20) | Check gas supply and igniter |
-| [E002](https://www.amazon.com/s?k=E002&tag=errorcodefixe-20) | Ignition failure — no flame | Flame sensor or gas valve issue | [Clean flame sensor, check valve](https://www.amazon.com/s?k=Clean%20flame%20sensor%2C%20check%20valve&tag=errorcodefixe-20) |  | E003 | [Ignition failure — lockout](https://www.amazon.com/s?k=Ignition%20failure%20%E2%80%94%20lockout&tag=errorcodefixe-20) | 3 failed ignition attempts | Manual reset required | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E004 | Flame extinguished | [Unstable gas pressure](https://www.amazon.com/s?k=Unstable%20gas%20pressure&tag=errorcodefixe-20) | Check gas supply and pressure |
-| [E006](https://www.amazon.com/s?k=E006&tag=errorcodefixe-20) | High-temperature limit | Overheating or blocked heat exchanger | [Check flow rate, clean HX](https://www.amazon.com/s?k=Check%20flow%20rate%2C%20clean%20HX&tag=errorcodefixe-20) |  | E007 | [Outlet temp sensor fault](https://www.amazon.com/s?k=Outlet%20temp%20sensor%20fault&tag=errorcodefixe-20) | Failed outlet temp sensor | Replace sensor | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E009 | Inlet temp sensor fault | [Failed cold water sensor](https://www.amazon.com/s?k=Failed%20cold%20water%20sensor&tag=errorcodefixe-20) | Replace sensor |
-| [E010](https://www.amazon.com/s?k=E010&tag=errorcodefixe-20) | DHW outlet sensor fault | DHW sensor failure | [Replace sensor](https://www.amazon.com/s?k=Replace%20sensor&tag=errorcodefixe-20) |  | E012 | [Flame sensor signal](https://www.amazon.com/s?k=Flame%20sensor%20signal&tag=errorcodefixe-20) | Dirty or failed flame sensor | Clean flame sensor | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E016 | DHW flow sensor | [Failed flow sensor or debris](https://www.amazon.com/s?k=Failed%20flow%20sensor%20or%20debris&tag=errorcodefixe-20) | Clean or replace flow sensor |
-| [E024](https://www.amazon.com/s?k=E024&tag=errorcodefixe-20) | Outdoor temp sensor | Failed outdoor sensor | [Check sensor wiring](https://www.amazon.com/s?k=Check%20sensor%20wiring&tag=errorcodefixe-20) |  | E030 | [Fan operation fault](https://www.amazon.com/s?k=Fan%20operation%20fault&tag=errorcodefixe-20) | Failed combustion fan | Check fan amps and wiring | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E109 | Heat exchanger overheat | [Scale buildup or low flow](https://www.amazon.com/s?k=Scale%20buildup%20or%20low%20flow&tag=errorcodefixe-20) | Flush heat exchanger |
-| [E110](https://www.amazon.com/s?k=E110&tag=errorcodefixe-20) | Max temperature limit | System overheating | [Check system flow and pump](https://www.amazon.com/s?k=Check%20system%20flow%20and%20pump&tag=errorcodefixe-20) | ## Most Common NFC Combi Faults
+| Code | Fault Description | Common Cause | Action |
+|------|------------------|--------------|--------|
+| E001 | Ignition failure | No gas, failed igniter, or sensor | Check gas supply and igniter |
+| E002 | Ignition failure ΓÇö no flame | Flame sensor or gas valve issue | Clean flame sensor, check valve |
+| E003 | Ignition failure ΓÇö lockout | 3 failed ignition attempts | Manual reset required |
+| E004 | Flame extinguished | Unstable gas pressure | Check gas supply and pressure |
+| E006 | High-temperature limit | Overheating or blocked heat exchanger | Check flow rate, clean HX |
+| E007 | Outlet temp sensor fault | Failed outlet temp sensor | Replace sensor |
+| E009 | Inlet temp sensor fault | Failed cold water sensor | Replace sensor |
+| E010 | DHW outlet sensor fault | DHW sensor failure | Replace sensor |
+| E012 | Flame sensor signal | Dirty or failed flame sensor | Clean flame sensor |
+| E016 | DHW flow sensor | Failed flow sensor or debris | Clean or replace flow sensor |
+| E024 | Outdoor temp sensor | Failed outdoor sensor | Check sensor wiring |
+| E030 | Fan operation fault | Failed combustion fan | Check fan amps and wiring |
+| E109 | Heat exchanger overheat | Scale buildup or low flow | Flush heat exchanger |
+| E110 | Max temperature limit | System overheating | Check system flow and pump |
 
-### E001/E003 — Ignition Failure
-Check gas supply pressure (3.5–10.5 in. w.c. natural gas). Verify gas valve opens (listen for click). Check igniter spark — measure resistance (should be < 100 Ω). Clean flame sensor rod with fine emery cloth.
+## Most Common NFC Combi Faults
 
-### E006 — High Temperature Limit
+### E001/E003 ΓÇö Ignition Failure
+Check gas supply pressure (3.5ΓÇô10.5 in. w.c. natural gas). Verify gas valve opens (listen for click). Check igniter spark ΓÇö measure resistance (should be < 100 ╬⌐). Clean flame sensor rod with fine emery cloth.
+
+### E006 ΓÇö High Temperature Limit
 The NFC monitors outlet temperature continuously. If flow rate is insufficient, the heat exchanger overheats. Check system pump operation, expansion tank pre-charge, and all valves are fully open. Scale buildup in the HX is common in hard water areas.
 
-### E016 — DHW Flow Sensor
+### E016 ΓÇö DHW Flow Sensor
 The flow sensor activates the burner when hot water demand is detected. A stuck or dirty flow sensor prevents the burner from firing. Remove, clean, and inspect the paddle. Check for debris in the cold water inlet filter screen.
 
-### E109 — Heat Exchanger Overheat
+### E109 ΓÇö Heat Exchanger Overheat
 Common in hard water areas. The stainless HX accumulates scale, reducing heat transfer and flow. Flush with commercial descaler (citric acid solution). Navien recommends annual maintenance in hard water areas.
 
-## Parts Commonly Needed | Part | [Notes](https://www.amazon.com/s?k=Notes&tag=errorcodefixe-20) |  |------|-------|
-| Flame sensor | [Clean first, replace if signal persists](https://www.amazon.com/s?k=Clean%20first%2C%20replace%20if%20signal%20persists&tag=errorcodefixe-20) |  | Flow sensor | [DHW and heating flow sensors differ](https://www.amazon.com/s?k=DHW%20and%20heating%20flow%20sensors%20differ&tag=errorcodefixe-20) |  | Heat exchanger | [Expensive — descale first](https://www.amazon.com/s?k=Expensive%20%E2%80%94%20descale%20first&tag=errorcodefixe-20) |  | Igniter | [Check resistance before replacing](https://www.amazon.com/s?k=Check%20resistance%20before%20replacing&tag=errorcodefixe-20) |  | Fan assembly | [Match NFC model voltage](https://www.amazon.com/s?k=Match%20NFC%20model%20voltage&tag=errorcodefixe-20) |  | Outlet temp sensor | Match sensor resistance specification |
+## Parts Commonly Needed
 
-> **Pro tip:** Navien NFC error codes E001–E003 almost always have gas pressure as the root cause. Verify gas pressure at the unit with a manometer before checking ignition components — it saves significant diagnostic time.
+| Part | Notes |
+|------|-------|
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Clean first, replace if signal persists |
+| Flow sensor | [Amazon](https://www.amazon.com/s?k=Flow+sensor&tag=errorcodefixes-20) \| DHW and heating flow sensors differ |
+| Heat exchanger | [Amazon](https://www.amazon.com/s?k=Heat+exchanger&tag=errorcodefixes-20) \| Expensive ΓÇö descale first |
+| Igniter | [Amazon](https://www.amazon.com/s?k=Igniter&tag=errorcodefixes-20) \| Check resistance before replacing |
+| Fan assembly | [Amazon](https://www.amazon.com/s?k=Fan+assembly&tag=errorcodefixes-20) \| Match NFC model voltage |
+| Outlet temp sensor | [Amazon](https://www.amazon.com/s?k=Outlet+temp+sensor&tag=errorcodefixes-20) \| Match sensor resistance specification |
+> **Pro tip:** Navien NFC error codes E001ΓÇôE003 almost always have gas pressure as the root cause. Verify gas pressure at the unit with a manometer before checking ignition components ΓÇö it saves significant diagnostic time.

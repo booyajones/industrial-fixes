@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lochinvar Boiler Flame Fail Error — Causes & Fix"
 description: "What Lochinvar boiler flame fail ignition error means, why it locks out, and how to diagnose and fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,11 +36,10 @@ A **Flame Fail** lockout on a Lochinvar boiler (Knight, CREST, WHN, or commercia
 
 | Part | Notes |
 |------|-------|
-| [Flame rod / flame sensor](https://www.amazon.com/s?k=Flame%20rod%20%2F%20flame%20sensor&tag=errorcodefixe-20) | Replace when cleaning doesn't restore detection; verify exact part number for your model |
-| [Ignition electrode](https://www.amazon.com/s?k=Ignition%20electrode&tag=errorcodefixe-20) | Replace when ceramic insulator is cracked or gap is incorrect |
-| [High-voltage ignition cable](https://www.amazon.com/s?k=High-voltage%20ignition%20cable&tag=errorcodefixe-20) | Replace if cable insulation is cracked or arc marks are visible |
-| [Gas valve](https://www.amazon.com/s?k=Gas%20valve&tag=errorcodefixe-20) | Replace only after confirming gas supply is adequate and ignition is working |
-
+| Flame rod / flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+rod+%2F+flame+sensor&tag=errorcodefixes-20) \| Replace when cleaning doesn't restore detection; verify exact part number for your model |
+| Ignition electrode | [Amazon](https://www.amazon.com/s?k=Ignition+electrode&tag=errorcodefixes-20) \| Replace when ceramic insulator is cracked or gap is incorrect |
+| High-voltage ignition cable | [Amazon](https://www.amazon.com/s?k=High-voltage+ignition+cable&tag=errorcodefixes-20) \| Replace if cable insulation is cracked or arc marks are visible |
+| Gas valve | [Amazon](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) \| Replace only after confirming gas supply is adequate and ignition is working |
 ## When to Call a Pro
 
 If the boiler sparks, gas is confirmed at the burner, and flame fail persists, the combustion controls may need adjustment — air-to-fuel ratio, gas valve pressure, or blower prover switch — which requires a licensed gas fitter or boiler technician.

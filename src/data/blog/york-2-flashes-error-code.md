@@ -1,4 +1,4 @@
-﻿---
+---
 title: "York 2 Flashes Error Code — Causes & Fix"
 description: "What York 2 flashes means on a furnace, why the pressure switch is stuck closed, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,11 +36,10 @@ Two flashes on a York furnace diagnostic LED indicates the pressure switch is st
 
 | Part | Notes |
 |------|-------|
-| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Match York/Johnson Controls part number exactly |
-| [Pressure switch hose](https://www.amazon.com/s?k=Pressure%20switch%20hose&tag=errorcodefixe-20) | 1/4" ID; replace if water-logged or cracked |
-| [Condensate trap kit](https://www.amazon.com/s?k=Condensate%20trap%20kit&tag=errorcodefixe-20) | Required if condensate is backing up |
-| [Control board](https://www.amazon.com/s?k=Control%20board&tag=errorcodefixe-20) | Replace only if relay is confirmed stuck |
-
+| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Match York/Johnson Controls part number exactly |
+| Pressure switch hose | [Amazon](https://www.amazon.com/s?k=Pressure+switch+hose&tag=errorcodefixes-20) \| 1/4" ID; replace if water-logged or cracked |
+| Condensate trap kit | [Amazon](https://www.amazon.com/s?k=Condensate+trap+kit&tag=errorcodefixes-20) \| Required if condensate is backing up |
+| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| Replace only if relay is confirmed stuck |
 ## When to Call a Pro
 
 If water contamination is recurring, the condensate drainage system needs a thorough inspection by a licensed HVAC technician to prevent repeated lockouts and potential heat exchanger corrosion.

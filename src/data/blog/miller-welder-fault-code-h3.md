@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Miller Welder H3 Fault Code — Causes & Fix"
 description: "What Miller Welder H3 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -36,10 +36,9 @@ The H3 fault on Miller welders (Millermatic, Dynasty, Maxstar, and Multimatic se
 
 | Part | Notes |
 |------|-------|
-| [Input voltage selector switch](https://www.amazon.com/s?k=Input%20voltage%20selector%20switch&tag=errorcodefixe-20) | Replace if contacts are pitted or switch is damaged |
-| [Input power cable / plug](https://www.amazon.com/s?k=Input%20power%20cable%20%2F%20plug&tag=errorcodefixe-20) | Replace if insulation is damaged or plug prongs are corroded |
-| [Line conditioning transformer](https://www.amazon.com/s?k=Line%20conditioning%20transformer&tag=errorcodefixe-20) | For facilities with chronic voltage issues |
-
+| Input voltage selector switch | [Amazon](https://www.amazon.com/s?k=Input+voltage+selector+switch&tag=errorcodefixes-20) \| Replace if contacts are pitted or switch is damaged |
+| Input power cable / plug | [Amazon](https://www.amazon.com/s?k=Input+power+cable+%2F+plug&tag=errorcodefixes-20) \| Replace if insulation is damaged or plug prongs are corroded |
+| Line conditioning transformer | [Amazon](https://www.amazon.com/s?k=Line+conditioning+transformer&tag=errorcodefixes-20) \| For facilities with chronic voltage issues |
 ## When to Call a Pro
 
 If input voltage is confirmed within spec and H3 still triggers, the internal voltage sensing circuit or control board needs diagnosis by a Miller authorized service tech.

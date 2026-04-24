@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lincoln Electric E13 Error Code — Causes & Fix"
 description: "What Lincoln Electric E13 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -36,10 +36,9 @@ The E13 fault on Lincoln Electric welders (Power MIG and Power Wave series) indi
 
 | Part | Notes |
 |------|-------|
-| [Output contactor](https://www.amazon.com/s?k=Output%20contactor&tag=errorcodefixe-20) | Match to Lincoln part number — coil voltage and contact current rating vary by model |
-| [Control board](https://www.amazon.com/s?k=Control%20board&tag=errorcodefixe-20) | If no drive signal reaches the contactor coil |
-| [Contactor wiring harness](https://www.amazon.com/s?k=Contactor%20wiring%20harness&tag=errorcodefixe-20) | If leads are damaged or terminals are corroded |
-
+| Output contactor | [Amazon](https://www.amazon.com/s?k=Output+contactor&tag=errorcodefixes-20) \| Match to Lincoln part number — coil voltage and contact current rating vary by model |
+| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| If no drive signal reaches the contactor coil |
+| Contactor wiring harness | [Amazon](https://www.amazon.com/s?k=Contactor+wiring+harness&tag=errorcodefixes-20) \| If leads are damaged or terminals are corroded |
 ## When to Call a Pro
 
 Output contactor replacement is straightforward for an experienced technician, but the work involves high-current connections. Lincoln Electric authorized service centers can diagnose whether the contactor or the board is the root cause before ordering parts.

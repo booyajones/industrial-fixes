@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Goodman 7 Flash Error Code — Ignition Lockout Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-28T08:00:00Z
@@ -46,10 +46,10 @@ If both sensor and igniter check out and gas is flowing: the control board gas v
 
 | Part | Where to Buy |
 |------|-------------|
-| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | RepairClinic, Amazon |
-| [Hot surface igniter](https://www.amazon.com/s?k=Hot%20surface%20igniter&tag=errorcodefixe-20) | RepairClinic, SupplyHouse |
-| [Gas valve](https://www.amazon.com/s?k=Gas%20valve&tag=errorcodefixe-20) | SupplyHouse, Grainger |
-| [Control board](https://www.amazon.com/s?k=Control%20board&tag=errorcodefixe-20) | RepairClinic, Grainger |
+| Flame sensor | RepairClinic, Amazon |
+| Hot surface igniter | RepairClinic, SupplyHouse |
+| Gas valve | SupplyHouse, Grainger |
+| Control board | RepairClinic, Grainger |
 
 ## When to Call a Technician
 

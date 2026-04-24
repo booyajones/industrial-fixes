@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Haas Alarm 112 — Motor Overtemp"
 description: "What Haas CNC alarm 112 means, why a servo motor overtemperature occurs, and how to diagnose and fix it."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -38,11 +38,10 @@ Haas alarm 112 indicates that a servo motor has exceeded its temperature limit. 
 
 | Part | Notes |
 |------|-------|
-| [Servo motor thermistor](https://www.amazon.com/s?k=Servo%20motor%20thermistor&tag=errorcodefixe-20) | OEM Haas part; replacement requires motor disassembly |
-| [Servo motor (complete)](https://www.amazon.com/s?k=Servo%20motor%20(complete)&tag=errorcodefixe-20) | Replace if windings are damaged from repeated overtemperature events |
-| [Way lube pump / distributor](https://www.amazon.com/s?k=Way%20lube%20pump%20%2F%20distributor&tag=errorcodefixe-20) | Replace if lubrication system is not delivering oil to guides |
-| [Ball screw support bearing](https://www.amazon.com/s?k=Ball%20screw%20support%20bearing&tag=errorcodefixe-20) | Replace if ball screw is binding due to bearing failure |
-
+| Servo motor thermistor | [Amazon](https://www.amazon.com/s?k=Servo+motor+thermistor&tag=errorcodefixes-20) \| OEM Haas part; replacement requires motor disassembly |
+| Servo motor (complete) | [Amazon](https://www.amazon.com/s?k=Servo+motor+%28complete%29&tag=errorcodefixes-20) \| Replace if windings are damaged from repeated overtemperature events |
+| Way lube pump / distributor | [Amazon](https://www.amazon.com/s?k=Way+lube+pump+%2F+distributor&tag=errorcodefixes-20) \| Replace if lubrication system is not delivering oil to guides |
+| Ball screw support bearing | [Amazon](https://www.amazon.com/s?k=Ball+screw+support+bearing&tag=errorcodefixes-20) \| Replace if ball screw is binding due to bearing failure |
 ## When to Call a Pro
 
 Motor winding damage from repeated overtemperature events, and servo motor replacement, should be handled by a Haas Factory Outlet (HFO) service technician. Thermistor replacement requires motor disassembly and should be done with the correct motor parameters re-entered into the drive.

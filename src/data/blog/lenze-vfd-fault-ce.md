@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lenze VFD Fault CE — Causes & Fix"
 description: "What Lenze VFD fault code CE means, why communication errors occur, and how to restore the fieldbus or serial link."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -38,10 +38,9 @@ CE on a Lenze VFD (8400, E82, SMV, or i550 series) indicates a communication err
 
 | Part | Notes |
 |------|-------|
-| [Fieldbus cable (shielded)](https://www.amazon.com/s?k=Fieldbus%20cable%20(shielded)&tag=errorcodefixe-20) | Replace damaged communication cable runs |
-| [Lenze communication module](https://www.amazon.com/s?k=Lenze%20communication%20module&tag=errorcodefixe-20) | Replace if drive's comm board is physically damaged |
-| [Network termination plug](https://www.amazon.com/s?k=Network%20termination%20plug&tag=errorcodefixe-20) | 120Ω terminator for RS485/PROFIBUS bus ends |
-
+| Fieldbus cable (shielded) | [Amazon](https://www.amazon.com/s?k=Fieldbus+cable+%28shielded%29&tag=errorcodefixes-20) \| Replace damaged communication cable runs |
+| Lenze communication module | [Amazon](https://www.amazon.com/s?k=Lenze+communication+module&tag=errorcodefixes-20) \| Replace if drive's comm board is physically damaged |
+| Network termination plug | [Amazon](https://www.amazon.com/s?k=Network+termination+plug&tag=errorcodefixes-20) \| 120Ω terminator for RS485/PROFIBUS bus ends |
 ## When to Call a Pro
 
 If CE persists after verifying all physical connections and PLC network health, a Lenze-authorized technician with fieldbus diagnostic tools (protocol analyzer) can trace the communication fault to a specific node, timing issue, or hardware defect.

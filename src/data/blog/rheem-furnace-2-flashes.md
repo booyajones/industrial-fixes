@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Rheem Furnace 2 Flashes — Pressure Switch Fault"
 description: "Rheem furnace 2 flashes means a pressure switch fault. Here's how to diagnose the inducer, pressure switch, hoses, and condensate drain to fix it."
 pubDatetime: 2026-04-22T18:00:00Z
@@ -22,11 +22,11 @@ The pressure switch is a safety device that confirms the induced draft blower is
 
 ## Rheem 2-Flash Fault Scenarios
 
-| [Scenario](https://www.amazon.com/s?k=Scenario&tag=errorcodefixe-20) | Meaning |
+| Scenario | Meaning |
 |---|---|
-| [Switch stuck open](https://www.amazon.com/s?k=Switch%20stuck%20open&tag=errorcodefixe-20) | Inducer running, no draft sensed |
-| [Switch stuck closed](https://www.amazon.com/s?k=Switch%20stuck%20closed&tag=errorcodefixe-20) | Welded contacts, false signal before startup |
-| [Intermittent fault](https://www.amazon.com/s?k=Intermittent%20fault&tag=errorcodefixe-20) | Switch opens during run due to fluctuating draft |
+| Switch stuck open | Inducer running, no draft sensed |
+| Switch stuck closed | Welded contacts, false signal before startup |
+| Intermittent fault | Switch opens during run due to fluctuating draft |
 
 ## Step-by-Step Diagnosis
 
@@ -72,22 +72,21 @@ If all the above checks out and 2 flashes persists, the inducer may not be gener
 
 ## Common Rheem Pressure Switch Part Numbers
 
-| [Model](https://www.amazon.com/s?k=Model&tag=errorcodefixe-20) | Switch P/N |
+| Model | Switch P/N |
 |---|---|
-| [RGPS (80%, single stage)](https://www.amazon.com/s?k=RGPS%20(80%25%2C%20single%20stage)&tag=errorcodefixe-20) | 70-24068-03 |
-| [RGPS (80%, 2-stage)](https://www.amazon.com/s?k=RGPS%20(80%25%2C%202-stage)&tag=errorcodefixe-20) | 42-25197-03 |
-| [RGPH (90%+)](https://www.amazon.com/s?k=RGPH%20(90%25%2B)&tag=errorcodefixe-20) | 42-25202-01, 42-25202-02 |
-| [RGTT (90%+)](https://www.amazon.com/s?k=RGTT%20(90%25%2B)&tag=errorcodefixe-20) | Check label inside cabinet |
+| RGPS (80%, single stage) | 70-24068-03 |
+| RGPS (80%, 2-stage) | 42-25197-03 |
+| RGPH (90%+) | 42-25202-01, 42-25202-02 |
+| RGTT (90%+) | Check label inside cabinet |
 
 ## Parts to Have Ready
 
 | Part | Cost |
 |---|---|
-| [Pressure switch (OEM)](https://www.amazon.com/s?k=Pressure%20switch%20(OEM)&tag=errorcodefixe-20) | $25–65 |
-| [Pressure switch hose](https://www.amazon.com/s?k=Pressure%20switch%20hose&tag=errorcodefixe-20) | $5–15 |
-| [Inducer motor assembly](https://www.amazon.com/s?k=Inducer%20motor%20assembly&tag=errorcodefixe-20) | $150–350 |
-| [Condensate trap](https://www.amazon.com/s?k=Condensate%20trap&tag=errorcodefixe-20) | $15–30 |
-
+| Pressure switch (OEM) | [Amazon](https://www.amazon.com/s?k=Pressure+switch+%28OEM%29&tag=errorcodefixes-20) \| $25–65 |
+| Pressure switch hose | [Amazon](https://www.amazon.com/s?k=Pressure+switch+hose&tag=errorcodefixes-20) \| $5–15 |
+| Inducer motor assembly | [Amazon](https://www.amazon.com/s?k=Inducer+motor+assembly&tag=errorcodefixes-20) \| $150–350 |
+| Condensate trap | [Amazon](https://www.amazon.com/s?k=Condensate+trap&tag=errorcodefixes-20) \| $15–30 |
 ## 2 Flashes vs. 3 Flashes on Rheem
 
 - **2 flashes** = Pressure switch fault (primary topic here)

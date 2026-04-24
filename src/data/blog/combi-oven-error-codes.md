@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Commercial Combi Oven Error Codes — Rational & Alto-Shaam Guide"
 description: "Commercial combi oven error codes for Rational and Alto-Shaam: what each code means and how to fix it."
 pubDatetime: 2026-04-22T17:00:00Z
@@ -17,15 +17,15 @@ Commercial combi ovens from Rational (SelfCookingCenter, iCombi) and Alto-Shaam 
 
 ## Rational SelfCookingCenter / iCombi Error Codes
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning |
+| Code | Meaning |
 |------|---------|
-| [E01](https://www.amazon.com/s?k=E01&tag=errorcodefixe-20) | Temperature sensor fault |
-| [E02](https://www.amazon.com/s?k=E02&tag=errorcodefixe-20) | Humidity sensor fault |
-| [E03](https://www.amazon.com/s?k=E03&tag=errorcodefixe-20) | Core temperature probe fault |
-| [E10](https://www.amazon.com/s?k=E10&tag=errorcodefixe-20) | Steam generator fault |
-| [E20](https://www.amazon.com/s?k=E20&tag=errorcodefixe-20) | Fan motor fault |
-| [E30](https://www.amazon.com/s?k=E30&tag=errorcodefixe-20) | Drain blocked |
-| [E40](https://www.amazon.com/s?k=E40&tag=errorcodefixe-20) | Water supply fault |
+| E01 | Temperature sensor fault |
+| E02 | Humidity sensor fault |
+| E03 | Core temperature probe fault |
+| E10 | Steam generator fault |
+| E20 | Fan motor fault |
+| E30 | Drain blocked |
+| E40 | Water supply fault |
 
 ### Most Common Rational Fixes
 
@@ -39,13 +39,13 @@ Commercial combi ovens from Rational (SelfCookingCenter, iCombi) and Alto-Shaam 
 
 ## Alto-Shaam Combi Error Codes
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning |
+| Code | Meaning |
 |------|---------|
-| [E-01](https://www.amazon.com/s?k=E-01&tag=errorcodefixe-20) | Cabinet temperature sensor fault |
-| [E-02](https://www.amazon.com/s?k=E-02&tag=errorcodefixe-20) | Steam temperature sensor fault |
-| [E-10](https://www.amazon.com/s?k=E-10&tag=errorcodefixe-20) | Heating element fault |
-| [E-20](https://www.amazon.com/s?k=E-20&tag=errorcodefixe-20) | Fan fault |
-| [E-30](https://www.amazon.com/s?k=E-30&tag=errorcodefixe-20) | Water supply fault |
+| E-01 | Cabinet temperature sensor fault |
+| E-02 | Steam temperature sensor fault |
+| E-10 | Heating element fault |
+| E-20 | Fan fault |
+| E-30 | Water supply fault |
 
 ### Most Common Alto-Shaam Fixes
 
@@ -59,11 +59,10 @@ Commercial combi ovens from Rational (SelfCookingCenter, iCombi) and Alto-Shaam 
 
 | Part | Notes |
 |------|-------|
-| [Descaling solution (Rational)](https://www.amazon.com/s?k=Descaling%20solution%20(Rational)&tag=errorcodefixe-20) | Run monthly in hard water areas |
-| [Steam generator heating element](https://www.amazon.com/s?k=Steam%20generator%20heating%20element&tag=errorcodefixe-20) | Most common E10 fix on Rational |
-| [Fan motor](https://www.amazon.com/s?k=Fan%20motor&tag=errorcodefixe-20) | For E20 on both brands |
-| [Water inlet valve](https://www.amazon.com/s?k=Water%20inlet%20valve&tag=errorcodefixe-20) | For E40/E-30 |
-
+| Descaling solution (Rational) | [Amazon](https://www.amazon.com/s?k=Descaling+solution+%28Rational%29&tag=errorcodefixes-20) \| Run monthly in hard water areas |
+| Steam generator heating element | [Amazon](https://www.amazon.com/s?k=Steam+generator+heating+element&tag=errorcodefixes-20) \| Most common E10 fix on Rational |
+| Fan motor | [Amazon](https://www.amazon.com/s?k=Fan+motor&tag=errorcodefixes-20) \| For E20 on both brands |
+| Water inlet valve | [Amazon](https://www.amazon.com/s?k=Water+inlet+valve&tag=errorcodefixes-20) \| For E40/E-30 |
 ## When to Call a Pro
 
 Combi oven electrical repairs involve high-voltage heating elements and control boards. Rational and Alto-Shaam authorized service should handle component-level repairs.

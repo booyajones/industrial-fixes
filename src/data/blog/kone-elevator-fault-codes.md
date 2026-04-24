@@ -1,4 +1,4 @@
-﻿---
+---
 title: "KONE Elevator Fault Codes - Complete Guide"
 description: "KONE elevator fault codes for MonoSpace, EcoDisc, and MiniSpace systems: common alarms, causes, and diagnostic steps."
 pubDatetime: 2026-04-22T20:00:00Z
@@ -16,10 +16,18 @@ tags:
 
 KONE elevators (MonoSpace, EcoDisc, MiniSpace, NanoSpace, and TravelMaster hydraulics) use the V3F16L and KONE CX/DX controller platforms. Faults are logged in the controller and accessible via KONE TKS or KONE Care service tools.
 
-| [Fault](https://www.amazon.com/s?k=Fault&tag=errorcodefixe-20) | System | Meaning | [Quick Fix](https://www.amazon.com/s?k=Quick%20Fix&tag=errorcodefixe-20) |  |-------|--------|---------|-----------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Safety Circuit Fault | All | [Safety chain open](https://www.amazon.com/s?k=Safety%20chain%20open&tag=errorcodefixe-20) | Check door contacts and limit switches |
-| [Door Fault](https://www.amazon.com/s?k=Door%20Fault&tag=errorcodefixe-20) | All | Door not closing or opening | [Check door operator and contacts](https://www.amazon.com/s?k=Check%20door%20operator%20and%20contacts&tag=errorcodefixe-20) |  | Drive Fault | [MonoSpace/EcoDisc](https://www.amazon.com/s?k=MonoSpace%2FEcoDisc&tag=errorcodefixe-20) | V3F drive alarm | Read drive keypad fault code | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Brake Fault | EcoDisc | [Brake monitoring fault](https://www.amazon.com/s?k=Brake%20monitoring%20fault&tag=errorcodefixe-20) | Check brake coil and contacts |
-| [Encoder Fault](https://www.amazon.com/s?k=Encoder%20Fault&tag=errorcodefixe-20) | EcoDisc | Speed feedback error | [Check encoder and cable](https://www.amazon.com/s?k=Check%20encoder%20and%20cable&tag=errorcodefixe-20) |  | Rope Slip | [All](https://www.amazon.com/s?k=All&tag=errorcodefixe-20) | Governor rope slip detected | Check governor and rope tension | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Overload | All | [Car overloaded](https://www.amazon.com/s?k=Car%20overloaded&tag=errorcodefixe-20) | Check weighing device |
-| [Buffer Switch](https://www.amazon.com/s?k=Buffer%20Switch&tag=errorcodefixe-20) | All | Pit buffer contact tripped | [Inspect pit](https://www.amazon.com/s?k=Inspect%20pit&tag=errorcodefixe-20) |  | Car Roof Emergency Stop | [All](https://www.amazon.com/s?k=All&tag=errorcodefixe-20) | Top of car E-stop pressed | Reset, inspect car top | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Unintended Car Movement | MonoSpace | [UCM detection triggered](https://www.amazon.com/s?k=UCM%20detection%20triggered&tag=errorcodefixe-20) | Check safety chain and drive |
+| Fault | System | Meaning | Quick Fix |
+|-------|--------|---------|-----------|
+| Safety Circuit Fault | All | Safety chain open | Check door contacts and limit switches |
+| Door Fault | All | Door not closing or opening | Check door operator and contacts |
+| Drive Fault | MonoSpace/EcoDisc | V3F drive alarm | Read drive keypad fault code |
+| Brake Fault | EcoDisc | Brake monitoring fault | Check brake coil and contacts |
+| Encoder Fault | EcoDisc | Speed feedback error | Check encoder and cable |
+| Rope Slip | All | Governor rope slip detected | Check governor and rope tension |
+| Overload | All | Car overloaded | Check weighing device |
+| Buffer Switch | All | Pit buffer contact tripped | Inspect pit |
+| Car Roof Emergency Stop | All | Top of car E-stop pressed | Reset, inspect car top |
+| Unintended Car Movement | MonoSpace | UCM detection triggered | Check safety chain and drive |
 
 ## Most Common Faults
 
@@ -39,12 +47,11 @@ UCM detection is a mandatory safety feature on modern KONE installations. If the
 
 | Part | Notes |
 |------|-------|
-| [KONE door contact](https://www.amazon.com/s?k=KONE%20door%20contact&tag=errorcodefixe-20) | Replace when worn |
-| [KONE KSD door operator](https://www.amazon.com/s?k=KONE%20KSD%20door%20operator&tag=errorcodefixe-20) | Replace on door fault |
-| [EcoDisc brake coil](https://www.amazon.com/s?k=EcoDisc%20brake%20coil&tag=errorcodefixe-20) | Replace on brake fault |
-| [V3F16L drive board](https://www.amazon.com/s?k=V3F16L%20drive%20board&tag=errorcodefixe-20) | Replace on persistent drive fault |
-| [Encoder (EcoDisc motor)](https://www.amazon.com/s?k=Encoder%20(EcoDisc%20motor)&tag=errorcodefixe-20) | Replace on encoder fault |
-
+| KONE door contact | [Amazon](https://www.amazon.com/s?k=KONE+door+contact&tag=errorcodefixes-20) \| Replace when worn |
+| KONE KSD door operator | [Amazon](https://www.amazon.com/s?k=KONE+KSD+door+operator&tag=errorcodefixes-20) \| Replace on door fault |
+| EcoDisc brake coil | [Amazon](https://www.amazon.com/s?k=EcoDisc+brake+coil&tag=errorcodefixes-20) \| Replace on brake fault |
+| V3F16L drive board | [Amazon](https://www.amazon.com/s?k=V3F16L+drive+board&tag=errorcodefixes-20) \| Replace on persistent drive fault |
+| Encoder (EcoDisc motor) | [Amazon](https://www.amazon.com/s?k=Encoder+%28EcoDisc+motor%29&tag=errorcodefixes-20) \| Replace on encoder fault |
 ## When to Call a Pro
 **KONE elevator systems require licensed elevator mechanics.** KONE Care service tools and software are proprietary. Do not attempt repair or fault reset without proper training and authorization.
 

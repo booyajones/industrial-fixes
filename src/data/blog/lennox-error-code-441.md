@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lennox Error Code 441 — Limit Device Fault"
 description: "Lennox error code 441 signals a limit device has opened during operation. This guide covers which limit tripped, why, and how to fix it without replacing parts unnecessarily."
 pubDatetime: 2026-04-22T18:00:00Z
@@ -22,9 +22,12 @@ Code 441 appears on Lennox SL280, EL280, SL297, and related models that use the 
 
 ## What Limit Devices Are on Lennox Furnaces
 
-| [Device](https://www.amazon.com/s?k=Device&tag=errorcodefixe-20) | Location | Trip Temp | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | --- |---|---|
-| Primary high-limit switch | [On heat exchanger](https://www.amazon.com/s?k=On%20heat%20exchanger&tag=errorcodefixe-20) | 150–200°F |
-| [Secondary high-limit switch](https://www.amazon.com/s?k=Secondary%20high-limit%20switch&tag=errorcodefixe-20) | Blower compartment (some models) | 130–150°F | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Rollout limit switch | Burner area | [200–250°F](https://www.amazon.com/s?k=200%E2%80%93250%C2%B0F&tag=errorcodefixe-20) |  | Auxiliary limit switch | [Flue outlet area (condensing)](https://www.amazon.com/s?k=Flue%20outlet%20area%20(condensing)&tag=errorcodefixe-20) | 175°F |
+| Device | Location | Trip Temp |
+|---|---|---|
+| Primary high-limit switch | On heat exchanger | 150–200°F |
+| Secondary high-limit switch | Blower compartment (some models) | 130–150°F |
+| Rollout limit switch | Burner area | 200–250°F |
+| Auxiliary limit switch | Flue outlet area (condensing) | 175°F |
 
 Code 441 typically points to the **primary high-limit switch**.
 
@@ -68,11 +71,10 @@ The limit switch is doing its job — something is causing the heat exchanger to
 
 | Part | Cost |
 |---|---|
-| [Air filter (MERV 8–11)](https://www.amazon.com/s?k=Air%20filter%20(MERV%208%E2%80%9311)&tag=errorcodefixe-20) | $10–30 |
-| [Blower motor run capacitor](https://www.amazon.com/s?k=Blower%20motor%20run%20capacitor&tag=errorcodefixe-20) | $15–40 |
-| [High-limit switch (OEM)](https://www.amazon.com/s?k=High-limit%20switch%20(OEM)&tag=errorcodefixe-20) | $30–70 |
-| [Blower motor](https://www.amazon.com/s?k=Blower%20motor&tag=errorcodefixe-20) | $150–400 |
-
+| Air filter (MERV 8–11) | [Amazon](https://www.amazon.com/s?k=Air+filter+%28MERV+8%E2%80%9311%29&tag=errorcodefixes-20) \| $10–30 |
+| Blower motor run capacitor | [Amazon](https://www.amazon.com/s?k=Blower+motor+run+capacitor&tag=errorcodefixes-20) \| $15–40 |
+| High-limit switch (OEM) | [Amazon](https://www.amazon.com/s?k=High-limit+switch+%28OEM%29&tag=errorcodefixes-20) \| $30–70 |
+| Blower motor | [Amazon](https://www.amazon.com/s?k=Blower+motor&tag=errorcodefixes-20) \| $150–400 |
 ## Lennox iComfort Codes Related to 441
 
 If you have an iComfort thermostat, the system may also log:

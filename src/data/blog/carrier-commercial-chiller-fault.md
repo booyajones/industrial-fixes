@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Carrier 30XA Commercial Chiller Fault Codes — Common Faults and Fixes"
 description: "Guide to Carrier 30XA air-cooled chiller fault codes, what each fault means, and how to diagnose and fix the most common problems."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -19,16 +19,16 @@ The Carrier 30XA is a scroll-compressor air-cooled chiller used in commercial bu
 
 ## Most Common 30XA Fault Codes
 
-| [Fault](https://www.amazon.com/s?k=Fault&tag=errorcodefixe-20) | Meaning |
+| Fault | Meaning |
 |-------|---------|
-| [Cir. HP Trip](https://www.amazon.com/s?k=Cir.%20HP%20Trip&tag=errorcodefixe-20) | High pressure trip — discharge pressure exceeded limit |
-| [Cir. LP Trip](https://www.amazon.com/s?k=Cir.%20LP%20Trip&tag=errorcodefixe-20) | Low pressure trip — suction pressure below limit |
-| [Cir. Mtr OL](https://www.amazon.com/s?k=Cir.%20Mtr%20OL&tag=errorcodefixe-20) | Compressor motor overload |
-| [EWT High](https://www.amazon.com/s?k=EWT%20High&tag=errorcodefixe-20) | Entering water temperature too high |
-| [LWT Low](https://www.amazon.com/s?k=LWT%20Low&tag=errorcodefixe-20) | Leaving water temperature too low — freeze protection |
-| [Fan Fault](https://www.amazon.com/s?k=Fan%20Fault&tag=errorcodefixe-20) | Condenser fan motor failure |
-| [Cir. Disch Tmp](https://www.amazon.com/s?k=Cir.%20Disch%20Tmp&tag=errorcodefixe-20) | High discharge temperature |
-| [Control Pwr Fail](https://www.amazon.com/s?k=Control%20Pwr%20Fail&tag=errorcodefixe-20) | Loss of control power (24VAC) |
+| Cir. HP Trip | High pressure trip — discharge pressure exceeded limit |
+| Cir. LP Trip | Low pressure trip — suction pressure below limit |
+| Cir. Mtr OL | Compressor motor overload |
+| EWT High | Entering water temperature too high |
+| LWT Low | Leaving water temperature too low — freeze protection |
+| Fan Fault | Condenser fan motor failure |
+| Cir. Disch Tmp | High discharge temperature |
+| Control Pwr Fail | Loss of control power (24VAC) |
 
 ## Common Causes
 
@@ -52,12 +52,11 @@ The Carrier 30XA is a scroll-compressor air-cooled chiller used in commercial bu
 
 | Part | Notes |
 |------|-------|
-| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | Match voltage, HP, and frame size from motor nameplate |
-| [Condenser fan capacitor](https://www.amazon.com/s?k=Condenser%20fan%20capacitor&tag=errorcodefixe-20) | Test before replacing motor — capacitor is the more common failure |
-| [Refrigerant charge](https://www.amazon.com/s?k=Refrigerant%20charge&tag=errorcodefixe-20) | R-410A on most 30XA models; confirm on data plate |
-| [High/low pressure switches](https://www.amazon.com/s?k=High%2Flow%20pressure%20switches&tag=errorcodefixe-20) | Replace if trips occur at incorrect pressures with confirmed refrigerant charge |
-| [Compressor](https://www.amazon.com/s?k=Compressor&tag=errorcodefixe-20) | Last resort — confirm all other causes before replacing a scroll compressor |
-
+| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Match voltage, HP, and frame size from motor nameplate |
+| Condenser fan capacitor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+capacitor&tag=errorcodefixes-20) \| Test before replacing motor — capacitor is the more common failure |
+| Refrigerant charge | [Amazon](https://www.amazon.com/s?k=Refrigerant+charge&tag=errorcodefixes-20) \| R-410A on most 30XA models; confirm on data plate |
+| High/low pressure switches | [Amazon](https://www.amazon.com/s?k=High%2Flow+pressure+switches&tag=errorcodefixes-20) \| Replace if trips occur at incorrect pressures with confirmed refrigerant charge |
+| Compressor | [Amazon](https://www.amazon.com/s?k=Compressor&tag=errorcodefixes-20) \| Last resort — confirm all other causes before replacing a scroll compressor |
 ## When to Call a Pro
 
 The Carrier 30XA operates with refrigerant circuits at high pressure and involves 460V three-phase electrical systems. Refrigerant work requires EPA 608 certification. Compressor replacements require recovery of the refrigerant charge, oil analysis, and system flush — all requiring specialized equipment and certification. Contact Carrier's commercial service network for warranty and major component work.

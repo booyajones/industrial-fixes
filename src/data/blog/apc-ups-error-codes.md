@@ -1,4 +1,4 @@
-﻿---
+---
 title: "APC UPS Error Codes and Fault Guide - Complete Reference"
 description: "APC UPS error codes and fault indicators for Back-UPS, Smart-UPS, and Symmetra systems: beep patterns, LED codes, and fixes."
 pubDatetime: 2026-04-22T20:00:00Z
@@ -16,10 +16,18 @@ tags:
 
 APC UPS systems from Back-UPS RS/Pro, Smart-UPS, and Symmetra lines communicate faults via LED indicators, beep codes, LCD displays, and via APC PowerChute software or network management cards.
 
-| [Code / Fault](https://www.amazon.com/s?k=Code%20%2F%20Fault&tag=errorcodefixe-20) | System | Meaning | [Quick Fix](https://www.amazon.com/s?k=Quick%20Fix&tag=errorcodefixe-20) |  |-------------|--------|---------|-----------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 4 beeps / On Battery | All | [Utility power lost](https://www.amazon.com/s?k=Utility%20power%20lost&tag=errorcodefixe-20) | Check power source |
-| [Continuous beep](https://www.amazon.com/s?k=Continuous%20beep&tag=errorcodefixe-20) | All | Battery critically low | [Connect load, charge battery](https://www.amazon.com/s?k=Connect%20load%2C%20charge%20battery&tag=errorcodefixe-20) |  | Battery Replace LED | [Smart-UPS](https://www.amazon.com/s?k=Smart-UPS&tag=errorcodefixe-20) | Battery at end of life | Replace battery | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Overload LED (red) | Back-UPS/Smart-UPS | [Load exceeds UPS rating](https://www.amazon.com/s?k=Load%20exceeds%20UPS%20rating&tag=errorcodefixe-20) | Reduce load |
-| [F01](https://www.amazon.com/s?k=F01&tag=errorcodefixe-20) | Symmetra | Battery failure | [Replace battery module](https://www.amazon.com/s?k=Replace%20battery%20module&tag=errorcodefixe-20) |  | F02 | [Symmetra](https://www.amazon.com/s?k=Symmetra&tag=errorcodefixe-20) | Intelligence module fault | Replace I/O module | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | F06 | Symmetra | [Overload on output](https://www.amazon.com/s?k=Overload%20on%20output&tag=errorcodefixe-20) | Reduce connected load |
-| [Site Wiring Fault LED](https://www.amazon.com/s?k=Site%20Wiring%20Fault%20LED&tag=errorcodefixe-20) | Smart-UPS | Building wiring problem | [Check building electrical](https://www.amazon.com/s?k=Check%20building%20electrical&tag=errorcodefixe-20) |  | Replace Battery | [Smart-UPS LCD](https://www.amazon.com/s?k=Smart-UPS%20LCD&tag=errorcodefixe-20) | Battery test failed | Replace battery | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Overcharge | Back-UPS | [Battery overcharge condition](https://www.amazon.com/s?k=Battery%20overcharge%20condition&tag=errorcodefixe-20) | Check charger circuit |
+| Code / Fault | System | Meaning | Quick Fix |
+|-------------|--------|---------|-----------|
+| 4 beeps / On Battery | All | Utility power lost | Check power source |
+| Continuous beep | All | Battery critically low | Connect load, charge battery |
+| Battery Replace LED | Smart-UPS | Battery at end of life | Replace battery |
+| Overload LED (red) | Back-UPS/Smart-UPS | Load exceeds UPS rating | Reduce load |
+| F01 | Symmetra | Battery failure | Replace battery module |
+| F02 | Symmetra | Intelligence module fault | Replace I/O module |
+| F06 | Symmetra | Overload on output | Reduce connected load |
+| Site Wiring Fault LED | Smart-UPS | Building wiring problem | Check building electrical |
+| Replace Battery | Smart-UPS LCD | Battery test failed | Replace battery |
+| Overcharge | Back-UPS | Battery overcharge condition | Check charger circuit |
 
 ## Most Common Faults
 
@@ -41,12 +49,11 @@ Symmetra battery modules include individual cell monitoring. F01 can indicate on
 
 | Part | Notes |
 |------|-------|
-| [Replacement battery (RBC)](https://www.amazon.com/s?k=Replacement%20battery%20(RBC)&tag=errorcodefixe-20) | Size per UPS model - match RBC number |
-| [Symmetra battery module](https://www.amazon.com/s?k=Symmetra%20battery%20module&tag=errorcodefixe-20) | Hot-swappable |
-| [Network management card (NMC)](https://www.amazon.com/s?k=Network%20management%20card%20(NMC)&tag=errorcodefixe-20) | Replace on network fault |
-| [Back-UPS output fuse](https://www.amazon.com/s?k=Back-UPS%20output%20fuse&tag=errorcodefixe-20) | Replace on output overload damage |
-| [Smart-UPS internal fuse](https://www.amazon.com/s?k=Smart-UPS%20internal%20fuse&tag=errorcodefixe-20) | Replace on no-output fault |
-
+| Replacement battery (RBC) | [Amazon](https://www.amazon.com/s?k=Replacement+battery+%28RBC%29&tag=errorcodefixes-20) \| Size per UPS model - match RBC number |
+| Symmetra battery module | [Amazon](https://www.amazon.com/s?k=Symmetra+battery+module&tag=errorcodefixes-20) \| Hot-swappable |
+| Network management card (NMC) | [Amazon](https://www.amazon.com/s?k=Network+management+card+%28NMC%29&tag=errorcodefixes-20) \| Replace on network fault |
+| Back-UPS output fuse | [Amazon](https://www.amazon.com/s?k=Back-UPS+output+fuse&tag=errorcodefixes-20) \| Replace on output overload damage |
+| Smart-UPS internal fuse | [Amazon](https://www.amazon.com/s?k=Smart-UPS+internal+fuse&tag=errorcodefixes-20) \| Replace on no-output fault |
 ## When to Call a Pro
 Symmetra PX and Galaxy-series UPS maintenance, including bypass switching and capacitor replacement, requires APC/Schneider-trained technicians. Do not attempt internal repairs on large UPS systems without proper training.
 

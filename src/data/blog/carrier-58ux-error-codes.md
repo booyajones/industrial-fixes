@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Carrier 58UX Furnace Error Codes — Flash Code Diagnostic Guide"
 description: "Complete guide to Carrier 58UX furnace error codes and flash sequences, covering common faults like pressure switch, ignition, and high-limit failures with step-by-step fixes."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -20,22 +20,22 @@ The Carrier 58UX is an upflow/horizontal single-stage gas furnace in the Perform
 
 ## Carrier 58UX Flash Code Reference
 
-| [Flash Code](https://www.amazon.com/s?k=Flash%20Code&tag=errorcodefixe-20) | Meaning |
+| Flash Code | Meaning |
 |------------|---------|
-| [Steady on](https://www.amazon.com/s?k=Steady%20on&tag=errorcodefixe-20) | Normal — no call for heat |
-| [Steady off](https://www.amazon.com/s?k=Steady%20off&tag=errorcodefixe-20) | No power to control board |
-| [2 flashes](https://www.amazon.com/s?k=2%20flashes&tag=errorcodefixe-20) | System lockout — retry limit exceeded |
-| [3 flashes](https://www.amazon.com/s?k=3%20flashes&tag=errorcodefixe-20) | Pressure switch open |
-| [4 flashes](https://www.amazon.com/s?k=4%20flashes&tag=errorcodefixe-20) | Open high-limit device |
-| [5 flashes](https://www.amazon.com/s?k=5%20flashes&tag=errorcodefixe-20) | Flame sensed with gas valve de-energized |
-| [6 flashes](https://www.amazon.com/s?k=6%20flashes&tag=errorcodefixe-20) | 115V power reversed or control board fault |
-| [7 flashes](https://www.amazon.com/s?k=7%20flashes&tag=errorcodefixe-20) | Low flame signal / dirty flame sensor |
-| [8 flashes](https://www.amazon.com/s?k=8%20flashes&tag=errorcodefixe-20) | Check ignitor circuit |
-| [9 flashes](https://www.amazon.com/s?k=9%20flashes&tag=errorcodefixe-20) | Pressure switch hose connection reversed |
-| [13 flashes](https://www.amazon.com/s?k=13%20flashes&tag=errorcodefixe-20) | Limit switch cycle lockout (repeated trips) |
-| [14 flashes](https://www.amazon.com/s?k=14%20flashes&tag=errorcodefixe-20) | Ignition lockout (failed to prove flame 3 times) |
-| [33 flashes](https://www.amazon.com/s?k=33%20flashes&tag=errorcodefixe-20) | Pressure switch opens during heat cycle |
-| [34 flashes](https://www.amazon.com/s?k=34%20flashes&tag=errorcodefixe-20) | Ignition proving failed — intermittent flame |
+| Steady on | Normal — no call for heat |
+| Steady off | No power to control board |
+| 2 flashes | System lockout — retry limit exceeded |
+| 3 flashes | Pressure switch open |
+| 4 flashes | Open high-limit device |
+| 5 flashes | Flame sensed with gas valve de-energized |
+| 6 flashes | 115V power reversed or control board fault |
+| 7 flashes | Low flame signal / dirty flame sensor |
+| 8 flashes | Check ignitor circuit |
+| 9 flashes | Pressure switch hose connection reversed |
+| 13 flashes | Limit switch cycle lockout (repeated trips) |
+| 14 flashes | Ignition lockout (failed to prove flame 3 times) |
+| 33 flashes | Pressure switch opens during heat cycle |
+| 34 flashes | Ignition proving failed — intermittent flame |
 
 ## Common Causes by Code
 
@@ -58,13 +58,12 @@ The Carrier 58UX is an upflow/horizontal single-stage gas furnace in the Perform
 
 | Part | Notes |
 |------|-------|
-| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | Most common; clean first, replace if cracked |
-| [Hot surface ignitor](https://www.amazon.com/s?k=Hot%20surface%20ignitor&tag=errorcodefixe-20) | 120V silicon nitride type for 58UX |
-| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Confirm correct water column rating (typically 0.85" or 1.2") |
-| [Inducer motor](https://www.amazon.com/s?k=Inducer%20motor&tag=errorcodefixe-20) | If inducer is weak or noisy, pressure switch faults follow |
-| [High-limit switch](https://www.amazon.com/s?k=High-limit%20switch&tag=errorcodefixe-20) | Auto-reset type; check continuity before replacing |
-| [Rollout switch](https://www.amazon.com/s?k=Rollout%20switch&tag=errorcodefixe-20) | Manual reset; investigate cause before resetting |
-
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Most common; clean first, replace if cracked |
+| Hot surface ignitor | [Amazon](https://www.amazon.com/s?k=Hot+surface+ignitor&tag=errorcodefixes-20) \| 120V silicon nitride type for 58UX |
+| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Confirm correct water column rating (typically 0.85" or 1.2") |
+| Inducer motor | [Amazon](https://www.amazon.com/s?k=Inducer+motor&tag=errorcodefixes-20) \| If inducer is weak or noisy, pressure switch faults follow |
+| High-limit switch | [Amazon](https://www.amazon.com/s?k=High-limit+switch&tag=errorcodefixes-20) \| Auto-reset type; check continuity before replacing |
+| Rollout switch | [Amazon](https://www.amazon.com/s?k=Rollout+switch&tag=errorcodefixes-20) \| Manual reset; investigate cause before resetting |
 ## When to Call a Pro
 
 A cracked heat exchanger can cause rollout switch trips and carbon monoxide hazards. If you see repeated rollout trips, persistent combustion odors, or visible cracks in the heat exchanger panels, do not operate the furnace — call a licensed HVAC technician immediately. Gas valve and refrigerant-side diagnostics also require professional tools and certification.

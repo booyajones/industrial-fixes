@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Hoshizaki KM-330 Error Codes — Fix Guide"
 description: "Hoshizaki KM-330 ice machine error codes: what each means and how to fix it."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -15,10 +15,15 @@ tags:
 
 The Hoshizaki KM-330 produces approximately 330 lbs of crescent ice per day and is commonly installed in restaurants and small hotel operations. It uses the same error code system as all Hoshizaki KM-series machines.
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning | Urgency | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |---------|---------|
-| E1 | [Ice making cycle too long](https://www.amazon.com/s?k=Ice%20making%20cycle%20too%20long&tag=errorcodefixe-20) | Medium |
-| [E2](https://www.amazon.com/s?k=E2&tag=errorcodefixe-20) | Harvest cycle too long | High | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E3 | Harvest assist fault | [High](https://www.amazon.com/s?k=High&tag=errorcodefixe-20) |  | E5 | [High evaporator temperature](https://www.amazon.com/s?k=High%20evaporator%20temperature&tag=errorcodefixe-20) | Medium |
-| [E9](https://www.amazon.com/s?k=E9&tag=errorcodefixe-20) | Compressor/refrigeration fault | High | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | F1 | Drain pump fault | [Medium](https://www.amazon.com/s?k=Medium&tag=errorcodefixe-20) |  | F2 | [Ice full sensor fault](https://www.amazon.com/s?k=Ice%20full%20sensor%20fault&tag=errorcodefixe-20) | Low |
+| Code | Meaning | Urgency |
+|------|---------|---------|
+| E1 | Ice making cycle too long | Medium |
+| E2 | Harvest cycle too long | High |
+| E3 | Harvest assist fault | High |
+| E5 | High evaporator temperature | Medium |
+| E9 | Compressor/refrigeration fault | High |
+| F1 | Drain pump fault | Medium |
+| F2 | Ice full sensor fault | Low |
 
 [Jump to Fix](#fix)
 
@@ -36,10 +41,9 @@ The Hoshizaki KM-330 produces approximately 330 lbs of crescent ice per day and 
 
 | Part | Notes |
 |------|-------|
-| [Hot gas bypass valve](https://www.amazon.com/s?k=Hot%20gas%20bypass%20valve&tag=errorcodefixe-20) | Most common E2 fix |
-| [Hoshizaki Scale Away cleaner](https://www.amazon.com/s?k=Hoshizaki%20Scale%20Away%20cleaner&tag=errorcodefixe-20) | Descale quarterly |
-| [Ice full sensor](https://www.amazon.com/s?k=Ice%20full%20sensor&tag=errorcodefixe-20) | For F2 if sensor fails |
-
+| Hot gas bypass valve | [Amazon](https://www.amazon.com/s?k=Hot+gas+bypass+valve&tag=errorcodefixes-20) \| Most common E2 fix |
+| Hoshizaki Scale Away cleaner | [Amazon](https://www.amazon.com/s?k=Hoshizaki+Scale+Away+cleaner&tag=errorcodefixes-20) \| Descale quarterly |
+| Ice full sensor | [Amazon](https://www.amazon.com/s?k=Ice+full+sensor&tag=errorcodefixes-20) \| For F2 if sensor fails |
 ## When to Call a Pro
 
 E9 refrigerant-side faults require EPA 608 certified technician.

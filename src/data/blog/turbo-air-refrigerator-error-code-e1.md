@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Turbo Air Refrigerator Error Code E1 — Causes & Fix"
 description: "What Turbo Air E1 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -36,10 +36,9 @@ The E1 error on Turbo Air commercial refrigerators indicates a temperature senso
 
 | Part | Notes |
 |------|-------|
-| [NTC temperature sensor](https://www.amazon.com/s?k=NTC%20temperature%20sensor&tag=errorcodefixe-20) | Match to model — Turbo Air uses several sensor variants |
-| [Sensor wiring harness](https://www.amazon.com/s?k=Sensor%20wiring%20harness&tag=errorcodefixe-20) | Replace if lead is damaged |
-| [Electrical contact cleaner](https://www.amazon.com/s?k=Electrical%20contact%20cleaner&tag=errorcodefixe-20) | For connector pin corrosion |
-
+| NTC temperature sensor | [Amazon](https://www.amazon.com/s?k=NTC+temperature+sensor&tag=errorcodefixes-20) \| Match to model — Turbo Air uses several sensor variants |
+| Sensor wiring harness | [Amazon](https://www.amazon.com/s?k=Sensor+wiring+harness&tag=errorcodefixes-20) \| Replace if lead is damaged |
+| Electrical contact cleaner | [Amazon](https://www.amazon.com/s?k=Electrical+contact+cleaner&tag=errorcodefixes-20) \| For connector pin corrosion |
 ## When to Call a Pro
 
 If sensor and wiring both test good and E1 persists, the controller board needs bench testing or replacement — a refrigeration tech can confirm and replace.

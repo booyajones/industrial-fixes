@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Burnham Boiler E4 Error Code — Flame Loss During Operation"
 description: "Burnham boiler E4 error means the flame went out during operation. Learn the common causes — gas pressure, flame sensor, and draft — and how to fix it."
 pubDatetime: 2026-04-22T18:00:00Z
@@ -22,15 +22,15 @@ E4 appears on Burnham Alpine (ALP), K2, K2-Fibre, and Revolution series boilers.
 
 ## Why Flame Goes Out Mid-Operation
 
-| [Cause](https://www.amazon.com/s?k=Cause&tag=errorcodefixe-20) | Details |
+| Cause | Details |
 |---|---|
-| [Low gas pressure](https://www.amazon.com/s?k=Low%20gas%20pressure&tag=errorcodefixe-20) | Pressure drops when other appliances draw gas simultaneously |
-| [Dirty flame sensor](https://www.amazon.com/s?k=Dirty%20flame%20sensor&tag=errorcodefixe-20) | Flame signal becomes too weak to sustain proven status |
-| [Draft fluctuations](https://www.amazon.com/s?k=Draft%20fluctuations&tag=errorcodefixe-20) | Wind, pressure changes cause draft to momentarily drop |
-| [Gas valve flutter](https://www.amazon.com/s?k=Gas%20valve%20flutter&tag=errorcodefixe-20) | Valve partially closing due to coil degradation |
-| [Air in gas line](https://www.amazon.com/s?k=Air%20in%20gas%20line&tag=errorcodefixe-20) | Especially after gas service interruption |
-| [Blocked condensate](https://www.amazon.com/s?k=Blocked%20condensate&tag=errorcodefixe-20) | Builds up during operation, eventually stalls draft |
-| [Inducer motor degrading](https://www.amazon.com/s?k=Inducer%20motor%20degrading&tag=errorcodefixe-20) | Motor speed drops under thermal load |
+| Low gas pressure | Pressure drops when other appliances draw gas simultaneously |
+| Dirty flame sensor | Flame signal becomes too weak to sustain proven status |
+| Draft fluctuations | Wind, pressure changes cause draft to momentarily drop |
+| Gas valve flutter | Valve partially closing due to coil degradation |
+| Air in gas line | Especially after gas service interruption |
+| Blocked condensate | Builds up during operation, eventually stalls draft |
+| Inducer motor degrading | Motor speed drops under thermal load |
 
 ## Why E4 Is Tricky
 
@@ -58,11 +58,11 @@ Clean the flame sensor rod with fine steel wool if below 2 µA. This is the most
 
 | Part | Cost |
 |---|---|
-| [Flame sensor rod](https://www.amazon.com/s?k=Flame%20sensor%20rod&tag=errorcodefixe-20) | $15–35 |
-| [Gas valve (Alpine)](https://www.amazon.com/s?k=Gas%20valve%20(Alpine)&tag=errorcodefixe-20) | $200–400 |
-| [Inducer motor](https://www.amazon.com/s?k=Inducer%20motor&tag=errorcodefixe-20) | $150–350 |
-| [Condensate trap](https://www.amazon.com/s?k=Condensate%20trap&tag=errorcodefixe-20) | $15–30 |
-| [Flue wind cap](https://www.amazon.com/s?k=Flue%20wind%20cap&tag=errorcodefixe-20) | $20–60 |
+| Flame sensor rod | $15–35 |
+| Gas valve (Alpine) | $200–400 |
+| Inducer motor | $150–350 |
+| Condensate trap | $15–30 |
+| Flue wind cap | $20–60 |
 
 ## Resetting E4
 
@@ -70,11 +70,11 @@ Press and hold the Reset button on the boiler control panel for 3 seconds. The b
 
 ## Related Burnham Error Codes
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning |
+| Code | Meaning |
 |---|---|
-| [E1](https://www.amazon.com/s?k=E1&tag=errorcodefixe-20) | Hard ignition lockout |
-| [E2](https://www.amazon.com/s?k=E2&tag=errorcodefixe-20) | Failed ignition attempt |
-| [E3](https://www.amazon.com/s?k=E3&tag=errorcodefixe-20) | High limit tripped |
-| [E4](https://www.amazon.com/s?k=E4&tag=errorcodefixe-20) | Flame loss during operation (this post) |
-| [E5](https://www.amazon.com/s?k=E5&tag=errorcodefixe-20) | Low water cutoff |
-| [E6](https://www.amazon.com/s?k=E6&tag=errorcodefixe-20) | Blocked flue fault |
+| E1 | Hard ignition lockout |
+| E2 | Failed ignition attempt |
+| E3 | High limit tripped |
+| E4 | Flame loss during operation (this post) |
+| E5 | Low water cutoff |
+| E6 | Blocked flue fault |

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "LG Mini-Split CH67 Error Code — Causes & Fix"
 description: "What LG mini-split CH67 error code means, why the outdoor fan motor faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -37,10 +37,9 @@ The LG CH67 error code indicates an **outdoor fan motor fault** — the outdoor 
 
 | Part | Notes |
 |------|-------|
-| [Outdoor BLDC fan motor](https://www.amazon.com/s?k=Outdoor%20BLDC%20fan%20motor&tag=errorcodefixe-20) | LG-specific; match model and part number — wrong motor will re-fault |
-| [Fan blade](https://www.amazon.com/s?k=Fan%20blade&tag=errorcodefixe-20) | Replace if cracked or visibly damaged |
-| [Outdoor PCB](https://www.amazon.com/s?k=Outdoor%20PCB&tag=errorcodefixe-20) | If board's fan driver is confirmed failed |
-
+| Outdoor BLDC fan motor | [Amazon](https://www.amazon.com/s?k=Outdoor+BLDC+fan+motor&tag=errorcodefixes-20) \| LG-specific; match model and part number — wrong motor will re-fault |
+| Fan blade | [Amazon](https://www.amazon.com/s?k=Fan+blade&tag=errorcodefixes-20) \| Replace if cracked or visibly damaged |
+| Outdoor PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB&tag=errorcodefixes-20) \| If board's fan driver is confirmed failed |
 ## When to Call a Pro
 
 If the fan motor and blade are confirmed good but CH67 persists, the outdoor PCB requires replacement. LG outdoor PCBs on inverter systems are matched to the compressor and fan control parameters — incorrect substitution can damage the compressor. Use an LG-authorized dealer for parts and programming.

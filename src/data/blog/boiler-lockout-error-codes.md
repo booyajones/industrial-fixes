@@ -54,13 +54,12 @@ One reset after a clear correction is fine. Five resets in a row without diagnos
 
 | Item | Notes |
 |------|-------|
-| Flame sensor | Cheap and common failure item |
-| Igniter | Common on repeated ignition lockouts |
-| Expansion tank | Pressure-related complaints |
-| Circulator pump | Overtemp and low-flow issues |
-| Condensate trap | Common on condensing boilers |
-| Manometer | Needed for proper gas pressure diagnosis |
-
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Cheap and common failure item |
+| Igniter | [Amazon](https://www.amazon.com/s?k=Igniter&tag=errorcodefixes-20) \| Common on repeated ignition lockouts |
+| Expansion tank | [Amazon](https://www.amazon.com/s?k=Expansion+tank&tag=errorcodefixes-20) \| Pressure-related complaints |
+| Circulator pump | [Amazon](https://www.amazon.com/s?k=Circulator+pump&tag=errorcodefixes-20) \| Overtemp and low-flow issues |
+| Condensate trap | [Amazon](https://www.amazon.com/s?k=Condensate+trap&tag=errorcodefixes-20) \| Common on condensing boilers |
+| Manometer | [Amazon](https://www.amazon.com/s?k=Manometer&tag=errorcodefixes-20) \| Needed for proper gas pressure diagnosis |
 ## When to Call a Pro
 
 Repeated boiler lockouts, especially around gas, flame, venting, or overtemperature, are not DIY territory for most people. Boilers combine combustion, water pressure, and temperature safety in a small box, and that deserves respect.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Trane 4TCC4 Mini Split Error Codes — Causes & Fix"
 description: "Trane 4TCC4 mini split error codes explained — what each code means, why it happens, and how to fix it."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -41,11 +41,10 @@ The Trane 4TCC4 series is Trane's single-zone ductless mini-split indoor unit, t
 
 | Part | Notes |
 |------|-------|
-| [Indoor ambient thermistor](https://www.amazon.com/s?k=Indoor%20ambient%20thermistor&tag=errorcodefixe-20) | Trane 4TCC4 OEM; verify resistance curve |
-| [Indoor coil thermistor](https://www.amazon.com/s?k=Indoor%20coil%20thermistor&tag=errorcodefixe-20) | Often sold as a kit with the ambient sensor |
-| [Outdoor fan motor](https://www.amazon.com/s?k=Outdoor%20fan%20motor&tag=errorcodefixe-20) | Match nameplate HP, RPM, and shaft size |
-| [Communication wire](https://www.amazon.com/s?k=Communication%20wire&tag=errorcodefixe-20) | 18 AWG, length to match installation |
-
+| Indoor ambient thermistor | [Amazon](https://www.amazon.com/s?k=Indoor+ambient+thermistor&tag=errorcodefixes-20) \| Trane 4TCC4 OEM; verify resistance curve |
+| Indoor coil thermistor | [Amazon](https://www.amazon.com/s?k=Indoor+coil+thermistor&tag=errorcodefixes-20) \| Often sold as a kit with the ambient sensor |
+| Outdoor fan motor | [Amazon](https://www.amazon.com/s?k=Outdoor+fan+motor&tag=errorcodefixes-20) \| Match nameplate HP, RPM, and shaft size |
+| Communication wire | [Amazon](https://www.amazon.com/s?k=Communication+wire&tag=errorcodefixes-20) \| 18 AWG, length to match installation |
 ## When to Call a Pro
 
 P0 refrigerant codes require gauge sets and EPA 608 certification. H6 and P5 motor replacements are straightforward but require a comfort with ductless system wiring — call a Trane-authorized technician if unsure.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Miller Deltaweld Fault Codes — Fix Guide"
 description: "Miller Deltaweld MIG welder fault codes: what each code means and how to fix it."
 pubDatetime: 2026-04-22T16:00:00Z
@@ -15,13 +15,13 @@ tags:
 
 Miller Deltaweld MIG welders (302, 402, 452, 652) are heavy-duty production welders used in fabrication shops and manufacturing. They use a fault code system displayed on the front panel LED to identify problems. This guide covers the most common Deltaweld fault codes.
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning |
+| Code | Meaning |
 |------|---------|
-| [H1](https://www.amazon.com/s?k=H1&tag=errorcodefixe-20) | Thermal overload (overheat) |
-| [H3](https://www.amazon.com/s?k=H3&tag=errorcodefixe-20) | Input voltage out of range |
-| [A1](https://www.amazon.com/s?k=A1&tag=errorcodefixe-20) | Output overcurrent |
-| [E1](https://www.amazon.com/s?k=E1&tag=errorcodefixe-20) | Input voltage fault |
-| [F1](https://www.amazon.com/s?k=F1&tag=errorcodefixe-20) | Wire feed motor fault |
+| H1 | Thermal overload (overheat) |
+| H3 | Input voltage out of range |
+| A1 | Output overcurrent |
+| E1 | Input voltage fault |
+| F1 | Wire feed motor fault |
 
 [Jump to Fix](#fix)
 
@@ -43,11 +43,10 @@ Wire feeder motor failure or obstruction. Check the wire path for kinks, bird-ne
 
 | Part | Notes |
 |------|-------|
-| [MIG gun / cable](https://www.amazon.com/s?k=MIG%20gun%20%2F%20cable&tag=errorcodefixe-20) | For A1 if internal fault found |
-| [Wire drive rolls](https://www.amazon.com/s?k=Wire%20drive%20rolls&tag=errorcodefixe-20) | Replace if worn and slipping |
-| [Wire feeder motor](https://www.amazon.com/s?k=Wire%20feeder%20motor&tag=errorcodefixe-20) | For F1 if motor failed |
-| [Cooling fan assembly](https://www.amazon.com/s?k=Cooling%20fan%20assembly&tag=errorcodefixe-20) | For recurring H1 from failed fan |
-
+| MIG gun / cable | [Amazon](https://www.amazon.com/s?k=MIG+gun+%2F+cable&tag=errorcodefixes-20) \| For A1 if internal fault found |
+| Wire drive rolls | [Amazon](https://www.amazon.com/s?k=Wire+drive+rolls&tag=errorcodefixes-20) \| Replace if worn and slipping |
+| Wire feeder motor | [Amazon](https://www.amazon.com/s?k=Wire+feeder+motor&tag=errorcodefixes-20) \| For F1 if motor failed |
+| Cooling fan assembly | [Amazon](https://www.amazon.com/s?k=Cooling+fan+assembly&tag=errorcodefixes-20) \| For recurring H1 from failed fan |
 ## When to Call a Pro
 
 Deltaweld internal component replacement (IGBT modules, control boards) requires Miller authorized service.

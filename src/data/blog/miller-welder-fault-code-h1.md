@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Miller Welder H1 Fault Code — Causes & Fix"
 description: "What Miller Welder H1 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,10 +36,9 @@ The H1 fault on Miller welders (Dynasty TIG, Maxstar, Multimatic, and Millermati
 
 | Part | Notes |
 |------|-------|
-| [Cooling fan assembly](https://www.amazon.com/s?k=Cooling%20fan%20assembly&tag=errorcodefixe-20) | Match to exact welder model — Miller uses several fan configs |
-| [Thermistor / thermal switch](https://www.amazon.com/s?k=Thermistor%20%2F%20thermal%20switch&tag=errorcodefixe-20) | If H1 trips immediately when cool — sensor may be shorted |
-| [Vent cleaning brush + compressed air](https://www.amazon.com/s?k=Vent%20cleaning%20brush%20%2B%20compressed%20air&tag=errorcodefixe-20) | Preventive maintenance; clean every 3–6 months in shop environments |
-
+| Cooling fan assembly | [Amazon](https://www.amazon.com/s?k=Cooling+fan+assembly&tag=errorcodefixes-20) \| Match to exact welder model — Miller uses several fan configs |
+| Thermistor / thermal switch | [Amazon](https://www.amazon.com/s?k=Thermistor+%2F+thermal+switch&tag=errorcodefixes-20) \| If H1 trips immediately when cool — sensor may be shorted |
+| Vent cleaning brush + compressed air | [Amazon](https://www.amazon.com/s?k=Vent+cleaning+brush+%2B+compressed+air&tag=errorcodefixes-20) \| Preventive maintenance; clean every 3–6 months in shop environments |
 ## When to Call a Pro
 
 If H1 activates immediately after cooldown or after just a few seconds of output, the thermistor or IGBT module may have failed internally. Miller authorized service is needed for power module diagnostics and replacement.

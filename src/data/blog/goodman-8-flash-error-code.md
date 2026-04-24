@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Goodman 8 Flash Error Code — Causes & Fix"
 description: "What Goodman 8 flash means, why ignition fails, and how to diagnose and fix it step by step."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,11 +36,10 @@ Eight flashes on a Goodman furnace diagnostic LED indicates an ignition failure 
 
 | Part | Notes |
 |------|-------|
-| [Hot surface ignitor](https://www.amazon.com/s?k=Hot%20surface%20ignitor&tag=errorcodefixe-20) | Most common fix; verify correct model (120V or 80V HSI) |
-| [Flame sensor rod](https://www.amazon.com/s?k=Flame%20sensor%20rod&tag=errorcodefixe-20) | Clean first; replace if cleaning does not help |
-| [Inducer motor capacitor](https://www.amazon.com/s?k=Inducer%20motor%20capacitor&tag=errorcodefixe-20) | Test before replacing the full motor |
-| [Gas valve](https://www.amazon.com/s?k=Gas%20valve&tag=errorcodefixe-20) | Replace if voltage is present at coil but valve does not open |
-
+| Hot surface ignitor | [Amazon](https://www.amazon.com/s?k=Hot+surface+ignitor&tag=errorcodefixes-20) \| Most common fix; verify correct model (120V or 80V HSI) |
+| Flame sensor rod | [Amazon](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20) \| Clean first; replace if cleaning does not help |
+| Inducer motor capacitor | [Amazon](https://www.amazon.com/s?k=Inducer+motor+capacitor&tag=errorcodefixes-20) \| Test before replacing the full motor |
+| Gas valve | [Amazon](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) \| Replace if voltage is present at coil but valve does not open |
 ## When to Call a Pro
 
 If gas supply is confirmed but the valve is not opening and you are not familiar with 24VAC control circuits, have a licensed HVAC technician diagnose the gas valve and control board. Do not bypass safety controls to force ignition.

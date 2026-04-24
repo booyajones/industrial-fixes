@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Burnham Boiler E5 Error Code — Causes & Fix"
 description: "What Burnham boiler error code E5 means, why a sensor fault occurs, and how to diagnose and fix the temperature sensor."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -38,11 +38,10 @@ E5 on a Burnham boiler indicates a sensor fault. Depending on the specific Burnh
 
 | Part | Notes |
 |------|-------|
-| [Supply water temperature sensor (NTC)](https://www.amazon.com/s?k=Supply%20water%20temperature%20sensor%20(NTC)&tag=errorcodefixe-20) | Match to Burnham control model; immersion type most common |
-| [Outdoor reset sensor](https://www.amazon.com/s?k=Outdoor%20reset%20sensor&tag=errorcodefixe-20) | Only if fault references outdoor sensor input |
-| [Sensor wiring harness](https://www.amazon.com/s?k=Sensor%20wiring%20harness&tag=errorcodefixe-20) | Replace if insulation is damaged near heat source |
-| [Boiler control board](https://www.amazon.com/s?k=Boiler%20control%20board&tag=errorcodefixe-20) | Replace only if sensors test good and fault persists |
-
+| Supply water temperature sensor (NTC) | [Amazon](https://www.amazon.com/s?k=Supply+water+temperature+sensor+%28NTC%29&tag=errorcodefixes-20) \| Match to Burnham control model; immersion type most common |
+| Outdoor reset sensor | [Amazon](https://www.amazon.com/s?k=Outdoor+reset+sensor&tag=errorcodefixes-20) \| Only if fault references outdoor sensor input |
+| Sensor wiring harness | [Amazon](https://www.amazon.com/s?k=Sensor+wiring+harness&tag=errorcodefixes-20) \| Replace if insulation is damaged near heat source |
+| Boiler control board | [Amazon](https://www.amazon.com/s?k=Boiler+control+board&tag=errorcodefixes-20) \| Replace only if sensors test good and fault persists |
 ## When to Call a Pro
 
 If the replacement sensor does not clear E5 and the wiring is confirmed intact, the control board likely has a failed input. A Burnham-authorized service technician can perform a full board-level diagnostic and confirm correct replacement parts.

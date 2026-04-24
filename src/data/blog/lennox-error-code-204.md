@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lennox 204 Error Code — Causes & Fix"
 description: "What Lennox 204 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,10 +36,9 @@ Lennox error code 204 means ignition failure — the furnace attempted to light 
 
 | Part | Notes |
 |------|-------|
-| [Hot surface igniter](https://www.amazon.com/s?k=Hot%20surface%20igniter&tag=errorcodefixe-20) | Lennox uses OEM part 62W21; verify for your model |
-| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | Universal fit for most Lennox units; $12–18 |
-| [Gas valve (24V)](https://www.amazon.com/s?k=Gas%20valve%20(24V)&tag=errorcodefixe-20) | Replace only after confirming voltage is present at valve terminals during trial |
-
+| Hot surface igniter | [Amazon](https://www.amazon.com/s?k=Hot+surface+igniter&tag=errorcodefixes-20) \| Lennox uses OEM part 62W21; verify for your model |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Universal fit for most Lennox units; $12–18 |
+| Gas valve (24V) | [Amazon](https://www.amazon.com/s?k=Gas+valve+%2824V%29&tag=errorcodefixes-20) \| Replace only after confirming voltage is present at valve terminals during trial |
 ## When to Call a Pro
 
 If igniter and flame sensor check out and gas is confirmed at the valve, the issue is likely gas valve internal failure or a combustion problem that needs a combustion analyzer. These require a licensed tech.

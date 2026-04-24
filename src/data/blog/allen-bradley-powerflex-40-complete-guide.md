@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Allen-Bradley PowerFlex 40 Complete Fault Code Guide"
 description: "Complete fault code guide for the Allen-Bradley PowerFlex 40 VFD, including common F-code trips, causes, and practical troubleshooting steps."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -20,20 +20,20 @@ The Allen-Bradley PowerFlex 40 is a compact VFD used on small conveyors, fans, p
 
 ## PowerFlex 40 Common Fault Codes
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning |
+| Code | Meaning |
 |------|---------|
-| [F2](https://www.amazon.com/s?k=F2&tag=errorcodefixe-20) | Auxiliary input fault |
-| [F3](https://www.amazon.com/s?k=F3&tag=errorcodefixe-20) | Power loss / undervoltage |
-| [F4](https://www.amazon.com/s?k=F4&tag=errorcodefixe-20) | UnderVoltage |
-| [F5](https://www.amazon.com/s?k=F5&tag=errorcodefixe-20) | OverVoltage |
-| [F7](https://www.amazon.com/s?k=F7&tag=errorcodefixe-20) | Motor overload |
-| [F12](https://www.amazon.com/s?k=F12&tag=errorcodefixe-20) | HW overcurrent |
-| [F13](https://www.amazon.com/s?k=F13&tag=errorcodefixe-20) | Ground fault |
-| [F29](https://www.amazon.com/s?k=F29&tag=errorcodefixe-20) | Analog input loss |
-| [F33](https://www.amazon.com/s?k=F33&tag=errorcodefixe-20) | Auto restart tries exhausted |
-| [F38](https://www.amazon.com/s?k=F38&tag=errorcodefixe-20) | Phase U to ground fault |
-| [F41](https://www.amazon.com/s?k=F41&tag=errorcodefixe-20) | Phase V to ground fault |
-| [F42](https://www.amazon.com/s?k=F42&tag=errorcodefixe-20) | Phase W to ground fault |
+| F2 | Auxiliary input fault |
+| F3 | Power loss / undervoltage |
+| F4 | UnderVoltage |
+| F5 | OverVoltage |
+| F7 | Motor overload |
+| F12 | HW overcurrent |
+| F13 | Ground fault |
+| F29 | Analog input loss |
+| F33 | Auto restart tries exhausted |
+| F38 | Phase U to ground fault |
+| F41 | Phase V to ground fault |
+| F42 | Phase W to ground fault |
 
 ## Common Causes by Code
 
@@ -57,13 +57,12 @@ The Allen-Bradley PowerFlex 40 is a compact VFD used on small conveyors, fans, p
 
 | Part | Notes |
 |------|-------|
-| [Input fuses](https://www.amazon.com/s?k=Input%20fuses&tag=errorcodefixe-20) | Start here for voltage-related trips |
-| [Motor overload relay data](https://www.amazon.com/s?k=Motor%20overload%20relay%20data&tag=errorcodefixe-20) | Parameter review is often more important than replacement |
-| [Output cable](https://www.amazon.com/s?k=Output%20cable&tag=errorcodefixe-20) | Replace if insulation is compromised |
-| [Cooling fan](https://www.amazon.com/s?k=Cooling%20fan&tag=errorcodefixe-20) | Older drives overheat when airflow drops |
-| [Terminal block hardware](https://www.amazon.com/s?k=Terminal%20block%20hardware&tag=errorcodefixe-20) | Loose power terminals create intermittent faults |
-| [Drive](https://www.amazon.com/s?k=Drive&tag=errorcodefixe-20) | For repeated hardware faults after motor and cable checks pass |
-
+| Input fuses | [Amazon](https://www.amazon.com/s?k=Input+fuses&tag=errorcodefixes-20) \| Start here for voltage-related trips |
+| Motor overload relay data | [Amazon](https://www.amazon.com/s?k=Motor+overload+relay+data&tag=errorcodefixes-20) \| Parameter review is often more important than replacement |
+| Output cable | [Amazon](https://www.amazon.com/s?k=Output+cable&tag=errorcodefixes-20) \| Replace if insulation is compromised |
+| Cooling fan | [Amazon](https://www.amazon.com/s?k=Cooling+fan&tag=errorcodefixes-20) \| Older drives overheat when airflow drops |
+| Terminal block hardware | [Amazon](https://www.amazon.com/s?k=Terminal+block+hardware&tag=errorcodefixes-20) \| Loose power terminals create intermittent faults |
+| Drive | [Amazon](https://www.amazon.com/s?k=Drive&tag=errorcodefixes-20) \| For repeated hardware faults after motor and cable checks pass |
 ## When to Call a Pro
 
 Repeated hardware overcurrent or ground faults after the motor and cable test clean usually mean the PowerFlex 40 output section is damaged. For OEM machines, always save the parameter set before replacing the drive so the machine can be restored quickly.

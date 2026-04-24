@@ -1,4 +1,4 @@
-﻿---
+---
 title: "American Standard Furnace 3 Flash Error Code — Causes & Fix"
 description: "What 3 flashes on an American Standard furnace means, why the pressure switch faults, and how to diagnose and fix it."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -38,11 +38,10 @@ Three LED flashes on an American Standard furnace indicates a pressure switch fa
 
 | Part | Notes |
 |------|-------|
-| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Match to furnace model; verify opening/closing pressure setpoint |
-| [Pressure switch hose](https://www.amazon.com/s?k=Pressure%20switch%20hose&tag=errorcodefixe-20) | Replace cracked or collapsed hose; typically 5/16" ID rubber tubing |
-| [Condensate drain trap](https://www.amazon.com/s?k=Condensate%20drain%20trap&tag=errorcodefixe-20) | Replace if cracked or clogged beyond cleaning |
-| [Draft inducer motor assembly](https://www.amazon.com/s?k=Draft%20inducer%20motor%20assembly&tag=errorcodefixe-20) | Replace if motor bearings are failing or wheel is corroded |
-
+| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Match to furnace model; verify opening/closing pressure setpoint |
+| Pressure switch hose | [Amazon](https://www.amazon.com/s?k=Pressure+switch+hose&tag=errorcodefixes-20) \| Replace cracked or collapsed hose; typically 5/16" ID rubber tubing |
+| Condensate drain trap | [Amazon](https://www.amazon.com/s?k=Condensate+drain+trap&tag=errorcodefixes-20) \| Replace if cracked or clogged beyond cleaning |
+| Draft inducer motor assembly | [Amazon](https://www.amazon.com/s?k=Draft+inducer+motor+assembly&tag=errorcodefixes-20) \| Replace if motor bearings are failing or wheel is corroded |
 ## When to Call a Pro
 
 If the inducer is producing correct pressure but the fault persists, or if you suspect a cracked heat exchanger is allowing flue gases to affect inducer suction, call a certified HVAC technician. A cracked heat exchanger is a carbon monoxide risk that requires professional diagnosis.

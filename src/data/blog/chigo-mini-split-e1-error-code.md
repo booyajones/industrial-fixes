@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chigo Mini Split E1 Error Code — Communication Error Fix"
 description: "What the Chigo mini split E1 error code means, why the communication fault triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -38,10 +38,9 @@ Chigo mini split systems display E1 when the indoor unit loses communication wit
 
 | Part | Notes |
 |------|-------|
-| [Outdoor unit control PCB](https://www.amazon.com/s?k=Outdoor%20unit%20control%20PCB&tag=errorcodefixe-20) | Primary hardware failure point for persistent E1 |
-| [3-conductor 18 AWG cable](https://www.amazon.com/s?k=3-conductor%2018%20AWG%20cable&tag=errorcodefixe-20) | To replace damaged communication wiring |
-| [Indoor unit control PCB](https://www.amazon.com/s?k=Indoor%20unit%20control%20PCB&tag=errorcodefixe-20) | Secondary suspect if outdoor board swap doesn't resolve E1 |
-
+| Outdoor unit control PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+unit+control+PCB&tag=errorcodefixes-20) \| Primary hardware failure point for persistent E1 |
+| 3-conductor 18 AWG cable | [Amazon](https://www.amazon.com/s?k=3-conductor+18+AWG+cable&tag=errorcodefixes-20) \| To replace damaged communication wiring |
+| Indoor unit control PCB | [Amazon](https://www.amazon.com/s?k=Indoor+unit+control+PCB&tag=errorcodefixes-20) \| Secondary suspect if outdoor board swap doesn't resolve E1 |
 ## When to Call a Pro
 
 Chigo parts can be difficult to source locally. If the outdoor board needs replacement and you're having trouble finding the correct part, an HVAC technician with OEM sourcing relationships can often locate it faster. The board swap itself is straightforward for someone comfortable with low-voltage HVAC wiring.

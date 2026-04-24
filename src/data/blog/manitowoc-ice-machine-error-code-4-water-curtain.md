@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Manitowoc Ice Machine Error Code 4 — Water Curtain Fault Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-15T08:00:00Z
@@ -50,9 +50,12 @@ Code 4 is one of the most searched Manitowoc faults in commercial kitchens becau
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Part Number | Typical Cost | [Where to Buy](https://www.amazon.com/s?k=Where%20to%20Buy&tag=errorcodefixe-20) |  |------|------------|-------------|-------------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Manitowoc Curtain Sensor | 000005444 | [$60–$75](https://www.amazon.com/s?k=%2460%E2%80%93%2475&tag=errorcodefixe-20) | Repair Clinic / Parts Town |
-| [Water Inlet Valve](https://www.amazon.com/s?k=Water%20Inlet%20Valve&tag=errorcodefixe-20) | 000004756 | $80–$95 | [Repair Clinic / Parts Town](https://www.amazon.com/s?k=Repair%20Clinic%20%2F%20Parts%20Town&tag=errorcodefixe-20) |  | Water Distribution Tube | [000007533](https://www.amazon.com/s?k=000007533&tag=errorcodefixe-20) | $25–$40 | Parts Town | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Manitowoc Ice Machine Cleaner | A0310001 | [$18–$28](https://www.amazon.com/s?k=%2418%E2%80%93%2428&tag=errorcodefixe-20) | Amazon / restaurant supply |
-
+| Part | Part Number | Typical Cost | Where to Buy |
+|------|------------|-------------|-------------|
+| Manitowoc Curtain Sensor | 000005444 | $60–$75 | [Amazon](https://www.amazon.com/s?k=000005444+Manitowoc+Curtain+Sensor&tag=errorcodefixes-20) \| Repair Clinic / Parts Town |
+| Water Inlet Valve | 000004756 | $80–$95 | [Amazon](https://www.amazon.com/s?k=000004756+Water+Inlet+Valve&tag=errorcodefixes-20) \| Repair Clinic / Parts Town |
+| Water Distribution Tube | 000007533 | $25–$40 | [Amazon](https://www.amazon.com/s?k=000007533+Water+Distribution+Tube&tag=errorcodefixes-20) \| Parts Town |
+| Manitowoc Ice Machine Cleaner | A0310001 | $18–$28 | [Amazon](https://www.amazon.com/s?k=A0310001+Manitowoc+Ice+Machine+Cleaner&tag=errorcodefixes-20) \| Amazon / restaurant supply |
 ## When to Call a Professional
 
 Refrigerant diagnosis and recharge on a commercial ice machine requires EPA 608 certification and a recovery machine — this is not a DIY task. If your Code 4 troubleshooting confirms the harvest cycle is mechanically failing (ice not releasing) and the machine is clean and the water valve is good, a certified refrigeration technician needs to check the hot-gas valve, refrigerant charge, and compressor performance. A Manitowoc ice machine with a low refrigerant charge often indicates a leak — simply recharging without finding and fixing the leak means the machine will be back down in months.

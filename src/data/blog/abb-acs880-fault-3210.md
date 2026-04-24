@@ -1,4 +1,4 @@
-﻿---
+---
 title: "ABB ACS880 Fault 3210 — DC Bus Undervoltage Causes & Fix"
 description: "What ABB ACS880 fault 3210 means, why DC bus undervoltage trips the drive, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -38,9 +38,8 @@ Fault 3210 (DC Undervoltage) on an ABB ACS880 drive means the DC bus voltage dro
 
 | Part | Notes |
 |------|-------|
-| [Pre-charge resistor / relay](https://www.amazon.com/s?k=Pre-charge%20resistor%20%2F%20relay&tag=errorcodefixe-20) | ACS880 frame-size specific; replace as a kit |
-| [Input fuses (semiconductor)](https://www.amazon.com/s?k=Input%20fuses%20(semiconductor)&tag=errorcodefixe-20) | aR or gR type; match frame size current rating |
-
+| Pre-charge resistor / relay | [Amazon](https://www.amazon.com/s?k=Pre-charge+resistor+%2F+relay&tag=errorcodefixes-20) \| ACS880 frame-size specific; replace as a kit |
+| Input fuses (semiconductor) | [Amazon](https://www.amazon.com/s?k=Input+fuses+%28semiconductor%29&tag=errorcodefixes-20) \| aR or gR type; match frame size current rating |
 ## When to Call a Pro
 
 DC bus measurements and pre-charge circuit diagnosis require a qualified electrical engineer familiar with ACS880 hardware. DC bus voltages can exceed 1000 VDC on high-voltage models and retain charge after power-down for several minutes.

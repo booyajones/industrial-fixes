@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Carrier Heat Pump E4 Error Code — Causes & Fix"
 description: "What Carrier heat pump E4 low pressure fault means, why it trips, and how to diagnose and fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,11 +36,10 @@ The Carrier heat pump **E4 error code** indicates a **low pressure fault** — t
 
 | Part | Notes |
 |------|-------|
-| [Refrigerant charge (R-410A per nameplate)](https://www.amazon.com/s?k=Refrigerant%20charge%20(R-410A%20per%20nameplate)&tag=errorcodefixe-20) | Add only after leak is located and repaired; EPA 608 cert required |
-| [Low-pressure switch](https://www.amazon.com/s?k=Low-pressure%20switch&tag=errorcodefixe-20) | Replace if switch tests open at normal operating pressures |
-| [Expansion valve (TXV)](https://www.amazon.com/s?k=Expansion%20valve%20(TXV)&tag=errorcodefixe-20) | Replace if suction pressure is low with confirmed adequate refrigerant charge |
-| [Air filter](https://www.amazon.com/s?k=Air%20filter&tag=errorcodefixe-20) | Replace if clogged; use MERV 8 or lower to avoid restricting airflow |
-
+| Refrigerant charge (R-410A per nameplate) | [Amazon](https://www.amazon.com/s?k=Refrigerant+charge+%28R-410A+per+nameplate%29&tag=errorcodefixes-20) \| Add only after leak is located and repaired; EPA 608 cert required |
+| Low-pressure switch | [Amazon](https://www.amazon.com/s?k=Low-pressure+switch&tag=errorcodefixes-20) \| Replace if switch tests open at normal operating pressures |
+| Expansion valve (TXV) | [Amazon](https://www.amazon.com/s?k=Expansion+valve+%28TXV%29&tag=errorcodefixes-20) \| Replace if suction pressure is low with confirmed adequate refrigerant charge |
+| Air filter | [Amazon](https://www.amazon.com/s?k=Air+filter&tag=errorcodefixes-20) \| Replace if clogged; use MERV 8 or lower to avoid restricting airflow |
 ## When to Call a Pro
 
 Low refrigerant is the most common E4 cause and always requires a licensed HVAC-R technician to diagnose, locate the leak, repair, evacuate, and recharge. Adding refrigerant without finding the leak is a temporary fix that masks the real problem.

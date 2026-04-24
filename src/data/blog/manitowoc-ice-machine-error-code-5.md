@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Manitowoc Ice Machine Error Code 5 — Causes & Fix"
 description: "What Manitowoc Error Code 5 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -36,10 +36,9 @@ Error Code 5 on a Manitowoc ice machine indicates a safety switch fault — one 
 
 | Part | Notes |
 |------|-------|
-| [High pressure cutout switch](https://www.amazon.com/s?k=High%20pressure%20cutout%20switch&tag=errorcodefixe-20) | Replace if trips repeat at normal operating conditions |
-| [Bin thermostat / full sensor](https://www.amazon.com/s?k=Bin%20thermostat%20%2F%20full%20sensor&tag=errorcodefixe-20) | Replace if machine stops with empty bin |
-| [Condenser coil cleaner](https://www.amazon.com/s?k=Condenser%20coil%20cleaner&tag=errorcodefixe-20) | Descale/clean every 3–6 months |
-
+| High pressure cutout switch | [Amazon](https://www.amazon.com/s?k=High+pressure+cutout+switch&tag=errorcodefixes-20) \| Replace if trips repeat at normal operating conditions |
+| Bin thermostat / full sensor | [Amazon](https://www.amazon.com/s?k=Bin+thermostat+%2F+full+sensor&tag=errorcodefixes-20) \| Replace if machine stops with empty bin |
+| Condenser coil cleaner | [Amazon](https://www.amazon.com/s?k=Condenser+coil+cleaner&tag=errorcodefixes-20) \| Descale/clean every 3–6 months |
 ## When to Call a Pro
 
 If the high pressure cutout continues to trip after condenser cleaning and normal ambient conditions are confirmed, a refrigerant overcharge or sealed system problem needs a certified tech.

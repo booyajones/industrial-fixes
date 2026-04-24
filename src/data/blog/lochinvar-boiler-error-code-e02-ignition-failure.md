@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lochinvar Boiler Error Code E02 — Ignition Failure Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-15T08:00:00Z
@@ -49,9 +49,12 @@ Lochinvar Knight (WH/WB series), Crest (CH series), and SYNC (SNA series) boiler
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Part Number | Typical Cost | [Where to Buy](https://www.amazon.com/s?k=Where%20to%20Buy&tag=errorcodefixe-20) |  |------|------------|-------------|-------------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Lochinvar Flame Sensor | S001001001 | [$35–$50](https://www.amazon.com/s?k=%2435%E2%80%93%2450&tag=errorcodefixe-20) | Repair Clinic / Lochinvar dealer |
-| [Lochinvar Hot Surface Igniter](https://www.amazon.com/s?k=Lochinvar%20Hot%20Surface%20Igniter&tag=errorcodefixe-20) | S001003001 | $70–$90 | [Repair Clinic / Lochinvar dealer](https://www.amazon.com/s?k=Repair%20Clinic%20%2F%20Lochinvar%20dealer&tag=errorcodefixe-20) |  | Gas Valve (if failed) | [Contact Lochinvar for model-specific](https://www.amazon.com/s?k=Contact%20Lochinvar%20for%20model-specific&tag=errorcodefixe-20) | $180–$280 | Lochinvar dealer | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | SMART System Control Board | Contact Lochinvar for model-specific | [$400–$650](https://www.amazon.com/s?k=%24400%E2%80%93%24650&tag=errorcodefixe-20) | Lochinvar dealer |
-
+| Part | Part Number | Typical Cost | Where to Buy |
+|------|------------|-------------|-------------|
+| Lochinvar Flame Sensor | S001001001 | $35–$50 | [Amazon](https://www.amazon.com/s?k=S001001001+Lochinvar+Flame+Sensor&tag=errorcodefixes-20) \| Repair Clinic / Lochinvar dealer |
+| Lochinvar Hot Surface Igniter | S001003001 | $70–$90 | [Amazon](https://www.amazon.com/s?k=S001003001+Lochinvar+Hot+Surface+Igniter&tag=errorcodefixes-20) \| Repair Clinic / Lochinvar dealer |
+| Gas Valve (if failed) | Contact Lochinvar for model-specific | $180–$280 | [Amazon](https://www.amazon.com/s?k=Contact+Lochinvar+for+model-specific+Gas+Valve+%28if+failed%29&tag=errorcodefixes-20) \| Lochinvar dealer |
+| SMART System Control Board | Contact Lochinvar for model-specific | $400–$650 | [Amazon](https://www.amazon.com/s?k=Contact+Lochinvar+for+model-specific+SMART+System+Control+Board&tag=errorcodefixes-20) \| Lochinvar dealer |
 ## When to Call a Professional
 
 Gas valve replacement, gas line work, and combustion testing require a licensed HVAC/plumbing contractor in most jurisdictions. Lochinvar condensing boilers also require combustion analysis (CO2, O2, CO levels) after any repair that affects the combustion system — a proper combustion analysis requires a calibrated flue gas analyzer that most homeowners don't have. If E02 persists after flame sensor cleaning and igniter verification, the gas valve or control board is the likely culprit, and both require professional service. Do not continue to manually reset an E02 lockout and run the boiler — repeated failed ignition attempts dump raw gas into the combustion chamber, creating a hazard.

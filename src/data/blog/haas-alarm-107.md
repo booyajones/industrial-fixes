@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Haas Alarm 107 — Causes & Fix"
 description: "What Haas alarm 107 servo motor overtemp means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,10 +36,9 @@ Haas alarm 107 indicates a servo motor overtemperature condition. The servo moto
 
 | Part | Notes |
 |------|-------|
-| [Servo motor thermistor / thermostat](https://www.amazon.com/s?k=Servo%20motor%20thermistor%20%2F%20thermostat&tag=errorcodefixe-20) | If integral to motor, motor may need to go to a rewind shop |
-| [Servo motor (replacement)](https://www.amazon.com/s?k=Servo%20motor%20(replacement)&tag=errorcodefixe-20) | If thermistor failure is internal and motor can't be easily serviced |
-| [Way lube system components](https://www.amazon.com/s?k=Way%20lube%20system%20components&tag=errorcodefixe-20) | Filter, pump check valve, or distribution tubing if lubrication system is failing |
-
+| Servo motor thermistor / thermostat | [Amazon](https://www.amazon.com/s?k=Servo+motor+thermistor+%2F+thermostat&tag=errorcodefixes-20) \| If integral to motor, motor may need to go to a rewind shop |
+| Servo motor (replacement) | [Amazon](https://www.amazon.com/s?k=Servo+motor+%28replacement%29&tag=errorcodefixes-20) \| If thermistor failure is internal and motor can't be easily serviced |
+| Way lube system components | [Amazon](https://www.amazon.com/s?k=Way+lube+system+components&tag=errorcodefixes-20) \| Filter, pump check valve, or distribution tubing if lubrication system is failing |
 ## When to Call a Pro
 
 If the motor is cool and the thermistor reads correctly but alarm 107 returns within minutes of reset under normal operation, the motor may have developing insulation problems or the servo control parameters may be commanding excessive current. Haas Factory Outlet support can help differentiate between these causes.

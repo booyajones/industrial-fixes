@@ -1,4 +1,4 @@
-﻿---
+---
 title: "LG Mini-Split CH05 Error Code — Causes & Fix"
 description: "What LG mini-split CH05 means, why communication fails between indoor and outdoor units, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,11 +36,10 @@ CH05 on an LG mini-split system indicates a communication error between the indo
 
 | Part | Notes |
 |------|-------|
-| [Communication wire (2 or 3-conductor)](https://www.amazon.com/s?k=Communication%20wire%20(2%20or%203-conductor)&tag=errorcodefixe-20) | 18-22 AWG; run separately from power wiring |
-| [Indoor unit control board](https://www.amazon.com/s?k=Indoor%20unit%20control%20board&tag=errorcodefixe-20) | Replace if board communication IC is confirmed failed |
-| [Outdoor unit control board](https://www.amazon.com/s?k=Outdoor%20unit%20control%20board&tag=errorcodefixe-20) | Replace if outdoor board is the confirmed fault |
-| [Terminal block connectors](https://www.amazon.com/s?k=Terminal%20block%20connectors&tag=errorcodefixe-20) | Replace corroded terminals before replacing boards |
-
+| Communication wire (2 or 3-conductor) | [Amazon](https://www.amazon.com/s?k=Communication+wire+%282+or+3-conductor%29&tag=errorcodefixes-20) \| 18-22 AWG; run separately from power wiring |
+| Indoor unit control board | [Amazon](https://www.amazon.com/s?k=Indoor+unit+control+board&tag=errorcodefixes-20) \| Replace if board communication IC is confirmed failed |
+| Outdoor unit control board | [Amazon](https://www.amazon.com/s?k=Outdoor+unit+control+board&tag=errorcodefixes-20) \| Replace if outdoor board is the confirmed fault |
+| Terminal block connectors | [Amazon](https://www.amazon.com/s?k=Terminal+block+connectors&tag=errorcodefixes-20) \| Replace corroded terminals before replacing boards |
 ## When to Call a Pro
 
 If wiring is confirmed correct and power is present at both units but CH05 persists, a licensed HVAC technician with LG service tools can pull diagnostic logs from the control boards to identify which board is the communication fault source.

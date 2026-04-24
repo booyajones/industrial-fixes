@@ -1,4 +1,4 @@
-﻿---
+---
 title: "ClimateMaster Geothermal Error Code E1 — High Pressure Fault"
 description: "ClimateMaster geothermal heat pump Error Code E1 means a high-pressure lockout. Learn the exact causes, diagnostics, and fixes for this geothermal fault."
 pubDatetime: 2026-04-22T17:00:00Z
@@ -29,10 +29,15 @@ The high-pressure switch monitors refrigerant discharge pressure. For R-410A Cli
 
 ## Common Causes {#most-likely-cause}
 
-| [Cause](https://www.amazon.com/s?k=Cause&tag=errorcodefixe-20) | Likelihood | Mode | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | --- |---|---|
-| High entering water temperature (loop too warm) | [Very High](https://www.amazon.com/s?k=Very%20High&tag=errorcodefixe-20) | Cooling |
-| [Dirty or restricted air coil](https://www.amazon.com/s?k=Dirty%20or%20restricted%20air%20coil&tag=errorcodefixe-20) | High | Cooling | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Low airflow (dirty filter, failed blower) | High | [Cooling](https://www.amazon.com/s?k=Cooling&tag=errorcodefixe-20) |  | Refrigerant overcharge | [Medium](https://www.amazon.com/s?k=Medium&tag=errorcodefixe-20) | Any |
-| [Failing TXV](https://www.amazon.com/s?k=Failing%20TXV&tag=errorcodefixe-20) | Medium | Any | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | High entering water temp in heating reversal | Low | [Heating](https://www.amazon.com/s?k=Heating&tag=errorcodefixe-20) |  | Defective high-pressure switch | [Low](https://www.amazon.com/s?k=Low&tag=errorcodefixe-20) | Any |
+| Cause | Likelihood | Mode |
+|---|---|---|
+| High entering water temperature (loop too warm) | Very High | Cooling |
+| Dirty or restricted air coil | High | Cooling |
+| Low airflow (dirty filter, failed blower) | High | Cooling |
+| Refrigerant overcharge | Medium | Any |
+| Failing TXV | Medium | Any |
+| High entering water temp in heating reversal | Low | Heating |
+| Defective high-pressure switch | Low | Any |
 
 ## Understanding Geothermal High Pressure
 
@@ -77,9 +82,8 @@ ClimateMaster Aurora control boards:
 
 | Part | Notes |
 |---|---|
-| [High-pressure switch](https://www.amazon.com/s?k=High-pressure%20switch&tag=errorcodefixe-20) | ClimateMaster part 65D83 or equivalent |
-| [TXV valve](https://www.amazon.com/s?k=TXV%20valve&tag=errorcodefixe-20) | Must match capacity and refrigerant type |
-| [Blower run capacitor](https://www.amazon.com/s?k=Blower%20run%20capacitor&tag=errorcodefixe-20) | Match µF and voltage rating |
-| [Loop pump](https://www.amazon.com/s?k=Loop%20pump&tag=errorcodefixe-20) | Check flow rate — minimum 1.5 GPM/ton |
-
+| High-pressure switch | [Amazon](https://www.amazon.com/s?k=High-pressure+switch&tag=errorcodefixes-20) \| ClimateMaster part 65D83 or equivalent |
+| TXV valve | [Amazon](https://www.amazon.com/s?k=TXV+valve&tag=errorcodefixes-20) \| Must match capacity and refrigerant type |
+| Blower run capacitor | [Amazon](https://www.amazon.com/s?k=Blower+run+capacitor&tag=errorcodefixes-20) \| Match µF and voltage rating |
+| Loop pump | [Amazon](https://www.amazon.com/s?k=Loop+pump&tag=errorcodefixes-20) \| Check flow rate — minimum 1.5 GPM/ton |
 > **Pro tip:** Persistent E1 faults during summer despite correct equipment operation usually indicate an undersized or overloaded ground loop. A ground loop flush and purge to remove air can sometimes improve loop performance.

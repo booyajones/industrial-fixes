@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Daikin U4 Error Code — Causes & Fix"
 description: "What Daikin U4 error code means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,10 +36,9 @@ For the Daikin systems targeted here, U4 points to a refrigerant leak or low-pre
 
 | Part | Notes |
 |------|-------|
-| [Refrigerant charge](https://www.amazon.com/s?k=Refrigerant%20charge&tag=errorcodefixe-20) | Add only after leak repair and evacuation are complete |
-| [Flare nuts or flare fittings](https://www.amazon.com/s?k=Flare%20nuts%20or%20flare%20fittings&tag=errorcodefixe-20) | Replace any leaking connection instead of trying to reuse a damaged flare |
-| [Pressure sensor](https://www.amazon.com/s?k=Pressure%20sensor&tag=errorcodefixe-20) | Replace if gauge readings are normal but the controller still reports a low-pressure fault |
-
+| Refrigerant charge | [Amazon](https://www.amazon.com/s?k=Refrigerant+charge&tag=errorcodefixes-20) \| Add only after leak repair and evacuation are complete |
+| Flare nuts or flare fittings | [Amazon](https://www.amazon.com/s?k=Flare+nuts+or+flare+fittings&tag=errorcodefixes-20) \| Replace any leaking connection instead of trying to reuse a damaged flare |
+| Pressure sensor | [Amazon](https://www.amazon.com/s?k=Pressure+sensor&tag=errorcodefixes-20) \| Replace if gauge readings are normal but the controller still reports a low-pressure fault |
 ## When to Call a Pro
 
 Leak repair, evacuation, and charging require EPA 608 certification and the correct Daikin charge procedure. If U4 is real, running the unit low on charge can damage the compressor fast.

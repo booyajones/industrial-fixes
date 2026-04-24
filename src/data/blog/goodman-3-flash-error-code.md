@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-11T08:00:00Z
@@ -49,11 +49,16 @@ The pressure switch is a safety device that verifies the inducer motor is genera
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Part Number | Typical Cost | [Where to Buy](https://www.amazon.com/s?k=Where%20to%20Buy&tag=errorcodefixe-20) |  |------|------------|-------------|-------------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Pressure switch | B1370112 | [$30–$45](https://www.amazon.com/s?k=%2430%E2%80%93%2445&tag=errorcodefixe-20) | Repair Clinic / Amazon |
-| [Inducer motor capacitor](https://www.amazon.com/s?k=Inducer%20motor%20capacitor&tag=errorcodefixe-20) | B175-1068 | $8–$15 | [Repair Clinic / Amazon](https://www.amazon.com/s?k=Repair%20Clinic%20%2F%20Amazon&tag=errorcodefixe-20) |  | Inducer motor assembly | [B1859005](https://www.amazon.com/s?k=B1859005&tag=errorcodefixe-20) | $120–$180 | HVAC Parts / Repair Clinic | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Condensate drain trap | B1787419 | [$12–$20](https://www.amazon.com/s?k=%2412%E2%80%93%2420&tag=errorcodefixe-20) | Repair Clinic |
+| Part | Part Number | Typical Cost | Where to Buy |
+|------|------------|-------------|---------------|
+| Pressure switch | B1370112 | $30–$45 | [Amazon](https://www.amazon.com/s?k=Goodman+B1370112+pressure+switch&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=B1370112) |
+| Inducer motor capacitor | B175-1068 | $8–$15 | [Amazon](https://www.amazon.com/s?k=Goodman+B175-1068+inducer+capacitor&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=B175-1068) |
+| Inducer motor assembly | B1859005 | $120–$180 | [Amazon](https://www.amazon.com/s?k=Goodman+B1859005+inducer+motor&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=B1859005) |
+| Condensate drain trap | B1787419 | $12–$20 | [Amazon](https://www.amazon.com/s?k=Goodman+B1787419+condensate+trap&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=B1787419) |
 
 ## When to Call a Professional
 
 If the pressure switch, inducer motor, and condensate drain all check out and the 3-flash code persists, the problem may be inside the heat exchanger — a cracked secondary heat exchanger can upset combustion airflow in ways that prevent the pressure switch from closing. Cracked heat exchanger diagnosis requires combustion analysis equipment and should be performed by a licensed HVAC technician. A cracked heat exchanger also poses a carbon monoxide risk and should be treated as a safety issue, not just a repair issue.
 
 > **Pro tip:** Before buying a new pressure switch, take off the hose and blow through the switch port — you should feel resistance and hear a click when vacuum is applied. If you can blow freely with no click, the diaphragm is already blown and the switch is trash. This 10-second test saves the round trip of installing a new switch only to find the real problem was the inducer.
+

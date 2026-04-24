@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide"
 description: "Complete guide to Rinnai CBU series combi boiler error codes, fault causes, and step-by-step troubleshooting for heating and domestic hot water failures."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -20,27 +20,27 @@ The Rinnai CBU (CBU199iN, CBU199eN) is a condensing combination boiler providing
 
 ## Rinnai CBU Error Code Reference
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning |
+| Code | Meaning |
 |------|---------|
-| [02](https://www.amazon.com/s?k=02&tag=errorcodefixe-20) | Bypass control valve fault |
-| [10](https://www.amazon.com/s?k=10&tag=errorcodefixe-20) | Exhaust temperature sensor fault |
-| [11](https://www.amazon.com/s?k=11&tag=errorcodefixe-20) | Ignition failure |
-| [12](https://www.amazon.com/s?k=12&tag=errorcodefixe-20) | Flame loss during operation |
-| [14](https://www.amazon.com/s?k=14&tag=errorcodefixe-20) | Thermal fuse tripped |
-| [16](https://www.amazon.com/s?k=16&tag=errorcodefixe-20) | Outlet water overtemperature |
-| [25](https://www.amazon.com/s?k=25&tag=errorcodefixe-20) | Condensate drain fault |
-| [31](https://www.amazon.com/s?k=31&tag=errorcodefixe-20) | Inlet air temperature sensor fault |
-| [33](https://www.amazon.com/s?k=33&tag=errorcodefixe-20) | Heating supply temperature sensor fault |
-| [34](https://www.amazon.com/s?k=34&tag=errorcodefixe-20) | Heating return temperature sensor fault |
-| [52](https://www.amazon.com/s?k=52&tag=errorcodefixe-20) | Modulating gas valve fault |
-| [57](https://www.amazon.com/s?k=57&tag=errorcodefixe-20) | Combustion fan fault |
-| [61](https://www.amazon.com/s?k=61&tag=errorcodefixe-20) | Heating pump fault |
-| [65](https://www.amazon.com/s?k=65&tag=errorcodefixe-20) | Water flow control fault |
-| [71](https://www.amazon.com/s?k=71&tag=errorcodefixe-20) | Gas valve solenoid fault |
-| [72](https://www.amazon.com/s?k=72&tag=errorcodefixe-20) | Flame sensor fault |
-| [80](https://www.amazon.com/s?k=80&tag=errorcodefixe-20) | Heating system pressure low |
-| [81](https://www.amazon.com/s?k=81&tag=errorcodefixe-20) | Heating system pressure high |
-| [84](https://www.amazon.com/s?k=84&tag=errorcodefixe-20) | Heating temperature too high (safety limit) |
+| 02 | Bypass control valve fault |
+| 10 | Exhaust temperature sensor fault |
+| 11 | Ignition failure |
+| 12 | Flame loss during operation |
+| 14 | Thermal fuse tripped |
+| 16 | Outlet water overtemperature |
+| 25 | Condensate drain fault |
+| 31 | Inlet air temperature sensor fault |
+| 33 | Heating supply temperature sensor fault |
+| 34 | Heating return temperature sensor fault |
+| 52 | Modulating gas valve fault |
+| 57 | Combustion fan fault |
+| 61 | Heating pump fault |
+| 65 | Water flow control fault |
+| 71 | Gas valve solenoid fault |
+| 72 | Flame sensor fault |
+| 80 | Heating system pressure low |
+| 81 | Heating system pressure high |
+| 84 | Heating temperature too high (safety limit) |
 
 ## Common Causes by Code
 
@@ -66,13 +66,12 @@ The Rinnai CBU (CBU199iN, CBU199eN) is a condensing combination boiler providing
 
 | Part | Notes |
 |------|-------|
-| [Thermal fuse](https://www.amazon.com/s?k=Thermal%20fuse&tag=errorcodefixe-20) | One-time safety device; investigate first |
-| [Expansion tank](https://www.amazon.com/s?k=Expansion%20tank&tag=errorcodefixe-20) | For Code 81; check pre-charge before replacing |
-| [Heating pump (circulator)](https://www.amazon.com/s?k=Heating%20pump%20(circulator)&tag=errorcodefixe-20) | For Code 61; bleed airlock first |
-| [Condensate drain trap](https://www.amazon.com/s?k=Condensate%20drain%20trap&tag=errorcodefixe-20) | Replace if cracked or blocked |
-| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | For Code 72; clean first |
-| [Gas valve](https://www.amazon.com/s?k=Gas%20valve&tag=errorcodefixe-20) | For Code 71; confirm 24V signal first |
-
+| Thermal fuse | [Amazon](https://www.amazon.com/s?k=Thermal+fuse&tag=errorcodefixes-20) \| One-time safety device; investigate first |
+| Expansion tank | [Amazon](https://www.amazon.com/s?k=Expansion+tank&tag=errorcodefixes-20) \| For Code 81; check pre-charge before replacing |
+| Heating pump (circulator) | [Amazon](https://www.amazon.com/s?k=Heating+pump+%28circulator%29&tag=errorcodefixes-20) \| For Code 61; bleed airlock first |
+| Condensate drain trap | [Amazon](https://www.amazon.com/s?k=Condensate+drain+trap&tag=errorcodefixes-20) \| Replace if cracked or blocked |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| For Code 72; clean first |
+| Gas valve | [Amazon](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) \| For Code 71; confirm 24V signal first |
 ## When to Call a Pro
 
 Rinnai CBU combi boiler diagnosis involves both the refrigerant/heat circuit and the gas combustion system. Thermal fuse replacement, gas valve work, and heat exchanger descaling should be performed by licensed professionals. Contact Rinnai technical support (1-800-621-9419) for warranty service.

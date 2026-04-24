@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mitsubishi Mini Split U4 Error Code — Causes & Fix"
 description: "What Mitsubishi U4 means on mini split systems, why the outdoor thermistor faults, and how to diagnose and fix it."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,10 +36,9 @@ The Mitsubishi U4 error code indicates a **communication fault between the indoo
 
 | Part | Notes |
 |------|-------|
-| [Outdoor thermistor (discharge or ambient)](https://www.amazon.com/s?k=Outdoor%20thermistor%20(discharge%20or%20ambient)&tag=errorcodefixe-20) | Confirm which thermistor is flagged; Mitsubishi part numbers vary by model series |
-| [Inter-unit communication cable (3-conductor)](https://www.amazon.com/s?k=Inter-unit%20communication%20cable%20(3-conductor)&tag=errorcodefixe-20) | Replace damaged run; use same gauge as OEM wiring |
-| [Outdoor control PCB](https://www.amazon.com/s?k=Outdoor%20control%20PCB&tag=errorcodefixe-20) | Replace if thermistors test good but fault persists |
-
+| Outdoor thermistor (discharge or ambient) | [Amazon](https://www.amazon.com/s?k=Outdoor+thermistor+%28discharge+or+ambient%29&tag=errorcodefixes-20) \| Confirm which thermistor is flagged; Mitsubishi part numbers vary by model series |
+| Inter-unit communication cable (3-conductor) | [Amazon](https://www.amazon.com/s?k=Inter-unit+communication+cable+%283-conductor%29&tag=errorcodefixes-20) \| Replace damaged run; use same gauge as OEM wiring |
+| Outdoor control PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+control+PCB&tag=errorcodefixes-20) \| Replace if thermistors test good but fault persists |
 ## When to Call a Pro
 
 If all wiring tests good and both thermistors measure within spec, the outdoor PCB has likely failed. PCB replacement on Mitsubishi mini splits involves refrigerant-side interlock checks — a certified HVAC technician should perform the swap and verify system operation.

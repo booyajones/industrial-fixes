@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Manitowoc Ice Machine Error Code 3 — Causes & Fix"
 description: "What Manitowoc ice machine error code 3 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,10 +36,9 @@ Manitowoc ice machine error code 3 indicates that the freeze cycle took too long
 
 | Part | Notes |
 |------|-------|
-| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | Match HP and rotation; Manitowoc uses specific motor sizes by model |
-| [Condenser coil cleaner](https://www.amazon.com/s?k=Condenser%20coil%20cleaner&tag=errorcodefixe-20) | Use Nu-Brite or equivalent food-safe coil cleaner |
-| [Refrigerant (tech access required)](https://www.amazon.com/s?k=Refrigerant%20(tech%20access%20required)&tag=errorcodefixe-20) | Leak repair and recharge require EPA 608 certification |
-
+| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Match HP and rotation; Manitowoc uses specific motor sizes by model |
+| Condenser coil cleaner | [Amazon](https://www.amazon.com/s?k=Condenser+coil+cleaner&tag=errorcodefixes-20) \| Use Nu-Brite or equivalent food-safe coil cleaner |
+| Refrigerant (tech access required) | [Amazon](https://www.amazon.com/s?k=Refrigerant+%28tech+access+required%29&tag=errorcodefixes-20) \| Leak repair and recharge require EPA 608 certification |
 ## When to Call a Pro
 
 Refrigerant system diagnosis and recharge require EPA 608 certification. If cleaning the condenser and confirming fan operation doesn't resolve code 3, a licensed refrigeration technician needs to check system pressures and inspect for refrigerant leaks.

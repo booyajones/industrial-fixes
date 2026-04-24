@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Luxaire Furnace E1 Error Code — System Lockout"
 description: "What the Luxaire furnace E1 error code means, why the system locks out, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -39,12 +39,11 @@ Luxaire is a York-branded product line (both are owned by Johnson Controls/Bosch
 
 | Part | Notes |
 |------|-------|
-| [Hot surface ignitor](https://www.amazon.com/s?k=Hot%20surface%20ignitor&tag=errorcodefixe-20) | Most common fix when prior fault was ignition — match voltage (80V or 120V) |
-| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | Replace if ceramic is cracked; clean if just dirty |
-| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Match setpoint from switch body |
-| [Air filter](https://www.amazon.com/s?k=Air%20filter&tag=errorcodefixe-20) | Replace if limit trips were caused by restricted airflow |
-| [Control board](https://www.amazon.com/s?k=Control%20board&tag=errorcodefixe-20) | Replace if E1 appears without prior fault history (board self-fault) |
-
+| Hot surface ignitor | [Amazon](https://www.amazon.com/s?k=Hot+surface+ignitor&tag=errorcodefixes-20) \| Most common fix when prior fault was ignition — match voltage (80V or 120V) |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Replace if ceramic is cracked; clean if just dirty |
+| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Match setpoint from switch body |
+| Air filter | [Amazon](https://www.amazon.com/s?k=Air+filter&tag=errorcodefixes-20) \| Replace if limit trips were caused by restricted airflow |
+| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| Replace if E1 appears without prior fault history (board self-fault) |
 ## When to Call a Pro
 
 If E1 returns within one or two heat cycles after clearing, the root fault isn't fully resolved or there's a more complex issue (cracked heat exchanger, intermittent gas valve). A licensed HVAC technician can attach a service analyzer to the control board to read real-time fault data during the heating sequence, identifying the exact failure point without guessing.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Hoshizaki Ice Machine E8 Error Code — Causes & Fix"
 description: "What Hoshizaki E8 low-side pressure switch fault means, why it trips, and how to diagnose and fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,10 +36,9 @@ The Hoshizaki **E8 error code** indicates a **low-side pressure switch fault** �
 
 | Part | Notes |
 |------|-------|
-| [Low-pressure switch](https://www.amazon.com/s?k=Low-pressure%20switch&tag=errorcodefixe-20) | Replace if switch tests open at normal operating pressure |
-| [Refrigerant charge (R-404A, R-448A per model)](https://www.amazon.com/s?k=Refrigerant%20charge%20(R-404A%2C%20R-448A%20per%20model)&tag=errorcodefixe-20) | Add only after finding and fixing the leak; EPA 608 certification required |
-| [Evaporator descaler (Hoshizaki Scale-Away)](https://www.amazon.com/s?k=Evaporator%20descaler%20(Hoshizaki%20Scale-Away)&tag=errorcodefixe-20) | Use if evaporator is heavily scaled, contributing to poor freeze performance |
-
+| Low-pressure switch | [Amazon](https://www.amazon.com/s?k=Low-pressure+switch&tag=errorcodefixes-20) \| Replace if switch tests open at normal operating pressure |
+| Refrigerant charge (R-404A, R-448A per model) | [Amazon](https://www.amazon.com/s?k=Refrigerant+charge+%28R-404A%2C+R-448A+per+model%29&tag=errorcodefixes-20) \| Add only after finding and fixing the leak; EPA 608 certification required |
+| Evaporator descaler (Hoshizaki Scale-Away) | [Amazon](https://www.amazon.com/s?k=Evaporator+descaler+%28Hoshizaki+Scale-Away%29&tag=errorcodefixes-20) \| Use if evaporator is heavily scaled, contributing to poor freeze performance |
 ## When to Call a Pro
 
 E8 from low refrigerant is a certified-technician job. EPA Section 608 certification is required to purchase and handle refrigerant. A tech will locate the leak, repair it, evacuate, and recharge to the nameplate specification.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mitsubishi U7 Error Code — Refrigerant System Fault"
 description: "Mitsubishi mini-split Error Code U7 means an outdoor unit fan motor or inverter fault. Learn the causes, how to diagnose, and how to fix Mitsubishi U7."
 pubDatetime: 2026-04-22T17:00:00Z
@@ -33,14 +33,14 @@ Check the exact definition in your model's service manual. Both codes indicate a
 
 ## Common Causes {#most-likely-cause}
 
-| [Cause](https://www.amazon.com/s?k=Cause&tag=errorcodefixe-20) | Likelihood |
+| Cause | Likelihood |
 |---|---|
-| [Failed outdoor fan motor](https://www.amazon.com/s?k=Failed%20outdoor%20fan%20motor&tag=errorcodefixe-20) | Very High |
-| [Failed or weak run capacitor](https://www.amazon.com/s?k=Failed%20or%20weak%20run%20capacitor&tag=errorcodefixe-20) | High |
-| [Debris blocking outdoor fan](https://www.amazon.com/s?k=Debris%20blocking%20outdoor%20fan&tag=errorcodefixe-20) | Medium |
-| [Outdoor inverter PCB fault](https://www.amazon.com/s?k=Outdoor%20inverter%20PCB%20fault&tag=errorcodefixe-20) | Medium |
-| [Low supply voltage during hot weather](https://www.amazon.com/s?k=Low%20supply%20voltage%20during%20hot%20weather&tag=errorcodefixe-20) | Medium |
-| [Hall-effect sensor fault in brushless fan](https://www.amazon.com/s?k=Hall-effect%20sensor%20fault%20in%20brushless%20fan&tag=errorcodefixe-20) | Low |
+| Failed outdoor fan motor | Very High |
+| Failed or weak run capacitor | High |
+| Debris blocking outdoor fan | Medium |
+| Outdoor inverter PCB fault | Medium |
+| Low supply voltage during hot weather | Medium |
+| Hall-effect sensor fault in brushless fan | Low |
 
 ## Step-by-Step Diagnosis {#diagnosis}
 
@@ -79,10 +79,9 @@ Check the exact definition in your model's service manual. Both codes indicate a
 
 | Part | Notes |
 |---|---|
-| [Outdoor fan motor](https://www.amazon.com/s?k=Outdoor%20fan%20motor&tag=errorcodefixe-20) | Match HP, RPM, blade pitch, and rotation |
-| [Run capacitor](https://www.amazon.com/s?k=Run%20capacitor&tag=errorcodefixe-20) | Match µF and voltage rating exactly |
-| [Outdoor PCB](https://www.amazon.com/s?k=Outdoor%20PCB&tag=errorcodefixe-20) | Model-specific — match firmware revision if applicable |
-
+| Outdoor fan motor | [Amazon](https://www.amazon.com/s?k=Outdoor+fan+motor&tag=errorcodefixes-20) \| Match HP, RPM, blade pitch, and rotation |
+| Run capacitor | [Amazon](https://www.amazon.com/s?k=Run+capacitor&tag=errorcodefixes-20) \| Match µF and voltage rating exactly |
+| Outdoor PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB&tag=errorcodefixes-20) \| Model-specific — match firmware revision if applicable |
 ## Reset Procedure
 
 1. Correct the identified fault

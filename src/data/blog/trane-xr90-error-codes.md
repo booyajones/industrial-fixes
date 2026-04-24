@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Trane XR90 Furnace Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Trane XR90 furnace error codes, LED flash sequences, common fault causes, and step-by-step repair procedures for HVAC technicians."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -20,19 +20,19 @@ The Trane XR90 is a single-stage 90% AFUE gas furnace with a PSC (permanent spli
 
 ## Trane XR90 LED Flash Code Reference
 
-| [Flash Sequence](https://www.amazon.com/s?k=Flash%20Sequence&tag=errorcodefixe-20) | Fault |
+| Flash Sequence | Fault |
 |---|---|
-| [1 flash](https://www.amazon.com/s?k=1%20flash&tag=errorcodefixe-20) | Normal — standby |
-| [2 flashes](https://www.amazon.com/s?k=2%20flashes&tag=errorcodefixe-20) | Pressure switch stuck open |
-| [3 flashes](https://www.amazon.com/s?k=3%20flashes&tag=errorcodefixe-20) | Pressure switch stuck closed |
-| [4 flashes](https://www.amazon.com/s?k=4%20flashes&tag=errorcodefixe-20) | Open limit device |
-| [5 flashes](https://www.amazon.com/s?k=5%20flashes&tag=errorcodefixe-20) | Flame sensed without gas valve call |
-| [6 flashes](https://www.amazon.com/s?k=6%20flashes&tag=errorcodefixe-20) | 115V power reversed — hot and neutral swapped |
-| [7 flashes](https://www.amazon.com/s?k=7%20flashes&tag=errorcodefixe-20) | Gas valve stuck open |
-| [8 flashes](https://www.amazon.com/s?k=8%20flashes&tag=errorcodefixe-20) | Ignition failure — exceeded retry limit |
-| [9 flashes](https://www.amazon.com/s?k=9%20flashes&tag=errorcodefixe-20) | Inducer motor fault |
-| [Rapid flash](https://www.amazon.com/s?k=Rapid%20flash&tag=errorcodefixe-20) | Low voltage — check transformer |
-| [Continuous](https://www.amazon.com/s?k=Continuous&tag=errorcodefixe-20) | Normal — blower running in cooling or fan mode |
+| 1 flash | Normal — standby |
+| 2 flashes | Pressure switch stuck open |
+| 3 flashes | Pressure switch stuck closed |
+| 4 flashes | Open limit device |
+| 5 flashes | Flame sensed without gas valve call |
+| 6 flashes | 115V power reversed — hot and neutral swapped |
+| 7 flashes | Gas valve stuck open |
+| 8 flashes | Ignition failure — exceeded retry limit |
+| 9 flashes | Inducer motor fault |
+| Rapid flash | Low voltage — check transformer |
+| Continuous | Normal — blower running in cooling or fan mode |
 
 ## Common Causes by Code
 
@@ -55,13 +55,12 @@ The Trane XR90 is a single-stage 90% AFUE gas furnace with a PSC (permanent spli
 
 | Part | Notes |
 |---|---|
-| [Hot surface igniter](https://www.amazon.com/s?k=Hot%20surface%20igniter&tag=errorcodefixe-20) | Norton 601, silicon carbide; fragile — don't touch the ceramic |
-| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | Rod-type; clean with steel wool before replacing |
-| [Inducer motor capacitor](https://www.amazon.com/s?k=Inducer%20motor%20capacitor&tag=errorcodefixe-20) | 5 or 7.5 µF; measure before replacing motor |
-| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Two switches on some XR90 versions (high and low) |
-| [High-limit switch](https://www.amazon.com/s?k=High-limit%20switch&tag=errorcodefixe-20) | L200°F on most XR90 configurations |
-| [Blower capacitor](https://www.amazon.com/s?k=Blower%20capacitor&tag=errorcodefixe-20) | PSC blower motor; dedicated capacitor |
-
+| Hot surface igniter | [Amazon](https://www.amazon.com/s?k=Hot+surface+igniter&tag=errorcodefixes-20) \| Norton 601, silicon carbide; fragile — don't touch the ceramic |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Rod-type; clean with steel wool before replacing |
+| Inducer motor capacitor | [Amazon](https://www.amazon.com/s?k=Inducer+motor+capacitor&tag=errorcodefixes-20) \| 5 or 7.5 µF; measure before replacing motor |
+| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Two switches on some XR90 versions (high and low) |
+| High-limit switch | [Amazon](https://www.amazon.com/s?k=High-limit+switch&tag=errorcodefixes-20) \| L200°F on most XR90 configurations |
+| Blower capacitor | [Amazon](https://www.amazon.com/s?k=Blower+capacitor&tag=errorcodefixes-20) \| PSC blower motor; dedicated capacitor |
 ## When to Call a Pro
 
 The XR90 heat exchanger is a clamshell design that can crack at the secondary (condensate-side) section. If you smell combustion gases in the conditioned air, suspect a cracked heat exchanger — this is a safety issue requiring professional inspection and likely furnace replacement. Do not operate a furnace with a suspected cracked heat exchanger.

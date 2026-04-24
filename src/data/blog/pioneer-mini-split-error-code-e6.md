@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pioneer Mini Split Error Code E6 — Causes & Fix"
 description: "What Pioneer mini split error code E6 means, why communication fails between indoor and outdoor units, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -38,10 +38,9 @@ E6 on a Pioneer mini split indicates a communication error between the indoor ai
 
 | Part | Notes |
 |------|-------|
-| [Communication wire (S wire)](https://www.amazon.com/s?k=Communication%20wire%20(S%20wire)&tag=errorcodefixe-20) | 18 AWG solid or stranded; match existing run length |
-| [Outdoor control PCB](https://www.amazon.com/s?k=Outdoor%20control%20PCB&tag=errorcodefixe-20) | Match Pioneer model number exactly |
-| [Indoor control PCB](https://www.amazon.com/s?k=Indoor%20control%20PCB&tag=errorcodefixe-20) | Less common failure point, but possible after electrical surge |
-
+| Communication wire (S wire) | [Amazon](https://www.amazon.com/s?k=Communication+wire+%28S+wire%29&tag=errorcodefixes-20) \| 18 AWG solid or stranded; match existing run length |
+| Outdoor control PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+control+PCB&tag=errorcodefixes-20) \| Match Pioneer model number exactly |
+| Indoor control PCB | [Amazon](https://www.amazon.com/s?k=Indoor+control+PCB&tag=errorcodefixes-20) \| Less common failure point, but possible after electrical surge |
 ## When to Call a Pro
 
 If both boards need replacement or the wiring runs through conduit inside a wall, an HVAC technician with mini-split experience can diagnose the communication circuit with a scope or Pioneer's diagnostic mode and replace boards safely.

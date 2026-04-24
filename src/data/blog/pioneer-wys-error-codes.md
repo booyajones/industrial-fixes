@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Pioneer WYS Series Mini Split Error Codes — Complete Fault Guide"
 description: "Complete guide to Pioneer WYS series mini split error codes, what each fault means, and step-by-step troubleshooting for the most common failures."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -20,22 +20,22 @@ The Pioneer WYS series is a popular DIY-friendly ductless mini split line sold t
 
 ## Pioneer WYS Series Error Code Reference
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning |
+| Code | Meaning |
 |------|---------|
-| [E1](https://www.amazon.com/s?k=E1&tag=errorcodefixe-20) | Indoor/outdoor communication error |
-| [E2](https://www.amazon.com/s?k=E2&tag=errorcodefixe-20) | Zero-crossing detection fault (indoor PCB) |
-| [E3](https://www.amazon.com/s?k=E3&tag=errorcodefixe-20) | Indoor fan motor error |
-| [E4](https://www.amazon.com/s?k=E4&tag=errorcodefixe-20) | High-discharge temperature protection |
-| [E5](https://www.amazon.com/s?k=E5&tag=errorcodefixe-20) | Overload protection (outdoor) |
-| [E6](https://www.amazon.com/s?k=E6&tag=errorcodefixe-20) | Outdoor communication/compressor error |
-| [F1](https://www.amazon.com/s?k=F1&tag=errorcodefixe-20) | Indoor ambient temperature sensor fault |
-| [F2](https://www.amazon.com/s?k=F2&tag=errorcodefixe-20) | Indoor coil (evaporator) temperature sensor fault |
-| [F3](https://www.amazon.com/s?k=F3&tag=errorcodefixe-20) | Outdoor ambient temperature sensor fault |
-| [F4](https://www.amazon.com/s?k=F4&tag=errorcodefixe-20) | Outdoor coil temperature sensor fault |
-| [F5](https://www.amazon.com/s?k=F5&tag=errorcodefixe-20) | Discharge temperature sensor fault |
-| [P0](https://www.amazon.com/s?k=P0&tag=errorcodefixe-20) | IPM module protection |
-| [P4](https://www.amazon.com/s?k=P4&tag=errorcodefixe-20) | Indoor drain pan full or drain pump fault |
-| [H6](https://www.amazon.com/s?k=H6&tag=errorcodefixe-20) | Outdoor DC fan motor error |
+| E1 | Indoor/outdoor communication error |
+| E2 | Zero-crossing detection fault (indoor PCB) |
+| E3 | Indoor fan motor error |
+| E4 | High-discharge temperature protection |
+| E5 | Overload protection (outdoor) |
+| E6 | Outdoor communication/compressor error |
+| F1 | Indoor ambient temperature sensor fault |
+| F2 | Indoor coil (evaporator) temperature sensor fault |
+| F3 | Outdoor ambient temperature sensor fault |
+| F4 | Outdoor coil temperature sensor fault |
+| F5 | Discharge temperature sensor fault |
+| P0 | IPM module protection |
+| P4 | Indoor drain pan full or drain pump fault |
+| H6 | Outdoor DC fan motor error |
 
 ## Common Causes by Code
 
@@ -60,13 +60,12 @@ The Pioneer WYS series is a popular DIY-friendly ductless mini split line sold t
 
 | Part | Notes |
 |------|-------|
-| [Signal cable (3-conductor)](https://www.amazon.com/s?k=Signal%20cable%20(3-conductor)&tag=errorcodefixe-20) | Replace full run if damaged during installation |
-| [Indoor temperature sensor](https://www.amazon.com/s?k=Indoor%20temperature%20sensor&tag=errorcodefixe-20) | F1 fault; confirm room temp sensor vs. coil sensor |
-| [Indoor coil sensor](https://www.amazon.com/s?k=Indoor%20coil%20sensor&tag=errorcodefixe-20) | F2 fault; clip-on type on evaporator U-bend |
-| [Outdoor PCB](https://www.amazon.com/s?k=Outdoor%20PCB&tag=errorcodefixe-20) | For P0 or E6 after other causes ruled out |
-| [Indoor fan motor](https://www.amazon.com/s?k=Indoor%20fan%20motor&tag=errorcodefixe-20) | DC type; test before replacing PCB |
-| [Capacitor (outdoor fan)](https://www.amazon.com/s?k=Capacitor%20(outdoor%20fan)&tag=errorcodefixe-20) | On older WYS models with AC fan motor |
-
+| Signal cable (3-conductor) | [Amazon](https://www.amazon.com/s?k=Signal+cable+%283-conductor%29&tag=errorcodefixes-20) \| Replace full run if damaged during installation |
+| Indoor temperature sensor | [Amazon](https://www.amazon.com/s?k=Indoor+temperature+sensor&tag=errorcodefixes-20) \| F1 fault; confirm room temp sensor vs. coil sensor |
+| Indoor coil sensor | [Amazon](https://www.amazon.com/s?k=Indoor+coil+sensor&tag=errorcodefixes-20) \| F2 fault; clip-on type on evaporator U-bend |
+| Outdoor PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB&tag=errorcodefixes-20) \| For P0 or E6 after other causes ruled out |
+| Indoor fan motor | [Amazon](https://www.amazon.com/s?k=Indoor+fan+motor&tag=errorcodefixes-20) \| DC type; test before replacing PCB |
+| Capacitor (outdoor fan) | [Amazon](https://www.amazon.com/s?k=Capacitor+%28outdoor+fan%29&tag=errorcodefixes-20) \| On older WYS models with AC fan motor |
 ## When to Call a Pro
 
 Pioneer WYS units are DIY-marketed but refrigerant work requires EPA 608 certification. If the unit has a refrigerant leak (E4 appearing early in cooling season), a certified technician is required to locate and repair the leak and recharge the system to the correct weight shown on the nameplate.

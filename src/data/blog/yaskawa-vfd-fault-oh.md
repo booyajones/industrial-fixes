@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Yaskawa VFD Fault OH — Causes & Fix"
 description: "What Yaskawa VFD fault OH means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,10 +36,9 @@ Yaskawa VFD fault OH (Drive Overheat) indicates that the drive's internal heatsi
 
 | Part | Notes |
 |------|-------|
-| [Drive cooling fan](https://www.amazon.com/s?k=Drive%20cooling%20fan&tag=errorcodefixe-20) | Match voltage (24VDC common), CFM rating, and connector; order by drive model |
-| [Enclosure fan/filter](https://www.amazon.com/s?k=Enclosure%20fan%2Ffilter&tag=errorcodefixe-20) | Add to panel or enclosure if ambient is too high |
-| [Drive (upsized)](https://www.amazon.com/s?k=Drive%20(upsized)&tag=errorcodefixe-20) | If drive is running consistently near full current on an undersized application |
-
+| Drive cooling fan | [Amazon](https://www.amazon.com/s?k=Drive+cooling+fan&tag=errorcodefixes-20) \| Match voltage (24VDC common), CFM rating, and connector; order by drive model |
+| Enclosure fan/filter | [Amazon](https://www.amazon.com/s?k=Enclosure+fan%2Ffilter&tag=errorcodefixes-20) \| Add to panel or enclosure if ambient is too high |
+| Drive (upsized) | [Amazon](https://www.amazon.com/s?k=Drive+%28upsized%29&tag=errorcodefixes-20) \| If drive is running consistently near full current on an undersized application |
 ## When to Call a Pro
 
 If the drive trips OH at normal loads with confirmed good fan operation and acceptable ambient, the IGBT heatsink thermal paste may be degraded, or the thermistor reading may be inaccurate. These repairs require full drive disassembly and are best handled by a certified repair center.

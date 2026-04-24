@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ruud Furnace 4 Flashes — High Limit Switch Fault"
 description: "What 4 flashes on a Ruud furnace means, why the high limit switch trips, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -38,11 +38,10 @@ Ruud is a brand name for Rheem-manufactured furnaces — the products are nearly
 
 | Part | Notes |
 |------|-------|
-| [Air filter](https://www.amazon.com/s?k=Air%20filter&tag=errorcodefixe-20) | Check and replace first — resolves the majority of 4-flash faults |
-| [Blower motor run capacitor](https://www.amazon.com/s?k=Blower%20motor%20run%20capacitor&tag=errorcodefixe-20) | Test before replacing motor; most motor issues are bad capacitors |
-| [High-limit switch](https://www.amazon.com/s?k=High-limit%20switch&tag=errorcodefixe-20) | Match rated trip temperature from original switch |
-| [Blower motor](https://www.amazon.com/s?k=Blower%20motor&tag=errorcodefixe-20) | Replace if motor draws excess amps or is seized with good capacitor |
-
+| Air filter | [Amazon](https://www.amazon.com/s?k=Air+filter&tag=errorcodefixes-20) \| Check and replace first — resolves the majority of 4-flash faults |
+| Blower motor run capacitor | [Amazon](https://www.amazon.com/s?k=Blower+motor+run+capacitor&tag=errorcodefixes-20) \| Test before replacing motor; most motor issues are bad capacitors |
+| High-limit switch | [Amazon](https://www.amazon.com/s?k=High-limit+switch&tag=errorcodefixes-20) \| Match rated trip temperature from original switch |
+| Blower motor | [Amazon](https://www.amazon.com/s?k=Blower+motor&tag=errorcodefixes-20) \| Replace if motor draws excess amps or is seized with good capacitor |
 ## When to Call a Pro
 
 If the 4-flash fault persists after cleaning the filter, opening registers, and confirming the blower runs correctly, you may have a cracked heat exchanger causing secondary airflow disruption or combustion gas recirculation. This is a safety concern requiring combustion analysis and heat exchanger inspection by a licensed HVAC technician.

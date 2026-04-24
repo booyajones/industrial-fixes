@@ -54,13 +54,12 @@ A frozen evaporator from low airflow can look exactly like a refrigerant problem
 
 | Item | Notes |
 |------|-------|
-| Filter | First check on any no-cooling call |
-| Run capacitor | Frequent root cause on standard split systems |
-| Contactor | Burned contacts cause compressor issues |
-| Temperature sensor | Common on inverter and mini split gear |
-| Coil cleaner | Needed for real condenser cleaning |
-| Manifold gauges | Required for proper refrigerant diagnosis |
-
+| Filter | [Amazon](https://www.amazon.com/s?k=Filter&tag=errorcodefixes-20) \| First check on any no-cooling call |
+| Run capacitor | [Amazon](https://www.amazon.com/s?k=Run+capacitor&tag=errorcodefixes-20) \| Frequent root cause on standard split systems |
+| Contactor | [Amazon](https://www.amazon.com/s?k=Contactor&tag=errorcodefixes-20) \| Burned contacts cause compressor issues |
+| Temperature sensor | [Amazon](https://www.amazon.com/s?k=Temperature+sensor&tag=errorcodefixes-20) \| Common on inverter and mini split gear |
+| Coil cleaner | [Amazon](https://www.amazon.com/s?k=Coil+cleaner&tag=errorcodefixes-20) \| Needed for real condenser cleaning |
+| Manifold gauges | [Amazon](https://www.amazon.com/s?k=Manifold+gauges&tag=errorcodefixes-20) \| Required for proper refrigerant diagnosis |
 ## When to Call a Pro
 
 If the code points to low refrigerant, compressor overload, or repeated high-pressure trips that do not clear after coil cleaning and airflow correction, call a licensed HVAC tech. Those problems get expensive fast when systems are kept running anyway.

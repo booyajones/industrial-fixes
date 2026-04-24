@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mitsubishi Mini Split P6 Error Code Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-05T08:00:00Z
@@ -50,10 +50,12 @@ This is one of the most common Mitsubishi mini split faults — and one of the m
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Where to Buy | Typical Cost | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |-------------|-------------|
-| Condensate pump (Little Giant VCMA-20ULS) | [Amazon, Grainger](https://www.amazon.com/s?k=Amazon%2C%20Grainger&tag=errorcodefixe-20) | $60–$100 |
-| [Float switch (Rectorseal Sure Seal replacement)](https://www.amazon.com/s?k=Float%20switch%20(Rectorseal%20Sure%20Seal%20replacement)&tag=errorcodefixe-20) | HVAC distributor | $15–$35 | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 3/4" PVC drain line fittings and pipe | Home Depot | [$10–$20](https://www.amazon.com/s?k=%2410%E2%80%93%2420&tag=errorcodefixe-20) |  | Evaporator coil cleaner (Nu-Calgon 4171-75) | [Amazon, Johnstone Supply](https://www.amazon.com/s?k=Amazon%2C%20Johnstone%20Supply&tag=errorcodefixe-20) | $12–$20 |
-
+| Part | Where to Buy | Typical Cost |
+|------|-------------|-------------|
+| Condensate pump (Little Giant VCMA-20ULS) | [Amazon](https://www.amazon.com/s?k=Condensate+pump+%28Little+Giant+VCMA-20ULS%29&tag=errorcodefixes-20) \| Amazon, Grainger | $60–$100 |
+| Float switch (Rectorseal Sure Seal replacement) | [Amazon](https://www.amazon.com/s?k=Float+switch+%28Rectorseal+Sure+Seal+replacement%29&tag=errorcodefixes-20) \| HVAC distributor | $15–$35 |
+| 3/4" PVC drain line fittings and pipe | [Amazon](https://www.amazon.com/s?k=3%2F4%22+PVC+drain+line+fittings+and+pipe&tag=errorcodefixes-20) \| Home Depot | $10–$20 |
+| Evaporator coil cleaner (Nu-Calgon 4171-75) | [Amazon](https://www.amazon.com/s?k=Evaporator+coil+cleaner+%28Nu-Calgon+4171-75%29&tag=errorcodefixes-20) \| Amazon, Johnstone Supply | $12–$20 |
 ## When to Call a Professional
 
 If you've cleared the drain line, confirmed the slope is correct, cleaned the float switch, and the unit still throws P6 within a day or two — the coil may have biological growth deep in the fins that requires professional coil cleaning with pressurized equipment. Also call a tech if the drain pan itself is cracked or the float switch wiring is damaged. Tell them: "P6 float switch fault, drain line is clear and sloped correctly, float moves freely, but it keeps backing up. I need a coil cleaning and a second set of eyes on the installation."

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lennox iComfort Thermostat Error Codes — Complete Fix Guide"
 description: "What Lennox iComfort thermostat error codes mean, why they appear, and how to fix each one step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,10 +36,9 @@ The Lennox iComfort S30 and M30 communicating thermostats display numeric alert 
 
 | Part | Notes |
 |------|-------|
-| [iComfort S30 or M30 thermostat](https://www.amazon.com/s?k=iComfort%20S30%20or%20M30%20thermostat&tag=errorcodefixe-20) | Replace when internal sensor fails or Wi-Fi/communication hardware malfunctions |
-| [Low-voltage wiring (18/5)](https://www.amazon.com/s?k=Low-voltage%20wiring%20(18%2F5)&tag=errorcodefixe-20) | Replace if continuity test shows open conductors between components |
-| [Outdoor unit control board](https://www.amazon.com/s?k=Outdoor%20unit%20control%20board&tag=errorcodefixe-20) | Replace when equipment alert originates at the outdoor unit and board-level fault is confirmed |
-
+| iComfort S30 or M30 thermostat | [Amazon](https://www.amazon.com/s?k=iComfort+S30+or+M30+thermostat&tag=errorcodefixes-20) \| Replace when internal sensor fails or Wi-Fi/communication hardware malfunctions |
+| Low-voltage wiring (18/5) | [Amazon](https://www.amazon.com/s?k=Low-voltage+wiring+%2818%2F5%29&tag=errorcodefixes-20) \| Replace if continuity test shows open conductors between components |
+| Outdoor unit control board | [Amazon](https://www.amazon.com/s?k=Outdoor+unit+control+board&tag=errorcodefixes-20) \| Replace when equipment alert originates at the outdoor unit and board-level fault is confirmed |
 ## When to Call a Pro
 
 Equipment alerts from the outdoor unit (especially refrigerant or compressor faults) require a licensed HVAC tech with refrigerant certification to diagnose and repair. Communication alerts that persist after wiring inspection and reset may require Lennox's diagnostic tool (Lennox TechConnect) to read detailed fault logs.

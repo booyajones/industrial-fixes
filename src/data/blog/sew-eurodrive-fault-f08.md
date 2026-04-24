@@ -1,4 +1,4 @@
-﻿---
+---
 title: "SEW-Eurodrive Fault F08 — Causes & Fix"
 description: "What SEW-Eurodrive fault F08 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,10 +36,9 @@ SEW-Eurodrive fault F08 is a DC link overvoltage fault (also documented as "DC b
 
 | Part | Notes |
 |------|-------|
-| [Braking resistor (correctly sized)](https://www.amazon.com/s?k=Braking%20resistor%20(correctly%20sized)&tag=errorcodefixe-20) | Use SEW DriveSize or the manual's sizing table; get peak and average power correct |
-| [Brake chopper transistor / module](https://www.amazon.com/s?k=Brake%20chopper%20transistor%20%2F%20module&tag=errorcodefixe-20) | Replace if brake chopper output is confirmed not activating during regen |
-| [Autotransformer (step-down)](https://www.amazon.com/s?k=Autotransformer%20(step-down)&tag=errorcodefixe-20) | Install at drive input if line voltage consistently exceeds drive rating |
-
+| Braking resistor (correctly sized) | [Amazon](https://www.amazon.com/s?k=Braking+resistor+%28correctly+sized%29&tag=errorcodefixes-20) \| Use SEW DriveSize or the manual's sizing table; get peak and average power correct |
+| Brake chopper transistor / module | [Amazon](https://www.amazon.com/s?k=Brake+chopper+transistor+%2F+module&tag=errorcodefixes-20) \| Replace if brake chopper output is confirmed not activating during regen |
+| Autotransformer (step-down) | [Amazon](https://www.amazon.com/s?k=Autotransformer+%28step-down%29&tag=errorcodefixes-20) \| Install at drive input if line voltage consistently exceeds drive rating |
 ## When to Call a Pro
 
 If F08 occurs on a high-inertia application like a centrifuge or large conveyor and extending the decel ramp is not acceptable for the process, a regenerative drive unit (capable of feeding energy back to the utility) may be required. This is a system design decision that requires an application engineer.

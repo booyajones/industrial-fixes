@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Haas VF-4 Common Alarms Guide — What They Mean and How to Fix Them"
 description: "Complete guide to common Haas VF-4 alarms, including spindle, tool changer, axis, and overtravel faults with practical troubleshooting steps."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -20,16 +20,16 @@ The Haas VF-4 shares much of its alarm logic with the VF-2, but the larger trave
 
 ## Common Haas VF-4 Alarm Groups
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning |
+| Code | Meaning |
 |------|---------|
-| [102/103/104](https://www.amazon.com/s?k=102%2F103%2F104&tag=errorcodefixe-20) | Axis servo fault on X/Y/Z |
-| [108](https://www.amazon.com/s?k=108&tag=errorcodefixe-20) | No motion detected |
-| [120](https://www.amazon.com/s?k=120&tag=errorcodefixe-20) | Tool changer fault |
-| [125](https://www.amazon.com/s?k=125&tag=errorcodefixe-20) | Carousel fault |
-| [134](https://www.amazon.com/s?k=134&tag=errorcodefixe-20) | Spindle drive fault |
-| [114/115](https://www.amazon.com/s?k=114%2F115&tag=errorcodefixe-20) | Spindle overload / overheat |
-| [1-6](https://www.amazon.com/s?k=1-6&tag=errorcodefixe-20) | Overtravel alarms |
-| [439](https://www.amazon.com/s?k=439&tag=errorcodefixe-20) | Servo amplifier overload |
+| 102/103/104 | Axis servo fault on X/Y/Z |
+| 108 | No motion detected |
+| 120 | Tool changer fault |
+| 125 | Carousel fault |
+| 134 | Spindle drive fault |
+| 114/115 | Spindle overload / overheat |
+| 1-6 | Overtravel alarms |
+| 439 | Servo amplifier overload |
 
 ## Common Causes by Code
 
@@ -52,13 +52,12 @@ The Haas VF-4 shares much of its alarm logic with the VF-2, but the larger trave
 
 | Part | Notes |
 |------|-------|
-| [Air system components](https://www.amazon.com/s?k=Air%20system%20components&tag=errorcodefixe-20) | Tool changer reliability depends on clean, dry air |
-| [Way wipers / covers](https://www.amazon.com/s?k=Way%20wipers%20%2F%20covers&tag=errorcodefixe-20) | Frequent source of binding on bigger VMCs |
-| [Servo amp](https://www.amazon.com/s?k=Servo%20amp&tag=errorcodefixe-20) | For repeat drive alarms |
-| [Encoder or cable](https://www.amazon.com/s?k=Encoder%20or%20cable&tag=errorcodefixe-20) | Intermittent axis problems |
-| [Prox sensors](https://www.amazon.com/s?k=Prox%20sensors&tag=errorcodefixe-20) | ATC and home position feedback |
-| [Lubrication parts](https://www.amazon.com/s?k=Lubrication%20parts&tag=errorcodefixe-20) | Low lube creates expensive motion problems |
-
+| Air system components | [Amazon](https://www.amazon.com/s?k=Air+system+components&tag=errorcodefixes-20) \| Tool changer reliability depends on clean, dry air |
+| Way wipers / covers | [Amazon](https://www.amazon.com/s?k=Way+wipers+%2F+covers&tag=errorcodefixes-20) \| Frequent source of binding on bigger VMCs |
+| Servo amp | [Amazon](https://www.amazon.com/s?k=Servo+amp&tag=errorcodefixes-20) \| For repeat drive alarms |
+| Encoder or cable | [Amazon](https://www.amazon.com/s?k=Encoder+or+cable&tag=errorcodefixes-20) \| Intermittent axis problems |
+| Prox sensors | [Amazon](https://www.amazon.com/s?k=Prox+sensors&tag=errorcodefixes-20) \| ATC and home position feedback |
+| Lubrication parts | [Amazon](https://www.amazon.com/s?k=Lubrication+parts&tag=errorcodefixes-20) \| Low lube creates expensive motion problems |
 ## When to Call a Pro
 
 If the VF-4 is faulting after a crash or has rising axis load over time, stop and inspect mechanically. Bigger Haas machines hide binding for a while, then suddenly turn it into a much more expensive repair.

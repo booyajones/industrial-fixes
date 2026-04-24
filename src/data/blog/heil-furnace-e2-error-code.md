@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Heil Furnace E2 Error Code — Causes & Fix"
 description: "What Heil furnace error code E2 means, why the pressure switch sticks closed, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -37,9 +37,8 @@ E2 on a Heil furnace indicates the pressure switch is stuck in the closed positi
 
 | Part | Notes |
 |------|-------|
-| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Use the OEM water column rating; aftermarket switches must match exactly |
-| [Pressure switch hose](https://www.amazon.com/s?k=Pressure%20switch%20hose&tag=errorcodefixe-20) | Replace if cracked or if condensate was present |
-
+| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Use the OEM water column rating; aftermarket switches must match exactly |
+| Pressure switch hose | [Amazon](https://www.amazon.com/s?k=Pressure+switch+hose&tag=errorcodefixes-20) \| Replace if cracked or if condensate was present |
 ## When to Call a Pro
 
 If the wiring harness shows signs of rodent damage or burn marks, or if replacing the pressure switch does not clear E2, call a technician — there may be a control board fault misinterpreting the circuit.

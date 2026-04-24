@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Navien Error Code E024 — Overheat / High Temperature Cutoff"
 description: "Navien tankless water heater Error Code E024 means the unit has detected an overheat condition. Learn causes, diagnostic steps, and how to fix Navien E024."
 pubDatetime: 2026-04-22T17:00:00Z
@@ -29,15 +29,15 @@ Navien units shut down on E024 when the heat exchanger temperature exceeds the t
 
 ## Common Causes {#most-likely-cause}
 
-| [Cause](https://www.amazon.com/s?k=Cause&tag=errorcodefixe-20) | Likelihood |
+| Cause | Likelihood |
 |---|---|
-| [Scaled/blocked heat exchanger (calcium buildup)](https://www.amazon.com/s?k=Scaled%2Fblocked%20heat%20exchanger%20(calcium%20buildup)&tag=errorcodefixe-20) | Very High |
-| [Low water flow rate](https://www.amazon.com/s?k=Low%20water%20flow%20rate&tag=errorcodefixe-20) | High |
-| [Thermostat setpoint too high](https://www.amazon.com/s?k=Thermostat%20setpoint%20too%20high&tag=errorcodefixe-20) | High |
-| [Blown thermal fuse](https://www.amazon.com/s?k=Blown%20thermal%20fuse&tag=errorcodefixe-20) | Medium |
-| [Failed thermistor reading too low (false overheat)](https://www.amazon.com/s?k=Failed%20thermistor%20reading%20too%20low%20(false%20overheat)&tag=errorcodefixe-20) | Medium |
-| [Recirculation pump running without flow](https://www.amazon.com/s?k=Recirculation%20pump%20running%20without%20flow&tag=errorcodefixe-20) | Low |
-| [Failed gas modulation (burner stuck at high fire)](https://www.amazon.com/s?k=Failed%20gas%20modulation%20(burner%20stuck%20at%20high%20fire)&tag=errorcodefixe-20) | Low |
+| Scaled/blocked heat exchanger (calcium buildup) | Very High |
+| Low water flow rate | High |
+| Thermostat setpoint too high | High |
+| Blown thermal fuse | Medium |
+| Failed thermistor reading too low (false overheat) | Medium |
+| Recirculation pump running without flow | Low |
+| Failed gas modulation (burner stuck at high fire) | Low |
 
 ## Step-by-Step Diagnosis {#diagnosis}
 
@@ -80,9 +80,8 @@ Navien units shut down on E024 when the heat exchanger temperature exceeds the t
 
 | Part | Notes |
 |---|---|
-| [Thermal fuse](https://www.amazon.com/s?k=Thermal%20fuse&tag=errorcodefixe-20) | Navien part B001-41 or equivalent — match temperature rating |
-| [Outlet thermistor](https://www.amazon.com/s?k=Outlet%20thermistor&tag=errorcodefixe-20) | Navien part — check resistance at known temperature |
-| [Inlet filter screen](https://www.amazon.com/s?k=Inlet%20filter%20screen&tag=errorcodefixe-20) | Stainless mesh — clean every 6 months in hard water areas |
-| [Descaling kit](https://www.amazon.com/s?k=Descaling%20kit&tag=errorcodefixe-20) | Pump + hoses + solution — available from Navien or plumbing supply |
-
+| Thermal fuse | [Amazon](https://www.amazon.com/s?k=Thermal+fuse&tag=errorcodefixes-20) \| Navien part B001-41 or equivalent — match temperature rating |
+| Outlet thermistor | [Amazon](https://www.amazon.com/s?k=Outlet+thermistor&tag=errorcodefixes-20) \| Navien part — check resistance at known temperature |
+| Inlet filter screen | [Amazon](https://www.amazon.com/s?k=Inlet+filter+screen&tag=errorcodefixes-20) \| Stainless mesh — clean every 6 months in hard water areas |
+| Descaling kit | [Amazon](https://www.amazon.com/s?k=Descaling+kit&tag=errorcodefixes-20) \| Pump + hoses + solution — available from Navien or plumbing supply |
 > **Warning:** E024 is a safety shutdown. Never bypass or disable the thermal fuse. If E024 occurs repeatedly after descaling, the heat exchanger may be permanently damaged and require replacement.

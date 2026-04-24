@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mazak Alarm 50 Servo — Causes & Fix"
 description: "What Mazak CNC alarm 50 servo drive fault means, how to diagnose it, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,11 +36,10 @@ Alarm 50 on a Mazak CNC (Mazatrol T32, M32, Fusion 640, Matrix, Smooth controls)
 
 | Part | Notes |
 |------|-------|
-| [MDS servo amplifier](https://www.amazon.com/s?k=MDS%20servo%20amplifier&tag=errorcodefixe-20) | Mitsubishi MDS-B, MDS-C1, or MDS-D series depending on control vintage |
-| [OSA absolute encoder](https://www.amazon.com/s?k=OSA%20absolute%20encoder&tag=errorcodefixe-20) | Mitsubishi OEM; requires reference point recovery after replacement |
-| [Encoder backup battery](https://www.amazon.com/s?k=Encoder%20backup%20battery&tag=errorcodefixe-20) | 3.6V lithium; replace every 3–5 years |
-| [Cabinet cooling fan](https://www.amazon.com/s?k=Cabinet%20cooling%20fan&tag=errorcodefixe-20) | Match electrical cabinet specifications |
-
+| MDS servo amplifier | [Amazon](https://www.amazon.com/s?k=MDS+servo+amplifier&tag=errorcodefixes-20) \| Mitsubishi MDS-B, MDS-C1, or MDS-D series depending on control vintage |
+| OSA absolute encoder | [Amazon](https://www.amazon.com/s?k=OSA+absolute+encoder&tag=errorcodefixes-20) \| Mitsubishi OEM; requires reference point recovery after replacement |
+| Encoder backup battery | [Amazon](https://www.amazon.com/s?k=Encoder+backup+battery&tag=errorcodefixes-20) \| 3.6V lithium; replace every 3–5 years |
+| Cabinet cooling fan | [Amazon](https://www.amazon.com/s?k=Cabinet+cooling+fan&tag=errorcodefixes-20) \| Match electrical cabinet specifications |
 ## When to Call a Pro
 
 Mazak servo system repair — especially on Smooth-series machines — requires Mazak-authorized service. Incorrect amplifier parameters or encoder setup after component replacement causes axis runaway or positioning errors that scrap parts and can damage the machine.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Navien Error Code E003 — Ignition Failure Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-15T08:00:00Z
@@ -50,9 +50,12 @@ This is the most common fault code on Navien's extensive line of residential and
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Part Number | Typical Cost | [Where to Buy](https://www.amazon.com/s?k=Where%20to%20Buy&tag=errorcodefixe-20) |  |------|------------|-------------|-------------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Navien Igniter (NPE-A/S) | BH2040180A | [$50–$65](https://www.amazon.com/s?k=%2450%E2%80%93%2465&tag=errorcodefixe-20) | SupplyHouse / Amazon |
-| [Navien Flame Sensor (Rod)](https://www.amazon.com/s?k=Navien%20Flame%20Sensor%20(Rod)&tag=errorcodefixe-20) | 30010972A | $25–$40 | [SupplyHouse / Amazon](https://www.amazon.com/s?k=SupplyHouse%20%2F%20Amazon&tag=errorcodefixe-20) |  | Navien Gas Valve (NPE-A/S) | [BH1680178A](https://www.amazon.com/s?k=BH1680178A&tag=errorcodefixe-20) | $170–$200 | SupplyHouse / Navien Parts | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Navien Condensate Trap | 30011532A | [$15–$25](https://www.amazon.com/s?k=%2415%E2%80%93%2425&tag=errorcodefixe-20) | SupplyHouse |
-
+| Part | Part Number | Typical Cost | Where to Buy |
+|------|------------|-------------|-------------|
+| Navien Igniter (NPE-A/S) | BH2040180A | $50–$65 | [Amazon](https://www.amazon.com/s?k=BH2040180A+Navien+Igniter+%28NPE-A%2FS%29&tag=errorcodefixes-20) \| SupplyHouse / Amazon |
+| Navien Flame Sensor (Rod) | 30010972A | $25–$40 | [Amazon](https://www.amazon.com/s?k=30010972A+Navien+Flame+Sensor+%28Rod%29&tag=errorcodefixes-20) \| SupplyHouse / Amazon |
+| Navien Gas Valve (NPE-A/S) | BH1680178A | $170–$200 | [Amazon](https://www.amazon.com/s?k=BH1680178A+Navien+Gas+Valve+%28NPE-A%2FS%29&tag=errorcodefixes-20) \| SupplyHouse / Navien Parts |
+| Navien Condensate Trap | 30011532A | $15–$25 | [Amazon](https://www.amazon.com/s?k=30011532A+Navien+Condensate+Trap&tag=errorcodefixes-20) \| SupplyHouse |
 ## When to Call a Professional
 
 Diagnosing gas pressure issues requires a manometer and experience. Any work involving disconnecting the gas line, including replacing the gas valve, must be performed by a licensed plumber or HVAC technician. Additionally, after any repair that affects combustion, a Navien boiler or water heater should have its combustion performance checked with a calibrated combustion analyzer to ensure CO levels are safe and the unit is operating at peak efficiency. If you've cleaned the flame sensor and checked for obvious blockages and the E003 code persists, it's time to call a Navien-certified technician.

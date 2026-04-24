@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mitsubishi E3 Error Code — Indoor Fan Motor Fault Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-04-06T08:00:00Z
@@ -46,9 +46,9 @@ If wiring and motor are correct and the fault persists, the indoor PCB fan drive
 
 | Part | Where to Buy |
 |------|-------------|
-| [Indoor fan (cross-flow blower motor)](https://www.amazon.com/s?k=Indoor%20fan%20(cross-flow%20blower%20motor)&tag=errorcodefixe-20) | SupplyHouse, Grainger |
-| [Indoor unit PCB](https://www.amazon.com/s?k=Indoor%20unit%20PCB&tag=errorcodefixe-20) | SupplyHouse, RepairClinic |
-| [Coil cleaner / no-rinse coil spray](https://www.amazon.com/s?k=Coil%20cleaner%20%2F%20no-rinse%20coil%20spray&tag=errorcodefixe-20) | Amazon, Grainger |
+| Indoor fan (cross-flow blower motor) | SupplyHouse, Grainger |
+| Indoor unit PCB | SupplyHouse, RepairClinic |
+| Coil cleaner / no-rinse coil spray | Amazon, Grainger |
 
 ## When to Call a Technician
 

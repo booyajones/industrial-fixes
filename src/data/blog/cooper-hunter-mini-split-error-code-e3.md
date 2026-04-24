@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Cooper & Hunter Mini Split E3 Error Code — Causes & Fix"
 description: "What Cooper & Hunter mini split error code E3 means, why low pressure protection trips, and how to diagnose and fix it."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -38,11 +38,10 @@ E3 on a Cooper & Hunter mini split indicates a low pressure fault. The low-press
 
 | Part | Notes |
 |------|-------|
-| [Indoor air filter](https://www.amazon.com/s?k=Indoor%20air%20filter&tag=errorcodefixe-20) | Clean or replace; check monthly |
-| [Electronic expansion valve (EEV)](https://www.amazon.com/s?k=Electronic%20expansion%20valve%20(EEV)&tag=errorcodefixe-20) | Replace if valve is confirmed stuck closed |
-| [Refrigerant (R-410A)](https://www.amazon.com/s?k=Refrigerant%20(R-410A)&tag=errorcodefixe-20) | Recharge after leak repair, by certified technician |
-| [Flare fitting / line set](https://www.amazon.com/s?k=Flare%20fitting%20%2F%20line%20set&tag=errorcodefixe-20) | Replace if leak is at connection point |
-
+| Indoor air filter | [Amazon](https://www.amazon.com/s?k=Indoor+air+filter&tag=errorcodefixes-20) \| Clean or replace; check monthly |
+| Electronic expansion valve (EEV) | [Amazon](https://www.amazon.com/s?k=Electronic+expansion+valve+%28EEV%29&tag=errorcodefixes-20) \| Replace if valve is confirmed stuck closed |
+| Refrigerant (R-410A) | [Amazon](https://www.amazon.com/s?k=Refrigerant+%28R-410A%29&tag=errorcodefixes-20) \| Recharge after leak repair, by certified technician |
+| Flare fitting / line set | [Amazon](https://www.amazon.com/s?k=Flare+fitting+%2F+line+set&tag=errorcodefixes-20) \| Replace if leak is at connection point |
 ## When to Call a Pro
 
 Any diagnosis beyond cleaning the filter and clearing ice requires manifold gauges and EPA Section 608 certification. Refrigerant work must be done by a licensed technician.

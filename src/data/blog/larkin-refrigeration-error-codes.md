@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Larkin Refrigeration Error Code Guide — Causes & Fixes"
 description: "Larkin unit cooler error codes: what each alarm means and how to fix it."
 pubDatetime: 2026-04-22T17:00:00Z
@@ -15,10 +15,15 @@ tags:
 
 Larkin is a Heatcraft Refrigeration Products brand used in walk-in coolers and freezers across grocery, foodservice, and cold storage. Like Bohn and other Heatcraft brands, Larkin unit coolers share the same EC controller platform with identical alarm codes.
 
-| [Alarm](https://www.amazon.com/s?k=Alarm&tag=errorcodefixe-20) | Meaning | Urgency | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------- |---------|---------|
-| 1 | [High temperature alarm](https://www.amazon.com/s?k=High%20temperature%20alarm&tag=errorcodefixe-20) | High |
-| [2](https://www.amazon.com/s?k=2&tag=errorcodefixe-20) | High discharge temperature | High | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 3 | Low suction pressure | [Medium](https://www.amazon.com/s?k=Medium&tag=errorcodefixe-20) |  | 4 | [High suction pressure](https://www.amazon.com/s?k=High%20suction%20pressure&tag=errorcodefixe-20) | Medium |
-| [5](https://www.amazon.com/s?k=5&tag=errorcodefixe-20) | Defrost termination fault | Medium | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 6 | Evaporator fan motor fault | [High](https://www.amazon.com/s?k=High&tag=errorcodefixe-20) |  | 7 | [Temperature sensor fault](https://www.amazon.com/s?k=Temperature%20sensor%20fault&tag=errorcodefixe-20) | Medium |
+| Alarm | Meaning | Urgency |
+|-------|---------|---------|
+| 1 | High temperature alarm | High |
+| 2 | High discharge temperature | High |
+| 3 | Low suction pressure | Medium |
+| 4 | High suction pressure | Medium |
+| 5 | Defrost termination fault | Medium |
+| 6 | Evaporator fan motor fault | High |
+| 7 | Temperature sensor fault | Medium |
 
 [Jump to Fix](#fix)
 
@@ -43,10 +48,9 @@ Replace NTC air temperature sensor if resistance is out of spec (open or near-ze
 
 | Part | Notes |
 |------|-------|
-| [Evaporator fan motor](https://www.amazon.com/s?k=Evaporator%20fan%20motor&tag=errorcodefixe-20) | Match to Larkin unit cooler model and voltage |
-| [NTC temperature sensor](https://www.amazon.com/s?k=NTC%20temperature%20sensor&tag=errorcodefixe-20) | Larkin/Heatcraft part |
-| [Defrost heater](https://www.amazon.com/s?k=Defrost%20heater&tag=errorcodefixe-20) | Match wattage and voltage |
-
+| Evaporator fan motor | [Amazon](https://www.amazon.com/s?k=Evaporator+fan+motor&tag=errorcodefixes-20) \| Match to Larkin unit cooler model and voltage |
+| NTC temperature sensor | [Amazon](https://www.amazon.com/s?k=NTC+temperature+sensor&tag=errorcodefixes-20) \| Larkin/Heatcraft part |
+| Defrost heater | [Amazon](https://www.amazon.com/s?k=Defrost+heater&tag=errorcodefixes-20) \| Match wattage and voltage |
 ## When to Call a Pro
 
 Pressure alarms (3 and 4) require EPA 608 certified technician for refrigerant diagnosis and repair.

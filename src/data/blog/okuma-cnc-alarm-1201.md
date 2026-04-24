@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Okuma CNC Alarm 1201 — Causes & Fix"
 description: "What Okuma CNC alarm 1201 spindle overload means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,10 +36,9 @@ Okuma CNC alarm 1201 indicates a spindle overload — the spindle drive (OKUMA O
 
 | Part | Notes |
 |------|-------|
-| [Spindle amplifier cooling fan](https://www.amazon.com/s?k=Spindle%20amplifier%20cooling%20fan&tag=errorcodefixe-20) | Match voltage and airflow; Okuma spindle drives use 24VDC fans typically |
-| [Cutting inserts / tooling](https://www.amazon.com/s?k=Cutting%20inserts%20%2F%20tooling&tag=errorcodefixe-20) | Replace any worn cutting edges before resuming operation |
-| [Spindle bearings](https://www.amazon.com/s?k=Spindle%20bearings&tag=errorcodefixe-20) | Replace if drag is confirmed via manual spindle rotation test |
-
+| Spindle amplifier cooling fan | [Amazon](https://www.amazon.com/s?k=Spindle+amplifier+cooling+fan&tag=errorcodefixes-20) \| Match voltage and airflow; Okuma spindle drives use 24VDC fans typically |
+| Cutting inserts / tooling | [Amazon](https://www.amazon.com/s?k=Cutting+inserts+%2F+tooling&tag=errorcodefixes-20) \| Replace any worn cutting edges before resuming operation |
+| Spindle bearings | [Amazon](https://www.amazon.com/s?k=Spindle+bearings&tag=errorcodefixes-20) \| Replace if drag is confirmed via manual spindle rotation test |
 ## When to Call a Pro
 
 If alarm 1201 returns at cutting parameters well within the tool manufacturer's recommendations and with confirmed good tooling, the spindle motor may have insulation degradation that reduces effective winding capacity. An Okuma service technician can measure motor efficiency and spindle bearing preload.

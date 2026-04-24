@@ -1,4 +1,4 @@
-﻿---
+---
 title: "WaterFurnace Geothermal Fault Code 1 — Low Pressure Lockout"
 description: "WaterFurnace geothermal heat pump Fault Code 1 means low refrigerant pressure lockout. Learn the causes, diagnostic steps, and how to fix this geothermal fault."
 pubDatetime: 2026-04-22T17:00:00Z
@@ -29,10 +29,15 @@ The low-pressure switch monitors suction-side refrigerant pressure. When pressur
 
 ## Common Causes {#most-likely-cause}
 
-| [Cause](https://www.amazon.com/s?k=Cause&tag=errorcodefixe-20) | Likelihood | Season | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | --- |---|---|
-| Low refrigerant charge (leak) | [High](https://www.amazon.com/s?k=High&tag=errorcodefixe-20) | Any |
-| [Dirty air coil / blower filter](https://www.amazon.com/s?k=Dirty%20air%20coil%20%2F%20blower%20filter&tag=errorcodefixe-20) | High | Any | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Low airflow across air coil | High | [Any](https://www.amazon.com/s?k=Any&tag=errorcodefixe-20) |  | Failing TXV (thermal expansion valve) | [Medium](https://www.amazon.com/s?k=Medium&tag=errorcodefixe-20) | Any |
-| [Low loop fluid temperature](https://www.amazon.com/s?k=Low%20loop%20fluid%20temperature&tag=errorcodefixe-20) | Medium | Winter | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Air in the ground loop | Medium | [Any](https://www.amazon.com/s?k=Any&tag=errorcodefixe-20) |  | Failed or stuck low-pressure switch | [Low](https://www.amazon.com/s?k=Low&tag=errorcodefixe-20) | Any |
+| Cause | Likelihood | Season |
+|---|---|---|
+| Low refrigerant charge (leak) | High | Any |
+| Dirty air coil / blower filter | High | Any |
+| Low airflow across air coil | High | Any |
+| Failing TXV (thermal expansion valve) | Medium | Any |
+| Low loop fluid temperature | Medium | Winter |
+| Air in the ground loop | Medium | Any |
+| Failed or stuck low-pressure switch | Low | Any |
 
 ## Step-by-Step Diagnosis {#diagnosis}
 
@@ -73,9 +78,8 @@ WaterFurnace units allow up to 3 fault trips before hard lockout:
 
 | Part | Notes |
 |---|---|
-| [Low-pressure switch](https://www.amazon.com/s?k=Low-pressure%20switch&tag=errorcodefixe-20) | WaterFurnace part 8733800700 or equivalent |
-| [TXV assembly](https://www.amazon.com/s?k=TXV%20assembly&tag=errorcodefixe-20) | Must match refrigerant type and capacity |
-| [Loop pump](https://www.amazon.com/s?k=Loop%20pump&tag=errorcodefixe-20) | Grundfos or Bell & Gossett — match GPM and head |
-| [Blower run capacitor](https://www.amazon.com/s?k=Blower%20run%20capacitor&tag=errorcodefixe-20) | Match µF and voltage |
-
+| Low-pressure switch | [Amazon](https://www.amazon.com/s?k=Low-pressure+switch&tag=errorcodefixes-20) \| WaterFurnace part 8733800700 or equivalent |
+| TXV assembly | [Amazon](https://www.amazon.com/s?k=TXV+assembly&tag=errorcodefixes-20) \| Must match refrigerant type and capacity |
+| Loop pump | [Amazon](https://www.amazon.com/s?k=Loop+pump&tag=errorcodefixes-20) \| Grundfos or Bell & Gossett — match GPM and head |
+| Blower run capacitor | [Amazon](https://www.amazon.com/s?k=Blower+run+capacitor&tag=errorcodefixes-20) \| Match µF and voltage |
 > **Important:** WaterFurnace geothermal units require EPA 608-certified technicians for refrigerant work. Low refrigerant always means a leak — find and repair before recharging.

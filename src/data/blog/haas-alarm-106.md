@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Haas Alarm 106 — Causes & Fix"
 description: "What Haas alarm 106 servo fault means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,10 +36,9 @@ Haas alarm 106 is a servo fault indicating the servo drive board detected an err
 
 | Part | Notes |
 |------|-------|
-| [Haas servo drive board](https://www.amazon.com/s?k=Haas%20servo%20drive%20board&tag=errorcodefixe-20) | Order by machine serial number from Haas Factory Outlet (HFO) |
-| [Servo motor (axis-specific)](https://www.amazon.com/s?k=Servo%20motor%20(axis-specific)&tag=errorcodefixe-20) | Replace if motor winding is confirmed damaged |
-| [Motor cable harness](https://www.amazon.com/s?k=Motor%20cable%20harness&tag=errorcodefixe-20) | Replace if insulation damage or connector corrosion found |
-
+| Haas servo drive board | [Amazon](https://www.amazon.com/s?k=Haas+servo+drive+board&tag=errorcodefixes-20) \| Order by machine serial number from Haas Factory Outlet (HFO) |
+| Servo motor (axis-specific) | [Amazon](https://www.amazon.com/s?k=Servo+motor+%28axis-specific%29&tag=errorcodefixes-20) \| Replace if motor winding is confirmed damaged |
+| Motor cable harness | [Amazon](https://www.amazon.com/s?k=Motor+cable+harness&tag=errorcodefixes-20) \| Replace if insulation damage or connector corrosion found |
 ## When to Call a Pro
 
 If the mechanical axis is clear, the motor cable is intact, and the drive board has no visible damage but alarm 106 persists or returns immediately, contact Haas Factory Outlet (HFO) tech support. They can walk through servo diagnostics over the phone or dispatch a service engineer.

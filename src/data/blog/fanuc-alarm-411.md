@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fanuc Alarm 411 — Causes & Fix"
 description: "What Fanuc Alarm 411 servo error means, why it trips, and how to diagnose and fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,10 +36,9 @@ Fanuc **Alarm 411** is a **Servo Alarm** — specifically a radial direction ove
 
 | Part | Notes |
 |------|-------|
-| [Encoder feedback cable](https://www.amazon.com/s?k=Encoder%20feedback%20cable&tag=errorcodefixe-20) | Replace if cable shows any physical damage or intermittent continuity |
-| [Servo amplifier module](https://www.amazon.com/s?k=Servo%20amplifier%20module&tag=errorcodefixe-20) | Replace when amplifier-side alarm code points to internal failure |
-| [Servo motor](https://www.amazon.com/s?k=Servo%20motor&tag=errorcodefixe-20) | Replace when encoder or motor winding tests confirm motor-side failure |
-
+| Encoder feedback cable | [Amazon](https://www.amazon.com/s?k=Encoder+feedback+cable&tag=errorcodefixes-20) \| Replace if cable shows any physical damage or intermittent continuity |
+| Servo amplifier module | [Amazon](https://www.amazon.com/s?k=Servo+amplifier+module&tag=errorcodefixes-20) \| Replace when amplifier-side alarm code points to internal failure |
+| Servo motor | [Amazon](https://www.amazon.com/s?k=Servo+motor&tag=errorcodefixes-20) \| Replace when encoder or motor winding tests confirm motor-side failure |
 ## When to Call a Pro
 
 Alarm 411 root-cause diagnosis often requires oscilloscope-level servo trace analysis and Fanuc SERVO GUIDE software. Fanuc-certified service engineers and CNC machine tool dealers' service departments have this tooling and training.

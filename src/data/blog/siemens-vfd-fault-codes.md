@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Siemens VFD Fault Codes — SINAMICS G120, V20, S120 Guide"
 description: "Siemens VFD fault codes: F-codes and A-codes for SINAMICS G120, V20, S120, and Micromaster 440 drives with causes and fixes."
 pubDatetime: 2026-04-22T16:00:00Z
@@ -15,12 +15,24 @@ tags:
 
 Siemens SINAMICS drives use **F-codes** (faults that stop the drive) and **A-codes** (alarms that allow continued operation). Codes are displayed on the BOP-2 operator panel or via STARTER/SINAMICS Startdrive software. The Micromaster 4xx series uses slightly different fault numbering.
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Drive | Meaning | [Common Fix](https://www.amazon.com/s?k=Common%20Fix&tag=errorcodefixe-20) |  |------|-------|---------|-----------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | F00001 | G120/S120 | [Overcurrent](https://www.amazon.com/s?k=Overcurrent&tag=errorcodefixe-20) | Check motor; extend ramp |
-| [F00002](https://www.amazon.com/s?k=F00002&tag=errorcodefixe-20) | G120/S120 | Overvoltage | [Extend decel; add brake resistor](https://www.amazon.com/s?k=Extend%20decel%3B%20add%20brake%20resistor&tag=errorcodefixe-20) |  | F00003 | [G120/S120](https://www.amazon.com/s?k=G120%2FS120&tag=errorcodefixe-20) | Undervoltage | Check supply voltage | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | F00004 | G120/S120 | [Drive overtemperature](https://www.amazon.com/s?k=Drive%20overtemperature&tag=errorcodefixe-20) | Clean fan; check ambient |
-| [F00011](https://www.amazon.com/s?k=F00011&tag=errorcodefixe-20) | G120/S120 | Motor overcurrent | [Check motor FLA parameter](https://www.amazon.com/s?k=Check%20motor%20FLA%20parameter&tag=errorcodefixe-20) |  | F00012 | [G120](https://www.amazon.com/s?k=G120&tag=errorcodefixe-20) | Motor overtemperature | Check motor temp sensor | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | F00015 | G120 | [Motor phase loss](https://www.amazon.com/s?k=Motor%20phase%20loss&tag=errorcodefixe-20) | Check motor cable |
-| [F00021](https://www.amazon.com/s?k=F00021&tag=errorcodefixe-20) | G120/V20 | Ground fault | [Megger motor and cable](https://www.amazon.com/s?k=Megger%20motor%20and%20cable&tag=errorcodefixe-20) |  | F00051 | [G120](https://www.amazon.com/s?k=G120&tag=errorcodefixe-20) | Parameter EEPROM fault | Save parameters; check NVRAM | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | F00052 | G120 | [CU EEPROM fault](https://www.amazon.com/s?k=CU%20EEPROM%20fault&tag=errorcodefixe-20) | Replace Control Unit |
-| [F00070](https://www.amazon.com/s?k=F00070&tag=errorcodefixe-20) | G120 | Communication fault (PROFIBUS/PN) | [Check fieldbus connection](https://www.amazon.com/s?k=Check%20fieldbus%20connection&tag=errorcodefixe-20) |  | F1 | [V20](https://www.amazon.com/s?k=V20&tag=errorcodefixe-20) | Overcurrent | Check motor and ramp | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | F4 | V20 | [Underload](https://www.amazon.com/s?k=Underload&tag=errorcodefixe-20) | Check belt/pump; verify load |
-| [F001](https://www.amazon.com/s?k=F001&tag=errorcodefixe-20) | MM440 | Overcurrent | [Reduce accel ramp; check motor](https://www.amazon.com/s?k=Reduce%20accel%20ramp%3B%20check%20motor&tag=errorcodefixe-20) | ## Most Common Codes
+| Code | Drive | Meaning | Common Fix |
+|------|-------|---------|-----------|
+| F00001 | G120/S120 | Overcurrent | Check motor; extend ramp |
+| F00002 | G120/S120 | Overvoltage | Extend decel; add brake resistor |
+| F00003 | G120/S120 | Undervoltage | Check supply voltage |
+| F00004 | G120/S120 | Drive overtemperature | Clean fan; check ambient |
+| F00011 | G120/S120 | Motor overcurrent | Check motor FLA parameter |
+| F00012 | G120 | Motor overtemperature | Check motor temp sensor |
+| F00015 | G120 | Motor phase loss | Check motor cable |
+| F00021 | G120/V20 | Ground fault | Megger motor and cable |
+| F00051 | G120 | Parameter EEPROM fault | Save parameters; check NVRAM |
+| F00052 | G120 | CU EEPROM fault | Replace Control Unit |
+| F00070 | G120 | Communication fault (PROFIBUS/PN) | Check fieldbus connection |
+| F1 | V20 | Overcurrent | Check motor and ramp |
+| F4 | V20 | Underload | Check belt/pump; verify load |
+| F001 | MM440 | Overcurrent | Reduce accel ramp; check motor |
+
+## Most Common Codes
 
 ### F00001: Overcurrent (SINAMICS G120/S120)
 The output current exceeded the configured threshold. On G120, the fault threshold depends on the selected overload category (e.g., HO — High Overload 200% for 3 sec, LO — Low Overload 110% continuous). Verify p0640 (current limit) is set appropriately. Check motor data in p0304–p0311 matches nameplate. If the motor was replaced with a different frame size, re-run the motor identification routine (p1910 = 1 then run).
@@ -50,8 +62,13 @@ The non-volatile memory used to store drive parameters has a fault. For F00051 (
 - **STARTER software:** Use the drive control panel or fault list acknowledgment.
 - **Power cycle:** Cycling 24V control power clears most faults after the cause is resolved.
 
-## Parts Often Needed | Part | [Notes](https://www.amazon.com/s?k=Notes&tag=errorcodefixe-20) |  |------|-------|
-| Control Unit | [G120 CU240E-2, CU250S-2 — match order code](https://www.amazon.com/s?k=G120%20CU240E-2%2C%20CU250S-2%20%E2%80%94%20match%20order%20code&tag=errorcodefixe-20) |  | Power Module fan | [PM230/240 frame B–F fans available separately](https://www.amazon.com/s?k=PM230%2F240%20frame%20B%E2%80%93F%20fans%20available%20separately&tag=errorcodefixe-20) |  | Braking resistor | [SINAMICS BRT or equivalent](https://www.amazon.com/s?k=SINAMICS%20BRT%20or%20equivalent&tag=errorcodefixe-20) |  | BOP-2 panel | 6SL3255-0AA00-4CA1 |
+## Parts Often Needed
 
+| Part | Notes |
+|------|-------|
+| Control Unit | [Amazon](https://www.amazon.com/s?k=Control+Unit&tag=errorcodefixes-20) \| G120 CU240E-2, CU250S-2 — match order code |
+| Power Module fan | [Amazon](https://www.amazon.com/s?k=Power+Module+fan&tag=errorcodefixes-20) \| PM230/240 frame B–F fans available separately |
+| Braking resistor | [Amazon](https://www.amazon.com/s?k=Braking+resistor&tag=errorcodefixes-20) \| SINAMICS BRT or equivalent |
+| BOP-2 panel | [Amazon](https://www.amazon.com/s?k=BOP-2+panel&tag=errorcodefixes-20) \| 6SL3255-0AA00-4CA1 |
 ## When to Call a Pro
 F00052 (CU EEPROM fault) and any fault requiring Power Module (drive output stage) replacement should be handled by Siemens-trained drive service. PM replacement on G120 drives in Panel Through-Mounting configurations also requires electrical panel work.

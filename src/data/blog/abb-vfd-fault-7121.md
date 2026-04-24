@@ -1,4 +1,4 @@
-﻿---
+---
 title: "ABB VFD Fault 7121 — Causes & Fix"
 description: "What ABB VFD fault 7121 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,10 +36,9 @@ ABB VFD fault 7121 is a motor stall fault. The drive detected that the motor spe
 
 | Part | Notes |
 |------|-------|
-| [Load-side bearings or coupling](https://www.amazon.com/s?k=Load-side%20bearings%20or%20coupling&tag=errorcodefixe-20) | Most common mechanical cause on pumps and fans |
-| [Encoder (incremental or absolute)](https://www.amazon.com/s?k=Encoder%20(incremental%20or%20absolute)&tag=errorcodefixe-20) | Replace if speed feedback is confirmed erratic on closed-loop drives |
-| [Drive control board](https://www.amazon.com/s?k=Drive%20control%20board&tag=errorcodefixe-20) | Replace only if stall detection circuit is confirmed defective |
-
+| Load-side bearings or coupling | [Amazon](https://www.amazon.com/s?k=Load-side+bearings+or+coupling&tag=errorcodefixes-20) \| Most common mechanical cause on pumps and fans |
+| Encoder (incremental or absolute) | [Amazon](https://www.amazon.com/s?k=Encoder+%28incremental+or+absolute%29&tag=errorcodefixes-20) \| Replace if speed feedback is confirmed erratic on closed-loop drives |
+| Drive control board | [Amazon](https://www.amazon.com/s?k=Drive+control+board&tag=errorcodefixes-20) \| Replace only if stall detection circuit is confirmed defective |
 ## When to Call a Pro
 
 If the motor stalls under normal load conditions that previously posed no issue, the motor may be losing efficiency due to winding degradation. Motor insulation testing (megger) and a load analysis by an electrical engineer can determine whether the motor or drive parameters are the root cause.

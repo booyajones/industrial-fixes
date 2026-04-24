@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fujitsu Mini-Split Error Code E9 — Refrigerant Circuit Fault"
 description: "Fujitsu mini-split Error Code E9 means a refrigerant circuit abnormality or electronic expansion valve fault. Learn causes, diagnosis, and how to fix Fujitsu E9."
 pubDatetime: 2026-04-22T17:00:00Z
@@ -40,14 +40,14 @@ When E9 is displayed on an older model without a digital display:
 
 ## Common Causes {#most-likely-cause}
 
-| [Cause](https://www.amazon.com/s?k=Cause&tag=errorcodefixe-20) | Likelihood |
+| Cause | Likelihood |
 |---|---|
-| [EEV coil disconnected or failed](https://www.amazon.com/s?k=EEV%20coil%20disconnected%20or%20failed&tag=errorcodefixe-20) | Very High |
-| [EEV wiring harness loose or damaged](https://www.amazon.com/s?k=EEV%20wiring%20harness%20loose%20or%20damaged&tag=errorcodefixe-20) | High |
-| [EEV valve body stuck or seized](https://www.amazon.com/s?k=EEV%20valve%20body%20stuck%20or%20seized&tag=errorcodefixe-20) | Medium |
-| [Refrigerant undercharge (actual circuit fault)](https://www.amazon.com/s?k=Refrigerant%20undercharge%20(actual%20circuit%20fault)&tag=errorcodefixe-20) | Medium |
-| [Outdoor PCB EEV driver circuit failed](https://www.amazon.com/s?k=Outdoor%20PCB%20EEV%20driver%20circuit%20failed&tag=errorcodefixe-20) | Medium |
-| [Contamination in EEV from moisture or debris](https://www.amazon.com/s?k=Contamination%20in%20EEV%20from%20moisture%20or%20debris&tag=errorcodefixe-20) | Low |
+| EEV coil disconnected or failed | Very High |
+| EEV wiring harness loose or damaged | High |
+| EEV valve body stuck or seized | Medium |
+| Refrigerant undercharge (actual circuit fault) | Medium |
+| Outdoor PCB EEV driver circuit failed | Medium |
+| Contamination in EEV from moisture or debris | Low |
 
 ## Step-by-Step Diagnosis {#diagnosis}
 
@@ -83,10 +83,9 @@ When E9 is displayed on an older model without a digital display:
 
 | Part | Notes |
 |---|---|
-| [EEV coil (stepper motor coil)](https://www.amazon.com/s?k=EEV%20coil%20(stepper%20motor%20coil)&tag=errorcodefixe-20) | Fujitsu OEM — match connector and winding resistance |
-| [EEV valve body](https://www.amazon.com/s?k=EEV%20valve%20body&tag=errorcodefixe-20) | Replace as assembly if mechanically stuck |
-| [Outdoor PCB](https://www.amazon.com/s?k=Outdoor%20PCB&tag=errorcodefixe-20) | Last resort — expensive; verify all other causes first |
-
+| EEV coil (stepper motor coil) | [Amazon](https://www.amazon.com/s?k=EEV+coil+%28stepper+motor+coil%29&tag=errorcodefixes-20) \| Fujitsu OEM — match connector and winding resistance |
+| EEV valve body | [Amazon](https://www.amazon.com/s?k=EEV+valve+body&tag=errorcodefixes-20) \| Replace as assembly if mechanically stuck |
+| Outdoor PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB&tag=errorcodefixes-20) \| Last resort — expensive; verify all other causes first |
 ## Reset Procedure
 
 After fixing the EEV coil or wiring:

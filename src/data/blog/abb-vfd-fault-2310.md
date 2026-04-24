@@ -1,4 +1,4 @@
-﻿---
+---
 title: "ABB VFD Fault 2310 — Causes & Fix"
 description: "What ABB VFD fault 2310 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,10 +36,9 @@ ABB VFD fault 2310 is an earth fault (ground fault). The drive's earth fault det
 
 | Part | Notes |
 |------|-------|
-| [Motor (rewind or replace)](https://www.amazon.com/s?k=Motor%20(rewind%20or%20replace)&tag=errorcodefixe-20) | If megger confirms winding fault; rewinding is cost-effective on larger motors |
-| [Output cable](https://www.amazon.com/s?k=Output%20cable&tag=errorcodefixe-20) | Replace full run if insulation is compromised |
-| [Output line reactor (choke)](https://www.amazon.com/s?k=Output%20line%20reactor%20(choke)&tag=errorcodefixe-20) | Install when cable run exceeds drive manufacturer's maximum without reactor |
-
+| Motor (rewind or replace) | [Amazon](https://www.amazon.com/s?k=Motor+%28rewind+or+replace%29&tag=errorcodefixes-20) \| If megger confirms winding fault; rewinding is cost-effective on larger motors |
+| Output cable | [Amazon](https://www.amazon.com/s?k=Output+cable&tag=errorcodefixes-20) \| Replace full run if insulation is compromised |
+| Output line reactor (choke) | [Amazon](https://www.amazon.com/s?k=Output+line+reactor+%28choke%29&tag=errorcodefixes-20) \| Install when cable run exceeds drive manufacturer's maximum without reactor |
 ## When to Call a Pro
 
 Megger testing at 500V or 1000V DC on motors connected to high-voltage systems requires proper PPE and lock-out/tag-out procedures. If the motor is part of a hazardous location installation, a licensed electrician must perform the insulation testing and repair.

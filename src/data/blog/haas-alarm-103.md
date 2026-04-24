@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Haas Alarm 103 — Servo Overload Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-04-11T08:00:00Z
@@ -47,9 +47,9 @@ For motor degradation: a Haas service tech should perform an insulation resistan
 
 | Part | Where to Buy |
 |------|-------------|
-| [Haas way oil (Vactra No. 2)](https://www.amazon.com/s?k=Haas%20way%20oil%20(Vactra%20No.%202)&tag=errorcodefixe-20) | Grainger, Amazon |
-| [Cabinet cooling filter](https://www.amazon.com/s?k=Cabinet%20cooling%20filter&tag=errorcodefixe-20) | Grainger |
-| [Servo drive amplifier](https://www.amazon.com/s?k=Servo%20drive%20amplifier&tag=errorcodefixe-20) | Contact Haas Factory Outlet |
+| Haas way oil (Vactra No. 2) | Grainger, Amazon |
+| Cabinet cooling filter | Grainger |
+| Servo drive amplifier | Contact Haas Factory Outlet |
 
 ## When to Call a Technician
 

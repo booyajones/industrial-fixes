@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Carrier 48 Error Code — Induced Draft Motor Lockout"
 description: "Carrier flash code 48 means the induced draft motor has failed to start or is running out of spec. Learn causes, diagnostic steps, and replacement parts."
 pubDatetime: 2026-04-22T17:00:00Z
@@ -29,15 +29,15 @@ The induced draft motor (inducer) pulls combustion gases through the heat exchan
 
 ## Common Causes {#most-likely-cause}
 
-| [Cause](https://www.amazon.com/s?k=Cause&tag=errorcodefixe-20) | Likelihood |
+| Cause | Likelihood |
 |---|---|
-| [Failed inducer motor (seized or winding failure)](https://www.amazon.com/s?k=Failed%20inducer%20motor%20(seized%20or%20winding%20failure)&tag=errorcodefixe-20) | High |
-| [Failed run capacitor on inducer motor](https://www.amazon.com/s?k=Failed%20run%20capacitor%20on%20inducer%20motor&tag=errorcodefixe-20) | High |
-| [Blocked or restricted flue](https://www.amazon.com/s?k=Blocked%20or%20restricted%20flue&tag=errorcodefixe-20) | Medium |
-| [Defective pressure switch](https://www.amazon.com/s?k=Defective%20pressure%20switch&tag=errorcodefixe-20) | Medium |
-| [Broken or kinked pressure switch hose](https://www.amazon.com/s?k=Broken%20or%20kinked%20pressure%20switch%20hose&tag=errorcodefixe-20) | Medium |
-| [Control board relay failure](https://www.amazon.com/s?k=Control%20board%20relay%20failure&tag=errorcodefixe-20) | Low |
-| [Wiring issue to inducer motor](https://www.amazon.com/s?k=Wiring%20issue%20to%20inducer%20motor&tag=errorcodefixe-20) | Low |
+| Failed inducer motor (seized or winding failure) | High |
+| Failed run capacitor on inducer motor | High |
+| Blocked or restricted flue | Medium |
+| Defective pressure switch | Medium |
+| Broken or kinked pressure switch hose | Medium |
+| Control board relay failure | Low |
+| Wiring issue to inducer motor | Low |
 
 ## Step-by-Step Diagnosis {#diagnosis}
 
@@ -71,11 +71,10 @@ The induced draft motor (inducer) pulls combustion gases through the heat exchan
 
 | Part | Notes |
 |---|---|
-| [Inducer motor](https://www.amazon.com/s?k=Inducer%20motor&tag=errorcodefixe-20) | Match HP, RPM, and frame — Carrier HC21ZE117 is common |
-| [Run capacitor](https://www.amazon.com/s?k=Run%20capacitor&tag=errorcodefixe-20) | Match µF and voltage — 370V minimum |
-| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Match the negative pressure trip point |
-| [Pressure switch hose](https://www.amazon.com/s?k=Pressure%20switch%20hose&tag=errorcodefixe-20) | Check for cracks at both ends |
-
+| Inducer motor | [Amazon](https://www.amazon.com/s?k=Inducer+motor&tag=errorcodefixes-20) \| Match HP, RPM, and frame — Carrier HC21ZE117 is common |
+| Run capacitor | [Amazon](https://www.amazon.com/s?k=Run+capacitor&tag=errorcodefixes-20) \| Match µF and voltage — 370V minimum |
+| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Match the negative pressure trip point |
+| Pressure switch hose | [Amazon](https://www.amazon.com/s?k=Pressure+switch+hose&tag=errorcodefixes-20) \| Check for cracks at both ends |
 ## Reset Procedure
 
 After repairing the fault, press the reset button on the control board or cycle power to clear Code 48. If the code returns within the first 5 minutes, the repair is incomplete.

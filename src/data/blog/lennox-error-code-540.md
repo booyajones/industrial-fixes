@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lennox Error Code 540 — Causes & Fix"
 description: "What Lennox error code 540 means, why the iComfort communication fault triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -37,10 +37,9 @@ Lennox code 540 is a **communicating system communication fault** — the contro
 
 | Part | Notes |
 |------|-------|
-| [iComfort S30/E30 thermostat](https://www.amazon.com/s?k=iComfort%20S30%2FE30%20thermostat&tag=errorcodefixe-20) | If thermostat is confirmed as the failed device |
-| [Communication wire (18/2 or 18/4)](https://www.amazon.com/s?k=Communication%20wire%20(18%2F2%20or%2018%2F4)&tag=errorcodefixe-20) | Replace if continuity test reveals a break; use Lennox-approved cable |
-| [Outdoor unit communication board](https://www.amazon.com/s?k=Outdoor%20unit%20communication%20board&tag=errorcodefixe-20) | Interface board specific to the condenser model |
-
+| iComfort S30/E30 thermostat | [Amazon](https://www.amazon.com/s?k=iComfort+S30%2FE30+thermostat&tag=errorcodefixes-20) \| If thermostat is confirmed as the failed device |
+| Communication wire (18/2 or 18/4) | [Amazon](https://www.amazon.com/s?k=Communication+wire+%2818%2F2+or+18%2F4%29&tag=errorcodefixes-20) \| Replace if continuity test reveals a break; use Lennox-approved cable |
+| Outdoor unit communication board | [Amazon](https://www.amazon.com/s?k=Outdoor+unit+communication+board&tag=errorcodefixes-20) \| Interface board specific to the condenser model |
 ## When to Call a Pro
 
 If all wiring checks out and a power-cycle doesn't restore communication, the issue may be a failed furnace control board or outdoor unit interface board. These components require model-specific diagnostics and programming — contact a Lennox dealer with iComfort-certified technicians.

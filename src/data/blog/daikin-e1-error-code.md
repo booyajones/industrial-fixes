@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Daikin E1 Error Code Fix — Indoor Sensor Fault"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-08T08:00:00Z
@@ -47,10 +47,12 @@ On some Daikin models, E1 can also indicate a communication error between the in
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Where to Buy | Typical Cost | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |-------------|-------------|
-| Room temperature thermistor (Daikin #2501038) | [Daikin dealer, HVAC Parts Shop](https://www.amazon.com/s?k=Daikin%20dealer%2C%20HVAC%20Parts%20Shop&tag=errorcodefixe-20) | $12–$30 |
-| [Pipe temperature thermistor (Daikin #2501039)](https://www.amazon.com/s?k=Pipe%20temperature%20thermistor%20(Daikin%20%232501039)&tag=errorcodefixe-20) | Daikin dealer, Amazon OEM | $12–$30 | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Indoor PCB main board (model-specific) | Daikin dealer, HVAC Parts Shop | [$150–$450](https://www.amazon.com/s?k=%24150%E2%80%93%24450&tag=errorcodefixe-20) |  | Electrical contact cleaner (CRC 05103) | [Home Depot, Amazon](https://www.amazon.com/s?k=Home%20Depot%2C%20Amazon&tag=errorcodefixe-20) | $8–$15 |
-
+| Part | Where to Buy | Typical Cost |
+|------|-------------|-------------|
+| Room temperature thermistor (Daikin #2501038) | [Amazon](https://www.amazon.com/s?k=Room+temperature+thermistor+%28Daikin+%232501038%29&tag=errorcodefixes-20) \| Daikin dealer, HVAC Parts Shop | $12–$30 |
+| Pipe temperature thermistor (Daikin #2501039) | [Amazon](https://www.amazon.com/s?k=Pipe+temperature+thermistor+%28Daikin+%232501039%29&tag=errorcodefixes-20) \| Daikin dealer, Amazon OEM | $12–$30 |
+| Indoor PCB main board (model-specific) | [Amazon](https://www.amazon.com/s?k=Indoor+PCB+main+board+%28model-specific%29&tag=errorcodefixes-20) \| Daikin dealer, HVAC Parts Shop | $150–$450 |
+| Electrical contact cleaner (CRC 05103) | [Amazon](https://www.amazon.com/s?k=Electrical+contact+cleaner+%28CRC+05103%29&tag=errorcodefixes-20) \| Home Depot, Amazon | $8–$15 |
 ## When to Call a Professional
 
 If thermistor resistance tests normal, connectors are clean and seated, and E1 persists — the fault is inside the PCB itself. Daikin PCB diagnostics require the service manual for your specific model (not a generic Daikin manual — get the one for your exact model number). Board replacement is possible as a DIY job if you're comfortable with electronics, but sourcing the right part number is critical — the wrong board will throw E1 immediately. Tell the tech: "E1 fault, both thermistors test within 10% of spec, connectors are clean. I need a board-level diagnosis."

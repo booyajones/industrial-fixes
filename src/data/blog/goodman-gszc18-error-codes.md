@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Goodman GSZC18 Heat Pump Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Goodman GSZC18 two-stage heat pump error codes, flash sequences, common fault causes, and step-by-step fixes."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -20,17 +20,17 @@ The Goodman GSZC18 is an 18 SEER, two-stage heat pump designed for use with Good
 
 ## Goodman GSZC18 Flash Code Reference
 
-| [Flash Code](https://www.amazon.com/s?k=Flash%20Code&tag=errorcodefixe-20) | Meaning |
+| Flash Code | Meaning |
 |------------|---------|
-| [1 flash](https://www.amazon.com/s?k=1%20flash&tag=errorcodefixe-20) | High-pressure switch lockout |
-| [2 flashes](https://www.amazon.com/s?k=2%20flashes&tag=errorcodefixe-20) | Low-pressure switch lockout |
-| [3 flashes](https://www.amazon.com/s?k=3%20flashes&tag=errorcodefixe-20) | Outdoor ambient temperature lockout |
-| [4 flashes](https://www.amazon.com/s?k=4%20flashes&tag=errorcodefixe-20) | Compressor protection (internal overload) |
-| [5 flashes](https://www.amazon.com/s?k=5%20flashes&tag=errorcodefixe-20) | Defrost control fault |
-| [6 flashes](https://www.amazon.com/s?k=6%20flashes&tag=errorcodefixe-20) | Outdoor fan motor fault |
-| [7 flashes](https://www.amazon.com/s?k=7%20flashes&tag=errorcodefixe-20) | Low-stage high-pressure switch fault |
-| [8 flashes](https://www.amazon.com/s?k=8%20flashes&tag=errorcodefixe-20) | Control board fault |
-| [9 flashes](https://www.amazon.com/s?k=9%20flashes&tag=errorcodefixe-20) | Discharge temperature sensor fault |
+| 1 flash | High-pressure switch lockout |
+| 2 flashes | Low-pressure switch lockout |
+| 3 flashes | Outdoor ambient temperature lockout |
+| 4 flashes | Compressor protection (internal overload) |
+| 5 flashes | Defrost control fault |
+| 6 flashes | Outdoor fan motor fault |
+| 7 flashes | Low-stage high-pressure switch fault |
+| 8 flashes | Control board fault |
+| 9 flashes | Discharge temperature sensor fault |
 
 ## Common Causes by Code
 
@@ -55,13 +55,12 @@ The Goodman GSZC18 is an 18 SEER, two-stage heat pump designed for use with Good
 
 | Part | Notes |
 |------|-------|
-| [Dual run capacitor](https://www.amazon.com/s?k=Dual%20run%20capacitor&tag=errorcodefixe-20) | High failure rate in hot climates; check µF |
-| [Defrost sensor](https://www.amazon.com/s?k=Defrost%20sensor&tag=errorcodefixe-20) | Clip-on; confirm coil contact |
-| [Defrost board](https://www.amazon.com/s?k=Defrost%20board&tag=errorcodefixe-20) | If sensor is good but defrost won't initiate |
-| [Contactor](https://www.amazon.com/s?k=Contactor&tag=errorcodefixe-20) | Pitted contacts cause compressor protection codes |
-| [Refrigerant (R-410A)](https://www.amazon.com/s?k=Refrigerant%20(R-410A)&tag=errorcodefixe-20) | Fix leak first; EPA certification required |
-| [Outdoor fan motor](https://www.amazon.com/s?k=Outdoor%20fan%20motor&tag=errorcodefixe-20) | PSC or ECM depending on model year |
-
+| Dual run capacitor | [Amazon](https://www.amazon.com/s?k=Dual+run+capacitor&tag=errorcodefixes-20) \| High failure rate in hot climates; check µF |
+| Defrost sensor | [Amazon](https://www.amazon.com/s?k=Defrost+sensor&tag=errorcodefixes-20) \| Clip-on; confirm coil contact |
+| Defrost board | [Amazon](https://www.amazon.com/s?k=Defrost+board&tag=errorcodefixes-20) \| If sensor is good but defrost won't initiate |
+| Contactor | [Amazon](https://www.amazon.com/s?k=Contactor&tag=errorcodefixes-20) \| Pitted contacts cause compressor protection codes |
+| Refrigerant (R-410A) | [Amazon](https://www.amazon.com/s?k=Refrigerant+%28R-410A%29&tag=errorcodefixes-20) \| Fix leak first; EPA certification required |
+| Outdoor fan motor | [Amazon](https://www.amazon.com/s?k=Outdoor+fan+motor&tag=errorcodefixes-20) \| PSC or ECM depending on model year |
 ## When to Call a Pro
 
 Two-stage compressor diagnosis and refrigerant work require professional tools and certification. The GSZC18's two-stage valve and ComfortNet communication system add complexity that makes board-level diagnosis difficult without Goodman's diagnostic software.

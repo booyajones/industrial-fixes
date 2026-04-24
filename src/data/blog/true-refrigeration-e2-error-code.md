@@ -1,4 +1,4 @@
-﻿---
+---
 title: "True Refrigeration E2 Error Code — Causes & Fix"
 description: "What True Refrigeration E2 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,10 +36,9 @@ The E2 error on True Refrigeration equipment signals a high temperature alarm �
 
 | Part | Notes |
 |------|-------|
-| [Door gasket](https://www.amazon.com/s?k=Door%20gasket&tag=errorcodefixe-20) | Match to model; True has model-specific gaskets |
-| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | Replace if not spinning with compressor on |
-| [Defrost heater / thermostat](https://www.amazon.com/s?k=Defrost%20heater%20%2F%20thermostat&tag=errorcodefixe-20) | If evaporator is frosted over |
-
+| Door gasket | [Amazon](https://www.amazon.com/s?k=Door+gasket&tag=errorcodefixes-20) \| Match to model; True has model-specific gaskets |
+| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Replace if not spinning with compressor on |
+| Defrost heater / thermostat | [Amazon](https://www.amazon.com/s?k=Defrost+heater+%2F+thermostat&tag=errorcodefixes-20) \| If evaporator is frosted over |
 ## When to Call a Pro
 
 If the condenser is clean, doors seal well, and the defrost system is intact but the cabinet still can't hold temp, the sealed refrigeration system (compressor, TXV, refrigerant) needs a certified tech.

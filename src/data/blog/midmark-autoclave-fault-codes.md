@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Midmark Autoclave Fault Codes - Complete Guide"
 description: "Midmark M11, M9, Ritter M11, and Ultra-Clean autoclave fault codes: error codes, causes, and troubleshooting steps."
 pubDatetime: 2026-04-22T20:00:00Z
@@ -17,11 +17,18 @@ tags:
 
 Midmark M11 and M9 autoclaves are widely used in dental and veterinary practices. They display error codes on the front LCD panel. The Ritter M11 is the same unit with a different name badge.
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning | Quick Fix | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |---------|-----------|
-| E001 | [Door not closed / door fault](https://www.amazon.com/s?k=Door%20not%20closed%20%2F%20door%20fault&tag=errorcodefixe-20) | Check door and gasket |
-| [E002](https://www.amazon.com/s?k=E002&tag=errorcodefixe-20) | Exceeded maximum heat time | Check heating element and limescale | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E003 | Exceeded maximum pressure time | [Check pressure sensor and steam](https://www.amazon.com/s?k=Check%20pressure%20sensor%20and%20steam&tag=errorcodefixe-20) |  | E004 | [Temperature sensor fault](https://www.amazon.com/s?k=Temperature%20sensor%20fault&tag=errorcodefixe-20) | Check thermistor wiring |
-| [E005](https://www.amazon.com/s?k=E005&tag=errorcodefixe-20) | Pressure sensor fault | Check transducer | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E006 | Safety thermostat fault | [Replace safety thermostat](https://www.amazon.com/s?k=Replace%20safety%20thermostat&tag=errorcodefixe-20) |  | E007 | [Low water level](https://www.amazon.com/s?k=Low%20water%20level&tag=errorcodefixe-20) | Refill reservoir with distilled water |
-| [E008](https://www.amazon.com/s?k=E008&tag=errorcodefixe-20) | Exceeded maximum vent time | Check drain valve and vent | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E009 | Exceeded maximum dry time | [Check door seal and dry cycle settings](https://www.amazon.com/s?k=Check%20door%20seal%20and%20dry%20cycle%20settings&tag=errorcodefixe-20) |  | E010 | [Printer fault](https://www.amazon.com/s?k=Printer%20fault&tag=errorcodefixe-20) | Check printer paper/ribbon |
+| Code | Meaning | Quick Fix |
+|------|---------|-----------|
+| E001 | Door not closed / door fault | Check door and gasket |
+| E002 | Exceeded maximum heat time | Check heating element and limescale |
+| E003 | Exceeded maximum pressure time | Check pressure sensor and steam |
+| E004 | Temperature sensor fault | Check thermistor wiring |
+| E005 | Pressure sensor fault | Check transducer |
+| E006 | Safety thermostat fault | Replace safety thermostat |
+| E007 | Low water level | Refill reservoir with distilled water |
+| E008 | Exceeded maximum vent time | Check drain valve and vent |
+| E009 | Exceeded maximum dry time | Check door seal and dry cycle settings |
+| E010 | Printer fault | Check printer paper/ribbon |
 
 ## Most Common Faults
 
@@ -44,12 +51,11 @@ If the autoclave doesn't vent chamber pressure within the expected time after st
 
 | Part | Notes |
 |------|-------|
-| [Door gasket (M11 silicone)](https://www.amazon.com/s?k=Door%20gasket%20(M11%20silicone)&tag=errorcodefixe-20) | Replace on E001 / poor sealing |
-| [Heating element](https://www.amazon.com/s?k=Heating%20element&tag=errorcodefixe-20) | Replace on E002 / slow heat |
-| [Thermistor](https://www.amazon.com/s?k=Thermistor&tag=errorcodefixe-20) | Replace on E004 |
-| [Water level sensor](https://www.amazon.com/s?k=Water%20level%20sensor&tag=errorcodefixe-20) | Replace on false E007 |
-| [Drain solenoid valve](https://www.amazon.com/s?k=Drain%20solenoid%20valve&tag=errorcodefixe-20) | Replace on E008 |
-
+| Door gasket (M11 silicone) | [Amazon](https://www.amazon.com/s?k=Door+gasket+%28M11+silicone%29&tag=errorcodefixes-20) \| Replace on E001 / poor sealing |
+| Heating element | [Amazon](https://www.amazon.com/s?k=Heating+element&tag=errorcodefixes-20) \| Replace on E002 / slow heat |
+| Thermistor | [Amazon](https://www.amazon.com/s?k=Thermistor&tag=errorcodefixes-20) \| Replace on E004 |
+| Water level sensor | [Amazon](https://www.amazon.com/s?k=Water+level+sensor&tag=errorcodefixes-20) \| Replace on false E007 |
+| Drain solenoid valve | [Amazon](https://www.amazon.com/s?k=Drain+solenoid+valve&tag=errorcodefixes-20) \| Replace on E008 |
 ## When to Call a Pro
 Midmark M11 annual PM, spore testing verification, and electrical repairs require biomedical technicians or Midmark-authorized service. In dental practices, state regulations require documented sterilizer validation.
 

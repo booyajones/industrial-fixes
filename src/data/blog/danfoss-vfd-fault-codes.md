@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Danfoss VFD Fault Codes — FC301, FC302, FC102 Reference"
 description: "Danfoss VFD fault codes: all alarm codes for VLT FC301, FC302, and FC102 drives including AL-14, AL-29, OC, OL, and trip faults."
 pubDatetime: 2026-04-22T16:00:00Z
@@ -15,12 +15,22 @@ tags:
 
 Danfoss VLT drives (FC51 Micro, FC101, FC102 HVAC, FC202 Aqua, FC301, FC302) display fault codes as "AL" (alarm) numbers on the LCP keypad. Alarms stop the drive; warnings display without stopping. Retrieve fault history via Main Menu > Alarm Log (parameter 15-30 group).
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning | Common Fix | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |---------|-----------|
-| AL-14 | [Ground fault](https://www.amazon.com/s?k=Ground%20fault&tag=errorcodefixe-20) | Megger motor and cable |
-| [AL-29](https://www.amazon.com/s?k=AL-29&tag=errorcodefixe-20) | Heatsink overtemperature | Clean fan; check ambient | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | OC / AL-13 | Overcurrent | [Check motor and acceleration](https://www.amazon.com/s?k=Check%20motor%20and%20acceleration&tag=errorcodefixe-20) |  | OL / AL-9 | [Inverter overloaded](https://www.amazon.com/s?k=Inverter%20overloaded&tag=errorcodefixe-20) | Reduce load; check motor current |
-| [UL / AL-3](https://www.amazon.com/s?k=UL%20%2F%20AL-3&tag=errorcodefixe-20) | Undervoltage | Check input power | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | W30 / AL-30 | Motor phase missing | [Check motor connection](https://www.amazon.com/s?k=Check%20motor%20connection&tag=errorcodefixe-20) |  | AL-35 | [Input phase imbalance](https://www.amazon.com/s?k=Input%20phase%20imbalance&tag=errorcodefixe-20) | Check supply phases |
-| [AL-47](https://www.amazon.com/s?k=AL-47&tag=errorcodefixe-20) | 24V supply low | Check 24V control supply | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | AL-69 | Drive board temperature | [Check fan and airflow](https://www.amazon.com/s?k=Check%20fan%20and%20airflow&tag=errorcodefixe-20) |  | AL-74 | [Thermistor fault (motor)](https://www.amazon.com/s?k=Thermistor%20fault%20(motor)&tag=errorcodefixe-20) | Check motor thermistor wiring |
-| [OCL](https://www.amazon.com/s?k=OCL&tag=errorcodefixe-20) | Overcurrent limit (HVAC) | Reduce setpoint or load | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E-Trip | Electronic trip (current) | [Check load and current settings](https://www.amazon.com/s?k=Check%20load%20and%20current%20settings&tag=errorcodefixe-20) | ## Most Common Codes
+| Code | Meaning | Common Fix |
+|------|---------|-----------|
+| AL-14 | Ground fault | Megger motor and cable |
+| AL-29 | Heatsink overtemperature | Clean fan; check ambient |
+| OC / AL-13 | Overcurrent | Check motor and acceleration |
+| OL / AL-9 | Inverter overloaded | Reduce load; check motor current |
+| UL / AL-3 | Undervoltage | Check input power |
+| W30 / AL-30 | Motor phase missing | Check motor connection |
+| AL-35 | Input phase imbalance | Check supply phases |
+| AL-47 | 24V supply low | Check 24V control supply |
+| AL-69 | Drive board temperature | Check fan and airflow |
+| AL-74 | Thermistor fault (motor) | Check motor thermistor wiring |
+| OCL | Overcurrent limit (HVAC) | Reduce setpoint or load |
+| E-Trip | Electronic trip (current) | Check load and current settings |
+
+## Most Common Codes
 
 ### AL-14: Ground Fault
 The drive detected a current imbalance indicating a path to ground. On Danfoss FC302, AL-14 trips at relatively low ground current levels — it's a sensitive trip. Disconnect the motor, megger test each phase to ground at 500V DC (should be >1 MΩ). Also check for water ingress in outdoor junction boxes and motor terminal boxes. Long cable runs on unshielded cables can trigger AL-14 due to capacitive charging current — if cable is over 100 meters, ensure cable capacitance doesn't exceed drive rating.
@@ -51,8 +61,12 @@ Navigate to Main Menu → Alarm Log (parameter group 15-3x). Each stored alarm e
 
 This data is valuable for diagnosing intermittent faults.
 
-## Parts Often Needed | Part | [Notes](https://www.amazon.com/s?k=Notes&tag=errorcodefixe-20) |  |------|-------|
-| Braking resistor | [Danfoss BRT series or equivalent, size per catalog](https://www.amazon.com/s?k=Danfoss%20BRT%20series%20or%20equivalent%2C%20size%20per%20catalog&tag=errorcodefixe-20) |  | Cooling fan | [FC302: 132B0093; drive-specific](https://www.amazon.com/s?k=FC302%3A%20132B0093%3B%20drive-specific&tag=errorcodefixe-20) |  | LCP remote panel | LCP-102 graphical or LCP-11 numeric |
+## Parts Often Needed
 
+| Part | Notes |
+|------|-------|
+| Braking resistor | [Amazon](https://www.amazon.com/s?k=Braking+resistor&tag=errorcodefixes-20) \| Danfoss BRT series or equivalent, size per catalog |
+| Cooling fan | [Amazon](https://www.amazon.com/s?k=Cooling+fan&tag=errorcodefixes-20) \| FC302: 132B0093; drive-specific |
+| LCP remote panel | [Amazon](https://www.amazon.com/s?k=LCP+remote+panel&tag=errorcodefixes-20) \| LCP-102 graphical or LCP-11 numeric |
 ## When to Call a Pro
 AL-14 (ground fault) that persists after motor/cable testing, and any alarm related to a hardware trip (drive output damage, burnt smell), requires authorized Danfoss service. Field-level IGBT replacement is possible on larger FC302 frames but requires ESD training and proper procedures.

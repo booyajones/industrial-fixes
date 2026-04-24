@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mitsubishi U2 Error Code — Causes & Fix"
 description: "What Mitsubishi mini-split U2 error code means, why overcurrent or power supply faults trigger, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -37,10 +37,9 @@ The Mitsubishi U2 error code indicates an **overcurrent or abnormal high voltage
 
 | Part | Notes |
 |------|-------|
-| [Inverter PCB (outdoor unit board)](https://www.amazon.com/s?k=Inverter%20PCB%20(outdoor%20unit%20board)&tag=errorcodefixe-20) | If board is confirmed faulty; Mitsubishi-specific — match model exactly |
-| [Compressor](https://www.amazon.com/s?k=Compressor&tag=errorcodefixe-20) | Only after full electrical diagnosis confirms winding fault |
-| [Surge protector / line conditioner](https://www.amazon.com/s?k=Surge%20protector%20%2F%20line%20conditioner&tag=errorcodefixe-20) | If utility voltage quality is poor |
-
+| Inverter PCB (outdoor unit board) | [Amazon](https://www.amazon.com/s?k=Inverter+PCB+%28outdoor+unit+board%29&tag=errorcodefixes-20) \| If board is confirmed faulty; Mitsubishi-specific — match model exactly |
+| Compressor | [Amazon](https://www.amazon.com/s?k=Compressor&tag=errorcodefixes-20) \| Only after full electrical diagnosis confirms winding fault |
+| Surge protector / line conditioner | [Amazon](https://www.amazon.com/s?k=Surge+protector+%2F+line+conditioner&tag=errorcodefixes-20) \| If utility voltage quality is poor |
 ## When to Call a Pro
 
 U2 involving compressor issues requires refrigerant system handling. Compressor replacement requires EPA 608 certification and specialized equipment. If the board is the suspect, Mitsubishi inverter PCBs are expensive — confirm with a certified technician before ordering.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Armstrong Air Handler E1 Error Code — Communication Fault Fix"
 description: "What the Armstrong air handler E1 error code means, why the communication fault triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -38,11 +38,10 @@ Armstrong Air is a brand within the Allied Air Enterprises family (part of Lenno
 
 | Part | Notes |
 |------|-------|
-| [iComfort thermostat](https://www.amazon.com/s?k=iComfort%20thermostat&tag=errorcodefixe-20) | Bus master — if thermostat is suspected, replace first |
-| [Outdoor unit communicating control board](https://www.amazon.com/s?k=Outdoor%20unit%20communicating%20control%20board&tag=errorcodefixe-20) | If outdoor unit drops off the system map |
-| [Air handler control board](https://www.amazon.com/s?k=Air%20handler%20control%20board&tag=errorcodefixe-20) | If air handler doesn't communicate even with a known-good thermostat |
-| [Low-voltage thermostat cable (18/5)](https://www.amazon.com/s?k=Low-voltage%20thermostat%20cable%20(18%2F5)&tag=errorcodefixe-20) | Replace full run if damaged |
-
+| iComfort thermostat | [Amazon](https://www.amazon.com/s?k=iComfort+thermostat&tag=errorcodefixes-20) \| Bus master — if thermostat is suspected, replace first |
+| Outdoor unit communicating control board | [Amazon](https://www.amazon.com/s?k=Outdoor+unit+communicating+control+board&tag=errorcodefixes-20) \| If outdoor unit drops off the system map |
+| Air handler control board | [Amazon](https://www.amazon.com/s?k=Air+handler+control+board&tag=errorcodefixes-20) \| If air handler doesn't communicate even with a known-good thermostat |
+| Low-voltage thermostat cable (18/5) | [Amazon](https://www.amazon.com/s?k=Low-voltage+thermostat+cable+%2818%2F5%29&tag=errorcodefixes-20) \| Replace full run if damaged |
 ## When to Call a Pro
 
 Armstrong communicating systems require proper commissioning after any component replacement — the new board or thermostat must be configured to recognize the system's other components. An Armstrong-authorized technician has the iComfort commissioning tool and dealer access to verify the configuration and confirm the system is operating correctly after the repair.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lennox Error Code 292 — Ignition Failure Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-10T08:00:00Z
@@ -50,9 +50,12 @@ This code does not mean the furnace is permanently broken. It means the ignition
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Part Number | Typical Cost | [Where to Buy](https://www.amazon.com/s?k=Where%20to%20Buy&tag=errorcodefixe-20) |  |------|------------|-------------|-------------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Hot surface igniter | 44W93 | [$40–$55](https://www.amazon.com/s?k=%2440%E2%80%93%2455&tag=errorcodefixe-20) | Repair Clinic / Amazon |
-| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | 51W06 | $20–$30 | [Repair Clinic / Amazon](https://www.amazon.com/s?k=Repair%20Clinic%20%2F%20Amazon&tag=errorcodefixe-20) |  | Gas valve (G60DF-1) | [LB-100523P](https://www.amazon.com/s?k=LB-100523P&tag=errorcodefixe-20) | $180–$250 | HVAC Distributors / Amazon | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Control board | 103116-01 | [$220–$350](https://www.amazon.com/s?k=%24220%E2%80%93%24350&tag=errorcodefixe-20) | Repair Clinic |
-
+| Part | Part Number | Typical Cost | Where to Buy |
+|------|------------|-------------|-------------|
+| Hot surface igniter | 44W93 | $40–$55 | [Amazon](https://www.amazon.com/s?k=44W93+Hot+surface+igniter&tag=errorcodefixes-20) \| Repair Clinic / Amazon |
+| Flame sensor | 51W06 | $20–$30 | [Amazon](https://www.amazon.com/s?k=51W06+Flame+sensor&tag=errorcodefixes-20) \| Repair Clinic / Amazon |
+| Gas valve (G60DF-1) | LB-100523P | $180–$250 | [Amazon](https://www.amazon.com/s?k=LB-100523P+Gas+valve+%28G60DF-1%29&tag=errorcodefixes-20) \| HVAC Distributors / Amazon |
+| Control board | 103116-01 | $220–$350 | [Amazon](https://www.amazon.com/s?k=103116-01+Control+board&tag=errorcodefixes-20) \| Repair Clinic |
 ## When to Call a Professional
 
 If you've replaced the igniter and cleaned the flame sensor and the 292 code persists, the problem is likely the gas valve, gas pressure, or control board. Gas valve replacement involves working with live gas lines — this requires a licensed technician in most jurisdictions and should not be a DIY repair. Similarly, if you smell gas at any point during diagnosis, shut off the gas supply immediately and leave the building before calling your gas utility.

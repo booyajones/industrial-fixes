@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Carrier 14 Error Code — Causes & Fix"
 description: "What Carrier error code 14 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,10 +36,9 @@ Carrier fault code 14 is an ignition lockout. After exhausting the allowed ignit
 
 | Part | Notes |
 |------|-------|
-| [Hot surface igniter](https://www.amazon.com/s?k=Hot%20surface%20igniter&tag=errorcodefixe-20) | Most common root cause leading to lockout |
-| [Draft inducer motor](https://www.amazon.com/s?k=Draft%20inducer%20motor&tag=errorcodefixe-20) | Replace if motor is noisy, slow, or fails to start |
-| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | Inexpensive; replace if cleaning doesn't restore signal |
-
+| Hot surface igniter | [Amazon](https://www.amazon.com/s?k=Hot+surface+igniter&tag=errorcodefixes-20) \| Most common root cause leading to lockout |
+| Draft inducer motor | [Amazon](https://www.amazon.com/s?k=Draft+inducer+motor&tag=errorcodefixes-20) \| Replace if motor is noisy, slow, or fails to start |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Inexpensive; replace if cleaning doesn't restore signal |
 ## When to Call a Pro
 
 If the furnace locks out again within the first heat cycle after reset, or if you suspect a cracked heat exchanger or failed gas valve, contact a licensed HVAC technician. Repeated lockouts without a clear component failure can indicate combustion or venting problems.

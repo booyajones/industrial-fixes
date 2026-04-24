@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Scotsman Ice Machine Error Code 5 — Causes & Fix"
 description: "What Scotsman Error Code 5 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -36,10 +36,9 @@ Error Code 5 on a Scotsman ice machine signals a harvest assist fault — the ha
 
 | Part | Notes |
 |------|-------|
-| [Harvest assist solenoid valve](https://www.amazon.com/s?k=Harvest%20assist%20solenoid%20valve&tag=errorcodefixe-20) | Replace if coil is open or valve body is stuck |
-| [Scotsman Ice Machine Cleaner](https://www.amazon.com/s?k=Scotsman%20Ice%20Machine%20Cleaner&tag=errorcodefixe-20) | Run after any evaporator scale issue |
-| [Refrigerant (R-404A / R-448A)](https://www.amazon.com/s?k=Refrigerant%20(R-404A%20%2F%20R-448A)&tag=errorcodefixe-20) | Only after finding and repairing the leak |
-
+| Harvest assist solenoid valve | [Amazon](https://www.amazon.com/s?k=Harvest+assist+solenoid+valve&tag=errorcodefixes-20) \| Replace if coil is open or valve body is stuck |
+| Scotsman Ice Machine Cleaner | [Amazon](https://www.amazon.com/s?k=Scotsman+Ice+Machine+Cleaner&tag=errorcodefixes-20) \| Run after any evaporator scale issue |
+| Refrigerant (R-404A / R-448A) | [Amazon](https://www.amazon.com/s?k=Refrigerant+%28R-404A+%2F+R-448A%29&tag=errorcodefixes-20) \| Only after finding and repairing the leak |
 ## When to Call a Pro
 
 Refrigerant-side work and hot gas valve replacement deep in the refrigeration circuit require EPA 608 certification and proper recovery equipment.

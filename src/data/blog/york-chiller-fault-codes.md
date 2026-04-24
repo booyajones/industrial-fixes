@@ -1,4 +1,4 @@
-﻿---
+---
 title: "York YVAA/YVVA Chiller Fault Codes — Complete Troubleshooting Guide"
 description: "York YVAA and YVVA air-cooled chiller fault codes: OptiView control panel alarms, causes, and step-by-step troubleshooting for common shutdowns."
 pubDatetime: 2026-04-22T21:00:00Z
@@ -17,10 +17,18 @@ tags:
 
 York YVAA (air-cooled screw) and YVVA (air-cooled variable speed screw) chillers use the OptiView Control Center to display safety shutdowns and cycling shutdowns.
 
-| [Fault](https://www.amazon.com/s?k=Fault&tag=errorcodefixe-20) | Type | Meaning | [Quick Fix](https://www.amazon.com/s?k=Quick%20Fix&tag=errorcodefixe-20) |  |-------|------|---------|-----------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Low Refrigerant Pressure | Safety | [Suction pressure below cutout](https://www.amazon.com/s?k=Suction%20pressure%20below%20cutout&tag=errorcodefixe-20) | Check charge and evaporator flow |
-| [High Refrigerant Pressure](https://www.amazon.com/s?k=High%20Refrigerant%20Pressure&tag=errorcodefixe-20) | Safety | Discharge pressure too high | [Check fans and condenser](https://www.amazon.com/s?k=Check%20fans%20and%20condenser&tag=errorcodefixe-20) |  | Low Leaving Water Temp | [Safety](https://www.amazon.com/s?k=Safety&tag=errorcodefixe-20) | LWT below freeze protection limit | Check flow and load | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Compressor Discharge Temp High | Safety | [Compressor outlet too hot](https://www.amazon.com/s?k=Compressor%20outlet%20too%20hot&tag=errorcodefixe-20) | Check refrigerant charge |
-| [Motor Current High](https://www.amazon.com/s?k=Motor%20Current%20High&tag=errorcodefixe-20) | Safety | Motor overcurrent | [Check voltage and load](https://www.amazon.com/s?k=Check%20voltage%20and%20load&tag=errorcodefixe-20) |  | Loss of Charge | [Safety](https://www.amazon.com/s?k=Safety&tag=errorcodefixe-20) | Refrigerant pressure lost | Inspect for leak, check charge | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Low Ambient | Cycling | [Ambient too cold for operation](https://www.amazon.com/s?k=Ambient%20too%20cold%20for%20operation&tag=errorcodefixe-20) | Check low ambient kit |
-| [No Cooling Load](https://www.amazon.com/s?k=No%20Cooling%20Load&tag=errorcodefixe-20) | Cycling | System does not require cooling | [Normal — not a fault](https://www.amazon.com/s?k=Normal%20%E2%80%94%20not%20a%20fault&tag=errorcodefixe-20) | ## Most Common Faults
+| Fault | Type | Meaning | Quick Fix |
+|-------|------|---------|-----------|
+| Low Refrigerant Pressure | Safety | Suction pressure below cutout | Check charge and evaporator flow |
+| High Refrigerant Pressure | Safety | Discharge pressure too high | Check fans and condenser |
+| Low Leaving Water Temp | Safety | LWT below freeze protection limit | Check flow and load |
+| Compressor Discharge Temp High | Safety | Compressor outlet too hot | Check refrigerant charge |
+| Motor Current High | Safety | Motor overcurrent | Check voltage and load |
+| Loss of Charge | Safety | Refrigerant pressure lost | Inspect for leak, check charge |
+| Low Ambient | Cycling | Ambient too cold for operation | Check low ambient kit |
+| No Cooling Load | Cycling | System does not require cooling | Normal — not a fault |
+
+## Most Common Faults
 
 ### Low Refrigerant Pressure (Safety Shutdown)
 On the YVAA, low suction pressure (Low Refrigerant Pressure safety) is the most common shutdown. Causes include low refrigerant charge, low chilled water flow, and low entering load. Check chilled water pump operation. If flow is confirmed, a refrigerant leak is likely.
@@ -44,9 +52,14 @@ The YVVA uses variable-speed compressors and fans. Additional faults include:
 - **Speed Reference Fault** — control signal to inverter lost
 - **Inverter Overtemp** — check inverter cooling
 
-## Parts Often Needed | Part | [Notes](https://www.amazon.com/s?k=Notes&tag=errorcodefixe-20) |  |------|-------|
-| Refrigerant charge (R-134a or R-513A) | [After confirmed leak and repair](https://www.amazon.com/s?k=After%20confirmed%20leak%20and%20repair&tag=errorcodefixe-20) |  | Condenser fan motor | [Replace on high pressure faults](https://www.amazon.com/s?k=Replace%20on%20high%20pressure%20faults&tag=errorcodefixe-20) |  | Fan blade | [Inspect if fan running but pressure high](https://www.amazon.com/s?k=Inspect%20if%20fan%20running%20but%20pressure%20high&tag=errorcodefixe-20) |  | Flow switch / flow sensor | Inspect on LWT faults |
+## Parts Often Needed
 
+| Part | Notes |
+|------|-------|
+| Refrigerant charge (R-134a or R-513A) | [Amazon](https://www.amazon.com/s?k=Refrigerant+charge+%28R-134a+or+R-513A%29&tag=errorcodefixes-20) \| After confirmed leak and repair |
+| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Replace on high pressure faults |
+| Fan blade | [Amazon](https://www.amazon.com/s?k=Fan+blade&tag=errorcodefixes-20) \| Inspect if fan running but pressure high |
+| Flow switch / flow sensor | [Amazon](https://www.amazon.com/s?k=Flow+switch+%2F+flow+sensor&tag=errorcodefixes-20) \| Inspect on LWT faults |
 ## Jump to Fix
 
 - **Low refrigerant pressure** → Check chilled water flow → Confirm charge → Inspect for leaks

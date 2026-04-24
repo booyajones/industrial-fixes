@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Carrier 48XLC Packaged Unit Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Carrier 48XLC packaged rooftop unit error codes, diagnostic LED flash codes, common fault causes, and step-by-step repair procedures."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -21,19 +21,19 @@ The Carrier 48XLC is a light commercial single-package gas/electric rooftop unit
 
 ## Carrier 48XLC LED Fault Code Reference
 
-| [LED Flash](https://www.amazon.com/s?k=LED%20Flash&tag=errorcodefixe-20) | Fault |
+| LED Flash | Fault |
 |---|---|
-| [1 flash](https://www.amazon.com/s?k=1%20flash&tag=errorcodefixe-20) | Normal — no fault present |
-| [2 flashes](https://www.amazon.com/s?k=2%20flashes&tag=errorcodefixe-20) | High-pressure switch trip |
-| [3 flashes](https://www.amazon.com/s?k=3%20flashes&tag=errorcodefixe-20) | Low-pressure switch trip |
-| [4 flashes](https://www.amazon.com/s?k=4%20flashes&tag=errorcodefixe-20) | Compressor lockout — exceeded trip limit |
-| [5 flashes](https://www.amazon.com/s?k=5%20flashes&tag=errorcodefixe-20) | Freeze protection lockout — evaporator coil ice |
-| [6 flashes](https://www.amazon.com/s?k=6%20flashes&tag=errorcodefixe-20) | Outdoor fan motor fault |
-| [7 flashes](https://www.amazon.com/s?k=7%20flashes&tag=errorcodefixe-20) | Return air sensor fault |
-| [8 flashes](https://www.amazon.com/s?k=8%20flashes&tag=errorcodefixe-20) | Supply air sensor fault |
-| [9 flashes](https://www.amazon.com/s?k=9%20flashes&tag=errorcodefixe-20) | Outdoor coil temperature sensor fault |
-| [10 flashes](https://www.amazon.com/s?k=10%20flashes&tag=errorcodefixe-20) | Control board fault |
-| [11 flashes](https://www.amazon.com/s?k=11%20flashes&tag=errorcodefixe-20) | Communication fault |
+| 1 flash | Normal — no fault present |
+| 2 flashes | High-pressure switch trip |
+| 3 flashes | Low-pressure switch trip |
+| 4 flashes | Compressor lockout — exceeded trip limit |
+| 5 flashes | Freeze protection lockout — evaporator coil ice |
+| 6 flashes | Outdoor fan motor fault |
+| 7 flashes | Return air sensor fault |
+| 8 flashes | Supply air sensor fault |
+| 9 flashes | Outdoor coil temperature sensor fault |
+| 10 flashes | Control board fault |
+| 11 flashes | Communication fault |
 
 ## Common Causes by Code
 
@@ -55,13 +55,12 @@ The Carrier 48XLC is a light commercial single-package gas/electric rooftop unit
 
 | Part | Notes |
 |---|---|
-| [Run capacitor](https://www.amazon.com/s?k=Run%20capacitor&tag=errorcodefixe-20) | Fan motor capacitor; check before replacing motor |
-| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | Match existing HP, RPM, and shaft diameter |
-| [Supply air sensor](https://www.amazon.com/s?k=Supply%20air%20sensor&tag=errorcodefixe-20) | NTC thermistor; causes Code 8 or freeze lockout |
-| [High-pressure switch](https://www.amazon.com/s?k=High-pressure%20switch&tag=errorcodefixe-20) | Spade terminal; 610 PSIG for R-410A |
-| [WeatherMaker control board](https://www.amazon.com/s?k=WeatherMaker%20control%20board&tag=errorcodefixe-20) | For Code 10; verify fuses first |
-| [Compressor contactor](https://www.amazon.com/s?k=Compressor%20contactor&tag=errorcodefixe-20) | Check contact gap and coil resistance |
-
+| Run capacitor | [Amazon](https://www.amazon.com/s?k=Run+capacitor&tag=errorcodefixes-20) \| Fan motor capacitor; check before replacing motor |
+| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Match existing HP, RPM, and shaft diameter |
+| Supply air sensor | [Amazon](https://www.amazon.com/s?k=Supply+air+sensor&tag=errorcodefixes-20) \| NTC thermistor; causes Code 8 or freeze lockout |
+| High-pressure switch | [Amazon](https://www.amazon.com/s?k=High-pressure+switch&tag=errorcodefixes-20) \| Spade terminal; 610 PSIG for R-410A |
+| WeatherMaker control board | [Amazon](https://www.amazon.com/s?k=WeatherMaker+control+board&tag=errorcodefixes-20) \| For Code 10; verify fuses first |
+| Compressor contactor | [Amazon](https://www.amazon.com/s?k=Compressor+contactor&tag=errorcodefixes-20) \| Check contact gap and coil resistance |
 ## When to Call a Pro
 
 Commercial packaged units require licensed HVAC-R technicians for refrigerant work and, in many jurisdictions, a commercial HVAC contractor license for service. BACnet/IP integration troubleshooting requires network access and familiarity with the building automation system. Compressor replacement on a 48XLC is a 4–8 hour job requiring cranes or rigging for heavy-tonnage units.

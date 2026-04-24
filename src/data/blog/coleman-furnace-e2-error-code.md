@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Coleman Furnace E2 Error Code — Causes & Fix"
 description: "What Coleman furnace E2 means, why the pressure switch faults, and how to diagnose and fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,11 +36,10 @@ E2 on a Coleman furnace (manufactured by York/Johnson Controls under the Coleman
 
 | Part | Notes |
 |------|-------|
-| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Match Coleman/York part number; check pressure rating |
-| [Pressure switch hose](https://www.amazon.com/s?k=Pressure%20switch%20hose&tag=errorcodefixe-20) | 1/4" ID rubber or silicone; available in bulk |
-| [Inducer motor capacitor](https://www.amazon.com/s?k=Inducer%20motor%20capacitor&tag=errorcodefixe-20) | Check before ordering a full motor assembly |
-| [Induced draft motor](https://www.amazon.com/s?k=Induced%20draft%20motor&tag=errorcodefixe-20) | Replace if capacitor is good but motor runs slow or noisy |
-
+| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Match Coleman/York part number; check pressure rating |
+| Pressure switch hose | [Amazon](https://www.amazon.com/s?k=Pressure+switch+hose&tag=errorcodefixes-20) \| 1/4" ID rubber or silicone; available in bulk |
+| Inducer motor capacitor | [Amazon](https://www.amazon.com/s?k=Inducer+motor+capacitor&tag=errorcodefixes-20) \| Check before ordering a full motor assembly |
+| Induced draft motor | [Amazon](https://www.amazon.com/s?k=Induced+draft+motor&tag=errorcodefixes-20) \| Replace if capacitor is good but motor runs slow or noisy |
 ## When to Call a Pro
 
 If the flue is clear and the inducer runs at speed but the pressure switch still won't close, have a licensed HVAC technician verify that the heat exchanger is not cracked (a crack can alter pressure differential in the flue) and that the pressure switch rating matches the furnace model requirements.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mitsubishi Mini Split E6 Error Code Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-07T08:00:00Z
@@ -50,10 +50,12 @@ E6 is a wiring or board issue, not a refrigerant or mechanical issue. The fix is
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Where to Buy | Typical Cost | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |-------------|-------------|
-| Outdoor unit main PCB (model-specific, e.g., T7WE24032) | [HVAC Parts Shop, eBay OEM](https://www.amazon.com/s?k=HVAC%20Parts%20Shop%2C%20eBay%20OEM&tag=errorcodefixe-20) | $180–$400 |
-| [Indoor unit main PCB (model-specific)](https://www.amazon.com/s?k=Indoor%20unit%20main%20PCB%20(model-specific)&tag=errorcodefixe-20) | HVAC Parts Shop, Mitsubishi dealer | $120–$350 | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 14/3 communication wire (per foot) | Home Depot, Lowes | [$0.50–$1.50/ft](https://www.amazon.com/s?k=%240.50%E2%80%93%241.50%2Fft&tag=errorcodefixe-20) |  | Terminal block connector set | [Amazon, Grainger](https://www.amazon.com/s?k=Amazon%2C%20Grainger&tag=errorcodefixe-20) | $10–$25 |
-
+| Part | Where to Buy | Typical Cost |
+|------|-------------|-------------|
+| Outdoor unit main PCB (model-specific, e.g., T7WE24032) | [Amazon](https://www.amazon.com/s?k=Outdoor+unit+main+PCB+%28model-specific%2C+e.g.%2C+T7WE24032%29&tag=errorcodefixes-20) \| HVAC Parts Shop, eBay OEM | $180–$400 |
+| Indoor unit main PCB (model-specific) | [Amazon](https://www.amazon.com/s?k=Indoor+unit+main+PCB+%28model-specific%29&tag=errorcodefixes-20) \| HVAC Parts Shop, Mitsubishi dealer | $120–$350 |
+| 14/3 communication wire (per foot) | [Amazon](https://www.amazon.com/s?k=14%2F3+communication+wire+%28per+foot%29&tag=errorcodefixes-20) \| Home Depot, Lowes | $0.50–$1.50/ft |
+| Terminal block connector set | [Amazon](https://www.amazon.com/s?k=Terminal+block+connector+set&tag=errorcodefixes-20) \| Amazon, Grainger | $10–$25 |
 ## When to Call a Professional
 
 If you've confirmed all wiring is correct and tight, continuity checks out on the communication wire, and E6 still appears — you need a tech with Mitsubishi service documentation and ideally a MelcoBEMS or oscilloscope to diagnose board-level communication. Board replacement is a straightforward swap but requires model-specific parts and confirmation that the replacement board has compatible firmware. Tell the tech: "E6 comm fault, wiring is confirmed correct at both terminal blocks, continuity is good on the S-wire. I suspect an outdoor board failure."

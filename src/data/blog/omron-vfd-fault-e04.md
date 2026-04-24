@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Omron 3G3MX2 E04 Fault — Ground Fault"
 description: "Omron MX2 / 3G3MX2 E04 fault means the drive detected a ground fault on the output. Learn causes, diagnostics, and the fix for E04."
 pubDatetime: 2026-04-22T17:00:00Z
@@ -40,10 +40,9 @@ tags:
 
 | Part | Notes |
 |------|-------|
-| [VFD-rated motor cable](https://www.amazon.com/s?k=VFD-rated%20motor%20cable&tag=errorcodefixe-20) | Replace if insulation is damaged |
-| [Motor](https://www.amazon.com/s?k=Motor&tag=errorcodefixe-20) | Replace or rewind if grounded |
-| [Omron MX2 drive](https://www.amazon.com/s?k=Omron%20MX2%20drive&tag=errorcodefixe-20) | Replace if output stage is failed |
-
+| VFD-rated motor cable | [Amazon](https://www.amazon.com/s?k=VFD-rated+motor+cable&tag=errorcodefixes-20) \| Replace if insulation is damaged |
+| Motor | [Amazon](https://www.amazon.com/s?k=Motor&tag=errorcodefixes-20) \| Replace or rewind if grounded |
+| Omron MX2 drive | [Amazon](https://www.amazon.com/s?k=Omron+MX2+drive&tag=errorcodefixes-20) \| Replace if output stage is failed |
 ## When to Call a Pro
 
 If ground resistance looks borderline or the application has a very long motor run, a technician with a megger and leakage-current experience can separate true ground faults from nuisance trips.

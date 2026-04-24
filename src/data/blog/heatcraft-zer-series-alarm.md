@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Heatcraft ZER/ZR Series Unit Cooler Alarms — Troubleshooting Guide"
 description: "Heatcraft ZER and ZR series unit cooler alarm codes and controller faults: sensor errors, defrost alarms, fan issues, and fix steps."
 pubDatetime: 2026-04-22T21:00:00Z
@@ -17,10 +17,15 @@ tags:
 
 Heatcraft ZER and ZR unit coolers use electronic defrost and temperature control packages in walk-ins, prep coolers, and refrigerated storage rooms. Alarm messages usually come from the controller mounted near the evaporator or in the condensing unit panel.
 
-| [Alarm](https://www.amazon.com/s?k=Alarm&tag=errorcodefixe-20) | Meaning | Quick Fix | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |---------|-----------|
-| P1 | [Room sensor fault](https://www.amazon.com/s?k=Room%20sensor%20fault&tag=errorcodefixe-20) | Check room probe and wiring |
-| [P2](https://www.amazon.com/s?k=P2&tag=errorcodefixe-20) | Coil sensor fault | Check evaporator probe and placement | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | HA | High room temperature alarm | [Check refrigeration performance and door usage](https://www.amazon.com/s?k=Check%20refrigeration%20performance%20and%20door%20usage&tag=errorcodefixe-20) |  | LA | [Low room temperature alarm](https://www.amazon.com/s?k=Low%20room%20temperature%20alarm&tag=errorcodefixe-20) | Check control setpoint and sensor calibration |
-| [dF](https://www.amazon.com/s?k=dF&tag=errorcodefixe-20) | Defrost active / stuck in defrost | Check defrost heater, timer, and termination sensor | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Fan Alarm | Evaporator fan issue | [Check fan motor and blade obstruction](https://www.amazon.com/s?k=Check%20fan%20motor%20and%20blade%20obstruction&tag=errorcodefixe-20) |  | Door Alarm | [Door open input active](https://www.amazon.com/s?k=Door%20open%20input%20active&tag=errorcodefixe-20) | Check door switch and door seal |
+| Alarm | Meaning | Quick Fix |
+|------|---------|-----------|
+| P1 | Room sensor fault | Check room probe and wiring |
+| P2 | Coil sensor fault | Check evaporator probe and placement |
+| HA | High room temperature alarm | Check refrigeration performance and door usage |
+| LA | Low room temperature alarm | Check control setpoint and sensor calibration |
+| dF | Defrost active / stuck in defrost | Check defrost heater, timer, and termination sensor |
+| Fan Alarm | Evaporator fan issue | Check fan motor and blade obstruction |
+| Door Alarm | Door open input active | Check door switch and door seal |
 
 ## Most Common Alarms
 
@@ -45,11 +50,10 @@ A high box temperature alarm usually points to airflow or refrigeration problems
 
 | Part | Notes |
 |------|-------|
-| [Room temperature probe](https://www.amazon.com/s?k=Room%20temperature%20probe&tag=errorcodefixe-20) | Replace on P1 alarms |
-| [Coil defrost probe](https://www.amazon.com/s?k=Coil%20defrost%20probe&tag=errorcodefixe-20) | Replace on P2 alarms |
-| [Defrost heater](https://www.amazon.com/s?k=Defrost%20heater&tag=errorcodefixe-20) | Check continuity if ice builds heavily |
-| [Evaporator fan motor](https://www.amazon.com/s?k=Evaporator%20fan%20motor&tag=errorcodefixe-20) | Replace on fan alarms or no airflow |
-
+| Room temperature probe | [Amazon](https://www.amazon.com/s?k=Room+temperature+probe&tag=errorcodefixes-20) \| Replace on P1 alarms |
+| Coil defrost probe | [Amazon](https://www.amazon.com/s?k=Coil+defrost+probe&tag=errorcodefixes-20) \| Replace on P2 alarms |
+| Defrost heater | [Amazon](https://www.amazon.com/s?k=Defrost+heater&tag=errorcodefixes-20) \| Check continuity if ice builds heavily |
+| Evaporator fan motor | [Amazon](https://www.amazon.com/s?k=Evaporator+fan+motor&tag=errorcodefixes-20) \| Replace on fan alarms or no airflow |
 ## Jump to Fix
 
 - **P1** → Check probe connection → Measure resistance → Replace sensor

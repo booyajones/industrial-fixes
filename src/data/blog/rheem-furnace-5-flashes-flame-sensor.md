@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Rheem Furnace 5 Flashes Error Code — Flame Sensor Fault Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-15T08:00:00Z
@@ -48,11 +48,15 @@ This is one of the most common furnace faults in the field. The flame sensor its
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Part Number | Typical Cost | [Where to Buy](https://www.amazon.com/s?k=Where%20to%20Buy&tag=errorcodefixe-20) |  |------|------------|-------------|-------------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Rheem OEM Flame Sensor | 42-24195-01 | [$18–$25](https://www.amazon.com/s?k=%2418%E2%80%93%2425&tag=errorcodefixe-20) | Repair Clinic / Amazon |
-| [Hot Surface Igniter (HSI)](https://www.amazon.com/s?k=Hot%20Surface%20Igniter%20(HSI)&tag=errorcodefixe-20) | SP10266 | $35–$45 | [Repair Clinic / Amazon](https://www.amazon.com/s?k=Repair%20Clinic%20%2F%20Amazon&tag=errorcodefixe-20) |  | Rheem Control Board (if board is bad) | [62-24268-82](https://www.amazon.com/s?k=62-24268-82&tag=errorcodefixe-20) | $150–$220 | Repair Clinic / HVAC distributor |
+| Part | Part Number | Typical Cost | Where to Buy |
+|------|------------|-------------|---------------|
+| Rheem OEM Flame Sensor | 42-24195-01 | $18–$25 | [Amazon](https://www.amazon.com/s?k=Rheem+42-24195-01+flame+sensor&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=42-24195-01) |
+| Hot Surface Igniter (HSI) | SP10266 | $35–$45 | [Amazon](https://www.amazon.com/s?k=Rheem+SP10266+hot+surface+igniter&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=SP10266) |
+| Rheem Control Board (if board is bad) | 62-24268-82 | $150–$220 | [Amazon](https://www.amazon.com/s?k=Rheem+62-24268-82+control+board&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=62-24268-82) |
 
 ## When to Call a Professional
 
 If you've cleaned or replaced the flame sensor and the 5-flash lockout persists, you're dealing with either a gas pressure problem, a cracked heat exchanger, or a failed control board — none of which are safe or simple DIY repairs. A cracked heat exchanger is a carbon monoxide hazard and requires immediate shutdown of the unit. A licensed HVAC technician can measure microamp output at the sensor terminal (should read 2–6 µA on a healthy Rheem system), verify gas pressure at manifold, and perform a combustion analysis. Don't run the furnace in lockout-reset cycles while troubleshooting — repeated ignition attempts without resolution can damage the igniter.
 
 > **Pro tip:** Before ordering a replacement flame sensor, measure the microamp signal with a multimeter set to DC microamps in series with the sensor wire. A reading below 1.5 µA confirms a bad sensor. A reading of 0 µA often means a broken wire or cracked ceramic. A reading above 1.5 µA but still faulting usually points to the control board's sense circuit — save yourself a wasted parts order.
+

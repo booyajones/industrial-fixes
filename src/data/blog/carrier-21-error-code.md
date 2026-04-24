@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Carrier 21 Error Code — Gas Heating Lockout Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-02T08:00:00Z
@@ -45,12 +45,16 @@ description: "Carrier error code 21 signals a gas heating lockout — the furnac
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Where to Buy | Typical Cost | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |-------------|-------------|
-| Draft inducer motor assembly (Carrier OEM #HC21ZE120) | [Carrier dealer, RepairClinic](https://www.amazon.com/s?k=Carrier%20dealer%2C%20RepairClinic&tag=errorcodefixe-20) | $120–$250 |
-| [Pressure switch (Carrier #HK06WC085)](https://www.amazon.com/s?k=Pressure%20switch%20(Carrier%20%23HK06WC085)&tag=errorcodefixe-20) | Johnstone Supply, Grainger | $20–$45 | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Gas combination valve (White-Rodgers 36J) | Carrier dealer, HVAC Supply | [$90–$200](https://www.amazon.com/s?k=%2490%E2%80%93%24200&tag=errorcodefixe-20) |  | Ignition control board (Carrier HK42FZ series) | [Carrier OEM dealer](https://www.amazon.com/s?k=Carrier%20OEM%20dealer&tag=errorcodefixe-20) | $150–$320 |
+| Part | Typical Cost | Where to Buy |
+|------|-------------|---------------|
+| Draft inducer motor assembly (Carrier OEM #HC21ZE120) | $120–$250 | [Amazon](https://www.amazon.com/s?k=Carrier+HC21ZE120+inducer+motor&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=HC21ZE120) |
+| Pressure switch (Carrier #HK06WC085) | $20–$45 | [Amazon](https://www.amazon.com/s?k=Carrier+HK06WC085+pressure+switch&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=HK06WC085) |
+| Gas combination valve (White-Rodgers 36J) | $90–$200 | [Amazon](https://www.amazon.com/s?k=White-Rodgers+36J+gas+valve&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=White-Rodgers+36J) |
+| Ignition control board (Carrier HK42FZ series) | $150–$320 | [Amazon](https://www.amazon.com/s?k=Carrier+HK42FZ+ignition+control+board&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=HK42FZ) |
 
 ## When to Call a Professional
 
 If you've reset the lockout, confirmed the inducer runs smoothly, the pressure switch closes, and you're still getting code 21, you need a tech with a combustion analyzer and gas pressure gauge. A gas valve that's partially opening (low gas flow) or a cracked heat exchanger disrupting the flame will both produce a 21 lockout that looks like a control board problem. Tell your tech: "Code 21, hard lockout. Inducer runs, pressure switch is closed, igniter glows. Gas valve gets 24V but I still can't prove flame."
 
 > **Pro tip:** Before assuming a board failure on a 21 lockout, check if someone recently replaced the gas valve with an aftermarket unit that has a slightly different pressure rating. A mismatched valve regulator can produce the exact right resistance to cause intermittent ignition failures that accumulate into a lockout.
+

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Viessmann Boiler Fault F4 — Causes & Fix"
 description: "What Viessmann boiler fault code F4 means, why ignition fails, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -37,10 +37,9 @@ Fault F4 on a Viessmann boiler (Vitodens 050-W, 100-W, 200-W series) indicates a
 
 | Part | Notes |
 |------|-------|
-| [Ionization/ignition electrode](https://www.amazon.com/s?k=Ionization%2Fignition%20electrode&tag=errorcodefixe-20) | Viessmann OEM; match model and burner version |
-| [Ignition cable (high-tension lead)](https://www.amazon.com/s?k=Ignition%20cable%20(high-tension%20lead)&tag=errorcodefixe-20) | Replace if insulation is cracked or burned |
-| [Gas combination valve (VCG)](https://www.amazon.com/s?k=Gas%20combination%20valve%20(VCG)&tag=errorcodefixe-20) | Replace only after confirming correct valve input voltage and pressure |
-
+| Ionization/ignition electrode | [Amazon](https://www.amazon.com/s?k=Ionization%2Fignition+electrode&tag=errorcodefixes-20) \| Viessmann OEM; match model and burner version |
+| Ignition cable (high-tension lead) | [Amazon](https://www.amazon.com/s?k=Ignition+cable+%28high-tension+lead%29&tag=errorcodefixes-20) \| Replace if insulation is cracked or burned |
+| Gas combination valve (VCG) | [Amazon](https://www.amazon.com/s?k=Gas+combination+valve+%28VCG%29&tag=errorcodefixes-20) \| Replace only after confirming correct valve input voltage and pressure |
 ## When to Call a Pro
 
 Viessmann condensing boilers require a Gas Safe registered engineer (UK) or licensed HVAC-R technician (North America) for gas pressure adjustment and combustion analysis. F4 faults that recur after electrode cleaning almost always require either gas pressure correction or combustion air diagnosis — both require certified technicians.

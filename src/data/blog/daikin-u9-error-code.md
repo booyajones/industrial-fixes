@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Daikin U9 Error Code — Causes & Fix"
 description: "What Daikin U9 means on a mini-split, why high pressure trips the system, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,11 +36,10 @@ U9 on a Daikin mini-split indicates an abnormally high discharge pressure on the
 
 | Part | Notes |
 |------|-------|
-| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | Match OEM RPM and rotation direction |
-| [Condenser fan capacitor](https://www.amazon.com/s?k=Condenser%20fan%20capacitor&tag=errorcodefixe-20) | Test first; often cheaper than the motor |
-| [High-pressure switch](https://www.amazon.com/s?k=High-pressure%20switch&tag=errorcodefixe-20) | OEM replacement; must match pressure cutout rating |
-| [Coil fin comb](https://www.amazon.com/s?k=Coil%20fin%20comb&tag=errorcodefixe-20) | Straighten bent fins to restore airflow |
-
+| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Match OEM RPM and rotation direction |
+| Condenser fan capacitor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+capacitor&tag=errorcodefixes-20) \| Test first; often cheaper than the motor |
+| High-pressure switch | [Amazon](https://www.amazon.com/s?k=High-pressure+switch&tag=errorcodefixes-20) \| OEM replacement; must match pressure cutout rating |
+| Coil fin comb | [Amazon](https://www.amazon.com/s?k=Coil+fin+comb&tag=errorcodefixes-20) \| Straighten bent fins to restore airflow |
 ## When to Call a Pro
 
 Refrigerant measurement and handling requires EPA 608 certification. If U9 is caused by overcharge or non-condensables, a licensed technician must recover, evacuate, and recharge the system.

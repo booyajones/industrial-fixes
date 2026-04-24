@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Carrier 13 Error Code — Limit Switch Lockout Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-03T08:00:00Z
@@ -50,12 +50,16 @@ The limit switch is doing exactly what it's designed to do. The fault is almost 
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Where to Buy | Typical Cost | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |-------------|-------------|
-| High-limit switch (Carrier #HH12ZB195 or equiv.) | [Carrier dealer, Johnstone Supply](https://www.amazon.com/s?k=Carrier%20dealer%2C%20Johnstone%20Supply&tag=errorcodefixe-20) | $15–$40 |
-| [Blower motor run capacitor (match µF and voltage)](https://www.amazon.com/s?k=Blower%20motor%20run%20capacitor%20(match%20%C2%B5F%20and%20voltage)&tag=errorcodefixe-20) | HVAC Supply, Amazon | $10–$30 | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ECM blower motor (Carrier OEM #HC43AE116) | Carrier dealer, RepairClinic | [$200–$500](https://www.amazon.com/s?k=%24200%E2%80%93%24500&tag=errorcodefixe-20) |  | Air filter (16x25x1, MERV 8) | [Home Depot, Costco](https://www.amazon.com/s?k=Home%20Depot%2C%20Costco&tag=errorcodefixe-20) | $8–$25 |
+| Part | Typical Cost | Where to Buy |
+|------|-------------|---------------|
+| High-limit switch (Carrier #HH12ZB195 or equiv.) | $15–$40 | [Amazon](https://www.amazon.com/s?k=Carrier+HH12ZB195+limit+switch&tag=errorcodefixes-20) \| [Johnstone Supply](https://www.johnstonesupply.com/) |
+| Blower motor run capacitor (match µF and voltage) | $10–$30 | [Amazon](https://www.amazon.com/s?k=blower+motor+run+capacitor+HVAC&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=blower+capacitor+carrier) |
+| ECM blower motor (Carrier OEM #HC43AE116) | $200–$500 | [Amazon](https://www.amazon.com/s?k=Carrier+HC43AE116+ECM+blower+motor&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=HC43AE116) |
+| Air filter (16x25x1, MERV 8) | $8–$25 | [Amazon](https://www.amazon.com/s?k=16x25x1+MERV+8+air+filter&tag=errorcodefixes-20) \| [Home Depot](https://www.homedepot.com/s/16x25x1%20merv%208%20filter) |
 
 ## When to Call a Professional
 
 If you've replaced the filter, opened all registers, confirmed the blower runs at full speed, and the furnace still trips code 13 within one or two heat cycles — stop running the furnace and call a tech. At this point the most likely culprit is a cracked heat exchanger, which is a carbon monoxide hazard. Tell the tech: "Code 13 limit lockout, filter is new, blower runs fine, still tripping. I need a combustion analysis and heat exchanger inspection."
 
 > **Pro tip:** A limit switch that trips in the first 5 minutes of a heat cycle (not the end) almost always points to a blower problem — the heat exchanger overheats before the blower gets it up to speed. A limit that trips after 20–30 minutes of continuous running usually points to airflow restriction (dirty filter, blocked registers). The timing tells you which direction to dig.
+

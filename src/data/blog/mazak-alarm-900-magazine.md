@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mazak Alarm 900 Tool Magazine Index Fault - Causes & Fix"
 description: "What Mazak Alarm 900 (Tool Magazine Index Fault) means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T20:00:00Z
@@ -36,10 +36,9 @@ Mazak Alarm 900 is a tool magazine index fault - the MAZATROL control commanded 
 
 | Part | Notes |
 |------|-------|
-| [Magazine position proximity switch](https://www.amazon.com/s?k=Magazine%20position%20proximity%20switch&tag=errorcodefixe-20) | Replace if position count is unreliable |
-| [Magazine drive motor](https://www.amazon.com/s?k=Magazine%20drive%20motor&tag=errorcodefixe-20) | Replace if stalling confirmed |
-| [Tool pocket](https://www.amazon.com/s?k=Tool%20pocket&tag=errorcodefixe-20) | Replace damaged pockets |
-
+| Magazine position proximity switch | [Amazon](https://www.amazon.com/s?k=Magazine+position+proximity+switch&tag=errorcodefixes-20) \| Replace if position count is unreliable |
+| Magazine drive motor | [Amazon](https://www.amazon.com/s?k=Magazine+drive+motor&tag=errorcodefixes-20) \| Replace if stalling confirmed |
+| Tool pocket | [Amazon](https://www.amazon.com/s?k=Tool+pocket&tag=errorcodefixes-20) \| Replace damaged pockets |
 ## When to Call a Pro
 
 Mazak tool magazine mechanical work requires factory-trained service to maintain precise pocket-to-spindle alignment.

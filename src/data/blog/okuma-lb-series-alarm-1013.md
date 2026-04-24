@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Okuma LB-Series Alarm 1013 — Causes & Fix"
 description: "What Okuma LB-Series Alarm 1013 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T18:00:00Z
@@ -36,10 +36,9 @@ Okuma Alarm 1013 on LB-Series CNC lathes (LB-3000, LB-4000, LB-6000 and similar)
 
 | Part | Notes |
 |------|-------|
-| [Servo encoder cable](https://www.amazon.com/s?k=Servo%20encoder%20cable&tag=errorcodefixe-20) | Replace if damaged; must match axis motor connector |
-| [Servo motor encoder](https://www.amazon.com/s?k=Servo%20motor%20encoder&tag=errorcodefixe-20) | Replace if cable is fine but feedback is erratic |
-| [Servo amplifier](https://www.amazon.com/s?k=Servo%20amplifier&tag=errorcodefixe-20) | Replace if amplifier has its own internal fault |
-
+| Servo encoder cable | [Amazon](https://www.amazon.com/s?k=Servo+encoder+cable&tag=errorcodefixes-20) \| Replace if damaged; must match axis motor connector |
+| Servo motor encoder | [Amazon](https://www.amazon.com/s?k=Servo+motor+encoder&tag=errorcodefixes-20) \| Replace if cable is fine but feedback is erratic |
+| Servo amplifier | [Amazon](https://www.amazon.com/s?k=Servo+amplifier&tag=errorcodefixes-20) \| Replace if amplifier has its own internal fault |
 ## When to Call a Pro
 
 Okuma LB-Series servo system work requires factory-trained service for drive calibration and axis accuracy verification after any mechanical or electrical repair.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Schneider Altivar Fault OCF — Causes & Fix"
 description: "What Schneider Altivar OCF fault means, why overcurrent trips the drive, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,10 +36,9 @@ OCF (Overcurrent Fault) on a Schneider Altivar drive (ATV12, ATV320, ATV630, ATV
 
 | Part | Notes |
 |------|-------|
-| [Motor cable (VFD-rated, screened)](https://www.amazon.com/s?k=Motor%20cable%20(VFD-rated%2C%20screened)&tag=errorcodefixe-20) | Replace if insulation test fails |
-| [Motor (replacement or rewind)](https://www.amazon.com/s?k=Motor%20(replacement%20or%20rewind)&tag=errorcodefixe-20) | If winding short circuit is confirmed |
-| [Drive output filter (dV/dt)](https://www.amazon.com/s?k=Drive%20output%20filter%20(dV%2Fdt)&tag=errorcodefixe-20) | Reduces cable stress on long runs |
-
+| Motor cable (VFD-rated, screened) | [Amazon](https://www.amazon.com/s?k=Motor+cable+%28VFD-rated%2C+screened%29&tag=errorcodefixes-20) \| Replace if insulation test fails |
+| Motor (replacement or rewind) | [Amazon](https://www.amazon.com/s?k=Motor+%28replacement+or+rewind%29&tag=errorcodefixes-20) \| If winding short circuit is confirmed |
+| Drive output filter (dV/dt) | [Amazon](https://www.amazon.com/s?k=Drive+output+filter+%28dV%2Fdt%29&tag=errorcodefixes-20) \| Reduces cable stress on long runs |
 ## When to Call a Pro
 
 If the drive itself trips OCF with no output connected, the internal IGBT or driver card has failed. Drive internal repair requires Schneider-authorized service or drive replacement. Always follow lockout/tagout procedures before testing output circuits.

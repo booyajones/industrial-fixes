@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fanuc Alarm 435 — Causes & Fix"
 description: "What Fanuc Alarm 435 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -36,10 +36,9 @@ Fanuc Alarm 435 indicates a servo following error on the Y-axis — the differen
 
 | Part | Notes |
 |------|-------|
-| [Y-axis encoder cable](https://www.amazon.com/s?k=Y-axis%20encoder%20cable&tag=errorcodefixe-20) | Replace if damaged or intermittent |
-| [Y-axis servo motor](https://www.amazon.com/s?k=Y-axis%20servo%20motor&tag=errorcodefixe-20) | Replace if motor resistance tests show winding fault |
-| [Y-axis servo amplifier](https://www.amazon.com/s?k=Y-axis%20servo%20amplifier&tag=errorcodefixe-20) | Replace if amplifier shows its own fault code |
-
+| Y-axis encoder cable | [Amazon](https://www.amazon.com/s?k=Y-axis+encoder+cable&tag=errorcodefixes-20) \| Replace if damaged or intermittent |
+| Y-axis servo motor | [Amazon](https://www.amazon.com/s?k=Y-axis+servo+motor&tag=errorcodefixes-20) \| Replace if motor resistance tests show winding fault |
+| Y-axis servo amplifier | [Amazon](https://www.amazon.com/s?k=Y-axis+servo+amplifier&tag=errorcodefixes-20) \| Replace if amplifier shows its own fault code |
 ## When to Call a Pro
 
 Guideway and ballscrew repair requires precision measurement and Fanuc-trained service to restore machine accuracy after any mechanical work.

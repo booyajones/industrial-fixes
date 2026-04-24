@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Haas Alarm 121 — ATC Arm Fault"
 description: "Haas Alarm 121 means the automatic tool changer arm failed to complete its motion correctly. Learn the causes and how to fix Haas Alarm 121."
 pubDatetime: 2026-04-22T17:00:00Z
@@ -40,11 +40,10 @@ tags:
 
 | Part | Notes |
 |------|-------|
-| [Proximity switch](https://www.amazon.com/s?k=Proximity%20switch&tag=errorcodefixe-20) | Common if the control never sees arm position |
-| [ATC arm gripper fingers](https://www.amazon.com/s?k=ATC%20arm%20gripper%20fingers&tag=errorcodefixe-20) | Replace if bent or worn |
-| [Air regulator / filter parts](https://www.amazon.com/s?k=Air%20regulator%20%2F%20filter%20parts&tag=errorcodefixe-20) | Low air causes incomplete actuation |
-| [ATC gearbox components](https://www.amazon.com/s?k=ATC%20gearbox%20components&tag=errorcodefixe-20) | If timing will not hold |
-
+| Proximity switch | [Amazon](https://www.amazon.com/s?k=Proximity+switch&tag=errorcodefixes-20) \| Common if the control never sees arm position |
+| ATC arm gripper fingers | [Amazon](https://www.amazon.com/s?k=ATC+arm+gripper+fingers&tag=errorcodefixes-20) \| Replace if bent or worn |
+| Air regulator / filter parts | [Amazon](https://www.amazon.com/s?k=Air+regulator+%2F+filter+parts&tag=errorcodefixes-20) \| Low air causes incomplete actuation |
+| ATC gearbox components | [Amazon](https://www.amazon.com/s?k=ATC+gearbox+components&tag=errorcodefixes-20) \| If timing will not hold |
 ## When to Call a Pro
 
 If the arm is visibly out of time or the changer jammed during a crash, the safest path is a proper Haas recovery and alignment procedure. Forcing the changer can bend the arm or damage the carousel.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Goodman GMS80 Furnace Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Goodman GMS80 furnace error codes, LED flash sequences, common fault causes, and step-by-step repair procedures for HVAC technicians."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -20,18 +20,18 @@ The Goodman GMS80 is an 80% AFUE single-stage gas furnace with a PSC blower moto
 
 ## Goodman GMS80 LED Flash Code Reference
 
-| [Flash Count](https://www.amazon.com/s?k=Flash%20Count&tag=errorcodefixe-20) | Fault |
+| Flash Count | Fault |
 |---|---|
-| [1 flash](https://www.amazon.com/s?k=1%20flash&tag=errorcodefixe-20) | Normal — system waiting for call |
-| [2 flashes](https://www.amazon.com/s?k=2%20flashes&tag=errorcodefixe-20) | Pressure switch stuck open |
-| [3 flashes](https://www.amazon.com/s?k=3%20flashes&tag=errorcodefixe-20) | Pressure switch stuck closed |
-| [4 flashes](https://www.amazon.com/s?k=4%20flashes&tag=errorcodefixe-20) | Open limit device (high-limit or aux limit) |
-| [5 flashes](https://www.amazon.com/s?k=5%20flashes&tag=errorcodefixe-20) | Flame sensed without gas valve call |
-| [6 flashes](https://www.amazon.com/s?k=6%20flashes&tag=errorcodefixe-20) | 6 ignition retries failed — hard lockout |
-| [7 flashes](https://www.amazon.com/s?k=7%20flashes&tag=errorcodefixe-20) | Gas valve (low-fire) fault |
-| [8 flashes](https://www.amazon.com/s?k=8%20flashes&tag=errorcodefixe-20) | Low igniter current detected |
-| [9 flashes](https://www.amazon.com/s?k=9%20flashes&tag=errorcodefixe-20) | Rollout switch open |
-| [Rapid flash](https://www.amazon.com/s?k=Rapid%20flash&tag=errorcodefixe-20) | Low control voltage (below 19VAC) |
+| 1 flash | Normal — system waiting for call |
+| 2 flashes | Pressure switch stuck open |
+| 3 flashes | Pressure switch stuck closed |
+| 4 flashes | Open limit device (high-limit or aux limit) |
+| 5 flashes | Flame sensed without gas valve call |
+| 6 flashes | 6 ignition retries failed — hard lockout |
+| 7 flashes | Gas valve (low-fire) fault |
+| 8 flashes | Low igniter current detected |
+| 9 flashes | Rollout switch open |
+| Rapid flash | Low control voltage (below 19VAC) |
 
 ## Common Causes by Code
 
@@ -53,13 +53,12 @@ The Goodman GMS80 is an 80% AFUE single-stage gas furnace with a PSC blower moto
 
 | Part | Notes |
 |---|---|
-| [Hot surface igniter](https://www.amazon.com/s?k=Hot%20surface%20igniter&tag=errorcodefixe-20) | Goodman uses both silicon nitride and silicon carbide depending on production year |
-| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | Rod-type; clean before replacing |
-| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Check hose first; switches fail after condensate contamination |
-| [High-limit switch](https://www.amazon.com/s?k=High-limit%20switch&tag=errorcodefixe-20) | L160 or L180 depending on GMS80 variant |
-| [Rollout switch](https://www.amazon.com/s?k=Rollout%20switch&tag=errorcodefixe-20) | L195°F or L270°F; manual reset |
-| [PSC blower capacitor](https://www.amazon.com/s?k=PSC%20blower%20capacitor&tag=errorcodefixe-20) | Single-run capacitor on PSC motor; check µF |
-
+| Hot surface igniter | [Amazon](https://www.amazon.com/s?k=Hot+surface+igniter&tag=errorcodefixes-20) \| Goodman uses both silicon nitride and silicon carbide depending on production year |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Rod-type; clean before replacing |
+| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Check hose first; switches fail after condensate contamination |
+| High-limit switch | [Amazon](https://www.amazon.com/s?k=High-limit+switch&tag=errorcodefixes-20) \| L160 or L180 depending on GMS80 variant |
+| Rollout switch | [Amazon](https://www.amazon.com/s?k=Rollout+switch&tag=errorcodefixes-20) \| L195°F or L270°F; manual reset |
+| PSC blower capacitor | [Amazon](https://www.amazon.com/s?k=PSC+blower+capacitor&tag=errorcodefixes-20) \| Single-run capacitor on PSC motor; check µF |
 ## When to Call a Pro
 
 A Goodman GMS80 that trips the rollout switch (Code 9) requires professional inspection before return to service. A cracked heat exchanger allows combustion gases to mix with circulated air — a carbon monoxide risk. Do not bypass the rollout switch. If the furnace repeatedly trips the limit (Code 4) after filter replacement, a cracked heat exchanger or ECM motor issue may be the root cause requiring professional diagnosis.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Navien E009 Error Code — Causes & Fix"
 description: "What Navien error code E009 means, why the heat exchanger overheats, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,11 +36,10 @@ E009 on a Navien tankless water heater or combi-boiler indicates a heat exchange
 
 | Part | Notes |
 |------|-------|
-| [Cold water inlet filter screen](https://www.amazon.com/s?k=Cold%20water%20inlet%20filter%20screen&tag=errorcodefixe-20) | Clean with vinegar; replace if corroded |
-| [Heat exchanger outlet thermistor](https://www.amazon.com/s?k=Heat%20exchanger%20outlet%20thermistor&tag=errorcodefixe-20) | Navien OEM; match NPE or NCB model series |
-| [Descaling kit](https://www.amazon.com/s?k=Descaling%20kit&tag=errorcodefixe-20) | Vinegar flush clears most mineral scale |
-| [Flow sensor](https://www.amazon.com/s?k=Flow%20sensor&tag=errorcodefixe-20) | Replace if confirmed not reporting flow during demand |
-
+| Cold water inlet filter screen | [Amazon](https://www.amazon.com/s?k=Cold+water+inlet+filter+screen&tag=errorcodefixes-20) \| Clean with vinegar; replace if corroded |
+| Heat exchanger outlet thermistor | [Amazon](https://www.amazon.com/s?k=Heat+exchanger+outlet+thermistor&tag=errorcodefixes-20) \| Navien OEM; match NPE or NCB model series |
+| Descaling kit | [Amazon](https://www.amazon.com/s?k=Descaling+kit&tag=errorcodefixes-20) \| Vinegar flush clears most mineral scale |
+| Flow sensor | [Amazon](https://www.amazon.com/s?k=Flow+sensor&tag=errorcodefixes-20) \| Replace if confirmed not reporting flow during demand |
 ## When to Call a Pro
 
 If descaling and flow restoration do not resolve E009, the heat exchanger may have suffered damage from prolonged scale buildup. A licensed plumber should assess whether the heat exchanger needs replacement and whether a water softener or scale inhibitor should be added upstream of the unit.

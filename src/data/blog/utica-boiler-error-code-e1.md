@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Utica Boiler Error Code E1 — Causes & Fix"
 description: "What Utica boiler error code E1 means, why ignition fails, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -38,10 +38,9 @@ E1 on a Utica boiler (UB, UBCH, or Combi series) indicates an ignition failure l
 
 | Part | Notes |
 |------|-------|
-| [Flame sensor rod](https://www.amazon.com/s?k=Flame%20sensor%20rod&tag=errorcodefixe-20) | Utica/ECR OEM or universal replacement with matching tip geometry |
-| [Hot surface igniter](https://www.amazon.com/s?k=Hot%20surface%20igniter&tag=errorcodefixe-20) | Match wattage and mounting style for the Utica model |
-| [Gas valve](https://www.amazon.com/s?k=Gas%20valve&tag=errorcodefixe-20) | Replace only after confirming correct 24VAC input and no gas output |
-
+| Flame sensor rod | [Amazon](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20) \| Utica/ECR OEM or universal replacement with matching tip geometry |
+| Hot surface igniter | [Amazon](https://www.amazon.com/s?k=Hot+surface+igniter&tag=errorcodefixes-20) \| Match wattage and mounting style for the Utica model |
+| Gas valve | [Amazon](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) \| Replace only after confirming correct 24VAC input and no gas output |
 ## When to Call a Pro
 
 If E1 persists after cleaning the flame sensor and verifying gas supply, a technician should measure gas inlet and manifold pressure and inspect the heat exchanger for cracks. Heat exchanger failures cause combustion instability that mimics a flame sensor fault.

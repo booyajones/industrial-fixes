@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Follett Ice Machine Error Code E1 — Causes & Fix"
 description: "What Follett E1 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,11 +36,10 @@ Follett error code E1 means ice-making fault — the control board has detected 
 
 | Part | Notes |
 |------|-------|
-| [Auger bearing kit](https://www.amazon.com/s?k=Auger%20bearing%20kit&tag=errorcodefixe-20) | Follett part number is model-specific; Horizon Elite uses a different kit than older 7 Series |
-| [Water inlet valve (solenoid)](https://www.amazon.com/s?k=Water%20inlet%20valve%20(solenoid)&tag=errorcodefixe-20) | Replace if valve fails to open with power applied |
-| [Condenser fan motor](https://www.amazon.com/s?k=Condenser%20fan%20motor&tag=errorcodefixe-20) | Replace if fan is inoperative or running below speed |
-| [Water filter cartridge](https://www.amazon.com/s?k=Water%20filter%20cartridge&tag=errorcodefixe-20) | Replace at 6-month intervals or at first E1 if filter hasn't been serviced |
-
+| Auger bearing kit | [Amazon](https://www.amazon.com/s?k=Auger+bearing+kit&tag=errorcodefixes-20) \| Follett part number is model-specific; Horizon Elite uses a different kit than older 7 Series |
+| Water inlet valve (solenoid) | [Amazon](https://www.amazon.com/s?k=Water+inlet+valve+%28solenoid%29&tag=errorcodefixes-20) \| Replace if valve fails to open with power applied |
+| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Replace if fan is inoperative or running below speed |
+| Water filter cartridge | [Amazon](https://www.amazon.com/s?k=Water+filter+cartridge&tag=errorcodefixes-20) \| Replace at 6-month intervals or at first E1 if filter hasn't been serviced |
 ## When to Call a Pro
 
 Auger removal and bearing replacement inside the evaporator cylinder requires proper tools and refrigeration system recovery if refrigerant needs to be removed. An EPA 608-certified Follett service technician should handle any work inside the refrigerated section.

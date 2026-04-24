@@ -1,4 +1,4 @@
-﻿---
+---
 title: "True Refrigeration E3 Error Code — Causes & Fix"
 description: "What True refrigeration E3 error code means, why defrost termination faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -37,10 +37,9 @@ True Refrigeration E3 indicates a **defrost termination fault** — the defrost 
 
 | Part | Notes |
 |------|-------|
-| [Defrost heater](https://www.amazon.com/s?k=Defrost%20heater&tag=errorcodefixe-20) | Match wattage and physical length to the original; True OEM or compatible |
-| [Defrost termination thermostat](https://www.amazon.com/s?k=Defrost%20termination%20thermostat&tag=errorcodefixe-20) | Match the setpoint temperature (typically 45–55°F for reach-ins) |
-| [Door gasket](https://www.amazon.com/s?k=Door%20gasket&tag=errorcodefixe-20) | Replace if the gasket is torn, compressed, or no longer sealing |
-
+| Defrost heater | [Amazon](https://www.amazon.com/s?k=Defrost+heater&tag=errorcodefixes-20) \| Match wattage and physical length to the original; True OEM or compatible |
+| Defrost termination thermostat | [Amazon](https://www.amazon.com/s?k=Defrost+termination+thermostat&tag=errorcodefixes-20) \| Match the setpoint temperature (typically 45–55°F for reach-ins) |
+| Door gasket | [Amazon](https://www.amazon.com/s?k=Door+gasket&tag=errorcodefixes-20) \| Replace if the gasket is torn, compressed, or no longer sealing |
 ## When to Call a Pro
 
 If E3 returns after replacing the heater and thermostat, the defrost timer or electronic controller may have a fault in the defrost timing circuit. True Refrigeration's authorized service network can diagnose the controller board and timer assembly.

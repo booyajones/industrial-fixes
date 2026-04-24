@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Sun Hydraulics Fault Codes - Complete Guide"
 description: "Sun Hydraulics (Helios) electrohydraulic manifold and controller fault codes: causes, diagnostic steps, and repair guidance."
 pubDatetime: 2026-04-22T20:00:00Z
@@ -16,11 +16,18 @@ tags:
 
 Sun Hydraulics (now Helios Technologies) manufactures screw-in hydraulic cartridge valves and Enovation Controls (Murphy) electronic systems for mobile and industrial hydraulics. Faults appear on MurphyLink displays or CAN bus diagnostics.
 
-| [Fault](https://www.amazon.com/s?k=Fault&tag=errorcodefixe-20) | Meaning | Quick Fix | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------- |---------|-----------|
-| Supply Voltage Low | [Battery or supply below threshold](https://www.amazon.com/s?k=Battery%20or%20supply%20below%20threshold&tag=errorcodefixe-20) | Check supply voltage at module |
-| [Supply Voltage High](https://www.amazon.com/s?k=Supply%20Voltage%20High&tag=errorcodefixe-20) | Over-voltage on power input | Check alternator or power supply | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Solenoid Open Circuit | Valve solenoid disconnected or failed | [Check coil and wiring](https://www.amazon.com/s?k=Check%20coil%20and%20wiring&tag=errorcodefixe-20) |  | Solenoid Short Circuit | [Valve coil shorted](https://www.amazon.com/s?k=Valve%20coil%20shorted&tag=errorcodefixe-20) | Replace coil |
-| [Sensor Signal Low](https://www.amazon.com/s?k=Sensor%20Signal%20Low&tag=errorcodefixe-20) | Pressure or position sensor below range | Check sensor supply and wiring | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Sensor Signal High | Sensor above range | [Check sensor and calibration](https://www.amazon.com/s?k=Check%20sensor%20and%20calibration&tag=errorcodefixe-20) |  | CAN Bus Fault | [Communication lost on CAN network](https://www.amazon.com/s?k=Communication%20lost%20on%20CAN%20network&tag=errorcodefixe-20) | Check CAN wiring and termination |
-| [Temperature High](https://www.amazon.com/s?k=Temperature%20High&tag=errorcodefixe-20) | Controller or oil temp exceeded | Check cooling, reduce duty cycle | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Calibration Required | Setup procedure needed | [Run calibration routine](https://www.amazon.com/s?k=Run%20calibration%20routine&tag=errorcodefixe-20) |  | Output Overcurrent | [Output channel drawing too much current](https://www.amazon.com/s?k=Output%20channel%20drawing%20too%20much%20current&tag=errorcodefixe-20) | Check load wiring |
+| Fault | Meaning | Quick Fix |
+|-------|---------|-----------|
+| Supply Voltage Low | Battery or supply below threshold | Check supply voltage at module |
+| Supply Voltage High | Over-voltage on power input | Check alternator or power supply |
+| Solenoid Open Circuit | Valve solenoid disconnected or failed | Check coil and wiring |
+| Solenoid Short Circuit | Valve coil shorted | Replace coil |
+| Sensor Signal Low | Pressure or position sensor below range | Check sensor supply and wiring |
+| Sensor Signal High | Sensor above range | Check sensor and calibration |
+| CAN Bus Fault | Communication lost on CAN network | Check CAN wiring and termination |
+| Temperature High | Controller or oil temp exceeded | Check cooling, reduce duty cycle |
+| Calibration Required | Setup procedure needed | Run calibration routine |
+| Output Overcurrent | Output channel drawing too much current | Check load wiring |
 
 ## Most Common Faults
 
@@ -40,12 +47,11 @@ In mobile equipment, hydraulic oil temperature control relies on adequate fan co
 
 | Part | Notes |
 |------|-------|
-| [Deutsch DT connector pins](https://www.amazon.com/s?k=Deutsch%20DT%20connector%20pins&tag=errorcodefixe-20) | Most common fault location |
-| [Solenoid coil (12VDC or 24VDC)](https://www.amazon.com/s?k=Solenoid%20coil%20(12VDC%20or%2024VDC)&tag=errorcodefixe-20) | Replace on short/open |
-| [Pressure transducer](https://www.amazon.com/s?k=Pressure%20transducer&tag=errorcodefixe-20) | Replace on signal fault |
-| [CAN bus termination resistor](https://www.amazon.com/s?k=CAN%20bus%20termination%20resistor&tag=errorcodefixe-20) | 120 ohm |
-| [Murphy display module](https://www.amazon.com/s?k=Murphy%20display%20module&tag=errorcodefixe-20) | Replace on screen or power faults |
-
+| Deutsch DT connector pins | [Amazon](https://www.amazon.com/s?k=Deutsch+DT+connector+pins&tag=errorcodefixes-20) \| Most common fault location |
+| Solenoid coil (12VDC or 24VDC) | [Amazon](https://www.amazon.com/s?k=Solenoid+coil+%2812VDC+or+24VDC%29&tag=errorcodefixes-20) \| Replace on short/open |
+| Pressure transducer | [Amazon](https://www.amazon.com/s?k=Pressure+transducer&tag=errorcodefixes-20) \| Replace on signal fault |
+| CAN bus termination resistor | [Amazon](https://www.amazon.com/s?k=CAN+bus+termination+resistor&tag=errorcodefixes-20) \| 120 ohm |
+| Murphy display module | [Amazon](https://www.amazon.com/s?k=Murphy+display+module&tag=errorcodefixes-20) \| Replace on screen or power faults |
 ## When to Call a Pro
 Enovation/Murphy controller calibration for load-sensing systems and proportional valve flow tuning requires factory documentation. Incorrect calibration causes erratic machine motion.
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Carrier VRF System Error Codes Guide"
 description: "Complete guide to Carrier VRF (Variable Refrigerant Flow) system error codes. Covers all fault codes for Carrier i-Vu and CCN-based VRF systems."
 pubDatetime: 2026-04-22T17:00:00Z
@@ -27,24 +27,39 @@ Carrier VRF systems (sold under the Carrier and Midea-sourced product lines) dis
 
 ### Communication / System Faults
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Description | Common Cause | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | --- |---|---|
-| E01 | [Indoor/outdoor communication fault](https://www.amazon.com/s?k=Indoor%2Foutdoor%20communication%20fault&tag=errorcodefixe-20) | Check F1/F2 wiring |
-| [E02](https://www.amazon.com/s?k=E02&tag=errorcodefixe-20) | Outdoor unit PCB fault | Replace outdoor main board | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E03 | Phase detection fault | [Check 3-phase power supply](https://www.amazon.com/s?k=Check%203-phase%20power%20supply&tag=errorcodefixe-20) |  | E04 | [High-pressure protection](https://www.amazon.com/s?k=High-pressure%20protection&tag=errorcodefixe-20) | Dirty condenser, overcharge |
-| [E05](https://www.amazon.com/s?k=E05&tag=errorcodefixe-20) | Low-pressure protection | Low refrigerant, airflow issue | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E06 | Discharge temperature high | [Low refrigerant, TXV fault](https://www.amazon.com/s?k=Low%20refrigerant%2C%20TXV%20fault&tag=errorcodefixe-20) |  | E07 | [Compressor overload](https://www.amazon.com/s?k=Compressor%20overload&tag=errorcodefixe-20) | Check compressor amps |
-| [E08](https://www.amazon.com/s?k=E08&tag=errorcodefixe-20) | Fan motor fault — outdoor | Fan motor or inverter board | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E09 | Electronic expansion valve fault | [EEV coil or wiring](https://www.amazon.com/s?k=EEV%20coil%20or%20wiring&tag=errorcodefixe-20) |  | E10 | [Heat exchanger sensor fault](https://www.amazon.com/s?k=Heat%20exchanger%20sensor%20fault&tag=errorcodefixe-20) | Check condenser/evap sensor |
+| Code | Description | Common Cause |
+|---|---|---|
+| E01 | Indoor/outdoor communication fault | Check F1/F2 wiring |
+| E02 | Outdoor unit PCB fault | Replace outdoor main board |
+| E03 | Phase detection fault | Check 3-phase power supply |
+| E04 | High-pressure protection | Dirty condenser, overcharge |
+| E05 | Low-pressure protection | Low refrigerant, airflow issue |
+| E06 | Discharge temperature high | Low refrigerant, TXV fault |
+| E07 | Compressor overload | Check compressor amps |
+| E08 | Fan motor fault — outdoor | Fan motor or inverter board |
+| E09 | Electronic expansion valve fault | EEV coil or wiring |
+| E10 | Heat exchanger sensor fault | Check condenser/evap sensor |
 
 ### Indoor Unit Faults
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Description | Common Cause | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | --- |---|---|
-| I01 | [Indoor PCB fault](https://www.amazon.com/s?k=Indoor%20PCB%20fault&tag=errorcodefixe-20) | Replace indoor control board |
-| [I02](https://www.amazon.com/s?k=I02&tag=errorcodefixe-20) | Indoor communication fault | Check F1/F2 wiring to indoor unit | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | I03 | Indoor fan motor fault | [Motor or capacitor](https://www.amazon.com/s?k=Motor%20or%20capacitor&tag=errorcodefixe-20) |  | I04 | [Freeze protection trip](https://www.amazon.com/s?k=Freeze%20protection%20trip&tag=errorcodefixe-20) | Low refrigerant, dirty filter |
-| [I05](https://www.amazon.com/s?k=I05&tag=errorcodefixe-20) | Drain level fault | Blocked drain, condensate pump | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | I06 | Indoor temperature sensor fault | [Check sensor resistance](https://www.amazon.com/s?k=Check%20sensor%20resistance&tag=errorcodefixe-20) |  | I07 | [Pipe temperature sensor fault](https://www.amazon.com/s?k=Pipe%20temperature%20sensor%20fault&tag=errorcodefixe-20) | Check liquid/suction pipe sensors |
+| Code | Description | Common Cause |
+|---|---|---|
+| I01 | Indoor PCB fault | Replace indoor control board |
+| I02 | Indoor communication fault | Check F1/F2 wiring to indoor unit |
+| I03 | Indoor fan motor fault | Motor or capacitor |
+| I04 | Freeze protection trip | Low refrigerant, dirty filter |
+| I05 | Drain level fault | Blocked drain, condensate pump |
+| I06 | Indoor temperature sensor fault | Check sensor resistance |
+| I07 | Pipe temperature sensor fault | Check liquid/suction pipe sensors |
 
 ### Protection / Lockout Faults
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Description | Common Cause | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | --- |---|---|
-| F01 | [Hard lockout — high pressure](https://www.amazon.com/s?k=Hard%20lockout%20%E2%80%94%20high%20pressure&tag=errorcodefixe-20) | 3 HP trips — manual reset |
-| [F02](https://www.amazon.com/s?k=F02&tag=errorcodefixe-20) | Hard lockout — low pressure | 3 LP trips — manual reset | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | F03 | Hard lockout — discharge temp | [3 high-temp trips — manual reset](https://www.amazon.com/s?k=3%20high-temp%20trips%20%E2%80%94%20manual%20reset&tag=errorcodefixe-20) |  | F04 | [Compressor lockout](https://www.amazon.com/s?k=Compressor%20lockout&tag=errorcodefixe-20) | Compressor protection activated |
+| Code | Description | Common Cause |
+|---|---|---|
+| F01 | Hard lockout — high pressure | 3 HP trips — manual reset |
+| F02 | Hard lockout — low pressure | 3 LP trips — manual reset |
+| F03 | Hard lockout — discharge temp | 3 high-temp trips — manual reset |
+| F04 | Compressor lockout | Compressor protection activated |
 
 ## Most Common Carrier VRF Faults
 
@@ -77,11 +92,11 @@ Electronic expansion valve faults are common after refrigerant work:
 
 | Part | Notes |
 |---|---|
-| [Electronic expansion valve](https://www.amazon.com/s?k=Electronic%20expansion%20valve&tag=errorcodefixe-20) | Model-specific — match kv and connection |
-| [Outdoor main PCB](https://www.amazon.com/s?k=Outdoor%20main%20PCB&tag=errorcodefixe-20) | Match model and firmware version |
-| [Indoor PCB](https://www.amazon.com/s?k=Indoor%20PCB&tag=errorcodefixe-20) | Indoor unit-specific |
-| [Communication wire](https://www.amazon.com/s?k=Communication%20wire&tag=errorcodefixe-20) | Unshielded 2-conductor — match gauge for run length |
-| [Temperature sensor](https://www.amazon.com/s?k=Temperature%20sensor&tag=errorcodefixe-20) | 10K NTC thermistor |
-| [Inverter module (IPM)](https://www.amazon.com/s?k=Inverter%20module%20(IPM)&tag=errorcodefixe-20) | High-value outdoor part |
+| Electronic expansion valve | Model-specific — match kv and connection |
+| Outdoor main PCB | Match model and firmware version |
+| Indoor PCB | Indoor unit-specific |
+| Communication wire | Unshielded 2-conductor — match gauge for run length |
+| Temperature sensor | 10K NTC thermistor |
+| Inverter module (IPM) | High-value outdoor part |
 
 > **Note:** Some Carrier VRF product lines are manufactured by Midea. Technical service manuals are available via Carrier's commercial partner portal. Always verify with the model number before ordering parts.

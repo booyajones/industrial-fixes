@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Allen Bradley PowerFlex 753 F12 Fault — Causes & Fix"
 description: "What Allen Bradley PowerFlex 753 F12 DC Bus Overvoltage means, why it trips, and how to fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,9 +36,8 @@ The Allen Bradley PowerFlex 753 **F12 fault** is a **DC Bus Overvoltage** trip. 
 
 | Part | Notes |
 |------|-------|
-| [Dynamic braking resistor (DB resistor)](https://www.amazon.com/s?k=Dynamic%20braking%20resistor%20(DB%20resistor)&tag=errorcodefixe-20) | Size based on drive horsepower and duty cycle; AB provides sizing tool |
-| [Line reactor (3%)](https://www.amazon.com/s?k=Line%20reactor%20(3%25)&tag=errorcodefixe-20) | Helps buffer line voltage transients that push bus voltage high |
-
+| Dynamic braking resistor (DB resistor) | [Amazon](https://www.amazon.com/s?k=Dynamic+braking+resistor+%28DB+resistor%29&tag=errorcodefixes-20) \| Size based on drive horsepower and duty cycle; AB provides sizing tool |
+| Line reactor (3%) | [Amazon](https://www.amazon.com/s?k=Line+reactor+%283%25%29&tag=errorcodefixes-20) \| Helps buffer line voltage transients that push bus voltage high |
 ## When to Call a Pro
 
 If F12 fires during acceleration (not deceleration), or if the drive trips immediately at power-up, the issue is not a ramp parameter — it may be a failed DC bus capacitor or a power quality problem requiring a power analyzer to diagnose.

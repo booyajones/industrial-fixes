@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Siemens Sinumerik Alarm 25201 — Causes & Fix"
 description: "What Siemens Sinumerik alarm 25201 means, why drive overcurrent trips, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,10 +36,9 @@ Alarm 25201 on a Siemens Sinumerik CNC (840D sl, 828D, 810D) indicates a drive o
 
 | Part | Notes |
 |------|-------|
-| [SINAMICS S120 motor module](https://www.amazon.com/s?k=SINAMICS%20S120%20motor%20module&tag=errorcodefixe-20) | Match kW rating and frame size; Siemens OEM required |
-| [Servo motor](https://www.amazon.com/s?k=Servo%20motor&tag=errorcodefixe-20) | Siemens 1FK or 1FT series; must match drive parameterization |
-| [Motor cable (power + feedback)](https://www.amazon.com/s?k=Motor%20cable%20(power%20%2B%20feedback)&tag=errorcodefixe-20) | Siemens preassembled cables preferred for DRIVE-CLiQ systems |
-
+| SINAMICS S120 motor module | [Amazon](https://www.amazon.com/s?k=SINAMICS+S120+motor+module&tag=errorcodefixes-20) \| Match kW rating and frame size; Siemens OEM required |
+| Servo motor | [Amazon](https://www.amazon.com/s?k=Servo+motor&tag=errorcodefixes-20) \| Siemens 1FK or 1FT series; must match drive parameterization |
+| Motor cable (power + feedback) | [Amazon](https://www.amazon.com/s?k=Motor+cable+%28power+%2B+feedback%29&tag=errorcodefixes-20) \| Siemens preassembled cables preferred for DRIVE-CLiQ systems |
 ## When to Call a Pro
 
 Siemens SINAMICS drive replacement requires re-parameterization via STARTER or TIA Portal and motor commissioning. This must be done by a Siemens-trained technician — incorrect parameters cause axis runaway, damaged tooling, and machine damage.

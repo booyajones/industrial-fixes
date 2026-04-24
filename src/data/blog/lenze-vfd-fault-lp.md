@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lenze VFD Fault LP — Causes & Fix"
 description: "What Lenze VFD fault LP means, why phase loss triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -37,9 +37,8 @@ Lenze fault **LP** (Phase Loss) indicates the drive detected a missing or severe
 
 | Part | Notes |
 |------|-------|
-| [Input fuses](https://www.amazon.com/s?k=Input%20fuses&tag=errorcodefixe-20) | Match voltage, amperage, and fuse class exactly (often aR or gG type on European drives) |
-| [Input line contactor](https://www.amazon.com/s?k=Input%20line%20contactor&tag=errorcodefixe-20) | If contact burning is confirmed; match coil voltage and current rating |
-
+| Input fuses | [Amazon](https://www.amazon.com/s?k=Input+fuses&tag=errorcodefixes-20) \| Match voltage, amperage, and fuse class exactly (often aR or gG type on European drives) |
+| Input line contactor | [Amazon](https://www.amazon.com/s?k=Input+line+contactor&tag=errorcodefixes-20) \| If contact burning is confirmed; match coil voltage and current rating |
 ## When to Call a Pro
 
 If all three input phases measure correctly at the drive terminals but LP persists, the drive's rectifier or input phase loss detection circuit may have failed. Lenze rectifier replacement requires drive board disassembly — contact a Lenze service center or certified integrator.

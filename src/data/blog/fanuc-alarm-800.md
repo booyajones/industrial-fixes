@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Fanuc Alarm 800: APC Alarm — Causes and Fix"
 description: "Fanuc Alarm 800 APC alarm: absolute pulse coder fault causes, diagnostic steps, and reset procedures for Fanuc 0i, 16i, 18i, 30i, and 31i systems."
 pubDatetime: 2026-04-22T21:00:00Z
@@ -24,15 +24,15 @@ The 800-series APC alarms relate to the Absolute Pulse Coder (APC) — Fanuc's a
 
 ## APC Alarm 800 Sub-Codes
 
-| [Alarm](https://www.amazon.com/s?k=Alarm&tag=errorcodefixe-20) | Meaning |
+| Alarm | Meaning |
 |-------|---------|
-| [300](https://www.amazon.com/s?k=300&tag=errorcodefixe-20) | APC alarm: battery voltage 0 |
-| [302](https://www.amazon.com/s?k=302&tag=errorcodefixe-20) | APC alarm: communication error |
-| [303](https://www.amazon.com/s?k=303&tag=errorcodefixe-20) | APC alarm: absolute position lost |
-| [304](https://www.amazon.com/s?k=304&tag=errorcodefixe-20) | APC alarm: absolute position not set |
-| [305](https://www.amazon.com/s?k=305&tag=errorcodefixe-20) | APC alarm: rotation count lost |
-| [307](https://www.amazon.com/s?k=307&tag=errorcodefixe-20) | APC alarm: battery voltage too low |
-| [360](https://www.amazon.com/s?k=360&tag=errorcodefixe-20) | APC alarm: APC fault |
+| 300 | APC alarm: battery voltage 0 |
+| 302 | APC alarm: communication error |
+| 303 | APC alarm: absolute position lost |
+| 304 | APC alarm: absolute position not set |
+| 305 | APC alarm: rotation count lost |
+| 307 | APC alarm: battery voltage too low |
+| 360 | APC alarm: APC fault |
 
 ## Most Common Cause: Battery Failure
 
@@ -68,10 +68,9 @@ The encoder lost its absolute position reference. This occurs after battery fail
 
 | Part | Notes |
 |------|-------|
-| [Fanuc A98L-0031-0005 battery](https://www.amazon.com/s?k=Fanuc%20A98L-0031-0005%20battery&tag=errorcodefixe-20) | 3.6V lithium, use Fanuc OEM |
-| [Encoder cable](https://www.amazon.com/s?k=Encoder%20cable&tag=errorcodefixe-20) | Replace if comm error persists after battery |
-| [Servo amplifier (SVM)](https://www.amazon.com/s?k=Servo%20amplifier%20(SVM)&tag=errorcodefixe-20) | Only if interface card confirmed damaged |
-
+| Fanuc A98L-0031-0005 battery | [Amazon](https://www.amazon.com/s?k=Fanuc+A98L-0031-0005+battery&tag=errorcodefixes-20) \| 3.6V lithium, use Fanuc OEM |
+| Encoder cable | [Amazon](https://www.amazon.com/s?k=Encoder+cable&tag=errorcodefixes-20) \| Replace if comm error persists after battery |
+| Servo amplifier (SVM) | [Amazon](https://www.amazon.com/s?k=Servo+amplifier+%28SVM%29&tag=errorcodefixes-20) \| Only if interface card confirmed damaged |
 ## Jump to Fix
 
 - **Battery alarm (300/307)** → Replace battery → Re-reference axes

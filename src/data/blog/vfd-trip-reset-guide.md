@@ -54,13 +54,12 @@ Read the code, review history, isolate motor if needed, verify line power, then 
 
 | Item | Notes |
 |------|-------|
-| Megohmmeter | Essential for grounding and insulation faults |
-| Clamp meter | Check current draw under load |
-| Cooling fan | Drive overtemp issues |
-| Brake resistor | Needed for repeat overvoltage decel trips |
-| Input fuses | For undervoltage and phase-loss issues |
-| Parameter backup | Always save settings before replacing a drive |
-
+| Megohmmeter | [Amazon](https://www.amazon.com/s?k=Megohmmeter&tag=errorcodefixes-20) \| Essential for grounding and insulation faults |
+| Clamp meter | [Amazon](https://www.amazon.com/s?k=Clamp+meter&tag=errorcodefixes-20) \| Check current draw under load |
+| Cooling fan | [Amazon](https://www.amazon.com/s?k=Cooling+fan&tag=errorcodefixes-20) \| Drive overtemp issues |
+| Brake resistor | [Amazon](https://www.amazon.com/s?k=Brake+resistor&tag=errorcodefixes-20) \| Needed for repeat overvoltage decel trips |
+| Input fuses | [Amazon](https://www.amazon.com/s?k=Input+fuses&tag=errorcodefixes-20) \| For undervoltage and phase-loss issues |
+| Parameter backup | [Amazon](https://www.amazon.com/s?k=Parameter+backup&tag=errorcodefixes-20) \| Always save settings before replacing a drive |
 ## When to Call a Pro
 
 If a VFD keeps tripping on the same code after one informed reset attempt, the reset was never the fix. At that point you need diagnosis, not more resets.

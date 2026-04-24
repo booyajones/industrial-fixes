@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mitsubishi U3 Error Code — Causes & Fix"
 description: "What Mitsubishi U3 error code means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,10 +36,9 @@ Mitsubishi error code U3 indicates a charge fault during the pre-charge sequence
 
 | Part | Notes |
 |------|-------|
-| [Refrigerant (R-410A or R-32)](https://www.amazon.com/s?k=Refrigerant%20(R-410A%20or%20R-32)&tag=errorcodefixe-20) | Added only after leak is found and repaired |
-| [Solenoid valve assembly (multi-zone)](https://www.amazon.com/s?k=Solenoid%20valve%20assembly%20(multi-zone)&tag=errorcodefixe-20) | Replace specific zone valve if confirmed failed on distribution manifold |
-| [Service valve cap (sealing)](https://www.amazon.com/s?k=Service%20valve%20cap%20(sealing)&tag=errorcodefixe-20) | Replace if missing — prevents moisture ingress at valve stem |
-
+| Refrigerant (R-410A or R-32) | [Amazon](https://www.amazon.com/s?k=Refrigerant+%28R-410A+or+R-32%29&tag=errorcodefixes-20) \| Added only after leak is found and repaired |
+| Solenoid valve assembly (multi-zone) | [Amazon](https://www.amazon.com/s?k=Solenoid+valve+assembly+%28multi-zone%29&tag=errorcodefixes-20) \| Replace specific zone valve if confirmed failed on distribution manifold |
+| Service valve cap (sealing) | [Amazon](https://www.amazon.com/s?k=Service+valve+cap+%28sealing%29&tag=errorcodefixes-20) \| Replace if missing — prevents moisture ingress at valve stem |
 ## When to Call a Pro
 
 Any work involving the refrigerant circuit — leak detection, recovery, recharge — requires EPA 608 certification. If the service valves are confirmed open and pressures are abnormal, stop and call a licensed refrigeration technician.

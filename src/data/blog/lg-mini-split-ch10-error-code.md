@@ -1,4 +1,4 @@
-﻿---
+---
 title: "LG Mini Split CH10 Error Code — Causes & Fix"
 description: "What LG CH10 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,10 +36,9 @@ LG error code CH10 (or "C10") indicates a communication error between the indoor
 
 | Part | Notes |
 |------|-------|
-| [Communication wire (18 AWG, 3-conductor)](https://www.amazon.com/s?k=Communication%20wire%20(18%20AWG%2C%203-conductor)&tag=errorcodefixe-20) | Replace full run if damage is found |
-| [Outdoor PCB](https://www.amazon.com/s?k=Outdoor%20PCB&tag=errorcodefixe-20) | LG part numbers are model-specific; confirm before ordering |
-| [Outdoor disconnect fuse](https://www.amazon.com/s?k=Outdoor%20disconnect%20fuse&tag=errorcodefixe-20) | Check if outdoor unit has no power at all |
-
+| Communication wire (18 AWG, 3-conductor) | [Amazon](https://www.amazon.com/s?k=Communication+wire+%2818+AWG%2C+3-conductor%29&tag=errorcodefixes-20) \| Replace full run if damage is found |
+| Outdoor PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB&tag=errorcodefixes-20) \| LG part numbers are model-specific; confirm before ordering |
+| Outdoor disconnect fuse | [Amazon](https://www.amazon.com/s?k=Outdoor+disconnect+fuse&tag=errorcodefixes-20) \| Check if outdoor unit has no power at all |
 ## When to Call a Pro
 
 Persistent CH10 after verified correct wiring and confirmed outdoor power requires board-level testing. An LG-authorized tech can read fault history and test communication bus voltage directly.

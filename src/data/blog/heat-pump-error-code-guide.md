@@ -54,13 +54,12 @@ Variable-speed heat pumps will often throw discharge temp, sensor, or drive prot
 
 | Item | Notes |
 |------|-------|
-| Defrost board | Common on standard split heat pumps |
-| Defrost sensor | Cheap but important |
-| Run capacitor | Still common on non-inverter systems |
-| Contactor | Voltage drop and no-start complaints |
-| Thermistors | Frequent on inverter units |
-| Coil cleaner | Essential before condemning parts |
-
+| Defrost board | [Amazon](https://www.amazon.com/s?k=Defrost+board&tag=errorcodefixes-20) \| Common on standard split heat pumps |
+| Defrost sensor | [Amazon](https://www.amazon.com/s?k=Defrost+sensor&tag=errorcodefixes-20) \| Cheap but important |
+| Run capacitor | [Amazon](https://www.amazon.com/s?k=Run+capacitor&tag=errorcodefixes-20) \| Still common on non-inverter systems |
+| Contactor | [Amazon](https://www.amazon.com/s?k=Contactor&tag=errorcodefixes-20) \| Voltage drop and no-start complaints |
+| Thermistors | [Amazon](https://www.amazon.com/s?k=Thermistors&tag=errorcodefixes-20) \| Frequent on inverter units |
+| Coil cleaner | [Amazon](https://www.amazon.com/s?k=Coil+cleaner&tag=errorcodefixes-20) \| Essential before condemning parts |
 ## When to Call a Pro
 
 Heat pump codes that point to low refrigerant, compressor protection, or repeated defrost failure deserve a qualified tech. Heat pumps are harder to diagnose casually because the same circuit has to work correctly in two opposite modes.

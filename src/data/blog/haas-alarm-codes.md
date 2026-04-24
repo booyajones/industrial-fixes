@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Haas CNC Alarm Codes — Complete Guide (100-Series and Up)"
 description: "Haas CNC alarm codes: all major alarm numbers including 100-series emergency stops, spindle alarms, servo faults, and ATC faults with fixes."
 pubDatetime: 2026-04-22T16:00:00Z
@@ -15,15 +15,31 @@ tags:
 
 Haas CNC machines (VF series, ST lathes, HS high-speed, EC palletizers) display alarm numbers on the control screen. Alarms in the **100s** are generally E-stop/safety alarms; **110–120s** are axis and servo faults; **120–134** are spindle and coolant faults. Higher-number alarms cover ATC, pallet changer, and soft-limit conditions.
 
-| [Alarm](https://www.amazon.com/s?k=Alarm&tag=errorcodefixe-20) | Meaning | Common Fix | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------- |---------|-----------|
-| 101 | [E-stop pressed](https://www.amazon.com/s?k=E-stop%20pressed&tag=errorcodefixe-20) | Release E-stop; check wiring |
-| [102](https://www.amazon.com/s?k=102&tag=errorcodefixe-20) | Power supply fault | Check control cabinet power supply | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 103 | Door interlock active | [Close machine door(s)](https://www.amazon.com/s?k=Close%20machine%20door(s)&tag=errorcodefixe-20) |  | 104 | [Feed hold active](https://www.amazon.com/s?k=Feed%20hold%20active&tag=errorcodefixe-20) | Clear feed hold; check wiring |
-| [105](https://www.amazon.com/s?k=105&tag=errorcodefixe-20) | Low lube oil | Add way lube oil; check pump | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 106 | Low air pressure | [Check shop air supply; regulator](https://www.amazon.com/s?k=Check%20shop%20air%20supply%3B%20regulator&tag=errorcodefixe-20) |  | 107 | [High coolant temperature](https://www.amazon.com/s?k=High%20coolant%20temperature&tag=errorcodefixe-20) | Check coolant level and cooler |
-| [108](https://www.amazon.com/s?k=108&tag=errorcodefixe-20) | Axis servo fault | Check servo drive and motor | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 110 | Spindle servo fault | [Check spindle drive](https://www.amazon.com/s?k=Check%20spindle%20drive&tag=errorcodefixe-20) |  | 111 | [X-axis fault](https://www.amazon.com/s?k=X-axis%20fault&tag=errorcodefixe-20) | Check X servo and encoder |
-| [112](https://www.amazon.com/s?k=112&tag=errorcodefixe-20) | Y-axis fault | Check Y servo and encoder | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 113 | Z-axis fault | [Check Z servo and encoder](https://www.amazon.com/s?k=Check%20Z%20servo%20and%20encoder&tag=errorcodefixe-20) |  | 114 | [A-axis fault](https://www.amazon.com/s?k=A-axis%20fault&tag=errorcodefixe-20) | Check A-axis servo |
-| [115](https://www.amazon.com/s?k=115&tag=errorcodefixe-20) | Spindle overload | Reduce depth of cut; check tool | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 116 | Spindle encoder fault | [Check encoder cable and disc](https://www.amazon.com/s?k=Check%20encoder%20cable%20and%20disc&tag=errorcodefixe-20) |  | 117 | [Spindle motor thermal fault](https://www.amazon.com/s?k=Spindle%20motor%20thermal%20fault&tag=errorcodefixe-20) | Check spindle motor temperature |
-| [118](https://www.amazon.com/s?k=118&tag=errorcodefixe-20) | Coolant motor fault | Check coolant pump | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 119 | Spindle orientation fault | [Check spindle encoder; orient dog](https://www.amazon.com/s?k=Check%20spindle%20encoder%3B%20orient%20dog&tag=errorcodefixe-20) |  | 120 | [ATC fault](https://www.amazon.com/s?k=ATC%20fault&tag=errorcodefixe-20) | Check ATC mechanism |
-| [125](https://www.amazon.com/s?k=125&tag=errorcodefixe-20) | Carousel fault | Check carousel rotation and sensors | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 134 | Spindle drive alarm | [Spindle drive internal fault](https://www.amazon.com/s?k=Spindle%20drive%20internal%20fault&tag=errorcodefixe-20) | ## Most Common Codes
+| Alarm | Meaning | Common Fix |
+|-------|---------|-----------|
+| 101 | E-stop pressed | Release E-stop; check wiring |
+| 102 | Power supply fault | Check control cabinet power supply |
+| 103 | Door interlock active | Close machine door(s) |
+| 104 | Feed hold active | Clear feed hold; check wiring |
+| 105 | Low lube oil | Add way lube oil; check pump |
+| 106 | Low air pressure | Check shop air supply; regulator |
+| 107 | High coolant temperature | Check coolant level and cooler |
+| 108 | Axis servo fault | Check servo drive and motor |
+| 110 | Spindle servo fault | Check spindle drive |
+| 111 | X-axis fault | Check X servo and encoder |
+| 112 | Y-axis fault | Check Y servo and encoder |
+| 113 | Z-axis fault | Check Z servo and encoder |
+| 114 | A-axis fault | Check A-axis servo |
+| 115 | Spindle overload | Reduce depth of cut; check tool |
+| 116 | Spindle encoder fault | Check encoder cable and disc |
+| 117 | Spindle motor thermal fault | Check spindle motor temperature |
+| 118 | Coolant motor fault | Check coolant pump |
+| 119 | Spindle orientation fault | Check spindle encoder; orient dog |
+| 120 | ATC fault | Check ATC mechanism |
+| 125 | Carousel fault | Check carousel rotation and sensors |
+| 134 | Spindle drive alarm | Spindle drive internal fault |
+
+## Most Common Codes
 
 ### Alarm 101: E-Stop Pressed
 The E-stop circuit is open. Check: (1) the red E-stop button on the control panel — is it pulled out? (2) all E-stop buttons around the machine (some have external buttons on doors or pedestals), (3) the E-stop chain in the control cabinet — a broken wire or relay in the E-stop safety circuit causes 101 without any button being pressed. On Haas machines with safety mats, also check the mat connectors.
@@ -53,8 +69,13 @@ The spindle encoder is not providing a clean signal. Check the encoder cable con
 3. Press POWER UP if the machine was in an E-stop condition.
 4. For servo alarms after unexpected movement, verify axis positions are correct before running a program.
 
-## Parts Often Needed | Part | [Notes](https://www.amazon.com/s?k=Notes&tag=errorcodefixe-20) |  |------|-------|
-| Way lube oil | [Mobil Vactra No. 2 (ISO 68) — 1 gallon](https://www.amazon.com/s?k=Mobil%20Vactra%20No.%202%20(ISO%2068)%20%E2%80%94%201%20gallon&tag=errorcodefixe-20) |  | Spindle encoder coupling | [Haas P/N for flexible disc coupling](https://www.amazon.com/s?k=Haas%20P%2FN%20for%20flexible%20disc%20coupling&tag=errorcodefixe-20) |  | ATC arm sensor | [Proximity switch for arm home position](https://www.amazon.com/s?k=Proximity%20switch%20for%20arm%20home%20position&tag=errorcodefixe-20) |  | E-stop relay | Safety relay in control cabinet |
+## Parts Often Needed
 
+| Part | Notes |
+|------|-------|
+| Way lube oil | [Amazon](https://www.amazon.com/s?k=Way+lube+oil&tag=errorcodefixes-20) \| Mobil Vactra No. 2 (ISO 68) — 1 gallon |
+| Spindle encoder coupling | [Amazon](https://www.amazon.com/s?k=Spindle+encoder+coupling&tag=errorcodefixes-20) \| Haas P/N for flexible disc coupling |
+| ATC arm sensor | [Amazon](https://www.amazon.com/s?k=ATC+arm+sensor&tag=errorcodefixes-20) \| Proximity switch for arm home position |
+| E-stop relay | [Amazon](https://www.amazon.com/s?k=E-stop+relay&tag=errorcodefixes-20) \| Safety relay in control cabinet |
 ## When to Call a Pro
 Alarms 108, 111–114 (servo faults on any axis) that persist after a power cycle indicate servo drive or motor issues that require Haas factory service or a Haas certified technician to diagnose. Haas provides phone support 24/7 for production-down situations.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Haas SL-20 Lathe Common Alarms — What They Mean and How to Fix Them"
 description: "Complete guide to common Haas SL-20 lathe alarms, including turret, spindle, servo, and overtravel faults with practical troubleshooting tips."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -20,16 +20,16 @@ The Haas SL-20 is a two-axis CNC lathe found in job shops and production turning
 
 ## Common Haas SL-20 Alarm Groups
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning |
+| Code | Meaning |
 |------|---------|
-| [102/103](https://www.amazon.com/s?k=102%2F103&tag=errorcodefixe-20) | Servo fault on X or Z axis |
-| [114/115](https://www.amazon.com/s?k=114%2F115&tag=errorcodefixe-20) | Spindle overload / overheat |
-| [118](https://www.amazon.com/s?k=118&tag=errorcodefixe-20) | Turret unclamped or turret fault |
-| [119](https://www.amazon.com/s?k=119&tag=errorcodefixe-20) | Turret not in position |
-| [1-6](https://www.amazon.com/s?k=1-6&tag=errorcodefixe-20) | Overtravel alarms |
-| [134](https://www.amazon.com/s?k=134&tag=errorcodefixe-20) | Spindle drive fault |
-| [292](https://www.amazon.com/s?k=292&tag=errorcodefixe-20) | Tailstock or hydraulic interlock issue |
-| [437](https://www.amazon.com/s?k=437&tag=errorcodefixe-20) | Amplifier overheat / overload |
+| 102/103 | Servo fault on X or Z axis |
+| 114/115 | Spindle overload / overheat |
+| 118 | Turret unclamped or turret fault |
+| 119 | Turret not in position |
+| 1-6 | Overtravel alarms |
+| 134 | Spindle drive fault |
+| 292 | Tailstock or hydraulic interlock issue |
+| 437 | Amplifier overheat / overload |
 
 ## Common Causes by Code
 
@@ -52,13 +52,12 @@ The Haas SL-20 is a two-axis CNC lathe found in job shops and production turning
 
 | Part | Notes |
 |------|-------|
-| [Hydraulic pressure switch](https://www.amazon.com/s?k=Hydraulic%20pressure%20switch&tag=errorcodefixe-20) | Common for clamp/interlock complaints |
-| [Turret sensor / prox](https://www.amazon.com/s?k=Turret%20sensor%20%2F%20prox&tag=errorcodefixe-20) | For position confirmation faults |
-| [Way lube parts](https://www.amazon.com/s?k=Way%20lube%20parts&tag=errorcodefixe-20) | Motion and axis health depend on lubrication |
-| [Servo amp](https://www.amazon.com/s?k=Servo%20amp&tag=errorcodefixe-20) | For repeated X/Z drive alarms |
-| [Chuck and hydraulic filters](https://www.amazon.com/s?k=Chuck%20and%20hydraulic%20filters&tag=errorcodefixe-20) | Low pressure creates multiple false symptoms |
-| [Spindle tooling / inserts](https://www.amazon.com/s?k=Spindle%20tooling%20%2F%20inserts&tag=errorcodefixe-20) | Often the real cause of overload alarms |
-
+| Hydraulic pressure switch | [Amazon](https://www.amazon.com/s?k=Hydraulic+pressure+switch&tag=errorcodefixes-20) \| Common for clamp/interlock complaints |
+| Turret sensor / prox | [Amazon](https://www.amazon.com/s?k=Turret+sensor+%2F+prox&tag=errorcodefixes-20) \| For position confirmation faults |
+| Way lube parts | [Amazon](https://www.amazon.com/s?k=Way+lube+parts&tag=errorcodefixes-20) \| Motion and axis health depend on lubrication |
+| Servo amp | [Amazon](https://www.amazon.com/s?k=Servo+amp&tag=errorcodefixes-20) \| For repeated X/Z drive alarms |
+| Chuck and hydraulic filters | [Amazon](https://www.amazon.com/s?k=Chuck+and+hydraulic+filters&tag=errorcodefixes-20) \| Low pressure creates multiple false symptoms |
+| Spindle tooling / inserts | [Amazon](https://www.amazon.com/s?k=Spindle+tooling+%2F+inserts&tag=errorcodefixes-20) \| Often the real cause of overload alarms |
 ## When to Call a Pro
 
 If the SL-20 has had a turret crash, do not trust simple reset-and-run behavior. A slightly shifted turret or damaged sensor flag will keep making bad parts until the underlying alignment problem is corrected.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "ThyssenKrupp Elevator Fault Codes - Complete Guide"
 description: "ThyssenKrupp elevator fault codes for Evolution, Synergy, and MRL systems: common alarms, causes, and reset procedures."
 pubDatetime: 2026-04-22T20:00:00Z
@@ -16,11 +16,18 @@ tags:
 
 ThyssenKrupp elevators (Evolution, Synergy, MRL, Endura, and custom traction systems) use computerized controls that log fault codes accessible via the technician's service tool or keypad.
 
-| [Fault](https://www.amazon.com/s?k=Fault&tag=errorcodefixe-20) | Meaning | Quick Fix | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------- |---------|-----------|
-| Safety Circuit Open | [Door, safety shoe, or limit switch open](https://www.amazon.com/s?k=Door%2C%20safety%20shoe%2C%20or%20limit%20switch%20open&tag=errorcodefixe-20) | Check door contacts and safety chain |
-| [Door Fault](https://www.amazon.com/s?k=Door%20Fault&tag=errorcodefixe-20) | Door not closing or opening within time | Check door motor and operator | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Overspeed | Car exceeded rated speed | [Check governor and brake](https://www.amazon.com/s?k=Check%20governor%20and%20brake&tag=errorcodefixe-20) |  | Drive Fault | [VFD or drive system fault](https://www.amazon.com/s?k=VFD%20or%20drive%20system%20fault&tag=errorcodefixe-20) | Check drive fault code |
-| [Motor Overtemperature](https://www.amazon.com/s?k=Motor%20Overtemperature&tag=errorcodefixe-20) | Motor thermal protection tripped | Allow motor to cool, check brake drag | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Encoder Fault | Speed feedback error | [Check encoder wiring](https://www.amazon.com/s?k=Check%20encoder%20wiring&tag=errorcodefixe-20) |  | Leveling Fault | [Car not leveling at floor](https://www.amazon.com/s?k=Car%20not%20leveling%20at%20floor&tag=errorcodefixe-20) | Check floor sensors and brake |
-| [Buffer Contact](https://www.amazon.com/s?k=Buffer%20Contact&tag=errorcodefixe-20) | Pit buffer switch triggered | Inspect pit and buffer | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Governor Switch | Centrifugal governor tripped | [Reset governor, check speed](https://www.amazon.com/s?k=Reset%20governor%2C%20check%20speed&tag=errorcodefixe-20) |  | Emergency Stop | [Emergency stop button pressed](https://www.amazon.com/s?k=Emergency%20stop%20button%20pressed&tag=errorcodefixe-20) | Reset E-stop, check circuit |
+| Fault | Meaning | Quick Fix |
+|-------|---------|-----------|
+| Safety Circuit Open | Door, safety shoe, or limit switch open | Check door contacts and safety chain |
+| Door Fault | Door not closing or opening within time | Check door motor and operator |
+| Overspeed | Car exceeded rated speed | Check governor and brake |
+| Drive Fault | VFD or drive system fault | Check drive fault code |
+| Motor Overtemperature | Motor thermal protection tripped | Allow motor to cool, check brake drag |
+| Encoder Fault | Speed feedback error | Check encoder wiring |
+| Leveling Fault | Car not leveling at floor | Check floor sensors and brake |
+| Buffer Contact | Pit buffer switch triggered | Inspect pit and buffer |
+| Governor Switch | Centrifugal governor tripped | Reset governor, check speed |
+| Emergency Stop | Emergency stop button pressed | Reset E-stop, check circuit |
 
 ## Most Common Faults
 
@@ -40,12 +47,11 @@ If the elevator car doesn't reach exact floor level within tolerance, a leveling
 
 | Part | Notes |
 |------|-------|
-| [Door contact (mechanical)](https://www.amazon.com/s?k=Door%20contact%20(mechanical)&tag=errorcodefixe-20) | Replace when worn |
-| [Door operator belt/coupling](https://www.amazon.com/s?k=Door%20operator%20belt%2Fcoupling&tag=errorcodefixe-20) | Replace on door fault |
-| [Encoder](https://www.amazon.com/s?k=Encoder&tag=errorcodefixe-20) | Replace on feedback fault |
-| [Brake coil](https://www.amazon.com/s?k=Brake%20coil&tag=errorcodefixe-20) | Replace on drag or release fault |
-| [Drive module](https://www.amazon.com/s?k=Drive%20module&tag=errorcodefixe-20) | Replace on repeated drive faults |
-
+| Door contact (mechanical) | [Amazon](https://www.amazon.com/s?k=Door+contact+%28mechanical%29&tag=errorcodefixes-20) \| Replace when worn |
+| Door operator belt/coupling | [Amazon](https://www.amazon.com/s?k=Door+operator+belt%2Fcoupling&tag=errorcodefixes-20) \| Replace on door fault |
+| Encoder | [Amazon](https://www.amazon.com/s?k=Encoder&tag=errorcodefixes-20) \| Replace on feedback fault |
+| Brake coil | [Amazon](https://www.amazon.com/s?k=Brake+coil&tag=errorcodefixes-20) \| Replace on drag or release fault |
+| Drive module | [Amazon](https://www.amazon.com/s?k=Drive+module&tag=errorcodefixes-20) \| Replace on repeated drive faults |
 ## When to Call a Pro
 **Elevator maintenance and repair must be performed by licensed elevator mechanics (NAEC or equivalent certification).** Bypassing safety circuits or working in elevator pits and on top of cars without proper training is extremely dangerous.
 

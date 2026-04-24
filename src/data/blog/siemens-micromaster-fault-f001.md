@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Siemens Micromaster Fault F001 — Causes & Fix"
 description: "What Siemens Micromaster fault F001 means, why overcurrent triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
@@ -37,9 +37,8 @@ Siemens Micromaster fault **F001** is an **overcurrent** fault — the drive det
 
 | Part | Notes |
 |------|-------|
-| [Motor output cable](https://www.amazon.com/s?k=Motor%20output%20cable&tag=errorcodefixe-20) | VFD-rated, shielded cable; replace if megger test fails |
-| [Motor](https://www.amazon.com/s?k=Motor&tag=errorcodefixe-20) | If winding fault is confirmed |
-
+| Motor output cable | [Amazon](https://www.amazon.com/s?k=Motor+output+cable&tag=errorcodefixes-20) \| VFD-rated, shielded cable; replace if megger test fails |
+| Motor | [Amazon](https://www.amazon.com/s?k=Motor&tag=errorcodefixes-20) \| If winding fault is confirmed |
 ## When to Call a Pro
 
 If F001 occurs at no load with the motor disconnected, the IGBT output stage in the Micromaster has failed. Board replacement on Micromaster 440 and Vector units requires specialized disassembly and should be handled by a Siemens repair center or certified integrator.

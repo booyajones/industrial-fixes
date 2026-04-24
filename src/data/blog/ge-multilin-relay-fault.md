@@ -50,11 +50,10 @@ Use the front panel display or EnerVista software:
 
 | Action | Notes |
 |--------|-------|
-| Reset trip | Front panel RESET after fault cleared |
-| EnerVista software | Required for full event log and settings |
-| CT secondary check | Verify CT ratios match relay settings |
-| Firmware update | If relay displays self-diagnostic fault |
-
+| Reset trip | [Amazon](https://www.amazon.com/s?k=Reset+trip&tag=errorcodefixes-20) \| Front panel RESET after fault cleared |
+| EnerVista software | [Amazon](https://www.amazon.com/s?k=EnerVista+software&tag=errorcodefixes-20) \| Required for full event log and settings |
+| CT secondary check | [Amazon](https://www.amazon.com/s?k=CT+secondary+check&tag=errorcodefixes-20) \| Verify CT ratios match relay settings |
+| Firmware update | [Amazon](https://www.amazon.com/s?k=Firmware+update&tag=errorcodefixes-20) \| If relay displays self-diagnostic fault |
 ## Jump to Fix
 
 - **Thermal (49) trip** → Check thermal capacity on display → Allow cooling → Investigate overload

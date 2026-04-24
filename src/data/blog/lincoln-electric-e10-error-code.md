@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lincoln Electric Welder Error Code E10 — Thermal Overload Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-15T08:00:00Z
@@ -49,9 +49,12 @@ This code is common on Lincoln Power MIG, Weld-Pak, and IDEALARC series machines
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Part Number | Typical Cost | [Where to Buy](https://www.amazon.com/s?k=Where%20to%20Buy&tag=errorcodefixe-20) |  |------|------------|-------------|-------------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Thermal switch | S29557 | [$25–$40](https://www.amazon.com/s?k=%2425%E2%80%93%2440&tag=errorcodefixe-20) | Lincoln Electric Distributor / Amazon |
-| [Cooling fan motor](https://www.amazon.com/s?k=Cooling%20fan%20motor&tag=errorcodefixe-20) | S26584 | $45–$75 | [Lincoln Electric Distributor](https://www.amazon.com/s?k=Lincoln%20Electric%20Distributor&tag=errorcodefixe-20) |  | Fan blade | [T14096-1](https://www.amazon.com/s?k=T14096-1&tag=errorcodefixe-20) | $18–$30 | Lincoln Electric Distributor | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Circuit breaker (internal) | S19766 | [$15–$25](https://www.amazon.com/s?k=%2415%E2%80%93%2425&tag=errorcodefixe-20) | Lincoln Electric Distributor |
-
+| Part | Part Number | Typical Cost | Where to Buy |
+|------|------------|-------------|-------------|
+| Thermal switch | S29557 | $25–$40 | [Amazon](https://www.amazon.com/s?k=S29557+Thermal+switch&tag=errorcodefixes-20) \| Lincoln Electric Distributor / Amazon |
+| Cooling fan motor | S26584 | $45–$75 | [Amazon](https://www.amazon.com/s?k=S26584+Cooling+fan+motor&tag=errorcodefixes-20) \| Lincoln Electric Distributor |
+| Fan blade | T14096-1 | $18–$30 | [Amazon](https://www.amazon.com/s?k=T14096-1+Fan+blade&tag=errorcodefixes-20) \| Lincoln Electric Distributor |
+| Circuit breaker (internal) | S19766 | $15–$25 | [Amazon](https://www.amazon.com/s?k=S19766+Circuit+breaker+%28internal%29&tag=errorcodefixes-20) \| Lincoln Electric Distributor |
 ## When to Call a Professional
 
 If E10 persists after full cooling, cleaning, and verifying the thermal switch, the problem may be in the power electronics — failed diodes in the rectifier bridge or damaged transformer windings that increase heat production under load. Diode testing requires live electrical measurements inside the machine's power section, which presents a shock hazard even with good technique. A Lincoln Electric authorized service center can load-test the machine and identify component-level failures. Lincoln's authorized service locator is at lincolnelectric.com/support.

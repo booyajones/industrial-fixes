@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Yaskawa VFD Fault PF — Causes & Fix"
 description: "What Yaskawa VFD fault PF means, why input phase loss trips the drive, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,10 +36,9 @@ Fault PF on a Yaskawa drive (A1000, V1000, GA700, GA800 series) stands for Input
 
 | Part | Notes |
 |------|-------|
-| [Input fuses (class J or similar)](https://www.amazon.com/s?k=Input%20fuses%20(class%20J%20or%20similar)&tag=errorcodefixe-20) | Match voltage, ampacity, and interrupt rating for the drive kW |
-| [Main contactor (3-pole)](https://www.amazon.com/s?k=Main%20contactor%20(3-pole)&tag=errorcodefixe-20) | Replace if contacts show burning or one pole fails to make |
-| [Input terminal block](https://www.amazon.com/s?k=Input%20terminal%20block&tag=errorcodefixe-20) | Replace if terminals are corroded or cracked |
-
+| Input fuses (class J or similar) | [Amazon](https://www.amazon.com/s?k=Input+fuses+%28class+J+or+similar%29&tag=errorcodefixes-20) \| Match voltage, ampacity, and interrupt rating for the drive kW |
+| Main contactor (3-pole) | [Amazon](https://www.amazon.com/s?k=Main+contactor+%283-pole%29&tag=errorcodefixes-20) \| Replace if contacts show burning or one pole fails to make |
+| Input terminal block | [Amazon](https://www.amazon.com/s?k=Input+terminal+block&tag=errorcodefixes-20) \| Replace if terminals are corroded or cracked |
 ## When to Call a Pro
 
 Phase imbalance from the utility supply requires contacting the utility or a licensed electrician to investigate the power system. Single-phase loss events that repeatedly blow fuses indicate a fault in the upstream distribution system requiring a qualified electrician.

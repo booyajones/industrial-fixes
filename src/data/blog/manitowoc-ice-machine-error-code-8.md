@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Manitowoc Ice Machine Error Code 8 — Causes & Fix"
 description: "What Manitowoc ice machine error code 8 means, why the ice thickness sensor faults, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,10 +36,9 @@ Error code 8 on a Manitowoc ice machine (Indigo series, NEO series) indicates an
 
 | Part | Notes |
 |------|-------|
-| [Ice thickness probe assembly](https://www.amazon.com/s?k=Ice%20thickness%20probe%20assembly&tag=errorcodefixe-20) | Manitowoc OEM; match Indigo or NEO series |
-| [Probe wire harness](https://www.amazon.com/s?k=Probe%20wire%20harness&tag=errorcodefixe-20) | Replace if wire is broken or connector corroded |
-| [Scale remover (nickel-safe)](https://www.amazon.com/s?k=Scale%20remover%20(nickel-safe)&tag=errorcodefixe-20) | Manitowoc approved; do not use acidic cleaners on nickel evaporators |
-
+| Ice thickness probe assembly | [Amazon](https://www.amazon.com/s?k=Ice+thickness+probe+assembly&tag=errorcodefixes-20) \| Manitowoc OEM; match Indigo or NEO series |
+| Probe wire harness | [Amazon](https://www.amazon.com/s?k=Probe+wire+harness&tag=errorcodefixes-20) \| Replace if wire is broken or connector corroded |
+| Scale remover (nickel-safe) | [Amazon](https://www.amazon.com/s?k=Scale+remover+%28nickel-safe%29&tag=errorcodefixes-20) \| Manitowoc approved; do not use acidic cleaners on nickel evaporators |
 ## When to Call a Pro
 
 If code 8 persists after probe cleaning and wiring inspection, the control board's probe input circuit may have failed. A Manitowoc-certified technician should diagnose the board to avoid unnecessary part replacements.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mitsubishi Elevator Fault Codes - Complete Guide"
 description: "Mitsubishi elevator fault codes for NEXIEZ, ELENESSA, and MELCO systems: common alarms, causes, and diagnostic steps."
 pubDatetime: 2026-04-22T20:00:00Z
@@ -16,10 +16,18 @@ tags:
 
 Mitsubishi Electric elevators (NEXIEZ, ELENESSA, GRANDEUR, Sigma series) use the Mitsubishi VFEM and proprietary control platforms. Fault codes are accessible via the Mitsubishi service tool (MELTRAC) or the controller's LED/LCD panel.
 
-| [Fault](https://www.amazon.com/s?k=Fault&tag=errorcodefixe-20) | System | Meaning | [Quick Fix](https://www.amazon.com/s?k=Quick%20Fix&tag=errorcodefixe-20) |  |-------|--------|---------|-----------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Safety Circuit Open | All | [Safety chain open](https://www.amazon.com/s?k=Safety%20chain%20open&tag=errorcodefixe-20) | Check door contacts and limits |
-| [Door Fault](https://www.amazon.com/s?k=Door%20Fault&tag=errorcodefixe-20) | All | Door open/close failure | [Check door operator](https://www.amazon.com/s?k=Check%20door%20operator&tag=errorcodefixe-20) |  | Drive Fault (E-xx) | [NEXIEZ](https://www.amazon.com/s?k=NEXIEZ&tag=errorcodefixe-20) | Drive/inverter alarm | Read inverter fault code | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Brake Fault | All | [Brake monitoring error](https://www.amazon.com/s?k=Brake%20monitoring%20error&tag=errorcodefixe-20) | Check brake coil |
-| [Encoder Fault](https://www.amazon.com/s?k=Encoder%20Fault&tag=errorcodefixe-20) | All | Speed feedback error | [Check encoder cable](https://www.amazon.com/s?k=Check%20encoder%20cable&tag=errorcodefixe-20) |  | Overload | [All](https://www.amazon.com/s?k=All&tag=errorcodefixe-20) | Car overloaded | Check weighing device | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Terminal Limit | All | [Travel limit switch active](https://www.amazon.com/s?k=Travel%20limit%20switch%20active&tag=errorcodefixe-20) | Check limits |
-| [Car Top Emergency Stop](https://www.amazon.com/s?k=Car%20Top%20Emergency%20Stop&tag=errorcodefixe-20) | All | Car roof E-stop activated | [Reset and inspect](https://www.amazon.com/s?k=Reset%20and%20inspect&tag=errorcodefixe-20) |  | PIT Emergency Stop | [All](https://www.amazon.com/s?k=All&tag=errorcodefixe-20) | Pit stop activated | Reset and inspect pit | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | UCM | NEXIEZ | [Unintended car movement](https://www.amazon.com/s?k=Unintended%20car%20movement&tag=errorcodefixe-20) | Safety-critical: call technician |
+| Fault | System | Meaning | Quick Fix |
+|-------|--------|---------|-----------|
+| Safety Circuit Open | All | Safety chain open | Check door contacts and limits |
+| Door Fault | All | Door open/close failure | Check door operator |
+| Drive Fault (E-xx) | NEXIEZ | Drive/inverter alarm | Read inverter fault code |
+| Brake Fault | All | Brake monitoring error | Check brake coil |
+| Encoder Fault | All | Speed feedback error | Check encoder cable |
+| Overload | All | Car overloaded | Check weighing device |
+| Terminal Limit | All | Travel limit switch active | Check limits |
+| Car Top Emergency Stop | All | Car roof E-stop activated | Reset and inspect |
+| PIT Emergency Stop | All | Pit stop activated | Reset and inspect pit |
+| UCM | NEXIEZ | Unintended car movement | Safety-critical: call technician |
 
 ## Most Common Faults
 
@@ -39,12 +47,11 @@ Mitsubishi gearless machines use dual electromagnetic brakes. Each brake has a m
 
 | Part | Notes |
 |------|-------|
-| [Door contact (dual-channel)](https://www.amazon.com/s?k=Door%20contact%20(dual-channel)&tag=errorcodefixe-20) | Replace when worn |
-| [Door operator card](https://www.amazon.com/s?k=Door%20operator%20card&tag=errorcodefixe-20) | Replace on door logic fault |
-| [Brake monitoring switch](https://www.amazon.com/s?k=Brake%20monitoring%20switch&tag=errorcodefixe-20) | Replace on brake fault |
-| [FR-series inverter board](https://www.amazon.com/s?k=FR-series%20inverter%20board&tag=errorcodefixe-20) | Replace on persistent E-faults |
-| [Encoder](https://www.amazon.com/s?k=Encoder&tag=errorcodefixe-20) | Replace on encoder fault |
-
+| Door contact (dual-channel) | [Amazon](https://www.amazon.com/s?k=Door+contact+%28dual-channel%29&tag=errorcodefixes-20) \| Replace when worn |
+| Door operator card | [Amazon](https://www.amazon.com/s?k=Door+operator+card&tag=errorcodefixes-20) \| Replace on door logic fault |
+| Brake monitoring switch | [Amazon](https://www.amazon.com/s?k=Brake+monitoring+switch&tag=errorcodefixes-20) \| Replace on brake fault |
+| FR-series inverter board | [Amazon](https://www.amazon.com/s?k=FR-series+inverter+board&tag=errorcodefixes-20) \| Replace on persistent E-faults |
+| Encoder | [Amazon](https://www.amazon.com/s?k=Encoder&tag=errorcodefixes-20) \| Replace on encoder fault |
 ## When to Call a Pro
 **Mitsubishi elevator systems require licensed elevator mechanics.** MELTRAC software and programming are proprietary to Mitsubishi Electric authorized service personnel. Never bypass safety circuits or ignore UCM faults.
 

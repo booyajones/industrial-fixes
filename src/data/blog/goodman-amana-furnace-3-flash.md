@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Amana / Goodman Furnace 3 Flash Error Code — Causes & Fix"
 description: "What Amana and Goodman furnace 3 flashes means, why pressure switch faults occur, and how to fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,11 +36,10 @@ Both **Amana** and **Goodman** furnaces (Amana is a Goodman brand and uses the s
 
 | Part | Notes |
 |------|-------|
-| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Goodman/Amana switches are model-specific; verify part number by model tag |
-| [Inducer capacitor](https://www.amazon.com/s?k=Inducer%20capacitor&tag=errorcodefixe-20) | Test before replacing the motor; often cheaper cause of slow inducer |
-| [Pressure switch hose](https://www.amazon.com/s?k=Pressure%20switch%20hose&tag=errorcodefixe-20) | Available by the foot at HVAC supply houses |
-| [Inducer motor assembly](https://www.amazon.com/s?k=Inducer%20motor%20assembly&tag=errorcodefixe-20) | Replace when motor shaft is seized or winding tests open |
-
+| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Goodman/Amana switches are model-specific; verify part number by model tag |
+| Inducer capacitor | [Amazon](https://www.amazon.com/s?k=Inducer+capacitor&tag=errorcodefixes-20) \| Test before replacing the motor; often cheaper cause of slow inducer |
+| Pressure switch hose | [Amazon](https://www.amazon.com/s?k=Pressure+switch+hose&tag=errorcodefixes-20) \| Available by the foot at HVAC supply houses |
+| Inducer motor assembly | [Amazon](https://www.amazon.com/s?k=Inducer+motor+assembly&tag=errorcodefixes-20) \| Replace when motor shaft is seized or winding tests open |
 ## When to Call a Pro
 
 If all mechanical components check out and 3 flashes persist, the heat exchanger may have a crack that disrupts the pressure dynamics in the flue system. Heat exchanger inspection requires a licensed HVAC technician — do not continue operating the furnace if a cracked heat exchanger is suspected.

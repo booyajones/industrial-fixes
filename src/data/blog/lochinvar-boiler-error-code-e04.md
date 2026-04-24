@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lochinvar Boiler Error Code E04 — Causes & Fix"
 description: "What Lochinvar boiler error code E04 means, why the high limit trips, and how to diagnose and reset safely."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -38,11 +38,10 @@ E04 on a Lochinvar boiler indicates that the high-limit safety has tripped. The 
 
 | Part | Notes |
 |------|-------|
-| [Circulator pump](https://www.amazon.com/s?k=Circulator%20pump&tag=errorcodefixe-20) | Replace if pump motor is seized or impeller is broken |
-| [Pump run capacitor](https://www.amazon.com/s?k=Pump%20run%20capacitor&tag=errorcodefixe-20) | Replace if pump hums but does not rotate |
-| [High-limit switch / sensor](https://www.amazon.com/s?k=High-limit%20switch%20%2F%20sensor&tag=errorcodefixe-20) | Replace if sensor reads incorrectly or switch contacts are faulty |
-| [Expansion tank](https://www.amazon.com/s?k=Expansion%20tank&tag=errorcodefixe-20) | Replace if waterlogged (system pressure spikes rapidly on heat call) |
-
+| Circulator pump | [Amazon](https://www.amazon.com/s?k=Circulator+pump&tag=errorcodefixes-20) \| Replace if pump motor is seized or impeller is broken |
+| Pump run capacitor | [Amazon](https://www.amazon.com/s?k=Pump+run+capacitor&tag=errorcodefixes-20) \| Replace if pump hums but does not rotate |
+| High-limit switch / sensor | [Amazon](https://www.amazon.com/s?k=High-limit+switch+%2F+sensor&tag=errorcodefixes-20) \| Replace if sensor reads incorrectly or switch contacts are faulty |
+| Expansion tank | [Amazon](https://www.amazon.com/s?k=Expansion+tank&tag=errorcodefixes-20) \| Replace if waterlogged (system pressure spikes rapidly on heat call) |
 ## When to Call a Pro
 
 If E04 persists after verifying flow and resetting, a Lochinvar-authorized technician should perform combustion and flow analysis. Scale buildup and heat exchanger damage must be evaluated by a professional with proper flushing equipment.

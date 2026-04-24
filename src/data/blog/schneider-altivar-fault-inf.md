@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Schneider Altivar Fault INF — Causes & Fix"
 description: "What Schneider Altivar VFD fault code INF means, why an internal fault occurs, and how to recover the drive."
 pubDatetime: 2026-04-22T11:00:00Z
@@ -38,10 +38,9 @@ INF on a Schneider Electric Altivar drive (ATV312, ATV320, ATV630, ATV930 series
 
 | Part | Notes |
 |------|-------|
-| [Altivar control card / board](https://www.amazon.com/s?k=Altivar%20control%20card%20%2F%20board&tag=errorcodefixe-20) | Order by drive model and firmware version |
-| [Internal power supply board](https://www.amazon.com/s?k=Internal%20power%20supply%20board&tag=errorcodefixe-20) | Replace if 24V supply is confirmed out of specification |
-| [Communication ribbon cable](https://www.amazon.com/s?k=Communication%20ribbon%20cable&tag=errorcodefixe-20) | Replace if damaged between control and power cards |
-
+| Altivar control card / board | [Amazon](https://www.amazon.com/s?k=Altivar+control+card+%2F+board&tag=errorcodefixes-20) \| Order by drive model and firmware version |
+| Internal power supply board | [Amazon](https://www.amazon.com/s?k=Internal+power+supply+board&tag=errorcodefixes-20) \| Replace if 24V supply is confirmed out of specification |
+| Communication ribbon cable | [Amazon](https://www.amazon.com/s?k=Communication+ribbon+cable&tag=errorcodefixes-20) \| Replace if damaged between control and power cards |
 ## When to Call a Pro
 
 INF is rarely field-repairable beyond a factory reset. If power cycling and parameter initialization do not clear the fault, contact a Schneider Electric-authorized drive service center for control card replacement and firmware verification.

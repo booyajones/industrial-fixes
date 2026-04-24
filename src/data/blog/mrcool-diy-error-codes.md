@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Mr. Cool DIY Mini Split Error Codes — Complete Fault Code Guide"
 description: "Complete guide to Mr. Cool DIY mini split error codes, what each fault means, and step-by-step troubleshooting for communication, sensor, and protection faults."
 pubDatetime: 2026-04-22T22:00:00Z
@@ -20,24 +20,24 @@ The Mr. Cool DIY is a pre-charged ductless mini split designed for homeowner ins
 
 ## Mr. Cool DIY Error Code Reference
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning |
+| Code | Meaning |
 |------|---------|
-| [E0](https://www.amazon.com/s?k=E0&tag=errorcodefixe-20) | EEPROM read/write error (PCB memory fault) |
-| [E1](https://www.amazon.com/s?k=E1&tag=errorcodefixe-20) | Indoor/outdoor communication error |
-| [E2](https://www.amazon.com/s?k=E2&tag=errorcodefixe-20) | Zero-crossing detection error |
-| [E3](https://www.amazon.com/s?k=E3&tag=errorcodefixe-20) | Indoor fan motor error |
-| [E4](https://www.amazon.com/s?k=E4&tag=errorcodefixe-20) | Evaporator (indoor coil) freeze protection |
-| [E5](https://www.amazon.com/s?k=E5&tag=errorcodefixe-20) | Overload protection (compressor) |
-| [E6](https://www.amazon.com/s?k=E6&tag=errorcodefixe-20) | Communication error — outdoor unit |
-| [E8](https://www.amazon.com/s?k=E8&tag=errorcodefixe-20) | Outdoor temperature protection (high or low ambient lockout) |
-| [F1](https://www.amazon.com/s?k=F1&tag=errorcodefixe-20) | Indoor room temperature sensor fault |
-| [F2](https://www.amazon.com/s?k=F2&tag=errorcodefixe-20) | Indoor coil (evaporator) temperature sensor fault |
-| [F3](https://www.amazon.com/s?k=F3&tag=errorcodefixe-20) | Outdoor ambient temperature sensor fault |
-| [F4](https://www.amazon.com/s?k=F4&tag=errorcodefixe-20) | Outdoor coil temperature sensor fault |
-| [F5](https://www.amazon.com/s?k=F5&tag=errorcodefixe-20) | Discharge temperature sensor fault |
-| [H4](https://www.amazon.com/s?k=H4&tag=errorcodefixe-20) | Outdoor temperature sensor — open circuit |
-| [P0](https://www.amazon.com/s?k=P0&tag=errorcodefixe-20) | IPM (intelligent power module) protection |
-| [P4](https://www.amazon.com/s?k=P4&tag=errorcodefixe-20) | Drain pump fault or drain overflow |
+| E0 | EEPROM read/write error (PCB memory fault) |
+| E1 | Indoor/outdoor communication error |
+| E2 | Zero-crossing detection error |
+| E3 | Indoor fan motor error |
+| E4 | Evaporator (indoor coil) freeze protection |
+| E5 | Overload protection (compressor) |
+| E6 | Communication error — outdoor unit |
+| E8 | Outdoor temperature protection (high or low ambient lockout) |
+| F1 | Indoor room temperature sensor fault |
+| F2 | Indoor coil (evaporator) temperature sensor fault |
+| F3 | Outdoor ambient temperature sensor fault |
+| F4 | Outdoor coil temperature sensor fault |
+| F5 | Discharge temperature sensor fault |
+| H4 | Outdoor temperature sensor — open circuit |
+| P0 | IPM (intelligent power module) protection |
+| P4 | Drain pump fault or drain overflow |
 
 ## Common Causes by Code
 
@@ -62,13 +62,12 @@ The Mr. Cool DIY is a pre-charged ductless mini split designed for homeowner ins
 
 | Part | Notes |
 |------|-------|
-| [Indoor room sensor (F1)](https://www.amazon.com/s?k=Indoor%20room%20sensor%20(F1)&tag=errorcodefixe-20) | NTC thermistor; available from Mr. Cool parts |
-| [Indoor coil sensor (F2)](https://www.amazon.com/s?k=Indoor%20coil%20sensor%20(F2)&tag=errorcodefixe-20) | Clip-on type; confirm sensor length |
-| [Communication cable](https://www.amazon.com/s?k=Communication%20cable&tag=errorcodefixe-20) | 3-conductor; replace if nicked |
-| [Indoor PCB](https://www.amazon.com/s?k=Indoor%20PCB&tag=errorcodefixe-20) | For E3 with confirmed free-spinning fan |
-| [Outdoor PCB](https://www.amazon.com/s?k=Outdoor%20PCB&tag=errorcodefixe-20) | For P0 after charge and compressor confirmed |
-| [Quick-connect line set](https://www.amazon.com/s?k=Quick-connect%20line%20set&tag=errorcodefixe-20) | If refrigerant charge is lost via leak at connection |
-
+| Indoor room sensor (F1) | [Amazon](https://www.amazon.com/s?k=Indoor+room+sensor+%28F1%29&tag=errorcodefixes-20) \| NTC thermistor; available from Mr. Cool parts |
+| Indoor coil sensor (F2) | [Amazon](https://www.amazon.com/s?k=Indoor+coil+sensor+%28F2%29&tag=errorcodefixes-20) \| Clip-on type; confirm sensor length |
+| Communication cable | [Amazon](https://www.amazon.com/s?k=Communication+cable&tag=errorcodefixes-20) \| 3-conductor; replace if nicked |
+| Indoor PCB | [Amazon](https://www.amazon.com/s?k=Indoor+PCB&tag=errorcodefixes-20) \| For E3 with confirmed free-spinning fan |
+| Outdoor PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB&tag=errorcodefixes-20) \| For P0 after charge and compressor confirmed |
+| Quick-connect line set | [Amazon](https://www.amazon.com/s?k=Quick-connect+line+set&tag=errorcodefixes-20) \| If refrigerant charge is lost via leak at connection |
 ## When to Call a Pro
 
 The Mr. Cool DIY is pre-charged at the factory, but the quick-connect fittings can leak over time. If E4 or P0 faults appear after the first season, low refrigerant charge is likely. Adding refrigerant to a pre-charged system requires EPA 608 certification. Contact Mr. Cool customer support (1-800-865-5931) for warranty or technical assistance.

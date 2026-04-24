@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Coleman-Evcon Furnace Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Coleman-Evcon furnace error codes, LED flash sequences, common fault causes, and step-by-step repair procedures for HVAC technicians."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -20,18 +20,18 @@ Coleman and Evcon furnaces are produced by Johnson Controls (the same manufactur
 
 ## Coleman-Evcon Flash Code Reference
 
-| [Flash Count](https://www.amazon.com/s?k=Flash%20Count&tag=errorcodefixe-20) | Fault |
+| Flash Count | Fault |
 |---|---|
-| [1 flash](https://www.amazon.com/s?k=1%20flash&tag=errorcodefixe-20) | Normal — standby |
-| [2 flashes](https://www.amazon.com/s?k=2%20flashes&tag=errorcodefixe-20) | Pressure switch stuck open |
-| [3 flashes](https://www.amazon.com/s?k=3%20flashes&tag=errorcodefixe-20) | Pressure switch stuck closed |
-| [4 flashes](https://www.amazon.com/s?k=4%20flashes&tag=errorcodefixe-20) | Open limit device |
-| [5 flashes](https://www.amazon.com/s?k=5%20flashes&tag=errorcodefixe-20) | Ignition failure lockout |
-| [6 flashes](https://www.amazon.com/s?k=6%20flashes&tag=errorcodefixe-20) | Rollout switch open |
-| [7 flashes](https://www.amazon.com/s?k=7%20flashes&tag=errorcodefixe-20) | Flame sensed without gas valve call |
-| [8 flashes](https://www.amazon.com/s?k=8%20flashes&tag=errorcodefixe-20) | Abnormal pressure switch operation during run |
-| [9 flashes](https://www.amazon.com/s?k=9%20flashes&tag=errorcodefixe-20) | Control board fault |
-| [Rapid flash](https://www.amazon.com/s?k=Rapid%20flash&tag=errorcodefixe-20) | Low 24V control voltage |
+| 1 flash | Normal — standby |
+| 2 flashes | Pressure switch stuck open |
+| 3 flashes | Pressure switch stuck closed |
+| 4 flashes | Open limit device |
+| 5 flashes | Ignition failure lockout |
+| 6 flashes | Rollout switch open |
+| 7 flashes | Flame sensed without gas valve call |
+| 8 flashes | Abnormal pressure switch operation during run |
+| 9 flashes | Control board fault |
+| Rapid flash | Low 24V control voltage |
 
 ## Common Causes by Code
 
@@ -53,13 +53,12 @@ Coleman and Evcon furnaces are produced by Johnson Controls (the same manufactur
 
 | Part | Notes |
 |---|---|
-| [HSI igniter — silicon carbide](https://www.amazon.com/s?k=HSI%20igniter%20%E2%80%94%20silicon%20carbide&tag=errorcodefixe-20) | Fragile; handle by wire leads only |
-| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | Clean with fine steel wool; rod-type |
-| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Check hose first; Coleman-brand switches are direct replacements |
-| [Blower capacitor](https://www.amazon.com/s?k=Blower%20capacitor&tag=errorcodefixe-20) | Single-run capacitor on PSC motor |
-| [High-limit switch](https://www.amazon.com/s?k=High-limit%20switch&tag=errorcodefixe-20) | Check reset type — most Coleman are auto-reset |
-| [Rollout switch](https://www.amazon.com/s?k=Rollout%20switch&tag=errorcodefixe-20) | Manual reset; do not bypass |
-
+| HSI igniter — silicon carbide | [Amazon](https://www.amazon.com/s?k=HSI+igniter+%E2%80%94+silicon+carbide&tag=errorcodefixes-20) \| Fragile; handle by wire leads only |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Clean with fine steel wool; rod-type |
+| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Check hose first; Coleman-brand switches are direct replacements |
+| Blower capacitor | [Amazon](https://www.amazon.com/s?k=Blower+capacitor&tag=errorcodefixes-20) \| Single-run capacitor on PSC motor |
+| High-limit switch | [Amazon](https://www.amazon.com/s?k=High-limit+switch&tag=errorcodefixes-20) \| Check reset type — most Coleman are auto-reset |
+| Rollout switch | [Amazon](https://www.amazon.com/s?k=Rollout+switch&tag=errorcodefixes-20) \| Manual reset; do not bypass |
 ## When to Call a Pro
 
 Coleman-Evcon furnaces from the 1990s and early 2000s are reaching the end of their service life. A cracked heat exchanger is a serious CO risk and cannot be field-repaired — a professional inspection with a combustion analyzer is warranted on any furnace over 15 years old that is tripping rollout or limit switches repeatedly. A licensed HVAC technician should assess whether repair or replacement is the better investment.

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lennox Error Code 114 — Causes & Fix"
 description: "What Lennox error code 114 ignition failure means, why it trips, and how to diagnose and fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,10 +36,9 @@ Lennox **error code 114** indicates an **ignition failure lockout** — the furn
 
 | Part | Notes |
 |------|-------|
-| [Hot surface igniter (HSI)](https://www.amazon.com/s?k=Hot%20surface%20igniter%20(HSI)&tag=errorcodefixe-20) | Confirm OEM part number; Lennox igniter resistance spec is 40–90 ohms |
-| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | Replace if cleaning doesn't restore reliable flame detection |
-| [Gas valve](https://www.amazon.com/s?k=Gas%20valve&tag=errorcodefixe-20) | Replace only after confirming gas supply is adequate and ignition is working |
-
+| Hot surface igniter (HSI) | [Amazon](https://www.amazon.com/s?k=Hot+surface+igniter+%28HSI%29&tag=errorcodefixes-20) \| Confirm OEM part number; Lennox igniter resistance spec is 40–90 ohms |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Replace if cleaning doesn't restore reliable flame detection |
+| Gas valve | [Amazon](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) \| Replace only after confirming gas supply is adequate and ignition is working |
 ## When to Call a Pro
 
 If the igniter glows, gas is confirmed, and code 114 persists after cleaning the flame sensor, the gas valve's opening pressure or the pressure switch may require adjustment — tasks that require a licensed HVAC technician with gas certification.

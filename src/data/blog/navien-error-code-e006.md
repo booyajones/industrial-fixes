@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Navien E006 Error Code — Causes & Fix"
 description: "What Navien error code E006 means, why the exhaust high limit trips, and how to fix it step by step."
 pubDatetime: 2026-04-22T10:00:00Z
@@ -36,10 +36,9 @@ E006 on a Navien tankless water heater or combi-boiler indicates the exhaust (fl
 
 | Part | Notes |
 |------|-------|
-| [Exhaust thermistor](https://www.amazon.com/s?k=Exhaust%20thermistor&tag=errorcodefixe-20) | Navien OEM; match to NPE or NCB model |
-| [Descaling kit (vinegar flush)](https://www.amazon.com/s?k=Descaling%20kit%20(vinegar%20flush)&tag=errorcodefixe-20) | Use food-grade white vinegar; 1 gallon minimum |
-| [PVC vent cap (exhaust)](https://www.amazon.com/s?k=PVC%20vent%20cap%20(exhaust)&tag=errorcodefixe-20) | Replace if cracked or blocked by bird screen debris |
-
+| Exhaust thermistor | [Amazon](https://www.amazon.com/s?k=Exhaust+thermistor&tag=errorcodefixes-20) \| Navien OEM; match to NPE or NCB model |
+| Descaling kit (vinegar flush) | [Amazon](https://www.amazon.com/s?k=Descaling+kit+%28vinegar+flush%29&tag=errorcodefixes-20) \| Use food-grade white vinegar; 1 gallon minimum |
+| PVC vent cap (exhaust) | [Amazon](https://www.amazon.com/s?k=PVC+vent+cap+%28exhaust%29&tag=errorcodefixes-20) \| Replace if cracked or blocked by bird screen debris |
 ## When to Call a Pro
 
 Gas pressure adjustment and heat exchanger descaling with chemical descalers should be performed by a licensed plumber or HVAC technician. Do not operate the unit with a confirmed blocked flue.

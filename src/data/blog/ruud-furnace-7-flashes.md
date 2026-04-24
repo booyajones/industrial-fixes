@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Ruud Furnace 7 Flashes — Low Flame Signal"
 description: "What 7 flashes on a Ruud furnace means, why the flame sensor produces a low signal, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -38,10 +38,9 @@ On Ruud furnaces (manufactured by Rheem), 7 flashes on the diagnostic LED indica
 
 | Part | Notes |
 |------|-------|
-| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | Universal fit sensors work; OEM preferred for longer service life |
-| [Gas valve](https://www.amazon.com/s?k=Gas%20valve&tag=errorcodefixe-20) | Only if gas pressure check confirms valve not opening to correct pressure |
-| [Control board](https://www.amazon.com/s?k=Control%20board&tag=errorcodefixe-20) | Last resort — flame sense circuit failure is rare but possible on older boards |
-
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Universal fit sensors work; OEM preferred for longer service life |
+| Gas valve | [Amazon](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) \| Only if gas pressure check confirms valve not opening to correct pressure |
+| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| Last resort — flame sense circuit failure is rare but possible on older boards |
 ## When to Call a Pro
 
 If you've cleaned the flame sensor and confirmed it's not cracked, but 7 flashes persists, measuring flame microamps with a multimeter requires basic comfort with live electrical measurements inside a running furnace. If you're not comfortable with that, a technician can confirm the diagnosis in minutes and either verify the sensor is good or confirm board failure.

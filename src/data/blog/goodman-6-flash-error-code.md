@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Goodman 6 Flash Error Code — Rollout Switch Open Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-27T08:00:00Z
@@ -46,9 +46,9 @@ Once the root cause is corrected, locate the rollout switch — typically a roun
 
 | Part | Where to Buy |
 |------|-------------|
-| [Rollout limit switch](https://www.amazon.com/s?k=Rollout%20limit%20switch&tag=errorcodefixe-20) | RepairClinic, SupplyHouse |
-| [Inducer motor assembly](https://www.amazon.com/s?k=Inducer%20motor%20assembly&tag=errorcodefixe-20) | RepairClinic, Grainger |
-| [Inducer motor capacitor](https://www.amazon.com/s?k=Inducer%20motor%20capacitor&tag=errorcodefixe-20) | Grainger, Amazon |
+| Rollout limit switch | RepairClinic, SupplyHouse |
+| Inducer motor assembly | RepairClinic, Grainger |
+| Inducer motor capacitor | Grainger, Amazon |
 
 ## When to Call a Technician
 

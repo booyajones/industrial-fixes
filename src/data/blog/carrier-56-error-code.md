@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Carrier Error Code 56 — IFC Fault (Induced Draft Motor)"
 description: "Carrier furnace fault code 56 points to a problem with the induced draft blower or its proving circuit. Here's how to diagnose and fix it."
 pubDatetime: 2026-04-22T18:00:00Z
@@ -27,14 +27,14 @@ The induced draft blower (also called inducer or draft motor) pulls combustion g
 
 ## Common Causes of Code 56
 
-| [Cause](https://www.amazon.com/s?k=Cause&tag=errorcodefixe-20) | Likelihood |
+| Cause | Likelihood |
 |---|---|
-| [Blocked or frozen condensate drain](https://www.amazon.com/s?k=Blocked%20or%20frozen%20condensate%20drain&tag=errorcodefixe-20) | High |
-| [Cracked or disconnected pressure switch hose](https://www.amazon.com/s?k=Cracked%20or%20disconnected%20pressure%20switch%20hose&tag=errorcodefixe-20) | High |
-| [Failed pressure switch](https://www.amazon.com/s?k=Failed%20pressure%20switch&tag=errorcodefixe-20) | Medium |
-| [Inducer motor failed or seized](https://www.amazon.com/s?k=Inducer%20motor%20failed%20or%20seized&tag=errorcodefixe-20) | Medium |
-| [Blocked flue/intake pipe](https://www.amazon.com/s?k=Blocked%20flue%2Fintake%20pipe&tag=errorcodefixe-20) | Medium |
-| [Faulty IFC board](https://www.amazon.com/s?k=Faulty%20IFC%20board&tag=errorcodefixe-20) | Low |
+| Blocked or frozen condensate drain | High |
+| Cracked or disconnected pressure switch hose | High |
+| Failed pressure switch | Medium |
+| Inducer motor failed or seized | Medium |
+| Blocked flue/intake pipe | Medium |
+| Faulty IFC board | Low |
 
 ## Step-by-Step Diagnosis
 
@@ -52,11 +52,10 @@ The induced draft blower (also called inducer or draft motor) pulls combustion g
 
 | Part | Cost Estimate |
 |---|---|
-| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | $25–60 |
-| [Pressure switch hose kit](https://www.amazon.com/s?k=Pressure%20switch%20hose%20kit&tag=errorcodefixe-20) | $5–15 |
-| [Inducer motor assembly](https://www.amazon.com/s?k=Inducer%20motor%20assembly&tag=errorcodefixe-20) | $150–350 |
-| [IFC board (last resort)](https://www.amazon.com/s?k=IFC%20board%20(last%20resort)&tag=errorcodefixe-20) | $100–300 |
-
+| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| $25–60 |
+| Pressure switch hose kit | [Amazon](https://www.amazon.com/s?k=Pressure+switch+hose+kit&tag=errorcodefixes-20) \| $5–15 |
+| Inducer motor assembly | [Amazon](https://www.amazon.com/s?k=Inducer+motor+assembly&tag=errorcodefixes-20) \| $150–350 |
+| IFC board (last resort) | [Amazon](https://www.amazon.com/s?k=IFC+board+%28last+resort%29&tag=errorcodefixes-20) \| $100–300 |
 ## Pro Tip
 
 Before replacing anything, cycle the thermostat off and back on. Watch the inducer: it should spin up immediately when the call for heat starts. If it doesn't spin at all, the motor is failed or the IFC isn't outputting voltage to it. Use a multimeter to check voltage at the inducer motor terminals during startup — if you see 120V and the motor doesn't spin, it's the motor. If you see 0V, suspect the IFC or a safety interlock upstream.

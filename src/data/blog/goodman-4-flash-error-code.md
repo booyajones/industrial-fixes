@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Goodman 4 Flash Error Code — Causes & Fix"
 description: "What Goodman 4 flashes means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
@@ -36,10 +36,9 @@ Four flashes on a Goodman furnace LED means the high limit device is open. The h
 
 | Part | Notes |
 |------|-------|
-| [High-limit switch](https://www.amazon.com/s?k=High-limit%20switch&tag=errorcodefixe-20) | Auto-reset type; match temperature rating (stamped on old switch) |
-| [Blower motor run capacitor](https://www.amazon.com/s?k=Blower%20motor%20run%20capacitor&tag=errorcodefixe-20) | Test with capacitor meter before condemning the motor |
-| [Air filter (MERV 8)](https://www.amazon.com/s?k=Air%20filter%20(MERV%208)&tag=errorcodefixe-20) | Replace every 60–90 days; more often with pets |
-
+| High-limit switch | [Amazon](https://www.amazon.com/s?k=High-limit+switch&tag=errorcodefixes-20) \| Auto-reset type; match temperature rating (stamped on old switch) |
+| Blower motor run capacitor | [Amazon](https://www.amazon.com/s?k=Blower+motor+run+capacitor&tag=errorcodefixes-20) \| Test with capacitor meter before condemning the motor |
+| Air filter (MERV 8) | [Amazon](https://www.amazon.com/s?k=Air+filter+%28MERV+8%29&tag=errorcodefixes-20) \| Replace every 60–90 days; more often with pets |
 ## When to Call a Pro
 
 A high-limit that trips repeatedly after airflow is corrected is a strong indicator of a cracked heat exchanger — a CO hazard. Don't operate the furnace until a tech has inspected the heat exchanger.

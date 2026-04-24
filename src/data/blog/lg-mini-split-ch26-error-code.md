@@ -1,4 +1,4 @@
-﻿---
+---
 title: "LG Mini-Split CH26 Error Code — CT Sensor Fault"
 description: "LG mini-split CH26 error code means a current transformer (CT) sensor fault on the outdoor unit. Learn causes, diagnostic steps, and how to fix LG CH26."
 pubDatetime: 2026-04-22T17:00:00Z
@@ -29,13 +29,13 @@ The CT (current transformer) sensor is a small toroidal coil that clamps around 
 
 ## Common Causes {#most-likely-cause}
 
-| [Cause](https://www.amazon.com/s?k=Cause&tag=errorcodefixe-20) | Likelihood |
+| Cause | Likelihood |
 |---|---|
-| [CT sensor failed or disconnected](https://www.amazon.com/s?k=CT%20sensor%20failed%20or%20disconnected&tag=errorcodefixe-20) | Very High |
-| [CT sensor wiring harness loose or broken](https://www.amazon.com/s?k=CT%20sensor%20wiring%20harness%20loose%20or%20broken&tag=errorcodefixe-20) | High |
-| [Outdoor PCB analog input failure](https://www.amazon.com/s?k=Outdoor%20PCB%20analog%20input%20failure&tag=errorcodefixe-20) | Medium |
-| [CT sensor mounted incorrectly (not around wire)](https://www.amazon.com/s?k=CT%20sensor%20mounted%20incorrectly%20(not%20around%20wire)&tag=errorcodefixe-20) | Medium |
-| [Actual compressor overcurrent (compressor fault)](https://www.amazon.com/s?k=Actual%20compressor%20overcurrent%20(compressor%20fault)&tag=errorcodefixe-20) | Low |
+| CT sensor failed or disconnected | Very High |
+| CT sensor wiring harness loose or broken | High |
+| Outdoor PCB analog input failure | Medium |
+| CT sensor mounted incorrectly (not around wire) | Medium |
+| Actual compressor overcurrent (compressor fault) | Low |
 
 ## Step-by-Step Diagnosis {#diagnosis}
 
@@ -68,9 +68,8 @@ The CT (current transformer) sensor is a small toroidal coil that clamps around 
 
 | Part | Notes |
 |---|---|
-| [CT sensor (current transformer)](https://www.amazon.com/s?k=CT%20sensor%20(current%20transformer)&tag=errorcodefixe-20) | LG OEM part — match model number |
-| [Outdoor PCB](https://www.amazon.com/s?k=Outdoor%20PCB&tag=errorcodefixe-20) | Only replace after confirming sensor and wiring are good |
-
+| CT sensor (current transformer) | [Amazon](https://www.amazon.com/s?k=CT+sensor+%28current+transformer%29&tag=errorcodefixes-20) \| LG OEM part — match model number |
+| Outdoor PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB&tag=errorcodefixes-20) \| Only replace after confirming sensor and wiring are good |
 ## Reset Procedure
 
 1. Repair or replace the CT sensor

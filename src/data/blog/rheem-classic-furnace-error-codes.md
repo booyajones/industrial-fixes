@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Rheem Classic Series Furnace Error Codes — Complete Guide"
 description: "Rheem Classic and Classic Plus furnace error codes: all flash codes with meanings and repair steps for R801T, R96V, and Classic series models."
 pubDatetime: 2026-04-22T16:00:00Z
@@ -19,11 +19,18 @@ Rheem's Classic and Classic Plus furnaces (models R801T, R96V, R97V, R92P, and t
 
 ## Flash Code Quick Reference
 
-| [Flashes](https://www.amazon.com/s?k=Flashes&tag=errorcodefixe-20) | Meaning | Common Fix | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | --------- |---------|-----------|
-| 1 | [Ignition lockout (retries exceeded)](https://www.amazon.com/s?k=Ignition%20lockout%20(retries%20exceeded)&tag=errorcodefixe-20) | Clean flame sensor; check gas |
-| [2](https://www.amazon.com/s?k=2&tag=errorcodefixe-20) | Low/single pressure switch open | Clean condensate trap | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 3 | High pressure switch open (2-stage only) | [Check hose and pressure switch](https://www.amazon.com/s?k=Check%20hose%20and%20pressure%20switch&tag=errorcodefixe-20) |  | 4 | [High limit device open](https://www.amazon.com/s?k=High%20limit%20device%20open&tag=errorcodefixe-20) | Replace filter; check blower |
-| [5](https://www.amazon.com/s?k=5&tag=errorcodefixe-20) | Roll-out switch open or flame without call | Safety issue — inspect HX | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 6 | Inducer motor fault | [Check motor RPM and wiring](https://www.amazon.com/s?k=Check%20motor%20RPM%20and%20wiring&tag=errorcodefixe-20) |  | 7 | [Flame signal low](https://www.amazon.com/s?k=Flame%20signal%20low&tag=errorcodefixe-20) | Clean flame sensor rod |
-| [8](https://www.amazon.com/s?k=8&tag=errorcodefixe-20) | Rollout switch circuit open | Manual reset; inspect burners | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | 9 | Reversed line voltage polarity | [Rewire at disconnect](https://www.amazon.com/s?k=Rewire%20at%20disconnect&tag=errorcodefixe-20) |  | 57 | [Abnormal operation / board fault](https://www.amazon.com/s?k=Abnormal%20operation%20%2F%20board%20fault&tag=errorcodefixe-20) | Check wiring; may need board |
+| Flashes | Meaning | Common Fix |
+|---------|---------|-----------|
+| 1 | Ignition lockout (retries exceeded) | Clean flame sensor; check gas |
+| 2 | Low/single pressure switch open | Clean condensate trap |
+| 3 | High pressure switch open (2-stage only) | Check hose and pressure switch |
+| 4 | High limit device open | Replace filter; check blower |
+| 5 | Roll-out switch open or flame without call | Safety issue — inspect HX |
+| 6 | Inducer motor fault | Check motor RPM and wiring |
+| 7 | Flame signal low | Clean flame sensor rod |
+| 8 | Rollout switch circuit open | Manual reset; inspect burners |
+| 9 | Reversed line voltage polarity | Rewire at disconnect |
+| 57 | Abnormal operation / board fault | Check wiring; may need board |
 
 ## Classic Series Model-Specific Notes
 
@@ -62,11 +69,10 @@ Rheem's Classic and Classic Plus furnaces (models R801T, R96V, R97V, R92P, and t
 
 | Part | Notes |
 |------|-------|
-| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | Rheem 62-22868-92 |
-| [Hot-surface igniter](https://www.amazon.com/s?k=Hot-surface%20igniter&tag=errorcodefixe-20) | Rheem 62-23543-01 |
-| [Condensate trap](https://www.amazon.com/s?k=Condensate%20trap&tag=errorcodefixe-20) | Rheem AP14230C |
-| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | 0.60" or 0.80" WC, model-specific |
-| [Blower run capacitor](https://www.amazon.com/s?k=Blower%20run%20capacitor&tag=errorcodefixe-20) | 5–10 µF / 370V |
-
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Rheem 62-22868-92 |
+| Hot-surface igniter | [Amazon](https://www.amazon.com/s?k=Hot-surface+igniter&tag=errorcodefixes-20) \| Rheem 62-23543-01 |
+| Condensate trap | [Amazon](https://www.amazon.com/s?k=Condensate+trap&tag=errorcodefixes-20) \| Rheem AP14230C |
+| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| 0.60" or 0.80" WC, model-specific |
+| Blower run capacitor | [Amazon](https://www.amazon.com/s?k=Blower+run+capacitor&tag=errorcodefixes-20) \| 5–10 µF / 370V |
 ## When to Call a Pro
 Code 5 (rollout or flame without call) and code 9 (reversed polarity) require technician attention. Rollout on a Rheem Classic can indicate a cracked primary heat exchanger — CO can enter the living space through a cracked HX.

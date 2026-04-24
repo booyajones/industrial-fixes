@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Furnace Error Code Lookup Tool: All Brands"
 description: "Master furnace error code lookup guide covering Carrier, Goodman, Lennox, Trane, York, Rheem, Bryant, Heil, Amana, Coleman, and more."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -20,14 +20,14 @@ Furnace fault codes are usually shown as blinking LEDs, two-digit board codes, o
 
 ## Common Furnace Fault Patterns
 
-| [Fault Type](https://www.amazon.com/s?k=Fault%20Type&tag=errorcodefixe-20) | What It Usually Means |
+| Fault Type | What It Usually Means |
 |---|---|
-| [Pressure switch open](https://www.amazon.com/s?k=Pressure%20switch%20open&tag=errorcodefixe-20) | Inducer draft problem, blocked vent, condensate issue |
-| [Limit switch open](https://www.amazon.com/s?k=Limit%20switch%20open&tag=errorcodefixe-20) | Overheating from airflow restriction |
-| [Ignition lockout](https://www.amazon.com/s?k=Ignition%20lockout&tag=errorcodefixe-20) | Gas, igniter, or flame sensor problem |
-| [Flame sense fault](https://www.amazon.com/s?k=Flame%20sense%20fault&tag=errorcodefixe-20) | Dirty flame sensor or bad grounding |
-| [Blower fault](https://www.amazon.com/s?k=Blower%20fault&tag=errorcodefixe-20) | PSC capacitor, ECM module, or airflow issue |
-| [Rollout switch open](https://www.amazon.com/s?k=Rollout%20switch%20open&tag=errorcodefixe-20) | Serious combustion problem, stop and inspect |
+| Pressure switch open | Inducer draft problem, blocked vent, condensate issue |
+| Limit switch open | Overheating from airflow restriction |
+| Ignition lockout | Gas, igniter, or flame sensor problem |
+| Flame sense fault | Dirty flame sensor or bad grounding |
+| Blower fault | PSC capacitor, ECM module, or airflow issue |
+| Rollout switch open | Serious combustion problem, stop and inspect |
 
 ## Brand Hubs Covered
 
@@ -51,12 +51,11 @@ Furnace fault codes are usually shown as blinking LEDs, two-digit board codes, o
 
 | Part | Notes |
 |---|---|
-| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | Cheap and commonly dirty |
-| [Hot surface igniter](https://www.amazon.com/s?k=Hot%20surface%20igniter&tag=errorcodefixe-20) | Fragile, common wear part |
-| [Pressure switch](https://www.amazon.com/s?k=Pressure%20switch&tag=errorcodefixe-20) | Check tubing before replacing |
-| [Blower capacitor](https://www.amazon.com/s?k=Blower%20capacitor&tag=errorcodefixe-20) | Common on PSC motor furnaces |
-| [Air filter](https://www.amazon.com/s?k=Air%20filter&tag=errorcodefixe-20) | Low-cost first fix |
-
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Cheap and commonly dirty |
+| Hot surface igniter | [Amazon](https://www.amazon.com/s?k=Hot+surface+igniter&tag=errorcodefixes-20) \| Fragile, common wear part |
+| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Check tubing before replacing |
+| Blower capacitor | [Amazon](https://www.amazon.com/s?k=Blower+capacitor&tag=errorcodefixes-20) \| Common on PSC motor furnaces |
+| Air filter | [Amazon](https://www.amazon.com/s?k=Air+filter&tag=errorcodefixes-20) \| Low-cost first fix |
 ## When to Call a Pro
 
 If the code points to rollout, heat exchanger concerns, gas valve issues, or persistent lockouts after basic cleaning and filter replacement, call a licensed HVAC technician. Some furnace faults are safety issues, not DIY maintenance items.

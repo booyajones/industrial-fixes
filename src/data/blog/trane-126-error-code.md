@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Trane Error Code 126 — Ignition Lockout Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-12T08:00:00Z
@@ -49,9 +49,12 @@ Code 126 is most commonly seen on Trane XR80, XR95, and S9V2 series furnaces. Th
 
 ## Parts That May Need Replacement {#parts-that-may-need-replacement}
 
-| Part | Part Number | Typical Cost | [Where to Buy](https://www.amazon.com/s?k=Where%20to%20Buy&tag=errorcodefixe-20) |  |------|------------|-------------|-------------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Hot surface igniter | SEN00484 | [$35–$50](https://www.amazon.com/s?k=%2435%E2%80%93%2450&tag=errorcodefixe-20) | Repair Clinic / Amazon |
-| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | SEN00106 | $18–$28 | [Repair Clinic / Amazon](https://www.amazon.com/s?k=Repair%20Clinic%20%2F%20Amazon&tag=errorcodefixe-20) |  | Gas valve | [SV9541Q8544](https://www.amazon.com/s?k=SV9541Q8544&tag=errorcodefixe-20) | $150–$220 | HVAC Distributors | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Control board (X-13) | CNT05015 | [$180–$280](https://www.amazon.com/s?k=%24180%E2%80%93%24280&tag=errorcodefixe-20) | Repair Clinic |
-
+| Part | Part Number | Typical Cost | Where to Buy |
+|------|------------|-------------|-------------|
+| Hot surface igniter | SEN00484 | $35–$50 | [Amazon](https://www.amazon.com/s?k=SEN00484+Hot+surface+igniter&tag=errorcodefixes-20) \| Repair Clinic / Amazon |
+| Flame sensor | SEN00106 | $18–$28 | [Amazon](https://www.amazon.com/s?k=SEN00106+Flame+sensor&tag=errorcodefixes-20) \| Repair Clinic / Amazon |
+| Gas valve | SV9541Q8544 | $150–$220 | [Amazon](https://www.amazon.com/s?k=SV9541Q8544+Gas+valve&tag=errorcodefixes-20) \| HVAC Distributors |
+| Control board (X-13) | CNT05015 | $180–$280 | [Amazon](https://www.amazon.com/s?k=CNT05015+Control+board+%28X-13%29&tag=errorcodefixes-20) \| Repair Clinic |
 ## When to Call a Professional
 
 If replacing the igniter and cleaning the flame sensor doesn't resolve code 126 within two reset cycles, the furnace likely has a gas supply problem, a failed control board, or a venting/pressure issue that requires diagnostic equipment — specifically a manometer for gas pressure and a multimeter capable of microamp measurement for the flame signal. Gas valve replacement on a Trane furnace involves working with the gas supply line and requires a licensed technician in most states. If you smell gas at any point, stop work immediately, ventilate, and call your gas utility.

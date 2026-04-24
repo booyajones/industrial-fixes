@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Jackson Commercial Dishwasher Error Codes — Guide"
 description: "Jackson commercial dishwasher error codes: what each means and how to fix it."
 pubDatetime: 2026-04-22T23:00:00Z
@@ -15,11 +15,16 @@ tags:
 
 Jackson WWS (Warewashing Solutions) manufactures commercial dishwashers widely used in US food service operations including undercounters, door-types, and conveyor machines.
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixe-20) | Meaning | Urgency | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |---------|---------|
-| E-1 | [Wash tank low water](https://www.amazon.com/s?k=Wash%20tank%20low%20water&tag=errorcodefixe-20) | Medium |
-| [E-2](https://www.amazon.com/s?k=E-2&tag=errorcodefixe-20) | Wash tank fill timeout | Medium | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E-3 | Wash tank temperature low | [Medium](https://www.amazon.com/s?k=Medium&tag=errorcodefixe-20) |  | E-4 | [Final rinse temperature low](https://www.amazon.com/s?k=Final%20rinse%20temperature%20low&tag=errorcodefixe-20) | High |
-| [E-5](https://www.amazon.com/s?k=E-5&tag=errorcodefixe-20) | Wash pump motor fault | High | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | E-6 | Drain fault | [Medium](https://www.amazon.com/s?k=Medium&tag=errorcodefixe-20) |  | E-7 | [Door not closed](https://www.amazon.com/s?k=Door%20not%20closed&tag=errorcodefixe-20) | Medium |
-| [E-8](https://www.amazon.com/s?k=E-8&tag=errorcodefixe-20) | Chemical dispenser fault | Low |
+| Code | Meaning | Urgency |
+|------|---------|---------|
+| E-1 | Wash tank low water | Medium |
+| E-2 | Wash tank fill timeout | Medium |
+| E-3 | Wash tank temperature low | Medium |
+| E-4 | Final rinse temperature low | High |
+| E-5 | Wash pump motor fault | High |
+| E-6 | Drain fault | Medium |
+| E-7 | Door not closed | Medium |
+| E-8 | Chemical dispenser fault | Low |
 
 [Jump to Fix](#fix)
 
@@ -35,8 +40,11 @@ Jackson WWS (Warewashing Solutions) manufactures commercial dishwashers widely u
 
 ## Parts Often Needed
 
-| Part | Notes | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | ------ |-------| [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Wash pump seal kit | Prevents water ingress to motor | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Booster heater element | For E-4 temperature faults | [](https://www.amazon.com/s?k=&tag=errorcodefixe-20) | Inlet valve | For persistent E-1/E-2 |
-
+| Part | Notes |
+|------|-------|
+| Wash pump seal kit | [Amazon](https://www.amazon.com/s?k=Wash+pump+seal+kit&tag=errorcodefixes-20) \| Prevents water ingress to motor |
+| Booster heater element | [Amazon](https://www.amazon.com/s?k=Booster+heater+element&tag=errorcodefixes-20) \| For E-4 temperature faults |
+| Inlet valve | [Amazon](https://www.amazon.com/s?k=Inlet+valve&tag=errorcodefixes-20) \| For persistent E-1/E-2 |
 ## When to Call a Pro
 
 Jackson dishwasher control board and high-voltage work requires authorized service.

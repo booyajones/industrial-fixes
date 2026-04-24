@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Carrier 41 Error Code — Blower Motor Fault Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-03-22T08:00:00Z
@@ -48,9 +48,9 @@ After replacement, restore power and observe the blower operation through a full
 
 | Part | Where to Buy |
 |------|-------------|
-| [ECM motor module (match part number)](https://www.amazon.com/s?k=ECM%20motor%20module%20(match%20part%20number)&tag=errorcodefixe-20) | RepairClinic, Grainger |
-| [ECM blower motor assembly](https://www.amazon.com/s?k=ECM%20blower%20motor%20assembly&tag=errorcodefixe-20) | RepairClinic, SupplyHouse |
-| [Motor control board](https://www.amazon.com/s?k=Motor%20control%20board&tag=errorcodefixe-20) | SupplyHouse, Grainger |
+| ECM motor module (match part number) | RepairClinic, Grainger |
+| ECM blower motor assembly | RepairClinic, SupplyHouse |
+| Motor control board | SupplyHouse, Grainger |
 
 ## When to Call a Technician
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lennox Error Code 412 — Limit Switch Fault Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-04-02T08:00:00Z
@@ -46,9 +46,9 @@ After correcting the cause, clear the fault via the iComfort thermostat or by cy
 
 | Part | Where to Buy |
 |------|-------------|
-| [High limit switch](https://www.amazon.com/s?k=High%20limit%20switch&tag=errorcodefixe-20) | RepairClinic, SupplyHouse |
-| [Lennox media filter](https://www.amazon.com/s?k=Lennox%20media%20filter&tag=errorcodefixe-20) | Amazon, SupplyHouse |
-| [ECM motor module](https://www.amazon.com/s?k=ECM%20motor%20module&tag=errorcodefixe-20) | RepairClinic, Grainger |
+| High limit switch | RepairClinic, SupplyHouse |
+| Lennox media filter | Amazon, SupplyHouse |
+| ECM motor module | RepairClinic, Grainger |
 
 ## When to Call a Technician
 

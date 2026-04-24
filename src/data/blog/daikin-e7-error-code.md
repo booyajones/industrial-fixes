@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Daikin E7 Error Code — Outdoor Fan Motor Fault Fix"
 author: "Industrial Error Code Fixes"
 pubDatetime: 2024-04-04T08:00:00Z
@@ -46,9 +46,9 @@ On DC inverter fan motor units (most current Daikin mini-splits), the fan motor 
 
 | Part | Where to Buy |
 |------|-------------|
-| [Daikin outdoor fan motor](https://www.amazon.com/s?k=Daikin%20outdoor%20fan%20motor&tag=errorcodefixe-20) | RepairClinic, SupplyHouse |
-| [Fan motor run capacitor (PSC models)](https://www.amazon.com/s?k=Fan%20motor%20run%20capacitor%20(PSC%20models)&tag=errorcodefixe-20) | Grainger, Amazon |
-| [Outdoor main PCB](https://www.amazon.com/s?k=Outdoor%20main%20PCB&tag=errorcodefixe-20) | SupplyHouse, Grainger |
+| Daikin outdoor fan motor | RepairClinic, SupplyHouse |
+| Fan motor run capacitor (PSC models) | Grainger, Amazon |
+| Outdoor main PCB | SupplyHouse, Grainger |
 
 ## When to Call a Technician
 

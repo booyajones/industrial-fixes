@@ -1,4 +1,4 @@
-﻿---
+---
 title: "LG Mini-Split CH21 Error Code — Outdoor Unit High Pressure"
 description: "LG mini-split CH21 error code means high pressure protection on the outdoor unit. Learn the causes, how to diagnose, and how to fix LG CH21."
 pubDatetime: 2026-04-22T17:00:00Z
@@ -33,15 +33,15 @@ For R-410A systems, the high-pressure switch typically trips at 590–620 psig.
 
 ## Common Causes {#most-likely-cause}
 
-| [Cause](https://www.amazon.com/s?k=Cause&tag=errorcodefixe-20) | Likelihood |
+| Cause | Likelihood |
 |---|---|
-| [Dirty or blocked condenser coil](https://www.amazon.com/s?k=Dirty%20or%20blocked%20condenser%20coil&tag=errorcodefixe-20) | Very High |
-| [Outdoor fan motor or capacitor failed](https://www.amazon.com/s?k=Outdoor%20fan%20motor%20or%20capacitor%20failed&tag=errorcodefixe-20) | Very High |
-| [Refrigerant overcharge](https://www.amazon.com/s?k=Refrigerant%20overcharge&tag=errorcodefixe-20) | Medium |
-| [Non-condensables in refrigerant system](https://www.amazon.com/s?k=Non-condensables%20in%20refrigerant%20system&tag=errorcodefixe-20) | Medium |
-| [Restricted liquid line (TXV issue)](https://www.amazon.com/s?k=Restricted%20liquid%20line%20(TXV%20issue)&tag=errorcodefixe-20) | Medium |
-| [Failed high-pressure switch](https://www.amazon.com/s?k=Failed%20high-pressure%20switch&tag=errorcodefixe-20) | Low |
-| [High ambient temperature with undersized system](https://www.amazon.com/s?k=High%20ambient%20temperature%20with%20undersized%20system&tag=errorcodefixe-20) | Low |
+| Dirty or blocked condenser coil | Very High |
+| Outdoor fan motor or capacitor failed | Very High |
+| Refrigerant overcharge | Medium |
+| Non-condensables in refrigerant system | Medium |
+| Restricted liquid line (TXV issue) | Medium |
+| Failed high-pressure switch | Low |
+| High ambient temperature with undersized system | Low |
 
 ## Step-by-Step Diagnosis {#diagnosis}
 
@@ -82,9 +82,8 @@ LG mini-splits allow 3 high-pressure trips before hard lockout:
 
 | Part | Notes |
 |---|---|
-| [Outdoor fan run capacitor](https://www.amazon.com/s?k=Outdoor%20fan%20run%20capacitor&tag=errorcodefixe-20) | LG-specific — match µF and voltage |
-| [Outdoor fan motor](https://www.amazon.com/s?k=Outdoor%20fan%20motor&tag=errorcodefixe-20) | Match HP, RPM, and shaft diameter |
-| [High-pressure switch](https://www.amazon.com/s?k=High-pressure%20switch&tag=errorcodefixe-20) | LG part — match trip pressure (590 psig for R-410A) |
-| [Condenser coil](https://www.amazon.com/s?k=Condenser%20coil&tag=errorcodefixe-20) | Extensive fin damage — clean before condemning |
-
+| Outdoor fan run capacitor | [Amazon](https://www.amazon.com/s?k=Outdoor+fan+run+capacitor&tag=errorcodefixes-20) \| LG-specific — match µF and voltage |
+| Outdoor fan motor | [Amazon](https://www.amazon.com/s?k=Outdoor+fan+motor&tag=errorcodefixes-20) \| Match HP, RPM, and shaft diameter |
+| High-pressure switch | [Amazon](https://www.amazon.com/s?k=High-pressure+switch&tag=errorcodefixes-20) \| LG part — match trip pressure (590 psig for R-410A) |
+| Condenser coil | [Amazon](https://www.amazon.com/s?k=Condenser+coil&tag=errorcodefixes-20) \| Extensive fin damage — clean before condemning |
 > **Pro tip:** In areas with heavy cottonwood or pollen, schedule annual coil cleaning in spring before cooling season. A clean coil prevents most CH21 faults without any refrigerant work.

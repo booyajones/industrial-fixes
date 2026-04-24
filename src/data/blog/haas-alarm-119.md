@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Haas Alarm 119 — Spindle Not At Speed Causes & Fix"
 description: "What Haas alarm 119 means, why the spindle fails to reach commanded speed, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
@@ -39,10 +39,9 @@ Alarm 119 (SPINDLE NOT AT SPEED) on a Haas CNC means the spindle failed to reach
 
 | Part | Notes |
 |------|-------|
-| [Spindle belt](https://www.amazon.com/s?k=Spindle%20belt&tag=errorcodefixe-20) | Haas OEM; match machine model and spindle size |
-| [Spindle encoder](https://www.amazon.com/s?k=Spindle%20encoder&tag=errorcodefixe-20) | Replace if signal is noisy or absent at the drive |
-| [Spindle drive (vector drive module)](https://www.amazon.com/s?k=Spindle%20drive%20(vector%20drive%20module)&tag=errorcodefixe-20) | Match machine and spindle HP rating |
-
+| Spindle belt | [Amazon](https://www.amazon.com/s?k=Spindle+belt&tag=errorcodefixes-20) \| Haas OEM; match machine model and spindle size |
+| Spindle encoder | [Amazon](https://www.amazon.com/s?k=Spindle+encoder&tag=errorcodefixes-20) \| Replace if signal is noisy or absent at the drive |
+| Spindle drive (vector drive module) | [Amazon](https://www.amazon.com/s?k=Spindle+drive+%28vector+drive+module%29&tag=errorcodefixes-20) \| Match machine and spindle HP rating |
 ## When to Call a Pro
 
 If alarm 119 is caused by a spindle drive fault or a motor winding issue, contact the Haas Factory Outlet (HFO). Spindle motor replacement and drive parameter re-commissioning are beyond routine maintenance scope.

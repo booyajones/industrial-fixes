@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Rheem Furnace 7 Flashes Error Code — Causes & Fix"
 description: "What Rheem furnace 7 flashes means, why low flame signal occurs, and how to fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,10 +36,9 @@ A Rheem furnace flashing **7 times** indicates a **low flame sense signal**. The
 
 | Part | Notes |
 |------|-------|
-| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | Replace if cleaning does not restore a stable flame signal |
-| [Burner assembly screws / hardware](https://www.amazon.com/s?k=Burner%20assembly%20screws%20%2F%20hardware&tag=errorcodefixe-20) | Helpful when removing rusted burners for cleaning |
-| [Gas valve](https://www.amazon.com/s?k=Gas%20valve&tag=errorcodefixe-20) | Replace only after confirming low flame is caused by valve delivery, not dirty burners or grounding |
-
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Replace if cleaning does not restore a stable flame signal |
+| Burner assembly screws / hardware | [Amazon](https://www.amazon.com/s?k=Burner+assembly+screws+%2F+hardware&tag=errorcodefixes-20) \| Helpful when removing rusted burners for cleaning |
+| Gas valve | [Amazon](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) \| Replace only after confirming low flame is caused by valve delivery, not dirty burners or grounding |
 ## When to Call a Pro
 
 If the flame signal is still low after cleaning the sensor and burners, the issue may be gas pressure, board sensitivity, or grounding through the burner rack. A licensed HVAC tech can measure inlet and manifold pressure and verify the flame rectification circuit.

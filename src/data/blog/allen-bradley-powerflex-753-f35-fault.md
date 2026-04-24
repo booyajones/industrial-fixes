@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Allen Bradley PowerFlex 753 F35 Fault — Causes & Fix"
 description: "What Allen Bradley PowerFlex 753 F35 Heatsink Overtemp means, why it trips, and how to fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
@@ -36,10 +36,9 @@ The Allen Bradley PowerFlex 753 **F35 fault** is a **Heatsink Overtemperature** 
 
 | Part | Notes |
 |------|-------|
-| [Internal cooling fan (drive-specific)](https://www.amazon.com/s?k=Internal%20cooling%20fan%20(drive-specific)&tag=errorcodefixe-20) | Required when fan bearing has seized; AB part number varies by frame size |
-| [Enclosure thermostat-controlled fan](https://www.amazon.com/s?k=Enclosure%20thermostat-controlled%20fan&tag=errorcodefixe-20) | Add when ambient temps run high |
-| [Compressed air canister or shop air](https://www.amazon.com/s?k=Compressed%20air%20canister%20or%20shop%20air&tag=errorcodefixe-20) | For routine cleaning every 6–12 months |
-
+| Internal cooling fan (drive-specific) | [Amazon](https://www.amazon.com/s?k=Internal+cooling+fan+%28drive-specific%29&tag=errorcodefixes-20) \| Required when fan bearing has seized; AB part number varies by frame size |
+| Enclosure thermostat-controlled fan | [Amazon](https://www.amazon.com/s?k=Enclosure+thermostat-controlled+fan&tag=errorcodefixes-20) \| Add when ambient temps run high |
+| Compressed air canister or shop air | [Amazon](https://www.amazon.com/s?k=Compressed+air+canister+or+shop+air&tag=errorcodefixes-20) \| For routine cleaning every 6–12 months |
 ## When to Call a Pro
 
 If F35 returns immediately after cleaning and the internal fan is confirmed running, the thermistor itself may have failed (reading falsely high). Thermistor replacement requires drive disassembly and an authorized AB service provider or qualified industrial electrician.

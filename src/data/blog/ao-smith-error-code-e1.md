@@ -1,4 +1,4 @@
-﻿---
+---
 title: "A.O. Smith Water Heater E1 Error Code — Sensor Fault Guide"
 description: "A.O. Smith water heater E1 error means a temperature sensor fault. This guide covers gas and electric models, sensor testing, and how to fix or replace the sensor."
 pubDatetime: 2026-04-22T18:00:00Z
@@ -21,12 +21,12 @@ tags:
 
 ## A.O. Smith Models That Show E1
 
-| [Model Series](https://www.amazon.com/s?k=Model%20Series&tag=errorcodefixe-20) | E1 Meaning |
+| Model Series | E1 Meaning |
 |---|---|
-| [Voltex (AHPT series)](https://www.amazon.com/s?k=Voltex%20(AHPT%20series)&tag=errorcodefixe-20) | Upper temperature sensor fault |
-| [Signature 900 (HPTU)](https://www.amazon.com/s?k=Signature%20900%20(HPTU)&tag=errorcodefixe-20) | Temperature sensor or heat pump sensor |
-| [ProLine XE (ELDS, ELD)](https://www.amazon.com/s?k=ProLine%20XE%20(ELDS%2C%20ELD)&tag=errorcodefixe-20) | Element or sensor fault |
-| [Vertex (GPVH)](https://www.amazon.com/s?k=Vertex%20(GPVH)&tag=errorcodefixe-20) | Gas control sensor fault |
+| Voltex (AHPT series) | Upper temperature sensor fault |
+| Signature 900 (HPTU) | Temperature sensor or heat pump sensor |
+| ProLine XE (ELDS, ELD) | Element or sensor fault |
+| Vertex (GPVH) | Gas control sensor fault |
 
 ## Where Are the Sensors?
 
@@ -42,12 +42,12 @@ E1 usually means the **upper tank sensor** has failed.
 
 The sensors are NTC thermistors that change resistance with temperature:
 
-| [Temperature](https://www.amazon.com/s?k=Temperature&tag=errorcodefixe-20) | Expected Resistance |
+| Temperature | Expected Resistance |
 |---|---|
-| [32°F (0°C)](https://www.amazon.com/s?k=32%C2%B0F%20(0%C2%B0C)&tag=errorcodefixe-20) | ~32,650 ohms |
-| [68°F (20°C)](https://www.amazon.com/s?k=68%C2%B0F%20(20%C2%B0C)&tag=errorcodefixe-20) | ~12,490 ohms |
-| [77°F (25°C)](https://www.amazon.com/s?k=77%C2%B0F%20(25%C2%B0C)&tag=errorcodefixe-20) | ~10,000 ohms |
-| [120°F (49°C)](https://www.amazon.com/s?k=120%C2%B0F%20(49%C2%B0C)&tag=errorcodefixe-20) | ~3,600 ohms |
+| 32°F (0°C) | ~32,650 ohms |
+| 68°F (20°C) | ~12,490 ohms |
+| 77°F (25°C) | ~10,000 ohms |
+| 120°F (49°C) | ~3,600 ohms |
 
 **To test:**
 1. Turn off circuit breaker to the water heater
@@ -93,6 +93,6 @@ Don't ignore E1 — a $25–50 sensor replacement avoids a potential burnout of 
 
 | Part | Cost |
 |---|---|
-| [NTC temperature sensor (universal)](https://www.amazon.com/s?k=NTC%20temperature%20sensor%20(universal)&tag=errorcodefixe-20) | $15–30 |
-| [A.O. Smith OEM sensor](https://www.amazon.com/s?k=A.O.%20Smith%20OEM%20sensor&tag=errorcodefixe-20) | $25–60 |
-| [Control board (if sensor input failed)](https://www.amazon.com/s?k=Control%20board%20(if%20sensor%20input%20failed)&tag=errorcodefixe-20) | $100–250 |
+| NTC temperature sensor (universal) | $15–30 |
+| A.O. Smith OEM sensor | $25–60 |
+| Control board (if sensor input failed) | $100–250 |

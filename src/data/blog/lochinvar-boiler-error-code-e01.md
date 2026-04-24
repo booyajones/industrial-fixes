@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Lochinvar Boiler Error Code E01 — Causes & Fix"
 description: "What Lochinvar boiler error code E01 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
@@ -36,10 +36,9 @@ Lochinvar boiler error code E01 indicates an ignition lockout — the control mo
 
 | Part | Notes |
 |------|-------|
-| [Hot surface igniter](https://www.amazon.com/s?k=Hot%20surface%20igniter&tag=errorcodefixe-20) | Match OEM part number for the specific Knight or WHN model year |
-| [Flame sensor](https://www.amazon.com/s?k=Flame%20sensor&tag=errorcodefixe-20) | Often a universal rod; match thread size and terminal type |
-| [Gas valve](https://www.amazon.com/s?k=Gas%20valve&tag=errorcodefixe-20) | Replace only after gas supply and ignition components are ruled out |
-
+| Hot surface igniter | [Amazon](https://www.amazon.com/s?k=Hot+surface+igniter&tag=errorcodefixes-20) \| Match OEM part number for the specific Knight or WHN model year |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Often a universal rod; match thread size and terminal type |
+| Gas valve | [Amazon](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) \| Replace only after gas supply and ignition components are ruled out |
 ## When to Call a Pro
 
 Lochinvar boilers serving radiant heat, domestic hot water, or commercial HVAC systems are critical equipment. If E01 persists after checking igniter, flame sensor, and gas supply, a licensed boiler technician should diagnose before the system is offline for an extended period in cold weather.

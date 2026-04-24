@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Bryant Furnace 33 Error Code — Limit Device Lockout"
 description: "What the Bryant furnace 33 error code means, why the limit switch trips, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
@@ -40,12 +40,11 @@ On Bryant furnaces, error code 33 indicates a limit device fault — the high-li
 
 | Part | Notes |
 |------|-------|
-| [Air filter](https://www.amazon.com/s?k=Air%20filter&tag=errorcodefixe-20) | Replace every 1–3 months; most 33 faults are dirty-filter faults |
-| [Blower motor run capacitor](https://www.amazon.com/s?k=Blower%20motor%20run%20capacitor&tag=errorcodefixe-20) | Test before replacing motor — most blower motor failures are capacitor failures |
-| [High-limit switch](https://www.amazon.com/s?k=High-limit%20switch&tag=errorcodefixe-20) | Match rated temperature from original switch body |
-| [Rollout switch](https://www.amazon.com/s?k=Rollout%20switch&tag=errorcodefixe-20) | Replace after investigating the root cause of the rollout event |
-| [Blower motor](https://www.amazon.com/s?k=Blower%20motor&tag=errorcodefixe-20) | Replace if motor is seized or draws excessive amps with good capacitor |
-
+| Air filter | [Amazon](https://www.amazon.com/s?k=Air+filter&tag=errorcodefixes-20) \| Replace every 1–3 months; most 33 faults are dirty-filter faults |
+| Blower motor run capacitor | [Amazon](https://www.amazon.com/s?k=Blower+motor+run+capacitor&tag=errorcodefixes-20) \| Test before replacing motor — most blower motor failures are capacitor failures |
+| High-limit switch | [Amazon](https://www.amazon.com/s?k=High-limit+switch&tag=errorcodefixes-20) \| Match rated temperature from original switch body |
+| Rollout switch | [Amazon](https://www.amazon.com/s?k=Rollout+switch&tag=errorcodefixes-20) \| Replace after investigating the root cause of the rollout event |
+| Blower motor | [Amazon](https://www.amazon.com/s?k=Blower+motor&tag=errorcodefixes-20) \| Replace if motor is seized or draws excessive amps with good capacitor |
 ## When to Call a Pro
 
 A tripped rollout switch is never a nuisance fault — it means flame exited the burner box, which only happens with a blocked flue or a cracked heat exchanger. Both are serious safety issues. Have a licensed HVAC technician perform a combustion analysis and heat exchanger inspection before restarting the furnace after a rollout event.
