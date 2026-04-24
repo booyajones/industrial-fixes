@@ -11,16 +11,23 @@ if (-not $env:CLOUDFLARE_API_TOKEN) {
 $CF_TOKEN = $env:CLOUDFLARE_API_TOKEN
 $ZONE_ID = if ($env:CF_ZONE_ID) { $env:CF_ZONE_ID } else { "813cc094fec38ff0e2e666e534334944" }
 
+Write-Host "Installing dependencies..." -ForegroundColor Cyan
+pnpm install
+if ($LASTEXITCODE -ne 0) {
+    Write-Host "pnpm install failed. Aborting deploy." -ForegroundColor Red
+    exit 1
+}
+
 Write-Host "Building site..." -ForegroundColor Cyan
 $env:NODE_OPTIONS = "--max-old-space-size=4096"
-npx astro build
+pnpm run build
 if ($LASTEXITCODE -ne 0) {
     Write-Host "Build failed. Aborting deploy." -ForegroundColor Red
     exit 1
 }
 
 Write-Host "Running pagefind index..." -ForegroundColor Cyan
-npx pagefind --site dist
+pnpm exec pagefind --site dist
 if ($LASTEXITCODE -ne 0) {
     Write-Host "Pagefind failed. Aborting deploy." -ForegroundColor Red
     exit 1
