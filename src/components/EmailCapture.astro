@@ -1,0 +1,81 @@
+---
+interface Props {
+  brand?: string;
+}
+const { brand = "industrial" } = Astro.props;
+const headline = brand
+  ? `Get the ${brand.charAt(0).toUpperCase() + brand.slice(1)} error code cheat sheet`
+  : "Get the complete error code reference";
+---
+
+<div class="email-capture-box">
+  <div class="email-capture-inner">
+    <div class="email-capture-text">
+      <strong>📋 {headline}</strong>
+      <span> — free PDF with all common codes, causes, and fixes.</span>
+    </div>
+    <form
+      class="email-capture-form"
+      action="https://app.beehiiv.com/subscribe"
+      method="POST"
+      target="_blank"
+    >
+      <input type="hidden" name="publication_id" value="errorcodefixes" />
+      <input
+        type="email"
+        name="email"
+        placeholder="your@email.com"
+        required
+        class="email-input"
+      />
+      <button type="submit" class="email-submit">Get Free PDF</button>
+    </form>
+  </div>
+</div>
+
+<style>
+  .email-capture-box {
+    background: linear-gradient(135deg, #fef3c7 0%, #fff8e1 100%);
+    border: 2px solid #f59e0b;
+    border-radius: 10px;
+    padding: 1.25rem 1.5rem;
+    margin: 2rem 0;
+  }
+  .email-capture-inner {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+  .email-capture-text {
+    font-size: 0.95rem;
+    color: #1c1917;
+    line-height: 1.5;
+  }
+  .email-capture-form {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+  .email-input {
+    flex: 1;
+    min-width: 200px;
+    padding: 0.5rem 0.75rem;
+    border: 1px solid #d6d3d1;
+    border-radius: 6px;
+    font-size: 0.875rem;
+  }
+  .email-submit {
+    background: #d97706;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    padding: 0.5rem 1.25rem;
+    font-size: 0.875rem;
+    font-weight: 600;
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  .email-submit:hover {
+    background: #b45309;
+  }
+</style>

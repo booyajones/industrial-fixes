@@ -12,6 +12,7 @@ import { SITE } from "@/config";
 import BackToTopButton from "@/components/BackToTopButton.astro";
 import QuickAnswer from "@/components/QuickAnswer.astro";
 import RelatedPosts from "@/components/RelatedPosts.astro";
+import EmailCapture from "../components/EmailCapture.astro";
 import { getPath } from "@/utils/getPath";
 import { slugifyStr } from "@/utils/slugify";
 import IconChevronLeft from "@/assets/icons/IconChevronLeft.svg";
@@ -59,7 +60,7 @@ const ogImage = ogImageUrl
   : undefined;
 
 const layoutProps = {
-  title: `${title} | ${SITE.title}`,
+  title: `${title} — Fix & Diagnosis Guide | errorcodefixes.com`,
   author,
   description,
   pubDatetime,
@@ -130,12 +131,17 @@ const nextPost =
     class:list={["app-layout pb-12", { "mt-8": !SITE.showBackButton }]}
     data-pagefind-body
   >
-    <h1
-      transition:name={slugifyStr(title.replaceAll(".", "-"))}
-      class="inline-block text-2xl font-bold text-accent sm:text-3xl"
-    >
-      {title}
-    </h1>
+    <div class="title-copy-wrapper">
+      <h1
+        transition:name={slugifyStr(title.replaceAll(".", "-"))}
+        class="inline-block text-2xl font-bold text-accent sm:text-3xl"
+      >
+        {title}
+      </h1>
+      <button class="copy-code-btn" data-title={title} aria-label="Copy error code name">
+        Copy
+      </button>
+    </div>
     <div class="tech-verified-badge">
       <span class="badge-icon">✓</span>
       <span class="badge-text">Verified by Certified Industrial Technician</span>
@@ -166,7 +172,12 @@ const nextPost =
 
     <RelatedPosts currentSlug={post.id} {tags} />
 
+    <EmailCapture brand={tags?.[0]} />
+
     <ShareLinks />
+    <button onclick="window.print()" class="print-btn" aria-label="Print this guide">
+      🖨️ Print guide
+    </button>
 
     <hr class="my-6 border-dashed" />
 
@@ -220,6 +231,44 @@ const nextPost =
   }
   .badge-icon { font-weight: 700; }
   .badge-text { font-weight: 500; }
+
+  /* Title + copy button */
+  .title-copy-wrapper {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+  }
+  .copy-code-btn {
+    background: #f3f4f6;
+    border: 1px solid #d1d5db;
+    border-radius: 4px;
+    padding: 0.25rem 0.6rem;
+    font-size: 0.75rem;
+    cursor: pointer;
+    color: #6b7280;
+    margin-top: 0.5rem;
+    white-space: nowrap;
+  }
+  .copy-code-btn:hover { background: #e5e7eb; }
+
+  /* Print button */
+  .print-btn {
+    background: none;
+    border: 1px solid #d1d5db;
+    border-radius: 6px;
+    padding: 0.4rem 0.9rem;
+    font-size: 0.8rem;
+    cursor: pointer;
+    color: #6b7280;
+    margin-top: 0.75rem;
+  }
+  .print-btn:hover { border-color: #9ca3af; color: #374151; }
+
+  @media print {
+    #chat-widget, .email-capture-box, nav, footer, .print-btn { display: none !important; }
+    .quick-answer-box { border: 1px solid #000 !important; }
+  }
 </style>
 
 <script is:inline data-astro-rerun>
@@ -336,6 +385,19 @@ const nextPost =
     }
   }
   attachCopyButtons();
+
+  /** Copy error code title to clipboard */
+  function attachTitleCopyButtons() {
+    document.querySelectorAll('.copy-code-btn').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const titleText = /** @type {HTMLElement} */ (btn).dataset.title || '';
+        navigator.clipboard.writeText(titleText);
+        btn.textContent = 'Copied!';
+        setTimeout(() => { btn.textContent = 'Copy'; }, 2000);
+      });
+    });
+  }
+  attachTitleCopyButtons();
 
   /* Go to page start after page swap */
   document.addEventListener("astro:after-swap", () =>
