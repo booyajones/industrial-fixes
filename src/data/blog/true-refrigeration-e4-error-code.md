@@ -8,7 +8,7 @@ featured: false
 draft: false
 tags:
   - refrigeration
-  - true
+  - true-refrigeration
 ---
 
 ## True Refrigeration E4 Error Code — What It Means

@@ -8,7 +8,7 @@ featured: false
 draft: false
 tags:
   - refrigeration
-  - true
+  - true-refrigeration
 ---
 
 ## True T-49 Error Codes — What It Means

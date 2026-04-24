@@ -8,7 +8,7 @@ featured: false
 draft: false
 tags:
   - refrigeration
-  - true
+  - true-refrigeration
 ---
 
 ## True Refrigeration E3 Error Code — What It Means

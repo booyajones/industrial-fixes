@@ -8,7 +8,7 @@ featured: false
 draft: false
 tags:
   - refrigeration
-  - true
+  - true-refrigeration
 ---
 
 ## True Refrigeration T-Series Error Codes — What They Mean
