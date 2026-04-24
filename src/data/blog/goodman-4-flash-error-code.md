@@ -42,3 +42,10 @@ Four flashes on a Goodman furnace LED means the high limit device is open. The h
 ## When to Call a Pro
 
 A high-limit that trips repeatedly after airflow is corrected is a strong indicator of a cracked heat exchanger — a CO hazard. Don't operate the furnace until a tech has inspected the heat exchanger.
+
+## See Also
+
+- [Goodman GSZC18 Heat Pump Error Codes — Fault Code Diagnostic Guide](/posts/goodman-gszc18-error-codes/)
+- [Goodman Furnace Error Codes — All Flash Codes Explained](/posts/goodman-furnace-error-codes/)
+- [Goodman Furnace EE2 Error Code — Causes & Fix](/posts/goodman-furnace-ee2-error-code/)
+- [Goodman GMS80 Furnace Error Codes — Fault Code Diagnostic Guide](/posts/goodman-gms80-error-codes/)

@@ -42,3 +42,10 @@ Lennox fault code 111 (three flashes on the diagnostic LED, or displayed as "111
 ## When to Call a Pro
 
 Flame rollout combined with a cracked heat exchanger is a carbon monoxide hazard. If you cannot identify a clear venting or draft cause for the rollout trip, stop operating the furnace and have a technician perform a full combustion and heat exchanger inspection before restart.
+
+## See Also
+
+- [Lennox Error Code 114 — Causes & Fix](/posts/lennox-error-code-114/)
+- [Lennox Error Code 231 — Causes & Fix](/posts/lennox-error-code-231/)
+- [Lennox Error Code 223 — Causes & Fix](/posts/lennox-error-code-223/)
+- [Lennox G60UHV Furnace Error Codes — Flash Code Diagnostic Guide](/posts/lennox-g60uhv-error-codes/)

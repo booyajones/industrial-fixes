@@ -42,3 +42,10 @@ Carrier fault code 14 is an ignition lockout. After exhausting the allowed ignit
 ## When to Call a Pro
 
 If the furnace locks out again within the first heat cycle after reset, or if you suspect a cracked heat exchanger or failed gas valve, contact a licensed HVAC technician. Repeated lockouts without a clear component failure can indicate combustion or venting problems.
+
+## See Also
+
+- [Carrier Furnace E1 Error Code — Causes & Fix](/posts/carrier-furnace-error-code-e1/)
+- [Carrier 34 Error Code — Ignition Proving Failure Fix](/posts/carrier-34-error-code/)
+- [Carrier Error Code 58 — Causes & Fix](/posts/carrier-58-error-code/)
+- [Carrier Error Code 56 — IFC Fault (Induced Draft Motor)](/posts/carrier-56-error-code/)

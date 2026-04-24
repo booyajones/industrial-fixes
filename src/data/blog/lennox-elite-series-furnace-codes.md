@@ -64,3 +64,10 @@ The Lennox Elite Series includes several residential gas furnace models: the EL1
 ## When to Call a Pro
 
 Lennox Elite Series furnaces with iComfort communicating systems require Lennox service tools for full diagnostics. Alert Code 540 (control board fault) and any code that returns after a verified repair should be evaluated by a Lennox Premier Dealer. Heat exchanger inspection for rollout switch trips requires camera inspection equipment and combustion analysis.
+
+## See Also
+
+- [Lennox Error Code 540 — Causes & Fix](/posts/lennox-error-code-540/)
+- [Lennox Harmony III Zoning System Error Codes — Complete Guide](/posts/lennox-harmony-iii-error-codes/)
+- [Lennox Error Code 231 — Causes & Fix](/posts/lennox-error-code-231/)
+- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)

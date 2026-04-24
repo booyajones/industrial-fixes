@@ -1,0 +1,124 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import { getPath } from "@/utils/getPath";
+import { SITE } from "@/config";
+
+const BRAND_DISPLAY: Record<string, string> = {
+  "carrier": "Carrier",
+  "goodman": "Goodman",
+  "lennox": "Lennox",
+  "trane": "Trane",
+  "rheem": "Rheem",
+  "york": "York",
+  "daikin": "Daikin",
+  "mitsubishi": "Mitsubishi",
+  "fujitsu": "Fujitsu",
+  "hoshizaki": "Hoshizaki",
+  "manitowoc": "Manitowoc",
+  "fanuc": "Fanuc",
+  "haas": "Haas",
+  "yaskawa": "Yaskawa",
+  "abb": "ABB",
+  "siemens": "Siemens",
+  "allen-bradley": "Allen-Bradley",
+  "danfoss": "Danfoss",
+};
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection("blog");
+
+  const brands = [
+    "carrier", "goodman", "lennox", "trane", "rheem", "york",
+    "daikin", "mitsubishi", "fujitsu", "hoshizaki", "manitowoc",
+    "fanuc", "haas", "yaskawa", "abb", "siemens", "allen-bradley", "danfoss"
+  ];
+
+  return brands.map(brand => {
+    const brandPosts = allPosts
+      .filter(post => !post.data.draft)
+      .filter(post => post.data.tags.some(t => t.toLowerCase() === brand))
+      .sort((a, b) => a.data.title.localeCompare(b.data.title));
+
+    return {
+      params: { brand },
+      props: { posts: brandPosts },
+    };
+  });
+}
+
+const { brand } = Astro.params;
+const { posts } = Astro.props;
+
+const brandName = BRAND_DISPLAY[brand] ?? brand;
+const pageTitle = `${brandName} Error Code Reference — All ${posts.length} Codes`;
+const pageDesc = `Complete ${brandName} error code cheat sheet. All ${posts.length} fault codes with plain-English explanations and direct links to fix guides.`;
+---
+
+<Layout title={`${pageTitle} | ${SITE.title}`} description={pageDesc}>
+  <Header />
+  <main id="main-content" class="app-layout pb-12">
+    <nav class="mt-6 mb-2 text-sm text-gray-500">
+      <a href="/" class="hover:text-accent">Home</a>
+      <span class="mx-1">/</span>
+      <a href="/brands/" class="hover:text-accent">By Brand</a>
+      <span class="mx-1">/</span>
+      <span class="font-medium text-foreground">{brandName}</span>
+    </nav>
+
+    <h1 class="text-3xl font-bold mt-4 mb-2">{pageTitle}</h1>
+    <p class="text-gray-600 dark:text-gray-400 mb-8">{pageDesc}</p>
+
+    {posts.length === 0 ? (
+      <p class="italic text-gray-500">No error code guides found for {brandName} yet.</p>
+    ) : (
+      <div class="overflow-x-auto rounded-lg border border-border">
+        <table class="w-full text-sm">
+          <thead>
+            <tr class="bg-accent/10 text-left">
+              <th class="px-4 py-3 font-semibold w-1/4">Error Code</th>
+              <th class="px-4 py-3 font-semibold">What It Means</th>
+              <th class="px-4 py-3 font-semibold w-24 text-center">Guide</th>
+            </tr>
+          </thead>
+          <tbody>
+            {posts.map((post, i) => {
+              const href = getPath(post.id, post.filePath) + "/";
+              const titleParts = post.data.title.split(/\s[—\-]\s/);
+              const codeLabel = titleParts[0]?.trim() ?? post.data.title;
+              const what = titleParts.slice(1).join(" — ").trim() || post.data.description;
+              return (
+                <tr class:list={["border-t border-border", i % 2 === 0 ? "bg-background" : "bg-accent/5"]}>
+                  <td class="px-4 py-3 font-mono text-accent font-semibold align-top">
+                    <a href={href} class="hover:underline">{codeLabel}</a>
+                  </td>
+                  <td class="px-4 py-3 text-gray-700 dark:text-gray-300 align-top">{what}</td>
+                  <td class="px-4 py-3 text-center align-top">
+                    <a
+                      href={href}
+                      class="inline-block rounded bg-accent px-3 py-1 text-xs font-semibold text-white hover:opacity-90 transition-opacity"
+                    >
+                      Fix →
+                    </a>
+                  </td>
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
+      </div>
+    )}
+
+    <div class="mt-10 text-center">
+      <a
+        href={`/tags/${brand}/`}
+        class="inline-block rounded-lg border border-accent px-6 py-3 font-semibold text-accent hover:bg-accent hover:text-white transition-colors"
+      >
+        View all {brandName} guides →
+      </a>
+    </div>
+  </main>
+  <Footer />
+</Layout>

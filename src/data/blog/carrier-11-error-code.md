@@ -42,3 +42,10 @@ Carrier fault code 11 indicates no ignition — the furnace attempted a trial fo
 ## When to Call a Pro
 
 If gas supply, igniter, and flame sensor all check out but the furnace still fails ignition, the issue may be a failed gas valve or a cracked heat exchanger affecting draft — both require a licensed HVAC technician to diagnose and repair safely.
+
+## See Also
+
+- [Carrier 52 Error Code — Causes & Fix](/posts/carrier-52-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
+- [Carrier 40MAQ / 40MVC Mini Split Error Codes — Causes & Fix](/posts/carrier-40maq-error-codes/)

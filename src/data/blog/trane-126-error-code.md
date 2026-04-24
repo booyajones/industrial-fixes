@@ -60,3 +60,10 @@ Code 126 is most commonly seen on Trane XR80, XR95, and S9V2 series furnaces. Th
 If replacing the igniter and cleaning the flame sensor doesn't resolve code 126 within two reset cycles, the furnace likely has a gas supply problem, a failed control board, or a venting/pressure issue that requires diagnostic equipment — specifically a manometer for gas pressure and a multimeter capable of microamp measurement for the flame signal. Gas valve replacement on a Trane furnace involves working with the gas supply line and requires a licensed technician in most states. If you smell gas at any point, stop work immediately, ventilate, and call your gas utility.
 
 > **Pro tip:** When ordering a replacement igniter for a Trane furnace, always use the Trane OEM part number if possible. Universal igniters rated at the wrong resistance can glow at a lower temperature than the Trane control board expects — the board's timing sequence may cut off power to the igniter before it reaches full ignition temperature, causing code 126 to return even with a brand-new igniter installed.
+
+## See Also
+
+- [Trane CenTraVac Chiller Fault Codes — Common Faults Guide](/posts/trane-centravac-fault-codes/)
+- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
+- [Trane XR15 Heat Pump Error Codes — Complete Guide](/posts/trane-xr15-error-codes/)
+- [Trane Heat Pump E2 Error Code — Outdoor Coil Sensor Fault](/posts/trane-heat-pump-error-code-e2/)

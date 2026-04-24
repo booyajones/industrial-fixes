@@ -76,3 +76,10 @@ Rheem's Classic and Classic Plus furnaces (models R801T, R96V, R97V, R92P, and t
 | Blower run capacitor | [Amazon](https://www.amazon.com/s?k=Blower+run+capacitor&tag=errorcodefixes-20) \| 5–10 µF / 370V |
 ## When to Call a Pro
 Code 5 (rollout or flame without call) and code 9 (reversed polarity) require technician attention. Rollout on a Rheem Classic can indicate a cracked primary heat exchanger — CO can enter the living space through a cracked HX.
+
+## See Also
+
+- [Rheem Water Heater Error Codes — Complete Guide](/posts/rheem-water-heater-error-codes/)
+- [Rheem Furnace 5 Flashes Error Code — Flame Sensor Fault Fix](/posts/rheem-furnace-5-flashes-flame-sensor/)
+- [Rheem Furnace 9 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-9-flashes/)
+- [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)

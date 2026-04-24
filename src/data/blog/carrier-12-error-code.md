@@ -43,3 +43,10 @@ Carrier fault code 12 indicates the blower motor is running after the normal pos
 ## When to Call a Pro
 
 If the high-limit switch resets but trips again within minutes, suspect a cracked heat exchanger — a serious safety issue requiring a licensed HVAC technician to inspect and replace before the furnace is returned to service.
+
+## See Also
+
+- [Carrier 24ACC Air Conditioner Error Codes — Fault Code Diagnostic Guide](/posts/carrier-24acc-error-codes/)
+- [Carrier 34 Error Code — Ignition Proving Failure Fix](/posts/carrier-34-error-code/)
+- [Carrier 32 Error Code — Causes & Fix](/posts/carrier-32-error-code/)
+- [Carrier 54 Error Code — Soft Lockout: Low Pressure Switch Open](/posts/carrier-54-error-code/)

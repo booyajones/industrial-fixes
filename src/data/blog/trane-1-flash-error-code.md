@@ -44,3 +44,10 @@ On most Trane furnaces, a single LED flash (1 blink, pause, repeat) signals norm
 ## When to Call a Pro
 
 If the furnace locks out repeatedly after power cycling and you cannot identify a failed igniter, flame sensor, or gas supply problem, call a licensed HVAC technician. Persistent lockout may indicate a gas valve fault or combustion air issue that requires combustion analysis to diagnose safely.
+
+## See Also
+
+- [Trane Rooftop Unit Error Codes: Common Faults Guide](/posts/trane-rooftop-unit-error-codes/)
+- [Trane ComfortR ER Error Code — Causes & Fix](/posts/trane-comfort-r-error-codes-er/)
+- [Trane ComfortLink II Error Codes — Common Faults and Fixes](/posts/trane-comfortlink-ii-error-codes/)
+- [Trane 9 Flashes Error Code — Causes & Fix](/posts/trane-9-flashes-error-code/)

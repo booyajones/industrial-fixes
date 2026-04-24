@@ -42,3 +42,10 @@ Lennox **error code 114** indicates an **ignition failure lockout** — the furn
 ## When to Call a Pro
 
 If the igniter glows, gas is confirmed, and code 114 persists after cleaning the flame sensor, the gas valve's opening pressure or the pressure switch may require adjustment — tasks that require a licensed HVAC technician with gas certification.
+
+## See Also
+
+- [Lennox Error Code 411 — Ignition Proving Fault Fix](/posts/lennox-error-code-411/)
+- [Lennox Error Code 412 — Limit Switch Fault Fix](/posts/lennox-error-code-412/)
+- [Lennox Error Code 540 — Communicating System Fault (Detailed Guide)](/posts/lennox-error-code-540-communicating/)
+- [Lennox Mini Split Error Code E1 — Causes & Fix](/posts/lennox-mini-split-error-code-e1/)

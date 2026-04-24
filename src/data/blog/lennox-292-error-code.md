@@ -61,3 +61,10 @@ This code does not mean the furnace is permanently broken. It means the ignition
 If you've replaced the igniter and cleaned the flame sensor and the 292 code persists, the problem is likely the gas valve, gas pressure, or control board. Gas valve replacement involves working with live gas lines — this requires a licensed technician in most jurisdictions and should not be a DIY repair. Similarly, if you smell gas at any point during diagnosis, shut off the gas supply immediately and leave the building before calling your gas utility.
 
 > **Pro tip:** Before buying a new igniter, measure its resistance first. A cracked igniter can still read within spec on a multimeter but fail under operating temperature. If the igniter looks cracked even slightly, replace it — cracks propagate and the furnace will lock out again within weeks.
+
+## See Also
+
+- [Lennox Error Code 125 — Causes & Fix](/posts/lennox-error-code-125/)
+- [Lennox Error Code 411 — Ignition Proving Fault Fix](/posts/lennox-error-code-411/)
+- [Lennox Error Code 434 — Outdoor Unit Communication Fault](/posts/lennox-error-code-434/)
+- [Lennox Error Code 223 — Causes & Fix](/posts/lennox-error-code-223/)

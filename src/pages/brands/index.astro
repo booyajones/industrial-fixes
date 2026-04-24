@@ -1,0 +1,89 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import { SITE } from "@/config";
+
+const BRAND_LIST = [
+  { slug: "carrier", name: "Carrier", category: "HVAC" },
+  { slug: "goodman", name: "Goodman", category: "HVAC" },
+  { slug: "lennox", name: "Lennox", category: "HVAC" },
+  { slug: "trane", name: "Trane", category: "HVAC" },
+  { slug: "rheem", name: "Rheem", category: "HVAC" },
+  { slug: "york", name: "York", category: "HVAC" },
+  { slug: "daikin", name: "Daikin", category: "HVAC" },
+  { slug: "mitsubishi", name: "Mitsubishi", category: "HVAC" },
+  { slug: "fujitsu", name: "Fujitsu", category: "HVAC" },
+  { slug: "hoshizaki", name: "Hoshizaki", category: "Refrigeration" },
+  { slug: "manitowoc", name: "Manitowoc", category: "Refrigeration" },
+  { slug: "fanuc", name: "Fanuc", category: "CNC / Industrial" },
+  { slug: "haas", name: "Haas", category: "CNC / Industrial" },
+  { slug: "yaskawa", name: "Yaskawa", category: "Drives / VFD" },
+  { slug: "abb", name: "ABB", category: "Drives / VFD" },
+  { slug: "siemens", name: "Siemens", category: "Drives / Industrial" },
+  { slug: "allen-bradley", name: "Allen-Bradley", category: "Drives / Industrial" },
+  { slug: "danfoss", name: "Danfoss", category: "Drives / VFD" },
+];
+
+const allPosts = await getCollection("blog");
+
+const brandData = BRAND_LIST.map(({ slug, name, category }) => {
+  const count = allPosts.filter(
+    post => !post.data.draft && post.data.tags.some(t => t.toLowerCase() === slug)
+  ).length;
+  return { slug, name, category, count };
+});
+
+// Group by category
+const categories = [...new Set(BRAND_LIST.map(b => b.category))];
+
+const pageTitle = "Error Codes by Brand — All Manufacturers";
+const pageDesc = "Browse error code fix guides by manufacturer. Carrier, Goodman, Lennox, Trane, Fanuc, ABB, Siemens, and more — every fault code explained with step-by-step repair guides.";
+---
+
+<Layout title={`${pageTitle} | ${SITE.title}`} description={pageDesc}>
+  <Header />
+  <main id="main-content" class="app-layout pb-12">
+    <nav class="mt-6 mb-2 text-sm text-gray-500">
+      <a href="/" class="hover:text-accent">Home</a>
+      <span class="mx-1">/</span>
+      <span class="font-medium text-foreground">By Brand</span>
+    </nav>
+
+    <h1 class="text-3xl font-bold mt-4 mb-2">{pageTitle}</h1>
+    <p class="text-gray-600 dark:text-gray-400 mb-10">{pageDesc}</p>
+
+    {categories.map(cat => {
+      const catBrands = brandData.filter(b => b.category === cat);
+      return (
+        <section class="mb-10">
+          <h2 class="text-xl font-semibold mb-4 border-b border-border pb-2">{cat}</h2>
+          <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-4">
+            {catBrands.map(({ slug, name, count }) => (
+              <a
+                href={`/brands/${slug}/`}
+                class="group flex flex-col items-start rounded-lg border border-border p-4 hover:border-accent hover:bg-accent/5 transition-all"
+              >
+                <span class="text-base font-semibold group-hover:text-accent transition-colors">{name}</span>
+                <span class="mt-1 text-sm text-gray-500">
+                  {count} {count === 1 ? "guide" : "guides"}
+                </span>
+              </a>
+            ))}
+          </div>
+        </section>
+      );
+    })}
+
+    <div class="mt-8 rounded-lg border border-border bg-accent/5 p-6">
+      <p class="text-sm text-gray-600 dark:text-gray-400">
+        Looking for a different brand? Browse all equipment types in{" "}
+        <a href="/tags/" class="text-accent hover:underline font-medium">By Equipment</a>{" "}
+        or search directly using the{" "}
+        <a href="/search/" class="text-accent hover:underline font-medium">search tool</a>.
+      </p>
+    </div>
+  </main>
+  <Footer />
+</Layout>

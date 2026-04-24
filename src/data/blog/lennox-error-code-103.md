@@ -43,3 +43,10 @@ Lennox error code 103 indicates a pressure switch fault — the iComfort or Sure
 ## When to Call a Pro
 
 If the draft motor is running at speed, vents are clear, and condensate drains freely, but code 103 persists, a tech should measure static pressure with a manometer to determine whether the switch rating matches actual system pressure.
+
+## See Also
+
+- [Lennox Error Code 414 — Gas Valve Circuit Fault Fix](/posts/lennox-error-code-414-gas-valve-circuit-fault/)
+- [Lennox Error Code 223 — Causes & Fix](/posts/lennox-error-code-223/)
+- [Lennox Harmony III Zoning System Error Codes — Complete Guide](/posts/lennox-harmony-iii-error-codes/)
+- [Lennox Error Code 414 Rollout — Causes & Fix](/posts/lennox-error-code-414-rollout/)

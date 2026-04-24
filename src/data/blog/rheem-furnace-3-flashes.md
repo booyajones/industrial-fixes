@@ -43,3 +43,10 @@ Three flashes on a Rheem furnace diagnostic LED signals a pressure switch fault 
 ## When to Call a Pro
 
 If the flue is clear, pressure switch and hose are intact, and the inducer motor runs at speed but the switch still won't close, have a licensed HVAC technician check for a failed heat exchanger or incorrect pressure switch calibration — both require specialized tools to diagnose safely.
+
+## See Also
+
+- [Rheem Furnace 8 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-8-flashes/)
+- [Rheem Furnace 5 Flashes Error Code — Flame Sensor Fault Fix](/posts/rheem-furnace-5-flashes-flame-sensor/)
+- [Rheem Furnace 9 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-9-flashes/)
+- [Rheem Water Heater Error Codes — Complete Guide](/posts/rheem-water-heater-error-codes/)

@@ -62,3 +62,9 @@ If the pressure switch, inducer motor, and condensate drain all check out and th
 
 > **Pro tip:** Before buying a new pressure switch, take off the hose and blow through the switch port — you should feel resistance and hear a click when vacuum is applied. If you can blow freely with no click, the diaphragm is already blown and the switch is trash. This 10-second test saves the round trip of installing a new switch only to find the real problem was the inducer.
 
+## See Also
+
+- [Goodman Furnace E3 Error Code — Draft Motor Fault](/posts/goodman-furnace-e3-error-code/)
+- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
+- [Goodman ComfortNet Communicating System Error Codes — Complete Guide](/posts/goodman-communicating-error-codes/)
+- [Amana / Goodman Furnace 3 Flash Error Code — Causes & Fix](/posts/goodman-amana-furnace-3-flash/)

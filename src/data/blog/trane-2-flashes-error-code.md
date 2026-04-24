@@ -42,3 +42,10 @@ Two flashes on a Trane furnace LED indicates a system lockout — the furnace tr
 ## When to Call a Pro
 
 If the igniter glows, gas is flowing, and the flame sensor is clean but lockout still happens, the problem is likely in the gas valve or control board — both require a tech with proper test equipment to diagnose safely.
+
+## See Also
+
+- [Trane XR15 Heat Pump Error Codes — Complete Guide](/posts/trane-xr15-error-codes/)
+- [Trane XV20i/XV18 Variable Speed Heat Pump Error Codes](/posts/trane-variable-speed-heat-pump-codes/)
+- [Trane 8 Flashes Error Code — Causes & Fix](/posts/trane-8-flashes-error-code/)
+- [Trane Furnace Error Codes — Complete Flash Code Guide](/posts/trane-furnace-error-codes/)

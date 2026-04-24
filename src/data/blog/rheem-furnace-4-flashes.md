@@ -54,3 +54,10 @@ If the fault recurs after airflow correction and limit replacement, have a licen
 ## When to Call a Technician
 
 If the 4-flash fault returns after correcting airflow and replacing the limit switch, have a licensed HVAC tech inspect the heat exchanger. A cracked exchanger is a CO risk and should not be operated.
+
+## See Also
+
+- [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)
+- [Rheem RGPS Furnace Error Codes — Flash Code Diagnostic Guide](/posts/rheem-rgps-error-codes/)
+- [Rheem Classic Series Furnace Error Codes — Complete Guide](/posts/rheem-classic-furnace-error-codes/)
+- [Rheem Furnace 8 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-8-flashes/)
