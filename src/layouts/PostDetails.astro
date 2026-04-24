@@ -10,6 +10,8 @@ import ShareLinks from "@/components/ShareLinks.astro";
 import BackButton from "@/components/BackButton.astro";
 import { SITE } from "@/config";
 import BackToTopButton from "@/components/BackToTopButton.astro";
+import QuickAnswer from "@/components/QuickAnswer.astro";
+import RelatedPosts from "@/components/RelatedPosts.astro";
 import { getPath } from "@/utils/getPath";
 import { slugifyStr } from "@/utils/slugify";
 import IconChevronLeft from "@/assets/icons/IconChevronLeft.svg";
@@ -108,31 +110,16 @@ const nextPost =
     >
       {title}
     </h1>
+    <div class="tech-verified-badge">
+      <span class="badge-icon">✓</span>
+      <span class="badge-text">Verified by Certified Industrial Technician</span>
+    </div>
     <div class="my-2 flex flex-wrap items-center gap-2">
       <Datetime {pubDatetime} {modDatetime} {timezone} size="lg" />
-      <span class="inline-flex items-center gap-1 rounded bg-green-100 px-2 py-0.5 text-xs font-medium text-green-800 dark:bg-green-900/30 dark:text-green-400">
-        <svg class="h-3 w-3" fill="currentColor" viewBox="0 0 20 20"><path fill-rule="evenodd" d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z" clip-rule="evenodd"/></svg>
-        Verified by Certified Technician
-      </span>
     </div>
 
-    <!-- Jump to Fix CTA -->
-    <div class="my-4 flex gap-3">
-      <a
-        href="#step-by-step-fix"
-        class="inline-flex items-center gap-2 rounded-md bg-accent px-4 py-2 text-sm font-bold text-white shadow hover:opacity-90 transition-opacity"
-      >
-        <svg class="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
-        Jump to Fix
-      </a>
-      <a
-        href="#parts-that-may-need-replacement"
-        class="inline-flex items-center gap-2 rounded-md border border-accent px-4 py-2 text-sm font-bold text-accent hover:bg-accent hover:text-white transition-colors"
-      >
-        <svg class="h-4 w-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z"/></svg>
-        View Parts
-      </a>
-    </div>
+    <!-- Quick Answer Box -->
+    <QuickAnswer {description} {title} />
 
     <article
       id="article"
@@ -150,6 +137,8 @@ const nextPost =
     </ul>
 
     <BackToTopButton />
+
+    <RelatedPosts currentSlug={post.id} {tags} />
 
     <ShareLinks />
 
@@ -189,6 +178,23 @@ const nextPost =
   </main>
   <Footer />
 </Layout>
+
+<style>
+  .tech-verified-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    background: #f0fdf4;
+    border: 1px solid #86efac;
+    border-radius: 999px;
+    padding: 0.25rem 0.75rem;
+    font-size: 0.8rem;
+    color: #166534;
+    margin-bottom: 1rem;
+  }
+  .badge-icon { font-weight: 700; }
+  .badge-text { font-weight: 500; }
+</style>
 
 <script is:inline data-astro-rerun>
   /** Create a progress indicator

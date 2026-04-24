@@ -1,4 +1,5 @@
 ---
+import "@pagefind/default-ui/css/ui.css";
 import { getCollection } from "astro:content";
 import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
@@ -75,6 +76,13 @@ const categories = [
       </div>
     </section>
 
+    <!-- Search Hero -->
+    <section id="search-hero" class="py-8 border-b border-border">
+      <h2 class="text-xl font-bold mb-1">Find Your Error Code Fix</h2>
+      <p class="text-sm text-foreground/60 mb-4">Step-by-step guides for HVAC, CNC, refrigeration, boilers, and more</p>
+      <div id="pagefind-home" transition:persist></div>
+    </section>
+
     <!-- Featured Posts -->
     {featuredPosts.length > 0 && (
       <section id="featured" class="pt-10 pb-6 border-b border-border">
@@ -119,3 +127,54 @@ const categories = [
     }
   });
 </script>
+
+<script>
+  function initHomeSearch() {
+    const el = document.querySelector("#pagefind-home");
+    if (!el) return;
+    // Already initialized
+    if (el.querySelector("form")) return;
+
+    const onIdle = window.requestIdleCallback || ((cb: TimerHandler) => setTimeout(cb, 1));
+    onIdle(async () => {
+      if (import.meta.env.DEV) {
+        el.innerHTML = `<p style="font-size:0.8rem;color:#888;">Search available after first build.</p>`;
+        return;
+      }
+      // @ts-expect-error — Missing types for @pagefind/default-ui package.
+      const { PagefindUI } = await import("@pagefind/default-ui");
+      new PagefindUI({
+        element: "#pagefind-home",
+        showImages: false,
+        showSubResults: false,
+      });
+    });
+  }
+
+  document.addEventListener("astro:after-swap", initHomeSearch);
+  initHomeSearch();
+</script>
+
+<style is:global>
+  #pagefind-home {
+    --pagefind-ui-font: var(--font-app);
+    --pagefind-ui-text: var(--foreground);
+    --pagefind-ui-background: var(--background);
+    --pagefind-ui-border: var(--border);
+    --pagefind-ui-primary: var(--accent);
+    --pagefind-ui-tag: var(--background);
+    --pagefind-ui-border-radius: 0.375rem;
+    --pagefind-ui-border-width: 1px;
+    max-width: 600px;
+  }
+  #pagefind-home input {
+    font-weight: 400;
+    border: 1px solid var(--border);
+  }
+  #pagefind-home input:focus-visible {
+    outline: 1px solid var(--accent);
+  }
+  #pagefind-home .pagefind-ui__result-title a {
+    color: var(--accent);
+  }
+</style>
