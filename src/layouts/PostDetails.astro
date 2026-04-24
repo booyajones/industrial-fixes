@@ -4,10 +4,10 @@ import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
 import Tag from "@/components/Tag.astro";
-import Datetime from "@/components/Datetime.astro";
 import EditPost from "@/components/EditPost.astro";
 import ShareLinks from "@/components/ShareLinks.astro";
 import BackButton from "@/components/BackButton.astro";
+import ContractorCTA from "../components/ContractorCTA.astro";
 import { SITE } from "@/config";
 import BackToTopButton from "@/components/BackToTopButton.astro";
 import QuickAnswer from "@/components/QuickAnswer.astro";
@@ -33,7 +33,6 @@ const {
   canonicalURL,
   pubDatetime,
   modDatetime,
-  timezone,
   tags,
   hideEditPost,
 } = post.data;
@@ -124,6 +123,30 @@ const nextPost =
       }
     ]
   })} />
+
+  <!-- FAQ Schema for Google Rich Results -->
+  <script type="application/ld+json" is:inline set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": `What does ${title} mean?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": description
+        }
+      },
+      {
+        "@type": "Question",
+        "name": `How do I fix ${title.replace(/—.*$/, '').trim()}?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `Follow the step-by-step fix guide on this page. The most common causes and solutions for this error code are documented by certified industrial technicians. See the 'Step-by-Step Fix' section above for detailed instructions.`
+        }
+      }
+    ]
+  })} />
   <Header />
   <BackButton />
   <main
@@ -142,12 +165,18 @@ const nextPost =
         Copy
       </button>
     </div>
-    <div class="tech-verified-badge">
-      <span class="badge-icon">✓</span>
-      <span class="badge-text">Verified by Certified Industrial Technician</span>
-    </div>
-    <div class="my-2 flex flex-wrap items-center gap-2">
-      <Datetime {pubDatetime} {modDatetime} {timezone} size="lg" />
+    <div class="article-meta">
+      <span class="article-author">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+          <path d="M12 12c2.7 0 4.8-2.1 4.8-4.8S14.7 2.4 12 2.4 7.2 4.5 7.2 7.2 9.3 12 12 12zm0 2.4c-3.2 0-9.6 1.6-9.6 4.8v2.4h19.2v-2.4c0-3.2-6.4-4.8-9.6-4.8z"/>
+        </svg>
+        Verified by Certified Industrial Technician
+      </span>
+      <span class="article-date">
+        Updated: <time datetime={modDatetime ? modDatetime.toISOString() : pubDatetime.toISOString()}>
+          {(modDatetime || pubDatetime).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+        </time>
+      </span>
     </div>
 
     <!-- Quick Answer Box -->
@@ -171,6 +200,8 @@ const nextPost =
     <BackToTopButton />
 
     <RelatedPosts currentSlug={post.id} {tags} />
+
+    {tags && (tags.includes('hvac') || tags.includes('furnace') || tags.includes('heat-pump') || tags.includes('boiler') || tags.includes('mini-split') || tags.includes('vfd') || tags.includes('refrigeration') || tags.includes('commercial-refrigeration')) && <ContractorCTA equipment="HVAC" />}
 
     <EmailCapture brand={tags?.[0]} />
 
@@ -217,20 +248,23 @@ const nextPost =
 </Layout>
 
 <style>
-  .tech-verified-badge {
-    display: inline-flex;
+  .article-meta {
+    display: flex;
     align-items: center;
-    gap: 0.4rem;
-    background: #f0fdf4;
-    border: 1px solid #86efac;
-    border-radius: 999px;
-    padding: 0.25rem 0.75rem;
+    gap: 1.25rem;
+    flex-wrap: wrap;
     font-size: 0.8rem;
-    color: #166534;
+    color: #6b7280;
     margin-bottom: 1rem;
   }
-  .badge-icon { font-weight: 700; }
-  .badge-text { font-weight: 500; }
+  .article-author {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    color: #166534;
+    font-weight: 500;
+  }
+  .article-date { color: #6b7280; }
 
   /* Title + copy button */
   .title-copy-wrapper {
