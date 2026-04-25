@@ -1,7 +1,7 @@
 ---
 title: "Siemens VFD F0002 Fault - Overvoltage: What It Means and How to Fix It"
 description: "Siemens VFD fault F0002 means the DC bus voltage in the drive exceeded its safe limit — this overvoltage fault is one of the most common Siemens drive faults and is usually caused by regenerative energy from the motor or incoming line voltage spikes."
-pubDate: 2026-04-25
+pubDatetime: 2026-04-25T00:00:00Z
 heroImage: /images/hvac-error-codes.jpg
 category: hvac
 tags: [vfd, error-codes, siemens, variable-frequency-drive, industrial]

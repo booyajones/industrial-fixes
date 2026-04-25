@@ -1,7 +1,7 @@
 ---
 title: "American Standard AccuLink Error Codes - What They Mean and How to Fix Them"
 description: "American Standard AccuLink communicating systems display fault codes on the thermostat when something goes wrong — this guide covers the most common codes, what each one means, and how to fix them."
-pubDate: 2026-04-25
+pubDatetime: 2026-04-25T00:00:00Z
 heroImage: /images/hvac-error-codes.jpg
 category: hvac
 tags: [hvac, error-codes, american-standard, acculink]

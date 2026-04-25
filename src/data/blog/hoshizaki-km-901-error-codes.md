@@ -1,7 +1,7 @@
 ---
 title: "Hoshizaki KM-901 Error Codes - What They Mean and How to Fix Them"
 description: "The Hoshizaki KM-901 ice machine displays fault codes E1 through E8 when it detects a problem — this guide explains each code, how to diagnose the cause, and what parts to order."
-pubDate: 2026-04-25
+pubDatetime: 2026-04-25T00:00:00Z
 heroImage: /images/hvac-error-codes.jpg
 category: hvac
 tags: [hvac, error-codes, hoshizaki, ice-machine, commercial-refrigeration]

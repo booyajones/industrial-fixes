@@ -1,7 +1,7 @@
 ---
 title: "True T-49 Refrigerator Error Codes - What They Mean and How to Fix Them"
 description: "True T-49 refrigerator error codes E1 through E6 indicate sensor and refrigeration system faults — this guide covers every code, what it means, and the exact steps to diagnose and fix each one."
-pubDate: 2026-04-25
+pubDatetime: 2026-04-25T00:00:00Z
 heroImage: /images/hvac-error-codes.jpg
 category: hvac
 tags: [hvac, error-codes, true-refrigeration, commercial-refrigerator]

@@ -1,7 +1,7 @@
 ---
 title: "Trane ComfortLink II Communicating Thermostat Fault Codes - What They Mean and How to Fix Them"
 description: "Trane ComfortLink II fault codes tell you exactly what's wrong with your communicating HVAC system — this guide covers the most common communication faults, their causes, and step-by-step fixes."
-pubDate: 2026-04-25
+pubDatetime: 2026-04-25T00:00:00Z
 heroImage: /images/hvac-error-codes.jpg
 category: hvac
 tags: [hvac, error-codes, trane, comfortlink]
