@@ -61,3 +61,11 @@ The I120CN is a condensing unit. The condensate neutralizer requires annual repl
 | Flow sensor | [Amazon](https://www.amazon.com/s?k=Flow+sensor&tag=errorcodefixes-20) \| Turbine type ΓÇö clean before replacing |
 | Heat exchanger | [Amazon](https://www.amazon.com/s?k=Heat+exchanger&tag=errorcodefixes-20) \| Expensive ΓÇö descale first |
 > **Pro tip:** The Rinnai I120CN supports up to 24 units in a cascading system. When diagnosing a cascade, check the system controller for which unit triggered the fault ΓÇö not all units display active codes simultaneously.
+
+## Related Articles
+
+- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)
+- [Rinnai Error Code 11 No Ignition — Causes & Fix](/posts/rinnai-error-code-11-ignition/)
+- [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
+- [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
+- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)

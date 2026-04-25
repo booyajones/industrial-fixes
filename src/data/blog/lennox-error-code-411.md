@@ -53,3 +53,11 @@ Gas pressure adjustment and gas valve replacement require a licensed technician 
 ## When to Call a Technician
 
 Flame sensor cleaning and igniter replacement are appropriate for a confident DIYer. Gas pressure adjustment and gas valve replacement require a licensed HVAC technician and should not be attempted without proper test equipment.
+
+## Related Articles
+
+- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
+- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
+- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
+- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
+- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)

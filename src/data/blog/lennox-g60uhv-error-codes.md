@@ -67,3 +67,11 @@ The Lennox G60UHV is a variable-speed, 80% AFUE gas furnace that uses an ECM blo
 ## When to Call a Pro
 
 The G60UHV's ECM motor requires specialized diagnosis. Lennox sells a motor tester tool (L0409MOTORTOOL) used by authorized dealers to identify whether the fault is in the motor, module, or control board. If you're seeing Code 11 or 13 without an obvious cause, an authorized Lennox dealer can connect diagnostic tools for a definitive diagnosis.
+
+## Related Articles
+
+- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
+- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
+- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
+- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
+- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)

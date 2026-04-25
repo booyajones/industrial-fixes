@@ -43,3 +43,11 @@ Alarm 700 on a Fanuc CNC (FS0i, FS16i, FS18i, FS21i, FS30i series) is a spindle 
 ## When to Call a Pro
 
 Spindle bearing replacement requires precision preload setting and alignment and should be performed by a qualified machine tool technician or Fanuc-authorized service engineer. Improper bearing installation causes rapid bearing failure and spindle damage.
+
+## Related Articles
+
+- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
+- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
+- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
+- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)

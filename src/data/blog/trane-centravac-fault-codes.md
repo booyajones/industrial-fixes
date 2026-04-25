@@ -58,3 +58,11 @@ The Trane CenTraVac (CVHE, CVHF, CVHG series) is a water-cooled centrifugal chil
 ## When to Call a Pro
 
 CenTraVac chillers are high-value, complex machines — a single diagnostic mistake can cause compressor damage worth hundreds of thousands of dollars. All refrigerant work (including non-condensable purging), oil analysis, and shaft seal service must be performed by Trane-certified technicians using the Tracer CH530 service software. Never attempt to add refrigerant to a CenTraVac without a full leak test and Trane engineering authorization.
+
+## Related Articles
+
+- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
+- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
+- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
+- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
+- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)

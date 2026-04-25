@@ -43,3 +43,11 @@ Rinnai error code 61 indicates a **combustion fan (inducer) fault** — the unit
 ## When to Call a Pro
 
 Combustion fan replacement on Rinnai units requires working near the gas valve and burner assembly. If you're not comfortable with gas appliance service, have a Rinnai-certified technician handle the repair. Always verify gas is off before opening the combustion chamber.
+
+## Related Articles
+
+- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)
+- [Rinnai Error Code 11 No Ignition — Causes & Fix](/posts/rinnai-error-code-11-ignition/)
+- [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
+- [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
+- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)

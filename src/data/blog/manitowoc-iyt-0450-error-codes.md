@@ -65,3 +65,11 @@ The Manitowoc IYT-0450 is a top-air-discharge (T-series) cube ice machine produc
 ## When to Call a Pro
 
 The Manitowoc Indigo NXT platform has cloud diagnostics available through Manitowoc's Remote Monitoring system — a certified Manitowoc service agent can view fault history remotely before arriving on site. Refrigerant service and hot gas valve replacement require EPA 608 certification.
+
+## Related Articles
+
+- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
+- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
+- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
+- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
+- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)

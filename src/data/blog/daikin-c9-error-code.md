@@ -81,3 +81,11 @@ After replacing the sensor:
 4. Verify by running a cooling cycle and monitoring discharge temperature in the service monitor
 
 > **Pro tip:** When ordering a Daikin discharge sensor, always confirm the model number from the outdoor unit nameplate. Sensor resistance curves vary between Daikin model families.
+
+## Related Articles
+
+- [Daikin A3 Error Code — Causes & Fix](/posts/daikin-a3-error-code/)
+- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
+- [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
+- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)
+- [Daikin E3 Error Code — Causes & Fix](/posts/daikin-e3-error-code/)

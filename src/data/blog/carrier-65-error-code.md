@@ -54,3 +54,11 @@ On variable-speed or two-stage inducer motors, the IFC board monitors motor RPM 
 
 ## When to Call a Pro
 Inducer motor replacement involves working inside the furnace cabinet and handling gas-adjacent components. If you are not comfortable with this work, call a licensed HVAC technician. The repair is typically 1–2 hours of labor plus the part cost.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

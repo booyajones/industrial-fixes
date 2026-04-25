@@ -67,3 +67,11 @@ If replacing the igniter and cleaning the flame sensor doesn't resolve code 126 
 - [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
 - [Trane XR15 Heat Pump Error Codes — Complete Guide](/posts/trane-xr15-error-codes/)
 - [Trane Heat Pump E2 Error Code — Outdoor Coil Sensor Fault](/posts/trane-heat-pump-error-code-e2/)
+
+## Related Articles
+
+- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
+- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
+- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
+- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
+- [Trane 4 Flashes Error Code — Open High Limit Fix](/posts/trane-4-flashes-error-code/)

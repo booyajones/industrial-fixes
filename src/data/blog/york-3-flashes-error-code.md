@@ -43,3 +43,11 @@ Three flashes on a York furnace LED indicates a pressure switch fault. The contr
 ## When to Call a Pro
 
 If the draft motor runs at full speed, vents are clear, and the hose is intact, but the switch won't close, a tech should verify the actual pressure with a manometer. Using a wrong-rated replacement switch causes the same fault.
+
+## Related Articles
+
+- [York 2 Flashes Error Code — Causes & Fix](/posts/york-2-flashes-error-code/)
+- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
+- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
+- [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
+- [York 7 Flashes Error Code — Ignition Lockout Fix](/posts/york-7-flashes-error-code/)

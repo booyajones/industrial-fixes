@@ -57,3 +57,11 @@ description: "Carrier error code 31 means the pressure switch is stuck open or f
 If you've cleared the hose, dried the switch, confirmed the inducer runs strongly, and the switch still won't close — you need a tech with a manometer to measure actual draft. A furnace that produces too little draft for its pressure switch rating usually means either the inducer is failing internally (impeller wear) or there's a major flue restriction. Both require hands-on diagnosis. Tell your tech: "Code 31, pressure switch won't close. I've already cleared the hose and the switch tests good at rest. I need you to measure draft on the inducer."
 
 > **Pro tip:** On 90%+ efficiency Carrier furnaces, always check the condensate drain trap for blockage before replacing the pressure switch. A blocked trap creates a positive pressure inside the inducer housing that can hold the pressure switch open even when everything else is working perfectly. It's a 5-minute fix that saves a $40 part.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

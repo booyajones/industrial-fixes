@@ -42,3 +42,11 @@ Rinnai error code 14 indicates the thermal fuse (or flue thermal fuse) has opene
 ## When to Call a Pro
 
 If the thermal fuse opens again within a short period after replacement, the combustion system or venting has a fundamental problem. Combustion analysis, heat exchanger inspection, and vent design review require a licensed plumber or HVAC technician.
+
+## Related Articles
+
+- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)
+- [Rinnai Error Code 11 No Ignition — Causes & Fix](/posts/rinnai-error-code-11-ignition/)
+- [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
+- [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
+- [Rinnai Error Code 16 — Causes & Fix](/posts/rinnai-error-code-16/)

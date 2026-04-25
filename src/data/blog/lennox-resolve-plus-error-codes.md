@@ -56,3 +56,11 @@ On R-410A units, high-side pressure above 590 psi trips the HP switch. Wash the 
 | Limit switch | [Amazon](https://www.amazon.com/s?k=Limit+switch&tag=errorcodefixes-20) \| Match temperature rating |
 | ECM blower motor | [Amazon](https://www.amazon.com/s?k=ECM+blower+motor&tag=errorcodefixes-20) \| Check motor module and control board |
 > **Pro tip:** Lennox ResolvePlus fault history is accessible via the field diagnostic tool or iComfort interface. Always retrieve fault history before clearing codes to identify intermittent problems.
+
+## Related Articles
+
+- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
+- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
+- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
+- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
+- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)

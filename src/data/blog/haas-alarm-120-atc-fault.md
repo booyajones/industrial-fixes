@@ -43,3 +43,11 @@ Haas **Alarm 120** is an **Automatic Tool Changer (ATC) fault** — the tool cha
 ## When to Call a Pro
 
 If the ATC arm is mid-stroke and manual recovery fails to advance it to a safe position, do not force the mechanism. Call Haas Factory Outlet (HFO) service — a forced recovery attempt can bend the arm or damage the carousel, turning a $500 sensor fix into a $10,000 mechanical repair.
+
+## Related Articles
+
+- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
+- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
+- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
+- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
+- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)

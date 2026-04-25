@@ -43,3 +43,11 @@ A Goodman furnace flashing **5 blinks** on the LED status light means **flame se
 ## When to Call a Pro
 
 A stuck-open gas valve is a gas leak and safety emergency. If you smell gas or detect it with a sensor after the furnace shuts off, turn off the gas supply at the meter, ventilate the space, and call a licensed HVAC technician or your gas utility immediately.
+
+## Related Articles
+
+- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
+- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)
+- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
+- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
+- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)

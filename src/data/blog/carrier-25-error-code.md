@@ -42,3 +42,11 @@ Carrier fault code 25 indicates a flame sense fault — the control board detect
 ## When to Call a Pro
 
 A leaking gas valve requires replacement by a licensed technician — this involves breaking into the gas line. If you're not certified to handle gas work, stop at the diagnosis step and call a pro.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

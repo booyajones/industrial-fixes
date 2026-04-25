@@ -67,3 +67,11 @@ The Siemens SINAMICS G120C is a compact variable frequency drive in the G120 pro
 ## When to Call a Pro
 
 Siemens G120C drives can be remotely diagnosed via PROFINET using Siemens STARTER or TIA Portal. If the drive is integrated into a PROFINET network, a Siemens-trained automation technician can view the full fault buffer, drive telemetry, and parameter settings without being physically at the drive. For F00030 (hardware fault), contact Siemens technical support or a Siemens Service Partner.
+
+## Related Articles
+
+- [Siemens Sinumerik 828D Alarm Codes Guide — Complete Diagnostic Reference](/posts/siemens-828d-alarm-codes/)
+- [Siemens 840D Alarm 380000 — Causes & Fix](/posts/siemens-840d-alarm-380000/)
+- [Siemens Circuit Breaker Fault Codes - Complete Guide](/posts/siemens-circuit-breaker-fault-codes/)
+- [Siemens Desigo BMS Fault Codes - Complete Guide](/posts/siemens-desigo-fault-codes/)
+- [Siemens Cerberus/MXL Fire Alarm Fault Codes — Troubleshooting Guide](/posts/siemens-fire-alarm-fault-codes/)

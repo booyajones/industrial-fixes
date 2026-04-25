@@ -62,3 +62,11 @@ The evaporator approach temperature has reached the freeze protection threshold.
 
 ## When to Call a Pro
 Daikin Applied service providers handle refrigerant work, compressor replacement, and control system configuration. Contact Daikin Applied service at 1-877-554-4834.
+
+## Related Articles
+
+- [Daikin A3 Error Code — Causes & Fix](/posts/daikin-a3-error-code/)
+- [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
+- [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)
+- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)
+- [Daikin E3 Error Code — Causes & Fix](/posts/daikin-e3-error-code/)

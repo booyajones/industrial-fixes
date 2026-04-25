@@ -42,3 +42,11 @@ Haas Alarm 114 is a **spindle over speed** fault — the spindle exceeded its ma
 ## When to Call a Pro
 
 If the spindle is genuinely overspeeding (audible runaway), E-stop the machine immediately. A runaway spindle is a safety hazard — toolholder retention relies on centrifugal force limits. Have a Haas HFO technician diagnose the spindle drive control loop before restarting.
+
+## Related Articles
+
+- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
+- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
+- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
+- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
+- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)

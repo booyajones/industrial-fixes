@@ -51,3 +51,11 @@ If the limit switch has failed, replace it. York furnaces use multiple limit swi
 ## When to Call a Technician
 
 If the 4-flash fault persists after filter replacement and airflow correction, have a licensed HVAC technician inspect the heat exchanger for cracks before continued operation.
+
+## Related Articles
+
+- [York 2 Flashes Error Code — Causes & Fix](/posts/york-2-flashes-error-code/)
+- [York 3 Flashes Error Code — Causes & Fix](/posts/york-3-flashes-error-code/)
+- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
+- [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
+- [York 7 Flashes Error Code — Ignition Lockout Fix](/posts/york-7-flashes-error-code/)

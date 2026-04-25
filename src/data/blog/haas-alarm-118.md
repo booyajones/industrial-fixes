@@ -45,3 +45,11 @@ Alarm 118 (SPINDLE ORIENTATION FAULT) on a Haas CNC machining center means the s
 ## When to Call a Pro
 
 Spindle bearing replacement and spindle drive parameter tuning should be performed by a Haas Factory Outlet (HFO) technician. Incorrect bearing preload or drive parameters can damage the spindle in production.
+
+## Related Articles
+
+- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
+- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
+- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
+- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
+- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)

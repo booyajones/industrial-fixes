@@ -61,3 +61,11 @@ The EC-400 uses a central lubrication system (Rexnord or equivalent). Check the 
 | Retention knobs | [Amazon](https://www.amazon.com/s?k=Retention+knobs&tag=errorcodefixes-20) \| Replace damaged/worn 40-taper knobs |
 | Way wipers | [Amazon](https://www.amazon.com/s?k=Way+wipers&tag=errorcodefixes-20) \| Inspect and replace if worn |
 > **Pro tip:** Haas EC-400 service information is available on the Haas Service Portal (haasspeed.com). The NGC diagnostic screens show real-time servo loads, spindle RPM, and I/O status ΓÇö use these during troubleshooting to observe behavior without disassembly.
+
+## Related Articles
+
+- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
+- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
+- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
+- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
+- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)

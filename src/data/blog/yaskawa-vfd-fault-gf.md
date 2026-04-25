@@ -42,3 +42,11 @@ Yaskawa fault GF means ground fault — the drive detected that output current i
 ## When to Call a Pro
 
 Megohm meter testing and motor insulation analysis requires proper equipment and safety procedures. If the motor tests marginal (500 kΩ to 1 MΩ), a motor shop can do a more thorough surge test and rewinding assessment.
+
+## Related Articles
+
+- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)
+- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
+- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)
+- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
+- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)

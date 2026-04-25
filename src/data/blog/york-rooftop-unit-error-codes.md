@@ -90,3 +90,11 @@ Dirty filter is the number-one cause. Check:
 | Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| High or low side — match setting |
 | IFC board | [Amazon](https://www.amazon.com/s?k=IFC+board&tag=errorcodefixes-20) \| York part number varies by model year |
 > **Note:** York, Luxaire, and Coleman commercial RTUs share the same IFC control boards and fault codes. Parts are fully interchangeable across brands.
+
+## Related Articles
+
+- [York 2 Flashes Error Code — Causes & Fix](/posts/york-2-flashes-error-code/)
+- [York 3 Flashes Error Code — Causes & Fix](/posts/york-3-flashes-error-code/)
+- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
+- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
+- [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)

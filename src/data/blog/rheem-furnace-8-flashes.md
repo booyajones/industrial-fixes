@@ -43,3 +43,11 @@ Eight flashes on a Rheem furnace status LED indicates an **ignition lockout** �
 ## When to Call a Pro
 
 If you've cleaned the sensor and replaced the ignitor but the furnace still locks out, have a technician check gas valve operation with a manometer and verify the control board is sending proper ignitor power voltage (typically 120V AC). Continued lockouts with a known-good sensor can indicate a cracked heat exchanger affecting combustion air — a CO risk.
+
+## Related Articles
+
+- [Rheem Classic Series Furnace Error Codes — Complete Guide](/posts/rheem-classic-furnace-error-codes/)
+- [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)
+- [Rheem Furnace 2 Flashes — Pressure Switch Fault](/posts/rheem-furnace-2-flashes/)
+- [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)
+- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)

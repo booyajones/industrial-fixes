@@ -161,3 +161,9 @@ If there's no error code, the sensors are reading in-range temperatures — whic
 **Q: The MT27 goes into defrost every 2 hours and it's affecting my product temperature. Is this normal?**
 
 A defrost cycle every 2 hours is a common factory setting but may be too frequent for your environment. On the Dixell XR06CX, defrost interval is parameter **dI** (defrost interval). Access the parameter menu (SET + DOWN arrow, password 22) and adjust **dI** to a longer interval — 4–6 hours is typical for most commercial refrigerators. A more frequent defrost is sometimes needed in high-humidity environments but causes unnecessary temperature swings otherwise.
+
+## Related Articles
+
+- [Beverage-Air Error Code E4, Causes, and Fixes](/posts/beverage-air-e4-error-code/)
+- [Beverage-Air Refrigerator Error Code E1 — Causes & Fix](/posts/beverage-air-refrigerator-error-code-e1/)
+- [Beverage-Air Refrigerator Error Code E2 — Evaporator Sensor Causes & Fix](/posts/beverage-air-refrigerator-error-code-e2/)

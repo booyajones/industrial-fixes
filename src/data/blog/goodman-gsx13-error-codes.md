@@ -61,3 +61,11 @@ The Goodman GSX13 is a 13 SEER single-stage residential central air conditioner 
 ## When to Call a Pro
 
 Refrigerant work requires EPA 608 certification. If the GSX13 compressor is buzzing but not starting after capacitor replacement, the compressor may need a hard-start kit (potential relay + start capacitor) or may be mechanically seized. A technician with manifold gauges and a clamp meter is needed to distinguish between a slugged compressor and a failed one.
+
+## Related Articles
+
+- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
+- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)
+- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
+- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
+- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)

@@ -41,3 +41,11 @@ Trane heat pump error code **E2** typically indicates an **outdoor coil temperat
 | Wire repair kit | [Amazon](https://www.amazon.com/s?k=Wire+repair+kit&tag=errorcodefixes-20) \| Solder and heat shrink, or weatherproof butt connectors |
 ## When to Call a Pro
 If E2 persists after thermistor and connector work, have a technician verify the outdoor PCB's sensor input. On Trane ComfortLink II communicating systems, E2 as a communication fault requires checking the communication bus and may indicate a failing outdoor unit board.
+
+## Related Articles
+
+- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
+- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
+- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
+- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
+- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)

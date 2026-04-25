@@ -56,3 +56,10 @@ Look for loose pockets, worn Geneva drive parts, broken dogs, or an overloaded p
 ## When to Call a Pro
 If Alarm 128 returns after sensor cleaning and recovery, check tool changer timing and drawbar force with Haas procedures. A mistimed changer can crash the spindle or damage the arm.
 
+## Related Articles
+
+- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
+- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
+- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
+- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
+- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)

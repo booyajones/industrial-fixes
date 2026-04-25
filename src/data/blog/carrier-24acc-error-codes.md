@@ -61,3 +61,11 @@ The Carrier 24ACC is a Comfort series central air conditioner (condensing unit o
 ## When to Call a Pro
 
 Refrigerant handling requires EPA 608 certification. Any Code 3 investigation that goes beyond switch testing requires manifold gauges and refrigerant recovery equipment. If the compressor is failing to start (buzzing but not running), compressor replacement on a 24ACC is a major repair — get a cost estimate vs. full system replacement.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

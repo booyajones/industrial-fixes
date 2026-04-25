@@ -59,3 +59,11 @@ The Carrier Infinity XC21 is a variable-capacity heat pump that communicates wit
 ## When to Call a Pro
 
 Refrigerant diagnosis and handling on the XC21 requires EPA 608 certification. The variable-capacity compressor inverter also requires specialized knowledge — do not attempt to measure inverter output with a standard multimeter. An Infinity-trained Carrier technician can connect to the system via the thermostat diagnostics to see real-time compressor speed, pressures, and temperatures without opening the refrigerant circuit.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

@@ -42,3 +42,11 @@ Five flashes on a York furnace LED means a flame sense fault — the furnace ign
 ## When to Call a Pro
 
 If the sensor is clean and correctly positioned but the fault persists, gas valve or combustion diagnosis requires a licensed tech. Adjusting gas pressure requires a manometer and gas certification.
+
+## Related Articles
+
+- [York 2 Flashes Error Code — Causes & Fix](/posts/york-2-flashes-error-code/)
+- [York 3 Flashes Error Code — Causes & Fix](/posts/york-3-flashes-error-code/)
+- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
+- [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
+- [York 7 Flashes Error Code — Ignition Lockout Fix](/posts/york-7-flashes-error-code/)

@@ -42,3 +42,11 @@ The Manitowoc Indigo series displays **E01** when the ice-making (freeze) cycle 
 ## When to Call a Pro
 
 E01 almost always requires refrigerant system diagnosis with manifold gauges. Refrigerant work requires EPA Section 608 certification. Don't attempt to add refrigerant without finding and fixing the leak first.
+
+## Related Articles
+
+- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
+- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
+- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
+- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
+- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)

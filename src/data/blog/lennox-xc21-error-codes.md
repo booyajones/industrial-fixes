@@ -59,3 +59,11 @@ The Lennox XC21 is a variable-capacity inverter heat pump that communicates with
 ## When to Call a Pro
 
 The XC21's inverter-driven compressor requires specialized diagnostic tools — the iComfort communicating system gives real-time compressor speed, operating pressures, and temperature data that a Lennox dealer can read remotely via the iComfort Connect portal. All refrigerant work requires EPA 608 certification. If the inverter drive board inside the outdoor unit is suspect, replacement involves high-voltage components and should only be handled by a trained technician.
+
+## Related Articles
+
+- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
+- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
+- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
+- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
+- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)

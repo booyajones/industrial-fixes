@@ -44,3 +44,11 @@ Yaskawa BB stands for **Baseblock** — this is **not a hard fault**. Baseblock 
 ## When to Call a Pro
 
 If BB is being commanded by a safety system or E-stop circuit and you don't know why the safety device is activating, do not bypass it. Have a controls engineer investigate the safety circuit logic before overriding the baseblock command.
+
+## Related Articles
+
+- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)
+- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
+- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)
+- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
+- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)

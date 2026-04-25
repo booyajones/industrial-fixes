@@ -56,3 +56,11 @@ Low gas pressure requires a licensed gas plumber to inspect the supply system an
 ## When to Call a Technician
 
 If Code 11 persists after purging air, cleaning the igniter, and checking venting, a licensed plumber or gas technician should inspect the gas supply pressure and valve operation. Rinnai gas valve replacement must be performed by a licensed technician — the gas valve is interlocked with pressure switches and the PCB in ways that require proper testing equipment to verify after replacement.
+
+## Related Articles
+
+- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)
+- [Rinnai Error Code 11 No Ignition — Causes & Fix](/posts/rinnai-error-code-11-ignition/)
+- [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
+- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)
+- [Rinnai Error Code 16 — Causes & Fix](/posts/rinnai-error-code-16/)

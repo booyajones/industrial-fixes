@@ -43,3 +43,11 @@ Trane **error code 79** on the XV20i variable-speed heat pump means a **communic
 ## When to Call a Pro
 
 Trane ComfortLink II system diagnostics require the Trane proprietary service tool (TechView) to read detailed fault history and communication bus diagnostics. If component swapping doesn't resolve code 79, an authorized Trane dealer with TechView can isolate the exact failure point.
+
+## Related Articles
+
+- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
+- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
+- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
+- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
+- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)

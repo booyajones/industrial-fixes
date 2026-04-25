@@ -51,3 +51,11 @@ If wiring checks out, the fault is in a PCB. The indoor PCB is more commonly at 
 ## When to Call a Technician
 
 E1 on a multi-zone Mitsubishi system with multiple indoor units can be complex to isolate — a licensed HVAC tech with a Mitsubishi service analyzer (ME Remote or equivalent) can read fault history from each unit and isolate the failed board faster than visual inspection alone.
+
+## Related Articles
+
+- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
+- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
+- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
+- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
+- [Mitsubishi E3 Error Code — Indoor Fan Motor Fault Fix](/posts/mitsubishi-e3-error-code/)

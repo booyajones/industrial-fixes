@@ -45,3 +45,11 @@ Haas alarm **127** means the control expected the spindle tool clamp to release,
 | Drawbar rebuild kit | [Amazon](https://www.amazon.com/s?k=Drawbar+rebuild+kit&tag=errorcodefixes-20) \| Includes Belleville washers and seals |
 ## When to Call a Pro
 Drawbar rebuilds and spindle unclamp piston service should be handled by a machine tool tech. Improper reassembly can create dangerous tool retention problems.
+
+## Related Articles
+
+- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
+- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
+- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
+- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
+- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)

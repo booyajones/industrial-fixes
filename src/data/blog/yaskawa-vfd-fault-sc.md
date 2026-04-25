@@ -42,3 +42,11 @@ Yaskawa VFD fault SC (IGBT Short Circuit or Gate Drive Fault) indicates that the
 ## When to Call a Pro
 
 SC faults involving failed IGBTs inside the drive require capacitor discharge verification, high-voltage PPE, and component-level knowledge. IGBT module replacement on industrial drives is typically performed by a Yaskawa service technician or certified drive repair center.
+
+## Related Articles
+
+- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)
+- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
+- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)
+- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
+- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)

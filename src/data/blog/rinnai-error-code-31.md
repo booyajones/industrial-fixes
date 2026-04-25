@@ -42,3 +42,11 @@ Rinnai error code 31 indicates a burner sensor (combustion chamber sensor or hea
 ## When to Call a Pro
 
 If the sensor replacement clears the error but it returns after a few cycles, the heat exchanger may have significant scale buildup causing repeated overheat trips. A licensed technician can perform a full flush and combustion analysis to confirm the heat exchanger is functioning correctly.
+
+## Related Articles
+
+- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)
+- [Rinnai Error Code 11 No Ignition — Causes & Fix](/posts/rinnai-error-code-11-ignition/)
+- [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
+- [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
+- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)

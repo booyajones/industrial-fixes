@@ -41,3 +41,11 @@ Carrier heat pump error code **E6** indicates an **outdoor ambient temperature s
 | Contact cleaner | [Amazon](https://www.amazon.com/s?k=Contact+cleaner&tag=errorcodefixes-20) \| DeoxIT D5 for connector cleaning |
 ## When to Call a Pro
 If E6 persists after thermistor replacement, the outdoor PCB's sensor input circuit may be damaged. PCB replacement is within DIY scope for those comfortable with electronics, but verify you have the correct board part number before ordering.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

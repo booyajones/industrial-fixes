@@ -67,3 +67,11 @@ Verify the analog speed command (0–10V) from the CNC to the spindle drive is w
 
 ## When to Call a Pro
 Fanuc spindle amplifier replacement and encoder alignment require trained CNC service technicians. Contact your machine tool builder's service department or a Fanuc-certified dealer.
+
+## Related Articles
+
+- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
+- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
+- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
+- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)

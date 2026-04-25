@@ -73,3 +73,11 @@ Test the run capacitor (match µF rating). Check for debris binding the blower w
 ## When to Call a Pro
 
 Code 5 (flame without call) is a gas leak/valve failure — shut off the gas and do not attempt DIY repair. Code 4 that recurs after replacing the filter and confirming airflow may indicate a cracked heat exchanger, which requires professional inspection and is a carbon monoxide hazard.
+
+## Related Articles
+
+- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
+- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
+- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
+- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
+- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)

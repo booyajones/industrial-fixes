@@ -42,3 +42,11 @@ Yaskawa fault CF means control fault — the drive's internal CPU detected a sel
 ## When to Call a Pro
 
 A CF that persists after parameter reset and option card removal requires Yaskawa's diagnostics software (DriveWizard) to read internal fault logs and test control board functions. This is a service-level task.
+
+## Related Articles
+
+- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)
+- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
+- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)
+- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
+- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)

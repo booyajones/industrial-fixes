@@ -42,3 +42,11 @@ Carrier code 42 is an **inducer motor fault** — the control board fired the in
 ## When to Call a Pro
 
 If the flue is clear, the switch tests good, and the motor runs but the fault persists, the control board may have a failed tach input circuit. Board replacement requires verifying compatibility and should be done by a licensed technician on systems still under warranty.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

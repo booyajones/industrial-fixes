@@ -42,3 +42,11 @@ Error Code 9 on a Manitowoc ice machine indicates a refrigerant system fault —
 ## When to Call a Pro
 
 Refrigerant overcharge correction and high pressure cutout replacement on the sealed system requires EPA 608 certification. If cleaning and fan repair don't resolve Code 9, a certified tech should check refrigerant charge.
+
+## Related Articles
+
+- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
+- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
+- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
+- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
+- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)

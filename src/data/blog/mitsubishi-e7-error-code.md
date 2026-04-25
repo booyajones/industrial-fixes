@@ -88,3 +88,11 @@ After repairing:
 4. Monitor outdoor fan operation during the first 5 minutes of run
 
 > **Note:** On Mitsubishi multi-zone (MXZ) outdoor units, E7 may affect all indoor zones simultaneously since the outdoor unit shuts down completely. This helps distinguish E7 from single-zone indoor faults.
+
+## Related Articles
+
+- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
+- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
+- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
+- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
+- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)

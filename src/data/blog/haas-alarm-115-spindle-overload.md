@@ -42,3 +42,11 @@ Haas **Alarm 115** is a **Spindle Overload** — the spindle drive has detected 
 ## When to Call a Pro
 
 Spindle bearing replacement and spindle motor service require Haas Factory Outlet (HFO) trained technicians to perform thermal fit bearing installation and spindle runout verification. Incorrect bearing installation voids the spindle warranty and will cause premature failure.
+
+## Related Articles
+
+- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
+- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
+- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
+- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
+- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)

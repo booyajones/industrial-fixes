@@ -70,3 +70,11 @@ The drive lost communication with the EtherNet/IP network or I/O scanner. Check:
 | Contactor / line reactor | [Amazon](https://www.amazon.com/s?k=Contactor+%2F+line+reactor&tag=errorcodefixes-20) \| Add if experiencing nuisance undervoltage trips |
 ## When to Call a Pro
 F012 (hardware overcurrent) and any fault accompanied by a burning smell or visible damage to the drive's output stage require qualified drive service technicians. Replacing IGBTs and gate drivers inside a PowerFlex 700 or 755 requires specialized training and tools.
+
+## Related Articles
+
+- [Allen-Bradley MicroLogix 1400 Common Fault Codes](/posts/allen-bradley-micrologix-fault/)
+- [Allen-Bradley PowerFlex 40 Complete Fault Code Guide](/posts/allen-bradley-powerflex-40-complete-guide/)
+- [Allen Bradley PowerFlex 40 F2 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f2-fault/)
+- [Allen-Bradley PowerFlex 40 F3 Fault — Power Loss](/posts/allen-bradley-powerflex-40-f3/)
+- [Allen Bradley PowerFlex 40 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f7-fault/)

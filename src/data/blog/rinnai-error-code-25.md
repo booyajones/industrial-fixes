@@ -42,3 +42,11 @@ Rinnai error code 25 means the thermal fuse or overheat cutoff has activated. Ri
 ## When to Call a Pro
 
 A thermal fuse that blows again shortly after replacement means the root cause wasn't fully corrected. A Navien-certified tech (or Rinnai service tech) can do a combustion analysis and verify vent performance with proper instruments.
+
+## Related Articles
+
+- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)
+- [Rinnai Error Code 11 No Ignition — Causes & Fix](/posts/rinnai-error-code-11-ignition/)
+- [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
+- [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
+- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)

@@ -61,3 +61,11 @@ Common in hard water areas. The stainless HX accumulates scale, reducing heat tr
 | Fan assembly | [Amazon](https://www.amazon.com/s?k=Fan+assembly&tag=errorcodefixes-20) \| Match NFC model voltage |
 | Outlet temp sensor | [Amazon](https://www.amazon.com/s?k=Outlet+temp+sensor&tag=errorcodefixes-20) \| Match sensor resistance specification |
 > **Pro tip:** Navien NFC error codes E001ΓÇôE003 almost always have gas pressure as the root cause. Verify gas pressure at the unit with a manometer before checking ignition components ΓÇö it saves significant diagnostic time.
+
+## Related Articles
+
+- [Navien Error Code E001 — No Ignition Fix](/posts/navien-error-code-e001/)
+- [Navien E002 Error Code — Causes & Fix](/posts/navien-error-code-e002/)
+- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)
+- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
+- [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)

@@ -43,3 +43,11 @@ Fanuc **Alarm 424** is a **Servo Axis Following Error** — specifically, the po
 ## When to Call a Pro
 
 If alarm 424 persists after clearing mechanical binding and reseating all connectors, Fanuc drive diagnostics and servo tuning require parameter adjustment expertise and oscilloscope-level servo trace analysis. A Fanuc-certified service tech or your machine tool dealer's service department should perform this work.
+
+## Related Articles
+
+- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
+- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
+- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
+- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)

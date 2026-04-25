@@ -42,3 +42,11 @@ Navien error code E004 indicates false flame detection — the flame sensor dete
 ## When to Call a Pro
 
 A gas valve that leaks through (allowing gas or flame when closed) is a serious safety hazard. Gas valve replacement must be performed by a licensed plumber or HVAC technician. Do not attempt to operate the unit if you suspect a leaking gas valve.
+
+## Related Articles
+
+- [Navien Error Code E001 — No Ignition Fix](/posts/navien-error-code-e001/)
+- [Navien E002 Error Code — Causes & Fix](/posts/navien-error-code-e002/)
+- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)
+- [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)
+- [Navien Error Code E007 — Causes & Fix](/posts/navien-error-code-e007/)

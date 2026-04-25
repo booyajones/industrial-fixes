@@ -73,3 +73,11 @@ The Daikin RXYQ is a commercial VRV (Variable Refrigerant Volume) outdoor unit u
 ## When to Call a Pro
 
 Daikin VRV systems require Daikin-certified technicians for refrigerant work, inverter diagnosis, and address configuration. The RXYQ refrigerant addressing system (using rotary switches on each indoor unit PCB) is proprietary and misconfiguration causes system-wide faults. Contact a Daikin authorized service provider for L9, L5, or multi-unit U4 faults.
+
+## Related Articles
+
+- [Daikin A3 Error Code — Causes & Fix](/posts/daikin-a3-error-code/)
+- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
+- [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
+- [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)
+- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)

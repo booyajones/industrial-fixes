@@ -46,3 +46,11 @@ On newer Goodman furnaces equipped with an LED display panel (GMVC96, GMSS96, AM
 ## When to Call a Pro
 
 If you've cleared the drain, confirmed the flue, replaced the pressure switch, and the E1 persists, you likely have a cracked heat exchanger creating a secondary pressure imbalance — a serious safety issue that requires a licensed technician to diagnose with a combustion analyzer before the furnace can legally be returned to service.
+
+## Related Articles
+
+- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
+- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)
+- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
+- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
+- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)

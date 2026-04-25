@@ -56,3 +56,11 @@ Low gas pressure requires a licensed plumber or gas tech to inspect the gas pipi
 ## When to Call a Technician
 
 If E001 persists after purging air and cleaning the igniter: a licensed plumber (gas-certified) should inspect the gas supply, pressure, and valve operation. Gas valve replacement on Navien units requires a licensed technician.
+
+## Related Articles
+
+- [Navien E002 Error Code — Causes & Fix](/posts/navien-error-code-e002/)
+- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)
+- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
+- [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)
+- [Navien Error Code E007 — Causes & Fix](/posts/navien-error-code-e007/)

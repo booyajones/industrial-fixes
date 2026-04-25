@@ -61,3 +61,11 @@ The Haas VF-4 shares much of its alarm logic with the VF-2, but the larger trave
 ## When to Call a Pro
 
 If the VF-4 is faulting after a crash or has rising axis load over time, stop and inspect mechanically. Bigger Haas machines hide binding for a while, then suddenly turn it into a much more expensive repair.
+
+## Related Articles
+
+- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
+- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
+- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
+- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
+- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)

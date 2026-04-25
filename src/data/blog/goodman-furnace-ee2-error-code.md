@@ -42,3 +42,11 @@ The Goodman **EE2 error code** appears on the communicating thermostat or contro
 ## When to Call a Pro
 
 If EE2 persists after replacing the thermostat and all wiring tests good, the furnace control board's communication circuit has failed. Board replacement on newer communicating Goodman systems requires verifying firmware compatibility between the new board and the existing thermostat.
+
+## Related Articles
+
+- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
+- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)
+- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
+- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
+- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)

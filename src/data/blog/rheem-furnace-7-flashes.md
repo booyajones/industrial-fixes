@@ -42,3 +42,11 @@ Seven flashes on a Rheem furnace LED indicates a low flame signal — the flame 
 ## When to Call a Pro
 
 If the sensor is clean and the ground is solid but the signal is still low, a combustion analysis is needed. Low manifold pressure or combustion issues require a gas-rated technician with a manometer.
+
+## Related Articles
+
+- [Rheem Classic Series Furnace Error Codes — Complete Guide](/posts/rheem-classic-furnace-error-codes/)
+- [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)
+- [Rheem Furnace 2 Flashes — Pressure Switch Fault](/posts/rheem-furnace-2-flashes/)
+- [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)
+- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)

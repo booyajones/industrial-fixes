@@ -61,3 +61,11 @@ The Trane XR14 is a single-stage heat pump in the XR series — a straightforwar
 ## When to Call a Pro
 
 Heat pump refrigerant diagnosis requires EPA 608 certification and a manifold gauge set. If the XR14 is 10+ years old and showing low refrigerant, a refrigerant leak search (electronic leak detector or UV dye) should be performed before recharging. Repeated recharging without leak repair is not an approved practice under EPA Section 608.
+
+## Related Articles
+
+- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
+- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
+- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
+- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
+- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)

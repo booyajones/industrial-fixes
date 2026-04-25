@@ -42,3 +42,11 @@ The Siemens SINAMICS V20 **F1 fault** is an **Overcurrent** fault. The drive's c
 ## When to Call a Pro
 
 If F1 persists after clearing mechanical binding, correcting the ramp parameter, and confirming motor insulation is good, the V20's current sensor or IGBT gate driver may have been damaged by a prior event. Siemens-certified drive service technicians handle internal drive diagnostics.
+
+## Related Articles
+
+- [Siemens Sinumerik 828D Alarm Codes Guide — Complete Diagnostic Reference](/posts/siemens-828d-alarm-codes/)
+- [Siemens 840D Alarm 380000 — Causes & Fix](/posts/siemens-840d-alarm-380000/)
+- [Siemens Circuit Breaker Fault Codes - Complete Guide](/posts/siemens-circuit-breaker-fault-codes/)
+- [Siemens Desigo BMS Fault Codes - Complete Guide](/posts/siemens-desigo-fault-codes/)
+- [Siemens Cerberus/MXL Fire Alarm Fault Codes — Troubleshooting Guide](/posts/siemens-fire-alarm-fault-codes/)

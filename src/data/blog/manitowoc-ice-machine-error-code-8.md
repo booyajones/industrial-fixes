@@ -42,3 +42,11 @@ Error code 8 on a Manitowoc ice machine (Indigo series, NEO series) indicates an
 ## When to Call a Pro
 
 If code 8 persists after probe cleaning and wiring inspection, the control board's probe input circuit may have failed. A Manitowoc-certified technician should diagnose the board to avoid unnecessary part replacements.
+
+## Related Articles
+
+- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
+- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
+- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
+- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
+- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)

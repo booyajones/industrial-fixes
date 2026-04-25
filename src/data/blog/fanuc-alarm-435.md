@@ -42,3 +42,11 @@ Fanuc Alarm 435 indicates a servo following error on the Y-axis — the differen
 ## When to Call a Pro
 
 Guideway and ballscrew repair requires precision measurement and Fanuc-trained service to restore machine accuracy after any mechanical work.
+
+## Related Articles
+
+- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
+- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
+- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
+- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)

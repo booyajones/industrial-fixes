@@ -42,3 +42,11 @@ Fanuc **Alarm 411** is a **Servo Alarm** — specifically a radial direction ove
 ## When to Call a Pro
 
 Alarm 411 root-cause diagnosis often requires oscilloscope-level servo trace analysis and Fanuc SERVO GUIDE software. Fanuc-certified service engineers and CNC machine tool dealers' service departments have this tooling and training.
+
+## Related Articles
+
+- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
+- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
+- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
+- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)

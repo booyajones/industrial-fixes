@@ -43,3 +43,11 @@ Carrier code 52 is a **soft lockout due to repeated high-limit trips**. The furn
 ## When to Call a Pro
 
 If the blower runs strong, airflow is unrestricted, and the furnace still trips the limit repeatedly, suspect a cracked heat exchanger allowing combustion gases to recirculate. This is a carbon monoxide hazard — shut the unit off and call a licensed HVAC technician immediately.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

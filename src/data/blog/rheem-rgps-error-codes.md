@@ -67,3 +67,11 @@ The Rheem RGPS is a high-efficiency (96% AFUE) single-stage gas furnace in the C
 ## When to Call a Pro
 
 A cracked primary or secondary heat exchanger is a carbon monoxide risk. If the rollout switch trips, do not reset more than once without professional heat exchanger inspection. Also, any smell of gas near the furnace requires immediate shutdown, evacuation, and a call to your gas utility.
+
+## Related Articles
+
+- [Rheem Classic Series Furnace Error Codes — Complete Guide](/posts/rheem-classic-furnace-error-codes/)
+- [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)
+- [Rheem Furnace 2 Flashes — Pressure Switch Fault](/posts/rheem-furnace-2-flashes/)
+- [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)
+- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)

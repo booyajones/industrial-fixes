@@ -43,3 +43,11 @@ Fault 7 (Motor Overload) on an Allen-Bradley PowerFlex 755 drive means the drive
 ## When to Call a Pro
 
 Persistent Fault 7 on a large PowerFlex 755 application requires a drive-trained technician to perform a load study — measuring current vs. time to determine whether the motor, drive parameters, or mechanical system is the root cause.
+
+## Related Articles
+
+- [Allen-Bradley MicroLogix 1400 Common Fault Codes](/posts/allen-bradley-micrologix-fault/)
+- [Allen-Bradley PowerFlex 40 Complete Fault Code Guide](/posts/allen-bradley-powerflex-40-complete-guide/)
+- [Allen Bradley PowerFlex 40 F2 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f2-fault/)
+- [Allen-Bradley PowerFlex 40 F3 Fault — Power Loss](/posts/allen-bradley-powerflex-40-f3/)
+- [Allen Bradley PowerFlex 40 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f7-fault/)

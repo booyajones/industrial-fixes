@@ -58,3 +58,11 @@ The Infinity bus uses a shielded 2-wire system. Any loose connection or short ca
 | High-pressure switch | [Amazon](https://www.amazon.com/s?k=High-pressure+switch&tag=errorcodefixes-20) \| Match R-410A setpoint |
 | Outdoor fan motor | [Amazon](https://www.amazon.com/s?k=Outdoor+fan+motor&tag=errorcodefixes-20) \| Variable speed ΓÇö match HP and RPM |
 > **Pro tip:** Carrier Infinity systems retain up to 12 fault codes with timestamps. Access via thermostat ΓåÆ Menu ΓåÆ Diagnostics ΓåÆ Fault History. Review history before clearing to identify recurring issues.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

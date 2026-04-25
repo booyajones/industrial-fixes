@@ -56,3 +56,11 @@ Manitowoc NEO ice machines are the latest generation of Manitowoc commercial ice
 ## When to Call a Pro
 
 E06 low pressure and E05 high pressure faults that persist after cleaning require refrigerant circuit diagnosis by an EPA 608 certified technician.
+
+## Related Articles
+
+- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
+- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
+- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
+- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
+- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)

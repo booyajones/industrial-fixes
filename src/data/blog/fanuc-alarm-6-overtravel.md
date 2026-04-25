@@ -41,3 +41,11 @@ Fanuc alarm 6 means hardware overtravel — a physical limit switch on one of th
 ## When to Call a Pro
 
 If alarm 6 appears during automatic cycle operation with correct work offsets and a verified reference position, the limit switch position may need adjustment by the machine tool builder or an authorized Fanuc service technician.
+
+## Related Articles
+
+- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
+- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
+- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
+- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)

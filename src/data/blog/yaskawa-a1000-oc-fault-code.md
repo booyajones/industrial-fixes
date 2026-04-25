@@ -77,3 +77,11 @@ The A1000 differentiates between:
 If OC persists after adjusting acceleration time and confirming motor winding integrity, the issue is likely in the drive's output stage or requires sophisticated parameter tuning for the application. Yaskawa A1000 drives are complex — improper parameter changes can damage the motor or drive, or create safety hazards in industrial equipment. A Yaskawa-certified service technician or authorized distributor can connect a laptop with DriveWizard Plus software to capture real-time waveforms and diagnose the root cause of persistent OC faults.
 
 > **Pro tip:** On Yaskawa A1000 drives, the OC protection threshold can be temporarily adjusted using L3-06 (stall prevention limit during acceleration). Setting this to a higher value (e.g., 180% instead of 150%) allows the drive to push through brief current spikes during acceleration without tripping — useful for high-inertia loads like fans and centrifuges. However, increasing this value increases stress on the IGBT modules and motor insulation, so use conservatively and only when the application genuinely requires it.
+
+## Related Articles
+
+- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)
+- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
+- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
+- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)
+- [Yaskawa Sigma-7 SGD7S Servo Drive Alarm Codes — Diagnosis & Fix](/posts/yaskawa-sigma7-sgd7s-alarm-codes/)

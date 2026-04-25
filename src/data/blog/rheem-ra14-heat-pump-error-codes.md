@@ -116,3 +116,11 @@ A: At minimum, once per year before cooling season. If you're in a dusty area or
 **Q: My RA14 was installed 8 years ago and keeps blinking 2 or 3 flashes. Is it time to replace?**
 
 A: Not necessarily. If the refrigerant charge is low due to a slow leak, a tech can locate the leak, repair it, and recharge the system. However, if the compressor is making grinding or rattling noises, or the leak is in the coil (which is expensive to replace), a cost comparison between repair and replacement is worth running. Units over 10–12 years old with major component failures often make more economic sense to replace.
+
+## Related Articles
+
+- [Rheem Classic Series Furnace Error Codes — Complete Guide](/posts/rheem-classic-furnace-error-codes/)
+- [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)
+- [Rheem Furnace 2 Flashes — Pressure Switch Fault](/posts/rheem-furnace-2-flashes/)
+- [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)
+- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)

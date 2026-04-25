@@ -43,3 +43,11 @@ Allen-Bradley PowerFlex fault F111 is a **Motor Over Speed** fault — the drive
 ## When to Call a Pro
 
 If F111 occurs during a genuine runaway condition (the motor is physically overspeeding beyond control), stop the machine immediately using the E-stop. A controls engineer must investigate the mechanical brake system and process control logic before restarting.
+
+## Related Articles
+
+- [Allen-Bradley MicroLogix 1400 Common Fault Codes](/posts/allen-bradley-micrologix-fault/)
+- [Allen-Bradley PowerFlex 40 Complete Fault Code Guide](/posts/allen-bradley-powerflex-40-complete-guide/)
+- [Allen Bradley PowerFlex 40 F2 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f2-fault/)
+- [Allen-Bradley PowerFlex 40 F3 Fault — Power Loss](/posts/allen-bradley-powerflex-40-f3/)
+- [Allen Bradley PowerFlex 40 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f7-fault/)

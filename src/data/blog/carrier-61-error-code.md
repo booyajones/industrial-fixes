@@ -61,3 +61,11 @@ If code 61 is tripping repeatedly, install a CO detector near the furnace immedi
 ## Bottom Line
 
 Code 61 is not a routine maintenance fault. Reset it once, watch what happens, and get a pro involved if it trips again. Never jumper or bypass a rollout switch — it exists to prevent fires.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

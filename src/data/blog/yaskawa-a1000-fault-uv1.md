@@ -60,3 +60,11 @@ Call a drive technician or electrician if UV1 persists with verified balanced in
 - [Yaskawa VFD Fault UV1, Undervoltage Guide](/posts/yaskawa-vfd-fault-uv1/)
 - [Yaskawa A1000 OC Fault Code, Overcurrent Troubleshooting](/posts/yaskawa-a1000-oc-fault-code/)
 - [Yaskawa VFD Fault PF, Input Phase Loss Guide](/posts/yaskawa-vfd-fault-pf/)
+
+## Related Articles
+
+- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)
+- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)
+- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
+- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)
+- [Yaskawa Sigma-7 SGD7S Servo Drive Alarm Codes — Diagnosis & Fix](/posts/yaskawa-sigma7-sgd7s-alarm-codes/)

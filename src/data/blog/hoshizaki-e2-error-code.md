@@ -52,3 +52,11 @@ For low refrigerant: a licensed EPA 608-certified refrigeration technician must 
 ## When to Call a Technician
 
 Any refrigerant-related cause of E2 requires an EPA 608-certified refrigeration technician. Harvest valve replacement is within the scope of a competent appliance tech familiar with commercial ice machines. Descale cleaning is a routine maintenance task that can be performed by facility staff.
+
+## Related Articles
+
+- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)
+- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)
+- [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)
+- [Hoshizaki E3 Error Code — Causes & Fix](/posts/hoshizaki-e3-error-code/)
+- [Hoshizaki E4 Error Code — Causes & Fix](/posts/hoshizaki-e4-error-code/)

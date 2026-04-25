@@ -60,3 +60,11 @@ The Carrier 30XA is a scroll-compressor air-cooled chiller used in commercial bu
 ## When to Call a Pro
 
 The Carrier 30XA operates with refrigerant circuits at high pressure and involves 460V three-phase electrical systems. Refrigerant work requires EPA 608 certification. Compressor replacements require recovery of the refrigerant charge, oil analysis, and system flush — all requiring specialized equipment and certification. Contact Carrier's commercial service network for warranty and major component work.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

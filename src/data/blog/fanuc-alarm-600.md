@@ -41,3 +41,11 @@ Fanuc Alarm 600 is an APC (Absolute Pulse Coder) alarm series — the absolute e
 ## When to Call a Pro
 
 If Alarm 600 persists after battery replacement and reference return, the encoder PCB inside the servo motor may have failed. Motor encoder replacement requires Fanuc-certified service.
+
+## Related Articles
+
+- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
+- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
+- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
+- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)

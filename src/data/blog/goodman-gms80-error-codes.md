@@ -62,3 +62,11 @@ The Goodman GMS80 is an 80% AFUE single-stage gas furnace with a PSC blower moto
 ## When to Call a Pro
 
 A Goodman GMS80 that trips the rollout switch (Code 9) requires professional inspection before return to service. A cracked heat exchanger allows combustion gases to mix with circulated air — a carbon monoxide risk. Do not bypass the rollout switch. If the furnace repeatedly trips the limit (Code 4) after filter replacement, a cracked heat exchanger or ECM motor issue may be the root cause requiring professional diagnosis.
+
+## Related Articles
+
+- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
+- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)
+- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
+- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
+- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)

@@ -64,3 +64,11 @@ The Hoshizaki DKM-500 is a self-contained cube ice dispenser producing approxima
 ## When to Call a Pro
 
 Healthcare-installed DKM-500 units are subject to NSF sanitation requirements and manufacturer maintenance schedules. Any refrigerant repair requires EPA 608 certification. The DKM-500 dispenser mechanism disassembly requires familiarity with Hoshizaki's specific assembly — a certified Hoshizaki service agent should perform major dispenser repairs to maintain the warranty and NSF certification.
+
+## Related Articles
+
+- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)
+- [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)
+- [Hoshizaki E2 Error Code — Harvest Fault Fix](/posts/hoshizaki-e2-error-code/)
+- [Hoshizaki E3 Error Code — Causes & Fix](/posts/hoshizaki-e3-error-code/)
+- [Hoshizaki E4 Error Code — Causes & Fix](/posts/hoshizaki-e4-error-code/)

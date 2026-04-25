@@ -43,3 +43,11 @@ The Mitsubishi U2 error code indicates an **overcurrent or abnormal high voltage
 ## When to Call a Pro
 
 U2 involving compressor issues requires refrigerant system handling. Compressor replacement requires EPA 608 certification and specialized equipment. If the board is the suspect, Mitsubishi inverter PCBs are expensive — confirm with a certified technician before ordering.
+
+## Related Articles
+
+- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
+- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
+- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
+- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
+- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)

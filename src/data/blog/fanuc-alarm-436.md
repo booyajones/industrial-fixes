@@ -42,3 +42,11 @@ Fanuc Alarm 436 indicates a servo following error on the Z-axis — the actual Z
 ## When to Call a Pro
 
 Z-axis mechanical work on VMCs (ballscrew, guideway, counterbalance) requires precision re-leveling and accuracy verification. Fanuc-trained field service is recommended for any Z-axis mechanical repair.
+
+## Related Articles
+
+- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
+- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
+- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
+- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)

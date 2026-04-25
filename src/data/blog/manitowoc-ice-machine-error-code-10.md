@@ -43,3 +43,11 @@ Error code 10 on a Manitowoc ice machine (Indigo and Indigo NXT series) indicate
 ## When to Call a Pro
 
 If error code 10 persists after sensor replacement and the machine is under commercial warranty, contact Manitowoc's service network. A control board fault that is misinterpreting a good sensor signal requires board-level diagnosis.
+
+## Related Articles
+
+- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
+- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
+- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
+- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)
+- [Manitowoc Ice Machine Error Code 4 — Water Curtain Fault Fix](/posts/manitowoc-ice-machine-error-code-4-water-curtain/)

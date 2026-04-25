@@ -41,3 +41,11 @@ Fanuc alarm 1 (OT0001: OVER TRAVEL: -X, or the corresponding axis) is a hardware
 ## When to Call a Pro
 
 If the axis hits the overtravel switch during normal operation with correct offsets and the soft limits are set, the servo system may be following position errors that exceed the tolerance — a servo gain or mechanical problem requiring a Fanuc service engineer to diagnose.
+
+## Related Articles
+
+- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
+- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
+- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)
+- [Fanuc Alarm 3 — Overtravel Minus Hardware Causes & Fix](/posts/fanuc-alarm-3-overtravel/)

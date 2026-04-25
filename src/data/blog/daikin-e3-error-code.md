@@ -42,3 +42,11 @@ Daikin error code E3 indicates a fan motor fault — specifically, the indoor un
 ## When to Call a Pro
 
 BLDC motor diagnosis requires measuring drive voltage output from the PCB with an oscilloscope or specialized Daikin service tool. If the motor tests mechanically sound but E3 persists, a tech with Daikin equipment can isolate board vs. motor faults quickly.
+
+## Related Articles
+
+- [Daikin A3 Error Code — Causes & Fix](/posts/daikin-a3-error-code/)
+- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
+- [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
+- [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)
+- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)

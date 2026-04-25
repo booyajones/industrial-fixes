@@ -42,3 +42,11 @@ Haas **Alarm 125** indicates a **tool carousel fault**. On Haas mills with an um
 ## When to Call a Pro
 
 If the carousel is mechanically jammed and ATC recovery cannot return it to home, stop there. Forcing the changer can bend the arm or damage the carousel plate. Haas Factory Outlet service is the right move in that situation.
+
+## Related Articles
+
+- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
+- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
+- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
+- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
+- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)

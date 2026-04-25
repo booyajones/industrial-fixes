@@ -42,3 +42,11 @@ Lennox fault code 225 is a pressure switch fault — the board commanded the ind
 ## When to Call a Pro
 
 If the flue is clear, the pressure switch hose is dry, and a new pressure switch still doesn't close with the inducer running, the inducer is likely not producing adequate draft — possibly due to a failed motor, cracked wheel, or significantly undersized flue run. This requires hands-on measurement and may require a venting redesign.
+
+## Related Articles
+
+- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
+- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
+- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
+- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
+- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)

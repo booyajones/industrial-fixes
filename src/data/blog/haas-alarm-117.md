@@ -42,3 +42,11 @@ Haas Alarm 117 indicates a spindle drive communication fault — the CNC control
 ## When to Call a Pro
 
 If the spindle drive has failed internally, replacement requires Haas parameter cloning and spindle calibration. Contact Haas service or a certified Haas distributor for spindle drive replacement.
+
+## Related Articles
+
+- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
+- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
+- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
+- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
+- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)

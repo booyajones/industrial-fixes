@@ -42,3 +42,11 @@ Scotsman error code 8 indicates a water inlet valve fault. The control board com
 ## When to Call a Pro
 
 If the valve and level sensor both test good but code 8 returns, the control board output may be unstable. Board diagnosis around line-voltage water valves should stay with a trained refrigeration tech.
+
+## Related Articles
+
+- [Scotsman C0522 Error Codes — Fix Guide](/posts/scotsman-c0522-error-codes/)
+- [Scotsman HID312 Error Codes — Fault Code Diagnostic Guide](/posts/scotsman-hid312-error-codes/)
+- [Scotsman HID525 Error Codes — Complete Guide](/posts/scotsman-hid525-error-codes/)
+- [Scotsman Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/scotsman-ice-machine-complete-guide/)
+- [Scotsman Ice Machine Error Code 1 — High Pressure Cutout Fix](/posts/scotsman-ice-machine-error-code-1/)

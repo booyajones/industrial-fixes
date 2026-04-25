@@ -43,3 +43,11 @@ Scotsman error code 6 indicates a **long harvest condition occurred multiple tim
 ## When to Call a Pro
 
 If code 6 returns after thorough cleaning, a certified refrigeration technician should check refrigerant charge, hot gas valve operation, and evaporator surface condition. Repeated harvest problems with clean equipment indicate a refrigerant system issue requiring EPA 608 handling.
+
+## Related Articles
+
+- [Scotsman C0522 Error Codes — Fix Guide](/posts/scotsman-c0522-error-codes/)
+- [Scotsman HID312 Error Codes — Fault Code Diagnostic Guide](/posts/scotsman-hid312-error-codes/)
+- [Scotsman HID525 Error Codes — Complete Guide](/posts/scotsman-hid525-error-codes/)
+- [Scotsman Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/scotsman-ice-machine-complete-guide/)
+- [Scotsman Ice Machine Error Code 1 — High Pressure Cutout Fix](/posts/scotsman-ice-machine-error-code-1/)

@@ -66,4 +66,12 @@ This guide covers the most common True Refrigeration error codes and their fixes
 | True defrost heater (model-specific, e.g., 915146)&tag=) | [Amazon](https://www.amazon.com/s?k=True+defrost+heater+%28model-specific,+e.g.,+915146%29%26tag=%29&tag=errorcodefixes-20) \| Parts Town, Grainger | $40–$100 |  | Defrost termination thermostat | Parts Town, OEM appliance parts | $15–$40 |
 | True electronic controller replacement | [Amazon](https://www.amazon.com/s?k=True+electronic+controller+replacement&tag=errorcodefixes-20) \| Parts Town, True dealer | $80–$200 |  |  |  |  |
 
-## 
+##
+
+## Related Articles
+
+- [True Refrigeration E1 Error Code — Causes & Fix](/posts/true-refrigeration-e1-error-code/)
+- [True Refrigeration E2 Error Code — Causes & Fix](/posts/true-refrigeration-e2-error-code/)
+- [True Refrigeration E3 Error Code — Causes & Fix](/posts/true-refrigeration-e3-error-code/)
+- [True Refrigeration E4 Error Code — Causes & Fix](/posts/true-refrigeration-e4-error-code/)
+- [True Refrigeration E5 Error Code — Defrost Sensor Causes & Fix](/posts/true-refrigeration-e5-error-code/)

@@ -42,3 +42,11 @@ Carrier fault code 45 indicates a control board fault — specifically, the inte
 ## When to Call a Pro
 
 Board replacement on a Carrier furnace is straightforward for an experienced technician but requires proper static precautions and wiring documentation. If you're not confident transferring wiring from old board to new, bring in a tech to avoid creating a new fault.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

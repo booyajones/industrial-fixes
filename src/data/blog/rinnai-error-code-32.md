@@ -42,3 +42,11 @@ Error code 32 on a Rinnai tankless water heater indicates the outlet water tempe
 ## When to Call a Pro
 
 If the thermal fuse blows repeatedly after replacement, the root cause (scale or flow issue) has not been resolved. A licensed plumber should perform a full heat exchanger inspection and potentially install a water treatment system upstream of the unit.
+
+## Related Articles
+
+- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)
+- [Rinnai Error Code 11 No Ignition — Causes & Fix](/posts/rinnai-error-code-11-ignition/)
+- [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
+- [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
+- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)

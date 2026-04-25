@@ -43,3 +43,11 @@ E5 on a Mitsubishi mini-split indoor unit indicates a drain pump fault or a drai
 ## When to Call a Pro
 
 If drain water is leaking into the wall or ceiling cavity, a licensed HVAC technician should assess the drain line routing and ensure no structural damage has occurred. Persistent mold in the drain pan may require unit disassembly to clean.
+
+## Related Articles
+
+- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
+- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
+- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
+- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
+- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)

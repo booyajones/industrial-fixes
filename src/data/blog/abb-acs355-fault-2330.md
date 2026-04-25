@@ -91,3 +91,11 @@ After identifying and fixing the fault:
 | Motor cable (shielded) | [Amazon](https://www.amazon.com/s?k=Motor+cable+%28shielded%29&tag=errorcodefixes-20) \| Use shielded 4-conductor cable for VFD applications |
 | ACS355 drive | [Amazon](https://www.amazon.com/s?k=ACS355+drive&tag=errorcodefixes-20) \| If output IGBT confirmed failed |
 > **Pro tip:** The ABB ACS355 supports a ground fault trip sensitivity parameter. For long cable runs, check parameter 1601 and consult ABB application note AN-14-0046 for capacitive ground current calculations.
+
+## Related Articles
+
+- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
+- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
+- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
+- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
+- [ABB ACS550 AF10 Fault — Causes & Fix](/posts/abb-acs550-af10-heatsink/)

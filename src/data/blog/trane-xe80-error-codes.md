@@ -67,3 +67,11 @@ The XE80 uses a hot-surface igniter (silicon carbide on older units, silicon nit
 | Pressure switch hose | [Amazon](https://www.amazon.com/s?k=Pressure+switch+hose&tag=errorcodefixes-20) \| 3/8" ID rubber vacuum hose |
 ## When to Call a Pro
 The Trane XE80 is aging — most units are 15–25+ years old. If you're facing repeated ignition failures, a cracked heat exchanger is possible. A CO detector test and heat exchanger inspection by a licensed tech is worth scheduling on any XE80 over 20 years old, especially before another heating season.
+
+## Related Articles
+
+- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
+- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
+- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
+- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
+- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)

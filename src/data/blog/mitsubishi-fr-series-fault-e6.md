@@ -44,3 +44,11 @@ E6 (or E.6) on a Mitsubishi FR series VFD (FR-A700, FR-A800, FR-E700, FR-E800) i
 ## When to Call a Pro
 
 Brake transistor testing and power board replacement require power electronics expertise. A Mitsubishi Electric-authorized drive service technician can test the brake circuit under load and replace the internal brake components correctly.
+
+## Related Articles
+
+- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
+- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
+- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
+- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
+- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)

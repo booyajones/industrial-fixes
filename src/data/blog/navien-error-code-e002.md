@@ -42,3 +42,11 @@ Navien error code E002 means ignition failure — the unit attempted to ignite t
 ## When to Call a Pro
 
 Gas valve diagnosis and adjustment requires a licensed gas tech. If the igniter is clean and gas is confirmed available but E002 persists, a tech should check gas manifold pressure and valve operation.
+
+## Related Articles
+
+- [Navien Error Code E001 — No Ignition Fix](/posts/navien-error-code-e001/)
+- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)
+- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
+- [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)
+- [Navien Error Code E007 — Causes & Fix](/posts/navien-error-code-e007/)

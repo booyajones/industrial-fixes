@@ -42,3 +42,11 @@ Daikin error code A3 indicates a drain full or drain pump fault. The indoor unit
 ## When to Call a Pro
 
 If the drain line runs through a ceiling or wall cavity and cannot be easily cleared from accessible ends, a technician with a wet-vac and drain cleaning tools can clear the full run without opening walls. Repeated A3 faults despite clearing the drain indicate the drain is undersized for the unit capacity or the slope is insufficient for gravity drainage.
+
+## Related Articles
+
+- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
+- [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
+- [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)
+- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)
+- [Daikin E3 Error Code — Causes & Fix](/posts/daikin-e3-error-code/)

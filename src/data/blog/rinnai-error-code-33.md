@@ -43,3 +43,11 @@ Rinnai error code 33 indicates **exhaust overheat** — the flue exhaust tempera
 ## When to Call a Pro
 
 If descaling and vent inspection don't resolve code 33, have a technician measure actual combustion air/fuel ratio (CO₂ or O₂ levels) with a combustion analyzer. Persistent exhaust overtemperature with clean heat exchanger can indicate a gas pressure or valve modulation problem requiring licensed service.
+
+## Related Articles
+
+- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)
+- [Rinnai Error Code 11 No Ignition — Causes & Fix](/posts/rinnai-error-code-11-ignition/)
+- [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
+- [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
+- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)

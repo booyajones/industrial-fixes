@@ -43,3 +43,11 @@ The Trane XV20i is a communicating variable-speed heat pump that runs on Trane's
 ## When to Call a Pro
 
 Refrigerant-related codes (91, 92) always require a licensed HVAC technician with manifold gauges and refrigerant certification. Communication codes that don't resolve with wiring inspection require Trane TechView diagnostic software, available only to authorized Trane dealers.
+
+## Related Articles
+
+- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
+- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
+- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
+- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
+- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)

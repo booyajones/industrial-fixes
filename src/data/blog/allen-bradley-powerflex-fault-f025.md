@@ -42,3 +42,11 @@ Fault F025 on an Allen-Bradley PowerFlex 40, 400, 525, or 755 drive indicates Dr
 ## When to Call a Pro
 
 If F025 persists after correcting cooling and load, a Rockwell Automation-authorized integrator should inspect the drive for internal fault conditions — specifically, a failed thermal sensor or IGBT degradation causing elevated self-heating.
+
+## Related Articles
+
+- [Allen-Bradley MicroLogix 1400 Common Fault Codes](/posts/allen-bradley-micrologix-fault/)
+- [Allen-Bradley PowerFlex 40 Complete Fault Code Guide](/posts/allen-bradley-powerflex-40-complete-guide/)
+- [Allen Bradley PowerFlex 40 F2 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f2-fault/)
+- [Allen-Bradley PowerFlex 40 F3 Fault — Power Loss](/posts/allen-bradley-powerflex-40-f3/)
+- [Allen Bradley PowerFlex 40 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f7-fault/)

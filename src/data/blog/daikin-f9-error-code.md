@@ -45,3 +45,11 @@ On Daikin systems, F9 specifically refers to the **indoor heat exchanger midpoin
 | Contact cleaner | [Amazon](https://www.amazon.com/s?k=Contact+cleaner&tag=errorcodefixes-20) \| For connector maintenance |
 ## When to Call a Pro
 If the thermistor and connector check out but F9 persists, the indoor PCB is likely the issue. PCB replacement is feasible for those comfortable with electronics, but sourcing the correct part number from the unit's model code is essential — Daikin has many PCB variants.
+
+## Related Articles
+
+- [Daikin A3 Error Code — Causes & Fix](/posts/daikin-a3-error-code/)
+- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
+- [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
+- [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)
+- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)

@@ -42,3 +42,11 @@ Mitsubishi error code U3 indicates a charge fault during the pre-charge sequence
 ## When to Call a Pro
 
 Any work involving the refrigerant circuit — leak detection, recovery, recharge — requires EPA 608 certification. If the service valves are confirmed open and pressures are abnormal, stop and call a licensed refrigeration technician.
+
+## Related Articles
+
+- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
+- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
+- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
+- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
+- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)

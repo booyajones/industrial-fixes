@@ -64,3 +64,11 @@ The Goodman GSZC18 is an 18 SEER, two-stage heat pump designed for use with Good
 ## When to Call a Pro
 
 Two-stage compressor diagnosis and refrigerant work require professional tools and certification. The GSZC18's two-stage valve and ComfortNet communication system add complexity that makes board-level diagnosis difficult without Goodman's diagnostic software.
+
+## Related Articles
+
+- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
+- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)
+- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
+- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
+- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)

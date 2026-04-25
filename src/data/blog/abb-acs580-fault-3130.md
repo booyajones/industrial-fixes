@@ -45,3 +45,11 @@ The ABB ACS580 is a general-purpose all-compatible drive designed for industrial
 ## When to Call a Pro
 
 If all three supply voltages are confirmed balanced and correct at the drive input terminals but fault 3130 persists, the rectifier input section may have been damaged by a prior phase loss event. ABB has an authorized drive repair center network for board-level diagnosis and repair. The ACS580 hardware warranty covers manufacturing defects; a phase-loss-induced rectifier failure may or may not be covered depending on the cause.
+
+## Related Articles
+
+- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
+- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
+- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
+- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
+- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

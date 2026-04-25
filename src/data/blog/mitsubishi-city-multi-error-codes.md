@@ -47,3 +47,11 @@ Both codes cause the affected zone to stop cooling or heating. E6 often affects 
 ## When to Call a Pro
 
 Mitsubishi City Multi VRF systems require specialized diagnostic tools (TG-2000, MelCloud) and Mitsubishi Diamond Contractor training to diagnose correctly. Refrigerant work on VRF systems requires EPA 608 certification and VRF-specific recovery equipment.
+
+## Related Articles
+
+- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
+- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
+- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
+- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)
+- [Mitsubishi E3 Error Code — Indoor Fan Motor Fault Fix](/posts/mitsubishi-e3-error-code/)

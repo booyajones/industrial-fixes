@@ -71,3 +71,11 @@ The GMS96 uses a silicon nitride hot-surface igniter (Goodman B1401015S or B1401
 | Blower run capacitor | [Amazon](https://www.amazon.com/s?k=Blower+run+capacitor&tag=errorcodefixes-20) \| 7.5 or 10 µF / 370V |
 ## When to Call a Pro
 If you're seeing 7-flash or 5-flash codes (gas valve faults), or if the furnace has rolled out, stop using the furnace and contact a licensed HVAC technician before restarting.
+
+## Related Articles
+
+- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
+- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)
+- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
+- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
+- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)

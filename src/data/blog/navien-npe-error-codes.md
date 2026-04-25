@@ -72,3 +72,11 @@ The Navien NPE series (including NPE-180A, NPE-210A, NPE-240A, NPE-180S, NPE-210
 ## When to Call a Pro
 
 Gas pressure testing requires a calibrated manometer and gas work knowledge. Navien NPE units should be descaled annually in hard water areas — descaling requires a circulating pump and descaling solution kit. Contact Navien technical support (1-800-519-8794) for warranty issues or complex fault diagnoses.
+
+## Related Articles
+
+- [Navien Error Code E001 — No Ignition Fix](/posts/navien-error-code-e001/)
+- [Navien E002 Error Code — Causes & Fix](/posts/navien-error-code-e002/)
+- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)
+- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
+- [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)

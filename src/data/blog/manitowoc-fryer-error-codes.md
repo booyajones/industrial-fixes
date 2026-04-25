@@ -50,3 +50,11 @@ Fryer can't reach the set oil temperature. Check burner operation, gas pressure,
 ## When to Call a Pro
 
 Gas valve, high-limit thermostat, and heat exchanger work requires a certified commercial kitchen equipment technician. Never operate after F1/F4 without identifying the root cause.
+
+## Related Articles
+
+- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
+- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
+- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
+- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)
+- [Manitowoc Ice Machine Error Code 4 — Water Curtain Fault Fix](/posts/manitowoc-ice-machine-error-code-4-water-curtain/)

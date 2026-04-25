@@ -43,3 +43,11 @@ Lennox code 540 is a **communicating system communication fault** — the contro
 ## When to Call a Pro
 
 If all wiring checks out and a power-cycle doesn't restore communication, the issue may be a failed furnace control board or outdoor unit interface board. These components require model-specific diagnostics and programming — contact a Lennox dealer with iComfort-certified technicians.
+
+## Related Articles
+
+- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
+- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
+- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
+- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
+- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)

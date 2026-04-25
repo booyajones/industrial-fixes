@@ -43,3 +43,11 @@ Carrier furnace fault code 33 means the limit device is open — the high-limit 
 ## When to Call a Pro
 
 If the rollout switch trips more than once after resetting, or if you find cracks or rust holes in the heat exchanger during inspection, stop using the furnace and call a tech. A cracked heat exchanger is a carbon monoxide hazard.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

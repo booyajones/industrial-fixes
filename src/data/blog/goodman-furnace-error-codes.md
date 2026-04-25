@@ -53,3 +53,11 @@ The burner lit, but the microamp signal from the flame sensor is too low for rel
 
 ## When to Call a Pro
 A 5-flash (flame sensed with no call) or 7-flash (gas valve energized unexpectedly) code indicates a potentially dangerous condition — gas valve failure or control board malfunction. Turn off the gas supply and contact a licensed technician before attempting further operation.
+
+## Related Articles
+
+- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
+- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)
+- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
+- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
+- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)

@@ -73,3 +73,11 @@ The Carrier 58CVA is a two-stage variable-speed gas furnace delivering 80% AFUE 
 ## When to Call a Pro
 
 The 58CVA's two-stage gas valve and ECM motor require familiarity with Carrier's variable-speed control logic to diagnose correctly. If Code 45 (control board fault) appears, contact a Carrier authorized dealer — board replacement on a variable-speed furnace requires configuration matching the ECM motor and gas valve parameters.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

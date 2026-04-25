@@ -96,3 +96,9 @@ Don't ignore E1 — a $25–50 sensor replacement avoids a potential burnout of 
 | [NTC temperature sensor (universal)](https://www.amazon.com/s?k=NTC+temperature+sensor+%28universal%29&tag=errorcodefixes-20) | $15–30 |
 | [A.O. Smith OEM sensor](https://www.amazon.com/s?k=A.O.+Smith+OEM+sensor&tag=errorcodefixes-20) | $25–60 |
 | [Control board (if sensor input failed)](https://www.amazon.com/s?k=Control+board+%28if+sensor+input+failed%29&tag=errorcodefixes-20) | $100–250 |
+
+## Related Articles
+
+- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
+- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
+- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)

@@ -60,3 +60,11 @@ The Rheem RA13 (and its Ruud counterpart, the RA13) is a 13–14 SEER single-sta
 ## When to Call a Pro
 
 Refrigerant handling on the RA13 requires EPA 608 certification. If the compressor draws high amperage (above nameplate FLA) but produces no cooling, the compressor may be mechanically failed — a technician with a clamp-on ammeter and manifold gauges can confirm this before an expensive replacement decision is made.
+
+## Related Articles
+
+- [Rheem Classic Series Furnace Error Codes — Complete Guide](/posts/rheem-classic-furnace-error-codes/)
+- [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)
+- [Rheem Furnace 2 Flashes — Pressure Switch Fault](/posts/rheem-furnace-2-flashes/)
+- [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)
+- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)

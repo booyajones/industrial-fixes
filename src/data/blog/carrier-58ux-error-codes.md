@@ -67,3 +67,11 @@ The Carrier 58UX is an upflow/horizontal single-stage gas furnace in the Perform
 ## When to Call a Pro
 
 A cracked heat exchanger can cause rollout switch trips and carbon monoxide hazards. If you see repeated rollout trips, persistent combustion odors, or visible cracks in the heat exchanger panels, do not operate the furnace — call a licensed HVAC technician immediately. Gas valve and refrigerant-side diagnostics also require professional tools and certification.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

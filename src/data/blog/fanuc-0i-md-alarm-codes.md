@@ -61,3 +61,11 @@ The Fanuc 0i-MD is a common machining center control used on vertical mills, hor
 ## When to Call a Pro
 
 If the machine shows repeated 910 SRAM or persistent servo amplifier alarms after basic checks, back up parameters immediately and involve a Fanuc service technician or qualified CNC controls specialist.
+
+## Related Articles
+
+- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
+- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
+- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)
+- [Fanuc Alarm 3 — Overtravel Minus Hardware Causes & Fix](/posts/fanuc-alarm-3-overtravel/)

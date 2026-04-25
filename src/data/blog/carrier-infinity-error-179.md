@@ -150,3 +150,11 @@ The error clears automatically when communication is restored — there's no man
 
 **Does error 179 mean my Carrier Infinity system is broken?**
 Not necessarily. The most common cause is a loose wire that reseating fixes in 10 minutes. Start with the simplest check (power cycle, inspect terminal connections) before assuming you need a $400 board.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

@@ -43,3 +43,11 @@ E4 on a True commercial refrigerator or freezer signals a defrost heater fault �
 ## When to Call a Pro
 
 If the control board itself is suspected (E4 with a good heater and thermostat), board replacement requires matching the True model and serial number. Commercial refrigeration equipment repair often requires EPA 608 certification if refrigerant work is also needed.
+
+## Related Articles
+
+- [True Refrigeration E1 Error Code — Causes & Fix](/posts/true-refrigeration-e1-error-code/)
+- [True Refrigeration E2 Error Code — Causes & Fix](/posts/true-refrigeration-e2-error-code/)
+- [True Refrigeration E3 Error Code — Causes & Fix](/posts/true-refrigeration-e3-error-code/)
+- [True Refrigeration E5 Error Code — Defrost Sensor Causes & Fix](/posts/true-refrigeration-e5-error-code/)
+- [True Refrigeration E6 Error Code — High Temperature Alarm Causes & Fix](/posts/true-refrigeration-e6-error-code/)

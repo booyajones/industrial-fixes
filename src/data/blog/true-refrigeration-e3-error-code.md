@@ -43,3 +43,11 @@ True Refrigeration E3 indicates a **defrost termination fault** — the defrost 
 ## When to Call a Pro
 
 If E3 returns after replacing the heater and thermostat, the defrost timer or electronic controller may have a fault in the defrost timing circuit. True Refrigeration's authorized service network can diagnose the controller board and timer assembly.
+
+## Related Articles
+
+- [True Refrigeration E1 Error Code — Causes & Fix](/posts/true-refrigeration-e1-error-code/)
+- [True Refrigeration E2 Error Code — Causes & Fix](/posts/true-refrigeration-e2-error-code/)
+- [True Refrigeration E4 Error Code — Causes & Fix](/posts/true-refrigeration-e4-error-code/)
+- [True Refrigeration E5 Error Code — Defrost Sensor Causes & Fix](/posts/true-refrigeration-e5-error-code/)
+- [True Refrigeration E6 Error Code — High Temperature Alarm Causes & Fix](/posts/true-refrigeration-e6-error-code/)

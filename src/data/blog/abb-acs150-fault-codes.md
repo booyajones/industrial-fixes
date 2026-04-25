@@ -63,3 +63,11 @@ The ABB ACS150 is a compact micro drive built for simple machine control, includ
 ## When to Call a Pro
 
 If the ACS150 repeatedly throws 0018 internal control faults or trips immediately with the motor disconnected, the drive has likely failed internally. ABB support or an industrial drive specialist should confirm replacement rather than continued resets.
+
+## Related Articles
+
+- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
+- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
+- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
+- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
+- [ABB ACS550 AF10 Fault — Causes & Fix](/posts/abb-acs550-af10-heatsink/)

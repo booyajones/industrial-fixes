@@ -43,3 +43,11 @@ Carrier fault code 22 indicates a limit device lockout on a single-stage furnace
 ## When to Call a Pro
 
 If the limit switch resets but opens again within one heating cycle and airflow is verified good, a cracked heat exchanger may be allowing combustion gases to recirculate. This is a carbon monoxide hazard — do not operate the furnace until a licensed technician inspects the heat exchanger.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

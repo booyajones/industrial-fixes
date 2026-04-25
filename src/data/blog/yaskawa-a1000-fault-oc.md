@@ -96,3 +96,11 @@ Check the A1000 fault log (U2-01 through U2-10 store recent faults with conditio
 | [Braking resistor](https://www.amazon.com/s?k=Braking+resistor&tag=errorcodefixes-20) | Optional | Standard on most frames |
 
 > **Pro tip:** The A1000 supports S-curve acceleration (C2-01 through C2-04) which smooths the ramp profile. Enabling S-curve significantly reduces OCA faults on applications with high starting torque requirements like conveyors or compressors.
+
+## Related Articles
+
+- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
+- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)
+- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
+- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)
+- [Yaskawa Sigma-7 SGD7S Servo Drive Alarm Codes — Diagnosis & Fix](/posts/yaskawa-sigma7-sgd7s-alarm-codes/)

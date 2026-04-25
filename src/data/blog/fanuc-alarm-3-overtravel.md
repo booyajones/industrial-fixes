@@ -42,3 +42,11 @@ Fanuc Alarm 3 is an **Overtravel (Minus direction) hardware limit** — an axis 
 ## When to Call a Pro
 
 Repeated Alarm 3 during homing may indicate the reference point parameters (Parameter 1240/1241 for grid shift) are incorrectly set, or the encoder battery has failed and the home position is lost. A Fanuc-certified technician should set up the homing parameters to prevent future overruns.
+
+## Related Articles
+
+- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
+- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
+- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
+- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)

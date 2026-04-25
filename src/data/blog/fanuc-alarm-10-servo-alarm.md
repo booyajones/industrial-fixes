@@ -42,3 +42,11 @@ Fanuc alarm 10 means servo alarm on the X-axis — specifically, the X-axis serv
 ## When to Call a Pro
 
 Servo amplifier internal faults and motor rewinding are beyond field service. A Fanuc-certified technician with FOCAS diagnostics tools can differentiate amplifier failure from motor failure quickly.
+
+## Related Articles
+
+- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
+- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
+- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)
+- [Fanuc Alarm 3 — Overtravel Minus Hardware Causes & Fix](/posts/fanuc-alarm-3-overtravel/)

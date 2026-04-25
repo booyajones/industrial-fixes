@@ -61,3 +61,11 @@ The Trane XR13 is a 13 SEER single-stage central air conditioner in Trane's valu
 ## When to Call a Pro
 
 Any investigation of low-pressure or high-pressure faults that goes beyond visual inspection and switch testing requires refrigerant manifold gauges and EPA 608 certification. If the compressor hums but won't start, test the capacitor first — a failed run capacitor is the most common cause of compressor no-start on XR13 units.
+
+## Related Articles
+
+- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
+- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
+- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
+- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
+- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)

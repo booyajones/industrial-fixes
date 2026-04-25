@@ -43,3 +43,11 @@ Rheem furnace **error code 57** indicates a **low-stage pressure switch fault** 
 ## When to Call a Pro
 
 If the inducer runs at full speed, the hose is clear, and a new pressure switch still gives code 57, the flue vent may be partially blocked or the heat exchanger may have a crack affecting combustion airflow. Both require a tech with combustion analyzer and inspection camera.
+
+## Related Articles
+
+- [Rheem Classic Series Furnace Error Codes — Complete Guide](/posts/rheem-classic-furnace-error-codes/)
+- [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)
+- [Rheem Furnace 2 Flashes — Pressure Switch Fault](/posts/rheem-furnace-2-flashes/)
+- [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)
+- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)

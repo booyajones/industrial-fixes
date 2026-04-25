@@ -42,3 +42,11 @@ Six LED flashes on a Trane furnace control board indicates the rollout switch ha
 ## When to Call a Pro
 
 A tripped rollout switch that cannot be attributed to a blocked flue is a strong indicator of a cracked heat exchanger — a condition that poses carbon monoxide risk. Do not operate the furnace until a licensed technician performs a full heat exchanger inspection.
+
+## Related Articles
+
+- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
+- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
+- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
+- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
+- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)

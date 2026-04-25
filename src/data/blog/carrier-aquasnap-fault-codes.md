@@ -65,3 +65,11 @@ The i-Vue touchscreen shows alarm icons in the top bar. Tap the icon to see faul
 
 ## When to Call a Pro
 Carrier (Carrier Commercial Service) handles refrigerant work and compressor replacement. Call 1-800-379-6484 for service support.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

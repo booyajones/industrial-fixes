@@ -62,3 +62,11 @@ Verify all condenser fan motors are running and drawing rated amps. Wash the con
 | Inducer motor | [Amazon](https://www.amazon.com/s?k=Inducer+motor&tag=errorcodefixes-20) \| Check capacitor before replacing motor |
 | Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Verify switch spec matches flue pressure measured |
 > **Pro tip:** Carrier WeatherMaker IFC boards store the last 5 fault codes. Hold the diagnostic button 5 seconds to retrieve fault history before clearing codes.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

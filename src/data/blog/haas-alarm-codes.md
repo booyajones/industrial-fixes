@@ -79,3 +79,11 @@ The spindle encoder is not providing a clean signal. Check the encoder cable con
 | E-stop relay | [Amazon](https://www.amazon.com/s?k=E-stop+relay&tag=errorcodefixes-20) \| Safety relay in control cabinet |
 ## When to Call a Pro
 Alarms 108, 111–114 (servo faults on any axis) that persist after a power cycle indicate servo drive or motor issues that require Haas factory service or a Haas certified technician to diagnose. Haas provides phone support 24/7 for production-down situations.
+
+## Related Articles
+
+- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
+- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
+- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
+- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
+- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)

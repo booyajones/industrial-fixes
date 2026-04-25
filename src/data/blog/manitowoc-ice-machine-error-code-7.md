@@ -42,3 +42,11 @@ Manitowoc error code 7 on Indigo and older electromechanical models indicates a 
 ## When to Call a Pro
 
 If code 7 persists after clearing ice and confirming the sensor is unobstructed, the Indigo controller board may have a failed input or the sensor may require calibration. Contact a Manitowoc-authorized service technician for Indigo controller diagnostics.
+
+## Related Articles
+
+- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
+- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
+- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
+- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
+- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)

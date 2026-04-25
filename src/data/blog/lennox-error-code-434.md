@@ -46,3 +46,11 @@ Lennox error code 434 appears on iComfort communicating systems when the indoor 
 ## When to Call a Pro
 
 If you've confirmed communication wiring, fuse, and 24VAC but the outdoor unit still won't appear in the iComfort system map, the board replacement requires programming the new board to recognize the refrigerant charge and system configuration. Lennox dealers have the iComfort commissioning tool to complete that setup — without it, the system may not operate at rated efficiency.
+
+## Related Articles
+
+- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
+- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
+- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
+- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
+- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)

@@ -60,3 +60,10 @@ If you've cleaned or replaced the flame sensor and the 5-flash lockout persists,
 
 > **Pro tip:** Before ordering a replacement flame sensor, measure the microamp signal with a multimeter set to DC microamps in series with the sensor wire. A reading below 1.5 µA confirms a bad sensor. A reading of 0 µA often means a broken wire or cracked ceramic. A reading above 1.5 µA but still faulting usually points to the control board's sense circuit — save yourself a wasted parts order.
 
+## Related Articles
+
+- [Rheem Classic Series Furnace Error Codes — Complete Guide](/posts/rheem-classic-furnace-error-codes/)
+- [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)
+- [Rheem Furnace 2 Flashes — Pressure Switch Fault](/posts/rheem-furnace-2-flashes/)
+- [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)
+- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)

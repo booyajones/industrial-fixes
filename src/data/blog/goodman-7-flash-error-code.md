@@ -54,3 +54,11 @@ If both sensor and igniter check out and gas is flowing: the control board gas v
 ## When to Call a Technician
 
 Flame sensor cleaning and igniter replacement are appropriate DIY repairs. Gas valve replacement and gas pressure adjustment require a licensed HVAC technician. If the board is involved, a tech can perform a faster diagnosis using a service analyzer.
+
+## Related Articles
+
+- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
+- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)
+- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
+- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
+- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)

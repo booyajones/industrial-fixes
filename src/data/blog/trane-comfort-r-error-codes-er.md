@@ -45,3 +45,11 @@ The ER code on a Trane ComfortR communicating system indicates a communication e
 ## When to Call a Pro
 
 Trane communicating system diagnostics require familiarity with the ComfortLink II architecture and access to Trane's service tool or diagnostic port. If you cannot isolate the faulty component after power cycling and wiring inspection, call a Trane-certified technician who has the diagnostic software.
+
+## Related Articles
+
+- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
+- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
+- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
+- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
+- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)

@@ -83,3 +83,11 @@ Code 5 (rollout or flame without call) and code 9 (reversed polarity) require te
 - [Rheem Furnace 5 Flashes Error Code — Flame Sensor Fault Fix](/posts/rheem-furnace-5-flashes-flame-sensor/)
 - [Rheem Furnace 9 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-9-flashes/)
 - [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)
+
+## Related Articles
+
+- [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)
+- [Rheem Furnace 2 Flashes — Pressure Switch Fault](/posts/rheem-furnace-2-flashes/)
+- [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)
+- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)
+- [Rheem Furnace 5 Flashes Error Code — Flame Sensor Fault Fix](/posts/rheem-furnace-5-flashes-flame-sensor/)

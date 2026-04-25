@@ -57,3 +57,11 @@ On Mitsubishi systems, P1 is also used in some models to indicate a refrigerant 
 If coil freezing returns after cleaning the filter and confirming good airflow, you almost certainly have a refrigerant leak. Refrigerant work requires EPA Section 608 certification — this is not a DIY repair. A tech needs to find the leak, recover the remaining charge, repair the leak, pressure test, evacuate to 500 microns, and recharge to the nameplate specification. Tell them: "Mitsubishi P1 freeze fault, filter is clean, fan runs fine. I suspect low refrigerant — I need a leak check and charge verification."
 
 > **Pro tip:** Mitsubishi mini splits have a minimum operating temperature for cooling mode. If you're in a climate where summer nights drop below 60°F, running the system in AUTO mode overnight can trigger P1 as the evaporator gets pushed to extremely low temperatures chasing a setpoint in cooler-than-rated conditions. Switch to HEAT or FAN ONLY when ambient temps fall below 65°F.
+
+## Related Articles
+
+- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
+- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
+- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
+- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
+- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)

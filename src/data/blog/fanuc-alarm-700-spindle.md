@@ -46,3 +46,11 @@ Fanuc alarm **700** means the spindle motor temperature exceeded the safe limit 
 | Air filter media | [Amazon](https://www.amazon.com/s?k=Air+filter+media&tag=errorcodefixes-20) \| Some machines use filtered spindle blower air |
 ## When to Call a Pro
 If alarm 700 returns after cooling airflow is restored, the spindle bearings or spindle motor itself may be failing. Bearing replacement and spindle rebuild work should go to a qualified machine tool technician.
+
+## Related Articles
+
+- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
+- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
+- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
+- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)

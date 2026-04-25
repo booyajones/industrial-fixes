@@ -62,3 +62,11 @@ The XR95 uses a silicon nitride hot-surface igniter. Typical life is 5–10 year
 | IFC control board | [Amazon](https://www.amazon.com/s?k=IFC+control+board&tag=errorcodefixes-20) \| CNT05369 or match board label |
 ## When to Call a Pro
 If 3-flash (high limit) or 2-flash codes repeat after cleaning the condensate trap and replacing the filter, a technician should inspect the secondary heat exchanger for scale buildup or damage. Chemical descaling of a plugged secondary coil is a service-level repair.
+
+## Related Articles
+
+- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
+- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
+- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
+- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
+- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)

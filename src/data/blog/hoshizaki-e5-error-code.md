@@ -42,3 +42,11 @@ Hoshizaki error code E5 means high-temperature shutdown — the control board de
 ## When to Call a Pro
 
 If the condenser is clean, fan is running, and ambient temperature is acceptable, but E5 persists, the refrigerant system needs pressure testing. A certified refrigeration technician can diagnose high-side pressure and compressor condition.
+
+## Related Articles
+
+- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)
+- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)
+- [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)
+- [Hoshizaki E2 Error Code — Harvest Fault Fix](/posts/hoshizaki-e2-error-code/)
+- [Hoshizaki E3 Error Code — Causes & Fix](/posts/hoshizaki-e3-error-code/)

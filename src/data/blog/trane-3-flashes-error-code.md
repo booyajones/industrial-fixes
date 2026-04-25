@@ -61,3 +61,11 @@ Pressure switch diagnosis is straightforward for someone comfortable with basic 
 - [Trane 7 Flashes Error Code — Gas Valve Circuit Fault Fix](/posts/trane-7-flashes-error-code/)
 - [Trane XE80 Furnace Error Codes — Fault Code Guide](/posts/trane-xe80-error-codes/)
 - [Trane XV20i/XV18 Variable Speed Heat Pump Error Codes](/posts/trane-variable-speed-heat-pump-codes/)
+
+## Related Articles
+
+- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
+- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
+- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
+- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
+- [Trane 4 Flashes Error Code — Open High Limit Fix](/posts/trane-4-flashes-error-code/)

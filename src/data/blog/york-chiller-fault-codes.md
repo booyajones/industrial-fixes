@@ -68,3 +68,11 @@ The YVVA uses variable-speed compressors and fans. Additional faults include:
 
 ## When to Call a Pro
 York (Johnson Controls) has service centers nationwide. Contact 1-877-874-7378. Refrigerant work requires EPA Section 608 certification.
+
+## Related Articles
+
+- [York 2 Flashes Error Code — Causes & Fix](/posts/york-2-flashes-error-code/)
+- [York 3 Flashes Error Code — Causes & Fix](/posts/york-3-flashes-error-code/)
+- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
+- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
+- [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)

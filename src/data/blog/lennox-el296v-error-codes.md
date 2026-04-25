@@ -123,3 +123,11 @@ The EL296V has a two-stage inducer and two-stage pressure switches. In first-sta
 - [Lennox Error Code 434 — Ignition Lockout Fix](/posts/lennox-error-code-434/)
 - [Lennox Error Code 411 — High Limit Diagnosis](/posts/lennox-error-code-411/)
 - [Lennox iComfort Error Codes — Communicating System Guide](/posts/lennox-icomfort-error-codes/)
+
+## Related Articles
+
+- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
+- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
+- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
+- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
+- [Lennox Error Code 114 — Causes & Fix](/posts/lennox-error-code-114/)

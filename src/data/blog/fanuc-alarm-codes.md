@@ -70,3 +70,11 @@ Most Fanuc alarms clear with the RESET key on the MDI panel after the cause is f
 | Servo amplifier | [Amazon](https://www.amazon.com/s?k=Servo+amplifier&tag=errorcodefixes-20) \| A06B-6140 series (0i-D) or A06B-6141 series (0i-F) |
 ## When to Call a Pro
 Alarm 414 (FSSB communication failure across multiple axes), SYS (system) alarms, and SP spindle alarms with no clear mechanical cause require a Fanuc-trained service engineer. Fanuc has 24-hour phone support for production-critical alarm conditions.
+
+## Related Articles
+
+- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
+- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
+- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
+- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)

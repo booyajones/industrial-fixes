@@ -119,3 +119,11 @@ A: Not recommended. The Infinity system uses proprietary communication protocol.
 **Q: The Infinity Touch is 10 years old. Should I replace the thermostat or the whole system?**
 
 A: The thermostat itself is rarely the reason to replace a system. If the HVAC equipment is working but the thermostat screen has failed or it won't communicate, replacing the thermostat alone (around $200–$400 installed) is almost always the right call. Only consider a full system replacement if the equipment itself has major mechanical issues.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

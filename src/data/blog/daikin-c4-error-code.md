@@ -43,3 +43,11 @@ Daikin error code **C4** indicates an **indoor heat exchanger coil sensor fault*
 | Indoor PCB | [Amazon](https://www.amazon.com/s?k=Indoor+PCB&tag=errorcodefixes-20) \| Only if thermistor and wiring test good |
 ## When to Call a Pro
 If the sensor tests correctly but C4 returns, the indoor control board likely has a bad thermistor input circuit. A technician can confirm before you order a PCB.
+
+## Related Articles
+
+- [Daikin A3 Error Code — Causes & Fix](/posts/daikin-a3-error-code/)
+- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
+- [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)
+- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)
+- [Daikin E3 Error Code — Causes & Fix](/posts/daikin-e3-error-code/)

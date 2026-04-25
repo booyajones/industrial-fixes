@@ -43,3 +43,11 @@ Eight flashes on a Trane furnace status LED indicates an **indoor blower (circul
 ## When to Call a Pro
 
 ECM (variable-speed) motors on Trane XV and XC series require a matched control module. If you replace an ECM motor without the correct module, the fault will persist. Have a technician confirm the ECM module is communicating properly before condemning the motor.
+
+## Related Articles
+
+- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
+- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
+- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
+- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
+- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)

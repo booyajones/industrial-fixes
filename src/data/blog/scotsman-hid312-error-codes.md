@@ -65,3 +65,11 @@ The Scotsman HID312 is a self-contained cube ice machine and dispenser producing
 ## When to Call a Pro
 
 Scotsman's SmartBoard can be interfaced with the Scotsman Remote Monitoring system (SRM) for cloud-connected diagnostics. A certified Scotsman service agent has access to the full fault log and can remotely adjust configuration parameters. Refrigerant service requires EPA 608 certification.
+
+## Related Articles
+
+- [Scotsman C0522 Error Codes — Fix Guide](/posts/scotsman-c0522-error-codes/)
+- [Scotsman HID525 Error Codes — Complete Guide](/posts/scotsman-hid525-error-codes/)
+- [Scotsman Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/scotsman-ice-machine-complete-guide/)
+- [Scotsman Ice Machine Error Code 1 — High Pressure Cutout Fix](/posts/scotsman-ice-machine-error-code-1/)
+- [Scotsman Ice Machine Error Code 2 — Causes & Fix](/posts/scotsman-ice-machine-error-code-2/)

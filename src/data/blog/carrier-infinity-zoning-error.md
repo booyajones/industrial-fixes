@@ -85,3 +85,11 @@ Confirm each damper has a unique address. Duplicate addresses cause communicatio
 
 ## When to Call a Pro
 Carrier Infinity system programming and zoning configuration requires a qualified HVAC technician. Contact a Carrier authorized dealer for system diagnostics.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

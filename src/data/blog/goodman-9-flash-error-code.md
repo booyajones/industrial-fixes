@@ -44,3 +44,11 @@ Nine flashes on a Goodman furnace diagnostic LED indicates reversed line and loa
 ## When to Call a Pro
 
 If you are not comfortable working inside an electrical panel or disconnect, call a licensed electrician. Reversed polarity at the panel is a shock hazard and should be corrected by someone qualified to work on live electrical systems. Once polarity is confirmed correct, the HVAC system should require no further repair.
+
+## Related Articles
+
+- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
+- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)
+- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
+- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
+- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)

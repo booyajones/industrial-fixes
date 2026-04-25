@@ -44,3 +44,11 @@ The ABB ACS355 is a general-purpose variable frequency drive designed for pump, 
 ## When to Call a Pro
 
 If all three supply phases are confirmed present and balanced at the panel but fault 3130 still appears at the drive, the rectifier input section of the drive may be damaged. This requires an ABB-certified technician or drive repair shop to diagnose and repair at the board level.
+
+## Related Articles
+
+- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
+- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
+- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
+- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
+- [ABB ACS550 AF10 Fault — Causes & Fix](/posts/abb-acs550-af10-heatsink/)

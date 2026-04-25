@@ -42,3 +42,11 @@ The Allen Bradley PowerFlex 40 **F7 fault** is a **Motor Overload** (electronic 
 ## When to Call a Pro
 
 If F7 persists after correcting P033 and the load runs freely with current below nameplate, the motor may have degraded insulation or a winding fault. A motor shop can perform a megohm test and winding resistance check to confirm.
+
+## Related Articles
+
+- [Allen-Bradley MicroLogix 1400 Common Fault Codes](/posts/allen-bradley-micrologix-fault/)
+- [Allen-Bradley PowerFlex 40 Complete Fault Code Guide](/posts/allen-bradley-powerflex-40-complete-guide/)
+- [Allen Bradley PowerFlex 40 F2 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f2-fault/)
+- [Allen-Bradley PowerFlex 40 F3 Fault — Power Loss](/posts/allen-bradley-powerflex-40-f3/)
+- [Allen-Bradley PowerFlex 4M Fault Codes — F2, F4, F5, F7, F12 Fix Guide](/posts/allen-bradley-powerflex-4m-fault-codes/)

@@ -51,3 +51,11 @@ Similar to 4 flashes but on newer control boards. Check duct static pressure if 
 
 ## When to Call a Pro
 If the 5-flash (flame without call) or 7-flash (gas valve fault) code appears, turn off the gas supply to the furnace and call a licensed HVAC technician. These codes can indicate a gas valve that won't close fully — a fire and CO hazard.
+
+## Related Articles
+
+- [York 2 Flashes Error Code — Causes & Fix](/posts/york-2-flashes-error-code/)
+- [York 3 Flashes Error Code — Causes & Fix](/posts/york-3-flashes-error-code/)
+- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
+- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
+- [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)

@@ -56,3 +56,11 @@ Check for 24 VAC at the reversing valve solenoid in heating mode. A stuck valve 
 | Contactor | [Amazon](https://www.amazon.com/s?k=Contactor&tag=errorcodefixes-20) \| Check for pitted contacts |
 | Low-pressure switch | [Amazon](https://www.amazon.com/s?k=Low-pressure+switch&tag=errorcodefixes-20) \| Match pressure setpoint |
 > **Pro tip:** Goodman GPH packaged units have the reversing valve energized in cooling mode. If you're testing in heating mode and the valve is de-energized, confirm the solenoid is not stuck energized from a previous short.
+
+## Related Articles
+
+- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
+- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)
+- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
+- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
+- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)

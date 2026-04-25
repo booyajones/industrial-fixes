@@ -43,3 +43,11 @@ The Hoshizaki KM-1301 is a large-capacity crescent cuber used in hotels, restaur
 | Water inlet valve | [Amazon](https://www.amazon.com/s?k=Water+inlet+valve&tag=errorcodefixes-20) \| If leaking or slow-filling |
 ## When to Call a Pro
 If the KM-1301 is running long cycles with a clean condenser and good water flow, the issue may be refrigerant charge, a restricted TXV, or a hot gas valve problem. Those are refrigeration service jobs.
+
+## Related Articles
+
+- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)
+- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)
+- [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)
+- [Hoshizaki E2 Error Code — Harvest Fault Fix](/posts/hoshizaki-e2-error-code/)
+- [Hoshizaki E3 Error Code — Causes & Fix](/posts/hoshizaki-e3-error-code/)

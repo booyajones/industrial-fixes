@@ -61,3 +61,11 @@ Pumping applications with fast deceleration cause motor regeneration. Increase d
 | Input fuses | [Amazon](https://www.amazon.com/s?k=Input+fuses&tag=errorcodefixes-20) \| Class J or CC ΓÇö match ampere rating |
 | Brake resistor | [Amazon](https://www.amazon.com/s?k=Brake+resistor&tag=errorcodefixes-20) \| Match ohm and watt rating to drive |
 > **Pro tip:** PowerFlex 70 stores fault queue (F01ΓÇôF08 parameters in the fault log group). Access via HIM: DIAGNOSTICS ΓåÆ FAULT LOG. Always review the full fault queue ΓÇö a single event often produces multiple faults in sequence that tell the root cause story.
+
+## Related Articles
+
+- [Allen-Bradley MicroLogix 1400 Common Fault Codes](/posts/allen-bradley-micrologix-fault/)
+- [Allen-Bradley PowerFlex 40 Complete Fault Code Guide](/posts/allen-bradley-powerflex-40-complete-guide/)
+- [Allen Bradley PowerFlex 40 F2 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f2-fault/)
+- [Allen-Bradley PowerFlex 40 F3 Fault — Power Loss](/posts/allen-bradley-powerflex-40-f3/)
+- [Allen Bradley PowerFlex 40 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f7-fault/)

@@ -59,3 +59,11 @@ On ComfortNet systems, the blower motor is typically a variable-speed ECM. A fau
 
 ## When to Call a Pro
 F5 (rollout) is a mandatory technician call — this is a safety fault, not a normal operating fault. Refrigerant-related outdoor unit faults also require licensed HVAC/R service.
+
+## Related Articles
+
+- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
+- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)
+- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
+- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
+- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)

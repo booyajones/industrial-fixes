@@ -64,3 +64,11 @@ VRF systems with U4 are genuinely complex to diagnose — a single wiring error 
 Daikin VRV/VRF systems are among the most complex commercial HVAC systems in the field. PCB replacement on commercial VRF outdoor units requires Daikin factory training and access to their technical service resources. Incorrect PCB handling (ESD damage, wrong replacement board) on a commercial outdoor unit can result in a $10,000+ write-off. If the above diagnostic steps don't isolate the communication fault, contact Daikin's commercial technical support line (1-855-324-5462) or a Daikin-authorized VRF service contractor. Many regions have Daikin factory-authorized service centers with remote diagnostics capabilities via the VRV system's BACnet or Modbus interface.
 
 > **Pro tip:** The most common installation error causing U4 on commercial Daikin VRF is star-wired communication cabling. Installers familiar with residential or light commercial work sometimes run a separate wire from the outdoor unit to each indoor unit, creating a star topology. Daikin VRF requires a true daisy-chain — one continuous bus from the outdoor unit through each indoor unit in sequence, terminating at the last unit. If U4 appeared from day one of commissioning, photograph the communication wiring before touching anything. A star topology is immediately visible in the photo and avoids hours of PCB chasing.
+
+## Related Articles
+
+- [Daikin A3 Error Code — Causes & Fix](/posts/daikin-a3-error-code/)
+- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
+- [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
+- [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)
+- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)

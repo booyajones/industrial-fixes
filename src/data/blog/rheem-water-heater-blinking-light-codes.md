@@ -149,3 +149,11 @@ Typically 8–12 years, but can fail sooner in areas with dusty or humid environ
 
 **Is a Rheem blinking light code dangerous?**
 Most codes just mean the heater shut itself off as a safety measure. The exception is 9 blinks (venting fault) — this can indicate a carbon monoxide risk. If you get a 9-blink code, don't restart the unit until you've inspected the full exhaust path.
+
+## Related Articles
+
+- [Rheem Classic Series Furnace Error Codes — Complete Guide](/posts/rheem-classic-furnace-error-codes/)
+- [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)
+- [Rheem Furnace 2 Flashes — Pressure Switch Fault](/posts/rheem-furnace-2-flashes/)
+- [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)
+- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)

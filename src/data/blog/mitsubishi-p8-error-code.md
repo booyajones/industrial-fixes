@@ -44,3 +44,11 @@ P8 on a Mitsubishi mini-split system indicates a compressor fault — specifical
 ## When to Call a Pro
 
 P8 involving a compressor or IPM failure requires a licensed HVAC technician with inverter drive diagnostic experience. Compressor replacement on a mini-split also requires refrigerant recovery and recharge — EPA 608 certification is required.
+
+## Related Articles
+
+- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
+- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
+- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
+- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
+- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)

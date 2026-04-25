@@ -73,3 +73,11 @@ The Rinnai RUR series (RUR160iN, RUR199iN, RUR160eN, RUR199eN) are condensing ta
 ## When to Call a Pro
 
 Thermal fuse replacement and gas valve diagnosis require licensed plumbing and/or gas technicians in most jurisdictions. If Code 14 has tripped, do not simply replace the fuse and restart — the underlying cause (heat exchanger scale, blocked flue) must be corrected. Contact Rinnai technical support (1-800-621-9419) for warranty assistance.
+
+## Related Articles
+
+- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)
+- [Rinnai Error Code 11 No Ignition — Causes & Fix](/posts/rinnai-error-code-11-ignition/)
+- [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
+- [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
+- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)

@@ -42,3 +42,11 @@ Mitsubishi error code U1 indicates a voltage imbalance or phase detection fault.
 ## When to Call a Pro
 
 Voltage problems and electrical service work require a licensed electrician. If the supply voltage is confirmed good but U1 persists, the inverter board requires evaluation by a Mitsubishi-authorized technician with access to diagnostic software.
+
+## Related Articles
+
+- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
+- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
+- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
+- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
+- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)

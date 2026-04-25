@@ -56,3 +56,11 @@ This code is extremely common in commercial kitchens, particularly in high-use e
 | Float switch | 4A2734-01 | $40-$55 | [Amazon](https://www.amazon.com/s?k=hoshizaki+4A2734-01+float+switch&tag=errorcodefixes-20) \| Parts Town |
 | Inlet valve strainer | 4A3237-01 | $8-$15 | Parts Town |
 | Water supply line (braided SS, 6ft) | — | $12-$20 | [Amazon](https://www.amazon.com/s?k=braided+stainless+water+supply+line+6ft&tag=errorcodefixes-20) \| Home Depot |
+
+## Related Articles
+
+- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)
+- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)
+- [Hoshizaki E2 Error Code — Harvest Fault Fix](/posts/hoshizaki-e2-error-code/)
+- [Hoshizaki E3 Error Code — Causes & Fix](/posts/hoshizaki-e3-error-code/)
+- [Hoshizaki E4 Error Code — Causes & Fix](/posts/hoshizaki-e4-error-code/)

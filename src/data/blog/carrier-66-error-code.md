@@ -48,3 +48,11 @@ Lint, dust, and debris can accumulate on the inducer wheel blades, reducing airf
 
 ## When to Call a Pro
 If clearing the condensate trap and inspecting the hose don't resolve code 66, a technician should measure the actual pressure at the switch port using a manometer to determine whether the inducer is developing adequate draft. Flue system modifications or inducer motor replacement require licensed HVAC service.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

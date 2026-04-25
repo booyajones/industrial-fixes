@@ -43,3 +43,11 @@ Nine flashes on a Trane furnace status LED indicates a **low or no flame signal*
 ## When to Call a Pro
 
 If cleaning the flame sensor and verifying gas pressure don't resolve the fault, and the furnace consistently fails to hold flame, suspect a cracked heat exchanger pulling excess combustion air across the burner. This is a safety issue requiring professional inspection — do not continue operating the furnace.
+
+## Related Articles
+
+- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
+- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
+- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
+- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
+- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)

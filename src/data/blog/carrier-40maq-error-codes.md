@@ -48,3 +48,11 @@ The Carrier 40MAQ and 40MVC are single-zone mini-split indoor units paired with 
 ## When to Call a Pro
 
 P1/P2 refrigerant pressure codes require EPA 608 certification to access refrigerant and add/recover charge. Always call a licensed HVAC technician for refrigerant work on Carrier mini splits.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

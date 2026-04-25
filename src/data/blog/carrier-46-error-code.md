@@ -44,3 +44,11 @@ Code 46 is distinct from most other Carrier fault codes because it originates fr
 | Low-voltage wire | [Amazon](https://www.amazon.com/s?k=Low-voltage+wire&tag=errorcodefixes-20) \| 18/5 or 18/8 thermostat cable if wiring needs replacement |
 ## When to Call a Pro
 If code 46 appears along with signs of burning smell, visible scorch marks on the board, or damaged wiring, stop operating the furnace and call an HVAC technician. Damaged control boards can be a fire risk in rare cases.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

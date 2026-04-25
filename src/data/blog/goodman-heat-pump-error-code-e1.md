@@ -42,3 +42,11 @@ On Goodman heat pump systems, error code **E1** typically indicates a **high-pre
 | Outdoor fan capacitor | [Amazon](https://www.amazon.com/s?k=Outdoor+fan+capacitor&tag=errorcodefixes-20) \| 5 µF or 7.5 µF / 370V (check existing cap label) |
 ## When to Call a Pro
 If E1 returns after a reset and the outdoor coil is clean, have a certified HVAC tech check refrigerant pressures. A low charge means there's a leak — adding refrigerant without finding the leak is a waste of money and harms the environment.
+
+## Related Articles
+
+- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
+- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)
+- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
+- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
+- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)

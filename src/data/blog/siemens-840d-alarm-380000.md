@@ -42,3 +42,11 @@ Alarm 380000 on the Siemens Sinumerik 840D indicates a drive enable signal is mi
 ## When to Call a Pro
 
 840D safety circuit and drive commissioning issues require Siemens-trained service. Do not bypass safety interlocks to clear Alarm 380000.
+
+## Related Articles
+
+- [Siemens Sinumerik 828D Alarm Codes Guide — Complete Diagnostic Reference](/posts/siemens-828d-alarm-codes/)
+- [Siemens Circuit Breaker Fault Codes - Complete Guide](/posts/siemens-circuit-breaker-fault-codes/)
+- [Siemens Desigo BMS Fault Codes - Complete Guide](/posts/siemens-desigo-fault-codes/)
+- [Siemens Cerberus/MXL Fire Alarm Fault Codes — Troubleshooting Guide](/posts/siemens-fire-alarm-fault-codes/)
+- [Siemens G120C VFD Fault Code Guide — Complete Diagnostic Reference](/posts/siemens-g120c-fault-codes/)

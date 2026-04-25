@@ -52,3 +52,11 @@ Similar to code 5, but specifically identifies the manual-reset rollout switch a
 
 ## When to Call a Pro
 Roll-out faults (5 or 8 flashes) and 9-flash polarity faults require attention beyond basic homeowner troubleshooting. If the furnace locks out more than twice in one heating season for the same code, schedule a diagnostic visit.
+
+## Related Articles
+
+- [Rheem Classic Series Furnace Error Codes — Complete Guide](/posts/rheem-classic-furnace-error-codes/)
+- [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)
+- [Rheem Furnace 2 Flashes — Pressure Switch Fault](/posts/rheem-furnace-2-flashes/)
+- [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)
+- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)

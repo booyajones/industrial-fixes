@@ -43,3 +43,11 @@ Fault E7 on a Mitsubishi FR-A800 drive indicates a CPU fault — the main contro
 ## When to Call a Pro
 
 E7 almost always requires a Mitsubishi-certified drive technician. Unauthorized firmware loading or improper control board replacement can permanently damage an FR-A800. Contact Mitsubishi Factory Automation technical support for E7 diagnosis.
+
+## Related Articles
+
+- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
+- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
+- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
+- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
+- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)

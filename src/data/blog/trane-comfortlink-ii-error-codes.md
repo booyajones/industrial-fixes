@@ -59,3 +59,11 @@ Trane's ComfortLink II is a proprietary communicating system that links the ther
 ## When to Call a Pro
 
 ComfortLink II refrigerant work (Codes 178/179) requires EPA 608 certification and access to Trane's HVAC Pro app for system commissioning. Trane's variable-speed outdoor units also use inverter-driven compressors that require specialized diagnostics — standard clamp meters and multimeters don't give valid readings on the variable-frequency output side of the drive.
+
+## Related Articles
+
+- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
+- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
+- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
+- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
+- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)

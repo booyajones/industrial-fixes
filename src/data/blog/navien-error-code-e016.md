@@ -42,3 +42,11 @@ Navien error code E016 indicates a hot surface igniter fault. The control board 
 ## When to Call a Pro
 
 If the igniter resistance is within spec and voltage is confirmed at the igniter but the unit still logs E016, the igniter may be failing under thermal load (measuring good cold but open when hot). A technician can perform in-situ resistance monitoring or perform a board-level diagnosis.
+
+## Related Articles
+
+- [Navien Error Code E001 — No Ignition Fix](/posts/navien-error-code-e001/)
+- [Navien E002 Error Code — Causes & Fix](/posts/navien-error-code-e002/)
+- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)
+- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
+- [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)

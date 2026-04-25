@@ -90,3 +90,11 @@ Check the exact definition in your model's service manual. Both codes indicate a
 4. Monitor for 10 minutes — U7 should not return if repair is complete
 
 > **Pro tip:** Mitsubishi mini-splits with DC inverter fans (common on newer models) don't use a traditional capacitor — the PCB controls fan speed via PWM signal. If replacing the motor on a DC-fan unit, confirm the replacement is rated for DC inverter drive.
+
+## Related Articles
+
+- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
+- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
+- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
+- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
+- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)

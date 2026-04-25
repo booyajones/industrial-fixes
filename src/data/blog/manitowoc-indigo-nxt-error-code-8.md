@@ -124,3 +124,11 @@ New installation error 8 usually means the hot gas bypass valve isn't wired corr
 **Q: Can I use a universal thermostat as a replacement harvest thermostat?**
 
 Only if the temperature ratings match exactly. The harvest thermostat has specific open/close temperature points designed for Manitowoc's harvest cycle timing. A universal thermostat with different setpoints will cause either premature harvest termination (ice not fully released) or extended harvest (contributing to error 8). Use OEM or verified aftermarket parts rated specifically for your Indigo NXT model.
+
+## Related Articles
+
+- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
+- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
+- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
+- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
+- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)

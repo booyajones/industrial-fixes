@@ -41,3 +41,11 @@ Haas alarm 104 means Feed Hold is active — the machine has been placed in feed
 ## When to Call a Pro
 
 If the Haas diagnostics screen shows the Feed Hold input active with no obvious external cause and all field wiring checks clean, a Haas Factory Outlet (HFO) technician can trace the I/O board signal back to the source.
+
+## Related Articles
+
+- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
+- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
+- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
+- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)
+- [Haas Alarm 106 — Causes & Fix](/posts/haas-alarm-106/)

@@ -42,3 +42,11 @@ Fault 3130 on the ABB ACS310 variable frequency drive indicates an input phase l
 ## When to Call a Pro
 
 Phase loss diagnosis requires working in live panels with dangerous voltages. If you're not qualified to work on industrial electrical enclosures with exposed live terminals, have a licensed electrician trace and repair the input circuit.
+
+## Related Articles
+
+- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
+- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
+- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
+- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
+- [ABB ACS550 AF10 Fault — Causes & Fix](/posts/abb-acs550-af10-heatsink/)

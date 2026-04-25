@@ -55,3 +55,11 @@ If no airflow or mechanical cause is found, have the heat exchanger inspected fo
 ## When to Call a Technician
 
 If the 4-flash fault persists after filter replacement and airflow corrections, have a licensed HVAC tech inspect the heat exchanger for cracks. A cracked heat exchanger is a carbon monoxide risk and the furnace should not be operated until it is inspected and cleared.
+
+## Related Articles
+
+- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
+- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
+- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
+- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
+- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)

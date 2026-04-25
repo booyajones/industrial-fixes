@@ -62,3 +62,11 @@ The Mitsubishi FR-D700 is a compact inverter drive used on conveyors, small pump
 ## When to Call a Pro
 
 Persistent CPU faults or repeated GF trips with the motor disconnected usually mean internal inverter damage. Mitsubishi drive service or a qualified controls technician should evaluate before the drive is put back into production.
+
+## Related Articles
+
+- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
+- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
+- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
+- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
+- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)

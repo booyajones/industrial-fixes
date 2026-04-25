@@ -41,3 +41,11 @@ Fault F7 on the Allen Bradley PowerFlex 523 indicates motor overload — the dri
 ## When to Call a Pro
 
 If the motor runs unloaded without fault but trips F7 immediately when loaded with correctly set parameters, the process may require a larger motor/drive. Consult a system integrator for proper sizing.
+
+## Related Articles
+
+- [Allen-Bradley MicroLogix 1400 Common Fault Codes](/posts/allen-bradley-micrologix-fault/)
+- [Allen-Bradley PowerFlex 40 Complete Fault Code Guide](/posts/allen-bradley-powerflex-40-complete-guide/)
+- [Allen Bradley PowerFlex 40 F2 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f2-fault/)
+- [Allen-Bradley PowerFlex 40 F3 Fault — Power Loss](/posts/allen-bradley-powerflex-40-f3/)
+- [Allen Bradley PowerFlex 40 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f7-fault/)

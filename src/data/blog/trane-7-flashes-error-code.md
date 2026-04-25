@@ -54,3 +54,11 @@ If the gas valve is not opening (no gas smell, no ignition) but the igniter glow
 ## When to Call a Technician
 
 Gas valve replacement and gas pressure adjustment require a licensed HVAC technician. Flame sensor cleaning and igniter replacement are appropriate for a confident DIYer comfortable with basic HVAC service.
+
+## Related Articles
+
+- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
+- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
+- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
+- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
+- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)

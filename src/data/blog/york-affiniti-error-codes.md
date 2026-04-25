@@ -54,3 +54,11 @@ R-410A high-side must stay below 590 psi. Wash condenser coil, check condenser f
 | Run capacitor | [Amazon](https://www.amazon.com/s?k=Run+capacitor&tag=errorcodefixes-20) \| Test ┬╡F with meter |
 | Blower motor | [Amazon](https://www.amazon.com/s?k=Blower+motor&tag=errorcodefixes-20) \| Check for ECM vs. PSC type |
 > **Pro tip:** York Affinity units with the communicating system log fault timestamps. Always retrieve fault history via thermostat diagnostics menu before clearing ΓÇö provides valuable intermittent fault pattern data.
+
+## Related Articles
+
+- [York 2 Flashes Error Code — Causes & Fix](/posts/york-2-flashes-error-code/)
+- [York 3 Flashes Error Code — Causes & Fix](/posts/york-3-flashes-error-code/)
+- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
+- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
+- [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)

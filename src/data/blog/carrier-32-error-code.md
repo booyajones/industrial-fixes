@@ -42,3 +42,11 @@ Carrier fault code 32 indicates a pressure switch stuck in the closed (satisfied
 ## When to Call a Pro
 
 If clearing the condensate path and replacing the pressure switch doesn't resolve the fault, the issue may be a blocked flue, failed inducer assembly, or cracked inducer housing — all of which require professional diagnosis and venting inspection.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

@@ -42,3 +42,11 @@ Manitowoc ice machine error code 3 indicates that the freeze cycle took too long
 ## When to Call a Pro
 
 Refrigerant system diagnosis and recharge require EPA 608 certification. If cleaning the condenser and confirming fan operation doesn't resolve code 3, a licensed refrigeration technician needs to check system pressures and inspect for refrigerant leaks.
+
+## Related Articles
+
+- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
+- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
+- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
+- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
+- [Manitowoc Ice Machine Error Code 4 — Water Curtain Fault Fix](/posts/manitowoc-ice-machine-error-code-4-water-curtain/)

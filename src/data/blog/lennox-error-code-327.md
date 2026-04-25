@@ -42,3 +42,11 @@ Lennox fault code 327 is a limit fault — the high-temperature limit switch ope
 ## When to Call a Pro
 
 If the limit trips with a clean filter and a confirmed-running blower, the heat exchanger may be failing or the system is significantly oversized or underducted. A technician with a manometer can measure static pressure and identify whether the ductwork is the root cause.
+
+## Related Articles
+
+- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
+- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
+- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
+- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
+- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)

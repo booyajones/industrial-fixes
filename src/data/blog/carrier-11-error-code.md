@@ -49,3 +49,11 @@ If gas supply, igniter, and flame sensor all check out but the furnace still fai
 - [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
 - [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
 - [Carrier 40MAQ / 40MVC Mini Split Error Codes — Causes & Fix](/posts/carrier-40maq-error-codes/)
+
+## Related Articles
+
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
+- [Carrier 21 Error Code — Gas Heating Lockout Fix](/posts/carrier-21-error-code/)

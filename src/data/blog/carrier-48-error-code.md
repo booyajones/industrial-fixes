@@ -80,3 +80,11 @@ The induced draft motor (inducer) pulls combustion gases through the heat exchan
 After repairing the fault, press the reset button on the control board or cycle power to clear Code 48. If the code returns within the first 5 minutes, the repair is incomplete.
 
 > **Safety:** Always shut off the disconnect and verify no voltage before working inside the unit. Induced draft motor failures can allow combustion gases to enter the building if the heat exchanger is also cracked — inspect the heat exchanger visually while you have the unit open.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

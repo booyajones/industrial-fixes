@@ -58,3 +58,11 @@ If all wiring and components test normal, the control board's flame sense input 
 
 ## When to Call a Pro
 Any indication of gas leakage is an immediate service call. Do not operate a furnace with a suspected leaking gas valve. EF codes that persist after wiring corrections require a technician to measure the flame microamp signal and inspect the gas valve coil resistance.
+
+## Related Articles
+
+- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
+- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)
+- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
+- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
+- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)

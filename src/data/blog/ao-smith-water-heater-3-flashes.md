@@ -141,3 +141,9 @@ Let the pilot burn for 5 full minutes before releasing the pilot button — ther
 
 **What's the difference between AO Smith 3 flashes and 4 flashes?**
 3 flashes = pilot outage / ignition failure (thermocouple, thermopile, gas supply). 4 flashes = igniter fault — the electronic ignition system has a problem. See our [AO Smith 4 flashes guide](/posts/ao-smith-water-heater-4-flashes) for that specific diagnosis.
+
+## Related Articles
+
+- [A.O. Smith Water Heater E1 Error Code — Sensor Fault Guide](/posts/ao-smith-error-code-e1/)
+- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
+- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)

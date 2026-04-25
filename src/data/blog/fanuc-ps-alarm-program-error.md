@@ -41,3 +41,11 @@ tags:
 ## When to Call a Pro
 
 P/S alarms are programming issues, not hardware faults — a qualified CNC programmer or applications engineer should review the program if the alarm persists after fixing apparent syntax errors. If P/S alarms appear in a previously working program without any edits, check for memory corruption or a failing compact flash card.
+
+## Related Articles
+
+- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
+- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
+- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
+- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)

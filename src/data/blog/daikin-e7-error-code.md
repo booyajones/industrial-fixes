@@ -53,3 +53,11 @@ On DC inverter fan motor units (most current Daikin mini-splits), the fan motor 
 ## When to Call a Technician
 
 DC motor diagnosis requires a wiring diagram and a multimeter capable of measuring DC motor winding resistance. Outdoor PCB replacement involves working with line voltage and inverter circuits — this should be done by a licensed HVAC/R technician. Refrigerant system handling is not involved in this repair, but inverter board work is not DIY-appropriate.
+
+## Related Articles
+
+- [Daikin A3 Error Code — Causes & Fix](/posts/daikin-a3-error-code/)
+- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
+- [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
+- [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)
+- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)

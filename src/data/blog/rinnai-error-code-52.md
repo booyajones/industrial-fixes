@@ -87,3 +87,11 @@ Rinnai outlet temperature sensors are NTC thermistors:
 5. Open a hot water fixture and verify stable outlet temperature
 
 > **Note:** Rinnai Error 52 and Error 53 are often confused. Error 52 = outlet (hot water leaving the unit); Error 53 = inlet (cold water entering the unit). Both are fixed the same way — replace the failed sensor.
+
+## Related Articles
+
+- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)
+- [Rinnai Error Code 11 No Ignition — Causes & Fix](/posts/rinnai-error-code-11-ignition/)
+- [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
+- [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
+- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)

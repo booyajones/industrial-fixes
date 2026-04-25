@@ -42,3 +42,11 @@ Manitowoc error code 2 (or "Code 2" on older models, "2" on the LED display) mea
 ## When to Call a Pro
 
 Refrigerant diagnosis and harvest valve replacement in the refrigeration circuit require an EPA 608-certified refrigeration technician. Don't attempt to add refrigerant without first finding and fixing the leak.
+
+## Related Articles
+
+- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
+- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
+- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
+- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)
+- [Manitowoc Ice Machine Error Code 4 — Water Curtain Fault Fix](/posts/manitowoc-ice-machine-error-code-4-water-curtain/)

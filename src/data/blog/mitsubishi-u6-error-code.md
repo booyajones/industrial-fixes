@@ -42,3 +42,11 @@ The Mitsubishi U6 error code indicates a **coil temperature sensor (thermistor) 
 ## When to Call a Pro
 
 If the sensor measures in-spec and connections are clean but U6 persists, the outdoor PCB has a failed input and requires replacement. Mitsubishi outdoor boards are model-specific; consult a Mitsubishi Diamond Contractor for PCB sourcing and programming verification.
+
+## Related Articles
+
+- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
+- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
+- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
+- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
+- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)

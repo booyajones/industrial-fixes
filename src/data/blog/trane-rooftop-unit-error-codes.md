@@ -82,3 +82,11 @@ Verify inducer motor is running. Check pressure switch hose for blockages. Measu
 | [Inducer motor](https://www.amazon.com/s?k=Inducer+motor&tag=errorcodefixes-20) | Check capacitor before replacing motor |
 
 > **Pro tip:** On Trane Precedent units, the IFC stores the last fault. After a power cycle, the board replays the fault code during startup via the diagnostic LED.
+
+## Related Articles
+
+- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
+- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
+- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
+- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
+- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)

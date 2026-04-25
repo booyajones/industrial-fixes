@@ -42,3 +42,11 @@ ABB fault 9300 is a **cooling fan fault** — the drive's internal cooling fan (
 ## When to Call a Pro
 
 If the fan is clean, supply voltage is present, and the fault persists, the control board's fan feedback input may be damaged. ABB drives can often be diagnosed remotely via the ABB DriveWindow or DDCS communication; contact ABB service or a certified integrator for advanced diagnostics.
+
+## Related Articles
+
+- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
+- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
+- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
+- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
+- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

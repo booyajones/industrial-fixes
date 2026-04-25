@@ -71,3 +71,11 @@ The CenTraVac centrifugal uses oil for bearing lubrication and gear lubrication.
 
 ## When to Call a Pro
 Trane has a nationwide service organization. CenTraVac centrifugal work and refrigerant handling require certified technicians. Contact Trane at 1-855-205-5611.
+
+## Related Articles
+
+- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
+- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
+- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
+- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
+- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)

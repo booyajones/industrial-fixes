@@ -84,3 +84,11 @@ Wash condenser coil with coil cleaner. Verify all condenser fans are rotating. C
 | High-pressure switch | [Amazon](https://www.amazon.com/s?k=High-pressure+switch&tag=errorcodefixes-20) \| Check setting: 410A = 590 psi, R-22 = 380 psi |
 | Run capacitor | [Amazon](https://www.amazon.com/s?k=Run+capacitor&tag=errorcodefixes-20) \| Check µF with capacitor tester |
 > **Pro tip:** Carrier RTU boards store the last 5 fault codes in memory. Access fault history by pressing and holding the LED diagnostic button for 5 seconds on 48/50 Series controls.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

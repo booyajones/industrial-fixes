@@ -42,3 +42,11 @@ Fault LF on a Yaskawa drive (A1000, V1000, GA700, GA800) stands for Output Phase
 ## When to Call a Pro
 
 Verifying LF fault with a scope or power analyzer provides better data than a clamp meter for intermittent output phase loss. Motor rewinding requires a motor shop. Always use lockout/tagout before working on drive output circuits.
+
+## Related Articles
+
+- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)
+- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
+- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)
+- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
+- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)

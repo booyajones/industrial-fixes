@@ -49,3 +49,11 @@ If the furnace locks out again within the first heat cycle after reset, or if yo
 - [Carrier 34 Error Code — Ignition Proving Failure Fix](/posts/carrier-34-error-code/)
 - [Carrier Error Code 58 — Causes & Fix](/posts/carrier-58-error-code/)
 - [Carrier Error Code 56 — IFC Fault (Induced Draft Motor)](/posts/carrier-56-error-code/)
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 21 Error Code — Gas Heating Lockout Fix](/posts/carrier-21-error-code/)

@@ -42,3 +42,11 @@ The Daikin F3 error code indicates a **discharge temperature sensor (thermistor)
 ## When to Call a Pro
 
 If the sensor and wiring test good but F3 persists, the outdoor unit PCB may have a failed thermistor input circuit. PCB replacement on Daikin outdoor units requires refrigerant system awareness and should be done by a certified HVAC technician.
+
+## Related Articles
+
+- [Daikin A3 Error Code — Causes & Fix](/posts/daikin-a3-error-code/)
+- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
+- [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
+- [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)
+- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)

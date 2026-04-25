@@ -120,3 +120,11 @@ This is normal protection, not a true fault. After compressor shutdown, the boar
 - [Rheem Furnace 3 Flashes — Pressure Switch Fault Fix](/posts/rheem-furnace-3-flashes/)
 - [Rheem Furnace 4 Flashes — Open Limit Switch Diagnosis](/posts/rheem-furnace-4-flashes/)
 - [Heat Pump Error Code Guide — All Brands](/posts/heat-pump-error-code-guide/)
+
+## Related Articles
+
+- [Rheem Classic Series Furnace Error Codes — Complete Guide](/posts/rheem-classic-furnace-error-codes/)
+- [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)
+- [Rheem Furnace 2 Flashes — Pressure Switch Fault](/posts/rheem-furnace-2-flashes/)
+- [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)
+- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)

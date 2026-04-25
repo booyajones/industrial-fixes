@@ -85,3 +85,11 @@ Navien units shut down on E024 when the heat exchanger temperature exceeds the t
 | Inlet filter screen | [Amazon](https://www.amazon.com/s?k=Inlet+filter+screen&tag=errorcodefixes-20) \| Stainless mesh — clean every 6 months in hard water areas |
 | Descaling kit | [Amazon](https://www.amazon.com/s?k=Descaling+kit&tag=errorcodefixes-20) \| Pump + hoses + solution — available from Navien or plumbing supply |
 > **Warning:** E024 is a safety shutdown. Never bypass or disable the thermal fuse. If E024 occurs repeatedly after descaling, the heat exchanger may be permanently damaged and require replacement.
+
+## Related Articles
+
+- [Navien Error Code E001 — No Ignition Fix](/posts/navien-error-code-e001/)
+- [Navien E002 Error Code — Causes & Fix](/posts/navien-error-code-e002/)
+- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)
+- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
+- [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)

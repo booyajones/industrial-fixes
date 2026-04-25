@@ -43,3 +43,11 @@ UV1 on a Yaskawa GA700 drive (GA700 = Yaskawa's heavy-duty industrial drive plat
 ## When to Call a Pro
 
 UV1 on a GA700 driving a large motor (over 30 kW) should be investigated by a qualified drive technician. Incorrect supply voltage or a failing capacitor bank on a large drive can cause dangerous fault-trip energy releases during reset attempts.
+
+## Related Articles
+
+- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)
+- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
+- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)
+- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
+- [Yaskawa Sigma-7 SGD7S Servo Drive Alarm Codes — Diagnosis & Fix](/posts/yaskawa-sigma7-sgd7s-alarm-codes/)

@@ -66,3 +66,11 @@ Fuses don't blow for no reason. Every time you replace a fuse without finding th
 ## Difference from Code 14
 
 Code 24 is **secondary fuse open** (24V control circuit). Code 14 is **ignition lockout** (failed to light after multiple tries). Don't confuse them — code 24 is always an electrical/wiring issue, never a gas or ignition issue.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

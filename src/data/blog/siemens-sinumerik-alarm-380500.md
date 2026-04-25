@@ -42,3 +42,11 @@ Siemens Sinumerik alarm 380500 (%1 is a group alarm for drive (SINAMICS/611D) fa
 ## When to Call a Pro
 
 Sinumerik 840D/840Dsl systems require Siemens commissioning software (Starter or SINAMICS Startdrive) to properly diagnose drive-level faults and re-commission servo parameters after a motor module replacement. This work is typically performed by a Siemens-certified service engineer.
+
+## Related Articles
+
+- [Siemens Sinumerik 828D Alarm Codes Guide — Complete Diagnostic Reference](/posts/siemens-828d-alarm-codes/)
+- [Siemens 840D Alarm 380000 — Causes & Fix](/posts/siemens-840d-alarm-380000/)
+- [Siemens Circuit Breaker Fault Codes - Complete Guide](/posts/siemens-circuit-breaker-fault-codes/)
+- [Siemens Desigo BMS Fault Codes - Complete Guide](/posts/siemens-desigo-fault-codes/)
+- [Siemens Cerberus/MXL Fire Alarm Fault Codes — Troubleshooting Guide](/posts/siemens-fire-alarm-fault-codes/)

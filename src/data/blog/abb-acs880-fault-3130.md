@@ -43,3 +43,11 @@ Fault 3130 (Input Phase Loss) on an ABB ACS880 drive means the drive's input pha
 ## When to Call a Pro
 
 Fault 3130 diagnosis involves live three-phase voltages up to 690 VAC. All measurements must be made by a qualified electrical technician wearing appropriate PPE. Never probe input terminals on a live drive without arc-flash assessment.
+
+## Related Articles
+
+- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
+- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
+- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
+- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
+- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

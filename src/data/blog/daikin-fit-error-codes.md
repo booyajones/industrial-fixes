@@ -126,3 +126,11 @@ The system has detected low refrigerant based on discharge superheat readings. U
 - [Daikin U4 Error Code — Transmission Fault Guide](/posts/daikin-u4-error-code/)
 - [Daikin VRV Error Codes — Commercial System Reference](/posts/daikin-vrv-error-codes/)
 - [Heat Pump Error Code Guide — All Brands](/posts/heat-pump-error-code-guide/)
+
+## Related Articles
+
+- [Daikin A3 Error Code — Causes & Fix](/posts/daikin-a3-error-code/)
+- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
+- [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
+- [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)
+- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)

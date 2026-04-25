@@ -55,3 +55,11 @@ For an encoder issue: inspect the encoder cable and connector first. If the cabl
 ## When to Call a Technician
 
 Haas servo system diagnosis — particularly encoder replacement and drive swap — should be handled by a Haas Factory Outlet (HFO) technician or experienced CNC service tech. Servo drive replacement on a live machine requires careful parameter matching to avoid axis runaway. Do not attempt drive replacement without a complete parameter backup.
+
+## Related Articles
+
+- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
+- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
+- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
+- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)
+- [Haas Alarm 106 — Causes & Fix](/posts/haas-alarm-106/)

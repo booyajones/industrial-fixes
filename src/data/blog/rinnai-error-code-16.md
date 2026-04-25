@@ -42,3 +42,11 @@ Error code 16 on a Rinnai tankless water heater indicates the combustion fan (al
 ## When to Call a Pro
 
 Gas appliance fan replacement involves working inside the combustion enclosure. If you are not confident in safely accessing the combustion section and verifying electrical circuits, have a Rinnai-authorized technician service the unit.
+
+## Related Articles
+
+- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)
+- [Rinnai Error Code 11 No Ignition — Causes & Fix](/posts/rinnai-error-code-11-ignition/)
+- [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
+- [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
+- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)

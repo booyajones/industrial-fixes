@@ -65,3 +65,11 @@ The York YCD is a commercial single-packaged gas/electric rooftop unit available
 ## When to Call a Pro
 
 York YCD packaged units are commercial equipment requiring HVAC-R licensed technicians for refrigerant work. BACnet/N2 communication troubleshooting typically requires access to the building management system and a BMS-capable service technician. Compressor replacement on a YCD is a multi-hour job requiring refrigerant recovery equipment.
+
+## Related Articles
+
+- [York 2 Flashes Error Code — Causes & Fix](/posts/york-2-flashes-error-code/)
+- [York 3 Flashes Error Code — Causes & Fix](/posts/york-3-flashes-error-code/)
+- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
+- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
+- [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)

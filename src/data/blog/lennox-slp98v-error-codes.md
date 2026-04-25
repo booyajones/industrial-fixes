@@ -74,3 +74,11 @@ The rollout switch has tripped and the board has exceeded the maximum reset atte
 | Rollout switch | [Amazon](https://www.amazon.com/s?k=Rollout+switch&tag=errorcodefixes-20) \| Lennox 19J6801 |
 ## When to Call a Pro
 The SLP98V's variable-speed ECM motor and iComfort communication system require installer-level diagnostics for anything beyond cleaning and filter replacement. Code 103 (rollout lockout) and code 411 (flame without call) require licensed technician attention before restart.
+
+## Related Articles
+
+- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
+- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
+- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
+- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
+- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)

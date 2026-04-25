@@ -42,3 +42,11 @@ The Mitsubishi U4 error code indicates a **communication fault between the indoo
 ## When to Call a Pro
 
 If all wiring tests good and both thermistors measure within spec, the outdoor PCB has likely failed. PCB replacement on Mitsubishi mini splits involves refrigerant-side interlock checks — a certified HVAC technician should perform the swap and verify system operation.
+
+## Related Articles
+
+- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
+- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
+- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
+- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
+- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)

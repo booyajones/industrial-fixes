@@ -43,3 +43,11 @@ Alarm 500 on a Mitsubishi CNC (M70, M70V, M80, M800 series controls) indicates a
 ## When to Call a Pro
 
 Mitsubishi M70/M80 servo system repair and re-parameterization requires Mitsubishi-certified technicians. Alarm 500 following a crash should trigger a machine geometry verification — axis squareness and backlash compensation may need to be re-measured before returning the machine to production.
+
+## Related Articles
+
+- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
+- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
+- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
+- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)
+- [Mitsubishi E3 Error Code — Indoor Fan Motor Fault Fix](/posts/mitsubishi-e3-error-code/)

@@ -43,3 +43,11 @@ E009 on a Navien tankless water heater or combi-boiler indicates a heat exchange
 ## When to Call a Pro
 
 If descaling and flow restoration do not resolve E009, the heat exchanger may have suffered damage from prolonged scale buildup. A licensed plumber should assess whether the heat exchanger needs replacement and whether a water softener or scale inhibitor should be added upstream of the unit.
+
+## Related Articles
+
+- [Navien Error Code E001 — No Ignition Fix](/posts/navien-error-code-e001/)
+- [Navien E002 Error Code — Causes & Fix](/posts/navien-error-code-e002/)
+- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)
+- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
+- [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)

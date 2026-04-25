@@ -55,3 +55,11 @@ After replacement, restore power and observe the blower operation through a full
 ## When to Call a Technician
 
 Diagnosing an ECM motor correctly requires understanding the difference between the motor and module — many techs replace the whole motor when only the module is failed. If you're not comfortable with electrical diagnosis or if this is a larger commercial system, have a licensed HVAC technician handle it. The repair itself (once diagnosed) is straightforward for a capable DIYer.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

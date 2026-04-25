@@ -62,3 +62,11 @@ ERV units have separate supply and exhaust fans. A fan fault means the motor is 
 
 ## When to Call a Pro
 ERV core replacement, defrost system reconfiguration, and persistent communication faults require a Lennox-certified technician. Never operate an ERV/HRV with a suspected frozen core — ice damage to the core is expensive to repair.
+
+## Related Articles
+
+- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
+- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
+- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
+- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
+- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)

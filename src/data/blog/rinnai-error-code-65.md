@@ -86,3 +86,11 @@ The most common fix for Error 65:
 4. If Error 65 returns: flow sensor is failed
 
 > **Pro tip:** In hard water areas, descale the unit annually and clean the inlet filter every 6 months. A clogged filter is responsible for the majority of Rinnai Error 65 calls.
+
+## Related Articles
+
+- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)
+- [Rinnai Error Code 11 No Ignition — Causes & Fix](/posts/rinnai-error-code-11-ignition/)
+- [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
+- [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
+- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)

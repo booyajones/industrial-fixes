@@ -128,3 +128,11 @@ A: Ground path. The flame sensor works by passing a small current through the fl
 **Q: How long should a York Affinity furnace last?**
 
 A: With annual maintenance (filter changes, cleaning, safety checks), a York Affinity can last 20–25 years. The heat exchanger typically outlasts other components. The most common age-related failures are the igniter (every 5–10 years), the inducer motor (10–15 years), and the control board (10–15 years). None of these are reasons to replace the whole system.
+
+## Related Articles
+
+- [York 2 Flashes Error Code — Causes & Fix](/posts/york-2-flashes-error-code/)
+- [York 3 Flashes Error Code — Causes & Fix](/posts/york-3-flashes-error-code/)
+- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
+- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
+- [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)

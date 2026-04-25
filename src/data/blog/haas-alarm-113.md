@@ -42,3 +42,11 @@ Haas Alarm 113 is a **spindle encoder fault** — the CNC detected that the spin
 ## When to Call a Pro
 
 Spindle encoder replacement on Haas machines often requires pulling the spindle motor and precise encoder alignment. Incorrect alignment causes tapping errors and control faults. Have a Haas Factory Outlet technician perform encoder replacement if you're not experienced with spindle disassembly.
+
+## Related Articles
+
+- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
+- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
+- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
+- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
+- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)

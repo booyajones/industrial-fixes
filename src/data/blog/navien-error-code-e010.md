@@ -42,3 +42,11 @@ Navien error code E010 indicates an air pressure sensor (APS) fault. The APS is 
 ## When to Call a Pro
 
 If the vent terminations are clear, the APS hoses are intact, and the blower is running at full speed but E010 persists, the APS calibration or the blower's actual pressure output requires measurement. This requires a manometer and familiarity with Navien's pressure specifications.
+
+## Related Articles
+
+- [Navien Error Code E001 — No Ignition Fix](/posts/navien-error-code-e001/)
+- [Navien E002 Error Code — Causes & Fix](/posts/navien-error-code-e002/)
+- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)
+- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
+- [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)

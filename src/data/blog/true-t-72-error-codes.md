@@ -62,3 +62,11 @@ The True T-72 is a three-section reach-in commercial refrigerator with three ful
 ## When to Call a Pro
 
 A T-72 with repeated E6 faults despite clean condenser and working fans may have a refrigerant charge issue — a three-section unit with a single refrigerant circuit has more complex charging requirements than a single-section unit. A licensed refrigeration technician should perform manifold gauge diagnostics and verify superheat/subcooling before any refrigerant-side work.
+
+## Related Articles
+
+- [True Refrigeration E1 Error Code — Causes & Fix](/posts/true-refrigeration-e1-error-code/)
+- [True Refrigeration E2 Error Code — Causes & Fix](/posts/true-refrigeration-e2-error-code/)
+- [True Refrigeration E3 Error Code — Causes & Fix](/posts/true-refrigeration-e3-error-code/)
+- [True Refrigeration E4 Error Code — Causes & Fix](/posts/true-refrigeration-e4-error-code/)
+- [True Refrigeration E5 Error Code — Defrost Sensor Causes & Fix](/posts/true-refrigeration-e5-error-code/)

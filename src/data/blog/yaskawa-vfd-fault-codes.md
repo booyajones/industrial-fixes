@@ -72,3 +72,11 @@ The Base Block (safe torque off) input has been activated. The drive will not pr
 | Control power fuse | [Amazon](https://www.amazon.com/s?k=Control+power+fuse&tag=errorcodefixes-20) \| 2A time-lag, model-specific |
 ## When to Call a Pro
 GF (ground fault) and SC (short circuit) faults that persist after checking the motor and cable indicate a failed drive output stage. IGBT replacement in Yaskawa drives requires authorized service.
+
+## Related Articles
+
+- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)
+- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
+- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)
+- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
+- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)

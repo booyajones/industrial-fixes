@@ -67,3 +67,11 @@ The Trane XV80 is an 80% AFUE, variable-speed gas furnace using an ECM blower mo
 ## When to Call a Pro
 
 A cracked heat exchanger in the XV80 is a carbon monoxide hazard. If the rollout switch has tripped, do not operate the furnace until a licensed technician inspects the heat exchanger. ECM motor troubleshooting also benefits from Trane's proprietary diagnostic tools available to authorized dealers.
+
+## Related Articles
+
+- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
+- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
+- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
+- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
+- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)

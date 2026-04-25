@@ -45,3 +45,11 @@ Alarm 750 on a Fanuc CNC (FS0i, FS16i, FS18i, FS21i, FS30i) is a Spindle Serial 
 ## When to Call a Pro
 
 Fanuc spindle amplifier replacement requires re-entering spindle motor parameters (SP parameters) from the backup or machine documentation. This work should be performed by a Fanuc-authorized service technician to avoid incorrect parameterization causing motor or amplifier damage.
+
+## Related Articles
+
+- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
+- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
+- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
+- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)

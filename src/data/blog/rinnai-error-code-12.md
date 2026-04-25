@@ -42,3 +42,11 @@ Rinnai error code 12 indicates flame failure — the unit ignited but the flame 
 ## When to Call a Pro
 
 Gas supply capacity testing and burner combustion analysis require a licensed gas technician. If code 12 appears only at full flow rates, the gas line may be undersized — a tech can verify with a manometer.
+
+## Related Articles
+
+- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)
+- [Rinnai Error Code 11 No Ignition — Causes & Fix](/posts/rinnai-error-code-11-ignition/)
+- [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
+- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)
+- [Rinnai Error Code 16 — Causes & Fix](/posts/rinnai-error-code-16/)

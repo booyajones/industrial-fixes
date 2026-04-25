@@ -59,3 +59,11 @@ York, Coleman, and Luxaire are all manufactured by Johnson Controls and share th
 If the flue or intake is blocked with ice, do not attempt to run the furnace. On cold days, ice can reblock a cleared line within hours — the root cause is usually flue pipe that runs too horizontally, is too close to the ground, or has inadequate slope. Correcting the flue routing requires a licensed HVAC contractor. Similarly, if the inducer motor has failed, replacement on a York 90%+ unit involves removing the secondary heat exchanger in some configurations — a job that requires experience to avoid damaging the plastic heat exchanger. A cracked or failed secondary heat exchanger is a carbon monoxide risk and must be confirmed clear before returning the unit to service.
 
 > **Pro tip:** York furnaces with a 6-flash fault that clears on its own during warm weather and returns every winter almost always have a condensate freeze problem. The fix is adding freeze protection to the condensate line or rerouting it away from exterior walls — not replacing parts.
+
+## Related Articles
+
+- [York 2 Flashes Error Code — Causes & Fix](/posts/york-2-flashes-error-code/)
+- [York 3 Flashes Error Code — Causes & Fix](/posts/york-3-flashes-error-code/)
+- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
+- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
+- [York 7 Flashes Error Code — Ignition Lockout Fix](/posts/york-7-flashes-error-code/)

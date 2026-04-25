@@ -61,3 +61,11 @@ If the 4-flash fault returns after correcting airflow and replacing the limit sw
 - [Rheem RGPS Furnace Error Codes — Flash Code Diagnostic Guide](/posts/rheem-rgps-error-codes/)
 - [Rheem Classic Series Furnace Error Codes — Complete Guide](/posts/rheem-classic-furnace-error-codes/)
 - [Rheem Furnace 8 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-8-flashes/)
+
+## Related Articles
+
+- [Rheem Classic Series Furnace Error Codes — Complete Guide](/posts/rheem-classic-furnace-error-codes/)
+- [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)
+- [Rheem Furnace 2 Flashes — Pressure Switch Fault](/posts/rheem-furnace-2-flashes/)
+- [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)
+- [Rheem Furnace 5 Flashes Error Code — Flame Sensor Fault Fix](/posts/rheem-furnace-5-flashes-flame-sensor/)

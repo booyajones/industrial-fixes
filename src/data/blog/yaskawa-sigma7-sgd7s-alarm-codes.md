@@ -102,3 +102,11 @@ If AL.10 (overcurrent) or AL.32 (IGBT failure) persists after confirming the mot
 - [Mitsubishi MR-J4 Servo Amplifier Alarm Codes](/posts/mitsubishi-mr-j4-servo-alarm-codes/)
 - [Fanuc Servo Alarm 400 — Servo Axis Not Ready](/posts/fanuc-alarm-400/)
 - [Servo Motor Fault Codes Guide](/posts/servo-motor-fault-codes/)
+
+## Related Articles
+
+- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)
+- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
+- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)
+- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
+- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)

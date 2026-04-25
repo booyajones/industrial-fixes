@@ -123,3 +123,11 @@ If your air handler and outdoor unit are ComfortLink II compatible (XL and XV se
 **Q: How do I find the fault history on the XL950 vs. the older XL850?**
 
 On the **XL950**: tap the Menu icon → Equipment → Faults. On the **XL850**: press Menu → Diagnostics → Fault History. Both store up to 25 faults with timestamps. On the older Comfort Control II, you access faults by pressing and holding the fan icon for 5 seconds.
+
+## Related Articles
+
+- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
+- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
+- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
+- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
+- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)

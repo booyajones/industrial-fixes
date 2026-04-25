@@ -42,3 +42,11 @@ True Refrigeration error code E1 indicates a temperature sensor fault. On True r
 ## When to Call a Pro
 
 If the probe checks good and the controller still posts E1, you may have a board-level input fault or moisture damage inside the control housing. A commercial refrigeration tech can confirm the controller and reprogram the replacement if needed.
+
+## Related Articles
+
+- [True Refrigeration E2 Error Code — Causes & Fix](/posts/true-refrigeration-e2-error-code/)
+- [True Refrigeration E3 Error Code — Causes & Fix](/posts/true-refrigeration-e3-error-code/)
+- [True Refrigeration E4 Error Code — Causes & Fix](/posts/true-refrigeration-e4-error-code/)
+- [True Refrigeration E5 Error Code — Defrost Sensor Causes & Fix](/posts/true-refrigeration-e5-error-code/)
+- [True Refrigeration E6 Error Code — High Temperature Alarm Causes & Fix](/posts/true-refrigeration-e6-error-code/)

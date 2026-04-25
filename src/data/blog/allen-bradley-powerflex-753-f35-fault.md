@@ -42,3 +42,11 @@ The Allen Bradley PowerFlex 753 **F35 fault** is a **Heatsink Overtemperature** 
 ## When to Call a Pro
 
 If F35 returns immediately after cleaning and the internal fan is confirmed running, the thermistor itself may have failed (reading falsely high). Thermistor replacement requires drive disassembly and an authorized AB service provider or qualified industrial electrician.
+
+## Related Articles
+
+- [Allen-Bradley MicroLogix 1400 Common Fault Codes](/posts/allen-bradley-micrologix-fault/)
+- [Allen-Bradley PowerFlex 40 Complete Fault Code Guide](/posts/allen-bradley-powerflex-40-complete-guide/)
+- [Allen Bradley PowerFlex 40 F2 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f2-fault/)
+- [Allen-Bradley PowerFlex 40 F3 Fault — Power Loss](/posts/allen-bradley-powerflex-40-f3/)
+- [Allen Bradley PowerFlex 40 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f7-fault/)

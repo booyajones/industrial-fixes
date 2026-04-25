@@ -59,3 +59,11 @@ Matrix drives are sensitive to ground faults due to the direct AC-to-AC conversi
 | Input filter | [Amazon](https://www.amazon.com/s?k=Input+filter&tag=errorcodefixes-20) \| Required for matrix drive installations |
 | Bypass contactor | [Amazon](https://www.amazon.com/s?k=Bypass+contactor&tag=errorcodefixes-20) \| For maintenance bypass configurations |
 > **Pro tip:** Yaskawa U1000 drive data can be monitored via DriveWizard Industrial software. Connect via USB or DeviceNet to log operating parameters and fault data. Always perform a motor auto-tune after any parameter reset.
+
+## Related Articles
+
+- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)
+- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
+- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)
+- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
+- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)

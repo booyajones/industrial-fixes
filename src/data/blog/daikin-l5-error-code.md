@@ -89,3 +89,11 @@ L5 is a hard fault on most Daikin models:
 4. If L5 returns immediately, the compressor is failed
 
 > **Warning:** Never attempt to restart a locked compressor repeatedly. Each restart attempt on a seized compressor pushes heat into the motor windings and worsens the failure. Diagnose first, then restart once.
+
+## Related Articles
+
+- [Daikin A3 Error Code — Causes & Fix](/posts/daikin-a3-error-code/)
+- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
+- [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
+- [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)
+- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)

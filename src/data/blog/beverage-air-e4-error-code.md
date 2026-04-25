@@ -102,3 +102,9 @@ Any refrigerant leak or compressor problem requires EPA 608 certification and pr
 - [True Refrigeration E4 Error Code](/posts/true-refrigeration-e4-error-code/)
 - [Turbo Air Refrigerator Error Code E1](/posts/turbo-air-refrigerator-error-code-e1/)
 - [Commercial Refrigerator Error Codes](/posts/commercial-refrigerator-error-codes/)
+
+## Related Articles
+
+- [Beverage-Air MT27 Error Codes - What They Mean and How to Fix Them](/posts/beverage-air-mt27-error-codes/)
+- [Beverage-Air Refrigerator Error Code E1 — Causes & Fix](/posts/beverage-air-refrigerator-error-code-e1/)
+- [Beverage-Air Refrigerator Error Code E2 — Evaporator Sensor Causes & Fix](/posts/beverage-air-refrigerator-error-code-e2/)

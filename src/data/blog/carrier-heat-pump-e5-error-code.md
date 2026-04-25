@@ -41,3 +41,11 @@ Carrier heat pump error code **E5** indicates a **defrost fault** — the heat p
 | Reversing valve (if stuck) | [Amazon](https://www.amazon.com/s?k=Reversing+valve+%28if+stuck%29&tag=errorcodefixes-20) \| Mechanical replacement — requires brazing |
 ## When to Call a Pro
 Low refrigerant charge and reversing valve replacement require an EPA 608-certified HVAC technician. Don't ignore E5 — running a heat pump with a failed defrost system causes ice to accumulate and can damage the outdoor fan blade and coil.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

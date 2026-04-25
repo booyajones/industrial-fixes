@@ -42,3 +42,11 @@ Haas alarm 106 is a servo fault indicating the servo drive board detected an err
 ## When to Call a Pro
 
 If the mechanical axis is clear, the motor cable is intact, and the drive board has no visible damage but alarm 106 persists or returns immediately, contact Haas Factory Outlet (HFO) tech support. They can walk through servo diagnostics over the phone or dispatch a service engineer.
+
+## Related Articles
+
+- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
+- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
+- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
+- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
+- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)

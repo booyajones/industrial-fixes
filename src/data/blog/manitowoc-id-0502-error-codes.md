@@ -65,3 +65,11 @@ The Manitowoc ID-0502 is a remote-air-cooled (D-series) cube ice machine produci
 ## When to Call a Pro
 
 Remote-cooled ice machines require technicians familiar with long-line refrigerant systems. Line set sizing, oil return, and refrigerant charge calculation for remote systems are more complex than self-contained units. EPA 608 certification is required for all refrigerant service.
+
+## Related Articles
+
+- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
+- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
+- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
+- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
+- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)

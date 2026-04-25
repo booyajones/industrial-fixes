@@ -42,3 +42,11 @@ The E2 error on True Refrigeration equipment signals a high temperature alarm �
 ## When to Call a Pro
 
 If the condenser is clean, doors seal well, and the defrost system is intact but the cabinet still can't hold temp, the sealed refrigeration system (compressor, TXV, refrigerant) needs a certified tech.
+
+## Related Articles
+
+- [True Refrigeration E1 Error Code — Causes & Fix](/posts/true-refrigeration-e1-error-code/)
+- [True Refrigeration E3 Error Code — Causes & Fix](/posts/true-refrigeration-e3-error-code/)
+- [True Refrigeration E4 Error Code — Causes & Fix](/posts/true-refrigeration-e4-error-code/)
+- [True Refrigeration E5 Error Code — Defrost Sensor Causes & Fix](/posts/true-refrigeration-e5-error-code/)
+- [True Refrigeration E6 Error Code — High Temperature Alarm Causes & Fix](/posts/true-refrigeration-e6-error-code/)

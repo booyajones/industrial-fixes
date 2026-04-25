@@ -42,3 +42,11 @@ The Allen Bradley PowerFlex 525 **F7 fault** is a **Motor Overload** trip — th
 ## When to Call a Pro
 
 If F7 returns at low loads (below 80% of motor FLA) with correct parameter settings, perform a winding resistance check and megohm test on the motor. A motor shop can quantify insulation degradation and determine if rewinding or replacement is warranted.
+
+## Related Articles
+
+- [Allen-Bradley MicroLogix 1400 Common Fault Codes](/posts/allen-bradley-micrologix-fault/)
+- [Allen-Bradley PowerFlex 40 Complete Fault Code Guide](/posts/allen-bradley-powerflex-40-complete-guide/)
+- [Allen Bradley PowerFlex 40 F2 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f2-fault/)
+- [Allen-Bradley PowerFlex 40 F3 Fault — Power Loss](/posts/allen-bradley-powerflex-40-f3/)
+- [Allen Bradley PowerFlex 40 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f7-fault/)

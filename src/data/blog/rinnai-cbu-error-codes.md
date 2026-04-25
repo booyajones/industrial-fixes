@@ -75,3 +75,11 @@ The Rinnai CBU (CBU199iN, CBU199eN) is a condensing combination boiler providing
 ## When to Call a Pro
 
 Rinnai CBU combi boiler diagnosis involves both the refrigerant/heat circuit and the gas combustion system. Thermal fuse replacement, gas valve work, and heat exchanger descaling should be performed by licensed professionals. Contact Rinnai technical support (1-800-621-9419) for warranty service.
+
+## Related Articles
+
+- [Rinnai Error Code 11 No Ignition — Causes & Fix](/posts/rinnai-error-code-11-ignition/)
+- [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
+- [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
+- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)
+- [Rinnai Error Code 16 — Causes & Fix](/posts/rinnai-error-code-16/)

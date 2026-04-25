@@ -63,3 +63,11 @@ With power off, remove the inducer inlet screen or housing cover and visually in
 
 ## When to Call a Pro
 RPM feedback circuit issues and control board diagnosis require an HVAC technician with Lennox service training. If the motor tests good but the board continues to report 412, a Lennox-certified tech can use iComfort diagnostic tools to read raw motor RPM data.
+
+## Related Articles
+
+- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
+- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
+- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
+- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
+- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)

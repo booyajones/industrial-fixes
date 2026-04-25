@@ -42,3 +42,11 @@ On Mitsubishi air conditioning units (MSZ-GL, MSZ-GE, MSY, and similar cooling-o
 ## When to Call a Pro
 
 If wiring is confirmed intact, polarities are correct, and E6 persists after a full power cycle, board-level diagnosis requires a Mitsubishi-authorized technician with Diamond tool access to read fault history and test communication signals.
+
+## Related Articles
+
+- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
+- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
+- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
+- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
+- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)

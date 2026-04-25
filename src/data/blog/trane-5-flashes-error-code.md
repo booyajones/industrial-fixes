@@ -43,3 +43,11 @@ Five flashes on a Trane furnace LED means the pressure switch is stuck open. The
 ## When to Call a Pro
 
 If the draft motor is confirmed running at speed and the vent pipes are clear, but the switch still won't close, a tech should verify static pressure with a manometer before condemning the switch. An incorrectly rated replacement switch will fail in the same way.
+
+## Related Articles
+
+- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
+- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
+- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
+- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
+- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)

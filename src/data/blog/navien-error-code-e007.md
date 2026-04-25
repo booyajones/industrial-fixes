@@ -43,3 +43,11 @@ Navien E007 indicates **abnormally high temperature at the hot water outlet** �
 ## When to Call a Pro
 
 Persistent E007 after descaling and confirming good flow may indicate a partially failed gas valve that's not modulating properly, causing overcombustion. Gas valve service requires a licensed plumber or HVAC technician with Navien training.
+
+## Related Articles
+
+- [Navien Error Code E001 — No Ignition Fix](/posts/navien-error-code-e001/)
+- [Navien E002 Error Code — Causes & Fix](/posts/navien-error-code-e002/)
+- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)
+- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
+- [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)

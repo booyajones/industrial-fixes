@@ -43,3 +43,11 @@ U2 on a Daikin mini-split or multi-zone system indicates a power supply undervol
 ## When to Call a Pro
 
 Low utility voltage and wiring upgrades require a licensed electrician. A U2 that recurs after tightening connections and confirming wire sizing needs an electrical load analysis to identify the root cause.
+
+## Related Articles
+
+- [Daikin A3 Error Code — Causes & Fix](/posts/daikin-a3-error-code/)
+- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
+- [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
+- [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)
+- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)

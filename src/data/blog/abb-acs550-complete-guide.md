@@ -89,3 +89,11 @@ The ABB ACS550 is a wall-mount general-purpose variable frequency drive rated fr
 ## When to Call a Pro
 
 F0021 (IGBT fault) and F0130 (control board fault) typically require factory service or drive replacement. ABB's ACS550 can often be repaired by ABB service centers more cost-effectively than replacement for large HP ratings. For IGBT faults, always inspect the motor and cables first — replacing an IGBT into a shorted motor destroys the new IGBT immediately.
+
+## Related Articles
+
+- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
+- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
+- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
+- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
+- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

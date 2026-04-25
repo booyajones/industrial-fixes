@@ -136,3 +136,9 @@ At 12 years, a residential water heater is near end of life (typical lifespan is
 
 **Why does my AO Smith show 4 flashes right after installation?**
 On new or recently installed units, 4 flashes often means air in the gas line. Open a gas appliance nearby to purge air, then retry lighting. Also confirm the gas shutoff valve is fully open — a partially closed valve restricts gas flow enough to prevent ignition but not enough to be immediately obvious.
+
+## Related Articles
+
+- [A.O. Smith Water Heater E1 Error Code — Sensor Fault Guide](/posts/ao-smith-error-code-e1/)
+- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
+- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)

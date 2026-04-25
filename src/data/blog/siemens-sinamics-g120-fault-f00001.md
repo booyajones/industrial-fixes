@@ -42,3 +42,11 @@ The Siemens SINAMICS G120 **F00001 fault** is an **overcurrent trip**. The contr
 ## When to Call a Pro
 
 If F00001 persists with the motor disconnected or after commissioning values are corrected, the G120 power module may be damaged internally. Siemens drive service or a qualified industrial electrician should handle module-level diagnosis and replacement.
+
+## Related Articles
+
+- [Siemens Sinumerik 828D Alarm Codes Guide — Complete Diagnostic Reference](/posts/siemens-828d-alarm-codes/)
+- [Siemens 840D Alarm 380000 — Causes & Fix](/posts/siemens-840d-alarm-380000/)
+- [Siemens Circuit Breaker Fault Codes - Complete Guide](/posts/siemens-circuit-breaker-fault-codes/)
+- [Siemens Desigo BMS Fault Codes - Complete Guide](/posts/siemens-desigo-fault-codes/)
+- [Siemens Cerberus/MXL Fire Alarm Fault Codes — Troubleshooting Guide](/posts/siemens-fire-alarm-fault-codes/)

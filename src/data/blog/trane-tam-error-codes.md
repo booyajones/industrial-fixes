@@ -55,3 +55,11 @@ If the TAM is equipped with electric heat strips, over-temperature faults indica
 
 ## When to Call a Pro
 Refrigerant-related faults (4-1, 4-2) require a certified HVAC technician for refrigerant diagnosis and charging. ECM motor failures also require a technician to correctly size and program a replacement motor module.
+
+## Related Articles
+
+- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
+- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
+- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
+- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
+- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)

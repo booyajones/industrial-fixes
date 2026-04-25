@@ -42,3 +42,11 @@ Fanuc Alarm 2 is an **Overtravel (Plus direction) hardware limit** — an axis h
 ## When to Call a Pro
 
 If the machine homes incorrectly after clearing Alarm 2, the absolute encoder battery may be dead or the reference mark may be lost. Incorrect homing on multi-axis machines can cause crashes — have a Fanuc-trained service engineer verify the reference point before resuming production.
+
+## Related Articles
+
+- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
+- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
+- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
+- [Fanuc Alarm 3 — Overtravel Minus Hardware Causes & Fix](/posts/fanuc-alarm-3-overtravel/)

@@ -55,3 +55,10 @@ Mitsubishi gearless machines use dual electromagnetic brakes. Each brake has a m
 ## When to Call a Pro
 **Mitsubishi elevator systems require licensed elevator mechanics.** MELTRAC software and programming are proprietary to Mitsubishi Electric authorized service personnel. Never bypass safety circuits or ignore UCM faults.
 
+## Related Articles
+
+- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
+- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
+- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
+- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
+- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)

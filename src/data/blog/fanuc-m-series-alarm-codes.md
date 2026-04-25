@@ -67,3 +67,11 @@ Emergency measure: hold the RESET button, select JOG mode, and jog the axis away
 | Servo amplifier | [Amazon](https://www.amazon.com/s?k=Servo+amplifier&tag=errorcodefixes-20) \| Match axis current rating |
 | Control board (CNC) | [Amazon](https://www.amazon.com/s?k=Control+board+%28CNC%29&tag=errorcodefixes-20) \| Contact Fanuc for PCB replacement |
 > **Pro tip:** All Fanuc M-series controls maintain alarm history. Access via SYSTEM ΓåÆ ALARM ΓåÆ ALARM HISTORY. The history includes timestamp, axis, and alarm detail ΓÇö critical for diagnosing intermittent faults that don't repeat on demand.
+
+## Related Articles
+
+- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
+- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
+- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
+- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)

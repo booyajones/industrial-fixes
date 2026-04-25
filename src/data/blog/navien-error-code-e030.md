@@ -42,3 +42,11 @@ Navien error code E030 means exhaust overheat — the exhaust temperature sensor
 ## When to Call a Pro
 
 Descaling and combustion analysis require understanding the unit's heat exchanger configuration. If E030 persists after venting is corrected, a Navien-certified tech should do a combustion efficiency test.
+
+## Related Articles
+
+- [Navien Error Code E001 — No Ignition Fix](/posts/navien-error-code-e001/)
+- [Navien E002 Error Code — Causes & Fix](/posts/navien-error-code-e002/)
+- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)
+- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
+- [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)

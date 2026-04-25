@@ -100,3 +100,11 @@ Electronic expansion valve faults are common after refrigerant work:
 | [Inverter module (IPM)](https://www.amazon.com/s?k=Inverter+module+%28IPM%29&tag=errorcodefixes-20) | High-value outdoor part |
 
 > **Note:** Some Carrier VRF product lines are manufactured by Midea. Technical service manuals are available via Carrier's commercial partner portal. Always verify with the model number before ordering parts.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

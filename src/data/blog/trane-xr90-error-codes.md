@@ -64,3 +64,11 @@ The Trane XR90 is a single-stage 90% AFUE gas furnace with a PSC (permanent spli
 ## When to Call a Pro
 
 The XR90 heat exchanger is a clamshell design that can crack at the secondary (condensate-side) section. If you smell combustion gases in the conditioned air, suspect a cracked heat exchanger — this is a safety issue requiring professional inspection and likely furnace replacement. Do not operate a furnace with a suspected cracked heat exchanger.
+
+## Related Articles
+
+- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
+- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
+- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
+- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
+- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)

@@ -59,3 +59,11 @@ The variable-speed outdoor fan on the XL20i is inverter-driven. An outdoor fan f
 
 ## When to Call a Pro
 The XL20i is a complex inverter-driven system. All fault codes beyond communication wiring checks require a Trane-certified technician with ComfortLink II diagnostic training and refrigerant certification.
+
+## Related Articles
+
+- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
+- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
+- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
+- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
+- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)

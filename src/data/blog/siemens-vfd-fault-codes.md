@@ -72,3 +72,11 @@ The non-volatile memory used to store drive parameters has a fault. For F00051 (
 | BOP-2 panel | [Amazon](https://www.amazon.com/s?k=BOP-2+panel&tag=errorcodefixes-20) \| 6SL3255-0AA00-4CA1 |
 ## When to Call a Pro
 F00052 (CU EEPROM fault) and any fault requiring Power Module (drive output stage) replacement should be handled by Siemens-trained drive service. PM replacement on G120 drives in Panel Through-Mounting configurations also requires electrical panel work.
+
+## Related Articles
+
+- [Siemens Sinumerik 828D Alarm Codes Guide — Complete Diagnostic Reference](/posts/siemens-828d-alarm-codes/)
+- [Siemens 840D Alarm 380000 — Causes & Fix](/posts/siemens-840d-alarm-380000/)
+- [Siemens Circuit Breaker Fault Codes - Complete Guide](/posts/siemens-circuit-breaker-fault-codes/)
+- [Siemens Desigo BMS Fault Codes - Complete Guide](/posts/siemens-desigo-fault-codes/)
+- [Siemens Cerberus/MXL Fire Alarm Fault Codes — Troubleshooting Guide](/posts/siemens-fire-alarm-fault-codes/)

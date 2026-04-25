@@ -178,3 +178,11 @@ Any refrigerant-related fault — persistent E3 after condenser cleaning and des
 - [Hoshizaki KM-515 Error Codes](/posts/hoshizaki-km-515-error-codes/)
 - [Hoshizaki KM-330 Error Codes](/posts/hoshizaki-km-330-error-codes/)
 - [Ice Machine Error Code Lookup](/posts/ice-machine-error-code-lookup/)
+
+## Related Articles
+
+- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)
+- [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)
+- [Hoshizaki E2 Error Code — Harvest Fault Fix](/posts/hoshizaki-e2-error-code/)
+- [Hoshizaki E3 Error Code — Causes & Fix](/posts/hoshizaki-e3-error-code/)
+- [Hoshizaki E4 Error Code — Causes & Fix](/posts/hoshizaki-e4-error-code/)

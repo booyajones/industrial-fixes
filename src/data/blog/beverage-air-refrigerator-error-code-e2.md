@@ -54,3 +54,9 @@ Call a refrigeration tech if the E2 code returns after you replace the sensor, o
 - [Beverage-Air MT27 Error Codes — Complete Guide](/posts/beverage-air-mt27-error-codes/)
 - [Turbo Air Refrigerator Error Code E1 — Causes & Fix](/posts/turbo-air-refrigerator-error-code-e1/)
 - [Traulsen Refrigerator Error Code E1 — Causes & Fix](/posts/traulsen-refrigerator-error-code-e1/)
+
+## Related Articles
+
+- [Beverage-Air Error Code E4, Causes, and Fixes](/posts/beverage-air-e4-error-code/)
+- [Beverage-Air MT27 Error Codes - What They Mean and How to Fix Them](/posts/beverage-air-mt27-error-codes/)
+- [Beverage-Air Refrigerator Error Code E1 — Causes & Fix](/posts/beverage-air-refrigerator-error-code-e1/)

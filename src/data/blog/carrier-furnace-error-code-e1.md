@@ -46,3 +46,11 @@ On Carrier Infinity and Performance series communicating systems, the E1 error i
 ## When to Call a Pro
 
 If you've confirmed wiring integrity at all three points and replaced the thermostat without clearing E1, you're into control board territory. Misidentifying which board is faulty is an expensive mistake — a licensed HVAC technician can use the Infinity diagnostic tool to pinpoint exactly which device is dropping off the bus before ordering parts.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

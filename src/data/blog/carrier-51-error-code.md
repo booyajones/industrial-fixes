@@ -53,3 +53,11 @@ If all external components test correctly, the Integrated Furnace Control (IFC) 
 
 ## When to Call a Pro
 Gas valve replacement and detailed pressure switch diagnostics require a licensed HVAC technician. If the furnace runs safely at first stage but faults at second stage, you can disable second-stage operation temporarily (by adjusting the stat's second-stage delay settings) while you arrange service.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

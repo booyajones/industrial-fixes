@@ -41,3 +41,11 @@ Haas Alarm 116 indicates a spindle over speed fault — the spindle exceeded the
 ## When to Call a Pro
 
 Spindle overspeed events can damage bearings and toolholders. After any Alarm 116 event, inspect the spindle for damage before returning to production. Haas service can perform a spindle diagnostic check.
+
+## Related Articles
+
+- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
+- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
+- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
+- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
+- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)

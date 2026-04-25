@@ -69,3 +69,11 @@ The Mitsubishi PUY (Power Unit, Y-series) is a ducted air handler designed to wo
 ## When to Call a Pro
 
 Mitsubishi VRF systems require City Multi-certified technicians for refrigerant work, system commissioning, and address configuration. Any U6 fault should be investigated at the outdoor VRF unit as well — the indoor PUY is reporting a system-level issue, not just an indoor unit issue.
+
+## Related Articles
+
+- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
+- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
+- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
+- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
+- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)

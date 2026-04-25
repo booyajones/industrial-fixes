@@ -43,3 +43,11 @@ The Carrier E3 error code indicates an **IPM (Intelligent Power Module) fault** 
 ## When to Call a Pro
 
 If the condenser coil is clean, the fan runs correctly, and E3 still returns within minutes of reset, the IPM board has failed internally. IPM replacement requires handling high-voltage DC bus capacitors — a licensed HVAC-R technician or electrician should perform this repair.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

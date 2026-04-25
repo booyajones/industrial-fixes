@@ -66,3 +66,11 @@ The Trane S8X1 is an 80% AFUE, single-stage, multi-position gas furnace in the S
 ## When to Call a Pro
 
 Gas valve replacement, heat exchanger inspection, and refrigerant-side work require licensed technicians. If the S8X1 is showing repeated rollout trips or you smell gas near the furnace, shut the unit off and call a pro immediately — do not attempt to reset and restart.
+
+## Related Articles
+
+- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
+- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
+- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
+- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
+- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)

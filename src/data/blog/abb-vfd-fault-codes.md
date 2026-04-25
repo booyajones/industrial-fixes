@@ -70,3 +70,11 @@ On ACS880: Use the Drive Composer PC tool for the full fault log, or navigate to
 | Fieldbus adapter | [Amazon](https://www.amazon.com/s?k=Fieldbus+adapter&tag=errorcodefixes-20) \| FCAN-01 (CAN), FPBA-01 (Profibus), FENA-21 (EIP) |
 ## When to Call a Pro
 Faults 2201 (short circuit overcurrent) and any fault accompanied by a burning smell or blown fuses require qualified drive service. ABB's regional service centers offer warranty and post-warranty repair.
+
+## Related Articles
+
+- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
+- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
+- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
+- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
+- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

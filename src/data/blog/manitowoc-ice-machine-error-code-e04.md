@@ -42,3 +42,11 @@ The Manitowoc Indigo and Indigo NXT series display **E04** when the discharge (c
 ## When to Call a Pro
 
 If E04 returns after cleaning the condenser and confirming the fan runs, the refrigerant charge may be low or the compressor may be degraded. Both require a certified refrigeration technician with gauges and refrigerant certification.
+
+## Related Articles
+
+- [Frymaster Commercial Fryer Error Codes — Guide](/posts/manitowoc-fryer-error-codes/)
+- [Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/manitowoc-ice-machine-complete-guide/)
+- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
+- [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
+- [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)

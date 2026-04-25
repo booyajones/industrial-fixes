@@ -49,3 +49,11 @@ If the igniter glows, gas is flowing, and the flame sensor is clean but lockout 
 - [Trane XV20i/XV18 Variable Speed Heat Pump Error Codes](/posts/trane-variable-speed-heat-pump-codes/)
 - [Trane 8 Flashes Error Code — Causes & Fix](/posts/trane-8-flashes-error-code/)
 - [Trane Furnace Error Codes — Complete Flash Code Guide](/posts/trane-furnace-error-codes/)
+
+## Related Articles
+
+- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
+- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
+- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
+- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
+- [Trane 4 Flashes Error Code — Open High Limit Fix](/posts/trane-4-flashes-error-code/)

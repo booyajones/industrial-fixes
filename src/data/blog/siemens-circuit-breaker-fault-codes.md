@@ -55,3 +55,10 @@ ETU 45B and 76B include ground fault protection via a summation CT (3-phase). Tr
 ## When to Call a Pro
 Siemens 3WL maintenance (lubrication, contact inspection, arc chute replacement) requires factory-trained personnel. 3VA trip unit verification should be done with Siemens Sentron software.
 
+## Related Articles
+
+- [Siemens Sinumerik 828D Alarm Codes Guide — Complete Diagnostic Reference](/posts/siemens-828d-alarm-codes/)
+- [Siemens 840D Alarm 380000 — Causes & Fix](/posts/siemens-840d-alarm-380000/)
+- [Siemens Desigo BMS Fault Codes - Complete Guide](/posts/siemens-desigo-fault-codes/)
+- [Siemens Cerberus/MXL Fire Alarm Fault Codes — Troubleshooting Guide](/posts/siemens-fire-alarm-fault-codes/)
+- [Siemens G120C VFD Fault Code Guide — Complete Diagnostic Reference](/posts/siemens-g120c-fault-codes/)

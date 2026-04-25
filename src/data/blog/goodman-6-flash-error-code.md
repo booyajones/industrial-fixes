@@ -53,3 +53,11 @@ Once the root cause is corrected, locate the rollout switch — typically a roun
 ## When to Call a Technician
 
 Any Code 6 fault with suspected heat exchanger failure or CO risk requires a licensed HVAC technician immediately. Do not operate the furnace. Rollout faults caused by inducer or flue blockage are diagnosable by a competent DIYer, but gas pressure adjustments and heat exchanger testing require professional equipment.
+
+## Related Articles
+
+- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
+- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)
+- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
+- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
+- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)

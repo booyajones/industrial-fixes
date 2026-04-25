@@ -42,3 +42,9 @@ The E1 code on Beverage-Air commercial refrigerators signals a probe fault — t
 ## When to Call a Pro
 
 Controller board replacement may require calibration or programming depending on the model. A Beverage-Air authorized tech should handle board-level repairs.
+
+## Related Articles
+
+- [Beverage-Air Error Code E4, Causes, and Fixes](/posts/beverage-air-e4-error-code/)
+- [Beverage-Air MT27 Error Codes - What They Mean and How to Fix Them](/posts/beverage-air-mt27-error-codes/)
+- [Beverage-Air Refrigerator Error Code E2 — Evaporator Sensor Causes & Fix](/posts/beverage-air-refrigerator-error-code-e2/)

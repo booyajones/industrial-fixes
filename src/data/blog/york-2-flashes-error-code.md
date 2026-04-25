@@ -43,3 +43,11 @@ Two flashes on a York furnace diagnostic LED indicates the pressure switch is st
 ## When to Call a Pro
 
 If water contamination is recurring, the condensate drainage system needs a thorough inspection by a licensed HVAC technician to prevent repeated lockouts and potential heat exchanger corrosion.
+
+## Related Articles
+
+- [York 3 Flashes Error Code — Causes & Fix](/posts/york-3-flashes-error-code/)
+- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
+- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
+- [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
+- [York 7 Flashes Error Code — Ignition Lockout Fix](/posts/york-7-flashes-error-code/)

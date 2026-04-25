@@ -66,3 +66,11 @@ The Trane YSC is a light commercial gas/electric packaged rooftop unit available
 ## When to Call a Pro
 
 Trane YSC units require HVAC-R licensed technicians for refrigerant service. The ReliaTel controller has advanced diagnostic capability through the Rover service tool — a dealer-level device that provides sensor readings, fault history, and configuration. BACnet integration troubleshooting should involve the building automation contractor as well as the HVAC technician.
+
+## Related Articles
+
+- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
+- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
+- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
+- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
+- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)

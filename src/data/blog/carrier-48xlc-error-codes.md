@@ -64,3 +64,11 @@ The Carrier 48XLC is a light commercial single-package gas/electric rooftop unit
 ## When to Call a Pro
 
 Commercial packaged units require licensed HVAC-R technicians for refrigerant work and, in many jurisdictions, a commercial HVAC contractor license for service. BACnet/IP integration troubleshooting requires network access and familiarity with the building automation system. Compressor replacement on a 48XLC is a 4–8 hour job requiring cranes or rigging for heavy-tonnage units.
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)

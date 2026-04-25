@@ -43,3 +43,11 @@ The True T-49 is a two-door commercial reach-in refrigerator commonly used in re
 | Door gasket | [Amazon](https://www.amazon.com/s?k=Door+gasket&tag=errorcodefixes-20) \| Replace if torn or not sealing |
 ## When to Call a Pro
 If the compressor is short-cycling, the evaporator is icing repeatedly, or you suspect a refrigerant problem, bring in a commercial refrigeration technician. Sensor faults are simple. Sealed-system issues are not.
+
+## Related Articles
+
+- [True Refrigeration E1 Error Code — Causes & Fix](/posts/true-refrigeration-e1-error-code/)
+- [True Refrigeration E2 Error Code — Causes & Fix](/posts/true-refrigeration-e2-error-code/)
+- [True Refrigeration E3 Error Code — Causes & Fix](/posts/true-refrigeration-e3-error-code/)
+- [True Refrigeration E4 Error Code — Causes & Fix](/posts/true-refrigeration-e4-error-code/)
+- [True Refrigeration E5 Error Code — Defrost Sensor Causes & Fix](/posts/true-refrigeration-e5-error-code/)

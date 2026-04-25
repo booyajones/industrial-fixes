@@ -45,3 +45,11 @@ Haas alarm **126** indicates an **ATC door fault**. The automatic tool changer d
 | Linkage hardware | [Amazon](https://www.amazon.com/s?k=Linkage+hardware&tag=errorcodefixes-20) \| Bent linkage causes repeat faults |
 ## When to Call a Pro
 If the door cylinder and switch both test good but the alarm continues, the tool changer timing or I/O diagnostics may need deeper Haas service access. A Haas tech can verify the I/O state live during a tool change.
+
+## Related Articles
+
+- [Haas CNC Alarm 101 — Emergency Stop Active Fix](/posts/haas-alarm-101-emergency-stop/)
+- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
+- [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
+- [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
+- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)

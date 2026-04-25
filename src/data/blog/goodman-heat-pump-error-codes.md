@@ -108,3 +108,11 @@ A: Goodman heat pumps are rated for heating down to around 0°F–5°F on newer 
 **Q: My Goodman heat pump is 12 years old and needs a new compressor. Is it worth fixing?**
 
 A: At 12 years old with a compressor failure, this is a genuine replace-or-repair decision. A compressor replacement runs $1,200–$2,500 installed. A new efficient heat pump system runs $4,000–$8,000 installed. If the rest of the system (coils, electrical, ductwork) is in good shape and the compressor is still under the 10-year parts warranty (Goodman offers this if registered within 60 days of install), repair can make sense. If the warranty expired, the economics usually favor replacement, especially with current energy-efficiency incentives and utility rebates.
+
+## Related Articles
+
+- [Goodman 1 Flash Error Code — What It Means](/posts/goodman-1-flash-error-code/)
+- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)
+- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
+- [Goodman 4 Flash Error Code — Causes & Fix](/posts/goodman-4-flash-error-code/)
+- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)

@@ -55,3 +55,11 @@ The HCC3 is sending a call for heating or cooling to the equipment (furnace, air
 
 ## When to Call a Pro
 E50 (internal board error) and persistent E40 faults often require a Lennox-certified technician who can access the iComfort diagnostic interface to read detailed system logs.
+
+## Related Articles
+
+- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
+- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
+- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
+- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
+- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)

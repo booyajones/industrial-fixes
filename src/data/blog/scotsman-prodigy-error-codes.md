@@ -56,3 +56,11 @@ Scotsman Prodigy Plus ice machines (HC, HID, and Brilliance series) are the most
 ## When to Call a Pro
 
 Refrigerant work (recharge for low-charge cycle faults) requires EPA 608 certification. Codes that persist after cleaning and sensor/valve replacement need a certified tech for refrigeration diagnosis.
+
+## Related Articles
+
+- [Scotsman C0522 Error Codes — Fix Guide](/posts/scotsman-c0522-error-codes/)
+- [Scotsman HID312 Error Codes — Fault Code Diagnostic Guide](/posts/scotsman-hid312-error-codes/)
+- [Scotsman HID525 Error Codes — Complete Guide](/posts/scotsman-hid525-error-codes/)
+- [Scotsman Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/scotsman-ice-machine-complete-guide/)
+- [Scotsman Ice Machine Error Code 1 — High Pressure Cutout Fix](/posts/scotsman-ice-machine-error-code-1/)

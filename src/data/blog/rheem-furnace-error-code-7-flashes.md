@@ -42,3 +42,11 @@ A Rheem furnace flashing **7 times** indicates a **low flame sense signal**. The
 ## When to Call a Pro
 
 If the flame signal is still low after cleaning the sensor and burners, the issue may be gas pressure, board sensitivity, or grounding through the burner rack. A licensed HVAC tech can measure inlet and manifold pressure and verify the flame rectification circuit.
+
+## Related Articles
+
+- [Rheem Classic Series Furnace Error Codes — Complete Guide](/posts/rheem-classic-furnace-error-codes/)
+- [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)
+- [Rheem Furnace 2 Flashes — Pressure Switch Fault](/posts/rheem-furnace-2-flashes/)
+- [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)
+- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)

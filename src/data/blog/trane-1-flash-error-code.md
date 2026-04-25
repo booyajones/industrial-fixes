@@ -51,3 +51,11 @@ If the furnace locks out repeatedly after power cycling and you cannot identify 
 - [Trane ComfortR ER Error Code — Causes & Fix](/posts/trane-comfort-r-error-codes-er/)
 - [Trane ComfortLink II Error Codes — Common Faults and Fixes](/posts/trane-comfortlink-ii-error-codes/)
 - [Trane 9 Flashes Error Code — Causes & Fix](/posts/trane-9-flashes-error-code/)
+
+## Related Articles
+
+- [Trane Error Code 126 — Ignition Lockout Fix](/posts/trane-126-error-code/)
+- [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
+- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
+- [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
+- [Trane 4 Flashes Error Code — Open High Limit Fix](/posts/trane-4-flashes-error-code/)

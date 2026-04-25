@@ -44,3 +44,11 @@ The ER fault on a Yaskawa drive (G7, F7, E7, A1000, V1000 series) indicates an E
 ## When to Call a Pro
 
 EEPROM failures that do not respond to initialization indicate a hardware fault. A Yaskawa-authorized technician can replace the control board and verify correct firmware and parameter configuration for your application.
+
+## Related Articles
+
+- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)
+- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
+- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)
+- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
+- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)

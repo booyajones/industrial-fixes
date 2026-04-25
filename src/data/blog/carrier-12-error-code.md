@@ -50,3 +50,11 @@ If the high-limit switch resets but trips again within minutes, suspect a cracke
 - [Carrier 34 Error Code — Ignition Proving Failure Fix](/posts/carrier-34-error-code/)
 - [Carrier 32 Error Code — Causes & Fix](/posts/carrier-32-error-code/)
 - [Carrier 54 Error Code — Soft Lockout: Low Pressure Switch Open](/posts/carrier-54-error-code/)
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
+- [Carrier 21 Error Code — Gas Heating Lockout Fix](/posts/carrier-21-error-code/)

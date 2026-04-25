@@ -42,3 +42,11 @@ Rinnai **Error Code 11** on a tankless water heater means **no ignition** — th
 ## When to Call a Pro
 
 If gas is confirmed at the unit, the electrode and flame sensor are clean, and Error 11 persists, the gas valve may not be opening fully or gas supply pressure may be insufficient. Both require a licensed gas technician with a manometer and the Rinnai service manual's pressure specifications.
+
+## Related Articles
+
+- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)
+- [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
+- [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
+- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)
+- [Rinnai Error Code 16 — Causes & Fix](/posts/rinnai-error-code-16/)

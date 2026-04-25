@@ -42,3 +42,11 @@ Allen-Bradley PowerFlex fault F012 is an output phase-to-phase overcurrent fault
 ## When to Call a Pro
 
 If the drive itself trips F012 with nothing connected to the output terminals, the fault is internal to the drive's power electronics. This requires a Rockwell-authorized service technician or a drive repair depot — do not attempt to clear this condition by parameter adjustment.
+
+## Related Articles
+
+- [Allen-Bradley MicroLogix 1400 Common Fault Codes](/posts/allen-bradley-micrologix-fault/)
+- [Allen-Bradley PowerFlex 40 Complete Fault Code Guide](/posts/allen-bradley-powerflex-40-complete-guide/)
+- [Allen Bradley PowerFlex 40 F2 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f2-fault/)
+- [Allen-Bradley PowerFlex 40 F3 Fault — Power Loss](/posts/allen-bradley-powerflex-40-f3/)
+- [Allen Bradley PowerFlex 40 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f7-fault/)

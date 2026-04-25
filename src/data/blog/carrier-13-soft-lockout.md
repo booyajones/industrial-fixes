@@ -67,3 +67,11 @@ If code 13 clears but returns within one heating cycle, you have an airflow prob
 - [Carrier Furnace E1 Error Code — Causes & Fix](/posts/carrier-furnace-error-code-e1/)
 - [Carrier Error Code 61 — Rollout Switch Lockout](/posts/carrier-61-error-code/)
 - [Carrier 58UX Furnace Error Codes — Flash Code Diagnostic Guide](/posts/carrier-58ux-error-codes/)
+
+## Related Articles
+
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
+- [Carrier 21 Error Code — Gas Heating Lockout Fix](/posts/carrier-21-error-code/)

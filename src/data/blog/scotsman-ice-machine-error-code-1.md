@@ -53,3 +53,11 @@ If refrigerant system issues are present (overcharge, non-condensables, restrict
 ## When to Call a Technician
 
 All refrigerant-side diagnosis and repair requires an EPA 608-certified technician. Condenser cleaning and fan motor replacement are within the scope of a competent appliance or facilities technician.
+
+## Related Articles
+
+- [Scotsman C0522 Error Codes — Fix Guide](/posts/scotsman-c0522-error-codes/)
+- [Scotsman HID312 Error Codes — Fault Code Diagnostic Guide](/posts/scotsman-hid312-error-codes/)
+- [Scotsman HID525 Error Codes — Complete Guide](/posts/scotsman-hid525-error-codes/)
+- [Scotsman Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/scotsman-ice-machine-complete-guide/)
+- [Scotsman Ice Machine Error Code 2 — Causes & Fix](/posts/scotsman-ice-machine-error-code-2/)

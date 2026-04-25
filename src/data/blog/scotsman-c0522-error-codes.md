@@ -48,3 +48,11 @@ The Scotsman C0522 is a 522 lb/day cube ice machine (Prodigy series) found in re
 ## When to Call a Pro
 
 Refrigerant diagnosis and recharge for Code 3 (low charge) requires EPA 608 certification.
+
+## Related Articles
+
+- [Scotsman HID312 Error Codes — Fault Code Diagnostic Guide](/posts/scotsman-hid312-error-codes/)
+- [Scotsman HID525 Error Codes — Complete Guide](/posts/scotsman-hid525-error-codes/)
+- [Scotsman Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/scotsman-ice-machine-complete-guide/)
+- [Scotsman Ice Machine Error Code 1 — High Pressure Cutout Fix](/posts/scotsman-ice-machine-error-code-1/)
+- [Scotsman Ice Machine Error Code 2 — Causes & Fix](/posts/scotsman-ice-machine-error-code-2/)

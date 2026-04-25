@@ -45,3 +45,11 @@ Eight LED flashes on a York furnace indicates ignition lockout. The control boar
 ## When to Call a Pro
 
 If the furnace continues to lock out after replacing the igniter and cleaning the flame sensor, call a licensed HVAC technician. Gas valve testing and combustion analysis require specialized equipment and should not be performed by unqualified personnel.
+
+## Related Articles
+
+- [York 2 Flashes Error Code — Causes & Fix](/posts/york-2-flashes-error-code/)
+- [York 3 Flashes Error Code — Causes & Fix](/posts/york-3-flashes-error-code/)
+- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
+- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
+- [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)

@@ -42,3 +42,11 @@ Fanuc alarm 400 (SV0400: SERVO OVERLOAD: X AXIS) is a servo amplifier overload a
 ## When to Call a Pro
 
 Servo parameter adjustment on Fanuc systems requires access to parameter write mode and machine builder knowledge of the correct baseline values. Incorrect parameters can cause axis instability or crash the machine. A Fanuc-authorized service engineer should perform servo tuning if parameters are suspect.
+
+## Related Articles
+
+- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
+- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)
+- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)
+- [Fanuc Alarm 2 — Overtravel Plus Causes & Fix](/posts/fanuc-alarm-2-overtravel/)

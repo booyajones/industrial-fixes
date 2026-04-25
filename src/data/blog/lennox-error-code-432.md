@@ -43,3 +43,11 @@ Lennox code 432 is a **blower motor fault** — the control board or communicati
 ## When to Call a Pro
 
 ECM motor module replacements on Lennox communicating systems require matching the exact part number. Installing the wrong module can damage the motor. If diagnostics point to the module, confirm the part number before ordering and have a certified Lennox dealer verify the installation.
+
+## Related Articles
+
+- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
+- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
+- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
+- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
+- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)

@@ -113,3 +113,11 @@ For machine tools where the MR-J4 is the axis servo in a Mazak, DMG Mori, or Mit
 - [Mitsubishi FR-D700 Fault Codes](/posts/mitsubishi-fr-d700-fault-codes/)
 - [Fanuc Servo Alarm 400 — Servo Not Ready](/posts/fanuc-alarm-400/)
 - [Servo Motor Fault Codes Guide](/posts/servo-motor-fault-codes/)
+
+## Related Articles
+
+- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
+- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
+- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
+- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
+- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)

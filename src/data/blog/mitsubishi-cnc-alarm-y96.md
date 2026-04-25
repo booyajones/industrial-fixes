@@ -42,3 +42,11 @@ Alarm Y96 on Mitsubishi CNC systems (M800/M830 series) indicates a servo axis fa
 ## When to Call a Pro
 
 Mitsubishi CNC servo drive replacement requires parameter matching and SSCNET III/H network reconfiguration. Mitsubishi authorized service handles drive replacement and axis calibration.
+
+## Related Articles
+
+- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
+- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)
+- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
+- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)
+- [Mitsubishi E3 Error Code — Indoor Fan Motor Fault Fix](/posts/mitsubishi-e3-error-code/)

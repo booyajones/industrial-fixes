@@ -42,3 +42,11 @@ Yaskawa VFD fault OH (Drive Overheat) indicates that the drive's internal heatsi
 ## When to Call a Pro
 
 If the drive trips OH at normal loads with confirmed good fan operation and acceptable ambient, the IGBT heatsink thermal paste may be degraded, or the thermistor reading may be inaccurate. These repairs require full drive disassembly and are best handled by a certified repair center.
+
+## Related Articles
+
+- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)
+- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
+- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)
+- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
+- [Yaskawa GA700 Fault UV1 — Main Circuit Undervoltage Causes & Fix](/posts/yaskawa-ga700-fault-uv1/)

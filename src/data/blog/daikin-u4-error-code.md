@@ -42,3 +42,11 @@ For the Daikin systems targeted here, U4 points to a refrigerant leak or low-pre
 ## When to Call a Pro
 
 Leak repair, evacuation, and charging require EPA 608 certification and the correct Daikin charge procedure. If U4 is real, running the unit low on charge can damage the compressor fast.
+
+## Related Articles
+
+- [Daikin A3 Error Code — Causes & Fix](/posts/daikin-a3-error-code/)
+- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
+- [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
+- [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)
+- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)

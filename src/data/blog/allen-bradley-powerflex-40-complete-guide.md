@@ -66,3 +66,11 @@ The Allen-Bradley PowerFlex 40 is a compact VFD used on small conveyors, fans, p
 ## When to Call a Pro
 
 Repeated hardware overcurrent or ground faults after the motor and cable test clean usually mean the PowerFlex 40 output section is damaged. For OEM machines, always save the parameter set before replacing the drive so the machine can be restored quickly.
+
+## Related Articles
+
+- [Allen-Bradley MicroLogix 1400 Common Fault Codes](/posts/allen-bradley-micrologix-fault/)
+- [Allen Bradley PowerFlex 40 F2 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f2-fault/)
+- [Allen-Bradley PowerFlex 40 F3 Fault — Power Loss](/posts/allen-bradley-powerflex-40-f3/)
+- [Allen Bradley PowerFlex 40 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f7-fault/)
+- [Allen-Bradley PowerFlex 4M Fault Codes — F2, F4, F5, F7, F12 Fix Guide](/posts/allen-bradley-powerflex-4m-fault-codes/)

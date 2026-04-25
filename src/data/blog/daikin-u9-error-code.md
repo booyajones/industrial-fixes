@@ -43,3 +43,11 @@ U9 on a Daikin mini-split indicates an abnormally high discharge pressure on the
 ## When to Call a Pro
 
 Refrigerant measurement and handling requires EPA 608 certification. If U9 is caused by overcharge or non-condensables, a licensed technician must recover, evacuate, and recharge the system.
+
+## Related Articles
+
+- [Daikin A3 Error Code — Causes & Fix](/posts/daikin-a3-error-code/)
+- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
+- [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
+- [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)
+- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)
