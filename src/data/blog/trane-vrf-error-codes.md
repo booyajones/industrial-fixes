@@ -21,7 +21,7 @@ Trane VRF (Variable Refrigerant Flow) systems display fault codes on the wired r
 
 ### Outdoor Unit Faults
 
-| Code | Description | Common Cause |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Description | Common Cause |
 |---|---|---|
 | E01 | Outdoor PCB fault | Replace main control board |
 | E02 | High-pressure protection | Dirty condenser coil, overcharge |
@@ -38,7 +38,7 @@ Trane VRF (Variable Refrigerant Flow) systems display fault codes on the wired r
 
 ### Indoor Unit Faults
 
-| Code | Description | Common Cause |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Description | Common Cause |
 |---|---|---|
 | I01 | Indoor PCB fault | Replace indoor control board |
 | I02 | Communication fault — indoor | Check F1/F2 wiring |
@@ -51,7 +51,7 @@ Trane VRF (Variable Refrigerant Flow) systems display fault codes on the wired r
 
 ### System-Wide Faults
 
-| Code | Description | Common Cause |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Description | Common Cause |
 |---|---|---|
 | C01 | Communication fault — all units | F1/F2 network issue |
 | C02 | Address conflict | Duplicate indoor unit addresses |
@@ -94,10 +94,10 @@ Trane VRF (Variable Refrigerant Flow) systems display fault codes on the wired r
 
 | Part | Notes |
 |---|---|
-| EEV coil | Model-specific — check winding resistance before replacement |
-| Outdoor main board | Match exact model — firmware may need update |
-| Indoor PCB | Indoor unit-specific part number |
-| Temperature sensor | 10K NTC — match resistance curve |
-| Communication wire | 18-gauge unshielded 2-conductor |
+| [EEV coil](https://www.amazon.com/s?k=EEV+coil&tag=errorcodefixes-20) | Model-specific — check winding resistance before replacement |
+| [Outdoor main board](https://www.amazon.com/s?k=Outdoor+main+board&tag=errorcodefixes-20) | Match exact model — firmware may need update |
+| [Indoor PCB](https://www.amazon.com/s?k=Indoor+PCB&tag=errorcodefixes-20) | Indoor unit-specific part number |
+| [Temperature sensor](https://www.amazon.com/s?k=Temperature+sensor&tag=errorcodefixes-20) | 10K NTC — match resistance curve |
+| [Communication wire](https://www.amazon.com/s?k=Communication+wire&tag=errorcodefixes-20) | 18-gauge unshielded 2-conductor |
 
 > **Note:** Trane VRF systems are manufactured in partnership with Daikin. Some service procedures and parts cross-reference to Daikin VRV documentation.

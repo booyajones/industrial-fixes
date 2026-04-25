@@ -47,7 +47,7 @@ A heavy cut, dull tool, or tool crash increases spindle load and can cause a mom
 
 ## Haas Spindle Speed Parameters
 
-| Parameter | Function |
+| [Parameter](https://www.amazon.com/s?k=Parameter&tag=errorcodefixes-20) | Function |
 |-----------|---------|
 | 111 | Spindle speed tolerance |
 | 130 | Speed error timeout |

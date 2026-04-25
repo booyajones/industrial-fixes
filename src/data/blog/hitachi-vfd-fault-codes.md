@@ -19,7 +19,7 @@ Hitachi WJ200 and WL200 drives are common on pumps, fans, and light machinery. T
 
 ## Common Hitachi Faults
 
-| Fault | Meaning | Quick Fix |
+| [Fault](https://www.amazon.com/s?k=Fault&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |---|---|---|
 | E01 | Overcurrent at constant speed | Check load and motor wiring |
 | E02 | Overcurrent during decel | Lengthen decel time |

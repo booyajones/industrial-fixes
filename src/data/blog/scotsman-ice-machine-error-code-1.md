@@ -46,9 +46,9 @@ If refrigerant system issues are present (overcharge, non-condensables, restrict
 
 | Part | Where to Buy |
 |------|-------------|
-| Scotsman condenser fan motor | RepairClinic, SupplyHouse |
-| Coil cleaner (Nu-Brite or equivalent) | Amazon, Grainger |
-| High pressure switch | RepairClinic, SupplyHouse |
+| [Scotsman condenser fan motor](https://www.amazon.com/s?k=Scotsman+condenser+fan+motor&tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
+| [Coil cleaner (Nu-Brite or equivalent)](https://www.amazon.com/s?k=Coil+cleaner+%28Nu-Brite+or+equivalent%29&tag=errorcodefixes-20) | Amazon, Grainger |
+| [High pressure switch](https://www.amazon.com/s?k=High+pressure+switch&tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
 
 ## When to Call a Technician
 

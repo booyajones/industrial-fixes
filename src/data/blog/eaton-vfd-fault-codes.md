@@ -19,7 +19,7 @@ Eaton PowerXL drives, including the **DG1**, **DC1**, and related series, use fa
 
 ## Common Eaton Faults
 
-| Fault | Meaning | Quick Fix |
+| [Fault](https://www.amazon.com/s?k=Fault&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |---|---|---|
 | OC | Overcurrent | Check motor short, accel too fast, jammed load |
 | OV | DC bus overvoltage | Increase decel time, add brake resistor |
@@ -28,7 +28,7 @@ Eaton PowerXL drives, including the **DG1**, **DC1**, and related series, use fa
 | OL | Motor overload | Check load and motor current settings |
 | GF | Ground fault | Megger motor and cable, check leakage |
 | PH | Input phase fault | Check 3-phase input and fuses |
-| COMM | Communication loss | Check fieldbus and control wiring |
+| [COMM](https://www.amazon.com/s?k=COMM&tag=errorcodefixes-20) | Communication loss | Check fieldbus and control wiring |
 
 ## Most Common Real-World Causes
 

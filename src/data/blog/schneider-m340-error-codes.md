@@ -38,7 +38,7 @@ The Schneider Electric Modicon M340 is a mid-range PLC platform using the Unity 
 
 ### CPU Faults
 
-| Fault Code | Description | Action |
+| [Fault Code](https://www.amazon.com/s?k=Fault+Code&tag=errorcodefixes-20) | Description | Action |
 |---|---|---|
 | 1 | Internal CPU fault | Power cycle, check firmware version |
 | 2 | Memory fault | Check application download, replace SDRAM |
@@ -51,20 +51,20 @@ The Schneider Electric Modicon M340 is a mid-range PLC platform using the Unity 
 
 ### I/O Module Faults
 
-| Fault | Cause | Fix |
+| [Fault](https://www.amazon.com/s?k=Fault&tag=errorcodefixes-20) | Cause | Fix |
 |---|---|---|
-| Module not present | Module removed or loose | Reseat module, check card guides |
-| Module configuration error | Wrong module type in slot | Update hardware configuration in project |
-| Channel fault | Individual I/O channel failure | Test wiring on channel; replace module if channel is burned |
-| Bus communication lost | Backplane fault or module hardware failure | Replace module; check backplane ribbon |
+| [Module not present](https://www.amazon.com/s?k=Module+not+present&tag=errorcodefixes-20) | Module removed or loose | Reseat module, check card guides |
+| [Module configuration error](https://www.amazon.com/s?k=Module+configuration+error&tag=errorcodefixes-20) | Wrong module type in slot | Update hardware configuration in project |
+| [Channel fault](https://www.amazon.com/s?k=Channel+fault&tag=errorcodefixes-20) | Individual I/O channel failure | Test wiring on channel; replace module if channel is burned |
+| [Bus communication lost](https://www.amazon.com/s?k=Bus+communication+lost&tag=errorcodefixes-20) | Backplane fault or module hardware failure | Replace module; check backplane ribbon |
 
 ### Ethernet/Communication Faults
 
-| Fault | Meaning |
+| [Fault](https://www.amazon.com/s?k=Fault&tag=errorcodefixes-20) | Meaning |
 |---|---|
-| IP conflict | Two devices with same IP on network |
-| No heartbeat from master | EtherNet/IP or Modbus TCP scanner not polling |
-| Time-out on remote I/O | Distributed Quantum or X80 remote I/O not responding |
+| [IP conflict](https://www.amazon.com/s?k=IP+conflict&tag=errorcodefixes-20) | Two devices with same IP on network |
+| [No heartbeat from master](https://www.amazon.com/s?k=No+heartbeat+from+master&tag=errorcodefixes-20) | EtherNet/IP or Modbus TCP scanner not polling |
+| [Time-out on remote I/O](https://www.amazon.com/s?k=Time-out+on+remote+I%2FO&tag=errorcodefixes-20) | Distributed Quantum or X80 remote I/O not responding |
 
 ## Accessing Faults in Control Expert (Unity Pro)
 

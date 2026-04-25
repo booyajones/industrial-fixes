@@ -22,11 +22,11 @@ On Carrier furnaces, codes are displayed by counting LED blinks: the LED flashes
 
 | Cause | Likelihood | Test |
 |-------|-----------|------|
-| Secondary pressure switch fault | High | Inspect pressure switch hose; test switch |
-| Two-stage gas valve fault | Medium | Verify 24VAC to valve stage 2 coil |
-| IFC control board fault | Medium | Check board for burn marks; swap to test |
-| Inducer motor at second stage | Medium | Verify inducer RPM at high fire |
-| Wiring fault in secondary circuit | Lower | Inspect all secondary circuit connections |
+| [Secondary pressure switch fault](https://www.amazon.com/s?k=Secondary+pressure+switch+fault&tag=errorcodefixes-20) | High | Inspect pressure switch hose; test switch |
+| [Two-stage gas valve fault](https://www.amazon.com/s?k=Two-stage+gas+valve+fault&tag=errorcodefixes-20) | Medium | Verify 24VAC to valve stage 2 coil |
+| [IFC control board fault](https://www.amazon.com/s?k=IFC+control+board+fault&tag=errorcodefixes-20) | Medium | Check board for burn marks; swap to test |
+| [Inducer motor at second stage](https://www.amazon.com/s?k=Inducer+motor+at+second+stage&tag=errorcodefixes-20) | Medium | Verify inducer RPM at high fire |
+| [Wiring fault in secondary circuit](https://www.amazon.com/s?k=Wiring+fault+in+secondary+circuit&tag=errorcodefixes-20) | Lower | Inspect all secondary circuit connections |
 
 ## Step-by-Step Diagnosis
 

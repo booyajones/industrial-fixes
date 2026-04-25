@@ -15,7 +15,7 @@ tags:
 
 Rinnai tankless water heaters display fault codes as two-digit numbers on the front LED display. Rinnai uses codes across all major product lines (V, RU, RL, RH, RX, RUR series). Some codes are auto-reset; others require pressing the ON/OFF button to clear after correcting the fault.
 
-| Code | Meaning | Quick Fix |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |------|---------|-----------|
 | 11 | Ignition failure | Check gas supply and gas valve |
 | 12 | Flame failure | Clean flame sensor; check gas |

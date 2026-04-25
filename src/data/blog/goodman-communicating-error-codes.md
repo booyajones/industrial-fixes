@@ -16,7 +16,7 @@ tags:
 
 Goodman's ComfortNet communicating system allows compatible furnaces, heat pumps, air conditioners, and air handlers to share data over a two-wire communication bus. Fault codes appear on the ComfortNet-compatible thermostat (such as the ComfortNet CTK04 or CTK06) and on the individual equipment's LED control board. The same underlying codes are used in Amana ComfortNet systems.
 
-| Code | Meaning | Quick Fix |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |------|---------|-----------|
 | E1 | Indoor temperature sensor fault | Check thermostat sensor |
 | E2 | Outdoor temperature sensor fault | Inspect outdoor unit sensor wiring |

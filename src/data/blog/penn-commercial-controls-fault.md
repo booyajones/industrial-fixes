@@ -17,14 +17,14 @@ tags:
 
 Penn controls from Johnson Controls protect compressors, fans, and pumps in refrigeration and HVAC systems. Many Penn controls are mechanical safeties, so the "fault code" is often just an open control, a blank output, or a digital sensor error on electronic models.
 
-| Fault | Meaning | Quick Fix |
+| [Fault](https://www.amazon.com/s?k=Fault&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |------|---------|-----------|
-| High Pressure Open | Safety opened on high head pressure | Check condenser fans and airflow |
-| Low Pressure Open | Safety opened on low suction pressure | Check charge and evaporator airflow |
-| Sensor Failure | Electronic sensor open or shorted | Check probe resistance and wiring |
-| Manual Reset Locked Out | Safety latched after trip | Fix cause before reset |
-| No Output | Control relay not closing | Check power and relay contacts |
-| Wide Temperature Swing | Sensor placement or differential issue | Reposition sensor and review settings |
+| [High Pressure Open](https://www.amazon.com/s?k=High+Pressure+Open&tag=errorcodefixes-20) | Safety opened on high head pressure | Check condenser fans and airflow |
+| [Low Pressure Open](https://www.amazon.com/s?k=Low+Pressure+Open&tag=errorcodefixes-20) | Safety opened on low suction pressure | Check charge and evaporator airflow |
+| [Sensor Failure](https://www.amazon.com/s?k=Sensor+Failure&tag=errorcodefixes-20) | Electronic sensor open or shorted | Check probe resistance and wiring |
+| [Manual Reset Locked Out](https://www.amazon.com/s?k=Manual+Reset+Locked+Out&tag=errorcodefixes-20) | Safety latched after trip | Fix cause before reset |
+| [No Output](https://www.amazon.com/s?k=No+Output&tag=errorcodefixes-20) | Control relay not closing | Check power and relay contacts |
+| [Wide Temperature Swing](https://www.amazon.com/s?k=Wide+Temperature+Swing&tag=errorcodefixes-20) | Sensor placement or differential issue | Reposition sensor and review settings |
 
 ## Most Common Faults
 
@@ -39,12 +39,12 @@ On electronic Penn controls, a blank or dead output often comes from loss of con
 
 ## Common Penn Families
 
-| Family | Use |
+| [Family](https://www.amazon.com/s?k=Family&tag=errorcodefixes-20) | Use |
 |-------|-----|
-| P70 / P72 | Refrigeration pressure controls |
+| [P70 / P72](https://www.amazon.com/s?k=P70+%2F+P72&tag=errorcodefixes-20) | Refrigeration pressure controls |
 | P78 | Manual reset high and low pressure safeties |
-| A19 / A28 | Temperature controls |
-| A350 / A421 | Electronic temperature controls |
+| [A19 / A28](https://www.amazon.com/s?k=A19+%2F+A28&tag=errorcodefixes-20) | Temperature controls |
+| [A350 / A421](https://www.amazon.com/s?k=A350+%2F+A421&tag=errorcodefixes-20) | Electronic temperature controls |
 
 ## Jump to Fix
 

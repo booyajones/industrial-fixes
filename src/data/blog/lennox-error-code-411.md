@@ -46,9 +46,9 @@ Gas pressure adjustment and gas valve replacement require a licensed technician 
 
 | Part | Where to Buy |
 |------|-------------|
-| Flame sensor | RepairClinic, Amazon |
-| Hot surface igniter (silicon nitride) | RepairClinic, SupplyHouse |
-| Gas valve | SupplyHouse, Grainger |
+| [Flame sensor](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) | RepairClinic, Amazon |
+| [Hot surface igniter (silicon nitride)](https://www.amazon.com/s?k=Hot+surface+igniter+%28silicon+nitride%29&tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
+| [Gas valve](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) | SupplyHouse, Grainger |
 
 ## When to Call a Technician
 

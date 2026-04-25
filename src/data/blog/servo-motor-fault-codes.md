@@ -20,13 +20,13 @@ Servo alarms can be intimidating because the motor, encoder, amplifier, mechanic
 
 ## Common Servo Fault Categories
 
-| Fault Type | Typical Meaning |
+| [Fault Type](https://www.amazon.com/s?k=Fault+Type&tag=errorcodefixes-20) | Typical Meaning |
 |---|---|
-| Overcurrent | Axis jam, cable short, amplifier problem |
-| Encoder feedback | Lost position, encoder cable fault, battery issue |
-| Position deviation | Axis can't keep up with commanded motion |
-| Overtemperature | Motor overloaded or cooling poor |
-| Communication | Drive network or amplifier not ready |
+| [Overcurrent](https://www.amazon.com/s?k=Overcurrent&tag=errorcodefixes-20) | Axis jam, cable short, amplifier problem |
+| [Encoder feedback](https://www.amazon.com/s?k=Encoder+feedback&tag=errorcodefixes-20) | Lost position, encoder cable fault, battery issue |
+| [Position deviation](https://www.amazon.com/s?k=Position+deviation&tag=errorcodefixes-20) | Axis can't keep up with commanded motion |
+| [Overtemperature](https://www.amazon.com/s?k=Overtemperature&tag=errorcodefixes-20) | Motor overloaded or cooling poor |
+| [Communication](https://www.amazon.com/s?k=Communication&tag=errorcodefixes-20) | Drive network or amplifier not ready |
 
 ## Common Causes Across Brands
 

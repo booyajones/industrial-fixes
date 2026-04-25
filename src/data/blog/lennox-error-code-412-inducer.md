@@ -30,12 +30,12 @@ Always confirm which code is active before starting diagnosis.
 
 | Cause | Likelihood | Test Method |
 |-------|-----------|------------|
-| Failed inducer motor | High | Verify 115VAC at motor; check for spin |
-| Failed inducer motor capacitor | High | Capacitor meter — compare to rated value |
-| Seized inducer wheel bearing | Medium | Hand-spin test with power off |
-| Control board not sending 115VAC to motor | Medium | Measure voltage at motor terminals |
-| Failed RPM feedback circuit | Medium | Inspect tachometer wire; measure signal |
-| Inducer wheel clogged with debris | Lower | Visual inspection; clean wheel |
+| [Failed inducer motor](https://www.amazon.com/s?k=Failed+inducer+motor&tag=errorcodefixes-20) | High | Verify 115VAC at motor; check for spin |
+| [Failed inducer motor capacitor](https://www.amazon.com/s?k=Failed+inducer+motor+capacitor&tag=errorcodefixes-20) | High | Capacitor meter — compare to rated value |
+| [Seized inducer wheel bearing](https://www.amazon.com/s?k=Seized+inducer+wheel+bearing&tag=errorcodefixes-20) | Medium | Hand-spin test with power off |
+| [Control board not sending 115VAC to motor](https://www.amazon.com/s?k=Control+board+not+sending+115VAC+to+motor&tag=errorcodefixes-20) | Medium | Measure voltage at motor terminals |
+| [Failed RPM feedback circuit](https://www.amazon.com/s?k=Failed+RPM+feedback+circuit&tag=errorcodefixes-20) | Medium | Inspect tachometer wire; measure signal |
+| [Inducer wheel clogged with debris](https://www.amazon.com/s?k=Inducer+wheel+clogged+with+debris&tag=errorcodefixes-20) | Lower | Visual inspection; clean wheel |
 
 ## Step-by-Step Diagnosis
 

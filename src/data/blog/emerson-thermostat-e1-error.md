@@ -24,14 +24,14 @@ The **E1 error** on Emerson and White-Rodgers thermostats covers several differe
 
 ## E1 by Model Series
 
-| Model Series | E1 Meaning |
+| [Model Series](https://www.amazon.com/s?k=Model+Series&tag=errorcodefixes-20) | E1 Meaning |
 |---|---|
-| 1F80 (non-programmable) | Indoor sensor open or shorted |
-| 1F86 (programmable) | Indoor sensor fault |
-| 1F95 (touchscreen) | Indoor or outdoor sensor fault |
-| UP500W (universal) | Sensor fault (indoor temp) |
-| Sensi ST55U / ST75U | See separate Sensi guide |
-| 1E78 (2-wire) | Power/low voltage |
+| [1F80 (non-programmable)](https://www.amazon.com/s?k=1F80+%28non-programmable%29&tag=errorcodefixes-20) | Indoor sensor open or shorted |
+| [1F86 (programmable)](https://www.amazon.com/s?k=1F86+%28programmable%29&tag=errorcodefixes-20) | Indoor sensor fault |
+| [1F95 (touchscreen)](https://www.amazon.com/s?k=1F95+%28touchscreen%29&tag=errorcodefixes-20) | Indoor or outdoor sensor fault |
+| [UP500W (universal)](https://www.amazon.com/s?k=UP500W+%28universal%29&tag=errorcodefixes-20) | Sensor fault (indoor temp) |
+| [Sensi ST55U / ST75U](https://www.amazon.com/s?k=Sensi+ST55U+%2F+ST75U&tag=errorcodefixes-20) | See separate Sensi guide |
+| [1E78 (2-wire)](https://www.amazon.com/s?k=1E78+%282-wire%29&tag=errorcodefixes-20) | Power/low voltage |
 
 ## Indoor Sensor Fault — Most Common E1
 
@@ -66,12 +66,12 @@ To test: remove the thermostat from the wall, disconnect it from wiring, open th
 
 ## Recommended Replacements
 
-| Model | Price | Features |
+| [Model](https://www.amazon.com/s?k=Model&tag=errorcodefixes-20) | Price | Features |
 |---|---|---|
-| Emerson 1F86U | $25–40 | Direct replacement, programmable |
-| Emerson UP500W | $50–70 | Universal, touchscreen |
-| Emerson Sensi ST75U | $70–100 | Wi-Fi, app control |
-| White-Rodgers 1F78 | $15–25 | Budget, non-programmable |
+| [Emerson 1F86U](https://www.amazon.com/s?k=Emerson+1F86U&tag=errorcodefixes-20) | $25–40 | Direct replacement, programmable |
+| [Emerson UP500W](https://www.amazon.com/s?k=Emerson+UP500W&tag=errorcodefixes-20) | $50–70 | Universal, touchscreen |
+| [Emerson Sensi ST75U](https://www.amazon.com/s?k=Emerson+Sensi+ST75U&tag=errorcodefixes-20) | $70–100 | Wi-Fi, app control |
+| [White-Rodgers 1F78](https://www.amazon.com/s?k=White-Rodgers+1F78&tag=errorcodefixes-20) | $15–25 | Budget, non-programmable |
 
 ## E1 vs. E2 on Emerson
 

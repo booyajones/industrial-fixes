@@ -20,14 +20,14 @@ PLC faults usually fall into a few buckets: major fault, I/O bus fault, battery/
 
 ## Common PLC Fault Categories
 
-| Fault Type | Typical Meaning |
+| [Fault Type](https://www.amazon.com/s?k=Fault+Type&tag=errorcodefixes-20) | Typical Meaning |
 |---|---|
-| Major fault | Controller halted due to program or hardware issue |
-| I/O communication fault | Remote I/O rack offline or bus interrupted |
-| Battery / memory fault | Retentive memory at risk or corrupted |
-| Watchdog timeout | Task scan exceeded allowable time |
-| Redundant mismatch | Firmware or project mismatch between controllers |
-| Fieldbus loss | Ethernet/IP, Profinet, Profibus, DeviceNet, or Modbus issue |
+| [Major fault](https://www.amazon.com/s?k=Major+fault&tag=errorcodefixes-20) | Controller halted due to program or hardware issue |
+| [I/O communication fault](https://www.amazon.com/s?k=I%2FO+communication+fault&tag=errorcodefixes-20) | Remote I/O rack offline or bus interrupted |
+| [Battery / memory fault](https://www.amazon.com/s?k=Battery+%2F+memory+fault&tag=errorcodefixes-20) | Retentive memory at risk or corrupted |
+| [Watchdog timeout](https://www.amazon.com/s?k=Watchdog+timeout&tag=errorcodefixes-20) | Task scan exceeded allowable time |
+| [Redundant mismatch](https://www.amazon.com/s?k=Redundant+mismatch&tag=errorcodefixes-20) | Firmware or project mismatch between controllers |
+| [Fieldbus loss](https://www.amazon.com/s?k=Fieldbus+loss&tag=errorcodefixes-20) | Ethernet/IP, Profinet, Profibus, DeviceNet, or Modbus issue |
 
 ## Brand Patterns to Know
 

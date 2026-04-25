@@ -110,11 +110,11 @@ If the switch tests bad or you've ruled out all other causes:
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|--------------|
-| Pressure Switch (Lennox 10J46 or model-specific) | Switch contacts failed, won't close | $20–$60 |
-| Pressure Switch Hose (1/4" ID rubber) | Cracked or disconnected hose | $3–$10 |
-| Inducer Motor (Lennox 99M75 or model-specific) | Motor seized, won't spin, or weak output | $150–$350 |
-| Condensate Drain Line (3/4" PVC) | Drain line cracked or blocked beyond cleaning | $5–$15 |
-| Condensate Trap | Trap cracked or holding debris | $10–$25 |
+| [Pressure Switch (Lennox 10J46 or model-specific)](https://www.amazon.com/s?k=Pressure+Switch+%28Lennox+10J46+or+model-specific%29&tag=errorcodefixes-20) | Switch contacts failed, won't close | $20–$60 |
+| [Pressure Switch Hose (1/4" ID rubber)](https://www.amazon.com/s?k=Pressure+Switch+Hose+%281%2F4%22+ID+rubber%29&tag=errorcodefixes-20) | Cracked or disconnected hose | $3–$10 |
+| [Inducer Motor (Lennox 99M75 or model-specific)](https://www.amazon.com/s?k=Inducer+Motor+%28Lennox+99M75+or+model-specific%29&tag=errorcodefixes-20) | Motor seized, won't spin, or weak output | $150–$350 |
+| [Condensate Drain Line (3/4" PVC)](https://www.amazon.com/s?k=Condensate+Drain+Line+%283%2F4%22+PVC%29&tag=errorcodefixes-20) | Drain line cracked or blocked beyond cleaning | $5–$15 |
+| [Condensate Trap](https://www.amazon.com/s?k=Condensate+Trap&tag=errorcodefixes-20) | Trap cracked or holding debris | $10–$25 |
 
 *Always match the pressure switch rating (in inches W.C.) exactly. Using a switch with the wrong rating is a safety issue.*
 

@@ -17,20 +17,20 @@ tags:
 
 Control Techniques (now part of Nidec) manufactures the Unidrive SP and Unidrive M series variable-speed drives, widely used in industrial applications. The drives display fault codes as text "trip" codes on the keypad display. The trip history is accessible via parameter Pr 10.20–10.29 (last 10 trips).
 
-| Trip Code | Meaning | Common Cause | Quick Fix |
+| [Trip Code](https://www.amazon.com/s?k=Trip+Code&tag=errorcodefixes-20) | Meaning | Common Cause | Quick Fix |
 |-----------|---------|-------------|-----------|
-| OI.AC | Overcurrent — AC output | Short circuit; too fast acceleration | Check motor wiring; increase accel time |
-| OI.DC | Overcurrent — DC bus | Braking energy; voltage spike | Add brake resistor; check decel |
+| [OI.AC](https://www.amazon.com/s?k=OI.AC&tag=errorcodefixes-20) | Overcurrent — AC output | Short circuit; too fast acceleration | Check motor wiring; increase accel time |
+| [OI.DC](https://www.amazon.com/s?k=OI.DC&tag=errorcodefixes-20) | Overcurrent — DC bus | Braking energy; voltage spike | Add brake resistor; check decel |
 | OV | DC Bus Overvoltage | Fast deceleration; high supply voltage | Increase decel time; add brake resistor |
 | UV | DC Bus Undervoltage | Low input voltage; power interruption | Check supply voltage; check fuses |
 | OH | Drive heatsink overtemperature | Blocked fan; high ambient temp | Clean heatsink; improve ventilation |
 | OH2 | Control board overtemperature | Ambient too hot | Improve enclosure cooling |
-| t.dEF | Thermistor fault — motor PTC | PTC resistance out of range | Check PTC wiring; check motor temp |
+| [t.dEF](https://www.amazon.com/s?k=t.dEF&tag=errorcodefixes-20) | Thermistor fault — motor PTC | PTC resistance out of range | Check PTC wiring; check motor temp |
 | Ot | Motor overtemperature — model-based | Motor overloaded | Reduce load; check motor cooling |
 | SCL | Serial comms loss | Fieldbus or serial link interrupted | Check comms wiring; check master device |
 | EEF | EEPROM fault — parameter error | Parameter corruption | Restore factory defaults and reprogram |
 | PSF | Power supply fault — internal | Internal power supply failed | Replace drive |
-| O.SPd | Overspeed | Speed feedback exceeded limit | Check speed reference; check encoder |
+| [O.SPd](https://www.amazon.com/s?k=O.SPd&tag=errorcodefixes-20) | Overspeed | Speed feedback exceeded limit | Check speed reference; check encoder |
 | EnC | Encoder fault | Encoder signal lost or invalid | Check encoder wiring; check speed |
 | Ph | Input phase loss | Missing L1, L2, or L3 | Check input wiring; check fuses |
 | GF | Ground fault | Motor or cable insulation fault | Megger motor; check cable |

@@ -45,9 +45,9 @@ For low refrigerant: a licensed EPA 608-certified refrigeration technician must 
 
 | Part | Where to Buy |
 |------|-------------|
-| Hoshizaki harvest valve solenoid | RepairClinic, SupplyHouse |
-| Hoshizaki descaler (nickel-safe) | Amazon, SupplyHouse |
-| Ice machine cleaner / sanitizer kit | Amazon, RepairClinic |
+| [Hoshizaki harvest valve solenoid](https://www.amazon.com/s?k=Hoshizaki+harvest+valve+solenoid&tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
+| [Hoshizaki descaler (nickel-safe)](https://www.amazon.com/s?k=Hoshizaki+descaler+%28nickel-safe%29&tag=errorcodefixes-20) | Amazon, SupplyHouse |
+| [Ice machine cleaner / sanitizer kit](https://www.amazon.com/s?k=Ice+machine+cleaner+%2F+sanitizer+kit&tag=errorcodefixes-20) | Amazon, RepairClinic |
 
 ## When to Call a Technician
 

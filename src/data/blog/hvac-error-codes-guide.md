@@ -15,15 +15,15 @@ tags:
 
 HVAC error codes are how your heating and cooling equipment tells you what's wrong. They appear as blinking LED patterns, numeric displays, or alphanumeric codes depending on the equipment type and age. This guide explains how to read every major type and what the most common codes mean across brands.
 
-| Equipment Type | How Codes Display | Where to Look |
+| [Equipment Type](https://www.amazon.com/s?k=Equipment+Type&tag=errorcodefixes-20) | How Codes Display | Where to Look |
 |---------------|------------------|---------------|
-| Gas furnace | Blinking LED (flash count) | Lower access panel or sight glass |
-| Mini-split | Alphanumeric display | Indoor unit LED or remote display |
-| Heat pump | Flash codes or display | Air handler control board |
-| Boiler | Alphanumeric display | Boiler control panel or display |
+| [Gas furnace](https://www.amazon.com/s?k=Gas+furnace&tag=errorcodefixes-20) | Blinking LED (flash count) | Lower access panel or sight glass |
+| [Mini-split](https://www.amazon.com/s?k=Mini-split&tag=errorcodefixes-20) | Alphanumeric display | Indoor unit LED or remote display |
+| [Heat pump](https://www.amazon.com/s?k=Heat+pump&tag=errorcodefixes-20) | Flash codes or display | Air handler control board |
+| [Boiler](https://www.amazon.com/s?k=Boiler&tag=errorcodefixes-20) | Alphanumeric display | Boiler control panel or display |
 | VFD | Numeric/alphanumeric fault | Drive keypad display |
-| CNC machine | Alarm number + message | Controller screen |
-| Commercial refrigeration | E-codes or numeric | Controller display on unit |
+| [CNC machine](https://www.amazon.com/s?k=CNC+machine&tag=errorcodefixes-20) | Alarm number + message | Controller screen |
+| [Commercial refrigeration](https://www.amazon.com/s?k=Commercial+refrigeration&tag=errorcodefixes-20) | E-codes or numeric | Controller display on unit |
 
 ## How to Read Flash Codes on a Furnace
 

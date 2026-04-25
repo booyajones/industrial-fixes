@@ -48,9 +48,9 @@ Once the root cause is corrected, locate the rollout switch (typically a disc-sh
 
 | Part | Where to Buy |
 |------|-------------|
-| Rollout switch / limit switch | RepairClinic, SupplyHouse |
-| Inducer motor assembly | RepairClinic, Grainger |
-| Gas valve | SupplyHouse, Grainger |
+| [Rollout switch / limit switch](https://www.amazon.com/s?k=Rollout+switch+%2F+limit+switch&tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
+| [Inducer motor assembly](https://www.amazon.com/s?k=Inducer+motor+assembly&tag=errorcodefixes-20) | RepairClinic, Grainger |
+| [Gas valve](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) | SupplyHouse, Grainger |
 
 ## When to Call a Technician
 

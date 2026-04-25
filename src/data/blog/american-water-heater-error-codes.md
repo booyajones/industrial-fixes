@@ -20,22 +20,22 @@ American Water Heaters is a subsidiary of A.O. Smith and shares manufacturing wi
 
 American Water Heater gas models (ProLine, Glasslined, Commercial series) use an **LED status indicator** on the gas valve body:
 
-| Flash Code | Meaning | Fix |
+| [Flash Code](https://www.amazon.com/s?k=Flash+Code&tag=errorcodefixes-20) | Meaning | Fix |
 |---|---|---|
-| 1 flash | Normal operation | None — system OK |
-| 2 flashes | Low thermopile voltage | Clean thermocouple, check pilot flame |
-| 3 flashes | Pressure switch fault (power vent models only) | Check blower, hoses, vent |
-| 4 flashes | Temperature limit exceeded | Reduce setpoint, check T&P valve |
-| 5 flashes | Thermal switch / sensor fault | Replace gas control valve |
-| 6 flashes | Gas valve internal fault | Replace gas control valve |
-| 7 flashes | Pilot not proving | Relight pilot, replace thermocouple |
-| Continuous ON | Power fault / flame without pilot | Gas valve failure |
+| [1 flash](https://www.amazon.com/s?k=1+flash&tag=errorcodefixes-20) | Normal operation | None — system OK |
+| [2 flashes](https://www.amazon.com/s?k=2+flashes&tag=errorcodefixes-20) | Low thermopile voltage | Clean thermocouple, check pilot flame |
+| [3 flashes](https://www.amazon.com/s?k=3+flashes&tag=errorcodefixes-20) | Pressure switch fault (power vent models only) | Check blower, hoses, vent |
+| [4 flashes](https://www.amazon.com/s?k=4+flashes&tag=errorcodefixes-20) | Temperature limit exceeded | Reduce setpoint, check T&P valve |
+| [5 flashes](https://www.amazon.com/s?k=5+flashes&tag=errorcodefixes-20) | Thermal switch / sensor fault | Replace gas control valve |
+| [6 flashes](https://www.amazon.com/s?k=6+flashes&tag=errorcodefixes-20) | Gas valve internal fault | Replace gas control valve |
+| [7 flashes](https://www.amazon.com/s?k=7+flashes&tag=errorcodefixes-20) | Pilot not proving | Relight pilot, replace thermocouple |
+| [Continuous ON](https://www.amazon.com/s?k=Continuous+ON&tag=errorcodefixes-20) | Power fault / flame without pilot | Gas valve failure |
 
 ## Electric Models — Digital Display Codes
 
 American Water Heater electric models with digital controls (ProLine Specialist, Marathon series):
 
-| Code | Meaning | Action |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Meaning | Action |
 |---|---|---|
 | E1 | Upper heating element fault | Test, replace element |
 | E2 | Lower heating element fault | Test, replace element |
@@ -87,9 +87,9 @@ Most American Water Heater gas models use a standard 24" or 36" universal thermo
 
 | Part | Source | Cost |
 |---|---|---|
-| 24" universal thermocouple | Hardware store (Rheem, Honeywell compatible) | $8–15 |
-| 36" for tall units | Hardware store | $10–18 |
-| OEM thermocouple | AWH parts online | $15–25 |
+| [24" universal thermocouple](https://www.amazon.com/s?k=24%22+universal+thermocouple&tag=errorcodefixes-20) | Hardware store (Rheem, Honeywell compatible) | $8–15 |
+| [36" for tall units](https://www.amazon.com/s?k=36%22+for+tall+units&tag=errorcodefixes-20) | Hardware store | $10–18 |
+| [OEM thermocouple](https://www.amazon.com/s?k=OEM+thermocouple&tag=errorcodefixes-20) | AWH parts online | $15–25 |
 
 Thread the thermocouple into the gas valve finger-tight plus 1/4 turn — never overtighten, as the fitting is soft brass.
 

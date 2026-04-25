@@ -19,7 +19,7 @@ Carrier geothermal heat pumps (Infinity GHP and Performance series) communicate 
 
 ## Carrier Geothermal Fault Code Table
 
-| Code | Description | Common Cause |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Description | Common Cause |
 |---|---|---|
 | 1 | Low-pressure lockout | Low refrigerant, low airflow, low loop flow |
 | 2 | High-pressure lockout | High loop temp, dirty coil, overcharge |
@@ -74,11 +74,11 @@ ECM (variable-speed) motors fail as a module or the motor itself. Test:
 
 | Part | Notes |
 |---|---|
-| Low/high pressure switch | Match refrigerant type and trip pressure |
-| TXV assembly | Model-specific — match refrigerant and capacity |
-| ECM blower motor | Match HP and model — Carrier GHP specific |
-| Loop pump | Grundfos or Bell & Gossett — match GPM |
-| Freeze stat | Check setpoint — typically 30°F |
-| Water temperature sensor | 10K thermistor — check resistance curve |
+| [Low/high pressure switch](https://www.amazon.com/s?k=Low%2Fhigh+pressure+switch&tag=errorcodefixes-20) | Match refrigerant type and trip pressure |
+| [TXV assembly](https://www.amazon.com/s?k=TXV+assembly&tag=errorcodefixes-20) | Model-specific — match refrigerant and capacity |
+| [ECM blower motor](https://www.amazon.com/s?k=ECM+blower+motor&tag=errorcodefixes-20) | Match HP and model — Carrier GHP specific |
+| [Loop pump](https://www.amazon.com/s?k=Loop+pump&tag=errorcodefixes-20) | Grundfos or Bell & Gossett — match GPM |
+| [Freeze stat](https://www.amazon.com/s?k=Freeze+stat&tag=errorcodefixes-20) | Check setpoint — typically 30°F |
+| [Water temperature sensor](https://www.amazon.com/s?k=Water+temperature+sensor&tag=errorcodefixes-20) | 10K thermistor — check resistance curve |
 
 > **Pro tip:** Carrier Infinity geothermal units store fault history in the Infinity control. Navigate to System > Advanced > Fault History to view timestamped fault records.

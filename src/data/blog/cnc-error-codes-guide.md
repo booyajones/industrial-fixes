@@ -16,14 +16,14 @@ tags:
 
 CNC controls tell you where the fault lives before you open the electrical cabinet. The trick is knowing whether the alarm points to the control, the drive, the motor, or the machine mechanics. This guide covers the alarm patterns technicians see across the major CNC brands.
 
-| Brand | Common Alarm Style | Typical Root Cause |
+| [Brand](https://www.amazon.com/s?k=Brand&tag=errorcodefixes-20) | Common Alarm Style | Typical Root Cause |
 |------|--------------------|--------------------|
-| Fanuc | Numeric alarm with prefix like SV, SP, APC | Servo, spindle, encoder, reference loss |
-| Haas | Numeric alarm with plain-language text | Spindle, tool changer, overtravel, I/O |
-| Mazak | Numeric NC alarm plus drive sub-code | Servo drive, spindle, hydraulics, ATC |
-| Siemens | Large 5 to 6 digit alarm numbers | SINAMICS drive, NCK, communication |
-| Okuma | OSP alarm number and text | Servo axis, spindle, ABS encoder, turret |
-| Mitsubishi | MDS drive alarms and NC alarms | Drive overload, encoder, power section |
+| [Fanuc](https://www.amazon.com/s?k=Fanuc&tag=errorcodefixes-20) | Numeric alarm with prefix like SV, SP, APC | Servo, spindle, encoder, reference loss |
+| [Haas](https://www.amazon.com/s?k=Haas&tag=errorcodefixes-20) | Numeric alarm with plain-language text | Spindle, tool changer, overtravel, I/O |
+| [Mazak](https://www.amazon.com/s?k=Mazak&tag=errorcodefixes-20) | Numeric NC alarm plus drive sub-code | Servo drive, spindle, hydraulics, ATC |
+| [Siemens](https://www.amazon.com/s?k=Siemens&tag=errorcodefixes-20) | Large 5 to 6 digit alarm numbers | SINAMICS drive, NCK, communication |
+| [Okuma](https://www.amazon.com/s?k=Okuma&tag=errorcodefixes-20) | OSP alarm number and text | Servo axis, spindle, ABS encoder, turret |
+| [Mitsubishi](https://www.amazon.com/s?k=Mitsubishi&tag=errorcodefixes-20) | MDS drive alarms and NC alarms | Drive overload, encoder, power section |
 
 ## The Main Alarm Categories
 
@@ -49,14 +49,14 @@ These alarms are often simple. The axis hit a travel limit because of a programm
 
 ## Common Alarm Families by Brand
 
-| Brand | Alarm Family | Meaning |
+| [Brand](https://www.amazon.com/s?k=Brand&tag=errorcodefixes-20) | Alarm Family | Meaning |
 |------|--------------|---------|
-| Fanuc | 400 series | Servo alarms |
-| Fanuc | 700 series | Spindle alarms |
-| Haas | 100 series | Spindle, servo, tool changer |
-| Siemens | 380xxx | Drive and motor alarms |
-| Mazak | 100 / 200 / 400 series | Servo, spindle, ATC |
-| Okuma | 1000 / 1200 / 4000 series | Servo, spindle, turret |
+| [Fanuc](https://www.amazon.com/s?k=Fanuc&tag=errorcodefixes-20) | 400 series | Servo alarms |
+| [Fanuc](https://www.amazon.com/s?k=Fanuc&tag=errorcodefixes-20) | 700 series | Spindle alarms |
+| [Haas](https://www.amazon.com/s?k=Haas&tag=errorcodefixes-20) | 100 series | Spindle, servo, tool changer |
+| [Siemens](https://www.amazon.com/s?k=Siemens&tag=errorcodefixes-20) | 380xxx | Drive and motor alarms |
+| [Mazak](https://www.amazon.com/s?k=Mazak&tag=errorcodefixes-20) | 100 / 200 / 400 series | Servo, spindle, ATC |
+| [Okuma](https://www.amazon.com/s?k=Okuma&tag=errorcodefixes-20) | 1000 / 1200 / 4000 series | Servo, spindle, turret |
 
 ## Before You Replace Parts
 

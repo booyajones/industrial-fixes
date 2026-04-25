@@ -29,12 +29,12 @@ Honeywell's communicating and zone-control-capable thermostats monitor the G (fa
 
 | Cause | Notes |
 |---|---|
-| G terminal wire shorted to chassis or other terminal | Most common electrical cause |
-| Failed indoor blower relay or control board | Relay coil shorted |
-| Wrong wiring configuration | G wire on wrong terminal |
-| Accessory (humidifier, UVCO light) wired into G | Causes excessive load |
-| Thermostat firmware bug | Some early T6 Pro units had fan monitoring issues |
-| Failed thermostat output circuit | Rare hardware failure |
+| [G terminal wire shorted to chassis or other terminal](https://www.amazon.com/s?k=G+terminal+wire+shorted+to+chassis+or+other+terminal&tag=errorcodefixes-20) | Most common electrical cause |
+| [Failed indoor blower relay or control board](https://www.amazon.com/s?k=Failed+indoor+blower+relay+or+control+board&tag=errorcodefixes-20) | Relay coil shorted |
+| [Wrong wiring configuration](https://www.amazon.com/s?k=Wrong+wiring+configuration&tag=errorcodefixes-20) | G wire on wrong terminal |
+| [Accessory (humidifier, UVCO light) wired into G](https://www.amazon.com/s?k=Accessory+%28humidifier%2C+UVCO+light%29+wired+into+G&tag=errorcodefixes-20) | Causes excessive load |
+| [Thermostat firmware bug](https://www.amazon.com/s?k=Thermostat+firmware+bug&tag=errorcodefixes-20) | Some early T6 Pro units had fan monitoring issues |
+| [Failed thermostat output circuit](https://www.amazon.com/s?k=Failed+thermostat+output+circuit&tag=errorcodefixes-20) | Rare hardware failure |
 
 ## Step-by-Step Fix
 
@@ -57,13 +57,13 @@ On standard 24V wired systems (not communicating/iComfort), FC usually means a w
 
 ## Wiring Reference
 
-| Terminal | Function |
+| [Terminal](https://www.amazon.com/s?k=Terminal&tag=errorcodefixes-20) | Function |
 |---|---|
 | R | 24V power |
 | C | Common (return) |
 | G | Fan (indoor blower) |
-| W / W2 | Heat stage 1 / 2 |
-| Y / Y2 | Cool stage 1 / 2 |
+| [W / W2](https://www.amazon.com/s?k=W+%2F+W2&tag=errorcodefixes-20) | Heat stage 1 / 2 |
+| [Y / Y2](https://www.amazon.com/s?k=Y+%2F+Y2&tag=errorcodefixes-20) | Cool stage 1 / 2 |
 | O/B | Reversing valve (heat pumps) |
 
 ## Replace vs. Repair

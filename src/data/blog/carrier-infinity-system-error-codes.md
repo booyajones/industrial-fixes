@@ -30,7 +30,7 @@ Any loss of communication between these devices triggers a fault code.
 
 ## Common Infinity Error Codes
 
-| Code | Description | Likely Cause |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Description | Likely Cause |
 |---|---|---|
 | 10 | System communication error | Wiring fault or device offline |
 | 11 | Thermostat communication error | Thermostat board failure |

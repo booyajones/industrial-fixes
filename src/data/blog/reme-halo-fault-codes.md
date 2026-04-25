@@ -16,15 +16,15 @@ tags:
 
 The RGF REME Halo LED is an in-duct air purification system that uses UV-C light and a proprietary PHI (Photo Hydro Ionization) cell to reduce airborne contaminants. The unit communicates status through LED indicators on its housing. There are no numeric fault codes — status is conveyed by LED color and flash pattern.
 
-| LED State | Color | Meaning | Action |
+| [LED State](https://www.amazon.com/s?k=LED+State&tag=errorcodefixes-20) | Color | Meaning | Action |
 |-----------|-------|---------|--------|
-| Solid | Blue | Normal operation | None required |
-| Solid | Green | Cell life > 50% remaining | None required |
-| Flashing | Yellow/Amber | Cell life 25–50% remaining | Plan cell replacement soon |
-| Solid | Red | Cell end of life / fault | Replace PHI cell immediately |
-| Flashing | Red | Unit fault — not operating | Check power; inspect unit |
+| [Solid](https://www.amazon.com/s?k=Solid&tag=errorcodefixes-20) | Blue | Normal operation | None required |
+| [Solid](https://www.amazon.com/s?k=Solid&tag=errorcodefixes-20) | Green | Cell life > 50% remaining | None required |
+| [Flashing](https://www.amazon.com/s?k=Flashing&tag=errorcodefixes-20) | Yellow/Amber | Cell life 25–50% remaining | Plan cell replacement soon |
+| [Solid](https://www.amazon.com/s?k=Solid&tag=errorcodefixes-20) | Red | Cell end of life / fault | Replace PHI cell immediately |
+| [Flashing](https://www.amazon.com/s?k=Flashing&tag=errorcodefixes-20) | Red | Unit fault — not operating | Check power; inspect unit |
 | Off | — | No power | Check 24VAC input; check wiring |
-| Flashing | Blue | Startup / initialization | Normal — wait 60 seconds |
+| [Flashing](https://www.amazon.com/s?k=Flashing&tag=errorcodefixes-20) | Blue | Startup / initialization | Normal — wait 60 seconds |
 
 ## Most Common Issues
 
@@ -61,10 +61,10 @@ The amber flash pattern indicates the PHI cell has between 25% and 50% life rema
 
 ## PHI Cell Replacement Parts
 
-| Model | Cell Part Number | Life Expectancy |
+| [Model](https://www.amazon.com/s?k=Model&tag=errorcodefixes-20) | Cell Part Number | Life Expectancy |
 |-------|-----------------|----------------|
-| REME Halo LED (REME-H-LED) | REME-H-LED-CELL | ~2 years |
-| REME Halo (original, non-LED) | REME-H-CELL | ~2 years |
+| [REME Halo LED (REME-H-LED)](https://www.amazon.com/s?k=REME+Halo+LED+%28REME-H-LED%29&tag=errorcodefixes-20) | REME-H-LED-CELL | ~2 years |
+| [REME Halo (original, non-LED)](https://www.amazon.com/s?k=REME+Halo+%28original%2C+non-LED%29&tag=errorcodefixes-20) | REME-H-CELL | ~2 years |
 
 ## When to Call a Pro
 If the unit displays a flashing red fault after a new cell is installed, contact RGF Environmental Group technical support or an authorized dealer — the unit itself may have failed and require replacement.

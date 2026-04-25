@@ -16,18 +16,18 @@ tags:
 
 BACnet (Building Automation and Control Networks, ASHRAE Standard 135) defines specific error codes returned by devices in response to service requests. These appear in BACnet client software, commissioning tools, and network analyzers.
 
-| Error Code | Class | Meaning | Quick Fix |
+| [Error Code](https://www.amazon.com/s?k=Error+Code&tag=errorcodefixes-20) | Class | Meaning | Quick Fix |
 |-----------|-------|---------|-----------|
-| UNKNOWN-OBJECT | Device | Object does not exist | Check object ID in database |
-| UNKNOWN-PROPERTY | Device | Property not supported | Check device documentation |
-| VALUE-OUT-OF-RANGE | Device | Write value exceeds limits | Check min/max before writing |
-| NO-SPACE-TO-WRITE-PROPERTY | Device | Device memory full | Check device capacity |
-| WRITE-ACCESS-DENIED | Device | Property is read-only | Check property write protection |
-| DEVICE-NOT-FOUND | Network | Device not responding | Check address and network |
-| TIMEOUT | Network | No response received | Check network and device |
-| REJECT: UNRECOGNIZED-SERVICE | Device | Service not supported | Use supported service |
-| ABORT: BUFFER-OVERFLOW | Network | Response too large | Use pagination or segmentation |
-| SEGMENTATION-NOT-SUPPORTED | Device | Large transfers not supported | Read in smaller chunks |
+| [UNKNOWN-OBJECT](https://www.amazon.com/s?k=UNKNOWN-OBJECT&tag=errorcodefixes-20) | Device | Object does not exist | Check object ID in database |
+| [UNKNOWN-PROPERTY](https://www.amazon.com/s?k=UNKNOWN-PROPERTY&tag=errorcodefixes-20) | Device | Property not supported | Check device documentation |
+| [VALUE-OUT-OF-RANGE](https://www.amazon.com/s?k=VALUE-OUT-OF-RANGE&tag=errorcodefixes-20) | Device | Write value exceeds limits | Check min/max before writing |
+| [NO-SPACE-TO-WRITE-PROPERTY](https://www.amazon.com/s?k=NO-SPACE-TO-WRITE-PROPERTY&tag=errorcodefixes-20) | Device | Device memory full | Check device capacity |
+| [WRITE-ACCESS-DENIED](https://www.amazon.com/s?k=WRITE-ACCESS-DENIED&tag=errorcodefixes-20) | Device | Property is read-only | Check property write protection |
+| [DEVICE-NOT-FOUND](https://www.amazon.com/s?k=DEVICE-NOT-FOUND&tag=errorcodefixes-20) | Network | Device not responding | Check address and network |
+| [TIMEOUT](https://www.amazon.com/s?k=TIMEOUT&tag=errorcodefixes-20) | Network | No response received | Check network and device |
+| [REJECT: UNRECOGNIZED-SERVICE](https://www.amazon.com/s?k=REJECT%3A+UNRECOGNIZED-SERVICE&tag=errorcodefixes-20) | Device | Service not supported | Use supported service |
+| [ABORT: BUFFER-OVERFLOW](https://www.amazon.com/s?k=ABORT%3A+BUFFER-OVERFLOW&tag=errorcodefixes-20) | Network | Response too large | Use pagination or segmentation |
+| [SEGMENTATION-NOT-SUPPORTED](https://www.amazon.com/s?k=SEGMENTATION-NOT-SUPPORTED&tag=errorcodefixes-20) | Device | Large transfers not supported | Read in smaller chunks |
 
 ## Most Common BACnet Errors
 
@@ -48,13 +48,13 @@ BACnet devices enforce their own limits on writable properties. A setpoint contr
 
 ## MS/TP Bus Troubleshooting
 
-| Issue | Likely Cause | Fix |
+| [Issue](https://www.amazon.com/s?k=Issue&tag=errorcodefixes-20) | Likely Cause | Fix |
 |-------|-------------|-----|
-| All devices offline | Bus break or master offline | Trace cable, check master |
-| Intermittent comm | Extra termination resistor | Remove extra terminators |
-| One device offline | Address conflict | Scan bus, fix duplicate address |
-| Slow response | High token rotation time | Reduce Max_Master setting |
-| Packet errors | Baud rate mismatch | Verify all devices at same baud |
+| [All devices offline](https://www.amazon.com/s?k=All+devices+offline&tag=errorcodefixes-20) | Bus break or master offline | Trace cable, check master |
+| [Intermittent comm](https://www.amazon.com/s?k=Intermittent+comm&tag=errorcodefixes-20) | Extra termination resistor | Remove extra terminators |
+| [One device offline](https://www.amazon.com/s?k=One+device+offline&tag=errorcodefixes-20) | Address conflict | Scan bus, fix duplicate address |
+| [Slow response](https://www.amazon.com/s?k=Slow+response&tag=errorcodefixes-20) | High token rotation time | Reduce Max_Master setting |
+| [Packet errors](https://www.amazon.com/s?k=Packet+errors&tag=errorcodefixes-20) | Baud rate mismatch | Verify all devices at same baud |
 
 ## When to Call a Pro
 BACnet network design, router configuration, and integration between different BACnet implementations often require a certified BACnet professional (CBP) or integration specialist.

@@ -24,22 +24,22 @@ The Omron CP1H is a compact PLC that indicates faults through **front-panel LEDs
 |---|---|
 | PWR | Power present |
 | RUN | Program executing normally |
-| ERR/ALM solid | Fatal error, CPU stopped |
-| ERR/ALM blinking | Non-fatal error, CPU still running |
+| [ERR/ALM solid](https://www.amazon.com/s?k=ERR%2FALM+solid&tag=errorcodefixes-20) | Fatal error, CPU stopped |
+| [ERR/ALM blinking](https://www.amazon.com/s?k=ERR%2FALM+blinking&tag=errorcodefixes-20) | Non-fatal error, CPU still running |
 | INH | Interrupts disabled |
-| BKUP | Battery low or memory backup issue |
+| [BKUP](https://www.amazon.com/s?k=BKUP&tag=errorcodefixes-20) | Battery low or memory backup issue |
 
 ## Common CP1H Faults
 
-| Fault | Meaning | Typical Fix |
+| [Fault](https://www.amazon.com/s?k=Fault&tag=errorcodefixes-20) | Meaning | Typical Fix |
 |---|---|---|
-| Memory error | Program or DM memory corrupted | Re-download program, check battery |
-| I/O bus error | Expansion module missing or failed | Reseat module, verify addressing |
-| Battery error | Backup battery low | Replace battery with power on |
-| Cycle time over | Scan time exceeded configured maximum | Optimize logic, increase cycle limit |
-| Syntax/program error | Invalid instruction or bad jump | Compile in CX-Programmer and fix rung |
-| Unit number duplicate | Smart units or option boards share address | Change DIP/unit number |
-| PLC Setup error | Parameter mismatch after download | Rewrite settings and cycle power |
+| [Memory error](https://www.amazon.com/s?k=Memory+error&tag=errorcodefixes-20) | Program or DM memory corrupted | Re-download program, check battery |
+| [I/O bus error](https://www.amazon.com/s?k=I%2FO+bus+error&tag=errorcodefixes-20) | Expansion module missing or failed | Reseat module, verify addressing |
+| [Battery error](https://www.amazon.com/s?k=Battery+error&tag=errorcodefixes-20) | Backup battery low | Replace battery with power on |
+| [Cycle time over](https://www.amazon.com/s?k=Cycle+time+over&tag=errorcodefixes-20) | Scan time exceeded configured maximum | Optimize logic, increase cycle limit |
+| [Syntax/program error](https://www.amazon.com/s?k=Syntax%2Fprogram+error&tag=errorcodefixes-20) | Invalid instruction or bad jump | Compile in CX-Programmer and fix rung |
+| [Unit number duplicate](https://www.amazon.com/s?k=Unit+number+duplicate&tag=errorcodefixes-20) | Smart units or option boards share address | Change DIP/unit number |
+| [PLC Setup error](https://www.amazon.com/s?k=PLC+Setup+error&tag=errorcodefixes-20) | Parameter mismatch after download | Rewrite settings and cycle power |
 
 ## Reading Faults in CX-Programmer
 

@@ -24,13 +24,13 @@ Siemens S7-300 and S7-400 PLCs indicate faults through **front-panel LEDs**, the
 | LED | State | Meaning |
 |---|---|---|
 | RUN | Green solid | CPU executing program |
-| STOP | Yellow solid | CPU stopped (no fault) |
-| STOP | Yellow blinking | CPU in STOP due to fault |
+| [STOP](https://www.amazon.com/s?k=STOP&tag=errorcodefixes-20) | Yellow solid | CPU stopped (no fault) |
+| [STOP](https://www.amazon.com/s?k=STOP&tag=errorcodefixes-20) | Yellow blinking | CPU in STOP due to fault |
 | SF | Red solid | System/group fault |
 | BF | Red solid | Bus fault (PROFIBUS/DP) |
-| DC5V | Green solid | 5V internal supply OK |
-| FRCE | Yellow | Force mode active |
-| MAINT | Yellow | Maintenance required |
+| [DC5V](https://www.amazon.com/s?k=DC5V&tag=errorcodefixes-20) | Green solid | 5V internal supply OK |
+| [FRCE](https://www.amazon.com/s?k=FRCE&tag=errorcodefixes-20) | Yellow | Force mode active |
+| [MAINT](https://www.amazon.com/s?k=MAINT&tag=errorcodefixes-20) | Yellow | Maintenance required |
 
 **SF + STOP blinking together = hardware or software fault — read the diagnostic buffer immediately.**
 
@@ -51,18 +51,18 @@ The diagnostic buffer stores the last 100 events including all faults. Access vi
 
 ## Common S7 CPU Fault Events
 
-| Event Code | Description | Cause |
+| [Event Code](https://www.amazon.com/s?k=Event+Code&tag=errorcodefixes-20) | Description | Cause |
 |---|---|---|
-| 16#A502 | Startup complete | Normal — CPU went from STOP to RUN |
-| 16#A503 | STOP mode entered | Manual STOP or fault |
-| 16#253A | OB not loaded — CPU stops | Missing OB (e.g., OB82 or OB86 not present) |
-| 16#2521 | I/O access error | Module missing or failed at accessed address |
-| 16#2522 | I/O write error | Output module fault |
-| 16#2526 | Timeout on I/O access | Module not responding |
-| 16#A29F | Configuration error | Hardware config doesn't match physical racks |
-| 16#4500 | Rack failure | Module in rack not communicating |
-| 16#4B00 | PROFIBUS DP station failure | Remote DP device went offline |
-| 16#CAFE | CPU memory card error | Remove and reinstall memory card |
+| [16#A502](https://www.amazon.com/s?k=16%23A502&tag=errorcodefixes-20) | Startup complete | Normal — CPU went from STOP to RUN |
+| [16#A503](https://www.amazon.com/s?k=16%23A503&tag=errorcodefixes-20) | STOP mode entered | Manual STOP or fault |
+| [16#253A](https://www.amazon.com/s?k=16%23253A&tag=errorcodefixes-20) | OB not loaded — CPU stops | Missing OB (e.g., OB82 or OB86 not present) |
+| [16#2521](https://www.amazon.com/s?k=16%232521&tag=errorcodefixes-20) | I/O access error | Module missing or failed at accessed address |
+| [16#2522](https://www.amazon.com/s?k=16%232522&tag=errorcodefixes-20) | I/O write error | Output module fault |
+| [16#2526](https://www.amazon.com/s?k=16%232526&tag=errorcodefixes-20) | Timeout on I/O access | Module not responding |
+| [16#A29F](https://www.amazon.com/s?k=16%23A29F&tag=errorcodefixes-20) | Configuration error | Hardware config doesn't match physical racks |
+| [16#4500](https://www.amazon.com/s?k=16%234500&tag=errorcodefixes-20) | Rack failure | Module in rack not communicating |
+| [16#4B00](https://www.amazon.com/s?k=16%234B00&tag=errorcodefixes-20) | PROFIBUS DP station failure | Remote DP device went offline |
+| [16#CAFE](https://www.amazon.com/s?k=16%23CAFE&tag=errorcodefixes-20) | CPU memory card error | Remove and reinstall memory card |
 
 ## OB (Organization Block) Error Handling
 
@@ -70,14 +70,14 @@ The S7 calls specific OBs when faults occur. If the OB is **not loaded in the CP
 
 | OB | Trigger | Common Requirement |
 |---|---|---|
-| OB80 | Cycle time fault (watchdog) | Needed if cycle time can be exceeded |
-| OB81 | Power supply fault | Needed for redundant power supply systems |
-| OB82 | Diagnostic interrupt | Needed for intelligent I/O modules with diagnostics |
-| OB83 | Insert/remove module | Needed for hot-plug capable systems |
-| OB84 | CPU hardware fault | Rare, needed for fault-tolerant systems |
-| OB85 | Program sequence fault | Load OB to prevent CPU stop on error |
-| OB86 | Loss of rack / DP station | **Most commonly missing** — add empty OB86 |
-| OB122 | I/O access error | Load to prevent stop on missing I/O |
+| [OB80](https://www.amazon.com/s?k=OB80&tag=errorcodefixes-20) | Cycle time fault (watchdog) | Needed if cycle time can be exceeded |
+| [OB81](https://www.amazon.com/s?k=OB81&tag=errorcodefixes-20) | Power supply fault | Needed for redundant power supply systems |
+| [OB82](https://www.amazon.com/s?k=OB82&tag=errorcodefixes-20) | Diagnostic interrupt | Needed for intelligent I/O modules with diagnostics |
+| [OB83](https://www.amazon.com/s?k=OB83&tag=errorcodefixes-20) | Insert/remove module | Needed for hot-plug capable systems |
+| [OB84](https://www.amazon.com/s?k=OB84&tag=errorcodefixes-20) | CPU hardware fault | Rare, needed for fault-tolerant systems |
+| [OB85](https://www.amazon.com/s?k=OB85&tag=errorcodefixes-20) | Program sequence fault | Load OB to prevent CPU stop on error |
+| [OB86](https://www.amazon.com/s?k=OB86&tag=errorcodefixes-20) | Loss of rack / DP station | **Most commonly missing** — add empty OB86 |
+| [OB122](https://www.amazon.com/s?k=OB122&tag=errorcodefixes-20) | I/O access error | Load to prevent stop on missing I/O |
 
 **Fastest fix for "OB not loaded" stops:** Create an empty OB with the required number and download it to the CPU.
 

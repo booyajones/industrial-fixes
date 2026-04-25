@@ -27,7 +27,7 @@ Mitsubishi Mr. Slim is the commercial line of Mitsubishi Electric ductless and d
 
 ### P-Codes — Protection/Safety
 
-| Code | Description | Common Cause |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Description | Common Cause |
 |---|---|---|
 | P1 | Indoor unit intake temperature sensor fault | Check sensor at return air |
 | P2 | Indoor unit pipe temperature sensor fault | Check liquid pipe sensor |
@@ -41,7 +41,7 @@ Mitsubishi Mr. Slim is the commercial line of Mitsubishi Electric ductless and d
 
 ### E-Codes — Indoor Unit Electrical
 
-| Code | Description | Common Cause |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Description | Common Cause |
 |---|---|---|
 | E0 | Remote control signal fault | Remote wiring or signal issue |
 | E1 | Indoor unit PCB fault | Replace indoor control board |
@@ -54,7 +54,7 @@ Mitsubishi Mr. Slim is the commercial line of Mitsubishi Electric ductless and d
 
 ### U-Codes — System/Communication
 
-| Code | Description | Common Cause |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Description | Common Cause |
 |---|---|---|
 | U1 | Reverse phase detection | Check 3-phase power phasing |
 | U2 | Power module fault | Outdoor IPM (inverter module) fault |
@@ -96,11 +96,11 @@ The most common Mr. Slim multi-zone fault:
 
 | Part | Notes |
 |---|---|
-| Indoor pipe temperature sensor | Part varies by model — 10K or 5K thermistor |
-| EEV coil | Model-specific — match wiring harness |
-| Indoor PCB | Match part number from unit nameplate |
-| Outdoor inverter PCB | High-value part — verify fault before replacing |
-| Condensate pump | Fits PCA/PKAA ceiling cassette models |
-| Fan capacitor | Indoor or outdoor — match µF |
+| [Indoor pipe temperature sensor](https://www.amazon.com/s?k=Indoor+pipe+temperature+sensor&tag=errorcodefixes-20) | Part varies by model — 10K or 5K thermistor |
+| [EEV coil](https://www.amazon.com/s?k=EEV+coil&tag=errorcodefixes-20) | Model-specific — match wiring harness |
+| [Indoor PCB](https://www.amazon.com/s?k=Indoor+PCB&tag=errorcodefixes-20) | Match part number from unit nameplate |
+| [Outdoor inverter PCB](https://www.amazon.com/s?k=Outdoor+inverter+PCB&tag=errorcodefixes-20) | High-value part — verify fault before replacing |
+| [Condensate pump](https://www.amazon.com/s?k=Condensate+pump&tag=errorcodefixes-20) | Fits PCA/PKAA ceiling cassette models |
+| [Fan capacitor](https://www.amazon.com/s?k=Fan+capacitor&tag=errorcodefixes-20) | Indoor or outdoor — match µF |
 
 > **Pro tip:** Mitsubishi Mr. Slim units store the last 4 fault codes in the PCB memory. On the wired remote PAR-31, navigate to CHECK > SELF DIAGNOSIS to view the fault history.

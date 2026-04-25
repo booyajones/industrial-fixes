@@ -22,11 +22,11 @@ Code 65 appears on Carrier Performance (58TP, 58SP, 58MXB) and Infinity (59MN7, 
 
 | Cause | Likelihood | Test |
 |-------|-----------|------|
-| Failed inducer motor | High | Listen for motor attempting to start |
-| Failed inducer motor capacitor | High | Test capacitor with capacitor meter |
-| Inducer wheel jammed | Medium | Spin wheel manually — should spin freely |
-| IFC board not sending power | Medium | Measure 115VAC at motor terminals |
-| Failed RPM/tachometer feedback circuit | Lower | Check RPM feedback wire to board |
+| [Failed inducer motor](https://www.amazon.com/s?k=Failed+inducer+motor&tag=errorcodefixes-20) | High | Listen for motor attempting to start |
+| [Failed inducer motor capacitor](https://www.amazon.com/s?k=Failed+inducer+motor+capacitor&tag=errorcodefixes-20) | High | Test capacitor with capacitor meter |
+| [Inducer wheel jammed](https://www.amazon.com/s?k=Inducer+wheel+jammed&tag=errorcodefixes-20) | Medium | Spin wheel manually — should spin freely |
+| [IFC board not sending power](https://www.amazon.com/s?k=IFC+board+not+sending+power&tag=errorcodefixes-20) | Medium | Measure 115VAC at motor terminals |
+| [Failed RPM/tachometer feedback circuit](https://www.amazon.com/s?k=Failed+RPM%2Ftachometer+feedback+circuit&tag=errorcodefixes-20) | Lower | Check RPM feedback wire to board |
 
 ## Step-by-Step Diagnosis
 

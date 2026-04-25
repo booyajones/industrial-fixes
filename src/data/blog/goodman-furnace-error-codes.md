@@ -15,19 +15,19 @@ tags:
 
 Goodman furnaces signal faults through a flashing LED on the control board. Remove the lower access panel and count the repeating blink sequence. One long flash followed by shorter flashes indicates a two-digit code on newer boards; older boards use a simple count. Goodman shares its control board platform with Amana — the codes are identical across both brands.
 
-| Code | Meaning | Quick Fix |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |------|---------|-----------|
-| 1 flash | Lockout — retries exceeded | Manual reset; check igniter and gas |
-| 2 flashes | Pressure switch stuck open | Check inducer, hose, drain trap |
-| 3 flashes | Pressure switch stuck closed | Inspect pressure switch hose routing |
-| 4 flashes | Open high-limit device | Replace filter; check airflow |
-| 5 flashes | Flame sensed with no call for heat | Gas valve may be leaking |
-| 6 flashes | 115V AC power reversed / bad ground | Check polarity at furnace disconnect |
-| 7 flashes | Gas valve energized without call | Gas valve or board fault |
-| 8 flashes | Low flame sensor signal | Clean flame sensor rod |
-| 9 flashes | Igniter circuit fault | Check igniter continuity; replace if open |
-| Continuous | Normal operation (no fault) | — |
-| Slow flash | Standby / waiting for call | Normal |
+| [1 flash](https://www.amazon.com/s?k=1+flash&tag=errorcodefixes-20) | Lockout — retries exceeded | Manual reset; check igniter and gas |
+| [2 flashes](https://www.amazon.com/s?k=2+flashes&tag=errorcodefixes-20) | Pressure switch stuck open | Check inducer, hose, drain trap |
+| [3 flashes](https://www.amazon.com/s?k=3+flashes&tag=errorcodefixes-20) | Pressure switch stuck closed | Inspect pressure switch hose routing |
+| [4 flashes](https://www.amazon.com/s?k=4+flashes&tag=errorcodefixes-20) | Open high-limit device | Replace filter; check airflow |
+| [5 flashes](https://www.amazon.com/s?k=5+flashes&tag=errorcodefixes-20) | Flame sensed with no call for heat | Gas valve may be leaking |
+| [6 flashes](https://www.amazon.com/s?k=6+flashes&tag=errorcodefixes-20) | 115V AC power reversed / bad ground | Check polarity at furnace disconnect |
+| [7 flashes](https://www.amazon.com/s?k=7+flashes&tag=errorcodefixes-20) | Gas valve energized without call | Gas valve or board fault |
+| [8 flashes](https://www.amazon.com/s?k=8+flashes&tag=errorcodefixes-20) | Low flame sensor signal | Clean flame sensor rod |
+| [9 flashes](https://www.amazon.com/s?k=9+flashes&tag=errorcodefixes-20) | Igniter circuit fault | Check igniter continuity; replace if open |
+| [Continuous](https://www.amazon.com/s?k=Continuous&tag=errorcodefixes-20) | Normal operation (no fault) | — |
+| [Slow flash](https://www.amazon.com/s?k=Slow+flash&tag=errorcodefixes-20) | Standby / waiting for call | Normal |
 | E1 | Communication fault (some models) | Check thermostat wiring |
 | EE2 | EEPROM memory fault | Replace control board |
 

@@ -43,12 +43,12 @@ CNC machines and BMS systems display descriptive fault names with numeric codes.
 
 ## The Four Most Common Root Causes Across All Equipment
 
-| Root Cause | HVAC Code | VFD Code | CNC Code |
+| [Root Cause](https://www.amazon.com/s?k=Root+Cause&tag=errorcodefixes-20) | HVAC Code | VFD Code | CNC Code |
 |-----------|-----------|----------|----------|
-| Overtemperature | 4 flashes, E2 | OH, F5 | Alarm 700 |
-| Sensor failure | E1, Code 7 | Sensor fault | --- |
-| Mechanical overload | 4 flashes | OL, F7 | Alarm 409/460 |
-| Communication fault | E6, Er | CF, E20 | Alarm 25000 |
+| [Overtemperature](https://www.amazon.com/s?k=Overtemperature&tag=errorcodefixes-20) | 4 flashes, E2 | OH, F5 | Alarm 700 |
+| [Sensor failure](https://www.amazon.com/s?k=Sensor+failure&tag=errorcodefixes-20) | E1, Code 7 | Sensor fault | --- |
+| [Mechanical overload](https://www.amazon.com/s?k=Mechanical+overload&tag=errorcodefixes-20) | 4 flashes | OL, F7 | Alarm 409/460 |
+| [Communication fault](https://www.amazon.com/s?k=Communication+fault&tag=errorcodefixes-20) | E6, Er | CF, E20 | Alarm 25000 |
 
 ## When Error Codes Point to Parts
 

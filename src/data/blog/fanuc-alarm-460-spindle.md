@@ -22,10 +22,10 @@ Alarm 460 indicates that the spindle speed feedback signal does not match the co
 
 ## Alarm 460 vs Alarm 460/461
 
-| Alarm | Meaning |
+| [Alarm](https://www.amazon.com/s?k=Alarm&tag=errorcodefixes-20) | Meaning |
 |-------|---------|
-| Alarm 460 | Spindle speed error — speed deviation too large |
-| Alarm 461 | Spindle speed fluctuation — excessive speed variation |
+| [Alarm 460](https://www.amazon.com/s?k=Alarm+460&tag=errorcodefixes-20) | Spindle speed error — speed deviation too large |
+| [Alarm 461](https://www.amazon.com/s?k=Alarm+461&tag=errorcodefixes-20) | Spindle speed fluctuation — excessive speed variation |
 
 Both alarms relate to spindle speed control but have different root causes.
 
@@ -53,11 +53,11 @@ Verify the analog speed command (0–10V) from the CNC to the spindle drive is w
 
 ## Parameter Reference
 
-| Parameter | Function | Notes |
+| [Parameter](https://www.amazon.com/s?k=Parameter&tag=errorcodefixes-20) | Function | Notes |
 |-----------|---------|-------|
-| 4020 | Maximum spindle speed | Verify correct for machine |
-| 4022 | Speed error detection enable | Set to 1 to enable |
-| 4031 | Speed error tolerance | Amount of allowed deviation |
+| [4020](https://www.amazon.com/s?k=4020&tag=errorcodefixes-20) | Maximum spindle speed | Verify correct for machine |
+| [4022](https://www.amazon.com/s?k=4022&tag=errorcodefixes-20) | Speed error detection enable | Set to 1 to enable |
+| [4031](https://www.amazon.com/s?k=4031&tag=errorcodefixes-20) | Speed error tolerance | Amount of allowed deviation |
 
 ## Jump to Fix
 

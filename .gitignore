@@ -26,3 +26,7 @@ pnpm-debug.log*
 # pagefind
 
 public/pagefind
+*.log
+build-*.log
+deploy-*.log
+astro-build-*.log

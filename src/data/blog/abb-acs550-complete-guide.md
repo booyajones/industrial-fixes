@@ -20,39 +20,39 @@ The ABB ACS550 is a wall-mount general-purpose variable frequency drive rated fr
 
 ## ABB ACS550 Fault Codes (Fxxx)
 
-| Fault | Meaning |
+| [Fault](https://www.amazon.com/s?k=Fault&tag=errorcodefixes-20) | Meaning |
 |-------|---------|
-| F0001 | Overcurrent — motor phase current too high |
-| F0002 | DC overvoltage — DC bus voltage too high |
-| F0003 | Device temperature — heatsink overtemperature |
-| F0005 | DC undervoltage — supply voltage too low |
-| F0006 | DC link fault |
-| F0007 | AI1 loss — analog input 1 signal lost |
-| F0009 | Underload — motor drawing less current than expected |
-| F0010 | Panel loss — control panel communication lost |
-| F0013 | Ext fault 1 — external fault input active |
-| F0021 | IGBT fault — drive output bridge fault |
-| F0023 | Earth fault (ground fault) — motor phase to ground |
-| F0029 | Motor phase loss — one output phase missing |
-| F0030 | Motor stall — motor drawing high current at low speed |
-| F0035 | Safe torque off (STO) — safety input activated |
-| F0041 | Thermistor fault — motor thermistor overtemp |
-| F0065 | Motor speed feedback fault |
-| F0070 | Fieldbus communication fault |
-| F0121 | Motor overload (I2t) — thermal model overload |
-| F0130 | Control board fault |
+| [F0001](https://www.amazon.com/s?k=F0001&tag=errorcodefixes-20) | Overcurrent — motor phase current too high |
+| [F0002](https://www.amazon.com/s?k=F0002&tag=errorcodefixes-20) | DC overvoltage — DC bus voltage too high |
+| [F0003](https://www.amazon.com/s?k=F0003&tag=errorcodefixes-20) | Device temperature — heatsink overtemperature |
+| [F0005](https://www.amazon.com/s?k=F0005&tag=errorcodefixes-20) | DC undervoltage — supply voltage too low |
+| [F0006](https://www.amazon.com/s?k=F0006&tag=errorcodefixes-20) | DC link fault |
+| [F0007](https://www.amazon.com/s?k=F0007&tag=errorcodefixes-20) | AI1 loss — analog input 1 signal lost |
+| [F0009](https://www.amazon.com/s?k=F0009&tag=errorcodefixes-20) | Underload — motor drawing less current than expected |
+| [F0010](https://www.amazon.com/s?k=F0010&tag=errorcodefixes-20) | Panel loss — control panel communication lost |
+| [F0013](https://www.amazon.com/s?k=F0013&tag=errorcodefixes-20) | Ext fault 1 — external fault input active |
+| [F0021](https://www.amazon.com/s?k=F0021&tag=errorcodefixes-20) | IGBT fault — drive output bridge fault |
+| [F0023](https://www.amazon.com/s?k=F0023&tag=errorcodefixes-20) | Earth fault (ground fault) — motor phase to ground |
+| [F0029](https://www.amazon.com/s?k=F0029&tag=errorcodefixes-20) | Motor phase loss — one output phase missing |
+| [F0030](https://www.amazon.com/s?k=F0030&tag=errorcodefixes-20) | Motor stall — motor drawing high current at low speed |
+| [F0035](https://www.amazon.com/s?k=F0035&tag=errorcodefixes-20) | Safe torque off (STO) — safety input activated |
+| [F0041](https://www.amazon.com/s?k=F0041&tag=errorcodefixes-20) | Thermistor fault — motor thermistor overtemp |
+| [F0065](https://www.amazon.com/s?k=F0065&tag=errorcodefixes-20) | Motor speed feedback fault |
+| [F0070](https://www.amazon.com/s?k=F0070&tag=errorcodefixes-20) | Fieldbus communication fault |
+| [F0121](https://www.amazon.com/s?k=F0121&tag=errorcodefixes-20) | Motor overload (I2t) — thermal model overload |
+| [F0130](https://www.amazon.com/s?k=F0130&tag=errorcodefixes-20) | Control board fault |
 
 ## ABB ACS550 Alarm Codes (Axxx)
 
-| Alarm | Meaning |
+| [Alarm](https://www.amazon.com/s?k=Alarm&tag=errorcodefixes-20) | Meaning |
 |-------|---------|
-| A2010 | Overcurrent warning |
-| A2011 | DC bus overvoltage warning |
-| A2013 | Device temperature warning (heatsink) |
-| A2023 | Earth fault warning |
-| A5010 | AI1 signal lost (warning) |
-| A5030 | Panel communication lost (warning) |
-| A8110 | Motor overload warning |
+| [A2010](https://www.amazon.com/s?k=A2010&tag=errorcodefixes-20) | Overcurrent warning |
+| [A2011](https://www.amazon.com/s?k=A2011&tag=errorcodefixes-20) | DC bus overvoltage warning |
+| [A2013](https://www.amazon.com/s?k=A2013&tag=errorcodefixes-20) | Device temperature warning (heatsink) |
+| [A2023](https://www.amazon.com/s?k=A2023&tag=errorcodefixes-20) | Earth fault warning |
+| [A5010](https://www.amazon.com/s?k=A5010&tag=errorcodefixes-20) | AI1 signal lost (warning) |
+| [A5030](https://www.amazon.com/s?k=A5030&tag=errorcodefixes-20) | Panel communication lost (warning) |
+| [A8110](https://www.amazon.com/s?k=A8110&tag=errorcodefixes-20) | Motor overload warning |
 
 ## Common Causes by Fault Code
 
@@ -78,13 +78,13 @@ The ABB ACS550 is a wall-mount general-purpose variable frequency drive rated fr
 
 ## Parameters Commonly Modified
 
-| Parameter | Description |
+| [Parameter](https://www.amazon.com/s?k=Parameter&tag=errorcodefixes-20) | Description |
 |-----------|-------------|
-| 22.01 | Acceleration time 1 |
-| 23.01 | Deceleration time 1 |
-| 30.04 | Motor thermistor enable |
-| 30.10 | Stall detection time |
-| 40.01 | Fieldbus enable |
+| [22.01](https://www.amazon.com/s?k=22.01&tag=errorcodefixes-20) | Acceleration time 1 |
+| [23.01](https://www.amazon.com/s?k=23.01&tag=errorcodefixes-20) | Deceleration time 1 |
+| [30.04](https://www.amazon.com/s?k=30.04&tag=errorcodefixes-20) | Motor thermistor enable |
+| [30.10](https://www.amazon.com/s?k=30.10&tag=errorcodefixes-20) | Stall detection time |
+| [40.01](https://www.amazon.com/s?k=40.01&tag=errorcodefixes-20) | Fieldbus enable |
 
 ## When to Call a Pro
 

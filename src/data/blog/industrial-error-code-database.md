@@ -20,15 +20,15 @@ This is the master lookup page for ErrorCodeFixes. If you landed here with a cod
 
 ## Equipment Categories Covered
 
-| Category | Typical Equipment |
+| [Category](https://www.amazon.com/s?k=Category&tag=errorcodefixes-20) | Typical Equipment |
 |---|---|
-| HVAC | Furnaces, rooftop units, mini splits, chillers, heat pumps |
-| Refrigeration | Reach-ins, walk-ins, ice machines, display cases |
-| VFDs and drives | Pumps, fans, conveyors, compressors, machine tools |
-| CNC and motion | Fanuc, Haas, Siemens, Heidenhain, servo systems |
-| Boilers and water heating | Residential and commercial hydronic equipment |
-| Pumps and hydraulics | Booster pumps, hydraulic power units, valves |
-| Commercial kitchen | Dishwashers, ovens, fryers, steamers |
+| [HVAC](https://www.amazon.com/s?k=HVAC&tag=errorcodefixes-20) | Furnaces, rooftop units, mini splits, chillers, heat pumps |
+| [Refrigeration](https://www.amazon.com/s?k=Refrigeration&tag=errorcodefixes-20) | Reach-ins, walk-ins, ice machines, display cases |
+| [VFDs and drives](https://www.amazon.com/s?k=VFDs+and+drives&tag=errorcodefixes-20) | Pumps, fans, conveyors, compressors, machine tools |
+| [CNC and motion](https://www.amazon.com/s?k=CNC+and+motion&tag=errorcodefixes-20) | Fanuc, Haas, Siemens, Heidenhain, servo systems |
+| [Boilers and water heating](https://www.amazon.com/s?k=Boilers+and+water+heating&tag=errorcodefixes-20) | Residential and commercial hydronic equipment |
+| [Pumps and hydraulics](https://www.amazon.com/s?k=Pumps+and+hydraulics&tag=errorcodefixes-20) | Booster pumps, hydraulic power units, valves |
+| [Commercial kitchen](https://www.amazon.com/s?k=Commercial+kitchen&tag=errorcodefixes-20) | Dishwashers, ovens, fryers, steamers |
 
 ## How to Use the Database {#fix}
 

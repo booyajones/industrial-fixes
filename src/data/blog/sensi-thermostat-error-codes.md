@@ -20,7 +20,7 @@ Emerson Sensi thermostats (ST55U, ST75U, UP500W, and 1T) use a combination of di
 
 ## Sensi Error Codes — Quick Reference
 
-| Code | Meaning | Fix |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Meaning | Fix |
 |---|---|---|
 | E1 | Indoor temperature sensor fault | Replace thermostat |
 | E2 | Outdoor/remote sensor fault | Check/replace remote sensor probe |
@@ -71,12 +71,12 @@ E7 means the Sensi is measuring low 24VAC from your HVAC system. Normal is 24–
 
 ## Sensi App Alerts (Not Display Codes)
 
-| App Alert | Meaning |
+| [App Alert](https://www.amazon.com/s?k=App+Alert&tag=errorcodefixes-20) | Meaning |
 |---|---|
-| "Short cycling detected" | Equipment running briefly and stopping repeatedly |
-| "Hasn't reached setpoint" | System running too long, not hitting target temp |
-| "Low battery" (Sensi Lite) | Replace AA batteries |
-| "Filter reminder" | Time-based alert, not a fault |
+| ["Short cycling detected"](https://www.amazon.com/s?k=%22Short+cycling+detected%22&tag=errorcodefixes-20) | Equipment running briefly and stopping repeatedly |
+| ["Hasn't reached setpoint"](https://www.amazon.com/s?k=%22Hasn%27t+reached+setpoint%22&tag=errorcodefixes-20) | System running too long, not hitting target temp |
+| ["Low battery" (Sensi Lite)](https://www.amazon.com/s?k=%22Low+battery%22+%28Sensi+Lite%29&tag=errorcodefixes-20) | Replace AA batteries |
+| ["Filter reminder"](https://www.amazon.com/s?k=%22Filter+reminder%22&tag=errorcodefixes-20) | Time-based alert, not a fault |
 
 ## Factory Reset — Sensi
 
@@ -87,9 +87,9 @@ If you need to fully reset and re-pair the Sensi thermostat:
 
 ## Sensi Wi-Fi Thermostat Model Numbers
 
-| Model | Notes |
+| [Model](https://www.amazon.com/s?k=Model&tag=errorcodefixes-20) | Notes |
 |---|---|
-| ST55U | Basic Wi-Fi, 7-day |
-| ST75U | Smart features, Alexa/Google |
+| [ST55U](https://www.amazon.com/s?k=ST55U&tag=errorcodefixes-20) | Basic Wi-Fi, 7-day |
+| [ST75U](https://www.amazon.com/s?k=ST75U&tag=errorcodefixes-20) | Smart features, Alexa/Google |
 | 1T | Touchscreen, humidity display |
-| UP500W | Universal, works with all HVAC types |
+| [UP500W](https://www.amazon.com/s?k=UP500W&tag=errorcodefixes-20) | Universal, works with all HVAC types |

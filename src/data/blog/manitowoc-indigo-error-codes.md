@@ -15,14 +15,14 @@ tags:
 
 Manitowoc Indigo series ice machines store faults in the control board and display them on the Indigo touchscreen or service diagnostics. Common codes relate to safety limits, freeze time, harvest time, thermistors, water level, and refrigeration performance.
 
-| Code | Meaning | Quick Fix |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |------|---------|-----------|
-| Safety Limit 1 | Long freeze cycle | Clean condenser; check water flow |
-| Safety Limit 2 | Long harvest cycle | Check hot gas valve and curtain |
-| Safety Limit 3 | Repeated refrigeration fault | Check charge and TXV |
-| Water Fault | Low or no water | Check inlet valve and screen |
-| Bin Switch Fault | Bin control open | Inspect curtain/bin switch |
-| Probe Fault | Sensor out of range | Test and replace sensor |
+| [Safety Limit 1](https://www.amazon.com/s?k=Safety+Limit+1&tag=errorcodefixes-20) | Long freeze cycle | Clean condenser; check water flow |
+| [Safety Limit 2](https://www.amazon.com/s?k=Safety+Limit+2&tag=errorcodefixes-20) | Long harvest cycle | Check hot gas valve and curtain |
+| [Safety Limit 3](https://www.amazon.com/s?k=Safety+Limit+3&tag=errorcodefixes-20) | Repeated refrigeration fault | Check charge and TXV |
+| [Water Fault](https://www.amazon.com/s?k=Water+Fault&tag=errorcodefixes-20) | Low or no water | Check inlet valve and screen |
+| [Bin Switch Fault](https://www.amazon.com/s?k=Bin+Switch+Fault&tag=errorcodefixes-20) | Bin control open | Inspect curtain/bin switch |
+| [Probe Fault](https://www.amazon.com/s?k=Probe+Fault&tag=errorcodefixes-20) | Sensor out of range | Test and replace sensor |
 
 ## Most Common Codes
 

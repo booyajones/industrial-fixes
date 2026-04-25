@@ -54,11 +54,11 @@ Your furnace will usually show one of these signs:
 
 Most residential furnaces use one of three igniter styles:
 
-| Type | Shape | Typical resistance | Common brands |
+| [Type](https://www.amazon.com/s?k=Type&tag=errorcodefixes-20) | Shape | Typical resistance | Common brands |
 |------|-------|-------------------|---------------|
-| Silicon nitride (Si3N4) | Flat rectangular or curved rod | 15–50 Ω | Carrier, Bryant, Lennox, Trane |
-| Silicon carbide (SiC) | Forked or fragile flat wafer | 40–200 Ω | Older Goodman, Amana, Rheem (pre-2010) |
-| Flat silicon nitride (newer) | Small rectangular, surface-mount style | 10–30 Ω | York, Rheem, most post-2015 furnaces |
+| [Silicon nitride (Si3N4)](https://www.amazon.com/s?k=Silicon+nitride+%28Si3N4%29&tag=errorcodefixes-20) | Flat rectangular or curved rod | 15–50 Ω | Carrier, Bryant, Lennox, Trane |
+| [Silicon carbide (SiC)](https://www.amazon.com/s?k=Silicon+carbide+%28SiC%29&tag=errorcodefixes-20) | Forked or fragile flat wafer | 40–200 Ω | Older Goodman, Amana, Rheem (pre-2010) |
+| [Flat silicon nitride (newer)](https://www.amazon.com/s?k=Flat+silicon+nitride+%28newer%29&tag=errorcodefixes-20) | Small rectangular, surface-mount style | 10–30 Ω | York, Rheem, most post-2015 furnaces |
 
 **To identify yours:** Look at the igniter shape. Silicon carbide (older) is more fragile and dark gray/black. Silicon nitride (newer) is a single white/tan rod or curved element. Most furnaces made after 2010 use silicon nitride.
 

@@ -22,15 +22,15 @@ E1 appears on Crown Bimini (BIMINI), Aruba (ARUBA), and Sentinel (PHNTM) condens
 
 ## What Causes E1
 
-| Root Cause | Signs |
+| [Root Cause](https://www.amazon.com/s?k=Root+Cause&tag=errorcodefixes-20) | Signs |
 |---|---|
-| No gas supply | No click/no smell during startup |
-| Failed igniter | No spark or no glow (check through view port) |
-| Failed flame sensor | Flame lights, then immediately shuts off |
-| Blocked condensate drain | Boiler attempts ignition but draft fault intervenes |
-| Low gas pressure | Flame lights weakly, then drops out |
-| Dirty burner | Delayed ignition, weak flame signal |
-| Control board failure | Random lockout with no clear cause |
+| [No gas supply](https://www.amazon.com/s?k=No+gas+supply&tag=errorcodefixes-20) | No click/no smell during startup |
+| [Failed igniter](https://www.amazon.com/s?k=Failed+igniter&tag=errorcodefixes-20) | No spark or no glow (check through view port) |
+| [Failed flame sensor](https://www.amazon.com/s?k=Failed+flame+sensor&tag=errorcodefixes-20) | Flame lights, then immediately shuts off |
+| [Blocked condensate drain](https://www.amazon.com/s?k=Blocked+condensate+drain&tag=errorcodefixes-20) | Boiler attempts ignition but draft fault intervenes |
+| [Low gas pressure](https://www.amazon.com/s?k=Low+gas+pressure&tag=errorcodefixes-20) | Flame lights weakly, then drops out |
+| [Dirty burner](https://www.amazon.com/s?k=Dirty+burner&tag=errorcodefixes-20) | Delayed ignition, weak flame signal |
+| [Control board failure](https://www.amazon.com/s?k=Control+board+failure&tag=errorcodefixes-20) | Random lockout with no clear cause |
 
 ## How to Reset E1 on Crown Boilers
 
@@ -80,11 +80,11 @@ Crown condensing boilers won't attempt ignition if the condensate drain is flood
 
 | Part | Cost |
 |---|---|
-| Hot surface igniter | $30–80 |
-| Flame sensor | $15–35 |
-| Gas valve | $150–300 |
-| Condensate trap (Crown OEM) | $20–40 |
-| Control board | $200–500 |
+| [Hot surface igniter](https://www.amazon.com/s?k=Hot+surface+igniter&tag=errorcodefixes-20) | $30–80 |
+| [Flame sensor](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) | $15–35 |
+| [Gas valve](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) | $150–300 |
+| [Condensate trap (Crown OEM)](https://www.amazon.com/s?k=Condensate+trap+%28Crown+OEM%29&tag=errorcodefixes-20) | $20–40 |
+| [Control board](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) | $200–500 |
 
 ## Crown vs. Weil-McLain vs. Burnham E1
 

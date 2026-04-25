@@ -15,16 +15,16 @@ tags:
 
 York furnaces flash a diagnostic LED on the control board inside the lower access panel. Count the repeating blink sequence. York (owned by Johnson Controls) shares control board platforms with Coleman, Luxaire, and Champion — codes are the same across these brands. Two-stage and modulating York furnaces may display two-digit fault codes.
 
-| Code | Meaning | Quick Fix |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |------|---------|-----------|
-| 1 flash | System lockout | Reset power; check igniter and gas |
-| 2 flashes | Pressure switch stuck open | Check inducer, hose, drain |
-| 3 flashes | Pressure switch stuck closed | Check pressure switch hose |
-| 4 flashes | Open limit device | Replace filter; check blower |
-| 5 flashes | Flame sense without call | Gas valve leak; call pro |
-| 6 flashes | Reversed polarity | Fix line voltage wiring |
-| 7 flashes | Gas valve energized — no call | Board or gas valve fault |
-| 8 flashes | Low flame signal | Clean flame sensor |
+| [1 flash](https://www.amazon.com/s?k=1+flash&tag=errorcodefixes-20) | System lockout | Reset power; check igniter and gas |
+| [2 flashes](https://www.amazon.com/s?k=2+flashes&tag=errorcodefixes-20) | Pressure switch stuck open | Check inducer, hose, drain |
+| [3 flashes](https://www.amazon.com/s?k=3+flashes&tag=errorcodefixes-20) | Pressure switch stuck closed | Check pressure switch hose |
+| [4 flashes](https://www.amazon.com/s?k=4+flashes&tag=errorcodefixes-20) | Open limit device | Replace filter; check blower |
+| [5 flashes](https://www.amazon.com/s?k=5+flashes&tag=errorcodefixes-20) | Flame sense without call | Gas valve leak; call pro |
+| [6 flashes](https://www.amazon.com/s?k=6+flashes&tag=errorcodefixes-20) | Reversed polarity | Fix line voltage wiring |
+| [7 flashes](https://www.amazon.com/s?k=7+flashes&tag=errorcodefixes-20) | Gas valve energized — no call | Board or gas valve fault |
+| [8 flashes](https://www.amazon.com/s?k=8+flashes&tag=errorcodefixes-20) | Low flame signal | Clean flame sensor |
 | E2 | Ignition fault (some models) | Check gas valve, igniter |
 | E3 | Pressure switch fault (some models) | Check inducer and hose |
 | E4 | Limit fault (some models) | Filter, blower, airflow |

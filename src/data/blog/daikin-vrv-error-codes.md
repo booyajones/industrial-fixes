@@ -34,7 +34,7 @@ Codes appear on:
 
 ### U-Codes — System/Communication Faults
 
-| Code | Description | Common Cause |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Description | Common Cause |
 |---|---|---|
 | U0 | Refrigerant shortage | Low refrigerant — leak in system |
 | U1 | Reverse phase / phase loss | Check 3-phase power supply |
@@ -50,7 +50,7 @@ Codes appear on:
 
 ### E-Codes — Heat Exchanger / Sensor Faults
 
-| Code | Description | Common Cause |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Description | Common Cause |
 |---|---|---|
 | E1 | Outdoor unit PCB fault | Replace outdoor unit control board |
 | E3 | High-pressure lockout | Dirty coil, low airflow, overcharge |
@@ -62,7 +62,7 @@ Codes appear on:
 
 ### A-Codes — Indoor Unit Faults
 
-| Code | Description | Common Cause |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Description | Common Cause |
 |---|---|---|
 | A0 | Protection device fault | Indoor unit safety device tripped |
 | A1 | Indoor unit PCB fault | Replace indoor control board |
@@ -73,7 +73,7 @@ Codes appear on:
 
 ### C-Codes — Sensor Faults
 
-| Code | Description | Common Cause |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Description | Common Cause |
 |---|---|---|
 | C4 | Heat exchanger sensor fault | Outdoor liquid coil sensor |
 | C5 | Subcooling coil sensor fault | Check sensor resistance |
@@ -81,7 +81,7 @@ Codes appear on:
 
 ### F-Codes — System Protection
 
-| Code | Description | Common Cause |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Description | Common Cause |
 |---|---|---|
 | F3 | Discharge temperature too high | Low refrigerant, TXV issue |
 | F6 | High-pressure control fault | Pressure protection activated |
@@ -111,10 +111,10 @@ Daikin VRV systems contain large refrigerant charges. U0 means the system has lo
 
 | Part | Notes |
 |---|---|
-| EEV (electronic expansion valve) | Model-specific — match kv value |
-| Outdoor unit PCB | Match model and firmware version |
-| Indoor unit PCB | Specific to indoor unit model |
-| F1/F2 communication wire | 2-conductor unshielded, max 1000m |
-| DIII-NET adapter | For BAS integration |
+| [EEV (electronic expansion valve)](https://www.amazon.com/s?k=EEV+%28electronic+expansion+valve%29&tag=errorcodefixes-20) | Model-specific — match kv value |
+| [Outdoor unit PCB](https://www.amazon.com/s?k=Outdoor+unit+PCB&tag=errorcodefixes-20) | Match model and firmware version |
+| [Indoor unit PCB](https://www.amazon.com/s?k=Indoor+unit+PCB&tag=errorcodefixes-20) | Specific to indoor unit model |
+| [F1/F2 communication wire](https://www.amazon.com/s?k=F1%2FF2+communication+wire&tag=errorcodefixes-20) | 2-conductor unshielded, max 1000m |
+| [DIII-NET adapter](https://www.amazon.com/s?k=DIII-NET+adapter&tag=errorcodefixes-20) | For BAS integration |
 
 > **Pro tip:** Daikin VRV systems support fault history via the ITC. Navigate to Function > Error History to view the last 20 fault records with timestamps — essential for intermittent faults.

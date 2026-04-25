@@ -32,14 +32,14 @@ The industry standard calculation: **if the repair cost exceeds 50% of the furna
 
 A simpler version that works in practice:
 
-| Furnace age | Repair quote | Decision |
+| [Furnace age](https://www.amazon.com/s?k=Furnace+age&tag=errorcodefixes-20) | Repair quote | Decision |
 |-------------|-------------|---------|
-| Under 10 years | Any amount | Repair — furnace has 10+ years left |
-| 10–15 years | Under $500 | Repair if it has no other issues |
-| 10–15 years | $500–$1,000 | Borderline — get a replacement quote first |
-| 10–15 years | Over $1,000 | Replace |
-| Over 15 years | Any repair over $400 | Replace — warranty is expired, efficiency has declined |
-| Over 20 years | Anything | Replace — AFUE rating is likely 60–70% vs 95%+ on new units |
+| [Under 10 years](https://www.amazon.com/s?k=Under+10+years&tag=errorcodefixes-20) | Any amount | Repair — furnace has 10+ years left |
+| [10–15 years](https://www.amazon.com/s?k=10%E2%80%9315+years&tag=errorcodefixes-20) | Under $500 | Repair if it has no other issues |
+| [10–15 years](https://www.amazon.com/s?k=10%E2%80%9315+years&tag=errorcodefixes-20) | $500–$1,000 | Borderline — get a replacement quote first |
+| [10–15 years](https://www.amazon.com/s?k=10%E2%80%9315+years&tag=errorcodefixes-20) | Over $1,000 | Replace |
+| [Over 15 years](https://www.amazon.com/s?k=Over+15+years&tag=errorcodefixes-20) | Any repair over $400 | Replace — warranty is expired, efficiency has declined |
+| [Over 20 years](https://www.amazon.com/s?k=Over+20+years&tag=errorcodefixes-20) | Anything | Replace — AFUE rating is likely 60–70% vs 95%+ on new units |
 
 **Annual efficiency cost:** A 20-year-old 70% AFUE furnace costs roughly $430 more per year to run than a new 96% AFUE unit on a $1,500 annual gas bill. Factor that into any repair math.
 
@@ -73,16 +73,16 @@ Modern 96% AFUE furnaces run circles around anything installed before 2000. A 25
 
 Typical repair ranges from licensed HVAC contractors (parts + labor):
 
-| Repair | Cost range |
+| [Repair](https://www.amazon.com/s?k=Repair&tag=errorcodefixes-20) | Cost range |
 |--------|-----------|
-| Igniter replacement | $150–$300 |
-| Flame sensor cleaning or replacement | $80–$250 |
-| Pressure switch replacement | $150–$350 |
-| Inducer motor replacement | $400–$800 |
-| Blower motor replacement | $400–$900 |
-| Control board replacement | $350–$900 |
-| Gas valve replacement | $350–$700 |
-| Heat exchanger replacement | $800–$2,000 |
+| [Igniter replacement](https://www.amazon.com/s?k=Igniter+replacement&tag=errorcodefixes-20) | $150–$300 |
+| [Flame sensor cleaning or replacement](https://www.amazon.com/s?k=Flame+sensor+cleaning+or+replacement&tag=errorcodefixes-20) | $80–$250 |
+| [Pressure switch replacement](https://www.amazon.com/s?k=Pressure+switch+replacement&tag=errorcodefixes-20) | $150–$350 |
+| [Inducer motor replacement](https://www.amazon.com/s?k=Inducer+motor+replacement&tag=errorcodefixes-20) | $400–$800 |
+| [Blower motor replacement](https://www.amazon.com/s?k=Blower+motor+replacement&tag=errorcodefixes-20) | $400–$900 |
+| [Control board replacement](https://www.amazon.com/s?k=Control+board+replacement&tag=errorcodefixes-20) | $350–$900 |
+| [Gas valve replacement](https://www.amazon.com/s?k=Gas+valve+replacement&tag=errorcodefixes-20) | $350–$700 |
+| [Heat exchanger replacement](https://www.amazon.com/s?k=Heat+exchanger+replacement&tag=errorcodefixes-20) | $800–$2,000 |
 
 **DIY note:** Igniters and flame sensors are the two repairs most homeowners can do themselves with a screwdriver and a $15–$60 part from Amazon. If your error code points to one of these, check the DIY path before calling a tech.
 
@@ -92,11 +92,11 @@ Typical repair ranges from licensed HVAC contractors (parts + labor):
 
 National average installed cost (2025–2026):
 
-| Furnace type | Cost range | Notes |
+| [Furnace type](https://www.amazon.com/s?k=Furnace+type&tag=errorcodefixes-20) | Cost range | Notes |
 |-------------|-----------|-------|
-| 80% AFUE single-stage | $2,200–$3,800 | Code minimum in many states. Lower upfront, higher operating cost |
-| 96% AFUE two-stage | $3,200–$5,500 | Most popular choice. Best balance of upfront vs operating cost |
-| 96%+ AFUE variable-speed | $4,500–$8,500 | Quietest, most efficient. Best for 2-story homes |
+| [80% AFUE single-stage](https://www.amazon.com/s?k=80%25+AFUE+single-stage&tag=errorcodefixes-20) | $2,200–$3,800 | Code minimum in many states. Lower upfront, higher operating cost |
+| [96% AFUE two-stage](https://www.amazon.com/s?k=96%25+AFUE+two-stage&tag=errorcodefixes-20) | $3,200–$5,500 | Most popular choice. Best balance of upfront vs operating cost |
+| [96%+ AFUE variable-speed](https://www.amazon.com/s?k=96%25%2B+AFUE+variable-speed&tag=errorcodefixes-20) | $4,500–$8,500 | Quietest, most efficient. Best for 2-story homes |
 
 **Brand factor:** Carrier, Lennox, and Trane typically cost $500–$1,000 more than Rheem, Goodman, or York for equivalent efficiency tiers. Performance differences at the same AFUE are small. Installer quality matters more than brand.
 
@@ -121,9 +121,9 @@ If your error code points to a part you can swap yourself:
 
 | Part | Fits most brands | Typical Amazon price |
 |------|-----------------|---------------------|
-| Universal hot surface igniter | Carrier, Goodman, Trane, Rheem | $15–$45 |
-| Flame sensor (standard rod) | Most brands | $8–$25 |
-| Pressure switch (brand-specific) | Match brand + model | $20–$60 |
+| [Universal hot surface igniter](https://www.amazon.com/s?k=Universal+hot+surface+igniter&tag=errorcodefixes-20) | Carrier, Goodman, Trane, Rheem | $15–$45 |
+| [Flame sensor (standard rod)](https://www.amazon.com/s?k=Flame+sensor+%28standard+rod%29&tag=errorcodefixes-20) | Most brands | $8–$25 |
+| [Pressure switch (brand-specific)](https://www.amazon.com/s?k=Pressure+switch+%28brand-specific%29&tag=errorcodefixes-20) | Match brand + model | $20–$60 |
 
 For igniter replacement walkthrough, see: [Best Furnace Igniter Replacement Guide](/best-furnace-igniter-replacement)
 

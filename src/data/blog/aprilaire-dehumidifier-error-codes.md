@@ -16,7 +16,7 @@ tags:
 
 Aprilaire whole-home dehumidifiers (Models 1700, 1710, 1750, 1850, E100) display fault codes on the digital control panel. These dehumidifiers are typically installed in the ductwork or as stand-alone basement units. Fault codes indicate sensor failures, drainage issues, refrigeration problems, or control board faults.
 
-| Code | Meaning | Quick Fix |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |------|---------|-----------|
 | E1 | Humidity sensor fault | Check sensor wiring; replace sensor |
 | E2 | Inlet temperature sensor fault | Inspect NTC sensor; check connections |

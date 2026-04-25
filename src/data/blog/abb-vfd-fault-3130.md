@@ -45,9 +45,9 @@ After fixing the supply issue, clear the fault on the drive (press RESET or cycl
 
 | Part | Where to Buy |
 |------|-------------|
-| HRC input fuses (match rating) | Grainger, Amazon |
-| Input terminal block (if damaged) | Grainger |
-| Three-phase input contactor | Grainger, Amazon |
+| [HRC input fuses (match rating)](https://www.amazon.com/s?k=HRC+input+fuses+%28match+rating%29&tag=errorcodefixes-20) | Grainger, Amazon |
+| [Input terminal block (if damaged)](https://www.amazon.com/s?k=Input+terminal+block+%28if+damaged%29&tag=errorcodefixes-20) | Grainger |
+| [Three-phase input contactor](https://www.amazon.com/s?k=Three-phase+input+contactor&tag=errorcodefixes-20) | Grainger, Amazon |
 
 ## When to Call a Technician
 

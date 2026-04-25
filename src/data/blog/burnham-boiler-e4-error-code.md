@@ -24,13 +24,13 @@ E4 appears on Burnham Alpine (ALP), K2, K2-Fibre, and Revolution series boilers.
 
 | Cause | Details |
 |---|---|
-| Low gas pressure | Pressure drops when other appliances draw gas simultaneously |
-| Dirty flame sensor | Flame signal becomes too weak to sustain proven status |
-| Draft fluctuations | Wind, pressure changes cause draft to momentarily drop |
-| Gas valve flutter | Valve partially closing due to coil degradation |
-| Air in gas line | Especially after gas service interruption |
-| Blocked condensate | Builds up during operation, eventually stalls draft |
-| Inducer motor degrading | Motor speed drops under thermal load |
+| [Low gas pressure](https://www.amazon.com/s?k=Low+gas+pressure&tag=errorcodefixes-20) | Pressure drops when other appliances draw gas simultaneously |
+| [Dirty flame sensor](https://www.amazon.com/s?k=Dirty+flame+sensor&tag=errorcodefixes-20) | Flame signal becomes too weak to sustain proven status |
+| [Draft fluctuations](https://www.amazon.com/s?k=Draft+fluctuations&tag=errorcodefixes-20) | Wind, pressure changes cause draft to momentarily drop |
+| [Gas valve flutter](https://www.amazon.com/s?k=Gas+valve+flutter&tag=errorcodefixes-20) | Valve partially closing due to coil degradation |
+| [Air in gas line](https://www.amazon.com/s?k=Air+in+gas+line&tag=errorcodefixes-20) | Especially after gas service interruption |
+| [Blocked condensate](https://www.amazon.com/s?k=Blocked+condensate&tag=errorcodefixes-20) | Builds up during operation, eventually stalls draft |
+| [Inducer motor degrading](https://www.amazon.com/s?k=Inducer+motor+degrading&tag=errorcodefixes-20) | Motor speed drops under thermal load |
 
 ## Why E4 Is Tricky
 
@@ -58,11 +58,11 @@ Clean the flame sensor rod with fine steel wool if below 2 µA. This is the most
 
 | Part | Cost |
 |---|---|
-| Flame sensor rod | $15–35 |
-| Gas valve (Alpine) | $200–400 |
-| Inducer motor | $150–350 |
-| Condensate trap | $15–30 |
-| Flue wind cap | $20–60 |
+| [Flame sensor rod](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20) | $15–35 |
+| [Gas valve (Alpine)](https://www.amazon.com/s?k=Gas+valve+%28Alpine%29&tag=errorcodefixes-20) | $200–400 |
+| [Inducer motor](https://www.amazon.com/s?k=Inducer+motor&tag=errorcodefixes-20) | $150–350 |
+| [Condensate trap](https://www.amazon.com/s?k=Condensate+trap&tag=errorcodefixes-20) | $15–30 |
+| [Flue wind cap](https://www.amazon.com/s?k=Flue+wind+cap&tag=errorcodefixes-20) | $20–60 |
 
 ## Resetting E4
 
@@ -70,7 +70,7 @@ Press and hold the Reset button on the boiler control panel for 3 seconds. The b
 
 ## Related Burnham Error Codes
 
-| Code | Meaning |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Meaning |
 |---|---|
 | E1 | Hard ignition lockout |
 | E2 | Failed ignition attempt |

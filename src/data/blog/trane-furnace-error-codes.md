@@ -15,17 +15,17 @@ tags:
 
 Trane gas furnaces communicate faults through a flashing green or red LED on the control board. Remove the lower access panel and count the blink sequence — the number repeats continuously until the fault clears. Trane also makes American Standard furnaces; the control boards and codes are identical. Newer Trane communicating systems (ComfortLink II) display alphanumeric codes on the thermostat.
 
-| Code | Meaning | Quick Fix |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |------|---------|-----------|
-| 1 flash | System lockout | Reset power; check igniter and gas |
-| 2 flashes | Pressure switch fault | Check inducer, hose, condensate drain |
-| 3 flashes | High-limit or roll-out open | Replace filter; check airflow |
-| 4 flashes | Ignition failure | Check igniter, gas valve, flame sensor |
-| 5 flashes | Flame sense without call | Possible gas valve leak |
-| 6 flashes | 115V power fault / reversed polarity | Check wiring polarity |
-| 7 flashes | Gas valve fault | Gas valve or board issue |
-| 8 flashes | Low flame signal | Clean flame sensor |
-| 9 flashes | Igniter fault | Replace igniter |
+| [1 flash](https://www.amazon.com/s?k=1+flash&tag=errorcodefixes-20) | System lockout | Reset power; check igniter and gas |
+| [2 flashes](https://www.amazon.com/s?k=2+flashes&tag=errorcodefixes-20) | Pressure switch fault | Check inducer, hose, condensate drain |
+| [3 flashes](https://www.amazon.com/s?k=3+flashes&tag=errorcodefixes-20) | High-limit or roll-out open | Replace filter; check airflow |
+| [4 flashes](https://www.amazon.com/s?k=4+flashes&tag=errorcodefixes-20) | Ignition failure | Check igniter, gas valve, flame sensor |
+| [5 flashes](https://www.amazon.com/s?k=5+flashes&tag=errorcodefixes-20) | Flame sense without call | Possible gas valve leak |
+| [6 flashes](https://www.amazon.com/s?k=6+flashes&tag=errorcodefixes-20) | 115V power fault / reversed polarity | Check wiring polarity |
+| [7 flashes](https://www.amazon.com/s?k=7+flashes&tag=errorcodefixes-20) | Gas valve fault | Gas valve or board issue |
+| [8 flashes](https://www.amazon.com/s?k=8+flashes&tag=errorcodefixes-20) | Low flame signal | Clean flame sensor |
+| [9 flashes](https://www.amazon.com/s?k=9+flashes&tag=errorcodefixes-20) | Igniter fault | Replace igniter |
 | 126 | Communication loss | Check thermostat wiring |
 | 79 | Airflow fault | Verify filter and duct static pressure |
 | ER | Communicating system error | Check all ComfortLink wiring |

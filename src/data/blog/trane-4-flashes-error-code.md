@@ -47,10 +47,10 @@ If no airflow or mechanical cause is found, have the heat exchanger inspected fo
 
 | Part | Where to Buy |
 |------|-------------|
-| High limit switch | RepairClinic, SupplyHouse |
-| Blower motor run capacitor | Grainger, Amazon |
-| ECM or PSC blower motor | RepairClinic, Grainger |
-| Air filter (replacement) | Amazon, SupplyHouse |
+| [High limit switch](https://www.amazon.com/s?k=High+limit+switch&tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
+| [Blower motor run capacitor](https://www.amazon.com/s?k=Blower+motor+run+capacitor&tag=errorcodefixes-20) | Grainger, Amazon |
+| [ECM or PSC blower motor](https://www.amazon.com/s?k=ECM+or+PSC+blower+motor&tag=errorcodefixes-20) | RepairClinic, Grainger |
+| [Air filter (replacement)](https://www.amazon.com/s?k=Air+filter+%28replacement%29&tag=errorcodefixes-20) | Amazon, SupplyHouse |
 
 ## When to Call a Technician
 

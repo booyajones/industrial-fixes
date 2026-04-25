@@ -48,9 +48,9 @@ For an encoder issue: inspect the encoder cable and connector first. If the cabl
 
 | Part | Where to Buy |
 |------|-------------|
-| Servo motor coupler | Grainger, Amazon |
-| Servo amplifier / drive | Grainger (call for Haas-compatible) |
-| Encoder cable assembly | Contact Haas service |
+| [Servo motor coupler](https://www.amazon.com/s?k=Servo+motor+coupler&tag=errorcodefixes-20) | Grainger, Amazon |
+| [Servo amplifier / drive](https://www.amazon.com/s?k=Servo+amplifier+%2F+drive&tag=errorcodefixes-20) | Grainger (call for Haas-compatible) |
+| [Encoder cable assembly](https://www.amazon.com/s?k=Encoder+cable+assembly&tag=errorcodefixes-20) | Contact Haas service |
 
 ## When to Call a Technician
 

@@ -17,16 +17,16 @@ tags:
 
 Baltimore Aircoil (BAC) cooling towers with electronic fan control panels or variable-frequency drives generate fault conditions based on motor, temperature, and water system monitoring.
 
-| Fault | Meaning | Quick Fix |
+| [Fault](https://www.amazon.com/s?k=Fault&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |-------|---------|-----------|
-| Fan Motor Overload | Fan motor current too high | Check motor current, bearings, and fan blades |
-| High Water Temperature | Leaving water temperature above setpoint | Check fan operation and heat load |
-| Low Water Level | Basin water level low | Check makeup water valve and float |
-| High Water Level | Basin water level too high | Check overflow and makeup valve |
-| Vibration Fault | Vibration sensor triggered | Inspect fan, drive shaft, and bearings |
-| Motor Phase Loss | Phase missing to fan motor | Check electrical supply and fuses |
-| VFD Fault | Variable frequency drive fault | Check VFD fault code display |
-| Freeze Protection | Basin temperature near freezing | Activate basin heater, verify controls |
+| [Fan Motor Overload](https://www.amazon.com/s?k=Fan+Motor+Overload&tag=errorcodefixes-20) | Fan motor current too high | Check motor current, bearings, and fan blades |
+| [High Water Temperature](https://www.amazon.com/s?k=High+Water+Temperature&tag=errorcodefixes-20) | Leaving water temperature above setpoint | Check fan operation and heat load |
+| [Low Water Level](https://www.amazon.com/s?k=Low+Water+Level&tag=errorcodefixes-20) | Basin water level low | Check makeup water valve and float |
+| [High Water Level](https://www.amazon.com/s?k=High+Water+Level&tag=errorcodefixes-20) | Basin water level too high | Check overflow and makeup valve |
+| [Vibration Fault](https://www.amazon.com/s?k=Vibration+Fault&tag=errorcodefixes-20) | Vibration sensor triggered | Inspect fan, drive shaft, and bearings |
+| [Motor Phase Loss](https://www.amazon.com/s?k=Motor+Phase+Loss&tag=errorcodefixes-20) | Phase missing to fan motor | Check electrical supply and fuses |
+| [VFD Fault](https://www.amazon.com/s?k=VFD+Fault&tag=errorcodefixes-20) | Variable frequency drive fault | Check VFD fault code display |
+| [Freeze Protection](https://www.amazon.com/s?k=Freeze+Protection&tag=errorcodefixes-20) | Basin temperature near freezing | Activate basin heater, verify controls |
 
 ## Most Common Faults
 
@@ -51,11 +51,11 @@ BAC VXT and VTL towers often use ABB, Danfoss, or Yaskawa VFDs to vary fan speed
 
 ## Preventive Maintenance Schedule
 
-| Interval | Task |
+| [Interval](https://www.amazon.com/s?k=Interval&tag=errorcodefixes-20) | Task |
 |----------|------|
-| Monthly | Check basin water level and quality |
-| Quarterly | Inspect fan blades, motor, and bearings |
-| Annually | Clean fill media, inspect basin, lubricate bearings |
+| [Monthly](https://www.amazon.com/s?k=Monthly&tag=errorcodefixes-20) | Check basin water level and quality |
+| [Quarterly](https://www.amazon.com/s?k=Quarterly&tag=errorcodefixes-20) | Inspect fan blades, motor, and bearings |
+| [Annually](https://www.amazon.com/s?k=Annually&tag=errorcodefixes-20) | Clean fill media, inspect basin, lubricate bearings |
 
 ## Jump to Fix
 

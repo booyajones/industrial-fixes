@@ -49,9 +49,9 @@ Low gas pressure requires a licensed gas plumber to inspect the supply system an
 
 | Part | Where to Buy |
 |------|-------------|
-| Rinnai igniter / flame sensor assembly | RepairClinic, SupplyHouse |
-| Vent termination cap / kit | SupplyHouse, Amazon |
-| Isolation valve (ball valve) | Grainger, Amazon |
+| [Rinnai igniter / flame sensor assembly](https://www.amazon.com/s?k=Rinnai+igniter+%2F+flame+sensor+assembly&tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
+| [Vent termination cap / kit](https://www.amazon.com/s?k=Vent+termination+cap+%2F+kit&tag=errorcodefixes-20) | SupplyHouse, Amazon |
+| [Isolation valve (ball valve)](https://www.amazon.com/s?k=Isolation+valve+%28ball+valve%29&tag=errorcodefixes-20) | Grainger, Amazon |
 
 ## When to Call a Technician
 

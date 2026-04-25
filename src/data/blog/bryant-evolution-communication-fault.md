@@ -108,11 +108,11 @@ If all wiring checks out and the fault persists:
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|--------------|
-| Bryant Evolution Thermostat (SYSTXBBUID01-B) | Thermostat hardware failure | $150–$300 |
-| Furnace Control Board (CESO110106-01 or model-specific) | Indoor board communication failure | $200–$450 |
-| Outdoor Unit Control Board (model-specific) | Outdoor board communication failure | $300–$700 |
-| Low-Voltage Thermostat Wire (18/5 or 18/8) | Damaged wire in walls or conduit | $20–$60 per 50ft |
-| Wire Terminals / Crimp Connectors | Corroded terminal repair | $5–$15 |
+| [Bryant Evolution Thermostat (SYSTXBBUID01-B)](https://www.amazon.com/s?k=Bryant+Evolution+Thermostat+%28SYSTXBBUID01-B%29&tag=errorcodefixes-20) | Thermostat hardware failure | $150–$300 |
+| [Furnace Control Board (CESO110106-01 or model-specific)](https://www.amazon.com/s?k=Furnace+Control+Board+%28CESO110106-01+or+model-specific%29&tag=errorcodefixes-20) | Indoor board communication failure | $200–$450 |
+| [Outdoor Unit Control Board (model-specific)](https://www.amazon.com/s?k=Outdoor+Unit+Control+Board+%28model-specific%29&tag=errorcodefixes-20) | Outdoor board communication failure | $300–$700 |
+| [Low-Voltage Thermostat Wire (18/5 or 18/8)](https://www.amazon.com/s?k=Low-Voltage+Thermostat+Wire+%2818%2F5+or+18%2F8%29&tag=errorcodefixes-20) | Damaged wire in walls or conduit | $20–$60 per 50ft |
+| [Wire Terminals / Crimp Connectors](https://www.amazon.com/s?k=Wire+Terminals+%2F+Crimp+Connectors&tag=errorcodefixes-20) | Corroded terminal repair | $5–$15 |
 
 *Bryant part numbers vary significantly by product series and year. Use your unit's model number (on the rating plate inside the cabinet) when ordering.*
 

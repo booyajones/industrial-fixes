@@ -16,14 +16,14 @@ Industrial control panels house PLCs, VFDs, relays, motor starters, and power di
 
 ## Control Panel Fault Indicators
 
-| Indicator | Meaning |
+| [Indicator](https://www.amazon.com/s?k=Indicator&tag=errorcodefixes-20) | Meaning |
 |-----------|---------|
-| Power ON lamp off | No input power to panel ΓÇö check supply breaker |
-| Run lamp off (should be on) | Motor or drive not running ΓÇö check fault log |
-| Fault lamp on | Active fault ΓÇö check fault display or PLC fault log |
-| E-stop lamp on | Emergency stop activated ΓÇö find and release |
-| Overload lamp on | Motor thermal overload tripped ΓÇö check motor |
-| Comm fault lamp on | Communication error ΓÇö check fieldbus cables |
+| [Power ON lamp off](https://www.amazon.com/s?k=Power+ON+lamp+off&tag=errorcodefixes-20) | No input power to panel ΓÇö check supply breaker |
+| [Run lamp off (should be on)](https://www.amazon.com/s?k=Run+lamp+off+%28should+be+on%29&tag=errorcodefixes-20) | Motor or drive not running ΓÇö check fault log |
+| [Fault lamp on](https://www.amazon.com/s?k=Fault+lamp+on&tag=errorcodefixes-20) | Active fault ΓÇö check fault display or PLC fault log |
+| [E-stop lamp on](https://www.amazon.com/s?k=E-stop+lamp+on&tag=errorcodefixes-20) | Emergency stop activated ΓÇö find and release |
+| [Overload lamp on](https://www.amazon.com/s?k=Overload+lamp+on&tag=errorcodefixes-20) | Motor thermal overload tripped ΓÇö check motor |
+| [Comm fault lamp on](https://www.amazon.com/s?k=Comm+fault+lamp+on&tag=errorcodefixes-20) | Communication error ΓÇö check fieldbus cables |
 
 ## Most Common Control Panel Faults
 

@@ -45,9 +45,9 @@ For high incoming line voltage: check with the utility or install a line reactor
 
 | Part | Where to Buy |
 |------|-------------|
-| Dynamic braking resistor (size per drive model) | Grainger, Amazon |
-| Line reactor (input) | Grainger |
-| Braking transistor module (if internal) | Contact Yaskawa |
+| [Dynamic braking resistor (size per drive model)](https://www.amazon.com/s?k=Dynamic+braking+resistor+%28size+per+drive+model%29&tag=errorcodefixes-20) | Grainger, Amazon |
+| [Line reactor (input)](https://www.amazon.com/s?k=Line+reactor+%28input%29&tag=errorcodefixes-20) | Grainger |
+| [Braking transistor module (if internal)](https://www.amazon.com/s?k=Braking+transistor+module+%28if+internal%29&tag=errorcodefixes-20) | Contact Yaskawa |
 
 ## When to Call a Technician
 

@@ -16,19 +16,19 @@ tags:
 
 Automatic transfer switches (ATS) monitor utility power and transfer loads to a generator when utility power fails. Major ATS brands include Generac (RTSY, RTSN series), Kohler (RDT, KCTS series), Asco (Series 300, 7000), and Russelectric. Faults appear on the ATS controller display and are often transmitted to the generator's controller.
 
-| Fault | Brand / Type | Meaning | Quick Fix |
+| [Fault](https://www.amazon.com/s?k=Fault&tag=errorcodefixes-20) | Brand / Type | Meaning | Quick Fix |
 |-------|-------------|---------|-----------|
-| Source 1 Fail | All | Utility power has failed | Normal — ATS should transfer to generator |
-| Source 2 Fail | All | Generator not available | Check generator; check ATS-to-gen wiring |
-| Transfer Inhibit | All | Transfer blocked by external input | Check inhibit wiring |
-| Time Delay Active | All | Transfer delay counting down | Normal — wait for delay to expire |
-| Overcurrent | Asco, Russelectric | Load current exceeded ATS rating | Reduce load; check for faults |
-| Motor Fault | Asco, Kohler | Transfer mechanism motor fault | Inspect motor; check contacts |
-| Position Fault | All | ATS didn't reach commanded position | Check mechanism; check contacts |
-| Neutral Overlap | 3-pos ATS | In neutral position during transfer | Normal brief state |
-| Generator Not In Auto | All | Generator controller not in AUTO mode | Set generator to AUTO |
-| Maintenance Mode | All | ATS manually set to bypass | Return to AUTO after maintenance |
-| Com Fault | Networked ATS | Communication to remote device lost | Check network wiring |
+| [Source 1 Fail](https://www.amazon.com/s?k=Source+1+Fail&tag=errorcodefixes-20) | All | Utility power has failed | Normal — ATS should transfer to generator |
+| [Source 2 Fail](https://www.amazon.com/s?k=Source+2+Fail&tag=errorcodefixes-20) | All | Generator not available | Check generator; check ATS-to-gen wiring |
+| [Transfer Inhibit](https://www.amazon.com/s?k=Transfer+Inhibit&tag=errorcodefixes-20) | All | Transfer blocked by external input | Check inhibit wiring |
+| [Time Delay Active](https://www.amazon.com/s?k=Time+Delay+Active&tag=errorcodefixes-20) | All | Transfer delay counting down | Normal — wait for delay to expire |
+| [Overcurrent](https://www.amazon.com/s?k=Overcurrent&tag=errorcodefixes-20) | Asco, Russelectric | Load current exceeded ATS rating | Reduce load; check for faults |
+| [Motor Fault](https://www.amazon.com/s?k=Motor+Fault&tag=errorcodefixes-20) | Asco, Kohler | Transfer mechanism motor fault | Inspect motor; check contacts |
+| [Position Fault](https://www.amazon.com/s?k=Position+Fault&tag=errorcodefixes-20) | All | ATS didn't reach commanded position | Check mechanism; check contacts |
+| [Neutral Overlap](https://www.amazon.com/s?k=Neutral+Overlap&tag=errorcodefixes-20) | 3-pos ATS | In neutral position during transfer | Normal brief state |
+| [Generator Not In Auto](https://www.amazon.com/s?k=Generator+Not+In+Auto&tag=errorcodefixes-20) | All | Generator controller not in AUTO mode | Set generator to AUTO |
+| [Maintenance Mode](https://www.amazon.com/s?k=Maintenance+Mode&tag=errorcodefixes-20) | All | ATS manually set to bypass | Return to AUTO after maintenance |
+| [Com Fault](https://www.amazon.com/s?k=Com+Fault&tag=errorcodefixes-20) | Networked ATS | Communication to remote device lost | Check network wiring |
 
 ## Most Common Faults
 
@@ -59,14 +59,14 @@ Check the inhibit wiring terminal on the ATS and verify no unintended inhibit si
 
 ## Asco Series 7000 Specific Faults
 
-| Display | Meaning |
+| [Display](https://www.amazon.com/s?k=Display&tag=errorcodefixes-20) | Meaning |
 |---------|---------|
-| S1 FAIL | Source 1 (normal) power failure |
-| S2 NOT AVL | Source 2 (emergency) not available |
-| XFER INHIBIT | Transfer prevented by external signal |
-| PWR SUPP FLT | ATS internal power supply fault |
-| COM FAIL | Remote monitoring communication fault |
-| MAINT BYPSS | Manual bypass mode active |
+| [S1 FAIL](https://www.amazon.com/s?k=S1+FAIL&tag=errorcodefixes-20) | Source 1 (normal) power failure |
+| [S2 NOT AVL](https://www.amazon.com/s?k=S2+NOT+AVL&tag=errorcodefixes-20) | Source 2 (emergency) not available |
+| [XFER INHIBIT](https://www.amazon.com/s?k=XFER+INHIBIT&tag=errorcodefixes-20) | Transfer prevented by external signal |
+| [PWR SUPP FLT](https://www.amazon.com/s?k=PWR+SUPP+FLT&tag=errorcodefixes-20) | ATS internal power supply fault |
+| [COM FAIL](https://www.amazon.com/s?k=COM+FAIL&tag=errorcodefixes-20) | Remote monitoring communication fault |
+| [MAINT BYPSS](https://www.amazon.com/s?k=MAINT+BYPSS&tag=errorcodefixes-20) | Manual bypass mode active |
 
 ## Generac RTSY/RTSN ATS Notes
 

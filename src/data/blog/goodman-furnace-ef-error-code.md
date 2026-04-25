@@ -24,12 +24,12 @@ EF appears on Goodman GMSS96, GMEC96, GMVC96, GMVC80, and Amana AMSS, AMVC serie
 
 | Cause | Likelihood | Test |
 |-------|-----------|------|
-| Flame sensor picking up stray EMI | High | Check sensor wiring routing |
-| Leaking gas valve (gas valve not fully closing) | Medium-High | Listen/smell for gas after shutdown |
-| Flame sensor wiring shorted to chassis | Medium | Inspect flame sensor wire insulation |
-| Control board fault — false flame sense input | Medium | Swap control board to test |
-| HSI (hot surface igniter) generating voltage | Lower | Disconnect igniter lead; retest |
-| Gas valve stuck partially open | Lower | Verify valve closes fully |
+| [Flame sensor picking up stray EMI](https://www.amazon.com/s?k=Flame+sensor+picking+up+stray+EMI&tag=errorcodefixes-20) | High | Check sensor wiring routing |
+| [Leaking gas valve (gas valve not fully closing)](https://www.amazon.com/s?k=Leaking+gas+valve+%28gas+valve+not+fully+closing%29&tag=errorcodefixes-20) | Medium-High | Listen/smell for gas after shutdown |
+| [Flame sensor wiring shorted to chassis](https://www.amazon.com/s?k=Flame+sensor+wiring+shorted+to+chassis&tag=errorcodefixes-20) | Medium | Inspect flame sensor wire insulation |
+| [Control board fault — false flame sense input](https://www.amazon.com/s?k=Control+board+fault+%E2%80%94+false+flame+sense+input&tag=errorcodefixes-20) | Medium | Swap control board to test |
+| [HSI (hot surface igniter) generating voltage](https://www.amazon.com/s?k=HSI+%28hot+surface+igniter%29+generating+voltage&tag=errorcodefixes-20) | Lower | Disconnect igniter lead; retest |
+| [Gas valve stuck partially open](https://www.amazon.com/s?k=Gas+valve+stuck+partially+open&tag=errorcodefixes-20) | Lower | Verify valve closes fully |
 
 ## Step-by-Step Diagnosis
 

@@ -25,14 +25,14 @@ The alarm codes themselves are identical between NGC and Classic Haas. What's di
 
 ## Most Common NGC Alarm Categories
 
-| Alarm Range | Category | Note |
+| [Alarm Range](https://www.amazon.com/s?k=Alarm+Range&tag=errorcodefixes-20) | Category | Note |
 |------------|---------|------|
-| 100-105 | Servo/E-Stop | Same as Classic — E-stop, servo off |
-| 106-115 | Spindle | Spindle drive, orientation, speed |
-| 116-119 | Spindle faults | Speed, overtemp, communication |
-| 120-130 | ATC alarms | Tool changer arm, chain, door |
-| 131-145 | Servo motor | Axis servo thermal, feedback |
-| 200-299 | Servo alarms | Advanced servo fault codes |
+| [100-105](https://www.amazon.com/s?k=100-105&tag=errorcodefixes-20) | Servo/E-Stop | Same as Classic — E-stop, servo off |
+| [106-115](https://www.amazon.com/s?k=106-115&tag=errorcodefixes-20) | Spindle | Spindle drive, orientation, speed |
+| [116-119](https://www.amazon.com/s?k=116-119&tag=errorcodefixes-20) | Spindle faults | Speed, overtemp, communication |
+| [120-130](https://www.amazon.com/s?k=120-130&tag=errorcodefixes-20) | ATC alarms | Tool changer arm, chain, door |
+| [131-145](https://www.amazon.com/s?k=131-145&tag=errorcodefixes-20) | Servo motor | Axis servo thermal, feedback |
+| [200-299](https://www.amazon.com/s?k=200-299&tag=errorcodefixes-20) | Servo alarms | Advanced servo fault codes |
 
 ## NGC-Specific Features for Alarm Diagnosis
 

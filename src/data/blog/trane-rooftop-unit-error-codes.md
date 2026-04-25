@@ -25,7 +25,7 @@ Trane commercial RTUs — including the Precedent, YCD, YCC, and CGAM series —
 
 ## Trane RTU Flash Code Table
 
-| Flash Count | Fault | Common Cause |
+| [Flash Count](https://www.amazon.com/s?k=Flash+Count&tag=errorcodefixes-20) | Fault | Common Cause |
 |---|---|---|
 | 1 | Normal — no fault | System operating correctly |
 | 2 | Inducer/pressure switch fault | Blocked flue, failed inducer motor |
@@ -39,7 +39,7 @@ Trane commercial RTUs — including the Precedent, YCD, YCC, and CGAM series —
 
 ## Trane ComfortLink / Tracer Alphanumeric Codes
 
-| Fault Code | Description | Action |
+| [Fault Code](https://www.amazon.com/s?k=Fault+Code&tag=errorcodefixes-20) | Description | Action |
 |---|---|---|
 | 77 | High-pressure cutout | Check condenser coil, fan motors, charge |
 | 79 | Low-pressure cutout | Check refrigerant charge, filter, evap coil |
@@ -74,11 +74,11 @@ Verify inducer motor is running. Check pressure switch hose for blockages. Measu
 
 | Part | Notes |
 |---|---|
-| Hot surface igniter | Silicon carbide — handle without skin contact |
-| Flame sensor rod | Replace if µA reading below 1.5 µA |
-| High-pressure switch | 410A = 590 psi, check OEM setting |
-| Condenser fan motor | Check run capacitor first |
-| IFC control board | Match model number exactly |
-| Inducer motor | Check capacitor before replacing motor |
+| [Hot surface igniter](https://www.amazon.com/s?k=Hot+surface+igniter&tag=errorcodefixes-20) | Silicon carbide — handle without skin contact |
+| [Flame sensor rod](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20) | Replace if µA reading below 1.5 µA |
+| [High-pressure switch](https://www.amazon.com/s?k=High-pressure+switch&tag=errorcodefixes-20) | 410A = 590 psi, check OEM setting |
+| [Condenser fan motor](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) | Check run capacitor first |
+| [IFC control board](https://www.amazon.com/s?k=IFC+control+board&tag=errorcodefixes-20) | Match model number exactly |
+| [Inducer motor](https://www.amazon.com/s?k=Inducer+motor&tag=errorcodefixes-20) | Check capacitor before replacing motor |
 
 > **Pro tip:** On Trane Precedent units, the IFC stores the last fault. After a power cycle, the board replays the fault code during startup via the diagnostic LED.

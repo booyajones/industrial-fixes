@@ -48,9 +48,9 @@ After replacement, restore power and observe the blower operation through a full
 
 | Part | Where to Buy |
 |------|-------------|
-| ECM motor module (match part number) | RepairClinic, Grainger |
-| ECM blower motor assembly | RepairClinic, SupplyHouse |
-| Motor control board | SupplyHouse, Grainger |
+| [ECM motor module (match part number)](https://www.amazon.com/s?k=ECM+motor+module+%28match+part+number%29&tag=errorcodefixes-20) | RepairClinic, Grainger |
+| [ECM blower motor assembly](https://www.amazon.com/s?k=ECM+blower+motor+assembly&tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
+| [Motor control board](https://www.amazon.com/s?k=Motor+control+board&tag=errorcodefixes-20) | SupplyHouse, Grainger |
 
 ## When to Call a Technician
 

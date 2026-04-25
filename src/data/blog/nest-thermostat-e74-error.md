@@ -74,11 +74,11 @@ In the Nest app: Settings → Technical Info → Battery Voltage.
 
 ## Quick Reference
 
-| Nest Error | Meaning |
+| [Nest Error](https://www.amazon.com/s?k=Nest+Error&tag=errorcodefixes-20) | Meaning |
 |---|---|
 | E1 | No power from HVAC system |
 | E74 | Battery too low (specific threshold) |
 | W5 | No power at Rh (heating transformer) |
-| No display | Battery completely dead |
+| [No display](https://www.amazon.com/s?k=No+display&tag=errorcodefixes-20) | Battery completely dead |
 
 Charge the battery first, then address the root cause — without fixing the root cause, E74 will return within days to weeks.

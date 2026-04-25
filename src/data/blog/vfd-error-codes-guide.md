@@ -16,15 +16,15 @@ tags:
 
 Most VFD faults fall into a few repeat patterns: too much current, too much voltage, too little voltage, too much heat, or a bad signal from the motor or control system. Once you know the category, you can narrow the cause fast.
 
-| Fault Family | Common Abbreviations | Typical Cause |
+| [Fault Family](https://www.amazon.com/s?k=Fault+Family&tag=errorcodefixes-20) | Common Abbreviations | Typical Cause |
 |-------------|----------------------|---------------|
-| Overcurrent | OC, F001, Fault 7 | Mechanical jam, shorted motor, accel too fast |
-| Overvoltage | OV, F003, 3210 | Decel too fast, regenerative load |
-| Undervoltage | UV, F004, 3300 | Weak supply, blown fuse, phase loss |
-| Overtemperature | OH, oH, 4110 | Dirty fan, blocked airflow, high ambient |
-| Ground Fault | GF | Motor winding or cable insulation failure |
-| Communication Fault | COM, 9300, F81 | PLC or network problem |
-| Overload | OL, F012, 5010 | Motor load above rating |
+| [Overcurrent](https://www.amazon.com/s?k=Overcurrent&tag=errorcodefixes-20) | OC, F001, Fault 7 | Mechanical jam, shorted motor, accel too fast |
+| [Overvoltage](https://www.amazon.com/s?k=Overvoltage&tag=errorcodefixes-20) | OV, F003, 3210 | Decel too fast, regenerative load |
+| [Undervoltage](https://www.amazon.com/s?k=Undervoltage&tag=errorcodefixes-20) | UV, F004, 3300 | Weak supply, blown fuse, phase loss |
+| [Overtemperature](https://www.amazon.com/s?k=Overtemperature&tag=errorcodefixes-20) | OH, oH, 4110 | Dirty fan, blocked airflow, high ambient |
+| [Ground Fault](https://www.amazon.com/s?k=Ground+Fault&tag=errorcodefixes-20) | GF | Motor winding or cable insulation failure |
+| [Communication Fault](https://www.amazon.com/s?k=Communication+Fault&tag=errorcodefixes-20) | COM, 9300, F81 | PLC or network problem |
+| [Overload](https://www.amazon.com/s?k=Overload&tag=errorcodefixes-20) | OL, F012, 5010 | Motor load above rating |
 
 ## The 5 Checks That Solve Most VFD Faults
 
@@ -50,14 +50,14 @@ A dirty drive cabinet causes more VFD faults than most people expect. Clean the 
 
 ## Common Brands Covered on This Site
 
-| Brand | Example Guide |
+| [Brand](https://www.amazon.com/s?k=Brand&tag=errorcodefixes-20) | Example Guide |
 |------|---------------|
 | ABB | [ABB VFD Fault Codes](/abb-vfd-fault-codes) |
-| Allen-Bradley | [Allen-Bradley PowerFlex Fault Codes](/allen-bradley-powerflex-fault-codes) |
-| Danfoss | [Danfoss VFD Fault Codes](/danfoss-vfd-fault-codes) |
-| Siemens | [Siemens VFD Fault Codes](/siemens-vfd-fault-codes) |
-| Yaskawa | [Yaskawa VFD Fault Codes](/yaskawa-vfd-fault-codes) |
-| Eaton | [Eaton VFD Fault Codes](/eaton-vfd-fault-codes) |
+| [Allen-Bradley](https://www.amazon.com/s?k=Allen-Bradley&tag=errorcodefixes-20) | [Allen-Bradley PowerFlex Fault Codes](/allen-bradley-powerflex-fault-codes) |
+| [Danfoss](https://www.amazon.com/s?k=Danfoss&tag=errorcodefixes-20) | [Danfoss VFD Fault Codes](/danfoss-vfd-fault-codes) |
+| [Siemens](https://www.amazon.com/s?k=Siemens&tag=errorcodefixes-20) | [Siemens VFD Fault Codes](/siemens-vfd-fault-codes) |
+| [Yaskawa](https://www.amazon.com/s?k=Yaskawa&tag=errorcodefixes-20) | [Yaskawa VFD Fault Codes](/yaskawa-vfd-fault-codes) |
+| [Eaton](https://www.amazon.com/s?k=Eaton&tag=errorcodefixes-20) | [Eaton VFD Fault Codes](/eaton-vfd-fault-codes) |
 
 ## Before You Replace the Drive
 

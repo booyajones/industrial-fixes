@@ -15,14 +15,14 @@ tags:
 
 The Scotsman HID525 is a hotel ice dispenser that combines ice making, storage, and dispensing in one compact unit. It uses a Scotsman electronic controller that tracks water fill, freeze cycle, harvest cycle, and bin control faults. Most service issues relate to water quality, scaling, and dispensing obstructions.
 
-| Code | Meaning | Quick Fix |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |------|---------|-----------|
-| Fill fault | Water did not reach level | Check inlet valve and filter |
-| Freeze fault | Freeze cycle too long | Clean condenser; descale machine |
-| Harvest fault | Ice not releasing | Check hot gas and evaporator scale |
-| Bin full fault | Bin control active | Check bin switch and ice jam |
-| Dispense fault | Auger or dispense motor issue | Clear jam; check motor |
-| Sensor fault | Thermistor or level sensor issue | Test sensor resistance |
+| [Fill fault](https://www.amazon.com/s?k=Fill+fault&tag=errorcodefixes-20) | Water did not reach level | Check inlet valve and filter |
+| [Freeze fault](https://www.amazon.com/s?k=Freeze+fault&tag=errorcodefixes-20) | Freeze cycle too long | Clean condenser; descale machine |
+| [Harvest fault](https://www.amazon.com/s?k=Harvest+fault&tag=errorcodefixes-20) | Ice not releasing | Check hot gas and evaporator scale |
+| [Bin full fault](https://www.amazon.com/s?k=Bin+full+fault&tag=errorcodefixes-20) | Bin control active | Check bin switch and ice jam |
+| [Dispense fault](https://www.amazon.com/s?k=Dispense+fault&tag=errorcodefixes-20) | Auger or dispense motor issue | Clear jam; check motor |
+| [Sensor fault](https://www.amazon.com/s?k=Sensor+fault&tag=errorcodefixes-20) | Thermistor or level sensor issue | Test sensor resistance |
 
 ## Most Common Codes
 

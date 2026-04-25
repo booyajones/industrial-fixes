@@ -116,11 +116,11 @@ If wiring is intact and the diagnostic screen identifies one specific component 
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|--------------|
-| Carrier Infinity Thermostat (SYSTXBBUID01-B or SYSTXBBECC01-B) | Thermostat communication hardware failed | $150–$350 |
-| Furnace Control Board (CEPL130432-01 or model-specific) | Indoor board communication chip failure | $200–$450 |
-| Outdoor Unit Control Board (model-specific) | Variable-speed or inverter board failure | $300–$700 |
-| Control Board Fuse (3A or 5A, ATC-type) | Blown board fuse cutting communication power | $2–$5 |
-| 18/5 or 18/8 Thermostat Wire | Damaged low-voltage wiring | $25–$60 per 50ft |
+| [Carrier Infinity Thermostat (SYSTXBBUID01-B or SYSTXBBECC01-B)](https://www.amazon.com/s?k=Carrier+Infinity+Thermostat+%28SYSTXBBUID01-B+or+SYSTXBBECC01-B%29&tag=errorcodefixes-20) | Thermostat communication hardware failed | $150–$350 |
+| [Furnace Control Board (CEPL130432-01 or model-specific)](https://www.amazon.com/s?k=Furnace+Control+Board+%28CEPL130432-01+or+model-specific%29&tag=errorcodefixes-20) | Indoor board communication chip failure | $200–$450 |
+| [Outdoor Unit Control Board (model-specific)](https://www.amazon.com/s?k=Outdoor+Unit+Control+Board+%28model-specific%29&tag=errorcodefixes-20) | Variable-speed or inverter board failure | $300–$700 |
+| [Control Board Fuse (3A or 5A, ATC-type)](https://www.amazon.com/s?k=Control+Board+Fuse+%283A+or+5A%2C+ATC-type%29&tag=errorcodefixes-20) | Blown board fuse cutting communication power | $2–$5 |
+| [18/5 or 18/8 Thermostat Wire](https://www.amazon.com/s?k=18%2F5+or+18%2F8+Thermostat+Wire&tag=errorcodefixes-20) | Damaged low-voltage wiring | $25–$60 per 50ft |
 
 ---
 

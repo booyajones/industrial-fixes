@@ -18,16 +18,16 @@ tags:
 
 When the ABB ACS880 is integrated with a PLC via PROFIBUS, PROFINET, EtherNet/IP, or Modbus TCP, additional fault categories appear related to communication, fieldbus, and process data mapping.
 
-| Fault Code | Meaning | Quick Fix |
+| [Fault Code](https://www.amazon.com/s?k=Fault+Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |-----------|---------|-----------|
-| 7081 — Fieldbus Communication Loss | No communication from PLC master | Check network cable, IP, and master config |
-| 7082 — Fieldbus Timeout | Communication timeout exceeded | Check PLC cycle time and network load |
-| 3210 — DC Bus Overvoltage | Bus voltage too high | Check brake chopper and regen conditions |
-| 3130 — Input Phase Loss | Input phase missing | Check fuses and supply connections |
-| 2310 — Overcurrent | Output current limit exceeded | Check motor, cable, and load |
-| 5091 — Encoder Communication | Encoder interface fault | Check encoder cable and module |
-| 64A0 — Control Word Timeout | Control word not updated by PLC | Check PLC program cycle |
-| 7011 — Ethernet Adapter Fault | Ethernet adapter communication error | Cycle power on adapter, check settings |
+| [7081 — Fieldbus Communication Loss](https://www.amazon.com/s?k=7081+%E2%80%94+Fieldbus+Communication+Loss&tag=errorcodefixes-20) | No communication from PLC master | Check network cable, IP, and master config |
+| [7082 — Fieldbus Timeout](https://www.amazon.com/s?k=7082+%E2%80%94+Fieldbus+Timeout&tag=errorcodefixes-20) | Communication timeout exceeded | Check PLC cycle time and network load |
+| [3210 — DC Bus Overvoltage](https://www.amazon.com/s?k=3210+%E2%80%94+DC+Bus+Overvoltage&tag=errorcodefixes-20) | Bus voltage too high | Check brake chopper and regen conditions |
+| [3130 — Input Phase Loss](https://www.amazon.com/s?k=3130+%E2%80%94+Input+Phase+Loss&tag=errorcodefixes-20) | Input phase missing | Check fuses and supply connections |
+| [2310 — Overcurrent](https://www.amazon.com/s?k=2310+%E2%80%94+Overcurrent&tag=errorcodefixes-20) | Output current limit exceeded | Check motor, cable, and load |
+| [5091 — Encoder Communication](https://www.amazon.com/s?k=5091+%E2%80%94+Encoder+Communication&tag=errorcodefixes-20) | Encoder interface fault | Check encoder cable and module |
+| [64A0 — Control Word Timeout](https://www.amazon.com/s?k=64A0+%E2%80%94+Control+Word+Timeout&tag=errorcodefixes-20) | Control word not updated by PLC | Check PLC program cycle |
+| [7011 — Ethernet Adapter Fault](https://www.amazon.com/s?k=7011+%E2%80%94+Ethernet+Adapter+Fault&tag=errorcodefixes-20) | Ethernet adapter communication error | Cycle power on adapter, check settings |
 
 ## PLC Integration Fault Troubleshooting
 
@@ -46,12 +46,12 @@ If the motor runs but speed or torque commands behave unexpectedly, verify the d
 
 ## Common Integration Parameters
 
-| Parameter | Function | Notes |
+| [Parameter](https://www.amazon.com/s?k=Parameter&tag=errorcodefixes-20) | Function | Notes |
 |-----------|---------|-------|
-| 51.01 | Fieldbus adapter type | Set to installed adapter |
-| 51.04 | Communication timeout | Set to 3× PLC cycle time |
-| 58.01 | Embedded fieldbus protocol | Modbus or EIP |
-| 20.01 | Speed reference source | Set to fieldbus |
+| [51.01](https://www.amazon.com/s?k=51.01&tag=errorcodefixes-20) | Fieldbus adapter type | Set to installed adapter |
+| [51.04](https://www.amazon.com/s?k=51.04&tag=errorcodefixes-20) | Communication timeout | Set to 3× PLC cycle time |
+| [58.01](https://www.amazon.com/s?k=58.01&tag=errorcodefixes-20) | Embedded fieldbus protocol | Modbus or EIP |
+| [20.01](https://www.amazon.com/s?k=20.01&tag=errorcodefixes-20) | Speed reference source | Set to fieldbus |
 
 ## Jump to Fix
 

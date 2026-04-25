@@ -16,7 +16,7 @@ tags:
 
 The Trane XL20i is a variable-speed, inverter-driven heat pump that uses the ComfortLink II communicating system. Unlike single-stage units with simple LED blink codes, the XL20i reports detailed fault codes through the ComfortLink II thermostat and can store up to 10 fault history entries. Access fault history from the thermostat: Menu → Diagnostics → Fault History.
 
-| Code | Meaning | Quick Fix |
+| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |------|---------|-----------|
 | 79 | Inverter communication fault | Check communication wiring; power cycle |
 | 80 | Inverter module fault | Inspect inverter board connections |
