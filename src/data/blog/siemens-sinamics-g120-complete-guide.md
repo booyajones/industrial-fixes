@@ -1,223 +1,221 @@
 ---
-title: "Siemens SINAMICS G120 Complete Guide - Setup, Fault Codes, and Commissioning"
-description: "Complete Siemens SINAMICS G120 guide covering setup, commissioning, major fault codes, parameter basics, and practical fixes for overcurrent, overvoltage, undervoltage, and motor faults."
+title: "Siemens SINAMICS G120 VFD Complete Setup and Fault Code Guide"
+description: "Complete Siemens SINAMICS G120 VFD guide covering commissioning with Startdrive, all major fault codes F0001–F0106, parameter backup and restore, and BOP-2 keypad operation."
 pubDatetime: 2026-04-25T00:00:00Z
 author: errorcodefixes.com
 tags:
-  - hvac
+  - vfd
+  - industrial
   - error-codes
 ---
 
-The Siemens SINAMICS G120 is one of the most common modular variable frequency drives used in industrial HVAC, pumps, conveyors, and process equipment. It combines a Control Unit with a matching Power Module, which makes it flexible but also a little more intimidating for first-time commissioning and troubleshooting.
+The Siemens SINAMICS G120 is a modular, high-performance VFD widely deployed in pumps, fans, conveyors, and compressors across manufacturing, water treatment, and building automation. Its modular Control Unit / Power Module architecture offers flexibility — but it also means setup and fault diagnosis require understanding which component is causing the problem. This guide walks through first-time commissioning with Startdrive, decoding the most common fault codes, backing up and restoring parameters, and navigating the BOP-2 operator panel.
 
-The good news is that the G120 is extremely transparent once you know where to look. Fault codes are structured, commissioning follows a repeatable sequence, and most nuisance trips trace back to a short list of causes: aggressive ramps, weak incoming power, bad motor data, ground faults, or poor wiring practices.
+---
 
-This guide gives you a practical, field-focused overview of the SINAMICS G120. It covers what the main alarms and faults mean, what parameters matter most, how to commission the drive correctly, and when a fault points to real hardware damage instead of a setup mistake.
+## G120 Hardware Overview
 
-## What Does Siemens SINAMICS G120 Fault Data Mean?
+The G120 consists of two primary components:
 
-On a SINAMICS G120, faults and alarms appear as codes such as **F30001**, **F30002**, **F30005**, or **A0501** depending on the control unit and firmware family. In practice, technicians often refer to the short meaning rather than the full number: overcurrent, DC link overvoltage, undervoltage, motor overload, communication fault, or encoder fault.
+- **Control Unit (CU):** Contains the drive logic, fieldbus interface, and parameter memory. Common variants: CU230P-2 (pump/fan), CU240E-2 (general purpose with safety), CU250S-2 (positioning).
+- **Power Module (PM):** Contains the rectifier, DC bus, and IGBT inverter stage. Sized by power rating and frame size (FSA through FSF+).
 
-A few important rules help you interpret G120 diagnostics correctly:
+The two communicate via a high-speed backplane connector. Faults prefixed **Fxxxx** are active faults requiring acknowledgment. Alarms prefixed **Axxxx** are warnings that don't trip the drive.
 
-- **Faults (F-codes)** stop the drive and require reset after the root cause is addressed.
-- **Alarms (A-codes)** warn of a problem or limit condition but may not stop operation.
-- The drive stores fault history, operating state, frequency, current, voltage, and sometimes temperature data at the time of trip.
-- The exact numbering can vary slightly by Control Unit and firmware revision, but the root causes stay consistent.
+---
 
-Here are the G120 fault groups you will see most often in the field:
+## Commissioning with Startdrive
 
-| Fault / Alarm | Meaning | Typical Root Cause |
-|---|---|---|
-| F30001 | Overcurrent | Short acceleration time, jammed load, shorted motor cable |
-| F30002 | DC link overvoltage | Decel too fast, regenerative load, missing brake resistor |
-| F30003 | DC link undervoltage | Low incoming voltage, supply dip, blown fuse |
-| F30005 | I2t overload / drive overload | Sustained high load current |
-| F30021 | Ground fault | Motor winding to ground, damaged output cable |
-| F30035 | Motor stalled or blocked | Mechanical seizure, heavy starting load |
-| F30050 | Power module overtemperature | Dirty heatsink, failed fan, hot enclosure |
-| F07011 / comms faults | Fieldbus communication problem | PLC offline, broken Profibus/Profinet link |
-| A0501 | Current limit active | Drive is protecting itself during acceleration |
-| A0910 | Parameterization warning | Setup mismatch or incomplete commissioning |
+Siemens Startdrive is the PC commissioning tool for the G120, integrated as a TIA Portal add-in. It provides a guided wizard, full parameter access, and real-time diagnostics. Here's the standard commissioning sequence for a new installation.
 
-What matters most is **when** the fault happens.
+### Step 1: Hardware Check Before Power-Up
 
-- If it trips **at startup**, suspect wiring, acceleration, or incorrect motor data.
-- If it trips **during deceleration**, suspect regeneration and DC bus overvoltage.
-- If it trips **after running for 20 to 60 minutes**, suspect thermal loading, poor cooling, or overload.
-- If it trips **randomly**, suspect loose terminals, insulation breakdown, or unstable incoming power.
+Before applying power:
+- Verify input voltage matches the PM's rated input (check PM nameplate).
+- Confirm motor nameplate data is available: rated voltage, current, frequency, speed, power factor.
+- Check that all power connections (L1/L2/L3 input, U/V/W output) are tight and correctly phased.
+- Verify the motor cable shield is grounded at the drive end.
 
-The G120 also depends heavily on correct motor nameplate data. If rated current, voltage, frequency, or motor model data are wrong, the drive's current regulator and slip calculations are wrong too. That creates nuisance faults that look like hardware issues but are really setup problems.
+### Step 2: Connect Startdrive
 
-## How to Fix It
+1. Connect a USB cable from your PC to the CU's USB port (Type B, front of CU).
+2. Open TIA Portal → Create new project → Add device → SINAMICS G120 CU variant matching your hardware.
+3. Go Online — TIA Portal will detect the drive and sync the device configuration.
 
-**1. Start with the fault memory, not the fault reset button**
+### Step 3: Quick Commissioning Wizard
 
-Before resetting anything, record:
-- Fault number
-- Output frequency at trip
-- Motor current at trip
-- DC bus voltage at trip
-- Drive heatsink temperature if available
-- Whether the trip happened during start, run, or stop
+In Startdrive, navigate to **Commissioning → Quick Commissioning**. The wizard walks through:
 
-If you clear the fault first, you erase useful context and make the problem harder to solve.
+1. **Application class** — select Standard Drive Control or Vector Control based on load type.
+2. **Motor data entry** — enter all nameplate values. Enable motor data identification if motor data is uncertain (parameter P1900 = 1 for stationary ID, P1900 = 2 for rotating ID).
+3. **Control mode** — V/f (simple loads like fans) or Vector (higher dynamic response needed).
+4. **Setpoint source** — analog input, fieldbus (PROFINET/PROFIBUS), or fixed speeds.
+5. **Ramp times** — set P1120 (acceleration ramp) and P1121 (deceleration ramp) appropriate for your load inertia.
+6. **Motor protection** — enable electronic thermal protection (P0610 = 1) and set the motor temperature warning threshold.
 
-**2. Verify incoming power quality**
+Accept and download the configuration to the drive. The drive will execute motor identification if selected — ensure the motor is connected and free to rotate (or locked for stationary ID).
 
-Many G120 faults begin on the line side.
+### Step 4: Verify Operation
 
-- Measure incoming voltage phase-to-phase at the line input terminals.
-- Confirm voltage balance between phases is within about 2 percent.
-- Check input fuses, disconnects, and line reactor connections.
-- Look for browned or overheated terminals.
+Run the motor from Startdrive's control panel at low speed (10–20 Hz). Monitor:
+- Output current (r0027) — should match no-load current expectation
+- Output voltage (r0025) — should track V/f ratio
+- Drive temperature (r0037) — should remain stable
 
-Low or unstable input voltage causes undervoltage trips, weak torque, and sometimes false overcurrent behavior under load.
+If the motor runs smooth with no faults, ramp to full speed and verify load current is within nameplate rating.
 
-**3. Check the motor cable and motor insulation**
+---
 
-With power locked out:
-- Disconnect the motor leads from the drive output.
-- Meg the motor and output cable phase-to-ground.
-- Check phase-to-phase resistance balance.
-- Inspect cable terminations for loose strands or insulation damage.
+## BOP-2 Keypad Operation
 
-If insulation is weak, the drive may fault on ground fault or overcurrent instantly at startup.
+The BOP-2 (Basic Operator Panel 2) is the front-mounted operator panel for the G120. It provides local control, parameter access, and fault readout without a PC.
 
-**4. Slow the acceleration ramp**
+### Key Functions
 
-If the drive faults during startup, increase the ramp time first. This is one of the fastest and most effective fixes.
+| Button | Function |
+|--------|----------|
+| ▲ / ▼ | Navigate parameter list or change value |
+| OK | Confirm selection or value |
+| ESC | Cancel / go back |
+| ► (run) | Start drive (local mode) |
+| ■ (stop) | Stop drive |
+| FN (function) | Toggle between status display and parameter menu |
 
-A ramp that's too short forces the drive to deliver excessive torque instantly. On fans, pumps, and conveyors with inertia, that pushes current above safe levels.
+### Navigating Parameters
 
-- Double the acceleration time and retest.
-- If the drive now starts normally, the previous ramp was too aggressive.
-- If current limit alarms appear without a hard trip, you are close but still demanding too much torque.
+Press **OK** to enter the parameter menu. Use **▲/▼** to scroll to the parameter number (e.g., P1120). Press **OK** to select, **▲/▼** to change the value, and **OK** to confirm. Press **ESC** to exit without saving.
 
-**5. Slow the deceleration ramp or add braking**
+### Fault Acknowledgment via BOP-2
 
-If the drive faults when stopping, the motor is regenerating energy back into the DC bus. That energy has to go somewhere.
+When a fault is active, the BOP-2 displays the fault code (e.g., F0001). After correcting the underlying cause, press **FN** then **OK** to acknowledge the fault. If the fault condition is still present, acknowledgment will fail and the code will reappear.
 
-- Increase deceleration time.
-- Enable ramp shaping if available.
-- Add or verify the braking resistor on regenerative applications.
-- Check that brake chopper wiring is correct.
+### Local vs. Remote Mode
 
-Common offenders are high-inertia fans, centrifuges, and conveyors that are forced to stop too quickly.
+The G120 defaults to remote (fieldbus/analog) control. To take local control at the BOP-2, press and hold **FN** for 2 seconds — the LOCAL indicator appears. Return to remote by pressing and holding **FN** again. Note: local mode setpoint is a separate parameter from remote setpoint — set P1040 for BOP-2 local reference speed.
 
-**6. Verify motor nameplate parameters carefully**
+---
 
-A properly commissioned G120 depends on correct motor data. Check the programmed values against the nameplate for:
-- Rated voltage
-- Rated current
-- Rated frequency
-- Rated speed
-- Rated power
-- Power factor if required by your application mode
+## Fault Code Reference
 
-Even one bad value can distort current regulation and thermal protection.
+### F0001 — Overcurrent
 
-**7. Run motor identification / optimization**
+**Meaning:** Output current exceeded the trip threshold. The PM detected a phase current above the overcurrent limit.  
+**Common causes:** Motor short circuit, ground fault in motor cable, acceleration ramp too fast for the load inertia, output contactor switching under load.  
+**Fix:** Check motor insulation resistance (500V DC megohmeter — minimum 1 MΩ). Check motor cable for damaged insulation. Increase P1120 (acceleration ramp time). Never switch an output contactor while the drive is outputting voltage.
 
-After entering correct motor data, run the appropriate identification routine if your control mode supports it. This improves current control, torque response, and speed stability.
+### F0002 — Overvoltage
 
-On many G120 setups, skipping this step leads to unstable low-speed operation or nuisance overcurrent trips under changing load.
+**Meaning:** DC bus voltage exceeded the overvoltage trip threshold (approx. 820V DC for 400V input).  
+**Common causes:** Regenerative energy from fast deceleration exceeding DC bus absorption capacity, input supply voltage too high, input voltage transients.  
+**Fix:** Increase P1121 (deceleration ramp time). For high-inertia loads that must stop quickly, install a braking resistor connected to the PM's braking chopper terminals. Verify input supply voltage is within specification.
 
-**8. Inspect cooling and enclosure conditions**
+### F0003 — Undervoltage
 
-A G120 with restricted airflow will fault even if everything else is correct.
+**Meaning:** DC bus voltage fell below minimum threshold. Power supply disruption detected.  
+**Common causes:** Input supply voltage dip or interruption, blown input fuse, loose input terminal, undersized supply transformer or cabling.  
+**Fix:** Check input voltage at the PM terminals under load (voltage should remain above 85% of nominal). Check input fuses and terminal torque values. If the supply has known voltage dips, set P0210 (input voltage) correctly and review kinetic buffering options (P1240).
 
-- Clean heatsinks and fan filters.
-- Verify cooling fans are running.
-- Measure enclosure temperature.
-- Check that the drive has the minimum side and top clearance required by Siemens.
+### F0004 — Overtemperature (Drive)
 
-Heat-related faults often appear after the machine has been running fine for a while, then trips once the power module reaches its thermal limit.
+**Meaning:** Control unit or power module temperature exceeded the trip threshold.  
+**Common causes:** Blocked cooling vents, ambient temperature above 40°C (50°C with derating), failed cooling fan, drive overloaded beyond thermal rating.  
+**Fix:** Clean cooling vents and heatsink fins. Verify ambient temperature. Check fan operation. Review load current against drive rated current — derate if ambient is above 40°C per Siemens derating tables.
 
-**9. Check the mechanical load, not just the drive**
+### F0011 — Motor Overtemperature
 
-If the motor is trying to move a jammed or overloaded machine, the G120 is doing its job by faulting.
+**Meaning:** Motor thermal model or external motor temperature sensor (PTC/KTY) indicates the motor is overheating.  
+**Common causes:** Motor overloaded, ambient temperature too high at motor location, blocked motor cooling, incorrect motor thermal parameters in drive.  
+**Fix:** Check motor load current against nameplate. Verify P0625 (ambient temperature at motor) is correctly set. If using a PTC thermistor, check wiring continuity to CU terminals. Review P0626–P0628 (motor temperature limits).
 
-- Rotate the load manually if possible.
-- Check bearings, gearboxes, couplings, and driven equipment.
-- Look for product buildup, seized dampers, or stuck pump impellers.
+### F0100 — Power Unit: Overcurrent
 
-Drive faults are often symptoms of mechanical trouble.
+**Meaning:** Power module hardware overcurrent protection triggered — distinct from F0001 (software-level overcurrent). This is a hardware trip inside the PM.  
+**Common causes:** Output short circuit, ground fault close to drive output, IGBT gate driver fault.  
+**Fix:** Disconnect motor cables and test for phase-to-phase and phase-to-ground shorts at the U/V/W terminals. If the fault clears without load connected, the fault is in the motor or cable. If fault persists with no load, the PM may have internal damage.
 
-**10. Review fieldbus and control wiring**
+### F0101 — Power Unit: Overtemperature
 
-If the drive runs from PLC commands over Profinet or Profibus, unstable communications can create intermittent trips or loss-of-run command issues.
+**Meaning:** Power module temperature sensor detected overtemperature — hardware-level trip (vs. F0004 which can be CU thermal model).  
+**Fix:** Same procedure as F0004. Check cooling fan in the PM, clean heatsink, verify ambient temperature and derating.
 
-- Check shield termination.
-- Verify address and node configuration.
-- Confirm PLC watchdog and comm timeout settings.
-- Inspect control terminals for loose wires on enable, fault reset, or STO circuits.
+### F0102 — Power Unit: Voltage Fault
 
-A loose STO loop or enable contact can mimic a drive failure.
+**Meaning:** Abnormal voltage detected in the power module — DC bus or phase voltage out of expected range.  
+**Fix:** Check input supply voltage. Verify all input phases are present and within spec. Check for loose connections at L1/L2/L3 input terminals.
 
-### Common commissioning flow for a new G120
+### F0105 — Power Unit: Communication Fault
 
-A clean commissioning process prevents most first-start faults.
+**Meaning:** Communication between the Control Unit and Power Module has failed or timed out.  
+**Common causes:** Loose CU-to-PM backplane connector, CU not fully seated on PM, damaged connector pins.  
+**Fix:** Power down completely, remove CU from PM, inspect backplane connector for bent or corroded pins, reseat firmly until it clicks. Verify CU firmware is compatible with the PM variant.
 
-1. Verify drive frame, power module, and control unit match the motor and line voltage.
-2. Confirm motor is correctly wired for the available voltage.
-3. Enter motor nameplate data exactly.
-4. Set acceleration and deceleration ramps conservatively.
-5. Select the right control mode for the application.
-6. Run motor identification if supported.
-7. Test the motor uncoupled if practical.
-8. Verify direction of rotation.
-9. Reconnect the load and test under real operating conditions.
-10. Save a backup of the final parameter set.
+### F0106 — Power Unit: Incompatible
 
-### Practical fault patterns and what they usually mean
+**Meaning:** The Control Unit and Power Module are not compatible — mismatched firmware or hardware variants.  
+**Fix:** Check CU and PM firmware versions against Siemens compatibility matrix (available in the G120 system manual). Update CU firmware via Startdrive if required. Confirm the PM is a supported type for the installed CU variant.
 
-- **Trips immediately on RUN:** shorted motor cable, bad motor data, jammed load, or failed power module.
-- **Trips only on stop:** decel too short or no braking resistor.
-- **Trips only at high speed:** weak incoming power, poor cooling, or mechanical overload.
-- **Trips randomly after rain or washdown:** moisture intrusion in motor terminal box or cable.
-- **Shows current limit alarm but keeps running:** ramp is too aggressive or load torque is close to drive size limit.
+---
 
-## Parts You May Need
+## Parameter Backup and Restore
 
-| Part | Use | Amazon Link |
-|---|---|---|
-| Megohmmeter insulation tester | Check motor and cable insulation before startup | [View on Amazon](https://www.amazon.com/s?k=megohmmeter+insulation+tester+motor&tag=errorcodefixes-20) |
-| True RMS clamp meter | Measure phase current and line voltage during operation | [View on Amazon](https://www.amazon.com/s?k=true+rms+clamp+meter+industrial&tag=errorcodefixes-20) |
-| Braking resistor for VFD applications | Prevent DC bus overvoltage on fast stops | [View on Amazon](https://www.amazon.com/s?k=vfd+braking+resistor+industrial&tag=errorcodefixes-20) |
-| Shielded VFD motor cable | Replace damaged output cable and reduce noise | [View on Amazon](https://www.amazon.com/s?k=shielded+vfd+motor+cable&tag=errorcodefixes-20) |
-| Panel cooling fan and filter kit | Improve enclosure cooling around the drive | [View on Amazon](https://www.amazon.com/s?k=electrical+panel+cooling+fan+filter+kit&tag=errorcodefixes-20) |
+Backing up parameters before any firmware update, major parameter change, or service event is essential. The G120 stores parameters in the CU's non-volatile memory, but a corrupted parameter set or wrong firmware update can reset everything to factory defaults.
 
-## When to Call a Pro
+### Backup via Startdrive
 
-Call a qualified drive technician or Siemens integrator when:
-- The drive trips on overcurrent with the motor disconnected.
-- Insulation readings are low and you are not equipped to isolate whether the fault is in the cable or motor.
-- Power module overtemperature returns after cleaning and fan replacement.
-- You suspect a failed IGBT power stage or control unit.
-- The application uses encoder feedback, STO, or fieldbus integration and the commissioning is incomplete.
-- The machine is mission-critical and repeated trial-and-error restarts risk damage.
+1. Connect Startdrive to the drive (USB or PROFINET).
+2. Go Online with the drive.
+3. Navigate to **Project → Upload from Device**.
+4. Save the project file (`.ap16` / `.ap17` depending on TIA Portal version) to a labeled folder with the date.
+5. For a parameter-only backup: **Drive → Parameters → Export to file** → save as `.xml` or `.dds` file.
 
-A good rule is simple: if the fault points to line power, motor insulation, power electronics, or machine safety circuits, get a pro involved before you turn a nuisance trip into a burned drive.
+### Restore via Startdrive
 
-## FAQ
+1. Open the saved project or parameter file.
+2. Go Online with the drive.
+3. Navigate to **Download to Device** → select parameter set.
+4. Confirm and execute. The drive will restart to apply the new parameters.
 
-**Q: What is the most common SINAMICS G120 startup fault?**
+### Backup via BOP-2 (to Onboard Memory Card — CU240E-2 / CU250S-2)
 
-A: Overcurrent at startup is the most common. Usually the cause is a ramp that's too short, incorrect motor data, a jammed mechanical load, or a motor cable fault.
+1. Navigate to parameter P0010 = 30 (upload parameters to memory card).
+2. Set P0802 = 1 to start upload.
+3. The BOP-2 will display a progress indicator. When complete, P0010 returns to 0.
+4. To restore: Set P0010 = 30, P0803 = 1.
 
-**Q: Why does my G120 fault only when stopping?**
+This method is useful for cloning parameters to a replacement CU in the field without a PC.
 
-A: That usually means regenerative energy is pushing the DC bus voltage too high. Increase decel time or add a braking resistor if the application needs fast stops.
+---
 
-**Q: Can I reset a G120 fault and keep running if it only happens once in a while?**
+## Replacement Parts
 
-A: You can reset it, but you should still investigate. Random trips often mean loose wiring, marginal insulation, or unstable power. Those problems usually get worse, not better.
+| Part | Use Case | Link |
+|------|----------|------|
+| Siemens BOP-2 Operator Panel | Replacement keypad / local control | [View on Amazon](https://www.amazon.com/s?k=Siemens+BOP-2+operator+panel&tag=errorcodefixes-20) |
+| SINAMICS G120 PM240-2 Power Module | Power module replacement (various kW ratings) | [View on Amazon](https://www.amazon.com/s?k=Siemens+SINAMICS+G120+power+module&tag=errorcodefixes-20) |
+| USB Programming Cable (Type B) | Startdrive commissioning connection | [View on Amazon](https://www.amazon.com/s?k=USB+type+B+programming+cable+industrial&tag=errorcodefixes-20) |
+| Megohmmeter / Insulation Tester | Motor insulation resistance check (F0001 diagnosis) | [View on Amazon](https://www.amazon.com/s?k=megohmmeter+insulation+tester+500v&tag=errorcodefixes-20) |
+| Braking Resistor (400V, appropriate ohm/watt for drive size) | F0002 overvoltage on deceleration fix | [View on Amazon](https://www.amazon.com/s?k=VFD+braking+resistor+400v&tag=errorcodefixes-20) |
+| Fluke 87V Industrial Multimeter | Terminal voltage and continuity checks | [View on Amazon](https://www.amazon.com/s?k=Fluke+87V+multimeter&tag=errorcodefixes-20) |
+| PTC Thermistor (Motor Protection) | Motor overtemperature protection (F0011) | [View on Amazon](https://www.amazon.com/s?k=PTC+thermistor+motor+protection&tag=errorcodefixes-20) |
 
-**Q: Do I always need motor identification on a Siemens G120?**
+---
 
-A: Not always, but it is highly recommended for better current control and torque performance. For demanding loads, skipping motor ID often creates nuisance faults later.
+## Frequently Asked Questions
 
-**Q: What is the difference between an alarm and a fault on the G120?**
+**What is the difference between a fault and an alarm on the G120?**  
+Faults (F-codes) cause the drive to trip and stop the motor — they require acknowledgment before the drive can restart. Alarms (A-codes) are warnings that indicate an approaching limit or abnormal condition but do not stop the drive. Monitor alarms seriously: an A0503 (Motor Overtemperature Warning), for example, will become an F0011 fault trip if not addressed.
 
-A: An alarm warns you that the drive is close to a limit or sees an issue. A fault stops operation and requires reset after the root cause is addressed.
+**How do I acknowledge a G120 fault without a PC?**  
+Using the BOP-2 keypad: after correcting the fault cause, press **FN** then **OK** to acknowledge. You can also acknowledge via a digital input configured for fault acknowledgment (P0700 = 2, P0701–P0706 = 9 for ACK). Via fieldbus, set control word bit 7 (RESET) from 0 to 1 to acknowledge.
+
+**My G120 shows F0105 every time I power up. What's wrong?**  
+F0105 (CU-PM communication fault) on every power-up almost always means the Control Unit is not fully seated on the Power Module backplane connector. Power down completely, remove the CU, inspect the backplane connector for bent pins, then reseat firmly until you feel/hear it click. Also check that you're not mixing incompatible CU/PM generations.
+
+**Can I use Startdrive without TIA Portal?**  
+No — Startdrive is a TIA Portal add-in and requires TIA Portal V14 or later to run. Siemens offers a trial version of TIA Portal for commissioning use. Alternatively, the STARTER tool (older, standalone) supports G120 commissioning but is no longer the recommended path for new installations.
+
+**How do I clone parameters from one G120 to another in the field?**  
+The fastest field method is using the BOP-2 memory card upload/download (P0802/P0803 procedure described above — available on CU240E-2 and CU250S-2 with a memory card installed). For large fleets, use Startdrive's project export/import workflow and download the same parameter set to multiple drives. Verify motor-specific parameters (nameplate data) are correct for each individual motor after cloning.
+
+**What causes F0002 overvoltage on a G120 with a pump application?**  
+Pumps with significant static head can act as generators when decelerating — the motor receives energy from the fluid column rather than absorbing drive energy. The DC bus charges up faster than the drive's internal snubber can handle. The fix is usually extending the deceleration ramp (P1121) to allow the motor to decelerate slowly enough that regenerated energy stays within the DC bus absorption capacity. If the process requires faster stopping, a braking chopper and braking resistor are required.
