@@ -42,3 +42,11 @@ E1-01 on a Samsung mini-split (Wind-Free, AR series, and multi-zone systems) ind
 ## When to Call a Pro
 
 If sensor and wiring check out but E1-01 persists, the outdoor control board's sensor input circuit may need component-level repair or board replacement. A Samsung-authorized technician can access fault logs and confirm the board diagnosis.
+
+## Related Articles
+
+- [Bosch Heat Pump E1 Error Code — Causes & Fix](/posts/bosch-heat-pump-e1-error-code/)
+- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
+- [Carrier Heat Pump E1 Error Code — Causes & Fix](/posts/carrier-heat-pump-e1-error-code/)
+- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
+- [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)

@@ -43,3 +43,11 @@ Weil-McLain E04 indicates a **temperature sensor fault** — one of the boiler's
 ## When to Call a Pro
 
 If sensor replacement doesn't clear E04, the boiler control board may have a failed input. Weil-McLain control board replacement on condensing boilers requires proper setup and parameter configuration — have a licensed heating contractor handle board replacement to ensure the boiler is commissioned correctly.
+
+## Related Articles
+
+- [American Water Heater Error Codes — Complete Guide](/posts/american-water-heater-error-codes/)
+- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
+- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
+- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
+- [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)

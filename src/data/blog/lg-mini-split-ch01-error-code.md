@@ -42,3 +42,11 @@ LG error code CH01 (also displayed as "C1" or "CH 01") means the indoor unit roo
 ## When to Call a Pro
 
 If you've replaced the sensor and the fault persists, the PCB input circuit is suspect. LG service tools can read live thermistor values directly; an authorized LG tech can confirm board vs. sensor without guesswork.
+
+## Related Articles
+
+- [Bosch Heat Pump E1 Error Code — Causes & Fix](/posts/bosch-heat-pump-e1-error-code/)
+- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
+- [Carrier Heat Pump E1 Error Code — Causes & Fix](/posts/carrier-heat-pump-e1-error-code/)
+- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
+- [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)

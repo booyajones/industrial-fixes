@@ -87,3 +87,11 @@ LG mini-splits allow 3 high-pressure trips before hard lockout:
 | High-pressure switch | [Amazon](https://www.amazon.com/s?k=High-pressure+switch&tag=errorcodefixes-20) \| LG part — match trip pressure (590 psig for R-410A) |
 | Condenser coil | [Amazon](https://www.amazon.com/s?k=Condenser+coil&tag=errorcodefixes-20) \| Extensive fin damage — clean before condemning |
 > **Pro tip:** In areas with heavy cottonwood or pollen, schedule annual coil cleaning in spring before cooling season. A clean coil prevents most CH21 faults without any refrigerant work.
+
+## Related Articles
+
+- [Bosch Heat Pump E1 Error Code — Causes & Fix](/posts/bosch-heat-pump-e1-error-code/)
+- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
+- [Carrier Heat Pump E1 Error Code — Causes & Fix](/posts/carrier-heat-pump-e1-error-code/)
+- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
+- [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)

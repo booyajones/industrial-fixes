@@ -43,3 +43,11 @@ A **Flame Fail** lockout on a Lochinvar boiler (Knight, CREST, WHN, or commercia
 ## When to Call a Pro
 
 If the boiler sparks, gas is confirmed at the burner, and flame fail persists, the combustion controls may need adjustment — air-to-fuel ratio, gas valve pressure, or blower prover switch — which requires a licensed gas fitter or boiler technician.
+
+## Related Articles
+
+- [American Water Heater Error Codes — Complete Guide](/posts/american-water-heater-error-codes/)
+- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
+- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
+- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
+- [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)

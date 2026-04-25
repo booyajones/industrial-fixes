@@ -42,3 +42,11 @@ Noritz **error code 90** indicates a **combustion abnormality**, usually tied to
 ## When to Call a Pro
 
 Code 90 involves combustion safety. If venting is clear and the unit still trips, have a licensed tankless water heater technician check gas pressure and run a combustion analysis before further operation.
+
+## Related Articles
+
+- [American Water Heater Error Codes — Complete Guide](/posts/american-water-heater-error-codes/)
+- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
+- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
+- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
+- [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)

@@ -87,3 +87,11 @@ After replacing the sensor:
 4. Verify by running a cooling cycle and monitoring outdoor coil temperature via the service menu (if available)
 
 > **Pro tip:** Samsung mini-split sensor resistance tables are included in the installation manual. Download the manual for your model from the Samsung HVAC partner portal — it lists resistance at multiple temperatures for accurate field diagnosis.
+
+## Related Articles
+
+- [Bosch Heat Pump E1 Error Code — Causes & Fix](/posts/bosch-heat-pump-e1-error-code/)
+- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
+- [Carrier Heat Pump E1 Error Code — Causes & Fix](/posts/carrier-heat-pump-e1-error-code/)
+- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
+- [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)

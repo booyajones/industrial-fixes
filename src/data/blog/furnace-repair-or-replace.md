@@ -134,3 +134,11 @@ For igniter replacement walkthrough, see: [Best Furnace Igniter Replacement Guid
 If repair math points toward replacement, get at least two quotes from licensed contractors before committing. A second opinion on a $5,000 decision takes one phone call and can save $500–$1,500.
 
 Typical quote timeline: most contractors can provide a same-day or next-day written quote for a standard single-family home installation.
+
+## Related Articles
+
+- [AirEase Furnace E1 Error Code — Causes & Fix](/posts/airease-furnace-e1-error-code/)
+- [Amana Furnace 3 Flash Error Code — Causes & Fix](/posts/amana-furnace-3-flash-error-code/)
+- [American Standard Furnace 3 Flash Error Code — Causes & Fix](/posts/american-standard-furnace-3-flash/)
+- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
+- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)

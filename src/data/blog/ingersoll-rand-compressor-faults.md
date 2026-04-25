@@ -48,3 +48,11 @@ If sump pressure drops too low, the compressor may not maintain lubrication or s
 | Cooling fan contactor | [Amazon](https://www.amazon.com/s?k=Cooling+fan+contactor&tag=errorcodefixes-20) \| Check on overheat faults |
 ## When to Call a Pro
 If a Nirvana or other VSD compressor faults repeatedly, get an IR tech or qualified compressor specialist involved. Misdiagnosing a drive-related trip wastes a lot of time and money.
+
+## Related Articles
+
+- [Air Compressor Fault Codes: Complete Guide](/posts/air-compressor-fault-codes/)
+- [Atlas Copco Air Compressor Fault Codes — Complete Guide](/posts/atlas-copco-compressor-fault-codes/)
+- [BOGE Air Compressor Error Codes - Complete Guide](/posts/boge-compressor-error-codes/)
+- [Chicago Pneumatic Compressor Fault Codes — Complete Guide](/posts/chicago-pneumatic-compressor-faults/)
+- [CompAir Air Compressor Fault Codes - Complete Guide](/posts/compair-compressor-fault-codes/)

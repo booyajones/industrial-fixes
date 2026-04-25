@@ -54,3 +54,11 @@ Check oil level and the oil filter condition. A clogged filter on a cold start w
 
 ## When to Call a Pro
 Repeated temperature or pressure faults after routine service indicate airend wear or cooling system failure that requires a qualified compressor technician.
+
+## Related Articles
+
+- [Air Compressor Fault Codes: Complete Guide](/posts/air-compressor-fault-codes/)
+- [Atlas Copco Air Compressor Fault Codes — Complete Guide](/posts/atlas-copco-compressor-fault-codes/)
+- [BOGE Air Compressor Error Codes - Complete Guide](/posts/boge-compressor-error-codes/)
+- [Chicago Pneumatic Compressor Fault Codes — Complete Guide](/posts/chicago-pneumatic-compressor-faults/)
+- [CompAir Air Compressor Fault Codes - Complete Guide](/posts/compair-compressor-fault-codes/)

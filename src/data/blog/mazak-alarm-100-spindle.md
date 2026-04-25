@@ -45,3 +45,11 @@ Alarm 100 on a Mazak CNC (Mazatrol T-, M-, or Fusion series) indicates a spindle
 ## When to Call a Pro
 
 Spindle drive replacement, spindle motor testing, and encoder calibration require specialized equipment and Mazak machine knowledge. Contact a Mazak Factory Service Representative or authorized service center for hardware faults that do not resolve with cooling and power cycling.
+
+## Related Articles
+
+- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
+- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
+- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
+- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
+- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)

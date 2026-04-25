@@ -42,3 +42,11 @@ Mazak alarm 400 is a servo error indicating a fault in the axis servo drive or s
 ## When to Call a Pro
 
 Mazak alarm 400 with a servo drive sub-fault of AL.16 (encoder error) or AL.24 (amplifier hardware fault) typically requires the servo amplifier to be replaced and potentially returned to Mitsubishi or a repair depot. Contact Mazak service for drives under warranty.
+
+## Related Articles
+
+- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
+- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
+- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
+- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
+- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)

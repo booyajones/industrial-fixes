@@ -41,3 +41,11 @@ The E3 error on Follett ice and water dispensers indicates an ice level sensor f
 ## When to Call a Pro
 
 If sensor replacement doesn't clear E3, the control board's sensor input circuit may have failed. A Follett-certified technician handles board-level repair.
+
+## Related Articles
+
+- [Follett Ice Machine Error Code E1 — Causes & Fix](/posts/follett-ice-machine-error-code-e1/)
+- [Follett Ice Machine Error Code E2 — Causes & Fix](/posts/follett-ice-machine-error-code-e2/)
+- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)
+- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)
+- [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)

@@ -47,3 +47,11 @@ The Burnham Alpine is a high-efficiency modulating condensing boiler using the I
 ## When to Call a Pro
 
 Alpine boilers operate at high efficiency by modulating gas input, and incorrect setup of gas pressure, combustion analysis (CO/CO2), or control parameters can cause safety hazards. For persistent E01/E02 faults or any combustion analysis work, call a licensed technician with Alpine experience.
+
+## Related Articles
+
+- [Boiler Lockout Error Codes: All Brands Guide](/posts/boiler-lockout-error-codes/)
+- [Buderus Boiler Fault Code A1 — Causes & Fix](/posts/buderus-boiler-fault-code-a1/)
+- [Burnham Boiler E1 Lockout Code Fix](/posts/burnham-boiler-e1-lockout-code/)
+- [Burnham Boiler E2 Error Code — Causes & Fix](/posts/burnham-boiler-e2-error-code/)
+- [Burnham Boiler E3 Error Code — Causes & Fix](/posts/burnham-boiler-e3-error-code/)

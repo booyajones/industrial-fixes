@@ -44,3 +44,11 @@ F1 on a Midea mini split indicates a fault with the indoor ambient temperature s
 ## When to Call a Pro
 
 If the replacement thermistor does not clear the F1 fault and the wiring harness is intact, the control board input circuit is likely failed. Board replacement is straightforward but should be confirmed by a technician to avoid ordering the wrong part.
+
+## Related Articles
+
+- [Bosch Heat Pump E1 Error Code — Causes & Fix](/posts/bosch-heat-pump-e1-error-code/)
+- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
+- [Carrier Heat Pump E1 Error Code — Causes & Fix](/posts/carrier-heat-pump-e1-error-code/)
+- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
+- [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)

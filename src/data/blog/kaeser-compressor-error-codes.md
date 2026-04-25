@@ -48,3 +48,11 @@ If the package has an integrated refrigerated dryer, the dryer can trip independ
 | Dryer condenser fan / contactor | [Amazon](https://www.amazon.com/s?k=Dryer+condenser+fan+%2F+contactor&tag=errorcodefixes-20) \| On integrated dryer faults |
 ## When to Call a Pro
 Kaeser Sigma Control diagnostics are much easier with factory documentation and service access. If alarms persist after PM work, involve a Kaeser-trained compressor tech before the airend is damaged.
+
+## Related Articles
+
+- [Air Compressor Fault Codes: Complete Guide](/posts/air-compressor-fault-codes/)
+- [Atlas Copco Air Compressor Fault Codes — Complete Guide](/posts/atlas-copco-compressor-fault-codes/)
+- [BOGE Air Compressor Error Codes - Complete Guide](/posts/boge-compressor-error-codes/)
+- [Chicago Pneumatic Compressor Fault Codes — Complete Guide](/posts/chicago-pneumatic-compressor-faults/)
+- [CompAir Air Compressor Fault Codes - Complete Guide](/posts/compair-compressor-fault-codes/)

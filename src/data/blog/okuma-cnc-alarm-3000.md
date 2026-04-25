@@ -45,3 +45,11 @@ Okuma alarm **3000** is a **main CPU or control system fault**. It points to a p
 | CPU or memory board | [Amazon](https://www.amazon.com/s?k=CPU+or+memory+board&tag=errorcodefixes-20) \| Usually requires OEM support |
 ## When to Call a Pro
 Alarm 3000 often requires Okuma service or a qualified CNC electronics specialist. Do not shotgun-replace boards without verifying the power supply first. A bad power supply can damage replacement boards too.
+
+## Related Articles
+
+- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
+- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
+- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
+- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
+- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)

@@ -42,3 +42,11 @@ Follett error code E2 indicates a water inlet fault. The machine commanded a fil
 ## When to Call a Pro
 
 If the machine still faults on E2 with good supply pressure and a clean valve, the board may be losing the level signal or the reservoir geometry may be scaled badly enough to affect sensor action. A commercial ice tech can diagnose the control inputs safely.
+
+## Related Articles
+
+- [Follett Ice Machine Error Code E1 — Causes & Fix](/posts/follett-ice-machine-error-code-e1/)
+- [Follett Ice Machine Error Code E3 — Causes & Fix](/posts/follett-ice-machine-error-code-e3/)
+- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)
+- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)
+- [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)

@@ -63,3 +63,11 @@ Rollout switch trips, repeated ignition lockouts, or a furnace that smells like 
 ## When to Call a Pro
 
 If the flashing red light points to rollout, repeated ignition failure, or gas-related faults, stop there and call an HVAC tech. Safety-device trips are one area where guessing can turn into a carbon monoxide or gas hazard fast.
+
+## Related Articles
+
+- [AirEase Furnace E1 Error Code — Causes & Fix](/posts/airease-furnace-e1-error-code/)
+- [Amana Furnace 3 Flash Error Code — Causes & Fix](/posts/amana-furnace-3-flash-error-code/)
+- [American Standard Furnace 3 Flash Error Code — Causes & Fix](/posts/american-standard-furnace-3-flash/)
+- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
+- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)

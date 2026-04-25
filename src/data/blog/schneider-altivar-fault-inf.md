@@ -44,3 +44,11 @@ INF on a Schneider Electric Altivar drive (ATV312, ATV320, ATV630, ATV930 series
 ## When to Call a Pro
 
 INF is rarely field-repairable beyond a factory reset. If power cycling and parameter initialization do not clear the fault, contact a Schneider Electric-authorized drive service center for control card replacement and firmware verification.
+
+## Related Articles
+
+- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
+- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
+- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
+- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
+- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

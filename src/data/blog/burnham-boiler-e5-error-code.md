@@ -45,3 +45,11 @@ E5 on a Burnham boiler indicates a sensor fault. Depending on the specific Burnh
 ## When to Call a Pro
 
 If the replacement sensor does not clear E5 and the wiring is confirmed intact, the control board likely has a failed input. A Burnham-authorized service technician can perform a full board-level diagnostic and confirm correct replacement parts.
+
+## Related Articles
+
+- [American Water Heater Error Codes — Complete Guide](/posts/american-water-heater-error-codes/)
+- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
+- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
+- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
+- [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)

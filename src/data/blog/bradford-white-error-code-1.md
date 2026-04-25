@@ -145,3 +145,11 @@ Call a licensed plumber or water heater technician if:
 - **Error code 2** — Thermopile voltage low (thermocouple circuit under voltage but pilot flame present)
 - **Error code 4** — Ignition failure (electronic ignition models)
 - **Error code 7** — [Bradford White error code 7 fix guide](/bradford-white-error-code-7)
+
+## Related Articles
+
+- [American Water Heater Error Codes — Complete Guide](/posts/american-water-heater-error-codes/)
+- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
+- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
+- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
+- [Bradford White Error Code 7 — Pilot Out](/posts/bradford-white-error-code-7/)

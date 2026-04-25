@@ -66,3 +66,11 @@ The Ice-O-Matic GEM-0305 is a GEMU (Elevation) series cube ice machine producing
 ## When to Call a Pro
 
 Ice-O-Matic service training is available through their authorized service network and is recommended for harvest gate mechanism repairs. Refrigerant service on GEM series machines requires EPA 608 certification. The ice machine should be on a quarterly cleaning schedule — improper or infrequent cleaning is the root cause of most GEM-0305 service calls.
+
+## Related Articles
+
+- [Follett Ice Machine Error Code E1 — Causes & Fix](/posts/follett-ice-machine-error-code-e1/)
+- [Follett Ice Machine Error Code E2 — Causes & Fix](/posts/follett-ice-machine-error-code-e2/)
+- [Follett Ice Machine Error Code E3 — Causes & Fix](/posts/follett-ice-machine-error-code-e3/)
+- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)
+- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)

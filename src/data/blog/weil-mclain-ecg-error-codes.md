@@ -70,3 +70,11 @@ The Weil-McLain ECG (ECG-Series) is a cast-iron gas boiler designed for hydronic
 ## When to Call a Pro
 
 Gas boiler work involves gas combustion, high-temperature/pressure systems, and often asbestos insulation on older installations. If you smell gas, see carbon deposits on the burner, or the LWCO has tripped on a steam boiler, stop operating the unit and call a licensed heating contractor immediately.
+
+## Related Articles
+
+- [American Water Heater Error Codes — Complete Guide](/posts/american-water-heater-error-codes/)
+- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
+- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
+- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
+- [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)

@@ -45,3 +45,11 @@ E1 on a Gree mini split indicates high pressure protection. The system detected 
 ## When to Call a Pro
 
 Refrigerant diagnosis, system charging, and high-pressure switch replacement require EPA Section 608 certification and manifold gauge equipment. Call a licensed HVAC technician if coil cleaning and fan motor checks do not resolve the E1 fault.
+
+## Related Articles
+
+- [Bosch Heat Pump E1 Error Code — Causes & Fix](/posts/bosch-heat-pump-e1-error-code/)
+- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
+- [Carrier Heat Pump E1 Error Code — Causes & Fix](/posts/carrier-heat-pump-e1-error-code/)
+- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
+- [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)

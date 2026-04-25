@@ -43,3 +43,11 @@ E4 on an ICP furnace (International Comfort Products — the parent platform for
 ## When to Call a Pro
 
 A tripped rollout switch indicates flames are escaping the burner box — potentially caused by a cracked heat exchanger or blocked flue. Do not operate the furnace after a rollout trip until a licensed technician inspects the heat exchanger and venting for safety.
+
+## Related Articles
+
+- [AirEase Furnace E1 Error Code — Causes & Fix](/posts/airease-furnace-e1-error-code/)
+- [Amana Furnace 3 Flash Error Code — Causes & Fix](/posts/amana-furnace-3-flash-error-code/)
+- [American Standard Furnace 3 Flash Error Code — Causes & Fix](/posts/american-standard-furnace-3-flash/)
+- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
+- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)

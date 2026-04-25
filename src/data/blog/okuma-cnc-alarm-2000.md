@@ -47,3 +47,11 @@ tags:
 ## When to Call a Pro
 
 If Alarm 2000 is intermittent and tied to heat, vibration, or startup, the problem is often deeper than a single board. An Okuma specialist can isolate the failing module faster than trial and error.
+
+## Related Articles
+
+- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
+- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
+- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
+- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
+- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)

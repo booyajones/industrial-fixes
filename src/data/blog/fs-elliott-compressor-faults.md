@@ -55,3 +55,11 @@ Centrifugal compressors rely on pressurized lube oil for bearings. Check the oil
 
 ## When to Call a Pro
 Surge events that repeat, bearing temperature alarms, and vibration faults all require immediate engineering review. Centrifugal compressors run at very high speeds and damage propagates quickly.
+
+## Related Articles
+
+- [Air Compressor Fault Codes: Complete Guide](/posts/air-compressor-fault-codes/)
+- [Atlas Copco Air Compressor Fault Codes — Complete Guide](/posts/atlas-copco-compressor-fault-codes/)
+- [BOGE Air Compressor Error Codes - Complete Guide](/posts/boge-compressor-error-codes/)
+- [Chicago Pneumatic Compressor Fault Codes — Complete Guide](/posts/chicago-pneumatic-compressor-faults/)
+- [CompAir Air Compressor Fault Codes - Complete Guide](/posts/compair-compressor-fault-codes/)

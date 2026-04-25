@@ -43,3 +43,11 @@ Follett error code E1 means ice-making fault — the control board has detected 
 ## When to Call a Pro
 
 Auger removal and bearing replacement inside the evaporator cylinder requires proper tools and refrigeration system recovery if refrigerant needs to be removed. An EPA 608-certified Follett service technician should handle any work inside the refrigerated section.
+
+## Related Articles
+
+- [Follett Ice Machine Error Code E2 — Causes & Fix](/posts/follett-ice-machine-error-code-e2/)
+- [Follett Ice Machine Error Code E3 — Causes & Fix](/posts/follett-ice-machine-error-code-e3/)
+- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)
+- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)
+- [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)

@@ -55,3 +55,10 @@ Check current draw on all three phases with a clamp meter. Unbalanced loading, i
 ## When to Call a Pro
 If the compressor shuts down on high temperature after cooler cleaning and oil service, suspect airend discharge valve or screw wear. CompAir airend rebuilds require factory tooling and specifications.
 
+## Related Articles
+
+- [Air Compressor Fault Codes: Complete Guide](/posts/air-compressor-fault-codes/)
+- [Atlas Copco Air Compressor Fault Codes — Complete Guide](/posts/atlas-copco-compressor-fault-codes/)
+- [BOGE Air Compressor Error Codes - Complete Guide](/posts/boge-compressor-error-codes/)
+- [Chicago Pneumatic Compressor Fault Codes — Complete Guide](/posts/chicago-pneumatic-compressor-faults/)
+- [Copeland Compressor Error Code 1 — High Pressure Cutout Fix](/posts/copeland-compressor-error-code-1/)

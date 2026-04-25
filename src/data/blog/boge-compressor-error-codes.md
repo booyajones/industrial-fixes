@@ -52,3 +52,10 @@ The separator element is a scheduled service part - typically 3,000–4,000 hour
 ## When to Call a Pro
 BOGE compressors require factory-specific oil types and torque specs on separator housing reassembly. If repeated temperature shutdowns occur after service, contact a BOGE authorized service provider.
 
+## Related Articles
+
+- [Air Compressor Fault Codes: Complete Guide](/posts/air-compressor-fault-codes/)
+- [Atlas Copco Air Compressor Fault Codes — Complete Guide](/posts/atlas-copco-compressor-fault-codes/)
+- [Chicago Pneumatic Compressor Fault Codes — Complete Guide](/posts/chicago-pneumatic-compressor-faults/)
+- [CompAir Air Compressor Fault Codes - Complete Guide](/posts/compair-compressor-fault-codes/)
+- [Copeland Compressor Error Code 1 — High Pressure Cutout Fix](/posts/copeland-compressor-error-code-1/)

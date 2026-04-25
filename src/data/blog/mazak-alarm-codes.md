@@ -67,3 +67,11 @@ The tool changer failed mid-cycle. Check: (1) the ATC arm sensors (proximity swi
 | Servo drive | [Amazon](https://www.amazon.com/s?k=Servo+drive&tag=errorcodefixes-20) \| Mitsubishi MDS-B or MDS-C series, machine-specific |
 ## When to Call a Pro
 Alarm 500 that persists after restart (Mazatrol PC failure) and ATC mechanical crashes that leave tools stuck in the arm require Mazak factory service or a Mazak-authorized technician. Running a machine with an unresolved servo position error risks further mechanical damage.
+
+## Related Articles
+
+- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
+- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
+- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
+- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
+- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)

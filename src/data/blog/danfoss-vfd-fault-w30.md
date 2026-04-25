@@ -53,3 +53,11 @@ Improve ventilation at the resistor location: mount the resistor where airflow c
 ## When to Call a Technician
 
 Braking resistor sizing for demanding applications (cranes, centrifuges, winding machines) requires detailed load inertia and cycle analysis. An incorrectly sized resistor is a fire hazard. Consult a Danfoss applications engineer or qualified drive integrator for high-duty-cycle applications.
+
+## Related Articles
+
+- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
+- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
+- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
+- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
+- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

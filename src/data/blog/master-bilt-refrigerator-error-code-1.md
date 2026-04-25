@@ -42,3 +42,11 @@ Error Code 1 on Master-Bilt commercial refrigerators and freezers (reach-ins, gl
 ## When to Call a Pro
 
 If the condenser is clean, doors seal properly, and fans run correctly but the cabinet can't hold temperature, the sealed refrigeration system needs an EPA 608-certified technician.
+
+## Related Articles
+
+- [Beverage-Air Error Code E4, Causes, and Fixes](/posts/beverage-air-e4-error-code/)
+- [Beverage-Air MT27 Error Codes - What They Mean and How to Fix Them](/posts/beverage-air-mt27-error-codes/)
+- [Beverage-Air Refrigerator Error Code E1 — Causes & Fix](/posts/beverage-air-refrigerator-error-code-e1/)
+- [Beverage-Air Refrigerator Error Code E2 — Evaporator Sensor Causes & Fix](/posts/beverage-air-refrigerator-error-code-e2/)
+- [Bohn Refrigeration Error Code Guide — Causes & Fixes](/posts/bohn-refrigeration-error-codes/)

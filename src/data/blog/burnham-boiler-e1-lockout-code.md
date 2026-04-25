@@ -61,3 +61,11 @@ On Burnham boilers, lockout is a safety feature — repeated ignition failures c
 If you've checked the gas supply, cleaned the electrode and flame sensor, and confirmed 24V to the gas valve — call a licensed HVAC/boiler technician. Boiler combustion diagnosis requires CO testing, combustion analysis, and gas pressure measurement at the manifold. Working on a gas appliance without proper training and equipment carries serious risks including CO poisoning and fire. Tell the tech: "Burnham [model], E1 lockout. Gas supply is confirmed, electrode is clean, flame sensor tested good. I need manifold pressure and combustion analysis."
 
 > **Pro tip:** Burnham boilers store lockout history in some models — check the control display for a multi-fault history mode (hold the info or diagnostic button). If E1 has been occurring sporadically over days or weeks without you noticing, the fault history will show you how many lockouts occurred and roughly when. Intermittent lockouts that only happen during very cold weather often point to gas supply pressure droop during peak demand — a gas utility or regulator issue, not a boiler fault.
+
+## Related Articles
+
+- [American Water Heater Error Codes — Complete Guide](/posts/american-water-heater-error-codes/)
+- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
+- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
+- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
+- [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)

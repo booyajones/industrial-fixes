@@ -60,3 +60,11 @@ Mini split error codes vary wildly by brand, but the same themes repeat: communi
 ## When to Call a Pro
 
 Most mini splits require manufacturer-specific service mode access to diagnose fully. If the code suggests inverter, compressor, or refrigerant faults, use a qualified ductless technician with the correct brand documentation.
+
+## Related Articles
+
+- [Bosch Heat Pump E1 Error Code — Causes & Fix](/posts/bosch-heat-pump-e1-error-code/)
+- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
+- [Carrier Heat Pump E1 Error Code — Causes & Fix](/posts/carrier-heat-pump-e1-error-code/)
+- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
+- [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)

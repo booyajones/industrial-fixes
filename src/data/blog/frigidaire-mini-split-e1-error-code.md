@@ -45,3 +45,11 @@ On Frigidaire mini split systems, E1 indicates a communication error between the
 ## When to Call a Pro
 
 If communication wiring is intact and both boards have power but E1 persists, board replacement is straightforward but requires matching the exact model. If the system is under warranty, have a Frigidaire-authorized technician handle the repair to avoid voiding coverage.
+
+## Related Articles
+
+- [Bosch Heat Pump E1 Error Code — Causes & Fix](/posts/bosch-heat-pump-e1-error-code/)
+- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
+- [Carrier Heat Pump E1 Error Code — Causes & Fix](/posts/carrier-heat-pump-e1-error-code/)
+- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
+- [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)

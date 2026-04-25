@@ -43,3 +43,11 @@ Error code 12 on a Noritz tankless water heater indicates a flame failure — th
 ## When to Call a Pro
 
 Gas pressure testing and gas valve replacement require a licensed plumber or gas technician. If code 12 persists after cleaning the flame rod and igniter, have a Noritz-certified technician verify gas manifold pressure and gas valve operation.
+
+## Related Articles
+
+- [American Water Heater Error Codes — Complete Guide](/posts/american-water-heater-error-codes/)
+- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
+- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
+- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
+- [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)

@@ -47,3 +47,11 @@ Luxaire is a York-branded product line (both are owned by Johnson Controls/Bosch
 ## When to Call a Pro
 
 If E1 returns within one or two heat cycles after clearing, the root fault isn't fully resolved or there's a more complex issue (cracked heat exchanger, intermittent gas valve). A licensed HVAC technician can attach a service analyzer to the control board to read real-time fault data during the heating sequence, identifying the exact failure point without guessing.
+
+## Related Articles
+
+- [AirEase Furnace E1 Error Code — Causes & Fix](/posts/airease-furnace-e1-error-code/)
+- [Amana Furnace 3 Flash Error Code — Causes & Fix](/posts/amana-furnace-3-flash-error-code/)
+- [American Standard Furnace 3 Flash Error Code — Causes & Fix](/posts/american-standard-furnace-3-flash/)
+- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
+- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)

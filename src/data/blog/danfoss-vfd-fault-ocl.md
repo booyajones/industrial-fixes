@@ -42,3 +42,11 @@ Danfoss fault OCL (Overcurrent Limit) means the drive's output current reached t
 ## When to Call a Pro
 
 If OCL persists after correct motor data entry and appropriate ramp times, the application may require a detailed load analysis and a properly matched motor/drive combination — a job for a drives application engineer.
+
+## Related Articles
+
+- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
+- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
+- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
+- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
+- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

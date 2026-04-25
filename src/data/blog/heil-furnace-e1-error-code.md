@@ -43,3 +43,11 @@ E1 on a Heil furnace (part of the International Comfort Products / ICP family) i
 ## When to Call a Pro
 
 If the flue is clear, hose is intact, and the inducer runs at speed but the switch still won't close, have a licensed HVAC technician check heat exchanger integrity and verify pressure switch specifications against the unit's pressure requirements.
+
+## Related Articles
+
+- [AirEase Furnace E1 Error Code — Causes & Fix](/posts/airease-furnace-e1-error-code/)
+- [Amana Furnace 3 Flash Error Code — Causes & Fix](/posts/amana-furnace-3-flash-error-code/)
+- [American Standard Furnace 3 Flash Error Code — Causes & Fix](/posts/american-standard-furnace-3-flash/)
+- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
+- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)

@@ -89,3 +89,11 @@ PMC alarms on Doosan machines show as "PMC ALARM" followed by the alarm number. 
 
 ## When to Call a Pro
 Doosan Machine Tools America provides service support at 1-973-618-2500. Fanuc-specific alarms can also be diagnosed by Fanuc-authorized service providers.
+
+## Related Articles
+
+- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
+- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
+- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
+- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)

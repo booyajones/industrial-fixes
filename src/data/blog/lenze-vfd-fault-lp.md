@@ -42,3 +42,11 @@ Lenze fault **LP** (Phase Loss) indicates the drive detected a missing or severe
 ## When to Call a Pro
 
 If all three input phases measure correctly at the drive terminals but LP persists, the drive's rectifier or input phase loss detection circuit may have failed. Lenze rectifier replacement requires drive board disassembly — contact a Lenze service center or certified integrator.
+
+## Related Articles
+
+- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
+- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
+- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
+- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
+- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

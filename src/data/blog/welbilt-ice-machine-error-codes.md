@@ -66,3 +66,11 @@ Check supply shutoff is fully open, pressure is 20-80 PSI, and inlet valve scree
 ## When to Call a Pro
 
 E05/E06 refrigerant faults require EPA 608 certification. All Welbilt/Manitowoc refrigerant work requires a certified technician.
+
+## Related Articles
+
+- [Follett Ice Machine Error Code E1 — Causes & Fix](/posts/follett-ice-machine-error-code-e1/)
+- [Follett Ice Machine Error Code E2 — Causes & Fix](/posts/follett-ice-machine-error-code-e2/)
+- [Follett Ice Machine Error Code E3 — Causes & Fix](/posts/follett-ice-machine-error-code-e3/)
+- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)
+- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)

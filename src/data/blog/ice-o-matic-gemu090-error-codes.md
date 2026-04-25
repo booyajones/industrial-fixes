@@ -43,3 +43,11 @@ The Ice-O-Matic GEMU090 is an undercounter pearl ice machine. It uses electronic
 | Water filter | [Amazon](https://www.amazon.com/s?k=Water+filter&tag=errorcodefixes-20) \| Replace during service |
 ## When to Call a Pro
 Persistent high-temperature or auger-overload faults after cleaning usually point to motor wear or refrigeration issues. A pearl ice specialist is worth calling before the auger and evaporator are damaged.
+
+## Related Articles
+
+- [Follett Ice Machine Error Code E1 — Causes & Fix](/posts/follett-ice-machine-error-code-e1/)
+- [Follett Ice Machine Error Code E2 — Causes & Fix](/posts/follett-ice-machine-error-code-e2/)
+- [Follett Ice Machine Error Code E3 — Causes & Fix](/posts/follett-ice-machine-error-code-e3/)
+- [Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide](/posts/hoshizaki-c-101bah-error-codes/)
+- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)

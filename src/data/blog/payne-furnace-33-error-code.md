@@ -43,3 +43,11 @@ Code 33 on a Payne furnace means the limit device has opened and locked out the 
 ## When to Call a Pro
 
 If the limit trips repeatedly after cleaning the filter and confirming good airflow, have a technician inspect the heat exchanger for cracks. A cracked heat exchanger can allow combustion gases into the living space and is a carbon monoxide hazard.
+
+## Related Articles
+
+- [AirEase Furnace E1 Error Code — Causes & Fix](/posts/airease-furnace-e1-error-code/)
+- [Amana Furnace 3 Flash Error Code — Causes & Fix](/posts/amana-furnace-3-flash-error-code/)
+- [American Standard Furnace 3 Flash Error Code — Causes & Fix](/posts/american-standard-furnace-3-flash/)
+- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
+- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)

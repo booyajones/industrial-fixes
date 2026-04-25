@@ -44,3 +44,11 @@ E6 on a Pioneer mini split indicates a communication error between the indoor ai
 ## When to Call a Pro
 
 If both boards need replacement or the wiring runs through conduit inside a wall, an HVAC technician with mini-split experience can diagnose the communication circuit with a scope or Pioneer's diagnostic mode and replace boards safely.
+
+## Related Articles
+
+- [Bosch Heat Pump E1 Error Code — Causes & Fix](/posts/bosch-heat-pump-e1-error-code/)
+- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
+- [Carrier Heat Pump E1 Error Code — Causes & Fix](/posts/carrier-heat-pump-e1-error-code/)
+- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
+- [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)

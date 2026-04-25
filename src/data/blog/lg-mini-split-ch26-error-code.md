@@ -78,3 +78,11 @@ The CT (current transformer) sensor is a small toroidal coil that clamps around 
 4. CH26 clears automatically on a successful startup if the sensor reads correctly
 
 > **Note:** LG CH26 is sometimes confused with CH25 (compressor overcurrent). CH25 means the compressor actually drew too much current; CH26 means the measurement circuit itself has failed. The repair procedures are different — CH25 leads to the compressor, CH26 leads to the sensor.
+
+## Related Articles
+
+- [Bosch Heat Pump E1 Error Code — Causes & Fix](/posts/bosch-heat-pump-e1-error-code/)
+- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
+- [Carrier Heat Pump E1 Error Code — Causes & Fix](/posts/carrier-heat-pump-e1-error-code/)
+- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
+- [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)

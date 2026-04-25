@@ -55,3 +55,11 @@ Air temperature sensor fault. Test NTC resistance, replace if open or shorted.
 ## When to Call a Pro
 
 Alarms 3 and 4 require refrigerant circuit diagnosis by an EPA 608-certified technician.
+
+## Related Articles
+
+- [Beverage-Air Error Code E4, Causes, and Fixes](/posts/beverage-air-e4-error-code/)
+- [Beverage-Air MT27 Error Codes - What They Mean and How to Fix Them](/posts/beverage-air-mt27-error-codes/)
+- [Beverage-Air Refrigerator Error Code E1 — Causes & Fix](/posts/beverage-air-refrigerator-error-code-e1/)
+- [Beverage-Air Refrigerator Error Code E2 — Evaporator Sensor Causes & Fix](/posts/beverage-air-refrigerator-error-code-e2/)
+- [Continental Refrigerator Error Code E1 — Causes & Fix](/posts/continental-refrigerator-error-code-e1/)

@@ -48,3 +48,11 @@ On Bryant furnaces, error code 33 indicates a limit device fault — the high-li
 ## When to Call a Pro
 
 A tripped rollout switch is never a nuisance fault — it means flame exited the burner box, which only happens with a blocked flue or a cracked heat exchanger. Both are serious safety issues. Have a licensed HVAC technician perform a combustion analysis and heat exchanger inspection before restarting the furnace after a rollout event.
+
+## Related Articles
+
+- [AirEase Furnace E1 Error Code — Causes & Fix](/posts/airease-furnace-e1-error-code/)
+- [Amana Furnace 3 Flash Error Code — Causes & Fix](/posts/amana-furnace-3-flash-error-code/)
+- [American Standard Furnace 3 Flash Error Code — Causes & Fix](/posts/american-standard-furnace-3-flash/)
+- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
+- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)

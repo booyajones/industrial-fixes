@@ -44,3 +44,11 @@ E1 on an AirEase furnace indicates a system lockout — the furnace attempted th
 ## When to Call a Pro
 
 If the furnace re-locks within a day or two of clearing, or if gas pressure measurement or valve replacement is needed, contact a licensed technician. Persistent lockouts often indicate a failing heat exchanger or control board.
+
+## Related Articles
+
+- [Amana Furnace 3 Flash Error Code — Causes & Fix](/posts/amana-furnace-3-flash-error-code/)
+- [American Standard Furnace 3 Flash Error Code — Causes & Fix](/posts/american-standard-furnace-3-flash/)
+- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
+- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
+- [Armstrong Furnace E4 Error Code — Causes & Fix](/posts/armstrong-furnace-e4-error-code/)

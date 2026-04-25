@@ -45,3 +45,11 @@ E03 on a Weil-McLain boiler indicates ignition failure — specifically, the boi
 ## When to Call a Pro
 
 Gas supply issues, gas valve replacement, and combustion analysis require a licensed technician. Do not continue resetting a boiler that locks out repeatedly without identifying the root cause — accumulated gas is a serious hazard.
+
+## Related Articles
+
+- [American Water Heater Error Codes — Complete Guide](/posts/american-water-heater-error-codes/)
+- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
+- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
+- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
+- [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)

@@ -42,3 +42,11 @@ Fault code A1 on a Buderus Logamax or Logano boiler typically indicates a servic
 ## When to Call a Pro
 
 Buderus/Bosch-Thermotechnik equipment requires a registered technician for warranty work and for setting combustion parameters. If A1 is accompanied by combustion anomalies (sooting, flame color issues, CO alarm), do not attempt to reset — call a licensed heating engineer.
+
+## Related Articles
+
+- [Boiler Lockout Error Codes: All Brands Guide](/posts/boiler-lockout-error-codes/)
+- [Burnham Alpine Boiler Error Code Guide — Causes & Fix](/posts/burnham-alpine-error-codes/)
+- [Burnham Boiler E1 Lockout Code Fix](/posts/burnham-boiler-e1-lockout-code/)
+- [Burnham Boiler E2 Error Code — Causes & Fix](/posts/burnham-boiler-e2-error-code/)
+- [Burnham Boiler E3 Error Code — Causes & Fix](/posts/burnham-boiler-e3-error-code/)

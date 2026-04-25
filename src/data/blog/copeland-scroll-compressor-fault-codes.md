@@ -140,3 +140,11 @@ The Digital Scroll uses a modulation valve to vary capacity from 10–100%. Faul
 Refrigerant work on any Copeland Scroll application requires an EPA 608-certified technician — purchasing refrigerant and handling the refrigerant circuit is restricted to licensed professionals. Beyond the certification requirement, Copeland Scroll compressor diagnosis at the refrigerant circuit level (checking superheat, subcooling, pressures under load) requires a manifold gauge set, thermometers, and experience interpreting psychrometric data. Misdiagnosing a compressor fault can result in replacing a $2,000–$8,000 compressor when the actual problem was a $30 filter-drier or a metering device. Always run through the mechanical diagnostics before condemning the compressor itself.
 
 > **Pro tip:** Copeland Scroll compressors have a unique failure mode called "reverse rotation" — on three-phase models, if any two power leads are swapped, the scroll runs backward. A scroll running in reverse sounds like a gravel-filled drum and will fault immediately on high discharge temperature or noise. If a three-phase scroll makes unusual noise on startup after any electrical work, check phase rotation with a phase rotation meter (or swap two leads and see if the noise stops) before any further diagnosis.
+
+## Related Articles
+
+- [Air Compressor Fault Codes: Complete Guide](/posts/air-compressor-fault-codes/)
+- [Atlas Copco Air Compressor Fault Codes — Complete Guide](/posts/atlas-copco-compressor-fault-codes/)
+- [BOGE Air Compressor Error Codes - Complete Guide](/posts/boge-compressor-error-codes/)
+- [Chicago Pneumatic Compressor Fault Codes — Complete Guide](/posts/chicago-pneumatic-compressor-faults/)
+- [CompAir Air Compressor Fault Codes - Complete Guide](/posts/compair-compressor-fault-codes/)

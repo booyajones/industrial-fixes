@@ -45,3 +45,11 @@ E04 on a Lochinvar boiler indicates that the high-limit safety has tripped. The 
 ## When to Call a Pro
 
 If E04 persists after verifying flow and resetting, a Lochinvar-authorized technician should perform combustion and flow analysis. Scale buildup and heat exchanger damage must be evaluated by a professional with proper flushing equipment.
+
+## Related Articles
+
+- [American Water Heater Error Codes — Complete Guide](/posts/american-water-heater-error-codes/)
+- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
+- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
+- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
+- [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)

@@ -45,3 +45,11 @@ Code 1 on a Peerless boiler (displayed on the Peerless IQ control or equivalent 
 ## When to Call a Pro
 
 If Code 1 returns after resetting and cleaning the flame sensor, call a licensed HVAC/boiler technician. Gas valve diagnosis, combustion analysis, and draft pressure measurement require specialized equipment and should not be performed by unqualified personnel.
+
+## Related Articles
+
+- [Boiler Lockout Error Codes: All Brands Guide](/posts/boiler-lockout-error-codes/)
+- [Buderus Boiler Fault Code A1 — Causes & Fix](/posts/buderus-boiler-fault-code-a1/)
+- [Burnham Alpine Boiler Error Code Guide — Causes & Fix](/posts/burnham-alpine-error-codes/)
+- [Burnham Boiler E1 Lockout Code Fix](/posts/burnham-boiler-e1-lockout-code/)
+- [Burnham Boiler E2 Error Code — Causes & Fix](/posts/burnham-boiler-e2-error-code/)

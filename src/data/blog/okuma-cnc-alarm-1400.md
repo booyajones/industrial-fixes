@@ -45,3 +45,11 @@ Alarm 1400 on an Okuma CNC machine indicates an encoder error on a servo axis. T
 ## When to Call a Pro
 
 Okuma absolute encoder replacement and post-replacement calibration must be performed by an Okuma Factory Automation (OFA) certified technician. Incorrect calibration will result in positioning errors that can damage the machine or workpiece.
+
+## Related Articles
+
+- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
+- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
+- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
+- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
+- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)

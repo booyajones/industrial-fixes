@@ -42,3 +42,11 @@ Okuma alarm 2030 indicates a spindle drive fault — the spindle drive (inverter
 ## When to Call a Pro
 
 Okuma spindle drives contain proprietary electronics and use Okuma-specific communication protocols. Internal drive repairs and bearing replacements require an Okuma-certified technician to ensure proper alignment and parameter restoration.
+
+## Related Articles
+
+- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
+- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
+- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
+- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
+- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)

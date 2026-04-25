@@ -63,3 +63,11 @@ This code is one of the most searched Weil-McLain faults because it appears freq
 E01 related to the gas valve, burner control module, or persistent flame sensor issues that don't resolve after cleaning and replacement should be diagnosed by a licensed commercial HVAC technician with experience on hydronic systems. Working on commercial boilers involves high-voltage controls, live gas lines, and high-pressure hot water systems. In most states, commercial boiler service requires a licensed boiler technician or HVAC contractor. Additionally, if E01 occurs across multiple boilers in the same building simultaneously, the root cause is almost certainly a building-wide gas supply problem — that diagnosis starts at the gas meter, not at the boilers.
 
 > **Pro tip:** Before resetting E01 on a commercial boiler, write down the exact time and outdoor temperature. If E01 consistently appears at the same time of day or at a specific outdoor temperature, you have a strong clue: morning lockouts at the coldest part of the day usually point to a gas pressure problem (high demand across the building at startup), while random lockouts point to a failing flame sensor or igniter. The pattern is your best diagnostic tool.
+
+## Related Articles
+
+- [American Water Heater Error Codes — Complete Guide](/posts/american-water-heater-error-codes/)
+- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
+- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
+- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
+- [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)

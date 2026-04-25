@@ -43,3 +43,11 @@ The Samsung E3-01 error code indicates an **indoor fan motor fault** — the ind
 ## When to Call a Pro
 
 Samsung BLDC motor replacements in the indoor unit require disassembly of the indoor unit housing and careful refrigerant line awareness. If you're not comfortable with electronics disassembly, have a certified technician handle the motor swap to avoid damaging the coil or refrigerant lines.
+
+## Related Articles
+
+- [Bosch Heat Pump E1 Error Code — Causes & Fix](/posts/bosch-heat-pump-e1-error-code/)
+- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
+- [Carrier Heat Pump E1 Error Code — Causes & Fix](/posts/carrier-heat-pump-e1-error-code/)
+- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
+- [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)

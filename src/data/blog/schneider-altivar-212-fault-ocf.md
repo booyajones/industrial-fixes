@@ -44,3 +44,11 @@ OCF (Overcurrent) on a Schneider Altivar 212 drive means the output current has 
 ## When to Call a Pro
 
 If the Altivar 212 trips OCF with no motor connected, the drive's power electronics have failed. Drive-level repair requires component-level electronics expertise or a factory exchange unit. Call a Schneider Electric-authorized service center.
+
+## Related Articles
+
+- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
+- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
+- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
+- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
+- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

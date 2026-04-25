@@ -43,3 +43,11 @@ E1 on a Slant/Fin boiler (Galaxy, Eutectic, or Minuteman series) indicates an ig
 ## When to Call a Pro
 
 If E1 returns within days of cleaning the flame sensor, have a licensed plumber or HVAC technician measure gas inlet pressure and perform a combustion analysis. Low gas pressure and combustion air problems cause repeated ignition failures and are not safely addressed without proper instruments.
+
+## Related Articles
+
+- [Boiler Lockout Error Codes: All Brands Guide](/posts/boiler-lockout-error-codes/)
+- [Buderus Boiler Fault Code A1 — Causes & Fix](/posts/buderus-boiler-fault-code-a1/)
+- [Burnham Alpine Boiler Error Code Guide — Causes & Fix](/posts/burnham-alpine-error-codes/)
+- [Burnham Boiler E1 Lockout Code Fix](/posts/burnham-boiler-e1-lockout-code/)
+- [Burnham Boiler E2 Error Code — Causes & Fix](/posts/burnham-boiler-e2-error-code/)

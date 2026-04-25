@@ -84,3 +84,11 @@ Fix: disconnect, clean terminals with electronic contact cleaner, apply dielectr
 ## After Replacing the Sensor
 
 After installing a new sensor, clear the fault by cycling power to the boiler. The boiler should start a normal ignition sequence within 30 seconds. If E05 returns immediately after sensor replacement, the control board's sensor input circuit may have failed — but this is uncommon. More likely, the replacement sensor is also defective or installed incorrectly.
+
+## Related Articles
+
+- [American Water Heater Error Codes — Complete Guide](/posts/american-water-heater-error-codes/)
+- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
+- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
+- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
+- [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)

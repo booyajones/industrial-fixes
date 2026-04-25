@@ -43,3 +43,11 @@ The LG CH38 error code indicates an **outdoor inverter compressor fault** — th
 ## When to Call a Pro
 
 CH38 with a compressor or refrigerant root cause requires certified refrigerant handling and specialized inverter diagnostics. LG's inverter diagnostics require the LG LGMV service tool for full fault data. Contact an LG-authorized service provider if the basic checks above don't resolve the fault.
+
+## Related Articles
+
+- [Bosch Heat Pump E1 Error Code — Causes & Fix](/posts/bosch-heat-pump-e1-error-code/)
+- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
+- [Carrier Heat Pump E1 Error Code — Causes & Fix](/posts/carrier-heat-pump-e1-error-code/)
+- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
+- [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)

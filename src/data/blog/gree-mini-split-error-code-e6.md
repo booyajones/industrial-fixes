@@ -42,3 +42,11 @@ The Gree E6 error code indicates a **communication error between the indoor and 
 ## When to Call a Pro
 
 If all wiring checks out and power is confirmed at both units but E6 persists after a power-cycle, one of the PCBs has a failed communication circuit. Board replacement requires matching the exact Gree model and refrigerant series — use a Gree-authorized service technician to avoid compatibility issues.
+
+## Related Articles
+
+- [Bosch Heat Pump E1 Error Code — Causes & Fix](/posts/bosch-heat-pump-e1-error-code/)
+- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
+- [Carrier Heat Pump E1 Error Code — Causes & Fix](/posts/carrier-heat-pump-e1-error-code/)
+- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
+- [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)

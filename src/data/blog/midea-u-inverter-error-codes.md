@@ -65,3 +65,11 @@ The Midea U-Inverter is a window-mounted mini split with a unique U-shaped desig
 ## When to Call a Pro
 
 The Midea U-Inverter is a sealed refrigerant system — it is not designed for field recharging. If the unit has low refrigerant (indicated by E4, E9, or P2 that persists), contact Midea customer service (1-855-643-3248) for warranty replacement. DIY refrigerant access on a sealed window unit is not recommended.
+
+## Related Articles
+
+- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
+- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
+- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
+- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
+- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

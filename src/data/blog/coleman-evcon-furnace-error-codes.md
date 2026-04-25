@@ -62,3 +62,11 @@ Coleman and Evcon furnaces are produced by Johnson Controls (the same manufactur
 ## When to Call a Pro
 
 Coleman-Evcon furnaces from the 1990s and early 2000s are reaching the end of their service life. A cracked heat exchanger is a serious CO risk and cannot be field-repaired — a professional inspection with a combustion analyzer is warranted on any furnace over 15 years old that is tripping rollout or limit switches repeatedly. A licensed HVAC technician should assess whether repair or replacement is the better investment.
+
+## Related Articles
+
+- [AirEase Furnace E1 Error Code — Causes & Fix](/posts/airease-furnace-e1-error-code/)
+- [Amana Furnace 3 Flash Error Code — Causes & Fix](/posts/amana-furnace-3-flash-error-code/)
+- [American Standard Furnace 3 Flash Error Code — Causes & Fix](/posts/american-standard-furnace-3-flash/)
+- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
+- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)

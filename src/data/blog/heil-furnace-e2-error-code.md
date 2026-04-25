@@ -42,3 +42,11 @@ E2 on a Heil furnace indicates the pressure switch is stuck in the closed positi
 ## When to Call a Pro
 
 If the wiring harness shows signs of rodent damage or burn marks, or if replacing the pressure switch does not clear E2, call a technician — there may be a control board fault misinterpreting the circuit.
+
+## Related Articles
+
+- [AirEase Furnace E1 Error Code — Causes & Fix](/posts/airease-furnace-e1-error-code/)
+- [Amana Furnace 3 Flash Error Code — Causes & Fix](/posts/amana-furnace-3-flash-error-code/)
+- [American Standard Furnace 3 Flash Error Code — Causes & Fix](/posts/american-standard-furnace-3-flash/)
+- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
+- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)

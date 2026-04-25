@@ -60,3 +60,11 @@ Lochinvar Knight (WH/WB series), Crest (CH series), and SYNC (SNA series) boiler
 Gas valve replacement, gas line work, and combustion testing require a licensed HVAC/plumbing contractor in most jurisdictions. Lochinvar condensing boilers also require combustion analysis (CO2, O2, CO levels) after any repair that affects the combustion system — a proper combustion analysis requires a calibrated flue gas analyzer that most homeowners don't have. If E02 persists after flame sensor cleaning and igniter verification, the gas valve or control board is the likely culprit, and both require professional service. Do not continue to manually reset an E02 lockout and run the boiler — repeated failed ignition attempts dump raw gas into the combustion chamber, creating a hazard.
 
 > **Pro tip:** Lochinvar Knight boilers in hard water areas frequently experience E02 from condensate drain blockage more than from flame sensor or igniter issues. The condensate is slightly acidic, and calcium from hard water precipitates out as the condensate evaporates, gradually plugging the drain trap. Flushing the condensate trap with a cup of white vinegar every six months keeps it clear and eliminates this entire class of E02 faults.
+
+## Related Articles
+
+- [American Water Heater Error Codes — Complete Guide](/posts/american-water-heater-error-codes/)
+- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
+- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
+- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
+- [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)

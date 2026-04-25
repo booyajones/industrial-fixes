@@ -42,3 +42,11 @@ OCF (Overcurrent Fault) on a Schneider Altivar drive (ATV12, ATV320, ATV630, ATV
 ## When to Call a Pro
 
 If the drive itself trips OCF with no output connected, the internal IGBT or driver card has failed. Drive internal repair requires Schneider-authorized service or drive replacement. Always follow lockout/tagout procedures before testing output circuits.
+
+## Related Articles
+
+- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
+- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
+- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
+- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
+- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)

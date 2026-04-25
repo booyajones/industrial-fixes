@@ -63,3 +63,11 @@ One reset after a clear correction is fine. Five resets in a row without diagnos
 ## When to Call a Pro
 
 Repeated boiler lockouts, especially around gas, flame, venting, or overtemperature, are not DIY territory for most people. Boilers combine combustion, water pressure, and temperature safety in a small box, and that deserves respect.
+
+## Related Articles
+
+- [Buderus Boiler Fault Code A1 — Causes & Fix](/posts/buderus-boiler-fault-code-a1/)
+- [Burnham Alpine Boiler Error Code Guide — Causes & Fix](/posts/burnham-alpine-error-codes/)
+- [Burnham Boiler E1 Lockout Code Fix](/posts/burnham-boiler-e1-lockout-code/)
+- [Burnham Boiler E2 Error Code — Causes & Fix](/posts/burnham-boiler-e2-error-code/)
+- [Burnham Boiler E3 Error Code — Causes & Fix](/posts/burnham-boiler-e3-error-code/)

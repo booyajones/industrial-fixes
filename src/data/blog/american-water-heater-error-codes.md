@@ -109,3 +109,11 @@ Cost: $60–120 for OEM, $40–60 for aftermarket.
 ## Warranty Note
 
 American Water Heater products typically come with 6-year (basic) or 12-year (premium) tank warranties. If your unit is within warranty, contact AWH at 1-800-999-9515 before paying for parts — they may cover components or full replacement.
+
+## Related Articles
+
+- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
+- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
+- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
+- [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)
+- [Bradford White Error Code 7 — Pilot Out](/posts/bradford-white-error-code-7/)

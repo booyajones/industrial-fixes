@@ -43,3 +43,11 @@ A Coleman furnace flashing **4 blinks** on the LED status light indicates the **
 ## When to Call a Pro
 
 A cracked heat exchanger is a carbon monoxide risk. If 4 flashes returns repeatedly after correcting the filter and blower, have a licensed HVAC tech perform a heat exchanger inspection before running the furnace again.
+
+## Related Articles
+
+- [AirEase Furnace E1 Error Code — Causes & Fix](/posts/airease-furnace-e1-error-code/)
+- [Amana Furnace 3 Flash Error Code — Causes & Fix](/posts/amana-furnace-3-flash-error-code/)
+- [American Standard Furnace 3 Flash Error Code — Causes & Fix](/posts/american-standard-furnace-3-flash/)
+- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
+- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)

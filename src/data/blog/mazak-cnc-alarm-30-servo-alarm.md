@@ -60,3 +60,11 @@ Alarm 30 is a category alarm that can originate from any servo axis (X, Y, Z, B,
 Mazak CNC servo systems operate at high voltages (200–600VDC bus) and require Fanuc-certified or Mazak-certified service technicians for amplifier replacement and parameter verification. After any amplifier replacement on a Mazak, the servo parameters (gain, velocity loop gains, position loop gains) must be verified against the machine's parameter backup and may require tuning to prevent axis oscillation or following error alarms. Attempting to run a machine after servo amplifier replacement without parameter verification can cause axis runaway. Always keep a current parameter backup on a USB drive stored with the machine.
 
 > **Pro tip:** Mazak Alarm 30 caused by encoder cable failure often appears intermittently at first — the alarm triggers only during rapid traverse moves or when the machine is cold, then disappears after warm-up. The thermal expansion of a damaged cable connector slightly improves continuity as it warms. If your Alarm 30 clears on its own after 20–30 minutes of warm-up, pull and inspect the encoder cable connector for the affected axis immediately — you're a few weeks from a hard failure that stops the machine mid-cut.
+
+## Related Articles
+
+- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
+- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
+- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
+- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
+- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)

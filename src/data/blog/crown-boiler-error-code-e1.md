@@ -89,3 +89,11 @@ Crown condensing boilers won't attempt ignition if the condensate drain is flood
 ## Crown vs. Weil-McLain vs. Burnham E1
 
 Most residential condensing boiler brands use E1 for ignition lockout — it's an industry convention. The diagnosis steps are nearly identical across brands. The key difference is the reset location and service menu interface.
+
+## Related Articles
+
+- [Boiler Lockout Error Codes: All Brands Guide](/posts/boiler-lockout-error-codes/)
+- [Buderus Boiler Fault Code A1 — Causes & Fix](/posts/buderus-boiler-fault-code-a1/)
+- [Burnham Alpine Boiler Error Code Guide — Causes & Fix](/posts/burnham-alpine-error-codes/)
+- [Burnham Boiler E1 Lockout Code Fix](/posts/burnham-boiler-e1-lockout-code/)
+- [Burnham Boiler E2 Error Code — Causes & Fix](/posts/burnham-boiler-e2-error-code/)

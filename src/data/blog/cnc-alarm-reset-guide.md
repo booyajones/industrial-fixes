@@ -63,3 +63,11 @@ A spindle alarm during warm-up means something different than the same alarm dur
 ## When to Call a Pro
 
 A clean reset is not proof of a healthy machine. If the alarm was tied to a crash, rising axis load, or support-system warning, the best move is to stop early and inspect before the machine makes the decision for you.
+
+## Related Articles
+
+- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
+- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
+- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
+- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+- [Fanuc Alarm 1 Overtravel — Causes & Fix](/posts/fanuc-alarm-1-overtravel/)

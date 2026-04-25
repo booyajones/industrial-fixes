@@ -43,3 +43,11 @@ Mazak Alarm 200 is a **spindle speed error** — the spindle did not reach or ma
 ## When to Call a Pro
 
 Spindle belt replacement on vertical machining centers requires removing the spindle head cover and adjusting belt tension precisely. Incorrect tension causes premature belt failure or bearing wear. Have a Mazak-trained technician perform spindle drive work if you're not experienced with the specific machine model.
+
+## Related Articles
+
+- [CNC Alarm Reset Guide: How to Clear Alarms Safely](/posts/cnc-alarm-reset-guide/)
+- [CNC Machine Error Codes: Complete Troubleshooting Guide](/posts/cnc-error-codes-guide/)
+- [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
+- [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
+- [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)

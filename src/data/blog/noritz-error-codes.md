@@ -62,3 +62,11 @@ The control board detected abnormal combustion — usually incorrect gas/air rat
 | Fan motor | [Amazon](https://www.amazon.com/s?k=Fan+motor&tag=errorcodefixes-20) \| Model-specific; match by unit label |
 ## When to Call a Pro
 Code 14 (thermal fuse), code 71 (gas valve solenoid), and code 90 (combustion abnormality) require certified technician service. Noritz recommends annual professional maintenance regardless of whether any codes appear.
+
+## Related Articles
+
+- [American Water Heater Error Codes — Complete Guide](/posts/american-water-heater-error-codes/)
+- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
+- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
+- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
+- [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)

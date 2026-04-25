@@ -43,3 +43,11 @@ Fault F4 on a Viessmann boiler (Vitodens 050-W, 100-W, 200-W series) indicates a
 ## When to Call a Pro
 
 Viessmann condensing boilers require a Gas Safe registered engineer (UK) or licensed HVAC-R technician (North America) for gas pressure adjustment and combustion analysis. F4 faults that recur after electrode cleaning almost always require either gas pressure correction or combustion air diagnosis — both require certified technicians.
+
+## Related Articles
+
+- [Boiler Lockout Error Codes: All Brands Guide](/posts/boiler-lockout-error-codes/)
+- [Buderus Boiler Fault Code A1 — Causes & Fix](/posts/buderus-boiler-fault-code-a1/)
+- [Burnham Alpine Boiler Error Code Guide — Causes & Fix](/posts/burnham-alpine-error-codes/)
+- [Burnham Boiler E1 Lockout Code Fix](/posts/burnham-boiler-e1-lockout-code/)
+- [Burnham Boiler E2 Error Code — Causes & Fix](/posts/burnham-boiler-e2-error-code/)

@@ -42,3 +42,11 @@ Error code 16 on a Noritz tankless water heater indicates an over-temperature sh
 ## When to Call a Pro
 
 Gas pressure measurement and adjustment require a licensed gas technician. Persistent code 16 after descaling and thermistor replacement may indicate a heat exchanger that has been damaged by scale and needs replacement — a licensed plumber should assess.
+
+## Related Articles
+
+- [American Water Heater Error Codes — Complete Guide](/posts/american-water-heater-error-codes/)
+- [AO Smith Water Heater 3 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-3-flashes/)
+- [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
+- [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
+- [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)

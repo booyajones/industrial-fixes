@@ -42,3 +42,11 @@ Danfoss alarm AL 14 is a **Ground Fault** — the drive detected significant cur
 ## When to Call a Pro
 
 If AL 14 persists with the motor disconnected, the drive itself has a faulty output stage. Danfoss IGBT replacement requires specialized soldering and testing equipment. Contact Danfoss service or a certified drive repair shop — do not attempt internal drive repair without proper training.
+
+## Related Articles
+
+- [ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide](/posts/abb-acs-drives-plc-fault/)
+- [ABB ACS150 Micro Drive Fault Codes — Complete Diagnostic Reference](/posts/abb-acs150-fault-codes/)
+- [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
+- [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
+- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
