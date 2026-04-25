@@ -102,7 +102,7 @@ The exception: if the system is in excellent condition otherwise (clean coils, t
 5. **What warranty comes with the new compressor?** Most aftermarket compressors carry a 1-year parts warranty. OEM replacements often carry 5 years.
 6. **Get a quote on a new system.** Any time a compressor replacement is in the $1,500+ range, you should have a replacement quote in hand to compare.
 
-## Parts That Often Go Bad at the Same Time
+## Parts You May Need
 
 When a compressor fails, certain other components are frequently replaced at the same visit:
 
