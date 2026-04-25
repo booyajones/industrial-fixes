@@ -52,9 +52,41 @@ export async function getStaticPaths() {
 const { brand } = Astro.params;
 const { posts } = Astro.props;
 
+const BRAND_GROUP: Record<string, "hvac" | "refrigeration" | "industrial"> = {
+  "carrier": "hvac",
+  "goodman": "hvac",
+  "lennox": "hvac",
+  "trane": "hvac",
+  "rheem": "hvac",
+  "york": "hvac",
+  "daikin": "hvac",
+  "mitsubishi": "hvac",
+  "fujitsu": "hvac",
+  "hoshizaki": "refrigeration",
+  "manitowoc": "refrigeration",
+  "fanuc": "industrial",
+  "haas": "industrial",
+  "yaskawa": "industrial",
+  "abb": "industrial",
+  "siemens": "industrial",
+  "allen-bradley": "industrial",
+  "danfoss": "industrial",
+};
+
 const brandName = BRAND_DISPLAY[brand] ?? brand;
 const pageTitle = `${brandName} Error Code Reference — All ${posts.length} Codes`;
 const pageDesc = `Complete ${brandName} error code cheat sheet. All ${posts.length} fault codes with plain-English explanations and direct links to fix guides.`;
+const brandGroup = BRAND_GROUP[brand] ?? "hvac";
+const introCopy = {
+  hvac: `Use this page when your ${brandName} furnace, air conditioner, heat pump, or mini split is flashing a fault. Start with the exact code, then open the fix guide to diagnose airflow, ignition, sensor, pressure switch, board, or communication problems before you order parts or book a service call.`,
+  refrigeration: `Use this page when your ${brandName} ice machine, reach-in cooler, freezer, or prep table throws an alarm. Start with the exact code, then work through the matching guide for probe faults, defrost issues, water flow problems, warm box alarms, and ice production failures.`,
+  industrial: `Use this page when your ${brandName} drive, CNC, servo, or controls hardware posts an alarm during production. Start with the exact code, then open the fix guide for overloads, encoder faults, communication alarms, power quality issues, and drive or board failures.`
+}[brandGroup];
+const searchHint = {
+  hvac: `Tip: search the exact brand, model, and code together, for example "${brandName} error code 13" or "${brandName} pressure switch fault".` ,
+  refrigeration: `Tip: search the exact brand, model, and alarm together, for example "${brandName} E2" or "${brandName} freeze cycle timeout".` ,
+  industrial: `Tip: search the exact brand, model, and alarm together, for example "${brandName} F0001" or "${brandName} overcurrent fault".`
+}[brandGroup];
 ---
 
 <Layout title={`${pageTitle} | ${SITE.title}`} description={pageDesc}>
@@ -69,7 +101,11 @@ const pageDesc = `Complete ${brandName} error code cheat sheet. All ${posts.leng
     </nav>
 
     <h1 class="text-3xl font-bold mt-4 mb-2">{pageTitle}</h1>
-    <p class="text-gray-600 dark:text-gray-400 mb-8">{pageDesc}</p>
+    <p class="text-gray-600 dark:text-gray-400 mb-3">{pageDesc}</p>
+    <div class="mb-8 rounded-lg border border-border bg-accent/5 p-4">
+      <p class="mb-3 text-sm leading-6 text-gray-700 dark:text-gray-300">{introCopy}</p>
+      <p class="text-sm font-medium text-accent">{searchHint}</p>
+    </div>
 
     {posts.length === 0 ? (
       <p class="italic text-gray-500">No error code guides found for {brandName} yet.</p>
