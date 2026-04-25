@@ -2,8 +2,6 @@
 title: "Carrier Infinity Error 178 - What It Means and How to Fix It"
 description: "Carrier Infinity error 178 signals a communication fault between the indoor unit and the outdoor unit — different from error 179, which targets the control board. This guide walks you through diagnosing and fixing error 178 step by step."
 pubDatetime: 2026-04-25T00:00:00Z
-heroImage: /images/hvac-error-codes.jpg
-category: hvac
 tags: [hvac, error-codes, carrier, infinity]
 ---
 

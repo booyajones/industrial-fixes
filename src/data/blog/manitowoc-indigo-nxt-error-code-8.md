@@ -2,8 +2,6 @@
 title: "Manitowoc Indigo NXT Error Code 8 - What It Means and How to Fix It"
 description: "Manitowoc Indigo NXT error code 8 signals a harvest cycle fault — the ice machine failed to complete a harvest cycle within the allowed time. This guide explains the causes, diagnosis steps, and parts needed to fix it."
 pubDatetime: 2026-04-25T00:00:00Z
-heroImage: /images/hvac-error-codes.jpg
-category: hvac
 tags: [hvac, error-codes, manitowoc, ice-machine, commercial-refrigeration]
 ---
 

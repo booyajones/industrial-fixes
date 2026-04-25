@@ -2,8 +2,6 @@
 title: "Danfoss VLT Alarm 14 - Earth Fault: What It Means and How to Fix It"
 description: "Danfoss VLT Alarm 14 is an earth fault — current leaking from the output phases to ground has exceeded the safe threshold. This guide covers what causes alarm 14, how to diagnose it, and how to fix it safely."
 pubDatetime: 2026-04-25T00:00:00Z
-heroImage: /images/hvac-error-codes.jpg
-category: hvac
 tags: [vfd, error-codes, danfoss, vlt, industrial]
 ---
 

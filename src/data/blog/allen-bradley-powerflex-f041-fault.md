@@ -2,8 +2,6 @@
 title: "Allen-Bradley PowerFlex F041 Fault - Motor Overload: What It Means and How to Fix It"
 description: "Allen-Bradley PowerFlex fault F041 is a motor overload fault — the drive's electronic overload protection tripped because the motor has been drawing too much current for too long. This guide explains the causes, fix steps, and how to prevent it from returning."
 pubDatetime: 2026-04-25T00:00:00Z
-heroImage: /images/hvac-error-codes.jpg
-category: hvac
 tags: [vfd, error-codes, allen-bradley, powerflex, industrial]
 ---
 

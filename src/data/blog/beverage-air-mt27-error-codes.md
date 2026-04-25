@@ -2,8 +2,6 @@
 title: "Beverage-Air MT27 Error Codes - What They Mean and How to Fix Them"
 description: "The Beverage-Air MT27 displays fault codes on its digital controller when refrigeration or sensor problems occur — this guide covers every error code specific to the MT27 model, how to diagnose each one, and the exact parts needed."
 pubDatetime: 2026-04-25T00:00:00Z
-heroImage: /images/hvac-error-codes.jpg
-category: hvac
 tags: [hvac, error-codes, beverage-air, commercial-refrigerator]
 ---
 
