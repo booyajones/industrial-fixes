@@ -3,7 +3,7 @@ title: "Schneider Modicon M340 PLC Common Error Codes"
 description: "Schneider Modicon M340 PLC error codes and diagnostic LEDs explained. Learn how to identify I/O faults, communication errors, CPU faults, and power supply problems."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

@@ -3,7 +3,7 @@ title: "Allen-Bradley PowerFlex Fault F111 — Causes & Fix"
 description: "What Allen-Bradley PowerFlex fault F111 means, why motor over speed triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
 modDatetime: 2026-04-22T12:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

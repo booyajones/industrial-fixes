@@ -3,7 +3,7 @@ title: "DMG Mori CNC Fault Codes Guide — CELOS / Siemens 840D"
 description: "DMG Mori CNC machine fault codes for CELOS and Siemens 840D SL controls: alarm descriptions, servo and spindle faults, and troubleshooting steps."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

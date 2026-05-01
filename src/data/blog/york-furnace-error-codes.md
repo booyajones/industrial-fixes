@@ -3,7 +3,7 @@ title: "York Furnace Error Codes — Complete Guide"
 description: "York furnace error codes: all flash codes and diagnostic codes for YP9C, TM9E, LX, and other York gas furnace models."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

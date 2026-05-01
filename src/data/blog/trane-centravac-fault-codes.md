@@ -3,7 +3,7 @@ title: "Trane CenTraVac Chiller Fault Codes — Common Faults Guide"
 description: "Guide to Trane CenTraVac centrifugal chiller fault codes, what each fault means, and how to diagnose the most common problems."
 pubDatetime: 2026-04-22T14:00:00Z
 modDatetime: 2026-04-22T14:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

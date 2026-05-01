@@ -3,7 +3,7 @@ title: "Bell & Gossett Pump Fault Codes — Complete Guide"
 description: "Bell & Gossett pump fault codes for e-80, ecocirc, Series 100, and e-series circulators: LED fault indicators, causes, and fixes for B&G hydronic pumps."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

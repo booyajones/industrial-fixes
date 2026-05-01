@@ -3,7 +3,7 @@ title: "Fanuc Alarm 3 — Overtravel Minus Hardware Causes & Fix"
 description: "What Fanuc alarm 3 overtravel minus means, why the hardware limit trips, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
 modDatetime: 2026-04-22T12:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -37,7 +37,7 @@ Fanuc Alarm 3 is an **Overtravel (Minus direction) hardware limit** — an axis 
 
 | Part | Notes |
 |------|-------|
-| Overtravel limit switch | [Amazon](https://www.amazon.com/s?k=Overtravel+limit+switch&tag=errorcodefixes-20) \| Replace if physically damaged or triggering prematurely |
+| Overtravel limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Replace if physically damaged or triggering prematurely |
 | Absolute encoder battery | [Amazon](https://www.amazon.com/s?k=Absolute+encoder+battery&tag=errorcodefixes-20) \| Replace if battery failure caused position loss that led to the homing overrun |
 ## When to Call a Pro
 

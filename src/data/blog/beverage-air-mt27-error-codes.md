@@ -118,11 +118,11 @@ To access parameters (for technicians):
 |------|-----|-------------|
 | [Cabinet temperature probe — Beverage-Air 502-022A](https://www.amazon.com/s?k=Cabinet+temperature+probe+%E2%80%94+Beverage-Air+502-022A&tag=errorcodefixes-20) | E1 fault — cabinet sensor failed | $20–$40 |
 | [Evaporator probe — Beverage-Air 502-023A](https://www.amazon.com/s?k=Evaporator+probe+%E2%80%94+Beverage-Air+502-023A&tag=errorcodefixes-20) | E2 fault — defrost termination sensor | $20–$40 |
-| [Defrost heater (model-specific wattage)](https://www.amazon.com/s?k=Defrost+heater+%28model-specific+wattage%29&tag=errorcodefixes-20) | E4 — burned out heater | $45–$90 |
+| [Defrost heater (model-specific wattage)](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) | E4 — burned out heater | $45–$90 |
 | [Hi-limit defrost thermostat](https://www.amazon.com/s?k=Hi-limit+defrost+thermostat&tag=errorcodefixes-20) | E4 — open thermostat interrupting heater | $15–$30 |
-| [Condenser fan motor — Beverage-Air 501-052A](https://www.amazon.com/s?k=Condenser+fan+motor+%E2%80%94+Beverage-Air+501-052A&tag=errorcodefixes-20) | E3 — condenser fan failure | $60–$120 |
-| [Evaporator fan motor — Beverage-Air 501-105A](https://www.amazon.com/s?k=Evaporator+fan+motor+%E2%80%94+Beverage-Air+501-105A&tag=errorcodefixes-20) | E3 — evaporator fan failure | $40–$80 |
-| [Door gasket — MT27 (per door, left or right hinge)](https://www.amazon.com/s?k=Door+gasket+%E2%80%94+MT27+%28per+door%2C+left+or+right+hinge%29&tag=errorcodefixes-20) | E3 — seal failure causing warm cabinet | $35–$70 |
+| [Condenser fan motor — Beverage-Air 501-052A](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) | E3 — condenser fan failure | $60–$120 |
+| [Evaporator fan motor — Beverage-Air 501-105A](https://www.amazon.com/dp/B01N0J3ZEH?tag=errorcodefixes-20) | E3 — evaporator fan failure | $40–$80 |
+| [Door gasket — MT27 (per door, left or right hinge)](https://www.amazon.com/dp/B0FPF84HQP?tag=errorcodefixes-20) | E3 — seal failure causing warm cabinet | $35–$70 |
 | [Dixell XR06CX controller](https://www.amazon.com/s?k=Dixell+XR06CX+controller&tag=errorcodefixes-20) | E5 or persistent unexplained faults | $60–$120 |
 
 Verify all Beverage-Air part numbers against your MT27's specific serial number at Parts Town or Beverage-Air's parts portal. The MT27 series has had production changes across its run — using the serial number pulls the exact parts diagram for your unit.

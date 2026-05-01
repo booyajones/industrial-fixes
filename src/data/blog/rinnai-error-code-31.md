@@ -3,7 +3,7 @@ title: "Rinnai Error Code 31 — Causes & Fix"
 description: "What Rinnai error code 31 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
 modDatetime: 2026-04-22T09:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -36,7 +36,7 @@ Rinnai error code 31 indicates a burner sensor (combustion chamber sensor or hea
 
 | Part | Notes |
 |------|-------|
-| Combustion chamber / burner temperature sensor | [Amazon](https://www.amazon.com/s?k=Combustion+chamber+%2F+burner+temperature+sensor&tag=errorcodefixes-20) \| Must match Rinnai model number — resistance curves vary |
+| Combustion chamber / burner temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Must match Rinnai model number — resistance curves vary |
 | Descaling solution (citric acid) | [Amazon](https://www.amazon.com/s?k=Descaling+solution+%28citric+acid%29&tag=errorcodefixes-20) \| Use if scale is contributing to genuine overheat events |
 | PCB | [Amazon](https://www.amazon.com/s?k=PCB&tag=errorcodefixes-20) \| Replace only if sensor input channel is confirmed defective |
 ## When to Call a Pro

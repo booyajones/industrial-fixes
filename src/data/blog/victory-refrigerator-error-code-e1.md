@@ -3,7 +3,7 @@ title: "Victory Refrigeration Error Code E1 — Causes & Fix"
 description: "What Victory Refrigeration E1 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -36,7 +36,7 @@ The E1 error on Victory Refrigeration commercial units (reach-in refrigerators, 
 
 | Part | Notes |
 |------|-------|
-| NTC temperature sensor | [Amazon](https://www.amazon.com/s?k=NTC+temperature+sensor&tag=errorcodefixes-20) \| Victory OEM — check model number for correct sensor |
+| NTC temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Victory OEM — check model number for correct sensor |
 | Sensor wire harness | [Amazon](https://www.amazon.com/s?k=Sensor+wire+harness&tag=errorcodefixes-20) \| Replace if lead is damaged |
 ## When to Call a Pro
 

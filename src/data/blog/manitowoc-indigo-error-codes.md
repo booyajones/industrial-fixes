@@ -3,7 +3,7 @@ title: "Manitowoc Indigo Ice Machine Error Codes — Complete Guide"
 description: "Manitowoc Indigo error codes: safety limits, temperature faults, and water system alarms with causes and fixes."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

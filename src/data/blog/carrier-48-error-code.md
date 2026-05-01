@@ -3,7 +3,7 @@ title: "Carrier 48 Error Code — Induced Draft Motor Lockout"
 description: "Carrier flash code 48 means the induced draft motor has failed to start or is running out of spec. Learn causes, diagnostic steps, and replacement parts."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -71,10 +71,10 @@ The induced draft motor (inducer) pulls combustion gases through the heat exchan
 
 | Part | Notes |
 |---|---|
-| Inducer motor | [Amazon](https://www.amazon.com/s?k=Inducer+motor&tag=errorcodefixes-20) \| Match HP, RPM, and frame — Carrier HC21ZE117 is common |
-| Run capacitor | [Amazon](https://www.amazon.com/s?k=Run+capacitor&tag=errorcodefixes-20) \| Match µF and voltage — 370V minimum |
-| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Match the negative pressure trip point |
-| Pressure switch hose | [Amazon](https://www.amazon.com/s?k=Pressure+switch+hose&tag=errorcodefixes-20) \| Check for cracks at both ends |
+| Inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Match HP, RPM, and frame — Carrier HC21ZE117 is common |
+| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Match µF and voltage — 370V minimum |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match the negative pressure trip point |
+| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| Check for cracks at both ends |
 ## Reset Procedure
 
 After repairing the fault, press the reset button on the control board or cycle power to clear Code 48. If the code returns within the first 5 minutes, the repair is incomplete.

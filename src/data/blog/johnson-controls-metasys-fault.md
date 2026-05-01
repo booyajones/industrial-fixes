@@ -3,7 +3,7 @@ title: "Johnson Controls Metasys BMS Fault Codes - Complete Guide"
 description: "Johnson Controls Metasys building management system fault codes and alarms for NAE, NCE, and field controllers: causes and fixes."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

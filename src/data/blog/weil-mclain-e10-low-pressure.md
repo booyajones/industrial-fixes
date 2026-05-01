@@ -1,6 +1,6 @@
 ---
 title: "Weil-McLain Boiler Error Code E10 — Low Water Pressure Fix"
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 pubDatetime: 2026-04-26T17:00:00Z
 modDatetime: 2026-04-26T17:00:00Z
 slug: weil-mclain-e10-low-pressure

@@ -3,7 +3,7 @@ title: "Manitowoc Ice Machine E04 Error: High Condenser Temperature Causes and F
 description: "Manitowoc ice machine E04 error means high condenser temperature. Learn the fast cleaning and airflow fixes for Indigo, Q Series, and S Series."
 pubDatetime: 2026-04-26T14:00:00Z
 modDatetime: 2026-04-26T14:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 slug: manitowoc-e04-high-condenser-temp
 featured: false
 draft: false
@@ -64,8 +64,8 @@ If the machine still throws E04 after a proper cleaning and airflow repair, move
 
 - [Condenser coil cleaning kit](https://www.amazon.com/s?k=condenser+coil+cleaning+kit&tag=errorcodefixes-20)
 - [Commercial condenser cleaner](https://www.amazon.com/s?k=commercial+condenser+cleaner&tag=errorcodefixes-20)
-- [Manitowoc condenser fan motor](https://www.amazon.com/s?k=Manitowoc+condenser+fan+motor&tag=errorcodefixes-20)
-- [Fan motor run capacitor](https://www.amazon.com/s?k=fan+motor+run+capacitor&tag=errorcodefixes-20)
+- [Manitowoc condenser fan motor](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20)
+- [Fan motor run capacitor](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20)
 - [Fin comb coil brush](https://www.amazon.com/s?k=fin+comb+coil+brush&tag=errorcodefixes-20)
 
 ## When to Call a Technician

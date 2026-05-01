@@ -3,7 +3,7 @@ title: "Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix"
 description: "What Carrier heat pump E5 means, why defrost fails, and how to fix E5 error codes on Carrier heat pump systems."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

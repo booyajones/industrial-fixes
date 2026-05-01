@@ -3,7 +3,7 @@ title: "York 3 Flashes Error Code — Causes & Fix"
 description: "What York 3 flashes means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
 modDatetime: 2026-04-22T08:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -36,10 +36,10 @@ Three flashes on a York furnace LED indicates a pressure switch fault. The contr
 
 | Part | Notes |
 |------|-------|
-| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Match the WC rating; York uses several different ratings across their lineup |
-| Draft motor run capacitor | [Amazon](https://www.amazon.com/s?k=Draft+motor+run+capacitor&tag=errorcodefixes-20) \| Cheap; often the real culprit when motor hums but doesn't spin |
-| Pressure switch hose | [Amazon](https://www.amazon.com/s?k=Pressure+switch+hose&tag=errorcodefixes-20) \| 3/8" ID rubber tubing; cut to length |
-| Condensate trap | [Amazon](https://www.amazon.com/s?k=Condensate+trap&tag=errorcodefixes-20) \| Replace if cracked or permanently fouled |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match the WC rating; York uses several different ratings across their lineup |
+| Draft motor run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Cheap; often the real culprit when motor hums but doesn't spin |
+| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| 3/8" ID rubber tubing; cut to length |
+| Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) \| Replace if cracked or permanently fouled |
 ## When to Call a Pro
 
 If the draft motor runs at full speed, vents are clear, and the hose is intact, but the switch won't close, a tech should verify the actual pressure with a manometer. Using a wrong-rated replacement switch causes the same fault.

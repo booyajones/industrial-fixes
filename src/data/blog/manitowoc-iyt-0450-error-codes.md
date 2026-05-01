@@ -3,7 +3,7 @@ title: "Manitowoc IYT-0450 Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Manitowoc IYT-0450 ice machine error codes, diagnostic display codes, common fault causes, and step-by-step repair procedures."
 pubDatetime: 2026-04-22T23:00:00Z
 modDatetime: 2026-04-22T23:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -56,12 +56,12 @@ The Manitowoc IYT-0450 is a top-air-discharge (T-series) cube ice machine produc
 
 | Part | Notes |
 |---|---|
-| Hot gas valve | [Amazon](https://www.amazon.com/s?k=Hot+gas+valve&tag=errorcodefixes-20) \| Solenoid valve; check for coil continuity |
+| Hot gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Solenoid valve; check for coil continuity |
 | Water curtain switch | [Amazon](https://www.amazon.com/s?k=Water+curtain+switch&tag=errorcodefixes-20) \| Micro-switch type; check actuation and wiring |
-| Float switch | [Amazon](https://www.amazon.com/s?k=Float+switch&tag=errorcodefixes-20) \| Water level control; clean before replacing |
+| Float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?tag=errorcodefixes-20) \| Water level control; clean before replacing |
 | Harvest thermistor | [Amazon](https://www.amazon.com/s?k=Harvest+thermistor&tag=errorcodefixes-20) \| Monitors evaporator during harvest |
-| Water inlet valve | [Amazon](https://www.amazon.com/s?k=Water+inlet+valve&tag=errorcodefixes-20) \| Solenoid; check strainer first |
-| High-pressure switch | [Amazon](https://www.amazon.com/s?k=High-pressure+switch&tag=errorcodefixes-20) \| Manual reset required after Code 7 |
+| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| Solenoid; check strainer first |
+| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Manual reset required after Code 7 |
 ## When to Call a Pro
 
 The Manitowoc Indigo NXT platform has cloud diagnostics available through Manitowoc's Remote Monitoring system — a certified Manitowoc service agent can view fault history remotely before arriving on site. Refrigerant service and hot gas valve replacement require EPA 608 certification.

@@ -2,7 +2,7 @@
 title: "AC Compressor Replacement Cost: Repair vs. Replace Your Whole System"
 description: "How much does AC compressor replacement cost in 2024? Compare repair vs. full system replacement, understand age decisions, and find out when each option makes financial sense."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Dana Kowalski"
 tags:
   - hvac
   - error-codes
@@ -115,8 +115,8 @@ When a compressor fails, certain other components are frequently replaced at the
 
 | Part | Purchase Link |
 |---|---|
-| Dual Run Capacitor (45+5 µF, 440V) | [View on Amazon](https://www.amazon.com/s?k=dual+run+capacitor+45+5+440v&tag=errorcodefixes-20) |
-| 2-Pole 30A Contactor | [View on Amazon](https://www.amazon.com/s?k=hvac+contactor+30+amp+2+pole&tag=errorcodefixes-20) |
+| Dual Run Capacitor (45+5 µF, 440V) | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) |
+| 2-Pole 30A Contactor | [View on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) |
 | Hard Start Kit (5-2-1 or equivalent) | [View on Amazon](https://www.amazon.com/s?k=hard+start+kit+hvac+compressor&tag=errorcodefixes-20) |
 | Coil Cleaning Spray | [View on Amazon](https://www.amazon.com/s?k=hvac+coil+cleaner+no+rinse&tag=errorcodefixes-20) |
 

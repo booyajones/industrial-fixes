@@ -3,7 +3,7 @@ title: "Rheem Furnace 2 Flashes — Pressure Switch Fault"
 description: "Rheem furnace 2 flashes means a pressure switch fault. Here's how to diagnose the inducer, pressure switch, hoses, and condensate drain to fix it."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -83,10 +83,10 @@ If all the above checks out and 2 flashes persists, the inducer may not be gener
 
 | Part | Cost |
 |---|---|
-| Pressure switch (OEM) | [Amazon](https://www.amazon.com/s?k=Pressure+switch+%28OEM%29&tag=errorcodefixes-20) \| $25–65 |
-| Pressure switch hose | [Amazon](https://www.amazon.com/s?k=Pressure+switch+hose&tag=errorcodefixes-20) \| $5–15 |
-| Inducer motor assembly | [Amazon](https://www.amazon.com/s?k=Inducer+motor+assembly&tag=errorcodefixes-20) \| $150–350 |
-| Condensate trap | [Amazon](https://www.amazon.com/s?k=Condensate+trap&tag=errorcodefixes-20) \| $15–30 |
+| Pressure switch (OEM) | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| $25–65 |
+| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| $5–15 |
+| Inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| $150–350 |
+| Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) \| $15–30 |
 ## 2 Flashes vs. 3 Flashes on Rheem
 
 - **2 flashes** = Pressure switch fault (primary topic here)

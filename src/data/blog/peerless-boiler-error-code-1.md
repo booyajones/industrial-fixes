@@ -3,7 +3,7 @@ title: "Peerless Boiler Code 1 — Causes & Fix"
 description: "What Peerless boiler code 1 means, why the boiler locks out, and how to diagnose and restore operation."
 pubDatetime: 2026-04-22T11:00:00Z
 modDatetime: 2026-04-22T11:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -38,10 +38,10 @@ Code 1 on a Peerless boiler (displayed on the Peerless IQ control or equivalent 
 
 | Part | Notes |
 |------|-------|
-| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| OEM for Peerless model; clean before replacing |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| OEM for Peerless model; clean before replacing |
 | Spark electrode | [Amazon](https://www.amazon.com/s?k=Spark+electrode&tag=errorcodefixes-20) \| Match to burner assembly; check gap |
-| Gas valve | [Amazon](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) \| Replace only after control voltage and supply pressure confirmed |
-| Peerless IQ control board | [Amazon](https://www.amazon.com/s?k=Peerless+IQ+control+board&tag=errorcodefixes-20) \| Replace if all field components test good and lockout persists |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Replace only after control voltage and supply pressure confirmed |
+| Peerless IQ control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace if all field components test good and lockout persists |
 ## When to Call a Pro
 
 If Code 1 returns after resetting and cleaning the flame sensor, call a licensed HVAC/boiler technician. Gas valve diagnosis, combustion analysis, and draft pressure measurement require specialized equipment and should not be performed by unqualified personnel.

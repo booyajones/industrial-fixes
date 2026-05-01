@@ -3,7 +3,7 @@ title: "Mazak Alarm 700 — MPC Alarm"
 description: "Mazak Alarm 700 indicates an MPC (motion processor / motion controller) alarm. Learn the usual causes, diagnostics, and when this points to a control hardware problem."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -42,7 +42,7 @@ tags:
 |------|-------|
 | Cabinet cooling fan / filter | [Amazon](https://www.amazon.com/s?k=Cabinet+cooling+fan+%2F+filter&tag=errorcodefixes-20) \| Overheating creates unstable control faults |
 | Memory battery | [Amazon](https://www.amazon.com/s?k=Memory+battery&tag=errorcodefixes-20) \| Replace if low or expired |
-| Motion control board | [Amazon](https://www.amazon.com/s?k=Motion+control+board&tag=errorcodefixes-20) \| Only after confirming power and cooling are correct |
+| Motion control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Only after confirming power and cooling are correct |
 | Ribbon / backplane connectors | [Amazon](https://www.amazon.com/s?k=Ribbon+%2F+backplane+connectors&tag=errorcodefixes-20) \| Reseat or replace if loose or damaged |
 ## When to Call a Pro
 

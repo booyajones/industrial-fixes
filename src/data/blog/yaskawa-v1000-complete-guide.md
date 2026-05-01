@@ -3,7 +3,7 @@ title: "Yaskawa V1000 Complete Fault Code Guide — All Faults and Fixes"
 description: "Complete fault code guide for the Yaskawa V1000 microdrive, covering major alarm and fault codes, causes, and step-by-step troubleshooting."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

@@ -3,7 +3,7 @@ title: "Lennox Furnace Error Codes — Complete Reference Guide"
 description: "Lennox furnace error codes: all fault codes for G61, ML, EL, and SL series furnaces with causes and fixes."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

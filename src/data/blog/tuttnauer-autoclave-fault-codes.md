@@ -3,7 +3,7 @@ title: "Tuttnauer Autoclave Fault Codes - Complete Guide"
 description: "Tuttnauer autoclave fault codes for 2340, 3870, Elara, and Valueklave series: error codes, causes, and troubleshooting steps."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -51,8 +51,8 @@ Elara models test water conductivity to prevent mineral buildup damage. If tap w
 
 | Part | Notes |
 |------|-------|
-| PT100 temperature sensor | [Amazon](https://www.amazon.com/s?k=PT100+temperature+sensor&tag=errorcodefixes-20) \| Replace on E1 |
-| Door gasket (silicone) | [Amazon](https://www.amazon.com/s?k=Door+gasket+%28silicone%29&tag=errorcodefixes-20) \| Replace on E5 / poor sealing |
+| PT100 temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Replace on E1 |
+| Door gasket (silicone) | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?tag=errorcodefixes-20) \| Replace on E5 / poor sealing |
 | Heating element | [Amazon](https://www.amazon.com/s?k=Heating+element&tag=errorcodefixes-20) \| Replace on slow heat-up |
 | Safety valve | [Amazon](https://www.amazon.com/s?k=Safety+valve&tag=errorcodefixes-20) \| Replace on overpressure fault |
 | Level sensor | [Amazon](https://www.amazon.com/s?k=Level+sensor&tag=errorcodefixes-20) \| Replace on false LO alarm |

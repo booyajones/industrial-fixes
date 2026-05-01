@@ -3,7 +3,7 @@ title: "Daikin R-32 System U4 Error Code — Communication Fault Fix"
 description: "What the U4 error code means on Daikin R-32 refrigerant mini splits and heat pumps, why communication fails, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
 modDatetime: 2026-04-22T14:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

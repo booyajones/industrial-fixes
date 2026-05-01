@@ -2,7 +2,7 @@
 title: "Bosch IDS Heat Pump Error Codes - Original Series Fault Guide"
 description: "Complete fault code guide for the Bosch IDS original series heat pump. Covers all error codes, diagnostic steps, and differences from the IDS 2.0 series."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Dana Kowalski"
 tags:
   - hvac
   - error-codes
@@ -107,11 +107,11 @@ These point to problems with incoming power quality or the inverter drive board:
 
 | Part | Use | Amazon Link |
 |------|-----|-------------|
-| NTC Temperature Sensor (10kΩ) | Replace failed E1/E2/E3 sensors | [View on Amazon](https://www.amazon.com/s?k=NTC+10k+temperature+sensor+HVAC&tag=errorcodefixes-20) |
+| NTC Temperature Sensor (10kΩ) | Replace failed E1/E2/E3 sensors | [View on Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) |
 | HVAC Refrigerant Manifold Gauge Set | Diagnose E4/E5 pressure faults | [View on Amazon](https://www.amazon.com/s?k=HVAC+manifold+gauge+set+refrigerant&tag=errorcodefixes-20) |
 | Low Voltage Thermostat Wire 18/5 | Replace communication wiring for E6/E7 | [View on Amazon](https://www.amazon.com/s?k=18+5+thermostat+wire+low+voltage&tag=errorcodefixes-20) |
 | Coil Fin Comb and Coil Cleaner | Clean outdoor coil for E4 and F2 faults | [View on Amazon](https://www.amazon.com/s?k=HVAC+coil+fin+comb+cleaner&tag=errorcodefixes-20) |
-| Clamp Meter with True RMS | Measure compressor amperage for F1/F5 | [View on Amazon](https://www.amazon.com/s?k=true+rms+clamp+meter+HVAC&tag=errorcodefixes-20) |
+| Clamp Meter with True RMS | Measure compressor amperage for F1/F5 | [View on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) |
 
 ## When to Call a Pro
 

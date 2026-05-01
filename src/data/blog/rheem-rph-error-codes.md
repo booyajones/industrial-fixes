@@ -3,7 +3,7 @@ title: "Rheem RPH Series Packaged Unit Error Codes: Complete Guide"
 description: "Rheem RPH packaged heat pump error codes and fault diagnostics. Flash codes, fault descriptions, and step-by-step technician fixes."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -51,10 +51,10 @@ Rheem RPH reversing valves are energized in cooling. If stuck in one position, y
 |------|-------|
 | Defrost board | [Amazon](https://www.amazon.com/s?k=Defrost+board&tag=errorcodefixes-20) \| Critical ΓÇö match to exact model |
 | Defrost thermostat | [Amazon](https://www.amazon.com/s?k=Defrost+thermostat&tag=errorcodefixes-20) \| Available in multiple trip temperatures |
-| Run capacitor | [Amazon](https://www.amazon.com/s?k=Run+capacitor&tag=errorcodefixes-20) \| Dual-run ΓÇö test both sections |
+| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Dual-run ΓÇö test both sections |
 | Reversing valve | [Amazon](https://www.amazon.com/s?k=Reversing+valve&tag=errorcodefixes-20) \| Match tonnage and refrigerant type |
-| Contactor | [Amazon](https://www.amazon.com/s?k=Contactor&tag=errorcodefixes-20) \| Check for pitting and coil voltage |
-| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| Match unit serial and model number |
+| Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Check for pitting and coil voltage |
+| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Match unit serial and model number |
 > **Pro tip:** Rheem RPH units with EcoNet log fault history with timestamps. Connect EcoNet app to retrieve detailed fault history before servicing ΓÇö saves significant diagnostic time.
 
 ## Related Articles

@@ -3,7 +3,7 @@ title: "Rheem Water Heater Blinking Light Codes — What Each Flash Means and Ho
 description: "Rheem water heater status light blinking 1-9 times? This guide covers what each blink code means, step-by-step fixes, and which parts to replace."
 pubDatetime: 2026-04-25T12:00:00Z
 modDatetime: 2026-04-25T12:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -112,11 +112,11 @@ On water heaters with a separate control board (usually power-vent or high-effic
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|--------------|
 | [Thermopile (SP20166)](https://www.amazon.com/s?k=Thermopile+%28SP20166%29&tag=errorcodefixes-20) | 2 blinks — low millivolt output | $15–$30 |
-| [Thermocouple (SP11538)](https://www.amazon.com/s?k=Thermocouple+%28SP11538%29&tag=errorcodefixes-20) | 3 blinks — pilot won't stay lit | $10–$20 |
+| [Thermocouple (SP11538)](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) | 3 blinks — pilot won't stay lit | $10–$20 |
 | [Gas Control Valve (AP14270G)](https://www.amazon.com/s?k=Gas+Control+Valve+%28AP14270G%29&tag=errorcodefixes-20) | 5, 6, or 7 blinks — internal valve fault | $80–$150 |
 | [Piezo Igniter](https://www.amazon.com/s?k=Piezo+Igniter&tag=errorcodefixes-20) | 3 blinks — pilot won't spark | $10–$25 |
 | [Thermal Switch / ECO](https://www.amazon.com/s?k=Thermal+Switch+%2F+ECO&tag=errorcodefixes-20) | 4 blinks — high limit tripped and won't reset | $15–$35 |
-| [Control Board](https://www.amazon.com/s?k=Control+Board&tag=errorcodefixes-20) | 8 blinks — board failure on power-vent models | $60–$120 |
+| [Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | 8 blinks — board failure on power-vent models | $60–$120 |
 
 *Always verify part numbers against your model tag before ordering. Rheem model numbers are on a sticker on the side of the tank.*
 

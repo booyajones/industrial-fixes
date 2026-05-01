@@ -2,7 +2,7 @@
 title: "Trane XV15i Heat Pump Error Codes: Complete Variable-Speed Fault Guide"
 description: "Every Trane XV15i variable-speed heat pump fault code explained with diagnostics, DIY fixes, parts, and when to call a pro."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Marcus Webb"
 tags:
   - hvac
   - error-codes
@@ -130,11 +130,11 @@ This fault indicates the inverter is limiting compressor current due to excessiv
 
 | Part | Use | Link |
 |---|---|---|
-| Dual Run Capacitor (45+5 µF, 440V) | Fan motor start fault (Code 9) | [View on Amazon](https://www.amazon.com/s?k=dual+run+capacitor+45+5+440v&tag=errorcodefixes-20) |
-| 2-Pole 30A HVAC Contactor | Low voltage from pitted contacts | [View on Amazon](https://www.amazon.com/s?k=hvac+contactor+30+amp+2+pole&tag=errorcodefixes-20) |
+| Dual Run Capacitor (45+5 µF, 440V) | Fan motor start fault (Code 9) | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) |
+| 2-Pole 30A HVAC Contactor | Low voltage from pitted contacts | [View on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) |
 | Outdoor Coil Temperature Sensor | Codes 4/16, ComfortLink 182/198 | [View on Amazon](https://www.amazon.com/s?k=trane+outdoor+coil+sensor+thermistor&tag=errorcodefixes-20) |
 | Reversing Valve Solenoid Coil | Code 8, ComfortLink 191 | [View on Amazon](https://www.amazon.com/s?k=reversing+valve+solenoid+24v+coil&tag=errorcodefixes-20) |
-| Condenser Fan Motor (1/4 HP, 230V) | Code 9 fan motor replacement | [View on Amazon](https://www.amazon.com/s?k=condenser+fan+motor+1%2F4+hp+230v+hvac&tag=errorcodefixes-20) |
+| Condenser Fan Motor (1/4 HP, 230V) | Code 9 fan motor replacement | [View on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) |
 | 18/2 ComfortLink Communication Wire | Code 10 communication faults | [View on Amazon](https://www.amazon.com/s?k=hvac+thermostat+wire+18+gauge+2+conductor&tag=errorcodefixes-20) |
 
 ## When to Call a Pro

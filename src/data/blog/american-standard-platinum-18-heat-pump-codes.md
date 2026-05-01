@@ -2,7 +2,7 @@
 title: "American Standard Platinum 18 Heat Pump Error Codes — Full AccuLink Fault Guide - What It Means and How to Fix It"
 description: "American Standard Platinum 18 heat pumps use the AccuLink communicating platform to post numeric fault codes when the thermostat, outdoor unit, or air handler sees a problem. This guide explains the code families, the most common faults, and the practical repair steps that solve them."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Dana Kowalski"
 tags:
   - hvac
   - error-codes
@@ -78,8 +78,8 @@ The big takeaway is simple: on Platinum 18 systems, communication, sensor, and r
 |------|----------------|-------------|
 | [American Standard Trane 10K thermistor sensor](https://www.amazon.com/s?k=American+Standard+Trane+10K+thermistor+sensor&tag=errorcodefixes-20) | Replaces failed ambient, coil, or discharge sensors tied to Codes 184, 185, and 186 | $15 to $40 |
 | [American Standard reversing valve solenoid coil](https://www.amazon.com/s?k=American+Standard+Trane+reversing+valve+solenoid+coil&tag=errorcodefixes-20) | Replaces an open or weak coil that can trigger Code 178 or prevent clean mode changes | $30 to $75 |
-| [American Standard ECM condenser fan motor](https://www.amazon.com/s?k=American+Standard+ECM+condenser+fan+motor&tag=errorcodefixes-20) | Replaces a failed outdoor fan motor behind Code 126 and many high-pressure trips | $220 to $475 |
-| [American Standard AccuLink outdoor control board](https://www.amazon.com/s?k=American+Standard+AccuLink+outdoor+control+board&tag=errorcodefixes-20) | Replaces a failed outdoor board causing Code 91, Code 159, or random sensor interpretation faults | $180 to $380 |
+| [American Standard ECM condenser fan motor](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) | Replaces a failed outdoor fan motor behind Code 126 and many high-pressure trips | $220 to $475 |
+| [American Standard AccuLink outdoor control board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Replaces a failed outdoor board causing Code 91, Code 159, or random sensor interpretation faults | $180 to $380 |
 | [24V HVAC transformer](https://www.amazon.com/s?k=24V+HVAC+transformer&tag=errorcodefixes-20) | Restores weak control voltage that can cause communication dropouts and nuisance resets | $20 to $50 |
 | [18/5 thermostat wire](https://www.amazon.com/s?k=18%2F5+thermostat+wire&tag=errorcodefixes-20) | Replaces damaged low-voltage wiring between thermostat, indoor section, and outdoor unit | $25 to $80 |
 

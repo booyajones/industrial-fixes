@@ -3,7 +3,7 @@ title: "CNC Alarm Reset Guide: How to Clear Alarms Safely"
 description: "Complete guide to clearing CNC alarms safely on Haas, Fanuc, Mazak, DMG Mori, Siemens, and other common machine controls."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

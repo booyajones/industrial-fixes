@@ -2,7 +2,7 @@
 title: "Furnace Repair vs Replace Age Guide - What It Means and How to Fix It"
 description: "An older furnace can still run, but age changes the repair math fast. This guide explains the 15-year rule, heat exchanger risk, and the repair thresholds that point to replacement."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Marcus Webb"
 tags:
   - hvac
   - error-codes
@@ -129,11 +129,11 @@ Combined incentives can reduce the net cost of a new furnace by $800–$1,500, w
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|--------------|
-| [Hot Surface Ignitor 120V Norton Universal](https://www.amazon.com/s?k=hot+surface+ignitor+furnace+120v+norton&tag=errorcodefixes-20) | Failed ignitor — furnace won't attempt to light | $18–$35 |
-| [Universal Flame Sensor Rod](https://www.amazon.com/s?k=furnace+flame+sensor+rod+universal&tag=errorcodefixes-20) | Dirty/failed sensor — burner lights but shuts off in seconds | $12–$22 |
-| [Furnace Inducer Motor Draft](https://www.amazon.com/s?k=furnace+draft+inducer+motor+replacement&tag=errorcodefixes-20) | Failed inducer motor — furnace won't start, pressure switch fails | $65–$150 |
-| [Furnace High Limit Switch Auto-Reset](https://www.amazon.com/s?k=furnace+high+limit+switch+auto+reset&tag=errorcodefixes-20) | Tripped limit switch cuts burner even with good airflow | $15–$30 |
-| [Furnace Pressure Switch](https://www.amazon.com/s?k=furnace+pressure+switch+replacement&tag=errorcodefixes-20) | Faulty pressure switch prevents inducer from confirming draft | $12–$28 |
+| [Hot Surface Ignitor 120V Norton Universal](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) | Failed ignitor — furnace won't attempt to light | $18–$35 |
+| [Universal Flame Sensor Rod](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) | Dirty/failed sensor — burner lights but shuts off in seconds | $12–$22 |
+| [Furnace Inducer Motor Draft](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) | Failed inducer motor — furnace won't start, pressure switch fails | $65–$150 |
+| [Furnace High Limit Switch Auto-Reset](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) | Tripped limit switch cuts burner even with good airflow | $15–$30 |
+| [Furnace Pressure Switch](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | Faulty pressure switch prevents inducer from confirming draft | $12–$28 |
 | [CO Detector Battery Operated](https://www.amazon.com/s?k=carbon+monoxide+detector+battery+operated&tag=errorcodefixes-20) | Essential safety device — mandatory near any gas furnace | $20–$40 |
 
 ---

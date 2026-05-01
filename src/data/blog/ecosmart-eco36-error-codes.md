@@ -2,7 +2,7 @@
 title: "EcoSmart ECO 36 Error Codes - What It Means and How to Fix It"
 description: "EcoSmart ECO 36 electric tankless water heaters use the same core fault architecture as the ECO 27, but the higher-capacity unit has different flow, amperage, and heating element considerations. This guide explains each code and the repair steps that make sense on the 36kW platform."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "James Rutherford"
 tags:
   - hvac
   - error-codes

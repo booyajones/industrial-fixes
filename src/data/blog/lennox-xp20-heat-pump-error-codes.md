@@ -1,161 +1,155 @@
 ---
-title: "Lennox XP20 Heat Pump Error Codes"
-description: "Complete Lennox XP20 heat pump fault code guide covering communicating control errors, pressure faults, sensor problems, inverter issues, and step by step troubleshooting for premium variable-capacity systems."
+title: "Lennox XP20 Heat Pump Error Codes - Full iComfort Fault Reference"
+description: "Complete Lennox XP20 variable-capacity heat pump error code guide. Covers all iComfort-reported fault codes, communicating system diagnosis, and control board replacement."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Marcus Webb"
 tags:
   - hvac
+  - heat-pump
+  - lennox
   - error-codes
 ---
 
-The Lennox XP20 is one of Lennox's premium variable-capacity heat pumps. It uses an inverter-driven compressor, a communicating control system, and a high-efficiency outdoor unit that can ramp capacity up and down instead of simply turning fully on or fully off. That gives it better comfort, quieter operation, and lower energy use than a standard single-stage heat pump.
+## Lennox XP20 Heat Pump Error Codes
 
-It also means the XP20 has a more detailed fault system than a basic condenser. When the control board detects a problem, it stores and displays error codes through the communicating thermostat and the outdoor control board LEDs. Those codes are your best clue to whether you're dealing with a sensor issue, a communication failure, a pressure fault, or a more expensive compressor or inverter problem.
+The Lennox XP20 (model series XP20-024 through XP20-060) is a variable-capacity heat pump that runs on the iComfort communicating platform. Every XP20 requires an iComfort Wi-Fi or iComfort S30 thermostat and a communicating indoor unit to operate. The outdoor control board displays fault codes on a 7-segment LED, and those same codes appear on the iComfort thermostat screen.
 
-This guide explains what the most common Lennox XP20 error codes mean, how to diagnose them, and when the fix is simple versus when it's time to call a Lennox dealer.
+Fault and lockout codes override normal status codes. If the 7-segment display shows an "E" followed by a number, the system has detected a problem. The table below covers every documented alert code from the XP20 installation and service manual (Corp. 1408-L10).
 
-## What Does a Lennox XP20 Error Code Mean?
+[Jump to Fix](#fix)
 
-On the XP20, error codes usually point to one of five problem categories:
-
-- **Communication faults** between the outdoor unit, indoor air handler or furnace, and Lennox communicating thermostat
-- **High-pressure or low-pressure protection trips** in the refrigerant circuit
-- **Temperature sensor faults** on the outdoor coil, suction line, discharge line, or ambient air sensor
-- **Inverter and compressor faults** related to the variable-speed drive system
-- **Voltage and control board faults** inside the outdoor unit
-
-Here are the most common XP20 fault categories homeowners and technicians run into.
+## Complete XP20 Alert Code Table
 
 ### Communication Faults
 
-Communicating Lennox systems depend on continuous data exchange between the thermostat, indoor control board, and outdoor control. If one device drops off the network, the system may lock out heating or cooling.
+| Code | Severity | Meaning |
+|------|----------|---------|
+| E 105 | Moderate | Outdoor control lost communication with the thermostat or indoor unit. Typically caused by electrical noise on the RS-bus or loose low-voltage wiring. |
+| E 120 | Moderate | Delay in the outdoor unit responding to a system call. Usually clears on its own. |
+| E 124 | Critical | iComfort thermostat lost communication with the outdoor unit for more than 3 minutes. All HVAC operations stop until communication returns. |
+| E 434 | Critical | Outdoor control lost communication with the inverter board for more than 3 minutes. |
 
-**Common communication-related faults include:**
-- Outdoor unit not communicating with thermostat
-- Indoor unit missing from system bus
-- Device address or configuration fault after a board replacement
-- Intermittent communication caused by loose low-voltage wiring or corrosion
+### Control Board and Software Faults
 
-**Typical causes:** loose thermostat bus wiring, reversed communicating wires, failed control board, power cycling devices out of sequence, moisture inside the outdoor unit's control compartment.
-
-### High Pressure Fault
-
-The XP20 monitors discharge pressure closely. A high-pressure trip means the compressor is operating against too much head pressure.
-
-**Typical causes:**
-- Dirty outdoor coil restricting heat rejection
-- Outdoor fan not ramping properly
-- Overcharged refrigerant system
-- Non-condensables in the refrigerant circuit
-- Blocked airflow around the outdoor unit
-
-A high-pressure trip during cooling season is common when cottonwood, grass clippings, or pet hair pack the outdoor coil.
-
-### Low Pressure Fault
-
-Low-pressure protection means suction pressure has dropped too far. On a variable-capacity system like the XP20, that often points to refrigerant charge issues or metering problems.
-
-**Typical causes:**
-- Refrigerant leak
-- Indoor airflow restriction causing coil freeze-up
-- Failing electronic expansion valve or metering issue
-- Dirty filter or blocked evaporator coil
-- Outdoor unit running in very cold conditions outside its intended range
+| Code | Severity | Meaning |
+|------|----------|---------|
+| E 125 | Critical | Hardware failure on the outdoor control board. Replace the board if the fault prevents operation. |
+| E 131 | Critical | Outdoor unit control parameters corrupted. Reconfigure the system through the iComfort thermostat. Replace the control if heating or cooling stays unavailable. |
+| E 132 | Critical | Internal software error on the outdoor control. Board replacement required. |
+| E 443 | Critical | Incorrect appliance unit size code selected during configuration. Reconfigure to match the actual unit tonnage. |
 
 ### Sensor Faults
 
-The XP20 relies on multiple thermistors and pressure sensors to control compressor speed, fan speed, and defrost timing. A sensor reading out of range can shut the unit down even when the refrigerant circuit itself is okay.
+| Code | Severity | Meaning |
+|------|----------|---------|
+| E 180 | Critical | Outdoor ambient temperature sensor failed. The control board cannot perform low-ambient lockout protection without this sensor. |
+| E 416 | Moderate | Outdoor coil sensor failed. Defrost function will not work. The unit keeps running but cannot protect the outdoor coil from ice buildup. |
+| E 424 | Moderate | Liquid line temperature sensor failed. Check wiring first, then replace the sensor. |
+| E 437 | Critical | Inverter heat sink temperature sensor fault. |
 
-**Common failed sensors:**
-- Outdoor ambient sensor
-- Outdoor coil sensor
-- Suction temperature sensor
-- Discharge line sensor
-- Pressure transducer
+### Reversing Valve Fault
 
-A sensor may fail open, shorted, or simply drift out of calibration over time.
+| Code | Severity | Meaning |
+|------|----------|---------|
+| E 345 | Critical | The "O" relay on the outdoor board failed. The pilot relay contacts did not close, the relay coil did not energize, or the confirmation circuit cannot verify the relay position. This fault prevents the system from switching between heating and cooling modes. A known manufacturing issue involved MOV2 bending into resistor R50 on early production boards, making the control think the reversing valve output was always off. |
 
-### Inverter / Compressor Faults
+### Pressure Switch and Refrigerant Faults
 
-This is the expensive category. The XP20 uses an inverter board to modulate compressor speed. If the inverter detects overcurrent, undervoltage, overheating, or a compressor startup failure, it will lock out to protect the compressor.
+| Code | Severity | Meaning |
+|------|----------|---------|
+| E 409 | Moderate | Secondary control voltage dropped to 18 VAC or below. Check the transformer and low-voltage wiring. |
+| E 410 | Moderate | Low pressure switch opened. The system cycled off on low refrigerant pressure. Check charge level, indoor airflow, and filter condition. |
+| E 411 | Critical | Low pressure switch opened 5 times in one hour. System locked out. Almost always a refrigerant leak or severe airflow restriction. Power-cycle to reset, but the underlying cause needs repair. |
+| E 412 | Moderate | High pressure switch opened. System shut down on high head pressure. Check for a dirty outdoor coil, failed condenser fan, stuck reversing valve, or overcharge. |
+| E 413 | Critical | High pressure switch opened 5 times in one hour. System locked out. Clears only after a power reset. |
+| E 422 | Moderate | Compressor top cap thermal switch tripped. The compressor is overheating. |
+| E 442 | Critical | Top cap thermal switch tripped 5 times in one hour. System locked out. |
 
-**Typical causes:**
-- Inverter board failure
-- Compressor winding problem
-- Poor power quality or low line voltage
-- Loose compressor terminal connection
-- Refrigerant flood-back or slugging damaging the compressor mechanically
+### Inverter Faults
 
----
+| Code | Severity | Meaning |
+|------|----------|---------|
+| E 423 | Critical | Inverter detected a circuit-level problem. |
+| E 426 | Critical | 10 inverter faults within one hour. Full inverter lockout. |
+| E 427 | Critical | DC peak fault detected by the inverter. |
+| E 428 | Critical | High main input current detected. Check incoming line voltage. |
+| E 429 | Critical | DC link power did not rise high enough on a call for operation. |
+| E 430 | Critical | Compressor failed to start. |
+| E 431 | Critical | PFC over-current (100A threshold). |
+| E 432 | Critical | DC link high voltage detected. |
+| E 433 | Critical | Compressor over-current detected. |
+| E 435 | Critical | Inverter internal error. |
+| E 436 | Critical | Inverter heat sink temperature exceeded its limit. |
+| E 438 | Critical | PFC over-current condition detected. |
+| E 439 | Moderate | Compressor slowed down because of high input current. System still runs at reduced capacity. |
+| E 440 | Moderate | Heat sink temperature approaching its limit. Compressor speed reduced. |
+| E 441 | Moderate | Compressor slowed down because of high compressor current. |
 
-## How to Fix It
+### System Protection Codes
 
-1. **Start with a full power reset.** Turn the thermostat off. Shut off power to both the indoor unit and outdoor unit at the breakers for 5 minutes. Restore indoor power first, then outdoor power, then thermostat power if separately powered. Communicating Lennox systems sometimes clear nuisance communication faults after a clean reboot.
+| Code | Severity | Meaning |
+|------|----------|---------|
+| E 600 | Critical | Compressor cycled off by utility load-shedding signal. Normal behavior during demand response events. |
+| E 601 | Critical | Outdoor unit cycled off on low-temperature protection. The ambient temperature dropped below the heating operating range. |
 
-2. **Check the air filter and indoor airflow.** A dirty filter can cause low suction pressure, freeze the indoor coil, and trigger low-pressure faults. Replace the filter if it's loaded with dust. Check that supply and return vents are open.
+## How to Read and Clear Codes {#fix}
 
-3. **Inspect the outdoor coil.** If the coil is matted with dirt or debris, clean it gently with a garden hose from the inside out after shutting power off. A dirty condenser coil is one of the most common causes of high-pressure faults.
+1. **Check the 7-segment display.** Open the outdoor unit control panel. The display shows the active code with an "E" prefix. If no fault exists, the display shows the compressor operating percentage or defrost status.
+2. **Check the iComfort thermostat.** Navigate to the system alerts screen. The thermostat shows the same fault codes with a plain-language description.
+3. **Clear moderate codes.** Most moderate codes clear on their own once the underlying condition resolves. No manual reset needed.
+4. **Clear critical lockouts.** Turn off the system at the breaker for 30 seconds, then restore power. The lockout counter resets. If the fault returns within an hour, the root cause still exists.
+5. **Recall stored codes.** Press and hold the push-button on the outdoor control board to scroll through the last five stored fault codes. This helps identify intermittent problems.
 
-4. **Look for obvious wiring issues.** Remove the outdoor access panel and inspect low-voltage and communicating wiring connections. Make sure wires are tight, terminals aren't corroded, and insulation isn't damaged by vibration or rodents.
+## Communicating System Diagnosis
 
-5. **Check system voltage.** The XP20's inverter is sensitive to low or unstable voltage. With a multimeter, verify incoming line voltage at the disconnect and the contactor or power terminals. If voltage is significantly below rating while the unit is starting, the inverter may lock out.
+The XP20 only works with the iComfort communicating bus. If you see E 105 or E 124 repeatedly, the problem sits in the communication wiring between the thermostat, indoor unit, and outdoor unit.
 
-6. **Inspect for refrigerant leak clues.** Oil residue around service valves, braze joints, or the indoor coil connection usually points to a refrigerant leak. Low-pressure faults that come back repeatedly are very often refrigerant related.
+Check these in order:
 
-7. **Test sensors if a thermistor fault is logged.** Disconnect the suspect sensor and measure resistance with a multimeter. Compare the reading to Lennox's temperature/resistance chart for that sensor. An open or shorted sensor should be replaced.
+- **Wire routing.** The RS-bus communication wire must run separately from high-voltage power wiring. Parallel runs create electrical noise that corrupts data on the bus.
+- **Connections.** Inspect every wire nut, terminal block, and plug connector between the three system components. One loose connection drops the whole bus.
+- **Line polarity.** The XP20 outdoor control verifies line polarity. Reversed hot and neutral lines generate communication errors. Verify with a multimeter at the disconnect.
+- **Software version.** The iComfort Wi-Fi thermostat must run software version 2.1 or higher to communicate with XP20 units. Older firmware versions cause intermittent bus faults.
 
-8. **Check the outdoor fan operation.** If the fan isn't ramping smoothly or is stopping during a call, head pressure will rise quickly. A failed fan motor, fan module, or outdoor control signal can all create high-pressure trips.
+## Parts Reference
 
-9. **Inspect the inverter board visually.** Burn marks, swollen capacitors, or a sharp electrical smell inside the electrical compartment are strong signs of inverter board failure. If the compressor never even attempts to start and an inverter code is present, the board is a primary suspect.
-
-10. **Have refrigerant pressures verified by a licensed HVAC technician.** On variable-capacity systems, charge diagnosis depends on operating mode and system demand. Lennox dealers use factory tables and communicating diagnostics to confirm charge more accurately than a basic gauge-only check.
-
-11. **If the unit locks out in defrost or cold weather, check the outdoor coil sensor and defrost logic.** A bad coil sensor can misread frost conditions, causing the system to miss defrost or trip on pressure.
-
-12. **Document recurring fault history.** If your Lennox thermostat shows active alerts or service codes, photograph them before clearing anything. Intermittent faults are easier to solve when the exact code history is preserved.
-
----
-
-## Parts You May Need
-
-| Part | What It Fixes | Amazon Link |
-|------|--------------|-------------|
-| Lennox-compatible outdoor temperature sensor / thermistor | Outdoor ambient or coil sensor faults | [View on Amazon](https://www.amazon.com/s?k=lennox+heat+pump+thermistor+sensor&tag=errorcodefixes-20) |
-| Lennox communicating thermostat wire and terminal kit | Communication faults caused by poor low-voltage wiring | [View on Amazon](https://www.amazon.com/s?k=hvac+communicating+thermostat+wire+kit&tag=errorcodefixes-20) |
-| Condenser coil cleaner | High-pressure trips from dirty outdoor coil | [View on Amazon](https://www.amazon.com/s?k=condenser+coil+cleaner+hvac&tag=errorcodefixes-20) |
-| Digital multimeter with temperature and resistance testing | Diagnosing sensor and voltage faults | [View on Amazon](https://www.amazon.com/s?k=digital+multimeter+hvac+temperature+resistance&tag=errorcodefixes-20) |
-| Refrigerant leak detector | Low-pressure faults caused by refrigerant leaks | [View on Amazon](https://www.amazon.com/s?k=hvac+refrigerant+leak+detector&tag=errorcodefixes-20) |
-| Lennox-compatible condenser fan motor capacitor / run capacitor | Fan-related pressure issues and startup problems | [View on Amazon](https://www.amazon.com/s?k=heat+pump+run+capacitor+lennox&tag=errorcodefixes-20) |
-| Surge protector for HVAC equipment | Inverter protection against power spikes | [View on Amazon](https://www.amazon.com/s?k=hvac+surge+protector+240v&tag=errorcodefixes-20) |
-
----
+| Part | Where to Find | Notes |
+|------|---------------|-------|
+| Outdoor control board (103686-06 / 1184-510) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Fixes E 125, E 131, E 132, E 345. Requires reconfiguration through iComfort after install. |
+| Inverter board | [Amazon](https://www.amazon.com/s?k=Lennox+XP20+inverter+board&tag=errorcodefixes-20) | Fixes E 423 through E 438 inverter faults. Match to unit size (024/036/048/060). |
+| Outdoor ambient temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | Fixes E 180. 10K ohm thermistor. |
+| Outdoor coil temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | Fixes E 416. Check resistance against spec before replacing. |
+| Liquid line temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | Fixes E 424. |
+| High pressure switch | [Amazon](https://www.amazon.com/dp/B013IHQ8CU?tag=errorcodefixes-20) | Related to E 412, E 413. Verify the switch itself before assuming a refrigerant problem. |
+| Low pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | Related to E 410, E 411. Test switch continuity before replacing. |
+| Reversing valve solenoid coil | [Amazon](https://www.amazon.com/s?k=Lennox+reversing+valve+solenoid+coil&tag=errorcodefixes-20) | Related to E 345. The relay may be the actual failure point, not the valve itself. |
 
 ## When to Call a Pro
 
-Call a licensed Lennox dealer or experienced heat pump technician if any of the following are true:
-
-- **The system shows repeated inverter or compressor faults.** Variable-speed compressors and inverter boards are too expensive to guess at. A wrong diagnosis can waste hundreds or thousands of dollars.
-- **You suspect a refrigerant leak.** Refrigerant handling requires EPA certification, and the XP20 charge must be verified correctly under Lennox procedures.
-- **The communicating thermostat reports missing devices or configuration faults after a board replacement.** Lennox communicating systems often require setup, device discovery, and firmware matching.
-- **The unit trips high pressure shortly after startup even with a clean coil.** That can indicate overcharge, non-condensables, a stuck metering device, or fan control failure.
-- **You see oil around the compressor terminals or hear grinding or hard-start behavior.** Those are signs the compressor may be failing mechanically.
-- **The system is under warranty.** Premium Lennox parts often have strong parts warranties, but DIY component replacement can complicate warranty coverage.
-
----
+Any inverter fault (E 423 through E 443) or repeated pressure switch lockout (E 411, E 413) requires a licensed HVAC technician. Inverter board replacement involves high-voltage DC circuits. Refrigerant leak diagnosis and recharging require EPA Section 608 certification. The XP20 uses R-410A refrigerant with operating pressures that reach 600+ PSI on the high side.
 
 ## FAQ
 
-**Q: How do I reset a Lennox XP20 error code?**
-A: Many faults clear automatically after the system completes a successful run cycle. For a manual reset, turn power off to the indoor and outdoor units for 5 minutes, then restore power. If the underlying fault still exists, the code will return.
+### How do I reset a locked-out Lennox XP20?
 
-**Q: Can a dirty filter really cause a fault code on a premium heat pump like the XP20?**
-A: Yes. Even advanced communicating systems still depend on basic airflow. A dirty filter can reduce indoor airflow enough to drop suction pressure, freeze the coil, and trigger low-pressure or temperature-related faults.
+Turn off the circuit breaker that feeds the outdoor unit. Wait at least 30 seconds. Restore power. The lockout counter resets and the system attempts to start again. If the same lockout code (E 411, E 413, E 426, or E 442) returns within an hour, the root cause still exists and needs repair before the system will run reliably.
 
-**Q: What's the difference between a communication fault and an inverter fault?**
-A: A communication fault means the thermostat, indoor unit, and outdoor unit aren't exchanging data properly. An inverter fault means the outdoor unit's variable-speed drive or compressor control electronics detected an electrical or mechanical problem.
+### What does E 345 mean on a Lennox XP20?
 
-**Q: Is it worth repairing an XP20 inverter board?**
-A: Usually yes, if the compressor is healthy and the rest of the system is in good condition. The XP20 is a premium system, so board replacement is often more economical than replacing the full outdoor unit. The key is confirming the compressor didn't cause the board to fail.
+E 345 means the reversing valve relay on the outdoor control board failed its self-check. The board energizes the relay and then verifies that the contacts actually closed. If verification fails, the system cannot switch between heating and cooling. Early XP20 production runs had a known issue where a component (MOV2) was bent during factory testing, damaging resistor R50 on the control board. Replacing the outdoor control board fixes this in most cases.
 
-**Q: Why does my XP20 throw faults only during extreme cold or extreme heat?**
-A: Borderline sensors, weak fan motors, low refrigerant charge, and poor electrical supply often show up only at the edges of the operating envelope. Mild weather hides them. Extreme conditions expose them fast.
+### Can I run the XP20 with a non-communicating thermostat?
+
+No. The XP20 requires an iComfort Wi-Fi or iComfort S30 thermostat. The variable-capacity compressor, defrost logic, and all fault reporting depend on the communicating bus. A standard 24V thermostat cannot control this unit.
+
+### Why does my XP20 keep showing E 410 or E 411?
+
+E 410 (single low-pressure event) and E 411 (five events in one hour, lockout) point to low refrigerant charge in most cases. The R-410A system has a factory charge sized for 15 feet of line set. Longer runs, a slow leak at a flare fitting, or a pinhole in the coil drop the charge below the low-pressure switch setpoint. A technician needs to leak-test the system, repair the leak, evacuate, and recharge to the nameplate specification.
+
+## Related Articles
+
+- [Lennox Furnace Error Codes](/posts/lennox-furnace-error-codes/)
+- [Lennox Mini Split Error Codes](/posts/lennox-mini-split-error-codes/)
+- [Carrier Heat Pump Error Codes](/posts/carrier-heat-pump-error-codes/)
+- [Trane Heat Pump Error Codes](/posts/trane-heat-pump-error-codes/)
+- [Goodman Heat Pump Error Codes](/posts/goodman-heat-pump-error-codes/)

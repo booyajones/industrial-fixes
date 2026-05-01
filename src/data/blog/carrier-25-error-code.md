@@ -3,7 +3,7 @@ title: "Carrier 25 Error Code — Causes & Fix"
 description: "What Carrier error code 25 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
 modDatetime: 2026-04-22T09:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -36,9 +36,9 @@ Carrier fault code 25 indicates a flame sense fault — the control board detect
 
 | Part | Notes |
 |------|-------|
-| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Replace if insulator is cracked or sensor rod is pitted |
-| Gas valve | [Amazon](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) \| Replace only if confirmed leaking through after shutdown |
-| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| Last resort if sense circuit is defective on board itself |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Replace if insulator is cracked or sensor rod is pitted |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Replace only if confirmed leaking through after shutdown |
+| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Last resort if sense circuit is defective on board itself |
 ## When to Call a Pro
 
 A leaking gas valve requires replacement by a licensed technician — this involves breaking into the gas line. If you're not certified to handle gas work, stop at the diagnosis step and call a pro.

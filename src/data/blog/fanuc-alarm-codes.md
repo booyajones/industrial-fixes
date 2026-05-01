@@ -3,7 +3,7 @@ title: "Fanuc CNC Alarm Codes — Complete Reference"
 description: "Fanuc CNC alarm codes: servo alarms (400–499), overtravel (1–6), APC alarms (300–360), and program errors (PS alarms) with causes and fixes."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

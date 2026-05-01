@@ -3,7 +3,7 @@ title: "GE Industrial Circuit Breaker Fault Codes - Complete Guide"
 description: "GE Industrial (ABB, Grid Solutions) MCCB and power circuit breaker fault codes: DECS trip unit alarms, causes, and reset procedures."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

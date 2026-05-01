@@ -3,7 +3,7 @@ title: "Delfield Refrigerator Error Code E1 — Causes & Fix"
 description: "What Delfield refrigerator error code E1 means, why the temperature sensor faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
 modDatetime: 2026-04-22T15:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

@@ -3,7 +3,7 @@ title: "Mazak Alarm 200 — Spindle Speed Error Causes & Fix"
 description: "What Mazak alarm 200 spindle speed error means, why it triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
 modDatetime: 2026-04-22T12:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

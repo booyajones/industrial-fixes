@@ -48,7 +48,7 @@ For a worn combustion blower: replace the combustion blower assembly. Navien blo
 
 | Part | Where to Buy |
 |------|-------------|
-| [Flame sensor rod assembly](https://www.amazon.com/s?k=Flame+sensor+rod+assembly&tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
+| [Flame sensor rod assembly](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
 | [Combustion blower motor](https://www.amazon.com/s?k=Combustion+blower+motor&tag=errorcodefixes-20) | SupplyHouse, Grainger |
 | [Condensate drain assembly](https://www.amazon.com/s?k=Condensate+drain+assembly&tag=errorcodefixes-20) | Amazon, RepairClinic |
 

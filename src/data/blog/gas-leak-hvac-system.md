@@ -2,7 +2,7 @@
 title: "Gas Leak from HVAC System - How to Detect and What to Do"
 description: "Smelling gas near your furnace or from your vents? This safety guide covers how to detect a gas leak from an HVAC system, immediate steps to take, when to evacuate, and how technicians find and fix the source."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Marcus Webb"
 tags:
   - hvac
   - error-codes
@@ -95,7 +95,7 @@ Do not use an open flame to test for gas leaks. Never.
 | Gas Leak Detector Spray (Bubble Solution) | Testing connections after repair | [View on Amazon](https://www.amazon.com/s?k=gas+leak+detector+spray+bubble+solution&tag=errorcodefixes-20) |
 | Yellow PTFE Gas Thread Seal Tape | Sealing threaded gas fittings | [View on Amazon](https://www.amazon.com/s?k=yellow+ptfe+gas+thread+tape+teflon&tag=errorcodefixes-20) |
 | Combination CO + Gas Detector Alarm | Ongoing safety monitoring | [View on Amazon](https://www.amazon.com/s?k=combination+carbon+monoxide+gas+detector+alarm&tag=errorcodefixes-20) |
-| Universal Gas Valve Replacement (Honeywell VR8200) | Gas valve leak repair | [View on Amazon](https://www.amazon.com/s?k=honeywell+vr8200+gas+valve+furnace&tag=errorcodefixes-20) |
+| Universal Gas Valve Replacement (Honeywell VR8200) | Gas valve leak repair | [View on Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) |
 
 ---
 

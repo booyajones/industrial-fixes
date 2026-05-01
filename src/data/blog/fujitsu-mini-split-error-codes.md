@@ -3,7 +3,7 @@ title: "Fujitsu Mini Split Error Codes — E and P Code Guide"
 description: "Fujitsu mini split error codes: all E and P fault codes for Fujitsu Halcyon and Airstage systems with causes and fixes."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -64,9 +64,9 @@ On Fujitsu wall-mount models without wired controller, read the LED blink patter
 
 | Part | Notes |
 |------|-------|
-| Indoor fan motor | [Amazon](https://www.amazon.com/s?k=Indoor+fan+motor&tag=errorcodefixes-20) \| Model-specific; note motor winding resistance |
-| Outdoor fan motor | [Amazon](https://www.amazon.com/s?k=Outdoor+fan+motor&tag=errorcodefixes-20) \| DC inverter motor with Hall sensor |
-| Indoor PCB | [Amazon](https://www.amazon.com/s?k=Indoor+PCB&tag=errorcodefixes-20) \| Fujitsu 9709481xxx — match model |
+| Indoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Model-specific; note motor winding resistance |
+| Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| DC inverter motor with Hall sensor |
+| Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Fujitsu 9709481xxx — match model |
 | Indoor air thermistor | [Amazon](https://www.amazon.com/s?k=Indoor+air+thermistor&tag=errorcodefixes-20) \| Small NTC thermistor, 10 kΩ at 25°C |
 ## When to Call a Pro
 P2 (high discharge temp), P4 (low pressure), P6 (overcurrent), and P7 (IPM fault) indicate refrigerant system or inverter drive problems that require professional tools and refrigerant certification to diagnose properly.

@@ -3,7 +3,7 @@ title: "Baltimore Aircoil Cooling Tower Fault Codes — VXT / VTL Series Guide"
 description: "Baltimore Aircoil (BAC) cooling tower fault codes and alarm conditions for VXT, VTL, and Series V towers: causes and troubleshooting steps."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -19,7 +19,7 @@ Baltimore Aircoil (BAC) cooling towers with electronic fan control panels or var
 
 | [Fault](https://www.amazon.com/s?k=Fault&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |-------|---------|-----------|
-| [Fan Motor Overload](https://www.amazon.com/s?k=Fan+Motor+Overload&tag=errorcodefixes-20) | Fan motor current too high | Check motor current, bearings, and fan blades |
+| [Fan Motor Overload](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) | Fan motor current too high | Check motor current, bearings, and fan blades |
 | [High Water Temperature](https://www.amazon.com/s?k=High+Water+Temperature&tag=errorcodefixes-20) | Leaving water temperature above setpoint | Check fan operation and heat load |
 | [Low Water Level](https://www.amazon.com/s?k=Low+Water+Level&tag=errorcodefixes-20) | Basin water level low | Check makeup water valve and float |
 | [High Water Level](https://www.amazon.com/s?k=High+Water+Level&tag=errorcodefixes-20) | Basin water level too high | Check overflow and makeup valve |

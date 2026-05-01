@@ -3,7 +3,7 @@ title: "Hobart Commercial Dishwasher Error Codes — Guide"
 description: "Hobart commercial dishwasher error codes: what each code means and how to fix it."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -51,7 +51,7 @@ Door not closed or door interlock switch fault. Verify door closes fully and lat
 |------|-------|
 | Wash pump motor | [Amazon](https://www.amazon.com/s?k=Wash+pump+motor&tag=errorcodefixes-20) \| Most urgent repair — no washing without it |
 | Booster heater element | [Amazon](https://www.amazon.com/s?k=Booster+heater+element&tag=errorcodefixes-20) \| For E1/E2 temperature faults |
-| Water inlet valve | [Amazon](https://www.amazon.com/s?k=Water+inlet+valve&tag=errorcodefixes-20) \| For E3 fill faults |
+| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| For E3 fill faults |
 | Drain pump | [Amazon](https://www.amazon.com/s?k=Drain+pump&tag=errorcodefixes-20) \| For E4 drain faults |
 ## When to Call a Pro
 

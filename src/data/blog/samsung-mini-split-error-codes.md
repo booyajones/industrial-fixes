@@ -3,7 +3,7 @@ title: "Samsung Mini Split Error Codes — Complete Fix Guide"
 description: "Samsung mini split error codes: all E-codes explained with causes and step-by-step fixes for Samsung Wind-Free and AR series mini-splits."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -67,8 +67,8 @@ The drain pan float switch activated — water level is too high. Vacuum out the
 | Part | Notes |
 |------|-------|
 | Indoor thermistor | [Amazon](https://www.amazon.com/s?k=Indoor+thermistor&tag=errorcodefixes-20) \| Samsung DB95-04544A or model-specific |
-| Indoor PCB | [Amazon](https://www.amazon.com/s?k=Indoor+PCB&tag=errorcodefixes-20) \| Model-specific — note full model code |
-| Drain float switch | [Amazon](https://www.amazon.com/s?k=Drain+float+switch&tag=errorcodefixes-20) \| Samsung DB27-00018A or compatible |
+| Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Model-specific — note full model code |
+| Drain float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?tag=errorcodefixes-20) \| Samsung DB27-00018A or compatible |
 ## When to Call a Pro
 E4-02 (low pressure), E4-03 (discharge temp), and E5-01 (overcurrent) all indicate refrigerant system or compressor issues that require EPA-certified technician intervention.
 

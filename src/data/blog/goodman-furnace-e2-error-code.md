@@ -3,7 +3,7 @@ title: "Goodman Furnace E2 Error Code — Flame Sense Fault (Digital Display Mod
 description: "Goodman E2 error on digital display furnaces means a flame sense fault. Learn how to clean the flame sensor, test it, and fix ignition timing issues."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -68,11 +68,11 @@ The silicon carbide or silicon nitride igniter must reach 1800°F+ to reliably i
 
 | Part | Cost |
 |---|---|
-| Flame sensor (universal) | [Amazon](https://www.amazon.com/s?k=Flame+sensor+%28universal%29&tag=errorcodefixes-20) \| $10–20 |
-| OEM Goodman flame sensor | [Amazon](https://www.amazon.com/s?k=OEM+Goodman+flame+sensor&tag=errorcodefixes-20) \| $25–45 |
-| Hot surface igniter | [Amazon](https://www.amazon.com/s?k=Hot+surface+igniter&tag=errorcodefixes-20) \| $20–50 |
-| Gas valve | [Amazon](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) \| $80–200 |
-| IFC board | [Amazon](https://www.amazon.com/s?k=IFC+board&tag=errorcodefixes-20) \| $100–300 |
+| Flame sensor (universal) | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| $10–20 |
+| OEM Goodman flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| $25–45 |
+| Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| $20–50 |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| $80–200 |
+| IFC board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| $100–300 |
 ## E2 vs. E1 vs. EE2
 
 - **E1** = Pressure switch fault (no draft sensing)

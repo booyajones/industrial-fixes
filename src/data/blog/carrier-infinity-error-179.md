@@ -3,7 +3,7 @@ title: "Carrier Infinity Error Code 179 — What It Means and How to Fix It"
 description: "Carrier Infinity error 179 means the system lost communication with a component. Learn what causes it, how to trace the fault, and which parts fix it."
 pubDatetime: 2026-04-25T12:00:00Z
 modDatetime: 2026-04-25T12:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -117,9 +117,9 @@ If wiring is intact and the diagnostic screen identifies one specific component 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|--------------|
 | [Carrier Infinity Thermostat (SYSTXBBUID01-B or SYSTXBBECC01-B)](https://www.amazon.com/s?k=Carrier+Infinity+Thermostat+%28SYSTXBBUID01-B+or+SYSTXBBECC01-B%29&tag=errorcodefixes-20) | Thermostat communication hardware failed | $150–$350 |
-| [Furnace Control Board (CEPL130432-01 or model-specific)](https://www.amazon.com/s?k=Furnace+Control+Board+%28CEPL130432-01+or+model-specific%29&tag=errorcodefixes-20) | Indoor board communication chip failure | $200–$450 |
-| [Outdoor Unit Control Board (model-specific)](https://www.amazon.com/s?k=Outdoor+Unit+Control+Board+%28model-specific%29&tag=errorcodefixes-20) | Variable-speed or inverter board failure | $300–$700 |
-| [Control Board Fuse (3A or 5A, ATC-type)](https://www.amazon.com/s?k=Control+Board+Fuse+%283A+or+5A%2C+ATC-type%29&tag=errorcodefixes-20) | Blown board fuse cutting communication power | $2–$5 |
+| [Furnace Control Board (CEPL130432-01 or model-specific)](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Indoor board communication chip failure | $200–$450 |
+| [Outdoor Unit Control Board (model-specific)](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Variable-speed or inverter board failure | $300–$700 |
+| [Control Board Fuse (3A or 5A, ATC-type)](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Blown board fuse cutting communication power | $2–$5 |
 | [18/5 or 18/8 Thermostat Wire](https://www.amazon.com/s?k=18%2F5+or+18%2F8+Thermostat+Wire&tag=errorcodefixes-20) | Damaged low-voltage wiring | $25–$60 per 50ft |
 
 ---

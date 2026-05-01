@@ -3,7 +3,7 @@ title: "Allen Bradley PowerFlex 40 F7 Fault: Motor Overload Causes and Fix"
 description: "Allen Bradley PowerFlex 40 F7 fault means motor overload. Learn how to check parameter 22, motor FLA, and real load problems fast."
 pubDatetime: 2026-04-26T14:00:00Z
 modDatetime: 2026-04-26T14:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 slug: ab-powerflex-40-f7-fault
 featured: false
 draft: false
@@ -64,7 +64,7 @@ After the repair, document the final settings. PowerFlex drives get replaced or 
 
 ## Parts You May Need
 
-- [Clamp meter for motor current](https://www.amazon.com/s?k=clamp+meter+for+motor+current&tag=errorcodefixes-20)
+- [Clamp meter for motor current](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20)
 - [Allen Bradley PowerFlex 40 keypad](https://www.amazon.com/s?k=Allen+Bradley+PowerFlex+40+keypad&tag=errorcodefixes-20)
 - [TEFC replacement motor](https://www.amazon.com/s?k=TEFC+replacement+motor&tag=errorcodefixes-20)
 - [Pillow block bearing](https://www.amazon.com/s?k=pillow+block+bearing&tag=errorcodefixes-20)

@@ -3,7 +3,7 @@ title: "Emerson Fisher Valve Positioner Fault Codes — DVC6200 / DVC2000 Guide"
 description: "Emerson Fisher digital valve controller fault codes for DVC6200, DVC2000, and FIELDVUE series: alarms, diagnostics, and troubleshooting steps."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

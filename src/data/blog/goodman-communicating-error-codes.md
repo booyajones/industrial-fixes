@@ -3,7 +3,7 @@ title: "Goodman ComfortNet Communicating System Error Codes — Complete Guide"
 description: "Goodman ComfortNet communicating system error codes: fault codes for ComfortNet-enabled furnaces, heat pumps, and air handlers with causes and fixes."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

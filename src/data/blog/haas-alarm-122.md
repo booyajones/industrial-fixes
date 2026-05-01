@@ -3,7 +3,7 @@ title: "Haas Alarm 122 — ATC Chain Fault"
 description: "Haas Alarm 122 means the automatic tool changer chain or carousel failed to index correctly. Learn the causes and how to fix Haas Alarm 122."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

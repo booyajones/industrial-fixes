@@ -3,7 +3,7 @@ title: "Lennox SLP98V Error Codes — Variable-Speed Furnace Fault Guide"
 description: "Lennox SLP98V error codes: iComfort fault codes, flash codes, and variable-speed blower faults for the 98% AFUE SLP98V furnace."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -70,8 +70,8 @@ The rollout switch has tripped and the board has exceeded the maximum reset atte
 |------|-------|
 | ECM motor module | [Amazon](https://www.amazon.com/s?k=ECM+motor+module&tag=errorcodefixes-20) \| Lennox 100392-03 or model-specific |
 | Igniter | [Amazon](https://www.amazon.com/s?k=Igniter&tag=errorcodefixes-20) \| Lennox 65J6301 |
-| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| Lennox 100390-09 (match to unit label) |
-| Rollout switch | [Amazon](https://www.amazon.com/s?k=Rollout+switch&tag=errorcodefixes-20) \| Lennox 19J6801 |
+| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Lennox 100390-09 (match to unit label) |
+| Rollout switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Lennox 19J6801 |
 ## When to Call a Pro
 The SLP98V's variable-speed ECM motor and iComfort communication system require installer-level diagnostics for anything beyond cleaning and filter replacement. Code 103 (rollout lockout) and code 411 (flame without call) require licensed technician attention before restart.
 

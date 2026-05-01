@@ -2,7 +2,7 @@
 title: "Hoshizaki KM-2000SAJ Ice Machine Error Codes - Full Diagnostic Guide"
 description: "Complete Hoshizaki KM-2000SAJ error codes E1 through E8, harvest fault diagnosis, and step-by-step repair guide for this high-capacity ice machine."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "James Rutherford"
 tags:
   - hvac
   - error-codes
@@ -90,7 +90,7 @@ This code activates when the water entering the ice machine (or the condenser co
 | Hoshizaki Sanitizer (Ice Machine Safe) | Sanitize after scale treatment, reduce biological fouling | [View on Amazon](https://www.amazon.com/s?k=hoshizaki+ice+machine+sanitizer&tag=errorcodefixes-20) |
 | Ice Machine Nickel Safety Plate (Evaporator Treatment) | Reduce ice-to-evaporator bonding in hard water areas | [View on Amazon](https://www.amazon.com/s?k=nickel+safety+plate+ice+machine+evaporator&tag=errorcodefixes-20) |
 | 10K NTC Thermistor Sensor | Replace E7 evaporator sensor | [View on Amazon](https://www.amazon.com/s?k=10k+ntc+thermistor+sensor+commercial+refrigeration&tag=errorcodefixes-20) |
-| Ice Machine Float Switch (Universal) | Replace failed float switch for E2 | [View on Amazon](https://www.amazon.com/s?k=ice+machine+float+switch+universal&tag=errorcodefixes-20) |
+| Ice Machine Float Switch (Universal) | Replace failed float switch for E2 | [View on Amazon](https://www.amazon.com/dp/B005D4RFEM?tag=errorcodefixes-20) |
 | Commercial Condenser Coil Cleaner (Foam) | Deep-clean condenser for E3 faults | [View on Amazon](https://www.amazon.com/s?k=commercial+condenser+coil+cleaner+foam+hvac&tag=errorcodefixes-20) |
 
 ## When to Call a Pro

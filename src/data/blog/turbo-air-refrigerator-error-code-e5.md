@@ -2,7 +2,7 @@
 title: "Turbo Air Refrigerator Error Code E5 - What It Means and How to Fix It"
 description: "Turbo Air E5 error code indicates a condenser coil high temperature fault. Learn what causes it, how to diagnose, and what parts to replace to get your unit running."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "James Rutherford"
 tags:
   - commercial-refrigeration
   - turbo-air
@@ -82,9 +82,9 @@ If you've diagnosed a failed condenser fan motor or a faulty condenser thermisto
 
 | Part | Compatible Models | Amazon Link |
 |------|------------------|-------------|
-| Turbo Air Condenser Fan Motor (115V, 1/15 HP) | M3R, MSR, PRO series | [View on Amazon](https://www.amazon.com/s?k=turbo+air+condenser+fan+motor+commercial+refrigerator&tag=errorcodefixes-20) |
+| Turbo Air Condenser Fan Motor (115V, 1/15 HP) | M3R, MSR, PRO series | [View on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) |
 | Condenser Fan Blade (7" diameter) | M3R19, M3R23, M3R28, MSR23 | [View on Amazon](https://www.amazon.com/s?k=turbo+air+condenser+fan+blade+7+inch&tag=errorcodefixes-20) |
-| Condenser Coil Thermistor / Temperature Sensor | M3R series, TCGR series | [View on Amazon](https://www.amazon.com/s?k=turbo+air+refrigerator+thermistor+temperature+sensor&tag=errorcodefixes-20) |
+| Condenser Coil Thermistor / Temperature Sensor | M3R series, TCGR series | [View on Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) |
 | Nu-Calgon Evap Foam No Rinse Coil Cleaner | Universal | [View on Amazon](https://www.amazon.com/s?k=nu-calgon+coil+cleaner+foam&tag=errorcodefixes-20) |
 | Condenser Coil Cleaning Brush Set | Universal | [View on Amazon](https://www.amazon.com/s?k=condenser+coil+cleaning+brush+commercial+refrigerator&tag=errorcodefixes-20) |
 

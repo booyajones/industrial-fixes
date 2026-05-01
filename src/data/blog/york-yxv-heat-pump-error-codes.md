@@ -2,7 +2,7 @@
 title: "York YXV Heat Pump Error Codes - Fault Code Reference"
 description: "Complete York YXV heat pump fault code reference. All iQ Drive fault codes, communication errors, and diagnostic LEDs with step-by-step fixes."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Dana Kowalski"
 tags:
   - hvac
   - error-codes
@@ -77,10 +77,10 @@ The outdoor fan motor has failed or is not reaching the commanded speed. The YXV
 | Part | Use | Buy on Amazon |
 |------|-----|---------------|
 | Reversing Valve Solenoid Coil (24V, York compatible) | Replace failed solenoid for Fault 4-2 | [View on Amazon](https://www.amazon.com/s?k=reversing+valve+solenoid+coil+24v+heat+pump&tag=errorcodefixes-20) |
-| 10K NTC Outdoor Temperature Sensor | Replace ambient or coil sensor for Faults 2-3, 2-4 | [View on Amazon](https://www.amazon.com/s?k=10k+ntc+outdoor+temperature+sensor+hvac&tag=errorcodefixes-20) |
+| 10K NTC Outdoor Temperature Sensor | Replace ambient or coil sensor for Faults 2-3, 2-4 | [View on Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) |
 | HVAC Digital Manifold Gauge Set (R-410A) | Check refrigerant pressures for low/high pressure faults | [View on Amazon](https://www.amazon.com/s?k=r410a+manifold+gauge+set+digital+hvac&tag=errorcodefixes-20) |
 | HVAC Coil Fin Comb (multi-pitch) | Straighten bent fins after coil cleaning | [View on Amazon](https://www.amazon.com/s?k=hvac+coil+fin+comb+straightener&tag=errorcodefixes-20) |
-| Fluke 116 HVAC Multimeter | Measure voltage, amperage, and sensor resistance | [View on Amazon](https://www.amazon.com/s?k=fluke+116+hvac+multimeter&tag=errorcodefixes-20) |
+| Fluke 116 HVAC Multimeter | Measure voltage, amperage, and sensor resistance | [View on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) |
 
 ## When to Call a Pro
 

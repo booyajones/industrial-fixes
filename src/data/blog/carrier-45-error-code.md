@@ -3,7 +3,7 @@ title: "Carrier 45 Error Code — Causes & Fix"
 description: "What Carrier 45 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
 modDatetime: 2026-04-22T08:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -36,7 +36,7 @@ Carrier fault code 45 indicates a control board fault — specifically, the inte
 
 | Part | Notes |
 |------|-------|
-| Carrier integrated furnace control board | [Amazon](https://www.amazon.com/s?k=Carrier+integrated+furnace+control+board&tag=errorcodefixes-20) \| Match the part number on the existing board exactly; boards are model-specific |
+| Carrier integrated furnace control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Match the part number on the existing board exactly; boards are model-specific |
 | Surge protector (whole-house or HVAC-rated) | [Amazon](https://www.amazon.com/s?k=Surge+protector+%28whole-house+or+HVAC-rated%29&tag=errorcodefixes-20) \| Install after board replacement to prevent recurrence |
 | Wire harness connectors | [Amazon](https://www.amazon.com/s?k=Wire+harness+connectors&tag=errorcodefixes-20) \| Replace if any connectors show heat damage or corrosion |
 ## When to Call a Pro

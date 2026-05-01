@@ -3,7 +3,7 @@ title: "Yaskawa GA700 OC Fault — Overcurrent Fix"
 description: "What the Yaskawa GA700 OC overcurrent fault means, why it triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
 modDatetime: 2026-04-22T14:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

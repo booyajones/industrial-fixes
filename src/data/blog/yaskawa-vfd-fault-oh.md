@@ -3,7 +3,7 @@ title: "Yaskawa VFD Fault OH — Causes & Fix"
 description: "What Yaskawa VFD fault OH means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
 modDatetime: 2026-04-22T09:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

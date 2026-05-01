@@ -3,7 +3,7 @@ title: "Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls"
 description: "Doosan CNC machine alarm codes for Puma, DNM, and Lynx series with Fanuc 0i and 31i controls: common alarms, causes, and troubleshooting steps."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

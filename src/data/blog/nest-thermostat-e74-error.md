@@ -3,7 +3,7 @@ title: "Nest Thermostat E74 Error — Low Battery Fault"
 description: "Nest E74 means the thermostat battery is too low to operate normally. Here's how to charge it, fix the root cause, and prevent it from returning."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

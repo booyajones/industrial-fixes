@@ -3,7 +3,7 @@ title: "Carrier 33 Error Code — Causes & Fix"
 description: "What Carrier 33 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
 modDatetime: 2026-04-22T08:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -36,10 +36,10 @@ Carrier furnace fault code 33 means the limit device is open — the high-limit 
 
 | Part | Notes |
 |------|-------|
-| High-limit switch | [Amazon](https://www.amazon.com/s?k=High-limit+switch&tag=errorcodefixes-20) \| Trips on temp; test with multimeter for continuity at room temp — should be closed |
-| Rollout limit switch | [Amazon](https://www.amazon.com/s?k=Rollout+limit+switch&tag=errorcodefixes-20) \| Manual reset; if it trips repeatedly, the heat exchanger is the problem |
-| Blower run capacitor | [Amazon](https://www.amazon.com/s?k=Blower+run+capacitor&tag=errorcodefixes-20) \| Most common blower fix; costs $10–20 and takes 15 minutes |
-| Air filter (MERV 8–11) | [Amazon](https://www.amazon.com/s?k=Air+filter+%28MERV+8%E2%80%9311%29&tag=errorcodefixes-20) \| Replace every 90 days minimum |
+| High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Trips on temp; test with multimeter for continuity at room temp — should be closed |
+| Rollout limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Manual reset; if it trips repeatedly, the heat exchanger is the problem |
+| Blower run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Most common blower fix; costs $10–20 and takes 15 minutes |
+| Air filter (MERV 8–11) | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| Replace every 90 days minimum |
 ## When to Call a Pro
 
 If the rollout switch trips more than once after resetting, or if you find cracks or rust holes in the heat exchanger during inspection, stop using the furnace and call a tech. A cracked heat exchanger is a carbon monoxide hazard.

@@ -3,7 +3,7 @@ title: "Fanuc Alarm 90 — Causes & Fix"
 description: "What Fanuc alarm 90 reference return incomplete means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
 modDatetime: 2026-04-22T09:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -36,7 +36,7 @@ Fanuc alarm 90 (SV0090: REFERENCE RETURN INCOMPLETE) indicates that an axis requ
 
 | Part | Notes |
 |------|-------|
-| Reference deceleration limit switch | [Amazon](https://www.amazon.com/s?k=Reference+deceleration+limit+switch&tag=errorcodefixes-20) \| Replace if contacts are worn or switch is physically damaged |
+| Reference deceleration limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Replace if contacts are worn or switch is physically damaged |
 | Encoder cable | [Amazon](https://www.amazon.com/s?k=Encoder+cable&tag=errorcodefixes-20) \| Replace if continuity check reveals open or intermittent conductors |
 | Absolute encoder battery | [Amazon](https://www.amazon.com/s?k=Absolute+encoder+battery&tag=errorcodefixes-20) \| On absolute encoder systems, a dead battery causes position data loss and reference faults |
 ## When to Call a Pro

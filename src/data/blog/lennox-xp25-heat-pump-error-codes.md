@@ -2,7 +2,7 @@
 title: "Lennox XP25 Heat Pump Error Codes - iComfort Fault Diagnostics"
 description: "Full fault code reference for the Lennox XP25 variable-speed heat pump, covering all iComfort S30 reported numeric codes, communicating system diagnostics, and control board faults. Includes diagnosis steps and parts for homeowners and HVAC technicians."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Dana Kowalski"
 tags:
   - hvac
   - error-codes
@@ -92,10 +92,10 @@ Code 162 (compressor fault) means the iQ Drive tried to start the compressor but
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
-| [Lennox Outdoor Temperature Sensor 10W91](https://www.amazon.com/s?k=Lennox+10W91+outdoor+temperature+sensor&tag=errorcodefixes-20) | Replace on sensor faults 140, 141; clips to coil or bracket | $20–$45 |
-| [Lennox Line Temperature Sensor 47W83](https://www.amazon.com/s?k=Lennox+47W83+temperature+sensor+heat+pump&tag=errorcodefixes-20) | Discharge, suction, and liquid line sensors; faults 144, 145, 146 | $20–$45 |
-| [Lennox XP25 Control Board](https://www.amazon.com/s?k=Lennox+XP25+outdoor+control+board&tag=errorcodefixes-20) | Main outdoor board; required for persistent code 170 or EEV driver faults | $200–$450 |
-| [High Pressure Switch for Lennox Heat Pump](https://www.amazon.com/s?k=Lennox+heat+pump+high+pressure+switch&tag=errorcodefixes-20) | Trips on code 125; test continuity before replacing | $25–$60 |
+| [Lennox Outdoor Temperature Sensor 10W91](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | Replace on sensor faults 140, 141; clips to coil or bracket | $20–$45 |
+| [Lennox Line Temperature Sensor 47W83](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | Discharge, suction, and liquid line sensors; faults 144, 145, 146 | $20–$45 |
+| [Lennox XP25 Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Main outdoor board; required for persistent code 170 or EEV driver faults | $200–$450 |
+| [High Pressure Switch for Lennox Heat Pump](https://www.amazon.com/dp/B013IHQ8CU?tag=errorcodefixes-20) | Trips on code 125; test continuity before replacing | $25–$60 |
 | [iComfort S30 Smart Thermostat](https://www.amazon.com/s?k=Lennox+iComfort+S30+thermostat&tag=errorcodefixes-20) | Required for full fault code visibility on the XP25 | $200–$350 |
 | [Fin Comb HVAC Coil Cleaner Tool](https://www.amazon.com/s?k=HVAC+fin+comb+coil+cleaning+tool&tag=errorcodefixes-20) | Straighten bent fins that restrict airflow and cause high-pressure trips | $15–$30 |
 

@@ -3,7 +3,7 @@ title: "Trane 4TCC4 Mini Split Error Codes — Causes & Fix"
 description: "Trane 4TCC4 mini split error codes explained — what each code means, why it happens, and how to fix it."
 pubDatetime: 2026-04-22T15:00:00Z
 modDatetime: 2026-04-22T15:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -43,7 +43,7 @@ The Trane 4TCC4 series is Trane's single-zone ductless mini-split indoor unit, t
 |------|-------|
 | Indoor ambient thermistor | [Amazon](https://www.amazon.com/s?k=Indoor+ambient+thermistor&tag=errorcodefixes-20) \| Trane 4TCC4 OEM; verify resistance curve |
 | Indoor coil thermistor | [Amazon](https://www.amazon.com/s?k=Indoor+coil+thermistor&tag=errorcodefixes-20) \| Often sold as a kit with the ambient sensor |
-| Outdoor fan motor | [Amazon](https://www.amazon.com/s?k=Outdoor+fan+motor&tag=errorcodefixes-20) \| Match nameplate HP, RPM, and shaft size |
+| Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match nameplate HP, RPM, and shaft size |
 | Communication wire | [Amazon](https://www.amazon.com/s?k=Communication+wire&tag=errorcodefixes-20) \| 18 AWG, length to match installation |
 ## When to Call a Pro
 

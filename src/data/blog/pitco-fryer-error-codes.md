@@ -3,7 +3,7 @@ title: "Pitco Commercial Fryer Error Codes ΓÇö Guide"
 description: "Pitco commercial fryer error codes: what each means and how to fix it."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

@@ -3,7 +3,7 @@ title: "Weil-McLain ECG Boiler Error Codes — Complete Fault Guide"
 description: "Complete guide to Weil-McLain ECG series gas boiler error codes, fault causes, and step-by-step troubleshooting for the most common heating system failures."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -61,7 +61,7 @@ The Weil-McLain ECG (ECG-Series) is a cast-iron gas boiler designed for hydronic
 
 | Part | Notes |
 |------|-------|
-| Thermocouple | [Amazon](https://www.amazon.com/s?k=Thermocouple&tag=errorcodefixes-20) \| For standing pilot models; $10–20 |
+| Thermocouple | [Amazon](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) \| For standing pilot models; $10–20 |
 | Ignition module (Beckett/Honeywell) | [Amazon](https://www.amazon.com/s?k=Ignition+module+%28Beckett%2FHoneywell%29&tag=errorcodefixes-20) \| For electronic ignition lockout |
 | Circulator pump | [Amazon](https://www.amazon.com/s?k=Circulator+pump&tag=errorcodefixes-20) \| For limit trips with zone valve confirmed open |
 | Low water cutoff (LWCO) | [Amazon](https://www.amazon.com/s?k=Low+water+cutoff+%28LWCO%29&tag=errorcodefixes-20) \| For LWCO lockout with normal water level |

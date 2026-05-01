@@ -3,7 +3,7 @@ title: "Beverage-Air Refrigerator Error Code E1 — Causes & Fix"
 description: "What Beverage-Air E1 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T11:00:00Z
 modDatetime: 2026-04-22T11:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

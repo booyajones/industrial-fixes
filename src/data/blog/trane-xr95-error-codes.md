@@ -3,7 +3,7 @@ title: "Trane XR95 Furnace Error Codes — Complete Guide"
 description: "Trane XR95 furnace error codes: all LED flash codes for the 95% AFUE single-stage XR95, causes, and fixes."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -57,9 +57,9 @@ The XR95 uses a silicon nitride hot-surface igniter. Typical life is 5–10 year
 | Part | Notes |
 |------|-------|
 | Hot-surface igniter | [Amazon](https://www.amazon.com/s?k=Hot-surface+igniter&tag=errorcodefixes-20) \| Trane CNT05473 or OEM equivalent |
-| Condensate trap | [Amazon](https://www.amazon.com/s?k=Condensate+trap&tag=errorcodefixes-20) \| Trane CPT0048 or compatible |
-| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| 0.60"–0.80" WC, Trane model-specific |
-| IFC control board | [Amazon](https://www.amazon.com/s?k=IFC+control+board&tag=errorcodefixes-20) \| CNT05369 or match board label |
+| Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) \| Trane CPT0048 or compatible |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| 0.60"–0.80" WC, Trane model-specific |
+| IFC control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| CNT05369 or match board label |
 ## When to Call a Pro
 If 3-flash (high limit) or 2-flash codes repeat after cleaning the condensate trap and replacing the filter, a technician should inspect the secondary heat exchanger for scale buildup or damage. Chemical descaling of a plugged secondary coil is a service-level repair.
 

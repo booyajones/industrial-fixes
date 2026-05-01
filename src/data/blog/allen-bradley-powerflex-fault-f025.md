@@ -3,7 +3,7 @@ title: "Allen-Bradley PowerFlex Fault F025 — Causes & Fix"
 description: "What Allen-Bradley PowerFlex F025 drive overtemp fault means, why it trips, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
 modDatetime: 2026-04-22T10:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

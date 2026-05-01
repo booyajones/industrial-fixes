@@ -3,7 +3,7 @@ title: "Winterhalter Dishwasher Fault Codes ΓÇö Guide"
 description: "Winterhalter commercial dishwasher fault codes: what each means and how to fix it."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -44,7 +44,7 @@ Winterhalter is a premium German commercial dishwasher brand used in high-end re
 |------|-------|
 | Heating element | [Amazon](https://www.amazon.com/s?k=Heating+element&tag=errorcodefixes-20) \| For F3/F8 ΓÇö match voltage and kW |
 | Wash pump impeller | [Amazon](https://www.amazon.com/s?k=Wash+pump+impeller&tag=errorcodefixes-20) \| For F5 if impeller is damaged |
-| Water inlet valve | [Amazon](https://www.amazon.com/s?k=Water+inlet+valve&tag=errorcodefixes-20) \| For F1 |
+| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| For F1 |
 ## When to Call a Pro
 
 Winterhalter authorized service is recommended for F5 (wash pump) and F4 persistent temperature faults ΓÇö Winterhalter's precision construction requires factory-trained technicians for component replacement.

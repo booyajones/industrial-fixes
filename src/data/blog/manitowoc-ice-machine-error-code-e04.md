@@ -3,7 +3,7 @@ title: "Manitowoc Ice Machine E04 Error Code — Causes & Fix"
 description: "What Manitowoc E04 high condenser temperature means, why it trips, and how to fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
 modDatetime: 2026-04-22T13:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -36,8 +36,8 @@ The Manitowoc Indigo and Indigo NXT series display **E04** when the discharge (c
 
 | Part | Notes |
 |------|-------|
-| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Replace when motor doesn't run or runs slowly; verify replacement is correct CFM rating |
-| Run capacitor (condenser fan) | [Amazon](https://www.amazon.com/s?k=Run+capacitor+%28condenser+fan%29&tag=errorcodefixes-20) \| Test before replacing motor; often the capacitor fails, not the motor |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Replace when motor doesn't run or runs slowly; verify replacement is correct CFM rating |
+| Run capacitor (condenser fan) | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Test before replacing motor; often the capacitor fails, not the motor |
 | Condenser coil cleaner (Nu-Calgon) | [Amazon](https://www.amazon.com/s?k=Condenser+coil+cleaner+%28Nu-Calgon%29&tag=errorcodefixes-20) \| Use for routine cleaning every 3–6 months in commercial kitchens |
 ## When to Call a Pro
 

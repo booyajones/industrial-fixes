@@ -3,7 +3,7 @@ title: "Mr. Cool DIY Mini Split Error Codes — Complete Fault Code Guide"
 description: "Complete guide to Mr. Cool DIY mini split error codes, what each fault means, and step-by-step troubleshooting for communication, sensor, and protection faults."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -65,8 +65,8 @@ The Mr. Cool DIY is a pre-charged ductless mini split designed for homeowner ins
 | Indoor room sensor (F1) | [Amazon](https://www.amazon.com/s?k=Indoor+room+sensor+%28F1%29&tag=errorcodefixes-20) \| NTC thermistor; available from Mr. Cool parts |
 | Indoor coil sensor (F2) | [Amazon](https://www.amazon.com/s?k=Indoor+coil+sensor+%28F2%29&tag=errorcodefixes-20) \| Clip-on type; confirm sensor length |
 | Communication cable | [Amazon](https://www.amazon.com/s?k=Communication+cable&tag=errorcodefixes-20) \| 3-conductor; replace if nicked |
-| Indoor PCB | [Amazon](https://www.amazon.com/s?k=Indoor+PCB&tag=errorcodefixes-20) \| For E3 with confirmed free-spinning fan |
-| Outdoor PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB&tag=errorcodefixes-20) \| For P0 after charge and compressor confirmed |
+| Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For E3 with confirmed free-spinning fan |
+| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For P0 after charge and compressor confirmed |
 | Quick-connect line set | [Amazon](https://www.amazon.com/s?k=Quick-connect+line+set&tag=errorcodefixes-20) \| If refrigerant charge is lost via leak at connection |
 ## When to Call a Pro
 

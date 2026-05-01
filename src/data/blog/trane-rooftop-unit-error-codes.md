@@ -3,7 +3,7 @@ title: "Trane Rooftop Unit Error Codes: Common Faults Guide"
 description: "Complete guide to Trane RTU fault codes for Precedent, YCD, and YCC series units. Flash codes, alphanumeric faults, and technician fixes."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -74,12 +74,12 @@ Verify inducer motor is running. Check pressure switch hose for blockages. Measu
 
 | Part | Notes |
 |---|---|
-| [Hot surface igniter](https://www.amazon.com/s?k=Hot+surface+igniter&tag=errorcodefixes-20) | Silicon carbide — handle without skin contact |
-| [Flame sensor rod](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20) | Replace if µA reading below 1.5 µA |
-| [High-pressure switch](https://www.amazon.com/s?k=High-pressure+switch&tag=errorcodefixes-20) | 410A = 590 psi, check OEM setting |
-| [Condenser fan motor](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) | Check run capacitor first |
-| [IFC control board](https://www.amazon.com/s?k=IFC+control+board&tag=errorcodefixes-20) | Match model number exactly |
-| [Inducer motor](https://www.amazon.com/s?k=Inducer+motor&tag=errorcodefixes-20) | Check capacitor before replacing motor |
+| [Hot surface igniter](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) | Silicon carbide — handle without skin contact |
+| [Flame sensor rod](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) | Replace if µA reading below 1.5 µA |
+| [High-pressure switch](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | 410A = 590 psi, check OEM setting |
+| [Condenser fan motor](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) | Check run capacitor first |
+| [IFC control board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Match model number exactly |
+| [Inducer motor](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) | Check capacitor before replacing motor |
 
 > **Pro tip:** On Trane Precedent units, the IFC stores the last fault. After a power cycle, the board replays the fault code during startup via the diagnostic LED.
 

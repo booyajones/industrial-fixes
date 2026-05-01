@@ -3,7 +3,7 @@ title: "Navien Tankless Water Heater Error Codes — Complete Guide"
 description: "Navien error codes: all E001–E302 fault codes explained with causes and step-by-step fixes for NPE and NHB series."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

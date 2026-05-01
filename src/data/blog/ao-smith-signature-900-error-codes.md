@@ -2,7 +2,7 @@
 title: "A.O. Smith Signature 900 Tankless Water Heater Error Codes - Full Fault Guide"
 description: "Complete fault code guide for the A.O. Smith Signature 900 condensing tankless water heater, covering error codes E01 through E09, gas valve faults, heat exchanger issues, flow sensor failures, and step-by-step diagnosis. Written for homeowners and plumbing technicians."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "James Rutherford"
 tags:
   - hvac
   - error-codes
@@ -136,7 +136,7 @@ Before condemning the gas valve, inspect and reseat the harness connector at bot
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
-| [A.O. Smith Tankless Temperature Sensor 100109748](https://www.amazon.com/s?k=AO+Smith+100109748+temperature+sensor+tankless&tag=errorcodefixes-20) | Inlet and outlet sensors; codes E05, E06, 10k NTC thermistor | $20–$45 |
+| [A.O. Smith Tankless Temperature Sensor 100109748](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | Inlet and outlet sensors; codes E05, E06, 10k NTC thermistor | $20–$45 |
 | [A.O. Smith Heat Exchanger Sensor 100109749](https://www.amazon.com/s?k=AO+Smith+100109749+heat+exchanger+sensor&tag=errorcodefixes-20) | Secondary and primary HX sensors; codes E07, E08 | $20–$45 |
 | [Tankless Descaler Flush Pump Kit](https://www.amazon.com/s?k=tankless+water+heater+descaler+flush+pump+kit+vinegar&tag=errorcodefixes-20) | Critical for E04 faults in hard water areas; flush annually | $30–$65 |
 | [Igniter Electrode for AO Smith Tankless](https://www.amazon.com/s?k=AO+Smith+tankless+water+heater+igniter+electrode&tag=errorcodefixes-20) | Replace on persistent E01; check gap and ceramic insulator | $20–$50 |

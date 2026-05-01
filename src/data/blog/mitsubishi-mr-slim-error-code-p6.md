@@ -2,7 +2,7 @@
 title: "Mitsubishi Mr. Slim Error Code P6 - What It Means and How to Fix It"
 description: "Mitsubishi Mr. Slim error code P6 indicates an outdoor unit inverter or compressor protection fault. This guide covers the P6 diagnosis process, reset procedure, inverter board testing, and when compressor replacement is required."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Dana Kowalski"
 tags:
   - hvac
   - error-codes

@@ -3,7 +3,7 @@ title: "Mitsubishi FR-A800 Fault E.OC1, Overcurrent During Acceleration Fix"
 description: "What Mitsubishi FR-A800 Fault E.OC1 means, why overcurrent happens during acceleration, and how to diagnose the motor, load, and parameter causes."
 pubDatetime: 2026-04-24T23:50:00Z
 modDatetime: 2026-04-24T23:50:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

@@ -3,7 +3,7 @@ title: "Carel IR33 Controller Fault Codes - Complete Guide"
 description: "Carel IR33 refrigeration controller fault codes and alarm codes: causes, reset procedures, and repair guidance."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -50,9 +50,9 @@ HA fires when the display case temperature rises above the setpoint plus the hig
 | Part | Notes |
 |------|-------|
 | Carel NTC probe (NTC/S) | [Amazon](https://www.amazon.com/s?k=Carel+NTC+probe+%28NTC%2FS%29&tag=errorcodefixes-20) \| Replace on E1/E2/E3 |
-| Defrost heater element | [Amazon](https://www.amazon.com/s?k=Defrost+heater+element&tag=errorcodefixes-20) \| Replace on Hd alarm |
+| Defrost heater element | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) \| Replace on Hd alarm |
 | Defrost safety thermostat | [Amazon](https://www.amazon.com/s?k=Defrost+safety+thermostat&tag=errorcodefixes-20) \| Replace on Hd alarm |
-| Evaporator fan motor | [Amazon](https://www.amazon.com/s?k=Evaporator+fan+motor&tag=errorcodefixes-20) \| Replace on temperature alarms |
+| Evaporator fan motor | [Amazon](https://www.amazon.com/dp/B01N0J3ZEH?tag=errorcodefixes-20) \| Replace on temperature alarms |
 | IR33 controller | [Amazon](https://www.amazon.com/s?k=IR33+controller&tag=errorcodefixes-20) \| Replace on persistent electronics faults |
 ## When to Call a Pro
 If defrost heating is confirmed working and high temperature persists, the problem is in the refrigeration circuit (low charge, expansion valve, compressor). This requires EPA Section 608 certification for refrigerant handling.

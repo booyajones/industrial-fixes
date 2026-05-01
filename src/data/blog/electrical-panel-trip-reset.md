@@ -3,7 +3,7 @@ title: "Electrical Panel Trip and Reset Guide"
 description: "How to identify, diagnose, and reset tripped circuit breakers and electrical panel faults."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

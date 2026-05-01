@@ -3,7 +3,7 @@ title: "Daikin A3 Error Code — Causes & Fix"
 description: "What Daikin A3 error code means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
 modDatetime: 2026-04-22T09:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -37,7 +37,7 @@ Daikin error code A3 indicates a drain full or drain pump fault. The indoor unit
 | Part | Notes |
 |------|-------|
 | Condensate pump (mini) | [Amazon](https://www.amazon.com/s?k=Condensate+pump+%28mini%29&tag=errorcodefixes-20) \| Replace if pump impeller or motor is failed |
-| Float switch | [Amazon](https://www.amazon.com/s?k=Float+switch&tag=errorcodefixes-20) \| Inexpensive; replace if stuck or physically damaged |
+| Float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?tag=errorcodefixes-20) \| Inexpensive; replace if stuck or physically damaged |
 | Condensate drain line (PVC) | [Amazon](https://www.amazon.com/s?k=Condensate+drain+line+%28PVC%29&tag=errorcodefixes-20) \| Replace sections with buildup if flush doesn't clear them |
 ## When to Call a Pro
 

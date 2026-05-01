@@ -3,7 +3,7 @@ title: "Siemens SIPROTEC Protective Relay Faults: Complete Guide"
 description: "Siemens SIPROTEC relay faults and diagnostic messages. Hardware, communication, and protection faults with technician-level troubleshooting steps."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

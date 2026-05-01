@@ -3,7 +3,7 @@ title: "Rinnai Error Code 14 — Causes & Fix"
 description: "What Rinnai error code 14 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
 modDatetime: 2026-04-22T09:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

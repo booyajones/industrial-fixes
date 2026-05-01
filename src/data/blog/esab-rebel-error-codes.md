@@ -3,7 +3,7 @@ title: "ESAB Rebel EMP Error Codes — Fix Guide"
 description: "ESAB Rebel EMP multi-process welder error codes: what each code means and how to fix it."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

@@ -3,7 +3,7 @@ title: "Samsung Mini-Split E5-01 Error Code — Outdoor Coil Sensor Fault"
 description: "Samsung mini-split error code E5-01 means the outdoor coil temperature sensor is faulty. Learn causes, diagnostic steps, and how to fix Samsung E5-01."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -75,9 +75,9 @@ Samsung outdoor coil sensors are NTC thermistors:
 
 | Part | Notes |
 |---|---|
-| Outdoor coil temperature sensor | [Amazon](https://www.amazon.com/s?k=Outdoor+coil+temperature+sensor&tag=errorcodefixes-20) \| Samsung OEM — match model (10K or 15K NTC) |
+| Outdoor coil temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Samsung OEM — match model (10K or 15K NTC) |
 | Sensor mounting clip | [Amazon](https://www.amazon.com/s?k=Sensor+mounting+clip&tag=errorcodefixes-20) \| Small plastic clip on coil tube — check it's intact |
-| Outdoor PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB&tag=errorcodefixes-20) \| Only if sensor swap doesn't clear the fault |
+| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Only if sensor swap doesn't clear the fault |
 ## Reset Procedure
 
 After replacing the sensor:

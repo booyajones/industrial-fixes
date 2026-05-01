@@ -3,7 +3,7 @@ title: "Ice-O-Matic Error Code E1 — Causes & Fix"
 description: "What Ice-O-Matic Error Code E1 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
 modDatetime: 2026-04-22T14:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -36,7 +36,7 @@ Error Code E1 on Ice-O-Matic commercial ice machines indicates a harvest cycle f
 
 | Part | Notes |
 |------|-------|
-| Harvest assist hot gas valve | [Amazon](https://www.amazon.com/s?k=Harvest+assist+hot+gas+valve&tag=errorcodefixes-20) \| Replace if coil is open or valve is stuck closed |
+| Harvest assist hot gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Replace if coil is open or valve is stuck closed |
 | Ice-O-Matic Nickel-Safe Cleaner | [Amazon](https://www.amazon.com/s?k=Ice-O-Matic+Nickel-Safe+Cleaner&tag=errorcodefixes-20) \| Descale quarterly or more in hard water areas |
 | Refrigerant (R-404A / R-448A) | [Amazon](https://www.amazon.com/s?k=Refrigerant+%28R-404A+%2F+R-448A%29&tag=errorcodefixes-20) \| After finding and repairing the leak |
 ## When to Call a Pro

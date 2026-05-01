@@ -3,7 +3,7 @@ title: "Mitsubishi Mr. Slim Error Codes: Complete Guide"
 description: "Complete Mitsubishi Mr. Slim error code guide. Covers all P, E, and U-series fault codes for commercial Mr. Slim PUHZ, PEA, and PKAA series units."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -96,9 +96,9 @@ The most common Mr. Slim multi-zone fault:
 
 | Part | Notes |
 |---|---|
-| [Indoor pipe temperature sensor](https://www.amazon.com/s?k=Indoor+pipe+temperature+sensor&tag=errorcodefixes-20) | Part varies by model — 10K or 5K thermistor |
+| [Indoor pipe temperature sensor](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | Part varies by model — 10K or 5K thermistor |
 | [EEV coil](https://www.amazon.com/s?k=EEV+coil&tag=errorcodefixes-20) | Model-specific — match wiring harness |
-| [Indoor PCB](https://www.amazon.com/s?k=Indoor+PCB&tag=errorcodefixes-20) | Match part number from unit nameplate |
+| [Indoor PCB](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Match part number from unit nameplate |
 | [Outdoor inverter PCB](https://www.amazon.com/s?k=Outdoor+inverter+PCB&tag=errorcodefixes-20) | High-value part — verify fault before replacing |
 | [Condensate pump](https://www.amazon.com/s?k=Condensate+pump&tag=errorcodefixes-20) | Fits PCA/PKAA ceiling cassette models |
 | [Fan capacitor](https://www.amazon.com/s?k=Fan+capacitor&tag=errorcodefixes-20) | Indoor or outdoor — match µF |

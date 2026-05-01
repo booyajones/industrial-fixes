@@ -3,7 +3,7 @@ title: "Nidec (Leroy-Somer) VFD Fault Codes — Complete Guide"
 description: "Nidec VFD fault codes for Leroy-Somer VARMECA, IMfinity, and Nidec Commander series drives: fault codes, causes, and step-by-step fixes."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

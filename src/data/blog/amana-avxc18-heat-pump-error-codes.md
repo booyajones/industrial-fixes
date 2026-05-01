@@ -2,7 +2,7 @@
 title: "Amana AVXC18 Heat Pump Error Codes - Communicating System Fault Guide"
 description: "Complete fault guide for the Amana AVXC18 variable-capacity heat pump, covering communicating system codes, control board faults, reversing valve issues, and refrigerant diagnostics. Includes practical repair steps and parts guidance for homeowners and HVAC technicians."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Dana Kowalski"
 tags:
   - hvac
   - error-codes
@@ -132,9 +132,9 @@ If these codes repeat, you need real electrical and refrigerant diagnosis. Guess
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
 | [Goodman Amana Outdoor Thermistor 0130M00068](https://www.amazon.com/s?k=Goodman+Amana+0130M00068+thermistor&tag=errorcodefixes-20) | Replaces failed outdoor temperature sensors for L5 through L8 faults | $15–$35 |
-| [Amana AVXC18 Outdoor Control Board](https://www.amazon.com/s?k=Amana+AVXC18+outdoor+control+board&tag=errorcodefixes-20) | Needed for repeated memory, communication, or board-level inverter faults | $180–$420 |
+| [Amana AVXC18 Outdoor Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Needed for repeated memory, communication, or board-level inverter faults | $180–$420 |
 | [Heat Pump Reversing Valve Solenoid Coil 24V](https://www.amazon.com/s?k=heat+pump+reversing+valve+solenoid+24V+coil&tag=errorcodefixes-20) | Fixes common H4 electrical faults when the valve coil burns open | $20–$45 |
-| [Amana or Goodman ECM Outdoor Fan Motor](https://www.amazon.com/s?k=Amana+Goodman+ECM+outdoor+fan+motor+heat+pump&tag=errorcodefixes-20) | Replaces failed outdoor fan motor causing H3 and secondary pressure faults | $120–$320 |
+| [Amana or Goodman ECM Outdoor Fan Motor](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) | Replaces failed outdoor fan motor causing H3 and secondary pressure faults | $120–$320 |
 | [ComfortNet Thermostat](https://www.amazon.com/s?k=ComfortNet+thermostat+Amana+Goodman&tag=errorcodefixes-20) | Gives full communicating diagnostics and proper control logic for AVXC18 systems | $120–$260 |
 | [R-410A Leak Detection Kit](https://www.amazon.com/s?k=R-410A+refrigerant+leak+detection+kit&tag=errorcodefixes-20) | Helps locate leaks when repeated L2 faults point to low charge | $20–$60 |
 

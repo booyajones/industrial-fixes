@@ -3,7 +3,7 @@ title: "ABB VFD Fault Codes — ACS550, ACS880, ACS310 Reference"
 description: "ABB VFD fault codes: complete reference for ACS310, ACS355, ACS550, ACS580, and ACS880 drives including 3130, 3210, and overcurrent faults."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

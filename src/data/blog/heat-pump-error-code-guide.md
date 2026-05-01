@@ -3,7 +3,7 @@ title: "Heat Pump Error Codes: All Brands Guide"
 description: "Complete guide to heat pump error codes across Carrier, Trane, Lennox, Goodman, Rheem, Daikin, Mitsubishi, and other major brands."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -55,9 +55,9 @@ Variable-speed heat pumps will often throw discharge temp, sensor, or drive prot
 | Item | Notes |
 |------|-------|
 | Defrost board | [Amazon](https://www.amazon.com/s?k=Defrost+board&tag=errorcodefixes-20) \| Common on standard split heat pumps |
-| Defrost sensor | [Amazon](https://www.amazon.com/s?k=Defrost+sensor&tag=errorcodefixes-20) \| Cheap but important |
-| Run capacitor | [Amazon](https://www.amazon.com/s?k=Run+capacitor&tag=errorcodefixes-20) \| Still common on non-inverter systems |
-| Contactor | [Amazon](https://www.amazon.com/s?k=Contactor&tag=errorcodefixes-20) \| Voltage drop and no-start complaints |
+| Defrost sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Cheap but important |
+| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Still common on non-inverter systems |
+| Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Voltage drop and no-start complaints |
 | Thermistors | [Amazon](https://www.amazon.com/s?k=Thermistors&tag=errorcodefixes-20) \| Frequent on inverter units |
 | Coil cleaner | [Amazon](https://www.amazon.com/s?k=Coil+cleaner&tag=errorcodefixes-20) \| Essential before condemning parts |
 ## When to Call a Pro

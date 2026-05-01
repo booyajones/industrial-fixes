@@ -3,7 +3,7 @@ title: "Watlow PM6 Temperature Controller Error Codes: Complete Guide"
 description: "Watlow PM6 temperature controller error codes and fault messages. Error causes and technician-level troubleshooting for industrial thermal systems."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -49,7 +49,7 @@ PM6 auto-tune uses relay output switching to identify process dynamics. During a
 
 | Part | Notes |
 |------|-------|
-| Thermocouple (Type K/J/T) | [Amazon](https://www.amazon.com/s?k=Thermocouple+%28Type+K%2FJ%2FT%29&tag=errorcodefixes-20) \| Match existing sensor type |
+| Thermocouple (Type K/J/T) | [Amazon](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) \| Match existing sensor type |
 | RTD sensor (Pt100) | [Amazon](https://www.amazon.com/s?k=RTD+sensor+%28Pt100%29&tag=errorcodefixes-20) \| For RTD input PM6 versions |
 | Solid-state relay | [Amazon](https://www.amazon.com/s?k=Solid-state+relay&tag=errorcodefixes-20) \| Match output type (SSR for current output) |
 | Mechanical relay | [Amazon](https://www.amazon.com/s?k=Mechanical+relay&tag=errorcodefixes-20) \| For relay output versions |

@@ -3,7 +3,7 @@ title: "Heidenhain iTNC 530 Error Codes: Complete Guide"
 description: "Heidenhain iTNC 530 CNC control error codes and diagnostics. Error categories, causes, and technician-level troubleshooting."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

@@ -3,7 +3,7 @@ title: "UV Air Purifier Error Codes Guide — HVAC UV Systems"
 description: "UV air purifier error codes for common HVAC UV systems including Honeywell UV, Fresh-Aire UV, Sanuvox, and Ultravation: fault codes, lamp failure indicators, and fixes."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

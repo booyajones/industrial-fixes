@@ -3,7 +3,7 @@ title: "Fujitsu Mini-Split Error Code E9 — Refrigerant Circuit Fault"
 description: "Fujitsu mini-split Error Code E9 means a refrigerant circuit abnormality or electronic expansion valve fault. Learn causes, diagnosis, and how to fix Fujitsu E9."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -85,7 +85,7 @@ When E9 is displayed on an older model without a digital display:
 |---|---|
 | EEV coil (stepper motor coil) | [Amazon](https://www.amazon.com/s?k=EEV+coil+%28stepper+motor+coil%29&tag=errorcodefixes-20) \| Fujitsu OEM — match connector and winding resistance |
 | EEV valve body | [Amazon](https://www.amazon.com/s?k=EEV+valve+body&tag=errorcodefixes-20) \| Replace as assembly if mechanically stuck |
-| Outdoor PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB&tag=errorcodefixes-20) \| Last resort — expensive; verify all other causes first |
+| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Last resort — expensive; verify all other causes first |
 ## Reset Procedure
 
 After fixing the EEV coil or wiring:

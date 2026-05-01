@@ -3,7 +3,7 @@ title: "Carrier 13 Soft Lockout — What's Different from Hard Lockout"
 description: "Carrier fault code 13 is a soft lockout, not a hard lockout. Learn what triggers it, how it differs from code 31, and how to clear it without a service call."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -53,10 +53,10 @@ The limit switch opens when the furnace heat exchanger overheats. Common trigger
 
 | Part | Why | Avg. Cost |
 |---|---|---|
-| Air filter (MERV 8–11) | Primary fix | [Amazon](https://www.amazon.com/s?k=Air+filter+%28MERV+8%E2%80%9311%29&tag=errorcodefixes-20) \| $10–25 |
-| Limit switch | If switch fails open | [Amazon](https://www.amazon.com/s?k=Limit+switch&tag=errorcodefixes-20) \| $20–50 |
+| Air filter (MERV 8–11) | Primary fix | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| $10–25 |
+| Limit switch | If switch fails open | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| $20–50 |
 | Blower motor | If not running properly | [Amazon](https://www.amazon.com/s?k=Blower+motor&tag=errorcodefixes-20) \| $150–400 |
-| IFC board | If it keeps locking out incorrectly | [Amazon](https://www.amazon.com/s?k=IFC+board&tag=errorcodefixes-20) \| $100–300 |
+| IFC board | If it keeps locking out incorrectly | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| $100–300 |
 ## When to Call a Pro
 
 If code 13 clears but returns within one heating cycle, you have an airflow problem deeper than a dirty filter. A tech needs to measure static pressure. If you see code 13 followed by code 31, the system has progressed to hard lockout — stop running it and get it inspected for a cracked heat exchanger.

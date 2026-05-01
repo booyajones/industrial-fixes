@@ -3,7 +3,7 @@ title: "Noritz Error Code 20 — Low Water Flow"
 description: "Noritz tankless water heater Error Code 20 means low water flow or a water flow sensor fault. Learn causes, diagnostic steps, and how to fix Noritz Error 20."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

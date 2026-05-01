@@ -3,7 +3,7 @@ title: "Haas Alarm 121 — ATC Arm Fault"
 description: "Haas Alarm 121 means the automatic tool changer arm failed to complete its motion correctly. Learn the causes and how to fix Haas Alarm 121."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

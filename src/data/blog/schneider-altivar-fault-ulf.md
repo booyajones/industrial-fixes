@@ -3,7 +3,7 @@ title: "Schneider Altivar Fault ULF — Causes & Fix"
 description: "What Schneider Altivar VFD fault code ULF means, why motor underload trips, and how to diagnose and configure it."
 pubDatetime: 2026-04-22T11:00:00Z
 modDatetime: 2026-04-22T11:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

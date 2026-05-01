@@ -3,7 +3,7 @@ title: "ICP Furnace E4 Error Code — Causes & Fix"
 description: "What ICP/Heil furnace E4 means, why the limit circuit opens, and how to fix it step by step."
 pubDatetime: 2026-04-22T10:00:00Z
 modDatetime: 2026-04-22T10:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -36,10 +36,10 @@ E4 on an ICP furnace (International Comfort Products — the parent platform for
 
 | Part | Notes |
 |------|-------|
-| Air filter | [Amazon](https://www.amazon.com/s?k=Air+filter&tag=errorcodefixes-20) \| Always first check on E4 |
-| High-limit switch | [Amazon](https://www.amazon.com/s?k=High-limit+switch&tag=errorcodefixes-20) \| Auto or manual reset; verify trip temperature matches OEM spec |
-| Rollout limit switch | [Amazon](https://www.amazon.com/s?k=Rollout+limit+switch&tag=errorcodefixes-20) \| Manual reset only; replace if reset button does not hold |
-| Blower run capacitor | [Amazon](https://www.amazon.com/s?k=Blower+run+capacitor&tag=errorcodefixes-20) \| Inexpensive first test before replacing the blower motor |
+| Air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| Always first check on E4 |
+| High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Auto or manual reset; verify trip temperature matches OEM spec |
+| Rollout limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Manual reset only; replace if reset button does not hold |
+| Blower run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Inexpensive first test before replacing the blower motor |
 ## When to Call a Pro
 
 A tripped rollout switch indicates flames are escaping the burner box — potentially caused by a cracked heat exchanger or blocked flue. Do not operate the furnace after a rollout trip until a licensed technician inspects the heat exchanger and venting for safety.

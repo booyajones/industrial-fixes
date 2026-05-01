@@ -74,7 +74,7 @@ This guide covers the four most common Rheem heat pump error codes and what to d
 6. Replace the sensor. Outdoor coil sensors are typically inexpensive (under $25) and straightforward to replace — the hardest part is routing the new wire through the outdoor unit cabinet.
 
 **Parts:**
-- [Rheem Outdoor Coil Sensor / NTC Thermistor](https://www.amazon.com/s?k=Rheem+outdoor+coil+temperature+sensor+thermistor+RA14+RA15&tag=errorcodefixes-20)
+- [Rheem Outdoor Coil Sensor / NTC Thermistor](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20)
 
 ---
 
@@ -98,8 +98,8 @@ This guide covers the four most common Rheem heat pump error codes and what to d
 5. In heating mode, E4 can occur if the outdoor ambient is extremely cold and the defrost cycle is not functioning correctly — causing ice buildup that blocks airflow.
 
 **Parts:**
-- [High Pressure Switch for R-410A Heat Pump](https://www.amazon.com/s?k=high+pressure+switch+R410A+heat+pump+replacement&tag=errorcodefixes-20)
-- [Condenser Fan Motor Capacitor 5/45 MFD](https://www.amazon.com/s?k=condenser+fan+motor+capacitor+5+45+mfd+heat+pump&tag=errorcodefixes-20)
+- [High Pressure Switch for R-410A Heat Pump](https://www.amazon.com/dp/B013IHQ8CU?tag=errorcodefixes-20)
+- [Condenser Fan Motor Capacitor 5/45 MFD](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20)
 
 ---
 
@@ -123,8 +123,8 @@ This guide covers the four most common Rheem heat pump error codes and what to d
 5. Do not simply add refrigerant to a system without finding and repairing the leak — it is illegal (EPA Section 608) and will only delay the inevitable compressor failure.
 
 **Parts:**
-- [Low Pressure Switch R-410A Heat Pump](https://www.amazon.com/s?k=low+pressure+switch+R410A+heat+pump+HVAC&tag=errorcodefixes-20)
-- [Pleated Air Filter MERV 11 (various sizes)](https://www.amazon.com/s?k=pleated+air+filter+MERV+11+furnace+heat+pump&tag=errorcodefixes-20)
+- [Low Pressure Switch R-410A Heat Pump](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20)
+- [Pleated Air Filter MERV 11 (various sizes)](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20)
 
 ---
 
@@ -134,9 +134,9 @@ This guide covers the four most common Rheem heat pump error codes and what to d
 |------|-------------|-------------|
 | Indoor Coil Sensor (NTC) | $15–$30 | [Amazon](https://www.amazon.com/s?k=Rheem+heat+pump+coil+thermistor+sensor&tag=errorcodefixes-20) |
 | Outdoor Coil Sensor (NTC) | $15–$30 | [Amazon](https://www.amazon.com/s?k=Rheem+outdoor+unit+coil+thermistor&tag=errorcodefixes-20) |
-| Condenser Fan Motor Capacitor | $15–$40 | [Amazon](https://www.amazon.com/s?k=dual+run+capacitor+heat+pump+condenser+fan&tag=errorcodefixes-20) |
-| Condenser Fan Motor | $80–$200 | [Amazon](https://www.amazon.com/s?k=Rheem+condenser+fan+motor+replacement&tag=errorcodefixes-20) |
-| High / Low Pressure Switch | $20–$50 | [Amazon](https://www.amazon.com/s?k=Rheem+heat+pump+pressure+switch+R410A&tag=errorcodefixes-20) |
+| Condenser Fan Motor Capacitor | $15–$40 | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) |
+| Condenser Fan Motor | $80–$200 | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) |
+| High / Low Pressure Switch | $20–$50 | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) |
 
 ---
 

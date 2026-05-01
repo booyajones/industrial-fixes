@@ -3,7 +3,7 @@ title: "Bradford White Water Heater Error Codes Guide"
 description: "Complete Bradford White water heater error code guide. Covers Infiniti, eF, and Defender series fault codes with diagnostic steps and technician fixes."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -79,7 +79,7 @@ Electric models use a simple reset system:
 | Part | Notes |
 |---|---|
 | [Thermopile](https://www.amazon.com/s?k=Thermopile&tag=errorcodefixes-20) | Match model — Bradford White uses 36" leads on most models |
-| [Temperature sensor](https://www.amazon.com/s?k=Temperature+sensor&tag=errorcodefixes-20) | NTC thermistor — model-specific resistance |
+| [Temperature sensor](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | NTC thermistor — model-specific resistance |
 | [Igniter](https://www.amazon.com/s?k=Igniter&tag=errorcodefixes-20) | Check spark gap (3/16" typical) |
 | [High-limit thermostat](https://www.amazon.com/s?k=High-limit+thermostat&tag=errorcodefixes-20) | Match temp rating to tank specification |
 | [Heating element](https://www.amazon.com/s?k=Heating+element&tag=errorcodefixes-20) | Check wattage and voltage rating |

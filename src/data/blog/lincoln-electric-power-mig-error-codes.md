@@ -3,7 +3,7 @@ title: "Lincoln Electric Power MIG Error Codes — Fix Guide"
 description: "Lincoln Electric Power MIG welder error codes: what each code means and how to fix it."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -49,7 +49,7 @@ Short circuit at the output. Inspect gun, cable, and nozzle/tip for shorts. Powe
 | Part | Notes |
 |------|-------|
 | MIG gun | [Amazon](https://www.amazon.com/s?k=MIG+gun&tag=errorcodefixes-20) \| Replace if internal cable short found |
-| Input/output contactor | [Amazon](https://www.amazon.com/s?k=Input%2Foutput+contactor&tag=errorcodefixes-20) \| Match to Power MIG model |
+| Input/output contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Match to Power MIG model |
 | Interconnect cable (feeder to PS) | [Amazon](https://www.amazon.com/s?k=Interconnect+cable+%28feeder+to+PS%29&tag=errorcodefixes-20) \| For E20 |
 ## When to Call a Pro
 

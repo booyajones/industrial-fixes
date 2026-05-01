@@ -3,7 +3,7 @@ title: "A.O. Smith Water Heater E1 Error Code — Sensor Fault Guide"
 description: "A.O. Smith water heater E1 error means a temperature sensor fault. This guide covers gas and electric models, sensor testing, and how to fix or replace the sensor."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -93,9 +93,9 @@ Don't ignore E1 — a $25–50 sensor replacement avoids a potential burnout of 
 
 | Part | Cost |
 |---|---|
-| [NTC temperature sensor (universal)](https://www.amazon.com/s?k=NTC+temperature+sensor+%28universal%29&tag=errorcodefixes-20) | $15–30 |
+| [NTC temperature sensor (universal)](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | $15–30 |
 | [A.O. Smith OEM sensor](https://www.amazon.com/s?k=A.O.+Smith+OEM+sensor&tag=errorcodefixes-20) | $25–60 |
-| [Control board (if sensor input failed)](https://www.amazon.com/s?k=Control+board+%28if+sensor+input+failed%29&tag=errorcodefixes-20) | $100–250 |
+| [Control board (if sensor input failed)](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | $100–250 |
 
 ## Related Articles
 

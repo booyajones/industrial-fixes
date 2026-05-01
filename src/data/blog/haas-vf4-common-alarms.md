@@ -3,7 +3,7 @@ title: "Haas VF-4 Common Alarms Guide — What They Mean and How to Fix Them"
 description: "Complete guide to common Haas VF-4 alarms, including spindle, tool changer, axis, and overtravel faults with practical troubleshooting steps."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

@@ -3,7 +3,7 @@ title: "Gree Mini Split E1 Error Code — Causes & Fix"
 description: "What Gree mini split error code E1 means, why high pressure protection trips, and how to diagnose and fix it."
 pubDatetime: 2026-04-22T11:00:00Z
 modDatetime: 2026-04-22T11:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -39,8 +39,8 @@ E1 on a Gree mini split indicates high pressure protection. The system detected 
 | Part | Notes |
 |------|-------|
 | Condenser fan capacitor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+capacitor&tag=errorcodefixes-20) \| Replace if fan hums but does not start |
-| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Replace if motor has failed open or bearing is seized |
-| High pressure switch | [Amazon](https://www.amazon.com/s?k=High+pressure+switch&tag=errorcodefixes-20) \| Replace if switch opens below rated pressure cutout |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Replace if motor has failed open or bearing is seized |
+| High pressure switch | [Amazon](https://www.amazon.com/dp/B013IHQ8CU?tag=errorcodefixes-20) \| Replace if switch opens below rated pressure cutout |
 | Refrigerant (R-410A) | [Amazon](https://www.amazon.com/s?k=Refrigerant+%28R-410A%29&tag=errorcodefixes-20) \| Adjust charge only with manifold gauges by a certified technician |
 ## When to Call a Pro
 

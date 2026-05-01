@@ -3,7 +3,7 @@ title: "Trane XR90 Furnace Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Trane XR90 furnace error codes, LED flash sequences, common fault causes, and step-by-step repair procedures for HVAC technicians."
 pubDatetime: 2026-04-22T23:00:00Z
 modDatetime: 2026-04-22T23:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -55,11 +55,11 @@ The Trane XR90 is a single-stage 90% AFUE gas furnace with a PSC (permanent spli
 
 | Part | Notes |
 |---|---|
-| Hot surface igniter | [Amazon](https://www.amazon.com/s?k=Hot+surface+igniter&tag=errorcodefixes-20) \| Norton 601, silicon carbide; fragile — don't touch the ceramic |
-| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Rod-type; clean with steel wool before replacing |
-| Inducer motor capacitor | [Amazon](https://www.amazon.com/s?k=Inducer+motor+capacitor&tag=errorcodefixes-20) \| 5 or 7.5 µF; measure before replacing motor |
-| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Two switches on some XR90 versions (high and low) |
-| High-limit switch | [Amazon](https://www.amazon.com/s?k=High-limit+switch&tag=errorcodefixes-20) \| L200°F on most XR90 configurations |
+| Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Norton 601, silicon carbide; fragile — don't touch the ceramic |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Rod-type; clean with steel wool before replacing |
+| Inducer motor capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| 5 or 7.5 µF; measure before replacing motor |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Two switches on some XR90 versions (high and low) |
+| High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| L200°F on most XR90 configurations |
 | Blower capacitor | [Amazon](https://www.amazon.com/s?k=Blower+capacitor&tag=errorcodefixes-20) \| PSC blower motor; dedicated capacitor |
 ## When to Call a Pro
 

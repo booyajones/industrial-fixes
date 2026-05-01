@@ -55,10 +55,10 @@ This code applies to Daikin's wall-mount, floor console, ceiling cassette, and d
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|-------------|
-| Daikin Indoor Fan Motor (BLDC or AC) | $100–$250 | [Amazon](https://www.amazon.com/s?k=Daikin+indoor+fan+motor+mini+split+replacement&tag=errorcodefixes-20) |
-| Run Capacitor (fan motor, various uF) | $8–$25 | [Amazon](https://www.amazon.com/s?k=run+capacitor+HVAC+fan+motor+5uf+7.5uf&tag=errorcodefixes-20) |
-| Daikin Indoor Control Board (PCB) | $120–$350 | [Amazon](https://www.amazon.com/s?k=Daikin+indoor+unit+control+board+PCB+replacement&tag=errorcodefixes-20) |
-| Capacitance Meter / Multimeter | $20–$60 | [Amazon](https://www.amazon.com/s?k=capacitance+meter+multimeter+HVAC&tag=errorcodefixes-20) |
+| Daikin Indoor Fan Motor (BLDC or AC) | $100–$250 | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) |
+| Run Capacitor (fan motor, various uF) | $8–$25 | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) |
+| Daikin Indoor Control Board (PCB) | $120–$350 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) |
+| Capacitance Meter / Multimeter | $20–$60 | [Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) |
 
 ## When to Call a Technician
 

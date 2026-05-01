@@ -2,7 +2,7 @@
 title: "How to Replace an HVAC Contactor - Step-by-Step DIY Guide"
 description: "The contactor is one of the most common failure points in an AC or heat pump outdoor unit. This step-by-step guide covers how to test, size, and replace an HVAC contactor safely — including wiring, safety steps, and testing after installation."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Marcus Webb"
 tags:
   - hvac
   - error-codes
@@ -125,11 +125,11 @@ Double-check every wire against your photos. Confirm no wires are crossed betwee
 
 | Part | What It Fixes | Amazon Link |
 |------|--------------|-------------|
-| 2-Pole 30A 24V Contactor (most common residential) | Standard AC/heat pump contactor replacement | [View on Amazon](https://www.amazon.com/s?k=2+pole+30+amp+24v+ac+contactor+hvac&tag=errorcodefixes-20) |
-| 2-Pole 40A 24V Contactor (larger systems) | Higher-capacity systems | [View on Amazon](https://www.amazon.com/s?k=2+pole+40+amp+24v+contactor+hvac&tag=errorcodefixes-20) |
-| 1-Pole 30A 24V Contactor (older systems) | Single-pole configuration replacement | [View on Amazon](https://www.amazon.com/s?k=1+pole+30+amp+24v+hvac+contactor&tag=errorcodefixes-20) |
+| 2-Pole 30A 24V Contactor (most common residential) | Standard AC/heat pump contactor replacement | [View on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) |
+| 2-Pole 40A 24V Contactor (larger systems) | Higher-capacity systems | [View on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) |
+| 1-Pole 30A 24V Contactor (older systems) | Single-pole configuration replacement | [View on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) |
 | Non-Contact Voltage Tester | Verifying power is off before working | [View on Amazon](https://www.amazon.com/s?k=non+contact+voltage+tester+hvac&tag=errorcodefixes-20) |
-| Digital Multimeter | Testing contactor coil and contacts | [View on Amazon](https://www.amazon.com/s?k=digital+multimeter+hvac+electrician&tag=errorcodefixes-20) |
+| Digital Multimeter | Testing contactor coil and contacts | [View on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) |
 | Insulated Screwdriver Set | Safe work on electrical components | [View on Amazon](https://www.amazon.com/s?k=insulated+screwdriver+set+electrical&tag=errorcodefixes-20) |
 
 ---

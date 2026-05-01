@@ -3,7 +3,7 @@ title: "Omron CP1H PLC Error Codes Guide"
 description: "Omron CP1H PLC error indicators, fatal/non-fatal faults, and CPU error codes explained. Learn how to read ERR/ALM LEDs and diagnose faults in CX-Programmer."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

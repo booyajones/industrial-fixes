@@ -3,7 +3,7 @@ title: "Burnham Series 2 Boiler Error Codes: Complete Guide"
 description: "Burnham Series 2 boiler error codes and fault diagnostics. Fault codes, lockout causes, and technician-level troubleshooting for Series 2 cast iron boilers."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -48,7 +48,7 @@ On oil-fired Series 2 units with Beckett burner: check oil tank level, oil filte
 
 | Part | Notes |
 |------|-------|
-| Flame sensor (gas) | [Amazon](https://www.amazon.com/s?k=Flame+sensor+%28gas%29&tag=errorcodefixes-20) \| Clean first ΓÇö measure ┬╡A |
+| Flame sensor (gas) | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Clean first ΓÇö measure ┬╡A |
 | Oil burner nozzle | [Amazon](https://www.amazon.com/s?k=Oil+burner+nozzle&tag=errorcodefixes-20) \| Replace annually |
 | Ignition transformer | [Amazon](https://www.amazon.com/s?k=Ignition+transformer&tag=errorcodefixes-20) \| Check spark at electrode |
 | Circulator pump | [Amazon](https://www.amazon.com/s?k=Circulator+pump&tag=errorcodefixes-20) \| Check for seized impeller |

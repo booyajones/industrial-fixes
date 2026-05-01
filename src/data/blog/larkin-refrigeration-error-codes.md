@@ -3,7 +3,7 @@ title: "Larkin Refrigeration Error Code Guide — Causes & Fixes"
 description: "Larkin unit cooler error codes: what each alarm means and how to fix it."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -48,9 +48,9 @@ Replace NTC air temperature sensor if resistance is out of spec (open or near-ze
 
 | Part | Notes |
 |------|-------|
-| Evaporator fan motor | [Amazon](https://www.amazon.com/s?k=Evaporator+fan+motor&tag=errorcodefixes-20) \| Match to Larkin unit cooler model and voltage |
-| NTC temperature sensor | [Amazon](https://www.amazon.com/s?k=NTC+temperature+sensor&tag=errorcodefixes-20) \| Larkin/Heatcraft part |
-| Defrost heater | [Amazon](https://www.amazon.com/s?k=Defrost+heater&tag=errorcodefixes-20) \| Match wattage and voltage |
+| Evaporator fan motor | [Amazon](https://www.amazon.com/dp/B01N0J3ZEH?tag=errorcodefixes-20) \| Match to Larkin unit cooler model and voltage |
+| NTC temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Larkin/Heatcraft part |
+| Defrost heater | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) \| Match wattage and voltage |
 ## When to Call a Pro
 
 Pressure alarms (3 and 4) require EPA 608 certified technician for refrigerant diagnosis and repair.

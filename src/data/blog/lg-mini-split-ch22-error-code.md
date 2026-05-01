@@ -115,9 +115,9 @@ If the motor tests electrically healthy and spins freely by hand, reconnect powe
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|-------------|
-| LG Indoor Fan Motor (blower motor) | $80–$180 | [Amazon](https://www.amazon.com/s?k=LG+mini+split+indoor+blower+fan+motor+replacement&tag=errorcodefixes-20) |
-| Indoor Unit Control Board | $120–$280 | [Amazon](https://www.amazon.com/s?k=LG+mini+split+indoor+control+board+replacement&tag=errorcodefixes-20) |
-| Fan Motor Run Capacitor | $10–$25 | [Amazon](https://www.amazon.com/s?k=fan+motor+run+capacitor+mini+split+HVAC&tag=errorcodefixes-20) |
+| LG Indoor Fan Motor (blower motor) | $80–$180 | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) |
+| Indoor Unit Control Board | $120–$280 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) |
+| Fan Motor Run Capacitor | $10–$25 | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) |
 | LG Fan Wheel / Squirrel Cage | $40–$100 | [Amazon](https://www.amazon.com/s?k=LG+mini+split+indoor+fan+wheel+squirrel+cage&tag=errorcodefixes-20) |
 
 ---

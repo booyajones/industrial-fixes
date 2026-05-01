@@ -3,7 +3,7 @@ title: "York Rooftop Unit Error Codes: Technician Guide"
 description: "Complete York RTU error code guide for Predator, Affinity, and ZF series. Flash codes, alphanumeric faults, and field fixes for commercial rooftop units."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -83,12 +83,12 @@ Dirty filter is the number-one cause. Check:
 
 | Part | Notes |
 |---|---|
-| Hot surface igniter | [Amazon](https://www.amazon.com/s?k=Hot+surface+igniter&tag=errorcodefixes-20) \| Silicon carbide — handle with gloves |
-| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Measure µA output; replace below 1.5 µA |
-| Limit switch | [Amazon](https://www.amazon.com/s?k=Limit+switch&tag=errorcodefixes-20) \| Match temperature rating |
-| Run capacitor | [Amazon](https://www.amazon.com/s?k=Run+capacitor&tag=errorcodefixes-20) \| Check µF before condemning motor |
-| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| High or low side — match setting |
-| IFC board | [Amazon](https://www.amazon.com/s?k=IFC+board&tag=errorcodefixes-20) \| York part number varies by model year |
+| Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Silicon carbide — handle with gloves |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Measure µA output; replace below 1.5 µA |
+| Limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Match temperature rating |
+| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Check µF before condemning motor |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| High or low side — match setting |
+| IFC board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| York part number varies by model year |
 > **Note:** York, Luxaire, and Coleman commercial RTUs share the same IFC control boards and fault codes. Parts are fully interchangeable across brands.
 
 ## Related Articles

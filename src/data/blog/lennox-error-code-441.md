@@ -3,7 +3,7 @@ title: "Lennox Error Code 441 — Limit Device Fault"
 description: "Lennox error code 441 signals a limit device has opened during operation. This guide covers which limit tripped, why, and how to fix it without replacing parts unnecessarily."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -71,9 +71,9 @@ The limit switch is doing its job — something is causing the heat exchanger to
 
 | Part | Cost |
 |---|---|
-| Air filter (MERV 8–11) | [Amazon](https://www.amazon.com/s?k=Air+filter+%28MERV+8%E2%80%9311%29&tag=errorcodefixes-20) \| $10–30 |
-| Blower motor run capacitor | [Amazon](https://www.amazon.com/s?k=Blower+motor+run+capacitor&tag=errorcodefixes-20) \| $15–40 |
-| High-limit switch (OEM) | [Amazon](https://www.amazon.com/s?k=High-limit+switch+%28OEM%29&tag=errorcodefixes-20) \| $30–70 |
+| Air filter (MERV 8–11) | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| $10–30 |
+| Blower motor run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| $15–40 |
+| High-limit switch (OEM) | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| $30–70 |
 | Blower motor | [Amazon](https://www.amazon.com/s?k=Blower+motor&tag=errorcodefixes-20) \| $150–400 |
 ## Lennox iComfort Codes Related to 441
 

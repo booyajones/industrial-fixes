@@ -46,10 +46,10 @@ If the gas valve is not opening (no gas smell, no ignition) but the igniter glow
 
 | Part | Where to Buy |
 |------|-------------|
-| [Flame sensor](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) | RepairClinic, Amazon |
-| [Hot surface igniter (match model)](https://www.amazon.com/s?k=Hot+surface+igniter+%28match+model%29&tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
-| [Gas valve](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) | SupplyHouse, Grainger |
-| [Control board](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) | RepairClinic, Grainger |
+| [Flame sensor](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) | RepairClinic, Amazon |
+| [Hot surface igniter (match model)](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
+| [Gas valve](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) | SupplyHouse, Grainger |
+| [Control board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | RepairClinic, Grainger |
 
 ## When to Call a Technician
 

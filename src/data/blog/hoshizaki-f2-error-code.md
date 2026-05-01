@@ -3,7 +3,7 @@ title: "Hoshizaki F2 Error Code — Ice Full Sensor Fault Causes & Fix"
 description: "What Hoshizaki error code F2 means, why the ice full sensor faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
 modDatetime: 2026-04-22T15:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

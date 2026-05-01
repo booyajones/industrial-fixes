@@ -3,7 +3,7 @@ title: "Cummins Onan Generator Fault Codes — Complete Guide"
 description: "Cummins Onan generator fault codes for RV QG, commercial RS, and MDKD series: all fault codes, alarm meanings, causes, and fixes."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -62,7 +62,7 @@ Onan commercial generators (MDKD, DSGAA) use a mechanical governor with electron
 | [Service Item](https://www.amazon.com/s?k=Service+Item&tag=errorcodefixes-20) | Interval |
 |-------------|----------|
 | [Engine oil](https://www.amazon.com/s?k=Engine+oil&tag=errorcodefixes-20) | Every 150 hours or annually |
-| [Air filter](https://www.amazon.com/s?k=Air+filter&tag=errorcodefixes-20) | Every 150 hours |
+| [Air filter](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) | Every 150 hours |
 | [Spark plugs](https://www.amazon.com/s?k=Spark+plugs&tag=errorcodefixes-20) | Every 150 hours |
 | [Fuel filter](https://www.amazon.com/s?k=Fuel+filter&tag=errorcodefixes-20) | Every 150 hours |
 | [Carburetor cleaning](https://www.amazon.com/s?k=Carburetor+cleaning&tag=errorcodefixes-20) | As needed (every 2–3 seasons if run infrequently) |

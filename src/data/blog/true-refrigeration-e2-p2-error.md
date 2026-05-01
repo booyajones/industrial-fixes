@@ -3,7 +3,7 @@ title: "True Refrigerator Error Code E2 / P2: Evaporator Probe Failure Causes an
 description: "True refrigerator E2 or P2 error means the evaporator probe failed. Learn how to test and replace the sensor on GDM and T Series units."
 pubDatetime: 2026-04-26T14:00:00Z
 modDatetime: 2026-04-26T14:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 slug: true-refrigeration-e2-p2-error
 featured: false
 draft: false
@@ -65,7 +65,7 @@ After repair, watch the next refrigeration and defrost cycles. You want a clean 
 ## Parts You May Need
 
 - [True evaporator thermistor probe](https://www.amazon.com/s?k=True+evaporator+thermistor+probe&tag=errorcodefixes-20)
-- [Evaporator temperature sensor clip](https://www.amazon.com/s?k=evaporator+temperature+sensor+clip&tag=errorcodefixes-20)
+- [Evaporator temperature sensor clip](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20)
 - [Probe extension harness](https://www.amazon.com/s?k=probe+extension+harness&tag=errorcodefixes-20)
 - [Commercial refrigeration controller](https://www.amazon.com/s?k=commercial+refrigeration+controller&tag=errorcodefixes-20)
 - [Portable steamer for coil defrost](https://www.amazon.com/s?k=portable+steamer+for+coil+defrost&tag=errorcodefixes-20)

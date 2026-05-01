@@ -3,7 +3,7 @@ title: "ABB ACS355 Fault 3130 — Input Phase Loss Fix"
 description: "What ABB ACS355 fault 3130 means, why input phase loss triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
 modDatetime: 2026-04-22T14:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -39,7 +39,7 @@ The ABB ACS355 is a general-purpose variable frequency drive designed for pump, 
 | Part | Notes |
 |------|-------|
 | Input fuses | [Amazon](https://www.amazon.com/s?k=Input+fuses&tag=errorcodefixes-20) \| Match voltage and amp rating; ABB specifies fuse type in the ACS355 hardware manual |
-| Upstream contactor | [Amazon](https://www.amazon.com/s?k=Upstream+contactor&tag=errorcodefixes-20) \| Replace if one contact shows high resistance |
+| Upstream contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Replace if one contact shows high resistance |
 | ACS355 rectifier bridge | [Amazon](https://www.amazon.com/s?k=ACS355+rectifier+bridge&tag=errorcodefixes-20) \| Only if input fuse and terminal checks are clean but 3130 persists — rare |
 ## When to Call a Pro
 

@@ -3,7 +3,7 @@ title: "Ingersoll-Rand R-Series Compressor Fault Codes: Complete Guide"
 description: "Ingersoll-Rand R-Series rotary screw compressor fault codes and diagnostics. Fault codes, causes, and technician-level troubleshooting."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -52,12 +52,12 @@ The Intellisys controller tracks service intervals by run hours. Level 1 is typi
 
 | Part | Notes |
 |------|-------|
-| Inlet air filter | [Amazon](https://www.amazon.com/s?k=Inlet+air+filter&tag=errorcodefixes-20) \| Replace at scheduled interval |
+| Inlet air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| Replace at scheduled interval |
 | Oil filter element | [Amazon](https://www.amazon.com/s?k=Oil+filter+element&tag=errorcodefixes-20) \| IR-specific ΓÇö match model |
 | Oil separator element | [Amazon](https://www.amazon.com/s?k=Oil+separator+element&tag=errorcodefixes-20) \| Replace at Level 2 interval |
 | Compressor oil | [Amazon](https://www.amazon.com/s?k=Compressor+oil&tag=errorcodefixes-20) \| IR synthetic ΓÇö model-specific |
 | Auto-drain solenoid valve | [Amazon](https://www.amazon.com/s?k=Auto-drain+solenoid+valve&tag=errorcodefixes-20) \| Check for stuck-open or stuck-closed |
-| Temperature sensor | [Amazon](https://www.amazon.com/s?k=Temperature+sensor&tag=errorcodefixes-20) \| Match Intellisys controller input type |
+| Temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Match Intellisys controller input type |
 > **Pro tip:** Ingersoll-Rand Intellisys controllers on networked compressor rooms can be monitored remotely via the IR Connect app. Fault alerts can be sent to maintenance personnel by email or text, enabling faster response to high-temperature events before the compressor shuts down.
 
 ## Related Articles

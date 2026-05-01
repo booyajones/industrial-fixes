@@ -2,7 +2,7 @@
 title: "Manitowoc NEO Ice Machine Error Codes - What It Means and How to Fix It"
 description: "Complete Manitowoc NEO series ice machine error code reference covering all fault codes, diagnostic steps, and fixes for NEO air-cooled and water-cooled cube ice machines."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "James Rutherford"
 tags:
   - hvac
   - error-codes
@@ -90,11 +90,11 @@ The main control board has lost communication with a sub-board or sensor module.
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
 | Manitowoc Clear Ice Machine Cleaner (A0310215) | Fixes E01, E02, E04 scale faults | $20–$35 — [Search on Amazon](https://www.amazon.com/s?k=Manitowoc+Clear+ice+machine+cleaner&tag=errorcodefixes-20) |
-| Water inlet valve (Manitowoc 7629043) | Fixes E04 when valve won't open | $40–$85 — [Search on Amazon](https://www.amazon.com/s?k=Manitowoc+water+inlet+valve+7629043&tag=errorcodefixes-20) |
+| Water inlet valve (Manitowoc 7629043) | Fixes E04 when valve won't open | $40–$85 — [Search on Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) |
 | Harvest thermostat (Manitowoc 7629323) | Fixes E03 or E07 when harvest thermostat fails | $25–$50 — [Search on Amazon](https://www.amazon.com/s?k=Manitowoc+harvest+thermostat&tag=errorcodefixes-20) |
 | Bin thermostat (Manitowoc 7629144) | Fixes E05 bin sensor failure | $25–$50 — [Search on Amazon](https://www.amazon.com/s?k=Manitowoc+bin+thermostat+7629144&tag=errorcodefixes-20) |
-| Run capacitor (Manitowoc ice machine) | Fixes E09 compressor overload from bad cap | $15–$30 — [Search on Amazon](https://www.amazon.com/s?k=Manitowoc+ice+machine+run+capacitor&tag=errorcodefixes-20) |
-| Condenser fan motor (NEO series) | Fixes E08 when fan isn't running | $60–$130 — [Search on Amazon](https://www.amazon.com/s?k=Manitowoc+NEO+condenser+fan+motor&tag=errorcodefixes-20) |
+| Run capacitor (Manitowoc ice machine) | Fixes E09 compressor overload from bad cap | $15–$30 — [Search on Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) |
+| Condenser fan motor (NEO series) | Fixes E08 when fan isn't running | $60–$130 — [Search on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) |
 
 ## When to Call a Pro
 

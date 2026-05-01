@@ -3,7 +3,7 @@ title: "Square D (Schneider) Circuit Breaker Fault Codes - Complete Guide"
 description: "Square D (Schneider Electric) Masterpact, Powerpact, and QO circuit breaker fault codes and trip indicators: causes and reset steps."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

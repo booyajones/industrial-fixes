@@ -3,7 +3,7 @@ title: "Flowserve Pump Fault Codes Guide — Seal and Drive Alarms"
 description: "Flowserve pump fault codes and alarms for centrifugal pumps, mechanical seals, and SmartSeal monitoring systems: causes and troubleshooting."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

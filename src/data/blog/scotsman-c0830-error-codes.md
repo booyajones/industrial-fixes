@@ -2,7 +2,7 @@
 title: "Scotsman C0830 Ice Machine Error Codes - Full Fault Reference"
 description: "Scotsman C0830 ice machine error codes, LED diagnostic patterns, and step-by-step repair guide for this large-capacity undercounter unit."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "James Rutherford"
 tags:
   - hvac
   - error-codes

@@ -3,7 +3,7 @@ title: "Carrier Error Code 56 — IFC Fault (Induced Draft Motor)"
 description: "Carrier furnace fault code 56 points to a problem with the induced draft blower or its proving circuit. Here's how to diagnose and fix it."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -52,10 +52,10 @@ The induced draft blower (also called inducer or draft motor) pulls combustion g
 
 | Part | Cost Estimate |
 |---|---|
-| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| $25–60 |
-| Pressure switch hose kit | [Amazon](https://www.amazon.com/s?k=Pressure+switch+hose+kit&tag=errorcodefixes-20) \| $5–15 |
-| Inducer motor assembly | [Amazon](https://www.amazon.com/s?k=Inducer+motor+assembly&tag=errorcodefixes-20) \| $150–350 |
-| IFC board (last resort) | [Amazon](https://www.amazon.com/s?k=IFC+board+%28last+resort%29&tag=errorcodefixes-20) \| $100–300 |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| $25–60 |
+| Pressure switch hose kit | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| $5–15 |
+| Inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| $150–350 |
+| IFC board (last resort) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| $100–300 |
 ## Pro Tip
 
 Before replacing anything, cycle the thermostat off and back on. Watch the inducer: it should spin up immediately when the call for heat starts. If it doesn't spin at all, the motor is failed or the IFC isn't outputting voltage to it. Use a multimeter to check voltage at the inducer motor terminals during startup — if you see 120V and the motor doesn't spin, it's the motor. If you see 0V, suspect the IFC or a safety interlock upstream.

@@ -3,7 +3,7 @@ title: "Trane Heat Pump E2 Error Code — Outdoor Coil Sensor Fault"
 description: "What Trane heat pump E2 means, why the outdoor coil sensor fails, and how to fix it on Trane XR, XL, and XC heat pump systems."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

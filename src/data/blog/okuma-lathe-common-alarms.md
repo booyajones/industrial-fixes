@@ -3,7 +3,7 @@ title: "Okuma LB/LU Lathe Common Alarm Guide — OSP-P300 Series"
 description: "Okuma LB and LU series CNC lathe common alarms for OSP-P300 and OSP-U100 controls: alarm descriptions, causes, and troubleshooting steps."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

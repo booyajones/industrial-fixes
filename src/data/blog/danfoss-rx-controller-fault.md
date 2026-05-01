@@ -3,7 +3,7 @@ title: "Danfoss RX Controller Fault Codes — Troubleshooting Guide"
 description: "Danfoss RX refrigeration controller fault codes and alarms: probe failures, defrost faults, communication issues, and step-by-step fixes."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -52,7 +52,7 @@ If the controller does not see the coil warm up during defrost, it alarms on def
 |------|-------|
 | Room probe | [Amazon](https://www.amazon.com/s?k=Room+probe&tag=errorcodefixes-20) \| Replace on E1 alarms |
 | Evaporator probe | [Amazon](https://www.amazon.com/s?k=Evaporator+probe&tag=errorcodefixes-20) \| Replace on E2 or defrost alarms |
-| Defrost heater | [Amazon](https://www.amazon.com/s?k=Defrost+heater&tag=errorcodefixes-20) \| Replace if open on ohm check |
+| Defrost heater | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) \| Replace if open on ohm check |
 | Door switch | [Amazon](https://www.amazon.com/s?k=Door+switch&tag=errorcodefixes-20) \| Replace on repeated DO alarms |
 ## Jump to Fix
 

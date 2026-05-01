@@ -3,7 +3,7 @@ title: "Omega Temperature Controller Error Codes — Complete Guide"
 description: "Omega temperature controller error codes for CN7800, CN7500, CN8200, and related PID controllers: sensor errors, alarm states, and fixes."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -42,7 +42,7 @@ Omega controllers use A1 and A2 to indicate that the measured value crossed the 
 
 | Part | Notes |
 |------|-------|
-| Thermocouple probe | [Amazon](https://www.amazon.com/s?k=Thermocouple+probe&tag=errorcodefixes-20) \| Most common field replacement |
+| Thermocouple probe | [Amazon](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) \| Most common field replacement |
 | RTD probe | [Amazon](https://www.amazon.com/s?k=RTD+probe&tag=errorcodefixes-20) \| Check 2-wire vs 3-wire style |
 | Solid-state relay | [Amazon](https://www.amazon.com/s?k=Solid-state+relay&tag=errorcodefixes-20) \| If control output is present but heater does not energize |
 | Controller | [Amazon](https://www.amazon.com/s?k=Controller&tag=errorcodefixes-20) \| Replace only after sensor and output checks |

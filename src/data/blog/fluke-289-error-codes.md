@@ -3,7 +3,7 @@ title: "Fluke 289 Multimeter Error Codes: Complete Guide"
 description: "Fluke 289 digital multimeter error codes and display messages. Error causes and technician-level troubleshooting for the Fluke 289 industrial multimeter."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -54,5 +54,5 @@ Indicates the internal calibration reference has failed. This is usually caused 
 | Fuse 440mA/1000V | [Amazon](https://www.amazon.com/s?k=Fuse+440mA%2F1000V&tag=errorcodefixes-20) \| Fluke PN 943261 |
 | AA batteries | [Amazon](https://www.amazon.com/s?k=AA+batteries&tag=errorcodefixes-20) \| Alkaline ΓÇö 6x AA |
 | Test leads | [Amazon](https://www.amazon.com/s?k=Test+leads&tag=errorcodefixes-20) \| Fluke TL175 or TL80A |
-| Type K thermocouple | [Amazon](https://www.amazon.com/s?k=Type+K+thermocouple&tag=errorcodefixes-20) \| 80BK-A for HVAC temperature measurements |
+| Type K thermocouple | [Amazon](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) \| 80BK-A for HVAC temperature measurements |
 > **Pro tip:** Fluke 289 has memory logging capability ΓÇö up to 15,000 time-stamped readings. When troubleshooting intermittent faults, set up logging mode (MIN/MAX/AVG or Event Log) before leaving the site to capture conditions that occur after hours.

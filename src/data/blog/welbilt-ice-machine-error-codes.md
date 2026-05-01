@@ -3,7 +3,7 @@ title: "Welbilt Ice Machine Error Codes — Guide"
 description: "Welbilt ice machine error codes (Manitowoc and Multiplex brands): what each code means and how to fix it."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -60,8 +60,8 @@ Check supply shutoff is fully open, pressure is 20-80 PSI, and inlet valve scree
 
 | Part | Notes |
 |------|-------|
-| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Most common mechanical fix for E04/E05 |
-| Water inlet valve | [Amazon](https://www.amazon.com/s?k=Water+inlet+valve&tag=errorcodefixes-20) \| For Code 6 / E03 |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Most common mechanical fix for E04/E05 |
+| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| For Code 6 / E03 |
 | Manitowoc Ice Machine Cleaner | [Amazon](https://www.amazon.com/s?k=Manitowoc+Ice+Machine+Cleaner&tag=errorcodefixes-20) \| Use every 6 months minimum |
 ## When to Call a Pro
 

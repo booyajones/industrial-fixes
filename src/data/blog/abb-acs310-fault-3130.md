@@ -3,7 +3,7 @@ title: "ABB ACS310 Fault 3130 — Causes & Fix"
 description: "What ABB ACS310 Fault 3130 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
 modDatetime: 2026-04-22T13:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -37,7 +37,7 @@ Fault 3130 on the ABB ACS310 variable frequency drive indicates an input phase l
 | Part | Notes |
 |------|-------|
 | Input fuses (Class J or equivalent) | [Amazon](https://www.amazon.com/s?k=Input+fuses+%28Class+J+or+equivalent%29&tag=errorcodefixes-20) \| Match to ACS310 input current rating — replace all three |
-| Input contactor | [Amazon](https://www.amazon.com/s?k=Input+contactor&tag=errorcodefixes-20) \| Replace if contacts are burned or pitted |
+| Input contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Replace if contacts are burned or pitted |
 | Input terminal block | [Amazon](https://www.amazon.com/s?k=Input+terminal+block&tag=errorcodefixes-20) \| If lug damage is found during inspection |
 ## When to Call a Pro
 

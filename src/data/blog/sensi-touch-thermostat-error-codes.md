@@ -2,7 +2,7 @@
 title: "Sensi Touch Thermostat Error Codes - Full Diagnostic Guide"
 description: "Complete guide to Sensi Touch Wi-Fi thermostat error codes including E-codes, Wi-Fi connectivity faults, and HVAC communication errors with step-by-step fixes."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Marcus Webb"
 tags:
   - hvac
   - error-codes

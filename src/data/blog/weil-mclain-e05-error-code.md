@@ -3,7 +3,7 @@ title: "Weil-McLain E05 Error Code — Sensor Fault"
 description: "Weil-McLain E05 error means a temperature sensor fault on the boiler. Learn which sensor triggered E05, how to test it, and whether to repair or replace."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -66,7 +66,7 @@ Fix: disconnect, clean terminals with electronic contact cleaner, apply dielectr
 | [Supply/return sensor (Ultra)](https://www.amazon.com/s?k=Supply%2Freturn+sensor+%28Ultra%29&tag=errorcodefixes-20) | 383-500-332 | $30–60 |
 | [Sensor (Gold Plus)](https://www.amazon.com/s?k=Sensor+%28Gold+Plus%29&tag=errorcodefixes-20) | 383-500-239 | $25–50 |
 | [Sensor immersion well](https://www.amazon.com/s?k=Sensor+immersion+well&tag=errorcodefixes-20) | 381-334-234 | $15–30 |
-| [Control board (last resort)](https://www.amazon.com/s?k=Control+board+%28last+resort%29&tag=errorcodefixes-20) | Various | $200–500 |
+| [Control board (last resort)](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Various | $200–500 |
 
 ## Related Weil-McLain Error Codes
 

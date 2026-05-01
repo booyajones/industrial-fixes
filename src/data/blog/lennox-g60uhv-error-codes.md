@@ -3,7 +3,7 @@ title: "Lennox G60UHV Furnace Error Codes — Flash Code Diagnostic Guide"
 description: "Complete guide to Lennox G60UHV variable-speed furnace error codes, flash sequences, fault causes, and step-by-step repairs for the most common failures."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -59,11 +59,11 @@ The Lennox G60UHV is a variable-speed, 80% AFUE gas furnace that uses an ECM blo
 | Part | Notes |
 |------|-------|
 | SureLight ignitor | [Amazon](https://www.amazon.com/s?k=SureLight+ignitor&tag=errorcodefixes-20) \| Lennox-specific; use OEM part number |
-| Condensate trap | [Amazon](https://www.amazon.com/s?k=Condensate+trap&tag=errorcodefixes-20) \| Integrated into G60UHV cabinet; replace if cracked |
+| Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) \| Integrated into G60UHV cabinet; replace if cracked |
 | ECM blower module | [Amazon](https://www.amazon.com/s?k=ECM+blower+module&tag=errorcodefixes-20) \| Mounts to rear of motor; test before replacing motor |
-| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Confirm correct rating for single or two-stage |
-| Inducer motor | [Amazon](https://www.amazon.com/s?k=Inducer+motor&tag=errorcodefixes-20) \| Replace bearing or full motor assembly |
-| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| For Code 13 or communication errors |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Confirm correct rating for single or two-stage |
+| Inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Replace bearing or full motor assembly |
+| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For Code 13 or communication errors |
 ## When to Call a Pro
 
 The G60UHV's ECM motor requires specialized diagnosis. Lennox sells a motor tester tool (L0409MOTORTOOL) used by authorized dealers to identify whether the fault is in the motor, module, or control board. If you're seeing Code 11 or 13 without an obvious cause, an authorized Lennox dealer can connect diagnostic tools for a definitive diagnosis.

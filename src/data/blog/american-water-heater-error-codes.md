@@ -3,7 +3,7 @@ title: "American Water Heater Error Codes — Complete Guide"
 description: "American Water Heater error codes for gas, electric, and power vent models. Decode LED flash codes and digital display errors to fix your American water heater."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -87,9 +87,9 @@ Most American Water Heater gas models use a standard 24" or 36" universal thermo
 
 | Part | Source | Cost |
 |---|---|---|
-| [24" universal thermocouple](https://www.amazon.com/s?k=24%22+universal+thermocouple&tag=errorcodefixes-20) | Hardware store (Rheem, Honeywell compatible) | $8–15 |
+| [24" universal thermocouple](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) | Hardware store (Rheem, Honeywell compatible) | $8–15 |
 | [36" for tall units](https://www.amazon.com/s?k=36%22+for+tall+units&tag=errorcodefixes-20) | Hardware store | $10–18 |
-| [OEM thermocouple](https://www.amazon.com/s?k=OEM+thermocouple&tag=errorcodefixes-20) | AWH parts online | $15–25 |
+| [OEM thermocouple](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) | AWH parts online | $15–25 |
 
 Thread the thermocouple into the gas valve finger-tight plus 1/4 turn — never overtighten, as the fitting is soft brass.
 

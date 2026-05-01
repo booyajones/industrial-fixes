@@ -51,10 +51,10 @@ Code 126 is most commonly seen on Trane XR80, XR95, and S9V2 series furnaces. Th
 
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|-------------|
-| Hot surface igniter | SEN00484 | $35–$50 | [Amazon](https://www.amazon.com/s?k=SEN00484+Hot+surface+igniter&tag=errorcodefixes-20) \| Repair Clinic / Amazon |
-| Flame sensor | SEN00106 | $18–$28 | [Amazon](https://www.amazon.com/s?k=SEN00106+Flame+sensor&tag=errorcodefixes-20) \| Repair Clinic / Amazon |
-| Gas valve | SV9541Q8544 | $150–$220 | [Amazon](https://www.amazon.com/s?k=SV9541Q8544+Gas+valve&tag=errorcodefixes-20) \| HVAC Distributors |
-| Control board (X-13) | CNT05015 | $180–$280 | [Amazon](https://www.amazon.com/s?k=CNT05015+Control+board+%28X-13%29&tag=errorcodefixes-20) \| Repair Clinic |
+| Hot surface igniter | SEN00484 | $35–$50 | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Repair Clinic / Amazon |
+| Flame sensor | SEN00106 | $18–$28 | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Repair Clinic / Amazon |
+| Gas valve | SV9541Q8544 | $150–$220 | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| HVAC Distributors |
+| Control board (X-13) | CNT05015 | $180–$280 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Repair Clinic |
 ## When to Call a Professional
 
 If replacing the igniter and cleaning the flame sensor doesn't resolve code 126 within two reset cycles, the furnace likely has a gas supply problem, a failed control board, or a venting/pressure issue that requires diagnostic equipment — specifically a manometer for gas pressure and a multimeter capable of microamp measurement for the flame signal. Gas valve replacement on a Trane furnace involves working with the gas supply line and requires a licensed technician in most states. If you smell gas at any point, stop work immediately, ventilate, and call your gas utility.

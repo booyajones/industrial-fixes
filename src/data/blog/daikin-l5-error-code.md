@@ -3,7 +3,7 @@ title: "Daikin L5 Error Code — Compressor Lock Fault"
 description: "Daikin error code L5 means the compressor is locked or has failed to start. Learn the exact causes, diagnostic steps, and how to fix Daikin L5."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

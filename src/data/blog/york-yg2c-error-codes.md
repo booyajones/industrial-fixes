@@ -3,7 +3,7 @@ title: "York YG2C Furnace Error Codes — Flash Code Diagnostic Guide"
 description: "Complete guide to York YG2C furnace error codes, flash sequences, fault causes, and step-by-step repairs for the most common HVAC failures."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -59,12 +59,12 @@ The York YG2C is a two-stage, variable-speed gas furnace in the Affinity series.
 
 | Part | Notes |
 |------|-------|
-| Hot surface ignitor | [Amazon](https://www.amazon.com/s?k=Hot+surface+ignitor&tag=errorcodefixes-20) \| York/Nordyne-specific; confirm model compatibility |
+| Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| York/Nordyne-specific; confirm model compatibility |
 | ECM blower module | [Amazon](https://www.amazon.com/s?k=ECM+blower+module&tag=errorcodefixes-20) \| Rear of motor; test before replacing full motor |
-| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Confirm low-fire and high-fire ratings separately |
-| Rollout switch | [Amazon](https://www.amazon.com/s?k=Rollout+switch&tag=errorcodefixes-20) \| Manual reset; investigate root cause |
-| High-limit switch | [Amazon](https://www.amazon.com/s?k=High-limit+switch&tag=errorcodefixes-20) \| Auto-reset; check continuity |
-| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| For Code 13 or unexplained faults |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Confirm low-fire and high-fire ratings separately |
+| Rollout switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Manual reset; investigate root cause |
+| High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Auto-reset; check continuity |
+| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For Code 13 or unexplained faults |
 ## When to Call a Pro
 
 The YG2C's two-stage gas valve and variable-speed ECM blower are complex enough that board-level diagnosis benefits from York's proprietary tools. If you're chasing intermittent faults across multiple codes, an Affinity-compatible communicating thermostat will show detailed fault history that flash codes don't capture.

@@ -3,7 +3,7 @@ title: "LG Mini-Split CH26 Error Code — CT Sensor Fault"
 description: "LG mini-split CH26 error code means a current transformer (CT) sensor fault on the outdoor unit. Learn causes, diagnostic steps, and how to fix LG CH26."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -69,7 +69,7 @@ The CT (current transformer) sensor is a small toroidal coil that clamps around 
 | Part | Notes |
 |---|---|
 | CT sensor (current transformer) | [Amazon](https://www.amazon.com/s?k=CT+sensor+%28current+transformer%29&tag=errorcodefixes-20) \| LG OEM part — match model number |
-| Outdoor PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB&tag=errorcodefixes-20) \| Only replace after confirming sensor and wiring are good |
+| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Only replace after confirming sensor and wiring are good |
 ## Reset Procedure
 
 1. Repair or replace the CT sensor

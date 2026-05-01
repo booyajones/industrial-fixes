@@ -3,7 +3,7 @@ title: "Goodman GPH Series Packaged Unit Error Codes: Complete Guide"
 description: "Goodman GPH packaged heat pump error codes and fault diagnostics. Flash codes, fault descriptions, and technician-level troubleshooting steps."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -49,12 +49,12 @@ Check for 24 VAC at the reversing valve solenoid in heating mode. A stuck valve 
 
 | Part | Notes |
 |------|-------|
-| Defrost control board | [Amazon](https://www.amazon.com/s?k=Defrost+control+board&tag=errorcodefixes-20) \| Match to unit model number |
-| Defrost sensor | [Amazon](https://www.amazon.com/s?k=Defrost+sensor&tag=errorcodefixes-20) \| Clip-on type ΓÇö confirm placement on tube |
+| Defrost control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Match to unit model number |
+| Defrost sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Clip-on type ΓÇö confirm placement on tube |
 | Reversing valve | [Amazon](https://www.amazon.com/s?k=Reversing+valve&tag=errorcodefixes-20) \| Match refrigerant and tonnage |
-| Run capacitor | [Amazon](https://www.amazon.com/s?k=Run+capacitor&tag=errorcodefixes-20) \| Dual-capacitor ΓÇö check both sections |
-| Contactor | [Amazon](https://www.amazon.com/s?k=Contactor&tag=errorcodefixes-20) \| Check for pitted contacts |
-| Low-pressure switch | [Amazon](https://www.amazon.com/s?k=Low-pressure+switch&tag=errorcodefixes-20) \| Match pressure setpoint |
+| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Dual-capacitor ΓÇö check both sections |
+| Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Check for pitted contacts |
+| Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match pressure setpoint |
 > **Pro tip:** Goodman GPH packaged units have the reversing valve energized in cooling mode. If you're testing in heating mode and the valve is de-energized, confirm the solenoid is not stuck energized from a previous short.
 
 ## Related Articles

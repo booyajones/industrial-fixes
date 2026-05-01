@@ -3,7 +3,7 @@ title: "Turbo Air Freezer Error Code E2 — Causes & Fix"
 description: "What Turbo Air Freezer E2 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -36,10 +36,10 @@ The E2 error on Turbo Air commercial freezers (reach-ins, undercounters, and pre
 
 | Part | Notes |
 |------|-------|
-| Door gasket | [Amazon](https://www.amazon.com/s?k=Door+gasket&tag=errorcodefixes-20) \| Turbo Air model-specific — measure and order by model number |
-| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Replace if not spinning with compressor on |
-| Defrost heater | [Amazon](https://www.amazon.com/s?k=Defrost+heater&tag=errorcodefixes-20) \| Match to freezer model voltage and wattage |
-| Defrost termination thermostat | [Amazon](https://www.amazon.com/s?k=Defrost+termination+thermostat&tag=errorcodefixes-20) \| Replace if open at room temp |
+| Door gasket | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?tag=errorcodefixes-20) \| Turbo Air model-specific — measure and order by model number |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Replace if not spinning with compressor on |
+| Defrost heater | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) \| Match to freezer model voltage and wattage |
+| Defrost termination thermostat | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Replace if open at room temp |
 ## When to Call a Pro
 
 Sealed system issues (low charge, failed compressor) require an EPA 608-certified tech. Don't delay on a freezer — product loss accelerates quickly.

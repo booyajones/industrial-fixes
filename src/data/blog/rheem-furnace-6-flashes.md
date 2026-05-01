@@ -46,9 +46,9 @@ Restore power and observe a full heating cycle. Watch through the sight glass th
 
 | Part | Where to Buy |
 |------|-------------|
-| [Rollout limit switch](https://www.amazon.com/s?k=Rollout+limit+switch&tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
-| [Inducer motor assembly](https://www.amazon.com/s?k=Inducer+motor+assembly&tag=errorcodefixes-20) | RepairClinic, Grainger |
-| [Inducer motor capacitor](https://www.amazon.com/s?k=Inducer+motor+capacitor&tag=errorcodefixes-20) | Grainger, Amazon |
+| [Rollout limit switch](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
+| [Inducer motor assembly](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) | RepairClinic, Grainger |
+| [Inducer motor capacitor](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) | Grainger, Amazon |
 
 ## When to Call a Technician
 

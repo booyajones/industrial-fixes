@@ -79,8 +79,8 @@ The ECM (electronically commutated motor) in the air handler reported a fault. E
 | Part | Why | Approx. Cost |
 |------|-----|-------------|
 | [ComfortLink II XL950 thermostat](https://www.amazon.com/s?k=ComfortLink+II+XL950+thermostat&tag=errorcodefixes-20) | Thermostat control failure | $250–$450 |
-| [Trane air handler control board (model-specific)](https://www.amazon.com/s?k=Trane+air+handler+control+board+%28model-specific%29&tag=errorcodefixes-20) | Indoor board not responding — code 173 | $150–$350 |
-| [Trane outdoor control board (model-specific)](https://www.amazon.com/s?k=Trane+outdoor+control+board+%28model-specific%29&tag=errorcodefixes-20) | Outdoor board failure — code 172 | $250–$500 |
+| [Trane air handler control board (model-specific)](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Indoor board not responding — code 173 | $150–$350 |
+| [Trane outdoor control board (model-specific)](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Outdoor board failure — code 172 | $250–$500 |
 | [24V transformer (40VA)](https://www.amazon.com/s?k=24V+transformer+%2840VA%29&tag=errorcodefixes-20) | Weak or failed transformer causing bus voltage drop | $30–$60 |
 | [3A slow-blow glass fuse](https://www.amazon.com/s?k=3A+slow-blow+glass+fuse&tag=errorcodefixes-20) | Blown board fuse | $5–$10 |
 | [18 AWG 4-conductor wire](https://www.amazon.com/s?k=18+AWG+4-conductor+wire&tag=errorcodefixes-20) | Replace communication cable run | $0.30–$0.60/ft |

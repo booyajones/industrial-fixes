@@ -3,7 +3,7 @@ title: "Mitsubishi FR-A800 Fault E7 — CPU Error Causes & Fix"
 description: "What Mitsubishi FR-A800 fault E7 means, why CPU errors occur, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
 modDatetime: 2026-04-22T15:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

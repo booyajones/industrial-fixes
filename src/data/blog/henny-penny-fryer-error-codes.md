@@ -3,7 +3,7 @@ title: "Henny Penny Fryer Error Codes — Guide"
 description: "Henny Penny commercial fryer error codes: what each means and how to fix it."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -44,7 +44,7 @@ The lid pressure switch didn't confirm correct lid seal or pressure. Check lid g
 
 | Part | Notes |
 |------|-------|
-| Thermocouple | [Amazon](https://www.amazon.com/s?k=Thermocouple&tag=errorcodefixes-20) \| Henny Penny OEM — type K typically |
+| Thermocouple | [Amazon](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) \| Henny Penny OEM — type K typically |
 | Hi-limit thermostat | [Amazon](https://www.amazon.com/s?k=Hi-limit+thermostat&tag=errorcodefixes-20) \| Manual reset type — replace if won't hold |
 | Lid gasket | [Amazon](https://www.amazon.com/s?k=Lid+gasket&tag=errorcodefixes-20) \| For pressure fryer E-5 — replace if cracked |
 ## When to Call a Pro

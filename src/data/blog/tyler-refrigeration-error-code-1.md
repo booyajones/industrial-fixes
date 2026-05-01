@@ -3,7 +3,7 @@ title: "Tyler Refrigeration Error Code 1 — High Temperature Alarm"
 description: "What Tyler Refrigeration Error Code 1 means, why the high temperature alarm triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
 modDatetime: 2026-04-22T14:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -40,9 +40,9 @@ Tyler Refrigeration (a brand under the Hill Phoenix / Dover Corporation umbrella
 
 | Part | Notes |
 |------|-------|
-| Evaporator fan motor | [Amazon](https://www.amazon.com/s?k=Evaporator+fan+motor&tag=errorcodefixes-20) \| Match voltage, RPM, and blade diameter from existing motor |
-| Temperature sensor (NTC thermistor) | [Amazon](https://www.amazon.com/s?k=Temperature+sensor+%28NTC+thermistor%29&tag=errorcodefixes-20) \| Match resistance specification — usually 10K ohm at 77°F |
-| Door gasket set | [Amazon](https://www.amazon.com/s?k=Door+gasket+set&tag=errorcodefixes-20) \| Match case model number for correct gasket profile |
+| Evaporator fan motor | [Amazon](https://www.amazon.com/dp/B01N0J3ZEH?tag=errorcodefixes-20) \| Match voltage, RPM, and blade diameter from existing motor |
+| Temperature sensor (NTC thermistor) | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Match resistance specification — usually 10K ohm at 77°F |
+| Door gasket set | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?tag=errorcodefixes-20) \| Match case model number for correct gasket profile |
 | Filter drier | [Amazon](https://www.amazon.com/s?k=Filter+drier&tag=errorcodefixes-20) \| Replace whenever refrigerant circuit is opened |
 ## When to Call a Pro
 

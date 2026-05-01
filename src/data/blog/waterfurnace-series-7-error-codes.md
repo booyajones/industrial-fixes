@@ -3,7 +3,7 @@ title: "WaterFurnace Series 7 Geothermal Error Codes: Complete Guide"
 description: "WaterFurnace Series 7 geothermal heat pump error codes and fault diagnostics. IntelliZone2 fault codes, causes, and technician-level fixes."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -52,7 +52,7 @@ The Series 7 monitors loop flow via a differential pressure switch. Check loop p
 
 | Part | Notes |
 |------|-------|
-| Aurora Base Control board | [Amazon](https://www.amazon.com/s?k=Aurora+Base+Control+board&tag=errorcodefixes-20) \| ABC ΓÇö match to unit model and software version |
+| Aurora Base Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| ABC ΓÇö match to unit model and software version |
 | IntelliZone2 thermostat | [Amazon](https://www.amazon.com/s?k=IntelliZone2+thermostat&tag=errorcodefixes-20) \| Communication interface for fault codes |
 | Loop pump | [Amazon](https://www.amazon.com/s?k=Loop+pump&tag=errorcodefixes-20) \| Verify GPM meets unit minimum |
 | TXV | [Amazon](https://www.amazon.com/s?k=TXV&tag=errorcodefixes-20) \| Match refrigerant and tonnage |

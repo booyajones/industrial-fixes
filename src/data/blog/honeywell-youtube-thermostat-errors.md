@@ -3,7 +3,7 @@ title: "Honeywell T10 Pro/RTH9585 Thermostat Error Codes — Fix Guide"
 description: "Honeywell T10 Pro and RTH9585 smart thermostat error codes: E1, E2, E9 sensor and communication faults with causes and step-by-step troubleshooting."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -80,7 +80,7 @@ A missing C wire causes power issues and can cause erratic behavior or error cod
 | Part | Notes |
 |------|-------|
 | Replacement thermostat | [Amazon](https://www.amazon.com/s?k=Replacement+thermostat&tag=errorcodefixes-20) \| For E1 internal sensor failure |
-| Outdoor temperature sensor | [Amazon](https://www.amazon.com/s?k=Outdoor+temperature+sensor&tag=errorcodefixes-20) \| For E2 if accessory sensor is damaged |
+| Outdoor temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| For E2 if accessory sensor is damaged |
 | Condensate pan tablets | [Amazon](https://www.amazon.com/s?k=Condensate+pan+tablets&tag=errorcodefixes-20) \| Prevent algae growth causing E9 |
 ## Jump to Fix
 

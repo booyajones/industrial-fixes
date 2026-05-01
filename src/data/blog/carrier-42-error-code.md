@@ -3,7 +3,7 @@ title: "Carrier 42 Error Code — Causes & Fix"
 description: "What Carrier error code 42 means, why the inducer motor faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
 modDatetime: 2026-04-22T12:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -36,9 +36,9 @@ Carrier code 42 is an **inducer motor fault** — the control board fired the in
 
 | Part | Notes |
 |------|-------|
-| Inducer motor assembly | [Amazon](https://www.amazon.com/s?k=Inducer+motor+assembly&tag=errorcodefixes-20) \| Match HP and RPM to model; Carrier OEM or aftermarket (Fasco, Rotom) |
-| Draft pressure switch | [Amazon](https://www.amazon.com/s?k=Draft+pressure+switch&tag=errorcodefixes-20) \| Single or dual-port; verify cracking pressure spec on the label |
-| Pressure switch hose | [Amazon](https://www.amazon.com/s?k=Pressure+switch+hose&tag=errorcodefixes-20) \| Standard 3/16" or 1/4" silicone tubing |
+| Inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Match HP and RPM to model; Carrier OEM or aftermarket (Fasco, Rotom) |
+| Draft pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Single or dual-port; verify cracking pressure spec on the label |
+| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| Standard 3/16" or 1/4" silicone tubing |
 ## When to Call a Pro
 
 If the flue is clear, the switch tests good, and the motor runs but the fault persists, the control board may have a failed tach input circuit. Board replacement requires verifying compatibility and should be done by a licensed technician on systems still under warranty.

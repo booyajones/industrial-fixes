@@ -3,7 +3,7 @@ title: "Lincoln Electric E12 Error Code — Causes & Fix"
 description: "What Lincoln Electric E12 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T11:00:00Z
 modDatetime: 2026-04-22T11:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -36,8 +36,8 @@ The E12 fault on Lincoln Electric welders (Power MIG, Power Wave, and Invertec s
 
 | Part | Notes |
 |------|-------|
-| Input contactor | [Amazon](https://www.amazon.com/s?k=Input+contactor&tag=errorcodefixes-20) \| Match to exact Lincoln part number — coil voltage and contact rating vary |
-| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| If board isn't sending energize signal to contactor |
+| Input contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Match to exact Lincoln part number — coil voltage and contact rating vary |
+| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| If board isn't sending energize signal to contactor |
 | Input wiring harness | [Amazon](https://www.amazon.com/s?k=Input+wiring+harness&tag=errorcodefixes-20) \| If leads to contactor are damaged |
 ## When to Call a Pro
 

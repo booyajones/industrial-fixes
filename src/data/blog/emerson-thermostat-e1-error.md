@@ -3,7 +3,7 @@ title: "Emerson / White-Rodgers Thermostat E1 Error — Fault Code Guide"
 description: "Emerson and White-Rodgers thermostat E1 error means a sensor fault or power issue. This guide covers all Emerson E1 variations and how to fix them by model."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

@@ -34,7 +34,7 @@
   </div>
 </div>
 
-<style>
+<style is:global>
   #chat-widget {
     position: fixed;
     bottom: 1.5rem;
@@ -47,7 +47,7 @@
     display: flex;
     align-items: center;
     gap: 0.5rem;
-    background: #d97706;
+    background: #E6531D;
     color: white;
     border: none;
     border-radius: 999px;
@@ -64,7 +64,7 @@
     box-shadow: 0 6px 16px rgba(0, 0, 0, 0.3);
   }
   #chat-toggle:focus-visible {
-    outline: 2px solid #fbbf24;
+    outline: 2px solid #FCE6DB;
     outline-offset: 2px;
   }
 
@@ -98,7 +98,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: #d97706;
+    background: #E6531D;
     color: white;
     padding: 0.75rem 1rem;
     flex-shrink: 0;
@@ -130,7 +130,7 @@
     display: flex;
     flex-direction: column;
     gap: 0.75rem;
-    background: #fafafa;
+    background: #ffffff;
   }
 
   .chat-message {
@@ -142,26 +142,38 @@
     word-break: break-word;
   }
   .bot-message {
-    background: #f3f4f6;
+    background: #E8E5DC;
     align-self: flex-start;
-    color: #111827;
+    color: #0F1418;
   }
   .user-message {
-    background: #fef3c7;
-    border: 1px solid #fcd34d;
+    background: #E6531D;
+    border: none;
     align-self: flex-end;
-    color: #111827;
+    color: #ffffff;
   }
+  /* Markdown rendering in bot messages */
+  .bot-message p { margin: 0 0 0.5rem; }
+  .bot-message p:last-child { margin-bottom: 0; }
+  .bot-message strong { font-weight: 700; color: inherit; }
+  .bot-message .md-num {
+    display: inline-block;
+    font-weight: 700;
+    color: #E6531D;
+    min-width: 1.4rem;
+  }
+  .bot-message .md-bullet { color: #E6531D; margin-right: 0.25rem; }
+
   .source-link {
     margin-top: 0.5rem;
     font-size: 0.75rem;
   }
   .source-link a {
-    color: #d97706;
+    color: #E6531D;
     text-decoration: underline;
     font-weight: 500;
   }
-  .source-link a:hover { color: #b45309; }
+  .source-link a:hover { color: #c44418; }
   .thinking-indicator {
     display: flex;
     gap: 4px;
@@ -201,9 +213,9 @@
     color: #111827;
     background: white;
   }
-  #chat-input:focus { border-color: #d97706; box-shadow: 0 0 0 2px rgba(217,119,6,0.15); }
+  #chat-input:focus { border-color: #E6531D; box-shadow: 0 0 0 2px rgba(230,83,29,0.15); }
   #chat-send {
-    background: #d97706;
+    background: #E6531D;
     color: white;
     border: none;
     border-radius: 6px;
@@ -214,30 +226,30 @@
     flex-shrink: 0;
     transition: background 0.15s;
   }
-  #chat-send:hover { background: #b45309; }
+  #chat-send:hover { background: #c44418; }
   #chat-send:disabled { opacity: 0.5; cursor: not-allowed; }
-  #chat-send:focus-visible { outline: 2px solid #fbbf24; outline-offset: 2px; }
+  #chat-send:focus-visible { outline: 2px solid #FCE6DB; outline-offset: 2px; }
 
   /* Dark mode support */
   @media (prefers-color-scheme: dark) {
-    #chat-panel { background: #1f2937; border-color: #374151; }
-    .chat-messages { background: #111827; }
-    .bot-message { background: #374151; color: #f9fafb; }
-    .user-message { background: #451a03; border-color: #92400e; color: #fef3c7; }
-    .chat-input-area { background: #1f2937; border-color: #374151; }
-    #chat-input { background: #374151; border-color: #4b5563; color: #f9fafb; }
-    #chat-input:focus { border-color: #d97706; }
+    #chat-panel { background: #1A2024; border-color: #2A3038; }
+    .chat-messages { background: #0F1418; }
+    .bot-message { background: #2A3038; color: #F4F3EF; }
+    .user-message { background: #E6531D; border: none; color: #fff; }
+    .chat-input-area { background: #1A2024; border-color: #2A3038; }
+    #chat-input { background: #2A3038; border-color: #3A4148; color: #F4F3EF; }
+    #chat-input:focus { border-color: #E6531D; }
   }
 
   /* Mobile adjustments */
   @media (max-width: 420px) {
-    #chat-widget { bottom: 1rem; right: 1rem; }
-    #chat-panel { width: calc(100vw - 2rem); }
+    #chat-widget { bottom: 1.25rem; right: 1.25rem; }
+    #chat-panel { width: calc(100vw - 2.5rem); right: 0; }
   }
 </style>
 
 <script is:inline>
-(function () {
+function initChatWidget() {
   const CHAT_API_URL = 'https://errorcodefixes-chat.errorcodefixes.workers.dev';
 
   const toggle = document.getElementById('chat-toggle');
@@ -248,13 +260,15 @@
   const messages = document.getElementById('chat-messages');
 
   if (!toggle || !panel || !input || !sendBtn || !messages) return;
+  // Prevent double-binding
+  if (toggle._chatBound) return;
+  toggle._chatBound = true;
 
   function openPanel() {
     panel.hidden = false;
     toggle.setAttribute('aria-expanded', 'true');
-    // Re-trigger animation
     panel.style.animation = 'none';
-    panel.offsetHeight; // reflow
+    panel.offsetHeight;
     panel.style.animation = '';
     input.focus();
   }
@@ -271,15 +285,33 @@
 
   closeBtn.addEventListener('click', closePanel);
 
-  // Close on Escape
   document.addEventListener('keydown', e => {
     if (e.key === 'Escape' && !panel.hidden) closePanel();
   });
 
+  // Lightweight markdown renderer for bot messages
+  function renderMarkdown(text) {
+    return text
+      // Bold **text**
+      .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+      // Numbered lists
+      .replace(/^(\d+)\.\s+/gm, '<span class="md-num">$1.</span> ')
+      // Unordered lists
+      .replace(/^[-*]\s+/gm, '<span class="md-bullet">•</span> ')
+      // Double newline = paragraph break
+      .replace(/\n\n/g, '</p><p>')
+      // Single newline = line break
+      .replace(/\n/g, '<br>')
+  }
+
   function addMessage(text, type, sourceUrl) {
     const div = document.createElement('div');
     div.className = 'chat-message ' + type;
-    div.textContent = text;
+    if (type === 'bot-message') {
+      div.innerHTML = '<p>' + renderMarkdown(text) + '</p>';
+    } else {
+      div.textContent = text;
+    }
     if (sourceUrl) {
       const linkWrap = document.createElement('div');
       linkWrap.className = 'source-link';
@@ -357,5 +389,9 @@
       sendMessage();
     }
   });
-})();
+}
+
+// Init on first load and after Astro view transitions
+initChatWidget();
+document.addEventListener('astro:page-load', initChatWidget);
 </script>

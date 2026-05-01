@@ -3,7 +3,7 @@ title: "Hypertherm Plasma Cutter Fault 0-30 — Causes & Fix"
 description: "What Hypertherm fault code 0-30 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T10:00:00Z
 modDatetime: 2026-04-22T10:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

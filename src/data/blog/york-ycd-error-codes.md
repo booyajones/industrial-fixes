@@ -3,7 +3,7 @@ title: "York YCD Packaged Unit Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to York YCD packaged rooftop unit error codes, diagnostic LED flash sequences, common fault causes, and step-by-step repair procedures."
 pubDatetime: 2026-04-22T23:00:00Z
 modDatetime: 2026-04-22T23:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -56,10 +56,10 @@ The York YCD is a commercial single-packaged gas/electric rooftop unit available
 
 | Part | Notes |
 |---|---|
-| Run capacitor | [Amazon](https://www.amazon.com/s?k=Run+capacitor&tag=errorcodefixes-20) \| For condenser fan motor |
-| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Match tonnage — 3-ton and 5-ton use different motors |
-| High-pressure switch | [Amazon](https://www.amazon.com/s?k=High-pressure+switch&tag=errorcodefixes-20) \| 610 PSIG cutout for R-410A |
-| Low-pressure switch | [Amazon](https://www.amazon.com/s?k=Low-pressure+switch&tag=errorcodefixes-20) \| 50 PSIG cutout |
+| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| For condenser fan motor |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match tonnage — 3-ton and 5-ton use different motors |
+| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| 610 PSIG cutout for R-410A |
+| Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| 50 PSIG cutout |
 | Discharge air sensor | [Amazon](https://www.amazon.com/s?k=Discharge+air+sensor&tag=errorcodefixes-20) \| NTC thermistor; check resistance at known temperature |
 | Unit controller board | [Amazon](https://www.amazon.com/s?k=Unit+controller+board&tag=errorcodefixes-20) \| For persistent communication or sensor faults |
 ## When to Call a Pro

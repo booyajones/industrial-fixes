@@ -3,7 +3,7 @@ title: "AO Smith Water Heater 4 Flashes — What It Means and How to Fix It"
 description: "AO Smith water heater flashing 4 times indicates an igniter fault or flame sense failure. Learn what causes it, how to test the igniter, and which parts fix it."
 pubDatetime: 2026-04-25T12:00:00Z
 modDatetime: 2026-04-25T12:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -101,9 +101,9 @@ If the igniter, flame sensor, and blower are all working but 4 flashes persists:
 |------|----------------|--------------|
 | [Thermal Cutoff (TCO)](https://www.amazon.com/s?k=Thermal+Cutoff+%28TCO%29&tag=errorcodefixes-20) | Blown safety fuse — no continuity on test | $10–$25 |
 | [Spark Igniter / Electrode](https://www.amazon.com/s?k=Spark+Igniter+%2F+Electrode&tag=errorcodefixes-20) | Cracked, corroded, or won't spark | $20–$45 |
-| [Flame Sensor / Flame Rod](https://www.amazon.com/s?k=Flame+Sensor+%2F+Flame+Rod&tag=errorcodefixes-20) | Oxidized or failed — burner runs but code persists | $15–$35 |
+| [Flame Sensor / Flame Rod](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) | Oxidized or failed — burner runs but code persists | $15–$35 |
 | [Blower Motor (power-vent)](https://www.amazon.com/s?k=Blower+Motor+%28power-vent%29&tag=errorcodefixes-20) | Seized, dragging, or no rotation | $70–$150 |
-| [Ignition Control Board](https://www.amazon.com/s?k=Ignition+Control+Board&tag=errorcodefixes-20) | All sensors good but fault persists | $80–$180 |
+| [Ignition Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | All sensors good but fault persists | $80–$180 |
 | [Gas Control Valve](https://www.amazon.com/s?k=Gas+Control+Valve&tag=errorcodefixes-20) | Valve internal fault (only after above ruled out) | $90–$160 |
 
 *AO Smith part numbers vary by model. Pull your model number from the label on the side of the tank (format: GPS6-50T40-NV) and verify part numbers at aosmithpartsplus.com or your local plumbing supply.*

@@ -2,7 +2,7 @@
 title: "Manitowoc Indigo NXT Ice Machine Complete Troubleshooting Guide"
 description: "Complete troubleshooting guide for Manitowoc Indigo NXT ice machines, including major error codes, cleaning steps, harvest cycle faults, and bin control problems. Learn how to diagnose the common faults that stop production and what parts usually fix them."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "James Rutherford"
 tags:
   - hvac
   - error-codes
@@ -174,7 +174,7 @@ A sticky curtain hinge can look like an electrical problem. Clean the hinge poin
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
-| [Manitowoc ice machine water inlet valve](https://www.amazon.com/s?k=Manitowoc+ice+machine+water+inlet+valve&tag=errorcodefixes-20) | Fixes slow fill and water trough fill faults when the valve sticks or will not open | $35-$95 |
+| [Manitowoc ice machine water inlet valve](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) | Fixes slow fill and water trough fill faults when the valve sticks or will not open | $35-$95 |
 | [Manitowoc curtain switch or reed switch](https://www.amazon.com/s?k=Manitowoc+curtain+switch+reed+switch&tag=errorcodefixes-20) | Fixes bin full and curtain fault problems when the switch no longer changes state | $20-$60 |
 | [Nickel-safe ice machine cleaner](https://www.amazon.com/s?k=nickel+safe+ice+machine+cleaner&tag=errorcodefixes-20) | Removes mineral scale that causes harvest failures, probe errors, and long freeze cycles | $15-$35 |
 | [Manitowoc water pump for Indigo NXT](https://www.amazon.com/s?k=Manitowoc+Indigo+NXT+water+pump&tag=errorcodefixes-20) | Restores proper water flow when the recirculation pump gets weak or stops | $90-$220 |

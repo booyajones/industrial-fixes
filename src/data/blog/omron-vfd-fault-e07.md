@@ -3,7 +3,7 @@ title: "Omron VFD Fault E07 — Causes & Fix"
 description: "What Omron 3G3MX2 VFD fault E07 means, why overcurrent triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
 modDatetime: 2026-04-22T12:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

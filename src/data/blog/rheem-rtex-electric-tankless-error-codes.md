@@ -2,7 +2,7 @@
 title: "Rheem RTEX Electric Tankless Water Heater Error Codes"
 description: "Complete guide to Rheem RTEX series error codes E1-E4. Covers RTEX-13, RTEX-18, RTEX-24, and RTEX-36 fault diagnosis, heating element testing, and flow switch troubleshooting."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "James Rutherford"
 tags:
   - hvac
   - error-codes

@@ -55,7 +55,7 @@ J3 can mean one of two things: the sensor itself has failed (open or short circu
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|-------------|
-| Daikin Discharge Pipe Temperature Sensor | $40–$80 | [Amazon](https://www.amazon.com/s?k=Daikin+discharge+pipe+temperature+sensor+thermistor&tag=errorcodefixes-20) |
+| Daikin Discharge Pipe Temperature Sensor | $40–$80 | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) |
 | Thermal Compound (sensor-to-pipe) | $6–$15 | [Amazon](https://www.amazon.com/s?k=thermal+compound+paste+HVAC+pipe+sensor&tag=errorcodefixes-20) |
 | Pipe Clamp Thermometer | $20–$60 | [Amazon](https://www.amazon.com/s?k=pipe+clamp+thermometer+HVAC+refrigerant&tag=errorcodefixes-20) |
 | Coil Cleaner Spray (outdoor coil) | $12–$25 | [Amazon](https://www.amazon.com/s?k=outdoor+condenser+coil+cleaner+spray+HVAC&tag=errorcodefixes-20) |

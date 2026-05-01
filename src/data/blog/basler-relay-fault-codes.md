@@ -3,7 +3,7 @@ title: "Basler Electric Relay Fault Codes — BE1-11g / BE1-CDS Guide"
 description: "Basler Electric protective relay fault codes for BE1-11g generator relay and BE1-CDS differential protection: trip indicators, alarms, and troubleshooting."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

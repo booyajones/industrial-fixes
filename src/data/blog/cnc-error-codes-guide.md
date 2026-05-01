@@ -3,7 +3,7 @@ title: "CNC Machine Error Codes: Complete Troubleshooting Guide"
 description: "CNC machine error codes explained across Fanuc, Haas, Mazak, Siemens, Okuma, and Mitsubishi controls with common alarm categories and fix steps."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

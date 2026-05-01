@@ -3,7 +3,7 @@ title: "EVAPCO Cooling Tower Fault Codes Guide — AT / LSTE Series"
 description: "EVAPCO cooling tower fault codes and alarm conditions for AT, LSTE, and closed-circuit evaporative coolers: causes, diagnostics, and troubleshooting steps."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -19,7 +19,7 @@ EVAPCO cooling towers and evaporative condensers with PMC (Packaged Mechanical C
 
 | [Fault](https://www.amazon.com/s?k=Fault&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |-------|---------|-----------|
-| [Fan Motor Fault](https://www.amazon.com/s?k=Fan+Motor+Fault&tag=errorcodefixes-20) | Motor overload or trip | Check motor amps, bearings, and connections |
+| [Fan Motor Fault](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) | Motor overload or trip | Check motor amps, bearings, and connections |
 | [High Leaving Water Temp](https://www.amazon.com/s?k=High+Leaving+Water+Temp&tag=errorcodefixes-20) | Leaving water above setpoint | Check fan operation and load balance |
 | [Low Basin Level](https://www.amazon.com/s?k=Low+Basin+Level&tag=errorcodefixes-20) | Makeup water not keeping up | Check makeup valve and inlet pressure |
 | [High Basin Level](https://www.amazon.com/s?k=High+Basin+Level&tag=errorcodefixes-20) | Overflow condition | Check float valve and drain |

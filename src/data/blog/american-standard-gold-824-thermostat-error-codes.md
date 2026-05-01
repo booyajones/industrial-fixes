@@ -2,7 +2,7 @@
 title: "American Standard Gold 824 Thermostat Error Codes - Diagnostic Guide"
 description: "Complete guide to American Standard Gold 824 thermostat error codes, communication faults, and HVAC system errors. Fix your $350 thermostat before calling a tech."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Marcus Webb"
 tags:
   - hvac
   - error-codes
@@ -68,8 +68,8 @@ The thermostat cannot establish any communication with any system component. Che
 |------|-----|---------------|
 | ACC Bus Communication Wire (18/2 thermostat wire) | Replace corroded or damaged communication wiring | [View on Amazon](https://www.amazon.com/s?k=18+2+thermostat+wire+50+ft&tag=errorcodefixes-20) |
 | 10K NTC Thermistor Temperature Sensor | Replace faulty coil sensors (Codes 210, 211) | [View on Amazon](https://www.amazon.com/s?k=10k+ntc+thermistor+hvac+coil+sensor&tag=errorcodefixes-20) |
-| HVAC Multimeter (Klein Tools MM400) | Test sensors, check voltage at control boards | [View on Amazon](https://www.amazon.com/s?k=klein+tools+mm400+multimeter&tag=errorcodefixes-20) |
-| Replacement Pressure Switch (universal HVAC) | Fix Code 240 if pressure switch is faulty | [View on Amazon](https://www.amazon.com/s?k=hvac+furnace+pressure+switch+universal&tag=errorcodefixes-20) |
+| HVAC Multimeter (Klein Tools MM400) | Test sensors, check voltage at control boards | [View on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) |
+| Replacement Pressure Switch (universal HVAC) | Fix Code 240 if pressure switch is faulty | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) |
 | Non-Contact Voltage Tester | Safely check for power at terminals without probing live wires | [View on Amazon](https://www.amazon.com/s?k=non+contact+voltage+tester+hvac&tag=errorcodefixes-20) |
 
 ## When to Call a Pro

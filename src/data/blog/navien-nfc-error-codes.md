@@ -3,7 +3,7 @@ title: "Navien NFC Combi Boiler Error Codes: Complete Guide"
 description: "Navien NFC combi boiler error codes and fault diagnostics. E-series error codes, causes, and technician-level troubleshooting procedures."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -54,7 +54,7 @@ Common in hard water areas. The stainless HX accumulates scale, reducing heat tr
 
 | Part | Notes |
 |------|-------|
-| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Clean first, replace if signal persists |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Clean first, replace if signal persists |
 | Flow sensor | [Amazon](https://www.amazon.com/s?k=Flow+sensor&tag=errorcodefixes-20) \| DHW and heating flow sensors differ |
 | Heat exchanger | [Amazon](https://www.amazon.com/s?k=Heat+exchanger&tag=errorcodefixes-20) \| Expensive ΓÇö descale first |
 | Igniter | [Amazon](https://www.amazon.com/s?k=Igniter&tag=errorcodefixes-20) \| Check resistance before replacing |

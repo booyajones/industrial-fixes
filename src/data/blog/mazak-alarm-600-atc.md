@@ -3,7 +3,7 @@ title: "Mazak Alarm 600 ATC — Automatic Tool Changer Fault Causes & Fix"
 description: "What Mazak alarm 600 ATC means, why the automatic tool changer faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
 modDatetime: 2026-04-22T15:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

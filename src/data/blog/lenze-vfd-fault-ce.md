@@ -3,7 +3,7 @@ title: "Lenze VFD Fault CE — Causes & Fix"
 description: "What Lenze VFD fault code CE means, why communication errors occur, and how to restore the fieldbus or serial link."
 pubDatetime: 2026-04-22T11:00:00Z
 modDatetime: 2026-04-22T11:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

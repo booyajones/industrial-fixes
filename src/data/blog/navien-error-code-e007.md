@@ -3,7 +3,7 @@ title: "Navien Error Code E007 — Causes & Fix"
 description: "What Navien error code E007 means, why hot water outlet temperature is too high, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
 modDatetime: 2026-04-22T12:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

@@ -3,7 +3,7 @@ title: "Hitachi WJ200 / WL200 VFD Fault Codes Guide"
 description: "Hitachi WJ200 and WL200 VFD fault codes explained. Diagnose overcurrent, ground fault, undervoltage, EEPROM, and overheating trips quickly."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

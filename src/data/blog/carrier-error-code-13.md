@@ -3,7 +3,7 @@ title: "Carrier Furnace Error Code 13 — Limit Circuit Lockout Fix"
 description: "Carrier error code 13 means limit circuit lockout after repeated high-limit trips. It auto-resets after 3 hours. Here's what caused it and how to fix it."
 pubDatetime: 2026-04-26T12:00:00Z
 modDatetime: 2026-04-26T12:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -66,11 +66,11 @@ In 80% of cases, a clogged air filter is the entire problem. Check that first.
 
 | Part | Notes |
 |------|-------|
-| [Furnace Air Filter](https://www.amazon.com/s?k=carrier+furnace+air+filter&tag=errorcodefixes-20) | Always start here — check size on existing filter frame |
-| [Carrier High Limit Switch](https://www.amazon.com/s?k=carrier+furnace+high+limit+switch&tag=errorcodefixes-20) | Match temperature rating stamped on switch body |
+| [Furnace Air Filter](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) | Always start here — check size on existing filter frame |
+| [Carrier High Limit Switch](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) | Match temperature rating stamped on switch body |
 | [Furnace Blower Motor Capacitor](https://www.amazon.com/s?k=furnace+blower+motor+capacitor&tag=errorcodefixes-20) | Match µF and VAC rating exactly |
 | [Carrier Furnace Blower Motor](https://www.amazon.com/s?k=carrier+furnace+blower+motor&tag=errorcodefixes-20) | Match HP, RPM, voltage; direct-drive vs belt-drive varies |
-| [Carrier Control Board](https://www.amazon.com/s?k=carrier+furnace+control+board&tag=errorcodefixes-20) | Last resort if board is misreading limit circuit signals |
+| [Carrier Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Last resort if board is misreading limit circuit signals |
 
 ## The 3-Hour Auto-Reset — Why People Get Fooled
 

@@ -3,7 +3,7 @@ title: "Fanuc Alarm 6 Overtravel — Causes & Fix"
 description: "What Fanuc alarm 6 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
 modDatetime: 2026-04-22T08:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -36,8 +36,8 @@ Fanuc alarm 6 means hardware overtravel — a physical limit switch on one of th
 
 | Part | Notes |
 |------|-------|
-| Overtravel limit switch | [Amazon](https://www.amazon.com/s?k=Overtravel+limit+switch&tag=errorcodefixes-20) \| OMRON or equivalent; match the NC (normally closed) contact rating |
-| Limit switch mounting bracket | [Amazon](https://www.amazon.com/s?k=Limit+switch+mounting+bracket&tag=errorcodefixes-20) \| Replace if the switch was physically displaced |
+| Overtravel limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| OMRON or equivalent; match the NC (normally closed) contact rating |
+| Limit switch mounting bracket | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Replace if the switch was physically displaced |
 ## When to Call a Pro
 
 If alarm 6 appears during automatic cycle operation with correct work offsets and a verified reference position, the limit switch position may need adjustment by the machine tool builder or an authorized Fanuc service technician.

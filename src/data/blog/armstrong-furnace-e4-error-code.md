@@ -3,7 +3,7 @@ title: "Armstrong Furnace E4 Error Code — Causes & Fix"
 description: "What Armstrong furnace E4 means, why ignition fails repeatedly, and how to fix it step by step."
 pubDatetime: 2026-04-22T10:00:00Z
 modDatetime: 2026-04-22T10:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -36,10 +36,10 @@ E4 on an Armstrong Air furnace (part of the Allied Air Enterprises family, which
 
 | Part | Notes |
 |------|-------|
-| Hot surface ignitor | [Amazon](https://www.amazon.com/s?k=Hot+surface+ignitor&tag=errorcodefixes-20) \| Verify voltage rating (120V or 80V) and physical dimensions |
-| Flame sensor rod | [Amazon](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20) \| Clean first; replace if signal remains weak |
-| Gas valve | [Amazon](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) \| Replace if 24VAC is confirmed at coil but valve won't open |
-| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Replace if draft system is confirmed working but switch stays open |
+| Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Verify voltage rating (120V or 80V) and physical dimensions |
+| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Clean first; replace if signal remains weak |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Replace if 24VAC is confirmed at coil but valve won't open |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Replace if draft system is confirmed working but switch stays open |
 ## When to Call a Pro
 
 Gas valve replacement and gas pressure testing require a licensed HVAC or gas technician. Do not attempt to bypass the gas valve or ignition safety controls under any circumstances.

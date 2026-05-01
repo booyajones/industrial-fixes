@@ -3,7 +3,7 @@ title: "Mazak Alarm 800 — Tool Magazine Fault"
 description: "Mazak alarm 800 tool magazine fault: causes, magazine sensor checks, ATC timing issues, and repair steps for Mazak machining centers."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

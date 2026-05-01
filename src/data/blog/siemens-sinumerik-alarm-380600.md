@@ -3,7 +3,7 @@ title: "Siemens Sinumerik Alarm 380600 — Encoder Fault"
 description: "What Siemens Sinumerik alarm 380600 means, why an encoder fault occurs, and how to diagnose and fix it."
 pubDatetime: 2026-04-22T11:00:00Z
 modDatetime: 2026-04-22T11:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

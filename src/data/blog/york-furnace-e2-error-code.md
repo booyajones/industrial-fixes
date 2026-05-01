@@ -3,7 +3,7 @@ title: "York Furnace Error Code E2 — Causes & Fix"
 description: "What York furnace error code E2 pressure switch fault means, why it trips, and how to diagnose and fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
 modDatetime: 2026-04-22T13:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -36,9 +36,9 @@ York furnace **error code E2** indicates a **pressure switch fault** — the ind
 
 | Part | Notes |
 |------|-------|
-| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Match to model; York/Luxaire switches are model-specific |
-| Pressure switch hose | [Amazon](https://www.amazon.com/s?k=Pressure+switch+hose&tag=errorcodefixes-20) \| Available in bulk at HVAC supply; measure ID before ordering |
-| Inducer motor assembly | [Amazon](https://www.amazon.com/s?k=Inducer+motor+assembly&tag=errorcodefixes-20) \| Replace when motor is seized or capacitor test confirms failure |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match to model; York/Luxaire switches are model-specific |
+| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| Available in bulk at HVAC supply; measure ID before ordering |
+| Inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Replace when motor is seized or capacitor test confirms failure |
 | Inducer capacitor | [Amazon](https://www.amazon.com/s?k=Inducer+capacitor&tag=errorcodefixes-20) \| Test before replacing motor; often cheaper cause of slow inducer |
 ## When to Call a Pro
 

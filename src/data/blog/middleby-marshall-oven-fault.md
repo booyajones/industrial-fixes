@@ -3,7 +3,7 @@ title: "Middleby Marshall Oven Fault Codes — PS528 / PS536 Guide"
 description: "Middleby Marshall conveyor oven fault codes for PS528, PS536, and WOW series ovens: error codes, causes, and step-by-step troubleshooting."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -52,10 +52,10 @@ Middleby Marshall WOW ovens use dual-sided impingement (top and bottom). Both se
 
 | Part | Notes |
 |------|-------|
-| Type K thermocouple | [Amazon](https://www.amazon.com/s?k=Type+K+thermocouple&tag=errorcodefixes-20) \| Most common part |
+| Type K thermocouple | [Amazon](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) \| Most common part |
 | Igniter / spark module | [Amazon](https://www.amazon.com/s?k=Igniter+%2F+spark+module&tag=errorcodefixes-20) \| Replace if Err 3 persists |
 | Conveyor drive motor | [Amazon](https://www.amazon.com/s?k=Conveyor+drive+motor&tag=errorcodefixes-20) \| Replace on Err 6 |
-| Gas valve | [Amazon](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) \| Replace if valve does not open |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Replace if valve does not open |
 ## Jump to Fix
 
 - **Err 1** → Check thermocouple connector → Measure resistance → Replace

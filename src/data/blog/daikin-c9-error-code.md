@@ -3,7 +3,7 @@ title: "Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault"
 description: "Daikin error code C9 means the compressor discharge temperature sensor is faulty or out of range. Learn causes, diagnostic steps, and how to fix it."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -69,7 +69,7 @@ Daikin discharge temperature sensors are typically NTC thermistors:
 
 | Part | Notes |
 |---|---|
-| Discharge temperature sensor (Td) | [Amazon](https://www.amazon.com/s?k=Discharge+temperature+sensor+%28Td%29&tag=errorcodefixes-20) \| Daikin part 1634898 or model-specific equivalent |
+| Discharge temperature sensor (Td) | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Daikin part 1634898 or model-specific equivalent |
 | Outdoor unit PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+unit+PCB&tag=errorcodefixes-20) \| Only replace if sensor and wiring check out |
 | Sensor clamp / bracket | [Amazon](https://www.amazon.com/s?k=Sensor+clamp+%2F+bracket&tag=errorcodefixes-20) \| Ensure full contact with discharge pipe |
 ## Reset Procedure

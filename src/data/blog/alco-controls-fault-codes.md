@@ -3,7 +3,7 @@ title: "Alco Controls EXV Fault Codes - Complete Guide"
 description: "Alco Controls (Emerson) electronic expansion valve fault codes for EX series controllers: causes and troubleshooting steps."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

@@ -3,7 +3,7 @@ title: "Yaskawa VFD Fault BB — Causes & Fix"
 description: "What Yaskawa VFD fault BB (Baseblock) means, why it's different from a hard fault, and when action is needed."
 pubDatetime: 2026-04-22T12:00:00Z
 modDatetime: 2026-04-22T12:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

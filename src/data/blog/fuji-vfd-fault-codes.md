@@ -3,7 +3,7 @@ title: "Fuji Frenic-Mini VFD Fault Codes Guide"
 description: "Fuji Frenic-Mini VFD fault codes explained. Learn the common overcurrent, overvoltage, undervoltage, ground fault, and memory errors on Fuji drives."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

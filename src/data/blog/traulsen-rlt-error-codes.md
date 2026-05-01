@@ -3,7 +3,7 @@ title: "Traulsen RLT Series Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Traulsen RLT Series commercial refrigerator error codes, diagnostic codes, common fault causes, and step-by-step repair procedures."
 pubDatetime: 2026-04-22T23:00:00Z
 modDatetime: 2026-04-22T23:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -53,12 +53,12 @@ The Traulsen RLT Series are reach-in commercial refrigerators designed for deman
 
 | Part | Notes |
 |---|---|
-| Box temperature sensor | [Amazon](https://www.amazon.com/s?k=Box+temperature+sensor&tag=errorcodefixes-20) \| Traulsen specific; verify probe length and connector |
-| Defrost heater | [Amazon](https://www.amazon.com/s?k=Defrost+heater&tag=errorcodefixes-20) \| Match wattage; multiple heaters on some RLT models |
-| Defrost termination thermostat | [Amazon](https://www.amazon.com/s?k=Defrost+termination+thermostat&tag=errorcodefixes-20) \| Check cutout temperature |
+| Box temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Traulsen specific; verify probe length and connector |
+| Defrost heater | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) \| Match wattage; multiple heaters on some RLT models |
+| Defrost termination thermostat | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Check cutout temperature |
 | DCS relay board | [Amazon](https://www.amazon.com/s?k=DCS+relay+board&tag=errorcodefixes-20) \| For Er fault; verify cable before replacing board |
-| Door gasket | [Amazon](https://www.amazon.com/s?k=Door+gasket&tag=errorcodefixes-20) \| Traulsen magnetic gasket; order by door and hinge orientation |
-| Evaporator fan motor | [Amazon](https://www.amazon.com/s?k=Evaporator+fan+motor&tag=errorcodefixes-20) \| Match existing specifications |
+| Door gasket | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?tag=errorcodefixes-20) \| Traulsen magnetic gasket; order by door and hinge orientation |
+| Evaporator fan motor | [Amazon](https://www.amazon.com/dp/B01N0J3ZEH?tag=errorcodefixes-20) \| Match existing specifications |
 ## When to Call a Pro
 
 Traulsen is a premium commercial refrigeration brand — warranty service must be performed by Welbilt/Traulsen authorized service agents to maintain the warranty. HACCP data logging through the DCS system is a critical food safety feature for healthcare and institutional kitchens — any fault that compromises temperature logging should be addressed immediately by a qualified refrigeration technician.

@@ -3,7 +3,7 @@ title: "Carrier Heat Pump E6 Error Code — Outdoor Temp Sensor Fault"
 description: "What Carrier E6 means on a heat pump, why the outdoor temperature sensor fails, and how to diagnose and fix it."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

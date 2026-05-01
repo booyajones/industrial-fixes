@@ -2,7 +2,7 @@
 title: "Gas Furnace Won't Turn On: Step-by-Step Troubleshooting Guide"
 description: "Diagnose a gas furnace that won't turn on. Check thermostat, filter, igniter, gas supply, limit switch, pressure switch, and common no-heat failures."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Marcus Webb"
 tags:
   - hvac
   - error-codes
@@ -172,12 +172,12 @@ Use the diagram on the blower door to decode the exact meaning for your model. T
 
 | Part | Use | Link |
 |---|---|---|
-| Hot Surface Igniter | Furnace won't light, igniter open or cracked | [View on Amazon](https://www.amazon.com/s?k=universal+furnace+hot+surface+igniter&tag=errorcodefixes-20) |
-| Flame Sensor Rod | Burners light then shut off in seconds | [View on Amazon](https://www.amazon.com/s?k=furnace+flame+sensor+rod+universal&tag=errorcodefixes-20) |
+| Hot Surface Igniter | Furnace won't light, igniter open or cracked | [View on Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) |
+| Flame Sensor Rod | Burners light then shut off in seconds | [View on Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) |
 | Furnace Filter (1-inch pleated) | High-limit trips from restricted airflow | [View on Amazon](https://www.amazon.com/s?k=1+inch+pleated+furnace+filter&tag=errorcodefixes-20) |
-| Pressure Switch Hose | Cracked or leaking pressure switch tubing | [View on Amazon](https://www.amazon.com/s?k=furnace+pressure+switch+hose&tag=errorcodefixes-20) |
-| Furnace Pressure Switch | Inducer runs but switch never closes | [View on Amazon](https://www.amazon.com/s?k=furnace+pressure+switch+universal&tag=errorcodefixes-20) |
-| Multimeter | Testing igniter, fuse, and control voltage | [View on Amazon](https://www.amazon.com/s?k=digital+multimeter+hvac&tag=errorcodefixes-20) |
+| Pressure Switch Hose | Cracked or leaking pressure switch tubing | [View on Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) |
+| Furnace Pressure Switch | Inducer runs but switch never closes | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) |
+| Multimeter | Testing igniter, fuse, and control voltage | [View on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) |
 
 ## When to Call a Pro
 

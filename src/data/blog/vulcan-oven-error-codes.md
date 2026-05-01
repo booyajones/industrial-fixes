@@ -3,7 +3,7 @@ title: "Vulcan Commercial Oven Error Codes — Guide"
 description: "Vulcan commercial oven error codes: what each means and how to fix it."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -46,9 +46,9 @@ The control board lost communication with a connected module. Power cycle. If E5
 
 | Part | Notes |
 |------|-------|
-| Temperature sensor / thermocouple | [Amazon](https://www.amazon.com/s?k=Temperature+sensor+%2F+thermocouple&tag=errorcodefixes-20) \| Match to Vulcan oven model |
+| Temperature sensor / thermocouple | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Match to Vulcan oven model |
 | Igniter assembly | [Amazon](https://www.amazon.com/s?k=Igniter+assembly&tag=errorcodefixes-20) \| For E3 on gas units |
-| Convection fan motor | [Amazon](https://www.amazon.com/s?k=Convection+fan+motor&tag=errorcodefixes-20) \| For E4 |
+| Convection fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| For E4 |
 ## When to Call a Pro
 
 Gas valve replacement and high-temperature safety device work requires a certified commercial kitchen equipment technician.

@@ -2,7 +2,7 @@
 title: "Signs of Refrigerant Leak in AC or Heat Pump - Diagnosis Guide"
 description: "Ice on the coil, warm air, hissing sounds, and high energy bills are all signs of a refrigerant leak. Learn how to identify a refrigerant leak in your AC or heat pump, what causes it, and what EPA rules apply to repairs."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Marcus Webb"
 tags:
   - hvac
   - error-codes

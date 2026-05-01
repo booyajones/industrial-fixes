@@ -2,7 +2,7 @@
 title: "Honeywell T6 Pro Thermostat Error Codes - E1 E2 E3 Fault Guide"
 description: "Complete guide to Honeywell T6 Pro thermostat error codes E1, E2, and E3, covering indoor sensor failure, outdoor sensor fault, and low battery alerts with step-by-step fixes. The T6 Pro is the best-selling thermostat on Amazon."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Marcus Webb"
 tags:
   - hvac
   - error-codes
@@ -129,7 +129,7 @@ Reversed or misconnected wires are the most common source of errors on new insta
 |------|----------------|-------------|
 | [Honeywell T6 Pro Programmable Thermostat](https://www.amazon.com/s?k=Honeywell+T6+Pro+thermostat+TH6320U2008&tag=errorcodefixes-20) | Direct replacement when sensor or board failure can't be resolved | $55–$85 |
 | [Duracell AA Batteries (8-Pack)](https://www.amazon.com/s?k=Duracell+AA+batteries+8+pack&tag=errorcodefixes-20) | E3 fix; always keep fresh batteries on hand for thermostat replacement | $10–$15 |
-| [Honeywell Outdoor Temperature Sensor C7089R1013](https://www.amazon.com/s?k=Honeywell+outdoor+temperature+sensor+C7089&tag=errorcodefixes-20) | E2 fix for installations using an outdoor sensor | $20–$40 |
+| [Honeywell Outdoor Temperature Sensor C7089R1013](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | E2 fix for installations using an outdoor sensor | $20–$40 |
 | [18/5 Thermostat Wire 50ft](https://www.amazon.com/s?k=thermostat+wire+18+5+conductor+50ft&tag=errorcodefixes-20) | For adding a C wire to eliminate battery drain issues | $15–$35 |
 | [24V AC Transformer Replacement](https://www.amazon.com/s?k=24VAC+HVAC+transformer+thermostat&tag=errorcodefixes-20) | Replace a failed HVAC control transformer causing no-power conditions | $15–$30 |
 

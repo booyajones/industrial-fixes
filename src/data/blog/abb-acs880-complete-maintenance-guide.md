@@ -2,7 +2,7 @@
 title: "ABB ACS880 Drive Maintenance Guide - Service Intervals, Fault Prevention, and Troubleshooting"
 description: "Complete ABB ACS880 drive maintenance guide covering fan replacement intervals, capacitor reforming, IGBT checks, cooling system cleaning, firmware updates, and how to prevent common faults 4110, 4210, and 2310."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Dana Kowalski"
 tags:
   - vfd
   - industrial
@@ -136,7 +136,7 @@ Update procedure requires ABB Drive Composer (PC tool) connected via USB or DDCS
 | Electrolytic Capacitor Bank Kit | Capacitor replacement/reforming | [View on Amazon](https://www.amazon.com/s?k=industrial+drive+dc+bus+capacitor+kit&tag=errorcodefixes-20) |
 | Thermal Interface Pad (IGBT) | IGBT module re-mounting | [View on Amazon](https://www.amazon.com/s?k=IGBT+thermal+interface+pad&tag=errorcodefixes-20) |
 | Compressed Air Duster (Electronics Safe) | Heatsink and filter cleaning | [View on Amazon](https://www.amazon.com/s?k=compressed+air+duster+electronics&tag=errorcodefixes-20) |
-| Fluke 87V Industrial Multimeter | IGBT diode check, voltage verification | [View on Amazon](https://www.amazon.com/s?k=Fluke+87V+multimeter&tag=errorcodefixes-20) |
+| Fluke 87V Industrial Multimeter | IGBT diode check, voltage verification | [View on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) |
 | Megohmmeter / Insulation Tester | Motor insulation resistance testing | [View on Amazon](https://www.amazon.com/s?k=megohmmeter+insulation+tester+500v&tag=errorcodefixes-20) |
 
 ---

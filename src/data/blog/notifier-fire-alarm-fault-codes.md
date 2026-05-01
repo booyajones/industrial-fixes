@@ -3,7 +3,7 @@ title: "Notifier Fire Alarm System Fault Codes — NFS2-3030 / AFP-400 Guide"
 description: "Notifier fire alarm panel fault codes for NFS2-3030, AFP-400, and ONYX series: trouble conditions, ground faults, module failures, and reset steps."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

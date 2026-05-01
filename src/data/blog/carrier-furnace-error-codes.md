@@ -3,7 +3,7 @@ title: "Carrier Furnace Error Codes — Complete Guide"
 description: "Carrier furnace error codes: all flash codes with meanings, causes, and fixes for every Carrier gas furnace."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

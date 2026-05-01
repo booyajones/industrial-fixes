@@ -3,7 +3,7 @@ title: "Burnham Alpine Boiler Error Code Guide — Causes & Fix"
 description: "Burnham Alpine boiler error codes explained — what each fault means, why it happens, and how to fix it."
 pubDatetime: 2026-04-22T15:00:00Z
 modDatetime: 2026-04-22T15:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -40,9 +40,9 @@ The Burnham Alpine is a high-efficiency modulating condensing boiler using the I
 
 | Part | Notes |
 |------|-------|
-| Flame sensor rod | [Amazon](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20) \| Clean first; replace if resistance is abnormally high or the tip is pitted |
-| Gas valve | [Amazon](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) \| Replace only after confirming 24VAC input and correct gas pressure |
-| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Match WC rating for the Alpine model size |
+| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Clean first; replace if resistance is abnormally high or the tip is pitted |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Replace only after confirming 24VAC input and correct gas pressure |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match WC rating for the Alpine model size |
 | Circulator pump (Taco, Grundfos) | [Amazon](https://www.amazon.com/s?k=Circulator+pump+%28Taco%2C+Grundfos%29&tag=errorcodefixes-20) \| Required if pump is failed and E03 is caused by no-flow |
 ## When to Call a Pro
 

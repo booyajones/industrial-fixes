@@ -3,7 +3,7 @@ title: "Lincoln Impinger Conveyor Oven Fault Codes — Complete Guide"
 description: "Lincoln Impinger conveyor oven fault codes and error messages for Models 1000, 1100, 1600, and 2000 series: causes and troubleshooting steps."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -63,10 +63,10 @@ Lincoln Impinger conveyor belt problems are mechanical, not typically coded:
 
 | Part | Notes |
 |------|-------|
-| Type K thermocouple | [Amazon](https://www.amazon.com/s?k=Type+K+thermocouple&tag=errorcodefixes-20) \| Common wear item |
+| Type K thermocouple | [Amazon](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) \| Common wear item |
 | Igniter assembly | [Amazon](https://www.amazon.com/s?k=Igniter+assembly&tag=errorcodefixes-20) \| Replace if cracked or weak spark |
 | Conveyor belt | [Amazon](https://www.amazon.com/s?k=Conveyor+belt&tag=errorcodefixes-20) \| Replace worn or broken links |
-| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| Replace on E6 code |
+| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace on E6 code |
 ## Jump to Fix
 
 - **E1/E4 sensor fault** → Check connector → Measure thermocouple resistance → Replace

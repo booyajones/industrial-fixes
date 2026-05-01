@@ -3,7 +3,7 @@ title: "Schneider Altivar 212 Fault OCF — Overcurrent Causes & Fix"
 description: "What Schneider Altivar 212 fault OCF means, why overcurrent trips the drive, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
 modDatetime: 2026-04-22T15:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

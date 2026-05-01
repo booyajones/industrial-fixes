@@ -1,6 +1,6 @@
 ---
 title: "Hoshizaki Ice Machine E7 Error Code — High-Side Pressure Switch Fault Fix"
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 pubDatetime: 2026-04-26T17:00:00Z
 modDatetime: 2026-04-26T17:00:00Z
 slug: hoshizaki-e7-pressure-switch
@@ -53,10 +53,10 @@ For commercial kitchen operators, E7 means your ice machine is offline. Unlike s
 
 ## Parts You May Need
 
-- [Hoshizaki Condenser Fan Motor Replacement](https://www.amazon.com/s?k=Hoshizaki+ice+machine+condenser+fan+motor&tag=errorcodefixes-20)
-- [Hoshizaki High Pressure Switch](https://www.amazon.com/s?k=Hoshizaki+high+pressure+switch+ice+machine&tag=errorcodefixes-20)
+- [Hoshizaki Condenser Fan Motor Replacement](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20)
+- [Hoshizaki High Pressure Switch](https://www.amazon.com/dp/B013IHQ8CU?tag=errorcodefixes-20)
 - [Commercial Ice Machine Coil Cleaner Foam](https://www.amazon.com/s?k=commercial+ice+machine+coil+cleaner+foam&tag=errorcodefixes-20)
-- [Run Capacitor for Commercial Ice Machine](https://www.amazon.com/s?k=run+capacitor+commercial+ice+machine&tag=errorcodefixes-20)
+- [Run Capacitor for Commercial Ice Machine](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20)
 - [HVAC Coil Fin Brush Set](https://www.amazon.com/s?k=HVAC+coil+fin+brush+condenser+cleaning&tag=errorcodefixes-20)
 
 ## When to Call a Technician

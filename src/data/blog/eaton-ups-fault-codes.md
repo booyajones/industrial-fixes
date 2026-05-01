@@ -3,7 +3,7 @@ title: "Eaton UPS Fault Codes - Complete Guide"
 description: "Eaton UPS fault codes for 9PX, 9SX, 9E, BladeUPS, and 9395 systems: LED indicators, alarms, causes, and troubleshooting steps."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

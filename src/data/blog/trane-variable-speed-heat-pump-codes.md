@@ -3,7 +3,7 @@ title: "Trane XV20i/XV18 Variable Speed Heat Pump Error Codes"
 description: "Trane XV20i and XV18 variable speed heat pump error codes and fault diagnostics. ComfortLink II fault codes, causes, and technician fixes."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -53,7 +53,7 @@ Check ComfortLink II communication wiring for breaks, shorts, or reversed polari
 |------|-------|
 | Inverter board | [Amazon](https://www.amazon.com/s?k=Inverter+board&tag=errorcodefixes-20) \| High cost ΓÇö verify with Trane tech support before ordering |
 | ComfortLink II thermostat | [Amazon](https://www.amazon.com/s?k=ComfortLink+II+thermostat&tag=errorcodefixes-20) \| Required for fault code display |
-| Defrost sensor | [Amazon](https://www.amazon.com/s?k=Defrost+sensor&tag=errorcodefixes-20) \| Clip-on thermistor ΓÇö verify resistance |
+| Defrost sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Clip-on thermistor ΓÇö verify resistance |
 | Reversing valve | [Amazon](https://www.amazon.com/s?k=Reversing+valve&tag=errorcodefixes-20) \| Match refrigerant type |
 | Electronic expansion valve (EXV) | [Amazon](https://www.amazon.com/s?k=Electronic+expansion+valve+%28EXV%29&tag=errorcodefixes-20) \| Variable speed units use EXV not TXV |
 > **Pro tip:** Trane XV20i diagnostic data can be viewed via the Nexia app or Trane Diagnostics Tool. Always check inverter board LED indicators before ordering parts ΓÇö they often pinpoint the specific fault.

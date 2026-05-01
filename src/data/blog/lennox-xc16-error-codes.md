@@ -3,7 +3,7 @@ title: "Lennox XC16 Air Conditioner Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Lennox XC16 air conditioner error codes, alert codes, common fault causes, and step-by-step fixes for technicians and homeowners."
 pubDatetime: 2026-04-22T23:00:00Z
 modDatetime: 2026-04-22T23:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -54,11 +54,11 @@ The Lennox XC16 is a 16–21 SEER2 two-stage central air conditioner that uses t
 
 | Part | Notes |
 |---|---|
-| Dual run capacitor | [Amazon](https://www.amazon.com/s?k=Dual+run+capacitor&tag=errorcodefixes-20) \| Compressor and fan; most common single failure |
-| Contactor | [Amazon](https://www.amazon.com/s?k=Contactor&tag=errorcodefixes-20) \| Two-pole; check for pitting and coil resistance |
-| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Match HP, RPM, frame size |
-| High-pressure switch | [Amazon](https://www.amazon.com/s?k=High-pressure+switch&tag=errorcodefixes-20) \| 610 PSIG cutout for R-410A |
-| Low-pressure switch | [Amazon](https://www.amazon.com/s?k=Low-pressure+switch&tag=errorcodefixes-20) \| 50 PSIG cutout; replace if code persists |
+| Dual run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Compressor and fan; most common single failure |
+| Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Two-pole; check for pitting and coil resistance |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match HP, RPM, frame size |
+| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| 610 PSIG cutout for R-410A |
+| Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| 50 PSIG cutout; replace if code persists |
 | Outdoor communication board | [Amazon](https://www.amazon.com/s?k=Outdoor+communication+board&tag=errorcodefixes-20) \| For Alert 231 or 411 |
 ## When to Call a Pro
 

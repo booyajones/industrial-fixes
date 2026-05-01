@@ -2,7 +2,7 @@
 title: "Bradford White Infiniti K Tankless Water Heater Error Codes"
 description: "Full fault code reference for the Bradford White Infiniti K condensing tankless water heater, covering all error codes, condensate drain faults, scale sensor diagnostics, and controller troubleshooting with step-by-step repair guides."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "James Rutherford"
 tags:
   - hvac
   - error-codes

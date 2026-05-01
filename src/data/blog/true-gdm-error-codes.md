@@ -2,7 +2,7 @@
 title: "True GDM Error Codes - What It Means and How to Fix It"
 description: "True GDM merchandisers use error codes to flag sensor, defrost, fan, and controller problems before product warms up. This guide explains the common codes and the field checks that solve them fastest."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "James Rutherford"
 tags:
   - hvac
   - error-codes
@@ -138,9 +138,9 @@ A deteriorated door gasket allows warm, humid air to infiltrate the cabinet cons
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|--------------|
 | [True 800271 NTC Thermistor Sensor](https://www.amazon.com/s?k=True+800271+thermistor+sensor+refrigerator&tag=errorcodefixes-20) | E1/E2 errors — cabinet or defrost sensor failure | $15–$30 |
-| [True GDM Evaporator Fan Motor](https://www.amazon.com/s?k=True+GDM+evaporator+fan+motor+replacement&tag=errorcodefixes-20) | Failed evaporator fan causes high cabinet temperature | $35–$75 |
-| [True GDM Condenser Fan Motor](https://www.amazon.com/s?k=True+refrigeration+condenser+fan+motor&tag=errorcodefixes-20) | Failed condenser fan causes E3 high-temp and compressor lockout | $30–$65 |
-| [True 800270 Defrost Heater](https://www.amazon.com/s?k=True+800270+defrost+heater&tag=errorcodefixes-20) | E4 defrost fault — heater failure causes coil to ice up | $25–$55 |
+| [True GDM Evaporator Fan Motor](https://www.amazon.com/dp/B01N0J3ZEH?tag=errorcodefixes-20) | Failed evaporator fan causes high cabinet temperature | $35–$75 |
+| [True GDM Condenser Fan Motor](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) | Failed condenser fan causes E3 high-temp and compressor lockout | $30–$65 |
+| [True 800270 Defrost Heater](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) | E4 defrost fault — heater failure causes coil to ice up | $25–$55 |
 | [Ranco ETC-211000 Temperature Controller](https://www.amazon.com/s?k=Ranco+ETC-211000+temperature+controller&tag=errorcodefixes-20) | E6 controller fault or failed temperature control | $45–$85 |
 | [Coil Cleaner Commercial No-Rinse](https://www.amazon.com/s?k=commercial+coil+cleaner+no+rinse+foam&tag=errorcodefixes-20) | Dirty condenser causes E3 high temp alarm and efficiency loss | $15–$25 |
 

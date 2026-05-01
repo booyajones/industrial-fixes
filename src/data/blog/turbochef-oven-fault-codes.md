@@ -3,7 +3,7 @@ title: "TurboChef Rapid Cook Oven Fault Codes — Sota / Encore Guide"
 description: "TurboChef rapid cook oven fault codes for Sota, Encore, and i5 series: error messages, causes, and troubleshooting for commercial rapid cook ovens."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -60,10 +60,10 @@ The impingement blower provides hot air jets. If the blower fails, the oven cook
 
 | Part | Notes |
 |------|-------|
-| Type K thermocouple | [Amazon](https://www.amazon.com/s?k=Type+K+thermocouple&tag=errorcodefixes-20) \| Common sensor failure |
+| Type K thermocouple | [Amazon](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) \| Common sensor failure |
 | Door interlock switch kit | [Amazon](https://www.amazon.com/s?k=Door+interlock+switch+kit&tag=errorcodefixes-20) \| Replace on E4 fault |
 | Blower wheel | [Amazon](https://www.amazon.com/s?k=Blower+wheel&tag=errorcodefixes-20) \| Clean or replace on E6 |
-| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| Replace on E5 fault |
+| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace on E5 fault |
 ## Jump to Fix
 
 - **E0/E1 sensor** → Check connector → Measure resistance → Replace thermocouple

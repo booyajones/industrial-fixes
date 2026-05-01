@@ -3,7 +3,7 @@ title: "FS-Elliott Centrifugal Compressor Fault Codes — Complete Guide"
 description: "FS-Elliott centrifugal compressor fault codes, surge alarms, and shutdown conditions with troubleshooting steps for industrial air applications."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -45,7 +45,7 @@ Centrifugal compressors rely on pressurized lube oil for bearings. Check the oil
 |------|-------|
 | Inlet filter element | [Amazon](https://www.amazon.com/s?k=Inlet+filter+element&tag=errorcodefixes-20) \| High DP trips are common |
 | Oil filter cartridge | [Amazon](https://www.amazon.com/s?k=Oil+filter+cartridge&tag=errorcodefixes-20) \| Replace at service interval |
-| Bearing temperature sensors | [Amazon](https://www.amazon.com/s?k=Bearing+temperature+sensors&tag=errorcodefixes-20) \| Common alarm source |
+| Bearing temperature sensors | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Common alarm source |
 | Oil cooler cleaning | [Amazon](https://www.amazon.com/s?k=Oil+cooler+cleaning&tag=errorcodefixes-20) \| Required if oil temps rise |
 ## Jump to Fix
 

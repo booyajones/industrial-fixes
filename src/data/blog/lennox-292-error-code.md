@@ -52,10 +52,10 @@ This code does not mean the furnace is permanently broken. It means the ignition
 
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|-------------|
-| Hot surface igniter | 44W93 | $40–$55 | [Amazon](https://www.amazon.com/s?k=44W93+Hot+surface+igniter&tag=errorcodefixes-20) \| Repair Clinic / Amazon |
-| Flame sensor | 51W06 | $20–$30 | [Amazon](https://www.amazon.com/s?k=51W06+Flame+sensor&tag=errorcodefixes-20) \| Repair Clinic / Amazon |
-| Gas valve (G60DF-1) | LB-100523P | $180–$250 | [Amazon](https://www.amazon.com/s?k=LB-100523P+Gas+valve+%28G60DF-1%29&tag=errorcodefixes-20) \| HVAC Distributors / Amazon |
-| Control board | 103116-01 | $220–$350 | [Amazon](https://www.amazon.com/s?k=103116-01+Control+board&tag=errorcodefixes-20) \| Repair Clinic |
+| Hot surface igniter | 44W93 | $40–$55 | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Repair Clinic / Amazon |
+| Flame sensor | 51W06 | $20–$30 | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Repair Clinic / Amazon |
+| Gas valve (G60DF-1) | LB-100523P | $180–$250 | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| HVAC Distributors / Amazon |
+| Control board | 103116-01 | $220–$350 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Repair Clinic |
 ## When to Call a Professional
 
 If you've replaced the igniter and cleaned the flame sensor and the 292 code persists, the problem is likely the gas valve, gas pressure, or control board. Gas valve replacement involves working with live gas lines — this requires a licensed technician in most jurisdictions and should not be a DIY repair. Similarly, if you smell gas at any point during diagnosis, shut off the gas supply immediately and leave the building before calling your gas utility.

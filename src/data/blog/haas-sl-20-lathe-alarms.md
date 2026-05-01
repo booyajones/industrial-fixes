@@ -3,7 +3,7 @@ title: "Haas SL-20 Lathe Common Alarms — What They Mean and How to Fix Them"
 description: "Complete guide to common Haas SL-20 lathe alarms, including turret, spindle, servo, and overtravel faults with practical troubleshooting tips."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -52,7 +52,7 @@ The Haas SL-20 is a two-axis CNC lathe found in job shops and production turning
 
 | Part | Notes |
 |------|-------|
-| Hydraulic pressure switch | [Amazon](https://www.amazon.com/s?k=Hydraulic+pressure+switch&tag=errorcodefixes-20) \| Common for clamp/interlock complaints |
+| Hydraulic pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Common for clamp/interlock complaints |
 | Turret sensor / prox | [Amazon](https://www.amazon.com/s?k=Turret+sensor+%2F+prox&tag=errorcodefixes-20) \| For position confirmation faults |
 | Way lube parts | [Amazon](https://www.amazon.com/s?k=Way+lube+parts&tag=errorcodefixes-20) \| Motion and axis health depend on lubrication |
 | Servo amp | [Amazon](https://www.amazon.com/s?k=Servo+amp&tag=errorcodefixes-20) \| For repeated X/Z drive alarms |

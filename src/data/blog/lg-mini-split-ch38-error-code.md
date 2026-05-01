@@ -3,7 +3,7 @@ title: "LG Mini-Split CH38 Error Code — Causes & Fix"
 description: "What LG mini-split CH38 error code means, why the outdoor inverter compressor faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
 modDatetime: 2026-04-22T12:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

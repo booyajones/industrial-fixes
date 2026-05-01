@@ -3,7 +3,7 @@ title: "York Furnace E4 Error Code — Ignition Failure"
 description: "What the York furnace E4 error code means, why ignition fails, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
 modDatetime: 2026-04-22T14:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -39,10 +39,10 @@ On York furnaces with LED display panels (YP9C, TM9V, and related models), E4 in
 
 | Part | Notes |
 |------|-------|
-| Hot surface ignitor | [Amazon](https://www.amazon.com/s?k=Hot+surface+ignitor&tag=errorcodefixes-20) \| Match exact part — York uses both 120V silicon carbide and 80V silicon nitride types |
-| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Universal sensors work but OEM preferred for reliability |
-| Gas valve | [Amazon](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) \| Replace only after confirming 24VAC at valve terminals with no gas flow |
-| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| Last resort — if ignitor, sensor, and gas valve all check out |
+| Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Match exact part — York uses both 120V silicon carbide and 80V silicon nitride types |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Universal sensors work but OEM preferred for reliability |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Replace only after confirming 24VAC at valve terminals with no gas flow |
+| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Last resort — if ignitor, sensor, and gas valve all check out |
 ## When to Call a Pro
 
 Gas valve replacement requires leak-testing all connections with a manometer or soap solution. If you're not comfortable working with gas lines or you have propane (higher pressure, different hazard profile), call a licensed HVAC technician.

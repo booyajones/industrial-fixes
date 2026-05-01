@@ -3,7 +3,7 @@ title: "Armstrong Pump Fault Codes: Complete Guide"
 description: "Armstrong pump fault codes and error diagnostics. Design Envelope pump fault codes, causes, and technician-level troubleshooting."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

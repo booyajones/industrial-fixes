@@ -3,7 +3,7 @@ title: "Scotsman HID525 Error Codes — Complete Guide"
 description: "Scotsman HID525 error codes: common alarm conditions, causes, and fixes for this hotel-style ice dispenser."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

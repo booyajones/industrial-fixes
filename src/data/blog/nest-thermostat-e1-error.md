@@ -3,7 +3,7 @@ title: "Nest Thermostat E1 Error — No Power / Wiring Fault"
 description: "Nest E1 error means the thermostat can't detect power from your HVAC system. Learn how to fix missing C-wire power, wiring issues, and low battery on Nest Learning and Nest E."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

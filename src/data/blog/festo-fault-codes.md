@@ -3,7 +3,7 @@ title: "Festo Pneumatic System Fault Codes - Complete Guide"
 description: "Festo pneumatic valve terminal, CPX, and servo drive fault codes: common alarms, diagnostic steps, and repair guidance."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

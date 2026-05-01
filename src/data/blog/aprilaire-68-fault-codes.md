@@ -3,7 +3,7 @@ title: "Aprilaire 68 Dehumidifier Fault Codes — Troubleshooting Guide"
 description: "Aprilaire 68 whole-home dehumidifier fault codes and error messages: E1, E2, E3 causes and step-by-step troubleshooting for residential and light commercial."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -66,7 +66,7 @@ The Aprilaire 68 can gravity drain or use a condensate pump. If water backs up a
 
 | Part | Notes |
 |------|-------|
-| Air filter | [Amazon](https://www.amazon.com/s?k=Air+filter&tag=errorcodefixes-20) \| Most common maintenance item |
+| Air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| Most common maintenance item |
 | Refrigerant charge | [Amazon](https://www.amazon.com/s?k=Refrigerant+charge&tag=errorcodefixes-20) \| After confirmed E1 with clean filter |
 | Start capacitor | [Amazon](https://www.amazon.com/s?k=Start+capacitor&tag=errorcodefixes-20) \| Common on E3 compressor faults |
 | Condensate pump | [Amazon](https://www.amazon.com/s?k=Condensate+pump&tag=errorcodefixes-20) \| Replace if pump fails to discharge |

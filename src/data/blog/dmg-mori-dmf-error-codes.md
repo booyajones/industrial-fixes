@@ -3,7 +3,7 @@ title: "DMG Mori DMF Series Fault Codes — Common Alarms and Fixes"
 description: "Complete guide to common DMG Mori DMF series fault codes, including spindle, servo, lubrication, and control alarms with practical troubleshooting steps."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

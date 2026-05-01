@@ -3,7 +3,7 @@ title: "Trane XE80 Furnace Error Codes — Fault Code Guide"
 description: "Trane XE80 furnace error codes: flash code meanings and fixes for this popular 80% AFUE single-stage furnace still common in the field."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -62,9 +62,9 @@ The XE80 uses a hot-surface igniter (silicon carbide on older units, silicon nit
 | Part | Notes |
 |------|-------|
 | Hot-surface igniter | [Amazon](https://www.amazon.com/s?k=Hot-surface+igniter&tag=errorcodefixes-20) \| Trane CNT1011, CNT05473 or OEM equivalent |
-| Blower run capacitor | [Amazon](https://www.amazon.com/s?k=Blower+run+capacitor&tag=errorcodefixes-20) \| 5–10 µF / 370V depending on motor |
-| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| 0.35"–0.50" WC for XE80 |
-| Pressure switch hose | [Amazon](https://www.amazon.com/s?k=Pressure+switch+hose&tag=errorcodefixes-20) \| 3/8" ID rubber vacuum hose |
+| Blower run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| 5–10 µF / 370V depending on motor |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| 0.35"–0.50" WC for XE80 |
+| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| 3/8" ID rubber vacuum hose |
 ## When to Call a Pro
 The Trane XE80 is aging — most units are 15–25+ years old. If you're facing repeated ignition failures, a cracked heat exchanger is possible. A CO detector test and heat exchanger inspection by a licensed tech is worth scheduling on any XE80 over 20 years old, especially before another heating season.
 

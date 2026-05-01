@@ -3,7 +3,7 @@ title: "Slant/Fin Boiler Error Code E1 — Causes & Fix"
 description: "What Slant/Fin boiler error code E1 means, why ignition locks out, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
 modDatetime: 2026-04-22T15:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -37,9 +37,9 @@ E1 on a Slant/Fin boiler (Galaxy, Eutectic, or Minuteman series) indicates an ig
 
 | Part | Notes |
 |------|-------|
-| Flame sensor rod | [Amazon](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20) \| Usually model-specific; match the part number from the Slant/Fin service manual |
+| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Usually model-specific; match the part number from the Slant/Fin service manual |
 | Ignition module | [Amazon](https://www.amazon.com/s?k=Ignition+module&tag=errorcodefixes-20) \| Honeywell S8600 or Beckett equivalent depending on model |
-| Gas valve | [Amazon](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) \| Replace only after confirming 24VAC command and no gas output |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Replace only after confirming 24VAC command and no gas output |
 ## When to Call a Pro
 
 If E1 returns within days of cleaning the flame sensor, have a licensed plumber or HVAC technician measure gas inlet pressure and perform a combustion analysis. Low gas pressure and combustion air problems cause repeated ignition failures and are not safely addressed without proper instruments.

@@ -3,7 +3,7 @@ title: "Ecolab Dishwasher Fault Codes — Guide"
 description: "Ecolab commercial dishwasher fault codes: what each means and how to fix it."
 pubDatetime: 2026-04-22T23:00:00Z
 modDatetime: 2026-04-22T23:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

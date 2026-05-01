@@ -3,7 +3,7 @@ title: "Continental Refrigerator Error Code E1 — Causes & Fix"
 description: "What Continental Refrigerator E1 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
 modDatetime: 2026-04-22T15:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -36,7 +36,7 @@ The E1 error on Continental commercial refrigerators (reach-ins, undercounters, 
 
 | Part | Notes |
 |------|-------|
-| NTC temperature sensor | [Amazon](https://www.amazon.com/s?k=NTC+temperature+sensor&tag=errorcodefixes-20) \| Use OEM Continental part — resistance spec varies by model |
+| NTC temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Use OEM Continental part — resistance spec varies by model |
 | Sensor wiring harness | [Amazon](https://www.amazon.com/s?k=Sensor+wiring+harness&tag=errorcodefixes-20) \| Replace if wire damage is found |
 ## When to Call a Pro
 

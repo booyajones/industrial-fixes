@@ -50,9 +50,9 @@ York, Coleman, and Luxaire are all manufactured by Johnson Controls and share th
 
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|-------------|
-| York Pressure Switch (primary) | 025-27766-000 | $30–$45 | [Amazon](https://www.amazon.com/s?k=025-27766-000+York+Pressure+Switch+%28primary%29&tag=errorcodefixes-20) \| Repair Clinic / Amazon |
+| York Pressure Switch (primary) | 025-27766-000 | $30–$45 | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Repair Clinic / Amazon |
 | Inducer Draft Motor (if failed) | S1-32435820000 | $180–$280 | [Amazon](https://www.amazon.com/s?k=S1-32435820000+Inducer+Draft+Motor+%28if+failed%29&tag=errorcodefixes-20) \| Repair Clinic / HVAC distributor |
-| Pressure Switch Tubing (bulk) | Generic 3/16" ID silicone | $5–$10 | [Amazon](https://www.amazon.com/s?k=Generic+3%2F16%22+ID+silicone+Pressure+Switch+Tubing+%28bulk%29&tag=errorcodefixes-20) \| Amazon / hardware store |
+| Pressure Switch Tubing (bulk) | Generic 3/16" ID silicone | $5–$10 | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Amazon / hardware store |
 | Condensate Drain Trap | S1-37327820000 | $18–$30 | [Amazon](https://www.amazon.com/s?k=S1-37327820000+Condensate+Drain+Trap&tag=errorcodefixes-20) \| Repair Clinic |
 ## When to Call a Professional
 

@@ -3,7 +3,7 @@ title: "Penn Commercial Controls Fault Codes — Quick Troubleshooting Guide"
 description: "Penn commercial controls fault codes and safety trips for pressure controls, temperature controls, and refrigeration cutouts with common causes and fixes."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

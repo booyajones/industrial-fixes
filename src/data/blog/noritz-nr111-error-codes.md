@@ -3,7 +3,7 @@ title: "Noritz NR111 Tankless Water Heater Error Codes: Complete Guide"
 description: "Noritz NR111 tankless water heater error codes and fault diagnostics. Error codes, causes, and technician-level troubleshooting procedures."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -57,8 +57,8 @@ Code 90 is logged when the unit detects repeated combustion failures not attribu
 | Thermistor sensors | [Amazon](https://www.amazon.com/s?k=Thermistor+sensors&tag=errorcodefixes-20) \| Check resistance vs. chart |
 | Flow sensor | [Amazon](https://www.amazon.com/s?k=Flow+sensor&tag=errorcodefixes-20) \| Clean turbine before replacing |
 | Igniter/flame rod | [Amazon](https://www.amazon.com/s?k=Igniter%2Fflame+rod&tag=errorcodefixes-20) \| Check gap: 3.5ΓÇô4mm |
-| Gas valve | [Amazon](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) \| Test coil resistance (8ΓÇô12 ╬⌐ typical) |
-| Fan motor | [Amazon](https://www.amazon.com/s?k=Fan+motor&tag=errorcodefixes-20) \| Match model voltage and RPM |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Test coil resistance (8ΓÇô12 ╬⌐ typical) |
+| Fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match model voltage and RPM |
 | Heat exchanger | [Amazon](https://www.amazon.com/s?k=Heat+exchanger&tag=errorcodefixes-20) \| Last resort ΓÇö descale first |
 > **Pro tip:** Noritz NR111 units in cascade configurations (up to 16 units) can be monitored via the EZ Link controller. Fault codes for all units display on the controller ΓÇö check here before visiting individual units.
 

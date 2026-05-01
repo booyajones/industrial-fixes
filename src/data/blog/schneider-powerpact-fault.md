@@ -3,7 +3,7 @@ title: "Schneider PowerPact Breaker Fault Codes — Troubleshooting Guide"
 description: "Schneider Electric PowerPact circuit breaker fault codes and trip indicators for H, J, L, and M-frame breakers: causes, reset procedures, and fix steps."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

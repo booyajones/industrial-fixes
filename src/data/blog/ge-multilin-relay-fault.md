@@ -3,7 +3,7 @@ title: "GE Multilin Protective Relay Fault Codes — Troubleshooting Guide"
 description: "GE Multilin protective relay fault codes and trip records for 369, 489, 750, 850, and UR series relays: causes, diagnostics, and reset procedures."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

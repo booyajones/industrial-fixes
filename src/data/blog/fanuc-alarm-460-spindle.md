@@ -3,7 +3,7 @@ title: "Fanuc Alarm 460: Spindle Speed Error — Detailed Troubleshooting"
 description: "Fanuc Alarm 460 spindle speed error: detailed causes, diagnostic steps, and fix procedures for Fanuc 0i, 16i, 18i, 30i, and 31i CNC systems."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

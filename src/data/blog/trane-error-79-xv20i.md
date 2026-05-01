@@ -3,7 +3,7 @@ title: "Trane XV20i Error Code 79: Communicating Thermostat Fault Fix"
 description: "Trane XV20i error code 79 means a communicating thermostat fault. Learn the causes, how to diagnose ComfortLink II wiring issues, and how to fix it fast."
 pubDatetime: 2026-04-26T17:30:00Z
 modDatetime: 2026-04-26T17:30:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 slug: trane-error-79-xv20i
 featured: false
 draft: false
@@ -69,7 +69,7 @@ After any repair, run a full heating and cooling cycle and verify no faults retu
 - [ComfortLink II thermostat replacement](https://www.amazon.com/s?k=Trane+ComfortLink+II+thermostat&tag=errorcodefixes-20)
 - [4-wire thermostat communication cable](https://www.amazon.com/s?k=4+wire+thermostat+communication+cable&tag=errorcodefixes-20)
 - [AA alkaline batteries](https://www.amazon.com/s?k=AA+alkaline+batteries&tag=errorcodefixes-20)
-- [Trane heat pump control board](https://www.amazon.com/s?k=Trane+XV20i+control+board&tag=errorcodefixes-20)
+- [Trane heat pump control board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20)
 - [Non-contact voltage tester](https://www.amazon.com/s?k=non+contact+voltage+tester+HVAC&tag=errorcodefixes-20)
 
 ## When to Call a Technician

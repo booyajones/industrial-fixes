@@ -3,7 +3,7 @@ title: "Manitowoc Ice Machine Error Code 9 — Causes & Fix"
 description: "What Manitowoc Error Code 9 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
 modDatetime: 2026-04-22T14:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -36,7 +36,7 @@ Error Code 9 on a Manitowoc ice machine indicates a refrigerant system fault —
 
 | Part | Notes |
 |------|-------|
-| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Replace if not running with compressor on |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Replace if not running with compressor on |
 | High pressure cutout switch | [Amazon](https://www.amazon.com/s?k=High+pressure+cutout+switch&tag=errorcodefixes-20) \| Replace if it trips at normal pressure |
 | Condenser coil cleaner | [Amazon](https://www.amazon.com/s?k=Condenser+coil+cleaner&tag=errorcodefixes-20) \| Use after every cleaning cycle in kitchen environments |
 ## When to Call a Pro

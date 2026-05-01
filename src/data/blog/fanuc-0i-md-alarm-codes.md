@@ -3,7 +3,7 @@ title: "Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference"
 description: "Complete guide to Fanuc 0i-MD CNC alarm codes, meanings, causes, and first-step troubleshooting procedures for machinists and maintenance teams."
 pubDatetime: 2026-04-22T23:00:00Z
 modDatetime: 2026-04-22T23:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -56,7 +56,7 @@ The Fanuc 0i-MD is a common machining center control used on vertical mills, hor
 |---|---|
 | Encoder battery | [Amazon](https://www.amazon.com/s?k=Encoder+battery&tag=errorcodefixes-20) \| Common maintenance item on Fanuc controls |
 | Pulse coder cable | [Amazon](https://www.amazon.com/s?k=Pulse+coder+cable&tag=errorcodefixes-20) \| Replace if oil-soaked or damaged |
-| Limit switch | [Amazon](https://www.amazon.com/s?k=Limit+switch&tag=errorcodefixes-20) \| For repeated overtravel alarms |
+| Limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| For repeated overtravel alarms |
 | Servo amplifier | [Amazon](https://www.amazon.com/s?k=Servo+amplifier&tag=errorcodefixes-20) \| For persistent 401/500 alarms |
 ## When to Call a Pro
 

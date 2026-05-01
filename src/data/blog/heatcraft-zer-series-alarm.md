@@ -3,7 +3,7 @@ title: "Heatcraft ZER/ZR Series Unit Cooler Alarms — Troubleshooting Guide"
 description: "Heatcraft ZER and ZR series unit cooler alarm codes and controller faults: sensor errors, defrost alarms, fan issues, and fix steps."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -52,8 +52,8 @@ A high box temperature alarm usually points to airflow or refrigeration problems
 |------|-------|
 | Room temperature probe | [Amazon](https://www.amazon.com/s?k=Room+temperature+probe&tag=errorcodefixes-20) \| Replace on P1 alarms |
 | Coil defrost probe | [Amazon](https://www.amazon.com/s?k=Coil+defrost+probe&tag=errorcodefixes-20) \| Replace on P2 alarms |
-| Defrost heater | [Amazon](https://www.amazon.com/s?k=Defrost+heater&tag=errorcodefixes-20) \| Check continuity if ice builds heavily |
-| Evaporator fan motor | [Amazon](https://www.amazon.com/s?k=Evaporator+fan+motor&tag=errorcodefixes-20) \| Replace on fan alarms or no airflow |
+| Defrost heater | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) \| Check continuity if ice builds heavily |
+| Evaporator fan motor | [Amazon](https://www.amazon.com/dp/B01N0J3ZEH?tag=errorcodefixes-20) \| Replace on fan alarms or no airflow |
 ## Jump to Fix
 
 - **P1** → Check probe connection → Measure resistance → Replace sensor

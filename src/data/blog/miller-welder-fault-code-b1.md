@@ -3,7 +3,7 @@ title: "Miller Welder Fault Code B1 — Causes & Fix"
 description: "What Miller welder fault code B1 means, why output voltage faults trigger, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
 modDatetime: 2026-04-22T12:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

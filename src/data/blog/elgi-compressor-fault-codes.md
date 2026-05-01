@@ -3,7 +3,7 @@ title: "ELGi Air Compressor Fault Codes Guide — Troubleshooting Alarms"
 description: "ELGi air compressor fault codes for EG, EN, and AB series: alarms, shutdown causes, and troubleshooting steps for rotary screw and reciprocating compressors."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -44,8 +44,8 @@ Check oil level first. Then check the oil filter — a clogged filter on initial
 |------|-------|
 | Oil separator element | [Amazon](https://www.amazon.com/s?k=Oil+separator+element&tag=errorcodefixes-20) \| Main periodic wear item |
 | Oil filter | [Amazon](https://www.amazon.com/s?k=Oil+filter&tag=errorcodefixes-20) \| Replace with separator service |
-| Temperature sensor | [Amazon](https://www.amazon.com/s?k=Temperature+sensor&tag=errorcodefixes-20) \| Common after heat cycling |
-| Cooling fan contactor | [Amazon](https://www.amazon.com/s?k=Cooling+fan+contactor&tag=errorcodefixes-20) \| Check on temp-related faults |
+| Temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Common after heat cycling |
+| Cooling fan contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Check on temp-related faults |
 ## Jump to Fix
 
 - **High discharge temp** → Verify oil level → Clean cooler → Check fan

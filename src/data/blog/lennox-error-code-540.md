@@ -3,7 +3,7 @@ title: "Lennox Error Code 540 — Causes & Fix"
 description: "What Lennox error code 540 means, why the iComfort communication fault triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
 modDatetime: 2026-04-22T12:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

@@ -2,7 +2,7 @@
 title: "Yaskawa A1000 Complete Guide - Fault Codes, Parameters, and Commissioning"
 description: "Complete guide to the Yaskawa A1000 AC drive: full fault code reference, key parameters, commissioning procedure, and troubleshooting for all common faults including OC, OV, UV1, and GF."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Dana Kowalski"
 tags:
   - hvac
   - error-codes

@@ -3,7 +3,7 @@ title: "Navien E302 Error Code — Causes & Fix"
 description: "What Navien E302 means, why low system water pressure triggers it, and how to fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
 modDatetime: 2026-04-22T13:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

@@ -2,7 +2,7 @@
 title: "AC Not Cooling Enough - What It Means and How to Fix It"
 description: "An air conditioner that runs without cooling enough usually has an airflow, refrigerant, or outdoor unit problem. This guide walks through the fastest checks so you can restore cooling or know when the system needs service."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Marcus Webb"
 tags:
   - hvac
   - error-codes
@@ -98,12 +98,12 @@ Adding refrigerant without finding the leak is a temporary fix. A good tech will
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|--------------|
-| [AC Air Filter MERV 8 20x25x1](https://www.amazon.com/s?k=ac+air+filter+merv+8+20x25x1&tag=errorcodefixes-20) | Clogged filter kills airflow and freezes coils | $8–$18 |
-| [Dual Run Capacitor 45/5 µF 440V](https://www.amazon.com/s?k=dual+run+capacitor+45+5+uf+440v+air+conditioner&tag=errorcodefixes-20) | Failed capacitor prevents compressor or condenser fan from starting | $18–$35 |
-| [AC Condenser Fan Motor 1/5 HP](https://www.amazon.com/s?k=ac+condenser+fan+motor+replacement&tag=errorcodefixes-20) | Failed motor means no heat rejection at the outdoor unit | $55–$120 |
+| [AC Air Filter MERV 8 20x25x1](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) | Clogged filter kills airflow and freezes coils | $8–$18 |
+| [Dual Run Capacitor 45/5 µF 440V](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) | Failed capacitor prevents compressor or condenser fan from starting | $18–$35 |
+| [AC Condenser Fan Motor 1/5 HP](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) | Failed motor means no heat rejection at the outdoor unit | $55–$120 |
 | [AC Fin Comb Coil Straightener](https://www.amazon.com/s?k=ac+fin+comb+coil+straightener&tag=errorcodefixes-20) | Bent condenser fins block airflow through coil | $12–$22 |
 | [AC Coil Cleaner Foam Spray](https://www.amazon.com/s?k=ac+coil+cleaner+foam+no+rinse&tag=errorcodefixes-20) | Removes grime from condenser and evaporator coils | $12–$20 |
-| [Contactor 2-Pole 30A](https://www.amazon.com/s?k=ac+contactor+2+pole+30+amp+replacement&tag=errorcodefixes-20) | Burned contactor prevents compressor from receiving power | $15–$28 |
+| [Contactor 2-Pole 30A](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) | Burned contactor prevents compressor from receiving power | $15–$28 |
 
 ---
 

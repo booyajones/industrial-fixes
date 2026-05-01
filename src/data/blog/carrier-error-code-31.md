@@ -3,7 +3,7 @@ title: "Carrier Furnace Error Code 31 — Pressure Switch Open Fix"
 description: "Carrier error code 31 means the pressure switch failed to close. Blocked condensate, cracked hose, or weak inducer. Step-by-step diagnosis and fix."
 pubDatetime: 2026-04-26T12:00:00Z
 modDatetime: 2026-04-26T12:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -60,9 +60,9 @@ The pressure switch is a small safety device that monitors negative pressure cre
 
 | Part | Notes |
 |------|-------|
-| [Carrier Pressure Switch](https://www.amazon.com/s?k=carrier+furnace+pressure+switch&tag=errorcodefixes-20) | Match pressure rating (WC) from label on existing switch |
-| [Furnace Pressure Switch Hose](https://www.amazon.com/s?k=furnace+pressure+switch+hose&tag=errorcodefixes-20) | Standard 1/4" or 3/8" ID vinyl tubing |
-| [Carrier Inducer Motor](https://www.amazon.com/s?k=carrier+furnace+draft+inducer+motor&tag=errorcodefixes-20) | Match HP, RPM, and voltage from inducer motor label |
+| [Carrier Pressure Switch](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | Match pressure rating (WC) from label on existing switch |
+| [Furnace Pressure Switch Hose](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) | Standard 1/4" or 3/8" ID vinyl tubing |
+| [Carrier Inducer Motor](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) | Match HP, RPM, and voltage from inducer motor label |
 | [Condensate Drain Treatment](https://www.amazon.com/s?k=condensate+drain+treatment+tablets+hvac&tag=errorcodefixes-20) | Prevents algae buildup |
 | [Condensate Pump](https://www.amazon.com/s?k=hvac+condensate+pump&tag=errorcodefixes-20) | Replace if pump has failed and is backing up into the system |
 

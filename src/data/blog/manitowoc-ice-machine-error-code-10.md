@@ -3,7 +3,7 @@ title: "Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix"
 description: "What Manitowoc ice machine error code 10 means, why the ice full sensor faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
 modDatetime: 2026-04-22T15:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

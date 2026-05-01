@@ -3,7 +3,7 @@ title: "Fujimak Commercial Dishwasher Fault Codes ΓÇö Guide"
 description: "Fujimak commercial dishwasher fault codes: what each means and how to fix it."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -41,7 +41,7 @@ Fujimak is a Japanese commercial foodservice equipment brand whose dishwashers a
 |------|-------|
 | Booster heater element | [Amazon](https://www.amazon.com/s?k=Booster+heater+element&tag=errorcodefixes-20) \| For E4/E6 temperature faults |
 | Pump motor | [Amazon](https://www.amazon.com/s?k=Pump+motor&tag=errorcodefixes-20) \| For E5 ΓÇö match voltage and HP |
-| Water inlet valve | [Amazon](https://www.amazon.com/s?k=Water+inlet+valve&tag=errorcodefixes-20) \| For E1 |
+| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| For E1 |
 ## When to Call a Pro
 
 Fujimak authorized service in the US handles component replacement and commissioning. Contact Fujimak USA or an authorized service agent for persistent faults.

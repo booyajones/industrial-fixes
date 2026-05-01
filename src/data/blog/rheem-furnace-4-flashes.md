@@ -47,7 +47,7 @@ If the fault recurs after airflow correction and limit replacement, have a licen
 
 | Part | Where to Buy |
 |------|-------------|
-| [High limit switch](https://www.amazon.com/s?k=High+limit+switch&tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
+| [High limit switch](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
 | [Blower motor capacitor](https://www.amazon.com/s?k=Blower+motor+capacitor&tag=errorcodefixes-20) | Grainger, Amazon |
 | [PSC or ECM blower motor](https://www.amazon.com/s?k=PSC+or+ECM+blower+motor&tag=errorcodefixes-20) | RepairClinic, Grainger |
 

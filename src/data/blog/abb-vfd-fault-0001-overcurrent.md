@@ -3,7 +3,7 @@ title: "ABB VFD Fault 0001 Overcurrent — Causes & Fix"
 description: "What ABB VFD fault 0001 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
 modDatetime: 2026-04-22T08:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

@@ -3,7 +3,7 @@ title: "Fanuc OT Alarm — Software Overtravel (All Series)"
 description: "Fanuc soft OT alarm means the control hit a software travel limit, not necessarily a hard limit switch. Learn how to back off the axis and correct the underlying cause."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

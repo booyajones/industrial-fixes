@@ -3,7 +3,7 @@ title: "Yaskawa VFD Fault PF — Causes & Fix"
 description: "What Yaskawa VFD fault PF means, why input phase loss trips the drive, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
 modDatetime: 2026-04-22T10:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -37,7 +37,7 @@ Fault PF on a Yaskawa drive (A1000, V1000, GA700, GA800 series) stands for Input
 | Part | Notes |
 |------|-------|
 | Input fuses (class J or similar) | [Amazon](https://www.amazon.com/s?k=Input+fuses+%28class+J+or+similar%29&tag=errorcodefixes-20) \| Match voltage, ampacity, and interrupt rating for the drive kW |
-| Main contactor (3-pole) | [Amazon](https://www.amazon.com/s?k=Main+contactor+%283-pole%29&tag=errorcodefixes-20) \| Replace if contacts show burning or one pole fails to make |
+| Main contactor (3-pole) | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Replace if contacts show burning or one pole fails to make |
 | Input terminal block | [Amazon](https://www.amazon.com/s?k=Input+terminal+block&tag=errorcodefixes-20) \| Replace if terminals are corroded or cracked |
 ## When to Call a Pro
 

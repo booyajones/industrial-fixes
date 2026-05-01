@@ -3,7 +3,7 @@ title: "Furnace Flashing Red Light: What It Means and How to Fix It"
 description: "Complete guide to furnace flashing red light codes, including common flash patterns across Carrier, Goodman, Lennox, Trane, York, and Rheem furnaces."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -54,11 +54,11 @@ Rollout switch trips, repeated ignition lockouts, or a furnace that smells like 
 
 | Item | Notes |
 |------|-------|
-| Air filter | [Amazon](https://www.amazon.com/s?k=Air+filter&tag=errorcodefixes-20) \| Cheap first step for limit and airflow complaints |
-| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Clean or replace for weak flame signal issues |
-| Pressure switch hose | [Amazon](https://www.amazon.com/s?k=Pressure+switch+hose&tag=errorcodefixes-20) \| Often cracked or loose |
-| Hot surface ignitor | [Amazon](https://www.amazon.com/s?k=Hot+surface+ignitor&tag=errorcodefixes-20) \| Common ignition failure part |
-| Multimeter | [Amazon](https://www.amazon.com/s?k=Multimeter&tag=errorcodefixes-20) \| Needed for continuity and voltage checks |
+| Air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| Cheap first step for limit and airflow complaints |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Clean or replace for weak flame signal issues |
+| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| Often cracked or loose |
+| Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Common ignition failure part |
+| Multimeter | [Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) \| Needed for continuity and voltage checks |
 | Manometer | [Amazon](https://www.amazon.com/s?k=Manometer&tag=errorcodefixes-20) \| Useful for real draft and gas pressure diagnosis |
 ## When to Call a Pro
 

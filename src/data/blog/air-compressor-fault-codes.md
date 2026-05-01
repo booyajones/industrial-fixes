@@ -3,7 +3,7 @@ title: "Air Compressor Fault Codes: Complete Guide"
 description: "Master reference for air compressor fault codes across Atlas Copco, Ingersoll Rand, Kaeser, Sullair, Gardner Denver, and other major industrial brands."
 pubDatetime: 2026-04-22T23:00:00Z
 modDatetime: 2026-04-22T23:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

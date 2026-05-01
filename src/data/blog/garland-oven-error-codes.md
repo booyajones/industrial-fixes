@@ -3,7 +3,7 @@ title: "Garland Commercial Oven Error Codes — Guide"
 description: "Garland commercial oven error codes: what each means and how to fix it."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -46,7 +46,7 @@ Power cycle the oven. If Er persists, the control board has an internal fault. C
 
 | Part | Notes |
 |------|-------|
-| Cavity temperature sensor | [Amazon](https://www.amazon.com/s?k=Cavity+temperature+sensor&tag=errorcodefixes-20) \| Garland OEM part — thermocouple or RTD depending on model |
+| Cavity temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Garland OEM part — thermocouple or RTD depending on model |
 | Igniter / electrode | [Amazon](https://www.amazon.com/s?k=Igniter+%2F+electrode&tag=errorcodefixes-20) \| For E3 |
 | Blower motor | [Amazon](https://www.amazon.com/s?k=Blower+motor&tag=errorcodefixes-20) \| For E4 |
 ## When to Call a Pro

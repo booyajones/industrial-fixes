@@ -3,7 +3,7 @@ title: "STERIS Autoclave/Sterilizer Fault Codes - Complete Guide"
 description: "STERIS sterilizer and autoclave fault codes for AMSCO, V-PRO, and Gravity series: error codes, causes, and reset procedures."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -51,10 +51,10 @@ V-PRO hydrogen peroxide sterilizers have different fault codes related to the H2
 
 | Part | Notes |
 |------|-------|
-| Door gasket (EPDM) | [Amazon](https://www.amazon.com/s?k=Door+gasket+%28EPDM%29&tag=errorcodefixes-20) \| Replace annually or on F04 |
+| Door gasket (EPDM) | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?tag=errorcodefixes-20) \| Replace annually or on F04 |
 | Steam trap | [Amazon](https://www.amazon.com/s?k=Steam+trap&tag=errorcodefixes-20) \| Replace on drain fault |
 | Pressure transducer | [Amazon](https://www.amazon.com/s?k=Pressure+transducer&tag=errorcodefixes-20) \| Replace on F03 |
-| Temperature sensor | [Amazon](https://www.amazon.com/s?k=Temperature+sensor&tag=errorcodefixes-20) \| Replace on F02 |
+| Temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Replace on F02 |
 | Door interlock switch | [Amazon](https://www.amazon.com/s?k=Door+interlock+switch&tag=errorcodefixes-20) \| Replace on door fault |
 ## When to Call a Pro
 STERIS sterilizer qualification, IQ/OQ/PQ validation, and steam quality testing require biomedical engineers or STERIS-trained service technicians. Sterilizer failures in healthcare settings are a patient safety issue and must be resolved before the unit is returned to service.

@@ -3,7 +3,7 @@ title: "True Refrigeration T-Series Error Codes — Complete Fix Guide"
 description: "True T-Series commercial refrigerator error codes (T-49, T-72, T-23): what each code means and how to fix it."
 pubDatetime: 2026-04-22T13:00:00Z
 modDatetime: 2026-04-22T13:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -47,10 +47,10 @@ True Manufacturing T-Series reach-in refrigerators (T-23, T-35, T-49, T-72 and s
 | Part | Notes |
 |------|-------|
 | NTC air sensor | [Amazon](https://www.amazon.com/s?k=NTC+air+sensor&tag=errorcodefixes-20) \| True OEM only — controller is calibrated to specific sensor curve |
-| Defrost heater | [Amazon](https://www.amazon.com/s?k=Defrost+heater&tag=errorcodefixes-20) \| Match to model and voltage (115V or 208-230V) |
-| Defrost termination thermostat | [Amazon](https://www.amazon.com/s?k=Defrost+termination+thermostat&tag=errorcodefixes-20) \| Clips to evaporator; opens at ~50°F to terminate defrost |
-| Door gasket | [Amazon](https://www.amazon.com/s?k=Door+gasket&tag=errorcodefixes-20) \| True model-specific — measure and order by model number |
-| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Replace if not running with compressor on |
+| Defrost heater | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) \| Match to model and voltage (115V or 208-230V) |
+| Defrost termination thermostat | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Clips to evaporator; opens at ~50°F to terminate defrost |
+| Door gasket | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?tag=errorcodefixes-20) \| True model-specific — measure and order by model number |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Replace if not running with compressor on |
 ## When to Call a Pro
 
 If the condenser is clean, sensors and heaters test good, and the unit still can't hold temperature, the sealed refrigeration system (compressor, TXV, refrigerant) needs a certified tech with recovery equipment.

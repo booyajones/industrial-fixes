@@ -3,7 +3,7 @@ title: "WaterFurnace Geothermal Fault Code 1 — Low Pressure Lockout"
 description: "WaterFurnace geothermal heat pump Fault Code 1 means low refrigerant pressure lockout. Learn the causes, diagnostic steps, and how to fix this geothermal fault."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -78,10 +78,10 @@ WaterFurnace units allow up to 3 fault trips before hard lockout:
 
 | Part | Notes |
 |---|---|
-| Low-pressure switch | [Amazon](https://www.amazon.com/s?k=Low-pressure+switch&tag=errorcodefixes-20) \| WaterFurnace part 8733800700 or equivalent |
+| Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| WaterFurnace part 8733800700 or equivalent |
 | TXV assembly | [Amazon](https://www.amazon.com/s?k=TXV+assembly&tag=errorcodefixes-20) \| Must match refrigerant type and capacity |
 | Loop pump | [Amazon](https://www.amazon.com/s?k=Loop+pump&tag=errorcodefixes-20) \| Grundfos or Bell & Gossett — match GPM and head |
-| Blower run capacitor | [Amazon](https://www.amazon.com/s?k=Blower+run+capacitor&tag=errorcodefixes-20) \| Match µF and voltage |
+| Blower run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Match µF and voltage |
 > **Important:** WaterFurnace geothermal units require EPA 608-certified technicians for refrigerant work. Low refrigerant always means a leak — find and repair before recharging.
 
 ## Related Articles

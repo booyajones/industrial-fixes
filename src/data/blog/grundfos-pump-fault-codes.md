@@ -3,7 +3,7 @@ title: "Grundfos Circulator Pump Fault Codes — Complete Guide"
 description: "Grundfos pump fault codes for MAGNA, UPS, Alpha, and CM series: all LED and display fault codes, causes, and step-by-step fixes for Grundfos circulators."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

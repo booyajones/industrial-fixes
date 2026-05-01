@@ -3,7 +3,7 @@ title: "Tempstar Furnace E4 Error Code — Causes & Fix"
 description: "What Tempstar furnace error code E4 means, why the limit circuit opens, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
 modDatetime: 2026-04-22T15:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -37,9 +37,9 @@ E4 on a Tempstar furnace signals an open limit circuit — the high-limit switch
 
 | Part | Notes |
 |------|-------|
-| High-limit switch | [Amazon](https://www.amazon.com/s?k=High-limit+switch&tag=errorcodefixes-20) \| Match the °F trip rating and mounting configuration |
-| Rollout limit switch | [Amazon](https://www.amazon.com/s?k=Rollout+limit+switch&tag=errorcodefixes-20) \| Many are auto-reset; persistent trips require root-cause repair |
-| Blower run capacitor | [Amazon](https://www.amazon.com/s?k=Blower+run+capacitor&tag=errorcodefixes-20) \| Match µF and VAC rating exactly |
+| High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Match the °F trip rating and mounting configuration |
+| Rollout limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Many are auto-reset; persistent trips require root-cause repair |
+| Blower run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Match µF and VAC rating exactly |
 ## When to Call a Pro
 
 If the rollout switch trips repeatedly after resetting, have a technician check for a cracked heat exchanger before using the furnace — cracked exchangers are a carbon monoxide hazard and require heat exchanger or furnace replacement.

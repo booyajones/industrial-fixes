@@ -3,7 +3,7 @@ title: "Keeprite Furnace E1 Error Code — Causes & Fix"
 description: "What Keeprite furnace E1 means, why the system locks out, and how to diagnose and fix it."
 pubDatetime: 2026-04-22T10:00:00Z
 modDatetime: 2026-04-22T10:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -36,10 +36,10 @@ Keeprite is a Canadian HVAC brand that uses the same ICP (International Comfort 
 
 | Part | Notes |
 |------|-------|
-| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Use Keeprite/ICP part number; pressure rating stamped on switch body |
-| Pressure switch hose | [Amazon](https://www.amazon.com/s?k=Pressure+switch+hose&tag=errorcodefixes-20) \| 1/4" ID; silicone preferred for cold-climate durability |
-| Inducer motor capacitor | [Amazon](https://www.amazon.com/s?k=Inducer+motor+capacitor&tag=errorcodefixes-20) \| Test first — often fixes slow inducer at a fraction of motor cost |
-| Induced draft motor | [Amazon](https://www.amazon.com/s?k=Induced+draft+motor&tag=errorcodefixes-20) \| Replace if capacitor is good but motor is loud, slow, or seized |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Use Keeprite/ICP part number; pressure rating stamped on switch body |
+| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| 1/4" ID; silicone preferred for cold-climate durability |
+| Inducer motor capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Test first — often fixes slow inducer at a fraction of motor cost |
+| Induced draft motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Replace if capacitor is good but motor is loud, slow, or seized |
 ## When to Call a Pro
 
 In regions with extreme cold, repeated E1 codes from icing require a licensed HVAC technician to evaluate vent routing and possibly install an approved vent cap with freeze protection. Do not operate the furnace with a partially blocked flue.

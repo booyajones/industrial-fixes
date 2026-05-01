@@ -2,7 +2,7 @@
 title: "Navien NCB-700 Combination Boiler Error Codes - Full Fault Guide"
 description: "Full fault code guide for the Navien NCB-700 combination boiler. Covers error codes E001 through E109, diagnostic steps, and repair options for both heating and domestic hot water circuits."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Marcus Webb"
 tags:
   - hvac
   - error-codes
@@ -136,10 +136,10 @@ After a purge cycle, the pressure switch should open (indicating fan off). If it
 | Part | What It Fixes | Amazon Link |
 |------|--------------|-------------|
 | Navien NCB-700 Igniter Electrode | E001 ignition failure | [View on Amazon](https://www.amazon.com/s?k=navien+combination+boiler+igniter+electrode&tag=errorcodefixes-20) |
-| Flame Sensor Rod (Navien compatible) | E001 / E003 flame detection | [View on Amazon](https://www.amazon.com/s?k=navien+flame+sensor+rod+replacement&tag=errorcodefixes-20) |
+| Flame Sensor Rod (Navien compatible) | E001 / E003 flame detection | [View on Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) |
 | NTC Thermistor Replacement 10K | E030 / E031 / E032 / E033 thermistor fault | [View on Amazon](https://www.amazon.com/s?k=navien+thermistor+replacement+boiler&tag=errorcodefixes-20) |
-| Condensing Boiler Air Pressure Switch | E010 / E109 pressure switch fault | [View on Amazon](https://www.amazon.com/s?k=condensing+boiler+air+pressure+switch&tag=errorcodefixes-20) |
-| Navien Gas Valve Replacement | E060 gas valve fault | [View on Amazon](https://www.amazon.com/s?k=navien+gas+valve+replacement+NCB&tag=errorcodefixes-20) |
+| Condensing Boiler Air Pressure Switch | E010 / E109 pressure switch fault | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) |
+| Navien Gas Valve Replacement | E060 gas valve fault | [View on Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) |
 | Boiler Descaling Flush Kit | Scale-related overheating and thermistor faults | [View on Amazon](https://www.amazon.com/s?k=boiler+descaling+kit+hydronic&tag=errorcodefixes-20) |
 
 ---

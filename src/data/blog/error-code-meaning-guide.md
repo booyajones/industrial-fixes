@@ -3,7 +3,7 @@ title: "Understanding Industrial Error Codes — Master Guide"
 description: "How to read and understand industrial error codes for HVAC, VFDs, CNC machines, and commercial equipment."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

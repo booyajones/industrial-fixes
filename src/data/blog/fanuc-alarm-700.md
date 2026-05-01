@@ -3,7 +3,7 @@ title: "Fanuc Alarm 700 — Causes & Fix"
 description: "What Fanuc CNC alarm 700 means, why the spindle overheats, and how to diagnose and fix it."
 pubDatetime: 2026-04-22T10:00:00Z
 modDatetime: 2026-04-22T10:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

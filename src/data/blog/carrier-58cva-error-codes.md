@@ -3,7 +3,7 @@ title: "Carrier 58CVA Furnace Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Carrier 58CVA furnace error codes, LED flash sequences, common fault causes, and step-by-step repair procedures for HVAC technicians."
 pubDatetime: 2026-04-22T23:00:00Z
 modDatetime: 2026-04-22T23:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -64,12 +64,12 @@ The Carrier 58CVA is a two-stage variable-speed gas furnace delivering 80% AFUE 
 
 | Part | Notes |
 |---|---|
-| Hot surface igniter | [Amazon](https://www.amazon.com/s?k=Hot+surface+igniter&tag=errorcodefixes-20) \| Silicon nitride; handle carefully, avoid touching ceramic |
-| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Clean first; replace if cracked or reading <0.5 µA |
+| Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Silicon nitride; handle carefully, avoid touching ceramic |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Clean first; replace if cracked or reading <0.5 µA |
 | ECM blower motor | [Amazon](https://www.amazon.com/s?k=ECM+blower+motor&tag=errorcodefixes-20) \| Verify correct motor model; programmed to unit |
-| Inducer motor | [Amazon](https://www.amazon.com/s?k=Inducer+motor&tag=errorcodefixes-20) \| Match frame size and speed rating |
-| High-limit switch | [Amazon](https://www.amazon.com/s?k=High-limit+switch&tag=errorcodefixes-20) \| L170°F or L200°F depending on unit config |
-| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Check tubing for blockage before replacing |
+| Inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Match frame size and speed rating |
+| High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| L170°F or L200°F depending on unit config |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Check tubing for blockage before replacing |
 ## When to Call a Pro
 
 The 58CVA's two-stage gas valve and ECM motor require familiarity with Carrier's variable-speed control logic to diagnose correctly. If Code 45 (control board fault) appears, contact a Carrier authorized dealer — board replacement on a variable-speed furnace requires configuration matching the ECM motor and gas valve parameters.

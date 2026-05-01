@@ -3,7 +3,7 @@ title: "Allen Bradley PowerFlex 525 F7 Fault: Motor Overload Diagnosis and Fix"
 description: "Allen Bradley PowerFlex 525 F7 fault means motor overload. Check parameter P046 Motor OL Current against motor nameplate FLA to fix nuisance trips fast."
 pubDatetime: 2026-04-26T17:30:00Z
 modDatetime: 2026-04-26T17:30:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 slug: ab-powerflex-525-f7-fault
 featured: false
 draft: false
@@ -64,7 +64,7 @@ After any parameter change, document the new values. PowerFlex 525 drives are fr
 
 ## Parts You May Need
 
-- [Clamp meter for three-phase current measurement](https://www.amazon.com/s?k=three+phase+clamp+meter+industrial&tag=errorcodefixes-20)
+- [Clamp meter for three-phase current measurement](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20)
 - [Allen Bradley PowerFlex 525 HIM keypad](https://www.amazon.com/s?k=Allen+Bradley+PowerFlex+525+keypad&tag=errorcodefixes-20)
 - [TEFC industrial replacement motor](https://www.amazon.com/s?k=TEFC+industrial+replacement+motor&tag=errorcodefixes-20)
 - [Motor insulation resistance tester megger](https://www.amazon.com/s?k=motor+insulation+resistance+tester+megger&tag=errorcodefixes-20)

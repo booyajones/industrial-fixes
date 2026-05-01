@@ -3,7 +3,7 @@ title: "Carrier Error Code 65 — Inducer Motor Fault"
 description: "Carrier furnace error code 65: inducer motor fault causes, diagnosis, and repair for Carrier Performance and Infinity furnaces."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -22,10 +22,10 @@ Code 65 appears on Carrier Performance (58TP, 58SP, 58MXB) and Infinity (59MN7, 
 
 | Cause | Likelihood | Test |
 |-------|-----------|------|
-| [Failed inducer motor](https://www.amazon.com/s?k=Failed+inducer+motor&tag=errorcodefixes-20) | High | Listen for motor attempting to start |
-| [Failed inducer motor capacitor](https://www.amazon.com/s?k=Failed+inducer+motor+capacitor&tag=errorcodefixes-20) | High | Test capacitor with capacitor meter |
+| [Failed inducer motor](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) | High | Listen for motor attempting to start |
+| [Failed inducer motor capacitor](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) | High | Test capacitor with capacitor meter |
 | [Inducer wheel jammed](https://www.amazon.com/s?k=Inducer+wheel+jammed&tag=errorcodefixes-20) | Medium | Spin wheel manually — should spin freely |
-| [IFC board not sending power](https://www.amazon.com/s?k=IFC+board+not+sending+power&tag=errorcodefixes-20) | Medium | Measure 115VAC at motor terminals |
+| [IFC board not sending power](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Medium | Measure 115VAC at motor terminals |
 | [Failed RPM/tachometer feedback circuit](https://www.amazon.com/s?k=Failed+RPM%2Ftachometer+feedback+circuit&tag=errorcodefixes-20) | Lower | Check RPM feedback wire to board |
 
 ## Step-by-Step Diagnosis

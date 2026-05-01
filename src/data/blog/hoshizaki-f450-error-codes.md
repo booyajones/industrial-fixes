@@ -3,7 +3,7 @@ title: "Hoshizaki F-450 Flaker Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Hoshizaki F-450 flaker ice machine error codes, diagnostic LED codes, common fault causes, and step-by-step repair procedures."
 pubDatetime: 2026-04-22T23:00:00Z
 modDatetime: 2026-04-22T23:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -56,8 +56,8 @@ The Hoshizaki F-450 is a flake ice machine producing approximately 450 pounds of
 |---|---|
 | Gearmotor | [Amazon](https://www.amazon.com/s?k=Gearmotor&tag=errorcodefixes-20) \| Complete assembly; specific to F-450 |
 | Evaporator auger shaft seal | [Amazon](https://www.amazon.com/s?k=Evaporator+auger+shaft+seal&tag=errorcodefixes-20) \| Leak point specific to flaker design |
-| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Air-cooled units; match existing motor specs |
-| High-pressure switch | [Amazon](https://www.amazon.com/s?k=High-pressure+switch&tag=errorcodefixes-20) \| HP cutout; manual reset required after trip |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Air-cooled units; match existing motor specs |
+| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| HP cutout; manual reset required after trip |
 | Inlet water valve solenoid | [Amazon](https://www.amazon.com/s?k=Inlet+water+valve+solenoid&tag=errorcodefixes-20) \| Armature assembly or complete valve |
 | Evaporator thermistor | [Amazon](https://www.amazon.com/s?k=Evaporator+thermistor&tag=errorcodefixes-20) \| For E4; NTC type |
 ## When to Call a Pro

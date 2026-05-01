@@ -3,7 +3,7 @@ title: "Haas VF-2 Common Alarms Guide — What They Mean and How to Fix Them"
 description: "Complete guide to the most common Haas VF-2 alarms, including spindle, tool changer, overtravel, and servo faults with practical troubleshooting steps."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

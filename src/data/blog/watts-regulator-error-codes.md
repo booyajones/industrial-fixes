@@ -3,7 +3,7 @@ title: "Watts Regulator Error Codes — Complete Guide"
 description: "Watts regulator and valve error codes for water pressure regulators, backflow preventers, and mixing valves: fault indicators, failure modes, and fixes."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

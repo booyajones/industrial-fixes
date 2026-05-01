@@ -3,7 +3,7 @@ title: "Daikin RXYQ VRV System Error Codes — Complete Fault Code Guide"
 description: "Complete guide to Daikin RXYQ VRV commercial system error codes, what each fault means, and step-by-step troubleshooting for the most common failures."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -66,8 +66,8 @@ The Daikin RXYQ is a commercial VRV (Variable Refrigerant Volume) outdoor unit u
 |------|-------|
 | EEV coil | [Amazon](https://www.amazon.com/s?k=EEV+coil&tag=errorcodefixes-20) \| Removable without opening refrigerant circuit |
 | F1/F2 communication wire | [Amazon](https://www.amazon.com/s?k=F1%2FF2+communication+wire&tag=errorcodefixes-20) \| Twisted-pair shielded; replace if damaged |
-| Outdoor fan motor | [Amazon](https://www.amazon.com/s?k=Outdoor+fan+motor&tag=errorcodefixes-20) \| Confirm EC or AC type for RXYQ vintage |
-| Outdoor PCB (control board) | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB+%28control+board%29&tag=errorcodefixes-20) \| For L9 or L5 after other causes ruled out |
+| Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Confirm EC or AC type for RXYQ vintage |
+| Outdoor PCB (control board) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For L9 or L5 after other causes ruled out |
 | Refrigerant (R-410A or R-32) | [Amazon](https://www.amazon.com/s?k=Refrigerant+%28R-410A+or+R-32%29&tag=errorcodefixes-20) \| Confirm refrigerant type from unit nameplate |
 | Pressure sensor | [Amazon](https://www.amazon.com/s?k=Pressure+sensor&tag=errorcodefixes-20) \| High and low side; check resistance before replacing |
 ## When to Call a Pro

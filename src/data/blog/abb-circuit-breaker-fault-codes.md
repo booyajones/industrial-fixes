@@ -3,7 +3,7 @@ title: "ABB Tmax/Emax Circuit Breaker Fault Codes - Complete Guide"
 description: "ABB Tmax T-series and Emax 2 circuit breaker fault codes, trip indicators, and Ekip trip unit alarms: causes and reset steps."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

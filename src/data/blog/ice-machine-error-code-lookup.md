@@ -3,7 +3,7 @@ title: "Ice Machine Error Code Lookup: All Brands"
 description: "Master ice machine error code lookup guide covering Hoshizaki, Manitowoc, Scotsman, Ice-O-Matic, Follett, and more."
 pubDatetime: 2026-04-22T23:00:00Z
 modDatetime: 2026-04-22T23:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: true
 draft: false
 tags:
@@ -50,11 +50,11 @@ Ice machine codes usually point to freeze time, harvest time, water level, conde
 
 | Part | Notes |
 |---|---|
-| Water inlet valve | [Amazon](https://www.amazon.com/s?k=Water+inlet+valve&tag=errorcodefixes-20) \| Fill issues |
-| Float switch | [Amazon](https://www.amazon.com/s?k=Float+switch&tag=errorcodefixes-20) \| Water level faults |
+| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| Fill issues |
+| Float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?tag=errorcodefixes-20) \| Water level faults |
 | Thermistor | [Amazon](https://www.amazon.com/s?k=Thermistor&tag=errorcodefixes-20) \| Freeze/harvest sensor problems |
-| Hot gas valve | [Amazon](https://www.amazon.com/s?k=Hot+gas+valve&tag=errorcodefixes-20) \| Harvest faults |
-| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| High-pressure trips |
+| Hot gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Harvest faults |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| High-pressure trips |
 ## When to Call a Pro
 
 If the machine is in a foodservice or healthcare setting and codes continue after cleaning and basic checks, bring in a commercial refrigeration tech. Ice quality, sanitation, and production rate all matter, not just whether the machine turns on.

@@ -3,7 +3,7 @@ title: "Fanuc Alarm 409 — Servo Overload (Z-Axis)"
 description: "Fanuc Alarm 409 means the servo load on the Z-axis exceeded the allowable threshold. Learn the common causes and how to fix Fanuc 409."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

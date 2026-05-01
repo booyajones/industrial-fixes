@@ -3,7 +3,7 @@ title: "CyberPower UPS Error Codes - Complete Guide"
 description: "CyberPower UPS error codes and fault indicators for OL, PR, and Smart App series: LED alerts, beep codes, causes, and fixes."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

@@ -3,7 +3,7 @@ title: "Danfoss VFD Fault E-Trip — Causes & Fix"
 description: "What Danfoss VFD fault E-Trip means, why an external trip input activates, and how to diagnose and clear it."
 pubDatetime: 2026-04-22T11:00:00Z
 modDatetime: 2026-04-22T11:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

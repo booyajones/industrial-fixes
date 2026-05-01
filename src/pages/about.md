@@ -18,3 +18,7 @@ These guides are built from OEM service literature, manufacturer fault code data
 - Boilers: gas and condensing, residential and commercial
 
 If you need a part, the parts tables link to suppliers. If you need a tech, call one. Some of these repairs require a manometer, combustion analyzer, or licensed gas work. The guides tell you when that line is crossed.
+
+## Contact
+
+For partnership inquiries, content corrections, or press: [info@errorcodefixes.com](mailto:info@errorcodefixes.com)

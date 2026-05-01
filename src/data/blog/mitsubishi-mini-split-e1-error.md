@@ -1,6 +1,6 @@
 ---
 title: "Mitsubishi Mini Split E1 Error Code — Indoor Thermistor Fault Fix"
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 pubDatetime: 2026-04-26T17:00:00Z
 modDatetime: 2026-04-26T17:00:00Z
 slug: mitsubishi-mini-split-e1-error
@@ -52,10 +52,10 @@ E1 is a common fault identified by HVAC professionals as one of the top Mitsubis
 ## Parts You May Need
 
 - [Mitsubishi Indoor Room Temperature Thermistor Sensor](https://www.amazon.com/s?k=Mitsubishi+mini+split+indoor+room+thermistor+sensor&tag=errorcodefixes-20)
-- [Mitsubishi Indoor Unit Control Board PCB](https://www.amazon.com/s?k=Mitsubishi+mini+split+indoor+unit+control+board&tag=errorcodefixes-20)
+- [Mitsubishi Indoor Unit Control Board PCB](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20)
 - [Electrical Contact Cleaner Spray](https://www.amazon.com/s?k=electrical+contact+cleaner+spray&tag=errorcodefixes-20)
 - [Dielectric Grease for Electrical Connectors](https://www.amazon.com/s?k=dielectric+grease+electrical+connectors&tag=errorcodefixes-20)
-- [Digital Multimeter for HVAC Diagnostics](https://www.amazon.com/s?k=digital+multimeter+HVAC+diagnostics&tag=errorcodefixes-20)
+- [Digital Multimeter for HVAC Diagnostics](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

@@ -3,7 +3,7 @@ title: "NUM CNC Alarm E28 — Causes & Fix"
 description: "What NUM CNC Alarm E28 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

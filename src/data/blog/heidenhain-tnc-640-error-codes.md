@@ -3,7 +3,7 @@ title: "Heidenhain TNC 640 Error Code Guide — Complete Diagnostic Reference"
 description: "Complete guide to Heidenhain TNC 640 error codes, meanings, causes, and first-step troubleshooting procedures for CNC technicians."
 pubDatetime: 2026-04-22T23:00:00Z
 modDatetime: 2026-04-22T23:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

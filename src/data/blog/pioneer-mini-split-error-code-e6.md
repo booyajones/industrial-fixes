@@ -3,7 +3,7 @@ title: "Pioneer Mini Split Error Code E6 — Causes & Fix"
 description: "What Pioneer mini split error code E6 means, why communication fails between indoor and outdoor units, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
 modDatetime: 2026-04-22T15:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

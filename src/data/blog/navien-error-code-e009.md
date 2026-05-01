@@ -3,7 +3,7 @@ title: "Navien E009 Error Code — Causes & Fix"
 description: "What Navien error code E009 means, why the heat exchanger overheats, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
 modDatetime: 2026-04-22T10:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

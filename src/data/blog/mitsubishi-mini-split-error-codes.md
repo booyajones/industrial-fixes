@@ -3,7 +3,7 @@ title: "Mitsubishi Mini Split Error Codes — Complete Guide"
 description: "Mitsubishi mini split error codes: all E, U, and P codes explained with causes and fixes for Mr. Slim and M-Series units."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

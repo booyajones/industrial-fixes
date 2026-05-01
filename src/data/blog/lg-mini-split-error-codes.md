@@ -3,7 +3,7 @@ title: "LG Mini Split Error Codes — All CH Codes Explained"
 description: "LG mini split error codes: every CH code with meaning, causes, and fixes for LG Art Cool, Dual Inverter, and multi-zone systems."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

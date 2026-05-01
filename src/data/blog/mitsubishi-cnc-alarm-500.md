@@ -3,7 +3,7 @@ title: "Mitsubishi CNC Alarm 500 — Causes & Fix"
 description: "What Mitsubishi CNC alarm 500 means on M70/M80 series, why servo error occurs, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
 modDatetime: 2026-04-22T10:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

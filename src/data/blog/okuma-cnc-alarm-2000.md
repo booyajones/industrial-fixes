@@ -3,7 +3,7 @@ title: "Okuma CNC Alarm 2000 — Communication Error"
 description: "Okuma Alarm 2000 means a communication error within the CNC control or between the control and drive system. Learn the causes and how to troubleshoot it."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

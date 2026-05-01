@@ -2,7 +2,7 @@
 title: "How to Clean an HVAC Flame Sensor - Step-by-Step Guide"
 description: "Step-by-step guide to cleaning a gas furnace flame sensor. Includes how to test with a microamp meter, cleaning with emery cloth, and when to replace the rod entirely."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Marcus Webb"
 tags:
   - hvac
   - error-codes
@@ -117,9 +117,9 @@ Most clamp meters don't have a µA range — you need a meter with a separate µ
 
 | Part | Use | Amazon Link |
 |------|-----|-------------|
-| Universal Flame Sensor Rod (Supco or equivalent) | Replace corroded or broken flame sensor | [View on Amazon](https://www.amazon.com/s?k=universal+flame+sensor+furnace+rod&tag=errorcodefixes-20) |
+| Universal Flame Sensor Rod (Supco or equivalent) | Replace corroded or broken flame sensor | [View on Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) |
 | Emery Cloth Assortment (400-600 grit) | Clean oxidized flame sensor rod | [View on Amazon](https://www.amazon.com/s?k=emery+cloth+assortment+400+600+grit&tag=errorcodefixes-20) |
-| Fluke 87V Digital Multimeter (µA capable) | Test flame sensor microamp output | [View on Amazon](https://www.amazon.com/s?k=Fluke+87V+multimeter&tag=errorcodefixes-20) |
+| Fluke 87V Digital Multimeter (µA capable) | Test flame sensor microamp output | [View on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) |
 | 1/4-inch Hex Nut Driver | Remove flame sensor mounting screws | [View on Amazon](https://www.amazon.com/s?k=1+4+inch+hex+nut+driver+HVAC&tag=errorcodefixes-20) |
 
 ## When to Call a Pro

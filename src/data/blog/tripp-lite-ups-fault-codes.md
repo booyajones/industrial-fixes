@@ -3,7 +3,7 @@ title: "Tripp Lite UPS Fault Codes - Complete Guide"
 description: "Tripp Lite UPS error codes and fault indicators for SmartOnline, Smart Pro, and SU series: LED codes, alarms, and troubleshooting."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

@@ -3,7 +3,7 @@ title: "Omron 3G3MX2 E04 Fault — Ground Fault"
 description: "Omron MX2 / 3G3MX2 E04 fault means the drive detected a ground fault on the output. Learn causes, diagnostics, and the fix for E04."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

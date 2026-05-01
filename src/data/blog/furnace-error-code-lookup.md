@@ -3,7 +3,7 @@ title: "Furnace Error Code Lookup Tool: All Brands"
 description: "Master furnace error code lookup guide covering Carrier, Goodman, Lennox, Trane, York, Rheem, Bryant, Heil, Amana, Coleman, and more."
 pubDatetime: 2026-04-22T23:00:00Z
 modDatetime: 2026-04-22T23:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: true
 draft: false
 tags:
@@ -51,11 +51,11 @@ Furnace fault codes are usually shown as blinking LEDs, two-digit board codes, o
 
 | Part | Notes |
 |---|---|
-| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Cheap and commonly dirty |
-| Hot surface igniter | [Amazon](https://www.amazon.com/s?k=Hot+surface+igniter&tag=errorcodefixes-20) \| Fragile, common wear part |
-| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Check tubing before replacing |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Cheap and commonly dirty |
+| Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Fragile, common wear part |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Check tubing before replacing |
 | Blower capacitor | [Amazon](https://www.amazon.com/s?k=Blower+capacitor&tag=errorcodefixes-20) \| Common on PSC motor furnaces |
-| Air filter | [Amazon](https://www.amazon.com/s?k=Air+filter&tag=errorcodefixes-20) \| Low-cost first fix |
+| Air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| Low-cost first fix |
 ## When to Call a Pro
 
 If the code points to rollout, heat exchanger concerns, gas valve issues, or persistent lockouts after basic cleaning and filter replacement, call a licensed HVAC technician. Some furnace faults are safety issues, not DIY maintenance items.

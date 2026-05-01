@@ -3,7 +3,7 @@ title: "Automatic Transfer Switch Fault Codes — Complete Guide"
 description: "Automatic transfer switch (ATS) fault codes for Generac, Kohler, Asco, and Russelectric ATS units: all fault codes, error states, causes, and fixes."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

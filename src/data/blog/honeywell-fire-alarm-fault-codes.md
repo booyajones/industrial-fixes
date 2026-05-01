@@ -3,7 +3,7 @@ title: "Honeywell NOTIFIER Fire Alarm Fault Codes — IFP-50 / ONYX Guide"
 description: "Honeywell fire alarm system fault codes for NOTIFIER IFP-50, ONYX Series NFS2-640, and FlashScan SLC panels: trouble conditions and troubleshooting."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

@@ -3,7 +3,7 @@ title: "Mitsubishi U6 Error Code — Causes & Fix"
 description: "What Mitsubishi mini-split U6 error code means, why the coil sensor faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
 modDatetime: 2026-04-22T12:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

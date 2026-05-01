@@ -3,7 +3,7 @@ title: "Honeywell WEBs Building Controller Fault Codes - Complete Guide"
 description: "Honeywell WEBs-AX and WEBs-4S building controller fault codes and alarms: communication errors, sensor faults, causes and fixes."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

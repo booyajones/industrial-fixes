@@ -3,7 +3,7 @@ title: "Briggs & Stratton Generator Error Codes — Complete Guide"
 description: "Briggs & Stratton generator error codes for standby and portable generators: all fault codes, alarm meanings, and step-by-step fixes."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

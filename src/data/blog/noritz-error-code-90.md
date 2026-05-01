@@ -3,7 +3,7 @@ title: "Noritz Error Code 90 — Causes & Fix"
 description: "What Noritz error code 90 combustion fan fault means, why it trips, and how to diagnose and fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
 modDatetime: 2026-04-22T13:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -36,8 +36,8 @@ Noritz **error code 90** indicates a **combustion abnormality**, usually tied to
 
 | Part | Notes |
 |------|-------|
-| Combustion fan motor | [Amazon](https://www.amazon.com/s?k=Combustion+fan+motor&tag=errorcodefixes-20) \| Replace when fan speed is unstable or the motor is noisy |
-| Intake air filter | [Amazon](https://www.amazon.com/s?k=Intake+air+filter&tag=errorcodefixes-20) \| Replace if torn or permanently clogged |
+| Combustion fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Replace when fan speed is unstable or the motor is noisy |
+| Intake air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| Replace if torn or permanently clogged |
 | Service valves / descaling kit | [Amazon](https://www.amazon.com/s?k=Service+valves+%2F+descaling+kit&tag=errorcodefixes-20) \| Useful for annual maintenance on hard-water installations |
 ## When to Call a Pro
 

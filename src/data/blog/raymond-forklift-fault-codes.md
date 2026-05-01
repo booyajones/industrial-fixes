@@ -3,7 +3,7 @@ title: "Raymond Forklift Fault Codes - Complete Guide"
 description: "Raymond forklift fault codes for 7000 series, 8000 series, and Reach-Fork trucks: error codes, causes, and troubleshooting steps."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

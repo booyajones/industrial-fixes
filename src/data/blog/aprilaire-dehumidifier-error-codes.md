@@ -3,7 +3,7 @@ title: "Aprilaire Dehumidifier Error Codes — Complete Guide"
 description: "Aprilaire dehumidifier error codes for models 1700, 1710, 1750, 1850, and E100: fault codes, causes, and fixes for whole-home dehumidifiers."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

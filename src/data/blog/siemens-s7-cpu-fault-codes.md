@@ -3,7 +3,7 @@ title: "Siemens S7-300/400 CPU Fault Code Guide"
 description: "Siemens S7-300 and S7-400 PLC fault codes explained. Learn how to diagnose STOP mode, hardware errors, and diagnostic buffer entries using STEP 7 and TIA Portal."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

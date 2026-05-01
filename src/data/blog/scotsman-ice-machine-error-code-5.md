@@ -3,7 +3,7 @@ title: "Scotsman Ice Machine Error Code 5 — Freeze Cycle Timeout Causes & Fix"
 description: "What Scotsman ice machine error code 5 means, why the freeze cycle times out, and how to fix it step by step."
 pubDatetime: 2026-04-24T23:54:00Z
 modDatetime: 2026-04-24T23:54:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -41,8 +41,8 @@ Scotsman ice machine error code 5 usually means the machine timed out in freeze.
 |------|-------|
 | Water pump | [Amazon](https://www.amazon.com/s?k=scotsman+ice+machine+water+pump&tag=errorcodefixes-20) \| Replace if flow across the plate is weak or intermittent |
 | Thermistor / temperature sensor | [Amazon](https://www.amazon.com/s?k=scotsman+ice+machine+thermistor&tag=errorcodefixes-20) \| Match the model family before ordering |
-| Water inlet valve | [Amazon](https://www.amazon.com/s?k=scotsman+ice+machine+water+inlet+valve&tag=errorcodefixes-20) \| Replace if fill volume is low |
-| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=scotsman+condenser+fan+motor&tag=errorcodefixes-20) \| Air-cooled machines need full condenser airflow |
+| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| Replace if fill volume is low |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Air-cooled machines need full condenser airflow |
 
 ## When to Call a Pro
 

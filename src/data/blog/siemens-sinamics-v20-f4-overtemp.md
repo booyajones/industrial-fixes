@@ -1,6 +1,6 @@
 ---
 title: "Siemens SINAMICS V20 F4 Fault — Inverter Overtemperature Fix"
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 pubDatetime: 2026-04-26T17:00:00Z
 modDatetime: 2026-04-26T17:00:00Z
 slug: siemens-sinamics-v20-f4-overtemp

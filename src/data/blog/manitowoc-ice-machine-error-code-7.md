@@ -3,7 +3,7 @@ title: "Manitowoc Ice Machine Error Code 7 — Causes & Fix"
 description: "What Manitowoc ice machine error code 7 means, why bin thermostat faults trigger, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
 modDatetime: 2026-04-22T12:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

@@ -3,7 +3,7 @@ title: "Sun Hydraulics Fault Codes - Complete Guide"
 description: "Sun Hydraulics (Helios) electrohydraulic manifold and controller fault codes: causes, diagnostic steps, and repair guidance."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

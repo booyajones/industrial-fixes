@@ -3,7 +3,7 @@ title: "Mazak Matrix/Matrix 2 Fault Code Guide — Complete Reference"
 description: "Mazak Matrix and Matrix 2 CNC control fault codes: alarm descriptions, servo, spindle, and system alarms with diagnostic steps and troubleshooting."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

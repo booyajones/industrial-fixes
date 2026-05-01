@@ -1,6 +1,6 @@
 ---
 title: "Hoshizaki Ice Machine E9 Error Code — Compressor Overload Fault Fix"
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 pubDatetime: 2026-04-26T17:00:00Z
 modDatetime: 2026-04-26T17:00:00Z
 slug: hoshizaki-e9-error-compressor
@@ -61,9 +61,9 @@ Hoshizaki is one of the leading commercial ice machine brands in North America, 
 ## Parts You May Need
 
 - [Hoshizaki Compressor Start Relay Replacement](https://www.amazon.com/s?k=Hoshizaki+ice+machine+compressor+start+relay&tag=errorcodefixes-20)
-- [Hoshizaki Run Capacitor Ice Machine](https://www.amazon.com/s?k=Hoshizaki+ice+machine+run+capacitor&tag=errorcodefixes-20)
+- [Hoshizaki Run Capacitor Ice Machine](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20)
 - [Commercial Ice Machine Condenser Coil Cleaner](https://www.amazon.com/s?k=commercial+ice+machine+condenser+coil+cleaner&tag=errorcodefixes-20)
-- [Refrigeration Compressor Multimeter Test Kit](https://www.amazon.com/s?k=refrigeration+compressor+multimeter+test&tag=errorcodefixes-20)
+- [Refrigeration Compressor Multimeter Test Kit](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20)
 - [Capacitor Meter HVAC](https://www.amazon.com/s?k=capacitor+meter+HVAC+refrigeration&tag=errorcodefixes-20)
 
 ## When to Call a Technician

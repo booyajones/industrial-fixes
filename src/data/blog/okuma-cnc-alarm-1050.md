@@ -3,7 +3,7 @@ title: "Okuma CNC Alarm 1050 — Causes & Fix"
 description: "What Okuma CNC alarm 1050 means, why the servo alarm trips, and how to diagnose and fix it."
 pubDatetime: 2026-04-22T10:00:00Z
 modDatetime: 2026-04-22T10:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

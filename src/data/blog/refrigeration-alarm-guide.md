@@ -3,7 +3,7 @@ title: "Commercial Refrigeration Alarm Guide: Quick Reference"
 description: "Quick-reference guide to commercial refrigeration alarms across walk-ins, display cases, controllers, and ice machines, including common meanings and first checks."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -56,9 +56,9 @@ Before you reach for gauges, check box temperature, airflow, coil condition, con
 |------|-------|
 | Probe / thermistor | [Amazon](https://www.amazon.com/s?k=Probe+%2F+thermistor&tag=errorcodefixes-20) \| Cheap part, common failure |
 | Condenser brush or coil cleaner | [Amazon](https://www.amazon.com/s?k=Condenser+brush+or+coil+cleaner&tag=errorcodefixes-20) \| Dirty condensers are everywhere |
-| Fan motor | [Amazon](https://www.amazon.com/s?k=Fan+motor&tag=errorcodefixes-20) \| Evaporator and condenser fan failures are common |
-| Door gasket | [Amazon](https://www.amazon.com/s?k=Door+gasket&tag=errorcodefixes-20) \| Warm-box issues on walk-ins and merchandisers |
-| Defrost heater / timer | [Amazon](https://www.amazon.com/s?k=Defrost+heater+%2F+timer&tag=errorcodefixes-20) \| For recurring defrost alarms |
+| Fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Evaporator and condenser fan failures are common |
+| Door gasket | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?tag=errorcodefixes-20) \| Warm-box issues on walk-ins and merchandisers |
+| Defrost heater / timer | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) \| For recurring defrost alarms |
 | Controller manual | [Amazon](https://www.amazon.com/s?k=Controller+manual&tag=errorcodefixes-20) \| Alarm meanings vary by platform |
 ## When to Call a Pro
 

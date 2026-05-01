@@ -3,7 +3,7 @@ title: "York YSC Rooftop Unit Error Codes Guide"
 description: "Complete York YSC series rooftop unit error codes. Covers all E-codes, P-codes, and flash codes with technician-level diagnostic steps."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -78,12 +78,12 @@ Temperature sensors on York YSC units have a nominal resistance of 10K ohms at 7
 
 | Part | Notes |
 |---|---|
-| [Temperature sensor](https://www.amazon.com/s?k=Temperature+sensor&tag=errorcodefixes-20) | 10K thermistor — York part S1-02525919700 |
-| [Hot surface igniter](https://www.amazon.com/s?k=Hot+surface+igniter&tag=errorcodefixes-20) | Model-specific — check tonnage and model suffix |
-| [Flame sensor rod](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20) | Measure µA before replacing |
-| [High-pressure switch](https://www.amazon.com/s?k=High-pressure+switch&tag=errorcodefixes-20) | Check trip pressure setting |
-| [Run capacitor](https://www.amazon.com/s?k=Run+capacitor&tag=errorcodefixes-20) | Check µF on both compressor and fan caps |
-| [IFC control board](https://www.amazon.com/s?k=IFC+control+board&tag=errorcodefixes-20) | York part number varies by tonnage |
+| [Temperature sensor](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | 10K thermistor — York part S1-02525919700 |
+| [Hot surface igniter](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) | Model-specific — check tonnage and model suffix |
+| [Flame sensor rod](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) | Measure µA before replacing |
+| [High-pressure switch](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | Check trip pressure setting |
+| [Run capacitor](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) | Check µF on both compressor and fan caps |
+| [IFC control board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | York part number varies by tonnage |
 
 > **Note:** The York YSC shares many components with the Coleman and Luxaire commercial RTU lines. Parts are interchangeable.
 

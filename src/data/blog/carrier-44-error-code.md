@@ -3,7 +3,7 @@ title: "Carrier 44 Error Code — Causes & Fix"
 description: "What Carrier error code 44 means, why the igniter circuit opens, and how to fix it step by step."
 pubDatetime: 2026-04-22T11:00:00Z
 modDatetime: 2026-04-22T11:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -38,9 +38,9 @@ Carrier error code 44 indicates an open igniter circuit. The furnace control boa
 
 | Part | Notes |
 |------|-------|
-| Hot surface igniter | [Amazon](https://www.amazon.com/s?k=Hot+surface+igniter&tag=errorcodefixes-20) \| Match to furnace model; silicon nitride is more durable than silicon carbide |
+| Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Match to furnace model; silicon nitride is more durable than silicon carbide |
 | Igniter wiring harness | [Amazon](https://www.amazon.com/s?k=Igniter+wiring+harness&tag=errorcodefixes-20) \| Replace if insulation is melted or connector pins are corroded |
-| Furnace control board | [Amazon](https://www.amazon.com/s?k=Furnace+control+board&tag=errorcodefixes-20) \| Only if relay confirmed open under load testing |
+| Furnace control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Only if relay confirmed open under load testing |
 ## When to Call a Pro
 
 If voltage is confirmed at the igniter connector but the board still throws a 44 fault, or if you suspect a gas valve issue is masking the fault, call a licensed HVAC technician. Gas train diagnostics require proper combustion testing equipment.

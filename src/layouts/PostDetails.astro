@@ -14,6 +14,7 @@ import QuickAnswer from "@/components/QuickAnswer.astro";
 import RelatedPosts from "@/components/RelatedPosts.astro";
 import EmailCapture from "../components/EmailCapture.astro";
 import { getPath } from "@/utils/getPath";
+import { authors } from "../data/authors";
 import { slugifyStr } from "@/utils/slugify";
 import IconChevronLeft from "@/assets/icons/IconChevronLeft.svg";
 import IconChevronRight from "@/assets/icons/IconChevronRight.svg";
@@ -38,6 +39,8 @@ const {
 } = post.data;
 
 const { Content } = await render(post);
+
+const authorData = authors[author];
 
 let ogImageUrl: string | undefined;
 
@@ -94,7 +97,7 @@ const nextPost =
     "description": description,
     "datePublished": pubDatetime?.toISOString(),
     "dateModified": modDatetime ? modDatetime.toISOString() : pubDatetime?.toISOString(),
-    "author": { "@type": "Organization", "name": SITE.title, "url": SITE.website },
+    "author": authorData ? { "@type": "Person", "name": authorData.name, "jobTitle": authorData.title } : { "@type": "Organization", "name": SITE.title, "url": SITE.website },
     "publisher": { "@type": "Organization", "name": SITE.title, "url": SITE.website },
     "supply": [
       { "@type": "HowToSupply", "name": tags && tags.length > 0 ? tags[0] : "Replacement parts" },
@@ -142,7 +145,7 @@ const nextPost =
         "name": `How do I fix ${title.replace(/—.*$/, '').trim()}?`,
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": `Follow the step-by-step fix guide on this page. The most common causes and solutions for this error code are documented by certified industrial technicians. See the 'Step-by-Step Fix' section above for detailed instructions.`
+          "text": `Use the step-by-step repair instructions below to fix ${title.replace(/—.*$/, '').trim()}. This ${tags?.length > 0 ? tags[0] : 'equipment'} fault code is diagnosed by checking the most common failure points first — power supply, sensor readings, and control board signals. Each step is documented by certified industrial technicians with specific part numbers and test procedures.`
         }
       }
     ]
@@ -170,7 +173,14 @@ const nextPost =
         <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
           <path d="M12 12c2.7 0 4.8-2.1 4.8-4.8S14.7 2.4 12 2.4 7.2 4.5 7.2 7.2 9.3 12 12 12zm0 2.4c-3.2 0-9.6 1.6-9.6 4.8v2.4h19.2v-2.4c0-3.2-6.4-4.8-9.6-4.8z"/>
         </svg>
-        Verified by Certified Industrial Technician
+        {
+          authorData && authorData.slug ? (
+            <a href={`/authors/${authorData.slug}/`}>{authorData.name}</a>
+          ) : (
+            <span>Verified by Certified Technicians</span>
+          )
+        }
+        {authorData && authorData.credentials ? `, ${authorData.credentials}` : ''}
       </span>
       <span class="article-date">
         Updated: <time datetime={modDatetime ? modDatetime.toISOString() : pubDatetime.toISOString()}>

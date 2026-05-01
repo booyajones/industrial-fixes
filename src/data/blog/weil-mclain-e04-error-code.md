@@ -3,7 +3,7 @@ title: "Weil-McLain E04 Error Code — Causes & Fix"
 description: "What Weil-McLain E04 error code means, why the sensor faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
 modDatetime: 2026-04-22T12:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

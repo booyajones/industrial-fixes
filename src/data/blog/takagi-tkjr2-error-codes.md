@@ -2,7 +2,7 @@
 title: "Takagi TK-Jr2 Error Codes - What It Means and How to Fix It"
 description: "Takagi TK-Jr2 tankless water heaters use numeric codes like 11, 12, 14, 16, 31, 52, 61, and 91 to report ignition, sensor, gas valve, fan, and exhaust faults. This guide explains every major TK-Jr2 code and the repair steps that usually fix it."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Dana Kowalski"
 tags:
   - hvac
   - error-codes
@@ -183,12 +183,12 @@ Code 91 on a TK-Jr2 that's been in service for 3+ years in a hard water area alm
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
 | [Takagi TK-Jr2 Igniter Assembly (Part # 100013730)](https://www.amazon.com/s?k=Takagi+TK-Jr2+igniter+assembly+100013730&tag=errorcodefixes-20) | Replaces failed spark igniter causing Code 11 | $25-$50 |
-| [Flame Sensor Rod (Takagi Compatible)](https://www.amazon.com/s?k=Takagi+tankless+flame+sensor+rod&tag=errorcodefixes-20) | Replaces corroded flame sensor causing Code 12 or 99 | $12-$25 |
-| [TK-Jr2 Fan Motor Assembly (Part # 100013732)](https://www.amazon.com/s?k=Takagi+TK-Jr2+fan+motor+100013732&tag=errorcodefixes-20) | Replaces failed combustion fan causing Code 61 | $85-$150 |
+| [Flame Sensor Rod (Takagi Compatible)](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) | Replaces corroded flame sensor causing Code 12 or 99 | $12-$25 |
+| [TK-Jr2 Fan Motor Assembly (Part # 100013732)](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) | Replaces failed combustion fan causing Code 61 | $85-$150 |
 | [Thermal Fuse 139°C 10A (Universal)](https://www.amazon.com/s?k=thermal+fuse+139c+10a+250v+replacement&tag=errorcodefixes-20) | Replaces blown thermal fuse causing Code 14 | $5-$12 |
-| [NTC Thermistor (Inlet or Outlet)](https://www.amazon.com/s?k=Takagi+tankless+NTC+thermistor+temperature+sensor&tag=errorcodefixes-20) | Replaces failed temperature sensor causing Code 31 or 32 | $12-$25 |
-| [Modulating Gas Valve (Takagi TK-Jr2)](https://www.amazon.com/s?k=Takagi+TK-Jr2+modulating+gas+valve&tag=errorcodefixes-20) | Replaces failed modulating valve causing Code 52 | $180-$320 |
-| [Takagi TK-Jr2 Control Board](https://www.amazon.com/s?k=Takagi+TK-Jr2+control+board+PCB&tag=errorcodefixes-20) | Replaces failed main PCB | $200-$380 |
+| [NTC Thermistor (Inlet or Outlet)](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | Replaces failed temperature sensor causing Code 31 or 32 | $12-$25 |
+| [Modulating Gas Valve (Takagi TK-Jr2)](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) | Replaces failed modulating valve causing Code 52 | $180-$320 |
+| [Takagi TK-Jr2 Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Replaces failed main PCB | $200-$380 |
 | [Tankless Flush Kit (Descaling)](https://www.amazon.com/s?k=tankless+water+heater+flush+descale+kit&tag=errorcodefixes-20) | Annual maintenance for hard water - prevents Code 91 and heat exchanger damage | $28-$55 |
 
 ## When to Call a Pro

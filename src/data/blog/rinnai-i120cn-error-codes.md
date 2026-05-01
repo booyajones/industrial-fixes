@@ -3,7 +3,7 @@ title: "Rinnai I120CN Tankless Water Heater Error Codes: Complete Guide"
 description: "Rinnai I120CN tankless water heater error codes and fault diagnostics. Error codes, causes, and technician-level troubleshooting procedures."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -57,7 +57,7 @@ The I120CN is a condensing unit. The condensate neutralizer requires annual repl
 | Condensate neutralizer media | [Amazon](https://www.amazon.com/s?k=Condensate+neutralizer+media&tag=errorcodefixes-20) \| Annual replacement required |
 | Inlet/outlet thermistors | [Amazon](https://www.amazon.com/s?k=Inlet%2Foutlet+thermistors&tag=errorcodefixes-20) \| Check resistance vs. temperature chart |
 | Igniter electrode | [Amazon](https://www.amazon.com/s?k=Igniter+electrode&tag=errorcodefixes-20) \| Check gap specification |
-| Fan motor | [Amazon](https://www.amazon.com/s?k=Fan+motor&tag=errorcodefixes-20) \| Commercial voltage ΓÇö match model |
+| Fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Commercial voltage ΓÇö match model |
 | Flow sensor | [Amazon](https://www.amazon.com/s?k=Flow+sensor&tag=errorcodefixes-20) \| Turbine type ΓÇö clean before replacing |
 | Heat exchanger | [Amazon](https://www.amazon.com/s?k=Heat+exchanger&tag=errorcodefixes-20) \| Expensive ΓÇö descale first |
 > **Pro tip:** The Rinnai I120CN supports up to 24 units in a cascading system. When diagnosing a cascade, check the system controller for which unit triggered the fault ΓÇö not all units display active codes simultaneously.

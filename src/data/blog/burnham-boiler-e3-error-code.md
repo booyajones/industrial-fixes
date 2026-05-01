@@ -3,7 +3,7 @@ title: "Burnham Boiler E3 Error Code — Causes & Fix"
 description: "What Burnham boiler E3 error code means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
 modDatetime: 2026-04-22T09:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

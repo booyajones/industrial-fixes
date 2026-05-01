@@ -3,7 +3,7 @@ title: "Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series"
 description: "Daikin Applied chiller fault codes for WMC, AGZ, ALZ, and centrifugal chillers: alarm descriptions, causes, and troubleshooting steps."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -51,7 +51,7 @@ The evaporator approach temperature has reached the freeze protection threshold.
 | Part | Notes |
 |------|-------|
 | Refrigerant charge | [Amazon](https://www.amazon.com/s?k=Refrigerant+charge&tag=errorcodefixes-20) \| Common after leaks |
-| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Replace on high pressure faults |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Replace on high pressure faults |
 | Flow switch | [Amazon](https://www.amazon.com/s?k=Flow+switch&tag=errorcodefixes-20) \| Inspect on low pressure and freeze faults |
 | Pressure transducer | [Amazon](https://www.amazon.com/s?k=Pressure+transducer&tag=errorcodefixes-20) \| Check on unexplained pressure readings |
 ## Jump to Fix

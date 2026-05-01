@@ -1,6 +1,6 @@
 ---
 title: "Weil-McLain Boiler Error Code E02 — Ignition Failure Fix"
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 pubDatetime: 2026-04-26T17:00:00Z
 modDatetime: 2026-04-26T17:00:00Z
 slug: weil-mclain-e02-ignition-failure
@@ -54,11 +54,11 @@ E02 is one of the highest-volume search terms for Weil-McLain boiler problems, a
 
 ## Parts You May Need
 
-- [Weil-McLain Hot Surface Igniter Replacement](https://www.amazon.com/s?k=Weil-McLain+boiler+hot+surface+igniter&tag=errorcodefixes-20)
-- [Weil-McLain Flame Sensor Rod](https://www.amazon.com/s?k=Weil-McLain+boiler+flame+sensor+rod&tag=errorcodefixes-20)
-- [Weil-McLain Gas Valve Replacement](https://www.amazon.com/s?k=Weil-McLain+boiler+gas+valve+replacement&tag=errorcodefixes-20)
-- [Weil-McLain Control Board](https://www.amazon.com/s?k=Weil-McLain+boiler+control+board&tag=errorcodefixes-20)
-- [Fine Steel Wool for Flame Sensor Cleaning](https://www.amazon.com/s?k=fine+steel+wool+0000+flame+sensor+cleaning&tag=errorcodefixes-20)
+- [Weil-McLain Hot Surface Igniter Replacement](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20)
+- [Weil-McLain Flame Sensor Rod](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20)
+- [Weil-McLain Gas Valve Replacement](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20)
+- [Weil-McLain Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20)
+- [Fine Steel Wool for Flame Sensor Cleaning](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

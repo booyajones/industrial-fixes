@@ -3,7 +3,7 @@ title: "Lincoln Electric E14 Error Code — Causes & Fix"
 description: "What Lincoln Electric E14 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T10:00:00Z
 modDatetime: 2026-04-22T10:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -38,7 +38,7 @@ The E14 fault on Lincoln Electric welders indicates an input voltage fault — t
 |------|-------|
 | Input voltage selector switch | [Amazon](https://www.amazon.com/s?k=Input+voltage+selector+switch&tag=errorcodefixes-20) \| Replace if damaged or contacts are pitted |
 | Line filter / EMI filter | [Amazon](https://www.amazon.com/s?k=Line+filter+%2F+EMI+filter&tag=errorcodefixes-20) \| If power quality is poor and causing recurring E14 |
-| Input contactor / rectifier module | [Amazon](https://www.amazon.com/s?k=Input+contactor+%2F+rectifier+module&tag=errorcodefixes-20) \| If fault persists after confirming correct input voltage |
+| Input contactor / rectifier module | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| If fault persists after confirming correct input voltage |
 ## When to Call a Pro
 
 If input voltage is confirmed correct and E14 still trips, the input rectifier or control board has failed internally. Lincoln Electric authorized service is needed for power module diagnosis and replacement.

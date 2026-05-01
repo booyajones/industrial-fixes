@@ -3,7 +3,7 @@ title: "Furnace Filter Size Guide — How to Find the Right Size and MERV Rating
 description: "Not sure what furnace filter size you need? This guide shows you how to measure, read the label, understand MERV ratings, and pick the right filter for your system."
 pubDatetime: 2026-04-25T12:00:00Z
 modDatetime: 2026-04-25T12:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

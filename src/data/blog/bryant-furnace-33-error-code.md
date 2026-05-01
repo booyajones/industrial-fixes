@@ -3,7 +3,7 @@ title: "Bryant Furnace 33 Error Code — Limit Device Lockout"
 description: "What the Bryant furnace 33 error code means, why the limit switch trips, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
 modDatetime: 2026-04-22T14:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -40,10 +40,10 @@ On Bryant furnaces, error code 33 indicates a limit device fault — the high-li
 
 | Part | Notes |
 |------|-------|
-| Air filter | [Amazon](https://www.amazon.com/s?k=Air+filter&tag=errorcodefixes-20) \| Replace every 1–3 months; most 33 faults are dirty-filter faults |
-| Blower motor run capacitor | [Amazon](https://www.amazon.com/s?k=Blower+motor+run+capacitor&tag=errorcodefixes-20) \| Test before replacing motor — most blower motor failures are capacitor failures |
-| High-limit switch | [Amazon](https://www.amazon.com/s?k=High-limit+switch&tag=errorcodefixes-20) \| Match rated temperature from original switch body |
-| Rollout switch | [Amazon](https://www.amazon.com/s?k=Rollout+switch&tag=errorcodefixes-20) \| Replace after investigating the root cause of the rollout event |
+| Air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| Replace every 1–3 months; most 33 faults are dirty-filter faults |
+| Blower motor run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Test before replacing motor — most blower motor failures are capacitor failures |
+| High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Match rated temperature from original switch body |
+| Rollout switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Replace after investigating the root cause of the rollout event |
 | Blower motor | [Amazon](https://www.amazon.com/s?k=Blower+motor&tag=errorcodefixes-20) \| Replace if motor is seized or draws excessive amps with good capacitor |
 ## When to Call a Pro
 

@@ -3,7 +3,7 @@ title: "Comfortmaker Furnace E4 Error Code — Causes & Fix"
 description: "What Comfortmaker furnace error code E4 means, why ignition fails, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
 modDatetime: 2026-04-22T15:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -37,9 +37,9 @@ E4 on a Comfortmaker furnace indicates an ignition failure lockout — the contr
 
 | Part | Notes |
 |------|-------|
-| Hot surface igniter | [Amazon](https://www.amazon.com/s?k=Hot+surface+igniter&tag=errorcodefixes-20) \| Match voltage (120V) and mounting style; OEM or quality aftermarket |
-| Flame sensor rod | [Amazon](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20) \| Replace if cleaning does not restore normal microamp signal |
-| Gas valve | [Amazon](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) \| Replace only after confirming 24VAC input with no output |
+| Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Match voltage (120V) and mounting style; OEM or quality aftermarket |
+| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Replace if cleaning does not restore normal microamp signal |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Replace only after confirming 24VAC input with no output |
 ## When to Call a Pro
 
 If gas supply pressure requires measurement, or if the gas valve needs replacement, contact a licensed HVAC technician — gas valve work involves live gas lines and requires proper pressure gauges and leak-testing.

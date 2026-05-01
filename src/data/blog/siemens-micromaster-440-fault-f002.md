@@ -3,7 +3,7 @@ title: "Siemens Micromaster 440 Fault F002 — Overcurrent"
 description: "Siemens Micromaster 440 F002 fault means overcurrent on the output. Learn the causes, parameter fixes, and hardware checks for F002."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

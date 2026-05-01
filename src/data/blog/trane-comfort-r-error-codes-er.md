@@ -3,7 +3,7 @@ title: "Trane ComfortR ER Error Code — Causes & Fix"
 description: "What the Trane ComfortR ER error code means on a communicating system, why communication fails, and how to restore the link."
 pubDatetime: 2026-04-22T11:00:00Z
 modDatetime: 2026-04-22T11:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -39,8 +39,8 @@ The ER code on a Trane ComfortR communicating system indicates a communication e
 | Part | Notes |
 |------|-------|
 | Communication wire (18 AWG, 4-conductor) | [Amazon](https://www.amazon.com/s?k=Communication+wire+%2818+AWG%2C+4-conductor%29&tag=errorcodefixes-20) \| Replace damaged runs; use shielded wire in high-interference environments |
-| Air handler control board | [Amazon](https://www.amazon.com/s?k=Air+handler+control+board&tag=errorcodefixes-20) \| Replace if communication module confirmed dead |
-| Outdoor unit control board | [Amazon](https://www.amazon.com/s?k=Outdoor+unit+control+board&tag=errorcodefixes-20) \| Replace if isolation test confirms outdoor unit is generating the ER |
+| Air handler control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace if communication module confirmed dead |
+| Outdoor unit control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace if isolation test confirms outdoor unit is generating the ER |
 | ComfortLink II thermostat | [Amazon](https://www.amazon.com/s?k=ComfortLink+II+thermostat&tag=errorcodefixes-20) \| Replace if thermostat is source of bus failure |
 ## When to Call a Pro
 

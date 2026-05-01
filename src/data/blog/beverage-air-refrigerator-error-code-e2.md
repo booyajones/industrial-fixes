@@ -3,7 +3,7 @@ title: "Beverage-Air Refrigerator Error Code E2 — Evaporator Sensor Causes & F
 description: "What Beverage-Air E2 means, why the evaporator sensor fails, and how to fix it step by step."
 pubDatetime: 2026-04-24T23:53:00Z
 modDatetime: 2026-04-24T23:53:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -41,7 +41,7 @@ Beverage-Air error code E2 usually means the evaporator sensor is out of range. 
 |------|-------|
 | Evaporator sensor / probe | [Amazon](https://www.amazon.com/s?k=beverage-air+evaporator+sensor&tag=errorcodefixes-20) \| Match the controller and cabinet series |
 | Sensor harness | [Amazon](https://www.amazon.com/s?k=refrigeration+sensor+harness&tag=errorcodefixes-20) \| Replace if the original wire run is damaged |
-| Defrost heater | [Amazon](https://www.amazon.com/s?k=beverage-air+defrost+heater&tag=errorcodefixes-20) \| Useful if repeated icing caused the sensor alarm |
+| Defrost heater | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) \| Useful if repeated icing caused the sensor alarm |
 | Temperature controller | [Amazon](https://www.amazon.com/s?k=beverage-air+temperature+controller&tag=errorcodefixes-20) \| Replace only after proving the probe is good |
 
 ## When to Call a Pro

@@ -3,7 +3,7 @@ title: "Emerson E2 Refrigeration Controller Error Codes - Complete Guide"
 description: "Emerson (Copeland) E2 refrigeration controller error codes and alarms for supermarket and cold storage: causes and fix steps."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -48,10 +48,10 @@ E2 defrost fail alarms occur when a defrost cycle doesn't terminate within the m
 
 | Part | Notes |
 |------|-------|
-| E2 temperature sensor (NTC) | [Amazon](https://www.amazon.com/s?k=E2+temperature+sensor+%28NTC%29&tag=errorcodefixes-20) \| Replace on sensor failure |
-| Defrost heater element | [Amazon](https://www.amazon.com/s?k=Defrost+heater+element&tag=errorcodefixes-20) \| Replace on defrost fail |
-| Defrost termination thermostat | [Amazon](https://www.amazon.com/s?k=Defrost+termination+thermostat&tag=errorcodefixes-20) \| Replace on defrost timeout |
-| Evaporator fan motor | [Amazon](https://www.amazon.com/s?k=Evaporator+fan+motor&tag=errorcodefixes-20) \| Replace on case temp alarm |
+| E2 temperature sensor (NTC) | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Replace on sensor failure |
+| Defrost heater element | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) \| Replace on defrost fail |
+| Defrost termination thermostat | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Replace on defrost timeout |
+| Evaporator fan motor | [Amazon](https://www.amazon.com/dp/B01N0J3ZEH?tag=errorcodefixes-20) \| Replace on case temp alarm |
 | E2 I/O board | [Amazon](https://www.amazon.com/s?k=E2+I%2FO+board&tag=errorcodefixes-20) \| Replace on communication fault |
 ## When to Call a Pro
 Emerson E2 refrigerant circuit diagnostics, EEV calibration, and compressor rack management require EPA Section 608 certification and E2 training. Incorrect setpoint changes can cause food safety violations.

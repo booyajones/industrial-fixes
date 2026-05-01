@@ -3,7 +3,7 @@ title: "Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide"
 description: "Trane 3 flashes specifically indicating a pressure switch fault. This guide covers differential pressure switch testing, hose tracing, condensate drain diagnosis, and inducer verification."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -92,10 +92,10 @@ Even if the switch and hoses are good, a worn inducer motor may not generate eno
 
 | Part | Typical Cost |
 |---|---|
-| Pressure switch (generic) | [Amazon](https://www.amazon.com/s?k=Pressure+switch+%28generic%29&tag=errorcodefixes-20) \| $15–45 |
-| OEM Trane pressure switch | [Amazon](https://www.amazon.com/s?k=OEM+Trane+pressure+switch&tag=errorcodefixes-20) \| $40–90 |
-| Inducer motor assembly | [Amazon](https://www.amazon.com/s?k=Inducer+motor+assembly&tag=errorcodefixes-20) \| $150–400 |
-| Condensate trap kit | [Amazon](https://www.amazon.com/s?k=Condensate+trap+kit&tag=errorcodefixes-20) \| $15–30 |
+| Pressure switch (generic) | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| $15–45 |
+| OEM Trane pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| $40–90 |
+| Inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| $150–400 |
+| Condensate trap kit | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) \| $15–30 |
 | Drain line tubing (per foot) | [Amazon](https://www.amazon.com/s?k=Drain+line+tubing+%28per+foot%29&tag=errorcodefixes-20) \| $1–2 |
 ## When Code 3 Becomes Code 4 or Code 6
 

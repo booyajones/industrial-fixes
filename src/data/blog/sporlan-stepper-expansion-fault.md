@@ -3,7 +3,7 @@ title: "Sporlan SEI Stepper Motor Expansion Valve Fault — Troubleshooting Guid
 description: "Sporlan SEI stepper motor electronic expansion valve faults: no movement, hunting, superheat errors, and controller troubleshooting for refrigeration systems."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

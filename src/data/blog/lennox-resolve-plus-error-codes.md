@@ -3,7 +3,7 @@ title: "Lennox ResolvePlus Rooftop Unit Error Codes: Complete Guide"
 description: "Lennox ResolvePlus RTU error codes and fault diagnostics. Covers flash codes, communicating system faults, and technician-level troubleshooting."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -50,10 +50,10 @@ On R-410A units, high-side pressure above 590 psi trips the HP switch. Wash the 
 
 | Part | Notes |
 |------|-------|
-| Integrated control board | [Amazon](https://www.amazon.com/s?k=Integrated+control+board&tag=errorcodefixes-20) \| Must match unit model |
-| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Measure ┬╡A before replacing |
-| Inducer motor | [Amazon](https://www.amazon.com/s?k=Inducer+motor&tag=errorcodefixes-20) \| Check capacitor first |
-| Limit switch | [Amazon](https://www.amazon.com/s?k=Limit+switch&tag=errorcodefixes-20) \| Match temperature rating |
+| Integrated control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Must match unit model |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Measure ┬╡A before replacing |
+| Inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Check capacitor first |
+| Limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Match temperature rating |
 | ECM blower motor | [Amazon](https://www.amazon.com/s?k=ECM+blower+motor&tag=errorcodefixes-20) \| Check motor module and control board |
 > **Pro tip:** Lennox ResolvePlus fault history is accessible via the field diagnostic tool or iComfort interface. Always retrieve fault history before clearing codes to identify intermittent problems.
 

@@ -3,7 +3,7 @@ title: "VFD Fault Code Lookup: All Brands"
 description: "Master VFD fault code lookup guide covering ABB, Danfoss, Siemens, Schneider, Mitsubishi, Yaskawa, Allen-Bradley, and more."
 pubDatetime: 2026-04-22T23:00:00Z
 modDatetime: 2026-04-22T23:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: true
 draft: false
 tags:

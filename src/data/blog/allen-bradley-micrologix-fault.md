@@ -3,7 +3,7 @@ title: "Allen-Bradley MicroLogix 1400 Common Fault Codes"
 description: "Allen-Bradley MicroLogix 1400 fault codes explained. Learn how to diagnose and clear major/minor faults using RSLogix 500, LED indicators, and the LCD display."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

@@ -3,7 +3,7 @@ title: "Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix"
 description: "What Yaskawa A1000 UV1 means, why the drive sees DC bus undervoltage, and how to diagnose input power, contactor, and weak-supply problems."
 pubDatetime: 2026-04-24T23:50:00Z
 modDatetime: 2026-04-24T23:50:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -45,7 +45,7 @@ UV1 is often intermittent at first. Operators will report that the line ran fine
 | Part | Notes |
 |------|-------|
 | Class J or semiconductor input fuses | [Amazon](https://www.amazon.com/s?k=class+j+fuse+480v+motor+drive&tag=errorcodefixes-20) \| Replace blown or heat-damaged line protection after finding the cause |
-| Three-pole contactor | [Amazon](https://www.amazon.com/s?k=3+pole+contactor+480v&tag=errorcodefixes-20) \| Weak or pitted contacts can create intermittent voltage drop |
+| Three-pole contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Weak or pitted contacts can create intermittent voltage drop |
 | 3% line reactor | [Amazon](https://www.amazon.com/s?k=3%25+line+reactor+480v+drive&tag=errorcodefixes-20) \| Helps stabilize weak or noisy incoming power |
 | Power quality meter | [Amazon](https://www.amazon.com/s?k=three+phase+power+quality+analyzer&tag=errorcodefixes-20) \| Best way to prove supply sag during startup |
 | Terminal block and ferrule kit | [Amazon](https://www.amazon.com/s?k=din+terminal+block+ferrule+kit&tag=errorcodefixes-20) \| Useful when loose or overheated line-side terminations caused the fault |

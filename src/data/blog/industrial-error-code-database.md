@@ -3,7 +3,7 @@ title: "Industrial Equipment Error Code Database: Master Reference"
 description: "Master reference hub for industrial equipment error codes covering HVAC, refrigeration, VFDs, CNC controls, boilers, pumps, compressors, and commercial kitchen equipment."
 pubDatetime: 2026-04-22T23:00:00Z
 modDatetime: 2026-04-22T23:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: true
 draft: false
 tags:

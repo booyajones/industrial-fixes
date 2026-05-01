@@ -3,7 +3,7 @@ title: "Rheem Furnace 9 Flashes Error Code — Causes & Fix"
 description: "What 9 flashes on a Rheem furnace means, why reversed polarity causes it, and how to correct the wiring."
 pubDatetime: 2026-04-22T11:00:00Z
 modDatetime: 2026-04-22T11:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -40,7 +40,7 @@ Nine LED flashes on a Rheem furnace indicates reversed polarity on the 120V powe
 |------|-------|
 | Outlet polarity tester | [Amazon](https://www.amazon.com/s?k=Outlet+polarity+tester&tag=errorcodefixes-20) \| 3-light tester costs under $10 and identifies reversed polarity instantly |
 | Wire nuts and connectors | [Amazon](https://www.amazon.com/s?k=Wire+nuts+and+connectors&tag=errorcodefixes-20) \| For re-terminating corrected wiring |
-| Furnace control board | [Amazon](https://www.amazon.com/s?k=Furnace+control+board&tag=errorcodefixes-20) \| Only if board was damaged by extended operation with reversed polarity |
+| Furnace control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Only if board was damaged by extended operation with reversed polarity |
 ## When to Call a Pro
 
 If you are not comfortable working inside electrical panels or disconnect boxes, hire a licensed electrician to correct the polarity. This is a wiring safety issue, not just a furnace fault. Once polarity is corrected by an electrician, the furnace should require no further HVAC service.

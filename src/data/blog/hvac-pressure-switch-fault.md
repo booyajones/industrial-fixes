@@ -2,7 +2,7 @@
 title: "HVAC Pressure Switch Fault - Diagnosis and Fix Guide"
 description: "Diagnose and fix pressure switch faults on gas furnaces. Covers draft inducer diagnosis, condensate drain blockage, cracked pressure switch hoses, and stuck switches."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Marcus Webb"
 tags:
   - hvac
   - error-codes
@@ -107,8 +107,8 @@ Inspect the inducer housing for cracks, particularly around the pressure port fi
 
 | Part | Use | Amazon Link |
 |------|-----|-------------|
-| Universal Furnace Pressure Switch (adjustable) | Replace failed pressure switch | [View on Amazon](https://www.amazon.com/s?k=universal+furnace+pressure+switch+HVAC&tag=errorcodefixes-20) |
-| Draft Inducer Motor (universal or OEM match) | Replace failed or weak inducer motor | [View on Amazon](https://www.amazon.com/s?k=furnace+draft+inducer+motor+replacement&tag=errorcodefixes-20) |
+| Universal Furnace Pressure Switch (adjustable) | Replace failed pressure switch | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) |
+| Draft Inducer Motor (universal or OEM match) | Replace failed or weak inducer motor | [View on Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) |
 | Rubber Pressure Hose Tubing (1/4-inch ID) | Replace cracked or brittle pressure hoses | [View on Amazon](https://www.amazon.com/s?k=1+4+inch+rubber+tubing+HVAC+pressure+hose&tag=errorcodefixes-20) |
 | Condensate Pump (115V, 1/30 HP) | Replace failed condensate pump | [View on Amazon](https://www.amazon.com/s?k=HVAC+condensate+pump+115V&tag=errorcodefixes-20) |
 | Digital Manometer (HVAC) | Measure actual draft pressure at switch | [View on Amazon](https://www.amazon.com/s?k=digital+manometer+HVAC+draft&tag=errorcodefixes-20) |

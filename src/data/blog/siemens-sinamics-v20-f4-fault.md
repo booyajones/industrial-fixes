@@ -3,7 +3,7 @@ title: "Siemens SINAMICS V20 F4 Fault — Causes & Fix"
 description: "What Siemens SINAMICS V20 F4 inverter overtemperature means, why it trips, and how to fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
 modDatetime: 2026-04-22T13:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

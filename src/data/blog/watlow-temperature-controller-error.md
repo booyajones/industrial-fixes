@@ -3,7 +3,7 @@ title: "Watlow Temperature Controller Error Codes — Complete Guide"
 description: "Watlow temperature controller error codes for EZ-ZONE, F4, and PM series controllers: sensor faults, limit alarms, and troubleshooting steps."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -42,8 +42,8 @@ If the controller is calling for heat but feedback current is too low, the heate
 
 | Part | Notes |
 |------|-------|
-| Thermocouple / RTD sensor | [Amazon](https://www.amazon.com/s?k=Thermocouple+%2F+RTD+sensor&tag=errorcodefixes-20) \| Most common fault source |
-| SSR or contactor | [Amazon](https://www.amazon.com/s?k=SSR+or+contactor&tag=errorcodefixes-20) \| Heater output device |
+| Thermocouple / RTD sensor | [Amazon](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) \| Most common fault source |
+| SSR or contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Heater output device |
 | Watlow controller | [Amazon](https://www.amazon.com/s?k=Watlow+controller&tag=errorcodefixes-20) \| Replace after I/O is verified |
 | Fuse or heater element | [Amazon](https://www.amazon.com/s?k=Fuse+or+heater+element&tag=errorcodefixes-20) \| Common with Htr alarms |
 ## When to Call a Pro

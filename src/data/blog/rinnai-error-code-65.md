@@ -3,7 +3,7 @@ title: "Rinnai Error Code 65 — Water Flow Rate Fault"
 description: "Rinnai tankless water heater Error Code 65 means insufficient water flow or a water flow sensor fault. Learn causes, diagnostic steps, and how to fix it."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

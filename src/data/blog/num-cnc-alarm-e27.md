@@ -3,7 +3,7 @@ title: "NUM CNC Alarm E27 — Servo Error Causes & Fix"
 description: "What NUM CNC alarm E27 means on NUM 1060/1080 series controls, why servo errors occur, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
 modDatetime: 2026-04-22T15:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

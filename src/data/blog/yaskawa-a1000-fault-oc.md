@@ -3,7 +3,7 @@ title: "Yaskawa A1000 OC Fault — Overcurrent"
 description: "Yaskawa A1000 drive OC fault means overcurrent on the output. Learn causes, how to diagnose OCA, OCb, OCC variants, parameter fixes, and hardware checks."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

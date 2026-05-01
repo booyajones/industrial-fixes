@@ -3,7 +3,7 @@ title: "Haas Alarm 117 — Causes & Fix"
 description: "What Haas Alarm 117 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
 modDatetime: 2026-04-22T14:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -38,7 +38,7 @@ Haas Alarm 117 indicates a spindle drive communication fault — the CNC control
 |------|-------|
 | Spindle drive communication cable | [Amazon](https://www.amazon.com/s?k=Spindle+drive+communication+cable&tag=errorcodefixes-20) \| Replace if damaged |
 | Spindle drive amplifier | [Amazon](https://www.amazon.com/s?k=Spindle+drive+amplifier&tag=errorcodefixes-20) \| If drive has its own internal fault |
-| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| If communication port on the control has failed |
+| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| If communication port on the control has failed |
 ## When to Call a Pro
 
 If the spindle drive has failed internally, replacement requires Haas parameter cloning and spindle calibration. Contact Haas service or a certified Haas distributor for spindle drive replacement.

@@ -3,7 +3,7 @@ title: "Rheem Water Heater Error Codes — Complete Guide"
 description: "Rheem water heater error codes for gas, electric, and tankless models. Decode the flashing LED, digital display codes, and app alerts to fix your water heater fast."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

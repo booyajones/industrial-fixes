@@ -55,7 +55,7 @@ This code is specific to non-SENSEI Rinnai models — the RU, V series, and olde
 | Part | Typical Cost | Where to Buy |
 |------|-------------|-------------|
 | Tankless Water Heater Descaling Kit | $30–$80 | [Amazon](https://www.amazon.com/s?k=tankless+water+heater+descaling+flush+kit&tag=errorcodefixes-20) |
-| Rinnai Thermistor / Temperature Sensor | $20–$45 | [Amazon](https://www.amazon.com/s?k=Rinnai+thermistor+temperature+sensor+tankless&tag=errorcodefixes-20) |
+| Rinnai Thermistor / Temperature Sensor | $20–$45 | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) |
 | Rinnai Inlet Filter Screen | $5–$15 | [Amazon](https://www.amazon.com/s?k=Rinnai+tankless+water+heater+inlet+filter+screen&tag=errorcodefixes-20) |
 | Rinnai Secondary Heat Exchanger | $300–$600+ | [Amazon](https://www.amazon.com/s?k=Rinnai+secondary+heat+exchanger+tankless&tag=errorcodefixes-20) |
 | Inline Scale Inhibitor / Water Conditioner | $25–$75 | [Amazon](https://www.amazon.com/s?k=inline+scale+inhibitor+tankless+water+heater&tag=errorcodefixes-20) |

@@ -3,7 +3,7 @@ title: "Mazak CNC Alarm Codes — Common Faults and Fixes"
 description: "Mazak CNC alarm codes: servo alarms (1–99), spindle alarms (100–299), servo axis faults (400–499), ATC faults (600+), and PC alarms (500+) with fixes."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

@@ -3,7 +3,7 @@ title: "CompAir Air Compressor Fault Codes - Complete Guide"
 description: "CompAir rotary screw compressor fault codes and alarms: causes, diagnostic steps, and repair guidance for L, D, and B series."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -48,9 +48,9 @@ Check current draw on all three phases with a clamp meter. Unbalanced loading, i
 | Part | Notes |
 |------|-------|
 | Oil separator element | [Amazon](https://www.amazon.com/s?k=Oil+separator+element&tag=errorcodefixes-20) \| Main PM part |
-| Air filter element | [Amazon](https://www.amazon.com/s?k=Air+filter+element&tag=errorcodefixes-20) \| Replace per service schedule |
+| Air filter element | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| Replace per service schedule |
 | Oil filter cartridge | [Amazon](https://www.amazon.com/s?k=Oil+filter+cartridge&tag=errorcodefixes-20) \| Replace with separator |
-| Temperature sensors (NTC) | [Amazon](https://www.amazon.com/s?k=Temperature+sensors+%28NTC%29&tag=errorcodefixes-20) \| Common fault after heat cycles |
+| Temperature sensors (NTC) | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Common fault after heat cycles |
 | Inlet valve repair kit | [Amazon](https://www.amazon.com/s?k=Inlet+valve+repair+kit&tag=errorcodefixes-20) \| Sticking causes overloads |
 ## When to Call a Pro
 If the compressor shuts down on high temperature after cooler cleaning and oil service, suspect airend discharge valve or screw wear. CompAir airend rebuilds require factory tooling and specifications.

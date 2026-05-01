@@ -3,7 +3,7 @@ title: "Noritz Error Code 12 — Causes & Fix"
 description: "What Noritz error code 12 means, why the flame rod faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T10:00:00Z
 modDatetime: 2026-04-22T10:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -38,7 +38,7 @@ Error code 12 on a Noritz tankless water heater indicates a flame failure — th
 |------|-------|
 | Flame rod / ionization sensor | [Amazon](https://www.amazon.com/s?k=Flame+rod+%2F+ionization+sensor&tag=errorcodefixes-20) \| Clean first; replace if corroded or wire insulation is damaged |
 | Igniter assembly | [Amazon](https://www.amazon.com/s?k=Igniter+assembly&tag=errorcodefixes-20) \| Match Noritz model (NRC, NRCR, EZ series vary) |
-| Gas valve | [Amazon](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) \| Replace if voltage present at coil but valve won't open |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Replace if voltage present at coil but valve won't open |
 | Air intake screen | [Amazon](https://www.amazon.com/s?k=Air+intake+screen&tag=errorcodefixes-20) \| Clean or replace if blocked |
 ## When to Call a Pro
 

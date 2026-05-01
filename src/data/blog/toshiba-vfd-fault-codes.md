@@ -3,7 +3,7 @@ title: "Toshiba VFD Fault Codes Guide (VF-S15, VF-S9)"
 description: "Toshiba VF-S15 and VF-S9 VFD fault codes explained, including overcurrent, overvoltage, overheating, and EEPROM faults."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

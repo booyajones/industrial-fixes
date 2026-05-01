@@ -3,7 +3,7 @@ title: "State Water Heater Error Codes — Complete Guide"
 description: "State water heater error codes for gas, electric, and heat pump models. Decode LED flash codes and digital display errors to diagnose and fix your State water heater."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

@@ -3,7 +3,7 @@ title: "Lennox Rooftop Unit Error Codes: Technician Guide"
 description: "Complete Lennox RTU error code guide for LGH, LCH, and Strategos series. Flash codes, alphanumeric faults, and technician fixes for commercial rooftop units."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -82,12 +82,12 @@ Check refrigerant charge with gauges. Inspect evaporator coil for ice formation.
 
 | Part | Notes |
 |---|---|
-| [Hot surface igniter](https://www.amazon.com/s?k=Hot+surface+igniter&tag=errorcodefixes-20) | 18K-ohm type — model-specific |
-| [Flame sensor](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) | Check µA output — must exceed 1.5 µA |
-| [Run capacitor](https://www.amazon.com/s?k=Run+capacitor&tag=errorcodefixes-20) | Test with capacitor meter before condemning motor |
-| [Pressure switch](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) | High or low side — match OEM pressure setting |
-| [IFC control board](https://www.amazon.com/s?k=IFC+control+board&tag=errorcodefixes-20) | Cross-reference by model and serial |
-| [Condenser fan motor](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) | Check RPM and HP spec |
+| [Hot surface igniter](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) | 18K-ohm type — model-specific |
+| [Flame sensor](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) | Check µA output — must exceed 1.5 µA |
+| [Run capacitor](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) | Test with capacitor meter before condemning motor |
+| [Pressure switch](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | High or low side — match OEM pressure setting |
+| [IFC control board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Cross-reference by model and serial |
+| [Condenser fan motor](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) | Check RPM and HP spec |
 
 > **Pro tip:** Lennox RTU iComfort-equipped units log fault history accessible via the iComfort thermostat menu under Settings > Advanced > Diagnostics. This gives a timestamp of each fault.
 

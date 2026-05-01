@@ -3,7 +3,7 @@ title: "Carrier Error Code 51 — Control Fault (Secondary)"
 description: "Carrier furnace error code 51: what it means, causes, and how to fix the secondary control fault on Carrier Performance and Infinity series furnaces."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -22,10 +22,10 @@ On Carrier furnaces, codes are displayed by counting LED blinks: the LED flashes
 
 | Cause | Likelihood | Test |
 |-------|-----------|------|
-| [Secondary pressure switch fault](https://www.amazon.com/s?k=Secondary+pressure+switch+fault&tag=errorcodefixes-20) | High | Inspect pressure switch hose; test switch |
-| [Two-stage gas valve fault](https://www.amazon.com/s?k=Two-stage+gas+valve+fault&tag=errorcodefixes-20) | Medium | Verify 24VAC to valve stage 2 coil |
-| [IFC control board fault](https://www.amazon.com/s?k=IFC+control+board+fault&tag=errorcodefixes-20) | Medium | Check board for burn marks; swap to test |
-| [Inducer motor at second stage](https://www.amazon.com/s?k=Inducer+motor+at+second+stage&tag=errorcodefixes-20) | Medium | Verify inducer RPM at high fire |
+| [Secondary pressure switch fault](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | High | Inspect pressure switch hose; test switch |
+| [Two-stage gas valve fault](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) | Medium | Verify 24VAC to valve stage 2 coil |
+| [IFC control board fault](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Medium | Check board for burn marks; swap to test |
+| [Inducer motor at second stage](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) | Medium | Verify inducer RPM at high fire |
 | [Wiring fault in secondary circuit](https://www.amazon.com/s?k=Wiring+fault+in+secondary+circuit&tag=errorcodefixes-20) | Lower | Inspect all secondary circuit connections |
 
 ## Step-by-Step Diagnosis

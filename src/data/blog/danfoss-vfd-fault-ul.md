@@ -3,7 +3,7 @@ title: "Danfoss VFD Fault UL — Causes & Fix"
 description: "What Danfoss VFD fault UL means, why underload trips the drive, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
 modDatetime: 2026-04-22T10:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

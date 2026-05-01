@@ -2,7 +2,7 @@
 title: "Yaskawa V1000 OV Fault - What It Means and How to Fix It"
 description: "Complete guide to the Yaskawa V1000 OV fault code (overvoltage). Covers all causes, parameter adjustments, braking resistor selection, and step-by-step repair for this common VFD fault."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Dana Kowalski"
 tags:
   - hvac
   - error-codes
@@ -80,7 +80,7 @@ Connect the resistor between terminals **B1 and B2** on the V1000. Do not connec
 | Braking resistor 50 Ω / 500W (480V 5HP) | DB resistor for mid-size V1000 | $50–$120 — [Search on Amazon](https://www.amazon.com/s?k=dynamic+braking+resistor+50+ohm+500W&tag=errorcodefixes-20) |
 | Yaskawa V1000 replacement drive | If braking transistor is damaged | $300–$900 — [Search on Amazon](https://www.amazon.com/s?k=Yaskawa+V1000+VFD+replacement&tag=errorcodefixes-20) |
 | Line reactor (3%, 480V) | Reduces voltage transients from utility | $80–$250 — [Search on Amazon](https://www.amazon.com/s?k=3%25+line+reactor+480V+VFD+input&tag=errorcodefixes-20) |
-| True RMS multimeter | Accurate voltage measurement | $40–$150 — [Search on Amazon](https://www.amazon.com/s?k=true+RMS+multimeter+HVAC+industrial&tag=errorcodefixes-20) |
+| True RMS multimeter | Accurate voltage measurement | $40–$150 — [Search on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) |
 | DIN rail resistor mounting bracket | Mount DB resistor safely in panel | $10–$25 — [Search on Amazon](https://www.amazon.com/s?k=DIN+rail+resistor+mounting+bracket&tag=errorcodefixes-20) |
 
 ## When to Call a Pro

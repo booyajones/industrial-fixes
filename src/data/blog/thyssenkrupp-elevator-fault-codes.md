@@ -3,7 +3,7 @@ title: "ThyssenKrupp Elevator Fault Codes - Complete Guide"
 description: "ThyssenKrupp elevator fault codes for Evolution, Synergy, and MRL systems: common alarms, causes, and reset procedures."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

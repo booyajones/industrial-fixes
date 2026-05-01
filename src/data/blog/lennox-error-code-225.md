@@ -3,7 +3,7 @@ title: "Lennox Error Code 225 — Causes & Fix"
 description: "What Lennox error code 225 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
 modDatetime: 2026-04-22T09:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -36,8 +36,8 @@ Lennox fault code 225 is a pressure switch fault — the board commanded the ind
 
 | Part | Notes |
 |------|-------|
-| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Match exact setpoint — Lennox 90%+ units commonly use −0.6" or −1.0" W.C. |
-| Pressure switch hose | [Amazon](https://www.amazon.com/s?k=Pressure+switch+hose&tag=errorcodefixes-20) \| Cheap; replace any hose that's cracked, brittle, or clogged |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match exact setpoint — Lennox 90%+ units commonly use −0.6" or −1.0" W.C. |
+| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| Cheap; replace any hose that's cracked, brittle, or clogged |
 | Inducer housing gasket | [Amazon](https://www.amazon.com/s?k=Inducer+housing+gasket&tag=errorcodefixes-20) \| Required if housing is leaking at the mounting interface |
 ## When to Call a Pro
 

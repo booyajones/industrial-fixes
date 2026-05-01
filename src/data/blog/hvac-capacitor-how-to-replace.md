@@ -2,7 +2,7 @@
 title: "How to Replace an HVAC Dual Run Capacitor: Complete DIY Guide"
 description: "Step-by-step guide to safely testing and replacing a dual run capacitor in your AC or heat pump. Safety, testing with a multimeter, sizing, and installation."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Marcus Webb"
 tags:
   - hvac
   - error-codes
@@ -130,10 +130,10 @@ Replace the access panel, restore power at the disconnect and breaker, and start
 
 | Part | Notes | Link |
 |---|---|---|
-| Dual Run Capacitor 45+5 µF 440V | Most common residential size | [View on Amazon](https://www.amazon.com/s?k=dual+run+capacitor+45+5+440v&tag=errorcodefixes-20) |
-| Dual Run Capacitor 35+5 µF 440V | Common on 2–3 ton systems | [View on Amazon](https://www.amazon.com/s?k=dual+run+capacitor+35+5+440v&tag=errorcodefixes-20) |
-| Dual Run Capacitor 55+5 µF 440V | Common on 4–5 ton systems | [View on Amazon](https://www.amazon.com/s?k=dual+run+capacitor+55+5+440v&tag=errorcodefixes-20) |
-| Capacitor Tester / Multimeter | Accurate µF testing | [View on Amazon](https://www.amazon.com/s?k=digital+multimeter+capacitor+tester&tag=errorcodefixes-20) |
+| Dual Run Capacitor 45+5 µF 440V | Most common residential size | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) |
+| Dual Run Capacitor 35+5 µF 440V | Common on 2–3 ton systems | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) |
+| Dual Run Capacitor 55+5 µF 440V | Common on 4–5 ton systems | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) |
+| Capacitor Tester / Multimeter | Accurate µF testing | [View on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) |
 | Insulated Screwdriver Set | Safe capacitor discharge | [View on Amazon](https://www.amazon.com/s?k=insulated+screwdriver+set+electrician&tag=errorcodefixes-20) |
 
 ## When to Call a Pro

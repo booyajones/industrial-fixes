@@ -3,7 +3,7 @@ title: "MAN Energy Solutions Compressor Fault Codes — Troubleshooting Guide"
 description: "MAN Energy Solutions reciprocating and centrifugal compressor fault codes: alarms, shutdowns, and troubleshooting steps for large industrial gas compression."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

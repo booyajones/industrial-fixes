@@ -46,8 +46,8 @@ On DC inverter fan motor units (most current Daikin mini-splits), the fan motor 
 
 | Part | Where to Buy |
 |------|-------------|
-| [Daikin outdoor fan motor](https://www.amazon.com/s?k=Daikin+outdoor+fan+motor&tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
-| [Fan motor run capacitor (PSC models)](https://www.amazon.com/s?k=Fan+motor+run+capacitor+%28PSC+models%29&tag=errorcodefixes-20) | Grainger, Amazon |
+| [Daikin outdoor fan motor](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
+| [Fan motor run capacitor (PSC models)](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) | Grainger, Amazon |
 | [Outdoor main PCB](https://www.amazon.com/s?k=Outdoor+main+PCB&tag=errorcodefixes-20) | SupplyHouse, Grainger |
 
 ## When to Call a Technician

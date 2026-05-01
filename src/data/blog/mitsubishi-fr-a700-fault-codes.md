@@ -2,7 +2,7 @@
 title: "Mitsubishi FR-A700 Fault Codes - What It Means and How to Fix It"
 description: "The Mitsubishi FR-A700 series uses fault codes to protect the drive, motor, and connected equipment. This guide explains the most common FR-A700 alarm codes, what causes them, and how to troubleshoot them step by step."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Dana Kowalski"
 tags:
   - hvac
   - error-codes

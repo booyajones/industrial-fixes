@@ -3,7 +3,7 @@ title: "Hussmann Display Case E2 Error Code — Defrost Circuit Fault"
 description: "What the Hussmann display case E2 error code means, why the defrost circuit fault triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
 modDatetime: 2026-04-22T14:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -38,10 +38,10 @@ On Hussmann supermarket display cases (reach-in and open-air merchandisers), E2 
 
 | Part | Notes |
 |------|-------|
-| Defrost heater assembly | [Amazon](https://www.amazon.com/s?k=Defrost+heater+assembly&tag=errorcodefixes-20) \| Match wattage and physical size from case engineering data |
-| Defrost termination thermostat | [Amazon](https://www.amazon.com/s?k=Defrost+termination+thermostat&tag=errorcodefixes-20) \| Match setpoint temperature and style (normally open/closed) |
-| Door gasket set | [Amazon](https://www.amazon.com/s?k=Door+gasket+set&tag=errorcodefixes-20) \| Replace if torn or not sealing flat against the door frame |
-| Defrost contactor | [Amazon](https://www.amazon.com/s?k=Defrost+contactor&tag=errorcodefixes-20) \| Replace if contactor doesn't pull in during defrost initiation |
+| Defrost heater assembly | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) \| Match wattage and physical size from case engineering data |
+| Defrost termination thermostat | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Match setpoint temperature and style (normally open/closed) |
+| Door gasket set | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?tag=errorcodefixes-20) \| Replace if torn or not sealing flat against the door frame |
+| Defrost contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Replace if contactor doesn't pull in during defrost initiation |
 ## When to Call a Pro
 
 Hussmann display cases are often covered by store maintenance agreements. Refrigerant-side work (if E2 is accompanied by poor temperature performance suggesting a refrigerant issue) requires EPA 608 certification. Hussmann's 24/7 technical support line can provide model-specific defrost wiring diagrams and setpoint data.

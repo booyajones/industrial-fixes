@@ -3,7 +3,7 @@ title: "Siemens VFD Fault Codes — SINAMICS G120, V20, S120 Guide"
 description: "Siemens VFD fault codes: F-codes and A-codes for SINAMICS G120, V20, S120, and Micromaster 440 drives with causes and fixes."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

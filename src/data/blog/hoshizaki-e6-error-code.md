@@ -3,7 +3,7 @@ title: "Hoshizaki E6 Error Code — Causes & Fix"
 description: "What Hoshizaki ice machine error code E6 means, why the refrigerant circuit faults, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
 modDatetime: 2026-04-22T10:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

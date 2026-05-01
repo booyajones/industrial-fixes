@@ -2,7 +2,7 @@
 title: "Siemens SINAMICS G120 VFD Complete Setup and Fault Code Guide"
 description: "Complete Siemens SINAMICS G120 VFD guide covering commissioning with Startdrive, all major fault codes F0001–F0106, parameter backup and restore, and BOP-2 keypad operation."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Dana Kowalski"
 tags:
   - vfd
   - industrial
@@ -195,7 +195,7 @@ This method is useful for cloning parameters to a replacement CU in the field wi
 | USB Programming Cable (Type B) | Startdrive commissioning connection | [View on Amazon](https://www.amazon.com/s?k=USB+type+B+programming+cable+industrial&tag=errorcodefixes-20) |
 | Megohmmeter / Insulation Tester | Motor insulation resistance check (F0001 diagnosis) | [View on Amazon](https://www.amazon.com/s?k=megohmmeter+insulation+tester+500v&tag=errorcodefixes-20) |
 | Braking Resistor (400V, appropriate ohm/watt for drive size) | F0002 overvoltage on deceleration fix | [View on Amazon](https://www.amazon.com/s?k=VFD+braking+resistor+400v&tag=errorcodefixes-20) |
-| Fluke 87V Industrial Multimeter | Terminal voltage and continuity checks | [View on Amazon](https://www.amazon.com/s?k=Fluke+87V+multimeter&tag=errorcodefixes-20) |
+| Fluke 87V Industrial Multimeter | Terminal voltage and continuity checks | [View on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) |
 | PTC Thermistor (Motor Protection) | Motor overtemperature protection (F0011) | [View on Amazon](https://www.amazon.com/s?k=PTC+thermistor+motor+protection&tag=errorcodefixes-20) |
 
 ---

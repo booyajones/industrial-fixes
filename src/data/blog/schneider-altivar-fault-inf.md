@@ -3,7 +3,7 @@ title: "Schneider Altivar Fault INF — Causes & Fix"
 description: "What Schneider Altivar VFD fault code INF means, why an internal fault occurs, and how to recover the drive."
 pubDatetime: 2026-04-22T11:00:00Z
 modDatetime: 2026-04-22T11:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

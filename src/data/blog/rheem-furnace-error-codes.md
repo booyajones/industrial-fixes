@@ -3,7 +3,7 @@ title: "Rheem Furnace Error Codes — All Flash Codes Explained"
 description: "Rheem furnace flash codes: what each blink pattern means on Classic, Classic Plus, and Prestige series furnaces."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

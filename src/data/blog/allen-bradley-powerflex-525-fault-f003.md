@@ -2,7 +2,7 @@
 title: "Allen-Bradley PowerFlex 525 Fault F003 - What It Means and How to Fix It"
 description: "Allen-Bradley PowerFlex 525 F003 means the drive detected input phase loss or unstable incoming power. This guide shows how to diagnose line power issues, blown fuses, wiring faults, and false trips before you replace the drive."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Dana Kowalski"
 tags:
   - hvac
   - error-codes
@@ -52,9 +52,9 @@ A quick rule of thumb: if the drive trips with the motor disconnected, the probl
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
 | Class J or CC fuse set for your drive feeder | Replaces weak or blown input fuse on one phase | $20–$60 — [Search on Amazon](https://www.amazon.com/s?k=three+phase+motor+fuses+class+j&tag=errorcodefixes-20) |
-| 3-pole definite purpose contactor | Fixes dropping line voltage from burned contacts | $25–$80 — [Search on Amazon](https://www.amazon.com/s?k=3+pole+definite+purpose+contactor&tag=errorcodefixes-20) |
+| 3-pole definite purpose contactor | Fixes dropping line voltage from burned contacts | $25–$80 — [Search on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) |
 | Allen-Bradley PowerFlex 525 replacement drive | Needed if internal rectifier or input section fails | $400–$900 — [Search on Amazon](https://www.amazon.com/s?k=Allen+Bradley+PowerFlex+525+VFD&tag=errorcodefixes-20) |
-| True RMS multimeter | Needed to verify three-phase line voltage accurately | $40–$150 — [Search on Amazon](https://www.amazon.com/s?k=true+rms+multimeter&tag=errorcodefixes-20) |
+| True RMS multimeter | Needed to verify three-phase line voltage accurately | $40–$150 — [Search on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) |
 | Torque screwdriver or torque wrench | Prevents recurring loose-line termination faults | $30–$120 — [Search on Amazon](https://www.amazon.com/s?k=electrical+torque+screwdriver&tag=errorcodefixes-20) |
 | DIN-rail fuse holder kit | Useful when replacing damaged input fuse hardware | $15–$45 — [Search on Amazon](https://www.amazon.com/s?k=din+rail+fuse+holder+3+pole&tag=errorcodefixes-20) |
 

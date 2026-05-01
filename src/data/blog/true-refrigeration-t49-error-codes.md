@@ -3,7 +3,7 @@ title: "True T-49 Refrigerator Error Codes — Complete Guide"
 description: "True T-49 refrigerator error codes: common controller alarms, causes, and fixes for this two-door commercial reach-in."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -39,8 +39,8 @@ The True T-49 is a two-door commercial reach-in refrigerator commonly used in re
 |------|-------|
 | Cabinet probe | [Amazon](https://www.amazon.com/s?k=Cabinet+probe&tag=errorcodefixes-20) \| Match controller type and sensor curve |
 | Evaporator probe | [Amazon](https://www.amazon.com/s?k=Evaporator+probe&tag=errorcodefixes-20) \| Often clipped to the suction line or coil |
-| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Common T-49 service part |
-| Door gasket | [Amazon](https://www.amazon.com/s?k=Door+gasket&tag=errorcodefixes-20) \| Replace if torn or not sealing |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Common T-49 service part |
+| Door gasket | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?tag=errorcodefixes-20) \| Replace if torn or not sealing |
 ## When to Call a Pro
 If the compressor is short-cycling, the evaporator is icing repeatedly, or you suspect a refrigerant problem, bring in a commercial refrigeration technician. Sensor faults are simple. Sealed-system issues are not.
 

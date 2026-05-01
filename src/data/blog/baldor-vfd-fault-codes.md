@@ -3,7 +3,7 @@ title: "Baldor/ABB VS1 VFD Fault Codes — Complete Guide"
 description: "Baldor VS1 and ABB VFD fault codes: all fault codes for Baldor VS1SP, VS1MD, and ABB-based Baldor drives with causes and step-by-step fixes."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

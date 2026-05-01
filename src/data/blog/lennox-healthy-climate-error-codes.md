@@ -3,7 +3,7 @@ title: "Lennox Healthy Climate Error Codes — Complete Guide"
 description: "Lennox Healthy Climate air quality system error codes: fault codes for HCF16, HCX20, HEPA systems, and ERV/HRV units with causes and fixes."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

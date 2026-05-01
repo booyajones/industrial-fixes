@@ -3,7 +3,7 @@ title: "Lennox Error Code 111 — Causes & Fix"
 description: "What Lennox error code 111 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
 modDatetime: 2026-04-22T09:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -36,8 +36,8 @@ Lennox fault code 111 (three flashes on the diagnostic LED, or displayed as "111
 
 | Part | Notes |
 |------|-------|
-| Rollout limit switch | [Amazon](https://www.amazon.com/s?k=Rollout+limit+switch&tag=errorcodefixes-20) \| Verify correct temp rating — Lennox uses several setpoints |
-| Induced draft motor with wheel | [Amazon](https://www.amazon.com/s?k=Induced+draft+motor+with+wheel&tag=errorcodefixes-20) \| Replace as assembly if wheel is cracked or motor bearing is worn |
+| Rollout limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Verify correct temp rating — Lennox uses several setpoints |
+| Induced draft motor with wheel | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Replace as assembly if wheel is cracked or motor bearing is worn |
 | Vent pipe elbow or section | [Amazon](https://www.amazon.com/s?k=Vent+pipe+elbow+or+section&tag=errorcodefixes-20) \| Replace cracked or blocked PVC sections on 90%+ units |
 ## When to Call a Pro
 

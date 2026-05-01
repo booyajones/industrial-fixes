@@ -3,7 +3,7 @@ title: "Danfoss VFD Fault Codes — FC301, FC302, FC102 Reference"
 description: "Danfoss VFD fault codes: all alarm codes for VLT FC301, FC302, and FC102 drives including AL-14, AL-29, OC, OL, and trip faults."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

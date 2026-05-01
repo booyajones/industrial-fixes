@@ -2,7 +2,7 @@
 title: "Goodman GVZC18 Heat Pump Error Codes: iQ Drive Fault Diagnostics"
 description: "Complete guide to Goodman GVZC18 variable-speed heat pump fault codes, iQ Drive communicating system errors, and DIY fixes."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Marcus Webb"
 tags:
   - hvac
   - error-codes
@@ -114,12 +114,12 @@ The iQ Drive communicates over a four-wire bus between the outdoor board and ind
 
 | Part | Use | Link |
 |---|---|---|
-| Dual Run Capacitor (45+5 µF, 440V) | Compressor/fan start faults, Code 9 | [View on Amazon](https://www.amazon.com/s?k=dual+run+capacitor+45+5+440v&tag=errorcodefixes-20) |
+| Dual Run Capacitor (45+5 µF, 440V) | Compressor/fan start faults, Code 9 | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) |
 | Defrost Thermistor / NTC Sensor | Code 10 / F1 defrost sensor fault | [View on Amazon](https://www.amazon.com/s?k=goodman+defrost+thermistor+sensor&tag=errorcodefixes-20) |
-| 2-Pole 30A Contactor | Pitted contacts, voltage drop at startup | [View on Amazon](https://www.amazon.com/s?k=hvac+contactor+2+pole+30+amp&tag=errorcodefixes-20) |
+| 2-Pole 30A Contactor | Pitted contacts, voltage drop at startup | [View on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) |
 | Reversing Valve Solenoid Coil | Code 11 reversing valve fault | [View on Amazon](https://www.amazon.com/s?k=reversing+valve+solenoid+coil+hvac&tag=errorcodefixes-20) |
 | HVAC Communication Cable (4-conductor) | Code 7 / E1 communication wiring | [View on Amazon](https://www.amazon.com/s?k=hvac+4+conductor+communication+wire&tag=errorcodefixes-20) |
-| Goodman Outdoor Control Board | Code 6 inverter board replacement | [View on Amazon](https://www.amazon.com/s?k=goodman+GVZC18+control+board&tag=errorcodefixes-20) |
+| Goodman Outdoor Control Board | Code 6 inverter board replacement | [View on Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) |
 
 ## When to Call a Pro
 

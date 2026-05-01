@@ -3,7 +3,7 @@ title: "Samsung Mini-Split E1-01 Error Code — Causes & Fix"
 description: "What Samsung mini-split E1-01 means, why the outdoor temperature sensor faults, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
 modDatetime: 2026-04-22T10:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -36,9 +36,9 @@ E1-01 on a Samsung mini-split (Wind-Free, AR series, and multi-zone systems) ind
 
 | Part | Notes |
 |------|-------|
-| Outdoor ambient temperature sensor | [Amazon](https://www.amazon.com/s?k=Outdoor+ambient+temperature+sensor&tag=errorcodefixes-20) \| Samsung OEM; 10 kΩ NTC thermistor; match connector |
+| Outdoor ambient temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Samsung OEM; 10 kΩ NTC thermistor; match connector |
 | Sensor harness/extension wire | [Amazon](https://www.amazon.com/s?k=Sensor+harness%2Fextension+wire&tag=errorcodefixes-20) \| If wire run is damaged |
-| Outdoor control board | [Amazon](https://www.amazon.com/s?k=Outdoor+control+board&tag=errorcodefixes-20) \| Only if sensor input circuit is confirmed failed on the board |
+| Outdoor control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Only if sensor input circuit is confirmed failed on the board |
 ## When to Call a Pro
 
 If sensor and wiring check out but E1-01 persists, the outdoor control board's sensor input circuit may need component-level repair or board replacement. A Samsung-authorized technician can access fault logs and confirm the board diagnosis.

@@ -3,7 +3,7 @@ title: "Klimaire Mini Split E1 Error Code — Communication Error Fix"
 description: "What the Klimaire mini split E1 error code means, why the communication fault triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
 modDatetime: 2026-04-22T14:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

@@ -2,7 +2,7 @@
 title: "Lennox SL297NV Error Codes: iComfort Fault Code Diagnostic Guide"
 description: "Full guide to Lennox SL297NV top-efficiency furnace error codes, iComfort fault codes, variable-speed blower faults, and DIY fixes."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Marcus Webb"
 tags:
   - hvac
   - error-codes
@@ -109,12 +109,12 @@ The variable-speed ECM motor in the SL297NV communicates digitally with the cont
 
 | Part | Use | Link |
 |---|---|---|
-| Hot Surface Igniter (Silicon Nitride) | E001/E002 ignition faults | [View on Amazon](https://www.amazon.com/s?k=silicon+nitride+hot+surface+igniter+lennox&tag=errorcodefixes-20) |
-| Flame Sensor Rod | E001 flame sensing failure | [View on Amazon](https://www.amazon.com/s?k=furnace+flame+sensor+rod&tag=errorcodefixes-20) |
-| Furnace Pressure Switch | E021/E022 pressure switch faults | [View on Amazon](https://www.amazon.com/s?k=furnace+pressure+switch+0.5+wc&tag=errorcodefixes-20) |
-| Pressure Switch Tubing | E021 hose cracks or disconnects | [View on Amazon](https://www.amazon.com/s?k=furnace+pressure+switch+rubber+hose&tag=errorcodefixes-20) |
-| Furnace High-Limit Switch | E031 persistent high-limit open | [View on Amazon](https://www.amazon.com/s?k=furnace+high+limit+switch+190+degree&tag=errorcodefixes-20) |
-| Lennox Inducer Motor Assembly | E041 inducer motor fault | [View on Amazon](https://www.amazon.com/s?k=lennox+inducer+motor+assembly&tag=errorcodefixes-20) |
+| Hot Surface Igniter (Silicon Nitride) | E001/E002 ignition faults | [View on Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) |
+| Flame Sensor Rod | E001 flame sensing failure | [View on Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) |
+| Furnace Pressure Switch | E021/E022 pressure switch faults | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) |
+| Pressure Switch Tubing | E021 hose cracks or disconnects | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) |
+| Furnace High-Limit Switch | E031 persistent high-limit open | [View on Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) |
+| Lennox Inducer Motor Assembly | E041 inducer motor fault | [View on Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) |
 
 ## When to Call a Pro
 

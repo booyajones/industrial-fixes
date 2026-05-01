@@ -3,7 +3,7 @@ title: "Manitowoc ID-0502 Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Manitowoc ID-0502 ice machine error codes, diagnostic display codes, common fault causes, and step-by-step repair procedures."
 pubDatetime: 2026-04-22T23:00:00Z
 modDatetime: 2026-04-22T23:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -56,11 +56,11 @@ The Manitowoc ID-0502 is a remote-air-cooled (D-series) cube ice machine produci
 
 | Part | Notes |
 |---|---|
-| Remote condenser fan motor | [Amazon](https://www.amazon.com/s?k=Remote+condenser+fan+motor&tag=errorcodefixes-20) \| Multiple motors on large remote units |
+| Remote condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Multiple motors on large remote units |
 | Hot gas solenoid valve | [Amazon](https://www.amazon.com/s?k=Hot+gas+solenoid+valve&tag=errorcodefixes-20) \| Check coil continuity before condemning |
 | Communication cable | [Amazon](https://www.amazon.com/s?k=Communication+cable&tag=errorcodefixes-20) \| Re-run if damaged; use proper outdoor-rated cable |
 | Water curtain switch | [Amazon](https://www.amazon.com/s?k=Water+curtain+switch&tag=errorcodefixes-20) \| Same as IYT series |
-| Float switch | [Amazon](https://www.amazon.com/s?k=Float+switch&tag=errorcodefixes-20) \| Water trough level sensor |
+| Float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?tag=errorcodefixes-20) \| Water trough level sensor |
 | HP switch | [Amazon](https://www.amazon.com/s?k=HP+switch&tag=errorcodefixes-20) \| Manual reset after Code 7 |
 ## When to Call a Pro
 

@@ -3,7 +3,7 @@ title: "AO Smith Water Heater 3 Flashes — What It Means and How to Fix It"
 description: "AO Smith water heater flashing 3 times? This means the pilot is out or won't stay lit. Here's how to diagnose the thermocouple and thermopile and fix it yourself."
 pubDatetime: 2026-04-25T12:00:00Z
 modDatetime: 2026-04-25T12:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -106,7 +106,7 @@ If replacing both the thermocouple and thermopile doesn't fix 3 flashes:
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|--------------|
-| [Thermocouple (universal 24" or 36")](https://www.amazon.com/s?k=Thermocouple+%28universal+24%22+or+36%22%29&tag=errorcodefixes-20) | Pilot won't stay lit after relighting | $8–$20 |
+| [Thermocouple (universal 24" or 36")](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) | Pilot won't stay lit after relighting | $8–$20 |
 | [AO Smith Thermopile (100112336)](https://www.amazon.com/s?k=AO+Smith+Thermopile+%28100112336%29&tag=errorcodefixes-20) | Thermopile reads below 300 mV | $20–$40 |
 | [Pilot Assembly (with bracket)](https://www.amazon.com/s?k=Pilot+Assembly+%28with+bracket%29&tag=errorcodefixes-20) | Pilot orifice clogged or bracket corroded | $25–$50 |
 | [Gas Control Valve (100093939 or model-specific)](https://www.amazon.com/s?k=Gas+Control+Valve+%28100093939+or+model-specific%29&tag=errorcodefixes-20) | Valve faulty after confirmed good thermocouple/thermopile | $90–$160 |

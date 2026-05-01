@@ -3,7 +3,7 @@ title: "True Refrigeration E6 Error Code — High Temperature Alarm Causes & Fix
 description: "What True Refrigeration E6 means, why the cabinet runs hot, and how to fix it step by step."
 pubDatetime: 2026-04-24T23:51:00Z
 modDatetime: 2026-04-24T23:51:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -39,9 +39,9 @@ True Refrigeration error code E6 is commonly a high box temperature alarm. The c
 
 | Part | Notes |
 |------|-------|
-| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=true+refrigeration+condenser+fan+motor&tag=errorcodefixes-20) \| Replace if the motor is slow, noisy, or stalled |
-| Evaporator fan motor | [Amazon](https://www.amazon.com/s?k=true+refrigeration+evaporator+fan+motor&tag=errorcodefixes-20) \| Loss of box airflow drives warm product temps fast |
-| Door gasket | [Amazon](https://www.amazon.com/s?k=true+refrigeration+door+gasket&tag=errorcodefixes-20) \| Match the cabinet series and door size |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Replace if the motor is slow, noisy, or stalled |
+| Evaporator fan motor | [Amazon](https://www.amazon.com/dp/B01N0J3ZEH?tag=errorcodefixes-20) \| Loss of box airflow drives warm product temps fast |
+| Door gasket | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?tag=errorcodefixes-20) \| Match the cabinet series and door size |
 | Temperature probe | [Amazon](https://www.amazon.com/s?k=true+refrigeration+temperature+probe&tag=errorcodefixes-20) \| Replace if display temperature does not match actual box temp |
 
 ## When to Call a Pro

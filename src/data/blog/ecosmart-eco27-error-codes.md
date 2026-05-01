@@ -2,7 +2,7 @@
 title: "EcoSmart ECO 27 Error Codes - What It Means and How to Fix It"
 description: "EcoSmart ECO 27 electric tankless water heaters use E1, E2, E3, E4, and Err codes to report flow, sensor, heating element, and thermal cutoff faults. This guide shows what each code means and the parts most likely to fix it."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "James Rutherford"
 tags:
   - hvac
   - error-codes
@@ -106,7 +106,7 @@ Remove the cover and visually inspect all wire connections at the terminal block
 | [EcoSmart ECO 27 Heating Element (Part # ECO27-ELEMENT)](https://www.amazon.com/s?k=EcoSmart+ECO+27+heating+element+replacement&tag=errorcodefixes-20) | Replaces burned-out or scaled 6,750W heating element | $30-$55 per element |
 | [EcoSmart Flow Sensor (Part # ECO-FLOW-SENSOR)](https://www.amazon.com/s?k=EcoSmart+tankless+flow+sensor+replacement&tag=errorcodefixes-20) | Replaces failed flow sensor causing E1 error | $20-$40 |
 | [EcoSmart Thermal Cutoff (TCO)](https://www.amazon.com/s?k=EcoSmart+ECO+thermal+cutoff+TCO+replacement&tag=errorcodefixes-20) | Replaces tripped thermal cutoff on heating element | $8-$18 |
-| [NTC Temperature Sensor (Inlet or Outlet)](https://www.amazon.com/s?k=EcoSmart+tankless+thermistor+temperature+sensor&tag=errorcodefixes-20) | Replaces failed thermistor causing E3 or E4 codes | $12-$25 |
+| [NTC Temperature Sensor (Inlet or Outlet)](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | Replaces failed thermistor causing E3 or E4 codes | $12-$25 |
 | [EcoSmart Control Module / Board](https://www.amazon.com/s?k=EcoSmart+ECO+27+control+module+board&tag=errorcodefixes-20) | Replaces failed control board causing Err or blank display | $60-$120 |
 | [Inlet Screen Filter](https://www.amazon.com/s?k=tankless+water+heater+inlet+filter+screen&tag=errorcodefixes-20) | Replaces clogged inlet filter causing E1 fault | $5-$12 |
 | [Tankless Descaling Kit (Vinegar Flush System)](https://www.amazon.com/s?k=tankless+water+heater+descaling+flush+kit&tag=errorcodefixes-20) | Annual maintenance to prevent scale-related faults and element failure | $25-$50 |

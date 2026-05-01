@@ -2,7 +2,7 @@
 title: "Friedrich Mini-Split Error Codes - What It Means and How to Fix It"
 description: "Friedrich mini-split systems use E-codes and F-codes to report sensor faults, fan failures, pressure protection events, and communication problems. This guide covers the most important Friedrich Uni-Fit, Kühl, and ductless error codes in one place."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Dana Kowalski"
 tags:
   - hvac
   - error-codes
@@ -205,10 +205,10 @@ Mix 1 cup of undiluted white vinegar and pour it into the indoor unit drain pan 
 |------|----------------|-------------|
 | [Friedrich Indoor Coil Thermistor (E1/E8 sensor)](https://www.amazon.com/s?k=Friedrich+mini+split+coil+thermistor+sensor&tag=errorcodefixes-20) | Replaces indoor coil or defrost temperature sensor | $15-$30 |
 | [Friedrich Outdoor Ambient Thermistor (E3/E4)](https://www.amazon.com/s?k=Friedrich+mini+split+outdoor+thermistor&tag=errorcodefixes-20) | Replaces outdoor temperature sensor | $12-$25 |
-| [Indoor ECM Fan Motor (F4)](https://www.amazon.com/s?k=Friedrich+mini+split+indoor+fan+motor+ECM&tag=errorcodefixes-20) | Replaces failed indoor blower motor | $120-$220 |
-| [Outdoor Fan Motor (F6)](https://www.amazon.com/s?k=Friedrich+mini+split+outdoor+fan+motor&tag=errorcodefixes-20) | Replaces failed condenser fan motor | $90-$180 |
-| [Friedrich Indoor Control Board](https://www.amazon.com/s?k=Friedrich+mini+split+indoor+control+board&tag=errorcodefixes-20) | Replaces failed indoor PCB (F5 after wiring confirmed) | $120-$250 |
-| [Friedrich Outdoor Control Board / IPM](https://www.amazon.com/s?k=Friedrich+mini+split+outdoor+control+board&tag=errorcodefixes-20) | Replaces failed outdoor PCB or inverter module | $200-$450 |
+| [Indoor ECM Fan Motor (F4)](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) | Replaces failed indoor blower motor | $120-$220 |
+| [Outdoor Fan Motor (F6)](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) | Replaces failed condenser fan motor | $90-$180 |
+| [Friedrich Indoor Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Replaces failed indoor PCB (F5 after wiring confirmed) | $120-$250 |
+| [Friedrich Outdoor Control Board / IPM](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Replaces failed outdoor PCB or inverter module | $200-$450 |
 | [Condensate Drain Pump (F8)](https://www.amazon.com/s?k=mini+split+condensate+drain+pump+replacement&tag=errorcodefixes-20) | Replaces failed condensate pump on drain-pump models | $35-$65 |
 | [Coil Cleaning Spray (Non-Acid)](https://www.amazon.com/s?k=HVAC+coil+cleaner+non-acid+spray&tag=errorcodefixes-20) | Cleans blocked outdoor coil causing F1 | $12-$20 |
 

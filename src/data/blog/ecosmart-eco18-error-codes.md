@@ -2,7 +2,7 @@
 title: "EcoSmart ECO 18 Electric Tankless Water Heater Error Codes"
 description: "Complete error code guide for the EcoSmart ECO 18 electric tankless water heater, covering heating element faults, flow sensor errors, and temperature sensor failures — with key differences from the ECO 27 and ECO 36 models."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "James Rutherford"
 tags:
   - hvac
   - error-codes

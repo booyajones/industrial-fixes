@@ -3,7 +3,7 @@ title: "Oriental Motor AlphaStep Fault Codes — Complete Guide"
 description: "Oriental Motor AlphaStep fault codes for AZ, AR, and AlphaStep drives: alarm codes, causes, and step-by-step fixes for closed-loop stepper systems."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

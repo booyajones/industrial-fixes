@@ -3,7 +3,7 @@ title: "Atlas Copco Air Compressor Fault Codes — Complete Guide"
 description: "Atlas Copco compressor fault codes for Elektronikon-equipped rotary screw compressors: common alarms, shutdowns, causes, and fixes."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -44,8 +44,8 @@ Check line voltage, current balance, and actual compressed air demand. A compres
 |------|-------|
 | Air/oil separator | [Amazon](https://www.amazon.com/s?k=Air%2Foil+separator&tag=errorcodefixes-20) \| Major service item |
 | Oil filter | [Amazon](https://www.amazon.com/s?k=Oil+filter&tag=errorcodefixes-20) \| Replace with separator service |
-| Temperature sensor | [Amazon](https://www.amazon.com/s?k=Temperature+sensor&tag=errorcodefixes-20) \| Common after vibration and heat cycling |
-| Cooling fan / contactor | [Amazon](https://www.amazon.com/s?k=Cooling+fan+%2F+contactor&tag=errorcodefixes-20) \| Common on overheats |
+| Temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Common after vibration and heat cycling |
+| Cooling fan / contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Common on overheats |
 ## When to Call a Pro
 If the compressor repeatedly trips on temperature or motor overload after routine service, involve an Atlas Copco technician. Screw compressor control problems and internal airend wear are not guess-and-check repairs.
 

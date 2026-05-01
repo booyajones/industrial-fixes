@@ -3,7 +3,7 @@ title: "Mitsubishi E7 Error Code — Refrigerant Cycle Fault"
 description: "Mitsubishi mini-split Error Code E7 indicates a refrigerant cycle abnormality. Learn causes, diagnostic steps, and fixes for Mitsubishi E7."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -76,9 +76,9 @@ Always verify by checking the service manual for your specific model number.
 
 | Part | Notes |
 |---|---|
-| Outdoor fan motor | [Amazon](https://www.amazon.com/s?k=Outdoor+fan+motor&tag=errorcodefixes-20) \| Match HP, RPM, shaft length, rotation direction |
-| Run capacitor | [Amazon](https://www.amazon.com/s?k=Run+capacitor&tag=errorcodefixes-20) \| Match µF and voltage — 370V or 440V |
-| Outdoor PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB&tag=errorcodefixes-20) \| Only replace after confirming power supply issue |
+| Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match HP, RPM, shaft length, rotation direction |
+| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Match µF and voltage — 370V or 440V |
+| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Only replace after confirming power supply issue |
 ## Reset Procedure
 
 After repairing:

@@ -3,7 +3,7 @@ title: "Goodman GSX13 Air Conditioner Error Codes — Fault Code Diagnostic Guid
 description: "Complete guide to Goodman GSX13 air conditioner error codes, LED flash sequences, fault causes, and step-by-step fixes for the most common failures."
 pubDatetime: 2026-04-22T23:00:00Z
 modDatetime: 2026-04-22T23:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -52,12 +52,12 @@ The Goodman GSX13 is a 13 SEER single-stage residential central air conditioner 
 
 | Part | Notes |
 |---|---|
-| Dual run capacitor | [Amazon](https://www.amazon.com/s?k=Dual+run+capacitor&tag=errorcodefixes-20) \| Single most common GSX13 failure |
-| Contactor | [Amazon](https://www.amazon.com/s?k=Contactor&tag=errorcodefixes-20) \| Check for pitting; replace if contacts are burned |
-| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| For Code 5; check fuse first (usually 5A) |
-| Run capacitor (fan only) | [Amazon](https://www.amazon.com/s?k=Run+capacitor+%28fan+only%29&tag=errorcodefixes-20) \| Some GSX13 boards use separate fan capacitor |
-| High-pressure switch | [Amazon](https://www.amazon.com/s?k=High-pressure+switch&tag=errorcodefixes-20) \| For persistent Code 2 after coil service |
-| Low-pressure switch | [Amazon](https://www.amazon.com/s?k=Low-pressure+switch&tag=errorcodefixes-20) \| For persistent Code 3 with correct charge |
+| Dual run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Single most common GSX13 failure |
+| Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Check for pitting; replace if contacts are burned |
+| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For Code 5; check fuse first (usually 5A) |
+| Run capacitor (fan only) | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Some GSX13 boards use separate fan capacitor |
+| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| For persistent Code 2 after coil service |
+| Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| For persistent Code 3 with correct charge |
 ## When to Call a Pro
 
 Refrigerant work requires EPA 608 certification. If the GSX13 compressor is buzzing but not starting after capacitor replacement, the compressor may need a hard-start kit (potential relay + start capacitor) or may be mechanically seized. A technician with manifold gauges and a clamp meter is needed to distinguish between a slugged compressor and a failed one.

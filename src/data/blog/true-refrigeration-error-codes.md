@@ -63,7 +63,7 @@ This guide covers the most common True Refrigeration error codes and their fixes
 | Part | Where to Buy | Typical Cost |  | ------ | ------------- | ------------- |
 |------|------|------|------|------|------|------|
 | NTC 10kΩ replacement probe (True compatible) | [Amazon](https://www.amazon.com/s?k=NTC+10kΩ+replacement+probe+%28True+compatible%29&tag=errorcodefixes-20) \| Parts Town, RestaurantEquipment.Parts | $12–$30 |  |  |  |  |
-| True defrost heater (model-specific, e.g., 915146)&tag=) | [Amazon](https://www.amazon.com/s?k=True+defrost+heater+%28model-specific,+e.g.,+915146%29%26tag=%29&tag=errorcodefixes-20) \| Parts Town, Grainger | $40–$100 |  | Defrost termination thermostat | Parts Town, OEM appliance parts | $15–$40 |
+| True defrost heater (model-specific, e.g., 915146)&tag=) | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) \| Parts Town, Grainger | $40–$100 |  | Defrost termination thermostat | Parts Town, OEM appliance parts | $15–$40 |
 | True electronic controller replacement | [Amazon](https://www.amazon.com/s?k=True+electronic+controller+replacement&tag=errorcodefixes-20) \| Parts Town, True dealer | $80–$200 |  |  |  |  |
 
 ##

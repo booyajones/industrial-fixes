@@ -55,8 +55,8 @@ Error 178 is frustrating because it's intermittent for some systems — the code
 | Part | Why | Approx. Cost |
 |------|-----|-------------|
 | [4-conductor 18 AWG communication wire (per foot)](https://www.amazon.com/s?k=4-conductor+18+AWG+communication+wire+%28per+foot%29&tag=errorcodefixes-20) | Replace damaged wire run between units | $0.30–$0.60/ft |
-| [Carrier Infinity indoor control board (varies by model)](https://www.amazon.com/s?k=Carrier+Infinity+indoor+control+board+%28varies+by+model%29&tag=errorcodefixes-20) | Failed indoor board causing communication loss | $180–$350 |
-| [Carrier Infinity outdoor control board (varies by model)](https://www.amazon.com/s?k=Carrier+Infinity+outdoor+control+board+%28varies+by+model%29&tag=errorcodefixes-20) | Failed outdoor board — less common cause | $250–$450 |
+| [Carrier Infinity indoor control board (varies by model)](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Failed indoor board causing communication loss | $180–$350 |
+| [Carrier Infinity outdoor control board (varies by model)](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Failed outdoor board — less common cause | $250–$450 |
 | [Electrical contact cleaner spray](https://www.amazon.com/s?k=Electrical+contact+cleaner+spray&tag=errorcodefixes-20) | Clean corroded terminal connections | $8–$15 |
 | [Wire nuts / terminal connectors](https://www.amazon.com/s?k=Wire+nuts+%2F+terminal+connectors&tag=errorcodefixes-20) | Repair wire splice if needed | $5–$10 |
 

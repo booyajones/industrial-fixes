@@ -3,7 +3,7 @@ title: "Sporlan Electronic Expansion Valve Fault Codes - Complete Guide"
 description: "Sporlan (Parker) electronic expansion valve and SEI controller fault codes: causes, diagnostic steps, and repair guidance."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

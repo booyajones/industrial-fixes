@@ -3,7 +3,7 @@ title: "Yaskawa VFD Fault LF — Causes & Fix"
 description: "What Yaskawa VFD fault LF means, why output phase loss trips the drive, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
 modDatetime: 2026-04-22T10:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -38,7 +38,7 @@ Fault LF on a Yaskawa drive (A1000, V1000, GA700, GA800) stands for Output Phase
 |------|-------|
 | Motor cable (VFD-rated, screened) | [Amazon](https://www.amazon.com/s?k=Motor+cable+%28VFD-rated%2C+screened%29&tag=errorcodefixes-20) \| Replace if any conductor shows intermittent or open continuity |
 | Motor (rewind or replacement) | [Amazon](https://www.amazon.com/s?k=Motor+%28rewind+or+replacement%29&tag=errorcodefixes-20) \| If open winding is confirmed |
-| Output contactor | [Amazon](https://www.amazon.com/s?k=Output+contactor&tag=errorcodefixes-20) \| Replace if single pole fails to make contact |
+| Output contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Replace if single pole fails to make contact |
 ## When to Call a Pro
 
 Verifying LF fault with a scope or power analyzer provides better data than a clamp meter for intermittent output phase loss. Motor rewinding requires a motor shop. Always use lockout/tagout before working on drive output circuits.

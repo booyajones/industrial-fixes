@@ -3,7 +3,7 @@ title: "Haas CNC Alarm Codes — Complete Guide (100-Series and Up)"
 description: "Haas CNC alarm codes: all major alarm numbers including 100-series emergency stops, spindle alarms, servo faults, and ATC faults with fixes."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

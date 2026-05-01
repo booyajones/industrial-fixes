@@ -3,7 +3,7 @@ title: "VFD Trip Reset Guide: How to Clear Fault Codes Safely"
 description: "Complete guide to resetting VFD trip codes safely, including ABB, Yaskawa, Allen-Bradley, Danfoss, Siemens, and other major drive brands."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -55,7 +55,7 @@ Read the code, review history, isolate motor if needed, verify line power, then 
 | Item | Notes |
 |------|-------|
 | Megohmmeter | [Amazon](https://www.amazon.com/s?k=Megohmmeter&tag=errorcodefixes-20) \| Essential for grounding and insulation faults |
-| Clamp meter | [Amazon](https://www.amazon.com/s?k=Clamp+meter&tag=errorcodefixes-20) \| Check current draw under load |
+| Clamp meter | [Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) \| Check current draw under load |
 | Cooling fan | [Amazon](https://www.amazon.com/s?k=Cooling+fan&tag=errorcodefixes-20) \| Drive overtemp issues |
 | Brake resistor | [Amazon](https://www.amazon.com/s?k=Brake+resistor&tag=errorcodefixes-20) \| Needed for repeat overvoltage decel trips |
 | Input fuses | [Amazon](https://www.amazon.com/s?k=Input+fuses&tag=errorcodefixes-20) \| For undervoltage and phase-loss issues |

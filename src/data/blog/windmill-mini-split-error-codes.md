@@ -3,7 +3,7 @@ title: "Windmill AC Mini Split Error Codes — Complete Fault Code Guide"
 description: "Complete guide to Windmill AC mini split error codes, fault causes, and step-by-step troubleshooting for the most common communication, sensor, and protection faults."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -62,10 +62,10 @@ The Windmill AC is a direct-to-consumer mini split sold online and through selec
 | Part | Notes |
 |------|-------|
 | Indoor filter | [Amazon](https://www.amazon.com/s?k=Indoor+filter&tag=errorcodefixes-20) \| Clean/replace; most common cause of E4 |
-| Temperature sensors | [Amazon](https://www.amazon.com/s?k=Temperature+sensors&tag=errorcodefixes-20) \| F1/F2/F3/F4/F5 types; NTC thermistors |
-| Indoor PCB | [Amazon](https://www.amazon.com/s?k=Indoor+PCB&tag=errorcodefixes-20) \| For E2 with confirmed free-spinning motor |
+| Temperature sensors | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| F1/F2/F3/F4/F5 types; NTC thermistors |
+| Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For E2 with confirmed free-spinning motor |
 | Communication cable | [Amazon](https://www.amazon.com/s?k=Communication+cable&tag=errorcodefixes-20) \| 3-conductor; replace if damaged |
-| Outdoor PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB&tag=errorcodefixes-20) \| For E3 or P0 after other causes ruled out |
+| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For E3 or P0 after other causes ruled out |
 ## When to Call a Pro
 
 Refrigerant work on the Windmill AC requires EPA 608 certification. Contact Windmill customer support for warranty service — the Windmill AC comes with a 5-year parts warranty on the compressor and 1 year on parts.

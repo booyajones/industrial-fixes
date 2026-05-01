@@ -3,7 +3,7 @@ title: "Carrier Greenspeed Heat Pump Error Codes: Complete Guide"
 description: "Carrier Greenspeed variable speed heat pump error codes and fault diagnostics. Infinity system fault codes, causes, and technician fixes."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -54,9 +54,9 @@ The Infinity bus uses a shielded 2-wire system. Any loose connection or short ca
 |------|-------|
 | Inverter board | [Amazon](https://www.amazon.com/s?k=Inverter+board&tag=errorcodefixes-20) \| Carrier part number critical ΓÇö match model |
 | Infinity thermostat | [Amazon](https://www.amazon.com/s?k=Infinity+thermostat&tag=errorcodefixes-20) \| Required for code display and diagnostics |
-| Defrost sensor | [Amazon](https://www.amazon.com/s?k=Defrost+sensor&tag=errorcodefixes-20) \| 10k╬⌐ thermistor type |
-| High-pressure switch | [Amazon](https://www.amazon.com/s?k=High-pressure+switch&tag=errorcodefixes-20) \| Match R-410A setpoint |
-| Outdoor fan motor | [Amazon](https://www.amazon.com/s?k=Outdoor+fan+motor&tag=errorcodefixes-20) \| Variable speed ΓÇö match HP and RPM |
+| Defrost sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| 10k╬⌐ thermistor type |
+| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match R-410A setpoint |
+| Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Variable speed ΓÇö match HP and RPM |
 > **Pro tip:** Carrier Infinity systems retain up to 12 fault codes with timestamps. Access via thermostat ΓåÆ Menu ΓåÆ Diagnostics ΓåÆ Fault History. Review history before clearing to identify recurring issues.
 
 ## Related Articles

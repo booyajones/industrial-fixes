@@ -3,7 +3,7 @@ title: "Mazak Alarm 1 Servo Alarm — Causes & Fix"
 description: "What Mazak alarm 1 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
 modDatetime: 2026-04-22T08:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

@@ -3,7 +3,7 @@ title: "Follett Ice Machine Error Code E1 — Causes & Fix"
 description: "What Follett E1 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
 modDatetime: 2026-04-22T08:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -37,8 +37,8 @@ Follett error code E1 means ice-making fault — the control board has detected 
 | Part | Notes |
 |------|-------|
 | Auger bearing kit | [Amazon](https://www.amazon.com/s?k=Auger+bearing+kit&tag=errorcodefixes-20) \| Follett part number is model-specific; Horizon Elite uses a different kit than older 7 Series |
-| Water inlet valve (solenoid) | [Amazon](https://www.amazon.com/s?k=Water+inlet+valve+%28solenoid%29&tag=errorcodefixes-20) \| Replace if valve fails to open with power applied |
-| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Replace if fan is inoperative or running below speed |
+| Water inlet valve (solenoid) | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| Replace if valve fails to open with power applied |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Replace if fan is inoperative or running below speed |
 | Water filter cartridge | [Amazon](https://www.amazon.com/s?k=Water+filter+cartridge&tag=errorcodefixes-20) \| Replace at 6-month intervals or at first E1 if filter hasn't been serviced |
 ## When to Call a Pro
 

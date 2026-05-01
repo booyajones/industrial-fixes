@@ -3,7 +3,7 @@ title: "True Refrigerator Error Code E1 / P1: Thermostat Probe Failure Causes an
 description: "True refrigerator E1 or P1 error means the cabinet thermostat probe failed. Learn how to test and replace the sensor on GDM and T Series units."
 pubDatetime: 2026-04-26T14:00:00Z
 modDatetime: 2026-04-26T14:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 slug: true-refrigeration-e1-p1-error
 featured: false
 draft: false
@@ -65,7 +65,7 @@ After repair, watch the box temperature for a full cycle. You want stable cut in
 ## Parts You May Need
 
 - [True NTC thermistor probe](https://www.amazon.com/s?k=True+NTC+thermistor+probe&tag=errorcodefixes-20)
-- [Cabinet temperature sensor probe](https://www.amazon.com/s?k=cabinet+temperature+sensor+probe&tag=errorcodefixes-20)
+- [Cabinet temperature sensor probe](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20)
 - [Probe extension harness](https://www.amazon.com/s?k=probe+extension+harness&tag=errorcodefixes-20)
 - [Commercial refrigeration controller](https://www.amazon.com/s?k=commercial+refrigeration+controller&tag=errorcodefixes-20)
 - [Heat shrink butt connectors](https://www.amazon.com/s?k=heat+shrink+butt+connectors&tag=errorcodefixes-20)

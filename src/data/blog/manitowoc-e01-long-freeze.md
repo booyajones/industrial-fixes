@@ -3,7 +3,7 @@ title: "Manitowoc Ice Machine E01 Error: Long Freeze Cycle Shutdown Causes and F
 description: "Manitowoc ice machine E01 error means a long freeze cycle timeout. Learn the causes and repairs for Indigo, Q Series, and S Series units."
 pubDatetime: 2026-04-26T14:00:00Z
 modDatetime: 2026-04-26T14:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 slug: manitowoc-e01-long-freeze
 featured: false
 draft: false
@@ -67,7 +67,7 @@ Do not keep clearing E01 all day in a busy kitchen. Repeated long freezes stress
 - [Condenser coil cleaning kit](https://www.amazon.com/s?k=condenser+coil+cleaning+kit&tag=errorcodefixes-20)
 - [Manitowoc water filter cartridge](https://www.amazon.com/s?k=Manitowoc+water+filter+cartridge&tag=errorcodefixes-20)
 - [Ice machine descaler](https://www.amazon.com/s?k=ice+machine+descaler&tag=errorcodefixes-20)
-- [Manitowoc water inlet valve](https://www.amazon.com/s?k=Manitowoc+water+inlet+valve&tag=errorcodefixes-20)
+- [Manitowoc water inlet valve](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20)
 - [Water distribution tube](https://www.amazon.com/s?k=ice+machine+water+distribution+tube&tag=errorcodefixes-20)
 
 ## When to Call a Technician

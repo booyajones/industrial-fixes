@@ -3,7 +3,7 @@ title: "Fanuc Alarm 300: APC Battery Low — Absolute Encoder Battery Fix"
 description: "Fanuc Alarm 300 means the absolute encoder battery is low or dead. Replace the 3V lithium battery fast — a dead battery wipes home position and forces re-homing."
 pubDatetime: 2026-04-26T17:30:00Z
 modDatetime: 2026-04-26T17:30:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 slug: fanuc-alarm-300-apc-battery
 featured: false
 draft: false
@@ -71,7 +71,7 @@ On complex machines with pallet systems, tool changers, or fixture offsets tied 
 - [Fanuc encoder battery ER3V 3.6V lithium](https://www.amazon.com/s?k=Fanuc+encoder+battery+ER3V+3.6V&tag=errorcodefixes-20)
 - [A98L-0031-0025 Fanuc battery replacement](https://www.amazon.com/s?k=A98L-0031-0025+Fanuc+battery&tag=errorcodefixes-20)
 - [CR17335 3V lithium battery for CNC encoder](https://www.amazon.com/s?k=CR17335+3V+lithium+battery+CNC&tag=errorcodefixes-20)
-- [Digital multimeter for battery voltage check](https://www.amazon.com/s?k=digital+multimeter+battery+voltage&tag=errorcodefixes-20)
+- [Digital multimeter for battery voltage check](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

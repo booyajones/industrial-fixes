@@ -3,7 +3,7 @@ title: "Peerless Pinnacle Boiler Error Code Guide"
 description: "Peerless Pinnacle boiler error codes explained. Learn what each code means, how to diagnose lockouts, sensor faults, and draft errors on Pinnacle condensing boilers."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

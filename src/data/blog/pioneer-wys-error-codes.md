@@ -3,7 +3,7 @@ title: "Pioneer WYS Series Mini Split Error Codes — Complete Fault Guide"
 description: "Complete guide to Pioneer WYS series mini split error codes, what each fault means, and step-by-step troubleshooting for the most common failures."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -61,10 +61,10 @@ The Pioneer WYS series is a popular DIY-friendly ductless mini split line sold t
 | Part | Notes |
 |------|-------|
 | Signal cable (3-conductor) | [Amazon](https://www.amazon.com/s?k=Signal+cable+%283-conductor%29&tag=errorcodefixes-20) \| Replace full run if damaged during installation |
-| Indoor temperature sensor | [Amazon](https://www.amazon.com/s?k=Indoor+temperature+sensor&tag=errorcodefixes-20) \| F1 fault; confirm room temp sensor vs. coil sensor |
+| Indoor temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| F1 fault; confirm room temp sensor vs. coil sensor |
 | Indoor coil sensor | [Amazon](https://www.amazon.com/s?k=Indoor+coil+sensor&tag=errorcodefixes-20) \| F2 fault; clip-on type on evaporator U-bend |
-| Outdoor PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB&tag=errorcodefixes-20) \| For P0 or E6 after other causes ruled out |
-| Indoor fan motor | [Amazon](https://www.amazon.com/s?k=Indoor+fan+motor&tag=errorcodefixes-20) \| DC type; test before replacing PCB |
+| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For P0 or E6 after other causes ruled out |
+| Indoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| DC type; test before replacing PCB |
 | Capacitor (outdoor fan) | [Amazon](https://www.amazon.com/s?k=Capacitor+%28outdoor+fan%29&tag=errorcodefixes-20) \| On older WYS models with AC fan motor |
 ## When to Call a Pro
 

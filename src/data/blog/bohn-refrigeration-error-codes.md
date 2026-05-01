@@ -3,7 +3,7 @@ title: "Bohn Refrigeration Error Code Guide — Causes & Fixes"
 description: "Bohn unit cooler error codes: what each alarm means and how to fix it."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -48,10 +48,10 @@ Air temperature sensor fault. Test NTC resistance, replace if open or shorted.
 
 | Part | Notes |
 |------|-------|
-| Evaporator fan motor | [Amazon](https://www.amazon.com/s?k=Evaporator+fan+motor&tag=errorcodefixes-20) \| Match to Bohn unit cooler model |
-| Air temperature sensor | [Amazon](https://www.amazon.com/s?k=Air+temperature+sensor&tag=errorcodefixes-20) \| Bohn/Heatcraft NTC part |
-| Defrost heater | [Amazon](https://www.amazon.com/s?k=Defrost+heater&tag=errorcodefixes-20) \| Match voltage and wattage |
-| Defrost termination thermostat | [Amazon](https://www.amazon.com/s?k=Defrost+termination+thermostat&tag=errorcodefixes-20) \| Replaces as a matched pair with heater |
+| Evaporator fan motor | [Amazon](https://www.amazon.com/dp/B01N0J3ZEH?tag=errorcodefixes-20) \| Match to Bohn unit cooler model |
+| Air temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Bohn/Heatcraft NTC part |
+| Defrost heater | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) \| Match voltage and wattage |
+| Defrost termination thermostat | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Replaces as a matched pair with heater |
 ## When to Call a Pro
 
 Alarms 3 and 4 require refrigerant circuit diagnosis by an EPA 608-certified technician.

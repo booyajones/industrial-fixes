@@ -2,7 +2,7 @@
 title: "Mitsubishi MSY-GL Mini-Split Error Codes - Full Fault Guide"
 description: "Complete Mitsubishi MSY-GL mini-split error code reference. All P-series flash codes, remote control codes, and diagnostic faults with DIY fix steps."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Marcus Webb"
 tags:
   - hvac
   - error-codes
@@ -74,7 +74,7 @@ The indoor and outdoor units have lost communication. Check the inter-unit wirin
 | Part | Use | Buy on Amazon |
 |------|-----|---------------|
 | Mitsubishi MSY-GL Replacement Remote Controller | Replace failed remote; also used to retrieve fault codes | [View on Amazon](https://www.amazon.com/s?k=mitsubishi+mini+split+replacement+remote+controller&tag=errorcodefixes-20) |
-| 10K NTC Thermistor Sensor (for MSY series) | Replace P1 intake or P2 pipe sensor | [View on Amazon](https://www.amazon.com/s?k=10k+ntc+thermistor+mini+split+temperature+sensor&tag=errorcodefixes-20) |
+| 10K NTC Thermistor Sensor (for MSY series) | Replace P1 intake or P2 pipe sensor | [View on Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) |
 | Mini-Split Condensate Drain Pump | Install if gravity drain is insufficient; resolves persistent P4/P5 | [View on Amazon](https://www.amazon.com/s?k=mini+split+condensate+drain+pump+230v&tag=errorcodefixes-20) |
 | Nu-Calgon Coil Cleaner (No-Rinse Spray) | Clean indoor coil to improve airflow and resolve P6 | [View on Amazon](https://www.amazon.com/s?k=nu-calgon+no+rinse+coil+cleaner+hvac&tag=errorcodefixes-20) |
 | 14/3 Multi-Conductor Wire (50 ft) | Replace corroded inter-unit wiring for EE communication faults | [View on Amazon](https://www.amazon.com/s?k=14+3+stranded+copper+wire+50+ft+hvac&tag=errorcodefixes-20) |

@@ -3,7 +3,7 @@ title: "Goodman GMS80 Furnace Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Goodman GMS80 furnace error codes, LED flash sequences, common fault causes, and step-by-step repair procedures for HVAC technicians."
 pubDatetime: 2026-04-22T23:00:00Z
 modDatetime: 2026-04-22T23:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -53,11 +53,11 @@ The Goodman GMS80 is an 80% AFUE single-stage gas furnace with a PSC blower moto
 
 | Part | Notes |
 |---|---|
-| Hot surface igniter | [Amazon](https://www.amazon.com/s?k=Hot+surface+igniter&tag=errorcodefixes-20) \| Goodman uses both silicon nitride and silicon carbide depending on production year |
-| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Rod-type; clean before replacing |
-| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Check hose first; switches fail after condensate contamination |
-| High-limit switch | [Amazon](https://www.amazon.com/s?k=High-limit+switch&tag=errorcodefixes-20) \| L160 or L180 depending on GMS80 variant |
-| Rollout switch | [Amazon](https://www.amazon.com/s?k=Rollout+switch&tag=errorcodefixes-20) \| L195°F or L270°F; manual reset |
+| Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Goodman uses both silicon nitride and silicon carbide depending on production year |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Rod-type; clean before replacing |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Check hose first; switches fail after condensate contamination |
+| High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| L160 or L180 depending on GMS80 variant |
+| Rollout switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| L195°F or L270°F; manual reset |
 | PSC blower capacitor | [Amazon](https://www.amazon.com/s?k=PSC+blower+capacitor&tag=errorcodefixes-20) \| Single-run capacitor on PSC motor; check µF |
 ## When to Call a Pro
 

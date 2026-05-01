@@ -3,7 +3,7 @@ title: "Fluke Multimeter Error Codes — Complete Guide"
 description: "Fluke multimeter error codes for 87V, 289, 179, and ScopeMeter models: common display errors, causes, and troubleshooting steps."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

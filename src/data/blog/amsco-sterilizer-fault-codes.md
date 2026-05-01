@@ -3,7 +3,7 @@ title: "AMSCO (STERIS) Sterilizer Fault Codes - Complete Guide"
 description: "AMSCO steam sterilizer fault codes for STERIS Century, Eagle, and Evolution series: alarms, causes, and repair guidance."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -48,8 +48,8 @@ Pre-vac sterilizers need a tight chamber and a healthy vacuum pump. If the chamb
 
 | Part | Notes |
 |------|-------|
-| Door gasket | [Amazon](https://www.amazon.com/s?k=Door+gasket&tag=errorcodefixes-20) \| Replace on sealing faults |
-| RTD temperature sensor | [Amazon](https://www.amazon.com/s?k=RTD+temperature+sensor&tag=errorcodefixes-20) \| Replace on temp faults |
+| Door gasket | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?tag=errorcodefixes-20) \| Replace on sealing faults |
+| RTD temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Replace on temp faults |
 | Pressure transducer | [Amazon](https://www.amazon.com/s?k=Pressure+transducer&tag=errorcodefixes-20) \| Replace on chamber pressure faults |
 | Steam trap | [Amazon](https://www.amazon.com/s?k=Steam+trap&tag=errorcodefixes-20) \| Replace on drain temp issues |
 | Door interlock switch | [Amazon](https://www.amazon.com/s?k=Door+interlock+switch&tag=errorcodefixes-20) \| Replace on latch confirmation faults |

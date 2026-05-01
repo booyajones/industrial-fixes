@@ -3,7 +3,7 @@ title: "Navien Error Code E024 — Overheat / High Temperature Cutoff"
 description: "Navien tankless water heater Error Code E024 means the unit has detected an overheat condition. Learn causes, diagnostic steps, and how to fix Navien E024."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

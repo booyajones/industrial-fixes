@@ -3,7 +3,7 @@ title: "Lennox iComfort Error Code 31 — Pressure Switch Fault Diagnosis and Fi
 description: "Lennox iComfort error code 31 means a pressure switch fault. Learn what causes it, how to test the pressure switch and inducer, and which parts to replace."
 pubDatetime: 2026-04-25T12:00:00Z
 modDatetime: 2026-04-25T12:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -110,11 +110,11 @@ If the switch tests bad or you've ruled out all other causes:
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|--------------|
-| [Pressure Switch (Lennox 10J46 or model-specific)](https://www.amazon.com/s?k=Pressure+Switch+%28Lennox+10J46+or+model-specific%29&tag=errorcodefixes-20) | Switch contacts failed, won't close | $20–$60 |
-| [Pressure Switch Hose (1/4" ID rubber)](https://www.amazon.com/s?k=Pressure+Switch+Hose+%281%2F4%22+ID+rubber%29&tag=errorcodefixes-20) | Cracked or disconnected hose | $3–$10 |
-| [Inducer Motor (Lennox 99M75 or model-specific)](https://www.amazon.com/s?k=Inducer+Motor+%28Lennox+99M75+or+model-specific%29&tag=errorcodefixes-20) | Motor seized, won't spin, or weak output | $150–$350 |
+| [Pressure Switch (Lennox 10J46 or model-specific)](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | Switch contacts failed, won't close | $20–$60 |
+| [Pressure Switch Hose (1/4" ID rubber)](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) | Cracked or disconnected hose | $3–$10 |
+| [Inducer Motor (Lennox 99M75 or model-specific)](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) | Motor seized, won't spin, or weak output | $150–$350 |
 | [Condensate Drain Line (3/4" PVC)](https://www.amazon.com/s?k=Condensate+Drain+Line+%283%2F4%22+PVC%29&tag=errorcodefixes-20) | Drain line cracked or blocked beyond cleaning | $5–$15 |
-| [Condensate Trap](https://www.amazon.com/s?k=Condensate+Trap&tag=errorcodefixes-20) | Trap cracked or holding debris | $10–$25 |
+| [Condensate Trap](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) | Trap cracked or holding debris | $10–$25 |
 
 *Always match the pressure switch rating (in inches W.C.) exactly. Using a switch with the wrong rating is a safety issue.*
 

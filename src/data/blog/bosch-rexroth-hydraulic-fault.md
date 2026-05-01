@@ -3,7 +3,7 @@ title: "Bosch Rexroth Hydraulic System Fault Codes - Complete Guide"
 description: "Bosch Rexroth hydraulic fault codes for Sytronix, IndraControl, and proportional valve amplifiers: causes and repair steps."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

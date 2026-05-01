@@ -3,7 +3,7 @@ title: "Eaton Circuit Breaker Fault Codes - Complete Guide"
 description: "Eaton Magnum DS, PowerDefense, and Cutler-Hammer circuit breaker fault codes and trip indicators: causes and reset procedures."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

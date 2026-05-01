@@ -3,7 +3,7 @@ title: "Goodman Furnace E3 Error Code — Draft Motor Fault"
 description: "Goodman E3 error means the induced draft motor failed to prove. Learn how to diagnose the inducer, pressure switch, and condensate drain to fix E3 fast."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -35,9 +35,9 @@ If step 3 or 4 fails, E3 is stored.
 | Cause | Check |
 |---|---|
 | [Condensate drain blocked](https://www.amazon.com/s?k=Condensate+drain+blocked&tag=errorcodefixes-20) | Water backed up, blocking switch port |
-| [Pressure switch hose cracked/off](https://www.amazon.com/s?k=Pressure+switch+hose+cracked%2Foff&tag=errorcodefixes-20) | Trace all small rubber hoses |
-| [Pressure switch failed](https://www.amazon.com/s?k=Pressure+switch+failed&tag=errorcodefixes-20) | Won't close under suction |
-| [Inducer motor not spinning](https://www.amazon.com/s?k=Inducer+motor+not+spinning&tag=errorcodefixes-20) | Bad motor, capacitor, or IFC output |
+| [Pressure switch hose cracked/off](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) | Trace all small rubber hoses |
+| [Pressure switch failed](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | Won't close under suction |
+| [Inducer motor not spinning](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) | Bad motor, capacitor, or IFC output |
 | [Blocked flue or intake](https://www.amazon.com/s?k=Blocked+flue+or+intake&tag=errorcodefixes-20) | No draft pressure builds |
 | [Cold weather ice blockage](https://www.amazon.com/s?k=Cold+weather+ice+blockage&tag=errorcodefixes-20) | Frozen condensate or flue ice |
 
@@ -74,11 +74,11 @@ If the motor runs but E3 persists, the motor may not be generating enough suctio
 
 | Part | Typical Cost |
 |---|---|
-| [Pressure switch (OEM)](https://www.amazon.com/s?k=Pressure+switch+%28OEM%29&tag=errorcodefixes-20) | $30–70 |
-| [Pressure switch hose](https://www.amazon.com/s?k=Pressure+switch+hose&tag=errorcodefixes-20) | $5–10 |
-| [Inducer motor (Goodman OEM)](https://www.amazon.com/s?k=Inducer+motor+%28Goodman+OEM%29&tag=errorcodefixes-20) | $150–350 |
-| [Condensate trap](https://www.amazon.com/s?k=Condensate+trap&tag=errorcodefixes-20) | $15–30 |
-| [IFC board](https://www.amazon.com/s?k=IFC+board&tag=errorcodefixes-20) | $100–280 |
+| [Pressure switch (OEM)](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | $30–70 |
+| [Pressure switch hose](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) | $5–10 |
+| [Inducer motor (Goodman OEM)](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) | $150–350 |
+| [Condensate trap](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) | $15–30 |
+| [IFC board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | $100–280 |
 
 ## E3 vs. E1
 

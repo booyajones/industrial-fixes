@@ -3,7 +3,7 @@ title: "Hoshizaki E9 Error Code — Causes & Fix"
 description: "What Hoshizaki E9 error code means, why the evaporator temperature sensor faults, and how to diagnose and fix it."
 pubDatetime: 2026-04-22T11:00:00Z
 modDatetime: 2026-04-22T11:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -40,7 +40,7 @@ E9 on a Hoshizaki ice machine indicates a fault with the evaporator temperature 
 |------|-------|
 | Evaporator thermistor (E9 sensor) | [Amazon](https://www.amazon.com/s?k=Evaporator+thermistor+%28E9+sensor%29&tag=errorcodefixes-20) \| OEM Hoshizaki part; match to machine model number |
 | Sensor wiring harness | [Amazon](https://www.amazon.com/s?k=Sensor+wiring+harness&tag=errorcodefixes-20) \| Replace if conductors are broken or connector pins corroded |
-| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| Replace only if all sensors and wiring test good |
+| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace only if all sensors and wiring test good |
 ## When to Call a Pro
 
 If the replacement thermistor does not clear E9, the control board input circuit has likely failed. Contact a Hoshizaki-authorized service agent for control board diagnosis and replacement.

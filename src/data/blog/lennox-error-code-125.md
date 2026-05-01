@@ -3,7 +3,7 @@ title: "Lennox Error Code 125 — Causes & Fix"
 description: "What Lennox error code 125 means, why the pressure switch stays open at the end of heat speed, and how to fix it."
 pubDatetime: 2026-04-22T11:00:00Z
 modDatetime: 2026-04-22T11:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -38,10 +38,10 @@ Lennox error code 125 indicates that the pressure switch opened or failed to clo
 
 | Part | Notes |
 |------|-------|
-| Pressure switch (heat speed rated) | [Amazon](https://www.amazon.com/s?k=Pressure+switch+%28heat+speed+rated%29&tag=errorcodefixes-20) \| Verify correct setpoint for your Lennox model and vent configuration |
-| Draft inducer motor | [Amazon](https://www.amazon.com/s?k=Draft+inducer+motor&tag=errorcodefixes-20) \| Replace if motor cannot maintain heat-speed pressure |
-| Pressure switch hose | [Amazon](https://www.amazon.com/s?k=Pressure+switch+hose&tag=errorcodefixes-20) \| 5/16" rubber hose; replace if cracked or water-logged |
-| Condensate trap assembly | [Amazon](https://www.amazon.com/s?k=Condensate+trap+assembly&tag=errorcodefixes-20) \| Replace if cracked or blocked beyond cleaning |
+| Pressure switch (heat speed rated) | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Verify correct setpoint for your Lennox model and vent configuration |
+| Draft inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Replace if motor cannot maintain heat-speed pressure |
+| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| 5/16" rubber hose; replace if cracked or water-logged |
+| Condensate trap assembly | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) \| Replace if cracked or blocked beyond cleaning |
 ## When to Call a Pro
 
 If inducer pressure tests and component replacements do not resolve code 125, a Lennox-authorized technician should perform a full system performance check. Vent sizing issues or heat exchanger restrictions may require redesign of the venting system.

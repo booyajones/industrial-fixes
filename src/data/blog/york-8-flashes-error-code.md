@@ -3,7 +3,7 @@ title: "York 8 Flashes Error Code — Causes & Fix"
 description: "What 8 flashes on a York furnace means, why ignition lockout occurs, and how to diagnose and reset the system."
 pubDatetime: 2026-04-22T11:00:00Z
 modDatetime: 2026-04-22T11:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -38,10 +38,10 @@ Eight LED flashes on a York furnace indicates ignition lockout. The control boar
 
 | Part | Notes |
 |------|-------|
-| Hot surface igniter | [Amazon](https://www.amazon.com/s?k=Hot+surface+igniter&tag=errorcodefixes-20) \| Verify silicon carbide vs. silicon nitride type for your York model |
-| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Universal or OEM; clean before replacing to confirm fault |
-| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Replace if diaphragm is ruptured or contacts are open at correct vacuum |
-| Draft inducer motor | [Amazon](https://www.amazon.com/s?k=Draft+inducer+motor&tag=errorcodefixes-20) \| Replace if motor is noisy, slow, or fails to start |
+| Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Verify silicon carbide vs. silicon nitride type for your York model |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Universal or OEM; clean before replacing to confirm fault |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Replace if diaphragm is ruptured or contacts are open at correct vacuum |
+| Draft inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Replace if motor is noisy, slow, or fails to start |
 ## When to Call a Pro
 
 If the furnace continues to lock out after replacing the igniter and cleaning the flame sensor, call a licensed HVAC technician. Gas valve testing and combustion analysis require specialized equipment and should not be performed by unqualified personnel.

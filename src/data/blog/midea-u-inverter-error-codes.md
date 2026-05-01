@@ -3,7 +3,7 @@ title: "Midea U-Inverter Mini Split Error Codes — Complete Fault Guide"
 description: "Complete guide to Midea U-Inverter mini split error codes, what each fault means, and step-by-step troubleshooting for the most common failures."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -57,11 +57,11 @@ The Midea U-Inverter is a window-mounted mini split with a unique U-shaped desig
 
 | Part | Notes |
 |------|-------|
-| Room temperature sensor (E1) | [Amazon](https://www.amazon.com/s?k=Room+temperature+sensor+%28E1%29&tag=errorcodefixes-20) \| NTC 10kΩ; confirm U-Inverter model number |
-| Coil temperature sensor (E2) | [Amazon](https://www.amazon.com/s?k=Coil+temperature+sensor+%28E2%29&tag=errorcodefixes-20) \| Clip-on type; confirm coil sensor vs. room sensor |
-| Indoor PCB | [Amazon](https://www.amazon.com/s?k=Indoor+PCB&tag=errorcodefixes-20) \| For E6 with confirmed cable connection |
+| Room temperature sensor (E1) | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| NTC 10kΩ; confirm U-Inverter model number |
+| Coil temperature sensor (E2) | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Clip-on type; confirm coil sensor vs. room sensor |
+| Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For E6 with confirmed cable connection |
 | Internal cable assembly | [Amazon](https://www.amazon.com/s?k=Internal+cable+assembly&tag=errorcodefixes-20) \| Between indoor and outdoor sections |
-| Outdoor PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB&tag=errorcodefixes-20) \| For E9 after charge confirmed |
+| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For E9 after charge confirmed |
 ## When to Call a Pro
 
 The Midea U-Inverter is a sealed refrigerant system — it is not designed for field recharging. If the unit has low refrigerant (indicated by E4, E9, or P2 that persists), contact Midea customer service (1-855-643-3248) for warranty replacement. DIY refrigerant access on a sealed window unit is not recommended.

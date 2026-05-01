@@ -3,7 +3,7 @@ title: "Haas Alarm 129: Spindle Orientation Error — Fix Guide"
 description: "Haas Alarm 129 spindle orientation error: causes, diagnostic steps, and repair procedures for Haas VF, ST, and EC series CNC machines."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

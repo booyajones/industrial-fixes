@@ -2,7 +2,7 @@
 title: "Rinnai RU130iN Tankless Water Heater Error Codes - Full Fault Guide"
 description: "Complete error code reference for the Rinnai RU130iN condensing tankless water heater — the highest-capacity residential Rinnai unit. Covers all fault codes including Error 79 scale sensor, gas pressure faults, and advanced diagnostics."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "James Rutherford"
 tags:
   - hvac
   - error-codes

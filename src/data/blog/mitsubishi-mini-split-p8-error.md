@@ -1,6 +1,6 @@
 ---
 title: "Mitsubishi Mini Split P8 Error Code — Outdoor Heat Exchanger Overtemperature Fix"
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 pubDatetime: 2026-04-26T17:00:00Z
 modDatetime: 2026-04-26T17:00:00Z
 slug: mitsubishi-mini-split-p8-error
@@ -55,8 +55,8 @@ Mitsubishi is the largest mini split brand by installed base in the United State
 
 ## Parts You May Need
 
-- [Mitsubishi Outdoor Fan Motor](https://www.amazon.com/s?k=Mitsubishi+mini+split+outdoor+fan+motor&tag=errorcodefixes-20)
-- [Run Capacitor for Mini Split Outdoor Unit](https://www.amazon.com/s?k=mini+split+outdoor+unit+run+capacitor&tag=errorcodefixes-20)
+- [Mitsubishi Outdoor Fan Motor](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20)
+- [Run Capacitor for Mini Split Outdoor Unit](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20)
 - [Coil Fin Comb and Cleaning Brush Set](https://www.amazon.com/s?k=AC+coil+fin+comb+cleaning+brush&tag=errorcodefixes-20)
 - [No-Rinse Evaporator Coil Cleaner Spray](https://www.amazon.com/s?k=no-rinse+coil+cleaner+spray+AC&tag=errorcodefixes-20)
 - [Mitsubishi Outdoor Thermistor Sensor](https://www.amazon.com/s?k=Mitsubishi+mini+split+outdoor+thermistor+sensor&tag=errorcodefixes-20)

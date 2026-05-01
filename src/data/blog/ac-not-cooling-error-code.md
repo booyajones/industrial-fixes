@@ -3,7 +3,7 @@ title: "Air Conditioner Not Cooling Error Codes Guide"
 description: "Complete guide to air conditioner not cooling error codes, including common protection faults across Carrier, Trane, Goodman, Lennox, Daikin, and mini split brands."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -55,9 +55,9 @@ A frozen evaporator from low airflow can look exactly like a refrigerant problem
 | Item | Notes |
 |------|-------|
 | Filter | [Amazon](https://www.amazon.com/s?k=Filter&tag=errorcodefixes-20) \| First check on any no-cooling call |
-| Run capacitor | [Amazon](https://www.amazon.com/s?k=Run+capacitor&tag=errorcodefixes-20) \| Frequent root cause on standard split systems |
-| Contactor | [Amazon](https://www.amazon.com/s?k=Contactor&tag=errorcodefixes-20) \| Burned contacts cause compressor issues |
-| Temperature sensor | [Amazon](https://www.amazon.com/s?k=Temperature+sensor&tag=errorcodefixes-20) \| Common on inverter and mini split gear |
+| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Frequent root cause on standard split systems |
+| Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Burned contacts cause compressor issues |
+| Temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Common on inverter and mini split gear |
 | Coil cleaner | [Amazon](https://www.amazon.com/s?k=Coil+cleaner&tag=errorcodefixes-20) \| Needed for real condenser cleaning |
 | Manifold gauges | [Amazon](https://www.amazon.com/s?k=Manifold+gauges&tag=errorcodefixes-20) \| Required for proper refrigerant diagnosis |
 ## When to Call a Pro

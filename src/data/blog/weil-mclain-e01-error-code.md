@@ -54,9 +54,9 @@ This code is one of the most searched Weil-McLain faults because it appears freq
 
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|-------------|
-| Flame sensor | 383-500-044 | $30–$45 | [Amazon](https://www.amazon.com/s?k=383-500-044+Flame+sensor&tag=errorcodefixes-20) \| HVAC Parts / Weil-McLain Distributor |
+| Flame sensor | 383-500-044 | $30–$45 | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| HVAC Parts / Weil-McLain Distributor |
 | Igniter | 383-500-043 | $50–$70 | [Amazon](https://www.amazon.com/s?k=383-500-043+Igniter&tag=errorcodefixes-20) \| HVAC Parts / Weil-McLain Distributor |
-| Gas valve | 383-500-376 | $200–$350 | [Amazon](https://www.amazon.com/s?k=383-500-376+Gas+valve&tag=errorcodefixes-20) \| Weil-McLain Distributor |
+| Gas valve | 383-500-376 | $200–$350 | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Weil-McLain Distributor |
 | Burner control module | 383-500-372 | $280–$420 | [Amazon](https://www.amazon.com/s?k=383-500-372+Burner+control+module&tag=errorcodefixes-20) \| Weil-McLain Distributor |
 ## When to Call a Professional
 

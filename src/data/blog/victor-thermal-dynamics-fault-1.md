@@ -3,7 +3,7 @@ title: "Thermal Dynamics Plasma Cutter Fault 1 — Causes & Fix"
 description: "What Thermal Dynamics Fault 1 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T11:00:00Z
 modDatetime: 2026-04-22T11:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

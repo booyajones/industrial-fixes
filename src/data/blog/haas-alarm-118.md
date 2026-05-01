@@ -3,7 +3,7 @@ title: "Haas Alarm 118 — Spindle Orientation Fault Causes & Fix"
 description: "What Haas alarm 118 means, why spindle orientation fails, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
 modDatetime: 2026-04-22T15:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

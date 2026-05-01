@@ -3,7 +3,7 @@ title: "Allen Bradley PowerFlex 525 F005 Fault, Overvoltage Causes & Fix"
 description: "What Allen Bradley PowerFlex 525 F005 overvoltage means, why it trips on decel, and how to fix braking, line voltage, and regeneration issues."
 pubDatetime: 2026-04-24T23:50:00Z
 modDatetime: 2026-04-24T23:50:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

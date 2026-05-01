@@ -3,7 +3,7 @@ title: "Manitowoc Ice Machine E01 Error Code — Causes & Fix"
 description: "What Manitowoc E01 long freeze cycle means, why it shuts down, and how to diagnose and fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
 modDatetime: 2026-04-22T13:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

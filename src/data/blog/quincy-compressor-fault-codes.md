@@ -3,7 +3,7 @@ title: "Quincy Compressor Fault Codes — Complete Guide"
 description: "Quincy compressor fault codes for rotary screw and QGS/QGV series compressors: common alarms, causes, and fixes."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -45,7 +45,7 @@ A dead or drifting pressure transducer makes the controller do strange things, i
 | Pressure transducer | [Amazon](https://www.amazon.com/s?k=Pressure+transducer&tag=errorcodefixes-20) \| Frequent electronic failure |
 | Air/oil separator | [Amazon](https://www.amazon.com/s?k=Air%2Foil+separator&tag=errorcodefixes-20) \| Major service item |
 | Oil filter | [Amazon](https://www.amazon.com/s?k=Oil+filter&tag=errorcodefixes-20) \| Replace during PM |
-| Fan motor / contactor | [Amazon](https://www.amazon.com/s?k=Fan+motor+%2F+contactor&tag=errorcodefixes-20) \| Check on temperature faults |
+| Fan motor / contactor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Check on temperature faults |
 ## When to Call a Pro
 If the compressor is tripping on high temp after cooler cleaning and PM service, the oil thermostatic valve or airend may be wearing out. That is specialist work.
 

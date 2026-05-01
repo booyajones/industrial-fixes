@@ -3,7 +3,7 @@ title: "Manitowoc Ice Machine Complete Troubleshooting Guide — All Error Codes
 description: "Complete Manitowoc ice machine troubleshooting guide covering all error codes for Indigo, NEO, and S-Series machines: causes and fix steps."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -71,7 +71,7 @@ The water curtain (the plastic flap that prevents ice from sliding into the bin 
 | Water filter | [Amazon](https://www.amazon.com/s?k=Water+filter&tag=errorcodefixes-20) \| Mandatory 6-month replacement |
 | Curtain switch | [Amazon](https://www.amazon.com/s?k=Curtain+switch&tag=errorcodefixes-20) \| Inspect on E-05 / 5 blink faults |
 | Harvest heater | [Amazon](https://www.amazon.com/s?k=Harvest+heater&tag=errorcodefixes-20) \| Replace on long harvest faults |
-| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Check on high ambient temp faults |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Check on high ambient temp faults |
 ## Jump to Fix
 
 - **E-02 / freeze too long** → Clean condenser → Check water temp → Check refrigerant

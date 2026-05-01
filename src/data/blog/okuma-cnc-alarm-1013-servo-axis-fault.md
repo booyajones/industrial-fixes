@@ -52,7 +52,7 @@ Alarm 1013 always includes an axis identifier in the full alarm text displayed o
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|-------------|
 | Amplifier Cooling Fan (40mm or 60mm DC) | Match by voltage/CFM/frame | $20–$60 | [Amazon](https://www.amazon.com/s?k=Match+by+voltage%2FCFM%2Fframe+Amplifier+Cooling+Fan+%2840mm+or+60mm+DC%29&tag=errorcodefixes-20) \| Grainger / Amazon |
-| Cabinet Air Filter Mat | Okuma part or cut-to-size foam | $10–$30 | [Amazon](https://www.amazon.com/s?k=Okuma+part+or+cut-to-size+foam+Cabinet+Air+Filter+Mat&tag=errorcodefixes-20) \| Okuma dealer / filter supply |
+| Cabinet Air Filter Mat | Okuma part or cut-to-size foam | $10–$30 | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| Okuma dealer / filter supply |
 | Okuma IGBT Servo Amplifier (if failed) | Axis-specific, contact Okuma | $2,000–$6,000 | [Amazon](https://www.amazon.com/s?k=Axis-specific%2C+contact+Okuma+Okuma+IGBT+Servo+Amplifier+%28if+failed%29&tag=errorcodefixes-20) \| Okuma America dealer |
 | One-Shot Lube Oil (ISO 68 way oil) | Generic ISO 68 | $15–$30/gallon | [Amazon](https://www.amazon.com/s?k=Generic+ISO+68+One-Shot+Lube+Oil+%28ISO+68+way+oil%29&tag=errorcodefixes-20) \| Grainger / MSC Industrial |
 ## When to Call a Professional

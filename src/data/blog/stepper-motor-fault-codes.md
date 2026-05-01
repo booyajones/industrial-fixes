@@ -3,7 +3,7 @@ title: "Stepper Motor Fault Codes Guide"
 description: "Master reference for stepper motor fault codes, driver alarms, and common troubleshooting patterns across CNC routers, packaging machines, 3D systems, and industrial automation."
 pubDatetime: 2026-04-22T23:00:00Z
 modDatetime: 2026-04-22T23:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

@@ -3,7 +3,7 @@ title: "Siemens SINAMICS G120 Fault F30021, Ground Fault Causes & Fix"
 description: "What Siemens SINAMICS G120 Fault F30021 means, why the power unit detects a ground fault, and how to isolate the motor, cable, or brake wiring problem."
 pubDatetime: 2026-04-24T23:50:00Z
 modDatetime: 2026-04-24T23:50:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

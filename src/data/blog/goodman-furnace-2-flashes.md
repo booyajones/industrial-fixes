@@ -3,7 +3,7 @@ title: "Goodman Furnace 2 Flashes — Pressure Switch Stuck Closed Fix"
 description: "Goodman furnace 2 slow flashes means pressure switch stuck closed. Learn what causes it, how to diagnose, and how to fix it with this step-by-step guide."
 pubDatetime: 2026-04-26T12:00:00Z
 modDatetime: 2026-04-26T12:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -63,10 +63,10 @@ This is the most expensive diagnosis. If the control board is energizing the ind
 
 | Part | Notes |
 |------|-------|
-| [Goodman Pressure Switch](https://www.amazon.com/s?k=goodman+furnace+pressure+switch+replacement&tag=errorcodefixes-20) | Match exact pressure rating (WC value) from old switch label |
-| [Furnace Pressure Switch Hose](https://www.amazon.com/s?k=furnace+pressure+switch+tubing&tag=errorcodefixes-20) | 1/4" or 3/8" ID vinyl; buy a foot or two |
+| [Goodman Pressure Switch](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | Match exact pressure rating (WC value) from old switch label |
+| [Furnace Pressure Switch Hose](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | 1/4" or 3/8" ID vinyl; buy a foot or two |
 | [Condensate Drain Treatment](https://www.amazon.com/s?k=condensate+drain+pan+treatment+tablets&tag=errorcodefixes-20) | Prevents algae-caused clogs |
-| [Goodman Control Board](https://www.amazon.com/s?k=goodman+furnace+control+board+replacement&tag=errorcodefixes-20) | Only if relay is confirmed stuck — verify model number |
+| [Goodman Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Only if relay is confirmed stuck — verify model number |
 | [Furnace Wire Harness](https://www.amazon.com/s?k=furnace+wire+harness&tag=errorcodefixes-20) | For severe wiring damage; match model |
 
 ## When to Call a Technician

@@ -3,7 +3,7 @@ title: "Gree Mini-Split E6 Error Code — Causes & Fix"
 description: "What Gree mini-split E6 error code means, why communication errors trigger between indoor and outdoor units, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
 modDatetime: 2026-04-22T12:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -38,7 +38,7 @@ The Gree E6 error code indicates a **communication error between the indoor and 
 | Part | Notes |
 |------|-------|
 | Communication wire (3-conductor, 18 AWG) | [Amazon](https://www.amazon.com/s?k=Communication+wire+%283-conductor%2C+18+AWG%29&tag=errorcodefixes-20) \| If the existing wire is damaged; run new wire in conduit |
-| Indoor or outdoor PCB | [Amazon](https://www.amazon.com/s?k=Indoor+or+outdoor+PCB&tag=errorcodefixes-20) \| Only after eliminating all wiring and power causes |
+| Indoor or outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Only after eliminating all wiring and power causes |
 ## When to Call a Pro
 
 If all wiring checks out and power is confirmed at both units but E6 persists after a power-cycle, one of the PCBs has a failed communication circuit. Board replacement requires matching the exact Gree model and refrigerant series — use a Gree-authorized service technician to avoid compatibility issues.

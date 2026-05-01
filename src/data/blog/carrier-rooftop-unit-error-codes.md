@@ -3,7 +3,7 @@ title: "Carrier Rooftop Unit Error Codes: Common Faults Guide"
 description: "Complete guide to Carrier RTU error codes. Covers flash codes, fault descriptions, and technician-level fixes for 48 and 50 Series commercial rooftop units."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -77,12 +77,12 @@ Wash condenser coil with coil cleaner. Verify all condenser fans are rotating. C
 
 | Part | Notes |
 |---|---|
-| Flame sensor rod | [Amazon](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20) \| Measure µA before replacing |
-| Integrated control board | [Amazon](https://www.amazon.com/s?k=Integrated+control+board&tag=errorcodefixes-20) \| Model-specific — cross-reference by part number |
-| Limit switch | [Amazon](https://www.amazon.com/s?k=Limit+switch&tag=errorcodefixes-20) \| Match temperature rating exactly |
-| Inducer motor | [Amazon](https://www.amazon.com/s?k=Inducer+motor&tag=errorcodefixes-20) \| Check capacitor before condemning motor |
-| High-pressure switch | [Amazon](https://www.amazon.com/s?k=High-pressure+switch&tag=errorcodefixes-20) \| Check setting: 410A = 590 psi, R-22 = 380 psi |
-| Run capacitor | [Amazon](https://www.amazon.com/s?k=Run+capacitor&tag=errorcodefixes-20) \| Check µF with capacitor tester |
+| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Measure µA before replacing |
+| Integrated control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Model-specific — cross-reference by part number |
+| Limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Match temperature rating exactly |
+| Inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Check capacitor before condemning motor |
+| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Check setting: 410A = 590 psi, R-22 = 380 psi |
+| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Check µF with capacitor tester |
 > **Pro tip:** Carrier RTU boards store the last 5 fault codes in memory. Access fault history by pressing and holding the LED diagnostic button for 5 seconds on 48/50 Series controls.
 
 ## Related Articles

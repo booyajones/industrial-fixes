@@ -3,7 +3,7 @@ title: "York Furnace Error Code E2: Pressure Switch Fault Causes and Fix"
 description: "York furnace error code E2 means a pressure switch fault. Diagnose blocked drains, bad inducer, or failed switch on York, Coleman, and Luxaire furnaces."
 pubDatetime: 2026-04-26T17:30:00Z
 modDatetime: 2026-04-26T17:30:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 slug: york-furnace-e2-pressure-switch
 featured: false
 draft: false
@@ -64,10 +64,10 @@ The pressure switch is a safety device that verifies the inducer motor is creati
 
 ## Parts You May Need
 
-- [York furnace pressure switch](https://www.amazon.com/s?k=York+furnace+pressure+switch&tag=errorcodefixes-20)
-- [Furnace pressure switch hose tubing](https://www.amazon.com/s?k=furnace+pressure+switch+hose+tubing&tag=errorcodefixes-20)
-- [York inducer motor replacement](https://www.amazon.com/s?k=York+furnace+inducer+motor&tag=errorcodefixes-20)
-- [Furnace inducer motor capacitor](https://www.amazon.com/s?k=furnace+inducer+motor+run+capacitor&tag=errorcodefixes-20)
+- [York furnace pressure switch](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20)
+- [Furnace pressure switch hose tubing](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20)
+- [York inducer motor replacement](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20)
+- [Furnace inducer motor capacitor](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20)
 - [Condensate drain line clear kit](https://www.amazon.com/s?k=condensate+drain+line+clear+kit&tag=errorcodefixes-20)
 
 ## When to Call a Technician

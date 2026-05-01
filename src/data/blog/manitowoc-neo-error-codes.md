@@ -3,7 +3,7 @@ title: "Manitowoc NEO Ice Machine Error Code Guide — Causes & Fixes"
 description: "Manitowoc NEO ice machine error codes: what each code means and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
 modDatetime: 2026-04-22T14:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -49,8 +49,8 @@ Manitowoc NEO ice machines are the latest generation of Manitowoc commercial ice
 
 | Part | Notes |
 |------|-------|
-| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Replace if not running with compressor on |
-| Water inlet valve | [Amazon](https://www.amazon.com/s?k=Water+inlet+valve&tag=errorcodefixes-20) \| Replace if screen damaged or coil failed |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Replace if not running with compressor on |
+| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| Replace if screen damaged or coil failed |
 | Ice thickness probe | [Amazon](https://www.amazon.com/s?k=Ice+thickness+probe&tag=errorcodefixes-20) \| Replace if scaled beyond cleaning |
 | Manitowoc Ice Machine Cleaner | [Amazon](https://www.amazon.com/s?k=Manitowoc+Ice+Machine+Cleaner&tag=errorcodefixes-20) \| Use with every service call |
 ## When to Call a Pro

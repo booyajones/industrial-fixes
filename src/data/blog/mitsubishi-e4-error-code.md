@@ -3,7 +3,7 @@ title: "Mitsubishi E4 Error Code — Causes & Fix"
 description: "What Mitsubishi E4 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
 modDatetime: 2026-04-22T08:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -38,7 +38,7 @@ Mitsubishi error code E4 indicates the condensate drain is full or blocked — t
 |------|-------|
 | Condensate drain pan tablets | [Amazon](https://www.amazon.com/s?k=Condensate+drain+pan+tablets&tag=errorcodefixes-20) \| Algaecide tablets prevent buildup; replace every 6 months |
 | Condensate drain hose (1/2" or 3/4" ID) | [Amazon](https://www.amazon.com/s?k=Condensate+drain+hose+%281%2F2%22+or+3%2F4%22+ID%29&tag=errorcodefixes-20) \| Replace if old hose is brittle or permanently kinked |
-| Float switch | [Amazon](https://www.amazon.com/s?k=Float+switch&tag=errorcodefixes-20) \| Replace if drain is clear but E4 still triggers; confirm float moves freely |
+| Float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?tag=errorcodefixes-20) \| Replace if drain is clear but E4 still triggers; confirm float moves freely |
 ## When to Call a Pro
 
 If the drain line is clear and the float switch moves freely but E4 persists, the PCB float switch input circuit may be faulty. That's a board-level diagnosis.

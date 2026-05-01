@@ -3,7 +3,7 @@ title: "Heatcraft Walk-In Cooler Error Code Guide — Causes & Fixes"
 description: "Heatcraft walk-in cooler and freezer error codes: what each alarm means and how to fix it."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -51,10 +51,10 @@ Air temperature sensor open or shorted. Test sensor resistance and replace if ou
 
 | Part | Notes |
 |------|-------|
-| Evaporator fan motor | [Amazon](https://www.amazon.com/s?k=Evaporator+fan+motor&tag=errorcodefixes-20) \| Match to Heatcraft unit cooler model |
-| Air temperature sensor | [Amazon](https://www.amazon.com/s?k=Air+temperature+sensor&tag=errorcodefixes-20) \| Replace if resistance out of spec |
-| Defrost heater | [Amazon](https://www.amazon.com/s?k=Defrost+heater&tag=errorcodefixes-20) \| Replace if open circuit |
-| Defrost termination thermostat | [Amazon](https://www.amazon.com/s?k=Defrost+termination+thermostat&tag=errorcodefixes-20) \| Replace if open at room temp |
+| Evaporator fan motor | [Amazon](https://www.amazon.com/dp/B01N0J3ZEH?tag=errorcodefixes-20) \| Match to Heatcraft unit cooler model |
+| Air temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Replace if resistance out of spec |
+| Defrost heater | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) \| Replace if open circuit |
+| Defrost termination thermostat | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Replace if open at room temp |
 ## When to Call a Pro
 
 Alarms 3 and 4 (pressure faults) indicate refrigerant circuit issues requiring an EPA 608-certified technician. All refrigerant work requires proper recovery and certification.

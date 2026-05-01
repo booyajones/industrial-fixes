@@ -3,7 +3,7 @@ title: "Carrier Infinity XC21 Error Codes — Most Common Faults and Fixes"
 description: "Complete guide to Carrier Infinity XC21 error codes, what each fault means, and how to diagnose and fix the most common failures."
 pubDatetime: 2026-04-22T14:00:00Z
 modDatetime: 2026-04-22T14:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -51,11 +51,11 @@ The Carrier Infinity XC21 is a variable-capacity heat pump that communicates wit
 
 | Part | Notes |
 |------|-------|
-| Low-pressure switch | [Amazon](https://www.amazon.com/s?k=Low-pressure+switch&tag=errorcodefixes-20) \| Replace if Code 22 persists with correct refrigerant charge |
-| High-pressure switch | [Amazon](https://www.amazon.com/s?k=High-pressure+switch&tag=errorcodefixes-20) \| Replace if Code 24 persists with clean coil and correct charge |
-| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Replace if not spinning or spinning slow; test capacitor first |
-| Outdoor unit control board | [Amazon](https://www.amazon.com/s?k=Outdoor+unit+control+board&tag=errorcodefixes-20) \| For persistent Code 11 or Code 45 after wiring confirmed |
-| Discharge temperature sensor | [Amazon](https://www.amazon.com/s?k=Discharge+temperature+sensor&tag=errorcodefixes-20) \| For Code 25 or Code 31 with correct refrigerant conditions |
+| Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Replace if Code 22 persists with correct refrigerant charge |
+| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Replace if Code 24 persists with clean coil and correct charge |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Replace if not spinning or spinning slow; test capacitor first |
+| Outdoor unit control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For persistent Code 11 or Code 45 after wiring confirmed |
+| Discharge temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| For Code 25 or Code 31 with correct refrigerant conditions |
 ## When to Call a Pro
 
 Refrigerant diagnosis and handling on the XC21 requires EPA 608 certification. The variable-capacity compressor inverter also requires specialized knowledge — do not attempt to measure inverter output with a standard multimeter. An Infinity-trained Carrier technician can connect to the system via the thermostat diagnostics to see real-time compressor speed, pressures, and temperatures without opening the refrigerant circuit.

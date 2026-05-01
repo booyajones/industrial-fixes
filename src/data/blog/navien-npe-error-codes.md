@@ -3,7 +3,7 @@ title: "Navien NPE Series Error Codes — Tankless Water Heater Fault Guide"
 description: "Complete guide to Navien NPE series tankless water heater error codes, what each fault means, and step-by-step troubleshooting for ignition, flow, and sensor failures."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -64,10 +64,10 @@ The Navien NPE series (including NPE-180A, NPE-210A, NPE-240A, NPE-180S, NPE-210
 | Part | Notes |
 |------|-------|
 | Flow sensor | [Amazon](https://www.amazon.com/s?k=Flow+sensor&tag=errorcodefixes-20) \| E302; descale first before replacing |
-| Air pressure switch | [Amazon](https://www.amazon.com/s?k=Air+pressure+switch&tag=errorcodefixes-20) \| E010 after vent confirmed clear |
-| Gas valve assembly | [Amazon](https://www.amazon.com/s?k=Gas+valve+assembly&tag=errorcodefixes-20) \| E001/E002 after pressure confirmed |
-| Fan motor assembly | [Amazon](https://www.amazon.com/s?k=Fan+motor+assembly&tag=errorcodefixes-20) \| E024; includes wheel |
-| Outlet temperature sensor | [Amazon](https://www.amazon.com/s?k=Outlet+temperature+sensor&tag=errorcodefixes-20) \| E007; NTC type |
+| Air pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| E010 after vent confirmed clear |
+| Gas valve assembly | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| E001/E002 after pressure confirmed |
+| Fan motor assembly | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| E024; includes wheel |
+| Outlet temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| E007; NTC type |
 | Igniter | [Amazon](https://www.amazon.com/s?k=Igniter&tag=errorcodefixes-20) \| For E001 with confirmed gas supply |
 ## When to Call a Pro
 

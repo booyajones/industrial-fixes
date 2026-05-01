@@ -46,7 +46,7 @@ After correcting the cause, clear the fault via the iComfort thermostat or by cy
 
 | Part | Where to Buy |
 |------|-------------|
-| [High limit switch](https://www.amazon.com/s?k=High+limit+switch&tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
+| [High limit switch](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
 | [Lennox media filter](https://www.amazon.com/s?k=Lennox+media+filter&tag=errorcodefixes-20) | Amazon, SupplyHouse |
 | [ECM motor module](https://www.amazon.com/s?k=ECM+motor+module&tag=errorcodefixes-20) | RepairClinic, Grainger |
 

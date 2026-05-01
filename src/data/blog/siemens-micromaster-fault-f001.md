@@ -3,7 +3,7 @@ title: "Siemens Micromaster Fault F001 — Causes & Fix"
 description: "What Siemens Micromaster fault F001 means, why overcurrent triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
 modDatetime: 2026-04-22T12:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

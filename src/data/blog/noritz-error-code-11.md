@@ -3,7 +3,7 @@ title: "Noritz Error Code 11 — Causes & Fix"
 description: "What Noritz 11 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
 modDatetime: 2026-04-22T08:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -38,7 +38,7 @@ Noritz error code 11 means ignition failure — the unit attempted to light the 
 |------|-------|
 | Igniter/spark electrode | [Amazon](https://www.amazon.com/s?k=Igniter%2Fspark+electrode&tag=errorcodefixes-20) \| Noritz model-specific; verify part number from service manual |
 | Combustion fan | [Amazon](https://www.amazon.com/s?k=Combustion+fan&tag=errorcodefixes-20) \| Replace if fan doesn't reach operating speed |
-| Gas valve | [Amazon](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) \| Only after confirming correct voltage present at valve with no gas output |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Only after confirming correct voltage present at valve with no gas output |
 ## When to Call a Pro
 
 Persistent code 11 after verifying gas supply and cleaning the igniter needs a tech with a manometer to check gas pressure at the manifold and a combustion analyzer to verify ignition quality.

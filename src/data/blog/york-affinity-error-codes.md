@@ -2,7 +2,7 @@
 title: "York Affinity Error Codes - What It Means and How to Fix It"
 description: "Full York Affinity furnace and heat pump error code guide covering all flash codes for the YP9C, TG9S, TG9Y, and Affinity series. Find your code and fix it step by step."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Marcus Webb"
 tags:
   - hvac
   - error-codes
@@ -92,12 +92,12 @@ The control board has detected an internal fault. Try cycling power at the disco
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
-| Hot surface igniter (York S1-02528326000) | Fixes Code 4-1 ignition failure | $25–$50 — [Search on Amazon](https://www.amazon.com/s?k=York+Affinity+hot+surface+igniter+S1-02528326000&tag=errorcodefixes-20) |
-| Flame sensor (universal 1/4" rod) | Fixes Code 4-2 flame sense fault | $10–$20 — [Search on Amazon](https://www.amazon.com/s?k=furnace+flame+sensor+1%2F4+inch+rod&tag=errorcodefixes-20) |
-| Draft inducer motor (York S1-02435625000) | Fixes Code 3-3 inducer fault | $120–$280 — [Search on Amazon](https://www.amazon.com/s?k=York+Affinity+inducer+motor+replacement&tag=errorcodefixes-20) |
-| Pressure switch (York S1-02528333000) | Fixes Code 2-1 when hose is clear | $20–$45 — [Search on Amazon](https://www.amazon.com/s?k=York+furnace+pressure+switch&tag=errorcodefixes-20) |
-| High limit switch (York S1-02535710000) | Fixes Code 3-1 when limit is failed | $20–$40 — [Search on Amazon](https://www.amazon.com/s?k=York+Affinity+high+limit+switch&tag=errorcodefixes-20) |
-| Control board (York S1-33102956000) | Fixes Code 7-1 board fault | $150–$350 — [Search on Amazon](https://www.amazon.com/s?k=York+Affinity+furnace+control+board&tag=errorcodefixes-20) |
+| Hot surface igniter (York S1-02528326000) | Fixes Code 4-1 ignition failure | $25–$50 — [Search on Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) |
+| Flame sensor (universal 1/4" rod) | Fixes Code 4-2 flame sense fault | $10–$20 — [Search on Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) |
+| Draft inducer motor (York S1-02435625000) | Fixes Code 3-3 inducer fault | $120–$280 — [Search on Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) |
+| Pressure switch (York S1-02528333000) | Fixes Code 2-1 when hose is clear | $20–$45 — [Search on Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) |
+| High limit switch (York S1-02535710000) | Fixes Code 3-1 when limit is failed | $20–$40 — [Search on Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) |
+| Control board (York S1-33102956000) | Fixes Code 7-1 board fault | $150–$350 — [Search on Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) |
 
 ## When to Call a Pro
 

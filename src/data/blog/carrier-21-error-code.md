@@ -47,10 +47,10 @@ description: "Carrier error code 21 signals a gas heating lockout — the furnac
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|---------------|
-| Draft inducer motor assembly (Carrier OEM #HC21ZE120) | $120–$250 | [Amazon](https://www.amazon.com/s?k=Carrier+HC21ZE120+inducer+motor&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=HC21ZE120) |
-| Pressure switch (Carrier #HK06WC085) | $20–$45 | [Amazon](https://www.amazon.com/s?k=Carrier+HK06WC085+pressure+switch&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=HK06WC085) |
-| Gas combination valve (White-Rodgers 36J) | $90–$200 | [Amazon](https://www.amazon.com/s?k=White-Rodgers+36J+gas+valve&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=White-Rodgers+36J) |
-| Ignition control board (Carrier HK42FZ series) | $150–$320 | [Amazon](https://www.amazon.com/s?k=Carrier+HK42FZ+ignition+control+board&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=HK42FZ) |
+| Draft inducer motor assembly (Carrier OEM #HC21ZE120) | $120–$250 | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=HC21ZE120) |
+| Pressure switch (Carrier #HK06WC085) | $20–$45 | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=HK06WC085) |
+| Gas combination valve (White-Rodgers 36J) | $90–$200 | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=White-Rodgers+36J) |
+| Ignition control board (Carrier HK42FZ series) | $150–$320 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=HK42FZ) |
 
 ## When to Call a Professional
 

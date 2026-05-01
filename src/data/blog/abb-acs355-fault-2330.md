@@ -3,7 +3,7 @@ title: "ABB ACS355 Fault 2330 — Ground Fault"
 description: "ABB ACS355 drive Fault 2330 means a ground fault has been detected on the output. Learn causes, diagnostic steps, and how to clear this VFD fault."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

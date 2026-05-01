@@ -3,7 +3,7 @@ title: "Taco Variable Speed Pump Fault Codes — Complete Guide"
 description: "Taco variable speed pump fault codes for 00-VR3, VR series, and Taco Comfort Solutions circulators: LED faults, error codes, and step-by-step fixes."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

@@ -3,7 +3,7 @@ title: "Goodman GMSS96 Furnace Error Codes — Flash Code Diagnostic Guide"
 description: "Complete guide to Goodman GMSS96 96% AFUE furnace error codes, flash sequences, common fault causes, and step-by-step fixes."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -59,12 +59,12 @@ The Goodman GMSS96 is a 96% AFUE, single-stage, multi-speed gas furnace. It is a
 
 | Part | Notes |
 |------|-------|
-| PVC condensate trap | [Amazon](https://www.amazon.com/s?k=PVC+condensate+trap&tag=errorcodefixes-20) \| Specific to GMSS96; replace if cracked or plugged |
-| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Common; OEM or universal replacement |
-| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Match water column rating to model (0.85" or 1.5") |
-| Inducer motor | [Amazon](https://www.amazon.com/s?k=Inducer+motor&tag=errorcodefixes-20) \| With or without housing; check wheel for debris first |
-| High-limit switch | [Amazon](https://www.amazon.com/s?k=High-limit+switch&tag=errorcodefixes-20) \| Check both main and auxiliary |
-| Rollout switch | [Amazon](https://www.amazon.com/s?k=Rollout+switch&tag=errorcodefixes-20) \| Investigate crack before replacing |
+| PVC condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) \| Specific to GMSS96; replace if cracked or plugged |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Common; OEM or universal replacement |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match water column rating to model (0.85" or 1.5") |
+| Inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| With or without housing; check wheel for debris first |
+| High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Check both main and auxiliary |
+| Rollout switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Investigate crack before replacing |
 ## When to Call a Pro
 
 The GMSS96's secondary heat exchanger system is complex. Condensate-related failures can cascade into board damage if left undiagnosed. If you see repeated Code 4 trips with a clean filter, or if the unit produces a burning smell, call a licensed technician — do not operate the furnace until the secondary heat exchanger is confirmed intact.

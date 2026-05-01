@@ -3,7 +3,7 @@ title: "Scotsman Ice Machine Error Code 7 — Causes & Fix"
 description: "What Scotsman Error Code 7 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
 modDatetime: 2026-04-22T15:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -36,7 +36,7 @@ Error Code 7 on Scotsman ice machines (particularly Q-Series and Prodigy models)
 
 | Part | Notes |
 |------|-------|
-| Water inlet valve | [Amazon](https://www.amazon.com/s?k=Water+inlet+valve&tag=errorcodefixes-20) \| Match to Scotsman model number |
+| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| Match to Scotsman model number |
 | Inline water filter | [Amazon](https://www.amazon.com/s?k=Inline+water+filter&tag=errorcodefixes-20) \| Replace if clogged; change every 6 months |
 ## When to Call a Pro
 

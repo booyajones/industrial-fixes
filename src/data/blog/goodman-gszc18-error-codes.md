@@ -3,7 +3,7 @@ title: "Goodman GSZC18 Heat Pump Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Goodman GSZC18 two-stage heat pump error codes, flash sequences, common fault causes, and step-by-step fixes."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -55,12 +55,12 @@ The Goodman GSZC18 is an 18 SEER, two-stage heat pump designed for use with Good
 
 | Part | Notes |
 |------|-------|
-| Dual run capacitor | [Amazon](https://www.amazon.com/s?k=Dual+run+capacitor&tag=errorcodefixes-20) \| High failure rate in hot climates; check µF |
-| Defrost sensor | [Amazon](https://www.amazon.com/s?k=Defrost+sensor&tag=errorcodefixes-20) \| Clip-on; confirm coil contact |
+| Dual run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| High failure rate in hot climates; check µF |
+| Defrost sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Clip-on; confirm coil contact |
 | Defrost board | [Amazon](https://www.amazon.com/s?k=Defrost+board&tag=errorcodefixes-20) \| If sensor is good but defrost won't initiate |
-| Contactor | [Amazon](https://www.amazon.com/s?k=Contactor&tag=errorcodefixes-20) \| Pitted contacts cause compressor protection codes |
+| Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Pitted contacts cause compressor protection codes |
 | Refrigerant (R-410A) | [Amazon](https://www.amazon.com/s?k=Refrigerant+%28R-410A%29&tag=errorcodefixes-20) \| Fix leak first; EPA certification required |
-| Outdoor fan motor | [Amazon](https://www.amazon.com/s?k=Outdoor+fan+motor&tag=errorcodefixes-20) \| PSC or ECM depending on model year |
+| Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| PSC or ECM depending on model year |
 ## When to Call a Pro
 
 Two-stage compressor diagnosis and refrigerant work require professional tools and certification. The GSZC18's two-stage valve and ComfortNet communication system add complexity that makes board-level diagnosis difficult without Goodman's diagnostic software.

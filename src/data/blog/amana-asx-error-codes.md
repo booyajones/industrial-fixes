@@ -3,7 +3,7 @@ title: "Amana ASX Air Conditioner Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Amana ASX air conditioner error codes, LED flash sequences, common fault causes, and step-by-step repair procedures for technicians."
 pubDatetime: 2026-04-22T23:00:00Z
 modDatetime: 2026-04-22T23:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -51,12 +51,12 @@ The Amana ASX series (ASX13, ASX14, ASX16) are residential central air condition
 
 | Part | Notes |
 |---|---|
-| Dual run capacitor | [Amazon](https://www.amazon.com/s?k=Dual+run+capacitor&tag=errorcodefixes-20) \| Most common ASX failure; shared compressor and fan capacitor |
-| Contactor | [Amazon](https://www.amazon.com/s?k=Contactor&tag=errorcodefixes-20) \| 2-pole; check contact gap and coil pull-in voltage |
-| High-pressure switch | [Amazon](https://www.amazon.com/s?k=High-pressure+switch&tag=errorcodefixes-20) \| Spade terminals; direct swap |
-| Low-pressure switch | [Amazon](https://www.amazon.com/s?k=Low-pressure+switch&tag=errorcodefixes-20) \| 50 PSIG cutout for R-410A |
+| Dual run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Most common ASX failure; shared compressor and fan capacitor |
+| Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| 2-pole; check contact gap and coil pull-in voltage |
+| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Spade terminals; direct swap |
+| Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| 50 PSIG cutout for R-410A |
 | Ambient thermistor | [Amazon](https://www.amazon.com/s?k=Ambient+thermistor&tag=errorcodefixes-20) \| For Code 6; usually on a pigtail connector |
-| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| For Code 5; verify fuse and transformer first |
+| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For Code 5; verify fuse and transformer first |
 ## When to Call a Pro
 
 Refrigerant service on the Amana ASX requires EPA 608 certification and proper manifold gauge equipment. Amana (Daikin/Goodman) offers a Lifetime Compressor Warranty on some ASX models for the original registered homeowner — check warranty status before authorizing a compressor replacement, as the part may be covered at no cost.

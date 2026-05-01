@@ -3,7 +3,7 @@ title: "Carrier VRF System Error Codes Guide"
 description: "Complete guide to Carrier VRF (Variable Refrigerant Flow) system error codes. Covers all fault codes for Carrier i-Vu and CCN-based VRF systems."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -94,9 +94,9 @@ Electronic expansion valve faults are common after refrigerant work:
 |---|---|
 | [Electronic expansion valve](https://www.amazon.com/s?k=Electronic+expansion+valve&tag=errorcodefixes-20) | Model-specific — match kv and connection |
 | [Outdoor main PCB](https://www.amazon.com/s?k=Outdoor+main+PCB&tag=errorcodefixes-20) | Match model and firmware version |
-| [Indoor PCB](https://www.amazon.com/s?k=Indoor+PCB&tag=errorcodefixes-20) | Indoor unit-specific |
+| [Indoor PCB](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Indoor unit-specific |
 | [Communication wire](https://www.amazon.com/s?k=Communication+wire&tag=errorcodefixes-20) | Unshielded 2-conductor — match gauge for run length |
-| [Temperature sensor](https://www.amazon.com/s?k=Temperature+sensor&tag=errorcodefixes-20) | 10K NTC thermistor |
+| [Temperature sensor](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | 10K NTC thermistor |
 | [Inverter module (IPM)](https://www.amazon.com/s?k=Inverter+module+%28IPM%29&tag=errorcodefixes-20) | High-value outdoor part |
 
 > **Note:** Some Carrier VRF product lines are manufactured by Midea. Technical service manuals are available via Carrier's commercial partner portal. Always verify with the model number before ordering parts.

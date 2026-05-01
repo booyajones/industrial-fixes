@@ -3,7 +3,7 @@ title: "Hydraulic System Fault Codes Guide"
 description: "Master reference for hydraulic system fault codes, alarms, and common diagnostic patterns across industrial power units, presses, mobile hydraulics, and servo-hydraulic systems."
 pubDatetime: 2026-04-22T23:00:00Z
 modDatetime: 2026-04-22T23:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

@@ -3,7 +3,7 @@ title: "Allen Bradley PowerFlex 753 F12 Fault: DC Bus Overvoltage Causes and Fix
 description: "Allen Bradley PowerFlex 753 F12 fault means DC bus overvoltage. Learn the best fixes for decel overvoltage, braking, and repeat trips."
 pubDatetime: 2026-04-26T14:00:00Z
 modDatetime: 2026-04-26T14:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 slug: ab-powerflex-753-f12-dc-overvolt
 featured: false
 draft: false
@@ -66,7 +66,7 @@ After any repair, run several stop cycles under real load. F12 loves to disappea
 
 - [Dynamic braking resistor](https://www.amazon.com/s?k=dynamic+braking+resistor&tag=errorcodefixes-20)
 - [Power quality meter](https://www.amazon.com/s?k=power+quality+meter&tag=errorcodefixes-20)
-- [Clamp meter for industrial drives](https://www.amazon.com/s?k=clamp+meter+for+industrial+drives&tag=errorcodefixes-20)
+- [Clamp meter for industrial drives](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20)
 - [DC bus capacitors](https://www.amazon.com/s?k=DC+bus+capacitors&tag=errorcodefixes-20)
 - [Allen Bradley braking resistor hardware](https://www.amazon.com/s?k=Allen+Bradley+braking+resistor&tag=errorcodefixes-20)
 

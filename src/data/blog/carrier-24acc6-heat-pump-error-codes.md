@@ -2,7 +2,7 @@
 title: "Carrier 24ACC6 Heat Pump Error Codes: Complete Diagnostic Guide"
 description: "Decode every Carrier 24ACC6 Comfort series heat pump flash code and fault. Step-by-step diagnostics, parts, and when to call a pro."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Marcus Webb"
 tags:
   - hvac
   - error-codes
@@ -108,9 +108,9 @@ The 24ACC6 communicates with the indoor unit over a two-wire bus.
 
 | Part | Use | Link |
 |---|---|---|
-| Dual Run Capacitor (45+5 µF, 370/440V) | Fan motor and compressor start issues | [View on Amazon](https://www.amazon.com/s?k=dual+run+capacitor+45+5+uf+440v&tag=errorcodefixes-20) |
-| Defrost/Coil Temperature Sensor | Code 4 defrost sensor fault | [View on Amazon](https://www.amazon.com/s?k=carrier+defrost+sensor+thermistor&tag=errorcodefixes-20) |
-| Contactor 2-Pole 30A | Pitted contacts causing voltage drops | [View on Amazon](https://www.amazon.com/s?k=2+pole+30+amp+contactor+hvac&tag=errorcodefixes-20) |
+| Dual Run Capacitor (45+5 µF, 370/440V) | Fan motor and compressor start issues | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) |
+| Defrost/Coil Temperature Sensor | Code 4 defrost sensor fault | [View on Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) |
+| Contactor 2-Pole 30A | Pitted contacts causing voltage drops | [View on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) |
 | 24V HVAC Control Board Transformer | Low voltage fault (Code 7) | [View on Amazon](https://www.amazon.com/s?k=hvac+24v+transformer+40va&tag=errorcodefixes-20) |
 | Reversing Valve Solenoid Coil | Code 8 reversing valve fault | [View on Amazon](https://www.amazon.com/s?k=reversing+valve+solenoid+coil+hvac&tag=errorcodefixes-20) |
 

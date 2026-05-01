@@ -3,7 +3,7 @@ title: "Allen-Bradley PowerFlex 70 Fault Codes: Complete Guide"
 description: "Allen-Bradley PowerFlex 70 VFD fault codes and diagnostics. F-codes, causes, and technician-level troubleshooting for PF70 drives."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

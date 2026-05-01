@@ -3,7 +3,7 @@ title: "Boiler Lockout Error Codes: All Brands Guide"
 description: "Complete guide to boiler lockout error codes across Navien, Rinnai, Weil-McLain, Lochinvar, Burnham, Viessmann, and other common brands."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -54,11 +54,11 @@ One reset after a clear correction is fine. Five resets in a row without diagnos
 
 | Item | Notes |
 |------|-------|
-| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Cheap and common failure item |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Cheap and common failure item |
 | Igniter | [Amazon](https://www.amazon.com/s?k=Igniter&tag=errorcodefixes-20) \| Common on repeated ignition lockouts |
 | Expansion tank | [Amazon](https://www.amazon.com/s?k=Expansion+tank&tag=errorcodefixes-20) \| Pressure-related complaints |
 | Circulator pump | [Amazon](https://www.amazon.com/s?k=Circulator+pump&tag=errorcodefixes-20) \| Overtemp and low-flow issues |
-| Condensate trap | [Amazon](https://www.amazon.com/s?k=Condensate+trap&tag=errorcodefixes-20) \| Common on condensing boilers |
+| Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) \| Common on condensing boilers |
 | Manometer | [Amazon](https://www.amazon.com/s?k=Manometer&tag=errorcodefixes-20) \| Needed for proper gas pressure diagnosis |
 ## When to Call a Pro
 

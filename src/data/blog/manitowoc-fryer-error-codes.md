@@ -3,7 +3,7 @@ title: "Frymaster Commercial Fryer Error Codes — Guide"
 description: "Frymaster commercial deep fryer error codes: what each means and how to fix it."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

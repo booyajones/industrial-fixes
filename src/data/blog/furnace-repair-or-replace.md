@@ -2,7 +2,7 @@
 title: "Furnace Repair or Replace? The Decision That Saves You Thousands"
 description: "Use our age-and-cost rule to decide whether to repair your furnace or replace it. Includes repair cost ranges, red flags that mean replace now, and what a new furnace actually costs."
 pubDatetime: 2026-04-24T23:55:00Z
-author: "errorcodefixes.com"
+author: "James Rutherford"
 slug: furnace-repair-or-replace
 featured: false
 tags:
@@ -76,12 +76,12 @@ Typical repair ranges from licensed HVAC contractors (parts + labor):
 | [Repair](https://www.amazon.com/s?k=Repair&tag=errorcodefixes-20) | Cost range |
 |--------|-----------|
 | [Igniter replacement](https://www.amazon.com/s?k=Igniter+replacement&tag=errorcodefixes-20) | $150–$300 |
-| [Flame sensor cleaning or replacement](https://www.amazon.com/s?k=Flame+sensor+cleaning+or+replacement&tag=errorcodefixes-20) | $80–$250 |
-| [Pressure switch replacement](https://www.amazon.com/s?k=Pressure+switch+replacement&tag=errorcodefixes-20) | $150–$350 |
-| [Inducer motor replacement](https://www.amazon.com/s?k=Inducer+motor+replacement&tag=errorcodefixes-20) | $400–$800 |
+| [Flame sensor cleaning or replacement](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) | $80–$250 |
+| [Pressure switch replacement](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | $150–$350 |
+| [Inducer motor replacement](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) | $400–$800 |
 | [Blower motor replacement](https://www.amazon.com/s?k=Blower+motor+replacement&tag=errorcodefixes-20) | $400–$900 |
-| [Control board replacement](https://www.amazon.com/s?k=Control+board+replacement&tag=errorcodefixes-20) | $350–$900 |
-| [Gas valve replacement](https://www.amazon.com/s?k=Gas+valve+replacement&tag=errorcodefixes-20) | $350–$700 |
+| [Control board replacement](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | $350–$900 |
+| [Gas valve replacement](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) | $350–$700 |
 | [Heat exchanger replacement](https://www.amazon.com/s?k=Heat+exchanger+replacement&tag=errorcodefixes-20) | $800–$2,000 |
 
 **DIY note:** Igniters and flame sensors are the two repairs most homeowners can do themselves with a screwdriver and a $15–$60 part from Amazon. If your error code points to one of these, check the DIY path before calling a tech.
@@ -121,9 +121,9 @@ If your error code points to a part you can swap yourself:
 
 | Part | Fits most brands | Typical Amazon price |
 |------|-----------------|---------------------|
-| [Universal hot surface igniter](https://www.amazon.com/s?k=Universal+hot+surface+igniter&tag=errorcodefixes-20) | Carrier, Goodman, Trane, Rheem | $15–$45 |
-| [Flame sensor (standard rod)](https://www.amazon.com/s?k=Flame+sensor+%28standard+rod%29&tag=errorcodefixes-20) | Most brands | $8–$25 |
-| [Pressure switch (brand-specific)](https://www.amazon.com/s?k=Pressure+switch+%28brand-specific%29&tag=errorcodefixes-20) | Match brand + model | $20–$60 |
+| [Universal hot surface igniter](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) | Carrier, Goodman, Trane, Rheem | $15–$45 |
+| [Flame sensor (standard rod)](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) | Most brands | $8–$25 |
+| [Pressure switch (brand-specific)](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | Match brand + model | $20–$60 |
 
 For igniter replacement walkthrough, see: [Best Furnace Igniter Replacement Guide](/best-furnace-igniter-replacement)
 

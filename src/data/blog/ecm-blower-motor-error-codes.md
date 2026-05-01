@@ -3,7 +3,7 @@ title: "ECM Blower Motor Error Codes Guide — Genteq / Regal Beloit"
 description: "ECM blower motor error codes and fault diagnostics for Genteq, Regal Beloit, and OEM ECM motors: flash codes, LED blink sequences, and troubleshooting steps."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

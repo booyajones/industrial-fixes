@@ -3,7 +3,7 @@ title: "Manitowoc Ice Machine Error Code 8 — Causes & Fix"
 description: "What Manitowoc ice machine error code 8 means, why the ice thickness sensor faults, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
 modDatetime: 2026-04-22T10:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

@@ -3,7 +3,7 @@ title: "Samsung DVM S VRF System Error Codes: Complete Guide"
 description: "Samsung DVM S VRF system error codes and fault diagnostics. E-series and C-series fault codes for outdoor and indoor units, with technician fixes."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -53,9 +53,9 @@ DVM S uses a variable-speed scroll compressor. Measure DC bus voltage (should be
 
 | Part | Notes |
 |------|-------|
-| Outdoor PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB&tag=errorcodefixes-20) \| Samsung commercial parts ΓÇö match DVM S model |
-| Indoor PCB | [Amazon](https://www.amazon.com/s?k=Indoor+PCB&tag=errorcodefixes-20) \| Match indoor unit model |
+| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Samsung commercial parts ΓÇö match DVM S model |
+| Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Match indoor unit model |
 | EEV | [Amazon](https://www.amazon.com/s?k=EEV&tag=errorcodefixes-20) \| Match valve size |
 | Inverter board | [Amazon](https://www.amazon.com/s?k=Inverter+board&tag=errorcodefixes-20) \| High cost ΓÇö verify fault first |
-| Outdoor fan motor | [Amazon](https://www.amazon.com/s?k=Outdoor+fan+motor&tag=errorcodefixes-20) \| Match HP and frame type |
+| Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match HP and frame type |
 > **Pro tip:** Samsung DVM S systems support SmartThings Pro for remote monitoring. Fault codes, pressures, and temperatures can be viewed remotely ΓÇö enroll system for proactive fault notification.

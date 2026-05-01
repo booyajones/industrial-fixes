@@ -3,7 +3,7 @@ title: "Goodman EE2 Error Code: Control Board Communication Fault Fix"
 description: "Goodman EE2 error code means a control board communication fault. Diagnose wiring, power surges, and failed boards on Goodman, Amana, and Coleman HVAC systems."
 pubDatetime: 2026-04-26T17:30:00Z
 modDatetime: 2026-04-26T17:30:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 slug: goodman-ee2-error-code
 featured: false
 draft: false
@@ -64,11 +64,11 @@ The error code has been trending on r/hvacadvice as more Goodman communicating s
 
 ## Parts You May Need
 
-- [Goodman HVAC control board replacement](https://www.amazon.com/s?k=Goodman+HVAC+control+board&tag=errorcodefixes-20)
-- [Amana furnace control board](https://www.amazon.com/s?k=Amana+furnace+control+board&tag=errorcodefixes-20)
+- [Goodman HVAC control board replacement](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20)
+- [Amana furnace control board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20)
 - [24VAC transformer HVAC replacement](https://www.amazon.com/s?k=24VAC+transformer+HVAC+40VA&tag=errorcodefixes-20)
 - [Communicating thermostat wire 4-conductor](https://www.amazon.com/s?k=thermostat+wire+4+conductor+18+gauge&tag=errorcodefixes-20)
-- [Multimeter for HVAC voltage testing](https://www.amazon.com/s?k=multimeter+HVAC+voltage+testing&tag=errorcodefixes-20)
+- [Multimeter for HVAC voltage testing](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

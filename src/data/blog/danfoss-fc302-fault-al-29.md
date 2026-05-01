@@ -3,7 +3,7 @@ title: "Danfoss FC302 Alarm AL 29 — Causes & Fix"
 description: "What Danfoss FC302 Alarm AL 29 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
 modDatetime: 2026-04-22T14:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

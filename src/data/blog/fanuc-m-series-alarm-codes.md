@@ -3,7 +3,7 @@ title: "Fanuc M-Series Control Alarm Codes: Complete Guide"
 description: "Fanuc M-Series CNC control alarm codes and diagnostics. Servo, spindle, PMC, and system alarms with causes and technician-level fixes."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -65,7 +65,7 @@ Emergency measure: hold the RESET button, select JOG mode, and jog the axis away
 | Fiber optic cable | [Amazon](https://www.amazon.com/s?k=Fiber+optic+cable&tag=errorcodefixes-20) \| Match spindle amplifier type |
 | Servo motor encoder | [Amazon](https://www.amazon.com/s?k=Servo+motor+encoder&tag=errorcodefixes-20) \| Alpha-i or beta-i ΓÇö match spec |
 | Servo amplifier | [Amazon](https://www.amazon.com/s?k=Servo+amplifier&tag=errorcodefixes-20) \| Match axis current rating |
-| Control board (CNC) | [Amazon](https://www.amazon.com/s?k=Control+board+%28CNC%29&tag=errorcodefixes-20) \| Contact Fanuc for PCB replacement |
+| Control board (CNC) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Contact Fanuc for PCB replacement |
 > **Pro tip:** All Fanuc M-series controls maintain alarm history. Access via SYSTEM ΓåÆ ALARM ΓåÆ ALARM HISTORY. The history includes timestamp, axis, and alarm detail ΓÇö critical for diagnosing intermittent faults that don't repeat on demand.
 
 ## Related Articles

@@ -3,7 +3,7 @@ title: "Lenze SMD Fault 0x0001 — Overcurrent"
 description: "Lenze SMD fault 0x0001 means overcurrent on the drive output. Learn the common causes, parameter checks, and repair steps."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

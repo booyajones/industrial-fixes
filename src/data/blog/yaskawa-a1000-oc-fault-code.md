@@ -68,7 +68,7 @@ The A1000 differentiates between:
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|-------------|--------------|--------------|
 | IGBT output module (drive-size dependent) | Varies by HP | $200–$800 | [Amazon](https://www.amazon.com/s?k=Yaskawa+A1000+IGBT+module+replacement&tag=errorcodefixes-20) \| Yaskawa distributor |
-| Control board (if parameter corruption) | ETC615018-S3xxx | $350–$600 | [Amazon](https://www.amazon.com/s?k=Yaskawa+A1000+control+board&tag=errorcodefixes-20) \| Yaskawa distributor |
+| Control board (if parameter corruption) | ETC615018-S3xxx | $350–$600 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Yaskawa distributor |
 | Dynamic braking resistor (for OC on decel) | ERF150W series | $80–$300 | [Amazon](https://www.amazon.com/s?k=Yaskawa+A1000+braking+resistor&tag=errorcodefixes-20) \| Automation supply |
 | Output choke/line reactor | LR3020-MH series | $80–$200 | [Amazon](https://www.amazon.com/s?k=Yaskawa+output+line+reactor+3-phase&tag=errorcodefixes-20) \| Automation supply |
 

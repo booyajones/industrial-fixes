@@ -3,7 +3,7 @@ title: "Mini Split Blinking Lights: Error Code Guide"
 description: "Complete guide to mini split blinking lights and error codes across Mitsubishi, Daikin, LG, Gree, Mr. Cool, Pioneer, Senville, and Midea systems."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -57,8 +57,8 @@ The same blink pattern does not mean the same thing on every brand. Always pair 
 | Indoor filter | [Amazon](https://www.amazon.com/s?k=Indoor+filter&tag=errorcodefixes-20) \| Most overlooked mini split maintenance item |
 | Thermistors | [Amazon](https://www.amazon.com/s?k=Thermistors&tag=errorcodefixes-20) \| Cheap parts that trigger lots of codes |
 | Communication wire | [Amazon](https://www.amazon.com/s?k=Communication+wire&tag=errorcodefixes-20) \| Common install and rodent damage issue |
-| Indoor fan motor | [Amazon](https://www.amazon.com/s?k=Indoor+fan+motor&tag=errorcodefixes-20) \| For fan speed and freeze complaints |
-| Outdoor PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB&tag=errorcodefixes-20) \| For inverter and communication faults |
+| Indoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| For fan speed and freeze complaints |
+| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For inverter and communication faults |
 | Service manual | [Amazon](https://www.amazon.com/s?k=Service+manual&tag=errorcodefixes-20) \| Often the fastest path on private-label brands |
 ## When to Call a Pro
 

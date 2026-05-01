@@ -3,7 +3,7 @@ title: "Rinnai Tankless Water Heater Error Codes — Complete Guide"
 description: "Rinnai error codes: all fault codes 11–79 explained with causes and fixes for RU, RL, RH, and RX series tankless water heaters."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

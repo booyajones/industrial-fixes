@@ -3,7 +3,7 @@ title: "Lennox XP21 Heat Pump Error Codes — iComfort Fault Code Guide"
 description: "Complete guide to Lennox XP21 heat pump error codes displayed on the iComfort thermostat and control board, including common faults and step-by-step fixes."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -56,11 +56,11 @@ The Lennox XP21 is a variable-capacity heat pump in the Elite series. It uses Le
 | Part | Notes |
 |------|-------|
 | Refrigerant charge (R-410A) | [Amazon](https://www.amazon.com/s?k=Refrigerant+charge+%28R-410A%29&tag=errorcodefixes-20) \| Requires EPA certification; fix leak first |
-| Defrost sensor | [Amazon](https://www.amazon.com/s?k=Defrost+sensor&tag=errorcodefixes-20) \| Clip-on type for outdoor coil |
+| Defrost sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Clip-on type for outdoor coil |
 | Communicating bus wire | [Amazon](https://www.amazon.com/s?k=Communicating+bus+wire&tag=errorcodefixes-20) \| 18-gauge two-wire; replace if damaged |
-| ECM outdoor fan motor | [Amazon](https://www.amazon.com/s?k=ECM+outdoor+fan+motor&tag=errorcodefixes-20) \| ECM type; confirm XP21 model compatibility |
+| ECM outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| ECM type; confirm XP21 model compatibility |
 | Compressor drive (inverter) | [Amazon](https://www.amazon.com/s?k=Compressor+drive+%28inverter%29&tag=errorcodefixes-20) \| Major part; Lennox dealer required for diagnosis |
-| High/low pressure switch | [Amazon](https://www.amazon.com/s?k=High%2Flow+pressure+switch&tag=errorcodefixes-20) \| Match to XP21 refrigerant circuit pressures |
+| High/low pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match to XP21 refrigerant circuit pressures |
 ## When to Call a Pro
 
 The XP21's variable-speed inverter drive and communicating system require Lennox-specific diagnostic software to fully diagnose. Code 328 (drive fault) and repeated Code 411 (low charge) should not be serviced without certified refrigerant handling and inverter knowledge. Contact a Lennox Premier Dealer for advanced diagnostics.

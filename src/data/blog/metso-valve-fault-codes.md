@@ -3,7 +3,7 @@ title: "Metso Automation Valve Fault Codes — Neles ND9000 / NDX Guide"
 description: "Metso Automation (Neles) valve positioner fault codes for ND9000 and NDX series: alarms, diagnostics, and troubleshooting steps for industrial control valves."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

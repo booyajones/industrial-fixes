@@ -3,7 +3,7 @@ title: "Siemens Circuit Breaker Fault Codes - Complete Guide"
 description: "Siemens 3WL and 3VA circuit breaker fault codes and ETU trip unit alarms: overload, short circuit, ground fault, causes and fixes."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

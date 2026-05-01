@@ -3,7 +3,7 @@ title: "Siemens Desigo BMS Fault Codes - Complete Guide"
 description: "Siemens Desigo CC and Desigo Insight BMS fault codes and alarms for PXC controllers and field devices: causes and diagnostic steps."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -52,7 +52,7 @@ PXC hardware faults indicate a failed processor module, power supply, or flash m
 | Room unit (QMX3.P) | [Amazon](https://www.amazon.com/s?k=Room+unit+%28QMX3.P%29&tag=errorcodefixes-20) \| Replace on room unit fault |
 | Actuator (SQS/SKS) | [Amazon](https://www.amazon.com/s?k=Actuator+%28SQS%2FSKS%29&tag=errorcodefixes-20) \| Replace on valve fault |
 | MS/TP cable | [Amazon](https://www.amazon.com/s?k=MS%2FTP+cable&tag=errorcodefixes-20) \| Replace on bus faults |
-| Temperature sensor (QAP) | [Amazon](https://www.amazon.com/s?k=Temperature+sensor+%28QAP%29&tag=errorcodefixes-20) \| Replace on sensor fault |
+| Temperature sensor (QAP) | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Replace on sensor fault |
 ## When to Call a Pro
 Desigo CC database configuration, PXC programming with XWORKSplus, and network integration require Siemens-trained personnel. Incorrect configuration changes can affect entire building zones simultaneously.
 

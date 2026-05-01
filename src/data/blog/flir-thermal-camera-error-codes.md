@@ -3,7 +3,7 @@ title: "FLIR Thermal Camera Error Codes — Complete Guide"
 description: "FLIR thermal camera error codes and startup failures for E-Series, C-Series, T-Series, and Exx cameras with causes and troubleshooting steps."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

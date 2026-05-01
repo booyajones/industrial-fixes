@@ -3,7 +3,7 @@ title: "Pioneer Mini Split E1 Error Code — Causes & Fix"
 description: "What Pioneer mini split error code E1 means, why communication fails between indoor and outdoor units, and how to fix it."
 pubDatetime: 2026-04-22T11:00:00Z
 modDatetime: 2026-04-22T11:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -39,8 +39,8 @@ E1 on a Pioneer mini split indicates a communication error between the indoor an
 | Part | Notes |
 |------|-------|
 | Communication / signal wire (18 AWG) | [Amazon](https://www.amazon.com/s?k=Communication+%2F+signal+wire+%2818+AWG%29&tag=errorcodefixes-20) \| Replace damaged runs; match length and gauge to original |
-| Indoor control board | [Amazon](https://www.amazon.com/s?k=Indoor+control+board&tag=errorcodefixes-20) \| Replace if board confirmed as communication failure source |
-| Outdoor control board (PCB) | [Amazon](https://www.amazon.com/s?k=Outdoor+control+board+%28PCB%29&tag=errorcodefixes-20) \| Replace if outdoor unit does not respond after wiring checks |
+| Indoor control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace if board confirmed as communication failure source |
+| Outdoor control board (PCB) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace if outdoor unit does not respond after wiring checks |
 ## When to Call a Pro
 
 If communication cannot be restored after wiring inspection and power cycling, a technician with mini split diagnostic tools can read fault codes from both boards simultaneously to identify which unit is the source of the communication failure.

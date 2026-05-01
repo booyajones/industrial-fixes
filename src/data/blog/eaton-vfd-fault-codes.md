@@ -3,7 +3,7 @@ title: "Eaton PowerXL VFD Fault Codes Guide"
 description: "Eaton PowerXL and DG1/DC1 VFD fault codes explained. Learn the most common overcurrent, undervoltage, overtemperature, and motor protection faults."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

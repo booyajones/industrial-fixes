@@ -52,7 +52,7 @@ This code is common on Lincoln Power MIG, Weld-Pak, and IDEALARC series machines
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|-------------|
 | Thermal switch | S29557 | $25–$40 | [Amazon](https://www.amazon.com/s?k=S29557+Thermal+switch&tag=errorcodefixes-20) \| Lincoln Electric Distributor / Amazon |
-| Cooling fan motor | S26584 | $45–$75 | [Amazon](https://www.amazon.com/s?k=S26584+Cooling+fan+motor&tag=errorcodefixes-20) \| Lincoln Electric Distributor |
+| Cooling fan motor | S26584 | $45–$75 | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Lincoln Electric Distributor |
 | Fan blade | T14096-1 | $18–$30 | [Amazon](https://www.amazon.com/s?k=T14096-1+Fan+blade&tag=errorcodefixes-20) \| Lincoln Electric Distributor |
 | Circuit breaker (internal) | S19766 | $15–$25 | [Amazon](https://www.amazon.com/s?k=S19766+Circuit+breaker+%28internal%29&tag=errorcodefixes-20) \| Lincoln Electric Distributor |
 ## When to Call a Professional

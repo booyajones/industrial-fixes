@@ -2,7 +2,7 @@
 title: "Ruud Prestige RP20 Heat Pump Error Codes - Full Fault Code Reference"
 description: "Complete guide to Ruud Prestige RP20 heat pump error codes including LED flash codes, communicating thermostat faults, reversing valve issues, and refrigerant faults. Covers diagnosis steps and replacement parts for homeowners and HVAC techs."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Marcus Webb"
 tags:
   - hvac
   - error-codes
@@ -100,11 +100,11 @@ When paired with the EcoNet system, the RP20 reports alphanumeric codes:
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
-| [Ruud High Pressure Switch 42-25101-83](https://www.amazon.com/s?k=Ruud+high+pressure+switch+heat+pump&tag=errorcodefixes-20) | Trips on E1 fault; replace if switch fails to close at normal pressures | $25–$55 |
-| [Ruud Low Pressure Switch 42-25101-84](https://www.amazon.com/s?k=Ruud+low+pressure+switch+heat+pump&tag=errorcodefixes-20) | Trips on E2 fault; replace if suction pressure is normal but fault persists | $25–$55 |
+| [Ruud High Pressure Switch 42-25101-83](https://www.amazon.com/dp/B013IHQ8CU?tag=errorcodefixes-20) | Trips on E1 fault; replace if switch fails to close at normal pressures | $25–$55 |
+| [Ruud Low Pressure Switch 42-25101-84](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | Trips on E2 fault; replace if suction pressure is normal but fault persists | $25–$55 |
 | [Ruud NTC Thermistor Sensor 42-25101-10P](https://www.amazon.com/s?k=Ruud+NTC+thermistor+sensor+10k+heat+pump&tag=errorcodefixes-20) | Coil, ambient, and suction sensors, replace on any E4, E5, E6 fault | $15–$35 |
 | [Reversing Valve Solenoid Coil](https://www.amazon.com/s?k=heat+pump+reversing+valve+solenoid+coil+24V&tag=errorcodefixes-20) | Powers the 4-way valve; fails on E8/12-flash faults | $20–$45 |
-| [EcoNet Control Board for RP20](https://www.amazon.com/s?k=Ruud+EcoNet+outdoor+control+board+heat+pump&tag=errorcodefixes-20) | Main outdoor control board; required for F3 or persistent F1/F2 faults | $150–$350 |
+| [EcoNet Control Board for RP20](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Main outdoor control board; required for F3 or persistent F1/F2 faults | $150–$350 |
 | [R-410A Refrigerant (25 lb cylinder)](https://www.amazon.com/s?k=R-410A+refrigerant+25+lb&tag=errorcodefixes-20) | Required if system is low from a leak (E2 fault with confirmed low charge) | $75–$120 |
 
 ## When to Call a Pro

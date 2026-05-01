@@ -3,7 +3,7 @@ title: "Kohler Generator Fault Codes — Complete Guide"
 description: "Kohler generator fault codes for RES, RESVL, and commercial series: all alarm codes, causes, and step-by-step fixes for Kohler standby generators."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

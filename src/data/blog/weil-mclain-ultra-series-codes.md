@@ -3,7 +3,7 @@ title: "Weil-McLain Ultra Series Boiler Error Codes: Complete Guide"
 description: "Weil-McLain Ultra Series boiler error codes and fault diagnostics. E-series fault codes, causes, and technician-level troubleshooting procedures."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -57,7 +57,7 @@ The Ultra will lockout below 10 PSI system pressure. Check for system leaks, wat
 | Neutralizer cartridge | [Amazon](https://www.amazon.com/s?k=Neutralizer+cartridge&tag=errorcodefixes-20) \| Annual replacement |
 | Inlet/outlet sensors | [Amazon](https://www.amazon.com/s?k=Inlet%2Foutlet+sensors&tag=errorcodefixes-20) \| Check resistance |
 | Igniter | [Amazon](https://www.amazon.com/s?k=Igniter&tag=errorcodefixes-20) \| Check for cracks |
-| Gas valve | [Amazon](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) \| Test coil resistance |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Test coil resistance |
 | Expansion tank | [Amazon](https://www.amazon.com/s?k=Expansion+tank&tag=errorcodefixes-20) \| Check pre-charge before replacing |
 | Circulation pump | [Amazon](https://www.amazon.com/s?k=Circulation+pump&tag=errorcodefixes-20) \| Check for seized impeller |
 > **Pro tip:** Weil-McLain Ultra boilers store up to 10 fault codes with timestamps. Access via Service ΓåÆ Fault History menu on the display. Reviewing fault timestamps helps identify whether faults are intermittent or consistent with specific heating demand patterns.

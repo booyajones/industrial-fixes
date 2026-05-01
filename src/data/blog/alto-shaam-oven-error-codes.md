@@ -3,7 +3,7 @@ title: "Alto-Shaam Commercial Oven Error Codes — Guide"
 description: "Alto-Shaam commercial oven error codes for Vector multi-cook and Combitherm ovens: what each means and how to fix it."
 pubDatetime: 2026-04-22T23:00:00Z
 modDatetime: 2026-04-22T23:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -55,10 +55,10 @@ Alto-Shaam manufactures commercial ovens including the Vector multi-cook oven an
 
 | Part | Notes |
 |------|-------|
-| RTD temperature sensor | [Amazon](https://www.amazon.com/s?k=RTD+temperature+sensor&tag=errorcodefixes-20) \| Alto-Shaam OEM — PT100 type |
+| RTD temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Alto-Shaam OEM — PT100 type |
 | Heating element | [Amazon](https://www.amazon.com/s?k=Heating+element&tag=errorcodefixes-20) \| Match to model voltage/wattage |
-| Cavity fan motor | [Amazon](https://www.amazon.com/s?k=Cavity+fan+motor&tag=errorcodefixes-20) \| Replace if blocked or bearing failed |
-| Water inlet valve | [Amazon](https://www.amazon.com/s?k=Water+inlet+valve&tag=errorcodefixes-20) \| For E-30 |
+| Cavity fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Replace if blocked or bearing failed |
+| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| For E-30 |
 ## When to Call a Pro
 
 Alto-Shaam authorized service handles control board replacement, gas system work, and calibration after major repairs.

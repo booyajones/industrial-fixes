@@ -3,7 +3,7 @@ title: "HVAC Error Code Troubleshooting: Beginner's Complete Guide"
 description: "How to read HVAC error codes on furnaces, heat pumps, mini-splits, and boilers — a plain-language guide for homeowners and new technicians."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

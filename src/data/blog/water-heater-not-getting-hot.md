@@ -2,7 +2,7 @@
 title: "Water Heater Not Getting Hot - What It Means and How to Fix It"
 description: "A water heater that only makes lukewarm water can have a burner, element, thermostat, or gas control problem. This guide covers gas and electric models with clear checks you can do before calling a plumber."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Marcus Webb"
 tags:
   - hvac
   - error-codes
@@ -157,8 +157,8 @@ Testing: With power off, use a multimeter to check continuity across thermostat 
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|--------------|
-| [Universal Thermocouple 30-inch](https://www.amazon.com/s?k=water+heater+thermocouple+30+inch+universal&tag=errorcodefixes-20) | Pilot light goes out immediately when released | $10–$18 |
-| [Honeywell Gas Valve WV8840B1109](https://www.amazon.com/s?k=Honeywell+WV8840B1109+gas+valve+water+heater&tag=errorcodefixes-20) | Gas valve won't hold pilot or open for burner | $55–$120 |
+| [Universal Thermocouple 30-inch](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) | Pilot light goes out immediately when released | $10–$18 |
+| [Honeywell Gas Valve WV8840B1109](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) | Gas valve won't hold pilot or open for burner | $55–$120 |
 | [4500W 240V Water Heater Element Camco 02162](https://www.amazon.com/s?k=Camco+02162+water+heater+element+4500w&tag=errorcodefixes-20) | Burned-out or shorted heating element | $15–$28 |
 | [Water Heater Thermostat Upper Universal](https://www.amazon.com/s?k=electric+water+heater+upper+thermostat+replacement&tag=errorcodefixes-20) | Failed thermostat cuts power to heating elements | $12–$22 |
 | [Water Heater Anode Rod Magnesium 44-inch](https://www.amazon.com/s?k=water+heater+anode+rod+magnesium+44+inch&tag=errorcodefixes-20) | Depleted anode rod accelerates tank corrosion | $18–$35 |

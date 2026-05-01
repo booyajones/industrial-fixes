@@ -3,7 +3,7 @@ title: "Simplex 4100 Fire Alarm Fault Codes — Complete Troubleshooting Guide"
 description: "Simplex 4100ES and 4100U fire alarm panel fault codes: system troubles, communication errors, ground faults, and step-by-step reset procedures."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

@@ -3,7 +3,7 @@ title: "Carrier Infinity Zoning System Error Codes — Complete Guide"
 description: "Carrier Infinity zoning system error codes for SYSTXCCITC01 zone controller: fault messages, causes, and step-by-step troubleshooting."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -75,7 +75,7 @@ Confirm each damper has a unique address. Duplicate addresses cause communicatio
 |------|-------|
 | Infinity zone controller | [Amazon](https://www.amazon.com/s?k=Infinity+zone+controller&tag=errorcodefixes-20) \| Replace on repeated zone controller faults |
 | Zone damper actuator | [Amazon](https://www.amazon.com/s?k=Zone+damper+actuator&tag=errorcodefixes-20) \| Replace on damper fault or stuck blade |
-| Zone temperature sensor | [Amazon](https://www.amazon.com/s?k=Zone+temperature+sensor&tag=errorcodefixes-20) \| Replace on sensor fault |
+| Zone temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Replace on sensor fault |
 | Infinity bus cable | [Amazon](https://www.amazon.com/s?k=Infinity+bus+cable&tag=errorcodefixes-20) \| Replace on communication errors |
 ## Jump to Fix
 

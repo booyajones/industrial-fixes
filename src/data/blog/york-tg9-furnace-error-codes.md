@@ -3,7 +3,7 @@ title: "York TG9 Furnace Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to York TG9 furnace error codes, LED flash sequences, common fault causes, and step-by-step repair procedures for HVAC technicians."
 pubDatetime: 2026-04-22T23:00:00Z
 modDatetime: 2026-04-22T23:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -55,12 +55,12 @@ The York TG9 is a 96% AFUE two-stage variable-speed gas furnace. It is part of Y
 
 | Part | Notes |
 |---|---|
-| Hot surface igniter | [Amazon](https://www.amazon.com/s?k=Hot+surface+igniter&tag=errorcodefixes-20) \| Silicon nitride; specific to TG9 model |
-| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Rod-type; clean before replacing |
-| Condensate trap | [Amazon](https://www.amazon.com/s?k=Condensate+trap&tag=errorcodefixes-20) \| PVC trap assembly; critical to pressure switch operation |
+| Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Silicon nitride; specific to TG9 model |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Rod-type; clean before replacing |
+| Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) \| PVC trap assembly; critical to pressure switch operation |
 | ECM blower motor module | [Amazon](https://www.amazon.com/s?k=ECM+blower+motor+module&tag=errorcodefixes-20) \| Module only — verify motor spins freely before replacing |
-| Inducer motor assembly | [Amazon](https://www.amazon.com/s?k=Inducer+motor+assembly&tag=errorcodefixes-20) \| ECM type; includes tach feedback |
-| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Check tubing and condensate trap first |
+| Inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| ECM type; includes tach feedback |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Check tubing and condensate trap first |
 ## When to Call a Pro
 
 The York TG9 ECM motor and variable-speed control logic require familiarity with York's communicating control system. If the TG9 is installed with a York proprietary thermostat and showing thermostat-level fault codes, a York dealer with system diagnostic tools is needed for full root-cause analysis. Rollout switch trips (Code 6) must be investigated for heat exchanger integrity before returning to service.

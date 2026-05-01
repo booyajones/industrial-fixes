@@ -99,8 +99,8 @@ Order the correct PCB by model number — Rinnai's product line uses different b
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|-------------|
-| Rinnai Main PCB / Control Board | $180–$400 | [Amazon](https://www.amazon.com/s?k=Rinnai+tankless+water+heater+main+PCB+control+board&tag=errorcodefixes-20) |
-| NTC Temperature Sensor | $15–$35 | [Amazon](https://www.amazon.com/s?k=Rinnai+tankless+temperature+sensor+NTC+thermistor&tag=errorcodefixes-20) |
+| Rinnai Main PCB / Control Board | $180–$400 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) |
+| NTC Temperature Sensor | $15–$35 | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) |
 | Rinnai Remote Controller MC-91 | $80–$140 | [Amazon](https://www.amazon.com/s?k=Rinnai+remote+controller+MC-91+tankless&tag=errorcodefixes-20) |
 | Remote Controller Wiring | $10–$25 | [Amazon](https://www.amazon.com/s?k=Rinnai+remote+controller+wiring+2+wire+cable&tag=errorcodefixes-20) |
 

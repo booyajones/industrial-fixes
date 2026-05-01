@@ -3,7 +3,7 @@ title: "Kaeser SIGMA CONTROL 2 Fault Codes: Complete Guide"
 description: "Kaeser SIGMA CONTROL 2 fault codes and diagnostics. Compressor warnings, shutdowns, causes, and technician-level troubleshooting."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -56,9 +56,9 @@ SIGMA CONTROL 2 supports Modbus, PROFIBUS, PROFINET, and Ethernet. A communicati
 | Oil separator element | [Amazon](https://www.amazon.com/s?k=Oil+separator+element&tag=errorcodefixes-20) \| Kaeser-specific ΓÇö match model |
 | Oil filter element | [Amazon](https://www.amazon.com/s?k=Oil+filter+element&tag=errorcodefixes-20) \| Match package model |
 | Pressure transducer | [Amazon](https://www.amazon.com/s?k=Pressure+transducer&tag=errorcodefixes-20) \| Check signal output (typically 4ΓÇô20 mA) |
-| Temperature sensor | [Amazon](https://www.amazon.com/s?k=Temperature+sensor&tag=errorcodefixes-20) \| NTC thermistor ΓÇö check resistance |
+| Temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| NTC thermistor ΓÇö check resistance |
 | Condensate drain solenoid | [Amazon](https://www.amazon.com/s?k=Condensate+drain+solenoid&tag=errorcodefixes-20) \| Match voltage and orifice size |
-| Fan motor contactor | [Amazon](https://www.amazon.com/s?k=Fan+motor+contactor&tag=errorcodefixes-20) \| Check contact condition |
+| Fan motor contactor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Check contact condition |
 > **Pro tip:** Kaeser SIGMA CONTROL 2 can be connected to SIGMA NETWORK for remote monitoring. Kaeser service centers can remotely access fault logs and performance data. Register the compressor on SIGMA NETWORK to enable predictive maintenance alerts.
 
 ## Related Articles

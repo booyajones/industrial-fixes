@@ -3,7 +3,7 @@ title: "Haas Alarm 126 — ATC Door Fault"
 description: "Haas alarm 126 ATC door fault: what it means, common causes, and how to fix tool changer door problems on Haas mills."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

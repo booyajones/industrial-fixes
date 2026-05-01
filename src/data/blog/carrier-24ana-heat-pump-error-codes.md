@@ -3,7 +3,7 @@ title: "Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Gu
 description: "Carrier 24ANA heat pump error codes: LED flash sequences, fault causes, step-by-step fixes, and OEM parts guide for the Carrier Performance 15 heat pump."
 pubDatetime: 2026-04-24T08:00:00Z
 modDatetime: 2026-04-24T08:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -92,13 +92,13 @@ This is normal protective behavior, not a fault. After compressor shutdown, the 
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|---------------|
-| Dual run capacitor — 35/5 or 45/5 µF 370/440VAC | $15–$35 | [Amazon](https://www.amazon.com/s?k=dual+run+capacitor+45+5+mfd+440v+carrier&tag=errorcodefixes-20) |
-| Contactor — 2-pole, 40A, 24VAC coil | $20–$45 | [Amazon](https://www.amazon.com/s?k=2+pole+40+amp+24v+contactor+carrier+heat+pump&tag=errorcodefixes-20) |
-| Defrost control board (Carrier OEM #HH12ZB271 or match) | $50–$130 | [Amazon](https://www.amazon.com/s?k=Carrier+defrost+control+board+HH12ZB271&tag=errorcodefixes-20) |
+| Dual run capacitor — 35/5 or 45/5 µF 370/440VAC | $15–$35 | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) |
+| Contactor — 2-pole, 40A, 24VAC coil | $20–$45 | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) |
+| Defrost control board (Carrier OEM #HH12ZB271 or match) | $50–$130 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) |
 | Outdoor thermistor / ambient sensor (Carrier OEM) | $15–$40 | [Amazon](https://www.amazon.com/s?k=Carrier+outdoor+thermistor+ambient+sensor+heat+pump&tag=errorcodefixes-20) |
 | Reversing valve solenoid coil — 24VAC | $30–$70 | [Amazon](https://www.amazon.com/s?k=reversing+valve+solenoid+coil+24VAC+carrier+heat+pump&tag=errorcodefixes-20) |
-| Condenser fan motor — 1/5 HP, 208–230V (match specs on nameplate) | $85–$200 | [Amazon](https://www.amazon.com/s?k=condenser+fan+motor+208+230v+carrier+24ANA&tag=errorcodefixes-20) |
-| 24ANA outdoor control board (Carrier OEM — match model #) | $80–$185 | [Amazon](https://www.amazon.com/s?k=Carrier+24ANA+outdoor+control+board&tag=errorcodefixes-20) |
+| Condenser fan motor — 1/5 HP, 208–230V (match specs on nameplate) | $85–$200 | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) |
+| 24ANA outdoor control board (Carrier OEM — match model #) | $80–$185 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) |
 
 ## When to Call a Professional
 

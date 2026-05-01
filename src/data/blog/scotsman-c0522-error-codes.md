@@ -3,7 +3,7 @@ title: "Scotsman C0522 Error Codes — Fix Guide"
 description: "Scotsman C0522 ice machine error codes: what each means and how to fix it."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -44,7 +44,7 @@ The Scotsman C0522 is a 522 lb/day cube ice machine (Prodigy series) found in re
 |------|-------|
 | Harvest assist solenoid valve | [Amazon](https://www.amazon.com/s?k=Harvest+assist+solenoid+valve&tag=errorcodefixes-20) \| Most common Code 4/5 repair |
 | Evaporator thermistor | [Amazon](https://www.amazon.com/s?k=Evaporator+thermistor&tag=errorcodefixes-20) \| Code E1 |
-| Water inlet valve | [Amazon](https://www.amazon.com/s?k=Water+inlet+valve&tag=errorcodefixes-20) \| Code 8 |
+| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| Code 8 |
 ## When to Call a Pro
 
 Refrigerant diagnosis and recharge for Code 3 (low charge) requires EPA 608 certification.

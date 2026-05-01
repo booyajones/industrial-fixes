@@ -3,7 +3,7 @@ title: "Carrier Error Code 66 — Pressure Switch Fault"
 description: "Carrier furnace error code 66: pressure switch fault causes, diagnosis steps, and repair for Carrier gas furnaces."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -22,12 +22,12 @@ Code 66 differs from code 31 (pressure switch stuck open on first attempt) — c
 
 | Cause | Likelihood | Test |
 |-------|-----------|------|
-| [Blocked condensate trap (90%+ furnaces)](https://www.amazon.com/s?k=Blocked+condensate+trap+%2890%25%2B+furnaces%29&tag=errorcodefixes-20) | Very High | Inspect and clear trap |
-| [Cracked or disconnected pressure switch hose](https://www.amazon.com/s?k=Cracked+or+disconnected+pressure+switch+hose&tag=errorcodefixes-20) | High | Visually inspect hose |
-| [Failed pressure switch](https://www.amazon.com/s?k=Failed+pressure+switch&tag=errorcodefixes-20) | Medium | Test with multimeter across switch contacts |
-| [Inducer motor weak / dirty wheel](https://www.amazon.com/s?k=Inducer+motor+weak+%2F+dirty+wheel&tag=errorcodefixes-20) | Medium | Clean inducer wheel; check motor speed |
+| [Blocked condensate trap (90%+ furnaces)](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) | Very High | Inspect and clear trap |
+| [Cracked or disconnected pressure switch hose](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) | High | Visually inspect hose |
+| [Failed pressure switch](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | Medium | Test with multimeter across switch contacts |
+| [Inducer motor weak / dirty wheel](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) | Medium | Clean inducer wheel; check motor speed |
 | [Blocked flue or intake pipe](https://www.amazon.com/s?k=Blocked+flue+or+intake+pipe&tag=errorcodefixes-20) | Medium | Inspect PVC pipes for debris or ice |
-| [Cracked pressure switch port on inducer](https://www.amazon.com/s?k=Cracked+pressure+switch+port+on+inducer&tag=errorcodefixes-20) | Lower | Inspect inducer housing |
+| [Cracked pressure switch port on inducer](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | Lower | Inspect inducer housing |
 
 ## Step-by-Step Diagnosis
 

@@ -3,7 +3,7 @@ title: "Fanuc Alarm 4 — Stored Stroke Limit Overtravel"
 description: "What Fanuc alarm 4 means, why a stored stroke limit overtravel occurs, and how to clear the alarm and recover the axis."
 pubDatetime: 2026-04-22T11:00:00Z
 modDatetime: 2026-04-22T11:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

@@ -3,7 +3,7 @@ title: "Carrier Zone Controller Error Codes — Complete Guide"
 description: "Carrier zone controller error codes for SYSTXZNSMS01 and compatible zone panels: fault codes, damper faults, thermostat errors, and step-by-step fixes."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

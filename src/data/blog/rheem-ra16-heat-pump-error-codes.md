@@ -3,7 +3,7 @@ title: "Rheem RA16 Heat Pump Error Codes — Flash Code Diagnostic Guide"
 description: "Rheem RA16 heat pump error codes: complete LED flash code reference, common causes, step-by-step fix instructions, and OEM parts guide for the 16 SEER RA16."
 pubDatetime: 2026-04-24T08:00:00Z
 modDatetime: 2026-04-24T08:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -93,13 +93,13 @@ This is normal protection, not a true fault. After compressor shutdown, the boar
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|---------------|
-| Dual run capacitor — 45/5 µF 440VAC (match label exactly) | $15–$35 | [Amazon](https://www.amazon.com/s?k=45+5+mfd+440v+dual+run+capacitor+heat+pump&tag=errorcodefixes-20) |
-| Contactor — 2-pole, 40A, 24VAC coil | $18–$45 | [Amazon](https://www.amazon.com/s?k=2+pole+40+amp+contactor+24v+coil+HVAC&tag=errorcodefixes-20) |
-| Defrost control board (Rheem/Ruud OEM — match model) | $50–$130 | [Amazon](https://www.amazon.com/s?k=Rheem+RA16+defrost+control+board&tag=errorcodefixes-20) |
+| Dual run capacitor — 45/5 µF 440VAC (match label exactly) | $15–$35 | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) |
+| Contactor — 2-pole, 40A, 24VAC coil | $18–$45 | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) |
+| Defrost control board (Rheem/Ruud OEM — match model) | $50–$130 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) |
 | Defrost thermostat — coil clip type | $10–$25 | [Amazon](https://www.amazon.com/s?k=defrost+thermostat+heat+pump+coil+clip+on&tag=errorcodefixes-20) |
 | Outdoor thermistor sensor (Rheem OEM) | $15–$40 | [Amazon](https://www.amazon.com/s?k=Rheem+outdoor+thermistor+heat+pump+sensor&tag=errorcodefixes-20) |
 | Reversing valve solenoid coil — 24VAC (Sporlan or OEM) | $30–$70 | [Amazon](https://www.amazon.com/s?k=reversing+valve+solenoid+coil+24VAC+R410A&tag=errorcodefixes-20) |
-| Condenser fan motor — 1/6 HP, 208–230V, match RPM/FLA | $75–$195 | [Amazon](https://www.amazon.com/s?k=condenser+fan+motor+1+6+hp+230v+heat+pump&tag=errorcodefixes-20) |
+| Condenser fan motor — 1/6 HP, 208–230V, match RPM/FLA | $75–$195 | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) |
 
 ## When to Call a Professional
 

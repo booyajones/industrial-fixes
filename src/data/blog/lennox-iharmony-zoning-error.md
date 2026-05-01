@@ -3,7 +3,7 @@ title: "Lennox iHarmony Zoning System Error Codes — Troubleshooting Guide"
 description: "Lennox iHarmony zoning system error codes and fault conditions: zone controller, damper, and sensor faults with causes and troubleshooting steps."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -68,7 +68,7 @@ The iHarmony system must be programmed with the correct number of zones and equi
 |------|-------|
 | iHarmony zone panel | [Amazon](https://www.amazon.com/s?k=iHarmony+zone+panel&tag=errorcodefixes-20) \| Replace on persistent comm errors |
 | Zone damper actuator | [Amazon](https://www.amazon.com/s?k=Zone+damper+actuator&tag=errorcodefixes-20) \| Replace on damper fault |
-| Zone temperature sensor | [Amazon](https://www.amazon.com/s?k=Zone+temperature+sensor&tag=errorcodefixes-20) \| Replace on sensor error |
+| Zone temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Replace on sensor error |
 | Bypass damper | [Amazon](https://www.amazon.com/s?k=Bypass+damper&tag=errorcodefixes-20) \| Inspect on high static pressure |
 ## Jump to Fix
 

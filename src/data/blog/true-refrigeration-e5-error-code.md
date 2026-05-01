@@ -3,7 +3,7 @@ title: "True Refrigeration E5 Error Code — Defrost Sensor Causes & Fix"
 description: "What True Refrigeration E5 means, why the defrost sensor faults, and how to fix it step by step."
 pubDatetime: 2026-04-24T23:50:00Z
 modDatetime: 2026-04-24T23:50:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -41,7 +41,7 @@ True Refrigeration error code E5 usually points to a defrost probe or evaporator
 |------|-------|
 | Defrost / evaporator temperature probe | [Amazon](https://www.amazon.com/s?k=True+refrigeration+defrost+probe&tag=errorcodefixes-20) \| Match the controller family and probe curve before ordering |
 | Probe harness or extension lead | [Amazon](https://www.amazon.com/s?k=refrigeration+probe+harness&tag=errorcodefixes-20) \| Useful when the original lead is cut or water-damaged |
-| Defrost heater | [Amazon](https://www.amazon.com/s?k=true+refrigeration+defrost+heater&tag=errorcodefixes-20) \| Replace if the coil stays iced even with a good probe |
+| Defrost heater | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) \| Replace if the coil stays iced even with a good probe |
 | Electronic temperature controller | [Amazon](https://www.amazon.com/s?k=true+refrigeration+temperature+controller&tag=errorcodefixes-20) \| Only after confirming the probe and heater circuit test good |
 
 ## When to Call a Pro

@@ -3,7 +3,7 @@ title: "Daikin Fit Error Codes — Inverter Heat Pump Diagnostic Guide"
 description: "Daikin Fit error codes: complete fault code reference for the SQ/RZB series compact inverter heat pump, causes, step-by-step fixes, and OEM parts guide."
 pubDatetime: 2026-04-24T08:00:00Z
 modDatetime: 2026-04-24T08:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -98,10 +98,10 @@ The system has detected low refrigerant based on discharge superheat readings. U
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|---------------|
-| Outdoor PCB / control board (Daikin OEM — match model) | $180–$450 | [Amazon](https://www.amazon.com/s?k=Daikin+Fit+RZB+outdoor+control+board+PCB&tag=errorcodefixes-20) |
-| Indoor PCB / main board (Daikin SQ series — match model) | $150–$380 | [Amazon](https://www.amazon.com/s?k=Daikin+SQ+indoor+PCB+board+mini+split&tag=errorcodefixes-20) |
+| Outdoor PCB / control board (Daikin OEM — match model) | $180–$450 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) |
+| Indoor PCB / main board (Daikin SQ series — match model) | $150–$380 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) |
 | Inverter module (IPM module for RZB series) | $200–$600 | [Amazon](https://www.amazon.com/s?k=Daikin+inverter+IPM+module+heat+pump&tag=errorcodefixes-20) |
-| NTC temperature sensor / thermistor (Daikin OEM) | $12–$35 | [Amazon](https://www.amazon.com/s?k=Daikin+NTC+temperature+sensor+thermistor+mini+split&tag=errorcodefixes-20) |
+| NTC temperature sensor / thermistor (Daikin OEM) | $12–$35 | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) |
 | Electronic expansion valve (EEV) kit — Sporlan or Daikin OEM | $80–$220 | [Amazon](https://www.amazon.com/s?k=Daikin+electronic+expansion+valve+EEV+kit&tag=errorcodefixes-20) |
 | Communication cable — 18 AWG 3-conductor shielded (per foot) | $0.50–$1.50/ft | [Amazon](https://www.amazon.com/s?k=18+AWG+3+conductor+shielded+communication+cable+HVAC&tag=errorcodefixes-20) |
 | Wired remote controller BRC7EB518W | $85–$160 | [Amazon](https://www.amazon.com/s?k=Daikin+BRC7EB518W+wired+remote+controller&tag=errorcodefixes-20) |

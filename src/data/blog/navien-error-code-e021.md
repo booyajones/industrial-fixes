@@ -58,7 +58,7 @@ Board replacement is rarely needed for an E021 fault. If replacing the thermisto
 | Navien NTC Thermistor (inlet sensor) | $20–$50 | [Amazon](https://www.amazon.com/s?k=Navien+NTC+thermistor+inlet+sensor+tankless&tag=errorcodefixes-20) |
 | Electrical Contact Cleaner Spray | $6–$12 | [Amazon](https://www.amazon.com/s?k=electrical+contact+cleaner+spray&tag=errorcodefixes-20) |
 | Waterproof Heat-Shrink Butt Connectors | $8–$15 | [Amazon](https://www.amazon.com/s?k=waterproof+heat+shrink+butt+connectors+wire+splice&tag=errorcodefixes-20) |
-| Digital Multimeter | $20–$60 | [Amazon](https://www.amazon.com/s?k=digital+multimeter+HVAC+plumbing+diagnostics&tag=errorcodefixes-20) |
+| Digital Multimeter | $20–$60 | [Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) |
 
 ## When to Call a Technician
 

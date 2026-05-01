@@ -137,11 +137,11 @@ The cabinet dropped below the normal operating range.
 
 | Part | Notes | Typical Cost | Where to Buy |
 |------|-------|--------------|--------------|
-| Cabinet temperature sensor | Verify controller family and sensor curve | $20–$45 | [Amazon](https://www.amazon.com/s?k=True+refrigeration+temperature+sensor+prep+table&tag=errorcodefixes-20) \| Parts Town |
+| Cabinet temperature sensor | Verify controller family and sensor curve | $20–$45 | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Parts Town |
 | Evaporator sensor | Clips to coil, common E2 fix | $20–$45 | [Amazon](https://www.amazon.com/s?k=True+evaporator+sensor+prep+table&tag=errorcodefixes-20) \| Parts Town |
-| Evaporator fan motor | Common after icing or washdown damage | $65–$140 | [Amazon](https://www.amazon.com/s?k=True+prep+table+evaporator+fan+motor&tag=errorcodefixes-20) \| Parts Town |
-| Door gasket | Match exact TSSU model and door size | $55–$110 | [Amazon](https://www.amazon.com/s?k=True+TSSU+door+gasket&tag=errorcodefixes-20) \| Parts Town |
-| Condenser fan motor | Needed when head pressure runs high | $70–$150 | [Amazon](https://www.amazon.com/s?k=True+condenser+fan+motor+prep+table&tag=errorcodefixes-20) \| Parts Town |
+| Evaporator fan motor | Common after icing or washdown damage | $65–$140 | [Amazon](https://www.amazon.com/dp/B01N0J3ZEH?tag=errorcodefixes-20) \| Parts Town |
+| Door gasket | Match exact TSSU model and door size | $55–$110 | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?tag=errorcodefixes-20) \| Parts Town |
+| Condenser fan motor | Needed when head pressure runs high | $70–$150 | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Parts Town |
 | Replacement controller | Use exact OEM cross-reference | $140–$260 | [Amazon](https://www.amazon.com/s?k=True+refrigeration+controller+prep+table&tag=errorcodefixes-20) \| Parts Town |
 | Coil cleaning brush and condenser cleaner | Low-cost first repair step | $15–$35 | [Amazon](https://www.amazon.com/s?k=commercial+refrigerator+coil+cleaner+brush&tag=errorcodefixes-20) |
 

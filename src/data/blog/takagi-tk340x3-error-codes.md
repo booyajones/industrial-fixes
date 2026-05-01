@@ -2,7 +2,7 @@
 title: "Takagi TK-340X3-NIH Commercial Tankless Water Heater Error Codes"
 description: "Complete fault code reference for the Takagi TK-340X3-NIH condensing commercial tankless water heater, covering all error codes, condensate neutralizer faults, secondary heat exchanger diagnostics, and step-by-step repair procedures."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "James Rutherford"
 tags:
   - hvac
   - error-codes

@@ -3,7 +3,7 @@ title: "Lennox Error Code 540 — Communicating System Fault (Detailed Guide)"
 description: "Lennox 540 error in communicating systems means a component lost communication on the iComfort bus. This guide identifies which device failed and how to restore the system."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -81,8 +81,8 @@ A wire pinched in a door, damaged by rodents, or accidentally touching 24V can s
 | Part | Cost |
 |---|---|
 | iComfort thermostat (E30) | [Amazon](https://www.amazon.com/s?k=iComfort+thermostat+%28E30%29&tag=errorcodefixes-20) \| $200–400 |
-| Furnace IFC board (communicating) | [Amazon](https://www.amazon.com/s?k=Furnace+IFC+board+%28communicating%29&tag=errorcodefixes-20) \| $150–400 |
-| Outdoor unit control board | [Amazon](https://www.amazon.com/s?k=Outdoor+unit+control+board&tag=errorcodefixes-20) \| $150–500 |
+| Furnace IFC board (communicating) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| $150–400 |
+| Outdoor unit control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| $150–500 |
 | Communication bus cable (4-wire, per foot) | [Amazon](https://www.amazon.com/s?k=Communication+bus+cable+%284-wire%2C+per+foot%29&tag=errorcodefixes-20) \| $0.50–1.50 |
 ## iComfort 540 Sub-Codes
 

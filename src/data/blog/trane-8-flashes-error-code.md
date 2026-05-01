@@ -3,7 +3,7 @@ title: "Trane 8 Flashes Error Code — Causes & Fix"
 description: "What Trane 8 flash error code means, why the indoor blower faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
 modDatetime: 2026-04-22T12:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -37,7 +37,7 @@ Eight flashes on a Trane furnace status LED indicates an **indoor blower (circul
 
 | Part | Notes |
 |------|-------|
-| Blower motor run capacitor | [Amazon](https://www.amazon.com/s?k=Blower+motor+run+capacitor&tag=errorcodefixes-20) \| Match µF and voltage; common sizes are 5 µF, 7.5 µF, 10 µF at 370V |
+| Blower motor run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Match µF and voltage; common sizes are 5 µF, 7.5 µF, 10 µF at 370V |
 | ECM blower motor (variable-speed) | [Amazon](https://www.amazon.com/s?k=ECM+blower+motor+%28variable-speed%29&tag=errorcodefixes-20) \| Many Trane units use ECM motors — replacement requires matching module and motor |
 | PSC blower motor (single-speed) | [Amazon](https://www.amazon.com/s?k=PSC+blower+motor+%28single-speed%29&tag=errorcodefixes-20) \| Match HP, RPM, frame, and rotation direction |
 ## When to Call a Pro

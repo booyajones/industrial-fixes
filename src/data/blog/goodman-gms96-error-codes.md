@@ -3,7 +3,7 @@ title: "Goodman GMS96 Error Codes — Fault Code Guide"
 description: "Goodman GMS96 furnace error codes: all flash codes for the popular 96% AFUE single-stage furnace with causes and fixes."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -65,10 +65,10 @@ The GMS96 uses a silicon nitride hot-surface igniter (Goodman B1401015S or B1401
 | Part | Notes |
 |------|-------|
 | Hot-surface igniter | [Amazon](https://www.amazon.com/s?k=Hot-surface+igniter&tag=errorcodefixes-20) \| Goodman B1401015S |
-| Condensate trap | [Amazon](https://www.amazon.com/s?k=Condensate+trap&tag=errorcodefixes-20) \| Goodman PCBBF118S or PCBBF133 |
-| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| 0.60" WC — Goodman B1370169 or B1370138 |
-| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Goodman 20285401 |
-| Blower run capacitor | [Amazon](https://www.amazon.com/s?k=Blower+run+capacitor&tag=errorcodefixes-20) \| 7.5 or 10 µF / 370V |
+| Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) \| Goodman PCBBF118S or PCBBF133 |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| 0.60" WC — Goodman B1370169 or B1370138 |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Goodman 20285401 |
+| Blower run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| 7.5 or 10 µF / 370V |
 ## When to Call a Pro
 If you're seeing 7-flash or 5-flash codes (gas valve faults), or if the furnace has rolled out, stop using the furnace and contact a licensed HVAC technician before restarting.
 

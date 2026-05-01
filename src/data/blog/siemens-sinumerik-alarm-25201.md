@@ -3,7 +3,7 @@ title: "Siemens Sinumerik Alarm 25201 — Causes & Fix"
 description: "What Siemens Sinumerik alarm 25201 means, why drive overcurrent trips, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
 modDatetime: 2026-04-22T10:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

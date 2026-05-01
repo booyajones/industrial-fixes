@@ -3,7 +3,7 @@ title: "Hypertherm Powermax 45 Fault Codes — Fix Guide"
 description: "Hypertherm Powermax 45 plasma cutter fault codes: what each code means and how to fix it."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

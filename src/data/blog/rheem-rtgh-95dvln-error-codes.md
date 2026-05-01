@@ -2,7 +2,7 @@
 title: "Rheem RTGH-95DVLN Condensing Tankless Water Heater Error Codes"
 description: "Complete error code reference for the Rheem RTGH-95DVLN condensing tankless water heater, covering all fault codes, secondary heat exchanger issues, condensate drain problems, and ignition failures. Written for homeowners and plumbing technicians."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "James Rutherford"
 tags:
   - hvac
   - error-codes
@@ -113,7 +113,7 @@ Never bypass the condensate drain sensor, the RTGH-95DVLN produces roughly 1–3
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
-| [Rheem Tankless Water Heater Temperature Sensor RTG20009B](https://www.amazon.com/s?k=Rheem+RTG20009B+temperature+sensor+tankless&tag=errorcodefixes-20) | Secondary HX and outlet sensors; codes 24, 32, 33 | $20–$45 |
+| [Rheem Tankless Water Heater Temperature Sensor RTG20009B](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | Secondary HX and outlet sensors; codes 24, 32, 33 | $20–$45 |
 | [Condensate Neutralizer Refill Kit](https://www.amazon.com/s?k=condensate+neutralizer+refill+media+tankless&tag=errorcodefixes-20) | Required if condensate drain is acidic; neutralizes pH before drain | $15–$35 |
 | [Tankless Water Heater Descaler Flush Kit](https://www.amazon.com/s?k=tankless+water+heater+descaler+flush+pump+kit&tag=errorcodefixes-20) | Removes scale from secondary heat exchanger; prevents codes 16, 29, 33 | $30–$60 |
 | [Rheem Combustion Fan AP15516-1](https://www.amazon.com/s?k=Rheem+RTGH+combustion+fan+blower+AP15516&tag=errorcodefixes-20) | Replace on code 61; inspect before condemning, check wiring first | $80–$175 |

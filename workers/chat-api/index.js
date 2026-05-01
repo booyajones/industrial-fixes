@@ -32,94 +32,57 @@ export default {
     let sourceArticle = null;
 
     try {
-      // Strategy 1: brand + number match → try exact slug
-      const brandMatch = question.toLowerCase().match(
-        /(carrier|goodman|lennox|trane|rheem|york|daikin|mitsubishi|haas|fanuc|yaskawa|abb|siemens|hoshizaki|manitowoc|amana|bryant|comfortmaker|keeprite|ruud|heil|tempstar|arcoaire|icp|day[\s-]?night|payne|totaline|janitrol|american[\s-]?standard|coleman|york|nordyne|frigidaire|gibson|westinghouse|electrolux|white[\s-]?rodgers|honeywell|echelon|bosch|weil[\s-]?mclain|burnham|peerless|utica|crown|slant[\s-]?fin|hydrotherm|lochinvar|triangle[\s-]?tube|buderus|viessmann|baxi|biasi|vaillant|rinnai|navien|noritz|takagi|paloma|bosch|stiebel[\s-]?eltron|grundfos|bell[\s-]?gossett|taco|armstrong|aurora|roper|speed[\s-]?queen|maytag|whirlpool|kenmore|ge|lg|samsung|panasonic|sharp|sanyo|fujitsu|hitachi|toshiba|gree|midea|aux|haier|chigo|pioneer|senville|mr[\s-]?cool|mini[\s-]?split|ptac|ptacunit|issi|allen[\s-]?bradley|rockwell|ab|omron|schneider|modicon|delta|automation[\s-]?direct|click|koyo|idec|keyence|mitsubishi[\s-]?electric|melsec|nais|panasonic[\s-]?plc|vfd|drive|inverter|servo|motor|pump|compressor|chiller|ahu|rtu|rooftop)/
-      );
-      const codeMatch = question.match(/\b([A-Z]{0,4}[\d]{1,4}[A-Z]{0,4})\b/);
+      // Fetch the static search index (cached at CDN edge)
+      const indexResp = await fetch(`${siteBase}/search-index.json`, {
+        headers: { 'User-Agent': 'errorcodefixes-chatbot/1.0' }
+      });
 
-      if (brandMatch && codeMatch) {
-        // Build a clean slug: brand-CODE-error-code
-        const brand = brandMatch[1].replace(/[\s-]+/g, '-').toLowerCase();
-        const code = codeMatch[1].toLowerCase();
-        const slug = `${brand}-${code}-error-code`;
-        const articleUrl = `${siteBase}/posts/${slug}/`;
+      if (indexResp.ok) {
+        const articles = await indexResp.json();
 
-        const articleResp = await fetch(articleUrl, {
-          headers: { 'User-Agent': 'errorcodefixes-chatbot/1.0' }
-        });
+        // Tokenize the question: lowercase, split on spaces/punctuation, keep 2+ chars
+        const tokens = question
+          .toLowerCase()
+          .split(/[\s\.,!?;:()\[\]{}"'\/\\-]+/)
+          .map(t => t.replace(/[^a-z0-9]/g, ''))
+          .filter(t => t.length >= 2);
 
-        if (articleResp.ok) {
-          const html = await articleResp.text();
-          const text = html
-            .replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '')
-            .replace(/<style[^>]*>[\s\S]*?<\/style>/gi, '')
-            .replace(/<[^>]+>/g, ' ')
-            .replace(/\s+/g, ' ')
-            .trim()
-            .substring(0, 4000);
-          context = text;
-          sourceArticle = articleUrl;
-        }
-      }
+        // Score each article
+        let bestScore = 0;
+        let bestArticle = null;
 
-      // Strategy 2: if still no context, try the Pagefind search index
-      // Pagefind exposes a /pagefind/pagefind-index.json; we can search it
-      // by fetching the top-level index and scanning for matching entries.
-      if (!context) {
-        const indexUrl = `${siteBase}/pagefind/pagefind-index.json`;
-        const indexResp = await fetch(indexUrl, {
-          headers: { 'User-Agent': 'errorcodefixes-chatbot/1.0' }
-        });
-
-        if (indexResp.ok) {
-          const indexData = await indexResp.json();
-          // pagefind-index.json has { pages: [...] } or { segments: [...] }
-          // The pages array contains { url, content, ... }
-          const pages = indexData.pages || indexData.results || [];
-
-          // Simple keyword match: build query tokens from the question
-          const tokens = question.toLowerCase()
-            .replace(/[^a-z0-9\s]/g, ' ')
-            .split(/\s+/)
-            .filter(t => t.length > 2);
-
-          let bestScore = 0;
-          let bestPage = null;
-
-          for (const page of pages.slice(0, 2000)) {
-            const url = (page.url || '').toLowerCase();
-            const content = (page.content || page.text || '').toLowerCase();
-            let score = 0;
-            for (const token of tokens) {
-              if (url.includes(token)) score += 3;
-              if (content.includes(token)) score += 1;
-            }
-            if (score > bestScore) {
-              bestScore = score;
-              bestPage = page;
-            }
+        for (const article of articles) {
+          const titleLower = article.title.toLowerCase();
+          let score = 0;
+          for (const token of tokens) {
+            if (article.keywords && article.keywords.includes(token)) score += 2;
+            if (titleLower.includes(token)) score += 3;
+            if (article.slug && article.slug.includes(token)) score += 2;
           }
+          if (score > bestScore) {
+            bestScore = score;
+            bestArticle = article;
+          }
+        }
 
-          if (bestPage && bestScore > 0) {
-            const pageUrl = bestPage.url.startsWith('http')
-              ? bestPage.url
-              : `${siteBase}${bestPage.url}`;
-            const pageResp = await fetch(pageUrl, {
-              headers: { 'User-Agent': 'errorcodefixes-chatbot/1.0' }
-            });
-            if (pageResp.ok) {
-              const html = await pageResp.text();
-              const text = html
-                .replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '')
-                .replace(/<style[^>]*>[\s\S]*?<\/style>/gi, '')
-                .replace(/<[^>]+>/g, ' ')
-                .replace(/\s+/g, ' ')
-                .trim()
-                .substring(0, 4000);
-              context = text;
-              sourceArticle = pageUrl;
-            }
+        // Minimum score threshold: 3
+        if (bestArticle && bestScore >= 3) {
+          const articleUrl = `${siteBase}${bestArticle.url}`;
+          const pageResp = await fetch(articleUrl, {
+            headers: { 'User-Agent': 'errorcodefixes-chatbot/1.0' }
+          });
+
+          if (pageResp.ok) {
+            const html = await pageResp.text();
+            const text = html
+              .replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '')
+              .replace(/<style[^>]*>[\s\S]*?<\/style>/gi, '')
+              .replace(/<[^>]+>/g, ' ')
+              .replace(/\s+/g, ' ')
+              .trim()
+              .substring(0, 4000);
+            context = text;
+            sourceArticle = articleUrl;
           }
         }
       }
@@ -131,7 +94,7 @@ export default {
     const systemPrompt = `You are an expert industrial equipment technician for errorcodefixes.com.
 You help diagnose and fix error codes for HVAC systems, CNC machines, VFDs, commercial refrigeration, boilers, and more.
 Be concise, practical, and direct. Use plain text — no markdown.
-If article context is provided below, use it as the primary source.
+If article context is provided, answer primarily from that content and cite the article link.
 If not, draw on your technical knowledge.
 Always lead with the most likely cause, then provide clear fix steps.`;
 

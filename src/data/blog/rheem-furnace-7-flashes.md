@@ -3,7 +3,7 @@ title: "Rheem Furnace 7 Flashes Error Code — Causes & Fix"
 description: "What Rheem 7 flashes means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
 modDatetime: 2026-04-22T08:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -36,7 +36,7 @@ Seven flashes on a Rheem furnace LED indicates a low flame signal — the flame 
 
 | Part | Notes |
 |------|-------|
-| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Rheem 62-23543-01 is common; match your model; universal versions available |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Rheem 62-23543-01 is common; match your model; universal versions available |
 | Steel wool or 400-grit sandpaper | [Amazon](https://www.amazon.com/s?k=Steel+wool+or+400-grit+sandpaper&tag=errorcodefixes-20) \| For cleaning; do not use coarse abrasive |
 | Ground wire and ring terminal | [Amazon](https://www.amazon.com/s?k=Ground+wire+and+ring+terminal&tag=errorcodefixes-20) \| If ground path is corroded or broken |
 ## When to Call a Pro

@@ -3,7 +3,7 @@ title: "Yaskawa V1000 OC Fault — Overcurrent"
 description: "Yaskawa V1000 VFD OC fault means overcurrent has been detected. Learn the causes, how to diagnose OCA, OCb, and OC fault types, and how to fix the Yaskawa V1000 OC fault."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

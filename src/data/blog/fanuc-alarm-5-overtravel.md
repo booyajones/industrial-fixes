@@ -3,7 +3,7 @@ title: "Fanuc Alarm 5 — Stored Stroke Limit 2 Overtravel"
 description: "What Fanuc alarm 5 means, why a stored stroke limit 2 overtravel occurs, and how to recover the axis."
 pubDatetime: 2026-04-22T11:00:00Z
 modDatetime: 2026-04-22T11:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

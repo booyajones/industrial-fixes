@@ -3,7 +3,7 @@ title: "Navien Error Code E013 — Causes & Fix"
 description: "What Navien error code E013 means, why the domestic hot water inlet sensor faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
 modDatetime: 2026-04-22T12:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

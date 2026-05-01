@@ -3,7 +3,7 @@ title: "Carrier Infinity System Communication Error Codes — Complete Guide"
 description: "Carrier Infinity communicating system error codes explained. Learn how to diagnose system fault, component faults, and communication bus errors on Infinity HVAC systems."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

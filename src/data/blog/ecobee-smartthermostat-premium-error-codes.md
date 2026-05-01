@@ -2,7 +2,7 @@
 title: "ecobee SmartThermostat Premium Error Codes - Full Fault Reference"
 description: "Complete guide to ecobee SmartThermostat Premium error codes, including Wi-Fi connectivity errors, remote sensor communication faults, HVAC system fault codes, and equipment malfunction alerts with step-by-step fixes."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Marcus Webb"
 tags:
   - hvac
   - error-codes

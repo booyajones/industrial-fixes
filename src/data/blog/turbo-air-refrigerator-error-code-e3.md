@@ -3,7 +3,7 @@ title: "Turbo Air Refrigerator Error Code E3 — Defrost Sensor Causes & Fix"
 description: "What Turbo Air E3 means, why the defrost sensor fails, and how to fix it step by step."
 pubDatetime: 2026-04-24T23:52:00Z
 modDatetime: 2026-04-24T23:52:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -39,9 +39,9 @@ Turbo Air error code E3 usually indicates a defrost sensor problem. On many Turb
 
 | Part | Notes |
 |------|-------|
-| Defrost / evaporator sensor | [Amazon](https://www.amazon.com/s?k=turbo+air+defrost+sensor&tag=errorcodefixes-20) \| Match the controller family and sensor style |
+| Defrost / evaporator sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Match the controller family and sensor style |
 | Sensor harness | [Amazon](https://www.amazon.com/s?k=refrigeration+sensor+harness&tag=errorcodefixes-20) \| Useful when the original lead is damaged |
-| Defrost heater | [Amazon](https://www.amazon.com/s?k=turbo+air+defrost+heater&tag=errorcodefixes-20) \| Replace if the evaporator keeps icing with a good sensor |
+| Defrost heater | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) \| Replace if the evaporator keeps icing with a good sensor |
 | Temperature controller | [Amazon](https://www.amazon.com/s?k=turbo+air+temperature+controller&tag=errorcodefixes-20) \| Board replacement comes last, not first |
 
 ## When to Call a Pro

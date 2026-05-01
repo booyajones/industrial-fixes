@@ -3,7 +3,7 @@ title: "Allen-Bradley PowerFlex 40 F3 Fault — Power Loss"
 description: "PowerFlex 40 F3 fault means the drive detected an input power loss or phase loss condition. Learn the causes, diagnostics, and fix for AB PowerFlex 40 F3."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -41,7 +41,7 @@ An **F3 fault** on an Allen-Bradley PowerFlex 40 means the drive detected an inp
 | Part | Notes |
 |------|-------|
 | Input fuses | [Amazon](https://www.amazon.com/s?k=Input+fuses&tag=errorcodefixes-20) \| Match class and amp rating to the installation |
-| Line contactor | [Amazon](https://www.amazon.com/s?k=Line+contactor&tag=errorcodefixes-20) \| Replace if contacts are burned or voltage drop is excessive |
+| Line contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Replace if contacts are burned or voltage drop is excessive |
 | Terminal block hardware | [Amazon](https://www.amazon.com/s?k=Terminal+block+hardware&tag=errorcodefixes-20) \| Replace damaged lugs or screws |
 | PowerFlex 40 drive | [Amazon](https://www.amazon.com/s?k=PowerFlex+40+drive&tag=errorcodefixes-20) \| If internal bus or rectifier section is failed |
 ## When to Call a Pro

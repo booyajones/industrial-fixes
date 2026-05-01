@@ -3,7 +3,7 @@ title: "Senville Mini Split Error Code E5 — Causes & Fix"
 description: "What Senville mini split error code E5 means, why the drain protection fault triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
 modDatetime: 2026-04-22T15:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -40,7 +40,7 @@ E5 on a Senville mini split indicates a drain protection fault — the indoor un
 |------|-------|
 | Condensate drain line (PVC or vinyl) | [Amazon](https://www.amazon.com/s?k=Condensate+drain+line+%28PVC+or+vinyl%29&tag=errorcodefixes-20) \| Replace if cracked or sagging |
 | Condensate pump | [Amazon](https://www.amazon.com/s?k=Condensate+pump&tag=errorcodefixes-20) \| Match voltage and GPH rating of the original pump |
-| Float switch | [Amazon](https://www.amazon.com/s?k=Float+switch&tag=errorcodefixes-20) \| Use the OEM Senville part for correct trip-point calibration |
+| Float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?tag=errorcodefixes-20) \| Use the OEM Senville part for correct trip-point calibration |
 ## When to Call a Pro
 
 If the drain line runs through the wall and is inaccessible, or if clearing the clog requires disassembling the indoor unit beyond the filter panel, a certified HVAC technician can properly service the drain system without risking water damage.

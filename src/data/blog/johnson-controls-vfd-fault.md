@@ -3,7 +3,7 @@ title: "Johnson Controls HVAC VFD Fault Codes — Common Faults and Fixes"
 description: "Guide to Johnson Controls variable frequency drive fault codes used in HVAC systems, what each fault means, and how to fix the most common problems."
 pubDatetime: 2026-04-22T14:00:00Z
 modDatetime: 2026-04-22T14:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

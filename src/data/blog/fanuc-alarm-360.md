@@ -3,7 +3,7 @@ title: "Fanuc Alarm 360 — APC Alarm Battery Low Causes & Fix"
 description: "What Fanuc alarm 360 means, why the absolute pulse coder battery alarm fires, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
 modDatetime: 2026-04-22T15:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

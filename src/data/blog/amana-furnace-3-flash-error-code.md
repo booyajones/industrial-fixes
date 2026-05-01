@@ -3,7 +3,7 @@ title: "Amana Furnace 3 Flash Error Code — Causes & Fix"
 description: "What Amana 3 flashes means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
 modDatetime: 2026-04-22T08:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -36,10 +36,10 @@ Three flashes on an Amana furnace LED indicates a draft pressure fault — the p
 
 | Part | Notes |
 |------|-------|
-| Inducer motor run capacitor | [Amazon](https://www.amazon.com/s?k=Inducer+motor+run+capacitor&tag=errorcodefixes-20) \| Most common fix when motor hums but won't start |
-| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Amana/Goodman often use B1370738 or similar; check WC rating |
-| Pressure switch hose | [Amazon](https://www.amazon.com/s?k=Pressure+switch+hose&tag=errorcodefixes-20) \| 3/8" ID; sold by the foot |
-| Condensate trap (Amana part) | [Amazon](https://www.amazon.com/s?k=Condensate+trap+%28Amana+part%29&tag=errorcodefixes-20) \| Replace if cracked or permanently fouled |
+| Inducer motor run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Most common fix when motor hums but won't start |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Amana/Goodman often use B1370738 or similar; check WC rating |
+| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| 3/8" ID; sold by the foot |
+| Condensate trap (Amana part) | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) \| Replace if cracked or permanently fouled |
 ## When to Call a Pro
 
 If all mechanical components check out but the 3-flash code persists, a tech should use a manometer to verify actual system pressure against the switch rating. Wrong-rated pressure switches will produce this fault indefinitely.

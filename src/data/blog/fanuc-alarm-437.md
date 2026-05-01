@@ -3,7 +3,7 @@ title: "Fanuc Alarm 437 — Servo Following Error 4th Axis Causes & Fix"
 description: "What Fanuc alarm 437 means, why the 4th axis servo following error trips, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
 modDatetime: 2026-04-22T15:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

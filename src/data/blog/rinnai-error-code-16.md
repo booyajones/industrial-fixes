@@ -3,7 +3,7 @@ title: "Rinnai Error Code 16 — Causes & Fix"
 description: "What Rinnai error code 16 means, why the combustion fan faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T10:00:00Z
 modDatetime: 2026-04-22T10:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -36,9 +36,9 @@ Error code 16 on a Rinnai tankless water heater indicates the combustion fan (al
 
 | Part | Notes |
 |------|-------|
-| Combustion fan motor assembly | [Amazon](https://www.amazon.com/s?k=Combustion+fan+motor+assembly&tag=errorcodefixes-20) \| Rinnai OEM; must match model (V-series vs. RU-series differ) |
+| Combustion fan motor assembly | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Rinnai OEM; must match model (V-series vs. RU-series differ) |
 | Fan speed sensor | [Amazon](https://www.amazon.com/s?k=Fan+speed+sensor&tag=errorcodefixes-20) \| Hall effect sensor; often integral to the motor assembly |
-| Control board (PCB) | [Amazon](https://www.amazon.com/s?k=Control+board+%28PCB%29&tag=errorcodefixes-20) \| Replace only if board fan driver is confirmed failed |
+| Control board (PCB) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace only if board fan driver is confirmed failed |
 ## When to Call a Pro
 
 Gas appliance fan replacement involves working inside the combustion enclosure. If you are not confident in safely accessing the combustion section and verifying electrical circuits, have a Rinnai-authorized technician service the unit.

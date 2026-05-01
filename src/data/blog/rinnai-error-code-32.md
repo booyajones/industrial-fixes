@@ -3,7 +3,7 @@ title: "Rinnai Error Code 32 — Causes & Fix"
 description: "What Rinnai error code 32 means, why the overheat cutoff trips, and how to diagnose and fix it."
 pubDatetime: 2026-04-22T10:00:00Z
 modDatetime: 2026-04-22T10:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

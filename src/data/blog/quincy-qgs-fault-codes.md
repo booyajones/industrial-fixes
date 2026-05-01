@@ -3,7 +3,7 @@ title: "Quincy QGS Compressor Fault Codes: Complete Guide"
 description: "Quincy QGS rotary screw compressor fault codes and diagnostics. Intellizone II fault codes, causes, and technician-level troubleshooting."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -51,7 +51,7 @@ Quincy QGS has an electronic auto-drain to remove condensate from the separator 
 
 | Part | Notes |
 |------|-------|
-| Inlet air filter | [Amazon](https://www.amazon.com/s?k=Inlet+air+filter&tag=errorcodefixes-20) \| Model-specific |
+| Inlet air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| Model-specific |
 | Oil/separator element | [Amazon](https://www.amazon.com/s?k=Oil%2Fseparator+element&tag=errorcodefixes-20) \| Replace per service schedule |
 | Quincy QGS oil | [Amazon](https://www.amazon.com/s?k=Quincy+QGS+oil&tag=errorcodefixes-20) \| Synthetic ΓÇö match model specification |
 | Auto-drain solenoid | [Amazon](https://www.amazon.com/s?k=Auto-drain+solenoid&tag=errorcodefixes-20) \| Check coil resistance |

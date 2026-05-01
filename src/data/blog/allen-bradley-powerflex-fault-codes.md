@@ -3,7 +3,7 @@ title: "Allen Bradley PowerFlex Fault Codes — Complete Reference"
 description: "Allen Bradley PowerFlex fault codes: all F and fault number codes for PowerFlex 4, 40, 523, 525, 700, 753, and 755 drives."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -67,7 +67,7 @@ The drive lost communication with the EtherNet/IP network or I/O scanner. Check:
 |------|-------|
 | HIM module | [Amazon](https://www.amazon.com/s?k=HIM+module&tag=errorcodefixes-20) \| PowerFlex 4/40: 22-HIM-A3; PF700: 20-HIM-A3 |
 | Dynamic braking resistor | [Amazon](https://www.amazon.com/s?k=Dynamic+braking+resistor&tag=errorcodefixes-20) \| Size per drive HP; Rockwell catalog or third-party |
-| Contactor / line reactor | [Amazon](https://www.amazon.com/s?k=Contactor+%2F+line+reactor&tag=errorcodefixes-20) \| Add if experiencing nuisance undervoltage trips |
+| Contactor / line reactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Add if experiencing nuisance undervoltage trips |
 ## When to Call a Pro
 F012 (hardware overcurrent) and any fault accompanied by a burning smell or visible damage to the drive's output stage require qualified drive service technicians. Replacing IGBTs and gate drivers inside a PowerFlex 700 or 755 requires specialized training and tools.
 

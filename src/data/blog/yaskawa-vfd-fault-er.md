@@ -3,7 +3,7 @@ title: "Yaskawa VFD Fault ER — Causes & Fix"
 description: "What Yaskawa VFD fault code ER means, why EEPROM errors occur, and how to recover drive parameters."
 pubDatetime: 2026-04-22T11:00:00Z
 modDatetime: 2026-04-22T11:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -38,7 +38,7 @@ The ER fault on a Yaskawa drive (G7, F7, E7, A1000, V1000 series) indicates an E
 
 | Part | Notes |
 |------|-------|
-| Yaskawa control board (PCB) | [Amazon](https://www.amazon.com/s?k=Yaskawa+control+board+%28PCB%29&tag=errorcodefixes-20) \| Order by drive model and frame size; match control software version |
+| Yaskawa control board (PCB) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Order by drive model and frame size; match control software version |
 | Line reactor (3%) | [Amazon](https://www.amazon.com/s?k=Line+reactor+%283%25%29&tag=errorcodefixes-20) \| Add upstream of drive to reduce voltage spikes from power line |
 | Surge suppressor | [Amazon](https://www.amazon.com/s?k=Surge+suppressor&tag=errorcodefixes-20) \| Install on control wiring if noise is suspected cause |
 ## When to Call a Pro

@@ -3,7 +3,7 @@ title: "Schneider Altivar 320 Fault Code Guide — Complete Diagnostic Reference
 description: "Complete guide to Schneider Electric Altivar 320 VFD fault codes, causes, and step-by-step repair procedures for industrial technicians."
 pubDatetime: 2026-04-22T23:00:00Z
 modDatetime: 2026-04-22T23:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

@@ -2,7 +2,7 @@
 title: "True T-72 Refrigerator Error Codes - Full Fault Guide"
 description: "True T-72 three-door reach-in commercial refrigerator error codes, temperature sensor faults, fan and defrost failures, and step-by-step repair instructions."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "James Rutherford"
 tags:
   - hvac
   - error-codes
@@ -74,9 +74,9 @@ On older T-72 units without a digital display, diagnosis relies on:
 |------|-----|---------------|
 | Dixell XR40 or XR60 Replacement Controller | Replace for EE/Er controller faults | [View on Amazon](https://www.amazon.com/s?k=dixell+xr40+replacement+controller+commercial+refrigeration&tag=errorcodefixes-20) |
 | NTC Temperature Probe (10K, Commercial Refrigeration) | Replace E1, E2, or E3 probe faults | [View on Amazon](https://www.amazon.com/s?k=ntc+temperature+probe+dixell+commercial+refrigerator&tag=errorcodefixes-20) |
-| True Refrigerator Door Gasket (T-72 spec) | Replace failing door seals causing temperature alarms | [View on Amazon](https://www.amazon.com/s?k=true+refrigerator+door+gasket+three+door&tag=errorcodefixes-20) |
-| Condenser Fan Motor (115V, 3-blade, for True Refrigeration) | Replace failed condenser fan motor | [View on Amazon](https://www.amazon.com/s?k=condenser+fan+motor+true+refrigerator+115v&tag=errorcodefixes-20) |
-| Defrost Heater (Glass Tube, 115V, commercial reach-in) | Replace burned-out defrost heater | [View on Amazon](https://www.amazon.com/s?k=defrost+heater+glass+tube+commercial+reach-in+refrigerator&tag=errorcodefixes-20) |
+| True Refrigerator Door Gasket (T-72 spec) | Replace failing door seals causing temperature alarms | [View on Amazon](https://www.amazon.com/dp/B0FPF84HQP?tag=errorcodefixes-20) |
+| Condenser Fan Motor (115V, 3-blade, for True Refrigeration) | Replace failed condenser fan motor | [View on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) |
+| Defrost Heater (Glass Tube, 115V, commercial reach-in) | Replace burned-out defrost heater | [View on Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) |
 | Refrigeration Coil Brush (stainless, 18") | Clean condenser coil in tight bottom compartment | [View on Amazon](https://www.amazon.com/s?k=refrigeration+condenser+coil+cleaning+brush+18+inch&tag=errorcodefixes-20) |
 
 ## When to Call a Pro

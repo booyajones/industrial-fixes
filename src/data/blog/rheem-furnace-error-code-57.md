@@ -3,7 +3,7 @@ title: "Rheem Furnace Error Code 57 — Causes & Fix"
 description: "What Rheem furnace error code 57 means, why it trips, and how to diagnose and fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
 modDatetime: 2026-04-22T13:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -36,9 +36,9 @@ Rheem furnace **error code 57** indicates a **low-stage pressure switch fault** 
 
 | Part | Notes |
 |------|-------|
-| Low-stage pressure switch | [Amazon](https://www.amazon.com/s?k=Low-stage+pressure+switch&tag=errorcodefixes-20) \| Match to exact model; Rheem/Ruud switches are model-specific |
-| Pressure switch hose | [Amazon](https://www.amazon.com/s?k=Pressure+switch+hose&tag=errorcodefixes-20) \| Available at HVAC supply houses; measure ID/OD before ordering |
-| Inducer motor assembly | [Amazon](https://www.amazon.com/s?k=Inducer+motor+assembly&tag=errorcodefixes-20) \| Replace if motor is seized, humming, or capacitor has failed |
+| Low-stage pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match to exact model; Rheem/Ruud switches are model-specific |
+| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| Available at HVAC supply houses; measure ID/OD before ordering |
+| Inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Replace if motor is seized, humming, or capacitor has failed |
 | Condensate drain trap | [Amazon](https://www.amazon.com/s?k=Condensate+drain+trap&tag=errorcodefixes-20) \| Clean or replace if blocked, which causes pressure switch issues |
 ## When to Call a Pro
 

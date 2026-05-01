@@ -2,7 +2,7 @@
 title: "Best Furnace Igniter Replacement — Universal and Brand-Specific Picks"
 description: "Furnace not igniting? Here's how to identify your igniter type, the best universal replacements by brand, and how to swap one in 15 minutes."
 pubDatetime: 2026-04-24T23:57:00Z
-author: "errorcodefixes.com"
+author: "James Rutherford"
 slug: best-furnace-igniter-replacement
 featured: false
 tags:

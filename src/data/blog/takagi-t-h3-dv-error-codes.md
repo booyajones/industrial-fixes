@@ -2,7 +2,7 @@
 title: "Takagi T-H3-DV Tankless Water Heater Error Codes - Indoor Direct Vent Fault Guide"
 description: "Complete fault code guide for the Takagi T-H3-DV indoor condensing tankless water heater, covering error codes 11, 12, 14, 16, 31, 32, 33, 52, 61, 65, 72, 76, 91, 93, and 99. Includes diagnosis steps, replacement parts, and when to call a plumber."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "James Rutherford"
 tags:
   - hvac
   - error-codes
@@ -115,7 +115,7 @@ The T-H3-DV is a condensing unit, it extracts so much heat from combustion gases
 | [Takagi Igniter Electrode for T-Series](https://www.amazon.com/s?k=Takagi+tankless+water+heater+igniter+electrode&tag=errorcodefixes-20) | Replace if cracked or misfiring; code 11 won't clear with bad igniter | $20–$50 |
 | [Takagi Flame Rod Sensor](https://www.amazon.com/s?k=Takagi+flame+rod+sensor+tankless&tag=errorcodefixes-20) | Cracked porcelain insulator causes code 12 flameouts mid-cycle | $20–$45 |
 | [Condensate Neutralizer Refill Media](https://www.amazon.com/s?k=condensate+neutralizer+media+limestone+tankless&tag=errorcodefixes-20) | Required for code 93 maintenance reminder; replace every 1–2 years | $15–$35 |
-| [Takagi Combustion Fan Motor 100004490](https://www.amazon.com/s?k=Takagi+combustion+fan+motor+tankless+water+heater&tag=errorcodefixes-20) | Required for code 61 (fan fault) or code 99 (blocked flue/fan) | $80–$180 |
+| [Takagi Combustion Fan Motor 100004490](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) | Required for code 61 (fan fault) or code 99 (blocked flue/fan) | $80–$180 |
 | [Descaler Flush Kit for Tankless Water Heater](https://www.amazon.com/s?k=tankless+water+heater+descaler+flush+kit&tag=errorcodefixes-20) | Removes scale from heat exchanger causing codes 11, 16, reduced flow | $30–$60 |
 | [Manometer Gas Pressure Test Kit](https://www.amazon.com/s?k=manometer+gas+pressure+test+HVAC&tag=errorcodefixes-20) | Measure dynamic gas supply pressure to diagnose code 11 gas issues | $25–$65 |
 

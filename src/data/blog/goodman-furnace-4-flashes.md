@@ -3,7 +3,7 @@ title: "Goodman Furnace 4 Flashes — Open High Limit Switch Fix"
 description: "Goodman furnace 4 slow flashes means the high limit switch is open. Dirty filter causes 80% of cases. Step-by-step diagnosis and fix guide."
 pubDatetime: 2026-04-26T12:00:00Z
 modDatetime: 2026-04-26T12:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -62,11 +62,11 @@ The high limit switch is a safety device. When it opens, it's telling you the he
 
 | Part | Notes |
 |------|-------|
-| [Furnace Air Filter](https://www.amazon.com/s?k=furnace+air+filter+replacement&tag=errorcodefixes-20) | Check size printed on existing filter frame |
-| [Goodman High Limit Switch](https://www.amazon.com/s?k=goodman+furnace+high+limit+switch&tag=errorcodefixes-20) | Match temperature rating stamped on switch body |
-| [Furnace Blower Motor Capacitor](https://www.amazon.com/s?k=furnace+blower+motor+run+capacitor&tag=errorcodefixes-20) | Match µF and voltage rating exactly |
+| [Furnace Air Filter](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) | Check size printed on existing filter frame |
+| [Goodman High Limit Switch](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) | Match temperature rating stamped on switch body |
+| [Furnace Blower Motor Capacitor](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) | Match µF and voltage rating exactly |
 | [Goodman Furnace Blower Motor](https://www.amazon.com/s?k=goodman+furnace+blower+motor+replacement&tag=errorcodefixes-20) | Match HP, RPM, and voltage from motor label |
-| [Goodman Control Board](https://www.amazon.com/s?k=goodman+furnace+control+board&tag=errorcodefixes-20) | Last resort if board is misreading limit switch signal |
+| [Goodman Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Last resort if board is misreading limit switch signal |
 
 ## When to Call a Technician
 

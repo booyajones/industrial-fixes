@@ -3,7 +3,7 @@ title: "Mitsubishi FR Series VFD Fault E6 — Causes & Fix"
 description: "What Mitsubishi FR series VFD fault E6 means, why the brake transistor fault trips, and how to diagnose and fix it."
 pubDatetime: 2026-04-22T11:00:00Z
 modDatetime: 2026-04-22T11:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

@@ -3,7 +3,7 @@ title: "Aprilaire 700 Humidifier Error Codes — Complete Guide"
 description: "Aprilaire 700 humidifier error codes and fault diagnosis: LED indicators, no-humidification issues, solenoid faults, and fixes for the Aprilaire 700 whole-home humidifier."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

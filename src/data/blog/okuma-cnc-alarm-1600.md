@@ -3,7 +3,7 @@ title: "Okuma CNC Alarm 1600 — Communication Error Causes & Fix"
 description: "What Okuma CNC alarm 1600 means, why CNC to drive communication fails, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
 modDatetime: 2026-04-22T12:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

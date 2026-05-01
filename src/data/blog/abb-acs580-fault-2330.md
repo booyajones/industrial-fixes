@@ -3,7 +3,7 @@ title: "ABB ACS580 Fault 2330 Earth Leakage, Causes & Fix"
 description: "What ABB ACS580 Fault 2330 Earth Leakage means, why it trips, and how to isolate the motor, cable, or drive problem step by step."
 pubDatetime: 2026-04-24T23:50:00Z
 modDatetime: 2026-04-24T23:50:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

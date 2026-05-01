@@ -3,7 +3,7 @@ title: "Bradford White Error Code 7 — Pilot Out"
 description: "Bradford White error code 7 means the pilot went out or failed to light. Here's how to relight it, test the thermocouple, and fix recurring pilot outages."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -38,10 +38,10 @@ Bradford White status LED (on the gas valve body, visible through the front pane
 | Cause | Notes |
 |---|---|
 | [Pilot simply went out](https://www.amazon.com/s?k=Pilot+simply+went+out&tag=errorcodefixes-20) | Wind, draft, momentary gas interruption |
-| [Failed thermocouple](https://www.amazon.com/s?k=Failed+thermocouple&tag=errorcodefixes-20) | Most common — generates millivolts to hold gas valve open |
+| [Failed thermocouple](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) | Most common — generates millivolts to hold gas valve open |
 | [Gas supply interrupted](https://www.amazon.com/s?k=Gas+supply+interrupted&tag=errorcodefixes-20) | Check main shutoff and other appliances |
 | [Clogged pilot orifice](https://www.amazon.com/s?k=Clogged+pilot+orifice&tag=errorcodefixes-20) | Carbon or debris blocking tiny pilot orifice |
-| [Dirty thermocouple tip](https://www.amazon.com/s?k=Dirty+thermocouple+tip&tag=errorcodefixes-20) | Oxide coating prevents proper voltage |
+| [Dirty thermocouple tip](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) | Oxide coating prevents proper voltage |
 | [Draft/downdraft](https://www.amazon.com/s?k=Draft%2Fdowndraft&tag=errorcodefixes-20) | Improper venting or negative pressure in space |
 
 ## How to Relight the Pilot

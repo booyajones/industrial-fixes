@@ -3,7 +3,7 @@ title: "Carrier 30XA Commercial Chiller Fault Codes — Common Faults and Fixes"
 description: "Guide to Carrier 30XA air-cooled chiller fault codes, what each fault means, and how to diagnose and fix the most common problems."
 pubDatetime: 2026-04-22T14:00:00Z
 modDatetime: 2026-04-22T14:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -52,10 +52,10 @@ The Carrier 30XA is a scroll-compressor air-cooled chiller used in commercial bu
 
 | Part | Notes |
 |------|-------|
-| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Match voltage, HP, and frame size from motor nameplate |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match voltage, HP, and frame size from motor nameplate |
 | Condenser fan capacitor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+capacitor&tag=errorcodefixes-20) \| Test before replacing motor — capacitor is the more common failure |
 | Refrigerant charge | [Amazon](https://www.amazon.com/s?k=Refrigerant+charge&tag=errorcodefixes-20) \| R-410A on most 30XA models; confirm on data plate |
-| High/low pressure switches | [Amazon](https://www.amazon.com/s?k=High%2Flow+pressure+switches&tag=errorcodefixes-20) \| Replace if trips occur at incorrect pressures with confirmed refrigerant charge |
+| High/low pressure switches | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Replace if trips occur at incorrect pressures with confirmed refrigerant charge |
 | Compressor | [Amazon](https://www.amazon.com/s?k=Compressor&tag=errorcodefixes-20) \| Last resort — confirm all other causes before replacing a scroll compressor |
 ## When to Call a Pro
 

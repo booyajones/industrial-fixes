@@ -3,7 +3,7 @@ title: "Daikin U4 Error Code — Causes & Fix"
 description: "What Daikin U4 error code means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
 modDatetime: 2026-04-22T09:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

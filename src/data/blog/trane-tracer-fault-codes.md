@@ -3,7 +3,7 @@ title: "Trane Tracer BAS Fault Codes - Complete Guide"
 description: "Trane Tracer SC+, Tracer ES, and Tracer Summit BAS fault codes and alarms: controller faults, communication errors, and diagnostic steps."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -51,8 +51,8 @@ A compressor alarm in Tracer reflects a fault reported by the individual RTU or 
 | UCM controller | [Amazon](https://www.amazon.com/s?k=UCM+controller&tag=errorcodefixes-20) \| Replace on controller failure |
 | BACnet MS/TP cable | [Amazon](https://www.amazon.com/s?k=BACnet+MS%2FTP+cable&tag=errorcodefixes-20) \| Replace on communication fault |
 | Tracer SC+ controller | [Amazon](https://www.amazon.com/s?k=Tracer+SC%2B+controller&tag=errorcodefixes-20) \| Replace on hardware failure |
-| Differential pressure switch (fan) | [Amazon](https://www.amazon.com/s?k=Differential+pressure+switch+%28fan%29&tag=errorcodefixes-20) \| Replace on fan status fault |
-| OAT temperature sensor | [Amazon](https://www.amazon.com/s?k=OAT+temperature+sensor&tag=errorcodefixes-20) \| Replace on OAT fault |
+| Differential pressure switch (fan) | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Replace on fan status fault |
+| OAT temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Replace on OAT fault |
 ## When to Call a Pro
 Trane Tracer SC+ database configuration, BACnet programming, and UCM commissioning require Trane-trained controls technicians. Contact Trane Service for any Tracer SC+ database corruption or hardware replacement.
 

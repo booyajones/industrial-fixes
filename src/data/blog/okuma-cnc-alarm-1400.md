@@ -3,7 +3,7 @@ title: "Okuma CNC Alarm 1400 — Encoder Error"
 description: "What Okuma CNC alarm 1400 means, why an encoder error occurs, and how to diagnose and fix the feedback system."
 pubDatetime: 2026-04-22T11:00:00Z
 modDatetime: 2026-04-22T11:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

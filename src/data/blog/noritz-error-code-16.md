@@ -3,7 +3,7 @@ title: "Noritz Error Code 16 — Causes & Fix"
 description: "What Noritz error code 16 means, why over-temperature shutdown occurs, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
 modDatetime: 2026-04-22T10:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

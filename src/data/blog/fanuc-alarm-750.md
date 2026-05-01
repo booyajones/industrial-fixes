@@ -3,7 +3,7 @@ title: "Fanuc Alarm 750 — Causes & Fix"
 description: "What Fanuc CNC alarm 750 means, why the spindle serial link errors, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
 modDatetime: 2026-04-22T10:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

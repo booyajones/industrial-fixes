@@ -3,7 +3,7 @@ title: "Mazak Alarm 50 Servo — Causes & Fix"
 description: "What Mazak CNC alarm 50 servo drive fault means, how to diagnose it, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
 modDatetime: 2026-04-22T10:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

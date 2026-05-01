@@ -3,7 +3,7 @@ title: "Mitsubishi PUY Air Handler Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Mitsubishi PUY series air handler error codes, what each fault means, and step-by-step troubleshooting for the most common failures."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -62,9 +62,9 @@ The Mitsubishi PUY (Power Unit, Y-series) is a ducted air handler designed to wo
 |------|-------|
 | EEV coil | [Amazon](https://www.amazon.com/s?k=EEV+coil&tag=errorcodefixes-20) \| Removable; replace before refrigerant work |
 | Wired remote controller | [Amazon](https://www.amazon.com/s?k=Wired+remote+controller&tag=errorcodefixes-20) \| Test swap to isolate E0 |
-| Drain float switch | [Amazon](https://www.amazon.com/s?k=Drain+float+switch&tag=errorcodefixes-20) \| Check continuity; replace if stuck |
-| Indoor PCB | [Amazon](https://www.amazon.com/s?k=Indoor+PCB&tag=errorcodefixes-20) \| For E1 or persistent unexplained faults |
-| DC fan motor | [Amazon](https://www.amazon.com/s?k=DC+fan+motor&tag=errorcodefixes-20) \| For E3 with confirmed mechanical fault |
+| Drain float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?tag=errorcodefixes-20) \| Check continuity; replace if stuck |
+| Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For E1 or persistent unexplained faults |
+| DC fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| For E3 with confirmed mechanical fault |
 | Transmission cable | [Amazon](https://www.amazon.com/s?k=Transmission+cable&tag=errorcodefixes-20) \| Two-wire; replace entire run if damaged |
 ## When to Call a Pro
 

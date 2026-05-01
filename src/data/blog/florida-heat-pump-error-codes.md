@@ -3,7 +3,7 @@ title: "Florida Heat Pump Error Codes Guide"
 description: "Complete guide to Florida Heat Pump (FHP) error codes for water-to-air and water-to-water geothermal units. Fault codes, diagnostic steps, and fixes."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -70,10 +70,10 @@ FHP units manufactured after 2015 may show Bosch Thermotechnology branding. The 
 
 | Part | Notes |
 |---|---|
-| [High/low pressure switch](https://www.amazon.com/s?k=High%2Flow+pressure+switch&tag=errorcodefixes-20) | Match refrigerant and trip pressure |
-| [Temperature sensor](https://www.amazon.com/s?k=Temperature+sensor&tag=errorcodefixes-20) | 10K NTC thermistor — FHP part 02531-016 |
+| [High/low pressure switch](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | Match refrigerant and trip pressure |
+| [Temperature sensor](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | 10K NTC thermistor — FHP part 02531-016 |
 | [TXV assembly](https://www.amazon.com/s?k=TXV+assembly&tag=errorcodefixes-20) | Match capacity and refrigerant type |
-| [DDC control board](https://www.amazon.com/s?k=DDC+control+board&tag=errorcodefixes-20) | FHP/Bosch part — match model number |
+| [DDC control board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | FHP/Bosch part — match model number |
 | [ECA accessory board](https://www.amazon.com/s?k=ECA+accessory+board&tag=errorcodefixes-20) | For advanced controls and monitoring |
 
 > **Note:** FHP/Bosch geothermal units have a hard lockout after 3 consecutive fault trips. After correcting the root cause, reset via the DDC controller or by cycling power at the breaker for 60 seconds.

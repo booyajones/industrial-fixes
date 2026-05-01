@@ -3,7 +3,7 @@ title: "Sullivan-Palatek Air Compressor Fault Codes — Complete Guide"
 description: "Sullivan-Palatek air compressor fault codes and alarms: causes, troubleshooting steps, and repair tips for rotary screw and reciprocating compressors."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -44,8 +44,8 @@ Check oil level and the oil filter condition. A clogged filter on a cold start w
 |------|-------|
 | Oil filter | [Amazon](https://www.amazon.com/s?k=Oil+filter&tag=errorcodefixes-20) \| Replace at every service interval |
 | Oil separator element | [Amazon](https://www.amazon.com/s?k=Oil+separator+element&tag=errorcodefixes-20) \| Replace when differential pressure is high |
-| Discharge temperature sensor | [Amazon](https://www.amazon.com/s?k=Discharge+temperature+sensor&tag=errorcodefixes-20) \| Inspect on repeated high-temp faults |
-| Cooling fan motor | [Amazon](https://www.amazon.com/s?k=Cooling+fan+motor&tag=errorcodefixes-20) \| Check on high-temp shutdowns |
+| Discharge temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Inspect on repeated high-temp faults |
+| Cooling fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Check on high-temp shutdowns |
 ## Jump to Fix
 
 - **High temp fault** → Check oil level → Clean cooler → Verify fan operation

@@ -3,7 +3,7 @@ title: "Scotsman Ice Machine Complete Troubleshooting Guide — All Error Codes"
 description: "Complete Scotsman ice machine troubleshooting guide for HC, HID, Prodigy, and Prodigy+ series: all error codes, blink codes, causes, and fix steps."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -67,10 +67,10 @@ Prodigy+ models have an automatic cleaning cycle. When "Clean" appears, the mach
 
 | Part | Notes |
 |------|-------|
-| Water inlet valve | [Amazon](https://www.amazon.com/s?k=Water+inlet+valve&tag=errorcodefixes-20) \| Inspect on E5 faults |
+| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| Inspect on E5 faults |
 | Harvest heater | [Amazon](https://www.amazon.com/s?k=Harvest+heater&tag=errorcodefixes-20) \| Test on E3 faults |
 | Thermistor (bin or evap) | [Amazon](https://www.amazon.com/s?k=Thermistor+%28bin+or+evap%29&tag=errorcodefixes-20) \| Replace on E8 sensor faults |
-| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Replace on high temp faults |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Replace on high temp faults |
 ## Jump to Fix
 
 - **E1 long freeze** → Clean condenser → Check refrigerant → Inspect evaporator scale

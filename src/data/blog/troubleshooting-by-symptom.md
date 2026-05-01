@@ -3,7 +3,7 @@ title: "Industrial Equipment Troubleshooting by Symptom"
 description: "Industrial equipment problems by symptom — find the error code and fix for your specific situation."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

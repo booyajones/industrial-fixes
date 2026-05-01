@@ -3,7 +3,7 @@ title: "Fanuc Alarm 800: APC Alarm — Causes and Fix"
 description: "Fanuc Alarm 800 APC alarm: absolute pulse coder fault causes, diagnostic steps, and reset procedures for Fanuc 0i, 16i, 18i, 30i, and 31i systems."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

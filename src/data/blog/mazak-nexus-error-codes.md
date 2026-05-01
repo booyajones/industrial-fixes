@@ -3,7 +3,7 @@ title: "Mazak Nexus Series Error Codes: Complete Guide"
 description: "Mazak Nexus CNC error codes and alarm diagnostics. Alarm categories, causes, and technician-level troubleshooting for Nexus turning and machining centers."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -56,7 +56,7 @@ Check hydraulic pressure (minimum 900 PSI for standard chucks). Verify workpiece
 | Servo pack | [Amazon](https://www.amazon.com/s?k=Servo+pack&tag=errorcodefixes-20) \| Match axis and current rating |
 | Encoder battery | [Amazon](https://www.amazon.com/s?k=Encoder+battery&tag=errorcodefixes-20) \| Absolute encoder backup |
 | ATC proximity switches | [Amazon](https://www.amazon.com/s?k=ATC+proximity+switches&tag=errorcodefixes-20) \| Check position in sequence diagram |
-| Hydraulic pressure switch | [Amazon](https://www.amazon.com/s?k=Hydraulic+pressure+switch&tag=errorcodefixes-20) \| Chuck and tailstock circuits |
+| Hydraulic pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Chuck and tailstock circuits |
 | Coolant pump | [Amazon](https://www.amazon.com/s?k=Coolant+pump&tag=errorcodefixes-20) \| Check impeller and motor amps |
 > **Pro tip:** Mazak Nexus stores alarm history with timestamps in the ALARM LOG menu. Access via MAINTENANCE ΓåÆ ALARM LOG. Historical data shows if an alarm is intermittent (temperature-related) or consistent (mechanical or electrical failure).
 

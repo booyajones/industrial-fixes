@@ -1,6 +1,6 @@
 ---
 title: "Hoshizaki Ice Machine E8 Error Code — Low-Side Pressure Switch Fault Fix"
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 pubDatetime: 2026-04-26T17:00:00Z
 modDatetime: 2026-04-26T17:00:00Z
 slug: hoshizaki-e8-low-side-pressure
@@ -51,7 +51,7 @@ E8 is a more serious fault than most maintenance-related errors because low suct
 
 ## Parts You May Need
 
-- [Hoshizaki Low Pressure Switch Replacement](https://www.amazon.com/s?k=Hoshizaki+low+pressure+switch+ice+machine&tag=errorcodefixes-20)
+- [Hoshizaki Low Pressure Switch Replacement](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20)
 - [Hoshizaki Water Distribution Tube](https://www.amazon.com/s?k=Hoshizaki+water+distribution+tube+ice+machine&tag=errorcodefixes-20)
 - [Hoshizaki Water Filter Replacement](https://www.amazon.com/s?k=Hoshizaki+ice+machine+water+filter&tag=errorcodefixes-20)
 - [Refrigerant Leak Detector Electronic](https://www.amazon.com/s?k=electronic+refrigerant+leak+detector+commercial&tag=errorcodefixes-20)

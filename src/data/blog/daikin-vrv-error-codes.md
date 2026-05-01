@@ -3,7 +3,7 @@ title: "Daikin VRV System Error Codes: Complete Guide"
 description: "Complete guide to Daikin VRV (Variable Refrigerant Volume) system error codes. Covers U, E, A, C, F, and H-series codes with causes and technician fixes."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

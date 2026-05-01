@@ -3,7 +3,7 @@ title: "RGF REME Halo LED Fault Codes — Complete Guide"
 description: "RGF REME Halo LED fault codes: all indicator lights, error states, cell replacement guidance, and troubleshooting for the REME Halo LED air purifier."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

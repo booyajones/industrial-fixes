@@ -3,7 +3,7 @@ title: "Vickers Hydraulics Fault Codes - Complete Guide"
 description: "Vickers (Eaton) hydraulic system fault codes for proportional valves and hydraulic power units: causes, diagnostic steps, and parts."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

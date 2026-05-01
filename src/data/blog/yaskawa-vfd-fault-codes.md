@@ -3,7 +3,7 @@ title: "Yaskawa VFD Fault Codes — Complete Reference (V1000, A1000, GA700)"
 description: "Yaskawa VFD fault codes: all major faults for V1000, A1000, J1000, and GA700 drives including OC, OV, UV, GF, and OH faults."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

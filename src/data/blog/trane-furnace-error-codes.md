@@ -3,7 +3,7 @@ title: "Trane Furnace Error Codes — Complete Flash Code Guide"
 description: "Trane furnace error codes: all LED flash codes explained with causes and repair steps for XR, XC, and S-Series furnaces."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

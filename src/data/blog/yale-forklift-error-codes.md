@@ -3,7 +3,7 @@ title: "Yale Forklift Error Codes - Complete Guide"
 description: "Yale forklift error codes for ERC, GDP, and GLP series: fault codes, causes, diagnostic steps, and repair guidance."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

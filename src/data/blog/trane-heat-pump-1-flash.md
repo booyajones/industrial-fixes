@@ -3,7 +3,7 @@ title: "Trane Heat Pump 1 Flash Error Code — Causes & Fix"
 description: "What Trane heat pump 1 flash error code means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
 modDatetime: 2026-04-22T09:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -36,8 +36,8 @@ A single LED flash on a Trane heat pump control board indicates a system lockout
 
 | Part | Notes |
 |------|-------|
-| Outdoor fan motor | [Amazon](https://www.amazon.com/s?k=Outdoor+fan+motor&tag=errorcodefixes-20) \| Match HP, RPM, rotation direction, and shaft diameter |
-| Defrost control board | [Amazon](https://www.amazon.com/s?k=Defrost+control+board&tag=errorcodefixes-20) \| Replace if defrost times out or never initiates |
+| Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match HP, RPM, rotation direction, and shaft diameter |
+| Defrost control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace if defrost times out or never initiates |
 | Defrost thermostat (sensor) | [Amazon](https://www.amazon.com/s?k=Defrost+thermostat+%28sensor%29&tag=errorcodefixes-20) \| Clip-type sensor on outdoor coil; fails open or closed |
 ## When to Call a Pro
 

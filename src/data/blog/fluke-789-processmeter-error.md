@@ -3,7 +3,7 @@ title: "Fluke 789 ProcessMeter Error Codes: Complete Guide"
 description: "Fluke 789 ProcessMeter error codes and display messages. Error causes and technician-level troubleshooting for loop calibration and process diagnostics."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

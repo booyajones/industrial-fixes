@@ -3,7 +3,7 @@ title: "Emerson Sensi Thermostat Error Codes — Complete Guide"
 description: "Emerson Sensi thermostat error codes explained: E1 through E9, Wi-Fi connection issues, and offline alerts. Fix common Sensi errors fast."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

@@ -3,7 +3,7 @@ title: "Mitsubishi Elevator Fault Codes - Complete Guide"
 description: "Mitsubishi elevator fault codes for NEXIEZ, ELENESSA, and MELCO systems: common alarms, causes, and diagnostic steps."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

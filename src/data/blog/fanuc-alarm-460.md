@@ -3,7 +3,7 @@ title: "Fanuc Alarm 460 — Spindle Overload"
 description: "Fanuc Alarm 460 means spindle load exceeded the allowable limit. Learn what causes Fanuc spindle overload alarms and how to fix them."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

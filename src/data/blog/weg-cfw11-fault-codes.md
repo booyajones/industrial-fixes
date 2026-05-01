@@ -2,7 +2,7 @@
 title: "WEG CFW11 VFD Fault Codes — What They Mean and How to Fix Them - What It Means and How to Fix It"
 description: "WEG CFW11 drives use F-codes for trips and A-codes for warnings across power, current, temperature, feedback, and communication problems. This guide shows how to work through the full F001 to F090 and A001 to A090 ranges without guessing at the drive or the motor."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Dana Kowalski"
 tags:
   - hvac
   - error-codes

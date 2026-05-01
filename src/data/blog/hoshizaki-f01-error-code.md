@@ -3,7 +3,7 @@ title: "Hoshizaki F01 Error Code — Causes & Fix"
 description: "What Hoshizaki F01 error code means, why abnormal ice making operation triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
 modDatetime: 2026-04-22T12:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

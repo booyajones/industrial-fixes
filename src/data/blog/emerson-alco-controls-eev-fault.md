@@ -3,7 +3,7 @@ title: "Emerson/Alco Controls EEV Fault Codes — Troubleshooting Guide"
 description: "Emerson and Alco Controls electronic expansion valve fault codes: controller alarms, superheat problems, stepper valve faults, and repair steps."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

@@ -3,7 +3,7 @@ title: "Mitsubishi U7 Error Code — Refrigerant System Fault"
 description: "Mitsubishi mini-split Error Code U7 means an outdoor unit fan motor or inverter fault. Learn the causes, how to diagnose, and how to fix Mitsubishi U7."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -79,9 +79,9 @@ Check the exact definition in your model's service manual. Both codes indicate a
 
 | Part | Notes |
 |---|---|
-| Outdoor fan motor | [Amazon](https://www.amazon.com/s?k=Outdoor+fan+motor&tag=errorcodefixes-20) \| Match HP, RPM, blade pitch, and rotation |
-| Run capacitor | [Amazon](https://www.amazon.com/s?k=Run+capacitor&tag=errorcodefixes-20) \| Match µF and voltage rating exactly |
-| Outdoor PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB&tag=errorcodefixes-20) \| Model-specific — match firmware revision if applicable |
+| Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match HP, RPM, blade pitch, and rotation |
+| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Match µF and voltage rating exactly |
+| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Model-specific — match firmware revision if applicable |
 ## Reset Procedure
 
 1. Correct the identified fault

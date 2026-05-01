@@ -3,7 +3,7 @@ title: "Follett Ice Machine Error Code E3 — Causes & Fix"
 description: "What Follett Ice Machine E3 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
 modDatetime: 2026-04-22T15:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

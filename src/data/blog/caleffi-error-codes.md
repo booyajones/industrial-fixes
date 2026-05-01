@@ -3,7 +3,7 @@ title: "Caleffi Hydronic System Fault Codes — Complete Guide"
 description: "Caleffi hydronic system fault codes for zone valves, mixing valves, electronic controllers, and SEPcal separators: fault indicators, failure modes, and fixes."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

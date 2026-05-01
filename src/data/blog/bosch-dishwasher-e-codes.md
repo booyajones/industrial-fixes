@@ -3,7 +3,7 @@ title: "Bosch Commercial Dishwasher E-Codes — Guide"
 description: "Bosch commercial dishwasher E-codes: what each means and how to fix it."
 pubDatetime: 2026-04-22T23:00:00Z
 modDatetime: 2026-04-22T23:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -45,7 +45,7 @@ Bosch commercial dishwashers (undercounter, door-type, and conveyor models) disp
 |------|-------|
 | Booster heater element | [Amazon](https://www.amazon.com/s?k=Booster+heater+element&tag=errorcodefixes-20) \| For E3/E6 temperature faults |
 | Wash pump motor | [Amazon](https://www.amazon.com/s?k=Wash+pump+motor&tag=errorcodefixes-20) \| For E5 — most urgent repair |
-| Water inlet valve | [Amazon](https://www.amazon.com/s?k=Water+inlet+valve&tag=errorcodefixes-20) \| For E1 |
+| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| For E1 |
 | Drain pump | [Amazon](https://www.amazon.com/s?k=Drain+pump&tag=errorcodefixes-20) \| For E2/E4 |
 ## When to Call a Pro
 

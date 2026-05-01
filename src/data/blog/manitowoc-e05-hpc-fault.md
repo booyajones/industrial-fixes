@@ -3,7 +3,7 @@ title: "Manitowoc Ice Machine E05 HPC Fault: High Pressure Cutout Causes and Fix
 description: "Manitowoc ice machine E05 HPC fault means a high pressure cutout. Learn the fastest fixes for Indigo, Q Series, and S Series machines."
 pubDatetime: 2026-04-26T14:00:00Z
 modDatetime: 2026-04-26T14:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 slug: manitowoc-e05-hpc-fault
 featured: false
 draft: false
@@ -65,7 +65,7 @@ If E05 returns after those fixes, stop throwing parts at it. At that point the p
 ## Parts You May Need
 
 - [Fan cycle control switch](https://www.amazon.com/s?k=Manitowoc+fan+cycle+control+switch&tag=errorcodefixes-20)
-- [Condenser fan motor](https://www.amazon.com/s?k=Manitowoc+condenser+fan+motor&tag=errorcodefixes-20)
+- [Condenser fan motor](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20)
 - [Condenser coil cleaning kit](https://www.amazon.com/s?k=condenser+coil+cleaning+kit&tag=errorcodefixes-20)
 - [Fin comb coil brush](https://www.amazon.com/s?k=fin+comb+coil+brush&tag=errorcodefixes-20)
 - [HVAC fin comb set](https://www.amazon.com/s?k=HVAC+fin+comb+set&tag=errorcodefixes-20)

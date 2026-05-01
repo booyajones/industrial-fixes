@@ -3,7 +3,7 @@ title: "Rheem RGPS Furnace Error Codes — Flash Code Diagnostic Guide"
 description: "Complete guide to Rheem RGPS series furnace error codes and flash sequences, covering pressure switch, ignition, limit, and rollout faults with step-by-step fixes."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -58,12 +58,12 @@ The Rheem RGPS is a high-efficiency (96% AFUE) single-stage gas furnace in the C
 
 | Part | Notes |
 |------|-------|
-| Hot surface ignitor | [Amazon](https://www.amazon.com/s?k=Hot+surface+ignitor&tag=errorcodefixes-20) \| 120V silicon nitride; Rheem-specific part |
-| Condensate trap | [Amazon](https://www.amazon.com/s?k=Condensate+trap&tag=errorcodefixes-20) \| Inside cabinet; replace if cracked or heavily scaled |
-| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Two on two-stage RGPS; confirm part numbers |
-| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Clean first; replace if damaged |
-| Inducer motor assembly | [Amazon](https://www.amazon.com/s?k=Inducer+motor+assembly&tag=errorcodefixes-20) \| With mounting plate; common on older RGPS |
-| Auxiliary limit switch | [Amazon](https://www.amazon.com/s?k=Auxiliary+limit+switch&tag=errorcodefixes-20) \| Located on secondary heat exchanger |
+| Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| 120V silicon nitride; Rheem-specific part |
+| Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) \| Inside cabinet; replace if cracked or heavily scaled |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Two on two-stage RGPS; confirm part numbers |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Clean first; replace if damaged |
+| Inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| With mounting plate; common on older RGPS |
+| Auxiliary limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Located on secondary heat exchanger |
 ## When to Call a Pro
 
 A cracked primary or secondary heat exchanger is a carbon monoxide risk. If the rollout switch trips, do not reset more than once without professional heat exchanger inspection. Also, any smell of gas near the furnace requires immediate shutdown, evacuation, and a call to your gas utility.

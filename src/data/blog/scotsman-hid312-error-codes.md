@@ -3,7 +3,7 @@ title: "Scotsman HID312 Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Scotsman HID312 ice machine error codes, diagnostic display codes, common fault causes, and step-by-step repair procedures."
 pubDatetime: 2026-04-22T23:00:00Z
 modDatetime: 2026-04-22T23:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -57,8 +57,8 @@ The Scotsman HID312 is a self-contained cube ice machine and dispenser producing
 | Part | Notes |
 |---|---|
 | Water curtain switch | [Amazon](https://www.amazon.com/s?k=Water+curtain+switch&tag=errorcodefixes-20) \| Scotsman-specific micro-switch |
-| Float switch / water level sensor | [Amazon](https://www.amazon.com/s?k=Float+switch+%2F+water+level+sensor&tag=errorcodefixes-20) \| Check for scale before replacing |
-| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Match HP and rotation direction |
+| Float switch / water level sensor | [Amazon](https://www.amazon.com/dp/B005D4RFEM?tag=errorcodefixes-20) \| Check for scale before replacing |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match HP and rotation direction |
 | Thermistor sensors | [Amazon](https://www.amazon.com/s?k=Thermistor+sensors&tag=errorcodefixes-20) \| Freeze and harvest sensors; sold as a kit |
 | Dispenser auger motor | [Amazon](https://www.amazon.com/s?k=Dispenser+auger+motor&tag=errorcodefixes-20) \| Check for ice jam before ordering |
 | SmartBoard | [Amazon](https://www.amazon.com/s?k=SmartBoard&tag=errorcodefixes-20) \| For Code 13; verify power supply first |

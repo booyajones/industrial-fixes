@@ -3,7 +3,7 @@ title: "Midmark Autoclave Fault Codes - Complete Guide"
 description: "Midmark M11, M9, Ritter M11, and Ultra-Clean autoclave fault codes: error codes, causes, and troubleshooting steps."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -51,7 +51,7 @@ If the autoclave doesn't vent chamber pressure within the expected time after st
 
 | Part | Notes |
 |------|-------|
-| Door gasket (M11 silicone) | [Amazon](https://www.amazon.com/s?k=Door+gasket+%28M11+silicone%29&tag=errorcodefixes-20) \| Replace on E001 / poor sealing |
+| Door gasket (M11 silicone) | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?tag=errorcodefixes-20) \| Replace on E001 / poor sealing |
 | Heating element | [Amazon](https://www.amazon.com/s?k=Heating+element&tag=errorcodefixes-20) \| Replace on E002 / slow heat |
 | Thermistor | [Amazon](https://www.amazon.com/s?k=Thermistor&tag=errorcodefixes-20) \| Replace on E004 |
 | Water level sensor | [Amazon](https://www.amazon.com/s?k=Water+level+sensor&tag=errorcodefixes-20) \| Replace on false E007 |

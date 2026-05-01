@@ -3,7 +3,7 @@ title: "ABB ACS550 Complete Fault Code Guide — All Faults and Fixes"
 description: "Complete fault code guide for the ABB ACS550 variable frequency drive, covering all fault and alarm codes, causes, and step-by-step troubleshooting."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

@@ -3,7 +3,7 @@ title: "Scotsman Ice Machine Error Code 2 — Causes & Fix"
 description: "What Scotsman ice machine error code 2 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
 modDatetime: 2026-04-22T09:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -36,7 +36,7 @@ Scotsman error code 2 indicates a long harvest cycle. The control board expected
 
 | Part | Notes |
 |------|-------|
-| Hot gas valve coil or valve assembly | [Amazon](https://www.amazon.com/s?k=Hot+gas+valve+coil+or+valve+assembly&tag=errorcodefixes-20) \| Replace if the valve doesn't energize or shift cleanly in harvest |
+| Hot gas valve coil or valve assembly | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Replace if the valve doesn't energize or shift cleanly in harvest |
 | Curtain or curtain switch | [Amazon](https://www.amazon.com/s?k=Curtain+or+curtain+switch&tag=errorcodefixes-20) \| Replace if the curtain drags or the switch input is erratic |
 | Nickel-safe ice machine cleaner | [Amazon](https://www.amazon.com/s?k=Nickel-safe+ice+machine+cleaner&tag=errorcodefixes-20) \| Required if scale is causing the slab to stick to the evaporator |
 ## When to Call a Pro

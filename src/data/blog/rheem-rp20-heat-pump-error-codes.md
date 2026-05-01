@@ -2,7 +2,7 @@
 title: "Rheem Prestige RP20 Heat Pump Error Codes - Full Fault Code Reference"
 description: "Complete guide to Rheem Prestige RP20 variable-speed heat pump error codes, including LED flash codes, communicating thermostat faults, and refrigerant fault diagnostics. Learn what each fault means and how to fix it."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Dana Kowalski"
 tags:
   - hvac
   - error-codes
@@ -130,10 +130,10 @@ If you use a communicating thermostat, you'll see alphanumeric codes:
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
-| [Rheem RP20 Defrost Control Board](https://www.amazon.com/s?k=Rheem+heat+pump+defrost+control+board&tag=errorcodefixes-20) | Controls defrost cycles; fails with 4-flash fault | $85–$150 |
-| [Heat Pump Outdoor Ambient Temperature Sensor](https://www.amazon.com/s?k=heat+pump+outdoor+temperature+sensor+thermistor&tag=errorcodefixes-20) | Triggers 5-flash fault when failed; inexpensive fix | $15–$40 |
+| [Rheem RP20 Defrost Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Controls defrost cycles; fails with 4-flash fault | $85–$150 |
+| [Heat Pump Outdoor Ambient Temperature Sensor](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | Triggers 5-flash fault when failed; inexpensive fix | $15–$40 |
 | [Reversing Valve Solenoid Coil](https://www.amazon.com/s?k=heat+pump+reversing+valve+solenoid+coil&tag=errorcodefixes-20) | Replaces burned-out coil on 8-flash faults | $20–$55 |
-| [HVAC Multimeter with Temperature Probe](https://www.amazon.com/s?k=HVAC+multimeter+temperature+clamp+meter&tag=errorcodefixes-20) | Essential for testing sensors, voltage, and continuity | $35–$120 |
+| [HVAC Multimeter with Temperature Probe](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) | Essential for testing sensors, voltage, and continuity | $35–$120 |
 | [18 AWG 2-Conductor Communication Wire](https://www.amazon.com/s?k=18+AWG+2+conductor+thermostat+wire&tag=errorcodefixes-20) | Fixes communication loss faults between indoor/outdoor | $15–$40 |
 
 ---

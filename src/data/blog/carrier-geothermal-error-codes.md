@@ -3,7 +3,7 @@ title: "Carrier Geothermal Heat Pump Error Codes Guide"
 description: "Complete guide to Carrier geothermal heat pump error codes. Covers Infinity and Performance series fault codes, diagnostic steps, and technician fixes."
 pubDatetime: 2026-04-22T17:00:00Z
 modDatetime: 2026-04-22T17:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -74,12 +74,12 @@ ECM (variable-speed) motors fail as a module or the motor itself. Test:
 
 | Part | Notes |
 |---|---|
-| [Low/high pressure switch](https://www.amazon.com/s?k=Low%2Fhigh+pressure+switch&tag=errorcodefixes-20) | Match refrigerant type and trip pressure |
+| [Low/high pressure switch](https://www.amazon.com/dp/B013IHQ8CU?tag=errorcodefixes-20) | Match refrigerant type and trip pressure |
 | [TXV assembly](https://www.amazon.com/s?k=TXV+assembly&tag=errorcodefixes-20) | Model-specific — match refrigerant and capacity |
 | [ECM blower motor](https://www.amazon.com/s?k=ECM+blower+motor&tag=errorcodefixes-20) | Match HP and model — Carrier GHP specific |
 | [Loop pump](https://www.amazon.com/s?k=Loop+pump&tag=errorcodefixes-20) | Grundfos or Bell & Gossett — match GPM |
 | [Freeze stat](https://www.amazon.com/s?k=Freeze+stat&tag=errorcodefixes-20) | Check setpoint — typically 30°F |
-| [Water temperature sensor](https://www.amazon.com/s?k=Water+temperature+sensor&tag=errorcodefixes-20) | 10K thermistor — check resistance curve |
+| [Water temperature sensor](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | 10K thermistor — check resistance curve |
 
 > **Pro tip:** Carrier Infinity geothermal units store fault history in the Infinity control. Navigate to System > Advanced > Fault History to view timestamped fault records.
 

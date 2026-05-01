@@ -3,7 +3,7 @@ title: "Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix"
 description: "What Mitsubishi City Multi P8 and E6 commercial VRF error codes mean, why they trip, and how to diagnose and fix them."
 pubDatetime: 2026-04-22T13:00:00Z
 modDatetime: 2026-04-22T13:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

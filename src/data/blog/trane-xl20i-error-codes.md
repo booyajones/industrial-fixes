@@ -3,7 +3,7 @@ title: "Trane XL20i Variable Speed Error Codes — Complete Guide"
 description: "Trane XL20i variable speed heat pump error codes: all fault codes for the XL20i inverter-driven system with causes and technician-level fixes."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

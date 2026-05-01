@@ -3,7 +3,7 @@ title: "Mitsubishi Mini Split U4 Error Code — Causes & Fix"
 description: "What Mitsubishi U4 means on mini split systems, why the outdoor thermistor faults, and how to diagnose and fix it."
 pubDatetime: 2026-04-22T13:00:00Z
 modDatetime: 2026-04-22T13:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

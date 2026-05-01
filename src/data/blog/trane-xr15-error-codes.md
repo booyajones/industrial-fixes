@@ -3,7 +3,7 @@ title: "Trane XR15 Heat Pump Error Codes — Complete Guide"
 description: "Trane XR15 heat pump error codes: all fault codes, flash sequences, causes, and fixes for the Trane XR15 two-stage heat pump."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

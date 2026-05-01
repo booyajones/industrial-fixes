@@ -3,7 +3,7 @@ title: "ABB VFD Fault 5010 — Causes & Fix"
 description: "What ABB VFD fault 5010 means, why Safe Torque Off activates, and how to fix it."
 pubDatetime: 2026-04-22T10:00:00Z
 modDatetime: 2026-04-22T10:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

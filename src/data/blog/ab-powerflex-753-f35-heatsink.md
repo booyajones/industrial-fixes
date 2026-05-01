@@ -3,7 +3,7 @@ title: "Allen Bradley PowerFlex 753 F35 Fault: Heatsink Overtemp Causes and Fix"
 description: "Allen Bradley PowerFlex 753 F35 fault means heatsink overtemperature. Learn how to clean the fan path and stop repeat overtemp trips."
 pubDatetime: 2026-04-26T14:00:00Z
 modDatetime: 2026-04-26T14:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 slug: ab-powerflex-753-f35-heatsink
 featured: false
 draft: false

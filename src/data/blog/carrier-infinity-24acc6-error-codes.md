@@ -3,7 +3,7 @@ title: "Carrier Infinity Series 24ACC6 Error Codes — Fault Code Diagnostic Gui
 description: "Complete guide to Carrier Infinity 24ACC6 air conditioner error codes, flash sequences, fault causes, and step-by-step fixes for the most common failures."
 pubDatetime: 2026-04-22T23:00:00Z
 modDatetime: 2026-04-22T23:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -56,12 +56,12 @@ The Carrier Infinity 24ACC6 is a high-efficiency single-stage central air condit
 
 | Part | Notes |
 |---|---|
-| Run capacitor | [Amazon](https://www.amazon.com/s?k=Run+capacitor&tag=errorcodefixes-20) \| Dual run capacitor for compressor and fan motor |
-| Contactor | [Amazon](https://www.amazon.com/s?k=Contactor&tag=errorcodefixes-20) \| Check for pitted or welded contacts |
-| Low-pressure switch | [Amazon](https://www.amazon.com/s?k=Low-pressure+switch&tag=errorcodefixes-20) \| Replace if Code 3 persists with correct charge |
+| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Dual run capacitor for compressor and fan motor |
+| Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Check for pitted or welded contacts |
+| Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Replace if Code 3 persists with correct charge |
 | Outdoor coil thermistor | [Amazon](https://www.amazon.com/s?k=Outdoor+coil+thermistor&tag=errorcodefixes-20) \| For Code 11; inexpensive OEM part |
-| Infinity control board | [Amazon](https://www.amazon.com/s?k=Infinity+control+board&tag=errorcodefixes-20) \| For persistent Code 5 or communication faults |
-| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Confirm correct rotation before condemning |
+| Infinity control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For persistent Code 5 or communication faults |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Confirm correct rotation before condemning |
 ## When to Call a Pro
 
 Refrigerant work requires EPA 608 certification. Infinity system communication faults can require Carrier Service Advisor software (ICP/SA) to perform advanced diagnostics — this is a dealer-level tool not available to the general public. If the Infinity thermostat is showing fault codes not covered in the standard code list, contact a Carrier factory-authorized dealer.

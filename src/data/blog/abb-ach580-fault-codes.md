@@ -2,7 +2,7 @@
 title: "ABB ACH580 HVAC VFD Fault Codes — Full Diagnostic Guide - What It Means and How to Fix It"
 description: "ABB ACH580 drives use numeric fault families to flag power, motor, temperature, fieldbus, and configuration problems in HVAC applications. This guide explains the key 2001 to 7999 fault ranges, the common trips technicians actually see, and the reset procedure that makes sense after a real diagnosis."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Dana Kowalski"
 tags:
   - hvac
   - error-codes

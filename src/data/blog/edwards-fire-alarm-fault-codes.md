@@ -3,7 +3,7 @@ title: "Edwards EST Fire Alarm Fault Codes — EST3 / iO64 Guide"
 description: "Edwards EST fire alarm system fault codes for EST3, iO64, and iO500 panels: trouble conditions, device failures, communication errors, and troubleshooting."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

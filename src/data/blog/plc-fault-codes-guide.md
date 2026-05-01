@@ -3,7 +3,7 @@ title: "PLC Fault Codes: Allen Bradley, Siemens, Omron Guide"
 description: "Master reference for PLC fault codes, controller errors, and common troubleshooting patterns across Allen-Bradley, Siemens, Omron, and other major automation platforms."
 pubDatetime: 2026-04-22T23:00:00Z
 modDatetime: 2026-04-22T23:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

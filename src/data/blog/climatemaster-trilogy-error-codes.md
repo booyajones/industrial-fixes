@@ -3,7 +3,7 @@ title: "ClimateMaster Trilogy Geothermal Error Codes: Complete Guide"
 description: "ClimateMaster Trilogy geothermal heat pump error codes. Trilogy Q fault codes, causes, and technician-level troubleshooting procedures."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -52,7 +52,7 @@ ClimateMaster uses a flow switch that opens on low GPM. Verify loop pump operati
 | Part | Notes |
 |------|-------|
 | ClimateTalk thermostat | [Amazon](https://www.amazon.com/s?k=ClimateTalk+thermostat&tag=errorcodefixes-20) \| Required for fault code display |
-| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| Match unit model and revision |
+| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Match unit model and revision |
 | Flow center pump | [Amazon](https://www.amazon.com/s?k=Flow+center+pump&tag=errorcodefixes-20) \| Match GPM requirement |
 | TXV | [Amazon](https://www.amazon.com/s?k=TXV&tag=errorcodefixes-20) \| Match refrigerant and model |
 | Reversing valve | [Amazon](https://www.amazon.com/s?k=Reversing+valve&tag=errorcodefixes-20) \| Match model spec |

@@ -142,9 +142,9 @@ Some Turbo Air controllers display a defrost indicator for an extended period wh
 | Cabinet temperature sensor | Fixes many E1 faults | $18–$40 | [Amazon](https://www.amazon.com/s?k=Turbo+Air+cabinet+sensor+MSR-49N&tag=errorcodefixes-20) \| Parts Town |
 | Evaporator sensor | Common E2 repair | $18–$40 | [Amazon](https://www.amazon.com/s?k=Turbo+Air+evaporator+sensor+MSR-49N&tag=errorcodefixes-20) \| Parts Town |
 | Condenser sensor | Used on models with E3 logic | $18–$40 | [Amazon](https://www.amazon.com/s?k=Turbo+Air+condenser+sensor+MSR-49N&tag=errorcodefixes-20) \| Parts Town |
-| Evaporator fan motor | Needed when airflow drops or icing starts | $55–$130 | [Amazon](https://www.amazon.com/s?k=Turbo+Air+MSR-49N+evaporator+fan+motor&tag=errorcodefixes-20) \| Parts Town |
-| Condenser fan motor | High value fix for warm box complaints | $60–$140 | [Amazon](https://www.amazon.com/s?k=Turbo+Air+MSR-49N+condenser+fan+motor&tag=errorcodefixes-20) \| Parts Town |
-| Door gasket | Replace torn or shrunken gaskets fast | $50–$95 | [Amazon](https://www.amazon.com/s?k=Turbo+Air+MSR-49N+door+gasket&tag=errorcodefixes-20) \| Parts Town |
+| Evaporator fan motor | Needed when airflow drops or icing starts | $55–$130 | [Amazon](https://www.amazon.com/dp/B01N0J3ZEH?tag=errorcodefixes-20) \| Parts Town |
+| Condenser fan motor | High value fix for warm box complaints | $60–$140 | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Parts Town |
+| Door gasket | Replace torn or shrunken gaskets fast | $50–$95 | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?tag=errorcodefixes-20) \| Parts Town |
 | Electronic controller | Match the exact model and revision | $120–$240 | [Amazon](https://www.amazon.com/s?k=Turbo+Air+controller+MSR-49N&tag=errorcodefixes-20) \| Parts Town |
 
 ---

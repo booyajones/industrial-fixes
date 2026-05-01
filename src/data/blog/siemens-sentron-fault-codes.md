@@ -3,7 +3,7 @@ title: "Siemens SENTRON 3WL/3VA Fault Codes — Troubleshooting Guide"
 description: "Siemens SENTRON 3WL and 3VA circuit breaker fault codes and ETU trip unit alarms: overload, short circuit, ground fault, and communication errors."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

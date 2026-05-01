@@ -3,7 +3,7 @@ title: "Siemens SINAMICS V20 F1 Fault: Overcurrent Causes and Fix"
 description: "Siemens SINAMICS V20 F1 fault means overcurrent detected. Learn how to diagnose motor winding faults, short circuits, and ramp settings that cause F1 trips."
 pubDatetime: 2026-04-26T17:30:00Z
 modDatetime: 2026-04-26T17:30:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 slug: siemens-sinamics-v20-f1-overcurrent
 featured: false
 draft: false
@@ -68,7 +68,7 @@ After the root cause is fixed, clear the fault via parameter r0947 [Fault code] 
 
 - [Insulation resistance tester megger](https://www.amazon.com/s?k=insulation+resistance+tester+megger&tag=errorcodefixes-20)
 - [Three-phase motor cable replacement](https://www.amazon.com/s?k=three+phase+motor+cable+14+gauge&tag=errorcodefixes-20)
-- [Clamp meter for VFD output current](https://www.amazon.com/s?k=true+RMS+clamp+meter+VFD&tag=errorcodefixes-20)
+- [Clamp meter for VFD output current](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20)
 - [Siemens SINAMICS V20 VFD replacement](https://www.amazon.com/s?k=Siemens+SINAMICS+V20+VFD&tag=errorcodefixes-20)
 - [TEFC three-phase replacement motor](https://www.amazon.com/s?k=TEFC+three+phase+motor&tag=errorcodefixes-20)
 

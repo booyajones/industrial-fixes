@@ -2,7 +2,7 @@
 title: "Heil Ion Heat Pump Error Codes - iComfort Communicating Fault Guide"
 description: "Complete fault code reference for the Heil Ion variable-speed heat pump, including Ion system communicating faults, control board codes, reversing valve errors, and step-by-step diagnostics. Covers both LED flash and thermostat display codes."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Marcus Webb"
 tags:
   - hvac
   - error-codes

@@ -2,7 +2,7 @@
 title: "Rheem RA14 Heat Pump Error Codes - What It Means and How to Fix It"
 description: "Complete guide to Rheem RA14 heat pump flash codes and diagnostic LED patterns. Learn what each code means and how to resolve the fault yourself before calling a tech."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Marcus Webb"
 tags:
   - hvac
   - error-codes
@@ -77,11 +77,11 @@ Similar to 2 flashes but specifically triggered during a cooling cycle. The refr
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
 | Defrost thermostat (47-21517-02) | Fixes 6-flash defrost open fault | $15–$30 — [Search on Amazon](https://www.amazon.com/s?k=Rheem+defrost+thermostat+47-21517-02&tag=errorcodefixes-20) |
-| Control board (47-102684-83) | Fixes continuous-on or board faults | $80–$150 — [Search on Amazon](https://www.amazon.com/s?k=Rheem+heat+pump+control+board&tag=errorcodefixes-20) |
-| Capacitor (dual run, 45/5 MFD) | Common cause of fan or compressor failure | $15–$35 — [Search on Amazon](https://www.amazon.com/s?k=dual+run+capacitor+45+5+MFD+heat+pump&tag=errorcodefixes-20) |
-| Contactor (40A single-pole) | Fails when the compressor won't start | $20–$40 — [Search on Amazon](https://www.amazon.com/s?k=heat+pump+contactor+40+amp&tag=errorcodefixes-20) |
+| Control board (47-102684-83) | Fixes continuous-on or board faults | $80–$150 — [Search on Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) |
+| Capacitor (dual run, 45/5 MFD) | Common cause of fan or compressor failure | $15–$35 — [Search on Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) |
+| Contactor (40A single-pole) | Fails when the compressor won't start | $20–$40 — [Search on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) |
 | TXV expansion valve (R-410A) | Required if flood-back is diagnosed | $60–$120 — [Search on Amazon](https://www.amazon.com/s?k=TXV+expansion+valve+R410A+heat+pump&tag=errorcodefixes-20) |
-| 3A control board fuse | Fixes no-control faults from blown fuse | $5–$10 — [Search on Amazon](https://www.amazon.com/s?k=3+amp+glass+fuse+HVAC+control+board&tag=errorcodefixes-20) |
+| 3A control board fuse | Fixes no-control faults from blown fuse | $5–$10 — [Search on Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) |
 
 ## When to Call a Pro
 

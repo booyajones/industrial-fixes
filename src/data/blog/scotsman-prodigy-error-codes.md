@@ -3,7 +3,7 @@ title: "Scotsman Prodigy Plus Error Code Guide — Causes & Fixes"
 description: "Complete guide to Scotsman Prodigy Plus ice machine error codes, what each means, and how to fix them."
 pubDatetime: 2026-04-22T14:00:00Z
 modDatetime: 2026-04-22T14:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -51,7 +51,7 @@ Scotsman Prodigy Plus ice machines (HC, HID, and Brilliance series) are the most
 |------|-------|
 | Harvest assist solenoid valve | [Amazon](https://www.amazon.com/s?k=Harvest+assist+solenoid+valve&tag=errorcodefixes-20) \| Most common fix for Code 4/5 |
 | Evaporator thermistor | [Amazon](https://www.amazon.com/s?k=Evaporator+thermistor&tag=errorcodefixes-20) \| For Code E1 — match to Prodigy model |
-| Water inlet valve | [Amazon](https://www.amazon.com/s?k=Water+inlet+valve&tag=errorcodefixes-20) \| For Code 8 |
+| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| For Code 8 |
 | Scotsman Ice Machine Cleaner | [Amazon](https://www.amazon.com/s?k=Scotsman+Ice+Machine+Cleaner&tag=errorcodefixes-20) \| Run with every service call |
 ## When to Call a Pro
 

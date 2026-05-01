@@ -3,7 +3,7 @@ title: "Ingersoll-Rand Compressor Fault Codes — Complete Guide"
 description: "Ingersoll-Rand compressor fault codes for SSR and Nirvana rotary screw compressors: common alarms, causes, and troubleshooting steps."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -45,7 +45,7 @@ If sump pressure drops too low, the compressor may not maintain lubrication or s
 | Oil separator | [Amazon](https://www.amazon.com/s?k=Oil+separator&tag=errorcodefixes-20) \| Standard PM item |
 | Temp / pressure transducer | [Amazon](https://www.amazon.com/s?k=Temp+%2F+pressure+transducer&tag=errorcodefixes-20) \| Very common electronic failure |
 | Inlet valve kit | [Amazon](https://www.amazon.com/s?k=Inlet+valve+kit&tag=errorcodefixes-20) \| Causes loading and pressure faults |
-| Cooling fan contactor | [Amazon](https://www.amazon.com/s?k=Cooling+fan+contactor&tag=errorcodefixes-20) \| Check on overheat faults |
+| Cooling fan contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Check on overheat faults |
 ## When to Call a Pro
 If a Nirvana or other VSD compressor faults repeatedly, get an IR tech or qualified compressor specialist involved. Misdiagnosing a drive-related trip wastes a lot of time and money.
 

@@ -3,7 +3,7 @@ title: "Burnham Boiler E2 Error Code — Causes & Fix"
 description: "What Burnham boiler error code E2 means, why the pressure switch faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T15:00:00Z
 modDatetime: 2026-04-22T15:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -38,9 +38,9 @@ E2 on a Burnham boiler indicates a pressure switch fault — the control system 
 
 | Part | Notes |
 |------|-------|
-| Pressure switch | [Amazon](https://www.amazon.com/s?k=Pressure+switch&tag=errorcodefixes-20) \| Match the WC rating printed on the Burnham label |
-| Pressure switch hose | [Amazon](https://www.amazon.com/s?k=Pressure+switch+hose&tag=errorcodefixes-20) \| Use silicone tubing rated for the temperature; rubber degrades quickly |
-| Inducer motor | [Amazon](https://www.amazon.com/s?k=Inducer+motor&tag=errorcodefixes-20) \| Match Burnham model and HP rating |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match the WC rating printed on the Burnham label |
+| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| Use silicone tubing rated for the temperature; rubber degrades quickly |
+| Inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Match Burnham model and HP rating |
 ## When to Call a Pro
 
 If the condensate drain system requires significant disassembly, or if the inducer motor needs replacement and you are not comfortable with gas appliance wiring, contact a licensed plumber or HVAC technician experienced with hydronic systems.

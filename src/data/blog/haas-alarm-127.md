@@ -3,7 +3,7 @@ title: "Haas Alarm 127 — Tool Unclamped Fault"
 description: "Haas alarm 127 tool unclamped fault: causes, drawbar checks, air pressure requirements, and repair steps for Haas mills."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

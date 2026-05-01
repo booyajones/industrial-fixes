@@ -3,7 +3,7 @@ title: "Haas EC-400 Horizontal Machining Center Alarm Codes"
 description: "Haas EC-400 horizontal machining center alarm codes and diagnostics. Common HMC alarms, causes, and technician-level troubleshooting."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

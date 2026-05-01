@@ -3,7 +3,7 @@ title: "Carrier Error Code 61 — Rollout Switch Lockout"
 description: "Carrier fault code 61 means a rollout switch tripped. This is a serious safety fault — do not bypass it. Here's what causes rollout and how to fix it safely."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -50,10 +50,10 @@ Rollout switches are thermal fuses mounted around the burner compartment. They t
 
 | Part | Avg. Cost |
 |---|---|
-| Rollout switch (replacement) | [Amazon](https://www.amazon.com/s?k=Rollout+switch+%28replacement%29&tag=errorcodefixes-20) \| $15–40 |
-| Inducer motor | [Amazon](https://www.amazon.com/s?k=Inducer+motor&tag=errorcodefixes-20) \| $150–350 |
+| Rollout switch (replacement) | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| $15–40 |
+| Inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| $150–350 |
 | Heat exchanger (cell or full assembly) | [Amazon](https://www.amazon.com/s?k=Heat+exchanger+%28cell+or+full+assembly%29&tag=errorcodefixes-20) \| $300–1,200+ |
-| IFC board | [Amazon](https://www.amazon.com/s?k=IFC+board&tag=errorcodefixes-20) \| $100–300 |
+| IFC board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| $100–300 |
 ## CO Safety Warning
 
 If code 61 is tripping repeatedly, install a CO detector near the furnace immediately. A cracked heat exchanger with flame rollout can produce enough CO to be life-threatening within hours. If the CO detector alarms, evacuate and call 911 before calling an HVAC tech.

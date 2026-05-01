@@ -3,7 +3,7 @@ title: "Trane S8X1 Furnace Error Codes — Flash Code Diagnostic Guide"
 description: "Complete guide to Trane S8X1 furnace error codes, flash sequences, what each fault means, and step-by-step repairs for the most common failures."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -57,12 +57,12 @@ The Trane S8X1 is an 80% AFUE, single-stage, multi-position gas furnace in the S
 
 | Part | Notes |
 |------|-------|
-| Pressure switch hose | [Amazon](https://www.amazon.com/s?k=Pressure+switch+hose&tag=errorcodefixes-20) \| Inexpensive; check for cracks first |
-| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| ~$15; clean before replacing |
-| Hot surface ignitor | [Amazon](https://www.amazon.com/s?k=Hot+surface+ignitor&tag=errorcodefixes-20) \| 120V silicon nitride; confirm model compatibility |
-| High-limit switch | [Amazon](https://www.amazon.com/s?k=High-limit+switch&tag=errorcodefixes-20) \| Check continuity before ordering |
-| Gas valve | [Amazon](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) \| 24V Honeywell or White-Rodgers; confirm voltage |
-| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| For Code 6 or persistent unexplained faults |
+| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| Inexpensive; check for cracks first |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| ~$15; clean before replacing |
+| Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| 120V silicon nitride; confirm model compatibility |
+| High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Check continuity before ordering |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| 24V Honeywell or White-Rodgers; confirm voltage |
+| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For Code 6 or persistent unexplained faults |
 ## When to Call a Pro
 
 Gas valve replacement, heat exchanger inspection, and refrigerant-side work require licensed technicians. If the S8X1 is showing repeated rollout trips or you smell gas near the furnace, shut the unit off and call a pro immediately — do not attempt to reset and restart.

@@ -52,8 +52,8 @@ This code is extremely common in commercial kitchens, particularly in high-use e
 
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|-------------|--------------|--------------|
-| Water inlet valve | 4A5375-02 | $75-$100 | [Amazon](https://www.amazon.com/s?k=hoshizaki+4A5375-02+water+inlet+valve&tag=errorcodefixes-20) \| Parts Town |
-| Float switch | 4A2734-01 | $40-$55 | [Amazon](https://www.amazon.com/s?k=hoshizaki+4A2734-01+float+switch&tag=errorcodefixes-20) \| Parts Town |
+| Water inlet valve | 4A5375-02 | $75-$100 | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| Parts Town |
+| Float switch | 4A2734-01 | $40-$55 | [Amazon](https://www.amazon.com/dp/B005D4RFEM?tag=errorcodefixes-20) \| Parts Town |
 | Inlet valve strainer | 4A3237-01 | $8-$15 | Parts Town |
 | Water supply line (braided SS, 6ft) | — | $12-$20 | [Amazon](https://www.amazon.com/s?k=braided+stainless+water+supply+line+6ft&tag=errorcodefixes-20) \| Home Depot |
 

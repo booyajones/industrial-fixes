@@ -3,7 +3,7 @@ title: "Daikin Mini Split Error Codes — Complete Reference"
 description: "Daikin mini split error codes: all E, U, F, and A codes explained with causes and fixes for wall-mount and multi-zone Daikin systems."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

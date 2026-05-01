@@ -3,7 +3,7 @@ title: "BOGE Air Compressor Error Codes - Complete Guide"
 description: "BOGE rotary screw compressor error codes for BOGE Control and Select modules: faults, causes, and repair steps."
 pubDatetime: 2026-04-22T20:00:00Z
 modDatetime: 2026-04-22T20:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -45,10 +45,10 @@ The separator element is a scheduled service part - typically 3,000–4,000 hour
 | Part | Notes |
 |------|-------|
 | Oil separator element | [Amazon](https://www.amazon.com/s?k=Oil+separator+element&tag=errorcodefixes-20) \| Primary PM item |
-| Air filter element | [Amazon](https://www.amazon.com/s?k=Air+filter+element&tag=errorcodefixes-20) \| Replace per service schedule |
+| Air filter element | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| Replace per service schedule |
 | Oil filter | [Amazon](https://www.amazon.com/s?k=Oil+filter&tag=errorcodefixes-20) \| Replace with separator |
 | Cooling fan capacitor | [Amazon](https://www.amazon.com/s?k=Cooling+fan+capacitor&tag=errorcodefixes-20) \| Common on single-phase fan motors |
-| Discharge temperature sensor | [Amazon](https://www.amazon.com/s?k=Discharge+temperature+sensor&tag=errorcodefixes-20) \| Thermocouple or NTC type |
+| Discharge temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Thermocouple or NTC type |
 ## When to Call a Pro
 BOGE compressors require factory-specific oil types and torque specs on separator housing reassembly. If repeated temperature shutdowns occur after service, contact a BOGE authorized service provider.
 

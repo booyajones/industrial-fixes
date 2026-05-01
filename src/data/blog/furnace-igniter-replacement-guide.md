@@ -2,7 +2,7 @@
 title: "Furnace Hot Surface Igniter Replacement: DIY Step-by-Step Guide"
 description: "How to test, size, and replace a furnace hot surface igniter yourself. Complete DIY guide covering silicon nitride and silicon carbide igniters with safety and installation steps."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Marcus Webb"
 tags:
   - hvac
   - error-codes
@@ -133,8 +133,8 @@ The igniter should begin glowing orange-hot within 20 seconds of the call for he
 |---|---|---|
 | Universal Silicon Nitride Igniter | Fits most post-2005 furnaces | [View on Amazon](https://www.amazon.com/s?k=universal+silicon+nitride+furnace+igniter&tag=errorcodefixes-20) |
 | Silicon Carbide Igniter (120V/45W) | For older Lennox, Carrier, Trane | [View on Amazon](https://www.amazon.com/s?k=silicon+carbide+furnace+igniter+45w&tag=errorcodefixes-20) |
-| Furnace Flame Sensor Rod | Often fails with same symptoms | [View on Amazon](https://www.amazon.com/s?k=furnace+flame+sensor+rod+universal&tag=errorcodefixes-20) |
-| Digital Multimeter | For resistance and voltage testing | [View on Amazon](https://www.amazon.com/s?k=digital+multimeter+hvac&tag=errorcodefixes-20) |
+| Furnace Flame Sensor Rod | Often fails with same symptoms | [View on Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) |
+| Digital Multimeter | For resistance and voltage testing | [View on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) |
 | Igniter Mounting Hardware Kit | If mounting screws are stripped | [View on Amazon](https://www.amazon.com/s?k=furnace+igniter+mounting+bracket+screws&tag=errorcodefixes-20) |
 
 ## When to Call a Pro

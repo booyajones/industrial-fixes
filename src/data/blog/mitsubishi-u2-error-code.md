@@ -3,7 +3,7 @@ title: "Mitsubishi U2 Error Code — Causes & Fix"
 description: "What Mitsubishi mini-split U2 error code means, why overcurrent or power supply faults trigger, and how to fix it step by step."
 pubDatetime: 2026-04-22T12:00:00Z
 modDatetime: 2026-04-22T12:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

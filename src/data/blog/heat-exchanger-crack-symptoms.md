@@ -2,7 +2,7 @@
 title: "Cracked Heat Exchanger Symptoms - How to Diagnose and When to Replace"
 description: "Identify cracked heat exchanger symptoms, understand the carbon monoxide risk, perform a DIY diagnostic test, and decide whether to repair or replace your furnace."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Marcus Webb"
 tags:
   - hvac
   - error-codes

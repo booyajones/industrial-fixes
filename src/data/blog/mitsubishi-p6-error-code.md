@@ -53,7 +53,7 @@ This is one of the most common Mitsubishi mini split faults — and one of the m
 | Part | Where to Buy | Typical Cost |
 |------|-------------|-------------|
 | Condensate pump (Little Giant VCMA-20ULS) | [Amazon](https://www.amazon.com/s?k=Condensate+pump+%28Little+Giant+VCMA-20ULS%29&tag=errorcodefixes-20) \| Amazon, Grainger | $60–$100 |
-| Float switch (Rectorseal Sure Seal replacement) | [Amazon](https://www.amazon.com/s?k=Float+switch+%28Rectorseal+Sure+Seal+replacement%29&tag=errorcodefixes-20) \| HVAC distributor | $15–$35 |
+| Float switch (Rectorseal Sure Seal replacement) | [Amazon](https://www.amazon.com/dp/B005D4RFEM?tag=errorcodefixes-20) \| HVAC distributor | $15–$35 |
 | 3/4" PVC drain line fittings and pipe | [Amazon](https://www.amazon.com/s?k=3%2F4%22+PVC+drain+line+fittings+and+pipe&tag=errorcodefixes-20) \| Home Depot | $10–$20 |
 | Evaporator coil cleaner (Nu-Calgon 4171-75) | [Amazon](https://www.amazon.com/s?k=Evaporator+coil+cleaner+%28Nu-Calgon+4171-75%29&tag=errorcodefixes-20) \| Amazon, Johnstone Supply | $12–$20 |
 ## When to Call a Professional

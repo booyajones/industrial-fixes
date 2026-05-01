@@ -3,7 +3,7 @@ title: "Lennox Error Code 434 — Outdoor Unit Communication Fault"
 description: "What Lennox iComfort error code 434 means, why the outdoor unit loses communication, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
 modDatetime: 2026-04-22T14:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -39,7 +39,7 @@ Lennox error code 434 appears on iComfort communicating systems when the indoor 
 
 | Part | Notes |
 |------|-------|
-| Outdoor unit control board | [Amazon](https://www.amazon.com/s?k=Outdoor+unit+control+board&tag=errorcodefixes-20) \| Order by model number from data plate — communicating boards are model-specific |
+| Outdoor unit control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Order by model number from data plate — communicating boards are model-specific |
 | 3A or 5A control fuse | [Amazon](https://www.amazon.com/s?k=3A+or+5A+control+fuse&tag=errorcodefixes-20) \| Check board for fuse rating before ordering |
 | 18/5 communication cable | [Amazon](https://www.amazon.com/s?k=18%2F5+communication+cable&tag=errorcodefixes-20) \| Replace full run if damaged or corroded |
 | 40VA 24V control transformer | [Amazon](https://www.amazon.com/s?k=40VA+24V+control+transformer&tag=errorcodefixes-20) \| Replace if 24VAC output is low under load |

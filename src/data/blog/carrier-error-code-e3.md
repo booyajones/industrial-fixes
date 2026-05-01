@@ -3,7 +3,7 @@ title: "Carrier E3 Error Code — Causes & Fix"
 description: "What Carrier E3 means on AC and heat pump units, why the IPM module faults, and how to fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
 modDatetime: 2026-04-22T13:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -36,9 +36,9 @@ The Carrier E3 error code indicates an **IPM (Intelligent Power Module) fault** 
 
 | Part | Notes |
 |------|-------|
-| IPM / Inverter control board | [Amazon](https://www.amazon.com/s?k=IPM+%2F+Inverter+control+board&tag=errorcodefixes-20) \| Replace when fault persists after cleaning and fan checks; brand-specific part number required |
-| Outdoor fan motor | [Amazon](https://www.amazon.com/s?k=Outdoor+fan+motor&tag=errorcodefixes-20) \| Replace if motor windings test open or motor is seized |
-| Run capacitor | [Amazon](https://www.amazon.com/s?k=Run+capacitor&tag=errorcodefixes-20) \| Replace if capacitance reads >10% below rated value |
+| IPM / Inverter control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace when fault persists after cleaning and fan checks; brand-specific part number required |
+| Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Replace if motor windings test open or motor is seized |
+| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Replace if capacitance reads >10% below rated value |
 | Coil cleaner (Nu-Calgon Evap Foam) | [Amazon](https://www.amazon.com/s?k=Coil+cleaner+%28Nu-Calgon+Evap+Foam%29&tag=errorcodefixes-20) \| Use for routine condenser cleaning to prevent thermal faults |
 ## When to Call a Pro
 

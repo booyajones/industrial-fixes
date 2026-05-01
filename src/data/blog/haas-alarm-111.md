@@ -3,7 +3,7 @@ title: "Haas Alarm 111 — Drive Fault"
 description: "What Haas CNC alarm 111 means, why a drive fault occurs, and how to diagnose and fix the servo drive system."
 pubDatetime: 2026-04-22T11:00:00Z
 modDatetime: 2026-04-22T11:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

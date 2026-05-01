@@ -3,7 +3,7 @@ title: "Goodman 1 Flash Error Code — What It Means"
 description: "What Goodman 1 flash status LED means, why it indicates normal operation, and what to check if your furnace still isn't heating."
 pubDatetime: 2026-04-22T12:00:00Z
 modDatetime: 2026-04-22T12:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -37,7 +37,7 @@ On Goodman furnaces, **1 flash on the status LED indicates normal operation with
 
 | Part | Notes |
 |------|-------|
-| Control board fuse (3A or 5A) | [Amazon](https://www.amazon.com/s?k=Control+board+fuse+%283A+or+5A%29&tag=errorcodefixes-20) \| Small ATO/ATC blade fuse on the board; always replace with same rating |
+| Control board fuse (3A or 5A) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Small ATO/ATC blade fuse on the board; always replace with same rating |
 | Door interlock switch | [Amazon](https://www.amazon.com/s?k=Door+interlock+switch&tag=errorcodefixes-20) \| Push-button switch on the blower compartment; inexpensive and easy to replace |
 | Thermostat | [Amazon](https://www.amazon.com/s?k=Thermostat&tag=errorcodefixes-20) \| If thermostat isn't generating the 24V W signal |
 ## When to Call a Pro

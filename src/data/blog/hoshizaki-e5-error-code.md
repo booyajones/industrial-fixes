@@ -3,7 +3,7 @@ title: "Hoshizaki E5 Error Code — Causes & Fix"
 description: "What Hoshizaki E5 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
 modDatetime: 2026-04-22T08:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -36,7 +36,7 @@ Hoshizaki error code E5 means high-temperature shutdown — the control board de
 
 | Part | Notes |
 |------|-------|
-| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Match OEM spec; Hoshizaki uses specific RPM and CFM ratings |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match OEM spec; Hoshizaki uses specific RPM and CFM ratings |
 | Condenser fan blade | [Amazon](https://www.amazon.com/s?k=Condenser+fan+blade&tag=errorcodefixes-20) \| Replace if cracked or damaged; damaged blades reduce airflow significantly |
 | Condenser coil cleaner | [Amazon](https://www.amazon.com/s?k=Condenser+coil+cleaner&tag=errorcodefixes-20) \| Nu-Calgon Coil King foam cleaner; rinse thoroughly |
 ## When to Call a Pro

@@ -3,7 +3,7 @@ title: "Lochinvar Boiler Error Code E03 — High Limit Tripped"
 description: "Lochinvar E03 error means the high limit switch opened due to overtemperature. Learn why this happens on Knight and Crest boilers and how to fix it."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -62,8 +62,8 @@ On Lochinvar Knight boilers: the E03 fault is typically auto-resetting once the 
 |---|---|
 | [Circulator pump (Taco 007)](https://www.amazon.com/s?k=Circulator+pump+%28Taco+007%29&tag=errorcodefixes-20) | $120–200 |
 | [Zone valve (Taco, Honeywell)](https://www.amazon.com/s?k=Zone+valve+%28Taco%2C+Honeywell%29&tag=errorcodefixes-20) | $80–150 |
-| [High limit switch](https://www.amazon.com/s?k=High+limit+switch&tag=errorcodefixes-20) | $30–80 |
-| [Supply temperature sensor](https://www.amazon.com/s?k=Supply+temperature+sensor&tag=errorcodefixes-20) | $30–60 |
+| [High limit switch](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) | $30–80 |
+| [Supply temperature sensor](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | $30–60 |
 
 ## E03 vs. E01 on Lochinvar
 

@@ -3,7 +3,7 @@ title: "Hoshizaki KM-330 Error Codes — Fix Guide"
 description: "Hoshizaki KM-330 ice machine error codes: what each means and how to fix it."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

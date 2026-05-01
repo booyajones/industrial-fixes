@@ -44,8 +44,8 @@ If the limit switch has failed, replace it. York furnaces use multiple limit swi
 
 | Part | Where to Buy |
 |------|-------------|
-| [High limit switch](https://www.amazon.com/s?k=High+limit+switch&tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
-| [Blower motor run capacitor](https://www.amazon.com/s?k=Blower+motor+run+capacitor&tag=errorcodefixes-20) | Grainger, Amazon |
+| [High limit switch](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
+| [Blower motor run capacitor](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) | Grainger, Amazon |
 | [PSC blower motor](https://www.amazon.com/s?k=PSC+blower+motor&tag=errorcodefixes-20) | RepairClinic, Grainger |
 
 ## When to Call a Technician

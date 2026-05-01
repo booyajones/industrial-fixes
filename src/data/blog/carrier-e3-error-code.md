@@ -3,7 +3,7 @@ title: "Carrier AC E3 Error Code: IPM Module Fault Diagnosis and Fix"
 description: "Carrier E3 error code means an IPM module fault on your AC or heat pump. Learn what causes Intelligent Power Module failures and when to replace the board."
 pubDatetime: 2026-04-26T17:30:00Z
 modDatetime: 2026-04-26T17:30:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 slug: carrier-e3-error-code
 featured: false
 draft: false
@@ -67,7 +67,7 @@ Carrier E3 is heavily searched because the IPM board is an expensive part ($200â
 - [Carrier IPM module board replacement](https://www.amazon.com/s?k=Carrier+inverter+IPM+module+board&tag=errorcodefixes-20)
 - [HVAC coil cleaner foaming](https://www.amazon.com/s?k=HVAC+coil+cleaner+foaming&tag=errorcodefixes-20)
 - [Insulation resistance tester megger HVAC](https://www.amazon.com/s?k=insulation+resistance+tester+HVAC+compressor&tag=errorcodefixes-20)
-- [AC voltmeter clamp meter HVAC](https://www.amazon.com/s?k=AC+voltmeter+clamp+meter+HVAC&tag=errorcodefixes-20)
+- [AC voltmeter clamp meter HVAC](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20)
 - [Refrigerant manifold gauge set](https://www.amazon.com/s?k=refrigerant+manifold+gauge+set&tag=errorcodefixes-20)
 
 ## When to Call a Technician

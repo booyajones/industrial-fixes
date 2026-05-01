@@ -3,7 +3,7 @@ title: "ABB VFD Fault 4110 — Causes & Fix"
 description: "What ABB VFD fault code 4110 means, why the control board temperature alarm trips, and how to diagnose and fix it."
 pubDatetime: 2026-04-22T11:00:00Z
 modDatetime: 2026-04-22T11:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

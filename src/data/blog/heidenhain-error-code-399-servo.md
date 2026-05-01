@@ -3,7 +3,7 @@ title: "Heidenhain Error Code 399 Servo Error — Causes & Fix"
 description: "What Heidenhain TNC 640 error code 399 means, why a servo error occurs, and how to diagnose and recover the axis."
 pubDatetime: 2026-04-22T11:00:00Z
 modDatetime: 2026-04-22T11:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

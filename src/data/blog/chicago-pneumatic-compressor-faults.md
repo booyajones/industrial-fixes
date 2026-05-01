@@ -3,7 +3,7 @@ title: "Chicago Pneumatic Compressor Fault Codes — Complete Guide"
 description: "Chicago Pneumatic air compressor fault codes for rotary screw and reciprocating units: alarms, causes, and step-by-step troubleshooting."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -44,7 +44,7 @@ Measure current on all three phases. Unbalanced voltage or a heavy air demand ca
 |------|-------|
 | Oil filter | [Amazon](https://www.amazon.com/s?k=Oil+filter&tag=errorcodefixes-20) \| Replace every service interval |
 | Separator element | [Amazon](https://www.amazon.com/s?k=Separator+element&tag=errorcodefixes-20) \| Replace when DP is high |
-| Outlet temperature sensor | [Amazon](https://www.amazon.com/s?k=Outlet+temperature+sensor&tag=errorcodefixes-20) \| Check on repeated temp faults |
+| Outlet temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Check on repeated temp faults |
 | Drive belt (belt-drive models) | [Amazon](https://www.amazon.com/s?k=Drive+belt+%28belt-drive+models%29&tag=errorcodefixes-20) \| Inspect tension and wear |
 ## Jump to Fix
 

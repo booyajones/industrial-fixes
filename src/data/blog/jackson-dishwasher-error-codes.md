@@ -3,7 +3,7 @@ title: "Jackson Commercial Dishwasher Error Codes — Guide"
 description: "Jackson commercial dishwasher error codes: what each means and how to fix it."
 pubDatetime: 2026-04-22T23:00:00Z
 modDatetime: 2026-04-22T23:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

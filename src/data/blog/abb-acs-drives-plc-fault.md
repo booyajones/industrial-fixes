@@ -3,7 +3,7 @@ title: "ABB ACS880 with PLC Integration Fault Codes — Troubleshooting Guide"
 description: "ABB ACS880 VFD fault codes in PLC-integrated applications: communication faults, fieldbus errors, and drive-PLC handshake troubleshooting."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

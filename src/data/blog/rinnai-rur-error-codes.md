@@ -3,7 +3,7 @@ title: "Rinnai RUR Series Error Codes — Tankless Water Heater Fault Guide"
 description: "Complete guide to Rinnai RUR series condensing tankless water heater error codes, fault causes, and step-by-step troubleshooting for the most common failures."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -66,8 +66,8 @@ The Rinnai RUR series (RUR160iN, RUR199iN, RUR160eN, RUR199eN) are condensing ta
 |------|-------|
 | Thermal fuse | [Amazon](https://www.amazon.com/s?k=Thermal+fuse&tag=errorcodefixes-20) \| One-time device; investigate cause before replacing |
 | Combustion fan assembly | [Amazon](https://www.amazon.com/s?k=Combustion+fan+assembly&tag=errorcodefixes-20) \| For Code 61; includes wheel |
-| Gas valve | [Amazon](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) \| For Code 71 with confirmed 24V signal |
-| Flame sensor rod | [Amazon](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20) \| For Code 72; clean first |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| For Code 71 with confirmed 24V signal |
+| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| For Code 72; clean first |
 | Condensate drain trap | [Amazon](https://www.amazon.com/s?k=Condensate+drain+trap&tag=errorcodefixes-20) \| Check for blockage or replace if cracked |
 | Remote controller (MC-91-2) | [Amazon](https://www.amazon.com/s?k=Remote+controller+%28MC-91-2%29&tag=errorcodefixes-20) \| If display is faulty or communication fails |
 ## When to Call a Pro

@@ -4,11 +4,8 @@
 
 ## Results
 
-- fixed: 730
-- no_parts_table: 108
-- table_unchanged: 33
 
-## Articles with affiliate links: 770 / 911
+## Articles with affiliate links: 1103 / 1103
 
 ## Next Steps
 

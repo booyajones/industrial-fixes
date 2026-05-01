@@ -3,7 +3,7 @@ title: "Hill Phoenix Display Case E1 Error Code — Sensor Fault Fix"
 description: "What the Hill Phoenix display case E1 error code means, why the sensor fault triggers, and how to fix it step by step."
 pubDatetime: 2026-04-22T14:00:00Z
 modDatetime: 2026-04-22T14:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -38,7 +38,7 @@ Hill Phoenix supermarket display cases use various controller platforms (Hill Ph
 
 | Part | Notes |
 |------|-------|
-| NTC thermistor temperature sensor | [Amazon](https://www.amazon.com/s?k=NTC+thermistor+temperature+sensor&tag=errorcodefixes-20) \| Match resistance spec: 10K, 12K, or 20K at 77°F — check controller spec sheet |
+| NTC thermistor temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Match resistance spec: 10K, 12K, or 20K at 77°F — check controller spec sheet |
 | Sensor mounting clip | [Amazon](https://www.amazon.com/s?k=Sensor+mounting+clip&tag=errorcodefixes-20) \| Replace if existing clip is broken or corroded |
 | Silicone sealant | [Amazon](https://www.amazon.com/s?k=Silicone+sealant&tag=errorcodefixes-20) \| Seal sensor cable entry points to prevent moisture ingress |
 ## When to Call a Pro

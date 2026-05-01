@@ -3,7 +3,7 @@ title: "Honeywell Thermostat E2 Error — Low Battery or Power Loss"
 description: "Honeywell thermostat E2 error usually means low battery or a power interruption. Learn how to clear it, replace batteries correctly, and restore C-wire power."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

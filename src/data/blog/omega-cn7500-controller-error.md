@@ -3,7 +3,7 @@ title: "Omega CN7500 Temperature Controller Error Codes: Complete Guide"
 description: "Omega CN7500 temperature controller error codes and fault messages. Error causes and technician-level troubleshooting for industrial process control."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -50,7 +50,7 @@ If the CN7500 auto-tune does not complete within 4 hours, the process may have t
 
 | Part | Notes |
 |------|-------|
-| Type K thermocouple | [Amazon](https://www.amazon.com/s?k=Type+K+thermocouple&tag=errorcodefixes-20) \| Match temperature range to process |
+| Type K thermocouple | [Amazon](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) \| Match temperature range to process |
 | Type K extension wire | [Amazon](https://www.amazon.com/s?k=Type+K+extension+wire&tag=errorcodefixes-20) \| Use correct alloy ΓÇö not copper |
 | RTD sensor (Pt100) | [Amazon](https://www.amazon.com/s?k=RTD+sensor+%28Pt100%29&tag=errorcodefixes-20) \| For CN7500 RTD versions |
 | Solid-state relay (SSR) | [Amazon](https://www.amazon.com/s?k=Solid-state+relay+%28SSR%29&tag=errorcodefixes-20) \| Output to heater ΓÇö match current rating |

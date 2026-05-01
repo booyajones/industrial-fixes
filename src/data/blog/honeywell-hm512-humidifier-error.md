@@ -3,7 +3,7 @@ title: "Honeywell HM512 Humidifier Error Codes — Complete Guide"
 description: "Honeywell HM512 TrueSTEAM humidifier error codes: E1 through E9 fault codes, causes, and step-by-step fixes for Honeywell steam humidifiers."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:

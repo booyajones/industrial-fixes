@@ -2,7 +2,7 @@
 title: "Daikin Aurora Heat Pump Error Codes - Cold Climate Fault Guide"
 description: "Complete Daikin Aurora heat pump error code guide. All fault codes, cold climate operating range faults, defrost issues, and step-by-step fixes."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Dana Kowalski"
 tags:
   - hvac
   - error-codes
@@ -87,7 +87,7 @@ The Daikin Aurora is rated to operate down to -13°F for heating. However, sever
 | Condensate Drain Line Cleaning Tablets (Rectorseal) | Prevent A3 drain faults by keeping drain clear | [View on Amazon](https://www.amazon.com/s?k=condensate+drain+pan+cleaning+tablets+hvac&tag=errorcodefixes-20) |
 | 14/4 Multi-Conductor HVAC Wire (50 ft) | Replace communication and control wiring for U4 | [View on Amazon](https://www.amazon.com/s?k=14+4+multi+conductor+wire+hvac+50+feet&tag=errorcodefixes-20) |
 | Digital Refrigerant Gauge Set (R-410A) | Check refrigerant pressures for E3, E4 diagnosis | [View on Amazon](https://www.amazon.com/s?k=digital+refrigerant+manifold+gauge+r410a&tag=errorcodefixes-20) |
-| HVAC Digital Multimeter (Fluke 116) | Test voltage, motor resistance, and sensor values | [View on Amazon](https://www.amazon.com/s?k=fluke+116+hvac+multimeter&tag=errorcodefixes-20) |
+| HVAC Digital Multimeter (Fluke 116) | Test voltage, motor resistance, and sensor values | [View on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) |
 | Outdoor Unit Winter Cover / Wind Baffle | Protect Aurora outdoor unit in extreme cold climates | [View on Amazon](https://www.amazon.com/s?k=heat+pump+outdoor+unit+winter+wind+baffle&tag=errorcodefixes-20) |
 
 ## When to Call a Pro

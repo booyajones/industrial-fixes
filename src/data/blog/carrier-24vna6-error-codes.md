@@ -2,7 +2,7 @@
 title: "Carrier Infinity 24VNA6 Heat Pump Error Codes - Greenspeed Fault Reference"
 description: "Full fault code reference for the Carrier Infinity 24VNA6 Greenspeed variable-speed heat pump, covering Infinity system fault codes 168, 178, 179, inverter faults, control board errors, and refrigerant diagnostics for homeowners and HVAC technicians."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Dana Kowalski"
 tags:
   - hvac
   - error-codes
@@ -106,10 +106,10 @@ These three codes come up most often on the 24VNA6 because they relate to the co
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
-| [Carrier Outdoor Sensor HH79NZ074](https://www.amazon.com/s?k=Carrier+HH79NZ074+outdoor+temperature+sensor&tag=errorcodefixes-20) | Ambient and coil sensor replacement for codes 41, 42; 10k NTC thermistor | $20–$45 |
-| [Carrier 24VNA6 Outdoor Control Board](https://www.amazon.com/s?k=Carrier+Greenspeed+24VNA6+control+board&tag=errorcodefixes-20) | Required for EEV driver failure (code 178) or control board fault (code 200) | $250–$550 |
+| [Carrier Outdoor Sensor HH79NZ074](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | Ambient and coil sensor replacement for codes 41, 42; 10k NTC thermistor | $20–$45 |
+| [Carrier 24VNA6 Outdoor Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Required for EEV driver failure (code 178) or control board fault (code 200) | $250–$550 |
 | [Carrier Infinity Touch Thermostat](https://www.amazon.com/s?k=Carrier+Infinity+Touch+thermostat&tag=errorcodefixes-20) | Required for full Infinity fault code display on the 24VNA6 | $200–$400 |
-| [High Pressure Switch Carrier Heat Pump](https://www.amazon.com/s?k=Carrier+heat+pump+high+pressure+switch&tag=errorcodefixes-20) | Replace if code 24 persists with normal refrigerant pressures | $25–$60 |
+| [High Pressure Switch Carrier Heat Pump](https://www.amazon.com/dp/B013IHQ8CU?tag=errorcodefixes-20) | Replace if code 24 persists with normal refrigerant pressures | $25–$60 |
 | [Reversing Valve Solenoid Coil 24V](https://www.amazon.com/s?k=reversing+valve+solenoid+coil+24V+heat+pump&tag=errorcodefixes-20) | Required when code 63 trips with confirmed 24V at solenoid terminals | $20–$45 |
 | [Refrigerant Manifold Gauge Set R-410A](https://www.amazon.com/s?k=R-410A+manifold+gauge+set+HVAC&tag=errorcodefixes-20) | Essential for diagnosing pressure faults 24, 25, 27 accurately | $45–$120 |
 

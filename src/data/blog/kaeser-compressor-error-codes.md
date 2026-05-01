@@ -3,7 +3,7 @@ title: "Kaeser Air Compressor Error Codes — Complete Guide"
 description: "Kaeser compressor error codes for Sigma Control and rotary screw compressors: common warnings, shutdowns, causes, and fixes."
 pubDatetime: 2026-04-22T19:00:00Z
 modDatetime: 2026-04-22T19:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -45,7 +45,7 @@ If the package has an integrated refrigerated dryer, the dryer can trip independ
 | Temperature or pressure sensor | [Amazon](https://www.amazon.com/s?k=Temperature+or+pressure+sensor&tag=errorcodefixes-20) \| Common controller alarm source |
 | Service kit | [Amazon](https://www.amazon.com/s?k=Service+kit&tag=errorcodefixes-20) \| Oil, separator, filters |
 | Cabinet fan | [Amazon](https://www.amazon.com/s?k=Cabinet+fan&tag=errorcodefixes-20) \| Overheat alarms often trace here |
-| Dryer condenser fan / contactor | [Amazon](https://www.amazon.com/s?k=Dryer+condenser+fan+%2F+contactor&tag=errorcodefixes-20) \| On integrated dryer faults |
+| Dryer condenser fan / contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| On integrated dryer faults |
 ## When to Call a Pro
 Kaeser Sigma Control diagnostics are much easier with factory documentation and service access. If alarms persist after PM work, involve a Kaeser-trained compressor tech before the airend is damaged.
 

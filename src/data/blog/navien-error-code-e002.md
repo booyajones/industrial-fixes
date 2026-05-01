@@ -3,7 +3,7 @@ title: "Navien E002 Error Code — Causes & Fix"
 description: "What Navien E002 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T08:00:00Z
 modDatetime: 2026-04-22T08:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -37,8 +37,8 @@ Navien error code E002 means ignition failure — the unit attempted to ignite t
 | Part | Notes |
 |------|-------|
 | Igniter/electrode assembly | [Amazon](https://www.amazon.com/s?k=Igniter%2Felectrode+assembly&tag=errorcodefixes-20) \| Navien 30004277A (NCB series) or model-specific — verify |
-| Gas valve | [Amazon](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) \| Replace only if confirmed — 24V at valve terminals, no gas output |
-| Fan pressure switch | [Amazon](https://www.amazon.com/s?k=Fan+pressure+switch&tag=errorcodefixes-20) \| Test if fan runs but E002 persists without ignition attempt |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Replace only if confirmed — 24V at valve terminals, no gas output |
+| Fan pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Test if fan runs but E002 persists without ignition attempt |
 ## When to Call a Pro
 
 Gas valve diagnosis and adjustment requires a licensed gas tech. If the igniter is clean and gas is confirmed available but E002 persists, a tech should check gas manifold pressure and valve operation.

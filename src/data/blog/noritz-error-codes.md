@@ -3,7 +3,7 @@ title: "Noritz Tankless Water Heater Error Codes — All Codes Guide"
 description: "Noritz error codes: complete fault code list for NRCP, NRC, NR, EZ series tankless water heaters with causes and fixes."
 pubDatetime: 2026-04-22T16:00:00Z
 modDatetime: 2026-04-22T16:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -57,9 +57,9 @@ The control board detected abnormal combustion — usually incorrect gas/air rat
 | Part | Notes |
 |------|-------|
 | Inlet thermistor | [Amazon](https://www.amazon.com/s?k=Inlet+thermistor&tag=errorcodefixes-20) \| Noritz PC-R09A or model-specific |
-| Flame sensor rod | [Amazon](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20) \| Noritz model-specific |
+| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Noritz model-specific |
 | Condensate neutralizer | [Amazon](https://www.amazon.com/s?k=Condensate+neutralizer&tag=errorcodefixes-20) \| Noritz CM-200 or compatible |
-| Fan motor | [Amazon](https://www.amazon.com/s?k=Fan+motor&tag=errorcodefixes-20) \| Model-specific; match by unit label |
+| Fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Model-specific; match by unit label |
 ## When to Call a Pro
 Code 14 (thermal fuse), code 71 (gas valve solenoid), and code 90 (combustion abnormality) require certified technician service. Noritz recommends annual professional maintenance regardless of whether any codes appear.
 

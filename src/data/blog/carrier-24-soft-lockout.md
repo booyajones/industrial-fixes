@@ -3,7 +3,7 @@ title: "Carrier Error Code 24 — Secondary Voltage Fuse Open"
 description: "Carrier fault code 24 means the 3-amp secondary fuse on the IFC board has blown. Here's what caused it and how to replace it without burning through another fuse."
 pubDatetime: 2026-04-22T18:00:00Z
 modDatetime: 2026-04-22T18:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -56,9 +56,9 @@ Any short circuit on these wires will blow the fuse.
 | Part | Cost |
 |---|---|
 | 3-amp ATO/ATC fuse (pack) | [Amazon](https://www.amazon.com/s?k=3-amp+ATO%2FATC+fuse+%28pack%29&tag=errorcodefixes-20) \| $3–8 |
-| Gas valve | [Amazon](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) \| $80–200 |
-| Humidifier control board | [Amazon](https://www.amazon.com/s?k=Humidifier+control+board&tag=errorcodefixes-20) \| $30–80 |
-| IFC board (if internal fault) | [Amazon](https://www.amazon.com/s?k=IFC+board+%28if+internal+fault%29&tag=errorcodefixes-20) \| $100–300 |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| $80–200 |
+| Humidifier control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| $30–80 |
+| IFC board (if internal fault) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| $100–300 |
 ## Pro Tip
 
 Fuses don't blow for no reason. Every time you replace a fuse without finding the short, you risk burning out the transformer or the IFC board. Spend the extra 15 minutes tracing the short before you close the furnace back up — it will save you a $200+ board replacement.

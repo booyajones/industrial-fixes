@@ -3,7 +3,7 @@ title: "Siemens SINAMICS G120X Fault Codes: Complete Guide"
 description: "Siemens SINAMICS G120X VFD fault codes and diagnostics. F-series and A-series codes, causes, and technician-level troubleshooting."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

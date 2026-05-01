@@ -3,7 +3,7 @@ title: "Trane Precedent Rooftop Unit Error Codes: Complete Guide"
 description: "Trane Precedent RTU error codes and fault diagnostics for commercial technicians. Flash codes, sensor faults, and step-by-step fixes."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:
@@ -49,11 +49,11 @@ Three consecutive limit trips lock out the unit. The cause is almost always rest
 
 | Part | Notes |
 |------|-------|
-| UCM control board | [Amazon](https://www.amazon.com/s?k=UCM+control+board&tag=errorcodefixes-20) \| Match to unit model and refrigerant type |
+| UCM control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Match to unit model and refrigerant type |
 | SAT/OAT/RAT sensors | [Amazon](https://www.amazon.com/s?k=SAT%2FOAT%2FRAT+sensors&tag=errorcodefixes-20) \| Thermistor type ΓÇö check resistance vs. temp chart |
-| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Clean with emery cloth before condemning |
-| Run capacitor | [Amazon](https://www.amazon.com/s?k=Run+capacitor&tag=errorcodefixes-20) \| Check ┬╡F value with capacitor meter |
-| Limit switch | [Amazon](https://www.amazon.com/s?k=Limit+switch&tag=errorcodefixes-20) \| Match opening temperature rating |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Clean with emery cloth before condemning |
+| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Check ┬╡F value with capacitor meter |
+| Limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Match opening temperature rating |
 > **Pro tip:** Trane Precedent units require the correct UCM firmware for the refrigerant type (R-22 vs. R-410A). Swapping boards without matching firmware causes erratic fault codes.
 
 ## Related Articles

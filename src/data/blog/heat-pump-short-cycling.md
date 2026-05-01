@@ -2,7 +2,7 @@
 title: "Heat Pump Short Cycling - Causes, Diagnosis, and Fix Guide"
 description: "Heat pump turning on and off every few minutes? This guide covers every cause of heat pump short cycling — refrigerant issues, oversized equipment, dirty filters, low voltage, and defrost board faults — with step-by-step diagnosis."
 pubDatetime: 2026-04-25T00:00:00Z
-author: errorcodefixes.com
+author: "Marcus Webb"
 tags:
   - hvac
   - error-codes
@@ -117,12 +117,12 @@ The contactor is the high-voltage relay that switches power to the compressor an
 
 | Part | What It Fixes | Amazon Link |
 |------|--------------|-------------|
-| Heat Pump Run Capacitor (40+5 MFD typical) | Capacitor-related short cycling | [View on Amazon](https://www.amazon.com/s?k=heat+pump+run+capacitor+40+5+mfd+370v&tag=errorcodefixes-20) |
-| Heat Pump Contactor 2-Pole 30A | Burnt contactor short cycling | [View on Amazon](https://www.amazon.com/s?k=heat+pump+contactor+2+pole+30+amp&tag=errorcodefixes-20) |
-| Defrost Control Board (universal) | Defrost board causing heating-mode short cycling | [View on Amazon](https://www.amazon.com/s?k=heat+pump+defrost+control+board+universal&tag=errorcodefixes-20) |
+| Heat Pump Run Capacitor (40+5 MFD typical) | Capacitor-related short cycling | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) |
+| Heat Pump Contactor 2-Pole 30A | Burnt contactor short cycling | [View on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) |
+| Defrost Control Board (universal) | Defrost board causing heating-mode short cycling | [View on Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) |
 | Defrost Thermostat (coil sensor) | Defrost sensor not triggering properly | [View on Amazon](https://www.amazon.com/s?k=heat+pump+defrost+thermostat+coil+sensor&tag=errorcodefixes-20) |
-| MERV 8 Air Filter (standard sizes) | Airflow restriction causing short cycling | [View on Amazon](https://www.amazon.com/s?k=merv+8+air+filter+furnace+hvac&tag=errorcodefixes-20) |
-| Digital Multimeter with Capacitor Test | Diagnosing capacitor and voltage issues | [View on Amazon](https://www.amazon.com/s?k=digital+multimeter+hvac+capacitor+test&tag=errorcodefixes-20) |
+| MERV 8 Air Filter (standard sizes) | Airflow restriction causing short cycling | [View on Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) |
+| Digital Multimeter with Capacitor Test | Diagnosing capacitor and voltage issues | [View on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) |
 | Refrigerant Leak Detector | Locating refrigerant leaks | [View on Amazon](https://www.amazon.com/s?k=hvac+refrigerant+leak+detector+r410a&tag=errorcodefixes-20) |
 
 ---

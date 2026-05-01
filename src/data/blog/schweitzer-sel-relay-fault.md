@@ -3,7 +3,7 @@ title: "Schweitzer SEL Relay Fault Codes — SEL-700 / SEL-351 Guide"
 description: "Schweitzer Engineering Laboratories (SEL) protective relay fault codes and event records for SEL-700, SEL-351, SEL-387, and SEL-411 series relays."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

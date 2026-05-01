@@ -3,7 +3,7 @@ title: "ABB ACS550 F0001 Fault — Causes & Fix"
 description: "What ABB ACS550 F0001 overcurrent fault means, why it trips, and how to diagnose and fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
 modDatetime: 2026-04-22T13:00:00Z
-author: "ErrorCodeFixes"
+author: "Dana Kowalski"
 featured: false
 draft: false
 tags:

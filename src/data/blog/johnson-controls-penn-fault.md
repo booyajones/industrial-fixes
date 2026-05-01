@@ -3,7 +3,7 @@ title: "Johnson Controls Penn Commercial Controls Fault — Troubleshooting Guid
 description: "Johnson Controls Penn commercial controls faults for A421, A350, P70, and pressure/temperature controls: common alarms, causes, and repair steps."
 pubDatetime: 2026-04-22T21:00:00Z
 modDatetime: 2026-04-22T21:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:

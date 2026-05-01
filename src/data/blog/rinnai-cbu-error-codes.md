@@ -3,7 +3,7 @@ title: "Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide"
 description: "Complete guide to Rinnai CBU series combi boiler error codes, fault causes, and step-by-step troubleshooting for heating and domestic hot water failures."
 pubDatetime: 2026-04-22T22:00:00Z
 modDatetime: 2026-04-22T22:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -70,8 +70,8 @@ The Rinnai CBU (CBU199iN, CBU199eN) is a condensing combination boiler providing
 | Expansion tank | [Amazon](https://www.amazon.com/s?k=Expansion+tank&tag=errorcodefixes-20) \| For Code 81; check pre-charge before replacing |
 | Heating pump (circulator) | [Amazon](https://www.amazon.com/s?k=Heating+pump+%28circulator%29&tag=errorcodefixes-20) \| For Code 61; bleed airlock first |
 | Condensate drain trap | [Amazon](https://www.amazon.com/s?k=Condensate+drain+trap&tag=errorcodefixes-20) \| Replace if cracked or blocked |
-| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| For Code 72; clean first |
-| Gas valve | [Amazon](https://www.amazon.com/s?k=Gas+valve&tag=errorcodefixes-20) \| For Code 71; confirm 24V signal first |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| For Code 72; clean first |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| For Code 71; confirm 24V signal first |
 ## When to Call a Pro
 
 Rinnai CBU combi boiler diagnosis involves both the refrigerant/heat circuit and the gas combustion system. Thermal fuse replacement, gas valve work, and heat exchanger descaling should be performed by licensed professionals. Contact Rinnai technical support (1-800-621-9419) for warranty service.

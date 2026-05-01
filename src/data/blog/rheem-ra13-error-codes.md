@@ -3,7 +3,7 @@ title: "Rheem RA13 Air Conditioner Error Codes — Fault Code Diagnostic Guide"
 description: "Complete guide to Rheem RA13 central air conditioner error codes, LED flash sequences, fault causes, and step-by-step repair procedures for technicians."
 pubDatetime: 2026-04-22T23:00:00Z
 modDatetime: 2026-04-22T23:00:00Z
-author: "ErrorCodeFixes"
+author: "Marcus Webb"
 featured: false
 draft: false
 tags:
@@ -51,12 +51,12 @@ The Rheem RA13 (and its Ruud counterpart, the RA13) is a 13–14 SEER single-sta
 
 | Part | Notes |
 |---|---|
-| Dual run capacitor | [Amazon](https://www.amazon.com/s?k=Dual+run+capacitor&tag=errorcodefixes-20) \| Most common RA13 failure; affects both fan and compressor |
-| Contactor | [Amazon](https://www.amazon.com/s?k=Contactor&tag=errorcodefixes-20) \| 2-pole; inspect for pitting and carbon buildup |
-| High-pressure switch | [Amazon](https://www.amazon.com/s?k=High-pressure+switch&tag=errorcodefixes-20) \| Spade terminals; replaces easily |
-| Low-pressure switch | [Amazon](https://www.amazon.com/s?k=Low-pressure+switch&tag=errorcodefixes-20) \| 50 PSIG cutout for R-410A |
-| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| Check fuse first before ordering board |
-| Condenser fan motor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+motor&tag=errorcodefixes-20) \| Match RPM, HP, and shaft size |
+| Dual run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Most common RA13 failure; affects both fan and compressor |
+| Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| 2-pole; inspect for pitting and carbon buildup |
+| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Spade terminals; replaces easily |
+| Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| 50 PSIG cutout for R-410A |
+| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Check fuse first before ordering board |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match RPM, HP, and shaft size |
 ## When to Call a Pro
 
 Refrigerant handling on the RA13 requires EPA 608 certification. If the compressor draws high amperage (above nameplate FLA) but produces no cooling, the compressor may be mechanically failed — a technician with a clamp-on ammeter and manifold gauges can confirm this before an expensive replacement decision is made.

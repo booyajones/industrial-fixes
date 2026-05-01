@@ -50,9 +50,9 @@ This is one of the most common furnace faults in the field. The flame sensor its
 
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|---------------|
-| Rheem OEM Flame Sensor | 42-24195-01 | $18–$25 | [Amazon](https://www.amazon.com/s?k=Rheem+42-24195-01+flame+sensor&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=42-24195-01) |
-| Hot Surface Igniter (HSI) | SP10266 | $35–$45 | [Amazon](https://www.amazon.com/s?k=Rheem+SP10266+hot+surface+igniter&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=SP10266) |
-| Rheem Control Board (if board is bad) | 62-24268-82 | $150–$220 | [Amazon](https://www.amazon.com/s?k=Rheem+62-24268-82+control+board&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=62-24268-82) |
+| Rheem OEM Flame Sensor | 42-24195-01 | $18–$25 | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=42-24195-01) |
+| Hot Surface Igniter (HSI) | SP10266 | $35–$45 | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=SP10266) |
+| Rheem Control Board (if board is bad) | 62-24268-82 | $150–$220 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=62-24268-82) |
 
 ## When to Call a Professional
 

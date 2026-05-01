@@ -3,7 +3,7 @@ title: "Navien Error Code E016 — Causes & Fix"
 description: "What Navien error code E016 means, why it happens, and how to fix it step by step."
 pubDatetime: 2026-04-22T09:00:00Z
 modDatetime: 2026-04-22T09:00:00Z
-author: "ErrorCodeFixes"
+author: "James Rutherford"
 featured: false
 draft: false
 tags:
@@ -36,7 +36,7 @@ Navien error code E016 indicates a hot surface igniter fault. The control board 
 
 | Part | Notes |
 |------|-------|
-| Hot surface igniter (silicon nitride) | [Amazon](https://www.amazon.com/s?k=Hot+surface+igniter+%28silicon+nitride%29&tag=errorcodefixes-20) \| Use Navien OEM part or confirmed compatible aftermarket |
+| Hot surface igniter (silicon nitride) | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Use Navien OEM part or confirmed compatible aftermarket |
 | Igniter wire harness | [Amazon](https://www.amazon.com/s?k=Igniter+wire+harness&tag=errorcodefixes-20) \| Replace if insulation is melted or connector is damaged |
 | Control PCB | [Amazon](https://www.amazon.com/s?k=Control+PCB&tag=errorcodefixes-20) \| Replace only if igniter circuit output is confirmed missing |
 ## When to Call a Pro
