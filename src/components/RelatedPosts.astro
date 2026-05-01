@@ -1,15 +1,19 @@
 ---
-import { getCollection } from "astro:content";
+import { getCollection, type CollectionEntry } from "astro:content";
 import { getPath } from "@/utils/getPath";
 
 interface Props {
   currentSlug: string;
   tags: string[];
+  // Optional: pass the posts array down from the parent page so we don't
+  // re-load the entire blog collection 1,148 times during build. Falls back
+  // to a fresh getCollection() call for backward compatibility.
+  posts?: CollectionEntry<"blog">[];
 }
 
-const { currentSlug, tags } = Astro.props;
+const { currentSlug, tags, posts } = Astro.props;
 
-const allPosts = await getCollection("blog");
+const allPosts = posts ?? (await getCollection("blog"));
 
 const related = allPosts
   .filter(post => {

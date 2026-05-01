@@ -19,6 +19,7 @@ const headline = brand
       action="https://app.beehiiv.com/subscribe"
       method="POST"
       target="_blank"
+      data-ecf-capture
     >
       <input type="hidden" name="publication_id" value="2e4c7f50-b3b2-4415-876b-9c15d2400da9" />
       <input
@@ -32,6 +33,43 @@ const headline = brand
     </form>
   </div>
 </div>
+
+<script is:inline>
+  // Progressive enhancement: keep the standard POST-to-beehiiv as a no-JS
+  // fallback (target="_blank"), but when JS is available redirect the user
+  // to /thanks/ immediately so they get the PDF without bouncing through
+  // the beehiiv hosted page.
+  (function () {
+    function bind() {
+      document.querySelectorAll('form[data-ecf-capture]').forEach(function (form) {
+        if (form._ecfBound) return;
+        form._ecfBound = true;
+        form.addEventListener('submit', function (e) {
+          var input = form.querySelector('input[type=email]');
+          if (!input || !input.value) return; // let HTML validation handle empty
+          e.preventDefault();
+          // Fire-and-forget POST to beehiiv via a hidden iframe so the user's
+          // tab never navigates away. Then redirect to the thanks page.
+          var iframe = document.createElement('iframe');
+          iframe.name = 'ecf-bee-target-' + Date.now();
+          iframe.style.display = 'none';
+          document.body.appendChild(iframe);
+          form.target = iframe.name;
+          form.submit();
+          if (typeof gtag === 'function') {
+            gtag('event', 'lead_signup', { method: 'email_capture' });
+          }
+          if (typeof plausible === 'function') {
+            plausible('Lead Signup');
+          }
+          setTimeout(function () { window.location.href = '/thanks/'; }, 250);
+        });
+      });
+    }
+    bind();
+    document.addEventListener('astro:page-load', bind);
+  })();
+</script>
 
 <style>
   .email-capture-box {

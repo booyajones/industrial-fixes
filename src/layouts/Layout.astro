@@ -163,22 +163,41 @@ const structuredData = pubDatetime
       plausible.init()
     </script>
 
-    <!-- Google Analytics 4 — activate by setting PUBLIC_GA4_MEASUREMENT_ID env var -->
+    <!-- Google Analytics 4 — lazy-loaded after first idle so it doesn't
+         block LCP. Plausible above stays eager because it's already a
+         single ~1KB request and is the primary analytics source.
+         Activate by setting PUBLIC_GA4_MEASUREMENT_ID env var. -->
     {
       PUBLIC_GA4_MEASUREMENT_ID && (
-        <>
-          <script
-            is:inline
-            async
-            src={`https://www.googletagmanager.com/gtag/js?id=${PUBLIC_GA4_MEASUREMENT_ID}`}
-          ></script>
-          <script is:inline define:vars={{ gaId: PUBLIC_GA4_MEASUREMENT_ID }}>
-            window.dataLayer = window.dataLayer || [];
-            function gtag() { dataLayer.push(arguments); }
-            gtag('js', new Date());
-            gtag('config', gaId);
-          </script>
-        </>
+        <script is:inline define:vars={{ gaId: PUBLIC_GA4_MEASUREMENT_ID }}>
+          window.dataLayer = window.dataLayer || [];
+          function gtag() { dataLayer.push(arguments); }
+          window.gtag = gtag;
+          gtag('js', new Date());
+          gtag('config', gaId, { send_page_view: false });
+          // Defer the heavy gtag.js fetch until the browser is idle (or 4s
+          // fallback so analytics still fires on long-paint pages).
+          var loadGa = function () {
+            if (window._gaLoaded) return;
+            window._gaLoaded = true;
+            var s = document.createElement('script');
+            s.async = true;
+            s.src = 'https://www.googletagmanager.com/gtag/js?id=' + gaId;
+            s.onload = function () { gtag('event', 'page_view'); };
+            document.head.appendChild(s);
+          };
+          if ('requestIdleCallback' in window) {
+            requestIdleCallback(loadGa, { timeout: 4000 });
+          } else {
+            setTimeout(loadGa, 2000);
+          }
+          // View-transitions: fire page_view after Astro swap.
+          document.addEventListener('astro:page-load', function () {
+            if (window._gaLoaded && typeof gtag === 'function') {
+              gtag('event', 'page_view');
+            }
+          });
+        </script>
       )
     }
 

@@ -213,7 +213,7 @@ const nextPost =
 
     <BackToTopButton />
 
-    <RelatedPosts currentSlug={post.id} {tags} />
+    <RelatedPosts currentSlug={post.id} {tags} {posts} />
 
     {tags && (tags.includes('hvac') || tags.includes('furnace') || tags.includes('heat-pump') || tags.includes('boiler') || tags.includes('mini-split') || tags.includes('vfd') || tags.includes('refrigeration') || tags.includes('commercial-refrigeration')) && <ContractorCTA equipment="HVAC" />}
 
