@@ -1,6 +1,20 @@
 ---
-layout: ../../layouts/AboutLayout.astro
-title: "Marcus Webb - HVAC & Refrigeration Specialist"
+layout: ../../layouts/AuthorLayout.astro
+title: "Marcus Webb"
+authorKey: "Marcus Webb"
+name: "Marcus Webb"
+jobTitle: "HVAC & Refrigeration Specialist"
+credentials: "EPA 608 Universal, NATE Certified"
+knowsAbout:
+  - "HVAC service"
+  - "Commercial refrigeration"
+  - "Variable-speed heat pumps"
+  - "Communicating HVAC systems"
+  - "Mini-split and ductless systems"
+  - "Carrier Infinity"
+  - "Bryant Evolution"
+  - "Hoshizaki ice machines"
+  - "Manitowoc ice machines"
 ---
 
 Marcus Webb has 18 years of experience in HVAC service and installation. He holds EPA 608 Universal certification and is NATE-certified in Air Conditioning and Heat Pumps. Marcus previously served as lead technician at a commercial HVAC contractor in Texas, where he specialized in diagnosing and repairing communicating systems, variable-speed equipment, and commercial refrigeration.

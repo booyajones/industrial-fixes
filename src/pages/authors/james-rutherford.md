@@ -1,6 +1,20 @@
 ---
-layout: ../../layouts/AboutLayout.astro
-title: "James Rutherford - Plumbing & Commercial Kitchen Equipment Specialist"
+layout: ../../layouts/AuthorLayout.astro
+title: "James Rutherford"
+authorKey: "James Rutherford"
+name: "James Rutherford"
+jobTitle: "Plumbing & Commercial Kitchen Equipment Specialist"
+credentials: "Master Plumber (Texas)"
+knowsAbout:
+  - "Tankless water heaters"
+  - "Navien water heaters"
+  - "Rinnai water heaters"
+  - "Noritz water heaters"
+  - "Bradford White water heaters"
+  - "Commercial kitchen equipment"
+  - "Gas piping and combustion safety"
+  - "Hydronic heating systems"
+  - "Boilers"
 ---
 
 James Rutherford is a licensed Master Plumber (Texas) with 22 years in the trade. He specializes in tankless water heater installation and diagnostics, commercial kitchen equipment service, and gas appliance troubleshooting.

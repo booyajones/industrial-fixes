@@ -1,0 +1,98 @@
+---
+import type { MarkdownLayoutProps } from "astro";
+import { getCollection } from "astro:content";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import Breadcrumb from "@/components/Breadcrumb.astro";
+import Card from "@/components/Card.astro";
+import Layout from "./Layout.astro";
+import { SITE } from "@/config";
+import getSortedPosts from "@/utils/getSortedPosts";
+
+type AuthorFrontmatter = {
+  title: string;
+  authorKey: string;       // matches the `author:` field on blog posts
+  name: string;            // display name, e.g. "Marcus Webb"
+  jobTitle: string;
+  credentials?: string;
+  knowsAbout?: string[];   // for Person schema
+  sameAs?: string[];       // external profiles (LinkedIn, etc.)
+};
+
+type Props = MarkdownLayoutProps<AuthorFrontmatter>;
+
+const { frontmatter } = Astro.props;
+const {
+  title,
+  authorKey,
+  name,
+  jobTitle,
+  credentials,
+  knowsAbout = [],
+  sameAs = [],
+} = frontmatter;
+
+// Pull every published post by this author and sort newest-first.
+const allPosts = await getCollection("blog", ({ data }) => !data.draft);
+const authorPosts = getSortedPosts(
+  allPosts.filter(p => p.data.author === authorKey)
+);
+
+const profileUrl = new URL(Astro.url.pathname, SITE.website).href;
+
+// Person + ProfilePage schema. Profile page wraps the Person to satisfy
+// Google's Profile Page rich result requirements.
+const personSchema = {
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  mainEntity: {
+    "@type": "Person",
+    name,
+    jobTitle,
+    ...(credentials && { honorificSuffix: credentials }),
+    url: profileUrl,
+    ...(knowsAbout.length > 0 && { knowsAbout }),
+    ...(sameAs.length > 0 && { sameAs }),
+    worksFor: {
+      "@type": "Organization",
+      name: SITE.title,
+      url: SITE.website,
+    },
+  },
+};
+---
+
+<Layout title={`${title} | ${SITE.title}`} canonicalURL={profileUrl}>
+  <script
+    type="application/ld+json"
+    is:inline
+    set:html={JSON.stringify(personSchema)}
+  />
+  <Header />
+  <Breadcrumb />
+  <main id="main-content" class="app-layout">
+    <section id="author-bio" class="app-prose mb-10 max-w-app prose-img:border-0">
+      <h1 class="text-2xl tracking-wider sm:text-3xl">{title}</h1>
+      <p class="mt-2 text-sm text-foreground/60">
+        <strong>{jobTitle}</strong>
+        {credentials && <span> &middot; {credentials}</span>}
+      </p>
+      <slot />
+    </section>
+
+    {authorPosts.length > 0 && (
+      <section id="author-posts" class="mb-28 max-w-app">
+        <h2 class="text-xl font-bold mb-4">
+          Articles by {name}
+          <span class="ml-2 text-sm font-normal text-foreground/50">
+            ({authorPosts.length})
+          </span>
+        </h2>
+        <ul>
+          {authorPosts.map(post => <Card variant="h3" {...post} />)}
+        </ul>
+      </section>
+    )}
+  </main>
+  <Footer />
+</Layout>

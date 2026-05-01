@@ -15,15 +15,15 @@ const sortedPosts = getSortedPosts(posts);
 const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
 const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
 
-// Equipment categories with icons and tag mappings
-const categories = [
-  { name: "HVAC", emoji: "❄️", tag: "hvac", desc: "Carrier, Daikin, Mitsubishi, Trane" },
-  { name: "CNC Machines", emoji: "⚙️", tag: "fanuc", desc: "Fanuc, Haas, Mazak, Siemens" },
-  { name: "Refrigeration", emoji: "🧊", tag: "refrigeration", desc: "Walk-in coolers, reach-in, ice machines" },
-  { name: "Boilers", emoji: "🔥", tag: "boiler", desc: "Burnham, Weil-McLain, Carrier" },
-  { name: "Compressors", emoji: "🔧", tag: "compressor", desc: "Rotary screw, reciprocating, centrifugal" },
-  { name: "Electrical", emoji: "⚡", tag: "electrical", desc: "MCC, VFD, switchgear, UPS" },
-];
+// Equipment categories pulled from the shared data file so the homepage,
+// the /equipment/ index, and each /equipment/[slug]/ hub stay in sync.
+import { equipmentCategories } from "@/data/equipmentCategories";
+const categories = equipmentCategories.map(c => ({
+  name: c.name,
+  emoji: c.emoji,
+  slug: c.slug,
+  desc: c.tagline,
+}));
 ---
 
 <Layout>
@@ -65,7 +65,7 @@ const categories = [
       <div class="mt-8 grid grid-cols-2 gap-3 sm:grid-cols-3">
         {categories.map(cat => (
           <a
-            href={`/tags/${cat.tag}/`}
+            href={`/equipment/${cat.slug}/`}
             class="flex flex-col gap-1 rounded-lg border border-border bg-muted p-3 hover:border-accent hover:bg-accent/5 transition-all"
           >
             <span class="text-xl">{cat.emoji}</span>

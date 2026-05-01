@@ -1,6 +1,24 @@
 ---
-layout: ../../layouts/AboutLayout.astro
-title: "Dana Kowalski - Industrial Controls & VFD Specialist"
+layout: ../../layouts/AuthorLayout.astro
+title: "Dana Kowalski"
+authorKey: "Dana Kowalski"
+name: "Dana Kowalski"
+jobTitle: "Industrial Controls & VFD Specialist"
+credentials: "Certified Automation Professional (CAP)"
+knowsAbout:
+  - "Variable Frequency Drives"
+  - "Allen-Bradley PowerFlex"
+  - "Siemens Sinamics"
+  - "ABB ACS drives"
+  - "Yaskawa drives"
+  - "Danfoss VLT"
+  - "PLCs and industrial automation"
+  - "ControlLogix"
+  - "CompactLogix"
+  - "Siemens S7"
+  - "Fanuc CNC"
+  - "Haas CNC"
+  - "Mazak CNC"
 ---
 
 Dana Kowalski has 14 years of experience in industrial maintenance and controls engineering. He holds the Certified Automation Professional (CAP) credential and is a certified Allen-Bradley and Siemens VFD technician.

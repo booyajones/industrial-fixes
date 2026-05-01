@@ -1,0 +1,135 @@
+---
+import { getCollection, type CollectionEntry } from "astro:content";
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import Card from "@/components/Card.astro";
+import { equipmentCategories, equipmentBySlug } from "@/data/equipmentCategories";
+import { authors } from "@/data/authors";
+import { SITE } from "@/config";
+import getSortedPosts from "@/utils/getSortedPosts";
+
+export async function getStaticPaths() {
+  return equipmentCategories.map(cat => ({
+    params: { slug: cat.slug },
+    props: { categorySlug: cat.slug },
+  }));
+}
+
+const { categorySlug } = Astro.props as { categorySlug: string };
+const category = equipmentBySlug[categorySlug];
+
+const allPosts = await getCollection("blog", ({ data }) => !data.draft);
+
+// Match: any tag in the post overlaps any tag in the category.
+const matched = allPosts.filter((p: CollectionEntry<"blog">) => {
+  const postTags = (p.data.tags ?? []).map(t => t.toLowerCase());
+  return postTags.some(t => category.tags.includes(t));
+});
+
+const sorted = getSortedPosts(matched);
+const featured = sorted.filter(p => p.data.featured).slice(0, 3);
+const recent = sorted.filter(p => !p.data.featured).slice(0, 12);
+
+const owner = category.ownerAuthorKey ? authors[category.ownerAuthorKey] : undefined;
+
+const pageUrl = new URL(Astro.url.pathname, SITE.website).href;
+
+// CollectionPage + ItemList schema for the equipment hub. Tells search engines
+// this page indexes a finite set of how-to articles.
+const collectionSchema = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  name: `${category.name} Error Codes & Fix Guides`,
+  description: category.tagline,
+  url: pageUrl,
+  isPartOf: {
+    "@type": "WebSite",
+    name: SITE.title,
+    url: SITE.website,
+  },
+  mainEntity: {
+    "@type": "ItemList",
+    numberOfItems: sorted.length,
+    itemListElement: sorted.slice(0, 25).map((post, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      url: new URL(`/posts/${post.id}/`, SITE.website).href,
+      name: post.data.title,
+    })),
+  },
+};
+---
+
+<Layout
+  title={`${category.name} Error Codes & Fix Guides | ${SITE.title}`}
+  description={`${category.intro} ${sorted.length} guides covering the most common ${category.name.toLowerCase()} fault codes and how to fix them.`}
+  canonicalURL={pageUrl}
+>
+  <script
+    type="application/ld+json"
+    is:inline
+    set:html={JSON.stringify(collectionSchema)}
+  />
+  <Header />
+  <main id="main-content" class="app-layout pb-12">
+    <nav class="text-sm text-foreground/50 mt-4 mb-2" aria-label="Breadcrumb">
+      <a href="/" class="hover:text-accent">Home</a> &raquo;
+      <a href="/equipment/" class="hover:text-accent">Equipment</a> &raquo;
+      <span class="text-foreground/80">{category.name}</span>
+    </nav>
+
+    <header class="mt-2">
+      <h1 class="text-3xl font-bold sm:text-4xl">
+        <span class="mr-2">{category.emoji}</span>{category.name} Error Codes
+      </h1>
+      <p class="mt-3 text-lg text-foreground/80 max-w-3xl">{category.intro}</p>
+      <p class="mt-2 text-sm text-foreground/60">
+        <strong>{sorted.length}</strong> guides
+        {category.brands.length > 0 && (
+          <span> &middot; Top brands:
+            {category.brands.map((b, i) => (
+              <a href={`/brands/${b}/`} class="text-accent hover:underline">
+                {b.charAt(0).toUpperCase() + b.slice(1)}{i < category.brands.length - 1 ? ", " : ""}
+              </a>
+            ))}
+          </span>
+        )}
+      </p>
+      {owner && (
+        <p class="mt-2 text-sm text-foreground/60">
+          Section editor:
+          <a href={`/authors/${owner.slug || ""}/`} class="text-accent hover:underline ml-1">
+            {owner.name}
+          </a>
+          <span class="ml-1">&middot; {owner.credentials}</span>
+        </p>
+      )}
+    </header>
+
+    {featured.length > 0 && (
+      <section class="mt-10 border-t border-border pt-8">
+        <h2 class="text-xl font-bold mb-4">Most Common {category.name} Fixes</h2>
+        <ul>
+          {featured.map(post => <Card variant="h3" {...post} />)}
+        </ul>
+      </section>
+    )}
+
+    {recent.length > 0 && (
+      <section class="mt-10 border-t border-border pt-8">
+        <h2 class="text-xl font-bold mb-4">Recent {category.name} Guides</h2>
+        <ul>
+          {recent.map(post => <Card variant="h3" {...post} />)}
+        </ul>
+        {sorted.length > recent.length + featured.length && (
+          <p class="mt-4 text-sm text-foreground/60">
+            Showing {recent.length + featured.length} of {sorted.length} {category.name.toLowerCase()} guides.
+            <a href="/posts/" class="text-accent hover:underline ml-1">Browse all guides &rarr;</a>
+          </p>
+        )}
+      </section>
+    )}
+  </main>
+  <Footer />
+</Layout>
