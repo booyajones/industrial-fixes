@@ -2,7 +2,7 @@
 title: "Kaeser SIGMA CONTROL 2 Fault Codes: Complete Guide"
 description: "Kaeser SIGMA CONTROL 2 fault codes and diagnostics. Compressor warnings, shutdowns, causes, and technician-level troubleshooting."
 pubDatetime: 2026-04-22T23:45:00Z
-modDatetime: 2026-04-22T23:45:00Z
+modDatetime: 2026-05-01T08:00:00Z
 author: "Marcus Webb"
 featured: false
 draft: false

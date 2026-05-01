@@ -2,7 +2,7 @@
 title: "Eaton Power Meter Fault Codes: Complete Guide"
 description: "Eaton power meter fault codes and error diagnostics. IQ series and EMon-D meter faults, causes, and technician-level troubleshooting."
 pubDatetime: 2026-04-22T23:45:00Z
-modDatetime: 2026-04-22T23:45:00Z
+modDatetime: 2026-05-01T08:00:00Z
 author: "Marcus Webb"
 featured: false
 draft: false

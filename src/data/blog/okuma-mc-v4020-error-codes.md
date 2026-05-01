@@ -2,7 +2,7 @@
 title: "Okuma MC-V4020 Machining Center Alarm Codes: Complete Guide"
 description: "Okuma MC-V4020 machining center alarm codes and diagnostics. Alarm categories, causes, and technician-level troubleshooting for Okuma OSP-P controls."
 pubDatetime: 2026-04-22T23:45:00Z
-modDatetime: 2026-04-22T23:45:00Z
+modDatetime: 2026-05-01T08:00:00Z
 author: "Dana Kowalski"
 featured: false
 draft: false

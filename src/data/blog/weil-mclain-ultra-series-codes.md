@@ -2,7 +2,7 @@
 title: "Weil-McLain Ultra Series Boiler Error Codes: Complete Guide"
 description: "Weil-McLain Ultra Series boiler error codes and fault diagnostics. E-series fault codes, causes, and technician-level troubleshooting procedures."
 pubDatetime: 2026-04-22T23:45:00Z
-modDatetime: 2026-04-22T23:45:00Z
+modDatetime: 2026-05-01T08:00:00Z
 author: "James Rutherford"
 featured: false
 draft: false

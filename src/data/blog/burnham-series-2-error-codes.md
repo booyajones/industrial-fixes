@@ -2,7 +2,7 @@
 title: "Burnham Series 2 Boiler Error Codes: Complete Guide"
 description: "Burnham Series 2 boiler error codes and fault diagnostics. Fault codes, lockout causes, and technician-level troubleshooting for Series 2 cast iron boilers."
 pubDatetime: 2026-04-22T23:45:00Z
-modDatetime: 2026-04-22T23:45:00Z
+modDatetime: 2026-05-01T08:00:00Z
 author: "Marcus Webb"
 featured: false
 draft: false

@@ -2,7 +2,7 @@
 title: "APC Smart-UPS Error Codes: Complete Guide"
 description: "APC Smart-UPS error codes and alarm diagnostics. LED codes, fault descriptions, and technician-level troubleshooting for APC UPS systems."
 pubDatetime: 2026-04-22T23:45:00Z
-modDatetime: 2026-04-22T23:45:00Z
+modDatetime: 2026-05-01T08:00:00Z
 author: "Marcus Webb"
 featured: false
 draft: false

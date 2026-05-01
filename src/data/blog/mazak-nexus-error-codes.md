@@ -2,7 +2,7 @@
 title: "Mazak Nexus Series Error Codes: Complete Guide"
 description: "Mazak Nexus CNC error codes and alarm diagnostics. Alarm categories, causes, and technician-level troubleshooting for Nexus turning and machining centers."
 pubDatetime: 2026-04-22T23:45:00Z
-modDatetime: 2026-04-22T23:45:00Z
+modDatetime: 2026-05-01T08:00:00Z
 author: "Dana Kowalski"
 featured: false
 draft: false

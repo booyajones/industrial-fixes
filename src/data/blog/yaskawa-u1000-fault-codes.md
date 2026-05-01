@@ -2,7 +2,7 @@
 title: "Yaskawa U1000 Fault Codes: Complete Guide"
 description: "Yaskawa U1000 matrix drive fault codes and diagnostics. Fault codes, causes, and technician-level troubleshooting for U1000 industrial drives."
 pubDatetime: 2026-04-22T23:45:00Z
-modDatetime: 2026-04-22T23:45:00Z
+modDatetime: 2026-05-01T08:00:00Z
 author: "Dana Kowalski"
 featured: false
 draft: false

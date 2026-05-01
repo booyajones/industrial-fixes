@@ -2,7 +2,7 @@
 title: "Carrier Greenspeed Heat Pump Error Codes: Complete Guide"
 description: "Carrier Greenspeed variable speed heat pump error codes and fault diagnostics. Infinity system fault codes, causes, and technician fixes."
 pubDatetime: 2026-04-22T23:45:00Z
-modDatetime: 2026-04-22T23:45:00Z
+modDatetime: 2026-05-01T08:00:00Z
 author: "Dana Kowalski"
 featured: false
 draft: false

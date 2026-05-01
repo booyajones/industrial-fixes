@@ -2,7 +2,7 @@
 title: "Rinnai I120CN Tankless Water Heater Error Codes: Complete Guide"
 description: "Rinnai I120CN tankless water heater error codes and fault diagnostics. Error codes, causes, and technician-level troubleshooting procedures."
 pubDatetime: 2026-04-22T23:45:00Z
-modDatetime: 2026-04-22T23:45:00Z
+modDatetime: 2026-05-01T08:00:00Z
 author: "James Rutherford"
 featured: false
 draft: false

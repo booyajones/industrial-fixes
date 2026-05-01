@@ -2,7 +2,7 @@
 title: "Trane XV20i/XV18 Variable Speed Heat Pump Error Codes"
 description: "Trane XV20i and XV18 variable speed heat pump error codes and fault diagnostics. ComfortLink II fault codes, causes, and technician fixes."
 pubDatetime: 2026-04-22T23:45:00Z
-modDatetime: 2026-04-22T23:45:00Z
+modDatetime: 2026-05-01T08:00:00Z
 author: "Marcus Webb"
 featured: false
 draft: false

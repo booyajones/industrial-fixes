@@ -2,7 +2,7 @@
 title: "Fluke 289 Multimeter Error Codes: Complete Guide"
 description: "Fluke 289 digital multimeter error codes and display messages. Error causes and technician-level troubleshooting for the Fluke 289 industrial multimeter."
 pubDatetime: 2026-04-22T23:45:00Z
-modDatetime: 2026-04-22T23:45:00Z
+modDatetime: 2026-05-01T08:00:00Z
 author: "Marcus Webb"
 featured: false
 draft: false

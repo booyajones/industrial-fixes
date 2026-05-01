@@ -2,7 +2,7 @@
 title: "WaterFurnace Series 7 Geothermal Error Codes: Complete Guide"
 description: "WaterFurnace Series 7 geothermal heat pump error codes and fault diagnostics. IntelliZone2 fault codes, causes, and technician-level fixes."
 pubDatetime: 2026-04-22T23:45:00Z
-modDatetime: 2026-04-22T23:45:00Z
+modDatetime: 2026-05-01T08:00:00Z
 author: "James Rutherford"
 featured: false
 draft: false

@@ -2,7 +2,7 @@
 title: "York Affinity Series Packaged Unit Error Codes: Complete Guide"
 description: "York Affinity packaged unit error codes and fault diagnostics. Flash codes, communicating system faults, and technician-level troubleshooting."
 pubDatetime: 2026-04-22T23:45:00Z
-modDatetime: 2026-04-22T23:45:00Z
+modDatetime: 2026-05-01T08:00:00Z
 author: "Marcus Webb"
 featured: false
 draft: false

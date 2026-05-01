@@ -2,7 +2,7 @@
 title: "Ingersoll-Rand R-Series Compressor Fault Codes: Complete Guide"
 description: "Ingersoll-Rand R-Series rotary screw compressor fault codes and diagnostics. Fault codes, causes, and technician-level troubleshooting."
 pubDatetime: 2026-04-22T23:45:00Z
-modDatetime: 2026-04-22T23:45:00Z
+modDatetime: 2026-05-01T08:00:00Z
 author: "Marcus Webb"
 featured: false
 draft: false

@@ -2,7 +2,7 @@
 title: "FLIR T620 Thermal Camera Error Codes: Complete Guide"
 description: "FLIR T620 thermal imaging camera error codes and fault messages. Error causes and technician-level troubleshooting for industrial thermography."
 pubDatetime: 2026-04-22T23:45:00Z
-modDatetime: 2026-04-22T23:45:00Z
+modDatetime: 2026-05-01T08:00:00Z
 author: "Marcus Webb"
 featured: false
 draft: false

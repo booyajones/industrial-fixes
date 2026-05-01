@@ -2,7 +2,7 @@
 title: "Winterhalter Dishwasher Fault Codes — Guide"
 description: "Winterhalter commercial dishwasher fault codes: what each means and how to fix it."
 pubDatetime: 2026-04-22T23:45:00Z
-modDatetime: 2026-04-22T23:45:00Z
+modDatetime: 2026-05-01T08:00:00Z
 author: "James Rutherford"
 featured: false
 draft: false

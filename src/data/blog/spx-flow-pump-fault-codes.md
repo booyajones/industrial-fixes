@@ -2,7 +2,7 @@
 title: "SPX Flow Pump Fault Codes: Complete Guide"
 description: "SPX Flow pump fault codes and diagnostics. Fault codes for Bran+Luebbe, Lightnin, and Delco pumps, causes, and technician-level troubleshooting."
 pubDatetime: 2026-04-22T23:45:00Z
-modDatetime: 2026-04-22T23:45:00Z
+modDatetime: 2026-05-01T08:00:00Z
 author: "Dana Kowalski"
 featured: false
 draft: false

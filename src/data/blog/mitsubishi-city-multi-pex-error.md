@@ -2,7 +2,7 @@
 title: "Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide"
 description: "Mitsubishi PEX City Multi indoor unit error codes and fault diagnostics. P-series codes, causes, and technician-level troubleshooting."
 pubDatetime: 2026-04-22T23:45:00Z
-modDatetime: 2026-04-22T23:45:00Z
+modDatetime: 2026-05-01T08:00:00Z
 author: "Dana Kowalski"
 featured: false
 draft: false

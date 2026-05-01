@@ -2,7 +2,7 @@
 title: "Omega CN7500 Temperature Controller Error Codes: Complete Guide"
 description: "Omega CN7500 temperature controller error codes and fault messages. Error causes and technician-level troubleshooting for industrial process control."
 pubDatetime: 2026-04-22T23:45:00Z
-modDatetime: 2026-04-22T23:45:00Z
+modDatetime: 2026-05-01T08:00:00Z
 author: "Marcus Webb"
 featured: false
 draft: false
