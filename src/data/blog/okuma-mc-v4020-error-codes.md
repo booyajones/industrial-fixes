@@ -23,13 +23,13 @@ The Okuma MC-V4020 is a vertical machining center with Okuma OSP-P control (typi
 |------|----------|------------------|--------|
 | A-01 | Emergency | Emergency stop | Check all E-stop buttons |
 | A-02 | Emergency | Servo off | Check servo power supply |
-| B-01 | Servo | Servo alarm ΓÇö X axis | Check servo drive X |
-| B-02 | Servo | Servo alarm ΓÇö Y axis | Check servo drive Y |
-| B-03 | Servo | Servo alarm ΓÇö Z axis | Check servo drive Z |
+| B-01 | Servo | Servo alarm — X axis | Check servo drive X |
+| B-02 | Servo | Servo alarm — Y axis | Check servo drive Y |
+| B-03 | Servo | Servo alarm — Z axis | Check servo drive Z |
 | B-04 | Spindle | Spindle alarm | Check spindle drive |
-| B-06 | Encoder | Encoder error ΓÇö X axis | Check encoder cable and head |
-| B-07 | Encoder | Encoder error ΓÇö Y axis | Check encoder cable |
-| B-08 | Encoder | Encoder error ΓÇö Z axis | Check encoder cable |
+| B-06 | Encoder | Encoder error — X axis | Check encoder cable and head |
+| B-07 | Encoder | Encoder error — Y axis | Check encoder cable |
+| B-08 | Encoder | Encoder error — Z axis | Check encoder cable |
 | C-01 | Operation | Program error | Check NC program G/M codes |
 | C-11 | Operation | Chuck confirmation error | Check chuck status PLC |
 | D-01 | PLC | PLC alarm active | Check PLC diagnostic screen |
@@ -39,24 +39,24 @@ The Okuma MC-V4020 is a vertical machining center with Okuma OSP-P control (typi
 
 ## Most Common MC-V4020 Faults
 
-### B-01/B-02/B-03 ΓÇö Servo Alarms
+### B-01/B-02/B-03 — Servo Alarms
 Okuma uses the OPUS servo drive. Check the servo drive display for a secondary error code. Common causes: IGBT fault, encoder cable, DC bus undervoltage. Access Drive DIAGNOSIS in OSP control for real-time servo data.
 
-### B-04 ΓÇö Spindle Alarm
+### B-04 — Spindle Alarm
 Check spindle drive in electrical cabinet. Okuma PREX or THINC spindle drives show alarm codes on the drive panel. Common: OHT (overheat), OC (overcurrent), ERR (encoder). Check spindle motor cooling air and belt tension.
 
-### B-06/B-07/B-08 ΓÇö Encoder Error
+### B-06/B-07/B-08 — Encoder Error
 Okuma uses glass scale (linear encoder) or rotary encoder. On glass scale-equipped machines, inspect the scale for contamination (oil mist, coolant). Clean with appropriate solvent. Check read head alignment and LED indicator.
 
-### D-01 ΓÇö PLC Alarm
-Access PLC diagnostic via OSP ΓåÆ DIAGNOSIS ΓåÆ PLC. View the bit that is active. PLC alarms are user-configurable ΓÇö consult machine-specific PLC documentation or Okuma service documentation for the specific MC-V4020 ladder logic.
+### D-01 — PLC Alarm
+Access PLC diagnostic via OSP ΓåÆ DIAGNOSIS ΓåÆ PLC. View the bit that is active. PLC alarms are user-configurable — consult machine-specific PLC documentation or Okuma service documentation for the specific MC-V4020 ladder logic.
 
 ## Parts Commonly Needed
 
 | Part | Notes |
 |------|-------|
 | OPUS servo drive | [Amazon](https://www.amazon.com/s?k=OPUS+servo+drive&tag=errorcodefixes-20) \| Match axis current rating |
-| Encoder read head | [Amazon](https://www.amazon.com/s?k=Encoder+read+head&tag=errorcodefixes-20) \| Glass scale type ΓÇö match model |
+| Encoder read head | [Amazon](https://www.amazon.com/s?k=Encoder+read+head&tag=errorcodefixes-20) \| Glass scale type — match model |
 | Spindle motor brushes | [Amazon](https://www.amazon.com/s?k=Spindle+motor+brushes&tag=errorcodefixes-20) \| If applicable to spindle type |
 | Servo motor | [Amazon](https://www.amazon.com/s?k=Servo+motor&tag=errorcodefixes-20) \| Match alpha-i or beta-i specification |
 | PLC I/O card | [Amazon](https://www.amazon.com/s?k=PLC+I%2FO+card&tag=errorcodefixes-20) \| Match OSP control version |

@@ -24,7 +24,7 @@ Fanuc M-Series controls (M-32i, M-64i, M-31i, M-800M) power vertical and horizon
 | SV | Servo drive alarms | SV0401, SV0416, SV0430 |
 | SP | Spindle alarms | SP0749, SP9001 |
 | PS | Program/parameter | PS0001, PS0010 |
-| OT | Overtravel | OT0500ΓÇôOT0507 |
+| OT | Overtravel | OT0500–OT0507 |
 | DS | System alarms | DS0001 |
 | IE | Soft overtravel | IE0001 |
 
@@ -40,21 +40,21 @@ Fanuc M-Series controls (M-32i, M-64i, M-31i, M-800M) power vertical and horizon
 | SP9001 | Spindle speed deviation | Load fluctuation or encoder | Check spindle load and encoder |
 | PS0001 | Parameter write enabled | Parameter switch ON | Turn off parameter enable switch |
 | PS0010 | Improper G-code | Program syntax error | Check program G-code format |
-| OT0500 | Overtravel ΓÇö positive limit | Axis traveled past limit | Move axis, check soft limits |
-| OT0506 | Overtravel ΓÇö hardware limit | Hardware limit switch triggered | Move axis, check switch condition |
+| OT0500 | Overtravel — positive limit | Axis traveled past limit | Move axis, check soft limits |
+| OT0506 | Overtravel — hardware limit | Hardware limit switch triggered | Move axis, check switch condition |
 
 ## Most Common M-Series Faults
 
-### SV0401 ΓÇö Servo Alarm
+### SV0401 — Servo Alarm
 The servo amplifier displays its own LED code on the front face. Read the amplifier LED (1, 2, 3, 4, 5, 6, A, B) to identify the specific drive fault. Check the cable connection between amplifier and motor (encoder cable is the most frequent cause of SV0401).
 
-### SV0416 ΓÇö Need ZRN (Zero Return)
+### SV0416 — Need ZRN (Zero Return)
 Absolute encoders on Fanuc alpha-i and beta-i servo motors require battery backup. When the battery voltage drops, position data is lost. Replace the encoder battery (3V lithium, Fanuc A06B-6073-K001), then perform reference return.
 
-### SP0749 ΓÇö Spindle Serial Link
+### SP0749 — Spindle Serial Link
 The spindle amplifier communicates with the CNC via a fiber optic serial link. Inspect the fiber optic cable connectors for contamination or damage. Use an appropriate fiber optic test kit to verify signal transmission.
 
-### OT0500/OT0506 ΓÇö Overtravel
+### OT0500/OT0506 — Overtravel
 Emergency measure: hold the RESET button, select JOG mode, and jog the axis away from the limit switch. Then investigate why the axis exceeded its expected travel range (check part coordinate system, tool offset, work offset).
 
 ## Parts Commonly Needed
@@ -63,10 +63,10 @@ Emergency measure: hold the RESET button, select JOG mode, and jog the axis away
 |------|-------|
 | Encoder battery | [Amazon](https://www.amazon.com/s?k=Encoder+battery&tag=errorcodefixes-20) \| A06B-6073-K001, Fanuc standard |
 | Fiber optic cable | [Amazon](https://www.amazon.com/s?k=Fiber+optic+cable&tag=errorcodefixes-20) \| Match spindle amplifier type |
-| Servo motor encoder | [Amazon](https://www.amazon.com/s?k=Servo+motor+encoder&tag=errorcodefixes-20) \| Alpha-i or beta-i ΓÇö match spec |
+| Servo motor encoder | [Amazon](https://www.amazon.com/s?k=Servo+motor+encoder&tag=errorcodefixes-20) \| Alpha-i or beta-i — match spec |
 | Servo amplifier | [Amazon](https://www.amazon.com/s?k=Servo+amplifier&tag=errorcodefixes-20) \| Match axis current rating |
 | Control board (CNC) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Contact Fanuc for PCB replacement |
-> **Pro tip:** All Fanuc M-series controls maintain alarm history. Access via SYSTEM ΓåÆ ALARM ΓåÆ ALARM HISTORY. The history includes timestamp, axis, and alarm detail ΓÇö critical for diagnosing intermittent faults that don't repeat on demand.
+> **Pro tip:** All Fanuc M-series controls maintain alarm history. Access via SYSTEM ΓåÆ ALARM ΓåÆ ALARM HISTORY. The history includes timestamp, axis, and alarm detail — critical for diagnosing intermittent faults that don't repeat on demand.
 
 ## Related Articles
 

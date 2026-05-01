@@ -21,8 +21,8 @@ Fluke power quality analyzers (Fluke 435-II, 437-II, 1760 Series) display error 
 
 | Error/Message | Meaning | Cause | Action |
 |--------------|---------|-------|--------|
-| V1ΓÇôV4 OL | Voltage overload | Input above 1000 V | Verify voltage level and connections |
-| A1ΓÇôA4 OL | Current overload | Current above clamp rating | Use higher-rated clamp |
+| V1–V4 OL | Voltage overload | Input above 1000 V | Verify voltage level and connections |
+| A1–A4 OL | Current overload | Current above clamp rating | Use higher-rated clamp |
 | PH ERR | Phase error | Incorrect phase sequence | Check clamp placement |
 | FREQ ERR | Frequency error | Supply frequency out of range | Check for non-standard frequency |
 | INP ERR | Input error | Measurement channel error | Check all connections |
@@ -35,10 +35,10 @@ Fluke power quality analyzers (Fluke 435-II, 437-II, 1760 Series) display error 
 
 ## Most Common Fluke PQ Analyzer Issues
 
-### PH ERR ΓÇö Phase Error
-The most common setup issue on 3-phase measurements. Fluke 435/437 checks phase sequence automatically. If the phase sequence is incorrect (ACB instead of ABC), or current clamps are reversed on one or more phases, PH ERR appears. Check clamp arrow direction ΓÇö must point toward load. Reorder voltage leads if sequence is wrong.
+### PH ERR — Phase Error
+The most common setup issue on 3-phase measurements. Fluke 435/437 checks phase sequence automatically. If the phase sequence is incorrect (ACB instead of ABC), or current clamps are reversed on one or more phases, PH ERR appears. Check clamp arrow direction — must point toward load. Reorder voltage leads if sequence is wrong.
 
-### A1ΓÇôA4 OL ΓÇö Current Overload
+### A1–A4 OL — Current Overload
 Each Fluke i430-FLEX or i200s current clamp has a maximum rating. If the measured current exceeds the clamp rating, OL appears. Switch to a higher-rated clamp (Fluke offers clamps rated from 100A to 3000A). Also check that the clamp is fully closed around the conductor.
 
 ### MEM FULL
@@ -56,4 +56,4 @@ The Fluke 435-II runs on a 7.2V Li-ion battery pack (Fluke BP290). Battery life 
 | Current clamp i200s | [Amazon](https://www.amazon.com/s?k=Current+clamp+i200s&tag=errorcodefixes-20) \| 200A rigid clamp |
 | SD card | [Amazon](https://www.amazon.com/s?k=SD+card&tag=errorcodefixes-20) \| SDHC, FAT32, Class 10 |
 | USB cable | [Amazon](https://www.amazon.com/s?k=USB+cable&tag=errorcodefixes-20) \| Data download to PC |
-> **Pro tip:** Fluke power quality analyzers measure and log events automatically using the EN 50160 and DRANETZ power quality standard settings. Set up the analyzer with appropriate event thresholds before leaving the site ΓÇö the instrument captures sags, swells, and transients even when unattended.
+> **Pro tip:** Fluke power quality analyzers measure and log events automatically using the EN 50160 and DRANETZ power quality standard settings. Set up the analyzer with appropriate event thresholds before leaving the site — the instrument captures sags, swells, and transients even when unattended.

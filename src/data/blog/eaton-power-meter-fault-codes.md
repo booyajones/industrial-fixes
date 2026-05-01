@@ -34,10 +34,10 @@ Eaton power meters (IQ 300, IQ 260, Power Xpert Meter, EMon-D) are used for ener
 
 ## Most Common Eaton Meter Faults
 
-### CT Open ΓÇö Critical Safety Issue
-An open CT secondary is dangerous ΓÇö CT secondaries must never be open-circuited with the primary energized. A CT open error means the CT circuit has become disconnected. Shut down equipment before opening CT circuit. Check CT secondary wiring at the meter terminal block. Verify CT shorting blocks are not in place.
+### CT Open — Critical Safety Issue
+An open CT secondary is dangerous — CT secondaries must never be open-circuited with the primary energized. A CT open error means the CT circuit has become disconnected. Shut down equipment before opening CT circuit. Check CT secondary wiring at the meter terminal block. Verify CT shorting blocks are not in place.
 
-### Comm Error ΓÇö Modbus/BACnet Fault
+### Comm Error — Modbus/BACnet Fault
 Eaton IQ meters support Modbus RTU (RS-485) and Modbus TCP/IP. Check baud rate setting matches BMS (typically 9600 or 19200 baud). Verify RS-485 wiring polarity (A+ and B-). On long runs, verify 120╬⌐ termination resistor is installed at the last device on the RS-485 bus.
 
 ### Memory Error
@@ -50,9 +50,9 @@ The real-time clock battery (typically a CR2032) powers the internal clock durin
 
 | Part | Notes |
 |------|-------|
-| CT shorting blocks | [Amazon](https://www.amazon.com/s?k=CT+shorting+blocks&tag=errorcodefixes-20) \| Safety-critical ΓÇö keep available for maintenance |
-| RS-485 termination resistors | [Amazon](https://www.amazon.com/s?k=RS-485+termination+resistors&tag=errorcodefixes-20) \| 120╬⌐ ΓÇö for Modbus network |
+| CT shorting blocks | [Amazon](https://www.amazon.com/s?k=CT+shorting+blocks&tag=errorcodefixes-20) \| Safety-critical — keep available for maintenance |
+| RS-485 termination resistors | [Amazon](https://www.amazon.com/s?k=RS-485+termination+resistors&tag=errorcodefixes-20) \| 120╬⌐ — for Modbus network |
 | CR2032 battery | [Amazon](https://www.amazon.com/s?k=CR2032+battery&tag=errorcodefixes-20) \| Internal RTC backup |
 | USB-to-RS485 adapter | [Amazon](https://www.amazon.com/s?k=USB-to-RS485+adapter&tag=errorcodefixes-20) \| For meter configuration and data download |
-| Replacement meter | [Amazon](https://www.amazon.com/s?k=Replacement+meter&tag=errorcodefixes-20) \| Compare meter to existing when replacing ΓÇö verify register mapping |
-> **Pro tip:** Eaton Power Xpert Meters support energy data export to PowerNet, EnergyAware, and third-party SCADA platforms. Always download historical demand data before replacing a meter ΓÇö billing data may be required for utility reconciliation.
+| Replacement meter | [Amazon](https://www.amazon.com/s?k=Replacement+meter&tag=errorcodefixes-20) \| Compare meter to existing when replacing — verify register mapping |
+> **Pro tip:** Eaton Power Xpert Meters support energy data export to PowerNet, EnergyAware, and third-party SCADA platforms. Always download historical demand data before replacing a meter — billing data may be required for utility reconciliation.

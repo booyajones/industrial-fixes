@@ -33,17 +33,17 @@ The Watlow PM6 is a 1/16 DIN PID temperature controller with dual display (proce
 
 ## Most Common PM6 Faults
 
-### OPEN ΓÇö Open Sensor
-Check the thermocouple or RTD connection at both the PM6 terminals and the sensor head. On thermocouple circuits, open connections may be at extension wire joints. Measure sensor resistance: TC should be < 100 ╬⌐, Pt100 RTD should be 100 ╬⌐ at 0┬░C, 138.5 ╬⌐ at 100┬░C.
+### OPEN — Open Sensor
+Check the thermocouple or RTD connection at both the PM6 terminals and the sensor head. On thermocouple circuits, open connections may be at extension wire joints. Measure sensor resistance: TC should be < 100 ╬⌐, Pt100 RTD should be 100 ╬⌐ at 0°C, 138.5 ╬⌐ at 100°C.
 
-### SHRT ΓÇö Shorted Sensor
+### SHRT — Shorted Sensor
 A short circuit in the thermocouple or RTD wiring. Common causes: pinched extension wire in machinery, damaged insulation from heat, or a shorted sensor element. Disconnect sensor at PM6 terminals and check resistance from each lead to ground.
 
-### OvEr/Undr ΓÇö Range Errors
+### OvEr/Undr — Range Errors
 If the process temperature is within expected range but the display shows OvEr or Undr, the input type is misconfigured. Verify input type (Inp parameter in menu) matches the connected sensor. A Type K sensor configured as Type J will read incorrectly.
 
 ### Auto-Tune (tUnE)
-PM6 auto-tune uses relay output switching to identify process dynamics. During auto-tune, the output cycles on/off ΓÇö this is normal. Auto-tune requires the process to be near operating temperature. If auto-tune fails, the PM6 reverts to previous PID values.
+PM6 auto-tune uses relay output switching to identify process dynamics. During auto-tune, the output cycles on/off — this is normal. Auto-tune requires the process to be near operating temperature. If auto-tune fails, the PM6 reverts to previous PID values.
 
 ## Parts Commonly Needed
 
@@ -54,4 +54,4 @@ PM6 auto-tune uses relay output switching to identify process dynamics. During a
 | Solid-state relay | [Amazon](https://www.amazon.com/s?k=Solid-state+relay&tag=errorcodefixes-20) \| Match output type (SSR for current output) |
 | Mechanical relay | [Amazon](https://www.amazon.com/s?k=Mechanical+relay&tag=errorcodefixes-20) \| For relay output versions |
 | Replacement PM6 | [Amazon](https://www.amazon.com/s?k=Replacement+PM6&tag=errorcodefixes-20) \| Document all parameter values before replacing |
-> **Pro tip:** Watlow PM6 parameters can be locked with a password to prevent unauthorized changes. If locked, consult the PM6 installation manual for the default unlock code (1234). Document all parameter values before any PM6 replacement ΓÇö there is no backup-and-restore function.
+> **Pro tip:** Watlow PM6 parameters can be locked with a password to prevent unauthorized changes. If locked, consult the PM6 installation manual for the default unlock code (1234). Document all parameter values before any PM6 replacement — there is no backup-and-restore function.

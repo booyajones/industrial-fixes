@@ -36,13 +36,13 @@ Quincy QGS rotary screw compressors use the Intellizone II controller. Fault cod
 ## Most Common QGS Faults
 
 ### HIGH TEMP
-Quincy QGS compressors have a high-temperature shutdown at typically 228┬░F (109┬░C). The most common cause is a dirty oil cooler or air aftercooler. Blow fins clean with low-pressure air. On larger QGS models, the cooler can be removed for power washing with degreaser.
+Quincy QGS compressors have a high-temperature shutdown at typically 228°F (109°C). The most common cause is a dirty oil cooler or air aftercooler. Blow fins clean with low-pressure air. On larger QGS models, the cooler can be removed for power washing with degreaser.
 
 ### MOTOR OVERLOAD
-Check that the motor overload relay is set correctly: current setting should be 100ΓÇô105% of motor nameplate FLA. Verify three-phase voltage balance ΓÇö more than 3% imbalance causes disproportionate current in one phase.
+Check that the motor overload relay is set correctly: current setting should be 100–105% of motor nameplate FLA. Verify three-phase voltage balance — more than 3% imbalance causes disproportionate current in one phase.
 
-### CHECK SEPARATOR ΓÇö Separator Element
-When separator differential pressure exceeds design maximum (typically 10 PSI), this alarm triggers. The separator element is a wear item ΓÇö replace at the scheduled interval (typically 4,000 hours). A clogged separator element increases discharge temperature and reduces compressor efficiency.
+### CHECK SEPARATOR — Separator Element
+When separator differential pressure exceeds design maximum (typically 10 PSI), this alarm triggers. The separator element is a wear item — replace at the scheduled interval (typically 4,000 hours). A clogged separator element increases discharge temperature and reduces compressor efficiency.
 
 ### AUTO DRAIN FAULT
 Quincy QGS has an electronic auto-drain to remove condensate from the separator tank. If the solenoid valve fails (stuck closed = water in oil; stuck open = air loss), this fault triggers. Check solenoid valve coil resistance and verify 24 VAC at coil during drain cycle.
@@ -53,8 +53,8 @@ Quincy QGS has an electronic auto-drain to remove condensate from the separator 
 |------|-------|
 | Inlet air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| Model-specific |
 | Oil/separator element | [Amazon](https://www.amazon.com/s?k=Oil%2Fseparator+element&tag=errorcodefixes-20) \| Replace per service schedule |
-| Quincy QGS oil | [Amazon](https://www.amazon.com/s?k=Quincy+QGS+oil&tag=errorcodefixes-20) \| Synthetic ΓÇö match model specification |
+| Quincy QGS oil | [Amazon](https://www.amazon.com/s?k=Quincy+QGS+oil&tag=errorcodefixes-20) \| Synthetic — match model specification |
 | Auto-drain solenoid | [Amazon](https://www.amazon.com/s?k=Auto-drain+solenoid&tag=errorcodefixes-20) \| Check coil resistance |
-| Temperature thermistor | [Amazon](https://www.amazon.com/s?k=Temperature+thermistor&tag=errorcodefixes-20) \| NTC type ΓÇö check resistance vs. temp chart |
+| Temperature thermistor | [Amazon](https://www.amazon.com/s?k=Temperature+thermistor&tag=errorcodefixes-20) \| NTC type — check resistance vs. temp chart |
 | Motor overload relay | [Amazon](https://www.amazon.com/s?k=Motor+overload+relay&tag=errorcodefixes-20) \| Match FLA setting |
-> **Pro tip:** Quincy QGS Intellizone II logs the last 10 faults with run hours. Access via MENU ΓåÆ HISTORY ΓåÆ FAULT LOG on the panel. If HIGH TEMP faults are increasing in frequency, track the interval between faults ΓÇö progressive reduction in time between faults indicates a degrading cooler before total failure.
+> **Pro tip:** Quincy QGS Intellizone II logs the last 10 faults with run hours. Access via MENU ΓåÆ HISTORY ΓåÆ FAULT LOG on the panel. If HIGH TEMP faults are increasing in frequency, track the interval between faults — progressive reduction in time between faults indicates a degrading cooler before total failure.

@@ -37,25 +37,25 @@ Samsung DVM S (Digital Variable Multi System) displays fault codes on the remote
 
 ## Most Common DVM S Faults
 
-### C4-11 ΓÇö Communication Error
+### C4-11 — Communication Error
 Samsung DVM S uses a proprietary NASA protocol communication bus. The bus is a 2-wire network. Check all indoor and outdoor communication terminals, verify no wire damage, and confirm all units have unique addresses.
 
-### C1-02 ΓÇö High-Pressure Fault
+### C1-02 — High-Pressure Fault
 HP switch set at 590 psi for R-410A. In cooling: dirty outdoor coil, blocked airflow, refrigerant overcharge. In heating: dirty indoor coil or low indoor airflow. Always wash coil and check airflow first.
 
-### C1-12 ΓÇö Discharge Temperature High
-Critical fault ΓÇö if discharge exceeds 230┬░F, the compressor is at risk. Check refrigerant charge using Samsung's charging table. Verify EEV at outdoor unit is operating ΓÇö use Samsung system controller to monitor EEV position.
+### C1-12 — Discharge Temperature High
+Critical fault — if discharge exceeds 230°F, the compressor is at risk. Check refrigerant charge using Samsung's charging table. Verify EEV at outdoor unit is operating — use Samsung system controller to monitor EEV position.
 
-### C1-27 ΓÇö Inverter Fault
-DVM S uses a variable-speed scroll compressor. Measure DC bus voltage (should be 300ΓÇô350 VDC from 240 VAC). Check inverter board for burned IGBT modules. Contact Samsung commercial support before condemning inverter.
+### C1-27 — Inverter Fault
+DVM S uses a variable-speed scroll compressor. Measure DC bus voltage (should be 300–350 VDC from 240 VAC). Check inverter board for burned IGBT modules. Contact Samsung commercial support before condemning inverter.
 
 ## Parts Commonly Needed
 
 | Part | Notes |
 |------|-------|
-| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Samsung commercial parts ΓÇö match DVM S model |
+| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Samsung commercial parts — match DVM S model |
 | Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Match indoor unit model |
 | EEV | [Amazon](https://www.amazon.com/s?k=EEV&tag=errorcodefixes-20) \| Match valve size |
-| Inverter board | [Amazon](https://www.amazon.com/s?k=Inverter+board&tag=errorcodefixes-20) \| High cost ΓÇö verify fault first |
+| Inverter board | [Amazon](https://www.amazon.com/s?k=Inverter+board&tag=errorcodefixes-20) \| High cost — verify fault first |
 | Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match HP and frame type |
-> **Pro tip:** Samsung DVM S systems support SmartThings Pro for remote monitoring. Fault codes, pressures, and temperatures can be viewed remotely ΓÇö enroll system for proactive fault notification.
+> **Pro tip:** Samsung DVM S systems support SmartThings Pro for remote monitoring. Fault codes, pressures, and temperatures can be viewed remotely — enroll system for proactive fault notification.

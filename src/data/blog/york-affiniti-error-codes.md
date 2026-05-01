@@ -34,14 +34,14 @@ York Affinity packaged units use an LED diagnostic system on the Integrated Furn
 
 ## Most Common Affinity Faults
 
-### Code 4 ΓÇö Open High-Limit
-York Affinity units are available in gas heat versions where limit trips are common with dirty filters. The limit opens at 150ΓÇô200┬░F depending on model. Replace the filter, verify all supply registers are open, and check blower RPM.
+### Code 4 — Open High-Limit
+York Affinity units are available in gas heat versions where limit trips are common with dirty filters. The limit opens at 150–200°F depending on model. Replace the filter, verify all supply registers are open, and check blower RPM.
 
-### Code 6 ΓÇö Ignition Failure
+### Code 6 — Ignition Failure
 Check in sequence: induced draft motor running, pressure switch proven, gas valve opens (listen/check inlet pressure), spark at igniter (1/8" gap), and flame sensor signal (┬╡A). Clean flame sensor first.
 
-### Code 9 ΓÇö High Pressure
-R-410A high-side must stay below 590 psi. Wash condenser coil, check condenser fan rotation ΓÇö it must pull air through the coil. Verify unit is not operating in excessive ambient temperature.
+### Code 9 — High Pressure
+R-410A high-side must stay below 590 psi. Wash condenser coil, check condenser fan rotation — it must pull air through the coil. Verify unit is not operating in excessive ambient temperature.
 
 ## Parts Commonly Needed
 
@@ -53,7 +53,7 @@ R-410A high-side must stay below 590 psi. Wash condenser coil, check condenser f
 | Limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Match temperature rating |
 | Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Test ┬╡F with meter |
 | Blower motor | [Amazon](https://www.amazon.com/s?k=Blower+motor&tag=errorcodefixes-20) \| Check for ECM vs. PSC type |
-> **Pro tip:** York Affinity units with the communicating system log fault timestamps. Always retrieve fault history via thermostat diagnostics menu before clearing ΓÇö provides valuable intermittent fault pattern data.
+> **Pro tip:** York Affinity units with the communicating system log fault timestamps. Always retrieve fault history via thermostat diagnostics menu before clearing — provides valuable intermittent fault pattern data.
 
 ## Related Articles
 

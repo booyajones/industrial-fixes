@@ -30,7 +30,7 @@ Carrier WeatherMaker 48/50 Series RTUs use an LED diagnostic board that flashes 
 | 21 | Gas valve fault | Failed gas valve or wiring issue | Check 24 VAC at gas valve |
 | 22 | Low combustion air | Blocked flue, failed inducer | Inspect flue and inducer pressure |
 | 23 | Draft safeguard switch | Blocked flue or failed inducer motor | Measure inducer manifold pressure |
-| 31 | High-pressure switch open | Refrigerant overcharge, blocked condenser | Check subcooling (10ΓÇô15┬░F target) |
+| 31 | High-pressure switch open | Refrigerant overcharge, blocked condenser | Check subcooling (10–15°F target) |
 | 33 | Limit switch lockout | Persistent overtemperature | Fix airflow restriction before reset |
 | 41 | Blower motor fault | Failed blower motor or run capacitor | Check capacitor ┬╡F, motor amps |
 | 42 | Inducer motor fault | Failed inducer motor or blocked flue | Check inducer amp draw |
@@ -39,16 +39,16 @@ Carrier WeatherMaker 48/50 Series RTUs use an LED diagnostic board that flashes 
 
 ## Most Common WeatherMaker Faults
 
-### Code 13 ΓÇö Limit Switch Open
+### Code 13 — Limit Switch Open
 The top commercial RTU call. Work through in order: replace dirty filter, verify all grilles are open, inspect blower wheel for debris, then check limit switch continuity at room temperature.
 
-### Code 23 ΓÇö Draft Safeguard Switch
+### Code 23 — Draft Safeguard Switch
 Measure inducer manifold pressure before condemning the pressure switch. Typical WeatherMaker spec is -0.20 to -0.35 in. w.c. at the pressure switch. A blocked flue screen is a common culprit.
 
-### Code 11 ΓÇö Ignition Failure
-Check gas pressure first. Natural gas inlet pressure must be 5ΓÇô7 in. w.c.; manifold pressure 3.5 in. w.c. Clean the flame sensor rod with steel wool ΓÇö measure ┬╡A (must exceed 1.5 ┬╡A).
+### Code 11 — Ignition Failure
+Check gas pressure first. Natural gas inlet pressure must be 5–7 in. w.c.; manifold pressure 3.5 in. w.c. Clean the flame sensor rod with steel wool — measure ┬╡A (must exceed 1.5 ┬╡A).
 
-### Code 3 ΓÇö High Pressure
+### Code 3 — High Pressure
 Verify all condenser fan motors are running and drawing rated amps. Wash the condenser coil. Check refrigerant subcooling with manifold gauges.
 
 ## Parts Commonly Needed
@@ -56,7 +56,7 @@ Verify all condenser fan motors are running and drawing rated amps. Wash the con
 | Part | Notes |
 |------|-------|
 | Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Clean first; replace if ┬╡A reading is below 1.5 |
-| IFC board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Model-specific ΓÇö cross-reference part number |
+| IFC board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Model-specific — cross-reference part number |
 | Limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Match temperature rating exactly |
 | Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Test ┬╡F with capacitor tester before condemning motor |
 | Inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Check capacitor before replacing motor |

@@ -22,12 +22,12 @@ Mazak Nexus series (QTN, QT, VCN, VCS, HCN) machines use the Mazatrol MATRIX CNC
 | Code | Fault Description | Common Cause | Action |
 |------|------------------|--------------|--------|
 | 50 | Emergency stop | E-stop activated | Release and check cause |
-| 100 | Servo alarm ΓÇö X axis | Servo drive or motor fault | Check servo drive |
+| 100 | Servo alarm — X axis | Servo drive or motor fault | Check servo drive |
 | 200 | Spindle alarm | Spindle drive fault | Check spindle drive |
 | 201 | Spindle overspeed | Speed above maximum | Check program S code |
 | 300 | Control unit alarm | NC/PC communication fault | Check PC board |
-| 400 | Overtravel ΓÇö positive | Axis past positive limit | Move axis, check limits |
-| 401 | Overtravel ΓÇö negative | Axis past negative limit | Move axis, check limits |
+| 400 | Overtravel — positive | Axis past positive limit | Move axis, check limits |
+| 401 | Overtravel — negative | Axis past negative limit | Move axis, check limits |
 | 500 | ATC alarm | Tool changer fault | Check ATC sequence |
 | 501 | Magazine alarm | Magazine positioning fault | Check magazine servo |
 | 600 | Chuck fault | Chuck not clamped | Check hydraulic pressure |
@@ -37,16 +37,16 @@ Mazak Nexus series (QTN, QT, VCN, VCS, HCN) machines use the Mazatrol MATRIX CNC
 
 ## Most Common Nexus Faults
 
-### 100/200 ΓÇö Servo/Spindle Alarms
+### 100/200 — Servo/Spindle Alarms
 Nexus servo alarms refer to the Mazak servo pack (FANUC-based). Check servo amplifier LED on cabinet door. Alarm LED codes: 1 = overload, 2 = regeneration, 3 = DC bus, 4 = IGBT, 5 = feedback, 6 = communication. Match LED reading to specific remediation.
 
-### 400/401 ΓÇö Overtravel
+### 400/401 — Overtravel
 Work offset or tool offset entered incorrectly. In MDI mode with E-stop released, hold SHIFT + override axis in JOG mode to move axis back into travel range. Then review all offsets before resuming production.
 
-### 500 ΓÇö ATC Alarm
-Mazak Nexus ATC sequence is programmable. Check which step in the M6 sequence fails ΓÇö view ATC sequence diagram in the machine maintenance screen. Common causes: proximity switch failure, servo positioning error, or mechanical jam.
+### 500 — ATC Alarm
+Mazak Nexus ATC sequence is programmable. Check which step in the M6 sequence fails — view ATC sequence diagram in the machine maintenance screen. Common causes: proximity switch failure, servo positioning error, or mechanical jam.
 
-### 600 ΓÇö Chuck Fault
+### 600 — Chuck Fault
 Check hydraulic pressure (minimum 900 PSI for standard chucks). Verify workpiece is seated correctly. If chuck relay is suspected, check PLC input in the Mazatrol diagnostic screen.
 
 ## Parts Commonly Needed

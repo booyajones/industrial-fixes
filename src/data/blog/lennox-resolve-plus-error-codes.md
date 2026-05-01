@@ -37,13 +37,13 @@ Lennox ResolvePlus packaged rooftop units use a flashing LED diagnostic system o
 
 ## Most Common ResolvePlus Faults
 
-### Code 114 ΓÇö Limit Switch Open
-Check the air filter first. ResolvePlus units are sensitive to static pressure ΓÇö a dirty filter or blocked return can trip the limit at low ambient temperatures. Verify blower motor speed matches installed ESP.
+### Code 114 — Limit Switch Open
+Check the air filter first. ResolvePlus units are sensitive to static pressure — a dirty filter or blocked return can trip the limit at low ambient temperatures. Verify blower motor speed matches installed ESP.
 
-### Code 125 ΓÇö Ignition Failure
+### Code 125 — Ignition Failure
 Check inducer operation before gas pressure. If the inducer doesn't prove, the gas valve won't open. Verify inducer pressure switch closes (typically -0.30 to -0.45 in. w.c.).
 
-### Code 204 ΓÇö High-Pressure Switch
+### Code 204 — High-Pressure Switch
 On R-410A units, high-side pressure above 590 psi trips the HP switch. Wash the condenser coil, verify condenser fan rotation and amp draw.
 
 ## Parts Commonly Needed

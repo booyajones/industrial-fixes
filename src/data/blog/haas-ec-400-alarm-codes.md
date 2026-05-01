@@ -38,29 +38,29 @@ The Haas EC-400 is a 40-taper horizontal machining center with B-axis rotary tab
 
 ## Most Common EC-400 Faults
 
-### Alarm 130 ΓÇö Spindle Drive Fault
+### Alarm 130 — Spindle Drive Fault
 Check the Haas Vector spindle drive (located in cabinet). The drive has an LED display showing an internal fault code. Common EC-400 spindle faults: SPD (spindle drive fault), OC (overcurrent), OT (overtemperature). Check spindle motor air cooling passage for chips and debris.
 
-### Alarm 120 ΓÇö ATC Fault
+### Alarm 120 — ATC Fault
 The EC-400 has a 30-pocket or 60-pocket side-mount ATC. Check for a jammed tool, broken retention knob, or carousel positioning fault. Manually jog the ATC through its sequence using the Haas diagnostic screens to identify which step fails.
 
-### Alarms 110ΓÇô113 ΓÇö Servo Error
+### Alarms 110–113 — Servo Error
 Following error exceeds maximum threshold. Causes: mechanical binding (lubrication issue, crashed axis, damaged ball screw), encoder cable fault, or servo drive fault. Check axis by jogging slowly and monitoring servo load on the control screen.
 
-### Alarm 149 ΓÇö Low Lube
+### Alarm 149 — Low Lube
 The EC-400 uses a central lubrication system (Rexnord or equivalent). Check the lube oil reservoir level, verify the pump runs on cycle, and check all lube lines for blockage. The lube fault can also be triggered by a failed pressure switch.
 
 ## Parts Commonly Needed
 
 | Part | Notes |
 |------|-------|
-| Servo motors | [Amazon](https://www.amazon.com/s?k=Servo+motors&tag=errorcodefixes-20) \| Alpha series ΓÇö match axis |
+| Servo motors | [Amazon](https://www.amazon.com/s?k=Servo+motors&tag=errorcodefixes-20) \| Alpha series — match axis |
 | Encoder cables | [Amazon](https://www.amazon.com/s?k=Encoder+cables&tag=errorcodefixes-20) \| Check at both motor and drive connectors |
 | ATC solenoid valves | [Amazon](https://www.amazon.com/s?k=ATC+solenoid+valves&tag=errorcodefixes-20) \| Check for proper operation |
 | Lube pump | [Amazon](https://www.amazon.com/s?k=Lube+pump&tag=errorcodefixes-20) \| Check for seized impeller |
 | Retention knobs | [Amazon](https://www.amazon.com/s?k=Retention+knobs&tag=errorcodefixes-20) \| Replace damaged/worn 40-taper knobs |
 | Way wipers | [Amazon](https://www.amazon.com/s?k=Way+wipers&tag=errorcodefixes-20) \| Inspect and replace if worn |
-> **Pro tip:** Haas EC-400 service information is available on the Haas Service Portal (haasspeed.com). The NGC diagnostic screens show real-time servo loads, spindle RPM, and I/O status ΓÇö use these during troubleshooting to observe behavior without disassembly.
+> **Pro tip:** Haas EC-400 service information is available on the Haas Service Portal (haasspeed.com). The NGC diagnostic screens show real-time servo loads, spindle RPM, and I/O status — use these during troubleshooting to observe behavior without disassembly.
 
 ## Related Articles
 

@@ -35,16 +35,16 @@ ClimateMaster Trilogy Q units use the ClimateTalk communicating system with a co
 
 ## Most Common Trilogy Faults
 
-### FP ΓÇö Freeze Protection
-Trilogy units monitor entering water temperature (EWT). FP activates when EWT approaches 32┬░F. Check loop pump, pressure, and antifreeze mix. Propylene glycol mix should be tested annually with a refractometer.
+### FP — Freeze Protection
+Trilogy units monitor entering water temperature (EWT). FP activates when EWT approaches 32°F. Check loop pump, pressure, and antifreeze mix. Propylene glycol mix should be tested annually with a refractometer.
 
-### LO ΓÇö Low-Pressure Fault
-Check loop flow first: Trilogy requires 1.5ΓÇô3.0 GPM/ton depending on model. Low refrigerant charge also triggers LO ΓÇö check subcooling and superheat before adding refrigerant.
+### LO — Low-Pressure Fault
+Check loop flow first: Trilogy requires 1.5–3.0 GPM/ton depending on model. Low refrigerant charge also triggers LO — check subcooling and superheat before adding refrigerant.
 
-### HI ΓÇö High-Pressure Fault
-On closed-loop systems: EWT above 90┬░F in cooling causes elevated discharge pressures. Check loop sizing and ground loop heat rejection. On water-to-water units: check heat exchanger for scaling.
+### HI — High-Pressure Fault
+On closed-loop systems: EWT above 90°F in cooling causes elevated discharge pressures. Check loop sizing and ground loop heat rejection. On water-to-water units: check heat exchanger for scaling.
 
-### FL ΓÇö Flow Fault
+### FL — Flow Fault
 ClimateMaster uses a flow switch that opens on low GPM. Verify loop pump operation, check for closed isolation valves, and purge air from system. Measure differential pressure across flow center.
 
 ## Parts Commonly Needed

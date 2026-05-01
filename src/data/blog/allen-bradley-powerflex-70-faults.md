@@ -15,7 +15,7 @@ tags:
 
 # Allen-Bradley PowerFlex 70 Fault Codes
 
-The Allen-Bradley PowerFlex 70 is a mid-range VFD rated 0.37ΓÇô448 kW. Fault codes display on the HIM (Human Interface Module) as fault numbers. The PowerFlex 70 uses a similar fault structure to the PF700 and PF755 but with its own parameters (accessible via Connected Components Workbench or DriveExplorer).
+The Allen-Bradley PowerFlex 70 is a mid-range VFD rated 0.37–448 kW. Fault codes display on the HIM (Human Interface Module) as fault numbers. The PowerFlex 70 uses a similar fault structure to the PF700 and PF755 but with its own parameters (accessible via Connected Components Workbench or DriveExplorer).
 
 ## PowerFlex 70 Fault Code Table
 
@@ -40,27 +40,27 @@ The Allen-Bradley PowerFlex 70 is a mid-range VFD rated 0.37ΓÇô448 kW. Fault 
 
 ## Most Common PowerFlex 70 Faults
 
-### F7 ΓÇö Motor Overcurrent
+### F7 — Motor Overcurrent
 Check motor nameplate FLA vs. parameter P032 (motor NP amps). Verify correct motor overload setting. Check motor for single-phasing, winding imbalance, or locked rotor condition. Increase accel time (parameter A051).
 
-### F8 ΓÇö Heatsink Overtemperature
-The PowerFlex 70 requires 3-inch clearance on all sides. Clean fins with compressed air ΓÇö debris accumulates on the cooling fins rapidly in industrial environments. Check internal cooling fan (starts automatically with drive power).
+### F8 — Heatsink Overtemperature
+The PowerFlex 70 requires 3-inch clearance on all sides. Clean fins with compressed air — debris accumulates on the cooling fins rapidly in industrial environments. Check internal cooling fan (starts automatically with drive power).
 
-### F13 ΓÇö Ground Fault
+### F13 — Ground Fault
 Disconnect motor leads at drive output terminals. Megger test each conductor to ground at 1000 VDC. Reading below 1 M╬⌐ indicates a failed cable or motor winding. Also check cable tray for damaged insulation.
 
-### F5 ΓÇö Overvoltage
+### F5 — Overvoltage
 Pumping applications with fast deceleration cause motor regeneration. Increase deceleration ramp time (parameter A052). If regeneration is unavoidable, add a dynamic braking resistor to the brake resistor terminals.
 
 ## Parts Commonly Needed
 
 | Part | Notes |
 |------|-------|
-| HIM module | [Amazon](https://www.amazon.com/s?k=HIM+module&tag=errorcodefixes-20) \| Plug-in display ΓÇö model 20-HIM-A3 is most common |
+| HIM module | [Amazon](https://www.amazon.com/s?k=HIM+module&tag=errorcodefixes-20) \| Plug-in display — model 20-HIM-A3 is most common |
 | Cooling fan | [Amazon](https://www.amazon.com/s?k=Cooling+fan&tag=errorcodefixes-20) \| Match PowerFlex 70 frame size |
-| Input fuses | [Amazon](https://www.amazon.com/s?k=Input+fuses&tag=errorcodefixes-20) \| Class J or CC ΓÇö match ampere rating |
+| Input fuses | [Amazon](https://www.amazon.com/s?k=Input+fuses&tag=errorcodefixes-20) \| Class J or CC — match ampere rating |
 | Brake resistor | [Amazon](https://www.amazon.com/s?k=Brake+resistor&tag=errorcodefixes-20) \| Match ohm and watt rating to drive |
-> **Pro tip:** PowerFlex 70 stores fault queue (F01ΓÇôF08 parameters in the fault log group). Access via HIM: DIAGNOSTICS ΓåÆ FAULT LOG. Always review the full fault queue ΓÇö a single event often produces multiple faults in sequence that tell the root cause story.
+> **Pro tip:** PowerFlex 70 stores fault queue (F01–F08 parameters in the fault log group). Access via HIM: DIAGNOSTICS ΓåÆ FAULT LOG. Always review the full fault queue — a single event often produces multiple faults in sequence that tell the root cause story.
 
 ## Related Articles
 

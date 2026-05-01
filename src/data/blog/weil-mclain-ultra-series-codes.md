@@ -38,16 +38,16 @@ Weil-McLain Ultra series condensing boilers use a built-in diagnostic display th
 
 ## Most Common Ultra Series Faults
 
-### E01 ΓÇö Ignition Failure
-Check gas supply pressure at the inlet (3.5ΓÇô5 in. w.c. natural gas). Verify gas valve opens on call for heat. Check igniter electrode for cracks or carbon buildup. Clean flame sensor rod.
+### E01 — Ignition Failure
+Check gas supply pressure at the inlet (3.5–5 in. w.c. natural gas). Verify gas valve opens on call for heat. Check igniter electrode for cracks or carbon buildup. Clean flame sensor rod.
 
-### E03 ΓÇö High Limit
+### E03 — High Limit
 Ultra boilers require adequate flow to prevent overheating. Check system pump operation, verify all zone valves are not stuck closed, and confirm expansion tank pre-charge is correct (typically 12 PSI for residential).
 
-### E04 ΓÇö Condensate Backup
+### E04 — Condensate Backup
 The Ultra is a condensing boiler producing up to 2 gallons of condensate per hour at full fire. The neutralizer cartridge and drain line must be clear. Replace neutralizer media annually. Check drain line for kinks or obstructions.
 
-### E06 ΓÇö Low Water Pressure
+### E06 — Low Water Pressure
 The Ultra will lockout below 10 PSI system pressure. Check for system leaks, waterlog expansion tank (drain tank, verify pre-charge = cold fill pressure, typically 12 PSI), and check backflow preventer fill valve operation.
 
 ## Parts Commonly Needed

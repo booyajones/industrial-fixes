@@ -21,7 +21,7 @@ Mitsubishi City Multi PEX series indoor units display fault codes via LED on the
 
 | Code | Fault Description | Common Cause | Action |
 |------|------------------|--------------|--------|
-| P1 | Intake air temp sensor fault | Open or short in sensor | Check sensor resistance (10k╬⌐ at 77┬░F) |
+| P1 | Intake air temp sensor fault | Open or short in sensor | Check sensor resistance (10k╬⌐ at 77°F) |
 | P2 | Pipe (liquid) sensor fault | Sensor failure | Check refrigerant pipe sensor |
 | P4 | Drain pump fault | Drain pump failure or float switch | Check pump operation and float switch |
 | P5 | Drain float switch open | High condensate level | Clear drain pan, check drain pump |
@@ -34,16 +34,16 @@ Mitsubishi City Multi PEX series indoor units display fault codes via LED on the
 
 ## Most Common PEX Indoor Faults
 
-### P4/P5 ΓÇö Drain Issues
-Commercial fan coil units accumulate condensate during cooling. P4 (drain pump fault) means the pump is not running or running dry. P5 means the float switch has lifted ΓÇö the pan is full. Clear the drain line, clean the condensate pan, and verify the pump lifts to discharge height.
+### P4/P5 — Drain Issues
+Commercial fan coil units accumulate condensate during cooling. P4 (drain pump fault) means the pump is not running or running dry. P5 means the float switch has lifted — the pan is full. Clear the drain line, clean the condensate pan, and verify the pump lifts to discharge height.
 
-### P6 ΓÇö Fan Motor Fault
+### P6 — Fan Motor Fault
 Check that the fan blade turns freely. PEX units use multi-speed motors. Verify the correct speed tap is selected. Measure motor amp draw and check run capacitor where applicable.
 
-### E6 ΓÇö No Communication
+### E6 — No Communication
 City Multi uses a 2-wire transmission network (M-NET). Check that all indoor units have unique addresses on the branch controller. Verify cable polarity and maximum network length limits.
 
-### P8 ΓÇö Pipe Temperature Protection
+### P8 — Pipe Temperature Protection
 If pipe temperature is too high or too low, the unit shuts down to protect the refrigerant system. On PEX branch controller systems, check EEV position at the branch controller and verify refrigerant distribution to this branch.
 
 ## Parts Commonly Needed

@@ -1,5 +1,5 @@
 ---
-title: "Fujimak Commercial Dishwasher Fault Codes ΓÇö Guide"
+title: "Fujimak Commercial Dishwasher Fault Codes — Guide"
 description: "Fujimak commercial dishwasher fault codes: what each means and how to fix it."
 pubDatetime: 2026-04-22T23:45:00Z
 modDatetime: 2026-04-22T23:45:00Z
@@ -11,7 +11,7 @@ tags:
   - fujimak
 ---
 
-## Fujimak Commercial Dishwasher Fault Codes ΓÇö What They Mean
+## Fujimak Commercial Dishwasher Fault Codes — What They Mean
 
 Fujimak is a Japanese commercial foodservice equipment brand whose dishwashers are common in Japanese and Asian fusion restaurants, hotel operations, and institutional kitchens across Asia and increasingly the US.
 
@@ -31,7 +31,7 @@ Fujimak is a Japanese commercial foodservice equipment brand whose dishwashers a
 
 **E1 (water level/fill):** Verify water supply valve is fully open. Check supply pressure (minimum 0.5 bar). Clean the water inlet valve filter. If the unit has a rinse water softener, verify it's regenerating correctly.
 
-**E3/E4 (temperature):** Fujimak machines require 60┬░C (140┬░F) wash and 82-85┬░C (180-185┬░F) rinse. Check the booster heater element continuity. On models with steam injection, verify steam supply. Low incoming water temperature extends heat-up time and causes E3/E4.
+**E3/E4 (temperature):** Fujimak machines require 60°C (140°F) wash and 82-85°C (180-185°F) rinse. Check the booster heater element continuity. On models with steam injection, verify steam supply. Low incoming water temperature extends heat-up time and causes E3/E4.
 
 **E5 (wash pump):** Check for glass fragments or debris in the pump sump filter (clean it every day). Test pump motor. Fujimak pumps are reliable but debris is the most common cause of pump failure.
 
@@ -40,7 +40,7 @@ Fujimak is a Japanese commercial foodservice equipment brand whose dishwashers a
 | Part | Notes |
 |------|-------|
 | Booster heater element | [Amazon](https://www.amazon.com/s?k=Booster+heater+element&tag=errorcodefixes-20) \| For E4/E6 temperature faults |
-| Pump motor | [Amazon](https://www.amazon.com/s?k=Pump+motor&tag=errorcodefixes-20) \| For E5 ΓÇö match voltage and HP |
+| Pump motor | [Amazon](https://www.amazon.com/s?k=Pump+motor&tag=errorcodefixes-20) \| For E5 — match voltage and HP |
 | Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| For E1 |
 ## When to Call a Pro
 

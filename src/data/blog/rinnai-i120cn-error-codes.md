@@ -38,16 +38,16 @@ The Rinnai I120CN is a commercial condensing tankless water heater rated at 120,
 
 ## Most Common I120CN Faults
 
-### Code 11 ΓÇö Ignition Failure
-Check gas pressure at the unit inlet (7ΓÇô10.5 in. w.c. natural gas for commercial models). Clean or replace the igniter electrode ΓÇö check gap (3.5ΓÇô4mm). Clean flame sensor rod.
+### Code 11 — Ignition Failure
+Check gas pressure at the unit inlet (7–10.5 in. w.c. natural gas for commercial models). Clean or replace the igniter electrode — check gap (3.5–4mm). Clean flame sensor rod.
 
-### Code 16 ΓÇö Overheating
+### Code 16 — Overheating
 The I120CN monitors outlet temperature continuously. In hard water areas, scale accumulation in the heat exchanger reduces flow and causes overheating. Flush annually with commercial descaler. Also check for insufficient flow (minimum 0.75 GPM for I120CN).
 
-### Code 65 ΓÇö Flow Sensor Fault
-Commercial units require minimum flow to activate. Check that the cold water inlet screen is clean. Verify the flow sensor turbine spins freely ΓÇö debris from system flush can lock the turbine.
+### Code 65 — Flow Sensor Fault
+Commercial units require minimum flow to activate. Check that the cold water inlet screen is clean. Verify the flow sensor turbine spins freely — debris from system flush can lock the turbine.
 
-### Code 25 ΓÇö Condensate
+### Code 25 — Condensate
 The I120CN is a condensing unit. The condensate neutralizer requires annual replacement. A clogged neutralizer causes the unit to lock out on fault 25. Replace the neutralizer media annually.
 
 ## Parts Commonly Needed
@@ -57,10 +57,10 @@ The I120CN is a condensing unit. The condensate neutralizer requires annual repl
 | Condensate neutralizer media | [Amazon](https://www.amazon.com/s?k=Condensate+neutralizer+media&tag=errorcodefixes-20) \| Annual replacement required |
 | Inlet/outlet thermistors | [Amazon](https://www.amazon.com/s?k=Inlet%2Foutlet+thermistors&tag=errorcodefixes-20) \| Check resistance vs. temperature chart |
 | Igniter electrode | [Amazon](https://www.amazon.com/s?k=Igniter+electrode&tag=errorcodefixes-20) \| Check gap specification |
-| Fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Commercial voltage ΓÇö match model |
-| Flow sensor | [Amazon](https://www.amazon.com/s?k=Flow+sensor&tag=errorcodefixes-20) \| Turbine type ΓÇö clean before replacing |
-| Heat exchanger | [Amazon](https://www.amazon.com/s?k=Heat+exchanger&tag=errorcodefixes-20) \| Expensive ΓÇö descale first |
-> **Pro tip:** The Rinnai I120CN supports up to 24 units in a cascading system. When diagnosing a cascade, check the system controller for which unit triggered the fault ΓÇö not all units display active codes simultaneously.
+| Fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Commercial voltage — match model |
+| Flow sensor | [Amazon](https://www.amazon.com/s?k=Flow+sensor&tag=errorcodefixes-20) \| Turbine type — clean before replacing |
+| Heat exchanger | [Amazon](https://www.amazon.com/s?k=Heat+exchanger&tag=errorcodefixes-20) \| Expensive — descale first |
+> **Pro tip:** The Rinnai I120CN supports up to 24 units in a cascading system. When diagnosing a cascade, check the system controller for which unit triggered the fault — not all units display active codes simultaneously.
 
 ## Related Articles
 

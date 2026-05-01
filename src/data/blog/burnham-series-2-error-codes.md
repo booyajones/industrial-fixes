@@ -32,29 +32,29 @@ Burnham Series 2 boilers use a Honeywell or Beckett primary control that display
 
 ## Most Common Series 2 Faults
 
-### E1 ΓÇö Ignition Lockout (Gas)
-Burnham Series 2 gas units require 3.5 in. w.c. natural gas pressure at the manifold. Check gas pressure with a manometer. Inspect igniter electrode for cracks and carbon ΓÇö replace if cracked. Clean flame sensor rod with emery cloth.
+### E1 — Ignition Lockout (Gas)
+Burnham Series 2 gas units require 3.5 in. w.c. natural gas pressure at the manifold. Check gas pressure with a manometer. Inspect igniter electrode for cracks and carbon — replace if cracked. Clean flame sensor rod with emery cloth.
 
-### E4 ΓÇö High-Limit Lockout
-Burnham Series 2 boilers set the high-limit at 200┬░F (factory). Lockout occurs when aquastat contacts open. Check for a failed or seized circulator pump. Verify all zone valves are operational. Check thermostat anticipator setting.
+### E4 — High-Limit Lockout
+Burnham Series 2 boilers set the high-limit at 200°F (factory). Lockout occurs when aquastat contacts open. Check for a failed or seized circulator pump. Verify all zone valves are operational. Check thermostat anticipator setting.
 
-### E7 ΓÇö Low Water Cutoff
-The LWCO (low water cutoff) is a critical safety device. If the boiler loses water pressure, it locks out to prevent dry-fire damage. Check system pressure (residential: 12ΓÇô18 PSI hot), look for leaks, and test the LWCO annually.
+### E7 — Low Water Cutoff
+The LWCO (low water cutoff) is a critical safety device. If the boiler loses water pressure, it locks out to prevent dry-fire damage. Check system pressure (residential: 12–18 PSI hot), look for leaks, and test the LWCO annually.
 
 ### Ignition Lockout (Oil)
-On oil-fired Series 2 units with Beckett burner: check oil tank level, oil filter condition, and nozzle condition. Beckett AFG primary has a reset button ΓÇö push once. If it locks out again, check cad cell resistance (should be < 1600 ╬⌐ in flame, > 100,000 ╬⌐ no flame).
+On oil-fired Series 2 units with Beckett burner: check oil tank level, oil filter condition, and nozzle condition. Beckett AFG primary has a reset button — push once. If it locks out again, check cad cell resistance (should be < 1600 ╬⌐ in flame, > 100,000 ╬⌐ no flame).
 
 ## Parts Commonly Needed
 
 | Part | Notes |
 |------|-------|
-| Flame sensor (gas) | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Clean first ΓÇö measure ┬╡A |
+| Flame sensor (gas) | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Clean first — measure ┬╡A |
 | Oil burner nozzle | [Amazon](https://www.amazon.com/s?k=Oil+burner+nozzle&tag=errorcodefixes-20) \| Replace annually |
 | Ignition transformer | [Amazon](https://www.amazon.com/s?k=Ignition+transformer&tag=errorcodefixes-20) \| Check spark at electrode |
 | Circulator pump | [Amazon](https://www.amazon.com/s?k=Circulator+pump&tag=errorcodefixes-20) \| Check for seized impeller |
-| Low water cutoff | [Amazon](https://www.amazon.com/s?k=Low+water+cutoff&tag=errorcodefixes-20) \| Test annually ΓÇö replace if suspect |
+| Low water cutoff | [Amazon](https://www.amazon.com/s?k=Low+water+cutoff&tag=errorcodefixes-20) \| Test annually — replace if suspect |
 | Aquastat | [Amazon](https://www.amazon.com/s?k=Aquastat&tag=errorcodefixes-20) \| Match temperature rating |
-> **Pro tip:** Burnham Series 2 cast iron boilers require annual maintenance. Clean the heat exchanger passages with a boiler brush ΓÇö accumulated soot significantly reduces efficiency and can cause overtemperature faults.
+> **Pro tip:** Burnham Series 2 cast iron boilers require annual maintenance. Clean the heat exchanger passages with a boiler brush — accumulated soot significantly reduces efficiency and can cause overtemperature faults.
 
 ## Related Articles
 

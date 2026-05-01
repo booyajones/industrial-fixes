@@ -15,7 +15,7 @@ tags:
 
 # Schneider Altivar 630 Fault Codes
 
-The Schneider Electric Altivar 630 (ATV630) is a mid-range variable frequency drive rated 0.75ΓÇô800 kW. Fault codes display on the HMI panel as text messages. The ATV630 uses the same fault architecture as the ATV600 and ATV900 families but with drive-specific fault parameters.
+The Schneider Electric Altivar 630 (ATV630) is a mid-range variable frequency drive rated 0.75–800 kW. Fault codes display on the HMI panel as text messages. The ATV630 uses the same fault architecture as the ATV600 and ATV900 families but with drive-specific fault parameters.
 
 ## ATV630 Fault Code Table
 
@@ -38,23 +38,23 @@ The Schneider Electric Altivar 630 (ATV630) is a mid-range variable frequency dr
 
 ## Most Common ATV630 Faults
 
-### OCF ΓÇö Overcurrent Fault
+### OCF — Overcurrent Fault
 Check motor insulation with a megohmmeter (1000 VDC, reading should be > 1 M╬⌐). Verify motor wiring is correct (star vs. delta connection). Increase acceleration ramp time (ACT parameter). Check for mechanical binding in the driven load.
 
-### OHF ΓÇö Overheating
-The ATV630 has a built-in thermal sensor. Measure ambient temperature ΓÇö the drive is rated to 50┬░C (122┬░F) with derating above 40┬░C. Clean cooling fins with compressed air. Verify cooling fan rotates on command.
+### OHF — Overheating
+The ATV630 has a built-in thermal sensor. Measure ambient temperature — the drive is rated to 50°C (122°F) with derating above 40°C. Clean cooling fins with compressed air. Verify cooling fan rotates on command.
 
-### SCF ΓÇö Short Circuit
+### SCF — Short Circuit
 Disconnect motor cables and perform insulation test. Also check for ground faults at motor terminals. If motor tests good, the fault may originate in the output IGBT module.
 
-### PHF ΓÇö Phase Loss
-Check all three input phases with a multimeter. Measure voltage balance ΓÇö more than 2% phase imbalance can cause PHF. Check input fuses individually.
+### PHF — Phase Loss
+Check all three input phases with a multimeter. Measure voltage balance — more than 2% phase imbalance can cause PHF. Check input fuses individually.
 
 ## Parts Commonly Needed
 
 | Part | Notes |
 |------|-------|
-| Cooling fans | [Amazon](https://www.amazon.com/s?k=Cooling+fans&tag=errorcodefixes-20) \| Internal drive fans ΓÇö match voltage and size |
+| Cooling fans | [Amazon](https://www.amazon.com/s?k=Cooling+fans&tag=errorcodefixes-20) \| Internal drive fans — match voltage and size |
 | Input fuses | [Amazon](https://www.amazon.com/s?k=Input+fuses&tag=errorcodefixes-20) \| Match voltage and ampere rating |
 | Brake resistor | [Amazon](https://www.amazon.com/s?k=Brake+resistor&tag=errorcodefixes-20) \| Match ohm rating and wattage |
 | HMI panel | [Amazon](https://www.amazon.com/s?k=HMI+panel&tag=errorcodefixes-20) \| Match drive series |

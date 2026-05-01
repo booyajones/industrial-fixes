@@ -37,7 +37,7 @@ The Heidenhain iTNC 530 is a contouring control used on 5-axis machining centers
 ## Most Common iTNC 530 Errors
 
 ### Drive Error (399 Class)
-The iTNC 530 communicates with HEIDENHAIN or third-party (Bosch Rexroth, Siemens) drives via SERCOS or EnDat interface. A drive error typically means the servo amplifier has an internal fault. Check the amplifier's own display. SERCOS ring breaks cause all axes to fault simultaneously ΓÇö check fiber ring integrity.
+The iTNC 530 communicates with HEIDENHAIN or third-party (Bosch Rexroth, Siemens) drives via SERCOS or EnDat interface. A drive error typically means the servo amplifier has an internal fault. Check the amplifier's own display. SERCOS ring breaks cause all axes to fault simultaneously — check fiber ring integrity.
 
 ### Encoder Error
 iTNC 530 relies on high-precision encoders (HEIDENHAIN linear or rotary encoders). Encoder errors can be caused by contaminated read heads (oil mist, coolant), damaged cables, or EMI interference. Clean glass scale read heads with lint-free cloth and isopropyl alcohol. Check cable routing for pinch points.
@@ -52,9 +52,9 @@ Check all E-stop buttons, safety mats, door interlocks, and axis limit switches.
 
 | Part | Notes |
 |------|-------|
-| Encoder read head | [Amazon](https://www.amazon.com/s?k=Encoder+read+head&tag=errorcodefixes-20) \| HEIDENHAIN-specific ΓÇö match scale graduation |
-| Encoder cable | [Amazon](https://www.amazon.com/s?k=Encoder+cable&tag=errorcodefixes-20) \| Shielded ΓÇö check at connectors first |
+| Encoder read head | [Amazon](https://www.amazon.com/s?k=Encoder+read+head&tag=errorcodefixes-20) \| HEIDENHAIN-specific — match scale graduation |
+| Encoder cable | [Amazon](https://www.amazon.com/s?k=Encoder+cable&tag=errorcodefixes-20) \| Shielded — check at connectors first |
 | SERCOS fiber optic cable | [Amazon](https://www.amazon.com/s?k=SERCOS+fiber+optic+cable&tag=errorcodefixes-20) \| Inspect connectors for contamination |
-| Compact Flash card | [Amazon](https://www.amazon.com/s?k=Compact+Flash+card&tag=errorcodefixes-20) \| CF card stores iTNC software ΓÇö backup before replacing |
+| Compact Flash card | [Amazon](https://www.amazon.com/s?k=Compact+Flash+card&tag=errorcodefixes-20) \| CF card stores iTNC software — backup before replacing |
 | Safety relay | [Amazon](https://www.amazon.com/s?k=Safety+relay&tag=errorcodefixes-20) \| Match HEIDENHAIN safety circuit module |
-> **Pro tip:** iTNC 530 stores error log in the system. Access via MOD ΓåÆ MACHINE SETTINGS ΓåÆ ERROR LOG. The log includes timestamp and NC block number where error occurred ΓÇö critical for finding the root cause in complex 5-axis programs.
+> **Pro tip:** iTNC 530 stores error log in the system. Access via MOD ΓåÆ MACHINE SETTINGS ΓåÆ ERROR LOG. The log includes timestamp and NC block number where error occurred — critical for finding the root cause in complex 5-axis programs.

@@ -34,13 +34,13 @@ The Omega CN7500 series is a PID temperature controller with auto-tuning capabil
 
 ## Most Common CN7500 Faults
 
-### E01 ΓÇö Input Signal Error
-The most common CN7500 fault. Check thermocouple connections at the controller input terminals (+ and -). Thermocouple polarity matters ΓÇö reversing leads shows a decreasing temperature reading. Check thermocouple continuity with a multimeter: resistance should be very low (< 100 ╬⌐).
+### E01 — Input Signal Error
+The most common CN7500 fault. Check thermocouple connections at the controller input terminals (+ and -). Thermocouple polarity matters — reversing leads shows a decreasing temperature reading. Check thermocouple continuity with a multimeter: resistance should be very low (< 100 ╬⌐).
 
 ### Open Sensor (----) 
 Open circuit display appears when the thermocouple circuit is broken. Check all connections from sensor to controller. For thermocouple extension wire, verify the correct alloy is used (Type K extension wire with Type K thermocouple). Using copper wire or wrong thermocouple extension introduces significant temperature error.
 
-### E05 ΓÇö EEPROM Error
+### E05 — EEPROM Error
 Parameter memory corruption usually occurs after a power surge or battery-backed memory failure. Restore factory defaults via the CN7500 menu. Re-enter all control parameters (set point, PID values, input type, alarm points) after reset.
 
 ### Auto-Tune Issues
@@ -51,8 +51,8 @@ If the CN7500 auto-tune does not complete within 4 hours, the process may have t
 | Part | Notes |
 |------|-------|
 | Type K thermocouple | [Amazon](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) \| Match temperature range to process |
-| Type K extension wire | [Amazon](https://www.amazon.com/s?k=Type+K+extension+wire&tag=errorcodefixes-20) \| Use correct alloy ΓÇö not copper |
+| Type K extension wire | [Amazon](https://www.amazon.com/s?k=Type+K+extension+wire&tag=errorcodefixes-20) \| Use correct alloy — not copper |
 | RTD sensor (Pt100) | [Amazon](https://www.amazon.com/s?k=RTD+sensor+%28Pt100%29&tag=errorcodefixes-20) \| For CN7500 RTD versions |
-| Solid-state relay (SSR) | [Amazon](https://www.amazon.com/s?k=Solid-state+relay+%28SSR%29&tag=errorcodefixes-20) \| Output to heater ΓÇö match current rating |
+| Solid-state relay (SSR) | [Amazon](https://www.amazon.com/s?k=Solid-state+relay+%28SSR%29&tag=errorcodefixes-20) \| Output to heater — match current rating |
 | Replacement CN7500 | [Amazon](https://www.amazon.com/s?k=Replacement+CN7500&tag=errorcodefixes-20) \| Usually more economical than repair |
 > **Pro tip:** Omega CN7500 input type is set via a DIP switch inside the controller, not just via menu. If the temperature reading is incorrect or shows an error after changing sensors, verify both the DIP switch position AND the menu input type match your sensor type.

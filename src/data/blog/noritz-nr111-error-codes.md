@@ -38,17 +38,17 @@ The Noritz NR111 is a high-capacity condensing tankless water heater (199,000 BT
 
 ## Most Common NR111 Faults
 
-### Code 11 ΓÇö Ignition Failure
+### Code 11 — Ignition Failure
 NR111 requires minimum 3.5 in. w.c. gas pressure (natural gas) at the inlet. Verify full gas pressure with a manometer. Check igniter electrode condition and gap. Clean flame sensor rod with emery cloth.
 
-### Code 16 ΓÇö High Temperature Limit
+### Code 16 — High Temperature Limit
 In hard water regions, scale builds rapidly in NR111's stainless heat exchanger. The unit will overheat at lower flow rates as heat transfer degrades. Descale with citric acid solution annually. Also verify minimum flow rate (0.75 GPM).
 
-### Code 65 ΓÇö Flow Sensor Fault
+### Code 65 — Flow Sensor Fault
 The NR111 flow sensor activates the burner when demand exceeds 0.75 GPM. A clogged inlet screen or debris from corroded pipes can restrict flow and prevent activation. Remove and clean the screen and sensor turbine.
 
-### Code 90 ΓÇö Combustion Problem
-Code 90 is logged when the unit detects repeated combustion failures not attributed to a specific sensor. Check combustion air supply, verify CO2 percentage in flue gas (should be 8ΓÇô9.5% natural gas), and check PCB.
+### Code 90 — Combustion Problem
+Code 90 is logged when the unit detects repeated combustion failures not attributed to a specific sensor. Check combustion air supply, verify CO2 percentage in flue gas (should be 8–9.5% natural gas), and check PCB.
 
 ## Parts Commonly Needed
 
@@ -56,11 +56,11 @@ Code 90 is logged when the unit detects repeated combustion failures not attribu
 |------|-------|
 | Thermistor sensors | [Amazon](https://www.amazon.com/s?k=Thermistor+sensors&tag=errorcodefixes-20) \| Check resistance vs. chart |
 | Flow sensor | [Amazon](https://www.amazon.com/s?k=Flow+sensor&tag=errorcodefixes-20) \| Clean turbine before replacing |
-| Igniter/flame rod | [Amazon](https://www.amazon.com/s?k=Igniter%2Fflame+rod&tag=errorcodefixes-20) \| Check gap: 3.5ΓÇô4mm |
-| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Test coil resistance (8ΓÇô12 ╬⌐ typical) |
+| Igniter/flame rod | [Amazon](https://www.amazon.com/s?k=Igniter%2Fflame+rod&tag=errorcodefixes-20) \| Check gap: 3.5–4mm |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Test coil resistance (8–12 ╬⌐ typical) |
 | Fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match model voltage and RPM |
-| Heat exchanger | [Amazon](https://www.amazon.com/s?k=Heat+exchanger&tag=errorcodefixes-20) \| Last resort ΓÇö descale first |
-> **Pro tip:** Noritz NR111 units in cascade configurations (up to 16 units) can be monitored via the EZ Link controller. Fault codes for all units display on the controller ΓÇö check here before visiting individual units.
+| Heat exchanger | [Amazon](https://www.amazon.com/s?k=Heat+exchanger&tag=errorcodefixes-20) \| Last resort — descale first |
+> **Pro tip:** Noritz NR111 units in cascade configurations (up to 16 units) can be monitored via the EZ Link controller. Fault codes for all units display on the controller — check here before visiting individual units.
 
 ## Related Articles
 

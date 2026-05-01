@@ -15,7 +15,7 @@ tags:
 
 # Daikin RXQ VRV System Error Codes (Outdoor Unit)
 
-Daikin RXQ series VRV outdoor units display fault codes on the unit service panel LED. Codes use an alphanumeric format (e.g., U0, E1, C4). Codes can be retrieved remotely via Daikin Intelligent Touch Controller (ITC) or DIII-NET interface. The LED flashes a letter-number code ΓÇö observe both the letter (flashes) and number (quick flashes).
+Daikin RXQ series VRV outdoor units display fault codes on the unit service panel LED. Codes use an alphanumeric format (e.g., U0, E1, C4). Codes can be retrieved remotely via Daikin Intelligent Touch Controller (ITC) or DIII-NET interface. The LED flashes a letter-number code — observe both the letter (flashes) and number (quick flashes).
 
 ## RXQ Outdoor Unit Fault Code Table
 
@@ -38,17 +38,17 @@ Daikin RXQ series VRV outdoor units display fault codes on the unit service pane
 
 ## Most Common RXQ Faults
 
-### U4 ΓÇö Communication Error
+### U4 — Communication Error
 The most common VRV installation fault. Communication between indoor and outdoor units uses a shielded 3-wire bus (F1, F2, shield). Check all terminal connections, verify wire polarity, and check for damaged insulation. Communication errors often appear as multiple indoor unit faults simultaneously.
 
-### E3 ΓÇö High-Pressure Switch
+### E3 — High-Pressure Switch
 Daikin VRV systems use R-410A (some older RXQ use R-22). HP switch opens at approximately 590 psi (R-410A). Check outdoor heat exchanger for dirt and debris. On heat mode, check indoor coil airflow.
 
-### U0 ΓÇö Refrigerant Shortage
-VRV systems require precise refrigerant charge based on total indoor unit capacity and piping length. Use Daikin's charging calculator ΓÇö adding by pressure alone is incorrect on inverter systems.
+### U0 — Refrigerant Shortage
+VRV systems require precise refrigerant charge based on total indoor unit capacity and piping length. Use Daikin's charging calculator — adding by pressure alone is incorrect on inverter systems.
 
-### L5 ΓÇö Inverter Overcurrent
-Check compressor winding resistance (typically 0.5ΓÇô2 ╬⌐ per phase). Check inverter board for burned components. Measure DC bus voltage at inverter.
+### L5 — Inverter Overcurrent
+Check compressor winding resistance (typically 0.5–2 ╬⌐ per phase). Check inverter board for burned components. Measure DC bus voltage at inverter.
 
 ## Parts Commonly Needed
 
@@ -58,7 +58,7 @@ Check compressor winding resistance (typically 0.5ΓÇô2 ╬⌐ per phase). Che
 | Electronic expansion valve (EEV) | [Amazon](https://www.amazon.com/s?k=Electronic+expansion+valve+%28EEV%29&tag=errorcodefixes-20) \| Match refrigerant and valve size |
 | Fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| VRV units often use DC motors |
 | High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match refrigerant type |
-| Communication cable | [Amazon](https://www.amazon.com/s?k=Communication+cable&tag=errorcodefixes-20) \| F1/F2 ΓÇö shielded type required |
+| Communication cable | [Amazon](https://www.amazon.com/s?k=Communication+cable&tag=errorcodefixes-20) \| F1/F2 — shielded type required |
 > **Pro tip:** Daikin VRV systems allow fault code retrieval via the intelligent touch controller without visiting the outdoor unit. Press the Mode/Fan button combination to enter service mode and retrieve all connected unit faults.
 
 ## Related Articles

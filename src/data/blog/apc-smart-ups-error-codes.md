@@ -27,7 +27,7 @@ APC Smart-UPS (SUA, SMT, SMX, and SRT series) communicate faults via front panel
 | Replace Battery LED | Battery replace needed | Battery past service life | Replace battery cartridge |
 | Overload LED | Load too high | Connected load exceeds rating | Reduce load |
 | Site Wiring Fault LED | Wiring fault | Grounding or wiring issue | Check building wiring |
-| Fault LED (F01) | Internal fault ΓÇö hardware | Internal UPS fault | Contact APC |
+| Fault LED (F01) | Internal fault — hardware | Internal UPS fault | Contact APC |
 | Fault LED (F02) | Output overload | Load exceeds UPS rating | Reduce load |
 | Fault LED (F03) | Battery overvoltage | Battery fault | Replace battery |
 | Fault LED (F06) | Fan failure | Cooling fan fault | Contact APC |
@@ -36,23 +36,23 @@ APC Smart-UPS (SUA, SMT, SMX, and SRT series) communicate faults via front panel
 ## Most Common Smart-UPS Faults
 
 ### Replace Battery
-APC Smart-UPS batteries have a typical service life of 3ΓÇô5 years. Elevated temperatures (above 25┬░C ambient) accelerate battery aging. When the Replace Battery LED illuminates, the battery internal resistance has increased to the point where runtime is below spec. Replace with APC-approved battery cartridges ΓÇö third-party batteries may not communicate correctly with the UPS.
+APC Smart-UPS batteries have a typical service life of 3–5 years. Elevated temperatures (above 25°C ambient) accelerate battery aging. When the Replace Battery LED illuminates, the battery internal resistance has increased to the point where runtime is below spec. Replace with APC-approved battery cartridges — third-party batteries may not communicate correctly with the UPS.
 
 ### Overload
-The UPS cannot supply more power than its rated VA/watt output. If the connected load exceeds the UPS rating, the overload LED illuminates. The UPS will bypass to utility power if overload persists. Check connected equipment wattage ΓÇö power strips can make this difficult to track. Disconnect non-critical loads.
+The UPS cannot supply more power than its rated VA/watt output. If the connected load exceeds the UPS rating, the overload LED illuminates. The UPS will bypass to utility power if overload persists. Check connected equipment wattage — power strips can make this difficult to track. Disconnect non-critical loads.
 
 ### Site Wiring Fault
 The Smart-UPS checks for proper AC site wiring. This fault triggers when: the outlet is ungrounded, hot and neutral are reversed, or there is a high-impedance neutral. Check the outlet with a receptacle tester. This fault does not prevent the UPS from operating but indicates a wiring safety issue.
 
-### F06 ΓÇö Fan Failure
-Larger Smart-UPS models (1500 VA+) have internal cooling fans. Fan failure causes the UPS to overheat and derate. On SMX and SRT units, fans are field-replaceable. Check if the fan spins freely ΓÇö dust accumulation can cause fan failure.
+### F06 — Fan Failure
+Larger Smart-UPS models (1500 VA+) have internal cooling fans. Fan failure causes the UPS to overheat and derate. On SMX and SRT units, fans are field-replaceable. Check if the fan spins freely — dust accumulation can cause fan failure.
 
 ## Parts Commonly Needed
 
 | Part | Notes |
 |------|-------|
-| Battery cartridge | [Amazon](https://www.amazon.com/s?k=Battery+cartridge&tag=errorcodefixes-20) \| Match UPS model (APCRBC) ΓÇö use OEM |
-| Replacement fan | [Amazon](https://www.amazon.com/s?k=Replacement+fan&tag=errorcodefixes-20) \| SRT and SMX series ΓÇö model-specific |
+| Battery cartridge | [Amazon](https://www.amazon.com/s?k=Battery+cartridge&tag=errorcodefixes-20) \| Match UPS model (APCRBC) — use OEM |
+| Replacement fan | [Amazon](https://www.amazon.com/s?k=Replacement+fan&tag=errorcodefixes-20) \| SRT and SMX series — model-specific |
 | PowerChute software | [Amazon](https://www.amazon.com/s?k=PowerChute+software&tag=errorcodefixes-20) \| Free download from APC website |
 | Network management card | [Amazon](https://www.amazon.com/s?k=Network+management+card&tag=errorcodefixes-20) \| AP9630 or AP9640 for SNMP monitoring |
 > **Pro tip:** APC Smart-UPS with network management cards send SNMP traps or email alerts on fault conditions. Connect the UPS to building network with an NMC card for remote monitoring and proactive battery replacement alerts before battery failure causes an outage.

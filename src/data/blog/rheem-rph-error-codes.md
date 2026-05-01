@@ -15,7 +15,7 @@ tags:
 
 # Rheem RPH Series Packaged Unit Error Codes
 
-Rheem RPH packaged heat pump units use an LED diagnostic indicator on the control board. Flash sequences indicate specific faults ΓÇö count flashes between 3-second pauses. Units with the EcoNet communicating system display alphanumeric codes on the thermostat.
+Rheem RPH packaged heat pump units use an LED diagnostic indicator on the control board. Flash sequences indicate specific faults — count flashes between 3-second pauses. Units with the EcoNet communicating system display alphanumeric codes on the thermostat.
 
 ## RPH Flash Code Table
 
@@ -33,29 +33,29 @@ Rheem RPH packaged heat pump units use an LED diagnostic indicator on the contro
 
 ## Most Common RPH Faults
 
-### 3 Flashes ΓÇö High-Pressure Lockout
+### 3 Flashes — High-Pressure Lockout
 Most common summer service call on packaged units. Verify condenser fan rotation (should pull air up through the coil). Wash coil with commercial coil cleaner. Check for restricted condenser fan discharge.
 
-### 2 Flashes ΓÇö Low Pressure
-In cooling mode: check refrigerant charge using subcooling method. In heating mode: ice on outdoor coil triggers LP trip ΓÇö verify defrost system operation.
+### 2 Flashes — Low Pressure
+In cooling mode: check refrigerant charge using subcooling method. In heating mode: ice on outdoor coil triggers LP trip — verify defrost system operation.
 
-### 7 Flashes ΓÇö Defrost Fault
-Confirm defrost thermostat is clipped firmly to the liquid line near the outdoor coil. Check defrost board timing pins ΓÇö jumper JP1 sets cycle time. Verify defrost terminates within 14 minutes.
+### 7 Flashes — Defrost Fault
+Confirm defrost thermostat is clipped firmly to the liquid line near the outdoor coil. Check defrost board timing pins — jumper JP1 sets cycle time. Verify defrost terminates within 14 minutes.
 
-### 8 Flashes ΓÇö Reversing Valve
-Rheem RPH reversing valves are energized in cooling. If stuck in one position, you'll have cooling-only or heating-only operation. Measure solenoid coil resistance (typically 18ΓÇô30 ╬⌐).
+### 8 Flashes — Reversing Valve
+Rheem RPH reversing valves are energized in cooling. If stuck in one position, you'll have cooling-only or heating-only operation. Measure solenoid coil resistance (typically 18–30 ╬⌐).
 
 ## Parts Commonly Needed
 
 | Part | Notes |
 |------|-------|
-| Defrost board | [Amazon](https://www.amazon.com/s?k=Defrost+board&tag=errorcodefixes-20) \| Critical ΓÇö match to exact model |
+| Defrost board | [Amazon](https://www.amazon.com/s?k=Defrost+board&tag=errorcodefixes-20) \| Critical — match to exact model |
 | Defrost thermostat | [Amazon](https://www.amazon.com/s?k=Defrost+thermostat&tag=errorcodefixes-20) \| Available in multiple trip temperatures |
-| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Dual-run ΓÇö test both sections |
+| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Dual-run — test both sections |
 | Reversing valve | [Amazon](https://www.amazon.com/s?k=Reversing+valve&tag=errorcodefixes-20) \| Match tonnage and refrigerant type |
 | Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Check for pitting and coil voltage |
 | Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Match unit serial and model number |
-> **Pro tip:** Rheem RPH units with EcoNet log fault history with timestamps. Connect EcoNet app to retrieve detailed fault history before servicing ΓÇö saves significant diagnostic time.
+> **Pro tip:** Rheem RPH units with EcoNet log fault history with timestamps. Connect EcoNet app to retrieve detailed fault history before servicing — saves significant diagnostic time.
 
 ## Related Articles
 

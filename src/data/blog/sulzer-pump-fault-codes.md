@@ -14,7 +14,7 @@ tags:
 
 # Sulzer Pump Fault Codes
 
-Sulzer pumps (ABS, MF, MXF, WPK series) with integrated controls or monitoring systems display fault codes on the control panel or relay outputs. Sulzer's Pump Advisor monitoring system provides real-time diagnostics. Most Sulzer pumps are controlled by external PLCs or drives ΓÇö fault codes depend on the associated control system.
+Sulzer pumps (ABS, MF, MXF, WPK series) with integrated controls or monitoring systems display fault codes on the control panel or relay outputs. Sulzer's Pump Advisor monitoring system provides real-time diagnostics. Most Sulzer pumps are controlled by external PLCs or drives — fault codes depend on the associated control system.
 
 ## Sulzer ABS/MF Series Fault Reference
 
@@ -34,13 +34,13 @@ Sulzer pumps (ABS, MF, MXF, WPK series) with integrated controls or monitoring s
 ## Most Common Sulzer Pump Faults
 
 ### Moisture Alarm
-Sulzer submersible pumps (ABS series) have moisture detection sensors in the motor housing. A moisture alarm indicates seal failure ΓÇö liquid is entering the motor. Do not operate the pump ΓÇö remove from service immediately and inspect the mechanical seal. The seal should be replaced proactively before full seal failure floods the motor.
+Sulzer submersible pumps (ABS series) have moisture detection sensors in the motor housing. A moisture alarm indicates seal failure — liquid is entering the motor. Do not operate the pump — remove from service immediately and inspect the mechanical seal. The seal should be replaced proactively before full seal failure floods the motor.
 
 ### Overtemperature
-Sulzer pump motors are typically thermistor-protected. If the motor winding temperature exceeds 150┬░C (class F insulation), the thermistor resistance rises sharply, triggering the alarm. Check motor current against nameplate FLA. Check that the cooling jacket has adequate flow. On wet-pit submersible pumps, verify liquid level covers the motor.
+Sulzer pump motors are typically thermistor-protected. If the motor winding temperature exceeds 150°C (class F insulation), the thermistor resistance rises sharply, triggering the alarm. Check motor current against nameplate FLA. Check that the cooling jacket has adequate flow. On wet-pit submersible pumps, verify liquid level covers the motor.
 
 ### Vibration Alarm
-Excessive vibration indicates cavitation, impeller imbalance, or bearing deterioration. Measure vibration at the pump bearing housings with a vibration meter (velocity RMS, target < 4.5 mm/s for good condition). Cavitation sounds like gravel in the pump ΓÇö increase inlet pressure or reduce flow.
+Excessive vibration indicates cavitation, impeller imbalance, or bearing deterioration. Measure vibration at the pump bearing housings with a vibration meter (velocity RMS, target < 4.5 mm/s for good condition). Cavitation sounds like gravel in the pump — increase inlet pressure or reduce flow.
 
 ### Undercurrent / Dry Run
 Sulzer pumps with undercurrent monitoring detect when flow drops below expected levels. Dry-run operation damages mechanical seals rapidly. Check liquid level in the wet well or tank. Verify suction piping is submerged and not air-locked.
@@ -50,8 +50,8 @@ Sulzer pumps with undercurrent monitoring detect when flow drops below expected 
 | Part | Notes |
 |------|-------|
 | Mechanical seal kit | [Amazon](https://www.amazon.com/s?k=Mechanical+seal+kit&tag=errorcodefixes-20) \| Match pump model and size |
-| Moisture sensor cable | [Amazon](https://www.amazon.com/s?k=Moisture+sensor+cable&tag=errorcodefixes-20) \| Sulzer-specific ΓÇö match pump series |
+| Moisture sensor cable | [Amazon](https://www.amazon.com/s?k=Moisture+sensor+cable&tag=errorcodefixes-20) \| Sulzer-specific — match pump series |
 | Impeller | [Amazon](https://www.amazon.com/s?k=Impeller&tag=errorcodefixes-20) \| Replace if worn or damaged |
 | Bearing kit | [Amazon](https://www.amazon.com/s?k=Bearing+kit&tag=errorcodefixes-20) \| Match pump bearing specification |
 | Thermistor | [Amazon](https://www.amazon.com/s?k=Thermistor&tag=errorcodefixes-20) \| Match motor winding type |
-> **Pro tip:** Sulzer's Pump Advisor digital service platform enables remote condition monitoring of Sulzer pumps via IIoT sensors. Retrofit kits are available for older pump installations ΓÇö real-time vibration and temperature data can predict failures weeks before they occur.
+> **Pro tip:** Sulzer's Pump Advisor digital service platform enables remote condition monitoring of Sulzer pumps via IIoT sensors. Retrofit kits are available for older pump installations — real-time vibration and temperature data can predict failures weeks before they occur.

@@ -36,25 +36,25 @@ Armstrong Design Envelope pumps with integrated VFD and Pump Manager controls di
 
 ## Most Common Armstrong Faults
 
-### F01 ΓÇö Motor Overcurrent
-Armstrong Design Envelope pumps are sized for specific system curves. If system resistance increases (closed balancing valve, clogged strainer), current increases. Check system strainer (typically Y-strainer on pump inlet) ΓÇö clean if dirty. Verify pump impeller diameter matches design conditions.
+### F01 — Motor Overcurrent
+Armstrong Design Envelope pumps are sized for specific system curves. If system resistance increases (closed balancing valve, clogged strainer), current increases. Check system strainer (typically Y-strainer on pump inlet) — clean if dirty. Verify pump impeller diameter matches design conditions.
 
-### F02 ΓÇö Drive Overtemperature
-The integrated VFD must have adequate airflow. Armstrong Design Envelope pumps should be installed with a minimum 6-inch clearance above and below the drive section. In hot mechanical rooms, add auxiliary cooling if ambient exceeds 40┬░C.
+### F02 — Drive Overtemperature
+The integrated VFD must have adequate airflow. Armstrong Design Envelope pumps should be installed with a minimum 6-inch clearance above and below the drive section. In hot mechanical rooms, add auxiliary cooling if ambient exceeds 40°C.
 
-### F09 ΓÇö Sensor Fault
-Armstrong Design Envelope uses differential pressure sensors for automatic control. Check sensor tubing for blockage or air locks. Verify 4ΓÇô20 mA signal at controller. Clean sensor pressure ports if system has debris.
+### F09 — Sensor Fault
+Armstrong Design Envelope uses differential pressure sensors for automatic control. Check sensor tubing for blockage or air locks. Verify 4–20 mA signal at controller. Clean sensor pressure ports if system has debris.
 
-### F12 ΓÇö Dry Run
+### F12 — Dry Run
 System water pressure below minimum triggers dry run protection. Check fill pressure (minimum 12 PSI for closed hydronic systems). Check for open drain valves or system leaks.
 
 ## Parts Commonly Needed
 
 | Part | Notes |
 |------|-------|
-| Drive assembly | [Amazon](https://www.amazon.com/s?k=Drive+assembly&tag=errorcodefixes-20) \| Armstrong-specific VFD ΓÇö contact Armstrong |
+| Drive assembly | [Amazon](https://www.amazon.com/s?k=Drive+assembly&tag=errorcodefixes-20) \| Armstrong-specific VFD — contact Armstrong |
 | Pressure sensor | [Amazon](https://www.amazon.com/s?k=Pressure+sensor&tag=errorcodefixes-20) \| Differential pressure transducer |
 | Motor seal kit | [Amazon](https://www.amazon.com/s?k=Motor+seal+kit&tag=errorcodefixes-20) \| Annual replacement on higher-flow models |
 | Impeller | [Amazon](https://www.amazon.com/s?k=Impeller&tag=errorcodefixes-20) \| Match pump model and size |
-| Y-strainer basket | [Amazon](https://www.amazon.com/s?k=Y-strainer+basket&tag=errorcodefixes-20) \| Clean or replace ΓÇö prevents F11 and F12 |
+| Y-strainer basket | [Amazon](https://www.amazon.com/s?k=Y-strainer+basket&tag=errorcodefixes-20) \| Clean or replace — prevents F11 and F12 |
 > **Pro tip:** Armstrong Design Envelope pumps with Pump Manager technology log operational data. Register the pump with Armstrong Fluid Technology's cloud portal for remote monitoring, fault alerts, and efficiency trending accessible from any browser.

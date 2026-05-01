@@ -1,5 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" width="400" height="120">
-<text x="200" y="90" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, monospace" font-size="80" font-weight="700" letter-spacing="-2">
-  <tspan fill="#E6531D">[</tspan><tspan fill="#F4F3EF">ECF</tspan><tspan fill="#E6531D">]</tspan>
-</text>
+<svg width="520" height="90" viewBox="0 0 520 90" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="72" height="72" rx="14" fill="#1E3D6D"/>
+  <text x="36" y="28" text-anchor="middle" font-family="'SF Mono', 'Fira Code', 'Cascadia Code', monospace" font-size="28" font-weight="700" fill="#F87171" opacity="0.8">&lt;/&gt;</text>
+  <polyline points="18,52 28,62 54,36" fill="none" stroke="#4ADE80" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="92" y="32" font-family="'SF Mono', 'Fira Code', 'Cascadia Code', monospace" font-size="30" font-weight="700" letter-spacing="-0.5">
+    <tspan fill="#F87171">error</tspan><tspan fill="#E2E8F0">code</tspan><tspan fill="#4ADE80">fixes</tspan>
+  </text>
+  <text x="92" y="58" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#94A3B8" letter-spacing="3.5">.COM</text>
 </svg>

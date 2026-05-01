@@ -34,25 +34,25 @@ The Fluke 289 is a professional true-RMS multimeter designed for industrial tech
 
 ## Most Common Fluke 289 Issues
 
-### OL ΓÇö Overload
+### OL — Overload
 OL appears when the input voltage, current, or resistance exceeds the selected range. On voltage: maximum input is 1000 VDC / 1000 VAC. On current through A jacks: maximum is 10A (11A momentary). On the mA/┬╡A jack: maximum is 440mA. If OL appears at low ranges, check that leads are in the correct jacks.
 
-### FUSED ΓÇö Fuse Blown
-The Fluke 289 has two current fuses. The 10A/600V fuse protects the 10A input. The 440mA/1000V fuse protects the mA input. After a fuse blow, the display shows FUSED. Replace with Fluke-specified fuses (Fluke PN 943260 for 11A, 943261 for 440mA). Never substitute with lower-quality fuses ΓÇö this is a safety-critical component.
+### FUSED — Fuse Blown
+The Fluke 289 has two current fuses. The 10A/600V fuse protects the 10A input. The 440mA/1000V fuse protects the mA input. After a fuse blow, the display shows FUSED. Replace with Fluke-specified fuses (Fluke PN 943260 for 11A, 943261 for 440mA). Never substitute with lower-quality fuses — this is a safety-critical component.
 
-### OPEN TC ΓÇö Open Thermocouple
+### OPEN TC — Open Thermocouple
 In temperature mode with a Type K thermocouple, OPEN TC means the thermocouple is not connected or has an open junction. Check the thermocouple lead connection at the Fluke 289 input jack. Verify thermocouple polarity (yellow = positive for Type K).
 
-### CAL ERR ΓÇö Calibration Error
+### CAL ERR — Calibration Error
 Indicates the internal calibration reference has failed. This is usually caused by battery depletion during calibration, a dropped meter, or age. Return to a Fluke-authorized calibration center.
 
 ## Parts Commonly Needed
 
 | Part | Notes |
 |------|-------|
-| Fuse 11A/600V | [Amazon](https://www.amazon.com/s?k=Fuse+11A%2F600V&tag=errorcodefixes-20) \| Fluke PN 943260 ΓÇö use only Fluke fuses |
+| Fuse 11A/600V | [Amazon](https://www.amazon.com/s?k=Fuse+11A%2F600V&tag=errorcodefixes-20) \| Fluke PN 943260 — use only Fluke fuses |
 | Fuse 440mA/1000V | [Amazon](https://www.amazon.com/s?k=Fuse+440mA%2F1000V&tag=errorcodefixes-20) \| Fluke PN 943261 |
-| AA batteries | [Amazon](https://www.amazon.com/s?k=AA+batteries&tag=errorcodefixes-20) \| Alkaline ΓÇö 6x AA |
+| AA batteries | [Amazon](https://www.amazon.com/s?k=AA+batteries&tag=errorcodefixes-20) \| Alkaline — 6x AA |
 | Test leads | [Amazon](https://www.amazon.com/s?k=Test+leads&tag=errorcodefixes-20) \| Fluke TL175 or TL80A |
 | Type K thermocouple | [Amazon](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) \| 80BK-A for HVAC temperature measurements |
-> **Pro tip:** Fluke 289 has memory logging capability ΓÇö up to 15,000 time-stamped readings. When troubleshooting intermittent faults, set up logging mode (MIN/MAX/AVG or Event Log) before leaving the site to capture conditions that occur after hours.
+> **Pro tip:** Fluke 289 has memory logging capability — up to 15,000 time-stamped readings. When troubleshooting intermittent faults, set up logging mode (MIN/MAX/AVG or Event Log) before leaving the site to capture conditions that occur after hours.

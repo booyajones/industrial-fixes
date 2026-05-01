@@ -15,7 +15,7 @@ tags:
 
 # Danfoss VLT 2900 Fault Codes
 
-The Danfoss VLT 2900 series is a general-purpose VFD rated 0.37ΓÇô30 kW. Alarm codes display on the LCP (Local Control Panel) as "AL" followed by a number. Warning codes display as "W" codes. The VLT 2900 is an older series ΓÇö replacement is the VLT FC301/302 family.
+The Danfoss VLT 2900 series is a general-purpose VFD rated 0.37–30 kW. Alarm codes display on the LCP (Local Control Panel) as "AL" followed by a number. Warning codes display as "W" codes. The VLT 2900 is an older series — replacement is the VLT FC301/302 family.
 
 ## VLT 2900 Fault Code Table
 
@@ -39,16 +39,16 @@ The Danfoss VLT 2900 series is a general-purpose VFD rated 0.37ΓÇô30 kW. Alar
 
 ## Most Common VLT 2900 Faults
 
-### AL 13 ΓÇö Overcurrent
-The VLT 2900 is sensitive to output impedance. Verify motor data in parameters 102ΓÇô106 (nameplate data). Increase parameter 207 (acceleration time). If the fault is immediate on start, check for a short circuit at output terminals.
+### AL 13 — Overcurrent
+The VLT 2900 is sensitive to output impedance. Verify motor data in parameters 102–106 (nameplate data). Increase parameter 207 (acceleration time). If the fault is immediate on start, check for a short circuit at output terminals.
 
-### AL 29 ΓÇö Heatsink Overtemperature
-VLT 2900 units installed in enclosures must have adequate ventilation. Heatsink temperature limit is 90┬░C. Clean fins with compressed air. In enclosed panels, provide fan-forced cooling with adequate airflow through the panel.
+### AL 29 — Heatsink Overtemperature
+VLT 2900 units installed in enclosures must have adequate ventilation. Heatsink temperature limit is 90°C. Clean fins with compressed air. In enclosed panels, provide fan-forced cooling with adequate airflow through the panel.
 
-### AL 5 ΓÇö DC Link Overvoltage
+### AL 5 — DC Link Overvoltage
 Most common on applications with high inertia loads (fans, pumps, centrifuges). The VLT 2900 DC bus charges if motor decelerates faster than the drive absorbs energy. Extend decel time (parameter 208) or add brake chopper/resistor.
 
-### AL 14 ΓÇö Ground Fault
+### AL 14 — Ground Fault
 Use megohmmeter at 1000 VDC on all motor windings and cables. Also check PE (ground) connection integrity at both motor and drive. Long cables act as capacitors and can cause nuisance ground fault trips on older drives.
 
 ## Parts Commonly Needed

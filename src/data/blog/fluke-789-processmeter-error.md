@@ -15,7 +15,7 @@ tags:
 
 # Fluke 789 ProcessMeter Error Codes
 
-The Fluke 789 ProcessMeter is a combination meter and process calibrator capable of measuring and sourcing 4ΓÇô20 mA, mV, and frequency signals. It is widely used for calibrating transmitters, positioners, and I/P converters.
+The Fluke 789 ProcessMeter is a combination meter and process calibrator capable of measuring and sourcing 4–20 mA, mV, and frequency signals. It is widely used for calibrating transmitters, positioners, and I/P converters.
 
 ## Fluke 789 Error Messages Table
 
@@ -32,24 +32,24 @@ The Fluke 789 ProcessMeter is a combination meter and process calibrator capable
 
 ## Most Common Fluke 789 Issues
 
-### OL ΓÇö Overload in mA Mode
+### OL — Overload in mA Mode
 Maximum input for the mA measurement function is 22 mA. If a loop is shorted and current spikes, OL appears. Check the loop for short circuits before connecting the 789. Also check that leads are in the correct jacks (mA, not V).
 
-### FUSED ΓÇö Current Fuse
+### FUSED — Current Fuse
 The 789 uses a 440mA/1000V fuse for the current input circuit. After a fuse failure, the mA measurement will read OL or 0 regardless of actual current. Replace with the specified fuse. Check loop wiring for a short before re-measurement.
 
 ### Loop Power Function
 The 789 can supply 24 VDC to power a 2-wire transmitter. When LOOP PWR is on, the 789 sources current to the loop. This is normal operation. If the transmitter does not respond, check transmitter wiring and transmitter power requirements (some need 24 VDC minimum).
 
 ### MILLIAMP Source Calibration
-The 789 sources 4ΓÇô20 mA for calibrating current inputs on PLCs and controllers. If the sourced current is inaccurate, the 789 may require calibration. Compare the sourced output to a known-accurate reference. Annual calibration is recommended for process calibration work.
+The 789 sources 4–20 mA for calibrating current inputs on PLCs and controllers. If the sourced current is inaccurate, the 789 may require calibration. Compare the sourced output to a known-accurate reference. Annual calibration is recommended for process calibration work.
 
 ## Parts Commonly Needed
 
 | Part | Notes |
 |------|-------|
 | Fuse 440mA/1000V | [Amazon](https://www.amazon.com/s?k=Fuse+440mA%2F1000V&tag=errorcodefixes-20) \| Use only Fluke-specified fuse |
-| 9V battery | [Amazon](https://www.amazon.com/s?k=9V+battery&tag=errorcodefixes-20) \| Alkaline ΓÇö Duracell or Energizer |
+| 9V battery | [Amazon](https://www.amazon.com/s?k=9V+battery&tag=errorcodefixes-20) \| Alkaline — Duracell or Energizer |
 | Test leads | [Amazon](https://www.amazon.com/s?k=Test+leads&tag=errorcodefixes-20) \| Use category-rated leads for process work |
 | Alligator clips | [Amazon](https://www.amazon.com/s?k=Alligator+clips&tag=errorcodefixes-20) \| For hands-free current loop connection |
-> **Pro tip:** The Fluke 789 can perform a HART transmitter check when used with the 29 Series signal injectors. When servicing 4ΓÇô20 mA loops, use the LOOP PWR mode to power isolated transmitters without needing an external power supply.
+> **Pro tip:** The Fluke 789 can perform a HART transmitter check when used with the 29 Series signal injectors. When servicing 4–20 mA loops, use the LOOP PWR mode to power isolated transmitters without needing an external power supply.

@@ -10,9 +10,9 @@ tags:
   - vfd
 ---
 
-## Electrical Panel Trip and Reset ΓÇö What You Need to Know
+## Electrical Panel Trip and Reset — What You Need to Know
 
-When a circuit breaker trips in a residential, commercial, or industrial panel, it's protecting you from overcurrent, short circuit, or ground fault. Before resetting, you need to understand why it tripped ΓÇö otherwise it will trip again immediately.
+When a circuit breaker trips in a residential, commercial, or industrial panel, it's protecting you from overcurrent, short circuit, or ground fault. Before resetting, you need to understand why it tripped — otherwise it will trip again immediately.
 
 ## Types of Circuit Breaker Trips
 
@@ -27,12 +27,12 @@ When a circuit breaker trips in a residential, commercial, or industrial panel, 
 ## How to Reset a Tripped Breaker
 
 ### Residential / Commercial Panel (Square D, Eaton, Siemens, GE)
-1. **Find the tripped breaker** ΓÇö It's the one in the middle position (not fully ON or OFF)
-2. **Turn it fully OFF first** ΓÇö Push handle to OFF position (don't skip this step)
-3. **Identify and remove the overload** ΓÇö Unplug devices on that circuit
-4. **Wait 30 seconds** ΓÇö Let the breaker cool
-5. **Reset to ON** ΓÇö Push handle firmly to ON
-6. **If it trips again immediately** ΓÇö There's a short circuit; don't keep resetting
+1. **Find the tripped breaker** — It's the one in the middle position (not fully ON or OFF)
+2. **Turn it fully OFF first** — Push handle to OFF position (don't skip this step)
+3. **Identify and remove the overload** — Unplug devices on that circuit
+4. **Wait 30 seconds** — Let the breaker cool
+5. **Reset to ON** — Push handle firmly to ON
+6. **If it trips again immediately** — There's a short circuit; don't keep resetting
 
 ### Industrial Molded Case Circuit Breaker (MCCB)
 1. Press the RESET button or move handle to OFF then ON
@@ -42,7 +42,7 @@ When a circuit breaker trips in a residential, commercial, or industrial panel, 
 ### Ground Fault / AFCI Breakers
 1. Press the TEST button to confirm the breaker trips
 2. Press the RESET button firmly
-3. If it won't reset, there is an active ground fault on the circuit ΓÇö locate and fix it
+3. If it won't reset, there is an active ground fault on the circuit — locate and fix it
 
 ## Why Your Breaker Keeps Tripping
 

@@ -14,7 +14,7 @@ tags:
 
 # SPX Flow Pump Fault Codes
 
-SPX Flow (formerly incorporating Bran+Luebbe, Lightnin, Plenty Mirrlees, Delco) produces a wide range of industrial pumps for chemical processing, food/beverage, and utilities. Fault detection is typically through the associated motor protection relay or VFD ΓÇö the pump itself does not generate electronic codes.
+SPX Flow (formerly incorporating Bran+Luebbe, Lightnin, Plenty Mirrlees, Delco) produces a wide range of industrial pumps for chemical processing, food/beverage, and utilities. Fault detection is typically through the associated motor protection relay or VFD — the pump itself does not generate electronic codes.
 
 ## SPX Flow Pump Fault Reference
 
@@ -32,12 +32,12 @@ SPX Flow (formerly incorporating Bran+Luebbe, Lightnin, Plenty Mirrlees, Delco) 
 ## Most Common SPX Flow Faults
 
 ### Motor Overload
-SPX Flow pumps handling high-viscosity fluids (such as Bran+Luebbe metering pumps on chemicals) are susceptible to overload if fluid viscosity increases. Check fluid temperature ΓÇö colder, more viscous fluids draw higher current. Check the motor protection relay trip current setting matches the motor nameplate.
+SPX Flow pumps handling high-viscosity fluids (such as Bran+Luebbe metering pumps on chemicals) are susceptible to overload if fluid viscosity increases. Check fluid temperature — colder, more viscous fluids draw higher current. Check the motor protection relay trip current setting matches the motor nameplate.
 
 ### Seal Leak
 Most SPX Flow centrifugal and positive displacement pumps use mechanical seals. Seal failure is typically caused by excessive shaft runout, dry run, wrong seal material for the fluid, or abrasive particles in the fluid. Inspect the seal gland for liquid weepage or crystallized chemical deposits.
 
-### No Flow ΓÇö Air Lock
+### No Flow — Air Lock
 Centrifugal pumps require priming. If air enters the suction line, the pump continues to run but produces no flow or very low head. Install a foot valve on vertical suction lifts, verify suction pipe is fully submerged, and prime via the vent valve on the pump casing.
 
 ### Cavitation

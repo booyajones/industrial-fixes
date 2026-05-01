@@ -22,8 +22,8 @@ Navien NFC series combination boilers provide both space heating and domestic ho
 | Code | Fault Description | Common Cause | Action |
 |------|------------------|--------------|--------|
 | E001 | Ignition failure | No gas, failed igniter, or sensor | Check gas supply and igniter |
-| E002 | Ignition failure ΓÇö no flame | Flame sensor or gas valve issue | Clean flame sensor, check valve |
-| E003 | Ignition failure ΓÇö lockout | 3 failed ignition attempts | Manual reset required |
+| E002 | Ignition failure — no flame | Flame sensor or gas valve issue | Clean flame sensor, check valve |
+| E003 | Ignition failure — lockout | 3 failed ignition attempts | Manual reset required |
 | E004 | Flame extinguished | Unstable gas pressure | Check gas supply and pressure |
 | E006 | High-temperature limit | Overheating or blocked heat exchanger | Check flow rate, clean HX |
 | E007 | Outlet temp sensor fault | Failed outlet temp sensor | Replace sensor |
@@ -38,16 +38,16 @@ Navien NFC series combination boilers provide both space heating and domestic ho
 
 ## Most Common NFC Combi Faults
 
-### E001/E003 ΓÇö Ignition Failure
-Check gas supply pressure (3.5ΓÇô10.5 in. w.c. natural gas). Verify gas valve opens (listen for click). Check igniter spark ΓÇö measure resistance (should be < 100 ╬⌐). Clean flame sensor rod with fine emery cloth.
+### E001/E003 — Ignition Failure
+Check gas supply pressure (3.5–10.5 in. w.c. natural gas). Verify gas valve opens (listen for click). Check igniter spark — measure resistance (should be < 100 ╬⌐). Clean flame sensor rod with fine emery cloth.
 
-### E006 ΓÇö High Temperature Limit
+### E006 — High Temperature Limit
 The NFC monitors outlet temperature continuously. If flow rate is insufficient, the heat exchanger overheats. Check system pump operation, expansion tank pre-charge, and all valves are fully open. Scale buildup in the HX is common in hard water areas.
 
-### E016 ΓÇö DHW Flow Sensor
+### E016 — DHW Flow Sensor
 The flow sensor activates the burner when hot water demand is detected. A stuck or dirty flow sensor prevents the burner from firing. Remove, clean, and inspect the paddle. Check for debris in the cold water inlet filter screen.
 
-### E109 ΓÇö Heat Exchanger Overheat
+### E109 — Heat Exchanger Overheat
 Common in hard water areas. The stainless HX accumulates scale, reducing heat transfer and flow. Flush with commercial descaler (citric acid solution). Navien recommends annual maintenance in hard water areas.
 
 ## Parts Commonly Needed
@@ -56,11 +56,11 @@ Common in hard water areas. The stainless HX accumulates scale, reducing heat tr
 |------|-------|
 | Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Clean first, replace if signal persists |
 | Flow sensor | [Amazon](https://www.amazon.com/s?k=Flow+sensor&tag=errorcodefixes-20) \| DHW and heating flow sensors differ |
-| Heat exchanger | [Amazon](https://www.amazon.com/s?k=Heat+exchanger&tag=errorcodefixes-20) \| Expensive ΓÇö descale first |
+| Heat exchanger | [Amazon](https://www.amazon.com/s?k=Heat+exchanger&tag=errorcodefixes-20) \| Expensive — descale first |
 | Igniter | [Amazon](https://www.amazon.com/s?k=Igniter&tag=errorcodefixes-20) \| Check resistance before replacing |
 | Fan assembly | [Amazon](https://www.amazon.com/s?k=Fan+assembly&tag=errorcodefixes-20) \| Match NFC model voltage |
 | Outlet temp sensor | [Amazon](https://www.amazon.com/s?k=Outlet+temp+sensor&tag=errorcodefixes-20) \| Match sensor resistance specification |
-> **Pro tip:** Navien NFC error codes E001ΓÇôE003 almost always have gas pressure as the root cause. Verify gas pressure at the unit with a manometer before checking ignition components ΓÇö it saves significant diagnostic time.
+> **Pro tip:** Navien NFC error codes E001–E003 almost always have gas pressure as the root cause. Verify gas pressure at the unit with a manometer before checking ignition components — it saves significant diagnostic time.
 
 ## Related Articles
 

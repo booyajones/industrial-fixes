@@ -15,7 +15,7 @@ tags:
 
 # Carrier Greenspeed Heat Pump Error Codes
 
-Carrier Greenspeed heat pumps (25VNA series) use the Infinity communicating system. All fault codes display on the Infinity thermostat (SYSTXCCITC01-B or similar). These units use a variable-speed inverter compressor ΓÇö fault codes include inverter-specific issues.
+Carrier Greenspeed heat pumps (25VNA series) use the Infinity communicating system. All fault codes display on the Infinity thermostat (SYSTXCCITC01-B or similar). These units use a variable-speed inverter compressor — fault codes include inverter-specific issues.
 
 ## Greenspeed Fault Code Table
 
@@ -39,24 +39,24 @@ Carrier Greenspeed heat pumps (25VNA series) use the Infinity communicating syst
 
 ## Most Common Greenspeed Faults
 
-### Code 41 ΓÇö Inverter Drive Fault
-The most complex fault on Greenspeed units. Check inverter board LEDs first ΓÇö they display a secondary fault code. Measure DC bus voltage at inverter board terminals (target 300ΓÇô350 VDC on 240 VAC input). A weak capacitor or failed transistor are common causes.
+### Code 41 — Inverter Drive Fault
+The most complex fault on Greenspeed units. Check inverter board LEDs first — they display a secondary fault code. Measure DC bus voltage at inverter board terminals (target 300–350 VDC on 240 VAC input). A weak capacitor or failed transistor are common causes.
 
-### Code 31 ΓÇö High-Pressure Switch
-Greenspeed units use R-410A with a high-side limit of 590 psi. Dirty condenser coils or insufficient outdoor airflow are the most common causes. Check condenser fan motor operation ΓÇö Greenspeed uses variable-speed condenser fans.
+### Code 31 — High-Pressure Switch
+Greenspeed units use R-410A with a high-side limit of 590 psi. Dirty condenser coils or insufficient outdoor airflow are the most common causes. Check condenser fan motor operation — Greenspeed uses variable-speed condenser fans.
 
-### Code 65 ΓÇö Communication Fault
+### Code 65 — Communication Fault
 The Infinity bus uses a shielded 2-wire system. Any loose connection or short causes erratic communication faults. Check all Infinity wire connections at the outdoor unit, thermostat, and indoor unit.
 
 ## Parts Commonly Needed
 
 | Part | Notes |
 |------|-------|
-| Inverter board | [Amazon](https://www.amazon.com/s?k=Inverter+board&tag=errorcodefixes-20) \| Carrier part number critical ΓÇö match model |
+| Inverter board | [Amazon](https://www.amazon.com/s?k=Inverter+board&tag=errorcodefixes-20) \| Carrier part number critical — match model |
 | Infinity thermostat | [Amazon](https://www.amazon.com/s?k=Infinity+thermostat&tag=errorcodefixes-20) \| Required for code display and diagnostics |
 | Defrost sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| 10k╬⌐ thermistor type |
 | High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match R-410A setpoint |
-| Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Variable speed ΓÇö match HP and RPM |
+| Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Variable speed — match HP and RPM |
 > **Pro tip:** Carrier Infinity systems retain up to 12 fault codes with timestamps. Access via thermostat ΓåÆ Menu ΓåÆ Diagnostics ΓåÆ Fault History. Review history before clearing to identify recurring issues.
 
 ## Related Articles

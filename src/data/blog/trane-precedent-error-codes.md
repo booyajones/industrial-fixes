@@ -15,7 +15,7 @@ tags:
 
 # Trane Precedent Rooftop Unit Error Codes
 
-Trane Precedent RTUs (3ΓÇô10 ton) use an LED on the unit control module (UCM) to flash fault codes. Count flashes between 3-second pauses. Units with the Integrated Comfort System display codes on a thermostat or controller.
+Trane Precedent RTUs (3–10 ton) use an LED on the unit control module (UCM) to flash fault codes. Count flashes between 3-second pauses. Units with the Integrated Comfort System display codes on a thermostat or controller.
 
 ## Precedent Flash Code Table
 
@@ -36,13 +36,13 @@ Trane Precedent RTUs (3ΓÇô10 ton) use an LED on the unit control module (UCM)
 
 ## Most Common Precedent Faults
 
-### Code 5 ΓÇö Compressor Trip
+### Code 5 — Compressor Trip
 Check HP switch setting (R-410A = 590 psi, R-22 = 380 psi) and LP switch. Verify refrigerant charge with superheat and subcooling measurements before adding refrigerant.
 
-### Code 8 ΓÇö Heating Lockout
+### Code 8 — Heating Lockout
 Work through ignition sequence: verify 24 VAC to igniter, check spark gap (1/8"), clean flame sensor, and confirm gas pressure at manifold (3.5 in. w.c. natural gas).
 
-### Code 13 ΓÇö Limit Switch Lockout
+### Code 13 — Limit Switch Lockout
 Three consecutive limit trips lock out the unit. The cause is almost always restricted airflow. Replace the filter, verify all dampers are open, and check blower motor speed.
 
 ## Parts Commonly Needed
@@ -50,7 +50,7 @@ Three consecutive limit trips lock out the unit. The cause is almost always rest
 | Part | Notes |
 |------|-------|
 | UCM control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Match to unit model and refrigerant type |
-| SAT/OAT/RAT sensors | [Amazon](https://www.amazon.com/s?k=SAT%2FOAT%2FRAT+sensors&tag=errorcodefixes-20) \| Thermistor type ΓÇö check resistance vs. temp chart |
+| SAT/OAT/RAT sensors | [Amazon](https://www.amazon.com/s?k=SAT%2FOAT%2FRAT+sensors&tag=errorcodefixes-20) \| Thermistor type — check resistance vs. temp chart |
 | Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Clean with emery cloth before condemning |
 | Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Check ┬╡F value with capacitor meter |
 | Limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Match opening temperature rating |

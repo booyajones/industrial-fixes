@@ -15,7 +15,7 @@ tags:
 
 # Goodman GPH Series Packaged Unit Error Codes
 
-Goodman GPH packaged heat pump units communicate faults via an LED on the control board. Count LED flashes between 3-second pauses. The board stores the last 5 fault codes ΓÇö press the diagnostic button once to scroll through stored faults.
+Goodman GPH packaged heat pump units communicate faults via an LED on the control board. Count LED flashes between 3-second pauses. The board stores the last 5 fault codes — press the diagnostic button once to scroll through stored faults.
 
 ## GPH Flash Code Table
 
@@ -33,16 +33,16 @@ Goodman GPH packaged heat pump units communicate faults via an LED on the contro
 
 ## Most Common GPH Faults
 
-### 2 Flashes ΓÇö Low-Pressure Lockout
-Common in cold weather when outdoor coil ices over. Check airflow across the outdoor coil. Low refrigerant charge also triggers this ΓÇö measure superheat and compare to charging chart.
+### 2 Flashes — Low-Pressure Lockout
+Common in cold weather when outdoor coil ices over. Check airflow across the outdoor coil. Low refrigerant charge also triggers this — measure superheat and compare to charging chart.
 
-### 3 Flashes ΓÇö High-Pressure Lockout
+### 3 Flashes — High-Pressure Lockout
 Dirty condenser coil is the most frequent cause. On packaged heat pumps, the coil is exposed year-round. Wash thoroughly with coil cleaner and verify condenser fan is running.
 
-### 7 Flashes ΓÇö Defrost Lockout
+### 7 Flashes — Defrost Lockout
 If the unit fails to defrost, ice accumulates on the outdoor coil, eventually tripping the low-pressure switch. Check defrost sensor clip placement (must contact refrigerant tubing) and defrost termination thermostat continuity.
 
-### 8 Flashes ΓÇö Reversing Valve Fault
+### 8 Flashes — Reversing Valve Fault
 Check for 24 VAC at the reversing valve solenoid in heating mode. A stuck valve may be freed by cycling power. If the valve body is iced or temperature differential is absent, replace the valve.
 
 ## Parts Commonly Needed
@@ -50,9 +50,9 @@ Check for 24 VAC at the reversing valve solenoid in heating mode. A stuck valve 
 | Part | Notes |
 |------|-------|
 | Defrost control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Match to unit model number |
-| Defrost sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Clip-on type ΓÇö confirm placement on tube |
+| Defrost sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Clip-on type — confirm placement on tube |
 | Reversing valve | [Amazon](https://www.amazon.com/s?k=Reversing+valve&tag=errorcodefixes-20) \| Match refrigerant and tonnage |
-| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Dual-capacitor ΓÇö check both sections |
+| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Dual-capacitor — check both sections |
 | Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Check for pitted contacts |
 | Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match pressure setpoint |
 > **Pro tip:** Goodman GPH packaged units have the reversing valve energized in cooling mode. If you're testing in heating mode and the valve is de-energized, confirm the solenoid is not stuck energized from a previous short.

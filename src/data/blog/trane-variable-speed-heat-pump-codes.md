@@ -15,7 +15,7 @@ tags:
 
 # Trane XV20i/XV18 Variable Speed Heat Pump Error Codes
 
-Trane XV20i (up to 20 SEER) and XV18 variable speed heat pumps use the ComfortLink II communicating system. Fault codes display on the Nexia thermostat or ComfortLink II controller. These units use inverter-driven compressors ΓÇö some fault codes are inverter-specific.
+Trane XV20i (up to 20 SEER) and XV18 variable speed heat pumps use the ComfortLink II communicating system. Fault codes display on the Nexia thermostat or ComfortLink II controller. These units use inverter-driven compressors — some fault codes are inverter-specific.
 
 ## XV20i/XV18 Fault Code Table
 
@@ -35,28 +35,28 @@ Trane XV20i (up to 20 SEER) and XV18 variable speed heat pumps use the ComfortLi
 
 ## Most Common XV20i/XV18 Faults
 
-### Code 41 ΓÇö Inverter Fault
+### Code 41 — Inverter Fault
 The XV20i uses a variable speed inverter compressor. Inverter faults require DC bus voltage measurement (should be 170+ VDC from 120 VAC supply). Check for capacitor leakage and inverter board connections before condemning.
 
-### Code 43 ΓÇö High/Low Pressure Trip
-Variable speed units can operate at lower pressures than conventional systems. Use Trane's charging charts specific to the XV20i ΓÇö do not use standard fixed-speed charging charts. EXV (electronic expansion valve) position affects superheat significantly.
+### Code 43 — High/Low Pressure Trip
+Variable speed units can operate at lower pressures than conventional systems. Use Trane's charging charts specific to the XV20i — do not use standard fixed-speed charging charts. EXV (electronic expansion valve) position affects superheat significantly.
 
-### Code 26 ΓÇö Defrost Fault
-XV20i uses an inverter-controlled defrost. The defrost sensor must be clipped firmly to the liquid tube near the bottom of the outdoor coil. Check resistance: 10k╬⌐ at 77┬░F (25┬░C).
+### Code 26 — Defrost Fault
+XV20i uses an inverter-controlled defrost. The defrost sensor must be clipped firmly to the liquid tube near the bottom of the outdoor coil. Check resistance: 10k╬⌐ at 77°F (25°C).
 
-### Code 60 ΓÇö Loss of Communication
-Check ComfortLink II communication wiring for breaks, shorts, or reversed polarity. The system uses a 2-wire data bus ΓÇö wire color coding is critical.
+### Code 60 — Loss of Communication
+Check ComfortLink II communication wiring for breaks, shorts, or reversed polarity. The system uses a 2-wire data bus — wire color coding is critical.
 
 ## Parts Commonly Needed
 
 | Part | Notes |
 |------|-------|
-| Inverter board | [Amazon](https://www.amazon.com/s?k=Inverter+board&tag=errorcodefixes-20) \| High cost ΓÇö verify with Trane tech support before ordering |
+| Inverter board | [Amazon](https://www.amazon.com/s?k=Inverter+board&tag=errorcodefixes-20) \| High cost — verify with Trane tech support before ordering |
 | ComfortLink II thermostat | [Amazon](https://www.amazon.com/s?k=ComfortLink+II+thermostat&tag=errorcodefixes-20) \| Required for fault code display |
-| Defrost sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Clip-on thermistor ΓÇö verify resistance |
+| Defrost sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Clip-on thermistor — verify resistance |
 | Reversing valve | [Amazon](https://www.amazon.com/s?k=Reversing+valve&tag=errorcodefixes-20) \| Match refrigerant type |
 | Electronic expansion valve (EXV) | [Amazon](https://www.amazon.com/s?k=Electronic+expansion+valve+%28EXV%29&tag=errorcodefixes-20) \| Variable speed units use EXV not TXV |
-> **Pro tip:** Trane XV20i diagnostic data can be viewed via the Nexia app or Trane Diagnostics Tool. Always check inverter board LED indicators before ordering parts ΓÇö they often pinpoint the specific fault.
+> **Pro tip:** Trane XV20i diagnostic data can be viewed via the Nexia app or Trane Diagnostics Tool. Always check inverter board LED indicators before ordering parts — they often pinpoint the specific fault.
 
 ## Related Articles
 

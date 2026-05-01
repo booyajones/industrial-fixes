@@ -38,17 +38,17 @@ LG Multi V VRF systems display fault codes as CH (Check) codes on the remote con
 
 ## Most Common Multi V Faults
 
-### CH05 ΓÇö Communication Error
+### CH05 — Communication Error
 LG Multi V uses a 2-wire communication bus between indoor and outdoor units. Check for miswired connectors, damaged cable, or address conflicts. On multi-outdoor configurations, check inter-unit communication as well.
 
-### CH26 ΓÇö High Discharge Temperature
-Discharge temperature above 250┬░F (121┬░C) triggers CH26. Check refrigerant charge using LG's DX charging chart. Also check EEV operation ΓÇö a stuck-closed EEV causes high discharge with low suction pressure.
+### CH26 — High Discharge Temperature
+Discharge temperature above 250°F (121°C) triggers CH26. Check refrigerant charge using LG's DX charging chart. Also check EEV operation — a stuck-closed EEV causes high discharge with low suction pressure.
 
-### CH27 ΓÇö High Pressure
+### CH27 — High Pressure
 On Multi V units, HP switch is set at 590 psi (R-410A). Dirty outdoor coil, restricted airflow, or overcharge are typical causes. Verify all outdoor unit fans are operating.
 
-### CH21 ΓÇö Inverter Overcurrent
-Check compressor winding resistance with ohmmeter (all phases should be equal, typically 0.5ΓÇô2 ╬⌐). Measure DC bus voltage at inverter. Check inverter board LED status for secondary fault indication.
+### CH21 — Inverter Overcurrent
+Check compressor winding resistance with ohmmeter (all phases should be equal, typically 0.5–2 ╬⌐). Measure DC bus voltage at inverter. Check inverter board LED status for secondary fault indication.
 
 ## Parts Commonly Needed
 
@@ -58,5 +58,5 @@ Check compressor winding resistance with ohmmeter (all phases should be equal, t
 | Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Match indoor unit model |
 | EEV (electronic expansion valve) | [Amazon](https://www.amazon.com/s?k=EEV+%28electronic+expansion+valve%29&tag=errorcodefixes-20) \| Match valve size and refrigerant |
 | Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| DC motor type on most Multi V |
-| Communication cable | [Amazon](https://www.amazon.com/s?k=Communication+cable&tag=errorcodefixes-20) \| 2-wire shielded ΓÇö check polarity |
+| Communication cable | [Amazon](https://www.amazon.com/s?k=Communication+cable&tag=errorcodefixes-20) \| 2-wire shielded — check polarity |
 > **Pro tip:** LG Multi V systems can be diagnosed remotely via LG HVAC Solution. Register the system with the ACS (Advanced Central System) for real-time monitoring and fault code alerts without site visits.

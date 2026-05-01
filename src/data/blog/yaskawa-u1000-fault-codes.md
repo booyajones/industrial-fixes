@@ -38,16 +38,16 @@ The Yaskawa U1000 is a matrix drive (no DC bus capacitors) designed for energy r
 
 ## Most Common U1000 Faults
 
-### OC ΓÇö Overcurrent
+### OC — Overcurrent
 The U1000 matrix topology is sensitive to output impedance changes. Perform motor auto-tuning (T1-01 = 2, stationary tuning). Increase acceleration time (C1-01). Check motor connection for loose terminals.
 
-### OH ΓÇö Heatsink Overtemperature
-The U1000 uses active cooling. Check heatsink fan operation on both the matrix converter and output stage. Measure ambient temperature ΓÇö rated to 45┬░C without derating. U1000 can be installed in vertical orientation only.
+### OH — Heatsink Overtemperature
+The U1000 uses active cooling. Check heatsink fan operation on both the matrix converter and output stage. Measure ambient temperature — rated to 45°C without derating. U1000 can be installed in vertical orientation only.
 
-### UV1 ΓÇö DC Bus Undervoltage
-The U1000 matrix drive does not have a traditional DC bus capacitor. UV1 triggers when input voltage drops below minimum. Check all three input phases ΓÇö a single phase loss causes immediate UV1 on the U1000.
+### UV1 — DC Bus Undervoltage
+The U1000 matrix drive does not have a traditional DC bus capacitor. UV1 triggers when input voltage drops below minimum. Check all three input phases — a single phase loss causes immediate UV1 on the U1000.
 
-### GF ΓÇö Ground Fault
+### GF — Ground Fault
 Matrix drives are sensitive to ground faults due to the direct AC-to-AC conversion. Megger test all motor windings at 500 VDC. Check cable shielding termination.
 
 ## Parts Commonly Needed

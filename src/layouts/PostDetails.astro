@@ -175,12 +175,16 @@ const nextPost =
         </svg>
         {
           authorData && authorData.slug ? (
-            <a href={`/authors/${authorData.slug}/`}>{authorData.name}</a>
+            <>
+              <a href={`/authors/${authorData.slug}/`}>{authorData.name}</a>
+              {authorData.credentials && <span>, {authorData.credentials}</span>}
+            </>
+          ) : authorData ? (
+            <span>{authorData.name}{authorData.credentials ? `, ${authorData.credentials}` : ''}</span>
           ) : (
             <span>Verified by Certified Technicians</span>
           )
         }
-        {authorData && authorData.credentials ? `, ${authorData.credentials}` : ''}
       </span>
       <span class="article-date">
         Updated: <time datetime={modDatetime ? modDatetime.toISOString() : pubDatetime.toISOString()}>
