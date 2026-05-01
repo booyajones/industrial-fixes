@@ -1,9 +1,47 @@
 /*
-  Cache-Control: public, max-age=0, must-revalidate
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), interest-cohort=()
   X-Robots-Tag: index, follow
+  X-Frame-Options: DENY
+  # Browser revalidates on every request; CDN holds 5 min and serves stale up
+  # to 24h while it refetches in the background. Cuts edge-origin traffic
+  # massively without ever serving stale HTML to a user without revalidation.
+  Cache-Control: public, max-age=0, must-revalidate, s-maxage=300, stale-while-revalidate=86400
 
-/*.html
-  Cache-Control: public, max-age=0, must-revalidate
-
+# Hashed Astro build assets — safe to cache forever.
 /_astro/*
   Cache-Control: public, max-age=31536000, immutable
+
+# Static brand assets — long cache, but stale-while-revalidate so a swap
+# rolls out within a day even without an explicit purge.
+/logo-light.svg
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+/logo-dark.svg
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+/favicon.svg
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+/favicon.png
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+/icon.png
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+/og-industrial.jpg
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+
+# Lead magnet PDFs — content rarely changes, fine to cache for a day.
+/resources/*.pdf
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
+  Content-Disposition: inline
+
+# Per-post OG images: hashed body, regen on each build, safe to cache long.
+/posts/*/index.png
+  Cache-Control: public, max-age=86400, stale-while-revalidate=2592000
+
+# IndexNow key file — must be uncached so Bing/Yandex always read the live key.
+/f5b3c5c081882ae5e934de31784c91fb.txt
+  Cache-Control: public, max-age=0, must-revalidate
+
+# Search index — small file, regen each build, allow 5 min CDN cache.
+/search-index.json
+  Cache-Control: public, max-age=300, stale-while-revalidate=86400

@@ -3,9 +3,22 @@ import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
 import { SITE } from "@/config";
+import { equipmentCategories } from "@/data/equipmentCategories";
 
+// This page is statically rendered, so URL params (?cat=hvac) are not
+// available at build time. The page renders the master industrial cheat
+// sheet by default; a small client-side script below reads the `cat` URL
+// param after hydration and rewrites the heading + download link to point
+// at the matching per-category PDF.
 const pdfUrl = "/resources/industrial-error-code-cheat-sheet.pdf";
+const pdfLabel = "Industrial Error Code Quick Reference";
+const pdfSubtitle = "PDF · 32 fault codes across 4 equipment categories";
 const pageUrl = new URL(Astro.url.pathname, SITE.website).href;
+
+// Serialised category list for the client-side script.
+const categoriesJson = JSON.stringify(
+  equipmentCategories.map(c => ({ slug: c.slug, name: c.name }))
+);
 ---
 
 <Layout
@@ -25,20 +38,22 @@ const pageUrl = new URL(Astro.url.pathname, SITE.website).href;
 
       <h1 class="mt-4 text-3xl font-bold sm:text-4xl">You're in.</h1>
 
-      <p class="mt-4 text-lg text-foreground/80">
-        Thanks for joining. Your <strong>Industrial Error Code Quick Reference</strong>
-        is ready below — covering the most common HVAC, CNC, refrigeration, and
-        boiler fault codes with the first thing to check on each.
+      <p class="mt-4 text-lg text-foreground/80" data-thanks-intro>
+        Thanks for joining. Your <strong data-thanks-label>{pdfLabel}</strong>
+        is ready below — covering the most common
+        <span data-thanks-coverage>HVAC, CNC, refrigeration, and boiler fault codes</span>
+        with the first thing to check on each.
       </p>
 
       <div class="mt-8 rounded-lg border-2 border-accent bg-accent/5 p-5">
         <div class="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
           <div>
-            <p class="font-bold text-lg">Industrial Error Code Quick Reference</p>
-            <p class="text-sm text-foreground/60">PDF · 32 fault codes across 4 equipment categories</p>
+            <p class="font-bold text-lg" data-thanks-label-2>{pdfLabel}</p>
+            <p class="text-sm text-foreground/60" data-thanks-subtitle>{pdfSubtitle}</p>
           </div>
           <a
             href={pdfUrl}
+            data-thanks-link
             download
             class="inline-flex items-center justify-center gap-2 rounded-md bg-accent px-5 py-3 text-sm font-bold text-white hover:bg-accent/85 transition-colors"
           >
@@ -73,4 +88,29 @@ const pageUrl = new URL(Astro.url.pathname, SITE.website).href;
     </section>
   </main>
   <Footer />
+
+  <script is:inline define:vars={{ categoriesJson }}>
+    // Read ?cat=<slug> from the URL and swap the static placeholders to the
+    // matching per-category PDF. Falls back to the master cheat sheet on
+    // unknown / missing slugs.
+    (function () {
+      var cats = JSON.parse(categoriesJson);
+      function applyCategory() {
+        var slug = (new URLSearchParams(window.location.search).get('cat') || '').toLowerCase();
+        var hit = cats.find(function (c) { return c.slug === slug; });
+        if (!hit) return;
+        var pdf = '/resources/' + hit.slug + '-error-code-cheat-sheet.pdf';
+        var label = hit.name + ' Error Code Quick Reference';
+        var subtitle = 'PDF · 16 ' + hit.name.toLowerCase() + ' fault codes with the most likely causes';
+        var coverage = hit.name.toLowerCase() + ' fault codes';
+        document.querySelectorAll('[data-thanks-label]').forEach(function (el) { el.textContent = label; });
+        document.querySelectorAll('[data-thanks-label-2]').forEach(function (el) { el.textContent = label; });
+        document.querySelectorAll('[data-thanks-subtitle]').forEach(function (el) { el.textContent = subtitle; });
+        document.querySelectorAll('[data-thanks-coverage]').forEach(function (el) { el.textContent = coverage; });
+        document.querySelectorAll('[data-thanks-link]').forEach(function (el) { el.href = pdf; });
+      }
+      applyCategory();
+      document.addEventListener('astro:page-load', applyCategory);
+    })();
+  </script>
 </Layout>

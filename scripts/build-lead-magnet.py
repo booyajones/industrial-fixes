@@ -278,9 +278,112 @@ def build_pdf(sections: dict[str, list[dict]]) -> None:
     print(f"OK  wrote {OUT_PDF}  ({OUT_PDF.stat().st_size:,} bytes, {total} entries)")
 
 
+# Slugs match the equipment-hub URLs and the EmailCapture category prop.
+SECTION_SLUG = {
+    "HVAC": "hvac",
+    "CNC & Drives": "cnc",
+    "Refrigeration": "refrigeration",
+    "Boilers & Water Heaters": "boilers",
+}
+
+
+def collect_section_pool(section_name: str, target: int) -> list[dict]:
+    """Pull the deepest pool of posts for a single section (featured first,
+    then most-recent unfeatured) up to `target` entries."""
+    allowed = SECTION_TAGS[section_name]
+    featured: list[dict] = []
+    unfeatured: list[dict] = []
+    for path in sorted(BLOG_DIR.glob("*.md")):
+        post = parse_post(path)
+        if not post:
+            continue
+        if post.get("draft", "").lower() == "true":
+            continue
+        tags = {t.lower() for t in post.get("tags", [])}
+        if not (tags & allowed):
+            continue
+        if post.get("featured", "").lower() in ("true", "yes"):
+            featured.append(post)
+        else:
+            unfeatured.append(post)
+    unfeatured.sort(
+        key=lambda p: p.get("modDatetime") or p.get("pubDatetime") or "0",
+        reverse=True,
+    )
+    return (featured + unfeatured)[:target]
+
+
+def build_section_pdf(section_name: str, slug: str, entries: list[dict]) -> None:
+    out = OUT_DIR / f"{slug}-error-code-cheat-sheet.pdf"
+    doc = SimpleDocTemplate(
+        str(out), pagesize=LETTER,
+        leftMargin=0.7 * inch, rightMargin=0.7 * inch,
+        topMargin=0.6 * inch, bottomMargin=0.6 * inch,
+        title=f"{section_name} Error Code Quick Reference",
+        author="Industrial Error Code Fixes",
+    )
+    base = getSampleStyleSheet()
+    s = {
+        "h1": ParagraphStyle("H1", parent=base["Title"], fontSize=22, leading=26,
+                             textColor=NAVY, spaceAfter=4, alignment=TA_LEFT),
+        "subtitle": ParagraphStyle("Subtitle", parent=base["Normal"], fontSize=11,
+                                   leading=14, textColor=GREY, spaceAfter=18, alignment=TA_LEFT),
+        "title": ParagraphStyle("EntryTitle", parent=base["Normal"], fontSize=11, leading=14,
+                                textColor=RED, spaceAfter=2, alignment=TA_LEFT,
+                                fontName="Helvetica-Bold"),
+        "body": ParagraphStyle("EntryBody", parent=base["Normal"], fontSize=9.5, leading=13,
+                               textColor=HexColor("#1c1917"), spaceAfter=4, alignment=TA_LEFT),
+        "url": ParagraphStyle("EntryUrl", parent=base["Normal"], fontSize=8.5, leading=11,
+                              textColor=GREEN, spaceAfter=10, alignment=TA_LEFT,
+                              fontName="Helvetica-Oblique"),
+        "footer": ParagraphStyle("Footer", parent=base["Normal"], fontSize=8, leading=11,
+                                 textColor=GREY, alignment=TA_LEFT),
+    }
+    flow: list = []
+    flow.append(Paragraph(f"{section_name} Error Code<br/>Quick Reference", s["h1"]))
+    flow.append(Paragraph(
+        f"errorcodefixes.com  ·  Updated {date.today().strftime('%B %Y')}  ·  "
+        f"Deep-dive cheat sheet on {section_name.lower()} fault codes.",
+        s["subtitle"],
+    ))
+    flow.append(Paragraph(
+        f"This is the focused {section_name} cheat sheet — every entry below is a "
+        f"common fault you'll see in the field, with the meaning, the most likely "
+        f"cause, and a link to the full diagnostic guide on errorcodefixes.com.",
+        s["body"],
+    ))
+    flow.append(Spacer(1, 12))
+    flow.append(Table([[""]], colWidths=[7.1 * inch], rowHeights=[1.2],
+                      style=TableStyle([("BACKGROUND", (0, 0), (-1, -1), NAVY)])))
+    flow.append(Spacer(1, 8))
+    for entry in entries:
+        slug_p = entry["_slug"]
+        url = f"https://errorcodefixes.com/posts/{slug_p}/"
+        flow.append(KeepTogether([
+            Paragraph(entry.get("title", "Untitled"), s["title"]),
+            Paragraph(entry.get("description", entry.get("_excerpt", "")), s["body"]),
+            Paragraph(url, s["url"]),
+        ]))
+    flow.append(Spacer(1, 18))
+    flow.append(Paragraph(
+        f"{len(entries)} {section_name.lower()} fault codes covered · "
+        f"Full library at errorcodefixes.com · "
+        f"Affiliate disclosure: errorcodefixes.com/disclosure/ · "
+        f"© {date.today().year} Industrial Error Code Fixes",
+        s["footer"],
+    ))
+    doc.build(flow)
+    print(f"OK  wrote {out}  ({out.stat().st_size:,} bytes, {len(entries)} entries)")
+
+
 def main() -> None:
     sections = collect_entries()
     build_pdf(sections)
+    # Per-category PDFs: deeper pool (up to 16 entries each).
+    for section_name, slug in SECTION_SLUG.items():
+        entries = collect_section_pool(section_name, target=16)
+        if entries:
+            build_section_pdf(section_name, slug, entries)
 
 
 if __name__ == "__main__":

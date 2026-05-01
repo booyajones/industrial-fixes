@@ -78,6 +78,11 @@ const structuredData = pubDatetime
     <link rel="icon" type="image/png" href="/favicon.png" />
     <link rel="apple-touch-icon" href="/icon.png" />
     <meta name="impact-site-verification" {...({'value': '367ef661-eac1-4210-8938-1c5b85b6539c'} as any)} />
+
+    <!-- Connection pre-warming for the third-party origins we always hit -->
+    <link rel="preconnect" href="https://plausible.io" crossorigin />
+    <link rel="dns-prefetch" href="https://plausible.io" />
+    <link rel="dns-prefetch" href="https://errorcodefixes-chat.errorcodefixes.workers.dev" />
     <link rel="canonical" href={canonicalURL} />
     <meta name="generator" content={Astro.generator} />
 

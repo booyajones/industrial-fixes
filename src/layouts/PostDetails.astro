@@ -15,6 +15,7 @@ import RelatedPosts from "@/components/RelatedPosts.astro";
 import EmailCapture from "../components/EmailCapture.astro";
 import { getPath } from "@/utils/getPath";
 import { authors } from "../data/authors";
+import { equipmentCategories } from "@/data/equipmentCategories";
 import { slugifyStr } from "@/utils/slugify";
 import IconChevronLeft from "@/assets/icons/IconChevronLeft.svg";
 import IconChevronRight from "@/assets/icons/IconChevronRight.svg";
@@ -41,6 +42,13 @@ const {
 const { Content } = await render(post);
 
 const authorData = authors[author];
+
+// Map this post's tags to an equipment category so EmailCapture can deliver
+// the right cheat-sheet PDF. Returns undefined if no overlap.
+const tagSet = new Set((tags ?? []).map(t => t.toLowerCase()));
+const postCategory = equipmentCategories.find(c =>
+  c.tags.some(t => tagSet.has(t))
+)?.slug;
 
 let ogImageUrl: string | undefined;
 
@@ -217,7 +225,7 @@ const nextPost =
 
     {tags && (tags.includes('hvac') || tags.includes('furnace') || tags.includes('heat-pump') || tags.includes('boiler') || tags.includes('mini-split') || tags.includes('vfd') || tags.includes('refrigeration') || tags.includes('commercial-refrigeration')) && <ContractorCTA equipment="HVAC" />}
 
-    <EmailCapture brand={tags?.[0]} />
+    <EmailCapture brand={tags?.[0]} category={postCategory} />
 
     <ShareLinks />
     <button onclick="window.print()" class="print-btn" aria-label="Print this guide">
