@@ -34,6 +34,74 @@ jobs:
         with:
           fetch-depth: 2
 
+      - name: Setup Node 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+
+      - name: Install
+        run: npm ci
+
+      - name: Build
+        env:
+          PUBLIC_GA4_MEASUREMENT_ID: ${{ vars.PUBLIC_GA4_MEASUREMENT_ID }}
+        run: npm run build
+
+      - name: Deploy to Cloudflare Pages
+        env:
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: |
+          npx wrangler@latest pages deploy dist/ --project-name=industrial-fixes --branch=main --commit-dirty=true --commit-hash=${{ github.sha }} --commit-message="${{ github.event.head_commit.message }}"
+
+      - name: Purge Cloudflare cache
+        env:
+          CF_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CF_ZONE: ${{ secrets.CLOUDFLARE_ZONE_ID }}
+        if: env.CF_ZONE != ''
+        run: |
+          curl -sf -X POST -H "Authorization: Bearer $CF_TOKEN" -H "Content-Type: application/json" "https://api.cloudflare.com/client/v4/zones/$CF_ZONE/purge_cache" -d '{"purge_everything":true}' | head -200
+
+      - name: Submit changed URLs to IndexNow (Bing/Yandex)
+        run: node scripts/indexnow-ping.mjs
+        continue-on-error: true
+# Auto-deploy to Cloudflare Pages on every push to main.
+#
+# Required repo secrets (set via 'gh secret set <name>' or repo Settings):
+#   CLOUDFLARE_API_TOKEN     - Pages Edit + Cache Purge scope
+#   CLOUDFLARE_ACCOUNT_ID    - 3c85c32a691987e9deb992642b2d2705
+#   CLOUDFLARE_ZONE_ID       - 813cc094fec38ff0e2e666e534334944 (for cache purge)
+#
+# Required repo variables (optional, set via 'gh variable set'):
+#   PUBLIC_GA4_MEASUREMENT_ID - set this if you want GA4 to render
+#
+# Skip a deploy by including [skip deploy] in the commit message.
+
+name: Deploy to Cloudflare Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+
+concurrency:
+  group: deploy-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, '[skip deploy]')"
+    timeout-minutes: 30
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
       - name: Setup Node 20
         uses: actions/setup-node@v4
         with:
