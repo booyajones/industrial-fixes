@@ -80,8 +80,6 @@ const structuredData = pubDatetime
     <meta name="impact-site-verification" {...({'value': '367ef661-eac1-4210-8938-1c5b85b6539c'} as any)} />
 
     <!-- Connection pre-warming for the third-party origins we always hit -->
-    <link rel="preconnect" href="https://plausible.io" crossorigin />
-    <link rel="dns-prefetch" href="https://plausible.io" />
     <link rel="dns-prefetch" href="https://errorcodefixes-chat.errorcodefixes.workers.dev" />
     <link rel="canonical" href={canonicalURL} />
     <meta name="generator" content={Astro.generator} />
@@ -161,17 +159,8 @@ const structuredData = pubDatetime
       )
     }
 
-    <!-- Plausible Analytics — privacy-friendly -->
-    <script is:inline async src="https://plausible.io/js/pa-jR9HSB265mwObqTLcVUR1.js"></script>
-    <script is:inline>
-      window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
-      plausible.init()
-    </script>
-
     <!-- Google Analytics 4 — lazy-loaded after first idle so it doesn't
-         block LCP. Plausible above stays eager because it's already a
-         single ~1KB request and is the primary analytics source.
-         Activate by setting PUBLIC_GA4_MEASUREMENT_ID env var. -->
+         block LCP. Activate by setting PUBLIC_GA4_MEASUREMENT_ID env var. -->
     {
       PUBLIC_GA4_MEASUREMENT_ID && (
         <script is:inline define:vars={{ gaId: PUBLIC_GA4_MEASUREMENT_ID }}>

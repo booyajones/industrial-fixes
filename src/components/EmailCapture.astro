@@ -87,9 +87,6 @@ const headline =
           if (typeof gtag === 'function') {
             gtag('event', 'lead_signup', { method: 'email_capture', category: cat });
           }
-          if (typeof plausible === 'function') {
-            plausible('Lead Signup', { props: { category: cat } });
-          }
           var redirect = '/thanks/' + (cat && cat !== 'industrial' ? '?cat=' + encodeURIComponent(cat) : '');
           setTimeout(function () { window.location.href = redirect; }, 250);
         });
