@@ -66,3 +66,7 @@ jobs:
       - name: Submit changed URLs to IndexNow (Bing/Yandex)
         run: node scripts/indexnow-ping.mjs
         continue-on-error: true
+
+      - name: Post-deploy health check
+        run: curl -sf --max-time 15 https://errorcodefixes.com > /dev/null && echo Healthy
+
