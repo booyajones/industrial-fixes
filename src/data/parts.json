@@ -1,0 +1,12 @@
+{
+  "_meta": {
+    "tag": "errorcodefixes-20",
+    "purpose": "OEM/aftermarket part number -> Amazon ASIN map. AmazonPartLink falls back to a tightly-quoted exact-match search URL when a part number is absent here.",
+    "verification_cadence": "quarterly; ASINs rot. Re-check via Rich Results spot-check or PA-API once integrated."
+  },
+  "parts": {
+    "T-84984": { "asin": "B07FVP4CY6", "title": "True 988294 cabinet temperature sensor probe", "last_verified": "2026-05-16" },
+    "T-04523": { "asin": "B07VYQS8H4", "title": "True 802167 condenser fan motor 1/15 HP", "last_verified": "2026-05-16" },
+    "915146":  { "asin": "B07FVP4CY6", "title": "True 915146 defrost heater", "last_verified": "2026-05-16" }
+  }
+}

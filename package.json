@@ -6,7 +6,7 @@
     "dev": "astro dev",
     "build": "astro build && pagefind --site dist && cp -r dist/pagefind public/",
     "typecheck": "astro check",
-    "postbuild": "node scripts/build-search-index.mjs",
+    "postbuild": "node scripts/build-search-index.mjs && node scripts/check-mojibake.mjs",
     "preview": "astro preview",
     "sync": "astro sync",
     "astro": "astro",

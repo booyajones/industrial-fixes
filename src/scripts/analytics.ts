@@ -11,12 +11,29 @@ function trackAffiliateClicks() {
     if (!target) return;
 
     const href = target.href || "";
+    const part = target.dataset?.affiliatePart || "";
+    const brand = target.dataset?.affiliateBrand || "";
+    const kind = target.dataset?.affiliateKind || ""; // "asin" | "search" when AmazonPartLink
 
     // Amazon Associates links
     if (href.includes("amazon.com") && href.includes("tag=errorcodefixes")) {
       if (typeof gtag !== "undefined") {
         gtag("event", "affiliate_click", {
           affiliate_network: "amazon",
+          link_kind: kind || (href.includes("/dp/") ? "asin" : "search"),
+          part_number: part,
+          brand,
+          link_url: href,
+          page_location: window.location.pathname,
+        });
+      }
+    }
+
+    // Angi (lead-gen) — separate event so we can compare RPM by channel
+    if (href.includes("angi.com")) {
+      if (typeof gtag !== "undefined") {
+        gtag("event", "lead_click", {
+          partner: "angi",
           link_url: href,
           page_location: window.location.pathname,
         });

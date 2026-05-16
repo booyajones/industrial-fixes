@@ -1,0 +1,98 @@
+---
+// AmazonPartLink — renders an affiliate-tagged Amazon button.
+// Behavior:
+//   - If `part` is present in src/data/parts.json -> ASIN deeplink (best CVR).
+//   - Else fallback to tightly-quoted exact-match search URL scoped to industrial
+//     category, which converts materially better than a generic keyword search.
+//
+// Always rel="sponsored nofollow noopener" + GA4 affiliate_click event.
+//
+// Props:
+//   part       OEM part number string (e.g. "T-84984")
+//   brand?     Brand name appended to fallback search to disambiguate
+//   label?     Button text. Defaults to "Check price on Amazon".
+//   compact?   true -> small inline button. false -> full-width card.
+
+import partsData from "@/data/parts.json";
+
+interface Props {
+  part: string;
+  brand?: string;
+  label?: string;
+  compact?: boolean;
+}
+
+const { part, brand, label = "Check price on Amazon", compact = false } = Astro.props;
+
+const TAG = "errorcodefixes-20";
+const known = (partsData.parts as Record<string, { asin?: string }>)[part];
+
+let href: string;
+let kind: "asin" | "search";
+if (known?.asin) {
+  href = `https://www.amazon.com/dp/${known.asin}/?tag=${TAG}`;
+  kind = "asin";
+} else {
+  // Quoted exact-match part number + brand, restricted to industrial category.
+  // s?k="PARTNUM"+BRAND&i=industrial&tag=…
+  const q = brand ? `"${part}" ${brand}` : `"${part}"`;
+  href = `https://www.amazon.com/s?k=${encodeURIComponent(q)}&i=industrial&tag=${TAG}`;
+  kind = "search";
+}
+---
+
+<a
+  class:list={["amzn-part-link", compact ? "amzn-compact" : "amzn-card"]}
+  href={href}
+  target="_blank"
+  rel="sponsored nofollow noopener"
+  data-affiliate="amazon"
+  data-affiliate-kind={kind}
+  data-affiliate-part={part}
+  data-affiliate-brand={brand ?? ""}
+>
+  <span class="amzn-label">{label}</span>
+  {!compact && <span class="amzn-sub">Part: <code>{part}</code>{brand ? ` · ${brand}` : ""}</span>}
+  <span class="amzn-arrow" aria-hidden="true">→</span>
+</a>
+
+<style>
+  .amzn-part-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: #fef3c7;
+    color: #92400e;
+    border: 1px solid #f59e0b;
+    border-radius: 6px;
+    padding: 0.4rem 0.75rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    text-decoration: none;
+    line-height: 1.2;
+    transition: background 0.15s ease, transform 0.05s ease;
+  }
+  .amzn-part-link:hover { background: #fde68a; }
+  .amzn-part-link:active { transform: translateY(1px); }
+  .amzn-card {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0.75rem 1rem;
+    margin: 0.75rem 0;
+  }
+  .amzn-card .amzn-sub {
+    font-weight: 400;
+    font-size: 0.75rem;
+    color: #78350f;
+    margin-top: 0.15rem;
+  }
+  .amzn-card code {
+    font-family: var(--font-google-sans-code, ui-monospace, monospace);
+    background: rgba(255,255,255,0.6);
+    padding: 0 0.25rem;
+    border-radius: 3px;
+  }
+  .amzn-arrow { margin-left: auto; }
+  .amzn-compact .amzn-arrow { margin-left: 0.25rem; }
+</style>

@@ -391,7 +391,16 @@ function initChatWidget() {
   });
 }
 
-// Init on first load and after Astro view transitions
-initChatWidget();
-document.addEventListener('astro:page-load', initChatWidget);
+// Lazy-mount on first idle (or 3s fallback) and after Astro view
+// transitions. Keeps the chat widget out of the LCP critical path —
+// mobile Lighthouse was being throttled by immediate init.
+function _ecfMountChat() {
+  if ('requestIdleCallback' in window) {
+    requestIdleCallback(initChatWidget, { timeout: 3000 });
+  } else {
+    setTimeout(initChatWidget, 1500);
+  }
+}
+_ecfMountChat();
+document.addEventListener('astro:page-load', _ecfMountChat);
 </script>
