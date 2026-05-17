@@ -48,11 +48,11 @@ Sporlan temp sensors are NTC thermistors, typically 10K at 25°C. Test at the bo
 
 | Part | Notes |
 |------|-------|
-| SEI controller board | [Amazon](https://www.amazon.com/s?i=industrial&k=SEI+controller+board&tag=errorcodefixes-20) \| Replace on electronics fault |
-| Sporlan EXV stepper coil | [Amazon](https://www.amazon.com/s?i=industrial&k=Sporlan+EXV+stepper+coil&tag=errorcodefixes-20) \| Replace on F5 valve fault |
-| Pressure transducer | [Amazon](https://www.amazon.com/s?i=industrial&k=Pressure+transducer&tag=errorcodefixes-20) \| Replace on F1 fault |
-| NTC thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=NTC+thermistor&tag=errorcodefixes-20) \| Replace on F2 fault |
-| Liquid line filter-drier | [Amazon](https://www.amazon.com/s?i=industrial&k=Liquid+line+filter-drier&tag=errorcodefixes-20) \| Replace on high superheat from restriction |
+| SEI controller board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-sporlan-expansion-valve-fault&k=SEI+controller+board&tag=errorcodefixes-20) \| Replace on electronics fault |
+| Sporlan EXV stepper coil | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-sporlan-expansion-valve-fault&k=Sporlan+EXV+stepper+coil&tag=errorcodefixes-20) \| Replace on F5 valve fault |
+| Pressure transducer | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-sporlan-expansion-valve-fault&k=Pressure+transducer&tag=errorcodefixes-20) \| Replace on F1 fault |
+| NTC thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-sporlan-expansion-valve-fault&k=NTC+thermistor&tag=errorcodefixes-20) \| Replace on F2 fault |
+| Liquid line filter-drier | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-sporlan-expansion-valve-fault&k=Liquid+line+filter-drier&tag=errorcodefixes-20) \| Replace on high superheat from restriction |
 ## When to Call a Pro
 Sporlan EXV superheat tuning in commercial refrigeration systems requires refrigerant certification and system knowledge. Low superheat conditions can destroy compressors within minutes.
 

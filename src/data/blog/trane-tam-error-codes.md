@@ -16,7 +16,7 @@ tags:
 
 Trane TAM series air handlers (TAM7, TAM8, TAM9) communicate fault codes via LED flash sequences on the control board and, on communicating systems, through the connected Trane ComfortLink II thermostat. The TAM series works with Trane XL and XR heat pumps and central air conditioning systems. Codes are read by counting blinks: slow blinks = tens digit, fast blinks = ones digit.
 
-| [Flash Code](https://www.amazon.com/s?i=industrial&k=Flash+Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| [Flash Code](https://www.amazon.com/s?ascsubtag=ecf-trane-tam-error-codes&k=Flash+Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |------------|---------|-----------|
 | 1-1 | System standby / normal operation | No action needed |
 | 1-2 | Communication fault (ComfortLink) | Check communication wiring |

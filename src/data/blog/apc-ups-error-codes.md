@@ -49,11 +49,11 @@ Symmetra battery modules include individual cell monitoring. F01 can indicate on
 
 | Part | Notes |
 |------|-------|
-| Replacement battery (RBC) | [Amazon](https://www.amazon.com/s?i=industrial&k=Replacement+battery+%28RBC%29&tag=errorcodefixes-20) \| Size per UPS model - match RBC number |
-| Symmetra battery module | [Amazon](https://www.amazon.com/s?i=industrial&k=Symmetra+battery+module&tag=errorcodefixes-20) \| Hot-swappable |
-| Network management card (NMC) | [Amazon](https://www.amazon.com/s?i=industrial&k=Network+management+card+%28NMC%29&tag=errorcodefixes-20) \| Replace on network fault |
-| Back-UPS output fuse | [Amazon](https://www.amazon.com/s?i=industrial&k=Back-UPS+output+fuse&tag=errorcodefixes-20) \| Replace on output overload damage |
-| Smart-UPS internal fuse | [Amazon](https://www.amazon.com/s?i=industrial&k=Smart-UPS+internal+fuse&tag=errorcodefixes-20) \| Replace on no-output fault |
+| Replacement battery (RBC) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-apc-ups-error-codes&k=Replacement+battery+%28RBC%29&tag=errorcodefixes-20) \| Size per UPS model - match RBC number |
+| Symmetra battery module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-apc-ups-error-codes&k=Symmetra+battery+module&tag=errorcodefixes-20) \| Hot-swappable |
+| Network management card (NMC) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-apc-ups-error-codes&k=Network+management+card+%28NMC%29&tag=errorcodefixes-20) \| Replace on network fault |
+| Back-UPS output fuse | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-apc-ups-error-codes&k=Back-UPS+output+fuse&tag=errorcodefixes-20) \| Replace on output overload damage |
+| Smart-UPS internal fuse | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-apc-ups-error-codes&k=Smart-UPS+internal+fuse&tag=errorcodefixes-20) \| Replace on no-output fault |
 ## When to Call a Pro
 Symmetra PX and Galaxy-series UPS maintenance, including bypass switching and capacitor replacement, requires APC/Schneider-trained technicians. Do not attempt internal repairs on large UPS systems without proper training.
 

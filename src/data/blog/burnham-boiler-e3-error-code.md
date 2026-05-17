@@ -36,9 +36,9 @@ Burnham boiler error code E3 indicates a high-limit lockout. The high-temperatur
 
 | Part | Notes |
 |------|-------|
-| Circulator pump | [Amazon](https://www.amazon.com/s?i=industrial&k=Circulator+pump&tag=errorcodefixes-20) \| Replace if failed; Taco 007 or Grundfos 15-58 are common on Burnham systems |
-| Expansion tank | [Amazon](https://www.amazon.com/s?i=industrial&k=Expansion+tank&tag=errorcodefixes-20) \| Replace if waterlogged (tap the tank — a full-water sound means replace) |
-| High-limit control | [Amazon](https://www.amazon.com/s?i=industrial&k=High-limit+control&tag=errorcodefixes-20) \| Replace if it won't reset or trips below setpoint |
+| Circulator pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-burnham-boiler-e3-error-code&k=Circulator+pump&tag=errorcodefixes-20) \| Replace if failed; Taco 007 or Grundfos 15-58 are common on Burnham systems |
+| Expansion tank | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-burnham-boiler-e3-error-code&k=Expansion+tank&tag=errorcodefixes-20) \| Replace if waterlogged (tap the tank — a full-water sound means replace) |
+| High-limit control | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-burnham-boiler-e3-error-code&k=High-limit+control&tag=errorcodefixes-20) \| Replace if it won't reset or trips below setpoint |
 ## When to Call a Pro
 
 If the circulator is running, all valves are open, and the system still trips E3, there may be a hydraulic balancing issue, a failed heat exchanger, or significant scale buildup inside the boiler sections. A licensed boiler technician can perform a combustion test and flow measurement to identify the root cause.

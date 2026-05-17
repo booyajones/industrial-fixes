@@ -50,10 +50,10 @@ York, Coleman, and Luxaire are all manufactured by Johnson Controls and share th
 
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|-------------|
-| York Pressure Switch (primary) | 025-27766-000 | $30–$45 | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Repair Clinic / Amazon |
-| Inducer Draft Motor (if failed) | S1-32435820000 | $180–$280 | [Amazon](https://www.amazon.com/s?i=industrial&k=S1-32435820000+Inducer+Draft+Motor+%28if+failed%29&tag=errorcodefixes-20) \| Repair Clinic / HVAC distributor |
-| Pressure Switch Tubing (bulk) | Generic 3/16" ID silicone | $5–$10 | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Amazon / hardware store |
-| Condensate Drain Trap | S1-37327820000 | $18–$30 | [Amazon](https://www.amazon.com/s?i=industrial&k=S1-37327820000+Condensate+Drain+Trap&tag=errorcodefixes-20) \| Repair Clinic |
+| York Pressure Switch (primary) | 025-27766-000 | $30–$45 | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-york-6-flashes-pressure-switch-fault&tag=errorcodefixes-20) \| Repair Clinic / Amazon |
+| Inducer Draft Motor (if failed) | S1-32435820000 | $180–$280 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-york-6-flashes-pressure-switch-fault&k=S1-32435820000+Inducer+Draft+Motor+%28if+failed%29&tag=errorcodefixes-20) \| Repair Clinic / HVAC distributor |
+| Pressure Switch Tubing (bulk) | Generic 3/16" ID silicone | $5–$10 | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-york-6-flashes-pressure-switch-fault&tag=errorcodefixes-20) \| Amazon / hardware store |
+| Condensate Drain Trap | S1-37327820000 | $18–$30 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-york-6-flashes-pressure-switch-fault&k=S1-37327820000+Condensate+Drain+Trap&tag=errorcodefixes-20) \| Repair Clinic |
 ## When to Call a Professional
 
 If the flue or intake is blocked with ice, do not attempt to run the furnace. On cold days, ice can reblock a cleared line within hours — the root cause is usually flue pipe that runs too horizontally, is too close to the ground, or has inadequate slope. Correcting the flue routing requires a licensed HVAC contractor. Similarly, if the inducer motor has failed, replacement on a York 90%+ unit involves removing the secondary heat exchanger in some configurations — a job that requires experience to avoid damaging the plastic heat exchanger. A cracked or failed secondary heat exchanger is a carbon monoxide risk and must be confirmed clear before returning the unit to service.

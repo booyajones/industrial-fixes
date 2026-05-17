@@ -19,7 +19,7 @@ Toshiba VF-S15 and VF-S9 drives use compact fault labels that cover motor overlo
 
 ## Common Toshiba Faults
 
-| [Fault](https://www.amazon.com/s?i=industrial&k=Fault&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| [Fault](https://www.amazon.com/s?ascsubtag=ecf-toshiba-vfd-fault-codes&k=Fault&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |---|---|---|
 | OC | Overcurrent | Check motor/cable short, jammed load |
 | OV | Overvoltage | Increase decel, check braking setup |

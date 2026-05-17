@@ -48,9 +48,9 @@ For a worn combustion blower: replace the combustion blower assembly. Navien blo
 
 | Part | Where to Buy |
 |------|-------------|
-| [Flame sensor rod assembly](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
-| [Combustion blower motor](https://www.amazon.com/s?i=industrial&k=Combustion+blower+motor&tag=errorcodefixes-20) | SupplyHouse, Grainger |
-| [Condensate drain assembly](https://www.amazon.com/s?i=industrial&k=Condensate+drain+assembly&tag=errorcodefixes-20) | Amazon, RepairClinic |
+| [Flame sensor rod assembly](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-navien-error-code-e012&tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
+| [Combustion blower motor](https://www.amazon.com/s?ascsubtag=ecf-navien-error-code-e012&k=Combustion+blower+motor&tag=errorcodefixes-20) | SupplyHouse, Grainger |
+| [Condensate drain assembly](https://www.amazon.com/s?ascsubtag=ecf-navien-error-code-e012&k=Condensate+drain+assembly&tag=errorcodefixes-20) | Amazon, RepairClinic |
 
 ## When to Call a Technician
 

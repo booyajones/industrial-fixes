@@ -49,12 +49,12 @@ Rheem RPH reversing valves are energized in cooling. If stuck in one position, y
 
 | Part | Notes |
 |------|-------|
-| Defrost board | [Amazon](https://www.amazon.com/s?i=industrial&k=Defrost+board&tag=errorcodefixes-20) \| Critical — match to exact model |
-| Defrost thermostat | [Amazon](https://www.amazon.com/s?i=industrial&k=Defrost+thermostat&tag=errorcodefixes-20) \| Available in multiple trip temperatures |
-| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Dual-run — test both sections |
-| Reversing valve | [Amazon](https://www.amazon.com/s?i=industrial&k=Reversing+valve&tag=errorcodefixes-20) \| Match tonnage and refrigerant type |
-| Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Check for pitting and coil voltage |
-| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Match unit serial and model number |
+| Defrost board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rheem-rph-error-codes&k=Defrost+board&tag=errorcodefixes-20) \| Critical — match to exact model |
+| Defrost thermostat | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rheem-rph-error-codes&k=Defrost+thermostat&tag=errorcodefixes-20) \| Available in multiple trip temperatures |
+| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-rheem-rph-error-codes&tag=errorcodefixes-20) \| Dual-run — test both sections |
+| Reversing valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rheem-rph-error-codes&k=Reversing+valve&tag=errorcodefixes-20) \| Match tonnage and refrigerant type |
+| Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-rheem-rph-error-codes&tag=errorcodefixes-20) \| Check for pitting and coil voltage |
+| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-rheem-rph-error-codes&tag=errorcodefixes-20) \| Match unit serial and model number |
 > **Pro tip:** Rheem RPH units with EcoNet log fault history with timestamps. Connect EcoNet app to retrieve detailed fault history before servicing — saves significant diagnostic time.
 
 ## Related Articles

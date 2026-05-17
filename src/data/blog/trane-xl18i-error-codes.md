@@ -111,12 +111,12 @@ The reversing valve is what makes a heat pump switch between heating and cooling
 
 | Part | Use | Link |
 |---|---|---|
-| Dual Run Capacitor (45+5 µF, 440V) | Fan and compressor start failures | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) |
-| 2-Pole 30A Contactor | Pitted contacts, code 11 | [View on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) |
-| Outdoor Coil / Defrost Sensor | Flash code 4, ComfortLink 182/198 | [View on Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) |
-| Reversing Valve Solenoid Coil | Flash code 8, ComfortLink 191 | [View on Amazon](https://www.amazon.com/s?i=industrial&k=reversing+valve+solenoid+coil&tag=errorcodefixes-20) |
-| Outdoor Fan Motor (1/4 HP, 208/230V) | Flash code 9, ComfortLink 189 | [View on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) |
-| ComfortLink II Communication Wire | Flash code 10, ComfortLink 195 | [View on Amazon](https://www.amazon.com/s?i=industrial&k=hvac+communication+wire+18+gauge+2+conductor&tag=errorcodefixes-20) |
+| Dual Run Capacitor (45+5 µF, 440V) | Fan and compressor start failures | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-trane-xl18i-error-codes&tag=errorcodefixes-20) |
+| 2-Pole 30A Contactor | Pitted contacts, code 11 | [View on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-trane-xl18i-error-codes&tag=errorcodefixes-20) |
+| Outdoor Coil / Defrost Sensor | Flash code 4, ComfortLink 182/198 | [View on Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-trane-xl18i-error-codes&tag=errorcodefixes-20) |
+| Reversing Valve Solenoid Coil | Flash code 8, ComfortLink 191 | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-xl18i-error-codes&k=reversing+valve+solenoid+coil&tag=errorcodefixes-20) |
+| Outdoor Fan Motor (1/4 HP, 208/230V) | Flash code 9, ComfortLink 189 | [View on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-trane-xl18i-error-codes&tag=errorcodefixes-20) |
+| ComfortLink II Communication Wire | Flash code 10, ComfortLink 195 | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-xl18i-error-codes&k=hvac+communication+wire+18+gauge+2+conductor&tag=errorcodefixes-20) |
 
 ## When to Call a Pro
 

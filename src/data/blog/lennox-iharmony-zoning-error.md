@@ -66,10 +66,10 @@ The iHarmony system must be programmed with the correct number of zones and equi
 
 | Part | Notes |
 |------|-------|
-| iHarmony zone panel | [Amazon](https://www.amazon.com/s?i=industrial&k=iHarmony+zone+panel&tag=errorcodefixes-20) \| Replace on persistent comm errors |
-| Zone damper actuator | [Amazon](https://www.amazon.com/s?i=industrial&k=Zone+damper+actuator&tag=errorcodefixes-20) \| Replace on damper fault |
-| Zone temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Replace on sensor error |
-| Bypass damper | [Amazon](https://www.amazon.com/s?i=industrial&k=Bypass+damper&tag=errorcodefixes-20) \| Inspect on high static pressure |
+| iHarmony zone panel | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lennox-iharmony-zoning-error&k=iHarmony+zone+panel&tag=errorcodefixes-20) \| Replace on persistent comm errors |
+| Zone damper actuator | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lennox-iharmony-zoning-error&k=Zone+damper+actuator&tag=errorcodefixes-20) \| Replace on damper fault |
+| Zone temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-lennox-iharmony-zoning-error&tag=errorcodefixes-20) \| Replace on sensor error |
+| Bypass damper | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lennox-iharmony-zoning-error&k=Bypass+damper&tag=errorcodefixes-20) \| Inspect on high static pressure |
 ## Jump to Fix
 
 - **Zone lost** → Check 24VAC at panel → Check communication bus wiring

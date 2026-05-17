@@ -42,10 +42,10 @@ Flowserve mechanical seals are designed for long life but fail when run dry, exp
 
 | Part | Notes |
 |------|-------|
-| Mechanical seal assembly | [Amazon](https://www.amazon.com/s?i=industrial&k=Mechanical+seal+assembly&tag=errorcodefixes-20) \| Most common pump wear item |
-| Impeller | [Amazon](https://www.amazon.com/s?i=industrial&k=Impeller&tag=errorcodefixes-20) \| Replace if cavitation-damaged |
-| Bearing set (thrust + radial) | [Amazon](https://www.amazon.com/s?i=industrial&k=Bearing+set+%28thrust+%2B+radial%29&tag=errorcodefixes-20) \| Replace on high vibration diagnosis |
-| Shaft sleeve | [Amazon](https://www.amazon.com/s?i=industrial&k=Shaft+sleeve&tag=errorcodefixes-20) \| Inspect and replace with seal |
+| Mechanical seal assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-flowserve-pump-fault-codes&k=Mechanical+seal+assembly&tag=errorcodefixes-20) \| Most common pump wear item |
+| Impeller | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-flowserve-pump-fault-codes&k=Impeller&tag=errorcodefixes-20) \| Replace if cavitation-damaged |
+| Bearing set (thrust + radial) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-flowserve-pump-fault-codes&k=Bearing+set+%28thrust+%2B+radial%29&tag=errorcodefixes-20) \| Replace on high vibration diagnosis |
+| Shaft sleeve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-flowserve-pump-fault-codes&k=Shaft+sleeve&tag=errorcodefixes-20) \| Inspect and replace with seal |
 ## Jump to Fix
 
 - **High vibration** → Check alignment → Measure at bearing housings → Inspect impeller

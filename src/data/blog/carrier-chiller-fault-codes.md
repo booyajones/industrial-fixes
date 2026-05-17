@@ -398,6 +398,6 @@ On CCN networks, point ALARM.STAT at the chiller's CCN element address (typicall
 
 Find replacement parts for Carrier chillers on Amazon:
 
-- [Carrier Chiller Parts & Controls](https://www.amazon.com/s?i=industrial&k=Carrier+chiller+parts&tag=errorcodefixes-20)
-- [Carrier Pressure Transducer Replacement](https://www.amazon.com/s?i=industrial&k=Carrier+HVAC+pressure+transducer&tag=errorcodefixes-20)
-- [Carrier Condenser Fan Motor](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20)
+- [Carrier Chiller Parts & Controls](https://www.amazon.com/s?ascsubtag=ecf-carrier-chiller-fault-codes&k=Carrier+chiller+parts&tag=errorcodefixes-20)
+- [Carrier Pressure Transducer Replacement](https://www.amazon.com/s?ascsubtag=ecf-carrier-chiller-fault-codes&k=Carrier+HVAC+pressure+transducer&tag=errorcodefixes-20)
+- [Carrier Condenser Fan Motor](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-carrier-chiller-fault-codes&tag=errorcodefixes-20)

@@ -46,10 +46,10 @@ If both sensor and igniter check out and gas is flowing: the control board gas v
 
 | Part | Where to Buy |
 |------|-------------|
-| [Flame sensor](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) | RepairClinic, Amazon |
-| [Hot surface igniter](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
-| [Gas valve](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) | SupplyHouse, Grainger |
-| [Control board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | RepairClinic, Grainger |
+| [Flame sensor](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-goodman-7-flash-error-code&tag=errorcodefixes-20) | RepairClinic, Amazon |
+| [Hot surface igniter](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-goodman-7-flash-error-code&tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
+| [Gas valve](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-goodman-7-flash-error-code&tag=errorcodefixes-20) | SupplyHouse, Grainger |
+| [Control board](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-goodman-7-flash-error-code&tag=errorcodefixes-20) | RepairClinic, Grainger |
 
 ## When to Call a Technician
 

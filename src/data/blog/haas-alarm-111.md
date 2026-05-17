@@ -38,9 +38,9 @@ Haas alarm 111 indicates a drive fault on one of the machine's servo axes. The H
 
 | Part | Notes |
 |------|-------|
-| Servo drive module | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+drive+module&tag=errorcodefixes-20) \| Order from Haas Factory Outlet; match to machine and axis |
-| Cabinet cooling fan | [Amazon](https://www.amazon.com/s?i=industrial&k=Cabinet+cooling+fan&tag=errorcodefixes-20) \| Replace if fan is failed or running slowly |
-| Drive bus capacitors | [Amazon](https://www.amazon.com/s?i=industrial&k=Drive+bus+capacitors&tag=errorcodefixes-20) \| Replace in aging drives if bus voltage is unstable |
+| Servo drive module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-111&k=Servo+drive+module&tag=errorcodefixes-20) \| Order from Haas Factory Outlet; match to machine and axis |
+| Cabinet cooling fan | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-111&k=Cabinet+cooling+fan&tag=errorcodefixes-20) \| Replace if fan is failed or running slowly |
+| Drive bus capacitors | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-111&k=Drive+bus+capacitors&tag=errorcodefixes-20) \| Replace in aging drives if bus voltage is unstable |
 ## When to Call a Pro
 
 Haas servo drive replacement and servo tuning should be performed by a Haas Factory Outlet (HFO) service technician. Incorrect drive installation or parameter configuration can cause further machine damage.

@@ -36,9 +36,9 @@ Fanuc Alarm 436 indicates a servo following error on the Z-axis — the actual Z
 
 | Part | Notes |
 |------|-------|
-| Counterbalance cylinder / seals | [Amazon](https://www.amazon.com/s?i=industrial&k=Counterbalance+cylinder+%2F+seals&tag=errorcodefixes-20) \| If air pressure drops due to seal wear |
-| Z-axis encoder cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Z-axis+encoder+cable&tag=errorcodefixes-20) \| Most common cause of intermittent 436 |
-| Z-axis servo motor | [Amazon](https://www.amazon.com/s?i=industrial&k=Z-axis+servo+motor&tag=errorcodefixes-20) \| If motor winding test shows fault |
+| Counterbalance cylinder / seals | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-436&k=Counterbalance+cylinder+%2F+seals&tag=errorcodefixes-20) \| If air pressure drops due to seal wear |
+| Z-axis encoder cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-436&k=Z-axis+encoder+cable&tag=errorcodefixes-20) \| Most common cause of intermittent 436 |
+| Z-axis servo motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-436&k=Z-axis+servo+motor&tag=errorcodefixes-20) \| If motor winding test shows fault |
 ## When to Call a Pro
 
 Z-axis mechanical work on VMCs (ballscrew, guideway, counterbalance) requires precision re-leveling and accuracy verification. Fanuc-trained field service is recommended for any Z-axis mechanical repair.

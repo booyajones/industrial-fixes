@@ -48,9 +48,9 @@ The Yaskawa GA700 is the latest generation general-purpose inverter, succeeding 
 
 | Part | Notes |
 |------|-------|
-| Output reactor (load reactor) | [Amazon](https://www.amazon.com/s?i=industrial&k=Output+reactor+%28load+reactor%29&tag=errorcodefixes-20) \| For long cable runs >100 ft; reduces capacitive OC faults |
-| Dynamic braking resistor/unit | [Amazon](https://www.amazon.com/s?i=industrial&k=Dynamic+braking+resistor%2Funit&tag=errorcodefixes-20) \| For oC2 on high-inertia loads |
-| Motor (replacement) | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+%28replacement%29&tag=errorcodefixes-20) \| If megger test shows insulation breakdown |
+| Output reactor (load reactor) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-yaskawa-ga700-fault-oc&k=Output+reactor+%28load+reactor%29&tag=errorcodefixes-20) \| For long cable runs >100 ft; reduces capacitive OC faults |
+| Dynamic braking resistor/unit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-yaskawa-ga700-fault-oc&k=Dynamic+braking+resistor%2Funit&tag=errorcodefixes-20) \| For oC2 on high-inertia loads |
+| Motor (replacement) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-yaskawa-ga700-fault-oc&k=Motor+%28replacement%29&tag=errorcodefixes-20) \| If megger test shows insulation breakdown |
 ## When to Call a Pro
 
 If oC3 persists with a confirmed healthy motor, correct cable length, and properly tuned drive parameters, the GA700's IGBT output stage may have developed a fault. Yaskawa's Technical Support Center (1-800-927-5292) can walk through advanced diagnostics, or the drive can be sent to a Yaskawa authorized repair center for board-level testing.

@@ -37,8 +37,8 @@ Heatcraft Alarm 2 is a **low temperature alarm** — the refrigerated space temp
 
 | Part | Notes |
 |------|-------|
-| Box temperature sensor (NTC thermistor) | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Heatcraft model-specific; match resistance specification |
-| TXV (thermostatic expansion valve) | [Amazon](https://www.amazon.com/s?i=industrial&k=TXV+%28thermostatic+expansion+valve%29&tag=errorcodefixes-20) \| Only if overcharge/flooding is confirmed after refrigerant work |
+| Box temperature sensor (NTC thermistor) | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-heatcraft-refrigeration-alarm-2&tag=errorcodefixes-20) \| Heatcraft model-specific; match resistance specification |
+| TXV (thermostatic expansion valve) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-heatcraft-refrigeration-alarm-2&k=TXV+%28thermostatic+expansion+valve%29&tag=errorcodefixes-20) \| Only if overcharge/flooding is confirmed after refrigerant work |
 ## When to Call a Pro
 
 If the sensor checks out and the setpoint is correctly configured but the box is genuinely overcooling, have a licensed refrigeration technician check refrigerant charge and TXV operation. Refrigerant system work requires EPA 608 certification.

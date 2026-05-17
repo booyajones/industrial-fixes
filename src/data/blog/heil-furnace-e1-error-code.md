@@ -36,10 +36,10 @@ E1 on a Heil furnace (part of the International Comfort Products / ICP family) i
 
 | Part | Notes |
 |------|-------|
-| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match ICP/Heil part number; single or dual switch depending on model |
-| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| 1/4" ID silicone or rubber; cut to length |
-| Inducer motor capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Test first; far cheaper than replacing the full motor |
-| Induced draft motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Replace if capacitor is good but motor runs slow or noisy |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-heil-furnace-e1-error-code&tag=errorcodefixes-20) \| Match ICP/Heil part number; single or dual switch depending on model |
+| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?ascsubtag=ecf-heil-furnace-e1-error-code&tag=errorcodefixes-20) \| 1/4" ID silicone or rubber; cut to length |
+| Inducer motor capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-heil-furnace-e1-error-code&tag=errorcodefixes-20) \| Test first; far cheaper than replacing the full motor |
+| Induced draft motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-heil-furnace-e1-error-code&tag=errorcodefixes-20) \| Replace if capacitor is good but motor runs slow or noisy |
 ## When to Call a Pro
 
 If the flue is clear, hose is intact, and the inducer runs at speed but the switch still won't close, have a licensed HVAC technician check heat exchanger integrity and verify pressure switch specifications against the unit's pressure requirements.

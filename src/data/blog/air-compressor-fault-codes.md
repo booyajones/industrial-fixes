@@ -20,14 +20,14 @@ Air compressor fault codes vary by brand, but the root causes are usually famili
 
 ## Common Air Compressor Fault Categories
 
-| [Fault Type](https://www.amazon.com/s?i=industrial&k=Fault+Type&tag=errorcodefixes-20) | Typical Meaning |
+| [Fault Type](https://www.amazon.com/s?ascsubtag=ecf-air-compressor-fault-codes&k=Fault+Type&tag=errorcodefixes-20) | Typical Meaning |
 |---|---|
-| [High discharge temperature](https://www.amazon.com/s?i=industrial&k=High+discharge+temperature&tag=errorcodefixes-20) | Cooling issue, low oil, dirty cooler |
-| [Low oil pressure](https://www.amazon.com/s?i=industrial&k=Low+oil+pressure&tag=errorcodefixes-20) | Oil pump issue, low oil, pressure switch fault |
-| [Motor overload](https://www.amazon.com/s?i=industrial&k=Motor+overload&tag=errorcodefixes-20) | High mechanical load, voltage issue, starter/VFD problem |
-| [Sensor fault](https://www.amazon.com/s?i=industrial&k=Sensor+fault&tag=errorcodefixes-20) | Pressure, temperature, or transducer out of range |
-| [Emergency stop / safety trip](https://www.amazon.com/s?i=industrial&k=Emergency+stop+%2F+safety+trip&tag=errorcodefixes-20) | E-stop chain, high pressure, separator issue |
-| [VFD fault](https://www.amazon.com/s?i=industrial&k=VFD+fault&tag=errorcodefixes-20) | Overcurrent, undervoltage, overtemperature |
+| [High discharge temperature](https://www.amazon.com/s?ascsubtag=ecf-air-compressor-fault-codes&k=High+discharge+temperature&tag=errorcodefixes-20) | Cooling issue, low oil, dirty cooler |
+| [Low oil pressure](https://www.amazon.com/s?ascsubtag=ecf-air-compressor-fault-codes&k=Low+oil+pressure&tag=errorcodefixes-20) | Oil pump issue, low oil, pressure switch fault |
+| [Motor overload](https://www.amazon.com/s?ascsubtag=ecf-air-compressor-fault-codes&k=Motor+overload&tag=errorcodefixes-20) | High mechanical load, voltage issue, starter/VFD problem |
+| [Sensor fault](https://www.amazon.com/s?ascsubtag=ecf-air-compressor-fault-codes&k=Sensor+fault&tag=errorcodefixes-20) | Pressure, temperature, or transducer out of range |
+| [Emergency stop / safety trip](https://www.amazon.com/s?ascsubtag=ecf-air-compressor-fault-codes&k=Emergency+stop+%2F+safety+trip&tag=errorcodefixes-20) | E-stop chain, high pressure, separator issue |
+| [VFD fault](https://www.amazon.com/s?ascsubtag=ecf-air-compressor-fault-codes&k=VFD+fault&tag=errorcodefixes-20) | Overcurrent, undervoltage, overtemperature |
 
 ## Common Causes Across Brands
 

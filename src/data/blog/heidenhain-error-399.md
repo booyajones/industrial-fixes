@@ -36,9 +36,9 @@ Error 399 on Heidenhain TNC controls (TNC 640, TNC 530, TNC 620) indicates an ax
 
 | Part | Notes |
 |------|-------|
-| Heidenhain encoder cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Heidenhain+encoder+cable&tag=errorcodefixes-20) \| Replace if damaged; must match encoder interface type |
-| Encoder read head | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+read+head&tag=errorcodefixes-20) \| Replace if contaminated beyond cleaning |
-| Linear scale cleaning kit | [Amazon](https://www.amazon.com/s?i=industrial&k=Linear+scale+cleaning+kit&tag=errorcodefixes-20) \| Heidenhain-approved cleaning solution and lint-free cloth |
+| Heidenhain encoder cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-heidenhain-error-399&k=Heidenhain+encoder+cable&tag=errorcodefixes-20) \| Replace if damaged; must match encoder interface type |
+| Encoder read head | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-heidenhain-error-399&k=Encoder+read+head&tag=errorcodefixes-20) \| Replace if contaminated beyond cleaning |
+| Linear scale cleaning kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-heidenhain-error-399&k=Linear+scale+cleaning+kit&tag=errorcodefixes-20) \| Heidenhain-approved cleaning solution and lint-free cloth |
 ## When to Call a Pro
 
 Heidenhain encoder replacement requires precise alignment and gap setting. Heidenhain-trained service engineers handle scale and read head replacement on precision machine tools.

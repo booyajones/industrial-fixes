@@ -51,11 +51,11 @@ If the autoclave doesn't vent chamber pressure within the expected time after st
 
 | Part | Notes |
 |------|-------|
-| Door gasket (M11 silicone) | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?tag=errorcodefixes-20) \| Replace on E001 / poor sealing |
-| Heating element | [Amazon](https://www.amazon.com/s?i=industrial&k=Heating+element&tag=errorcodefixes-20) \| Replace on E002 / slow heat |
-| Thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Thermistor&tag=errorcodefixes-20) \| Replace on E004 |
-| Water level sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Water+level+sensor&tag=errorcodefixes-20) \| Replace on false E007 |
-| Drain solenoid valve | [Amazon](https://www.amazon.com/s?i=industrial&k=Drain+solenoid+valve&tag=errorcodefixes-20) \| Replace on E008 |
+| Door gasket (M11 silicone) | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?ascsubtag=ecf-midmark-autoclave-fault-codes&tag=errorcodefixes-20) \| Replace on E001 / poor sealing |
+| Heating element | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-midmark-autoclave-fault-codes&k=Heating+element&tag=errorcodefixes-20) \| Replace on E002 / slow heat |
+| Thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-midmark-autoclave-fault-codes&k=Thermistor&tag=errorcodefixes-20) \| Replace on E004 |
+| Water level sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-midmark-autoclave-fault-codes&k=Water+level+sensor&tag=errorcodefixes-20) \| Replace on false E007 |
+| Drain solenoid valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-midmark-autoclave-fault-codes&k=Drain+solenoid+valve&tag=errorcodefixes-20) \| Replace on E008 |
 ## When to Call a Pro
 Midmark M11 annual PM, spore testing verification, and electrical repairs require biomedical technicians or Midmark-authorized service. In dental practices, state regulations require documented sterilizer validation.
 

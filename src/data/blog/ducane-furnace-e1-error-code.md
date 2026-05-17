@@ -38,9 +38,9 @@ E1 on a Ducane furnace points to a pressure switch or inducer circuit fault. Duc
 
 | Part | Notes |
 |------|-------|
-| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match the exact WC rating on the Ducane label |
-| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| Use rubber tubing of the correct inner diameter |
-| Inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Match HP, RPM, and flange configuration for the Ducane model |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-ducane-furnace-e1-error-code&tag=errorcodefixes-20) \| Match the exact WC rating on the Ducane label |
+| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?ascsubtag=ecf-ducane-furnace-e1-error-code&tag=errorcodefixes-20) \| Use rubber tubing of the correct inner diameter |
+| Inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-ducane-furnace-e1-error-code&tag=errorcodefixes-20) \| Match HP, RPM, and flange configuration for the Ducane model |
 ## When to Call a Pro
 
 If the inducer motor needs replacement and you are not comfortable working with high-voltage furnace wiring, or if the condensate drain runs through finished walls, a licensed HVAC technician should complete the repair.

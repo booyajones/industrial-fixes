@@ -15,20 +15,20 @@ tags:
 
 Rheem furnaces signal faults with a blinking LED on the control board. Open the lower access panel (or look through the sight glass) and count the blink sequence. Rheem also makes Ruud furnaces — the codes are identical. The flash pattern repeats continuously; count the blinks in one cycle.
 
-| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| [Code](https://www.amazon.com/s?ascsubtag=ecf-rheem-furnace-error-codes&k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |------|---------|-----------|
-| [1 flash](https://www.amazon.com/s?i=industrial&k=1+flash&tag=errorcodefixes-20) | System lockout — retries exceeded | Reset; check igniter and gas supply |
-| [2 flashes](https://www.amazon.com/s?i=industrial&k=2+flashes&tag=errorcodefixes-20) | Low-pressure switch open | Check inducer, hose, drain trap |
-| [3 flashes](https://www.amazon.com/s?i=industrial&k=3+flashes&tag=errorcodefixes-20) | High-pressure switch open | Check high-pressure switch hose (2-stage) |
-| [4 flashes](https://www.amazon.com/s?i=industrial&k=4+flashes&tag=errorcodefixes-20) | Open high-limit device | Replace filter; check airflow |
-| [5 flashes](https://www.amazon.com/s?i=industrial&k=5+flashes&tag=errorcodefixes-20) | Flame without call / roll-out tripped | Gas valve or roll-out issue |
-| [6 flashes](https://www.amazon.com/s?i=industrial&k=6+flashes&tag=errorcodefixes-20) | Inducer motor fault | Check motor speed; replace if needed |
-| [7 flashes](https://www.amazon.com/s?i=industrial&k=7+flashes&tag=errorcodefixes-20) | Low flame signal | Clean flame sensor rod |
-| [8 flashes](https://www.amazon.com/s?i=industrial&k=8+flashes&tag=errorcodefixes-20) | Rollout switch open | Inspect heat exchanger; manual reset |
-| [9 flashes](https://www.amazon.com/s?i=industrial&k=9+flashes&tag=errorcodefixes-20) | Reversed line voltage polarity | Check wiring at disconnect |
+| [1 flash](https://www.amazon.com/s?ascsubtag=ecf-rheem-furnace-error-codes&k=1+flash&tag=errorcodefixes-20) | System lockout — retries exceeded | Reset; check igniter and gas supply |
+| [2 flashes](https://www.amazon.com/s?ascsubtag=ecf-rheem-furnace-error-codes&k=2+flashes&tag=errorcodefixes-20) | Low-pressure switch open | Check inducer, hose, drain trap |
+| [3 flashes](https://www.amazon.com/s?ascsubtag=ecf-rheem-furnace-error-codes&k=3+flashes&tag=errorcodefixes-20) | High-pressure switch open | Check high-pressure switch hose (2-stage) |
+| [4 flashes](https://www.amazon.com/s?ascsubtag=ecf-rheem-furnace-error-codes&k=4+flashes&tag=errorcodefixes-20) | Open high-limit device | Replace filter; check airflow |
+| [5 flashes](https://www.amazon.com/s?ascsubtag=ecf-rheem-furnace-error-codes&k=5+flashes&tag=errorcodefixes-20) | Flame without call / roll-out tripped | Gas valve or roll-out issue |
+| [6 flashes](https://www.amazon.com/s?ascsubtag=ecf-rheem-furnace-error-codes&k=6+flashes&tag=errorcodefixes-20) | Inducer motor fault | Check motor speed; replace if needed |
+| [7 flashes](https://www.amazon.com/s?ascsubtag=ecf-rheem-furnace-error-codes&k=7+flashes&tag=errorcodefixes-20) | Low flame signal | Clean flame sensor rod |
+| [8 flashes](https://www.amazon.com/s?ascsubtag=ecf-rheem-furnace-error-codes&k=8+flashes&tag=errorcodefixes-20) | Rollout switch open | Inspect heat exchanger; manual reset |
+| [9 flashes](https://www.amazon.com/s?ascsubtag=ecf-rheem-furnace-error-codes&k=9+flashes&tag=errorcodefixes-20) | Reversed line voltage polarity | Check wiring at disconnect |
 | 57 | Abnormal furnace behavior | Board fault; check all wiring |
-| [Slow single](https://www.amazon.com/s?i=industrial&k=Slow+single&tag=errorcodefixes-20) | Normal standby | No fault |
-| [Continuous on](https://www.amazon.com/s?i=industrial&k=Continuous+on&tag=errorcodefixes-20) | Normal operation (heating) | — |
+| [Slow single](https://www.amazon.com/s?ascsubtag=ecf-rheem-furnace-error-codes&k=Slow+single&tag=errorcodefixes-20) | Normal standby | No fault |
+| [Continuous on](https://www.amazon.com/s?ascsubtag=ecf-rheem-furnace-error-codes&k=Continuous+on&tag=errorcodefixes-20) | Normal operation (heating) | — |
 
 ## Most Common Codes
 

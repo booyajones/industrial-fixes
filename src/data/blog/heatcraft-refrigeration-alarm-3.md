@@ -39,11 +39,11 @@ On Heatcraft condensing units and remote condensers (Larkin, Bohn, Climate Contr
 
 | Part | Notes |
 |------|-------|
-| Filter drier | [Amazon](https://www.amazon.com/s?i=industrial&k=Filter+drier&tag=errorcodefixes-20) \| Replace whenever the refrigerant circuit is opened; replace proactively if frosted |
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match HP, voltage, and RPM from motor nameplate |
-| Condenser fan capacitor | [Amazon](https://www.amazon.com/s?i=industrial&k=Condenser+fan+capacitor&tag=errorcodefixes-20) \| Test before replacing motor |
-| TXV (thermostatic expansion valve) | [Amazon](https://www.amazon.com/s?i=industrial&k=TXV+%28thermostatic+expansion+valve%29&tag=errorcodefixes-20) \| Replace if superheat is uncontrollable and drier/charge are correct |
-| Discharge temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Replace if Alarm 3 triggers at normal discharge temps (sensor fault) |
+| Filter drier | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-heatcraft-refrigeration-alarm-3&k=Filter+drier&tag=errorcodefixes-20) \| Replace whenever the refrigerant circuit is opened; replace proactively if frosted |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-heatcraft-refrigeration-alarm-3&tag=errorcodefixes-20) \| Match HP, voltage, and RPM from motor nameplate |
+| Condenser fan capacitor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-heatcraft-refrigeration-alarm-3&k=Condenser+fan+capacitor&tag=errorcodefixes-20) \| Test before replacing motor |
+| TXV (thermostatic expansion valve) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-heatcraft-refrigeration-alarm-3&k=TXV+%28thermostatic+expansion+valve%29&tag=errorcodefixes-20) \| Replace if superheat is uncontrollable and drier/charge are correct |
+| Discharge temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-heatcraft-refrigeration-alarm-3&tag=errorcodefixes-20) \| Replace if Alarm 3 triggers at normal discharge temps (sensor fault) |
 ## When to Call a Pro
 
 All refrigerant work (leak detection, recovery, and recharge) requires EPA 608 certification. High-side refrigerant pressures on commercial refrigeration equipment can exceed 400 PSI — proper manifold gauge sets and safety procedures are essential. Heatcraft's technical support line (1-800-922-1919) can assist with unit-specific fault codes and pressure-temperature charts.

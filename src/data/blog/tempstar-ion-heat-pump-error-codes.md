@@ -139,11 +139,11 @@ The discharge line sensor detected compressor discharge temperatures above safe 
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
-| [NTC Thermistor Sensor for Heat Pump](https://www.amazon.com/s?i=industrial&k=NTC+thermistor+10K+HVAC+heat+pump+sensor&tag=errorcodefixes-20) | Fixes Faults 4, 5, 6 — coil and ambient sensor replacements | $12–$40 |
-| [Heat Pump Reversing Valve Solenoid](https://www.amazon.com/s?i=industrial&k=heat+pump+reversing+valve+solenoid+coil+replacement&tag=errorcodefixes-20) | Fault 10 fix; solenoid replacement resolves most valve faults | $20–$55 |
-| [ECM Blower Motor Replacement Module](https://www.amazon.com/s?i=industrial&k=ECM+motor+module+replacement+HVAC&tag=errorcodefixes-20) | Fault 7 fix; often cheaper than replacing full ECM motor assembly | $75–$250 |
-| [Digital Multimeter with AC Voltage](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) | Essential for testing sensors, voltage, and solenoid coils | $25–$85 |
-| [HVAC Communication Wire 18/2](https://www.amazon.com/s?i=industrial&k=HVAC+thermostat+wire+18+2+communication&tag=errorcodefixes-20) | Replaces damaged Ion system bus wiring for Fault 8 | $12–$35 |
+| [NTC Thermistor Sensor for Heat Pump](https://www.amazon.com/s?ascsubtag=ecf-tempstar-ion-heat-pump-error-codes&k=NTC+thermistor+10K+HVAC+heat+pump+sensor&tag=errorcodefixes-20) | Fixes Faults 4, 5, 6 — coil and ambient sensor replacements | $12–$40 |
+| [Heat Pump Reversing Valve Solenoid](https://www.amazon.com/s?ascsubtag=ecf-tempstar-ion-heat-pump-error-codes&k=heat+pump+reversing+valve+solenoid+coil+replacement&tag=errorcodefixes-20) | Fault 10 fix; solenoid replacement resolves most valve faults | $20–$55 |
+| [ECM Blower Motor Replacement Module](https://www.amazon.com/s?ascsubtag=ecf-tempstar-ion-heat-pump-error-codes&k=ECM+motor+module+replacement+HVAC&tag=errorcodefixes-20) | Fault 7 fix; often cheaper than replacing full ECM motor assembly | $75–$250 |
+| [Digital Multimeter with AC Voltage](https://www.amazon.com/dp/B08ZJSN5X3?ascsubtag=ecf-tempstar-ion-heat-pump-error-codes&tag=errorcodefixes-20) | Essential for testing sensors, voltage, and solenoid coils | $25–$85 |
+| [HVAC Communication Wire 18/2](https://www.amazon.com/s?ascsubtag=ecf-tempstar-ion-heat-pump-error-codes&k=HVAC+thermostat+wire+18+2+communication&tag=errorcodefixes-20) | Replaces damaged Ion system bus wiring for Fault 8 | $12–$35 |
 
 ---
 

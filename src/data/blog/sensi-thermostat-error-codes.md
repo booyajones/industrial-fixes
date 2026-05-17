@@ -20,7 +20,7 @@ Emerson Sensi thermostats (ST55U, ST75U, UP500W, and 1T) use a combination of di
 
 ## Sensi Error Codes — Quick Reference
 
-| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Meaning | Fix |
+| [Code](https://www.amazon.com/s?ascsubtag=ecf-sensi-thermostat-error-codes&k=Code&tag=errorcodefixes-20) | Meaning | Fix |
 |---|---|---|
 | E1 | Indoor temperature sensor fault | Replace thermostat |
 | E2 | Outdoor/remote sensor fault | Check/replace remote sensor probe |
@@ -71,12 +71,12 @@ E7 means the Sensi is measuring low 24VAC from your HVAC system. Normal is 24–
 
 ## Sensi App Alerts (Not Display Codes)
 
-| [App Alert](https://www.amazon.com/s?i=industrial&k=App+Alert&tag=errorcodefixes-20) | Meaning |
+| [App Alert](https://www.amazon.com/s?ascsubtag=ecf-sensi-thermostat-error-codes&k=App+Alert&tag=errorcodefixes-20) | Meaning |
 |---|---|
-| ["Short cycling detected"](https://www.amazon.com/s?i=industrial&k="Short+cycling+detected"&tag=errorcodefixes-20) | Equipment running briefly and stopping repeatedly |
-| ["Hasn't reached setpoint"](https://www.amazon.com/s?i=industrial&k="Hasn%27t+reached+setpoint"&tag=errorcodefixes-20) | System running too long, not hitting target temp |
-| ["Low battery" (Sensi Lite)](https://www.amazon.com/s?i=industrial&k="Low+battery"+%28Sensi+Lite%29&tag=errorcodefixes-20) | Replace AA batteries |
-| ["Filter reminder"](https://www.amazon.com/s?i=industrial&k="Filter+reminder"&tag=errorcodefixes-20) | Time-based alert, not a fault |
+| ["Short cycling detected"](https://www.amazon.com/s?ascsubtag=ecf-sensi-thermostat-error-codes&k="Short+cycling+detected"&tag=errorcodefixes-20) | Equipment running briefly and stopping repeatedly |
+| ["Hasn't reached setpoint"](https://www.amazon.com/s?ascsubtag=ecf-sensi-thermostat-error-codes&k="Hasn%27t+reached+setpoint"&tag=errorcodefixes-20) | System running too long, not hitting target temp |
+| ["Low battery" (Sensi Lite)](https://www.amazon.com/s?ascsubtag=ecf-sensi-thermostat-error-codes&k="Low+battery"+%28Sensi+Lite%29&tag=errorcodefixes-20) | Replace AA batteries |
+| ["Filter reminder"](https://www.amazon.com/s?ascsubtag=ecf-sensi-thermostat-error-codes&k="Filter+reminder"&tag=errorcodefixes-20) | Time-based alert, not a fault |
 
 ## Factory Reset — Sensi
 
@@ -87,9 +87,9 @@ If you need to fully reset and re-pair the Sensi thermostat:
 
 ## Sensi Wi-Fi Thermostat Model Numbers
 
-| [Model](https://www.amazon.com/s?i=industrial&k=Model&tag=errorcodefixes-20) | Notes |
+| [Model](https://www.amazon.com/s?ascsubtag=ecf-sensi-thermostat-error-codes&k=Model&tag=errorcodefixes-20) | Notes |
 |---|---|
-| [ST55U](https://www.amazon.com/s?i=industrial&k="ST55U"&tag=errorcodefixes-20) | Basic Wi-Fi, 7-day |
-| [ST75U](https://www.amazon.com/s?i=industrial&k="ST75U"&tag=errorcodefixes-20) | Smart features, Alexa/Google |
+| [ST55U](https://www.amazon.com/s?ascsubtag=ecf-sensi-thermostat-error-codes&k="ST55U"&tag=errorcodefixes-20) | Basic Wi-Fi, 7-day |
+| [ST75U](https://www.amazon.com/s?ascsubtag=ecf-sensi-thermostat-error-codes&k="ST75U"&tag=errorcodefixes-20) | Smart features, Alexa/Google |
 | 1T | Touchscreen, humidity display |
-| [UP500W](https://www.amazon.com/s?i=industrial&k="UP500W"&tag=errorcodefixes-20) | Universal, works with all HVAC types |
+| [UP500W](https://www.amazon.com/s?ascsubtag=ecf-sensi-thermostat-error-codes&k="UP500W"&tag=errorcodefixes-20) | Universal, works with all HVAC types |

@@ -55,12 +55,12 @@ The Trane XR90 is a single-stage 90% AFUE gas furnace with a PSC (permanent spli
 
 | Part | Notes |
 |---|---|
-| Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Norton 601, silicon carbide; fragile — don't touch the ceramic |
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Rod-type; clean with steel wool before replacing |
-| Inducer motor capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| 5 or 7.5 µF; measure before replacing motor |
-| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Two switches on some XR90 versions (high and low) |
-| High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| L200°F on most XR90 configurations |
-| Blower capacitor | [Amazon](https://www.amazon.com/s?i=industrial&k=Blower+capacitor&tag=errorcodefixes-20) \| PSC blower motor; dedicated capacitor |
+| Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-trane-xr90-error-codes&tag=errorcodefixes-20) \| Norton 601, silicon carbide; fragile — don't touch the ceramic |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-trane-xr90-error-codes&tag=errorcodefixes-20) \| Rod-type; clean with steel wool before replacing |
+| Inducer motor capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-trane-xr90-error-codes&tag=errorcodefixes-20) \| 5 or 7.5 µF; measure before replacing motor |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-trane-xr90-error-codes&tag=errorcodefixes-20) \| Two switches on some XR90 versions (high and low) |
+| High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-trane-xr90-error-codes&tag=errorcodefixes-20) \| L200°F on most XR90 configurations |
+| Blower capacitor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-xr90-error-codes&k=Blower+capacitor&tag=errorcodefixes-20) \| PSC blower motor; dedicated capacitor |
 ## When to Call a Pro
 
 The XR90 heat exchanger is a clamshell design that can crack at the secondary (condensate-side) section. If you smell combustion gases in the conditioned air, suspect a cracked heat exchanger — this is a safety issue requiring professional inspection and likely furnace replacement. Do not operate a furnace with a suspected cracked heat exchanger.

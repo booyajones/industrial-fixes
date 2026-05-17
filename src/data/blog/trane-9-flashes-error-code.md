@@ -37,9 +37,9 @@ Nine flashes on a Trane furnace status LED indicates a **low or no flame signal*
 
 | Part | Notes |
 |------|-------|
-| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Inexpensive universal or OEM; match length and mounting bracket style |
-| Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Silicon nitride (most Trane) — match voltage (120V) and resistance spec |
-| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Only if manifold pressure is confirmed low and regulator adjustment doesn't correct it |
+| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-trane-9-flashes-error-code&tag=errorcodefixes-20) \| Inexpensive universal or OEM; match length and mounting bracket style |
+| Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-trane-9-flashes-error-code&tag=errorcodefixes-20) \| Silicon nitride (most Trane) — match voltage (120V) and resistance spec |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-trane-9-flashes-error-code&tag=errorcodefixes-20) \| Only if manifold pressure is confirmed low and regulator adjustment doesn't correct it |
 ## When to Call a Pro
 
 If cleaning the flame sensor and verifying gas pressure don't resolve the fault, and the furnace consistently fails to hold flame, suspect a cracked heat exchanger pulling excess combustion air across the burner. This is a safety issue requiring professional inspection — do not continue operating the furnace.

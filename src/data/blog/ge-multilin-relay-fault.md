@@ -50,10 +50,10 @@ Use the front panel display or EnerVista software:
 
 | Action | Notes |
 |--------|-------|
-| Reset trip | [Amazon](https://www.amazon.com/s?i=industrial&k=Reset+trip&tag=errorcodefixes-20) \| Front panel RESET after fault cleared |
-| EnerVista software | [Amazon](https://www.amazon.com/s?i=industrial&k=EnerVista+software&tag=errorcodefixes-20) \| Required for full event log and settings |
-| CT secondary check | [Amazon](https://www.amazon.com/s?i=industrial&k=CT+secondary+check&tag=errorcodefixes-20) \| Verify CT ratios match relay settings |
-| Firmware update | [Amazon](https://www.amazon.com/s?i=industrial&k=Firmware+update&tag=errorcodefixes-20) \| If relay displays self-diagnostic fault |
+| Reset trip | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-multilin-relay-fault&k=Reset+trip&tag=errorcodefixes-20) \| Front panel RESET after fault cleared |
+| EnerVista software | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-multilin-relay-fault&k=EnerVista+software&tag=errorcodefixes-20) \| Required for full event log and settings |
+| CT secondary check | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-multilin-relay-fault&k=CT+secondary+check&tag=errorcodefixes-20) \| Verify CT ratios match relay settings |
+| Firmware update | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-multilin-relay-fault&k=Firmware+update&tag=errorcodefixes-20) \| If relay displays self-diagnostic fault |
 ## Jump to Fix
 
 - **Thermal (49) trip** → Check thermal capacity on display → Allow cooling → Investigate overload

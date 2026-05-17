@@ -54,12 +54,12 @@ The Ultra will lockout below 10 PSI system pressure. Check for system leaks, wat
 
 | Part | Notes |
 |------|-------|
-| Neutralizer cartridge | [Amazon](https://www.amazon.com/s?i=industrial&k=Neutralizer+cartridge&tag=errorcodefixes-20) \| Annual replacement |
-| Inlet/outlet sensors | [Amazon](https://www.amazon.com/s?i=industrial&k=Inlet%2Foutlet+sensors&tag=errorcodefixes-20) \| Check resistance |
-| Igniter | [Amazon](https://www.amazon.com/s?i=industrial&k=Igniter&tag=errorcodefixes-20) \| Check for cracks |
-| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Test coil resistance |
-| Expansion tank | [Amazon](https://www.amazon.com/s?i=industrial&k=Expansion+tank&tag=errorcodefixes-20) \| Check pre-charge before replacing |
-| Circulation pump | [Amazon](https://www.amazon.com/s?i=industrial&k=Circulation+pump&tag=errorcodefixes-20) \| Check for seized impeller |
+| Neutralizer cartridge | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-weil-mclain-ultra-series-codes&k=Neutralizer+cartridge&tag=errorcodefixes-20) \| Annual replacement |
+| Inlet/outlet sensors | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-weil-mclain-ultra-series-codes&k=Inlet%2Foutlet+sensors&tag=errorcodefixes-20) \| Check resistance |
+| Igniter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-weil-mclain-ultra-series-codes&k=Igniter&tag=errorcodefixes-20) \| Check for cracks |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-weil-mclain-ultra-series-codes&tag=errorcodefixes-20) \| Test coil resistance |
+| Expansion tank | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-weil-mclain-ultra-series-codes&k=Expansion+tank&tag=errorcodefixes-20) \| Check pre-charge before replacing |
+| Circulation pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-weil-mclain-ultra-series-codes&k=Circulation+pump&tag=errorcodefixes-20) \| Check for seized impeller |
 > **Pro tip:** Weil-McLain Ultra boilers store up to 10 fault codes with timestamps. Access via Service ΓåÆ Fault History menu on the display. Reviewing fault timestamps helps identify whether faults are intermittent or consistent with specific heating demand patterns.
 
 ## Related Articles

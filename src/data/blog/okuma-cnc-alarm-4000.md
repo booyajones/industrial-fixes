@@ -36,9 +36,9 @@ Okuma Alarm 4000 indicates a safety circuit error - the machine's safety monitor
 
 | Part | Notes |
 |------|-------|
-| Safety relay module | [Amazon](https://www.amazon.com/s?i=industrial&k=Safety+relay+module&tag=errorcodefixes-20) \| Replace if relay won't reset or has failed contacts |
-| Door interlock switch | [Amazon](https://www.amazon.com/s?i=industrial&k=Door+interlock+switch&tag=errorcodefixes-20) \| Replace if switch won't confirm door closed |
-| E-stop button | [Amazon](https://www.amazon.com/s?i=industrial&k=E-stop+button&tag=errorcodefixes-20) \| Replace if button mechanism is stuck |
+| Safety relay module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-okuma-cnc-alarm-4000&k=Safety+relay+module&tag=errorcodefixes-20) \| Replace if relay won't reset or has failed contacts |
+| Door interlock switch | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-okuma-cnc-alarm-4000&k=Door+interlock+switch&tag=errorcodefixes-20) \| Replace if switch won't confirm door closed |
+| E-stop button | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-okuma-cnc-alarm-4000&k=E-stop+button&tag=errorcodefixes-20) \| Replace if button mechanism is stuck |
 ## When to Call a Pro
 
 Never bypass or jumper safety circuit components to clear Alarm 4000. Okuma authorized service should diagnose and repair all safety circuit faults.

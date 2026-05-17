@@ -105,11 +105,11 @@ TEFC (Totally Enclosed Fan-Cooled) motors rely on their shaft-mounted cooling fa
 
 | Part | Why | Approx. Cost |
 |------|-----|-------------|
-| [Replacement motor (size-matched)](https://www.amazon.com/s?i=industrial&k=Replacement+motor+%28size-matched%29&tag=errorcodefixes-20) | Motor winding failure causing true overload | $200–$2,000+ |
-| [PowerFlex HIM (Human Interface Module)](https://www.amazon.com/s?i=industrial&k=PowerFlex+HIM+%28Human+Interface+Module%29&tag=errorcodefixes-20) | Access parameters without software | $80–$200 |
-| [1321-3R line reactor](https://www.amazon.com/s?i=industrial&k=1321-3R+line+reactor&tag=errorcodefixes-20) | Protect drive from supply transients that cause false faults | $100–$400 |
-| [Motor thermal overload relay (standalone)](https://www.amazon.com/s?i=industrial&k=Motor+thermal+overload+relay+%28standalone%29&tag=errorcodefixes-20) | Redundant protection if drive OL not sufficient | $40–$150 |
-| [Megohmmeter / insulation tester](https://www.amazon.com/s?i=industrial&k=Megohmmeter+%2F+insulation+tester&tag=errorcodefixes-20) | Diagnose motor winding integrity | $80–$300 (tool) |
+| [Replacement motor (size-matched)](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-f041-fault&k=Replacement+motor+%28size-matched%29&tag=errorcodefixes-20) | Motor winding failure causing true overload | $200–$2,000+ |
+| [PowerFlex HIM (Human Interface Module)](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-f041-fault&k=PowerFlex+HIM+%28Human+Interface+Module%29&tag=errorcodefixes-20) | Access parameters without software | $80–$200 |
+| [1321-3R line reactor](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-f041-fault&k=1321-3R+line+reactor&tag=errorcodefixes-20) | Protect drive from supply transients that cause false faults | $100–$400 |
+| [Motor thermal overload relay (standalone)](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-f041-fault&k=Motor+thermal+overload+relay+%28standalone%29&tag=errorcodefixes-20) | Redundant protection if drive OL not sufficient | $40–$150 |
+| [Megohmmeter / insulation tester](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-f041-fault&k=Megohmmeter+%2F+insulation+tester&tag=errorcodefixes-20) | Diagnose motor winding integrity | $80–$300 (tool) |
 
 For PowerFlex drives themselves, Rockwell Automation part numbers follow the format **22B-D...** (PowerFlex 40) and **25B-D...** (PowerFlex 523/525). If F041 is caused by a damaged drive output section, replacement drives are available through Rockwell distributors including Grainger, Motion Industries, and Kaman Automation.
 

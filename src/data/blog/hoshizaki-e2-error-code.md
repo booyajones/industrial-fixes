@@ -45,9 +45,9 @@ For low refrigerant: a licensed EPA 608-certified refrigeration technician must 
 
 | Part | Where to Buy |
 |------|-------------|
-| [Hoshizaki harvest valve solenoid](https://www.amazon.com/s?i=industrial&k=Hoshizaki+harvest+valve+solenoid&tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
-| [Hoshizaki descaler (nickel-safe)](https://www.amazon.com/s?i=industrial&k=Hoshizaki+descaler+%28nickel-safe%29&tag=errorcodefixes-20) | Amazon, SupplyHouse |
-| [Ice machine cleaner / sanitizer kit](https://www.amazon.com/s?i=industrial&k=Ice+machine+cleaner+%2F+sanitizer+kit&tag=errorcodefixes-20) | Amazon, RepairClinic |
+| [Hoshizaki harvest valve solenoid](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-e2-error-code&k=Hoshizaki+harvest+valve+solenoid&tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
+| [Hoshizaki descaler (nickel-safe)](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-e2-error-code&k=Hoshizaki+descaler+%28nickel-safe%29&tag=errorcodefixes-20) | Amazon, SupplyHouse |
+| [Ice machine cleaner / sanitizer kit](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-e2-error-code&k=Ice+machine+cleaner+%2F+sanitizer+kit&tag=errorcodefixes-20) | Amazon, RepairClinic |
 
 ## When to Call a Technician
 

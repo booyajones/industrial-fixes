@@ -127,13 +127,13 @@ The i12's combustion fan can fail to reach speed if the flue is obstructed. Insp
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
-| [Eccotemp i12 Igniter Electrode](https://www.amazon.com/s?i=industrial&k=Eccotemp+i12+igniter+electrode+replacement&tag=errorcodefixes-20) | Replaces cracked or fouled igniter causing E1 fault | $15-$28 |
-| [Flame Sensor Rod (Universal Gas)](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) | Replaces corroded flame sensor causing E2 fault | $10-$20 |
-| [Gas Valve Solenoid (12V)](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) | Replaces failed gas valve on Eccotemp i12 | $35-$65 |
-| [Flow Sensor (Paddle Type)](https://www.amazon.com/s?i=industrial&k=Eccotemp+flow+sensor+paddle+water+heater&tag=errorcodefixes-20) | Replaces failed flow sensor causing E1 or E8 fault | $18-$35 |
-| [NTC Temperature Sensor](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | Replaces failed water temperature sensor causing E4 or E6 | $10-$22 |
-| [Eccotemp i12 Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Replaces failed main control board when multiple codes persist | $55-$95 |
-| [D-Cell Batteries (8-pack)](https://www.amazon.com/s?i=industrial&k=D+cell+batteries+alkaline+8+pack&tag=errorcodefixes-20) | Powers ignition circuit - replace when E1 code appears first | $12-$18 |
+| [Eccotemp i12 Igniter Electrode](https://www.amazon.com/s?ascsubtag=ecf-eccotemp-i12-error-codes&k=Eccotemp+i12+igniter+electrode+replacement&tag=errorcodefixes-20) | Replaces cracked or fouled igniter causing E1 fault | $15-$28 |
+| [Flame Sensor Rod (Universal Gas)](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-eccotemp-i12-error-codes&tag=errorcodefixes-20) | Replaces corroded flame sensor causing E2 fault | $10-$20 |
+| [Gas Valve Solenoid (12V)](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-eccotemp-i12-error-codes&tag=errorcodefixes-20) | Replaces failed gas valve on Eccotemp i12 | $35-$65 |
+| [Flow Sensor (Paddle Type)](https://www.amazon.com/s?ascsubtag=ecf-eccotemp-i12-error-codes&k=Eccotemp+flow+sensor+paddle+water+heater&tag=errorcodefixes-20) | Replaces failed flow sensor causing E1 or E8 fault | $18-$35 |
+| [NTC Temperature Sensor](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-eccotemp-i12-error-codes&tag=errorcodefixes-20) | Replaces failed water temperature sensor causing E4 or E6 | $10-$22 |
+| [Eccotemp i12 Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-eccotemp-i12-error-codes&tag=errorcodefixes-20) | Replaces failed main control board when multiple codes persist | $55-$95 |
+| [D-Cell Batteries (8-pack)](https://www.amazon.com/s?ascsubtag=ecf-eccotemp-i12-error-codes&k=D+cell+batteries+alkaline+8+pack&tag=errorcodefixes-20) | Powers ignition circuit - replace when E1 code appears first | $12-$18 |
 
 ## When to Call a Pro
 

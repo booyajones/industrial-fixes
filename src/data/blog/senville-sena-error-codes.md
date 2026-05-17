@@ -63,12 +63,12 @@ The Senville SENA series covers a range of ductless mini split units from 9,000 
 
 | Part | Notes |
 |------|-------|
-| Indoor room temp sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Indoor+room+temp+sensor&tag=errorcodefixes-20) \| F1; NTC 10kΩ at 25°C typical |
-| Indoor coil sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Indoor+coil+sensor&tag=errorcodefixes-20) \| F2; clip-on type on evaporator |
-| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For E7 after charge and compressor confirmed |
-| Communication cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Communication+cable&tag=errorcodefixes-20) \| 3-conductor; replace full run |
-| Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For E2 or E1 with confirmed good wiring |
-| Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| For E3; confirm DC or AC type |
+| Indoor room temp sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-senville-sena-error-codes&k=Indoor+room+temp+sensor&tag=errorcodefixes-20) \| F1; NTC 10kΩ at 25°C typical |
+| Indoor coil sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-senville-sena-error-codes&k=Indoor+coil+sensor&tag=errorcodefixes-20) \| F2; clip-on type on evaporator |
+| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-senville-sena-error-codes&tag=errorcodefixes-20) \| For E7 after charge and compressor confirmed |
+| Communication cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-senville-sena-error-codes&k=Communication+cable&tag=errorcodefixes-20) \| 3-conductor; replace full run |
+| Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-senville-sena-error-codes&tag=errorcodefixes-20) \| For E2 or E1 with confirmed good wiring |
+| Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-senville-sena-error-codes&tag=errorcodefixes-20) \| For E3; confirm DC or AC type |
 ## When to Call a Pro
 
 Refrigerant diagnosis (E5, P2, E4) requires EPA 608 certification. If the SENA unit has E7 (IPM protection), a certified technician should measure compressor current draw and refrigerant pressures simultaneously — running an undercharged or overcharged system repeatedly destroys the IPM and compressor.

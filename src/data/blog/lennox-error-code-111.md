@@ -36,9 +36,9 @@ Lennox fault code 111 (three flashes on the diagnostic LED, or displayed as "111
 
 | Part | Notes |
 |------|-------|
-| Rollout limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Verify correct temp rating — Lennox uses several setpoints |
-| Induced draft motor with wheel | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Replace as assembly if wheel is cracked or motor bearing is worn |
-| Vent pipe elbow or section | [Amazon](https://www.amazon.com/s?i=industrial&k=Vent+pipe+elbow+or+section&tag=errorcodefixes-20) \| Replace cracked or blocked PVC sections on 90%+ units |
+| Rollout limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-lennox-error-code-111&tag=errorcodefixes-20) \| Verify correct temp rating — Lennox uses several setpoints |
+| Induced draft motor with wheel | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-lennox-error-code-111&tag=errorcodefixes-20) \| Replace as assembly if wheel is cracked or motor bearing is worn |
+| Vent pipe elbow or section | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lennox-error-code-111&k=Vent+pipe+elbow+or+section&tag=errorcodefixes-20) \| Replace cracked or blocked PVC sections on 90%+ units |
 ## When to Call a Pro
 
 Flame rollout combined with a cracked heat exchanger is a carbon monoxide hazard. If you cannot identify a clear venting or draft cause for the rollout trip, stop operating the furnace and have a technician perform a full combustion and heat exchanger inspection before restart.

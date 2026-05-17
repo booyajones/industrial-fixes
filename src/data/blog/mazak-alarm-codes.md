@@ -61,10 +61,10 @@ The tool changer failed mid-cycle. Check: (1) the ATC arm sensors (proximity swi
 
 | Part | Notes |
 |------|-------|
-| Servo encoder cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+encoder+cable&tag=errorcodefixes-20) \| Route-specific; measure length before ordering |
-| Lube oil pump | [Amazon](https://www.amazon.com/s?i=industrial&k=Lube+oil+pump&tag=errorcodefixes-20) \| Bijur or Farval pump, machine-specific |
-| ATC proximity switch | [Amazon](https://www.amazon.com/s?i=industrial&k=ATC+proximity+switch&tag=errorcodefixes-20) \| PNP or NPN — check existing wiring |
-| Servo drive | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+drive&tag=errorcodefixes-20) \| Mitsubishi MDS-B or MDS-C series, machine-specific |
+| Servo encoder cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mazak-alarm-codes&k=Servo+encoder+cable&tag=errorcodefixes-20) \| Route-specific; measure length before ordering |
+| Lube oil pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mazak-alarm-codes&k=Lube+oil+pump&tag=errorcodefixes-20) \| Bijur or Farval pump, machine-specific |
+| ATC proximity switch | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mazak-alarm-codes&k=ATC+proximity+switch&tag=errorcodefixes-20) \| PNP or NPN — check existing wiring |
+| Servo drive | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mazak-alarm-codes&k=Servo+drive&tag=errorcodefixes-20) \| Mitsubishi MDS-B or MDS-C series, machine-specific |
 ## When to Call a Pro
 Alarm 500 that persists after restart (Mazatrol PC failure) and ATC mechanical crashes that leave tools stuck in the arm require Mazak factory service or a Mazak-authorized technician. Running a machine with an unresolved servo position error risks further mechanical damage.
 

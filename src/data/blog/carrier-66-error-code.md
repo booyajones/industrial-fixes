@@ -22,12 +22,12 @@ Code 66 differs from code 31 (pressure switch stuck open on first attempt) — c
 
 | Cause | Likelihood | Test |
 |-------|-----------|------|
-| [Blocked condensate trap (90%+ furnaces)](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) | Very High | Inspect and clear trap |
-| [Cracked or disconnected pressure switch hose](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) | High | Visually inspect hose |
-| [Failed pressure switch](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | Medium | Test with multimeter across switch contacts |
-| [Inducer motor weak / dirty wheel](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) | Medium | Clean inducer wheel; check motor speed |
-| [Blocked flue or intake pipe](https://www.amazon.com/s?i=industrial&k=Blocked+flue+or+intake+pipe&tag=errorcodefixes-20) | Medium | Inspect PVC pipes for debris or ice |
-| [Cracked pressure switch port on inducer](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | Lower | Inspect inducer housing |
+| [Blocked condensate trap (90%+ furnaces)](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-carrier-66-error-code&tag=errorcodefixes-20) | Very High | Inspect and clear trap |
+| [Cracked or disconnected pressure switch hose](https://www.amazon.com/dp/B0CPTHML1N?ascsubtag=ecf-carrier-66-error-code&tag=errorcodefixes-20) | High | Visually inspect hose |
+| [Failed pressure switch](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-66-error-code&tag=errorcodefixes-20) | Medium | Test with multimeter across switch contacts |
+| [Inducer motor weak / dirty wheel](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-carrier-66-error-code&tag=errorcodefixes-20) | Medium | Clean inducer wheel; check motor speed |
+| [Blocked flue or intake pipe](https://www.amazon.com/s?ascsubtag=ecf-carrier-66-error-code&k=Blocked+flue+or+intake+pipe&tag=errorcodefixes-20) | Medium | Inspect PVC pipes for debris or ice |
+| [Cracked pressure switch port on inducer](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-66-error-code&tag=errorcodefixes-20) | Lower | Inspect inducer housing |
 
 ## Step-by-Step Diagnosis
 

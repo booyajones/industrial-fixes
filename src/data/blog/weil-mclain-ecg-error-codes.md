@@ -61,12 +61,12 @@ The Weil-McLain ECG (ECG-Series) is a cast-iron gas boiler designed for hydronic
 
 | Part | Notes |
 |------|-------|
-| Thermocouple | [Amazon](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) \| For standing pilot models; $10–20 |
-| Ignition module (Beckett/Honeywell) | [Amazon](https://www.amazon.com/s?i=industrial&k=Ignition+module+%28Beckett%2FHoneywell%29&tag=errorcodefixes-20) \| For electronic ignition lockout |
-| Circulator pump | [Amazon](https://www.amazon.com/s?i=industrial&k=Circulator+pump&tag=errorcodefixes-20) \| For limit trips with zone valve confirmed open |
-| Low water cutoff (LWCO) | [Amazon](https://www.amazon.com/s?i=industrial&k=Low+water+cutoff+%28LWCO%29&tag=errorcodefixes-20) \| For LWCO lockout with normal water level |
-| Expansion tank | [Amazon](https://www.amazon.com/s?i=industrial&k=Expansion+tank&tag=errorcodefixes-20) \| For pressure relief weeping; confirm pre-charge |
-| Aquastat relay | [Amazon](https://www.amazon.com/s?i=industrial&k=Aquastat+relay&tag=errorcodefixes-20) \| For control failures on older ECG models |
+| Thermocouple | [Amazon](https://www.amazon.com/dp/B00RJF4PYQ?ascsubtag=ecf-weil-mclain-ecg-error-codes&tag=errorcodefixes-20) \| For standing pilot models; $10–20 |
+| Ignition module (Beckett/Honeywell) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-weil-mclain-ecg-error-codes&k=Ignition+module+%28Beckett%2FHoneywell%29&tag=errorcodefixes-20) \| For electronic ignition lockout |
+| Circulator pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-weil-mclain-ecg-error-codes&k=Circulator+pump&tag=errorcodefixes-20) \| For limit trips with zone valve confirmed open |
+| Low water cutoff (LWCO) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-weil-mclain-ecg-error-codes&k=Low+water+cutoff+%28LWCO%29&tag=errorcodefixes-20) \| For LWCO lockout with normal water level |
+| Expansion tank | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-weil-mclain-ecg-error-codes&k=Expansion+tank&tag=errorcodefixes-20) \| For pressure relief weeping; confirm pre-charge |
+| Aquastat relay | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-weil-mclain-ecg-error-codes&k=Aquastat+relay&tag=errorcodefixes-20) \| For control failures on older ECG models |
 ## When to Call a Pro
 
 Gas boiler work involves gas combustion, high-temperature/pressure systems, and often asbestos insulation on older installations. If you smell gas, see carbon deposits on the burner, or the LWCO has tripped on a steam boiler, stop operating the unit and call a licensed heating contractor immediately.

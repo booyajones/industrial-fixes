@@ -41,10 +41,10 @@ The Rheem EcoNet **A101 error code** means the EcoNet thermostat has lost commun
 
 | Part | Where to Buy | Typical Cost |
 |------|--------------|--------------|
-| Rheem EcoNet thermostat (EcoNet 800) | [Check price on Amazon](https://www.amazon.com/s?i=industrial&k="EcoNet+800"+thermostat&tag=errorcodefixes-20) \| Rheem dealer | $280-$420 |
-| EcoNet 4-wire control cable (18AWG, 4-conductor) | [Check price on Amazon](https://www.amazon.com/s?i=industrial&k="18AWG+4+conductor+thermostat+wire"&tag=errorcodefixes-20) \| supply house | $40-$120 per 250 ft |
+| Rheem EcoNet thermostat (EcoNet 800) | [Check price on Amazon](https://www.amazon.com/s?ascsubtag=ecf-rheem-econet-a101-error-code&k="EcoNet+800"+thermostat&tag=errorcodefixes-20) \| Rheem dealer | $280-$420 |
+| EcoNet 4-wire control cable (18AWG, 4-conductor) | [Check price on Amazon](https://www.amazon.com/s?ascsubtag=ecf-rheem-econet-a101-error-code&k="18AWG+4+conductor+thermostat+wire"&tag=errorcodefixes-20) \| supply house | $40-$120 per 250 ft |
 | Equipment control board (furnace/air handler/heat pump, model-specific) | Rheem dealer, RepairClinic | $200-$550 |
-| EcoNet Wi-Fi Gateway (if used) | [Check price on Amazon](https://www.amazon.com/s?i=industrial&k="Rheem+EcoNet+Gateway"&tag=errorcodefixes-20) | $90-$160 |
+| EcoNet Wi-Fi Gateway (if used) | [Check price on Amazon](https://www.amazon.com/s?ascsubtag=ecf-rheem-econet-a101-error-code&k="Rheem+EcoNet+Gateway"&tag=errorcodefixes-20) | $90-$160 |
 
 ## Technician Tips
 

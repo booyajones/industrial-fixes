@@ -36,8 +36,8 @@ Haas Alarm 123 indicates that the ATC arm is not in the home position — the to
 
 | Part | Notes |
 |------|-------|
-| ATC arm home proximity switch | [Amazon](https://www.amazon.com/s?i=industrial&k=ATC+arm+home+proximity+switch&tag=errorcodefixes-20) \| Replace if not triggering when arm is physically home |
-| ATC arm actuator (pneumatic) | [Amazon](https://www.amazon.com/s?i=industrial&k=ATC+arm+actuator+%28pneumatic%29&tag=errorcodefixes-20) \| Replace if cylinder doesn't fully retract |
+| ATC arm home proximity switch | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-123&k=ATC+arm+home+proximity+switch&tag=errorcodefixes-20) \| Replace if not triggering when arm is physically home |
+| ATC arm actuator (pneumatic) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-123&k=ATC+arm+actuator+%28pneumatic%29&tag=errorcodefixes-20) \| Replace if cylinder doesn't fully retract |
 ## When to Call a Pro
 
 ATC arm adjustments and proximity switch calibration on Haas machines should be done by Haas service or a certified dealer to ensure correct arm-to-spindle alignment.

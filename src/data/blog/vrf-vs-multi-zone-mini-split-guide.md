@@ -58,7 +58,7 @@ The upfront cost difference is the biggest factor in most decisions.
 - Off-the-shelf components
 - Any licensed HVAC tech can install them
 
-[Search for multi-zone mini-split system](https://www.amazon.com/s?i=industrial&k=multi-zone+mini+split+system&tag=errorcodefixes-20) | [Search for VRF system parts](https://www.amazon.com/s?i=industrial&k=VRF+system+parts&tag=errorcodefixes-20)
+[Search for multi-zone mini-split system](https://www.amazon.com/s?ascsubtag=ecf-vrf-vs-multi-zone-mini-split-guide&k=multi-zone+mini+split+system&tag=errorcodefixes-20) | [Search for VRF system parts](https://www.amazon.com/s?ascsubtag=ecf-vrf-vs-multi-zone-mini-split-guide&k=VRF+system+parts&tag=errorcodefixes-20)
 
 ---
 

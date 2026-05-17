@@ -24,22 +24,22 @@ The Omron CP1H is a compact PLC that indicates faults through **front-panel LEDs
 |---|---|
 | PWR | Power present |
 | RUN | Program executing normally |
-| [ERR/ALM solid](https://www.amazon.com/s?i=industrial&k=ERR%2FALM+solid&tag=errorcodefixes-20) | Fatal error, CPU stopped |
-| [ERR/ALM blinking](https://www.amazon.com/s?i=industrial&k=ERR%2FALM+blinking&tag=errorcodefixes-20) | Non-fatal error, CPU still running |
+| [ERR/ALM solid](https://www.amazon.com/s?ascsubtag=ecf-omron-cp1h-error-codes&k=ERR%2FALM+solid&tag=errorcodefixes-20) | Fatal error, CPU stopped |
+| [ERR/ALM blinking](https://www.amazon.com/s?ascsubtag=ecf-omron-cp1h-error-codes&k=ERR%2FALM+blinking&tag=errorcodefixes-20) | Non-fatal error, CPU still running |
 | INH | Interrupts disabled |
-| [BKUP](https://www.amazon.com/s?i=industrial&k=BKUP&tag=errorcodefixes-20) | Battery low or memory backup issue |
+| [BKUP](https://www.amazon.com/s?ascsubtag=ecf-omron-cp1h-error-codes&k=BKUP&tag=errorcodefixes-20) | Battery low or memory backup issue |
 
 ## Common CP1H Faults
 
-| [Fault](https://www.amazon.com/s?i=industrial&k=Fault&tag=errorcodefixes-20) | Meaning | Typical Fix |
+| [Fault](https://www.amazon.com/s?ascsubtag=ecf-omron-cp1h-error-codes&k=Fault&tag=errorcodefixes-20) | Meaning | Typical Fix |
 |---|---|---|
-| [Memory error](https://www.amazon.com/s?i=industrial&k=Memory+error&tag=errorcodefixes-20) | Program or DM memory corrupted | Re-download program, check battery |
-| [I/O bus error](https://www.amazon.com/s?i=industrial&k=I%2FO+bus+error&tag=errorcodefixes-20) | Expansion module missing or failed | Reseat module, verify addressing |
-| [Battery error](https://www.amazon.com/s?i=industrial&k=Battery+error&tag=errorcodefixes-20) | Backup battery low | Replace battery with power on |
-| [Cycle time over](https://www.amazon.com/s?i=industrial&k=Cycle+time+over&tag=errorcodefixes-20) | Scan time exceeded configured maximum | Optimize logic, increase cycle limit |
-| [Syntax/program error](https://www.amazon.com/s?i=industrial&k=Syntax%2Fprogram+error&tag=errorcodefixes-20) | Invalid instruction or bad jump | Compile in CX-Programmer and fix rung |
-| [Unit number duplicate](https://www.amazon.com/s?i=industrial&k=Unit+number+duplicate&tag=errorcodefixes-20) | Smart units or option boards share address | Change DIP/unit number |
-| [PLC Setup error](https://www.amazon.com/s?i=industrial&k=PLC+Setup+error&tag=errorcodefixes-20) | Parameter mismatch after download | Rewrite settings and cycle power |
+| [Memory error](https://www.amazon.com/s?ascsubtag=ecf-omron-cp1h-error-codes&k=Memory+error&tag=errorcodefixes-20) | Program or DM memory corrupted | Re-download program, check battery |
+| [I/O bus error](https://www.amazon.com/s?ascsubtag=ecf-omron-cp1h-error-codes&k=I%2FO+bus+error&tag=errorcodefixes-20) | Expansion module missing or failed | Reseat module, verify addressing |
+| [Battery error](https://www.amazon.com/s?ascsubtag=ecf-omron-cp1h-error-codes&k=Battery+error&tag=errorcodefixes-20) | Backup battery low | Replace battery with power on |
+| [Cycle time over](https://www.amazon.com/s?ascsubtag=ecf-omron-cp1h-error-codes&k=Cycle+time+over&tag=errorcodefixes-20) | Scan time exceeded configured maximum | Optimize logic, increase cycle limit |
+| [Syntax/program error](https://www.amazon.com/s?ascsubtag=ecf-omron-cp1h-error-codes&k=Syntax%2Fprogram+error&tag=errorcodefixes-20) | Invalid instruction or bad jump | Compile in CX-Programmer and fix rung |
+| [Unit number duplicate](https://www.amazon.com/s?ascsubtag=ecf-omron-cp1h-error-codes&k=Unit+number+duplicate&tag=errorcodefixes-20) | Smart units or option boards share address | Change DIP/unit number |
+| [PLC Setup error](https://www.amazon.com/s?ascsubtag=ecf-omron-cp1h-error-codes&k=PLC+Setup+error&tag=errorcodefixes-20) | Parameter mismatch after download | Rewrite settings and cycle power |
 
 ## Reading Faults in CX-Programmer
 

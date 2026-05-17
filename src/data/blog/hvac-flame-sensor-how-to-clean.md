@@ -117,10 +117,10 @@ Most clamp meters don't have a µA range — you need a meter with a separate µ
 
 | Part | Use | Amazon Link |
 |------|-----|-------------|
-| Universal Flame Sensor Rod (Supco or equivalent) | Replace corroded or broken flame sensor | [View on Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) |
-| Emery Cloth Assortment (400-600 grit) | Clean oxidized flame sensor rod | [View on Amazon](https://www.amazon.com/s?i=industrial&k=emery+cloth+assortment+400+600+grit&tag=errorcodefixes-20) |
-| Fluke 87V Digital Multimeter (µA capable) | Test flame sensor microamp output | [View on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) |
-| 1/4-inch Hex Nut Driver | Remove flame sensor mounting screws | [View on Amazon](https://www.amazon.com/s?i=industrial&k=1+4+inch+hex+nut+driver+HVAC&tag=errorcodefixes-20) |
+| Universal Flame Sensor Rod (Supco or equivalent) | Replace corroded or broken flame sensor | [View on Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-hvac-flame-sensor-how-to-clean&tag=errorcodefixes-20) |
+| Emery Cloth Assortment (400-600 grit) | Clean oxidized flame sensor rod | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-hvac-flame-sensor-how-to-clean&k=emery+cloth+assortment+400+600+grit&tag=errorcodefixes-20) |
+| Fluke 87V Digital Multimeter (µA capable) | Test flame sensor microamp output | [View on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?ascsubtag=ecf-hvac-flame-sensor-how-to-clean&tag=errorcodefixes-20) |
+| 1/4-inch Hex Nut Driver | Remove flame sensor mounting screws | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-hvac-flame-sensor-how-to-clean&k=1+4+inch+hex+nut+driver+HVAC&tag=errorcodefixes-20) |
 
 ## When to Call a Pro
 

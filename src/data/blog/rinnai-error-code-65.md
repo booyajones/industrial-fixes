@@ -75,9 +75,9 @@ The most common fix for Error 65:
 
 | Part | Notes |
 |---|---|
-| Flow sensor (water flow rate sensor) | [Amazon](https://www.amazon.com/s?i=industrial&k=Flow+sensor+%28water+flow+rate+sensor%29&tag=errorcodefixes-20) \| Rinnai part 100001226 or model-specific |
-| Inlet filter screen | [Amazon](https://www.amazon.com/s?i=industrial&k=Inlet+filter+screen&tag=errorcodefixes-20) \| Rinnai part 100028 or equivalent |
-| Flow control valve | [Amazon](https://www.amazon.com/s?i=industrial&k=Flow+control+valve&tag=errorcodefixes-20) \| Some models have a flow adjustment valve — may need cleaning |
+| Flow sensor (water flow rate sensor) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-error-code-65&k=Flow+sensor+%28water+flow+rate+sensor%29&tag=errorcodefixes-20) \| Rinnai part 100001226 or model-specific |
+| Inlet filter screen | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-error-code-65&k=Inlet+filter+screen&tag=errorcodefixes-20) \| Rinnai part 100028 or equivalent |
+| Flow control valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-error-code-65&k=Flow+control+valve&tag=errorcodefixes-20) \| Some models have a flow adjustment valve — may need cleaning |
 ## Reset Procedure
 
 1. Fix the root cause (clean filter, restore flow)

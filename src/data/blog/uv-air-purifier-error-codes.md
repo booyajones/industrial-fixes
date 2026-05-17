@@ -16,15 +16,15 @@ tags:
 
 In-duct UV air purifiers use ultraviolet light to reduce microbial contaminants in HVAC airstreams. Major HVAC UV brands include Fresh-Aire UV, Sanuvox, Ultravation, Honeywell UV, and RGF. Most UV systems communicate status through LED indicators rather than numeric codes. The following covers the common fault patterns across brands.
 
-| [LED / Indicator State](https://www.amazon.com/s?i=industrial&k=LED+%2F+Indicator+State&tag=errorcodefixes-20) | Meaning | Action |
+| [LED / Indicator State](https://www.amazon.com/s?ascsubtag=ecf-uv-air-purifier-error-codes&k=LED+%2F+Indicator+State&tag=errorcodefixes-20) | Meaning | Action |
 |----------------------|---------|--------|
-| [Green solid](https://www.amazon.com/s?i=industrial&k=Green+solid&tag=errorcodefixes-20) | Normal operation, lamp active | None |
-| [Green flashing](https://www.amazon.com/s?i=industrial&k=Green+flashing&tag=errorcodefixes-20) | Lamp life warning (brand-specific) | Plan lamp replacement |
-| [Red / amber solid](https://www.amazon.com/s?i=industrial&k=Red+%2F+amber+solid&tag=errorcodefixes-20) | Lamp end of life or lamp failure | Replace UV lamp |
-| [Red flashing](https://www.amazon.com/s?i=industrial&k=Red+flashing&tag=errorcodefixes-20) | Power fault or ballast fault | Check 24VAC supply; inspect wiring |
-| [Off (no LED)](https://www.amazon.com/s?i=industrial&k=Off+%28no+LED%29&tag=errorcodefixes-20) | No power | Check power source; check fuse |
-| [Yellow flashing](https://www.amazon.com/s?i=industrial&k=Yellow+flashing&tag=errorcodefixes-20) | Annual reminder (Honeywell UV) | Inspect lamp; reset timer |
-| [Alarm output active](https://www.amazon.com/s?i=industrial&k=Alarm+output+active&tag=errorcodefixes-20) | Lamp failure relay triggered | Replace lamp; reset alarm |
+| [Green solid](https://www.amazon.com/s?ascsubtag=ecf-uv-air-purifier-error-codes&k=Green+solid&tag=errorcodefixes-20) | Normal operation, lamp active | None |
+| [Green flashing](https://www.amazon.com/s?ascsubtag=ecf-uv-air-purifier-error-codes&k=Green+flashing&tag=errorcodefixes-20) | Lamp life warning (brand-specific) | Plan lamp replacement |
+| [Red / amber solid](https://www.amazon.com/s?ascsubtag=ecf-uv-air-purifier-error-codes&k=Red+%2F+amber+solid&tag=errorcodefixes-20) | Lamp end of life or lamp failure | Replace UV lamp |
+| [Red flashing](https://www.amazon.com/s?ascsubtag=ecf-uv-air-purifier-error-codes&k=Red+flashing&tag=errorcodefixes-20) | Power fault or ballast fault | Check 24VAC supply; inspect wiring |
+| [Off (no LED)](https://www.amazon.com/s?ascsubtag=ecf-uv-air-purifier-error-codes&k=Off+%28no+LED%29&tag=errorcodefixes-20) | No power | Check power source; check fuse |
+| [Yellow flashing](https://www.amazon.com/s?ascsubtag=ecf-uv-air-purifier-error-codes&k=Yellow+flashing&tag=errorcodefixes-20) | Annual reminder (Honeywell UV) | Inspect lamp; reset timer |
+| [Alarm output active](https://www.amazon.com/s?ascsubtag=ecf-uv-air-purifier-error-codes&k=Alarm+output+active&tag=errorcodefixes-20) | Lamp failure relay triggered | Replace lamp; reset alarm |
 
 ## Brand-Specific Fault Indicators
 
@@ -55,12 +55,12 @@ Ultravation systems have an audible alarm (chirping) in addition to LED indicato
 
 ## Lamp Life by Technology
 
-| [Lamp Type](https://www.amazon.com/s?i=industrial&k=Lamp+Type&tag=errorcodefixes-20) | Rated Life | Typical Brands |
+| [Lamp Type](https://www.amazon.com/s?ascsubtag=ecf-uv-air-purifier-error-codes&k=Lamp+Type&tag=errorcodefixes-20) | Rated Life | Typical Brands |
 |-----------|-----------|----------------|
-| [Standard UV-C (low pressure)](https://www.amazon.com/s?i=industrial&k=Standard+UV-C+%28low+pressure%29&tag=errorcodefixes-20) | 9,000 hours (~1 year at 24/7) | Honeywell, Fresh-Aire standard |
-| [Extended-life UV-C](https://www.amazon.com/s?i=industrial&k=Extended-life+UV-C&tag=errorcodefixes-20) | 17,000 hours (~2 years) | Fresh-Aire APCO, Sanuvox |
-| [Amalgam UV-C](https://www.amazon.com/s?i=industrial&k=Amalgam+UV-C&tag=errorcodefixes-20) | 17,000+ hours | Sanuvox high-output systems |
-| [UV-C LED array](https://www.amazon.com/s?i=industrial&k=UV-C+LED+array&tag=errorcodefixes-20) | 25,000+ hours | REME Halo LED, newer systems |
+| [Standard UV-C (low pressure)](https://www.amazon.com/s?ascsubtag=ecf-uv-air-purifier-error-codes&k=Standard+UV-C+%28low+pressure%29&tag=errorcodefixes-20) | 9,000 hours (~1 year at 24/7) | Honeywell, Fresh-Aire standard |
+| [Extended-life UV-C](https://www.amazon.com/s?ascsubtag=ecf-uv-air-purifier-error-codes&k=Extended-life+UV-C&tag=errorcodefixes-20) | 17,000 hours (~2 years) | Fresh-Aire APCO, Sanuvox |
+| [Amalgam UV-C](https://www.amazon.com/s?ascsubtag=ecf-uv-air-purifier-error-codes&k=Amalgam+UV-C&tag=errorcodefixes-20) | 17,000+ hours | Sanuvox high-output systems |
+| [UV-C LED array](https://www.amazon.com/s?ascsubtag=ecf-uv-air-purifier-error-codes&k=UV-C+LED+array&tag=errorcodefixes-20) | 25,000+ hours | REME Halo LED, newer systems |
 
 ## When to Call a Pro
 If a UV system's fault indicator activates immediately after installing a new lamp, the ballast (electronic power supply) may have failed. Ballast replacement requires an HVAC technician familiar with the specific brand.

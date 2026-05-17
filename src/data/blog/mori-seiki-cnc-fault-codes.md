@@ -397,6 +397,6 @@ Most recurring Mori faults come from pressure stability, dirty sensors, worn cab
 
 Find replacement parts for Mori Seiki (DMG Mori) CNC machines on Amazon:
 
-- [Mori Seiki DMG CNC Machine Parts](https://www.amazon.com/s?i=industrial&k=Mori+Seiki+CNC+machine+parts&tag=errorcodefixes-20)
-- [Fanuc CNC Battery & Control Parts](https://www.amazon.com/s?i=industrial&k=Fanuc+CNC+control+battery+replacement&tag=errorcodefixes-20)
-- [CNC Way Lube Oil Pump Replacement](https://www.amazon.com/s?i=industrial&k=CNC+way+lube+oil+pump+replacement&tag=errorcodefixes-20)
+- [Mori Seiki DMG CNC Machine Parts](https://www.amazon.com/s?ascsubtag=ecf-mori-seiki-cnc-fault-codes&k=Mori+Seiki+CNC+machine+parts&tag=errorcodefixes-20)
+- [Fanuc CNC Battery & Control Parts](https://www.amazon.com/s?ascsubtag=ecf-mori-seiki-cnc-fault-codes&k=Fanuc+CNC+control+battery+replacement&tag=errorcodefixes-20)
+- [CNC Way Lube Oil Pump Replacement](https://www.amazon.com/s?ascsubtag=ecf-mori-seiki-cnc-fault-codes&k=CNC+way+lube+oil+pump+replacement&tag=errorcodefixes-20)

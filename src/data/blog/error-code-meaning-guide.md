@@ -43,12 +43,12 @@ CNC machines and BMS systems display descriptive fault names with numeric codes.
 
 ## The Four Most Common Root Causes Across All Equipment
 
-| [Root Cause](https://www.amazon.com/s?i=industrial&k=Root+Cause&tag=errorcodefixes-20) | HVAC Code | VFD Code | CNC Code |
+| [Root Cause](https://www.amazon.com/s?ascsubtag=ecf-error-code-meaning-guide&k=Root+Cause&tag=errorcodefixes-20) | HVAC Code | VFD Code | CNC Code |
 |-----------|-----------|----------|----------|
-| [Overtemperature](https://www.amazon.com/s?i=industrial&k=Overtemperature&tag=errorcodefixes-20) | 4 flashes, E2 | OH, F5 | Alarm 700 |
-| [Sensor failure](https://www.amazon.com/s?i=industrial&k=Sensor+failure&tag=errorcodefixes-20) | E1, Code 7 | Sensor fault | --- |
-| [Mechanical overload](https://www.amazon.com/s?i=industrial&k=Mechanical+overload&tag=errorcodefixes-20) | 4 flashes | OL, F7 | Alarm 409/460 |
-| [Communication fault](https://www.amazon.com/s?i=industrial&k=Communication+fault&tag=errorcodefixes-20) | E6, Er | CF, E20 | Alarm 25000 |
+| [Overtemperature](https://www.amazon.com/s?ascsubtag=ecf-error-code-meaning-guide&k=Overtemperature&tag=errorcodefixes-20) | 4 flashes, E2 | OH, F5 | Alarm 700 |
+| [Sensor failure](https://www.amazon.com/s?ascsubtag=ecf-error-code-meaning-guide&k=Sensor+failure&tag=errorcodefixes-20) | E1, Code 7 | Sensor fault | --- |
+| [Mechanical overload](https://www.amazon.com/s?ascsubtag=ecf-error-code-meaning-guide&k=Mechanical+overload&tag=errorcodefixes-20) | 4 flashes | OL, F7 | Alarm 409/460 |
+| [Communication fault](https://www.amazon.com/s?ascsubtag=ecf-error-code-meaning-guide&k=Communication+fault&tag=errorcodefixes-20) | E6, Er | CF, E20 | Alarm 25000 |
 
 ## When Error Codes Point to Parts
 

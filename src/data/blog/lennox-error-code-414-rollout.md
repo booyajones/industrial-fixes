@@ -36,9 +36,9 @@ Lennox fault code 414 has two distinct triggers on SureLight control boards: one
 
 | Part | Notes |
 |------|-------|
-| Rollout limit switch (manual reset) | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Buy matching pair if replacing one; Lennox uses 190°F or 250°F rated switches depending on position |
-| Induced draft motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Replace if insufficient draft is confirmed cause of rollout |
-| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Replace only if manifold pressure is non-adjustable and out of spec |
+| Rollout limit switch (manual reset) | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-lennox-error-code-414-rollout&tag=errorcodefixes-20) \| Buy matching pair if replacing one; Lennox uses 190°F or 250°F rated switches depending on position |
+| Induced draft motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-lennox-error-code-414-rollout&tag=errorcodefixes-20) \| Replace if insufficient draft is confirmed cause of rollout |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-lennox-error-code-414-rollout&tag=errorcodefixes-20) \| Replace only if manifold pressure is non-adjustable and out of spec |
 ## When to Call a Pro
 
 Rollout events are a carbon monoxide and fire risk. If the switch tripped due to an actual flame rollout rather than a component failure, do not operate the furnace until a technician identifies and corrects the draft or combustion issue. A cracked heat exchanger can produce rollout conditions and is not field-repairable.

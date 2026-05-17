@@ -416,7 +416,7 @@ The PRO series differs from 600/700 in several diagnostic ways:
 | Condenser Fan Motor | Model-specific | Typically 120V shaded-pole motor | Freestanding 600/700 |
 | VS Compressor Controller | Model-specific | Variable speed inverter board | 700 series only |
 
-**Sourcing note:** Sub-Zero parts are available from [Amazon](https://www.amazon.com/s?i=industrial&k=sub-zero+refrigerator+parts&tag=errorcodefixes-20), authorized Sub-Zero parts distributors, and model-specific parts suppliers. Always confirm part compatibility with your full model number and serial number prefix before ordering. The same EC code can require different parts across serial number breaks within the same model series.
+**Sourcing note:** Sub-Zero parts are available from [Amazon](https://www.amazon.com/s?ascsubtag=ecf-sub-zero-refrigerator-error-codes&k=sub-zero+refrigerator+parts&tag=errorcodefixes-20), authorized Sub-Zero parts distributors, and model-specific parts suppliers. Always confirm part compatibility with your full model number and serial number prefix before ordering. The same EC code can require different parts across serial number breaks within the same model series.
 
 ---
 

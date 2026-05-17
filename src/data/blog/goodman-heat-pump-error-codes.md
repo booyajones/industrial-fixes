@@ -71,12 +71,12 @@ The air handler is reporting a fault from the outdoor heat pump unit. Walk outsi
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
-| Dual run capacitor (45/5 MFD, 440V) | Compressor or fan won't start — most common DIY fix | $15–$35 — [Search on Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) |
-| Contactor (30–40A, 24V coil) | Compressor won't start even with good capacitor | $20–$40 — [Search on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) |
-| Defrost thermostat (Goodman B1226404) | Fixes 6-flash defrost fault | $15–$30 — [Search on Amazon](https://www.amazon.com/s?i=industrial&k=Goodman+defrost+thermostat+B1226404&tag=errorcodefixes-20) |
-| Defrost control board (Goodman HK32EA001) | Fixes 6-flash when thermostat is fine | $40–$90 — [Search on Amazon](https://www.amazon.com/s?i=industrial&k=Goodman+defrost+board+HK32EA001&tag=errorcodefixes-20) |
-| Reversing valve solenoid | Fixes stuck reversing valve (no mode switch) | $30–$70 — [Search on Amazon](https://www.amazon.com/s?i=industrial&k=heat+pump+reversing+valve+solenoid+24V&tag=errorcodefixes-20) |
-| Condenser fan motor (208–230V, 1/5 HP) | Replaces failed outdoor fan motor | $60–$150 — [Search on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) |
+| Dual run capacitor (45/5 MFD, 440V) | Compressor or fan won't start — most common DIY fix | $15–$35 — [Search on Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-goodman-heat-pump-error-codes&tag=errorcodefixes-20) |
+| Contactor (30–40A, 24V coil) | Compressor won't start even with good capacitor | $20–$40 — [Search on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-goodman-heat-pump-error-codes&tag=errorcodefixes-20) |
+| Defrost thermostat (Goodman B1226404) | Fixes 6-flash defrost fault | $15–$30 — [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-goodman-heat-pump-error-codes&k=Goodman+defrost+thermostat+B1226404&tag=errorcodefixes-20) |
+| Defrost control board (Goodman HK32EA001) | Fixes 6-flash when thermostat is fine | $40–$90 — [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-goodman-heat-pump-error-codes&k=Goodman+defrost+board+HK32EA001&tag=errorcodefixes-20) |
+| Reversing valve solenoid | Fixes stuck reversing valve (no mode switch) | $30–$70 — [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-goodman-heat-pump-error-codes&k=heat+pump+reversing+valve+solenoid+24V&tag=errorcodefixes-20) |
+| Condenser fan motor (208–230V, 1/5 HP) | Replaces failed outdoor fan motor | $60–$150 — [Search on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-goodman-heat-pump-error-codes&tag=errorcodefixes-20) |
 
 ## When to Call a Pro
 

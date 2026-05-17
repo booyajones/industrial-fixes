@@ -53,11 +53,11 @@ For commercial kitchen operators, E7 means your ice machine is offline. Unlike s
 
 ## Parts You May Need
 
-- [Hoshizaki Condenser Fan Motor Replacement](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20)
-- [Hoshizaki High Pressure Switch](https://www.amazon.com/dp/B013IHQ8CU?tag=errorcodefixes-20)
-- [Commercial Ice Machine Coil Cleaner Foam](https://www.amazon.com/s?i=industrial&k=commercial+ice+machine+coil+cleaner+foam&tag=errorcodefixes-20)
-- [Run Capacitor for Commercial Ice Machine](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20)
-- [HVAC Coil Fin Brush Set](https://www.amazon.com/s?i=industrial&k=HVAC+coil+fin+brush+condenser+cleaning&tag=errorcodefixes-20)
+- [Hoshizaki Condenser Fan Motor Replacement](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-hoshizaki-e7-pressure-switch&tag=errorcodefixes-20)
+- [Hoshizaki High Pressure Switch](https://www.amazon.com/dp/B013IHQ8CU?ascsubtag=ecf-hoshizaki-e7-pressure-switch&tag=errorcodefixes-20)
+- [Commercial Ice Machine Coil Cleaner Foam](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-e7-pressure-switch&k=commercial+ice+machine+coil+cleaner+foam&tag=errorcodefixes-20)
+- [Run Capacitor for Commercial Ice Machine](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-hoshizaki-e7-pressure-switch&tag=errorcodefixes-20)
+- [HVAC Coil Fin Brush Set](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-e7-pressure-switch&k=HVAC+coil+fin+brush+condenser+cleaning&tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

@@ -36,10 +36,10 @@ E009 on a Navien tankless water heater or combi-boiler indicates a heat exchange
 
 | Part | Notes |
 |------|-------|
-| Cold water inlet filter screen | [Amazon](https://www.amazon.com/s?i=industrial&k=Cold+water+inlet+filter+screen&tag=errorcodefixes-20) \| Clean with vinegar; replace if corroded |
-| Heat exchanger outlet thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Heat+exchanger+outlet+thermistor&tag=errorcodefixes-20) \| Navien OEM; match NPE or NCB model series |
-| Descaling kit | [Amazon](https://www.amazon.com/s?i=industrial&k=Descaling+kit&tag=errorcodefixes-20) \| Vinegar flush clears most mineral scale |
-| Flow sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Flow+sensor&tag=errorcodefixes-20) \| Replace if confirmed not reporting flow during demand |
+| Cold water inlet filter screen | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-error-code-e009&k=Cold+water+inlet+filter+screen&tag=errorcodefixes-20) \| Clean with vinegar; replace if corroded |
+| Heat exchanger outlet thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-error-code-e009&k=Heat+exchanger+outlet+thermistor&tag=errorcodefixes-20) \| Navien OEM; match NPE or NCB model series |
+| Descaling kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-error-code-e009&k=Descaling+kit&tag=errorcodefixes-20) \| Vinegar flush clears most mineral scale |
+| Flow sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-error-code-e009&k=Flow+sensor&tag=errorcodefixes-20) \| Replace if confirmed not reporting flow during demand |
 ## When to Call a Pro
 
 If descaling and flow restoration do not resolve E009, the heat exchanger may have suffered damage from prolonged scale buildup. A licensed plumber should assess whether the heat exchanger needs replacement and whether a water softener or scale inhibitor should be added upstream of the unit.

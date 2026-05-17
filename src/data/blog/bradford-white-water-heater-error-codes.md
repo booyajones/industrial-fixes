@@ -19,7 +19,7 @@ Bradford White manufactures residential and commercial water heaters. Their Infi
 
 ## Bradford White Infiniti Tankless Error Codes
 
-| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Description | Common Cause |
+| [Code](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-water-heater-error-codes&k=Code&tag=errorcodefixes-20) | Description | Common Cause |
 |---|---|---|
 | E01 | Ignition failure | Gas supply, igniter, flame sensor |
 | E02 | Flame loss during operation | Gas pressure drop, flame sensor |
@@ -38,16 +38,16 @@ Bradford White manufactures residential and commercial water heaters. Their Infi
 
 Gas storage water heaters with the Hydrojet system use the pilot/status LED to indicate faults:
 
-| [Flash Pattern](https://www.amazon.com/s?i=industrial&k=Flash+Pattern&tag=errorcodefixes-20) | Description | Action |
+| [Flash Pattern](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-water-heater-error-codes&k=Flash+Pattern&tag=errorcodefixes-20) | Description | Action |
 |---|---|---|
-| [1 flash every 3 seconds](https://www.amazon.com/s?i=industrial&k=1+flash+every+3+seconds&tag=errorcodefixes-20) | Normal — pilot lit and operational | No action |
-| [2 flashes](https://www.amazon.com/s?i=industrial&k=2+flashes&tag=errorcodefixes-20) | Thermopile voltage below 350 mV | Clean thermocouple/thermopile, check draft |
-| [3 flashes](https://www.amazon.com/s?i=industrial&k=3+flashes&tag=errorcodefixes-20) | Pilot outage | Relight pilot, check gas supply |
-| [4 flashes](https://www.amazon.com/s?i=industrial&k=4+flashes&tag=errorcodefixes-20) | Ignition failure — pilot not detected | Check spark gap, gas supply, thermocouple |
-| [5 flashes](https://www.amazon.com/s?i=industrial&k=5+flashes&tag=errorcodefixes-20) | Sensor fault | Temperature sensor fault |
-| [6 flashes](https://www.amazon.com/s?i=industrial&k=6+flashes&tag=errorcodefixes-20) | Thermal switch open | High temp trip — check for scale or low flow |
-| [7 flashes](https://www.amazon.com/s?i=industrial&k=7+flashes&tag=errorcodefixes-20) | Gas valve fault | Check gas valve and wiring |
-| [Continuous](https://www.amazon.com/s?i=industrial&k=Continuous&tag=errorcodefixes-20) | Thermopile voltage > 350 mV (unit operating) | Normal during operation |
+| [1 flash every 3 seconds](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-water-heater-error-codes&k=1+flash+every+3+seconds&tag=errorcodefixes-20) | Normal — pilot lit and operational | No action |
+| [2 flashes](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-water-heater-error-codes&k=2+flashes&tag=errorcodefixes-20) | Thermopile voltage below 350 mV | Clean thermocouple/thermopile, check draft |
+| [3 flashes](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-water-heater-error-codes&k=3+flashes&tag=errorcodefixes-20) | Pilot outage | Relight pilot, check gas supply |
+| [4 flashes](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-water-heater-error-codes&k=4+flashes&tag=errorcodefixes-20) | Ignition failure — pilot not detected | Check spark gap, gas supply, thermocouple |
+| [5 flashes](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-water-heater-error-codes&k=5+flashes&tag=errorcodefixes-20) | Sensor fault | Temperature sensor fault |
+| [6 flashes](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-water-heater-error-codes&k=6+flashes&tag=errorcodefixes-20) | Thermal switch open | High temp trip — check for scale or low flow |
+| [7 flashes](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-water-heater-error-codes&k=7+flashes&tag=errorcodefixes-20) | Gas valve fault | Check gas valve and wiring |
+| [Continuous](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-water-heater-error-codes&k=Continuous&tag=errorcodefixes-20) | Thermopile voltage > 350 mV (unit operating) | Normal during operation |
 
 ## Bradford White Electric Water Heater Error Codes
 
@@ -78,11 +78,11 @@ Electric models use a simple reset system:
 
 | Part | Notes |
 |---|---|
-| [Thermopile](https://www.amazon.com/s?i=industrial&k=Thermopile&tag=errorcodefixes-20) | Match model — Bradford White uses 36" leads on most models |
-| [Temperature sensor](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | NTC thermistor — model-specific resistance |
-| [Igniter](https://www.amazon.com/s?i=industrial&k=Igniter&tag=errorcodefixes-20) | Check spark gap (3/16" typical) |
-| [High-limit thermostat](https://www.amazon.com/s?i=industrial&k=High-limit+thermostat&tag=errorcodefixes-20) | Match temp rating to tank specification |
-| [Heating element](https://www.amazon.com/s?i=industrial&k=Heating+element&tag=errorcodefixes-20) | Check wattage and voltage rating |
+| [Thermopile](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-water-heater-error-codes&k=Thermopile&tag=errorcodefixes-20) | Match model — Bradford White uses 36" leads on most models |
+| [Temperature sensor](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-bradford-white-water-heater-error-codes&tag=errorcodefixes-20) | NTC thermistor — model-specific resistance |
+| [Igniter](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-water-heater-error-codes&k=Igniter&tag=errorcodefixes-20) | Check spark gap (3/16" typical) |
+| [High-limit thermostat](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-water-heater-error-codes&k=High-limit+thermostat&tag=errorcodefixes-20) | Match temp rating to tank specification |
+| [Heating element](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-water-heater-error-codes&k=Heating+element&tag=errorcodefixes-20) | Check wattage and voltage rating |
 
 > **Note:** Bradford White water heaters are typically sold through wholesale plumbing distributors, not retail hardware stores. Parts are available through Ferguson, Wolseley, and other plumbing wholesale outlets.
 

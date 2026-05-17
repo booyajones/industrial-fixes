@@ -54,12 +54,12 @@ The Lennox XC16 is a 16–21 SEER2 two-stage central air conditioner that uses t
 
 | Part | Notes |
 |---|---|
-| Dual run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Compressor and fan; most common single failure |
-| Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Two-pole; check for pitting and coil resistance |
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match HP, RPM, frame size |
-| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| 610 PSIG cutout for R-410A |
-| Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| 50 PSIG cutout; replace if code persists |
-| Outdoor communication board | [Amazon](https://www.amazon.com/s?i=industrial&k=Outdoor+communication+board&tag=errorcodefixes-20) \| For Alert 231 or 411 |
+| Dual run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-lennox-xc16-error-codes&tag=errorcodefixes-20) \| Compressor and fan; most common single failure |
+| Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-lennox-xc16-error-codes&tag=errorcodefixes-20) \| Two-pole; check for pitting and coil resistance |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-lennox-xc16-error-codes&tag=errorcodefixes-20) \| Match HP, RPM, frame size |
+| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-lennox-xc16-error-codes&tag=errorcodefixes-20) \| 610 PSIG cutout for R-410A |
+| Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-lennox-xc16-error-codes&tag=errorcodefixes-20) \| 50 PSIG cutout; replace if code persists |
+| Outdoor communication board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lennox-xc16-error-codes&k=Outdoor+communication+board&tag=errorcodefixes-20) \| For Alert 231 or 411 |
 ## When to Call a Pro
 
 The XC16's two-stage compressor makes refrigerant charging more complex than a single-stage unit — the system must be checked at both low-stage and high-stage operation to confirm correct superheat and subcooling. Lennox requires iComfort-enabled service tools for advanced diagnostics. Contact a Lennox Premier Dealer for communicating system issues beyond basic troubleshooting.

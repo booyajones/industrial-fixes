@@ -19,13 +19,13 @@ The **E2 error** on Honeywell thermostats (RTH series, T4, T6, and older program
 
 ## Which Models Show E2
 
-| [Model](https://www.amazon.com/s?i=industrial&k=Model&tag=errorcodefixes-20) | E2 Meaning |
+| [Model](https://www.amazon.com/s?ascsubtag=ecf-honeywell-thermostat-e2-error&k=Model&tag=errorcodefixes-20) | E2 Meaning |
 |---|---|
-| [RTH2300, RTH6350](https://www.amazon.com/s?i=industrial&k=RTH2300%2C+RTH6350&tag=errorcodefixes-20) | Low battery |
-| [RTH7500, RTH8500](https://www.amazon.com/s?i=industrial&k=RTH7500%2C+RTH8500&tag=errorcodefixes-20) | Low battery / settings lost |
-| [T4 Pro, T6 Pro](https://www.amazon.com/s?i=industrial&k=T4+Pro%2C+T6+Pro&tag=errorcodefixes-20) | Power fault / low battery |
-| [FocusPRO 6000](https://www.amazon.com/s?i=industrial&k=FocusPRO+6000&tag=errorcodefixes-20) | Low battery warning |
-| [VisionPRO 8000](https://www.amazon.com/s?i=industrial&k=VisionPRO+8000&tag=errorcodefixes-20) | Power/communication fault |
+| [RTH2300, RTH6350](https://www.amazon.com/s?ascsubtag=ecf-honeywell-thermostat-e2-error&k=RTH2300%2C+RTH6350&tag=errorcodefixes-20) | Low battery |
+| [RTH7500, RTH8500](https://www.amazon.com/s?ascsubtag=ecf-honeywell-thermostat-e2-error&k=RTH7500%2C+RTH8500&tag=errorcodefixes-20) | Low battery / settings lost |
+| [T4 Pro, T6 Pro](https://www.amazon.com/s?ascsubtag=ecf-honeywell-thermostat-e2-error&k=T4+Pro%2C+T6+Pro&tag=errorcodefixes-20) | Power fault / low battery |
+| [FocusPRO 6000](https://www.amazon.com/s?ascsubtag=ecf-honeywell-thermostat-e2-error&k=FocusPRO+6000&tag=errorcodefixes-20) | Low battery warning |
+| [VisionPRO 8000](https://www.amazon.com/s?ascsubtag=ecf-honeywell-thermostat-e2-error&k=VisionPRO+8000&tag=errorcodefixes-20) | Power/communication fault |
 
 *Note: On VisionPRO and communicating models, E2 may indicate a different fault — see model-specific documentation.*
 
@@ -67,8 +67,8 @@ Try a factory reset: on most RTH models, press and hold the MENU button for 5 se
 
 ## Recommended Replacement (if needed)
 
-| [Model](https://www.amazon.com/s?i=industrial&k=Model&tag=errorcodefixes-20) | Key Features | Price |
+| [Model](https://www.amazon.com/s?ascsubtag=ecf-honeywell-thermostat-e2-error&k=Model&tag=errorcodefixes-20) | Key Features | Price |
 |---|---|---|
-| [Honeywell T6 Pro](https://www.amazon.com/s?i=industrial&k=Honeywell+T6+Pro&tag=errorcodefixes-20) | Programmable, 7-day | $40–60 |
-| [Honeywell RTH7560E](https://www.amazon.com/s?i=industrial&k=Honeywell+RTH7560E&tag=errorcodefixes-20) | 7-day, easy to set | $35–55 |
-| [Honeywell T9 Smart](https://www.amazon.com/s?i=industrial&k=Honeywell+T9+Smart&tag=errorcodefixes-20) | Wi-Fi, room sensors | $100–140 |
+| [Honeywell T6 Pro](https://www.amazon.com/s?ascsubtag=ecf-honeywell-thermostat-e2-error&k=Honeywell+T6+Pro&tag=errorcodefixes-20) | Programmable, 7-day | $40–60 |
+| [Honeywell RTH7560E](https://www.amazon.com/s?ascsubtag=ecf-honeywell-thermostat-e2-error&k=Honeywell+RTH7560E&tag=errorcodefixes-20) | 7-day, easy to set | $35–55 |
+| [Honeywell T9 Smart](https://www.amazon.com/s?ascsubtag=ecf-honeywell-thermostat-e2-error&k=Honeywell+T9+Smart&tag=errorcodefixes-20) | Wi-Fi, room sensors | $100–140 |

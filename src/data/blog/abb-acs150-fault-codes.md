@@ -56,10 +56,10 @@ The ABB ACS150 is a compact micro drive built for simple machine control, includ
 
 | Part | Notes |
 |---|---|
-| Cooling fan | [Amazon](https://www.amazon.com/s?i=industrial&k=Cooling+fan&tag=errorcodefixes-20) \| Common wear item in hot panels |
-| Keypad panel | [Amazon](https://www.amazon.com/s?i=industrial&k=Keypad+panel&tag=errorcodefixes-20) \| For display or navigation issues |
-| Complete ACS150 drive | [Amazon](https://www.amazon.com/s?i=industrial&k=Complete+ACS150+drive&tag=errorcodefixes-20) \| For persistent internal faults |
-| Motor cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+cable&tag=errorcodefixes-20) \| Replace if insulation is damaged |
+| Cooling fan | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-abb-acs150-fault-codes&k=Cooling+fan&tag=errorcodefixes-20) \| Common wear item in hot panels |
+| Keypad panel | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-abb-acs150-fault-codes&k=Keypad+panel&tag=errorcodefixes-20) \| For display or navigation issues |
+| Complete ACS150 drive | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-abb-acs150-fault-codes&k=Complete+ACS150+drive&tag=errorcodefixes-20) \| For persistent internal faults |
+| Motor cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-abb-acs150-fault-codes&k=Motor+cable&tag=errorcodefixes-20) \| Replace if insulation is damaged |
 ## When to Call a Pro
 
 If the ACS150 repeatedly throws 0018 internal control faults or trips immediately with the motor disconnected, the drive has likely failed internally. ABB support or an industrial drive specialist should confirm replacement rather than continued resets.

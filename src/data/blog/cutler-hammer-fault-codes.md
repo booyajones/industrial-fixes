@@ -48,11 +48,11 @@ The E3 Plus Jam function trips when current exceeds a set multiple of FLA for a 
 
 | Part | Notes |
 |------|-------|
-| C440 overload relay | [Amazon](https://www.amazon.com/s?i=industrial&k=C440+overload+relay&tag=errorcodefixes-20) \| Replace on relay failure |
-| Freedom contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Replace on welded contacts |
-| E3 Plus module | [Amazon](https://www.amazon.com/s?i=industrial&k=E3+Plus+module&tag=errorcodefixes-20) \| Replace on electronics fault |
-| Overload heater elements (older) | [Amazon](https://www.amazon.com/s?i=industrial&k=Overload+heater+elements+%28older%29&tag=errorcodefixes-20) \| Size to motor FLA |
-| Contactor coil | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Replace on coil open/short |
+| C440 overload relay | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-cutler-hammer-fault-codes&k=C440+overload+relay&tag=errorcodefixes-20) \| Replace on relay failure |
+| Freedom contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-cutler-hammer-fault-codes&tag=errorcodefixes-20) \| Replace on welded contacts |
+| E3 Plus module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-cutler-hammer-fault-codes&k=E3+Plus+module&tag=errorcodefixes-20) \| Replace on electronics fault |
+| Overload heater elements (older) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-cutler-hammer-fault-codes&k=Overload+heater+elements+%28older%29&tag=errorcodefixes-20) \| Size to motor FLA |
+| Contactor coil | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-cutler-hammer-fault-codes&tag=errorcodefixes-20) \| Replace on coil open/short |
 ## When to Call a Pro
 Repeated overload trips on a properly-sized motor indicate mechanical or electrical problems with the motor or load. Have a motor shop test winding insulation resistance and bearing condition before assuming the relay is mis-set.
 

@@ -94,11 +94,11 @@ When the ACS580 detects a fault, it stores the fault code in the **Fault logger*
 
 | Part | Description | Typical Cost | Where to Buy |
 |------|-------------|--------------|--------------|
-| ACS580 cooling fan assembly | Frame-specific fan (R0–R9) — match to drive frame size on nameplate | $80–$250 | [Amazon](https://www.amazon.com/s?i=industrial&k=ABB+ACS580+cooling+fan+replacement&tag=errorcodefixes-20) \| ABB distributor |
-| ACS-AP-I control panel | Standard operator panel for ACS580 (also fits ACS380, ACS480, ACS880) | $150–$220 | [Amazon](https://www.amazon.com/s?i=industrial&k=ABB+ACS-AP-I+control+panel&tag=errorcodefixes-20) \| ABB distributor |
-| Input line fuses (fast-acting, class J) | Size per drive input current rating (A) | $10–$50/set | [Amazon](https://www.amazon.com/s?i=industrial&k=ABB+VFD+input+fuse+class+J+fast+acting&tag=errorcodefixes-20) |
-| External braking resistor | Sized per ABB braking resistor selection guide | $100–$500 | [Amazon](https://www.amazon.com/s?i=industrial&k=ABB+VFD+braking+resistor+external&tag=errorcodefixes-20) \| ABB distributor |
-| Output dV/dt filter | Protects motor insulation on long cable runs (>50m) — reduces 2310 nuisance trips | $200–$600 | [Amazon](https://www.amazon.com/s?i=industrial&k=ABB+dV+dt+filter+VFD+output&tag=errorcodefixes-20) \| ABB distributor |
+| ACS580 cooling fan assembly | Frame-specific fan (R0–R9) — match to drive frame size on nameplate | $80–$250 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-abb-acs580-fault-codes&k=ABB+ACS580+cooling+fan+replacement&tag=errorcodefixes-20) \| ABB distributor |
+| ACS-AP-I control panel | Standard operator panel for ACS580 (also fits ACS380, ACS480, ACS880) | $150–$220 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-abb-acs580-fault-codes&k=ABB+ACS-AP-I+control+panel&tag=errorcodefixes-20) \| ABB distributor |
+| Input line fuses (fast-acting, class J) | Size per drive input current rating (A) | $10–$50/set | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-abb-acs580-fault-codes&k=ABB+VFD+input+fuse+class+J+fast+acting&tag=errorcodefixes-20) |
+| External braking resistor | Sized per ABB braking resistor selection guide | $100–$500 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-abb-acs580-fault-codes&k=ABB+VFD+braking+resistor+external&tag=errorcodefixes-20) \| ABB distributor |
+| Output dV/dt filter | Protects motor insulation on long cable runs (>50m) — reduces 2310 nuisance trips | $200–$600 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-abb-acs580-fault-codes&k=ABB+dV+dt+filter+VFD+output&tag=errorcodefixes-20) \| ABB distributor |
 | ACS580 replacement drive | Full drive unit — select by catalog number from drive nameplate | $600–$6,000 | ABB local distributor |
 
 ## When to Call a Professional

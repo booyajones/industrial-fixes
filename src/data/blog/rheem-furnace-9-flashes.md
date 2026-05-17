@@ -38,9 +38,9 @@ Nine LED flashes on a Rheem furnace indicates reversed polarity on the 120V powe
 
 | Part | Notes |
 |------|-------|
-| Outlet polarity tester | [Amazon](https://www.amazon.com/s?i=industrial&k=Outlet+polarity+tester&tag=errorcodefixes-20) \| 3-light tester costs under $10 and identifies reversed polarity instantly |
-| Wire nuts and connectors | [Amazon](https://www.amazon.com/s?i=industrial&k=Wire+nuts+and+connectors&tag=errorcodefixes-20) \| For re-terminating corrected wiring |
-| Furnace control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Only if board was damaged by extended operation with reversed polarity |
+| Outlet polarity tester | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rheem-furnace-9-flashes&k=Outlet+polarity+tester&tag=errorcodefixes-20) \| 3-light tester costs under $10 and identifies reversed polarity instantly |
+| Wire nuts and connectors | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rheem-furnace-9-flashes&k=Wire+nuts+and+connectors&tag=errorcodefixes-20) \| For re-terminating corrected wiring |
+| Furnace control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-rheem-furnace-9-flashes&tag=errorcodefixes-20) \| Only if board was damaged by extended operation with reversed polarity |
 ## When to Call a Pro
 
 If you are not comfortable working inside electrical panels or disconnect boxes, hire a licensed electrician to correct the polarity. This is a wiring safety issue, not just a furnace fault. Once polarity is corrected by an electrician, the furnace should require no further HVAC service.

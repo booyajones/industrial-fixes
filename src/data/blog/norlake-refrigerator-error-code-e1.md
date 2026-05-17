@@ -36,8 +36,8 @@ The E1 error on Nor-Lake commercial refrigerators (reach-ins, undercounters, and
 
 | Part | Notes |
 |------|-------|
-| NTC temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Nor-Lake OEM — resistance spec varies by model generation |
-| Sensor wire harness | [Amazon](https://www.amazon.com/s?i=industrial&k=Sensor+wire+harness&tag=errorcodefixes-20) \| Replace if lead is damaged |
+| NTC temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-norlake-refrigerator-error-code-e1&tag=errorcodefixes-20) \| Nor-Lake OEM — resistance spec varies by model generation |
+| Sensor wire harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-norlake-refrigerator-error-code-e1&k=Sensor+wire+harness&tag=errorcodefixes-20) \| Replace if lead is damaged |
 ## When to Call a Pro
 
 Persistent E1 after sensor/wiring replacement indicates a controller board fault. Nor-Lake authorized service handles board replacement.

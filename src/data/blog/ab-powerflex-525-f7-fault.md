@@ -64,11 +64,11 @@ After any parameter change, document the new values. PowerFlex 525 drives are fr
 
 ## Parts You May Need
 
-- [Clamp meter for three-phase current measurement](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20)
-- [Allen Bradley PowerFlex 525 HIM keypad](https://www.amazon.com/s?i=industrial&k=Allen+Bradley+PowerFlex+525+keypad&tag=errorcodefixes-20)
-- [TEFC industrial replacement motor](https://www.amazon.com/s?i=industrial&k=TEFC+industrial+replacement+motor&tag=errorcodefixes-20)
-- [Motor insulation resistance tester megger](https://www.amazon.com/s?i=industrial&k=motor+insulation+resistance+tester+megger&tag=errorcodefixes-20)
-- [Bearing puller set for motor replacement](https://www.amazon.com/s?i=industrial&k=bearing+puller+set&tag=errorcodefixes-20)
+- [Clamp meter for three-phase current measurement](https://www.amazon.com/dp/B08ZJSN5X3?ascsubtag=ecf-ab-powerflex-525-f7-fault&tag=errorcodefixes-20)
+- [Allen Bradley PowerFlex 525 HIM keypad](https://www.amazon.com/s?ascsubtag=ecf-ab-powerflex-525-f7-fault&k=Allen+Bradley+PowerFlex+525+keypad&tag=errorcodefixes-20)
+- [TEFC industrial replacement motor](https://www.amazon.com/s?ascsubtag=ecf-ab-powerflex-525-f7-fault&k=TEFC+industrial+replacement+motor&tag=errorcodefixes-20)
+- [Motor insulation resistance tester megger](https://www.amazon.com/s?ascsubtag=ecf-ab-powerflex-525-f7-fault&k=motor+insulation+resistance+tester+megger&tag=errorcodefixes-20)
+- [Bearing puller set for motor replacement](https://www.amazon.com/s?ascsubtag=ecf-ab-powerflex-525-f7-fault&k=bearing+puller+set&tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

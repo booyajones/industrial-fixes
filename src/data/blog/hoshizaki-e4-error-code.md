@@ -36,9 +36,9 @@ Hoshizaki error code E4 indicates an ice thickness sensor fault. The ice thickne
 
 | Part | Notes |
 |------|-------|
-| Ice thickness sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Ice+thickness+sensor&tag=errorcodefixes-20) \| Must be OEM Hoshizaki; resistance curve is model-specific |
-| Water distribution tube | [Amazon](https://www.amazon.com/s?i=industrial&k=Water+distribution+tube&tag=errorcodefixes-20) \| Replace if holes are blocked and cannot be cleared by cleaning |
-| Ice machine cleaner (Hoshizaki branded) | [Amazon](https://www.amazon.com/s?i=industrial&k=Ice+machine+cleaner+%28Hoshizaki+branded%29&tag=errorcodefixes-20) \| Required for monthly/quarterly descaling in hard water areas |
+| Ice thickness sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-e4-error-code&k=Ice+thickness+sensor&tag=errorcodefixes-20) \| Must be OEM Hoshizaki; resistance curve is model-specific |
+| Water distribution tube | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-e4-error-code&k=Water+distribution+tube&tag=errorcodefixes-20) \| Replace if holes are blocked and cannot be cleared by cleaning |
+| Ice machine cleaner (Hoshizaki branded) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-e4-error-code&k=Ice+machine+cleaner+%28Hoshizaki+branded%29&tag=errorcodefixes-20) \| Required for monthly/quarterly descaling in hard water areas |
 ## When to Call a Pro
 
 If cleaning and sensor replacement don't clear E4, the control board's sensor input circuit may be faulty, or there may be a refrigeration system issue that's preventing ice growth entirely (meaning the sensor never sees ice because none is forming). A certified refrigeration technician can diagnose the full freeze cycle.

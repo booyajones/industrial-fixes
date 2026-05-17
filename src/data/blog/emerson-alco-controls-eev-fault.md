@@ -17,14 +17,14 @@ tags:
 
 Emerson and Alco Controls EEV systems pair a controller with a stepper valve to manage evaporator superheat. The controller, not the valve body, usually reports the fault. Common controllers include Emerson E2, Dixell, and OEM rack controllers.
 
-| [Fault](https://www.amazon.com/s?i=industrial&k=Fault&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| [Fault](https://www.amazon.com/s?ascsubtag=ecf-emerson-alco-controls-eev-fault&k=Fault&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |------|---------|-----------|
-| [Valve Error](https://www.amazon.com/s?i=industrial&k=Valve+Error&tag=errorcodefixes-20) | EEV not moving as commanded | Check wiring, coil, and controller output |
-| [Superheat High](https://www.amazon.com/s?i=industrial&k=Superheat+High&tag=errorcodefixes-20) | Evaporator starved | Check charge, drier, and valve movement |
-| [Superheat Low](https://www.amazon.com/s?i=industrial&k=Superheat+Low&tag=errorcodefixes-20) | Flooding risk | Check sensors and controller tuning |
-| [Sensor Fault](https://www.amazon.com/s?i=industrial&k=Sensor+Fault&tag=errorcodefixes-20) | Pressure or temperature input failed | Check sensor wiring and readings |
-| [Communication Fault](https://www.amazon.com/s?i=industrial&k=Communication+Fault&tag=errorcodefixes-20) | Controller lost rack/network communication | Check comm wiring and address |
-| [Position Lost](https://www.amazon.com/s?i=industrial&k=Position+Lost&tag=errorcodefixes-20) | Valve position unknown after power loss | Re-home or reinitialize valve |
+| [Valve Error](https://www.amazon.com/s?ascsubtag=ecf-emerson-alco-controls-eev-fault&k=Valve+Error&tag=errorcodefixes-20) | EEV not moving as commanded | Check wiring, coil, and controller output |
+| [Superheat High](https://www.amazon.com/s?ascsubtag=ecf-emerson-alco-controls-eev-fault&k=Superheat+High&tag=errorcodefixes-20) | Evaporator starved | Check charge, drier, and valve movement |
+| [Superheat Low](https://www.amazon.com/s?ascsubtag=ecf-emerson-alco-controls-eev-fault&k=Superheat+Low&tag=errorcodefixes-20) | Flooding risk | Check sensors and controller tuning |
+| [Sensor Fault](https://www.amazon.com/s?ascsubtag=ecf-emerson-alco-controls-eev-fault&k=Sensor+Fault&tag=errorcodefixes-20) | Pressure or temperature input failed | Check sensor wiring and readings |
+| [Communication Fault](https://www.amazon.com/s?ascsubtag=ecf-emerson-alco-controls-eev-fault&k=Communication+Fault&tag=errorcodefixes-20) | Controller lost rack/network communication | Check comm wiring and address |
+| [Position Lost](https://www.amazon.com/s?ascsubtag=ecf-emerson-alco-controls-eev-fault&k=Position+Lost&tag=errorcodefixes-20) | Valve position unknown after power loss | Re-home or reinitialize valve |
 
 ## Most Common Faults
 
@@ -39,12 +39,12 @@ Some controllers lose track of valve position during a power interruption. The f
 
 ## Field Checks
 
-| [Check](https://www.amazon.com/s?i=industrial&k=Check&tag=errorcodefixes-20) | Why it matters |
+| [Check](https://www.amazon.com/s?ascsubtag=ecf-emerson-alco-controls-eev-fault&k=Check&tag=errorcodefixes-20) | Why it matters |
 |------|----------------|
-| [Suction line sensor tight and insulated](https://www.amazon.com/s?i=industrial&k=Suction+line+sensor+tight+and+insulated&tag=errorcodefixes-20) | Prevents false superheat readings |
-| [Pressure transducer matches gauge reading](https://www.amazon.com/s?i=industrial&k=Pressure+transducer+matches+gauge+reading&tag=errorcodefixes-20) | Confirms controller sees the right pressure |
-| [Filter-drier pressure drop](https://www.amazon.com/s?i=industrial&k=Filter-drier+pressure+drop&tag=errorcodefixes-20) | Catches liquid line restriction |
-| [Valve responds to manual command](https://www.amazon.com/s?i=industrial&k=Valve+responds+to+manual+command&tag=errorcodefixes-20) | Confirms controller and motor function |
+| [Suction line sensor tight and insulated](https://www.amazon.com/s?ascsubtag=ecf-emerson-alco-controls-eev-fault&k=Suction+line+sensor+tight+and+insulated&tag=errorcodefixes-20) | Prevents false superheat readings |
+| [Pressure transducer matches gauge reading](https://www.amazon.com/s?ascsubtag=ecf-emerson-alco-controls-eev-fault&k=Pressure+transducer+matches+gauge+reading&tag=errorcodefixes-20) | Confirms controller sees the right pressure |
+| [Filter-drier pressure drop](https://www.amazon.com/s?ascsubtag=ecf-emerson-alco-controls-eev-fault&k=Filter-drier+pressure+drop&tag=errorcodefixes-20) | Catches liquid line restriction |
+| [Valve responds to manual command](https://www.amazon.com/s?ascsubtag=ecf-emerson-alco-controls-eev-fault&k=Valve+responds+to+manual+command&tag=errorcodefixes-20) | Confirms controller and motor function |
 
 ## Jump to Fix
 

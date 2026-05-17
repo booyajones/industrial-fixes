@@ -654,6 +654,6 @@ After any power cycle, Doosan machines require axes to return to reference point
 
 Find replacement parts for Doosan CNC machines on Amazon:
 
-- [Doosan CNC Machine Parts](https://www.amazon.com/s?i=industrial&k=Doosan+CNC+machine+parts&tag=errorcodefixes-20)
-- [Fanuc CNC Control Battery Replacement](https://www.amazon.com/s?i=industrial&k=Fanuc+CNC+control+battery+3V+lithium&tag=errorcodefixes-20)
-- [CNC Lubrication Pump & Distributor Block](https://www.amazon.com/s?i=industrial&k=CNC+lubrication+pump+distributor+block&tag=errorcodefixes-20)
+- [Doosan CNC Machine Parts](https://www.amazon.com/s?ascsubtag=ecf-doosan-cnc-fault-codes-complete&k=Doosan+CNC+machine+parts&tag=errorcodefixes-20)
+- [Fanuc CNC Control Battery Replacement](https://www.amazon.com/s?ascsubtag=ecf-doosan-cnc-fault-codes-complete&k=Fanuc+CNC+control+battery+3V+lithium&tag=errorcodefixes-20)
+- [CNC Lubrication Pump & Distributor Block](https://www.amazon.com/s?ascsubtag=ecf-doosan-cnc-fault-codes-complete&k=CNC+lubrication+pump+distributor+block&tag=errorcodefixes-20)

@@ -259,6 +259,6 @@ Reset with the keypad **STOP/RESET** key, a remote reset input, or a full power 
 
 Find replacement parts for LS Electric VFDs on Amazon:
 
-- [LS Electric VFD Drive Replacement Parts](https://www.amazon.com/s?i=industrial&k=LS+Electric+VFD+drive+replacement+parts&tag=errorcodefixes-20)
-- [VFD Braking Resistor Replacement](https://www.amazon.com/s?i=industrial&k=VFD+braking+resistor+replacement&tag=errorcodefixes-20)
-- [VFD Keypad Display Panel Replacement](https://www.amazon.com/s?i=industrial&k=VFD+keypad+display+panel+replacement&tag=errorcodefixes-20)
+- [LS Electric VFD Drive Replacement Parts](https://www.amazon.com/s?ascsubtag=ecf-ls-electric-vfd-fault-codes&k=LS+Electric+VFD+drive+replacement+parts&tag=errorcodefixes-20)
+- [VFD Braking Resistor Replacement](https://www.amazon.com/s?ascsubtag=ecf-ls-electric-vfd-fault-codes&k=VFD+braking+resistor+replacement&tag=errorcodefixes-20)
+- [VFD Keypad Display Panel Replacement](https://www.amazon.com/s?ascsubtag=ecf-ls-electric-vfd-fault-codes&k=VFD+keypad+display+panel+replacement&tag=errorcodefixes-20)

@@ -122,12 +122,12 @@ With power off and the compressor wiring disconnected from the inverter:
 
 | Part | What It Fixes | Amazon Link |
 |------|--------------|-------------|
-| Mitsubishi Mr. Slim Inverter PCB Board | Inverter board failure causing P6 | [View on Amazon](https://www.amazon.com/s?i=industrial&k=mitsubishi+mr+slim+inverter+board+outdoor+unit&tag=errorcodefixes-20) |
-| IPM Intelligent Power Module (IGBT module) | IPM failure within inverter board | [View on Amazon](https://www.amazon.com/s?i=industrial&k=ipm+intelligent+power+module+mini+split+inverter&tag=errorcodefixes-20) |
-| Thermal Paste for Inverter Heatsink | Overheating IPM due to dried thermal compound | [View on Amazon](https://www.amazon.com/s?i=industrial&k=thermal+paste+heatsink+compound+electronics&tag=errorcodefixes-20) |
-| Mitsubishi Mini Split Capacitor Kit | Aging capacitors on inverter board | [View on Amazon](https://www.amazon.com/s?i=industrial&k=mitsubishi+mini+split+capacitor+replacement&tag=errorcodefixes-20) |
-| Megohm Meter (Megger) | Testing compressor winding insulation | [View on Amazon](https://www.amazon.com/s?i=industrial&k=megohm+meter+megger+500v+compressor+test&tag=errorcodefixes-20) |
-| Refrigerant Leak Detector (R-410A) | Diagnosing low refrigerant as P6 cause | [View on Amazon](https://www.amazon.com/s?i=industrial&k=r410a+refrigerant+leak+detector&tag=errorcodefixes-20) |
+| Mitsubishi Mr. Slim Inverter PCB Board | Inverter board failure causing P6 | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-mr-slim-error-code-p6&k=mitsubishi+mr+slim+inverter+board+outdoor+unit&tag=errorcodefixes-20) |
+| IPM Intelligent Power Module (IGBT module) | IPM failure within inverter board | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-mr-slim-error-code-p6&k=ipm+intelligent+power+module+mini+split+inverter&tag=errorcodefixes-20) |
+| Thermal Paste for Inverter Heatsink | Overheating IPM due to dried thermal compound | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-mr-slim-error-code-p6&k=thermal+paste+heatsink+compound+electronics&tag=errorcodefixes-20) |
+| Mitsubishi Mini Split Capacitor Kit | Aging capacitors on inverter board | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-mr-slim-error-code-p6&k=mitsubishi+mini+split+capacitor+replacement&tag=errorcodefixes-20) |
+| Megohm Meter (Megger) | Testing compressor winding insulation | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-mr-slim-error-code-p6&k=megohm+meter+megger+500v+compressor+test&tag=errorcodefixes-20) |
+| Refrigerant Leak Detector (R-410A) | Diagnosing low refrigerant as P6 cause | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-mr-slim-error-code-p6&k=r410a+refrigerant+leak+detector&tag=errorcodefixes-20) |
 
 ---
 

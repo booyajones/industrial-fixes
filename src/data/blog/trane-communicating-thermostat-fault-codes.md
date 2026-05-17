@@ -78,14 +78,14 @@ The ECM (electronically commutated motor) in the air handler reported a fault. E
 
 | Part | Why | Approx. Cost |
 |------|-----|-------------|
-| [ComfortLink II XL950 thermostat](https://www.amazon.com/s?i=industrial&k=ComfortLink+II+XL950+thermostat&tag=errorcodefixes-20) | Thermostat control failure | $250–$450 |
-| [Trane air handler control board (model-specific)](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Indoor board not responding — code 173 | $150–$350 |
-| [Trane outdoor control board (model-specific)](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Outdoor board failure — code 172 | $250–$500 |
-| [24V transformer (40VA)](https://www.amazon.com/s?i=industrial&k=24V+transformer+%2840VA%29&tag=errorcodefixes-20) | Weak or failed transformer causing bus voltage drop | $30–$60 |
-| [3A slow-blow glass fuse](https://www.amazon.com/s?i=industrial&k=3A+slow-blow+glass+fuse&tag=errorcodefixes-20) | Blown board fuse | $5–$10 |
-| [18 AWG 4-conductor wire](https://www.amazon.com/s?i=industrial&k=18+AWG+4-conductor+wire&tag=errorcodefixes-20) | Replace communication cable run | $0.30–$0.60/ft |
-| [Outdoor thermistor sensor](https://www.amazon.com/s?i=industrial&k=Outdoor+thermistor+sensor&tag=errorcodefixes-20) | Code 268 — thermistor fault | $20–$60 |
-| [Condenser fan capacitor](https://www.amazon.com/s?i=industrial&k=Condenser+fan+capacitor&tag=errorcodefixes-20) | Code 126 — fan fault (check cap first) | $15–$35 |
+| [ComfortLink II XL950 thermostat](https://www.amazon.com/s?ascsubtag=ecf-trane-communicating-thermostat-fault-codes&k=ComfortLink+II+XL950+thermostat&tag=errorcodefixes-20) | Thermostat control failure | $250–$450 |
+| [Trane air handler control board (model-specific)](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-trane-communicating-thermostat-fault-codes&tag=errorcodefixes-20) | Indoor board not responding — code 173 | $150–$350 |
+| [Trane outdoor control board (model-specific)](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-trane-communicating-thermostat-fault-codes&tag=errorcodefixes-20) | Outdoor board failure — code 172 | $250–$500 |
+| [24V transformer (40VA)](https://www.amazon.com/s?ascsubtag=ecf-trane-communicating-thermostat-fault-codes&k=24V+transformer+%2840VA%29&tag=errorcodefixes-20) | Weak or failed transformer causing bus voltage drop | $30–$60 |
+| [3A slow-blow glass fuse](https://www.amazon.com/s?ascsubtag=ecf-trane-communicating-thermostat-fault-codes&k=3A+slow-blow+glass+fuse&tag=errorcodefixes-20) | Blown board fuse | $5–$10 |
+| [18 AWG 4-conductor wire](https://www.amazon.com/s?ascsubtag=ecf-trane-communicating-thermostat-fault-codes&k=18+AWG+4-conductor+wire&tag=errorcodefixes-20) | Replace communication cable run | $0.30–$0.60/ft |
+| [Outdoor thermistor sensor](https://www.amazon.com/s?ascsubtag=ecf-trane-communicating-thermostat-fault-codes&k=Outdoor+thermistor+sensor&tag=errorcodefixes-20) | Code 268 — thermistor fault | $20–$60 |
+| [Condenser fan capacitor](https://www.amazon.com/s?ascsubtag=ecf-trane-communicating-thermostat-fault-codes&k=Condenser+fan+capacitor&tag=errorcodefixes-20) | Code 126 — fan fault (check cap first) | $15–$35 |
 
 Trane parts are available through Trane parts distributors, Johnstone Supply, and HVAC distributors. For control boards, always match to your specific model — the model number is on the data plate inside the air handler or on the outdoor unit. Common air handler board part numbers include **CNT05713** and **X13511576010** depending on model generation.
 

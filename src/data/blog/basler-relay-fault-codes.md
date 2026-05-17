@@ -17,16 +17,16 @@ tags:
 
 Basler Electric relays (BE1-11g, BE1-CDS, BE1-GPS, and DECS excitation control) record trip events and generate alarms via front-panel LEDs, the display, and Modbus/DNP3 communications.
 
-| [Element](https://www.amazon.com/s?i=industrial&k=Element&tag=errorcodefixes-20) | Function | Common Cause |
+| [Element](https://www.amazon.com/s?ascsubtag=ecf-basler-relay-fault-codes&k=Element&tag=errorcodefixes-20) | Function | Common Cause |
 |---------|---------|-------------|
-| [51V — Voltage-Restrained OC](https://www.amazon.com/s?i=industrial&k=51V+%E2%80%94+Voltage-Restrained+OC&tag=errorcodefixes-20) | Overcurrent with voltage constraint | Fault during voltage sag |
-| [40 — Loss of Excitation](https://www.amazon.com/s?i=industrial&k=40+%E2%80%94+Loss+of+Excitation&tag=errorcodefixes-20) | Generator field loss | AVR failure or field winding open |
-| [81O/U — Over/Underfrequency](https://www.amazon.com/s?i=industrial&k=81O%2FU+%E2%80%94+Over%2FUnderfrequency&tag=errorcodefixes-20) | Frequency out of range | Speed governor problem |
-| [27 — Undervoltage](https://www.amazon.com/s?i=industrial&k=27+%E2%80%94+Undervoltage&tag=errorcodefixes-20) | Voltage below setpoint | Generator or supply problem |
-| [59 — Overvoltage](https://www.amazon.com/s?i=industrial&k=59+%E2%80%94+Overvoltage&tag=errorcodefixes-20) | Voltage above setpoint | AVR or regulator fault |
-| [32 — Reverse Power](https://www.amazon.com/s?i=industrial&k=32+%E2%80%94+Reverse+Power&tag=errorcodefixes-20) | Real power flowing backward | Engine failure or backfeed |
-| [87G — Generator Differential](https://www.amazon.com/s?i=industrial&k=87G+%E2%80%94+Generator+Differential&tag=errorcodefixes-20) | Internal generator fault | Winding fault |
-| [46 — Neg Sequence](https://www.amazon.com/s?i=industrial&k=46+%E2%80%94+Neg+Sequence&tag=errorcodefixes-20) | Phase unbalance | Unbalanced load or open phase |
+| [51V — Voltage-Restrained OC](https://www.amazon.com/s?ascsubtag=ecf-basler-relay-fault-codes&k=51V+%E2%80%94+Voltage-Restrained+OC&tag=errorcodefixes-20) | Overcurrent with voltage constraint | Fault during voltage sag |
+| [40 — Loss of Excitation](https://www.amazon.com/s?ascsubtag=ecf-basler-relay-fault-codes&k=40+%E2%80%94+Loss+of+Excitation&tag=errorcodefixes-20) | Generator field loss | AVR failure or field winding open |
+| [81O/U — Over/Underfrequency](https://www.amazon.com/s?ascsubtag=ecf-basler-relay-fault-codes&k=81O%2FU+%E2%80%94+Over%2FUnderfrequency&tag=errorcodefixes-20) | Frequency out of range | Speed governor problem |
+| [27 — Undervoltage](https://www.amazon.com/s?ascsubtag=ecf-basler-relay-fault-codes&k=27+%E2%80%94+Undervoltage&tag=errorcodefixes-20) | Voltage below setpoint | Generator or supply problem |
+| [59 — Overvoltage](https://www.amazon.com/s?ascsubtag=ecf-basler-relay-fault-codes&k=59+%E2%80%94+Overvoltage&tag=errorcodefixes-20) | Voltage above setpoint | AVR or regulator fault |
+| [32 — Reverse Power](https://www.amazon.com/s?ascsubtag=ecf-basler-relay-fault-codes&k=32+%E2%80%94+Reverse+Power&tag=errorcodefixes-20) | Real power flowing backward | Engine failure or backfeed |
+| [87G — Generator Differential](https://www.amazon.com/s?ascsubtag=ecf-basler-relay-fault-codes&k=87G+%E2%80%94+Generator+Differential&tag=errorcodefixes-20) | Internal generator fault | Winding fault |
+| [46 — Neg Sequence](https://www.amazon.com/s?ascsubtag=ecf-basler-relay-fault-codes&k=46+%E2%80%94+Neg+Sequence&tag=errorcodefixes-20) | Phase unbalance | Unbalanced load or open phase |
 
 ## Most Common Faults
 

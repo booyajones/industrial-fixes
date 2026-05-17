@@ -52,10 +52,10 @@ E6 is a wiring or board issue, not a refrigerant or mechanical issue. The fix is
 
 | Part | Where to Buy | Typical Cost |
 |------|-------------|-------------|
-| Outdoor unit main PCB (model-specific, e.g., T7WE24032) | [Amazon](https://www.amazon.com/s?i=industrial&k=Outdoor+unit+main+PCB+%28model-specific%2C+e.g.%2C+T7WE24032%29&tag=errorcodefixes-20) \| HVAC Parts Shop, eBay OEM | $180–$400 |
-| Indoor unit main PCB (model-specific) | [Amazon](https://www.amazon.com/s?i=industrial&k=Indoor+unit+main+PCB+%28model-specific%29&tag=errorcodefixes-20) \| HVAC Parts Shop, Mitsubishi dealer | $120–$350 |
-| 14/3 communication wire (per foot) | [Amazon](https://www.amazon.com/s?i=industrial&k=14%2F3+communication+wire+%28per+foot%29&tag=errorcodefixes-20) \| Home Depot, Lowes | $0.50–$1.50/ft |
-| Terminal block connector set | [Amazon](https://www.amazon.com/s?i=industrial&k=Terminal+block+connector+set&tag=errorcodefixes-20) \| Amazon, Grainger | $10–$25 |
+| Outdoor unit main PCB (model-specific, e.g., T7WE24032) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-e6-error-code&k=Outdoor+unit+main+PCB+%28model-specific%2C+e.g.%2C+T7WE24032%29&tag=errorcodefixes-20) \| HVAC Parts Shop, eBay OEM | $180–$400 |
+| Indoor unit main PCB (model-specific) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-e6-error-code&k=Indoor+unit+main+PCB+%28model-specific%29&tag=errorcodefixes-20) \| HVAC Parts Shop, Mitsubishi dealer | $120–$350 |
+| 14/3 communication wire (per foot) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-e6-error-code&k=14%2F3+communication+wire+%28per+foot%29&tag=errorcodefixes-20) \| Home Depot, Lowes | $0.50–$1.50/ft |
+| Terminal block connector set | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-e6-error-code&k=Terminal+block+connector+set&tag=errorcodefixes-20) \| Amazon, Grainger | $10–$25 |
 ## When to Call a Professional
 
 If you've confirmed all wiring is correct and tight, continuity checks out on the communication wire, and E6 still appears — you need a tech with Mitsubishi service documentation and ideally a MelcoBEMS or oscilloscope to diagnose board-level communication. Board replacement is a straightforward swap but requires model-specific parts and confirmation that the replacement board has compatible firmware. Tell the tech: "E6 comm fault, wiring is confirmed correct at both terminal blocks, continuity is good on the S-wire. I suspect an outdoor board failure."

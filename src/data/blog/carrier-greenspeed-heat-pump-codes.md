@@ -52,11 +52,11 @@ The Infinity bus uses a shielded 2-wire system. Any loose connection or short ca
 
 | Part | Notes |
 |------|-------|
-| Inverter board | [Amazon](https://www.amazon.com/s?i=industrial&k=Inverter+board&tag=errorcodefixes-20) \| Carrier part number critical — match model |
-| Infinity thermostat | [Amazon](https://www.amazon.com/s?i=industrial&k=Infinity+thermostat&tag=errorcodefixes-20) \| Required for code display and diagnostics |
-| Defrost sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| 10k╬⌐ thermistor type |
-| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match R-410A setpoint |
-| Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Variable speed — match HP and RPM |
+| Inverter board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-greenspeed-heat-pump-codes&k=Inverter+board&tag=errorcodefixes-20) \| Carrier part number critical — match model |
+| Infinity thermostat | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-greenspeed-heat-pump-codes&k=Infinity+thermostat&tag=errorcodefixes-20) \| Required for code display and diagnostics |
+| Defrost sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-carrier-greenspeed-heat-pump-codes&tag=errorcodefixes-20) \| 10k╬⌐ thermistor type |
+| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-greenspeed-heat-pump-codes&tag=errorcodefixes-20) \| Match R-410A setpoint |
+| Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-carrier-greenspeed-heat-pump-codes&tag=errorcodefixes-20) \| Variable speed — match HP and RPM |
 > **Pro tip:** Carrier Infinity systems retain up to 12 fault codes with timestamps. Access via thermostat ΓåÆ Menu ΓåÆ Diagnostics ΓåÆ Fault History. Review history before clearing to identify recurring issues.
 
 ## Related Articles

@@ -43,7 +43,7 @@ If your thermostat is set to COOL instead of HEAT, the system behaves exactly op
 
 **The fix:** Check the thermostat mode. It should read HEAT. If the display is blank or flickering, replace the batteries. Programmable thermostats often default to a schedule that may be set for lower temperatures than expected.
 
-[Check thermostat batteries on Amazon](https://www.amazon.com/s?i=industrial&k=thermostat+batteries&tag=errorcodefixes-20)
+[Check thermostat batteries on Amazon](https://www.amazon.com/s?ascsubtag=ecf-furnace-blowing-cold-air&k=thermostat+batteries&tag=errorcodefixes-20)
 
 ## 3. Pilot Light or Ignition Failure
 
@@ -54,7 +54,7 @@ Older furnaces use a standing pilot light. If it has blown out, no gas ignites a
 - Hot surface igniter: Remove the burner access panel and watch through the sight glass during a call for heat. The igniter should glow bright orange within 30 seconds. If it does not glow at all, the igniter is likely burned out.
 - If the igniter glows but no gas comes out, the gas valve or control board is the likely culprit.
 
-[Replacement hot surface igniter on Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20)
+[Replacement hot surface igniter on Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-furnace-blowing-cold-air&tag=errorcodefixes-20)
 
 ## 4. Dirty Flame Sensor
 
@@ -64,7 +64,7 @@ A dirty flame sensor is a top cause of cold air blowing from a furnace. The flam
 
 **The fix:** Turn off power and gas to the furnace. Remove the flame sensor (usually one screw, near the burner). Gently clean the metal rod with fine-grit sandpaper or steel wool until it shines. Reinstall it and restore power. This fixes the problem in 90% of cases.
 
-[Replacement flame sensor on Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20)
+[Replacement flame sensor on Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-furnace-blowing-cold-air&tag=errorcodefixes-20)
 
 ## 5. Faulty Gas Valve
 
@@ -86,7 +86,7 @@ The limit switch is a safety device that measures the air temperature inside the
 
 **The temporary fix:** Change the filter and check that all supply and return registers are open and unobstructed. This often stops the cycling long enough for the space to warm up.
 
-[Replacement limit switch on Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20)
+[Replacement limit switch on Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-furnace-blowing-cold-air&tag=errorcodefixes-20)
 
 ## 7. Blower Motor or Capacitor Failure
 
@@ -98,7 +98,7 @@ A bad capacitor is easy to spot: look for a bulging top or oily residue on the c
 
 **If the blower runs but heat is weak or intermittent:** Check the capacitor reading first. A weak capacitor costs under $20 and is a 15-minute swap.
 
-[Blower motor capacitor on Amazon](https://www.amazon.com/s?i=industrial&k=furnace+blower+capacitor&tag=errorcodefixes-20)
+[Blower motor capacitor on Amazon](https://www.amazon.com/s?ascsubtag=ecf-furnace-blowing-cold-air&k=furnace+blower+capacitor&tag=errorcodefixes-20)
 
 ## 8. Clogged Air Filter
 
@@ -106,17 +106,17 @@ A heavily clogged filter restricts airflow to the point that the heat exchanger 
 
 **The fix:** Check the filter. If it looks dirty, replace it. Use a basic fiberglass filter (not high-MERV) for standard systems. High-MERV filters can restrict airflow on older furnaces.
 
-[Standard furnace filters on Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20)
+[Standard furnace filters on Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-furnace-blowing-cold-air&tag=errorcodefixes-20)
 
 ---
 
 ## Parts You May Need
 
-- [Hot surface igniter kit](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20)
-- [Flame sensor replacement](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20)
-- [Blower motor run capacitor](https://www.amazon.com/s?i=industrial&k=furnace+blower+capacitor&tag=errorcodefixes-20)
-- [Standard furnace air filters](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20)
-- [Digital multimeter](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20)
+- [Hot surface igniter kit](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-furnace-blowing-cold-air&tag=errorcodefixes-20)
+- [Flame sensor replacement](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-furnace-blowing-cold-air&tag=errorcodefixes-20)
+- [Blower motor run capacitor](https://www.amazon.com/s?ascsubtag=ecf-furnace-blowing-cold-air&k=furnace+blower+capacitor&tag=errorcodefixes-20)
+- [Standard furnace air filters](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-furnace-blowing-cold-air&tag=errorcodefixes-20)
+- [Digital multimeter](https://www.amazon.com/dp/B08ZJSN5X3?ascsubtag=ecf-furnace-blowing-cold-air&tag=errorcodefixes-20)
 
 ---
 

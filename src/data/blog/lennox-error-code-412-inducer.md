@@ -30,12 +30,12 @@ Always confirm which code is active before starting diagnosis.
 
 | Cause | Likelihood | Test Method |
 |-------|-----------|------------|
-| [Failed inducer motor](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) | High | Verify 115VAC at motor; check for spin |
-| [Failed inducer motor capacitor](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) | High | Capacitor meter — compare to rated value |
-| [Seized inducer wheel bearing](https://www.amazon.com/s?i=industrial&k=Seized+inducer+wheel+bearing&tag=errorcodefixes-20) | Medium | Hand-spin test with power off |
-| [Control board not sending 115VAC to motor](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Medium | Measure voltage at motor terminals |
-| [Failed RPM feedback circuit](https://www.amazon.com/s?i=industrial&k=Failed+RPM+feedback+circuit&tag=errorcodefixes-20) | Medium | Inspect tachometer wire; measure signal |
-| [Inducer wheel clogged with debris](https://www.amazon.com/s?i=industrial&k=Inducer+wheel+clogged+with+debris&tag=errorcodefixes-20) | Lower | Visual inspection; clean wheel |
+| [Failed inducer motor](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-lennox-error-code-412-inducer&tag=errorcodefixes-20) | High | Verify 115VAC at motor; check for spin |
+| [Failed inducer motor capacitor](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-lennox-error-code-412-inducer&tag=errorcodefixes-20) | High | Capacitor meter — compare to rated value |
+| [Seized inducer wheel bearing](https://www.amazon.com/s?ascsubtag=ecf-lennox-error-code-412-inducer&k=Seized+inducer+wheel+bearing&tag=errorcodefixes-20) | Medium | Hand-spin test with power off |
+| [Control board not sending 115VAC to motor](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-lennox-error-code-412-inducer&tag=errorcodefixes-20) | Medium | Measure voltage at motor terminals |
+| [Failed RPM feedback circuit](https://www.amazon.com/s?ascsubtag=ecf-lennox-error-code-412-inducer&k=Failed+RPM+feedback+circuit&tag=errorcodefixes-20) | Medium | Inspect tachometer wire; measure signal |
+| [Inducer wheel clogged with debris](https://www.amazon.com/s?ascsubtag=ecf-lennox-error-code-412-inducer&k=Inducer+wheel+clogged+with+debris&tag=errorcodefixes-20) | Lower | Visual inspection; clean wheel |
 
 ## Step-by-Step Diagnosis
 

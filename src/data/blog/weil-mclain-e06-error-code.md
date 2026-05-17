@@ -35,12 +35,12 @@ Failure at any step causes E06 after retries.
 
 | Cause | What to Check |
 |---|---|
-| [No gas supply](https://www.amazon.com/s?i=industrial&k=No+gas+supply&tag=errorcodefixes-20) | Gas valve at boiler, main shutoff, utility supply |
-| [Dirty flame sensor](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) | Rod coated with oxide — clean with emery cloth |
-| [Failed igniter](https://www.amazon.com/s?i=industrial&k=Failed+igniter&tag=errorcodefixes-20) | Cracked or weak hot surface igniter |
-| [Failed gas valve](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) | Valve not opening on command |
-| [Draft pressure fault](https://www.amazon.com/s?i=industrial&k=Draft+pressure+fault&tag=errorcodefixes-20) | Blocked flue, failed inducer, blocked condensate |
-| [Fuel pressure too low](https://www.amazon.com/s?i=industrial&k=Fuel+pressure+too+low&tag=errorcodefixes-20) | Check gas pressure at manifold (3.5" WC natural gas) |
+| [No gas supply](https://www.amazon.com/s?ascsubtag=ecf-weil-mclain-e06-error-code&k=No+gas+supply&tag=errorcodefixes-20) | Gas valve at boiler, main shutoff, utility supply |
+| [Dirty flame sensor](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-weil-mclain-e06-error-code&tag=errorcodefixes-20) | Rod coated with oxide — clean with emery cloth |
+| [Failed igniter](https://www.amazon.com/s?ascsubtag=ecf-weil-mclain-e06-error-code&k=Failed+igniter&tag=errorcodefixes-20) | Cracked or weak hot surface igniter |
+| [Failed gas valve](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-weil-mclain-e06-error-code&tag=errorcodefixes-20) | Valve not opening on command |
+| [Draft pressure fault](https://www.amazon.com/s?ascsubtag=ecf-weil-mclain-e06-error-code&k=Draft+pressure+fault&tag=errorcodefixes-20) | Blocked flue, failed inducer, blocked condensate |
+| [Fuel pressure too low](https://www.amazon.com/s?ascsubtag=ecf-weil-mclain-e06-error-code&k=Fuel+pressure+too+low&tag=errorcodefixes-20) | Check gas pressure at manifold (3.5" WC natural gas) |
 
 ## How to Reset E06
 
@@ -70,11 +70,11 @@ The boiler will immediately attempt a new ignition sequence. Watch and listen:
 
 | Part | Cost |
 |---|---|
-| [Flame sensor rod](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) | $15–35 |
-| [Hot surface igniter](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) | $30–70 |
-| [Gas valve](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) | $150–350 |
-| [Condensate trap](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) | $15–30 |
-| [Control board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | $200–500 |
+| [Flame sensor rod](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-weil-mclain-e06-error-code&tag=errorcodefixes-20) | $15–35 |
+| [Hot surface igniter](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-weil-mclain-e06-error-code&tag=errorcodefixes-20) | $30–70 |
+| [Gas valve](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-weil-mclain-e06-error-code&tag=errorcodefixes-20) | $150–350 |
+| [Condensate trap](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-weil-mclain-e06-error-code&tag=errorcodefixes-20) | $15–30 |
+| [Control board](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-weil-mclain-e06-error-code&tag=errorcodefixes-20) | $200–500 |
 
 ## E06 vs. E02
 

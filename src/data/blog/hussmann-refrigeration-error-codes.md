@@ -329,6 +329,6 @@ Source parts through Hussmann distributors or commercial refrigeration parts sup
 
 Find replacement parts for Hussmann refrigeration systems on Amazon:
 
-- [Hussmann Refrigeration Parts](https://www.amazon.com/s?i=industrial&k=Hussmann+refrigeration+parts&tag=errorcodefixes-20)
-- [Commercial Refrigeration Case Drain Heater](https://www.amazon.com/s?i=industrial&k=commercial+refrigeration+case+drain+heater&tag=errorcodefixes-20)
-- [Commercial Display Case Evaporator Fan Motor](https://www.amazon.com/dp/B01N0J3ZEH?tag=errorcodefixes-20)
+- [Hussmann Refrigeration Parts](https://www.amazon.com/s?ascsubtag=ecf-hussmann-refrigeration-error-codes&k=Hussmann+refrigeration+parts&tag=errorcodefixes-20)
+- [Commercial Refrigeration Case Drain Heater](https://www.amazon.com/s?ascsubtag=ecf-hussmann-refrigeration-error-codes&k=commercial+refrigeration+case+drain+heater&tag=errorcodefixes-20)
+- [Commercial Display Case Evaporator Fan Motor](https://www.amazon.com/dp/B01N0J3ZEH?ascsubtag=ecf-hussmann-refrigeration-error-codes&tag=errorcodefixes-20)

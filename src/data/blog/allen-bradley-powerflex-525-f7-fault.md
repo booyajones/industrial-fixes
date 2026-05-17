@@ -36,9 +36,9 @@ The Allen Bradley PowerFlex 525 **F7 fault** is a **Motor Overload** trip — th
 
 | Part | Notes |
 |------|-------|
-| PowerFlex 525 replacement drive | [Amazon](https://www.amazon.com/s?i=industrial&k=PowerFlex+525+replacement+drive&tag=errorcodefixes-20) \| If drive-side thermal model circuit has been damaged by repeated trips |
-| Motor replacement | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+replacement&tag=errorcodefixes-20) \| When motor has degraded winding insulation from prior overload events |
-| Enclosure ventilation | [Amazon](https://www.amazon.com/s?i=industrial&k=Enclosure+ventilation&tag=errorcodefixes-20) \| Add when enclosure ambient is >40°C; required for drive AND motor |
+| PowerFlex 525 replacement drive | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-525-f7-fault&k=PowerFlex+525+replacement+drive&tag=errorcodefixes-20) \| If drive-side thermal model circuit has been damaged by repeated trips |
+| Motor replacement | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-525-f7-fault&k=Motor+replacement&tag=errorcodefixes-20) \| When motor has degraded winding insulation from prior overload events |
+| Enclosure ventilation | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-525-f7-fault&k=Enclosure+ventilation&tag=errorcodefixes-20) \| Add when enclosure ambient is >40°C; required for drive AND motor |
 ## When to Call a Pro
 
 If F7 returns at low loads (below 80% of motor FLA) with correct parameter settings, perform a winding resistance check and megohm test on the motor. A motor shop can quantify insulation degradation and determine if rewinding or replacement is warranted.

@@ -44,9 +44,9 @@ If gas flow is absent despite a correct igniter glow, check for closed manual sh
 
 | Part | Where to Buy |
 |------|-------------|
-| [Flame sensor](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) | RepairClinic, Amazon |
-| [Hot surface igniter](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
-| [Gas valve](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) | SupplyHouse, Grainger |
+| [Flame sensor](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-york-7-flashes-error-code&tag=errorcodefixes-20) | RepairClinic, Amazon |
+| [Hot surface igniter](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-york-7-flashes-error-code&tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
+| [Gas valve](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-york-7-flashes-error-code&tag=errorcodefixes-20) | SupplyHouse, Grainger |
 
 ## When to Call a Technician
 

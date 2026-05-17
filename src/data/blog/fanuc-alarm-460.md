@@ -40,10 +40,10 @@ tags:
 
 | Part | Notes |
 |------|-------|
-| Spindle bearings | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+bearings&tag=errorcodefixes-20) \| Replace if heat or noise is present |
-| Toolholder / cutting tool | [Amazon](https://www.amazon.com/s?i=industrial&k=Toolholder+%2F+cutting+tool&tag=errorcodefixes-20) \| Dull tools are the simplest fix |
-| Drive cooling fan | [Amazon](https://www.amazon.com/s?i=industrial&k=Drive+cooling+fan&tag=errorcodefixes-20) \| Check spindle drive cabinet airflow |
-| Belt set | [Amazon](https://www.amazon.com/s?i=industrial&k=Belt+set&tag=errorcodefixes-20) \| Replace if glazed, cracked, or over-tensioned |
+| Spindle bearings | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-460&k=Spindle+bearings&tag=errorcodefixes-20) \| Replace if heat or noise is present |
+| Toolholder / cutting tool | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-460&k=Toolholder+%2F+cutting+tool&tag=errorcodefixes-20) \| Dull tools are the simplest fix |
+| Drive cooling fan | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-460&k=Drive+cooling+fan&tag=errorcodefixes-20) \| Check spindle drive cabinet airflow |
+| Belt set | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-460&k=Belt+set&tag=errorcodefixes-20) \| Replace if glazed, cracked, or over-tensioned |
 ## When to Call a Pro
 
 If spindle load is high with no cutting load, the machine likely needs spindle service, drive diagnostics, or both. Continuing to run it risks spindle damage.

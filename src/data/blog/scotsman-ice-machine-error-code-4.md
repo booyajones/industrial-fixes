@@ -36,9 +36,9 @@ Scotsman error code 4 means long freeze — the freeze cycle is taking longer th
 
 | Part | Notes |
 |------|-------|
-| Scotsman Ice Machine Cleaner (5 lb) | [Amazon](https://www.amazon.com/s?i=industrial&k=Scotsman+Ice+Machine+Cleaner+%285+lb%29&tag=errorcodefixes-20) \| Nickel-safe descaling acid for evaporator; don't substitute generic acid |
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match RPM and CFM to OEM spec |
-| Refrigerant (R-404A or R-448A) | [Amazon](https://www.amazon.com/s?i=industrial&k=Refrigerant+%28R-404A+or+R-448A%29&tag=errorcodefixes-20) \| EPA 608 required; find and fix leaks before recharging |
+| Scotsman Ice Machine Cleaner (5 lb) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-scotsman-ice-machine-error-code-4&k=Scotsman+Ice+Machine+Cleaner+%285+lb%29&tag=errorcodefixes-20) \| Nickel-safe descaling acid for evaporator; don't substitute generic acid |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-scotsman-ice-machine-error-code-4&tag=errorcodefixes-20) \| Match RPM and CFM to OEM spec |
+| Refrigerant (R-404A or R-448A) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-scotsman-ice-machine-error-code-4&k=Refrigerant+%28R-404A+or+R-448A%29&tag=errorcodefixes-20) \| EPA 608 required; find and fix leaks before recharging |
 ## When to Call a Pro
 
 If cleaning and descaling don't resolve code 4, the refrigeration system needs pressure testing and possibly recharge. This requires an EPA 608-certified refrigeration technician.

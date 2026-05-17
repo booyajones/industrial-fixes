@@ -108,11 +108,11 @@ The 24ACC6 communicates with the indoor unit over a two-wire bus.
 
 | Part | Use | Link |
 |---|---|---|
-| Dual Run Capacitor (45+5 µF, 370/440V) | Fan motor and compressor start issues | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) |
-| Defrost/Coil Temperature Sensor | Code 4 defrost sensor fault | [View on Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) |
-| Contactor 2-Pole 30A | Pitted contacts causing voltage drops | [View on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) |
-| 24V HVAC Control Board Transformer | Low voltage fault (Code 7) | [View on Amazon](https://www.amazon.com/s?i=industrial&k=hvac+24v+transformer+40va&tag=errorcodefixes-20) |
-| Reversing Valve Solenoid Coil | Code 8 reversing valve fault | [View on Amazon](https://www.amazon.com/s?i=industrial&k=reversing+valve+solenoid+coil+hvac&tag=errorcodefixes-20) |
+| Dual Run Capacitor (45+5 µF, 370/440V) | Fan motor and compressor start issues | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-carrier-24acc6-heat-pump-error-codes&tag=errorcodefixes-20) |
+| Defrost/Coil Temperature Sensor | Code 4 defrost sensor fault | [View on Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-carrier-24acc6-heat-pump-error-codes&tag=errorcodefixes-20) |
+| Contactor 2-Pole 30A | Pitted contacts causing voltage drops | [View on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-carrier-24acc6-heat-pump-error-codes&tag=errorcodefixes-20) |
+| 24V HVAC Control Board Transformer | Low voltage fault (Code 7) | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-24acc6-heat-pump-error-codes&k=hvac+24v+transformer+40va&tag=errorcodefixes-20) |
+| Reversing Valve Solenoid Coil | Code 8 reversing valve fault | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-24acc6-heat-pump-error-codes&k=reversing+valve+solenoid+coil+hvac&tag=errorcodefixes-20) |
 
 ## When to Call a Pro
 

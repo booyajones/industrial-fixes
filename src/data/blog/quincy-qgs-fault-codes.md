@@ -51,10 +51,10 @@ Quincy QGS has an electronic auto-drain to remove condensate from the separator 
 
 | Part | Notes |
 |------|-------|
-| Inlet air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| Model-specific |
-| Oil/separator element | [Amazon](https://www.amazon.com/s?i=industrial&k=Oil%2Fseparator+element&tag=errorcodefixes-20) \| Replace per service schedule |
-| Quincy QGS oil | [Amazon](https://www.amazon.com/s?i=industrial&k=Quincy+QGS+oil&tag=errorcodefixes-20) \| Synthetic — match model specification |
-| Auto-drain solenoid | [Amazon](https://www.amazon.com/s?i=industrial&k=Auto-drain+solenoid&tag=errorcodefixes-20) \| Check coil resistance |
-| Temperature thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Temperature+thermistor&tag=errorcodefixes-20) \| NTC type — check resistance vs. temp chart |
-| Motor overload relay | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+overload+relay&tag=errorcodefixes-20) \| Match FLA setting |
+| Inlet air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-quincy-qgs-fault-codes&tag=errorcodefixes-20) \| Model-specific |
+| Oil/separator element | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-quincy-qgs-fault-codes&k=Oil%2Fseparator+element&tag=errorcodefixes-20) \| Replace per service schedule |
+| Quincy QGS oil | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-quincy-qgs-fault-codes&k=Quincy+QGS+oil&tag=errorcodefixes-20) \| Synthetic — match model specification |
+| Auto-drain solenoid | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-quincy-qgs-fault-codes&k=Auto-drain+solenoid&tag=errorcodefixes-20) \| Check coil resistance |
+| Temperature thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-quincy-qgs-fault-codes&k=Temperature+thermistor&tag=errorcodefixes-20) \| NTC type — check resistance vs. temp chart |
+| Motor overload relay | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-quincy-qgs-fault-codes&k=Motor+overload+relay&tag=errorcodefixes-20) \| Match FLA setting |
 > **Pro tip:** Quincy QGS Intellizone II logs the last 10 faults with run hours. Access via MENU ΓåÆ HISTORY ΓåÆ FAULT LOG on the panel. If HIGH TEMP faults are increasing in frequency, track the interval between faults — progressive reduction in time between faults indicates a degrading cooler before total failure.

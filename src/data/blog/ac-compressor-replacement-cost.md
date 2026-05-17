@@ -115,10 +115,10 @@ When a compressor fails, certain other components are frequently replaced at the
 
 | Part | Purchase Link |
 |---|---|
-| Dual Run Capacitor (45+5 µF, 440V) | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) |
-| 2-Pole 30A Contactor | [View on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) |
-| Hard Start Kit (5-2-1 or equivalent) | [View on Amazon](https://www.amazon.com/s?i=industrial&k=hard+start+kit+hvac+compressor&tag=errorcodefixes-20) |
-| Coil Cleaning Spray | [View on Amazon](https://www.amazon.com/s?i=industrial&k=hvac+coil+cleaner+no+rinse&tag=errorcodefixes-20) |
+| Dual Run Capacitor (45+5 µF, 440V) | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-ac-compressor-replacement-cost&tag=errorcodefixes-20) |
+| 2-Pole 30A Contactor | [View on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-ac-compressor-replacement-cost&tag=errorcodefixes-20) |
+| Hard Start Kit (5-2-1 or equivalent) | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-ac-compressor-replacement-cost&k=hard+start+kit+hvac+compressor&tag=errorcodefixes-20) |
+| Coil Cleaning Spray | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-ac-compressor-replacement-cost&k=hvac+coil+cleaner+no+rinse&tag=errorcodefixes-20) |
 
 ## When to Call a Pro
 

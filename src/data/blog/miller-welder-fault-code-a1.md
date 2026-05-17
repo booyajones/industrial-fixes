@@ -36,9 +36,9 @@ The A1 fault on Miller welders signals an overcurrent condition — the output c
 
 | Part | Notes |
 |------|-------|
-| MIG gun / torch | [Amazon](https://www.amazon.com/s?i=industrial&k=MIG+gun+%2F+torch&tag=errorcodefixes-20) \| Replace if internal cable short is found |
-| Output cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Output+cable&tag=errorcodefixes-20) \| Replace if insulation is damaged |
-| IGBT power module | [Amazon](https://www.amazon.com/s?i=industrial&k=IGBT+power+module&tag=errorcodefixes-20) \| If A1 persists at normal parameters — requires authorized service |
+| MIG gun / torch | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-miller-welder-fault-code-a1&k=MIG+gun+%2F+torch&tag=errorcodefixes-20) \| Replace if internal cable short is found |
+| Output cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-miller-welder-fault-code-a1&k=Output+cable&tag=errorcodefixes-20) \| Replace if insulation is damaged |
+| IGBT power module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-miller-welder-fault-code-a1&k=IGBT+power+module&tag=errorcodefixes-20) \| If A1 persists at normal parameters — requires authorized service |
 ## When to Call a Pro
 
 If A1 trips consistently at normal parameters after gun/cable replacement, the IGBT power module or control board has likely failed and needs Miller authorized service.

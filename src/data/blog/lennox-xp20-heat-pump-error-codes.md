@@ -115,14 +115,14 @@ Check these in order:
 
 | Part | Where to Find | Notes |
 |------|---------------|-------|
-| Outdoor control board (103686-06 / 1184-510) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Fixes E 125, E 131, E 132, E 345. Requires reconfiguration through iComfort after install. |
-| Inverter board | [Amazon](https://www.amazon.com/s?i=industrial&k=Lennox+XP20+inverter+board&tag=errorcodefixes-20) | Fixes E 423 through E 438 inverter faults. Match to unit size (024/036/048/060). |
-| Outdoor ambient temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | Fixes E 180. 10K ohm thermistor. |
-| Outdoor coil temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | Fixes E 416. Check resistance against spec before replacing. |
-| Liquid line temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | Fixes E 424. |
-| High pressure switch | [Amazon](https://www.amazon.com/dp/B013IHQ8CU?tag=errorcodefixes-20) | Related to E 412, E 413. Verify the switch itself before assuming a refrigerant problem. |
-| Low pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | Related to E 410, E 411. Test switch continuity before replacing. |
-| Reversing valve solenoid coil | [Amazon](https://www.amazon.com/s?i=industrial&k=Lennox+reversing+valve+solenoid+coil&tag=errorcodefixes-20) | Related to E 345. The relay may be the actual failure point, not the valve itself. |
+| Outdoor control board (103686-06 / 1184-510) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-lennox-xp20-heat-pump-error-codes&tag=errorcodefixes-20) | Fixes E 125, E 131, E 132, E 345. Requires reconfiguration through iComfort after install. |
+| Inverter board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lennox-xp20-heat-pump-error-codes&k=Lennox+XP20+inverter+board&tag=errorcodefixes-20) | Fixes E 423 through E 438 inverter faults. Match to unit size (024/036/048/060). |
+| Outdoor ambient temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-lennox-xp20-heat-pump-error-codes&tag=errorcodefixes-20) | Fixes E 180. 10K ohm thermistor. |
+| Outdoor coil temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-lennox-xp20-heat-pump-error-codes&tag=errorcodefixes-20) | Fixes E 416. Check resistance against spec before replacing. |
+| Liquid line temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-lennox-xp20-heat-pump-error-codes&tag=errorcodefixes-20) | Fixes E 424. |
+| High pressure switch | [Amazon](https://www.amazon.com/dp/B013IHQ8CU?ascsubtag=ecf-lennox-xp20-heat-pump-error-codes&tag=errorcodefixes-20) | Related to E 412, E 413. Verify the switch itself before assuming a refrigerant problem. |
+| Low pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-lennox-xp20-heat-pump-error-codes&tag=errorcodefixes-20) | Related to E 410, E 411. Test switch continuity before replacing. |
+| Reversing valve solenoid coil | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lennox-xp20-heat-pump-error-codes&k=Lennox+reversing+valve+solenoid+coil&tag=errorcodefixes-20) | Related to E 345. The relay may be the actual failure point, not the valve itself. |
 
 ## When to Call a Pro
 

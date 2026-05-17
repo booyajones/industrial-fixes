@@ -55,11 +55,11 @@ Mitsubishi is the largest mini split brand by installed base in the United State
 
 ## Parts You May Need
 
-- [Mitsubishi Outdoor Fan Motor](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20)
-- [Run Capacitor for Mini Split Outdoor Unit](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20)
-- [Coil Fin Comb and Cleaning Brush Set](https://www.amazon.com/s?i=industrial&k=AC+coil+fin+comb+cleaning+brush&tag=errorcodefixes-20)
-- [No-Rinse Evaporator Coil Cleaner Spray](https://www.amazon.com/s?i=industrial&k=no-rinse+coil+cleaner+spray+AC&tag=errorcodefixes-20)
-- [Mitsubishi Outdoor Thermistor Sensor](https://www.amazon.com/s?i=industrial&k=Mitsubishi+mini+split+outdoor+thermistor+sensor&tag=errorcodefixes-20)
+- [Mitsubishi Outdoor Fan Motor](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-mitsubishi-mini-split-p8-error&tag=errorcodefixes-20)
+- [Run Capacitor for Mini Split Outdoor Unit](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-mitsubishi-mini-split-p8-error&tag=errorcodefixes-20)
+- [Coil Fin Comb and Cleaning Brush Set](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-mini-split-p8-error&k=AC+coil+fin+comb+cleaning+brush&tag=errorcodefixes-20)
+- [No-Rinse Evaporator Coil Cleaner Spray](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-mini-split-p8-error&k=no-rinse+coil+cleaner+spray+AC&tag=errorcodefixes-20)
+- [Mitsubishi Outdoor Thermistor Sensor](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-mini-split-p8-error&k=Mitsubishi+mini+split+outdoor+thermistor+sensor&tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

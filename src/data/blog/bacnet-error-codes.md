@@ -16,18 +16,18 @@ tags:
 
 BACnet (Building Automation and Control Networks, ASHRAE Standard 135) defines specific error codes returned by devices in response to service requests. These appear in BACnet client software, commissioning tools, and network analyzers.
 
-| [Error Code](https://www.amazon.com/s?i=industrial&k=Error+Code&tag=errorcodefixes-20) | Class | Meaning | Quick Fix |
+| [Error Code](https://www.amazon.com/s?ascsubtag=ecf-bacnet-error-codes&k=Error+Code&tag=errorcodefixes-20) | Class | Meaning | Quick Fix |
 |-----------|-------|---------|-----------|
-| [UNKNOWN-OBJECT](https://www.amazon.com/s?i=industrial&k=UNKNOWN-OBJECT&tag=errorcodefixes-20) | Device | Object does not exist | Check object ID in database |
-| [UNKNOWN-PROPERTY](https://www.amazon.com/s?i=industrial&k=UNKNOWN-PROPERTY&tag=errorcodefixes-20) | Device | Property not supported | Check device documentation |
-| [VALUE-OUT-OF-RANGE](https://www.amazon.com/s?i=industrial&k=VALUE-OUT-OF-RANGE&tag=errorcodefixes-20) | Device | Write value exceeds limits | Check min/max before writing |
-| [NO-SPACE-TO-WRITE-PROPERTY](https://www.amazon.com/s?i=industrial&k=NO-SPACE-TO-WRITE-PROPERTY&tag=errorcodefixes-20) | Device | Device memory full | Check device capacity |
-| [WRITE-ACCESS-DENIED](https://www.amazon.com/s?i=industrial&k=WRITE-ACCESS-DENIED&tag=errorcodefixes-20) | Device | Property is read-only | Check property write protection |
-| [DEVICE-NOT-FOUND](https://www.amazon.com/s?i=industrial&k=DEVICE-NOT-FOUND&tag=errorcodefixes-20) | Network | Device not responding | Check address and network |
-| [TIMEOUT](https://www.amazon.com/s?i=industrial&k=TIMEOUT&tag=errorcodefixes-20) | Network | No response received | Check network and device |
-| [REJECT: UNRECOGNIZED-SERVICE](https://www.amazon.com/s?i=industrial&k=REJECT%3A+UNRECOGNIZED-SERVICE&tag=errorcodefixes-20) | Device | Service not supported | Use supported service |
-| [ABORT: BUFFER-OVERFLOW](https://www.amazon.com/s?i=industrial&k=ABORT%3A+BUFFER-OVERFLOW&tag=errorcodefixes-20) | Network | Response too large | Use pagination or segmentation |
-| [SEGMENTATION-NOT-SUPPORTED](https://www.amazon.com/s?i=industrial&k=SEGMENTATION-NOT-SUPPORTED&tag=errorcodefixes-20) | Device | Large transfers not supported | Read in smaller chunks |
+| [UNKNOWN-OBJECT](https://www.amazon.com/s?ascsubtag=ecf-bacnet-error-codes&k=UNKNOWN-OBJECT&tag=errorcodefixes-20) | Device | Object does not exist | Check object ID in database |
+| [UNKNOWN-PROPERTY](https://www.amazon.com/s?ascsubtag=ecf-bacnet-error-codes&k=UNKNOWN-PROPERTY&tag=errorcodefixes-20) | Device | Property not supported | Check device documentation |
+| [VALUE-OUT-OF-RANGE](https://www.amazon.com/s?ascsubtag=ecf-bacnet-error-codes&k=VALUE-OUT-OF-RANGE&tag=errorcodefixes-20) | Device | Write value exceeds limits | Check min/max before writing |
+| [NO-SPACE-TO-WRITE-PROPERTY](https://www.amazon.com/s?ascsubtag=ecf-bacnet-error-codes&k=NO-SPACE-TO-WRITE-PROPERTY&tag=errorcodefixes-20) | Device | Device memory full | Check device capacity |
+| [WRITE-ACCESS-DENIED](https://www.amazon.com/s?ascsubtag=ecf-bacnet-error-codes&k=WRITE-ACCESS-DENIED&tag=errorcodefixes-20) | Device | Property is read-only | Check property write protection |
+| [DEVICE-NOT-FOUND](https://www.amazon.com/s?ascsubtag=ecf-bacnet-error-codes&k=DEVICE-NOT-FOUND&tag=errorcodefixes-20) | Network | Device not responding | Check address and network |
+| [TIMEOUT](https://www.amazon.com/s?ascsubtag=ecf-bacnet-error-codes&k=TIMEOUT&tag=errorcodefixes-20) | Network | No response received | Check network and device |
+| [REJECT: UNRECOGNIZED-SERVICE](https://www.amazon.com/s?ascsubtag=ecf-bacnet-error-codes&k=REJECT%3A+UNRECOGNIZED-SERVICE&tag=errorcodefixes-20) | Device | Service not supported | Use supported service |
+| [ABORT: BUFFER-OVERFLOW](https://www.amazon.com/s?ascsubtag=ecf-bacnet-error-codes&k=ABORT%3A+BUFFER-OVERFLOW&tag=errorcodefixes-20) | Network | Response too large | Use pagination or segmentation |
+| [SEGMENTATION-NOT-SUPPORTED](https://www.amazon.com/s?ascsubtag=ecf-bacnet-error-codes&k=SEGMENTATION-NOT-SUPPORTED&tag=errorcodefixes-20) | Device | Large transfers not supported | Read in smaller chunks |
 
 ## Most Common BACnet Errors
 
@@ -48,13 +48,13 @@ BACnet devices enforce their own limits on writable properties. A setpoint contr
 
 ## MS/TP Bus Troubleshooting
 
-| [Issue](https://www.amazon.com/s?i=industrial&k=Issue&tag=errorcodefixes-20) | Likely Cause | Fix |
+| [Issue](https://www.amazon.com/s?ascsubtag=ecf-bacnet-error-codes&k=Issue&tag=errorcodefixes-20) | Likely Cause | Fix |
 |-------|-------------|-----|
-| [All devices offline](https://www.amazon.com/s?i=industrial&k=All+devices+offline&tag=errorcodefixes-20) | Bus break or master offline | Trace cable, check master |
-| [Intermittent comm](https://www.amazon.com/s?i=industrial&k=Intermittent+comm&tag=errorcodefixes-20) | Extra termination resistor | Remove extra terminators |
-| [One device offline](https://www.amazon.com/s?i=industrial&k=One+device+offline&tag=errorcodefixes-20) | Address conflict | Scan bus, fix duplicate address |
-| [Slow response](https://www.amazon.com/s?i=industrial&k=Slow+response&tag=errorcodefixes-20) | High token rotation time | Reduce Max_Master setting |
-| [Packet errors](https://www.amazon.com/s?i=industrial&k=Packet+errors&tag=errorcodefixes-20) | Baud rate mismatch | Verify all devices at same baud |
+| [All devices offline](https://www.amazon.com/s?ascsubtag=ecf-bacnet-error-codes&k=All+devices+offline&tag=errorcodefixes-20) | Bus break or master offline | Trace cable, check master |
+| [Intermittent comm](https://www.amazon.com/s?ascsubtag=ecf-bacnet-error-codes&k=Intermittent+comm&tag=errorcodefixes-20) | Extra termination resistor | Remove extra terminators |
+| [One device offline](https://www.amazon.com/s?ascsubtag=ecf-bacnet-error-codes&k=One+device+offline&tag=errorcodefixes-20) | Address conflict | Scan bus, fix duplicate address |
+| [Slow response](https://www.amazon.com/s?ascsubtag=ecf-bacnet-error-codes&k=Slow+response&tag=errorcodefixes-20) | High token rotation time | Reduce Max_Master setting |
+| [Packet errors](https://www.amazon.com/s?ascsubtag=ecf-bacnet-error-codes&k=Packet+errors&tag=errorcodefixes-20) | Baud rate mismatch | Verify all devices at same baud |
 
 ## When to Call a Pro
 BACnet network design, router configuration, and integration between different BACnet implementations often require a certified BACnet professional (CBP) or integration specialist.

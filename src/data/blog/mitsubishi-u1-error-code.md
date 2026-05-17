@@ -36,9 +36,9 @@ Mitsubishi error code U1 indicates a voltage imbalance or phase detection fault.
 
 | Part | Notes |
 |------|-------|
-| Supply wire upsizing | [Amazon](https://www.amazon.com/s?i=industrial&k=Supply+wire+upsizing&tag=errorcodefixes-20) \| Consult NEC and unit ampacity specs; undersized wire is a fire risk |
-| Fuse holder or cartridge fuse | [Amazon](https://www.amazon.com/s?i=industrial&k=Fuse+holder+or+cartridge+fuse&tag=errorcodefixes-20) \| Replace blown fuses; identify the short or overload that caused the blow first |
-| Inverter PCB | [Amazon](https://www.amazon.com/s?i=industrial&k=Inverter+PCB&tag=errorcodefixes-20) \| Replace only after confirming supply voltage is within specification |
+| Supply wire upsizing | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-u1-error-code&k=Supply+wire+upsizing&tag=errorcodefixes-20) \| Consult NEC and unit ampacity specs; undersized wire is a fire risk |
+| Fuse holder or cartridge fuse | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-u1-error-code&k=Fuse+holder+or+cartridge+fuse&tag=errorcodefixes-20) \| Replace blown fuses; identify the short or overload that caused the blow first |
+| Inverter PCB | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-u1-error-code&k=Inverter+PCB&tag=errorcodefixes-20) \| Replace only after confirming supply voltage is within specification |
 ## When to Call a Pro
 
 Voltage problems and electrical service work require a licensed electrician. If the supply voltage is confirmed good but U1 persists, the inverter board requires evaluation by a Mitsubishi-authorized technician with access to diagnostic software.

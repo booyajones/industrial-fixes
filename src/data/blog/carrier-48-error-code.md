@@ -71,10 +71,10 @@ The induced draft motor (inducer) pulls combustion gases through the heat exchan
 
 | Part | Notes |
 |---|---|
-| Inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Match HP, RPM, and frame — Carrier HC21ZE117 is common |
-| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Match µF and voltage — 370V minimum |
-| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match the negative pressure trip point |
-| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| Check for cracks at both ends |
+| Inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-carrier-48-error-code&tag=errorcodefixes-20) \| Match HP, RPM, and frame — Carrier HC21ZE117 is common |
+| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-carrier-48-error-code&tag=errorcodefixes-20) \| Match µF and voltage — 370V minimum |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-48-error-code&tag=errorcodefixes-20) \| Match the negative pressure trip point |
+| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?ascsubtag=ecf-carrier-48-error-code&tag=errorcodefixes-20) \| Check for cracks at both ends |
 ## Reset Procedure
 
 After repairing the fault, press the reset button on the control board or cycle power to clear Code 48. If the code returns within the first 5 minutes, the repair is incomplete.

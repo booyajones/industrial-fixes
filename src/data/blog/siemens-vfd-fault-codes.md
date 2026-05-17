@@ -66,10 +66,10 @@ The non-volatile memory used to store drive parameters has a fault. For F00051 (
 
 | Part | Notes |
 |------|-------|
-| Control Unit | [Amazon](https://www.amazon.com/s?i=industrial&k=Control+Unit&tag=errorcodefixes-20) \| G120 CU240E-2, CU250S-2 — match order code |
-| Power Module fan | [Amazon](https://www.amazon.com/s?i=industrial&k=Power+Module+fan&tag=errorcodefixes-20) \| PM230/240 frame B–F fans available separately |
-| Braking resistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Braking+resistor&tag=errorcodefixes-20) \| SINAMICS BRT or equivalent |
-| BOP-2 panel | [Amazon](https://www.amazon.com/s?i=industrial&k=BOP-2+panel&tag=errorcodefixes-20) \| 6SL3255-0AA00-4CA1 |
+| Control Unit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-vfd-fault-codes&k=Control+Unit&tag=errorcodefixes-20) \| G120 CU240E-2, CU250S-2 — match order code |
+| Power Module fan | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-vfd-fault-codes&k=Power+Module+fan&tag=errorcodefixes-20) \| PM230/240 frame B–F fans available separately |
+| Braking resistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-vfd-fault-codes&k=Braking+resistor&tag=errorcodefixes-20) \| SINAMICS BRT or equivalent |
+| BOP-2 panel | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-vfd-fault-codes&k=BOP-2+panel&tag=errorcodefixes-20) \| 6SL3255-0AA00-4CA1 |
 ## When to Call a Pro
 F00052 (CU EEPROM fault) and any fault requiring Power Module (drive output stage) replacement should be handled by Siemens-trained drive service. PM replacement on G120 drives in Panel Through-Mounting configurations also requires electrical panel work.
 

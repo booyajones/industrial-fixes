@@ -36,10 +36,10 @@ The E2 error on Turbo Air commercial freezers (reach-ins, undercounters, and pre
 
 | Part | Notes |
 |------|-------|
-| Door gasket | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?tag=errorcodefixes-20) \| Turbo Air model-specific — measure and order by model number |
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Replace if not spinning with compressor on |
-| Defrost heater | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) \| Match to freezer model voltage and wattage |
-| Defrost termination thermostat | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Replace if open at room temp |
+| Door gasket | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?ascsubtag=ecf-turbo-air-freezer-error-code-e2&tag=errorcodefixes-20) \| Turbo Air model-specific — measure and order by model number |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-turbo-air-freezer-error-code-e2&tag=errorcodefixes-20) \| Replace if not spinning with compressor on |
+| Defrost heater | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?ascsubtag=ecf-turbo-air-freezer-error-code-e2&tag=errorcodefixes-20) \| Match to freezer model voltage and wattage |
+| Defrost termination thermostat | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-turbo-air-freezer-error-code-e2&tag=errorcodefixes-20) \| Replace if open at room temp |
 ## When to Call a Pro
 
 Sealed system issues (low charge, failed compressor) require an EPA 608-certified tech. Don't delay on a freezer — product loss accelerates quickly.

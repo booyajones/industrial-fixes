@@ -39,10 +39,10 @@ Siemens Sinumerik alarm 380600 indicates an encoder fault on a servo axis. The f
 
 | Part | Notes |
 |------|-------|
-| Encoder feedback cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+feedback+cable&tag=errorcodefixes-20) \| Must be shielded; match connector type to drive interface |
-| Rotary encoder (motor-mounted) | [Amazon](https://www.amazon.com/s?i=industrial&k=Rotary+encoder+%28motor-mounted%29&tag=errorcodefixes-20) \| Match to servo motor model and Sinumerik interface type |
-| Linear scale read head | [Amazon](https://www.amazon.com/s?i=industrial&k=Linear+scale+read+head&tag=errorcodefixes-20) \| OEM replacement for Heidenhain/Renishaw scale |
-| DRIVE-CLiQ cable | [Amazon](https://www.amazon.com/s?i=industrial&k=DRIVE-CLiQ+cable&tag=errorcodefixes-20) \| For newer SINAMICS drives with DRIVE-CLiQ encoder interface |
+| Encoder feedback cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-sinumerik-alarm-380600&k=Encoder+feedback+cable&tag=errorcodefixes-20) \| Must be shielded; match connector type to drive interface |
+| Rotary encoder (motor-mounted) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-sinumerik-alarm-380600&k=Rotary+encoder+%28motor-mounted%29&tag=errorcodefixes-20) \| Match to servo motor model and Sinumerik interface type |
+| Linear scale read head | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-sinumerik-alarm-380600&k=Linear+scale+read+head&tag=errorcodefixes-20) \| OEM replacement for Heidenhain/Renishaw scale |
+| DRIVE-CLiQ cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-sinumerik-alarm-380600&k=DRIVE-CLiQ+cable&tag=errorcodefixes-20) \| For newer SINAMICS drives with DRIVE-CLiQ encoder interface |
 ## When to Call a Pro
 
 Encoder replacement on servo motors and linear scale alignment require precision work. A Siemens-authorized service technician should perform encoder replacement and recalibrate the drive parameters (encoder resolution, direction, offset) to avoid positioning errors.

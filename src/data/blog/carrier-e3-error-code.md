@@ -64,11 +64,11 @@ Carrier E3 is heavily searched because the IPM board is an expensive part ($200â
 
 ## Parts You May Need
 
-- [Carrier IPM module board replacement](https://www.amazon.com/s?i=industrial&k=Carrier+inverter+IPM+module+board&tag=errorcodefixes-20)
-- [HVAC coil cleaner foaming](https://www.amazon.com/s?i=industrial&k=HVAC+coil+cleaner+foaming&tag=errorcodefixes-20)
-- [Insulation resistance tester megger HVAC](https://www.amazon.com/s?i=industrial&k=insulation+resistance+tester+HVAC+compressor&tag=errorcodefixes-20)
-- [AC voltmeter clamp meter HVAC](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20)
-- [Refrigerant manifold gauge set](https://www.amazon.com/s?i=industrial&k=refrigerant+manifold+gauge+set&tag=errorcodefixes-20)
+- [Carrier IPM module board replacement](https://www.amazon.com/s?ascsubtag=ecf-carrier-e3-error-code&k=Carrier+inverter+IPM+module+board&tag=errorcodefixes-20)
+- [HVAC coil cleaner foaming](https://www.amazon.com/s?ascsubtag=ecf-carrier-e3-error-code&k=HVAC+coil+cleaner+foaming&tag=errorcodefixes-20)
+- [Insulation resistance tester megger HVAC](https://www.amazon.com/s?ascsubtag=ecf-carrier-e3-error-code&k=insulation+resistance+tester+HVAC+compressor&tag=errorcodefixes-20)
+- [AC voltmeter clamp meter HVAC](https://www.amazon.com/dp/B08ZJSN5X3?ascsubtag=ecf-carrier-e3-error-code&tag=errorcodefixes-20)
+- [Refrigerant manifold gauge set](https://www.amazon.com/s?ascsubtag=ecf-carrier-e3-error-code&k=refrigerant+manifold+gauge+set&tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

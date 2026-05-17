@@ -66,11 +66,11 @@ After the root cause is fixed, clear the fault via parameter r0947 [Fault code] 
 
 ## Parts You May Need
 
-- [Insulation resistance tester megger](https://www.amazon.com/s?i=industrial&k=insulation+resistance+tester+megger&tag=errorcodefixes-20)
-- [Three-phase motor cable replacement](https://www.amazon.com/s?i=industrial&k=three+phase+motor+cable+14+gauge&tag=errorcodefixes-20)
-- [Clamp meter for VFD output current](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20)
-- [Siemens SINAMICS V20 VFD replacement](https://www.amazon.com/s?i=industrial&k=Siemens+SINAMICS+V20+VFD&tag=errorcodefixes-20)
-- [TEFC three-phase replacement motor](https://www.amazon.com/s?i=industrial&k=TEFC+three+phase+motor&tag=errorcodefixes-20)
+- [Insulation resistance tester megger](https://www.amazon.com/s?ascsubtag=ecf-siemens-sinamics-v20-f1-overcurrent&k=insulation+resistance+tester+megger&tag=errorcodefixes-20)
+- [Three-phase motor cable replacement](https://www.amazon.com/s?ascsubtag=ecf-siemens-sinamics-v20-f1-overcurrent&k=three+phase+motor+cable+14+gauge&tag=errorcodefixes-20)
+- [Clamp meter for VFD output current](https://www.amazon.com/dp/B08ZJSN5X3?ascsubtag=ecf-siemens-sinamics-v20-f1-overcurrent&tag=errorcodefixes-20)
+- [Siemens SINAMICS V20 VFD replacement](https://www.amazon.com/s?ascsubtag=ecf-siemens-sinamics-v20-f1-overcurrent&k=Siemens+SINAMICS+V20+VFD&tag=errorcodefixes-20)
+- [TEFC three-phase replacement motor](https://www.amazon.com/s?ascsubtag=ecf-siemens-sinamics-v20-f1-overcurrent&k=TEFC+three+phase+motor&tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

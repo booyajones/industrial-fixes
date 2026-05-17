@@ -135,12 +135,12 @@ After a purge cycle, the pressure switch should open (indicating fan off). If it
 
 | Part | What It Fixes | Amazon Link |
 |------|--------------|-------------|
-| Navien NCB-700 Igniter Electrode | E001 ignition failure | [View on Amazon](https://www.amazon.com/s?i=industrial&k=navien+combination+boiler+igniter+electrode&tag=errorcodefixes-20) |
-| Flame Sensor Rod (Navien compatible) | E001 / E003 flame detection | [View on Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) |
-| NTC Thermistor Replacement 10K | E030 / E031 / E032 / E033 thermistor fault | [View on Amazon](https://www.amazon.com/s?i=industrial&k=navien+thermistor+replacement+boiler&tag=errorcodefixes-20) |
-| Condensing Boiler Air Pressure Switch | E010 / E109 pressure switch fault | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) |
-| Navien Gas Valve Replacement | E060 gas valve fault | [View on Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) |
-| Boiler Descaling Flush Kit | Scale-related overheating and thermistor faults | [View on Amazon](https://www.amazon.com/s?i=industrial&k=boiler+descaling+kit+hydronic&tag=errorcodefixes-20) |
+| Navien NCB-700 Igniter Electrode | E001 ignition failure | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-ncb-700-error-codes&k=navien+combination+boiler+igniter+electrode&tag=errorcodefixes-20) |
+| Flame Sensor Rod (Navien compatible) | E001 / E003 flame detection | [View on Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-navien-ncb-700-error-codes&tag=errorcodefixes-20) |
+| NTC Thermistor Replacement 10K | E030 / E031 / E032 / E033 thermistor fault | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-ncb-700-error-codes&k=navien+thermistor+replacement+boiler&tag=errorcodefixes-20) |
+| Condensing Boiler Air Pressure Switch | E010 / E109 pressure switch fault | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-navien-ncb-700-error-codes&tag=errorcodefixes-20) |
+| Navien Gas Valve Replacement | E060 gas valve fault | [View on Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-navien-ncb-700-error-codes&tag=errorcodefixes-20) |
+| Boiler Descaling Flush Kit | Scale-related overheating and thermistor faults | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-ncb-700-error-codes&k=boiler+descaling+kit+hydronic&tag=errorcodefixes-20) |
 
 ---
 

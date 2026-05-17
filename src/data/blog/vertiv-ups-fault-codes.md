@@ -48,11 +48,11 @@ Vertiv APM and NXL modular systems have hot-swappable fan modules. Check the Ver
 
 | Part | Notes |
 |------|-------|
-| Battery module (GXT/EXS) | [Amazon](https://www.amazon.com/s?i=industrial&k=Battery+module+%28GXT%2FEXS%29&tag=errorcodefixes-20) \| Replace complete set |
-| Fan module (APM/NXL) | [Amazon](https://www.amazon.com/s?i=industrial&k=Fan+module+%28APM%2FNXL%29&tag=errorcodefixes-20) \| Hot-swappable |
-| IntelliSlot network card | [Amazon](https://www.amazon.com/s?i=industrial&k=IntelliSlot+network+card&tag=errorcodefixes-20) \| Replace on communication fault |
-| Bypass module (APM) | [Amazon](https://www.amazon.com/s?i=industrial&k=Bypass+module+%28APM%29&tag=errorcodefixes-20) \| Replace on bypass fault |
-| Rectifier module | [Amazon](https://www.amazon.com/s?i=industrial&k=Rectifier+module&tag=errorcodefixes-20) \| Factory service or replacement |
+| Battery module (GXT/EXS) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-vertiv-ups-fault-codes&k=Battery+module+%28GXT%2FEXS%29&tag=errorcodefixes-20) \| Replace complete set |
+| Fan module (APM/NXL) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-vertiv-ups-fault-codes&k=Fan+module+%28APM%2FNXL%29&tag=errorcodefixes-20) \| Hot-swappable |
+| IntelliSlot network card | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-vertiv-ups-fault-codes&k=IntelliSlot+network+card&tag=errorcodefixes-20) \| Replace on communication fault |
+| Bypass module (APM) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-vertiv-ups-fault-codes&k=Bypass+module+%28APM%29&tag=errorcodefixes-20) \| Replace on bypass fault |
+| Rectifier module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-vertiv-ups-fault-codes&k=Rectifier+module&tag=errorcodefixes-20) \| Factory service or replacement |
 ## When to Call a Pro
 Vertiv APM, NXL, and Trinergy three-phase systems require Vertiv-authorized service for inverter, rectifier, and capacitor maintenance. Annual preventive maintenance by a Vertiv service partner is recommended for critical infrastructure installations.
 

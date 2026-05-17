@@ -52,10 +52,10 @@ The limit switch is doing exactly what it's designed to do. The fault is almost 
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|---------------|
-| High-limit switch (Carrier #HH12ZB195 or equiv.) | $15–$40 | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| [Johnstone Supply](https://www.johnstonesupply.com/) |
-| Blower motor run capacitor (match µF and voltage) | $10–$30 | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=blower+capacitor+carrier) |
-| ECM blower motor (Carrier OEM #HC43AE116) | $200–$500 | [Amazon](https://www.amazon.com/s?i=industrial&k=Carrier+HC43AE116+ECM+blower+motor&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=HC43AE116) |
-| Air filter (16x25x1, MERV 8) | $8–$25 | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| [Home Depot](https://www.homedepot.com/s/16x25x1%20merv%208%20filter) |
+| High-limit switch (Carrier #HH12ZB195 or equiv.) | $15–$40 | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-carrier-13-error-code&tag=errorcodefixes-20) \| [Johnstone Supply](https://www.johnstonesupply.com/) |
+| Blower motor run capacitor (match µF and voltage) | $10–$30 | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-carrier-13-error-code&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=blower+capacitor+carrier) |
+| ECM blower motor (Carrier OEM #HC43AE116) | $200–$500 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-13-error-code&k=Carrier+HC43AE116+ECM+blower+motor&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=HC43AE116) |
+| Air filter (16x25x1, MERV 8) | $8–$25 | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-carrier-13-error-code&tag=errorcodefixes-20) \| [Home Depot](https://www.homedepot.com/s/16x25x1%20merv%208%20filter) |
 
 ## When to Call a Professional
 

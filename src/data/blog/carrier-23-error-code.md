@@ -40,10 +40,10 @@ Carrier **error code 23** means the **draft safeguard switch is open** or failed
 
 | Part | Notes |
 |------|-------|
-| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match the exact negative-pressure rating |
-| Pressure-switch tubing | [Amazon](https://www.amazon.com/s?i=industrial&k=Pressure-switch+tubing&tag=errorcodefixes-20) \| Cheap and often overlooked |
-| Inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Replace if weak, noisy, or seized |
-| Condensate trap / hose | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) \| Check on condensing furnaces |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-23-error-code&tag=errorcodefixes-20) \| Match the exact negative-pressure rating |
+| Pressure-switch tubing | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-23-error-code&k=Pressure-switch+tubing&tag=errorcodefixes-20) \| Cheap and often overlooked |
+| Inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-carrier-23-error-code&tag=errorcodefixes-20) \| Replace if weak, noisy, or seized |
+| Condensate trap / hose | [Amazon](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-carrier-23-error-code&tag=errorcodefixes-20) \| Check on condensing furnaces |
 ## When to Call a Pro
 
 If you have verified inducer operation and clear venting but the fault remains, a technician with a manometer can confirm whether the issue is true draft loss or a failed safety switch.

@@ -381,6 +381,6 @@ Axis servo tuning parameters may have shifted, or an encoder cable is intermitte
 
 Find replacement parts for Cincinnati CNC machines on Amazon:
 
-- [Cincinnati CNC Machine Parts](https://www.amazon.com/s?i=industrial&k=Cincinnati+CNC+machine+parts&tag=errorcodefixes-20)
-- [CNC Proximity Switch Replacement](https://www.amazon.com/s?i=industrial&k=CNC+proximity+switch+M12+NPN&tag=errorcodefixes-20)
-- [CAT40 Pull Stud Retention Knobs](https://www.amazon.com/s?i=industrial&k=CAT40+pull+stud+retention+knob&tag=errorcodefixes-20)
+- [Cincinnati CNC Machine Parts](https://www.amazon.com/s?ascsubtag=ecf-cincinnati-cnc-fault-codes&k=Cincinnati+CNC+machine+parts&tag=errorcodefixes-20)
+- [CNC Proximity Switch Replacement](https://www.amazon.com/s?ascsubtag=ecf-cincinnati-cnc-fault-codes&k=CNC+proximity+switch+M12+NPN&tag=errorcodefixes-20)
+- [CAT40 Pull Stud Retention Knobs](https://www.amazon.com/s?ascsubtag=ecf-cincinnati-cnc-fault-codes&k=CAT40+pull+stud+retention+knob&tag=errorcodefixes-20)

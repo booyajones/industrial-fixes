@@ -37,9 +37,9 @@ The Tempstar E1 error code indicates a **pressure switch fault** — the control
 
 | Part | Notes |
 |------|-------|
-| Draft pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Single or dual-port; match cracking pressure specification from label |
-| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| 3/16" or 1/4" silicone tubing |
-| Inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Match HP, frame, and flange dimensions to the original |
+| Draft pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-tempstar-furnace-e1-error-code&tag=errorcodefixes-20) \| Single or dual-port; match cracking pressure specification from label |
+| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?ascsubtag=ecf-tempstar-furnace-e1-error-code&tag=errorcodefixes-20) \| 3/16" or 1/4" silicone tubing |
+| Inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-tempstar-furnace-e1-error-code&tag=errorcodefixes-20) \| Match HP, frame, and flange dimensions to the original |
 ## When to Call a Pro
 
 If the flue is clear and the pressure switch tests in-spec but the fault persists, have a technician check the inducer's RPM output and verify the pressure switch cracking pressure against the manufacturer specification for your specific model number. Over-matched or under-matched switches cause persistent false faults.

@@ -24,12 +24,12 @@ EF appears on Goodman GMSS96, GMEC96, GMVC96, GMVC80, and Amana AMSS, AMVC serie
 
 | Cause | Likelihood | Test |
 |-------|-----------|------|
-| [Flame sensor picking up stray EMI](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) | High | Check sensor wiring routing |
-| [Leaking gas valve (gas valve not fully closing)](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) | Medium-High | Listen/smell for gas after shutdown |
-| [Flame sensor wiring shorted to chassis](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) | Medium | Inspect flame sensor wire insulation |
-| [Control board fault — false flame sense input](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Medium | Swap control board to test |
-| [HSI (hot surface igniter) generating voltage](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) | Lower | Disconnect igniter lead; retest |
-| [Gas valve stuck partially open](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) | Lower | Verify valve closes fully |
+| [Flame sensor picking up stray EMI](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-goodman-furnace-ef-error-code&tag=errorcodefixes-20) | High | Check sensor wiring routing |
+| [Leaking gas valve (gas valve not fully closing)](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-goodman-furnace-ef-error-code&tag=errorcodefixes-20) | Medium-High | Listen/smell for gas after shutdown |
+| [Flame sensor wiring shorted to chassis](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-goodman-furnace-ef-error-code&tag=errorcodefixes-20) | Medium | Inspect flame sensor wire insulation |
+| [Control board fault — false flame sense input](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-goodman-furnace-ef-error-code&tag=errorcodefixes-20) | Medium | Swap control board to test |
+| [HSI (hot surface igniter) generating voltage](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-goodman-furnace-ef-error-code&tag=errorcodefixes-20) | Lower | Disconnect igniter lead; retest |
+| [Gas valve stuck partially open](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-goodman-furnace-ef-error-code&tag=errorcodefixes-20) | Lower | Verify valve closes fully |
 
 ## Step-by-Step Diagnosis
 

@@ -49,10 +49,10 @@ A clogged air filter causes 4 flashes in approximately 80% of cases. Start there
 
 | Part | Notes |
 |------|-------|
-| High limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) — Replace when switch tests open at room temperature; match temperature rating (stamped on switch body) |
-| Blower motor run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) — Match microfarad (µF) and voltage rating exactly; inexpensive and common failure |
-| Furnace air filter (1") | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) — Replace every 30–60 days; keep MERV 8 or lower |
-| Blower motor | [Amazon](https://www.amazon.com/s?i=industrial&k=coleman+furnace+blower+motor&tag=errorcodefixes-20) — Replace if capacitor is within spec but motor won't reach rated speed |
+| High limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-coleman-furnace-4-flashes&tag=errorcodefixes-20) — Replace when switch tests open at room temperature; match temperature rating (stamped on switch body) |
+| Blower motor run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-coleman-furnace-4-flashes&tag=errorcodefixes-20) — Match microfarad (µF) and voltage rating exactly; inexpensive and common failure |
+| Furnace air filter (1") | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-coleman-furnace-4-flashes&tag=errorcodefixes-20) — Replace every 30–60 days; keep MERV 8 or lower |
+| Blower motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-coleman-furnace-4-flashes&k=coleman+furnace+blower+motor&tag=errorcodefixes-20) — Replace if capacitor is within spec but motor won't reach rated speed |
 
 ## When to Call a Technician
 

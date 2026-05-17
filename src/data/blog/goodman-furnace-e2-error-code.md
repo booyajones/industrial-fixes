@@ -68,11 +68,11 @@ The silicon carbide or silicon nitride igniter must reach 1800°F+ to reliably i
 
 | Part | Cost |
 |---|---|
-| Flame sensor (universal) | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| $10–20 |
-| OEM Goodman flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| $25–45 |
-| Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| $20–50 |
-| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| $80–200 |
-| IFC board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| $100–300 |
+| Flame sensor (universal) | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-goodman-furnace-e2-error-code&tag=errorcodefixes-20) \| $10–20 |
+| OEM Goodman flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-goodman-furnace-e2-error-code&tag=errorcodefixes-20) \| $25–45 |
+| Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-goodman-furnace-e2-error-code&tag=errorcodefixes-20) \| $20–50 |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-goodman-furnace-e2-error-code&tag=errorcodefixes-20) \| $80–200 |
+| IFC board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-goodman-furnace-e2-error-code&tag=errorcodefixes-20) \| $100–300 |
 ## E2 vs. E1 vs. EE2
 
 - **E1** = Pressure switch fault (no draft sensing)

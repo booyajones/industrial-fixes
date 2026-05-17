@@ -17,16 +17,16 @@ tags:
 
 EVAPCO cooling towers and evaporative condensers with PMC (Packaged Mechanical Component) control panels or VFD systems generate fault conditions from motor protection, temperature monitoring, and water management systems.
 
-| [Fault](https://www.amazon.com/s?i=industrial&k=Fault&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| [Fault](https://www.amazon.com/s?ascsubtag=ecf-evapco-cooling-tower-faults&k=Fault&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |-------|---------|-----------|
-| [Fan Motor Fault](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) | Motor overload or trip | Check motor amps, bearings, and connections |
-| [High Leaving Water Temp](https://www.amazon.com/s?i=industrial&k=High+Leaving+Water+Temp&tag=errorcodefixes-20) | Leaving water above setpoint | Check fan operation and load balance |
-| [Low Basin Level](https://www.amazon.com/s?i=industrial&k=Low+Basin+Level&tag=errorcodefixes-20) | Makeup water not keeping up | Check makeup valve and inlet pressure |
-| [High Basin Level](https://www.amazon.com/s?i=industrial&k=High+Basin+Level&tag=errorcodefixes-20) | Overflow condition | Check float valve and drain |
-| [Vibration Alarm](https://www.amazon.com/s?i=industrial&k=Vibration+Alarm&tag=errorcodefixes-20) | Excessive vibration detected | Inspect fan, shaft, and bearings |
-| [Freeze Alarm](https://www.amazon.com/s?i=industrial&k=Freeze+Alarm&tag=errorcodefixes-20) | Basin approaching freeze temp | Check heater and circulation |
-| [VFD Fault](https://www.amazon.com/s?i=industrial&k=VFD+Fault&tag=errorcodefixes-20) | Drive fault on fan motor | Refer to VFD fault code |
-| [Motor Phase Fault](https://www.amazon.com/s?i=industrial&k=Motor+Phase+Fault&tag=errorcodefixes-20) | Phase loss or imbalance | Check supply fuses and connections |
+| [Fan Motor Fault](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-evapco-cooling-tower-faults&tag=errorcodefixes-20) | Motor overload or trip | Check motor amps, bearings, and connections |
+| [High Leaving Water Temp](https://www.amazon.com/s?ascsubtag=ecf-evapco-cooling-tower-faults&k=High+Leaving+Water+Temp&tag=errorcodefixes-20) | Leaving water above setpoint | Check fan operation and load balance |
+| [Low Basin Level](https://www.amazon.com/s?ascsubtag=ecf-evapco-cooling-tower-faults&k=Low+Basin+Level&tag=errorcodefixes-20) | Makeup water not keeping up | Check makeup valve and inlet pressure |
+| [High Basin Level](https://www.amazon.com/s?ascsubtag=ecf-evapco-cooling-tower-faults&k=High+Basin+Level&tag=errorcodefixes-20) | Overflow condition | Check float valve and drain |
+| [Vibration Alarm](https://www.amazon.com/s?ascsubtag=ecf-evapco-cooling-tower-faults&k=Vibration+Alarm&tag=errorcodefixes-20) | Excessive vibration detected | Inspect fan, shaft, and bearings |
+| [Freeze Alarm](https://www.amazon.com/s?ascsubtag=ecf-evapco-cooling-tower-faults&k=Freeze+Alarm&tag=errorcodefixes-20) | Basin approaching freeze temp | Check heater and circulation |
+| [VFD Fault](https://www.amazon.com/s?ascsubtag=ecf-evapco-cooling-tower-faults&k=VFD+Fault&tag=errorcodefixes-20) | Drive fault on fan motor | Refer to VFD fault code |
+| [Motor Phase Fault](https://www.amazon.com/s?ascsubtag=ecf-evapco-cooling-tower-faults&k=Motor+Phase+Fault&tag=errorcodefixes-20) | Phase loss or imbalance | Check supply fuses and connections |
 
 ## Most Common Faults
 
@@ -48,11 +48,11 @@ EVAPCO LSTE closed-circuit evaporative coolers add additional monitoring:
 
 ## Maintenance Schedule
 
-| [Interval](https://www.amazon.com/s?i=industrial&k=Interval&tag=errorcodefixes-20) | Task |
+| [Interval](https://www.amazon.com/s?ascsubtag=ecf-evapco-cooling-tower-faults&k=Interval&tag=errorcodefixes-20) | Task |
 |----------|------|
-| [Weekly](https://www.amazon.com/s?i=industrial&k=Weekly&tag=errorcodefixes-20) | Check basin level and water quality |
-| [Monthly](https://www.amazon.com/s?i=industrial&k=Monthly&tag=errorcodefixes-20) | Inspect fan operation and motor amps |
-| [Annually](https://www.amazon.com/s?i=industrial&k=Annually&tag=errorcodefixes-20) | Clean tube bundle (LSTE), inspect fill, check basin sealant |
+| [Weekly](https://www.amazon.com/s?ascsubtag=ecf-evapco-cooling-tower-faults&k=Weekly&tag=errorcodefixes-20) | Check basin level and water quality |
+| [Monthly](https://www.amazon.com/s?ascsubtag=ecf-evapco-cooling-tower-faults&k=Monthly&tag=errorcodefixes-20) | Inspect fan operation and motor amps |
+| [Annually](https://www.amazon.com/s?ascsubtag=ecf-evapco-cooling-tower-faults&k=Annually&tag=errorcodefixes-20) | Clean tube bundle (LSTE), inspect fill, check basin sealant |
 
 ## Jump to Fix
 

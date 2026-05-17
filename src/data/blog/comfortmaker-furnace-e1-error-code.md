@@ -37,9 +37,9 @@ The Comfortmaker E1 error code is a **system lockout** — the furnace has excee
 
 | Part | Notes |
 |------|-------|
-| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Address ignition lockouts first — easiest and cheapest fix |
-| Air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| For limit lockouts; replace and confirm blower operation |
-| Rollout switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Manual-reset thermal fuse; match temperature rating |
+| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-comfortmaker-furnace-e1-error-code&tag=errorcodefixes-20) \| Address ignition lockouts first — easiest and cheapest fix |
+| Air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-comfortmaker-furnace-e1-error-code&tag=errorcodefixes-20) \| For limit lockouts; replace and confirm blower operation |
+| Rollout switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-comfortmaker-furnace-e1-error-code&tag=errorcodefixes-20) \| Manual-reset thermal fuse; match temperature rating |
 ## When to Call a Pro
 
 If the rollout switch tripped, do not simply reset it and move on. Rollout indicates that flames extended outside the burner box — caused by a blocked flue, blocked heat exchanger passages, or cracked heat exchanger. This is a carbon monoxide and fire hazard. Have a technician inspect before returning the furnace to service.

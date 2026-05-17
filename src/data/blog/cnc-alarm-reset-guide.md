@@ -54,12 +54,12 @@ A spindle alarm during warm-up means something different than the same alarm dur
 
 | Item | Notes |
 |------|-------|
-| Operator manual | [Amazon](https://www.amazon.com/s?i=industrial&k=Operator+manual&tag=errorcodefixes-20) \| Fastest source for the proper reset sequence |
-| Air supply service parts | [Amazon](https://www.amazon.com/s?i=industrial&k=Air+supply+service+parts&tag=errorcodefixes-20) \| Low air causes multiple false alarms |
-| Way lube parts | [Amazon](https://www.amazon.com/s?i=industrial&k=Way+lube+parts&tag=errorcodefixes-20) \| Support-system alarms often start here |
-| Proximity sensors | [Amazon](https://www.amazon.com/s?i=industrial&k=Proximity+sensors&tag=errorcodefixes-20) \| ATC and home faults |
-| Battery | [Amazon](https://www.amazon.com/s?i=industrial&k=Battery&tag=errorcodefixes-20) \| Control memory alarms on older controls |
-| Indicator / load diagnostics | [Amazon](https://www.amazon.com/s?i=industrial&k=Indicator+%2F+load+diagnostics&tag=errorcodefixes-20) \| Use the machine's built-in data |
+| Operator manual | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-cnc-alarm-reset-guide&k=Operator+manual&tag=errorcodefixes-20) \| Fastest source for the proper reset sequence |
+| Air supply service parts | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-cnc-alarm-reset-guide&k=Air+supply+service+parts&tag=errorcodefixes-20) \| Low air causes multiple false alarms |
+| Way lube parts | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-cnc-alarm-reset-guide&k=Way+lube+parts&tag=errorcodefixes-20) \| Support-system alarms often start here |
+| Proximity sensors | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-cnc-alarm-reset-guide&k=Proximity+sensors&tag=errorcodefixes-20) \| ATC and home faults |
+| Battery | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-cnc-alarm-reset-guide&k=Battery&tag=errorcodefixes-20) \| Control memory alarms on older controls |
+| Indicator / load diagnostics | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-cnc-alarm-reset-guide&k=Indicator+%2F+load+diagnostics&tag=errorcodefixes-20) \| Use the machine's built-in data |
 ## When to Call a Pro
 
 A clean reset is not proof of a healthy machine. If the alarm was tied to a crash, rising axis load, or support-system warning, the best move is to stop early and inspect before the machine makes the decision for you.

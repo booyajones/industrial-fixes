@@ -47,11 +47,11 @@ Crown controllers and motors have thermal protection. Temperature faults occur i
 
 | Part | Notes |
 |------|-------|
-| Steer potentiometer | [Amazon](https://www.amazon.com/s?i=industrial&k=Steer+potentiometer&tag=errorcodefixes-20) \| Replace on 03-xx fault |
-| Motor thermal sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+thermal+sensor&tag=errorcodefixes-20) \| Replace on overheat fault |
-| Encoder (drive motor) | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+%28drive+motor%29&tag=errorcodefixes-20) \| Replace on 01-03 fault |
-| Drive controller | [Amazon](https://www.amazon.com/s?i=industrial&k=Drive+controller&tag=errorcodefixes-20) \| Replace on persistent 01-xx fault |
-| Battery indicator/display | [Amazon](https://www.amazon.com/s?i=industrial&k=Battery+indicator%2Fdisplay&tag=errorcodefixes-20) \| Replace on 06-xx fault |
+| Steer potentiometer | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-crown-forklift-fault-codes&k=Steer+potentiometer&tag=errorcodefixes-20) \| Replace on 03-xx fault |
+| Motor thermal sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-crown-forklift-fault-codes&k=Motor+thermal+sensor&tag=errorcodefixes-20) \| Replace on overheat fault |
+| Encoder (drive motor) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-crown-forklift-fault-codes&k=Encoder+%28drive+motor%29&tag=errorcodefixes-20) \| Replace on 01-03 fault |
+| Drive controller | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-crown-forklift-fault-codes&k=Drive+controller&tag=errorcodefixes-20) \| Replace on persistent 01-xx fault |
+| Battery indicator/display | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-crown-forklift-fault-codes&k=Battery+indicator%2Fdisplay&tag=errorcodefixes-20) \| Replace on 06-xx fault |
 ## When to Call a Pro
 Crown forklifts require Crown-authorized service for mast and hydraulic repairs. The Diagnostic Analyst software is dealer-only - internal fault codes and calibration procedures are not published for general use.
 

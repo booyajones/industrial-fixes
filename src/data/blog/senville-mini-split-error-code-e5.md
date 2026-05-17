@@ -38,9 +38,9 @@ E5 on a Senville mini split indicates a drain protection fault — the indoor un
 
 | Part | Notes |
 |------|-------|
-| Condensate drain line (PVC or vinyl) | [Amazon](https://www.amazon.com/s?i=industrial&k=Condensate+drain+line+%28PVC+or+vinyl%29&tag=errorcodefixes-20) \| Replace if cracked or sagging |
-| Condensate pump | [Amazon](https://www.amazon.com/s?i=industrial&k=Condensate+pump&tag=errorcodefixes-20) \| Match voltage and GPH rating of the original pump |
-| Float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?tag=errorcodefixes-20) \| Use the OEM Senville part for correct trip-point calibration |
+| Condensate drain line (PVC or vinyl) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-senville-mini-split-error-code-e5&k=Condensate+drain+line+%28PVC+or+vinyl%29&tag=errorcodefixes-20) \| Replace if cracked or sagging |
+| Condensate pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-senville-mini-split-error-code-e5&k=Condensate+pump&tag=errorcodefixes-20) \| Match voltage and GPH rating of the original pump |
+| Float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?ascsubtag=ecf-senville-mini-split-error-code-e5&tag=errorcodefixes-20) \| Use the OEM Senville part for correct trip-point calibration |
 ## When to Call a Pro
 
 If the drain line runs through the wall and is inaccessible, or if clearing the clog requires disassembling the indoor unit beyond the filter panel, a certified HVAC technician can properly service the drain system without risking water damage.

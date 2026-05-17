@@ -50,11 +50,11 @@ Ice machine codes usually point to freeze time, harvest time, water level, conde
 
 | Part | Notes |
 |---|---|
-| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| Fill issues |
-| Float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?tag=errorcodefixes-20) \| Water level faults |
-| Thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Thermistor&tag=errorcodefixes-20) \| Freeze/harvest sensor problems |
-| Hot gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Harvest faults |
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| High-pressure trips |
+| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?ascsubtag=ecf-ice-machine-error-code-lookup&tag=errorcodefixes-20) \| Fill issues |
+| Float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?ascsubtag=ecf-ice-machine-error-code-lookup&tag=errorcodefixes-20) \| Water level faults |
+| Thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ice-machine-error-code-lookup&k=Thermistor&tag=errorcodefixes-20) \| Freeze/harvest sensor problems |
+| Hot gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-ice-machine-error-code-lookup&tag=errorcodefixes-20) \| Harvest faults |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-ice-machine-error-code-lookup&tag=errorcodefixes-20) \| High-pressure trips |
 ## When to Call a Pro
 
 If the machine is in a foodservice or healthcare setting and codes continue after cleaning and basic checks, bring in a commercial refrigeration tech. Ice quality, sanitation, and production rate all matter, not just whether the machine turns on.

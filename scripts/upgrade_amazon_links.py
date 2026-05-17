@@ -46,9 +46,22 @@ URL_RE = re.compile(
     re.IGNORECASE,
 )
 
-# A "part number" looks like 4-12 chars, mostly digits, optionally with a
-# letter prefix or one internal hyphen. T-84984, 915146, WR02X12345, A101.
-PART_RE = re.compile(r"^[A-Z]{0,3}-?\d{2,8}[A-Z0-9]{0,5}$", re.IGNORECASE)
+# A "part number" we'd want to wrap in quoted-exact-match. Must have at
+# least one of: letter prefix, internal hyphen, or 6+ pure digits. This
+# specifically rejects bare 1-5-digit strings ("0004", "100") which the
+# first pass over-quoted — gauntlet run 0a4ee5 caught these as garbage
+# searches since they're often flash counts not OEM part numbers.
+#
+# Matches: T-84984, AHA72914203, WR02X12345, A101, 915146, AS-39717
+# Rejects: 0004, 100, 5010, 31
+PART_RE = re.compile(
+    r"^("
+    r"[A-Z]{1,3}-?\d{2,8}[A-Z0-9]{0,5}"   # letter prefix variants
+    r"|\d{2,8}-[A-Z0-9]{1,8}"              # numeric-then-hyphen variants
+    r"|\d{6,12}"                           # 6+ pure digits (long enough to be unique)
+    r")$",
+    re.IGNORECASE,
+)
 
 
 def _upgrade_url(url: str) -> str:

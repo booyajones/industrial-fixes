@@ -64,11 +64,11 @@ The error code has been trending on r/hvacadvice as more Goodman communicating s
 
 ## Parts You May Need
 
-- [Goodman HVAC control board replacement](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20)
-- [Amana furnace control board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20)
-- [24VAC transformer HVAC replacement](https://www.amazon.com/s?i=industrial&k=24VAC+transformer+HVAC+40VA&tag=errorcodefixes-20)
-- [Communicating thermostat wire 4-conductor](https://www.amazon.com/s?i=industrial&k=thermostat+wire+4+conductor+18+gauge&tag=errorcodefixes-20)
-- [Multimeter for HVAC voltage testing](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20)
+- [Goodman HVAC control board replacement](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-goodman-ee2-error-code&tag=errorcodefixes-20)
+- [Amana furnace control board](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-goodman-ee2-error-code&tag=errorcodefixes-20)
+- [24VAC transformer HVAC replacement](https://www.amazon.com/s?ascsubtag=ecf-goodman-ee2-error-code&k=24VAC+transformer+HVAC+40VA&tag=errorcodefixes-20)
+- [Communicating thermostat wire 4-conductor](https://www.amazon.com/s?ascsubtag=ecf-goodman-ee2-error-code&k=thermostat+wire+4+conductor+18+gauge&tag=errorcodefixes-20)
+- [Multimeter for HVAC voltage testing](https://www.amazon.com/dp/B08ZJSN5X3?ascsubtag=ecf-goodman-ee2-error-code&tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

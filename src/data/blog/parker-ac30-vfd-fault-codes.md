@@ -20,16 +20,16 @@ Parker AC30 drives are used in OEM machinery and process equipment. Their faults
 
 ## Common AC30 Faults
 
-| [Fault](https://www.amazon.com/s?i=industrial&k=Fault&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| [Fault](https://www.amazon.com/s?ascsubtag=ecf-parker-ac30-vfd-fault-codes&k=Fault&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |---|---|---|
-| [Overcurrent](https://www.amazon.com/s?i=industrial&k=Overcurrent&tag=errorcodefixes-20) | Output current exceeded safe limit | Check motor, cable, load jam |
-| [Overvoltage](https://www.amazon.com/s?i=industrial&k=Overvoltage&tag=errorcodefixes-20) | DC bus too high | Increase decel time, add braking |
-| [Undervoltage](https://www.amazon.com/s?i=industrial&k=Undervoltage&tag=errorcodefixes-20) | Input supply too low | Check incoming power |
-| [Heatsink Temp](https://www.amazon.com/s?i=industrial&k=Heatsink+Temp&tag=errorcodefixes-20) | Drive overheated | Clean cooling path, check fan |
-| [Motor Overload](https://www.amazon.com/s?i=industrial&k=Motor+Overload&tag=errorcodefixes-20) | Motor model/current wrong or load too high | Verify parameters |
-| [STO Active](https://www.amazon.com/s?i=industrial&k=STO+Active&tag=errorcodefixes-20) | Safe torque off chain open | Check safety circuit |
-| [Feedback Fault](https://www.amazon.com/s?i=industrial&k=Feedback+Fault&tag=errorcodefixes-20) | Encoder/resolver missing or bad | Check feedback cable/device |
-| [External Trip](https://www.amazon.com/s?i=industrial&k=External+Trip&tag=errorcodefixes-20) | Digital input commanded fault | Trace interlock source |
+| [Overcurrent](https://www.amazon.com/s?ascsubtag=ecf-parker-ac30-vfd-fault-codes&k=Overcurrent&tag=errorcodefixes-20) | Output current exceeded safe limit | Check motor, cable, load jam |
+| [Overvoltage](https://www.amazon.com/s?ascsubtag=ecf-parker-ac30-vfd-fault-codes&k=Overvoltage&tag=errorcodefixes-20) | DC bus too high | Increase decel time, add braking |
+| [Undervoltage](https://www.amazon.com/s?ascsubtag=ecf-parker-ac30-vfd-fault-codes&k=Undervoltage&tag=errorcodefixes-20) | Input supply too low | Check incoming power |
+| [Heatsink Temp](https://www.amazon.com/s?ascsubtag=ecf-parker-ac30-vfd-fault-codes&k=Heatsink+Temp&tag=errorcodefixes-20) | Drive overheated | Clean cooling path, check fan |
+| [Motor Overload](https://www.amazon.com/s?ascsubtag=ecf-parker-ac30-vfd-fault-codes&k=Motor+Overload&tag=errorcodefixes-20) | Motor model/current wrong or load too high | Verify parameters |
+| [STO Active](https://www.amazon.com/s?ascsubtag=ecf-parker-ac30-vfd-fault-codes&k=STO+Active&tag=errorcodefixes-20) | Safe torque off chain open | Check safety circuit |
+| [Feedback Fault](https://www.amazon.com/s?ascsubtag=ecf-parker-ac30-vfd-fault-codes&k=Feedback+Fault&tag=errorcodefixes-20) | Encoder/resolver missing or bad | Check feedback cable/device |
+| [External Trip](https://www.amazon.com/s?ascsubtag=ecf-parker-ac30-vfd-fault-codes&k=External+Trip&tag=errorcodefixes-20) | Digital input commanded fault | Trace interlock source |
 
 ## STO Faults
 

@@ -52,12 +52,12 @@ The True T-23 is a one-section reach-in commercial refrigerator widely used in b
 
 | Part | Notes |
 |---|---|
-| Cabinet temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| True part; check connector type |
-| Defrost heater | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) \| Matches voltage and wattage |
-| Evaporator fan motor | [Amazon](https://www.amazon.com/dp/B01N0J3ZEH?tag=errorcodefixes-20) \| Shaded pole type; match CFM |
-| Defrost termination thermostat | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Check cutout temperature rating |
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Bottom-mounted; check rotation |
-| True Digital Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For EE fault; verify power supply first |
+| Cabinet temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-true-t-23-error-codes&tag=errorcodefixes-20) \| True part; check connector type |
+| Defrost heater | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?ascsubtag=ecf-true-t-23-error-codes&tag=errorcodefixes-20) \| Matches voltage and wattage |
+| Evaporator fan motor | [Amazon](https://www.amazon.com/dp/B01N0J3ZEH?ascsubtag=ecf-true-t-23-error-codes&tag=errorcodefixes-20) \| Shaded pole type; match CFM |
+| Defrost termination thermostat | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-true-t-23-error-codes&tag=errorcodefixes-20) \| Check cutout temperature rating |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-true-t-23-error-codes&tag=errorcodefixes-20) \| Bottom-mounted; check rotation |
+| True Digital Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-true-t-23-error-codes&tag=errorcodefixes-20) \| For EE fault; verify power supply first |
 ## When to Call a Pro
 
 True T-23 refrigerators with refrigerant undercharge require EPA 608 certified technicians for refrigerant service. If the unit is repeatedly tripping high temperature (E6) with a clean condenser and working fans, the issue may be a low refrigerant charge — a technician with manifold gauges should verify system pressures before condemning the compressor.

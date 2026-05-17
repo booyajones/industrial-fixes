@@ -125,11 +125,11 @@ If all wiring is clean and the fault persists with a specific component offline:
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|--------------|
-| [Lennox iComfort S30 Thermostat (Y3519)](https://www.amazon.com/s?i=industrial&k=Lennox+iComfort+S30+Thermostat+%28Y3519%29&tag=errorcodefixes-20) | Thermostat communication hardware failure | $200–$400 |
-| [Furnace Control Board (LB-101366 or model-specific)](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Board communication chip or fuse blown | $200–$500 |
-| [Outdoor Unit Control Board (model-specific)](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Board failure causing no response on bus | $300–$700 |
-| [Mini Blade Fuse (3A, ATC)](https://www.amazon.com/s?i=industrial&k=Mini+Blade+Fuse+%283A%2C+ATC%29&tag=errorcodefixes-20) | Blown board fuse cutting communication power | $2–$5 |
-| [18/4 or 18/8 Communication Wire](https://www.amazon.com/s?i=industrial&k=18%2F4+or+18%2F8+Communication+Wire&tag=errorcodefixes-20) | Damaged or shorted wire run | $25–$60 per 50ft |
+| [Lennox iComfort S30 Thermostat (Y3519)](https://www.amazon.com/s?ascsubtag=ecf-lennox-icomfort-error-code-225&k=Lennox+iComfort+S30+Thermostat+%28Y3519%29&tag=errorcodefixes-20) | Thermostat communication hardware failure | $200–$400 |
+| [Furnace Control Board (LB-101366 or model-specific)](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-lennox-icomfort-error-code-225&tag=errorcodefixes-20) | Board communication chip or fuse blown | $200–$500 |
+| [Outdoor Unit Control Board (model-specific)](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-lennox-icomfort-error-code-225&tag=errorcodefixes-20) | Board failure causing no response on bus | $300–$700 |
+| [Mini Blade Fuse (3A, ATC)](https://www.amazon.com/s?ascsubtag=ecf-lennox-icomfort-error-code-225&k=Mini+Blade+Fuse+%283A%2C+ATC%29&tag=errorcodefixes-20) | Blown board fuse cutting communication power | $2–$5 |
+| [18/4 or 18/8 Communication Wire](https://www.amazon.com/s?ascsubtag=ecf-lennox-icomfort-error-code-225&k=18%2F4+or+18%2F8+Communication+Wire&tag=errorcodefixes-20) | Damaged or shorted wire run | $25–$60 per 50ft |
 
 ---
 

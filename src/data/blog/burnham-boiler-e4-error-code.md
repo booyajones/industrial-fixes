@@ -24,13 +24,13 @@ E4 appears on Burnham Alpine (ALP), K2, K2-Fibre, and Revolution series boilers.
 
 | Cause | Details |
 |---|---|
-| [Low gas pressure](https://www.amazon.com/s?i=industrial&k=Low+gas+pressure&tag=errorcodefixes-20) | Pressure drops when other appliances draw gas simultaneously |
-| [Dirty flame sensor](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) | Flame signal becomes too weak to sustain proven status |
-| [Draft fluctuations](https://www.amazon.com/s?i=industrial&k=Draft+fluctuations&tag=errorcodefixes-20) | Wind, pressure changes cause draft to momentarily drop |
-| [Gas valve flutter](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) | Valve partially closing due to coil degradation |
-| [Air in gas line](https://www.amazon.com/s?i=industrial&k=Air+in+gas+line&tag=errorcodefixes-20) | Especially after gas service interruption |
-| [Blocked condensate](https://www.amazon.com/s?i=industrial&k=Blocked+condensate&tag=errorcodefixes-20) | Builds up during operation, eventually stalls draft |
-| [Inducer motor degrading](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) | Motor speed drops under thermal load |
+| [Low gas pressure](https://www.amazon.com/s?ascsubtag=ecf-burnham-boiler-e4-error-code&k=Low+gas+pressure&tag=errorcodefixes-20) | Pressure drops when other appliances draw gas simultaneously |
+| [Dirty flame sensor](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-burnham-boiler-e4-error-code&tag=errorcodefixes-20) | Flame signal becomes too weak to sustain proven status |
+| [Draft fluctuations](https://www.amazon.com/s?ascsubtag=ecf-burnham-boiler-e4-error-code&k=Draft+fluctuations&tag=errorcodefixes-20) | Wind, pressure changes cause draft to momentarily drop |
+| [Gas valve flutter](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-burnham-boiler-e4-error-code&tag=errorcodefixes-20) | Valve partially closing due to coil degradation |
+| [Air in gas line](https://www.amazon.com/s?ascsubtag=ecf-burnham-boiler-e4-error-code&k=Air+in+gas+line&tag=errorcodefixes-20) | Especially after gas service interruption |
+| [Blocked condensate](https://www.amazon.com/s?ascsubtag=ecf-burnham-boiler-e4-error-code&k=Blocked+condensate&tag=errorcodefixes-20) | Builds up during operation, eventually stalls draft |
+| [Inducer motor degrading](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-burnham-boiler-e4-error-code&tag=errorcodefixes-20) | Motor speed drops under thermal load |
 
 ## Why E4 Is Tricky
 
@@ -58,11 +58,11 @@ Clean the flame sensor rod with fine steel wool if below 2 µA. This is the most
 
 | Part | Cost |
 |---|---|
-| [Flame sensor rod](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) | $15–35 |
-| [Gas valve (Alpine)](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) | $200–400 |
-| [Inducer motor](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) | $150–350 |
-| [Condensate trap](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) | $15–30 |
-| [Flue wind cap](https://www.amazon.com/s?i=industrial&k=Flue+wind+cap&tag=errorcodefixes-20) | $20–60 |
+| [Flame sensor rod](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-burnham-boiler-e4-error-code&tag=errorcodefixes-20) | $15–35 |
+| [Gas valve (Alpine)](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-burnham-boiler-e4-error-code&tag=errorcodefixes-20) | $200–400 |
+| [Inducer motor](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-burnham-boiler-e4-error-code&tag=errorcodefixes-20) | $150–350 |
+| [Condensate trap](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-burnham-boiler-e4-error-code&tag=errorcodefixes-20) | $15–30 |
+| [Flue wind cap](https://www.amazon.com/s?ascsubtag=ecf-burnham-boiler-e4-error-code&k=Flue+wind+cap&tag=errorcodefixes-20) | $20–60 |
 
 ## Resetting E4
 
@@ -70,7 +70,7 @@ Press and hold the Reset button on the boiler control panel for 3 seconds. The b
 
 ## Related Burnham Error Codes
 
-| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Meaning |
+| [Code](https://www.amazon.com/s?ascsubtag=ecf-burnham-boiler-e4-error-code&k=Code&tag=errorcodefixes-20) | Meaning |
 |---|---|
 | E1 | Hard ignition lockout |
 | E2 | Failed ignition attempt |

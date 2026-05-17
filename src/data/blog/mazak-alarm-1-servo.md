@@ -36,9 +36,9 @@ Mazak alarm 1 (or alarm number beginning with 1 in the servo alarm group) indica
 
 | Part | Notes |
 |------|-------|
-| Servo amplifier module | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+amplifier+module&tag=errorcodefixes-20) \| Mazak uses Mitsubishi MDS-C or MDS-E series in most modern machines |
-| Encoder cable (shielded) | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+cable+%28shielded%29&tag=errorcodefixes-20) \| Replace if any damage is found; encoder cable is a common failure on older machines |
-| Ball screw or linear guide lubrication | [Amazon](https://www.amazon.com/s?i=industrial&k=Ball+screw+or+linear+guide+lubrication&tag=errorcodefixes-20) \| Often overlooked; dry guides cause servo overload |
+| Servo amplifier module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mazak-alarm-1-servo&k=Servo+amplifier+module&tag=errorcodefixes-20) \| Mazak uses Mitsubishi MDS-C or MDS-E series in most modern machines |
+| Encoder cable (shielded) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mazak-alarm-1-servo&k=Encoder+cable+%28shielded%29&tag=errorcodefixes-20) \| Replace if any damage is found; encoder cable is a common failure on older machines |
+| Ball screw or linear guide lubrication | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mazak-alarm-1-servo&k=Ball+screw+or+linear+guide+lubrication&tag=errorcodefixes-20) \| Often overlooked; dry guides cause servo overload |
 ## When to Call a Pro
 
 Servo amplifier internal faults and motor testing require a Mazak-certified technician or Mitsubishi servo specialist. Incorrect amplifier replacement or parameter mismatch will produce new alarms.

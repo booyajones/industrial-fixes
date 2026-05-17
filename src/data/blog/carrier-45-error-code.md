@@ -36,9 +36,9 @@ Carrier fault code 45 indicates a control board fault — specifically, the inte
 
 | Part | Notes |
 |------|-------|
-| Carrier integrated furnace control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Match the part number on the existing board exactly; boards are model-specific |
-| Surge protector (whole-house or HVAC-rated) | [Amazon](https://www.amazon.com/s?i=industrial&k=Surge+protector+%28whole-house+or+HVAC-rated%29&tag=errorcodefixes-20) \| Install after board replacement to prevent recurrence |
-| Wire harness connectors | [Amazon](https://www.amazon.com/s?i=industrial&k=Wire+harness+connectors&tag=errorcodefixes-20) \| Replace if any connectors show heat damage or corrosion |
+| Carrier integrated furnace control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-carrier-45-error-code&tag=errorcodefixes-20) \| Match the part number on the existing board exactly; boards are model-specific |
+| Surge protector (whole-house or HVAC-rated) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-45-error-code&k=Surge+protector+%28whole-house+or+HVAC-rated%29&tag=errorcodefixes-20) \| Install after board replacement to prevent recurrence |
+| Wire harness connectors | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-45-error-code&k=Wire+harness+connectors&tag=errorcodefixes-20) \| Replace if any connectors show heat damage or corrosion |
 ## When to Call a Pro
 
 Board replacement on a Carrier furnace is straightforward for an experienced technician but requires proper static precautions and wiring documentation. If you're not confident transferring wiring from old board to new, bring in a tech to avoid creating a new fault.

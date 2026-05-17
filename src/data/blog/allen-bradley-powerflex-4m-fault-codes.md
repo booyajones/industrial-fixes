@@ -90,11 +90,11 @@ The PowerFlex 4M is closely related to the PowerFlex 4 (catalog 22F) and shares 
 
 | Part | Description | Typical Cost | Where to Buy |
 |------|-------------|--------------|--------------|
-| PowerFlex 4M replacement drive (22A-D2P3N104) | 1 HP 480V 3-phase (example) — select by catalog number | $300–$800 | [Amazon](https://www.amazon.com/s?i=industrial&k=Allen-Bradley+PowerFlex+4M+22A+drive+replacement&tag=errorcodefixes-20) \| Authorized distributor |
-| Dynamic braking resistor | External resistor for F5 prevention on decel loads | $60–$200 | [Amazon](https://www.amazon.com/s?i=industrial&k=Allen-Bradley+PowerFlex+braking+resistor+AK-R2&tag=errorcodefixes-20) \| Rockwell distributor |
-| Remote operator panel (HIM) | 22-HIM-C2S — allows parameter viewing without laptop | $150–$250 | [Amazon](https://www.amazon.com/s?i=industrial&k=Allen-Bradley+22-HIM-C2S+remote+HIM&tag=errorcodefixes-20) \| Automation distributor |
-| Motor PTC thermistor kit | For F7 active thermistor protection on motor | $20–$60 | [Amazon](https://www.amazon.com/s?i=industrial&k=motor+PTC+thermistor+protection+VFD&tag=errorcodefixes-20) |
-| 1203-USB DeviceNet/DSI cable | Required to connect laptop for full parameter programming | $120–$200 | [Amazon](https://www.amazon.com/s?i=industrial&k=Allen-Bradley+1203-USB+DSI+cable+PowerFlex&tag=errorcodefixes-20) \| Automation distributor |
+| PowerFlex 4M replacement drive (22A-D2P3N104) | 1 HP 480V 3-phase (example) — select by catalog number | $300–$800 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-4m-fault-codes&k=Allen-Bradley+PowerFlex+4M+22A+drive+replacement&tag=errorcodefixes-20) \| Authorized distributor |
+| Dynamic braking resistor | External resistor for F5 prevention on decel loads | $60–$200 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-4m-fault-codes&k=Allen-Bradley+PowerFlex+braking+resistor+AK-R2&tag=errorcodefixes-20) \| Rockwell distributor |
+| Remote operator panel (HIM) | 22-HIM-C2S — allows parameter viewing without laptop | $150–$250 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-4m-fault-codes&k=Allen-Bradley+22-HIM-C2S+remote+HIM&tag=errorcodefixes-20) \| Automation distributor |
+| Motor PTC thermistor kit | For F7 active thermistor protection on motor | $20–$60 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-4m-fault-codes&k=motor+PTC+thermistor+protection+VFD&tag=errorcodefixes-20) |
+| 1203-USB DeviceNet/DSI cable | Required to connect laptop for full parameter programming | $120–$200 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-4m-fault-codes&k=Allen-Bradley+1203-USB+DSI+cable+PowerFlex&tag=errorcodefixes-20) \| Automation distributor |
 
 ## When to Call a Professional
 

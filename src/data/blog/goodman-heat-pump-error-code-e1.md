@@ -37,9 +37,9 @@ On Goodman heat pump systems, error code **E1** typically indicates a **high-pre
 
 | Part | Notes |
 |------|-------|
-| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Typically 400–450 PSI cutout for R-410A |
-| Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Typically 40–50 PSI cutout for R-410A |
-| Outdoor fan capacitor | [Amazon](https://www.amazon.com/s?i=industrial&k=Outdoor+fan+capacitor&tag=errorcodefixes-20) \| 5 µF or 7.5 µF / 370V (check existing cap label) |
+| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-goodman-heat-pump-error-code-e1&tag=errorcodefixes-20) \| Typically 400–450 PSI cutout for R-410A |
+| Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-goodman-heat-pump-error-code-e1&tag=errorcodefixes-20) \| Typically 40–50 PSI cutout for R-410A |
+| Outdoor fan capacitor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-goodman-heat-pump-error-code-e1&k=Outdoor+fan+capacitor&tag=errorcodefixes-20) \| 5 µF or 7.5 µF / 370V (check existing cap label) |
 ## When to Call a Pro
 If E1 returns after a reset and the outdoor coil is clean, have a certified HVAC tech check refrigerant pressures. A low charge means there's a leak — adding refrigerant without finding the leak is a waste of money and harms the environment.
 

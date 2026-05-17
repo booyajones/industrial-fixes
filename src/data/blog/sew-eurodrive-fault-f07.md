@@ -36,9 +36,9 @@ SEW-Eurodrive fault F07 means overvoltage on the DC link — the DC bus voltage 
 
 | Part | Notes |
 |------|-------|
-| Braking resistor (SEW-specified) | [Amazon](https://www.amazon.com/s?i=industrial&k=Braking+resistor+%28SEW-specified%29&tag=errorcodefixes-20) \| Must match SEW's resistance and wattage specification for your drive size |
-| Brake chopper module | [Amazon](https://www.amazon.com/s?i=industrial&k=Brake+chopper+module&tag=errorcodefixes-20) \| Internal to larger drives; separate external module for high-power applications |
-| Line reactor | [Amazon](https://www.amazon.com/s?i=industrial&k=Line+reactor&tag=errorcodefixes-20) \| Reduces input overvoltage from supply transients |
+| Braking resistor (SEW-specified) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-sew-eurodrive-fault-f07&k=Braking+resistor+%28SEW-specified%29&tag=errorcodefixes-20) \| Must match SEW's resistance and wattage specification for your drive size |
+| Brake chopper module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-sew-eurodrive-fault-f07&k=Brake+chopper+module&tag=errorcodefixes-20) \| Internal to larger drives; separate external module for high-power applications |
+| Line reactor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-sew-eurodrive-fault-f07&k=Line+reactor&tag=errorcodefixes-20) \| Reduces input overvoltage from supply transients |
 ## When to Call a Pro
 
 If the braking resistor is correctly sized, installed, and tested good, but F07 persists, the internal brake chopper transistor may have failed. SEW-certified technicians can test the chopper circuit and replace the relevant IGBT module.

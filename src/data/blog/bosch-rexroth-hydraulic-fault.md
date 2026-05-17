@@ -47,11 +47,11 @@ Rexroth Sytronix pump drives monitor system pressure and can display filter diff
 
 | Part | Notes |
 |------|-------|
-| Hydraulic filter element (Rexroth) | [Amazon](https://www.amazon.com/s?i=industrial&k=Hydraulic+filter+element+%28Rexroth%29&tag=errorcodefixes-20) \| Replace on DP high |
-| Proportional valve coil | [Amazon](https://www.amazon.com/s?i=industrial&k=Proportional+valve+coil&tag=errorcodefixes-20) \| VT-DFP or DBEM coil assembly |
-| Encoder cable (IndraDrive) | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+cable+%28IndraDrive%29&tag=errorcodefixes-20) \| Replace on F7010 |
-| Brake resistor module | [Amazon](https://www.amazon.com/s?i=industrial&k=Brake+resistor+module&tag=errorcodefixes-20) \| Replace on F3102 |
-| VT amplifier card | [Amazon](https://www.amazon.com/s?i=industrial&k=VT+amplifier+card&tag=errorcodefixes-20) \| Replace on persistent E-faults |
+| Hydraulic filter element (Rexroth) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-rexroth-hydraulic-fault&k=Hydraulic+filter+element+%28Rexroth%29&tag=errorcodefixes-20) \| Replace on DP high |
+| Proportional valve coil | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-rexroth-hydraulic-fault&k=Proportional+valve+coil&tag=errorcodefixes-20) \| VT-DFP or DBEM coil assembly |
+| Encoder cable (IndraDrive) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-rexroth-hydraulic-fault&k=Encoder+cable+%28IndraDrive%29&tag=errorcodefixes-20) \| Replace on F7010 |
+| Brake resistor module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-rexroth-hydraulic-fault&k=Brake+resistor+module&tag=errorcodefixes-20) \| Replace on F3102 |
+| VT amplifier card | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-rexroth-hydraulic-fault&k=VT+amplifier+card&tag=errorcodefixes-20) \| Replace on persistent E-faults |
 ## When to Call a Pro
 IndraDrive parameter sets and Sytronix pressure/flow curve tuning should be handled by Rexroth-trained engineers. Incorrect tuning can cause hydraulic instability or dangerous actuator runaway.
 

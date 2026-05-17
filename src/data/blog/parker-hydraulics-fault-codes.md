@@ -47,11 +47,11 @@ Parker HPU coolers can be air-cooled or water-cooled. Air-cooled: check fan oper
 
 | Part | Notes |
 |------|-------|
-| Hydraulic filter element | [Amazon](https://www.amazon.com/s?i=industrial&k=Hydraulic+filter+element&tag=errorcodefixes-20) \| Replace on DP high fault |
-| Proportional valve coil | [Amazon](https://www.amazon.com/s?i=industrial&k=Proportional+valve+coil&tag=errorcodefixes-20) \| Replace on solenoid overcurrent |
-| LVDT position sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=LVDT+position+sensor&tag=errorcodefixes-20) \| Replace on position fault |
-| Parker amplifier card (PCD) | [Amazon](https://www.amazon.com/s?i=industrial&k=Parker+amplifier+card+%28PCD%29&tag=errorcodefixes-20) \| Replace on repeated electronics faults |
-| Seal kit for HPU pump | [Amazon](https://www.amazon.com/s?i=industrial&k=Seal+kit+for+HPU+pump&tag=errorcodefixes-20) \| Common after high-hour operation |
+| Hydraulic filter element | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-parker-hydraulics-fault-codes&k=Hydraulic+filter+element&tag=errorcodefixes-20) \| Replace on DP high fault |
+| Proportional valve coil | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-parker-hydraulics-fault-codes&k=Proportional+valve+coil&tag=errorcodefixes-20) \| Replace on solenoid overcurrent |
+| LVDT position sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-parker-hydraulics-fault-codes&k=LVDT+position+sensor&tag=errorcodefixes-20) \| Replace on position fault |
+| Parker amplifier card (PCD) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-parker-hydraulics-fault-codes&k=Parker+amplifier+card+%28PCD%29&tag=errorcodefixes-20) \| Replace on repeated electronics faults |
+| Seal kit for HPU pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-parker-hydraulics-fault-codes&k=Seal+kit+for+HPU+pump&tag=errorcodefixes-20) \| Common after high-hour operation |
 ## When to Call a Pro
 Parker proportional valve tuning (gain, dither, ramp settings) and IQAN programming require trained personnel. Mis-tuned proportional valves can cause machine oscillation or dangerous runaway motion.
 

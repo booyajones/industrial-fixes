@@ -38,8 +38,8 @@ E4 on a True commercial refrigerator or freezer signals a defrost heater fault â
 
 | Part | Notes |
 |------|-------|
-| Defrost heater | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) \| True OEM or exact resistance match; match wattage and physical length |
-| Defrost termination thermostat | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Match clip type and temperature rating for the True model |
+| Defrost heater | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?ascsubtag=ecf-true-refrigeration-e4-error-code&tag=errorcodefixes-20) \| True OEM or exact resistance match; match wattage and physical length |
+| Defrost termination thermostat | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-true-refrigeration-e4-error-code&tag=errorcodefixes-20) \| Match clip type and temperature rating for the True model |
 ## When to Call a Pro
 
 If the control board itself is suspected (E4 with a good heater and thermostat), board replacement requires matching the True model and serial number. Commercial refrigeration equipment repair often requires EPA 608 certification if refrigerant work is also needed.

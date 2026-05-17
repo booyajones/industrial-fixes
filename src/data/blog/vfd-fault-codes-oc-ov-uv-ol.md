@@ -71,10 +71,10 @@ Note: exact fault code naming varies by brand. ABB uses "OC1," "OC2," "OC3" for 
 
 | Part | Description | Typical Cost | Where to Buy |
 |------|------------|-------------|-------------|
-| Braking resistor | OV protection for high-inertia loads | $50–$300 | [Amazon](https://www.amazon.com/s?i=industrial&k=OV+protection+for+high-inertia+loads&tag=errorcodefixes-20) \| Automation Direct / Grainger |
-| Input line fuses | UV/OC protection on input | $5–$25 each | [Amazon](https://www.amazon.com/s?i=industrial&k=UV%2FOC+protection+on+input&tag=errorcodefixes-20) \| Grainger / McMaster-Carr |
-| Drive replacement (≤5HP) | If IGBT shorted (OC on every start) | $200–$800 | [Amazon](https://www.amazon.com/s?i=industrial&k=If+IGBT+shorted+%28OC+on+every+start%29&tag=errorcodefixes-20) \| AutomationDirect / Drives Warehouse |
-| External motor cooling fan | OL fix for low-speed applications | $50–$200 | [Amazon](https://www.amazon.com/s?i=industrial&k=OL+fix+for+low-speed+applications&tag=errorcodefixes-20) \| Grainger / Amazon |
+| Braking resistor | OV protection for high-inertia loads | $50–$300 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-vfd-fault-codes-oc-ov-uv-ol&k=OV+protection+for+high-inertia+loads&tag=errorcodefixes-20) \| Automation Direct / Grainger |
+| Input line fuses | UV/OC protection on input | $5–$25 each | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-vfd-fault-codes-oc-ov-uv-ol&k=UV%2FOC+protection+on+input&tag=errorcodefixes-20) \| Grainger / McMaster-Carr |
+| Drive replacement (≤5HP) | If IGBT shorted (OC on every start) | $200–$800 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-vfd-fault-codes-oc-ov-uv-ol&k=If+IGBT+shorted+%28OC+on+every+start%29&tag=errorcodefixes-20) \| AutomationDirect / Drives Warehouse |
+| External motor cooling fan | OL fix for low-speed applications | $50–$200 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-vfd-fault-codes-oc-ov-uv-ol&k=OL+fix+for+low-speed+applications&tag=errorcodefixes-20) \| Grainger / Amazon |
 ## When to Call a Professional
 
 If you've extended ramps, verified motor parameters, confirmed the mechanical load is free, and the fault code still persists — the fault is likely inside the drive (failed IGBT output transistor, blown gate driver, failed DC bus capacitor) or inside the motor (shorted winding, failed bearing causing high current draw). IGBT testing requires live measurements inside the drive's power section with potentially lethal DC bus voltages present (up to 1,000V DC). This work requires a qualified industrial electrician or drive service technician. Most drive manufacturers have authorized service centers that can bench-test drives and perform IGBT module replacement at substantially less cost than a new drive.

@@ -92,11 +92,11 @@ Alarm codes appear as **AL.XX** (decimal) on the display. Some faults can be cle
 
 | Part | Description | Typical Cost | Where to Buy |
 |------|-------------|--------------|--------------|
-| MR-J4 encoder cable (Mitsubishi standard) | Flex or standard duty, various lengths | $60–$220 | [Amazon](https://www.amazon.com/s?i=industrial&k=Mitsubishi+MR-J4+encoder+cable+servo&tag=errorcodefixes-20) \| Mitsubishi distributor |
-| External regenerative resistor MR-RB series | Match to amplifier capacity (MR-RB032, MR-RB14, etc.) | $120–$500 | [Amazon](https://www.amazon.com/s?i=industrial&k=Mitsubishi+MR-RB+regenerative+resistor&tag=errorcodefixes-20) \| Mitsubishi distributor |
-| ER6V 3.6V lithium battery (absolute encoder) | Standard backup battery for MR-J4 absolute encoder | $15–$35 | [Amazon](https://www.amazon.com/s?i=industrial&k=ER6V+3.6V+lithium+battery+servo+encoder&tag=errorcodefixes-20) |
+| MR-J4 encoder cable (Mitsubishi standard) | Flex or standard duty, various lengths | $60–$220 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-mr-j4-servo-alarm-codes&k=Mitsubishi+MR-J4+encoder+cable+servo&tag=errorcodefixes-20) \| Mitsubishi distributor |
+| External regenerative resistor MR-RB series | Match to amplifier capacity (MR-RB032, MR-RB14, etc.) | $120–$500 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-mr-j4-servo-alarm-codes&k=Mitsubishi+MR-RB+regenerative+resistor&tag=errorcodefixes-20) \| Mitsubishi distributor |
+| ER6V 3.6V lithium battery (absolute encoder) | Standard backup battery for MR-J4 absolute encoder | $15–$35 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-mr-j4-servo-alarm-codes&k=ER6V+3.6V+lithium+battery+servo+encoder&tag=errorcodefixes-20) |
 | MR-J4 replacement amplifier (capacity-specific) | 100W, 200W, 400W, 750W, 1kW, 2kW, 3.5kW, 5kW, 7kW, 11kW, 15kW | $1,200–$5,500 | Mitsubishi Electric FA \| Authorized distributor |
-| MR Configurator2 USB cable (MR-J3USBCBL3M) | Required for parameter backup and live diagnostics | $40–$80 | [Amazon](https://www.amazon.com/s?i=industrial&k=Mitsubishi+MR-J3USBCBL+servo+USB+cable&tag=errorcodefixes-20) |
+| MR Configurator2 USB cable (MR-J3USBCBL3M) | Required for parameter backup and live diagnostics | $40–$80 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-mr-j4-servo-alarm-codes&k=Mitsubishi+MR-J3USBCBL+servo+USB+cable&tag=errorcodefixes-20) |
 
 ## When to Call a Professional
 

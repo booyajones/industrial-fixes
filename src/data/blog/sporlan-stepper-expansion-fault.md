@@ -17,14 +17,14 @@ tags:
 
 Sporlan SEI stepper valves are electronic expansion valves used with controllers from Emerson, Carel, Danfoss, and others. The valve itself does not usually display a fault code. The controller reports the fault based on valve position, superheat response, and motor current.
 
-| [Fault](https://www.amazon.com/s?i=industrial&k=Fault&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| [Fault](https://www.amazon.com/s?ascsubtag=ecf-sporlan-stepper-expansion-fault&k=Fault&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |------|---------|-----------|
-| [Valve Not Responding](https://www.amazon.com/s?i=industrial&k=Valve+Not+Responding&tag=errorcodefixes-20) | Stepper motor not moving | Check coil, wiring, and controller output |
-| [Superheat High](https://www.amazon.com/s?i=industrial&k=Superheat+High&tag=errorcodefixes-20) | Valve too closed or starved evaporator | Check refrigerant charge and valve movement |
-| [Superheat Low](https://www.amazon.com/s?i=industrial&k=Superheat+Low&tag=errorcodefixes-20) | Valve too open / flooding | Check sensor placement and controller tuning |
-| [Hunting](https://www.amazon.com/s?i=industrial&k=Hunting&tag=errorcodefixes-20) | Valve over-correcting | Check PID tuning and sensor stability |
-| [Coil Open](https://www.amazon.com/s?i=industrial&k=Coil+Open&tag=errorcodefixes-20) | Stepper winding open | Measure winding resistance |
-| [Coil Short](https://www.amazon.com/s?i=industrial&k=Coil+Short&tag=errorcodefixes-20) | Stepper winding shorted | Replace motor assembly |
+| [Valve Not Responding](https://www.amazon.com/s?ascsubtag=ecf-sporlan-stepper-expansion-fault&k=Valve+Not+Responding&tag=errorcodefixes-20) | Stepper motor not moving | Check coil, wiring, and controller output |
+| [Superheat High](https://www.amazon.com/s?ascsubtag=ecf-sporlan-stepper-expansion-fault&k=Superheat+High&tag=errorcodefixes-20) | Valve too closed or starved evaporator | Check refrigerant charge and valve movement |
+| [Superheat Low](https://www.amazon.com/s?ascsubtag=ecf-sporlan-stepper-expansion-fault&k=Superheat+Low&tag=errorcodefixes-20) | Valve too open / flooding | Check sensor placement and controller tuning |
+| [Hunting](https://www.amazon.com/s?ascsubtag=ecf-sporlan-stepper-expansion-fault&k=Hunting&tag=errorcodefixes-20) | Valve over-correcting | Check PID tuning and sensor stability |
+| [Coil Open](https://www.amazon.com/s?ascsubtag=ecf-sporlan-stepper-expansion-fault&k=Coil+Open&tag=errorcodefixes-20) | Stepper winding open | Measure winding resistance |
+| [Coil Short](https://www.amazon.com/s?ascsubtag=ecf-sporlan-stepper-expansion-fault&k=Coil+Short&tag=errorcodefixes-20) | Stepper winding shorted | Replace motor assembly |
 
 ## Most Common Faults
 
@@ -39,11 +39,11 @@ If the suction pressure and superheat swing up and down every few minutes, the E
 
 ## Quick Electrical Checks
 
-| [Test](https://www.amazon.com/s?i=industrial&k=Test&tag=errorcodefixes-20) | Expected Result |
+| [Test](https://www.amazon.com/s?ascsubtag=ecf-sporlan-stepper-expansion-fault&k=Test&tag=errorcodefixes-20) | Expected Result |
 |-----|-----------------|
-| [Coil winding resistance](https://www.amazon.com/s?i=industrial&k=Coil+winding+resistance&tag=errorcodefixes-20) | Similar resistance on each phase pair |
-| [Controller command output](https://www.amazon.com/s?i=industrial&k=Controller+command+output&tag=errorcodefixes-20) | Step count changes during load change |
-| [Sensor reading](https://www.amazon.com/s?i=industrial&k=Sensor+reading&tag=errorcodefixes-20) | Stable, believable suction temp and pressure |
+| [Coil winding resistance](https://www.amazon.com/s?ascsubtag=ecf-sporlan-stepper-expansion-fault&k=Coil+winding+resistance&tag=errorcodefixes-20) | Similar resistance on each phase pair |
+| [Controller command output](https://www.amazon.com/s?ascsubtag=ecf-sporlan-stepper-expansion-fault&k=Controller+command+output&tag=errorcodefixes-20) | Step count changes during load change |
+| [Sensor reading](https://www.amazon.com/s?ascsubtag=ecf-sporlan-stepper-expansion-fault&k=Sensor+reading&tag=errorcodefixes-20) | Stable, believable suction temp and pressure |
 
 ## Jump to Fix
 

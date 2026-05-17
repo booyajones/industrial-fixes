@@ -413,6 +413,6 @@ To erase all stored fault history and return to factory defaults: transition **B
 
 Find replacement parts for Copeland scroll compressors on Amazon:
 
-- [Copeland Compressor Parts & Accessories](https://www.amazon.com/s?i=industrial&k=Copeland+compressor+parts&tag=errorcodefixes-20)
-- [Copeland CoreSense Module Replacement](https://www.amazon.com/s?i=industrial&k=Copeland+CoreSense+module+replacement&tag=errorcodefixes-20)
-- [Copeland Scroll Compressor Thermistor](https://www.amazon.com/s?i=industrial&k=Copeland+scroll+compressor+thermistor&tag=errorcodefixes-20)
+- [Copeland Compressor Parts & Accessories](https://www.amazon.com/s?ascsubtag=ecf-copeland-scroll-compressor-fault-codes&k=Copeland+compressor+parts&tag=errorcodefixes-20)
+- [Copeland CoreSense Module Replacement](https://www.amazon.com/s?ascsubtag=ecf-copeland-scroll-compressor-fault-codes&k=Copeland+CoreSense+module+replacement&tag=errorcodefixes-20)
+- [Copeland Scroll Compressor Thermistor](https://www.amazon.com/s?ascsubtag=ecf-copeland-scroll-compressor-fault-codes&k=Copeland+scroll+compressor+thermistor&tag=errorcodefixes-20)

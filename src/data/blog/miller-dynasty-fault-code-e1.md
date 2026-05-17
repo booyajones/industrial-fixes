@@ -36,9 +36,9 @@ The E1 fault on Miller Dynasty TIG welders (Dynasty 200, 210, 280, 300, and 350 
 
 | Part | Notes |
 |------|-------|
-| Input power cable / plug | [Amazon](https://www.amazon.com/s?i=industrial&k=Input+power+cable+%2F+plug&tag=errorcodefixes-20) \| Replace if damaged or high resistance |
-| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| If E1 persists with correct, stable input voltage |
-| Input voltage selector / jumper | [Amazon](https://www.amazon.com/s?i=industrial&k=Input+voltage+selector+%2F+jumper&tag=errorcodefixes-20) \| If installed incorrectly during a prior repair |
+| Input power cable / plug | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-miller-dynasty-fault-code-e1&k=Input+power+cable+%2F+plug&tag=errorcodefixes-20) \| Replace if damaged or high resistance |
+| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-miller-dynasty-fault-code-e1&tag=errorcodefixes-20) \| If E1 persists with correct, stable input voltage |
+| Input voltage selector / jumper | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-miller-dynasty-fault-code-e1&k=Input+voltage+selector+%2F+jumper&tag=errorcodefixes-20) \| If installed incorrectly during a prior repair |
 ## When to Call a Pro
 
 If input voltage is confirmed stable and within spec and E1 still trips, the internal voltage sensing circuitry or control board has failed. Miller Dynasty authorized service handles board-level diagnosis and replacement.

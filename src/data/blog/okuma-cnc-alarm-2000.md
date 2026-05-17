@@ -40,10 +40,10 @@ tags:
 
 | Part | Notes |
 |------|-------|
-| Cabinet cooling fan | [Amazon](https://www.amazon.com/s?i=industrial&k=Cabinet+cooling+fan&tag=errorcodefixes-20) \| Replace if airflow is weak |
-| Power supply module | [Amazon](https://www.amazon.com/s?i=industrial&k=Power+supply+module&tag=errorcodefixes-20) \| Needed if low-voltage DC rails are unstable |
-| I/O or communication board | [Amazon](https://www.amazon.com/s?i=industrial&k=I%2FO+or+communication+board&tag=errorcodefixes-20) \| Replace only after power and cooling checks |
-| Ribbon / data cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Ribbon+%2F+data+cable&tag=errorcodefixes-20) \| Common aging failure point |
+| Cabinet cooling fan | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-okuma-cnc-alarm-2000&k=Cabinet+cooling+fan&tag=errorcodefixes-20) \| Replace if airflow is weak |
+| Power supply module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-okuma-cnc-alarm-2000&k=Power+supply+module&tag=errorcodefixes-20) \| Needed if low-voltage DC rails are unstable |
+| I/O or communication board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-okuma-cnc-alarm-2000&k=I%2FO+or+communication+board&tag=errorcodefixes-20) \| Replace only after power and cooling checks |
+| Ribbon / data cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-okuma-cnc-alarm-2000&k=Ribbon+%2F+data+cable&tag=errorcodefixes-20) \| Common aging failure point |
 ## When to Call a Pro
 
 If Alarm 2000 is intermittent and tied to heat, vibration, or startup, the problem is often deeper than a single board. An Okuma specialist can isolate the failing module faster than trial and error.

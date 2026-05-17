@@ -39,10 +39,10 @@ On York furnaces with LED display panels (YP9C, TM9V, and related models), E4 in
 
 | Part | Notes |
 |------|-------|
-| Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Match exact part — York uses both 120V silicon carbide and 80V silicon nitride types |
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Universal sensors work but OEM preferred for reliability |
-| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Replace only after confirming 24VAC at valve terminals with no gas flow |
-| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Last resort — if ignitor, sensor, and gas valve all check out |
+| Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-york-furnace-error-code-e4&tag=errorcodefixes-20) \| Match exact part — York uses both 120V silicon carbide and 80V silicon nitride types |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-york-furnace-error-code-e4&tag=errorcodefixes-20) \| Universal sensors work but OEM preferred for reliability |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-york-furnace-error-code-e4&tag=errorcodefixes-20) \| Replace only after confirming 24VAC at valve terminals with no gas flow |
+| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-york-furnace-error-code-e4&tag=errorcodefixes-20) \| Last resort — if ignitor, sensor, and gas valve all check out |
 ## When to Call a Pro
 
 Gas valve replacement requires leak-testing all connections with a manometer or soap solution. If you're not comfortable working with gas lines or you have propane (higher pressure, different hazard profile), call a licensed HVAC technician.

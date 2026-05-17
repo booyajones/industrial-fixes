@@ -57,11 +57,11 @@ This is one of the most frequently searched Rinnai fault codes and covers a spec
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|-------------|
-| Rinnai Combustion Fan Motor | $80–$150 | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) |
-| Rinnai Condensate Trap / Drain Kit | $15–$30 | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) |
-| Rinnai Differential Pressure Switch | $25–$55 | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) |
-| Rinnai Heat Exchanger (primary) | $300–$600+ | [Amazon](https://www.amazon.com/s?i=industrial&k=Rinnai+heat+exchanger+tankless+primary&tag=errorcodefixes-20) |
-| Vent Pipe Bird Guard / Screen | $10–$20 | [Amazon](https://www.amazon.com/s?i=industrial&k=PVC+vent+termination+bird+guard&tag=errorcodefixes-20) |
+| Rinnai Combustion Fan Motor | $80–$150 | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-rinnai-error-code-10&tag=errorcodefixes-20) |
+| Rinnai Condensate Trap / Drain Kit | $15–$30 | [Amazon](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-rinnai-error-code-10&tag=errorcodefixes-20) |
+| Rinnai Differential Pressure Switch | $25–$55 | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-rinnai-error-code-10&tag=errorcodefixes-20) |
+| Rinnai Heat Exchanger (primary) | $300–$600+ | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-error-code-10&k=Rinnai+heat+exchanger+tankless+primary&tag=errorcodefixes-20) |
+| Vent Pipe Bird Guard / Screen | $10–$20 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-error-code-10&k=PVC+vent+termination+bird+guard&tag=errorcodefixes-20) |
 
 ## When to Call a Technician
 

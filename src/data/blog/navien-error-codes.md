@@ -15,21 +15,21 @@ tags:
 
 Navien tankless water heaters (NPE-A, NPE-S, NPE-2, NHB, NCB series) display fault codes on the front panel LED display. Codes appear as "E" followed by three numbers. Navien also uses a NaviLink or Navien Connect app on WiFi-enabled models for remote diagnostics.
 
-| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| [Code](https://www.amazon.com/s?ascsubtag=ecf-navien-error-codes&k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |------|---------|-----------|
-| [E001](https://www.amazon.com/s?i=industrial&k="E001"&tag=errorcodefixes-20) | Abnormal ignition | Check gas supply and igniter |
-| [E002](https://www.amazon.com/s?i=industrial&k="E002"&tag=errorcodefixes-20) | Flame failure after ignition | Gas pressure or flame sensor |
-| [E003](https://www.amazon.com/s?i=industrial&k="E003"&tag=errorcodefixes-20) | Ignition failure (all retries) | Gas valve, igniter, or gas supply |
-| [E004](https://www.amazon.com/s?i=industrial&k="E004"&tag=errorcodefixes-20) | False flame detection | Flame sensor or gas valve |
-| [E006](https://www.amazon.com/s?i=industrial&k="E006"&tag=errorcodefixes-20) | Over-temperature at heat exchanger | Flush scale; check flow |
-| [E007](https://www.amazon.com/s?i=industrial&k="E007"&tag=errorcodefixes-20) | Flow sensor fault | Check flow sensor or filter |
-| [E009](https://www.amazon.com/s?i=industrial&k="E009"&tag=errorcodefixes-20) | Fan motor fault | Check fan motor and wiring |
-| [E010](https://www.amazon.com/s?i=industrial&k="E010"&tag=errorcodefixes-20) | Gas pressure sensor fault | Check gas pressure sensor |
-| [E012](https://www.amazon.com/s?i=industrial&k="E012"&tag=errorcodefixes-20) | Flame rod circuit fault | Check flame sensor wiring |
-| [E013](https://www.amazon.com/s?i=industrial&k="E013"&tag=errorcodefixes-20) | Rollout switch | Inspect venting; check switch |
-| [E016](https://www.amazon.com/s?i=industrial&k="E016"&tag=errorcodefixes-20) | Overheating | Water scale; check flow rate |
-| [E030](https://www.amazon.com/s?i=industrial&k="E030"&tag=errorcodefixes-20) | Exhaust thermistor fault | Check exhaust thermistor |
-| [E302](https://www.amazon.com/s?i=industrial&k="E302"&tag=errorcodefixes-20) | Abnormal water temperature | Flow issue or thermistor fault |
+| [E001](https://www.amazon.com/s?ascsubtag=ecf-navien-error-codes&k="E001"&tag=errorcodefixes-20) | Abnormal ignition | Check gas supply and igniter |
+| [E002](https://www.amazon.com/s?ascsubtag=ecf-navien-error-codes&k="E002"&tag=errorcodefixes-20) | Flame failure after ignition | Gas pressure or flame sensor |
+| [E003](https://www.amazon.com/s?ascsubtag=ecf-navien-error-codes&k="E003"&tag=errorcodefixes-20) | Ignition failure (all retries) | Gas valve, igniter, or gas supply |
+| [E004](https://www.amazon.com/s?ascsubtag=ecf-navien-error-codes&k="E004"&tag=errorcodefixes-20) | False flame detection | Flame sensor or gas valve |
+| [E006](https://www.amazon.com/s?ascsubtag=ecf-navien-error-codes&k="E006"&tag=errorcodefixes-20) | Over-temperature at heat exchanger | Flush scale; check flow |
+| [E007](https://www.amazon.com/s?ascsubtag=ecf-navien-error-codes&k="E007"&tag=errorcodefixes-20) | Flow sensor fault | Check flow sensor or filter |
+| [E009](https://www.amazon.com/s?ascsubtag=ecf-navien-error-codes&k="E009"&tag=errorcodefixes-20) | Fan motor fault | Check fan motor and wiring |
+| [E010](https://www.amazon.com/s?ascsubtag=ecf-navien-error-codes&k="E010"&tag=errorcodefixes-20) | Gas pressure sensor fault | Check gas pressure sensor |
+| [E012](https://www.amazon.com/s?ascsubtag=ecf-navien-error-codes&k="E012"&tag=errorcodefixes-20) | Flame rod circuit fault | Check flame sensor wiring |
+| [E013](https://www.amazon.com/s?ascsubtag=ecf-navien-error-codes&k="E013"&tag=errorcodefixes-20) | Rollout switch | Inspect venting; check switch |
+| [E016](https://www.amazon.com/s?ascsubtag=ecf-navien-error-codes&k="E016"&tag=errorcodefixes-20) | Overheating | Water scale; check flow rate |
+| [E030](https://www.amazon.com/s?ascsubtag=ecf-navien-error-codes&k="E030"&tag=errorcodefixes-20) | Exhaust thermistor fault | Check exhaust thermistor |
+| [E302](https://www.amazon.com/s?ascsubtag=ecf-navien-error-codes&k="E302"&tag=errorcodefixes-20) | Abnormal water temperature | Flow issue or thermistor fault |
 
 ## Most Common Codes
 

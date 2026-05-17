@@ -61,12 +61,12 @@ The board is receiving inadequate or no 24V power. Check the transformer, the fu
 
 | Part | Use | Buy on Amazon |
 |------|-----|---------------|
-| Lennox/Universal Hot Surface Igniter (Norton 271N) | Replace failed igniter causing Code 2 or 7 | [View on Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) |
-| Furnace Flame Sensor Rod (universal 1/4" terminal) | Replace or clean corroded flame sensor causing Code 7 | [View on Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) |
-| 3/8" ID Vinyl Pressure Switch Hose (5 ft) | Replace cracked pressure switch tubing causing Code 3 | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) |
-| Furnace Pressure Switch (universal .50 WC single-stage) | Replace failed pressure switch after hose checks out | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) |
-| 16x25x1 MERV-8 Air Filter (6-pack) | Clear high-limit fault by restoring airflow | [View on Amazon](https://www.amazon.com/s?i=industrial&k=16x25x1+merv+8+furnace+filter+6+pack&tag=errorcodefixes-20) |
-| Multimeter with Microamp DC Setting | Test flame sensor current (should read 1–10 μA when proven) | [View on Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) |
+| Lennox/Universal Hot Surface Igniter (Norton 271N) | Replace failed igniter causing Code 2 or 7 | [View on Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-lennox-merit-series-2025-error-codes&tag=errorcodefixes-20) |
+| Furnace Flame Sensor Rod (universal 1/4" terminal) | Replace or clean corroded flame sensor causing Code 7 | [View on Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-lennox-merit-series-2025-error-codes&tag=errorcodefixes-20) |
+| 3/8" ID Vinyl Pressure Switch Hose (5 ft) | Replace cracked pressure switch tubing causing Code 3 | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-lennox-merit-series-2025-error-codes&tag=errorcodefixes-20) |
+| Furnace Pressure Switch (universal .50 WC single-stage) | Replace failed pressure switch after hose checks out | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-lennox-merit-series-2025-error-codes&tag=errorcodefixes-20) |
+| 16x25x1 MERV-8 Air Filter (6-pack) | Clear high-limit fault by restoring airflow | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-lennox-merit-series-2025-error-codes&k=16x25x1+merv+8+furnace+filter+6+pack&tag=errorcodefixes-20) |
+| Multimeter with Microamp DC Setting | Test flame sensor current (should read 1–10 μA when proven) | [View on Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-lennox-merit-series-2025-error-codes&tag=errorcodefixes-20) |
 
 ## When to Call a Pro
 

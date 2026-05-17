@@ -50,9 +50,9 @@ The real-time clock battery (typically a CR2032) powers the internal clock durin
 
 | Part | Notes |
 |------|-------|
-| CT shorting blocks | [Amazon](https://www.amazon.com/s?i=industrial&k=CT+shorting+blocks&tag=errorcodefixes-20) \| Safety-critical — keep available for maintenance |
-| RS-485 termination resistors | [Amazon](https://www.amazon.com/s?i=industrial&k=RS-485+termination+resistors&tag=errorcodefixes-20) \| 120╬⌐ — for Modbus network |
-| CR2032 battery | [Amazon](https://www.amazon.com/s?i=industrial&k=CR2032+battery&tag=errorcodefixes-20) \| Internal RTC backup |
-| USB-to-RS485 adapter | [Amazon](https://www.amazon.com/s?i=industrial&k=USB-to-RS485+adapter&tag=errorcodefixes-20) \| For meter configuration and data download |
-| Replacement meter | [Amazon](https://www.amazon.com/s?i=industrial&k=Replacement+meter&tag=errorcodefixes-20) \| Compare meter to existing when replacing — verify register mapping |
+| CT shorting blocks | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-eaton-power-meter-fault-codes&k=CT+shorting+blocks&tag=errorcodefixes-20) \| Safety-critical — keep available for maintenance |
+| RS-485 termination resistors | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-eaton-power-meter-fault-codes&k=RS-485+termination+resistors&tag=errorcodefixes-20) \| 120╬⌐ — for Modbus network |
+| CR2032 battery | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-eaton-power-meter-fault-codes&k=CR2032+battery&tag=errorcodefixes-20) \| Internal RTC backup |
+| USB-to-RS485 adapter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-eaton-power-meter-fault-codes&k=USB-to-RS485+adapter&tag=errorcodefixes-20) \| For meter configuration and data download |
+| Replacement meter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-eaton-power-meter-fault-codes&k=Replacement+meter&tag=errorcodefixes-20) \| Compare meter to existing when replacing — verify register mapping |
 > **Pro tip:** Eaton Power Xpert Meters support energy data export to PowerNet, EnergyAware, and third-party SCADA platforms. Always download historical demand data before replacing a meter — billing data may be required for utility reconciliation.

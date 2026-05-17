@@ -40,10 +40,10 @@ tags:
 
 | Part | Notes |
 |------|-------|
-| Way lube metering unit | [Amazon](https://www.amazon.com/s?i=industrial&k=Way+lube+metering+unit&tag=errorcodefixes-20) \| Replace if Z-axis is running dry |
-| Servo motor brake assembly | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+motor+brake+assembly&tag=errorcodefixes-20) \| If brake is dragging |
-| Counterbalance seals / regulator parts | [Amazon](https://www.amazon.com/s?i=industrial&k=Counterbalance+seals+%2F+regulator+parts&tag=errorcodefixes-20) \| If pressure will not hold |
-| Z-axis thrust bearings | [Amazon](https://www.amazon.com/s?i=industrial&k=Z-axis+thrust+bearings&tag=errorcodefixes-20) \| Replace if ballscrew is tight or noisy |
+| Way lube metering unit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-409&k=Way+lube+metering+unit&tag=errorcodefixes-20) \| Replace if Z-axis is running dry |
+| Servo motor brake assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-409&k=Servo+motor+brake+assembly&tag=errorcodefixes-20) \| If brake is dragging |
+| Counterbalance seals / regulator parts | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-409&k=Counterbalance+seals+%2F+regulator+parts&tag=errorcodefixes-20) \| If pressure will not hold |
+| Z-axis thrust bearings | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-409&k=Z-axis+thrust+bearings&tag=errorcodefixes-20) \| Replace if ballscrew is tight or noisy |
 ## When to Call a Pro
 
 If the Z-axis binds only in part of travel or the servo load is unstable, the machine may need alignment work, ballscrew service, or servo tuning beyond routine maintenance.

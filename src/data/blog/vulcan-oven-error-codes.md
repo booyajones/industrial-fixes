@@ -46,9 +46,9 @@ The control board lost communication with a connected module. Power cycle. If E5
 
 | Part | Notes |
 |------|-------|
-| Temperature sensor / thermocouple | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Match to Vulcan oven model |
-| Igniter assembly | [Amazon](https://www.amazon.com/s?i=industrial&k=Igniter+assembly&tag=errorcodefixes-20) \| For E3 on gas units |
-| Convection fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| For E4 |
+| Temperature sensor / thermocouple | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-vulcan-oven-error-codes&tag=errorcodefixes-20) \| Match to Vulcan oven model |
+| Igniter assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-vulcan-oven-error-codes&k=Igniter+assembly&tag=errorcodefixes-20) \| For E3 on gas units |
+| Convection fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-vulcan-oven-error-codes&tag=errorcodefixes-20) \| For E4 |
 ## When to Call a Pro
 
 Gas valve replacement and high-temperature safety device work requires a certified commercial kitchen equipment technician.

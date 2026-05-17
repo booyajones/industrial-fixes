@@ -51,12 +51,12 @@ A quick rule of thumb: if the drive trips with the motor disconnected, the probl
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
-| Class J or CC fuse set for your drive feeder | Replaces weak or blown input fuse on one phase | $20–$60 — [Search on Amazon](https://www.amazon.com/s?i=industrial&k=three+phase+motor+fuses+class+j&tag=errorcodefixes-20) |
-| 3-pole definite purpose contactor | Fixes dropping line voltage from burned contacts | $25–$80 — [Search on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) |
-| Allen-Bradley PowerFlex 525 replacement drive | Needed if internal rectifier or input section fails | $400–$900 — [Search on Amazon](https://www.amazon.com/s?i=industrial&k=Allen+Bradley+PowerFlex+525+VFD&tag=errorcodefixes-20) |
-| True RMS multimeter | Needed to verify three-phase line voltage accurately | $40–$150 — [Search on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) |
-| Torque screwdriver or torque wrench | Prevents recurring loose-line termination faults | $30–$120 — [Search on Amazon](https://www.amazon.com/s?i=industrial&k=electrical+torque+screwdriver&tag=errorcodefixes-20) |
-| DIN-rail fuse holder kit | Useful when replacing damaged input fuse hardware | $15–$45 — [Search on Amazon](https://www.amazon.com/s?i=industrial&k=din+rail+fuse+holder+3+pole&tag=errorcodefixes-20) |
+| Class J or CC fuse set for your drive feeder | Replaces weak or blown input fuse on one phase | $20–$60 — [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-525-fault-f003&k=three+phase+motor+fuses+class+j&tag=errorcodefixes-20) |
+| 3-pole definite purpose contactor | Fixes dropping line voltage from burned contacts | $25–$80 — [Search on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-allen-bradley-powerflex-525-fault-f003&tag=errorcodefixes-20) |
+| Allen-Bradley PowerFlex 525 replacement drive | Needed if internal rectifier or input section fails | $400–$900 — [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-525-fault-f003&k=Allen+Bradley+PowerFlex+525+VFD&tag=errorcodefixes-20) |
+| True RMS multimeter | Needed to verify three-phase line voltage accurately | $40–$150 — [Search on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?ascsubtag=ecf-allen-bradley-powerflex-525-fault-f003&tag=errorcodefixes-20) |
+| Torque screwdriver or torque wrench | Prevents recurring loose-line termination faults | $30–$120 — [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-525-fault-f003&k=electrical+torque+screwdriver&tag=errorcodefixes-20) |
+| DIN-rail fuse holder kit | Useful when replacing damaged input fuse hardware | $15–$45 — [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-525-fault-f003&k=din+rail+fuse+holder+3+pole&tag=errorcodefixes-20) |
 
 ## When to Call a Pro
 

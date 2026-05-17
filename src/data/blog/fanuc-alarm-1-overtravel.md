@@ -36,8 +36,8 @@ Fanuc alarm 1 (OT0001: OVER TRAVEL: -X, or the corresponding axis) is a hardware
 
 | Part | Notes |
 |------|-------|
-| Hardware overtravel limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Replace if switch is damaged or producing false signals |
-| Switch mounting bracket | [Amazon](https://www.amazon.com/s?i=industrial&k=Switch+mounting+bracket&tag=errorcodefixes-20) \| Replace if bracket is bent and mis-positioning the switch |
+| Hardware overtravel limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-fanuc-alarm-1-overtravel&tag=errorcodefixes-20) \| Replace if switch is damaged or producing false signals |
+| Switch mounting bracket | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-1-overtravel&k=Switch+mounting+bracket&tag=errorcodefixes-20) \| Replace if bracket is bent and mis-positioning the switch |
 ## When to Call a Pro
 
 If the axis hits the overtravel switch during normal operation with correct offsets and the soft limits are set, the servo system may be following position errors that exceed the tolerance — a servo gain or mechanical problem requiring a Fanuc service engineer to diagnose.

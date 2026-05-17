@@ -37,9 +37,9 @@ E4 on a Comfortmaker furnace indicates an ignition failure lockout — the contr
 
 | Part | Notes |
 |------|-------|
-| Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Match voltage (120V) and mounting style; OEM or quality aftermarket |
-| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Replace if cleaning does not restore normal microamp signal |
-| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Replace only after confirming 24VAC input with no output |
+| Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-comfortmaker-furnace-e4-error-code&tag=errorcodefixes-20) \| Match voltage (120V) and mounting style; OEM or quality aftermarket |
+| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-comfortmaker-furnace-e4-error-code&tag=errorcodefixes-20) \| Replace if cleaning does not restore normal microamp signal |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-comfortmaker-furnace-e4-error-code&tag=errorcodefixes-20) \| Replace only after confirming 24VAC input with no output |
 ## When to Call a Pro
 
 If gas supply pressure requires measurement, or if the gas valve needs replacement, contact a licensed HVAC technician — gas valve work involves live gas lines and requires proper pressure gauges and leak-testing.

@@ -34,12 +34,12 @@ If step 3 or 4 fails, E3 is stored.
 
 | Cause | Check |
 |---|---|
-| [Condensate drain blocked](https://www.amazon.com/s?i=industrial&k=Condensate+drain+blocked&tag=errorcodefixes-20) | Water backed up, blocking switch port |
-| [Pressure switch hose cracked/off](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) | Trace all small rubber hoses |
-| [Pressure switch failed](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | Won't close under suction |
-| [Inducer motor not spinning](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) | Bad motor, capacitor, or IFC output |
-| [Blocked flue or intake](https://www.amazon.com/s?i=industrial&k=Blocked+flue+or+intake&tag=errorcodefixes-20) | No draft pressure builds |
-| [Cold weather ice blockage](https://www.amazon.com/s?i=industrial&k=Cold+weather+ice+blockage&tag=errorcodefixes-20) | Frozen condensate or flue ice |
+| [Condensate drain blocked](https://www.amazon.com/s?ascsubtag=ecf-goodman-furnace-e3-error-code&k=Condensate+drain+blocked&tag=errorcodefixes-20) | Water backed up, blocking switch port |
+| [Pressure switch hose cracked/off](https://www.amazon.com/dp/B0CPTHML1N?ascsubtag=ecf-goodman-furnace-e3-error-code&tag=errorcodefixes-20) | Trace all small rubber hoses |
+| [Pressure switch failed](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-goodman-furnace-e3-error-code&tag=errorcodefixes-20) | Won't close under suction |
+| [Inducer motor not spinning](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-goodman-furnace-e3-error-code&tag=errorcodefixes-20) | Bad motor, capacitor, or IFC output |
+| [Blocked flue or intake](https://www.amazon.com/s?ascsubtag=ecf-goodman-furnace-e3-error-code&k=Blocked+flue+or+intake&tag=errorcodefixes-20) | No draft pressure builds |
+| [Cold weather ice blockage](https://www.amazon.com/s?ascsubtag=ecf-goodman-furnace-e3-error-code&k=Cold+weather+ice+blockage&tag=errorcodefixes-20) | Frozen condensate or flue ice |
 
 ## Diagnosis Steps
 
@@ -74,11 +74,11 @@ If the motor runs but E3 persists, the motor may not be generating enough suctio
 
 | Part | Typical Cost |
 |---|---|
-| [Pressure switch (OEM)](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | $30–70 |
-| [Pressure switch hose](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) | $5–10 |
-| [Inducer motor (Goodman OEM)](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) | $150–350 |
-| [Condensate trap](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) | $15–30 |
-| [IFC board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | $100–280 |
+| [Pressure switch (OEM)](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-goodman-furnace-e3-error-code&tag=errorcodefixes-20) | $30–70 |
+| [Pressure switch hose](https://www.amazon.com/dp/B0CPTHML1N?ascsubtag=ecf-goodman-furnace-e3-error-code&tag=errorcodefixes-20) | $5–10 |
+| [Inducer motor (Goodman OEM)](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-goodman-furnace-e3-error-code&tag=errorcodefixes-20) | $150–350 |
+| [Condensate trap](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-goodman-furnace-e3-error-code&tag=errorcodefixes-20) | $15–30 |
+| [IFC board](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-goodman-furnace-e3-error-code&tag=errorcodefixes-20) | $100–280 |
 
 ## E3 vs. E1
 

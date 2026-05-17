@@ -55,12 +55,12 @@ The Carrier 48XLC is a light commercial single-package gas/electric rooftop unit
 
 | Part | Notes |
 |---|---|
-| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Fan motor capacitor; check before replacing motor |
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match existing HP, RPM, and shaft diameter |
-| Supply air sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Supply+air+sensor&tag=errorcodefixes-20) \| NTC thermistor; causes Code 8 or freeze lockout |
-| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Spade terminal; 610 PSIG for R-410A |
-| WeatherMaker control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For Code 10; verify fuses first |
-| Compressor contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Check contact gap and coil resistance |
+| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-carrier-48xlc-error-codes&tag=errorcodefixes-20) \| Fan motor capacitor; check before replacing motor |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-carrier-48xlc-error-codes&tag=errorcodefixes-20) \| Match existing HP, RPM, and shaft diameter |
+| Supply air sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-48xlc-error-codes&k=Supply+air+sensor&tag=errorcodefixes-20) \| NTC thermistor; causes Code 8 or freeze lockout |
+| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-48xlc-error-codes&tag=errorcodefixes-20) \| Spade terminal; 610 PSIG for R-410A |
+| WeatherMaker control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-carrier-48xlc-error-codes&tag=errorcodefixes-20) \| For Code 10; verify fuses first |
+| Compressor contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-carrier-48xlc-error-codes&tag=errorcodefixes-20) \| Check contact gap and coil resistance |
 ## When to Call a Pro
 
 Commercial packaged units require licensed HVAC-R technicians for refrigerant work and, in many jurisdictions, a commercial HVAC contractor license for service. BACnet/IP integration troubleshooting requires network access and familiarity with the building automation system. Compressor replacement on a 48XLC is a 4–8 hour job requiring cranes or rigging for heavy-tonnage units.

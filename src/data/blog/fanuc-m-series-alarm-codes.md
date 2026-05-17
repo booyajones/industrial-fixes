@@ -61,11 +61,11 @@ Emergency measure: hold the RESET button, select JOG mode, and jog the axis away
 
 | Part | Notes |
 |------|-------|
-| Encoder battery | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+battery&tag=errorcodefixes-20) \| A06B-6073-K001, Fanuc standard |
-| Fiber optic cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Fiber+optic+cable&tag=errorcodefixes-20) \| Match spindle amplifier type |
-| Servo motor encoder | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+motor+encoder&tag=errorcodefixes-20) \| Alpha-i or beta-i — match spec |
-| Servo amplifier | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+amplifier&tag=errorcodefixes-20) \| Match axis current rating |
-| Control board (CNC) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Contact Fanuc for PCB replacement |
+| Encoder battery | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-m-series-alarm-codes&k=Encoder+battery&tag=errorcodefixes-20) \| A06B-6073-K001, Fanuc standard |
+| Fiber optic cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-m-series-alarm-codes&k=Fiber+optic+cable&tag=errorcodefixes-20) \| Match spindle amplifier type |
+| Servo motor encoder | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-m-series-alarm-codes&k=Servo+motor+encoder&tag=errorcodefixes-20) \| Alpha-i or beta-i — match spec |
+| Servo amplifier | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-m-series-alarm-codes&k=Servo+amplifier&tag=errorcodefixes-20) \| Match axis current rating |
+| Control board (CNC) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-fanuc-m-series-alarm-codes&tag=errorcodefixes-20) \| Contact Fanuc for PCB replacement |
 > **Pro tip:** All Fanuc M-series controls maintain alarm history. Access via SYSTEM ΓåÆ ALARM ΓåÆ ALARM HISTORY. The history includes timestamp, axis, and alarm detail — critical for diagnosing intermittent faults that don't repeat on demand.
 
 ## Related Articles

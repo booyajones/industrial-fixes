@@ -39,10 +39,10 @@ Beverage-Air error code E2 usually means the evaporator sensor is out of range. 
 
 | Part | Notes |
 |------|-------|
-| Evaporator sensor / probe | [Amazon](https://www.amazon.com/s?i=industrial&k=beverage-air+evaporator+sensor&tag=errorcodefixes-20) \| Match the controller and cabinet series |
-| Sensor harness | [Amazon](https://www.amazon.com/s?i=industrial&k=refrigeration+sensor+harness&tag=errorcodefixes-20) \| Replace if the original wire run is damaged |
-| Defrost heater | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) \| Useful if repeated icing caused the sensor alarm |
-| Temperature controller | [Amazon](https://www.amazon.com/s?i=industrial&k=beverage-air+temperature+controller&tag=errorcodefixes-20) \| Replace only after proving the probe is good |
+| Evaporator sensor / probe | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-beverage-air-refrigerator-error-code-e2&k=beverage-air+evaporator+sensor&tag=errorcodefixes-20) \| Match the controller and cabinet series |
+| Sensor harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-beverage-air-refrigerator-error-code-e2&k=refrigeration+sensor+harness&tag=errorcodefixes-20) \| Replace if the original wire run is damaged |
+| Defrost heater | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?ascsubtag=ecf-beverage-air-refrigerator-error-code-e2&tag=errorcodefixes-20) \| Useful if repeated icing caused the sensor alarm |
+| Temperature controller | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-beverage-air-refrigerator-error-code-e2&k=beverage-air+temperature+controller&tag=errorcodefixes-20) \| Replace only after proving the probe is good |
 
 ## When to Call a Pro
 

@@ -36,9 +36,9 @@ Carrier heat pump error code **E5** indicates a **defrost fault** — the heat p
 
 | Part | Notes |
 |------|-------|
-| Outdoor coil thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Outdoor+coil+thermistor&tag=errorcodefixes-20) \| Carrier 338818-702 or model-specific |
-| Reversing valve solenoid coil | [Amazon](https://www.amazon.com/s?i=industrial&k=Reversing+valve+solenoid+coil&tag=errorcodefixes-20) \| 24V AC solenoid coil |
-| Reversing valve (if stuck) | [Amazon](https://www.amazon.com/s?i=industrial&k=Reversing+valve+%28if+stuck%29&tag=errorcodefixes-20) \| Mechanical replacement — requires brazing |
+| Outdoor coil thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-heat-pump-e5-error-code&k=Outdoor+coil+thermistor&tag=errorcodefixes-20) \| Carrier 338818-702 or model-specific |
+| Reversing valve solenoid coil | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-heat-pump-e5-error-code&k=Reversing+valve+solenoid+coil&tag=errorcodefixes-20) \| 24V AC solenoid coil |
+| Reversing valve (if stuck) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-heat-pump-e5-error-code&k=Reversing+valve+%28if+stuck%29&tag=errorcodefixes-20) \| Mechanical replacement — requires brazing |
 ## When to Call a Pro
 Low refrigerant charge and reversing valve replacement require an EPA 608-certified HVAC technician. Don't ignore E5 — running a heat pump with a failed defrost system causes ice to accumulate and can damage the outdoor fan blade and coil.
 

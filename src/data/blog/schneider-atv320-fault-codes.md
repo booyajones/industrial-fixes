@@ -59,11 +59,11 @@ The Schneider Electric Altivar 320 (ATV320) is a variable speed drive for simple
 
 | Part | Notes |
 |---|---|
-| Braking resistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Braking+resistor&tag=errorcodefixes-20) \| External; required for fast deceleration on high-inertia loads |
-| ATV320 replacement drive | [Amazon](https://www.amazon.com/s?i=industrial&k=ATV320+replacement+drive&tag=errorcodefixes-20) \| For INF or persistent hardware faults |
-| SoMove configuration cable | [Amazon](https://www.amazon.com/s?i=industrial&k=SoMove+configuration+cable&tag=errorcodefixes-20) \| USB-to-RJ45 for parameter access and diagnostics |
-| Input fuses | [Amazon](https://www.amazon.com/s?i=industrial&k=Input+fuses&tag=errorcodefixes-20) \| Semiconductor fuses rated for the drive input current |
-| Analog sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Analog+sensor&tag=errorcodefixes-20) \| For LFF1; check sensor supply and output |
+| Braking resistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-schneider-atv320-fault-codes&k=Braking+resistor&tag=errorcodefixes-20) \| External; required for fast deceleration on high-inertia loads |
+| ATV320 replacement drive | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-schneider-atv320-fault-codes&k=ATV320+replacement+drive&tag=errorcodefixes-20) \| For INF or persistent hardware faults |
+| SoMove configuration cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-schneider-atv320-fault-codes&k=SoMove+configuration+cable&tag=errorcodefixes-20) \| USB-to-RJ45 for parameter access and diagnostics |
+| Input fuses | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-schneider-atv320-fault-codes&k=Input+fuses&tag=errorcodefixes-20) \| Semiconductor fuses rated for the drive input current |
+| Analog sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-schneider-atv320-fault-codes&k=Analog+sensor&tag=errorcodefixes-20) \| For LFF1; check sensor supply and output |
 ## When to Call a Pro
 
 Schneider Electric's SoMove software provides remote monitoring and parameter management for ATV320 drives via USB or Bluetooth. For INF (internal hardware fault) or EEF1 faults that recur after power cycling, contact Schneider Electric technical support or a Schneider Service Partner. Many ATV320 faults can be diagnosed remotely using SoMove before dispatching a technician.

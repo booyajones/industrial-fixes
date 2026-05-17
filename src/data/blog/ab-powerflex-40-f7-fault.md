@@ -64,11 +64,11 @@ After the repair, document the final settings. PowerFlex drives get replaced or 
 
 ## Parts You May Need
 
-- [Clamp meter for motor current](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20)
-- [Allen Bradley PowerFlex 40 keypad](https://www.amazon.com/s?i=industrial&k=Allen+Bradley+PowerFlex+40+keypad&tag=errorcodefixes-20)
-- [TEFC replacement motor](https://www.amazon.com/s?i=industrial&k=TEFC+replacement+motor&tag=errorcodefixes-20)
-- [Pillow block bearing](https://www.amazon.com/s?i=industrial&k=pillow+block+bearing&tag=errorcodefixes-20)
-- [Panel cooling fan filter kit](https://www.amazon.com/s?i=industrial&k=panel+cooling+fan+filter+kit&tag=errorcodefixes-20)
+- [Clamp meter for motor current](https://www.amazon.com/dp/B08ZJSN5X3?ascsubtag=ecf-ab-powerflex-40-f7-fault&tag=errorcodefixes-20)
+- [Allen Bradley PowerFlex 40 keypad](https://www.amazon.com/s?ascsubtag=ecf-ab-powerflex-40-f7-fault&k=Allen+Bradley+PowerFlex+40+keypad&tag=errorcodefixes-20)
+- [TEFC replacement motor](https://www.amazon.com/s?ascsubtag=ecf-ab-powerflex-40-f7-fault&k=TEFC+replacement+motor&tag=errorcodefixes-20)
+- [Pillow block bearing](https://www.amazon.com/s?ascsubtag=ecf-ab-powerflex-40-f7-fault&k=pillow+block+bearing&tag=errorcodefixes-20)
+- [Panel cooling fan filter kit](https://www.amazon.com/s?ascsubtag=ecf-ab-powerflex-40-f7-fault&k=panel+cooling+fan+filter+kit&tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

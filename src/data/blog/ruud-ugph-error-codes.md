@@ -128,13 +128,13 @@ This is a simple 10-minute fix that resolves roughly 80% of 7-blink faults. Turn
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
-| [Ruud UGPH Hot Surface Igniter (Part # 62-24164-01)](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) | Replaces failed silicon nitride igniter causing 1-blink lockout | $25-$45 |
-| [Ruud Inducer Motor Assembly (Part # 70-24033-03)](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) | Replaces failed draft inducer motor causing 2-blink or 8-blink faults | $180-$350 |
-| [Pressure Switch (Part # 42-103148-01)](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | Replaces failed pressure switch causing 2-blink or 3-blink faults | $18-$40 |
-| [Ruud UGPH Control Board (Part # 62-24084-01)](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Replaces failed control/ignition board | $150-$280 |
-| [Flame Sensor Rod (Part # 62-23754-92)](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) | Replaces worn flame sensor causing 7-blink fault | $12-$22 |
-| [High Limit Switch (Part # 47-22860-03)](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) | Replaces open high limit device causing 4-blink fault | $15-$35 |
-| [Rollout Switch (Part # 46-101683-01)](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) | Manual reset safety switch - inspect heat exchanger before replacing | $10-$20 |
+| [Ruud UGPH Hot Surface Igniter (Part # 62-24164-01)](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-ruud-ugph-error-codes&tag=errorcodefixes-20) | Replaces failed silicon nitride igniter causing 1-blink lockout | $25-$45 |
+| [Ruud Inducer Motor Assembly (Part # 70-24033-03)](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-ruud-ugph-error-codes&tag=errorcodefixes-20) | Replaces failed draft inducer motor causing 2-blink or 8-blink faults | $180-$350 |
+| [Pressure Switch (Part # 42-103148-01)](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-ruud-ugph-error-codes&tag=errorcodefixes-20) | Replaces failed pressure switch causing 2-blink or 3-blink faults | $18-$40 |
+| [Ruud UGPH Control Board (Part # 62-24084-01)](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-ruud-ugph-error-codes&tag=errorcodefixes-20) | Replaces failed control/ignition board | $150-$280 |
+| [Flame Sensor Rod (Part # 62-23754-92)](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-ruud-ugph-error-codes&tag=errorcodefixes-20) | Replaces worn flame sensor causing 7-blink fault | $12-$22 |
+| [High Limit Switch (Part # 47-22860-03)](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-ruud-ugph-error-codes&tag=errorcodefixes-20) | Replaces open high limit device causing 4-blink fault | $15-$35 |
+| [Rollout Switch (Part # 46-101683-01)](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-ruud-ugph-error-codes&tag=errorcodefixes-20) | Manual reset safety switch - inspect heat exchanger before replacing | $10-$20 |
 
 ## When to Call a Pro
 

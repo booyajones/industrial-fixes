@@ -47,11 +47,11 @@ GE DECS breakers with phase loss protection trip immediately on loss of any phas
 
 | Part | Notes |
 |------|-------|
-| DECS trip unit | [Amazon](https://www.amazon.com/s?i=industrial&k=DECS+trip+unit&tag=errorcodefixes-20) \| Replace on electronics failure |
-| Arc chutes (AKR/PowerBreak) | [Amazon](https://www.amazon.com/s?i=industrial&k=Arc+chutes+%28AKR%2FPowerBreak%29&tag=errorcodefixes-20) \| Replace after multiple fault trips |
-| Auxiliary/alarm contacts | [Amazon](https://www.amazon.com/s?i=industrial&k=Auxiliary%2Falarm+contacts&tag=errorcodefixes-20) \| Replace when worn |
-| M-DECS communication module | [Amazon](https://www.amazon.com/s?i=industrial&k=M-DECS+communication+module&tag=errorcodefixes-20) \| Replace on comm fault |
-| Closing spring/motor mechanism | [Amazon](https://www.amazon.com/s?i=industrial&k=Closing+spring%2Fmotor+mechanism&tag=errorcodefixes-20) \| Replace on charge failure |
+| DECS trip unit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-circuit-breaker-fault-codes&k=DECS+trip+unit&tag=errorcodefixes-20) \| Replace on electronics failure |
+| Arc chutes (AKR/PowerBreak) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-circuit-breaker-fault-codes&k=Arc+chutes+%28AKR%2FPowerBreak%29&tag=errorcodefixes-20) \| Replace after multiple fault trips |
+| Auxiliary/alarm contacts | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-circuit-breaker-fault-codes&k=Auxiliary%2Falarm+contacts&tag=errorcodefixes-20) \| Replace when worn |
+| M-DECS communication module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-circuit-breaker-fault-codes&k=M-DECS+communication+module&tag=errorcodefixes-20) \| Replace on comm fault |
+| Closing spring/motor mechanism | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-circuit-breaker-fault-codes&k=Closing+spring%2Fmotor+mechanism&tag=errorcodefixes-20) \| Replace on charge failure |
 ## When to Call a Pro
 GE/ABB Power circuit breaker maintenance requires factory training. Contact ABB Grid Solutions for authorized service on AKR and PowerBreak II breakers.
 

@@ -37,12 +37,12 @@ Here is how to think through compressor replacement versus full system replaceme
 
 Compressor replacement is not a simple part swap. It involves recovering the old refrigerant, brazing in the new compressor, replacing the filter drier, pulling a deep vacuum, and charging the system with fresh refrigerant. Total cost typically falls in this range:
 
-| [Compressor replacement](https://www.amazon.com/s?i=industrial&k=AC+compressor&tag=errorcodefixes-20) | Typical cost |
+| [Compressor replacement](https://www.amazon.com/s?ascsubtag=ecf-ac-compressor-replacement-cost-guide&k=AC+compressor&tag=errorcodefixes-20) | Typical cost |
 |-------|-------------|
-| [Standard residential compressor](https://www.amazon.com/s?i=industrial&k=Standard+AC+compressor&tag=errorcodefixes-20) (2-3 ton, scroll) | $800 to $1,600 |
-| [Large compressor](https://www.amazon.com/s?i=industrial&k=Large+AC+compressor&tag=errorcodefixes-20) (4-5 ton, scroll) | $1,200 to $2,500 |
-| [Reciprocating compressor](https://www.amazon.com/s?i=industrial&k=Reciprocating+AC+compressor&tag=errorcodefixes-20) (older systems) | $1,500 to $3,500 |
-| [Variable-speed inverter compressor](https://www.amazon.com/s?i=industrial&k=Inverter+AC+compressor&tag=errorcodefixes-20) | $2,000 to $3,500 |
+| [Standard residential compressor](https://www.amazon.com/s?ascsubtag=ecf-ac-compressor-replacement-cost-guide&k=Standard+AC+compressor&tag=errorcodefixes-20) (2-3 ton, scroll) | $800 to $1,600 |
+| [Large compressor](https://www.amazon.com/s?ascsubtag=ecf-ac-compressor-replacement-cost-guide&k=Large+AC+compressor&tag=errorcodefixes-20) (4-5 ton, scroll) | $1,200 to $2,500 |
+| [Reciprocating compressor](https://www.amazon.com/s?ascsubtag=ecf-ac-compressor-replacement-cost-guide&k=Reciprocating+AC+compressor&tag=errorcodefixes-20) (older systems) | $1,500 to $3,500 |
+| [Variable-speed inverter compressor](https://www.amazon.com/s?ascsubtag=ecf-ac-compressor-replacement-cost-guide&k=Inverter+AC+compressor&tag=errorcodefixes-20) | $2,000 to $3,500 |
 
 The cost includes the compressor part ($400 to $1,500 depending on type and brand), refrigerant ($200 to $600 depending on type), filter drier ($30 to $60), and labor (4 to 8 hours at $100 to $200 per hour).
 
@@ -54,11 +54,11 @@ The cost includes the compressor part ($400 to $1,500 depending on type and bran
 
 A full AC system replacement (condenser unit outside plus evaporator coil and air handler inside):
 
-| [System size and tier](https://www.amazon.com/s?i=industrial&k=Central+AC+system&tag=errorcodefixes-20) | Typical installed cost |
+| [System size and tier](https://www.amazon.com/s?ascsubtag=ecf-ac-compressor-replacement-cost-guide&k=Central+AC+system&tag=errorcodefixes-20) | Typical installed cost |
 |--------------------------|----------------------|
-| [2-3 ton, 14-16 SEER2](https://www.amazon.com/s?i=industrial&k=14+SEER2+AC+system&tag=errorcodefixes-20) (builder grade) | $4,500 to $6,500 |
-| [3-4 ton, 16-18 SEER2](https://www.amazon.com/s?i=industrial&k=16+SEER2+AC+system&tag=errorcodefixes-20) (mid-efficiency) | $5,500 to $8,500 |
-| [4-5 ton, 18+ SEER2](https://www.amazon.com/s?i=industrial&k=18+SEER2+AC+system&tag=errorcodefixes-20) (high-efficiency) | $7,500 to $12,000 |
+| [2-3 ton, 14-16 SEER2](https://www.amazon.com/s?ascsubtag=ecf-ac-compressor-replacement-cost-guide&k=14+SEER2+AC+system&tag=errorcodefixes-20) (builder grade) | $4,500 to $6,500 |
+| [3-4 ton, 16-18 SEER2](https://www.amazon.com/s?ascsubtag=ecf-ac-compressor-replacement-cost-guide&k=16+SEER2+AC+system&tag=errorcodefixes-20) (mid-efficiency) | $5,500 to $8,500 |
+| [4-5 ton, 18+ SEER2](https://www.amazon.com/s?ascsubtag=ecf-ac-compressor-replacement-cost-guide&k=18+SEER2+AC+system&tag=errorcodefixes-20) (high-efficiency) | $7,500 to $12,000 |
 
 **What you get with a new system:** A 10-year parts warranty, a 10-year compressor warranty, a brand-new matching coil and condenser designed to work together, and current SEER2 efficiency ratings. New systems also use the latest refrigerant (R-32 or R-454B in 2025-2026).
 
@@ -66,13 +66,13 @@ A full AC system replacement (condenser unit outside plus evaporator coil and ai
 
 ## Repair vs. Replace Decision Table by AC Age
 
-| [AC age](https://www.amazon.com/s?i=industrial&k=AC+age&tag=errorcodefixes-20) | Compressor failure | Recommendation |
+| [AC age](https://www.amazon.com/s?ascsubtag=ecf-ac-compressor-replacement-cost-guide&k=AC+age&tag=errorcodefixes-20) | Compressor failure | Recommendation |
 |------|-------------------|--------------|
-| [Under 6 years](https://www.amazon.com/s?i=industrial&k=AC+under+6+years&tag=errorcodefixes-20) | Yes | Repair. The system is nearly new and should have 10+ years left. Check warranty first. Most compressors carry a 10-year warranty. |
-| [6 to 10 years](https://www.amazon.com/s?i=industrial&k=AC+6+to+10+years&tag=errorcodefixes-20) | Yes | Borderline. If the compressor is under warranty (parts only), replacement may cost $500 to $900 in labor and refrigerant. That is worth it. If no warranty, lean toward replacement. |
-| [10 to 12 years](https://www.amazon.com/s?i=industrial&k=AC+10+to+12+years&tag=errorcodefixes-20) | Yes | Replace. At this age, the condenser coil may be next to fail, the fan motor is aging, and the SEER rating is obsolete. A full replacement pays back in efficiency. |
-| [Over 12 years](https://www.amazon.com/s?i=industrial&k=AC+over+12+years&tag=errorcodefixes-20) | Yes | Always replace. The system is past its design life. Putting $2,000 into a 12+ year old unit is throwing money at an inevitable full failure. |
-| [Over 15 years](https://www.amazon.com/s?i=industrial&k=AC+over+15+years&tag=errorcodefixes-20) | Any major repair | Replace. R-22 system? Definitely replace. R-410A system at this age is still on borrowed time. |
+| [Under 6 years](https://www.amazon.com/s?ascsubtag=ecf-ac-compressor-replacement-cost-guide&k=AC+under+6+years&tag=errorcodefixes-20) | Yes | Repair. The system is nearly new and should have 10+ years left. Check warranty first. Most compressors carry a 10-year warranty. |
+| [6 to 10 years](https://www.amazon.com/s?ascsubtag=ecf-ac-compressor-replacement-cost-guide&k=AC+6+to+10+years&tag=errorcodefixes-20) | Yes | Borderline. If the compressor is under warranty (parts only), replacement may cost $500 to $900 in labor and refrigerant. That is worth it. If no warranty, lean toward replacement. |
+| [10 to 12 years](https://www.amazon.com/s?ascsubtag=ecf-ac-compressor-replacement-cost-guide&k=AC+10+to+12+years&tag=errorcodefixes-20) | Yes | Replace. At this age, the condenser coil may be next to fail, the fan motor is aging, and the SEER rating is obsolete. A full replacement pays back in efficiency. |
+| [Over 12 years](https://www.amazon.com/s?ascsubtag=ecf-ac-compressor-replacement-cost-guide&k=AC+over+12+years&tag=errorcodefixes-20) | Yes | Always replace. The system is past its design life. Putting $2,000 into a 12+ year old unit is throwing money at an inevitable full failure. |
+| [Over 15 years](https://www.amazon.com/s?ascsubtag=ecf-ac-compressor-replacement-cost-guide&k=AC+over+15+years&tag=errorcodefixes-20) | Any major repair | Replace. R-22 system? Definitely replace. R-410A system at this age is still on borrowed time. |
 
 **The compressor warranty trap:** Many homeowners hear the compressor is under warranty and assume the repair will be cheap. The warranty covers the part only. You still pay for refrigerant, labor, filter drier, and incidentals. That bill typically runs $600 to $1,200 even on a warranty compressor replacement.
 
@@ -102,7 +102,7 @@ Found in high-end systems and most modern mini-splits. These use a DC inverter d
 
 Refrigerant cost heavily influences the total repair bill:
 
-| [Refrigerant type](https://www.amazon.com/s?i=industrial&k=AC+refrigerant&tag=errorcodefixes-20) | Cost per pound | Typical charge (3-ton) | Total refrigerant cost |
+| [Refrigerant type](https://www.amazon.com/s?ascsubtag=ecf-ac-compressor-replacement-cost-guide&k=AC+refrigerant&tag=errorcodefixes-20) | Cost per pound | Typical charge (3-ton) | Total refrigerant cost |
 |------------------|---------------|----------------------|----------------------|
 | R-22 (phased out) | $80 to $150 | 6 to 10 lbs | $480 to $1,500 |
 | R-410A (current standard, phasing down) | $30 to $60 | 6 to 10 lbs | $180 to $600 |
@@ -146,10 +146,10 @@ If the AC is not cooling but the compressor is still running, the problem may be
 
 | Part | Typical Amazon price |
 |------|---------------------|
-| [Run capacitor (dual, 35+5 uF)](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) | $10 to $25 |
-| [Contactor (24V, 30-40 amp)](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) | $10 to $20 |
-| [Condenser fan motor (1/3 to 1/4 HP)](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) | $50 to $120 |
-| [Capacitor tester/multimeter](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) | $20 to $40 |
+| [Run capacitor (dual, 35+5 uF)](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-ac-compressor-replacement-cost-guide&tag=errorcodefixes-20) | $10 to $25 |
+| [Contactor (24V, 30-40 amp)](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-ac-compressor-replacement-cost-guide&tag=errorcodefixes-20) | $10 to $20 |
+| [Condenser fan motor (1/3 to 1/4 HP)](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-ac-compressor-replacement-cost-guide&tag=errorcodefixes-20) | $50 to $120 |
+| [Capacitor tester/multimeter](https://www.amazon.com/dp/B08ZJSN5X3?ascsubtag=ecf-ac-compressor-replacement-cost-guide&tag=errorcodefixes-20) | $20 to $40 |
 
 ---
 

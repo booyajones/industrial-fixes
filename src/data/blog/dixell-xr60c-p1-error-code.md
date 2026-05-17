@@ -48,9 +48,9 @@ When P1 is active, the controller typically switches the compressor and fans to 
 
 | Part | Where to Buy | Typical Cost |
 |------|-------------|-------------|
-| NTC 10kΩ replacement probe (universal, 6 ft lead) | [Amazon](https://www.amazon.com/s?i=industrial&k=NTC+10k%CE%A9+replacement+probe+%28universal%2C+6+ft+lead%29&tag=errorcodefixes-20) \| Grainger, Amazon, Parts Town | $12–$30 |
-| Dixell XR60C replacement controller | [Amazon](https://www.amazon.com/s?i=industrial&k=Dixell+XR60C+replacement+controller&tag=errorcodefixes-20) \| Parts Town, Restaurant Equipment World | $60–$120 |
-| Probe mounting clip | [Amazon](https://www.amazon.com/s?i=industrial&k=Probe+mounting+clip&tag=errorcodefixes-20) \| Parts Town, HVAC distributor | $2–$8 |
+| NTC 10kΩ replacement probe (universal, 6 ft lead) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-dixell-xr60c-p1-error-code&k=NTC+10k%CE%A9+replacement+probe+%28universal%2C+6+ft+lead%29&tag=errorcodefixes-20) \| Grainger, Amazon, Parts Town | $12–$30 |
+| Dixell XR60C replacement controller | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-dixell-xr60c-p1-error-code&k=Dixell+XR60C+replacement+controller&tag=errorcodefixes-20) \| Parts Town, Restaurant Equipment World | $60–$120 |
+| Probe mounting clip | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-dixell-xr60c-p1-error-code&k=Probe+mounting+clip&tag=errorcodefixes-20) \| Parts Town, HVAC distributor | $2–$8 |
 ## When to Call a Professional
 
 If a confirmed good probe still produces P1 on the controller, the XR60C input circuit has failed and the controller needs replacement. The XR60C is not field-repairable at the board level — replace the unit. When replacing the controller, photograph all existing parameters before removing the old unit, then re-enter them exactly on the new one. Incorrect parameters on a replacement controller can cause the case to freeze product (if defrost timing is wrong) or fail to cool (if the set point migrated). Tell your refrigeration tech: "XR60C showing P1, I tested with a known good probe and P1 persists. I need a controller swap and parameter verification."

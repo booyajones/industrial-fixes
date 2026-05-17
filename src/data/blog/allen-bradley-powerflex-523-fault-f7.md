@@ -36,8 +36,8 @@ Fault F7 on the Allen Bradley PowerFlex 523 indicates motor overload — the dri
 
 | Part | Notes |
 |------|-------|
-| Pump impeller / strainer | [Amazon](https://www.amazon.com/s?i=industrial&k=Pump+impeller+%2F+strainer&tag=errorcodefixes-20) \| If cavitation or blockage was root cause |
-| Panel cooling fan | [Amazon](https://www.amazon.com/s?i=industrial&k=Panel+cooling+fan&tag=errorcodefixes-20) \| If ambient temperature was root cause |
+| Pump impeller / strainer | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-523-fault-f7&k=Pump+impeller+%2F+strainer&tag=errorcodefixes-20) \| If cavitation or blockage was root cause |
+| Panel cooling fan | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-523-fault-f7&k=Panel+cooling+fan&tag=errorcodefixes-20) \| If ambient temperature was root cause |
 ## When to Call a Pro
 
 If the motor runs unloaded without fault but trips F7 immediately when loaded with correctly set parameters, the process may require a larger motor/drive. Consult a system integrator for proper sizing.

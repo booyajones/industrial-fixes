@@ -36,9 +36,9 @@ The Manitowoc Indigo and Indigo NXT series display **E04** when the discharge (c
 
 | Part | Notes |
 |------|-------|
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Replace when motor doesn't run or runs slowly; verify replacement is correct CFM rating |
-| Run capacitor (condenser fan) | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Test before replacing motor; often the capacitor fails, not the motor |
-| Condenser coil cleaner (Nu-Calgon) | [Amazon](https://www.amazon.com/s?i=industrial&k=Condenser+coil+cleaner+%28Nu-Calgon%29&tag=errorcodefixes-20) \| Use for routine cleaning every 3–6 months in commercial kitchens |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-manitowoc-ice-machine-error-code-e04&tag=errorcodefixes-20) \| Replace when motor doesn't run or runs slowly; verify replacement is correct CFM rating |
+| Run capacitor (condenser fan) | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-manitowoc-ice-machine-error-code-e04&tag=errorcodefixes-20) \| Test before replacing motor; often the capacitor fails, not the motor |
+| Condenser coil cleaner (Nu-Calgon) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-manitowoc-ice-machine-error-code-e04&k=Condenser+coil+cleaner+%28Nu-Calgon%29&tag=errorcodefixes-20) \| Use for routine cleaning every 3–6 months in commercial kitchens |
 ## When to Call a Pro
 
 If E04 returns after cleaning the condenser and confirming the fan runs, the refrigerant charge may be low or the compressor may be degraded. Both require a certified refrigeration technician with gauges and refrigerant certification.

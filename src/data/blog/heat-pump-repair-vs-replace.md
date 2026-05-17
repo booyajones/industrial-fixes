@@ -139,12 +139,12 @@ Replace without further analysis if:
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|--------------|
-| [Dual Run Capacitor 45/5 µF 440V](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) | Most common repair item — extends compressor and fan life | $18–$35 |
-| [Heat Pump Contactor 2-Pole 40A](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) | Burned contacts prevent outdoor unit from energizing | $18–$30 |
-| [Reversing Valve Solenoid Coil](https://www.amazon.com/s?i=industrial&k=heat+pump+reversing+valve+solenoid+coil&tag=errorcodefixes-20) | Stuck reversing valve — solenoid is the DIY-accessible component | $15–$40 |
-| [Defrost Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Malfunctioning defrost causes ice buildup and efficiency loss | $45–$95 |
-| [Hard Start Kit (Compressor)](https://www.amazon.com/s?i=industrial&k=hard+start+kit+compressor+heat+pump&tag=errorcodefixes-20) | Struggling compressor on aging system — buys time before replacement | $30–$55 |
-| [Thermostat Programmable 2-Stage Heat Pump](https://www.amazon.com/s?i=industrial&k=programmable+thermostat+heat+pump+2+stage&tag=errorcodefixes-20) | Old thermostat may not control new variable-speed systems correctly | $55–$120 |
+| [Dual Run Capacitor 45/5 µF 440V](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-heat-pump-repair-vs-replace&tag=errorcodefixes-20) | Most common repair item — extends compressor and fan life | $18–$35 |
+| [Heat Pump Contactor 2-Pole 40A](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-heat-pump-repair-vs-replace&tag=errorcodefixes-20) | Burned contacts prevent outdoor unit from energizing | $18–$30 |
+| [Reversing Valve Solenoid Coil](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-repair-vs-replace&k=heat+pump+reversing+valve+solenoid+coil&tag=errorcodefixes-20) | Stuck reversing valve — solenoid is the DIY-accessible component | $15–$40 |
+| [Defrost Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-heat-pump-repair-vs-replace&tag=errorcodefixes-20) | Malfunctioning defrost causes ice buildup and efficiency loss | $45–$95 |
+| [Hard Start Kit (Compressor)](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-repair-vs-replace&k=hard+start+kit+compressor+heat+pump&tag=errorcodefixes-20) | Struggling compressor on aging system — buys time before replacement | $30–$55 |
+| [Thermostat Programmable 2-Stage Heat Pump](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-repair-vs-replace&k=programmable+thermostat+heat+pump+2+stage&tag=errorcodefixes-20) | Old thermostat may not control new variable-speed systems correctly | $55–$120 |
 
 ---
 

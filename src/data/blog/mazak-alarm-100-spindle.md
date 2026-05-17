@@ -38,10 +38,10 @@ Alarm 100 on a Mazak CNC (Mazatrol T-, M-, or Fusion series) indicates a spindle
 
 | Part | Notes |
 |------|-------|
-| Spindle drive cooling fan | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+drive+cooling+fan&tag=errorcodefixes-20) \| Replace if fan is seized or running slowly |
-| Spindle motor encoder | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+motor+encoder&tag=errorcodefixes-20) \| Replace if encoder feedback is confirmed faulty |
-| Spindle drive module | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+drive+module&tag=errorcodefixes-20) \| Contact Mazak service for correct replacement part |
-| Spindle motor | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+motor&tag=errorcodefixes-20) \| Replace if windings are confirmed damaged |
+| Spindle drive cooling fan | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mazak-alarm-100-spindle&k=Spindle+drive+cooling+fan&tag=errorcodefixes-20) \| Replace if fan is seized or running slowly |
+| Spindle motor encoder | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mazak-alarm-100-spindle&k=Spindle+motor+encoder&tag=errorcodefixes-20) \| Replace if encoder feedback is confirmed faulty |
+| Spindle drive module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mazak-alarm-100-spindle&k=Spindle+drive+module&tag=errorcodefixes-20) \| Contact Mazak service for correct replacement part |
+| Spindle motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mazak-alarm-100-spindle&k=Spindle+motor&tag=errorcodefixes-20) \| Replace if windings are confirmed damaged |
 ## When to Call a Pro
 
 Spindle drive replacement, spindle motor testing, and encoder calibration require specialized equipment and Mazak machine knowledge. Contact a Mazak Factory Service Representative or authorized service center for hardware faults that do not resolve with cooling and power cycling.

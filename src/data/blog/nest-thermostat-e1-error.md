@@ -70,7 +70,7 @@ Visit nest.com/works-with-nest or use the Nest Compatibility Checker at home.goo
 
 ## E1 vs. E2 vs. E74 on Nest
 
-| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Meaning |
+| [Code](https://www.amazon.com/s?ascsubtag=ecf-nest-thermostat-e1-error&k=Code&tag=errorcodefixes-20) | Meaning |
 |---|---|
 | E1 | No power / wiring fault |
 | E2 | Delayed start (lockout, wait state) |

@@ -55,10 +55,10 @@ The Mitsubishi FR-D700 is a compact inverter drive used on conveyors, small pump
 
 | Part | Notes |
 |---|---|
-| Cooling fan | [Amazon](https://www.amazon.com/s?i=industrial&k=Cooling+fan&tag=errorcodefixes-20) \| Common thermal trip cause |
-| Keypad | [Amazon](https://www.amazon.com/s?i=industrial&k=Keypad&tag=errorcodefixes-20) \| For damaged display/buttons |
-| Replacement FR-D700 drive | [Amazon](https://www.amazon.com/s?i=industrial&k=Replacement+FR-D700+drive&tag=errorcodefixes-20) \| For CPU faults |
-| Braking resistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Braking+resistor&tag=errorcodefixes-20) \| If fast stop is application-critical |
+| Cooling fan | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-fr-d700-fault-codes&k=Cooling+fan&tag=errorcodefixes-20) \| Common thermal trip cause |
+| Keypad | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-fr-d700-fault-codes&k=Keypad&tag=errorcodefixes-20) \| For damaged display/buttons |
+| Replacement FR-D700 drive | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-fr-d700-fault-codes&k=Replacement+FR-D700+drive&tag=errorcodefixes-20) \| For CPU faults |
+| Braking resistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-fr-d700-fault-codes&k=Braking+resistor&tag=errorcodefixes-20) \| If fast stop is application-critical |
 ## When to Call a Pro
 
 Persistent CPU faults or repeated GF trips with the motor disconnected usually mean internal inverter damage. Mitsubishi drive service or a qualified controls technician should evaluate before the drive is put back into production.

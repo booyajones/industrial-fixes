@@ -47,11 +47,11 @@ ETU 45B and 76B include ground fault protection via a summation CT (3-phase). Tr
 
 | Part | Notes |
 |------|-------|
-| ETU trip unit | [Amazon](https://www.amazon.com/s?i=industrial&k=ETU+trip+unit&tag=errorcodefixes-20) \| Replace on display or trip failure |
-| COM module (Modbus/PROFIBUS) | [Amazon](https://www.amazon.com/s?i=industrial&k=COM+module+%28Modbus%2FPROFIBUS%29&tag=errorcodefixes-20) \| Replace on communication fault |
-| Auxiliary switch block | [Amazon](https://www.amazon.com/s?i=industrial&k=Auxiliary+switch+block&tag=errorcodefixes-20) \| Replace on worn contacts |
-| Arc chutes (3WL) | [Amazon](https://www.amazon.com/s?i=industrial&k=Arc+chutes+%283WL%29&tag=errorcodefixes-20) \| Inspect after multiple SC trips |
-| Motor drive for 3WL | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+drive+for+3WL&tag=errorcodefixes-20) \| Replace on spring charge failure |
+| ETU trip unit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-circuit-breaker-fault-codes&k=ETU+trip+unit&tag=errorcodefixes-20) \| Replace on display or trip failure |
+| COM module (Modbus/PROFIBUS) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-circuit-breaker-fault-codes&k=COM+module+%28Modbus%2FPROFIBUS%29&tag=errorcodefixes-20) \| Replace on communication fault |
+| Auxiliary switch block | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-circuit-breaker-fault-codes&k=Auxiliary+switch+block&tag=errorcodefixes-20) \| Replace on worn contacts |
+| Arc chutes (3WL) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-circuit-breaker-fault-codes&k=Arc+chutes+%283WL%29&tag=errorcodefixes-20) \| Inspect after multiple SC trips |
+| Motor drive for 3WL | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-circuit-breaker-fault-codes&k=Motor+drive+for+3WL&tag=errorcodefixes-20) \| Replace on spring charge failure |
 ## When to Call a Pro
 Siemens 3WL maintenance (lubrication, contact inspection, arc chute replacement) requires factory-trained personnel. 3VA trip unit verification should be done with Siemens Sentron software.
 

@@ -39,9 +39,9 @@ Alarm 600 (ATC Alarm) on a Mazak CNC machining center (Nexus, Variaxis, Integrex
 
 | Part | Notes |
 |------|-------|
-| ATC proximity switch | [Amazon](https://www.amazon.com/s?i=industrial&k=ATC+proximity+switch&tag=errorcodefixes-20) \| Match the Mazak machine model and switch thread/body size |
-| Retention knob (pull stud) | [Amazon](https://www.amazon.com/s?i=industrial&k=Retention+knob+%28pull+stud%29&tag=errorcodefixes-20) \| Must match the spindle taper (CAT40, BT40, HSK-A63, etc.) |
-| ATC pneumatic solenoid valve | [Amazon](https://www.amazon.com/s?i=industrial&k=ATC+pneumatic+solenoid+valve&tag=errorcodefixes-20) \| Replace if actuator does not respond to commanded position |
+| ATC proximity switch | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mazak-alarm-600-atc&k=ATC+proximity+switch&tag=errorcodefixes-20) \| Match the Mazak machine model and switch thread/body size |
+| Retention knob (pull stud) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mazak-alarm-600-atc&k=Retention+knob+%28pull+stud%29&tag=errorcodefixes-20) \| Must match the spindle taper (CAT40, BT40, HSK-A63, etc.) |
+| ATC pneumatic solenoid valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mazak-alarm-600-atc&k=ATC+pneumatic+solenoid+valve&tag=errorcodefixes-20) \| Replace if actuator does not respond to commanded position |
 ## When to Call a Pro
 
 Mazak ATC recovery after a mid-cycle jam — especially on swing-arm or double-arm changers — requires the machine's maintenance manual and often a Mazak service technician. An improper manual recovery can damage the spindle, the arm, or the magazine.

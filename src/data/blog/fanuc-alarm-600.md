@@ -36,8 +36,8 @@ Fanuc Alarm 600 is an APC (Absolute Pulse Coder) alarm series — the absolute e
 
 | Part | Notes |
 |------|-------|
-| Fanuc encoder backup battery | [Amazon](https://www.amazon.com/s?i=industrial&k=Fanuc+encoder+backup+battery&tag=errorcodefixes-20) \| Match to Fanuc system — A06B-6073-K001 (6V) or model-specific |
-| Battery cable harness | [Amazon](https://www.amazon.com/s?i=industrial&k=Battery+cable+harness&tag=errorcodefixes-20) \| Replace if corroded |
+| Fanuc encoder backup battery | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-600&k=Fanuc+encoder+backup+battery&tag=errorcodefixes-20) \| Match to Fanuc system — A06B-6073-K001 (6V) or model-specific |
+| Battery cable harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-600&k=Battery+cable+harness&tag=errorcodefixes-20) \| Replace if corroded |
 ## When to Call a Pro
 
 If Alarm 600 persists after battery replacement and reference return, the encoder PCB inside the servo motor may have failed. Motor encoder replacement requires Fanuc-certified service.

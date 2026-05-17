@@ -45,9 +45,9 @@ If the meter throws an Err message on startup, remove the battery, wait 30 secon
 
 | Part | Notes |
 |------|-------|
-| 9V or AA battery | [Amazon](https://www.amazon.com/s?i=industrial&k=9V+or+AA+battery&tag=errorcodefixes-20) \| Model-specific |
-| HRC current fuse | [Amazon](https://www.amazon.com/s?i=industrial&k=HRC+current+fuse&tag=errorcodefixes-20) \| Use exact Fluke replacement spec |
-| Test leads | [Amazon](https://www.amazon.com/s?i=industrial&k=Test+leads&tag=errorcodefixes-20) \| Damaged leads cause false faults |
-| Rotary switch knob / contacts | [Amazon](https://www.amazon.com/s?i=industrial&k=Rotary+switch+knob+%2F+contacts&tag=errorcodefixes-20) \| Intermittent on older heavily used meters |
+| 9V or AA battery | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fluke-multimeter-error-codes&k=9V+or+AA+battery&tag=errorcodefixes-20) \| Model-specific |
+| HRC current fuse | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fluke-multimeter-error-codes&k=HRC+current+fuse&tag=errorcodefixes-20) \| Use exact Fluke replacement spec |
+| Test leads | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fluke-multimeter-error-codes&k=Test+leads&tag=errorcodefixes-20) \| Damaged leads cause false faults |
+| Rotary switch knob / contacts | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fluke-multimeter-error-codes&k=Rotary+switch+knob+%2F+contacts&tag=errorcodefixes-20) \| Intermittent on older heavily used meters |
 ## When to Call a Pro
 If a Fluke meter fails self-test repeatedly or has suspected calibration drift in a regulated environment, send it to an authorized calibration lab. For safety-rated meters, never substitute generic fuses.

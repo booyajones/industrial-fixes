@@ -38,10 +38,10 @@ Alarm 1400 on an Okuma CNC machine indicates an encoder error on a servo axis. T
 
 | Part | Notes |
 |------|-------|
-| Encoder backup battery | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+backup+battery&tag=errorcodefixes-20) \| Okuma-specific lithium battery; replace every 3–5 years preventively |
-| Encoder feedback cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+feedback+cable&tag=errorcodefixes-20) \| OEM Okuma cable; match to motor and drive model |
-| Absolute encoder (Okuma OEM) | [Amazon](https://www.amazon.com/s?i=industrial&k=Absolute+encoder+%28Okuma+OEM%29&tag=errorcodefixes-20) \| Requires Okuma service for replacement and calibration |
-| Servo drive (SERVOPACK) | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+drive+%28SERVOPACK%29&tag=errorcodefixes-20) \| Replace if drive's encoder interface has failed |
+| Encoder backup battery | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-okuma-cnc-alarm-1400&k=Encoder+backup+battery&tag=errorcodefixes-20) \| Okuma-specific lithium battery; replace every 3–5 years preventively |
+| Encoder feedback cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-okuma-cnc-alarm-1400&k=Encoder+feedback+cable&tag=errorcodefixes-20) \| OEM Okuma cable; match to motor and drive model |
+| Absolute encoder (Okuma OEM) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-okuma-cnc-alarm-1400&k=Absolute+encoder+%28Okuma+OEM%29&tag=errorcodefixes-20) \| Requires Okuma service for replacement and calibration |
+| Servo drive (SERVOPACK) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-okuma-cnc-alarm-1400&k=Servo+drive+%28SERVOPACK%29&tag=errorcodefixes-20) \| Replace if drive's encoder interface has failed |
 ## When to Call a Pro
 
 Okuma absolute encoder replacement and post-replacement calibration must be performed by an Okuma Factory Automation (OFA) certified technician. Incorrect calibration will result in positioning errors that can damage the machine or workpiece.

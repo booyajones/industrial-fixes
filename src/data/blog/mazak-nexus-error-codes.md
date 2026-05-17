@@ -53,11 +53,11 @@ Check hydraulic pressure (minimum 900 PSI for standard chucks). Verify workpiece
 
 | Part | Notes |
 |------|-------|
-| Servo pack | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+pack&tag=errorcodefixes-20) \| Match axis and current rating |
-| Encoder battery | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+battery&tag=errorcodefixes-20) \| Absolute encoder backup |
-| ATC proximity switches | [Amazon](https://www.amazon.com/s?i=industrial&k=ATC+proximity+switches&tag=errorcodefixes-20) \| Check position in sequence diagram |
-| Hydraulic pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Chuck and tailstock circuits |
-| Coolant pump | [Amazon](https://www.amazon.com/s?i=industrial&k=Coolant+pump&tag=errorcodefixes-20) \| Check impeller and motor amps |
+| Servo pack | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mazak-nexus-error-codes&k=Servo+pack&tag=errorcodefixes-20) \| Match axis and current rating |
+| Encoder battery | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mazak-nexus-error-codes&k=Encoder+battery&tag=errorcodefixes-20) \| Absolute encoder backup |
+| ATC proximity switches | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mazak-nexus-error-codes&k=ATC+proximity+switches&tag=errorcodefixes-20) \| Check position in sequence diagram |
+| Hydraulic pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-mazak-nexus-error-codes&tag=errorcodefixes-20) \| Chuck and tailstock circuits |
+| Coolant pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mazak-nexus-error-codes&k=Coolant+pump&tag=errorcodefixes-20) \| Check impeller and motor amps |
 > **Pro tip:** Mazak Nexus stores alarm history with timestamps in the ALARM LOG menu. Access via MAINTENANCE ΓåÆ ALARM LOG. Historical data shows if an alarm is intermittent (temperature-related) or consistent (mechanical or electrical failure).
 
 ## Related Articles

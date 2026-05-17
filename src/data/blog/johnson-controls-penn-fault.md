@@ -17,14 +17,14 @@ tags:
 
 Johnson Controls Penn controls show up in rooftop units, walk-ins, chillers, and process cooling equipment. Most Penn controls do not use long digital fault logs. They trip on pressure, temperature, or sensor input and the connected equipment locks out.
 
-| [Fault / Condition](https://www.amazon.com/s?i=industrial&k=Fault+%2F+Condition&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| [Fault / Condition](https://www.amazon.com/s?ascsubtag=ecf-johnson-controls-penn-fault&k=Fault+%2F+Condition&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |------------------|---------|-----------|
-| [Sensor Error](https://www.amazon.com/s?i=industrial&k=Sensor+Error&tag=errorcodefixes-20) | Temperature sensor open or shorted | Check sensor resistance and wiring |
-| [High Pressure Trip](https://www.amazon.com/s?i=industrial&k=High+Pressure+Trip&tag=errorcodefixes-20) | Pressure exceeded cutout | Check condenser airflow and charge |
-| [Low Pressure Trip](https://www.amazon.com/s?i=industrial&k=Low+Pressure+Trip&tag=errorcodefixes-20) | Suction pressure too low | Check charge and evaporator flow |
-| [Control Output Not Energizing](https://www.amazon.com/s?i=industrial&k=Control+Output+Not+Energizing&tag=errorcodefixes-20) | Relay failed or no control power | Check 24VAC / line voltage and relay |
-| [Manual Reset Open](https://www.amazon.com/s?i=industrial&k=Manual+Reset+Open&tag=errorcodefixes-20) | Safety control tripped and latched | Find root cause before reset |
-| [Display Blank](https://www.amazon.com/s?i=industrial&k=Display+Blank&tag=errorcodefixes-20) | No power to control | Check transformer, fuse, and wiring |
+| [Sensor Error](https://www.amazon.com/s?ascsubtag=ecf-johnson-controls-penn-fault&k=Sensor+Error&tag=errorcodefixes-20) | Temperature sensor open or shorted | Check sensor resistance and wiring |
+| [High Pressure Trip](https://www.amazon.com/s?ascsubtag=ecf-johnson-controls-penn-fault&k=High+Pressure+Trip&tag=errorcodefixes-20) | Pressure exceeded cutout | Check condenser airflow and charge |
+| [Low Pressure Trip](https://www.amazon.com/s?ascsubtag=ecf-johnson-controls-penn-fault&k=Low+Pressure+Trip&tag=errorcodefixes-20) | Suction pressure too low | Check charge and evaporator flow |
+| [Control Output Not Energizing](https://www.amazon.com/s?ascsubtag=ecf-johnson-controls-penn-fault&k=Control+Output+Not+Energizing&tag=errorcodefixes-20) | Relay failed or no control power | Check 24VAC / line voltage and relay |
+| [Manual Reset Open](https://www.amazon.com/s?ascsubtag=ecf-johnson-controls-penn-fault&k=Manual+Reset+Open&tag=errorcodefixes-20) | Safety control tripped and latched | Find root cause before reset |
+| [Display Blank](https://www.amazon.com/s?ascsubtag=ecf-johnson-controls-penn-fault&k=Display+Blank&tag=errorcodefixes-20) | No power to control | Check transformer, fuse, and wiring |
 
 ## Most Common Faults
 
@@ -39,10 +39,10 @@ A low pressure safety opens when suction pressure falls too low. Common causes a
 
 ## Penn Control Types
 
-| [Series](https://www.amazon.com/s?i=industrial&k=Series&tag=errorcodefixes-20) | Type | Common Use |
+| [Series](https://www.amazon.com/s?ascsubtag=ecf-johnson-controls-penn-fault&k=Series&tag=errorcodefixes-20) | Type | Common Use |
 |-------|------|------------|
-| [A421](https://www.amazon.com/s?i=industrial&k="A421"&tag=errorcodefixes-20) | Digital temperature control | Walk-ins, condensers, pump control |
-| [A350](https://www.amazon.com/s?i=industrial&k="A350"&tag=errorcodefixes-20) | Electronic temperature control | HVAC and refrigeration |
+| [A421](https://www.amazon.com/s?ascsubtag=ecf-johnson-controls-penn-fault&k="A421"&tag=errorcodefixes-20) | Digital temperature control | Walk-ins, condensers, pump control |
+| [A350](https://www.amazon.com/s?ascsubtag=ecf-johnson-controls-penn-fault&k="A350"&tag=errorcodefixes-20) | Electronic temperature control | HVAC and refrigeration |
 | P70 | Mechanical pressure control | Refrigeration safety |
 | P78 | High/low pressure control | Compressor protection |
 

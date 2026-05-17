@@ -38,9 +38,9 @@ E6 (or E.6) on a Mitsubishi FR series VFD (FR-A700, FR-A800, FR-E700, FR-E800) i
 
 | Part | Notes |
 |------|-------|
-| Braking resistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Braking+resistor&tag=errorcodefixes-20) \| Match to Mitsubishi FR drive model; verify Ω rating and wattage |
-| Brake transistor / drive power board | [Amazon](https://www.amazon.com/s?i=industrial&k=Brake+transistor+%2F+drive+power+board&tag=errorcodefixes-20) \| Replace if transistor is confirmed failed; typically requires whole board |
-| Braking resistor wiring | [Amazon](https://www.amazon.com/s?i=industrial&k=Braking+resistor+wiring&tag=errorcodefixes-20) \| Use wire rated for resistor peak current; keep leads short |
+| Braking resistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-fr-series-fault-e6&k=Braking+resistor&tag=errorcodefixes-20) \| Match to Mitsubishi FR drive model; verify Ω rating and wattage |
+| Brake transistor / drive power board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-fr-series-fault-e6&k=Brake+transistor+%2F+drive+power+board&tag=errorcodefixes-20) \| Replace if transistor is confirmed failed; typically requires whole board |
+| Braking resistor wiring | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-fr-series-fault-e6&k=Braking+resistor+wiring&tag=errorcodefixes-20) \| Use wire rated for resistor peak current; keep leads short |
 ## When to Call a Pro
 
 Brake transistor testing and power board replacement require power electronics expertise. A Mitsubishi Electric-authorized drive service technician can test the brake circuit under load and replace the internal brake components correctly.

@@ -44,11 +44,11 @@ In the field, F30021 usually traces back to a motor winding fault, wet or damage
 
 | Part | Notes |
 |------|-------|
-| VFD-rated motor cable | [Amazon](https://www.amazon.com/s?i=industrial&k=VFD+rated+motor+cable&tag=errorcodefixes-20) \| Best replacement when tray or conduit cable is leaking to ground |
-| Insulation resistance tester | [Amazon](https://www.amazon.com/s?i=industrial&k=megohmmeter+insulation+tester&tag=errorcodefixes-20) \| Essential for proving whether the motor or cable is the culprit |
-| Brake resistor assembly | [Amazon](https://www.amazon.com/s?i=industrial&k=braking+resistor+assembly+vfd&tag=errorcodefixes-20) \| Relevant where the brake circuit wiring has failed |
-| Output reactor / du-dt filter | [Amazon](https://www.amazon.com/s?i=industrial&k=du+dt+filter+vfd&tag=errorcodefixes-20) \| Useful on long leads and can be the failed component itself |
-| Replacement inverter-duty motor | [Amazon](https://www.amazon.com/s?i=industrial&k=inverter+duty+3+phase+motor&tag=errorcodefixes-20) \| Needed when megger results show winding breakdown |
+| VFD-rated motor cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-sinamics-g120-fault-f30021&k=VFD+rated+motor+cable&tag=errorcodefixes-20) \| Best replacement when tray or conduit cable is leaking to ground |
+| Insulation resistance tester | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-sinamics-g120-fault-f30021&k=megohmmeter+insulation+tester&tag=errorcodefixes-20) \| Essential for proving whether the motor or cable is the culprit |
+| Brake resistor assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-sinamics-g120-fault-f30021&k=braking+resistor+assembly+vfd&tag=errorcodefixes-20) \| Relevant where the brake circuit wiring has failed |
+| Output reactor / du-dt filter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-sinamics-g120-fault-f30021&k=du+dt+filter+vfd&tag=errorcodefixes-20) \| Useful on long leads and can be the failed component itself |
+| Replacement inverter-duty motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-sinamics-g120-fault-f30021&k=inverter+duty+3+phase+motor&tag=errorcodefixes-20) \| Needed when megger results show winding breakdown |
 
 ## When to Call a Professional
 

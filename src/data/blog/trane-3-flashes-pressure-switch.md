@@ -92,11 +92,11 @@ Even if the switch and hoses are good, a worn inducer motor may not generate eno
 
 | Part | Typical Cost |
 |---|---|
-| Pressure switch (generic) | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| $15–45 |
-| OEM Trane pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| $40–90 |
-| Inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| $150–400 |
-| Condensate trap kit | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) \| $15–30 |
-| Drain line tubing (per foot) | [Amazon](https://www.amazon.com/s?i=industrial&k=Drain+line+tubing+%28per+foot%29&tag=errorcodefixes-20) \| $1–2 |
+| Pressure switch (generic) | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-trane-3-flashes-pressure-switch&tag=errorcodefixes-20) \| $15–45 |
+| OEM Trane pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-trane-3-flashes-pressure-switch&tag=errorcodefixes-20) \| $40–90 |
+| Inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-trane-3-flashes-pressure-switch&tag=errorcodefixes-20) \| $150–400 |
+| Condensate trap kit | [Amazon](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-trane-3-flashes-pressure-switch&tag=errorcodefixes-20) \| $15–30 |
+| Drain line tubing (per foot) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-3-flashes-pressure-switch&k=Drain+line+tubing+%28per+foot%29&tag=errorcodefixes-20) \| $1–2 |
 ## When Code 3 Becomes Code 4 or Code 6
 
 If you see 3 flashes that escalate to 4 flashes (open limit) or 6 flashes (rollout), the pressure switch issue has caused secondary overheating. Fix the pressure switch fault first before addressing secondary codes.

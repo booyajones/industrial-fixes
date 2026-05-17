@@ -36,9 +36,9 @@ Nordyne error code E1 means the furnace has gone into system lockout after repea
 
 | Part | Notes |
 |------|-------|
-| Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Nordyne part 904334; verify by model — several variants exist |
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Universal fit available |
-| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match WC rating from the existing switch label |
+| Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-nordyne-furnace-e1-error-code&tag=errorcodefixes-20) \| Nordyne part 904334; verify by model — several variants exist |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-nordyne-furnace-e1-error-code&tag=errorcodefixes-20) \| Universal fit available |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-nordyne-furnace-e1-error-code&tag=errorcodefixes-20) \| Match WC rating from the existing switch label |
 ## When to Call a Pro
 
 If E1 lockout returns after addressing igniter and flame sensor, a tech should verify gas valve operation and combustion quality. Gas pressure testing requires a manometer and gas-certified technician.

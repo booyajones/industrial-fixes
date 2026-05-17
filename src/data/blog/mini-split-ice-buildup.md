@@ -40,7 +40,7 @@ This is the most common cause of ice buildup on a mini-split indoor unit. Mini-s
 
 **Prevention:** Set a monthly reminder to check the filters. This one habit prevents more mini-split problems than any other maintenance.
 
-[Replacement mini-split air filters on Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20)
+[Replacement mini-split air filters on Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-mini-split-ice-buildup&tag=errorcodefixes-20)
 
 ## 2. Low Refrigerant Charge
 
@@ -78,7 +78,7 @@ Mini-splits produce condensation as they cool the air. That water collects in a 
 
 **The fix:** Turn off the unit. Locate the condensate drain line (the plastic tube running from the indoor unit to the outside). Detach it and blow through it to clear the blockage. For algae buildup, use a wet/dry vacuum to pull debris through the line or flush it with diluted bleach.
 
-[Condensate drain cleaning tablet on Amazon](https://www.amazon.com/s?i=industrial&k=condensate+drain+cleaner+tablets&tag=errorcodefixes-20)
+[Condensate drain cleaning tablet on Amazon](https://www.amazon.com/s?ascsubtag=ecf-mini-split-ice-buildup&k=condensate+drain+cleaner+tablets&tag=errorcodefixes-20)
 
 ## 5. Fan Speed Set Too Low
 
@@ -94,7 +94,7 @@ Even with clean filters, the evaporator coils can accumulate dust over time. The
 
 **The fix:** Use a soft brush or a can of compressed air to gently remove loose dust from the coil. For heavy buildup, use a foaming coil cleaner designed for mini-splits. Rinse with a spray bottle and let it drain into the condensate pan.
 
-[Foaming coil cleaner for mini-splits on Amazon](https://www.amazon.com/s?i=industrial&k=mini+split+coil+cleaner+spray&tag=errorcodefixes-20)
+[Foaming coil cleaner for mini-splits on Amazon](https://www.amazon.com/s?ascsubtag=ecf-mini-split-ice-buildup&k=mini+split+coil+cleaner+spray&tag=errorcodefixes-20)
 
 ## 7. Faulty Indoor Fan Motor
 
@@ -107,7 +107,7 @@ If the indoor fan motor is failing, it may run slower than intended or not at al
 
 **The fix:** A bad fan motor needs replacement. This requires accessing the motor behind the evaporator assembly, which involves removing the housing, disconnecting wiring, and replacing the motor and sometimes the fan wheel.
 
-[Replacement mini-split fan motor on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20)
+[Replacement mini-split fan motor on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-mini-split-ice-buildup&tag=errorcodefixes-20)
 
 ## 8. Restricted or Kinked Refrigerant Lines
 
@@ -124,10 +124,10 @@ The refrigerant lines connecting the indoor and outdoor units are relatively thi
 
 ## Parts You May Need
 
-- [Replacement air filters](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20)
-- [Condensate drain cleaning tablets](https://www.amazon.com/s?i=industrial&k=condensate+drain+cleaner+tablets&tag=errorcodefixes-20)
-- [Mini-split coil cleaner](https://www.amazon.com/s?i=industrial&k=mini+split+coil+cleaner+spray&tag=errorcodefixes-20)
-- [Indoor fan motor](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20)
+- [Replacement air filters](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-mini-split-ice-buildup&tag=errorcodefixes-20)
+- [Condensate drain cleaning tablets](https://www.amazon.com/s?ascsubtag=ecf-mini-split-ice-buildup&k=condensate+drain+cleaner+tablets&tag=errorcodefixes-20)
+- [Mini-split coil cleaner](https://www.amazon.com/s?ascsubtag=ecf-mini-split-ice-buildup&k=mini+split+coil+cleaner+spray&tag=errorcodefixes-20)
+- [Indoor fan motor](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-mini-split-ice-buildup&tag=errorcodefixes-20)
 
 ---
 

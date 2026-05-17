@@ -58,9 +58,9 @@ The ETU display shows the last trip cause — press the "i" or RESET button to r
 
 | Part | Notes |
 |------|-------|
-| ETU module | [Amazon](https://www.amazon.com/s?i=industrial&k=ETU+module&tag=errorcodefixes-20) \| Plug-in replacement without replacing breaker |
-| COM module | [Amazon](https://www.amazon.com/s?i=industrial&k=COM+module&tag=errorcodefixes-20) \| Adds Modbus/PROFIBUS for monitoring |
-| Shunt trip | [Amazon](https://www.amazon.com/s?i=industrial&k=Shunt+trip&tag=errorcodefixes-20) \| Remote trip coil accessory |
+| ETU module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-sentron-fault-codes&k=ETU+module&tag=errorcodefixes-20) \| Plug-in replacement without replacing breaker |
+| COM module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-sentron-fault-codes&k=COM+module&tag=errorcodefixes-20) \| Adds Modbus/PROFIBUS for monitoring |
+| Shunt trip | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-sentron-fault-codes&k=Shunt+trip&tag=errorcodefixes-20) \| Remote trip coil accessory |
 ## Jump to Fix
 
 - **L overload trip** → Measure current → Adjust load or Ir setting

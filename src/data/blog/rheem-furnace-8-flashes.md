@@ -37,9 +37,9 @@ Eight flashes on a Rheem furnace status LED indicates an **ignition lockout** �
 
 | Part | Notes |
 |------|-------|
-| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Universal or OEM; clean first before replacing |
-| Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Match voltage (120V) and mounting style — Rheem commonly uses Norton/Saint-Gobain ignitors |
-| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Only replace after confirming pressure and wiring are correct |
+| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-rheem-furnace-8-flashes&tag=errorcodefixes-20) \| Universal or OEM; clean first before replacing |
+| Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-rheem-furnace-8-flashes&tag=errorcodefixes-20) \| Match voltage (120V) and mounting style — Rheem commonly uses Norton/Saint-Gobain ignitors |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-rheem-furnace-8-flashes&tag=errorcodefixes-20) \| Only replace after confirming pressure and wiring are correct |
 ## When to Call a Pro
 
 If you've cleaned the sensor and replaced the ignitor but the furnace still locks out, have a technician check gas valve operation with a manometer and verify the control board is sending proper ignitor power voltage (typically 120V AC). Continued lockouts with a known-good sensor can indicate a cracked heat exchanger affecting combustion air — a CO risk.

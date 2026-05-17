@@ -38,8 +38,8 @@ Fault E7 on a Mitsubishi FR-A800 drive indicates a CPU fault — the main contro
 
 | Part | Notes |
 |------|-------|
-| Control PCB (FR-A800) | [Amazon](https://www.amazon.com/s?i=industrial&k=Control+PCB+%28FR-A800%29&tag=errorcodefixes-20) \| Frame-size specific; source from Mitsubishi FA or authorized distributor |
-| Drive (replacement unit) | [Amazon](https://www.amazon.com/s?i=industrial&k=Drive+%28replacement+unit%29&tag=errorcodefixes-20) \| For older FR-A800 units where control board availability is limited |
+| Control PCB (FR-A800) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-fr-a800-fault-e7&k=Control+PCB+%28FR-A800%29&tag=errorcodefixes-20) \| Frame-size specific; source from Mitsubishi FA or authorized distributor |
+| Drive (replacement unit) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-fr-a800-fault-e7&k=Drive+%28replacement+unit%29&tag=errorcodefixes-20) \| For older FR-A800 units where control board availability is limited |
 ## When to Call a Pro
 
 E7 almost always requires a Mitsubishi-certified drive technician. Unauthorized firmware loading or improper control board replacement can permanently damage an FR-A800. Contact Mitsubishi Factory Automation technical support for E7 diagnosis.

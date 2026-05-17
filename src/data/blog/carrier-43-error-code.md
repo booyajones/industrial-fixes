@@ -48,9 +48,9 @@ Once the root cause is corrected, locate the rollout switch (typically a disc-sh
 
 | Part | Where to Buy |
 |------|-------------|
-| [Rollout switch / limit switch](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
-| [Inducer motor assembly](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) | RepairClinic, Grainger |
-| [Gas valve](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) | SupplyHouse, Grainger |
+| [Rollout switch / limit switch](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-carrier-43-error-code&tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
+| [Inducer motor assembly](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-carrier-43-error-code&tag=errorcodefixes-20) | RepairClinic, Grainger |
+| [Gas valve](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-carrier-43-error-code&tag=errorcodefixes-20) | SupplyHouse, Grainger |
 
 ## When to Call a Technician
 

@@ -38,10 +38,10 @@ E04 on a Lochinvar boiler indicates that the high-limit safety has tripped. The 
 
 | Part | Notes |
 |------|-------|
-| Circulator pump | [Amazon](https://www.amazon.com/s?i=industrial&k=Circulator+pump&tag=errorcodefixes-20) \| Replace if pump motor is seized or impeller is broken |
-| Pump run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Replace if pump hums but does not rotate |
-| High-limit switch / sensor | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Replace if sensor reads incorrectly or switch contacts are faulty |
-| Expansion tank | [Amazon](https://www.amazon.com/s?i=industrial&k=Expansion+tank&tag=errorcodefixes-20) \| Replace if waterlogged (system pressure spikes rapidly on heat call) |
+| Circulator pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lochinvar-boiler-error-code-e04&k=Circulator+pump&tag=errorcodefixes-20) \| Replace if pump motor is seized or impeller is broken |
+| Pump run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-lochinvar-boiler-error-code-e04&tag=errorcodefixes-20) \| Replace if pump hums but does not rotate |
+| High-limit switch / sensor | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-lochinvar-boiler-error-code-e04&tag=errorcodefixes-20) \| Replace if sensor reads incorrectly or switch contacts are faulty |
+| Expansion tank | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lochinvar-boiler-error-code-e04&k=Expansion+tank&tag=errorcodefixes-20) \| Replace if waterlogged (system pressure spikes rapidly on heat call) |
 ## When to Call a Pro
 
 If E04 persists after verifying flow and resetting, a Lochinvar-authorized technician should perform combustion and flow analysis. Scale buildup and heat exchanger damage must be evaluated by a professional with proper flushing equipment.

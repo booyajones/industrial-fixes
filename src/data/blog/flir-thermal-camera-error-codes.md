@@ -45,9 +45,9 @@ If the detector or imaging core fails to initialize, the camera may display a bl
 
 | Part | Notes |
 |------|-------|
-| OEM battery pack | [Amazon](https://www.amazon.com/s?i=industrial&k=OEM+battery+pack&tag=errorcodefixes-20) \| Third-party packs are a common problem |
-| SD card | [Amazon](https://www.amazon.com/s?i=industrial&k=SD+card&tag=errorcodefixes-20) \| Use industrial or high-endurance media |
-| Lens assembly | [Amazon](https://www.amazon.com/s?i=industrial&k=Lens+assembly&tag=errorcodefixes-20) \| Only on removable-lens T-series models |
-| USB / charging dock | [Amazon](https://www.amazon.com/s?i=industrial&k=USB+%2F+charging+dock&tag=errorcodefixes-20) \| Damaged docks cause charging faults |
+| OEM battery pack | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-flir-thermal-camera-error-codes&k=OEM+battery+pack&tag=errorcodefixes-20) \| Third-party packs are a common problem |
+| SD card | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-flir-thermal-camera-error-codes&k=SD+card&tag=errorcodefixes-20) \| Use industrial or high-endurance media |
+| Lens assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-flir-thermal-camera-error-codes&k=Lens+assembly&tag=errorcodefixes-20) \| Only on removable-lens T-series models |
+| USB / charging dock | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-flir-thermal-camera-error-codes&k=USB+%2F+charging+dock&tag=errorcodefixes-20) \| Damaged docks cause charging faults |
 ## When to Call a Pro
 Persistent detector, shutter, or calibration errors usually require FLIR service. Do not open the camera body in the field. Thermal camera calibration and detector alignment are factory procedures.

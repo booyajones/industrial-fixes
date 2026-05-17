@@ -77,10 +77,10 @@ PMC alarms on Doosan machines show as "PMC ALARM" followed by the alarm number. 
 
 | Part | Notes |
 |------|-------|
-| Hydraulic filter | [Amazon](https://www.amazon.com/s?i=industrial&k=Hydraulic+filter&tag=errorcodefixes-20) \| Replace on pressure alarm |
-| Spindle oil | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+oil&tag=errorcodefixes-20) \| Fill to correct level |
-| Turret position sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Turret+position+sensor&tag=errorcodefixes-20) \| Check on turret fault alarms |
-| ATC servo motor | [Amazon](https://www.amazon.com/s?i=industrial&k=ATC+servo+motor&tag=errorcodefixes-20) \| Check on persistent ATC faults |
+| Hydraulic filter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-doosan-cnc-fault-codes&k=Hydraulic+filter&tag=errorcodefixes-20) \| Replace on pressure alarm |
+| Spindle oil | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-doosan-cnc-fault-codes&k=Spindle+oil&tag=errorcodefixes-20) \| Fill to correct level |
+| Turret position sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-doosan-cnc-fault-codes&k=Turret+position+sensor&tag=errorcodefixes-20) \| Check on turret fault alarms |
+| ATC servo motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-doosan-cnc-fault-codes&k=ATC+servo+motor&tag=errorcodefixes-20) \| Check on persistent ATC faults |
 ## Jump to Fix
 
 - **9001 hydraulic** → Check oil level → Check pump → Check pressure switch

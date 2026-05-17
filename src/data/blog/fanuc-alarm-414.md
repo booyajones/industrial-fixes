@@ -50,10 +50,10 @@ Following error is always present during motion (it's physically impossible to h
 
 | Part | Where to Buy | Typical Cost |
 |------|-------------|-------------|
-| Encoder cable (Fanuc encoder cable, model-specific) | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+cable+%28Fanuc+encoder+cable%2C+model-specific%29&tag=errorcodefixes-20) \| Fanuc America, Motion Controls LLC | $80–$350 |
-| Motor coupling (Lovejoy or Ruland, size-matched) | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+coupling+%28Lovejoy+or+Ruland%2C+size-matched%29&tag=errorcodefixes-20) \| MSC Industrial, McMaster-Carr | $30–$120 |
-| Absolute encoder / pulse coder (A860-0309 series) | [Amazon](https://www.amazon.com/s?i=industrial&k=Absolute+encoder+%2F+pulse+coder+%28A860-0309+series%29&tag=errorcodefixes-20) \| Fanuc America, CNC dealers | $400–$1,200 |
-| Ballscrew (machine-specific) | [Amazon](https://www.amazon.com/s?i=industrial&k=Ballscrew+%28machine-specific%29&tag=errorcodefixes-20) \| NSK, THK distributors | $500–$3,000 |
+| Encoder cable (Fanuc encoder cable, model-specific) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-414&k=Encoder+cable+%28Fanuc+encoder+cable%2C+model-specific%29&tag=errorcodefixes-20) \| Fanuc America, Motion Controls LLC | $80–$350 |
+| Motor coupling (Lovejoy or Ruland, size-matched) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-414&k=Motor+coupling+%28Lovejoy+or+Ruland%2C+size-matched%29&tag=errorcodefixes-20) \| MSC Industrial, McMaster-Carr | $30–$120 |
+| Absolute encoder / pulse coder (A860-0309 series) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-414&k=Absolute+encoder+%2F+pulse+coder+%28A860-0309+series%29&tag=errorcodefixes-20) \| Fanuc America, CNC dealers | $400–$1,200 |
+| Ballscrew (machine-specific) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-414&k=Ballscrew+%28machine-specific%29&tag=errorcodefixes-20) \| NSK, THK distributors | $500–$3,000 |
 ## When to Call a Professional
 
 If mechanical checks are clean, the coupling is solid, encoder cable looks good, and you're still getting Alarm 414 — you need servo parameter analysis by a Fanuc-certified technician. Following error alarms that can't be traced to mechanical or cable issues usually point to servo gain tuning problems or a failing servo amplifier that's not delivering commanded current accurately. These require live servo oscilloscope traces and parameter adjustment under controlled conditions. Tell the tech: "Alarm 414 on axis [n], no mechanical binding, coupling is tight, encoder cable is intact. I need servo gain analysis and amplifier output verification."

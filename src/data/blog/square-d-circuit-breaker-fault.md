@@ -48,11 +48,11 @@ Masterpact breakers track contact wear via operating cycles. When the contact we
 
 | Part | Notes |
 |------|-------|
-| Micrologic trip unit | [Amazon](https://www.amazon.com/s?i=industrial&k=Micrologic+trip+unit&tag=errorcodefixes-20) \| Replacement when electronics fail |
-| Arc chutes | [Amazon](https://www.amazon.com/s?i=industrial&k=Arc+chutes&tag=errorcodefixes-20) \| Replace after multiple SC trips |
-| BSCM communication module | [Amazon](https://www.amazon.com/s?i=industrial&k=BSCM+communication+module&tag=errorcodefixes-20) \| Replace on communication fault |
-| Auxiliary contact blocks | [Amazon](https://www.amazon.com/s?i=industrial&k=Auxiliary+contact+blocks&tag=errorcodefixes-20) \| Replace on worn auxiliary contacts |
-| Breaker body (NW/NT) | [Amazon](https://www.amazon.com/s?i=industrial&k=Breaker+body+%28NW%2FNT%29&tag=errorcodefixes-20) \| Replace at end of contact life |
+| Micrologic trip unit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-square-d-circuit-breaker-fault&k=Micrologic+trip+unit&tag=errorcodefixes-20) \| Replacement when electronics fail |
+| Arc chutes | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-square-d-circuit-breaker-fault&k=Arc+chutes&tag=errorcodefixes-20) \| Replace after multiple SC trips |
+| BSCM communication module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-square-d-circuit-breaker-fault&k=BSCM+communication+module&tag=errorcodefixes-20) \| Replace on communication fault |
+| Auxiliary contact blocks | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-square-d-circuit-breaker-fault&k=Auxiliary+contact+blocks&tag=errorcodefixes-20) \| Replace on worn auxiliary contacts |
+| Breaker body (NW/NT) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-square-d-circuit-breaker-fault&k=Breaker+body+%28NW%2FNT%29&tag=errorcodefixes-20) \| Replace at end of contact life |
 ## When to Call a Pro
 Circuit breaker maintenance and replacement in 400A–6300A switchgear requires a licensed electrician. Do not reset a breaker after a short circuit trip without inspecting the load circuit thoroughly.
 

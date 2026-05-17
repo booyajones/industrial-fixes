@@ -44,9 +44,9 @@ The lid pressure switch didn't confirm correct lid seal or pressure. Check lid g
 
 | Part | Notes |
 |------|-------|
-| Thermocouple | [Amazon](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) \| Henny Penny OEM — type K typically |
-| Hi-limit thermostat | [Amazon](https://www.amazon.com/s?i=industrial&k=Hi-limit+thermostat&tag=errorcodefixes-20) \| Manual reset type — replace if won't hold |
-| Lid gasket | [Amazon](https://www.amazon.com/s?i=industrial&k=Lid+gasket&tag=errorcodefixes-20) \| For pressure fryer E-5 — replace if cracked |
+| Thermocouple | [Amazon](https://www.amazon.com/dp/B00RJF4PYQ?ascsubtag=ecf-henny-penny-fryer-error-codes&tag=errorcodefixes-20) \| Henny Penny OEM — type K typically |
+| Hi-limit thermostat | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-henny-penny-fryer-error-codes&k=Hi-limit+thermostat&tag=errorcodefixes-20) \| Manual reset type — replace if won't hold |
+| Lid gasket | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-henny-penny-fryer-error-codes&k=Lid+gasket&tag=errorcodefixes-20) \| For pressure fryer E-5 — replace if cracked |
 ## When to Call a Pro
 
 E-2/E-4 high temperature events require root cause investigation before returning to service. Gas work requires a certified technician.

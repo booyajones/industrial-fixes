@@ -72,11 +72,11 @@ Fix:
 
 | Part | Where to Buy | Typical Cost |
 |------|--------------|--------------|
-| Flame rod (Rheem AS39717) | [Check price on Amazon](https://www.amazon.com/s?i=industrial&k="AS39717"+Rheem+flame+rod&tag=errorcodefixes-20) \| Rheem parts | $30-$60 |
-| Combustion fan motor | [Check price on Amazon](https://www.amazon.com/s?i=industrial&k=Rheem+tankless+combustion+fan&tag=errorcodefixes-20) \| supply house | $180-$320 |
-| Air pressure switch | [Check price on Amazon](https://www.amazon.com/s?i=industrial&k=Rheem+tankless+air+pressure+switch&tag=errorcodefixes-20) | $40-$90 |
-| Tankless descale kit (pump + hoses + descaler) | [Check price on Amazon](https://www.amazon.com/s?i=industrial&k="tankless+water+heater+flush+kit"&tag=errorcodefixes-20) | $90-$160 |
-| Condensate neutralizer cartridge | [Check price on Amazon](https://www.amazon.com/s?i=industrial&k="condensate+neutralizer"+tankless&tag=errorcodefixes-20) | $35-$70 |
+| Flame rod (Rheem AS39717) | [Check price on Amazon](https://www.amazon.com/s?ascsubtag=ecf-rheem-performance-platinum-pdn-error-codes&k="AS39717"+Rheem+flame+rod&tag=errorcodefixes-20) \| Rheem parts | $30-$60 |
+| Combustion fan motor | [Check price on Amazon](https://www.amazon.com/s?ascsubtag=ecf-rheem-performance-platinum-pdn-error-codes&k=Rheem+tankless+combustion+fan&tag=errorcodefixes-20) \| supply house | $180-$320 |
+| Air pressure switch | [Check price on Amazon](https://www.amazon.com/s?ascsubtag=ecf-rheem-performance-platinum-pdn-error-codes&k=Rheem+tankless+air+pressure+switch&tag=errorcodefixes-20) | $40-$90 |
+| Tankless descale kit (pump + hoses + descaler) | [Check price on Amazon](https://www.amazon.com/s?ascsubtag=ecf-rheem-performance-platinum-pdn-error-codes&k="tankless+water+heater+flush+kit"&tag=errorcodefixes-20) | $90-$160 |
+| Condensate neutralizer cartridge | [Check price on Amazon](https://www.amazon.com/s?ascsubtag=ecf-rheem-performance-platinum-pdn-error-codes&k="condensate+neutralizer"+tankless&tag=errorcodefixes-20) | $35-$70 |
 | Gas valve assembly | Rheem dealer | $280-$450 |
 
 ## Technician Tips

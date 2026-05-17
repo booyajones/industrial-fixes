@@ -36,10 +36,10 @@ Three flashes on a York furnace LED indicates a pressure switch fault. The contr
 
 | Part | Notes |
 |------|-------|
-| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match the WC rating; York uses several different ratings across their lineup |
-| Draft motor run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Cheap; often the real culprit when motor hums but doesn't spin |
-| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| 3/8" ID rubber tubing; cut to length |
-| Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) \| Replace if cracked or permanently fouled |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-york-3-flashes-error-code&tag=errorcodefixes-20) \| Match the WC rating; York uses several different ratings across their lineup |
+| Draft motor run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-york-3-flashes-error-code&tag=errorcodefixes-20) \| Cheap; often the real culprit when motor hums but doesn't spin |
+| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?ascsubtag=ecf-york-3-flashes-error-code&tag=errorcodefixes-20) \| 3/8" ID rubber tubing; cut to length |
+| Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-york-3-flashes-error-code&tag=errorcodefixes-20) \| Replace if cracked or permanently fouled |
 ## When to Call a Pro
 
 If the draft motor runs at full speed, vents are clear, and the hose is intact, but the switch won't close, a tech should verify the actual pressure with a manometer. Using a wrong-rated replacement switch causes the same fault.

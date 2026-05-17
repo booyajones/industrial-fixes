@@ -50,11 +50,11 @@ Cycle the key off, wait 30 seconds, then restart. If E9-1 clears, it may have be
 
 | Part | Notes |
 |------|-------|
-| Motor thermal sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+thermal+sensor&tag=errorcodefixes-20) \| Replace on E1/E2 overheat |
-| Drive motor brushes (older models) | [Amazon](https://www.amazon.com/s?i=industrial&k=Drive+motor+brushes+%28older+models%29&tag=errorcodefixes-20) \| Replace on current fault |
-| Battery charger | [Amazon](https://www.amazon.com/s?i=industrial&k=Battery+charger&tag=errorcodefixes-20) \| Replace on charging faults |
-| Engine oil pressure sender | [Amazon](https://www.amazon.com/s?i=industrial&k=Engine+oil+pressure+sender&tag=errorcodefixes-20) \| Replace on A01 fault |
-| Thermostat | [Amazon](https://www.amazon.com/s?i=industrial&k=Thermostat&tag=errorcodefixes-20) \| Replace on A02 coolant fault |
+| Motor thermal sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-toyota-forklift-error-codes&k=Motor+thermal+sensor&tag=errorcodefixes-20) \| Replace on E1/E2 overheat |
+| Drive motor brushes (older models) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-toyota-forklift-error-codes&k=Drive+motor+brushes+%28older+models%29&tag=errorcodefixes-20) \| Replace on current fault |
+| Battery charger | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-toyota-forklift-error-codes&k=Battery+charger&tag=errorcodefixes-20) \| Replace on charging faults |
+| Engine oil pressure sender | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-toyota-forklift-error-codes&k=Engine+oil+pressure+sender&tag=errorcodefixes-20) \| Replace on A01 fault |
+| Thermostat | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-toyota-forklift-error-codes&k=Thermostat&tag=errorcodefixes-20) \| Replace on A02 coolant fault |
 ## When to Call a Pro
 Toyota forklift hydraulic and mast component repairs, battery systems on lithium-ion models, and engine overhauls require Toyota Material Handling authorized service. Engine and transmission removal requires proper lifting equipment and training.
 

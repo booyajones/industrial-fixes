@@ -38,9 +38,9 @@ E6 on a Pioneer mini split indicates a communication error between the indoor ai
 
 | Part | Notes |
 |------|-------|
-| Communication wire (S wire) | [Amazon](https://www.amazon.com/s?i=industrial&k=Communication+wire+%28S+wire%29&tag=errorcodefixes-20) \| 18 AWG solid or stranded; match existing run length |
-| Outdoor control PCB | [Amazon](https://www.amazon.com/s?i=industrial&k=Outdoor+control+PCB&tag=errorcodefixes-20) \| Match Pioneer model number exactly |
-| Indoor control PCB | [Amazon](https://www.amazon.com/s?i=industrial&k=Indoor+control+PCB&tag=errorcodefixes-20) \| Less common failure point, but possible after electrical surge |
+| Communication wire (S wire) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-pioneer-mini-split-error-code-e6&k=Communication+wire+%28S+wire%29&tag=errorcodefixes-20) \| 18 AWG solid or stranded; match existing run length |
+| Outdoor control PCB | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-pioneer-mini-split-error-code-e6&k=Outdoor+control+PCB&tag=errorcodefixes-20) \| Match Pioneer model number exactly |
+| Indoor control PCB | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-pioneer-mini-split-error-code-e6&k=Indoor+control+PCB&tag=errorcodefixes-20) \| Less common failure point, but possible after electrical surge |
 ## When to Call a Pro
 
 If both boards need replacement or the wiring runs through conduit inside a wall, an HVAC technician with mini-split experience can diagnose the communication circuit with a scope or Pioneer's diagnostic mode and replace boards safely.

@@ -36,9 +36,9 @@ Fault 0-30 on Hypertherm plasma cutters (Powermax series) indicates a consumable
 
 | Part | Notes |
 |------|-------|
-| Electrode | [Amazon](https://www.amazon.com/s?i=industrial&k=Electrode&tag=errorcodefixes-20) \| Replace when pit depth exceeds 1/16" (1.5mm) |
-| Nozzle | [Amazon](https://www.amazon.com/s?i=industrial&k=Nozzle&tag=errorcodefixes-20) \| Replace when orifice is eroded or asymmetrical |
-| Shield / retaining cap | [Amazon](https://www.amazon.com/s?i=industrial&k=Shield+%2F+retaining+cap&tag=errorcodefixes-20) \| Replace if cracked, burnt, or threads are damaged |
+| Electrode | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-hypertherm-plasma-cutter-fault-0-30&k=Electrode&tag=errorcodefixes-20) \| Replace when pit depth exceeds 1/16" (1.5mm) |
+| Nozzle | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-hypertherm-plasma-cutter-fault-0-30&k=Nozzle&tag=errorcodefixes-20) \| Replace when orifice is eroded or asymmetrical |
+| Shield / retaining cap | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-hypertherm-plasma-cutter-fault-0-30&k=Shield+%2F+retaining+cap&tag=errorcodefixes-20) \| Replace if cracked, burnt, or threads are damaged |
 ## When to Call a Pro
 
 If all consumables are correct and new and fault 0-30 persists, the torch body or torch lead may have an internal wiring fault. Torch lead repair and power supply diagnostics should be handled by a Hypertherm authorized service center.

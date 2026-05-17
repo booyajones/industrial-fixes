@@ -57,12 +57,12 @@ The Trane YSC is a light commercial gas/electric packaged rooftop unit available
 
 | Part | Notes |
 |---|---|
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Multiple motors on larger tonnage; match HP and RPM |
-| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Check µF against nameplate before replacing motor |
-| ReliaTel controller | [Amazon](https://www.amazon.com/s?i=industrial&k=ReliaTel+controller&tag=errorcodefixes-20) \| For persistent COM or sensor faults |
-| Supply/return air sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Supply%2Freturn+air+sensor&tag=errorcodefixes-20) \| NTC thermistor; causes FP, SAT, or RAT codes |
-| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| 610 PSIG for R-410A |
-| Liquid line filter-drier | [Amazon](https://www.amazon.com/s?i=industrial&k=Liquid+line+filter-drier&tag=errorcodefixes-20) \| Replace after any refrigerant-side repair |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-trane-ysc-error-codes&tag=errorcodefixes-20) \| Multiple motors on larger tonnage; match HP and RPM |
+| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-trane-ysc-error-codes&tag=errorcodefixes-20) \| Check µF against nameplate before replacing motor |
+| ReliaTel controller | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-ysc-error-codes&k=ReliaTel+controller&tag=errorcodefixes-20) \| For persistent COM or sensor faults |
+| Supply/return air sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-ysc-error-codes&k=Supply%2Freturn+air+sensor&tag=errorcodefixes-20) \| NTC thermistor; causes FP, SAT, or RAT codes |
+| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-trane-ysc-error-codes&tag=errorcodefixes-20) \| 610 PSIG for R-410A |
+| Liquid line filter-drier | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-ysc-error-codes&k=Liquid+line+filter-drier&tag=errorcodefixes-20) \| Replace after any refrigerant-side repair |
 ## When to Call a Pro
 
 Trane YSC units require HVAC-R licensed technicians for refrigerant service. The ReliaTel controller has advanced diagnostic capability through the Rover service tool — a dealer-level device that provides sensor readings, fault history, and configuration. BACnet integration troubleshooting should involve the building automation contractor as well as the HVAC technician.

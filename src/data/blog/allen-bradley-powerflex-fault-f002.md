@@ -36,9 +36,9 @@ Allen-Bradley PowerFlex fault F002 means Auxiliary Input — a digital input con
 
 | Part | Notes |
 |------|-------|
-| Terminal block wire (18–22 AWG) | [Amazon](https://www.amazon.com/s?i=industrial&k=Terminal+block+wire+%2818%E2%80%9322+AWG%29&tag=errorcodefixes-20) \| Replace if the auxiliary input wire is damaged |
-| Motor overload relay | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+overload+relay&tag=errorcodefixes-20) \| If the external device that tripped is the overload; reset or replace |
-| Safety relay (Pilz, Allen-Bradley GuardMaster) | [Amazon](https://www.amazon.com/s?i=industrial&k=Safety+relay+%28Pilz%2C+Allen-Bradley+GuardMaster%29&tag=errorcodefixes-20) \| If the safety circuit is the interlock source and it has failed |
+| Terminal block wire (18–22 AWG) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-fault-f002&k=Terminal+block+wire+%2818%E2%80%9322+AWG%29&tag=errorcodefixes-20) \| Replace if the auxiliary input wire is damaged |
+| Motor overload relay | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-fault-f002&k=Motor+overload+relay&tag=errorcodefixes-20) \| If the external device that tripped is the overload; reset or replace |
+| Safety relay (Pilz, Allen-Bradley GuardMaster) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-fault-f002&k=Safety+relay+%28Pilz%2C+Allen-Bradley+GuardMaster%29&tag=errorcodefixes-20) \| If the safety circuit is the interlock source and it has failed |
 ## When to Call a Pro
 
 If F002 appears and no external device is wired to the auxiliary input terminal, a controls technician should review the drive parameters and program the unused input as "Not Used" to prevent false trips.

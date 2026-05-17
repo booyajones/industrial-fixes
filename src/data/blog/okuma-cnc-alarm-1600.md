@@ -37,9 +37,9 @@ Okuma Alarm 1600 indicates a **communication error between the CNC control unit 
 
 | Part | Notes |
 |------|-------|
-| Drive communication cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Drive+communication+cable&tag=errorcodefixes-20) \| Okuma model-specific; flat ribbon or shielded serial cable |
-| 24VDC control power supply | [Amazon](https://www.amazon.com/s?i=industrial&k=24VDC+control+power+supply&tag=errorcodefixes-20) \| If 24V is absent; match voltage and current rating |
-| Drive module (servo amplifier) | [Amazon](https://www.amazon.com/s?i=industrial&k=Drive+module+%28servo+amplifier%29&tag=errorcodefixes-20) \| If station-specific drive fault persists after reseating |
+| Drive communication cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-okuma-cnc-alarm-1600&k=Drive+communication+cable&tag=errorcodefixes-20) \| Okuma model-specific; flat ribbon or shielded serial cable |
+| 24VDC control power supply | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-okuma-cnc-alarm-1600&k=24VDC+control+power+supply&tag=errorcodefixes-20) \| If 24V is absent; match voltage and current rating |
+| Drive module (servo amplifier) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-okuma-cnc-alarm-1600&k=Drive+module+%28servo+amplifier%29&tag=errorcodefixes-20) \| If station-specific drive fault persists after reseating |
 ## When to Call a Pro
 
 Okuma OSP control and drive communication diagnostics require Okuma service manuals and specialized knowledge of the OPUS drive architecture. If power and cabling check out but 1600 persists, contact Okuma America service or an Okuma-authorized technical center for drive module and control board diagnostics.

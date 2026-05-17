@@ -54,12 +54,12 @@ Common in hard water areas. The stainless HX accumulates scale, reducing heat tr
 
 | Part | Notes |
 |------|-------|
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Clean first, replace if signal persists |
-| Flow sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Flow+sensor&tag=errorcodefixes-20) \| DHW and heating flow sensors differ |
-| Heat exchanger | [Amazon](https://www.amazon.com/s?i=industrial&k=Heat+exchanger&tag=errorcodefixes-20) \| Expensive — descale first |
-| Igniter | [Amazon](https://www.amazon.com/s?i=industrial&k=Igniter&tag=errorcodefixes-20) \| Check resistance before replacing |
-| Fan assembly | [Amazon](https://www.amazon.com/s?i=industrial&k=Fan+assembly&tag=errorcodefixes-20) \| Match NFC model voltage |
-| Outlet temp sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Outlet+temp+sensor&tag=errorcodefixes-20) \| Match sensor resistance specification |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-navien-nfc-error-codes&tag=errorcodefixes-20) \| Clean first, replace if signal persists |
+| Flow sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-nfc-error-codes&k=Flow+sensor&tag=errorcodefixes-20) \| DHW and heating flow sensors differ |
+| Heat exchanger | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-nfc-error-codes&k=Heat+exchanger&tag=errorcodefixes-20) \| Expensive — descale first |
+| Igniter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-nfc-error-codes&k=Igniter&tag=errorcodefixes-20) \| Check resistance before replacing |
+| Fan assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-nfc-error-codes&k=Fan+assembly&tag=errorcodefixes-20) \| Match NFC model voltage |
+| Outlet temp sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-nfc-error-codes&k=Outlet+temp+sensor&tag=errorcodefixes-20) \| Match sensor resistance specification |
 > **Pro tip:** Navien NFC error codes E001–E003 almost always have gas pressure as the root cause. Verify gas pressure at the unit with a manometer before checking ignition components — it saves significant diagnostic time.
 
 ## Related Articles

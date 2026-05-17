@@ -50,11 +50,11 @@ If pipe temperature is too high or too low, the unit shuts down to protect the r
 
 | Part | Notes |
 |------|-------|
-| Intake or pipe sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Intake+or+pipe+sensor&tag=errorcodefixes-20) \| Mitsubishi-specific thermistors |
-| Drain pump | [Amazon](https://www.amazon.com/s?i=industrial&k=Drain+pump&tag=errorcodefixes-20) \| Match voltage and lift height |
-| Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Match PEX model and revision |
-| Fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match speed, HP, and frame |
-| Float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?tag=errorcodefixes-20) \| Universal float switch fits most pans |
+| Intake or pipe sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-city-multi-pex-error&k=Intake+or+pipe+sensor&tag=errorcodefixes-20) \| Mitsubishi-specific thermistors |
+| Drain pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-city-multi-pex-error&k=Drain+pump&tag=errorcodefixes-20) \| Match voltage and lift height |
+| Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-mitsubishi-city-multi-pex-error&tag=errorcodefixes-20) \| Match PEX model and revision |
+| Fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-mitsubishi-city-multi-pex-error&tag=errorcodefixes-20) \| Match speed, HP, and frame |
+| Float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?ascsubtag=ecf-mitsubishi-city-multi-pex-error&tag=errorcodefixes-20) \| Universal float switch fits most pans |
 > **Pro tip:** Mitsubishi City Multi systems allow all indoor unit faults to be read from the G-50A or AE-200 centralized controller. Use the controller's "Monitor" screen to see all unit statuses simultaneously without checking each indoor unit individually.
 
 ## Related Articles

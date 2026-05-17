@@ -37,9 +37,9 @@ Scotsman error code 6 indicates a **long harvest condition occurred multiple tim
 
 | Part | Notes |
 |------|-------|
-| Scotsman scale remover | [Amazon](https://www.amazon.com/s?i=industrial&k=Scotsman+scale+remover&tag=errorcodefixes-20) \| Use Scotsman-approved descaler — phosphoric acid based; follow dilution instructions |
-| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| If water supply is slow or flow is restricted |
-| Hot gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| If harvest consistently takes too long after cleaning |
+| Scotsman scale remover | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-scotsman-ice-machine-error-code-6&k=Scotsman+scale+remover&tag=errorcodefixes-20) \| Use Scotsman-approved descaler — phosphoric acid based; follow dilution instructions |
+| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?ascsubtag=ecf-scotsman-ice-machine-error-code-6&tag=errorcodefixes-20) \| If water supply is slow or flow is restricted |
+| Hot gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-scotsman-ice-machine-error-code-6&tag=errorcodefixes-20) \| If harvest consistently takes too long after cleaning |
 ## When to Call a Pro
 
 If code 6 returns after thorough cleaning, a certified refrigeration technician should check refrigerant charge, hot gas valve operation, and evaporator surface condition. Repeated harvest problems with clean equipment indicate a refrigerant system issue requiring EPA 608 handling.

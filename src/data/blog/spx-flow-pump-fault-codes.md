@@ -47,9 +47,9 @@ Cavitation occurs when suction pressure drops below the fluid's vapor pressure. 
 
 | Part | Notes |
 |------|-------|
-| Mechanical seal | [Amazon](https://www.amazon.com/s?i=industrial&k=Mechanical+seal&tag=errorcodefixes-20) \| Match shaft diameter and material |
-| Impeller wear rings | [Amazon](https://www.amazon.com/s?i=industrial&k=Impeller+wear+rings&tag=errorcodefixes-20) \| Replace as sets |
-| Bearing set | [Amazon](https://www.amazon.com/s?i=industrial&k=Bearing+set&tag=errorcodefixes-20) \| Match pump specification |
-| Suction strainer basket | [Amazon](https://www.amazon.com/s?i=industrial&k=Suction+strainer+basket&tag=errorcodefixes-20) \| Clean or replace regularly |
-| Motor protection relay | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+protection+relay&tag=errorcodefixes-20) \| Match FLA and trip class |
+| Mechanical seal | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-spx-flow-pump-fault-codes&k=Mechanical+seal&tag=errorcodefixes-20) \| Match shaft diameter and material |
+| Impeller wear rings | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-spx-flow-pump-fault-codes&k=Impeller+wear+rings&tag=errorcodefixes-20) \| Replace as sets |
+| Bearing set | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-spx-flow-pump-fault-codes&k=Bearing+set&tag=errorcodefixes-20) \| Match pump specification |
+| Suction strainer basket | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-spx-flow-pump-fault-codes&k=Suction+strainer+basket&tag=errorcodefixes-20) \| Clean or replace regularly |
+| Motor protection relay | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-spx-flow-pump-fault-codes&k=Motor+protection+relay&tag=errorcodefixes-20) \| Match FLA and trip class |
 > **Pro tip:** SPX Flow provides PumpView and other IIoT monitoring tools for their pumping equipment. For process-critical applications, condition-based monitoring with vibration and temperature sensors is more cost-effective than scheduled replacement of bearings and seals.

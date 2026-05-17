@@ -37,10 +37,10 @@ The Ice-O-Matic GEMU090 is an undercounter pearl ice machine. It uses electronic
 
 | Part | Notes |
 |------|-------|
-| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| If fill is slow or intermittent |
-| Auger motor capacitor | [Amazon](https://www.amazon.com/s?i=industrial&k=Auger+motor+capacitor&tag=errorcodefixes-20) \| If motor hums but struggles |
-| Thermistor / probe | [Amazon](https://www.amazon.com/s?i=industrial&k=Thermistor+%2F+probe&tag=errorcodefixes-20) \| Model-specific GEMU090 part |
-| Water filter | [Amazon](https://www.amazon.com/s?i=industrial&k=Water+filter&tag=errorcodefixes-20) \| Replace during service |
+| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?ascsubtag=ecf-ice-o-matic-gemu090-error-codes&tag=errorcodefixes-20) \| If fill is slow or intermittent |
+| Auger motor capacitor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ice-o-matic-gemu090-error-codes&k=Auger+motor+capacitor&tag=errorcodefixes-20) \| If motor hums but struggles |
+| Thermistor / probe | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ice-o-matic-gemu090-error-codes&k=Thermistor+%2F+probe&tag=errorcodefixes-20) \| Model-specific GEMU090 part |
+| Water filter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ice-o-matic-gemu090-error-codes&k=Water+filter&tag=errorcodefixes-20) \| Replace during service |
 ## When to Call a Pro
 Persistent high-temperature or auger-overload faults after cleaning usually point to motor wear or refrigeration issues. A pearl ice specialist is worth calling before the auger and evaporator are damaged.
 

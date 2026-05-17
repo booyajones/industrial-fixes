@@ -80,10 +80,10 @@ Navien units shut down on E024 when the heat exchanger temperature exceeds the t
 
 | Part | Notes |
 |---|---|
-| Thermal fuse | [Amazon](https://www.amazon.com/s?i=industrial&k=Thermal+fuse&tag=errorcodefixes-20) \| Navien part B001-41 or equivalent — match temperature rating |
-| Outlet thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Outlet+thermistor&tag=errorcodefixes-20) \| Navien part — check resistance at known temperature |
-| Inlet filter screen | [Amazon](https://www.amazon.com/s?i=industrial&k=Inlet+filter+screen&tag=errorcodefixes-20) \| Stainless mesh — clean every 6 months in hard water areas |
-| Descaling kit | [Amazon](https://www.amazon.com/s?i=industrial&k=Descaling+kit&tag=errorcodefixes-20) \| Pump + hoses + solution — available from Navien or plumbing supply |
+| Thermal fuse | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-error-code-e024&k=Thermal+fuse&tag=errorcodefixes-20) \| Navien part B001-41 or equivalent — match temperature rating |
+| Outlet thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-error-code-e024&k=Outlet+thermistor&tag=errorcodefixes-20) \| Navien part — check resistance at known temperature |
+| Inlet filter screen | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-error-code-e024&k=Inlet+filter+screen&tag=errorcodefixes-20) \| Stainless mesh — clean every 6 months in hard water areas |
+| Descaling kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-error-code-e024&k=Descaling+kit&tag=errorcodefixes-20) \| Pump + hoses + solution — available from Navien or plumbing supply |
 > **Warning:** E024 is a safety shutdown. Never bypass or disable the thermal fuse. If E024 occurs repeatedly after descaling, the heat exchanger may be permanently damaged and require replacement.
 
 ## Related Articles

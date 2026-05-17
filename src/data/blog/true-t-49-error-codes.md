@@ -108,14 +108,14 @@ If manual defrost won't terminate (the unit stays in defrost indefinitely), the 
 
 | Part | Why | Approx. Cost |
 |------|-----|-------------|
-| [Cabinet temperature sensor — True 800441](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | E1 fault — primary box sensor | $20–$40 |
-| [Evaporator temperature sensor — True 800442](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | E2 fault — defrost termination sensor | $20–$40 |
-| [Defrost heater (model-specific)](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) | E6 — burned out heater | $40–$90 |
-| [Defrost hi-limit thermostat — True 800239](https://www.amazon.com/s?i=industrial&k=Defrost+hi-limit+thermostat+%E2%80%94+True+800239&tag=errorcodefixes-20) | E6 — stuck open thermostat | $15–$30 |
-| [Door gasket (per door)](https://www.amazon.com/dp/B0FPF84HQP?tag=errorcodefixes-20) | E4 — warm cabinet from bad seal | $35–$75 |
-| [Condenser fan motor — True 800267](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) | E4 — condenser not rejecting heat | $60–$120 |
-| [Evaporator fan motor — True 800258](https://www.amazon.com/dp/B01N0J3ZEH?tag=errorcodefixes-20) | E4 — no airflow through evaporator | $40–$80 |
-| [ETC-200 controller](https://www.amazon.com/s?i=industrial&k=ETC-200+controller&tag=errorcodefixes-20) | Control board failure | $80–$150 |
+| [Cabinet temperature sensor — True 800441](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-true-t-49-error-codes&tag=errorcodefixes-20) | E1 fault — primary box sensor | $20–$40 |
+| [Evaporator temperature sensor — True 800442](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-true-t-49-error-codes&tag=errorcodefixes-20) | E2 fault — defrost termination sensor | $20–$40 |
+| [Defrost heater (model-specific)](https://www.amazon.com/dp/B07FVP4CY6?ascsubtag=ecf-true-t-49-error-codes&tag=errorcodefixes-20) | E6 — burned out heater | $40–$90 |
+| [Defrost hi-limit thermostat — True 800239](https://www.amazon.com/s?ascsubtag=ecf-true-t-49-error-codes&k=Defrost+hi-limit+thermostat+%E2%80%94+True+800239&tag=errorcodefixes-20) | E6 — stuck open thermostat | $15–$30 |
+| [Door gasket (per door)](https://www.amazon.com/dp/B0FPF84HQP?ascsubtag=ecf-true-t-49-error-codes&tag=errorcodefixes-20) | E4 — warm cabinet from bad seal | $35–$75 |
+| [Condenser fan motor — True 800267](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-true-t-49-error-codes&tag=errorcodefixes-20) | E4 — condenser not rejecting heat | $60–$120 |
+| [Evaporator fan motor — True 800258](https://www.amazon.com/dp/B01N0J3ZEH?ascsubtag=ecf-true-t-49-error-codes&tag=errorcodefixes-20) | E4 — no airflow through evaporator | $40–$80 |
+| [ETC-200 controller](https://www.amazon.com/s?ascsubtag=ecf-true-t-49-error-codes&k=ETC-200+controller&tag=errorcodefixes-20) | Control board failure | $80–$150 |
 
 True Manufacturing parts are available through Parts Town, KaTom, and Wasserstrom. Always verify part numbers against your T-49's serial number and production date — True has made the T-49 since the 1990s and component specifications have changed across generations.
 

@@ -17,16 +17,16 @@ tags:
 
 Baltimore Aircoil (BAC) cooling towers with electronic fan control panels or variable-frequency drives generate fault conditions based on motor, temperature, and water system monitoring.
 
-| [Fault](https://www.amazon.com/s?i=industrial&k=Fault&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| [Fault](https://www.amazon.com/s?ascsubtag=ecf-baltimore-aircoil-fault-codes&k=Fault&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |-------|---------|-----------|
-| [Fan Motor Overload](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) | Fan motor current too high | Check motor current, bearings, and fan blades |
-| [High Water Temperature](https://www.amazon.com/s?i=industrial&k=High+Water+Temperature&tag=errorcodefixes-20) | Leaving water temperature above setpoint | Check fan operation and heat load |
-| [Low Water Level](https://www.amazon.com/s?i=industrial&k=Low+Water+Level&tag=errorcodefixes-20) | Basin water level low | Check makeup water valve and float |
-| [High Water Level](https://www.amazon.com/s?i=industrial&k=High+Water+Level&tag=errorcodefixes-20) | Basin water level too high | Check overflow and makeup valve |
-| [Vibration Fault](https://www.amazon.com/s?i=industrial&k=Vibration+Fault&tag=errorcodefixes-20) | Vibration sensor triggered | Inspect fan, drive shaft, and bearings |
-| [Motor Phase Loss](https://www.amazon.com/s?i=industrial&k=Motor+Phase+Loss&tag=errorcodefixes-20) | Phase missing to fan motor | Check electrical supply and fuses |
-| [VFD Fault](https://www.amazon.com/s?i=industrial&k=VFD+Fault&tag=errorcodefixes-20) | Variable frequency drive fault | Check VFD fault code display |
-| [Freeze Protection](https://www.amazon.com/s?i=industrial&k=Freeze+Protection&tag=errorcodefixes-20) | Basin temperature near freezing | Activate basin heater, verify controls |
+| [Fan Motor Overload](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-baltimore-aircoil-fault-codes&tag=errorcodefixes-20) | Fan motor current too high | Check motor current, bearings, and fan blades |
+| [High Water Temperature](https://www.amazon.com/s?ascsubtag=ecf-baltimore-aircoil-fault-codes&k=High+Water+Temperature&tag=errorcodefixes-20) | Leaving water temperature above setpoint | Check fan operation and heat load |
+| [Low Water Level](https://www.amazon.com/s?ascsubtag=ecf-baltimore-aircoil-fault-codes&k=Low+Water+Level&tag=errorcodefixes-20) | Basin water level low | Check makeup water valve and float |
+| [High Water Level](https://www.amazon.com/s?ascsubtag=ecf-baltimore-aircoil-fault-codes&k=High+Water+Level&tag=errorcodefixes-20) | Basin water level too high | Check overflow and makeup valve |
+| [Vibration Fault](https://www.amazon.com/s?ascsubtag=ecf-baltimore-aircoil-fault-codes&k=Vibration+Fault&tag=errorcodefixes-20) | Vibration sensor triggered | Inspect fan, drive shaft, and bearings |
+| [Motor Phase Loss](https://www.amazon.com/s?ascsubtag=ecf-baltimore-aircoil-fault-codes&k=Motor+Phase+Loss&tag=errorcodefixes-20) | Phase missing to fan motor | Check electrical supply and fuses |
+| [VFD Fault](https://www.amazon.com/s?ascsubtag=ecf-baltimore-aircoil-fault-codes&k=VFD+Fault&tag=errorcodefixes-20) | Variable frequency drive fault | Check VFD fault code display |
+| [Freeze Protection](https://www.amazon.com/s?ascsubtag=ecf-baltimore-aircoil-fault-codes&k=Freeze+Protection&tag=errorcodefixes-20) | Basin temperature near freezing | Activate basin heater, verify controls |
 
 ## Most Common Faults
 
@@ -51,11 +51,11 @@ BAC VXT and VTL towers often use ABB, Danfoss, or Yaskawa VFDs to vary fan speed
 
 ## Preventive Maintenance Schedule
 
-| [Interval](https://www.amazon.com/s?i=industrial&k=Interval&tag=errorcodefixes-20) | Task |
+| [Interval](https://www.amazon.com/s?ascsubtag=ecf-baltimore-aircoil-fault-codes&k=Interval&tag=errorcodefixes-20) | Task |
 |----------|------|
-| [Monthly](https://www.amazon.com/s?i=industrial&k=Monthly&tag=errorcodefixes-20) | Check basin water level and quality |
-| [Quarterly](https://www.amazon.com/s?i=industrial&k=Quarterly&tag=errorcodefixes-20) | Inspect fan blades, motor, and bearings |
-| [Annually](https://www.amazon.com/s?i=industrial&k=Annually&tag=errorcodefixes-20) | Clean fill media, inspect basin, lubricate bearings |
+| [Monthly](https://www.amazon.com/s?ascsubtag=ecf-baltimore-aircoil-fault-codes&k=Monthly&tag=errorcodefixes-20) | Check basin water level and quality |
+| [Quarterly](https://www.amazon.com/s?ascsubtag=ecf-baltimore-aircoil-fault-codes&k=Quarterly&tag=errorcodefixes-20) | Inspect fan blades, motor, and bearings |
+| [Annually](https://www.amazon.com/s?ascsubtag=ecf-baltimore-aircoil-fault-codes&k=Annually&tag=errorcodefixes-20) | Clean fill media, inspect basin, lubricate bearings |
 
 ## Jump to Fix
 

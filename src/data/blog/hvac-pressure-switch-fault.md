@@ -107,11 +107,11 @@ Inspect the inducer housing for cracks, particularly around the pressure port fi
 
 | Part | Use | Amazon Link |
 |------|-----|-------------|
-| Universal Furnace Pressure Switch (adjustable) | Replace failed pressure switch | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) |
-| Draft Inducer Motor (universal or OEM match) | Replace failed or weak inducer motor | [View on Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) |
-| Rubber Pressure Hose Tubing (1/4-inch ID) | Replace cracked or brittle pressure hoses | [View on Amazon](https://www.amazon.com/s?i=industrial&k=1+4+inch+rubber+tubing+HVAC+pressure+hose&tag=errorcodefixes-20) |
-| Condensate Pump (115V, 1/30 HP) | Replace failed condensate pump | [View on Amazon](https://www.amazon.com/s?i=industrial&k=HVAC+condensate+pump+115V&tag=errorcodefixes-20) |
-| Digital Manometer (HVAC) | Measure actual draft pressure at switch | [View on Amazon](https://www.amazon.com/s?i=industrial&k=digital+manometer+HVAC+draft&tag=errorcodefixes-20) |
+| Universal Furnace Pressure Switch (adjustable) | Replace failed pressure switch | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-hvac-pressure-switch-fault&tag=errorcodefixes-20) |
+| Draft Inducer Motor (universal or OEM match) | Replace failed or weak inducer motor | [View on Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-hvac-pressure-switch-fault&tag=errorcodefixes-20) |
+| Rubber Pressure Hose Tubing (1/4-inch ID) | Replace cracked or brittle pressure hoses | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-hvac-pressure-switch-fault&k=1+4+inch+rubber+tubing+HVAC+pressure+hose&tag=errorcodefixes-20) |
+| Condensate Pump (115V, 1/30 HP) | Replace failed condensate pump | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-hvac-pressure-switch-fault&k=HVAC+condensate+pump+115V&tag=errorcodefixes-20) |
+| Digital Manometer (HVAC) | Measure actual draft pressure at switch | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-hvac-pressure-switch-fault&k=digital+manometer+HVAC+draft&tag=errorcodefixes-20) |
 
 ## When to Call a Pro
 

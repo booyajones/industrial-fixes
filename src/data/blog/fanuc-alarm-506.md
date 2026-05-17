@@ -110,10 +110,10 @@ If mechanical and encoder checks are clean, the servo amplifier is the prime sus
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|-------------|
-| Fanuc Servo Amplifier (αi series) | $500–$2,000+ | [Amazon](https://www.amazon.com/s?i=industrial&k=Fanuc+servo+amplifier+A06B+replacement&tag=errorcodefixes-20) |
-| Fanuc Encoder Cable | $80–$300 | [Amazon](https://www.amazon.com/s?i=industrial&k=Fanuc+encoder+cable+servo+motor+replacement&tag=errorcodefixes-20) |
-| Fanuc αi Servo Motor | $800–$3,000+ | [Amazon](https://www.amazon.com/s?i=industrial&k=Fanuc+servo+motor+alpha+i+replacement&tag=errorcodefixes-20) |
-| Ballscrew Nut (machine specific) | $300–$1,500 | [Amazon](https://www.amazon.com/s?i=industrial&k=CNC+ballscrew+nut+replacement+machining+center&tag=errorcodefixes-20) |
+| Fanuc Servo Amplifier (αi series) | $500–$2,000+ | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-506&k=Fanuc+servo+amplifier+A06B+replacement&tag=errorcodefixes-20) |
+| Fanuc Encoder Cable | $80–$300 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-506&k=Fanuc+encoder+cable+servo+motor+replacement&tag=errorcodefixes-20) |
+| Fanuc αi Servo Motor | $800–$3,000+ | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-506&k=Fanuc+servo+motor+alpha+i+replacement&tag=errorcodefixes-20) |
+| Ballscrew Nut (machine specific) | $300–$1,500 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-506&k=CNC+ballscrew+nut+replacement+machining+center&tag=errorcodefixes-20) |
 
 > **Important on pricing:** Fanuc servo drives are precision industrial components. Prices vary widely between new Fanuc-authorized parts, rebuilt units, and used surplus. Always verify part numbers against the machine tool builder documentation before ordering.
 

@@ -20,14 +20,14 @@ PLC faults usually fall into a few buckets: major fault, I/O bus fault, battery/
 
 ## Common PLC Fault Categories
 
-| [Fault Type](https://www.amazon.com/s?i=industrial&k=Fault+Type&tag=errorcodefixes-20) | Typical Meaning |
+| [Fault Type](https://www.amazon.com/s?ascsubtag=ecf-plc-fault-codes-guide&k=Fault+Type&tag=errorcodefixes-20) | Typical Meaning |
 |---|---|
-| [Major fault](https://www.amazon.com/s?i=industrial&k=Major+fault&tag=errorcodefixes-20) | Controller halted due to program or hardware issue |
-| [I/O communication fault](https://www.amazon.com/s?i=industrial&k=I%2FO+communication+fault&tag=errorcodefixes-20) | Remote I/O rack offline or bus interrupted |
-| [Battery / memory fault](https://www.amazon.com/s?i=industrial&k=Battery+%2F+memory+fault&tag=errorcodefixes-20) | Retentive memory at risk or corrupted |
-| [Watchdog timeout](https://www.amazon.com/s?i=industrial&k=Watchdog+timeout&tag=errorcodefixes-20) | Task scan exceeded allowable time |
-| [Redundant mismatch](https://www.amazon.com/s?i=industrial&k=Redundant+mismatch&tag=errorcodefixes-20) | Firmware or project mismatch between controllers |
-| [Fieldbus loss](https://www.amazon.com/s?i=industrial&k=Fieldbus+loss&tag=errorcodefixes-20) | Ethernet/IP, Profinet, Profibus, DeviceNet, or Modbus issue |
+| [Major fault](https://www.amazon.com/s?ascsubtag=ecf-plc-fault-codes-guide&k=Major+fault&tag=errorcodefixes-20) | Controller halted due to program or hardware issue |
+| [I/O communication fault](https://www.amazon.com/s?ascsubtag=ecf-plc-fault-codes-guide&k=I%2FO+communication+fault&tag=errorcodefixes-20) | Remote I/O rack offline or bus interrupted |
+| [Battery / memory fault](https://www.amazon.com/s?ascsubtag=ecf-plc-fault-codes-guide&k=Battery+%2F+memory+fault&tag=errorcodefixes-20) | Retentive memory at risk or corrupted |
+| [Watchdog timeout](https://www.amazon.com/s?ascsubtag=ecf-plc-fault-codes-guide&k=Watchdog+timeout&tag=errorcodefixes-20) | Task scan exceeded allowable time |
+| [Redundant mismatch](https://www.amazon.com/s?ascsubtag=ecf-plc-fault-codes-guide&k=Redundant+mismatch&tag=errorcodefixes-20) | Firmware or project mismatch between controllers |
+| [Fieldbus loss](https://www.amazon.com/s?ascsubtag=ecf-plc-fault-codes-guide&k=Fieldbus+loss&tag=errorcodefixes-20) | Ethernet/IP, Profinet, Profibus, DeviceNet, or Modbus issue |
 
 ## Brand Patterns to Know
 

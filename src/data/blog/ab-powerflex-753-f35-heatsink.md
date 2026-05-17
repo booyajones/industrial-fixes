@@ -64,11 +64,11 @@ If the drive trips F35 while cold and clean, or returns immediately after reset,
 
 ## Parts You May Need
 
-- [Compressed air duster for electronics](https://www.amazon.com/s?i=industrial&k=compressed+air+duster+for+electronics&tag=errorcodefixes-20)
-- [PowerFlex cooling fan](https://www.amazon.com/s?i=industrial&k=PowerFlex+cooling+fan&tag=errorcodefixes-20)
-- [Panel filter fan kit](https://www.amazon.com/s?i=industrial&k=panel+filter+fan+kit&tag=errorcodefixes-20)
-- [Enclosure air conditioner](https://www.amazon.com/s?i=industrial&k=enclosure+air+conditioner&tag=errorcodefixes-20)
-- [Infrared thermometer](https://www.amazon.com/s?i=industrial&k=infrared+thermometer&tag=errorcodefixes-20)
+- [Compressed air duster for electronics](https://www.amazon.com/s?ascsubtag=ecf-ab-powerflex-753-f35-heatsink&k=compressed+air+duster+for+electronics&tag=errorcodefixes-20)
+- [PowerFlex cooling fan](https://www.amazon.com/s?ascsubtag=ecf-ab-powerflex-753-f35-heatsink&k=PowerFlex+cooling+fan&tag=errorcodefixes-20)
+- [Panel filter fan kit](https://www.amazon.com/s?ascsubtag=ecf-ab-powerflex-753-f35-heatsink&k=panel+filter+fan+kit&tag=errorcodefixes-20)
+- [Enclosure air conditioner](https://www.amazon.com/s?ascsubtag=ecf-ab-powerflex-753-f35-heatsink&k=enclosure+air+conditioner&tag=errorcodefixes-20)
+- [Infrared thermometer](https://www.amazon.com/s?ascsubtag=ecf-ab-powerflex-753-f35-heatsink&k=infrared+thermometer&tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

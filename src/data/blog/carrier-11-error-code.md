@@ -36,9 +36,9 @@ Carrier fault code 11 indicates no ignition — the furnace attempted a trial fo
 
 | Part | Notes |
 |------|-------|
-| Hot surface igniter (silicon nitride) | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Match OEM part number; Carrier uses several variants across model years |
-| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Usually a generic 1/4" rod; verify terminal type matches |
-| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Replace only after confirming proper inlet pressure and wiring |
+| Hot surface igniter (silicon nitride) | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-carrier-11-error-code&tag=errorcodefixes-20) \| Match OEM part number; Carrier uses several variants across model years |
+| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-carrier-11-error-code&tag=errorcodefixes-20) \| Usually a generic 1/4" rod; verify terminal type matches |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-carrier-11-error-code&tag=errorcodefixes-20) \| Replace only after confirming proper inlet pressure and wiring |
 ## When to Call a Pro
 
 If gas supply, igniter, and flame sensor all check out but the furnace still fails ignition, the issue may be a failed gas valve or a cracked heat exchanger affecting draft — both require a licensed HVAC technician to diagnose and repair safely.

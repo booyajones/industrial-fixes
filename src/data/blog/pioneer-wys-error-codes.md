@@ -60,12 +60,12 @@ The Pioneer WYS series is a popular DIY-friendly ductless mini split line sold t
 
 | Part | Notes |
 |------|-------|
-| Signal cable (3-conductor) | [Amazon](https://www.amazon.com/s?i=industrial&k=Signal+cable+%283-conductor%29&tag=errorcodefixes-20) \| Replace full run if damaged during installation |
-| Indoor temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| F1 fault; confirm room temp sensor vs. coil sensor |
-| Indoor coil sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Indoor+coil+sensor&tag=errorcodefixes-20) \| F2 fault; clip-on type on evaporator U-bend |
-| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For P0 or E6 after other causes ruled out |
-| Indoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| DC type; test before replacing PCB |
-| Capacitor (outdoor fan) | [Amazon](https://www.amazon.com/s?i=industrial&k=Capacitor+%28outdoor+fan%29&tag=errorcodefixes-20) \| On older WYS models with AC fan motor |
+| Signal cable (3-conductor) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-pioneer-wys-error-codes&k=Signal+cable+%283-conductor%29&tag=errorcodefixes-20) \| Replace full run if damaged during installation |
+| Indoor temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-pioneer-wys-error-codes&tag=errorcodefixes-20) \| F1 fault; confirm room temp sensor vs. coil sensor |
+| Indoor coil sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-pioneer-wys-error-codes&k=Indoor+coil+sensor&tag=errorcodefixes-20) \| F2 fault; clip-on type on evaporator U-bend |
+| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-pioneer-wys-error-codes&tag=errorcodefixes-20) \| For P0 or E6 after other causes ruled out |
+| Indoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-pioneer-wys-error-codes&tag=errorcodefixes-20) \| DC type; test before replacing PCB |
+| Capacitor (outdoor fan) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-pioneer-wys-error-codes&k=Capacitor+%28outdoor+fan%29&tag=errorcodefixes-20) \| On older WYS models with AC fan motor |
 ## When to Call a Pro
 
 Pioneer WYS units are DIY-marketed but refrigerant work requires EPA 608 certification. If the unit has a refrigerant leak (E4 appearing early in cooling season), a certified technician is required to locate and repair the leak and recharge the system to the correct weight shown on the nameplate.

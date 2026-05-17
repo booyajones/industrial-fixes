@@ -323,8 +323,8 @@ Frymaster's technical support line is available 24/7 for service center coordina
 
 For replacement probes, high-limits, igniters, and control boards:
 
-- **[Frymaster Temperature Probe (RTD)](https://www.amazon.com/s?i=industrial&k=frymaster+temperature+probe+RTD&tag=errorcodefixes-20)** — verify OEM part number before ordering
-- **[Frymaster Ignition Module Replacement](https://www.amazon.com/s?i=industrial&k=frymaster+ignition+module+commercial+fryer&tag=errorcodefixes-20)**
-- **[Frymaster High Limit Thermostat](https://www.amazon.com/s?i=industrial&k=frymaster+high+limit+thermostat&tag=errorcodefixes-20)**
-- **[Commercial Fryer Filter Pads](https://www.amazon.com/s?i=industrial&k=commercial+fryer+filter+pads&tag=errorcodefixes-20)**
-- **[Drain Valve Solenoid Commercial Fryer](https://www.amazon.com/s?i=industrial&k=frymaster+drain+valve+solenoid&tag=errorcodefixes-20)**
+- **[Frymaster Temperature Probe (RTD)](https://www.amazon.com/s?ascsubtag=ecf-frymaster-fryer-error-codes&k=frymaster+temperature+probe+RTD&tag=errorcodefixes-20)** — verify OEM part number before ordering
+- **[Frymaster Ignition Module Replacement](https://www.amazon.com/s?ascsubtag=ecf-frymaster-fryer-error-codes&k=frymaster+ignition+module+commercial+fryer&tag=errorcodefixes-20)**
+- **[Frymaster High Limit Thermostat](https://www.amazon.com/s?ascsubtag=ecf-frymaster-fryer-error-codes&k=frymaster+high+limit+thermostat&tag=errorcodefixes-20)**
+- **[Commercial Fryer Filter Pads](https://www.amazon.com/s?ascsubtag=ecf-frymaster-fryer-error-codes&k=commercial+fryer+filter+pads&tag=errorcodefixes-20)**
+- **[Drain Valve Solenoid Commercial Fryer](https://www.amazon.com/s?ascsubtag=ecf-frymaster-fryer-error-codes&k=frymaster+drain+valve+solenoid&tag=errorcodefixes-20)**

@@ -36,9 +36,9 @@ Error Code 1 on Master-Bilt commercial refrigerators and freezers (reach-ins, gl
 
 | Part | Notes |
 |------|-------|
-| Door gasket | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?tag=errorcodefixes-20) \| Master-Bilt model-specific — measure door perimeter |
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match to unit model and voltage |
-| Defrost heater / thermostat | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) \| If evaporator is heavily frosted |
+| Door gasket | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?ascsubtag=ecf-master-bilt-refrigerator-error-code-1&tag=errorcodefixes-20) \| Master-Bilt model-specific — measure door perimeter |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-master-bilt-refrigerator-error-code-1&tag=errorcodefixes-20) \| Match to unit model and voltage |
+| Defrost heater / thermostat | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?ascsubtag=ecf-master-bilt-refrigerator-error-code-1&tag=errorcodefixes-20) \| If evaporator is heavily frosted |
 ## When to Call a Pro
 
 If the condenser is clean, doors seal properly, and fans run correctly but the cabinet can't hold temperature, the sealed refrigeration system needs an EPA 608-certified technician.

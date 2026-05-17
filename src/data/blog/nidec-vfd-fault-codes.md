@@ -17,9 +17,9 @@ tags:
 
 Nidec Corporation acquired Control Techniques and Leroy-Somer, producing the Commander series drives (Commander C200, C300, C600) and integrated motor-drive units (VARMECA, IMfinity). The Commander series uses the same trip code terminology as the Control Techniques Unidrive platform.
 
-| [Trip Code](https://www.amazon.com/s?i=industrial&k=Trip+Code&tag=errorcodefixes-20) | Meaning | Common Cause | Quick Fix |
+| [Trip Code](https://www.amazon.com/s?ascsubtag=ecf-nidec-vfd-fault-codes&k=Trip+Code&tag=errorcodefixes-20) | Meaning | Common Cause | Quick Fix |
 |-----------|---------|-------------|-----------|
-| [OI.AC](https://www.amazon.com/s?i=industrial&k=OI.AC&tag=errorcodefixes-20) | AC output overcurrent | Short circuit; fast acceleration | Check motor; increase accel time |
+| [OI.AC](https://www.amazon.com/s?ascsubtag=ecf-nidec-vfd-fault-codes&k=OI.AC&tag=errorcodefixes-20) | AC output overcurrent | Short circuit; fast acceleration | Check motor; increase accel time |
 | OV | DC bus overvoltage | Fast decel; high supply voltage | Increase decel; add brake resistor |
 | UV | DC bus undervoltage | Low supply voltage | Check incoming power |
 | OH | Drive overtemperature | Blocked cooling; high ambient | Clean fans; improve ventilation |
@@ -29,7 +29,7 @@ Nidec Corporation acquired Control Techniques and Leroy-Somer, producing the Com
 | GF | Ground fault | Motor or cable insulation fault | Megger motor; inspect cable |
 | th | Thermistor input fault | PTC wiring open or short | Check thermistor wiring |
 | CLO | Current clamp overload | Sustained high-current condition | Reduce load; check mechanism |
-| [tunE](https://www.amazon.com/s?i=industrial&k=tunE&tag=errorcodefixes-20) | Autotune fail | Motor does not match entered data | Verify motor nameplate data |
+| [tunE](https://www.amazon.com/s?ascsubtag=ecf-nidec-vfd-fault-codes&k=tunE&tag=errorcodefixes-20) | Autotune fail | Motor does not match entered data | Verify motor nameplate data |
 | I/O | I/O module fault | Option module communication lost | Reseat module; replace if needed |
 
 ## Most Common Faults
@@ -64,13 +64,13 @@ The Nidec VARMECA (motor with integrated drive) and IMfinity series use similar 
 
 ## Commander Drive Parameter Access
 
-| [Function](https://www.amazon.com/s?i=industrial&k=Function&tag=errorcodefixes-20) | Key Sequence |
+| [Function](https://www.amazon.com/s?ascsubtag=ecf-nidec-vfd-fault-codes&k=Function&tag=errorcodefixes-20) | Key Sequence |
 |----------|-------------|
-| [Access parameter menus](https://www.amazon.com/s?i=industrial&k=Access+parameter+menus&tag=errorcodefixes-20) | Press M button |
-| [Navigate to trip history](https://www.amazon.com/s?i=industrial&k=Navigate+to+trip+history&tag=errorcodefixes-20) | Menu 10, parameters 10.20–10.29 |
-| [Reset fault](https://www.amazon.com/s?i=industrial&k=Reset+fault&tag=errorcodefixes-20) | Press STOP/RESET after correcting fault |
-| [Factory reset](https://www.amazon.com/s?i=industrial&k=Factory+reset&tag=errorcodefixes-20) | Set Pr 10.33 = 1000, then press ENTER |
-| [Save parameters](https://www.amazon.com/s?i=industrial&k=Save+parameters&tag=errorcodefixes-20) | Set Pr 00.09 = 1000 |
+| [Access parameter menus](https://www.amazon.com/s?ascsubtag=ecf-nidec-vfd-fault-codes&k=Access+parameter+menus&tag=errorcodefixes-20) | Press M button |
+| [Navigate to trip history](https://www.amazon.com/s?ascsubtag=ecf-nidec-vfd-fault-codes&k=Navigate+to+trip+history&tag=errorcodefixes-20) | Menu 10, parameters 10.20–10.29 |
+| [Reset fault](https://www.amazon.com/s?ascsubtag=ecf-nidec-vfd-fault-codes&k=Reset+fault&tag=errorcodefixes-20) | Press STOP/RESET after correcting fault |
+| [Factory reset](https://www.amazon.com/s?ascsubtag=ecf-nidec-vfd-fault-codes&k=Factory+reset&tag=errorcodefixes-20) | Set Pr 10.33 = 1000, then press ENTER |
+| [Save parameters](https://www.amazon.com/s?ascsubtag=ecf-nidec-vfd-fault-codes&k=Save+parameters&tag=errorcodefixes-20) | Set Pr 00.09 = 1000 |
 
 ## When to Call a Pro
 GF (ground fault) with motor insulation failure and persistent OH (overtemperature) indicating drive damage require a Nidec-authorized service provider. VARMECA integrated unit faults requiring disassembly need factory service support.

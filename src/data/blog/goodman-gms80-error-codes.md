@@ -53,12 +53,12 @@ The Goodman GMS80 is an 80% AFUE single-stage gas furnace with a PSC blower moto
 
 | Part | Notes |
 |---|---|
-| Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Goodman uses both silicon nitride and silicon carbide depending on production year |
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Rod-type; clean before replacing |
-| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Check hose first; switches fail after condensate contamination |
-| High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| L160 or L180 depending on GMS80 variant |
-| Rollout switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| L195°F or L270°F; manual reset |
-| PSC blower capacitor | [Amazon](https://www.amazon.com/s?i=industrial&k=PSC+blower+capacitor&tag=errorcodefixes-20) \| Single-run capacitor on PSC motor; check µF |
+| Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-goodman-gms80-error-codes&tag=errorcodefixes-20) \| Goodman uses both silicon nitride and silicon carbide depending on production year |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-goodman-gms80-error-codes&tag=errorcodefixes-20) \| Rod-type; clean before replacing |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-goodman-gms80-error-codes&tag=errorcodefixes-20) \| Check hose first; switches fail after condensate contamination |
+| High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-goodman-gms80-error-codes&tag=errorcodefixes-20) \| L160 or L180 depending on GMS80 variant |
+| Rollout switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-goodman-gms80-error-codes&tag=errorcodefixes-20) \| L195°F or L270°F; manual reset |
+| PSC blower capacitor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-goodman-gms80-error-codes&k=PSC+blower+capacitor&tag=errorcodefixes-20) \| Single-run capacitor on PSC motor; check µF |
 ## When to Call a Pro
 
 A Goodman GMS80 that trips the rollout switch (Code 9) requires professional inspection before return to service. A cracked heat exchanger allows combustion gases to mix with circulated air — a carbon monoxide risk. Do not bypass the rollout switch. If the furnace repeatedly trips the limit (Code 4) after filter replacement, a cracked heat exchanger or ECM motor issue may be the root cause requiring professional diagnosis.

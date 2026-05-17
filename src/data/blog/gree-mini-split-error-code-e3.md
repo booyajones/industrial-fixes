@@ -38,10 +38,10 @@ E3 on a Gree mini split indicates low pressure protection. The system detected t
 
 | Part | Notes |
 |------|-------|
-| Indoor air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| Clean monthly in heavy-use seasons |
-| Electronic expansion valve (EEV) | [Amazon](https://www.amazon.com/s?i=industrial&k=Electronic+expansion+valve+%28EEV%29&tag=errorcodefixes-20) \| Replace if valve is confirmed stuck closed |
-| Refrigerant (R-410A) | [Amazon](https://www.amazon.com/s?i=industrial&k=Refrigerant+%28R-410A%29&tag=errorcodefixes-20) \| Recharge only after leak is found and repaired |
-| Flare fittings / line set | [Amazon](https://www.amazon.com/s?i=industrial&k=Flare+fittings+%2F+line+set&tag=errorcodefixes-20) \| Replace if leak is at a flare connection |
+| Indoor air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-gree-mini-split-error-code-e3&tag=errorcodefixes-20) \| Clean monthly in heavy-use seasons |
+| Electronic expansion valve (EEV) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-gree-mini-split-error-code-e3&k=Electronic+expansion+valve+%28EEV%29&tag=errorcodefixes-20) \| Replace if valve is confirmed stuck closed |
+| Refrigerant (R-410A) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-gree-mini-split-error-code-e3&k=Refrigerant+%28R-410A%29&tag=errorcodefixes-20) \| Recharge only after leak is found and repaired |
+| Flare fittings / line set | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-gree-mini-split-error-code-e3&k=Flare+fittings+%2F+line+set&tag=errorcodefixes-20) \| Replace if leak is at a flare connection |
 ## When to Call a Pro
 
 Refrigerant leak detection, recharging, and EEV replacement require EPA Section 608 certification and specialized equipment. Call a licensed HVAC technician for any diagnosis that goes beyond cleaning filters and clearing ice.

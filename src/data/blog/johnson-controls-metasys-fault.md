@@ -48,11 +48,11 @@ A freezestat in an AHU trips on low coil temperature to prevent chilled water co
 
 | Part | Notes |
 |------|-------|
-| Metasys field controller (FEC/IOM) | [Amazon](https://www.amazon.com/s?i=industrial&k=Metasys+field+controller+%28FEC%2FIOM%29&tag=errorcodefixes-20) \| Replace on hardware failure |
-| Temperature/humidity sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Temperature%2Fhumidity+sensor&tag=errorcodefixes-20) \| Replace on OOR alarm |
-| MS/TP termination resistor | [Amazon](https://www.amazon.com/s?i=industrial&k=MS%2FTP+termination+resistor&tag=errorcodefixes-20) \| 120 ohm, one per trunk end |
-| Actuator (damper/valve) | [Amazon](https://www.amazon.com/s?i=industrial&k=Actuator+%28damper%2Fvalve%29&tag=errorcodefixes-20) \| Replace on stuck feedback |
-| Freezestat | [Amazon](https://www.amazon.com/s?i=industrial&k=Freezestat&tag=errorcodefixes-20) \| Replace if trips repeatedly on reset |
+| Metasys field controller (FEC/IOM) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-johnson-controls-metasys-fault&k=Metasys+field+controller+%28FEC%2FIOM%29&tag=errorcodefixes-20) \| Replace on hardware failure |
+| Temperature/humidity sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-johnson-controls-metasys-fault&k=Temperature%2Fhumidity+sensor&tag=errorcodefixes-20) \| Replace on OOR alarm |
+| MS/TP termination resistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-johnson-controls-metasys-fault&k=MS%2FTP+termination+resistor&tag=errorcodefixes-20) \| 120 ohm, one per trunk end |
+| Actuator (damper/valve) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-johnson-controls-metasys-fault&k=Actuator+%28damper%2Fvalve%29&tag=errorcodefixes-20) \| Replace on stuck feedback |
+| Freezestat | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-johnson-controls-metasys-fault&k=Freezestat&tag=errorcodefixes-20) \| Replace if trips repeatedly on reset |
 ## When to Call a Pro
 Metasys NAE/NCE database management, firmware upgrades, and object configuration require Metasys-trained technicians. Incorrect NAE configuration can affect entire building HVAC systems simultaneously.
 

@@ -46,9 +46,9 @@ If wiring and motor are correct and the fault persists, the indoor PCB fan drive
 
 | Part | Where to Buy |
 |------|-------------|
-| [Indoor fan (cross-flow blower motor)](https://www.amazon.com/s?i=industrial&k=Indoor+fan+%28cross-flow+blower+motor%29&tag=errorcodefixes-20) | SupplyHouse, Grainger |
-| [Indoor unit PCB](https://www.amazon.com/s?i=industrial&k=Indoor+unit+PCB&tag=errorcodefixes-20) | SupplyHouse, RepairClinic |
-| [Coil cleaner / no-rinse coil spray](https://www.amazon.com/s?i=industrial&k=Coil+cleaner+%2F+no-rinse+coil+spray&tag=errorcodefixes-20) | Amazon, Grainger |
+| [Indoor fan (cross-flow blower motor)](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-e3-error-code&k=Indoor+fan+%28cross-flow+blower+motor%29&tag=errorcodefixes-20) | SupplyHouse, Grainger |
+| [Indoor unit PCB](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-e3-error-code&k=Indoor+unit+PCB&tag=errorcodefixes-20) | SupplyHouse, RepairClinic |
+| [Coil cleaner / no-rinse coil spray](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-e3-error-code&k=Coil+cleaner+%2F+no-rinse+coil+spray&tag=errorcodefixes-20) | Amazon, Grainger |
 
 ## When to Call a Technician
 

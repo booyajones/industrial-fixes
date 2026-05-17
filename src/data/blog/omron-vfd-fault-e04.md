@@ -40,9 +40,9 @@ tags:
 
 | Part | Notes |
 |------|-------|
-| VFD-rated motor cable | [Amazon](https://www.amazon.com/s?i=industrial&k=VFD-rated+motor+cable&tag=errorcodefixes-20) \| Replace if insulation is damaged |
-| Motor | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor&tag=errorcodefixes-20) \| Replace or rewind if grounded |
-| Omron MX2 drive | [Amazon](https://www.amazon.com/s?i=industrial&k=Omron+MX2+drive&tag=errorcodefixes-20) \| Replace if output stage is failed |
+| VFD-rated motor cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-omron-vfd-fault-e04&k=VFD-rated+motor+cable&tag=errorcodefixes-20) \| Replace if insulation is damaged |
+| Motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-omron-vfd-fault-e04&k=Motor&tag=errorcodefixes-20) \| Replace or rewind if grounded |
+| Omron MX2 drive | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-omron-vfd-fault-e04&k=Omron+MX2+drive&tag=errorcodefixes-20) \| Replace if output stage is failed |
 ## When to Call a Pro
 
 If ground resistance looks borderline or the application has a very long motor run, a technician with a megger and leakage-current experience can separate true ground faults from nuisance trips.

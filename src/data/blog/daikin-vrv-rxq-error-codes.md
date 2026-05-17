@@ -54,11 +54,11 @@ Check compressor winding resistance (typically 0.5–2 ╬⌐ per phase). Check 
 
 | Part | Notes |
 |------|-------|
-| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Match exact RXQ model number |
-| Electronic expansion valve (EEV) | [Amazon](https://www.amazon.com/s?i=industrial&k=Electronic+expansion+valve+%28EEV%29&tag=errorcodefixes-20) \| Match refrigerant and valve size |
-| Fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| VRV units often use DC motors |
-| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match refrigerant type |
-| Communication cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Communication+cable&tag=errorcodefixes-20) \| F1/F2 — shielded type required |
+| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-daikin-vrv-rxq-error-codes&tag=errorcodefixes-20) \| Match exact RXQ model number |
+| Electronic expansion valve (EEV) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-vrv-rxq-error-codes&k=Electronic+expansion+valve+%28EEV%29&tag=errorcodefixes-20) \| Match refrigerant and valve size |
+| Fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-daikin-vrv-rxq-error-codes&tag=errorcodefixes-20) \| VRV units often use DC motors |
+| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-daikin-vrv-rxq-error-codes&tag=errorcodefixes-20) \| Match refrigerant type |
+| Communication cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-vrv-rxq-error-codes&k=Communication+cable&tag=errorcodefixes-20) \| F1/F2 — shielded type required |
 > **Pro tip:** Daikin VRV systems allow fault code retrieval via the intelligent touch controller without visiting the outdoor unit. Press the Mode/Fan button combination to enter service mode and retrieve all connected unit faults.
 
 ## Related Articles

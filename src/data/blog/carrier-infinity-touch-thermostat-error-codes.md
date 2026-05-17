@@ -83,12 +83,12 @@ The compressor protection circuit tripped. This could be an internal overload, a
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
-| Hot surface igniter (HH18HA499) | Fixes Alert 111 — ignition failures | $20–$40 — [Search on Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) |
-| Flame sensor rod | Fixes Alert 111 when igniter is fine | $10–$20 — [Search on Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) |
-| Draft inducer motor | Fixes Alert 126 when motor is dead | $80–$200 — [Search on Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) |
-| Pressure switch (vent/inducer) | Fixes Alert 126 when motor runs fine | $15–$35 — [Search on Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) |
-| Dual run capacitor (45/5 MFD) | Fixes Alert 280 compressor/fan issues | $15–$35 — [Search on Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) |
-| Outdoor temperature sensor (10K NTC) | Fixes Alert 232 | $10–$25 — [Search on Amazon](https://www.amazon.com/s?i=industrial&k=10K+NTC+thermistor+HVAC+outdoor+sensor&tag=errorcodefixes-20) |
+| Hot surface igniter (HH18HA499) | Fixes Alert 111 — ignition failures | $20–$40 — [Search on Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-carrier-infinity-touch-thermostat-error-codes&tag=errorcodefixes-20) |
+| Flame sensor rod | Fixes Alert 111 when igniter is fine | $10–$20 — [Search on Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-carrier-infinity-touch-thermostat-error-codes&tag=errorcodefixes-20) |
+| Draft inducer motor | Fixes Alert 126 when motor is dead | $80–$200 — [Search on Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-carrier-infinity-touch-thermostat-error-codes&tag=errorcodefixes-20) |
+| Pressure switch (vent/inducer) | Fixes Alert 126 when motor runs fine | $15–$35 — [Search on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-infinity-touch-thermostat-error-codes&tag=errorcodefixes-20) |
+| Dual run capacitor (45/5 MFD) | Fixes Alert 280 compressor/fan issues | $15–$35 — [Search on Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-carrier-infinity-touch-thermostat-error-codes&tag=errorcodefixes-20) |
+| Outdoor temperature sensor (10K NTC) | Fixes Alert 232 | $10–$25 — [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-infinity-touch-thermostat-error-codes&k=10K+NTC+thermistor+HVAC+outdoor+sensor&tag=errorcodefixes-20) |
 
 ## When to Call a Pro
 

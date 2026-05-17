@@ -57,12 +57,12 @@ This guide works for walk-in coolers, reach-in refrigerators, undercounter units
 
 ## Parts You May Need
 
-- [Commercial refrigeration condenser coil brush](https://www.amazon.com/s?i=industrial&k=commercial+refrigeration+condenser+coil+brush&tag=errorcodefixes-20)
-- [Evaporator fan motor replacement](https://www.amazon.com/dp/B01N0J3ZEH?tag=errorcodefixes-20)
-- [Condenser fan motor replacement](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20)
-- [Compressor start relay and overload kit](https://www.amazon.com/s?i=industrial&k=refrigerator+start+relay+overload+kit&tag=errorcodefixes-20)
-- [Refrigerator door gasket replacement](https://www.amazon.com/dp/B0FPF84HQP?tag=errorcodefixes-20)
-- [Digital temperature controller](https://www.amazon.com/s?i=industrial&k=refrigerator+temperature+controller+thermostat&tag=errorcodefixes-20)
+- [Commercial refrigeration condenser coil brush](https://www.amazon.com/s?ascsubtag=ecf-commercial-refrigerator-not-cooling&k=commercial+refrigeration+condenser+coil+brush&tag=errorcodefixes-20)
+- [Evaporator fan motor replacement](https://www.amazon.com/dp/B01N0J3ZEH?ascsubtag=ecf-commercial-refrigerator-not-cooling&tag=errorcodefixes-20)
+- [Condenser fan motor replacement](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-commercial-refrigerator-not-cooling&tag=errorcodefixes-20)
+- [Compressor start relay and overload kit](https://www.amazon.com/s?ascsubtag=ecf-commercial-refrigerator-not-cooling&k=refrigerator+start+relay+overload+kit&tag=errorcodefixes-20)
+- [Refrigerator door gasket replacement](https://www.amazon.com/dp/B0FPF84HQP?ascsubtag=ecf-commercial-refrigerator-not-cooling&tag=errorcodefixes-20)
+- [Digital temperature controller](https://www.amazon.com/s?ascsubtag=ecf-commercial-refrigerator-not-cooling&k=refrigerator+temperature+controller+thermostat&tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

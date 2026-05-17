@@ -39,10 +39,10 @@ Haas alarm **127** means the control expected the spindle tool clamp to release,
 
 | Part | Notes |
 |------|-------|
-| Unclamp switch | [Amazon](https://www.amazon.com/s?i=industrial&k=Unclamp+switch&tag=errorcodefixes-20) \| Common on intermittent faults |
-| Solenoid valve / coil | [Amazon](https://www.amazon.com/s?i=industrial&k=Solenoid+valve+%2F+coil&tag=errorcodefixes-20) \| Check voltage and air output |
-| Pull stud | [Amazon](https://www.amazon.com/s?i=industrial&k=Pull+stud&tag=errorcodefixes-20) \| Replace damaged or incorrect styles |
-| Drawbar rebuild kit | [Amazon](https://www.amazon.com/s?i=industrial&k=Drawbar+rebuild+kit&tag=errorcodefixes-20) \| Includes Belleville washers and seals |
+| Unclamp switch | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-127&k=Unclamp+switch&tag=errorcodefixes-20) \| Common on intermittent faults |
+| Solenoid valve / coil | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-127&k=Solenoid+valve+%2F+coil&tag=errorcodefixes-20) \| Check voltage and air output |
+| Pull stud | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-127&k=Pull+stud&tag=errorcodefixes-20) \| Replace damaged or incorrect styles |
+| Drawbar rebuild kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-127&k=Drawbar+rebuild+kit&tag=errorcodefixes-20) \| Includes Belleville washers and seals |
 ## When to Call a Pro
 Drawbar rebuilds and spindle unclamp piston service should be handled by a machine tool tech. Improper reassembly can create dangerous tool retention problems.
 

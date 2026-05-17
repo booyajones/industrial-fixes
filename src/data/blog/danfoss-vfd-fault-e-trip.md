@@ -38,9 +38,9 @@ E-Trip on a Danfoss VFD (FC 200, FC 300, VLT series) indicates that an external 
 
 | Part | Notes |
 |------|-------|
-| Motor PTC thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+PTC+thermistor&tag=errorcodefixes-20) \| Replace if thermistor has failed short or open |
-| Process switch (pressure/flow/level) | [Amazon](https://www.amazon.com/s?i=industrial&k=Process+switch+%28pressure%2Fflow%2Flevel%29&tag=errorcodefixes-20) \| Replace if switch contacts have failed open |
-| Terminal wiring | [Amazon](https://www.amazon.com/s?i=industrial&k=Terminal+wiring&tag=errorcodefixes-20) \| Re-terminate loose or broken wires at the drive control terminal block |
+| Motor PTC thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-danfoss-vfd-fault-e-trip&k=Motor+PTC+thermistor&tag=errorcodefixes-20) \| Replace if thermistor has failed short or open |
+| Process switch (pressure/flow/level) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-danfoss-vfd-fault-e-trip&k=Process+switch+%28pressure%2Fflow%2Flevel%29&tag=errorcodefixes-20) \| Replace if switch contacts have failed open |
+| Terminal wiring | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-danfoss-vfd-fault-e-trip&k=Terminal+wiring&tag=errorcodefixes-20) \| Re-terminate loose or broken wires at the drive control terminal block |
 ## When to Call a Pro
 
 If the external trip source cannot be identified or the process safety system is complex, consult the system integrator or a Danfoss-authorized technician. Never bypass an external trip input without fully understanding what protective function it serves.

@@ -36,10 +36,10 @@ A Goodman furnace flashing **5 blinks** on the LED status light means **flame se
 
 | Part | Notes |
 |------|-------|
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Replace if rod is corroded or cleaning doesn't resolve false signal |
-| Flame sensor wire harness | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Replace if wire insulation has melted or shorted to ground |
-| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Replace if valve leaks gas after de-energizing; requires licensed gas work |
-| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace if all sensor and wiring checks pass but 5 flashes persist |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-goodman-furnace-5-flash-error-code&tag=errorcodefixes-20) \| Replace if rod is corroded or cleaning doesn't resolve false signal |
+| Flame sensor wire harness | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-goodman-furnace-5-flash-error-code&tag=errorcodefixes-20) \| Replace if wire insulation has melted or shorted to ground |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-goodman-furnace-5-flash-error-code&tag=errorcodefixes-20) \| Replace if valve leaks gas after de-energizing; requires licensed gas work |
+| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-goodman-furnace-5-flash-error-code&tag=errorcodefixes-20) \| Replace if all sensor and wiring checks pass but 5 flashes persist |
 ## When to Call a Pro
 
 A stuck-open gas valve is a gas leak and safety emergency. If you smell gas or detect it with a sensor after the furnace shuts off, turn off the gas supply at the meter, ventilate the space, and call a licensed HVAC technician or your gas utility immediately.

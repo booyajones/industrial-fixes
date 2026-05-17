@@ -64,11 +64,11 @@ The pressure switch is a small, inexpensive component — but the cause of 3 fla
 
 | Part | Notes |
 |------|-------|
-| [Goodman Pressure Switch](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | Match pressure rating (WC value) from switch label |
-| [Furnace Pressure Switch Hose](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) | 1/4" or 3/8" ID vinyl tubing — buy a few feet |
-| [Goodman Inducer Motor](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) | Match voltage, RPM, and HP from inducer motor label |
-| [Condensate Drain Treatment](https://www.amazon.com/s?i=industrial&k=condensate+drain+treatment+tablets&tag=errorcodefixes-20) | Prevents algae buildup that clogs drain lines |
-| [Condensate Pump](https://www.amazon.com/s?i=industrial&k=furnace+condensate+pump+replacement&tag=errorcodefixes-20) | Replace if pump has failed and water is backing up |
+| [Goodman Pressure Switch](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-goodman-furnace-3-flashes&tag=errorcodefixes-20) | Match pressure rating (WC value) from switch label |
+| [Furnace Pressure Switch Hose](https://www.amazon.com/dp/B0CPTHML1N?ascsubtag=ecf-goodman-furnace-3-flashes&tag=errorcodefixes-20) | 1/4" or 3/8" ID vinyl tubing — buy a few feet |
+| [Goodman Inducer Motor](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-goodman-furnace-3-flashes&tag=errorcodefixes-20) | Match voltage, RPM, and HP from inducer motor label |
+| [Condensate Drain Treatment](https://www.amazon.com/s?ascsubtag=ecf-goodman-furnace-3-flashes&k=condensate+drain+treatment+tablets&tag=errorcodefixes-20) | Prevents algae buildup that clogs drain lines |
+| [Condensate Pump](https://www.amazon.com/s?ascsubtag=ecf-goodman-furnace-3-flashes&k=furnace+condensate+pump+replacement&tag=errorcodefixes-20) | Replace if pump has failed and water is backing up |
 
 ## When to Call a Technician
 

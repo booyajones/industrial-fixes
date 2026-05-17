@@ -49,9 +49,9 @@ Sulzer pumps with undercurrent monitoring detect when flow drops below expected 
 
 | Part | Notes |
 |------|-------|
-| Mechanical seal kit | [Amazon](https://www.amazon.com/s?i=industrial&k=Mechanical+seal+kit&tag=errorcodefixes-20) \| Match pump model and size |
-| Moisture sensor cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Moisture+sensor+cable&tag=errorcodefixes-20) \| Sulzer-specific — match pump series |
-| Impeller | [Amazon](https://www.amazon.com/s?i=industrial&k=Impeller&tag=errorcodefixes-20) \| Replace if worn or damaged |
-| Bearing kit | [Amazon](https://www.amazon.com/s?i=industrial&k=Bearing+kit&tag=errorcodefixes-20) \| Match pump bearing specification |
-| Thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Thermistor&tag=errorcodefixes-20) \| Match motor winding type |
+| Mechanical seal kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-sulzer-pump-fault-codes&k=Mechanical+seal+kit&tag=errorcodefixes-20) \| Match pump model and size |
+| Moisture sensor cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-sulzer-pump-fault-codes&k=Moisture+sensor+cable&tag=errorcodefixes-20) \| Sulzer-specific — match pump series |
+| Impeller | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-sulzer-pump-fault-codes&k=Impeller&tag=errorcodefixes-20) \| Replace if worn or damaged |
+| Bearing kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-sulzer-pump-fault-codes&k=Bearing+kit&tag=errorcodefixes-20) \| Match pump bearing specification |
+| Thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-sulzer-pump-fault-codes&k=Thermistor&tag=errorcodefixes-20) \| Match motor winding type |
 > **Pro tip:** Sulzer's Pump Advisor digital service platform enables remote condition monitoring of Sulzer pumps via IIoT sensors. Retrofit kits are available for older pump installations — real-time vibration and temperature data can predict failures weeks before they occur.

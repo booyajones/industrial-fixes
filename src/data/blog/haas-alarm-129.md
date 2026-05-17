@@ -51,7 +51,7 @@ Internal drive board failure can prevent the orientation function from executing
 
 ## Haas Spindle Orient Parameters
 
-| [Parameter](https://www.amazon.com/s?i=industrial&k=Parameter&tag=errorcodefixes-20) | Function |
+| [Parameter](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-129&k=Parameter&tag=errorcodefixes-20) | Function |
 |-----------|---------|
 | 119 | Orient speed (RPM) |
 | 129 | Orient timeout (milliseconds) |

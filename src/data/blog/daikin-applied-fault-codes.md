@@ -50,10 +50,10 @@ The evaporator approach temperature has reached the freeze protection threshold.
 
 | Part | Notes |
 |------|-------|
-| Refrigerant charge | [Amazon](https://www.amazon.com/s?i=industrial&k=Refrigerant+charge&tag=errorcodefixes-20) \| Common after leaks |
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Replace on high pressure faults |
-| Flow switch | [Amazon](https://www.amazon.com/s?i=industrial&k=Flow+switch&tag=errorcodefixes-20) \| Inspect on low pressure and freeze faults |
-| Pressure transducer | [Amazon](https://www.amazon.com/s?i=industrial&k=Pressure+transducer&tag=errorcodefixes-20) \| Check on unexplained pressure readings |
+| Refrigerant charge | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-applied-fault-codes&k=Refrigerant+charge&tag=errorcodefixes-20) \| Common after leaks |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-daikin-applied-fault-codes&tag=errorcodefixes-20) \| Replace on high pressure faults |
+| Flow switch | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-applied-fault-codes&k=Flow+switch&tag=errorcodefixes-20) \| Inspect on low pressure and freeze faults |
+| Pressure transducer | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-applied-fault-codes&k=Pressure+transducer&tag=errorcodefixes-20) \| Check on unexplained pressure readings |
 ## Jump to Fix
 
 - **Low pressure** → Check chilled water flow → Check refrigerant charge → Inspect evaporator

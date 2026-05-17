@@ -56,10 +56,10 @@ The control board detected abnormal combustion — usually incorrect gas/air rat
 
 | Part | Notes |
 |------|-------|
-| Inlet thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Inlet+thermistor&tag=errorcodefixes-20) \| Noritz PC-R09A or model-specific |
-| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Noritz model-specific |
-| Condensate neutralizer | [Amazon](https://www.amazon.com/s?i=industrial&k=Condensate+neutralizer&tag=errorcodefixes-20) \| Noritz CM-200 or compatible |
-| Fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Model-specific; match by unit label |
+| Inlet thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-noritz-error-codes&k=Inlet+thermistor&tag=errorcodefixes-20) \| Noritz PC-R09A or model-specific |
+| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-noritz-error-codes&tag=errorcodefixes-20) \| Noritz model-specific |
+| Condensate neutralizer | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-noritz-error-codes&k=Condensate+neutralizer&tag=errorcodefixes-20) \| Noritz CM-200 or compatible |
+| Fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-noritz-error-codes&tag=errorcodefixes-20) \| Model-specific; match by unit label |
 ## When to Call a Pro
 Code 14 (thermal fuse), code 71 (gas valve solenoid), and code 90 (combustion abnormality) require certified technician service. Noritz recommends annual professional maintenance regardless of whether any codes appear.
 

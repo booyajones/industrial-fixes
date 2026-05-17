@@ -88,7 +88,7 @@ Goodman serial numbers have a consistent format.
 
 Goodman is one of the easiest to decode. The first two digits are the year of manufacture.
 
-[Search for furnace serial number decoder](https://www.amazon.com/s?i=industrial&k=furnace+serial+number+decoder&tag=errorcodefixes-20)
+[Search for furnace serial number decoder](https://www.amazon.com/s?ascsubtag=ecf-furnace-age-and-efficiency-replacement-guide&k=furnace+serial+number+decoder&tag=errorcodefixes-20)
 
 ---
 
@@ -153,7 +153,7 @@ A 20+ year old furnace operates at 55–70% AFUE. A new 96% furnace cuts your ga
 
 There is no scenario where investing money in a 20+ year old furnace makes financial sense.
 
-[Search for high efficiency gas furnace](https://www.amazon.com/s?i=industrial&k=high+efficiency+gas+furnace&tag=errorcodefixes-20)
+[Search for high efficiency gas furnace](https://www.amazon.com/s?ascsubtag=ecf-furnace-age-and-efficiency-replacement-guide&k=high+efficiency+gas+furnace&tag=errorcodefixes-20)
 
 ---
 

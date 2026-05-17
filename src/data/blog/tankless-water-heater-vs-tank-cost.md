@@ -36,14 +36,14 @@ Here is how to make the call.
 
 These are national average installed prices for 2025-2026:
 
-| [Water heater type](https://www.amazon.com/s?i=industrial&k=Water+heater&tag=errorcodefixes-20) | Unit cost | Installed cost | What is included |
+| [Water heater type](https://www.amazon.com/s?ascsubtag=ecf-tankless-water-heater-vs-tank-cost&k=Water+heater&tag=errorcodefixes-20) | Unit cost | Installed cost | What is included |
 |----------------------|----------|--------------|-----------------|
-| [40-gallon gas tank](https://www.amazon.com/s?i=industrial&k=40+gallon+gas+water+heater&tag=errorcodefixes-20) | $400 to $700 | $700 to $1,200 | Heater, basic install, removal of old unit |
-| [50-gallon gas tank](https://www.amazon.com/s?i=industrial&k=50+gallon+gas+water+heater&tag=errorcodefixes-20) | $500 to $900 | $900 to $1,500 | Same, larger tank |
-| [40-gallon electric tank](https://www.amazon.com/s?i=industrial&k=40+gallon+electric+water+heater&tag=errorcodefixes-20) | $350 to $600 | $600 to $1,000 | Simpler install, no gas line or venting needed |
-| [Gas tankless (whole house)](https://www.amazon.com/s?i=industrial&k=Gas+tankless+water+heater&tag=errorcodefixes-20) | $600 to $1,200 | $1,200 to $2,800 | Heater, gas line upgrade, venting, condensate drain |
-| [Electric tankless (whole house)](https://www.amazon.com/s?i=industrial&k=Electric+tankless+water+heater&tag=errorcodefixes-20) | $500 to $900 | $1,000 to $2,500 | Heater, electrical panel upgrade, new wiring |
-| [Point-of-use tankless](https://www.amazon.com/s?i=industrial&k=Point+of+use+tankless+water+heater&tag=errorcodefixes-20) | $150 to $400 | $300 to $800 | Small unit under sink or at a single fixture |
+| [40-gallon gas tank](https://www.amazon.com/s?ascsubtag=ecf-tankless-water-heater-vs-tank-cost&k=40+gallon+gas+water+heater&tag=errorcodefixes-20) | $400 to $700 | $700 to $1,200 | Heater, basic install, removal of old unit |
+| [50-gallon gas tank](https://www.amazon.com/s?ascsubtag=ecf-tankless-water-heater-vs-tank-cost&k=50+gallon+gas+water+heater&tag=errorcodefixes-20) | $500 to $900 | $900 to $1,500 | Same, larger tank |
+| [40-gallon electric tank](https://www.amazon.com/s?ascsubtag=ecf-tankless-water-heater-vs-tank-cost&k=40+gallon+electric+water+heater&tag=errorcodefixes-20) | $350 to $600 | $600 to $1,000 | Simpler install, no gas line or venting needed |
+| [Gas tankless (whole house)](https://www.amazon.com/s?ascsubtag=ecf-tankless-water-heater-vs-tank-cost&k=Gas+tankless+water+heater&tag=errorcodefixes-20) | $600 to $1,200 | $1,200 to $2,800 | Heater, gas line upgrade, venting, condensate drain |
+| [Electric tankless (whole house)](https://www.amazon.com/s?ascsubtag=ecf-tankless-water-heater-vs-tank-cost&k=Electric+tankless+water+heater&tag=errorcodefixes-20) | $500 to $900 | $1,000 to $2,500 | Heater, electrical panel upgrade, new wiring |
+| [Point-of-use tankless](https://www.amazon.com/s?ascsubtag=ecf-tankless-water-heater-vs-tank-cost&k=Point+of+use+tankless+water+heater&tag=errorcodefixes-20) | $150 to $400 | $300 to $800 | Small unit under sink or at a single fixture |
 
 **The gap narrows with complexity.** A simple swap of an old tank with a new tank is a half-day job for a plumber. A tankless install often requires upsizing the gas line, installing a new vent system (Category III stainless steel for condensing units), and adding a condensate drain line. Those extras add $300 to $800 to the job.
 
@@ -53,12 +53,12 @@ These are national average installed prices for 2025-2026:
 
 This is where tankless units pull ahead.
 
-| [Type](https://www.amazon.com/s?i=industrial&k=Water+heater+type&tag=errorcodefixes-20) | Typical lifespan | Warranty |
+| [Type](https://www.amazon.com/s?ascsubtag=ecf-tankless-water-heater-vs-tank-cost&k=Water+heater+type&tag=errorcodefixes-20) | Typical lifespan | Warranty |
 |------|----------------|---------|
-| [Gas tank water heater](https://www.amazon.com/s?i=industrial&k=Gas+tank+water+heater&tag=errorcodefixes-20) | 8 to 12 years | 6 years (standard), 10 years (premium) |
-| [Electric tank water heater](https://www.amazon.com/s?i=industrial&k=Electric+tank+water+heater&tag=errorcodefixes-20) | 10 to 15 years | 6 years (standard), 10 years (premium) |
-| [Gas tankless water heater](https://www.amazon.com/s?i=industrial&k=Gas+tankless+water+heater&tag=errorcodefixes-20) | 20 to 25 years | 12 years (standard), 15 years (premium) |
-| [Electric tankless water heater](https://www.amazon.com/s?i=industrial&k=Electric+tankless+water+heater&tag=errorcodefixes-20) | 15 to 20 years | 5 to 10 years |
+| [Gas tank water heater](https://www.amazon.com/s?ascsubtag=ecf-tankless-water-heater-vs-tank-cost&k=Gas+tank+water+heater&tag=errorcodefixes-20) | 8 to 12 years | 6 years (standard), 10 years (premium) |
+| [Electric tank water heater](https://www.amazon.com/s?ascsubtag=ecf-tankless-water-heater-vs-tank-cost&k=Electric+tank+water+heater&tag=errorcodefixes-20) | 10 to 15 years | 6 years (standard), 10 years (premium) |
+| [Gas tankless water heater](https://www.amazon.com/s?ascsubtag=ecf-tankless-water-heater-vs-tank-cost&k=Gas+tankless+water+heater&tag=errorcodefixes-20) | 20 to 25 years | 12 years (standard), 15 years (premium) |
+| [Electric tankless water heater](https://www.amazon.com/s?ascsubtag=ecf-tankless-water-heater-vs-tank-cost&k=Electric+tankless+water+heater&tag=errorcodefixes-20) | 15 to 20 years | 5 to 10 years |
 
 **The tankless lasts twice as long.** A $1,800 tankless that lasts 20 to 25 years costs less per year than a $900 tank that lasts 10 years. That is before you account for energy savings.
 
@@ -72,7 +72,7 @@ Regular maintenance matters for both types. Tank units need annual flushing and 
 
 Tankless water heaters are more efficient because they do not waste energy keeping 40 to 50 gallons of water hot at all times. This is called standby heat loss.
 
-| [Factor](https://www.amazon.com/s?i=industrial&k=Water+heater+efficiency&tag=errorcodefixes-20) | Gas tank (standard) | Gas tankless | Electric tank | Electric tankless |
+| [Factor](https://www.amazon.com/s?ascsubtag=ecf-tankless-water-heater-vs-tank-cost&k=Water+heater+efficiency&tag=errorcodefixes-20) | Gas tank (standard) | Gas tankless | Electric tank | Electric tankless |
 |--------|-------------------|-------------|--------------|-----------------|
 | Energy Factor (UEF) | 0.58 to 0.68 | 0.82 to 0.96 | 0.88 to 0.95 | 0.94 to 0.99 |
 | Annual energy cost (family of 4) | $350 to $500 | $200 to $350 | $400 to $600 | $350 to $500 |
@@ -116,12 +116,12 @@ A direct tank replacement is the simplest option:
 
 ## Household Size Matching
 
-| [Household](https://www.amazon.com/s?i=industrial&k=Water+heater+household&tag=errorcodefixes-20) | Best choice | Why |
+| [Household](https://www.amazon.com/s?ascsubtag=ecf-tankless-water-heater-vs-tank-cost&k=Water+heater+household&tag=errorcodefixes-20) | Best choice | Why |
 |----------|------------|-----|
-| [1 to 2 people](https://www.amazon.com/s?i=industrial&k=Water+heater+1-2+people&tag=errorcodefixes-20) | Electric tankless (point-of-use) or 40-gal tank | Low demand. Tankless saves space and energy. |
-| [3 to 4 people](https://www.amazon.com/s?i=industrial&k=Water+heater+3-4+people&tag=errorcodefixes-20) | Gas tankless or 50-gal gas tank | Tankless handles simultaneous demand OK. Tank is simpler. |
-| [5+ people](https://www.amazon.com/s?i=industrial&k=Water+heater+5%2B+people&tag=errorcodefixes-20) | Two tankless units in parallel or 75+ gal tank | High demand. Single tankless may struggle with simultaneous showers and laundry. |
-| [Large home, low income](https://www.amazon.com/s?i=industrial&k=Large+home+water+heater&tag=errorcodefixes-20) | 75-gallon gas tank | Lowest upfront cost for high demand. Replace every 10 years. |
+| [1 to 2 people](https://www.amazon.com/s?ascsubtag=ecf-tankless-water-heater-vs-tank-cost&k=Water+heater+1-2+people&tag=errorcodefixes-20) | Electric tankless (point-of-use) or 40-gal tank | Low demand. Tankless saves space and energy. |
+| [3 to 4 people](https://www.amazon.com/s?ascsubtag=ecf-tankless-water-heater-vs-tank-cost&k=Water+heater+3-4+people&tag=errorcodefixes-20) | Gas tankless or 50-gal gas tank | Tankless handles simultaneous demand OK. Tank is simpler. |
+| [5+ people](https://www.amazon.com/s?ascsubtag=ecf-tankless-water-heater-vs-tank-cost&k=Water+heater+5%2B+people&tag=errorcodefixes-20) | Two tankless units in parallel or 75+ gal tank | High demand. Single tankless may struggle with simultaneous showers and laundry. |
+| [Large home, low income](https://www.amazon.com/s?ascsubtag=ecf-tankless-water-heater-vs-tank-cost&k=Large+home+water+heater&tag=errorcodefixes-20) | 75-gallon gas tank | Lowest upfront cost for high demand. Replace every 10 years. |
 
 **The flow rate trap:** Tankless units are rated by flow rate (gallons per minute). A typical shower uses 2 GPM. A shower plus a running dishwasher is 3.5 to 4 GPM. A gas tankless rated for 6.7 GPM can handle two showers and a dishwasher. An electric tankless rated for 3.5 GPM cannot. Check the flow rate before buying. Undersizing a tankless is the most common installation mistake.
 
@@ -151,10 +151,10 @@ Even if you are not replacing the unit yourself, simple maintenance extends life
 
 | Part | Purpose | Typical Amazon price |
 |------|---------|---------------------|
-| [Water heater anode rod](https://www.amazon.com/s?i=industrial&k=Water+heater+anode+rod&tag=errorcodefixes-20) | Prevents tank corrosion. Replace every 3-5 years. | $20 to $40 |
-| [Water heater drain valve (full-port)](https://www.amazon.com/s?i=industrial&k=Water+heater+drain+valve&tag=errorcodefixes-20) | Makes annual flushing easier. Replace plastic valve with brass. | $10 to $20 |
-| [Tankless descaling kit](https://www.amazon.com/s?i=industrial&k=Tankless+descaling+kit&tag=errorcodefixes-20) | Flush mineral deposits from tankless heat exchanger. Annual. | $40 to $80 |
-| [Water heater insulation blanket](https://www.amazon.com/s?i=industrial&k=Water+heater+insulation+blanket&tag=errorcodefixes-20) | Reduces standby heat loss on older tank units. | $20 to $35 |
+| [Water heater anode rod](https://www.amazon.com/s?ascsubtag=ecf-tankless-water-heater-vs-tank-cost&k=Water+heater+anode+rod&tag=errorcodefixes-20) | Prevents tank corrosion. Replace every 3-5 years. | $20 to $40 |
+| [Water heater drain valve (full-port)](https://www.amazon.com/s?ascsubtag=ecf-tankless-water-heater-vs-tank-cost&k=Water+heater+drain+valve&tag=errorcodefixes-20) | Makes annual flushing easier. Replace plastic valve with brass. | $10 to $20 |
+| [Tankless descaling kit](https://www.amazon.com/s?ascsubtag=ecf-tankless-water-heater-vs-tank-cost&k=Tankless+descaling+kit&tag=errorcodefixes-20) | Flush mineral deposits from tankless heat exchanger. Annual. | $40 to $80 |
+| [Water heater insulation blanket](https://www.amazon.com/s?ascsubtag=ecf-tankless-water-heater-vs-tank-cost&k=Water+heater+insulation+blanket&tag=errorcodefixes-20) | Reduces standby heat loss on older tank units. | $20 to $35 |
 
 ---
 

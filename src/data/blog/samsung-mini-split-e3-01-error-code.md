@@ -37,9 +37,9 @@ The Samsung E3-01 error code indicates an **indoor fan motor fault** — the ind
 
 | Part | Notes |
 |------|-------|
-| Indoor BLDC fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Samsung model-specific; verify by model number |
-| Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| If fan driver confirmed failed |
-| Evaporator fan cleaner (coil cleaner) | [Amazon](https://www.amazon.com/s?i=industrial&k=Evaporator+fan+cleaner+%28coil+cleaner%29&tag=errorcodefixes-20) \| Prevents recurrence; clean annually |
+| Indoor BLDC fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-samsung-mini-split-e3-01-error-code&tag=errorcodefixes-20) \| Samsung model-specific; verify by model number |
+| Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-samsung-mini-split-e3-01-error-code&tag=errorcodefixes-20) \| If fan driver confirmed failed |
+| Evaporator fan cleaner (coil cleaner) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-mini-split-e3-01-error-code&k=Evaporator+fan+cleaner+%28coil+cleaner%29&tag=errorcodefixes-20) \| Prevents recurrence; clean annually |
 ## When to Call a Pro
 
 Samsung BLDC motor replacements in the indoor unit require disassembly of the indoor unit housing and careful refrigerant line awareness. If you're not comfortable with electronics disassembly, have a certified technician handle the motor swap to avoid damaging the coil or refrigerant lines.

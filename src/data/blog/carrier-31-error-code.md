@@ -48,10 +48,10 @@ description: "Carrier error code 31 means the pressure switch is stuck open or f
 
 | Part | Where to Buy | Typical Cost |
 |------|-------------|-------------|
-| Pressure switch (Carrier #HK06WC085 or HK06WC064) | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Carrier dealer, Johnstone Supply | $20–$50 |
-| Draft inducer assembly (Carrier #HC21ZE120A) | [Amazon](https://www.amazon.com/s?i=industrial&k=Draft+inducer+assembly+%28Carrier+%23HC21ZE120A%29&tag=errorcodefixes-20) \| RepairClinic, Carrier OEM | $120–$280 |
-| Condensate drain line kit | [Amazon](https://www.amazon.com/s?i=industrial&k=Condensate+drain+line+kit&tag=errorcodefixes-20) \| Home Depot, HVAC Supply | $10–$25 |
-| Pressure switch hose (3/8" ID vinyl, sold by foot) | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| Any hardware store | $2–$5 |
+| Pressure switch (Carrier #HK06WC085 or HK06WC064) | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-31-error-code&tag=errorcodefixes-20) \| Carrier dealer, Johnstone Supply | $20–$50 |
+| Draft inducer assembly (Carrier #HC21ZE120A) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-31-error-code&k=Draft+inducer+assembly+%28Carrier+%23HC21ZE120A%29&tag=errorcodefixes-20) \| RepairClinic, Carrier OEM | $120–$280 |
+| Condensate drain line kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-31-error-code&k=Condensate+drain+line+kit&tag=errorcodefixes-20) \| Home Depot, HVAC Supply | $10–$25 |
+| Pressure switch hose (3/8" ID vinyl, sold by foot) | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?ascsubtag=ecf-carrier-31-error-code&tag=errorcodefixes-20) \| Any hardware store | $2–$5 |
 ## When to Call a Professional
 
 If you've cleared the hose, dried the switch, confirmed the inducer runs strongly, and the switch still won't close — you need a tech with a manometer to measure actual draft. A furnace that produces too little draft for its pressure switch rating usually means either the inducer is failing internally (impeller wear) or there's a major flue restriction. Both require hands-on diagnosis. Tell your tech: "Code 31, pressure switch won't close. I've already cleared the hose and the switch tests good at rest. I need you to measure draft on the inducer."

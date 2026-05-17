@@ -37,9 +37,9 @@ Alarm 437 on a Fanuc CNC system is a 4th axis (typically the A or B rotary axis)
 
 | Part | Notes |
 |------|-------|
-| 4th axis encoder/resolver | [Amazon](https://www.amazon.com/s?i=industrial&k=4th+axis+encoder%2Fresolver&tag=errorcodefixes-20) \| Match Fanuc servo motor model and encoder type (αi, βi) |
-| Servo amplifier module | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+amplifier+module&tag=errorcodefixes-20) \| Match axis rating and Fanuc CNC model series |
-| Rotary table bearing | [Amazon](https://www.amazon.com/s?i=industrial&k=Rotary+table+bearing&tag=errorcodefixes-20) \| Replace if manual rotation shows binding or roughness |
+| 4th axis encoder/resolver | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-437&k=4th+axis+encoder%2Fresolver&tag=errorcodefixes-20) \| Match Fanuc servo motor model and encoder type (αi, βi) |
+| Servo amplifier module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-437&k=Servo+amplifier+module&tag=errorcodefixes-20) \| Match axis rating and Fanuc CNC model series |
+| Rotary table bearing | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-437&k=Rotary+table+bearing&tag=errorcodefixes-20) \| Replace if manual rotation shows binding or roughness |
 ## When to Call a Pro
 
 Alarm 437 on a 5-axis machine or a large rotary pallet table requires a Fanuc-certified CNC technician to perform servo tuning and parameter verification. Incorrect following error tolerance or servo gain settings can cause poor part quality or repeated crashes.

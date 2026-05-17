@@ -529,6 +529,6 @@ Control Techniques drives support automatic trip reset, useful for applications 
 
 Find replacement parts for Control Techniques VFDs on Amazon:
 
-- [Control Techniques VFD Drive Replacement Parts](https://www.amazon.com/s?i=industrial&k=Control+Techniques+VFD+drive+replacement+parts&tag=errorcodefixes-20)
-- [Control Techniques Braking Resistor](https://www.amazon.com/s?i=industrial&k=Control+Techniques+braking+resistor&tag=errorcodefixes-20)
-- [VFD Drive Cooling Fan Replacement](https://www.amazon.com/s?i=industrial&k=VFD+drive+cooling+fan+replacement&tag=errorcodefixes-20)
+- [Control Techniques VFD Drive Replacement Parts](https://www.amazon.com/s?ascsubtag=ecf-control-techniques-vfd-fault-codes&k=Control+Techniques+VFD+drive+replacement+parts&tag=errorcodefixes-20)
+- [Control Techniques Braking Resistor](https://www.amazon.com/s?ascsubtag=ecf-control-techniques-vfd-fault-codes&k=Control+Techniques+braking+resistor&tag=errorcodefixes-20)
+- [VFD Drive Cooling Fan Replacement](https://www.amazon.com/s?ascsubtag=ecf-control-techniques-vfd-fault-codes&k=VFD+drive+cooling+fan+replacement&tag=errorcodefixes-20)

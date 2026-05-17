@@ -76,12 +76,12 @@ Connect the resistor between terminals **B1 and B2** on the V1000. Do not connec
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
-| Braking resistor 150 Ω / 200W (480V 1HP) | Dissipates regenerative energy on small V1000 | $30–$70 — [Search on Amazon](https://www.amazon.com/s?i=industrial&k=braking+resistor+150+ohm+200W+VFD&tag=errorcodefixes-20) |
-| Braking resistor 50 Ω / 500W (480V 5HP) | DB resistor for mid-size V1000 | $50–$120 — [Search on Amazon](https://www.amazon.com/s?i=industrial&k=dynamic+braking+resistor+50+ohm+500W&tag=errorcodefixes-20) |
-| Yaskawa V1000 replacement drive | If braking transistor is damaged | $300–$900 — [Search on Amazon](https://www.amazon.com/s?i=industrial&k=Yaskawa+V1000+VFD+replacement&tag=errorcodefixes-20) |
-| Line reactor (3%, 480V) | Reduces voltage transients from utility | $80–$250 — [Search on Amazon](https://www.amazon.com/s?i=industrial&k=3%25+line+reactor+480V+VFD+input&tag=errorcodefixes-20) |
-| True RMS multimeter | Accurate voltage measurement | $40–$150 — [Search on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) |
-| DIN rail resistor mounting bracket | Mount DB resistor safely in panel | $10–$25 — [Search on Amazon](https://www.amazon.com/s?i=industrial&k=DIN+rail+resistor+mounting+bracket&tag=errorcodefixes-20) |
+| Braking resistor 150 Ω / 200W (480V 1HP) | Dissipates regenerative energy on small V1000 | $30–$70 — [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-yaskawa-v1000-fault-ov&k=braking+resistor+150+ohm+200W+VFD&tag=errorcodefixes-20) |
+| Braking resistor 50 Ω / 500W (480V 5HP) | DB resistor for mid-size V1000 | $50–$120 — [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-yaskawa-v1000-fault-ov&k=dynamic+braking+resistor+50+ohm+500W&tag=errorcodefixes-20) |
+| Yaskawa V1000 replacement drive | If braking transistor is damaged | $300–$900 — [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-yaskawa-v1000-fault-ov&k=Yaskawa+V1000+VFD+replacement&tag=errorcodefixes-20) |
+| Line reactor (3%, 480V) | Reduces voltage transients from utility | $80–$250 — [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-yaskawa-v1000-fault-ov&k=3%25+line+reactor+480V+VFD+input&tag=errorcodefixes-20) |
+| True RMS multimeter | Accurate voltage measurement | $40–$150 — [Search on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?ascsubtag=ecf-yaskawa-v1000-fault-ov&tag=errorcodefixes-20) |
+| DIN rail resistor mounting bracket | Mount DB resistor safely in panel | $10–$25 — [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-yaskawa-v1000-fault-ov&k=DIN+rail+resistor+mounting+bracket&tag=errorcodefixes-20) |
 
 ## When to Call a Pro
 

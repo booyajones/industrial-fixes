@@ -104,12 +104,12 @@ Each element has a one-shot thermal cutoff (TCO). If any TCO has tripped, that e
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
-| [EcoSmart ECO 36 Heating Element (Part # ECO36-ELEMENT, 9,000W)](https://www.amazon.com/s?i=industrial&k=EcoSmart+ECO+36+heating+element+9000w+replacement&tag=errorcodefixes-20) | Replaces failed 9,000W heating element - do NOT substitute ECO 27 elements | $40-$70 per element |
-| [EcoSmart Flow Sensor](https://www.amazon.com/s?i=industrial&k=EcoSmart+ECO+36+flow+sensor&tag=errorcodefixes-20) | Replaces failed flow sensor causing persistent E1 fault | $20-$40 |
-| [Thermal Cutoff (TCO) 140°C](https://www.amazon.com/s?i=industrial&k=tankless+water+heater+thermal+cutoff+140c&tag=errorcodefixes-20) | Replaces tripped thermal safety on heating element | $8-$18 |
-| [NTC Thermistor Sensor (10kΩ)](https://www.amazon.com/s?i=industrial&k=tankless+water+heater+NTC+thermistor+10k&tag=errorcodefixes-20) | Replaces E3 or E4 inlet/outlet temperature sensor | $12-$25 |
-| [EcoSmart Control Module](https://www.amazon.com/s?i=industrial&k=EcoSmart+ECO+36+control+module+board&tag=errorcodefixes-20) | Replaces failed control board on ECO 36 | $65-$130 |
-| [Tankless Descaling Flush Kit](https://www.amazon.com/s?i=industrial&k=tankless+water+heater+flush+kit+descale&tag=errorcodefixes-20) | Annual maintenance kit for hard water - prevents element failure and E2 codes | $28-$55 |
+| [EcoSmart ECO 36 Heating Element (Part # ECO36-ELEMENT, 9,000W)](https://www.amazon.com/s?ascsubtag=ecf-ecosmart-eco36-error-codes&k=EcoSmart+ECO+36+heating+element+9000w+replacement&tag=errorcodefixes-20) | Replaces failed 9,000W heating element - do NOT substitute ECO 27 elements | $40-$70 per element |
+| [EcoSmart Flow Sensor](https://www.amazon.com/s?ascsubtag=ecf-ecosmart-eco36-error-codes&k=EcoSmart+ECO+36+flow+sensor&tag=errorcodefixes-20) | Replaces failed flow sensor causing persistent E1 fault | $20-$40 |
+| [Thermal Cutoff (TCO) 140°C](https://www.amazon.com/s?ascsubtag=ecf-ecosmart-eco36-error-codes&k=tankless+water+heater+thermal+cutoff+140c&tag=errorcodefixes-20) | Replaces tripped thermal safety on heating element | $8-$18 |
+| [NTC Thermistor Sensor (10kΩ)](https://www.amazon.com/s?ascsubtag=ecf-ecosmart-eco36-error-codes&k=tankless+water+heater+NTC+thermistor+10k&tag=errorcodefixes-20) | Replaces E3 or E4 inlet/outlet temperature sensor | $12-$25 |
+| [EcoSmart Control Module](https://www.amazon.com/s?ascsubtag=ecf-ecosmart-eco36-error-codes&k=EcoSmart+ECO+36+control+module+board&tag=errorcodefixes-20) | Replaces failed control board on ECO 36 | $65-$130 |
+| [Tankless Descaling Flush Kit](https://www.amazon.com/s?ascsubtag=ecf-ecosmart-eco36-error-codes&k=tankless+water+heater+flush+kit+descale&tag=errorcodefixes-20) | Annual maintenance kit for hard water - prevents element failure and E2 codes | $28-$55 |
 
 ## When to Call a Pro
 

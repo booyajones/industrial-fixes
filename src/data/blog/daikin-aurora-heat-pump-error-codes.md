@@ -83,12 +83,12 @@ The Daikin Aurora is rated to operate down to -13°F for heating. However, sever
 
 | Part | Use | Buy on Amazon |
 |------|-----|---------------|
-| Daikin Compatible 10K Coil Thermistor | Replace C4 or C9 sensors | [View on Amazon](https://www.amazon.com/s?i=industrial&k=daikin+heat+pump+coil+thermistor+10k&tag=errorcodefixes-20) |
-| Condensate Drain Line Cleaning Tablets (Rectorseal) | Prevent A3 drain faults by keeping drain clear | [View on Amazon](https://www.amazon.com/s?i=industrial&k=condensate+drain+pan+cleaning+tablets+hvac&tag=errorcodefixes-20) |
-| 14/4 Multi-Conductor HVAC Wire (50 ft) | Replace communication and control wiring for U4 | [View on Amazon](https://www.amazon.com/s?i=industrial&k=14+4+multi+conductor+wire+hvac+50+feet&tag=errorcodefixes-20) |
-| Digital Refrigerant Gauge Set (R-410A) | Check refrigerant pressures for E3, E4 diagnosis | [View on Amazon](https://www.amazon.com/s?i=industrial&k=digital+refrigerant+manifold+gauge+r410a&tag=errorcodefixes-20) |
-| HVAC Digital Multimeter (Fluke 116) | Test voltage, motor resistance, and sensor values | [View on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) |
-| Outdoor Unit Winter Cover / Wind Baffle | Protect Aurora outdoor unit in extreme cold climates | [View on Amazon](https://www.amazon.com/s?i=industrial&k=heat+pump+outdoor+unit+winter+wind+baffle&tag=errorcodefixes-20) |
+| Daikin Compatible 10K Coil Thermistor | Replace C4 or C9 sensors | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-aurora-heat-pump-error-codes&k=daikin+heat+pump+coil+thermistor+10k&tag=errorcodefixes-20) |
+| Condensate Drain Line Cleaning Tablets (Rectorseal) | Prevent A3 drain faults by keeping drain clear | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-aurora-heat-pump-error-codes&k=condensate+drain+pan+cleaning+tablets+hvac&tag=errorcodefixes-20) |
+| 14/4 Multi-Conductor HVAC Wire (50 ft) | Replace communication and control wiring for U4 | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-aurora-heat-pump-error-codes&k=14+4+multi+conductor+wire+hvac+50+feet&tag=errorcodefixes-20) |
+| Digital Refrigerant Gauge Set (R-410A) | Check refrigerant pressures for E3, E4 diagnosis | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-aurora-heat-pump-error-codes&k=digital+refrigerant+manifold+gauge+r410a&tag=errorcodefixes-20) |
+| HVAC Digital Multimeter (Fluke 116) | Test voltage, motor resistance, and sensor values | [View on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?ascsubtag=ecf-daikin-aurora-heat-pump-error-codes&tag=errorcodefixes-20) |
+| Outdoor Unit Winter Cover / Wind Baffle | Protect Aurora outdoor unit in extreme cold climates | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-aurora-heat-pump-error-codes&k=heat+pump+outdoor+unit+winter+wind+baffle&tag=errorcodefixes-20) |
 
 ## When to Call a Pro
 

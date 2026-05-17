@@ -51,12 +51,12 @@ DMG Mori DMF series machines are high-end 5-axis or multi-axis machining centers
 
 | Part | Notes |
 |------|-------|
-| Lube pump parts | [Amazon](https://www.amazon.com/s?i=industrial&k=Lube+pump+parts&tag=errorcodefixes-20) \| A common early failure point |
-| Chiller service kit | [Amazon](https://www.amazon.com/s?i=industrial&k=Chiller+service+kit&tag=errorcodefixes-20) \| Spindle alarms often start here |
-| Prox sensors | [Amazon](https://www.amazon.com/s?i=industrial&k=Prox+sensors&tag=errorcodefixes-20) \| ATC and position feedback faults |
-| Hydraulic filters | [Amazon](https://www.amazon.com/s?i=industrial&k=Hydraulic+filters&tag=errorcodefixes-20) \| Cheap compared with the faults they prevent |
-| Encoder cables | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+cables&tag=errorcodefixes-20) \| Intermittent axis faults on aging machines |
-| Battery / backup parts | [Amazon](https://www.amazon.com/s?i=industrial&k=Battery+%2F+backup+parts&tag=errorcodefixes-20) \| For control memory and PLC issues |
+| Lube pump parts | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-dmg-mori-dmf-error-codes&k=Lube+pump+parts&tag=errorcodefixes-20) \| A common early failure point |
+| Chiller service kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-dmg-mori-dmf-error-codes&k=Chiller+service+kit&tag=errorcodefixes-20) \| Spindle alarms often start here |
+| Prox sensors | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-dmg-mori-dmf-error-codes&k=Prox+sensors&tag=errorcodefixes-20) \| ATC and position feedback faults |
+| Hydraulic filters | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-dmg-mori-dmf-error-codes&k=Hydraulic+filters&tag=errorcodefixes-20) \| Cheap compared with the faults they prevent |
+| Encoder cables | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-dmg-mori-dmf-error-codes&k=Encoder+cables&tag=errorcodefixes-20) \| Intermittent axis faults on aging machines |
+| Battery / backup parts | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-dmg-mori-dmf-error-codes&k=Battery+%2F+backup+parts&tag=errorcodefixes-20) \| For control memory and PLC issues |
 ## When to Call a Pro
 
 DMF machines reward disciplined troubleshooting. If the lube or chiller system is unhappy, fix that first. Too many shops burn time chasing servo alarms that are really utility problems in disguise.

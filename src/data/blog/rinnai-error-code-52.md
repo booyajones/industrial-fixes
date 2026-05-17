@@ -75,9 +75,9 @@ Rinnai outlet temperature sensors are NTC thermistors:
 
 | Part | Notes |
 |---|---|
-| Outlet temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Rinnai part 100001223 or model-specific equivalent |
-| Inlet temperature sensor (if confused with 53) | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Rinnai part 100001222 |
-| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Last resort — verify sensor and wiring first |
+| Outlet temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-rinnai-error-code-52&tag=errorcodefixes-20) \| Rinnai part 100001223 or model-specific equivalent |
+| Inlet temperature sensor (if confused with 53) | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-rinnai-error-code-52&tag=errorcodefixes-20) \| Rinnai part 100001222 |
+| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-rinnai-error-code-52&tag=errorcodefixes-20) \| Last resort — verify sensor and wiring first |
 ## Reset Procedure
 
 1. Replace the sensor

@@ -54,12 +54,12 @@ Code 90 is logged when the unit detects repeated combustion failures not attribu
 
 | Part | Notes |
 |------|-------|
-| Thermistor sensors | [Amazon](https://www.amazon.com/s?i=industrial&k=Thermistor+sensors&tag=errorcodefixes-20) \| Check resistance vs. chart |
-| Flow sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Flow+sensor&tag=errorcodefixes-20) \| Clean turbine before replacing |
-| Igniter/flame rod | [Amazon](https://www.amazon.com/s?i=industrial&k=Igniter%2Fflame+rod&tag=errorcodefixes-20) \| Check gap: 3.5–4mm |
-| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Test coil resistance (8–12 ╬⌐ typical) |
-| Fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match model voltage and RPM |
-| Heat exchanger | [Amazon](https://www.amazon.com/s?i=industrial&k=Heat+exchanger&tag=errorcodefixes-20) \| Last resort — descale first |
+| Thermistor sensors | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-noritz-nr111-error-codes&k=Thermistor+sensors&tag=errorcodefixes-20) \| Check resistance vs. chart |
+| Flow sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-noritz-nr111-error-codes&k=Flow+sensor&tag=errorcodefixes-20) \| Clean turbine before replacing |
+| Igniter/flame rod | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-noritz-nr111-error-codes&k=Igniter%2Fflame+rod&tag=errorcodefixes-20) \| Check gap: 3.5–4mm |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-noritz-nr111-error-codes&tag=errorcodefixes-20) \| Test coil resistance (8–12 ╬⌐ typical) |
+| Fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-noritz-nr111-error-codes&tag=errorcodefixes-20) \| Match model voltage and RPM |
+| Heat exchanger | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-noritz-nr111-error-codes&k=Heat+exchanger&tag=errorcodefixes-20) \| Last resort — descale first |
 > **Pro tip:** Noritz NR111 units in cascade configurations (up to 16 units) can be monitored via the EZ Link controller. Fault codes for all units display on the controller — check here before visiting individual units.
 
 ## Related Articles

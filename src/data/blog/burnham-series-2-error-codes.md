@@ -48,12 +48,12 @@ On oil-fired Series 2 units with Beckett burner: check oil tank level, oil filte
 
 | Part | Notes |
 |------|-------|
-| Flame sensor (gas) | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Clean first — measure ┬╡A |
-| Oil burner nozzle | [Amazon](https://www.amazon.com/s?i=industrial&k=Oil+burner+nozzle&tag=errorcodefixes-20) \| Replace annually |
-| Ignition transformer | [Amazon](https://www.amazon.com/s?i=industrial&k=Ignition+transformer&tag=errorcodefixes-20) \| Check spark at electrode |
-| Circulator pump | [Amazon](https://www.amazon.com/s?i=industrial&k=Circulator+pump&tag=errorcodefixes-20) \| Check for seized impeller |
-| Low water cutoff | [Amazon](https://www.amazon.com/s?i=industrial&k=Low+water+cutoff&tag=errorcodefixes-20) \| Test annually — replace if suspect |
-| Aquastat | [Amazon](https://www.amazon.com/s?i=industrial&k=Aquastat&tag=errorcodefixes-20) \| Match temperature rating |
+| Flame sensor (gas) | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-burnham-series-2-error-codes&tag=errorcodefixes-20) \| Clean first — measure ┬╡A |
+| Oil burner nozzle | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-burnham-series-2-error-codes&k=Oil+burner+nozzle&tag=errorcodefixes-20) \| Replace annually |
+| Ignition transformer | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-burnham-series-2-error-codes&k=Ignition+transformer&tag=errorcodefixes-20) \| Check spark at electrode |
+| Circulator pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-burnham-series-2-error-codes&k=Circulator+pump&tag=errorcodefixes-20) \| Check for seized impeller |
+| Low water cutoff | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-burnham-series-2-error-codes&k=Low+water+cutoff&tag=errorcodefixes-20) \| Test annually — replace if suspect |
+| Aquastat | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-burnham-series-2-error-codes&k=Aquastat&tag=errorcodefixes-20) \| Match temperature rating |
 > **Pro tip:** Burnham Series 2 cast iron boilers require annual maintenance. Clean the heat exchanger passages with a boiler brush — accumulated soot significantly reduces efficiency and can cause overtemperature faults.
 
 ## Related Articles

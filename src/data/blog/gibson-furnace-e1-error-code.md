@@ -38,9 +38,9 @@ E1 on a Gibson furnace means the pressure switch did not close within the allowe
 
 | Part | Notes |
 |------|-------|
-| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| Use matched rubber tubing; do not use rigid vinyl that can crack |
-| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match WC rating from the label on the Gibson switch |
-| Inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Match model number; Nortek/Gibson motors are often model-specific |
+| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?ascsubtag=ecf-gibson-furnace-e1-error-code&tag=errorcodefixes-20) \| Use matched rubber tubing; do not use rigid vinyl that can crack |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-gibson-furnace-e1-error-code&tag=errorcodefixes-20) \| Match WC rating from the label on the Gibson switch |
+| Inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-gibson-furnace-e1-error-code&tag=errorcodefixes-20) \| Match model number; Nortek/Gibson motors are often model-specific |
 ## When to Call a Pro
 
 If the inducer motor requires replacement and the furnace is over 10 years old, evaluate whether repair or replacement is more economical before spending on major components.

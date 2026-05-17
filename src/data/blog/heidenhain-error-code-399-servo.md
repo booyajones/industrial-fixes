@@ -38,10 +38,10 @@ Error 399 on a Heidenhain TNC 640 (and related iTNC/TNC series) controls indicat
 
 | Part | Notes |
 |------|-------|
-| Linear encoder read head | [Amazon](https://www.amazon.com/s?i=industrial&k=Linear+encoder+read+head&tag=errorcodefixes-20) \| Replace if contamination or physical damage is found |
-| Encoder feedback cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+feedback+cable&tag=errorcodefixes-20) \| Replace if intermittent signal is confirmed |
-| Ball screw support bearing | [Amazon](https://www.amazon.com/s?i=industrial&k=Ball+screw+support+bearing&tag=errorcodefixes-20) \| Replace if ball screw binding is due to bearing failure |
-| Servo drive module | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+drive+module&tag=errorcodefixes-20) \| Replace if drive has a confirmed hardware fault accompanying error 399 |
+| Linear encoder read head | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-heidenhain-error-code-399-servo&k=Linear+encoder+read+head&tag=errorcodefixes-20) \| Replace if contamination or physical damage is found |
+| Encoder feedback cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-heidenhain-error-code-399-servo&k=Encoder+feedback+cable&tag=errorcodefixes-20) \| Replace if intermittent signal is confirmed |
+| Ball screw support bearing | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-heidenhain-error-code-399-servo&k=Ball+screw+support+bearing&tag=errorcodefixes-20) \| Replace if ball screw binding is due to bearing failure |
+| Servo drive module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-heidenhain-error-code-399-servo&k=Servo+drive+module&tag=errorcodefixes-20) \| Replace if drive has a confirmed hardware fault accompanying error 399 |
 ## When to Call a Pro
 
 Heidenhain servo system tuning (following error tolerance, drive gains) requires a Heidenhain-certified machine tool builder or service technician. Encoder calibration after replacement also requires proper alignment tools and Heidenhain service software.

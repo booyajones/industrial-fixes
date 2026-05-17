@@ -38,8 +38,8 @@ Alarm 14 (Ground Fault) on a Danfoss FC301 drive means the drive has detected an
 
 | Part | Notes |
 |------|-------|
-| Motor output cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+output+cable&tag=errorcodefixes-20) \| Replace fully if insulation damage is found |
-| Motor (rewind or replace) | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+%28rewind+or+replace%29&tag=errorcodefixes-20) \| Required if winding insulation tests below 1 MΩ |
+| Motor output cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-danfoss-fc301-fault-al-14&k=Motor+output+cable&tag=errorcodefixes-20) \| Replace fully if insulation damage is found |
+| Motor (rewind or replace) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-danfoss-fc301-fault-al-14&k=Motor+%28rewind+or+replace%29&tag=errorcodefixes-20) \| Required if winding insulation tests below 1 MΩ |
 ## When to Call a Pro
 
 Megohmmeter testing and motor insulation diagnosis should be performed by a qualified electrician. A motor with insulation failure below 1 MΩ is a safety hazard and must not be operated until repaired or replaced.

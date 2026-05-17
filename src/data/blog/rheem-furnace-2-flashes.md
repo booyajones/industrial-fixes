@@ -83,10 +83,10 @@ If all the above checks out and 2 flashes persists, the inducer may not be gener
 
 | Part | Cost |
 |---|---|
-| Pressure switch (OEM) | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| $25–65 |
-| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| $5–15 |
-| Inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| $150–350 |
-| Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) \| $15–30 |
+| Pressure switch (OEM) | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-rheem-furnace-2-flashes&tag=errorcodefixes-20) \| $25–65 |
+| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?ascsubtag=ecf-rheem-furnace-2-flashes&tag=errorcodefixes-20) \| $5–15 |
+| Inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-rheem-furnace-2-flashes&tag=errorcodefixes-20) \| $150–350 |
+| Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-rheem-furnace-2-flashes&tag=errorcodefixes-20) \| $15–30 |
 ## 2 Flashes vs. 3 Flashes on Rheem
 
 - **2 flashes** = Pressure switch fault (primary topic here)

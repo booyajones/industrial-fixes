@@ -38,9 +38,9 @@ On Klimaire mini split systems, E1 signals a communication failure between the i
 
 | Part | Notes |
 |------|-------|
-| Outdoor unit control PCB | [Amazon](https://www.amazon.com/s?i=industrial&k=Outdoor+unit+control+PCB&tag=errorcodefixes-20) \| Match exact model; Klimaire parts are available from Klimaire direct and HVAC suppliers |
-| 3-conductor signal wire | [Amazon](https://www.amazon.com/s?i=industrial&k=3-conductor+signal+wire&tag=errorcodefixes-20) \| 18 AWG or as specified in the installation manual |
-| Indoor unit control PCB | [Amazon](https://www.amazon.com/s?i=industrial&k=Indoor+unit+control+PCB&tag=errorcodefixes-20) \| Replace if outdoor board swap doesn't clear E1 |
+| Outdoor unit control PCB | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-klimaire-mini-split-e1-error-code&k=Outdoor+unit+control+PCB&tag=errorcodefixes-20) \| Match exact model; Klimaire parts are available from Klimaire direct and HVAC suppliers |
+| 3-conductor signal wire | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-klimaire-mini-split-e1-error-code&k=3-conductor+signal+wire&tag=errorcodefixes-20) \| 18 AWG or as specified in the installation manual |
+| Indoor unit control PCB | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-klimaire-mini-split-e1-error-code&k=Indoor+unit+control+PCB&tag=errorcodefixes-20) \| Replace if outdoor board swap doesn't clear E1 |
 ## When to Call a Pro
 
 Klimaire's warranty requires service by a licensed HVAC technician. If the unit is within the warranty period, contact Klimaire's technical support line before purchasing parts — they can often diagnose the fault remotely from the error code history and expedite warranty parts.

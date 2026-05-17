@@ -59,11 +59,11 @@ The outlet thermistor is the same NTC sensor style used for the inlet thermistor
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|-------------|
-| Navien NTC Thermistor (outlet sensor) | $20–$50 | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) |
-| High-Temperature Wire (for harness repair) | $10–$20 | [Amazon](https://www.amazon.com/s?i=industrial&k=high+temperature+wire+HVAC+sensor+repair&tag=errorcodefixes-20) |
-| Electrical Contact Cleaner | $6–$12 | [Amazon](https://www.amazon.com/s?i=industrial&k=electrical+contact+cleaner+spray+HVAC&tag=errorcodefixes-20) |
-| Waterproof Heat-Shrink Connectors | $8–$15 | [Amazon](https://www.amazon.com/s?i=industrial&k=waterproof+heat+shrink+wire+connector+splice&tag=errorcodefixes-20) |
-| Digital Multimeter | $20–$60 | [Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) |
+| Navien NTC Thermistor (outlet sensor) | $20–$50 | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-navien-error-code-e022&tag=errorcodefixes-20) |
+| High-Temperature Wire (for harness repair) | $10–$20 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-error-code-e022&k=high+temperature+wire+HVAC+sensor+repair&tag=errorcodefixes-20) |
+| Electrical Contact Cleaner | $6–$12 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-error-code-e022&k=electrical+contact+cleaner+spray+HVAC&tag=errorcodefixes-20) |
+| Waterproof Heat-Shrink Connectors | $8–$15 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-error-code-e022&k=waterproof+heat+shrink+wire+connector+splice&tag=errorcodefixes-20) |
+| Digital Multimeter | $20–$60 | [Amazon](https://www.amazon.com/dp/B08ZJSN5X3?ascsubtag=ecf-navien-error-code-e022&tag=errorcodefixes-20) |
 
 ## When to Call a Technician
 

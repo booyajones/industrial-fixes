@@ -36,9 +36,9 @@ The Siemens SINAMICS V20 **F4 fault** is an **Inverter Overtemperature** fault. 
 
 | Part | Notes |
 |------|-------|
-| Enclosure thermostat fan unit | [Amazon](https://www.amazon.com/s?i=industrial&k=Enclosure+thermostat+fan+unit&tag=errorcodefixes-20) \| Install when panel ambient consistently exceeds 40°C |
-| Compressed air canister | [Amazon](https://www.amazon.com/s?i=industrial&k=Compressed+air+canister&tag=errorcodefixes-20) \| For routine quarterly vent cleaning |
-| Larger frame V20 drive | [Amazon](https://www.amazon.com/s?i=industrial&k=Larger+frame+V20+drive&tag=errorcodefixes-20) \| Required if drive is genuinely undersized for continuous load |
+| Enclosure thermostat fan unit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-sinamics-v20-f4-fault&k=Enclosure+thermostat+fan+unit&tag=errorcodefixes-20) \| Install when panel ambient consistently exceeds 40°C |
+| Compressed air canister | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-sinamics-v20-f4-fault&k=Compressed+air+canister&tag=errorcodefixes-20) \| For routine quarterly vent cleaning |
+| Larger frame V20 drive | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-sinamics-v20-f4-fault&k=Larger+frame+V20+drive&tag=errorcodefixes-20) \| Required if drive is genuinely undersized for continuous load |
 ## When to Call a Pro
 
 If F4 returns immediately after cleaning and the drive is correctly sized and installed, the internal temperature sensor may have drifted. Siemens SINAMICS V20 does not have a user-replaceable temperature sensor; the drive unit requires replacement in this scenario.

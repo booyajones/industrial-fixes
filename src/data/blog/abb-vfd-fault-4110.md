@@ -38,9 +38,9 @@ Fault 4110 on an ABB variable frequency drive (ACS series) indicates a control b
 
 | Part | Notes |
 |------|-------|
-| Internal cooling fan | [Amazon](https://www.amazon.com/s?i=industrial&k=Internal+cooling+fan&tag=errorcodefixes-20) \| Match to ABB drive frame size and part number |
-| Enclosure ventilation fan | [Amazon](https://www.amazon.com/s?i=industrial&k=Enclosure+ventilation+fan&tag=errorcodefixes-20) \| For panel cooling; add if ambient is consistently high |
-| Thermal interface pad | [Amazon](https://www.amazon.com/s?i=industrial&k=Thermal+interface+pad&tag=errorcodefixes-20) \| Replace if control board heat sink compound has dried out |
+| Internal cooling fan | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-abb-vfd-fault-4110&k=Internal+cooling+fan&tag=errorcodefixes-20) \| Match to ABB drive frame size and part number |
+| Enclosure ventilation fan | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-abb-vfd-fault-4110&k=Enclosure+ventilation+fan&tag=errorcodefixes-20) \| For panel cooling; add if ambient is consistently high |
+| Thermal interface pad | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-abb-vfd-fault-4110&k=Thermal+interface+pad&tag=errorcodefixes-20) \| Replace if control board heat sink compound has dried out |
 ## When to Call a Pro
 
 If the drive continues to trip on 4110 after cleaning and fan replacement, the control board thermal sensor may be faulty, or the drive may be undersized for the application. An ABB-certified drive technician can perform a full thermal audit and load analysis.

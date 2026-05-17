@@ -19,7 +19,7 @@ Florida Heat Pump (FHP), now part of Bosch Thermotechnology, manufactures water-
 
 ## FHP Fault Code Table
 
-| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Description | Common Cause |
+| [Code](https://www.amazon.com/s?ascsubtag=ecf-florida-heat-pump-error-codes&k=Code&tag=errorcodefixes-20) | Description | Common Cause |
 |---|---|---|
 | E1 | High-pressure lockout | High loop/water temp, low airflow, dirty coil |
 | E2 | Low-pressure lockout | Low refrigerant, low airflow, low loop flow |
@@ -70,11 +70,11 @@ FHP units manufactured after 2015 may show Bosch Thermotechnology branding. The 
 
 | Part | Notes |
 |---|---|
-| [High/low pressure switch](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | Match refrigerant and trip pressure |
-| [Temperature sensor](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | 10K NTC thermistor — FHP part 02531-016 |
-| [TXV assembly](https://www.amazon.com/s?i=industrial&k=TXV+assembly&tag=errorcodefixes-20) | Match capacity and refrigerant type |
-| [DDC control board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | FHP/Bosch part — match model number |
-| [ECA accessory board](https://www.amazon.com/s?i=industrial&k=ECA+accessory+board&tag=errorcodefixes-20) | For advanced controls and monitoring |
+| [High/low pressure switch](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-florida-heat-pump-error-codes&tag=errorcodefixes-20) | Match refrigerant and trip pressure |
+| [Temperature sensor](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-florida-heat-pump-error-codes&tag=errorcodefixes-20) | 10K NTC thermistor — FHP part 02531-016 |
+| [TXV assembly](https://www.amazon.com/s?ascsubtag=ecf-florida-heat-pump-error-codes&k=TXV+assembly&tag=errorcodefixes-20) | Match capacity and refrigerant type |
+| [DDC control board](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-florida-heat-pump-error-codes&tag=errorcodefixes-20) | FHP/Bosch part — match model number |
+| [ECA accessory board](https://www.amazon.com/s?ascsubtag=ecf-florida-heat-pump-error-codes&k=ECA+accessory+board&tag=errorcodefixes-20) | For advanced controls and monitoring |
 
 > **Note:** FHP/Bosch geothermal units have a hard lockout after 3 consecutive fault trips. After correcting the root cause, reset via the DDC controller or by cycling power at the breaker for 60 seconds.
 

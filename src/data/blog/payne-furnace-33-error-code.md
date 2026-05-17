@@ -37,9 +37,9 @@ Code 33 on a Payne furnace means the limit device has opened and locked out the 
 
 | Part | Notes |
 |------|-------|
-| High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Match temperature rating (e.g., 200°F) and mounting style |
-| Rollout limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Often auto-reset; manual-reset models require button press after fixing root cause |
-| Blower motor run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Match µF and VAC rating printed on the old capacitor |
+| High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-payne-furnace-33-error-code&tag=errorcodefixes-20) \| Match temperature rating (e.g., 200°F) and mounting style |
+| Rollout limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-payne-furnace-33-error-code&tag=errorcodefixes-20) \| Often auto-reset; manual-reset models require button press after fixing root cause |
+| Blower motor run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-payne-furnace-33-error-code&tag=errorcodefixes-20) \| Match µF and VAC rating printed on the old capacitor |
 ## When to Call a Pro
 
 If the limit trips repeatedly after cleaning the filter and confirming good airflow, have a technician inspect the heat exchanger for cracks. A cracked heat exchanger can allow combustion gases into the living space and is a carbon monoxide hazard.

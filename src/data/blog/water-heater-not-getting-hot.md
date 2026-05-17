@@ -157,12 +157,12 @@ Testing: With power off, use a multimeter to check continuity across thermostat 
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|--------------|
-| [Universal Thermocouple 30-inch](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) | Pilot light goes out immediately when released | $10–$18 |
-| [Honeywell Gas Valve WV8840B1109](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) | Gas valve won't hold pilot or open for burner | $55–$120 |
-| [4500W 240V Water Heater Element Camco 02162](https://www.amazon.com/s?i=industrial&k=Camco+02162+water+heater+element+4500w&tag=errorcodefixes-20) | Burned-out or shorted heating element | $15–$28 |
-| [Water Heater Thermostat Upper Universal](https://www.amazon.com/s?i=industrial&k=electric+water+heater+upper+thermostat+replacement&tag=errorcodefixes-20) | Failed thermostat cuts power to heating elements | $12–$22 |
-| [Water Heater Anode Rod Magnesium 44-inch](https://www.amazon.com/s?i=industrial&k=water+heater+anode+rod+magnesium+44+inch&tag=errorcodefixes-20) | Depleted anode rod accelerates tank corrosion | $18–$35 |
-| [Water Heater Element Socket 1-1/2 inch](https://www.amazon.com/s?i=industrial&k=water+heater+element+socket+wrench+1.5+inch&tag=errorcodefixes-20) | Required tool to remove and install heating elements | $10–$18 |
+| [Universal Thermocouple 30-inch](https://www.amazon.com/dp/B00RJF4PYQ?ascsubtag=ecf-water-heater-not-getting-hot&tag=errorcodefixes-20) | Pilot light goes out immediately when released | $10–$18 |
+| [Honeywell Gas Valve WV8840B1109](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-water-heater-not-getting-hot&tag=errorcodefixes-20) | Gas valve won't hold pilot or open for burner | $55–$120 |
+| [4500W 240V Water Heater Element Camco 02162](https://www.amazon.com/s?ascsubtag=ecf-water-heater-not-getting-hot&k=Camco+02162+water+heater+element+4500w&tag=errorcodefixes-20) | Burned-out or shorted heating element | $15–$28 |
+| [Water Heater Thermostat Upper Universal](https://www.amazon.com/s?ascsubtag=ecf-water-heater-not-getting-hot&k=electric+water+heater+upper+thermostat+replacement&tag=errorcodefixes-20) | Failed thermostat cuts power to heating elements | $12–$22 |
+| [Water Heater Anode Rod Magnesium 44-inch](https://www.amazon.com/s?ascsubtag=ecf-water-heater-not-getting-hot&k=water+heater+anode+rod+magnesium+44+inch&tag=errorcodefixes-20) | Depleted anode rod accelerates tank corrosion | $18–$35 |
+| [Water Heater Element Socket 1-1/2 inch](https://www.amazon.com/s?ascsubtag=ecf-water-heater-not-getting-hot&k=water+heater+element+socket+wrench+1.5+inch&tag=errorcodefixes-20) | Required tool to remove and install heating elements | $10–$18 |
 
 ---
 

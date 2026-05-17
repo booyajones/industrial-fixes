@@ -67,11 +67,11 @@ In 80% of cases, a clogged air filter is the root cause. Check that first before
 
 | Part | Notes |
 |------|-------|
-| [Furnace Air Filter](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) | Check size on existing filter label; replace every 1–3 months |
-| [Furnace High Limit Switch](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) | Match temperature rating (usually 190°F or 200°F) and mounting style |
-| [Flame Rollout Switch](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) | Verify amperage rating; some Carrier models use manual-reset type |
-| [Furnace Inducer Motor](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) | Match HP, voltage, and RPM from OEM label |
-| [Furnace Blower Motor](https://www.amazon.com/s?i=industrial&k=carrier+furnace+blower+motor&tag=errorcodefixes-20) | Check HP, voltage, and RPM; direct-drive vs. belt-drive varies by model |
+| [Furnace Air Filter](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-carrier-error-code-33&tag=errorcodefixes-20) | Check size on existing filter label; replace every 1–3 months |
+| [Furnace High Limit Switch](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-carrier-error-code-33&tag=errorcodefixes-20) | Match temperature rating (usually 190°F or 200°F) and mounting style |
+| [Flame Rollout Switch](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-carrier-error-code-33&tag=errorcodefixes-20) | Verify amperage rating; some Carrier models use manual-reset type |
+| [Furnace Inducer Motor](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-carrier-error-code-33&tag=errorcodefixes-20) | Match HP, voltage, and RPM from OEM label |
+| [Furnace Blower Motor](https://www.amazon.com/s?ascsubtag=ecf-carrier-error-code-33&k=carrier+furnace+blower+motor&tag=errorcodefixes-20) | Check HP, voltage, and RPM; direct-drive vs. belt-drive varies by model |
 
 ## When to Call a Technician
 

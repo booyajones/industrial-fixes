@@ -64,12 +64,12 @@ The Noritz NRCP series (NRCP1112-DV, NRCP1262-DV) are direct-vent condensing tan
 
 | Part | Notes |
 |------|-------|
-| Thermal fuse | [Amazon](https://www.amazon.com/s?i=industrial&k=Thermal+fuse&tag=errorcodefixes-20) \| One-time; must replace; fix root cause first |
-| Neutralizer media | [Amazon](https://www.amazon.com/s?i=industrial&k=Neutralizer+media&tag=errorcodefixes-20) \| Calcium carbonate; annual replacement in hard water |
-| Combustion fan | [Amazon](https://www.amazon.com/s?i=industrial&k=Combustion+fan&tag=errorcodefixes-20) \| For Code 57 after obstacle check |
-| Flow sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Flow+sensor&tag=errorcodefixes-20) \| For Code 66 after descaling attempt |
-| Gas valve assembly | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| For Code 51 after confirmed 24V signal |
-| Secondary heat exchanger | [Amazon](https://www.amazon.com/s?i=industrial&k=Secondary+heat+exchanger&tag=errorcodefixes-20) \| For Code 90 due to scale — expensive; consider unit age |
+| Thermal fuse | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-noritz-nrcp-error-codes&k=Thermal+fuse&tag=errorcodefixes-20) \| One-time; must replace; fix root cause first |
+| Neutralizer media | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-noritz-nrcp-error-codes&k=Neutralizer+media&tag=errorcodefixes-20) \| Calcium carbonate; annual replacement in hard water |
+| Combustion fan | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-noritz-nrcp-error-codes&k=Combustion+fan&tag=errorcodefixes-20) \| For Code 57 after obstacle check |
+| Flow sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-noritz-nrcp-error-codes&k=Flow+sensor&tag=errorcodefixes-20) \| For Code 66 after descaling attempt |
+| Gas valve assembly | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-noritz-nrcp-error-codes&tag=errorcodefixes-20) \| For Code 51 after confirmed 24V signal |
+| Secondary heat exchanger | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-noritz-nrcp-error-codes&k=Secondary+heat+exchanger&tag=errorcodefixes-20) \| For Code 90 due to scale — expensive; consider unit age |
 ## When to Call a Pro
 
 Gas valve replacement, thermal fuse investigation, and heat exchanger descaling should be performed by licensed technicians. If your NRCP is repeatedly tripping Code 14 or Code 90, the heat exchanger may be severely scaled — a professional descaling service can extend unit life significantly before replacement becomes necessary.

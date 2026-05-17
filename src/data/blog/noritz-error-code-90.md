@@ -36,9 +36,9 @@ Noritz **error code 90** indicates a **combustion abnormality**, usually tied to
 
 | Part | Notes |
 |------|-------|
-| Combustion fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Replace when fan speed is unstable or the motor is noisy |
-| Intake air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| Replace if torn or permanently clogged |
-| Service valves / descaling kit | [Amazon](https://www.amazon.com/s?i=industrial&k=Service+valves+%2F+descaling+kit&tag=errorcodefixes-20) \| Useful for annual maintenance on hard-water installations |
+| Combustion fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-noritz-error-code-90&tag=errorcodefixes-20) \| Replace when fan speed is unstable or the motor is noisy |
+| Intake air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-noritz-error-code-90&tag=errorcodefixes-20) \| Replace if torn or permanently clogged |
+| Service valves / descaling kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-noritz-error-code-90&k=Service+valves+%2F+descaling+kit&tag=errorcodefixes-20) \| Useful for annual maintenance on hard-water installations |
 ## When to Call a Pro
 
 Code 90 involves combustion safety. If venting is clear and the unit still trips, have a licensed tankless water heater technician check gas pressure and run a combustion analysis before further operation.

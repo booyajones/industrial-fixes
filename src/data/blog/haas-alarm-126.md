@@ -39,10 +39,10 @@ Haas alarm **126** indicates an **ATC door fault**. The automatic tool changer d
 
 | Part | Notes |
 |------|-------|
-| ATC door air cylinder | [Amazon](https://www.amazon.com/s?i=industrial&k=ATC+door+air+cylinder&tag=errorcodefixes-20) \| Common wear item |
-| Door open/close switch | [Amazon](https://www.amazon.com/s?i=industrial&k=Door+open%2Fclose+switch&tag=errorcodefixes-20) \| Adjust before replacing |
-| Solenoid valve | [Amazon](https://www.amazon.com/s?i=industrial&k=Solenoid+valve&tag=errorcodefixes-20) \| Match Haas air manifold spec |
-| Linkage hardware | [Amazon](https://www.amazon.com/s?i=industrial&k=Linkage+hardware&tag=errorcodefixes-20) \| Bent linkage causes repeat faults |
+| ATC door air cylinder | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-126&k=ATC+door+air+cylinder&tag=errorcodefixes-20) \| Common wear item |
+| Door open/close switch | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-126&k=Door+open%2Fclose+switch&tag=errorcodefixes-20) \| Adjust before replacing |
+| Solenoid valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-126&k=Solenoid+valve&tag=errorcodefixes-20) \| Match Haas air manifold spec |
+| Linkage hardware | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-126&k=Linkage+hardware&tag=errorcodefixes-20) \| Bent linkage causes repeat faults |
 ## When to Call a Pro
 If the door cylinder and switch both test good but the alarm continues, the tool changer timing or I/O diagnostics may need deeper Haas service access. A Haas tech can verify the I/O state live during a tool change.
 

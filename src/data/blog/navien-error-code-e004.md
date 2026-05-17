@@ -36,9 +36,9 @@ Navien error code E004 indicates false flame detection — the flame sensor dete
 
 | Part | Notes |
 |------|-------|
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Navien units use an integrated sensor/igniter on some models; verify separately serviceable |
-| Gas valve assembly | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Replace only if confirmed leaking; this is a licensed gas technician job |
-| Control PCB | [Amazon](https://www.amazon.com/s?i=industrial&k=Control+PCB&tag=errorcodefixes-20) \| Replace if sensor and valve are confirmed good but fault persists |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-navien-error-code-e004&tag=errorcodefixes-20) \| Navien units use an integrated sensor/igniter on some models; verify separately serviceable |
+| Gas valve assembly | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-navien-error-code-e004&tag=errorcodefixes-20) \| Replace only if confirmed leaking; this is a licensed gas technician job |
+| Control PCB | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-error-code-e004&k=Control+PCB&tag=errorcodefixes-20) \| Replace if sensor and valve are confirmed good but fault persists |
 ## When to Call a Pro
 
 A gas valve that leaks through (allowing gas or flame when closed) is a serious safety hazard. Gas valve replacement must be performed by a licensed plumber or HVAC technician. Do not attempt to operate the unit if you suspect a leaking gas valve.

@@ -36,9 +36,9 @@ ABB fault code 0001 (OVERCURR) means the drive detected output current exceeding
 
 | Part | Notes |
 |------|-------|
-| IGBT power module | [Amazon](https://www.amazon.com/s?i=industrial&k=IGBT+power+module&tag=errorcodefixes-20) \| If the drive was damaged by a severe short; requires drive specialist |
-| Motor (replacement) | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+%28replacement%29&tag=errorcodefixes-20) \| If winding insulation tests below 1 MΩ |
-| Motor cable (shielded VFD-rated) | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+cable+%28shielded+VFD-rated%29&tag=errorcodefixes-20) \| Replace if any conductor shows insulation damage |
+| IGBT power module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-abb-vfd-fault-0001-overcurrent&k=IGBT+power+module&tag=errorcodefixes-20) \| If the drive was damaged by a severe short; requires drive specialist |
+| Motor (replacement) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-abb-vfd-fault-0001-overcurrent&k=Motor+%28replacement%29&tag=errorcodefixes-20) \| If winding insulation tests below 1 MΩ |
+| Motor cable (shielded VFD-rated) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-abb-vfd-fault-0001-overcurrent&k=Motor+cable+%28shielded+VFD-rated%29&tag=errorcodefixes-20) \| Replace if any conductor shows insulation damage |
 ## When to Call a Pro
 
 If the fault appears with no mechanical load, the cable and motor test clean, and parameters are correct, the drive's current sensing circuits or IGBTs may be damaged. ABB-certified drive service is required for internal component repair.

@@ -75,11 +75,11 @@ This guide covers both tank and tankless systems so you can diagnose the problem
 
 ## Parts You May Need
 
-- [Universal thermocouple for gas water heater](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20)
-- [Water heater heating element kit](https://www.amazon.com/s?i=industrial&k=water+heater+heating+element+kit&tag=errorcodefixes-20)
-- [Multimeter for electrical testing](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20)
-- [Water heater sediment flush kit](https://www.amazon.com/s?i=industrial&k=water+heater+flush+kit&tag=errorcodefixes-20)
-- [Gas control valve replacement](https://www.amazon.com/s?i=industrial&k=water+heater+gas+control+valve&tag=errorcodefixes-20)
+- [Universal thermocouple for gas water heater](https://www.amazon.com/dp/B00RJF4PYQ?ascsubtag=ecf-water-heater-no-hot-water&tag=errorcodefixes-20)
+- [Water heater heating element kit](https://www.amazon.com/s?ascsubtag=ecf-water-heater-no-hot-water&k=water+heater+heating+element+kit&tag=errorcodefixes-20)
+- [Multimeter for electrical testing](https://www.amazon.com/dp/B08ZJSN5X3?ascsubtag=ecf-water-heater-no-hot-water&tag=errorcodefixes-20)
+- [Water heater sediment flush kit](https://www.amazon.com/s?ascsubtag=ecf-water-heater-no-hot-water&k=water+heater+flush+kit&tag=errorcodefixes-20)
+- [Gas control valve replacement](https://www.amazon.com/s?ascsubtag=ecf-water-heater-no-hot-water&k=water+heater+gas+control+valve&tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

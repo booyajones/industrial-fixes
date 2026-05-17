@@ -36,9 +36,9 @@ Rinnai **Error Code 11** on a tankless water heater means **no ignition** — th
 
 | Part | Notes |
 |------|-------|
-| Ignition electrode | [Amazon](https://www.amazon.com/s?i=industrial&k=Ignition+electrode&tag=errorcodefixes-20) \| Replace if electrode tip is worn, cracked, or gap is incorrect |
-| Flame sensor (ionization rod) | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Replace if cleaning doesn't restore detection |
-| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Replace only after confirming gas supply pressure is correct and ignition components are functional |
+| Ignition electrode | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-error-code-11-ignition&k=Ignition+electrode&tag=errorcodefixes-20) \| Replace if electrode tip is worn, cracked, or gap is incorrect |
+| Flame sensor (ionization rod) | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-rinnai-error-code-11-ignition&tag=errorcodefixes-20) \| Replace if cleaning doesn't restore detection |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-rinnai-error-code-11-ignition&tag=errorcodefixes-20) \| Replace only after confirming gas supply pressure is correct and ignition components are functional |
 ## When to Call a Pro
 
 If gas is confirmed at the unit, the electrode and flame sensor are clean, and Error 11 persists, the gas valve may not be opening fully or gas supply pressure may be insufficient. Both require a licensed gas technician with a manometer and the Rinnai service manual's pressure specifications.

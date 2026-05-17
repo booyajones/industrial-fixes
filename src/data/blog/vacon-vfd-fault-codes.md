@@ -487,6 +487,6 @@ When contacting Danfoss/Vacon technical support, provide: drive model number (fr
 
 Find replacement parts for Vacon (Danfoss) VFDs on Amazon:
 
-- [Vacon Danfoss VFD Drive Replacement Parts](https://www.amazon.com/s?i=industrial&k=Vacon+VFD+drive+replacement+parts&tag=errorcodefixes-20)
-- [Danfoss VFD Cooling Fan Replacement](https://www.amazon.com/s?i=industrial&k=Danfoss+Vacon+VFD+cooling+fan+replacement&tag=errorcodefixes-20)
-- [VFD Option Card & Fieldbus Module](https://www.amazon.com/s?i=industrial&k=VFD+fieldbus+option+card+module&tag=errorcodefixes-20)
+- [Vacon Danfoss VFD Drive Replacement Parts](https://www.amazon.com/s?ascsubtag=ecf-vacon-vfd-fault-codes&k=Vacon+VFD+drive+replacement+parts&tag=errorcodefixes-20)
+- [Danfoss VFD Cooling Fan Replacement](https://www.amazon.com/s?ascsubtag=ecf-vacon-vfd-fault-codes&k=Danfoss+Vacon+VFD+cooling+fan+replacement&tag=errorcodefixes-20)
+- [VFD Option Card & Fieldbus Module](https://www.amazon.com/s?ascsubtag=ecf-vacon-vfd-fault-codes&k=VFD+fieldbus+option+card+module&tag=errorcodefixes-20)

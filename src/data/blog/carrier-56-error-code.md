@@ -52,10 +52,10 @@ The induced draft blower (also called inducer or draft motor) pulls combustion g
 
 | Part | Cost Estimate |
 |---|---|
-| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| $25–60 |
-| Pressure switch hose kit | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| $5–15 |
-| Inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| $150–350 |
-| IFC board (last resort) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| $100–300 |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-56-error-code&tag=errorcodefixes-20) \| $25–60 |
+| Pressure switch hose kit | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?ascsubtag=ecf-carrier-56-error-code&tag=errorcodefixes-20) \| $5–15 |
+| Inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-carrier-56-error-code&tag=errorcodefixes-20) \| $150–350 |
+| IFC board (last resort) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-carrier-56-error-code&tag=errorcodefixes-20) \| $100–300 |
 ## Pro Tip
 
 Before replacing anything, cycle the thermostat off and back on. Watch the inducer: it should spin up immediately when the call for heat starts. If it doesn't spin at all, the motor is failed or the IFC isn't outputting voltage to it. Use a multimeter to check voltage at the inducer motor terminals during startup — if you see 120V and the motor doesn't spin, it's the motor. If you see 0V, suspect the IFC or a safety interlock upstream.

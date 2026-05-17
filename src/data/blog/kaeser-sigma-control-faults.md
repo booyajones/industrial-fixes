@@ -53,12 +53,12 @@ SIGMA CONTROL 2 supports Modbus, PROFIBUS, PROFINET, and Ethernet. A communicati
 
 | Part | Notes |
 |------|-------|
-| Oil separator element | [Amazon](https://www.amazon.com/s?i=industrial&k=Oil+separator+element&tag=errorcodefixes-20) \| Kaeser-specific — match model |
-| Oil filter element | [Amazon](https://www.amazon.com/s?i=industrial&k=Oil+filter+element&tag=errorcodefixes-20) \| Match package model |
-| Pressure transducer | [Amazon](https://www.amazon.com/s?i=industrial&k=Pressure+transducer&tag=errorcodefixes-20) \| Check signal output (typically 4–20 mA) |
-| Temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| NTC thermistor — check resistance |
-| Condensate drain solenoid | [Amazon](https://www.amazon.com/s?i=industrial&k=Condensate+drain+solenoid&tag=errorcodefixes-20) \| Match voltage and orifice size |
-| Fan motor contactor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Check contact condition |
+| Oil separator element | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kaeser-sigma-control-faults&k=Oil+separator+element&tag=errorcodefixes-20) \| Kaeser-specific — match model |
+| Oil filter element | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kaeser-sigma-control-faults&k=Oil+filter+element&tag=errorcodefixes-20) \| Match package model |
+| Pressure transducer | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kaeser-sigma-control-faults&k=Pressure+transducer&tag=errorcodefixes-20) \| Check signal output (typically 4–20 mA) |
+| Temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-kaeser-sigma-control-faults&tag=errorcodefixes-20) \| NTC thermistor — check resistance |
+| Condensate drain solenoid | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kaeser-sigma-control-faults&k=Condensate+drain+solenoid&tag=errorcodefixes-20) \| Match voltage and orifice size |
+| Fan motor contactor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-kaeser-sigma-control-faults&tag=errorcodefixes-20) \| Check contact condition |
 > **Pro tip:** Kaeser SIGMA CONTROL 2 can be connected to SIGMA NETWORK for remote monitoring. Kaeser service centers can remotely access fault logs and performance data. Register the compressor on SIGMA NETWORK to enable predictive maintenance alerts.
 
 ## Related Articles

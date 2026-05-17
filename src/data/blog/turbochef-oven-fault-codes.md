@@ -60,10 +60,10 @@ The impingement blower provides hot air jets. If the blower fails, the oven cook
 
 | Part | Notes |
 |------|-------|
-| Type K thermocouple | [Amazon](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) \| Common sensor failure |
-| Door interlock switch kit | [Amazon](https://www.amazon.com/s?i=industrial&k=Door+interlock+switch+kit&tag=errorcodefixes-20) \| Replace on E4 fault |
-| Blower wheel | [Amazon](https://www.amazon.com/s?i=industrial&k=Blower+wheel&tag=errorcodefixes-20) \| Clean or replace on E6 |
-| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace on E5 fault |
+| Type K thermocouple | [Amazon](https://www.amazon.com/dp/B00RJF4PYQ?ascsubtag=ecf-turbochef-oven-fault-codes&tag=errorcodefixes-20) \| Common sensor failure |
+| Door interlock switch kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-turbochef-oven-fault-codes&k=Door+interlock+switch+kit&tag=errorcodefixes-20) \| Replace on E4 fault |
+| Blower wheel | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-turbochef-oven-fault-codes&k=Blower+wheel&tag=errorcodefixes-20) \| Clean or replace on E6 |
+| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-turbochef-oven-fault-codes&tag=errorcodefixes-20) \| Replace on E5 fault |
 ## Jump to Fix
 
 - **E0/E1 sensor** → Check connector → Measure resistance → Replace thermocouple

@@ -37,9 +37,9 @@ Noritz error code 29 indicates **exhaust overheat** — the flue exhaust tempera
 
 | Part | Notes |
 |------|-------|
-| Exhaust thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Exhaust+thermistor&tag=errorcodefixes-20) \| Noritz model-specific; confirm part number for NC, NRC, or NRCP series |
-| Descaling pump kit | [Amazon](https://www.amazon.com/s?i=industrial&k=Descaling+pump+kit&tag=errorcodefixes-20) \| Citric acid or white vinegar solution |
-| Vent terminal cap | [Amazon](https://www.amazon.com/s?i=industrial&k=Vent+terminal+cap&tag=errorcodefixes-20) \| Replace if corroded, cracked, or blocked by animal activity |
+| Exhaust thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-noritz-error-code-29&k=Exhaust+thermistor&tag=errorcodefixes-20) \| Noritz model-specific; confirm part number for NC, NRC, or NRCP series |
+| Descaling pump kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-noritz-error-code-29&k=Descaling+pump+kit&tag=errorcodefixes-20) \| Citric acid or white vinegar solution |
+| Vent terminal cap | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-noritz-error-code-29&k=Vent+terminal+cap&tag=errorcodefixes-20) \| Replace if corroded, cracked, or blocked by animal activity |
 ## When to Call a Pro
 
 If descaling and vent clearing don't resolve code 29, a technician with a combustion analyzer can verify that the air/fuel mixture is correct. Incorrect gas pressure or a failing gas valve modulator can also produce hot exhaust — this requires licensed gas appliance service.

@@ -16,18 +16,18 @@ tags:
 
 Bell & Gossett (B&G), a brand of Xylem, produces hydronic circulators for heating and cooling systems. Fault indicators vary by series: older Series 100 and Series 60 pumps have no electronics; the e-80, ecocirc, and NRF series use LED status indicators and, on some models, a digital display. The B&G ECM-powered pumps (e-80 Pro, ecocirc Pro) provide the most detailed fault information.
 
-| [LED / Display](https://www.amazon.com/s?i=industrial&k=LED+%2F+Display&tag=errorcodefixes-20) | Model Series | Meaning | Quick Fix |
+| [LED / Display](https://www.amazon.com/s?ascsubtag=ecf-bell-gossett-pump-fault-codes&k=LED+%2F+Display&tag=errorcodefixes-20) | Model Series | Meaning | Quick Fix |
 |--------------|-------------|---------|-----------|
-| [Solid red](https://www.amazon.com/s?i=industrial&k=Solid+red&tag=errorcodefixes-20) | e-80, ecocirc | Pump fault | Check for blockage; check voltage |
-| [Flashing red](https://www.amazon.com/s?i=industrial&k=Flashing+red&tag=errorcodefixes-20) | e-80 Pro | Dry running detected | Prime system; check suction |
+| [Solid red](https://www.amazon.com/s?ascsubtag=ecf-bell-gossett-pump-fault-codes&k=Solid+red&tag=errorcodefixes-20) | e-80, ecocirc | Pump fault | Check for blockage; check voltage |
+| [Flashing red](https://www.amazon.com/s?ascsubtag=ecf-bell-gossett-pump-fault-codes&k=Flashing+red&tag=errorcodefixes-20) | e-80 Pro | Dry running detected | Prime system; check suction |
 | E1 | ecocirc XL | Rotor blocked | Free impeller; remove debris |
 | E2 | ecocirc XL | Motor overtemperature | Check system temp; reduce speed |
 | E3 | ecocirc XL | Internal electronics fault | Power cycle; replace if persists |
 | E4 | ecocirc XL | Supply voltage fault | Check incoming voltage |
 | E5 | ecocirc XL | Dry running | Fill and prime system |
-| [No display](https://www.amazon.com/s?i=industrial&k=No+display&tag=errorcodefixes-20) | All ECM series | No power | Check breaker; check wiring |
-| [Green solid](https://www.amazon.com/s?i=industrial&k=Green+solid&tag=errorcodefixes-20) | e-80, ecocirc | Normal operation | None |
-| [Green flashing](https://www.amazon.com/s?i=industrial&k=Green+flashing&tag=errorcodefixes-20) | e-80 Auto Adapt | Learning / adapting | Normal — do not interrupt |
+| [No display](https://www.amazon.com/s?ascsubtag=ecf-bell-gossett-pump-fault-codes&k=No+display&tag=errorcodefixes-20) | All ECM series | No power | Check breaker; check wiring |
+| [Green solid](https://www.amazon.com/s?ascsubtag=ecf-bell-gossett-pump-fault-codes&k=Green+solid&tag=errorcodefixes-20) | e-80, ecocirc | Normal operation | None |
+| [Green flashing](https://www.amazon.com/s?ascsubtag=ecf-bell-gossett-pump-fault-codes&k=Green+flashing&tag=errorcodefixes-20) | e-80 Auto Adapt | Learning / adapting | Normal — do not interrupt |
 
 ## Most Common Faults
 

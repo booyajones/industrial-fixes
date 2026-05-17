@@ -47,8 +47,8 @@ Improve ventilation at the resistor location: mount the resistor where airflow c
 
 | Part | Where to Buy |
 |------|-------------|
-| [Danfoss braking resistor (size to application)](https://www.amazon.com/s?i=industrial&k=Danfoss+braking+resistor+%28size+to+application%29&tag=errorcodefixes-20) | Grainger, Amazon |
-| [Resistor enclosure with ventilation](https://www.amazon.com/s?i=industrial&k=Resistor+enclosure+with+ventilation&tag=errorcodefixes-20) | Grainger |
+| [Danfoss braking resistor (size to application)](https://www.amazon.com/s?ascsubtag=ecf-danfoss-vfd-fault-w30&k=Danfoss+braking+resistor+%28size+to+application%29&tag=errorcodefixes-20) | Grainger, Amazon |
+| [Resistor enclosure with ventilation](https://www.amazon.com/s?ascsubtag=ecf-danfoss-vfd-fault-w30&k=Resistor+enclosure+with+ventilation&tag=errorcodefixes-20) | Grainger |
 
 ## When to Call a Technician
 

@@ -351,6 +351,6 @@ Three ways to reset a tripped Commander SK:
 
 Find replacement parts for Emerson (Control Techniques) VFDs on Amazon:
 
-- [Emerson Control Techniques VFD Replacement Parts](https://www.amazon.com/s?i=industrial&k=Emerson+Control+Techniques+VFD+drive+replacement+parts&tag=errorcodefixes-20)
-- [VFD Drive Cooling Fan Replacement](https://www.amazon.com/s?i=industrial&k=VFD+drive+cooling+fan+frame+size&tag=errorcodefixes-20)
-- [VFD Semiconductor Fuse Replacement](https://www.amazon.com/s?i=industrial&k=VFD+semiconductor+fuse+fast+blow&tag=errorcodefixes-20)
+- [Emerson Control Techniques VFD Replacement Parts](https://www.amazon.com/s?ascsubtag=ecf-emerson-vfd-fault-codes&k=Emerson+Control+Techniques+VFD+drive+replacement+parts&tag=errorcodefixes-20)
+- [VFD Drive Cooling Fan Replacement](https://www.amazon.com/s?ascsubtag=ecf-emerson-vfd-fault-codes&k=VFD+drive+cooling+fan+frame+size&tag=errorcodefixes-20)
+- [VFD Semiconductor Fuse Replacement](https://www.amazon.com/s?ascsubtag=ecf-emerson-vfd-fault-codes&k=VFD+semiconductor+fuse+fast+blow&tag=errorcodefixes-20)

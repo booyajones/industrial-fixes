@@ -16,15 +16,15 @@ tags:
 
 The Aprilaire Model 700 is a fan-powered bypass humidifier that does not display numeric error codes — instead, it communicates issues through LED status indicators and operational symptoms. The 700's digital control (Model 62 or 76 humidistat) may display fault indicators depending on the model year. Understanding what the system *isn't doing* leads to the correct diagnosis.
 
-| [Symptom / LED State](https://www.amazon.com/s?i=industrial&k=Symptom+%2F+LED+State&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| [Symptom / LED State](https://www.amazon.com/s?ascsubtag=ecf-aprilaire-700-error-codes&k=Symptom+%2F+LED+State&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |--------------------|---------|-----------|
-| [No humidification, LED off](https://www.amazon.com/s?i=industrial&k=No+humidification%2C+LED+off&tag=errorcodefixes-20) | No call for heat or humidity | Verify thermostat is calling; check wiring |
-| [No humidification, LED on](https://www.amazon.com/s?i=industrial&k=No+humidification%2C+LED+on&tag=errorcodefixes-20) | Solenoid valve fault or water supply issue | Check solenoid, water line, saddle valve |
-| [Water draining but no humidity](https://www.amazon.com/s?i=industrial&k=Water+draining+but+no+humidity&tag=errorcodefixes-20) | Water panel (evaporator pad) clogged | Replace water panel |
-| [Continuous water flow (won't shut off)](https://www.amazon.com/s?i=industrial&k=Continuous+water+flow+%28won%27t+shut+off%29&tag=errorcodefixes-20) | Solenoid valve stuck open | Replace solenoid valve |
-| [White mineral buildup on panel](https://www.amazon.com/s?i=industrial&k=White+mineral+buildup+on+panel&tag=errorcodefixes-20) | Hard water — normal, requires more frequent replacement | Replace panel; consider water treatment |
-| [Fan not running](https://www.amazon.com/s?i=industrial&k=Fan+not+running&tag=errorcodefixes-20) | Fan motor fault or no power | Check 24VAC; test fan motor |
-| [Overflow / water on floor](https://www.amazon.com/s?i=industrial&k=Overflow+%2F+water+on+floor&tag=errorcodefixes-20) | Distribution tray cracked; drain clogged | Inspect tray; clear drain |
+| [No humidification, LED off](https://www.amazon.com/s?ascsubtag=ecf-aprilaire-700-error-codes&k=No+humidification%2C+LED+off&tag=errorcodefixes-20) | No call for heat or humidity | Verify thermostat is calling; check wiring |
+| [No humidification, LED on](https://www.amazon.com/s?ascsubtag=ecf-aprilaire-700-error-codes&k=No+humidification%2C+LED+on&tag=errorcodefixes-20) | Solenoid valve fault or water supply issue | Check solenoid, water line, saddle valve |
+| [Water draining but no humidity](https://www.amazon.com/s?ascsubtag=ecf-aprilaire-700-error-codes&k=Water+draining+but+no+humidity&tag=errorcodefixes-20) | Water panel (evaporator pad) clogged | Replace water panel |
+| [Continuous water flow (won't shut off)](https://www.amazon.com/s?ascsubtag=ecf-aprilaire-700-error-codes&k=Continuous+water+flow+%28won%27t+shut+off%29&tag=errorcodefixes-20) | Solenoid valve stuck open | Replace solenoid valve |
+| [White mineral buildup on panel](https://www.amazon.com/s?ascsubtag=ecf-aprilaire-700-error-codes&k=White+mineral+buildup+on+panel&tag=errorcodefixes-20) | Hard water — normal, requires more frequent replacement | Replace panel; consider water treatment |
+| [Fan not running](https://www.amazon.com/s?ascsubtag=ecf-aprilaire-700-error-codes&k=Fan+not+running&tag=errorcodefixes-20) | Fan motor fault or no power | Check 24VAC; test fan motor |
+| [Overflow / water on floor](https://www.amazon.com/s?ascsubtag=ecf-aprilaire-700-error-codes&k=Overflow+%2F+water+on+floor&tag=errorcodefixes-20) | Distribution tray cracked; drain clogged | Inspect tray; clear drain |
 
 ## Most Common Issues
 

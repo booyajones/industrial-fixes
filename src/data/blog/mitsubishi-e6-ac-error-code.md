@@ -36,9 +36,9 @@ On Mitsubishi air conditioning units (MSZ-GL, MSZ-GE, MSY, and similar cooling-o
 
 | Part | Notes |
 |------|-------|
-| 3-conductor shielded control cable (18 AWG) | [Amazon](https://www.amazon.com/s?i=industrial&k=3-conductor+shielded+control+cable+%2818+AWG%29&tag=errorcodefixes-20) \| Replace full run if damage is found anywhere along it |
-| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| If wiring is confirmed good and E6 persists, outdoor board is the next suspect |
-| Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Less commonly the cause, but possible if outdoor board passes self-test |
+| 3-conductor shielded control cable (18 AWG) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-e6-ac-error-code&k=3-conductor+shielded+control+cable+%2818+AWG%29&tag=errorcodefixes-20) \| Replace full run if damage is found anywhere along it |
+| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-mitsubishi-e6-ac-error-code&tag=errorcodefixes-20) \| If wiring is confirmed good and E6 persists, outdoor board is the next suspect |
+| Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-mitsubishi-e6-ac-error-code&tag=errorcodefixes-20) \| Less commonly the cause, but possible if outdoor board passes self-test |
 ## When to Call a Pro
 
 If wiring is confirmed intact, polarities are correct, and E6 persists after a full power cycle, board-level diagnosis requires a Mitsubishi-authorized technician with Diamond tool access to read fault history and test communication signals.

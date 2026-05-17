@@ -16,19 +16,19 @@ tags:
 
 Lennox Healthy Climate is a family of air quality products including media air cleaners (HCF16), electronic air cleaners (HCX16, HCX20), HEPA filtration systems (HEPA-20), energy recovery ventilators (ERV-150, HRV-90), and UV germicidal lights (HCXUV). Error codes appear on the Lennox iComfort thermostat when these accessories are part of a communicating system, or on the unit's own indicator LEDs.
 
-| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Product | Meaning | Quick Fix |
+| [Code](https://www.amazon.com/s?ascsubtag=ecf-lennox-healthy-climate-error-codes&k=Code&tag=errorcodefixes-20) | Product | Meaning | Quick Fix |
 |------|---------|---------|-----------|
-| [2801](https://www.amazon.com/s?i=industrial&k="2801"&tag=errorcodefixes-20) | ERV/HRV | Defrost fault | Check defrost cycle settings; inspect core |
-| [2802](https://www.amazon.com/s?i=industrial&k="2802"&tag=errorcodefixes-20) | ERV/HRV | Bypass damper fault | Check bypass damper actuator |
-| [2803](https://www.amazon.com/s?i=industrial&k="2803"&tag=errorcodefixes-20) | ERV/HRV | Supply fan fault | Check supply fan motor |
-| [2804](https://www.amazon.com/s?i=industrial&k="2804"&tag=errorcodefixes-20) | ERV/HRV | Exhaust fan fault | Check exhaust fan motor |
-| [2805](https://www.amazon.com/s?i=industrial&k="2805"&tag=errorcodefixes-20) | ERV/HRV | Communication fault | Check iComfort bus wiring |
-| [2810](https://www.amazon.com/s?i=industrial&k="2810"&tag=errorcodefixes-20) | ERV/HRV | Core temperature sensor fault | Inspect core temp sensor |
+| [2801](https://www.amazon.com/s?ascsubtag=ecf-lennox-healthy-climate-error-codes&k=2801&tag=errorcodefixes-20) | ERV/HRV | Defrost fault | Check defrost cycle settings; inspect core |
+| [2802](https://www.amazon.com/s?ascsubtag=ecf-lennox-healthy-climate-error-codes&k=2802&tag=errorcodefixes-20) | ERV/HRV | Bypass damper fault | Check bypass damper actuator |
+| [2803](https://www.amazon.com/s?ascsubtag=ecf-lennox-healthy-climate-error-codes&k=2803&tag=errorcodefixes-20) | ERV/HRV | Supply fan fault | Check supply fan motor |
+| [2804](https://www.amazon.com/s?ascsubtag=ecf-lennox-healthy-climate-error-codes&k=2804&tag=errorcodefixes-20) | ERV/HRV | Exhaust fan fault | Check exhaust fan motor |
+| [2805](https://www.amazon.com/s?ascsubtag=ecf-lennox-healthy-climate-error-codes&k=2805&tag=errorcodefixes-20) | ERV/HRV | Communication fault | Check iComfort bus wiring |
+| [2810](https://www.amazon.com/s?ascsubtag=ecf-lennox-healthy-climate-error-codes&k=2810&tag=errorcodefixes-20) | ERV/HRV | Core temperature sensor fault | Inspect core temp sensor |
 | E1 | Electronic air cleaner | Power supply fault | Check 24VAC supply |
 | E2 | Electronic air cleaner | Cell fault | Clean or replace collector cell |
 | E3 | Electronic air cleaner | Ionizing wire fault | Clean ionizing wires |
-| [FILTER](https://www.amazon.com/s?i=industrial&k=FILTER&tag=errorcodefixes-20) | Media cleaner | Filter change reminder | Replace filter media |
-| [UV FAULT](https://www.amazon.com/s?i=industrial&k=UV+FAULT&tag=errorcodefixes-20) | UV system | UV lamp fault | Replace UV lamp |
+| [FILTER](https://www.amazon.com/s?ascsubtag=ecf-lennox-healthy-climate-error-codes&k=FILTER&tag=errorcodefixes-20) | Media cleaner | Filter change reminder | Replace filter media |
+| [UV FAULT](https://www.amazon.com/s?ascsubtag=ecf-lennox-healthy-climate-error-codes&k=UV+FAULT&tag=errorcodefixes-20) | UV system | UV lamp fault | Replace UV lamp |
 
 ## Most Common Faults
 
@@ -54,11 +54,11 @@ ERV units have separate supply and exhaust fans. A fan fault means the motor is 
 
 | Component | Maintenance | Interval |
 |-----------|------------|----------|
-| [ERV/HRV core](https://www.amazon.com/s?i=industrial&k=ERV%2FHRV+core&tag=errorcodefixes-20) | Clean with mild detergent | Annually |
-| [ERV filter](https://www.amazon.com/s?i=industrial&k=ERV+filter&tag=errorcodefixes-20) | Replace | Every 3 months |
-| [Electronic air cleaner cell](https://www.amazon.com/s?i=industrial&k=Electronic+air+cleaner+cell&tag=errorcodefixes-20) | Wash | Every 3–6 months |
-| [UV lamp](https://www.amazon.com/s?i=industrial&k=UV+lamp&tag=errorcodefixes-20) | Replace | Annually or per runtime meter |
-| [Media filter (HCF16)](https://www.amazon.com/s?i=industrial&k=Media+filter+%28HCF16%29&tag=errorcodefixes-20) | Replace | Annually (MERV 16) |
+| [ERV/HRV core](https://www.amazon.com/s?ascsubtag=ecf-lennox-healthy-climate-error-codes&k=ERV%2FHRV+core&tag=errorcodefixes-20) | Clean with mild detergent | Annually |
+| [ERV filter](https://www.amazon.com/s?ascsubtag=ecf-lennox-healthy-climate-error-codes&k=ERV+filter&tag=errorcodefixes-20) | Replace | Every 3 months |
+| [Electronic air cleaner cell](https://www.amazon.com/s?ascsubtag=ecf-lennox-healthy-climate-error-codes&k=Electronic+air+cleaner+cell&tag=errorcodefixes-20) | Wash | Every 3–6 months |
+| [UV lamp](https://www.amazon.com/s?ascsubtag=ecf-lennox-healthy-climate-error-codes&k=UV+lamp&tag=errorcodefixes-20) | Replace | Annually or per runtime meter |
+| [Media filter (HCF16)](https://www.amazon.com/s?ascsubtag=ecf-lennox-healthy-climate-error-codes&k=Media+filter+%28HCF16%29&tag=errorcodefixes-20) | Replace | Annually (MERV 16) |
 
 ## When to Call a Pro
 ERV core replacement, defrost system reconfiguration, and persistent communication faults require a Lennox-certified technician. Never operate an ERV/HRV with a suspected frozen core — ice damage to the core is expensive to repair.

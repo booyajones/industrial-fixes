@@ -36,9 +36,9 @@ Error code 32 on a Rinnai tankless water heater indicates the outlet water tempe
 
 | Part | Notes |
 |------|-------|
-| Thermal fuse (outlet) | [Amazon](https://www.amazon.com/s?i=industrial&k=Thermal+fuse+%28outlet%29&tag=errorcodefixes-20) \| Rinnai OEM; one-time device, must be replaced after trip |
-| Outlet thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Outlet+thermistor&tag=errorcodefixes-20) \| NTC type; match model-specific part number |
-| Descaling solution | [Amazon](https://www.amazon.com/s?i=industrial&k=Descaling+solution&tag=errorcodefixes-20) \| White vinegar or Rinnai-approved descaler |
+| Thermal fuse (outlet) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-error-code-32&k=Thermal+fuse+%28outlet%29&tag=errorcodefixes-20) \| Rinnai OEM; one-time device, must be replaced after trip |
+| Outlet thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-error-code-32&k=Outlet+thermistor&tag=errorcodefixes-20) \| NTC type; match model-specific part number |
+| Descaling solution | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-error-code-32&k=Descaling+solution&tag=errorcodefixes-20) \| White vinegar or Rinnai-approved descaler |
 ## When to Call a Pro
 
 If the thermal fuse blows repeatedly after replacement, the root cause (scale or flow issue) has not been resolved. A licensed plumber should perform a full heat exchanger inspection and potentially install a water treatment system upstream of the unit.

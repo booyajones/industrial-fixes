@@ -53,12 +53,12 @@ Coleman and Evcon furnaces are produced by Johnson Controls (the same manufactur
 
 | Part | Notes |
 |---|---|
-| HSI igniter — silicon carbide | [Amazon](https://www.amazon.com/s?i=industrial&k=HSI+igniter+%E2%80%94+silicon+carbide&tag=errorcodefixes-20) \| Fragile; handle by wire leads only |
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Clean with fine steel wool; rod-type |
-| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Check hose first; Coleman-brand switches are direct replacements |
-| Blower capacitor | [Amazon](https://www.amazon.com/s?i=industrial&k=Blower+capacitor&tag=errorcodefixes-20) \| Single-run capacitor on PSC motor |
-| High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Check reset type — most Coleman are auto-reset |
-| Rollout switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Manual reset; do not bypass |
+| HSI igniter — silicon carbide | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-coleman-evcon-furnace-error-codes&k=HSI+igniter+%E2%80%94+silicon+carbide&tag=errorcodefixes-20) \| Fragile; handle by wire leads only |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-coleman-evcon-furnace-error-codes&tag=errorcodefixes-20) \| Clean with fine steel wool; rod-type |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-coleman-evcon-furnace-error-codes&tag=errorcodefixes-20) \| Check hose first; Coleman-brand switches are direct replacements |
+| Blower capacitor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-coleman-evcon-furnace-error-codes&k=Blower+capacitor&tag=errorcodefixes-20) \| Single-run capacitor on PSC motor |
+| High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-coleman-evcon-furnace-error-codes&tag=errorcodefixes-20) \| Check reset type — most Coleman are auto-reset |
+| Rollout switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-coleman-evcon-furnace-error-codes&tag=errorcodefixes-20) \| Manual reset; do not bypass |
 ## When to Call a Pro
 
 Coleman-Evcon furnaces from the 1990s and early 2000s are reaching the end of their service life. A cracked heat exchanger is a serious CO risk and cannot be field-repaired — a professional inspection with a combustion analyzer is warranted on any furnace over 15 years old that is tripping rollout or limit switches repeatedly. A licensed HVAC technician should assess whether repair or replacement is the better investment.

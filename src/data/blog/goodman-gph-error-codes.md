@@ -49,12 +49,12 @@ Check for 24 VAC at the reversing valve solenoid in heating mode. A stuck valve 
 
 | Part | Notes |
 |------|-------|
-| Defrost control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Match to unit model number |
-| Defrost sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Clip-on type — confirm placement on tube |
-| Reversing valve | [Amazon](https://www.amazon.com/s?i=industrial&k=Reversing+valve&tag=errorcodefixes-20) \| Match refrigerant and tonnage |
-| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Dual-capacitor — check both sections |
-| Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Check for pitted contacts |
-| Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match pressure setpoint |
+| Defrost control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-goodman-gph-error-codes&tag=errorcodefixes-20) \| Match to unit model number |
+| Defrost sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-goodman-gph-error-codes&tag=errorcodefixes-20) \| Clip-on type — confirm placement on tube |
+| Reversing valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-goodman-gph-error-codes&k=Reversing+valve&tag=errorcodefixes-20) \| Match refrigerant and tonnage |
+| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-goodman-gph-error-codes&tag=errorcodefixes-20) \| Dual-capacitor — check both sections |
+| Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-goodman-gph-error-codes&tag=errorcodefixes-20) \| Check for pitted contacts |
+| Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-goodman-gph-error-codes&tag=errorcodefixes-20) \| Match pressure setpoint |
 > **Pro tip:** Goodman GPH packaged units have the reversing valve energized in cooling mode. If you're testing in heating mode and the valve is de-energized, confirm the solenoid is not stuck energized from a previous short.
 
 ## Related Articles

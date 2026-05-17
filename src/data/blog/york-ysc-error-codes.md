@@ -19,21 +19,21 @@ The York YSC series is a light commercial packaged rooftop unit covering 2–12.
 
 ## York YSC Flash Code Table
 
-| [Flash Count](https://www.amazon.com/s?i=industrial&k=Flash+Count&tag=errorcodefixes-20) | Fault | Common Cause |
+| [Flash Count](https://www.amazon.com/s?ascsubtag=ecf-york-ysc-error-codes&k=Flash+Count&tag=errorcodefixes-20) | Fault | Common Cause |
 |---|---|---|
-| [1 flash](https://www.amazon.com/s?i=industrial&k=1+flash&tag=errorcodefixes-20) | System lockout | Manual reset required |
-| [2 flashes](https://www.amazon.com/s?i=industrial&k=2+flashes&tag=errorcodefixes-20) | Low-pressure switch open | Low refrigerant, dirty filter |
-| [3 flashes](https://www.amazon.com/s?i=industrial&k=3+flashes&tag=errorcodefixes-20) | High-pressure switch open | Dirty condenser, fan failure |
-| [4 flashes](https://www.amazon.com/s?i=industrial&k=4+flashes&tag=errorcodefixes-20) | Limit switch open | Airflow restriction |
-| [5 flashes](https://www.amazon.com/s?i=industrial&k=5+flashes&tag=errorcodefixes-20) | Rollout switch open | Heat exchanger issue |
-| [6 flashes](https://www.amazon.com/s?i=industrial&k=6+flashes&tag=errorcodefixes-20) | Ignition lockout | Gas, igniter, or sensor fault |
-| [7 flashes](https://www.amazon.com/s?i=industrial&k=7+flashes&tag=errorcodefixes-20) | Flame sense fault | Dirty or failed flame sensor |
-| [8 flashes](https://www.amazon.com/s?i=industrial&k=8+flashes&tag=errorcodefixes-20) | Pressure switch stuck closed | Faulty pressure switch |
-| [9 flashes](https://www.amazon.com/s?i=industrial&k=9+flashes&tag=errorcodefixes-20) | Reverse rotation — blower | Blower wired incorrectly or failed |
+| [1 flash](https://www.amazon.com/s?ascsubtag=ecf-york-ysc-error-codes&k=1+flash&tag=errorcodefixes-20) | System lockout | Manual reset required |
+| [2 flashes](https://www.amazon.com/s?ascsubtag=ecf-york-ysc-error-codes&k=2+flashes&tag=errorcodefixes-20) | Low-pressure switch open | Low refrigerant, dirty filter |
+| [3 flashes](https://www.amazon.com/s?ascsubtag=ecf-york-ysc-error-codes&k=3+flashes&tag=errorcodefixes-20) | High-pressure switch open | Dirty condenser, fan failure |
+| [4 flashes](https://www.amazon.com/s?ascsubtag=ecf-york-ysc-error-codes&k=4+flashes&tag=errorcodefixes-20) | Limit switch open | Airflow restriction |
+| [5 flashes](https://www.amazon.com/s?ascsubtag=ecf-york-ysc-error-codes&k=5+flashes&tag=errorcodefixes-20) | Rollout switch open | Heat exchanger issue |
+| [6 flashes](https://www.amazon.com/s?ascsubtag=ecf-york-ysc-error-codes&k=6+flashes&tag=errorcodefixes-20) | Ignition lockout | Gas, igniter, or sensor fault |
+| [7 flashes](https://www.amazon.com/s?ascsubtag=ecf-york-ysc-error-codes&k=7+flashes&tag=errorcodefixes-20) | Flame sense fault | Dirty or failed flame sensor |
+| [8 flashes](https://www.amazon.com/s?ascsubtag=ecf-york-ysc-error-codes&k=8+flashes&tag=errorcodefixes-20) | Pressure switch stuck closed | Faulty pressure switch |
+| [9 flashes](https://www.amazon.com/s?ascsubtag=ecf-york-ysc-error-codes&k=9+flashes&tag=errorcodefixes-20) | Reverse rotation — blower | Blower wired incorrectly or failed |
 
 ## York YSC Alphanumeric Fault Codes
 
-| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Description | Likely Cause / Action |
+| [Code](https://www.amazon.com/s?ascsubtag=ecf-york-ysc-error-codes&k=Code&tag=errorcodefixes-20) | Description | Likely Cause / Action |
 |---|---|---|
 | E1 | Control board communication fault | Check wiring harness, replace board |
 | E2 | Supply air temperature sensor fault | Check sensor resistance, replace |
@@ -78,12 +78,12 @@ Temperature sensors on York YSC units have a nominal resistance of 10K ohms at 7
 
 | Part | Notes |
 |---|---|
-| [Temperature sensor](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | 10K thermistor — York part S1-02525919700 |
-| [Hot surface igniter](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) | Model-specific — check tonnage and model suffix |
-| [Flame sensor rod](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) | Measure µA before replacing |
-| [High-pressure switch](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | Check trip pressure setting |
-| [Run capacitor](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) | Check µF on both compressor and fan caps |
-| [IFC control board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | York part number varies by tonnage |
+| [Temperature sensor](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-york-ysc-error-codes&tag=errorcodefixes-20) | 10K thermistor — York part S1-02525919700 |
+| [Hot surface igniter](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-york-ysc-error-codes&tag=errorcodefixes-20) | Model-specific — check tonnage and model suffix |
+| [Flame sensor rod](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-york-ysc-error-codes&tag=errorcodefixes-20) | Measure µA before replacing |
+| [High-pressure switch](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-york-ysc-error-codes&tag=errorcodefixes-20) | Check trip pressure setting |
+| [Run capacitor](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-york-ysc-error-codes&tag=errorcodefixes-20) | Check µF on both compressor and fan caps |
+| [IFC control board](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-york-ysc-error-codes&tag=errorcodefixes-20) | York part number varies by tonnage |
 
 > **Note:** The York YSC shares many components with the Coleman and Luxaire commercial RTU lines. Parts are interchangeable.
 

@@ -65,11 +65,11 @@ The Danfoss VLT HVAC Drive FC102 is a variable frequency drive purpose-built for
 
 | Part | Notes |
 |---|---|
-| LCP panel | [Amazon](https://www.amazon.com/s?i=industrial&k=LCP+panel&tag=errorcodefixes-20) \| For display faults; replaceable without drive power-off |
-| HVAC drive cooling fan | [Amazon](https://www.amazon.com/s?i=industrial&k=HVAC+drive+cooling+fan&tag=errorcodefixes-20) \| Internal replacement fan; fan fault causes AL 29 |
-| Motor thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+thermistor&tag=errorcodefixes-20) \| KTY or PTC; for AL 11 |
-| BACnet/IP or Modbus card | [Amazon](https://www.amazon.com/s?i=industrial&k=BACnet%2FIP+or+Modbus+card&tag=errorcodefixes-20) \| For fieldbus integration |
-| Complete FC102 drive | [Amazon](https://www.amazon.com/s?i=industrial&k=Complete+FC102+drive&tag=errorcodefixes-20) \| For hardware faults or severe damage |
+| LCP panel | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-danfoss-fc102-fault-codes&k=LCP+panel&tag=errorcodefixes-20) \| For display faults; replaceable without drive power-off |
+| HVAC drive cooling fan | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-danfoss-fc102-fault-codes&k=HVAC+drive+cooling+fan&tag=errorcodefixes-20) \| Internal replacement fan; fan fault causes AL 29 |
+| Motor thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-danfoss-fc102-fault-codes&k=Motor+thermistor&tag=errorcodefixes-20) \| KTY or PTC; for AL 11 |
+| BACnet/IP or Modbus card | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-danfoss-fc102-fault-codes&k=BACnet%2FIP+or+Modbus+card&tag=errorcodefixes-20) \| For fieldbus integration |
+| Complete FC102 drive | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-danfoss-fc102-fault-codes&k=Complete+FC102+drive&tag=errorcodefixes-20) \| For hardware faults or severe damage |
 ## When to Call a Pro
 
 The Danfoss FC102 supports remote monitoring via the Danfoss iFJørd and Building Connect platforms. A Danfoss-authorized service center can access the full diagnostic log and configure parameters remotely. Insulation testing and motor replacement require electrical work licenses in most jurisdictions — do not attempt insulation testing without proper lockout/tagout.

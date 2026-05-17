@@ -38,10 +38,10 @@ E1 on a Midea mini split indicates a high pressure fault. The high-pressure swit
 
 | Part | Notes |
 |------|-------|
-| Condenser fan run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Most common cause of fan-related E1 faults; inexpensive fix |
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Replace if capacitor is good but motor will not run |
-| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Replace if switch opens below rated cutout |
-| Refrigerant (R-410A) | [Amazon](https://www.amazon.com/s?i=industrial&k=Refrigerant+%28R-410A%29&tag=errorcodefixes-20) \| Adjust charge only with certified technician and manifold gauges |
+| Condenser fan run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-midea-mini-split-error-code-e1&tag=errorcodefixes-20) \| Most common cause of fan-related E1 faults; inexpensive fix |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-midea-mini-split-error-code-e1&tag=errorcodefixes-20) \| Replace if capacitor is good but motor will not run |
+| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-midea-mini-split-error-code-e1&tag=errorcodefixes-20) \| Replace if switch opens below rated cutout |
+| Refrigerant (R-410A) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-midea-mini-split-error-code-e1&k=Refrigerant+%28R-410A%29&tag=errorcodefixes-20) \| Adjust charge only with certified technician and manifold gauges |
 ## When to Call a Pro
 
 High-pressure faults that persist after coil cleaning and fan motor checks require refrigerant system diagnosis. Call an EPA-certified HVAC technician to check system pressures, verify charge, and test the high-pressure switch under operating conditions.

@@ -54,12 +54,12 @@ The EC-400 uses a central lubrication system (Rexnord or equivalent). Check the 
 
 | Part | Notes |
 |------|-------|
-| Servo motors | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+motors&tag=errorcodefixes-20) \| Alpha series — match axis |
-| Encoder cables | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+cables&tag=errorcodefixes-20) \| Check at both motor and drive connectors |
-| ATC solenoid valves | [Amazon](https://www.amazon.com/s?i=industrial&k=ATC+solenoid+valves&tag=errorcodefixes-20) \| Check for proper operation |
-| Lube pump | [Amazon](https://www.amazon.com/s?i=industrial&k=Lube+pump&tag=errorcodefixes-20) \| Check for seized impeller |
-| Retention knobs | [Amazon](https://www.amazon.com/s?i=industrial&k=Retention+knobs&tag=errorcodefixes-20) \| Replace damaged/worn 40-taper knobs |
-| Way wipers | [Amazon](https://www.amazon.com/s?i=industrial&k=Way+wipers&tag=errorcodefixes-20) \| Inspect and replace if worn |
+| Servo motors | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-ec-400-alarm-codes&k=Servo+motors&tag=errorcodefixes-20) \| Alpha series — match axis |
+| Encoder cables | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-ec-400-alarm-codes&k=Encoder+cables&tag=errorcodefixes-20) \| Check at both motor and drive connectors |
+| ATC solenoid valves | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-ec-400-alarm-codes&k=ATC+solenoid+valves&tag=errorcodefixes-20) \| Check for proper operation |
+| Lube pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-ec-400-alarm-codes&k=Lube+pump&tag=errorcodefixes-20) \| Check for seized impeller |
+| Retention knobs | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-ec-400-alarm-codes&k=Retention+knobs&tag=errorcodefixes-20) \| Replace damaged/worn 40-taper knobs |
+| Way wipers | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-ec-400-alarm-codes&k=Way+wipers&tag=errorcodefixes-20) \| Inspect and replace if worn |
 > **Pro tip:** Haas EC-400 service information is available on the Haas Service Portal (haasspeed.com). The NGC diagnostic screens show real-time servo loads, spindle RPM, and I/O status — use these during troubleshooting to observe behavior without disassembly.
 
 ## Related Articles

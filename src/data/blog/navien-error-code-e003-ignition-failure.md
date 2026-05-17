@@ -52,10 +52,10 @@ This is the most common fault code on Navien's extensive line of residential and
 
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|-------------|
-| Navien Igniter (NPE-A/S) | BH2040180A | $50–$65 | [Amazon](https://www.amazon.com/s?i=industrial&k=BH2040180A+Navien+Igniter+%28NPE-A%2FS%29&tag=errorcodefixes-20) \| SupplyHouse / Amazon |
-| Navien Flame Sensor (Rod) | 30010972A | $25–$40 | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| SupplyHouse / Amazon |
-| Navien Gas Valve (NPE-A/S) | BH1680178A | $170–$200 | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| SupplyHouse / Navien Parts |
-| Navien Condensate Trap | 30011532A | $15–$25 | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) \| SupplyHouse |
+| Navien Igniter (NPE-A/S) | BH2040180A | $50–$65 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-error-code-e003-ignition-failure&k=BH2040180A+Navien+Igniter+%28NPE-A%2FS%29&tag=errorcodefixes-20) \| SupplyHouse / Amazon |
+| Navien Flame Sensor (Rod) | 30010972A | $25–$40 | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-navien-error-code-e003-ignition-failure&tag=errorcodefixes-20) \| SupplyHouse / Amazon |
+| Navien Gas Valve (NPE-A/S) | BH1680178A | $170–$200 | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-navien-error-code-e003-ignition-failure&tag=errorcodefixes-20) \| SupplyHouse / Navien Parts |
+| Navien Condensate Trap | 30011532A | $15–$25 | [Amazon](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-navien-error-code-e003-ignition-failure&tag=errorcodefixes-20) \| SupplyHouse |
 ## When to Call a Professional
 
 Diagnosing gas pressure issues requires a manometer and experience. Any work involving disconnecting the gas line, including replacing the gas valve, must be performed by a licensed plumber or HVAC technician. Additionally, after any repair that affects combustion, a Navien boiler or water heater should have its combustion performance checked with a calibrated combustion analyzer to ensure CO levels are safe and the unit is operating at peak efficiency. If you've cleaned the flame sensor and checked for obvious blockages and the E003 code persists, it's time to call a Navien-certified technician.

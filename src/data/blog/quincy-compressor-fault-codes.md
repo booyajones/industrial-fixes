@@ -42,10 +42,10 @@ A dead or drifting pressure transducer makes the controller do strange things, i
 
 | Part | Notes |
 |------|-------|
-| Pressure transducer | [Amazon](https://www.amazon.com/s?i=industrial&k=Pressure+transducer&tag=errorcodefixes-20) \| Frequent electronic failure |
-| Air/oil separator | [Amazon](https://www.amazon.com/s?i=industrial&k=Air%2Foil+separator&tag=errorcodefixes-20) \| Major service item |
-| Oil filter | [Amazon](https://www.amazon.com/s?i=industrial&k=Oil+filter&tag=errorcodefixes-20) \| Replace during PM |
-| Fan motor / contactor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Check on temperature faults |
+| Pressure transducer | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-quincy-compressor-fault-codes&k=Pressure+transducer&tag=errorcodefixes-20) \| Frequent electronic failure |
+| Air/oil separator | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-quincy-compressor-fault-codes&k=Air%2Foil+separator&tag=errorcodefixes-20) \| Major service item |
+| Oil filter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-quincy-compressor-fault-codes&k=Oil+filter&tag=errorcodefixes-20) \| Replace during PM |
+| Fan motor / contactor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-quincy-compressor-fault-codes&tag=errorcodefixes-20) \| Check on temperature faults |
 ## When to Call a Pro
 If the compressor is tripping on high temp after cooler cleaning and PM service, the oil thermostatic valve or airend may be wearing out. That is specialist work.
 

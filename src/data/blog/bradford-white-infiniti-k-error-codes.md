@@ -174,11 +174,11 @@ The condensate drain system detected a problem — either the drain is blocked, 
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
-| [Condensate Neutralizer Limestone Media](https://www.amazon.com/s?i=industrial&k=condensate+neutralizer+limestone+media+replacement&tag=errorcodefixes-20) | Error 79 — annual replacement on condensing units | $15–$40 |
-| [Tankless Water Heater Descaler Flush Kit](https://www.amazon.com/s?i=industrial&k=tankless+water+heater+descaling+flush+kit&tag=errorcodefixes-20) | Errors 14, 29, 34 — annual scale removal maintenance | $25–$60 |
-| [Gas Water Heater Flame Rod Sensor](https://www.amazon.com/s?i=industrial&k=gas+water+heater+flame+rod+ionization+sensor&tag=errorcodefixes-20) | Error 11 fix — flame rod replacement | $15–$40 |
-| [Bradford White Thermocouple / Thermistor](https://www.amazon.com/s?i=industrial&k=Bradford+White+water+heater+thermistor+sensor&tag=errorcodefixes-20) | Errors 31/32/33 — temperature sensor replacement | $10–$35 |
-| [Condensate Drain Line Tubing](https://www.amazon.com/s?i=industrial&k=condensate+drain+line+tubing+HVAC+water+heater&tag=errorcodefixes-20) | Replace cracked or frozen condensate drain lines | $10–$25 |
+| [Condensate Neutralizer Limestone Media](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-infiniti-k-error-codes&k=condensate+neutralizer+limestone+media+replacement&tag=errorcodefixes-20) | Error 79 — annual replacement on condensing units | $15–$40 |
+| [Tankless Water Heater Descaler Flush Kit](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-infiniti-k-error-codes&k=tankless+water+heater+descaling+flush+kit&tag=errorcodefixes-20) | Errors 14, 29, 34 — annual scale removal maintenance | $25–$60 |
+| [Gas Water Heater Flame Rod Sensor](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-infiniti-k-error-codes&k=gas+water+heater+flame+rod+ionization+sensor&tag=errorcodefixes-20) | Error 11 fix — flame rod replacement | $15–$40 |
+| [Bradford White Thermocouple / Thermistor](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-infiniti-k-error-codes&k=Bradford+White+water+heater+thermistor+sensor&tag=errorcodefixes-20) | Errors 31/32/33 — temperature sensor replacement | $10–$35 |
+| [Condensate Drain Line Tubing](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-infiniti-k-error-codes&k=condensate+drain+line+tubing+HVAC+water+heater&tag=errorcodefixes-20) | Replace cracked or frozen condensate drain lines | $10–$25 |
 
 ---
 

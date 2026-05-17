@@ -75,10 +75,10 @@ Alarm behavior is similar but sub-codes may differ — always reference the mach
 
 | Part | Notes |
 |------|-------|
-| Servo amplifier (Mazatrol) | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+amplifier+%28Mazatrol%29&tag=errorcodefixes-20) \| Replace on persistent servo alarms |
-| Spindle encoder | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+encoder&tag=errorcodefixes-20) \| Replace on spindle speed/comm alarms |
-| Hydraulic filter | [Amazon](https://www.amazon.com/s?i=industrial&k=Hydraulic+filter&tag=errorcodefixes-20) \| Replace on low pressure alarms |
-| ATC cam follower | [Amazon](https://www.amazon.com/s?i=industrial&k=ATC+cam+follower&tag=errorcodefixes-20) \| Inspect on ATC mechanical faults |
+| Servo amplifier (Mazatrol) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mazak-matrix-fault-codes&k=Servo+amplifier+%28Mazatrol%29&tag=errorcodefixes-20) \| Replace on persistent servo alarms |
+| Spindle encoder | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mazak-matrix-fault-codes&k=Spindle+encoder&tag=errorcodefixes-20) \| Replace on spindle speed/comm alarms |
+| Hydraulic filter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mazak-matrix-fault-codes&k=Hydraulic+filter&tag=errorcodefixes-20) \| Replace on low pressure alarms |
+| ATC cam follower | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mazak-matrix-fault-codes&k=ATC+cam+follower&tag=errorcodefixes-20) \| Inspect on ATC mechanical faults |
 ## Jump to Fix
 
 - **Servo alarm** → Note drive sub-code → Check motor and encoder → Replace drive if needed

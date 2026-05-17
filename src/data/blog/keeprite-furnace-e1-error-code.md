@@ -36,10 +36,10 @@ Keeprite is a Canadian HVAC brand that uses the same ICP (International Comfort 
 
 | Part | Notes |
 |------|-------|
-| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Use Keeprite/ICP part number; pressure rating stamped on switch body |
-| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| 1/4" ID; silicone preferred for cold-climate durability |
-| Inducer motor capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Test first — often fixes slow inducer at a fraction of motor cost |
-| Induced draft motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Replace if capacitor is good but motor is loud, slow, or seized |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-keeprite-furnace-e1-error-code&tag=errorcodefixes-20) \| Use Keeprite/ICP part number; pressure rating stamped on switch body |
+| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?ascsubtag=ecf-keeprite-furnace-e1-error-code&tag=errorcodefixes-20) \| 1/4" ID; silicone preferred for cold-climate durability |
+| Inducer motor capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-keeprite-furnace-e1-error-code&tag=errorcodefixes-20) \| Test first — often fixes slow inducer at a fraction of motor cost |
+| Induced draft motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-keeprite-furnace-e1-error-code&tag=errorcodefixes-20) \| Replace if capacitor is good but motor is loud, slow, or seized |
 ## When to Call a Pro
 
 In regions with extreme cold, repeated E1 codes from icing require a licensed HVAC technician to evaluate vent routing and possibly install an approved vent cap with freeze protection. Do not operate the furnace with a partially blocked flue.

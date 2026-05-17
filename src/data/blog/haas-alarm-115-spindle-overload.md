@@ -36,9 +36,9 @@ Haas **Alarm 115** is a **Spindle Overload** — the spindle drive has detected 
 
 | Part | Notes |
 |------|-------|
-| Cutting inserts or endmill | [Amazon](https://www.amazon.com/s?i=industrial&k=Cutting+inserts+or+endmill&tag=errorcodefixes-20) \| Replace dull tooling before any other diagnosis |
-| Spindle bearings | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+bearings&tag=errorcodefixes-20) \| Replace when spindle shows thermal growth, noise, or runout beyond tolerance |
-| Spindle motor | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+motor&tag=errorcodefixes-20) \| Replace after repeated overloads have degraded motor winding insulation |
+| Cutting inserts or endmill | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-115-spindle-overload&k=Cutting+inserts+or+endmill&tag=errorcodefixes-20) \| Replace dull tooling before any other diagnosis |
+| Spindle bearings | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-115-spindle-overload&k=Spindle+bearings&tag=errorcodefixes-20) \| Replace when spindle shows thermal growth, noise, or runout beyond tolerance |
+| Spindle motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-115-spindle-overload&k=Spindle+motor&tag=errorcodefixes-20) \| Replace after repeated overloads have degraded motor winding insulation |
 ## When to Call a Pro
 
 Spindle bearing replacement and spindle motor service require Haas Factory Outlet (HFO) trained technicians to perform thermal fit bearing installation and spindle runout verification. Incorrect bearing installation voids the spindle warranty and will cause premature failure.

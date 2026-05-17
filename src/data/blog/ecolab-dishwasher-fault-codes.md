@@ -42,9 +42,9 @@ Ecolab provides chemical programs and equipment for commercial dishwashers acros
 
 | Part | Notes |
 |------|-------|
-| Conductivity probe | [Amazon](https://www.amazon.com/s?i=industrial&k=Conductivity+probe&tag=errorcodefixes-20) \| Clean quarterly; replace if coating is damaged |
-| Dosing pump | [Amazon](https://www.amazon.com/s?i=industrial&k=Dosing+pump&tag=errorcodefixes-20) \| Replace if pump isn't delivering product |
-| Ecolab product (detergent, rinse aid) | [Amazon](https://www.amazon.com/s?i=industrial&k=Ecolab+product+%28detergent%2C+rinse+aid%29&tag=errorcodefixes-20) \| Refill when AL 01/02 appears |
+| Conductivity probe | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ecolab-dishwasher-fault-codes&k=Conductivity+probe&tag=errorcodefixes-20) \| Clean quarterly; replace if coating is damaged |
+| Dosing pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ecolab-dishwasher-fault-codes&k=Dosing+pump&tag=errorcodefixes-20) \| Replace if pump isn't delivering product |
+| Ecolab product (detergent, rinse aid) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ecolab-dishwasher-fault-codes&k=Ecolab+product+%28detergent%2C+rinse+aid%29&tag=errorcodefixes-20) \| Refill when AL 01/02 appears |
 ## When to Call a Pro
 
 Ecolab service representatives handle chemical program adjustments and SMART controller configuration. Contact your Ecolab account representative for persistent AL 03/04 concentration faults.

@@ -36,10 +36,10 @@ Lennox error code 103 indicates a pressure switch fault — the iComfort or Sure
 
 | Part | Notes |
 |------|-------|
-| Induced draft motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Model-specific; Lennox uses several suppliers across product lines |
-| Draft motor capacitor | [Amazon](https://www.amazon.com/s?i=industrial&k=Draft+motor+capacitor&tag=errorcodefixes-20) \| Cheap fix if motor won't start; test before replacing motor |
-| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match the WC rating printed on the old switch |
-| Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) \| Replacement traps are model-specific on Lennox 90%+ units |
+| Induced draft motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-lennox-error-code-103&tag=errorcodefixes-20) \| Model-specific; Lennox uses several suppliers across product lines |
+| Draft motor capacitor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lennox-error-code-103&k=Draft+motor+capacitor&tag=errorcodefixes-20) \| Cheap fix if motor won't start; test before replacing motor |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-lennox-error-code-103&tag=errorcodefixes-20) \| Match the WC rating printed on the old switch |
+| Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-lennox-error-code-103&tag=errorcodefixes-20) \| Replacement traps are model-specific on Lennox 90%+ units |
 ## When to Call a Pro
 
 If the draft motor is running at speed, vents are clear, and condensate drains freely, but code 103 persists, a tech should measure static pressure with a manometer to determine whether the switch rating matches actual system pressure.

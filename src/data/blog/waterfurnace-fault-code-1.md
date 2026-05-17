@@ -78,10 +78,10 @@ WaterFurnace units allow up to 3 fault trips before hard lockout:
 
 | Part | Notes |
 |---|---|
-| Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| WaterFurnace part 8733800700 or equivalent |
-| TXV assembly | [Amazon](https://www.amazon.com/s?i=industrial&k=TXV+assembly&tag=errorcodefixes-20) \| Must match refrigerant type and capacity |
-| Loop pump | [Amazon](https://www.amazon.com/s?i=industrial&k=Loop+pump&tag=errorcodefixes-20) \| Grundfos or Bell & Gossett — match GPM and head |
-| Blower run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Match µF and voltage |
+| Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-waterfurnace-fault-code-1&tag=errorcodefixes-20) \| WaterFurnace part 8733800700 or equivalent |
+| TXV assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-waterfurnace-fault-code-1&k=TXV+assembly&tag=errorcodefixes-20) \| Must match refrigerant type and capacity |
+| Loop pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-waterfurnace-fault-code-1&k=Loop+pump&tag=errorcodefixes-20) \| Grundfos or Bell & Gossett — match GPM and head |
+| Blower run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-waterfurnace-fault-code-1&tag=errorcodefixes-20) \| Match µF and voltage |
 > **Important:** WaterFurnace geothermal units require EPA 608-certified technicians for refrigerant work. Low refrigerant always means a leak — find and repair before recharging.
 
 ## Related Articles

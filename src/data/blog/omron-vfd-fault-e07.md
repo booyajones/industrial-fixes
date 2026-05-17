@@ -37,8 +37,8 @@ On Omron 3G3MX2 series drives (which are Omron's rebranded Yaskawa-OEM variable 
 
 | Part | Notes |
 |------|-------|
-| Motor output cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+output+cable&tag=errorcodefixes-20) \| Shielded, rated for inverter output; replace if insulation is damaged |
-| Motor (replacement or rewind) | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+%28replacement+or+rewind%29&tag=errorcodefixes-20) \| If winding insulation test fails |
+| Motor output cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-omron-vfd-fault-e07&k=Motor+output+cable&tag=errorcodefixes-20) \| Shielded, rated for inverter output; replace if insulation is damaged |
+| Motor (replacement or rewind) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-omron-vfd-fault-e07&k=Motor+%28replacement+or+rewind%29&tag=errorcodefixes-20) \| If winding insulation test fails |
 ## When to Call a Pro
 
 If E07 persists with the motor disconnected (fault on no-load), the drive's IGBT output stage has failed and the drive requires component-level repair or replacement. Contact Omron service or a certified VFD repair shop.

@@ -36,9 +36,9 @@ Weil-McLain error code E02 means the high-limit has tripped — the boiler's wat
 
 | Part | Notes |
 |------|-------|
-| Circulator pump | [Amazon](https://www.amazon.com/s?i=industrial&k=Circulator+pump&tag=errorcodefixes-20) \| Match flange size and head pressure to original; Taco 007 is common on Weil-McLain installs |
-| Zone valve | [Amazon](https://www.amazon.com/s?i=industrial&k=Zone+valve&tag=errorcodefixes-20) \| Test each zone valve motor with a multimeter; replace if coil is open |
-| High-limit aquastat (older models) | [Amazon](https://www.amazon.com/s?i=industrial&k=High-limit+aquastat+%28older+models%29&tag=errorcodefixes-20) \| Capillary-bulb type on older GV/WTGO boilers; replace if sensing element is damaged |
+| Circulator pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-weil-mclain-e02-error-code&k=Circulator+pump&tag=errorcodefixes-20) \| Match flange size and head pressure to original; Taco 007 is common on Weil-McLain installs |
+| Zone valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-weil-mclain-e02-error-code&k=Zone+valve&tag=errorcodefixes-20) \| Test each zone valve motor with a multimeter; replace if coil is open |
+| High-limit aquastat (older models) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-weil-mclain-e02-error-code&k=High-limit+aquastat+%28older+models%29&tag=errorcodefixes-20) \| Capillary-bulb type on older GV/WTGO boilers; replace if sensing element is damaged |
 ## When to Call a Pro
 
 An overfire condition (boiler firing full-rate without modulating) requires a licensed gas tech to inspect the gas valve, check manifold pressure, and verify combustion. Don't diagnose or adjust gas components yourself.

@@ -75,9 +75,9 @@ Samsung outdoor coil sensors are NTC thermistors:
 
 | Part | Notes |
 |---|---|
-| Outdoor coil temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Samsung OEM — match model (10K or 15K NTC) |
-| Sensor mounting clip | [Amazon](https://www.amazon.com/s?i=industrial&k=Sensor+mounting+clip&tag=errorcodefixes-20) \| Small plastic clip on coil tube — check it's intact |
-| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Only if sensor swap doesn't clear the fault |
+| Outdoor coil temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-samsung-mini-split-e5-01-error-code&tag=errorcodefixes-20) \| Samsung OEM — match model (10K or 15K NTC) |
+| Sensor mounting clip | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-mini-split-e5-01-error-code&k=Sensor+mounting+clip&tag=errorcodefixes-20) \| Small plastic clip on coil tube — check it's intact |
+| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-samsung-mini-split-e5-01-error-code&tag=errorcodefixes-20) \| Only if sensor swap doesn't clear the fault |
 ## Reset Procedure
 
 After replacing the sensor:

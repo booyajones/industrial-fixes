@@ -44,9 +44,9 @@ Fryer can't reach the set oil temperature. Check burner operation, gas pressure,
 
 | Part | Notes |
 |------|-------|
-| Temperature probe (RTD) | [Amazon](https://www.amazon.com/s?i=industrial&k=Temperature+probe+%28RTD%29&tag=errorcodefixes-20) \| Replace if F2 — Frymaster OEM part |
-| High-limit thermostat | [Amazon](https://www.amazon.com/s?i=industrial&k=High-limit+thermostat&tag=errorcodefixes-20) \| Replace after F4 trip if it won't reset |
-| Igniter assembly | [Amazon](https://www.amazon.com/s?i=industrial&k=Igniter+assembly&tag=errorcodefixes-20) \| For F3 — check spark electrode condition |
+| Temperature probe (RTD) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-manitowoc-fryer-error-codes&k=Temperature+probe+%28RTD%29&tag=errorcodefixes-20) \| Replace if F2 — Frymaster OEM part |
+| High-limit thermostat | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-manitowoc-fryer-error-codes&k=High-limit+thermostat&tag=errorcodefixes-20) \| Replace after F4 trip if it won't reset |
+| Igniter assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-manitowoc-fryer-error-codes&k=Igniter+assembly&tag=errorcodefixes-20) \| For F3 — check spark electrode condition |
 ## When to Call a Pro
 
 Gas valve, high-limit thermostat, and heat exchanger work requires a certified commercial kitchen equipment technician. Never operate after F1/F4 without identifying the root cause.

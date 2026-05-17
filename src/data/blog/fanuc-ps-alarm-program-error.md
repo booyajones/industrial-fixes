@@ -71,9 +71,9 @@ P/S alarms appear on all Fanuc control series: 0i, 16i/18i, 21i, 30i/31i/32i, an
 
 | Part | Notes |
 |------|-------|
-| Fanuc Operator's Manual (your series) | [Amazon](https://www.amazon.com/s?i=industrial&k=fanuc+cnc+operators+manual&tag=errorcodefixes-20) — The alarm list appendix is essential; buy the manual for your specific control series (0i, 16i, 30i) |
-| Fanuc Programming Manual | [Amazon](https://www.amazon.com/s?i=industrial&k=fanuc+cnc+programming+manual&tag=errorcodefixes-20) — Covers correct G/M code syntax, canned cycle formats, and macro B programming |
-| Compact flash card (memory backup) | [Amazon](https://www.amazon.com/s?i=industrial&k=fanuc+cnc+compact+flash+card&tag=errorcodefixes-20) — Use to back up all programs after fixes; a CF card backup prevents total loss from memory corruption |
+| Fanuc Operator's Manual (your series) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-ps-alarm-program-error&k=fanuc+cnc+operators+manual&tag=errorcodefixes-20) — The alarm list appendix is essential; buy the manual for your specific control series (0i, 16i, 30i) |
+| Fanuc Programming Manual | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-ps-alarm-program-error&k=fanuc+cnc+programming+manual&tag=errorcodefixes-20) — Covers correct G/M code syntax, canned cycle formats, and macro B programming |
+| Compact flash card (memory backup) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-ps-alarm-program-error&k=fanuc+cnc+compact+flash+card&tag=errorcodefixes-20) — Use to back up all programs after fixes; a CF card backup prevents total loss from memory corruption |
 
 ## When to Call a Technician
 

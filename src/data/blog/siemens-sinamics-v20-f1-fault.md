@@ -36,9 +36,9 @@ The Siemens SINAMICS V20 **F1 fault** is an **Overcurrent** fault. The drive's c
 
 | Part | Notes |
 |------|-------|
-| Motor (replacement) | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+%28replacement%29&tag=errorcodefixes-20) \| Replace when megohm test shows degraded insulation |
-| VFD-rated motor cable | [Amazon](https://www.amazon.com/s?i=industrial&k=VFD-rated+motor+cable&tag=errorcodefixes-20) \| Replace if cable insulation shows damage; use properly shielded VFD cable |
-| Larger frame V20 drive | [Amazon](https://www.amazon.com/s?i=industrial&k=Larger+frame+V20+drive&tag=errorcodefixes-20) \| If drive is undersized for the startup current demand of the load |
+| Motor (replacement) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-sinamics-v20-f1-fault&k=Motor+%28replacement%29&tag=errorcodefixes-20) \| Replace when megohm test shows degraded insulation |
+| VFD-rated motor cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-sinamics-v20-f1-fault&k=VFD-rated+motor+cable&tag=errorcodefixes-20) \| Replace if cable insulation shows damage; use properly shielded VFD cable |
+| Larger frame V20 drive | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-sinamics-v20-f1-fault&k=Larger+frame+V20+drive&tag=errorcodefixes-20) \| If drive is undersized for the startup current demand of the load |
 ## When to Call a Pro
 
 If F1 persists after clearing mechanical binding, correcting the ramp parameter, and confirming motor insulation is good, the V20's current sensor or IGBT gate driver may have been damaged by a prior event. Siemens-certified drive service technicians handle internal drive diagnostics.

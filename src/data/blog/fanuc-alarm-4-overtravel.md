@@ -38,8 +38,8 @@ Fanuc alarm 4 indicates a stored stroke limit overtravel in the negative directi
 
 | Part | Notes |
 |------|-------|
-| No parts typically required | [Amazon](https://www.amazon.com/s?i=industrial&k=No+parts+typically+required&tag=errorcodefixes-20) \| Alarm 4 is a software limit; recovery is usually parameter or positioning correction |
-| Fanuc servo amplifier | [Amazon](https://www.amazon.com/s?i=industrial&k=Fanuc+servo+amplifier&tag=errorcodefixes-20) \| Only if servo fault accompanies the overtravel alarm |
+| No parts typically required | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-4-overtravel&k=No+parts+typically+required&tag=errorcodefixes-20) \| Alarm 4 is a software limit; recovery is usually parameter or positioning correction |
+| Fanuc servo amplifier | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-4-overtravel&k=Fanuc+servo+amplifier&tag=errorcodefixes-20) \| Only if servo fault accompanies the overtravel alarm |
 ## When to Call a Pro
 
 If the machine repeatedly trips alarm 4 in normal operation after parameter and program correction, the axis position feedback may be drifting due to a faulty encoder or servo drive. Contact a Fanuc-certified service technician for servo system diagnostics.

@@ -23,7 +23,7 @@ The STATUS LED on the furnace control flashes a two-digit code: the first group 
 
 ## Lennox RTU Flash Code Table
 
-| [Flash Code](https://www.amazon.com/s?i=industrial&k=Flash+Code&tag=errorcodefixes-20) | Fault | Common Cause |
+| [Flash Code](https://www.amazon.com/s?ascsubtag=ecf-lennox-rooftop-unit-error-codes&k=Flash+Code&tag=errorcodefixes-20) | Fault | Common Cause |
 |---|---|---|
 | 1-1 | System lockout | Manual reset required |
 | 1-2 | Blower fault | Blower motor or wiring issue |
@@ -41,7 +41,7 @@ The STATUS LED on the furnace control flashes a two-digit code: the first group 
 
 ## Lennox iComfort Alphanumeric Codes (LCA/LGH with iComfort)
 
-| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Description | Action |
+| [Code](https://www.amazon.com/s?ascsubtag=ecf-lennox-rooftop-unit-error-codes&k=Code&tag=errorcodefixes-20) | Description | Action |
 |---|---|---|
 | 103 | Pressure switch stuck open | Check inducer, flue, pressure switch |
 | 111 | Low-pressure lockout | Check refrigerant charge |
@@ -82,12 +82,12 @@ Check refrigerant charge with gauges. Inspect evaporator coil for ice formation.
 
 | Part | Notes |
 |---|---|
-| [Hot surface igniter](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) | 18K-ohm type — model-specific |
-| [Flame sensor](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) | Check µA output — must exceed 1.5 µA |
-| [Run capacitor](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) | Test with capacitor meter before condemning motor |
-| [Pressure switch](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | High or low side — match OEM pressure setting |
-| [IFC control board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Cross-reference by model and serial |
-| [Condenser fan motor](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) | Check RPM and HP spec |
+| [Hot surface igniter](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-lennox-rooftop-unit-error-codes&tag=errorcodefixes-20) | 18K-ohm type — model-specific |
+| [Flame sensor](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-lennox-rooftop-unit-error-codes&tag=errorcodefixes-20) | Check µA output — must exceed 1.5 µA |
+| [Run capacitor](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-lennox-rooftop-unit-error-codes&tag=errorcodefixes-20) | Test with capacitor meter before condemning motor |
+| [Pressure switch](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-lennox-rooftop-unit-error-codes&tag=errorcodefixes-20) | High or low side — match OEM pressure setting |
+| [IFC control board](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-lennox-rooftop-unit-error-codes&tag=errorcodefixes-20) | Cross-reference by model and serial |
+| [Condenser fan motor](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-lennox-rooftop-unit-error-codes&tag=errorcodefixes-20) | Check RPM and HP spec |
 
 > **Pro tip:** Lennox RTU iComfort-equipped units log fault history accessible via the iComfort thermostat menu under Settings > Advanced > Diagnostics. This gives a timestamp of each fault.
 

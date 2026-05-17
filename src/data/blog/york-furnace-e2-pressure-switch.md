@@ -64,11 +64,11 @@ The pressure switch is a safety device that verifies the inducer motor is creati
 
 ## Parts You May Need
 
-- [York furnace pressure switch](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20)
-- [Furnace pressure switch hose tubing](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20)
-- [York inducer motor replacement](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20)
-- [Furnace inducer motor capacitor](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20)
-- [Condensate drain line clear kit](https://www.amazon.com/s?i=industrial&k=condensate+drain+line+clear+kit&tag=errorcodefixes-20)
+- [York furnace pressure switch](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-york-furnace-e2-pressure-switch&tag=errorcodefixes-20)
+- [Furnace pressure switch hose tubing](https://www.amazon.com/dp/B0CPTHML1N?ascsubtag=ecf-york-furnace-e2-pressure-switch&tag=errorcodefixes-20)
+- [York inducer motor replacement](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-york-furnace-e2-pressure-switch&tag=errorcodefixes-20)
+- [Furnace inducer motor capacitor](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-york-furnace-e2-pressure-switch&tag=errorcodefixes-20)
+- [Condensate drain line clear kit](https://www.amazon.com/s?ascsubtag=ecf-york-furnace-e2-pressure-switch&k=condensate+drain+line+clear+kit&tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

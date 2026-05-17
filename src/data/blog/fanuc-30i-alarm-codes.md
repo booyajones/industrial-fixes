@@ -55,10 +55,10 @@ The Fanuc 30i, 31i, and 32i controls are higher-end CNC platforms used on multi-
 
 | Part | Notes |
 |---|---|
-| Encoder battery | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+battery&tag=errorcodefixes-20) \| Prevents position loss |
-| I/O link cable | [Amazon](https://www.amazon.com/s?i=industrial&k=I%2FO+link+cable&tag=errorcodefixes-20) \| Common issue in harsh cabinets |
-| Servo amplifier | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+amplifier&tag=errorcodefixes-20) \| For persistent VRDY/overcurrent faults |
-| Spindle interface board | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+interface+board&tag=errorcodefixes-20) \| OEM dependent |
+| Encoder battery | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-30i-alarm-codes&k=Encoder+battery&tag=errorcodefixes-20) \| Prevents position loss |
+| I/O link cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-30i-alarm-codes&k=I%2FO+link+cable&tag=errorcodefixes-20) \| Common issue in harsh cabinets |
+| Servo amplifier | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-30i-alarm-codes&k=Servo+amplifier&tag=errorcodefixes-20) \| For persistent VRDY/overcurrent faults |
+| Spindle interface board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-30i-alarm-codes&k=Spindle+interface+board&tag=errorcodefixes-20) \| OEM dependent |
 ## When to Call a Pro
 
 These controls often run on high-value production equipment. Repeated 911, 920, or spindle serial alarms justify immediate involvement from a Fanuc-trained technician or the machine builder because incorrect recovery can cost parameters, offsets, and machine geometry.

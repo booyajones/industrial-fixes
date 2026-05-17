@@ -56,12 +56,12 @@ The Scotsman HID312 is a self-contained cube ice machine and dispenser producing
 
 | Part | Notes |
 |---|---|
-| Water curtain switch | [Amazon](https://www.amazon.com/s?i=industrial&k=Water+curtain+switch&tag=errorcodefixes-20) \| Scotsman-specific micro-switch |
-| Float switch / water level sensor | [Amazon](https://www.amazon.com/dp/B005D4RFEM?tag=errorcodefixes-20) \| Check for scale before replacing |
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match HP and rotation direction |
-| Thermistor sensors | [Amazon](https://www.amazon.com/s?i=industrial&k=Thermistor+sensors&tag=errorcodefixes-20) \| Freeze and harvest sensors; sold as a kit |
-| Dispenser auger motor | [Amazon](https://www.amazon.com/s?i=industrial&k=Dispenser+auger+motor&tag=errorcodefixes-20) \| Check for ice jam before ordering |
-| SmartBoard | [Amazon](https://www.amazon.com/s?i=industrial&k=SmartBoard&tag=errorcodefixes-20) \| For Code 13; verify power supply first |
+| Water curtain switch | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-scotsman-hid312-error-codes&k=Water+curtain+switch&tag=errorcodefixes-20) \| Scotsman-specific micro-switch |
+| Float switch / water level sensor | [Amazon](https://www.amazon.com/dp/B005D4RFEM?ascsubtag=ecf-scotsman-hid312-error-codes&tag=errorcodefixes-20) \| Check for scale before replacing |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-scotsman-hid312-error-codes&tag=errorcodefixes-20) \| Match HP and rotation direction |
+| Thermistor sensors | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-scotsman-hid312-error-codes&k=Thermistor+sensors&tag=errorcodefixes-20) \| Freeze and harvest sensors; sold as a kit |
+| Dispenser auger motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-scotsman-hid312-error-codes&k=Dispenser+auger+motor&tag=errorcodefixes-20) \| Check for ice jam before ordering |
+| SmartBoard | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-scotsman-hid312-error-codes&k=SmartBoard&tag=errorcodefixes-20) \| For Code 13; verify power supply first |
 ## When to Call a Pro
 
 Scotsman's SmartBoard can be interfaced with the Scotsman Remote Monitoring system (SRM) for cloud-connected diagnostics. A certified Scotsman service agent has access to the full fault log and can remotely adjust configuration parameters. Refrigerant service requires EPA 608 certification.

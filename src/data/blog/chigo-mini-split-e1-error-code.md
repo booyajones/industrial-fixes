@@ -38,9 +38,9 @@ Chigo mini split systems display E1 when the indoor unit loses communication wit
 
 | Part | Notes |
 |------|-------|
-| Outdoor unit control PCB | [Amazon](https://www.amazon.com/s?i=industrial&k=Outdoor+unit+control+PCB&tag=errorcodefixes-20) \| Primary hardware failure point for persistent E1 |
-| 3-conductor 18 AWG cable | [Amazon](https://www.amazon.com/s?i=industrial&k=3-conductor+18+AWG+cable&tag=errorcodefixes-20) \| To replace damaged communication wiring |
-| Indoor unit control PCB | [Amazon](https://www.amazon.com/s?i=industrial&k=Indoor+unit+control+PCB&tag=errorcodefixes-20) \| Secondary suspect if outdoor board swap doesn't resolve E1 |
+| Outdoor unit control PCB | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-chigo-mini-split-e1-error-code&k=Outdoor+unit+control+PCB&tag=errorcodefixes-20) \| Primary hardware failure point for persistent E1 |
+| 3-conductor 18 AWG cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-chigo-mini-split-e1-error-code&k=3-conductor+18+AWG+cable&tag=errorcodefixes-20) \| To replace damaged communication wiring |
+| Indoor unit control PCB | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-chigo-mini-split-e1-error-code&k=Indoor+unit+control+PCB&tag=errorcodefixes-20) \| Secondary suspect if outdoor board swap doesn't resolve E1 |
 ## When to Call a Pro
 
 Chigo parts can be difficult to source locally. If the outdoor board needs replacement and you're having trouble finding the correct part, an HVAC technician with OEM sourcing relationships can often locate it faster. The board swap itself is straightforward for someone comfortable with low-voltage HVAC wiring.

@@ -37,9 +37,9 @@ Eight flashes on a Trane furnace status LED indicates an **indoor blower (circul
 
 | Part | Notes |
 |------|-------|
-| Blower motor run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Match µF and voltage; common sizes are 5 µF, 7.5 µF, 10 µF at 370V |
-| ECM blower motor (variable-speed) | [Amazon](https://www.amazon.com/s?i=industrial&k=ECM+blower+motor+%28variable-speed%29&tag=errorcodefixes-20) \| Many Trane units use ECM motors — replacement requires matching module and motor |
-| PSC blower motor (single-speed) | [Amazon](https://www.amazon.com/s?i=industrial&k=PSC+blower+motor+%28single-speed%29&tag=errorcodefixes-20) \| Match HP, RPM, frame, and rotation direction |
+| Blower motor run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-trane-8-flashes-error-code&tag=errorcodefixes-20) \| Match µF and voltage; common sizes are 5 µF, 7.5 µF, 10 µF at 370V |
+| ECM blower motor (variable-speed) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-8-flashes-error-code&k=ECM+blower+motor+%28variable-speed%29&tag=errorcodefixes-20) \| Many Trane units use ECM motors — replacement requires matching module and motor |
+| PSC blower motor (single-speed) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-8-flashes-error-code&k=PSC+blower+motor+%28single-speed%29&tag=errorcodefixes-20) \| Match HP, RPM, frame, and rotation direction |
 ## When to Call a Pro
 
 ECM (variable-speed) motors on Trane XV and XC series require a matched control module. If you replace an ECM motor without the correct module, the fault will persist. Have a technician confirm the ECM module is communicating properly before condemning the motor.

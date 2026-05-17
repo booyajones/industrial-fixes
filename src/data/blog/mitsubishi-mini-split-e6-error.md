@@ -56,11 +56,11 @@ E6 is one of the most frustrating Mitsubishi fault codes because it can stem fro
 
 ## Parts You May Need
 
-- [Mitsubishi Outdoor Control Board PCB](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20)
-- [Mitsubishi Indoor Control Board PCB](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20)
-- [Mini Split Inter-Unit Communication Wire 14 AWG](https://www.amazon.com/s?i=industrial&k=mini+split+communication+wire+14+AWG&tag=errorcodefixes-20)
-- [PCB Fuse Assortment 3.15A 6.3A Glass Fuse](https://www.amazon.com/s?i=industrial&k=PCB+glass+fuse+3.15A+6.3A+replacement&tag=errorcodefixes-20)
-- [Electrical Terminal Corrosion Inhibitor](https://www.amazon.com/s?i=industrial&k=electrical+terminal+corrosion+inhibitor+anti-oxidant&tag=errorcodefixes-20)
+- [Mitsubishi Outdoor Control Board PCB](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-mitsubishi-mini-split-e6-error&tag=errorcodefixes-20)
+- [Mitsubishi Indoor Control Board PCB](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-mitsubishi-mini-split-e6-error&tag=errorcodefixes-20)
+- [Mini Split Inter-Unit Communication Wire 14 AWG](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-mini-split-e6-error&k=mini+split+communication+wire+14+AWG&tag=errorcodefixes-20)
+- [PCB Fuse Assortment 3.15A 6.3A Glass Fuse](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-mini-split-e6-error&k=PCB+glass+fuse+3.15A+6.3A+replacement&tag=errorcodefixes-20)
+- [Electrical Terminal Corrosion Inhibitor](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-mini-split-e6-error&k=electrical+terminal+corrosion+inhibitor+anti-oxidant&tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

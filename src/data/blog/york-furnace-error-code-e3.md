@@ -36,9 +36,9 @@ York Furnace Error Code E3 indicates a pressure switch stuck closed fault — th
 
 | Part | Notes |
 |------|-------|
-| Draft pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match to York model number — WC rating varies |
-| Pressure switch tubing | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Replace if cracked or kinked beyond straightening |
-| Condensate drain hose | [Amazon](https://www.amazon.com/s?i=industrial&k=Condensate+drain+hose&tag=errorcodefixes-20) \| Replace if clogged and causing water backup |
+| Draft pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-york-furnace-error-code-e3&tag=errorcodefixes-20) \| Match to York model number — WC rating varies |
+| Pressure switch tubing | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-york-furnace-error-code-e3&tag=errorcodefixes-20) \| Replace if cracked or kinked beyond straightening |
+| Condensate drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-york-furnace-error-code-e3&k=Condensate+drain+hose&tag=errorcodefixes-20) \| Replace if clogged and causing water backup |
 ## When to Call a Pro
 
 If the switch, wiring, and tubing all check out and E3 persists, the control board may be misreading the switch input. Board diagnostics and replacement require a licensed HVAC technician.

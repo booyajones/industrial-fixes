@@ -53,10 +53,10 @@ Alarm 101 is one of the most searched Haas alarms because it also appears after 
 
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|-------------|
-| E-stop pushbutton (22mm) | 33-2048 | $25–$45 | [Amazon](https://www.amazon.com/s?i=industrial&k=33-2048+E-stop+pushbutton+%2822mm%29&tag=errorcodefixes-20) \| Haas Factory Outlet / AutomationDirect |
-| Door interlock switch | 57-0017 | $35–$60 | [Amazon](https://www.amazon.com/s?i=industrial&k=57-0017+Door+interlock+switch&tag=errorcodefixes-20) \| Haas Factory Outlet |
-| Pilz PNOZ safety relay | PNOZ X2.8P | $80–$140 | [Amazon](https://www.amazon.com/s?i=industrial&k=PNOZ+X2.8P+Pilz+PNOZ+safety+relay&tag=errorcodefixes-20) \| Pilz / AutomationDirect |
-| E-stop circuit terminal block | — | $5–$15 each | [Amazon](https://www.amazon.com/s?i=industrial&k=E-stop+circuit+terminal+block&tag=errorcodefixes-20) \| AutomationDirect / McMaster-Carr |
+| E-stop pushbutton (22mm) | 33-2048 | $25–$45 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-101-emergency-stop&k=33-2048+E-stop+pushbutton+%2822mm%29&tag=errorcodefixes-20) \| Haas Factory Outlet / AutomationDirect |
+| Door interlock switch | 57-0017 | $35–$60 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-101-emergency-stop&k=57-0017+Door+interlock+switch&tag=errorcodefixes-20) \| Haas Factory Outlet |
+| Pilz PNOZ safety relay | PNOZ X2.8P | $80–$140 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-101-emergency-stop&k=PNOZ+X2.8P+Pilz+PNOZ+safety+relay&tag=errorcodefixes-20) \| Pilz / AutomationDirect |
+| E-stop circuit terminal block | — | $5–$15 each | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-101-emergency-stop&k=E-stop+circuit+terminal+block&tag=errorcodefixes-20) \| AutomationDirect / McMaster-Carr |
 ## When to Call a Professional
 
 If Alarm 101 persists after physically verifying every E-stop button, door switch, and companion alarm, the fault is inside the electrical cabinet — either in wiring, the safety relay, or the I/O board that monitors the E-stop circuit. Working inside an industrial CNC cabinet with live power present is a legitimate electrical hazard. Call a qualified CNC technician or Haas Field Service if you are not trained in industrial electrical troubleshooting. Do not bypass or jumper the E-stop circuit under any circumstances — it is a legal safety device, and bypassing it creates an OSHA-recordable hazard.

@@ -47,11 +47,11 @@ When the controller starts a spin and the pressure sensor reading doesn't drop a
 
 | Part | Where to Buy | Typical Cost |
 |------|--------------|--------------|
-| Pressure sensor / water-level sensor (LG EBF-series) | [Check price on Amazon](https://www.amazon.com/s?i=industrial&k="LG+washer+pressure+sensor"&tag=errorcodefixes-20) \| RepairClinic | $25-$55 |
-| Pressure tube + clip kit | [Check price on Amazon](https://www.amazon.com/s?i=industrial&k="LG+washer+pressure+tube"&tag=errorcodefixes-20) | $8-$20 |
-| Drain pump (AHA72914203-type) | [Check price on Amazon](https://www.amazon.com/s?i=industrial&k="AHA72914203"+LG+drain+pump&tag=errorcodefixes-20) | $40-$95 |
-| Suspension rod set (4-pack) | [Check price on Amazon](https://www.amazon.com/s?i=industrial&k="LG+washer+suspension+rod"&tag=errorcodefixes-20) | $50-$120 |
-| Door boot / bellows (front-load, model-specific) | [Check price on Amazon](https://www.amazon.com/s?i=industrial&k="LG+washer+door+boot"&tag=errorcodefixes-20) | $80-$170 |
+| Pressure sensor / water-level sensor (LG EBF-series) | [Check price on Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-error-code-31&k="LG+washer+pressure+sensor"&tag=errorcodefixes-20) \| RepairClinic | $25-$55 |
+| Pressure tube + clip kit | [Check price on Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-error-code-31&k="LG+washer+pressure+tube"&tag=errorcodefixes-20) | $8-$20 |
+| Drain pump (AHA72914203-type) | [Check price on Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-error-code-31&k="AHA72914203"+LG+drain+pump&tag=errorcodefixes-20) | $40-$95 |
+| Suspension rod set (4-pack) | [Check price on Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-error-code-31&k="LG+washer+suspension+rod"&tag=errorcodefixes-20) | $50-$120 |
+| Door boot / bellows (front-load, model-specific) | [Check price on Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-error-code-31&k="LG+washer+door+boot"&tag=errorcodefixes-20) | $80-$170 |
 | Main control board (LSWD/WashTower EBR-series) | LG parts, RepairClinic | $220-$450 |
 
 ## Technician Tips

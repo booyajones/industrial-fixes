@@ -36,9 +36,9 @@ Alarm 25201 on a Siemens Sinumerik CNC (840D sl, 828D, 810D) indicates a drive o
 
 | Part | Notes |
 |------|-------|
-| SINAMICS S120 motor module | [Amazon](https://www.amazon.com/s?i=industrial&k=SINAMICS+S120+motor+module&tag=errorcodefixes-20) \| Match kW rating and frame size; Siemens OEM required |
-| Servo motor | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+motor&tag=errorcodefixes-20) \| Siemens 1FK or 1FT series; must match drive parameterization |
-| Motor cable (power + feedback) | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+cable+%28power+%2B+feedback%29&tag=errorcodefixes-20) \| Siemens preassembled cables preferred for DRIVE-CLiQ systems |
+| SINAMICS S120 motor module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-sinumerik-alarm-25201&k=SINAMICS+S120+motor+module&tag=errorcodefixes-20) \| Match kW rating and frame size; Siemens OEM required |
+| Servo motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-sinumerik-alarm-25201&k=Servo+motor&tag=errorcodefixes-20) \| Siemens 1FK or 1FT series; must match drive parameterization |
+| Motor cable (power + feedback) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-sinumerik-alarm-25201&k=Motor+cable+%28power+%2B+feedback%29&tag=errorcodefixes-20) \| Siemens preassembled cables preferred for DRIVE-CLiQ systems |
 ## When to Call a Pro
 
 Siemens SINAMICS drive replacement requires re-parameterization via STARTER or TIA Portal and motor commissioning. This must be done by a Siemens-trained technician — incorrect parameters cause axis runaway, damaged tooling, and machine damage.

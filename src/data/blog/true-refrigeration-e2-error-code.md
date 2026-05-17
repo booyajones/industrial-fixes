@@ -36,9 +36,9 @@ The E2 error on True Refrigeration equipment signals a high temperature alarm â€
 
 | Part | Notes |
 |------|-------|
-| Door gasket | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?tag=errorcodefixes-20) \| Match to model; True has model-specific gaskets |
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Replace if not spinning with compressor on |
-| Defrost heater / thermostat | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) \| If evaporator is frosted over |
+| Door gasket | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?ascsubtag=ecf-true-refrigeration-e2-error-code&tag=errorcodefixes-20) \| Match to model; True has model-specific gaskets |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-true-refrigeration-e2-error-code&tag=errorcodefixes-20) \| Replace if not spinning with compressor on |
+| Defrost heater / thermostat | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?ascsubtag=ecf-true-refrigeration-e2-error-code&tag=errorcodefixes-20) \| If evaporator is frosted over |
 ## When to Call a Pro
 
 If the condenser is clean, doors seal well, and the defrost system is intact but the cabinet still can't hold temp, the sealed refrigeration system (compressor, TXV, refrigerant) needs a certified tech.

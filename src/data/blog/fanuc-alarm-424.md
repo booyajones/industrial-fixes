@@ -36,10 +36,10 @@ Fanuc **Alarm 424** is a **Servo Axis Following Error** — specifically, the po
 
 | Part | Notes |
 |------|-------|
-| Servo amplifier module | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+amplifier+module&tag=errorcodefixes-20) \| Replace when amplifier LED shows internal fault or drive current is limited |
-| Encoder cable (axis-specific) | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+cable+%28axis-specific%29&tag=errorcodefixes-20) \| Replace if cable shows abrasion, kinks, or intermittent continuity |
-| Servo motor (axis-specific) | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+motor+%28axis-specific%29&tag=errorcodefixes-20) \| Replace when motor phase resistance is unbalanced or winding is grounded |
-| Ballscrew support bearing | [Amazon](https://www.amazon.com/s?i=industrial&k=Ballscrew+support+bearing&tag=errorcodefixes-20) \| Replace if manual axis movement is notchy or rough |
+| Servo amplifier module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-424&k=Servo+amplifier+module&tag=errorcodefixes-20) \| Replace when amplifier LED shows internal fault or drive current is limited |
+| Encoder cable (axis-specific) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-424&k=Encoder+cable+%28axis-specific%29&tag=errorcodefixes-20) \| Replace if cable shows abrasion, kinks, or intermittent continuity |
+| Servo motor (axis-specific) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-424&k=Servo+motor+%28axis-specific%29&tag=errorcodefixes-20) \| Replace when motor phase resistance is unbalanced or winding is grounded |
+| Ballscrew support bearing | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-424&k=Ballscrew+support+bearing&tag=errorcodefixes-20) \| Replace if manual axis movement is notchy or rough |
 ## When to Call a Pro
 
 If alarm 424 persists after clearing mechanical binding and reseating all connectors, Fanuc drive diagnostics and servo tuning require parameter adjustment expertise and oscilloscope-level servo trace analysis. A Fanuc-certified service tech or your machine tool dealer's service department should perform this work.

@@ -51,10 +51,10 @@ Alarm 1013 always includes an axis identifier in the full alarm text displayed o
 
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|-------------|
-| Amplifier Cooling Fan (40mm or 60mm DC) | Match by voltage/CFM/frame | $20–$60 | [Amazon](https://www.amazon.com/s?i=industrial&k=Match+by+voltage%2FCFM%2Fframe+Amplifier+Cooling+Fan+%2840mm+or+60mm+DC%29&tag=errorcodefixes-20) \| Grainger / Amazon |
-| Cabinet Air Filter Mat | Okuma part or cut-to-size foam | $10–$30 | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| Okuma dealer / filter supply |
-| Okuma IGBT Servo Amplifier (if failed) | Axis-specific, contact Okuma | $2,000–$6,000 | [Amazon](https://www.amazon.com/s?i=industrial&k=Axis-specific%2C+contact+Okuma+Okuma+IGBT+Servo+Amplifier+%28if+failed%29&tag=errorcodefixes-20) \| Okuma America dealer |
-| One-Shot Lube Oil (ISO 68 way oil) | Generic ISO 68 | $15–$30/gallon | [Amazon](https://www.amazon.com/s?i=industrial&k=Generic+ISO+68+One-Shot+Lube+Oil+%28ISO+68+way+oil%29&tag=errorcodefixes-20) \| Grainger / MSC Industrial |
+| Amplifier Cooling Fan (40mm or 60mm DC) | Match by voltage/CFM/frame | $20–$60 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-okuma-cnc-alarm-1013-servo-axis-fault&k=Match+by+voltage%2FCFM%2Fframe+Amplifier+Cooling+Fan+%2840mm+or+60mm+DC%29&tag=errorcodefixes-20) \| Grainger / Amazon |
+| Cabinet Air Filter Mat | Okuma part or cut-to-size foam | $10–$30 | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-okuma-cnc-alarm-1013-servo-axis-fault&tag=errorcodefixes-20) \| Okuma dealer / filter supply |
+| Okuma IGBT Servo Amplifier (if failed) | Axis-specific, contact Okuma | $2,000–$6,000 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-okuma-cnc-alarm-1013-servo-axis-fault&k=Axis-specific%2C+contact+Okuma+Okuma+IGBT+Servo+Amplifier+%28if+failed%29&tag=errorcodefixes-20) \| Okuma America dealer |
+| One-Shot Lube Oil (ISO 68 way oil) | Generic ISO 68 | $15–$30/gallon | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-okuma-cnc-alarm-1013-servo-axis-fault&k=Generic+ISO+68+One-Shot+Lube+Oil+%28ISO+68+way+oil%29&tag=errorcodefixes-20) \| Grainger / MSC Industrial |
 ## When to Call a Professional
 
 If the cooling fan is operational, the cabinet is clean, the axis moves freely under manual jog, and Alarm 1013 still returns within the first hour of operation after a cool-down reset, the amplifier's IPM module or internal power supply components are degraded and the unit needs repair or replacement. Okuma servo amplifier repair requires oscilloscope verification of the gate drive signals, capacitor ESR testing, and IPM testing — this is not field-serviceable without specialized equipment. Okuma America's service division and their regional distributors can provide factory-authorized repair. Always obtain the machine's parameter backup before any amplifier replacement to avoid re-commissioning from scratch.

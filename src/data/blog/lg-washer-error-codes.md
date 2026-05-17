@@ -75,14 +75,14 @@ The drive motor is drawing current but the rotor isn't moving. Causes:
 
 | Part | Where to Buy | Typical Cost |
 |------|--------------|--------------|
-| Drain pump (LG AHA72914203 / WPW10581874-style) | [Check price on Amazon](https://www.amazon.com/s?i=industrial&k="AHA72914203"+LG+drain+pump&tag=errorcodefixes-20) \| RepairClinic | $40-$95 |
-| Inlet solenoid valve (cold or hot) | [Check price on Amazon](https://www.amazon.com/s?i=industrial&k="LG+washer+inlet+valve"&tag=errorcodefixes-20) | $45-$80 |
-| Door lock / interlock switch | [Check price on Amazon](https://www.amazon.com/s?i=industrial&k="LG+washer+door+lock"&tag=errorcodefixes-20) | $35-$75 |
-| Suspension rod set (front-load, 4-pack) | [Check price on Amazon](https://www.amazon.com/s?i=industrial&k="LG+washer+suspension+rod"&tag=errorcodefixes-20) | $50-$120 |
-| Drum bearings + seal kit | [Check price on Amazon](https://www.amazon.com/s?i=industrial&k="LG+washer+bearing+kit"&tag=errorcodefixes-20) | $30-$80 |
-| Pressure sensor (water level) | [Check price on Amazon](https://www.amazon.com/s?i=industrial&k="LG+washer+pressure+sensor"&tag=errorcodefixes-20) | $25-$55 |
+| Drain pump (LG AHA72914203 / WPW10581874-style) | [Check price on Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-error-codes&k="AHA72914203"+LG+drain+pump&tag=errorcodefixes-20) \| RepairClinic | $40-$95 |
+| Inlet solenoid valve (cold or hot) | [Check price on Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-error-codes&k="LG+washer+inlet+valve"&tag=errorcodefixes-20) | $45-$80 |
+| Door lock / interlock switch | [Check price on Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-error-codes&k="LG+washer+door+lock"&tag=errorcodefixes-20) | $35-$75 |
+| Suspension rod set (front-load, 4-pack) | [Check price on Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-error-codes&k="LG+washer+suspension+rod"&tag=errorcodefixes-20) | $50-$120 |
+| Drum bearings + seal kit | [Check price on Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-error-codes&k="LG+washer+bearing+kit"&tag=errorcodefixes-20) | $30-$80 |
+| Pressure sensor (water level) | [Check price on Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-error-codes&k="LG+washer+pressure+sensor"&tag=errorcodefixes-20) | $25-$55 |
 | Main control board (LG EBR-series, model-specific) | RepairClinic, LG parts | $180-$400 |
-| Heater + thermistor assembly | [Check price on Amazon](https://www.amazon.com/s?i=industrial&k="LG+washer+heater"&tag=errorcodefixes-20) | $60-$140 |
+| Heater + thermistor assembly | [Check price on Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-error-codes&k="LG+washer+heater"&tag=errorcodefixes-20) | $60-$140 |
 
 ## Technician Tips
 

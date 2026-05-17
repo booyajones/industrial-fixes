@@ -53,9 +53,9 @@ DVM S uses a variable-speed scroll compressor. Measure DC bus voltage (should be
 
 | Part | Notes |
 |------|-------|
-| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Samsung commercial parts — match DVM S model |
-| Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Match indoor unit model |
-| EEV | [Amazon](https://www.amazon.com/s?i=industrial&k=EEV&tag=errorcodefixes-20) \| Match valve size |
-| Inverter board | [Amazon](https://www.amazon.com/s?i=industrial&k=Inverter+board&tag=errorcodefixes-20) \| High cost — verify fault first |
-| Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match HP and frame type |
+| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-samsung-dvm-s-error-codes&tag=errorcodefixes-20) \| Samsung commercial parts — match DVM S model |
+| Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-samsung-dvm-s-error-codes&tag=errorcodefixes-20) \| Match indoor unit model |
+| EEV | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dvm-s-error-codes&k=EEV&tag=errorcodefixes-20) \| Match valve size |
+| Inverter board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dvm-s-error-codes&k=Inverter+board&tag=errorcodefixes-20) \| High cost — verify fault first |
+| Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-samsung-dvm-s-error-codes&tag=errorcodefixes-20) \| Match HP and frame type |
 > **Pro tip:** Samsung DVM S systems support SmartThings Pro for remote monitoring. Fault codes, pressures, and temperatures can be viewed remotely — enroll system for proactive fault notification.

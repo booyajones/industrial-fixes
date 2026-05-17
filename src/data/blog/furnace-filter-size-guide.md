@@ -57,16 +57,16 @@ If there's no filter in the unit or the label is worn off:
 
 ### Common Furnace Filter Sizes
 
-| [Nominal Size](https://www.amazon.com/s?i=industrial&k=Nominal+Size&tag=errorcodefixes-20) | Actual Size | Where It's Common |
+| [Nominal Size](https://www.amazon.com/s?ascsubtag=ecf-furnace-filter-size-guide&k=Nominal+Size&tag=errorcodefixes-20) | Actual Size | Where It's Common |
 |-------------|-------------|-------------------|
-| [16 × 20 × 1](https://www.amazon.com/s?i=industrial&k=16+%C3%97+20+%C3%97+1&tag=errorcodefixes-20) | 15.5 × 19.5 × 0.75 | Smaller 80% furnaces, horizontal systems |
-| [16 × 25 × 1](https://www.amazon.com/s?i=industrial&k=16+%C3%97+25+%C3%97+1&tag=errorcodefixes-20) | 15.5 × 24.5 × 0.75 | Common mid-size furnace |
-| [20 × 20 × 1](https://www.amazon.com/s?i=industrial&k=20+%C3%97+20+%C3%97+1&tag=errorcodefixes-20) | 19.5 × 19.5 × 0.75 | Square return air grilles |
-| [20 × 25 × 1](https://www.amazon.com/s?i=industrial&k=20+%C3%97+25+%C3%97+1&tag=errorcodefixes-20) | 19.5 × 24.5 × 0.75 | Most common U.S. residential size |
-| [16 × 25 × 4](https://www.amazon.com/s?i=industrial&k=16+%C3%97+25+%C3%97+4&tag=errorcodefixes-20) | 15.75 × 24.75 × 3.75 | High-efficiency media filter cabinets |
-| [20 × 25 × 4](https://www.amazon.com/s?i=industrial&k=20+%C3%97+25+%C3%97+4&tag=errorcodefixes-20) | 19.75 × 24.75 × 3.75 | Common 4" media cabinet |
-| [20 × 25 × 5](https://www.amazon.com/s?i=industrial&k=20+%C3%97+25+%C3%97+5&tag=errorcodefixes-20) | 19.75 × 24.75 × 4.75 | Honeywell/AprilAire filter cabinets |
-| [16 × 20 × 5](https://www.amazon.com/s?i=industrial&k=16+%C3%97+20+%C3%97+5&tag=errorcodefixes-20) | 15.75 × 19.75 × 4.75 | Lennox MERV 16 media cabinets |
+| [16 × 20 × 1](https://www.amazon.com/s?ascsubtag=ecf-furnace-filter-size-guide&k=16+%C3%97+20+%C3%97+1&tag=errorcodefixes-20) | 15.5 × 19.5 × 0.75 | Smaller 80% furnaces, horizontal systems |
+| [16 × 25 × 1](https://www.amazon.com/s?ascsubtag=ecf-furnace-filter-size-guide&k=16+%C3%97+25+%C3%97+1&tag=errorcodefixes-20) | 15.5 × 24.5 × 0.75 | Common mid-size furnace |
+| [20 × 20 × 1](https://www.amazon.com/s?ascsubtag=ecf-furnace-filter-size-guide&k=20+%C3%97+20+%C3%97+1&tag=errorcodefixes-20) | 19.5 × 19.5 × 0.75 | Square return air grilles |
+| [20 × 25 × 1](https://www.amazon.com/s?ascsubtag=ecf-furnace-filter-size-guide&k=20+%C3%97+25+%C3%97+1&tag=errorcodefixes-20) | 19.5 × 24.5 × 0.75 | Most common U.S. residential size |
+| [16 × 25 × 4](https://www.amazon.com/s?ascsubtag=ecf-furnace-filter-size-guide&k=16+%C3%97+25+%C3%97+4&tag=errorcodefixes-20) | 15.75 × 24.75 × 3.75 | High-efficiency media filter cabinets |
+| [20 × 25 × 4](https://www.amazon.com/s?ascsubtag=ecf-furnace-filter-size-guide&k=20+%C3%97+25+%C3%97+4&tag=errorcodefixes-20) | 19.75 × 24.75 × 3.75 | Common 4" media cabinet |
+| [20 × 25 × 5](https://www.amazon.com/s?ascsubtag=ecf-furnace-filter-size-guide&k=20+%C3%97+25+%C3%97+5&tag=errorcodefixes-20) | 19.75 × 24.75 × 4.75 | Honeywell/AprilAire filter cabinets |
+| [16 × 20 × 5](https://www.amazon.com/s?ascsubtag=ecf-furnace-filter-size-guide&k=16+%C3%97+20+%C3%97+5&tag=errorcodefixes-20) | 15.75 × 19.75 × 4.75 | Lennox MERV 16 media cabinets |
 
 ---
 
@@ -74,12 +74,12 @@ If there's no filter in the unit or the label is worn off:
 
 MERV stands for **Minimum Efficiency Reporting Value**. It rates how well a filter catches particles of specific sizes. The scale runs from 1 to 16 for residential filters (higher ratings exist for commercial/hospital use).
 
-| [MERV Rating](https://www.amazon.com/s?i=industrial&k=MERV+Rating&tag=errorcodefixes-20) | What It Catches | Best For |
+| [MERV Rating](https://www.amazon.com/s?ascsubtag=ecf-furnace-filter-size-guide&k=MERV+Rating&tag=errorcodefixes-20) | What It Catches | Best For |
 |-------------|----------------|----------|
 | 1–4 | Large dust, pollen, carpet fibers | Basic equipment protection only |
 | 5–8 | Dust mites, mold spores, pet dander | Most homes — good balance of filtration and airflow |
-| [9–12](https://www.amazon.com/s?i=industrial&k=9%E2%80%9312&tag=errorcodefixes-20) | Fine dust, smoke particles, auto exhaust | Allergy households, better air quality |
-| [13–16](https://www.amazon.com/s?i=industrial&k=13%E2%80%9316&tag=errorcodefixes-20) | Bacteria, fine smoke, viruses | High-sensitivity health needs |
+| [9–12](https://www.amazon.com/s?ascsubtag=ecf-furnace-filter-size-guide&k=9%E2%80%9312&tag=errorcodefixes-20) | Fine dust, smoke particles, auto exhaust | Allergy households, better air quality |
+| [13–16](https://www.amazon.com/s?ascsubtag=ecf-furnace-filter-size-guide&k=13%E2%80%9316&tag=errorcodefixes-20) | Bacteria, fine smoke, viruses | High-sensitivity health needs |
 
 ### What MERV Rating Should You Use?
 
@@ -109,13 +109,13 @@ For most homes: **MERV 8–11** is the sweet spot. It catches the particles that
 
 ### Recommended Filters by Situation
 
-| [Situation](https://www.amazon.com/s?i=industrial&k=Situation&tag=errorcodefixes-20) | MERV | Type | Example Products |
+| [Situation](https://www.amazon.com/s?ascsubtag=ecf-furnace-filter-size-guide&k=Situation&tag=errorcodefixes-20) | MERV | Type | Example Products |
 |-----------|------|------|-----------------|
-| [Basic protection, budget](https://www.amazon.com/s?i=industrial&k=Basic+protection%2C+budget&tag=errorcodefixes-20) | MERV 4–6 | Fiberglass | Flanders EZ Flow |
-| [Standard home (most people)](https://www.amazon.com/s?i=industrial&k=Standard+home+%28most+people%29&tag=errorcodefixes-20) | MERV 8 | Pleated | Filtrete 1000, Nordic Pure MERV 8 |
-| [Pets or light allergies](https://www.amazon.com/s?i=industrial&k=Pets+or+light+allergies&tag=errorcodefixes-20) | MERV 11 | Pleated | Filtrete 1500, Honeywell Elite Allergen |
-| [Severe allergies, asthma](https://www.amazon.com/s?i=industrial&k=Severe+allergies%2C+asthma&tag=errorcodefixes-20) | MERV 13 | Pleated media | Filtrete 1900, Nordic Pure MERV 13 |
-| [Whole-home media cabinet (4" or 5")](https://www.amazon.com/s?i=industrial&k=Whole-home+media+cabinet+%284"+or+5"%29&tag=errorcodefixes-20) | MERV 11–16 | Media | Lennox X6673, AprilAire 213, Honeywell CF100A |
+| [Basic protection, budget](https://www.amazon.com/s?ascsubtag=ecf-furnace-filter-size-guide&k=Basic+protection%2C+budget&tag=errorcodefixes-20) | MERV 4–6 | Fiberglass | Flanders EZ Flow |
+| [Standard home (most people)](https://www.amazon.com/s?ascsubtag=ecf-furnace-filter-size-guide&k=Standard+home+%28most+people%29&tag=errorcodefixes-20) | MERV 8 | Pleated | Filtrete 1000, Nordic Pure MERV 8 |
+| [Pets or light allergies](https://www.amazon.com/s?ascsubtag=ecf-furnace-filter-size-guide&k=Pets+or+light+allergies&tag=errorcodefixes-20) | MERV 11 | Pleated | Filtrete 1500, Honeywell Elite Allergen |
+| [Severe allergies, asthma](https://www.amazon.com/s?ascsubtag=ecf-furnace-filter-size-guide&k=Severe+allergies%2C+asthma&tag=errorcodefixes-20) | MERV 13 | Pleated media | Filtrete 1900, Nordic Pure MERV 13 |
+| [Whole-home media cabinet (4" or 5")](https://www.amazon.com/s?ascsubtag=ecf-furnace-filter-size-guide&k=Whole-home+media+cabinet+%284"+or+5"%29&tag=errorcodefixes-20) | MERV 11–16 | Media | Lennox X6673, AprilAire 213, Honeywell CF100A |
 
 ---
 
@@ -123,11 +123,11 @@ For most homes: **MERV 8–11** is the sweet spot. It catches the particles that
 
 | Item | Why You Need It | Approx. Cost |
 |------|----------------|--------------|
-| [Standard 1" pleated filter (MERV 8)](https://www.amazon.com/s?i=industrial&k=Standard+1"+pleated+filter+%28MERV+8%29&tag=errorcodefixes-20) | Regular replacement — most homes | $6–$15 each |
-| [Standard 1" pleated filter (MERV 11)](https://www.amazon.com/s?i=industrial&k=Standard+1"+pleated+filter+%28MERV+11%29&tag=errorcodefixes-20) | Pets, mild allergies | $10–$20 each |
-| [4" media filter replacement](https://www.amazon.com/s?i=industrial&k=4"+media+filter+replacement&tag=errorcodefixes-20) | For homes with a 4" filter cabinet | $20–$45 each |
-| [5" media filter replacement (AprilAire 213)](https://www.amazon.com/s?i=industrial&k=5"+media+filter+replacement+%28AprilAire+213%29&tag=errorcodefixes-20) | AprilAire 2120/2210 cabinets | $25–$50 each |
-| [Filter cabinet (4" or 5")](https://www.amazon.com/s?i=industrial&k=Filter+cabinet+%284"+or+5"%29&tag=errorcodefixes-20) | Upgrade from 1" to media filter system | $80–$200 installed |
+| [Standard 1" pleated filter (MERV 8)](https://www.amazon.com/s?ascsubtag=ecf-furnace-filter-size-guide&k=Standard+1"+pleated+filter+%28MERV+8%29&tag=errorcodefixes-20) | Regular replacement — most homes | $6–$15 each |
+| [Standard 1" pleated filter (MERV 11)](https://www.amazon.com/s?ascsubtag=ecf-furnace-filter-size-guide&k=Standard+1"+pleated+filter+%28MERV+11%29&tag=errorcodefixes-20) | Pets, mild allergies | $10–$20 each |
+| [4" media filter replacement](https://www.amazon.com/s?ascsubtag=ecf-furnace-filter-size-guide&k=4"+media+filter+replacement&tag=errorcodefixes-20) | For homes with a 4" filter cabinet | $20–$45 each |
+| [5" media filter replacement (AprilAire 213)](https://www.amazon.com/s?ascsubtag=ecf-furnace-filter-size-guide&k=5"+media+filter+replacement+%28AprilAire+213%29&tag=errorcodefixes-20) | AprilAire 2120/2210 cabinets | $25–$50 each |
+| [Filter cabinet (4" or 5")](https://www.amazon.com/s?ascsubtag=ecf-furnace-filter-size-guide&k=Filter+cabinet+%284"+or+5"%29&tag=errorcodefixes-20) | Upgrade from 1" to media filter system | $80–$200 installed |
 
 ---
 

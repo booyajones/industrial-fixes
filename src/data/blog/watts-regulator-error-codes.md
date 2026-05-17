@@ -16,16 +16,16 @@ tags:
 
 Watts Water Technologies manufactures pressure-reducing valves (PRV), backflow preventers, mixing valves, and electronic water monitoring devices. Most Watts mechanical devices do not display electronic error codes — instead, failure manifests as operational symptoms. Watts' electronic products (FloodSafe, iDROSS, IntelliFlow) do use indicator codes.
 
-| [Device](https://www.amazon.com/s?i=industrial&k=Device&tag=errorcodefixes-20) | Fault Indicator | Meaning | Quick Fix |
+| [Device](https://www.amazon.com/s?ascsubtag=ecf-watts-regulator-error-codes&k=Device&tag=errorcodefixes-20) | Fault Indicator | Meaning | Quick Fix |
 |--------|----------------|---------|-----------|
-| [Pressure Regulator (N55, LF25)](https://www.amazon.com/s?i=industrial&k=Pressure+Regulator+%28N55%2C+LF25%29&tag=errorcodefixes-20) | No display — symptom-based | See below | Adjust or replace regulator |
-| [Backflow Preventer](https://www.amazon.com/s?i=industrial&k=Backflow+Preventer&tag=errorcodefixes-20) | Flowing at relief | Check valve fouled or failed | Clean or replace check discs |
-| [Mixing Valve (LFMMV)](https://www.amazon.com/s?i=industrial&k=Mixing+Valve+%28LFMMV%29&tag=errorcodefixes-20) | Temp too high/low | Mixing element worn | Adjust cartridge; replace if worn |
-| [FloodSafe Auto-Shutoff](https://www.amazon.com/s?i=industrial&k=FloodSafe+Auto-Shutoff&tag=errorcodefixes-20) | LED red flashing | Flood/leak detected | Check for leak; reset after clearing |
-| [IntelliFlow](https://www.amazon.com/s?i=industrial&k=IntelliFlow&tag=errorcodefixes-20) | E1 | Flow detected with no demand | Check for leak downstream |
-| [IntelliFlow](https://www.amazon.com/s?i=industrial&k=IntelliFlow&tag=errorcodefixes-20) | E2 | Sensor fault | Clean sensor; replace if failed |
-| [iDROSS Electronic PRV](https://www.amazon.com/s?i=industrial&k=iDROSS+Electronic+PRV&tag=errorcodefixes-20) | F1 | Set point error | Reprogram set pressure |
-| [iDROSS Electronic PRV](https://www.amazon.com/s?i=industrial&k=iDROSS+Electronic+PRV&tag=errorcodefixes-20) | F2 | Actuator fault | Inspect motorized actuator |
+| [Pressure Regulator (N55, LF25)](https://www.amazon.com/s?ascsubtag=ecf-watts-regulator-error-codes&k=Pressure+Regulator+%28N55%2C+LF25%29&tag=errorcodefixes-20) | No display — symptom-based | See below | Adjust or replace regulator |
+| [Backflow Preventer](https://www.amazon.com/s?ascsubtag=ecf-watts-regulator-error-codes&k=Backflow+Preventer&tag=errorcodefixes-20) | Flowing at relief | Check valve fouled or failed | Clean or replace check discs |
+| [Mixing Valve (LFMMV)](https://www.amazon.com/s?ascsubtag=ecf-watts-regulator-error-codes&k=Mixing+Valve+%28LFMMV%29&tag=errorcodefixes-20) | Temp too high/low | Mixing element worn | Adjust cartridge; replace if worn |
+| [FloodSafe Auto-Shutoff](https://www.amazon.com/s?ascsubtag=ecf-watts-regulator-error-codes&k=FloodSafe+Auto-Shutoff&tag=errorcodefixes-20) | LED red flashing | Flood/leak detected | Check for leak; reset after clearing |
+| [IntelliFlow](https://www.amazon.com/s?ascsubtag=ecf-watts-regulator-error-codes&k=IntelliFlow&tag=errorcodefixes-20) | E1 | Flow detected with no demand | Check for leak downstream |
+| [IntelliFlow](https://www.amazon.com/s?ascsubtag=ecf-watts-regulator-error-codes&k=IntelliFlow&tag=errorcodefixes-20) | E2 | Sensor fault | Clean sensor; replace if failed |
+| [iDROSS Electronic PRV](https://www.amazon.com/s?ascsubtag=ecf-watts-regulator-error-codes&k=iDROSS+Electronic+PRV&tag=errorcodefixes-20) | F1 | Set point error | Reprogram set pressure |
+| [iDROSS Electronic PRV](https://www.amazon.com/s?ascsubtag=ecf-watts-regulator-error-codes&k=iDROSS+Electronic+PRV&tag=errorcodefixes-20) | F2 | Actuator fault | Inspect motorized actuator |
 
 ## Pressure Regulator (PRV) Failure Modes
 
@@ -54,10 +54,10 @@ Annual inspection and cleaning is required by most water utilities. Rebuild kits
 
 The Watts FloodSafe inline shutoff uses a cable-triggered valve that shuts water flow when a sensor detects moisture. It is common under sinks and near water heaters.
 
-| [LED State](https://www.amazon.com/s?i=industrial&k=LED+State&tag=errorcodefixes-20) | Meaning |
+| [LED State](https://www.amazon.com/s?ascsubtag=ecf-watts-regulator-error-codes&k=LED+State&tag=errorcodefixes-20) | Meaning |
 |-----------|---------|
-| [Green solid](https://www.amazon.com/s?i=industrial&k=Green+solid&tag=errorcodefixes-20) | Normal — valve open |
-| [Red flashing](https://www.amazon.com/s?i=industrial&k=Red+flashing&tag=errorcodefixes-20) | Flood sensor wet — valve closed |
+| [Green solid](https://www.amazon.com/s?ascsubtag=ecf-watts-regulator-error-codes&k=Green+solid&tag=errorcodefixes-20) | Normal — valve open |
+| [Red flashing](https://www.amazon.com/s?ascsubtag=ecf-watts-regulator-error-codes&k=Red+flashing&tag=errorcodefixes-20) | Flood sensor wet — valve closed |
 | Off | No power (battery dead or disconnected) |
 
 **Reset after FloodSafe trips:** Find and fix the leak, dry the sensor completely, then press the reset button on the sensor module. The valve will reopen.

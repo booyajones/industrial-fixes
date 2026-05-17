@@ -37,9 +37,9 @@ Rinnai error code 61 indicates a **combustion fan (inducer) fault** — the unit
 
 | Part | Notes |
 |------|-------|
-| Combustion fan assembly | [Amazon](https://www.amazon.com/s?i=industrial&k=Combustion+fan+assembly&tag=errorcodefixes-20) \| Rinnai model-specific; do not substitute — RPM and CFM specs must match |
-| Hall sensor (if separate) | [Amazon](https://www.amazon.com/s?i=industrial&k=Hall+sensor+%28if+separate%29&tag=errorcodefixes-20) \| On some models the Hall sensor is replaceable independent of the motor |
-| PCB (main control board) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Only if fan supply voltage is confirmed absent at the board output |
+| Combustion fan assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-error-code-61&k=Combustion+fan+assembly&tag=errorcodefixes-20) \| Rinnai model-specific; do not substitute — RPM and CFM specs must match |
+| Hall sensor (if separate) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-error-code-61&k=Hall+sensor+%28if+separate%29&tag=errorcodefixes-20) \| On some models the Hall sensor is replaceable independent of the motor |
+| PCB (main control board) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-rinnai-error-code-61&tag=errorcodefixes-20) \| Only if fan supply voltage is confirmed absent at the board output |
 ## When to Call a Pro
 
 Combustion fan replacement on Rinnai units requires working near the gas valve and burner assembly. If you're not comfortable with gas appliance service, have a Rinnai-certified technician handle the repair. Always verify gas is off before opening the combustion chamber.

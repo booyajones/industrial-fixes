@@ -130,12 +130,12 @@ This fault indicates the inverter is limiting compressor current due to excessiv
 
 | Part | Use | Link |
 |---|---|---|
-| Dual Run Capacitor (45+5 µF, 440V) | Fan motor start fault (Code 9) | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) |
-| 2-Pole 30A HVAC Contactor | Low voltage from pitted contacts | [View on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) |
-| Outdoor Coil Temperature Sensor | Codes 4/16, ComfortLink 182/198 | [View on Amazon](https://www.amazon.com/s?i=industrial&k=trane+outdoor+coil+sensor+thermistor&tag=errorcodefixes-20) |
-| Reversing Valve Solenoid Coil | Code 8, ComfortLink 191 | [View on Amazon](https://www.amazon.com/s?i=industrial&k=reversing+valve+solenoid+24v+coil&tag=errorcodefixes-20) |
-| Condenser Fan Motor (1/4 HP, 230V) | Code 9 fan motor replacement | [View on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) |
-| 18/2 ComfortLink Communication Wire | Code 10 communication faults | [View on Amazon](https://www.amazon.com/s?i=industrial&k=hvac+thermostat+wire+18+gauge+2+conductor&tag=errorcodefixes-20) |
+| Dual Run Capacitor (45+5 µF, 440V) | Fan motor start fault (Code 9) | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-trane-xv15i-error-codes&tag=errorcodefixes-20) |
+| 2-Pole 30A HVAC Contactor | Low voltage from pitted contacts | [View on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-trane-xv15i-error-codes&tag=errorcodefixes-20) |
+| Outdoor Coil Temperature Sensor | Codes 4/16, ComfortLink 182/198 | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-xv15i-error-codes&k=trane+outdoor+coil+sensor+thermistor&tag=errorcodefixes-20) |
+| Reversing Valve Solenoid Coil | Code 8, ComfortLink 191 | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-xv15i-error-codes&k=reversing+valve+solenoid+24v+coil&tag=errorcodefixes-20) |
+| Condenser Fan Motor (1/4 HP, 230V) | Code 9 fan motor replacement | [View on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-trane-xv15i-error-codes&tag=errorcodefixes-20) |
+| 18/2 ComfortLink Communication Wire | Code 10 communication faults | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-xv15i-error-codes&k=hvac+thermostat+wire+18+gauge+2+conductor&tag=errorcodefixes-20) |
 
 ## When to Call a Pro
 

@@ -36,8 +36,8 @@ OBF (Motor Overload Fault) on a Schneider Altivar drive (ATV12, ATV320, ATV630) 
 
 | Part | Notes |
 |------|-------|
-| Replacement motor | [Amazon](https://www.amazon.com/s?i=industrial&k=Replacement+motor&tag=errorcodefixes-20) \| If windings are confirmed overheated (insulation resistance test) |
-| System components (impeller, filter) | [Amazon](https://www.amazon.com/s?i=industrial&k=System+components+%28impeller%2C+filter%29&tag=errorcodefixes-20) \| If overload is caused by blocked system elements |
+| Replacement motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-schneider-altivar-fault-obf&k=Replacement+motor&tag=errorcodefixes-20) \| If windings are confirmed overheated (insulation resistance test) |
+| System components (impeller, filter) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-schneider-altivar-fault-obf&k=System+components+%28impeller%2C+filter%29&tag=errorcodefixes-20) \| If overload is caused by blocked system elements |
 ## When to Call a Pro
 
 If OBF trips persist with the motor drawing current at or below nameplate FLA, the Altivar thermal model parameters need to be reviewed and configured by a Schneider-authorized technician to match the motor's thermal class and duty cycle.

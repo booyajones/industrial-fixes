@@ -39,10 +39,10 @@ A "soft lockout" means the board will retry after a wait period (usually 1 hour)
 
 | Part | Notes |
 |------|-------|
-| Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) \| Brand-specific; check model label for Carrier part number |
-| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| 0.60" or 0.80" WC setpoint depending on model |
-| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| 3/8" ID rubber vacuum hose, ~6–12" length |
-| Inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| LH680016 or similar — match by model number |
+| Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-carrier-54-error-code&tag=errorcodefixes-20) \| Brand-specific; check model label for Carrier part number |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-54-error-code&tag=errorcodefixes-20) \| 0.60" or 0.80" WC setpoint depending on model |
+| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?ascsubtag=ecf-carrier-54-error-code&tag=errorcodefixes-20) \| 3/8" ID rubber vacuum hose, ~6–12" length |
+| Inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-carrier-54-error-code&tag=errorcodefixes-20) \| LH680016 or similar — match by model number |
 ## When to Call a Pro
 If the trap is clear, hose is intact, and the pressure switch tests good but code 54 still appears, you likely have a failing inducer motor or a secondary heat exchanger that's partially plugged. Both require tools and expertise beyond basic DIY — contact an HVAC technician.
 

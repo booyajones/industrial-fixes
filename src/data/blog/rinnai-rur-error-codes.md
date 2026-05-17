@@ -64,12 +64,12 @@ The Rinnai RUR series (RUR160iN, RUR199iN, RUR160eN, RUR199eN) are condensing ta
 
 | Part | Notes |
 |------|-------|
-| Thermal fuse | [Amazon](https://www.amazon.com/s?i=industrial&k=Thermal+fuse&tag=errorcodefixes-20) \| One-time device; investigate cause before replacing |
-| Combustion fan assembly | [Amazon](https://www.amazon.com/s?i=industrial&k=Combustion+fan+assembly&tag=errorcodefixes-20) \| For Code 61; includes wheel |
-| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| For Code 71 with confirmed 24V signal |
-| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| For Code 72; clean first |
-| Condensate drain trap | [Amazon](https://www.amazon.com/s?i=industrial&k=Condensate+drain+trap&tag=errorcodefixes-20) \| Check for blockage or replace if cracked |
-| Remote controller (MC-91-2) | [Amazon](https://www.amazon.com/s?i=industrial&k=Remote+controller+%28MC-91-2%29&tag=errorcodefixes-20) \| If display is faulty or communication fails |
+| Thermal fuse | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-rur-error-codes&k=Thermal+fuse&tag=errorcodefixes-20) \| One-time device; investigate cause before replacing |
+| Combustion fan assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-rur-error-codes&k=Combustion+fan+assembly&tag=errorcodefixes-20) \| For Code 61; includes wheel |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-rinnai-rur-error-codes&tag=errorcodefixes-20) \| For Code 71 with confirmed 24V signal |
+| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-rinnai-rur-error-codes&tag=errorcodefixes-20) \| For Code 72; clean first |
+| Condensate drain trap | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-rur-error-codes&k=Condensate+drain+trap&tag=errorcodefixes-20) \| Check for blockage or replace if cracked |
+| Remote controller (MC-91-2) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-rur-error-codes&k=Remote+controller+%28MC-91-2%29&tag=errorcodefixes-20) \| If display is faulty or communication fails |
 ## When to Call a Pro
 
 Thermal fuse replacement and gas valve diagnosis require licensed plumbing and/or gas technicians in most jurisdictions. If Code 14 has tripped, do not simply replace the fuse and restart — the underlying cause (heat exchanger scale, blocked flue) must be corrected. Contact Rinnai technical support (1-800-621-9419) for warranty assistance.

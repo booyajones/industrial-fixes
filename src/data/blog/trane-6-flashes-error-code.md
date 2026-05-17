@@ -36,9 +36,9 @@ Six LED flashes on a Trane furnace control board indicates the rollout switch ha
 
 | Part | Notes |
 |------|-------|
-| Rollout switch (manual reset) | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Match the correct temperature rating for your model |
-| Induced draft motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Replace if running slow, noisy, or failing to start |
-| Flue vent pipe section | [Amazon](https://www.amazon.com/s?i=industrial&k=Flue+vent+pipe+section&tag=errorcodefixes-20) \| Replace collapsed or damaged vent segments |
+| Rollout switch (manual reset) | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-trane-6-flashes-error-code&tag=errorcodefixes-20) \| Match the correct temperature rating for your model |
+| Induced draft motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-trane-6-flashes-error-code&tag=errorcodefixes-20) \| Replace if running slow, noisy, or failing to start |
+| Flue vent pipe section | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-6-flashes-error-code&k=Flue+vent+pipe+section&tag=errorcodefixes-20) \| Replace collapsed or damaged vent segments |
 ## When to Call a Pro
 
 A tripped rollout switch that cannot be attributed to a blocked flue is a strong indicator of a cracked heat exchanger — a condition that poses carbon monoxide risk. Do not operate the furnace until a licensed technician performs a full heat exchanger inspection.

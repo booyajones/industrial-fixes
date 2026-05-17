@@ -36,9 +36,9 @@ Error Code 9 on a Manitowoc ice machine indicates a refrigerant system fault —
 
 | Part | Notes |
 |------|-------|
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Replace if not running with compressor on |
-| High pressure cutout switch | [Amazon](https://www.amazon.com/s?i=industrial&k=High+pressure+cutout+switch&tag=errorcodefixes-20) \| Replace if it trips at normal pressure |
-| Condenser coil cleaner | [Amazon](https://www.amazon.com/s?i=industrial&k=Condenser+coil+cleaner&tag=errorcodefixes-20) \| Use after every cleaning cycle in kitchen environments |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-manitowoc-ice-machine-error-code-9&tag=errorcodefixes-20) \| Replace if not running with compressor on |
+| High pressure cutout switch | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-manitowoc-ice-machine-error-code-9&k=High+pressure+cutout+switch&tag=errorcodefixes-20) \| Replace if it trips at normal pressure |
+| Condenser coil cleaner | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-manitowoc-ice-machine-error-code-9&k=Condenser+coil+cleaner&tag=errorcodefixes-20) \| Use after every cleaning cycle in kitchen environments |
 ## When to Call a Pro
 
 Refrigerant overcharge correction and high pressure cutout replacement on the sealed system requires EPA 608 certification. If cleaning and fan repair don't resolve Code 9, a certified tech should check refrigerant charge.

@@ -38,10 +38,10 @@ Three LED flashes on an American Standard furnace indicates a pressure switch fa
 
 | Part | Notes |
 |------|-------|
-| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match to furnace model; verify opening/closing pressure setpoint |
-| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| Replace cracked or collapsed hose; typically 5/16" ID rubber tubing |
-| Condensate drain trap | [Amazon](https://www.amazon.com/s?i=industrial&k=Condensate+drain+trap&tag=errorcodefixes-20) \| Replace if cracked or clogged beyond cleaning |
-| Draft inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Replace if motor bearings are failing or wheel is corroded |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-american-standard-furnace-3-flash&tag=errorcodefixes-20) \| Match to furnace model; verify opening/closing pressure setpoint |
+| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?ascsubtag=ecf-american-standard-furnace-3-flash&tag=errorcodefixes-20) \| Replace cracked or collapsed hose; typically 5/16" ID rubber tubing |
+| Condensate drain trap | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-american-standard-furnace-3-flash&k=Condensate+drain+trap&tag=errorcodefixes-20) \| Replace if cracked or clogged beyond cleaning |
+| Draft inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-american-standard-furnace-3-flash&tag=errorcodefixes-20) \| Replace if motor bearings are failing or wheel is corroded |
 ## When to Call a Pro
 
 If the inducer is producing correct pressure but the fault persists, or if you suspect a cracked heat exchanger is allowing flue gases to affect inducer suction, call a certified HVAC technician. A cracked heat exchanger is a carbon monoxide risk that requires professional diagnosis.

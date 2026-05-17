@@ -36,9 +36,9 @@ Carrier **error code 58** indicates a **flame sense fault** — the flame sensor
 
 | Part | Notes |
 |------|-------|
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Replace when cleaning doesn't restore a reliable signal |
-| Flame sensor wire/harness | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Replace if insulation is damaged |
-| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Replace if unstable flame is confirmed to be from valve pressure variation |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-carrier-58-error-code&tag=errorcodefixes-20) \| Replace when cleaning doesn't restore a reliable signal |
+| Flame sensor wire/harness | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-carrier-58-error-code&tag=errorcodefixes-20) \| Replace if insulation is damaged |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-carrier-58-error-code&tag=errorcodefixes-20) \| Replace if unstable flame is confirmed to be from valve pressure variation |
 ## When to Call a Pro
 
 Code 58 from a cracked heat exchanger is a carbon monoxide hazard. If the flame sensor and gas supply both check out but code 58 persists, have a licensed HVAC tech perform a heat exchanger inspection before operating the furnace further.

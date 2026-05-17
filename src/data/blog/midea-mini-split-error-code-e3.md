@@ -38,9 +38,9 @@ E3 on a Midea mini split signals a communication error between the indoor evapor
 
 | Part | Notes |
 |------|-------|
-| S-wire / communication wire | [Amazon](https://www.amazon.com/s?i=industrial&k=S-wire+%2F+communication+wire&tag=errorcodefixes-20) \| 18 AWG, 2–3 conductor; length to match the run |
-| Outdoor control PCB | [Amazon](https://www.amazon.com/s?i=industrial&k=Outdoor+control+PCB&tag=errorcodefixes-20) \| Match Midea model number |
-| Indoor control PCB | [Amazon](https://www.amazon.com/s?i=industrial&k=Indoor+control+PCB&tag=errorcodefixes-20) \| Replace if outdoor board swap does not resolve the fault |
+| S-wire / communication wire | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-midea-mini-split-error-code-e3&k=S-wire+%2F+communication+wire&tag=errorcodefixes-20) \| 18 AWG, 2–3 conductor; length to match the run |
+| Outdoor control PCB | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-midea-mini-split-error-code-e3&k=Outdoor+control+PCB&tag=errorcodefixes-20) \| Match Midea model number |
+| Indoor control PCB | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-midea-mini-split-error-code-e3&k=Indoor+control+PCB&tag=errorcodefixes-20) \| Replace if outdoor board swap does not resolve the fault |
 ## When to Call a Pro
 
 If the line set wiring is enclosed in conduit or runs through multiple stories of a building, an HVAC technician with mini-split certification can trace and replace the communication wire without damaging the refrigerant lines.

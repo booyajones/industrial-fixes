@@ -50,9 +50,9 @@ Indicates the internal calibration reference has failed. This is usually caused 
 
 | Part | Notes |
 |------|-------|
-| Fuse 11A/600V | [Amazon](https://www.amazon.com/s?i=industrial&k=Fuse+11A%2F600V&tag=errorcodefixes-20) \| Fluke PN 943260 — use only Fluke fuses |
-| Fuse 440mA/1000V | [Amazon](https://www.amazon.com/s?i=industrial&k=Fuse+440mA%2F1000V&tag=errorcodefixes-20) \| Fluke PN 943261 |
-| AA batteries | [Amazon](https://www.amazon.com/s?i=industrial&k=AA+batteries&tag=errorcodefixes-20) \| Alkaline — 6x AA |
-| Test leads | [Amazon](https://www.amazon.com/s?i=industrial&k=Test+leads&tag=errorcodefixes-20) \| Fluke TL175 or TL80A |
-| Type K thermocouple | [Amazon](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) \| 80BK-A for HVAC temperature measurements |
+| Fuse 11A/600V | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fluke-289-error-codes&k=Fuse+11A%2F600V&tag=errorcodefixes-20) \| Fluke PN 943260 — use only Fluke fuses |
+| Fuse 440mA/1000V | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fluke-289-error-codes&k=Fuse+440mA%2F1000V&tag=errorcodefixes-20) \| Fluke PN 943261 |
+| AA batteries | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fluke-289-error-codes&k=AA+batteries&tag=errorcodefixes-20) \| Alkaline — 6x AA |
+| Test leads | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fluke-289-error-codes&k=Test+leads&tag=errorcodefixes-20) \| Fluke TL175 or TL80A |
+| Type K thermocouple | [Amazon](https://www.amazon.com/dp/B00RJF4PYQ?ascsubtag=ecf-fluke-289-error-codes&tag=errorcodefixes-20) \| 80BK-A for HVAC temperature measurements |
 > **Pro tip:** Fluke 289 has memory logging capability — up to 15,000 time-stamped readings. When troubleshooting intermittent faults, set up logging mode (MIN/MAX/AVG or Event Log) before leaving the site to capture conditions that occur after hours.

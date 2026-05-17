@@ -48,9 +48,9 @@ After replacement, restore power and observe the blower operation through a full
 
 | Part | Where to Buy |
 |------|-------------|
-| [ECM motor module (match part number)](https://www.amazon.com/s?i=industrial&k=ECM+motor+module+%28match+part+number%29&tag=errorcodefixes-20) | RepairClinic, Grainger |
-| [ECM blower motor assembly](https://www.amazon.com/s?i=industrial&k=ECM+blower+motor+assembly&tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
-| [Motor control board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | SupplyHouse, Grainger |
+| [ECM motor module (match part number)](https://www.amazon.com/s?ascsubtag=ecf-carrier-41-error-code&k=ECM+motor+module+%28match+part+number%29&tag=errorcodefixes-20) | RepairClinic, Grainger |
+| [ECM blower motor assembly](https://www.amazon.com/s?ascsubtag=ecf-carrier-41-error-code&k=ECM+blower+motor+assembly&tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
+| [Motor control board](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-carrier-41-error-code&tag=errorcodefixes-20) | SupplyHouse, Grainger |
 
 ## When to Call a Technician
 

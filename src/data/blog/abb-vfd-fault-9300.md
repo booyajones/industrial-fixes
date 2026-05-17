@@ -37,8 +37,8 @@ ABB fault 9300 is a **cooling fan fault** — the drive's internal cooling fan (
 
 | Part | Notes |
 |------|-------|
-| Internal cooling fan | [Amazon](https://www.amazon.com/s?i=industrial&k=Internal+cooling+fan&tag=errorcodefixes-20) \| ABB frame-size-specific; order by drive model number and frame size |
-| Fan power supply (internal PSU) | [Amazon](https://www.amazon.com/s?i=industrial&k=Fan+power+supply+%28internal+PSU%29&tag=errorcodefixes-20) \| If fan supply voltage is absent |
+| Internal cooling fan | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-abb-vfd-fault-9300&k=Internal+cooling+fan&tag=errorcodefixes-20) \| ABB frame-size-specific; order by drive model number and frame size |
+| Fan power supply (internal PSU) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-abb-vfd-fault-9300&k=Fan+power+supply+%28internal+PSU%29&tag=errorcodefixes-20) \| If fan supply voltage is absent |
 ## When to Call a Pro
 
 If the fan is clean, supply voltage is present, and the fault persists, the control board's fan feedback input may be damaged. ABB drives can often be diagnosed remotely via the ABB DriveWindow or DDCS communication; contact ABB service or a certified integrator for advanced diagnostics.

@@ -136,10 +136,10 @@ This guide covers the five most common PowerFlex 755 fault codes and what to do 
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|-------------|
-| PowerFlex 755 Cooling Fan Kit | $150–$400 | [Amazon](https://www.amazon.com/s?i=industrial&k=PowerFlex+755+cooling+fan+kit+20-750-PFAN&tag=errorcodefixes-20) |
-| Dynamic Braking Resistor (external) | $200–$800 | [Amazon](https://www.amazon.com/s?i=industrial&k=allen+bradley+powerflex+dynamic+braking+resistor&tag=errorcodefixes-20) |
-| Motor Megohmmeter / Insulation Tester | $80–$300 | [Amazon](https://www.amazon.com/s?i=industrial&k=motor+insulation+tester+megohmmeter+1000v&tag=errorcodefixes-20) |
-| True-RMS Clamp Meter | $60–$200 | [Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) |
+| PowerFlex 755 Cooling Fan Kit | $150–$400 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-755-fault-codes&k=PowerFlex+755+cooling+fan+kit+20-750-PFAN&tag=errorcodefixes-20) |
+| Dynamic Braking Resistor (external) | $200–$800 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-755-fault-codes&k=allen+bradley+powerflex+dynamic+braking+resistor&tag=errorcodefixes-20) |
+| Motor Megohmmeter / Insulation Tester | $80–$300 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-755-fault-codes&k=motor+insulation+tester+megohmmeter+1000v&tag=errorcodefixes-20) |
+| True-RMS Clamp Meter | $60–$200 | [Amazon](https://www.amazon.com/dp/B08ZJSN5X3?ascsubtag=ecf-allen-bradley-powerflex-755-fault-codes&tag=errorcodefixes-20) |
 
 ---
 

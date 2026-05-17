@@ -38,10 +38,10 @@ E03 on a Weil-McLain boiler indicates ignition failure — specifically, the boi
 
 | Part | Notes |
 |------|-------|
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| OEM or compatible; clean before replacing |
-| Spark electrode / igniter | [Amazon](https://www.amazon.com/s?i=industrial&k=Spark+electrode+%2F+igniter&tag=errorcodefixes-20) \| Check gap and insulator; replace if cracked |
-| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Replace only after pressure and wiring checks confirm valve failure |
-| Boiler control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace if ignition sequence is correct but board still faults |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-weil-mclain-e03-error-code&tag=errorcodefixes-20) \| OEM or compatible; clean before replacing |
+| Spark electrode / igniter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-weil-mclain-e03-error-code&k=Spark+electrode+%2F+igniter&tag=errorcodefixes-20) \| Check gap and insulator; replace if cracked |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-weil-mclain-e03-error-code&tag=errorcodefixes-20) \| Replace only after pressure and wiring checks confirm valve failure |
+| Boiler control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-weil-mclain-e03-error-code&tag=errorcodefixes-20) \| Replace if ignition sequence is correct but board still faults |
 ## When to Call a Pro
 
 Gas supply issues, gas valve replacement, and combustion analysis require a licensed technician. Do not continue resetting a boiler that locks out repeatedly without identifying the root cause — accumulated gas is a serious hazard.

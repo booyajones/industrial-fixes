@@ -47,11 +47,11 @@ Most Festo valve terminal faults that appear as electrical are actually pneumati
 
 | Part | Notes |
 |------|-------|
-| Valve coil (MFH/MEBH) | [Amazon](https://www.amazon.com/s?i=industrial&k=Valve+coil+%28MFH%2FMEBH%29&tag=errorcodefixes-20) \| Replace on short circuit |
-| CPX module | [Amazon](https://www.amazon.com/s?i=industrial&k=CPX+module&tag=errorcodefixes-20) \| Replace on persistent CPU fault |
-| Encoder cable (CMMT) | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+cable+%28CMMT%29&tag=errorcodefixes-20) \| Common EMI/damage point |
-| Pressure regulator (LFR series) | [Amazon](https://www.amazon.com/s?i=industrial&k=Pressure+regulator+%28LFR+series%29&tag=errorcodefixes-20) \| Replace when flow drops |
-| Filter element | [Amazon](https://www.amazon.com/s?i=industrial&k=Filter+element&tag=errorcodefixes-20) \| Replace per maintenance schedule |
+| Valve coil (MFH/MEBH) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-festo-fault-codes&k=Valve+coil+%28MFH%2FMEBH%29&tag=errorcodefixes-20) \| Replace on short circuit |
+| CPX module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-festo-fault-codes&k=CPX+module&tag=errorcodefixes-20) \| Replace on persistent CPU fault |
+| Encoder cable (CMMT) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-festo-fault-codes&k=Encoder+cable+%28CMMT%29&tag=errorcodefixes-20) \| Common EMI/damage point |
+| Pressure regulator (LFR series) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-festo-fault-codes&k=Pressure+regulator+%28LFR+series%29&tag=errorcodefixes-20) \| Replace when flow drops |
+| Filter element | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-festo-fault-codes&k=Filter+element&tag=errorcodefixes-20) \| Replace per maintenance schedule |
 ## When to Call a Pro
 Festo CMMT servo drive parameter issues and CPX configuration mismatches often require the Festo Automation Suite connected via USB or Ethernet. If fault logs don't give a clear cause, Festo's technical support line can pull logs remotely.
 

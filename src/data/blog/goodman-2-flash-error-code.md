@@ -36,9 +36,9 @@ Two flashes on a Goodman furnace LED means system lockout — the furnace contro
 
 | Part | Notes |
 |------|-------|
-| Hot surface igniter (Goodman B1401015S) | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Common Goodman igniter; verify part number for your model |
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Universal silicon nitride sensor fits most Goodman units |
-| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Check water column rating on the old switch before ordering |
+| Hot surface igniter (Goodman B1401015S) | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-goodman-2-flash-error-code&tag=errorcodefixes-20) \| Common Goodman igniter; verify part number for your model |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-goodman-2-flash-error-code&tag=errorcodefixes-20) \| Universal silicon nitride sensor fits most Goodman units |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-goodman-2-flash-error-code&tag=errorcodefixes-20) \| Check water column rating on the old switch before ordering |
 ## When to Call a Pro
 
 If the igniter tests good, flame sensor is clean, and draft system checks out, but lockout keeps returning, a combustion analysis and gas valve test requires a licensed tech with the right instruments.

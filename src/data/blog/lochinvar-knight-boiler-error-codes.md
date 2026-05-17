@@ -75,7 +75,7 @@ This guide covers the most common Knight boiler display messages and how to reso
 5. Replace the pressure switch if it fails to actuate at its rated setpoint.
 
 **Parts:**
-- [Lochinvar Knight Air Pressure Switch Replacement](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20)
+- [Lochinvar Knight Air Pressure Switch Replacement](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-lochinvar-knight-boiler-error-codes&tag=errorcodefixes-20)
 
 ---
 
@@ -98,7 +98,7 @@ This guide covers the most common Knight boiler display messages and how to reso
 5. Fan motor replacement is a moderate repair. The motor is mounted inside the boiler cabinet and accessible after removing the front cover. Replacement motors are available from Lochinvar parts distributors.
 
 **Parts:**
-- [Lochinvar Knight Combustion Fan Motor](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20)
+- [Lochinvar Knight Combustion Fan Motor](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-lochinvar-knight-boiler-error-codes&tag=errorcodefixes-20)
 
 ---
 
@@ -141,7 +141,7 @@ This guide covers the most common Knight boiler display messages and how to reso
 4. Control board replacement is typically required for a genuine Fatal Error. The IQ boiler control board is a field-replaceable part.
 
 **Parts:**
-- [Lochinvar Knight IQ Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20)
+- [Lochinvar Knight IQ Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-lochinvar-knight-boiler-error-codes&tag=errorcodefixes-20)
 
 ---
 
@@ -149,11 +149,11 @@ This guide covers the most common Knight boiler display messages and how to reso
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|-------------|
-| Igniter / Flame Sensor Electrode | $35–$70 | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) |
-| Air Pressure Switch | $25–$55 | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) |
-| Combustion Fan / Inducer Motor | $180–$350 | [Amazon](https://www.amazon.com/s?i=industrial&k=Lochinvar+Knight+inducer+blower+motor&tag=errorcodefixes-20) |
-| IQ Control Board | $400–$700 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) |
-| Condensate Trap Kit | $20–$40 | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) |
+| Igniter / Flame Sensor Electrode | $35–$70 | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-lochinvar-knight-boiler-error-codes&tag=errorcodefixes-20) |
+| Air Pressure Switch | $25–$55 | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-lochinvar-knight-boiler-error-codes&tag=errorcodefixes-20) |
+| Combustion Fan / Inducer Motor | $180–$350 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lochinvar-knight-boiler-error-codes&k=Lochinvar+Knight+inducer+blower+motor&tag=errorcodefixes-20) |
+| IQ Control Board | $400–$700 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-lochinvar-knight-boiler-error-codes&tag=errorcodefixes-20) |
+| Condensate Trap Kit | $20–$40 | [Amazon](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-lochinvar-knight-boiler-error-codes&tag=errorcodefixes-20) |
 
 ---
 

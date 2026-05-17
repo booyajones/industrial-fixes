@@ -369,6 +369,6 @@ For the fault signal assistant and detailed menu descriptions, visit: wilo.com a
 
 Find replacement parts for Wilo pumps on Amazon:
 
-- [Wilo Pump Replacement Parts](https://www.amazon.com/s?i=industrial&k=Wilo+pump+replacement+parts&tag=errorcodefixes-20)
-- [Wilo Circulator Pump Seal & Gasket Kit](https://www.amazon.com/s?i=industrial&k=Wilo+circulator+pump+seal+gasket&tag=errorcodefixes-20)
-- [Wilo Pump Control Module Replacement](https://www.amazon.com/s?i=industrial&k=Wilo+pump+control+module+replacement&tag=errorcodefixes-20)
+- [Wilo Pump Replacement Parts](https://www.amazon.com/s?ascsubtag=ecf-wilo-pump-fault-codes&k=Wilo+pump+replacement+parts&tag=errorcodefixes-20)
+- [Wilo Circulator Pump Seal & Gasket Kit](https://www.amazon.com/s?ascsubtag=ecf-wilo-pump-fault-codes&k=Wilo+circulator+pump+seal+gasket&tag=errorcodefixes-20)
+- [Wilo Pump Control Module Replacement](https://www.amazon.com/s?ascsubtag=ecf-wilo-pump-fault-codes&k=Wilo+pump+control+module+replacement&tag=errorcodefixes-20)

@@ -36,9 +36,9 @@ Haas alarm 106 is a servo fault indicating the servo drive board detected an err
 
 | Part | Notes |
 |------|-------|
-| Haas servo drive board | [Amazon](https://www.amazon.com/s?i=industrial&k=Haas+servo+drive+board&tag=errorcodefixes-20) \| Order by machine serial number from Haas Factory Outlet (HFO) |
-| Servo motor (axis-specific) | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+motor+%28axis-specific%29&tag=errorcodefixes-20) \| Replace if motor winding is confirmed damaged |
-| Motor cable harness | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+cable+harness&tag=errorcodefixes-20) \| Replace if insulation damage or connector corrosion found |
+| Haas servo drive board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-106&k=Haas+servo+drive+board&tag=errorcodefixes-20) \| Order by machine serial number from Haas Factory Outlet (HFO) |
+| Servo motor (axis-specific) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-106&k=Servo+motor+%28axis-specific%29&tag=errorcodefixes-20) \| Replace if motor winding is confirmed damaged |
+| Motor cable harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-106&k=Motor+cable+harness&tag=errorcodefixes-20) \| Replace if insulation damage or connector corrosion found |
 ## When to Call a Pro
 
 If the mechanical axis is clear, the motor cable is intact, and the drive board has no visible damage but alarm 106 persists or returns immediately, contact Haas Factory Outlet (HFO) tech support. They can walk through servo diagnostics over the phone or dispatch a service engineer.

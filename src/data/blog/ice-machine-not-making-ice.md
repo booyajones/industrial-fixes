@@ -59,12 +59,12 @@ This guide covers the universal checks that work regardless of brand. Start with
 
 ## Parts You May Need
 
-- [Ice machine water inlet valve assembly](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20)
-- [Ice machine condenser coil cleaning solution](https://www.amazon.com/s?i=industrial&k=ice+machine+condenser+coil+cleaner&tag=errorcodefixes-20)
-- [Ice machine water pump replacement](https://www.amazon.com/s?i=industrial&k=ice+machine+water+pump+replacement&tag=errorcodefixes-20)
-- [Ice machine bin thermostat](https://www.amazon.com/s?i=industrial&k=ice+machine+bin+thermostat&tag=errorcodefixes-20)
-- [Inlet water screen filter](https://www.amazon.com/s?i=industrial&k=ice+machine+water+inlet+screen+filter&tag=errorcodefixes-20)
-- [Ice machine cleaner and descaler](https://www.amazon.com/s?i=industrial&k=ice+machine+cleaner+descaler&tag=errorcodefixes-20)
+- [Ice machine water inlet valve assembly](https://www.amazon.com/dp/B0CNFHW1ZJ?ascsubtag=ecf-ice-machine-not-making-ice&tag=errorcodefixes-20)
+- [Ice machine condenser coil cleaning solution](https://www.amazon.com/s?ascsubtag=ecf-ice-machine-not-making-ice&k=ice+machine+condenser+coil+cleaner&tag=errorcodefixes-20)
+- [Ice machine water pump replacement](https://www.amazon.com/s?ascsubtag=ecf-ice-machine-not-making-ice&k=ice+machine+water+pump+replacement&tag=errorcodefixes-20)
+- [Ice machine bin thermostat](https://www.amazon.com/s?ascsubtag=ecf-ice-machine-not-making-ice&k=ice+machine+bin+thermostat&tag=errorcodefixes-20)
+- [Inlet water screen filter](https://www.amazon.com/s?ascsubtag=ecf-ice-machine-not-making-ice&k=ice+machine+water+inlet+screen+filter&tag=errorcodefixes-20)
+- [Ice machine cleaner and descaler](https://www.amazon.com/s?ascsubtag=ecf-ice-machine-not-making-ice&k=ice+machine+cleaner+descaler&tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

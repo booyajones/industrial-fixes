@@ -131,13 +131,13 @@ The unit detects water pressure below the minimum threshold (about 15 PSI). The 
 
 | Part | What It Fixes | Amazon Link |
 |------|--------------|-------------|
-| Navien NPE Flame Sensor Rod | E001 / E003 ignition/flame issues | [View on Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) |
-| Navien Igniter Electrode Assembly | E001 ignition failure | [View on Amazon](https://www.amazon.com/s?i=industrial&k=navien+npe+igniter+electrode+assembly&tag=errorcodefixes-20) |
-| NTC Inlet/Outlet Thermistor (Navien) | E021 / E022 thermistor faults | [View on Amazon](https://www.amazon.com/s?i=industrial&k=navien+npe+thermistor+inlet+outlet&tag=errorcodefixes-20) |
-| Tankless Descaling Kit with Pump | E046 scale sensor alert | [View on Amazon](https://www.amazon.com/s?i=industrial&k=tankless+water+heater+descaler+pump+kit&tag=errorcodefixes-20) |
-| Calci-Free Descaling Solution | E046 scale buildup | [View on Amazon](https://www.amazon.com/s?i=industrial&k=calci-free+descaling+solution+tankless&tag=errorcodefixes-20) |
-| Scale Inhibitor Cartridge (Polyphosphate) | Prevent recurring E046 | [View on Amazon](https://www.amazon.com/s?i=industrial&k=polyphosphate+scale+inhibitor+tankless+water+heater&tag=errorcodefixes-20) |
-| Navien Condensing Tankless Air Pressure Switch | E010 pressure switch fault | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) |
+| Navien NPE Flame Sensor Rod | E001 / E003 ignition/flame issues | [View on Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-navien-npe-240s-error-codes&tag=errorcodefixes-20) |
+| Navien Igniter Electrode Assembly | E001 ignition failure | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-npe-240s-error-codes&k=navien+npe+igniter+electrode+assembly&tag=errorcodefixes-20) |
+| NTC Inlet/Outlet Thermistor (Navien) | E021 / E022 thermistor faults | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-npe-240s-error-codes&k=navien+npe+thermistor+inlet+outlet&tag=errorcodefixes-20) |
+| Tankless Descaling Kit with Pump | E046 scale sensor alert | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-npe-240s-error-codes&k=tankless+water+heater+descaler+pump+kit&tag=errorcodefixes-20) |
+| Calci-Free Descaling Solution | E046 scale buildup | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-npe-240s-error-codes&k=calci-free+descaling+solution+tankless&tag=errorcodefixes-20) |
+| Scale Inhibitor Cartridge (Polyphosphate) | Prevent recurring E046 | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-npe-240s-error-codes&k=polyphosphate+scale+inhibitor+tankless+water+heater&tag=errorcodefixes-20) |
+| Navien Condensing Tankless Air Pressure Switch | E010 pressure switch fault | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-navien-npe-240s-error-codes&tag=errorcodefixes-20) |
 
 ---
 

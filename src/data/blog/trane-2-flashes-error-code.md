@@ -36,9 +36,9 @@ Two flashes on a Trane furnace LED indicates a system lockout — the furnace tr
 
 | Part | Notes |
 |------|-------|
-| Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Match OEM part number; aftermarket igniters often have shorter lifespans |
-| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Universal fit in most cases; costs under $15 |
-| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Test with manometer; replace if diaphragm is torn |
+| Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-trane-2-flashes-error-code&tag=errorcodefixes-20) \| Match OEM part number; aftermarket igniters often have shorter lifespans |
+| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-trane-2-flashes-error-code&tag=errorcodefixes-20) \| Universal fit in most cases; costs under $15 |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-trane-2-flashes-error-code&tag=errorcodefixes-20) \| Test with manometer; replace if diaphragm is torn |
 ## When to Call a Pro
 
 If the igniter glows, gas is flowing, and the flame sensor is clean but lockout still happens, the problem is likely in the gas valve or control board — both require a tech with proper test equipment to diagnose safely.

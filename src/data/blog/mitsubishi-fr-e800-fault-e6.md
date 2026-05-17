@@ -36,8 +36,8 @@ Fault E6 on the Mitsubishi FR-E800 inverter indicates a brake transistor fault â
 
 | Part | Notes |
 |------|-------|
-| Braking resistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Braking+resistor&tag=errorcodefixes-20) \| Match to FR-E800 frame size and duty cycle requirement |
-| FR-E800 inverter unit | [Amazon](https://www.amazon.com/s?i=industrial&k=FR-E800+inverter+unit&tag=errorcodefixes-20) \| If internal brake transistor has failed |
+| Braking resistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-fr-e800-fault-e6&k=Braking+resistor&tag=errorcodefixes-20) \| Match to FR-E800 frame size and duty cycle requirement |
+| FR-E800 inverter unit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-fr-e800-fault-e6&k=FR-E800+inverter+unit&tag=errorcodefixes-20) \| If internal brake transistor has failed |
 ## When to Call a Pro
 
 Internal braking transistor replacement requires drive disassembly and component-level repair. Mitsubishi authorized service handles transistor-level repairs for FR-E800 units.

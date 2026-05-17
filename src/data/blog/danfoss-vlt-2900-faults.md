@@ -55,10 +55,10 @@ Use megohmmeter at 1000 VDC on all motor windings and cables. Also check PE (gro
 
 | Part | Notes |
 |------|-------|
-| LCP control panel | [Amazon](https://www.amazon.com/s?i=industrial&k=LCP+control+panel&tag=errorcodefixes-20) \| Available as replacement accessory |
-| Brake resistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Brake+resistor&tag=errorcodefixes-20) \| Match resistance and power rating |
-| Cooling fan | [Amazon](https://www.amazon.com/s?i=industrial&k=Cooling+fan&tag=errorcodefixes-20) \| Specific to VLT 2900 frame size |
-| Fuses | [Amazon](https://www.amazon.com/s?i=industrial&k=Fuses&tag=errorcodefixes-20) \| Note: VLT 2900 uses specific semiconductor fuse types |
+| LCP control panel | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-danfoss-vlt-2900-faults&k=LCP+control+panel&tag=errorcodefixes-20) \| Available as replacement accessory |
+| Brake resistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-danfoss-vlt-2900-faults&k=Brake+resistor&tag=errorcodefixes-20) \| Match resistance and power rating |
+| Cooling fan | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-danfoss-vlt-2900-faults&k=Cooling+fan&tag=errorcodefixes-20) \| Specific to VLT 2900 frame size |
+| Fuses | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-danfoss-vlt-2900-faults&k=Fuses&tag=errorcodefixes-20) \| Note: VLT 2900 uses specific semiconductor fuse types |
 > **Pro tip:** Danfoss VLT 2900 drives are discontinued. When parts are no longer available, the FC301/FC302 is the recommended migration path. Danfoss provides a parameter migration guide for converting VLT 2900 parameters to FC302 equivalents.
 
 ## Related Articles

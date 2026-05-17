@@ -52,12 +52,12 @@ The Trane XR13 is a 13 SEER single-stage central air conditioner in Trane's valu
 
 | Part | Notes |
 |---|---|
-| Dual run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Most common failure on XR13 outdoor units |
-| Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Replace if contacts are pitted or discolored |
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Confirm rotation direction (counterclockwise from top) |
-| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Replace if Code 2 persists after coil cleaning |
-| Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Replace if Code 3 persists with correct charge |
-| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For Code 5; check fuse before replacing board |
+| Dual run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-trane-xr13-error-codes&tag=errorcodefixes-20) \| Most common failure on XR13 outdoor units |
+| Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-trane-xr13-error-codes&tag=errorcodefixes-20) \| Replace if contacts are pitted or discolored |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-trane-xr13-error-codes&tag=errorcodefixes-20) \| Confirm rotation direction (counterclockwise from top) |
+| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-trane-xr13-error-codes&tag=errorcodefixes-20) \| Replace if Code 2 persists after coil cleaning |
+| Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-trane-xr13-error-codes&tag=errorcodefixes-20) \| Replace if Code 3 persists with correct charge |
+| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-trane-xr13-error-codes&tag=errorcodefixes-20) \| For Code 5; check fuse before replacing board |
 ## When to Call a Pro
 
 Any investigation of low-pressure or high-pressure faults that goes beyond visual inspection and switch testing requires refrigerant manifold gauges and EPA 608 certification. If the compressor hums but won't start, test the capacitor first — a failed run capacitor is the most common cause of compressor no-start on XR13 units.

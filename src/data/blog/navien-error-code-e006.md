@@ -36,9 +36,9 @@ E006 on a Navien tankless water heater or combi-boiler indicates the exhaust (fl
 
 | Part | Notes |
 |------|-------|
-| Exhaust thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Exhaust+thermistor&tag=errorcodefixes-20) \| Navien OEM; match to NPE or NCB model |
-| Descaling kit (vinegar flush) | [Amazon](https://www.amazon.com/s?i=industrial&k=Descaling+kit+%28vinegar+flush%29&tag=errorcodefixes-20) \| Use food-grade white vinegar; 1 gallon minimum |
-| PVC vent cap (exhaust) | [Amazon](https://www.amazon.com/s?i=industrial&k=PVC+vent+cap+%28exhaust%29&tag=errorcodefixes-20) \| Replace if cracked or blocked by bird screen debris |
+| Exhaust thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-error-code-e006&k=Exhaust+thermistor&tag=errorcodefixes-20) \| Navien OEM; match to NPE or NCB model |
+| Descaling kit (vinegar flush) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-error-code-e006&k=Descaling+kit+%28vinegar+flush%29&tag=errorcodefixes-20) \| Use food-grade white vinegar; 1 gallon minimum |
+| PVC vent cap (exhaust) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-error-code-e006&k=PVC+vent+cap+%28exhaust%29&tag=errorcodefixes-20) \| Replace if cracked or blocked by bird screen debris |
 ## When to Call a Pro
 
 Gas pressure adjustment and heat exchanger descaling with chemical descalers should be performed by a licensed plumber or HVAC technician. Do not operate the unit with a confirmed blocked flue.

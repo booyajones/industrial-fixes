@@ -36,9 +36,9 @@ Error Code 5 on a Manitowoc ice machine indicates a safety switch fault — one 
 
 | Part | Notes |
 |------|-------|
-| High pressure cutout switch | [Amazon](https://www.amazon.com/s?i=industrial&k=High+pressure+cutout+switch&tag=errorcodefixes-20) \| Replace if trips repeat at normal operating conditions |
-| Bin thermostat / full sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Bin+thermostat+%2F+full+sensor&tag=errorcodefixes-20) \| Replace if machine stops with empty bin |
-| Condenser coil cleaner | [Amazon](https://www.amazon.com/s?i=industrial&k=Condenser+coil+cleaner&tag=errorcodefixes-20) \| Descale/clean every 3–6 months |
+| High pressure cutout switch | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-manitowoc-ice-machine-error-code-5&k=High+pressure+cutout+switch&tag=errorcodefixes-20) \| Replace if trips repeat at normal operating conditions |
+| Bin thermostat / full sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-manitowoc-ice-machine-error-code-5&k=Bin+thermostat+%2F+full+sensor&tag=errorcodefixes-20) \| Replace if machine stops with empty bin |
+| Condenser coil cleaner | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-manitowoc-ice-machine-error-code-5&k=Condenser+coil+cleaner&tag=errorcodefixes-20) \| Descale/clean every 3–6 months |
 ## When to Call a Pro
 
 If the high pressure cutout continues to trip after condenser cleaning and normal ambient conditions are confirmed, a refrigerant overcharge or sealed system problem needs a certified tech.

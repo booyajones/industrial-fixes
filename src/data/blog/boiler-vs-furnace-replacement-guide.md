@@ -51,7 +51,7 @@ The upfront cost difference is significant.
 - Boilers are heavier and require more handling (300–600 lbs vs. 100–200 lbs for a furnace)
 - Condensing boilers require stainless steel venting (more expensive than PVC used for furnaces)
 
-[Search for gas boiler replacement parts](https://www.amazon.com/s?i=industrial&k=gas+boiler+parts&tag=errorcodefixes-20) | [Search for gas furnace replacement parts](https://www.amazon.com/s?i=industrial&k=gas+furnace+parts&tag=errorcodefixes-20)
+[Search for gas boiler replacement parts](https://www.amazon.com/s?ascsubtag=ecf-boiler-vs-furnace-replacement-guide&k=gas+boiler+parts&tag=errorcodefixes-20) | [Search for gas furnace replacement parts](https://www.amazon.com/s?ascsubtag=ecf-boiler-vs-furnace-replacement-guide&k=gas+furnace+parts&tag=errorcodefixes-20)
 
 ---
 

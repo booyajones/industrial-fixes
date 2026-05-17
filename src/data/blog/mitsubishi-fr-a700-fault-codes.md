@@ -69,12 +69,12 @@ The DC bus dropped too low. Common causes are weak incoming power, a missing pha
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
-| Mitsubishi-compatible braking resistor | Helps resolve E.OV3 decel overvoltage faults | $40–$140 — [Search on Amazon](https://www.amazon.com/s?i=industrial&k=Mitsubishi+VFD+braking+resistor&tag=errorcodefixes-20) |
-| Cooling fan for FR-A700 drive | Fixes E.THT overheating when fan stops | $20–$60 — [Search on Amazon](https://www.amazon.com/s?i=industrial&k=Mitsubishi+FR-A700+cooling+fan&tag=errorcodefixes-20) |
-| Insulation resistance tester | Needed to diagnose E.GF ground-fault conditions | $60–$200 — [Search on Amazon](https://www.amazon.com/s?i=industrial&k=insulation+resistance+tester+megger&tag=errorcodefixes-20) |
-| Shielded VFD motor cable | Replaces damaged output cable causing E.GF or E.OC faults | $50–$200 — [Search on Amazon](https://www.amazon.com/s?i=industrial&k=shielded+VFD+motor+cable&tag=errorcodefixes-20) |
-| Line reactor | Helps with unstable incoming power and nuisance voltage faults | $80–$250 — [Search on Amazon](https://www.amazon.com/s?i=industrial&k=three+phase+line+reactor+VFD&tag=errorcodefixes-20) |
-| Mitsubishi FR-A700 replacement keypad or drive | Needed if E.PE or control hardware faults persist | $100–$800 — [Search on Amazon](https://www.amazon.com/s?i=industrial&k=Mitsubishi+FR-A700+drive&tag=errorcodefixes-20) |
+| Mitsubishi-compatible braking resistor | Helps resolve E.OV3 decel overvoltage faults | $40–$140 — [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-fr-a700-fault-codes&k=Mitsubishi+VFD+braking+resistor&tag=errorcodefixes-20) |
+| Cooling fan for FR-A700 drive | Fixes E.THT overheating when fan stops | $20–$60 — [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-fr-a700-fault-codes&k=Mitsubishi+FR-A700+cooling+fan&tag=errorcodefixes-20) |
+| Insulation resistance tester | Needed to diagnose E.GF ground-fault conditions | $60–$200 — [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-fr-a700-fault-codes&k=insulation+resistance+tester+megger&tag=errorcodefixes-20) |
+| Shielded VFD motor cable | Replaces damaged output cable causing E.GF or E.OC faults | $50–$200 — [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-fr-a700-fault-codes&k=shielded+VFD+motor+cable&tag=errorcodefixes-20) |
+| Line reactor | Helps with unstable incoming power and nuisance voltage faults | $80–$250 — [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-fr-a700-fault-codes&k=three+phase+line+reactor+VFD&tag=errorcodefixes-20) |
+| Mitsubishi FR-A700 replacement keypad or drive | Needed if E.PE or control hardware faults persist | $100–$800 — [Search on Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-fr-a700-fault-codes&k=Mitsubishi+FR-A700+drive&tag=errorcodefixes-20) |
 
 ## When to Call a Pro
 

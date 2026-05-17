@@ -46,9 +46,9 @@ Once the root cause is corrected, locate the rollout switch — typically a roun
 
 | Part | Where to Buy |
 |------|-------------|
-| [Rollout limit switch](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
-| [Inducer motor assembly](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) | RepairClinic, Grainger |
-| [Inducer motor capacitor](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) | Grainger, Amazon |
+| [Rollout limit switch](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-goodman-6-flash-error-code&tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
+| [Inducer motor assembly](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-goodman-6-flash-error-code&tag=errorcodefixes-20) | RepairClinic, Grainger |
+| [Inducer motor capacitor](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-goodman-6-flash-error-code&tag=errorcodefixes-20) | Grainger, Amazon |
 
 ## When to Call a Technician
 

@@ -36,9 +36,9 @@ A single LED flash on a Trane heat pump control board indicates a system lockout
 
 | Part | Notes |
 |------|-------|
-| Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match HP, RPM, rotation direction, and shaft diameter |
-| Defrost control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace if defrost times out or never initiates |
-| Defrost thermostat (sensor) | [Amazon](https://www.amazon.com/s?i=industrial&k=Defrost+thermostat+%28sensor%29&tag=errorcodefixes-20) \| Clip-type sensor on outdoor coil; fails open or closed |
+| Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-trane-heat-pump-1-flash&tag=errorcodefixes-20) \| Match HP, RPM, rotation direction, and shaft diameter |
+| Defrost control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-trane-heat-pump-1-flash&tag=errorcodefixes-20) \| Replace if defrost times out or never initiates |
+| Defrost thermostat (sensor) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-heat-pump-1-flash&k=Defrost+thermostat+%28sensor%29&tag=errorcodefixes-20) \| Clip-type sensor on outdoor coil; fails open or closed |
 ## When to Call a Pro
 
 Refrigerant work requires EPA 608 certification. If the lockout is being driven by a pressure fault rather than an electrical component failure, a licensed technician must inspect the refrigerant circuit, identify leaks, and recharge to the correct specification.

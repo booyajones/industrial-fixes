@@ -40,10 +40,10 @@ An **F3 fault** on an Allen-Bradley PowerFlex 40 means the drive detected an inp
 
 | Part | Notes |
 |------|-------|
-| Input fuses | [Amazon](https://www.amazon.com/s?i=industrial&k=Input+fuses&tag=errorcodefixes-20) \| Match class and amp rating to the installation |
-| Line contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Replace if contacts are burned or voltage drop is excessive |
-| Terminal block hardware | [Amazon](https://www.amazon.com/s?i=industrial&k=Terminal+block+hardware&tag=errorcodefixes-20) \| Replace damaged lugs or screws |
-| PowerFlex 40 drive | [Amazon](https://www.amazon.com/s?i=industrial&k=PowerFlex+40+drive&tag=errorcodefixes-20) \| If internal bus or rectifier section is failed |
+| Input fuses | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-40-f3&k=Input+fuses&tag=errorcodefixes-20) \| Match class and amp rating to the installation |
+| Line contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-allen-bradley-powerflex-40-f3&tag=errorcodefixes-20) \| Replace if contacts are burned or voltage drop is excessive |
+| Terminal block hardware | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-40-f3&k=Terminal+block+hardware&tag=errorcodefixes-20) \| Replace damaged lugs or screws |
+| PowerFlex 40 drive | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-40-f3&k=PowerFlex+40+drive&tag=errorcodefixes-20) \| If internal bus or rectifier section is failed |
 ## When to Call a Pro
 
 If line voltage is stable and balanced but F3 still trips, the drive's rectifier or internal power supply may be failing. At that point, replacement is usually faster than board-level repair.

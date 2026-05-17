@@ -37,8 +37,8 @@ E2 on a Heil furnace indicates the pressure switch is stuck in the closed positi
 
 | Part | Notes |
 |------|-------|
-| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Use the OEM water column rating; aftermarket switches must match exactly |
-| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| Replace if cracked or if condensate was present |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-heil-furnace-e2-error-code&tag=errorcodefixes-20) \| Use the OEM water column rating; aftermarket switches must match exactly |
+| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?ascsubtag=ecf-heil-furnace-e2-error-code&tag=errorcodefixes-20) \| Replace if cracked or if condensate was present |
 ## When to Call a Pro
 
 If the wiring harness shows signs of rodent damage or burn marks, or if replacing the pressure switch does not clear E2, call a technician — there may be a control board fault misinterpreting the circuit.

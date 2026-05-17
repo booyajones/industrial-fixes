@@ -47,9 +47,9 @@ For motor degradation: a Haas service tech should perform an insulation resistan
 
 | Part | Where to Buy |
 |------|-------------|
-| [Haas way oil (Vactra No. 2)](https://www.amazon.com/s?i=industrial&k=Haas+way+oil+%28Vactra+No.+2%29&tag=errorcodefixes-20) | Grainger, Amazon |
-| [Cabinet cooling filter](https://www.amazon.com/s?i=industrial&k=Cabinet+cooling+filter&tag=errorcodefixes-20) | Grainger |
-| [Servo drive amplifier](https://www.amazon.com/s?i=industrial&k=Servo+drive+amplifier&tag=errorcodefixes-20) | Contact Haas Factory Outlet |
+| [Haas way oil (Vactra No. 2)](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-103&k=Haas+way+oil+%28Vactra+No.+2%29&tag=errorcodefixes-20) | Grainger, Amazon |
+| [Cabinet cooling filter](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-103&k=Cabinet+cooling+filter&tag=errorcodefixes-20) | Grainger |
+| [Servo drive amplifier](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-103&k=Servo+drive+amplifier&tag=errorcodefixes-20) | Contact Haas Factory Outlet |
 
 ## When to Call a Technician
 

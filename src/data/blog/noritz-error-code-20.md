@@ -82,9 +82,9 @@ Noritz units reset automatically when flow is restored:
 
 | Part | Notes |
 |---|---|
-| Flow sensor assembly | [Amazon](https://www.amazon.com/s?i=industrial&k=Flow+sensor+assembly&tag=errorcodefixes-20) \| Noritz part 100-194-0001 or model-specific |
-| Inlet filter screen | [Amazon](https://www.amazon.com/s?i=industrial&k=Inlet+filter+screen&tag=errorcodefixes-20) \| Noritz part or equivalent mesh screen |
-| Pressure regulator | [Amazon](https://www.amazon.com/s?i=industrial&k=Pressure+regulator&tag=errorcodefixes-20) \| If incoming pressure is consistently low |
+| Flow sensor assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-noritz-error-code-20&k=Flow+sensor+assembly&tag=errorcodefixes-20) \| Noritz part 100-194-0001 or model-specific |
+| Inlet filter screen | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-noritz-error-code-20&k=Inlet+filter+screen&tag=errorcodefixes-20) \| Noritz part or equivalent mesh screen |
+| Pressure regulator | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-noritz-error-code-20&k=Pressure+regulator&tag=errorcodefixes-20) \| If incoming pressure is consistently low |
 > **Pro tip:** If Error 20 occurs intermittently rather than constantly, check for partially open fixtures or a check valve that is sticking. Intermittent flow loss below the minimum triggers Error 20 briefly before flow returns.
 
 ## Related Articles

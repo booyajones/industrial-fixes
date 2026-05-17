@@ -64,11 +64,11 @@ After repair, watch the box temperature for a full cycle. You want stable cut in
 
 ## Parts You May Need
 
-- [True NTC thermistor probe](https://www.amazon.com/s?i=industrial&k=True+NTC+thermistor+probe&tag=errorcodefixes-20)
-- [Cabinet temperature sensor probe](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20)
-- [Probe extension harness](https://www.amazon.com/s?i=industrial&k=probe+extension+harness&tag=errorcodefixes-20)
-- [Commercial refrigeration controller](https://www.amazon.com/s?i=industrial&k=commercial+refrigeration+controller&tag=errorcodefixes-20)
-- [Heat shrink butt connectors](https://www.amazon.com/s?i=industrial&k=heat+shrink+butt+connectors&tag=errorcodefixes-20)
+- [True NTC thermistor probe](https://www.amazon.com/s?ascsubtag=ecf-true-refrigeration-e1-p1-error&k=True+NTC+thermistor+probe&tag=errorcodefixes-20)
+- [Cabinet temperature sensor probe](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-true-refrigeration-e1-p1-error&tag=errorcodefixes-20)
+- [Probe extension harness](https://www.amazon.com/s?ascsubtag=ecf-true-refrigeration-e1-p1-error&k=probe+extension+harness&tag=errorcodefixes-20)
+- [Commercial refrigeration controller](https://www.amazon.com/s?ascsubtag=ecf-true-refrigeration-e1-p1-error&k=commercial+refrigeration+controller&tag=errorcodefixes-20)
+- [Heat shrink butt connectors](https://www.amazon.com/s?ascsubtag=ecf-true-refrigeration-e1-p1-error&k=heat+shrink+butt+connectors&tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

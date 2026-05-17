@@ -47,10 +47,10 @@ OL series models have configurable input voltage windows. If utility voltage flu
 
 | Part | Notes |
 |------|-------|
-| Replacement battery | [Amazon](https://www.amazon.com/s?i=industrial&k=Replacement+battery&tag=errorcodefixes-20) \| Match OEM part or equivalent VRLA |
-| Fan module (OL3000RT+) | [Amazon](https://www.amazon.com/s?i=industrial&k=Fan+module+%28OL3000RT%2B%29&tag=errorcodefixes-20) \| Replace on fan fault |
-| Network management card | [Amazon](https://www.amazon.com/s?i=industrial&k=Network+management+card&tag=errorcodefixes-20) \| Replace on communication fault |
-| Output fuse | [Amazon](https://www.amazon.com/s?i=industrial&k=Output+fuse&tag=errorcodefixes-20) \| Replace on blown output fuse |
+| Replacement battery | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-cyberpower-ups-error-codes&k=Replacement+battery&tag=errorcodefixes-20) \| Match OEM part or equivalent VRLA |
+| Fan module (OL3000RT+) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-cyberpower-ups-error-codes&k=Fan+module+%28OL3000RT%2B%29&tag=errorcodefixes-20) \| Replace on fan fault |
+| Network management card | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-cyberpower-ups-error-codes&k=Network+management+card&tag=errorcodefixes-20) \| Replace on communication fault |
+| Output fuse | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-cyberpower-ups-error-codes&k=Output+fuse&tag=errorcodefixes-20) \| Replace on blown output fuse |
 ## When to Call a Pro
 CyberPower OL (online) series internal inverter and rectifier failures require factory service. Do not attempt capacitor or power board replacement without proper training and safety precautions.
 

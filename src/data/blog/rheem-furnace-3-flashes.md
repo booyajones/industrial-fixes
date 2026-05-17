@@ -36,10 +36,10 @@ Three flashes on a Rheem furnace diagnostic LED signals a pressure switch fault 
 
 | Part | Notes |
 |------|-------|
-| Draft pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match Rheem part number; pressure rating varies by model |
-| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| Standard 1/4" ID silicone or rubber tubing |
-| Inducer motor capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Test before replacing the full motor assembly |
-| Induced draft motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Replace if capacitor checks good but motor is slow or noisy |
+| Draft pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-rheem-furnace-3-flashes&tag=errorcodefixes-20) \| Match Rheem part number; pressure rating varies by model |
+| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?ascsubtag=ecf-rheem-furnace-3-flashes&tag=errorcodefixes-20) \| Standard 1/4" ID silicone or rubber tubing |
+| Inducer motor capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-rheem-furnace-3-flashes&tag=errorcodefixes-20) \| Test before replacing the full motor assembly |
+| Induced draft motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-rheem-furnace-3-flashes&tag=errorcodefixes-20) \| Replace if capacitor checks good but motor is slow or noisy |
 ## When to Call a Pro
 
 If the flue is clear, pressure switch and hose are intact, and the inducer motor runs at speed but the switch still won't close, have a licensed HVAC technician check for a failed heat exchanger or incorrect pressure switch calibration — both require specialized tools to diagnose safely.

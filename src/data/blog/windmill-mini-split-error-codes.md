@@ -61,11 +61,11 @@ The Windmill AC is a direct-to-consumer mini split sold online and through selec
 
 | Part | Notes |
 |------|-------|
-| Indoor filter | [Amazon](https://www.amazon.com/s?i=industrial&k=Indoor+filter&tag=errorcodefixes-20) \| Clean/replace; most common cause of E4 |
-| Temperature sensors | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| F1/F2/F3/F4/F5 types; NTC thermistors |
-| Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For E2 with confirmed free-spinning motor |
-| Communication cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Communication+cable&tag=errorcodefixes-20) \| 3-conductor; replace if damaged |
-| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For E3 or P0 after other causes ruled out |
+| Indoor filter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-windmill-mini-split-error-codes&k=Indoor+filter&tag=errorcodefixes-20) \| Clean/replace; most common cause of E4 |
+| Temperature sensors | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-windmill-mini-split-error-codes&tag=errorcodefixes-20) \| F1/F2/F3/F4/F5 types; NTC thermistors |
+| Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-windmill-mini-split-error-codes&tag=errorcodefixes-20) \| For E2 with confirmed free-spinning motor |
+| Communication cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-windmill-mini-split-error-codes&k=Communication+cable&tag=errorcodefixes-20) \| 3-conductor; replace if damaged |
+| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-windmill-mini-split-error-codes&tag=errorcodefixes-20) \| For E3 or P0 after other causes ruled out |
 ## When to Call a Pro
 
 Refrigerant work on the Windmill AC requires EPA 608 certification. Contact Windmill customer support for warranty service — the Windmill AC comes with a 5-year parts warranty on the compressor and 1 year on parts.

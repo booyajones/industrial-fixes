@@ -36,9 +36,9 @@ Rinnai error code 12 indicates flame failure — the unit ignited but the flame 
 
 | Part | Notes |
 |------|-------|
-| Flame rod / ionization sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Flame+rod+%2F+ionization+sensor&tag=errorcodefixes-20) \| Rinnai part number varies by model (REU-VC, RL, RU series) |
-| Igniter electrode | [Amazon](https://www.amazon.com/s?i=industrial&k=Igniter+electrode&tag=errorcodefixes-20) \| Replace if gap is out of spec or electrode is cracked |
-| Vent termination cap (Rinnai-approved) | [Amazon](https://www.amazon.com/s?i=industrial&k=Vent+termination+cap+%28Rinnai-approved%29&tag=errorcodefixes-20) \| Replace if the cap restricts exhaust or allows recirculation |
+| Flame rod / ionization sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-error-code-12&k=Flame+rod+%2F+ionization+sensor&tag=errorcodefixes-20) \| Rinnai part number varies by model (REU-VC, RL, RU series) |
+| Igniter electrode | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-error-code-12&k=Igniter+electrode&tag=errorcodefixes-20) \| Replace if gap is out of spec or electrode is cracked |
+| Vent termination cap (Rinnai-approved) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-error-code-12&k=Vent+termination+cap+%28Rinnai-approved%29&tag=errorcodefixes-20) \| Replace if the cap restricts exhaust or allows recirculation |
 ## When to Call a Pro
 
 Gas supply capacity testing and burner combustion analysis require a licensed gas technician. If code 12 appears only at full flow rates, the gas line may be undersized — a tech can verify with a manometer.

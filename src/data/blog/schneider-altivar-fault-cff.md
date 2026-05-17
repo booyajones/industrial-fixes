@@ -39,8 +39,8 @@ Schneider Altivar fault **CFF** (Configuration Fault) indicates an **incorrect c
 
 | Part | Notes |
 |------|-------|
-| No hardware typically needed | [Amazon](https://www.amazon.com/s?i=industrial&k=No+hardware+typically+needed&tag=errorcodefixes-20) \| CFF is almost always a configuration/software issue |
-| Option card | [Amazon](https://www.amazon.com/s?i=industrial&k=Option+card&tag=errorcodefixes-20) \| Only if the installed card is damaged or wrong type |
+| No hardware typically needed | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-schneider-altivar-fault-cff&k=No+hardware+typically+needed&tag=errorcodefixes-20) \| CFF is almost always a configuration/software issue |
+| Option card | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-schneider-altivar-fault-cff&k=Option+card&tag=errorcodefixes-20) \| Only if the installed card is damaged or wrong type |
 ## When to Call a Pro
 
 If CFF persists after a factory reset, the drive's internal parameter EEPROM may be corrupted. Schneider Electric's repair centers can reflash the drive firmware and restore the parameter memory. Contact Schneider service if factory reset doesn't resolve the fault.

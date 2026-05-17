@@ -64,10 +64,10 @@ On Fujitsu wall-mount models without wired controller, read the LED blink patter
 
 | Part | Notes |
 |------|-------|
-| Indoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Model-specific; note motor winding resistance |
-| Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| DC inverter motor with Hall sensor |
-| Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Fujitsu 9709481xxx — match model |
-| Indoor air thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Indoor+air+thermistor&tag=errorcodefixes-20) \| Small NTC thermistor, 10 kΩ at 25°C |
+| Indoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-fujitsu-mini-split-error-codes&tag=errorcodefixes-20) \| Model-specific; note motor winding resistance |
+| Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-fujitsu-mini-split-error-codes&tag=errorcodefixes-20) \| DC inverter motor with Hall sensor |
+| Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-fujitsu-mini-split-error-codes&tag=errorcodefixes-20) \| Fujitsu 9709481xxx — match model |
+| Indoor air thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fujitsu-mini-split-error-codes&k=Indoor+air+thermistor&tag=errorcodefixes-20) \| Small NTC thermistor, 10 kΩ at 25°C |
 ## When to Call a Pro
 P2 (high discharge temp), P4 (low pressure), P6 (overcurrent), and P7 (IPM fault) indicate refrigerant system or inverter drive problems that require professional tools and refrigerant certification to diagnose properly.
 

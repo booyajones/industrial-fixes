@@ -16,18 +16,18 @@ tags:
 
 Honeywell TrueZONE zone control panels (HZ311, HZ322, HZ432) display fault codes on a built-in LCD or via LED flash sequences. The panel manages multiple HVAC zones by controlling dampers and communicating with zone thermostats. Faults typically appear when a zone damper fails, a thermostat loses communication, or equipment wiring is incorrect.
 
-| [Code / Display](https://www.amazon.com/s?i=industrial&k=Code+%2F+Display&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| [Code / Display](https://www.amazon.com/s?ascsubtag=ecf-honeywell-truezone-error-codes&k=Code+%2F+Display&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |----------------|---------|-----------|
-| [ZONE FAULT](https://www.amazon.com/s?i=industrial&k=ZONE+FAULT&tag=errorcodefixes-20) | Zone thermostat communication lost | Check thermostat wiring; replace thermostat |
-| [DAMPER FAULT](https://www.amazon.com/s?i=industrial&k=DAMPER+FAULT&tag=errorcodefixes-20) | Damper motor not responding | Check damper motor wiring; test motor manually |
-| [BYPASS FAULT](https://www.amazon.com/s?i=industrial&k=BYPASS+FAULT&tag=errorcodefixes-20) | Bypass damper failed to respond | Inspect bypass damper actuator |
-| [LOW VOLTAGE](https://www.amazon.com/s?i=industrial&k=LOW+VOLTAGE&tag=errorcodefixes-20) | 24VAC supply below threshold | Check transformer; verify 40VA minimum |
-| [COMM ERROR](https://www.amazon.com/s?i=industrial&k=COMM+ERROR&tag=errorcodefixes-20) | Internal communication failure | Power-cycle panel; check board connections |
-| [ERR 1](https://www.amazon.com/s?i=industrial&k=ERR+1&tag=errorcodefixes-20) | Zone 1 sensor/thermostat fault | Verify zone 1 thermostat wiring |
-| [ERR 2](https://www.amazon.com/s?i=industrial&k=ERR+2&tag=errorcodefixes-20) | Zone 2 sensor/thermostat fault | Verify zone 2 thermostat wiring |
-| [ERR 3](https://www.amazon.com/s?i=industrial&k=ERR+3&tag=errorcodefixes-20) | Zone 3 sensor/thermostat fault | Verify zone 3 thermostat wiring |
-| [ERR 4](https://www.amazon.com/s?i=industrial&k=ERR+4&tag=errorcodefixes-20) | Zone 4 sensor/thermostat fault | Verify zone 4 thermostat wiring |
-| [EQUIP FAULT](https://www.amazon.com/s?i=industrial&k=EQUIP+FAULT&tag=errorcodefixes-20) | Equipment output fault detected | Check output wiring to furnace/air handler |
+| [ZONE FAULT](https://www.amazon.com/s?ascsubtag=ecf-honeywell-truezone-error-codes&k=ZONE+FAULT&tag=errorcodefixes-20) | Zone thermostat communication lost | Check thermostat wiring; replace thermostat |
+| [DAMPER FAULT](https://www.amazon.com/s?ascsubtag=ecf-honeywell-truezone-error-codes&k=DAMPER+FAULT&tag=errorcodefixes-20) | Damper motor not responding | Check damper motor wiring; test motor manually |
+| [BYPASS FAULT](https://www.amazon.com/s?ascsubtag=ecf-honeywell-truezone-error-codes&k=BYPASS+FAULT&tag=errorcodefixes-20) | Bypass damper failed to respond | Inspect bypass damper actuator |
+| [LOW VOLTAGE](https://www.amazon.com/s?ascsubtag=ecf-honeywell-truezone-error-codes&k=LOW+VOLTAGE&tag=errorcodefixes-20) | 24VAC supply below threshold | Check transformer; verify 40VA minimum |
+| [COMM ERROR](https://www.amazon.com/s?ascsubtag=ecf-honeywell-truezone-error-codes&k=COMM+ERROR&tag=errorcodefixes-20) | Internal communication failure | Power-cycle panel; check board connections |
+| [ERR 1](https://www.amazon.com/s?ascsubtag=ecf-honeywell-truezone-error-codes&k=ERR+1&tag=errorcodefixes-20) | Zone 1 sensor/thermostat fault | Verify zone 1 thermostat wiring |
+| [ERR 2](https://www.amazon.com/s?ascsubtag=ecf-honeywell-truezone-error-codes&k=ERR+2&tag=errorcodefixes-20) | Zone 2 sensor/thermostat fault | Verify zone 2 thermostat wiring |
+| [ERR 3](https://www.amazon.com/s?ascsubtag=ecf-honeywell-truezone-error-codes&k=ERR+3&tag=errorcodefixes-20) | Zone 3 sensor/thermostat fault | Verify zone 3 thermostat wiring |
+| [ERR 4](https://www.amazon.com/s?ascsubtag=ecf-honeywell-truezone-error-codes&k=ERR+4&tag=errorcodefixes-20) | Zone 4 sensor/thermostat fault | Verify zone 4 thermostat wiring |
+| [EQUIP FAULT](https://www.amazon.com/s?ascsubtag=ecf-honeywell-truezone-error-codes&k=EQUIP+FAULT&tag=errorcodefixes-20) | Equipment output fault detected | Check output wiring to furnace/air handler |
 
 ## Most Common Faults
 

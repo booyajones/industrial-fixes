@@ -37,8 +37,8 @@ Haas Alarm 113 is a **spindle encoder fault** — the CNC detected that the spin
 
 | Part | Notes |
 |------|-------|
-| Spindle encoder cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+encoder+cable&tag=errorcodefixes-20) \| Haas model-specific, shielded; order by machine model and serial |
-| Spindle encoder | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+encoder&tag=errorcodefixes-20) \| Integrated with spindle motor on many Haas models; order through HFO |
+| Spindle encoder cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-113&k=Spindle+encoder+cable&tag=errorcodefixes-20) \| Haas model-specific, shielded; order by machine model and serial |
+| Spindle encoder | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-113&k=Spindle+encoder&tag=errorcodefixes-20) \| Integrated with spindle motor on many Haas models; order through HFO |
 ## When to Call a Pro
 
 Spindle encoder replacement on Haas machines often requires pulling the spindle motor and precise encoder alignment. Incorrect alignment causes tapping errors and control faults. Have a Haas Factory Outlet technician perform encoder replacement if you're not experienced with spindle disassembly.

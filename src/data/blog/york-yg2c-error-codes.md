@@ -59,12 +59,12 @@ The York YG2C is a two-stage, variable-speed gas furnace in the Affinity series.
 
 | Part | Notes |
 |------|-------|
-| Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| York/Nordyne-specific; confirm model compatibility |
-| ECM blower module | [Amazon](https://www.amazon.com/s?i=industrial&k=ECM+blower+module&tag=errorcodefixes-20) \| Rear of motor; test before replacing full motor |
-| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Confirm low-fire and high-fire ratings separately |
-| Rollout switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Manual reset; investigate root cause |
-| High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Auto-reset; check continuity |
-| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For Code 13 or unexplained faults |
+| Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-york-yg2c-error-codes&tag=errorcodefixes-20) \| York/Nordyne-specific; confirm model compatibility |
+| ECM blower module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-york-yg2c-error-codes&k=ECM+blower+module&tag=errorcodefixes-20) \| Rear of motor; test before replacing full motor |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-york-yg2c-error-codes&tag=errorcodefixes-20) \| Confirm low-fire and high-fire ratings separately |
+| Rollout switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-york-yg2c-error-codes&tag=errorcodefixes-20) \| Manual reset; investigate root cause |
+| High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-york-yg2c-error-codes&tag=errorcodefixes-20) \| Auto-reset; check continuity |
+| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-york-yg2c-error-codes&tag=errorcodefixes-20) \| For Code 13 or unexplained faults |
 ## When to Call a Pro
 
 The YG2C's two-stage gas valve and variable-speed ECM blower are complex enough that board-level diagnosis benefits from York's proprietary tools. If you're chasing intermittent faults across multiple codes, an Affinity-compatible communicating thermostat will show detailed fault history that flash codes don't capture.

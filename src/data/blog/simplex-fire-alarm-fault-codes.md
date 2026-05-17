@@ -60,10 +60,10 @@ The 4100ES has a touch-screen display with point-by-point fault information:
 
 | Part | Notes |
 |------|-------|
-| TrueAlarm detector head | [Amazon](https://www.amazon.com/s?i=industrial&k=TrueAlarm+detector+head&tag=errorcodefixes-20) \| Replace on failed device trouble |
-| Sealed lead-acid battery | [Amazon](https://www.amazon.com/s?i=industrial&k=Sealed+lead-acid+battery&tag=errorcodefixes-20) \| 24V system, typically 12V in series |
-| MAPNET end-of-line device | [Amazon](https://www.amazon.com/s?i=industrial&k=MAPNET+end-of-line+device&tag=errorcodefixes-20) \| Required for loop termination |
-| IDC module card | [Amazon](https://www.amazon.com/s?i=industrial&k=IDC+module+card&tag=errorcodefixes-20) \| Replace on persistent IDC faults |
+| TrueAlarm detector head | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-simplex-fire-alarm-fault-codes&k=TrueAlarm+detector+head&tag=errorcodefixes-20) \| Replace on failed device trouble |
+| Sealed lead-acid battery | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-simplex-fire-alarm-fault-codes&k=Sealed+lead-acid+battery&tag=errorcodefixes-20) \| 24V system, typically 12V in series |
+| MAPNET end-of-line device | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-simplex-fire-alarm-fault-codes&k=MAPNET+end-of-line+device&tag=errorcodefixes-20) \| Required for loop termination |
+| IDC module card | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-simplex-fire-alarm-fault-codes&k=IDC+module+card&tag=errorcodefixes-20) \| Replace on persistent IDC faults |
 ## Jump to Fix
 
 - **MAPNET comm fail** → Check loop wiring → Verify termination → Walk and inspect devices

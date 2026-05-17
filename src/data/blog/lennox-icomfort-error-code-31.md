@@ -110,11 +110,11 @@ If the switch tests bad or you've ruled out all other causes:
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|--------------|
-| [Pressure Switch (Lennox 10J46 or model-specific)](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | Switch contacts failed, won't close | $20–$60 |
-| [Pressure Switch Hose (1/4" ID rubber)](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) | Cracked or disconnected hose | $3–$10 |
-| [Inducer Motor (Lennox 99M75 or model-specific)](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) | Motor seized, won't spin, or weak output | $150–$350 |
-| [Condensate Drain Line (3/4" PVC)](https://www.amazon.com/s?i=industrial&k=Condensate+Drain+Line+%283%2F4"+PVC%29&tag=errorcodefixes-20) | Drain line cracked or blocked beyond cleaning | $5–$15 |
-| [Condensate Trap](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) | Trap cracked or holding debris | $10–$25 |
+| [Pressure Switch (Lennox 10J46 or model-specific)](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-lennox-icomfort-error-code-31&tag=errorcodefixes-20) | Switch contacts failed, won't close | $20–$60 |
+| [Pressure Switch Hose (1/4" ID rubber)](https://www.amazon.com/dp/B0CPTHML1N?ascsubtag=ecf-lennox-icomfort-error-code-31&tag=errorcodefixes-20) | Cracked or disconnected hose | $3–$10 |
+| [Inducer Motor (Lennox 99M75 or model-specific)](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-lennox-icomfort-error-code-31&tag=errorcodefixes-20) | Motor seized, won't spin, or weak output | $150–$350 |
+| [Condensate Drain Line (3/4" PVC)](https://www.amazon.com/s?ascsubtag=ecf-lennox-icomfort-error-code-31&k=Condensate+Drain+Line+%283%2F4"+PVC%29&tag=errorcodefixes-20) | Drain line cracked or blocked beyond cleaning | $5–$15 |
+| [Condensate Trap](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-lennox-icomfort-error-code-31&tag=errorcodefixes-20) | Trap cracked or holding debris | $10–$25 |
 
 *Always match the pressure switch rating (in inches W.C.) exactly. Using a switch with the wrong rating is a safety issue.*
 

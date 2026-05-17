@@ -36,8 +36,8 @@ Haas alarm 105 means Emergency Stop is active — the E-stop circuit has been op
 
 | Part | Notes |
 |------|-------|
-| E-stop push button (40mm mushroom head) | [Amazon](https://www.amazon.com/s?i=industrial&k=E-stop+push+button+%2840mm+mushroom+head%29&tag=errorcodefixes-20) \| Replace if contacts are worn or button won't release after rotation |
-| E-stop wiring terminals | [Amazon](https://www.amazon.com/s?i=industrial&k=E-stop+wiring+terminals&tag=errorcodefixes-20) \| Inspect and tighten all terminals in the E-stop chain |
+| E-stop push button (40mm mushroom head) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-105&k=E-stop+push+button+%2840mm+mushroom+head%29&tag=errorcodefixes-20) \| Replace if contacts are worn or button won't release after rotation |
+| E-stop wiring terminals | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-105&k=E-stop+wiring+terminals&tag=errorcodefixes-20) \| Inspect and tighten all terminals in the E-stop chain |
 ## When to Call a Pro
 
 If alarm 105 appears with all E-stop buttons confirmed released and no external device in E-stop, the E-stop safety relay or wiring fault needs diagnosis with a Haas service technician. Do not attempt to bypass the E-stop circuit.

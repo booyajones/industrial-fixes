@@ -37,8 +37,8 @@ E1 on a York mini split indicates a communication error between the indoor and o
 
 | Part | Notes |
 |------|-------|
-| Communication wire | [Amazon](https://www.amazon.com/s?i=industrial&k=Communication+wire&tag=errorcodefixes-20) \| 18 AWG 2-conductor; match the original run length |
-| Outdoor control PCB | [Amazon](https://www.amazon.com/s?i=industrial&k=Outdoor+control+PCB&tag=errorcodefixes-20) \| York OEM; must match model series |
+| Communication wire | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-york-mini-split-error-code-e1&k=Communication+wire&tag=errorcodefixes-20) \| 18 AWG 2-conductor; match the original run length |
+| Outdoor control PCB | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-york-mini-split-error-code-e1&k=Outdoor+control+PCB&tag=errorcodefixes-20) \| York OEM; must match model series |
 ## When to Call a Pro
 
 York mini split service and warranty parts are distributed through Johnson Controls dealers. If the unit is under warranty, call a York-authorized HVAC contractor — DIY PCB replacement may void coverage.

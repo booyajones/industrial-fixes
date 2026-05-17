@@ -80,10 +80,10 @@ Trane RTUs require a manual reset for Fault 77 in most configurations:
 
 | Part | Notes |
 |---|---|
-| Condenser fan run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Match µF and voltage — 370V or 440V AC |
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match HP, RPM, rotation direction |
-| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Trane part BRD05072 or equivalent — match trip pressure |
-| TXV valve | [Amazon](https://www.amazon.com/s?i=industrial&k=TXV+valve&tag=errorcodefixes-20) \| Model-specific — match refrigerant type |
+| Condenser fan run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-trane-rooftop-fault-77&tag=errorcodefixes-20) \| Match µF and voltage — 370V or 440V AC |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-trane-rooftop-fault-77&tag=errorcodefixes-20) \| Match HP, RPM, rotation direction |
+| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-trane-rooftop-fault-77&tag=errorcodefixes-20) \| Trane part BRD05072 or equivalent — match trip pressure |
+| TXV valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-rooftop-fault-77&k=TXV+valve&tag=errorcodefixes-20) \| Model-specific — match refrigerant type |
 > **Pro tip:** On hot summer days, high head pressure is often entirely caused by a dirty condenser coil or a stopped condenser fan. Clean the coil and replace the capacitor before assuming refrigerant issues.
 
 ## Related Articles

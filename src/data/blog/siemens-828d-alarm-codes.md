@@ -50,10 +50,10 @@ The Siemens Sinumerik 828D is a compact CNC control used on modern mills, lathes
 
 | Part | Notes |
 |---|---|
-| Encoder cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+cable&tag=errorcodefixes-20) \| High flex wear item |
-| Home switch | [Amazon](https://www.amazon.com/s?i=industrial&k=Home+switch&tag=errorcodefixes-20) \| Common source of reference faults |
-| Profinet connector | [Amazon](https://www.amazon.com/s?i=industrial&k=Profinet+connector&tag=errorcodefixes-20) \| Loose or damaged field connector |
-| Drive module | [Amazon](https://www.amazon.com/s?i=industrial&k=Drive+module&tag=errorcodefixes-20) \| Only after confirming external cause is absent |
+| Encoder cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-828d-alarm-codes&k=Encoder+cable&tag=errorcodefixes-20) \| High flex wear item |
+| Home switch | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-828d-alarm-codes&k=Home+switch&tag=errorcodefixes-20) \| Common source of reference faults |
+| Profinet connector | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-828d-alarm-codes&k=Profinet+connector&tag=errorcodefixes-20) \| Loose or damaged field connector |
+| Drive module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-siemens-828d-alarm-codes&k=Drive+module&tag=errorcodefixes-20) \| Only after confirming external cause is absent |
 ## When to Call a Pro
 
 If the 828D shows repeated safety or drive-coupled alarms, a Siemens CNC or machine builder technician should review both the safety diagnostics and SINAMICS fault buffer. Guessing at safety faults is a bad idea on production CNC equipment.

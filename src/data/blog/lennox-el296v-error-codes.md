@@ -95,13 +95,13 @@ The EL296V has a two-stage inducer and two-stage pressure switches. In first-sta
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|---------------|
-| Silicon nitride igniter (Lennox #31W22 / Honeywell Q4100C universal) | $25–$65 | [Amazon](https://www.amazon.com/s?i=industrial&k=silicon+nitride+igniter+Lennox+furnace+Q4100&tag=errorcodefixes-20) |
-| High limit switch (Lennox OEM — match temp rating) | $20–$55 | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) |
-| Pressure switch — low stage (Lennox OEM) | $25–$60 | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) |
-| ECM blower motor module (Lennox #100662-01 or match module) | $180–$450 | [Amazon](https://www.amazon.com/s?i=industrial&k=Lennox+ECM+blower+motor+module+variable+speed&tag=errorcodefixes-20) |
-| Control board (Lennox OEM — match board number on label) | $200–$500 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) |
-| Condensate trap / drain assembly | $12–$35 | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) |
-| Rollout switch (manual reset, Lennox OEM) | $15–$40 | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) |
+| Silicon nitride igniter (Lennox #31W22 / Honeywell Q4100C universal) | $25–$65 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lennox-el296v-error-codes&k=silicon+nitride+igniter+Lennox+furnace+Q4100&tag=errorcodefixes-20) |
+| High limit switch (Lennox OEM — match temp rating) | $20–$55 | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-lennox-el296v-error-codes&tag=errorcodefixes-20) |
+| Pressure switch — low stage (Lennox OEM) | $25–$60 | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-lennox-el296v-error-codes&tag=errorcodefixes-20) |
+| ECM blower motor module (Lennox #100662-01 or match module) | $180–$450 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lennox-el296v-error-codes&k=Lennox+ECM+blower+motor+module+variable+speed&tag=errorcodefixes-20) |
+| Control board (Lennox OEM — match board number on label) | $200–$500 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-lennox-el296v-error-codes&tag=errorcodefixes-20) |
+| Condensate trap / drain assembly | $12–$35 | [Amazon](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-lennox-el296v-error-codes&tag=errorcodefixes-20) |
+| Rollout switch (manual reset, Lennox OEM) | $15–$40 | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-lennox-el296v-error-codes&tag=errorcodefixes-20) |
 
 ## When to Call a Professional
 

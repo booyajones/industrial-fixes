@@ -36,8 +36,8 @@ The ABB ACS550 **AF10 fault** is a **Heatsink Overtemperature** fault. The drive
 
 | Part | Notes |
 |------|-------|
-| Internal cooling fan | [Amazon](https://www.amazon.com/s?i=industrial&k=Internal+cooling+fan&tag=errorcodefixes-20) \| ABB part number varies by frame size (R1–R6); confirm before ordering |
-| Enclosure thermostat fan unit | [Amazon](https://www.amazon.com/s?i=industrial&k=Enclosure+thermostat+fan+unit&tag=errorcodefixes-20) \| Install when ambient routinely exceeds 40°C |
+| Internal cooling fan | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-abb-acs550-af10-heatsink&k=Internal+cooling+fan&tag=errorcodefixes-20) \| ABB part number varies by frame size (R1–R6); confirm before ordering |
+| Enclosure thermostat fan unit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-abb-acs550-af10-heatsink&k=Enclosure+thermostat+fan+unit&tag=errorcodefixes-20) \| Install when ambient routinely exceeds 40°C |
 ## When to Call a Pro
 
 If AF10 returns immediately after cleaning and the internal fan is confirmed running, and the drive is within its rated ambient and load limits, the heatsink thermistor may have drifted or failed. Internal thermistor replacement requires drive disassembly and ABB-certified service.

@@ -51,9 +51,9 @@ The Fluke 435-II runs on a 7.2V Li-ion battery pack (Fluke BP290). Battery life 
 
 | Part | Notes |
 |------|-------|
-| Battery pack BP290 | [Amazon](https://www.amazon.com/s?i=industrial&k=Battery+pack+BP290&tag=errorcodefixes-20) \| Fluke 435/437 battery pack |
-| Current clamp i430-FLEX | [Amazon](https://www.amazon.com/s?i=industrial&k=Current+clamp+i430-FLEX&tag=errorcodefixes-20) \| Flexible clamp for tight spaces |
-| Current clamp i200s | [Amazon](https://www.amazon.com/s?i=industrial&k=Current+clamp+i200s&tag=errorcodefixes-20) \| 200A rigid clamp |
-| SD card | [Amazon](https://www.amazon.com/s?i=industrial&k=SD+card&tag=errorcodefixes-20) \| SDHC, FAT32, Class 10 |
-| USB cable | [Amazon](https://www.amazon.com/s?i=industrial&k=USB+cable&tag=errorcodefixes-20) \| Data download to PC |
+| Battery pack BP290 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fluke-power-quality-analyzer-errors&k=Battery+pack+BP290&tag=errorcodefixes-20) \| Fluke 435/437 battery pack |
+| Current clamp i430-FLEX | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fluke-power-quality-analyzer-errors&k=Current+clamp+i430-FLEX&tag=errorcodefixes-20) \| Flexible clamp for tight spaces |
+| Current clamp i200s | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fluke-power-quality-analyzer-errors&k=Current+clamp+i200s&tag=errorcodefixes-20) \| 200A rigid clamp |
+| SD card | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fluke-power-quality-analyzer-errors&k=SD+card&tag=errorcodefixes-20) \| SDHC, FAT32, Class 10 |
+| USB cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fluke-power-quality-analyzer-errors&k=USB+cable&tag=errorcodefixes-20) \| Data download to PC |
 > **Pro tip:** Fluke power quality analyzers measure and log events automatically using the EN 50160 and DRANETZ power quality standard settings. Set up the analyzer with appropriate event thresholds before leaving the site — the instrument captures sags, swells, and transients even when unattended.

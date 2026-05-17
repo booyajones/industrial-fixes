@@ -51,12 +51,12 @@ The Rheem RA13 (and its Ruud counterpart, the RA13) is a 13–14 SEER single-sta
 
 | Part | Notes |
 |---|---|
-| Dual run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Most common RA13 failure; affects both fan and compressor |
-| Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| 2-pole; inspect for pitting and carbon buildup |
-| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Spade terminals; replaces easily |
-| Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| 50 PSIG cutout for R-410A |
-| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Check fuse first before ordering board |
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match RPM, HP, and shaft size |
+| Dual run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-rheem-ra13-error-codes&tag=errorcodefixes-20) \| Most common RA13 failure; affects both fan and compressor |
+| Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-rheem-ra13-error-codes&tag=errorcodefixes-20) \| 2-pole; inspect for pitting and carbon buildup |
+| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-rheem-ra13-error-codes&tag=errorcodefixes-20) \| Spade terminals; replaces easily |
+| Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-rheem-ra13-error-codes&tag=errorcodefixes-20) \| 50 PSIG cutout for R-410A |
+| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-rheem-ra13-error-codes&tag=errorcodefixes-20) \| Check fuse first before ordering board |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-rheem-ra13-error-codes&tag=errorcodefixes-20) \| Match RPM, HP, and shaft size |
 ## When to Call a Pro
 
 Refrigerant handling on the RA13 requires EPA 608 certification. If the compressor draws high amperage (above nameplate FLA) but produces no cooling, the compressor may be mechanically failed — a technician with a clamp-on ammeter and manifold gauges can confirm this before an expensive replacement decision is made.

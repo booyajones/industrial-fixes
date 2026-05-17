@@ -39,13 +39,13 @@ Here is a straight comparison of upfront cost, operating cost, climate fit, and 
 
 These are national average installed costs for a typical 3-ton system in 2025-2026:
 
-| [System type](https://www.amazon.com/s?i=industrial&k=HVAC+system&tag=errorcodefixes-20) | Installed cost | What is included |
+| [System type](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-vs-gas-furnace-cost&k=HVAC+system&tag=errorcodefixes-20) | Installed cost | What is included |
 |-------------|--------------|-----------------|
-| [Gas furnace + AC (80% furnace, 14 SEER2)](https://www.amazon.com/s?i=industrial&k=Gas+furnace+%2B+AC&tag=errorcodefixes-20) | $5,500 to $8,500 | Furnace, condenser, evaporator coil, installation |
-| [Gas furnace + AC (96% furnace, 16 SEER2)](https://www.amazon.com/s?i=industrial&k=96%25+furnace+%2B+16+SEER2+AC&tag=errorcodefixes-20) | $7,500 to $11,500 | High-efficiency furnace, matching AC |
-| [Standard heat pump (14-16 SEER2)](https://www.amazon.com/s?i=industrial&k=Standard+heat+pump&tag=errorcodefixes-20) | $5,500 to $9,000 | Heat pump outdoor unit, air handler with backup heat |
-| [Cold climate heat pump (18+ SEER2)](https://www.amazon.com/s?i=industrial&k=Cold+climate+heat+pump&tag=errorcodefixes-20) | $8,000 to $15,000 | Hyper-heat or inverter heat pump with full capacity at 5 degrees F |
-| [Ductless mini-split heat pump](https://www.amazon.com/s?i=industrial&k=Ductless+mini-split+heat+pump&tag=errorcodefixes-20) (single zone) | $2,000 to $5,000 | Single outdoor unit + one indoor head |
+| [Gas furnace + AC (80% furnace, 14 SEER2)](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-vs-gas-furnace-cost&k=Gas+furnace+%2B+AC&tag=errorcodefixes-20) | $5,500 to $8,500 | Furnace, condenser, evaporator coil, installation |
+| [Gas furnace + AC (96% furnace, 16 SEER2)](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-vs-gas-furnace-cost&k=96%25+furnace+%2B+16+SEER2+AC&tag=errorcodefixes-20) | $7,500 to $11,500 | High-efficiency furnace, matching AC |
+| [Standard heat pump (14-16 SEER2)](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-vs-gas-furnace-cost&k=Standard+heat+pump&tag=errorcodefixes-20) | $5,500 to $9,000 | Heat pump outdoor unit, air handler with backup heat |
+| [Cold climate heat pump (18+ SEER2)](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-vs-gas-furnace-cost&k=Cold+climate+heat+pump&tag=errorcodefixes-20) | $8,000 to $15,000 | Hyper-heat or inverter heat pump with full capacity at 5 degrees F |
+| [Ductless mini-split heat pump](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-vs-gas-furnace-cost&k=Ductless+mini-split+heat+pump&tag=errorcodefixes-20) (single zone) | $2,000 to $5,000 | Single outdoor unit + one indoor head |
 
 **The comparison is not equal.** A gas furnace system needs separate AC equipment. A heat pump does both heating and cooling in one unit. If you are replacing a furnace alone, adding a heat pump instead means you also get air conditioning for effectively the same price or less.
 
@@ -61,15 +61,15 @@ On a like-for-like replacement basis, a heat pump is $500 to $2,000 more upfront
 
 This is where the math gets specific to your zip code. National averages hide the real story.
 
-| [Region](https://www.amazon.com/s?i=industrial&k=HVAC+operating+cost&tag=errorcodefixes-20) | Gas furnace annual heating cost | Heat pump annual heating cost | Winner |
+| [Region](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-vs-gas-furnace-cost&k=HVAC+operating+cost&tag=errorcodefixes-20) | Gas furnace annual heating cost | Heat pump annual heating cost | Winner |
 |--------|------------------------------|-----------------------------|--------|
-| [Southeast (GA, FL, SC)](https://www.amazon.com/s?i=industrial&k=Southeast+HVAC&tag=errorcodefixes-20) | $800 to $1,200 | $500 to $800 | Heat pump by $300 to $400/year |
-| [Mid-Atlantic (NY, NJ, PA)](https://www.amazon.com/s?i=industrial&k=Mid-Atlantic+HVAC&tag=errorcodefixes-20) | $1,000 to $1,600 | $900 to $1,400 | Heat pump by $100 to $200/year |
-| [Midwest (IL, OH, MI)](https://www.amazon.com/s?i=industrial&k=Midwest+HVAC&tag=errorcodefixes-20) | $1,200 to $2,000 | $1,300 to $2,200 | Gas by $100 to $200/year |
-| [Northeast (MA, NH, VT)](https://www.amazon.com/s?i=industrial&k=Northeast+HVAC&tag=errorcodefixes-20) | $1,500 to $2,500 | $1,600 to $2,400 | Close, depends on electric rate |
-| [Mountain West (CO, UT, WY)](https://www.amazon.com/s?i=industrial&k=Mountain+West+HVAC&tag=errorcodefixes-20) | $1,000 to $1,800 | $1,100 to $2,000 | Gas by $100 to $200/year |
-| [Pacific NW (OR, WA)](https://www.amazon.com/s?i=industrial&k=Pacific+NW+HVAC&tag=errorcodefixes-20) | $900 to $1,400 | $700 to $1,100 | Heat pump by $200 to $300/year |
-| [California (coastal)](https://www.amazon.com/s?i=industrial&k=California+HVAC&tag=errorcodefixes-20) | $700 to $1,100 | $500 to $900 | Heat pump by $200/year |
+| [Southeast (GA, FL, SC)](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-vs-gas-furnace-cost&k=Southeast+HVAC&tag=errorcodefixes-20) | $800 to $1,200 | $500 to $800 | Heat pump by $300 to $400/year |
+| [Mid-Atlantic (NY, NJ, PA)](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-vs-gas-furnace-cost&k=Mid-Atlantic+HVAC&tag=errorcodefixes-20) | $1,000 to $1,600 | $900 to $1,400 | Heat pump by $100 to $200/year |
+| [Midwest (IL, OH, MI)](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-vs-gas-furnace-cost&k=Midwest+HVAC&tag=errorcodefixes-20) | $1,200 to $2,000 | $1,300 to $2,200 | Gas by $100 to $200/year |
+| [Northeast (MA, NH, VT)](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-vs-gas-furnace-cost&k=Northeast+HVAC&tag=errorcodefixes-20) | $1,500 to $2,500 | $1,600 to $2,400 | Close, depends on electric rate |
+| [Mountain West (CO, UT, WY)](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-vs-gas-furnace-cost&k=Mountain+West+HVAC&tag=errorcodefixes-20) | $1,000 to $1,800 | $1,100 to $2,000 | Gas by $100 to $200/year |
+| [Pacific NW (OR, WA)](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-vs-gas-furnace-cost&k=Pacific+NW+HVAC&tag=errorcodefixes-20) | $900 to $1,400 | $700 to $1,100 | Heat pump by $200 to $300/year |
+| [California (coastal)](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-vs-gas-furnace-cost&k=California+HVAC&tag=errorcodefixes-20) | $700 to $1,100 | $500 to $900 | Heat pump by $200/year |
 
 **The key variable is your electric rate vs. gas rate.** Heat pumps produce 2 to 4 units of heat for every 1 unit of electricity they consume (HSPF2 rating). But in areas with very high electric rates and cheap natural gas, the gas furnace still wins on operating cost.
 
@@ -105,12 +105,12 @@ These units work well in Minnesota, Wisconsin, and Maine. They are not experimen
 
 The Inflation Reduction Act made heat pumps significantly more affordable:
 
-| [Incentive](https://www.amazon.com/s?i=industrial&k=IRA+heat+pump+tax+credit&tag=errorcodefixes-20) | Heat pump | Gas furnace |
+| [Incentive](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-vs-gas-furnace-cost&k=IRA+heat+pump+tax+credit&tag=errorcodefixes-20) | Heat pump | Gas furnace |
 |-----------|----------|------------|
-| [Federal tax credit (Energy Efficient Home Improvement)](https://www.amazon.com/s?i=industrial&k=Energy+Efficient+Home+Improvement+credit&tag=errorcodefixes-20) | Up to $2,000 (30% of cost) | Up to $600 (30% of cost) |
-| [High-efficiency natural gas furnace credit](https://www.amazon.com/s?i=industrial&k=High-efficiency+gas+furnace+credit&tag=errorcodefixes-20) | N/A | Up to $600 (95%+ AFUE) |
-| [HOMES rebate (income-qualified)](https://www.amazon.com/s?i=industrial&k=HOMES+rebate+heat+pump&tag=errorcodefixes-20) | Up to $8,000 (low income) | N/A |
-| [State-level heat pump rebates](https://www.amazon.com/s?i=industrial&k=State+heat+pump+rebate&tag=errorcodefixes-20) | $500 to $5,000 (varies) | $100 to $500 |
+| [Federal tax credit (Energy Efficient Home Improvement)](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-vs-gas-furnace-cost&k=Energy+Efficient+Home+Improvement+credit&tag=errorcodefixes-20) | Up to $2,000 (30% of cost) | Up to $600 (30% of cost) |
+| [High-efficiency natural gas furnace credit](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-vs-gas-furnace-cost&k=High-efficiency+gas+furnace+credit&tag=errorcodefixes-20) | N/A | Up to $600 (95%+ AFUE) |
+| [HOMES rebate (income-qualified)](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-vs-gas-furnace-cost&k=HOMES+rebate+heat+pump&tag=errorcodefixes-20) | Up to $8,000 (low income) | N/A |
+| [State-level heat pump rebates](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-vs-gas-furnace-cost&k=State+heat+pump+rebate&tag=errorcodefixes-20) | $500 to $5,000 (varies) | $100 to $500 |
 
 The $2,000 federal heat pump credit applies to units that meet the highest efficiency tier (CEE Tier 1 or better, typically 15+ SEER2 and 8.5+ HSPF2). Most cold climate heat pumps qualify. Check the AHRI certificate before buying.
 
@@ -120,12 +120,12 @@ A qualified heat pump with federal + state incentives can be $3,000 to $8,000 ch
 
 ## Lifespan and Maintenance
 
-| [System type](https://www.amazon.com/s?i=industrial&k=HVAC+system&tag=errorcodefixes-20) | Typical lifespan | Annual maintenance cost |
+| [System type](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-vs-gas-furnace-cost&k=HVAC+system&tag=errorcodefixes-20) | Typical lifespan | Annual maintenance cost |
 |-------------|----------------|----------------------|
-| [Gas furnace](https://www.amazon.com/s?i=industrial&k=Gas+furnace&tag=errorcodefixes-20) | 15 to 20 years | $100 to $200 |
-| [Central AC](https://www.amazon.com/s?i=industrial&k=Central+AC&tag=errorcodefixes-20) | 10 to 15 years | $100 to $200 |
-| [Standard heat pump](https://www.amazon.com/s?i=industrial&k=Standard+heat+pump&tag=errorcodefixes-20) | 12 to 15 years | $150 to $300 |
-| [Cold climate heat pump](https://www.amazon.com/s?i=industrial&k=Cold+climate+heat+pump&tag=errorcodefixes-20) | 12 to 15 years | $150 to $300 |
+| [Gas furnace](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-vs-gas-furnace-cost&k=Gas+furnace&tag=errorcodefixes-20) | 15 to 20 years | $100 to $200 |
+| [Central AC](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-vs-gas-furnace-cost&k=Central+AC&tag=errorcodefixes-20) | 10 to 15 years | $100 to $200 |
+| [Standard heat pump](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-vs-gas-furnace-cost&k=Standard+heat+pump&tag=errorcodefixes-20) | 12 to 15 years | $150 to $300 |
+| [Cold climate heat pump](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-vs-gas-furnace-cost&k=Cold+climate+heat+pump&tag=errorcodefixes-20) | 12 to 15 years | $150 to $300 |
 
 **Heat pumps require more maintenance.** They run year-round and have more components (reversing valve, expansion valve, defrost board). Annual professional maintenance is important. A gas furnace paired with AC spreads the load across two units but you maintain both.
 

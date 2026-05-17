@@ -82,11 +82,11 @@ If you've diagnosed a failed condenser fan motor or a faulty condenser thermisto
 
 | Part | Compatible Models | Amazon Link |
 |------|------------------|-------------|
-| Turbo Air Condenser Fan Motor (115V, 1/15 HP) | M3R, MSR, PRO series | [View on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) |
-| Condenser Fan Blade (7" diameter) | M3R19, M3R23, M3R28, MSR23 | [View on Amazon](https://www.amazon.com/s?i=industrial&k=turbo+air+condenser+fan+blade+7+inch&tag=errorcodefixes-20) |
-| Condenser Coil Thermistor / Temperature Sensor | M3R series, TCGR series | [View on Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) |
-| Nu-Calgon Evap Foam No Rinse Coil Cleaner | Universal | [View on Amazon](https://www.amazon.com/s?i=industrial&k=nu-calgon+coil+cleaner+foam&tag=errorcodefixes-20) |
-| Condenser Coil Cleaning Brush Set | Universal | [View on Amazon](https://www.amazon.com/s?i=industrial&k=condenser+coil+cleaning+brush+commercial+refrigerator&tag=errorcodefixes-20) |
+| Turbo Air Condenser Fan Motor (115V, 1/15 HP) | M3R, MSR, PRO series | [View on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-turbo-air-refrigerator-error-code-e5&tag=errorcodefixes-20) |
+| Condenser Fan Blade (7" diameter) | M3R19, M3R23, M3R28, MSR23 | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-turbo-air-refrigerator-error-code-e5&k=turbo+air+condenser+fan+blade+7+inch&tag=errorcodefixes-20) |
+| Condenser Coil Thermistor / Temperature Sensor | M3R series, TCGR series | [View on Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-turbo-air-refrigerator-error-code-e5&tag=errorcodefixes-20) |
+| Nu-Calgon Evap Foam No Rinse Coil Cleaner | Universal | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-turbo-air-refrigerator-error-code-e5&k=nu-calgon+coil+cleaner+foam&tag=errorcodefixes-20) |
+| Condenser Coil Cleaning Brush Set | Universal | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-turbo-air-refrigerator-error-code-e5&k=condenser+coil+cleaning+brush+commercial+refrigerator&tag=errorcodefixes-20) |
 
 > **Note:** Turbo Air part numbers vary by model year and production run. Cross-reference your unit's serial number tag before ordering. The search links above will surface compatible options — verify the voltage and shaft size match your existing motor before purchasing.
 

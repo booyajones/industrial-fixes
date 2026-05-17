@@ -39,10 +39,10 @@ Mazak alarm **800** is typically a **tool magazine or ATC positioning fault**. T
 
 | Part | Notes |
 |------|-------|
-| Proximity sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Proximity+sensor&tag=errorcodefixes-20) \| Home and pocket sensors fail from coolant/chip exposure |
-| Magazine motor brake | [Amazon](https://www.amazon.com/s?i=industrial&k=Magazine+motor+brake&tag=errorcodefixes-20) \| Causes drag or incomplete index |
-| ATC air valve | [Amazon](https://www.amazon.com/s?i=industrial&k=ATC+air+valve&tag=errorcodefixes-20) \| Check timing and cylinder response |
-| Tool pocket hardware | [Amazon](https://www.amazon.com/s?i=industrial&k=Tool+pocket+hardware&tag=errorcodefixes-20) \| Bent pocket hardware causes jams |
+| Proximity sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mazak-alarm-800-atc&k=Proximity+sensor&tag=errorcodefixes-20) \| Home and pocket sensors fail from coolant/chip exposure |
+| Magazine motor brake | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mazak-alarm-800-atc&k=Magazine+motor+brake&tag=errorcodefixes-20) \| Causes drag or incomplete index |
+| ATC air valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mazak-alarm-800-atc&k=ATC+air+valve&tag=errorcodefixes-20) \| Check timing and cylinder response |
+| Tool pocket hardware | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mazak-alarm-800-atc&k=Tool+pocket+hardware&tag=errorcodefixes-20) \| Bent pocket hardware causes jams |
 ## When to Call a Pro
 If the magazine is out of timing or the Geneva/index mechanism needs adjustment, call a Mazak service tech. ATC timing errors can escalate into tool changer crashes quickly.
 

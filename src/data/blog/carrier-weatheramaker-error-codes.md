@@ -55,12 +55,12 @@ Verify all condenser fan motors are running and drawing rated amps. Wash the con
 
 | Part | Notes |
 |------|-------|
-| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Clean first; replace if ┬╡A reading is below 1.5 |
-| IFC board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Model-specific — cross-reference part number |
-| Limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Match temperature rating exactly |
-| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Test ┬╡F with capacitor tester before condemning motor |
-| Inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Check capacitor before replacing motor |
-| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Verify switch spec matches flue pressure measured |
+| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-carrier-weatheramaker-error-codes&tag=errorcodefixes-20) \| Clean first; replace if ┬╡A reading is below 1.5 |
+| IFC board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-carrier-weatheramaker-error-codes&tag=errorcodefixes-20) \| Model-specific — cross-reference part number |
+| Limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-carrier-weatheramaker-error-codes&tag=errorcodefixes-20) \| Match temperature rating exactly |
+| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-carrier-weatheramaker-error-codes&tag=errorcodefixes-20) \| Test ┬╡F with capacitor tester before condemning motor |
+| Inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-carrier-weatheramaker-error-codes&tag=errorcodefixes-20) \| Check capacitor before replacing motor |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-weatheramaker-error-codes&tag=errorcodefixes-20) \| Verify switch spec matches flue pressure measured |
 > **Pro tip:** Carrier WeatherMaker IFC boards store the last 5 fault codes. Hold the diagnostic button 5 seconds to retrieve fault history before clearing codes.
 
 ## Related Articles

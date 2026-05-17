@@ -36,9 +36,9 @@ The E14 fault on Lincoln Electric welders indicates an input voltage fault — t
 
 | Part | Notes |
 |------|-------|
-| Input voltage selector switch | [Amazon](https://www.amazon.com/s?i=industrial&k=Input+voltage+selector+switch&tag=errorcodefixes-20) \| Replace if damaged or contacts are pitted |
-| Line filter / EMI filter | [Amazon](https://www.amazon.com/s?i=industrial&k=Line+filter+%2F+EMI+filter&tag=errorcodefixes-20) \| If power quality is poor and causing recurring E14 |
-| Input contactor / rectifier module | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| If fault persists after confirming correct input voltage |
+| Input voltage selector switch | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lincoln-electric-e14-error-code&k=Input+voltage+selector+switch&tag=errorcodefixes-20) \| Replace if damaged or contacts are pitted |
+| Line filter / EMI filter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lincoln-electric-e14-error-code&k=Line+filter+%2F+EMI+filter&tag=errorcodefixes-20) \| If power quality is poor and causing recurring E14 |
+| Input contactor / rectifier module | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-lincoln-electric-e14-error-code&tag=errorcodefixes-20) \| If fault persists after confirming correct input voltage |
 ## When to Call a Pro
 
 If input voltage is confirmed correct and E14 still trips, the input rectifier or control board has failed internally. Lincoln Electric authorized service is needed for power module diagnosis and replacement.

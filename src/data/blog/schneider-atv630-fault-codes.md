@@ -54,9 +54,9 @@ Check all three input phases with a multimeter. Measure voltage balance — more
 
 | Part | Notes |
 |------|-------|
-| Cooling fans | [Amazon](https://www.amazon.com/s?i=industrial&k=Cooling+fans&tag=errorcodefixes-20) \| Internal drive fans — match voltage and size |
-| Input fuses | [Amazon](https://www.amazon.com/s?i=industrial&k=Input+fuses&tag=errorcodefixes-20) \| Match voltage and ampere rating |
-| Brake resistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Brake+resistor&tag=errorcodefixes-20) \| Match ohm rating and wattage |
-| HMI panel | [Amazon](https://www.amazon.com/s?i=industrial&k=HMI+panel&tag=errorcodefixes-20) \| Match drive series |
-| I/O extension cards | [Amazon](https://www.amazon.com/s?i=industrial&k=I%2FO+extension+cards&tag=errorcodefixes-20) \| Match catalog number |
+| Cooling fans | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-schneider-atv630-fault-codes&k=Cooling+fans&tag=errorcodefixes-20) \| Internal drive fans — match voltage and size |
+| Input fuses | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-schneider-atv630-fault-codes&k=Input+fuses&tag=errorcodefixes-20) \| Match voltage and ampere rating |
+| Brake resistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-schneider-atv630-fault-codes&k=Brake+resistor&tag=errorcodefixes-20) \| Match ohm rating and wattage |
+| HMI panel | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-schneider-atv630-fault-codes&k=HMI+panel&tag=errorcodefixes-20) \| Match drive series |
+| I/O extension cards | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-schneider-atv630-fault-codes&k=I%2FO+extension+cards&tag=errorcodefixes-20) \| Match catalog number |
 > **Pro tip:** ATV630 fault history is stored in the drive memory. Navigate to [1.10 DIAGNOSTICS] ΓåÆ [FAULT HISTORY] on the HMI to view last 10 faults with timestamps and drive conditions at time of fault.

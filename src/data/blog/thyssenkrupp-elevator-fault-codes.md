@@ -47,11 +47,11 @@ If the elevator car doesn't reach exact floor level within tolerance, a leveling
 
 | Part | Notes |
 |------|-------|
-| Door contact (mechanical) | [Amazon](https://www.amazon.com/s?i=industrial&k=Door+contact+%28mechanical%29&tag=errorcodefixes-20) \| Replace when worn |
-| Door operator belt/coupling | [Amazon](https://www.amazon.com/s?i=industrial&k=Door+operator+belt%2Fcoupling&tag=errorcodefixes-20) \| Replace on door fault |
-| Encoder | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder&tag=errorcodefixes-20) \| Replace on feedback fault |
-| Brake coil | [Amazon](https://www.amazon.com/s?i=industrial&k=Brake+coil&tag=errorcodefixes-20) \| Replace on drag or release fault |
-| Drive module | [Amazon](https://www.amazon.com/s?i=industrial&k=Drive+module&tag=errorcodefixes-20) \| Replace on repeated drive faults |
+| Door contact (mechanical) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-thyssenkrupp-elevator-fault-codes&k=Door+contact+%28mechanical%29&tag=errorcodefixes-20) \| Replace when worn |
+| Door operator belt/coupling | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-thyssenkrupp-elevator-fault-codes&k=Door+operator+belt%2Fcoupling&tag=errorcodefixes-20) \| Replace on door fault |
+| Encoder | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-thyssenkrupp-elevator-fault-codes&k=Encoder&tag=errorcodefixes-20) \| Replace on feedback fault |
+| Brake coil | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-thyssenkrupp-elevator-fault-codes&k=Brake+coil&tag=errorcodefixes-20) \| Replace on drag or release fault |
+| Drive module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-thyssenkrupp-elevator-fault-codes&k=Drive+module&tag=errorcodefixes-20) \| Replace on repeated drive faults |
 ## When to Call a Pro
 **Elevator maintenance and repair must be performed by licensed elevator mechanics (NAEC or equivalent certification).** Bypassing safety circuits or working in elevator pits and on top of cars without proper training is extremely dangerous.
 

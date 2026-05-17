@@ -65,9 +65,9 @@ This data is valuable for diagnosing intermittent faults.
 
 | Part | Notes |
 |------|-------|
-| Braking resistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Braking+resistor&tag=errorcodefixes-20) \| Danfoss BRT series or equivalent, size per catalog |
-| Cooling fan | [Amazon](https://www.amazon.com/s?i=industrial&k=Cooling+fan&tag=errorcodefixes-20) \| FC302: 132B0093; drive-specific |
-| LCP remote panel | [Amazon](https://www.amazon.com/s?i=industrial&k=LCP+remote+panel&tag=errorcodefixes-20) \| LCP-102 graphical or LCP-11 numeric |
+| Braking resistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-danfoss-vfd-fault-codes&k=Braking+resistor&tag=errorcodefixes-20) \| Danfoss BRT series or equivalent, size per catalog |
+| Cooling fan | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-danfoss-vfd-fault-codes&k=Cooling+fan&tag=errorcodefixes-20) \| FC302: 132B0093; drive-specific |
+| LCP remote panel | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-danfoss-vfd-fault-codes&k=LCP+remote+panel&tag=errorcodefixes-20) \| LCP-102 graphical or LCP-11 numeric |
 ## When to Call a Pro
 AL-14 (ground fault) that persists after motor/cable testing, and any alarm related to a hardware trip (drive output damage, burnt smell), requires authorized Danfoss service. Field-level IGBT replacement is possible on larger FC302 frames but requires ESD training and proper procedures.
 

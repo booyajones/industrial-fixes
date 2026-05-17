@@ -36,9 +36,9 @@ Alarm E28 on NUM CNC controls (NUM 1060, 1080, and Axium series) indicates a dri
 
 | Part | Notes |
 |------|-------|
-| Serial link communication cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Serial+link+communication+cable&tag=errorcodefixes-20) \| NUM-specific — replace if damaged |
-| 24V power supply | [Amazon](https://www.amazon.com/s?i=industrial&k=24V+power+supply&tag=errorcodefixes-20) \| Replace if voltage is marginal |
-| NUM servo drive module | [Amazon](https://www.amazon.com/s?i=industrial&k=NUM+servo+drive+module&tag=errorcodefixes-20) \| Replace if module has internal fault |
+| Serial link communication cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-num-cnc-alarm-e28&k=Serial+link+communication+cable&tag=errorcodefixes-20) \| NUM-specific — replace if damaged |
+| 24V power supply | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-num-cnc-alarm-e28&k=24V+power+supply&tag=errorcodefixes-20) \| Replace if voltage is marginal |
+| NUM servo drive module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-num-cnc-alarm-e28&k=NUM+servo+drive+module&tag=errorcodefixes-20) \| Replace if module has internal fault |
 ## When to Call a Pro
 
 NUM CNC systems are less common in the US than Fanuc or Siemens; NUM-trained service engineers are specialized. Contact NUM directly for authorized service referrals.

@@ -36,9 +36,9 @@ Haas **Alarm 125** indicates a **tool carousel fault**. On Haas mills with an um
 
 | Part | Notes |
 |------|-------|
-| Carousel proximity switch | [Amazon](https://www.amazon.com/s?i=industrial&k=Carousel+proximity+switch&tag=errorcodefixes-20) \| Replace if the LED state does not change at the expected position |
-| Carousel motor or gearbox | [Amazon](https://www.amazon.com/s?i=industrial&k=Carousel+motor+or+gearbox&tag=errorcodefixes-20) \| Replace when the carousel stalls or rotates unevenly |
-| Tool holder / pull stud | [Amazon](https://www.amazon.com/s?i=industrial&k=Tool+holder+%2F+pull+stud&tag=errorcodefixes-20) \| Replace if a damaged holder is hanging in the pocket |
+| Carousel proximity switch | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-125-carousel-fault&k=Carousel+proximity+switch&tag=errorcodefixes-20) \| Replace if the LED state does not change at the expected position |
+| Carousel motor or gearbox | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-125-carousel-fault&k=Carousel+motor+or+gearbox&tag=errorcodefixes-20) \| Replace when the carousel stalls or rotates unevenly |
+| Tool holder / pull stud | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-125-carousel-fault&k=Tool+holder+%2F+pull+stud&tag=errorcodefixes-20) \| Replace if a damaged holder is hanging in the pocket |
 ## When to Call a Pro
 
 If the carousel is mechanically jammed and ATC recovery cannot return it to home, stop there. Forcing the changer can bend the arm or damage the carousel plate. Haas Factory Outlet service is the right move in that situation.

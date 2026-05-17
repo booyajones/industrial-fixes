@@ -15,7 +15,7 @@ tags:
 
 Daikin mini-splits display error codes as alphanumeric codes on the indoor unit LED or wireless remote. Daikin uses several code families: **E-codes** (indoor unit faults), **U-codes** (system/protection faults), **F-codes** (sensor faults), and **A-codes** (safety protection). On most Daikin units, hold the CANCEL or MODE button for 5+ seconds to enter diagnostic mode and retrieve stored fault codes.
 
-| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| [Code](https://www.amazon.com/s?ascsubtag=ecf-daikin-mini-split-error-codes&k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |------|---------|-----------|
 | E1 | PCB fault — indoor unit | Replace indoor PCB |
 | E3 | High pressure protection | Check outdoor coil; refrigerant overcharge |

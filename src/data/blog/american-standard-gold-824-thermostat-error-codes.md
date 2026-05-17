@@ -66,11 +66,11 @@ The thermostat cannot establish any communication with any system component. Che
 
 | Part | Use | Buy on Amazon |
 |------|-----|---------------|
-| ACC Bus Communication Wire (18/2 thermostat wire) | Replace corroded or damaged communication wiring | [View on Amazon](https://www.amazon.com/s?i=industrial&k=18+2+thermostat+wire+50+ft&tag=errorcodefixes-20) |
-| 10K NTC Thermistor Temperature Sensor | Replace faulty coil sensors (Codes 210, 211) | [View on Amazon](https://www.amazon.com/s?i=industrial&k=10k+ntc+thermistor+hvac+coil+sensor&tag=errorcodefixes-20) |
-| HVAC Multimeter (Klein Tools MM400) | Test sensors, check voltage at control boards | [View on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) |
-| Replacement Pressure Switch (universal HVAC) | Fix Code 240 if pressure switch is faulty | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) |
-| Non-Contact Voltage Tester | Safely check for power at terminals without probing live wires | [View on Amazon](https://www.amazon.com/s?i=industrial&k=non+contact+voltage+tester+hvac&tag=errorcodefixes-20) |
+| ACC Bus Communication Wire (18/2 thermostat wire) | Replace corroded or damaged communication wiring | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-american-standard-gold-824-thermostat-error-codes&k=18+2+thermostat+wire+50+ft&tag=errorcodefixes-20) |
+| 10K NTC Thermistor Temperature Sensor | Replace faulty coil sensors (Codes 210, 211) | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-american-standard-gold-824-thermostat-error-codes&k=10k+ntc+thermistor+hvac+coil+sensor&tag=errorcodefixes-20) |
+| HVAC Multimeter (Klein Tools MM400) | Test sensors, check voltage at control boards | [View on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?ascsubtag=ecf-american-standard-gold-824-thermostat-error-codes&tag=errorcodefixes-20) |
+| Replacement Pressure Switch (universal HVAC) | Fix Code 240 if pressure switch is faulty | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-american-standard-gold-824-thermostat-error-codes&tag=errorcodefixes-20) |
+| Non-Contact Voltage Tester | Safely check for power at terminals without probing live wires | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-american-standard-gold-824-thermostat-error-codes&k=non+contact+voltage+tester+hvac&tag=errorcodefixes-20) |
 
 ## When to Call a Pro
 

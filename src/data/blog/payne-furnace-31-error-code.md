@@ -38,9 +38,9 @@ A Payne furnace flashing code 31 signals a pressure switch fault — the inducer
 
 | Part | Notes |
 |------|-------|
-| Pressure switch (single or dual) | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match the water column rating stamped on the original switch |
-| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| Use the correct ID rubber tubing; generic vinyl can collapse |
-| Inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Required if motor is noisy, slow, or intermittent |
+| Pressure switch (single or dual) | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-payne-furnace-31-error-code&tag=errorcodefixes-20) \| Match the water column rating stamped on the original switch |
+| Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?ascsubtag=ecf-payne-furnace-31-error-code&tag=errorcodefixes-20) \| Use the correct ID rubber tubing; generic vinyl can collapse |
+| Inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-payne-furnace-31-error-code&tag=errorcodefixes-20) \| Required if motor is noisy, slow, or intermittent |
 ## When to Call a Pro
 
 If the flue or intake piping is blocked and requires cutting into the wall or roof termination, or if the inducer draft motor tests confirm failure and you are unfamiliar with high-voltage furnace wiring, contact a licensed HVAC technician to complete the repair safely.

@@ -37,8 +37,8 @@ The Mitsubishi U6 error code indicates a **coil temperature sensor (thermistor) 
 
 | Part | Notes |
 |------|-------|
-| Outdoor coil thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Outdoor+coil+thermistor&tag=errorcodefixes-20) \| Must match the Mitsubishi part number for your model; thermistor specs vary by series |
-| Thermistor harness wire | [Amazon](https://www.amazon.com/s?i=industrial&k=Thermistor+harness+wire&tag=errorcodefixes-20) \| If the wire is damaged; use shielded wire of equivalent gauge |
+| Outdoor coil thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-u6-error-code&k=Outdoor+coil+thermistor&tag=errorcodefixes-20) \| Must match the Mitsubishi part number for your model; thermistor specs vary by series |
+| Thermistor harness wire | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-u6-error-code&k=Thermistor+harness+wire&tag=errorcodefixes-20) \| If the wire is damaged; use shielded wire of equivalent gauge |
 ## When to Call a Pro
 
 If the sensor measures in-spec and connections are clean but U6 persists, the outdoor PCB has a failed input and requires replacement. Mitsubishi outdoor boards are model-specific; consult a Mitsubishi Diamond Contractor for PCB sourcing and programming verification.

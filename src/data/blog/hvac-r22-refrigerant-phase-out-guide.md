@@ -59,7 +59,7 @@ A typical central AC system holds 4–8 pounds of refrigerant. A complete rechar
 
 The math changes fast when the refrigerant costs more than the parts.
 
-[Search for R22 refrigerant alternatives](https://www.amazon.com/s?i=industrial&k=R22+refrigerant+alternative&tag=errorcodefixes-20)
+[Search for R22 refrigerant alternatives](https://www.amazon.com/s?ascsubtag=ecf-hvac-r22-refrigerant-phase-out-guide&k=R22+refrigerant+alternative&tag=errorcodefixes-20)
 
 ## Your Three Replacement Paths
 
@@ -91,7 +91,7 @@ Drop-in refrigerants (R422B, R438A/MO99) are designed to work with mineral oil u
 
 **The catch:** Drop-in refrigerants operate at different pressures than R22. Your system will perform below its original efficiency. In extreme weather, cooling capacity can drop noticeably.
 
-[Search for R438A MO99 refrigerant](https://www.amazon.com/s?i=industrial&k=R438A+refrigerant&tag=errorcodefixes-20) | [Search for R422B refrigerant](https://www.amazon.com/s?i=industrial&k=R422B+refrigerant&tag=errorcodefixes-20)
+[Search for R438A MO99 refrigerant](https://www.amazon.com/s?ascsubtag=ecf-hvac-r22-refrigerant-phase-out-guide&k=R438A+refrigerant&tag=errorcodefixes-20) | [Search for R422B refrigerant](https://www.amazon.com/s?ascsubtag=ecf-hvac-r22-refrigerant-phase-out-guide&k=R422B+refrigerant&tag=errorcodefixes-20)
 
 ### Path 3: Full System Replacement (Recommended)
 
@@ -135,7 +135,7 @@ If you decide to replace, you have a refrigerant choice.
 
 **The practical answer:** R32 is the future. It is more efficient, uses less refrigerant, and has a lower environmental impact. R410A is still widely available and cheaper. Both work well. If you are buying today, R32 gives you a longer runway before the next refrigerant phase-out.
 
-[Search for R32 air conditioner systems](https://www.amazon.com/s?i=industrial&k=R32+air+conditioner&tag=errorcodefixes-20) | [Search for R410A air conditioner systems](https://www.amazon.com/s?i=industrial&k=R410A+air+conditioner&tag=errorcodefixes-20)
+[Search for R32 air conditioner systems](https://www.amazon.com/s?ascsubtag=ecf-hvac-r22-refrigerant-phase-out-guide&k=R32+air+conditioner&tag=errorcodefixes-20) | [Search for R410A air conditioner systems](https://www.amazon.com/s?ascsubtag=ecf-hvac-r22-refrigerant-phase-out-guide&k=R410A+air+conditioner&tag=errorcodefixes-20)
 
 ---
 

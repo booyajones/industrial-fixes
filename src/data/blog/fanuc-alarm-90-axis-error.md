@@ -36,9 +36,9 @@ Fanuc alarm 90 (SV0090: REFERENCE RETURN INCOMPLETE) indicates that an axis requ
 
 | Part | Notes |
 |------|-------|
-| Reference deceleration limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Replace if contacts are worn or switch is physically damaged |
-| Encoder cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+cable&tag=errorcodefixes-20) \| Replace if continuity check reveals open or intermittent conductors |
-| Absolute encoder battery | [Amazon](https://www.amazon.com/s?i=industrial&k=Absolute+encoder+battery&tag=errorcodefixes-20) \| On absolute encoder systems, a dead battery causes position data loss and reference faults |
+| Reference deceleration limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-fanuc-alarm-90-axis-error&tag=errorcodefixes-20) \| Replace if contacts are worn or switch is physically damaged |
+| Encoder cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-90-axis-error&k=Encoder+cable&tag=errorcodefixes-20) \| Replace if continuity check reveals open or intermittent conductors |
+| Absolute encoder battery | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fanuc-alarm-90-axis-error&k=Absolute+encoder+battery&tag=errorcodefixes-20) \| On absolute encoder systems, a dead battery causes position data loss and reference faults |
 ## When to Call a Pro
 
 If the decel dog is properly positioned, the encoder cable is intact, and the CNC still fails to find the reference position, the servo encoder itself may need replacement or recalibration. This requires Fanuc parameter adjustment and machine geometry verification by a certified technician.

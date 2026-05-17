@@ -38,8 +38,8 @@ Fault 7 (Motor Overload) on an Allen-Bradley PowerFlex 755 drive means the drive
 
 | Part | Notes |
 |------|-------|
-| Motor (if failed) | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+%28if+failed%29&tag=errorcodefixes-20) \| A motor winding failure increases current draw dramatically |
-| Input fuses | [Amazon](https://www.amazon.com/s?i=industrial&k=Input+fuses&tag=errorcodefixes-20) \| A degraded input fuse creates phase imbalance triggering secondary overload |
+| Motor (if failed) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-755-fault-7&k=Motor+%28if+failed%29&tag=errorcodefixes-20) \| A motor winding failure increases current draw dramatically |
+| Input fuses | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-755-fault-7&k=Input+fuses&tag=errorcodefixes-20) \| A degraded input fuse creates phase imbalance triggering secondary overload |
 ## When to Call a Pro
 
 Persistent Fault 7 on a large PowerFlex 755 application requires a drive-trained technician to perform a load study — measuring current vs. time to determine whether the motor, drive parameters, or mechanical system is the root cause.

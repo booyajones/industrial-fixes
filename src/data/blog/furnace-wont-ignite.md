@@ -44,7 +44,7 @@ The hot surface igniter (HSI) is the most common cause of a furnace not igniting
 
 **Important:** Do not touch the glowing surface of the igniter with anything metal. If it sparks or arcs to ground, the igniter is grounded and needs replacement.
 
-[Replacement hot surface igniter on Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20)
+[Replacement hot surface igniter on Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-furnace-wont-ignite&tag=errorcodefixes-20)
 
 ## 2. Dirty or Faulty Flame Sensor
 
@@ -59,7 +59,7 @@ The flame sensor is a small metal rod mounted in front of the burner. It verifie
 
 If cleaning does not work, the sensor itself may be worn out or the ceramic insulator may be cracked. Replace it.
 
-[Flame sensor replacement on Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20)
+[Flame sensor replacement on Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-furnace-wont-ignite&tag=errorcodefixes-20)
 
 ## 3. Gas Valve Not Opening
 
@@ -93,7 +93,7 @@ The pressure switch is a safety device that confirms the inducer motor is runnin
 
 **The fix:** If the pressure switch is not closing, check the condensate drain first. Clear any blockage in the drain line. If the drain is clear, check the vent pipe for obstructions. If both are clear, the pressure switch itself may be faulty.
 
-[Replacement pressure switch on Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20)
+[Replacement pressure switch on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-furnace-wont-ignite&tag=errorcodefixes-20)
 
 ## 5. Thermostat Wiring or Signal Issues
 
@@ -107,7 +107,7 @@ The thermostat tells the furnace when to start heating. If the wiring between th
 
 **The fix:** Tighten any loose screws on the thermostat terminals. If the wires are broken or corroded, splice in new wire and reconnect. If the thermostat appears to work but no signal reaches the furnace, the thermostat itself may need replacement.
 
-[Thermostat wiring repair kit on Amazon](https://www.amazon.com/s?i=industrial&k=thermostat+wiring+repair&tag=errorcodefixes-20)
+[Thermostat wiring repair kit on Amazon](https://www.amazon.com/s?ascsubtag=ecf-furnace-wont-ignite&k=thermostat+wiring+repair&tag=errorcodefixes-20)
 
 ## 6. Control Board Failure
 
@@ -122,7 +122,7 @@ The control board is the brain of the furnace. It receives the thermostat signal
 
 **The fix:** Control board replacement requires matching the board to your furnace model exactly. Most boards have a model number printed directly on them. Board replacement is a straightforward swap: label all wire connections, remove the old board, install the new one, and reconnect.
 
-[Universal furnace control board on Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20)
+[Universal furnace control board on Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-furnace-wont-ignite&tag=errorcodefixes-20)
 
 ## 7. Blocked Condensate Drain Line
 
@@ -136,18 +136,18 @@ High-efficiency condensing furnaces produce acidic water as a byproduct of combu
 
 **The fix:** Turn off power to the furnace. Disconnect the condensate drain line from the furnace and flush it with water. Clean the condensate trap according to the furnace manual (usually a removable plastic fitting with a float). Reassemble and restore power.
 
-[Condensate drain cleaning kit on Amazon](https://www.amazon.com/s?i=industrial&k=condensate+drain+cleaner+tablets&tag=errorcodefixes-20)
+[Condensate drain cleaning kit on Amazon](https://www.amazon.com/s?ascsubtag=ecf-furnace-wont-ignite&k=condensate+drain+cleaner+tablets&tag=errorcodefixes-20)
 
 ---
 
 ## Parts You May Need
 
-- [Hot surface igniter](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20)
-- [Flame sensor](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20)
-- [Pressure switch](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20)
-- [Furnace control board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20)
-- [Condensate drain tablets](https://www.amazon.com/s?i=industrial&k=condensate+drain+cleaner+tablets&tag=errorcodefixes-20)
-- [Digital multimeter](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20)
+- [Hot surface igniter](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-furnace-wont-ignite&tag=errorcodefixes-20)
+- [Flame sensor](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-furnace-wont-ignite&tag=errorcodefixes-20)
+- [Pressure switch](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-furnace-wont-ignite&tag=errorcodefixes-20)
+- [Furnace control board](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-furnace-wont-ignite&tag=errorcodefixes-20)
+- [Condensate drain tablets](https://www.amazon.com/s?ascsubtag=ecf-furnace-wont-ignite&k=condensate+drain+cleaner+tablets&tag=errorcodefixes-20)
+- [Digital multimeter](https://www.amazon.com/dp/B08ZJSN5X3?ascsubtag=ecf-furnace-wont-ignite&tag=errorcodefixes-20)
 
 ---
 

@@ -52,10 +52,10 @@ On Burnham boilers, lockout is a safety feature — repeated ignition failures c
 
 | Part | Where to Buy | Typical Cost |
 |------|-------------|-------------|
-| Ignition electrode (Burnham OEM, e.g., 7-2-0801) | [Amazon](https://www.amazon.com/s?i=industrial&k=Ignition+electrode+%28Burnham+OEM%2C+e.g.%2C+7-2-0801%29&tag=errorcodefixes-20) \| Burnham dealer, HeatersPlus | $25–$60 |
-| Flame sensor / ionization rod (OEM) | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Burnham dealer, eComfort | $20–$50 |
-| Gas valve (Honeywell VR8205, common Burnham app) | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Burnham dealer, Johnstone Supply | $100–$250 |
-| Burnham integrated control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Burnham dealer, eComfort | $150–$400 |
+| Ignition electrode (Burnham OEM, e.g., 7-2-0801) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-burnham-boiler-e1-lockout-code&k=Ignition+electrode+%28Burnham+OEM%2C+e.g.%2C+7-2-0801%29&tag=errorcodefixes-20) \| Burnham dealer, HeatersPlus | $25–$60 |
+| Flame sensor / ionization rod (OEM) | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-burnham-boiler-e1-lockout-code&tag=errorcodefixes-20) \| Burnham dealer, eComfort | $20–$50 |
+| Gas valve (Honeywell VR8205, common Burnham app) | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-burnham-boiler-e1-lockout-code&tag=errorcodefixes-20) \| Burnham dealer, Johnstone Supply | $100–$250 |
+| Burnham integrated control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-burnham-boiler-e1-lockout-code&tag=errorcodefixes-20) \| Burnham dealer, eComfort | $150–$400 |
 ## When to Call a Professional
 
 If you've checked the gas supply, cleaned the electrode and flame sensor, and confirmed 24V to the gas valve — call a licensed HVAC/boiler technician. Boiler combustion diagnosis requires CO testing, combustion analysis, and gas pressure measurement at the manifold. Working on a gas appliance without proper training and equipment carries serious risks including CO poisoning and fire. Tell the tech: "Burnham [model], E1 lockout. Gas supply is confirmed, electrode is clean, flame sensor tested good. I need manifold pressure and combustion analysis."

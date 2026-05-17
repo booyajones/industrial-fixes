@@ -59,10 +59,10 @@ Commercial combi ovens from Rational (SelfCookingCenter, iCombi) and Alto-Shaam 
 
 | Part | Notes |
 |------|-------|
-| Descaling solution (Rational) | [Amazon](https://www.amazon.com/s?i=industrial&k=Descaling+solution+%28Rational%29&tag=errorcodefixes-20) \| Run monthly in hard water areas |
-| Steam generator heating element | [Amazon](https://www.amazon.com/s?i=industrial&k=Steam+generator+heating+element&tag=errorcodefixes-20) \| Most common E10 fix on Rational |
-| Fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| For E20 on both brands |
-| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| For E40/E-30 |
+| Descaling solution (Rational) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-combi-oven-error-codes&k=Descaling+solution+%28Rational%29&tag=errorcodefixes-20) \| Run monthly in hard water areas |
+| Steam generator heating element | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-combi-oven-error-codes&k=Steam+generator+heating+element&tag=errorcodefixes-20) \| Most common E10 fix on Rational |
+| Fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-combi-oven-error-codes&tag=errorcodefixes-20) \| For E20 on both brands |
+| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?ascsubtag=ecf-combi-oven-error-codes&tag=errorcodefixes-20) \| For E40/E-30 |
 ## When to Call a Pro
 
 Combi oven electrical repairs involve high-voltage heating elements and control boards. Rational and Alto-Shaam authorized service should handle component-level repairs.

@@ -37,9 +37,9 @@ Lennox code 432 is a **blower motor fault** — the control board or communicati
 
 | Part | Notes |
 |------|-------|
-| ECM motor module (control module) | [Amazon](https://www.amazon.com/s?i=industrial&k=ECM+motor+module+%28control+module%29&tag=errorcodefixes-20) \| Lennox-specific module — matches the motor's frame and communicating protocol |
-| ECM blower motor | [Amazon](https://www.amazon.com/s?i=industrial&k=ECM+blower+motor&tag=errorcodefixes-20) \| Full motor replacement if module tests good but motor still fails |
-| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| If board relay is confirmed failed and no signal is reaching the motor |
+| ECM motor module (control module) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lennox-error-code-432&k=ECM+motor+module+%28control+module%29&tag=errorcodefixes-20) \| Lennox-specific module — matches the motor's frame and communicating protocol |
+| ECM blower motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lennox-error-code-432&k=ECM+blower+motor&tag=errorcodefixes-20) \| Full motor replacement if module tests good but motor still fails |
+| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-lennox-error-code-432&tag=errorcodefixes-20) \| If board relay is confirmed failed and no signal is reaching the motor |
 ## When to Call a Pro
 
 ECM motor module replacements on Lennox communicating systems require matching the exact part number. Installing the wrong module can damage the motor. If diagnostics point to the module, confirm the part number before ordering and have a certified Lennox dealer verify the installation.

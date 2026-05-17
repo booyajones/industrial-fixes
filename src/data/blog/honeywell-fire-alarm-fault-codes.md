@@ -54,10 +54,10 @@ The NOTIFIER panel performs a battery load test every 24 hours. If the battery v
 
 | Part | Notes |
 |------|-------|
-| FAPT/FSP detector head | [Amazon](https://www.amazon.com/s?i=industrial&k=FAPT%2FFSP+detector+head&tag=errorcodefixes-20) \| Replace on dirty or failed head |
-| 12V sealed lead-acid battery | [Amazon](https://www.amazon.com/s?i=industrial&k=12V+sealed+lead-acid+battery&tag=errorcodefixes-20) \| Replace as a pair on 24V systems |
-| End-of-line resistor EOLR-1 | [Amazon](https://www.amazon.com/s?i=industrial&k=End-of-line+resistor+EOLR-1&tag=errorcodefixes-20) \| Required on NAC circuits |
-| SLC isolator module | [Amazon](https://www.amazon.com/s?i=industrial&k=SLC+isolator+module&tag=errorcodefixes-20) \| Install if ground fault isolation needed |
+| FAPT/FSP detector head | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-honeywell-fire-alarm-fault-codes&k=FAPT%2FFSP+detector+head&tag=errorcodefixes-20) \| Replace on dirty or failed head |
+| 12V sealed lead-acid battery | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-honeywell-fire-alarm-fault-codes&k=12V+sealed+lead-acid+battery&tag=errorcodefixes-20) \| Replace as a pair on 24V systems |
+| End-of-line resistor EOLR-1 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-honeywell-fire-alarm-fault-codes&k=End-of-line+resistor+EOLR-1&tag=errorcodefixes-20) \| Required on NAC circuits |
+| SLC isolator module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-honeywell-fire-alarm-fault-codes&k=SLC+isolator+module&tag=errorcodefixes-20) \| Install if ground fault isolation needed |
 ## Jump to Fix
 
 - **Dirty detector** → Walk to address → Clean head with dry air → Reset

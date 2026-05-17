@@ -36,13 +36,13 @@ But they work very differently. And the right choice depends on your home, your 
 
 These are national average installed prices for 2025-2026:
 
-| [Water heater type](https://www.amazon.com/s?i=industrial&k=Water+heater+type&tag=errorcodefixes-20) | Unit cost | Installed cost | Key installation notes |
+| [Water heater type](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-water-heater-vs-tankless&k=Water+heater+type&tag=errorcodefixes-20) | Unit cost | Installed cost | Key installation notes |
 |----------------------|----------|--------------|----------------------|
-| [50-gallon heat pump water heater](https://www.amazon.com/s?i=industrial&k=50+gallon+heat+pump+water+heater&tag=errorcodefixes-20) | $1,200 to $2,000 | $1,800 to $3,000 | Needs condensate drain, 240V outlet, 750+ cubic ft of space |
-| [65 to 80-gallon heat pump water heater](https://www.amazon.com/s?i=industrial&k=80+gallon+heat+pump+water+heater&tag=errorcodefixes-20) | $1,500 to $2,500 | $2,200 to $3,500 | Larger tank, needed for 4+ person households |
-| [Gas tankless (whole house)](https://www.amazon.com/s?i=industrial&k=Gas+tankless+water+heater&tag=errorcodefixes-20) | $600 to $1,200 | $1,500 to $2,800 | Gas line upgrade, stainless venting, condensate drain |
-| [Electric tankless (whole house)](https://www.amazon.com/s?i=industrial&k=Electric+tankless+water+heater&tag=errorcodefixes-20) | $500 to $900 | $1,200 to $2,500 | Panel upgrade likely (80 to 150 amp draw, $800 to $2,500) |
-| [Standard 50-gallon electric tank](https://www.amazon.com/s?i=industrial&k=50+gallon+electric+water+heater&tag=errorcodefixes-20) | $400 to $700 | $700 to $1,200 | Simple swap, no special requirements |
+| [50-gallon heat pump water heater](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-water-heater-vs-tankless&k=50+gallon+heat+pump+water+heater&tag=errorcodefixes-20) | $1,200 to $2,000 | $1,800 to $3,000 | Needs condensate drain, 240V outlet, 750+ cubic ft of space |
+| [65 to 80-gallon heat pump water heater](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-water-heater-vs-tankless&k=80+gallon+heat+pump+water+heater&tag=errorcodefixes-20) | $1,500 to $2,500 | $2,200 to $3,500 | Larger tank, needed for 4+ person households |
+| [Gas tankless (whole house)](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-water-heater-vs-tankless&k=Gas+tankless+water+heater&tag=errorcodefixes-20) | $600 to $1,200 | $1,500 to $2,800 | Gas line upgrade, stainless venting, condensate drain |
+| [Electric tankless (whole house)](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-water-heater-vs-tankless&k=Electric+tankless+water+heater&tag=errorcodefixes-20) | $500 to $900 | $1,200 to $2,500 | Panel upgrade likely (80 to 150 amp draw, $800 to $2,500) |
+| [Standard 50-gallon electric tank](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-water-heater-vs-tankless&k=50+gallon+electric+water+heater&tag=errorcodefixes-20) | $400 to $700 | $700 to $1,200 | Simple swap, no special requirements |
 
 **The HPWH upfront cost is higher than tankless in most cases.** But the IRA rebate changes that math substantially.
 
@@ -52,11 +52,11 @@ These are national average installed prices for 2025-2026:
 
 The Inflation Reduction Act created significant financial incentives for heat pump water heaters specifically. Tankless units do not qualify for the same level of support.
 
-| [Incentive](https://www.amazon.com/s?i=industrial&k=IRA+water+heater+rebate&tag=errorcodefixes-20) | Heat pump water heater | Tankless (gas or electric) |
+| [Incentive](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-water-heater-vs-tankless&k=IRA+water+heater+rebate&tag=errorcodefixes-20) | Heat pump water heater | Tankless (gas or electric) |
 |-----------|----------------------|--------------------------|
-| [Federal tax credit (30% of cost)](https://www.amazon.com/s?i=industrial&k=Federal+tax+credit+water+heater&tag=errorcodefixes-20) | Up to $2,000 | Up to $600 (gas only, 95%+ efficient) |
-| [HOMES rebate (income-qualified)](https://www.amazon.com/s?i=industrial&k=HOMES+rebate+water+heater&tag=errorcodefixes-20) | Up to $1,750 | Not eligible |
-| [State-level HPWH rebates](https://www.amazon.com/s?i=industrial&k=State+heat+pump+water+heater+rebate&tag=errorcodefixes-20) | $200 to $1,000 (varies) | $50 to $200 (gas efficiency rebate) |
+| [Federal tax credit (30% of cost)](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-water-heater-vs-tankless&k=Federal+tax+credit+water+heater&tag=errorcodefixes-20) | Up to $2,000 | Up to $600 (gas only, 95%+ efficient) |
+| [HOMES rebate (income-qualified)](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-water-heater-vs-tankless&k=HOMES+rebate+water+heater&tag=errorcodefixes-20) | Up to $1,750 | Not eligible |
+| [State-level HPWH rebates](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-water-heater-vs-tankless&k=State+heat+pump+water+heater+rebate&tag=errorcodefixes-20) | $200 to $1,000 (varies) | $50 to $200 (gas efficiency rebate) |
 
 **A $2,000 HPWH installed for $2,500 minus a $1,750 rebate = $750 out of pocket.** That makes the HPWH cheaper than a tankless unit after incentives in many states.
 
@@ -68,11 +68,11 @@ The HOMES rebate is administered by each state. Some states have launched their 
 
 ## Energy Factor and Efficiency Ratings
 
-| [Metric](https://www.amazon.com/s?i=industrial&k=Water+heater+efficiency&tag=errorcodefixes-20) | Heat pump water heater (50-gal) | Gas tankless | Electric tankless | Standard electric tank |
+| [Metric](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-water-heater-vs-tankless&k=Water+heater+efficiency&tag=errorcodefixes-20) | Heat pump water heater (50-gal) | Gas tankless | Electric tankless | Standard electric tank |
 |--------|-------------------------------|-------------|-----------------|----------------------|
-| [UEF rating](https://www.amazon.com/s?i=industrial&k=UEF+water+heater&tag=errorcodefixes-20) | 2.0 to 4.0 | 0.82 to 0.96 | 0.94 to 0.99 | 0.88 to 0.95 |
-| [Annual energy cost (family of 4)](https://www.amazon.com/s?i=industrial&k=Annual+energy+cost+water+heater&tag=errorcodefixes-20) | $150 to $250 | $200 to $350 | $350 to $500 | $400 to $600 |
-| [Annual savings vs standard electric](https://www.amazon.com/s?i=industrial&k=Annual+savings+water+heater&tag=errorcodefixes-20) | $250 to $350 | N/A (gas vs electric comparison) | $50 to $150 | Baseline |
+| [UEF rating](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-water-heater-vs-tankless&k=UEF+water+heater&tag=errorcodefixes-20) | 2.0 to 4.0 | 0.82 to 0.96 | 0.94 to 0.99 | 0.88 to 0.95 |
+| [Annual energy cost (family of 4)](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-water-heater-vs-tankless&k=Annual+energy+cost+water+heater&tag=errorcodefixes-20) | $150 to $250 | $200 to $350 | $350 to $500 | $400 to $600 |
+| [Annual savings vs standard electric](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-water-heater-vs-tankless&k=Annual+savings+water+heater&tag=errorcodefixes-20) | $250 to $350 | N/A (gas vs electric comparison) | $50 to $150 | Baseline |
 
 **The HPWH is the most efficient option by a wide margin.** A UEF of 3.0 means it produces 3 units of hot water energy for every 1 unit of electricity it consumes. No other water heater type comes close.
 
@@ -106,12 +106,12 @@ This is the most common dealbreaker for heat pump water heaters.
 
 ## Climate Performance
 
-| [Climate zone](https://www.amazon.com/s?i=industrial&k=Water+heater+climate&tag=errorcodefixes-20) | Heat pump water heater | Gas tankless | Electric tankless |
+| [Climate zone](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-water-heater-vs-tankless&k=Water+heater+climate&tag=errorcodefixes-20) | Heat pump water heater | Gas tankless | Electric tankless |
 |--------------|----------------------|-------------|-----------------|
-| [Warm climate (Southeast, Southwest)](https://www.amazon.com/s?i=industrial&k=Warm+climate+water+heater&tag=errorcodefixes-20) | Excellent. Heat pump efficiency peaks in warm air. Bonus: dehumidifies the space. | Good | Good |
-| [Mixed climate (Mid-Atlantic, PNW)](https://www.amazon.com/s?i=industrial&k=Mixed+climate+water+heater&tag=errorcodefixes-20) | Good. Can be installed in conditioned basement. Efficiency drops slightly in winter. | Good | Good |
-| [Cold climate (Northeast, Midwest)](https://www.amazon.com/s?i=industrial&k=Cold+climate+water+heater&tag=errorcodefixes-20) | Fair. Must be in conditioned basement. Garage or uninsulated space kills efficiency. | Good | Good |
-| [Very cold climate (MN, WI, ME, ND)](https://www.amazon.com/s?i=industrial&k=Very+cold+climate+water+heater&tag=errorcodefixes-20) | Limited. Strongly depends on indoor installation in heated space. Garage installs are not viable. | Good | Good |
+| [Warm climate (Southeast, Southwest)](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-water-heater-vs-tankless&k=Warm+climate+water+heater&tag=errorcodefixes-20) | Excellent. Heat pump efficiency peaks in warm air. Bonus: dehumidifies the space. | Good | Good |
+| [Mixed climate (Mid-Atlantic, PNW)](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-water-heater-vs-tankless&k=Mixed+climate+water+heater&tag=errorcodefixes-20) | Good. Can be installed in conditioned basement. Efficiency drops slightly in winter. | Good | Good |
+| [Cold climate (Northeast, Midwest)](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-water-heater-vs-tankless&k=Cold+climate+water+heater&tag=errorcodefixes-20) | Fair. Must be in conditioned basement. Garage or uninsulated space kills efficiency. | Good | Good |
+| [Very cold climate (MN, WI, ME, ND)](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-water-heater-vs-tankless&k=Very+cold+climate+water+heater&tag=errorcodefixes-20) | Limited. Strongly depends on indoor installation in heated space. Garage installs are not viable. | Good | Good |
 
 **The cold climate HPWH question:** If you install a HPWH in your basement in Minnesota, it works fine because the basement is conditioned (heated) space. But you need to ensure the basement has 750+ cubic feet of open space. If the HPWH is in a small utility room with a closed door, it will switch to resistance heat mode and lose efficiency.
 
@@ -123,13 +123,13 @@ This is the most common dealbreaker for heat pump water heaters.
 
 Here is the 10-year cost comparison for a family of 4 replacing an old standard electric water heater:
 
-| [Water heater type](https://www.amazon.com/s?i=industrial&k=Water+heater+type&tag=errorcodefixes-20) | Installed cost | Annual energy cost | 10-year total (installed + energy) | 10-year savings vs standard electric |
+| [Water heater type](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-water-heater-vs-tankless&k=Water+heater+type&tag=errorcodefixes-20) | Installed cost | Annual energy cost | 10-year total (installed + energy) | 10-year savings vs standard electric |
 |----------------------|--------------|------------------|-----------------------------------|-------------------------------------|
-| [Standard electric tank (50-gal)](https://www.amazon.com/s?i=industrial&k=Standard+electric+water+heater&tag=errorcodefixes-20) | $900 | $450 | $5,400 | Baseline |
-| [Heat pump water heater (50-gal)](https://www.amazon.com/s?i=industrial&k=Heat+pump+water+heater&tag=errorcodefixes-20) | $2,200 | $200 | $4,200 | $1,200 saved |
-| [Heat pump WH with IRA rebate ($1,750)](https://www.amazon.com/s?i=industrial&k=Heat+pump+water+heater&tag=errorcodefixes-20) | $450 (after rebate) | $200 | $2,450 | $2,950 saved |
-| [Gas tankless](https://www.amazon.com/s?i=industrial&k=Gas+tankless+water+heater&tag=errorcodefixes-20) | $2,000 | $300 | $5,000 | $400 saved |
-| [Electric tankless (with panel upgrade)](https://www.amazon.com/s?i=industrial&k=Electric+tankless+water+heater&tag=errorcodefixes-20) | $2,800 | $400 | $6,800 | -$1,400 (costs more) |
+| [Standard electric tank (50-gal)](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-water-heater-vs-tankless&k=Standard+electric+water+heater&tag=errorcodefixes-20) | $900 | $450 | $5,400 | Baseline |
+| [Heat pump water heater (50-gal)](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-water-heater-vs-tankless&k=Heat+pump+water+heater&tag=errorcodefixes-20) | $2,200 | $200 | $4,200 | $1,200 saved |
+| [Heat pump WH with IRA rebate ($1,750)](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-water-heater-vs-tankless&k=Heat+pump+water+heater&tag=errorcodefixes-20) | $450 (after rebate) | $200 | $2,450 | $2,950 saved |
+| [Gas tankless](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-water-heater-vs-tankless&k=Gas+tankless+water+heater&tag=errorcodefixes-20) | $2,000 | $300 | $5,000 | $400 saved |
+| [Electric tankless (with panel upgrade)](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-water-heater-vs-tankless&k=Electric+tankless+water+heater&tag=errorcodefixes-20) | $2,800 | $400 | $6,800 | -$1,400 (costs more) |
 
 **HPWH payback period without rebate:** 4 to 6 years. After that, you are saving $250 to $350 per year.
 

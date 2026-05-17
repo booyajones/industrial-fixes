@@ -46,12 +46,12 @@ The control tried to sense the pilot flame and got no signal. This means either:
 
 | Cause | How common | Fix |
 |-------|-----------|-----|
-| [Pilot went out (draft, gas interruption)](https://www.amazon.com/s?i=industrial&k=Pilot+went+out+%28draft%2C+gas+interruption%29&tag=errorcodefixes-20) | Very common | Relight per instructions on heater label |
-| [Thermocouple failed or loose](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) | Very common | Replace thermocouple ($8–$25) |
-| [Thermopile failed (low millivolt output)](https://www.amazon.com/s?i=industrial&k=Thermopile+failed+%28low+millivolt+output%29&tag=errorcodefixes-20) | Common | Replace thermopile ($20–$55) |
-| [Pilot orifice clogged](https://www.amazon.com/s?i=industrial&k=Pilot+orifice+clogged&tag=errorcodefixes-20) | Occasional | Clean pilot assembly |
-| [Gas supply interrupted](https://www.amazon.com/s?i=industrial&k=Gas+supply+interrupted&tag=errorcodefixes-20) | Occasional | Check meter, shutoff valve, other appliances |
-| [Gas valve failure](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) | Uncommon | Replace gas valve ($90–$200) |
+| [Pilot went out (draft, gas interruption)](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-error-code-1&k=Pilot+went+out+%28draft%2C+gas+interruption%29&tag=errorcodefixes-20) | Very common | Relight per instructions on heater label |
+| [Thermocouple failed or loose](https://www.amazon.com/dp/B00RJF4PYQ?ascsubtag=ecf-bradford-white-error-code-1&tag=errorcodefixes-20) | Very common | Replace thermocouple ($8–$25) |
+| [Thermopile failed (low millivolt output)](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-error-code-1&k=Thermopile+failed+%28low+millivolt+output%29&tag=errorcodefixes-20) | Common | Replace thermopile ($20–$55) |
+| [Pilot orifice clogged](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-error-code-1&k=Pilot+orifice+clogged&tag=errorcodefixes-20) | Occasional | Clean pilot assembly |
+| [Gas supply interrupted](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-error-code-1&k=Gas+supply+interrupted&tag=errorcodefixes-20) | Occasional | Check meter, shutoff valve, other appliances |
+| [Gas valve failure](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-bradford-white-error-code-1&tag=errorcodefixes-20) | Uncommon | Replace gas valve ($90–$200) |
 
 Start with the simplest fix: relight the pilot. If it relights and holds, no parts needed. If it relights but the error returns within minutes, the thermocouple or thermopile is failing.
 
@@ -115,10 +115,10 @@ Full step-by-step with photos is on the Bradford White data plate. The Pilot Rel
 
 | Part | Bradford White OEM # | Amazon equivalent | Cost |
 |------|---------------------|-------------------|------|
-| [Thermocouple (standard)](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) | 239-40336-00 | Universal 24" thermocouple | $8–$18 |
-| [Thermopile (Defender models)](https://www.amazon.com/s?i=industrial&k=Thermopile+%28Defender+models%29&tag=errorcodefixes-20) | 100-112568-07 | Honeywell Q340A1082 thermopile | $20–$55 |
-| [Gas valve (if valve fails test)](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) | 239-48774-00 | Brand-specific, call Bradford White | $90–$200 |
-| [Pilot assembly (complete)](https://www.amazon.com/s?i=industrial&k=Pilot+assembly+%28complete%29&tag=errorcodefixes-20) | 239-41599-00 | Model-specific | $35–$80 |
+| [Thermocouple (standard)](https://www.amazon.com/dp/B00RJF4PYQ?ascsubtag=ecf-bradford-white-error-code-1&tag=errorcodefixes-20) | 239-40336-00 | Universal 24" thermocouple | $8–$18 |
+| [Thermopile (Defender models)](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-error-code-1&k=Thermopile+%28Defender+models%29&tag=errorcodefixes-20) | 100-112568-07 | Honeywell Q340A1082 thermopile | $20–$55 |
+| [Gas valve (if valve fails test)](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-bradford-white-error-code-1&tag=errorcodefixes-20) | 239-48774-00 | Brand-specific, call Bradford White | $90–$200 |
+| [Pilot assembly (complete)](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-error-code-1&k=Pilot+assembly+%28complete%29&tag=errorcodefixes-20) | 239-41599-00 | Model-specific | $35–$80 |
 
 **Tool needed:** A 7/16" wrench or adjustable pliers to disconnect and reconnect the thermocouple nut. The replacement takes about 15 minutes on most models.
 

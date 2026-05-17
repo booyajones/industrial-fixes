@@ -16,13 +16,13 @@ When a circuit breaker trips in a residential, commercial, or industrial panel, 
 
 ## Types of Circuit Breaker Trips
 
-| [Trip Type](https://www.amazon.com/s?i=industrial&k=Trip+Type&tag=errorcodefixes-20) | Visual Indicator | Most Common Cause |
+| [Trip Type](https://www.amazon.com/s?ascsubtag=ecf-electrical-panel-trip-reset&k=Trip+Type&tag=errorcodefixes-20) | Visual Indicator | Most Common Cause |
 |-----------|-----------------|-----------------|
-| [Overload](https://www.amazon.com/s?i=industrial&k=Overload&tag=errorcodefixes-20) | Handle moves to middle position | Too many devices on the circuit |
-| [Short circuit](https://www.amazon.com/s?i=industrial&k=Short+circuit&tag=errorcodefixes-20) | Handle moves to middle or OFF | Shorted wire, failed appliance |
-| [Ground fault (GFCI/AFCI)](https://www.amazon.com/s?i=industrial&k=Ground+fault+%28GFCI%2FAFCI%29&tag=errorcodefixes-20) | Test/reset button popped out | Moisture, damaged cord |
-| [Thermal-magnetic](https://www.amazon.com/s?i=industrial&k=Thermal-magnetic&tag=errorcodefixes-20) | Handle to middle | Sustained overcurrent |
-| [Electronic (molded case)](https://www.amazon.com/s?i=industrial&k=Electronic+%28molded+case%29&tag=errorcodefixes-20) | Fault indicator LED | Programmable trip points |
+| [Overload](https://www.amazon.com/s?ascsubtag=ecf-electrical-panel-trip-reset&k=Overload&tag=errorcodefixes-20) | Handle moves to middle position | Too many devices on the circuit |
+| [Short circuit](https://www.amazon.com/s?ascsubtag=ecf-electrical-panel-trip-reset&k=Short+circuit&tag=errorcodefixes-20) | Handle moves to middle or OFF | Shorted wire, failed appliance |
+| [Ground fault (GFCI/AFCI)](https://www.amazon.com/s?ascsubtag=ecf-electrical-panel-trip-reset&k=Ground+fault+%28GFCI%2FAFCI%29&tag=errorcodefixes-20) | Test/reset button popped out | Moisture, damaged cord |
+| [Thermal-magnetic](https://www.amazon.com/s?ascsubtag=ecf-electrical-panel-trip-reset&k=Thermal-magnetic&tag=errorcodefixes-20) | Handle to middle | Sustained overcurrent |
+| [Electronic (molded case)](https://www.amazon.com/s?ascsubtag=ecf-electrical-panel-trip-reset&k=Electronic+%28molded+case%29&tag=errorcodefixes-20) | Fault indicator LED | Programmable trip points |
 
 ## How to Reset a Tripped Breaker
 
@@ -48,10 +48,10 @@ When a circuit breaker trips in a residential, commercial, or industrial panel, 
 
 | Symptom | Root Cause | Fix |
 |---------|-----------|-----|
-| [Trips immediately on reset](https://www.amazon.com/s?i=industrial&k=Trips+immediately+on+reset&tag=errorcodefixes-20) | Short circuit in wiring or device | Find and repair short |
-| [Trips after 5-10 minutes](https://www.amazon.com/s?i=industrial&k=Trips+after+5-10+minutes&tag=errorcodefixes-20) | Thermal overload | Reduce load or upgrade circuit |
-| [Trips randomly](https://www.amazon.com/s?i=industrial&k=Trips+randomly&tag=errorcodefixes-20) | Loose connection, failing breaker | Tighten lugs, replace breaker |
-| [One phase trips, others fine](https://www.amazon.com/s?i=industrial&k=One+phase+trips%2C+others+fine&tag=errorcodefixes-20) | Three-phase imbalance | Check motor and load balance |
+| [Trips immediately on reset](https://www.amazon.com/s?ascsubtag=ecf-electrical-panel-trip-reset&k=Trips+immediately+on+reset&tag=errorcodefixes-20) | Short circuit in wiring or device | Find and repair short |
+| [Trips after 5-10 minutes](https://www.amazon.com/s?ascsubtag=ecf-electrical-panel-trip-reset&k=Trips+after+5-10+minutes&tag=errorcodefixes-20) | Thermal overload | Reduce load or upgrade circuit |
+| [Trips randomly](https://www.amazon.com/s?ascsubtag=ecf-electrical-panel-trip-reset&k=Trips+randomly&tag=errorcodefixes-20) | Loose connection, failing breaker | Tighten lugs, replace breaker |
+| [One phase trips, others fine](https://www.amazon.com/s?ascsubtag=ecf-electrical-panel-trip-reset&k=One+phase+trips%2C+others+fine&tag=errorcodefixes-20) | Three-phase imbalance | Check motor and load balance |
 
 ## When to Call a Pro
 

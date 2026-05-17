@@ -43,10 +43,10 @@ Centrifugal compressors rely on pressurized lube oil for bearings. Check the oil
 
 | Part | Notes |
 |------|-------|
-| Inlet filter element | [Amazon](https://www.amazon.com/s?i=industrial&k=Inlet+filter+element&tag=errorcodefixes-20) \| High DP trips are common |
-| Oil filter cartridge | [Amazon](https://www.amazon.com/s?i=industrial&k=Oil+filter+cartridge&tag=errorcodefixes-20) \| Replace at service interval |
-| Bearing temperature sensors | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Common alarm source |
-| Oil cooler cleaning | [Amazon](https://www.amazon.com/s?i=industrial&k=Oil+cooler+cleaning&tag=errorcodefixes-20) \| Required if oil temps rise |
+| Inlet filter element | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fs-elliott-compressor-faults&k=Inlet+filter+element&tag=errorcodefixes-20) \| High DP trips are common |
+| Oil filter cartridge | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fs-elliott-compressor-faults&k=Oil+filter+cartridge&tag=errorcodefixes-20) \| Replace at service interval |
+| Bearing temperature sensors | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-fs-elliott-compressor-faults&tag=errorcodefixes-20) \| Common alarm source |
+| Oil cooler cleaning | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fs-elliott-compressor-faults&k=Oil+cooler+cleaning&tag=errorcodefixes-20) \| Required if oil temps rise |
 ## Jump to Fix
 
 - **Surge alarm** → Open recycle/blow-off → Reduce discharge pressure → Check demand

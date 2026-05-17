@@ -54,12 +54,12 @@ Refrigerant circuit fault. High pressure = dirty condenser or overcharge. Low pr
 
 | Part | Which Alarms It Fixes |
 |------|----------------------|
-| NTC temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| E1, Sensor Fault, Code 7 |
-| Defrost heater | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) \| E3, Code 5, Defrost Fault |
-| Defrost termination thermostat | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| E3, Code 5 |
-| Evaporator fan motor | [Amazon](https://www.amazon.com/dp/B01N0J3ZEH?tag=errorcodefixes-20) \| E4, Code 6, Fan Alarm |
-| Door gasket | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?tag=errorcodefixes-20) \| E2, HI, High Temp |
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| E2, High Temp (when condenser-related) |
+| NTC temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-refrigeration-system-error-codes&tag=errorcodefixes-20) \| E1, Sensor Fault, Code 7 |
+| Defrost heater | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?ascsubtag=ecf-refrigeration-system-error-codes&tag=errorcodefixes-20) \| E3, Code 5, Defrost Fault |
+| Defrost termination thermostat | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-refrigeration-system-error-codes&tag=errorcodefixes-20) \| E3, Code 5 |
+| Evaporator fan motor | [Amazon](https://www.amazon.com/dp/B01N0J3ZEH?ascsubtag=ecf-refrigeration-system-error-codes&tag=errorcodefixes-20) \| E4, Code 6, Fan Alarm |
+| Door gasket | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?ascsubtag=ecf-refrigeration-system-error-codes&tag=errorcodefixes-20) \| E2, HI, High Temp |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-refrigeration-system-error-codes&tag=errorcodefixes-20) \| E2, High Temp (when condenser-related) |
 ## When to Call a Pro
 
 Any pressure fault (high or low) indicates a refrigerant system issue requiring EPA 608 certification. Do not attempt to add refrigerant without finding and repairing the leak.

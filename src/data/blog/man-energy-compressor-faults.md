@@ -43,10 +43,10 @@ Rider rings support the piston and rod in horizontal cylinder compressors. As th
 
 | Part | Notes |
 |------|-------|
-| Suction/discharge valve assemblies | [Amazon](https://www.amazon.com/s?i=industrial&k=Suction%2Fdischarge+valve+assemblies&tag=errorcodefixes-20) \| Most common recip wear item |
-| Rider rings and piston rings | [Amazon](https://www.amazon.com/s?i=industrial&k=Rider+rings+and+piston+rings&tag=errorcodefixes-20) \| Replace on rod drop alarm |
-| Packing rings | [Amazon](https://www.amazon.com/s?i=industrial&k=Packing+rings&tag=errorcodefixes-20) \| Inspect when discharge temp is high |
-| Lube oil filter elements | [Amazon](https://www.amazon.com/s?i=industrial&k=Lube+oil+filter+elements&tag=errorcodefixes-20) \| Replace at interval |
+| Suction/discharge valve assemblies | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-man-energy-compressor-faults&k=Suction%2Fdischarge+valve+assemblies&tag=errorcodefixes-20) \| Most common recip wear item |
+| Rider rings and piston rings | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-man-energy-compressor-faults&k=Rider+rings+and+piston+rings&tag=errorcodefixes-20) \| Replace on rod drop alarm |
+| Packing rings | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-man-energy-compressor-faults&k=Packing+rings&tag=errorcodefixes-20) \| Inspect when discharge temp is high |
+| Lube oil filter elements | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-man-energy-compressor-faults&k=Lube+oil+filter+elements&tag=errorcodefixes-20) \| Replace at interval |
 ## Jump to Fix
 
 - **High discharge temp** → Check cooling water → Inspect valves → Check intercooler

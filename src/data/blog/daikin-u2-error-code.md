@@ -36,10 +36,10 @@ U2 on a Daikin mini-split or multi-zone system indicates a power supply undervol
 
 | Part | Notes |
 |------|-------|
-| Start capacitor (outdoor unit) | [Amazon](https://www.amazon.com/s?i=industrial&k=Start+capacitor+%28outdoor+unit%29&tag=errorcodefixes-20) \| A weak start cap causes high inrush and voltage dip |
-| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Test with capacitor meter; replace if outside tolerance |
-| Disconnect block or fuse holder | [Amazon](https://www.amazon.com/s?i=industrial&k=Disconnect+block+or+fuse+holder&tag=errorcodefixes-20) \| Replace if contacts are corroded or burned |
-| Wire (correct gauge) | [Amazon](https://www.amazon.com/s?i=industrial&k=Wire+%28correct+gauge%29&tag=errorcodefixes-20) \| Upgrade if voltage drop calculation shows undersizing |
+| Start capacitor (outdoor unit) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-u2-error-code&k=Start+capacitor+%28outdoor+unit%29&tag=errorcodefixes-20) \| A weak start cap causes high inrush and voltage dip |
+| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-daikin-u2-error-code&tag=errorcodefixes-20) \| Test with capacitor meter; replace if outside tolerance |
+| Disconnect block or fuse holder | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-u2-error-code&k=Disconnect+block+or+fuse+holder&tag=errorcodefixes-20) \| Replace if contacts are corroded or burned |
+| Wire (correct gauge) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-u2-error-code&k=Wire+%28correct+gauge%29&tag=errorcodefixes-20) \| Upgrade if voltage drop calculation shows undersizing |
 ## When to Call a Pro
 
 Low utility voltage and wiring upgrades require a licensed electrician. A U2 that recurs after tightening connections and confirming wire sizing needs an electrical load analysis to identify the root cause.

@@ -36,9 +36,9 @@ Mitsubishi error code E4 indicates the condensate drain is full or blocked — t
 
 | Part | Notes |
 |------|-------|
-| Condensate drain pan tablets | [Amazon](https://www.amazon.com/s?i=industrial&k=Condensate+drain+pan+tablets&tag=errorcodefixes-20) \| Algaecide tablets prevent buildup; replace every 6 months |
-| Condensate drain hose (1/2" or 3/4" ID) | [Amazon](https://www.amazon.com/s?i=industrial&k=Condensate+drain+hose+%281%2F2"+or+3%2F4"+ID%29&tag=errorcodefixes-20) \| Replace if old hose is brittle or permanently kinked |
-| Float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?tag=errorcodefixes-20) \| Replace if drain is clear but E4 still triggers; confirm float moves freely |
+| Condensate drain pan tablets | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-e4-error-code&k=Condensate+drain+pan+tablets&tag=errorcodefixes-20) \| Algaecide tablets prevent buildup; replace every 6 months |
+| Condensate drain hose (1/2" or 3/4" ID) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-e4-error-code&k=Condensate+drain+hose+%281%2F2"+or+3%2F4"+ID%29&tag=errorcodefixes-20) \| Replace if old hose is brittle or permanently kinked |
+| Float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?ascsubtag=ecf-mitsubishi-e4-error-code&tag=errorcodefixes-20) \| Replace if drain is clear but E4 still triggers; confirm float moves freely |
 ## When to Call a Pro
 
 If the drain line is clear and the float switch moves freely but E4 persists, the PCB float switch input circuit may be faulty. That's a board-level diagnosis.

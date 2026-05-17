@@ -65,12 +65,12 @@ The diagnosis starts with the cheapest and easiest fix then moves toward more in
 
 ## Parts You May Need
 
-- [HVAC air filter pack (MERV 8)](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20)
-- [Universal flame sensor](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20)
-- [Furnace limit switch replacement](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20)
-- [Furnace pressure switch](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20)
-- [Blower motor run capacitor](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20)
-- [Condensate drain cleaning brush kit](https://www.amazon.com/s?i=industrial&k=HVAC+condensate+drain+brush+kit&tag=errorcodefixes-20)
+- [HVAC air filter pack (MERV 8)](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-furnace-short-cycling&tag=errorcodefixes-20)
+- [Universal flame sensor](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-furnace-short-cycling&tag=errorcodefixes-20)
+- [Furnace limit switch replacement](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-furnace-short-cycling&tag=errorcodefixes-20)
+- [Furnace pressure switch](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-furnace-short-cycling&tag=errorcodefixes-20)
+- [Blower motor run capacitor](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-furnace-short-cycling&tag=errorcodefixes-20)
+- [Condensate drain cleaning brush kit](https://www.amazon.com/s?ascsubtag=ecf-furnace-short-cycling&k=HVAC+condensate+drain+brush+kit&tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

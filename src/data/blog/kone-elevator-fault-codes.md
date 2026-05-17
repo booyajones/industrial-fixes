@@ -47,11 +47,11 @@ UCM detection is a mandatory safety feature on modern KONE installations. If the
 
 | Part | Notes |
 |------|-------|
-| KONE door contact | [Amazon](https://www.amazon.com/s?i=industrial&k=KONE+door+contact&tag=errorcodefixes-20) \| Replace when worn |
-| KONE KSD door operator | [Amazon](https://www.amazon.com/s?i=industrial&k=KONE+KSD+door+operator&tag=errorcodefixes-20) \| Replace on door fault |
-| EcoDisc brake coil | [Amazon](https://www.amazon.com/s?i=industrial&k=EcoDisc+brake+coil&tag=errorcodefixes-20) \| Replace on brake fault |
-| V3F16L drive board | [Amazon](https://www.amazon.com/s?i=industrial&k=V3F16L+drive+board&tag=errorcodefixes-20) \| Replace on persistent drive fault |
-| Encoder (EcoDisc motor) | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+%28EcoDisc+motor%29&tag=errorcodefixes-20) \| Replace on encoder fault |
+| KONE door contact | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kone-elevator-fault-codes&k=KONE+door+contact&tag=errorcodefixes-20) \| Replace when worn |
+| KONE KSD door operator | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kone-elevator-fault-codes&k=KONE+KSD+door+operator&tag=errorcodefixes-20) \| Replace on door fault |
+| EcoDisc brake coil | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kone-elevator-fault-codes&k=EcoDisc+brake+coil&tag=errorcodefixes-20) \| Replace on brake fault |
+| V3F16L drive board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kone-elevator-fault-codes&k=V3F16L+drive+board&tag=errorcodefixes-20) \| Replace on persistent drive fault |
+| Encoder (EcoDisc motor) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kone-elevator-fault-codes&k=Encoder+%28EcoDisc+motor%29&tag=errorcodefixes-20) \| Replace on encoder fault |
 ## When to Call a Pro
 **KONE elevator systems require licensed elevator mechanics.** KONE Care service tools and software are proprietary. Do not attempt repair or fault reset without proper training and authorization.
 

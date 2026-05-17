@@ -74,7 +74,7 @@ This guide covers the four most common Greentherm fault codes and what to do whe
 5. Fan motor replacement on the Greentherm 9000/9800 is a moderate DIY repair. The motor is accessible after removing the front cover and combustion air tube.
 
 **Parts:**
-- [Bosch Greentherm Fan Motor Replacement](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20)
+- [Bosch Greentherm Fan Motor Replacement](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-bosch-greentherm-error-codes&tag=errorcodefixes-20)
 
 ---
 
@@ -96,7 +96,7 @@ This guide covers the four most common Greentherm fault codes and what to do whe
 5. If resistance is correct and the connector is secure, suspect the wiring harness between sensor and board — check for continuity along each wire.
 
 **Parts:**
-- [NTC Thermistor 10K for Bosch Tankless Water Heater](https://www.amazon.com/s?i=industrial&k=NTC+thermistor+10k+Bosch+tankless+water+heater+sensor&tag=errorcodefixes-20)
+- [NTC Thermistor 10K for Bosch Tankless Water Heater](https://www.amazon.com/s?ascsubtag=ecf-bosch-greentherm-error-codes&k=NTC+thermistor+10k+Bosch+tankless+water+heater+sensor&tag=errorcodefixes-20)
 
 ---
 
@@ -123,10 +123,10 @@ This guide covers the four most common Greentherm fault codes and what to do whe
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|-------------|
-| Flame Sensor / Igniter Electrode | $30–$60 | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) |
-| Fan Motor Assembly | $150–$280 | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) |
-| Outlet Temperature Sensor (NTC) | $20–$45 | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) |
-| Gas Valve | $180–$300 | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) |
+| Flame Sensor / Igniter Electrode | $30–$60 | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-bosch-greentherm-error-codes&tag=errorcodefixes-20) |
+| Fan Motor Assembly | $150–$280 | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-bosch-greentherm-error-codes&tag=errorcodefixes-20) |
+| Outlet Temperature Sensor (NTC) | $20–$45 | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-bosch-greentherm-error-codes&tag=errorcodefixes-20) |
+| Gas Valve | $180–$300 | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-bosch-greentherm-error-codes&tag=errorcodefixes-20) |
 
 ---
 

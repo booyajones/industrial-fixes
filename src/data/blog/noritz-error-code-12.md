@@ -36,10 +36,10 @@ Error code 12 on a Noritz tankless water heater indicates a flame failure — th
 
 | Part | Notes |
 |------|-------|
-| Flame rod / ionization sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Flame+rod+%2F+ionization+sensor&tag=errorcodefixes-20) \| Clean first; replace if corroded or wire insulation is damaged |
-| Igniter assembly | [Amazon](https://www.amazon.com/s?i=industrial&k=Igniter+assembly&tag=errorcodefixes-20) \| Match Noritz model (NRC, NRCR, EZ series vary) |
-| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Replace if voltage present at coil but valve won't open |
-| Air intake screen | [Amazon](https://www.amazon.com/s?i=industrial&k=Air+intake+screen&tag=errorcodefixes-20) \| Clean or replace if blocked |
+| Flame rod / ionization sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-noritz-error-code-12&k=Flame+rod+%2F+ionization+sensor&tag=errorcodefixes-20) \| Clean first; replace if corroded or wire insulation is damaged |
+| Igniter assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-noritz-error-code-12&k=Igniter+assembly&tag=errorcodefixes-20) \| Match Noritz model (NRC, NRCR, EZ series vary) |
+| Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-noritz-error-code-12&tag=errorcodefixes-20) \| Replace if voltage present at coil but valve won't open |
+| Air intake screen | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-noritz-error-code-12&k=Air+intake+screen&tag=errorcodefixes-20) \| Clean or replace if blocked |
 ## When to Call a Pro
 
 Gas pressure testing and gas valve replacement require a licensed plumber or gas technician. If code 12 persists after cleaning the flame rod and igniter, have a Noritz-certified technician verify gas manifold pressure and gas valve operation.

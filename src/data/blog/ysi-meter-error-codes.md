@@ -42,9 +42,9 @@ YSI field meters often live in wet environments, so connector corrosion is commo
 
 | Part | Notes |
 |------|-------|
-| DO membrane kit | [Amazon](https://www.amazon.com/s?i=industrial&k=DO+membrane+kit&tag=errorcodefixes-20) \| Includes membrane and electrolyte |
-| pH probe | [Amazon](https://www.amazon.com/s?i=industrial&k=pH+probe&tag=errorcodefixes-20) \| Consumable item |
-| Calibration solutions | [Amazon](https://www.amazon.com/s?i=industrial&k=Calibration+solutions&tag=errorcodefixes-20) \| Use fresh, uncontaminated standards |
-| Field cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Field+cable&tag=errorcodefixes-20) \| Damaged pins cause comms faults |
+| DO membrane kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ysi-meter-error-codes&k=DO+membrane+kit&tag=errorcodefixes-20) \| Includes membrane and electrolyte |
+| pH probe | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ysi-meter-error-codes&k=pH+probe&tag=errorcodefixes-20) \| Consumable item |
+| Calibration solutions | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ysi-meter-error-codes&k=Calibration+solutions&tag=errorcodefixes-20) \| Use fresh, uncontaminated standards |
+| Field cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ysi-meter-error-codes&k=Field+cable&tag=errorcodefixes-20) \| Damaged pins cause comms faults |
 ## When to Call a Pro
 If multiple sensors fail recognition on the same handheld meter after connector cleaning, the instrument itself may have a board problem. For regulated water testing, replace questionable probes rather than chasing unstable field readings.

@@ -47,11 +47,11 @@ An instantaneous (INST) trip on Eaton breakers occurs at 2–10× rated current.
 
 | Part | Notes |
 |------|-------|
-| Digitrip RMS module | [Amazon](https://www.amazon.com/s?i=industrial&k=Digitrip+RMS+module&tag=errorcodefixes-20) \| Replace on electronics failure |
-| Arc chutes | [Amazon](https://www.amazon.com/s?i=industrial&k=Arc+chutes&tag=errorcodefixes-20) \| Inspect after fault trips |
-| Auxiliary/alarm contacts | [Amazon](https://www.amazon.com/s?i=industrial&k=Auxiliary%2Falarm+contacts&tag=errorcodefixes-20) \| Replace when worn |
-| PowerNet communication module | [Amazon](https://www.amazon.com/s?i=industrial&k=PowerNet+communication+module&tag=errorcodefixes-20) \| Replace on comm fault |
-| Spring charging motor | [Amazon](https://www.amazon.com/s?i=industrial&k=Spring+charging+motor&tag=errorcodefixes-20) \| Replace on slow charge or no-charge |
+| Digitrip RMS module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-eaton-circuit-breaker-fault-codes&k=Digitrip+RMS+module&tag=errorcodefixes-20) \| Replace on electronics failure |
+| Arc chutes | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-eaton-circuit-breaker-fault-codes&k=Arc+chutes&tag=errorcodefixes-20) \| Inspect after fault trips |
+| Auxiliary/alarm contacts | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-eaton-circuit-breaker-fault-codes&k=Auxiliary%2Falarm+contacts&tag=errorcodefixes-20) \| Replace when worn |
+| PowerNet communication module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-eaton-circuit-breaker-fault-codes&k=PowerNet+communication+module&tag=errorcodefixes-20) \| Replace on comm fault |
+| Spring charging motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-eaton-circuit-breaker-fault-codes&k=Spring+charging+motor&tag=errorcodefixes-20) \| Replace on slow charge or no-charge |
 ## When to Call a Pro
 Magnum DS maintenance, contact inspection, and trip unit calibration require training. Never reset after an instantaneous trip without an electrician inspecting the load circuit.
 

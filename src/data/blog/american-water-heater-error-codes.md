@@ -20,22 +20,22 @@ American Water Heaters is a subsidiary of A.O. Smith and shares manufacturing wi
 
 American Water Heater gas models (ProLine, Glasslined, Commercial series) use an **LED status indicator** on the gas valve body:
 
-| [Flash Code](https://www.amazon.com/s?i=industrial&k=Flash+Code&tag=errorcodefixes-20) | Meaning | Fix |
+| [Flash Code](https://www.amazon.com/s?ascsubtag=ecf-american-water-heater-error-codes&k=Flash+Code&tag=errorcodefixes-20) | Meaning | Fix |
 |---|---|---|
-| [1 flash](https://www.amazon.com/s?i=industrial&k=1+flash&tag=errorcodefixes-20) | Normal operation | None — system OK |
-| [2 flashes](https://www.amazon.com/s?i=industrial&k=2+flashes&tag=errorcodefixes-20) | Low thermopile voltage | Clean thermocouple, check pilot flame |
-| [3 flashes](https://www.amazon.com/s?i=industrial&k=3+flashes&tag=errorcodefixes-20) | Pressure switch fault (power vent models only) | Check blower, hoses, vent |
-| [4 flashes](https://www.amazon.com/s?i=industrial&k=4+flashes&tag=errorcodefixes-20) | Temperature limit exceeded | Reduce setpoint, check T&P valve |
-| [5 flashes](https://www.amazon.com/s?i=industrial&k=5+flashes&tag=errorcodefixes-20) | Thermal switch / sensor fault | Replace gas control valve |
-| [6 flashes](https://www.amazon.com/s?i=industrial&k=6+flashes&tag=errorcodefixes-20) | Gas valve internal fault | Replace gas control valve |
-| [7 flashes](https://www.amazon.com/s?i=industrial&k=7+flashes&tag=errorcodefixes-20) | Pilot not proving | Relight pilot, replace thermocouple |
-| [Continuous ON](https://www.amazon.com/s?i=industrial&k=Continuous+ON&tag=errorcodefixes-20) | Power fault / flame without pilot | Gas valve failure |
+| [1 flash](https://www.amazon.com/s?ascsubtag=ecf-american-water-heater-error-codes&k=1+flash&tag=errorcodefixes-20) | Normal operation | None — system OK |
+| [2 flashes](https://www.amazon.com/s?ascsubtag=ecf-american-water-heater-error-codes&k=2+flashes&tag=errorcodefixes-20) | Low thermopile voltage | Clean thermocouple, check pilot flame |
+| [3 flashes](https://www.amazon.com/s?ascsubtag=ecf-american-water-heater-error-codes&k=3+flashes&tag=errorcodefixes-20) | Pressure switch fault (power vent models only) | Check blower, hoses, vent |
+| [4 flashes](https://www.amazon.com/s?ascsubtag=ecf-american-water-heater-error-codes&k=4+flashes&tag=errorcodefixes-20) | Temperature limit exceeded | Reduce setpoint, check T&P valve |
+| [5 flashes](https://www.amazon.com/s?ascsubtag=ecf-american-water-heater-error-codes&k=5+flashes&tag=errorcodefixes-20) | Thermal switch / sensor fault | Replace gas control valve |
+| [6 flashes](https://www.amazon.com/s?ascsubtag=ecf-american-water-heater-error-codes&k=6+flashes&tag=errorcodefixes-20) | Gas valve internal fault | Replace gas control valve |
+| [7 flashes](https://www.amazon.com/s?ascsubtag=ecf-american-water-heater-error-codes&k=7+flashes&tag=errorcodefixes-20) | Pilot not proving | Relight pilot, replace thermocouple |
+| [Continuous ON](https://www.amazon.com/s?ascsubtag=ecf-american-water-heater-error-codes&k=Continuous+ON&tag=errorcodefixes-20) | Power fault / flame without pilot | Gas valve failure |
 
 ## Electric Models — Digital Display Codes
 
 American Water Heater electric models with digital controls (ProLine Specialist, Marathon series):
 
-| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Meaning | Action |
+| [Code](https://www.amazon.com/s?ascsubtag=ecf-american-water-heater-error-codes&k=Code&tag=errorcodefixes-20) | Meaning | Action |
 |---|---|---|
 | E1 | Upper heating element fault | Test, replace element |
 | E2 | Lower heating element fault | Test, replace element |
@@ -87,9 +87,9 @@ Most American Water Heater gas models use a standard 24" or 36" universal thermo
 
 | Part | Source | Cost |
 |---|---|---|
-| [24" universal thermocouple](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) | Hardware store (Rheem, Honeywell compatible) | $8–15 |
-| [36" for tall units](https://www.amazon.com/s?i=industrial&k=36"+for+tall+units&tag=errorcodefixes-20) | Hardware store | $10–18 |
-| [OEM thermocouple](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) | AWH parts online | $15–25 |
+| [24" universal thermocouple](https://www.amazon.com/dp/B00RJF4PYQ?ascsubtag=ecf-american-water-heater-error-codes&tag=errorcodefixes-20) | Hardware store (Rheem, Honeywell compatible) | $8–15 |
+| [36" for tall units](https://www.amazon.com/s?ascsubtag=ecf-american-water-heater-error-codes&k=36"+for+tall+units&tag=errorcodefixes-20) | Hardware store | $10–18 |
+| [OEM thermocouple](https://www.amazon.com/dp/B00RJF4PYQ?ascsubtag=ecf-american-water-heater-error-codes&tag=errorcodefixes-20) | AWH parts online | $15–25 |
 
 Thread the thermocouple into the gas valve finger-tight plus 1/4 turn — never overtighten, as the fitting is soft brass.
 

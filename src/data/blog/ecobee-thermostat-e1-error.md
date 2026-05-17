@@ -38,10 +38,10 @@ The ecobee SmartThermostat displays an E1 alert when it detects a heating system
 
 | Part | Notes |
 |------|-------|
-| C-wire adapter (PEK) | [Amazon](https://www.amazon.com/s?i=industrial&k=C-wire+adapter+%28PEK%29&tag=errorcodefixes-20) \| If no C wire exists at the thermostat — ecobee includes one in the box |
-| 18/5 thermostat wire | [Amazon](https://www.amazon.com/s?i=industrial&k=18%2F5+thermostat+wire&tag=errorcodefixes-20) \| If existing wire is damaged or too short to add C wire |
-| Furnace hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| If the furnace itself is locked out on ignition failure |
-| ecobee SmartThermostat | [Amazon](https://www.amazon.com/s?i=industrial&k=ecobee+SmartThermostat&tag=errorcodefixes-20) \| If thermostat hardware is confirmed faulty after configuration checks |
+| C-wire adapter (PEK) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ecobee-thermostat-e1-error&k=C-wire+adapter+%28PEK%29&tag=errorcodefixes-20) \| If no C wire exists at the thermostat — ecobee includes one in the box |
+| 18/5 thermostat wire | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ecobee-thermostat-e1-error&k=18%2F5+thermostat+wire&tag=errorcodefixes-20) \| If existing wire is damaged or too short to add C wire |
+| Furnace hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-ecobee-thermostat-e1-error&tag=errorcodefixes-20) \| If the furnace itself is locked out on ignition failure |
+| ecobee SmartThermostat | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ecobee-thermostat-e1-error&k=ecobee+SmartThermostat&tag=errorcodefixes-20) \| If thermostat hardware is confirmed faulty after configuration checks |
 ## When to Call a Pro
 
 If the furnace is operating normally but ecobee keeps logging E1, the issue is likely in the thermostat configuration or sensor placement — both are DIY-friendly fixes. If the furnace itself has a locked-out fault code you can't diagnose, an HVAC technician should be the next call, not an ecobee support ticket.

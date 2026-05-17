@@ -36,8 +36,8 @@ Haas Alarm 116 indicates a spindle over speed fault — the spindle exceeded the
 
 | Part | Notes |
 |------|-------|
-| Spindle encoder cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+encoder+cable&tag=errorcodefixes-20) \| Replace if damaged or intermittent signal |
-| Spindle drive (servo amplifier) | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+drive+%28servo+amplifier%29&tag=errorcodefixes-20) \| If drive runaway is confirmed |
+| Spindle encoder cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-116&k=Spindle+encoder+cable&tag=errorcodefixes-20) \| Replace if damaged or intermittent signal |
+| Spindle drive (servo amplifier) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-haas-alarm-116&k=Spindle+drive+%28servo+amplifier%29&tag=errorcodefixes-20) \| If drive runaway is confirmed |
 ## When to Call a Pro
 
 Spindle overspeed events can damage bearings and toolholders. After any Alarm 116 event, inspect the spindle for damage before returning to production. Haas service can perform a spindle diagnostic check.

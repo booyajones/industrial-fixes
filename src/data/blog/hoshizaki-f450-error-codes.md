@@ -54,12 +54,12 @@ The Hoshizaki F-450 is a flake ice machine producing approximately 450 pounds of
 
 | Part | Notes |
 |---|---|
-| Gearmotor | [Amazon](https://www.amazon.com/s?i=industrial&k=Gearmotor&tag=errorcodefixes-20) \| Complete assembly; specific to F-450 |
-| Evaporator auger shaft seal | [Amazon](https://www.amazon.com/s?i=industrial&k=Evaporator+auger+shaft+seal&tag=errorcodefixes-20) \| Leak point specific to flaker design |
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Air-cooled units; match existing motor specs |
-| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| HP cutout; manual reset required after trip |
-| Inlet water valve solenoid | [Amazon](https://www.amazon.com/s?i=industrial&k=Inlet+water+valve+solenoid&tag=errorcodefixes-20) \| Armature assembly or complete valve |
-| Evaporator thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Evaporator+thermistor&tag=errorcodefixes-20) \| For E4; NTC type |
+| Gearmotor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-f450-error-codes&k=Gearmotor&tag=errorcodefixes-20) \| Complete assembly; specific to F-450 |
+| Evaporator auger shaft seal | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-f450-error-codes&k=Evaporator+auger+shaft+seal&tag=errorcodefixes-20) \| Leak point specific to flaker design |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-hoshizaki-f450-error-codes&tag=errorcodefixes-20) \| Air-cooled units; match existing motor specs |
+| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-hoshizaki-f450-error-codes&tag=errorcodefixes-20) \| HP cutout; manual reset required after trip |
+| Inlet water valve solenoid | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-f450-error-codes&k=Inlet+water+valve+solenoid&tag=errorcodefixes-20) \| Armature assembly or complete valve |
+| Evaporator thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-f450-error-codes&k=Evaporator+thermistor&tag=errorcodefixes-20) \| For E4; NTC type |
 ## When to Call a Pro
 
 Flaker ice machines have unique service requirements compared to cube machines — evaporator descaling requires specific chemistry and procedures to avoid damaging the stainless evaporator barrel. Refrigerant service on R-404A or R-448A requires EPA 608 certification. Auger shaft seal replacement requires partial disassembly of the refrigerant circuit and should be performed by a certified Hoshizaki service technician.

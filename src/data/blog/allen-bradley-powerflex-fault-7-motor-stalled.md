@@ -51,9 +51,9 @@ PowerFlex drives are among the most common VFDs in industrial applications — c
 
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|-------------|
-| Replacement PowerFlex 4 Drive (if damaged) | 22A-D2P3N104 (varies by HP) | $350–$900 | [Amazon](https://www.amazon.com/s?i=industrial&k=22A-D2P3N104+%28varies+by+HP%29+Replacement+PowerFlex+4+Drive+%28if+damaged%29&tag=errorcodefixes-20) \| Automation Direct / Rockwell dealer |
-| Motor Coupling (if sheared) | Application-specific | $20–$150 | [Amazon](https://www.amazon.com/s?i=industrial&k=Application-specific+Motor+Coupling+%28if+sheared%29&tag=errorcodefixes-20) \| Grainger / McMaster-Carr |
-| Replacement Motor Bearings | Match motor frame size | $15–$80 | [Amazon](https://www.amazon.com/s?i=industrial&k=Match+motor+frame+size+Replacement+Motor+Bearings&tag=errorcodefixes-20) \| Grainger / bearing supply |
+| Replacement PowerFlex 4 Drive (if damaged) | 22A-D2P3N104 (varies by HP) | $350–$900 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-fault-7-motor-stalled&k=22A-D2P3N104+%28varies+by+HP%29+Replacement+PowerFlex+4+Drive+%28if+damaged%29&tag=errorcodefixes-20) \| Automation Direct / Rockwell dealer |
+| Motor Coupling (if sheared) | Application-specific | $20–$150 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-fault-7-motor-stalled&k=Application-specific+Motor+Coupling+%28if+sheared%29&tag=errorcodefixes-20) \| Grainger / McMaster-Carr |
+| Replacement Motor Bearings | Match motor frame size | $15–$80 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-powerflex-fault-7-motor-stalled&k=Match+motor+frame+size+Replacement+Motor+Bearings&tag=errorcodefixes-20) \| Grainger / bearing supply |
 ## When to Call a Professional
 
 If mechanical checks, wiring verification, and parameter adjustments don't resolve F7, have a qualified electrician or drive technician perform a full motor insulation resistance test (megger test) and verify the drive output with an oscilloscope or power quality analyzer. A drive producing an asymmetrical output waveform due to a failed IGBT can cause F7 even with a healthy motor. IGBT module replacement requires component-level drive repair skills. Also note: Allen-Bradley PowerFlex drives require authorized access to certain parameter groups — if your drive's parameter access level is set to "Basic," you may not be able to see or modify the stall parameters without entering the drive's configuration password.

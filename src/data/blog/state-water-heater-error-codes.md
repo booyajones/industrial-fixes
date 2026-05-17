@@ -20,16 +20,16 @@ State Water Heaters are manufactured by A.O. Smith and use nearly identical cont
 
 State gas water heaters with piezo ignition and thermocouple control use an **LED status indicator** on the gas valve:
 
-| [Flash Code](https://www.amazon.com/s?i=industrial&k=Flash+Code&tag=errorcodefixes-20) | Meaning | Action |
+| [Flash Code](https://www.amazon.com/s?ascsubtag=ecf-state-water-heater-error-codes&k=Flash+Code&tag=errorcodefixes-20) | Meaning | Action |
 |---|---|---|
-| [1 flash (slow)](https://www.amazon.com/s?i=industrial&k=1+flash+%28slow%29&tag=errorcodefixes-20) | Normal — pilot lit | None |
-| [2 flashes](https://www.amazon.com/s?i=industrial&k=2+flashes&tag=errorcodefixes-20) | Thermopile voltage low | Clean thermocouple, relight pilot |
-| [3 flashes](https://www.amazon.com/s?i=industrial&k=3+flashes&tag=errorcodefixes-20) | Pressure switch (power vent) | Check vent, inducer |
-| [4 flashes](https://www.amazon.com/s?i=industrial&k=4+flashes&tag=errorcodefixes-20) | Exceeded temperature limit | Lower setpoint, check safety |
-| [5 flashes](https://www.amazon.com/s?i=industrial&k=5+flashes&tag=errorcodefixes-20) | Sensor fault / wrong reading | Replace temperature sensor |
-| [6 flashes](https://www.amazon.com/s?i=industrial&k=6+flashes&tag=errorcodefixes-20) | Gas valve solenoid fault | Replace gas control valve |
-| [7 flashes](https://www.amazon.com/s?i=industrial&k=7+flashes&tag=errorcodefixes-20) | Pilot failed to light | Relight pilot, check thermocouple |
-| [Rapid flashing](https://www.amazon.com/s?i=industrial&k=Rapid+flashing&tag=errorcodefixes-20) | Control board fault | Replace gas control valve |
+| [1 flash (slow)](https://www.amazon.com/s?ascsubtag=ecf-state-water-heater-error-codes&k=1+flash+%28slow%29&tag=errorcodefixes-20) | Normal — pilot lit | None |
+| [2 flashes](https://www.amazon.com/s?ascsubtag=ecf-state-water-heater-error-codes&k=2+flashes&tag=errorcodefixes-20) | Thermopile voltage low | Clean thermocouple, relight pilot |
+| [3 flashes](https://www.amazon.com/s?ascsubtag=ecf-state-water-heater-error-codes&k=3+flashes&tag=errorcodefixes-20) | Pressure switch (power vent) | Check vent, inducer |
+| [4 flashes](https://www.amazon.com/s?ascsubtag=ecf-state-water-heater-error-codes&k=4+flashes&tag=errorcodefixes-20) | Exceeded temperature limit | Lower setpoint, check safety |
+| [5 flashes](https://www.amazon.com/s?ascsubtag=ecf-state-water-heater-error-codes&k=5+flashes&tag=errorcodefixes-20) | Sensor fault / wrong reading | Replace temperature sensor |
+| [6 flashes](https://www.amazon.com/s?ascsubtag=ecf-state-water-heater-error-codes&k=6+flashes&tag=errorcodefixes-20) | Gas valve solenoid fault | Replace gas control valve |
+| [7 flashes](https://www.amazon.com/s?ascsubtag=ecf-state-water-heater-error-codes&k=7+flashes&tag=errorcodefixes-20) | Pilot failed to light | Relight pilot, check thermocouple |
+| [Rapid flashing](https://www.amazon.com/s?ascsubtag=ecf-state-water-heater-error-codes&k=Rapid+flashing&tag=errorcodefixes-20) | Control board fault | Replace gas control valve |
 
 *State gas valves are commonly made by Honeywell or White-Rodgers — same flash codes as Rheem and Bradford White.*
 
@@ -37,7 +37,7 @@ State gas water heaters with piezo ignition and thermocouple control use an **LE
 
 State ProLine XE and Select electric water heaters with digital controls:
 
-| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Meaning | Fix |
+| [Code](https://www.amazon.com/s?ascsubtag=ecf-state-water-heater-error-codes&k=Code&tag=errorcodefixes-20) | Meaning | Fix |
 |---|---|---|
 | E1 | Upper element or sensor fault | Test element (see below) |
 | E2 | Lower element or sensor fault | Test lower element |
@@ -68,7 +68,7 @@ The high-limit thermostat (ECO — Energy Cut Off) is behind the upper access pa
 
 State ProLine XE Heat Pump (GPHE series) shares controls with A.O. Smith Voltex:
 
-| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Meaning |
+| [Code](https://www.amazon.com/s?ascsubtag=ecf-state-water-heater-error-codes&k=Code&tag=errorcodefixes-20) | Meaning |
 |---|---|
 | E1 | Temperature sensor fault |
 | E2 | Refrigerant system fault |
@@ -94,12 +94,12 @@ State water heaters come with a magnesium anode rod. If your water smells like s
 
 ## When to Replace vs. Repair
 
-| [Situation](https://www.amazon.com/s?i=industrial&k=Situation&tag=errorcodefixes-20) | Recommendation |
+| [Situation](https://www.amazon.com/s?ascsubtag=ecf-state-water-heater-error-codes&k=Situation&tag=errorcodefixes-20) | Recommendation |
 |---|---|
-| [Heater under 8 years, clear error code](https://www.amazon.com/s?i=industrial&k=Heater+under+8+years%2C+clear+error+code&tag=errorcodefixes-20) | Repair (replace component) |
-| [Heater 8–12 years, E4 (board fault)](https://www.amazon.com/s?i=industrial&k=Heater+8%E2%80%9312+years%2C+E4+%28board+fault%29&tag=errorcodefixes-20) | Consider replacement — parts cost approaches heater value |
-| [Heater over 12 years, any fault](https://www.amazon.com/s?i=industrial&k=Heater+over+12+years%2C+any+fault&tag=errorcodefixes-20) | Replace entire unit |
-| [Heater leaking from tank body](https://www.amazon.com/s?i=industrial&k=Heater+leaking+from+tank+body&tag=errorcodefixes-20) | Replace immediately — tanks do not repair |
+| [Heater under 8 years, clear error code](https://www.amazon.com/s?ascsubtag=ecf-state-water-heater-error-codes&k=Heater+under+8+years%2C+clear+error+code&tag=errorcodefixes-20) | Repair (replace component) |
+| [Heater 8–12 years, E4 (board fault)](https://www.amazon.com/s?ascsubtag=ecf-state-water-heater-error-codes&k=Heater+8%E2%80%9312+years%2C+E4+%28board+fault%29&tag=errorcodefixes-20) | Consider replacement — parts cost approaches heater value |
+| [Heater over 12 years, any fault](https://www.amazon.com/s?ascsubtag=ecf-state-water-heater-error-codes&k=Heater+over+12+years%2C+any+fault&tag=errorcodefixes-20) | Replace entire unit |
+| [Heater leaking from tank body](https://www.amazon.com/s?ascsubtag=ecf-state-water-heater-error-codes&k=Heater+leaking+from+tank+body&tag=errorcodefixes-20) | Replace immediately — tanks do not repair |
 
 ## Related Articles
 

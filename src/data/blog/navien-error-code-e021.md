@@ -55,10 +55,10 @@ Board replacement is rarely needed for an E021 fault. If replacing the thermisto
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|-------------|
-| Navien NTC Thermistor (inlet sensor) | $20–$50 | [Amazon](https://www.amazon.com/s?i=industrial&k=Navien+NTC+thermistor+inlet+sensor+tankless&tag=errorcodefixes-20) |
-| Electrical Contact Cleaner Spray | $6–$12 | [Amazon](https://www.amazon.com/s?i=industrial&k=electrical+contact+cleaner+spray&tag=errorcodefixes-20) |
-| Waterproof Heat-Shrink Butt Connectors | $8–$15 | [Amazon](https://www.amazon.com/s?i=industrial&k=waterproof+heat+shrink+butt+connectors+wire+splice&tag=errorcodefixes-20) |
-| Digital Multimeter | $20–$60 | [Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) |
+| Navien NTC Thermistor (inlet sensor) | $20–$50 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-error-code-e021&k=Navien+NTC+thermistor+inlet+sensor+tankless&tag=errorcodefixes-20) |
+| Electrical Contact Cleaner Spray | $6–$12 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-error-code-e021&k=electrical+contact+cleaner+spray&tag=errorcodefixes-20) |
+| Waterproof Heat-Shrink Butt Connectors | $8–$15 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-error-code-e021&k=waterproof+heat+shrink+butt+connectors+wire+splice&tag=errorcodefixes-20) |
+| Digital Multimeter | $20–$60 | [Amazon](https://www.amazon.com/dp/B08ZJSN5X3?ascsubtag=ecf-navien-error-code-e021&tag=errorcodefixes-20) |
 
 ## When to Call a Technician
 

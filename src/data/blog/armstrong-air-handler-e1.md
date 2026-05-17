@@ -38,10 +38,10 @@ Armstrong Air is a brand within the Allied Air Enterprises family (part of Lenno
 
 | Part | Notes |
 |------|-------|
-| iComfort thermostat | [Amazon](https://www.amazon.com/s?i=industrial&k=iComfort+thermostat&tag=errorcodefixes-20) \| Bus master — if thermostat is suspected, replace first |
-| Outdoor unit communicating control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| If outdoor unit drops off the system map |
-| Air handler control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| If air handler doesn't communicate even with a known-good thermostat |
-| Low-voltage thermostat cable (18/5) | [Amazon](https://www.amazon.com/s?i=industrial&k=Low-voltage+thermostat+cable+%2818%2F5%29&tag=errorcodefixes-20) \| Replace full run if damaged |
+| iComfort thermostat | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-armstrong-air-handler-e1&k=iComfort+thermostat&tag=errorcodefixes-20) \| Bus master — if thermostat is suspected, replace first |
+| Outdoor unit communicating control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-armstrong-air-handler-e1&tag=errorcodefixes-20) \| If outdoor unit drops off the system map |
+| Air handler control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-armstrong-air-handler-e1&tag=errorcodefixes-20) \| If air handler doesn't communicate even with a known-good thermostat |
+| Low-voltage thermostat cable (18/5) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-armstrong-air-handler-e1&k=Low-voltage+thermostat+cable+%2818%2F5%29&tag=errorcodefixes-20) \| Replace full run if damaged |
 ## When to Call a Pro
 
 Armstrong communicating systems require proper commissioning after any component replacement — the new board or thermostat must be configured to recognize the system's other components. An Armstrong-authorized technician has the iComfort commissioning tool and dealer access to verify the configuration and confirm the system is operating correctly after the repair.

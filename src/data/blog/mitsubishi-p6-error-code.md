@@ -52,10 +52,10 @@ This is one of the most common Mitsubishi mini split faults — and one of the m
 
 | Part | Where to Buy | Typical Cost |
 |------|-------------|-------------|
-| Condensate pump (Little Giant VCMA-20ULS) | [Amazon](https://www.amazon.com/s?i=industrial&k=Condensate+pump+%28Little+Giant+VCMA-20ULS%29&tag=errorcodefixes-20) \| Amazon, Grainger | $60–$100 |
-| Float switch (Rectorseal Sure Seal replacement) | [Amazon](https://www.amazon.com/dp/B005D4RFEM?tag=errorcodefixes-20) \| HVAC distributor | $15–$35 |
-| 3/4" PVC drain line fittings and pipe | [Amazon](https://www.amazon.com/s?i=industrial&k=3%2F4"+PVC+drain+line+fittings+and+pipe&tag=errorcodefixes-20) \| Home Depot | $10–$20 |
-| Evaporator coil cleaner (Nu-Calgon 4171-75) | [Amazon](https://www.amazon.com/s?i=industrial&k=Evaporator+coil+cleaner+%28Nu-Calgon+4171-75%29&tag=errorcodefixes-20) \| Amazon, Johnstone Supply | $12–$20 |
+| Condensate pump (Little Giant VCMA-20ULS) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-p6-error-code&k=Condensate+pump+%28Little+Giant+VCMA-20ULS%29&tag=errorcodefixes-20) \| Amazon, Grainger | $60–$100 |
+| Float switch (Rectorseal Sure Seal replacement) | [Amazon](https://www.amazon.com/dp/B005D4RFEM?ascsubtag=ecf-mitsubishi-p6-error-code&tag=errorcodefixes-20) \| HVAC distributor | $15–$35 |
+| 3/4" PVC drain line fittings and pipe | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-p6-error-code&k=3%2F4"+PVC+drain+line+fittings+and+pipe&tag=errorcodefixes-20) \| Home Depot | $10–$20 |
+| Evaporator coil cleaner (Nu-Calgon 4171-75) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-p6-error-code&k=Evaporator+coil+cleaner+%28Nu-Calgon+4171-75%29&tag=errorcodefixes-20) \| Amazon, Johnstone Supply | $12–$20 |
 ## When to Call a Professional
 
 If you've cleared the drain line, confirmed the slope is correct, cleaned the float switch, and the unit still throws P6 within a day or two — the coil may have biological growth deep in the fins that requires professional coil cleaning with pressurized equipment. Also call a tech if the drain pan itself is cracked or the float switch wiring is damaged. Tell them: "P6 float switch fault, drain line is clear and sloped correctly, float moves freely, but it keeps backing up. I need a coil cleaning and a second set of eyes on the installation."

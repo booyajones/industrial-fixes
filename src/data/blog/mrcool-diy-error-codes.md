@@ -62,12 +62,12 @@ The Mr. Cool DIY is a pre-charged ductless mini split designed for homeowner ins
 
 | Part | Notes |
 |------|-------|
-| Indoor room sensor (F1) | [Amazon](https://www.amazon.com/s?i=industrial&k=Indoor+room+sensor+%28F1%29&tag=errorcodefixes-20) \| NTC thermistor; available from Mr. Cool parts |
-| Indoor coil sensor (F2) | [Amazon](https://www.amazon.com/s?i=industrial&k=Indoor+coil+sensor+%28F2%29&tag=errorcodefixes-20) \| Clip-on type; confirm sensor length |
-| Communication cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Communication+cable&tag=errorcodefixes-20) \| 3-conductor; replace if nicked |
-| Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For E3 with confirmed free-spinning fan |
-| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For P0 after charge and compressor confirmed |
-| Quick-connect line set | [Amazon](https://www.amazon.com/s?i=industrial&k=Quick-connect+line+set&tag=errorcodefixes-20) \| If refrigerant charge is lost via leak at connection |
+| Indoor room sensor (F1) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mrcool-diy-error-codes&k=Indoor+room+sensor+%28F1%29&tag=errorcodefixes-20) \| NTC thermistor; available from Mr. Cool parts |
+| Indoor coil sensor (F2) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mrcool-diy-error-codes&k=Indoor+coil+sensor+%28F2%29&tag=errorcodefixes-20) \| Clip-on type; confirm sensor length |
+| Communication cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mrcool-diy-error-codes&k=Communication+cable&tag=errorcodefixes-20) \| 3-conductor; replace if nicked |
+| Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-mrcool-diy-error-codes&tag=errorcodefixes-20) \| For E3 with confirmed free-spinning fan |
+| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-mrcool-diy-error-codes&tag=errorcodefixes-20) \| For P0 after charge and compressor confirmed |
+| Quick-connect line set | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mrcool-diy-error-codes&k=Quick-connect+line+set&tag=errorcodefixes-20) \| If refrigerant charge is lost via leak at connection |
 ## When to Call a Pro
 
 The Mr. Cool DIY is pre-charged at the factory, but the quick-connect fittings can leak over time. If E4 or P0 faults appear after the first season, low refrigerant charge is likely. Adding refrigerant to a pre-charged system requires EPA 608 certification. Contact Mr. Cool customer support (1-800-865-5931) for warranty or technical assistance.

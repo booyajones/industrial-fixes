@@ -37,9 +37,9 @@ The Fujitsu E7 error code indicates a **drain pump fault** — the indoor unit d
 
 | Part | Notes |
 |------|-------|
-| Condensate pump | [Amazon](https://www.amazon.com/s?i=industrial&k=Condensate+pump&tag=errorcodefixes-20) \| Match voltage and lift capacity to the original unit |
-| Float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?tag=errorcodefixes-20) \| Inexpensive; use Fujitsu OEM or universal equivalent |
-| Drain line check valve | [Amazon](https://www.amazon.com/s?i=industrial&k=Drain+line+check+valve&tag=errorcodefixes-20) \| 1/2" or 3/4" inline check valve |
+| Condensate pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fujitsu-mini-split-error-code-e7&k=Condensate+pump&tag=errorcodefixes-20) \| Match voltage and lift capacity to the original unit |
+| Float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?ascsubtag=ecf-fujitsu-mini-split-error-code-e7&tag=errorcodefixes-20) \| Inexpensive; use Fujitsu OEM or universal equivalent |
+| Drain line check valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fujitsu-mini-split-error-code-e7&k=Drain+line+check+valve&tag=errorcodefixes-20) \| 1/2" or 3/4" inline check valve |
 ## When to Call a Pro
 
 If the drain line is clear and the pump runs but E7 persists, the indoor PCB's float switch input may have failed. PCB replacement requires indoor unit disassembly near the refrigerant lines — call a certified technician to avoid damaging the coil.

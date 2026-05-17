@@ -46,10 +46,10 @@ If inducer RPM is low or the motor sounds labored: check inducer motor capacitor
 
 | Part | Where to Buy |
 |------|-------------|
-| [Pressure switch (match rating and model)](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
-| [Pressure switch hose / tubing](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) | RepairClinic, Amazon |
-| [Inducer motor run capacitor](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) | Grainger, Amazon |
-| [Inducer motor assembly](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) | RepairClinic, Grainger |
+| [Pressure switch (match rating and model)](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-trane-3-flashes-error-code&tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
+| [Pressure switch hose / tubing](https://www.amazon.com/dp/B0CPTHML1N?ascsubtag=ecf-trane-3-flashes-error-code&tag=errorcodefixes-20) | RepairClinic, Amazon |
+| [Inducer motor run capacitor](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-trane-3-flashes-error-code&tag=errorcodefixes-20) | Grainger, Amazon |
+| [Inducer motor assembly](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-trane-3-flashes-error-code&tag=errorcodefixes-20) | RepairClinic, Grainger |
 
 ## When to Call a Technician
 

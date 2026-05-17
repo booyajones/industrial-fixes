@@ -36,9 +36,9 @@ LG error code CH01 (also displayed as "C1" or "CH 01") means the indoor unit roo
 
 | Part | Notes |
 |------|-------|
-| LG indoor thermistor (room temp) | [Amazon](https://www.amazon.com/s?i=industrial&k=LG+indoor+thermistor+%28room+temp%29&tag=errorcodefixes-20) \| LG part 6615A20042A or equivalent; confirm for your model series |
-| Contact cleaner | [Amazon](https://www.amazon.com/s?i=industrial&k=Contact+cleaner&tag=errorcodefixes-20) \| For connector maintenance |
-| Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| If sensor tests good and fault persists |
+| LG indoor thermistor (room temp) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-mini-split-ch01-error-code&k=LG+indoor+thermistor+%28room+temp%29&tag=errorcodefixes-20) \| LG part 6615A20042A or equivalent; confirm for your model series |
+| Contact cleaner | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-mini-split-ch01-error-code&k=Contact+cleaner&tag=errorcodefixes-20) \| For connector maintenance |
+| Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-lg-mini-split-ch01-error-code&tag=errorcodefixes-20) \| If sensor tests good and fault persists |
 ## When to Call a Pro
 
 If you've replaced the sensor and the fault persists, the PCB input circuit is suspect. LG service tools can read live thermistor values directly; an authorized LG tech can confirm board vs. sensor without guesswork.

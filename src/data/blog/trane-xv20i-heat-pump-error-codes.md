@@ -36,10 +36,10 @@ The Trane XV20i is a communicating variable-speed heat pump that runs on Trane's
 
 | Part | Notes |
 |------|-------|
-| ComfortLink II thermostat | [Amazon](https://www.amazon.com/s?i=industrial&k=ComfortLink+II+thermostat&tag=errorcodefixes-20) \| Replace when thermostat communication circuit fails (Code 79 persists after wiring check) |
-| Outdoor unit control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace after lightning damage or when outdoor-side fault codes point to board failure |
-| Defrost sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Replace for persistent Code 89 after confirming refrigerant charge is correct |
-| Air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| Replace for Code 91 caused by restricted airflow |
+| ComfortLink II thermostat | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-xv20i-heat-pump-error-codes&k=ComfortLink+II+thermostat&tag=errorcodefixes-20) \| Replace when thermostat communication circuit fails (Code 79 persists after wiring check) |
+| Outdoor unit control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-trane-xv20i-heat-pump-error-codes&tag=errorcodefixes-20) \| Replace after lightning damage or when outdoor-side fault codes point to board failure |
+| Defrost sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-trane-xv20i-heat-pump-error-codes&tag=errorcodefixes-20) \| Replace for persistent Code 89 after confirming refrigerant charge is correct |
+| Air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-trane-xv20i-heat-pump-error-codes&tag=errorcodefixes-20) \| Replace for Code 91 caused by restricted airflow |
 ## When to Call a Pro
 
 Refrigerant-related codes (91, 92) always require a licensed HVAC technician with manifold gauges and refrigerant certification. Communication codes that don't resolve with wiring inspection require Trane TechView diagnostic software, available only to authorized Trane dealers.

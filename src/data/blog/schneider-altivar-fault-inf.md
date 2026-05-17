@@ -38,9 +38,9 @@ INF on a Schneider Electric Altivar drive (ATV312, ATV320, ATV630, ATV930 series
 
 | Part | Notes |
 |------|-------|
-| Altivar control card / board | [Amazon](https://www.amazon.com/s?i=industrial&k=Altivar+control+card+%2F+board&tag=errorcodefixes-20) \| Order by drive model and firmware version |
-| Internal power supply board | [Amazon](https://www.amazon.com/s?i=industrial&k=Internal+power+supply+board&tag=errorcodefixes-20) \| Replace if 24V supply is confirmed out of specification |
-| Communication ribbon cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Communication+ribbon+cable&tag=errorcodefixes-20) \| Replace if damaged between control and power cards |
+| Altivar control card / board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-schneider-altivar-fault-inf&k=Altivar+control+card+%2F+board&tag=errorcodefixes-20) \| Order by drive model and firmware version |
+| Internal power supply board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-schneider-altivar-fault-inf&k=Internal+power+supply+board&tag=errorcodefixes-20) \| Replace if 24V supply is confirmed out of specification |
+| Communication ribbon cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-schneider-altivar-fault-inf&k=Communication+ribbon+cable&tag=errorcodefixes-20) \| Replace if damaged between control and power cards |
 ## When to Call a Pro
 
 INF is rarely field-repairable beyond a factory reset. If power cycling and parameter initialization do not clear the fault, contact a Schneider Electric-authorized drive service center for control card replacement and firmware verification.

@@ -36,9 +36,9 @@ The E1 fault on Traulsen commercial refrigerators and freezers indicates a tempe
 
 | Part | Notes |
 |------|-------|
-| NTC temperature sensor (Traulsen OEM) | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Use exact OEM part — Traulsen controllers are calibrated to specific sensor curves |
-| Sensor wire harness | [Amazon](https://www.amazon.com/s?i=industrial&k=Sensor+wire+harness&tag=errorcodefixes-20) \| Replace if moisture has penetrated the insulation |
-| Controller board | [Amazon](https://www.amazon.com/s?i=industrial&k=Controller+board&tag=errorcodefixes-20) \| Only if sensor and wiring test good and E1 persists |
+| NTC temperature sensor (Traulsen OEM) | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-traulsen-refrigerator-error-code-e1&tag=errorcodefixes-20) \| Use exact OEM part — Traulsen controllers are calibrated to specific sensor curves |
+| Sensor wire harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-traulsen-refrigerator-error-code-e1&k=Sensor+wire+harness&tag=errorcodefixes-20) \| Replace if moisture has penetrated the insulation |
+| Controller board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-traulsen-refrigerator-error-code-e1&k=Controller+board&tag=errorcodefixes-20) \| Only if sensor and wiring test good and E1 persists |
 ## When to Call a Pro
 
 Traulsen controller boards are model-specific and may need factory calibration after replacement. An authorized Traulsen service tech should handle board-level work on units under warranty.

@@ -56,9 +56,9 @@ The panel cannot find the device at the listed address. Common causes: detector 
 
 | Part | Notes |
 |------|-------|
-| Signature detector head | [Amazon](https://www.amazon.com/s?i=industrial&k=Signature+detector+head&tag=errorcodefixes-20) \| Replace if cleaning does not resolve trouble |
-| Sealed lead-acid battery | [Amazon](https://www.amazon.com/s?i=industrial&k=Sealed+lead-acid+battery&tag=errorcodefixes-20) \| Match capacity to panel requirements |
-| SLC module | [Amazon](https://www.amazon.com/s?i=industrial&k=SLC+module&tag=errorcodefixes-20) \| Replace on persistent loop communication faults |
+| Signature detector head | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-edwards-fire-alarm-fault-codes&k=Signature+detector+head&tag=errorcodefixes-20) \| Replace if cleaning does not resolve trouble |
+| Sealed lead-acid battery | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-edwards-fire-alarm-fault-codes&k=Sealed+lead-acid+battery&tag=errorcodefixes-20) \| Match capacity to panel requirements |
+| SLC module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-edwards-fire-alarm-fault-codes&k=SLC+module&tag=errorcodefixes-20) \| Replace on persistent loop communication faults |
 ## Jump to Fix
 
 - **Dirty detector** → Walk to device → Clean head → Reset trouble

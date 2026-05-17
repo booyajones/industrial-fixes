@@ -47,10 +47,10 @@ If no airflow or mechanical cause is found, have the heat exchanger inspected fo
 
 | Part | Where to Buy |
 |------|-------------|
-| [High limit switch](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
-| [Blower motor run capacitor](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) | Grainger, Amazon |
-| [ECM or PSC blower motor](https://www.amazon.com/s?i=industrial&k=ECM+or+PSC+blower+motor&tag=errorcodefixes-20) | RepairClinic, Grainger |
-| [Air filter (replacement)](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) | Amazon, SupplyHouse |
+| [High limit switch](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-trane-4-flashes-error-code&tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
+| [Blower motor run capacitor](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-trane-4-flashes-error-code&tag=errorcodefixes-20) | Grainger, Amazon |
+| [ECM or PSC blower motor](https://www.amazon.com/s?ascsubtag=ecf-trane-4-flashes-error-code&k=ECM+or+PSC+blower+motor&tag=errorcodefixes-20) | RepairClinic, Grainger |
+| [Air filter (replacement)](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-trane-4-flashes-error-code&tag=errorcodefixes-20) | Amazon, SupplyHouse |
 
 ## When to Call a Technician
 

@@ -48,10 +48,10 @@ Air temperature sensor fault. Test NTC resistance, replace if open or shorted.
 
 | Part | Notes |
 |------|-------|
-| Evaporator fan motor | [Amazon](https://www.amazon.com/dp/B01N0J3ZEH?tag=errorcodefixes-20) \| Match to Bohn unit cooler model |
-| Air temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Bohn/Heatcraft NTC part |
-| Defrost heater | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) \| Match voltage and wattage |
-| Defrost termination thermostat | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Replaces as a matched pair with heater |
+| Evaporator fan motor | [Amazon](https://www.amazon.com/dp/B01N0J3ZEH?ascsubtag=ecf-bohn-refrigeration-error-codes&tag=errorcodefixes-20) \| Match to Bohn unit cooler model |
+| Air temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-bohn-refrigeration-error-codes&tag=errorcodefixes-20) \| Bohn/Heatcraft NTC part |
+| Defrost heater | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?ascsubtag=ecf-bohn-refrigeration-error-codes&tag=errorcodefixes-20) \| Match voltage and wattage |
+| Defrost termination thermostat | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-bohn-refrigeration-error-codes&tag=errorcodefixes-20) \| Replaces as a matched pair with heater |
 ## When to Call a Pro
 
 Alarms 3 and 4 require refrigerant circuit diagnosis by an EPA 608-certified technician.

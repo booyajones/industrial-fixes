@@ -38,10 +38,10 @@ Ruud is a brand name for Rheem-manufactured furnaces — the products are nearly
 
 | Part | Notes |
 |------|-------|
-| Air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| Check and replace first — resolves the majority of 4-flash faults |
-| Blower motor run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Test before replacing motor; most motor issues are bad capacitors |
-| High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Match rated trip temperature from original switch |
-| Blower motor | [Amazon](https://www.amazon.com/s?i=industrial&k=Blower+motor&tag=errorcodefixes-20) \| Replace if motor draws excess amps or is seized with good capacitor |
+| Air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-ruud-furnace-4-flashes&tag=errorcodefixes-20) \| Check and replace first — resolves the majority of 4-flash faults |
+| Blower motor run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-ruud-furnace-4-flashes&tag=errorcodefixes-20) \| Test before replacing motor; most motor issues are bad capacitors |
+| High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-ruud-furnace-4-flashes&tag=errorcodefixes-20) \| Match rated trip temperature from original switch |
+| Blower motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ruud-furnace-4-flashes&k=Blower+motor&tag=errorcodefixes-20) \| Replace if motor draws excess amps or is seized with good capacitor |
 ## When to Call a Pro
 
 If the 4-flash fault persists after cleaning the filter, opening registers, and confirming the blower runs correctly, you may have a cracked heat exchanger causing secondary airflow disruption or combustion gas recirculation. This is a safety concern requiring combustion analysis and heat exchanger inspection by a licensed HVAC technician.

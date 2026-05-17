@@ -48,8 +48,8 @@ The 789 sources 4–20 mA for calibrating current inputs on PLCs and controllers
 
 | Part | Notes |
 |------|-------|
-| Fuse 440mA/1000V | [Amazon](https://www.amazon.com/s?i=industrial&k=Fuse+440mA%2F1000V&tag=errorcodefixes-20) \| Use only Fluke-specified fuse |
-| 9V battery | [Amazon](https://www.amazon.com/s?i=industrial&k=9V+battery&tag=errorcodefixes-20) \| Alkaline — Duracell or Energizer |
-| Test leads | [Amazon](https://www.amazon.com/s?i=industrial&k=Test+leads&tag=errorcodefixes-20) \| Use category-rated leads for process work |
-| Alligator clips | [Amazon](https://www.amazon.com/s?i=industrial&k=Alligator+clips&tag=errorcodefixes-20) \| For hands-free current loop connection |
+| Fuse 440mA/1000V | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fluke-789-processmeter-error&k=Fuse+440mA%2F1000V&tag=errorcodefixes-20) \| Use only Fluke-specified fuse |
+| 9V battery | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fluke-789-processmeter-error&k=9V+battery&tag=errorcodefixes-20) \| Alkaline — Duracell or Energizer |
+| Test leads | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fluke-789-processmeter-error&k=Test+leads&tag=errorcodefixes-20) \| Use category-rated leads for process work |
+| Alligator clips | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fluke-789-processmeter-error&k=Alligator+clips&tag=errorcodefixes-20) \| For hands-free current loop connection |
 > **Pro tip:** The Fluke 789 can perform a HART transmitter check when used with the 29 Series signal injectors. When servicing 4–20 mA loops, use the LOOP PWR mode to power isolated transmitters without needing an external power supply.

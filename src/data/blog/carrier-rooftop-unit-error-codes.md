@@ -77,12 +77,12 @@ Wash condenser coil with coil cleaner. Verify all condenser fans are rotating. C
 
 | Part | Notes |
 |---|---|
-| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Measure µA before replacing |
-| Integrated control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Model-specific — cross-reference by part number |
-| Limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Match temperature rating exactly |
-| Inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Check capacitor before condemning motor |
-| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Check setting: 410A = 590 psi, R-22 = 380 psi |
-| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Check µF with capacitor tester |
+| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-carrier-rooftop-unit-error-codes&tag=errorcodefixes-20) \| Measure µA before replacing |
+| Integrated control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-carrier-rooftop-unit-error-codes&tag=errorcodefixes-20) \| Model-specific — cross-reference by part number |
+| Limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-carrier-rooftop-unit-error-codes&tag=errorcodefixes-20) \| Match temperature rating exactly |
+| Inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-carrier-rooftop-unit-error-codes&tag=errorcodefixes-20) \| Check capacitor before condemning motor |
+| High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-rooftop-unit-error-codes&tag=errorcodefixes-20) \| Check setting: 410A = 590 psi, R-22 = 380 psi |
+| Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-carrier-rooftop-unit-error-codes&tag=errorcodefixes-20) \| Check µF with capacitor tester |
 > **Pro tip:** Carrier RTU boards store the last 5 fault codes in memory. Access fault history by pressing and holding the LED diagnostic button for 5 seconds on 48/50 Series controls.
 
 ## Related Articles

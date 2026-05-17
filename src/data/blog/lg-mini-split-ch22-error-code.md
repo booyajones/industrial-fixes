@@ -115,10 +115,10 @@ If the motor tests electrically healthy and spins freely by hand, reconnect powe
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|-------------|
-| LG Indoor Fan Motor (blower motor) | $80–$180 | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) |
-| Indoor Unit Control Board | $120–$280 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) |
-| Fan Motor Run Capacitor | $10–$25 | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) |
-| LG Fan Wheel / Squirrel Cage | $40–$100 | [Amazon](https://www.amazon.com/s?i=industrial&k=LG+mini+split+indoor+fan+wheel+squirrel+cage&tag=errorcodefixes-20) |
+| LG Indoor Fan Motor (blower motor) | $80–$180 | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-lg-mini-split-ch22-error-code&tag=errorcodefixes-20) |
+| Indoor Unit Control Board | $120–$280 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-lg-mini-split-ch22-error-code&tag=errorcodefixes-20) |
+| Fan Motor Run Capacitor | $10–$25 | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-lg-mini-split-ch22-error-code&tag=errorcodefixes-20) |
+| LG Fan Wheel / Squirrel Cage | $40–$100 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-mini-split-ch22-error-code&k=LG+mini+split+indoor+fan+wheel+squirrel+cage&tag=errorcodefixes-20) |
 
 ---
 

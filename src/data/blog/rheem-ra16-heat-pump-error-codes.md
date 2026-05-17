@@ -93,13 +93,13 @@ This is normal protection, not a true fault. After compressor shutdown, the boar
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|---------------|
-| Dual run capacitor — 45/5 µF 440VAC (match label exactly) | $15–$35 | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) |
-| Contactor — 2-pole, 40A, 24VAC coil | $18–$45 | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) |
-| Defrost control board (Rheem/Ruud OEM — match model) | $50–$130 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) |
-| Defrost thermostat — coil clip type | $10–$25 | [Amazon](https://www.amazon.com/s?i=industrial&k=defrost+thermostat+heat+pump+coil+clip+on&tag=errorcodefixes-20) |
-| Outdoor thermistor sensor (Rheem OEM) | $15–$40 | [Amazon](https://www.amazon.com/s?i=industrial&k=Rheem+outdoor+thermistor+heat+pump+sensor&tag=errorcodefixes-20) |
-| Reversing valve solenoid coil — 24VAC (Sporlan or OEM) | $30–$70 | [Amazon](https://www.amazon.com/s?i=industrial&k=reversing+valve+solenoid+coil+24VAC+R410A&tag=errorcodefixes-20) |
-| Condenser fan motor — 1/6 HP, 208–230V, match RPM/FLA | $75–$195 | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) |
+| Dual run capacitor — 45/5 µF 440VAC (match label exactly) | $15–$35 | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-rheem-ra16-heat-pump-error-codes&tag=errorcodefixes-20) |
+| Contactor — 2-pole, 40A, 24VAC coil | $18–$45 | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-rheem-ra16-heat-pump-error-codes&tag=errorcodefixes-20) |
+| Defrost control board (Rheem/Ruud OEM — match model) | $50–$130 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-rheem-ra16-heat-pump-error-codes&tag=errorcodefixes-20) |
+| Defrost thermostat — coil clip type | $10–$25 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rheem-ra16-heat-pump-error-codes&k=defrost+thermostat+heat+pump+coil+clip+on&tag=errorcodefixes-20) |
+| Outdoor thermistor sensor (Rheem OEM) | $15–$40 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rheem-ra16-heat-pump-error-codes&k=Rheem+outdoor+thermistor+heat+pump+sensor&tag=errorcodefixes-20) |
+| Reversing valve solenoid coil — 24VAC (Sporlan or OEM) | $30–$70 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rheem-ra16-heat-pump-error-codes&k=reversing+valve+solenoid+coil+24VAC+R410A&tag=errorcodefixes-20) |
+| Condenser fan motor — 1/6 HP, 208–230V, match RPM/FLA | $75–$195 | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-rheem-ra16-heat-pump-error-codes&tag=errorcodefixes-20) |
 
 ## When to Call a Professional
 

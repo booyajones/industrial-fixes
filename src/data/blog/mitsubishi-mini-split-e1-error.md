@@ -51,11 +51,11 @@ E1 is a common fault identified by HVAC professionals as one of the top Mitsubis
 
 ## Parts You May Need
 
-- [Mitsubishi Indoor Room Temperature Thermistor Sensor](https://www.amazon.com/s?i=industrial&k=Mitsubishi+mini+split+indoor+room+thermistor+sensor&tag=errorcodefixes-20)
-- [Mitsubishi Indoor Unit Control Board PCB](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20)
-- [Electrical Contact Cleaner Spray](https://www.amazon.com/s?i=industrial&k=electrical+contact+cleaner+spray&tag=errorcodefixes-20)
-- [Dielectric Grease for Electrical Connectors](https://www.amazon.com/s?i=industrial&k=dielectric+grease+electrical+connectors&tag=errorcodefixes-20)
-- [Digital Multimeter for HVAC Diagnostics](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20)
+- [Mitsubishi Indoor Room Temperature Thermistor Sensor](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-mini-split-e1-error&k=Mitsubishi+mini+split+indoor+room+thermistor+sensor&tag=errorcodefixes-20)
+- [Mitsubishi Indoor Unit Control Board PCB](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-mitsubishi-mini-split-e1-error&tag=errorcodefixes-20)
+- [Electrical Contact Cleaner Spray](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-mini-split-e1-error&k=electrical+contact+cleaner+spray&tag=errorcodefixes-20)
+- [Dielectric Grease for Electrical Connectors](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-mini-split-e1-error&k=dielectric+grease+electrical+connectors&tag=errorcodefixes-20)
+- [Digital Multimeter for HVAC Diagnostics](https://www.amazon.com/dp/B08ZJSN5X3?ascsubtag=ecf-mitsubishi-mini-split-e1-error&tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

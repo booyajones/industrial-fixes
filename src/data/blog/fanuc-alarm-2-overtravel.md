@@ -37,8 +37,8 @@ Fanuc Alarm 2 is an **Overtravel (Plus direction) hardware limit** — an axis h
 
 | Part | Notes |
 |------|-------|
-| Overtravel limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Replace if the switch actuates at the wrong position or shows intermittent behavior |
-| Limit switch cable | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| If wiring to the OT switch is chafed or broken |
+| Overtravel limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-fanuc-alarm-2-overtravel&tag=errorcodefixes-20) \| Replace if the switch actuates at the wrong position or shows intermittent behavior |
+| Limit switch cable | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-fanuc-alarm-2-overtravel&tag=errorcodefixes-20) \| If wiring to the OT switch is chafed or broken |
 ## When to Call a Pro
 
 If the machine homes incorrectly after clearing Alarm 2, the absolute encoder battery may be dead or the reference mark may be lost. Incorrect homing on multi-axis machines can cause crashes — have a Fanuc-trained service engineer verify the reference point before resuming production.

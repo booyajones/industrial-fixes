@@ -52,10 +52,10 @@ Variable frequency drive faults look brand-specific on the screen, but most of t
 
 | Part | Notes |
 |---|---|
-| Cooling fan | [Amazon](https://www.amazon.com/s?i=industrial&k=Cooling+fan&tag=errorcodefixes-20) \| Frequent source of thermal faults |
-| Braking resistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Braking+resistor&tag=errorcodefixes-20) \| Needed for fast-stop applications |
-| Keypad / HMI | [Amazon](https://www.amazon.com/s?i=industrial&k=Keypad+%2F+HMI&tag=errorcodefixes-20) \| For local diagnostics |
-| Replacement drive | [Amazon](https://www.amazon.com/s?i=industrial&k=Replacement+drive&tag=errorcodefixes-20) \| For confirmed internal hardware faults |
+| Cooling fan | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-vfd-fault-code-lookup&k=Cooling+fan&tag=errorcodefixes-20) \| Frequent source of thermal faults |
+| Braking resistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-vfd-fault-code-lookup&k=Braking+resistor&tag=errorcodefixes-20) \| Needed for fast-stop applications |
+| Keypad / HMI | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-vfd-fault-code-lookup&k=Keypad+%2F+HMI&tag=errorcodefixes-20) \| For local diagnostics |
+| Replacement drive | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-vfd-fault-code-lookup&k=Replacement+drive&tag=errorcodefixes-20) \| For confirmed internal hardware faults |
 ## When to Call a Pro
 
 If the drive faults with the motor disconnected, or if you see repeated hardware or DC bus faults, involve a qualified drive technician. Parameter guessing and repeated resets can make a controllable problem much more expensive.

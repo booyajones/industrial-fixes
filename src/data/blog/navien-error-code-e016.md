@@ -36,9 +36,9 @@ Navien error code E016 indicates a hot surface igniter fault. The control board 
 
 | Part | Notes |
 |------|-------|
-| Hot surface igniter (silicon nitride) | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Use Navien OEM part or confirmed compatible aftermarket |
-| Igniter wire harness | [Amazon](https://www.amazon.com/s?i=industrial&k=Igniter+wire+harness&tag=errorcodefixes-20) \| Replace if insulation is melted or connector is damaged |
-| Control PCB | [Amazon](https://www.amazon.com/s?i=industrial&k=Control+PCB&tag=errorcodefixes-20) \| Replace only if igniter circuit output is confirmed missing |
+| Hot surface igniter (silicon nitride) | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-navien-error-code-e016&tag=errorcodefixes-20) \| Use Navien OEM part or confirmed compatible aftermarket |
+| Igniter wire harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-error-code-e016&k=Igniter+wire+harness&tag=errorcodefixes-20) \| Replace if insulation is melted or connector is damaged |
+| Control PCB | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-error-code-e016&k=Control+PCB&tag=errorcodefixes-20) \| Replace only if igniter circuit output is confirmed missing |
 ## When to Call a Pro
 
 If the igniter resistance is within spec and voltage is confirmed at the igniter but the unit still logs E016, the igniter may be failing under thermal load (measuring good cold but open when hot). A technician can perform in-situ resistance monitoring or perform a board-level diagnosis.

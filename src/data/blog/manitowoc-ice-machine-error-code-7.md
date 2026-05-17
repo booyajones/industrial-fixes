@@ -37,8 +37,8 @@ Manitowoc error code 7 on Indigo and older electromechanical models indicates a 
 
 | Part | Notes |
 |------|-------|
-| Bin thermostat / bin sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Bin+thermostat+%2F+bin+sensor&tag=errorcodefixes-20) \| Manitowoc model-specific; Indigo series uses electronic sensor; older models use bimetal thermostat |
-| Bin sensor wiring harness | [Amazon](https://www.amazon.com/s?i=industrial&k=Bin+sensor+wiring+harness&tag=errorcodefixes-20) \| If connector or wiring is corroded |
+| Bin thermostat / bin sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-manitowoc-ice-machine-error-code-7&k=Bin+thermostat+%2F+bin+sensor&tag=errorcodefixes-20) \| Manitowoc model-specific; Indigo series uses electronic sensor; older models use bimetal thermostat |
+| Bin sensor wiring harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-manitowoc-ice-machine-error-code-7&k=Bin+sensor+wiring+harness&tag=errorcodefixes-20) \| If connector or wiring is corroded |
 ## When to Call a Pro
 
 If code 7 persists after clearing ice and confirming the sensor is unobstructed, the Indigo controller board may have a failed input or the sensor may require calibration. Contact a Manitowoc-authorized service technician for Indigo controller diagnostics.

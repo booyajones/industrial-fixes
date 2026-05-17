@@ -36,9 +36,9 @@ Scotsman error code 8 indicates a water inlet valve fault. The control board com
 
 | Part | Notes |
 |------|-------|
-| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| Replace if the coil is open or the valve is restricted internally |
-| Water level probe or float assembly | [Amazon](https://www.amazon.com/s?i=industrial&k=Water+level+probe+or+float+assembly&tag=errorcodefixes-20) \| Replace if the board never gets a proper full-level signal |
-| Inlet strainer or screen | [Amazon](https://www.amazon.com/s?i=industrial&k=Inlet+strainer+or+screen&tag=errorcodefixes-20) \| Replace if the original screen is damaged during cleaning |
+| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?ascsubtag=ecf-scotsman-ice-machine-error-code-8&tag=errorcodefixes-20) \| Replace if the coil is open or the valve is restricted internally |
+| Water level probe or float assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-scotsman-ice-machine-error-code-8&k=Water+level+probe+or+float+assembly&tag=errorcodefixes-20) \| Replace if the board never gets a proper full-level signal |
+| Inlet strainer or screen | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-scotsman-ice-machine-error-code-8&k=Inlet+strainer+or+screen&tag=errorcodefixes-20) \| Replace if the original screen is damaged during cleaning |
 ## When to Call a Pro
 
 If the valve and level sensor both test good but code 8 returns, the control board output may be unstable. Board diagnosis around line-voltage water valves should stay with a trained refrigeration tech.

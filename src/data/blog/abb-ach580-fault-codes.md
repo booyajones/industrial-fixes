@@ -76,13 +76,13 @@ When you combine the code family with the moment of failure, the drive becomes a
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
-| [ABB ACH580 cooling fan kit](https://www.amazon.com/s?i=industrial&k=ABB+ACH580+cooling+fan+kit&tag=errorcodefixes-20) | Replaces failed internal cooling fans behind 3001 overtemperature faults | $45 to $120 |
-| [ABB ACH580 control panel keypad](https://www.amazon.com/s?i=industrial&k=ABB+ACH580+control+panel&tag=errorcodefixes-20) | Replaces damaged operator panels and helps with local diagnostics and resets | $140 to $260 |
-| [3-phase line reactor for VFD](https://www.amazon.com/s?i=industrial&k=3+phase+line+reactor+vfd&tag=errorcodefixes-20) | Helps stabilize poor incoming power and reduce nuisance undervoltage events | $90 to $240 |
-| [VFD output reactor for motor protection](https://www.amazon.com/s?i=industrial&k=vfd+output+reactor+motor+protection&tag=errorcodefixes-20) | Reduces reflected-wave stress and overcurrent issues on long motor leads | $110 to $280 |
-| [Shielded RS485 cable for BACnet Modbus](https://www.amazon.com/s?i=industrial&k=shielded+rs485+cable+bacnet+modbus&tag=errorcodefixes-20) | Fixes intermittent 5000-series communication faults on noisy BAS trunks | $20 to $55 |
-| [DIN rail 24V power supply](https://www.amazon.com/s?i=industrial&k=din+rail+24v+power+supply&tag=errorcodefixes-20) | Replaces weak accessory power feeding relays, sensors, or communication modules | $25 to $80 |
-| [Motor insulation tester megohmmeter](https://www.amazon.com/s?i=industrial&k=motor+insulation+tester+megohmmeter&tag=errorcodefixes-20) | Helps confirm motor and cable health before condemning the drive on ground or overcurrent faults | $85 to $240 |
+| [ABB ACH580 cooling fan kit](https://www.amazon.com/s?ascsubtag=ecf-abb-ach580-fault-codes&k=ABB+ACH580+cooling+fan+kit&tag=errorcodefixes-20) | Replaces failed internal cooling fans behind 3001 overtemperature faults | $45 to $120 |
+| [ABB ACH580 control panel keypad](https://www.amazon.com/s?ascsubtag=ecf-abb-ach580-fault-codes&k=ABB+ACH580+control+panel&tag=errorcodefixes-20) | Replaces damaged operator panels and helps with local diagnostics and resets | $140 to $260 |
+| [3-phase line reactor for VFD](https://www.amazon.com/s?ascsubtag=ecf-abb-ach580-fault-codes&k=3+phase+line+reactor+vfd&tag=errorcodefixes-20) | Helps stabilize poor incoming power and reduce nuisance undervoltage events | $90 to $240 |
+| [VFD output reactor for motor protection](https://www.amazon.com/s?ascsubtag=ecf-abb-ach580-fault-codes&k=vfd+output+reactor+motor+protection&tag=errorcodefixes-20) | Reduces reflected-wave stress and overcurrent issues on long motor leads | $110 to $280 |
+| [Shielded RS485 cable for BACnet Modbus](https://www.amazon.com/s?ascsubtag=ecf-abb-ach580-fault-codes&k=shielded+rs485+cable+bacnet+modbus&tag=errorcodefixes-20) | Fixes intermittent 5000-series communication faults on noisy BAS trunks | $20 to $55 |
+| [DIN rail 24V power supply](https://www.amazon.com/s?ascsubtag=ecf-abb-ach580-fault-codes&k=din+rail+24v+power+supply&tag=errorcodefixes-20) | Replaces weak accessory power feeding relays, sensors, or communication modules | $25 to $80 |
+| [Motor insulation tester megohmmeter](https://www.amazon.com/s?ascsubtag=ecf-abb-ach580-fault-codes&k=motor+insulation+tester+megohmmeter&tag=errorcodefixes-20) | Helps confirm motor and cable health before condemning the drive on ground or overcurrent faults | $85 to $240 |
 
 ## When to Call a Pro
 

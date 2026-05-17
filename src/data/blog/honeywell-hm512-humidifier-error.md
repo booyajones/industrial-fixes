@@ -16,7 +16,7 @@ tags:
 
 The Honeywell HM512 TrueSTEAM is an electrode-type steam humidifier that heats water directly using electrical current through electrodes to generate steam. Error codes appear on the humidifier's LED display. The HM512 generates steam regardless of furnace operation, making it effective in any season.
 
-| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| [Code](https://www.amazon.com/s?ascsubtag=ecf-honeywell-hm512-humidifier-error&k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |------|---------|-----------|
 | E1 | High water temperature — thermal limit tripped | Allow cool-down; check steam hose |
 | E2 | Water not detected in reservoir | Check water supply; fill inlet; check float |
@@ -49,11 +49,11 @@ The electrodes inside the canister are in direct contact, usually due to extreme
 
 ## Canister Replacement Schedule
 
-| [Water Hardness](https://www.amazon.com/s?i=industrial&k=Water+Hardness&tag=errorcodefixes-20) | Replacement Interval |
+| [Water Hardness](https://www.amazon.com/s?ascsubtag=ecf-honeywell-hm512-humidifier-error&k=Water+Hardness&tag=errorcodefixes-20) | Replacement Interval |
 |----------------|---------------------|
-| [Soft (0–3 gpg)](https://www.amazon.com/s?i=industrial&k=Soft+%280%E2%80%933+gpg%29&tag=errorcodefixes-20) | Every 3 seasons |
-| [Moderate (4–10 gpg)](https://www.amazon.com/s?i=industrial&k=Moderate+%284%E2%80%9310+gpg%29&tag=errorcodefixes-20) | Every 1–2 seasons |
-| [Hard (11+ gpg)](https://www.amazon.com/s?i=industrial&k=Hard+%2811%2B+gpg%29&tag=errorcodefixes-20) | Every season or sooner |
+| [Soft (0–3 gpg)](https://www.amazon.com/s?ascsubtag=ecf-honeywell-hm512-humidifier-error&k=Soft+%280%E2%80%933+gpg%29&tag=errorcodefixes-20) | Every 3 seasons |
+| [Moderate (4–10 gpg)](https://www.amazon.com/s?ascsubtag=ecf-honeywell-hm512-humidifier-error&k=Moderate+%284%E2%80%9310+gpg%29&tag=errorcodefixes-20) | Every 1–2 seasons |
+| [Hard (11+ gpg)](https://www.amazon.com/s?ascsubtag=ecf-honeywell-hm512-humidifier-error&k=Hard+%2811%2B+gpg%29&tag=errorcodefixes-20) | Every season or sooner |
 
 ## When to Call a Pro
 E8 (control board fault) and persistent E9 faults after canister replacement require a Honeywell-certified HVAC technician to diagnose the electrical system.

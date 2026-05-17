@@ -36,10 +36,10 @@ Alarm 1050 on an Okuma CNC (OSP-P300, OSP-P200, OSP-P100 series — Multus, GENO
 
 | Part | Notes |
 |------|-------|
-| Okuma servo drive | [Amazon](https://www.amazon.com/s?i=industrial&k=Okuma+servo+drive&tag=errorcodefixes-20) \| OEM; must match machine model and axis rating |
-| Okuma OSE encoder | [Amazon](https://www.amazon.com/s?i=industrial&k=Okuma+OSE+encoder&tag=errorcodefixes-20) \| OEM position encoder; requires axis setup after replacement |
-| Encoder/resolver cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder%2Fresolver+cable&tag=errorcodefixes-20) \| Replace if insulation or shield is damaged |
-| Servo motor | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+motor&tag=errorcodefixes-20) \| Replace if winding insulation fails Megger test |
+| Okuma servo drive | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-okuma-cnc-alarm-1050&k=Okuma+servo+drive&tag=errorcodefixes-20) \| OEM; must match machine model and axis rating |
+| Okuma OSE encoder | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-okuma-cnc-alarm-1050&k=Okuma+OSE+encoder&tag=errorcodefixes-20) \| OEM position encoder; requires axis setup after replacement |
+| Encoder/resolver cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-okuma-cnc-alarm-1050&k=Encoder%2Fresolver+cable&tag=errorcodefixes-20) \| Replace if insulation or shield is damaged |
+| Servo motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-okuma-cnc-alarm-1050&k=Servo+motor&tag=errorcodefixes-20) \| Replace if winding insulation fails Megger test |
 ## When to Call a Pro
 
 Okuma servo system repair requires Okuma-authorized service. Encoder replacement on an Okuma absolute position system requires a reference return procedure specific to the machine; incorrect setup causes positioning errors and potential crashes.

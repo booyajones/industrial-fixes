@@ -92,13 +92,13 @@ This is normal protective behavior, not a fault. After compressor shutdown, the 
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|---------------|
-| Dual run capacitor — 35/5 or 45/5 µF 370/440VAC | $15–$35 | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) |
-| Contactor — 2-pole, 40A, 24VAC coil | $20–$45 | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) |
-| Defrost control board (Carrier OEM #HH12ZB271 or match) | $50–$130 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) |
-| Outdoor thermistor / ambient sensor (Carrier OEM) | $15–$40 | [Amazon](https://www.amazon.com/s?i=industrial&k=Carrier+outdoor+thermistor+ambient+sensor+heat+pump&tag=errorcodefixes-20) |
-| Reversing valve solenoid coil — 24VAC | $30–$70 | [Amazon](https://www.amazon.com/s?i=industrial&k=reversing+valve+solenoid+coil+24VAC+carrier+heat+pump&tag=errorcodefixes-20) |
-| Condenser fan motor — 1/5 HP, 208–230V (match specs on nameplate) | $85–$200 | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) |
-| 24ANA outdoor control board (Carrier OEM — match model #) | $80–$185 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) |
+| Dual run capacitor — 35/5 or 45/5 µF 370/440VAC | $15–$35 | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-carrier-24ana-heat-pump-error-codes&tag=errorcodefixes-20) |
+| Contactor — 2-pole, 40A, 24VAC coil | $20–$45 | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-carrier-24ana-heat-pump-error-codes&tag=errorcodefixes-20) |
+| Defrost control board (Carrier OEM #HH12ZB271 or match) | $50–$130 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-carrier-24ana-heat-pump-error-codes&tag=errorcodefixes-20) |
+| Outdoor thermistor / ambient sensor (Carrier OEM) | $15–$40 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-24ana-heat-pump-error-codes&k=Carrier+outdoor+thermistor+ambient+sensor+heat+pump&tag=errorcodefixes-20) |
+| Reversing valve solenoid coil — 24VAC | $30–$70 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-24ana-heat-pump-error-codes&k=reversing+valve+solenoid+coil+24VAC+carrier+heat+pump&tag=errorcodefixes-20) |
+| Condenser fan motor — 1/5 HP, 208–230V (match specs on nameplate) | $85–$200 | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-carrier-24ana-heat-pump-error-codes&tag=errorcodefixes-20) |
+| 24ANA outdoor control board (Carrier OEM — match model #) | $80–$185 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-carrier-24ana-heat-pump-error-codes&tag=errorcodefixes-20) |
 
 ## When to Call a Professional
 

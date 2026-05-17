@@ -36,9 +36,9 @@ Seven flashes on a Rheem furnace LED indicates a low flame signal — the flame 
 
 | Part | Notes |
 |------|-------|
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Rheem 62-23543-01 is common; match your model; universal versions available |
-| Steel wool or 400-grit sandpaper | [Amazon](https://www.amazon.com/s?i=industrial&k=Steel+wool+or+400-grit+sandpaper&tag=errorcodefixes-20) \| For cleaning; do not use coarse abrasive |
-| Ground wire and ring terminal | [Amazon](https://www.amazon.com/s?i=industrial&k=Ground+wire+and+ring+terminal&tag=errorcodefixes-20) \| If ground path is corroded or broken |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-rheem-furnace-7-flashes&tag=errorcodefixes-20) \| Rheem 62-23543-01 is common; match your model; universal versions available |
+| Steel wool or 400-grit sandpaper | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rheem-furnace-7-flashes&k=Steel+wool+or+400-grit+sandpaper&tag=errorcodefixes-20) \| For cleaning; do not use coarse abrasive |
+| Ground wire and ring terminal | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rheem-furnace-7-flashes&k=Ground+wire+and+ring+terminal&tag=errorcodefixes-20) \| If ground path is corroded or broken |
 ## When to Call a Pro
 
 If the sensor is clean and the ground is solid but the signal is still low, a combustion analysis is needed. Low manifold pressure or combustion issues require a gas-rated technician with a manometer.

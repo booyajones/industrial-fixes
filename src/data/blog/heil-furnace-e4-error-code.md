@@ -37,9 +37,9 @@ The Heil E4 error code indicates an **open limit circuit** — one of the high-l
 
 | Part | Notes |
 |------|-------|
-| High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Must match the temperature rating stamped on the switch (e.g., L200°F) |
-| Blower run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Match µF and voltage; common values are 5 µF and 7.5 µF at 370V |
-| Air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| Replace on a regular schedule; every 1–3 months for standard 1" filters |
+| High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-heil-furnace-e4-error-code&tag=errorcodefixes-20) \| Must match the temperature rating stamped on the switch (e.g., L200°F) |
+| Blower run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-heil-furnace-e4-error-code&tag=errorcodefixes-20) \| Match µF and voltage; common values are 5 µF and 7.5 µF at 370V |
+| Air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-heil-furnace-e4-error-code&tag=errorcodefixes-20) \| Replace on a regular schedule; every 1–3 months for standard 1" filters |
 ## When to Call a Pro
 
 If the limit trips repeatedly with a clean filter and a properly running blower, a cracked heat exchanger may be pulling combustion air into the airstream, creating a hot spot. This is a carbon monoxide risk — shut the furnace off and call a certified technician for a heat exchanger inspection before resuming operation.

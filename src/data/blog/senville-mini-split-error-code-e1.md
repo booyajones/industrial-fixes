@@ -38,9 +38,9 @@ E1 on a Senville mini split indicates a communication fault between the indoor a
 
 | Part | Notes |
 |------|-------|
-| 18 AWG 3-conductor cable | [Amazon](https://www.amazon.com/s?i=industrial&k=18+AWG+3-conductor+cable&tag=errorcodefixes-20) \| For replacing damaged communication wire runs |
-| Indoor control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace if wire and power check out but E1 persists |
-| Outdoor control board (PCB) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace if outdoor unit confirmed as communication failure source |
+| 18 AWG 3-conductor cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-senville-mini-split-error-code-e1&k=18+AWG+3-conductor+cable&tag=errorcodefixes-20) \| For replacing damaged communication wire runs |
+| Indoor control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-senville-mini-split-error-code-e1&tag=errorcodefixes-20) \| Replace if wire and power check out but E1 persists |
+| Outdoor control board (PCB) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-senville-mini-split-error-code-e1&tag=errorcodefixes-20) \| Replace if outdoor unit confirmed as communication failure source |
 ## When to Call a Pro
 
 If the signal wire is intact and power is confirmed at both units but E1 persists, both PCBs should be tested. This requires a technician familiar with mini split diagnostics to determine which board has failed.

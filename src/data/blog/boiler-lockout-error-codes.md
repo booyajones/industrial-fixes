@@ -54,12 +54,12 @@ One reset after a clear correction is fine. Five resets in a row without diagnos
 
 | Item | Notes |
 |------|-------|
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Cheap and common failure item |
-| Igniter | [Amazon](https://www.amazon.com/s?i=industrial&k=Igniter&tag=errorcodefixes-20) \| Common on repeated ignition lockouts |
-| Expansion tank | [Amazon](https://www.amazon.com/s?i=industrial&k=Expansion+tank&tag=errorcodefixes-20) \| Pressure-related complaints |
-| Circulator pump | [Amazon](https://www.amazon.com/s?i=industrial&k=Circulator+pump&tag=errorcodefixes-20) \| Overtemp and low-flow issues |
-| Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) \| Common on condensing boilers |
-| Manometer | [Amazon](https://www.amazon.com/s?i=industrial&k=Manometer&tag=errorcodefixes-20) \| Needed for proper gas pressure diagnosis |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-boiler-lockout-error-codes&tag=errorcodefixes-20) \| Cheap and common failure item |
+| Igniter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-boiler-lockout-error-codes&k=Igniter&tag=errorcodefixes-20) \| Common on repeated ignition lockouts |
+| Expansion tank | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-boiler-lockout-error-codes&k=Expansion+tank&tag=errorcodefixes-20) \| Pressure-related complaints |
+| Circulator pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-boiler-lockout-error-codes&k=Circulator+pump&tag=errorcodefixes-20) \| Overtemp and low-flow issues |
+| Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-boiler-lockout-error-codes&tag=errorcodefixes-20) \| Common on condensing boilers |
+| Manometer | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-boiler-lockout-error-codes&k=Manometer&tag=errorcodefixes-20) \| Needed for proper gas pressure diagnosis |
 ## When to Call a Pro
 
 Repeated boiler lockouts, especially around gas, flame, venting, or overtemperature, are not DIY territory for most people. Boilers combine combustion, water pressure, and temperature safety in a small box, and that deserves respect.

@@ -49,10 +49,10 @@ Scotsman Prodigy Plus ice machines (HC, HID, and Brilliance series) are the most
 
 | Part | Notes |
 |------|-------|
-| Harvest assist solenoid valve | [Amazon](https://www.amazon.com/s?i=industrial&k=Harvest+assist+solenoid+valve&tag=errorcodefixes-20) \| Most common fix for Code 4/5 |
-| Evaporator thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Evaporator+thermistor&tag=errorcodefixes-20) \| For Code E1 — match to Prodigy model |
-| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| For Code 8 |
-| Scotsman Ice Machine Cleaner | [Amazon](https://www.amazon.com/s?i=industrial&k=Scotsman+Ice+Machine+Cleaner&tag=errorcodefixes-20) \| Run with every service call |
+| Harvest assist solenoid valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-scotsman-prodigy-error-codes&k=Harvest+assist+solenoid+valve&tag=errorcodefixes-20) \| Most common fix for Code 4/5 |
+| Evaporator thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-scotsman-prodigy-error-codes&k=Evaporator+thermistor&tag=errorcodefixes-20) \| For Code E1 — match to Prodigy model |
+| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?ascsubtag=ecf-scotsman-prodigy-error-codes&tag=errorcodefixes-20) \| For Code 8 |
+| Scotsman Ice Machine Cleaner | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-scotsman-prodigy-error-codes&k=Scotsman+Ice+Machine+Cleaner&tag=errorcodefixes-20) \| Run with every service call |
 ## When to Call a Pro
 
 Refrigerant work (recharge for low-charge cycle faults) requires EPA 608 certification. Codes that persist after cleaning and sensor/valve replacement need a certified tech for refrigeration diagnosis.

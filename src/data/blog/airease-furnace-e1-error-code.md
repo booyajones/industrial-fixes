@@ -38,9 +38,9 @@ E1 on an AirEase furnace indicates a system lockout — the furnace attempted th
 
 | Part | Notes |
 |------|-------|
-| Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Lennox/AirEase specific; verify voltage and element style |
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Replace if cleaning does not restore normal operation |
-| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match water column rating from the label on the original switch |
+| Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-airease-furnace-e1-error-code&tag=errorcodefixes-20) \| Lennox/AirEase specific; verify voltage and element style |
+| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-airease-furnace-e1-error-code&tag=errorcodefixes-20) \| Replace if cleaning does not restore normal operation |
+| Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-airease-furnace-e1-error-code&tag=errorcodefixes-20) \| Match water column rating from the label on the original switch |
 ## When to Call a Pro
 
 If the furnace re-locks within a day or two of clearing, or if gas pressure measurement or valve replacement is needed, contact a licensed technician. Persistent lockouts often indicate a failing heat exchanger or control board.

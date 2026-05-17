@@ -77,9 +77,9 @@ The outdoor unit inverter board monitors compressor current and feedback. L5 is 
 
 | Part | Notes |
 |---|---|
-| Crankcase heater | [Amazon](https://www.amazon.com/s?i=industrial&k=Crankcase+heater&tag=errorcodefixes-20) \| Match wattage — Daikin part varies by compressor |
-| Inverter PCB | [Amazon](https://www.amazon.com/s?i=industrial&k=Inverter+PCB&tag=errorcodefixes-20) \| High-value part — verify compressor first |
-| Compressor | [Amazon](https://www.amazon.com/s?i=industrial&k=Compressor&tag=errorcodefixes-20) \| Requires refrigerant recovery — EPA 608 certified tech |
+| Crankcase heater | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-l5-error-code&k=Crankcase+heater&tag=errorcodefixes-20) \| Match wattage — Daikin part varies by compressor |
+| Inverter PCB | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-l5-error-code&k=Inverter+PCB&tag=errorcodefixes-20) \| High-value part — verify compressor first |
+| Compressor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-l5-error-code&k=Compressor&tag=errorcodefixes-20) \| Requires refrigerant recovery — EPA 608 certified tech |
 ## Reset Procedure
 
 L5 is a hard fault on most Daikin models:

@@ -81,12 +81,12 @@ A system that needs both a coil replacement and an R22 recharge can cost as much
 
 ## Parts You May Need
 
-- [Electronic refrigerant leak detector](https://www.amazon.com/s?i=industrial&k=electronic+refrigerant+leak+detector&tag=errorcodefixes-20)
-- [UV leak detection dye kit](https://www.amazon.com/s?i=industrial&k=AC+UV+leak+detection+dye+kit&tag=errorcodefixes-20)
-- [Schrader valve core removal tool](https://www.amazon.com/s?i=industrial&k=Schrader+valve+core+removal+tool&tag=errorcodefixes-20)
-- [Acme 4-Port AC Manifold Gauge Set](https://www.amazon.com/s?i=industrial&k=AC+manifold+gauge+set&tag=errorcodefixes-20)
-- [R22 replacement refrigerant (R407C, R421A)](https://www.amazon.com/s?i=industrial&k=R22+replacement+refrigerant&tag=errorcodefixes-20)
-- [Coil coil cleaning solution](https://www.amazon.com/s?i=industrial&k=HVAC+coil+cleaning+solution&tag=errorcodefixes-20)
+- [Electronic refrigerant leak detector](https://www.amazon.com/s?ascsubtag=ecf-ac-refrigerant-leak-symptoms&k=electronic+refrigerant+leak+detector&tag=errorcodefixes-20)
+- [UV leak detection dye kit](https://www.amazon.com/s?ascsubtag=ecf-ac-refrigerant-leak-symptoms&k=AC+UV+leak+detection+dye+kit&tag=errorcodefixes-20)
+- [Schrader valve core removal tool](https://www.amazon.com/s?ascsubtag=ecf-ac-refrigerant-leak-symptoms&k=Schrader+valve+core+removal+tool&tag=errorcodefixes-20)
+- [Acme 4-Port AC Manifold Gauge Set](https://www.amazon.com/s?ascsubtag=ecf-ac-refrigerant-leak-symptoms&k=AC+manifold+gauge+set&tag=errorcodefixes-20)
+- [R22 replacement refrigerant (R407C, R421A)](https://www.amazon.com/s?ascsubtag=ecf-ac-refrigerant-leak-symptoms&k=R22+replacement+refrigerant&tag=errorcodefixes-20)
+- [Coil coil cleaning solution](https://www.amazon.com/s?ascsubtag=ecf-ac-refrigerant-leak-symptoms&k=HVAC+coil+cleaning+solution&tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

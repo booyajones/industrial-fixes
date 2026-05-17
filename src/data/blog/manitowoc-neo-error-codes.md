@@ -49,10 +49,10 @@ Manitowoc NEO ice machines are the latest generation of Manitowoc commercial ice
 
 | Part | Notes |
 |------|-------|
-| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Replace if not running with compressor on |
-| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| Replace if screen damaged or coil failed |
-| Ice thickness probe | [Amazon](https://www.amazon.com/s?i=industrial&k=Ice+thickness+probe&tag=errorcodefixes-20) \| Replace if scaled beyond cleaning |
-| Manitowoc Ice Machine Cleaner | [Amazon](https://www.amazon.com/s?i=industrial&k=Manitowoc+Ice+Machine+Cleaner&tag=errorcodefixes-20) \| Use with every service call |
+| Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-manitowoc-neo-error-codes&tag=errorcodefixes-20) \| Replace if not running with compressor on |
+| Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?ascsubtag=ecf-manitowoc-neo-error-codes&tag=errorcodefixes-20) \| Replace if screen damaged or coil failed |
+| Ice thickness probe | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-manitowoc-neo-error-codes&k=Ice+thickness+probe&tag=errorcodefixes-20) \| Replace if scaled beyond cleaning |
+| Manitowoc Ice Machine Cleaner | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-manitowoc-neo-error-codes&k=Manitowoc+Ice+Machine+Cleaner&tag=errorcodefixes-20) \| Use with every service call |
 ## When to Call a Pro
 
 E06 low pressure and E05 high pressure faults that persist after cleaning require refrigerant circuit diagnosis by an EPA 608 certified technician.

@@ -84,13 +84,13 @@ The important pattern is this: if the code points to power, test the line. If it
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
-| [WEG CFW11 cooling fan](https://www.amazon.com/s?i=industrial&k=WEG+CFW11+cooling+fan&tag=errorcodefixes-20) | Replaces failed internal fan assemblies that cause F007 and repeated temperature alarms | $25 to $65 |
-| [WEG CFW11 keypad HMI](https://www.amazon.com/s?i=industrial&k=WEG+CFW11+keypad+HMI&tag=errorcodefixes-20) | Replaces damaged or intermittent operator interfaces and helps with local diagnostics | $70 to $180 |
-| [Dynamic braking resistor for VFD](https://www.amazon.com/s?i=industrial&k=dynamic+braking+resistor+vfd&tag=errorcodefixes-20) | Solves F003 overvoltage trips on high-inertia deceleration applications | $80 to $250 |
-| [3-phase line reactor for VFD](https://www.amazon.com/s?i=industrial&k=3+phase+line+reactor+vfd&tag=errorcodefixes-20) | Helps stabilize incoming power and reduce nuisance undervoltage or line-disturbance faults | $90 to $220 |
-| [VFD output reactor 3-phase](https://www.amazon.com/s?i=industrial&k=vfd+output+reactor+3+phase&tag=errorcodefixes-20) | Protects motors on long lead runs and reduces reflected-wave stress behind F004 and F005 complaints | $110 to $280 |
-| [Incremental encoder 1024 PPR industrial](https://www.amazon.com/s?i=industrial&k=incremental+encoder+1024+ppr+industrial&tag=errorcodefixes-20) | Replaces failed feedback devices behind F033 and higher-range encoder faults | $65 to $180 |
-| [Shielded RS485 cable](https://www.amazon.com/s?i=industrial&k=shielded+rs485+cable&tag=errorcodefixes-20) | Fixes intermittent Modbus and network alarms in the A050 to A090 communication range | $15 to $45 |
+| [WEG CFW11 cooling fan](https://www.amazon.com/s?ascsubtag=ecf-weg-cfw11-fault-codes&k=WEG+CFW11+cooling+fan&tag=errorcodefixes-20) | Replaces failed internal fan assemblies that cause F007 and repeated temperature alarms | $25 to $65 |
+| [WEG CFW11 keypad HMI](https://www.amazon.com/s?ascsubtag=ecf-weg-cfw11-fault-codes&k=WEG+CFW11+keypad+HMI&tag=errorcodefixes-20) | Replaces damaged or intermittent operator interfaces and helps with local diagnostics | $70 to $180 |
+| [Dynamic braking resistor for VFD](https://www.amazon.com/s?ascsubtag=ecf-weg-cfw11-fault-codes&k=dynamic+braking+resistor+vfd&tag=errorcodefixes-20) | Solves F003 overvoltage trips on high-inertia deceleration applications | $80 to $250 |
+| [3-phase line reactor for VFD](https://www.amazon.com/s?ascsubtag=ecf-weg-cfw11-fault-codes&k=3+phase+line+reactor+vfd&tag=errorcodefixes-20) | Helps stabilize incoming power and reduce nuisance undervoltage or line-disturbance faults | $90 to $220 |
+| [VFD output reactor 3-phase](https://www.amazon.com/s?ascsubtag=ecf-weg-cfw11-fault-codes&k=vfd+output+reactor+3+phase&tag=errorcodefixes-20) | Protects motors on long lead runs and reduces reflected-wave stress behind F004 and F005 complaints | $110 to $280 |
+| [Incremental encoder 1024 PPR industrial](https://www.amazon.com/s?ascsubtag=ecf-weg-cfw11-fault-codes&k=incremental+encoder+1024+ppr+industrial&tag=errorcodefixes-20) | Replaces failed feedback devices behind F033 and higher-range encoder faults | $65 to $180 |
+| [Shielded RS485 cable](https://www.amazon.com/s?ascsubtag=ecf-weg-cfw11-fault-codes&k=shielded+rs485+cable&tag=errorcodefixes-20) | Fixes intermittent Modbus and network alarms in the A050 to A090 communication range | $15 to $45 |
 
 ## When to Call a Pro
 

@@ -36,9 +36,9 @@ H97 on a Panasonic mini-split system indicates a communication error between the
 
 | Part | Notes |
 |------|-------|
-| Interconnecting cable (3-conductor) | [Amazon](https://www.amazon.com/s?i=industrial&k=Interconnecting+cable+%283-conductor%29&tag=errorcodefixes-20) \| 18 AWG minimum; run separately from high-voltage lines |
-| Indoor control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace if board communication section is confirmed failed |
-| Outdoor control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace after confirming power and wiring are not the cause |
+| Interconnecting cable (3-conductor) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-panasonic-mini-split-h97-error-code&k=Interconnecting+cable+%283-conductor%29&tag=errorcodefixes-20) \| 18 AWG minimum; run separately from high-voltage lines |
+| Indoor control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-panasonic-mini-split-h97-error-code&tag=errorcodefixes-20) \| Replace if board communication section is confirmed failed |
+| Outdoor control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-panasonic-mini-split-h97-error-code&tag=errorcodefixes-20) \| Replace after confirming power and wiring are not the cause |
 ## When to Call a Pro
 
 If wiring is verified correct and power is present at both units but H97 persists through power cycling, a Panasonic-authorized technician with service software can read internal communication fault logs to identify which board is the source of the failure.

@@ -51,11 +51,11 @@ E8 is a more serious fault than most maintenance-related errors because low suct
 
 ## Parts You May Need
 
-- [Hoshizaki Low Pressure Switch Replacement](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20)
-- [Hoshizaki Water Distribution Tube](https://www.amazon.com/s?i=industrial&k=Hoshizaki+water+distribution+tube+ice+machine&tag=errorcodefixes-20)
-- [Hoshizaki Water Filter Replacement](https://www.amazon.com/s?i=industrial&k=Hoshizaki+ice+machine+water+filter&tag=errorcodefixes-20)
-- [Refrigerant Leak Detector Electronic](https://www.amazon.com/s?i=industrial&k=electronic+refrigerant+leak+detector+commercial&tag=errorcodefixes-20)
-- [UV Dye for Refrigerant Leak Detection](https://www.amazon.com/s?i=industrial&k=UV+dye+refrigerant+leak+detection&tag=errorcodefixes-20)
+- [Hoshizaki Low Pressure Switch Replacement](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-hoshizaki-e8-low-side-pressure&tag=errorcodefixes-20)
+- [Hoshizaki Water Distribution Tube](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-e8-low-side-pressure&k=Hoshizaki+water+distribution+tube+ice+machine&tag=errorcodefixes-20)
+- [Hoshizaki Water Filter Replacement](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-e8-low-side-pressure&k=Hoshizaki+ice+machine+water+filter&tag=errorcodefixes-20)
+- [Refrigerant Leak Detector Electronic](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-e8-low-side-pressure&k=electronic+refrigerant+leak+detector+commercial&tag=errorcodefixes-20)
+- [UV Dye for Refrigerant Leak Detection](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-e8-low-side-pressure&k=UV+dye+refrigerant+leak+detection&tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

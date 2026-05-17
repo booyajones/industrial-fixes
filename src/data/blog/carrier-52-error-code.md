@@ -37,9 +37,9 @@ Carrier code 52 is a **soft lockout due to repeated high-limit trips**. The furn
 
 | Part | Notes |
 |------|-------|
-| Blower run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Match µF and VAC rating exactly; typically 5–10 µF on most Carrier units |
-| High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Order by temperature rating (e.g., 160°F or 200°F) printed on the old switch |
-| Air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| 1" or 4" media filter — replace every 1–3 months depending on load |
+| Blower run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-carrier-52-error-code&tag=errorcodefixes-20) \| Match µF and VAC rating exactly; typically 5–10 µF on most Carrier units |
+| High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-carrier-52-error-code&tag=errorcodefixes-20) \| Order by temperature rating (e.g., 160°F or 200°F) printed on the old switch |
+| Air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-carrier-52-error-code&tag=errorcodefixes-20) \| 1" or 4" media filter — replace every 1–3 months depending on load |
 ## When to Call a Pro
 
 If the blower runs strong, airflow is unrestricted, and the furnace still trips the limit repeatedly, suspect a cracked heat exchanger allowing combustion gases to recirculate. This is a carbon monoxide hazard — shut the unit off and call a licensed HVAC technician immediately.

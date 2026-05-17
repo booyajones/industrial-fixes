@@ -36,9 +36,9 @@ The F1 error on Hoshizaki ice machines indicates abnormal drain pump operation �
 
 | Part | Notes |
 |------|-------|
-| Drain pump motor | [Amazon](https://www.amazon.com/s?i=industrial&k=Drain+pump+motor&tag=errorcodefixes-20) \| Match to Hoshizaki model — voltage and flow rate vary |
-| Drain check valve | [Amazon](https://www.amazon.com/s?i=industrial&k=Drain+check+valve&tag=errorcodefixes-20) \| Replace if stuck closed |
-| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| If pump has voltage but board relay failed |
+| Drain pump motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-f1-error-code&k=Drain+pump+motor&tag=errorcodefixes-20) \| Match to Hoshizaki model — voltage and flow rate vary |
+| Drain check valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-hoshizaki-f1-error-code&k=Drain+check+valve&tag=errorcodefixes-20) \| Replace if stuck closed |
+| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-hoshizaki-f1-error-code&tag=errorcodefixes-20) \| If pump has voltage but board relay failed |
 ## When to Call a Pro
 
 If drain pump, line, and valve are all clear and F1 persists, the control board may have a failed relay output. Board diagnostics and replacement require a certified refrigeration technician.

@@ -39,9 +39,9 @@ The ABB ACS580 is a general-purpose all-compatible drive designed for industrial
 
 | Part | Notes |
 |------|-------|
-| Input fuses | [Amazon](https://www.amazon.com/s?i=industrial&k=Input+fuses&tag=errorcodefixes-20) \| Match the type and amperage from the ACS580 hardware manual for the specific frame size |
-| AC contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Replace if contact inspection shows pitting or high resistance under load |
-| Power terminal lug | [Amazon](https://www.amazon.com/s?i=industrial&k=Power+terminal+lug&tag=errorcodefixes-20) \| Replace if existing lug is corroded or cracked |
+| Input fuses | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-abb-acs580-fault-3130&k=Input+fuses&tag=errorcodefixes-20) \| Match the type and amperage from the ACS580 hardware manual for the specific frame size |
+| AC contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-abb-acs580-fault-3130&tag=errorcodefixes-20) \| Replace if contact inspection shows pitting or high resistance under load |
+| Power terminal lug | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-abb-acs580-fault-3130&k=Power+terminal+lug&tag=errorcodefixes-20) \| Replace if existing lug is corroded or cracked |
 ## When to Call a Pro
 
 If all three supply voltages are confirmed balanced and correct at the drive input terminals but fault 3130 persists, the rectifier input section may have been damaged by a prior phase loss event. ABB has an authorized drive repair center network for board-level diagnosis and repair. The ACS580 hardware warranty covers manufacturing defects; a phase-loss-induced rectifier failure may or may not be covered depending on the cause.

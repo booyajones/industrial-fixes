@@ -48,11 +48,11 @@ Alco EBC boards communicate via RS-485 Modbus. Faults occur from incorrect addre
 
 | Part | Notes |
 |------|-------|
-| EXV stepper motor coil | [Amazon](https://www.amazon.com/s?i=industrial&k=EXV+stepper+motor+coil&tag=errorcodefixes-20) \| Replace on valve mechanical fault |
-| S1 NTC thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=S1+NTC+thermistor&tag=errorcodefixes-20) \| Replace on sensor fault |
-| S2 pressure transducer | [Amazon](https://www.amazon.com/s?i=industrial&k=S2+pressure+transducer&tag=errorcodefixes-20) \| Replace on sensor fault |
-| EBC controller board | [Amazon](https://www.amazon.com/s?i=industrial&k=EBC+controller+board&tag=errorcodefixes-20) \| Replace on electronics failure |
-| EXV body assembly | [Amazon](https://www.amazon.com/s?i=industrial&k=EXV+body+assembly&tag=errorcodefixes-20) \| Replace on stuck valve |
+| EXV stepper motor coil | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-alco-controls-fault-codes&k=EXV+stepper+motor+coil&tag=errorcodefixes-20) \| Replace on valve mechanical fault |
+| S1 NTC thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-alco-controls-fault-codes&k=S1+NTC+thermistor&tag=errorcodefixes-20) \| Replace on sensor fault |
+| S2 pressure transducer | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-alco-controls-fault-codes&k=S2+pressure+transducer&tag=errorcodefixes-20) \| Replace on sensor fault |
+| EBC controller board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-alco-controls-fault-codes&k=EBC+controller+board&tag=errorcodefixes-20) \| Replace on electronics failure |
+| EXV body assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-alco-controls-fault-codes&k=EXV+body+assembly&tag=errorcodefixes-20) \| Replace on stuck valve |
 ## When to Call a Pro
 Alco EXV superheat tuning in refrigeration circuits requires refrigerant certification. Incorrect superheat settings can flood the compressor and cause catastrophic failure.
 

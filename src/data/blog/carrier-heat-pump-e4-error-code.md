@@ -36,10 +36,10 @@ The Carrier heat pump **E4 error code** indicates a **low pressure fault** — t
 
 | Part | Notes |
 |------|-------|
-| Refrigerant charge (R-410A per nameplate) | [Amazon](https://www.amazon.com/s?i=industrial&k=Refrigerant+charge+%28R-410A+per+nameplate%29&tag=errorcodefixes-20) \| Add only after leak is located and repaired; EPA 608 cert required |
-| Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Replace if switch tests open at normal operating pressures |
-| Expansion valve (TXV) | [Amazon](https://www.amazon.com/s?i=industrial&k=Expansion+valve+%28TXV%29&tag=errorcodefixes-20) \| Replace if suction pressure is low with confirmed adequate refrigerant charge |
-| Air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| Replace if clogged; use MERV 8 or lower to avoid restricting airflow |
+| Refrigerant charge (R-410A per nameplate) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-heat-pump-e4-error-code&k=Refrigerant+charge+%28R-410A+per+nameplate%29&tag=errorcodefixes-20) \| Add only after leak is located and repaired; EPA 608 cert required |
+| Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-heat-pump-e4-error-code&tag=errorcodefixes-20) \| Replace if switch tests open at normal operating pressures |
+| Expansion valve (TXV) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-heat-pump-e4-error-code&k=Expansion+valve+%28TXV%29&tag=errorcodefixes-20) \| Replace if suction pressure is low with confirmed adequate refrigerant charge |
+| Air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-carrier-heat-pump-e4-error-code&tag=errorcodefixes-20) \| Replace if clogged; use MERV 8 or lower to avoid restricting airflow |
 ## When to Call a Pro
 
 Low refrigerant is the most common E4 cause and always requires a licensed HVAC-R technician to diagnose, locate the leak, repair, evacuate, and recharge. Adding refrigerant without finding the leak is a temporary fix that masks the real problem.

@@ -37,9 +37,9 @@ The LG CH38 error code indicates an **outdoor inverter compressor fault** — th
 
 | Part | Notes |
 |------|-------|
-| Inverter PCB (outdoor unit) | [Amazon](https://www.amazon.com/s?i=industrial&k=Inverter+PCB+%28outdoor+unit%29&tag=errorcodefixes-20) \| If board is confirmed faulty; LG-specific — match model number |
-| Refrigerant (R410A or R32) | [Amazon](https://www.amazon.com/s?i=industrial&k=Refrigerant+%28R410A+or+R32%29&tag=errorcodefixes-20) \| Requires EPA 608 certification to purchase and handle |
-| Compressor | [Amazon](https://www.amazon.com/s?i=industrial&k=Compressor&tag=errorcodefixes-20) \| Last resort after full electrical diagnosis |
+| Inverter PCB (outdoor unit) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-mini-split-ch38-error-code&k=Inverter+PCB+%28outdoor+unit%29&tag=errorcodefixes-20) \| If board is confirmed faulty; LG-specific — match model number |
+| Refrigerant (R410A or R32) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-mini-split-ch38-error-code&k=Refrigerant+%28R410A+or+R32%29&tag=errorcodefixes-20) \| Requires EPA 608 certification to purchase and handle |
+| Compressor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-mini-split-ch38-error-code&k=Compressor&tag=errorcodefixes-20) \| Last resort after full electrical diagnosis |
 ## When to Call a Pro
 
 CH38 with a compressor or refrigerant root cause requires certified refrigerant handling and specialized inverter diagnostics. LG's inverter diagnostics require the LG LGMV service tool for full fault data. Contact an LG-authorized service provider if the basic checks above don't resolve the fault.

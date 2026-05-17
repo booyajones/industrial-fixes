@@ -36,9 +36,9 @@ Fault LF on a Yaskawa drive (A1000, V1000, GA700, GA800) stands for Output Phase
 
 | Part | Notes |
 |------|-------|
-| Motor cable (VFD-rated, screened) | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+cable+%28VFD-rated%2C+screened%29&tag=errorcodefixes-20) \| Replace if any conductor shows intermittent or open continuity |
-| Motor (rewind or replacement) | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+%28rewind+or+replacement%29&tag=errorcodefixes-20) \| If open winding is confirmed |
-| Output contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Replace if single pole fails to make contact |
+| Motor cable (VFD-rated, screened) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-yaskawa-vfd-fault-lf&k=Motor+cable+%28VFD-rated%2C+screened%29&tag=errorcodefixes-20) \| Replace if any conductor shows intermittent or open continuity |
+| Motor (rewind or replacement) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-yaskawa-vfd-fault-lf&k=Motor+%28rewind+or+replacement%29&tag=errorcodefixes-20) \| If open winding is confirmed |
+| Output contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-yaskawa-vfd-fault-lf&tag=errorcodefixes-20) \| Replace if single pole fails to make contact |
 ## When to Call a Pro
 
 Verifying LF fault with a scope or power analyzer provides better data than a clamp meter for intermittent output phase loss. Motor rewinding requires a motor shop. Always use lockout/tagout before working on drive output circuits.
