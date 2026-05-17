@@ -24,14 +24,16 @@ subreddits:
 #
 # {BRAND} is iterated over the brand list below. We intentionally search
 # brand-specific because generic "error code" queries return mostly noise.
+# Pattern set trimmed to the 3 highest-signal queries per council
+# gauntlet feedback. Earlier set of 7 patterns put runtime at ~60 min
+# against a 30 min workflow budget. "code" / "blinking" / "won't start" /
+# "stuck in defrost" got dropped — they returned mostly duplicates of what
+# the top three surfaced. 13 subs × 40 brands × 3 patterns = 1,560 queries
+# × 1 req/sec ≈ 26 min, comfortably inside the new 60 min workflow timeout.
 patterns:
   - '"{BRAND}" error'
   - '"{BRAND}" fault'
-  - '"{BRAND}" code'
   - '"{BRAND}" flashing'
-  - '"{BRAND}" blinking'
-  - '"{BRAND}" "won''t start"'
-  - '"{BRAND}" "stuck in defrost"'
 
 # Brand list — these are the brands we already have content for (or want to).
 # Drives the {BRAND} substitution in patterns above.

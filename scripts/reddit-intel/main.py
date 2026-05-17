@@ -33,6 +33,8 @@ import yaml  # PyYAML
 # that directory; pad it anyway so module-style runs work.
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
+import os
+
 import fetch
 import classify as classify_mod
 import match_articles
@@ -74,7 +76,37 @@ def _filter_hits(records: list[dict], cfg: dict) -> list[dict]:
     return out
 
 
+def _strict_mode_or_die() -> None:
+    """On scheduled GitHub Actions runs, missing prod creds = hard fail.
+
+    Council blocker fix: the fallback to local-JSON-and-stdout is helpful
+    for local dev but actively dangerous in a cron context — the workflow
+    shows green while the pipeline silently drops data into an artifact
+    Chris will never look at. Force a loud red failure so secret rotations
+    actually get noticed.
+    """
+    if os.environ.get("GITHUB_ACTIONS") != "true":
+        return
+    if os.environ.get("GITHUB_EVENT_NAME") != "schedule":
+        return  # workflow_dispatch keeps fallbacks for ad-hoc smoke tests
+    missing: list[str] = []
+    if not os.environ.get("REDDIT_INTEL_SPREADSHEET_ID"):
+        missing.append("REDDIT_INTEL_SPREADSHEET_ID")
+    if not os.environ.get("GOOGLE_APPLICATION_CREDENTIALS_JSON"):
+        missing.append("GOOGLE_APPLICATION_CREDENTIALS_JSON")
+    if not (os.environ.get("SMTP_HOST") and os.environ.get("SMTP_USER")):
+        missing.append("SMTP_HOST/SMTP_USER")
+    if missing:
+        logging.error(
+            "scheduled run is missing required prod env vars: %s. "
+            "Refusing to fall back to local JSON / stdout on a cron run.",
+            ", ".join(missing),
+        )
+        sys.exit(1)
+
+
 def run(args: argparse.Namespace) -> int:
+    _strict_mode_or_die()
     cfg = _load_config()
     subs = args.subs or cfg["subreddits"]
     patterns = cfg["patterns"]
@@ -112,6 +144,16 @@ def run(args: argparse.Namespace) -> int:
     annotated = match_articles.annotate(classified, blog_dir)
     annotated = _filter_hits(annotated, cfg)
 
+    # Cross-week dedup. The sheet is the state store — every weekly tab
+    # already contains post_id. If we've written this id before, skip.
+    if not args.no_dedup:
+        seen = sink_sheet.read_seen_post_ids()
+        if seen:
+            before = len(annotated)
+            annotated = [r for r in annotated if r["post_id"] not in seen]
+            logging.info("dedup: dropped %d already-seen posts (%d → %d)",
+                         before - len(annotated), before, len(annotated))
+
     by_gap = {"content_gap": 0, "serp_gap": 0, "covered": 0, "unknown": 0}
     for r in annotated:
         by_gap[r["gap_kind"]] = by_gap.get(r["gap_kind"], 0) + 1
@@ -136,6 +178,8 @@ def _parse_args(argv: list[str]) -> argparse.Namespace:
                    help="smoke test: cap both patterns and brands to this N")
     p.add_argument("--limit-per-query", type=int, default=25)
     p.add_argument("--polite-delay-sec", type=float, default=1.0)
+    p.add_argument("--no-dedup", action="store_true",
+                   help="skip cross-week dedup (debug only)")
     return p.parse_args(argv)
 
 

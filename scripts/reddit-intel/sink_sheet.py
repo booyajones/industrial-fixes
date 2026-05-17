@@ -28,6 +28,48 @@ HEADERS = [
     "equipment_category", "urgency", "age_hours", "score", "num_comments",
     "gap_kind", "matched_slug", "article_url", "video_target", "post_id",
 ]
+POST_ID_COL = HEADERS.index("post_id") + 1  # 1-indexed for A1 notation
+
+
+def read_seen_post_ids() -> set[str]:
+    """Reads post_id values across ALL existing weekly tabs.
+
+    Council blocker fix: without this, the same Reddit thread resurfaces
+    in 4 consecutive weekly digests. Use the sheet itself as the state store
+    so we don't need a separate cache layer.
+
+    Returns empty set on any failure or when creds aren't configured —
+    cross-week dedup is a quality improvement, not a correctness invariant.
+    """
+    spreadsheet_id = os.environ.get("REDDIT_INTEL_SPREADSHEET_ID")
+    creds = _load_sa_creds()
+    if not creds or not spreadsheet_id:
+        return set()
+    try:
+        from googleapiclient.discovery import build
+        svc = build("sheets", "v4", credentials=creds, cache_discovery=False)
+        meta = svc.spreadsheets().get(spreadsheetId=spreadsheet_id).execute()
+        seen: set[str] = set()
+        # Walk every weekly tab and pull just the post_id column. Limit to
+        # 4096 rows per tab to keep this fast even after a year of data.
+        col_letter = chr(ord("A") + POST_ID_COL - 1)
+        for sheet in meta.get("sheets", []):
+            title = sheet.get("properties", {}).get("title", "")
+            if not title or title.startswith("_"):
+                continue
+            try:
+                resp = svc.spreadsheets().values().get(
+                    spreadsheetId=spreadsheet_id,
+                    range=f"{title}!{col_letter}2:{col_letter}4096",
+                ).execute()
+                seen.update(v[0] for v in resp.get("values", []) if v and v[0])
+            except Exception:
+                continue
+        LOG.info("read_seen_post_ids: %d known post_ids across all tabs", len(seen))
+        return seen
+    except Exception as e:
+        LOG.warning("read_seen_post_ids failed: %s", e)
+        return set()
 
 
 def _load_sa_creds():

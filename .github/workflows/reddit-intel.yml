@@ -34,7 +34,10 @@ concurrency:
 jobs:
   intel:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    # 60 min covers the trimmed 1,560-query matrix at 1 req/sec plus
+    # backoff headroom. Council/gauntlet flagged the original 30 min as
+    # guaranteed timeout against the 13×40×7 matrix that originally shipped.
+    timeout-minutes: 60
     permissions:
       contents: read
     steps:
@@ -82,3 +85,40 @@ jobs:
           path: scripts/reddit-intel/out/
           if-no-files-found: ignore
           retention-days: 30
+
+      # On scheduled runs, alert Chris if the job failed. workflow_dispatch
+      # runs are interactive — he'll see the red X in the UI. Cron runs are
+      # not, so silent failure was the #1 failure mode flagged by council.
+      - name: Failure alert
+        if: failure() && github.event_name == 'schedule'
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          REDDIT_INTEL_DIGEST_TO: ${{ vars.REDDIT_INTEL_DIGEST_TO }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          python - <<'PY'
+          import os, smtplib
+          from email.mime.text import MIMEText
+          host = os.environ.get("SMTP_HOST")
+          if not host:
+              print("no SMTP configured — skipping failure alert")
+              raise SystemExit(0)
+          msg = MIMEText(
+              f"reddit-intel weekly run failed.\n\n"
+              f"Run: {os.environ.get('RUN_URL')}\n"
+              "Most likely causes: Reddit OAuth expired, SA permission "
+              "rotated, SMTP creds changed, or Reddit rate-limit hit hard.",
+              "plain",
+          )
+          msg["Subject"] = "[errorcodefixes] reddit-intel FAILED"
+          msg["From"] = os.environ["SMTP_USER"]
+          to = os.environ.get("REDDIT_INTEL_DIGEST_TO", "chris.a.wyatt@gmail.com")
+          msg["To"] = to
+          with smtplib.SMTP(host, 587) as s:
+              s.starttls()
+              s.login(os.environ["SMTP_USER"], os.environ["SMTP_PASS"])
+              s.sendmail(os.environ["SMTP_USER"], [to], msg.as_string())
+          print(f"failure alert sent to {to}")
+          PY
