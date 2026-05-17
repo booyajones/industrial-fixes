@@ -1,0 +1,84 @@
+# Weekly Tier A Reddit intel run for errorcodefixes.com.
+# LISTEN-ONLY — does not post, comment, or write to Reddit.
+#
+# Inputs (set via `gh secret set` / `gh variable set`, see scripts/reddit-intel/README.md):
+#   secrets:
+#     REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET
+#     GOOGLE_APPLICATION_CREDENTIALS_JSON
+#     SMTP_HOST, SMTP_USER, SMTP_PASS
+#   vars:
+#     REDDIT_INTEL_SPREADSHEET_ID
+#     REDDIT_INTEL_DIGEST_TO (optional)
+
+name: Reddit Intel (weekly)
+
+on:
+  schedule:
+    # Mondays 13:00 UTC = 09:00 ET — Chris's Monday triage window
+    - cron: "0 13 * * 1"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Don't write sheet, don't email"
+        required: false
+        default: "false"
+      max_queries:
+        description: "Cap patterns x brands for smoke test (0 = full)"
+        required: false
+        default: "0"
+
+concurrency:
+  group: reddit-intel
+  cancel-in-progress: false
+
+jobs:
+  intel:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            scripts/reddit-intel
+            src/data/blog
+          sparse-checkout-cone-mode: false
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: scripts/reddit-intel/requirements.txt
+
+      - name: Install
+        run: pip install -r scripts/reddit-intel/requirements.txt
+
+      - name: Run
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+          GOOGLE_APPLICATION_CREDENTIALS_JSON: ${{ secrets.GOOGLE_APPLICATION_CREDENTIALS_JSON }}
+          REDDIT_INTEL_SPREADSHEET_ID: ${{ vars.REDDIT_INTEL_SPREADSHEET_ID }}
+          REDDIT_INTEL_DIGEST_TO: ${{ vars.REDDIT_INTEL_DIGEST_TO }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+        run: |
+          ARGS=""
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            ARGS="$ARGS --dry-run"
+          fi
+          if [ -n "${{ github.event.inputs.max_queries }}" ] && [ "${{ github.event.inputs.max_queries }}" != "0" ]; then
+            ARGS="$ARGS --max-queries ${{ github.event.inputs.max_queries }}"
+          fi
+          python scripts/reddit-intel/main.py $ARGS
+
+      - name: Upload local fallback (if any)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: reddit-intel-out
+          path: scripts/reddit-intel/out/
+          if-no-files-found: ignore
+          retention-days: 30

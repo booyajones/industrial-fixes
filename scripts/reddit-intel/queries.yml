@@ -1,0 +1,99 @@
+# Subreddits and query patterns for the errorcodefixes.com Reddit intel engine.
+# Listen-only. Tier A of the multi-LLM-council-approved plan.
+#
+# Edit this file to add/remove subreddits or patterns. The runner re-reads it
+# on every invocation so changes land without redeploy.
+
+subreddits:
+  - hvacadvice           # huge; OPs asking specific brand/code questions
+  - HVAC                 # pros; mod-strict but legitimate signal source
+  - heatpumps
+  - Refrigeration
+  - Appliances           # consumer appliance fault codes — high commercial intent
+  - RestaurantOwners     # commercial kitchen equipment failures
+  - KitchenConfidential  # ditto
+  - CNC
+  - Machinists
+  - Forklifts
+  - Plumbing
+  - Electricians
+  - Generator
+
+# High-intent query patterns. Each is rendered as a Reddit search query
+# scoped to the subreddit, sorted by new, time=week.
+#
+# {BRAND} is iterated over the brand list below. We intentionally search
+# brand-specific because generic "error code" queries return mostly noise.
+patterns:
+  - '"{BRAND}" error'
+  - '"{BRAND}" fault'
+  - '"{BRAND}" code'
+  - '"{BRAND}" flashing'
+  - '"{BRAND}" blinking'
+  - '"{BRAND}" "won''t start"'
+  - '"{BRAND}" "stuck in defrost"'
+
+# Brand list — these are the brands we already have content for (or want to).
+# Drives the {BRAND} substitution in patterns above.
+brands:
+  # HVAC residential
+  - Carrier
+  - Trane
+  - Lennox
+  - Goodman
+  - Rheem
+  - York
+  - Bryant
+  - Daikin
+  - Mitsubishi
+  - LG
+  - Fujitsu
+  # HVAC commercial / boilers
+  - Lochinvar
+  - "Weil-McLain"
+  - Burnham
+  - Navien
+  - Rinnai
+  - Bosch
+  # Refrigeration
+  - True
+  - "Beverage-Air"
+  - Traulsen
+  - Manitowoc
+  - Hoshizaki
+  - Scotsman
+  # Commercial kitchen
+  - Hobart
+  - Vulcan
+  - Garland
+  - Rational
+  - Pitco
+  # CNC / industrial automation
+  - Fanuc
+  - Haas
+  - Mazak
+  - Siemens
+  - Yaskawa
+  - "Allen-Bradley"
+  - PowerFlex
+  # Material handling
+  - Yale
+  - Hyster
+  - Toyota
+  - Crown
+  # Generators
+  - Generac
+  - Kohler
+  - Cummins
+  - Honda
+
+# Filters applied to every result before it lands in the sheet
+filters:
+  min_score: 0           # don't filter on score — new posts may have 0
+  max_age_days: 14       # weekly cron; keep a 2-week buffer for slow threads
+  exclude_flair:
+    - "Meta"
+    - "Joke"
+    - "Image"
+  exclude_title_regex:
+    - "(?i)^(meme|joke|funny|lol)\\b"
