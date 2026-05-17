@@ -58,7 +58,7 @@ brands:
   - Rinnai
   - Bosch
   # Refrigeration
-  - True
+  - "True"   # quoted because YAML 1.1 parses bare True as a bool
   - "Beverage-Air"
   - Traulsen
   - Manitowoc

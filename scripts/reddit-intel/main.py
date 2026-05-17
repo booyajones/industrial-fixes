@@ -84,6 +84,10 @@ def _strict_mode_or_die() -> None:
     shows green while the pipeline silently drops data into an artifact
     Chris will never look at. Force a loud red failure so secret rotations
     actually get noticed.
+
+    Also requires a search transport (Firecrawl OR Reddit OAuth) because
+    Reddit aggressively 403s unauthenticated requests from datacenter
+    IPs (confirmed in canary run 26000204347).
     """
     if os.environ.get("GITHUB_ACTIONS") != "true":
         return
@@ -96,6 +100,8 @@ def _strict_mode_or_die() -> None:
         missing.append("GOOGLE_APPLICATION_CREDENTIALS_JSON")
     if not (os.environ.get("SMTP_HOST") and os.environ.get("SMTP_USER")):
         missing.append("SMTP_HOST/SMTP_USER")
+    if not (os.environ.get("FIRECRAWL_API_KEY") or os.environ.get("REDDIT_CLIENT_ID")):
+        missing.append("FIRECRAWL_API_KEY or REDDIT_CLIENT_ID")
     if missing:
         logging.error(
             "scheduled run is missing required prod env vars: %s. "
@@ -112,7 +118,26 @@ def run(args: argparse.Namespace) -> int:
     patterns = cfg["patterns"]
     brands = cfg["brands"]
 
-    if args.max_queries:
+    # Pick transport. Firecrawl is preferred — its SERP API hits Google
+    # from residential IPs so it isn't subject to Reddit's anti-datacenter
+    # 403s. Falls back to direct Reddit (OAuth or public JSON) when no
+    # Firecrawl key is set, which mostly works locally but not from GHA.
+    use_firecrawl = bool(os.environ.get("FIRECRAWL_API_KEY")) and not args.force_reddit
+    if use_firecrawl:
+        # Firecrawl path uses keyword-only patterns; brand detection is
+        # post-hoc from the SERP snippet. Reduce the matrix accordingly.
+        pattern_keywords = [
+            "error", "fault", "flashing",
+        ] if not args.max_queries else ["error", "fault", "flashing"][: args.max_queries]
+        if args.max_queries:
+            subs_in_use = list(subs)[: args.max_queries] if args.max_queries < len(list(subs)) else list(subs)
+            subs = subs_in_use
+        logging.info(
+            "firecrawl transport: %d subs x %d patterns = %d queries",
+            len(list(subs)), len(pattern_keywords),
+            len(list(subs)) * len(pattern_keywords),
+        )
+    elif args.max_queries:
         patterns = patterns[: args.max_queries]
         brands = brands[: args.max_queries]
         logging.info(
@@ -122,13 +147,23 @@ def run(args: argparse.Namespace) -> int:
         )
 
     started = time.time()
-    raw_hits = list(fetch.search(
-        subreddits=subs,
-        patterns=patterns,
-        brands=brands,
-        limit_per_query=args.limit_per_query,
-        polite_delay_sec=args.polite_delay_sec,
-    ))
+    if use_firecrawl:
+        import fetch_firecrawl
+        raw_hits = list(fetch_firecrawl.search(
+            subreddits=subs,
+            pattern_keywords=pattern_keywords,
+            brands=brands,
+            limit_per_query=args.limit_per_query,
+            polite_delay_sec=args.polite_delay_sec,
+        ))
+    else:
+        raw_hits = list(fetch.search(
+            subreddits=subs,
+            patterns=patterns,
+            brands=brands,
+            limit_per_query=args.limit_per_query,
+            polite_delay_sec=args.polite_delay_sec,
+        ))
     logging.info("fetched %d unique hits in %.1fs", len(raw_hits), time.time() - started)
 
     if not raw_hits:
@@ -180,6 +215,8 @@ def _parse_args(argv: list[str]) -> argparse.Namespace:
     p.add_argument("--polite-delay-sec", type=float, default=1.0)
     p.add_argument("--no-dedup", action="store_true",
                    help="skip cross-week dedup (debug only)")
+    p.add_argument("--force-reddit", action="store_true",
+                   help="use direct Reddit transport even if FIRECRAWL_API_KEY set")
     return p.parse_args(argv)
 
 
