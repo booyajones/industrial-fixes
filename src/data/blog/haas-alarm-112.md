@@ -38,10 +38,10 @@ Haas alarm 112 indicates that a servo motor has exceeded its temperature limit. 
 
 | Part | Notes |
 |------|-------|
-| Servo motor thermistor | [Amazon](https://www.amazon.com/s?k=Servo+motor+thermistor&tag=errorcodefixes-20) \| OEM Haas part; replacement requires motor disassembly |
-| Servo motor (complete) | [Amazon](https://www.amazon.com/s?k=Servo+motor+%28complete%29&tag=errorcodefixes-20) \| Replace if windings are damaged from repeated overtemperature events |
-| Way lube pump / distributor | [Amazon](https://www.amazon.com/s?k=Way+lube+pump+%2F+distributor&tag=errorcodefixes-20) \| Replace if lubrication system is not delivering oil to guides |
-| Ball screw support bearing | [Amazon](https://www.amazon.com/s?k=Ball+screw+support+bearing&tag=errorcodefixes-20) \| Replace if ball screw is binding due to bearing failure |
+| Servo motor thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+motor+thermistor&tag=errorcodefixes-20) \| OEM Haas part; replacement requires motor disassembly |
+| Servo motor (complete) | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+motor+%28complete%29&tag=errorcodefixes-20) \| Replace if windings are damaged from repeated overtemperature events |
+| Way lube pump / distributor | [Amazon](https://www.amazon.com/s?i=industrial&k=Way+lube+pump+%2F+distributor&tag=errorcodefixes-20) \| Replace if lubrication system is not delivering oil to guides |
+| Ball screw support bearing | [Amazon](https://www.amazon.com/s?i=industrial&k=Ball+screw+support+bearing&tag=errorcodefixes-20) \| Replace if ball screw is binding due to bearing failure |
 ## When to Call a Pro
 
 Motor winding damage from repeated overtemperature events, and servo motor replacement, should be handled by a Haas Factory Outlet (HFO) service technician. Thermistor replacement requires motor disassembly and should be done with the correct motor parameters re-entered into the drive.

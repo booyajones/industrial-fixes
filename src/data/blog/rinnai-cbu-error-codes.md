@@ -66,10 +66,10 @@ The Rinnai CBU (CBU199iN, CBU199eN) is a condensing combination boiler providing
 
 | Part | Notes |
 |------|-------|
-| Thermal fuse | [Amazon](https://www.amazon.com/s?k=Thermal+fuse&tag=errorcodefixes-20) \| One-time safety device; investigate first |
-| Expansion tank | [Amazon](https://www.amazon.com/s?k=Expansion+tank&tag=errorcodefixes-20) \| For Code 81; check pre-charge before replacing |
-| Heating pump (circulator) | [Amazon](https://www.amazon.com/s?k=Heating+pump+%28circulator%29&tag=errorcodefixes-20) \| For Code 61; bleed airlock first |
-| Condensate drain trap | [Amazon](https://www.amazon.com/s?k=Condensate+drain+trap&tag=errorcodefixes-20) \| Replace if cracked or blocked |
+| Thermal fuse | [Amazon](https://www.amazon.com/s?i=industrial&k=Thermal+fuse&tag=errorcodefixes-20) \| One-time safety device; investigate first |
+| Expansion tank | [Amazon](https://www.amazon.com/s?i=industrial&k=Expansion+tank&tag=errorcodefixes-20) \| For Code 81; check pre-charge before replacing |
+| Heating pump (circulator) | [Amazon](https://www.amazon.com/s?i=industrial&k=Heating+pump+%28circulator%29&tag=errorcodefixes-20) \| For Code 61; bleed airlock first |
+| Condensate drain trap | [Amazon](https://www.amazon.com/s?i=industrial&k=Condensate+drain+trap&tag=errorcodefixes-20) \| Replace if cracked or blocked |
 | Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| For Code 72; clean first |
 | Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| For Code 71; confirm 24V signal first |
 ## When to Call a Pro

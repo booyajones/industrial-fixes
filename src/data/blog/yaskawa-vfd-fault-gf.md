@@ -36,9 +36,9 @@ Yaskawa fault GF means ground fault — the drive detected that output current i
 
 | Part | Notes |
 |------|-------|
-| Motor (replacement) | [Amazon](https://www.amazon.com/s?k=Motor+%28replacement%29&tag=errorcodefixes-20) \| Required if winding insulation tests below acceptable threshold |
-| VFD-rated output cable (shielded) | [Amazon](https://www.amazon.com/s?k=VFD-rated+output+cable+%28shielded%29&tag=errorcodefixes-20) \| Replace if any conductor shows insulation damage |
-| Output reactor (line choke) | [Amazon](https://www.amazon.com/s?k=Output+reactor+%28line+choke%29&tag=errorcodefixes-20) \| Install if GF is caused by long cable capacitive leakage |
+| Motor (replacement) | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+%28replacement%29&tag=errorcodefixes-20) \| Required if winding insulation tests below acceptable threshold |
+| VFD-rated output cable (shielded) | [Amazon](https://www.amazon.com/s?i=industrial&k=VFD-rated+output+cable+%28shielded%29&tag=errorcodefixes-20) \| Replace if any conductor shows insulation damage |
+| Output reactor (line choke) | [Amazon](https://www.amazon.com/s?i=industrial&k=Output+reactor+%28line+choke%29&tag=errorcodefixes-20) \| Install if GF is caused by long cable capacitive leakage |
 ## When to Call a Pro
 
 Megohm meter testing and motor insulation analysis requires proper equipment and safety procedures. If the motor tests marginal (500 kΩ to 1 MΩ), a motor shop can do a more thorough surge test and rewinding assessment.

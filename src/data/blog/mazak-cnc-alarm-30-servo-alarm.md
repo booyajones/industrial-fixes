@@ -51,10 +51,10 @@ Alarm 30 is a category alarm that can originate from any servo axis (X, Y, Z, B,
 
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|-------------|
-| Fanuc Servo Amplifier (Alpha-series) | A06B-6140-H006 (axis-specific) | $1,500–$4,000 | [Amazon](https://www.amazon.com/s?k=A06B-6140-H006+%28axis-specific%29+Fanuc+Servo+Amplifier+%28Alpha-series%29&tag=errorcodefixes-20) \| Fanuc America / repair centers |
-| Servo Motor Encoder Cable | A66L-0001-0284 (size-specific) | $80–$250 | [Amazon](https://www.amazon.com/s?k=A66L-0001-0284+%28size-specific%29+Servo+Motor+Encoder+Cable&tag=errorcodefixes-20) \| Fanuc America / Mazak parts |
-| Fanuc Servo Motor (if motor failed) | A06B-0205-B100 (model-specific) | $1,200–$3,500 | [Amazon](https://www.amazon.com/s?k=A06B-0205-B100+%28model-specific%29+Fanuc+Servo+Motor+%28if+motor+failed%29&tag=errorcodefixes-20) \| Fanuc America / repair centers |
-| Power Supply Module (PSM) | A06B-6150-H030 (size-specific) | $2,000–$5,000 | [Amazon](https://www.amazon.com/s?k=A06B-6150-H030+%28size-specific%29+Power+Supply+Module+%28PSM%29&tag=errorcodefixes-20) \| Fanuc America |
+| Fanuc Servo Amplifier (Alpha-series) | A06B-6140-H006 (axis-specific) | $1,500–$4,000 | [Amazon](https://www.amazon.com/s?i=industrial&k=A06B-6140-H006+%28axis-specific%29+Fanuc+Servo+Amplifier+%28Alpha-series%29&tag=errorcodefixes-20) \| Fanuc America / repair centers |
+| Servo Motor Encoder Cable | A66L-0001-0284 (size-specific) | $80–$250 | [Amazon](https://www.amazon.com/s?i=industrial&k=A66L-0001-0284+%28size-specific%29+Servo+Motor+Encoder+Cable&tag=errorcodefixes-20) \| Fanuc America / Mazak parts |
+| Fanuc Servo Motor (if motor failed) | A06B-0205-B100 (model-specific) | $1,200–$3,500 | [Amazon](https://www.amazon.com/s?i=industrial&k=A06B-0205-B100+%28model-specific%29+Fanuc+Servo+Motor+%28if+motor+failed%29&tag=errorcodefixes-20) \| Fanuc America / repair centers |
+| Power Supply Module (PSM) | A06B-6150-H030 (size-specific) | $2,000–$5,000 | [Amazon](https://www.amazon.com/s?i=industrial&k=A06B-6150-H030+%28size-specific%29+Power+Supply+Module+%28PSM%29&tag=errorcodefixes-20) \| Fanuc America |
 ## When to Call a Professional
 
 Mazak CNC servo systems operate at high voltages (200–600VDC bus) and require Fanuc-certified or Mazak-certified service technicians for amplifier replacement and parameter verification. After any amplifier replacement on a Mazak, the servo parameters (gain, velocity loop gains, position loop gains) must be verified against the machine's parameter backup and may require tuning to prevent axis oscillation or following error alarms. Attempting to run a machine after servo amplifier replacement without parameter verification can cause axis runaway. Always keep a current parameter backup on a USB drive stored with the machine.

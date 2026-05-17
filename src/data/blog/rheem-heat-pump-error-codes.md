@@ -51,7 +51,7 @@ This guide covers the four most common Rheem heat pump error codes and what to d
 5. If sensor and wiring test good, the control board input circuit may be at fault — contact a Rheem technician.
 
 **Parts:**
-- [Rheem Heat Pump Indoor Coil Sensor NTC Thermistor](https://www.amazon.com/s?k=Rheem+heat+pump+indoor+coil+thermistor+sensor+replacement&tag=errorcodefixes-20)
+- [Rheem Heat Pump Indoor Coil Sensor NTC Thermistor](https://www.amazon.com/s?i=industrial&k=Rheem+heat+pump+indoor+coil+thermistor+sensor+replacement&tag=errorcodefixes-20)
 
 ---
 
@@ -132,8 +132,8 @@ This guide covers the four most common Rheem heat pump error codes and what to d
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|-------------|
-| Indoor Coil Sensor (NTC) | $15–$30 | [Amazon](https://www.amazon.com/s?k=Rheem+heat+pump+coil+thermistor+sensor&tag=errorcodefixes-20) |
-| Outdoor Coil Sensor (NTC) | $15–$30 | [Amazon](https://www.amazon.com/s?k=Rheem+outdoor+unit+coil+thermistor&tag=errorcodefixes-20) |
+| Indoor Coil Sensor (NTC) | $15–$30 | [Amazon](https://www.amazon.com/s?i=industrial&k=Rheem+heat+pump+coil+thermistor+sensor&tag=errorcodefixes-20) |
+| Outdoor Coil Sensor (NTC) | $15–$30 | [Amazon](https://www.amazon.com/s?i=industrial&k=Rheem+outdoor+unit+coil+thermistor&tag=errorcodefixes-20) |
 | Condenser Fan Motor Capacitor | $15–$40 | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) |
 | Condenser Fan Motor | $80–$200 | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) |
 | High / Low Pressure Switch | $20–$50 | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) |

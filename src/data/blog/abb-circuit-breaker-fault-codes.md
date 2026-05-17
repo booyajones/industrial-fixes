@@ -47,11 +47,11 @@ The Ekip Com module provides Modbus, PROFIBUS, or BACnet connectivity. Loss of c
 
 | Part | Notes |
 |------|-------|
-| Ekip trip unit | [Amazon](https://www.amazon.com/s?k=Ekip+trip+unit&tag=errorcodefixes-20) \| Replace on electronics failure |
-| Ekip Com module | [Amazon](https://www.amazon.com/s?k=Ekip+Com+module&tag=errorcodefixes-20) \| Replace on communication fault |
-| Arc chutes | [Amazon](https://www.amazon.com/s?k=Arc+chutes&tag=errorcodefixes-20) \| Replace after multiple fault trips |
-| Auxiliary contact blocks | [Amazon](https://www.amazon.com/s?k=Auxiliary+contact+blocks&tag=errorcodefixes-20) \| Replace on worn contacts |
-| Undervoltage release (UVR) | [Amazon](https://www.amazon.com/s?k=Undervoltage+release+%28UVR%29&tag=errorcodefixes-20) \| Replace on no-trip-open fault |
+| Ekip trip unit | [Amazon](https://www.amazon.com/s?i=industrial&k=Ekip+trip+unit&tag=errorcodefixes-20) \| Replace on electronics failure |
+| Ekip Com module | [Amazon](https://www.amazon.com/s?i=industrial&k=Ekip+Com+module&tag=errorcodefixes-20) \| Replace on communication fault |
+| Arc chutes | [Amazon](https://www.amazon.com/s?i=industrial&k=Arc+chutes&tag=errorcodefixes-20) \| Replace after multiple fault trips |
+| Auxiliary contact blocks | [Amazon](https://www.amazon.com/s?i=industrial&k=Auxiliary+contact+blocks&tag=errorcodefixes-20) \| Replace on worn contacts |
+| Undervoltage release (UVR) | [Amazon](https://www.amazon.com/s?i=industrial&k=Undervoltage+release+%28UVR%29&tag=errorcodefixes-20) \| Replace on no-trip-open fault |
 ## When to Call a Pro
 ABB circuit breaker contact inspection and Ekip calibration require qualified electrical personnel. Do not reset after an instantaneous trip without verifying the load circuit is fault-free.
 

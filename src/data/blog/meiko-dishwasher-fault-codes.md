@@ -40,9 +40,9 @@ Meiko is a German commercial dishwasher brand known for high-quality flight mach
 
 | Part | Notes |
 |------|-------|
-| Wash pump impeller | [Amazon](https://www.amazon.com/s?k=Wash+pump+impeller&tag=errorcodefixes-20) \| Replace if cracked or damaged |
-| Heating element | [Amazon](https://www.amazon.com/s?k=Heating+element&tag=errorcodefixes-20) \| For F3/F6 on electric models |
-| Steam trap | [Amazon](https://www.amazon.com/s?k=Steam+trap&tag=errorcodefixes-20) \| For F3 on steam-heated models |
+| Wash pump impeller | [Amazon](https://www.amazon.com/s?i=industrial&k=Wash+pump+impeller&tag=errorcodefixes-20) \| Replace if cracked or damaged |
+| Heating element | [Amazon](https://www.amazon.com/s?i=industrial&k=Heating+element&tag=errorcodefixes-20) \| For F3/F6 on electric models |
+| Steam trap | [Amazon](https://www.amazon.com/s?i=industrial&k=Steam+trap&tag=errorcodefixes-20) \| For F3 on steam-heated models |
 ## When to Call a Pro
 
 Meiko flight machines and large installations require Meiko-authorized service for all major repairs. Contact Meiko USA or a certified service partner.

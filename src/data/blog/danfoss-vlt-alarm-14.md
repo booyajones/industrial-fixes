@@ -118,12 +118,12 @@ After the fault cause is identified and corrected:
 
 | Part | Why | Approx. Cost |
 |------|-----|-------------|
-| [Replacement motor (size-matched)](https://www.amazon.com/s?k=Replacement+motor+%28size-matched%29&tag=errorcodefixes-20) | Motor insulation failure — cannot repair economically | $200–$3,000+ |
-| [Motor cable — shielded VFD-rated](https://www.amazon.com/s?k=Motor+cable+%E2%80%94+shielded+VFD-rated&tag=errorcodefixes-20) | Damaged cable causing ground fault | $2–$8/ft |
-| [Danfoss output dU/dt filter](https://www.amazon.com/s?k=Danfoss+output+dU%2Fdt+filter&tag=errorcodefixes-20) | Reduce capacitive ground current on long cable runs | $150–$600 |
-| [Megohmmeter / insulation tester](https://www.amazon.com/s?k=Megohmmeter+%2F+insulation+tester&tag=errorcodefixes-20) | Diagnose motor and cable insulation | $80–$300 (tool) |
-| [Shaft seal kit (pump-specific)](https://www.amazon.com/s?k=Shaft+seal+kit+%28pump-specific%29&tag=errorcodefixes-20) | Water ingress from failed shaft seal | $20–$80 |
-| [VLT drive power card / IGBT module](https://www.amazon.com/s?k=VLT+drive+power+card+%2F+IGBT+module&tag=errorcodefixes-20) | Internal drive fault causing alarm 14 with no motor | $300–$2,000+ |
+| [Replacement motor (size-matched)](https://www.amazon.com/s?i=industrial&k=Replacement+motor+%28size-matched%29&tag=errorcodefixes-20) | Motor insulation failure — cannot repair economically | $200–$3,000+ |
+| [Motor cable — shielded VFD-rated](https://www.amazon.com/s?i=industrial&k=Motor+cable+%E2%80%94+shielded+VFD-rated&tag=errorcodefixes-20) | Damaged cable causing ground fault | $2–$8/ft |
+| [Danfoss output dU/dt filter](https://www.amazon.com/s?i=industrial&k=Danfoss+output+dU%2Fdt+filter&tag=errorcodefixes-20) | Reduce capacitive ground current on long cable runs | $150–$600 |
+| [Megohmmeter / insulation tester](https://www.amazon.com/s?i=industrial&k=Megohmmeter+%2F+insulation+tester&tag=errorcodefixes-20) | Diagnose motor and cable insulation | $80–$300 (tool) |
+| [Shaft seal kit (pump-specific)](https://www.amazon.com/s?i=industrial&k=Shaft+seal+kit+%28pump-specific%29&tag=errorcodefixes-20) | Water ingress from failed shaft seal | $20–$80 |
+| [VLT drive power card / IGBT module](https://www.amazon.com/s?i=industrial&k=VLT+drive+power+card+%2F+IGBT+module&tag=errorcodefixes-20) | Internal drive fault causing alarm 14 with no motor | $300–$2,000+ |
 
 Danfoss output filters are available from Danfoss distributors. Danfoss part numbers for dU/dt filters follow the format **132B...** for AHF and filter products — use the Danfoss VLT selection tool (drives.danfoss.com) to find the correct filter for your drive frame size and cable length.
 

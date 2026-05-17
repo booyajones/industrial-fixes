@@ -40,9 +40,9 @@ Lennox error code 434 appears on iComfort communicating systems when the indoor 
 | Part | Notes |
 |------|-------|
 | Outdoor unit control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Order by model number from data plate — communicating boards are model-specific |
-| 3A or 5A control fuse | [Amazon](https://www.amazon.com/s?k=3A+or+5A+control+fuse&tag=errorcodefixes-20) \| Check board for fuse rating before ordering |
-| 18/5 communication cable | [Amazon](https://www.amazon.com/s?k=18%2F5+communication+cable&tag=errorcodefixes-20) \| Replace full run if damaged or corroded |
-| 40VA 24V control transformer | [Amazon](https://www.amazon.com/s?k=40VA+24V+control+transformer&tag=errorcodefixes-20) \| Replace if 24VAC output is low under load |
+| 3A or 5A control fuse | [Amazon](https://www.amazon.com/s?i=industrial&k=3A+or+5A+control+fuse&tag=errorcodefixes-20) \| Check board for fuse rating before ordering |
+| 18/5 communication cable | [Amazon](https://www.amazon.com/s?i=industrial&k=18%2F5+communication+cable&tag=errorcodefixes-20) \| Replace full run if damaged or corroded |
+| 40VA 24V control transformer | [Amazon](https://www.amazon.com/s?i=industrial&k=40VA+24V+control+transformer&tag=errorcodefixes-20) \| Replace if 24VAC output is low under load |
 ## When to Call a Pro
 
 If you've confirmed communication wiring, fuse, and 24VAC but the outdoor unit still won't appear in the iComfort system map, the board replacement requires programming the new board to recognize the refrigerant charge and system configuration. Lennox dealers have the iComfort commissioning tool to complete that setup — without it, the system may not operate at rated efficiency.

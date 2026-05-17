@@ -38,8 +38,8 @@ Nine flashes on a Goodman furnace diagnostic LED indicates reversed line and loa
 
 | Part | Notes |
 |------|-------|
-| Outlet polarity tester | [Amazon](https://www.amazon.com/s?k=Outlet+polarity+tester&tag=errorcodefixes-20) \| Inexpensive tool for quickly diagnosing reversed outlets |
-| Wire nuts / terminals | [Amazon](https://www.amazon.com/s?k=Wire+nuts+%2F+terminals&tag=errorcodefixes-20) \| For re-terminating corrected wiring connections |
+| Outlet polarity tester | [Amazon](https://www.amazon.com/s?i=industrial&k=Outlet+polarity+tester&tag=errorcodefixes-20) \| Inexpensive tool for quickly diagnosing reversed outlets |
+| Wire nuts / terminals | [Amazon](https://www.amazon.com/s?i=industrial&k=Wire+nuts+%2F+terminals&tag=errorcodefixes-20) \| For re-terminating corrected wiring connections |
 | Furnace control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Only if board was damaged by sustained polarity reversal (rare) |
 ## When to Call a Pro
 

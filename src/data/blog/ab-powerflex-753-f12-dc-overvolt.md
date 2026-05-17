@@ -64,11 +64,11 @@ After any repair, run several stop cycles under real load. F12 loves to disappea
 
 ## Parts You May Need
 
-- [Dynamic braking resistor](https://www.amazon.com/s?k=dynamic+braking+resistor&tag=errorcodefixes-20)
-- [Power quality meter](https://www.amazon.com/s?k=power+quality+meter&tag=errorcodefixes-20)
+- [Dynamic braking resistor](https://www.amazon.com/s?i=industrial&k=dynamic+braking+resistor&tag=errorcodefixes-20)
+- [Power quality meter](https://www.amazon.com/s?i=industrial&k=power+quality+meter&tag=errorcodefixes-20)
 - [Clamp meter for industrial drives](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20)
-- [DC bus capacitors](https://www.amazon.com/s?k=DC+bus+capacitors&tag=errorcodefixes-20)
-- [Allen Bradley braking resistor hardware](https://www.amazon.com/s?k=Allen+Bradley+braking+resistor&tag=errorcodefixes-20)
+- [DC bus capacitors](https://www.amazon.com/s?i=industrial&k=DC+bus+capacitors&tag=errorcodefixes-20)
+- [Allen Bradley braking resistor hardware](https://www.amazon.com/s?i=industrial&k=Allen+Bradley+braking+resistor&tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

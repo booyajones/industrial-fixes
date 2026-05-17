@@ -16,17 +16,17 @@ tags:
 
 Caleffi manufactures hydronic heating components including zone valves, thermostatic mixing valves, automatic air vents, dirt and magnetic separators (Discaldirt, Dirtmag), and electronic differential pressure controllers. Most Caleffi components are mechanical — faults appear as operational symptoms rather than numeric codes. The Caleffi iSolar and electronic controller products display numeric faults.
 
-| [Device](https://www.amazon.com/s?k=Device&tag=errorcodefixes-20) | Fault Indicator | Meaning | Quick Fix |
+| [Device](https://www.amazon.com/s?i=industrial&k=Device&tag=errorcodefixes-20) | Fault Indicator | Meaning | Quick Fix |
 |--------|----------------|---------|-----------|
-| [Zone Valve (6130, 6150)](https://www.amazon.com/s?k=Zone+Valve+%286130%2C+6150%29&tag=errorcodefixes-20) | No/slow travel | Actuator motor worn | Replace actuator head |
-| [Zone Valve](https://www.amazon.com/s?k=Zone+Valve&tag=errorcodefixes-20) | No power — valve stuck | Thermal actuator seized | Replace head; check 24VAC |
-| [Mixing Valve (521, 5230)](https://www.amazon.com/s?k=Mixing+Valve+%28521%2C+5230%29&tag=errorcodefixes-20) | Temp too high | Cartridge fouled | Clean or replace cartridge |
-| [Mixing Valve](https://www.amazon.com/s?k=Mixing+Valve&tag=errorcodefixes-20) | Temp unstable | Pressure differential too high | Install balancing valve |
-| [iSolar controller](https://www.amazon.com/s?k=iSolar+controller&tag=errorcodefixes-20) | E1 | Collector sensor fault | Check sensor wiring; replace sensor |
-| [iSolar controller](https://www.amazon.com/s?k=iSolar+controller&tag=errorcodefixes-20) | E2 | Tank sensor fault | Check sensor wiring; replace sensor |
-| [iSolar controller](https://www.amazon.com/s?k=iSolar+controller&tag=errorcodefixes-20) | E3 | Overtemperature — collector | Check for stagnation condition |
-| [iSolar controller](https://www.amazon.com/s?k=iSolar+controller&tag=errorcodefixes-20) | E5 | Pump fault | Check circulator; check wiring |
-| [Discaldirt/Dirtmag](https://www.amazon.com/s?k=Discaldirt%2FDirtmag&tag=errorcodefixes-20) | Indicator full | Magnetic filter needs cleaning | Clean magnetic filter |
+| [Zone Valve (6130, 6150)](https://www.amazon.com/s?i=industrial&k=Zone+Valve+%286130%2C+6150%29&tag=errorcodefixes-20) | No/slow travel | Actuator motor worn | Replace actuator head |
+| [Zone Valve](https://www.amazon.com/s?i=industrial&k=Zone+Valve&tag=errorcodefixes-20) | No power — valve stuck | Thermal actuator seized | Replace head; check 24VAC |
+| [Mixing Valve (521, 5230)](https://www.amazon.com/s?i=industrial&k=Mixing+Valve+%28521%2C+5230%29&tag=errorcodefixes-20) | Temp too high | Cartridge fouled | Clean or replace cartridge |
+| [Mixing Valve](https://www.amazon.com/s?i=industrial&k=Mixing+Valve&tag=errorcodefixes-20) | Temp unstable | Pressure differential too high | Install balancing valve |
+| [iSolar controller](https://www.amazon.com/s?i=industrial&k=iSolar+controller&tag=errorcodefixes-20) | E1 | Collector sensor fault | Check sensor wiring; replace sensor |
+| [iSolar controller](https://www.amazon.com/s?i=industrial&k=iSolar+controller&tag=errorcodefixes-20) | E2 | Tank sensor fault | Check sensor wiring; replace sensor |
+| [iSolar controller](https://www.amazon.com/s?i=industrial&k=iSolar+controller&tag=errorcodefixes-20) | E3 | Overtemperature — collector | Check for stagnation condition |
+| [iSolar controller](https://www.amazon.com/s?i=industrial&k=iSolar+controller&tag=errorcodefixes-20) | E5 | Pump fault | Check circulator; check wiring |
+| [Discaldirt/Dirtmag](https://www.amazon.com/s?i=industrial&k=Discaldirt%2FDirtmag&tag=errorcodefixes-20) | Indicator full | Magnetic filter needs cleaning | Clean magnetic filter |
 
 ## Most Common Faults
 

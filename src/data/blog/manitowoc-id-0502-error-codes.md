@@ -57,11 +57,11 @@ The Manitowoc ID-0502 is a remote-air-cooled (D-series) cube ice machine produci
 | Part | Notes |
 |---|---|
 | Remote condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Multiple motors on large remote units |
-| Hot gas solenoid valve | [Amazon](https://www.amazon.com/s?k=Hot+gas+solenoid+valve&tag=errorcodefixes-20) \| Check coil continuity before condemning |
-| Communication cable | [Amazon](https://www.amazon.com/s?k=Communication+cable&tag=errorcodefixes-20) \| Re-run if damaged; use proper outdoor-rated cable |
-| Water curtain switch | [Amazon](https://www.amazon.com/s?k=Water+curtain+switch&tag=errorcodefixes-20) \| Same as IYT series |
+| Hot gas solenoid valve | [Amazon](https://www.amazon.com/s?i=industrial&k=Hot+gas+solenoid+valve&tag=errorcodefixes-20) \| Check coil continuity before condemning |
+| Communication cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Communication+cable&tag=errorcodefixes-20) \| Re-run if damaged; use proper outdoor-rated cable |
+| Water curtain switch | [Amazon](https://www.amazon.com/s?i=industrial&k=Water+curtain+switch&tag=errorcodefixes-20) \| Same as IYT series |
 | Float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?tag=errorcodefixes-20) \| Water trough level sensor |
-| HP switch | [Amazon](https://www.amazon.com/s?k=HP+switch&tag=errorcodefixes-20) \| Manual reset after Code 7 |
+| HP switch | [Amazon](https://www.amazon.com/s?i=industrial&k=HP+switch&tag=errorcodefixes-20) \| Manual reset after Code 7 |
 ## When to Call a Pro
 
 Remote-cooled ice machines require technicians familiar with long-line refrigerant systems. Line set sizing, oil return, and refrigerant charge calculation for remote systems are more complex than self-contained units. EPA 608 certification is required for all refrigerant service.

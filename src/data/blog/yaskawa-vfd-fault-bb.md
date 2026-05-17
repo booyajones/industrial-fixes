@@ -39,8 +39,8 @@ Yaskawa BB stands for **Baseblock** — this is **not a hard fault**. Baseblock 
 
 | Part | Notes |
 |------|-------|
-| No parts typically needed | [Amazon](https://www.amazon.com/s?k=No+parts+typically+needed&tag=errorcodefixes-20) \| BB is a control signal issue, not a hardware failure |
-| Terminal block or wiring | [Amazon](https://www.amazon.com/s?k=Terminal+block+or+wiring&tag=errorcodefixes-20) \| If the baseblock input terminal is damaged or wiring has failed |
+| No parts typically needed | [Amazon](https://www.amazon.com/s?i=industrial&k=No+parts+typically+needed&tag=errorcodefixes-20) \| BB is a control signal issue, not a hardware failure |
+| Terminal block or wiring | [Amazon](https://www.amazon.com/s?i=industrial&k=Terminal+block+or+wiring&tag=errorcodefixes-20) \| If the baseblock input terminal is damaged or wiring has failed |
 ## When to Call a Pro
 
 If BB is being commanded by a safety system or E-stop circuit and you don't know why the safety device is activating, do not bypass it. Have a controls engineer investigate the safety circuit logic before overriding the baseblock command.

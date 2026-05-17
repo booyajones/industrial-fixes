@@ -50,8 +50,8 @@ PM6 auto-tune uses relay output switching to identify process dynamics. During a
 | Part | Notes |
 |------|-------|
 | Thermocouple (Type K/J/T) | [Amazon](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) \| Match existing sensor type |
-| RTD sensor (Pt100) | [Amazon](https://www.amazon.com/s?k=RTD+sensor+%28Pt100%29&tag=errorcodefixes-20) \| For RTD input PM6 versions |
-| Solid-state relay | [Amazon](https://www.amazon.com/s?k=Solid-state+relay&tag=errorcodefixes-20) \| Match output type (SSR for current output) |
-| Mechanical relay | [Amazon](https://www.amazon.com/s?k=Mechanical+relay&tag=errorcodefixes-20) \| For relay output versions |
-| Replacement PM6 | [Amazon](https://www.amazon.com/s?k=Replacement+PM6&tag=errorcodefixes-20) \| Document all parameter values before replacing |
+| RTD sensor (Pt100) | [Amazon](https://www.amazon.com/s?i=industrial&k=RTD+sensor+%28Pt100%29&tag=errorcodefixes-20) \| For RTD input PM6 versions |
+| Solid-state relay | [Amazon](https://www.amazon.com/s?i=industrial&k=Solid-state+relay&tag=errorcodefixes-20) \| Match output type (SSR for current output) |
+| Mechanical relay | [Amazon](https://www.amazon.com/s?i=industrial&k=Mechanical+relay&tag=errorcodefixes-20) \| For relay output versions |
+| Replacement PM6 | [Amazon](https://www.amazon.com/s?i=industrial&k=Replacement+PM6&tag=errorcodefixes-20) \| Document all parameter values before replacing |
 > **Pro tip:** Watlow PM6 parameters can be locked with a password to prevent unauthorized changes. If locked, consult the PM6 installation manual for the default unlock code (1234). Document all parameter values before any PM6 replacement — there is no backup-and-restore function.

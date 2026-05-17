@@ -174,7 +174,7 @@ Use the diagram on the blower door to decode the exact meaning for your model. T
 |---|---|---|
 | Hot Surface Igniter | Furnace won't light, igniter open or cracked | [View on Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) |
 | Flame Sensor Rod | Burners light then shut off in seconds | [View on Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) |
-| Furnace Filter (1-inch pleated) | High-limit trips from restricted airflow | [View on Amazon](https://www.amazon.com/s?k=1+inch+pleated+furnace+filter&tag=errorcodefixes-20) |
+| Furnace Filter (1-inch pleated) | High-limit trips from restricted airflow | [View on Amazon](https://www.amazon.com/s?i=industrial&k=1+inch+pleated+furnace+filter&tag=errorcodefixes-20) |
 | Pressure Switch Hose | Cracked or leaking pressure switch tubing | [View on Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) |
 | Furnace Pressure Switch | Inducer runs but switch never closes | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) |
 | Multimeter | Testing igniter, fuse, and control voltage | [View on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) |

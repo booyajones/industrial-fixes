@@ -47,8 +47,8 @@ Power cycle the oven. If Er persists, the control board has an internal fault. C
 | Part | Notes |
 |------|-------|
 | Cavity temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Garland OEM part — thermocouple or RTD depending on model |
-| Igniter / electrode | [Amazon](https://www.amazon.com/s?k=Igniter+%2F+electrode&tag=errorcodefixes-20) \| For E3 |
-| Blower motor | [Amazon](https://www.amazon.com/s?k=Blower+motor&tag=errorcodefixes-20) \| For E4 |
+| Igniter / electrode | [Amazon](https://www.amazon.com/s?i=industrial&k=Igniter+%2F+electrode&tag=errorcodefixes-20) \| For E3 |
+| Blower motor | [Amazon](https://www.amazon.com/s?i=industrial&k=Blower+motor&tag=errorcodefixes-20) \| For E4 |
 ## When to Call a Pro
 
 Gas valve, high-limit, and control board work requires a certified commercial kitchen equipment technician.

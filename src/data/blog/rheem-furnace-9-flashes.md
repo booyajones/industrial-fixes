@@ -38,8 +38,8 @@ Nine LED flashes on a Rheem furnace indicates reversed polarity on the 120V powe
 
 | Part | Notes |
 |------|-------|
-| Outlet polarity tester | [Amazon](https://www.amazon.com/s?k=Outlet+polarity+tester&tag=errorcodefixes-20) \| 3-light tester costs under $10 and identifies reversed polarity instantly |
-| Wire nuts and connectors | [Amazon](https://www.amazon.com/s?k=Wire+nuts+and+connectors&tag=errorcodefixes-20) \| For re-terminating corrected wiring |
+| Outlet polarity tester | [Amazon](https://www.amazon.com/s?i=industrial&k=Outlet+polarity+tester&tag=errorcodefixes-20) \| 3-light tester costs under $10 and identifies reversed polarity instantly |
+| Wire nuts and connectors | [Amazon](https://www.amazon.com/s?i=industrial&k=Wire+nuts+and+connectors&tag=errorcodefixes-20) \| For re-terminating corrected wiring |
 | Furnace control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Only if board was damaged by extended operation with reversed polarity |
 ## When to Call a Pro
 

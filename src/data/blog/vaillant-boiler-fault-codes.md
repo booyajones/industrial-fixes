@@ -337,6 +337,6 @@ Do not keep resetting a boiler that repeatedly locks out on the same code. Each 
 
 Find replacement parts for Vaillant boilers on Amazon:
 
-- [Vaillant Boiler Parts & Spares](https://www.amazon.com/s?k=Vaillant+boiler+parts&tag=errorcodefixes-20)
-- [Vaillant Ignition Electrode Replacement](https://www.amazon.com/s?k=Vaillant+boiler+ignition+electrode+replacement&tag=errorcodefixes-20)
-- [Vaillant NTC Thermistor & Sensor Replacement](https://www.amazon.com/s?k=Vaillant+boiler+NTC+thermistor+sensor&tag=errorcodefixes-20)
+- [Vaillant Boiler Parts & Spares](https://www.amazon.com/s?i=industrial&k=Vaillant+boiler+parts&tag=errorcodefixes-20)
+- [Vaillant Ignition Electrode Replacement](https://www.amazon.com/s?i=industrial&k=Vaillant+boiler+ignition+electrode+replacement&tag=errorcodefixes-20)
+- [Vaillant NTC Thermistor & Sensor Replacement](https://www.amazon.com/s?i=industrial&k=Vaillant+boiler+NTC+thermistor+sensor&tag=errorcodefixes-20)

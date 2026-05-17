@@ -127,10 +127,10 @@ If fault 2310 occurs immediately at power-on before any output, or occurs random
 
 | Part | Use | Amazon Link |
 |------|-----|-------------|
-| Megohmmeter / Insulation Resistance Tester | Test motor winding and cable insulation | [View on Amazon](https://www.amazon.com/s?k=megohmmeter+insulation+resistance+tester+500V&tag=errorcodefixes-20) |
+| Megohmmeter / Insulation Resistance Tester | Test motor winding and cable insulation | [View on Amazon](https://www.amazon.com/s?i=industrial&k=megohmmeter+insulation+resistance+tester+500V&tag=errorcodefixes-20) |
 | True RMS Clamp Meter | Measure output current during drive operation | [View on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) |
-| ABB du/dt Output Reactor | Protect against long cable capacitive current spikes | [View on Amazon](https://www.amazon.com/s?k=ABB+VFD+output+reactor+du+dt&tag=errorcodefixes-20) |
-| Motor Shaft Coupling (flexible) | Replace coupling if mechanical transmission is causing jam | [View on Amazon](https://www.amazon.com/s?k=flexible+motor+shaft+coupling&tag=errorcodefixes-20) |
+| ABB du/dt Output Reactor | Protect against long cable capacitive current spikes | [View on Amazon](https://www.amazon.com/s?i=industrial&k=ABB+VFD+output+reactor+du+dt&tag=errorcodefixes-20) |
+| Motor Shaft Coupling (flexible) | Replace coupling if mechanical transmission is causing jam | [View on Amazon](https://www.amazon.com/s?i=industrial&k=flexible+motor+shaft+coupling&tag=errorcodefixes-20) |
 
 ## When to Call a Pro
 

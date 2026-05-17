@@ -54,11 +54,11 @@ U0 is distinct from the U1–U7 series of communication and voltage fault codes 
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|-------------|
-| UV Refrigerant Leak Dye Kit | $20–$45 | [Amazon](https://www.amazon.com/s?k=UV+refrigerant+leak+dye+kit+mini+split&tag=errorcodefixes-20) |
-| Electronic Refrigerant Leak Detector | $40–$200 | [Amazon](https://www.amazon.com/s?k=electronic+refrigerant+leak+detector+R410A+R32&tag=errorcodefixes-20) |
-| Refrigerant Leak Detection Bubble Solution | $8–$15 | [Amazon](https://www.amazon.com/s?k=HVAC+refrigerant+leak+detector+bubble+solution&tag=errorcodefixes-20) |
-| HVAC Manifold Gauge Set | $40–$120 | [Amazon](https://www.amazon.com/s?k=HVAC+manifold+gauge+set+R410A&tag=errorcodefixes-20) |
-| Flare Tool Kit (for DIY line set repair) | $40–$100 | [Amazon](https://www.amazon.com/s?k=HVAC+flare+tool+kit+refrigerant+line&tag=errorcodefixes-20) |
+| UV Refrigerant Leak Dye Kit | $20–$45 | [Amazon](https://www.amazon.com/s?i=industrial&k=UV+refrigerant+leak+dye+kit+mini+split&tag=errorcodefixes-20) |
+| Electronic Refrigerant Leak Detector | $40–$200 | [Amazon](https://www.amazon.com/s?i=industrial&k=electronic+refrigerant+leak+detector+R410A+R32&tag=errorcodefixes-20) |
+| Refrigerant Leak Detection Bubble Solution | $8–$15 | [Amazon](https://www.amazon.com/s?i=industrial&k=HVAC+refrigerant+leak+detector+bubble+solution&tag=errorcodefixes-20) |
+| HVAC Manifold Gauge Set | $40–$120 | [Amazon](https://www.amazon.com/s?i=industrial&k=HVAC+manifold+gauge+set+R410A&tag=errorcodefixes-20) |
+| Flare Tool Kit (for DIY line set repair) | $40–$100 | [Amazon](https://www.amazon.com/s?i=industrial&k=HVAC+flare+tool+kit+refrigerant+line&tag=errorcodefixes-20) |
 
 ## When to Call a Technician
 

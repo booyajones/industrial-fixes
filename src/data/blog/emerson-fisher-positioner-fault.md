@@ -53,10 +53,10 @@ Fisher FIELDVUE instruments support several diagnostic routines through AMS or V
 
 | Part | Notes |
 |------|-------|
-| I/P module | [Amazon](https://www.amazon.com/s?k=I%2FP+module&tag=errorcodefixes-20) \| Replace if drive current alarms persist |
-| Position sensor | [Amazon](https://www.amazon.com/s?k=Position+sensor&tag=errorcodefixes-20) \| Replace on sensor failure alerts |
-| Supply pressure regulator | [Amazon](https://www.amazon.com/s?k=Supply+pressure+regulator&tag=errorcodefixes-20) \| Replace if supply pressure alarms occur |
-| Packing set | [Amazon](https://www.amazon.com/s?k=Packing+set&tag=errorcodefixes-20) \| Replace on high friction diagnostics |
+| I/P module | [Amazon](https://www.amazon.com/s?i=industrial&k=I%2FP+module&tag=errorcodefixes-20) \| Replace if drive current alarms persist |
+| Position sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Position+sensor&tag=errorcodefixes-20) \| Replace on sensor failure alerts |
+| Supply pressure regulator | [Amazon](https://www.amazon.com/s?i=industrial&k=Supply+pressure+regulator&tag=errorcodefixes-20) \| Replace if supply pressure alarms occur |
+| Packing set | [Amazon](https://www.amazon.com/s?i=industrial&k=Packing+set&tag=errorcodefixes-20) \| Replace on high friction diagnostics |
 ## Jump to Fix
 
 - **Drive signal alarm** → Check supply pressure → Inspect I/P module → Re-calibrate

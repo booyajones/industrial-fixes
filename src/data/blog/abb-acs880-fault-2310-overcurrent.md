@@ -36,9 +36,9 @@ The ABB ACS880 **Fault 2310** is an **Overcurrent** fault — the drive's output
 
 | Part | Notes |
 |------|-------|
-| Motor (replacement) | [Amazon](https://www.amazon.com/s?k=Motor+%28replacement%29&tag=errorcodefixes-20) \| Replace when megohm test shows degraded insulation |
-| Output motor cable | [Amazon](https://www.amazon.com/s?k=Output+motor+cable&tag=errorcodefixes-20) \| Replace if cable insulation has failed; use VFD-rated cable |
-| ACS880 IGBT module | [Amazon](https://www.amazon.com/s?k=ACS880+IGBT+module&tag=errorcodefixes-20) \| Replace only after confirming the fault was caused by an external short that damaged internal semiconductors |
+| Motor (replacement) | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+%28replacement%29&tag=errorcodefixes-20) \| Replace when megohm test shows degraded insulation |
+| Output motor cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Output+motor+cable&tag=errorcodefixes-20) \| Replace if cable insulation has failed; use VFD-rated cable |
+| ACS880 IGBT module | [Amazon](https://www.amazon.com/s?i=industrial&k=ACS880+IGBT+module&tag=errorcodefixes-20) \| Replace only after confirming the fault was caused by an external short that damaged internal semiconductors |
 ## When to Call a Pro
 
 If 2310 trips with no load connected and the motor tests clean, the ACS880's current sensing circuit or IGBT module may have been damaged by a prior short circuit event. ABB-certified drive technicians should perform IGBT gate signal testing and bus capacitor verification.

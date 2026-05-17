@@ -474,6 +474,6 @@ If the pump has electronics, trust the code. If the pump has no electronics, tru
 
 Find replacement parts for Graco pumps on Amazon:
 
-- [Graco Pump Replacement Parts](https://www.amazon.com/s?k=Graco+pump+replacement+parts&tag=errorcodefixes-20)
-- [Graco Husky Diaphragm Pump Repair Kit](https://www.amazon.com/s?k=Graco+Husky+diaphragm+pump+repair+kit&tag=errorcodefixes-20)
-- [Graco Check Valve & Ball Replacement](https://www.amazon.com/s?k=Graco+check+valve+ball+seat+replacement&tag=errorcodefixes-20)
+- [Graco Pump Replacement Parts](https://www.amazon.com/s?i=industrial&k=Graco+pump+replacement+parts&tag=errorcodefixes-20)
+- [Graco Husky Diaphragm Pump Repair Kit](https://www.amazon.com/s?i=industrial&k=Graco+Husky+diaphragm+pump+repair+kit&tag=errorcodefixes-20)
+- [Graco Check Valve & Ball Replacement](https://www.amazon.com/s?i=industrial&k=Graco+check+valve+ball+seat+replacement&tag=errorcodefixes-20)

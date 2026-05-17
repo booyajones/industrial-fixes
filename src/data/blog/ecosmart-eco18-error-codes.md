@@ -139,11 +139,11 @@ The ECO 27 and ECO 36 use the same error code system as the ECO 18. The differen
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
-| [EcoSmart Flow Sensor Replacement](https://www.amazon.com/s?k=EcoSmart+electric+tankless+flow+sensor+replacement&tag=errorcodefixes-20) | E1 fix — replaces fouled or failed flow sensor turbine | $20–$45 |
-| [Electric Water Heater Thermistor Sensor](https://www.amazon.com/s?k=electric+tankless+water+heater+thermistor+sensor&tag=errorcodefixes-20) | E2/E3 fix — inlet or outlet temperature sensor replacement | $10–$30 |
-| [240V Electric Water Heater Heating Element](https://www.amazon.com/s?k=240V+tankless+water+heater+heating+element&tag=errorcodefixes-20) | E5 fix — replaces burned-out immersion heating element | $20–$60 |
-| [Tankless Water Heater Flush Kit](https://www.amazon.com/s?k=tankless+water+heater+descaling+flush+kit&tag=errorcodefixes-20) | Annual maintenance — clears mineral scale from elements and chamber | $20–$50 |
-| [40 Amp Double Pole Circuit Breaker](https://www.amazon.com/s?k=40+amp+double+pole+circuit+breaker+240V&tag=errorcodefixes-20) | Replacement for undersized or failed breakers causing E5 | $15–$40 |
+| [EcoSmart Flow Sensor Replacement](https://www.amazon.com/s?i=industrial&k=EcoSmart+electric+tankless+flow+sensor+replacement&tag=errorcodefixes-20) | E1 fix — replaces fouled or failed flow sensor turbine | $20–$45 |
+| [Electric Water Heater Thermistor Sensor](https://www.amazon.com/s?i=industrial&k=electric+tankless+water+heater+thermistor+sensor&tag=errorcodefixes-20) | E2/E3 fix — inlet or outlet temperature sensor replacement | $10–$30 |
+| [240V Electric Water Heater Heating Element](https://www.amazon.com/s?i=industrial&k=240V+tankless+water+heater+heating+element&tag=errorcodefixes-20) | E5 fix — replaces burned-out immersion heating element | $20–$60 |
+| [Tankless Water Heater Flush Kit](https://www.amazon.com/s?i=industrial&k=tankless+water+heater+descaling+flush+kit&tag=errorcodefixes-20) | Annual maintenance — clears mineral scale from elements and chamber | $20–$50 |
+| [40 Amp Double Pole Circuit Breaker](https://www.amazon.com/s?i=industrial&k=40+amp+double+pole+circuit+breaker+240V&tag=errorcodefixes-20) | Replacement for undersized or failed breakers causing E5 | $15–$40 |
 
 ---
 

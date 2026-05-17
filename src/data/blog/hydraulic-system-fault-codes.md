@@ -20,14 +20,14 @@ Hydraulic alarms usually come from pressure, temperature, flow, contamination, o
 
 ## Common Hydraulic Fault Categories
 
-| [Fault Type](https://www.amazon.com/s?k=Fault+Type&tag=errorcodefixes-20) | Typical Meaning |
+| [Fault Type](https://www.amazon.com/s?i=industrial&k=Fault+Type&tag=errorcodefixes-20) | Typical Meaning |
 |---|---|
-| [Low pressure](https://www.amazon.com/s?k=Low+pressure&tag=errorcodefixes-20) | Pump issue, relief valve open, severe leak |
-| [High pressure](https://www.amazon.com/s?k=High+pressure&tag=errorcodefixes-20) | Blocked line, stuck valve, jammed actuator |
-| [High oil temperature](https://www.amazon.com/s?k=High+oil+temperature&tag=errorcodefixes-20) | Cooler failure, low oil, internal leakage |
-| [Filter clog](https://www.amazon.com/s?k=Filter+clog&tag=errorcodefixes-20) | Return or pressure filter differential high |
-| [Position error](https://www.amazon.com/s?k=Position+error&tag=errorcodefixes-20) | LVDT / encoder issue or sticking cylinder |
-| [Pump motor overload](https://www.amazon.com/s?k=Pump+motor+overload&tag=errorcodefixes-20) | Mechanical drag, fluid contamination, coupling issue |
+| [Low pressure](https://www.amazon.com/s?i=industrial&k=Low+pressure&tag=errorcodefixes-20) | Pump issue, relief valve open, severe leak |
+| [High pressure](https://www.amazon.com/s?i=industrial&k=High+pressure&tag=errorcodefixes-20) | Blocked line, stuck valve, jammed actuator |
+| [High oil temperature](https://www.amazon.com/s?i=industrial&k=High+oil+temperature&tag=errorcodefixes-20) | Cooler failure, low oil, internal leakage |
+| [Filter clog](https://www.amazon.com/s?i=industrial&k=Filter+clog&tag=errorcodefixes-20) | Return or pressure filter differential high |
+| [Position error](https://www.amazon.com/s?i=industrial&k=Position+error&tag=errorcodefixes-20) | LVDT / encoder issue or sticking cylinder |
+| [Pump motor overload](https://www.amazon.com/s?i=industrial&k=Pump+motor+overload&tag=errorcodefixes-20) | Mechanical drag, fluid contamination, coupling issue |
 
 ## Common Causes Across Systems
 
@@ -48,11 +48,11 @@ Hydraulic alarms usually come from pressure, temperature, flow, contamination, o
 
 | Component | Why It Fails |
 |---|---|
-| [Pressure transducer](https://www.amazon.com/s?k=Pressure+transducer&tag=errorcodefixes-20) | Drift or open-circuit signal |
-| [Solenoid valve coil](https://www.amazon.com/s?k=Solenoid+valve+coil&tag=errorcodefixes-20) | Burned coil or broken connector |
-| [Servo valve](https://www.amazon.com/s?k=Servo+valve&tag=errorcodefixes-20) | Contamination sensitive |
-| [Cooler fan / water valve](https://www.amazon.com/s?k=Cooler+fan+%2F+water+valve&tag=errorcodefixes-20) | Causes high oil temp |
-| [Pump coupling](https://www.amazon.com/s?k=Pump+coupling&tag=errorcodefixes-20) | Slips, breaks, or misaligns |
+| [Pressure transducer](https://www.amazon.com/s?i=industrial&k=Pressure+transducer&tag=errorcodefixes-20) | Drift or open-circuit signal |
+| [Solenoid valve coil](https://www.amazon.com/s?i=industrial&k=Solenoid+valve+coil&tag=errorcodefixes-20) | Burned coil or broken connector |
+| [Servo valve](https://www.amazon.com/s?i=industrial&k=Servo+valve&tag=errorcodefixes-20) | Contamination sensitive |
+| [Cooler fan / water valve](https://www.amazon.com/s?i=industrial&k=Cooler+fan+%2F+water+valve&tag=errorcodefixes-20) | Causes high oil temp |
+| [Pump coupling](https://www.amazon.com/s?i=industrial&k=Pump+coupling&tag=errorcodefixes-20) | Slips, breaks, or misaligns |
 
 ## When to Call a Pro
 

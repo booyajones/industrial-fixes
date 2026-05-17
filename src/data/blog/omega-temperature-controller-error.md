@@ -43,8 +43,8 @@ Omega controllers use A1 and A2 to indicate that the measured value crossed the 
 | Part | Notes |
 |------|-------|
 | Thermocouple probe | [Amazon](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) \| Most common field replacement |
-| RTD probe | [Amazon](https://www.amazon.com/s?k=RTD+probe&tag=errorcodefixes-20) \| Check 2-wire vs 3-wire style |
-| Solid-state relay | [Amazon](https://www.amazon.com/s?k=Solid-state+relay&tag=errorcodefixes-20) \| If control output is present but heater does not energize |
-| Controller | [Amazon](https://www.amazon.com/s?k=Controller&tag=errorcodefixes-20) \| Replace only after sensor and output checks |
+| RTD probe | [Amazon](https://www.amazon.com/s?i=industrial&k=RTD+probe&tag=errorcodefixes-20) \| Check 2-wire vs 3-wire style |
+| Solid-state relay | [Amazon](https://www.amazon.com/s?i=industrial&k=Solid-state+relay&tag=errorcodefixes-20) \| If control output is present but heater does not energize |
+| Controller | [Amazon](https://www.amazon.com/s?i=industrial&k=Controller&tag=errorcodefixes-20) \| Replace only after sensor and output checks |
 ## When to Call a Pro
 If the controller shows A/D or EEPROM faults repeatedly after power cycling, the internal electronics are failing. For critical ovens or process heaters, replace the controller and verify tuning before returning to production.

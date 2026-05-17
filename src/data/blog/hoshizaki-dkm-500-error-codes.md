@@ -57,8 +57,8 @@ The Hoshizaki DKM-500 is a self-contained cube ice dispenser producing approxima
 |---|---|
 | Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| Solenoid coil or complete valve assembly |
 | Float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?tag=errorcodefixes-20) \| Specific to DKM dispenser design |
-| Dispenser motor | [Amazon](https://www.amazon.com/s?k=Dispenser+motor&tag=errorcodefixes-20) \| Check for ice jam before ordering |
-| Evaporator thermistor | [Amazon](https://www.amazon.com/s?k=Evaporator+thermistor&tag=errorcodefixes-20) \| For E4; check resistance at room temperature |
+| Dispenser motor | [Amazon](https://www.amazon.com/s?i=industrial&k=Dispenser+motor&tag=errorcodefixes-20) \| Check for ice jam before ordering |
+| Evaporator thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Evaporator+thermistor&tag=errorcodefixes-20) \| For E4; check resistance at room temperature |
 | High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Manual-reset; check cutout pressure rating |
 | Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match existing HP and blade size |
 ## When to Call a Pro

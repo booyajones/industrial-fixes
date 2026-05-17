@@ -38,7 +38,7 @@ Fanuc Alarm 3 is an **Overtravel (Minus direction) hardware limit** — an axis 
 | Part | Notes |
 |------|-------|
 | Overtravel limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Replace if physically damaged or triggering prematurely |
-| Absolute encoder battery | [Amazon](https://www.amazon.com/s?k=Absolute+encoder+battery&tag=errorcodefixes-20) \| Replace if battery failure caused position loss that led to the homing overrun |
+| Absolute encoder battery | [Amazon](https://www.amazon.com/s?i=industrial&k=Absolute+encoder+battery&tag=errorcodefixes-20) \| Replace if battery failure caused position loss that led to the homing overrun |
 ## When to Call a Pro
 
 Repeated Alarm 3 during homing may indicate the reference point parameters (Parameter 1240/1241 for grid shift) are incorrectly set, or the encoder battery has failed and the home position is lost. A Fanuc-certified technician should set up the homing parameters to prevent future overruns.

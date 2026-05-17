@@ -25,7 +25,7 @@ Trane commercial RTUs — including the Precedent, YCD, YCC, and CGAM series —
 
 ## Trane RTU Flash Code Table
 
-| [Flash Count](https://www.amazon.com/s?k=Flash+Count&tag=errorcodefixes-20) | Fault | Common Cause |
+| [Flash Count](https://www.amazon.com/s?i=industrial&k=Flash+Count&tag=errorcodefixes-20) | Fault | Common Cause |
 |---|---|---|
 | 1 | Normal — no fault | System operating correctly |
 | 2 | Inducer/pressure switch fault | Blocked flue, failed inducer motor |
@@ -39,7 +39,7 @@ Trane commercial RTUs — including the Precedent, YCD, YCC, and CGAM series —
 
 ## Trane ComfortLink / Tracer Alphanumeric Codes
 
-| [Fault Code](https://www.amazon.com/s?k=Fault+Code&tag=errorcodefixes-20) | Description | Action |
+| [Fault Code](https://www.amazon.com/s?i=industrial&k=Fault+Code&tag=errorcodefixes-20) | Description | Action |
 |---|---|---|
 | 77 | High-pressure cutout | Check condenser coil, fan motors, charge |
 | 79 | Low-pressure cutout | Check refrigerant charge, filter, evap coil |

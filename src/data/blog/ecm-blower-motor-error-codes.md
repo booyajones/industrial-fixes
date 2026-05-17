@@ -16,18 +16,18 @@ tags:
 
 ECM (Electronically Commutated Motor) blower motors are used in most modern variable-speed furnaces and air handlers. Manufacturers include Genteq (formerly GE Motors), Regal Beloit, and Nidec. ECM motors communicate fault information via LED flash codes on the motor's control module. To read the codes: locate the motor module (mounted on the motor body), count the LED blinks in a repeating pattern.
 
-| [Flash Code](https://www.amazon.com/s?k=Flash+Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| [Flash Code](https://www.amazon.com/s?i=industrial&k=Flash+Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |------------|---------|-----------|
-| [1 flash](https://www.amazon.com/s?k=1+flash&tag=errorcodefixes-20) | Normal operation / standby | No fault — motor waiting for call |
-| [2 flashes](https://www.amazon.com/s?k=2+flashes&tag=errorcodefixes-20) | Low airflow / high static pressure | Check filter; open registers; clean coils |
-| [3 flashes](https://www.amazon.com/s?k=3+flashes&tag=errorcodefixes-20) | Control input out of range | Verify control board output signal (0–10V or PWM) |
-| [4 flashes](https://www.amazon.com/s?k=4+flashes&tag=errorcodefixes-20) | Internal module fault | Replace ECM module |
-| [5 flashes](https://www.amazon.com/s?k=5+flashes&tag=errorcodefixes-20) | Over-temperature — motor or module | Check for blocked airflow; allow cool-down |
-| [6 flashes](https://www.amazon.com/s?k=6+flashes&tag=errorcodefixes-20) | DC bus voltage fault | Check input voltage; verify 120/240VAC supply |
-| [7 flashes](https://www.amazon.com/s?k=7+flashes&tag=errorcodefixes-20) | Internal module memory fault | Replace ECM module |
-| [Rapid flash](https://www.amazon.com/s?k=Rapid+flash&tag=errorcodefixes-20) | Active fault — see blink count | Count individual blinks carefully |
-| [No flash](https://www.amazon.com/s?k=No+flash&tag=errorcodefixes-20) | No power to module | Check power supply; check fuse/breaker |
-| [Continuous on](https://www.amazon.com/s?k=Continuous+on&tag=errorcodefixes-20) | Module locked in fault | Cycle power to reset |
+| [1 flash](https://www.amazon.com/s?i=industrial&k=1+flash&tag=errorcodefixes-20) | Normal operation / standby | No fault — motor waiting for call |
+| [2 flashes](https://www.amazon.com/s?i=industrial&k=2+flashes&tag=errorcodefixes-20) | Low airflow / high static pressure | Check filter; open registers; clean coils |
+| [3 flashes](https://www.amazon.com/s?i=industrial&k=3+flashes&tag=errorcodefixes-20) | Control input out of range | Verify control board output signal (0–10V or PWM) |
+| [4 flashes](https://www.amazon.com/s?i=industrial&k=4+flashes&tag=errorcodefixes-20) | Internal module fault | Replace ECM module |
+| [5 flashes](https://www.amazon.com/s?i=industrial&k=5+flashes&tag=errorcodefixes-20) | Over-temperature — motor or module | Check for blocked airflow; allow cool-down |
+| [6 flashes](https://www.amazon.com/s?i=industrial&k=6+flashes&tag=errorcodefixes-20) | DC bus voltage fault | Check input voltage; verify 120/240VAC supply |
+| [7 flashes](https://www.amazon.com/s?i=industrial&k=7+flashes&tag=errorcodefixes-20) | Internal module memory fault | Replace ECM module |
+| [Rapid flash](https://www.amazon.com/s?i=industrial&k=Rapid+flash&tag=errorcodefixes-20) | Active fault — see blink count | Count individual blinks carefully |
+| [No flash](https://www.amazon.com/s?i=industrial&k=No+flash&tag=errorcodefixes-20) | No power to module | Check power supply; check fuse/breaker |
+| [Continuous on](https://www.amazon.com/s?i=industrial&k=Continuous+on&tag=errorcodefixes-20) | Module locked in fault | Cycle power to reset |
 
 ## Most Common Faults
 
@@ -55,11 +55,11 @@ The motor's internal power supply is operating outside its DC voltage range. Che
 
 ## Genteq ECM Module vs. Motor Identification
 
-| [Motor Family](https://www.amazon.com/s?k=Motor+Family&tag=errorcodefixes-20) | Module Style | Common HP |
+| [Motor Family](https://www.amazon.com/s?i=industrial&k=Motor+Family&tag=errorcodefixes-20) | Module Style | Common HP |
 |-------------|-------------|-----------|
-| [ECM 2.3](https://www.amazon.com/s?k=ECM+2.3&tag=errorcodefixes-20) | Separate slide-on module | 1/2–1 HP |
-| [ECM X13](https://www.amazon.com/s?k=ECM+X13&tag=errorcodefixes-20) | Integrated module | 1/3–3/4 HP |
-| [ECM 3.0](https://www.amazon.com/s?k=ECM+3.0&tag=errorcodefixes-20) | Separate bolt-on module | 1/2–1-1/2 HP |
+| [ECM 2.3](https://www.amazon.com/s?i=industrial&k=ECM+2.3&tag=errorcodefixes-20) | Separate slide-on module | 1/2–1 HP |
+| [ECM X13](https://www.amazon.com/s?i=industrial&k=ECM+X13&tag=errorcodefixes-20) | Integrated module | 1/3–3/4 HP |
+| [ECM 3.0](https://www.amazon.com/s?i=industrial&k=ECM+3.0&tag=errorcodefixes-20) | Separate bolt-on module | 1/2–1-1/2 HP |
 
 ## When to Call a Pro
 A 4-flash or 7-flash internal module fault requires motor module replacement — a task most experienced HVAC technicians can handle. If the motor body itself has failed (burned windings, failed bearings), a full motor replacement is needed.

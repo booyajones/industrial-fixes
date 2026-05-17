@@ -53,12 +53,12 @@ The Haas VF-2 is one of the most common vertical machining centers in North Amer
 
 | Part | Notes |
 |------|-------|
-| Air regulator / dryer service | [Amazon](https://www.amazon.com/s?k=Air+regulator+%2F+dryer+service&tag=errorcodefixes-20) \| For recurring tool changer faults |
-| Proximity sensors | [Amazon](https://www.amazon.com/s?k=Proximity+sensors&tag=errorcodefixes-20) \| Carousel and home sensors fail often enough to check early |
-| Servo amplifier | [Amazon](https://www.amazon.com/s?k=Servo+amplifier&tag=errorcodefixes-20) \| For repeat axis drive alarms |
-| Encoder cable | [Amazon](https://www.amazon.com/s?k=Encoder+cable&tag=errorcodefixes-20) \| Intermittent motion faults |
-| Way lube components | [Amazon](https://www.amazon.com/s?k=Way+lube+components&tag=errorcodefixes-20) \| Binding and lube starvation drive servo alarms |
-| Spindle drive belt or tooling | [Amazon](https://www.amazon.com/s?k=Spindle+drive+belt+or+tooling&tag=errorcodefixes-20) \| For overload and spindle complaints |
+| Air regulator / dryer service | [Amazon](https://www.amazon.com/s?i=industrial&k=Air+regulator+%2F+dryer+service&tag=errorcodefixes-20) \| For recurring tool changer faults |
+| Proximity sensors | [Amazon](https://www.amazon.com/s?i=industrial&k=Proximity+sensors&tag=errorcodefixes-20) \| Carousel and home sensors fail often enough to check early |
+| Servo amplifier | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+amplifier&tag=errorcodefixes-20) \| For repeat axis drive alarms |
+| Encoder cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+cable&tag=errorcodefixes-20) \| Intermittent motion faults |
+| Way lube components | [Amazon](https://www.amazon.com/s?i=industrial&k=Way+lube+components&tag=errorcodefixes-20) \| Binding and lube starvation drive servo alarms |
+| Spindle drive belt or tooling | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+drive+belt+or+tooling&tag=errorcodefixes-20) \| For overload and spindle complaints |
 ## When to Call a Pro
 
 A VF-2 that has had a crash or repeated servo alarms deserves careful mechanical inspection before you keep resetting alarms. Shops lose more time by ignoring binding and then burning up an amplifier than by stopping early and checking the axis.

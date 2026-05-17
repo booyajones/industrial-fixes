@@ -57,12 +57,12 @@ The Allen-Bradley PowerFlex 40 is a compact VFD used on small conveyors, fans, p
 
 | Part | Notes |
 |------|-------|
-| Input fuses | [Amazon](https://www.amazon.com/s?k=Input+fuses&tag=errorcodefixes-20) \| Start here for voltage-related trips |
-| Motor overload relay data | [Amazon](https://www.amazon.com/s?k=Motor+overload+relay+data&tag=errorcodefixes-20) \| Parameter review is often more important than replacement |
-| Output cable | [Amazon](https://www.amazon.com/s?k=Output+cable&tag=errorcodefixes-20) \| Replace if insulation is compromised |
-| Cooling fan | [Amazon](https://www.amazon.com/s?k=Cooling+fan&tag=errorcodefixes-20) \| Older drives overheat when airflow drops |
-| Terminal block hardware | [Amazon](https://www.amazon.com/s?k=Terminal+block+hardware&tag=errorcodefixes-20) \| Loose power terminals create intermittent faults |
-| Drive | [Amazon](https://www.amazon.com/s?k=Drive&tag=errorcodefixes-20) \| For repeated hardware faults after motor and cable checks pass |
+| Input fuses | [Amazon](https://www.amazon.com/s?i=industrial&k=Input+fuses&tag=errorcodefixes-20) \| Start here for voltage-related trips |
+| Motor overload relay data | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+overload+relay+data&tag=errorcodefixes-20) \| Parameter review is often more important than replacement |
+| Output cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Output+cable&tag=errorcodefixes-20) \| Replace if insulation is compromised |
+| Cooling fan | [Amazon](https://www.amazon.com/s?i=industrial&k=Cooling+fan&tag=errorcodefixes-20) \| Older drives overheat when airflow drops |
+| Terminal block hardware | [Amazon](https://www.amazon.com/s?i=industrial&k=Terminal+block+hardware&tag=errorcodefixes-20) \| Loose power terminals create intermittent faults |
+| Drive | [Amazon](https://www.amazon.com/s?i=industrial&k=Drive&tag=errorcodefixes-20) \| For repeated hardware faults after motor and cable checks pass |
 ## When to Call a Pro
 
 Repeated hardware overcurrent or ground faults after the motor and cable test clean usually mean the PowerFlex 40 output section is damaged. For OEM machines, always save the parameter set before replacing the drive so the machine can be restored quickly.

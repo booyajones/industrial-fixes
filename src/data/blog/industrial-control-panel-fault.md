@@ -16,14 +16,14 @@ Industrial control panels house PLCs, VFDs, relays, motor starters, and power di
 
 ## Control Panel Fault Indicators
 
-| [Indicator](https://www.amazon.com/s?k=Indicator&tag=errorcodefixes-20) | Meaning |
+| [Indicator](https://www.amazon.com/s?i=industrial&k=Indicator&tag=errorcodefixes-20) | Meaning |
 |-----------|---------|
-| [Power ON lamp off](https://www.amazon.com/s?k=Power+ON+lamp+off&tag=errorcodefixes-20) | No input power to panel — check supply breaker |
-| [Run lamp off (should be on)](https://www.amazon.com/s?k=Run+lamp+off+%28should+be+on%29&tag=errorcodefixes-20) | Motor or drive not running — check fault log |
-| [Fault lamp on](https://www.amazon.com/s?k=Fault+lamp+on&tag=errorcodefixes-20) | Active fault — check fault display or PLC fault log |
-| [E-stop lamp on](https://www.amazon.com/s?k=E-stop+lamp+on&tag=errorcodefixes-20) | Emergency stop activated — find and release |
-| [Overload lamp on](https://www.amazon.com/s?k=Overload+lamp+on&tag=errorcodefixes-20) | Motor thermal overload tripped — check motor |
-| [Comm fault lamp on](https://www.amazon.com/s?k=Comm+fault+lamp+on&tag=errorcodefixes-20) | Communication error — check fieldbus cables |
+| [Power ON lamp off](https://www.amazon.com/s?i=industrial&k=Power+ON+lamp+off&tag=errorcodefixes-20) | No input power to panel — check supply breaker |
+| [Run lamp off (should be on)](https://www.amazon.com/s?i=industrial&k=Run+lamp+off+%28should+be+on%29&tag=errorcodefixes-20) | Motor or drive not running — check fault log |
+| [Fault lamp on](https://www.amazon.com/s?i=industrial&k=Fault+lamp+on&tag=errorcodefixes-20) | Active fault — check fault display or PLC fault log |
+| [E-stop lamp on](https://www.amazon.com/s?i=industrial&k=E-stop+lamp+on&tag=errorcodefixes-20) | Emergency stop activated — find and release |
+| [Overload lamp on](https://www.amazon.com/s?i=industrial&k=Overload+lamp+on&tag=errorcodefixes-20) | Motor thermal overload tripped — check motor |
+| [Comm fault lamp on](https://www.amazon.com/s?i=industrial&k=Comm+fault+lamp+on&tag=errorcodefixes-20) | Communication error — check fieldbus cables |
 
 ## Most Common Control Panel Faults
 

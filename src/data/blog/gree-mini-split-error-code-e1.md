@@ -38,10 +38,10 @@ E1 on a Gree mini split indicates high pressure protection. The system detected 
 
 | Part | Notes |
 |------|-------|
-| Condenser fan capacitor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+capacitor&tag=errorcodefixes-20) \| Replace if fan hums but does not start |
+| Condenser fan capacitor | [Amazon](https://www.amazon.com/s?i=industrial&k=Condenser+fan+capacitor&tag=errorcodefixes-20) \| Replace if fan hums but does not start |
 | Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Replace if motor has failed open or bearing is seized |
 | High pressure switch | [Amazon](https://www.amazon.com/dp/B013IHQ8CU?tag=errorcodefixes-20) \| Replace if switch opens below rated pressure cutout |
-| Refrigerant (R-410A) | [Amazon](https://www.amazon.com/s?k=Refrigerant+%28R-410A%29&tag=errorcodefixes-20) \| Adjust charge only with manifold gauges by a certified technician |
+| Refrigerant (R-410A) | [Amazon](https://www.amazon.com/s?i=industrial&k=Refrigerant+%28R-410A%29&tag=errorcodefixes-20) \| Adjust charge only with manifold gauges by a certified technician |
 ## When to Call a Pro
 
 Refrigerant diagnosis, system charging, and high-pressure switch replacement require EPA Section 608 certification and manifold gauge equipment. Call a licensed HVAC technician if coil cleaning and fan motor checks do not resolve the E1 fault.

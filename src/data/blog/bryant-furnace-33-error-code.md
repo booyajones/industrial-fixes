@@ -44,7 +44,7 @@ On Bryant furnaces, error code 33 indicates a limit device fault — the high-li
 | Blower motor run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Test before replacing motor — most blower motor failures are capacitor failures |
 | High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Match rated temperature from original switch body |
 | Rollout switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Replace after investigating the root cause of the rollout event |
-| Blower motor | [Amazon](https://www.amazon.com/s?k=Blower+motor&tag=errorcodefixes-20) \| Replace if motor is seized or draws excessive amps with good capacitor |
+| Blower motor | [Amazon](https://www.amazon.com/s?i=industrial&k=Blower+motor&tag=errorcodefixes-20) \| Replace if motor is seized or draws excessive amps with good capacitor |
 ## When to Call a Pro
 
 A tripped rollout switch is never a nuisance fault — it means flame exited the burner box, which only happens with a blocked flue or a cracked heat exchanger. Both are serious safety issues. Have a licensed HVAC technician perform a combustion analysis and heat exchanger inspection before restarting the furnace after a rollout event.

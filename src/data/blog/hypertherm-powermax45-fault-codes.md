@@ -43,10 +43,10 @@ Torch directly shorted to workpiece or consumables arc-through on thick material
 
 | Part | Notes |
 |------|-------|
-| Electrode | [Amazon](https://www.amazon.com/s?k=Electrode&tag=errorcodefixes-20) \| Replace when pit depth exceeds 1/16" |
-| Nozzle | [Amazon](https://www.amazon.com/s?k=Nozzle&tag=errorcodefixes-20) \| Replace when orifice is eroded |
-| Shield cup | [Amazon](https://www.amazon.com/s?k=Shield+cup&tag=errorcodefixes-20) \| Replace if cracked or threads are damaged |
-| Work clamp / lead | [Amazon](https://www.amazon.com/s?k=Work+clamp+%2F+lead&tag=errorcodefixes-20) \| Replace if damaged |
+| Electrode | [Amazon](https://www.amazon.com/s?i=industrial&k=Electrode&tag=errorcodefixes-20) \| Replace when pit depth exceeds 1/16" |
+| Nozzle | [Amazon](https://www.amazon.com/s?i=industrial&k=Nozzle&tag=errorcodefixes-20) \| Replace when orifice is eroded |
+| Shield cup | [Amazon](https://www.amazon.com/s?i=industrial&k=Shield+cup&tag=errorcodefixes-20) \| Replace if cracked or threads are damaged |
+| Work clamp / lead | [Amazon](https://www.amazon.com/s?i=industrial&k=Work+clamp+%2F+lead&tag=errorcodefixes-20) \| Replace if damaged |
 ## When to Call a Pro
 
 0-70 or 0-10 faults that persist with correct input voltage and new consumables indicate an internal power supply fault. Hypertherm authorized service handles internal component repair.

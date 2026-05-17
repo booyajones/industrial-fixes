@@ -39,7 +39,7 @@ Rheem furnace **error code 57** indicates a **low-stage pressure switch fault** 
 | Low-stage pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match to exact model; Rheem/Ruud switches are model-specific |
 | Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| Available at HVAC supply houses; measure ID/OD before ordering |
 | Inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Replace if motor is seized, humming, or capacitor has failed |
-| Condensate drain trap | [Amazon](https://www.amazon.com/s?k=Condensate+drain+trap&tag=errorcodefixes-20) \| Clean or replace if blocked, which causes pressure switch issues |
+| Condensate drain trap | [Amazon](https://www.amazon.com/s?i=industrial&k=Condensate+drain+trap&tag=errorcodefixes-20) \| Clean or replace if blocked, which causes pressure switch issues |
 ## When to Call a Pro
 
 If the inducer runs at full speed, the hose is clear, and a new pressure switch still gives code 57, the flue vent may be partially blocked or the heat exchanger may have a crack affecting combustion airflow. Both require a tech with combustion analyzer and inspection camera.

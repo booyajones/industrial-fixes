@@ -20,35 +20,35 @@ The ABB ACS880 is a high-performance industrial drive designed for demanding app
 
 ## ABB ACS880 Common Fault Codes
 
-| [Fault](https://www.amazon.com/s?k=Fault&tag=errorcodefixes-20) | Meaning |
+| [Fault](https://www.amazon.com/s?i=industrial&k=Fault&tag=errorcodefixes-20) | Meaning |
 |-------|---------|
-| [2310](https://www.amazon.com/s?k=2310&tag=errorcodefixes-20) | Overcurrent — motor current exceeded limit |
-| [2321](https://www.amazon.com/s?k=2321&tag=errorcodefixes-20) | Earth fault (ground fault) |
-| [2330](https://www.amazon.com/s?k=2330&tag=errorcodefixes-20) | Short circuit — output phase-to-phase short |
-| [3130](https://www.amazon.com/s?k=3130&tag=errorcodefixes-20) | Input phase loss — one input phase missing |
-| [3210](https://www.amazon.com/s?k=3210&tag=errorcodefixes-20) | DC overvoltage |
-| [3220](https://www.amazon.com/s?k=3220&tag=errorcodefixes-20) | DC undervoltage |
-| [4110](https://www.amazon.com/s?k=4110&tag=errorcodefixes-20) | Control board temperature too high |
-| [5010](https://www.amazon.com/s?k=5010&tag=errorcodefixes-20) | Fan fault — cooling fan failed |
-| [5090](https://www.amazon.com/s?k=5090&tag=errorcodefixes-20) | Motor connection or cable fault |
-| [6100](https://www.amazon.com/s?k=6100&tag=errorcodefixes-20) | FPGA fault — drive logic fault |
-| [6310](https://www.amazon.com/s?k=6310&tag=errorcodefixes-20) | Fieldbus communication fault |
-| [7010](https://www.amazon.com/s?k=7010&tag=errorcodefixes-20) | Motor stall |
-| [7011](https://www.amazon.com/s?k=7011&tag=errorcodefixes-20) | Motor overload (thermal model) |
-| [7012](https://www.amazon.com/s?k=7012&tag=errorcodefixes-20) | Motor underload |
-| [9300](https://www.amazon.com/s?k=9300&tag=errorcodefixes-20) | External fault (via digital input or fieldbus) |
-| [FA81](https://www.amazon.com/s?k=FA81&tag=errorcodefixes-20) | Safe Torque Off (STO) active |
+| [2310](https://www.amazon.com/s?i=industrial&k="2310"&tag=errorcodefixes-20) | Overcurrent — motor current exceeded limit |
+| [2321](https://www.amazon.com/s?i=industrial&k="2321"&tag=errorcodefixes-20) | Earth fault (ground fault) |
+| [2330](https://www.amazon.com/s?i=industrial&k="2330"&tag=errorcodefixes-20) | Short circuit — output phase-to-phase short |
+| [3130](https://www.amazon.com/s?i=industrial&k="3130"&tag=errorcodefixes-20) | Input phase loss — one input phase missing |
+| [3210](https://www.amazon.com/s?i=industrial&k="3210"&tag=errorcodefixes-20) | DC overvoltage |
+| [3220](https://www.amazon.com/s?i=industrial&k="3220"&tag=errorcodefixes-20) | DC undervoltage |
+| [4110](https://www.amazon.com/s?i=industrial&k="4110"&tag=errorcodefixes-20) | Control board temperature too high |
+| [5010](https://www.amazon.com/s?i=industrial&k="5010"&tag=errorcodefixes-20) | Fan fault — cooling fan failed |
+| [5090](https://www.amazon.com/s?i=industrial&k="5090"&tag=errorcodefixes-20) | Motor connection or cable fault |
+| [6100](https://www.amazon.com/s?i=industrial&k="6100"&tag=errorcodefixes-20) | FPGA fault — drive logic fault |
+| [6310](https://www.amazon.com/s?i=industrial&k="6310"&tag=errorcodefixes-20) | Fieldbus communication fault |
+| [7010](https://www.amazon.com/s?i=industrial&k="7010"&tag=errorcodefixes-20) | Motor stall |
+| [7011](https://www.amazon.com/s?i=industrial&k="7011"&tag=errorcodefixes-20) | Motor overload (thermal model) |
+| [7012](https://www.amazon.com/s?i=industrial&k="7012"&tag=errorcodefixes-20) | Motor underload |
+| [9300](https://www.amazon.com/s?i=industrial&k="9300"&tag=errorcodefixes-20) | External fault (via digital input or fieldbus) |
+| [FA81](https://www.amazon.com/s?i=industrial&k="FA81"&tag=errorcodefixes-20) | Safe Torque Off (STO) active |
 
 ## ABB ACS880 Alarm Codes (Warnings)
 
-| [Alarm](https://www.amazon.com/s?k=Alarm&tag=errorcodefixes-20) | Meaning |
+| [Alarm](https://www.amazon.com/s?i=industrial&k=Alarm&tag=errorcodefixes-20) | Meaning |
 |-------|---------|
-| [A2310](https://www.amazon.com/s?k=A2310&tag=errorcodefixes-20) | Overcurrent warning |
-| [A3130](https://www.amazon.com/s?k=A3130&tag=errorcodefixes-20) | Input phase loss warning |
-| [A3210](https://www.amazon.com/s?k=A3210&tag=errorcodefixes-20) | DC overvoltage warning |
-| [A4110](https://www.amazon.com/s?k=A4110&tag=errorcodefixes-20) | Drive temperature warning |
-| [A7011](https://www.amazon.com/s?k=A7011&tag=errorcodefixes-20) | Motor thermal overload warning |
-| [A9300](https://www.amazon.com/s?k=A9300&tag=errorcodefixes-20) | External fault warning |
+| [A2310](https://www.amazon.com/s?i=industrial&k="A2310"&tag=errorcodefixes-20) | Overcurrent warning |
+| [A3130](https://www.amazon.com/s?i=industrial&k="A3130"&tag=errorcodefixes-20) | Input phase loss warning |
+| [A3210](https://www.amazon.com/s?i=industrial&k="A3210"&tag=errorcodefixes-20) | DC overvoltage warning |
+| [A4110](https://www.amazon.com/s?i=industrial&k="A4110"&tag=errorcodefixes-20) | Drive temperature warning |
+| [A7011](https://www.amazon.com/s?i=industrial&k="A7011"&tag=errorcodefixes-20) | Motor thermal overload warning |
+| [A9300](https://www.amazon.com/s?i=industrial&k="A9300"&tag=errorcodefixes-20) | External fault warning |
 
 ## Common Causes by Fault Code
 
@@ -73,7 +73,7 @@ The ABB ACS880 is a high-performance industrial drive designed for demanding app
 
 ## Key Parameter Groups
 
-| [Group](https://www.amazon.com/s?k=Group&tag=errorcodefixes-20) | Description |
+| [Group](https://www.amazon.com/s?i=industrial&k=Group&tag=errorcodefixes-20) | Description |
 |-------|-------------|
 | 04 | Warnings and faults |
 | 05 | I/O and hardware diagnostics |

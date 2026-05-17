@@ -47,11 +47,11 @@ Verify incoming voltage balance on all three phases. Unbalanced voltage causes d
 
 | Part | Notes |
 |------|-------|
-| Air/oil separator element | [Amazon](https://www.amazon.com/s?k=Air%2Foil+separator+element&tag=errorcodefixes-20) \| Replace every 2,000–4,000 hours |
-| Oil filter | [Amazon](https://www.amazon.com/s?k=Oil+filter&tag=errorcodefixes-20) \| Replace with separator service |
+| Air/oil separator element | [Amazon](https://www.amazon.com/s?i=industrial&k=Air%2Foil+separator+element&tag=errorcodefixes-20) \| Replace every 2,000–4,000 hours |
+| Oil filter | [Amazon](https://www.amazon.com/s?i=industrial&k=Oil+filter&tag=errorcodefixes-20) \| Replace with separator service |
 | Discharge temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Common on high-hour units |
-| Inlet valve kit | [Amazon](https://www.amazon.com/s?k=Inlet+valve+kit&tag=errorcodefixes-20) \| Common cause of motor overloads |
-| Minimum pressure valve | [Amazon](https://www.amazon.com/s?k=Minimum+pressure+valve&tag=errorcodefixes-20) \| Fails open causing high sump pressure |
+| Inlet valve kit | [Amazon](https://www.amazon.com/s?i=industrial&k=Inlet+valve+kit&tag=errorcodefixes-20) \| Common cause of motor overloads |
+| Minimum pressure valve | [Amazon](https://www.amazon.com/s?i=industrial&k=Minimum+pressure+valve&tag=errorcodefixes-20) \| Fails open causing high sump pressure |
 ## When to Call a Pro
 Repeated discharge temperature trips after cleaning, or loss of oil pressure with correct oil level, indicate internal airend wear or oil pump failure. These require disassembly and should be handled by a Sullair-trained technician.
 

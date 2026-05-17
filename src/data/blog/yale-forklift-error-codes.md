@@ -47,11 +47,11 @@ Yale uses electromagnetic brakes on AC motor models. The brake monitoring circui
 
 | Part | Notes |
 |------|-------|
-| Motor thermal sensor | [Amazon](https://www.amazon.com/s?k=Motor+thermal+sensor&tag=errorcodefixes-20) \| Replace on 01/03 fault |
-| CAN bus harness | [Amazon](https://www.amazon.com/s?k=CAN+bus+harness&tag=errorcodefixes-20) \| Replace on 07 fault |
-| Brake coil | [Amazon](https://www.amazon.com/s?k=Brake+coil&tag=errorcodefixes-20) \| Replace on brake fault |
-| Battery watering system | [Amazon](https://www.amazon.com/s?k=Battery+watering+system&tag=errorcodefixes-20) \| Maintain on flooded battery |
-| Drive controller | [Amazon](https://www.amazon.com/s?k=Drive+controller&tag=errorcodefixes-20) \| Replace on 09 fault |
+| Motor thermal sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+thermal+sensor&tag=errorcodefixes-20) \| Replace on 01/03 fault |
+| CAN bus harness | [Amazon](https://www.amazon.com/s?i=industrial&k=CAN+bus+harness&tag=errorcodefixes-20) \| Replace on 07 fault |
+| Brake coil | [Amazon](https://www.amazon.com/s?i=industrial&k=Brake+coil&tag=errorcodefixes-20) \| Replace on brake fault |
+| Battery watering system | [Amazon](https://www.amazon.com/s?i=industrial&k=Battery+watering+system&tag=errorcodefixes-20) \| Maintain on flooded battery |
+| Drive controller | [Amazon](https://www.amazon.com/s?i=industrial&k=Drive+controller&tag=errorcodefixes-20) \| Replace on 09 fault |
 ## When to Call a Pro
 Yale mast and hydraulic repairs, lithium-ion battery systems, and controller calibration require Yale-Hyster authorized service. PC service tool access and fault code calibration procedures are not publicly documented.
 

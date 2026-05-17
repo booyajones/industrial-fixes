@@ -37,9 +37,9 @@ Alarm 700 on a Fanuc CNC (FS0i, FS16i, FS18i, FS21i, FS30i series) is a spindle 
 
 | Part | Notes |
 |------|-------|
-| Spindle motor cooling fan | [Amazon](https://www.amazon.com/s?k=Spindle+motor+cooling+fan&tag=errorcodefixes-20) \| Match motor frame size and voltage; Fanuc OEM or equivalent |
-| Motor thermistor | [Amazon](https://www.amazon.com/s?k=Motor+thermistor&tag=errorcodefixes-20) \| Fanuc OEM; 120Ω PTC type; match motor model |
-| Spindle bearings | [Amazon](https://www.amazon.com/s?k=Spindle+bearings&tag=errorcodefixes-20) \| Matched pair; angular contact; require precision installation |
+| Spindle motor cooling fan | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+motor+cooling+fan&tag=errorcodefixes-20) \| Match motor frame size and voltage; Fanuc OEM or equivalent |
+| Motor thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+thermistor&tag=errorcodefixes-20) \| Fanuc OEM; 120Ω PTC type; match motor model |
+| Spindle bearings | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+bearings&tag=errorcodefixes-20) \| Matched pair; angular contact; require precision installation |
 ## When to Call a Pro
 
 Spindle bearing replacement requires precision preload setting and alignment and should be performed by a qualified machine tool technician or Fanuc-authorized service engineer. Improper bearing installation causes rapid bearing failure and spindle damage.

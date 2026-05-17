@@ -67,9 +67,9 @@ The Aprilaire 68 can gravity drain or use a condensate pump. If water backs up a
 | Part | Notes |
 |------|-------|
 | Air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| Most common maintenance item |
-| Refrigerant charge | [Amazon](https://www.amazon.com/s?k=Refrigerant+charge&tag=errorcodefixes-20) \| After confirmed E1 with clean filter |
-| Start capacitor | [Amazon](https://www.amazon.com/s?k=Start+capacitor&tag=errorcodefixes-20) \| Common on E3 compressor faults |
-| Condensate pump | [Amazon](https://www.amazon.com/s?k=Condensate+pump&tag=errorcodefixes-20) \| Replace if pump fails to discharge |
+| Refrigerant charge | [Amazon](https://www.amazon.com/s?i=industrial&k=Refrigerant+charge&tag=errorcodefixes-20) \| After confirmed E1 with clean filter |
+| Start capacitor | [Amazon](https://www.amazon.com/s?i=industrial&k=Start+capacitor&tag=errorcodefixes-20) \| Common on E3 compressor faults |
+| Condensate pump | [Amazon](https://www.amazon.com/s?i=industrial&k=Condensate+pump&tag=errorcodefixes-20) \| Replace if pump fails to discharge |
 ## Jump to Fix
 
 - **E1 freeze** → Replace filter → Check ambient temp → Check refrigerant

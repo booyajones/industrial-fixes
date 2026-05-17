@@ -57,7 +57,7 @@ The defrost thermostat or temperature sensor clips to the outdoor coil tubing an
 
 **The fix:** The thermostat usually clips onto the copper line. Remove the old one, clean the tubing, apply thermal paste, and clip the new one in place. This is a straightforward DIY repair.
 
-[Replacement defrost thermostat on Amazon](https://www.amazon.com/s?k=heat+pump+defrost+thermostat&tag=errorcodefixes-20)
+[Replacement defrost thermostat on Amazon](https://www.amazon.com/s?i=industrial&k=heat+pump+defrost+thermostat&tag=errorcodefixes-20)
 
 ## 3. Low Refrigerant Charge
 
@@ -83,7 +83,7 @@ The outdoor coil needs good airflow to absorb heat from the outside air and to w
 
 **The fix:** Turn off power to the outdoor unit. Spray the coil from the inside out with a garden hose. Use a coil cleaning solution for heavy buildup. Do not use a pressure washer because it will bend the fins. Straighten any crushed fins with a fin comb.
 
-[Coil cleaner spray on Amazon](https://www.amazon.com/s?k=coil+cleaner+spray&tag=errorcodefixes-20)
+[Coil cleaner spray on Amazon](https://www.amazon.com/s?i=industrial&k=coil+cleaner+spray&tag=errorcodefixes-20)
 
 ## 5. Outdoor Fan Motor Failure
 
@@ -97,7 +97,7 @@ The outdoor fan moves air across the coil. If the fan is not running or is runni
 **The fix:** If the capacitor is bad, replace it (under $20). If the motor is seized or the windings are burned out, replace the motor.
 
 [Heat pump fan motor on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20)
-[Fan motor capacitor on Amazon](https://www.amazon.com/s?k=heat+pump+fan+capacitor&tag=errorcodefixes-20)
+[Fan motor capacitor on Amazon](https://www.amazon.com/s?i=industrial&k=heat+pump+fan+capacitor&tag=errorcodefixes-20)
 
 ## 6. Blocked Condensate Drain or Drain Pan
 
@@ -126,10 +126,10 @@ These settings should match the OEM specifications for your heat pump model.
 ## Parts You May Need
 
 - [Defrost control board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20)
-- [Defrost thermostat sensor](https://www.amazon.com/s?k=heat+pump+defrost+thermostat&tag=errorcodefixes-20)
+- [Defrost thermostat sensor](https://www.amazon.com/s?i=industrial&k=heat+pump+defrost+thermostat&tag=errorcodefixes-20)
 - [Outdoor fan motor](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20)
-- [Fan motor capacitor](https://www.amazon.com/s?k=heat+pump+fan+capacitor&tag=errorcodefixes-20)
-- [Coil cleaning spray](https://www.amazon.com/s?k=coil+cleaner+spray&tag=errorcodefixes-20)
+- [Fan motor capacitor](https://www.amazon.com/s?i=industrial&k=heat+pump+fan+capacitor&tag=errorcodefixes-20)
+- [Coil cleaning spray](https://www.amazon.com/s?i=industrial&k=coil+cleaner+spray&tag=errorcodefixes-20)
 - [Digital multimeter](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20)
 
 ---

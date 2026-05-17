@@ -38,8 +38,8 @@ E9 on a Hoshizaki ice machine indicates a fault with the evaporator temperature 
 
 | Part | Notes |
 |------|-------|
-| Evaporator thermistor (E9 sensor) | [Amazon](https://www.amazon.com/s?k=Evaporator+thermistor+%28E9+sensor%29&tag=errorcodefixes-20) \| OEM Hoshizaki part; match to machine model number |
-| Sensor wiring harness | [Amazon](https://www.amazon.com/s?k=Sensor+wiring+harness&tag=errorcodefixes-20) \| Replace if conductors are broken or connector pins corroded |
+| Evaporator thermistor (E9 sensor) | [Amazon](https://www.amazon.com/s?i=industrial&k=Evaporator+thermistor+%28E9+sensor%29&tag=errorcodefixes-20) \| OEM Hoshizaki part; match to machine model number |
+| Sensor wiring harness | [Amazon](https://www.amazon.com/s?i=industrial&k=Sensor+wiring+harness&tag=errorcodefixes-20) \| Replace if conductors are broken or connector pins corroded |
 | Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace only if all sensors and wiring test good |
 ## When to Call a Pro
 

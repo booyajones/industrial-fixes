@@ -67,9 +67,9 @@ The Base Block (safe torque off) input has been activated. The drive will not pr
 
 | Part | Notes |
 |------|-------|
-| Braking resistor | [Amazon](https://www.amazon.com/s?k=Braking+resistor&tag=errorcodefixes-20) \| Yaskawa ERF or ERV series, sized per drive catalog |
-| Cooling fan | [Amazon](https://www.amazon.com/s?k=Cooling+fan&tag=errorcodefixes-20) \| Drive-specific; V1000: YPJP31-B fan assembly |
-| Control power fuse | [Amazon](https://www.amazon.com/s?k=Control+power+fuse&tag=errorcodefixes-20) \| 2A time-lag, model-specific |
+| Braking resistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Braking+resistor&tag=errorcodefixes-20) \| Yaskawa ERF or ERV series, sized per drive catalog |
+| Cooling fan | [Amazon](https://www.amazon.com/s?i=industrial&k=Cooling+fan&tag=errorcodefixes-20) \| Drive-specific; V1000: YPJP31-B fan assembly |
+| Control power fuse | [Amazon](https://www.amazon.com/s?i=industrial&k=Control+power+fuse&tag=errorcodefixes-20) \| 2A time-lag, model-specific |
 ## When to Call a Pro
 GF (ground fault) and SC (short circuit) faults that persist after checking the motor and cable indicate a failed drive output stage. IGBT replacement in Yaskawa drives requires authorized service.
 

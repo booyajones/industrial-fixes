@@ -59,7 +59,7 @@ The Carrier Infinity 24ACC6 is a high-efficiency single-stage central air condit
 | Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Dual run capacitor for compressor and fan motor |
 | Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Check for pitted or welded contacts |
 | Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Replace if Code 3 persists with correct charge |
-| Outdoor coil thermistor | [Amazon](https://www.amazon.com/s?k=Outdoor+coil+thermistor&tag=errorcodefixes-20) \| For Code 11; inexpensive OEM part |
+| Outdoor coil thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Outdoor+coil+thermistor&tag=errorcodefixes-20) \| For Code 11; inexpensive OEM part |
 | Infinity control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For persistent Code 5 or communication faults |
 | Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Confirm correct rotation before condemning |
 ## When to Call a Pro

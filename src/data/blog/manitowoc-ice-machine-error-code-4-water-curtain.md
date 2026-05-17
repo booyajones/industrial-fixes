@@ -52,10 +52,10 @@ Code 4 is one of the most searched Manitowoc faults in commercial kitchens becau
 
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|-------------|
-| Manitowoc Curtain Sensor | 000005444 | $60–$75 | [Amazon](https://www.amazon.com/s?k=000005444+Manitowoc+Curtain+Sensor&tag=errorcodefixes-20) \| Repair Clinic / Parts Town |
+| Manitowoc Curtain Sensor | 000005444 | $60–$75 | [Amazon](https://www.amazon.com/s?i=industrial&k=000005444+Manitowoc+Curtain+Sensor&tag=errorcodefixes-20) \| Repair Clinic / Parts Town |
 | Water Inlet Valve | 000004756 | $80–$95 | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| Repair Clinic / Parts Town |
-| Water Distribution Tube | 000007533 | $25–$40 | [Amazon](https://www.amazon.com/s?k=000007533+Water+Distribution+Tube&tag=errorcodefixes-20) \| Parts Town |
-| Manitowoc Ice Machine Cleaner | A0310001 | $18–$28 | [Amazon](https://www.amazon.com/s?k=A0310001+Manitowoc+Ice+Machine+Cleaner&tag=errorcodefixes-20) \| Amazon / restaurant supply |
+| Water Distribution Tube | 000007533 | $25–$40 | [Amazon](https://www.amazon.com/s?i=industrial&k=000007533+Water+Distribution+Tube&tag=errorcodefixes-20) \| Parts Town |
+| Manitowoc Ice Machine Cleaner | A0310001 | $18–$28 | [Amazon](https://www.amazon.com/s?i=industrial&k=A0310001+Manitowoc+Ice+Machine+Cleaner&tag=errorcodefixes-20) \| Amazon / restaurant supply |
 ## When to Call a Professional
 
 Refrigerant diagnosis and recharge on a commercial ice machine requires EPA 608 certification and a recovery machine — this is not a DIY task. If your Code 4 troubleshooting confirms the harvest cycle is mechanically failing (ice not releasing) and the machine is clean and the water valve is good, a certified refrigeration technician needs to check the hot-gas valve, refrigerant charge, and compressor performance. A Manitowoc ice machine with a low refrigerant charge often indicates a leak — simply recharging without finding and fixing the leak means the machine will be back down in months.

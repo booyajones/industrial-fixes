@@ -39,7 +39,7 @@ The Carrier E3 error code indicates an **IPM (Intelligent Power Module) fault** 
 | IPM / Inverter control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace when fault persists after cleaning and fan checks; brand-specific part number required |
 | Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Replace if motor windings test open or motor is seized |
 | Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Replace if capacitance reads >10% below rated value |
-| Coil cleaner (Nu-Calgon Evap Foam) | [Amazon](https://www.amazon.com/s?k=Coil+cleaner+%28Nu-Calgon+Evap+Foam%29&tag=errorcodefixes-20) \| Use for routine condenser cleaning to prevent thermal faults |
+| Coil cleaner (Nu-Calgon Evap Foam) | [Amazon](https://www.amazon.com/s?i=industrial&k=Coil+cleaner+%28Nu-Calgon+Evap+Foam%29&tag=errorcodefixes-20) \| Use for routine condenser cleaning to prevent thermal faults |
 ## When to Call a Pro
 
 If the condenser coil is clean, the fan runs correctly, and E3 still returns within minutes of reset, the IPM board has failed internally. IPM replacement requires handling high-voltage DC bus capacitors — a licensed HVAC-R technician or electrician should perform this repair.

@@ -275,7 +275,7 @@ Contact Daikin Applied technical support: 1-800-432-1342. McQuay parts: Daikin A
 
 ## Amazon Affiliate Links
 
-- [Refrigerant Manifold Gauges R-410A](https://www.amazon.com/s?k=refrigerant+manifold+gauges+r410a&tag=errorcodefixes-20)
+- [Refrigerant Manifold Gauges R-410A](https://www.amazon.com/s?i=industrial&k=refrigerant+manifold+gauges+r410a&tag=errorcodefixes-20)
 - [High Pressure Safety Switch SPST](https://www.amazon.com/dp/B013IHQ8CU?tag=errorcodefixes-20)
-- [Thermistor Temperature Sensor NTC](https://www.amazon.com/s?k=NTC+thermistor+sensor+chiller&tag=errorcodefixes-20)
+- [Thermistor Temperature Sensor NTC](https://www.amazon.com/s?i=industrial&k=NTC+thermistor+sensor+chiller&tag=errorcodefixes-20)
 - [Clamp Meter True RMS 600A](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20)

@@ -120,10 +120,10 @@ The contactor is the high-voltage relay that switches power to the compressor an
 | Heat Pump Run Capacitor (40+5 MFD typical) | Capacitor-related short cycling | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) |
 | Heat Pump Contactor 2-Pole 30A | Burnt contactor short cycling | [View on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) |
 | Defrost Control Board (universal) | Defrost board causing heating-mode short cycling | [View on Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) |
-| Defrost Thermostat (coil sensor) | Defrost sensor not triggering properly | [View on Amazon](https://www.amazon.com/s?k=heat+pump+defrost+thermostat+coil+sensor&tag=errorcodefixes-20) |
+| Defrost Thermostat (coil sensor) | Defrost sensor not triggering properly | [View on Amazon](https://www.amazon.com/s?i=industrial&k=heat+pump+defrost+thermostat+coil+sensor&tag=errorcodefixes-20) |
 | MERV 8 Air Filter (standard sizes) | Airflow restriction causing short cycling | [View on Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) |
 | Digital Multimeter with Capacitor Test | Diagnosing capacitor and voltage issues | [View on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) |
-| Refrigerant Leak Detector | Locating refrigerant leaks | [View on Amazon](https://www.amazon.com/s?k=hvac+refrigerant+leak+detector+r410a&tag=errorcodefixes-20) |
+| Refrigerant Leak Detector | Locating refrigerant leaks | [View on Amazon](https://www.amazon.com/s?i=industrial&k=hvac+refrigerant+leak+detector+r410a&tag=errorcodefixes-20) |
 
 ---
 

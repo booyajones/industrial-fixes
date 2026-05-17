@@ -17,23 +17,23 @@ tags:
 
 Baldor Electric (now part of ABB) manufactures the VS1 series of variable frequency drives, which are based on ABB's drive platform. The VS1SP (simple panel) and VS1MD (micro drive) series share fault codes with the ABB ACS300/ACS310/ACS355 family. Faults appear on the drive's display panel.
 
-| [Fault Code](https://www.amazon.com/s?k=Fault+Code&tag=errorcodefixes-20) | Meaning | Common Cause | Quick Fix |
+| [Fault Code](https://www.amazon.com/s?i=industrial&k=Fault+Code&tag=errorcodefixes-20) | Meaning | Common Cause | Quick Fix |
 |-----------|---------|-------------|-----------|
-| [F0001](https://www.amazon.com/s?k=F0001&tag=errorcodefixes-20) | Overcurrent | Load too high; short circuit | Check motor wiring; reduce acceleration |
-| [F0002](https://www.amazon.com/s?k=F0002&tag=errorcodefixes-20) | DC Bus Overvoltage | Regen energy; high input voltage | Check input voltage; add braking resistor |
-| [F0003](https://www.amazon.com/s?k=F0003&tag=errorcodefixes-20) | DC Bus Undervoltage | Low input voltage; power dip | Check input voltage; check fuses |
-| [F0004](https://www.amazon.com/s?k=F0004&tag=errorcodefixes-20) | Drive overtemperature | Blocked cooling; ambient too hot | Clean heatsink; improve ventilation |
-| [F0005](https://www.amazon.com/s?k=F0005&tag=errorcodefixes-20) | Motor overtemperature | Motor overloaded; PTC fault | Check motor load; check PTC wiring |
-| [F0006](https://www.amazon.com/s?k=F0006&tag=errorcodefixes-20) | Emergency stop | External E-stop input activated | Check E-stop circuit; reset |
-| [F0007](https://www.amazon.com/s?k=F0007&tag=errorcodefixes-20) | Control board fault | Internal hardware fault | Power cycle; replace if persists |
-| [F0009](https://www.amazon.com/s?k=F0009&tag=errorcodefixes-20) | Underload fault | Load dropped below threshold | Check for broken belt or coupling |
-| [F0011](https://www.amazon.com/s?k=F0011&tag=errorcodefixes-20) | External fault | Digital input configured for external fault | Check external fault input wiring |
-| [F0013](https://www.amazon.com/s?k=F0013&tag=errorcodefixes-20) | Analog input loss | 4–20mA signal lost | Check signal source; check wiring |
-| [F0014](https://www.amazon.com/s?k=F0014&tag=errorcodefixes-20) | Motor stall | Motor not turning at commanded speed | Check motor and mechanical load |
-| [F0016](https://www.amazon.com/s?k=F0016&tag=errorcodefixes-20) | Earth fault (ground fault) | Winding-to-ground insulation fault | Test motor insulation; check wiring |
-| [F0017](https://www.amazon.com/s?k=F0017&tag=errorcodefixes-20) | Motor phase loss | Missing motor output phase | Check U, V, W output wiring |
-| [F0022](https://www.amazon.com/s?k=F0022&tag=errorcodefixes-20) | Parameter CRC fault | Parameter checksum error | Reload parameters from backup |
-| [F0025](https://www.amazon.com/s?k=F0025&tag=errorcodefixes-20) | Input phase loss | Missing input phase | Check L1, L2, L3 input connections |
+| [F0001](https://www.amazon.com/s?i=industrial&k="F0001"&tag=errorcodefixes-20) | Overcurrent | Load too high; short circuit | Check motor wiring; reduce acceleration |
+| [F0002](https://www.amazon.com/s?i=industrial&k="F0002"&tag=errorcodefixes-20) | DC Bus Overvoltage | Regen energy; high input voltage | Check input voltage; add braking resistor |
+| [F0003](https://www.amazon.com/s?i=industrial&k="F0003"&tag=errorcodefixes-20) | DC Bus Undervoltage | Low input voltage; power dip | Check input voltage; check fuses |
+| [F0004](https://www.amazon.com/s?i=industrial&k="F0004"&tag=errorcodefixes-20) | Drive overtemperature | Blocked cooling; ambient too hot | Clean heatsink; improve ventilation |
+| [F0005](https://www.amazon.com/s?i=industrial&k="F0005"&tag=errorcodefixes-20) | Motor overtemperature | Motor overloaded; PTC fault | Check motor load; check PTC wiring |
+| [F0006](https://www.amazon.com/s?i=industrial&k="F0006"&tag=errorcodefixes-20) | Emergency stop | External E-stop input activated | Check E-stop circuit; reset |
+| [F0007](https://www.amazon.com/s?i=industrial&k="F0007"&tag=errorcodefixes-20) | Control board fault | Internal hardware fault | Power cycle; replace if persists |
+| [F0009](https://www.amazon.com/s?i=industrial&k="F0009"&tag=errorcodefixes-20) | Underload fault | Load dropped below threshold | Check for broken belt or coupling |
+| [F0011](https://www.amazon.com/s?i=industrial&k="F0011"&tag=errorcodefixes-20) | External fault | Digital input configured for external fault | Check external fault input wiring |
+| [F0013](https://www.amazon.com/s?i=industrial&k="F0013"&tag=errorcodefixes-20) | Analog input loss | 4–20mA signal lost | Check signal source; check wiring |
+| [F0014](https://www.amazon.com/s?i=industrial&k="F0014"&tag=errorcodefixes-20) | Motor stall | Motor not turning at commanded speed | Check motor and mechanical load |
+| [F0016](https://www.amazon.com/s?i=industrial&k="F0016"&tag=errorcodefixes-20) | Earth fault (ground fault) | Winding-to-ground insulation fault | Test motor insulation; check wiring |
+| [F0017](https://www.amazon.com/s?i=industrial&k="F0017"&tag=errorcodefixes-20) | Motor phase loss | Missing motor output phase | Check U, V, W output wiring |
+| [F0022](https://www.amazon.com/s?i=industrial&k="F0022"&tag=errorcodefixes-20) | Parameter CRC fault | Parameter checksum error | Reload parameters from backup |
+| [F0025](https://www.amazon.com/s?i=industrial&k="F0025"&tag=errorcodefixes-20) | Input phase loss | Missing input phase | Check L1, L2, L3 input connections |
 
 ## Most Common Faults
 

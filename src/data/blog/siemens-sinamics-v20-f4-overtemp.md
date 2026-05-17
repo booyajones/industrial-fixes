@@ -60,11 +60,11 @@ The Siemens SINAMICS V20 is one of the most widely deployed compact VFDs in indu
 
 ## Parts You May Need
 
-- [Siemens SINAMICS V20 Replacement Cooling Fan](https://www.amazon.com/s?k=Siemens+SINAMICS+V20+replacement+cooling+fan&tag=errorcodefixes-20)
-- [Compressed Air Duster for Electronics Cleaning](https://www.amazon.com/s?k=compressed+air+duster+electronics+VFD+cleaning&tag=errorcodefixes-20)
-- [VFD Enclosure Cooling Fan Panel Mount](https://www.amazon.com/s?k=VFD+enclosure+cooling+fan+panel+mount&tag=errorcodefixes-20)
-- [Digital Infrared Thermometer for Industrial](https://www.amazon.com/s?k=digital+infrared+thermometer+industrial+heatsink&tag=errorcodefixes-20)
-- [Siemens SINAMICS V20 Drive Replacement](https://www.amazon.com/s?k=Siemens+SINAMICS+V20+VFD+drive&tag=errorcodefixes-20)
+- [Siemens SINAMICS V20 Replacement Cooling Fan](https://www.amazon.com/s?i=industrial&k=Siemens+SINAMICS+V20+replacement+cooling+fan&tag=errorcodefixes-20)
+- [Compressed Air Duster for Electronics Cleaning](https://www.amazon.com/s?i=industrial&k=compressed+air+duster+electronics+VFD+cleaning&tag=errorcodefixes-20)
+- [VFD Enclosure Cooling Fan Panel Mount](https://www.amazon.com/s?i=industrial&k=VFD+enclosure+cooling+fan+panel+mount&tag=errorcodefixes-20)
+- [Digital Infrared Thermometer for Industrial](https://www.amazon.com/s?i=industrial&k=digital+infrared+thermometer+industrial+heatsink&tag=errorcodefixes-20)
+- [Siemens SINAMICS V20 Drive Replacement](https://www.amazon.com/s?i=industrial&k=Siemens+SINAMICS+V20+VFD+drive&tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

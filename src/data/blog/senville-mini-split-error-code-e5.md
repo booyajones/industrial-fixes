@@ -38,8 +38,8 @@ E5 on a Senville mini split indicates a drain protection fault — the indoor un
 
 | Part | Notes |
 |------|-------|
-| Condensate drain line (PVC or vinyl) | [Amazon](https://www.amazon.com/s?k=Condensate+drain+line+%28PVC+or+vinyl%29&tag=errorcodefixes-20) \| Replace if cracked or sagging |
-| Condensate pump | [Amazon](https://www.amazon.com/s?k=Condensate+pump&tag=errorcodefixes-20) \| Match voltage and GPH rating of the original pump |
+| Condensate drain line (PVC or vinyl) | [Amazon](https://www.amazon.com/s?i=industrial&k=Condensate+drain+line+%28PVC+or+vinyl%29&tag=errorcodefixes-20) \| Replace if cracked or sagging |
+| Condensate pump | [Amazon](https://www.amazon.com/s?i=industrial&k=Condensate+pump&tag=errorcodefixes-20) \| Match voltage and GPH rating of the original pump |
 | Float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?tag=errorcodefixes-20) \| Use the OEM Senville part for correct trip-point calibration |
 ## When to Call a Pro
 

@@ -23,11 +23,11 @@ E5 appears on York TM9V, TG9S, YP9C, YG9S, and compatible Johnson Controls OEM f
 | Cause | Likelihood | First Check |
 |-------|-----------|------------|
 | [Dirty / clogged air filter](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) | Very High | Replace filter immediately |
-| [Closed or blocked supply registers](https://www.amazon.com/s?k=Closed+or+blocked+supply+registers&tag=errorcodefixes-20) | High | Open all registers; remove obstructions |
-| [Dirty evaporator coil (if AC installed)](https://www.amazon.com/s?k=Dirty+evaporator+coil+%28if+AC+installed%29&tag=errorcodefixes-20) | High | Check coil for dirt buildup |
-| [Undersized return air](https://www.amazon.com/s?k=Undersized+return+air&tag=errorcodefixes-20) | Medium | Check return air grille size vs. system |
-| [Failing blower motor](https://www.amazon.com/s?k=Failing+blower+motor&tag=errorcodefixes-20) | Medium | Verify blower runs at full speed |
-| [Cracked heat exchanger (recirculation)](https://www.amazon.com/s?k=Cracked+heat+exchanger+%28recirculation%29&tag=errorcodefixes-20) | Lower | Look for soot around heat exchanger seams |
+| [Closed or blocked supply registers](https://www.amazon.com/s?i=industrial&k=Closed+or+blocked+supply+registers&tag=errorcodefixes-20) | High | Open all registers; remove obstructions |
+| [Dirty evaporator coil (if AC installed)](https://www.amazon.com/s?i=industrial&k=Dirty+evaporator+coil+%28if+AC+installed%29&tag=errorcodefixes-20) | High | Check coil for dirt buildup |
+| [Undersized return air](https://www.amazon.com/s?i=industrial&k=Undersized+return+air&tag=errorcodefixes-20) | Medium | Check return air grille size vs. system |
+| [Failing blower motor](https://www.amazon.com/s?i=industrial&k=Failing+blower+motor&tag=errorcodefixes-20) | Medium | Verify blower runs at full speed |
+| [Cracked heat exchanger (recirculation)](https://www.amazon.com/s?i=industrial&k=Cracked+heat+exchanger+%28recirculation%29&tag=errorcodefixes-20) | Lower | Look for soot around heat exchanger seams |
 | [Failed high-limit switch (opens prematurely)](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) | Lower | Test switch continuity at room temperature |
 
 ## Step-by-Step Diagnosis

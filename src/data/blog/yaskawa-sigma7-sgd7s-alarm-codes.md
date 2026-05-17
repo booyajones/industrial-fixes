@@ -83,11 +83,11 @@ The Yaskawa Sigma-7 (model series SGD7S, SGD7W) is a high-performance AC servo a
 
 | Part | Description | Typical Cost | Where to Buy |
 |------|-------------|--------------|--------------|
-| Encoder cable (Yaskawa Sigma-7 compatible) | Shielded, flex-rated, 20-pin MDR to 9-pin sub-D | $80–$250 | [Amazon](https://www.amazon.com/s?k=Yaskawa+Sigma-7+encoder+cable+replacement&tag=errorcodefixes-20) \| Yaskawa distributor |
-| External regenerative resistor (JUSP-RA series) | Match to amplifier model and capacity | $120–$400 | [Amazon](https://www.amazon.com/s?k=Yaskawa+Sigma+regenerative+resistor+JUSP&tag=errorcodefixes-20) \| Yaskawa distributor |
-| Absolute encoder battery (3.6V lithium) | Backup power for multi-turn absolute encoder | $15–$30 | [Amazon](https://www.amazon.com/s?k=Yaskawa+Sigma+encoder+battery+3.6V&tag=errorcodefixes-20) |
+| Encoder cable (Yaskawa Sigma-7 compatible) | Shielded, flex-rated, 20-pin MDR to 9-pin sub-D | $80–$250 | [Amazon](https://www.amazon.com/s?i=industrial&k=Yaskawa+Sigma-7+encoder+cable+replacement&tag=errorcodefixes-20) \| Yaskawa distributor |
+| External regenerative resistor (JUSP-RA series) | Match to amplifier model and capacity | $120–$400 | [Amazon](https://www.amazon.com/s?i=industrial&k=Yaskawa+Sigma+regenerative+resistor+JUSP&tag=errorcodefixes-20) \| Yaskawa distributor |
+| Absolute encoder battery (3.6V lithium) | Backup power for multi-turn absolute encoder | $15–$30 | [Amazon](https://www.amazon.com/s?i=industrial&k=Yaskawa+Sigma+encoder+battery+3.6V&tag=errorcodefixes-20) |
 | SGD7S replacement amplifier (various capacities) | 100W to 15kW models available | $1,500–$6,000 | Yaskawa America \| Authorized distributor |
-| Din-rail power supply 24VDC (for I/O logic) | Ensures stable enable signal voltage | $40–$90 | [Amazon](https://www.amazon.com/s?k=24VDC+DIN+rail+power+supply+industrial&tag=errorcodefixes-20) |
+| Din-rail power supply 24VDC (for I/O logic) | Ensures stable enable signal voltage | $40–$90 | [Amazon](https://www.amazon.com/s?i=industrial&k=24VDC+DIN+rail+power+supply+industrial&tag=errorcodefixes-20) |
 
 ## When to Call a Professional
 

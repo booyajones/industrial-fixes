@@ -48,9 +48,9 @@ Short circuit at the output. Inspect gun, cable, and nozzle/tip for shorts. Powe
 
 | Part | Notes |
 |------|-------|
-| MIG gun | [Amazon](https://www.amazon.com/s?k=MIG+gun&tag=errorcodefixes-20) \| Replace if internal cable short found |
+| MIG gun | [Amazon](https://www.amazon.com/s?i=industrial&k=MIG+gun&tag=errorcodefixes-20) \| Replace if internal cable short found |
 | Input/output contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Match to Power MIG model |
-| Interconnect cable (feeder to PS) | [Amazon](https://www.amazon.com/s?k=Interconnect+cable+%28feeder+to+PS%29&tag=errorcodefixes-20) \| For E20 |
+| Interconnect cable (feeder to PS) | [Amazon](https://www.amazon.com/s?i=industrial&k=Interconnect+cable+%28feeder+to+PS%29&tag=errorcodefixes-20) \| For E20 |
 ## When to Call a Pro
 
 Lincoln Electric authorized service handles internal component replacement for Power MIG units with persistent fault codes.

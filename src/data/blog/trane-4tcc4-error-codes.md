@@ -41,10 +41,10 @@ The Trane 4TCC4 series is Trane's single-zone ductless mini-split indoor unit, t
 
 | Part | Notes |
 |------|-------|
-| Indoor ambient thermistor | [Amazon](https://www.amazon.com/s?k=Indoor+ambient+thermistor&tag=errorcodefixes-20) \| Trane 4TCC4 OEM; verify resistance curve |
-| Indoor coil thermistor | [Amazon](https://www.amazon.com/s?k=Indoor+coil+thermistor&tag=errorcodefixes-20) \| Often sold as a kit with the ambient sensor |
+| Indoor ambient thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Indoor+ambient+thermistor&tag=errorcodefixes-20) \| Trane 4TCC4 OEM; verify resistance curve |
+| Indoor coil thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Indoor+coil+thermistor&tag=errorcodefixes-20) \| Often sold as a kit with the ambient sensor |
 | Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match nameplate HP, RPM, and shaft size |
-| Communication wire | [Amazon](https://www.amazon.com/s?k=Communication+wire&tag=errorcodefixes-20) \| 18 AWG, length to match installation |
+| Communication wire | [Amazon](https://www.amazon.com/s?i=industrial&k=Communication+wire&tag=errorcodefixes-20) \| 18 AWG, length to match installation |
 ## When to Call a Pro
 
 P0 refrigerant codes require gauge sets and EPA 608 certification. H6 and P5 motor replacements are straightforward but require a comfort with ductless system wiring — call a Trane-authorized technician if unsure.

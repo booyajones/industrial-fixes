@@ -38,10 +38,10 @@ On Frigidaire mini split systems, E1 indicates a communication error between the
 
 | Part | Notes |
 |------|-------|
-| Outdoor unit control PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+unit+control+PCB&tag=errorcodefixes-20) \| Most common hardware fix for persistent E1 |
-| Indoor unit control PCB | [Amazon](https://www.amazon.com/s?k=Indoor+unit+control+PCB&tag=errorcodefixes-20) \| Replace if outdoor board replacement doesn't resolve E1 |
-| 3-conductor signal wire | [Amazon](https://www.amazon.com/s?k=3-conductor+signal+wire&tag=errorcodefixes-20) \| Replace if communication wire is damaged in the lineset |
-| Surge protector | [Amazon](https://www.amazon.com/s?k=Surge+protector&tag=errorcodefixes-20) \| Install on outdoor unit if E1 followed a lightning/surge event |
+| Outdoor unit control PCB | [Amazon](https://www.amazon.com/s?i=industrial&k=Outdoor+unit+control+PCB&tag=errorcodefixes-20) \| Most common hardware fix for persistent E1 |
+| Indoor unit control PCB | [Amazon](https://www.amazon.com/s?i=industrial&k=Indoor+unit+control+PCB&tag=errorcodefixes-20) \| Replace if outdoor board replacement doesn't resolve E1 |
+| 3-conductor signal wire | [Amazon](https://www.amazon.com/s?i=industrial&k=3-conductor+signal+wire&tag=errorcodefixes-20) \| Replace if communication wire is damaged in the lineset |
+| Surge protector | [Amazon](https://www.amazon.com/s?i=industrial&k=Surge+protector&tag=errorcodefixes-20) \| Install on outdoor unit if E1 followed a lightning/surge event |
 ## When to Call a Pro
 
 If communication wiring is intact and both boards have power but E1 persists, board replacement is straightforward but requires matching the exact model. If the system is under warranty, have a Frigidaire-authorized technician handle the repair to avoid voiding coverage.

@@ -39,8 +39,8 @@ Hill Phoenix supermarket display cases use various controller platforms (Hill Ph
 | Part | Notes |
 |------|-------|
 | NTC thermistor temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Match resistance spec: 10K, 12K, or 20K at 77°F — check controller spec sheet |
-| Sensor mounting clip | [Amazon](https://www.amazon.com/s?k=Sensor+mounting+clip&tag=errorcodefixes-20) \| Replace if existing clip is broken or corroded |
-| Silicone sealant | [Amazon](https://www.amazon.com/s?k=Silicone+sealant&tag=errorcodefixes-20) \| Seal sensor cable entry points to prevent moisture ingress |
+| Sensor mounting clip | [Amazon](https://www.amazon.com/s?i=industrial&k=Sensor+mounting+clip&tag=errorcodefixes-20) \| Replace if existing clip is broken or corroded |
+| Silicone sealant | [Amazon](https://www.amazon.com/s?i=industrial&k=Silicone+sealant&tag=errorcodefixes-20) \| Seal sensor cable entry points to prevent moisture ingress |
 ## When to Call a Pro
 
 Hill Phoenix cases in supermarket environments are typically serviced under maintenance contracts. If E1 persists after sensor replacement and the controller PCB input circuit is suspected, controller board replacement requires configuration backup (setpoints and program settings) before the board is swapped — most refrigeration service contractors use Danfoss or Dixell service tools to accomplish this.

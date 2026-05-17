@@ -49,10 +49,10 @@ Getinge steam sterilizers with air detectors test for air pockets in the chamber
 | Part | Notes |
 |------|-------|
 | Door gasket (Getinge OEM) | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?tag=errorcodefixes-20) \| Replace on E004 |
-| PT100/PT1000 sensor | [Amazon](https://www.amazon.com/s?k=PT100%2FPT1000+sensor&tag=errorcodefixes-20) \| Replace on E001 |
-| Pressure transducer | [Amazon](https://www.amazon.com/s?k=Pressure+transducer&tag=errorcodefixes-20) \| Replace on E002 |
-| Steam trap | [Amazon](https://www.amazon.com/s?k=Steam+trap&tag=errorcodefixes-20) \| Replace on drain fault |
-| Door interlock microswitch | [Amazon](https://www.amazon.com/s?k=Door+interlock+microswitch&tag=errorcodefixes-20) \| Replace on E004 |
+| PT100/PT1000 sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=PT100%2FPT1000+sensor&tag=errorcodefixes-20) \| Replace on E001 |
+| Pressure transducer | [Amazon](https://www.amazon.com/s?i=industrial&k=Pressure+transducer&tag=errorcodefixes-20) \| Replace on E002 |
+| Steam trap | [Amazon](https://www.amazon.com/s?i=industrial&k=Steam+trap&tag=errorcodefixes-20) \| Replace on drain fault |
+| Door interlock microswitch | [Amazon](https://www.amazon.com/s?i=industrial&k=Door+interlock+microswitch&tag=errorcodefixes-20) \| Replace on E004 |
 ## When to Call a Pro
 Getinge sterilizer qualification (IQ/OQ/PQ) and Bowie-Dick test interpretation require biomedical service or Getinge-certified technicians. Do not return a sterilizer to service after a critical fault without proper validation.
 

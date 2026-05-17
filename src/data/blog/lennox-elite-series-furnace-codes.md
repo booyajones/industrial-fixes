@@ -55,10 +55,10 @@ The Lennox Elite Series includes several residential gas furnace models: the EL1
 
 | Part | Notes |
 |---|---|
-| SureLight igniter | [Amazon](https://www.amazon.com/s?k=SureLight+igniter&tag=errorcodefixes-20) \| Silicon nitride; part number varies by model |
+| SureLight igniter | [Amazon](https://www.amazon.com/s?i=industrial&k=SureLight+igniter&tag=errorcodefixes-20) \| Silicon nitride; part number varies by model |
 | Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Clean with fine steel wool; measure µA output |
 | Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Single or dual switch depending on model |
-| ECM blower motor module | [Amazon](https://www.amazon.com/s?k=ECM+blower+motor+module&tag=errorcodefixes-20) \| Replace module only if motor spins freely |
+| ECM blower motor module | [Amazon](https://www.amazon.com/s?i=industrial&k=ECM+blower+motor+module&tag=errorcodefixes-20) \| Replace module only if motor spins freely |
 | High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Check reset button — some are auto-reset, some manual |
 | Rollout switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Manual-reset; do not bypass |
 ## When to Call a Pro

@@ -83,8 +83,8 @@ When E9 is displayed on an older model without a digital display:
 
 | Part | Notes |
 |---|---|
-| EEV coil (stepper motor coil) | [Amazon](https://www.amazon.com/s?k=EEV+coil+%28stepper+motor+coil%29&tag=errorcodefixes-20) \| Fujitsu OEM — match connector and winding resistance |
-| EEV valve body | [Amazon](https://www.amazon.com/s?k=EEV+valve+body&tag=errorcodefixes-20) \| Replace as assembly if mechanically stuck |
+| EEV coil (stepper motor coil) | [Amazon](https://www.amazon.com/s?i=industrial&k=EEV+coil+%28stepper+motor+coil%29&tag=errorcodefixes-20) \| Fujitsu OEM — match connector and winding resistance |
+| EEV valve body | [Amazon](https://www.amazon.com/s?i=industrial&k=EEV+valve+body&tag=errorcodefixes-20) \| Replace as assembly if mechanically stuck |
 | Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Last resort — expensive; verify all other causes first |
 ## Reset Procedure
 

@@ -38,7 +38,7 @@ Error Code 6 on a Manitowoc ice machine indicates a water fill timeout — the m
 |------|-------|
 | Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| Most common fix; replace if flow is restricted |
 | Water level probe/float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?tag=errorcodefixes-20) \| Replace if it's not signaling full trough correctly |
-| Water supply line | [Amazon](https://www.amazon.com/s?k=Water+supply+line&tag=errorcodefixes-20) \| Replace if kinked or cracked |
+| Water supply line | [Amazon](https://www.amazon.com/s?i=industrial&k=Water+supply+line&tag=errorcodefixes-20) \| Replace if kinked or cracked |
 ## When to Call a Pro
 
 If water pressure is good and the valve and probe check out, the issue may be a failed control board — board replacement requires a trained technician to program and verify the unit properly.

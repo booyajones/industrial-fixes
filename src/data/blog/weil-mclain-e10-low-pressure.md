@@ -56,11 +56,11 @@ E10 is one of the most frequently searched Weil-McLain error codes, and for good
 
 ## Parts You May Need
 
-- [Amtrol Extrol Expansion Tank for Hydronic Heating](https://www.amazon.com/s?k=Amtrol+Extrol+expansion+tank+hydronic+heating&tag=errorcodefixes-20)
-- [Boiler Pressure Relief Valve 30 PSI Replacement](https://www.amazon.com/s?k=boiler+pressure+relief+valve+30+PSI&tag=errorcodefixes-20)
-- [Weil-McLain Auto Fill Valve Water Feeder](https://www.amazon.com/s?k=boiler+automatic+water+feeder+fill+valve&tag=errorcodefixes-20)
-- [Weil-McLain Water Pressure Sensor](https://www.amazon.com/s?k=Weil-McLain+boiler+water+pressure+sensor&tag=errorcodefixes-20)
-- [Radiator Valve Packing Nut Wrench Set](https://www.amazon.com/s?k=radiator+valve+packing+nut+wrench&tag=errorcodefixes-20)
+- [Amtrol Extrol Expansion Tank for Hydronic Heating](https://www.amazon.com/s?i=industrial&k=Amtrol+Extrol+expansion+tank+hydronic+heating&tag=errorcodefixes-20)
+- [Boiler Pressure Relief Valve 30 PSI Replacement](https://www.amazon.com/s?i=industrial&k=boiler+pressure+relief+valve+30+PSI&tag=errorcodefixes-20)
+- [Weil-McLain Auto Fill Valve Water Feeder](https://www.amazon.com/s?i=industrial&k=boiler+automatic+water+feeder+fill+valve&tag=errorcodefixes-20)
+- [Weil-McLain Water Pressure Sensor](https://www.amazon.com/s?i=industrial&k=Weil-McLain+boiler+water+pressure+sensor&tag=errorcodefixes-20)
+- [Radiator Valve Packing Nut Wrench Set](https://www.amazon.com/s?i=industrial&k=radiator+valve+packing+nut+wrench&tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

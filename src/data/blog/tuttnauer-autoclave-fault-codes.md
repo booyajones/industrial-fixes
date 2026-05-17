@@ -53,9 +53,9 @@ Elara models test water conductivity to prevent mineral buildup damage. If tap w
 |------|-------|
 | PT100 temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Replace on E1 |
 | Door gasket (silicone) | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?tag=errorcodefixes-20) \| Replace on E5 / poor sealing |
-| Heating element | [Amazon](https://www.amazon.com/s?k=Heating+element&tag=errorcodefixes-20) \| Replace on slow heat-up |
-| Safety valve | [Amazon](https://www.amazon.com/s?k=Safety+valve&tag=errorcodefixes-20) \| Replace on overpressure fault |
-| Level sensor | [Amazon](https://www.amazon.com/s?k=Level+sensor&tag=errorcodefixes-20) \| Replace on false LO alarm |
+| Heating element | [Amazon](https://www.amazon.com/s?i=industrial&k=Heating+element&tag=errorcodefixes-20) \| Replace on slow heat-up |
+| Safety valve | [Amazon](https://www.amazon.com/s?i=industrial&k=Safety+valve&tag=errorcodefixes-20) \| Replace on overpressure fault |
+| Level sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Level+sensor&tag=errorcodefixes-20) \| Replace on false LO alarm |
 ## When to Call a Pro
 Tuttnauer autoclave spore testing, cycle validation, and annual PM require trained biomedical technicians. In dental and medical practices, sterilizer validation records are required by regulatory bodies.
 

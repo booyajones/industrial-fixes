@@ -66,7 +66,7 @@ The Carrier 58CVA is a two-stage variable-speed gas furnace delivering 80% AFUE 
 |---|---|
 | Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Silicon nitride; handle carefully, avoid touching ceramic |
 | Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Clean first; replace if cracked or reading <0.5 µA |
-| ECM blower motor | [Amazon](https://www.amazon.com/s?k=ECM+blower+motor&tag=errorcodefixes-20) \| Verify correct motor model; programmed to unit |
+| ECM blower motor | [Amazon](https://www.amazon.com/s?i=industrial&k=ECM+blower+motor&tag=errorcodefixes-20) \| Verify correct motor model; programmed to unit |
 | Inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Match frame size and speed rating |
 | High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| L170°F or L200°F depending on unit config |
 | Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Check tubing for blockage before replacing |

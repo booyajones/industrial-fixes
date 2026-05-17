@@ -40,9 +40,9 @@ Fanuc alarm **700** means the spindle motor temperature exceeded the safe limit 
 
 | Part | Notes |
 |------|-------|
-| Spindle cooling fan or blower | [Amazon](https://www.amazon.com/s?k=Spindle+cooling+fan+or+blower&tag=errorcodefixes-20) \| Match voltage and motor frame |
-| Spindle thermistor | [Amazon](https://www.amazon.com/s?k=Spindle+thermistor&tag=errorcodefixes-20) \| Use OEM equivalent |
-| Spindle bearings | [Amazon](https://www.amazon.com/s?k=Spindle+bearings&tag=errorcodefixes-20) \| Precision install required |
+| Spindle cooling fan or blower | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+cooling+fan+or+blower&tag=errorcodefixes-20) \| Match voltage and motor frame |
+| Spindle thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+thermistor&tag=errorcodefixes-20) \| Use OEM equivalent |
+| Spindle bearings | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+bearings&tag=errorcodefixes-20) \| Precision install required |
 | Air filter media | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| Some machines use filtered spindle blower air |
 ## When to Call a Pro
 If alarm 700 returns after cooling airflow is restored, the spindle bearings or spindle motor itself may be failing. Bearing replacement and spindle rebuild work should go to a qualified machine tool technician.

@@ -16,17 +16,17 @@ tags:
 
 Carrier zone controllers (models SYSTXZNSMS01, SYSTXZNCC1) manage multi-zone HVAC systems by controlling damper actuators and coordinating with zone thermostats. They work with Carrier Infinity and Performance series equipment. Fault codes appear on the Infinity System Control display or on the zone controller's LED indicator.
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |------|---------|-----------|
-| [ZN1 FAULT](https://www.amazon.com/s?k=ZN1+FAULT&tag=errorcodefixes-20) | Zone 1 communication error | Check zone 1 thermostat wiring |
-| [ZN2–ZN8 FAULT](https://www.amazon.com/s?k=ZN2%E2%80%93ZN8+FAULT&tag=errorcodefixes-20) | Zone 2–8 communication errors | Check individual zone wiring |
-| [DAMP FAULT](https://www.amazon.com/s?k=DAMP+FAULT&tag=errorcodefixes-20) | Damper actuator fault | Test actuator; check wiring |
-| [BYPASS FAULT](https://www.amazon.com/s?k=BYPASS+FAULT&tag=errorcodefixes-20) | Bypass damper not responding | Inspect bypass actuator and duct |
-| [EQUIP FAULT](https://www.amazon.com/s?k=EQUIP+FAULT&tag=errorcodefixes-20) | Equipment communication fault | Check Infinity system bus wiring |
-| [POWER FAULT](https://www.amazon.com/s?k=POWER+FAULT&tag=errorcodefixes-20) | 24VAC power supply issue | Verify transformer size and output |
-| [SENSOR FAULT](https://www.amazon.com/s?k=SENSOR+FAULT&tag=errorcodefixes-20) | Zone temperature sensor error | Replace sensor or thermostat |
-| [COMM LOSS](https://www.amazon.com/s?k=COMM+LOSS&tag=errorcodefixes-20) | Infinity system bus communication lost | Check data bus wiring; reboot system |
-| [CONFIG ERR](https://www.amazon.com/s?k=CONFIG+ERR&tag=errorcodefixes-20) | Zone configuration mismatch | Reconfigure zone count in setup menu |
+| [ZN1 FAULT](https://www.amazon.com/s?i=industrial&k=ZN1+FAULT&tag=errorcodefixes-20) | Zone 1 communication error | Check zone 1 thermostat wiring |
+| [ZN2–ZN8 FAULT](https://www.amazon.com/s?i=industrial&k=ZN2%E2%80%93ZN8+FAULT&tag=errorcodefixes-20) | Zone 2–8 communication errors | Check individual zone wiring |
+| [DAMP FAULT](https://www.amazon.com/s?i=industrial&k=DAMP+FAULT&tag=errorcodefixes-20) | Damper actuator fault | Test actuator; check wiring |
+| [BYPASS FAULT](https://www.amazon.com/s?i=industrial&k=BYPASS+FAULT&tag=errorcodefixes-20) | Bypass damper not responding | Inspect bypass actuator and duct |
+| [EQUIP FAULT](https://www.amazon.com/s?i=industrial&k=EQUIP+FAULT&tag=errorcodefixes-20) | Equipment communication fault | Check Infinity system bus wiring |
+| [POWER FAULT](https://www.amazon.com/s?i=industrial&k=POWER+FAULT&tag=errorcodefixes-20) | 24VAC power supply issue | Verify transformer size and output |
+| [SENSOR FAULT](https://www.amazon.com/s?i=industrial&k=SENSOR+FAULT&tag=errorcodefixes-20) | Zone temperature sensor error | Replace sensor or thermostat |
+| [COMM LOSS](https://www.amazon.com/s?i=industrial&k=COMM+LOSS&tag=errorcodefixes-20) | Infinity system bus communication lost | Check data bus wiring; reboot system |
+| [CONFIG ERR](https://www.amazon.com/s?i=industrial&k=CONFIG+ERR&tag=errorcodefixes-20) | Zone configuration mismatch | Reconfigure zone count in setup menu |
 | E4 | System lockout — multiple faults | Cycle power; investigate root faults |
 
 ## Most Common Faults

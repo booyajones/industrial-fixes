@@ -56,10 +56,10 @@ Pumping applications with fast deceleration cause motor regeneration. Increase d
 
 | Part | Notes |
 |------|-------|
-| HIM module | [Amazon](https://www.amazon.com/s?k=HIM+module&tag=errorcodefixes-20) \| Plug-in display — model 20-HIM-A3 is most common |
-| Cooling fan | [Amazon](https://www.amazon.com/s?k=Cooling+fan&tag=errorcodefixes-20) \| Match PowerFlex 70 frame size |
-| Input fuses | [Amazon](https://www.amazon.com/s?k=Input+fuses&tag=errorcodefixes-20) \| Class J or CC — match ampere rating |
-| Brake resistor | [Amazon](https://www.amazon.com/s?k=Brake+resistor&tag=errorcodefixes-20) \| Match ohm and watt rating to drive |
+| HIM module | [Amazon](https://www.amazon.com/s?i=industrial&k=HIM+module&tag=errorcodefixes-20) \| Plug-in display — model 20-HIM-A3 is most common |
+| Cooling fan | [Amazon](https://www.amazon.com/s?i=industrial&k=Cooling+fan&tag=errorcodefixes-20) \| Match PowerFlex 70 frame size |
+| Input fuses | [Amazon](https://www.amazon.com/s?i=industrial&k=Input+fuses&tag=errorcodefixes-20) \| Class J or CC — match ampere rating |
+| Brake resistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Brake+resistor&tag=errorcodefixes-20) \| Match ohm and watt rating to drive |
 > **Pro tip:** PowerFlex 70 stores fault queue (F01–F08 parameters in the fault log group). Access via HIM: DIAGNOSTICS ΓåÆ FAULT LOG. Always review the full fault queue — a single event often produces multiple faults in sequence that tell the root cause story.
 
 ## Related Articles

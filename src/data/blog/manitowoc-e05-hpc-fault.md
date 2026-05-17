@@ -64,11 +64,11 @@ If E05 returns after those fixes, stop throwing parts at it. At that point the p
 
 ## Parts You May Need
 
-- [Fan cycle control switch](https://www.amazon.com/s?k=Manitowoc+fan+cycle+control+switch&tag=errorcodefixes-20)
+- [Fan cycle control switch](https://www.amazon.com/s?i=industrial&k=Manitowoc+fan+cycle+control+switch&tag=errorcodefixes-20)
 - [Condenser fan motor](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20)
-- [Condenser coil cleaning kit](https://www.amazon.com/s?k=condenser+coil+cleaning+kit&tag=errorcodefixes-20)
-- [Fin comb coil brush](https://www.amazon.com/s?k=fin+comb+coil+brush&tag=errorcodefixes-20)
-- [HVAC fin comb set](https://www.amazon.com/s?k=HVAC+fin+comb+set&tag=errorcodefixes-20)
+- [Condenser coil cleaning kit](https://www.amazon.com/s?i=industrial&k=condenser+coil+cleaning+kit&tag=errorcodefixes-20)
+- [Fin comb coil brush](https://www.amazon.com/s?i=industrial&k=fin+comb+coil+brush&tag=errorcodefixes-20)
+- [HVAC fin comb set](https://www.amazon.com/s?i=industrial&k=HVAC+fin+comb+set&tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

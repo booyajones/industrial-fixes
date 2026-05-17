@@ -68,9 +68,9 @@ On complex machines with pallet systems, tool changers, or fixture offsets tied 
 
 ## Parts You May Need
 
-- [Fanuc encoder battery ER3V 3.6V lithium](https://www.amazon.com/s?k=Fanuc+encoder+battery+ER3V+3.6V&tag=errorcodefixes-20)
-- [A98L-0031-0025 Fanuc battery replacement](https://www.amazon.com/s?k=A98L-0031-0025+Fanuc+battery&tag=errorcodefixes-20)
-- [CR17335 3V lithium battery for CNC encoder](https://www.amazon.com/s?k=CR17335+3V+lithium+battery+CNC&tag=errorcodefixes-20)
+- [Fanuc encoder battery ER3V 3.6V lithium](https://www.amazon.com/s?i=industrial&k=Fanuc+encoder+battery+ER3V+3.6V&tag=errorcodefixes-20)
+- [A98L-0031-0025 Fanuc battery replacement](https://www.amazon.com/s?i=industrial&k=A98L-0031-0025+Fanuc+battery&tag=errorcodefixes-20)
+- [CR17335 3V lithium battery for CNC encoder](https://www.amazon.com/s?i=industrial&k=CR17335+3V+lithium+battery+CNC&tag=errorcodefixes-20)
 - [Digital multimeter for battery voltage check](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20)
 
 ## When to Call a Technician

@@ -42,8 +42,8 @@ Winterhalter is a premium German commercial dishwasher brand used in high-end re
 
 | Part | Notes |
 |------|-------|
-| Heating element | [Amazon](https://www.amazon.com/s?k=Heating+element&tag=errorcodefixes-20) \| For F3/F8 — match voltage and kW |
-| Wash pump impeller | [Amazon](https://www.amazon.com/s?k=Wash+pump+impeller&tag=errorcodefixes-20) \| For F5 if impeller is damaged |
+| Heating element | [Amazon](https://www.amazon.com/s?i=industrial&k=Heating+element&tag=errorcodefixes-20) \| For F3/F8 — match voltage and kW |
+| Wash pump impeller | [Amazon](https://www.amazon.com/s?i=industrial&k=Wash+pump+impeller&tag=errorcodefixes-20) \| For F5 if impeller is damaged |
 | Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| For F1 |
 ## When to Call a Pro
 

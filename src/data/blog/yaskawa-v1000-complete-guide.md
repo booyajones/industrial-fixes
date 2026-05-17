@@ -57,12 +57,12 @@ The Yaskawa V1000 is one of the most common compact VFDs in North American plant
 
 | Part | Notes |
 |------|-------|
-| Cooling fan | [Amazon](https://www.amazon.com/s?k=Cooling+fan&tag=errorcodefixes-20) \| Routine wear item on older V1000 drives |
-| Braking resistor | [Amazon](https://www.amazon.com/s?k=Braking+resistor&tag=errorcodefixes-20) \| Needed for fast stops on high-inertia loads |
-| Input fuses | [Amazon](https://www.amazon.com/s?k=Input+fuses&tag=errorcodefixes-20) \| Check all three for PF and UV1 events |
-| Motor cable | [Amazon](https://www.amazon.com/s?k=Motor+cable&tag=errorcodefixes-20) \| Replace if insulation tests low to ground |
-| Keypad / operator | [Amazon](https://www.amazon.com/s?k=Keypad+%2F+operator&tag=errorcodefixes-20) \| Useful if display or parameter access is unreliable |
-| Drive | [Amazon](https://www.amazon.com/s?k=Drive&tag=errorcodefixes-20) \| For CPF faults or repeated hardware trips after field wiring is confirmed |
+| Cooling fan | [Amazon](https://www.amazon.com/s?i=industrial&k=Cooling+fan&tag=errorcodefixes-20) \| Routine wear item on older V1000 drives |
+| Braking resistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Braking+resistor&tag=errorcodefixes-20) \| Needed for fast stops on high-inertia loads |
+| Input fuses | [Amazon](https://www.amazon.com/s?i=industrial&k=Input+fuses&tag=errorcodefixes-20) \| Check all three for PF and UV1 events |
+| Motor cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+cable&tag=errorcodefixes-20) \| Replace if insulation tests low to ground |
+| Keypad / operator | [Amazon](https://www.amazon.com/s?i=industrial&k=Keypad+%2F+operator&tag=errorcodefixes-20) \| Useful if display or parameter access is unreliable |
+| Drive | [Amazon](https://www.amazon.com/s?i=industrial&k=Drive&tag=errorcodefixes-20) \| For CPF faults or repeated hardware trips after field wiring is confirmed |
 ## When to Call a Pro
 
 Hardware faults like CPF control faults and repeated GF trips after motor isolation usually mean the drive needs bench repair or replacement. If the V1000 is running a critical machine, it is worth capturing parameters before swapping hardware so startup is faster.

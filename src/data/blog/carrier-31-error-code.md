@@ -49,8 +49,8 @@ description: "Carrier error code 31 means the pressure switch is stuck open or f
 | Part | Where to Buy | Typical Cost |
 |------|-------------|-------------|
 | Pressure switch (Carrier #HK06WC085 or HK06WC064) | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Carrier dealer, Johnstone Supply | $20–$50 |
-| Draft inducer assembly (Carrier #HC21ZE120A) | [Amazon](https://www.amazon.com/s?k=Draft+inducer+assembly+%28Carrier+%23HC21ZE120A%29&tag=errorcodefixes-20) \| RepairClinic, Carrier OEM | $120–$280 |
-| Condensate drain line kit | [Amazon](https://www.amazon.com/s?k=Condensate+drain+line+kit&tag=errorcodefixes-20) \| Home Depot, HVAC Supply | $10–$25 |
+| Draft inducer assembly (Carrier #HC21ZE120A) | [Amazon](https://www.amazon.com/s?i=industrial&k=Draft+inducer+assembly+%28Carrier+%23HC21ZE120A%29&tag=errorcodefixes-20) \| RepairClinic, Carrier OEM | $120–$280 |
+| Condensate drain line kit | [Amazon](https://www.amazon.com/s?i=industrial&k=Condensate+drain+line+kit&tag=errorcodefixes-20) \| Home Depot, HVAC Supply | $10–$25 |
 | Pressure switch hose (3/8" ID vinyl, sold by foot) | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| Any hardware store | $2–$5 |
 ## When to Call a Professional
 

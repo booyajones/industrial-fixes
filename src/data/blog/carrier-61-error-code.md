@@ -52,7 +52,7 @@ Rollout switches are thermal fuses mounted around the burner compartment. They t
 |---|---|
 | Rollout switch (replacement) | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| $15–40 |
 | Inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| $150–350 |
-| Heat exchanger (cell or full assembly) | [Amazon](https://www.amazon.com/s?k=Heat+exchanger+%28cell+or+full+assembly%29&tag=errorcodefixes-20) \| $300–1,200+ |
+| Heat exchanger (cell or full assembly) | [Amazon](https://www.amazon.com/s?i=industrial&k=Heat+exchanger+%28cell+or+full+assembly%29&tag=errorcodefixes-20) \| $300–1,200+ |
 | IFC board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| $100–300 |
 ## CO Safety Warning
 

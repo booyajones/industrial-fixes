@@ -52,7 +52,7 @@ This is the most common fault code on Navien's extensive line of residential and
 
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|-------------|
-| Navien Igniter (NPE-A/S) | BH2040180A | $50–$65 | [Amazon](https://www.amazon.com/s?k=BH2040180A+Navien+Igniter+%28NPE-A%2FS%29&tag=errorcodefixes-20) \| SupplyHouse / Amazon |
+| Navien Igniter (NPE-A/S) | BH2040180A | $50–$65 | [Amazon](https://www.amazon.com/s?i=industrial&k=BH2040180A+Navien+Igniter+%28NPE-A%2FS%29&tag=errorcodefixes-20) \| SupplyHouse / Amazon |
 | Navien Flame Sensor (Rod) | 30010972A | $25–$40 | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| SupplyHouse / Amazon |
 | Navien Gas Valve (NPE-A/S) | BH1680178A | $170–$200 | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| SupplyHouse / Navien Parts |
 | Navien Condensate Trap | 30011532A | $15–$25 | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) \| SupplyHouse |

@@ -66,7 +66,7 @@ The drain pan float switch activated — water level is too high. Vacuum out the
 
 | Part | Notes |
 |------|-------|
-| Indoor thermistor | [Amazon](https://www.amazon.com/s?k=Indoor+thermistor&tag=errorcodefixes-20) \| Samsung DB95-04544A or model-specific |
+| Indoor thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Indoor+thermistor&tag=errorcodefixes-20) \| Samsung DB95-04544A or model-specific |
 | Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Model-specific — note full model code |
 | Drain float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?tag=errorcodefixes-20) \| Samsung DB27-00018A or compatible |
 ## When to Call a Pro

@@ -47,11 +47,11 @@ Check current draw on all three phases with a clamp meter. Unbalanced loading, i
 
 | Part | Notes |
 |------|-------|
-| Oil separator element | [Amazon](https://www.amazon.com/s?k=Oil+separator+element&tag=errorcodefixes-20) \| Main PM part |
+| Oil separator element | [Amazon](https://www.amazon.com/s?i=industrial&k=Oil+separator+element&tag=errorcodefixes-20) \| Main PM part |
 | Air filter element | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| Replace per service schedule |
-| Oil filter cartridge | [Amazon](https://www.amazon.com/s?k=Oil+filter+cartridge&tag=errorcodefixes-20) \| Replace with separator |
+| Oil filter cartridge | [Amazon](https://www.amazon.com/s?i=industrial&k=Oil+filter+cartridge&tag=errorcodefixes-20) \| Replace with separator |
 | Temperature sensors (NTC) | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Common fault after heat cycles |
-| Inlet valve repair kit | [Amazon](https://www.amazon.com/s?k=Inlet+valve+repair+kit&tag=errorcodefixes-20) \| Sticking causes overloads |
+| Inlet valve repair kit | [Amazon](https://www.amazon.com/s?i=industrial&k=Inlet+valve+repair+kit&tag=errorcodefixes-20) \| Sticking causes overloads |
 ## When to Call a Pro
 If the compressor shuts down on high temperature after cooler cleaning and oil service, suspect airend discharge valve or screw wear. CompAir airend rebuilds require factory tooling and specifications.
 

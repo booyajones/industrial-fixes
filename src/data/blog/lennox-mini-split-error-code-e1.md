@@ -38,9 +38,9 @@ E1 on a Lennox mini split (MLA, MCA, or MPA series) signals a communication faul
 
 | Part | Notes |
 |------|-------|
-| S-wire / signal wire | [Amazon](https://www.amazon.com/s?k=S-wire+%2F+signal+wire&tag=errorcodefixes-20) \| 18 AWG, 2-conductor shielded recommended |
-| Outdoor control PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+control+PCB&tag=errorcodefixes-20) \| Lennox OEM; verify firmware compatibility |
-| Indoor control PCB | [Amazon](https://www.amazon.com/s?k=Indoor+control+PCB&tag=errorcodefixes-20) \| Replace only if outdoor board swap does not resolve |
+| S-wire / signal wire | [Amazon](https://www.amazon.com/s?i=industrial&k=S-wire+%2F+signal+wire&tag=errorcodefixes-20) \| 18 AWG, 2-conductor shielded recommended |
+| Outdoor control PCB | [Amazon](https://www.amazon.com/s?i=industrial&k=Outdoor+control+PCB&tag=errorcodefixes-20) \| Lennox OEM; verify firmware compatibility |
+| Indoor control PCB | [Amazon](https://www.amazon.com/s?i=industrial&k=Indoor+control+PCB&tag=errorcodefixes-20) \| Replace only if outdoor board swap does not resolve |
 ## When to Call a Pro
 
 If the outdoor PCB needs replacement, contact a Lennox dealer — Lennox warranty service and parts access often requires a registered contractor. Homeowners attempting PCB swaps on sealed outdoor units may also void equipment warranties.

@@ -56,7 +56,7 @@ Alto-Shaam manufactures commercial ovens including the Vector multi-cook oven an
 | Part | Notes |
 |------|-------|
 | RTD temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Alto-Shaam OEM — PT100 type |
-| Heating element | [Amazon](https://www.amazon.com/s?k=Heating+element&tag=errorcodefixes-20) \| Match to model voltage/wattage |
+| Heating element | [Amazon](https://www.amazon.com/s?i=industrial&k=Heating+element&tag=errorcodefixes-20) \| Match to model voltage/wattage |
 | Cavity fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Replace if blocked or bearing failed |
 | Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| For E-30 |
 ## When to Call a Pro

@@ -60,7 +60,7 @@ The Trane XV80 is an 80% AFUE, variable-speed gas furnace using an ECM blower mo
 |------|-------|
 | Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Common; cost ~$15–25 |
 | Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Silicon nitride, 120V; confirm part for XV80 |
-| ECM blower module | [Amazon](https://www.amazon.com/s?k=ECM+blower+module&tag=errorcodefixes-20) \| Fits behind the motor; test before replacing motor |
+| ECM blower module | [Amazon](https://www.amazon.com/s?i=industrial&k=ECM+blower+module&tag=errorcodefixes-20) \| Fits behind the motor; test before replacing motor |
 | Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match to inducer model and tubing port |
 | Rollout switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Investigate cause before replacing |
 | Control board (IFC) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For repeated unexplained lockouts |

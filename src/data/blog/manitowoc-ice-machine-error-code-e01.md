@@ -36,9 +36,9 @@ The Manitowoc Indigo series displays **E01** when the ice-making (freeze) cycle 
 
 | Part | Notes |
 |------|-------|
-| Refrigerant charge (R-404A or R-448A per model) | [Amazon](https://www.amazon.com/s?k=Refrigerant+charge+%28R-404A+or+R-448A+per+model%29&tag=errorcodefixes-20) \| Add only after locating and repairing leak; EPA Section 608 certification required |
-| Expansion valve (TXV) | [Amazon](https://www.amazon.com/s?k=Expansion+valve+%28TXV%29&tag=errorcodefixes-20) \| Replace if suction pressure is very low with normal refrigerant charge |
-| Evaporator cleaning kit | [Amazon](https://www.amazon.com/s?k=Evaporator+cleaning+kit&tag=errorcodefixes-20) \| Scale buildup on the evaporator slab can extend freeze times |
+| Refrigerant charge (R-404A or R-448A per model) | [Amazon](https://www.amazon.com/s?i=industrial&k=Refrigerant+charge+%28R-404A+or+R-448A+per+model%29&tag=errorcodefixes-20) \| Add only after locating and repairing leak; EPA Section 608 certification required |
+| Expansion valve (TXV) | [Amazon](https://www.amazon.com/s?i=industrial&k=Expansion+valve+%28TXV%29&tag=errorcodefixes-20) \| Replace if suction pressure is very low with normal refrigerant charge |
+| Evaporator cleaning kit | [Amazon](https://www.amazon.com/s?i=industrial&k=Evaporator+cleaning+kit&tag=errorcodefixes-20) \| Scale buildup on the evaporator slab can extend freeze times |
 ## When to Call a Pro
 
 E01 almost always requires refrigerant system diagnosis with manifold gauges. Refrigerant work requires EPA Section 608 certification. Don't attempt to add refrigerant without finding and fixing the leak first.

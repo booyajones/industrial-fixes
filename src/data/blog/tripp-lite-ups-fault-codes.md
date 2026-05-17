@@ -47,10 +47,10 @@ Tripp Lite SNMPWEBCARD or ENVIROSENSE network cards can fault after firmware upd
 
 | Part | Notes |
 |------|-------|
-| Replacement battery | [Amazon](https://www.amazon.com/s?k=Replacement+battery&tag=errorcodefixes-20) \| Size to UPS model - check label |
-| SNMPWEBCARD network card | [Amazon](https://www.amazon.com/s?k=SNMPWEBCARD+network+card&tag=errorcodefixes-20) \| Replace on communication fault |
-| Input/output fuses | [Amazon](https://www.amazon.com/s?k=Input%2Foutput+fuses&tag=errorcodefixes-20) \| Check after overload events |
-| Fan (SmartOnline large units) | [Amazon](https://www.amazon.com/s?k=Fan+%28SmartOnline+large+units%29&tag=errorcodefixes-20) \| Replace on overtemp fault |
+| Replacement battery | [Amazon](https://www.amazon.com/s?i=industrial&k=Replacement+battery&tag=errorcodefixes-20) \| Size to UPS model - check label |
+| SNMPWEBCARD network card | [Amazon](https://www.amazon.com/s?i=industrial&k=SNMPWEBCARD+network+card&tag=errorcodefixes-20) \| Replace on communication fault |
+| Input/output fuses | [Amazon](https://www.amazon.com/s?i=industrial&k=Input%2Foutput+fuses&tag=errorcodefixes-20) \| Check after overload events |
+| Fan (SmartOnline large units) | [Amazon](https://www.amazon.com/s?i=industrial&k=Fan+%28SmartOnline+large+units%29&tag=errorcodefixes-20) \| Replace on overtemp fault |
 ## When to Call a Pro
 Tripp Lite SmartOnline SU-series internal rectifier and inverter failures require service. Contact Tripp Lite technical support - they offer depot repair and advanced exchange on most models.
 

@@ -64,10 +64,10 @@ On ACS880: Use the Drive Composer PC tool for the full fault log, or navigate to
 
 | Part | Notes |
 |------|-------|
-| Input fuses | [Amazon](https://www.amazon.com/s?k=Input+fuses&tag=errorcodefixes-20) \| ABB class J or gR fuses; size per drive catalog |
-| Braking resistor | [Amazon](https://www.amazon.com/s?k=Braking+resistor&tag=errorcodefixes-20) \| ABB catalog OHBR or third-party sized per drive kW |
-| Cooling fan | [Amazon](https://www.amazon.com/s?k=Cooling+fan&tag=errorcodefixes-20) \| Drive-specific; ABB part for ACS550 fan: 68518560 |
-| Fieldbus adapter | [Amazon](https://www.amazon.com/s?k=Fieldbus+adapter&tag=errorcodefixes-20) \| FCAN-01 (CAN), FPBA-01 (Profibus), FENA-21 (EIP) |
+| Input fuses | [Amazon](https://www.amazon.com/s?i=industrial&k=Input+fuses&tag=errorcodefixes-20) \| ABB class J or gR fuses; size per drive catalog |
+| Braking resistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Braking+resistor&tag=errorcodefixes-20) \| ABB catalog OHBR or third-party sized per drive kW |
+| Cooling fan | [Amazon](https://www.amazon.com/s?i=industrial&k=Cooling+fan&tag=errorcodefixes-20) \| Drive-specific; ABB part for ACS550 fan: 68518560 |
+| Fieldbus adapter | [Amazon](https://www.amazon.com/s?i=industrial&k=Fieldbus+adapter&tag=errorcodefixes-20) \| FCAN-01 (CAN), FPBA-01 (Profibus), FENA-21 (EIP) |
 ## When to Call a Pro
 Faults 2201 (short circuit overcurrent) and any fault accompanied by a burning smell or blown fuses require qualified drive service. ABB's regional service centers offer warranty and post-warranty repair.
 

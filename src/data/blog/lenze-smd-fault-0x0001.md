@@ -40,9 +40,9 @@ tags:
 
 | Part | Notes |
 |------|-------|
-| VFD-rated motor cable | [Amazon](https://www.amazon.com/s?k=VFD-rated+motor+cable&tag=errorcodefixes-20) \| Replace damaged output cable |
-| Motor | [Amazon](https://www.amazon.com/s?k=Motor&tag=errorcodefixes-20) \| Replace if windings are shorted or grounded |
-| Lenze SMD drive | [Amazon](https://www.amazon.com/s?k=Lenze+SMD+drive&tag=errorcodefixes-20) \| Replace if output stage is failed |
+| VFD-rated motor cable | [Amazon](https://www.amazon.com/s?i=industrial&k=VFD-rated+motor+cable&tag=errorcodefixes-20) \| Replace damaged output cable |
+| Motor | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor&tag=errorcodefixes-20) \| Replace if windings are shorted or grounded |
+| Lenze SMD drive | [Amazon](https://www.amazon.com/s?i=industrial&k=Lenze+SMD+drive&tag=errorcodefixes-20) \| Replace if output stage is failed |
 ## When to Call a Pro
 
 If you have correct parameters, a free-turning load, and a clean megger test but 0x0001 still occurs, the drive itself is probably damaged internally.

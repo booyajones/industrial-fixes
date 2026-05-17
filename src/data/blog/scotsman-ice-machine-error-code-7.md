@@ -37,7 +37,7 @@ Error Code 7 on Scotsman ice machines (particularly Q-Series and Prodigy models)
 | Part | Notes |
 |------|-------|
 | Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| Match to Scotsman model number |
-| Inline water filter | [Amazon](https://www.amazon.com/s?k=Inline+water+filter&tag=errorcodefixes-20) \| Replace if clogged; change every 6 months |
+| Inline water filter | [Amazon](https://www.amazon.com/s?i=industrial&k=Inline+water+filter&tag=errorcodefixes-20) \| Replace if clogged; change every 6 months |
 ## When to Call a Pro
 
 If valve, screen, and supply pressure are all confirmed good and Code 7 persists, the water level probe or control board needs diagnosis by a certified refrigeration technician.

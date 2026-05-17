@@ -40,10 +40,10 @@ tags:
 
 | Part | Notes |
 |------|-------|
-| Carousel proximity switch | [Amazon](https://www.amazon.com/s?k=Carousel+proximity+switch&tag=errorcodefixes-20) \| Replace if position is not detected |
-| Tool pocket hardware | [Amazon](https://www.amazon.com/s?k=Tool+pocket+hardware&tag=errorcodefixes-20) \| Bent pockets or dogs must be replaced |
-| Carousel drive motor | [Amazon](https://www.amazon.com/s?k=Carousel+drive+motor&tag=errorcodefixes-20) \| If weak or stalled under normal load |
-| Air regulator parts | [Amazon](https://www.amazon.com/s?k=Air+regulator+parts&tag=errorcodefixes-20) \| If pneumatic assist is weak |
+| Carousel proximity switch | [Amazon](https://www.amazon.com/s?i=industrial&k=Carousel+proximity+switch&tag=errorcodefixes-20) \| Replace if position is not detected |
+| Tool pocket hardware | [Amazon](https://www.amazon.com/s?i=industrial&k=Tool+pocket+hardware&tag=errorcodefixes-20) \| Bent pockets or dogs must be replaced |
+| Carousel drive motor | [Amazon](https://www.amazon.com/s?i=industrial&k=Carousel+drive+motor&tag=errorcodefixes-20) \| If weak or stalled under normal load |
+| Air regulator parts | [Amazon](https://www.amazon.com/s?i=industrial&k=Air+regulator+parts&tag=errorcodefixes-20) \| If pneumatic assist is weak |
 ## When to Call a Pro
 
 If the carousel repeatedly stops between positions or the magazine is physically damaged, deeper alignment and changer timing work may be required.

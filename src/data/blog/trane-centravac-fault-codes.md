@@ -51,10 +51,10 @@ The Trane CenTraVac (CVHE, CVHF, CVHG series) is a water-cooled centrifugal chil
 
 | Part | Notes |
 |------|-------|
-| Flow switch (chilled or condenser side) | [Amazon](https://www.amazon.com/s?k=Flow+switch+%28chilled+or+condenser+side%29&tag=errorcodefixes-20) \| Trane OEM preferred; confirm differential pressure setpoint |
-| Oil pump | [Amazon](https://www.amazon.com/s?k=Oil+pump&tag=errorcodefixes-20) \| For persistent oil pressure faults with correct oil level |
-| Purge unit components | [Amazon](https://www.amazon.com/s?k=Purge+unit+components&tag=errorcodefixes-20) \| Purge compressor, desiccant, and purge valves — annual service item |
-| Condenser tube brush set | [Amazon](https://www.amazon.com/s?k=Condenser+tube+brush+set&tag=errorcodefixes-20) \| For tube fouling cleaning |
+| Flow switch (chilled or condenser side) | [Amazon](https://www.amazon.com/s?i=industrial&k=Flow+switch+%28chilled+or+condenser+side%29&tag=errorcodefixes-20) \| Trane OEM preferred; confirm differential pressure setpoint |
+| Oil pump | [Amazon](https://www.amazon.com/s?i=industrial&k=Oil+pump&tag=errorcodefixes-20) \| For persistent oil pressure faults with correct oil level |
+| Purge unit components | [Amazon](https://www.amazon.com/s?i=industrial&k=Purge+unit+components&tag=errorcodefixes-20) \| Purge compressor, desiccant, and purge valves — annual service item |
+| Condenser tube brush set | [Amazon](https://www.amazon.com/s?i=industrial&k=Condenser+tube+brush+set&tag=errorcodefixes-20) \| For tube fouling cleaning |
 ## When to Call a Pro
 
 CenTraVac chillers are high-value, complex machines — a single diagnostic mistake can cause compressor damage worth hundreds of thousands of dollars. All refrigerant work (including non-condensable purging), oil analysis, and shaft seal service must be performed by Trane-certified technicians using the Tracer CH530 service software. Never attempt to add refrigerant to a CenTraVac without a full leak test and Trane engineering authorization.

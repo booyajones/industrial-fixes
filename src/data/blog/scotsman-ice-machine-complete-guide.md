@@ -68,8 +68,8 @@ Prodigy+ models have an automatic cleaning cycle. When "Clean" appears, the mach
 | Part | Notes |
 |------|-------|
 | Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| Inspect on E5 faults |
-| Harvest heater | [Amazon](https://www.amazon.com/s?k=Harvest+heater&tag=errorcodefixes-20) \| Test on E3 faults |
-| Thermistor (bin or evap) | [Amazon](https://www.amazon.com/s?k=Thermistor+%28bin+or+evap%29&tag=errorcodefixes-20) \| Replace on E8 sensor faults |
+| Harvest heater | [Amazon](https://www.amazon.com/s?i=industrial&k=Harvest+heater&tag=errorcodefixes-20) \| Test on E3 faults |
+| Thermistor (bin or evap) | [Amazon](https://www.amazon.com/s?i=industrial&k=Thermistor+%28bin+or+evap%29&tag=errorcodefixes-20) \| Replace on E8 sensor faults |
 | Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Replace on high temp faults |
 ## Jump to Fix
 

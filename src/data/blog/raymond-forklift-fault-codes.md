@@ -47,11 +47,11 @@ Safety faults on Raymond forklifts include unintended movement detection and ope
 
 | Part | Notes |
 |------|-------|
-| Drive motor encoder | [Amazon](https://www.amazon.com/s?k=Drive+motor+encoder&tag=errorcodefixes-20) \| Replace on 105 fault |
-| Operator presence switch | [Amazon](https://www.amazon.com/s?k=Operator+presence+switch&tag=errorcodefixes-20) \| Replace on 601 fault |
-| Brake coil | [Amazon](https://www.amazon.com/s?k=Brake+coil&tag=errorcodefixes-20) \| Replace on brake fault |
-| Battery connector | [Amazon](https://www.amazon.com/s?k=Battery+connector&tag=errorcodefixes-20) \| Replace on 505 fault |
-| Drive controller | [Amazon](https://www.amazon.com/s?k=Drive+controller&tag=errorcodefixes-20) \| Replace on persistent 100-series fault |
+| Drive motor encoder | [Amazon](https://www.amazon.com/s?i=industrial&k=Drive+motor+encoder&tag=errorcodefixes-20) \| Replace on 105 fault |
+| Operator presence switch | [Amazon](https://www.amazon.com/s?i=industrial&k=Operator+presence+switch&tag=errorcodefixes-20) \| Replace on 601 fault |
+| Brake coil | [Amazon](https://www.amazon.com/s?i=industrial&k=Brake+coil&tag=errorcodefixes-20) \| Replace on brake fault |
+| Battery connector | [Amazon](https://www.amazon.com/s?i=industrial&k=Battery+connector&tag=errorcodefixes-20) \| Replace on 505 fault |
+| Drive controller | [Amazon](https://www.amazon.com/s?i=industrial&k=Drive+controller&tag=errorcodefixes-20) \| Replace on persistent 100-series fault |
 ## When to Call a Pro
 Raymond's Service Advisor tool and calibration procedures are dealer-only. Safety system faults (900-series) must be investigated and cleared by Raymond-authorized service.
 

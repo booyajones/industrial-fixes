@@ -15,7 +15,7 @@ tags:
 
 Mitsubishi mini-split error codes appear on the indoor unit's LED display and on the wireless remote controller. Codes fall into three families: **E-codes** (communication and sensor faults), **U-codes** (protection/system faults), and **P-codes** (abnormal operation faults). Retrieve codes by pressing the CHECK button on the remote or observing the fault display on the indoor unit.
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |------|---------|-----------|
 | E1 | Indoor/outdoor communication fault | Check signal wire connections |
 | E3 | Indoor PCB fault | Replace indoor PCB |

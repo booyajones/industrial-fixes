@@ -52,10 +52,10 @@ Notifier uses plug-in modules (NAC, relay, control-by-event). A module trouble i
 
 | Part | Notes |
 |------|-------|
-| Battery (12V 7Ah or 12V 18Ah) | [Amazon](https://www.amazon.com/s?k=Battery+%2812V+7Ah+or+12V+18Ah%29&tag=errorcodefixes-20) \| Replace if below 80% capacity |
-| Smoke detector head | [Amazon](https://www.amazon.com/s?k=Smoke+detector+head&tag=errorcodefixes-20) \| Replace FAPT/FSP heads periodically |
-| End-of-line device (EOLR) | [Amazon](https://www.amazon.com/s?k=End-of-line+device+%28EOLR%29&tag=errorcodefixes-20) \| Required on all NAC circuits |
-| SLC loop card | [Amazon](https://www.amazon.com/s?k=SLC+loop+card&tag=errorcodefixes-20) \| Replace on persistent loop faults |
+| Battery (12V 7Ah or 12V 18Ah) | [Amazon](https://www.amazon.com/s?i=industrial&k=Battery+%2812V+7Ah+or+12V+18Ah%29&tag=errorcodefixes-20) \| Replace if below 80% capacity |
+| Smoke detector head | [Amazon](https://www.amazon.com/s?i=industrial&k=Smoke+detector+head&tag=errorcodefixes-20) \| Replace FAPT/FSP heads periodically |
+| End-of-line device (EOLR) | [Amazon](https://www.amazon.com/s?i=industrial&k=End-of-line+device+%28EOLR%29&tag=errorcodefixes-20) \| Required on all NAC circuits |
+| SLC loop card | [Amazon](https://www.amazon.com/s?i=industrial&k=SLC+loop+card&tag=errorcodefixes-20) \| Replace on persistent loop faults |
 ## Jump to Fix
 
 - **Device missing** → Walk to device location → Reseat detector → Check wiring

@@ -68,7 +68,7 @@ The pressure switch is a safety device that verifies the inducer motor is creati
 - [Furnace pressure switch hose tubing](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20)
 - [York inducer motor replacement](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20)
 - [Furnace inducer motor capacitor](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20)
-- [Condensate drain line clear kit](https://www.amazon.com/s?k=condensate+drain+line+clear+kit&tag=errorcodefixes-20)
+- [Condensate drain line clear kit](https://www.amazon.com/s?i=industrial&k=condensate+drain+line+clear+kit&tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

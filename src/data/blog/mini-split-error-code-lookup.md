@@ -52,11 +52,11 @@ Mini split error codes vary wildly by brand, but the same themes repeat: communi
 
 | Part | Notes |
 |---|---|
-| Thermistor | [Amazon](https://www.amazon.com/s?k=Thermistor&tag=errorcodefixes-20) \| Common, relatively inexpensive failure |
+| Thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Thermistor&tag=errorcodefixes-20) \| Common, relatively inexpensive failure |
 | Indoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| For fan lock errors |
-| Drain pump | [Amazon](https://www.amazon.com/s?k=Drain+pump&tag=errorcodefixes-20) \| On ceiling cassette and concealed units |
-| Communication cable | [Amazon](https://www.amazon.com/s?k=Communication+cable&tag=errorcodefixes-20) \| Wiring mistakes are common |
-| Outdoor board | [Amazon](https://www.amazon.com/s?k=Outdoor+board&tag=errorcodefixes-20) \| Only after sensor/wiring checks |
+| Drain pump | [Amazon](https://www.amazon.com/s?i=industrial&k=Drain+pump&tag=errorcodefixes-20) \| On ceiling cassette and concealed units |
+| Communication cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Communication+cable&tag=errorcodefixes-20) \| Wiring mistakes are common |
+| Outdoor board | [Amazon](https://www.amazon.com/s?i=industrial&k=Outdoor+board&tag=errorcodefixes-20) \| Only after sensor/wiring checks |
 ## When to Call a Pro
 
 Most mini splits require manufacturer-specific service mode access to diagnose fully. If the code suggests inverter, compressor, or refrigerant faults, use a qualified ductless technician with the correct brand documentation.

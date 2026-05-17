@@ -37,7 +37,7 @@ LG mini split error code CH02 indicates an outdoor unit temperature sensor fault
 | Part | Notes |
 |------|-------|
 | Outdoor ambient temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Match the correct resistance curve; LG uses several variants |
-| Sensor wire harness | [Amazon](https://www.amazon.com/s?k=Sensor+wire+harness&tag=errorcodefixes-20) \| Replace full harness if wire damage is extensive |
+| Sensor wire harness | [Amazon](https://www.amazon.com/s?i=industrial&k=Sensor+wire+harness&tag=errorcodefixes-20) \| Replace full harness if wire damage is extensive |
 | Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Last resort; only after sensor and wiring are confirmed good |
 ## When to Call a Pro
 

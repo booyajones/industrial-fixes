@@ -85,11 +85,11 @@ The Prodigy control tracks operating hours and activates the clean reminder at p
 
 | Part | Use | Buy on Amazon |
 |------|-----|---------------|
-| Scotsman Scale Remover (32 oz) | Clear scale causing harvest faults, sensor misreads | [View on Amazon](https://www.amazon.com/s?k=scotsman+scale+remover+ice+machine&tag=errorcodefixes-20) |
-| Scotsman Ice Machine Sanitizer | Use after scale treatment every clean cycle | [View on Amazon](https://www.amazon.com/s?k=scotsman+ice+machine+sanitizer&tag=errorcodefixes-20) |
-| 10K NTC Thermistor Replacement Sensor | Replace sensor for Code 4 | [View on Amazon](https://www.amazon.com/s?k=10k+ntc+thermistor+replacement+ice+machine&tag=errorcodefixes-20) |
-| Bin Thermostat / Thermistor (Scotsman Prodigy) | Fix false Code 8 (bin full when empty) | [View on Amazon](https://www.amazon.com/s?k=scotsman+prodigy+bin+thermostat+replacement&tag=errorcodefixes-20) |
-| Condenser Coil Brush (7" wide) | Clean undercounter condenser coil | [View on Amazon](https://www.amazon.com/s?k=condenser+coil+cleaning+brush+refrigeration&tag=errorcodefixes-20) |
+| Scotsman Scale Remover (32 oz) | Clear scale causing harvest faults, sensor misreads | [View on Amazon](https://www.amazon.com/s?i=industrial&k=scotsman+scale+remover+ice+machine&tag=errorcodefixes-20) |
+| Scotsman Ice Machine Sanitizer | Use after scale treatment every clean cycle | [View on Amazon](https://www.amazon.com/s?i=industrial&k=scotsman+ice+machine+sanitizer&tag=errorcodefixes-20) |
+| 10K NTC Thermistor Replacement Sensor | Replace sensor for Code 4 | [View on Amazon](https://www.amazon.com/s?i=industrial&k=10k+ntc+thermistor+replacement+ice+machine&tag=errorcodefixes-20) |
+| Bin Thermostat / Thermistor (Scotsman Prodigy) | Fix false Code 8 (bin full when empty) | [View on Amazon](https://www.amazon.com/s?i=industrial&k=scotsman+prodigy+bin+thermostat+replacement&tag=errorcodefixes-20) |
+| Condenser Coil Brush (7" wide) | Clean undercounter condenser coil | [View on Amazon](https://www.amazon.com/s?i=industrial&k=condenser+coil+cleaning+brush+refrigeration&tag=errorcodefixes-20) |
 
 ## When to Call a Pro
 

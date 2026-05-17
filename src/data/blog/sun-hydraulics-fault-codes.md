@@ -47,11 +47,11 @@ In mobile equipment, hydraulic oil temperature control relies on adequate fan co
 
 | Part | Notes |
 |------|-------|
-| Deutsch DT connector pins | [Amazon](https://www.amazon.com/s?k=Deutsch+DT+connector+pins&tag=errorcodefixes-20) \| Most common fault location |
-| Solenoid coil (12VDC or 24VDC) | [Amazon](https://www.amazon.com/s?k=Solenoid+coil+%2812VDC+or+24VDC%29&tag=errorcodefixes-20) \| Replace on short/open |
-| Pressure transducer | [Amazon](https://www.amazon.com/s?k=Pressure+transducer&tag=errorcodefixes-20) \| Replace on signal fault |
-| CAN bus termination resistor | [Amazon](https://www.amazon.com/s?k=CAN+bus+termination+resistor&tag=errorcodefixes-20) \| 120 ohm |
-| Murphy display module | [Amazon](https://www.amazon.com/s?k=Murphy+display+module&tag=errorcodefixes-20) \| Replace on screen or power faults |
+| Deutsch DT connector pins | [Amazon](https://www.amazon.com/s?i=industrial&k=Deutsch+DT+connector+pins&tag=errorcodefixes-20) \| Most common fault location |
+| Solenoid coil (12VDC or 24VDC) | [Amazon](https://www.amazon.com/s?i=industrial&k=Solenoid+coil+%2812VDC+or+24VDC%29&tag=errorcodefixes-20) \| Replace on short/open |
+| Pressure transducer | [Amazon](https://www.amazon.com/s?i=industrial&k=Pressure+transducer&tag=errorcodefixes-20) \| Replace on signal fault |
+| CAN bus termination resistor | [Amazon](https://www.amazon.com/s?i=industrial&k=CAN+bus+termination+resistor&tag=errorcodefixes-20) \| 120 ohm |
+| Murphy display module | [Amazon](https://www.amazon.com/s?i=industrial&k=Murphy+display+module&tag=errorcodefixes-20) \| Replace on screen or power faults |
 ## When to Call a Pro
 Enovation/Murphy controller calibration for load-sensing systems and proportional valve flow tuning requires factory documentation. Incorrect calibration causes erratic machine motion.
 

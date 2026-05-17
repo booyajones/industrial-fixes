@@ -37,8 +37,8 @@ Danfoss alarm AL 14 is a **Ground Fault** — the drive detected significant cur
 
 | Part | Notes |
 |------|-------|
-| Motor (rewound or replacement) | [Amazon](https://www.amazon.com/s?k=Motor+%28rewound+or+replacement%29&tag=errorcodefixes-20) \| If insulation resistance is below 1 MΩ |
-| Output power cable | [Amazon](https://www.amazon.com/s?k=Output+power+cable&tag=errorcodefixes-20) \| Shielded, rated for VFD output; replace if megger test shows insulation damage |
+| Motor (rewound or replacement) | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+%28rewound+or+replacement%29&tag=errorcodefixes-20) \| If insulation resistance is below 1 MΩ |
+| Output power cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Output+power+cable&tag=errorcodefixes-20) \| Shielded, rated for VFD output; replace if megger test shows insulation damage |
 ## When to Call a Pro
 
 If AL 14 persists with the motor disconnected, the drive itself has a faulty output stage. Danfoss IGBT replacement requires specialized soldering and testing equipment. Contact Danfoss service or a certified drive repair shop — do not attempt internal drive repair without proper training.

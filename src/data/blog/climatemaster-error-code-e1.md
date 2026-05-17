@@ -83,7 +83,7 @@ ClimateMaster Aurora control boards:
 | Part | Notes |
 |---|---|
 | High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| ClimateMaster part 65D83 or equivalent |
-| TXV valve | [Amazon](https://www.amazon.com/s?k=TXV+valve&tag=errorcodefixes-20) \| Must match capacity and refrigerant type |
+| TXV valve | [Amazon](https://www.amazon.com/s?i=industrial&k=TXV+valve&tag=errorcodefixes-20) \| Must match capacity and refrigerant type |
 | Blower run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Match µF and voltage rating |
-| Loop pump | [Amazon](https://www.amazon.com/s?k=Loop+pump&tag=errorcodefixes-20) \| Check flow rate — minimum 1.5 GPM/ton |
+| Loop pump | [Amazon](https://www.amazon.com/s?i=industrial&k=Loop+pump&tag=errorcodefixes-20) \| Check flow rate — minimum 1.5 GPM/ton |
 > **Pro tip:** Persistent E1 faults during summer despite correct equipment operation usually indicate an undersized or overloaded ground loop. A ground loop flush and purge to remove air can sometimes improve loop performance.

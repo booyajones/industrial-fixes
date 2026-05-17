@@ -42,7 +42,7 @@ True Refrigeration error code E6 is commonly a high box temperature alarm. The c
 | Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Replace if the motor is slow, noisy, or stalled |
 | Evaporator fan motor | [Amazon](https://www.amazon.com/dp/B01N0J3ZEH?tag=errorcodefixes-20) \| Loss of box airflow drives warm product temps fast |
 | Door gasket | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?tag=errorcodefixes-20) \| Match the cabinet series and door size |
-| Temperature probe | [Amazon](https://www.amazon.com/s?k=true+refrigeration+temperature+probe&tag=errorcodefixes-20) \| Replace if display temperature does not match actual box temp |
+| Temperature probe | [Amazon](https://www.amazon.com/s?i=industrial&k=true+refrigeration+temperature+probe&tag=errorcodefixes-20) \| Replace if display temperature does not match actual box temp |
 
 ## When to Call a Pro
 

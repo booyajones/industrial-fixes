@@ -454,6 +454,6 @@ Always order Makino parts by machine serial number and control generation. The s
 
 Find replacement parts for Makino CNC machining centers on Amazon:
 
-- [Makino CNC Machine Parts](https://www.amazon.com/s?k=Makino+CNC+machine+parts&tag=errorcodefixes-20)
-- [CNC Pallet Changer Sensor & Proximity Switch](https://www.amazon.com/s?k=CNC+pallet+changer+proximity+switch&tag=errorcodefixes-20)
-- [CNC Spindle Coolant Through-Spindle Filter](https://www.amazon.com/s?k=CNC+through+spindle+coolant+filter&tag=errorcodefixes-20)
+- [Makino CNC Machine Parts](https://www.amazon.com/s?i=industrial&k=Makino+CNC+machine+parts&tag=errorcodefixes-20)
+- [CNC Pallet Changer Sensor & Proximity Switch](https://www.amazon.com/s?i=industrial&k=CNC+pallet+changer+proximity+switch&tag=errorcodefixes-20)
+- [CNC Spindle Coolant Through-Spindle Filter](https://www.amazon.com/s?i=industrial&k=CNC+through+spindle+coolant+filter&tag=errorcodefixes-20)

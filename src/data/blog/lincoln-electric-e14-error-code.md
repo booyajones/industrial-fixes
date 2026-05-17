@@ -36,8 +36,8 @@ The E14 fault on Lincoln Electric welders indicates an input voltage fault — t
 
 | Part | Notes |
 |------|-------|
-| Input voltage selector switch | [Amazon](https://www.amazon.com/s?k=Input+voltage+selector+switch&tag=errorcodefixes-20) \| Replace if damaged or contacts are pitted |
-| Line filter / EMI filter | [Amazon](https://www.amazon.com/s?k=Line+filter+%2F+EMI+filter&tag=errorcodefixes-20) \| If power quality is poor and causing recurring E14 |
+| Input voltage selector switch | [Amazon](https://www.amazon.com/s?i=industrial&k=Input+voltage+selector+switch&tag=errorcodefixes-20) \| Replace if damaged or contacts are pitted |
+| Line filter / EMI filter | [Amazon](https://www.amazon.com/s?i=industrial&k=Line+filter+%2F+EMI+filter&tag=errorcodefixes-20) \| If power quality is poor and causing recurring E14 |
 | Input contactor / rectifier module | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| If fault persists after confirming correct input voltage |
 ## When to Call a Pro
 

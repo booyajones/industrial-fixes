@@ -37,8 +37,8 @@ The Hoshizaki **E8 error code** indicates a **low-side pressure switch fault** â
 | Part | Notes |
 |------|-------|
 | Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Replace if switch tests open at normal operating pressure |
-| Refrigerant charge (R-404A, R-448A per model) | [Amazon](https://www.amazon.com/s?k=Refrigerant+charge+%28R-404A%2C+R-448A+per+model%29&tag=errorcodefixes-20) \| Add only after finding and fixing the leak; EPA 608 certification required |
-| Evaporator descaler (Hoshizaki Scale-Away) | [Amazon](https://www.amazon.com/s?k=Evaporator+descaler+%28Hoshizaki+Scale-Away%29&tag=errorcodefixes-20) \| Use if evaporator is heavily scaled, contributing to poor freeze performance |
+| Refrigerant charge (R-404A, R-448A per model) | [Amazon](https://www.amazon.com/s?i=industrial&k=Refrigerant+charge+%28R-404A%2C+R-448A+per+model%29&tag=errorcodefixes-20) \| Add only after finding and fixing the leak; EPA 608 certification required |
+| Evaporator descaler (Hoshizaki Scale-Away) | [Amazon](https://www.amazon.com/s?i=industrial&k=Evaporator+descaler+%28Hoshizaki+Scale-Away%29&tag=errorcodefixes-20) \| Use if evaporator is heavily scaled, contributing to poor freeze performance |
 ## When to Call a Pro
 
 E8 from low refrigerant is a certified-technician job. EPA Section 608 certification is required to purchase and handle refrigerant. A tech will locate the leak, repair it, evacuate, and recharge to the nameplate specification.

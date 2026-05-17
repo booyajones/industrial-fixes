@@ -23,26 +23,26 @@ Bradford White uses an LED status light on the gas control valve. Code 7 is **7 
 
 Bradford White status LED (on the gas valve body, visible through the front panel):
 
-| [Flashes](https://www.amazon.com/s?k=Flashes&tag=errorcodefixes-20) | Meaning |
+| [Flashes](https://www.amazon.com/s?i=industrial&k=Flashes&tag=errorcodefixes-20) | Meaning |
 |---|---|
-| [1 flash](https://www.amazon.com/s?k=1+flash&tag=errorcodefixes-20) | Normal pilot operation |
-| [2 flashes](https://www.amazon.com/s?k=2+flashes&tag=errorcodefixes-20) | Low thermopile voltage |
-| [3 flashes](https://www.amazon.com/s?k=3+flashes&tag=errorcodefixes-20) | Pressure switch fault (power vent models) |
-| [4 flashes](https://www.amazon.com/s?k=4+flashes&tag=errorcodefixes-20) | High limit exceeded |
-| [5 flashes](https://www.amazon.com/s?k=5+flashes&tag=errorcodefixes-20) | Flame sense without call for heat |
-| [6 flashes](https://www.amazon.com/s?k=6+flashes&tag=errorcodefixes-20) | Thermal well/temperature sensor fault |
-| [7 flashes](https://www.amazon.com/s?k=7+flashes&tag=errorcodefixes-20) | **Pilot out / pilot not proved** |
+| [1 flash](https://www.amazon.com/s?i=industrial&k=1+flash&tag=errorcodefixes-20) | Normal pilot operation |
+| [2 flashes](https://www.amazon.com/s?i=industrial&k=2+flashes&tag=errorcodefixes-20) | Low thermopile voltage |
+| [3 flashes](https://www.amazon.com/s?i=industrial&k=3+flashes&tag=errorcodefixes-20) | Pressure switch fault (power vent models) |
+| [4 flashes](https://www.amazon.com/s?i=industrial&k=4+flashes&tag=errorcodefixes-20) | High limit exceeded |
+| [5 flashes](https://www.amazon.com/s?i=industrial&k=5+flashes&tag=errorcodefixes-20) | Flame sense without call for heat |
+| [6 flashes](https://www.amazon.com/s?i=industrial&k=6+flashes&tag=errorcodefixes-20) | Thermal well/temperature sensor fault |
+| [7 flashes](https://www.amazon.com/s?i=industrial&k=7+flashes&tag=errorcodefixes-20) | **Pilot out / pilot not proved** |
 
 ## Why the Pilot Goes Out
 
 | Cause | Notes |
 |---|---|
-| [Pilot simply went out](https://www.amazon.com/s?k=Pilot+simply+went+out&tag=errorcodefixes-20) | Wind, draft, momentary gas interruption |
+| [Pilot simply went out](https://www.amazon.com/s?i=industrial&k=Pilot+simply+went+out&tag=errorcodefixes-20) | Wind, draft, momentary gas interruption |
 | [Failed thermocouple](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) | Most common — generates millivolts to hold gas valve open |
-| [Gas supply interrupted](https://www.amazon.com/s?k=Gas+supply+interrupted&tag=errorcodefixes-20) | Check main shutoff and other appliances |
-| [Clogged pilot orifice](https://www.amazon.com/s?k=Clogged+pilot+orifice&tag=errorcodefixes-20) | Carbon or debris blocking tiny pilot orifice |
+| [Gas supply interrupted](https://www.amazon.com/s?i=industrial&k=Gas+supply+interrupted&tag=errorcodefixes-20) | Check main shutoff and other appliances |
+| [Clogged pilot orifice](https://www.amazon.com/s?i=industrial&k=Clogged+pilot+orifice&tag=errorcodefixes-20) | Carbon or debris blocking tiny pilot orifice |
 | [Dirty thermocouple tip](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) | Oxide coating prevents proper voltage |
-| [Draft/downdraft](https://www.amazon.com/s?k=Draft%2Fdowndraft&tag=errorcodefixes-20) | Improper venting or negative pressure in space |
+| [Draft/downdraft](https://www.amazon.com/s?i=industrial&k=Draft%2Fdowndraft&tag=errorcodefixes-20) | Improper venting or negative pressure in space |
 
 ## How to Relight the Pilot
 

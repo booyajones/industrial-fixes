@@ -40,7 +40,7 @@ Three LED flashes on an American Standard furnace indicates a pressure switch fa
 |------|-------|
 | Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match to furnace model; verify opening/closing pressure setpoint |
 | Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| Replace cracked or collapsed hose; typically 5/16" ID rubber tubing |
-| Condensate drain trap | [Amazon](https://www.amazon.com/s?k=Condensate+drain+trap&tag=errorcodefixes-20) \| Replace if cracked or clogged beyond cleaning |
+| Condensate drain trap | [Amazon](https://www.amazon.com/s?i=industrial&k=Condensate+drain+trap&tag=errorcodefixes-20) \| Replace if cracked or clogged beyond cleaning |
 | Draft inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Replace if motor bearings are failing or wheel is corroded |
 ## When to Call a Pro
 

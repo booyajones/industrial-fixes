@@ -37,7 +37,7 @@ E1-01 on a Samsung mini-split (Wind-Free, AR series, and multi-zone systems) ind
 | Part | Notes |
 |------|-------|
 | Outdoor ambient temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Samsung OEM; 10 kΩ NTC thermistor; match connector |
-| Sensor harness/extension wire | [Amazon](https://www.amazon.com/s?k=Sensor+harness%2Fextension+wire&tag=errorcodefixes-20) \| If wire run is damaged |
+| Sensor harness/extension wire | [Amazon](https://www.amazon.com/s?i=industrial&k=Sensor+harness%2Fextension+wire&tag=errorcodefixes-20) \| If wire run is damaged |
 | Outdoor control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Only if sensor input circuit is confirmed failed on the board |
 ## When to Call a Pro
 

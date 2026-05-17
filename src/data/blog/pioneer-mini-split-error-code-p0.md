@@ -41,7 +41,7 @@ P0 on a Pioneer mini split indicates a high pressure protection fault. The high-
 | Condenser fan run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Most common cause of fan-not-running high-pressure faults |
 | Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Replace if capacitor check is good but motor is seized |
 | High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Replace if opens below rated cutout pressure |
-| Refrigerant (R-410A) | [Amazon](https://www.amazon.com/s?k=Refrigerant+%28R-410A%29&tag=errorcodefixes-20) \| Adjust charge only via certified technician with gauges |
+| Refrigerant (R-410A) | [Amazon](https://www.amazon.com/s?i=industrial&k=Refrigerant+%28R-410A%29&tag=errorcodefixes-20) \| Adjust charge only via certified technician with gauges |
 ## When to Call a Pro
 
 Persistent P0 faults after coil cleaning and fan motor verification require manifold gauge diagnosis to check system pressures and refrigerant charge. This work requires EPA Section 608 certification.

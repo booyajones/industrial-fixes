@@ -43,7 +43,7 @@ Tyler Refrigeration (a brand under the Hill Phoenix / Dover Corporation umbrella
 | Evaporator fan motor | [Amazon](https://www.amazon.com/dp/B01N0J3ZEH?tag=errorcodefixes-20) \| Match voltage, RPM, and blade diameter from existing motor |
 | Temperature sensor (NTC thermistor) | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Match resistance specification — usually 10K ohm at 77°F |
 | Door gasket set | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?tag=errorcodefixes-20) \| Match case model number for correct gasket profile |
-| Filter drier | [Amazon](https://www.amazon.com/s?k=Filter+drier&tag=errorcodefixes-20) \| Replace whenever refrigerant circuit is opened |
+| Filter drier | [Amazon](https://www.amazon.com/s?i=industrial&k=Filter+drier&tag=errorcodefixes-20) \| Replace whenever refrigerant circuit is opened |
 ## When to Call a Pro
 
 Any refrigerant-side diagnosis (low charge, compressor failure) requires EPA 608 certification. For supermarket cases on a centralized rack system, the refrigeration contractor managing the store's mechanical room should be contacted — adjustments at the rack affect all cases on that circuit.

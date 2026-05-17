@@ -51,7 +51,7 @@ OC is distinct from Yaskawa's OL1 (motor overload) and OL2 (drive overload) faul
 
 | Part | Part Number | Typical Cost | Where to Buy | ------ | ------------ | ------------- | ------------- |  | Yaskawa dV/dt Output Filter | LCRD series (size by drive A) | $150–$600 | Yaskawa distributor |
 |------|------|------|------|------|------|------|------|------|------|------|------|------|
-| Inverter-duty Motor | NEMA MG1 Part 31 rated | $300–$2000+ | [Amazon](https://www.amazon.com/s?k=NEMA+MG1+Part+31+rated+NEMA+MG1+Part+31+rated&tag=errorcodefixes-20) \| Grainger / motor shop | Replacement J1000 Drive | CIMR-JU2A0004FAA (varies)&tag=) | $300–$700 | Yaskawa distributor / Amazon |  | Motor Cable (THHN shielded) | By footage | $2–$8/ft | Grainger / electrical supply |
+| Inverter-duty Motor | NEMA MG1 Part 31 rated | $300–$2000+ | [Amazon](https://www.amazon.com/s?i=industrial&k=NEMA+MG1+Part+31+rated+NEMA+MG1+Part+31+rated&tag=errorcodefixes-20) \| Grainger / motor shop | Replacement J1000 Drive | CIMR-JU2A0004FAA (varies)&tag=) | $300–$700 | Yaskawa distributor / Amazon |  | Motor Cable (THHN shielded) | By footage | $2–$8/ft | Grainger / electrical supply |
 
 ##
 

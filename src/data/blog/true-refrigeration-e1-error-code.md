@@ -36,9 +36,9 @@ True Refrigeration error code E1 indicates a temperature sensor fault. On True r
 
 | Part | Notes |
 |------|-------|
-| Cabinet temperature probe (NTC) | [Amazon](https://www.amazon.com/s?k=Cabinet+temperature+probe+%28NTC%29&tag=errorcodefixes-20) \| Match controller type and resistance curve before ordering |
-| Probe extension harness | [Amazon](https://www.amazon.com/s?k=Probe+extension+harness&tag=errorcodefixes-20) \| Replace if the wire run is damaged inside the cabinet chase |
-| Electronic temperature controller | [Amazon](https://www.amazon.com/s?k=Electronic+temperature+controller&tag=errorcodefixes-20) \| Replace only after testing with a known-good probe |
+| Cabinet temperature probe (NTC) | [Amazon](https://www.amazon.com/s?i=industrial&k=Cabinet+temperature+probe+%28NTC%29&tag=errorcodefixes-20) \| Match controller type and resistance curve before ordering |
+| Probe extension harness | [Amazon](https://www.amazon.com/s?i=industrial&k=Probe+extension+harness&tag=errorcodefixes-20) \| Replace if the wire run is damaged inside the cabinet chase |
+| Electronic temperature controller | [Amazon](https://www.amazon.com/s?i=industrial&k=Electronic+temperature+controller&tag=errorcodefixes-20) \| Replace only after testing with a known-good probe |
 ## When to Call a Pro
 
 If the probe checks good and the controller still posts E1, you may have a board-level input fault or moisture damage inside the control housing. A commercial refrigeration tech can confirm the controller and reprogram the replacement if needed.

@@ -55,7 +55,7 @@ The limit switch opens when the furnace heat exchanger overheats. Common trigger
 |---|---|---|
 | Air filter (MERV 8–11) | Primary fix | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| $10–25 |
 | Limit switch | If switch fails open | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| $20–50 |
-| Blower motor | If not running properly | [Amazon](https://www.amazon.com/s?k=Blower+motor&tag=errorcodefixes-20) \| $150–400 |
+| Blower motor | If not running properly | [Amazon](https://www.amazon.com/s?i=industrial&k=Blower+motor&tag=errorcodefixes-20) \| $150–400 |
 | IFC board | If it keeps locking out incorrectly | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| $100–300 |
 ## When to Call a Pro
 

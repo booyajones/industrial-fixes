@@ -58,12 +58,12 @@ The Danfoss FC302 VLT AutomationDrive is a high-feature industrial VFD used on c
 
 | Part | Notes |
 |------|-------|
-| Cooling fan kit | [Amazon](https://www.amazon.com/s?k=Cooling+fan+kit&tag=errorcodefixes-20) \| Common maintenance item on older FC302 drives |
-| Input fuses | [Amazon](https://www.amazon.com/s?k=Input+fuses&tag=errorcodefixes-20) \| Check for undervoltage or single-phasing |
-| Motor cable | [Amazon](https://www.amazon.com/s?k=Motor+cable&tag=errorcodefixes-20) \| Replace if insulation is damaged |
-| LCP keypad | [Amazon](https://www.amazon.com/s?k=LCP+keypad&tag=errorcodefixes-20) \| Useful when display or navigation is unreliable |
-| Power card | [Amazon](https://www.amazon.com/s?k=Power+card&tag=errorcodefixes-20) \| Possible cause of Alarm 46 or internal faults |
-| Drive | [Amazon](https://www.amazon.com/s?k=Drive&tag=errorcodefixes-20) \| For persistent Alarm 38 or output section failures |
+| Cooling fan kit | [Amazon](https://www.amazon.com/s?i=industrial&k=Cooling+fan+kit&tag=errorcodefixes-20) \| Common maintenance item on older FC302 drives |
+| Input fuses | [Amazon](https://www.amazon.com/s?i=industrial&k=Input+fuses&tag=errorcodefixes-20) \| Check for undervoltage or single-phasing |
+| Motor cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+cable&tag=errorcodefixes-20) \| Replace if insulation is damaged |
+| LCP keypad | [Amazon](https://www.amazon.com/s?i=industrial&k=LCP+keypad&tag=errorcodefixes-20) \| Useful when display or navigation is unreliable |
+| Power card | [Amazon](https://www.amazon.com/s?i=industrial&k=Power+card&tag=errorcodefixes-20) \| Possible cause of Alarm 46 or internal faults |
+| Drive | [Amazon](https://www.amazon.com/s?i=industrial&k=Drive&tag=errorcodefixes-20) \| For persistent Alarm 38 or output section failures |
 ## When to Call a Pro
 
 Alarm 38 and repeated short-circuit trips with the motor disconnected usually point to internal drive damage. Danfoss service or a qualified repair shop can often test the power module before you replace the whole FC302.

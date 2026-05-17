@@ -36,9 +36,9 @@ Okuma Alarm 1800 indicates an Automatic Tool Changer (ATC) fault — the tool ch
 
 | Part | Notes |
 |------|-------|
-| ATC arm proximity switch | [Amazon](https://www.amazon.com/s?k=ATC+arm+proximity+switch&tag=errorcodefixes-20) \| Replace if failed or misaligned |
-| Spindle air cylinder / draw bar spring | [Amazon](https://www.amazon.com/s?k=Spindle+air+cylinder+%2F+draw+bar+spring&tag=errorcodefixes-20) \| Replace if tool won't release cleanly |
-| ATC cam follower | [Amazon](https://www.amazon.com/s?k=ATC+cam+follower&tag=errorcodefixes-20) \| Replace if worn and causing incomplete arm motion |
+| ATC arm proximity switch | [Amazon](https://www.amazon.com/s?i=industrial&k=ATC+arm+proximity+switch&tag=errorcodefixes-20) \| Replace if failed or misaligned |
+| Spindle air cylinder / draw bar spring | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+air+cylinder+%2F+draw+bar+spring&tag=errorcodefixes-20) \| Replace if tool won't release cleanly |
+| ATC cam follower | [Amazon](https://www.amazon.com/s?i=industrial&k=ATC+cam+follower&tag=errorcodefixes-20) \| Replace if worn and causing incomplete arm motion |
 ## When to Call a Pro
 
 ATC mechanical repairs on Okuma machines require precise adjustment and calibration. Okuma authorized service should handle any cam, drawbar, or ATC arm mechanical work.

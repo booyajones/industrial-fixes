@@ -56,7 +56,7 @@ This alarm does not necessarily mean the refrigeration system has failed complet
 | Evaporator Fan Motor (typical) | Match by HP/frame/RPM | $45–$120 | [Amazon](https://www.amazon.com/dp/B01N0J3ZEH?tag=errorcodefixes-20) \| Parts Town / Grainger |
 | NTC Temperature Sensor (10kΩ) | Model-specific | $20–$45 | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Parts Town / Heatcraft dealer |
 | Defrost Termination Thermostat | Model-specific | $15–$35 | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Parts Town |
-| Heatcraft EC Controller | Model-specific | $180–$350 | [Amazon](https://www.amazon.com/s?k=Model-specific+Heatcraft+EC+Controller&tag=errorcodefixes-20) \| Heatcraft dealer |
+| Heatcraft EC Controller | Model-specific | $180–$350 | [Amazon](https://www.amazon.com/s?i=industrial&k=Model-specific+Heatcraft+EC+Controller&tag=errorcodefixes-20) \| Heatcraft dealer |
 ## When to Call a Professional
 
 Any diagnosis involving refrigerant — checking pressures, adding charge, finding and repairing leaks — requires EPA 608 certification and proper recovery equipment. Do not attempt to add refrigerant to a walk-in cooler without verifying the existing charge and finding the source of any leak. Repeatedly topping off a leaking system is expensive, environmentally irresponsible, and will eventually cause compressor failure from oil loss. A refrigeration technician should handle any system that won't pull down despite clean coils, running fans, and a good condenser — the root cause is almost always a refrigerant-side issue.

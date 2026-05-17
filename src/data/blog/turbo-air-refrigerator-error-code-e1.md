@@ -37,8 +37,8 @@ The E1 error on Turbo Air commercial refrigerators indicates a temperature senso
 | Part | Notes |
 |------|-------|
 | NTC temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Match to model — Turbo Air uses several sensor variants |
-| Sensor wiring harness | [Amazon](https://www.amazon.com/s?k=Sensor+wiring+harness&tag=errorcodefixes-20) \| Replace if lead is damaged |
-| Electrical contact cleaner | [Amazon](https://www.amazon.com/s?k=Electrical+contact+cleaner&tag=errorcodefixes-20) \| For connector pin corrosion |
+| Sensor wiring harness | [Amazon](https://www.amazon.com/s?i=industrial&k=Sensor+wiring+harness&tag=errorcodefixes-20) \| Replace if lead is damaged |
+| Electrical contact cleaner | [Amazon](https://www.amazon.com/s?i=industrial&k=Electrical+contact+cleaner&tag=errorcodefixes-20) \| For connector pin corrosion |
 ## When to Call a Pro
 
 If sensor and wiring both test good and E1 persists, the controller board needs bench testing or replacement — a refrigeration tech can confirm and replace.

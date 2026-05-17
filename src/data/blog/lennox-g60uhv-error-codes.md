@@ -58,9 +58,9 @@ The Lennox G60UHV is a variable-speed, 80% AFUE gas furnace that uses an ECM blo
 
 | Part | Notes |
 |------|-------|
-| SureLight ignitor | [Amazon](https://www.amazon.com/s?k=SureLight+ignitor&tag=errorcodefixes-20) \| Lennox-specific; use OEM part number |
+| SureLight ignitor | [Amazon](https://www.amazon.com/s?i=industrial&k=SureLight+ignitor&tag=errorcodefixes-20) \| Lennox-specific; use OEM part number |
 | Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) \| Integrated into G60UHV cabinet; replace if cracked |
-| ECM blower module | [Amazon](https://www.amazon.com/s?k=ECM+blower+module&tag=errorcodefixes-20) \| Mounts to rear of motor; test before replacing motor |
+| ECM blower module | [Amazon](https://www.amazon.com/s?i=industrial&k=ECM+blower+module&tag=errorcodefixes-20) \| Mounts to rear of motor; test before replacing motor |
 | Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Confirm correct rating for single or two-stage |
 | Inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Replace bearing or full motor assembly |
 | Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For Code 13 or communication errors |

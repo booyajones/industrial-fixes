@@ -423,8 +423,8 @@ To reset all parameters to factory default on C2000 and MS300:
 
 ## Parts and Supply Links
 
-- **[Delta VFD Replacement Cooling Fan](https://www.amazon.com/s?k=delta+vfd+cooling+fan+replacement&tag=errorcodefixes-20)** — verify model number before ordering
-- **[VFD Braking Resistor](https://www.amazon.com/s?k=vfd+braking+resistor+dynamic+braking&tag=errorcodefixes-20)**
-- **[VFD Line Reactor 3-Phase](https://www.amazon.com/s?k=vfd+line+reactor+3+phase+input&tag=errorcodefixes-20)**
-- **[RS-485 Cable Shielded](https://www.amazon.com/s?k=rs485+shielded+cable+modbus&tag=errorcodefixes-20)**
-- **[VFD Output dV/dt Filter](https://www.amazon.com/s?k=vfd+dvdt+filter+output+motor&tag=errorcodefixes-20)**
+- **[Delta VFD Replacement Cooling Fan](https://www.amazon.com/s?i=industrial&k=delta+vfd+cooling+fan+replacement&tag=errorcodefixes-20)** — verify model number before ordering
+- **[VFD Braking Resistor](https://www.amazon.com/s?i=industrial&k=vfd+braking+resistor+dynamic+braking&tag=errorcodefixes-20)**
+- **[VFD Line Reactor 3-Phase](https://www.amazon.com/s?i=industrial&k=vfd+line+reactor+3+phase+input&tag=errorcodefixes-20)**
+- **[RS-485 Cable Shielded](https://www.amazon.com/s?i=industrial&k=rs485+shielded+cable+modbus&tag=errorcodefixes-20)**
+- **[VFD Output dV/dt Filter](https://www.amazon.com/s?i=industrial&k=vfd+dvdt+filter+output+motor&tag=errorcodefixes-20)**

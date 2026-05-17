@@ -395,6 +395,6 @@ If the boiler shows the same lockout code repeatedly after resetting, stop cycli
 
 Find replacement parts for Laars boilers on Amazon:
 
-- [Laars Boiler Parts & Accessories](https://www.amazon.com/s?k=Laars+boiler+parts&tag=errorcodefixes-20)
-- [Laars Ignition Control Module Replacement](https://www.amazon.com/s?k=Laars+ignition+control+module+replacement&tag=errorcodefixes-20)
+- [Laars Boiler Parts & Accessories](https://www.amazon.com/s?i=industrial&k=Laars+boiler+parts&tag=errorcodefixes-20)
+- [Laars Ignition Control Module Replacement](https://www.amazon.com/s?i=industrial&k=Laars+ignition+control+module+replacement&tag=errorcodefixes-20)
 - [Laars Gas Valve Replacement](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20)

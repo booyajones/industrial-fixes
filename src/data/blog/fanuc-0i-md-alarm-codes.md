@@ -54,10 +54,10 @@ The Fanuc 0i-MD is a common machining center control used on vertical mills, hor
 
 | Part | Notes |
 |---|---|
-| Encoder battery | [Amazon](https://www.amazon.com/s?k=Encoder+battery&tag=errorcodefixes-20) \| Common maintenance item on Fanuc controls |
-| Pulse coder cable | [Amazon](https://www.amazon.com/s?k=Pulse+coder+cable&tag=errorcodefixes-20) \| Replace if oil-soaked or damaged |
+| Encoder battery | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+battery&tag=errorcodefixes-20) \| Common maintenance item on Fanuc controls |
+| Pulse coder cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Pulse+coder+cable&tag=errorcodefixes-20) \| Replace if oil-soaked or damaged |
 | Limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| For repeated overtravel alarms |
-| Servo amplifier | [Amazon](https://www.amazon.com/s?k=Servo+amplifier&tag=errorcodefixes-20) \| For persistent 401/500 alarms |
+| Servo amplifier | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+amplifier&tag=errorcodefixes-20) \| For persistent 401/500 alarms |
 ## When to Call a Pro
 
 If the machine shows repeated 910 SRAM or persistent servo amplifier alarms after basic checks, back up parameters immediately and involve a Fanuc service technician or qualified CNC controls specialist.

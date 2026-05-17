@@ -64,8 +64,8 @@ Lincoln Impinger conveyor belt problems are mechanical, not typically coded:
 | Part | Notes |
 |------|-------|
 | Type K thermocouple | [Amazon](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) \| Common wear item |
-| Igniter assembly | [Amazon](https://www.amazon.com/s?k=Igniter+assembly&tag=errorcodefixes-20) \| Replace if cracked or weak spark |
-| Conveyor belt | [Amazon](https://www.amazon.com/s?k=Conveyor+belt&tag=errorcodefixes-20) \| Replace worn or broken links |
+| Igniter assembly | [Amazon](https://www.amazon.com/s?i=industrial&k=Igniter+assembly&tag=errorcodefixes-20) \| Replace if cracked or weak spark |
+| Conveyor belt | [Amazon](https://www.amazon.com/s?i=industrial&k=Conveyor+belt&tag=errorcodefixes-20) \| Replace worn or broken links |
 | Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace on E6 code |
 ## Jump to Fix
 

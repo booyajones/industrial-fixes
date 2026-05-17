@@ -39,10 +39,10 @@ On Carrier Infinity and Performance series communicating systems, the E1 error i
 
 | Part | Notes |
 |------|-------|
-| Infinity communicating thermostat | [Amazon](https://www.amazon.com/s?k=Infinity+communicating+thermostat&tag=errorcodefixes-20) \| Bus master — replace first if wiring is good |
+| Infinity communicating thermostat | [Amazon](https://www.amazon.com/s?i=industrial&k=Infinity+communicating+thermostat&tag=errorcodefixes-20) \| Bus master — replace first if wiring is good |
 | Indoor air handler/furnace control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Match part number from unit data plate exactly |
 | Outdoor unit control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| If outdoor unit absent from system map after thermostat swap |
-| Low-voltage thermostat wire (18/5 or 18/8) | [Amazon](https://www.amazon.com/s?k=Low-voltage+thermostat+wire+%2818%2F5+or+18%2F8%29&tag=errorcodefixes-20) \| Replace entire run if corroded or damaged |
+| Low-voltage thermostat wire (18/5 or 18/8) | [Amazon](https://www.amazon.com/s?i=industrial&k=Low-voltage+thermostat+wire+%2818%2F5+or+18%2F8%29&tag=errorcodefixes-20) \| Replace entire run if corroded or damaged |
 ## When to Call a Pro
 
 If you've confirmed wiring integrity at all three points and replaced the thermostat without clearing E1, you're into control board territory. Misidentifying which board is faulty is an expensive mistake — a licensed HVAC technician can use the Infinity diagnostic tool to pinpoint exactly which device is dropping off the bus before ordering parts.

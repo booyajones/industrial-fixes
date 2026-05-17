@@ -51,8 +51,8 @@ Larger Smart-UPS models (1500 VA+) have internal cooling fans. Fan failure cause
 
 | Part | Notes |
 |------|-------|
-| Battery cartridge | [Amazon](https://www.amazon.com/s?k=Battery+cartridge&tag=errorcodefixes-20) \| Match UPS model (APCRBC) — use OEM |
-| Replacement fan | [Amazon](https://www.amazon.com/s?k=Replacement+fan&tag=errorcodefixes-20) \| SRT and SMX series — model-specific |
-| PowerChute software | [Amazon](https://www.amazon.com/s?k=PowerChute+software&tag=errorcodefixes-20) \| Free download from APC website |
-| Network management card | [Amazon](https://www.amazon.com/s?k=Network+management+card&tag=errorcodefixes-20) \| AP9630 or AP9640 for SNMP monitoring |
+| Battery cartridge | [Amazon](https://www.amazon.com/s?i=industrial&k=Battery+cartridge&tag=errorcodefixes-20) \| Match UPS model (APCRBC) — use OEM |
+| Replacement fan | [Amazon](https://www.amazon.com/s?i=industrial&k=Replacement+fan&tag=errorcodefixes-20) \| SRT and SMX series — model-specific |
+| PowerChute software | [Amazon](https://www.amazon.com/s?i=industrial&k=PowerChute+software&tag=errorcodefixes-20) \| Free download from APC website |
+| Network management card | [Amazon](https://www.amazon.com/s?i=industrial&k=Network+management+card&tag=errorcodefixes-20) \| AP9630 or AP9640 for SNMP monitoring |
 > **Pro tip:** APC Smart-UPS with network management cards send SNMP traps or email alerts on fault conditions. Connect the UPS to building network with an NMC card for remote monitoring and proactive battery replacement alerts before battery failure causes an outage.

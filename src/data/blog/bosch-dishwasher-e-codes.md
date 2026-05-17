@@ -43,10 +43,10 @@ Bosch commercial dishwashers (undercounter, door-type, and conveyor models) disp
 
 | Part | Notes |
 |------|-------|
-| Booster heater element | [Amazon](https://www.amazon.com/s?k=Booster+heater+element&tag=errorcodefixes-20) \| For E3/E6 temperature faults |
-| Wash pump motor | [Amazon](https://www.amazon.com/s?k=Wash+pump+motor&tag=errorcodefixes-20) \| For E5 — most urgent repair |
+| Booster heater element | [Amazon](https://www.amazon.com/s?i=industrial&k=Booster+heater+element&tag=errorcodefixes-20) \| For E3/E6 temperature faults |
+| Wash pump motor | [Amazon](https://www.amazon.com/s?i=industrial&k=Wash+pump+motor&tag=errorcodefixes-20) \| For E5 — most urgent repair |
 | Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| For E1 |
-| Drain pump | [Amazon](https://www.amazon.com/s?k=Drain+pump&tag=errorcodefixes-20) \| For E2/E4 |
+| Drain pump | [Amazon](https://www.amazon.com/s?i=industrial&k=Drain+pump&tag=errorcodefixes-20) \| For E2/E4 |
 ## When to Call a Pro
 
 High-voltage heating element and control board work requires a qualified appliance or commercial kitchen equipment technician.

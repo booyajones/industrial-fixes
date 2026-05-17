@@ -51,10 +51,10 @@ Metso positioners require clean, dry instrument air typically at 35–100 psi. C
 
 | Part | Notes |
 |------|-------|
-| Position sensor module | [Amazon](https://www.amazon.com/s?k=Position+sensor+module&tag=errorcodefixes-20) \| Replaces if F01 persists |
-| Supply pressure regulator | [Amazon](https://www.amazon.com/s?k=Supply+pressure+regulator&tag=errorcodefixes-20) \| Replaces on F04 faults |
-| I/P converter | [Amazon](https://www.amazon.com/s?k=I%2FP+converter&tag=errorcodefixes-20) \| Replaces on F03 faults |
-| Packing set | [Amazon](https://www.amazon.com/s?k=Packing+set&tag=errorcodefixes-20) \| Replace on high friction diagnostics |
+| Position sensor module | [Amazon](https://www.amazon.com/s?i=industrial&k=Position+sensor+module&tag=errorcodefixes-20) \| Replaces if F01 persists |
+| Supply pressure regulator | [Amazon](https://www.amazon.com/s?i=industrial&k=Supply+pressure+regulator&tag=errorcodefixes-20) \| Replaces on F04 faults |
+| I/P converter | [Amazon](https://www.amazon.com/s?i=industrial&k=I%2FP+converter&tag=errorcodefixes-20) \| Replaces on F03 faults |
+| Packing set | [Amazon](https://www.amazon.com/s?i=industrial&k=Packing+set&tag=errorcodefixes-20) \| Replace on high friction diagnostics |
 ## Jump to Fix
 
 - **F01 sensor fault** → Check connector → Re-calibrate → Replace sensor

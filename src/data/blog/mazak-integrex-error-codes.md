@@ -49,12 +49,12 @@ Mazak Integrex machines combine turning and milling in one highly capable platfo
 
 | Part | Notes |
 |------|-------|
-| Lube components | [Amazon](https://www.amazon.com/s?k=Lube+components&tag=errorcodefixes-20) \| Low lube creates cascading faults |
-| Proximity sensors | [Amazon](https://www.amazon.com/s?k=Proximity+sensors&tag=errorcodefixes-20) \| ATC and magazine faults often trace here |
-| Hydraulic switches | [Amazon](https://www.amazon.com/s?k=Hydraulic+switches&tag=errorcodefixes-20) \| Clamp and utility alarms |
-| Encoder cables | [Amazon](https://www.amazon.com/s?k=Encoder+cables&tag=errorcodefixes-20) \| Servo fault source on aging machines |
-| Battery / control backup parts | [Amazon](https://www.amazon.com/s?k=Battery+%2F+control+backup+parts&tag=errorcodefixes-20) \| For control and memory complaints |
-| Chiller service items | [Amazon](https://www.amazon.com/s?k=Chiller+service+items&tag=errorcodefixes-20) \| Spindle thermal alarms |
+| Lube components | [Amazon](https://www.amazon.com/s?i=industrial&k=Lube+components&tag=errorcodefixes-20) \| Low lube creates cascading faults |
+| Proximity sensors | [Amazon](https://www.amazon.com/s?i=industrial&k=Proximity+sensors&tag=errorcodefixes-20) \| ATC and magazine faults often trace here |
+| Hydraulic switches | [Amazon](https://www.amazon.com/s?i=industrial&k=Hydraulic+switches&tag=errorcodefixes-20) \| Clamp and utility alarms |
+| Encoder cables | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+cables&tag=errorcodefixes-20) \| Servo fault source on aging machines |
+| Battery / control backup parts | [Amazon](https://www.amazon.com/s?i=industrial&k=Battery+%2F+control+backup+parts&tag=errorcodefixes-20) \| For control and memory complaints |
+| Chiller service items | [Amazon](https://www.amazon.com/s?i=industrial&k=Chiller+service+items&tag=errorcodefixes-20) \| Spindle thermal alarms |
 ## When to Call a Pro
 
 On an Integrex, the fastest route is usually subsystem thinking, not code memorization. The machine is complex enough that one utility problem can trigger multiple unrelated-looking alarms.

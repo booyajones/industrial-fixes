@@ -36,7 +36,7 @@ Fanuc Alarm 500 is an overtravel alarm — one or more axes traveled beyond the 
 
 | Part | Notes |
 |------|-------|
-| Backup battery | [Amazon](https://www.amazon.com/s?k=Backup+battery&tag=errorcodefixes-20) \| If position was lost due to battery failure |
+| Backup battery | [Amazon](https://www.amazon.com/s?i=industrial&k=Backup+battery&tag=errorcodefixes-20) \| If position was lost due to battery failure |
 ## When to Call a Pro
 
 If Alarm 500 triggers on moves that were previously fine, a parameter change or position calibration issue needs Fanuc-certified service to diagnose.

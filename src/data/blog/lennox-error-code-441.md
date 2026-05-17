@@ -74,7 +74,7 @@ The limit switch is doing its job — something is causing the heat exchanger to
 | Air filter (MERV 8–11) | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| $10–30 |
 | Blower motor run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| $15–40 |
 | High-limit switch (OEM) | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| $30–70 |
-| Blower motor | [Amazon](https://www.amazon.com/s?k=Blower+motor&tag=errorcodefixes-20) \| $150–400 |
+| Blower motor | [Amazon](https://www.amazon.com/s?i=industrial&k=Blower+motor&tag=errorcodefixes-20) \| $150–400 |
 ## Lennox iComfort Codes Related to 441
 
 If you have an iComfort thermostat, the system may also log:

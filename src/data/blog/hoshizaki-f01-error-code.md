@@ -37,9 +37,9 @@ Hoshizaki F01 indicates **abnormal ice making operation** — the machine starte
 
 | Part | Notes |
 |------|-------|
-| Hoshizaki scale remover (nickel-safe) | [Amazon](https://www.amazon.com/s?k=Hoshizaki+scale+remover+%28nickel-safe%29&tag=errorcodefixes-20) \| Hoshizaki brand or equivalent — do not use acid-based cleaners on nickel evaporators |
-| Condenser coil cleaner | [Amazon](https://www.amazon.com/s?k=Condenser+coil+cleaner&tag=errorcodefixes-20) \| Commercial HVAC coil cleaner, non-acidic |
-| Water filter cartridge | [Amazon](https://www.amazon.com/s?k=Water+filter+cartridge&tag=errorcodefixes-20) \| Reduces scale buildup in hard-water areas |
+| Hoshizaki scale remover (nickel-safe) | [Amazon](https://www.amazon.com/s?i=industrial&k=Hoshizaki+scale+remover+%28nickel-safe%29&tag=errorcodefixes-20) \| Hoshizaki brand or equivalent — do not use acid-based cleaners on nickel evaporators |
+| Condenser coil cleaner | [Amazon](https://www.amazon.com/s?i=industrial&k=Condenser+coil+cleaner&tag=errorcodefixes-20) \| Commercial HVAC coil cleaner, non-acidic |
+| Water filter cartridge | [Amazon](https://www.amazon.com/s?i=industrial&k=Water+filter+cartridge&tag=errorcodefixes-20) \| Reduces scale buildup in hard-water areas |
 ## When to Call a Pro
 
 If F01 persists after cleaning the condenser and water system, the refrigerant charge must be checked by a licensed refrigeration technician. Low refrigerant may indicate a leak that also needs to be repaired before recharging.

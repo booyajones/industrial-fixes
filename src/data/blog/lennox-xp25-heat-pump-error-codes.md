@@ -96,8 +96,8 @@ Code 162 (compressor fault) means the iQ Drive tried to start the compressor but
 | [Lennox Line Temperature Sensor 47W83](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | Discharge, suction, and liquid line sensors; faults 144, 145, 146 | $20–$45 |
 | [Lennox XP25 Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Main outdoor board; required for persistent code 170 or EEV driver faults | $200–$450 |
 | [High Pressure Switch for Lennox Heat Pump](https://www.amazon.com/dp/B013IHQ8CU?tag=errorcodefixes-20) | Trips on code 125; test continuity before replacing | $25–$60 |
-| [iComfort S30 Smart Thermostat](https://www.amazon.com/s?k=Lennox+iComfort+S30+thermostat&tag=errorcodefixes-20) | Required for full fault code visibility on the XP25 | $200–$350 |
-| [Fin Comb HVAC Coil Cleaner Tool](https://www.amazon.com/s?k=HVAC+fin+comb+coil+cleaning+tool&tag=errorcodefixes-20) | Straighten bent fins that restrict airflow and cause high-pressure trips | $15–$30 |
+| [iComfort S30 Smart Thermostat](https://www.amazon.com/s?i=industrial&k=Lennox+iComfort+S30+thermostat&tag=errorcodefixes-20) | Required for full fault code visibility on the XP25 | $200–$350 |
+| [Fin Comb HVAC Coil Cleaner Tool](https://www.amazon.com/s?i=industrial&k=HVAC+fin+comb+coil+cleaning+tool&tag=errorcodefixes-20) | Straighten bent fins that restrict airflow and cause high-pressure trips | $15–$30 |
 
 ## When to Call a Pro
 

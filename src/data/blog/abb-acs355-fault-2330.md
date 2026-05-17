@@ -87,9 +87,9 @@ After identifying and fixing the fault:
 
 | Part | Notes |
 |---|---|
-| Motor (rewound or replacement) | [Amazon](https://www.amazon.com/s?k=Motor+%28rewound+or+replacement%29&tag=errorcodefixes-20) \| Match HP, voltage, frame, and poles |
-| Motor cable (shielded) | [Amazon](https://www.amazon.com/s?k=Motor+cable+%28shielded%29&tag=errorcodefixes-20) \| Use shielded 4-conductor cable for VFD applications |
-| ACS355 drive | [Amazon](https://www.amazon.com/s?k=ACS355+drive&tag=errorcodefixes-20) \| If output IGBT confirmed failed |
+| Motor (rewound or replacement) | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+%28rewound+or+replacement%29&tag=errorcodefixes-20) \| Match HP, voltage, frame, and poles |
+| Motor cable (shielded) | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+cable+%28shielded%29&tag=errorcodefixes-20) \| Use shielded 4-conductor cable for VFD applications |
+| ACS355 drive | [Amazon](https://www.amazon.com/s?i=industrial&k=ACS355+drive&tag=errorcodefixes-20) \| If output IGBT confirmed failed |
 > **Pro tip:** The ABB ACS355 supports a ground fault trip sensitivity parameter. For long cable runs, check parameter 1601 and consult ABB application note AN-14-0046 for capacitive ground current calculations.
 
 ## Related Articles

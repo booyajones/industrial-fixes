@@ -60,7 +60,7 @@ The Trane XR90 is a single-stage 90% AFUE gas furnace with a PSC (permanent spli
 | Inducer motor capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| 5 or 7.5 µF; measure before replacing motor |
 | Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Two switches on some XR90 versions (high and low) |
 | High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| L200°F on most XR90 configurations |
-| Blower capacitor | [Amazon](https://www.amazon.com/s?k=Blower+capacitor&tag=errorcodefixes-20) \| PSC blower motor; dedicated capacitor |
+| Blower capacitor | [Amazon](https://www.amazon.com/s?i=industrial&k=Blower+capacitor&tag=errorcodefixes-20) \| PSC blower motor; dedicated capacitor |
 ## When to Call a Pro
 
 The XR90 heat exchanger is a clamshell design that can crack at the secondary (condensate-side) section. If you smell combustion gases in the conditioned air, suspect a cracked heat exchanger — this is a safety issue requiring professional inspection and likely furnace replacement. Do not operate a furnace with a suspected cracked heat exchanger.

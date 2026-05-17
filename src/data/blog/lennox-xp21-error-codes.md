@@ -55,11 +55,11 @@ The Lennox XP21 is a variable-capacity heat pump in the Elite series. It uses Le
 
 | Part | Notes |
 |------|-------|
-| Refrigerant charge (R-410A) | [Amazon](https://www.amazon.com/s?k=Refrigerant+charge+%28R-410A%29&tag=errorcodefixes-20) \| Requires EPA certification; fix leak first |
+| Refrigerant charge (R-410A) | [Amazon](https://www.amazon.com/s?i=industrial&k=Refrigerant+charge+%28R-410A%29&tag=errorcodefixes-20) \| Requires EPA certification; fix leak first |
 | Defrost sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Clip-on type for outdoor coil |
-| Communicating bus wire | [Amazon](https://www.amazon.com/s?k=Communicating+bus+wire&tag=errorcodefixes-20) \| 18-gauge two-wire; replace if damaged |
+| Communicating bus wire | [Amazon](https://www.amazon.com/s?i=industrial&k=Communicating+bus+wire&tag=errorcodefixes-20) \| 18-gauge two-wire; replace if damaged |
 | ECM outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| ECM type; confirm XP21 model compatibility |
-| Compressor drive (inverter) | [Amazon](https://www.amazon.com/s?k=Compressor+drive+%28inverter%29&tag=errorcodefixes-20) \| Major part; Lennox dealer required for diagnosis |
+| Compressor drive (inverter) | [Amazon](https://www.amazon.com/s?i=industrial&k=Compressor+drive+%28inverter%29&tag=errorcodefixes-20) \| Major part; Lennox dealer required for diagnosis |
 | High/low pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match to XP21 refrigerant circuit pressures |
 ## When to Call a Pro
 

@@ -128,9 +128,9 @@ Double-check every wire against your photos. Confirm no wires are crossed betwee
 | 2-Pole 30A 24V Contactor (most common residential) | Standard AC/heat pump contactor replacement | [View on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) |
 | 2-Pole 40A 24V Contactor (larger systems) | Higher-capacity systems | [View on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) |
 | 1-Pole 30A 24V Contactor (older systems) | Single-pole configuration replacement | [View on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) |
-| Non-Contact Voltage Tester | Verifying power is off before working | [View on Amazon](https://www.amazon.com/s?k=non+contact+voltage+tester+hvac&tag=errorcodefixes-20) |
+| Non-Contact Voltage Tester | Verifying power is off before working | [View on Amazon](https://www.amazon.com/s?i=industrial&k=non+contact+voltage+tester+hvac&tag=errorcodefixes-20) |
 | Digital Multimeter | Testing contactor coil and contacts | [View on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) |
-| Insulated Screwdriver Set | Safe work on electrical components | [View on Amazon](https://www.amazon.com/s?k=insulated+screwdriver+set+electrical&tag=errorcodefixes-20) |
+| Insulated Screwdriver Set | Safe work on electrical components | [View on Amazon](https://www.amazon.com/s?i=industrial&k=insulated+screwdriver+set+electrical&tag=errorcodefixes-20) |
 
 ---
 

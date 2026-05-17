@@ -193,11 +193,11 @@ The unit has attempted to restart too many times and entered a hard lockout.
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
-| [Takagi Condensate Neutralizer Replacement Media](https://www.amazon.com/s?k=condensate+neutralizer+media+limestone+tankless+water+heater&tag=errorcodefixes-20) | Error 79 — required annual maintenance on condensing units | $15–$40 |
-| [Tankless Water Heater Flow Sensor](https://www.amazon.com/s?k=tankless+water+heater+flow+sensor+turbine&tag=errorcodefixes-20) | Error 65 — replaces seized or debris-clogged flow sensor | $20–$55 |
-| [NTC Thermistor Sensor 10K Water Heater](https://www.amazon.com/s?k=NTC+thermistor+10K+water+heater+sensor&tag=errorcodefixes-20) | Errors 31, 32, 33 — inlet/outlet/heat exchanger sensor replacement | $10–$30 |
-| [Tankless Water Heater Descaler Kit](https://www.amazon.com/s?k=tankless+water+heater+descaling+flush+kit&tag=errorcodefixes-20) | Annual maintenance to prevent scale-related faults and overtemperature | $25–$60 |
-| [Flame Rod / Ionization Sensor](https://www.amazon.com/s?k=flame+rod+ionization+sensor+gas+water+heater&tag=errorcodefixes-20) | Errors 12, 19 — flame detection sensor replacement | $15–$45 |
+| [Takagi Condensate Neutralizer Replacement Media](https://www.amazon.com/s?i=industrial&k=condensate+neutralizer+media+limestone+tankless+water+heater&tag=errorcodefixes-20) | Error 79 — required annual maintenance on condensing units | $15–$40 |
+| [Tankless Water Heater Flow Sensor](https://www.amazon.com/s?i=industrial&k=tankless+water+heater+flow+sensor+turbine&tag=errorcodefixes-20) | Error 65 — replaces seized or debris-clogged flow sensor | $20–$55 |
+| [NTC Thermistor Sensor 10K Water Heater](https://www.amazon.com/s?i=industrial&k=NTC+thermistor+10K+water+heater+sensor&tag=errorcodefixes-20) | Errors 31, 32, 33 — inlet/outlet/heat exchanger sensor replacement | $10–$30 |
+| [Tankless Water Heater Descaler Kit](https://www.amazon.com/s?i=industrial&k=tankless+water+heater+descaling+flush+kit&tag=errorcodefixes-20) | Annual maintenance to prevent scale-related faults and overtemperature | $25–$60 |
+| [Flame Rod / Ionization Sensor](https://www.amazon.com/s?i=industrial&k=flame+rod+ionization+sensor+gas+water+heater&tag=errorcodefixes-20) | Errors 12, 19 — flame detection sensor replacement | $15–$45 |
 
 ---
 

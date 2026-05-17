@@ -55,7 +55,7 @@ This code is extremely common in commercial kitchens, particularly in high-use e
 | Water inlet valve | 4A5375-02 | $75-$100 | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| Parts Town |
 | Float switch | 4A2734-01 | $40-$55 | [Amazon](https://www.amazon.com/dp/B005D4RFEM?tag=errorcodefixes-20) \| Parts Town |
 | Inlet valve strainer | 4A3237-01 | $8-$15 | Parts Town |
-| Water supply line (braided SS, 6ft) | — | $12-$20 | [Amazon](https://www.amazon.com/s?k=braided+stainless+water+supply+line+6ft&tag=errorcodefixes-20) \| Home Depot |
+| Water supply line (braided SS, 6ft) | — | $12-$20 | [Amazon](https://www.amazon.com/s?i=industrial&k=braided+stainless+water+supply+line+6ft&tag=errorcodefixes-20) \| Home Depot |
 
 ## Related Articles
 

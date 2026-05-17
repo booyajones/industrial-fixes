@@ -37,7 +37,7 @@ The E1 error on Continental commercial refrigerators (reach-ins, undercounters, 
 | Part | Notes |
 |------|-------|
 | NTC temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Use OEM Continental part — resistance spec varies by model |
-| Sensor wiring harness | [Amazon](https://www.amazon.com/s?k=Sensor+wiring+harness&tag=errorcodefixes-20) \| Replace if wire damage is found |
+| Sensor wiring harness | [Amazon](https://www.amazon.com/s?i=industrial&k=Sensor+wiring+harness&tag=errorcodefixes-20) \| Replace if wire damage is found |
 ## When to Call a Pro
 
 If sensor and wiring both test good and E1 persists, the controller board needs replacement. Continental authorized service handles controller-level repairs.

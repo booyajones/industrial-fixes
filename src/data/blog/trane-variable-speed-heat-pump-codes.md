@@ -51,11 +51,11 @@ Check ComfortLink II communication wiring for breaks, shorts, or reversed polari
 
 | Part | Notes |
 |------|-------|
-| Inverter board | [Amazon](https://www.amazon.com/s?k=Inverter+board&tag=errorcodefixes-20) \| High cost — verify with Trane tech support before ordering |
-| ComfortLink II thermostat | [Amazon](https://www.amazon.com/s?k=ComfortLink+II+thermostat&tag=errorcodefixes-20) \| Required for fault code display |
+| Inverter board | [Amazon](https://www.amazon.com/s?i=industrial&k=Inverter+board&tag=errorcodefixes-20) \| High cost — verify with Trane tech support before ordering |
+| ComfortLink II thermostat | [Amazon](https://www.amazon.com/s?i=industrial&k=ComfortLink+II+thermostat&tag=errorcodefixes-20) \| Required for fault code display |
 | Defrost sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Clip-on thermistor — verify resistance |
-| Reversing valve | [Amazon](https://www.amazon.com/s?k=Reversing+valve&tag=errorcodefixes-20) \| Match refrigerant type |
-| Electronic expansion valve (EXV) | [Amazon](https://www.amazon.com/s?k=Electronic+expansion+valve+%28EXV%29&tag=errorcodefixes-20) \| Variable speed units use EXV not TXV |
+| Reversing valve | [Amazon](https://www.amazon.com/s?i=industrial&k=Reversing+valve&tag=errorcodefixes-20) \| Match refrigerant type |
+| Electronic expansion valve (EXV) | [Amazon](https://www.amazon.com/s?i=industrial&k=Electronic+expansion+valve+%28EXV%29&tag=errorcodefixes-20) \| Variable speed units use EXV not TXV |
 > **Pro tip:** Trane XV20i diagnostic data can be viewed via the Nexia app or Trane Diagnostics Tool. Always check inverter board LED indicators before ordering parts — they often pinpoint the specific fault.
 
 ## Related Articles

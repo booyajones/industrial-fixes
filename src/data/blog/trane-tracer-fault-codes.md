@@ -48,9 +48,9 @@ A compressor alarm in Tracer reflects a fault reported by the individual RTU or 
 
 | Part | Notes |
 |------|-------|
-| UCM controller | [Amazon](https://www.amazon.com/s?k=UCM+controller&tag=errorcodefixes-20) \| Replace on controller failure |
-| BACnet MS/TP cable | [Amazon](https://www.amazon.com/s?k=BACnet+MS%2FTP+cable&tag=errorcodefixes-20) \| Replace on communication fault |
-| Tracer SC+ controller | [Amazon](https://www.amazon.com/s?k=Tracer+SC%2B+controller&tag=errorcodefixes-20) \| Replace on hardware failure |
+| UCM controller | [Amazon](https://www.amazon.com/s?i=industrial&k=UCM+controller&tag=errorcodefixes-20) \| Replace on controller failure |
+| BACnet MS/TP cable | [Amazon](https://www.amazon.com/s?i=industrial&k=BACnet+MS%2FTP+cable&tag=errorcodefixes-20) \| Replace on communication fault |
+| Tracer SC+ controller | [Amazon](https://www.amazon.com/s?i=industrial&k=Tracer+SC%2B+controller&tag=errorcodefixes-20) \| Replace on hardware failure |
 | Differential pressure switch (fan) | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Replace on fan status fault |
 | OAT temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Replace on OAT fault |
 ## When to Call a Pro

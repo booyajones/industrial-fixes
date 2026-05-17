@@ -47,10 +47,10 @@ Stepper systems are simpler than servo systems, but they still generate faults t
 
 | Part | Notes |
 |---|---|
-| Stepper driver | [Amazon](https://www.amazon.com/s?k=Stepper+driver&tag=errorcodefixes-20) \| Common heat-related failure point |
-| DC power supply | [Amazon](https://www.amazon.com/s?k=DC+power+supply&tag=errorcodefixes-20) \| Shared supply often undersized |
-| Motor cable | [Amazon](https://www.amazon.com/s?k=Motor+cable&tag=errorcodefixes-20) \| Flex damage on moving axes |
-| Coupling | [Amazon](https://www.amazon.com/s?k=Coupling&tag=errorcodefixes-20) \| Slip causes lost motion complaints |
+| Stepper driver | [Amazon](https://www.amazon.com/s?i=industrial&k=Stepper+driver&tag=errorcodefixes-20) \| Common heat-related failure point |
+| DC power supply | [Amazon](https://www.amazon.com/s?i=industrial&k=DC+power+supply&tag=errorcodefixes-20) \| Shared supply often undersized |
+| Motor cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+cable&tag=errorcodefixes-20) \| Flex damage on moving axes |
+| Coupling | [Amazon](https://www.amazon.com/s?i=industrial&k=Coupling&tag=errorcodefixes-20) \| Slip causes lost motion complaints |
 ## When to Call a Pro
 
 If a production stepper axis loses position unpredictably or faults only under real load, involve a motion-control technician. Tuning, resonance, and power quality issues can overlap in ways that are hard to sort out by trial and error.

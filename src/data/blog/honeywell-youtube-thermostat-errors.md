@@ -79,9 +79,9 @@ A missing C wire causes power issues and can cause erratic behavior or error cod
 
 | Part | Notes |
 |------|-------|
-| Replacement thermostat | [Amazon](https://www.amazon.com/s?k=Replacement+thermostat&tag=errorcodefixes-20) \| For E1 internal sensor failure |
+| Replacement thermostat | [Amazon](https://www.amazon.com/s?i=industrial&k=Replacement+thermostat&tag=errorcodefixes-20) \| For E1 internal sensor failure |
 | Outdoor temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| For E2 if accessory sensor is damaged |
-| Condensate pan tablets | [Amazon](https://www.amazon.com/s?k=Condensate+pan+tablets&tag=errorcodefixes-20) \| Prevent algae growth causing E9 |
+| Condensate pan tablets | [Amazon](https://www.amazon.com/s?i=industrial&k=Condensate+pan+tablets&tag=errorcodefixes-20) \| Prevent algae growth causing E9 |
 ## Jump to Fix
 
 - **E1** → Reset thermostat → If persists, replace thermostat

@@ -38,8 +38,8 @@ Fault F063 (SW OverCurrent) on an Allen-Bradley PowerFlex drive indicates that t
 
 | Part | Notes |
 |------|-------|
-| Motor bearings | [Amazon](https://www.amazon.com/s?k=Motor+bearings&tag=errorcodefixes-20) \| Replace if driven equipment has a seized bearing causing overload |
-| Motor (larger frame) | [Amazon](https://www.amazon.com/s?k=Motor+%28larger+frame%29&tag=errorcodefixes-20) \| Required if motor is confirmed undersized for the application |
+| Motor bearings | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+bearings&tag=errorcodefixes-20) \| Replace if driven equipment has a seized bearing causing overload |
+| Motor (larger frame) | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+%28larger+frame%29&tag=errorcodefixes-20) \| Required if motor is confirmed undersized for the application |
 | PowerFlex control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Only if fault persists with correct parameters and no mechanical cause |
 ## When to Call a Pro
 

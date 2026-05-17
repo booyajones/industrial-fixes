@@ -37,10 +37,10 @@ P8 on a Mitsubishi mini-split system indicates a compressor fault — specifical
 
 | Part | Notes |
 |------|-------|
-| IPM (Intelligent Power Module) | [Amazon](https://www.amazon.com/s?k=IPM+%28Intelligent+Power+Module%29&tag=errorcodefixes-20) \| Mitsubishi OEM; match outdoor unit model exactly |
+| IPM (Intelligent Power Module) | [Amazon](https://www.amazon.com/s?i=industrial&k=IPM+%28Intelligent+Power+Module%29&tag=errorcodefixes-20) \| Mitsubishi OEM; match outdoor unit model exactly |
 | Outdoor unit main control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Often bundled with IPM on smaller units |
-| Compressor | [Amazon](https://www.amazon.com/s?k=Compressor&tag=errorcodefixes-20) \| Major repair; compare to new system cost for older units |
-| Refrigerant (R-410A or R-32) | [Amazon](https://www.amazon.com/s?k=Refrigerant+%28R-410A+or+R-32%29&tag=errorcodefixes-20) \| Requires licensed tech for handling |
+| Compressor | [Amazon](https://www.amazon.com/s?i=industrial&k=Compressor&tag=errorcodefixes-20) \| Major repair; compare to new system cost for older units |
+| Refrigerant (R-410A or R-32) | [Amazon](https://www.amazon.com/s?i=industrial&k=Refrigerant+%28R-410A+or+R-32%29&tag=errorcodefixes-20) \| Requires licensed tech for handling |
 ## When to Call a Pro
 
 P8 involving a compressor or IPM failure requires a licensed HVAC technician with inverter drive diagnostic experience. Compressor replacement on a mini-split also requires refrigerant recovery and recharge — EPA 608 certification is required.

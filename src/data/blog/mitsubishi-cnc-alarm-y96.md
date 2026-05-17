@@ -36,9 +36,9 @@ Alarm Y96 on Mitsubishi CNC systems (M800/M830 series) indicates a servo axis fa
 
 | Part | Notes |
 |------|-------|
-| SSCNET III/H fiber cable | [Amazon](https://www.amazon.com/s?k=SSCNET+III%2FH+fiber+cable&tag=errorcodefixes-20) \| Replace if bent or damaged |
-| Servo motor encoder cable | [Amazon](https://www.amazon.com/s?k=Servo+motor+encoder+cable&tag=errorcodefixes-20) \| Replace if signal loss is detected |
-| MDS-E/EH servo drive | [Amazon](https://www.amazon.com/s?k=MDS-E%2FEH+servo+drive&tag=errorcodefixes-20) \| Replace if drive internal fault is confirmed |
+| SSCNET III/H fiber cable | [Amazon](https://www.amazon.com/s?i=industrial&k=SSCNET+III%2FH+fiber+cable&tag=errorcodefixes-20) \| Replace if bent or damaged |
+| Servo motor encoder cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+motor+encoder+cable&tag=errorcodefixes-20) \| Replace if signal loss is detected |
+| MDS-E/EH servo drive | [Amazon](https://www.amazon.com/s?i=industrial&k=MDS-E%2FEH+servo+drive&tag=errorcodefixes-20) \| Replace if drive internal fault is confirmed |
 ## When to Call a Pro
 
 Mitsubishi CNC servo drive replacement requires parameter matching and SSCNET III/H network reconfiguration. Mitsubishi authorized service handles drive replacement and axis calibration.

@@ -36,9 +36,9 @@ Hoshizaki error code E7 indicates a drain valve fault. During the harvest cycle,
 
 | Part | Notes |
 |------|-------|
-| Drain valve solenoid assembly | [Amazon](https://www.amazon.com/s?k=Drain+valve+solenoid+assembly&tag=errorcodefixes-20) \| Order by model number; Hoshizaki uses different valve sizes by machine capacity |
+| Drain valve solenoid assembly | [Amazon](https://www.amazon.com/s?i=industrial&k=Drain+valve+solenoid+assembly&tag=errorcodefixes-20) \| Order by model number; Hoshizaki uses different valve sizes by machine capacity |
 | Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace if board relay is confirmed failed after valve and wiring are ruled out |
-| Ice machine cleaner | [Amazon](https://www.amazon.com/s?k=Ice+machine+cleaner&tag=errorcodefixes-20) \| Use to prevent recurrence from scale |
+| Ice machine cleaner | [Amazon](https://www.amazon.com/s?i=industrial&k=Ice+machine+cleaner&tag=errorcodefixes-20) \| Use to prevent recurrence from scale |
 ## When to Call a Pro
 
 If the drain valve is new and functioning, but E7 returns after a few cycles, the drain system may have a blockage downstream of the valve preventing proper drainage within the board's timeout window. A technician can confirm drain flow rates and clear the system.

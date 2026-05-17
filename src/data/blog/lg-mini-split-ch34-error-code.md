@@ -37,9 +37,9 @@ CH34 on an LG mini-split system indicates an outdoor unit fault — specifically
 | Part | Notes |
 |------|-------|
 | Outdoor condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match RPM, frame size, and rotation |
-| Condenser fan capacitor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+capacitor&tag=errorcodefixes-20) \| Test before ordering a new motor |
-| Outdoor unit inverter board | [Amazon](https://www.amazon.com/s?k=Outdoor+unit+inverter+board&tag=errorcodefixes-20) \| OEM required; match exact model number |
-| Refrigerant (R-410A or R-32) | [Amazon](https://www.amazon.com/s?k=Refrigerant+%28R-410A+or+R-32%29&tag=errorcodefixes-20) \| Licensed tech only |
+| Condenser fan capacitor | [Amazon](https://www.amazon.com/s?i=industrial&k=Condenser+fan+capacitor&tag=errorcodefixes-20) \| Test before ordering a new motor |
+| Outdoor unit inverter board | [Amazon](https://www.amazon.com/s?i=industrial&k=Outdoor+unit+inverter+board&tag=errorcodefixes-20) \| OEM required; match exact model number |
+| Refrigerant (R-410A or R-32) | [Amazon](https://www.amazon.com/s?i=industrial&k=Refrigerant+%28R-410A+or+R-32%29&tag=errorcodefixes-20) \| Licensed tech only |
 ## When to Call a Pro
 
 CH34 involving inverter or compressor failure requires a certified LG technician with service tools and refrigerant handling capability. Attempting to swap inverter boards without proper diagnosis can result in damage to the replacement board.

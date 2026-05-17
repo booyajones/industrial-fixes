@@ -36,9 +36,9 @@ Rinnai error code 14 indicates the thermal fuse (or flue thermal fuse) has opene
 
 | Part | Notes |
 |------|-------|
-| Thermal fuse (case or combustion type) | [Amazon](https://www.amazon.com/s?k=Thermal+fuse+%28case+or+combustion+type%29&tag=errorcodefixes-20) \| Non-resettable; must be replaced; match temperature rating and model number |
-| Descaling kit (citric acid) | [Amazon](https://www.amazon.com/s?k=Descaling+kit+%28citric+acid%29&tag=errorcodefixes-20) \| Use if scale is confirmed cause; prevents recurrence |
-| Vent pipe section or cap | [Amazon](https://www.amazon.com/s?k=Vent+pipe+section+or+cap&tag=errorcodefixes-20) \| Replace damaged sections contributing to exhaust blockage |
+| Thermal fuse (case or combustion type) | [Amazon](https://www.amazon.com/s?i=industrial&k=Thermal+fuse+%28case+or+combustion+type%29&tag=errorcodefixes-20) \| Non-resettable; must be replaced; match temperature rating and model number |
+| Descaling kit (citric acid) | [Amazon](https://www.amazon.com/s?i=industrial&k=Descaling+kit+%28citric+acid%29&tag=errorcodefixes-20) \| Use if scale is confirmed cause; prevents recurrence |
+| Vent pipe section or cap | [Amazon](https://www.amazon.com/s?i=industrial&k=Vent+pipe+section+or+cap&tag=errorcodefixes-20) \| Replace damaged sections contributing to exhaust blockage |
 ## When to Call a Pro
 
 If the thermal fuse opens again within a short period after replacement, the combustion system or venting has a fundamental problem. Combustion analysis, heat exchanger inspection, and vent design review require a licensed plumber or HVAC technician.

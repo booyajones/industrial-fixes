@@ -38,7 +38,7 @@ Fault code A1 on a Buderus Logamax or Logano boiler typically indicates a servic
 | Part | Notes |
 |------|-------|
 | NTC temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Match the Buderus part number for the specific model (GB142, GB162, etc.) |
-| Condensate siphon / trap | [Amazon](https://www.amazon.com/s?k=Condensate+siphon+%2F+trap&tag=errorcodefixes-20) \| Buderus OEM; condensing models require the correct internal volume |
+| Condensate siphon / trap | [Amazon](https://www.amazon.com/s?i=industrial&k=Condensate+siphon+%2F+trap&tag=errorcodefixes-20) \| Buderus OEM; condensing models require the correct internal volume |
 ## When to Call a Pro
 
 Buderus/Bosch-Thermotechnik equipment requires a registered technician for warranty work and for setting combustion parameters. If A1 is accompanied by combustion anomalies (sooting, flame color issues, CO alarm), do not attempt to reset — call a licensed heating engineer.

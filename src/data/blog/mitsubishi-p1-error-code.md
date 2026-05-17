@@ -48,10 +48,10 @@ On Mitsubishi systems, P1 is also used in some models to indicate a refrigerant 
 
 | Part | Where to Buy | Typical Cost |
 |------|-------------|-------------|
-| Indoor thermistor set (Mitsubishi E22D33426 or equiv.) | [Amazon](https://www.amazon.com/s?k=Indoor+thermistor+set+%28Mitsubishi+E22D33426+or+equiv.%29&tag=errorcodefixes-20) \| HVAC Parts Shop, eBay OEM parts | $20–$50 |
+| Indoor thermistor set (Mitsubishi E22D33426 or equiv.) | [Amazon](https://www.amazon.com/s?i=industrial&k=Indoor+thermistor+set+%28Mitsubishi+E22D33426+or+equiv.%29&tag=errorcodefixes-20) \| HVAC Parts Shop, eBay OEM parts | $20–$50 |
 | Indoor fan motor (model-specific, e.g., Mitsubishi E22-M00 series) | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| RepairClinic, HVAC Parts Shop | $80–$180 |
-| Refrigerant R-410A (tech-supplied, requires EPA 608) | [Amazon](https://www.amazon.com/s?k=Refrigerant+R-410A+%28tech-supplied%2C+requires+EPA+608%29&tag=errorcodefixes-20) \| N/A — licensed tech only | $50–$200 (labor + material) |
-| Replacement filter screens | [Amazon](https://www.amazon.com/s?k=Replacement+filter+screens&tag=errorcodefixes-20) \| Amazon, Mitsubishi dealer | $10–$25 |
+| Refrigerant R-410A (tech-supplied, requires EPA 608) | [Amazon](https://www.amazon.com/s?i=industrial&k=Refrigerant+R-410A+%28tech-supplied%2C+requires+EPA+608%29&tag=errorcodefixes-20) \| N/A — licensed tech only | $50–$200 (labor + material) |
+| Replacement filter screens | [Amazon](https://www.amazon.com/s?i=industrial&k=Replacement+filter+screens&tag=errorcodefixes-20) \| Amazon, Mitsubishi dealer | $10–$25 |
 ## When to Call a Professional
 
 If coil freezing returns after cleaning the filter and confirming good airflow, you almost certainly have a refrigerant leak. Refrigerant work requires EPA Section 608 certification — this is not a DIY repair. A tech needs to find the leak, recover the remaining charge, repair the leak, pressure test, evacuate to 500 microns, and recharge to the nameplate specification. Tell them: "Mitsubishi P1 freeze fault, filter is clean, fan runs fine. I suspect low refrigerant — I need a leak check and charge verification."

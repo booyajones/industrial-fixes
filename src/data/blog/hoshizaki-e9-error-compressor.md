@@ -60,11 +60,11 @@ Hoshizaki is one of the leading commercial ice machine brands in North America, 
 
 ## Parts You May Need
 
-- [Hoshizaki Compressor Start Relay Replacement](https://www.amazon.com/s?k=Hoshizaki+ice+machine+compressor+start+relay&tag=errorcodefixes-20)
+- [Hoshizaki Compressor Start Relay Replacement](https://www.amazon.com/s?i=industrial&k=Hoshizaki+ice+machine+compressor+start+relay&tag=errorcodefixes-20)
 - [Hoshizaki Run Capacitor Ice Machine](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20)
-- [Commercial Ice Machine Condenser Coil Cleaner](https://www.amazon.com/s?k=commercial+ice+machine+condenser+coil+cleaner&tag=errorcodefixes-20)
+- [Commercial Ice Machine Condenser Coil Cleaner](https://www.amazon.com/s?i=industrial&k=commercial+ice+machine+condenser+coil+cleaner&tag=errorcodefixes-20)
 - [Refrigeration Compressor Multimeter Test Kit](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20)
-- [Capacitor Meter HVAC](https://www.amazon.com/s?k=capacitor+meter+HVAC+refrigeration&tag=errorcodefixes-20)
+- [Capacitor Meter HVAC](https://www.amazon.com/s?i=industrial&k=capacitor+meter+HVAC+refrigeration&tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

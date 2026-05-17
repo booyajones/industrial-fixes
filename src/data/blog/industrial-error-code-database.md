@@ -20,15 +20,15 @@ This is the master lookup page for ErrorCodeFixes. If you landed here with a cod
 
 ## Equipment Categories Covered
 
-| [Category](https://www.amazon.com/s?k=Category&tag=errorcodefixes-20) | Typical Equipment |
+| [Category](https://www.amazon.com/s?i=industrial&k=Category&tag=errorcodefixes-20) | Typical Equipment |
 |---|---|
-| [HVAC](https://www.amazon.com/s?k=HVAC&tag=errorcodefixes-20) | Furnaces, rooftop units, mini splits, chillers, heat pumps |
-| [Refrigeration](https://www.amazon.com/s?k=Refrigeration&tag=errorcodefixes-20) | Reach-ins, walk-ins, ice machines, display cases |
-| [VFDs and drives](https://www.amazon.com/s?k=VFDs+and+drives&tag=errorcodefixes-20) | Pumps, fans, conveyors, compressors, machine tools |
-| [CNC and motion](https://www.amazon.com/s?k=CNC+and+motion&tag=errorcodefixes-20) | Fanuc, Haas, Siemens, Heidenhain, servo systems |
-| [Boilers and water heating](https://www.amazon.com/s?k=Boilers+and+water+heating&tag=errorcodefixes-20) | Residential and commercial hydronic equipment |
-| [Pumps and hydraulics](https://www.amazon.com/s?k=Pumps+and+hydraulics&tag=errorcodefixes-20) | Booster pumps, hydraulic power units, valves |
-| [Commercial kitchen](https://www.amazon.com/s?k=Commercial+kitchen&tag=errorcodefixes-20) | Dishwashers, ovens, fryers, steamers |
+| [HVAC](https://www.amazon.com/s?i=industrial&k=HVAC&tag=errorcodefixes-20) | Furnaces, rooftop units, mini splits, chillers, heat pumps |
+| [Refrigeration](https://www.amazon.com/s?i=industrial&k=Refrigeration&tag=errorcodefixes-20) | Reach-ins, walk-ins, ice machines, display cases |
+| [VFDs and drives](https://www.amazon.com/s?i=industrial&k=VFDs+and+drives&tag=errorcodefixes-20) | Pumps, fans, conveyors, compressors, machine tools |
+| [CNC and motion](https://www.amazon.com/s?i=industrial&k=CNC+and+motion&tag=errorcodefixes-20) | Fanuc, Haas, Siemens, Heidenhain, servo systems |
+| [Boilers and water heating](https://www.amazon.com/s?i=industrial&k=Boilers+and+water+heating&tag=errorcodefixes-20) | Residential and commercial hydronic equipment |
+| [Pumps and hydraulics](https://www.amazon.com/s?i=industrial&k=Pumps+and+hydraulics&tag=errorcodefixes-20) | Booster pumps, hydraulic power units, valves |
+| [Commercial kitchen](https://www.amazon.com/s?i=industrial&k=Commercial+kitchen&tag=errorcodefixes-20) | Dishwashers, ovens, fryers, steamers |
 
 ## How to Use the Database {#fix}
 

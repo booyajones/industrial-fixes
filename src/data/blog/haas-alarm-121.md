@@ -40,10 +40,10 @@ tags:
 
 | Part | Notes |
 |------|-------|
-| Proximity switch | [Amazon](https://www.amazon.com/s?k=Proximity+switch&tag=errorcodefixes-20) \| Common if the control never sees arm position |
-| ATC arm gripper fingers | [Amazon](https://www.amazon.com/s?k=ATC+arm+gripper+fingers&tag=errorcodefixes-20) \| Replace if bent or worn |
-| Air regulator / filter parts | [Amazon](https://www.amazon.com/s?k=Air+regulator+%2F+filter+parts&tag=errorcodefixes-20) \| Low air causes incomplete actuation |
-| ATC gearbox components | [Amazon](https://www.amazon.com/s?k=ATC+gearbox+components&tag=errorcodefixes-20) \| If timing will not hold |
+| Proximity switch | [Amazon](https://www.amazon.com/s?i=industrial&k=Proximity+switch&tag=errorcodefixes-20) \| Common if the control never sees arm position |
+| ATC arm gripper fingers | [Amazon](https://www.amazon.com/s?i=industrial&k=ATC+arm+gripper+fingers&tag=errorcodefixes-20) \| Replace if bent or worn |
+| Air regulator / filter parts | [Amazon](https://www.amazon.com/s?i=industrial&k=Air+regulator+%2F+filter+parts&tag=errorcodefixes-20) \| Low air causes incomplete actuation |
+| ATC gearbox components | [Amazon](https://www.amazon.com/s?i=industrial&k=ATC+gearbox+components&tag=errorcodefixes-20) \| If timing will not hold |
 ## When to Call a Pro
 
 If the arm is visibly out of time or the changer jammed during a crash, the safest path is a proper Haas recovery and alignment procedure. Forcing the changer can bend the arm or damage the carousel.

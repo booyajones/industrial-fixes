@@ -54,10 +54,10 @@ All trouble conditions must be investigated and corrected. Building owners are r
 
 | Part | Notes |
 |------|-------|
-| Sealed lead-acid battery | [Amazon](https://www.amazon.com/s?k=Sealed+lead-acid+battery&tag=errorcodefixes-20) \| 12V or 24V depending on model |
-| Smoke detector head | [Amazon](https://www.amazon.com/s?k=Smoke+detector+head&tag=errorcodefixes-20) \| Replace on dirty or failed detector |
-| End-of-line resistor | [Amazon](https://www.amazon.com/s?k=End-of-line+resistor&tag=errorcodefixes-20) \| Required on Class B circuits |
-| Loop card / SLC module | [Amazon](https://www.amazon.com/s?k=Loop+card+%2F+SLC+module&tag=errorcodefixes-20) \| Replace on persistent loop communication faults |
+| Sealed lead-acid battery | [Amazon](https://www.amazon.com/s?i=industrial&k=Sealed+lead-acid+battery&tag=errorcodefixes-20) \| 12V or 24V depending on model |
+| Smoke detector head | [Amazon](https://www.amazon.com/s?i=industrial&k=Smoke+detector+head&tag=errorcodefixes-20) \| Replace on dirty or failed detector |
+| End-of-line resistor | [Amazon](https://www.amazon.com/s?i=industrial&k=End-of-line+resistor&tag=errorcodefixes-20) \| Required on Class B circuits |
+| Loop card / SLC module | [Amazon](https://www.amazon.com/s?i=industrial&k=Loop+card+%2F+SLC+module&tag=errorcodefixes-20) \| Replace on persistent loop communication faults |
 ## Jump to Fix
 
 - **Ground fault** → Isolate circuits systematically → Use ground fault locator → Repair insulation

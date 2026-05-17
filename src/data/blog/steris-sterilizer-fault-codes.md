@@ -52,10 +52,10 @@ V-PRO hydrogen peroxide sterilizers have different fault codes related to the H2
 | Part | Notes |
 |------|-------|
 | Door gasket (EPDM) | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?tag=errorcodefixes-20) \| Replace annually or on F04 |
-| Steam trap | [Amazon](https://www.amazon.com/s?k=Steam+trap&tag=errorcodefixes-20) \| Replace on drain fault |
-| Pressure transducer | [Amazon](https://www.amazon.com/s?k=Pressure+transducer&tag=errorcodefixes-20) \| Replace on F03 |
+| Steam trap | [Amazon](https://www.amazon.com/s?i=industrial&k=Steam+trap&tag=errorcodefixes-20) \| Replace on drain fault |
+| Pressure transducer | [Amazon](https://www.amazon.com/s?i=industrial&k=Pressure+transducer&tag=errorcodefixes-20) \| Replace on F03 |
 | Temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Replace on F02 |
-| Door interlock switch | [Amazon](https://www.amazon.com/s?k=Door+interlock+switch&tag=errorcodefixes-20) \| Replace on door fault |
+| Door interlock switch | [Amazon](https://www.amazon.com/s?i=industrial&k=Door+interlock+switch&tag=errorcodefixes-20) \| Replace on door fault |
 ## When to Call a Pro
 STERIS sterilizer qualification, IQ/OQ/PQ validation, and steam quality testing require biomedical engineers or STERIS-trained service technicians. Sterilizer failures in healthcare settings are a patient safety issue and must be resolved before the unit is returned to service.
 

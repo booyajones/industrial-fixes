@@ -39,7 +39,7 @@ York furnace **error code E2** indicates a **pressure switch fault** — the ind
 | Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match to model; York/Luxaire switches are model-specific |
 | Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| Available in bulk at HVAC supply; measure ID before ordering |
 | Inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Replace when motor is seized or capacitor test confirms failure |
-| Inducer capacitor | [Amazon](https://www.amazon.com/s?k=Inducer+capacitor&tag=errorcodefixes-20) \| Test before replacing motor; often cheaper cause of slow inducer |
+| Inducer capacitor | [Amazon](https://www.amazon.com/s?i=industrial&k=Inducer+capacitor&tag=errorcodefixes-20) \| Test before replacing motor; often cheaper cause of slow inducer |
 ## When to Call a Pro
 
 If E2 persists with a confirmed clear hose, good inducer speed, and a new pressure switch, the furnace's heat exchanger may be cracked, altering pressure dynamics in the flue system. Heat exchanger inspection requires a licensed HVAC technician.

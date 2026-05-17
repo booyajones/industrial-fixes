@@ -50,8 +50,8 @@ Low gas pressure requires a licensed plumber or gas tech to inspect the gas pipi
 | Part | Where to Buy |
 |------|-------------|
 | [Navien igniter / flame sensor assembly](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
-| [Condensate drain kit](https://www.amazon.com/s?k=Condensate+drain+kit&tag=errorcodefixes-20) | Amazon, SupplyHouse |
-| [Gas pressure test kit (manometer)](https://www.amazon.com/s?k=Gas+pressure+test+kit+%28manometer%29&tag=errorcodefixes-20) | Amazon, Grainger |
+| [Condensate drain kit](https://www.amazon.com/s?i=industrial&k=Condensate+drain+kit&tag=errorcodefixes-20) | Amazon, SupplyHouse |
+| [Gas pressure test kit (manometer)](https://www.amazon.com/s?i=industrial&k=Gas+pressure+test+kit+%28manometer%29&tag=errorcodefixes-20) | Amazon, Grainger |
 
 ## When to Call a Technician
 

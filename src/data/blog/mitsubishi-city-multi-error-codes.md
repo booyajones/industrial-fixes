@@ -41,9 +41,9 @@ Both codes cause the affected zone to stop cooling or heating. E6 often affects 
 
 | Part | Notes |
 |------|-------|
-| Electronic expansion valve (EEV) | [Amazon](https://www.amazon.com/s?k=Electronic+expansion+valve+%28EEV%29&tag=errorcodefixes-20) \| Replace if P8 persists with adequate refrigerant charge |
-| Communication cable (VCTF 0.75mm²) | [Amazon](https://www.amazon.com/s?k=Communication+cable+%28VCTF+0.75mm%C2%B2%29&tag=errorcodefixes-20) \| Replace if continuity test shows broken communication conductor |
-| Refrigerant charge (R-410A) | [Amazon](https://www.amazon.com/s?k=Refrigerant+charge+%28R-410A%29&tag=errorcodefixes-20) \| Add only after locating and repairing leak; EPA 608 certification required |
+| Electronic expansion valve (EEV) | [Amazon](https://www.amazon.com/s?i=industrial&k=Electronic+expansion+valve+%28EEV%29&tag=errorcodefixes-20) \| Replace if P8 persists with adequate refrigerant charge |
+| Communication cable (VCTF 0.75mm²) | [Amazon](https://www.amazon.com/s?i=industrial&k=Communication+cable+%28VCTF+0.75mm%C2%B2%29&tag=errorcodefixes-20) \| Replace if continuity test shows broken communication conductor |
+| Refrigerant charge (R-410A) | [Amazon](https://www.amazon.com/s?i=industrial&k=Refrigerant+charge+%28R-410A%29&tag=errorcodefixes-20) \| Add only after locating and repairing leak; EPA 608 certification required |
 ## When to Call a Pro
 
 Mitsubishi City Multi VRF systems require specialized diagnostic tools (TG-2000, MelCloud) and Mitsubishi Diamond Contractor training to diagnose correctly. Refrigerant work on VRF systems requires EPA 608 certification and VRF-specific recovery equipment.

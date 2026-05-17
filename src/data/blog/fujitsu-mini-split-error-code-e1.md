@@ -38,7 +38,7 @@ Fujitsu error code E1 (displayed as "E:01" on the remote or flashed on the unit)
 |------|-------|
 | Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| The most common board failure for persistent E1; Fujitsu part number is model-specific |
 | Fuse (for outdoor PCB) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Typically 6.3A or 10A; check the PCB silkscreen for rating |
-| Communication cable (shielded 3-conductor) | [Amazon](https://www.amazon.com/s?k=Communication+cable+%28shielded+3-conductor%29&tag=errorcodefixes-20) \| Replace if damaged; 18 AWG minimum |
+| Communication cable (shielded 3-conductor) | [Amazon](https://www.amazon.com/s?i=industrial&k=Communication+cable+%28shielded+3-conductor%29&tag=errorcodefixes-20) \| Replace if damaged; 18 AWG minimum |
 ## When to Call a Pro
 
 If wiring is confirmed correct and both units have power, but E1 persists, a Fujitsu-authorized technician should diagnose the PCBs with manufacturer-specific test procedures. Replacing the wrong board is an expensive mistake.

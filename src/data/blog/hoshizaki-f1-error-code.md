@@ -36,8 +36,8 @@ The F1 error on Hoshizaki ice machines indicates abnormal drain pump operation �
 
 | Part | Notes |
 |------|-------|
-| Drain pump motor | [Amazon](https://www.amazon.com/s?k=Drain+pump+motor&tag=errorcodefixes-20) \| Match to Hoshizaki model — voltage and flow rate vary |
-| Drain check valve | [Amazon](https://www.amazon.com/s?k=Drain+check+valve&tag=errorcodefixes-20) \| Replace if stuck closed |
+| Drain pump motor | [Amazon](https://www.amazon.com/s?i=industrial&k=Drain+pump+motor&tag=errorcodefixes-20) \| Match to Hoshizaki model — voltage and flow rate vary |
+| Drain check valve | [Amazon](https://www.amazon.com/s?i=industrial&k=Drain+check+valve&tag=errorcodefixes-20) \| Replace if stuck closed |
 | Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| If pump has voltage but board relay failed |
 ## When to Call a Pro
 

@@ -39,8 +39,8 @@ E5 on a Burnham boiler indicates a sensor fault. Depending on the specific Burnh
 | Part | Notes |
 |------|-------|
 | Supply water temperature sensor (NTC) | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Match to Burnham control model; immersion type most common |
-| Outdoor reset sensor | [Amazon](https://www.amazon.com/s?k=Outdoor+reset+sensor&tag=errorcodefixes-20) \| Only if fault references outdoor sensor input |
-| Sensor wiring harness | [Amazon](https://www.amazon.com/s?k=Sensor+wiring+harness&tag=errorcodefixes-20) \| Replace if insulation is damaged near heat source |
+| Outdoor reset sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Outdoor+reset+sensor&tag=errorcodefixes-20) \| Only if fault references outdoor sensor input |
+| Sensor wiring harness | [Amazon](https://www.amazon.com/s?i=industrial&k=Sensor+wiring+harness&tag=errorcodefixes-20) \| Replace if insulation is damaged near heat source |
 | Boiler control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace only if sensors test good and fault persists |
 ## When to Call a Pro
 

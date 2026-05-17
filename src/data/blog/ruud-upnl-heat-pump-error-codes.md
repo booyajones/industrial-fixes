@@ -121,10 +121,10 @@ Disconnect the suspect sensor and measure resistance with a calibrated ohmmeter 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
 | [Ruud/Rheem Outdoor Control Board (Part # 62-25338-01)](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Replaces failed main outdoor control board causing communication or sensor faults | $180-$320 |
-| [Reversing Valve Solenoid Coil (Part # 62-101684-04)](https://www.amazon.com/s?k=Ruud+reversing+valve+solenoid+coil&tag=errorcodefixes-20) | Replaces failed solenoid coil on reversing valve without replacing full valve | $35-$65 |
-| [NTC Thermistor Sensor (Part # 62-103189-01)](https://www.amazon.com/s?k=Ruud+Rheem+NTC+thermistor+10k+HVAC+sensor&tag=errorcodefixes-20) | Replaces failed outdoor ambient, discharge, or suction temperature sensors | $15-$30 |
-| [EcoNet Wi-Fi Control Module (Part # RWFIO-W01B)](https://www.amazon.com/s?k=Ruud+EcoNet+WiFi+module+RWFIO&tag=errorcodefixes-20) | Replaces failed EcoNet communicating module | $95-$145 |
-| [Defrost Control Thermostat (Part # 47-102038-01)](https://www.amazon.com/s?k=Ruud+Rheem+defrost+thermostat+47-102038&tag=errorcodefixes-20) | Replaces failed clip-on defrost thermostat on outdoor coil | $12-$25 |
+| [Reversing Valve Solenoid Coil (Part # 62-101684-04)](https://www.amazon.com/s?i=industrial&k=Ruud+reversing+valve+solenoid+coil&tag=errorcodefixes-20) | Replaces failed solenoid coil on reversing valve without replacing full valve | $35-$65 |
+| [NTC Thermistor Sensor (Part # 62-103189-01)](https://www.amazon.com/s?i=industrial&k=Ruud+Rheem+NTC+thermistor+10k+HVAC+sensor&tag=errorcodefixes-20) | Replaces failed outdoor ambient, discharge, or suction temperature sensors | $15-$30 |
+| [EcoNet Wi-Fi Control Module (Part # RWFIO-W01B)](https://www.amazon.com/s?i=industrial&k=Ruud+EcoNet+WiFi+module+RWFIO&tag=errorcodefixes-20) | Replaces failed EcoNet communicating module | $95-$145 |
+| [Defrost Control Thermostat (Part # 47-102038-01)](https://www.amazon.com/s?i=industrial&k=Ruud+Rheem+defrost+thermostat+47-102038&tag=errorcodefixes-20) | Replaces failed clip-on defrost thermostat on outdoor coil | $12-$25 |
 | [ECM Outdoor Fan Motor](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) | Replaces failed variable-speed outdoor condenser fan motor | $220-$450 |
 
 ## When to Call a Pro

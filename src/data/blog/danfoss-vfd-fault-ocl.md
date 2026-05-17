@@ -36,9 +36,9 @@ Danfoss fault OCL (Overcurrent Limit) means the drive's output current reached t
 
 | Part | Notes |
 |------|-------|
-| Motor (oversized replacement) | [Amazon](https://www.amazon.com/s?k=Motor+%28oversized+replacement%29&tag=errorcodefixes-20) \| If the application genuinely needs more torque than the current motor can provide |
-| VFD (larger frame) | [Amazon](https://www.amazon.com/s?k=VFD+%28larger+frame%29&tag=errorcodefixes-20) \| If the existing drive is undersized for the actual load current |
-| Line filter/reactor | [Amazon](https://www.amazon.com/s?k=Line+filter%2Freactor&tag=errorcodefixes-20) \| Won't fix OCL but reduces electrical stress if OCL is marginal |
+| Motor (oversized replacement) | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+%28oversized+replacement%29&tag=errorcodefixes-20) \| If the application genuinely needs more torque than the current motor can provide |
+| VFD (larger frame) | [Amazon](https://www.amazon.com/s?i=industrial&k=VFD+%28larger+frame%29&tag=errorcodefixes-20) \| If the existing drive is undersized for the actual load current |
+| Line filter/reactor | [Amazon](https://www.amazon.com/s?i=industrial&k=Line+filter%2Freactor&tag=errorcodefixes-20) \| Won't fix OCL but reduces electrical stress if OCL is marginal |
 ## When to Call a Pro
 
 If OCL persists after correct motor data entry and appropriate ramp times, the application may require a detailed load analysis and a properly matched motor/drive combination — a job for a drives application engineer.

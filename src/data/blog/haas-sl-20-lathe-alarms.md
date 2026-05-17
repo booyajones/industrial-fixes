@@ -53,11 +53,11 @@ The Haas SL-20 is a two-axis CNC lathe found in job shops and production turning
 | Part | Notes |
 |------|-------|
 | Hydraulic pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Common for clamp/interlock complaints |
-| Turret sensor / prox | [Amazon](https://www.amazon.com/s?k=Turret+sensor+%2F+prox&tag=errorcodefixes-20) \| For position confirmation faults |
-| Way lube parts | [Amazon](https://www.amazon.com/s?k=Way+lube+parts&tag=errorcodefixes-20) \| Motion and axis health depend on lubrication |
-| Servo amp | [Amazon](https://www.amazon.com/s?k=Servo+amp&tag=errorcodefixes-20) \| For repeated X/Z drive alarms |
-| Chuck and hydraulic filters | [Amazon](https://www.amazon.com/s?k=Chuck+and+hydraulic+filters&tag=errorcodefixes-20) \| Low pressure creates multiple false symptoms |
-| Spindle tooling / inserts | [Amazon](https://www.amazon.com/s?k=Spindle+tooling+%2F+inserts&tag=errorcodefixes-20) \| Often the real cause of overload alarms |
+| Turret sensor / prox | [Amazon](https://www.amazon.com/s?i=industrial&k=Turret+sensor+%2F+prox&tag=errorcodefixes-20) \| For position confirmation faults |
+| Way lube parts | [Amazon](https://www.amazon.com/s?i=industrial&k=Way+lube+parts&tag=errorcodefixes-20) \| Motion and axis health depend on lubrication |
+| Servo amp | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+amp&tag=errorcodefixes-20) \| For repeated X/Z drive alarms |
+| Chuck and hydraulic filters | [Amazon](https://www.amazon.com/s?i=industrial&k=Chuck+and+hydraulic+filters&tag=errorcodefixes-20) \| Low pressure creates multiple false symptoms |
+| Spindle tooling / inserts | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+tooling+%2F+inserts&tag=errorcodefixes-20) \| Often the real cause of overload alarms |
 ## When to Call a Pro
 
 If the SL-20 has had a turret crash, do not trust simple reset-and-run behavior. A slightly shifted turret or damaged sensor flag will keep making bad parts until the underlying alignment problem is corrected.

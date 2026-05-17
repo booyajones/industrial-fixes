@@ -36,9 +36,9 @@ Fanuc **Alarm 411** is a **Servo Alarm** — specifically a radial direction ove
 
 | Part | Notes |
 |------|-------|
-| Encoder feedback cable | [Amazon](https://www.amazon.com/s?k=Encoder+feedback+cable&tag=errorcodefixes-20) \| Replace if cable shows any physical damage or intermittent continuity |
-| Servo amplifier module | [Amazon](https://www.amazon.com/s?k=Servo+amplifier+module&tag=errorcodefixes-20) \| Replace when amplifier-side alarm code points to internal failure |
-| Servo motor | [Amazon](https://www.amazon.com/s?k=Servo+motor&tag=errorcodefixes-20) \| Replace when encoder or motor winding tests confirm motor-side failure |
+| Encoder feedback cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+feedback+cable&tag=errorcodefixes-20) \| Replace if cable shows any physical damage or intermittent continuity |
+| Servo amplifier module | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+amplifier+module&tag=errorcodefixes-20) \| Replace when amplifier-side alarm code points to internal failure |
+| Servo motor | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+motor&tag=errorcodefixes-20) \| Replace when encoder or motor winding tests confirm motor-side failure |
 ## When to Call a Pro
 
 Alarm 411 root-cause diagnosis often requires oscilloscope-level servo trace analysis and Fanuc SERVO GUIDE software. Fanuc-certified service engineers and CNC machine tool dealers' service departments have this tooling and training.

@@ -47,11 +47,11 @@ Hyster electric forklifts use electromagnetic parking brakes. A brake fault can 
 
 | Part | Notes |
 |------|-------|
-| Motor thermal sensor | [Amazon](https://www.amazon.com/s?k=Motor+thermal+sensor&tag=errorcodefixes-20) \| Replace on thermal fault |
-| CAN bus harness | [Amazon](https://www.amazon.com/s?k=CAN+bus+harness&tag=errorcodefixes-20) \| Replace on communication fault |
-| Brake coil | [Amazon](https://www.amazon.com/s?k=Brake+coil&tag=errorcodefixes-20) \| Replace on brake fault |
-| Battery charger | [Amazon](https://www.amazon.com/s?k=Battery+charger&tag=errorcodefixes-20) \| Replace on charging issues |
-| Drive controller | [Amazon](https://www.amazon.com/s?k=Drive+controller&tag=errorcodefixes-20) \| Replace on persistent fault |
+| Motor thermal sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+thermal+sensor&tag=errorcodefixes-20) \| Replace on thermal fault |
+| CAN bus harness | [Amazon](https://www.amazon.com/s?i=industrial&k=CAN+bus+harness&tag=errorcodefixes-20) \| Replace on communication fault |
+| Brake coil | [Amazon](https://www.amazon.com/s?i=industrial&k=Brake+coil&tag=errorcodefixes-20) \| Replace on brake fault |
+| Battery charger | [Amazon](https://www.amazon.com/s?i=industrial&k=Battery+charger&tag=errorcodefixes-20) \| Replace on charging issues |
+| Drive controller | [Amazon](https://www.amazon.com/s?i=industrial&k=Drive+controller&tag=errorcodefixes-20) \| Replace on persistent fault |
 ## When to Call a Pro
 Hyster mast, hydraulic, and driveline repairs require Hyster-Yale authorized service. PC Service Tool access and controller calibration require dealer authorization.
 

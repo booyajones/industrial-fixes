@@ -50,7 +50,7 @@ Three consecutive limit trips lock out the unit. The cause is almost always rest
 | Part | Notes |
 |------|-------|
 | UCM control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Match to unit model and refrigerant type |
-| SAT/OAT/RAT sensors | [Amazon](https://www.amazon.com/s?k=SAT%2FOAT%2FRAT+sensors&tag=errorcodefixes-20) \| Thermistor type — check resistance vs. temp chart |
+| SAT/OAT/RAT sensors | [Amazon](https://www.amazon.com/s?i=industrial&k=SAT%2FOAT%2FRAT+sensors&tag=errorcodefixes-20) \| Thermistor type — check resistance vs. temp chart |
 | Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Clean with emery cloth before condemning |
 | Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Check ┬╡F value with capacitor meter |
 | Limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Match opening temperature rating |

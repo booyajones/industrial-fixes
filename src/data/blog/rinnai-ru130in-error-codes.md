@@ -183,11 +183,11 @@ Communication lost with an external device — a cascade controller, Control-R W
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
-| [Rinnai Tankless Descaler Flush Kit](https://www.amazon.com/s?k=Rinnai+tankless+water+heater+descaler+flush+kit&tag=errorcodefixes-20) | Error 79 fix — required scale maintenance; protects secondary HX | $25–$60 |
-| [Condensate Neutralizer Replacement Media](https://www.amazon.com/s?k=condensate+neutralizer+media+replacement+tankless&tag=errorcodefixes-20) | Annual condensate maintenance on condensing units | $15–$35 |
-| [Gas Water Heater Flame Rod](https://www.amazon.com/s?k=gas+water+heater+igniter+flame+rod+sensor&tag=errorcodefixes-20) | Error 12 fix — ionization sensor replacement | $15–$45 |
-| [NTC Thermistor 10K Water Heater Sensor](https://www.amazon.com/s?k=NTC+thermistor+sensor+tankless+water+heater&tag=errorcodefixes-20) | Errors 31/32/33 — temperature sensor replacement | $12–$30 |
-| [Tankless Water Heater Flow Sensor Turbine](https://www.amazon.com/s?k=tankless+water+heater+flow+sensor+turbine+replacement&tag=errorcodefixes-20) | Error 65 fix — flow sensor turbine replacement | $20–$55 |
+| [Rinnai Tankless Descaler Flush Kit](https://www.amazon.com/s?i=industrial&k=Rinnai+tankless+water+heater+descaler+flush+kit&tag=errorcodefixes-20) | Error 79 fix — required scale maintenance; protects secondary HX | $25–$60 |
+| [Condensate Neutralizer Replacement Media](https://www.amazon.com/s?i=industrial&k=condensate+neutralizer+media+replacement+tankless&tag=errorcodefixes-20) | Annual condensate maintenance on condensing units | $15–$35 |
+| [Gas Water Heater Flame Rod](https://www.amazon.com/s?i=industrial&k=gas+water+heater+igniter+flame+rod+sensor&tag=errorcodefixes-20) | Error 12 fix — ionization sensor replacement | $15–$45 |
+| [NTC Thermistor 10K Water Heater Sensor](https://www.amazon.com/s?i=industrial&k=NTC+thermistor+sensor+tankless+water+heater&tag=errorcodefixes-20) | Errors 31/32/33 — temperature sensor replacement | $12–$30 |
+| [Tankless Water Heater Flow Sensor Turbine](https://www.amazon.com/s?i=industrial&k=tankless+water+heater+flow+sensor+turbine+replacement&tag=errorcodefixes-20) | Error 65 fix — flow sensor turbine replacement | $20–$55 |
 
 ---
 

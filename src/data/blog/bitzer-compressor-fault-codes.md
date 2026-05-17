@@ -432,6 +432,6 @@ Default Modbus settings: **9600 baud, 8-N-1, address 1** (configurable via BEST 
 
 Find replacement parts for Bitzer compressors on Amazon:
 
-- [Bitzer Compressor Parts & Accessories](https://www.amazon.com/s?k=Bitzer+compressor+parts&tag=errorcodefixes-20)
-- [Bitzer Crankcase Heater Replacement](https://www.amazon.com/s?k=Bitzer+crankcase+heater+replacement&tag=errorcodefixes-20)
+- [Bitzer Compressor Parts & Accessories](https://www.amazon.com/s?i=industrial&k=Bitzer+compressor+parts&tag=errorcodefixes-20)
+- [Bitzer Crankcase Heater Replacement](https://www.amazon.com/s?i=industrial&k=Bitzer+crankcase+heater+replacement&tag=errorcodefixes-20)
 - [Bitzer High Pressure Switch & Sensors](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20)

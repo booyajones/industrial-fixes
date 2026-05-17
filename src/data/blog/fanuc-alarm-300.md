@@ -51,10 +51,10 @@ The "n" in "n-TH AX" refers to the axis number — Alarm 300 with axis 1 = X axi
 
 | Part | Where to Buy | Typical Cost |
 |------|-------------|-------------|
-| Fanuc APC battery (ER6C 3.6V AA Lithium, A98L-0031-0012) | [Amazon](https://www.amazon.com/s?k=Fanuc+APC+battery+%28ER6C+3.6V+AA+Lithium%2C+A98L-0031-0012%29&tag=errorcodefixes-20) \| Fanuc America, AutomationDirect, Amazon | $8–$20 each |
-| Fanuc absolute encoder (model-specific A860-0309-T301 or equiv.) | [Amazon](https://www.amazon.com/s?k=Fanuc+absolute+encoder+%28model-specific+A860-0309-T301+or+equiv.%29&tag=errorcodefixes-20) \| Fanuc America, CNC parts dealers | $400–$1,200 |
-| Encoder cable (model-specific) | [Amazon](https://www.amazon.com/s?k=Encoder+cable+%28model-specific%29&tag=errorcodefixes-20) \| Fanuc America, Motion Controls LLC | $80–$300 |
-| Servo amplifier (model-specific) | [Amazon](https://www.amazon.com/s?k=Servo+amplifier+%28model-specific%29&tag=errorcodefixes-20) \| Fanuc America, used CNC dealers | $500–$2,500 |
+| Fanuc APC battery (ER6C 3.6V AA Lithium, A98L-0031-0012) | [Amazon](https://www.amazon.com/s?i=industrial&k=Fanuc+APC+battery+%28ER6C+3.6V+AA+Lithium%2C+A98L-0031-0012%29&tag=errorcodefixes-20) \| Fanuc America, AutomationDirect, Amazon | $8–$20 each |
+| Fanuc absolute encoder (model-specific A860-0309-T301 or equiv.) | [Amazon](https://www.amazon.com/s?i=industrial&k=Fanuc+absolute+encoder+%28model-specific+A860-0309-T301+or+equiv.%29&tag=errorcodefixes-20) \| Fanuc America, CNC parts dealers | $400–$1,200 |
+| Encoder cable (model-specific) | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+cable+%28model-specific%29&tag=errorcodefixes-20) \| Fanuc America, Motion Controls LLC | $80–$300 |
+| Servo amplifier (model-specific) | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+amplifier+%28model-specific%29&tag=errorcodefixes-20) \| Fanuc America, used CNC dealers | $500–$2,500 |
 ## When to Call a Professional
 
 If you've replaced the battery with the machine powered on, cleared the alarm, re-referenced the axes, and Alarm 300 returns — the encoder itself is likely failing. Encoder replacement requires removal of the servo motor, encoder disassembly, and re-initialization — a job for a Fanuc-trained technician. If Alarm 300 returns on multiple axes simultaneously after battery replacement, the servo amplifier or the CNC control's encoder interface card may have failed. Tell the tech: "Alarm 300 on axis [n], battery replaced with machine powered on, alarm clears but returns within [minutes/hours/power cycles]. I need encoder or amp diagnosis."

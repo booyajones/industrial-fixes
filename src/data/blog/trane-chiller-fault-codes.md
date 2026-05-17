@@ -453,6 +453,6 @@ Do not perform a factory reset of CH530 parameters without first documenting all
 
 Find replacement parts for Trane chillers on Amazon:
 
-- [Trane Chiller Parts & Controls](https://www.amazon.com/s?k=Trane+chiller+parts&tag=errorcodefixes-20)
+- [Trane Chiller Parts & Controls](https://www.amazon.com/s?i=industrial&k=Trane+chiller+parts&tag=errorcodefixes-20)
 - [Trane HVAC Temperature Sensor Replacement](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20)
 - [Trane Chiller Control Board Replacement](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20)

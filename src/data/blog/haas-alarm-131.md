@@ -102,9 +102,9 @@ An open switch that should be closed is your fault.
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|-------------|
-| E-Stop Pushbutton (22mm, twist release) | $15–$40 | [Amazon](https://www.amazon.com/s?k=E-stop+mushroom+pushbutton+22mm+twist+release+NC&tag=errorcodefixes-20) |
-| Door Interlock Safety Switch | $25–$80 | [Amazon](https://www.amazon.com/s?k=door+interlock+safety+switch+CNC+machine+tool&tag=errorcodefixes-20) |
-| Safety Relay Module (K12) | $80–$250 | [Amazon](https://www.amazon.com/s?k=safety+relay+module+24VDC+E-stop+machine+control&tag=errorcodefixes-20) |
+| E-Stop Pushbutton (22mm, twist release) | $15–$40 | [Amazon](https://www.amazon.com/s?i=industrial&k=E-stop+mushroom+pushbutton+22mm+twist+release+NC&tag=errorcodefixes-20) |
+| Door Interlock Safety Switch | $25–$80 | [Amazon](https://www.amazon.com/s?i=industrial&k=door+interlock+safety+switch+CNC+machine+tool&tag=errorcodefixes-20) |
+| Safety Relay Module (K12) | $80–$250 | [Amazon](https://www.amazon.com/s?i=industrial&k=safety+relay+module+24VDC+E-stop+machine+control&tag=errorcodefixes-20) |
 
 ---
 

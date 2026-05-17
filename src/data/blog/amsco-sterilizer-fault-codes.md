@@ -50,9 +50,9 @@ Pre-vac sterilizers need a tight chamber and a healthy vacuum pump. If the chamb
 |------|-------|
 | Door gasket | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?tag=errorcodefixes-20) \| Replace on sealing faults |
 | RTD temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Replace on temp faults |
-| Pressure transducer | [Amazon](https://www.amazon.com/s?k=Pressure+transducer&tag=errorcodefixes-20) \| Replace on chamber pressure faults |
-| Steam trap | [Amazon](https://www.amazon.com/s?k=Steam+trap&tag=errorcodefixes-20) \| Replace on drain temp issues |
-| Door interlock switch | [Amazon](https://www.amazon.com/s?k=Door+interlock+switch&tag=errorcodefixes-20) \| Replace on latch confirmation faults |
+| Pressure transducer | [Amazon](https://www.amazon.com/s?i=industrial&k=Pressure+transducer&tag=errorcodefixes-20) \| Replace on chamber pressure faults |
+| Steam trap | [Amazon](https://www.amazon.com/s?i=industrial&k=Steam+trap&tag=errorcodefixes-20) \| Replace on drain temp issues |
+| Door interlock switch | [Amazon](https://www.amazon.com/s?i=industrial&k=Door+interlock+switch&tag=errorcodefixes-20) \| Replace on latch confirmation faults |
 ## When to Call a Pro
 Hospital sterilizers need documented validation after major repairs. Have a STERIS-trained technician or biomedical engineer handle controller calibration, chamber leak testing, and return-to-service validation.
 

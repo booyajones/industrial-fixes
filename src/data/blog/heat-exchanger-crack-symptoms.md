@@ -96,10 +96,10 @@ The HVAC industry has an unfortunate history with cracked heat exchanger diagnos
 
 | Part | Use | Amazon Link |
 |------|-----|-------------|
-| Kidde CO Detector (plug-in with digital display) | Test for CO in supply air registers | [View on Amazon](https://www.amazon.com/s?k=Kidde+CO+detector+plug+in+digital+display&tag=errorcodefixes-20) |
-| Telescoping Inspection Mirror | Visual inspection of heat exchanger cells | [View on Amazon](https://www.amazon.com/s?k=telescoping+inspection+mirror+HVAC&tag=errorcodefixes-20) |
-| LED Inspection Flashlight | Illuminate heat exchanger interior | [View on Amazon](https://www.amazon.com/s?k=LED+inspection+flashlight+bright&tag=errorcodefixes-20) |
-| Incense Sticks or Smoke Pen | DIY draft and air leak test | [View on Amazon](https://www.amazon.com/s?k=smoke+pen+HVAC+draft+test&tag=errorcodefixes-20) |
+| Kidde CO Detector (plug-in with digital display) | Test for CO in supply air registers | [View on Amazon](https://www.amazon.com/s?i=industrial&k=Kidde+CO+detector+plug+in+digital+display&tag=errorcodefixes-20) |
+| Telescoping Inspection Mirror | Visual inspection of heat exchanger cells | [View on Amazon](https://www.amazon.com/s?i=industrial&k=telescoping+inspection+mirror+HVAC&tag=errorcodefixes-20) |
+| LED Inspection Flashlight | Illuminate heat exchanger interior | [View on Amazon](https://www.amazon.com/s?i=industrial&k=LED+inspection+flashlight+bright&tag=errorcodefixes-20) |
+| Incense Sticks or Smoke Pen | DIY draft and air leak test | [View on Amazon](https://www.amazon.com/s?i=industrial&k=smoke+pen+HVAC+draft+test&tag=errorcodefixes-20) |
 
 ## When to Call a Pro
 

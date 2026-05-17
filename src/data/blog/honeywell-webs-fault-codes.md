@@ -48,11 +48,11 @@ WEBs supervisory controllers store application data in flash memory. A database 
 
 | Part | Notes |
 |------|-------|
-| WEBs-4S controller | [Amazon](https://www.amazon.com/s?k=WEBs-4S+controller&tag=errorcodefixes-20) \| Replace on hardware fault |
-| XL15B field controller | [Amazon](https://www.amazon.com/s?k=XL15B+field+controller&tag=errorcodefixes-20) \| Replace on hardware failure |
-| Spyder controller | [Amazon](https://www.amazon.com/s?k=Spyder+controller&tag=errorcodefixes-20) \| Replace on Sylk bus fault |
-| Honeywell actuator (M7415) | [Amazon](https://www.amazon.com/s?k=Honeywell+actuator+%28M7415%29&tag=errorcodefixes-20) \| Replace on valve fault |
-| LON network interface card | [Amazon](https://www.amazon.com/s?k=LON+network+interface+card&tag=errorcodefixes-20) \| Replace on LON fault |
+| WEBs-4S controller | [Amazon](https://www.amazon.com/s?i=industrial&k=WEBs-4S+controller&tag=errorcodefixes-20) \| Replace on hardware fault |
+| XL15B field controller | [Amazon](https://www.amazon.com/s?i=industrial&k=XL15B+field+controller&tag=errorcodefixes-20) \| Replace on hardware failure |
+| Spyder controller | [Amazon](https://www.amazon.com/s?i=industrial&k=Spyder+controller&tag=errorcodefixes-20) \| Replace on Sylk bus fault |
+| Honeywell actuator (M7415) | [Amazon](https://www.amazon.com/s?i=industrial&k=Honeywell+actuator+%28M7415%29&tag=errorcodefixes-20) \| Replace on valve fault |
+| LON network interface card | [Amazon](https://www.amazon.com/s?i=industrial&k=LON+network+interface+card&tag=errorcodefixes-20) \| Replace on LON fault |
 ## When to Call a Pro
 Niagara Framework database programming, WEBs licensing issues, and LON commissioning require certified Niagara/Honeywell technicians. Incorrect configuration changes can cause entire floor or building HVAC to misbehave.
 

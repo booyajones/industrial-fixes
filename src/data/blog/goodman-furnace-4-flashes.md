@@ -65,7 +65,7 @@ The high limit switch is a safety device. When it opens, it's telling you the he
 | [Furnace Air Filter](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) | Check size printed on existing filter frame |
 | [Goodman High Limit Switch](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) | Match temperature rating stamped on switch body |
 | [Furnace Blower Motor Capacitor](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) | Match µF and voltage rating exactly |
-| [Goodman Furnace Blower Motor](https://www.amazon.com/s?k=goodman+furnace+blower+motor+replacement&tag=errorcodefixes-20) | Match HP, RPM, and voltage from motor label |
+| [Goodman Furnace Blower Motor](https://www.amazon.com/s?i=industrial&k=goodman+furnace+blower+motor+replacement&tag=errorcodefixes-20) | Match HP, RPM, and voltage from motor label |
 | [Goodman Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Last resort if board is misreading limit switch signal |
 
 ## When to Call a Technician

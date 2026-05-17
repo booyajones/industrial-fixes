@@ -36,9 +36,9 @@ Carrier fault code 24 means the secondary voltage fuse is open. The control boar
 
 | Part | Notes |
 |------|-------|
-| 3A mini blade fuse (AGC-3 or ATC-3) | [Amazon](https://www.amazon.com/s?k=3A+mini+blade+fuse+%28AGC-3+or+ATC-3%29&tag=errorcodefixes-20) \| Carry a pack of 5; cheap insurance |
-| Thermostat wire (18/5 or 18/8) | [Amazon](https://www.amazon.com/s?k=Thermostat+wire+%2818%2F5+or+18%2F8%29&tag=errorcodefixes-20) \| Replace if the old run has any worn insulation |
-| 40VA furnace transformer | [Amazon](https://www.amazon.com/s?k=40VA+furnace+transformer&tag=errorcodefixes-20) \| Replace if the transformer itself is shorted (measure secondary: should be ~28VAC no-load) |
+| 3A mini blade fuse (AGC-3 or ATC-3) | [Amazon](https://www.amazon.com/s?i=industrial&k=3A+mini+blade+fuse+%28AGC-3+or+ATC-3%29&tag=errorcodefixes-20) \| Carry a pack of 5; cheap insurance |
+| Thermostat wire (18/5 or 18/8) | [Amazon](https://www.amazon.com/s?i=industrial&k=Thermostat+wire+%2818%2F5+or+18%2F8%29&tag=errorcodefixes-20) \| Replace if the old run has any worn insulation |
+| 40VA furnace transformer | [Amazon](https://www.amazon.com/s?i=industrial&k=40VA+furnace+transformer&tag=errorcodefixes-20) \| Replace if the transformer itself is shorted (measure secondary: should be ~28VAC no-load) |
 ## When to Call a Pro
 
 If you've disconnected everything and the fuse still blows immediately on power-up, the transformer or control board has an internal fault. At that point the diagnostics get component-level and a tech with the right meter is faster than trial-and-error.

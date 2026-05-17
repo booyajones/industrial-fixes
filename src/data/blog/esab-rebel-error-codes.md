@@ -46,9 +46,9 @@ The wire drive motor isn't operating correctly. Check for wire jam, worn drive r
 
 | Part | Notes |
 |------|-------|
-| MIG gun | [Amazon](https://www.amazon.com/s?k=MIG+gun&tag=errorcodefixes-20) \| For F02 if cable fault found |
-| Drive rolls | [Amazon](https://www.amazon.com/s?k=Drive+rolls&tag=errorcodefixes-20) \| Replace if worn and slipping wire |
-| Inlet guide / liner | [Amazon](https://www.amazon.com/s?k=Inlet+guide+%2F+liner&tag=errorcodefixes-20) \| Replace if wire bird-nests occur |
+| MIG gun | [Amazon](https://www.amazon.com/s?i=industrial&k=MIG+gun&tag=errorcodefixes-20) \| For F02 if cable fault found |
+| Drive rolls | [Amazon](https://www.amazon.com/s?i=industrial&k=Drive+rolls&tag=errorcodefixes-20) \| Replace if worn and slipping wire |
+| Inlet guide / liner | [Amazon](https://www.amazon.com/s?i=industrial&k=Inlet+guide+%2F+liner&tag=errorcodefixes-20) \| Replace if wire bird-nests occur |
 ## When to Call a Pro
 
 Persistent F01 after cooldown or F04 after power cycle requires ESAB authorized service for internal component diagnosis.

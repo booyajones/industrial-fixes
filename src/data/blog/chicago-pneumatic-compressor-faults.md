@@ -42,10 +42,10 @@ Measure current on all three phases. Unbalanced voltage or a heavy air demand ca
 
 | Part | Notes |
 |------|-------|
-| Oil filter | [Amazon](https://www.amazon.com/s?k=Oil+filter&tag=errorcodefixes-20) \| Replace every service interval |
-| Separator element | [Amazon](https://www.amazon.com/s?k=Separator+element&tag=errorcodefixes-20) \| Replace when DP is high |
+| Oil filter | [Amazon](https://www.amazon.com/s?i=industrial&k=Oil+filter&tag=errorcodefixes-20) \| Replace every service interval |
+| Separator element | [Amazon](https://www.amazon.com/s?i=industrial&k=Separator+element&tag=errorcodefixes-20) \| Replace when DP is high |
 | Outlet temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Check on repeated temp faults |
-| Drive belt (belt-drive models) | [Amazon](https://www.amazon.com/s?k=Drive+belt+%28belt-drive+models%29&tag=errorcodefixes-20) \| Inspect tension and wear |
+| Drive belt (belt-drive models) | [Amazon](https://www.amazon.com/s?i=industrial&k=Drive+belt+%28belt-drive+models%29&tag=errorcodefixes-20) \| Inspect tension and wear |
 ## Jump to Fix
 
 - **High outlet temp** → Check oil level → Clean cooler → Confirm fan runs

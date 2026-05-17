@@ -64,12 +64,12 @@ The Daikin RXYQ is a commercial VRV (Variable Refrigerant Volume) outdoor unit u
 
 | Part | Notes |
 |------|-------|
-| EEV coil | [Amazon](https://www.amazon.com/s?k=EEV+coil&tag=errorcodefixes-20) \| Removable without opening refrigerant circuit |
-| F1/F2 communication wire | [Amazon](https://www.amazon.com/s?k=F1%2FF2+communication+wire&tag=errorcodefixes-20) \| Twisted-pair shielded; replace if damaged |
+| EEV coil | [Amazon](https://www.amazon.com/s?i=industrial&k=EEV+coil&tag=errorcodefixes-20) \| Removable without opening refrigerant circuit |
+| F1/F2 communication wire | [Amazon](https://www.amazon.com/s?i=industrial&k=F1%2FF2+communication+wire&tag=errorcodefixes-20) \| Twisted-pair shielded; replace if damaged |
 | Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Confirm EC or AC type for RXYQ vintage |
 | Outdoor PCB (control board) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For L9 or L5 after other causes ruled out |
-| Refrigerant (R-410A or R-32) | [Amazon](https://www.amazon.com/s?k=Refrigerant+%28R-410A+or+R-32%29&tag=errorcodefixes-20) \| Confirm refrigerant type from unit nameplate |
-| Pressure sensor | [Amazon](https://www.amazon.com/s?k=Pressure+sensor&tag=errorcodefixes-20) \| High and low side; check resistance before replacing |
+| Refrigerant (R-410A or R-32) | [Amazon](https://www.amazon.com/s?i=industrial&k=Refrigerant+%28R-410A+or+R-32%29&tag=errorcodefixes-20) \| Confirm refrigerant type from unit nameplate |
+| Pressure sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Pressure+sensor&tag=errorcodefixes-20) \| High and low side; check resistance before replacing |
 ## When to Call a Pro
 
 Daikin VRV systems require Daikin-certified technicians for refrigerant work, inverter diagnosis, and address configuration. The RXYQ refrigerant addressing system (using rotary switches on each indoor unit PCB) is proprietary and misconfiguration causes system-wide faults. Contact a Daikin authorized service provider for L9, L5, or multi-unit U4 faults.

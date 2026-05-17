@@ -36,9 +36,9 @@ Fanuc alarm 10 means servo alarm on the X-axis — specifically, the X-axis serv
 
 | Part | Notes |
 |------|-------|
-| Fanuc servo amplifier (alpha-i or beta-i series) | [Amazon](https://www.amazon.com/s?k=Fanuc+servo+amplifier+%28alpha-i+or+beta-i+series%29&tag=errorcodefixes-20) \| Model-specific; match axis and current rating |
-| Encoder (Fanuc A860 series) | [Amazon](https://www.amazon.com/s?k=Encoder+%28Fanuc+A860+series%29&tag=errorcodefixes-20) \| Replace if encoder fault code on amplifier LED |
-| Servo motor power cable | [Amazon](https://www.amazon.com/s?k=Servo+motor+power+cable&tag=errorcodefixes-20) \| Replace if chafed or shorted near the machine cable carrier |
+| Fanuc servo amplifier (alpha-i or beta-i series) | [Amazon](https://www.amazon.com/s?i=industrial&k=Fanuc+servo+amplifier+%28alpha-i+or+beta-i+series%29&tag=errorcodefixes-20) \| Model-specific; match axis and current rating |
+| Encoder (Fanuc A860 series) | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+%28Fanuc+A860+series%29&tag=errorcodefixes-20) \| Replace if encoder fault code on amplifier LED |
+| Servo motor power cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+motor+power+cable&tag=errorcodefixes-20) \| Replace if chafed or shorted near the machine cable carrier |
 ## When to Call a Pro
 
 Servo amplifier internal faults and motor rewinding are beyond field service. A Fanuc-certified technician with FOCAS diagnostics tools can differentiate amplifier failure from motor failure quickly.

@@ -134,7 +134,7 @@ Replace the access panel, restore power at the disconnect and breaker, and start
 | Dual Run Capacitor 35+5 µF 440V | Common on 2–3 ton systems | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) |
 | Dual Run Capacitor 55+5 µF 440V | Common on 4–5 ton systems | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) |
 | Capacitor Tester / Multimeter | Accurate µF testing | [View on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) |
-| Insulated Screwdriver Set | Safe capacitor discharge | [View on Amazon](https://www.amazon.com/s?k=insulated+screwdriver+set+electrician&tag=errorcodefixes-20) |
+| Insulated Screwdriver Set | Safe capacitor discharge | [View on Amazon](https://www.amazon.com/s?i=industrial&k=insulated+screwdriver+set+electrician&tag=errorcodefixes-20) |
 
 ## When to Call a Pro
 

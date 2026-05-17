@@ -60,8 +60,8 @@ The York YCD is a commercial single-packaged gas/electric rooftop unit available
 | Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match tonnage — 3-ton and 5-ton use different motors |
 | High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| 610 PSIG cutout for R-410A |
 | Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| 50 PSIG cutout |
-| Discharge air sensor | [Amazon](https://www.amazon.com/s?k=Discharge+air+sensor&tag=errorcodefixes-20) \| NTC thermistor; check resistance at known temperature |
-| Unit controller board | [Amazon](https://www.amazon.com/s?k=Unit+controller+board&tag=errorcodefixes-20) \| For persistent communication or sensor faults |
+| Discharge air sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Discharge+air+sensor&tag=errorcodefixes-20) \| NTC thermistor; check resistance at known temperature |
+| Unit controller board | [Amazon](https://www.amazon.com/s?i=industrial&k=Unit+controller+board&tag=errorcodefixes-20) \| For persistent communication or sensor faults |
 ## When to Call a Pro
 
 York YCD packaged units are commercial equipment requiring HVAC-R licensed technicians for refrigerant work. BACnet/N2 communication troubleshooting typically requires access to the building management system and a BMS-capable service technician. Compressor replacement on a YCD is a multi-hour job requiring refrigerant recovery equipment.

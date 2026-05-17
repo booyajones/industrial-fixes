@@ -57,10 +57,10 @@ The Ice-O-Matic GEM-0305 is a GEMU (Elevation) series cube ice machine producing
 
 | Part | Notes |
 |---|---|
-| Hot gas solenoid valve | [Amazon](https://www.amazon.com/s?k=Hot+gas+solenoid+valve&tag=errorcodefixes-20) \| Check coil resistance before ordering complete valve |
-| Harvest gate motor | [Amazon](https://www.amazon.com/s?k=Harvest+gate+motor&tag=errorcodefixes-20) \| GEM-specific gear motor; not interchangeable |
+| Hot gas solenoid valve | [Amazon](https://www.amazon.com/s?i=industrial&k=Hot+gas+solenoid+valve&tag=errorcodefixes-20) \| Check coil resistance before ordering complete valve |
+| Harvest gate motor | [Amazon](https://www.amazon.com/s?i=industrial&k=Harvest+gate+motor&tag=errorcodefixes-20) \| GEM-specific gear motor; not interchangeable |
 | Float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?tag=errorcodefixes-20) \| Float plus switch assembly |
-| Freeze/harvest thermistors | [Amazon](https://www.amazon.com/s?k=Freeze%2Fharvest+thermistors&tag=errorcodefixes-20) \| Sold individually or as a pair |
+| Freeze/harvest thermistors | [Amazon](https://www.amazon.com/s?i=industrial&k=Freeze%2Fharvest+thermistors&tag=errorcodefixes-20) \| Sold individually or as a pair |
 | Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Confirm CFM and HP rating |
 | Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| Include strainer in cleaning |
 ## When to Call a Pro

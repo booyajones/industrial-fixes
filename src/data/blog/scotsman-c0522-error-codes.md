@@ -42,8 +42,8 @@ The Scotsman C0522 is a 522 lb/day cube ice machine (Prodigy series) found in re
 
 | Part | Notes |
 |------|-------|
-| Harvest assist solenoid valve | [Amazon](https://www.amazon.com/s?k=Harvest+assist+solenoid+valve&tag=errorcodefixes-20) \| Most common Code 4/5 repair |
-| Evaporator thermistor | [Amazon](https://www.amazon.com/s?k=Evaporator+thermistor&tag=errorcodefixes-20) \| Code E1 |
+| Harvest assist solenoid valve | [Amazon](https://www.amazon.com/s?i=industrial&k=Harvest+assist+solenoid+valve&tag=errorcodefixes-20) \| Most common Code 4/5 repair |
+| Evaporator thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Evaporator+thermistor&tag=errorcodefixes-20) \| Code E1 |
 | Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| Code 8 |
 ## When to Call a Pro
 

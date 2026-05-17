@@ -36,9 +36,9 @@ Fault F025 on an Allen-Bradley PowerFlex 40, 400, 525, or 755 drive indicates Dr
 
 | Part | Notes |
 |------|-------|
-| Internal cooling fan | [Amazon](https://www.amazon.com/s?k=Internal+cooling+fan&tag=errorcodefixes-20) \| PowerFlex model-specific; 24VDC or 120VAC depending on drive size |
-| Enclosure filtered fan kit | [Amazon](https://www.amazon.com/s?k=Enclosure+filtered+fan+kit&tag=errorcodefixes-20) \| Add supplemental airflow if enclosure thermal management is inadequate |
-| Enclosure thermostat | [Amazon](https://www.amazon.com/s?k=Enclosure+thermostat&tag=errorcodefixes-20) \| Control panel fan or AC unit activation for sealed enclosures |
+| Internal cooling fan | [Amazon](https://www.amazon.com/s?i=industrial&k=Internal+cooling+fan&tag=errorcodefixes-20) \| PowerFlex model-specific; 24VDC or 120VAC depending on drive size |
+| Enclosure filtered fan kit | [Amazon](https://www.amazon.com/s?i=industrial&k=Enclosure+filtered+fan+kit&tag=errorcodefixes-20) \| Add supplemental airflow if enclosure thermal management is inadequate |
+| Enclosure thermostat | [Amazon](https://www.amazon.com/s?i=industrial&k=Enclosure+thermostat&tag=errorcodefixes-20) \| Control panel fan or AC unit activation for sealed enclosures |
 ## When to Call a Pro
 
 If F025 persists after correcting cooling and load, a Rockwell Automation-authorized integrator should inspect the drive for internal fault conditions — specifically, a failed thermal sensor or IGBT degradation causing elevated self-heating.

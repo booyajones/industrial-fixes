@@ -37,9 +37,9 @@ U9 on a Daikin mini-split indicates an abnormally high discharge pressure on the
 | Part | Notes |
 |------|-------|
 | Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match OEM RPM and rotation direction |
-| Condenser fan capacitor | [Amazon](https://www.amazon.com/s?k=Condenser+fan+capacitor&tag=errorcodefixes-20) \| Test first; often cheaper than the motor |
+| Condenser fan capacitor | [Amazon](https://www.amazon.com/s?i=industrial&k=Condenser+fan+capacitor&tag=errorcodefixes-20) \| Test first; often cheaper than the motor |
 | High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| OEM replacement; must match pressure cutout rating |
-| Coil fin comb | [Amazon](https://www.amazon.com/s?k=Coil+fin+comb&tag=errorcodefixes-20) \| Straighten bent fins to restore airflow |
+| Coil fin comb | [Amazon](https://www.amazon.com/s?i=industrial&k=Coil+fin+comb&tag=errorcodefixes-20) \| Straighten bent fins to restore airflow |
 ## When to Call a Pro
 
 Refrigerant measurement and handling requires EPA 608 certification. If U9 is caused by overcharge or non-condensables, a licensed technician must recover, evacuate, and recharge the system.

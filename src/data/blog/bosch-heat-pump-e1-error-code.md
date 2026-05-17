@@ -38,9 +38,9 @@ On Bosch Inverter Ducted Split (IDS) and Bosch Climate 5000 heat pump systems, E
 
 | Part | Notes |
 |------|-------|
-| Bosch IDS communicating thermostat | [Amazon](https://www.amazon.com/s?k=Bosch+IDS+communicating+thermostat&tag=errorcodefixes-20) \| Replace if thermostat diagnostics show no outdoor unit detected |
+| Bosch IDS communicating thermostat | [Amazon](https://www.amazon.com/s?i=industrial&k=Bosch+IDS+communicating+thermostat&tag=errorcodefixes-20) \| Replace if thermostat diagnostics show no outdoor unit detected |
 | Outdoor unit inverter control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Primary suspect for persistent E1 after wiring confirmed |
-| Communication cable (2-conductor) | [Amazon](https://www.amazon.com/s?k=Communication+cable+%282-conductor%29&tag=errorcodefixes-20) \| Replace if physical damage is found |
+| Communication cable (2-conductor) | [Amazon](https://www.amazon.com/s?i=industrial&k=Communication+cable+%282-conductor%29&tag=errorcodefixes-20) \| Replace if physical damage is found |
 | Indoor unit control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Secondary suspect if outdoor board swap doesn't resolve |
 ## When to Call a Pro
 

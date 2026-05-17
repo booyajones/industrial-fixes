@@ -46,9 +46,9 @@ If the motor jumps immediately to full speed and ignores the speed control knob,
 
 | Part | Notes |
 |------|-------|
-| 5K or 10K speed potentiometer | [Amazon](https://www.amazon.com/s?k=5K+or+10K+speed+potentiometer&tag=errorcodefixes-20) \| Match original KB drive spec |
-| Control fuse | [Amazon](https://www.amazon.com/s?k=Control+fuse&tag=errorcodefixes-20) \| Replace only after short is fixed |
-| SCR bridge / power board | [Amazon](https://www.amazon.com/s?k=SCR+bridge+%2F+power+board&tag=errorcodefixes-20) \| Common on older KBIC and KBMM units |
-| DC motor brushes | [Amazon](https://www.amazon.com/s?k=DC+motor+brushes&tag=errorcodefixes-20) \| Worn brushes cause poor commutation |
+| 5K or 10K speed potentiometer | [Amazon](https://www.amazon.com/s?i=industrial&k=5K+or+10K+speed+potentiometer&tag=errorcodefixes-20) \| Match original KB drive spec |
+| Control fuse | [Amazon](https://www.amazon.com/s?i=industrial&k=Control+fuse&tag=errorcodefixes-20) \| Replace only after short is fixed |
+| SCR bridge / power board | [Amazon](https://www.amazon.com/s?i=industrial&k=SCR+bridge+%2F+power+board&tag=errorcodefixes-20) \| Common on older KBIC and KBMM units |
+| DC motor brushes | [Amazon](https://www.amazon.com/s?i=industrial&k=DC+motor+brushes&tag=errorcodefixes-20) \| Worn brushes cause poor commutation |
 ## When to Call a Pro
 If the drive repeatedly blows fuses or the SCR section tests shorted, replacement is often faster than board-level repair. For production equipment, an industrial electrician or motion control tech should verify the motor and drive together before re-energizing.

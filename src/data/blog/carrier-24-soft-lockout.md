@@ -55,7 +55,7 @@ Any short circuit on these wires will blow the fuse.
 
 | Part | Cost |
 |---|---|
-| 3-amp ATO/ATC fuse (pack) | [Amazon](https://www.amazon.com/s?k=3-amp+ATO%2FATC+fuse+%28pack%29&tag=errorcodefixes-20) \| $3–8 |
+| 3-amp ATO/ATC fuse (pack) | [Amazon](https://www.amazon.com/s?i=industrial&k=3-amp+ATO%2FATC+fuse+%28pack%29&tag=errorcodefixes-20) \| $3–8 |
 | Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| $80–200 |
 | Humidifier control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| $30–80 |
 | IFC board (if internal fault) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| $100–300 |

@@ -54,7 +54,7 @@ The Trane XR14 is a single-stage heat pump in the XR series — a straightforwar
 |------|-------|
 | Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Dual run cap for compressor and fan; high failure rate |
 | Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Pitted contacts cause voltage drop |
-| Defrost board | [Amazon](https://www.amazon.com/s?k=Defrost+board&tag=errorcodefixes-20) \| For Code 8; match to XR14 model number |
+| Defrost board | [Amazon](https://www.amazon.com/s?i=industrial&k=Defrost+board&tag=errorcodefixes-20) \| For Code 8; match to XR14 model number |
 | Defrost sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Clipped to outdoor coil |
 | Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| For Code 3 with correct refrigerant charge |
 | High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| For Code 2 with clean coil and correct charge |

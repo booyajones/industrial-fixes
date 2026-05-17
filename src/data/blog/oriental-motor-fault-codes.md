@@ -47,9 +47,9 @@ Oriental Motor AZ and AR drivers are sensitive to supply voltage drop during fas
 
 | Part | Notes |
 |------|-------|
-| Driver unit | [Amazon](https://www.amazon.com/s?k=Driver+unit&tag=errorcodefixes-20) \| Replace if AL30 persists |
-| Motor / feedback cable | [Amazon](https://www.amazon.com/s?k=Motor+%2F+feedback+cable&tag=errorcodefixes-20) \| Common field failure item |
-| Switching power supply | [Amazon](https://www.amazon.com/s?k=Switching+power+supply&tag=errorcodefixes-20) \| Check wattage and voltage stability |
-| Flexible coupling | [Amazon](https://www.amazon.com/s?k=Flexible+coupling&tag=errorcodefixes-20) \| Slipping couplings often trigger AL13 |
+| Driver unit | [Amazon](https://www.amazon.com/s?i=industrial&k=Driver+unit&tag=errorcodefixes-20) \| Replace if AL30 persists |
+| Motor / feedback cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+%2F+feedback+cable&tag=errorcodefixes-20) \| Common field failure item |
+| Switching power supply | [Amazon](https://www.amazon.com/s?i=industrial&k=Switching+power+supply&tag=errorcodefixes-20) \| Check wattage and voltage stability |
+| Flexible coupling | [Amazon](https://www.amazon.com/s?i=industrial&k=Flexible+coupling&tag=errorcodefixes-20) \| Slipping couplings often trigger AL13 |
 ## When to Call a Pro
 If the driver stores repeated AL30 internal faults or the axis cannot hold position after cable checks, involve an automation technician. Replacing the wrong component in a closed-loop stepper system gets expensive fast.

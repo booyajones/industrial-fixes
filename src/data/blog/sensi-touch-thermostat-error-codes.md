@@ -84,10 +84,10 @@ If the equipment runs for less than 3 minutes per cycle repeatedly, the Sensi To
 
 | Part | Use | Amazon Link |
 |------|-----|-------------|
-| Sensi Touch Smart Thermostat (ST75) | Replacement if sensor or hardware fails | [View on Amazon](https://www.amazon.com/s?k=Sensi+Touch+ST75+Smart+Thermostat&tag=errorcodefixes-20) |
-| C-Wire Adapter / Add-A-Wire Kit | Adds C wire without running new wire | [View on Amazon](https://www.amazon.com/s?k=C+wire+adapter+add-a-wire+thermostat&tag=errorcodefixes-20) |
-| 18/5 Thermostat Wire (50 ft) | Run a new wire for C wire or full replacement | [View on Amazon](https://www.amazon.com/s?k=18+5+thermostat+wire+50+feet&tag=errorcodefixes-20) |
-| Klein Tools Wire Stripper | Strip thermostat wire leads cleanly | [View on Amazon](https://www.amazon.com/s?k=klein+tools+wire+stripper+thermostat&tag=errorcodefixes-20) |
+| Sensi Touch Smart Thermostat (ST75) | Replacement if sensor or hardware fails | [View on Amazon](https://www.amazon.com/s?i=industrial&k=Sensi+Touch+ST75+Smart+Thermostat&tag=errorcodefixes-20) |
+| C-Wire Adapter / Add-A-Wire Kit | Adds C wire without running new wire | [View on Amazon](https://www.amazon.com/s?i=industrial&k=C+wire+adapter+add-a-wire+thermostat&tag=errorcodefixes-20) |
+| 18/5 Thermostat Wire (50 ft) | Run a new wire for C wire or full replacement | [View on Amazon](https://www.amazon.com/s?i=industrial&k=18+5+thermostat+wire+50+feet&tag=errorcodefixes-20) |
+| Klein Tools Wire Stripper | Strip thermostat wire leads cleanly | [View on Amazon](https://www.amazon.com/s?i=industrial&k=klein+tools+wire+stripper+thermostat&tag=errorcodefixes-20) |
 
 ## When to Call a Pro
 

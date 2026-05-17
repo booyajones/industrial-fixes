@@ -36,9 +36,9 @@ Fault 3300 on an ABB ACS series drive (ACS580, ACS880, ACS310, etc.) indicates a
 
 | Part | Notes |
 |------|-------|
-| Motor cable (XLPE, screened) | [Amazon](https://www.amazon.com/s?k=Motor+cable+%28XLPE%2C+screened%29&tag=errorcodefixes-20) \| Use VFD-rated cable with continuous shield; correct cross-section for ampacity |
-| Motor (rewind or replacement) | [Amazon](https://www.amazon.com/s?k=Motor+%28rewind+or+replacement%29&tag=errorcodefixes-20) \| If insulation resistance is below 1 MΩ at 500VDC |
-| Cable glands and conduit fittings | [Amazon](https://www.amazon.com/s?k=Cable+glands+and+conduit+fittings&tag=errorcodefixes-20) \| Replace if water entry point identified |
+| Motor cable (XLPE, screened) | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+cable+%28XLPE%2C+screened%29&tag=errorcodefixes-20) \| Use VFD-rated cable with continuous shield; correct cross-section for ampacity |
+| Motor (rewind or replacement) | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+%28rewind+or+replacement%29&tag=errorcodefixes-20) \| If insulation resistance is below 1 MΩ at 500VDC |
+| Cable glands and conduit fittings | [Amazon](https://www.amazon.com/s?i=industrial&k=Cable+glands+and+conduit+fittings&tag=errorcodefixes-20) \| Replace if water entry point identified |
 ## When to Call a Pro
 
 Motor rewinding or replacement is specialized work. If the insulation test confirms a failed motor, coordinate motor removal with a qualified electrician or motor shop. Working inside drive output circuits requires lockout/tagout procedures.

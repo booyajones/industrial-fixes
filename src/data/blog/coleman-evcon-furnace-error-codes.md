@@ -53,10 +53,10 @@ Coleman and Evcon furnaces are produced by Johnson Controls (the same manufactur
 
 | Part | Notes |
 |---|---|
-| HSI igniter — silicon carbide | [Amazon](https://www.amazon.com/s?k=HSI+igniter+%E2%80%94+silicon+carbide&tag=errorcodefixes-20) \| Fragile; handle by wire leads only |
+| HSI igniter — silicon carbide | [Amazon](https://www.amazon.com/s?i=industrial&k=HSI+igniter+%E2%80%94+silicon+carbide&tag=errorcodefixes-20) \| Fragile; handle by wire leads only |
 | Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Clean with fine steel wool; rod-type |
 | Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Check hose first; Coleman-brand switches are direct replacements |
-| Blower capacitor | [Amazon](https://www.amazon.com/s?k=Blower+capacitor&tag=errorcodefixes-20) \| Single-run capacitor on PSC motor |
+| Blower capacitor | [Amazon](https://www.amazon.com/s?i=industrial&k=Blower+capacitor&tag=errorcodefixes-20) \| Single-run capacitor on PSC motor |
 | High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Check reset type — most Coleman are auto-reset |
 | Rollout switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Manual reset; do not bypass |
 ## When to Call a Pro

@@ -40,8 +40,8 @@ Bryant furnaces share engineering with Carrier (both are UTC/Carrier brands), so
 | Part | Notes |
 |------|-------|
 | Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match the setpoint — Bryant uses both single and dual switches depending on model |
-| Inducer draft motor capacitor | [Amazon](https://www.amazon.com/s?k=Inducer+draft+motor+capacitor&tag=errorcodefixes-20) \| Test before replacing the motor — most motor failures are actually capacitor failures |
-| Inducer draft motor assembly | [Amazon](https://www.amazon.com/s?k=Inducer+draft+motor+assembly&tag=errorcodefixes-20) \| Replace if motor is noisy, slow, or seized with a good capacitor |
+| Inducer draft motor capacitor | [Amazon](https://www.amazon.com/s?i=industrial&k=Inducer+draft+motor+capacitor&tag=errorcodefixes-20) \| Test before replacing the motor — most motor failures are actually capacitor failures |
+| Inducer draft motor assembly | [Amazon](https://www.amazon.com/s?i=industrial&k=Inducer+draft+motor+assembly&tag=errorcodefixes-20) \| Replace if motor is noisy, slow, or seized with a good capacitor |
 | Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) \| Replace if cracked or if the internal float is stuck |
 | Pressure switch tubing | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Available by the foot at HVAC supply houses |
 ## When to Call a Pro

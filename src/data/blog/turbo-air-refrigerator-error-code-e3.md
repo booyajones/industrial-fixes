@@ -40,9 +40,9 @@ Turbo Air error code E3 usually indicates a defrost sensor problem. On many Turb
 | Part | Notes |
 |------|-------|
 | Defrost / evaporator sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Match the controller family and sensor style |
-| Sensor harness | [Amazon](https://www.amazon.com/s?k=refrigeration+sensor+harness&tag=errorcodefixes-20) \| Useful when the original lead is damaged |
+| Sensor harness | [Amazon](https://www.amazon.com/s?i=industrial&k=refrigeration+sensor+harness&tag=errorcodefixes-20) \| Useful when the original lead is damaged |
 | Defrost heater | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) \| Replace if the evaporator keeps icing with a good sensor |
-| Temperature controller | [Amazon](https://www.amazon.com/s?k=turbo+air+temperature+controller&tag=errorcodefixes-20) \| Board replacement comes last, not first |
+| Temperature controller | [Amazon](https://www.amazon.com/s?i=industrial&k=turbo+air+temperature+controller&tag=errorcodefixes-20) \| Board replacement comes last, not first |
 
 ## When to Call a Pro
 

@@ -22,12 +22,12 @@ tags:
 
 Weil-McLain boilers use multiple NTC (negative temperature coefficient) thermistor sensors:
 
-| [Sensor](https://www.amazon.com/s?k=Sensor&tag=errorcodefixes-20) | Location | Monitors |
+| [Sensor](https://www.amazon.com/s?i=industrial&k=Sensor&tag=errorcodefixes-20) | Location | Monitors |
 |---|---|---|
-| [Supply sensor](https://www.amazon.com/s?k=Supply+sensor&tag=errorcodefixes-20) | Outlet side of boiler | Water leaving boiler |
-| [Return sensor](https://www.amazon.com/s?k=Return+sensor&tag=errorcodefixes-20) | Inlet side | Water returning from system |
-| [Flue/exhaust sensor](https://www.amazon.com/s?k=Flue%2Fexhaust+sensor&tag=errorcodefixes-20) | Exhaust vent | Combustion gases |
-| [DHW (indirect) sensor](https://www.amazon.com/s?k=DHW+%28indirect%29+sensor&tag=errorcodefixes-20) | Hot water tank (if present) | Domestic hot water temp |
+| [Supply sensor](https://www.amazon.com/s?i=industrial&k=Supply+sensor&tag=errorcodefixes-20) | Outlet side of boiler | Water leaving boiler |
+| [Return sensor](https://www.amazon.com/s?i=industrial&k=Return+sensor&tag=errorcodefixes-20) | Inlet side | Water returning from system |
+| [Flue/exhaust sensor](https://www.amazon.com/s?i=industrial&k=Flue%2Fexhaust+sensor&tag=errorcodefixes-20) | Exhaust vent | Combustion gases |
+| [DHW (indirect) sensor](https://www.amazon.com/s?i=industrial&k=DHW+%28indirect%29+sensor&tag=errorcodefixes-20) | Hot water tank (if present) | Domestic hot water temp |
 
 E05 most commonly points to the **supply sensor** but the control board display or service manual will indicate which sensor triggered the fault.
 
@@ -63,14 +63,14 @@ Fix: disconnect, clean terminals with electronic contact cleaner, apply dielectr
 
 | Part | Weil-McLain Part # | Cost |
 |---|---|---|
-| [Supply/return sensor (Ultra)](https://www.amazon.com/s?k=Supply%2Freturn+sensor+%28Ultra%29&tag=errorcodefixes-20) | 383-500-332 | $30–60 |
-| [Sensor (Gold Plus)](https://www.amazon.com/s?k=Sensor+%28Gold+Plus%29&tag=errorcodefixes-20) | 383-500-239 | $25–50 |
-| [Sensor immersion well](https://www.amazon.com/s?k=Sensor+immersion+well&tag=errorcodefixes-20) | 381-334-234 | $15–30 |
+| [Supply/return sensor (Ultra)](https://www.amazon.com/s?i=industrial&k=Supply%2Freturn+sensor+%28Ultra%29&tag=errorcodefixes-20) | 383-500-332 | $30–60 |
+| [Sensor (Gold Plus)](https://www.amazon.com/s?i=industrial&k=Sensor+%28Gold+Plus%29&tag=errorcodefixes-20) | 383-500-239 | $25–50 |
+| [Sensor immersion well](https://www.amazon.com/s?i=industrial&k=Sensor+immersion+well&tag=errorcodefixes-20) | 381-334-234 | $15–30 |
 | [Control board (last resort)](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Various | $200–500 |
 
 ## Related Weil-McLain Error Codes
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Meaning |
+| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Meaning |
 |---|---|
 | E01 | High limit tripped |
 | E02 | Ignition failure |

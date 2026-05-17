@@ -27,41 +27,41 @@ The Allen-Bradley MicroLogix 1400 (1766-L32AWA, 1766-L32BXB, etc.) is a compact 
 | RUN | Off | Processor stopped / faulted |
 | FLT | Red solid | Major fault — CPU halted |
 | FLT | Red blink | Minor fault — CPU running |
-| [BATT](https://www.amazon.com/s?k=BATT&tag=errorcodefixes-20) | Red | Replace battery immediately |
-| [COMM1/COMM2](https://www.amazon.com/s?k=COMM1%2FCOMM2&tag=errorcodefixes-20) | Yellow blink | Serial/EtherNet activity |
-| [FORCE](https://www.amazon.com/s?k=FORCE&tag=errorcodefixes-20) | Yellow | I/O forces active |
+| [BATT](https://www.amazon.com/s?i=industrial&k=BATT&tag=errorcodefixes-20) | Red | Replace battery immediately |
+| [COMM1/COMM2](https://www.amazon.com/s?i=industrial&k=COMM1%2FCOMM2&tag=errorcodefixes-20) | Yellow blink | Serial/EtherNet activity |
+| [FORCE](https://www.amazon.com/s?i=industrial&k=FORCE&tag=errorcodefixes-20) | Yellow | I/O forces active |
 
 ## Major Fault Codes (0000–0FFF)
 
 Major faults halt the CPU. The FLT LED goes solid red.
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Type | Description |
+| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Type | Description |
 |---|---|---|
-| [0004](https://www.amazon.com/s?k=0004&tag=errorcodefixes-20) | Configuration | I/O configuration file error |
-| [0006](https://www.amazon.com/s?k=0006&tag=errorcodefixes-20) | Configuration | EE read error during power cycle |
-| [0007](https://www.amazon.com/s?k=0007&tag=errorcodefixes-20) | Configuration | Watchdog timeout |
-| [0008](https://www.amazon.com/s?k=0008&tag=errorcodefixes-20) | Configuration | Internal processor fault |
-| [0020](https://www.amazon.com/s?k=0020&tag=errorcodefixes-20) | Instruction | Illegal instruction execution |
-| [0021](https://www.amazon.com/s?k=0021&tag=errorcodefixes-20) | Instruction | Division by zero |
-| [0022](https://www.amazon.com/s?k=0022&tag=errorcodefixes-20) | Instruction | Illegal slot or address |
-| [0030](https://www.amazon.com/s?k=0030&tag=errorcodefixes-20) | I/O | Local I/O communication fault |
-| [0031](https://www.amazon.com/s?k=0031&tag=errorcodefixes-20) | I/O | I/O module failure |
-| [0042](https://www.amazon.com/s?k=0042&tag=errorcodefixes-20) | Program | Control stack overflow (too many nested subroutines) |
-| [0043](https://www.amazon.com/s?k=0043&tag=errorcodefixes-20) | Program | Subroutine nesting fault |
-| [0060](https://www.amazon.com/s?k=0060&tag=errorcodefixes-20) | Memory | RAM fault |
-| [0080](https://www.amazon.com/s?k=0080&tag=errorcodefixes-20) | CPU | Math coprocessor fault |
+| [0004](https://www.amazon.com/s?i=industrial&k="0004"&tag=errorcodefixes-20) | Configuration | I/O configuration file error |
+| [0006](https://www.amazon.com/s?i=industrial&k="0006"&tag=errorcodefixes-20) | Configuration | EE read error during power cycle |
+| [0007](https://www.amazon.com/s?i=industrial&k="0007"&tag=errorcodefixes-20) | Configuration | Watchdog timeout |
+| [0008](https://www.amazon.com/s?i=industrial&k="0008"&tag=errorcodefixes-20) | Configuration | Internal processor fault |
+| [0020](https://www.amazon.com/s?i=industrial&k="0020"&tag=errorcodefixes-20) | Instruction | Illegal instruction execution |
+| [0021](https://www.amazon.com/s?i=industrial&k="0021"&tag=errorcodefixes-20) | Instruction | Division by zero |
+| [0022](https://www.amazon.com/s?i=industrial&k="0022"&tag=errorcodefixes-20) | Instruction | Illegal slot or address |
+| [0030](https://www.amazon.com/s?i=industrial&k="0030"&tag=errorcodefixes-20) | I/O | Local I/O communication fault |
+| [0031](https://www.amazon.com/s?i=industrial&k="0031"&tag=errorcodefixes-20) | I/O | I/O module failure |
+| [0042](https://www.amazon.com/s?i=industrial&k="0042"&tag=errorcodefixes-20) | Program | Control stack overflow (too many nested subroutines) |
+| [0043](https://www.amazon.com/s?i=industrial&k="0043"&tag=errorcodefixes-20) | Program | Subroutine nesting fault |
+| [0060](https://www.amazon.com/s?i=industrial&k="0060"&tag=errorcodefixes-20) | Memory | RAM fault |
+| [0080](https://www.amazon.com/s?i=industrial&k="0080"&tag=errorcodefixes-20) | CPU | Math coprocessor fault |
 
 ## Minor Fault Codes
 
 Minor faults are logged but the CPU keeps running (FLT LED blinks).
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Description |
+| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Description |
 |---|---|
-| [0081](https://www.amazon.com/s?k=0081&tag=errorcodefixes-20) | Battery low |
-| [0082](https://www.amazon.com/s?k=0082&tag=errorcodefixes-20) | RTC (real time clock) error |
-| [0085](https://www.amazon.com/s?k=0085&tag=errorcodefixes-20) | I/O module not responding (still scanned) |
-| [0090](https://www.amazon.com/s?k=0090&tag=errorcodefixes-20) | User-defined fault (triggered by fault instruction in ladder) |
-| [00A0](https://www.amazon.com/s?k=00A0&tag=errorcodefixes-20) | Communication timeout on serial port |
+| [0081](https://www.amazon.com/s?i=industrial&k="0081"&tag=errorcodefixes-20) | Battery low |
+| [0082](https://www.amazon.com/s?i=industrial&k="0082"&tag=errorcodefixes-20) | RTC (real time clock) error |
+| [0085](https://www.amazon.com/s?i=industrial&k="0085"&tag=errorcodefixes-20) | I/O module not responding (still scanned) |
+| [0090](https://www.amazon.com/s?i=industrial&k="0090"&tag=errorcodefixes-20) | User-defined fault (triggered by fault instruction in ladder) |
+| [00A0](https://www.amazon.com/s?i=industrial&k="00A0"&tag=errorcodefixes-20) | Communication timeout on serial port |
 
 ## Reading Faults via LCD Display
 
@@ -94,7 +94,7 @@ Leave LAD 3 empty if you want all faults to halt the CPU immediately (safest for
 
 | Part | Rockwell P/N | Standard |
 |---|---|---|
-| [Lithium battery](https://www.amazon.com/s?k=Lithium+battery&tag=errorcodefixes-20) | 1769-BA | 3V CR-2032 equivalent |
+| [Lithium battery](https://www.amazon.com/s?i=industrial&k=Lithium+battery&tag=errorcodefixes-20) | 1769-BA | 3V CR-2032 equivalent |
 
 Replace with power ON to retain RAM. The capacitor backup holds RAM for about 1 minute. Replace battery every 3–5 years or when BATT LED illuminates.
 

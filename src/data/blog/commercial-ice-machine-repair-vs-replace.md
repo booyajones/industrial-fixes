@@ -49,7 +49,7 @@ Ice machines share a set of common failure points. Here is what each repair cost
 
 **The critical distinction:** Repairs involving the sealed refrigeration system (compressor, evaporator, condenser) cost significantly more and often push the decision toward replacement. Component-level repairs (valves, switches, fans) are affordable and worth doing on a machine under 7 years old.
 
-[Search for commercial ice machine parts](https://www.amazon.com/s?k=commercial+ice+machine+parts&tag=errorcodefixes-20)
+[Search for commercial ice machine parts](https://www.amazon.com/s?i=industrial&k=commercial+ice+machine+parts&tag=errorcodefixes-20)
 
 ---
 
@@ -77,7 +77,7 @@ New commercial ice machines are priced by ice production capacity and type.
 
 Brand selection affects future repair costs. Manitowoc and Scotsman parts are available at most commercial refrigeration suppliers nationwide. Hoshizaki parts are widely available but cost more.
 
-[Search for commercial ice machine](https://www.amazon.com/s?k=commercial+ice+machine&tag=errorcodefixes-20) | [Search for Manitowoc ice machine parts](https://www.amazon.com/s?k=Manitowoc+ice+machine+parts&tag=errorcodefixes-20)
+[Search for commercial ice machine](https://www.amazon.com/s?i=industrial&k=commercial+ice+machine&tag=errorcodefixes-20) | [Search for Manitowoc ice machine parts](https://www.amazon.com/s?i=industrial&k=Manitowoc+ice+machine+parts&tag=errorcodefixes-20)
 
 ---
 

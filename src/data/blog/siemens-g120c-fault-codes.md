@@ -59,11 +59,11 @@ The Siemens SINAMICS G120C is a compact variable frequency drive in the G120 pro
 
 | Part | Notes |
 |---|---|
-| G120C internal cooling fan | [Amazon](https://www.amazon.com/s?k=G120C+internal+cooling+fan&tag=errorcodefixes-20) \| Replacement fan for thermal fault prevention |
-| BOP-2 operator panel | [Amazon](https://www.amazon.com/s?k=BOP-2+operator+panel&tag=errorcodefixes-20) \| For local diagnostics and parameter access |
-| PROFIBUS connector | [Amazon](https://www.amazon.com/s?k=PROFIBUS+connector&tag=errorcodefixes-20) \| 9-pin D-sub with built-in EOL resistor |
-| Motor PTC thermistor | [Amazon](https://www.amazon.com/s?k=Motor+PTC+thermistor&tag=errorcodefixes-20) \| For F00011; check PTC resistance (normal: 100–1000 Ω) |
-| Complete G120C drive | [Amazon](https://www.amazon.com/s?k=Complete+G120C+drive&tag=errorcodefixes-20) \| For F00030 or F00052 hardware faults |
+| G120C internal cooling fan | [Amazon](https://www.amazon.com/s?i=industrial&k=G120C+internal+cooling+fan&tag=errorcodefixes-20) \| Replacement fan for thermal fault prevention |
+| BOP-2 operator panel | [Amazon](https://www.amazon.com/s?i=industrial&k=BOP-2+operator+panel&tag=errorcodefixes-20) \| For local diagnostics and parameter access |
+| PROFIBUS connector | [Amazon](https://www.amazon.com/s?i=industrial&k=PROFIBUS+connector&tag=errorcodefixes-20) \| 9-pin D-sub with built-in EOL resistor |
+| Motor PTC thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+PTC+thermistor&tag=errorcodefixes-20) \| For F00011; check PTC resistance (normal: 100–1000 Ω) |
+| Complete G120C drive | [Amazon](https://www.amazon.com/s?i=industrial&k=Complete+G120C+drive&tag=errorcodefixes-20) \| For F00030 or F00052 hardware faults |
 ## When to Call a Pro
 
 Siemens G120C drives can be remotely diagnosed via PROFINET using Siemens STARTER or TIA Portal. If the drive is integrated into a PROFINET network, a Siemens-trained automation technician can view the full fault buffer, drive telemetry, and parameter settings without being physically at the drive. For F00030 (hardware fault), contact Siemens technical support or a Siemens Service Partner.

@@ -36,9 +36,9 @@ Miller fault code B1 indicates an **output voltage fault**. The machine's contro
 
 | Part | Notes |
 |------|-------|
-| Weld lead set | [Amazon](https://www.amazon.com/s?k=Weld+lead+set&tag=errorcodefixes-20) \| Replace if insulation is damaged or terminals are overheated |
-| Work clamp | [Amazon](https://www.amazon.com/s?k=Work+clamp&tag=errorcodefixes-20) \| Weak spring or burned contact surfaces create voltage instability |
-| Output board / power module | [Amazon](https://www.amazon.com/s?k=Output+board+%2F+power+module&tag=errorcodefixes-20) \| Needed if B1 persists with no external load connected |
+| Weld lead set | [Amazon](https://www.amazon.com/s?i=industrial&k=Weld+lead+set&tag=errorcodefixes-20) \| Replace if insulation is damaged or terminals are overheated |
+| Work clamp | [Amazon](https://www.amazon.com/s?i=industrial&k=Work+clamp&tag=errorcodefixes-20) \| Weak spring or burned contact surfaces create voltage instability |
+| Output board / power module | [Amazon](https://www.amazon.com/s?i=industrial&k=Output+board+%2F+power+module&tag=errorcodefixes-20) \| Needed if B1 persists with no external load connected |
 ## When to Call a Pro
 
 If B1 returns with the leads disconnected and input power confirmed good, the output board or inverter section needs bench diagnosis. Miller inverter repair involves live high-voltage DC bus circuits, so use an authorized Miller service center.

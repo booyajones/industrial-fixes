@@ -37,16 +37,16 @@ Here is a direct comparison of cost, efficiency, installation, and which one wor
 
 These are national average installed prices for 2025-2026:
 
-| [System type](https://www.amazon.com/s?k=Mini+split+AC&tag=errorcodefixes-20) | Installed cost | Coverage |
+| [System type](https://www.amazon.com/s?i=industrial&k=Mini+split+AC&tag=errorcodefixes-20) | Installed cost | Coverage |
 |-------------|--------------|---------|
-| [Single-zone mini-split (12,000 BTU)](https://www.amazon.com/s?k=12000+BTU+mini+split&tag=errorcodefixes-20) | $1,500 to $3,000 | One room or open area up to 500 sq ft |
-| [Single-zone mini-split (18,000 BTU)](https://www.amazon.com/s?k=18000+BTU+mini+split&tag=errorcodefixes-20) | $2,000 to $4,000 | Large room or small apartment (up to 800 sq ft) |
-| [Dual-zone mini-split](https://www.amazon.com/s?k=Dual+zone+mini+split&tag=errorcodefixes-20) | $3,500 to $6,500 | Two rooms or zones |
-| [Tri-zone mini-split](https://www.amazon.com/s?k=Tri+zone+mini+split&tag=errorcodefixes-20) | $4,500 to $8,500 | Three zones |
-| [Quad-zone mini-split](https://www.amazon.com/s?k=Quad+zone+mini+split&tag=errorcodefixes-20) | $5,500 to $11,000 | Four zones |
-| [Central AC (2-3 ton, 14 SEER2)](https://www.amazon.com/s?k=Central+AC+2+ton&tag=errorcodefixes-20) | $4,500 to $6,500 | Whole home (1,200 to 2,000 sq ft) with existing ducts |
-| [Central AC (3-4 ton, 16 SEER2)](https://www.amazon.com/s?k=Central+AC+3+ton&tag=errorcodefixes-20) | $5,500 to $9,000 | Whole home (2,000 to 3,000 sq ft) with existing ducts |
-| [Central AC with new ductwork](https://www.amazon.com/s?k=New+ductwork+installation&tag=errorcodefixes-20) | $10,000 to $18,000 | Whole home including new duct system |
+| [Single-zone mini-split (12,000 BTU)](https://www.amazon.com/s?i=industrial&k=12000+BTU+mini+split&tag=errorcodefixes-20) | $1,500 to $3,000 | One room or open area up to 500 sq ft |
+| [Single-zone mini-split (18,000 BTU)](https://www.amazon.com/s?i=industrial&k=18000+BTU+mini+split&tag=errorcodefixes-20) | $2,000 to $4,000 | Large room or small apartment (up to 800 sq ft) |
+| [Dual-zone mini-split](https://www.amazon.com/s?i=industrial&k=Dual+zone+mini+split&tag=errorcodefixes-20) | $3,500 to $6,500 | Two rooms or zones |
+| [Tri-zone mini-split](https://www.amazon.com/s?i=industrial&k=Tri+zone+mini+split&tag=errorcodefixes-20) | $4,500 to $8,500 | Three zones |
+| [Quad-zone mini-split](https://www.amazon.com/s?i=industrial&k=Quad+zone+mini+split&tag=errorcodefixes-20) | $5,500 to $11,000 | Four zones |
+| [Central AC (2-3 ton, 14 SEER2)](https://www.amazon.com/s?i=industrial&k=Central+AC+2+ton&tag=errorcodefixes-20) | $4,500 to $6,500 | Whole home (1,200 to 2,000 sq ft) with existing ducts |
+| [Central AC (3-4 ton, 16 SEER2)](https://www.amazon.com/s?i=industrial&k=Central+AC+3+ton&tag=errorcodefixes-20) | $5,500 to $9,000 | Whole home (2,000 to 3,000 sq ft) with existing ducts |
+| [Central AC with new ductwork](https://www.amazon.com/s?i=industrial&k=New+ductwork+installation&tag=errorcodefixes-20) | $10,000 to $18,000 | Whole home including new duct system |
 
 **The cost crossover point is critical.** For a home with existing ductwork, central AC is cheaper for whole-home cooling. A 3-ton central AC at $6,000 covers the entire house. A mini-split system covering the same 2,000 sq ft would need 4 to 6 zones at $6,000 to $10,000.
 
@@ -58,11 +58,11 @@ For a home without ducts, mini-split wins on cost. Adding ductwork to an existin
 
 Mini-splits are generally more efficient than central AC systems of the same age and price tier.
 
-| [Efficiency metric](https://www.amazon.com/s?k=AC+efficiency&tag=errorcodefixes-20) | Budget mini-split | Premium mini-split | Budget central AC | Premium central AC |
+| [Efficiency metric](https://www.amazon.com/s?i=industrial&k=AC+efficiency&tag=errorcodefixes-20) | Budget mini-split | Premium mini-split | Budget central AC | Premium central AC |
 |--------------------|-----------------|------------------|-----------------|------------------|
-| [SEER2 rating](https://www.amazon.com/s?k=SEER2+rating&tag=errorcodefixes-20) | 17 to 21 | 22 to 38 | 14 to 16 | 18 to 26 |
-| [EER2 rating](https://www.amazon.com/s?k=EER2+rating&tag=errorcodefixes-20) | 10 to 12 | 13 to 18 | 10 to 12 | 12 to 15 |
-| [HSPF2 (heating mode)](https://www.amazon.com/s?k=HSPF2+rating&tag=errorcodefixes-20) | 7.5 to 9 | 10 to 14 | N/A (Separate furnace) | N/A |
+| [SEER2 rating](https://www.amazon.com/s?i=industrial&k=SEER2+rating&tag=errorcodefixes-20) | 17 to 21 | 22 to 38 | 14 to 16 | 18 to 26 |
+| [EER2 rating](https://www.amazon.com/s?i=industrial&k=EER2+rating&tag=errorcodefixes-20) | 10 to 12 | 13 to 18 | 10 to 12 | 12 to 15 |
+| [HSPF2 (heating mode)](https://www.amazon.com/s?i=industrial&k=HSPF2+rating&tag=errorcodefixes-20) | 7.5 to 9 | 10 to 14 | N/A (Separate furnace) | N/A |
 
 **Why are mini-splits more efficient?** Inverter technology. Nearly all mini-splits use variable-speed inverter compressors that modulate output to match demand. Central AC systems in the budget and mid-range use single-speed scroll compressors that run at full capacity until the thermostat is satisfied, then cycle off. Premium central AC is inverter-driven but costs $8,000 to $15,000.
 
@@ -94,7 +94,7 @@ Mini-splits are generally more efficient than central AC systems of the same age
 
 ## Multi-Zone Capability
 
-| [Feature](https://www.amazon.com/s?k=Multi+zone+HVAC&tag=errorcodefixes-20) | Mini-Split | Central AC |
+| [Feature](https://www.amazon.com/s?i=industrial&k=Multi+zone+HVAC&tag=errorcodefixes-20) | Mini-Split | Central AC |
 |---------|-----------|-----------|
 | Zone control | Each indoor unit is its own zone | Requires zoning dampers ($1,500 to $3,500 add-on) |
 | Temperature control per room | Yes, each room has its own thermostat | With zoning, yes. Without zoning, one thermostat for whole house. |
@@ -109,7 +109,7 @@ Zoning a central AC system requires motorized dampers in the ductwork, a zone co
 
 ## Aesthetics and Design
 
-| [Aesthetic factor](https://www.amazon.com/s?k=Mini+split+cover&tag=errorcodefixes-20) | Mini-Split | Central AC |
+| [Aesthetic factor](https://www.amazon.com/s?i=industrial&k=Mini+split+cover&tag=errorcodefixes-20) | Mini-Split | Central AC |
 |-------------------|-----------|-----------|
 | Indoor presence | Wall-mounted unit in each room (7 to 12 inches wide, 10 to 12 inches tall) | Floor registers or ceiling vents only |
 | Outdoor presence | Single condenser for 1 to 5 indoor units | Single condenser for whole home |

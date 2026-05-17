@@ -73,11 +73,11 @@ For **F-codes**, think of them as the fingerprint left behind after an event. If
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
 | [Bosch IDS inverter control board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Replaces failed outdoor inverter electronics behind E06, E07, or repeated communication faults after wiring checks out | $380 to $650 |
-| [10K HVAC thermistor sensor](https://www.amazon.com/s?k=10K+HVAC+thermistor+sensor&tag=errorcodefixes-20) | Replaces failed defrost, coil, discharge, or indoor temperature sensors behind E03, E08, and E09 | $15 to $45 |
+| [10K HVAC thermistor sensor](https://www.amazon.com/s?i=industrial&k=10K+HVAC+thermistor+sensor&tag=errorcodefixes-20) | Replaces failed defrost, coil, discharge, or indoor temperature sensors behind E03, E08, and E09 | $15 to $45 |
 | [Bosch air handler control board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Replaces indoor electronics that stop communicating with the outdoor section or thermostat | $220 to $420 |
 | [ECM condenser fan motor](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) | Replaces a failed outdoor fan motor that contributes to E05 and E11 faults | $180 to $320 |
-| [24V HVAC transformer](https://www.amazon.com/s?k=24V+HVAC+transformer&tag=errorcodefixes-20) | Restores stable control voltage when communication or sensor codes appear with random resets | $20 to $50 |
-| [Liquid line filter drier](https://www.amazon.com/s?k=liquid+line+filter+drier+refrigerant&tag=errorcodefixes-20) | Used during sealed-system repairs when restriction or contamination contributes to temperature and pressure faults | $20 to $60 |
+| [24V HVAC transformer](https://www.amazon.com/s?i=industrial&k=24V+HVAC+transformer&tag=errorcodefixes-20) | Restores stable control voltage when communication or sensor codes appear with random resets | $20 to $50 |
+| [Liquid line filter drier](https://www.amazon.com/s?i=industrial&k=liquid+line+filter+drier+refrigerant&tag=errorcodefixes-20) | Used during sealed-system repairs when restriction or contamination contributes to temperature and pressure faults | $20 to $60 |
 
 ## When to Call a Pro
 

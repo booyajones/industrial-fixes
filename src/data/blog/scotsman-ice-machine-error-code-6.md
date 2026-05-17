@@ -37,7 +37,7 @@ Scotsman error code 6 indicates a **long harvest condition occurred multiple tim
 
 | Part | Notes |
 |------|-------|
-| Scotsman scale remover | [Amazon](https://www.amazon.com/s?k=Scotsman+scale+remover&tag=errorcodefixes-20) \| Use Scotsman-approved descaler — phosphoric acid based; follow dilution instructions |
+| Scotsman scale remover | [Amazon](https://www.amazon.com/s?i=industrial&k=Scotsman+scale+remover&tag=errorcodefixes-20) \| Use Scotsman-approved descaler — phosphoric acid based; follow dilution instructions |
 | Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| If water supply is slow or flow is restricted |
 | Hot gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| If harvest consistently takes too long after cleaning |
 ## When to Call a Pro

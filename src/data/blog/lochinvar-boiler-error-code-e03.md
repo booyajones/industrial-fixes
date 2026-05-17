@@ -30,13 +30,13 @@ The switch is typically located on the supply outlet of the boiler, mounted in a
 
 | Cause | Explanation |
 |---|---|
-| [Setpoint too high](https://www.amazon.com/s?k=Setpoint+too+high&tag=errorcodefixes-20) | Boiler set to run near limit temp |
-| [Blocked heat distribution](https://www.amazon.com/s?k=Blocked+heat+distribution&tag=errorcodefixes-20) | Radiators, baseboard, or zone valves closed |
-| [Zone valve failure](https://www.amazon.com/s?k=Zone+valve+failure&tag=errorcodefixes-20) | Zone valve stuck closed, no load |
-| [Pump failure](https://www.amazon.com/s?k=Pump+failure&tag=errorcodefixes-20) | Circulator not moving water through system |
-| [Airlock in system](https://www.amazon.com/s?k=Airlock+in+system&tag=errorcodefixes-20) | Air pocket preventing water circulation |
-| [Sensor miscalibration](https://www.amazon.com/s?k=Sensor+miscalibration&tag=errorcodefixes-20) | Wrong reading, causing boiler to overshoot |
-| [Oversized boiler](https://www.amazon.com/s?k=Oversized+boiler&tag=errorcodefixes-20) | Too much output for the system's load |
+| [Setpoint too high](https://www.amazon.com/s?i=industrial&k=Setpoint+too+high&tag=errorcodefixes-20) | Boiler set to run near limit temp |
+| [Blocked heat distribution](https://www.amazon.com/s?i=industrial&k=Blocked+heat+distribution&tag=errorcodefixes-20) | Radiators, baseboard, or zone valves closed |
+| [Zone valve failure](https://www.amazon.com/s?i=industrial&k=Zone+valve+failure&tag=errorcodefixes-20) | Zone valve stuck closed, no load |
+| [Pump failure](https://www.amazon.com/s?i=industrial&k=Pump+failure&tag=errorcodefixes-20) | Circulator not moving water through system |
+| [Airlock in system](https://www.amazon.com/s?i=industrial&k=Airlock+in+system&tag=errorcodefixes-20) | Air pocket preventing water circulation |
+| [Sensor miscalibration](https://www.amazon.com/s?i=industrial&k=Sensor+miscalibration&tag=errorcodefixes-20) | Wrong reading, causing boiler to overshoot |
+| [Oversized boiler](https://www.amazon.com/s?i=industrial&k=Oversized+boiler&tag=errorcodefixes-20) | Too much output for the system's load |
 
 ## How to Diagnose E03
 
@@ -60,14 +60,14 @@ On Lochinvar Knight boilers: the E03 fault is typically auto-resetting once the 
 
 | Part | Cost |
 |---|---|
-| [Circulator pump (Taco 007)](https://www.amazon.com/s?k=Circulator+pump+%28Taco+007%29&tag=errorcodefixes-20) | $120–200 |
-| [Zone valve (Taco, Honeywell)](https://www.amazon.com/s?k=Zone+valve+%28Taco%2C+Honeywell%29&tag=errorcodefixes-20) | $80–150 |
+| [Circulator pump (Taco 007)](https://www.amazon.com/s?i=industrial&k=Circulator+pump+%28Taco+007%29&tag=errorcodefixes-20) | $120–200 |
+| [Zone valve (Taco, Honeywell)](https://www.amazon.com/s?i=industrial&k=Zone+valve+%28Taco%2C+Honeywell%29&tag=errorcodefixes-20) | $80–150 |
 | [High limit switch](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) | $30–80 |
 | [Supply temperature sensor](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | $30–60 |
 
 ## E03 vs. E01 on Lochinvar
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Meaning |
+| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Meaning |
 |---|---|
 | E01 | Ignition failure (no flame) |
 | E02 | Ignition lockout after retries |

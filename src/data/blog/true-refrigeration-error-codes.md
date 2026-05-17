@@ -23,11 +23,11 @@ This guide covers the most common True Refrigeration error codes and their fixes
 
 ## True Refrigeration Error Code Reference
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Meaning | Common Cause | [](https://www.amazon.com/s?k=&tag=errorcodefixes-20) | ------ |---------|-------------|
+| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Meaning | Common Cause | [](https://www.amazon.com/s?k=&tag=errorcodefixes-20) | ------ |---------|-------------|
 | E1 | [Return air sensor (room probe) fault](https://www.amazon.com/s?k=Return%20air%20sensor%20(room%20probe)%20fault&tag=errorcodefixes-20) | Failed or disconnected NTC probe |
-| [E2](https://www.amazon.com/s?k=E2&tag=errorcodefixes-20) | Evaporator coil sensor fault | Probe failure, ice buildup over sensor | [](https://www.amazon.com/s?k=&tag=errorcodefixes-20) | E3 | Condenser sensor fault | [Probe failure or disconnection](https://www.amazon.com/s?k=Probe%20failure%20or%20disconnection&tag=errorcodefixes-20) |  | E4 | [Discharge line temperature fault](https://www.amazon.com/s?k=Discharge%20line%20temperature%20fault&tag=errorcodefixes-20) | Probe failure, actual high discharge temp |
-| [E5](https://www.amazon.com/s?k=E5&tag=errorcodefixes-20) | Ambient temperature sensor fault | Controller or sensor issue | [](https://www.amazon.com/s?k=&tag=errorcodefixes-20) | F1 | High temperature alarm | [Product zone temp too high — door left open, condenser dirty](https://www.amazon.com/s?k=Product%20zone%20temp%20too%20high%20%E2%80%94%20door%20left%20open%2C%20condenser%20dirty&tag=errorcodefixes-20) |  | F2 | [Low temperature alarm](https://www.amazon.com/s?k=Low%20temperature%20alarm&tag=errorcodefixes-20) | Freezer over-cooling, stuck defrost, sensor fault |
-| [F3](https://www.amazon.com/s?k=F3&tag=errorcodefixes-20) | Defrost timeout alarm | Defrost heater failure, stuck defrost termination thermostat | [](https://www.amazon.com/s?k=&tag=errorcodefixes-20) | dF | Currently in defrost cycle | [Normal state — not an alarm](https://www.amazon.com/s?k=Normal%20state%20%E2%80%94%20not%20an%20alarm&tag=errorcodefixes-20) |  | Hi | [High temperature cutout active](https://www.amazon.com/s?k=High%20temperature%20cutout%20active&tag=errorcodefixes-20) | Compressor safety shutdown due to high temp |
+| [E2](https://www.amazon.com/s?i=industrial&k=E2&tag=errorcodefixes-20) | Evaporator coil sensor fault | Probe failure, ice buildup over sensor | [](https://www.amazon.com/s?k=&tag=errorcodefixes-20) | E3 | Condenser sensor fault | [Probe failure or disconnection](https://www.amazon.com/s?i=industrial&k=Probe+failure+or+disconnection&tag=errorcodefixes-20) |  | E4 | [Discharge line temperature fault](https://www.amazon.com/s?i=industrial&k=Discharge+line+temperature+fault&tag=errorcodefixes-20) | Probe failure, actual high discharge temp |
+| [E5](https://www.amazon.com/s?i=industrial&k=E5&tag=errorcodefixes-20) | Ambient temperature sensor fault | Controller or sensor issue | [](https://www.amazon.com/s?k=&tag=errorcodefixes-20) | F1 | High temperature alarm | [Product zone temp too high — door left open, condenser dirty](https://www.amazon.com/s?i=industrial&k=Product+zone+temp+too+high+%E2%80%94+door+left+open%2C+condenser+dirty&tag=errorcodefixes-20) |  | F2 | [Low temperature alarm](https://www.amazon.com/s?i=industrial&k=Low+temperature+alarm&tag=errorcodefixes-20) | Freezer over-cooling, stuck defrost, sensor fault |
+| [F3](https://www.amazon.com/s?i=industrial&k=F3&tag=errorcodefixes-20) | Defrost timeout alarm | Defrost heater failure, stuck defrost termination thermostat | [](https://www.amazon.com/s?k=&tag=errorcodefixes-20) | dF | Currently in defrost cycle | [Normal state — not an alarm](https://www.amazon.com/s?i=industrial&k=Normal+state+%E2%80%94+not+an+alarm&tag=errorcodefixes-20) |  | Hi | [High temperature cutout active](https://www.amazon.com/s?i=industrial&k=High+temperature+cutout+active&tag=errorcodefixes-20) | Compressor safety shutdown due to high temp |
 
 ## Common Causes (E1/E2 — Most Frequent)
 
@@ -62,9 +62,9 @@ This guide covers the most common True Refrigeration error codes and their fixes
 
 | Part | Where to Buy | Typical Cost |  | ------ | ------------- | ------------- |
 |------|------|------|------|------|------|------|
-| NTC 10kΩ replacement probe (True compatible) | [Amazon](https://www.amazon.com/s?k=NTC+10kΩ+replacement+probe+%28True+compatible%29&tag=errorcodefixes-20) \| Parts Town, RestaurantEquipment.Parts | $12–$30 |  |  |  |  |
+| NTC 10kΩ replacement probe (True compatible) | [Amazon](https://www.amazon.com/s?i=industrial&k=NTC+10k%CE%A9+replacement+probe+%28True+compatible%29&tag=errorcodefixes-20) \| Parts Town, RestaurantEquipment.Parts | $12–$30 |  |  |  |  |
 | True defrost heater (model-specific, e.g., 915146)&tag=) | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) \| Parts Town, Grainger | $40–$100 |  | Defrost termination thermostat | Parts Town, OEM appliance parts | $15–$40 |
-| True electronic controller replacement | [Amazon](https://www.amazon.com/s?k=True+electronic+controller+replacement&tag=errorcodefixes-20) \| Parts Town, True dealer | $80–$200 |  |  |  |  |
+| True electronic controller replacement | [Amazon](https://www.amazon.com/s?i=industrial&k=True+electronic+controller+replacement&tag=errorcodefixes-20) \| Parts Town, True dealer | $80–$200 |  |  |  |  |
 
 ##
 

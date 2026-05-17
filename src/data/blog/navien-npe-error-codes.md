@@ -63,12 +63,12 @@ The Navien NPE series (including NPE-180A, NPE-210A, NPE-240A, NPE-180S, NPE-210
 
 | Part | Notes |
 |------|-------|
-| Flow sensor | [Amazon](https://www.amazon.com/s?k=Flow+sensor&tag=errorcodefixes-20) \| E302; descale first before replacing |
+| Flow sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Flow+sensor&tag=errorcodefixes-20) \| E302; descale first before replacing |
 | Air pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| E010 after vent confirmed clear |
 | Gas valve assembly | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| E001/E002 after pressure confirmed |
 | Fan motor assembly | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| E024; includes wheel |
 | Outlet temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| E007; NTC type |
-| Igniter | [Amazon](https://www.amazon.com/s?k=Igniter&tag=errorcodefixes-20) \| For E001 with confirmed gas supply |
+| Igniter | [Amazon](https://www.amazon.com/s?i=industrial&k=Igniter&tag=errorcodefixes-20) \| For E001 with confirmed gas supply |
 ## When to Call a Pro
 
 Gas pressure testing requires a calibrated manometer and gas work knowledge. Navien NPE units should be descaled annually in hard water areas — descaling requires a circulating pump and descaling solution kit. Contact Navien technical support (1-800-519-8794) for warranty issues or complex fault diagnoses.

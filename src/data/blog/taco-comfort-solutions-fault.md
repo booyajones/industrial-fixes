@@ -16,18 +16,18 @@ tags:
 
 Taco Comfort Solutions manufactures variable-speed ECM circulators including the 00-VR3, 007-VR, and VT2218 series. These pumps use LED status indicators and, on advanced models, a pushbutton-activated fault display. The Taco 00-VR3 is one of the most widely installed variable-speed circulators in North American hydronic heating systems.
 
-| [LED / Display](https://www.amazon.com/s?k=LED+%2F+Display&tag=errorcodefixes-20) | Model | Meaning | Quick Fix |
+| [LED / Display](https://www.amazon.com/s?i=industrial&k=LED+%2F+Display&tag=errorcodefixes-20) | Model | Meaning | Quick Fix |
 |--------------|-------|---------|-----------|
-| [Green solid](https://www.amazon.com/s?k=Green+solid&tag=errorcodefixes-20) | 00-VR3, 007-VR | Normal operation | None |
-| [Green flashing](https://www.amazon.com/s?k=Green+flashing&tag=errorcodefixes-20) | 00-VR3 | Auto-adapt / performance mode active | Normal |
-| [Red solid](https://www.amazon.com/s?k=Red+solid&tag=errorcodefixes-20) | All VR series | Pump fault | Check power, blockage, temperature |
-| [Red 1 flash](https://www.amazon.com/s?k=Red+1+flash&tag=errorcodefixes-20) | 00-VR3 | Rotor blocked / locked | Manual rotation; bleed air |
-| [Red 2 flashes](https://www.amazon.com/s?k=Red+2+flashes&tag=errorcodefixes-20) | 00-VR3 | Overvoltage | Check supply voltage |
-| [Red 3 flashes](https://www.amazon.com/s?k=Red+3+flashes&tag=errorcodefixes-20) | 00-VR3 | Undervoltage | Check supply voltage |
-| [Red 4 flashes](https://www.amazon.com/s?k=Red+4+flashes&tag=errorcodefixes-20) | 00-VR3 | Overtemperature | Check system temperature; check load |
-| [Red 5 flashes](https://www.amazon.com/s?k=Red+5+flashes&tag=errorcodefixes-20) | 00-VR3 | Dry running detected | Fill and prime system |
-| [Red 6 flashes](https://www.amazon.com/s?k=Red+6+flashes&tag=errorcodefixes-20) | 00-VR3 | Internal module fault | Replace pump or head assembly |
-| [Amber solid](https://www.amazon.com/s?k=Amber+solid&tag=errorcodefixes-20) | 00-VR3 | Reduced-mode operation | System constraint — check valves/flow |
+| [Green solid](https://www.amazon.com/s?i=industrial&k=Green+solid&tag=errorcodefixes-20) | 00-VR3, 007-VR | Normal operation | None |
+| [Green flashing](https://www.amazon.com/s?i=industrial&k=Green+flashing&tag=errorcodefixes-20) | 00-VR3 | Auto-adapt / performance mode active | Normal |
+| [Red solid](https://www.amazon.com/s?i=industrial&k=Red+solid&tag=errorcodefixes-20) | All VR series | Pump fault | Check power, blockage, temperature |
+| [Red 1 flash](https://www.amazon.com/s?i=industrial&k=Red+1+flash&tag=errorcodefixes-20) | 00-VR3 | Rotor blocked / locked | Manual rotation; bleed air |
+| [Red 2 flashes](https://www.amazon.com/s?i=industrial&k=Red+2+flashes&tag=errorcodefixes-20) | 00-VR3 | Overvoltage | Check supply voltage |
+| [Red 3 flashes](https://www.amazon.com/s?i=industrial&k=Red+3+flashes&tag=errorcodefixes-20) | 00-VR3 | Undervoltage | Check supply voltage |
+| [Red 4 flashes](https://www.amazon.com/s?i=industrial&k=Red+4+flashes&tag=errorcodefixes-20) | 00-VR3 | Overtemperature | Check system temperature; check load |
+| [Red 5 flashes](https://www.amazon.com/s?i=industrial&k=Red+5+flashes&tag=errorcodefixes-20) | 00-VR3 | Dry running detected | Fill and prime system |
+| [Red 6 flashes](https://www.amazon.com/s?i=industrial&k=Red+6+flashes&tag=errorcodefixes-20) | 00-VR3 | Internal module fault | Replace pump or head assembly |
+| [Amber solid](https://www.amazon.com/s?i=industrial&k=Amber+solid&tag=errorcodefixes-20) | 00-VR3 | Reduced-mode operation | System constraint — check valves/flow |
 
 ## Most Common Faults
 
@@ -59,12 +59,12 @@ The amber solid LED on the 00-VR3 indicates the pump has entered reduced mode, w
 
 The Taco 00-VR3 has four operating modes selectable via the front button:
 
-| [Mode](https://www.amazon.com/s?k=Mode&tag=errorcodefixes-20) | Description |
+| [Mode](https://www.amazon.com/s?i=industrial&k=Mode&tag=errorcodefixes-20) | Description |
 |------|-------------|
-| [Auto-Adapt](https://www.amazon.com/s?k=Auto-Adapt&tag=errorcodefixes-20) | Learns the system and adjusts automatically (recommended) |
-| [Delta-P (proportional)](https://www.amazon.com/s?k=Delta-P+%28proportional%29&tag=errorcodefixes-20) | Adjusts head pressure proportionally to flow |
-| [Delta-P (constant)](https://www.amazon.com/s?k=Delta-P+%28constant%29&tag=errorcodefixes-20) | Maintains constant pressure differential |
-| [Fixed Speed](https://www.amazon.com/s?k=Fixed+Speed&tag=errorcodefixes-20) | Three fixed speed settings (manual override) |
+| [Auto-Adapt](https://www.amazon.com/s?i=industrial&k=Auto-Adapt&tag=errorcodefixes-20) | Learns the system and adjusts automatically (recommended) |
+| [Delta-P (proportional)](https://www.amazon.com/s?i=industrial&k=Delta-P+%28proportional%29&tag=errorcodefixes-20) | Adjusts head pressure proportionally to flow |
+| [Delta-P (constant)](https://www.amazon.com/s?i=industrial&k=Delta-P+%28constant%29&tag=errorcodefixes-20) | Maintains constant pressure differential |
+| [Fixed Speed](https://www.amazon.com/s?i=industrial&k=Fixed+Speed&tag=errorcodefixes-20) | Three fixed speed settings (manual override) |
 
 Most 00-VR3 faults are resolved by ensuring the system is properly filled and the pump is in Auto-Adapt mode.
 

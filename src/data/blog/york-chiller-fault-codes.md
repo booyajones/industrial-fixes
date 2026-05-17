@@ -560,6 +560,6 @@ VSD faults may require additional steps:
 
 Find replacement parts for York chillers on Amazon:
 
-- [York Chiller Parts & Controls](https://www.amazon.com/s?k=York+chiller+parts&tag=errorcodefixes-20)
-- [York HVAC Pressure Transducer & Sensor](https://www.amazon.com/s?k=York+HVAC+pressure+transducer+sensor&tag=errorcodefixes-20)
-- [York OptiView Control Panel Components](https://www.amazon.com/s?k=York+chiller+control+panel+parts&tag=errorcodefixes-20)
+- [York Chiller Parts & Controls](https://www.amazon.com/s?i=industrial&k=York+chiller+parts&tag=errorcodefixes-20)
+- [York HVAC Pressure Transducer & Sensor](https://www.amazon.com/s?i=industrial&k=York+HVAC+pressure+transducer+sensor&tag=errorcodefixes-20)
+- [York OptiView Control Panel Components](https://www.amazon.com/s?i=industrial&k=York+chiller+control+panel+parts&tag=errorcodefixes-20)

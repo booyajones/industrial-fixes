@@ -52,10 +52,10 @@ Johnson Controls uses variable frequency drives from multiple OEM manufacturers 
 
 | Part | Notes |
 |------|-------|
-| Drive cooling fan (internal) | [Amazon](https://www.amazon.com/s?k=Drive+cooling+fan+%28internal%29&tag=errorcodefixes-20) \| Match voltage and airflow to original; JCI part number cross-references to Hitachi or other OEM |
-| Input fuse set | [Amazon](https://www.amazon.com/s?k=Input+fuse+set&tag=errorcodefixes-20) \| Match voltage and amp rating from drive nameplate |
-| Dynamic braking resistor | [Amazon](https://www.amazon.com/s?k=Dynamic+braking+resistor&tag=errorcodefixes-20) \| For OV faults on high-inertia fans without adequate deceleration ramp |
-| Replacement VFD | [Amazon](https://www.amazon.com/s?k=Replacement+VFD&tag=errorcodefixes-20) \| For output IGBT failure confirmed by no-load OC test |
+| Drive cooling fan (internal) | [Amazon](https://www.amazon.com/s?i=industrial&k=Drive+cooling+fan+%28internal%29&tag=errorcodefixes-20) \| Match voltage and airflow to original; JCI part number cross-references to Hitachi or other OEM |
+| Input fuse set | [Amazon](https://www.amazon.com/s?i=industrial&k=Input+fuse+set&tag=errorcodefixes-20) \| Match voltage and amp rating from drive nameplate |
+| Dynamic braking resistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Dynamic+braking+resistor&tag=errorcodefixes-20) \| For OV faults on high-inertia fans without adequate deceleration ramp |
+| Replacement VFD | [Amazon](https://www.amazon.com/s?i=industrial&k=Replacement+VFD&tag=errorcodefixes-20) \| For output IGBT failure confirmed by no-load OC test |
 ## When to Call a Pro
 
 Ground fault diagnosis (GF code) requires a megger (insulation resistance tester) and comfort working with motor circuits. Drive output IGBT replacement requires VFD-specific training — most HVAC contractors replace the entire drive rather than attempting board-level repair. Johnson Controls has a building products service line and authorized contractors for Metasys-integrated equipment.

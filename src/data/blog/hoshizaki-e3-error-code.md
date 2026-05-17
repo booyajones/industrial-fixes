@@ -36,9 +36,9 @@ Hoshizaki error code E3 means the harvest cycle is taking too long — the contr
 
 | Part | Notes |
 |------|-------|
-| Hot gas bypass valve | [Amazon](https://www.amazon.com/s?k=Hot+gas+bypass+valve&tag=errorcodefixes-20) \| Hoshizaki part number varies by model; do not substitute non-OEM valves |
-| Condenser coil cleaner (foaming) | [Amazon](https://www.amazon.com/s?k=Condenser+coil+cleaner+%28foaming%29&tag=errorcodefixes-20) \| Nu-Calgon Coil King or equivalent |
-| Refrigerant (R-404A or R-448A depending on model) | [Amazon](https://www.amazon.com/s?k=Refrigerant+%28R-404A+or+R-448A+depending+on+model%29&tag=errorcodefixes-20) \| Requires EPA 608-certified tech |
+| Hot gas bypass valve | [Amazon](https://www.amazon.com/s?i=industrial&k=Hot+gas+bypass+valve&tag=errorcodefixes-20) \| Hoshizaki part number varies by model; do not substitute non-OEM valves |
+| Condenser coil cleaner (foaming) | [Amazon](https://www.amazon.com/s?i=industrial&k=Condenser+coil+cleaner+%28foaming%29&tag=errorcodefixes-20) \| Nu-Calgon Coil King or equivalent |
+| Refrigerant (R-404A or R-448A depending on model) | [Amazon](https://www.amazon.com/s?i=industrial&k=Refrigerant+%28R-404A+or+R-448A+depending+on+model%29&tag=errorcodefixes-20) \| Requires EPA 608-certified tech |
 ## When to Call a Pro
 
 Refrigerant diagnosis and recharge requires an EPA 608-certified refrigeration technician. If the condenser is clean and E3 persists, a tech should check system pressures.

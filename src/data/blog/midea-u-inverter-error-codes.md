@@ -60,7 +60,7 @@ The Midea U-Inverter is a window-mounted mini split with a unique U-shaped desig
 | Room temperature sensor (E1) | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| NTC 10kΩ; confirm U-Inverter model number |
 | Coil temperature sensor (E2) | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Clip-on type; confirm coil sensor vs. room sensor |
 | Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For E6 with confirmed cable connection |
-| Internal cable assembly | [Amazon](https://www.amazon.com/s?k=Internal+cable+assembly&tag=errorcodefixes-20) \| Between indoor and outdoor sections |
+| Internal cable assembly | [Amazon](https://www.amazon.com/s?i=industrial&k=Internal+cable+assembly&tag=errorcodefixes-20) \| Between indoor and outdoor sections |
 | Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For E9 after charge confirmed |
 ## When to Call a Pro
 

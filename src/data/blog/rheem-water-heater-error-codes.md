@@ -20,17 +20,17 @@ Rheem water heaters use different fault signaling methods depending on the type:
 
 Rheem gas tank water heaters (Performance, Classic, Classic Plus) have a **status LED** on the gas control valve. Read the flash pattern to diagnose:
 
-| [Flash Pattern](https://www.amazon.com/s?k=Flash+Pattern&tag=errorcodefixes-20) | Meaning | Fix |
+| [Flash Pattern](https://www.amazon.com/s?i=industrial&k=Flash+Pattern&tag=errorcodefixes-20) | Meaning | Fix |
 |---|---|---|
-| [1 flash (every 3 sec)](https://www.amazon.com/s?k=1+flash+%28every+3+sec%29&tag=errorcodefixes-20) | Normal operation | None needed |
-| [2 flashes](https://www.amazon.com/s?k=2+flashes&tag=errorcodefixes-20) | Thermopile voltage low | Clean thermocouple, check gas |
-| [3 flashes](https://www.amazon.com/s?k=3+flashes&tag=errorcodefixes-20) | Ignition failure | Relight pilot, clean thermocouple |
-| [4 flashes](https://www.amazon.com/s?k=4+flashes&tag=errorcodefixes-20) | Exceeded temperature limit | Check T&P, water temp setting |
-| [5 flashes](https://www.amazon.com/s?k=5+flashes&tag=errorcodefixes-20) | Sensor fault | Replace temperature sensor or gas valve |
-| [6 flashes](https://www.amazon.com/s?k=6+flashes&tag=errorcodefixes-20) | Thermistor fault | Replace gas control valve |
-| [7 flashes](https://www.amazon.com/s?k=7+flashes&tag=errorcodefixes-20) | Gas valve solenoid fault | Replace gas control valve |
-| [Continuous on](https://www.amazon.com/s?k=Continuous+on&tag=errorcodefixes-20) | Power fault | Check voltage to unit |
-| [No light](https://www.amazon.com/s?k=No+light&tag=errorcodefixes-20) | No power or pilot out | Restore power, relight pilot |
+| [1 flash (every 3 sec)](https://www.amazon.com/s?i=industrial&k=1+flash+%28every+3+sec%29&tag=errorcodefixes-20) | Normal operation | None needed |
+| [2 flashes](https://www.amazon.com/s?i=industrial&k=2+flashes&tag=errorcodefixes-20) | Thermopile voltage low | Clean thermocouple, check gas |
+| [3 flashes](https://www.amazon.com/s?i=industrial&k=3+flashes&tag=errorcodefixes-20) | Ignition failure | Relight pilot, clean thermocouple |
+| [4 flashes](https://www.amazon.com/s?i=industrial&k=4+flashes&tag=errorcodefixes-20) | Exceeded temperature limit | Check T&P, water temp setting |
+| [5 flashes](https://www.amazon.com/s?i=industrial&k=5+flashes&tag=errorcodefixes-20) | Sensor fault | Replace temperature sensor or gas valve |
+| [6 flashes](https://www.amazon.com/s?i=industrial&k=6+flashes&tag=errorcodefixes-20) | Thermistor fault | Replace gas control valve |
+| [7 flashes](https://www.amazon.com/s?i=industrial&k=7+flashes&tag=errorcodefixes-20) | Gas valve solenoid fault | Replace gas control valve |
+| [Continuous on](https://www.amazon.com/s?i=industrial&k=Continuous+on&tag=errorcodefixes-20) | Power fault | Check voltage to unit |
+| [No light](https://www.amazon.com/s?i=industrial&k=No+light&tag=errorcodefixes-20) | No power or pilot out | Restore power, relight pilot |
 
 ### Fixing 2 Flashes (Low Thermopile Voltage)
 
@@ -43,7 +43,7 @@ Clean the thermocouple tip with fine steel wool. Ensure it's positioned fully in
 
 ## Rheem Tankless Error Codes (RTGH Series)
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Description | Fix |
+| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Description | Fix |
 |---|---|---|
 | P1 | No flow detected | Minimum flow not met, check flow sensor |
 | E1 | Ignition failure | Gas supply, igniter, flame sensor |
@@ -74,7 +74,7 @@ Do this annually in hard water areas (over 7 grains per gallon hardness).
 
 Rheem Hybrid Heat Pump and EcoNet electric water heaters use digital codes:
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Meaning |
+| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Meaning |
 |---|---|
 | E1 | Upper element fault |
 | E2 | Lower element fault |

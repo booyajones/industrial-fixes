@@ -54,7 +54,7 @@ On R-410A units, high-side pressure above 590 psi trips the HP switch. Wash the 
 | Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Measure ┬╡A before replacing |
 | Inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Check capacitor first |
 | Limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Match temperature rating |
-| ECM blower motor | [Amazon](https://www.amazon.com/s?k=ECM+blower+motor&tag=errorcodefixes-20) \| Check motor module and control board |
+| ECM blower motor | [Amazon](https://www.amazon.com/s?i=industrial&k=ECM+blower+motor&tag=errorcodefixes-20) \| Check motor module and control board |
 > **Pro tip:** Lennox ResolvePlus fault history is accessible via the field diagnostic tool or iComfort interface. Always retrieve fault history before clearing codes to identify intermittent problems.
 
 ## Related Articles

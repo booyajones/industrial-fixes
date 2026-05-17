@@ -38,7 +38,7 @@ E1 on a Senville mini split indicates a communication fault between the indoor a
 
 | Part | Notes |
 |------|-------|
-| 18 AWG 3-conductor cable | [Amazon](https://www.amazon.com/s?k=18+AWG+3-conductor+cable&tag=errorcodefixes-20) \| For replacing damaged communication wire runs |
+| 18 AWG 3-conductor cable | [Amazon](https://www.amazon.com/s?i=industrial&k=18+AWG+3-conductor+cable&tag=errorcodefixes-20) \| For replacing damaged communication wire runs |
 | Indoor control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace if wire and power check out but E1 persists |
 | Outdoor control board (PCB) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace if outdoor unit confirmed as communication failure source |
 ## When to Call a Pro

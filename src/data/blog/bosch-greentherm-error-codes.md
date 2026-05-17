@@ -96,7 +96,7 @@ This guide covers the four most common Greentherm fault codes and what to do whe
 5. If resistance is correct and the connector is secure, suspect the wiring harness between sensor and board — check for continuity along each wire.
 
 **Parts:**
-- [NTC Thermistor 10K for Bosch Tankless Water Heater](https://www.amazon.com/s?k=NTC+thermistor+10k+Bosch+tankless+water+heater+sensor&tag=errorcodefixes-20)
+- [NTC Thermistor 10K for Bosch Tankless Water Heater](https://www.amazon.com/s?i=industrial&k=NTC+thermistor+10k+Bosch+tankless+water+heater+sensor&tag=errorcodefixes-20)
 
 ---
 

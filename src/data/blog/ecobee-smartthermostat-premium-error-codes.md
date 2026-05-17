@@ -148,11 +148,11 @@ The SmartThermostat Premium has a built-in humidity sensor. High or low humidity
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
-| [ecobee SmartSensor for Rooms](https://www.amazon.com/s?k=ecobee+SmartSensor+room+sensor&tag=errorcodefixes-20) | Replacement or additional sensor if E2 persists after battery change | $35–$80 |
-| [CR2032 Coin Cell Battery (Pack)](https://www.amazon.com/s?k=CR2032+battery+10+pack&tag=errorcodefixes-20) | Fixes most E2 remote sensor communication faults | $8–$15 |
-| [24V Common Wire (C-Wire) Adapter](https://www.amazon.com/s?k=C-wire+adapter+thermostat+power+kit&tag=errorcodefixes-20) | Provides stable power if your HVAC system lacks a C wire | $15–$40 |
-| [Wi-Fi Range Extender 2.4GHz](https://www.amazon.com/s?k=Wi-Fi+range+extender+2.4GHz+smart+home&tag=errorcodefixes-20) | Fixes weak signal causing persistent Wi-Fi disconnects | $25–$60 |
-| [HVAC Thermostat Wire 18/5](https://www.amazon.com/s?k=thermostat+wire+18+5+conductor&tag=errorcodefixes-20) | Replace damaged or incomplete wire runs when adding C wire | $15–$40 |
+| [ecobee SmartSensor for Rooms](https://www.amazon.com/s?i=industrial&k=ecobee+SmartSensor+room+sensor&tag=errorcodefixes-20) | Replacement or additional sensor if E2 persists after battery change | $35–$80 |
+| [CR2032 Coin Cell Battery (Pack)](https://www.amazon.com/s?i=industrial&k=CR2032+battery+10+pack&tag=errorcodefixes-20) | Fixes most E2 remote sensor communication faults | $8–$15 |
+| [24V Common Wire (C-Wire) Adapter](https://www.amazon.com/s?i=industrial&k=C-wire+adapter+thermostat+power+kit&tag=errorcodefixes-20) | Provides stable power if your HVAC system lacks a C wire | $15–$40 |
+| [Wi-Fi Range Extender 2.4GHz](https://www.amazon.com/s?i=industrial&k=Wi-Fi+range+extender+2.4GHz+smart+home&tag=errorcodefixes-20) | Fixes weak signal causing persistent Wi-Fi disconnects | $25–$60 |
+| [HVAC Thermostat Wire 18/5](https://www.amazon.com/s?i=industrial&k=thermostat+wire+18+5+conductor&tag=errorcodefixes-20) | Replace damaged or incomplete wire runs when adding C wire | $15–$40 |
 
 ---
 

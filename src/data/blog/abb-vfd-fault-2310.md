@@ -36,9 +36,9 @@ ABB VFD fault 2310 is an earth fault (ground fault). The drive's earth fault det
 
 | Part | Notes |
 |------|-------|
-| Motor (rewind or replace) | [Amazon](https://www.amazon.com/s?k=Motor+%28rewind+or+replace%29&tag=errorcodefixes-20) \| If megger confirms winding fault; rewinding is cost-effective on larger motors |
-| Output cable | [Amazon](https://www.amazon.com/s?k=Output+cable&tag=errorcodefixes-20) \| Replace full run if insulation is compromised |
-| Output line reactor (choke) | [Amazon](https://www.amazon.com/s?k=Output+line+reactor+%28choke%29&tag=errorcodefixes-20) \| Install when cable run exceeds drive manufacturer's maximum without reactor |
+| Motor (rewind or replace) | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+%28rewind+or+replace%29&tag=errorcodefixes-20) \| If megger confirms winding fault; rewinding is cost-effective on larger motors |
+| Output cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Output+cable&tag=errorcodefixes-20) \| Replace full run if insulation is compromised |
+| Output line reactor (choke) | [Amazon](https://www.amazon.com/s?i=industrial&k=Output+line+reactor+%28choke%29&tag=errorcodefixes-20) \| Install when cable run exceeds drive manufacturer's maximum without reactor |
 ## When to Call a Pro
 
 Megger testing at 500V or 1000V DC on motors connected to high-voltage systems requires proper PPE and lock-out/tag-out procedures. If the motor is part of a hazardous location installation, a licensed electrician must perform the insulation testing and repair.

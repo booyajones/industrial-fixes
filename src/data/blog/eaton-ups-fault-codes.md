@@ -47,11 +47,11 @@ Three-phase Eaton systems monitor individual cooling fans. A failed fan causes d
 
 | Part | Notes |
 |------|-------|
-| Internal battery module | [Amazon](https://www.amazon.com/s?k=Internal+battery+module&tag=errorcodefixes-20) \| Size to UPS model |
-| External battery module (EBM) | [Amazon](https://www.amazon.com/s?k=External+battery+module+%28EBM%29&tag=errorcodefixes-20) \| For extended runtime systems |
-| Network management card | [Amazon](https://www.amazon.com/s?k=Network+management+card&tag=errorcodefixes-20) \| Replace on communication fault |
-| Fan tray / fan module | [Amazon](https://www.amazon.com/s?k=Fan+tray+%2F+fan+module&tag=errorcodefixes-20) \| Replace on fan fault |
-| Static bypass assembly | [Amazon](https://www.amazon.com/s?k=Static+bypass+assembly&tag=errorcodefixes-20) \| Replace on switching fault |
+| Internal battery module | [Amazon](https://www.amazon.com/s?i=industrial&k=Internal+battery+module&tag=errorcodefixes-20) \| Size to UPS model |
+| External battery module (EBM) | [Amazon](https://www.amazon.com/s?i=industrial&k=External+battery+module+%28EBM%29&tag=errorcodefixes-20) \| For extended runtime systems |
+| Network management card | [Amazon](https://www.amazon.com/s?i=industrial&k=Network+management+card&tag=errorcodefixes-20) \| Replace on communication fault |
+| Fan tray / fan module | [Amazon](https://www.amazon.com/s?i=industrial&k=Fan+tray+%2F+fan+module&tag=errorcodefixes-20) \| Replace on fan fault |
+| Static bypass assembly | [Amazon](https://www.amazon.com/s?i=industrial&k=Static+bypass+assembly&tag=errorcodefixes-20) \| Replace on switching fault |
 ## When to Call a Pro
 Eaton 9395 and 9XXX three-phase systems require trained service personnel for internal work. Capacitor replacement, transformer inspection, and rectifier/inverter service must be done by Eaton-authorized technicians.
 

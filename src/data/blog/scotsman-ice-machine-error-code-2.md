@@ -37,8 +37,8 @@ Scotsman error code 2 indicates a long harvest cycle. The control board expected
 | Part | Notes |
 |------|-------|
 | Hot gas valve coil or valve assembly | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Replace if the valve doesn't energize or shift cleanly in harvest |
-| Curtain or curtain switch | [Amazon](https://www.amazon.com/s?k=Curtain+or+curtain+switch&tag=errorcodefixes-20) \| Replace if the curtain drags or the switch input is erratic |
-| Nickel-safe ice machine cleaner | [Amazon](https://www.amazon.com/s?k=Nickel-safe+ice+machine+cleaner&tag=errorcodefixes-20) \| Required if scale is causing the slab to stick to the evaporator |
+| Curtain or curtain switch | [Amazon](https://www.amazon.com/s?i=industrial&k=Curtain+or+curtain+switch&tag=errorcodefixes-20) \| Replace if the curtain drags or the switch input is erratic |
+| Nickel-safe ice machine cleaner | [Amazon](https://www.amazon.com/s?i=industrial&k=Nickel-safe+ice+machine+cleaner&tag=errorcodefixes-20) \| Required if scale is causing the slab to stick to the evaporator |
 ## When to Call a Pro
 
 If harvest stays long after cleaning and the hot gas valve tests good, the machine may have a refrigerant issue or a restricted metering circuit. That work requires a licensed refrigeration technician.

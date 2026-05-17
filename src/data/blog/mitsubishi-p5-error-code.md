@@ -38,9 +38,9 @@ Mitsubishi error code **P5** indicates a **drain pump fault**. The control board
 
 | Part | Notes |
 |------|-------|
-| Drain pump assembly | [Amazon](https://www.amazon.com/s?k=Drain+pump+assembly&tag=errorcodefixes-20) \| Model-specific Mitsubishi part |
+| Drain pump assembly | [Amazon](https://www.amazon.com/s?i=industrial&k=Drain+pump+assembly&tag=errorcodefixes-20) \| Model-specific Mitsubishi part |
 | Float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?tag=errorcodefixes-20) \| Often sold separately |
-| Discharge tubing | [Amazon](https://www.amazon.com/s?k=Discharge+tubing&tag=errorcodefixes-20) \| Replace if kinked or brittle |
+| Discharge tubing | [Amazon](https://www.amazon.com/s?i=industrial&k=Discharge+tubing&tag=errorcodefixes-20) \| Replace if kinked or brittle |
 ## When to Call a Pro
 If the pump receives power but still doesn't run, or if the fault involves concealed piping in a ceiling, call a Mitsubishi-trained service tech to avoid water damage.
 

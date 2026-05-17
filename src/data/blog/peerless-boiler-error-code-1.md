@@ -39,7 +39,7 @@ Code 1 on a Peerless boiler (displayed on the Peerless IQ control or equivalent 
 | Part | Notes |
 |------|-------|
 | Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| OEM for Peerless model; clean before replacing |
-| Spark electrode | [Amazon](https://www.amazon.com/s?k=Spark+electrode&tag=errorcodefixes-20) \| Match to burner assembly; check gap |
+| Spark electrode | [Amazon](https://www.amazon.com/s?i=industrial&k=Spark+electrode&tag=errorcodefixes-20) \| Match to burner assembly; check gap |
 | Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Replace only after control voltage and supply pressure confirmed |
 | Peerless IQ control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace if all field components test good and lockout persists |
 ## When to Call a Pro

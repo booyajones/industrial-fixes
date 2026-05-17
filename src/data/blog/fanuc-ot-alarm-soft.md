@@ -22,10 +22,10 @@ A **Fanuc soft OT alarm** means the axis exceeded a **software-defined travel li
 
 | Cause | Details |
 |---|---|
-| [Wrong work offset](https://www.amazon.com/s?k=Wrong+work+offset&tag=errorcodefixes-20) | Program zero shifted too far |
-| [Machine lost reference return](https://www.amazon.com/s?k=Machine+lost+reference+return&tag=errorcodefixes-20) | Absolute position no longer valid |
-| [Travel limit parameters wrong](https://www.amazon.com/s?k=Travel+limit+parameters+wrong&tag=errorcodefixes-20) | After battery loss or bad restore |
-| [Manual jog past software limit](https://www.amazon.com/s?k=Manual+jog+past+software+limit&tag=errorcodefixes-20) | Common during setup |
+| [Wrong work offset](https://www.amazon.com/s?i=industrial&k=Wrong+work+offset&tag=errorcodefixes-20) | Program zero shifted too far |
+| [Machine lost reference return](https://www.amazon.com/s?i=industrial&k=Machine+lost+reference+return&tag=errorcodefixes-20) | Absolute position no longer valid |
+| [Travel limit parameters wrong](https://www.amazon.com/s?i=industrial&k=Travel+limit+parameters+wrong&tag=errorcodefixes-20) | After battery loss or bad restore |
+| [Manual jog past software limit](https://www.amazon.com/s?i=industrial&k=Manual+jog+past+software+limit&tag=errorcodefixes-20) | Common during setup |
 
 ## How to Clear It
 
@@ -37,10 +37,10 @@ A **Fanuc soft OT alarm** means the axis exceeded a **software-defined travel li
 
 ## Soft OT vs. Hard OT
 
-| [Type](https://www.amazon.com/s?k=Type&tag=errorcodefixes-20) | Meaning |
+| [Type](https://www.amazon.com/s?i=industrial&k=Type&tag=errorcodefixes-20) | Meaning |
 |---|---|
-| [Soft OT](https://www.amazon.com/s?k=Soft+OT&tag=errorcodefixes-20) | Control/calculated limit exceeded |
-| [Hard OT](https://www.amazon.com/s?k=Hard+OT&tag=errorcodefixes-20) | Physical limit switch activated |
+| [Soft OT](https://www.amazon.com/s?i=industrial&k=Soft+OT&tag=errorcodefixes-20) | Control/calculated limit exceeded |
+| [Hard OT](https://www.amazon.com/s?i=industrial&k=Hard+OT&tag=errorcodefixes-20) | Physical limit switch activated |
 
 If the alarm clears once the axis is moved back and the machine is re-homed, it was likely a true soft overtravel. If it remains, check limit switches, parameters, and absolute position status.
 

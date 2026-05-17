@@ -39,7 +39,7 @@ Carrier error code 44 indicates an open igniter circuit. The furnace control boa
 | Part | Notes |
 |------|-------|
 | Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Match to furnace model; silicon nitride is more durable than silicon carbide |
-| Igniter wiring harness | [Amazon](https://www.amazon.com/s?k=Igniter+wiring+harness&tag=errorcodefixes-20) \| Replace if insulation is melted or connector pins are corroded |
+| Igniter wiring harness | [Amazon](https://www.amazon.com/s?i=industrial&k=Igniter+wiring+harness&tag=errorcodefixes-20) \| Replace if insulation is melted or connector pins are corroded |
 | Furnace control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Only if relay confirmed open under load testing |
 ## When to Call a Pro
 

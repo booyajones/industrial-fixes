@@ -41,9 +41,9 @@ The Hoshizaki KM-330 produces approximately 330 lbs of crescent ice per day and 
 
 | Part | Notes |
 |------|-------|
-| Hot gas bypass valve | [Amazon](https://www.amazon.com/s?k=Hot+gas+bypass+valve&tag=errorcodefixes-20) \| Most common E2 fix |
-| Hoshizaki Scale Away cleaner | [Amazon](https://www.amazon.com/s?k=Hoshizaki+Scale+Away+cleaner&tag=errorcodefixes-20) \| Descale quarterly |
-| Ice full sensor | [Amazon](https://www.amazon.com/s?k=Ice+full+sensor&tag=errorcodefixes-20) \| For F2 if sensor fails |
+| Hot gas bypass valve | [Amazon](https://www.amazon.com/s?i=industrial&k=Hot+gas+bypass+valve&tag=errorcodefixes-20) \| Most common E2 fix |
+| Hoshizaki Scale Away cleaner | [Amazon](https://www.amazon.com/s?i=industrial&k=Hoshizaki+Scale+Away+cleaner&tag=errorcodefixes-20) \| Descale quarterly |
+| Ice full sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Ice+full+sensor&tag=errorcodefixes-20) \| For F2 if sensor fails |
 ## When to Call a Pro
 
 E9 refrigerant-side faults require EPA 608 certified technician.

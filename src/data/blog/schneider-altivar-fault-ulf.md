@@ -38,9 +38,9 @@ ULF on a Schneider Electric Altivar drive indicates a motor underload fault. The
 
 | Part | Notes |
 |------|-------|
-| Drive belt (V-belt or synchronous) | [Amazon](https://www.amazon.com/s?k=Drive+belt+%28V-belt+or+synchronous%29&tag=errorcodefixes-20) \| Replace if worn, cracked, or broken |
-| Flexible coupling insert | [Amazon](https://www.amazon.com/s?k=Flexible+coupling+insert&tag=errorcodefixes-20) \| Replace if rubber insert or spider has failed |
-| Pump foot valve / check valve | [Amazon](https://www.amazon.com/s?k=Pump+foot+valve+%2F+check+valve&tag=errorcodefixes-20) \| Replace if pump is losing prime repeatedly |
+| Drive belt (V-belt or synchronous) | [Amazon](https://www.amazon.com/s?i=industrial&k=Drive+belt+%28V-belt+or+synchronous%29&tag=errorcodefixes-20) \| Replace if worn, cracked, or broken |
+| Flexible coupling insert | [Amazon](https://www.amazon.com/s?i=industrial&k=Flexible+coupling+insert&tag=errorcodefixes-20) \| Replace if rubber insert or spider has failed |
+| Pump foot valve / check valve | [Amazon](https://www.amazon.com/s?i=industrial&k=Pump+foot+valve+%2F+check+valve&tag=errorcodefixes-20) \| Replace if pump is losing prime repeatedly |
 ## When to Call a Pro
 
 If the driven load appears mechanically intact but ULF continues to trip, a drive technician should review the full parameter set and perform a load current analysis to correctly configure the underload detection thresholds for the specific application.

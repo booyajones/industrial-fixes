@@ -51,10 +51,10 @@ ClimateMaster uses a flow switch that opens on low GPM. Verify loop pump operati
 
 | Part | Notes |
 |------|-------|
-| ClimateTalk thermostat | [Amazon](https://www.amazon.com/s?k=ClimateTalk+thermostat&tag=errorcodefixes-20) \| Required for fault code display |
+| ClimateTalk thermostat | [Amazon](https://www.amazon.com/s?i=industrial&k=ClimateTalk+thermostat&tag=errorcodefixes-20) \| Required for fault code display |
 | Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Match unit model and revision |
-| Flow center pump | [Amazon](https://www.amazon.com/s?k=Flow+center+pump&tag=errorcodefixes-20) \| Match GPM requirement |
-| TXV | [Amazon](https://www.amazon.com/s?k=TXV&tag=errorcodefixes-20) \| Match refrigerant and model |
-| Reversing valve | [Amazon](https://www.amazon.com/s?k=Reversing+valve&tag=errorcodefixes-20) \| Match model spec |
-| EWT sensor | [Amazon](https://www.amazon.com/s?k=EWT+sensor&tag=errorcodefixes-20) \| Check resistance vs. temperature |
+| Flow center pump | [Amazon](https://www.amazon.com/s?i=industrial&k=Flow+center+pump&tag=errorcodefixes-20) \| Match GPM requirement |
+| TXV | [Amazon](https://www.amazon.com/s?i=industrial&k=TXV&tag=errorcodefixes-20) \| Match refrigerant and model |
+| Reversing valve | [Amazon](https://www.amazon.com/s?i=industrial&k=Reversing+valve&tag=errorcodefixes-20) \| Match model spec |
+| EWT sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=EWT+sensor&tag=errorcodefixes-20) \| Check resistance vs. temperature |
 > **Pro tip:** ClimateMaster Trilogy logs operational data continuously. Use the ClimateTalk thermostat trend screen to review EWT, LWT, refrigerant pressures, and compressor amps over the past 24 hours before diagnosing.

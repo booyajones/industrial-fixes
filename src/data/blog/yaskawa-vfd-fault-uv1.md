@@ -36,9 +36,9 @@ Yaskawa fault UV1 means main circuit undervoltage — the DC bus voltage dropped
 
 | Part | Notes |
 |------|-------|
-| Input fuses (semiconductor type) | [Amazon](https://www.amazon.com/s?k=Input+fuses+%28semiconductor+type%29&tag=errorcodefixes-20) \| Yaskawa specifies fuse type and current rating in the drive manual |
-| DC bus capacitors | [Amazon](https://www.amazon.com/s?k=DC+bus+capacitors&tag=errorcodefixes-20) \| Replacement is practical on larger drives; requires capacitor reformation procedure |
-| Line reactor | [Amazon](https://www.amazon.com/s?k=Line+reactor&tag=errorcodefixes-20) \| Reduces the impact of utility voltage sags on the DC bus |
+| Input fuses (semiconductor type) | [Amazon](https://www.amazon.com/s?i=industrial&k=Input+fuses+%28semiconductor+type%29&tag=errorcodefixes-20) \| Yaskawa specifies fuse type and current rating in the drive manual |
+| DC bus capacitors | [Amazon](https://www.amazon.com/s?i=industrial&k=DC+bus+capacitors&tag=errorcodefixes-20) \| Replacement is practical on larger drives; requires capacitor reformation procedure |
+| Line reactor | [Amazon](https://www.amazon.com/s?i=industrial&k=Line+reactor&tag=errorcodefixes-20) \| Reduces the impact of utility voltage sags on the DC bus |
 ## When to Call a Pro
 
 Aged capacitor diagnosis requires a capacitance meter and knowledge of proper capacitor reformation procedures. For drives over 5 years old with frequent UV1, a Yaskawa service tech can evaluate bus capacitor health.

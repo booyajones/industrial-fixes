@@ -39,9 +39,9 @@ Alarm E27 on a NUM CNC system (NUM 1060, 1080, or Flexium series) indicates a se
 
 | Part | Notes |
 |------|-------|
-| Encoder or linear scale read head | [Amazon](https://www.amazon.com/s?k=Encoder+or+linear+scale+read+head&tag=errorcodefixes-20) \| Match NUM feedback specification for the axis |
-| NUM servo amplifier | [Amazon](https://www.amazon.com/s?k=NUM+servo+amplifier&tag=errorcodefixes-20) \| Match axis power rating and NUM system generation |
-| Feedback cable | [Amazon](https://www.amazon.com/s?k=Feedback+cable&tag=errorcodefixes-20) \| Shielded; replace if any damage or corrosion is found |
+| Encoder or linear scale read head | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+or+linear+scale+read+head&tag=errorcodefixes-20) \| Match NUM feedback specification for the axis |
+| NUM servo amplifier | [Amazon](https://www.amazon.com/s?i=industrial&k=NUM+servo+amplifier&tag=errorcodefixes-20) \| Match axis power rating and NUM system generation |
+| Feedback cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Feedback+cable&tag=errorcodefixes-20) \| Shielded; replace if any damage or corrosion is found |
 ## When to Call a Pro
 
 NUM CNC systems are common in European aerospace and precision machining environments. NUM parameter editing and servo commissioning require access to NUM's configuration tools and training. Contact NUM's technical support or a certified NUM service partner for E27 faults that recur after mechanical and feedback inspection.

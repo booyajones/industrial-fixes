@@ -62,7 +62,7 @@ Check supply shutoff is fully open, pressure is 20-80 PSI, and inlet valve scree
 |------|-------|
 | Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Most common mechanical fix for E04/E05 |
 | Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| For Code 6 / E03 |
-| Manitowoc Ice Machine Cleaner | [Amazon](https://www.amazon.com/s?k=Manitowoc+Ice+Machine+Cleaner&tag=errorcodefixes-20) \| Use every 6 months minimum |
+| Manitowoc Ice Machine Cleaner | [Amazon](https://www.amazon.com/s?i=industrial&k=Manitowoc+Ice+Machine+Cleaner&tag=errorcodefixes-20) \| Use every 6 months minimum |
 ## When to Call a Pro
 
 E05/E06 refrigerant faults require EPA 608 certification. All Welbilt/Manitowoc refrigerant work requires a certified technician.

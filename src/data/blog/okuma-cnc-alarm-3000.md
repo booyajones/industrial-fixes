@@ -39,10 +39,10 @@ Okuma alarm **3000** is a **main CPU or control system fault**. It points to a p
 
 | Part | Notes |
 |------|-------|
-| Backup battery | [Amazon](https://www.amazon.com/s?k=Backup+battery&tag=errorcodefixes-20) \| Replace on schedule to avoid memory loss |
-| Cabinet cooling fan / filter | [Amazon](https://www.amazon.com/s?k=Cabinet+cooling+fan+%2F+filter&tag=errorcodefixes-20) \| Overheating damages control boards |
-| CNC power supply module | [Amazon](https://www.amazon.com/s?k=CNC+power+supply+module&tag=errorcodefixes-20) \| Check outputs before replacing CPU boards |
-| CPU or memory board | [Amazon](https://www.amazon.com/s?k=CPU+or+memory+board&tag=errorcodefixes-20) \| Usually requires OEM support |
+| Backup battery | [Amazon](https://www.amazon.com/s?i=industrial&k=Backup+battery&tag=errorcodefixes-20) \| Replace on schedule to avoid memory loss |
+| Cabinet cooling fan / filter | [Amazon](https://www.amazon.com/s?i=industrial&k=Cabinet+cooling+fan+%2F+filter&tag=errorcodefixes-20) \| Overheating damages control boards |
+| CNC power supply module | [Amazon](https://www.amazon.com/s?i=industrial&k=CNC+power+supply+module&tag=errorcodefixes-20) \| Check outputs before replacing CPU boards |
+| CPU or memory board | [Amazon](https://www.amazon.com/s?i=industrial&k=CPU+or+memory+board&tag=errorcodefixes-20) \| Usually requires OEM support |
 ## When to Call a Pro
 Alarm 3000 often requires Okuma service or a qualified CNC electronics specialist. Do not shotgun-replace boards without verifying the power supply first. A bad power supply can damage replacement boards too.
 

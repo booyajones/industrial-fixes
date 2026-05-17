@@ -49,9 +49,9 @@ AKC controllers on LonWorks or RS-485 networks alarm on communication loss. Chec
 |------|-------|
 | AKC temperature sensor (NTC) | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Replace on A4/A5 fault |
 | Defrost heater element | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) \| Replace on A3 timeout |
-| Defrost safety thermostat | [Amazon](https://www.amazon.com/s?k=Defrost+safety+thermostat&tag=errorcodefixes-20) \| Replace on A3 timeout |
+| Defrost safety thermostat | [Amazon](https://www.amazon.com/s?i=industrial&k=Defrost+safety+thermostat&tag=errorcodefixes-20) \| Replace on A3 timeout |
 | Evaporator fan motor | [Amazon](https://www.amazon.com/dp/B01N0J3ZEH?tag=errorcodefixes-20) \| Replace on temperature alarm |
-| AKC controller | [Amazon](https://www.amazon.com/s?k=AKC+controller&tag=errorcodefixes-20) \| Replace on A10 fault |
+| AKC controller | [Amazon](https://www.amazon.com/s?i=industrial&k=AKC+controller&tag=errorcodefixes-20) \| Replace on A10 fault |
 ## When to Call a Pro
 Danfoss ADAP-KOOL network configuration and AKM system management require Danfoss-trained refrigeration controls technicians. A misconfigured AKC defrost schedule can cause food safety violations.
 

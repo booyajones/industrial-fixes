@@ -36,8 +36,8 @@ Haas alarm 104 means Feed Hold is active — the machine has been placed in feed
 
 | Part | Notes |
 |------|-------|
-| Door interlock switch | [Amazon](https://www.amazon.com/s?k=Door+interlock+switch&tag=errorcodefixes-20) \| Replace if door cycling resolves the fault; Haas part numbers vary by machine |
-| Feed Hold push button | [Amazon](https://www.amazon.com/s?k=Feed+Hold+push+button&tag=errorcodefixes-20) \| Replace if the button is mechanically stuck in the pressed position |
+| Door interlock switch | [Amazon](https://www.amazon.com/s?i=industrial&k=Door+interlock+switch&tag=errorcodefixes-20) \| Replace if door cycling resolves the fault; Haas part numbers vary by machine |
+| Feed Hold push button | [Amazon](https://www.amazon.com/s?i=industrial&k=Feed+Hold+push+button&tag=errorcodefixes-20) \| Replace if the button is mechanically stuck in the pressed position |
 ## When to Call a Pro
 
 If the Haas diagnostics screen shows the Feed Hold input active with no obvious external cause and all field wiring checks clean, a Haas Factory Outlet (HFO) technician can trace the I/O board signal back to the source.

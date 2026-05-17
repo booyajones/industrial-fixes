@@ -83,10 +83,10 @@ The **Siemens SINAMICS S120** is a modular, multi-axis servo drive system used i
 | Part | Description | Typical Cost | Where to Buy |
 |------|-------------|--------------|--------------|
 | KTY84-130 temperature sensor | Replacement motor winding temperature sensor | $15–$50 | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Siemens distributor |
-| DRIVE-CLiQ cable (various lengths) | Signal cable between Motor Module and motor encoder | $60–$180 | [Amazon](https://www.amazon.com/s?k=Siemens+DRIVE-CLiQ+cable+SINAMICS&tag=errorcodefixes-20) \| Siemens distributor |
+| DRIVE-CLiQ cable (various lengths) | Signal cable between Motor Module and motor encoder | $60–$180 | [Amazon](https://www.amazon.com/s?i=industrial&k=Siemens+DRIVE-CLiQ+cable+SINAMICS&tag=errorcodefixes-20) \| Siemens distributor |
 | S120 Motor Module (replacement) | Single-axis 3A–200A — specify catalog number from module label | $800–$4,500 | Siemens Industry Mall \| Authorized distributor |
 | S120 Line Module (BLM/SLM) | Basic or Smart Line Module for DC bus | $600–$3,000 | Siemens Industry Mall \| Authorized distributor |
-| Forced-cooling fan motor (1PH motors) | External fan for spindle motor forced cooling | $200–$600 | [Amazon](https://www.amazon.com/s?k=Siemens+1PH+spindle+motor+cooling+fan&tag=errorcodefixes-20) \| Siemens distributor |
+| Forced-cooling fan motor (1PH motors) | External fan for spindle motor forced cooling | $200–$600 | [Amazon](https://www.amazon.com/s?i=industrial&k=Siemens+1PH+spindle+motor+cooling+fan&tag=errorcodefixes-20) \| Siemens distributor |
 
 ## When to Call a Professional
 

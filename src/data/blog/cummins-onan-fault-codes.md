@@ -17,23 +17,23 @@ tags:
 
 Cummins Onan generators cover the range from compact RV gensets (QG 2500, QD 3200) to commercial diesel generators (MDKD, DSGAA series). Fault codes are displayed on the generator control panel or via the Onan app. RV-series generators use a simplified blink code system.
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Series | Meaning | Quick Fix |
+| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Series | Meaning | Quick Fix |
 |------|--------|---------|-----------|
-| [2 blinks](https://www.amazon.com/s?k=2+blinks&tag=errorcodefixes-20) | RV QG/QD | Low oil pressure | Add oil; check oil sender |
-| [3 blinks](https://www.amazon.com/s?k=3+blinks&tag=errorcodefixes-20) | RV QG/QD | High coolant temperature | Check coolant; check fan |
-| [4 blinks](https://www.amazon.com/s?k=4+blinks&tag=errorcodefixes-20) | RV QG/QD | Overcrank (fail to start) | Check fuel, spark, choke |
-| [5 blinks](https://www.amazon.com/s?k=5+blinks&tag=errorcodefixes-20) | RV QG/QD | Field (voltage) fault | AVR or control board issue |
-| [6 blinks](https://www.amazon.com/s?k=6+blinks&tag=errorcodefixes-20) | RV QG/QD | Governor fault | Governor calibration needed |
-| [7 blinks](https://www.amazon.com/s?k=7+blinks&tag=errorcodefixes-20) | RV QG/QD | Controller fault | Replace control board |
-| [8 blinks](https://www.amazon.com/s?k=8+blinks&tag=errorcodefixes-20) | RV QG/QD | Low voltage / high voltage | Load issue or AVR fault |
-| [Code 13](https://www.amazon.com/s?k=Code+13&tag=errorcodefixes-20) | Commercial | Low oil pressure warning | Check oil level |
-| [Code 14](https://www.amazon.com/s?k=Code+14&tag=errorcodefixes-20) | Commercial | Low oil pressure shutdown | Immediate shutdown — add oil |
-| [Code 22](https://www.amazon.com/s?k=Code+22&tag=errorcodefixes-20) | Commercial | High coolant temp warning | Check cooling system |
-| [Code 23](https://www.amazon.com/s?k=Code+23&tag=errorcodefixes-20) | Commercial | High coolant temp shutdown | Stop generator; check coolant |
-| [Code 35](https://www.amazon.com/s?k=Code+35&tag=errorcodefixes-20) | Commercial | Engine fail to start | Check fuel, battery, starter |
-| [Code 36](https://www.amazon.com/s?k=Code+36&tag=errorcodefixes-20) | Commercial | Engine overspeed | Governor problem |
-| [Code 45](https://www.amazon.com/s?k=Code+45&tag=errorcodefixes-20) | Commercial | Low fuel | Refuel |
-| [Code 54](https://www.amazon.com/s?k=Code+54&tag=errorcodefixes-20) | Commercial | Battery charger fault | Check charger AC supply |
+| [2 blinks](https://www.amazon.com/s?i=industrial&k=2+blinks&tag=errorcodefixes-20) | RV QG/QD | Low oil pressure | Add oil; check oil sender |
+| [3 blinks](https://www.amazon.com/s?i=industrial&k=3+blinks&tag=errorcodefixes-20) | RV QG/QD | High coolant temperature | Check coolant; check fan |
+| [4 blinks](https://www.amazon.com/s?i=industrial&k=4+blinks&tag=errorcodefixes-20) | RV QG/QD | Overcrank (fail to start) | Check fuel, spark, choke |
+| [5 blinks](https://www.amazon.com/s?i=industrial&k=5+blinks&tag=errorcodefixes-20) | RV QG/QD | Field (voltage) fault | AVR or control board issue |
+| [6 blinks](https://www.amazon.com/s?i=industrial&k=6+blinks&tag=errorcodefixes-20) | RV QG/QD | Governor fault | Governor calibration needed |
+| [7 blinks](https://www.amazon.com/s?i=industrial&k=7+blinks&tag=errorcodefixes-20) | RV QG/QD | Controller fault | Replace control board |
+| [8 blinks](https://www.amazon.com/s?i=industrial&k=8+blinks&tag=errorcodefixes-20) | RV QG/QD | Low voltage / high voltage | Load issue or AVR fault |
+| [Code 13](https://www.amazon.com/s?i=industrial&k=Code+13&tag=errorcodefixes-20) | Commercial | Low oil pressure warning | Check oil level |
+| [Code 14](https://www.amazon.com/s?i=industrial&k=Code+14&tag=errorcodefixes-20) | Commercial | Low oil pressure shutdown | Immediate shutdown — add oil |
+| [Code 22](https://www.amazon.com/s?i=industrial&k=Code+22&tag=errorcodefixes-20) | Commercial | High coolant temp warning | Check cooling system |
+| [Code 23](https://www.amazon.com/s?i=industrial&k=Code+23&tag=errorcodefixes-20) | Commercial | High coolant temp shutdown | Stop generator; check coolant |
+| [Code 35](https://www.amazon.com/s?i=industrial&k=Code+35&tag=errorcodefixes-20) | Commercial | Engine fail to start | Check fuel, battery, starter |
+| [Code 36](https://www.amazon.com/s?i=industrial&k=Code+36&tag=errorcodefixes-20) | Commercial | Engine overspeed | Governor problem |
+| [Code 45](https://www.amazon.com/s?i=industrial&k=Code+45&tag=errorcodefixes-20) | Commercial | Low fuel | Refuel |
+| [Code 54](https://www.amazon.com/s?i=industrial&k=Code+54&tag=errorcodefixes-20) | Commercial | Battery charger fault | Check charger AC supply |
 
 ## Most Common Faults
 
@@ -59,13 +59,13 @@ Onan commercial generators (MDKD, DSGAA) use a mechanical governor with electron
 
 ## Onan RV Generator Maintenance
 
-| [Service Item](https://www.amazon.com/s?k=Service+Item&tag=errorcodefixes-20) | Interval |
+| [Service Item](https://www.amazon.com/s?i=industrial&k=Service+Item&tag=errorcodefixes-20) | Interval |
 |-------------|----------|
-| [Engine oil](https://www.amazon.com/s?k=Engine+oil&tag=errorcodefixes-20) | Every 150 hours or annually |
+| [Engine oil](https://www.amazon.com/s?i=industrial&k=Engine+oil&tag=errorcodefixes-20) | Every 150 hours or annually |
 | [Air filter](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) | Every 150 hours |
-| [Spark plugs](https://www.amazon.com/s?k=Spark+plugs&tag=errorcodefixes-20) | Every 150 hours |
-| [Fuel filter](https://www.amazon.com/s?k=Fuel+filter&tag=errorcodefixes-20) | Every 150 hours |
-| [Carburetor cleaning](https://www.amazon.com/s?k=Carburetor+cleaning&tag=errorcodefixes-20) | As needed (every 2–3 seasons if run infrequently) |
+| [Spark plugs](https://www.amazon.com/s?i=industrial&k=Spark+plugs&tag=errorcodefixes-20) | Every 150 hours |
+| [Fuel filter](https://www.amazon.com/s?i=industrial&k=Fuel+filter&tag=errorcodefixes-20) | Every 150 hours |
+| [Carburetor cleaning](https://www.amazon.com/s?i=industrial&k=Carburetor+cleaning&tag=errorcodefixes-20) | As needed (every 2–3 seasons if run infrequently) |
 
 ## When to Call a Pro
 Onan commercial generator faults (Code 22+, voltage faults, governor faults) require a Cummins-authorized service center. Do not attempt to adjust AVR or governor settings without proper test equipment and Onan service training.

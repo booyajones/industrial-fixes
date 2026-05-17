@@ -99,12 +99,12 @@ If the igniter, flame sensor, and blower are all working but 4 flashes persists:
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|--------------|
-| [Thermal Cutoff (TCO)](https://www.amazon.com/s?k=Thermal+Cutoff+%28TCO%29&tag=errorcodefixes-20) | Blown safety fuse — no continuity on test | $10–$25 |
-| [Spark Igniter / Electrode](https://www.amazon.com/s?k=Spark+Igniter+%2F+Electrode&tag=errorcodefixes-20) | Cracked, corroded, or won't spark | $20–$45 |
+| [Thermal Cutoff (TCO)](https://www.amazon.com/s?i=industrial&k=Thermal+Cutoff+%28TCO%29&tag=errorcodefixes-20) | Blown safety fuse — no continuity on test | $10–$25 |
+| [Spark Igniter / Electrode](https://www.amazon.com/s?i=industrial&k=Spark+Igniter+%2F+Electrode&tag=errorcodefixes-20) | Cracked, corroded, or won't spark | $20–$45 |
 | [Flame Sensor / Flame Rod](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) | Oxidized or failed — burner runs but code persists | $15–$35 |
-| [Blower Motor (power-vent)](https://www.amazon.com/s?k=Blower+Motor+%28power-vent%29&tag=errorcodefixes-20) | Seized, dragging, or no rotation | $70–$150 |
+| [Blower Motor (power-vent)](https://www.amazon.com/s?i=industrial&k=Blower+Motor+%28power-vent%29&tag=errorcodefixes-20) | Seized, dragging, or no rotation | $70–$150 |
 | [Ignition Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | All sensors good but fault persists | $80–$180 |
-| [Gas Control Valve](https://www.amazon.com/s?k=Gas+Control+Valve&tag=errorcodefixes-20) | Valve internal fault (only after above ruled out) | $90–$160 |
+| [Gas Control Valve](https://www.amazon.com/s?i=industrial&k=Gas+Control+Valve&tag=errorcodefixes-20) | Valve internal fault (only after above ruled out) | $90–$160 |
 
 *AO Smith part numbers vary by model. Pull your model number from the label on the side of the tank (format: GPS6-50T40-NV) and verify part numbers at aosmithpartsplus.com or your local plumbing supply.*
 

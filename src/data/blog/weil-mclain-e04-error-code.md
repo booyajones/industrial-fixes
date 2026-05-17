@@ -37,9 +37,9 @@ Weil-McLain E04 indicates a **temperature sensor fault** — one of the boiler's
 
 | Part | Notes |
 |------|-------|
-| Supply thermistor (S1) | [Amazon](https://www.amazon.com/s?k=Supply+thermistor+%28S1%29&tag=errorcodefixes-20) \| Weil-McLain model-specific; verify for Ultra vs. Gold/CGa series |
-| Return thermistor (S2) | [Amazon](https://www.amazon.com/s?k=Return+thermistor+%28S2%29&tag=errorcodefixes-20) \| Match immersion well length and resistance spec |
-| DHW sensor (S3) | [Amazon](https://www.amazon.com/s?k=DHW+sensor+%28S3%29&tag=errorcodefixes-20) \| Only on combi models with domestic hot water capability |
+| Supply thermistor (S1) | [Amazon](https://www.amazon.com/s?i=industrial&k=Supply+thermistor+%28S1%29&tag=errorcodefixes-20) \| Weil-McLain model-specific; verify for Ultra vs. Gold/CGa series |
+| Return thermistor (S2) | [Amazon](https://www.amazon.com/s?i=industrial&k=Return+thermistor+%28S2%29&tag=errorcodefixes-20) \| Match immersion well length and resistance spec |
+| DHW sensor (S3) | [Amazon](https://www.amazon.com/s?i=industrial&k=DHW+sensor+%28S3%29&tag=errorcodefixes-20) \| Only on combi models with domestic hot water capability |
 ## When to Call a Pro
 
 If sensor replacement doesn't clear E04, the boiler control board may have a failed input. Weil-McLain control board replacement on condensing boilers requires proper setup and parameter configuration — have a licensed heating contractor handle board replacement to ensure the boiler is commissioned correctly.

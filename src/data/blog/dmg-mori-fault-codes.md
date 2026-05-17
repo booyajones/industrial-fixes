@@ -72,10 +72,10 @@ These appear as advisory alarms (yellow) and do not prevent machine operation bu
 
 | Part | Notes |
 |------|-------|
-| SINAMICS encoder cable | [Amazon](https://www.amazon.com/s?k=SINAMICS+encoder+cable&tag=errorcodefixes-20) \| Replace on F07805 encoder faults |
-| Hydraulic filter | [Amazon](https://www.amazon.com/s?k=Hydraulic+filter&tag=errorcodefixes-20) \| Replace on lubrication/hydraulic alarms |
-| Tool changer cam followers | [Amazon](https://www.amazon.com/s?k=Tool+changer+cam+followers&tag=errorcodefixes-20) \| Inspect on ATC faults |
-| Lubrication pump | [Amazon](https://www.amazon.com/s?k=Lubrication+pump&tag=errorcodefixes-20) \| Replace on lubrication alarms |
+| SINAMICS encoder cable | [Amazon](https://www.amazon.com/s?i=industrial&k=SINAMICS+encoder+cable&tag=errorcodefixes-20) \| Replace on F07805 encoder faults |
+| Hydraulic filter | [Amazon](https://www.amazon.com/s?i=industrial&k=Hydraulic+filter&tag=errorcodefixes-20) \| Replace on lubrication/hydraulic alarms |
+| Tool changer cam followers | [Amazon](https://www.amazon.com/s?i=industrial&k=Tool+changer+cam+followers&tag=errorcodefixes-20) \| Inspect on ATC faults |
+| Lubrication pump | [Amazon](https://www.amazon.com/s?i=industrial&k=Lubrication+pump&tag=errorcodefixes-20) \| Replace on lubrication alarms |
 ## Jump to Fix
 
 - **380xxx drive fault** → Check SINAMICS fault buffer → Diagnose F-code → Address root cause

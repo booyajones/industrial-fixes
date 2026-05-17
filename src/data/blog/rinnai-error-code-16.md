@@ -37,7 +37,7 @@ Error code 16 on a Rinnai tankless water heater indicates the combustion fan (al
 | Part | Notes |
 |------|-------|
 | Combustion fan motor assembly | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Rinnai OEM; must match model (V-series vs. RU-series differ) |
-| Fan speed sensor | [Amazon](https://www.amazon.com/s?k=Fan+speed+sensor&tag=errorcodefixes-20) \| Hall effect sensor; often integral to the motor assembly |
+| Fan speed sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Fan+speed+sensor&tag=errorcodefixes-20) \| Hall effect sensor; often integral to the motor assembly |
 | Control board (PCB) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace only if board fan driver is confirmed failed |
 ## When to Call a Pro
 

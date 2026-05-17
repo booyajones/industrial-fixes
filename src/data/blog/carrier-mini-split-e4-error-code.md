@@ -55,10 +55,10 @@ E4 is a compressor protection fault. Repeated E4 lockouts without addressing the
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|-------------|
-| Carrier Mini-Split Replacement Air Filter | $10–$25 | [Amazon](https://www.amazon.com/s?k=Carrier+mini+split+replacement+filter&tag=errorcodefixes-20) |
-| No-Rinse Evaporator Coil Cleaner | $10–$20 | [Amazon](https://www.amazon.com/s?k=no+rinse+evaporator+coil+cleaner+spray&tag=errorcodefixes-20) |
+| Carrier Mini-Split Replacement Air Filter | $10–$25 | [Amazon](https://www.amazon.com/s?i=industrial&k=Carrier+mini+split+replacement+filter&tag=errorcodefixes-20) |
+| No-Rinse Evaporator Coil Cleaner | $10–$20 | [Amazon](https://www.amazon.com/s?i=industrial&k=no+rinse+evaporator+coil+cleaner+spray&tag=errorcodefixes-20) |
 | NTC Discharge Temperature Sensor / Thermistor | $15–$40 | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) |
-| HVAC Manifold Gauge Set (R410A) | $40–$120 | [Amazon](https://www.amazon.com/s?k=HVAC+manifold+gauge+set+R410A&tag=errorcodefixes-20) |
+| HVAC Manifold Gauge Set (R410A) | $40–$120 | [Amazon](https://www.amazon.com/s?i=industrial&k=HVAC+manifold+gauge+set+R410A&tag=errorcodefixes-20) |
 | Run Capacitor (compressor/fan) | $10–$35 | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) |
 
 ## When to Call a Technician

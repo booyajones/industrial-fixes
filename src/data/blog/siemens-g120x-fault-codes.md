@@ -54,11 +54,11 @@ On pump/fan applications, rapid deceleration causes motor to regenerate energy b
 
 | Part | Notes |
 |------|-------|
-| BOP-2 operator panel | [Amazon](https://www.amazon.com/s?k=BOP-2+operator+panel&tag=errorcodefixes-20) \| Plug-in display for fault reading |
-| Cooling fan | [Amazon](https://www.amazon.com/s?k=Cooling+fan&tag=errorcodefixes-20) \| Internal fan — match G120X size |
-| Power stack module | [Amazon](https://www.amazon.com/s?k=Power+stack+module&tag=errorcodefixes-20) \| Only for IGBT failure confirmed by Siemens |
-| Input choke | [Amazon](https://www.amazon.com/s?k=Input+choke&tag=errorcodefixes-20) \| Reduces harmonic distortion |
-| Output reactor | [Amazon](https://www.amazon.com/s?k=Output+reactor&tag=errorcodefixes-20) \| Required for long cable runs |
+| BOP-2 operator panel | [Amazon](https://www.amazon.com/s?i=industrial&k=BOP-2+operator+panel&tag=errorcodefixes-20) \| Plug-in display for fault reading |
+| Cooling fan | [Amazon](https://www.amazon.com/s?i=industrial&k=Cooling+fan&tag=errorcodefixes-20) \| Internal fan — match G120X size |
+| Power stack module | [Amazon](https://www.amazon.com/s?i=industrial&k=Power+stack+module&tag=errorcodefixes-20) \| Only for IGBT failure confirmed by Siemens |
+| Input choke | [Amazon](https://www.amazon.com/s?i=industrial&k=Input+choke&tag=errorcodefixes-20) \| Reduces harmonic distortion |
+| Output reactor | [Amazon](https://www.amazon.com/s?i=industrial&k=Output+reactor&tag=errorcodefixes-20) \| Required for long cable runs |
 > **Pro tip:** G120X supports BICO (Binector-Connector) parameterization for complex control schemes. When all mechanical and electrical causes are ruled out, use STARTER or TIA Portal to export a complete parameter backup before resetting — valuable for comparing pre- and post-fault parameters.
 
 ## Related Articles

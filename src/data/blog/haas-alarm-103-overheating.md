@@ -46,10 +46,10 @@ Overheating on a Haas CNC is almost always a maintenance issue, not a parts fail
 
 | Part | Notes |
 |------|-------|
-| Electrical cabinet air filter | [Amazon](https://www.amazon.com/s?k=haas+cnc+electrical+cabinet+filter&tag=errorcodefixes-20) — Replace every 3–6 months in a typical machine shop environment |
-| Haas-compatible way oil / coolant | [Amazon](https://www.amazon.com/s?k=haas+cnc+coolant+concentrate&tag=errorcodefixes-20) — Use Haas-approved coolant at the correct concentration per machine manual |
-| Servo drive amplifier | [Amazon](https://www.amazon.com/s?k=haas+servo+drive+amplifier&tag=errorcodefixes-20) — Contact Haas Factory Outlet for model-specific part numbers |
-| Spindle bearing | [Amazon](https://www.amazon.com/s?k=haas+cnc+spindle+bearing&tag=errorcodefixes-20) — Spindle bearing replacement requires precision preload setting; call HFO |
+| Electrical cabinet air filter | [Amazon](https://www.amazon.com/s?i=industrial&k=haas+cnc+electrical+cabinet+filter&tag=errorcodefixes-20) — Replace every 3–6 months in a typical machine shop environment |
+| Haas-compatible way oil / coolant | [Amazon](https://www.amazon.com/s?i=industrial&k=haas+cnc+coolant+concentrate&tag=errorcodefixes-20) — Use Haas-approved coolant at the correct concentration per machine manual |
+| Servo drive amplifier | [Amazon](https://www.amazon.com/s?i=industrial&k=haas+servo+drive+amplifier&tag=errorcodefixes-20) — Contact Haas Factory Outlet for model-specific part numbers |
+| Spindle bearing | [Amazon](https://www.amazon.com/s?i=industrial&k=haas+cnc+spindle+bearing&tag=errorcodefixes-20) — Spindle bearing replacement requires precision preload setting; call HFO |
 
 ## When to Call a Technician
 

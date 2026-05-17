@@ -36,9 +36,9 @@ Alarm 380000 on the Siemens Sinumerik 840D indicates a drive enable signal is mi
 
 | Part | Notes |
 |------|-------|
-| Safety relay module | [Amazon](https://www.amazon.com/s?k=Safety+relay+module&tag=errorcodefixes-20) \| Replace if safety chain won't close |
-| DRIVE-CLiQ cable | [Amazon](https://www.amazon.com/s?k=DRIVE-CLiQ+cable&tag=errorcodefixes-20) \| Replace if enable signal transmission is interrupted |
-| E-stop button | [Amazon](https://www.amazon.com/s?k=E-stop+button&tag=errorcodefixes-20) \| Replace if button is stuck in depressed state |
+| Safety relay module | [Amazon](https://www.amazon.com/s?i=industrial&k=Safety+relay+module&tag=errorcodefixes-20) \| Replace if safety chain won't close |
+| DRIVE-CLiQ cable | [Amazon](https://www.amazon.com/s?i=industrial&k=DRIVE-CLiQ+cable&tag=errorcodefixes-20) \| Replace if enable signal transmission is interrupted |
+| E-stop button | [Amazon](https://www.amazon.com/s?i=industrial&k=E-stop+button&tag=errorcodefixes-20) \| Replace if button is stuck in depressed state |
 ## When to Call a Pro
 
 840D safety circuit and drive commissioning issues require Siemens-trained service. Do not bypass safety interlocks to clear Alarm 380000.

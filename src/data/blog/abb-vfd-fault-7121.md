@@ -36,8 +36,8 @@ ABB VFD fault 7121 is a motor stall fault. The drive detected that the motor spe
 
 | Part | Notes |
 |------|-------|
-| Load-side bearings or coupling | [Amazon](https://www.amazon.com/s?k=Load-side+bearings+or+coupling&tag=errorcodefixes-20) \| Most common mechanical cause on pumps and fans |
-| Encoder (incremental or absolute) | [Amazon](https://www.amazon.com/s?k=Encoder+%28incremental+or+absolute%29&tag=errorcodefixes-20) \| Replace if speed feedback is confirmed erratic on closed-loop drives |
+| Load-side bearings or coupling | [Amazon](https://www.amazon.com/s?i=industrial&k=Load-side+bearings+or+coupling&tag=errorcodefixes-20) \| Most common mechanical cause on pumps and fans |
+| Encoder (incremental or absolute) | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+%28incremental+or+absolute%29&tag=errorcodefixes-20) \| Replace if speed feedback is confirmed erratic on closed-loop drives |
 | Drive control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace only if stall detection circuit is confirmed defective |
 ## When to Call a Pro
 

@@ -48,11 +48,11 @@ Look for loose pockets, worn Geneva drive parts, broken dogs, or an overloaded p
 
 | Part | Notes |
 |------|-------|
-| Proximity switch | [Amazon](https://www.amazon.com/s?k=Proximity+switch&tag=errorcodefixes-20) \| Replace if LED does not change state |
-| Tool changer air cylinder | [Amazon](https://www.amazon.com/s?k=Tool+changer+air+cylinder&tag=errorcodefixes-20) \| Replace on slow or leaking actuation |
-| Drawbar rebuild kit | [Amazon](https://www.amazon.com/s?k=Drawbar+rebuild+kit&tag=errorcodefixes-20) \| Replace on weak release force |
-| Geneva drive components | [Amazon](https://www.amazon.com/s?k=Geneva+drive+components&tag=errorcodefixes-20) \| Common on worn umbrella changers |
-| Carousel motor / gearbox | [Amazon](https://www.amazon.com/s?k=Carousel+motor+%2F+gearbox&tag=errorcodefixes-20) \| Replace on indexing faults |
+| Proximity switch | [Amazon](https://www.amazon.com/s?i=industrial&k=Proximity+switch&tag=errorcodefixes-20) \| Replace if LED does not change state |
+| Tool changer air cylinder | [Amazon](https://www.amazon.com/s?i=industrial&k=Tool+changer+air+cylinder&tag=errorcodefixes-20) \| Replace on slow or leaking actuation |
+| Drawbar rebuild kit | [Amazon](https://www.amazon.com/s?i=industrial&k=Drawbar+rebuild+kit&tag=errorcodefixes-20) \| Replace on weak release force |
+| Geneva drive components | [Amazon](https://www.amazon.com/s?i=industrial&k=Geneva+drive+components&tag=errorcodefixes-20) \| Common on worn umbrella changers |
+| Carousel motor / gearbox | [Amazon](https://www.amazon.com/s?i=industrial&k=Carousel+motor+%2F+gearbox&tag=errorcodefixes-20) \| Replace on indexing faults |
 ## When to Call a Pro
 If Alarm 128 returns after sensor cleaning and recovery, check tool changer timing and drawbar force with Haas procedures. A mistimed changer can crash the spindle or damage the arm.
 

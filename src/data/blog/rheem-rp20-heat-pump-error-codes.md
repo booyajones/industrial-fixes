@@ -132,9 +132,9 @@ If you use a communicating thermostat, you'll see alphanumeric codes:
 |------|----------------|-------------|
 | [Rheem RP20 Defrost Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Controls defrost cycles; fails with 4-flash fault | $85–$150 |
 | [Heat Pump Outdoor Ambient Temperature Sensor](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | Triggers 5-flash fault when failed; inexpensive fix | $15–$40 |
-| [Reversing Valve Solenoid Coil](https://www.amazon.com/s?k=heat+pump+reversing+valve+solenoid+coil&tag=errorcodefixes-20) | Replaces burned-out coil on 8-flash faults | $20–$55 |
+| [Reversing Valve Solenoid Coil](https://www.amazon.com/s?i=industrial&k=heat+pump+reversing+valve+solenoid+coil&tag=errorcodefixes-20) | Replaces burned-out coil on 8-flash faults | $20–$55 |
 | [HVAC Multimeter with Temperature Probe](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) | Essential for testing sensors, voltage, and continuity | $35–$120 |
-| [18 AWG 2-Conductor Communication Wire](https://www.amazon.com/s?k=18+AWG+2+conductor+thermostat+wire&tag=errorcodefixes-20) | Fixes communication loss faults between indoor/outdoor | $15–$40 |
+| [18 AWG 2-Conductor Communication Wire](https://www.amazon.com/s?i=industrial&k=18+AWG+2+conductor+thermostat+wire&tag=errorcodefixes-20) | Fixes communication loss faults between indoor/outdoor | $15–$40 |
 
 ---
 

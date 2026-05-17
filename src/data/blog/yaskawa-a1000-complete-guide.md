@@ -184,11 +184,11 @@ For applications where load cannot be disconnected, use **T1-01 = 2** (Stationar
 
 | Part | Use | Amazon Link |
 |------|-----|-------------|
-| Yaskawa A1000 Digital Operator (JOG) | Replace failed keypad / display | [View on Amazon](https://www.amazon.com/s?k=Yaskawa+A1000+digital+operator+keypad&tag=errorcodefixes-20) |
-| Megohmmeter Insulation Tester | Test motor windings before commissioning | [View on Amazon](https://www.amazon.com/s?k=megohmmeter+motor+winding+tester&tag=errorcodefixes-20) |
-| Yaskawa A1000 Braking Resistor | Prevent OV faults on regenerative loads | [View on Amazon](https://www.amazon.com/s?k=Yaskawa+A1000+braking+resistor&tag=errorcodefixes-20) |
-| RS-485 to USB Converter Cable | Connect A1000 to PC for DriveWizard | [View on Amazon](https://www.amazon.com/s?k=RS-485+to+USB+converter+cable&tag=errorcodefixes-20) |
-| Shielded Control Cable (18 AWG) | Reduce noise on analog reference inputs | [View on Amazon](https://www.amazon.com/s?k=shielded+control+cable+18+awg+VFD&tag=errorcodefixes-20) |
+| Yaskawa A1000 Digital Operator (JOG) | Replace failed keypad / display | [View on Amazon](https://www.amazon.com/s?i=industrial&k=Yaskawa+A1000+digital+operator+keypad&tag=errorcodefixes-20) |
+| Megohmmeter Insulation Tester | Test motor windings before commissioning | [View on Amazon](https://www.amazon.com/s?i=industrial&k=megohmmeter+motor+winding+tester&tag=errorcodefixes-20) |
+| Yaskawa A1000 Braking Resistor | Prevent OV faults on regenerative loads | [View on Amazon](https://www.amazon.com/s?i=industrial&k=Yaskawa+A1000+braking+resistor&tag=errorcodefixes-20) |
+| RS-485 to USB Converter Cable | Connect A1000 to PC for DriveWizard | [View on Amazon](https://www.amazon.com/s?i=industrial&k=RS-485+to+USB+converter+cable&tag=errorcodefixes-20) |
+| Shielded Control Cable (18 AWG) | Reduce noise on analog reference inputs | [View on Amazon](https://www.amazon.com/s?i=industrial&k=shielded+control+cable+18+awg+VFD&tag=errorcodefixes-20) |
 
 ## When to Call a Pro
 

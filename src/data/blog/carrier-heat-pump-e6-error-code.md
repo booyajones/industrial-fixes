@@ -37,8 +37,8 @@ Carrier heat pump error code **E6** indicates an **outdoor ambient temperature s
 
 | Part | Notes |
 |------|-------|
-| Outdoor ambient thermistor | [Amazon](https://www.amazon.com/s?k=Outdoor+ambient+thermistor&tag=errorcodefixes-20) \| Carrier 338818-701 or model-specific; verify pin count |
-| Contact cleaner | [Amazon](https://www.amazon.com/s?k=Contact+cleaner&tag=errorcodefixes-20) \| DeoxIT D5 for connector cleaning |
+| Outdoor ambient thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Outdoor+ambient+thermistor&tag=errorcodefixes-20) \| Carrier 338818-701 or model-specific; verify pin count |
+| Contact cleaner | [Amazon](https://www.amazon.com/s?i=industrial&k=Contact+cleaner&tag=errorcodefixes-20) \| DeoxIT D5 for connector cleaning |
 ## When to Call a Pro
 If E6 persists after thermistor replacement, the outdoor PCB's sensor input circuit may be damaged. PCB replacement is within DIY scope for those comfortable with electronics, but verify you have the correct board part number before ordering.
 

@@ -51,8 +51,8 @@ Hussmann display cases (the P series, R series, and I series merchandisers found
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|-------------|
 | Hussmann NTC Temperature Sensor | 0528900 | $25–$38 | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Parts Town / Amazon |
-| Sensor Connector Kit (2-pin) | Generic 2-pin Molex | $5–$10 | [Amazon](https://www.amazon.com/s?k=Generic+2-pin+Molex+Sensor+Connector+Kit+%282-pin%29&tag=errorcodefixes-20) \| Amazon / electrical supply |
-| Hussmann Case Controller (if board failed) | Model-specific | $250–$450 | [Amazon](https://www.amazon.com/s?k=Model-specific+Hussmann+Case+Controller+%28if+board+failed%29&tag=errorcodefixes-20) \| Hussmann dealer / Parts Town |
+| Sensor Connector Kit (2-pin) | Generic 2-pin Molex | $5–$10 | [Amazon](https://www.amazon.com/s?i=industrial&k=Generic+2-pin+Molex+Sensor+Connector+Kit+%282-pin%29&tag=errorcodefixes-20) \| Amazon / electrical supply |
+| Hussmann Case Controller (if board failed) | Model-specific | $250–$450 | [Amazon](https://www.amazon.com/s?i=industrial&k=Model-specific+Hussmann+Case+Controller+%28if+board+failed%29&tag=errorcodefixes-20) \| Hussmann dealer / Parts Town |
 ## When to Call a Professional
 
 If replacing the sensor and verifying wiring doesn't clear the 88 code, and the controller's sensor input circuit has failed, controller replacement is required. On older Hussmann cases, the controller may be discontinued — a refrigeration controls specialist can often cross-reference a compatible aftermarket controller or reprogram a new controller to match the original setpoints. Don't attempt controller replacement without the original setpoint documentation (defrost times, fan delay, alarm thresholds) — incorrect setpoints can cause chronic defrost failures or product loss.

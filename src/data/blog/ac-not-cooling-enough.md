@@ -101,8 +101,8 @@ Adding refrigerant without finding the leak is a temporary fix. A good tech will
 | [AC Air Filter MERV 8 20x25x1](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) | Clogged filter kills airflow and freezes coils | $8–$18 |
 | [Dual Run Capacitor 45/5 µF 440V](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) | Failed capacitor prevents compressor or condenser fan from starting | $18–$35 |
 | [AC Condenser Fan Motor 1/5 HP](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) | Failed motor means no heat rejection at the outdoor unit | $55–$120 |
-| [AC Fin Comb Coil Straightener](https://www.amazon.com/s?k=ac+fin+comb+coil+straightener&tag=errorcodefixes-20) | Bent condenser fins block airflow through coil | $12–$22 |
-| [AC Coil Cleaner Foam Spray](https://www.amazon.com/s?k=ac+coil+cleaner+foam+no+rinse&tag=errorcodefixes-20) | Removes grime from condenser and evaporator coils | $12–$20 |
+| [AC Fin Comb Coil Straightener](https://www.amazon.com/s?i=industrial&k=ac+fin+comb+coil+straightener&tag=errorcodefixes-20) | Bent condenser fins block airflow through coil | $12–$22 |
+| [AC Coil Cleaner Foam Spray](https://www.amazon.com/s?i=industrial&k=ac+coil+cleaner+foam+no+rinse&tag=errorcodefixes-20) | Removes grime from condenser and evaporator coils | $12–$20 |
 | [Contactor 2-Pole 30A](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) | Burned contactor prevents compressor from receiving power | $15–$28 |
 
 ---

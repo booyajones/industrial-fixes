@@ -16,10 +16,10 @@ tags:
 
 Grundfos circulators and variable-speed pumps display fault codes through LED indicators or digital displays depending on the model. MAGNA, Alpha, and CM series pumps use LED color and flash patterns; MAGNA3 and larger pumps display numeric codes. The Grundfos GO app (Bluetooth) can also read faults on compatible models.
 
-| [Code / LED](https://www.amazon.com/s?k=Code+%2F+LED&tag=errorcodefixes-20) | Model | Meaning | Quick Fix |
+| [Code / LED](https://www.amazon.com/s?i=industrial&k=Code+%2F+LED&tag=errorcodefixes-20) | Model | Meaning | Quick Fix |
 |-----------|-------|---------|-----------|
-| [Red LED solid](https://www.amazon.com/s?k=Red+LED+solid&tag=errorcodefixes-20) | Alpha, UPS | Pump fault — overload or locked rotor | Check for air lock; verify voltage |
-| [Red flashing](https://www.amazon.com/s?k=Red+flashing&tag=errorcodefixes-20) | MAGNA | Protection mode active | Check system pressure; check liquid temp |
+| [Red LED solid](https://www.amazon.com/s?i=industrial&k=Red+LED+solid&tag=errorcodefixes-20) | Alpha, UPS | Pump fault — overload or locked rotor | Check for air lock; verify voltage |
+| [Red flashing](https://www.amazon.com/s?i=industrial&k=Red+flashing&tag=errorcodefixes-20) | MAGNA | Protection mode active | Check system pressure; check liquid temp |
 | F1 | MAGNA, CM | Dry running / no liquid detected | Prime pump; check suction valve |
 | F2 | MAGNA3 | Overcurrent / overload | Check system resistance; verify impeller |
 | F3 | MAGNA3 | Overvoltage | Check supply voltage |
@@ -28,7 +28,7 @@ Grundfos circulators and variable-speed pumps display fault codes through LED in
 | F6 | MAGNA3 | Locked rotor | Check for debris; manually free impeller |
 | F7 | MAGNA3 | Internal fault | Replace pump head |
 | ALT | MAGNA | Alternating mode active | Normal in dual-pump installations |
-| [Constant red](https://www.amazon.com/s?k=Constant+red&tag=errorcodefixes-20) | Alpha | Blocked impeller or air-locked | Bleed air; inspect impeller |
+| [Constant red](https://www.amazon.com/s?i=industrial&k=Constant+red&tag=errorcodefixes-20) | Alpha | Blocked impeller or air-locked | Bleed air; inspect impeller |
 
 ## Most Common Faults
 
@@ -55,12 +55,12 @@ The pump is drawing more current than rated. This can be caused by:
 
 ## Grundfos Alpha Series Fault LED Meanings
 
-| [LED Pattern](https://www.amazon.com/s?k=LED+Pattern&tag=errorcodefixes-20) | Meaning |
+| [LED Pattern](https://www.amazon.com/s?i=industrial&k=LED+Pattern&tag=errorcodefixes-20) | Meaning |
 |------------|---------|
-| [Solid green](https://www.amazon.com/s?k=Solid+green&tag=errorcodefixes-20) | Normal operation |
-| [Flashing green](https://www.amazon.com/s?k=Flashing+green&tag=errorcodefixes-20) | Auto-adapt mode — learning curve |
-| [Solid red](https://www.amazon.com/s?k=Solid+red&tag=errorcodefixes-20) | Fault — check for blockage |
-| [Alternating green/red](https://www.amazon.com/s?k=Alternating+green%2Fred&tag=errorcodefixes-20) | Protection mode |
+| [Solid green](https://www.amazon.com/s?i=industrial&k=Solid+green&tag=errorcodefixes-20) | Normal operation |
+| [Flashing green](https://www.amazon.com/s?i=industrial&k=Flashing+green&tag=errorcodefixes-20) | Auto-adapt mode — learning curve |
+| [Solid red](https://www.amazon.com/s?i=industrial&k=Solid+red&tag=errorcodefixes-20) | Fault — check for blockage |
+| [Alternating green/red](https://www.amazon.com/s?i=industrial&k=Alternating+green%2Fred&tag=errorcodefixes-20) | Protection mode |
 
 ## Pump Venting Procedure (Air-Lock Removal)
 

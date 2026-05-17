@@ -39,7 +39,7 @@ E1 on a Hydrotherm boiler indicates ignition failure. The boiler control attempt
 | Part | Notes |
 |------|-------|
 | Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| OEM or universal; clean before replacing |
-| Spark electrode assembly | [Amazon](https://www.amazon.com/s?k=Spark+electrode+assembly&tag=errorcodefixes-20) \| Check gap and insulator condition |
+| Spark electrode assembly | [Amazon](https://www.amazon.com/s?i=industrial&k=Spark+electrode+assembly&tag=errorcodefixes-20) \| Check gap and insulator condition |
 | Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Replace only after voltage and gas supply confirmed |
 | Boiler control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Last resort if all components test normal |
 ## When to Call a Pro

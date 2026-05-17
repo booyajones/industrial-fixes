@@ -36,8 +36,8 @@ Noritz error code 11 means ignition failure — the unit attempted to light the 
 
 | Part | Notes |
 |------|-------|
-| Igniter/spark electrode | [Amazon](https://www.amazon.com/s?k=Igniter%2Fspark+electrode&tag=errorcodefixes-20) \| Noritz model-specific; verify part number from service manual |
-| Combustion fan | [Amazon](https://www.amazon.com/s?k=Combustion+fan&tag=errorcodefixes-20) \| Replace if fan doesn't reach operating speed |
+| Igniter/spark electrode | [Amazon](https://www.amazon.com/s?i=industrial&k=Igniter%2Fspark+electrode&tag=errorcodefixes-20) \| Noritz model-specific; verify part number from service manual |
+| Combustion fan | [Amazon](https://www.amazon.com/s?i=industrial&k=Combustion+fan&tag=errorcodefixes-20) \| Replace if fan doesn't reach operating speed |
 | Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Only after confirming correct voltage present at valve with no gas output |
 ## When to Call a Pro
 

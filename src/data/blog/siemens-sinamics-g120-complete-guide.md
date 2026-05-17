@@ -190,13 +190,13 @@ This method is useful for cloning parameters to a replacement CU in the field wi
 
 | Part | Use Case | Link |
 |------|----------|------|
-| Siemens BOP-2 Operator Panel | Replacement keypad / local control | [View on Amazon](https://www.amazon.com/s?k=Siemens+BOP-2+operator+panel&tag=errorcodefixes-20) |
-| SINAMICS G120 PM240-2 Power Module | Power module replacement (various kW ratings) | [View on Amazon](https://www.amazon.com/s?k=Siemens+SINAMICS+G120+power+module&tag=errorcodefixes-20) |
-| USB Programming Cable (Type B) | Startdrive commissioning connection | [View on Amazon](https://www.amazon.com/s?k=USB+type+B+programming+cable+industrial&tag=errorcodefixes-20) |
-| Megohmmeter / Insulation Tester | Motor insulation resistance check (F0001 diagnosis) | [View on Amazon](https://www.amazon.com/s?k=megohmmeter+insulation+tester+500v&tag=errorcodefixes-20) |
-| Braking Resistor (400V, appropriate ohm/watt for drive size) | F0002 overvoltage on deceleration fix | [View on Amazon](https://www.amazon.com/s?k=VFD+braking+resistor+400v&tag=errorcodefixes-20) |
+| Siemens BOP-2 Operator Panel | Replacement keypad / local control | [View on Amazon](https://www.amazon.com/s?i=industrial&k=Siemens+BOP-2+operator+panel&tag=errorcodefixes-20) |
+| SINAMICS G120 PM240-2 Power Module | Power module replacement (various kW ratings) | [View on Amazon](https://www.amazon.com/s?i=industrial&k=Siemens+SINAMICS+G120+power+module&tag=errorcodefixes-20) |
+| USB Programming Cable (Type B) | Startdrive commissioning connection | [View on Amazon](https://www.amazon.com/s?i=industrial&k=USB+type+B+programming+cable+industrial&tag=errorcodefixes-20) |
+| Megohmmeter / Insulation Tester | Motor insulation resistance check (F0001 diagnosis) | [View on Amazon](https://www.amazon.com/s?i=industrial&k=megohmmeter+insulation+tester+500v&tag=errorcodefixes-20) |
+| Braking Resistor (400V, appropriate ohm/watt for drive size) | F0002 overvoltage on deceleration fix | [View on Amazon](https://www.amazon.com/s?i=industrial&k=VFD+braking+resistor+400v&tag=errorcodefixes-20) |
 | Fluke 87V Industrial Multimeter | Terminal voltage and continuity checks | [View on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) |
-| PTC Thermistor (Motor Protection) | Motor overtemperature protection (F0011) | [View on Amazon](https://www.amazon.com/s?k=PTC+thermistor+motor+protection&tag=errorcodefixes-20) |
+| PTC Thermistor (Motor Protection) | Motor overtemperature protection (F0011) | [View on Amazon](https://www.amazon.com/s?i=industrial&k=PTC+thermistor+motor+protection&tag=errorcodefixes-20) |
 
 ---
 

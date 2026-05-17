@@ -403,6 +403,6 @@ If a Sabroe machine gives you multiple alarms at once, trust the first one in hi
 
 Find replacement parts for Sabroe (Johnson Controls) compressors on Amazon:
 
-- [Sabroe Compressor Parts](https://www.amazon.com/s?k=Sabroe+compressor+parts&tag=errorcodefixes-20)
-- [Industrial Screw Compressor Oil Filter](https://www.amazon.com/s?k=industrial+screw+compressor+oil+filter+replacement&tag=errorcodefixes-20)
-- [Compressor Pressure Transducer & Sensor Kit](https://www.amazon.com/s?k=compressor+pressure+transducer+sensor+replacement&tag=errorcodefixes-20)
+- [Sabroe Compressor Parts](https://www.amazon.com/s?i=industrial&k=Sabroe+compressor+parts&tag=errorcodefixes-20)
+- [Industrial Screw Compressor Oil Filter](https://www.amazon.com/s?i=industrial&k=industrial+screw+compressor+oil+filter+replacement&tag=errorcodefixes-20)
+- [Compressor Pressure Transducer & Sensor Kit](https://www.amazon.com/s?i=industrial&k=compressor+pressure+transducer+sensor+replacement&tag=errorcodefixes-20)

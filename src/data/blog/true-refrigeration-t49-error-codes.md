@@ -37,8 +37,8 @@ The True T-49 is a two-door commercial reach-in refrigerator commonly used in re
 
 | Part | Notes |
 |------|-------|
-| Cabinet probe | [Amazon](https://www.amazon.com/s?k=Cabinet+probe&tag=errorcodefixes-20) \| Match controller type and sensor curve |
-| Evaporator probe | [Amazon](https://www.amazon.com/s?k=Evaporator+probe&tag=errorcodefixes-20) \| Often clipped to the suction line or coil |
+| Cabinet probe | [Amazon](https://www.amazon.com/s?i=industrial&k=Cabinet+probe&tag=errorcodefixes-20) \| Match controller type and sensor curve |
+| Evaporator probe | [Amazon](https://www.amazon.com/s?i=industrial&k=Evaporator+probe&tag=errorcodefixes-20) \| Often clipped to the suction line or coil |
 | Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Common T-49 service part |
 | Door gasket | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?tag=errorcodefixes-20) \| Replace if torn or not sealing |
 ## When to Call a Pro

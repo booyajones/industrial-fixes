@@ -111,12 +111,12 @@ After the leak is repaired, the system is evacuated with a vacuum pump to remove
 
 | Part | What It Fixes | Amazon Link |
 |------|--------------|-------------|
-| Electronic Refrigerant Leak Detector (R-410A) | Locating refrigerant leaks | [View on Amazon](https://www.amazon.com/s?k=r410a+refrigerant+leak+detector+electronic&tag=errorcodefixes-20) |
-| UV Leak Detection Kit with Dye and Light | UV dye leak detection | [View on Amazon](https://www.amazon.com/s?k=hvac+uv+leak+detection+kit+dye&tag=errorcodefixes-20) |
-| AC Service Valve Schrader Core Tool | Replacing leaking Schrader valve cores | [View on Amazon](https://www.amazon.com/s?k=ac+schrader+valve+core+tool+replacement&tag=errorcodefixes-20) |
-| Refrigerant Manifold Gauge Set (R-410A) | Diagnosing refrigerant pressure (EPA 608 required for purchase with refrigerant) | [View on Amazon](https://www.amazon.com/s?k=r410a+manifold+gauge+set+hvac&tag=errorcodefixes-20) |
-| AC Coil Cleaner (No-Rinse) | Cleaning evaporator coil, helps prevent formicary corrosion | [View on Amazon](https://www.amazon.com/s?k=ac+evaporator+coil+cleaner+no+rinse&tag=errorcodefixes-20) |
-| Insulated Copper Line Set (replacement) | When lineset joints fail repeatedly | [View on Amazon](https://www.amazon.com/s?k=ac+copper+line+set+insulated+replacement&tag=errorcodefixes-20) |
+| Electronic Refrigerant Leak Detector (R-410A) | Locating refrigerant leaks | [View on Amazon](https://www.amazon.com/s?i=industrial&k=r410a+refrigerant+leak+detector+electronic&tag=errorcodefixes-20) |
+| UV Leak Detection Kit with Dye and Light | UV dye leak detection | [View on Amazon](https://www.amazon.com/s?i=industrial&k=hvac+uv+leak+detection+kit+dye&tag=errorcodefixes-20) |
+| AC Service Valve Schrader Core Tool | Replacing leaking Schrader valve cores | [View on Amazon](https://www.amazon.com/s?i=industrial&k=ac+schrader+valve+core+tool+replacement&tag=errorcodefixes-20) |
+| Refrigerant Manifold Gauge Set (R-410A) | Diagnosing refrigerant pressure (EPA 608 required for purchase with refrigerant) | [View on Amazon](https://www.amazon.com/s?i=industrial&k=r410a+manifold+gauge+set+hvac&tag=errorcodefixes-20) |
+| AC Coil Cleaner (No-Rinse) | Cleaning evaporator coil, helps prevent formicary corrosion | [View on Amazon](https://www.amazon.com/s?i=industrial&k=ac+evaporator+coil+cleaner+no+rinse&tag=errorcodefixes-20) |
+| Insulated Copper Line Set (replacement) | When lineset joints fail repeatedly | [View on Amazon](https://www.amazon.com/s?i=industrial&k=ac+copper+line+set+insulated+replacement&tag=errorcodefixes-20) |
 
 ---
 

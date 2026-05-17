@@ -38,8 +38,8 @@ F2 on a Hoshizaki ice machine indicates an ice full sensor fault — the machine
 
 | Part | Notes |
 |------|-------|
-| Bin thermostat | [Amazon](https://www.amazon.com/s?k=Bin+thermostat&tag=errorcodefixes-20) \| Hoshizaki OEM; match the specific KML or IM model |
-| Photocell bin control | [Amazon](https://www.amazon.com/s?k=Photocell+bin+control&tag=errorcodefixes-20) \| Match model series; includes transmitter and receiver on some models |
+| Bin thermostat | [Amazon](https://www.amazon.com/s?i=industrial&k=Bin+thermostat&tag=errorcodefixes-20) \| Hoshizaki OEM; match the specific KML or IM model |
+| Photocell bin control | [Amazon](https://www.amazon.com/s?i=industrial&k=Photocell+bin+control&tag=errorcodefixes-20) \| Match model series; includes transmitter and receiver on some models |
 ## When to Call a Pro
 
 If F2 persists after cleaning and sensor replacement, a technician should inspect the harvest cycle — a refrigerant or harvest valve issue can prevent clean ice release, causing recurring bin sensor false trips.

@@ -37,9 +37,9 @@ E1 on a Triangle Tube boiler (Prestige Solo, Excellence, or Challenger series) i
 
 | Part | Notes |
 |------|-------|
-| Ionization electrode | [Amazon](https://www.amazon.com/s?k=Ionization+electrode&tag=errorcodefixes-20) \| Triangle Tube OEM or equivalent; match electrode model |
+| Ionization electrode | [Amazon](https://www.amazon.com/s?i=industrial&k=Ionization+electrode&tag=errorcodefixes-20) \| Triangle Tube OEM or equivalent; match electrode model |
 | Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) \| Internal siphon trap; must be OEM to ensure correct water seal volume |
-| Gas combination valve | [Amazon](https://www.amazon.com/s?k=Gas+combination+valve&tag=errorcodefixes-20) \| Test voltage input and gas pressure before condemning the valve |
+| Gas combination valve | [Amazon](https://www.amazon.com/s?i=industrial&k=Gas+combination+valve&tag=errorcodefixes-20) \| Test voltage input and gas pressure before condemning the valve |
 ## When to Call a Pro
 
 Triangle Tube Prestige boilers use a modulating premix burner. Combustion analysis (CO/CO2 levels, air-gas ratio) must be performed with a calibrated flue gas analyzer by a certified technician. Do not adjust the gas valve or fan speed settings without this equipment.

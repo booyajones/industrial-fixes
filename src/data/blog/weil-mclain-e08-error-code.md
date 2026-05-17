@@ -36,8 +36,8 @@ The Weil-McLain **E08 error code** indicates a **domestic hot water (DHW) sensor
 
 | Part | Notes |
 |------|-------|
-| DHW thermistor/sensor | [Amazon](https://www.amazon.com/s?k=DHW+thermistor%2Fsensor&tag=errorcodefixes-20) \| Match exact Weil-McLain part number for your model; resistance spec is model-specific |
-| Sensor wire harness | [Amazon](https://www.amazon.com/s?k=Sensor+wire+harness&tag=errorcodefixes-20) \| Replace if wire insulation is damaged between sensor and control board |
+| DHW thermistor/sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=DHW+thermistor%2Fsensor&tag=errorcodefixes-20) \| Match exact Weil-McLain part number for your model; resistance spec is model-specific |
+| Sensor wire harness | [Amazon](https://www.amazon.com/s?i=industrial&k=Sensor+wire+harness&tag=errorcodefixes-20) \| Replace if wire insulation is damaged between sensor and control board |
 ## When to Call a Pro
 
 If E08 persists after replacing the DHW sensor and confirming all connections are clean, the control board's sensor input circuit may have failed. Control board replacement on Weil-McLain boilers involves gas system verification — a licensed HVAC or boiler technician should perform this work.

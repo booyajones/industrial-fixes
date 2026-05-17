@@ -36,9 +36,9 @@ Navien error code E010 indicates an air pressure sensor (APS) fault. The APS is 
 
 | Part | Notes |
 |------|-------|
-| Air pressure sensor (APS) | [Amazon](https://www.amazon.com/s?k=Air+pressure+sensor+%28APS%29&tag=errorcodefixes-20) \| Navien part; match to unit model — setpoints differ by BTU rating |
-| APS tubing (replacement) | [Amazon](https://www.amazon.com/s?k=APS+tubing+%28replacement%29&tag=errorcodefixes-20) \| Cheap; replace if cracked or contaminated |
-| Combustion blower assembly | [Amazon](https://www.amazon.com/s?k=Combustion+blower+assembly&tag=errorcodefixes-20) \| Replace if blower speed is confirmed low under load |
+| Air pressure sensor (APS) | [Amazon](https://www.amazon.com/s?i=industrial&k=Air+pressure+sensor+%28APS%29&tag=errorcodefixes-20) \| Navien part; match to unit model — setpoints differ by BTU rating |
+| APS tubing (replacement) | [Amazon](https://www.amazon.com/s?i=industrial&k=APS+tubing+%28replacement%29&tag=errorcodefixes-20) \| Cheap; replace if cracked or contaminated |
+| Combustion blower assembly | [Amazon](https://www.amazon.com/s?i=industrial&k=Combustion+blower+assembly&tag=errorcodefixes-20) \| Replace if blower speed is confirmed low under load |
 ## When to Call a Pro
 
 If the vent terminations are clear, the APS hoses are intact, and the blower is running at full speed but E010 persists, the APS calibration or the blower's actual pressure output requires measurement. This requires a manometer and familiarity with Navien's pressure specifications.

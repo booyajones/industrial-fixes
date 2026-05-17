@@ -66,11 +66,11 @@ After any repair, run a full heating and cooling cycle and verify no faults retu
 
 ## Parts You May Need
 
-- [ComfortLink II thermostat replacement](https://www.amazon.com/s?k=Trane+ComfortLink+II+thermostat&tag=errorcodefixes-20)
-- [4-wire thermostat communication cable](https://www.amazon.com/s?k=4+wire+thermostat+communication+cable&tag=errorcodefixes-20)
-- [AA alkaline batteries](https://www.amazon.com/s?k=AA+alkaline+batteries&tag=errorcodefixes-20)
+- [ComfortLink II thermostat replacement](https://www.amazon.com/s?i=industrial&k=Trane+ComfortLink+II+thermostat&tag=errorcodefixes-20)
+- [4-wire thermostat communication cable](https://www.amazon.com/s?i=industrial&k=4+wire+thermostat+communication+cable&tag=errorcodefixes-20)
+- [AA alkaline batteries](https://www.amazon.com/s?i=industrial&k=AA+alkaline+batteries&tag=errorcodefixes-20)
 - [Trane heat pump control board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20)
-- [Non-contact voltage tester](https://www.amazon.com/s?k=non+contact+voltage+tester+HVAC&tag=errorcodefixes-20)
+- [Non-contact voltage tester](https://www.amazon.com/s?i=industrial&k=non+contact+voltage+tester+HVAC&tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

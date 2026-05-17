@@ -51,10 +51,10 @@ SINUMERIK alarms in this range are extremely common on 828D/840D machines in the
 
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|-------------|
-| SINAMICS S120 Motor Module (booksize) | 6SL3120-1TE21-0AA3 (axis-specific) | $1,800–$5,000 | [Amazon](https://www.amazon.com/s?k=6SL3120-1TE21-0AA3+%28axis-specific%29+SINAMICS+S120+Motor+Module+%28booksize%29&tag=errorcodefixes-20) \| Siemens distributor |
-| DRIVE-CLiQ Cable (pre-made) | 6FX5002-2DC10-xxxx (by length) | $40–$200 | [Amazon](https://www.amazon.com/s?k=6FX5002-2DC10-xxxx+%28by+length%29+DRIVE-CLiQ+Cable+%28pre-made%29&tag=errorcodefixes-20) \| Siemens / automation distributors |
-| SMx Encoder Module | 6SL3055-0AA00-5AA3 (module-specific) | $400–$1,200 | [Amazon](https://www.amazon.com/s?k=6SL3055-0AA00-5AA3+%28module-specific%29+SMx+Encoder+Module&tag=errorcodefixes-20) \| Siemens distributor |
-| Encoder Battery (absolute) | 6SX7000-0AF80 | $15–$25 | [Amazon](https://www.amazon.com/s?k=6SX7000-0AF80+Encoder+Battery+%28absolute%29&tag=errorcodefixes-20) \| Siemens distributor |
+| SINAMICS S120 Motor Module (booksize) | 6SL3120-1TE21-0AA3 (axis-specific) | $1,800–$5,000 | [Amazon](https://www.amazon.com/s?i=industrial&k=6SL3120-1TE21-0AA3+%28axis-specific%29+SINAMICS+S120+Motor+Module+%28booksize%29&tag=errorcodefixes-20) \| Siemens distributor |
+| DRIVE-CLiQ Cable (pre-made) | 6FX5002-2DC10-xxxx (by length) | $40–$200 | [Amazon](https://www.amazon.com/s?i=industrial&k=6FX5002-2DC10-xxxx+%28by+length%29+DRIVE-CLiQ+Cable+%28pre-made%29&tag=errorcodefixes-20) \| Siemens / automation distributors |
+| SMx Encoder Module | 6SL3055-0AA00-5AA3 (module-specific) | $400–$1,200 | [Amazon](https://www.amazon.com/s?i=industrial&k=6SL3055-0AA00-5AA3+%28module-specific%29+SMx+Encoder+Module&tag=errorcodefixes-20) \| Siemens distributor |
+| Encoder Battery (absolute) | 6SX7000-0AF80 | $15–$25 | [Amazon](https://www.amazon.com/s?i=industrial&k=6SX7000-0AF80+Encoder+Battery+%28absolute%29&tag=errorcodefixes-20) \| Siemens distributor |
 ## When to Call a Professional
 
 SINUMERIK 828D/840D systems require Siemens-trained technicians for drive replacement and parameter commissioning. Incorrectly loaded parameters can cause axis runaway, position reference loss, or damage to the machine's mechanical components. Siemens provides remote support via TeleService for 828D/840D systems — your machine tool dealer can often initiate a remote session where a Siemens engineer reads the drive diagnostic data directly via the network and identifies the root cause without a site visit. Always maintain a current parameter backup on removable media and store it with the machine documentation.

@@ -42,9 +42,9 @@ Jackson WWS (Warewashing Solutions) manufactures commercial dishwashers widely u
 
 | Part | Notes |
 |------|-------|
-| Wash pump seal kit | [Amazon](https://www.amazon.com/s?k=Wash+pump+seal+kit&tag=errorcodefixes-20) \| Prevents water ingress to motor |
-| Booster heater element | [Amazon](https://www.amazon.com/s?k=Booster+heater+element&tag=errorcodefixes-20) \| For E-4 temperature faults |
-| Inlet valve | [Amazon](https://www.amazon.com/s?k=Inlet+valve&tag=errorcodefixes-20) \| For persistent E-1/E-2 |
+| Wash pump seal kit | [Amazon](https://www.amazon.com/s?i=industrial&k=Wash+pump+seal+kit&tag=errorcodefixes-20) \| Prevents water ingress to motor |
+| Booster heater element | [Amazon](https://www.amazon.com/s?i=industrial&k=Booster+heater+element&tag=errorcodefixes-20) \| For E-4 temperature faults |
+| Inlet valve | [Amazon](https://www.amazon.com/s?i=industrial&k=Inlet+valve&tag=errorcodefixes-20) \| For persistent E-1/E-2 |
 ## When to Call a Pro
 
 Jackson dishwasher control board and high-voltage work requires authorized service.

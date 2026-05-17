@@ -39,9 +39,9 @@ Alarm 750 on a Fanuc CNC (FS0i, FS16i, FS18i, FS21i, FS30i) is a Spindle Serial 
 
 | Part | Notes |
 |------|-------|
-| JYA/JYB optical fiber cable | [Amazon](https://www.amazon.com/s?k=JYA%2FJYB+optical+fiber+cable&tag=errorcodefixes-20) \| Fanuc OEM; do not substitute standard fiber patch cables |
-| Spindle amplifier (SPM) | [Amazon](https://www.amazon.com/s?k=Spindle+amplifier+%28SPM%29&tag=errorcodefixes-20) \| Must match Fanuc model and revision |
-| 24VDC control power supply | [Amazon](https://www.amazon.com/s?k=24VDC+control+power+supply&tag=errorcodefixes-20) \| Replace if output is absent or out of tolerance |
+| JYA/JYB optical fiber cable | [Amazon](https://www.amazon.com/s?i=industrial&k=JYA%2FJYB+optical+fiber+cable&tag=errorcodefixes-20) \| Fanuc OEM; do not substitute standard fiber patch cables |
+| Spindle amplifier (SPM) | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+amplifier+%28SPM%29&tag=errorcodefixes-20) \| Must match Fanuc model and revision |
+| 24VDC control power supply | [Amazon](https://www.amazon.com/s?i=industrial&k=24VDC+control+power+supply&tag=errorcodefixes-20) \| Replace if output is absent or out of tolerance |
 ## When to Call a Pro
 
 Fanuc spindle amplifier replacement requires re-entering spindle motor parameters (SP parameters) from the backup or machine documentation. This work should be performed by a Fanuc-authorized service technician to avoid incorrect parameterization causing motor or amplifier damage.

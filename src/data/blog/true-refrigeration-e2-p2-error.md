@@ -64,11 +64,11 @@ After repair, watch the next refrigeration and defrost cycles. You want a clean 
 
 ## Parts You May Need
 
-- [True evaporator thermistor probe](https://www.amazon.com/s?k=True+evaporator+thermistor+probe&tag=errorcodefixes-20)
+- [True evaporator thermistor probe](https://www.amazon.com/s?i=industrial&k=True+evaporator+thermistor+probe&tag=errorcodefixes-20)
 - [Evaporator temperature sensor clip](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20)
-- [Probe extension harness](https://www.amazon.com/s?k=probe+extension+harness&tag=errorcodefixes-20)
-- [Commercial refrigeration controller](https://www.amazon.com/s?k=commercial+refrigeration+controller&tag=errorcodefixes-20)
-- [Portable steamer for coil defrost](https://www.amazon.com/s?k=portable+steamer+for+coil+defrost&tag=errorcodefixes-20)
+- [Probe extension harness](https://www.amazon.com/s?i=industrial&k=probe+extension+harness&tag=errorcodefixes-20)
+- [Commercial refrigeration controller](https://www.amazon.com/s?i=industrial&k=commercial+refrigeration+controller&tag=errorcodefixes-20)
+- [Portable steamer for coil defrost](https://www.amazon.com/s?i=industrial&k=portable+steamer+for+coil+defrost&tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

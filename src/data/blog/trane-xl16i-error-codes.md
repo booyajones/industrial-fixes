@@ -100,8 +100,8 @@ When connected to a ComfortLink II thermostat, the XL16i reports faults with num
 | Dual run capacitor — 45/5 µF 440VAC (match label) | $15–$35 | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) |
 | Contactor — 2-pole, 40A, 24V coil | $20–$45 | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) |
 | Defrost control board (Trane #CNT04062 or CNT05028) | $55–$140 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) |
-| Defrost thermostat — outdoor coil clip-on | $12–$28 | [Amazon](https://www.amazon.com/s?k=defrost+thermostat+heat+pump+coil+clip&tag=errorcodefixes-20) |
-| Reversing valve solenoid coil — 24VAC | $30–$65 | [Amazon](https://www.amazon.com/s?k=reversing+valve+solenoid+coil+24VAC&tag=errorcodefixes-20) |
+| Defrost thermostat — outdoor coil clip-on | $12–$28 | [Amazon](https://www.amazon.com/s?i=industrial&k=defrost+thermostat+heat+pump+coil+clip&tag=errorcodefixes-20) |
+| Reversing valve solenoid coil — 24VAC | $30–$65 | [Amazon](https://www.amazon.com/s?i=industrial&k=reversing+valve+solenoid+coil+24VAC&tag=errorcodefixes-20) |
 | Outdoor fan motor — 1/5 or 1/4 HP, 208–230V (match specs) | $90–$210 | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) |
 | XL16i outdoor control board (Trane OEM — match model) | $90–$200 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) |
 

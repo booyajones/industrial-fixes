@@ -51,7 +51,7 @@ Trane's ComfortLink II is a proprietary communicating system that links the ther
 
 | Part | Notes |
 |------|-------|
-| ComfortLink II thermostat | [Amazon](https://www.amazon.com/s?k=ComfortLink+II+thermostat&tag=errorcodefixes-20) \| For persistent Code 551 after wiring confirmed |
+| ComfortLink II thermostat | [Amazon](https://www.amazon.com/s?i=industrial&k=ComfortLink+II+thermostat&tag=errorcodefixes-20) \| For persistent Code 551 after wiring confirmed |
 | Outdoor communicating control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For persistent Code 79 with good wiring |
 | Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Most common Code 128 fix |
 | Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| For Code 126 that returns after drain and hose check |

@@ -36,10 +36,10 @@ E5 on a Mitsubishi mini-split indoor unit indicates a drain pump fault or a drai
 
 | Part | Notes |
 |------|-------|
-| Condensate drain pump | [Amazon](https://www.amazon.com/s?k=Condensate+drain+pump&tag=errorcodefixes-20) \| Match Mitsubishi model and voltage; many are 115V |
+| Condensate drain pump | [Amazon](https://www.amazon.com/s?i=industrial&k=Condensate+drain+pump&tag=errorcodefixes-20) \| Match Mitsubishi model and voltage; many are 115V |
 | Float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?tag=errorcodefixes-20) \| Often sold with pump kits |
-| Drain hose (flexible) | [Amazon](https://www.amazon.com/s?k=Drain+hose+%28flexible%29&tag=errorcodefixes-20) \| Replace if kinked or biologically fouled |
-| Drain pan tablets (algae inhibitor) | [Amazon](https://www.amazon.com/s?k=Drain+pan+tablets+%28algae+inhibitor%29&tag=errorcodefixes-20) \| Preventive maintenance; reduces future blockages |
+| Drain hose (flexible) | [Amazon](https://www.amazon.com/s?i=industrial&k=Drain+hose+%28flexible%29&tag=errorcodefixes-20) \| Replace if kinked or biologically fouled |
+| Drain pan tablets (algae inhibitor) | [Amazon](https://www.amazon.com/s?i=industrial&k=Drain+pan+tablets+%28algae+inhibitor%29&tag=errorcodefixes-20) \| Preventive maintenance; reduces future blockages |
 ## When to Call a Pro
 
 If drain water is leaking into the wall or ceiling cavity, a licensed HVAC technician should assess the drain line routing and ensure no structural damage has occurred. Persistent mold in the drain pan may require unit disassembly to clean.

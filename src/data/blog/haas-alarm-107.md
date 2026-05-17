@@ -36,9 +36,9 @@ Haas alarm 107 indicates a servo motor overtemperature condition. The servo moto
 
 | Part | Notes |
 |------|-------|
-| Servo motor thermistor / thermostat | [Amazon](https://www.amazon.com/s?k=Servo+motor+thermistor+%2F+thermostat&tag=errorcodefixes-20) \| If integral to motor, motor may need to go to a rewind shop |
-| Servo motor (replacement) | [Amazon](https://www.amazon.com/s?k=Servo+motor+%28replacement%29&tag=errorcodefixes-20) \| If thermistor failure is internal and motor can't be easily serviced |
-| Way lube system components | [Amazon](https://www.amazon.com/s?k=Way+lube+system+components&tag=errorcodefixes-20) \| Filter, pump check valve, or distribution tubing if lubrication system is failing |
+| Servo motor thermistor / thermostat | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+motor+thermistor+%2F+thermostat&tag=errorcodefixes-20) \| If integral to motor, motor may need to go to a rewind shop |
+| Servo motor (replacement) | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+motor+%28replacement%29&tag=errorcodefixes-20) \| If thermistor failure is internal and motor can't be easily serviced |
+| Way lube system components | [Amazon](https://www.amazon.com/s?i=industrial&k=Way+lube+system+components&tag=errorcodefixes-20) \| Filter, pump check valve, or distribution tubing if lubrication system is failing |
 ## When to Call a Pro
 
 If the motor is cool and the thermistor reads correctly but alarm 107 returns within minutes of reset under normal operation, the motor may have developing insulation problems or the servo control parameters may be commanding excessive current. Haas Factory Outlet support can help differentiate between these causes.

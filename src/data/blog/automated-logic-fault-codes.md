@@ -48,11 +48,11 @@ WebCTRL runs as a Windows service. If the service crashes or fails to start afte
 
 | Part | Notes |
 |------|-------|
-| MCB/LGR controller | [Amazon](https://www.amazon.com/s?k=MCB%2FLGR+controller&tag=errorcodefixes-20) \| Replace on hardware fault |
-| VMA VAV controller | [Amazon](https://www.amazon.com/s?k=VMA+VAV+controller&tag=errorcodefixes-20) \| Replace on hardware fault |
-| Zone sensor (ZS) | [Amazon](https://www.amazon.com/s?k=Zone+sensor+%28ZS%29&tag=errorcodefixes-20) \| Replace on sensor fault |
-| Damper actuator | [Amazon](https://www.amazon.com/s?k=Damper+actuator&tag=errorcodefixes-20) \| Replace on valve/damper fault |
-| WebCTRL server hardware | [Amazon](https://www.amazon.com/s?k=WebCTRL+server+hardware&tag=errorcodefixes-20) \| Replace on server fault |
+| MCB/LGR controller | [Amazon](https://www.amazon.com/s?i=industrial&k=MCB%2FLGR+controller&tag=errorcodefixes-20) \| Replace on hardware fault |
+| VMA VAV controller | [Amazon](https://www.amazon.com/s?i=industrial&k=VMA+VAV+controller&tag=errorcodefixes-20) \| Replace on hardware fault |
+| Zone sensor (ZS) | [Amazon](https://www.amazon.com/s?i=industrial&k=Zone+sensor+%28ZS%29&tag=errorcodefixes-20) \| Replace on sensor fault |
+| Damper actuator | [Amazon](https://www.amazon.com/s?i=industrial&k=Damper+actuator&tag=errorcodefixes-20) \| Replace on valve/damper fault |
+| WebCTRL server hardware | [Amazon](https://www.amazon.com/s?i=industrial&k=WebCTRL+server+hardware&tag=errorcodefixes-20) \| Replace on server fault |
 ## When to Call a Pro
 WebCTRL server administration, database management, and BACnet network configuration require Automated Logic-certified technicians. An incorrect network change can disable multiple buildings simultaneously.
 

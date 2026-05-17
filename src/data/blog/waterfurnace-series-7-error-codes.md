@@ -53,11 +53,11 @@ The Series 7 monitors loop flow via a differential pressure switch. Check loop p
 | Part | Notes |
 |------|-------|
 | Aurora Base Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| ABC — match to unit model and software version |
-| IntelliZone2 thermostat | [Amazon](https://www.amazon.com/s?k=IntelliZone2+thermostat&tag=errorcodefixes-20) \| Communication interface for fault codes |
-| Loop pump | [Amazon](https://www.amazon.com/s?k=Loop+pump&tag=errorcodefixes-20) \| Verify GPM meets unit minimum |
-| TXV | [Amazon](https://www.amazon.com/s?k=TXV&tag=errorcodefixes-20) \| Match refrigerant and tonnage |
-| Reversing valve | [Amazon](https://www.amazon.com/s?k=Reversing+valve&tag=errorcodefixes-20) \| Match unit model |
-| Pressure transducer | [Amazon](https://www.amazon.com/s?k=Pressure+transducer&tag=errorcodefixes-20) \| Check calibration before replacing |
+| IntelliZone2 thermostat | [Amazon](https://www.amazon.com/s?i=industrial&k=IntelliZone2+thermostat&tag=errorcodefixes-20) \| Communication interface for fault codes |
+| Loop pump | [Amazon](https://www.amazon.com/s?i=industrial&k=Loop+pump&tag=errorcodefixes-20) \| Verify GPM meets unit minimum |
+| TXV | [Amazon](https://www.amazon.com/s?i=industrial&k=TXV&tag=errorcodefixes-20) \| Match refrigerant and tonnage |
+| Reversing valve | [Amazon](https://www.amazon.com/s?i=industrial&k=Reversing+valve&tag=errorcodefixes-20) \| Match unit model |
+| Pressure transducer | [Amazon](https://www.amazon.com/s?i=industrial&k=Pressure+transducer&tag=errorcodefixes-20) \| Check calibration before replacing |
 > **Pro tip:** WaterFurnace Series 7 has variable speed compressor (0–100% capacity). Always view IntelliZone2 diagnostics screen for current operating pressures and EWT/LWT before diagnosing refrigerant issues.
 
 ## Related Articles

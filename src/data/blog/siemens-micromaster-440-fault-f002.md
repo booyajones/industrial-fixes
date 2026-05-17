@@ -40,9 +40,9 @@ tags:
 
 | Part | Notes |
 |------|-------|
-| Motor cable | [Amazon](https://www.amazon.com/s?k=Motor+cable&tag=errorcodefixes-20) \| Use shielded VFD cable for long runs |
-| Replacement motor | [Amazon](https://www.amazon.com/s?k=Replacement+motor&tag=errorcodefixes-20) \| Needed if windings are grounded |
-| Micromaster 440 drive | [Amazon](https://www.amazon.com/s?k=Micromaster+440+drive&tag=errorcodefixes-20) \| Replace if output module is shorted |
+| Motor cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+cable&tag=errorcodefixes-20) \| Use shielded VFD cable for long runs |
+| Replacement motor | [Amazon](https://www.amazon.com/s?i=industrial&k=Replacement+motor&tag=errorcodefixes-20) \| Needed if windings are grounded |
+| Micromaster 440 drive | [Amazon](https://www.amazon.com/s?i=industrial&k=Micromaster+440+drive&tag=errorcodefixes-20) \| Replace if output module is shorted |
 ## When to Call a Pro
 
 If F002 trips under light load with correct parameters and a healthy motor, the drive likely has an internal hardware failure.

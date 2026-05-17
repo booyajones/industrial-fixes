@@ -93,11 +93,11 @@ If all LEDs flash simultaneously, the machine is in a safety shutdown:
 |------|-------------|--------------|--------------|
 | Water inlet valve | 4A5375-02 | $80–$120 | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| Parts Town |
 | Float switch | 4A3624-01 | $40–$65 | [Amazon](https://www.amazon.com/dp/B005D4RFEM?tag=errorcodefixes-20) \| Parts Town |
-| Bin thermostat | 4A6599-01 | $35–$55 | [Amazon](https://www.amazon.com/s?k=Hoshizaki+4A6599-01+bin+thermostat&tag=errorcodefixes-20) \| Parts Town |
-| Hot gas solenoid valve | 4A0559-01 | $150–$250 | [Amazon](https://www.amazon.com/s?k=Hoshizaki+4A0559-01+hot+gas+solenoid&tag=errorcodefixes-20) \| Parts Town |
+| Bin thermostat | 4A6599-01 | $35–$55 | [Amazon](https://www.amazon.com/s?i=industrial&k=Hoshizaki+4A6599-01+bin+thermostat&tag=errorcodefixes-20) \| Parts Town |
+| Hot gas solenoid valve | 4A0559-01 | $150–$250 | [Amazon](https://www.amazon.com/s?i=industrial&k=Hoshizaki+4A0559-01+hot+gas+solenoid&tag=errorcodefixes-20) \| Parts Town |
 | Condenser fan motor (air-cooled) | 4A1410-01 | $120–$200 | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Parts Town |
 | Main control board | 2A2665-01 | $400–$700 | Parts Town \| Hoshizaki authorized distributor |
-| Hoshizaki Scale Remover (6 pack) | 9381-10 | $30–$50 | [Amazon](https://www.amazon.com/s?k=Hoshizaki+scale+remover+9381-10&tag=errorcodefixes-20) \| Restaurant supply |
+| Hoshizaki Scale Remover (6 pack) | 9381-10 | $30–$50 | [Amazon](https://www.amazon.com/s?i=industrial&k=Hoshizaki+scale+remover+9381-10&tag=errorcodefixes-20) \| Restaurant supply |
 
 ## When to Call a Professional
 

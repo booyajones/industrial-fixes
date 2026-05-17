@@ -64,7 +64,7 @@ The GMS96 uses a silicon nitride hot-surface igniter (Goodman B1401015S or B1401
 
 | Part | Notes |
 |------|-------|
-| Hot-surface igniter | [Amazon](https://www.amazon.com/s?k=Hot-surface+igniter&tag=errorcodefixes-20) \| Goodman B1401015S |
+| Hot-surface igniter | [Amazon](https://www.amazon.com/s?i=industrial&k=Hot-surface+igniter&tag=errorcodefixes-20) \| Goodman B1401015S |
 | Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) \| Goodman PCBBF118S or PCBBF133 |
 | Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| 0.60" WC — Goodman B1370169 or B1370138 |
 | Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Goodman 20285401 |

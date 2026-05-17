@@ -99,12 +99,12 @@ The Rheem RTEX series uses a simple E-code system displayed on the LED panel. He
 
 | Part | What It Fixes | Amazon Link |
 |------|--------------|-------------|
-| Rheem RTEX Flow Sensor (universal fit) | E1 flow sensor fault | [View on Amazon](https://www.amazon.com/s?k=rheem+rtex+flow+sensor&tag=errorcodefixes-20) |
-| NTC Thermistor 10K Replacement | E3 / E4 temperature sensor fault | [View on Amazon](https://www.amazon.com/s?k=ntc+thermistor+10k+tankless+water+heater&tag=errorcodefixes-20) |
-| Rheem RTEX Heating Element Set | Overheating, E2 persistent after descaling | [View on Amazon](https://www.amazon.com/s?k=rheem+rtex+heating+element+replacement&tag=errorcodefixes-20) |
-| Tankless Water Heater Descaling Kit | E2 scale buildup, reduced hot water output | [View on Amazon](https://www.amazon.com/s?k=tankless+water+heater+descaling+flush+kit&tag=errorcodefixes-20) |
-| Inlet Filter Screen Replacement | E1 clogged filter | [View on Amazon](https://www.amazon.com/s?k=tankless+water+heater+inlet+filter+screen&tag=errorcodefixes-20) |
-| Water Pressure Test Gauge | Diagnosing low-pressure E1 | [View on Amazon](https://www.amazon.com/s?k=water+pressure+test+gauge+hose+bib&tag=errorcodefixes-20) |
+| Rheem RTEX Flow Sensor (universal fit) | E1 flow sensor fault | [View on Amazon](https://www.amazon.com/s?i=industrial&k=rheem+rtex+flow+sensor&tag=errorcodefixes-20) |
+| NTC Thermistor 10K Replacement | E3 / E4 temperature sensor fault | [View on Amazon](https://www.amazon.com/s?i=industrial&k=ntc+thermistor+10k+tankless+water+heater&tag=errorcodefixes-20) |
+| Rheem RTEX Heating Element Set | Overheating, E2 persistent after descaling | [View on Amazon](https://www.amazon.com/s?i=industrial&k=rheem+rtex+heating+element+replacement&tag=errorcodefixes-20) |
+| Tankless Water Heater Descaling Kit | E2 scale buildup, reduced hot water output | [View on Amazon](https://www.amazon.com/s?i=industrial&k=tankless+water+heater+descaling+flush+kit&tag=errorcodefixes-20) |
+| Inlet Filter Screen Replacement | E1 clogged filter | [View on Amazon](https://www.amazon.com/s?i=industrial&k=tankless+water+heater+inlet+filter+screen&tag=errorcodefixes-20) |
+| Water Pressure Test Gauge | Diagnosing low-pressure E1 | [View on Amazon](https://www.amazon.com/s?i=industrial&k=water+pressure+test+gauge+hose+bib&tag=errorcodefixes-20) |
 
 ---
 

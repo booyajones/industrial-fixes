@@ -37,8 +37,8 @@ Fault LF (Line Failure / Phase Loss) on a Lenze i550 drive means the drive has d
 
 | Part | Notes |
 |------|-------|
-| Semiconductor input fuses | [Amazon](https://www.amazon.com/s?k=Semiconductor+input+fuses&tag=errorcodefixes-20) \| Use Lenze-specified aR or gR fuse type; do not substitute standard HRC fuses |
-| Input terminal block | [Amazon](https://www.amazon.com/s?k=Input+terminal+block&tag=errorcodefixes-20) \| Replace if arcing damage or severe corrosion is present |
+| Semiconductor input fuses | [Amazon](https://www.amazon.com/s?i=industrial&k=Semiconductor+input+fuses&tag=errorcodefixes-20) \| Use Lenze-specified aR or gR fuse type; do not substitute standard HRC fuses |
+| Input terminal block | [Amazon](https://www.amazon.com/s?i=industrial&k=Input+terminal+block&tag=errorcodefixes-20) \| Replace if arcing damage or severe corrosion is present |
 ## When to Call a Pro
 
 All input phase fault diagnosis involves live three-phase voltages. Only qualified electricians wearing appropriate PPE should perform live voltage measurements. If the LF fault points to a utility supply problem, the utility company must be notified — do not attempt to bypass or ignore the fault.

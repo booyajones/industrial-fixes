@@ -151,7 +151,7 @@ This guide covers the most common Knight boiler display messages and how to reso
 |------|-------------|-------------|
 | Igniter / Flame Sensor Electrode | $35–$70 | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) |
 | Air Pressure Switch | $25–$55 | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) |
-| Combustion Fan / Inducer Motor | $180–$350 | [Amazon](https://www.amazon.com/s?k=Lochinvar+Knight+inducer+blower+motor&tag=errorcodefixes-20) |
+| Combustion Fan / Inducer Motor | $180–$350 | [Amazon](https://www.amazon.com/s?i=industrial&k=Lochinvar+Knight+inducer+blower+motor&tag=errorcodefixes-20) |
 | IQ Control Board | $400–$700 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) |
 | Condensate Trap Kit | $20–$40 | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) |
 

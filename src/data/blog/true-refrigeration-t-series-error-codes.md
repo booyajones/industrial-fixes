@@ -46,7 +46,7 @@ True Manufacturing T-Series reach-in refrigerators (T-23, T-35, T-49, T-72 and s
 
 | Part | Notes |
 |------|-------|
-| NTC air sensor | [Amazon](https://www.amazon.com/s?k=NTC+air+sensor&tag=errorcodefixes-20) \| True OEM only — controller is calibrated to specific sensor curve |
+| NTC air sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=NTC+air+sensor&tag=errorcodefixes-20) \| True OEM only — controller is calibrated to specific sensor curve |
 | Defrost heater | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) \| Match to model and voltage (115V or 208-230V) |
 | Defrost termination thermostat | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Clips to evaporator; opens at ~50°F to terminate defrost |
 | Door gasket | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?tag=errorcodefixes-20) \| True model-specific — measure and order by model number |

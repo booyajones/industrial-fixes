@@ -37,7 +37,7 @@ Samsung error code E4-01 indicates a temperature sensor fault — specifically, 
 | Part | Notes |
 |------|-------|
 | Samsung indoor temperature sensor (TA) | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Part number varies by model series; DB32-00028A is common on older units |
-| Contact cleaner | [Amazon](https://www.amazon.com/s?k=Contact+cleaner&tag=errorcodefixes-20) \| For connector maintenance |
+| Contact cleaner | [Amazon](https://www.amazon.com/s?i=industrial&k=Contact+cleaner&tag=errorcodefixes-20) \| For connector maintenance |
 | Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| If sensor tests good and E4-01 persists |
 ## When to Call a Pro
 

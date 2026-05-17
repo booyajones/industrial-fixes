@@ -16,25 +16,25 @@ tags:
 
 Generac standby generators display alarm codes on the Evolution controller display. Alarms are classified as Warnings (generator continues to run) or Shutdowns (generator stops and requires reset). The controller also stores fault history for the last 50 events. Access fault history: Menu → View History.
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Type | Meaning | Quick Fix |
+| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Type | Meaning | Quick Fix |
 |------|------|---------|-----------|
-| [1100](https://www.amazon.com/s?k=1100&tag=errorcodefixes-20) | Warning | Low battery | Charge or replace battery |
-| [1200](https://www.amazon.com/s?k=1200&tag=errorcodefixes-20) | Warning | Low coolant | Add coolant; check for leaks |
-| [1205](https://www.amazon.com/s?k=1205&tag=errorcodefixes-20) | Shutdown | High coolant temperature | Check coolant; check fan |
-| [1300](https://www.amazon.com/s?k=1300&tag=errorcodefixes-20) | Warning | Low oil pressure warning | Check oil level |
-| [1302](https://www.amazon.com/s?k=1302&tag=errorcodefixes-20) | Shutdown | Low oil pressure shutdown | Add oil; check for leaks |
-| [1400](https://www.amazon.com/s?k=1400&tag=errorcodefixes-20) | Warning | Overcrank warning | Check battery; check starter |
-| [1401](https://www.amazon.com/s?k=1401&tag=errorcodefixes-20) | Shutdown | Overcrank — failed to start | Check fuel, spark, battery |
-| [1500](https://www.amazon.com/s?k=1500&tag=errorcodefixes-20) | Shutdown | Overspeed | Governor fault; speed sensor |
-| [1501](https://www.amazon.com/s?k=1501&tag=errorcodefixes-20) | Shutdown | Underspeed | Engine load, governor fault |
-| [1600](https://www.amazon.com/s?k=1600&tag=errorcodefixes-20) | Shutdown | Overfrequency | Governor problem |
-| [1601](https://www.amazon.com/s?k=1601&tag=errorcodefixes-20) | Shutdown | Underfrequency | Engine load, governor |
-| [1700](https://www.amazon.com/s?k=1700&tag=errorcodefixes-20) | Shutdown | Overvoltage | Voltage regulator fault |
-| [1701](https://www.amazon.com/s?k=1701&tag=errorcodefixes-20) | Shutdown | Undervoltage | AVR fault; load too high |
-| [1900](https://www.amazon.com/s?k=1900&tag=errorcodefixes-20) | Shutdown | RPM sense loss | Magnetic pickup fault |
-| [2100](https://www.amazon.com/s?k=2100&tag=errorcodefixes-20) | Warning | Check | General warning — see history |
-| [2800](https://www.amazon.com/s?k=2800&tag=errorcodefixes-20) | Warning | Low fuel | Add fuel |
-| [2900](https://www.amazon.com/s?k=2900&tag=errorcodefixes-20) | Shutdown | High AC voltage | Voltage regulator fault |
+| [1100](https://www.amazon.com/s?i=industrial&k="1100"&tag=errorcodefixes-20) | Warning | Low battery | Charge or replace battery |
+| [1200](https://www.amazon.com/s?i=industrial&k="1200"&tag=errorcodefixes-20) | Warning | Low coolant | Add coolant; check for leaks |
+| [1205](https://www.amazon.com/s?i=industrial&k="1205"&tag=errorcodefixes-20) | Shutdown | High coolant temperature | Check coolant; check fan |
+| [1300](https://www.amazon.com/s?i=industrial&k="1300"&tag=errorcodefixes-20) | Warning | Low oil pressure warning | Check oil level |
+| [1302](https://www.amazon.com/s?i=industrial&k="1302"&tag=errorcodefixes-20) | Shutdown | Low oil pressure shutdown | Add oil; check for leaks |
+| [1400](https://www.amazon.com/s?i=industrial&k="1400"&tag=errorcodefixes-20) | Warning | Overcrank warning | Check battery; check starter |
+| [1401](https://www.amazon.com/s?i=industrial&k="1401"&tag=errorcodefixes-20) | Shutdown | Overcrank — failed to start | Check fuel, spark, battery |
+| [1500](https://www.amazon.com/s?i=industrial&k="1500"&tag=errorcodefixes-20) | Shutdown | Overspeed | Governor fault; speed sensor |
+| [1501](https://www.amazon.com/s?i=industrial&k="1501"&tag=errorcodefixes-20) | Shutdown | Underspeed | Engine load, governor fault |
+| [1600](https://www.amazon.com/s?i=industrial&k="1600"&tag=errorcodefixes-20) | Shutdown | Overfrequency | Governor problem |
+| [1601](https://www.amazon.com/s?i=industrial&k="1601"&tag=errorcodefixes-20) | Shutdown | Underfrequency | Engine load, governor |
+| [1700](https://www.amazon.com/s?i=industrial&k="1700"&tag=errorcodefixes-20) | Shutdown | Overvoltage | Voltage regulator fault |
+| [1701](https://www.amazon.com/s?i=industrial&k="1701"&tag=errorcodefixes-20) | Shutdown | Undervoltage | AVR fault; load too high |
+| [1900](https://www.amazon.com/s?i=industrial&k="1900"&tag=errorcodefixes-20) | Shutdown | RPM sense loss | Magnetic pickup fault |
+| [2100](https://www.amazon.com/s?i=industrial&k="2100"&tag=errorcodefixes-20) | Warning | Check | General warning — see history |
+| [2800](https://www.amazon.com/s?i=industrial&k="2800"&tag=errorcodefixes-20) | Warning | Low fuel | Add fuel |
+| [2900](https://www.amazon.com/s?i=industrial&k="2900"&tag=errorcodefixes-20) | Shutdown | High AC voltage | Voltage regulator fault |
 
 ## Most Common Faults
 

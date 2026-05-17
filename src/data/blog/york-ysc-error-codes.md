@@ -19,21 +19,21 @@ The York YSC series is a light commercial packaged rooftop unit covering 2–12.
 
 ## York YSC Flash Code Table
 
-| [Flash Count](https://www.amazon.com/s?k=Flash+Count&tag=errorcodefixes-20) | Fault | Common Cause |
+| [Flash Count](https://www.amazon.com/s?i=industrial&k=Flash+Count&tag=errorcodefixes-20) | Fault | Common Cause |
 |---|---|---|
-| [1 flash](https://www.amazon.com/s?k=1+flash&tag=errorcodefixes-20) | System lockout | Manual reset required |
-| [2 flashes](https://www.amazon.com/s?k=2+flashes&tag=errorcodefixes-20) | Low-pressure switch open | Low refrigerant, dirty filter |
-| [3 flashes](https://www.amazon.com/s?k=3+flashes&tag=errorcodefixes-20) | High-pressure switch open | Dirty condenser, fan failure |
-| [4 flashes](https://www.amazon.com/s?k=4+flashes&tag=errorcodefixes-20) | Limit switch open | Airflow restriction |
-| [5 flashes](https://www.amazon.com/s?k=5+flashes&tag=errorcodefixes-20) | Rollout switch open | Heat exchanger issue |
-| [6 flashes](https://www.amazon.com/s?k=6+flashes&tag=errorcodefixes-20) | Ignition lockout | Gas, igniter, or sensor fault |
-| [7 flashes](https://www.amazon.com/s?k=7+flashes&tag=errorcodefixes-20) | Flame sense fault | Dirty or failed flame sensor |
-| [8 flashes](https://www.amazon.com/s?k=8+flashes&tag=errorcodefixes-20) | Pressure switch stuck closed | Faulty pressure switch |
-| [9 flashes](https://www.amazon.com/s?k=9+flashes&tag=errorcodefixes-20) | Reverse rotation — blower | Blower wired incorrectly or failed |
+| [1 flash](https://www.amazon.com/s?i=industrial&k=1+flash&tag=errorcodefixes-20) | System lockout | Manual reset required |
+| [2 flashes](https://www.amazon.com/s?i=industrial&k=2+flashes&tag=errorcodefixes-20) | Low-pressure switch open | Low refrigerant, dirty filter |
+| [3 flashes](https://www.amazon.com/s?i=industrial&k=3+flashes&tag=errorcodefixes-20) | High-pressure switch open | Dirty condenser, fan failure |
+| [4 flashes](https://www.amazon.com/s?i=industrial&k=4+flashes&tag=errorcodefixes-20) | Limit switch open | Airflow restriction |
+| [5 flashes](https://www.amazon.com/s?i=industrial&k=5+flashes&tag=errorcodefixes-20) | Rollout switch open | Heat exchanger issue |
+| [6 flashes](https://www.amazon.com/s?i=industrial&k=6+flashes&tag=errorcodefixes-20) | Ignition lockout | Gas, igniter, or sensor fault |
+| [7 flashes](https://www.amazon.com/s?i=industrial&k=7+flashes&tag=errorcodefixes-20) | Flame sense fault | Dirty or failed flame sensor |
+| [8 flashes](https://www.amazon.com/s?i=industrial&k=8+flashes&tag=errorcodefixes-20) | Pressure switch stuck closed | Faulty pressure switch |
+| [9 flashes](https://www.amazon.com/s?i=industrial&k=9+flashes&tag=errorcodefixes-20) | Reverse rotation — blower | Blower wired incorrectly or failed |
 
 ## York YSC Alphanumeric Fault Codes
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Description | Likely Cause / Action |
+| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Description | Likely Cause / Action |
 |---|---|---|
 | E1 | Control board communication fault | Check wiring harness, replace board |
 | E2 | Supply air temperature sensor fault | Check sensor resistance, replace |

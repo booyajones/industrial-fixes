@@ -39,7 +39,7 @@ The ID-0322 is often installed in tight undercounter spaces where ventilation is
 | Part | Notes |
 |------|-------|
 | Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| Code 6 — compact valve specific to this model |
-| Manitowoc cleaner | [Amazon](https://www.amazon.com/s?k=Manitowoc+cleaner&tag=errorcodefixes-20) \| Quarterly |
+| Manitowoc cleaner | [Amazon](https://www.amazon.com/s?i=industrial&k=Manitowoc+cleaner&tag=errorcodefixes-20) \| Quarterly |
 ## When to Call a Pro
 
 E05 high pressure cutout and sealed system work require EPA 608 certification.

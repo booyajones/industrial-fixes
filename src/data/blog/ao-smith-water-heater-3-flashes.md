@@ -107,10 +107,10 @@ If replacing both the thermocouple and thermopile doesn't fix 3 flashes:
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|--------------|
 | [Thermocouple (universal 24" or 36")](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) | Pilot won't stay lit after relighting | $8–$20 |
-| [AO Smith Thermopile (100112336)](https://www.amazon.com/s?k=AO+Smith+Thermopile+%28100112336%29&tag=errorcodefixes-20) | Thermopile reads below 300 mV | $20–$40 |
-| [Pilot Assembly (with bracket)](https://www.amazon.com/s?k=Pilot+Assembly+%28with+bracket%29&tag=errorcodefixes-20) | Pilot orifice clogged or bracket corroded | $25–$50 |
-| [Gas Control Valve (100093939 or model-specific)](https://www.amazon.com/s?k=Gas+Control+Valve+%28100093939+or+model-specific%29&tag=errorcodefixes-20) | Valve faulty after confirmed good thermocouple/thermopile | $90–$160 |
-| [Piezo Igniter Button](https://www.amazon.com/s?k=Piezo+Igniter+Button&tag=errorcodefixes-20) | Pilot won't spark when button pressed | $10–$25 |
+| [AO Smith Thermopile (100112336)](https://www.amazon.com/s?i=industrial&k=AO+Smith+Thermopile+%28100112336%29&tag=errorcodefixes-20) | Thermopile reads below 300 mV | $20–$40 |
+| [Pilot Assembly (with bracket)](https://www.amazon.com/s?i=industrial&k=Pilot+Assembly+%28with+bracket%29&tag=errorcodefixes-20) | Pilot orifice clogged or bracket corroded | $25–$50 |
+| [Gas Control Valve (100093939 or model-specific)](https://www.amazon.com/s?i=industrial&k=Gas+Control+Valve+%28100093939+or+model-specific%29&tag=errorcodefixes-20) | Valve faulty after confirmed good thermocouple/thermopile | $90–$160 |
+| [Piezo Igniter Button](https://www.amazon.com/s?i=industrial&k=Piezo+Igniter+Button&tag=errorcodefixes-20) | Pilot won't spark when button pressed | $10–$25 |
 
 *Match part numbers to your model tag on the side of the unit. AO Smith model numbers look like: GPS6-50T40-NV.*
 

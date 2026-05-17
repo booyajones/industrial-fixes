@@ -27,7 +27,7 @@ Carrier VRF systems (sold under the Carrier and Midea-sourced product lines) dis
 
 ### Communication / System Faults
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Description | Common Cause |
+| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Description | Common Cause |
 |---|---|---|
 | E01 | Indoor/outdoor communication fault | Check F1/F2 wiring |
 | E02 | Outdoor unit PCB fault | Replace outdoor main board |
@@ -42,7 +42,7 @@ Carrier VRF systems (sold under the Carrier and Midea-sourced product lines) dis
 
 ### Indoor Unit Faults
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Description | Common Cause |
+| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Description | Common Cause |
 |---|---|---|
 | I01 | Indoor PCB fault | Replace indoor control board |
 | I02 | Indoor communication fault | Check F1/F2 wiring to indoor unit |
@@ -54,7 +54,7 @@ Carrier VRF systems (sold under the Carrier and Midea-sourced product lines) dis
 
 ### Protection / Lockout Faults
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Description | Common Cause |
+| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Description | Common Cause |
 |---|---|---|
 | F01 | Hard lockout — high pressure | 3 HP trips — manual reset |
 | F02 | Hard lockout — low pressure | 3 LP trips — manual reset |
@@ -92,12 +92,12 @@ Electronic expansion valve faults are common after refrigerant work:
 
 | Part | Notes |
 |---|---|
-| [Electronic expansion valve](https://www.amazon.com/s?k=Electronic+expansion+valve&tag=errorcodefixes-20) | Model-specific — match kv and connection |
-| [Outdoor main PCB](https://www.amazon.com/s?k=Outdoor+main+PCB&tag=errorcodefixes-20) | Match model and firmware version |
+| [Electronic expansion valve](https://www.amazon.com/s?i=industrial&k=Electronic+expansion+valve&tag=errorcodefixes-20) | Model-specific — match kv and connection |
+| [Outdoor main PCB](https://www.amazon.com/s?i=industrial&k=Outdoor+main+PCB&tag=errorcodefixes-20) | Match model and firmware version |
 | [Indoor PCB](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Indoor unit-specific |
-| [Communication wire](https://www.amazon.com/s?k=Communication+wire&tag=errorcodefixes-20) | Unshielded 2-conductor — match gauge for run length |
+| [Communication wire](https://www.amazon.com/s?i=industrial&k=Communication+wire&tag=errorcodefixes-20) | Unshielded 2-conductor — match gauge for run length |
 | [Temperature sensor](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | 10K NTC thermistor |
-| [Inverter module (IPM)](https://www.amazon.com/s?k=Inverter+module+%28IPM%29&tag=errorcodefixes-20) | High-value outdoor part |
+| [Inverter module (IPM)](https://www.amazon.com/s?i=industrial&k=Inverter+module+%28IPM%29&tag=errorcodefixes-20) | High-value outdoor part |
 
 > **Note:** Some Carrier VRF product lines are manufactured by Midea. Technical service manuals are available via Carrier's commercial partner portal. Always verify with the model number before ordering parts.
 

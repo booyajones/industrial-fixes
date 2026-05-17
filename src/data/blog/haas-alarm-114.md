@@ -37,8 +37,8 @@ Haas Alarm 114 is a **spindle over speed** fault — the spindle exceeded its ma
 
 | Part | Notes |
 |------|-------|
-| Spindle encoder cable | [Amazon](https://www.amazon.com/s?k=Spindle+encoder+cable&tag=errorcodefixes-20) \| If encoder signal quality is the root cause |
-| No parts for parameter-only fixes | [Amazon](https://www.amazon.com/s?k=No+parts+for+parameter-only+fixes&tag=errorcodefixes-20) \| — |
+| Spindle encoder cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+encoder+cable&tag=errorcodefixes-20) \| If encoder signal quality is the root cause |
+| No parts for parameter-only fixes | [Amazon](https://www.amazon.com/s?i=industrial&k=No+parts+for+parameter-only+fixes&tag=errorcodefixes-20) \| — |
 ## When to Call a Pro
 
 If the spindle is genuinely overspeeding (audible runaway), E-stop the machine immediately. A runaway spindle is a safety hazard — toolholder retention relies on centrifugal force limits. Have a Haas HFO technician diagnose the spindle drive control loop before restarting.

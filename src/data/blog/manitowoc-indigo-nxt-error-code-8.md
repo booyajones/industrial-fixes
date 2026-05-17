@@ -81,11 +81,11 @@ Error 8 triggers when steps 4–7 take too long. The clock starts when the freez
 
 | Part | Why | Approx. Cost |
 |------|-----|-------------|
-| [Hot gas bypass valve solenoid coil](https://www.amazon.com/s?k=Hot+gas+bypass+valve+solenoid+coil&tag=errorcodefixes-20) | Failed coil — no click at harvest start | $45–$80 |
-| [Hot gas bypass valve (complete)](https://www.amazon.com/s?k=Hot+gas+bypass+valve+%28complete%29&tag=errorcodefixes-20) | Valve stuck closed — no hot gas to evaporator | $120–$200 |
-| [Harvest thermostat / slab thermostat](https://www.amazon.com/s?k=Harvest+thermostat+%2F+slab+thermostat&tag=errorcodefixes-20) | Failed thermostat — wrong temperature signal | $30–$60 |
-| [Water curtain assembly](https://www.amazon.com/s?k=Water+curtain+assembly&tag=errorcodefixes-20) | Damaged curtain preventing ice release | $35–$65 |
-| [Harvest assist arm kit (if applicable)](https://www.amazon.com/s?k=Harvest+assist+arm+kit+%28if+applicable%29&tag=errorcodefixes-20) | Broken harvest assist mechanism | $50–$100 |
+| [Hot gas bypass valve solenoid coil](https://www.amazon.com/s?i=industrial&k=Hot+gas+bypass+valve+solenoid+coil&tag=errorcodefixes-20) | Failed coil — no click at harvest start | $45–$80 |
+| [Hot gas bypass valve (complete)](https://www.amazon.com/s?i=industrial&k=Hot+gas+bypass+valve+%28complete%29&tag=errorcodefixes-20) | Valve stuck closed — no hot gas to evaporator | $120–$200 |
+| [Harvest thermostat / slab thermostat](https://www.amazon.com/s?i=industrial&k=Harvest+thermostat+%2F+slab+thermostat&tag=errorcodefixes-20) | Failed thermostat — wrong temperature signal | $30–$60 |
+| [Water curtain assembly](https://www.amazon.com/s?i=industrial&k=Water+curtain+assembly&tag=errorcodefixes-20) | Damaged curtain preventing ice release | $35–$65 |
+| [Harvest assist arm kit (if applicable)](https://www.amazon.com/s?i=industrial&k=Harvest+assist+arm+kit+%28if+applicable%29&tag=errorcodefixes-20) | Broken harvest assist mechanism | $50–$100 |
 | [Manitowoc Indigo NXT control board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Control board fault causing false error 8 | $350–$600 |
 
 For Manitowoc-specific part numbers, use the model number on your unit's data plate (e.g., IYT1900A, IDF0500A) and look up parts at Parts Town, where Manitowoc parts are well-catalogued with diagrams. Manitowoc part numbers for harvest components often begin with **7626** or **7627** series — verify against your model's parts diagram.

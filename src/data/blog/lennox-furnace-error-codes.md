@@ -15,7 +15,7 @@ tags:
 
 Lennox furnaces use a combination of flash codes (older models) and numeric fault codes displayed on an iComfort thermostat or the control board's diagnostic port (newer communicating models). On non-communicating furnaces, look for the blinking LED on the IFC board through the lower access panel. Lennox also makes Aire-Flo, Armstrong Air, and Ducane — codes may overlap.
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |------|---------|-----------|
 | 103 | Rollout switch lockout | Inspect heat exchanger; reset switch |
 | 111 | No previous fault | Normal after power cycle |

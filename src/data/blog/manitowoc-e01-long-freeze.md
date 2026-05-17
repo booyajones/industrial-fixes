@@ -64,11 +64,11 @@ Do not keep clearing E01 all day in a busy kitchen. Repeated long freezes stress
 
 ## Parts You May Need
 
-- [Condenser coil cleaning kit](https://www.amazon.com/s?k=condenser+coil+cleaning+kit&tag=errorcodefixes-20)
-- [Manitowoc water filter cartridge](https://www.amazon.com/s?k=Manitowoc+water+filter+cartridge&tag=errorcodefixes-20)
-- [Ice machine descaler](https://www.amazon.com/s?k=ice+machine+descaler&tag=errorcodefixes-20)
+- [Condenser coil cleaning kit](https://www.amazon.com/s?i=industrial&k=condenser+coil+cleaning+kit&tag=errorcodefixes-20)
+- [Manitowoc water filter cartridge](https://www.amazon.com/s?i=industrial&k=Manitowoc+water+filter+cartridge&tag=errorcodefixes-20)
+- [Ice machine descaler](https://www.amazon.com/s?i=industrial&k=ice+machine+descaler&tag=errorcodefixes-20)
 - [Manitowoc water inlet valve](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20)
-- [Water distribution tube](https://www.amazon.com/s?k=ice+machine+water+distribution+tube&tag=errorcodefixes-20)
+- [Water distribution tube](https://www.amazon.com/s?i=industrial&k=ice+machine+water+distribution+tube&tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

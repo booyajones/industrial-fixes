@@ -36,9 +36,9 @@ The E1 code on Beverage-Air commercial refrigerators signals a probe fault — t
 
 | Part | Notes |
 |------|-------|
-| NTC temperature probe | [Amazon](https://www.amazon.com/s?k=NTC+temperature+probe&tag=errorcodefixes-20) \| Use OEM or exact resistance spec match |
-| Probe wire harness | [Amazon](https://www.amazon.com/s?k=Probe+wire+harness&tag=errorcodefixes-20) \| If wire is damaged beyond the probe itself |
-| Electronic controller board | [Amazon](https://www.amazon.com/s?k=Electronic+controller+board&tag=errorcodefixes-20) \| Last resort if probe/wire test good |
+| NTC temperature probe | [Amazon](https://www.amazon.com/s?i=industrial&k=NTC+temperature+probe&tag=errorcodefixes-20) \| Use OEM or exact resistance spec match |
+| Probe wire harness | [Amazon](https://www.amazon.com/s?i=industrial&k=Probe+wire+harness&tag=errorcodefixes-20) \| If wire is damaged beyond the probe itself |
+| Electronic controller board | [Amazon](https://www.amazon.com/s?i=industrial&k=Electronic+controller+board&tag=errorcodefixes-20) \| Last resort if probe/wire test good |
 ## When to Call a Pro
 
 Controller board replacement may require calibration or programming depending on the model. A Beverage-Air authorized tech should handle board-level repairs.

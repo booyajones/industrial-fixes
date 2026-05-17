@@ -42,8 +42,8 @@ Check oil level first. Then check the oil filter — a clogged filter on initial
 
 | Part | Notes |
 |------|-------|
-| Oil separator element | [Amazon](https://www.amazon.com/s?k=Oil+separator+element&tag=errorcodefixes-20) \| Main periodic wear item |
-| Oil filter | [Amazon](https://www.amazon.com/s?k=Oil+filter&tag=errorcodefixes-20) \| Replace with separator service |
+| Oil separator element | [Amazon](https://www.amazon.com/s?i=industrial&k=Oil+separator+element&tag=errorcodefixes-20) \| Main periodic wear item |
+| Oil filter | [Amazon](https://www.amazon.com/s?i=industrial&k=Oil+filter&tag=errorcodefixes-20) \| Replace with separator service |
 | Temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Common after heat cycling |
 | Cooling fan contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Check on temp-related faults |
 ## Jump to Fix

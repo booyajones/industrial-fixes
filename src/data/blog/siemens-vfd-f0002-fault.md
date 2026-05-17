@@ -93,11 +93,11 @@ After making parameter changes or hardware modifications:
 
 | Part | Why | Approx. Cost |
 |------|-----|-------------|
-| [Dynamic braking resistor (size-matched to drive)](https://www.amazon.com/s?k=Dynamic+braking+resistor+%28size-matched+to+drive%29&tag=errorcodefixes-20) | Dissipate regenerative energy — high inertia loads | $80–$400 |
-| [Input line reactor (3–5% impedance)](https://www.amazon.com/s?k=Input+line+reactor+%283%E2%80%935%25+impedance%29&tag=errorcodefixes-20) | Protect against line transients causing F0002 | $100–$400 |
-| [Siemens BOP-2 operator panel](https://www.amazon.com/s?k=Siemens+BOP-2+operator+panel&tag=errorcodefixes-20) | Access/change parameters if no panel present | $80–$150 |
-| [Surge protection / MOV filter](https://www.amazon.com/s?k=Surge+protection+%2F+MOV+filter&tag=errorcodefixes-20) | Protect against utility voltage spikes | $50–$200 |
-| [Replacement SINAMICS G120 Power Module](https://www.amazon.com/s?k=Replacement+SINAMICS+G120+Power+Module&tag=errorcodefixes-20) | Drive failure after repeated F0002 trips (rare) | $400–$2,000+ |
+| [Dynamic braking resistor (size-matched to drive)](https://www.amazon.com/s?i=industrial&k=Dynamic+braking+resistor+%28size-matched+to+drive%29&tag=errorcodefixes-20) | Dissipate regenerative energy — high inertia loads | $80–$400 |
+| [Input line reactor (3–5% impedance)](https://www.amazon.com/s?i=industrial&k=Input+line+reactor+%283%E2%80%935%25+impedance%29&tag=errorcodefixes-20) | Protect against line transients causing F0002 | $100–$400 |
+| [Siemens BOP-2 operator panel](https://www.amazon.com/s?i=industrial&k=Siemens+BOP-2+operator+panel&tag=errorcodefixes-20) | Access/change parameters if no panel present | $80–$150 |
+| [Surge protection / MOV filter](https://www.amazon.com/s?i=industrial&k=Surge+protection+%2F+MOV+filter&tag=errorcodefixes-20) | Protect against utility voltage spikes | $50–$200 |
+| [Replacement SINAMICS G120 Power Module](https://www.amazon.com/s?i=industrial&k=Replacement+SINAMICS+G120+Power+Module&tag=errorcodefixes-20) | Drive failure after repeated F0002 trips (rare) | $400–$2,000+ |
 
 For braking resistors, Siemens part numbers follow the pattern **6SE6400-4BD...-...**. Match the resistance value and wattage to your drive's kW rating using the selection table in the G120 Hardware Installation Manual (available free at support.industry.siemens.com).
 

@@ -39,8 +39,8 @@ Fujimak is a Japanese commercial foodservice equipment brand whose dishwashers a
 
 | Part | Notes |
 |------|-------|
-| Booster heater element | [Amazon](https://www.amazon.com/s?k=Booster+heater+element&tag=errorcodefixes-20) \| For E4/E6 temperature faults |
-| Pump motor | [Amazon](https://www.amazon.com/s?k=Pump+motor&tag=errorcodefixes-20) \| For E5 — match voltage and HP |
+| Booster heater element | [Amazon](https://www.amazon.com/s?i=industrial&k=Booster+heater+element&tag=errorcodefixes-20) \| For E4/E6 temperature faults |
+| Pump motor | [Amazon](https://www.amazon.com/s?i=industrial&k=Pump+motor&tag=errorcodefixes-20) \| For E5 — match voltage and HP |
 | Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| For E1 |
 ## When to Call a Pro
 

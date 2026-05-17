@@ -36,9 +36,9 @@ Danfoss VFD fault OL (Motor Overload) indicates that the drive's electronic ther
 
 | Part | Notes |
 |------|-------|
-| Larger frame motor | [Amazon](https://www.amazon.com/s?k=Larger+frame+motor&tag=errorcodefixes-20) \| Required if load genuinely exceeds motor rating |
-| Load-side bearings or impeller | [Amazon](https://www.amazon.com/s?k=Load-side+bearings+or+impeller&tag=errorcodefixes-20) \| Clean or replace if mechanical drag is the root cause |
-| Motor PTC thermistor | [Amazon](https://www.amazon.com/s?k=Motor+PTC+thermistor&tag=errorcodefixes-20) \| Wire into the drive's thermistor input for actual motor temperature feedback |
+| Larger frame motor | [Amazon](https://www.amazon.com/s?i=industrial&k=Larger+frame+motor&tag=errorcodefixes-20) \| Required if load genuinely exceeds motor rating |
+| Load-side bearings or impeller | [Amazon](https://www.amazon.com/s?i=industrial&k=Load-side+bearings+or+impeller&tag=errorcodefixes-20) \| Clean or replace if mechanical drag is the root cause |
+| Motor PTC thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+PTC+thermistor&tag=errorcodefixes-20) \| Wire into the drive's thermistor input for actual motor temperature feedback |
 ## When to Call a Pro
 
 If the motor current is within nameplate rating, parameters are correct, and OL trips anyway, the motor may have developing insulation problems that reduce effective winding cross-section and increase running temperature. A motor insulation test and current analysis by an electrical contractor will confirm this.

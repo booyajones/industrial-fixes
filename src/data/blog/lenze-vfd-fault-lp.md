@@ -37,7 +37,7 @@ Lenze fault **LP** (Phase Loss) indicates the drive detected a missing or severe
 
 | Part | Notes |
 |------|-------|
-| Input fuses | [Amazon](https://www.amazon.com/s?k=Input+fuses&tag=errorcodefixes-20) \| Match voltage, amperage, and fuse class exactly (often aR or gG type on European drives) |
+| Input fuses | [Amazon](https://www.amazon.com/s?i=industrial&k=Input+fuses&tag=errorcodefixes-20) \| Match voltage, amperage, and fuse class exactly (often aR or gG type on European drives) |
 | Input line contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| If contact burning is confirmed; match coil voltage and current rating |
 ## When to Call a Pro
 

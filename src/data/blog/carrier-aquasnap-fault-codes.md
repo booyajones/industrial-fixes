@@ -54,8 +54,8 @@ The i-Vue touchscreen shows alarm icons in the top bar. Tap the icon to see faul
 | Part | Notes |
 |------|-------|
 | Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Replace on A2 high pressure faults |
-| Flow switch | [Amazon](https://www.amazon.com/s?k=Flow+switch&tag=errorcodefixes-20) \| Replace on repeated A6 faults |
-| Refrigerant charge | [Amazon](https://www.amazon.com/s?k=Refrigerant+charge&tag=errorcodefixes-20) \| After leak repair |
+| Flow switch | [Amazon](https://www.amazon.com/s?i=industrial&k=Flow+switch&tag=errorcodefixes-20) \| Replace on repeated A6 faults |
+| Refrigerant charge | [Amazon](https://www.amazon.com/s?i=industrial&k=Refrigerant+charge&tag=errorcodefixes-20) \| After leak repair |
 | High pressure switch | [Amazon](https://www.amazon.com/dp/B013IHQ8CU?tag=errorcodefixes-20) \| Replace if repeatedly tripping |
 ## Jump to Fix
 

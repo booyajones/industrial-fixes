@@ -108,9 +108,9 @@ If the outdoor coil is heavily iced over, heat transfer essentially stops. The h
 ## Parts You May Need
 
 - [Defrost control board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20)
-- [Reversing valve solenoid coil](https://www.amazon.com/s?k=reversing+valve+solenoid+coil&tag=errorcodefixes-20)
-- [Outdoor unit coil cleaner](https://www.amazon.com/s?k=coil+cleaner+spray&tag=errorcodefixes-20)
-- [Thermostat batteries](https://www.amazon.com/s?k=thermostat+batteries&tag=errorcodefixes-20)
+- [Reversing valve solenoid coil](https://www.amazon.com/s?i=industrial&k=reversing+valve+solenoid+coil&tag=errorcodefixes-20)
+- [Outdoor unit coil cleaner](https://www.amazon.com/s?i=industrial&k=coil+cleaner+spray&tag=errorcodefixes-20)
+- [Thermostat batteries](https://www.amazon.com/s?i=industrial&k=thermostat+batteries&tag=errorcodefixes-20)
 
 ---
 

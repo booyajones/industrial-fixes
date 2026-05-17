@@ -70,8 +70,8 @@ Daikin discharge temperature sensors are typically NTC thermistors:
 | Part | Notes |
 |---|---|
 | Discharge temperature sensor (Td) | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Daikin part 1634898 or model-specific equivalent |
-| Outdoor unit PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+unit+PCB&tag=errorcodefixes-20) \| Only replace if sensor and wiring check out |
-| Sensor clamp / bracket | [Amazon](https://www.amazon.com/s?k=Sensor+clamp+%2F+bracket&tag=errorcodefixes-20) \| Ensure full contact with discharge pipe |
+| Outdoor unit PCB | [Amazon](https://www.amazon.com/s?i=industrial&k=Outdoor+unit+PCB&tag=errorcodefixes-20) \| Only replace if sensor and wiring check out |
+| Sensor clamp / bracket | [Amazon](https://www.amazon.com/s?i=industrial&k=Sensor+clamp+%2F+bracket&tag=errorcodefixes-20) \| Ensure full contact with discharge pipe |
 ## Reset Procedure
 
 After replacing the sensor:

@@ -53,9 +53,9 @@ Fault 2201 is nearly always caused by something external to the drive — the mo
 
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|-------------|
-| ABB Output Reactor (dV/dt filter) | NOCH0100-61 (varies by A rating) | $80–$350 | [Amazon](https://www.amazon.com/s?k=NOCH0100-61+%28varies+by+A+rating%29+ABB+Output+Reactor+%28dV%2Fdt+filter%29&tag=errorcodefixes-20) \| ABB distributor / Automation Direct |
-| Motor (if insulation failed) | Match frame/HP/voltage | $200–$2000+ | [Amazon](https://www.amazon.com/s?k=Match+frame%2FHP%2Fvoltage+Motor+%28if+insulation+failed%29&tag=errorcodefixes-20) \| Grainger / motor repair shop |
-| Replacement ACS355 Drive | ACS355-03E-07A3-4 (varies) | $500–$1200 | [Amazon](https://www.amazon.com/s?k=ACS355-03E-07A3-4+%28varies%29+Replacement+ACS355+Drive&tag=errorcodefixes-20) \| ABB distributor |
+| ABB Output Reactor (dV/dt filter) | NOCH0100-61 (varies by A rating) | $80–$350 | [Amazon](https://www.amazon.com/s?i=industrial&k=NOCH0100-61+%28varies+by+A+rating%29+ABB+Output+Reactor+%28dV%2Fdt+filter%29&tag=errorcodefixes-20) \| ABB distributor / Automation Direct |
+| Motor (if insulation failed) | Match frame/HP/voltage | $200–$2000+ | [Amazon](https://www.amazon.com/s?i=industrial&k=Match+frame%2FHP%2Fvoltage+Motor+%28if+insulation+failed%29&tag=errorcodefixes-20) \| Grainger / motor repair shop |
+| Replacement ACS355 Drive | ACS355-03E-07A3-4 (varies) | $500–$1200 | [Amazon](https://www.amazon.com/s?i=industrial&k=ACS355-03E-07A3-4+%28varies%29+Replacement+ACS355+Drive&tag=errorcodefixes-20) \| ABB distributor |
 ## When to Call a Professional
 
 If fault 2201 appears during steady-state operation (not during acceleration) and the motor megger test is clean, the fault may originate from a load transient — a conveyor jam, pump cavitation, or compressor valve failure. These transient events require a power quality recorder or scope to catch in the act. An ABB-certified drive technician can set up the drive's built-in data logging (Fault Logger with pre-fault capture on ACS550 firmware versions that support it) to capture the waveform at the moment of trip. This data often pinpoints the exact cause within one site visit.

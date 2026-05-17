@@ -54,9 +54,9 @@ The Micrologic trip unit stores the last trip cause in memory. Press the MEASURE
 
 | Part | Notes |
 |------|-------|
-| Micrologic trip unit | [Amazon](https://www.amazon.com/s?k=Micrologic+trip+unit&tag=errorcodefixes-20) \| Replaceable without replacing breaker |
-| Auxiliary contact | [Amazon](https://www.amazon.com/s?k=Auxiliary+contact&tag=errorcodefixes-20) \| Adds trip signal to SCADA |
-| Shunt trip coil | [Amazon](https://www.amazon.com/s?k=Shunt+trip+coil&tag=errorcodefixes-20) \| Remote trip capability |
+| Micrologic trip unit | [Amazon](https://www.amazon.com/s?i=industrial&k=Micrologic+trip+unit&tag=errorcodefixes-20) \| Replaceable without replacing breaker |
+| Auxiliary contact | [Amazon](https://www.amazon.com/s?i=industrial&k=Auxiliary+contact&tag=errorcodefixes-20) \| Adds trip signal to SCADA |
+| Shunt trip coil | [Amazon](https://www.amazon.com/s?i=industrial&k=Shunt+trip+coil&tag=errorcodefixes-20) \| Remote trip capability |
 ## Jump to Fix
 
 - **Ir overload** → Measure current → Reduce load or adjust setting

@@ -22,14 +22,14 @@ E1 appears on Crown Bimini (BIMINI), Aruba (ARUBA), and Sentinel (PHNTM) condens
 
 ## What Causes E1
 
-| [Root Cause](https://www.amazon.com/s?k=Root+Cause&tag=errorcodefixes-20) | Signs |
+| [Root Cause](https://www.amazon.com/s?i=industrial&k=Root+Cause&tag=errorcodefixes-20) | Signs |
 |---|---|
-| [No gas supply](https://www.amazon.com/s?k=No+gas+supply&tag=errorcodefixes-20) | No click/no smell during startup |
-| [Failed igniter](https://www.amazon.com/s?k=Failed+igniter&tag=errorcodefixes-20) | No spark or no glow (check through view port) |
+| [No gas supply](https://www.amazon.com/s?i=industrial&k=No+gas+supply&tag=errorcodefixes-20) | No click/no smell during startup |
+| [Failed igniter](https://www.amazon.com/s?i=industrial&k=Failed+igniter&tag=errorcodefixes-20) | No spark or no glow (check through view port) |
 | [Failed flame sensor](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) | Flame lights, then immediately shuts off |
-| [Blocked condensate drain](https://www.amazon.com/s?k=Blocked+condensate+drain&tag=errorcodefixes-20) | Boiler attempts ignition but draft fault intervenes |
-| [Low gas pressure](https://www.amazon.com/s?k=Low+gas+pressure&tag=errorcodefixes-20) | Flame lights weakly, then drops out |
-| [Dirty burner](https://www.amazon.com/s?k=Dirty+burner&tag=errorcodefixes-20) | Delayed ignition, weak flame signal |
+| [Blocked condensate drain](https://www.amazon.com/s?i=industrial&k=Blocked+condensate+drain&tag=errorcodefixes-20) | Boiler attempts ignition but draft fault intervenes |
+| [Low gas pressure](https://www.amazon.com/s?i=industrial&k=Low+gas+pressure&tag=errorcodefixes-20) | Flame lights weakly, then drops out |
+| [Dirty burner](https://www.amazon.com/s?i=industrial&k=Dirty+burner&tag=errorcodefixes-20) | Delayed ignition, weak flame signal |
 | [Control board failure](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Random lockout with no clear cause |
 
 ## How to Reset E1 on Crown Boilers

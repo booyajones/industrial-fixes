@@ -70,7 +70,7 @@ The diagnosis starts with the cheapest and easiest fix then moves toward more in
 - [Furnace limit switch replacement](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20)
 - [Furnace pressure switch](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20)
 - [Blower motor run capacitor](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20)
-- [Condensate drain cleaning brush kit](https://www.amazon.com/s?k=HVAC+condensate+drain+brush+kit&tag=errorcodefixes-20)
+- [Condensate drain cleaning brush kit](https://www.amazon.com/s?i=industrial&k=HVAC+condensate+drain+brush+kit&tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

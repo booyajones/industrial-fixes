@@ -19,7 +19,7 @@ The **OC fault** on the Yaskawa A1000 high-performance vector drive means output
 
 ## A1000 OC Fault Variants
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Phase | Description |
+| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Phase | Description |
 |---|---|---|
 | OCA | Acceleration | Overcurrent during speed ramp-up |
 | OCb | Deceleration | Overcurrent during speed ramp-down |
@@ -36,13 +36,13 @@ The **OC fault** on the Yaskawa A1000 high-performance vector drive means output
 
 | Cause | Fault Variant | Likelihood |
 |---|---|---|
-| [Acceleration ramp too aggressive](https://www.amazon.com/s?k=Acceleration+ramp+too+aggressive&tag=errorcodefixes-20) | OCA | Very High |
-| [Mechanical load jam or seized bearing](https://www.amazon.com/s?k=Mechanical+load+jam+or+seized+bearing&tag=errorcodefixes-20) | OCC | High |
-| [Deceleration ramp too fast (high inertia load)](https://www.amazon.com/s?k=Deceleration+ramp+too+fast+%28high+inertia+load%29&tag=errorcodefixes-20) | OCb | High |
-| [Incorrect V/f or vector control tuning](https://www.amazon.com/s?k=Incorrect+V%2Ff+or+vector+control+tuning&tag=errorcodefixes-20) | OCA | Medium |
-| [Short circuit in motor cable or motor](https://www.amazon.com/s?k=Short+circuit+in+motor+cable+or+motor&tag=errorcodefixes-20) | OCA / OC | Medium |
-| [Failed output IGBT](https://www.amazon.com/s?k=Failed+output+IGBT&tag=errorcodefixes-20) | OCA | Medium |
-| [Load demand spike (starting against back-pressure)](https://www.amazon.com/s?k=Load+demand+spike+%28starting+against+back-pressure%29&tag=errorcodefixes-20) | OCA | Medium |
+| [Acceleration ramp too aggressive](https://www.amazon.com/s?i=industrial&k=Acceleration+ramp+too+aggressive&tag=errorcodefixes-20) | OCA | Very High |
+| [Mechanical load jam or seized bearing](https://www.amazon.com/s?i=industrial&k=Mechanical+load+jam+or+seized+bearing&tag=errorcodefixes-20) | OCC | High |
+| [Deceleration ramp too fast (high inertia load)](https://www.amazon.com/s?i=industrial&k=Deceleration+ramp+too+fast+%28high+inertia+load%29&tag=errorcodefixes-20) | OCb | High |
+| [Incorrect V/f or vector control tuning](https://www.amazon.com/s?i=industrial&k=Incorrect+V%2Ff+or+vector+control+tuning&tag=errorcodefixes-20) | OCA | Medium |
+| [Short circuit in motor cable or motor](https://www.amazon.com/s?i=industrial&k=Short+circuit+in+motor+cable+or+motor&tag=errorcodefixes-20) | OCA / OC | Medium |
+| [Failed output IGBT](https://www.amazon.com/s?i=industrial&k=Failed+output+IGBT&tag=errorcodefixes-20) | OCA | Medium |
+| [Load demand spike (starting against back-pressure)](https://www.amazon.com/s?i=industrial&k=Load+demand+spike+%28starting+against+back-pressure%29&tag=errorcodefixes-20) | OCA | Medium |
 
 ## Step-by-Step Diagnosis {#diagnosis}
 
@@ -76,24 +76,24 @@ Check the A1000 fault log (U2-01 through U2-10 store recent faults with conditio
 
 ## Key A1000 Parameters for OC Faults
 
-| [Parameter](https://www.amazon.com/s?k=Parameter&tag=errorcodefixes-20) | Function | OC-Relevant Setting |
+| [Parameter](https://www.amazon.com/s?i=industrial&k=Parameter&tag=errorcodefixes-20) | Function | OC-Relevant Setting |
 |---|---|---|
-| [C1-01](https://www.amazon.com/s?k=C1-01&tag=errorcodefixes-20) | Acceleration Time 1 | Increase for OCA |
-| [C1-02](https://www.amazon.com/s?k=C1-02&tag=errorcodefixes-20) | Deceleration Time 1 | Increase for OCb |
-| [L3-01](https://www.amazon.com/s?k=L3-01&tag=errorcodefixes-20) | Stall Prevention — acceleration | 1 (enabled) for variable loads |
-| [L3-04](https://www.amazon.com/s?k=L3-04&tag=errorcodefixes-20) | Stall Prevention — constant speed | 1 (enabled) |
-| [L3-06](https://www.amazon.com/s?k=L3-06&tag=errorcodefixes-20) | Stall Prevention — deceleration | Adjust for high-inertia loads |
-| [E1-01](https://www.amazon.com/s?k=E1-01&tag=errorcodefixes-20) | Input voltage setting | Must match actual supply |
-| [T1-01](https://www.amazon.com/s?k=T1-01&tag=errorcodefixes-20) | Auto-tune selection | Run after new motor or OC fault |
+| [C1-01](https://www.amazon.com/s?i=industrial&k=C1-01&tag=errorcodefixes-20) | Acceleration Time 1 | Increase for OCA |
+| [C1-02](https://www.amazon.com/s?i=industrial&k=C1-02&tag=errorcodefixes-20) | Deceleration Time 1 | Increase for OCb |
+| [L3-01](https://www.amazon.com/s?i=industrial&k=L3-01&tag=errorcodefixes-20) | Stall Prevention — acceleration | 1 (enabled) for variable loads |
+| [L3-04](https://www.amazon.com/s?i=industrial&k=L3-04&tag=errorcodefixes-20) | Stall Prevention — constant speed | 1 (enabled) |
+| [L3-06](https://www.amazon.com/s?i=industrial&k=L3-06&tag=errorcodefixes-20) | Stall Prevention — deceleration | Adjust for high-inertia loads |
+| [E1-01](https://www.amazon.com/s?i=industrial&k=E1-01&tag=errorcodefixes-20) | Input voltage setting | Must match actual supply |
+| [T1-01](https://www.amazon.com/s?i=industrial&k=T1-01&tag=errorcodefixes-20) | Auto-tune selection | Run after new motor or OC fault |
 
 ## A1000 vs V1000 OC Comparison
 
-| [Feature](https://www.amazon.com/s?k=Feature&tag=errorcodefixes-20) | V1000 | A1000 |
+| [Feature](https://www.amazon.com/s?i=industrial&k=Feature&tag=errorcodefixes-20) | V1000 | A1000 |
 |---|---|---|
-| [Frame size](https://www.amazon.com/s?k=Frame+size&tag=errorcodefixes-20) | 0.5–20 HP | 1–600+ HP |
-| [Torque control](https://www.amazon.com/s?k=Torque+control&tag=errorcodefixes-20) | V/f + Basic closed loop | Full closed-loop vector |
-| [OC trip level](https://www.amazon.com/s?k=OC+trip+level&tag=errorcodefixes-20) | 200% rated | 200% rated |
-| [Braking resistor](https://www.amazon.com/s?k=Braking+resistor&tag=errorcodefixes-20) | Optional | Standard on most frames |
+| [Frame size](https://www.amazon.com/s?i=industrial&k=Frame+size&tag=errorcodefixes-20) | 0.5–20 HP | 1–600+ HP |
+| [Torque control](https://www.amazon.com/s?i=industrial&k=Torque+control&tag=errorcodefixes-20) | V/f + Basic closed loop | Full closed-loop vector |
+| [OC trip level](https://www.amazon.com/s?i=industrial&k=OC+trip+level&tag=errorcodefixes-20) | 200% rated | 200% rated |
+| [Braking resistor](https://www.amazon.com/s?i=industrial&k=Braking+resistor&tag=errorcodefixes-20) | Optional | Standard on most frames |
 
 > **Pro tip:** The A1000 supports S-curve acceleration (C2-01 through C2-04) which smooths the ramp profile. Enabling S-curve significantly reduces OCA faults on applications with high starting torque requirements like conveyors or compressors.
 

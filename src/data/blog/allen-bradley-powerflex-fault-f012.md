@@ -36,9 +36,9 @@ Allen-Bradley PowerFlex fault F012 is an output phase-to-phase overcurrent fault
 
 | Part | Notes |
 |------|-------|
-| Motor (replacement) | [Amazon](https://www.amazon.com/s?k=Motor+%28replacement%29&tag=errorcodefixes-20) \| If winding short is confirmed; compare repair cost vs. replacement |
-| Output cable | [Amazon](https://www.amazon.com/s?k=Output+cable&tag=errorcodefixes-20) \| Replace complete run if cable short is found |
-| Drive output power module | [Amazon](https://www.amazon.com/s?k=Drive+output+power+module&tag=errorcodefixes-20) \| If drive's internal current sensing or IGBT triggered incorrectly; verify externally first |
+| Motor (replacement) | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+%28replacement%29&tag=errorcodefixes-20) \| If winding short is confirmed; compare repair cost vs. replacement |
+| Output cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Output+cable&tag=errorcodefixes-20) \| Replace complete run if cable short is found |
+| Drive output power module | [Amazon](https://www.amazon.com/s?i=industrial&k=Drive+output+power+module&tag=errorcodefixes-20) \| If drive's internal current sensing or IGBT triggered incorrectly; verify externally first |
 ## When to Call a Pro
 
 If the drive itself trips F012 with nothing connected to the output terminals, the fault is internal to the drive's power electronics. This requires a Rockwell-authorized service technician or a drive repair depot — do not attempt to clear this condition by parameter adjustment.

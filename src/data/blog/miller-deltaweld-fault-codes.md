@@ -43,10 +43,10 @@ Wire feeder motor failure or obstruction. Check the wire path for kinks, bird-ne
 
 | Part | Notes |
 |------|-------|
-| MIG gun / cable | [Amazon](https://www.amazon.com/s?k=MIG+gun+%2F+cable&tag=errorcodefixes-20) \| For A1 if internal fault found |
-| Wire drive rolls | [Amazon](https://www.amazon.com/s?k=Wire+drive+rolls&tag=errorcodefixes-20) \| Replace if worn and slipping |
-| Wire feeder motor | [Amazon](https://www.amazon.com/s?k=Wire+feeder+motor&tag=errorcodefixes-20) \| For F1 if motor failed |
-| Cooling fan assembly | [Amazon](https://www.amazon.com/s?k=Cooling+fan+assembly&tag=errorcodefixes-20) \| For recurring H1 from failed fan |
+| MIG gun / cable | [Amazon](https://www.amazon.com/s?i=industrial&k=MIG+gun+%2F+cable&tag=errorcodefixes-20) \| For A1 if internal fault found |
+| Wire drive rolls | [Amazon](https://www.amazon.com/s?i=industrial&k=Wire+drive+rolls&tag=errorcodefixes-20) \| Replace if worn and slipping |
+| Wire feeder motor | [Amazon](https://www.amazon.com/s?i=industrial&k=Wire+feeder+motor&tag=errorcodefixes-20) \| For F1 if motor failed |
+| Cooling fan assembly | [Amazon](https://www.amazon.com/s?i=industrial&k=Cooling+fan+assembly&tag=errorcodefixes-20) \| For recurring H1 from failed fan |
 ## When to Call a Pro
 
 Deltaweld internal component replacement (IGBT modules, control boards) requires Miller authorized service.

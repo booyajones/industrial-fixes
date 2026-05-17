@@ -68,9 +68,9 @@ The water curtain (the plastic flap that prevents ice from sliding into the bin 
 
 | Part | Notes |
 |------|-------|
-| Water filter | [Amazon](https://www.amazon.com/s?k=Water+filter&tag=errorcodefixes-20) \| Mandatory 6-month replacement |
-| Curtain switch | [Amazon](https://www.amazon.com/s?k=Curtain+switch&tag=errorcodefixes-20) \| Inspect on E-05 / 5 blink faults |
-| Harvest heater | [Amazon](https://www.amazon.com/s?k=Harvest+heater&tag=errorcodefixes-20) \| Replace on long harvest faults |
+| Water filter | [Amazon](https://www.amazon.com/s?i=industrial&k=Water+filter&tag=errorcodefixes-20) \| Mandatory 6-month replacement |
+| Curtain switch | [Amazon](https://www.amazon.com/s?i=industrial&k=Curtain+switch&tag=errorcodefixes-20) \| Inspect on E-05 / 5 blink faults |
+| Harvest heater | [Amazon](https://www.amazon.com/s?i=industrial&k=Harvest+heater&tag=errorcodefixes-20) \| Replace on long harvest faults |
 | Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Check on high ambient temp faults |
 ## Jump to Fix
 

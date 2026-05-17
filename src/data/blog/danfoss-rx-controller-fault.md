@@ -50,10 +50,10 @@ If the controller does not see the coil warm up during defrost, it alarms on def
 
 | Part | Notes |
 |------|-------|
-| Room probe | [Amazon](https://www.amazon.com/s?k=Room+probe&tag=errorcodefixes-20) \| Replace on E1 alarms |
-| Evaporator probe | [Amazon](https://www.amazon.com/s?k=Evaporator+probe&tag=errorcodefixes-20) \| Replace on E2 or defrost alarms |
+| Room probe | [Amazon](https://www.amazon.com/s?i=industrial&k=Room+probe&tag=errorcodefixes-20) \| Replace on E1 alarms |
+| Evaporator probe | [Amazon](https://www.amazon.com/s?i=industrial&k=Evaporator+probe&tag=errorcodefixes-20) \| Replace on E2 or defrost alarms |
 | Defrost heater | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) \| Replace if open on ohm check |
-| Door switch | [Amazon](https://www.amazon.com/s?k=Door+switch&tag=errorcodefixes-20) \| Replace on repeated DO alarms |
+| Door switch | [Amazon](https://www.amazon.com/s?i=industrial&k=Door+switch&tag=errorcodefixes-20) \| Replace on repeated DO alarms |
 ## Jump to Fix
 
 - **E1** → Check probe connection → Measure resistance → Replace sensor

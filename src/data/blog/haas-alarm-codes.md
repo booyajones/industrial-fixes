@@ -73,10 +73,10 @@ The spindle encoder is not providing a clean signal. Check the encoder cable con
 
 | Part | Notes |
 |------|-------|
-| Way lube oil | [Amazon](https://www.amazon.com/s?k=Way+lube+oil&tag=errorcodefixes-20) \| Mobil Vactra No. 2 (ISO 68) — 1 gallon |
-| Spindle encoder coupling | [Amazon](https://www.amazon.com/s?k=Spindle+encoder+coupling&tag=errorcodefixes-20) \| Haas P/N for flexible disc coupling |
-| ATC arm sensor | [Amazon](https://www.amazon.com/s?k=ATC+arm+sensor&tag=errorcodefixes-20) \| Proximity switch for arm home position |
-| E-stop relay | [Amazon](https://www.amazon.com/s?k=E-stop+relay&tag=errorcodefixes-20) \| Safety relay in control cabinet |
+| Way lube oil | [Amazon](https://www.amazon.com/s?i=industrial&k=Way+lube+oil&tag=errorcodefixes-20) \| Mobil Vactra No. 2 (ISO 68) — 1 gallon |
+| Spindle encoder coupling | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+encoder+coupling&tag=errorcodefixes-20) \| Haas P/N for flexible disc coupling |
+| ATC arm sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=ATC+arm+sensor&tag=errorcodefixes-20) \| Proximity switch for arm home position |
+| E-stop relay | [Amazon](https://www.amazon.com/s?i=industrial&k=E-stop+relay&tag=errorcodefixes-20) \| Safety relay in control cabinet |
 ## When to Call a Pro
 Alarms 108, 111–114 (servo faults on any axis) that persist after a power cycle indicate servo drive or motor issues that require Haas factory service or a Haas certified technician to diagnose. Haas provides phone support 24/7 for production-down situations.
 

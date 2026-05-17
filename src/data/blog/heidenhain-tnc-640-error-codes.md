@@ -51,10 +51,10 @@ The Heidenhain TNC 640 is a premium CNC control used on advanced 5-axis milling 
 
 | Part | Notes |
 |---|---|
-| Encoder cable | [Amazon](https://www.amazon.com/s?k=Encoder+cable&tag=errorcodefixes-20) \| Common wear/failure item |
-| Reference switch | [Amazon](https://www.amazon.com/s?k=Reference+switch&tag=errorcodefixes-20) \| For repeated homing issues |
-| Control power supply | [Amazon](https://www.amazon.com/s?k=Control+power+supply&tag=errorcodefixes-20) \| For unstable control voltage |
-| Drive module | [Amazon](https://www.amazon.com/s?k=Drive+module&tag=errorcodefixes-20) \| Only after connector and supply checks |
+| Encoder cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+cable&tag=errorcodefixes-20) \| Common wear/failure item |
+| Reference switch | [Amazon](https://www.amazon.com/s?i=industrial&k=Reference+switch&tag=errorcodefixes-20) \| For repeated homing issues |
+| Control power supply | [Amazon](https://www.amazon.com/s?i=industrial&k=Control+power+supply&tag=errorcodefixes-20) \| For unstable control voltage |
+| Drive module | [Amazon](https://www.amazon.com/s?i=industrial&k=Drive+module&tag=errorcodefixes-20) \| Only after connector and supply checks |
 ## When to Call a Pro
 
 The TNC 640 is usually found on expensive multi-axis equipment. Persistent drive and encoder faults should go to a Heidenhain-trained technician or the machine builder, especially if machine geometry or kinematics are involved.

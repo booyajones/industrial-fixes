@@ -47,11 +47,11 @@ Mitsubishi gearless machines use dual electromagnetic brakes. Each brake has a m
 
 | Part | Notes |
 |------|-------|
-| Door contact (dual-channel) | [Amazon](https://www.amazon.com/s?k=Door+contact+%28dual-channel%29&tag=errorcodefixes-20) \| Replace when worn |
-| Door operator card | [Amazon](https://www.amazon.com/s?k=Door+operator+card&tag=errorcodefixes-20) \| Replace on door logic fault |
-| Brake monitoring switch | [Amazon](https://www.amazon.com/s?k=Brake+monitoring+switch&tag=errorcodefixes-20) \| Replace on brake fault |
-| FR-series inverter board | [Amazon](https://www.amazon.com/s?k=FR-series+inverter+board&tag=errorcodefixes-20) \| Replace on persistent E-faults |
-| Encoder | [Amazon](https://www.amazon.com/s?k=Encoder&tag=errorcodefixes-20) \| Replace on encoder fault |
+| Door contact (dual-channel) | [Amazon](https://www.amazon.com/s?i=industrial&k=Door+contact+%28dual-channel%29&tag=errorcodefixes-20) \| Replace when worn |
+| Door operator card | [Amazon](https://www.amazon.com/s?i=industrial&k=Door+operator+card&tag=errorcodefixes-20) \| Replace on door logic fault |
+| Brake monitoring switch | [Amazon](https://www.amazon.com/s?i=industrial&k=Brake+monitoring+switch&tag=errorcodefixes-20) \| Replace on brake fault |
+| FR-series inverter board | [Amazon](https://www.amazon.com/s?i=industrial&k=FR-series+inverter+board&tag=errorcodefixes-20) \| Replace on persistent E-faults |
+| Encoder | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder&tag=errorcodefixes-20) \| Replace on encoder fault |
 ## When to Call a Pro
 **Mitsubishi elevator systems require licensed elevator mechanics.** MELTRAC software and programming are proprietary to Mitsubishi Electric authorized service personnel. Never bypass safety circuits or ignore UCM faults.
 

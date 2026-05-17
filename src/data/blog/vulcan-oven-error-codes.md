@@ -47,7 +47,7 @@ The control board lost communication with a connected module. Power cycle. If E5
 | Part | Notes |
 |------|-------|
 | Temperature sensor / thermocouple | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Match to Vulcan oven model |
-| Igniter assembly | [Amazon](https://www.amazon.com/s?k=Igniter+assembly&tag=errorcodefixes-20) \| For E3 on gas units |
+| Igniter assembly | [Amazon](https://www.amazon.com/s?i=industrial&k=Igniter+assembly&tag=errorcodefixes-20) \| For E3 on gas units |
 | Convection fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| For E4 |
 ## When to Call a Pro
 

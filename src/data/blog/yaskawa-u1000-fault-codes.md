@@ -54,9 +54,9 @@ Matrix drives are sensitive to ground faults due to the direct AC-to-AC conversi
 
 | Part | Notes |
 |------|-------|
-| Cooling fan | [Amazon](https://www.amazon.com/s?k=Cooling+fan&tag=errorcodefixes-20) \| Match U1000 frame size |
+| Cooling fan | [Amazon](https://www.amazon.com/s?i=industrial&k=Cooling+fan&tag=errorcodefixes-20) \| Match U1000 frame size |
 | Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Contact Yaskawa before ordering |
-| Input filter | [Amazon](https://www.amazon.com/s?k=Input+filter&tag=errorcodefixes-20) \| Required for matrix drive installations |
+| Input filter | [Amazon](https://www.amazon.com/s?i=industrial&k=Input+filter&tag=errorcodefixes-20) \| Required for matrix drive installations |
 | Bypass contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| For maintenance bypass configurations |
 > **Pro tip:** Yaskawa U1000 drive data can be monitored via DriveWizard Industrial software. Connect via USB or DeviceNet to log operating parameters and fault data. Always perform a motor auto-tune after any parameter reset.
 

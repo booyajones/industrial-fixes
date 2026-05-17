@@ -36,8 +36,8 @@ LG error code CH01 (also displayed as "C1" or "CH 01") means the indoor unit roo
 
 | Part | Notes |
 |------|-------|
-| LG indoor thermistor (room temp) | [Amazon](https://www.amazon.com/s?k=LG+indoor+thermistor+%28room+temp%29&tag=errorcodefixes-20) \| LG part 6615A20042A or equivalent; confirm for your model series |
-| Contact cleaner | [Amazon](https://www.amazon.com/s?k=Contact+cleaner&tag=errorcodefixes-20) \| For connector maintenance |
+| LG indoor thermistor (room temp) | [Amazon](https://www.amazon.com/s?i=industrial&k=LG+indoor+thermistor+%28room+temp%29&tag=errorcodefixes-20) \| LG part 6615A20042A or equivalent; confirm for your model series |
+| Contact cleaner | [Amazon](https://www.amazon.com/s?i=industrial&k=Contact+cleaner&tag=errorcodefixes-20) \| For connector maintenance |
 | Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| If sensor tests good and fault persists |
 ## When to Call a Pro
 

@@ -61,11 +61,11 @@ If the system is not acting normally, here are the common failure points.
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
 | [Heat Pump Defrost Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Replaces a failed board that starts defrost at the wrong time or will not exit the cycle | $60–$150 |
-| [Defrost Thermostat Clip Sensor](https://www.amazon.com/s?k=heat+pump+defrost+thermostat+clip&tag=errorcodefixes-20) | Replaces a faulty coil sensor that cannot detect frost conditions correctly | $10–$25 |
-| [Reversing Valve Solenoid 24V](https://www.amazon.com/s?k=heat+pump+reversing+valve+solenoid+24v&tag=errorcodefixes-20) | Fixes a valve coil that will not energize during heat or defrost mode | $20–$45 |
+| [Defrost Thermostat Clip Sensor](https://www.amazon.com/s?i=industrial&k=heat+pump+defrost+thermostat+clip&tag=errorcodefixes-20) | Replaces a faulty coil sensor that cannot detect frost conditions correctly | $10–$25 |
+| [Reversing Valve Solenoid 24V](https://www.amazon.com/s?i=industrial&k=heat+pump+reversing+valve+solenoid+24v&tag=errorcodefixes-20) | Fixes a valve coil that will not energize during heat or defrost mode | $20–$45 |
 | [Outdoor Fan Motor for Heat Pump](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) | Replaces a failed condenser fan motor that prevents proper airflow and defrost recovery | $70–$180 |
 | [HVAC Air Filter Pleated 1 Inch](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) | Restores indoor airflow and helps keep coil temperatures in the proper range | $15–$40 |
-| [Heat Pump Condenser Pad Riser](https://www.amazon.com/s?k=heat+pump+condenser+pad+riser&tag=errorcodefixes-20) | Helps lift the unit above standing water or refreezing ice in snowy climates | $40–$120 |
+| [Heat Pump Condenser Pad Riser](https://www.amazon.com/s?i=industrial&k=heat+pump+condenser+pad+riser&tag=errorcodefixes-20) | Helps lift the unit above standing water or refreezing ice in snowy climates | $40–$120 |
 
 ## When to Call a Pro
 

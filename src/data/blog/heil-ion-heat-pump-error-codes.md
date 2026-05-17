@@ -141,11 +141,11 @@ The discharge line temperature sensor detected abnormally high compressor discha
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
-| [Heat Pump Defrost Thermostat / Coil Sensor](https://www.amazon.com/s?k=heat+pump+defrost+thermostat+sensor&tag=errorcodefixes-20) | Fault 4 fix; controls defrost cycle initiation | $15–$45 |
-| [Reversing Valve Solenoid Coil 24V](https://www.amazon.com/s?k=reversing+valve+solenoid+coil+24v+heat+pump&tag=errorcodefixes-20) | Fault 10 fix; activates reversing valve switching | $20–$60 |
-| [ECM Blower Motor Module](https://www.amazon.com/s?k=ECM+blower+motor+module+replacement&tag=errorcodefixes-20) | Fault 7 fix; module-only replacement often cheaper than full motor | $80–$250 |
-| [18 AWG 2-Conductor Thermostat Wire](https://www.amazon.com/s?k=18+AWG+thermostat+wire+2+conductor&tag=errorcodefixes-20) | Fault 8 fix; replace damaged communication wiring | $15–$40 |
-| [HVAC Manifold Gauge Set R-410A](https://www.amazon.com/s?k=R410A+manifold+gauge+set+HVAC&tag=errorcodefixes-20) | Required for refrigerant pressure diagnosis | $45–$150 |
+| [Heat Pump Defrost Thermostat / Coil Sensor](https://www.amazon.com/s?i=industrial&k=heat+pump+defrost+thermostat+sensor&tag=errorcodefixes-20) | Fault 4 fix; controls defrost cycle initiation | $15–$45 |
+| [Reversing Valve Solenoid Coil 24V](https://www.amazon.com/s?i=industrial&k=reversing+valve+solenoid+coil+24v+heat+pump&tag=errorcodefixes-20) | Fault 10 fix; activates reversing valve switching | $20–$60 |
+| [ECM Blower Motor Module](https://www.amazon.com/s?i=industrial&k=ECM+blower+motor+module+replacement&tag=errorcodefixes-20) | Fault 7 fix; module-only replacement often cheaper than full motor | $80–$250 |
+| [18 AWG 2-Conductor Thermostat Wire](https://www.amazon.com/s?i=industrial&k=18+AWG+thermostat+wire+2+conductor&tag=errorcodefixes-20) | Fault 8 fix; replace damaged communication wiring | $15–$40 |
+| [HVAC Manifold Gauge Set R-410A](https://www.amazon.com/s?i=industrial&k=R410A+manifold+gauge+set+HVAC&tag=errorcodefixes-20) | Required for refrigerant pressure diagnosis | $45–$150 |
 
 ---
 

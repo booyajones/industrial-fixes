@@ -70,7 +70,7 @@ Rheem's Classic and Classic Plus furnaces (models R801T, R96V, R97V, R92P, and t
 | Part | Notes |
 |------|-------|
 | Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Rheem 62-22868-92 |
-| Hot-surface igniter | [Amazon](https://www.amazon.com/s?k=Hot-surface+igniter&tag=errorcodefixes-20) \| Rheem 62-23543-01 |
+| Hot-surface igniter | [Amazon](https://www.amazon.com/s?i=industrial&k=Hot-surface+igniter&tag=errorcodefixes-20) \| Rheem 62-23543-01 |
 | Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) \| Rheem AP14230C |
 | Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| 0.60" or 0.80" WC, model-specific |
 | Blower run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| 5–10 µF / 370V |

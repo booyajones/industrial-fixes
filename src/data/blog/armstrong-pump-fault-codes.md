@@ -52,9 +52,9 @@ System water pressure below minimum triggers dry run protection. Check fill pres
 
 | Part | Notes |
 |------|-------|
-| Drive assembly | [Amazon](https://www.amazon.com/s?k=Drive+assembly&tag=errorcodefixes-20) \| Armstrong-specific VFD — contact Armstrong |
-| Pressure sensor | [Amazon](https://www.amazon.com/s?k=Pressure+sensor&tag=errorcodefixes-20) \| Differential pressure transducer |
-| Motor seal kit | [Amazon](https://www.amazon.com/s?k=Motor+seal+kit&tag=errorcodefixes-20) \| Annual replacement on higher-flow models |
-| Impeller | [Amazon](https://www.amazon.com/s?k=Impeller&tag=errorcodefixes-20) \| Match pump model and size |
-| Y-strainer basket | [Amazon](https://www.amazon.com/s?k=Y-strainer+basket&tag=errorcodefixes-20) \| Clean or replace — prevents F11 and F12 |
+| Drive assembly | [Amazon](https://www.amazon.com/s?i=industrial&k=Drive+assembly&tag=errorcodefixes-20) \| Armstrong-specific VFD — contact Armstrong |
+| Pressure sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Pressure+sensor&tag=errorcodefixes-20) \| Differential pressure transducer |
+| Motor seal kit | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+seal+kit&tag=errorcodefixes-20) \| Annual replacement on higher-flow models |
+| Impeller | [Amazon](https://www.amazon.com/s?i=industrial&k=Impeller&tag=errorcodefixes-20) \| Match pump model and size |
+| Y-strainer basket | [Amazon](https://www.amazon.com/s?i=industrial&k=Y-strainer+basket&tag=errorcodefixes-20) \| Clean or replace — prevents F11 and F12 |
 > **Pro tip:** Armstrong Design Envelope pumps with Pump Manager technology log operational data. Register the pump with Armstrong Fluid Technology's cloud portal for remote monitoring, fault alerts, and efficiency trending accessible from any browser.

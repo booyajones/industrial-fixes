@@ -37,8 +37,8 @@ Rinnai error code 31 indicates a burner sensor (combustion chamber sensor or hea
 | Part | Notes |
 |------|-------|
 | Combustion chamber / burner temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Must match Rinnai model number — resistance curves vary |
-| Descaling solution (citric acid) | [Amazon](https://www.amazon.com/s?k=Descaling+solution+%28citric+acid%29&tag=errorcodefixes-20) \| Use if scale is contributing to genuine overheat events |
-| PCB | [Amazon](https://www.amazon.com/s?k=PCB&tag=errorcodefixes-20) \| Replace only if sensor input channel is confirmed defective |
+| Descaling solution (citric acid) | [Amazon](https://www.amazon.com/s?i=industrial&k=Descaling+solution+%28citric+acid%29&tag=errorcodefixes-20) \| Use if scale is contributing to genuine overheat events |
+| PCB | [Amazon](https://www.amazon.com/s?i=industrial&k=PCB&tag=errorcodefixes-20) \| Replace only if sensor input channel is confirmed defective |
 ## When to Call a Pro
 
 If the sensor replacement clears the error but it returns after a few cycles, the heat exchanger may have significant scale buildup causing repeated overheat trips. A licensed technician can perform a full flush and combustion analysis to confirm the heat exchanger is functioning correctly.

@@ -132,12 +132,12 @@ Update procedure requires ABB Drive Composer (PC tool) connected via USB or DDCS
 
 | Part | Use Case | Link |
 |------|----------|------|
-| ABB ACS880 Cooling Fan (R6 frame) | 3–5 year fan replacement | [View on Amazon](https://www.amazon.com/s?k=ABB+ACS880+cooling+fan&tag=errorcodefixes-20) |
-| Electrolytic Capacitor Bank Kit | Capacitor replacement/reforming | [View on Amazon](https://www.amazon.com/s?k=industrial+drive+dc+bus+capacitor+kit&tag=errorcodefixes-20) |
-| Thermal Interface Pad (IGBT) | IGBT module re-mounting | [View on Amazon](https://www.amazon.com/s?k=IGBT+thermal+interface+pad&tag=errorcodefixes-20) |
-| Compressed Air Duster (Electronics Safe) | Heatsink and filter cleaning | [View on Amazon](https://www.amazon.com/s?k=compressed+air+duster+electronics&tag=errorcodefixes-20) |
+| ABB ACS880 Cooling Fan (R6 frame) | 3–5 year fan replacement | [View on Amazon](https://www.amazon.com/s?i=industrial&k=ABB+ACS880+cooling+fan&tag=errorcodefixes-20) |
+| Electrolytic Capacitor Bank Kit | Capacitor replacement/reforming | [View on Amazon](https://www.amazon.com/s?i=industrial&k=industrial+drive+dc+bus+capacitor+kit&tag=errorcodefixes-20) |
+| Thermal Interface Pad (IGBT) | IGBT module re-mounting | [View on Amazon](https://www.amazon.com/s?i=industrial&k=IGBT+thermal+interface+pad&tag=errorcodefixes-20) |
+| Compressed Air Duster (Electronics Safe) | Heatsink and filter cleaning | [View on Amazon](https://www.amazon.com/s?i=industrial&k=compressed+air+duster+electronics&tag=errorcodefixes-20) |
 | Fluke 87V Industrial Multimeter | IGBT diode check, voltage verification | [View on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) |
-| Megohmmeter / Insulation Tester | Motor insulation resistance testing | [View on Amazon](https://www.amazon.com/s?k=megohmmeter+insulation+tester+500v&tag=errorcodefixes-20) |
+| Megohmmeter / Insulation Tester | Motor insulation resistance testing | [View on Amazon](https://www.amazon.com/s?i=industrial&k=megohmmeter+insulation+tester+500v&tag=errorcodefixes-20) |
 
 ---
 

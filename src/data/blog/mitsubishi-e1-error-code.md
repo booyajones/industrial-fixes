@@ -44,9 +44,9 @@ If wiring checks out, the fault is in a PCB. The indoor PCB is more commonly at 
 
 | Part | Where to Buy |
 |------|-------------|
-| [Communication / control cable (per foot)](https://www.amazon.com/s?k=Communication+%2F+control+cable+%28per+foot%29&tag=errorcodefixes-20) | Grainger, Amazon |
-| [Indoor unit main PCB](https://www.amazon.com/s?k=Indoor+unit+main+PCB&tag=errorcodefixes-20) | SupplyHouse, Grainger |
-| [Outdoor main PCB](https://www.amazon.com/s?k=Outdoor+main+PCB&tag=errorcodefixes-20) | SupplyHouse, Grainger |
+| [Communication / control cable (per foot)](https://www.amazon.com/s?i=industrial&k=Communication+%2F+control+cable+%28per+foot%29&tag=errorcodefixes-20) | Grainger, Amazon |
+| [Indoor unit main PCB](https://www.amazon.com/s?i=industrial&k=Indoor+unit+main+PCB&tag=errorcodefixes-20) | SupplyHouse, Grainger |
+| [Outdoor main PCB](https://www.amazon.com/s?i=industrial&k=Outdoor+main+PCB&tag=errorcodefixes-20) | SupplyHouse, Grainger |
 
 ## When to Call a Technician
 

@@ -47,10 +47,10 @@ Like all modern elevator systems, Schindler implements UCM protection per EN 81-
 
 | Part | Notes |
 |------|-------|
-| Door contact (Schindler spec) | [Amazon](https://www.amazon.com/s?k=Door+contact+%28Schindler+spec%29&tag=errorcodefixes-20) \| Replace when worn |
-| Door operator drive | [Amazon](https://www.amazon.com/s?k=Door+operator+drive&tag=errorcodefixes-20) \| Replace on door fault |
-| Brake coil assembly | [Amazon](https://www.amazon.com/s?k=Brake+coil+assembly&tag=errorcodefixes-20) \| Replace on brake fault |
-| Encoder | [Amazon](https://www.amazon.com/s?k=Encoder&tag=errorcodefixes-20) \| Replace on feedback fault |
+| Door contact (Schindler spec) | [Amazon](https://www.amazon.com/s?i=industrial&k=Door+contact+%28Schindler+spec%29&tag=errorcodefixes-20) \| Replace when worn |
+| Door operator drive | [Amazon](https://www.amazon.com/s?i=industrial&k=Door+operator+drive&tag=errorcodefixes-20) \| Replace on door fault |
+| Brake coil assembly | [Amazon](https://www.amazon.com/s?i=industrial&k=Brake+coil+assembly&tag=errorcodefixes-20) \| Replace on brake fault |
+| Encoder | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder&tag=errorcodefixes-20) \| Replace on feedback fault |
 | IC3/IC5 control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace on controller fault |
 ## When to Call a Pro
 **Schindler elevator systems are proprietary.** The Schindler Diagnose Tool and software are only available to Schindler-authorized personnel. All elevator maintenance must be performed by licensed elevator mechanics.

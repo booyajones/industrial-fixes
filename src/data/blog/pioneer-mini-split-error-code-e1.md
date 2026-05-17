@@ -38,7 +38,7 @@ E1 on a Pioneer mini split indicates a communication error between the indoor an
 
 | Part | Notes |
 |------|-------|
-| Communication / signal wire (18 AWG) | [Amazon](https://www.amazon.com/s?k=Communication+%2F+signal+wire+%2818+AWG%29&tag=errorcodefixes-20) \| Replace damaged runs; match length and gauge to original |
+| Communication / signal wire (18 AWG) | [Amazon](https://www.amazon.com/s?i=industrial&k=Communication+%2F+signal+wire+%2818+AWG%29&tag=errorcodefixes-20) \| Replace damaged runs; match length and gauge to original |
 | Indoor control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace if board confirmed as communication failure source |
 | Outdoor control board (PCB) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace if outdoor unit does not respond after wiring checks |
 ## When to Call a Pro

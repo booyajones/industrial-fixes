@@ -26,7 +26,7 @@ Code 66 differs from code 31 (pressure switch stuck open on first attempt) — c
 | [Cracked or disconnected pressure switch hose](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) | High | Visually inspect hose |
 | [Failed pressure switch](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | Medium | Test with multimeter across switch contacts |
 | [Inducer motor weak / dirty wheel](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) | Medium | Clean inducer wheel; check motor speed |
-| [Blocked flue or intake pipe](https://www.amazon.com/s?k=Blocked+flue+or+intake+pipe&tag=errorcodefixes-20) | Medium | Inspect PVC pipes for debris or ice |
+| [Blocked flue or intake pipe](https://www.amazon.com/s?i=industrial&k=Blocked+flue+or+intake+pipe&tag=errorcodefixes-20) | Medium | Inspect PVC pipes for debris or ice |
 | [Cracked pressure switch port on inducer](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | Lower | Inspect inducer housing |
 
 ## Step-by-Step Diagnosis

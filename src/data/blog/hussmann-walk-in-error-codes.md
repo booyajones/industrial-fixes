@@ -47,7 +47,7 @@ High or low pressure cutout tripped. This is a sealed system fault requiring a c
 
 | Part | Notes |
 |------|-------|
-| NTC air sensor | [Amazon](https://www.amazon.com/s?k=NTC+air+sensor&tag=errorcodefixes-20) \| Hussmann model-specific |
+| NTC air sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=NTC+air+sensor&tag=errorcodefixes-20) \| Hussmann model-specific |
 | Evaporator fan motor | [Amazon](https://www.amazon.com/dp/B01N0J3ZEH?tag=errorcodefixes-20) \| Match voltage and RPM to unit |
 | Defrost heater | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) \| Match to walk-in size and voltage |
 | Defrost termination thermostat | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Calibrated for box temperature range |

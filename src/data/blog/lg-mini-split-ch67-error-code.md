@@ -38,7 +38,7 @@ The LG CH67 error code indicates an **outdoor fan motor fault** — the outdoor 
 | Part | Notes |
 |------|-------|
 | Outdoor BLDC fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| LG-specific; match model and part number — wrong motor will re-fault |
-| Fan blade | [Amazon](https://www.amazon.com/s?k=Fan+blade&tag=errorcodefixes-20) \| Replace if cracked or visibly damaged |
+| Fan blade | [Amazon](https://www.amazon.com/s?i=industrial&k=Fan+blade&tag=errorcodefixes-20) \| Replace if cracked or visibly damaged |
 | Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| If board's fan driver is confirmed failed |
 ## When to Call a Pro
 

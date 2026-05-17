@@ -36,9 +36,9 @@ Yaskawa fault CF means control fault — the drive's internal CPU detected a sel
 
 | Part | Notes |
 |------|-------|
-| Yaskawa control PCB | [Amazon](https://www.amazon.com/s?k=Yaskawa+control+PCB&tag=errorcodefixes-20) \| If parameter reset and card removal don't resolve CF, board is suspect |
-| Option card replacement | [Amazon](https://www.amazon.com/s?k=Option+card+replacement&tag=errorcodefixes-20) \| If a communication card is confirmed faulty |
-| Ground cable (5mm² or larger) | [Amazon](https://www.amazon.com/s?k=Ground+cable+%285mm%C2%B2+or+larger%29&tag=errorcodefixes-20) \| Verify drive chassis is properly bonded to earth ground |
+| Yaskawa control PCB | [Amazon](https://www.amazon.com/s?i=industrial&k=Yaskawa+control+PCB&tag=errorcodefixes-20) \| If parameter reset and card removal don't resolve CF, board is suspect |
+| Option card replacement | [Amazon](https://www.amazon.com/s?i=industrial&k=Option+card+replacement&tag=errorcodefixes-20) \| If a communication card is confirmed faulty |
+| Ground cable (5mm² or larger) | [Amazon](https://www.amazon.com/s?i=industrial&k=Ground+cable+%285mm%C2%B2+or+larger%29&tag=errorcodefixes-20) \| Verify drive chassis is properly bonded to earth ground |
 ## When to Call a Pro
 
 A CF that persists after parameter reset and option card removal requires Yaskawa's diagnostics software (DriveWizard) to read internal fault logs and test control board functions. This is a service-level task.

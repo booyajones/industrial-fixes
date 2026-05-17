@@ -41,9 +41,9 @@ The Carrier 40MAQ and 40MVC are single-zone mini-split indoor units paired with 
 
 | Part | Notes |
 |------|-------|
-| Indoor ambient thermistor (T1) | [Amazon](https://www.amazon.com/s?k=Indoor+ambient+thermistor+%28T1%29&tag=errorcodefixes-20) \| Carrier 40MAQ OEM part; match resistance curve |
-| Indoor coil thermistor (T2) | [Amazon](https://www.amazon.com/s?k=Indoor+coil+thermistor+%28T2%29&tag=errorcodefixes-20) \| Same resistance curve as T1 on most models |
-| Communication wire (S-wire) | [Amazon](https://www.amazon.com/s?k=Communication+wire+%28S-wire%29&tag=errorcodefixes-20) \| 18 AWG; replace full run if damaged |
+| Indoor ambient thermistor (T1) | [Amazon](https://www.amazon.com/s?i=industrial&k=Indoor+ambient+thermistor+%28T1%29&tag=errorcodefixes-20) \| Carrier 40MAQ OEM part; match resistance curve |
+| Indoor coil thermistor (T2) | [Amazon](https://www.amazon.com/s?i=industrial&k=Indoor+coil+thermistor+%28T2%29&tag=errorcodefixes-20) \| Same resistance curve as T1 on most models |
+| Communication wire (S-wire) | [Amazon](https://www.amazon.com/s?i=industrial&k=Communication+wire+%28S-wire%29&tag=errorcodefixes-20) \| 18 AWG; replace full run if damaged |
 | Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match HP, RPM, and shaft direction |
 ## When to Call a Pro
 

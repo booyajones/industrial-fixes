@@ -36,9 +36,9 @@ The Siemens SINAMICS G120 **F00001 fault** is an **overcurrent trip**. The contr
 
 | Part | Notes |
 |------|-------|
-| VFD-rated motor cable | [Amazon](https://www.amazon.com/s?k=VFD-rated+motor+cable&tag=errorcodefixes-20) \| Replace if insulation is damaged or leakage to ground is found |
-| Motor | [Amazon](https://www.amazon.com/s?k=Motor&tag=errorcodefixes-20) \| Replace when winding insulation is weak or winding resistance is unbalanced |
-| Siemens power module or control unit | [Amazon](https://www.amazon.com/s?k=Siemens+power+module+or+control+unit&tag=errorcodefixes-20) \| Replace only after external motor and cable faults are ruled out |
+| VFD-rated motor cable | [Amazon](https://www.amazon.com/s?i=industrial&k=VFD-rated+motor+cable&tag=errorcodefixes-20) \| Replace if insulation is damaged or leakage to ground is found |
+| Motor | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor&tag=errorcodefixes-20) \| Replace when winding insulation is weak or winding resistance is unbalanced |
+| Siemens power module or control unit | [Amazon](https://www.amazon.com/s?i=industrial&k=Siemens+power+module+or+control+unit&tag=errorcodefixes-20) \| Replace only after external motor and cable faults are ruled out |
 ## When to Call a Pro
 
 If F00001 persists with the motor disconnected or after commissioning values are corrected, the G120 power module may be damaged internally. Siemens drive service or a qualified industrial electrician should handle module-level diagnosis and replacement.

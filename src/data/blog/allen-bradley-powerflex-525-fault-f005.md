@@ -44,11 +44,11 @@ In production, F005 usually shows up on conveyors, unwinders, fans, high-inertia
 
 | Part | Notes |
 |------|-------|
-| Dynamic braking resistor | [Amazon](https://www.amazon.com/s?k=dynamic+braking+resistor+vfd&tag=errorcodefixes-20) \| Best fix when the application needs fast controlled stops |
-| 3% line reactor | [Amazon](https://www.amazon.com/s?k=3%25+line+reactor+vfd&tag=errorcodefixes-20) \| Helps buffer incoming voltage spikes and noisy power |
-| Surge protection device for 480V panel | [Amazon](https://www.amazon.com/s?k=480v+surge+protection+device&tag=errorcodefixes-20) \| Useful where utility spikes or switching transients are common |
-| Replacement cooling fan for drive enclosure | [Amazon](https://www.amazon.com/s?k=control+panel+cooling+fan+filter&tag=errorcodefixes-20) \| Overheated enclosures can make bus issues worse during heavy cycling |
-| Panel power quality meter | [Amazon](https://www.amazon.com/s?k=three+phase+power+quality+meter&tag=errorcodefixes-20) \| Helps confirm whether the fault is line-side rather than load-side |
+| Dynamic braking resistor | [Amazon](https://www.amazon.com/s?i=industrial&k=dynamic+braking+resistor+vfd&tag=errorcodefixes-20) \| Best fix when the application needs fast controlled stops |
+| 3% line reactor | [Amazon](https://www.amazon.com/s?i=industrial&k=3%25+line+reactor+vfd&tag=errorcodefixes-20) \| Helps buffer incoming voltage spikes and noisy power |
+| Surge protection device for 480V panel | [Amazon](https://www.amazon.com/s?i=industrial&k=480v+surge+protection+device&tag=errorcodefixes-20) \| Useful where utility spikes or switching transients are common |
+| Replacement cooling fan for drive enclosure | [Amazon](https://www.amazon.com/s?i=industrial&k=control+panel+cooling+fan+filter&tag=errorcodefixes-20) \| Overheated enclosures can make bus issues worse during heavy cycling |
+| Panel power quality meter | [Amazon](https://www.amazon.com/s?i=industrial&k=three+phase+power+quality+meter&tag=errorcodefixes-20) \| Helps confirm whether the fault is line-side rather than load-side |
 
 ## When to Call a Professional
 

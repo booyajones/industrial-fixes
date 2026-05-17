@@ -39,9 +39,9 @@ Alarm 118 (SPINDLE ORIENTATION FAULT) on a Haas CNC machining center means the s
 
 | Part | Notes |
 |------|-------|
-| Spindle orientation sensor (Hall effect) | [Amazon](https://www.amazon.com/s?k=Spindle+orientation+sensor+%28Hall+effect%29&tag=errorcodefixes-20) \| Match Haas machine model and spindle type |
-| Spindle encoder | [Amazon](https://www.amazon.com/s?k=Spindle+encoder&tag=errorcodefixes-20) \| Replace if feedback signal is noisy or lost |
-| Spindle belt | [Amazon](https://www.amazon.com/s?k=Spindle+belt&tag=errorcodefixes-20) \| Haas OEM belt; match machine and spindle size |
+| Spindle orientation sensor (Hall effect) | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+orientation+sensor+%28Hall+effect%29&tag=errorcodefixes-20) \| Match Haas machine model and spindle type |
+| Spindle encoder | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+encoder&tag=errorcodefixes-20) \| Replace if feedback signal is noisy or lost |
+| Spindle belt | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+belt&tag=errorcodefixes-20) \| Haas OEM belt; match machine and spindle size |
 ## When to Call a Pro
 
 Spindle bearing replacement and spindle drive parameter tuning should be performed by a Haas Factory Outlet (HFO) technician. Incorrect bearing preload or drive parameters can damage the spindle in production.

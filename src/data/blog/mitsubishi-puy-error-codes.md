@@ -60,12 +60,12 @@ The Mitsubishi PUY (Power Unit, Y-series) is a ducted air handler designed to wo
 
 | Part | Notes |
 |------|-------|
-| EEV coil | [Amazon](https://www.amazon.com/s?k=EEV+coil&tag=errorcodefixes-20) \| Removable; replace before refrigerant work |
-| Wired remote controller | [Amazon](https://www.amazon.com/s?k=Wired+remote+controller&tag=errorcodefixes-20) \| Test swap to isolate E0 |
+| EEV coil | [Amazon](https://www.amazon.com/s?i=industrial&k=EEV+coil&tag=errorcodefixes-20) \| Removable; replace before refrigerant work |
+| Wired remote controller | [Amazon](https://www.amazon.com/s?i=industrial&k=Wired+remote+controller&tag=errorcodefixes-20) \| Test swap to isolate E0 |
 | Drain float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?tag=errorcodefixes-20) \| Check continuity; replace if stuck |
 | Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For E1 or persistent unexplained faults |
 | DC fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| For E3 with confirmed mechanical fault |
-| Transmission cable | [Amazon](https://www.amazon.com/s?k=Transmission+cable&tag=errorcodefixes-20) \| Two-wire; replace entire run if damaged |
+| Transmission cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Transmission+cable&tag=errorcodefixes-20) \| Two-wire; replace entire run if damaged |
 ## When to Call a Pro
 
 Mitsubishi VRF systems require City Multi-certified technicians for refrigerant work, system commissioning, and address configuration. Any U6 fault should be investigated at the outdoor VRF unit as well — the indoor PUY is reporting a system-level issue, not just an indoor unit issue.

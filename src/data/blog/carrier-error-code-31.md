@@ -63,8 +63,8 @@ The pressure switch is a small safety device that monitors negative pressure cre
 | [Carrier Pressure Switch](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | Match pressure rating (WC) from label on existing switch |
 | [Furnace Pressure Switch Hose](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) | Standard 1/4" or 3/8" ID vinyl tubing |
 | [Carrier Inducer Motor](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) | Match HP, RPM, and voltage from inducer motor label |
-| [Condensate Drain Treatment](https://www.amazon.com/s?k=condensate+drain+treatment+tablets+hvac&tag=errorcodefixes-20) | Prevents algae buildup |
-| [Condensate Pump](https://www.amazon.com/s?k=hvac+condensate+pump&tag=errorcodefixes-20) | Replace if pump has failed and is backing up into the system |
+| [Condensate Drain Treatment](https://www.amazon.com/s?i=industrial&k=condensate+drain+treatment+tablets+hvac&tag=errorcodefixes-20) | Prevents algae buildup |
+| [Condensate Pump](https://www.amazon.com/s?i=industrial&k=hvac+condensate+pump&tag=errorcodefixes-20) | Replace if pump has failed and is backing up into the system |
 
 ## When to Call a Technician
 

@@ -68,7 +68,7 @@ The CT (current transformer) sensor is a small toroidal coil that clamps around 
 
 | Part | Notes |
 |---|---|
-| CT sensor (current transformer) | [Amazon](https://www.amazon.com/s?k=CT+sensor+%28current+transformer%29&tag=errorcodefixes-20) \| LG OEM part — match model number |
+| CT sensor (current transformer) | [Amazon](https://www.amazon.com/s?i=industrial&k=CT+sensor+%28current+transformer%29&tag=errorcodefixes-20) \| LG OEM part — match model number |
 | Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Only replace after confirming sensor and wiring are good |
 ## Reset Procedure
 

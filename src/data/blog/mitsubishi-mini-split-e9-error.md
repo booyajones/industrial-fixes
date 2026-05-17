@@ -45,10 +45,10 @@ E9 is the outdoor thermistor 2 fault. It is different from E1 (indoor room tempe
 
 | Part | Notes |
 |------|-------|
-| Outdoor discharge pipe thermistor (TH3) | [Amazon](https://www.amazon.com/s?k=mitsubishi+mini+split+outdoor+thermistor+TH3&tag=errorcodefixes-20) — Must match your model number; thermistors are not interchangeable across series |
-| Electrical contact cleaner | [Amazon](https://www.amazon.com/s?k=electrical+contact+cleaner+spray&tag=errorcodefixes-20) — Use before replacing the thermistor if corrosion is present on pins |
+| Outdoor discharge pipe thermistor (TH3) | [Amazon](https://www.amazon.com/s?i=industrial&k=mitsubishi+mini+split+outdoor+thermistor+TH3&tag=errorcodefixes-20) — Must match your model number; thermistors are not interchangeable across series |
+| Electrical contact cleaner | [Amazon](https://www.amazon.com/s?i=industrial&k=electrical+contact+cleaner+spray&tag=errorcodefixes-20) — Use before replacing the thermistor if corrosion is present on pins |
 | Outdoor PCB (control board) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) — Replace only after confirming thermistor and wiring are good |
-| Wire repair kit / heat shrink | [Amazon](https://www.amazon.com/s?k=wire+repair+heat+shrink+connectors&tag=errorcodefixes-20) — Use for splicing a damaged thermistor wire |
+| Wire repair kit / heat shrink | [Amazon](https://www.amazon.com/s?i=industrial&k=wire+repair+heat+shrink+connectors&tag=errorcodefixes-20) — Use for splicing a damaged thermistor wire |
 
 ## When to Call a Technician
 

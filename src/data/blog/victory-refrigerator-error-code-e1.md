@@ -37,7 +37,7 @@ The E1 error on Victory Refrigeration commercial units (reach-in refrigerators, 
 | Part | Notes |
 |------|-------|
 | NTC temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Victory OEM — check model number for correct sensor |
-| Sensor wire harness | [Amazon](https://www.amazon.com/s?k=Sensor+wire+harness&tag=errorcodefixes-20) \| Replace if lead is damaged |
+| Sensor wire harness | [Amazon](https://www.amazon.com/s?i=industrial&k=Sensor+wire+harness&tag=errorcodefixes-20) \| Replace if lead is damaged |
 ## When to Call a Pro
 
 Persistent E1 after sensor and wiring are confirmed good indicates a controller board fault. Victory Refrigeration authorized service handles controller replacement.

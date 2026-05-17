@@ -36,9 +36,9 @@ Fault 0-70 on Hypertherm Powermax plasma cutters indicates a DC bus undervoltage
 
 | Part | Notes |
 |------|-------|
-| Input capacitor bank | [Amazon](https://www.amazon.com/s?k=Input+capacitor+bank&tag=errorcodefixes-20) \| Degrades with age; requires authorized service to replace |
-| PFC module | [Amazon](https://www.amazon.com/s?k=PFC+module&tag=errorcodefixes-20) \| Fails on heavily used machines; authorized service only |
-| Input power cable | [Amazon](https://www.amazon.com/s?k=Input+power+cable&tag=errorcodefixes-20) \| Replace if cord is damaged or plug is corroded |
+| Input capacitor bank | [Amazon](https://www.amazon.com/s?i=industrial&k=Input+capacitor+bank&tag=errorcodefixes-20) \| Degrades with age; requires authorized service to replace |
+| PFC module | [Amazon](https://www.amazon.com/s?i=industrial&k=PFC+module&tag=errorcodefixes-20) \| Fails on heavily used machines; authorized service only |
+| Input power cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Input+power+cable&tag=errorcodefixes-20) \| Replace if cord is damaged or plug is corroded |
 ## When to Call a Pro
 
 DC bus and PFC circuit repair requires working inside the power supply with capacitors that hold charge even after power is removed. This is authorized-service-only territory — do not open the machine yourself to address 0-70.

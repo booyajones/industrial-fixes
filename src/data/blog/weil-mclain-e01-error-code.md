@@ -55,9 +55,9 @@ This code is one of the most searched Weil-McLain faults because it appears freq
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|-------------|
 | Flame sensor | 383-500-044 | $30–$45 | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| HVAC Parts / Weil-McLain Distributor |
-| Igniter | 383-500-043 | $50–$70 | [Amazon](https://www.amazon.com/s?k=383-500-043+Igniter&tag=errorcodefixes-20) \| HVAC Parts / Weil-McLain Distributor |
+| Igniter | 383-500-043 | $50–$70 | [Amazon](https://www.amazon.com/s?i=industrial&k=383-500-043+Igniter&tag=errorcodefixes-20) \| HVAC Parts / Weil-McLain Distributor |
 | Gas valve | 383-500-376 | $200–$350 | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Weil-McLain Distributor |
-| Burner control module | 383-500-372 | $280–$420 | [Amazon](https://www.amazon.com/s?k=383-500-372+Burner+control+module&tag=errorcodefixes-20) \| Weil-McLain Distributor |
+| Burner control module | 383-500-372 | $280–$420 | [Amazon](https://www.amazon.com/s?i=industrial&k=383-500-372+Burner+control+module&tag=errorcodefixes-20) \| Weil-McLain Distributor |
 ## When to Call a Professional
 
 E01 related to the gas valve, burner control module, or persistent flame sensor issues that don't resolve after cleaning and replacement should be diagnosed by a licensed commercial HVAC technician with experience on hydronic systems. Working on commercial boilers involves high-voltage controls, live gas lines, and high-pressure hot water systems. In most states, commercial boiler service requires a licensed boiler technician or HVAC contractor. Additionally, if E01 occurs across multiple boilers in the same building simultaneously, the root cause is almost certainly a building-wide gas supply problem — that diagnosis starts at the gas meter, not at the boilers.

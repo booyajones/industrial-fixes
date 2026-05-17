@@ -63,10 +63,10 @@ The Senville SENA series covers a range of ductless mini split units from 9,000 
 
 | Part | Notes |
 |------|-------|
-| Indoor room temp sensor | [Amazon](https://www.amazon.com/s?k=Indoor+room+temp+sensor&tag=errorcodefixes-20) \| F1; NTC 10kΩ at 25°C typical |
-| Indoor coil sensor | [Amazon](https://www.amazon.com/s?k=Indoor+coil+sensor&tag=errorcodefixes-20) \| F2; clip-on type on evaporator |
+| Indoor room temp sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Indoor+room+temp+sensor&tag=errorcodefixes-20) \| F1; NTC 10kΩ at 25°C typical |
+| Indoor coil sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Indoor+coil+sensor&tag=errorcodefixes-20) \| F2; clip-on type on evaporator |
 | Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For E7 after charge and compressor confirmed |
-| Communication cable | [Amazon](https://www.amazon.com/s?k=Communication+cable&tag=errorcodefixes-20) \| 3-conductor; replace full run |
+| Communication cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Communication+cable&tag=errorcodefixes-20) \| 3-conductor; replace full run |
 | Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For E2 or E1 with confirmed good wiring |
 | Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| For E3; confirm DC or AC type |
 ## When to Call a Pro

@@ -36,7 +36,7 @@ Rinnai **Error Code 11** on a tankless water heater means **no ignition** — th
 
 | Part | Notes |
 |------|-------|
-| Ignition electrode | [Amazon](https://www.amazon.com/s?k=Ignition+electrode&tag=errorcodefixes-20) \| Replace if electrode tip is worn, cracked, or gap is incorrect |
+| Ignition electrode | [Amazon](https://www.amazon.com/s?i=industrial&k=Ignition+electrode&tag=errorcodefixes-20) \| Replace if electrode tip is worn, cracked, or gap is incorrect |
 | Flame sensor (ionization rod) | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Replace if cleaning doesn't restore detection |
 | Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Replace only after confirming gas supply pressure is correct and ignition components are functional |
 ## When to Call a Pro

@@ -116,14 +116,14 @@ Scale buildup causes more service calls on the KM-901 than any component failure
 
 | Part | Why | Approx. Cost |
 |------|-----|-------------|
-| [Harvest thermostat — Hoshizaki 443-3501-01](https://www.amazon.com/s?k=Harvest+thermostat+%E2%80%94+Hoshizaki+443-3501-01&tag=errorcodefixes-20) | E2 — harvest timeout (stuck ice) | $35–$55 |
-| [Evaporator thermistor — Hoshizaki 443-3501-02](https://www.amazon.com/s?k=Evaporator+thermistor+%E2%80%94+Hoshizaki+443-3501-02&tag=errorcodefixes-20) | E5 — thermistor fault | $25–$45 |
-| [Water curtain assembly](https://www.amazon.com/s?k=Water+curtain+assembly&tag=errorcodefixes-20) | E2 — ice not releasing (cracked/stuck curtain) | $40–$70 |
+| [Harvest thermostat — Hoshizaki 443-3501-01](https://www.amazon.com/s?i=industrial&k=Harvest+thermostat+%E2%80%94+Hoshizaki+443-3501-01&tag=errorcodefixes-20) | E2 — harvest timeout (stuck ice) | $35–$55 |
+| [Evaporator thermistor — Hoshizaki 443-3501-02](https://www.amazon.com/s?i=industrial&k=Evaporator+thermistor+%E2%80%94+Hoshizaki+443-3501-02&tag=errorcodefixes-20) | E5 — thermistor fault | $25–$45 |
+| [Water curtain assembly](https://www.amazon.com/s?i=industrial&k=Water+curtain+assembly&tag=errorcodefixes-20) | E2 — ice not releasing (cracked/stuck curtain) | $40–$70 |
 | [Condenser fan motor — Hoshizaki 622-2041-01](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) | E3 — high pressure from failed fan | $120–$200 |
-| [Hot gas solenoid valve — Hoshizaki 422-3541-01](https://www.amazon.com/s?k=Hot+gas+solenoid+valve+%E2%80%94+Hoshizaki+422-3541-01&tag=errorcodefixes-20) | E2 — harvest won't complete | $80–$150 |
+| [Hot gas solenoid valve — Hoshizaki 422-3541-01](https://www.amazon.com/s?i=industrial&k=Hot+gas+solenoid+valve+%E2%80%94+Hoshizaki+422-3541-01&tag=errorcodefixes-20) | E2 — harvest won't complete | $80–$150 |
 | [Control board — Hoshizaki 2A4334G01](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | E8 — internal board fault | $300–$550 |
-| [Scale Away cleaner — Hoshizaki 946-2101-04 (1 qt)](https://www.amazon.com/s?k=Scale+Away+cleaner+%E2%80%94+Hoshizaki+946-2101-04+%281+qt%29&tag=errorcodefixes-20) | Preventive cleaning, E6 | $15–$25 |
-| [Float valve assembly](https://www.amazon.com/s?k=Float+valve+assembly&tag=errorcodefixes-20) | E6 — water level fault | $30–$60 |
+| [Scale Away cleaner — Hoshizaki 946-2101-04 (1 qt)](https://www.amazon.com/s?i=industrial&k=Scale+Away+cleaner+%E2%80%94+Hoshizaki+946-2101-04+%281+qt%29&tag=errorcodefixes-20) | Preventive cleaning, E6 | $15–$25 |
+| [Float valve assembly](https://www.amazon.com/s?i=industrial&k=Float+valve+assembly&tag=errorcodefixes-20) | E6 — water level fault | $30–$60 |
 | [Water inlet valve](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) | E6 — restricted water flow | $40–$80 |
 
 Always verify part numbers against your specific KM-901 model suffix (KM-901MAH, KM-901MRH, etc.) before ordering. Hoshizaki parts are available through authorized distributors including Parts Town, Wasserstrom, and KaTom.

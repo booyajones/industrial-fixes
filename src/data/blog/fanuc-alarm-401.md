@@ -50,10 +50,10 @@ This is a serious alarm that should not be repeatedly cleared and ignored — it
 
 | Part | Where to Buy | Typical Cost |
 |------|-------------|-------------|
-| Servo motor (Fanuc αi series, model-specific) | [Amazon](https://www.amazon.com/s?k=Servo+motor+%28Fanuc+%CE%B1i+series%2C+model-specific%29&tag=errorcodefixes-20) \| Fanuc America, Motion Controls LLC | $800–$3,000 |
-| Servo amplifier (Fanuc αi-B or βi-B series) | [Amazon](https://www.amazon.com/s?k=Servo+amplifier+%28Fanuc+%CE%B1i-B+or+%CE%B2i-B+series%29&tag=errorcodefixes-20) \| Fanuc America, used CNC dealers | $600–$2,500 |
-| Way lube pump (Bijur D-Series or equiv.) | [Amazon](https://www.amazon.com/s?k=Way+lube+pump+%28Bijur+D-Series+or+equiv.%29&tag=errorcodefixes-20) \| MSC Industrial, Grainger | $150–$350 |
-| Cabinet cooling fan (120mm or 172mm) | [Amazon](https://www.amazon.com/s?k=Cabinet+cooling+fan+%28120mm+or+172mm%29&tag=errorcodefixes-20) \| Amazon, Grainger | $20–$60 |
+| Servo motor (Fanuc αi series, model-specific) | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+motor+%28Fanuc+%CE%B1i+series%2C+model-specific%29&tag=errorcodefixes-20) \| Fanuc America, Motion Controls LLC | $800–$3,000 |
+| Servo amplifier (Fanuc αi-B or βi-B series) | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+amplifier+%28Fanuc+%CE%B1i-B+or+%CE%B2i-B+series%29&tag=errorcodefixes-20) \| Fanuc America, used CNC dealers | $600–$2,500 |
+| Way lube pump (Bijur D-Series or equiv.) | [Amazon](https://www.amazon.com/s?i=industrial&k=Way+lube+pump+%28Bijur+D-Series+or+equiv.%29&tag=errorcodefixes-20) \| MSC Industrial, Grainger | $150–$350 |
+| Cabinet cooling fan (120mm or 172mm) | [Amazon](https://www.amazon.com/s?i=industrial&k=Cabinet+cooling+fan+%28120mm+or+172mm%29&tag=errorcodefixes-20) \| Amazon, Grainger | $20–$60 |
 ## When to Call a Professional
 
 If axis movement is smooth, lube system is working, cabinet temperature is acceptable, and you're still getting Alarm 401 — this requires a Fanuc servo technician. Servo parameter diagnosis requires the specific Fanuc drive series documentation and hands-on access to the servo tune screens. A mismatched motor/amplifier combination (common after aftermarket repairs) will produce chronic 401 alarms that look like mechanical problems but are actually parameter issues. Tell the tech: "Alarm 401 on axis [n], mechanical system moves freely, way lube is working, cabinet is cool. I need servo parameter verification and load meter analysis."

@@ -55,10 +55,10 @@ VRF systems with U4 are genuinely complex to diagnose — a single wiring error 
 
 | Part | Description | Typical Cost | Where to Buy |
 |------|------------|-------------|-------------|
-| Termination resistor (110 ohm) | Communication bus termination | $2–$8 | [Amazon](https://www.amazon.com/s?k=Communication+bus+termination&tag=errorcodefixes-20) \| Electronics suppliers / Daikin parts |
-| Indoor unit PCB | Varies by indoor unit model | $180–$450 | [Amazon](https://www.amazon.com/s?k=Varies+by+indoor+unit+model&tag=errorcodefixes-20) \| Daikin Distributor / Parts Town |
-| Outdoor unit main PCB | Varies by outdoor unit model | $400–$1,200 | [Amazon](https://www.amazon.com/s?k=Varies+by+outdoor+unit+model&tag=errorcodefixes-20) \| Daikin Distributor |
-| Outdoor unit power supply PCB | Internal DC power board | $250–$600 | [Amazon](https://www.amazon.com/s?k=Internal+DC+power+board&tag=errorcodefixes-20) \| Daikin Distributor |
+| Termination resistor (110 ohm) | Communication bus termination | $2–$8 | [Amazon](https://www.amazon.com/s?i=industrial&k=Communication+bus+termination&tag=errorcodefixes-20) \| Electronics suppliers / Daikin parts |
+| Indoor unit PCB | Varies by indoor unit model | $180–$450 | [Amazon](https://www.amazon.com/s?i=industrial&k=Varies+by+indoor+unit+model&tag=errorcodefixes-20) \| Daikin Distributor / Parts Town |
+| Outdoor unit main PCB | Varies by outdoor unit model | $400–$1,200 | [Amazon](https://www.amazon.com/s?i=industrial&k=Varies+by+outdoor+unit+model&tag=errorcodefixes-20) \| Daikin Distributor |
+| Outdoor unit power supply PCB | Internal DC power board | $250–$600 | [Amazon](https://www.amazon.com/s?i=industrial&k=Internal+DC+power+board&tag=errorcodefixes-20) \| Daikin Distributor |
 ## When to Call a Professional
 
 Daikin VRV/VRF systems are among the most complex commercial HVAC systems in the field. PCB replacement on commercial VRF outdoor units requires Daikin factory training and access to their technical service resources. Incorrect PCB handling (ESD damage, wrong replacement board) on a commercial outdoor unit can result in a $10,000+ write-off. If the above diagnostic steps don't isolate the communication fault, contact Daikin's commercial technical support line (1-855-324-5462) or a Daikin-authorized VRF service contractor. Many regions have Daikin factory-authorized service centers with remote diagnostics capabilities via the VRV system's BACnet or Modbus interface.

@@ -65,9 +65,9 @@ Most Fanuc alarms clear with the RESET key on the MDI panel after the cause is f
 
 | Part | Notes |
 |------|-------|
-| Encoder battery | [Amazon](https://www.amazon.com/s?k=Encoder+battery&tag=errorcodefixes-20) \| A06B-6073-K001 (3V, check model for compatible P/N) |
-| FSSB fiber optic cable | [Amazon](https://www.amazon.com/s?k=FSSB+fiber+optic+cable&tag=errorcodefixes-20) \| A66L-6001-0023 series |
-| Servo amplifier | [Amazon](https://www.amazon.com/s?k=Servo+amplifier&tag=errorcodefixes-20) \| A06B-6140 series (0i-D) or A06B-6141 series (0i-F) |
+| Encoder battery | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+battery&tag=errorcodefixes-20) \| A06B-6073-K001 (3V, check model for compatible P/N) |
+| FSSB fiber optic cable | [Amazon](https://www.amazon.com/s?i=industrial&k=FSSB+fiber+optic+cable&tag=errorcodefixes-20) \| A66L-6001-0023 series |
+| Servo amplifier | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+amplifier&tag=errorcodefixes-20) \| A06B-6140 series (0i-D) or A06B-6141 series (0i-F) |
 ## When to Call a Pro
 Alarm 414 (FSSB communication failure across multiple axes), SYS (system) alarms, and SP spindle alarms with no clear mechanical cause require a Fanuc-trained service engineer. Fanuc has 24-hour phone support for production-critical alarm conditions.
 

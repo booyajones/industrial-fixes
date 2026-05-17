@@ -44,11 +44,11 @@ This is not a nuisance fault to keep resetting. If you keep restarting into a gr
 
 | Part | Notes |
 |------|-------|
-| VFD-rated motor cable | [Amazon](https://www.amazon.com/s?k=VFD+rated+motor+cable&tag=errorcodefixes-20) \| Replace damaged or moisture-soaked output cable |
-| Insulation resistance tester (megohmmeter) | [Amazon](https://www.amazon.com/s?k=megohmmeter+insulation+tester&tag=errorcodefixes-20) \| Required to prove whether the cable or motor is leaking to ground |
-| Replacement 3-phase motor | [Amazon](https://www.amazon.com/s?k=3+phase+motor+480v&tag=errorcodefixes-20) \| Needed when winding insulation is breaking down |
-| Motor terminal block / junction box parts | [Amazon](https://www.amazon.com/s?k=motor+junction+box+terminal+block&tag=errorcodefixes-20) \| Useful when the fault is caused by contamination or loose terminals |
-| Output reactor | [Amazon](https://www.amazon.com/s?k=output+reactor+vfd&tag=errorcodefixes-20) \| Helps protect long motor leads and reduces stress on older motors |
+| VFD-rated motor cable | [Amazon](https://www.amazon.com/s?i=industrial&k=VFD+rated+motor+cable&tag=errorcodefixes-20) \| Replace damaged or moisture-soaked output cable |
+| Insulation resistance tester (megohmmeter) | [Amazon](https://www.amazon.com/s?i=industrial&k=megohmmeter+insulation+tester&tag=errorcodefixes-20) \| Required to prove whether the cable or motor is leaking to ground |
+| Replacement 3-phase motor | [Amazon](https://www.amazon.com/s?i=industrial&k=3+phase+motor+480v&tag=errorcodefixes-20) \| Needed when winding insulation is breaking down |
+| Motor terminal block / junction box parts | [Amazon](https://www.amazon.com/s?i=industrial&k=motor+junction+box+terminal+block&tag=errorcodefixes-20) \| Useful when the fault is caused by contamination or loose terminals |
+| Output reactor | [Amazon](https://www.amazon.com/s?i=industrial&k=output+reactor+vfd&tag=errorcodefixes-20) \| Helps protect long motor leads and reduces stress on older motors |
 
 ## When to Call a Professional
 

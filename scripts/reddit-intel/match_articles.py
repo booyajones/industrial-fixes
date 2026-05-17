@@ -28,31 +28,53 @@ def load_corpus(blog_dir: Path) -> set[str]:
 def _candidate_slugs(brand: str, code: str) -> list[str]:
     """Plausible slug variants for a brand+code pair.
 
-    Articles in src/data/blog/ use mixed conventions — some keep the leading
-    letter prefix (e.g. true-refrigeration-e1-error-code) and some strip it
-    (e.g. carrier-error-code-13 from a Carrier E13 fault). Generate both
-    so we don't miss matches just because of a naming convention drift.
+    Articles in src/data/blog/ use mixed conventions. Three axes of drift:
+
+    1. Lettered vs stripped-numeric code (E13 → carrier-error-code-13 or
+       carrier-error-code-e13).
+    2. Equipment qualifier injection — many slugs are
+       brand-EQUIPMENT-error-code-N (e.g. goodman-furnace-e2-error-code,
+       mitsubishi-mini-split-e9-error-code). Without these the matcher
+       over-fires content_gap when an article actually exists.
+    3. Alarm/code vocabulary (some Mazak slugs use "alarm" not "error").
     """
     b = brand.lower().replace(" ", "-").replace("'", "")
     c = code.lower()
-    # Numeric-only variant when the extracted code has a single-letter prefix
     digits = re.sub(r"^[a-z]", "", c) if c and c[0].isalpha() else ""
     code_variants = [c]
     if digits and digits != c:
         code_variants.append(digits)
+    # Equipment qualifiers that appear in real slugs across the corpus
+    qualifiers = ["", "furnace", "mini-split", "minisplit", "heat-pump",
+                  "ac", "boiler", "water-heater", "tankless", "washer",
+                  "dryer", "dishwasher", "refrigerator", "fridge",
+                  "ice-machine", "cnc", "vfd", "forklift", "generator"]
+    vocab = ["error-code", "error", "fault", "fault-code", "code",
+             "alarm", "alarm-code", "flash"]
     out: list[str] = []
     for cv in code_variants:
-        out.extend([
-            f"{b}-error-code-{cv}",
-            f"{b}-{cv}-error-code",
-            f"{b}-{cv}",
-            f"{b}-error-{cv}",
-            f"{b}-fault-{cv}",
-            f"{b}-code-{cv}",
-        ])
+        for q in qualifiers:
+            stem = f"{b}-{q}".rstrip("-")
+            for v in vocab:
+                out.extend([
+                    f"{stem}-{v}-{cv}",   # brand-equip-error-code-13
+                    f"{stem}-{cv}-{v}",   # brand-equip-13-error-code
+                    f"{stem}-{cv}",        # brand-equip-13
+                ])
     # Whole-brand fallback pages
-    out.extend([f"{b}-error-codes", f"{b}-fault-codes"])
-    return out
+    out.extend([
+        f"{b}-error-codes", f"{b}-fault-codes", f"{b}-alarm-codes",
+        f"{b}-furnace-error-codes", f"{b}-mini-split-error-codes",
+        f"{b}-washer-error-codes", f"{b}-refrigerator-error-codes",
+    ])
+    # Dedupe preserving order
+    seen: set[str] = set()
+    deduped = []
+    for s in out:
+        if s not in seen:
+            seen.add(s)
+            deduped.append(s)
+    return deduped
 
 
 def classify_gap(hit: Classified, corpus: set[str]) -> tuple[str, str | None]:

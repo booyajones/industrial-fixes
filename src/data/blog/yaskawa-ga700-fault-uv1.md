@@ -38,8 +38,8 @@ UV1 on a Yaskawa GA700 drive (GA700 = Yaskawa's heavy-duty industrial drive plat
 
 | Part | Notes |
 |------|-------|
-| Input fuses (semiconductor) | [Amazon](https://www.amazon.com/s?k=Input+fuses+%28semiconductor%29&tag=errorcodefixes-20) \| Use Yaskawa-specified fuse type for GA700 ampere rating |
-| Soft-charge relay or thermistor | [Amazon](https://www.amazon.com/s?k=Soft-charge+relay+or+thermistor&tag=errorcodefixes-20) \| GA700 frame-size specific; order from Yaskawa |
+| Input fuses (semiconductor) | [Amazon](https://www.amazon.com/s?i=industrial&k=Input+fuses+%28semiconductor%29&tag=errorcodefixes-20) \| Use Yaskawa-specified fuse type for GA700 ampere rating |
+| Soft-charge relay or thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Soft-charge+relay+or+thermistor&tag=errorcodefixes-20) \| GA700 frame-size specific; order from Yaskawa |
 ## When to Call a Pro
 
 UV1 on a GA700 driving a large motor (over 30 kW) should be investigated by a qualified drive technician. Incorrect supply voltage or a failing capacitor bank on a large drive can cause dangerous fault-trip energy releases during reset attempts.

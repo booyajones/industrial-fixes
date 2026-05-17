@@ -36,7 +36,7 @@ E1 on a Carrier heat pump system indicates a communication fault between the ind
 
 | Part | Notes |
 |------|-------|
-| Communication wire (18/2 shielded) | [Amazon](https://www.amazon.com/s?k=Communication+wire+%2818%2F2+shielded%29&tag=errorcodefixes-20) \| Replace run completely if damaged; splices are unreliable |
+| Communication wire (18/2 shielded) | [Amazon](https://www.amazon.com/s?i=industrial&k=Communication+wire+%2818%2F2+shielded%29&tag=errorcodefixes-20) \| Replace run completely if damaged; splices are unreliable |
 | Indoor air handler control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace if board damage is confirmed post-surge |
 | Outdoor unit control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace if outdoor board transceiver is confirmed failed |
 ## When to Call a Pro

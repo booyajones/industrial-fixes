@@ -36,9 +36,9 @@ Alarm 25000 on the Siemens Sinumerik 840D CNC indicates a drive fault — the SI
 
 | Part | Notes |
 |------|-------|
-| DRIVE-CLiQ cable | [Amazon](https://www.amazon.com/s?k=DRIVE-CLiQ+cable&tag=errorcodefixes-20) \| Replace if damaged or intermittent |
-| Motor encoder cable | [Amazon](https://www.amazon.com/s?k=Motor+encoder+cable&tag=errorcodefixes-20) \| Replace if signal loss is confirmed |
-| S120 Motor Module | [Amazon](https://www.amazon.com/s?k=S120+Motor+Module&tag=errorcodefixes-20) \| Replace if drive module has failed internally |
+| DRIVE-CLiQ cable | [Amazon](https://www.amazon.com/s?i=industrial&k=DRIVE-CLiQ+cable&tag=errorcodefixes-20) \| Replace if damaged or intermittent |
+| Motor encoder cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+encoder+cable&tag=errorcodefixes-20) \| Replace if signal loss is confirmed |
+| S120 Motor Module | [Amazon](https://www.amazon.com/s?i=industrial&k=S120+Motor+Module&tag=errorcodefixes-20) \| Replace if drive module has failed internally |
 ## When to Call a Pro
 
 S120 drive replacement on a Sinumerik 840D requires parameter backup, commissioning, and safety function verification. Siemens-trained service engineers handle 840D drive replacements.

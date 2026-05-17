@@ -61,7 +61,7 @@ The XE80 uses a hot-surface igniter (silicon carbide on older units, silicon nit
 
 | Part | Notes |
 |------|-------|
-| Hot-surface igniter | [Amazon](https://www.amazon.com/s?k=Hot-surface+igniter&tag=errorcodefixes-20) \| Trane CNT1011, CNT05473 or OEM equivalent |
+| Hot-surface igniter | [Amazon](https://www.amazon.com/s?i=industrial&k=Hot-surface+igniter&tag=errorcodefixes-20) \| Trane CNT1011, CNT05473 or OEM equivalent |
 | Blower run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| 5–10 µF / 370V depending on motor |
 | Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| 0.35"–0.50" WC for XE80 |
 | Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| 3/8" ID rubber vacuum hose |

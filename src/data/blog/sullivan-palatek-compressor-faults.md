@@ -42,8 +42,8 @@ Check oil level and the oil filter condition. A clogged filter on a cold start w
 
 | Part | Notes |
 |------|-------|
-| Oil filter | [Amazon](https://www.amazon.com/s?k=Oil+filter&tag=errorcodefixes-20) \| Replace at every service interval |
-| Oil separator element | [Amazon](https://www.amazon.com/s?k=Oil+separator+element&tag=errorcodefixes-20) \| Replace when differential pressure is high |
+| Oil filter | [Amazon](https://www.amazon.com/s?i=industrial&k=Oil+filter&tag=errorcodefixes-20) \| Replace at every service interval |
+| Oil separator element | [Amazon](https://www.amazon.com/s?i=industrial&k=Oil+separator+element&tag=errorcodefixes-20) \| Replace when differential pressure is high |
 | Discharge temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Inspect on repeated high-temp faults |
 | Cooling fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Check on high-temp shutdowns |
 ## Jump to Fix

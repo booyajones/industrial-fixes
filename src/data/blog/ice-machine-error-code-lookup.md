@@ -52,7 +52,7 @@ Ice machine codes usually point to freeze time, harvest time, water level, conde
 |---|---|
 | Water inlet valve | [Amazon](https://www.amazon.com/dp/B0CNFHW1ZJ?tag=errorcodefixes-20) \| Fill issues |
 | Float switch | [Amazon](https://www.amazon.com/dp/B005D4RFEM?tag=errorcodefixes-20) \| Water level faults |
-| Thermistor | [Amazon](https://www.amazon.com/s?k=Thermistor&tag=errorcodefixes-20) \| Freeze/harvest sensor problems |
+| Thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Thermistor&tag=errorcodefixes-20) \| Freeze/harvest sensor problems |
 | Hot gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) \| Harvest faults |
 | Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| High-pressure trips |
 ## When to Call a Pro

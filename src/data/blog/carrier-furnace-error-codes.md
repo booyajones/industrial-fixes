@@ -15,7 +15,7 @@ tags:
 
 Carrier gas furnaces use a blinking LED on the control board to communicate fault codes. Count the flashes in a repeating pattern — the number of blinks identifies the fault. Single-digit codes are common on older IFC boards; newer Carrier Infinity and Performance series use two-digit codes. Pull the furnace door and look through the sight glass or remove the lower access panel to see the LED.
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |------|---------|-----------|
 | 11 | No previous fault stored | Normal after power cycle |
 | 12 | Blower on after power up / prior to heat | Check blower wheel; verify prior call |

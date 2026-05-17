@@ -48,11 +48,11 @@ Verify cooler oil flow - a thermostatic bypass valve that sticks open causes hot
 
 | Part | Notes |
 |------|-------|
-| Hydraulic filter element | [Amazon](https://www.amazon.com/s?k=Hydraulic+filter+element&tag=errorcodefixes-20) \| Replace on bypass fault |
-| Proportional solenoid coil | [Amazon](https://www.amazon.com/s?k=Proportional+solenoid+coil&tag=errorcodefixes-20) \| Replace on coil fault |
-| Vickers EEA amplifier card | [Amazon](https://www.amazon.com/s?k=Vickers+EEA+amplifier+card&tag=errorcodefixes-20) \| Replace on electronics failure |
-| Thermostatic bypass valve | [Amazon](https://www.amazon.com/s?k=Thermostatic+bypass+valve&tag=errorcodefixes-20) \| Common on high-temp faults |
-| Pressure transducer | [Amazon](https://www.amazon.com/s?k=Pressure+transducer&tag=errorcodefixes-20) \| Replace on sensor fault |
+| Hydraulic filter element | [Amazon](https://www.amazon.com/s?i=industrial&k=Hydraulic+filter+element&tag=errorcodefixes-20) \| Replace on bypass fault |
+| Proportional solenoid coil | [Amazon](https://www.amazon.com/s?i=industrial&k=Proportional+solenoid+coil&tag=errorcodefixes-20) \| Replace on coil fault |
+| Vickers EEA amplifier card | [Amazon](https://www.amazon.com/s?i=industrial&k=Vickers+EEA+amplifier+card&tag=errorcodefixes-20) \| Replace on electronics failure |
+| Thermostatic bypass valve | [Amazon](https://www.amazon.com/s?i=industrial&k=Thermostatic+bypass+valve&tag=errorcodefixes-20) \| Common on high-temp faults |
+| Pressure transducer | [Amazon](https://www.amazon.com/s?i=industrial&k=Pressure+transducer&tag=errorcodefixes-20) \| Replace on sensor fault |
 ## When to Call a Pro
 Vickers servo proportional valve null adjustment and amplifier tuning requires factory procedures. Mis-adjusted valves cause cylinder drift and loss of position control.
 

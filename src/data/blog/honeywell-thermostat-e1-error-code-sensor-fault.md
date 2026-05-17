@@ -52,10 +52,10 @@ Unlike external sensor errors (which can sometimes be resolved by repositioning 
 
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|-------------|
-| Honeywell T6 Pro Thermostat | TH6320U2008 | $70–$85 | [Amazon](https://www.amazon.com/s?k=TH6320U2008+Honeywell+T6+Pro+Thermostat&tag=errorcodefixes-20) \| Amazon / Home Depot |
-| Honeywell T9 Smart Thermostat | RTH9585WF | $130–$160 | [Amazon](https://www.amazon.com/s?k=RTH9585WF+Honeywell+T9+Smart+Thermostat&tag=errorcodefixes-20) \| Amazon / Best Buy |
-| Honeywell T10 Pro Thermostat | THX321WFS | $150–$190 | [Amazon](https://www.amazon.com/s?k=THX321WFS+Honeywell+T10+Pro+Thermostat&tag=errorcodefixes-20) \| Amazon / Home Depot |
-| Smart Room Sensor (T9/T10) | RCHTSENSOR-1PK | $28–$35 | [Amazon](https://www.amazon.com/s?k=RCHTSENSOR-1PK+Smart+Room+Sensor+%28T9%2FT10%29&tag=errorcodefixes-20) \| Amazon |
+| Honeywell T6 Pro Thermostat | TH6320U2008 | $70–$85 | [Amazon](https://www.amazon.com/s?i=industrial&k=TH6320U2008+Honeywell+T6+Pro+Thermostat&tag=errorcodefixes-20) \| Amazon / Home Depot |
+| Honeywell T9 Smart Thermostat | RTH9585WF | $130–$160 | [Amazon](https://www.amazon.com/s?i=industrial&k=RTH9585WF+Honeywell+T9+Smart+Thermostat&tag=errorcodefixes-20) \| Amazon / Best Buy |
+| Honeywell T10 Pro Thermostat | THX321WFS | $150–$190 | [Amazon](https://www.amazon.com/s?i=industrial&k=THX321WFS+Honeywell+T10+Pro+Thermostat&tag=errorcodefixes-20) \| Amazon / Home Depot |
+| Smart Room Sensor (T9/T10) | RCHTSENSOR-1PK | $28–$35 | [Amazon](https://www.amazon.com/s?i=industrial&k=RCHTSENSOR-1PK+Smart+Room+Sensor+%28T9%2FT10%29&tag=errorcodefixes-20) \| Amazon |
 ## When to Call a Professional
 
 If you're not comfortable with low-voltage thermostat wiring — specifically identifying and labeling your R, C, Y, W, G, and O/B wires — call an HVAC technician to handle the replacement. A mis-wired thermostat can damage the control board on your air handler or furnace (particularly if the R and C terminals are shorted). If your system uses proprietary wiring (Carrier Infinity, Lennox iComfort, or Trane ComfortLink), a standard Honeywell thermostat is not a compatible replacement and you'll need the same-brand smart thermostat from an authorized dealer.

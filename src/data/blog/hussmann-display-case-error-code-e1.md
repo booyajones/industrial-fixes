@@ -37,8 +37,8 @@ Hussmann display case error code E1 usually indicates a defrost heater fault or 
 | Part | Notes |
 |------|-------|
 | Defrost heater | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) \| Replace if continuity is open or the heater sheath is damaged |
-| Defrost termination sensor | [Amazon](https://www.amazon.com/s?k=Defrost+termination+sensor&tag=errorcodefixes-20) \| Replace if temperature response to the controller is wrong |
-| Defrost relay or controller output board | [Amazon](https://www.amazon.com/s?k=Defrost+relay+or+controller+output+board&tag=errorcodefixes-20) \| Replace if the heater never gets voltage during forced defrost |
+| Defrost termination sensor | [Amazon](https://www.amazon.com/s?i=industrial&k=Defrost+termination+sensor&tag=errorcodefixes-20) \| Replace if temperature response to the controller is wrong |
+| Defrost relay or controller output board | [Amazon](https://www.amazon.com/s?i=industrial&k=Defrost+relay+or+controller+output+board&tag=errorcodefixes-20) \| Replace if the heater never gets voltage during forced defrost |
 ## When to Call a Pro
 
 Defrost circuits in supermarket cases often run at line voltage and may tie into rack controls or store EMS controls. If you lose heater power upstream of the case controller, bring in a commercial refrigeration electrician or rack tech.

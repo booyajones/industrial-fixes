@@ -100,9 +100,9 @@ The control board is receiving less than 24V on the low-voltage circuit. Causes:
 | Part | Use | Amazon Link |
 |------|-----|-------------|
 | Dual Run Capacitor (35/5 µF or 45/5 µF, 370V) | Fix 4-flash or 5-flash fault | [View on Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) |
-| Hard Start Kit (SPP5 or equivalent) | Help struggling compressor start | [View on Amazon](https://www.amazon.com/s?k=hard+start+kit+HVAC+compressor&tag=errorcodefixes-20) |
+| Hard Start Kit (SPP5 or equivalent) | Help struggling compressor start | [View on Amazon](https://www.amazon.com/s?i=industrial&k=hard+start+kit+HVAC+compressor&tag=errorcodefixes-20) |
 | Outdoor Fan Motor (1/4 HP, 825 RPM, 5-wire) | Replace seized or failed fan motor | [View on Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) |
-| Digital Capacitor Meter | Test run capacitors accurately | [View on Amazon](https://www.amazon.com/s?k=digital+capacitor+meter+HVAC&tag=errorcodefixes-20) |
+| Digital Capacitor Meter | Test run capacitors accurately | [View on Amazon](https://www.amazon.com/s?i=industrial&k=digital+capacitor+meter+HVAC&tag=errorcodefixes-20) |
 | AC Contactor 2-Pole 30A 24V Coil | Replace pitted or worn contactor | [View on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) |
 
 ## When to Call a Pro

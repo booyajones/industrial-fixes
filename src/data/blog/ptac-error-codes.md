@@ -366,9 +366,9 @@ PTAC replacement is often faster and cheaper than component-level repair. Use th
 
 ## Parts and Supply Links
 
-- **[Amana PTAC Thermistor Sensor Kit](https://www.amazon.com/s?k=amana+ptac+thermistor+sensor&tag=errorcodefixes-20)**
+- **[Amana PTAC Thermistor Sensor Kit](https://www.amazon.com/s?i=industrial&k=amana+ptac+thermistor+sensor&tag=errorcodefixes-20)**
 - **[GE Zoneline Control Board Replacement](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20)**
-- **[Friedrich PTAC Parts](https://www.amazon.com/s?k=friedrich+ptac+replacement+parts&tag=errorcodefixes-20)**
-- **[PTAC Filter Replacement Universal](https://www.amazon.com/s?k=ptac+replacement+filter+universal&tag=errorcodefixes-20)**
-- **[PTAC Blower Fan Motor](https://www.amazon.com/s?k=ptac+blower+motor+replacement&tag=errorcodefixes-20)**
-- **[LG PTAC Replacement Parts](https://www.amazon.com/s?k=lg+ptac+replacement+parts+CH+error&tag=errorcodefixes-20)**
+- **[Friedrich PTAC Parts](https://www.amazon.com/s?i=industrial&k=friedrich+ptac+replacement+parts&tag=errorcodefixes-20)**
+- **[PTAC Filter Replacement Universal](https://www.amazon.com/s?i=industrial&k=ptac+replacement+filter+universal&tag=errorcodefixes-20)**
+- **[PTAC Blower Fan Motor](https://www.amazon.com/s?i=industrial&k=ptac+blower+motor+replacement&tag=errorcodefixes-20)**
+- **[LG PTAC Replacement Parts](https://www.amazon.com/s?i=industrial&k=lg+ptac+replacement+parts+CH+error&tag=errorcodefixes-20)**

@@ -52,12 +52,12 @@ The Haas VF-4 shares much of its alarm logic with the VF-2, but the larger trave
 
 | Part | Notes |
 |------|-------|
-| Air system components | [Amazon](https://www.amazon.com/s?k=Air+system+components&tag=errorcodefixes-20) \| Tool changer reliability depends on clean, dry air |
-| Way wipers / covers | [Amazon](https://www.amazon.com/s?k=Way+wipers+%2F+covers&tag=errorcodefixes-20) \| Frequent source of binding on bigger VMCs |
-| Servo amp | [Amazon](https://www.amazon.com/s?k=Servo+amp&tag=errorcodefixes-20) \| For repeat drive alarms |
-| Encoder or cable | [Amazon](https://www.amazon.com/s?k=Encoder+or+cable&tag=errorcodefixes-20) \| Intermittent axis problems |
-| Prox sensors | [Amazon](https://www.amazon.com/s?k=Prox+sensors&tag=errorcodefixes-20) \| ATC and home position feedback |
-| Lubrication parts | [Amazon](https://www.amazon.com/s?k=Lubrication+parts&tag=errorcodefixes-20) \| Low lube creates expensive motion problems |
+| Air system components | [Amazon](https://www.amazon.com/s?i=industrial&k=Air+system+components&tag=errorcodefixes-20) \| Tool changer reliability depends on clean, dry air |
+| Way wipers / covers | [Amazon](https://www.amazon.com/s?i=industrial&k=Way+wipers+%2F+covers&tag=errorcodefixes-20) \| Frequent source of binding on bigger VMCs |
+| Servo amp | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+amp&tag=errorcodefixes-20) \| For repeat drive alarms |
+| Encoder or cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+or+cable&tag=errorcodefixes-20) \| Intermittent axis problems |
+| Prox sensors | [Amazon](https://www.amazon.com/s?i=industrial&k=Prox+sensors&tag=errorcodefixes-20) \| ATC and home position feedback |
+| Lubrication parts | [Amazon](https://www.amazon.com/s?i=industrial&k=Lubrication+parts&tag=errorcodefixes-20) \| Low lube creates expensive motion problems |
 ## When to Call a Pro
 
 If the VF-4 is faulting after a crash or has rising axis load over time, stop and inspect mechanically. Bigger Haas machines hide binding for a while, then suddenly turn it into a much more expensive repair.

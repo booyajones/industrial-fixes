@@ -38,8 +38,8 @@ Fanuc alarm 5 indicates a stored stroke limit 2 overtravel. This is similar to a
 
 | Part | Notes |
 |------|-------|
-| No parts typically required | [Amazon](https://www.amazon.com/s?k=No+parts+typically+required&tag=errorcodefixes-20) \| Alarm 5 is a software boundary fault; recovery is via parameter or program correction |
-| Fanuc servo drive or motor | [Amazon](https://www.amazon.com/s?k=Fanuc+servo+drive+or+motor&tag=errorcodefixes-20) \| Only if position feedback error caused the axis to appear outside limits |
+| No parts typically required | [Amazon](https://www.amazon.com/s?i=industrial&k=No+parts+typically+required&tag=errorcodefixes-20) \| Alarm 5 is a software boundary fault; recovery is via parameter or program correction |
+| Fanuc servo drive or motor | [Amazon](https://www.amazon.com/s?i=industrial&k=Fanuc+servo+drive+or+motor&tag=errorcodefixes-20) \| Only if position feedback error caused the axis to appear outside limits |
 ## When to Call a Pro
 
 If alarm 5 occurs in positions that appear to be within the expected travel range, the position feedback system (encoder, linear scale) may be reporting incorrect axis position. Contact a Fanuc-certified technician for encoder and servo drive verification.

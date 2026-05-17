@@ -114,11 +114,11 @@ Never bypass the condensate drain sensor, the RTGH-95DVLN produces roughly 1–3
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
 | [Rheem Tankless Water Heater Temperature Sensor RTG20009B](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | Secondary HX and outlet sensors; codes 24, 32, 33 | $20–$45 |
-| [Condensate Neutralizer Refill Kit](https://www.amazon.com/s?k=condensate+neutralizer+refill+media+tankless&tag=errorcodefixes-20) | Required if condensate drain is acidic; neutralizes pH before drain | $15–$35 |
-| [Tankless Water Heater Descaler Flush Kit](https://www.amazon.com/s?k=tankless+water+heater+descaler+flush+pump+kit&tag=errorcodefixes-20) | Removes scale from secondary heat exchanger; prevents codes 16, 29, 33 | $30–$60 |
-| [Rheem Combustion Fan AP15516-1](https://www.amazon.com/s?k=Rheem+RTGH+combustion+fan+blower+AP15516&tag=errorcodefixes-20) | Replace on code 61; inspect before condemning, check wiring first | $80–$175 |
-| [Condensate Pump for Tankless Water Heater](https://www.amazon.com/s?k=condensate+pump+tankless+water+heater&tag=errorcodefixes-20) | Required when gravity drain to floor drain isn't possible; code 29 prevention | $35–$80 |
-| [Rheem Igniter Electrode Kit](https://www.amazon.com/s?k=Rheem+RTGH+igniter+electrode+kit+tankless&tag=errorcodefixes-20) | Replace on code 11 if electrode is fouled or gap is incorrect | $20–$50 |
+| [Condensate Neutralizer Refill Kit](https://www.amazon.com/s?i=industrial&k=condensate+neutralizer+refill+media+tankless&tag=errorcodefixes-20) | Required if condensate drain is acidic; neutralizes pH before drain | $15–$35 |
+| [Tankless Water Heater Descaler Flush Kit](https://www.amazon.com/s?i=industrial&k=tankless+water+heater+descaler+flush+pump+kit&tag=errorcodefixes-20) | Removes scale from secondary heat exchanger; prevents codes 16, 29, 33 | $30–$60 |
+| [Rheem Combustion Fan AP15516-1](https://www.amazon.com/s?i=industrial&k=Rheem+RTGH+combustion+fan+blower+AP15516&tag=errorcodefixes-20) | Replace on code 61; inspect before condemning, check wiring first | $80–$175 |
+| [Condensate Pump for Tankless Water Heater](https://www.amazon.com/s?i=industrial&k=condensate+pump+tankless+water+heater&tag=errorcodefixes-20) | Required when gravity drain to floor drain isn't possible; code 29 prevention | $35–$80 |
+| [Rheem Igniter Electrode Kit](https://www.amazon.com/s?i=industrial&k=Rheem+RTGH+igniter+electrode+kit+tankless&tag=errorcodefixes-20) | Replace on code 11 if electrode is fouled or gap is incorrect | $20–$50 |
 
 ## When to Call a Pro
 

@@ -36,10 +36,10 @@ Alarm 500 on a Mitsubishi CNC (M70, M70V, M80, M800 series controls) indicates a
 
 | Part | Notes |
 |------|-------|
-| MDS servo amplifier | [Amazon](https://www.amazon.com/s?k=MDS+servo+amplifier&tag=errorcodefixes-20) \| Mitsubishi MDS-D2/EX series; match axis kW rating |
-| Servo motor (HF/HC series) | [Amazon](https://www.amazon.com/s?k=Servo+motor+%28HF%2FHC+series%29&tag=errorcodefixes-20) \| Mitsubishi OEM; match drive and machine specifications |
-| Encoder feedback cable | [Amazon](https://www.amazon.com/s?k=Encoder+feedback+cable&tag=errorcodefixes-20) \| Mitsubishi preassembled; use OEM for reliable shielding |
-| Encoder backup battery | [Amazon](https://www.amazon.com/s?k=Encoder+backup+battery&tag=errorcodefixes-20) \| Replace every 3–5 years on absolute encoder systems |
+| MDS servo amplifier | [Amazon](https://www.amazon.com/s?i=industrial&k=MDS+servo+amplifier&tag=errorcodefixes-20) \| Mitsubishi MDS-D2/EX series; match axis kW rating |
+| Servo motor (HF/HC series) | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+motor+%28HF%2FHC+series%29&tag=errorcodefixes-20) \| Mitsubishi OEM; match drive and machine specifications |
+| Encoder feedback cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+feedback+cable&tag=errorcodefixes-20) \| Mitsubishi preassembled; use OEM for reliable shielding |
+| Encoder backup battery | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+backup+battery&tag=errorcodefixes-20) \| Replace every 3–5 years on absolute encoder systems |
 ## When to Call a Pro
 
 Mitsubishi M70/M80 servo system repair and re-parameterization requires Mitsubishi-certified technicians. Alarm 500 following a crash should trigger a machine geometry verification — axis squareness and backlash compensation may need to be re-measured before returning the machine to production.

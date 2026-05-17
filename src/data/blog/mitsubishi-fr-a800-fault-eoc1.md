@@ -44,11 +44,11 @@ This is one of the most common high-pressure production faults because it happen
 
 | Part | Notes |
 |------|-------|
-| VFD-rated motor cable | [Amazon](https://www.amazon.com/s?k=VFD+rated+motor+cable&tag=errorcodefixes-20) \| Replace cable with damaged insulation or repeated flex damage |
-| Insulation tester | [Amazon](https://www.amazon.com/s?k=megohmmeter+insulation+tester&tag=errorcodefixes-20) \| Required to separate cable faults from motor faults |
-| Output reactor | [Amazon](https://www.amazon.com/s?k=output+reactor+vfd&tag=errorcodefixes-20) \| Useful on long motor leads or harsh reflected-wave installations |
-| Replacement 3-phase motor | [Amazon](https://www.amazon.com/s?k=3+phase+motor+inverter+duty&tag=errorcodefixes-20) \| Needed when winding damage or bearing drag is driving current up |
-| Encoder cable / feedback cable hardware | [Amazon](https://www.amazon.com/s?k=industrial+encoder+cable&tag=errorcodefixes-20) \| Relevant on vector applications with feedback issues |
+| VFD-rated motor cable | [Amazon](https://www.amazon.com/s?i=industrial&k=VFD+rated+motor+cable&tag=errorcodefixes-20) \| Replace cable with damaged insulation or repeated flex damage |
+| Insulation tester | [Amazon](https://www.amazon.com/s?i=industrial&k=megohmmeter+insulation+tester&tag=errorcodefixes-20) \| Required to separate cable faults from motor faults |
+| Output reactor | [Amazon](https://www.amazon.com/s?i=industrial&k=output+reactor+vfd&tag=errorcodefixes-20) \| Useful on long motor leads or harsh reflected-wave installations |
+| Replacement 3-phase motor | [Amazon](https://www.amazon.com/s?i=industrial&k=3+phase+motor+inverter+duty&tag=errorcodefixes-20) \| Needed when winding damage or bearing drag is driving current up |
+| Encoder cable / feedback cable hardware | [Amazon](https://www.amazon.com/s?i=industrial&k=industrial+encoder+cable&tag=errorcodefixes-20) \| Relevant on vector applications with feedback issues |
 
 ## When to Call a Professional
 

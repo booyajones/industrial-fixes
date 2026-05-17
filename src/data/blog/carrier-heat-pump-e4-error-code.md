@@ -36,9 +36,9 @@ The Carrier heat pump **E4 error code** indicates a **low pressure fault** — t
 
 | Part | Notes |
 |------|-------|
-| Refrigerant charge (R-410A per nameplate) | [Amazon](https://www.amazon.com/s?k=Refrigerant+charge+%28R-410A+per+nameplate%29&tag=errorcodefixes-20) \| Add only after leak is located and repaired; EPA 608 cert required |
+| Refrigerant charge (R-410A per nameplate) | [Amazon](https://www.amazon.com/s?i=industrial&k=Refrigerant+charge+%28R-410A+per+nameplate%29&tag=errorcodefixes-20) \| Add only after leak is located and repaired; EPA 608 cert required |
 | Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Replace if switch tests open at normal operating pressures |
-| Expansion valve (TXV) | [Amazon](https://www.amazon.com/s?k=Expansion+valve+%28TXV%29&tag=errorcodefixes-20) \| Replace if suction pressure is low with confirmed adequate refrigerant charge |
+| Expansion valve (TXV) | [Amazon](https://www.amazon.com/s?i=industrial&k=Expansion+valve+%28TXV%29&tag=errorcodefixes-20) \| Replace if suction pressure is low with confirmed adequate refrigerant charge |
 | Air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| Replace if clogged; use MERV 8 or lower to avoid restricting airflow |
 ## When to Call a Pro
 

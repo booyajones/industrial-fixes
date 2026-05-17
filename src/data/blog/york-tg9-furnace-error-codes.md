@@ -58,7 +58,7 @@ The York TG9 is a 96% AFUE two-stage variable-speed gas furnace. It is part of Y
 | Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Silicon nitride; specific to TG9 model |
 | Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Rod-type; clean before replacing |
 | Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) \| PVC trap assembly; critical to pressure switch operation |
-| ECM blower motor module | [Amazon](https://www.amazon.com/s?k=ECM+blower+motor+module&tag=errorcodefixes-20) \| Module only — verify motor spins freely before replacing |
+| ECM blower motor module | [Amazon](https://www.amazon.com/s?i=industrial&k=ECM+blower+motor+module&tag=errorcodefixes-20) \| Module only — verify motor spins freely before replacing |
 | Inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| ECM type; includes tach feedback |
 | Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Check tubing and condensate trap first |
 ## When to Call a Pro

@@ -36,8 +36,8 @@ Fault LF on a Yaskawa drive (A1000, V1000, GA700, GA800) stands for Output Phase
 
 | Part | Notes |
 |------|-------|
-| Motor cable (VFD-rated, screened) | [Amazon](https://www.amazon.com/s?k=Motor+cable+%28VFD-rated%2C+screened%29&tag=errorcodefixes-20) \| Replace if any conductor shows intermittent or open continuity |
-| Motor (rewind or replacement) | [Amazon](https://www.amazon.com/s?k=Motor+%28rewind+or+replacement%29&tag=errorcodefixes-20) \| If open winding is confirmed |
+| Motor cable (VFD-rated, screened) | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+cable+%28VFD-rated%2C+screened%29&tag=errorcodefixes-20) \| Replace if any conductor shows intermittent or open continuity |
+| Motor (rewind or replacement) | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+%28rewind+or+replacement%29&tag=errorcodefixes-20) \| If open winding is confirmed |
 | Output contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Replace if single pole fails to make contact |
 ## When to Call a Pro
 

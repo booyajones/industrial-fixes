@@ -54,7 +54,7 @@ Furnace fault codes are usually shown as blinking LEDs, two-digit board codes, o
 | Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) \| Cheap and commonly dirty |
 | Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Fragile, common wear part |
 | Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Check tubing before replacing |
-| Blower capacitor | [Amazon](https://www.amazon.com/s?k=Blower+capacitor&tag=errorcodefixes-20) \| Common on PSC motor furnaces |
+| Blower capacitor | [Amazon](https://www.amazon.com/s?i=industrial&k=Blower+capacitor&tag=errorcodefixes-20) \| Common on PSC motor furnaces |
 | Air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20) \| Low-cost first fix |
 ## When to Call a Pro
 

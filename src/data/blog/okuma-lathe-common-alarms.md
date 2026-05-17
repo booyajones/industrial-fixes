@@ -77,10 +77,10 @@ When THINC detects anomalies (vibration, thermal), it can trigger preventive ala
 
 | Part | Notes |
 |------|-------|
-| Encoder battery (3.6V lithium) | [Amazon](https://www.amazon.com/s?k=Encoder+battery+%283.6V+lithium%29&tag=errorcodefixes-20) \| Replace on ABS data errors |
-| Servo amplifier module | [Amazon](https://www.amazon.com/s?k=Servo+amplifier+module&tag=errorcodefixes-20) \| Replace on persistent 1013 faults |
-| Turret hydraulic motor | [Amazon](https://www.amazon.com/s?k=Turret+hydraulic+motor&tag=errorcodefixes-20) \| Replace on turret fault if hydraulic |
-| Spindle encoder | [Amazon](https://www.amazon.com/s?k=Spindle+encoder&tag=errorcodefixes-20) \| Replace on persistent 1201 faults |
+| Encoder battery (3.6V lithium) | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+battery+%283.6V+lithium%29&tag=errorcodefixes-20) \| Replace on ABS data errors |
+| Servo amplifier module | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+amplifier+module&tag=errorcodefixes-20) \| Replace on persistent 1013 faults |
+| Turret hydraulic motor | [Amazon](https://www.amazon.com/s?i=industrial&k=Turret+hydraulic+motor&tag=errorcodefixes-20) \| Replace on turret fault if hydraulic |
+| Spindle encoder | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+encoder&tag=errorcodefixes-20) \| Replace on persistent 1201 faults |
 ## Jump to Fix
 
 - **1013 servo fault** → Power cycle → Note sub-code → Inspect motor encoder

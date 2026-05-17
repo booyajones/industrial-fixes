@@ -85,7 +85,7 @@ LG mini-splits allow 3 high-pressure trips before hard lockout:
 | Outdoor fan run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| LG-specific — match µF and voltage |
 | Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Match HP, RPM, and shaft diameter |
 | High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| LG part — match trip pressure (590 psig for R-410A) |
-| Condenser coil | [Amazon](https://www.amazon.com/s?k=Condenser+coil&tag=errorcodefixes-20) \| Extensive fin damage — clean before condemning |
+| Condenser coil | [Amazon](https://www.amazon.com/s?i=industrial&k=Condenser+coil&tag=errorcodefixes-20) \| Extensive fin damage — clean before condemning |
 > **Pro tip:** In areas with heavy cottonwood or pollen, schedule annual coil cleaning in spring before cooling season. A clean coil prevents most CH21 faults without any refrigerant work.
 
 ## Related Articles

@@ -47,11 +47,11 @@ Gen2 uses Otis-proprietary regenerative drives in newer installations. A drive f
 
 | Part | Notes |
 |------|-------|
-| Door contacts (UCM rated) | [Amazon](https://www.amazon.com/s?k=Door+contacts+%28UCM+rated%29&tag=errorcodefixes-20) \| Replace when worn |
-| Brake coil / armature | [Amazon](https://www.amazon.com/s?k=Brake+coil+%2F+armature&tag=errorcodefixes-20) \| Replace on brake fault |
-| Motor encoder | [Amazon](https://www.amazon.com/s?k=Motor+encoder&tag=errorcodefixes-20) \| Replace on encoder fault |
-| Drive module (Otis regen) | [Amazon](https://www.amazon.com/s?k=Drive+module+%28Otis+regen%29&tag=errorcodefixes-20) \| Replace on persistent drive fault |
-| LiNX controller board | [Amazon](https://www.amazon.com/s?k=LiNX+controller+board&tag=errorcodefixes-20) \| Replace on controller fault |
+| Door contacts (UCM rated) | [Amazon](https://www.amazon.com/s?i=industrial&k=Door+contacts+%28UCM+rated%29&tag=errorcodefixes-20) \| Replace when worn |
+| Brake coil / armature | [Amazon](https://www.amazon.com/s?i=industrial&k=Brake+coil+%2F+armature&tag=errorcodefixes-20) \| Replace on brake fault |
+| Motor encoder | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+encoder&tag=errorcodefixes-20) \| Replace on encoder fault |
+| Drive module (Otis regen) | [Amazon](https://www.amazon.com/s?i=industrial&k=Drive+module+%28Otis+regen%29&tag=errorcodefixes-20) \| Replace on persistent drive fault |
+| LiNX controller board | [Amazon](https://www.amazon.com/s?i=industrial&k=LiNX+controller+board&tag=errorcodefixes-20) \| Replace on controller fault |
 ## When to Call a Pro
 **Otis elevator systems require licensed elevator mechanics.** The LiNX controller programming is locked and accessible only to Otis-authorized personnel. Do not attempt to clear faults in the pit without proper lockout/tagout procedures.
 

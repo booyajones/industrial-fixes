@@ -37,7 +37,7 @@ Fujitsu mini split error code E3 indicates a fan motor fault on the indoor unit.
 | Part | Notes |
 |------|-------|
 | Indoor DC fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Fujitsu uses several motor variants; order by indoor unit model number |
-| Fan wheel (cross-flow fan) | [Amazon](https://www.amazon.com/s?k=Fan+wheel+%28cross-flow+fan%29&tag=errorcodefixes-20) \| Replace if blades are cracked, warped, or contaminated with heavy debris |
+| Fan wheel (cross-flow fan) | [Amazon](https://www.amazon.com/s?i=industrial&k=Fan+wheel+%28cross-flow+fan%29&tag=errorcodefixes-20) \| Replace if blades are cracked, warped, or contaminated with heavy debris |
 | Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Replace only if motor driver output is confirmed dead |
 ## When to Call a Pro
 

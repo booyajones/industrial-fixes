@@ -53,9 +53,9 @@ If the internal shutter mechanism fails, the camera cannot perform NUC. Symptoms
 
 | Part | Notes |
 |------|-------|
-| Battery pack | [Amazon](https://www.amazon.com/s?k=Battery+pack&tag=errorcodefixes-20) \| FLIR T197771 or compatible |
-| Battery charger | [Amazon](https://www.amazon.com/s?k=Battery+charger&tag=errorcodefixes-20) \| FLIR ACC-T197773 |
-| SD card | [Amazon](https://www.amazon.com/s?k=SD+card&tag=errorcodefixes-20) \| Class 10 SDHC up to 32GB, FAT32 |
-| Lens cleaning kit | [Amazon](https://www.amazon.com/s?k=Lens+cleaning+kit&tag=errorcodefixes-20) \| Dry optical lens tissue only |
-| USB cable | [Amazon](https://www.amazon.com/s?k=USB+cable&tag=errorcodefixes-20) \| Mini-USB type B |
+| Battery pack | [Amazon](https://www.amazon.com/s?i=industrial&k=Battery+pack&tag=errorcodefixes-20) \| FLIR T197771 or compatible |
+| Battery charger | [Amazon](https://www.amazon.com/s?i=industrial&k=Battery+charger&tag=errorcodefixes-20) \| FLIR ACC-T197773 |
+| SD card | [Amazon](https://www.amazon.com/s?i=industrial&k=SD+card&tag=errorcodefixes-20) \| Class 10 SDHC up to 32GB, FAT32 |
+| Lens cleaning kit | [Amazon](https://www.amazon.com/s?i=industrial&k=Lens+cleaning+kit&tag=errorcodefixes-20) \| Dry optical lens tissue only |
+| USB cable | [Amazon](https://www.amazon.com/s?i=industrial&k=USB+cable&tag=errorcodefixes-20) \| Mini-USB type B |
 > **Pro tip:** FLIR T620 calibration is typically factory-verified annually. Keep calibration certificates current for compliance with industrial thermography standards (ISO 18436-7, ASNT TC-1A). Calibration expiry appears in FLIR Tools under camera properties.

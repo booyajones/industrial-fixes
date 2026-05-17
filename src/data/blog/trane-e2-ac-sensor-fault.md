@@ -50,8 +50,8 @@ On single-stage non-communicating systems, E2 is most often an outdoor ambient t
 | Part | Notes |
 |------|-------|
 | Trane outdoor ambient temp sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) — Match by model number; many Trane OAT sensors share part numbers across product lines |
-| Trane liquid / suction line thermistor | [Amazon](https://www.amazon.com/s?k=trane+heat+pump+refrigerant+thermistor&tag=errorcodefixes-20) — Required for heat pump defrost control; clip-type sensor |
-| Electrical contact cleaner | [Amazon](https://www.amazon.com/s?k=electrical+contact+cleaner+CRC&tag=errorcodefixes-20) — Use before replacing sensors if connector corrosion is visible |
+| Trane liquid / suction line thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=trane+heat+pump+refrigerant+thermistor&tag=errorcodefixes-20) — Required for heat pump defrost control; clip-type sensor |
+| Electrical contact cleaner | [Amazon](https://www.amazon.com/s?i=industrial&k=electrical+contact+cleaner+CRC&tag=errorcodefixes-20) — Use before replacing sensors if connector corrosion is visible |
 | Trane outdoor unit control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) — Replace only after sensors and wiring are confirmed good |
 
 ## When to Call a Technician

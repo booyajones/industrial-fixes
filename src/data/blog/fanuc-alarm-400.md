@@ -36,9 +36,9 @@ Fanuc alarm 400 (SV0400: SERVO OVERLOAD: X AXIS) is a servo amplifier overload a
 
 | Part | Notes |
 |------|-------|
-| Servo amplifier cooling fan | [Amazon](https://www.amazon.com/s?k=Servo+amplifier+cooling+fan&tag=errorcodefixes-20) \| Match voltage and CFM; Fanuc uses 24VDC fans on most amplifiers |
-| Ball screw nut or bearings | [Amazon](https://www.amazon.com/s?k=Ball+screw+nut+or+bearings&tag=errorcodefixes-20) \| Replace if mechanical binding is the confirmed cause |
-| Servo amplifier module | [Amazon](https://www.amazon.com/s?k=Servo+amplifier+module&tag=errorcodefixes-20) \| Replace if amplifier fails to reset after cooling and cause is identified/corrected |
+| Servo amplifier cooling fan | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+amplifier+cooling+fan&tag=errorcodefixes-20) \| Match voltage and CFM; Fanuc uses 24VDC fans on most amplifiers |
+| Ball screw nut or bearings | [Amazon](https://www.amazon.com/s?i=industrial&k=Ball+screw+nut+or+bearings&tag=errorcodefixes-20) \| Replace if mechanical binding is the confirmed cause |
+| Servo amplifier module | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+amplifier+module&tag=errorcodefixes-20) \| Replace if amplifier fails to reset after cooling and cause is identified/corrected |
 ## When to Call a Pro
 
 Servo parameter adjustment on Fanuc systems requires access to parameter write mode and machine builder knowledge of the correct baseline values. Incorrect parameters can cause axis instability or crash the machine. A Fanuc-authorized service engineer should perform servo tuning if parameters are suspect.

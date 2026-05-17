@@ -90,11 +90,11 @@ Do not use an open flame to test for gas leaks. Never.
 
 | Part | What It Fixes | Amazon Link |
 |------|--------------|-------------|
-| Electronic Combustible Gas Leak Detector | Locating gas leaks at connections and fittings | [View on Amazon](https://www.amazon.com/s?k=combustible+gas+leak+detector+methane+propane&tag=errorcodefixes-20) |
-| Gas Line Flex Connector (corrugated SS, various lengths) | Replacing cracked or corroded flex connector | [View on Amazon](https://www.amazon.com/s?k=gas+line+flex+connector+furnace+stainless&tag=errorcodefixes-20) |
-| Gas Leak Detector Spray (Bubble Solution) | Testing connections after repair | [View on Amazon](https://www.amazon.com/s?k=gas+leak+detector+spray+bubble+solution&tag=errorcodefixes-20) |
-| Yellow PTFE Gas Thread Seal Tape | Sealing threaded gas fittings | [View on Amazon](https://www.amazon.com/s?k=yellow+ptfe+gas+thread+tape+teflon&tag=errorcodefixes-20) |
-| Combination CO + Gas Detector Alarm | Ongoing safety monitoring | [View on Amazon](https://www.amazon.com/s?k=combination+carbon+monoxide+gas+detector+alarm&tag=errorcodefixes-20) |
+| Electronic Combustible Gas Leak Detector | Locating gas leaks at connections and fittings | [View on Amazon](https://www.amazon.com/s?i=industrial&k=combustible+gas+leak+detector+methane+propane&tag=errorcodefixes-20) |
+| Gas Line Flex Connector (corrugated SS, various lengths) | Replacing cracked or corroded flex connector | [View on Amazon](https://www.amazon.com/s?i=industrial&k=gas+line+flex+connector+furnace+stainless&tag=errorcodefixes-20) |
+| Gas Leak Detector Spray (Bubble Solution) | Testing connections after repair | [View on Amazon](https://www.amazon.com/s?i=industrial&k=gas+leak+detector+spray+bubble+solution&tag=errorcodefixes-20) |
+| Yellow PTFE Gas Thread Seal Tape | Sealing threaded gas fittings | [View on Amazon](https://www.amazon.com/s?i=industrial&k=yellow+ptfe+gas+thread+tape+teflon&tag=errorcodefixes-20) |
+| Combination CO + Gas Detector Alarm | Ongoing safety monitoring | [View on Amazon](https://www.amazon.com/s?i=industrial&k=combination+carbon+monoxide+gas+detector+alarm&tag=errorcodefixes-20) |
 | Universal Gas Valve Replacement (Honeywell VR8200) | Gas valve leak repair | [View on Amazon](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) |
 
 ---

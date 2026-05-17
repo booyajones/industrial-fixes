@@ -54,12 +54,12 @@ Before you reach for gauges, check box temperature, airflow, coil condition, con
 
 | Item | Notes |
 |------|-------|
-| Probe / thermistor | [Amazon](https://www.amazon.com/s?k=Probe+%2F+thermistor&tag=errorcodefixes-20) \| Cheap part, common failure |
-| Condenser brush or coil cleaner | [Amazon](https://www.amazon.com/s?k=Condenser+brush+or+coil+cleaner&tag=errorcodefixes-20) \| Dirty condensers are everywhere |
+| Probe / thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Probe+%2F+thermistor&tag=errorcodefixes-20) \| Cheap part, common failure |
+| Condenser brush or coil cleaner | [Amazon](https://www.amazon.com/s?i=industrial&k=Condenser+brush+or+coil+cleaner&tag=errorcodefixes-20) \| Dirty condensers are everywhere |
 | Fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Evaporator and condenser fan failures are common |
 | Door gasket | [Amazon](https://www.amazon.com/dp/B0FPF84HQP?tag=errorcodefixes-20) \| Warm-box issues on walk-ins and merchandisers |
 | Defrost heater / timer | [Amazon](https://www.amazon.com/dp/B07FVP4CY6?tag=errorcodefixes-20) \| For recurring defrost alarms |
-| Controller manual | [Amazon](https://www.amazon.com/s?k=Controller+manual&tag=errorcodefixes-20) \| Alarm meanings vary by platform |
+| Controller manual | [Amazon](https://www.amazon.com/s?i=industrial&k=Controller+manual&tag=errorcodefixes-20) \| Alarm meanings vary by platform |
 ## When to Call a Pro
 
 If the alarm points to high temperature with weak cooling, or if a defrost alarm repeats after heaters and sensors check out, it is time for refrigeration tools and a real pressure-temperature diagnosis.

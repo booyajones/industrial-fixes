@@ -40,7 +40,7 @@ On newer Goodman furnaces equipped with an LED display panel (GMVC96, GMSS96, AM
 |------|-------|
 | Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match the set-point rating (stamped on switch body) — Goodman uses both single and dual pressure switches |
 | Inducer motor capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Usually 5–7 µF; test before replacing the motor |
-| Inducer draft motor assembly | [Amazon](https://www.amazon.com/s?k=Inducer+draft+motor+assembly&tag=errorcodefixes-20) \| Replace if motor is noisy or spinning slow with good capacitor |
+| Inducer draft motor assembly | [Amazon](https://www.amazon.com/s?i=industrial&k=Inducer+draft+motor+assembly&tag=errorcodefixes-20) \| Replace if motor is noisy or spinning slow with good capacitor |
 | Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) \| Replace if cracked or if internal ball is stuck |
 | Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| Available by the foot at HVAC supply houses |
 ## When to Call a Pro

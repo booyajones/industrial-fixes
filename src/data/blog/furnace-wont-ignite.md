@@ -107,7 +107,7 @@ The thermostat tells the furnace when to start heating. If the wiring between th
 
 **The fix:** Tighten any loose screws on the thermostat terminals. If the wires are broken or corroded, splice in new wire and reconnect. If the thermostat appears to work but no signal reaches the furnace, the thermostat itself may need replacement.
 
-[Thermostat wiring repair kit on Amazon](https://www.amazon.com/s?k=thermostat+wiring+repair&tag=errorcodefixes-20)
+[Thermostat wiring repair kit on Amazon](https://www.amazon.com/s?i=industrial&k=thermostat+wiring+repair&tag=errorcodefixes-20)
 
 ## 6. Control Board Failure
 
@@ -136,7 +136,7 @@ High-efficiency condensing furnaces produce acidic water as a byproduct of combu
 
 **The fix:** Turn off power to the furnace. Disconnect the condensate drain line from the furnace and flush it with water. Clean the condensate trap according to the furnace manual (usually a removable plastic fitting with a float). Reassemble and restore power.
 
-[Condensate drain cleaning kit on Amazon](https://www.amazon.com/s?k=condensate+drain+cleaner+tablets&tag=errorcodefixes-20)
+[Condensate drain cleaning kit on Amazon](https://www.amazon.com/s?i=industrial&k=condensate+drain+cleaner+tablets&tag=errorcodefixes-20)
 
 ---
 
@@ -146,7 +146,7 @@ High-efficiency condensing furnaces produce acidic water as a byproduct of combu
 - [Flame sensor](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20)
 - [Pressure switch](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20)
 - [Furnace control board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20)
-- [Condensate drain tablets](https://www.amazon.com/s?k=condensate+drain+cleaner+tablets&tag=errorcodefixes-20)
+- [Condensate drain tablets](https://www.amazon.com/s?i=industrial&k=condensate+drain+cleaner+tablets&tag=errorcodefixes-20)
 - [Digital multimeter](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20)
 
 ---

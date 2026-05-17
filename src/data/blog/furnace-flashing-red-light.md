@@ -59,7 +59,7 @@ Rollout switch trips, repeated ignition lockouts, or a furnace that smells like 
 | Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| Often cracked or loose |
 | Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20) \| Common ignition failure part |
 | Multimeter | [Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) \| Needed for continuity and voltage checks |
-| Manometer | [Amazon](https://www.amazon.com/s?k=Manometer&tag=errorcodefixes-20) \| Useful for real draft and gas pressure diagnosis |
+| Manometer | [Amazon](https://www.amazon.com/s?i=industrial&k=Manometer&tag=errorcodefixes-20) \| Useful for real draft and gas pressure diagnosis |
 ## When to Call a Pro
 
 If the flashing red light points to rollout, repeated ignition failure, or gas-related faults, stop there and call an HVAC tech. Safety-device trips are one area where guessing can turn into a carbon monoxide or gas hazard fast.

@@ -36,8 +36,8 @@ Manitowoc error code 2 (or "Code 2" on older models, "2" on the LED display) mea
 
 | Part | Notes |
 |------|-------|
-| Harvest valve (hot gas solenoid) | [Amazon](https://www.amazon.com/s?k=Harvest+valve+%28hot+gas+solenoid%29&tag=errorcodefixes-20) \| Must be OEM for Manitowoc; aftermarket valves frequently cause new code 2 issues |
-| Manitowoc ACE 5 cleaner | [Amazon](https://www.amazon.com/s?k=Manitowoc+ACE+5+cleaner&tag=errorcodefixes-20) \| Specifically formulated for Manitowoc; descales and sanitizes |
+| Harvest valve (hot gas solenoid) | [Amazon](https://www.amazon.com/s?i=industrial&k=Harvest+valve+%28hot+gas+solenoid%29&tag=errorcodefixes-20) \| Must be OEM for Manitowoc; aftermarket valves frequently cause new code 2 issues |
+| Manitowoc ACE 5 cleaner | [Amazon](https://www.amazon.com/s?i=industrial&k=Manitowoc+ACE+5+cleaner&tag=errorcodefixes-20) \| Specifically formulated for Manitowoc; descales and sanitizes |
 | Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Replace if fan isn't running at full speed |
 ## When to Call a Pro
 

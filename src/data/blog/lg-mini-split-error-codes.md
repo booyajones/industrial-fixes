@@ -15,26 +15,26 @@ tags:
 
 LG mini-splits use "CH" (Check) codes displayed on the indoor unit's LED display or the wireless remote controller. On most LG systems, hold the SLEEP button for 3 seconds to display the current error code. LG Art Cool, Dual Inverter Compressor, and LGRED heat pump systems all use the same CH code format.
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |------|---------|-----------|
-| [CH01](https://www.amazon.com/s?k=CH01&tag=errorcodefixes-20) | Indoor intake thermistor fault | Replace indoor air thermistor |
-| [CH02](https://www.amazon.com/s?k=CH02&tag=errorcodefixes-20) | Indoor pipe thermistor fault | Replace indoor pipe thermistor |
-| [CH05](https://www.amazon.com/s?k=CH05&tag=errorcodefixes-20) | Communication error | Check signal wiring between units |
-| [CH07](https://www.amazon.com/s?k=CH07&tag=errorcodefixes-20) | Indoor PCB fault | Replace indoor PCB |
-| [CH10](https://www.amazon.com/s?k=CH10&tag=errorcodefixes-20) | Outdoor pipe thermistor fault | Replace outdoor pipe thermistor |
-| [CH12](https://www.amazon.com/s?k=CH12&tag=errorcodefixes-20) | Outdoor discharge pipe thermistor | Replace discharge thermistor |
-| [CH21](https://www.amazon.com/s?k=CH21&tag=errorcodefixes-20) | Outdoor PCB fault | Inspect outdoor board and fuses |
-| [CH22](https://www.amazon.com/s?k=CH22&tag=errorcodefixes-20) | Outdoor EEPROM fault | Replace outdoor PCB |
-| [CH23](https://www.amazon.com/s?k=CH23&tag=errorcodefixes-20) | DC fan motor fault | Check outdoor fan motor |
-| [CH25](https://www.amazon.com/s?k=CH25&tag=errorcodefixes-20) | IPM (inverter power module) fault | Check outdoor board; IPM failure |
-| [CH32](https://www.amazon.com/s?k=CH32&tag=errorcodefixes-20) | Overcurrent protection | Check refrigerant; compressor load |
-| [CH33](https://www.amazon.com/s?k=CH33&tag=errorcodefixes-20) | High pressure protection | Clean outdoor coil; check charge |
-| [CH34](https://www.amazon.com/s?k=CH34&tag=errorcodefixes-20) | Low pressure protection | Check refrigerant charge |
-| [CH35](https://www.amazon.com/s?k=CH35&tag=errorcodefixes-20) | Discharge temperature protection | Low refrigerant or expansion valve |
-| [CH38](https://www.amazon.com/s?k=CH38&tag=errorcodefixes-20) | Outdoor fan speed not detected | Fan motor fault |
-| [CH44](https://www.amazon.com/s?k=CH44&tag=errorcodefixes-20) | Drain float switch activation | Clear drain line; check pump |
-| [CH67](https://www.amazon.com/s?k=CH67&tag=errorcodefixes-20) | Inverter compressor fault | Compressor or IPM failure |
-| [CH68](https://www.amazon.com/s?k=CH68&tag=errorcodefixes-20) | PFC protection | Input power quality issue |
+| [CH01](https://www.amazon.com/s?i=industrial&k="CH01"&tag=errorcodefixes-20) | Indoor intake thermistor fault | Replace indoor air thermistor |
+| [CH02](https://www.amazon.com/s?i=industrial&k="CH02"&tag=errorcodefixes-20) | Indoor pipe thermistor fault | Replace indoor pipe thermistor |
+| [CH05](https://www.amazon.com/s?i=industrial&k="CH05"&tag=errorcodefixes-20) | Communication error | Check signal wiring between units |
+| [CH07](https://www.amazon.com/s?i=industrial&k="CH07"&tag=errorcodefixes-20) | Indoor PCB fault | Replace indoor PCB |
+| [CH10](https://www.amazon.com/s?i=industrial&k="CH10"&tag=errorcodefixes-20) | Outdoor pipe thermistor fault | Replace outdoor pipe thermistor |
+| [CH12](https://www.amazon.com/s?i=industrial&k="CH12"&tag=errorcodefixes-20) | Outdoor discharge pipe thermistor | Replace discharge thermistor |
+| [CH21](https://www.amazon.com/s?i=industrial&k="CH21"&tag=errorcodefixes-20) | Outdoor PCB fault | Inspect outdoor board and fuses |
+| [CH22](https://www.amazon.com/s?i=industrial&k="CH22"&tag=errorcodefixes-20) | Outdoor EEPROM fault | Replace outdoor PCB |
+| [CH23](https://www.amazon.com/s?i=industrial&k="CH23"&tag=errorcodefixes-20) | DC fan motor fault | Check outdoor fan motor |
+| [CH25](https://www.amazon.com/s?i=industrial&k="CH25"&tag=errorcodefixes-20) | IPM (inverter power module) fault | Check outdoor board; IPM failure |
+| [CH32](https://www.amazon.com/s?i=industrial&k="CH32"&tag=errorcodefixes-20) | Overcurrent protection | Check refrigerant; compressor load |
+| [CH33](https://www.amazon.com/s?i=industrial&k="CH33"&tag=errorcodefixes-20) | High pressure protection | Clean outdoor coil; check charge |
+| [CH34](https://www.amazon.com/s?i=industrial&k="CH34"&tag=errorcodefixes-20) | Low pressure protection | Check refrigerant charge |
+| [CH35](https://www.amazon.com/s?i=industrial&k="CH35"&tag=errorcodefixes-20) | Discharge temperature protection | Low refrigerant or expansion valve |
+| [CH38](https://www.amazon.com/s?i=industrial&k="CH38"&tag=errorcodefixes-20) | Outdoor fan speed not detected | Fan motor fault |
+| [CH44](https://www.amazon.com/s?i=industrial&k="CH44"&tag=errorcodefixes-20) | Drain float switch activation | Clear drain line; check pump |
+| [CH67](https://www.amazon.com/s?i=industrial&k="CH67"&tag=errorcodefixes-20) | Inverter compressor fault | Compressor or IPM failure |
+| [CH68](https://www.amazon.com/s?i=industrial&k="CH68"&tag=errorcodefixes-20) | PFC protection | Input power quality issue |
 
 ## Most Common Codes
 

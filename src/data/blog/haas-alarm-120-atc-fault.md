@@ -69,10 +69,10 @@ Key alarms in this range include:
 
 | Part | Notes |
 |------|-------|
-| ATC proximity switch | [Amazon](https://www.amazon.com/s?k=haas+atc+proximity+switch+sensor&tag=errorcodefixes-20) — Verify sensor thread size and sensing distance from Haas parts list; prox sensors are model-specific |
-| CAT40 retention knob | [Amazon](https://www.amazon.com/s?k=CAT40+retention+knob+pull+stud&tag=errorcodefixes-20) — Replace if loose, stripped, or damaged; buy in bulk as they wear with repeated tool changes |
-| CAT50 retention knob | [Amazon](https://www.amazon.com/s?k=CAT50+retention+knob+pull+stud&tag=errorcodefixes-20) — For larger VF-series machines; confirm spindle taper size on your model |
-| ATC grease / lubricant | [Amazon](https://www.amazon.com/s?k=haas+atc+grease+lubricant&tag=errorcodefixes-20) — Use Haas-specified grease on arm pivot and carousel drive gear; dry gears cause motion timeouts |
+| ATC proximity switch | [Amazon](https://www.amazon.com/s?i=industrial&k=haas+atc+proximity+switch+sensor&tag=errorcodefixes-20) — Verify sensor thread size and sensing distance from Haas parts list; prox sensors are model-specific |
+| CAT40 retention knob | [Amazon](https://www.amazon.com/s?i=industrial&k=CAT40+retention+knob+pull+stud&tag=errorcodefixes-20) — Replace if loose, stripped, or damaged; buy in bulk as they wear with repeated tool changes |
+| CAT50 retention knob | [Amazon](https://www.amazon.com/s?i=industrial&k=CAT50+retention+knob+pull+stud&tag=errorcodefixes-20) — For larger VF-series machines; confirm spindle taper size on your model |
+| ATC grease / lubricant | [Amazon](https://www.amazon.com/s?i=industrial&k=haas+atc+grease+lubricant&tag=errorcodefixes-20) — Use Haas-specified grease on arm pivot and carousel drive gear; dry gears cause motion timeouts |
 
 ## When to Call a Technician
 

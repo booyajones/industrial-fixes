@@ -312,7 +312,7 @@ SEW-Eurodrive service: 1-864-439-7537 (US). MOVITOOLS MotionStudio is free for d
 
 ## Amazon Affiliate Links
 
-- [Braking Resistor 100W 100 Ohm](https://www.amazon.com/s?k=braking+resistor+100w+VFD+drive&tag=errorcodefixes-20)
-- [Output Line Reactor 3-Phase VFD](https://www.amazon.com/s?k=output+line+reactor+3+phase+VFD&tag=errorcodefixes-20)
-- [PTC Thermistor Motor Protection](https://www.amazon.com/s?k=PTC+thermistor+motor+protection+sensor&tag=errorcodefixes-20)
-- [Shielded Encoder Cable 5-Pin](https://www.amazon.com/s?k=shielded+encoder+cable+industrial&tag=errorcodefixes-20)
+- [Braking Resistor 100W 100 Ohm](https://www.amazon.com/s?i=industrial&k=braking+resistor+100w+VFD+drive&tag=errorcodefixes-20)
+- [Output Line Reactor 3-Phase VFD](https://www.amazon.com/s?i=industrial&k=output+line+reactor+3+phase+VFD&tag=errorcodefixes-20)
+- [PTC Thermistor Motor Protection](https://www.amazon.com/s?i=industrial&k=PTC+thermistor+motor+protection+sensor&tag=errorcodefixes-20)
+- [Shielded Encoder Cable 5-Pin](https://www.amazon.com/s?i=industrial&k=shielded+encoder+cable+industrial&tag=errorcodefixes-20)

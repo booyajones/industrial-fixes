@@ -51,7 +51,7 @@ The Lennox XC21 is a variable-capacity inverter heat pump that communicates with
 
 | Part | Notes |
 |------|-------|
-| iComfort thermostat (S30 or E30) | [Amazon](https://www.amazon.com/s?k=iComfort+thermostat+%28S30+or+E30%29&tag=errorcodefixes-20) \| For persistent 411/434 after wiring confirmed |
+| iComfort thermostat (S30 or E30) | [Amazon](https://www.amazon.com/s?i=industrial&k=iComfort+thermostat+%28S30+or+E30%29&tag=errorcodefixes-20) \| For persistent 411/434 after wiring confirmed |
 | Outdoor unit control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| For persistent 434 — must match XC21 model exactly |
 | Condenser fan motor + capacitor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| For Alert 223 with clean coil; test capacitor before motor |
 | Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| For persistent Alert 225 after confirming charge |

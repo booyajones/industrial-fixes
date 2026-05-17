@@ -54,11 +54,11 @@ description: "Carrier mini-split F0 error code signals low refrigerant or leakag
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|-------------|
-| UV Refrigerant Leak Detection Dye Kit | $20–$45 | [Amazon](https://www.amazon.com/s?k=UV+refrigerant+leak+detection+dye+kit+HVAC&tag=errorcodefixes-20) |
-| Electronic Refrigerant Leak Detector | $40–$200 | [Amazon](https://www.amazon.com/s?k=electronic+refrigerant+leak+detector+R410A&tag=errorcodefixes-20) |
-| Refrigerant Leak Detection Bubble Solution | $8–$15 | [Amazon](https://www.amazon.com/s?k=refrigerant+leak+detection+bubble+solution+HVAC&tag=errorcodefixes-20) |
-| HVAC Manifold Gauge Set (R410A/R32) | $40–$120 | [Amazon](https://www.amazon.com/s?k=HVAC+manifold+gauge+set+R410A+R32&tag=errorcodefixes-20) |
-| Flare Nut Wrench Set | $20–$50 | [Amazon](https://www.amazon.com/s?k=flare+nut+wrench+set+HVAC+mini+split&tag=errorcodefixes-20) |
+| UV Refrigerant Leak Detection Dye Kit | $20–$45 | [Amazon](https://www.amazon.com/s?i=industrial&k=UV+refrigerant+leak+detection+dye+kit+HVAC&tag=errorcodefixes-20) |
+| Electronic Refrigerant Leak Detector | $40–$200 | [Amazon](https://www.amazon.com/s?i=industrial&k=electronic+refrigerant+leak+detector+R410A&tag=errorcodefixes-20) |
+| Refrigerant Leak Detection Bubble Solution | $8–$15 | [Amazon](https://www.amazon.com/s?i=industrial&k=refrigerant+leak+detection+bubble+solution+HVAC&tag=errorcodefixes-20) |
+| HVAC Manifold Gauge Set (R410A/R32) | $40–$120 | [Amazon](https://www.amazon.com/s?i=industrial&k=HVAC+manifold+gauge+set+R410A+R32&tag=errorcodefixes-20) |
+| Flare Nut Wrench Set | $20–$50 | [Amazon](https://www.amazon.com/s?i=industrial&k=flare+nut+wrench+set+HVAC+mini+split&tag=errorcodefixes-20) |
 
 ## When to Call a Technician
 

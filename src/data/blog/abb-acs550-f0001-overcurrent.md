@@ -36,9 +36,9 @@ The ABB ACS550 **F0001 fault** is an **Overcurrent** fault — the drive's outpu
 
 | Part | Notes |
 |------|-------|
-| Motor (replacement) | [Amazon](https://www.amazon.com/s?k=Motor+%28replacement%29&tag=errorcodefixes-20) \| Replace when megohm test indicates failed insulation |
-| VFD-rated cable | [Amazon](https://www.amazon.com/s?k=VFD-rated+cable&tag=errorcodefixes-20) \| Replace damaged output cable; use shielded cable rated for VFD duty |
-| ACS550 IGBT module | [Amazon](https://www.amazon.com/s?k=ACS550+IGBT+module&tag=errorcodefixes-20) \| Replace only if drive was damaged by a prior fault event (burn marks, smell of burned components) |
+| Motor (replacement) | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+%28replacement%29&tag=errorcodefixes-20) \| Replace when megohm test indicates failed insulation |
+| VFD-rated cable | [Amazon](https://www.amazon.com/s?i=industrial&k=VFD-rated+cable&tag=errorcodefixes-20) \| Replace damaged output cable; use shielded cable rated for VFD duty |
+| ACS550 IGBT module | [Amazon](https://www.amazon.com/s?i=industrial&k=ACS550+IGBT+module&tag=errorcodefixes-20) \| Replace only if drive was damaged by a prior fault event (burn marks, smell of burned components) |
 ## When to Call a Pro
 
 If F0001 persists with the motor disconnected (no output connected), the ACS550's current sensing or IGBT module has failed. Internal drive repair requires ABB-certified service technicians and proper test equipment.

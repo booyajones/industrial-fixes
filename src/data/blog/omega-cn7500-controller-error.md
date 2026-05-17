@@ -51,8 +51,8 @@ If the CN7500 auto-tune does not complete within 4 hours, the process may have t
 | Part | Notes |
 |------|-------|
 | Type K thermocouple | [Amazon](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) \| Match temperature range to process |
-| Type K extension wire | [Amazon](https://www.amazon.com/s?k=Type+K+extension+wire&tag=errorcodefixes-20) \| Use correct alloy — not copper |
-| RTD sensor (Pt100) | [Amazon](https://www.amazon.com/s?k=RTD+sensor+%28Pt100%29&tag=errorcodefixes-20) \| For CN7500 RTD versions |
-| Solid-state relay (SSR) | [Amazon](https://www.amazon.com/s?k=Solid-state+relay+%28SSR%29&tag=errorcodefixes-20) \| Output to heater — match current rating |
-| Replacement CN7500 | [Amazon](https://www.amazon.com/s?k=Replacement+CN7500&tag=errorcodefixes-20) \| Usually more economical than repair |
+| Type K extension wire | [Amazon](https://www.amazon.com/s?i=industrial&k=Type+K+extension+wire&tag=errorcodefixes-20) \| Use correct alloy — not copper |
+| RTD sensor (Pt100) | [Amazon](https://www.amazon.com/s?i=industrial&k=RTD+sensor+%28Pt100%29&tag=errorcodefixes-20) \| For CN7500 RTD versions |
+| Solid-state relay (SSR) | [Amazon](https://www.amazon.com/s?i=industrial&k=Solid-state+relay+%28SSR%29&tag=errorcodefixes-20) \| Output to heater — match current rating |
+| Replacement CN7500 | [Amazon](https://www.amazon.com/s?i=industrial&k=Replacement+CN7500&tag=errorcodefixes-20) \| Usually more economical than repair |
 > **Pro tip:** Omega CN7500 input type is set via a DIP switch inside the controller, not just via menu. If the temperature reading is incorrect or shows an error after changing sensors, verify both the DIP switch position AND the menu input type match your sensor type.

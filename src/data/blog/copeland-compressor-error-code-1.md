@@ -57,7 +57,7 @@ High pressure trips are serious. Sustained high discharge pressure overheats the
 | High pressure switch (400 PSI R-404A) | Ranco 010-1766 | $25–$45 | [Amazon](https://www.amazon.com/dp/B013IHQ8CU?tag=errorcodefixes-20) \| Grainger / Johnstone Supply |
 | Condenser fan motor (1/4 HP, 208/230V) | Fasco D7909 | $55–$90 | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| Grainger / Amazon |
 | Fan motor run capacitor | Various (per motor rating) | $8–$20 | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| Grainger / Amazon |
-| Condenser coil cleaner (commercial) | Nu-Brite or similar | $20–$35 | [Amazon](https://www.amazon.com/s?k=Nu-Brite+or+similar+Condenser+coil+cleaner+%28commercial%29&tag=errorcodefixes-20) \| HVAC distributors |
+| Condenser coil cleaner (commercial) | Nu-Brite or similar | $20–$35 | [Amazon](https://www.amazon.com/s?i=industrial&k=Nu-Brite+or+similar+Condenser+coil+cleaner+%28commercial%29&tag=errorcodefixes-20) \| HVAC distributors |
 ## When to Call a Professional
 
 Any diagnosis involving refrigerant — measuring charge, recovering refrigerant, checking for non-condensables, or recharging — legally requires EPA Section 608 certification. Do not attempt to add or remove refrigerant without proper certification and equipment. Additionally, if the high pressure switch trips immediately on restart even with a clean condenser and functioning fans, there may be a refrigerant-side restriction (failed expansion valve, plugged filter drier) or a compressor internal fault — both of which require a licensed refrigeration technician with proper diagnostic equipment.

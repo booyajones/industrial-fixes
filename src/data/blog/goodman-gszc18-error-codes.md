@@ -57,9 +57,9 @@ The Goodman GSZC18 is an 18 SEER, two-stage heat pump designed for use with Good
 |------|-------|
 | Dual run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20) \| High failure rate in hot climates; check µF |
 | Defrost sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Clip-on; confirm coil contact |
-| Defrost board | [Amazon](https://www.amazon.com/s?k=Defrost+board&tag=errorcodefixes-20) \| If sensor is good but defrost won't initiate |
+| Defrost board | [Amazon](https://www.amazon.com/s?i=industrial&k=Defrost+board&tag=errorcodefixes-20) \| If sensor is good but defrost won't initiate |
 | Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Pitted contacts cause compressor protection codes |
-| Refrigerant (R-410A) | [Amazon](https://www.amazon.com/s?k=Refrigerant+%28R-410A%29&tag=errorcodefixes-20) \| Fix leak first; EPA certification required |
+| Refrigerant (R-410A) | [Amazon](https://www.amazon.com/s?i=industrial&k=Refrigerant+%28R-410A%29&tag=errorcodefixes-20) \| Fix leak first; EPA certification required |
 | Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20) \| PSC or ECM depending on model year |
 ## When to Call a Pro
 

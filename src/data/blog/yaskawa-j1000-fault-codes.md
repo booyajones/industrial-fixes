@@ -167,9 +167,9 @@ This guide covers the most common J1000 fault codes and step-by-step fixes.
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|-------------|
-| J1000 Replacement Cooling Fan | $30–$80 | [Amazon](https://www.amazon.com/s?k=Yaskawa+J1000+replacement+cooling+fan+CIMR-JU&tag=errorcodefixes-20) |
-| External Braking Resistor | $40–$150 | [Amazon](https://www.amazon.com/s?k=VFD+braking+resistor+external+dynamic+braking&tag=errorcodefixes-20) |
-| Motor Insulation Tester (Megohmmeter) | $80–$300 | [Amazon](https://www.amazon.com/s?k=megohmmeter+motor+insulation+tester+1000v&tag=errorcodefixes-20) |
+| J1000 Replacement Cooling Fan | $30–$80 | [Amazon](https://www.amazon.com/s?i=industrial&k=Yaskawa+J1000+replacement+cooling+fan+CIMR-JU&tag=errorcodefixes-20) |
+| External Braking Resistor | $40–$150 | [Amazon](https://www.amazon.com/s?i=industrial&k=VFD+braking+resistor+external+dynamic+braking&tag=errorcodefixes-20) |
+| Motor Insulation Tester (Megohmmeter) | $80–$300 | [Amazon](https://www.amazon.com/s?i=industrial&k=megohmmeter+motor+insulation+tester+1000v&tag=errorcodefixes-20) |
 | True-RMS Clamp Meter | $50–$180 | [Amazon](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20) |
 
 ---

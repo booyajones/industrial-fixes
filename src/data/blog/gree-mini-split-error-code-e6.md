@@ -37,7 +37,7 @@ The Gree E6 error code indicates a **communication error between the indoor and 
 
 | Part | Notes |
 |------|-------|
-| Communication wire (3-conductor, 18 AWG) | [Amazon](https://www.amazon.com/s?k=Communication+wire+%283-conductor%2C+18+AWG%29&tag=errorcodefixes-20) \| If the existing wire is damaged; run new wire in conduit |
+| Communication wire (3-conductor, 18 AWG) | [Amazon](https://www.amazon.com/s?i=industrial&k=Communication+wire+%283-conductor%2C+18+AWG%29&tag=errorcodefixes-20) \| If the existing wire is damaged; run new wire in conduit |
 | Indoor or outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Only after eliminating all wiring and power causes |
 ## When to Call a Pro
 

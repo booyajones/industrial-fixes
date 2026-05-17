@@ -37,7 +37,7 @@ Lennox error code 103 indicates a pressure switch fault — the iComfort or Sure
 | Part | Notes |
 |------|-------|
 | Induced draft motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Model-specific; Lennox uses several suppliers across product lines |
-| Draft motor capacitor | [Amazon](https://www.amazon.com/s?k=Draft+motor+capacitor&tag=errorcodefixes-20) \| Cheap fix if motor won't start; test before replacing motor |
+| Draft motor capacitor | [Amazon](https://www.amazon.com/s?i=industrial&k=Draft+motor+capacitor&tag=errorcodefixes-20) \| Cheap fix if motor won't start; test before replacing motor |
 | Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Match the WC rating printed on the old switch |
 | Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?tag=errorcodefixes-20) \| Replacement traps are model-specific on Lennox 90%+ units |
 ## When to Call a Pro

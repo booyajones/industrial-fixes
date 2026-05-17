@@ -23,7 +23,7 @@ The STATUS LED on the furnace control flashes a two-digit code: the first group 
 
 ## Lennox RTU Flash Code Table
 
-| [Flash Code](https://www.amazon.com/s?k=Flash+Code&tag=errorcodefixes-20) | Fault | Common Cause |
+| [Flash Code](https://www.amazon.com/s?i=industrial&k=Flash+Code&tag=errorcodefixes-20) | Fault | Common Cause |
 |---|---|---|
 | 1-1 | System lockout | Manual reset required |
 | 1-2 | Blower fault | Blower motor or wiring issue |
@@ -41,7 +41,7 @@ The STATUS LED on the furnace control flashes a two-digit code: the first group 
 
 ## Lennox iComfort Alphanumeric Codes (LCA/LGH with iComfort)
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Description | Action |
+| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Description | Action |
 |---|---|---|
 | 103 | Pressure switch stuck open | Check inducer, flue, pressure switch |
 | 111 | Low-pressure lockout | Check refrigerant charge |

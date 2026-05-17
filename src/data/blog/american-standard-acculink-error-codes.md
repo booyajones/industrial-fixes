@@ -71,13 +71,13 @@ A temperature sensor (thermistor) on the outdoor unit is reading out of range or
 
 | Part | Why | Approx. Cost |
 |------|-----|-------------|
-| [AccuLink thermostat (Platinum 850 or 950)](https://www.amazon.com/s?k=AccuLink+thermostat+%28Platinum+850+or+950%29&tag=errorcodefixes-20) | Thermostat control board failure | $200–$400 |
+| [AccuLink thermostat (Platinum 850 or 950)](https://www.amazon.com/s?i=industrial&k=AccuLink+thermostat+%28Platinum+850+or+950%29&tag=errorcodefixes-20) | Thermostat control board failure | $200–$400 |
 | [Air handler control board (model-specific)](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Indoor board communication fault | $150–$350 |
 | [Outdoor unit control board (model-specific)](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | Outdoor board failure — 172/80 faults | $250–$500 |
-| [4-conductor 18 AWG thermostat wire](https://www.amazon.com/s?k=4-conductor+18+AWG+thermostat+wire&tag=errorcodefixes-20) | Replace damaged communication cable | $0.30–$0.60/ft |
-| [3A glass fuse (5-pack)](https://www.amazon.com/s?k=3A+glass+fuse+%285-pack%29&tag=errorcodefixes-20) | Blown board fuse | $5–$10 |
-| [Electrical contact cleaner](https://www.amazon.com/s?k=Electrical+contact+cleaner&tag=errorcodefixes-20) | Clean corroded terminals | $8–$15 |
-| [Thermistor sensor (model-specific)](https://www.amazon.com/s?k=Thermistor+sensor+%28model-specific%29&tag=errorcodefixes-20) | Replace failed temperature sensor — 268 fault | $20–$60 |
+| [4-conductor 18 AWG thermostat wire](https://www.amazon.com/s?i=industrial&k=4-conductor+18+AWG+thermostat+wire&tag=errorcodefixes-20) | Replace damaged communication cable | $0.30–$0.60/ft |
+| [3A glass fuse (5-pack)](https://www.amazon.com/s?i=industrial&k=3A+glass+fuse+%285-pack%29&tag=errorcodefixes-20) | Blown board fuse | $5–$10 |
+| [Electrical contact cleaner](https://www.amazon.com/s?i=industrial&k=Electrical+contact+cleaner&tag=errorcodefixes-20) | Clean corroded terminals | $8–$15 |
+| [Thermistor sensor (model-specific)](https://www.amazon.com/s?i=industrial&k=Thermistor+sensor+%28model-specific%29&tag=errorcodefixes-20) | Replace failed temperature sensor — 268 fault | $20–$60 |
 
 For control boards, use your air handler or outdoor unit model number to find the exact part. American Standard parts are available through Johnstone Supply, Winsupply, and the Trane parts portal. Common indoor board part numbers include **CNT05713** and **CNT05524** for various XR and XV series air handlers — always verify against your specific model.
 

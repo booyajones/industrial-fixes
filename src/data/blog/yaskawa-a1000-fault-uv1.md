@@ -44,11 +44,11 @@ UV1 is often intermittent at first. Operators will report that the line ran fine
 
 | Part | Notes |
 |------|-------|
-| Class J or semiconductor input fuses | [Amazon](https://www.amazon.com/s?k=class+j+fuse+480v+motor+drive&tag=errorcodefixes-20) \| Replace blown or heat-damaged line protection after finding the cause |
+| Class J or semiconductor input fuses | [Amazon](https://www.amazon.com/s?i=industrial&k=class+j+fuse+480v+motor+drive&tag=errorcodefixes-20) \| Replace blown or heat-damaged line protection after finding the cause |
 | Three-pole contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Weak or pitted contacts can create intermittent voltage drop |
-| 3% line reactor | [Amazon](https://www.amazon.com/s?k=3%25+line+reactor+480v+drive&tag=errorcodefixes-20) \| Helps stabilize weak or noisy incoming power |
-| Power quality meter | [Amazon](https://www.amazon.com/s?k=three+phase+power+quality+analyzer&tag=errorcodefixes-20) \| Best way to prove supply sag during startup |
-| Terminal block and ferrule kit | [Amazon](https://www.amazon.com/s?k=din+terminal+block+ferrule+kit&tag=errorcodefixes-20) \| Useful when loose or overheated line-side terminations caused the fault |
+| 3% line reactor | [Amazon](https://www.amazon.com/s?i=industrial&k=3%25+line+reactor+480v+drive&tag=errorcodefixes-20) \| Helps stabilize weak or noisy incoming power |
+| Power quality meter | [Amazon](https://www.amazon.com/s?i=industrial&k=three+phase+power+quality+analyzer&tag=errorcodefixes-20) \| Best way to prove supply sag during startup |
+| Terminal block and ferrule kit | [Amazon](https://www.amazon.com/s?i=industrial&k=din+terminal+block+ferrule+kit&tag=errorcodefixes-20) \| Useful when loose or overheated line-side terminations caused the fault |
 
 ## When to Call a Professional
 

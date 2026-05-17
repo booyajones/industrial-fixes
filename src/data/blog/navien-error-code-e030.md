@@ -37,8 +37,8 @@ Navien error code E030 means exhaust overheat — the exhaust temperature sensor
 | Part | Notes |
 |------|-------|
 | Exhaust temperature sensor (thermistor) | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) \| Navien part 30004987A; verify by model |
-| Vent termination cap (Navien-approved) | [Amazon](https://www.amazon.com/s?k=Vent+termination+cap+%28Navien-approved%29&tag=errorcodefixes-20) \| Replace aftermarket caps with Navien-specified hardware |
-| Descaling kit | [Amazon](https://www.amazon.com/s?k=Descaling+kit&tag=errorcodefixes-20) \| White vinegar or Navien's 30013065A flush kit |
+| Vent termination cap (Navien-approved) | [Amazon](https://www.amazon.com/s?i=industrial&k=Vent+termination+cap+%28Navien-approved%29&tag=errorcodefixes-20) \| Replace aftermarket caps with Navien-specified hardware |
+| Descaling kit | [Amazon](https://www.amazon.com/s?i=industrial&k=Descaling+kit&tag=errorcodefixes-20) \| White vinegar or Navien's 30013065A flush kit |
 ## When to Call a Pro
 
 Descaling and combustion analysis require understanding the unit's heat exchanger configuration. If E030 persists after venting is corrected, a Navien-certified tech should do a combustion efficiency test.

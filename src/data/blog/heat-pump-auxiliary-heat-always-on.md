@@ -103,10 +103,10 @@ A severely restricted indoor coil (dirty coil, clogged filter) reduces the heat 
 | Part | Use | Amazon Link |
 |------|-----|-------------|
 | Outdoor Temperature Sensor (NTC Thermistor) | Replace failed outdoor sensor causing false aux lockout | [View on Amazon](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) |
-| Refrigerant Manifold Gauge Set | Diagnose refrigerant charge level | [View on Amazon](https://www.amazon.com/s?k=refrigerant+manifold+gauge+set+heat+pump&tag=errorcodefixes-20) |
+| Refrigerant Manifold Gauge Set | Diagnose refrigerant charge level | [View on Amazon](https://www.amazon.com/s?i=industrial&k=refrigerant+manifold+gauge+set+heat+pump&tag=errorcodefixes-20) |
 | Defrost Control Board (universal or OEM) | Replace failed defrost initiation board | [View on Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) |
-| Honeywell T10 Pro Smart Thermostat | Replace thermostat with misconfigured balance point | [View on Amazon](https://www.amazon.com/s?k=Honeywell+T10+Pro+smart+thermostat+heat+pump&tag=errorcodefixes-20) |
-| Programmable Balance Point Thermostat | Thermostat with configurable aux lockout for heat pump | [View on Amazon](https://www.amazon.com/s?k=heat+pump+thermostat+balance+point+configurable&tag=errorcodefixes-20) |
+| Honeywell T10 Pro Smart Thermostat | Replace thermostat with misconfigured balance point | [View on Amazon](https://www.amazon.com/s?i=industrial&k=Honeywell+T10+Pro+smart+thermostat+heat+pump&tag=errorcodefixes-20) |
+| Programmable Balance Point Thermostat | Thermostat with configurable aux lockout for heat pump | [View on Amazon](https://www.amazon.com/s?i=industrial&k=heat+pump+thermostat+balance+point+configurable&tag=errorcodefixes-20) |
 
 ## When to Call a Pro
 

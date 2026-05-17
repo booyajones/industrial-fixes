@@ -36,7 +36,7 @@ On Mitsubishi air conditioning units (MSZ-GL, MSZ-GE, MSY, and similar cooling-o
 
 | Part | Notes |
 |------|-------|
-| 3-conductor shielded control cable (18 AWG) | [Amazon](https://www.amazon.com/s?k=3-conductor+shielded+control+cable+%2818+AWG%29&tag=errorcodefixes-20) \| Replace full run if damage is found anywhere along it |
+| 3-conductor shielded control cable (18 AWG) | [Amazon](https://www.amazon.com/s?i=industrial&k=3-conductor+shielded+control+cable+%2818+AWG%29&tag=errorcodefixes-20) \| Replace full run if damage is found anywhere along it |
 | Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| If wiring is confirmed good and E6 persists, outdoor board is the next suspect |
 | Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Less commonly the cause, but possible if outdoor board passes self-test |
 ## When to Call a Pro

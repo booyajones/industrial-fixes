@@ -37,8 +37,8 @@ Alarm 360 on a Fanuc CNC system is an APC (Absolute Pulse Coder) alarm — speci
 
 | Part | Notes |
 |------|-------|
-| Fanuc APC battery A06B-6073-K001 | [Amazon](https://www.amazon.com/s?k=Fanuc+APC+battery+A06B-6073-K001&tag=errorcodefixes-20) \| Standard AA lithium, 3V; use genuine Fanuc or a direct equivalent |
-| Multi-axis battery pack (where applicable) | [Amazon](https://www.amazon.com/s?k=Multi-axis+battery+pack+%28where+applicable%29&tag=errorcodefixes-20) \| Some machines use a single pack for multiple axes — replace as a complete unit |
+| Fanuc APC battery A06B-6073-K001 | [Amazon](https://www.amazon.com/s?i=industrial&k=Fanuc+APC+battery+A06B-6073-K001&tag=errorcodefixes-20) \| Standard AA lithium, 3V; use genuine Fanuc or a direct equivalent |
+| Multi-axis battery pack (where applicable) | [Amazon](https://www.amazon.com/s?i=industrial&k=Multi-axis+battery+pack+%28where+applicable%29&tag=errorcodefixes-20) \| Some machines use a single pack for multiple axes — replace as a complete unit |
 ## When to Call a Pro
 
 If alarm 360 escalated to a full position data loss (the machine displays a different alarm code and cannot find home), a Fanuc-certified technician must perform the absolute encoder re-initialization procedure and re-establish the machine zero reference. This is not a DIY procedure on a production machine.

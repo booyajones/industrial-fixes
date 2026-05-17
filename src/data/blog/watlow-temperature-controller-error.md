@@ -44,7 +44,7 @@ If the controller is calling for heat but feedback current is too low, the heate
 |------|-------|
 | Thermocouple / RTD sensor | [Amazon](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) \| Most common fault source |
 | SSR or contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?tag=errorcodefixes-20) \| Heater output device |
-| Watlow controller | [Amazon](https://www.amazon.com/s?k=Watlow+controller&tag=errorcodefixes-20) \| Replace after I/O is verified |
-| Fuse or heater element | [Amazon](https://www.amazon.com/s?k=Fuse+or+heater+element&tag=errorcodefixes-20) \| Common with Htr alarms |
+| Watlow controller | [Amazon](https://www.amazon.com/s?i=industrial&k=Watlow+controller&tag=errorcodefixes-20) \| Replace after I/O is verified |
+| Fuse or heater element | [Amazon](https://www.amazon.com/s?i=industrial&k=Fuse+or+heater+element&tag=errorcodefixes-20) \| Common with Htr alarms |
 ## When to Call a Pro
 If a Watlow high-limit controller keeps tripping, do not bypass it to keep production moving. A controls technician should verify the heater output devices and actual process temperature independently.

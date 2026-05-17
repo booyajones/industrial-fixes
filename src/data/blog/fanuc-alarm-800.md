@@ -68,9 +68,9 @@ The encoder lost its absolute position reference. This occurs after battery fail
 
 | Part | Notes |
 |------|-------|
-| Fanuc A98L-0031-0005 battery | [Amazon](https://www.amazon.com/s?k=Fanuc+A98L-0031-0005+battery&tag=errorcodefixes-20) \| 3.6V lithium, use Fanuc OEM |
-| Encoder cable | [Amazon](https://www.amazon.com/s?k=Encoder+cable&tag=errorcodefixes-20) \| Replace if comm error persists after battery |
-| Servo amplifier (SVM) | [Amazon](https://www.amazon.com/s?k=Servo+amplifier+%28SVM%29&tag=errorcodefixes-20) \| Only if interface card confirmed damaged |
+| Fanuc A98L-0031-0005 battery | [Amazon](https://www.amazon.com/s?i=industrial&k=Fanuc+A98L-0031-0005+battery&tag=errorcodefixes-20) \| 3.6V lithium, use Fanuc OEM |
+| Encoder cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+cable&tag=errorcodefixes-20) \| Replace if comm error persists after battery |
+| Servo amplifier (SVM) | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+amplifier+%28SVM%29&tag=errorcodefixes-20) \| Only if interface card confirmed damaged |
 ## Jump to Fix
 
 - **Battery alarm (300/307)** → Replace battery → Re-reference axes

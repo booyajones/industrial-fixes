@@ -38,8 +38,8 @@ F1 on a Pioneer mini split signals a temperature sensor fault on the indoor unit
 
 | Part | Notes |
 |------|-------|
-| Indoor ambient (room) thermistor | [Amazon](https://www.amazon.com/s?k=Indoor+ambient+%28room%29+thermistor&tag=errorcodefixes-20) \| Typically labeled T1 on the PCB |
-| Evaporator coil thermistor | [Amazon](https://www.amazon.com/s?k=Evaporator+coil+thermistor&tag=errorcodefixes-20) \| Typically labeled T2; clips to the coil fins |
+| Indoor ambient (room) thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Indoor+ambient+%28room%29+thermistor&tag=errorcodefixes-20) \| Typically labeled T1 on the PCB |
+| Evaporator coil thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Evaporator+coil+thermistor&tag=errorcodefixes-20) \| Typically labeled T2; clips to the coil fins |
 ## When to Call a Pro
 
 If both thermistors test good but F1 persists, the indoor PCB may have a failed input circuit. PCB replacement on mini splits requires careful refrigerant and electrical safety practices — call a certified HVAC technician.

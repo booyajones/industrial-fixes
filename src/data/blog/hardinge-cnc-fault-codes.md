@@ -381,6 +381,6 @@ When Hardinge technical support is needed, have the machine serial number (plate
 
 Find replacement parts for Hardinge CNC lathes on Amazon:
 
-- [Hardinge CNC Machine Parts](https://www.amazon.com/s?k=Hardinge+CNC+machine+parts&tag=errorcodefixes-20)
-- [Fanuc Servo Motor Encoder Cable Replacement](https://www.amazon.com/s?k=Fanuc+servo+encoder+cable+replacement&tag=errorcodefixes-20)
-- [CNC Spindle Bearing Replacement](https://www.amazon.com/s?k=CNC+lathe+spindle+bearing+replacement&tag=errorcodefixes-20)
+- [Hardinge CNC Machine Parts](https://www.amazon.com/s?i=industrial&k=Hardinge+CNC+machine+parts&tag=errorcodefixes-20)
+- [Fanuc Servo Motor Encoder Cable Replacement](https://www.amazon.com/s?i=industrial&k=Fanuc+servo+encoder+cable+replacement&tag=errorcodefixes-20)
+- [CNC Spindle Bearing Replacement](https://www.amazon.com/s?i=industrial&k=CNC+lathe+spindle+bearing+replacement&tag=errorcodefixes-20)

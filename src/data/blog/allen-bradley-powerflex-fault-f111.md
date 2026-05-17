@@ -37,9 +37,9 @@ Allen-Bradley PowerFlex fault F111 is a **Motor Over Speed** fault — the drive
 
 | Part | Notes |
 |------|-------|
-| Dynamic brake resistor | [Amazon](https://www.amazon.com/s?k=Dynamic+brake+resistor&tag=errorcodefixes-20) \| Required if regenerative overspeed is the root cause |
-| Encoder cable | [Amazon](https://www.amazon.com/s?k=Encoder+cable&tag=errorcodefixes-20) \| Shielded, properly routed; replace if damaged |
-| No hardware parts for parameter-only fixes | [Amazon](https://www.amazon.com/s?k=No+hardware+parts+for+parameter-only+fixes&tag=errorcodefixes-20) \| — |
+| Dynamic brake resistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Dynamic+brake+resistor&tag=errorcodefixes-20) \| Required if regenerative overspeed is the root cause |
+| Encoder cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+cable&tag=errorcodefixes-20) \| Shielded, properly routed; replace if damaged |
+| No hardware parts for parameter-only fixes | [Amazon](https://www.amazon.com/s?i=industrial&k=No+hardware+parts+for+parameter-only+fixes&tag=errorcodefixes-20) \| — |
 ## When to Call a Pro
 
 If F111 occurs during a genuine runaway condition (the motor is physically overspeeding beyond control), stop the machine immediately using the E-stop. A controls engineer must investigate the mechanical brake system and process control logic before restarting.

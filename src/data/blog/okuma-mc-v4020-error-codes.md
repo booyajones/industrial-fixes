@@ -55,11 +55,11 @@ Access PLC diagnostic via OSP ΓåÆ DIAGNOSIS ΓåÆ PLC. View the bit that is 
 
 | Part | Notes |
 |------|-------|
-| OPUS servo drive | [Amazon](https://www.amazon.com/s?k=OPUS+servo+drive&tag=errorcodefixes-20) \| Match axis current rating |
-| Encoder read head | [Amazon](https://www.amazon.com/s?k=Encoder+read+head&tag=errorcodefixes-20) \| Glass scale type — match model |
-| Spindle motor brushes | [Amazon](https://www.amazon.com/s?k=Spindle+motor+brushes&tag=errorcodefixes-20) \| If applicable to spindle type |
-| Servo motor | [Amazon](https://www.amazon.com/s?k=Servo+motor&tag=errorcodefixes-20) \| Match alpha-i or beta-i specification |
-| PLC I/O card | [Amazon](https://www.amazon.com/s?k=PLC+I%2FO+card&tag=errorcodefixes-20) \| Match OSP control version |
+| OPUS servo drive | [Amazon](https://www.amazon.com/s?i=industrial&k=OPUS+servo+drive&tag=errorcodefixes-20) \| Match axis current rating |
+| Encoder read head | [Amazon](https://www.amazon.com/s?i=industrial&k=Encoder+read+head&tag=errorcodefixes-20) \| Glass scale type — match model |
+| Spindle motor brushes | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+motor+brushes&tag=errorcodefixes-20) \| If applicable to spindle type |
+| Servo motor | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+motor&tag=errorcodefixes-20) \| Match alpha-i or beta-i specification |
+| PLC I/O card | [Amazon](https://www.amazon.com/s?i=industrial&k=PLC+I%2FO+card&tag=errorcodefixes-20) \| Match OSP control version |
 > **Pro tip:** Okuma OSP controls store comprehensive alarm history and maintenance logs. Access via MAINTENANCE ΓåÆ ALARM HISTORY. For intermittent faults, Okuma's THINC API allows remote monitoring of machine data in real time.
 
 ## Related Articles

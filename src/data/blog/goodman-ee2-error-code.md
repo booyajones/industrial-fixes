@@ -66,8 +66,8 @@ The error code has been trending on r/hvacadvice as more Goodman communicating s
 
 - [Goodman HVAC control board replacement](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20)
 - [Amana furnace control board](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20)
-- [24VAC transformer HVAC replacement](https://www.amazon.com/s?k=24VAC+transformer+HVAC+40VA&tag=errorcodefixes-20)
-- [Communicating thermostat wire 4-conductor](https://www.amazon.com/s?k=thermostat+wire+4+conductor+18+gauge&tag=errorcodefixes-20)
+- [24VAC transformer HVAC replacement](https://www.amazon.com/s?i=industrial&k=24VAC+transformer+HVAC+40VA&tag=errorcodefixes-20)
+- [Communicating thermostat wire 4-conductor](https://www.amazon.com/s?i=industrial&k=thermostat+wire+4+conductor+18+gauge&tag=errorcodefixes-20)
 - [Multimeter for HVAC voltage testing](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20)
 
 ## When to Call a Technician

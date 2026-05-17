@@ -37,9 +37,9 @@ Navien E007 indicates **abnormally high temperature at the hot water outlet** â€
 
 | Part | Notes |
 |------|-------|
-| Outlet water temperature thermistor | [Amazon](https://www.amazon.com/s?k=Outlet+water+temperature+thermistor&tag=errorcodefixes-20) \| Navien model-specific; matches DHW outlet sensor spec |
-| Descaling kit | [Amazon](https://www.amazon.com/s?k=Descaling+kit&tag=errorcodefixes-20) \| Pump + citric acid solution; available from Navien or HVAC supply houses |
-| Cold water inlet filter screen | [Amazon](https://www.amazon.com/s?k=Cold+water+inlet+filter+screen&tag=errorcodefixes-20) \| Inexpensive; keep a spare on hand |
+| Outlet water temperature thermistor | [Amazon](https://www.amazon.com/s?i=industrial&k=Outlet+water+temperature+thermistor&tag=errorcodefixes-20) \| Navien model-specific; matches DHW outlet sensor spec |
+| Descaling kit | [Amazon](https://www.amazon.com/s?i=industrial&k=Descaling+kit&tag=errorcodefixes-20) \| Pump + citric acid solution; available from Navien or HVAC supply houses |
+| Cold water inlet filter screen | [Amazon](https://www.amazon.com/s?i=industrial&k=Cold+water+inlet+filter+screen&tag=errorcodefixes-20) \| Inexpensive; keep a spare on hand |
 ## When to Call a Pro
 
 Persistent E007 after descaling and confirming good flow may indicate a partially failed gas valve that's not modulating properly, causing overcombustion. Gas valve service requires a licensed plumber or HVAC technician with Navien training.

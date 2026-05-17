@@ -134,7 +134,7 @@ Combined incentives can reduce the net cost of a new furnace by $800–$1,500, w
 | [Furnace Inducer Motor Draft](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) | Failed inducer motor — furnace won't start, pressure switch fails | $65–$150 |
 | [Furnace High Limit Switch Auto-Reset](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) | Tripped limit switch cuts burner even with good airflow | $15–$30 |
 | [Furnace Pressure Switch](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) | Faulty pressure switch prevents inducer from confirming draft | $12–$28 |
-| [CO Detector Battery Operated](https://www.amazon.com/s?k=carbon+monoxide+detector+battery+operated&tag=errorcodefixes-20) | Essential safety device — mandatory near any gas furnace | $20–$40 |
+| [CO Detector Battery Operated](https://www.amazon.com/s?i=industrial&k=carbon+monoxide+detector+battery+operated&tag=errorcodefixes-20) | Essential safety device — mandatory near any gas furnace | $20–$40 |
 
 ---
 

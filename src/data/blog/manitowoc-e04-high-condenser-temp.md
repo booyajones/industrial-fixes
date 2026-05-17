@@ -62,11 +62,11 @@ If the machine still throws E04 after a proper cleaning and airflow repair, move
 
 ## Parts You May Need
 
-- [Condenser coil cleaning kit](https://www.amazon.com/s?k=condenser+coil+cleaning+kit&tag=errorcodefixes-20)
-- [Commercial condenser cleaner](https://www.amazon.com/s?k=commercial+condenser+cleaner&tag=errorcodefixes-20)
+- [Condenser coil cleaning kit](https://www.amazon.com/s?i=industrial&k=condenser+coil+cleaning+kit&tag=errorcodefixes-20)
+- [Commercial condenser cleaner](https://www.amazon.com/s?i=industrial&k=commercial+condenser+cleaner&tag=errorcodefixes-20)
 - [Manitowoc condenser fan motor](https://www.amazon.com/dp/B0D2L5NSMM?tag=errorcodefixes-20)
 - [Fan motor run capacitor](https://www.amazon.com/dp/B01M05L7B3?tag=errorcodefixes-20)
-- [Fin comb coil brush](https://www.amazon.com/s?k=fin+comb+coil+brush&tag=errorcodefixes-20)
+- [Fin comb coil brush](https://www.amazon.com/s?i=industrial&k=fin+comb+coil+brush&tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

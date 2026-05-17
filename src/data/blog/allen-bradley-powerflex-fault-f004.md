@@ -36,9 +36,9 @@ Allen-Bradley PowerFlex fault F004 is a DC bus undervoltage fault. The drive's D
 
 | Part | Notes |
 |------|-------|
-| Input fuses (class J or CC) | [Amazon](https://www.amazon.com/s?k=Input+fuses+%28class+J+or+CC%29&tag=errorcodefixes-20) \| Use properly rated fuses; wrong rating will not protect the drive |
-| DC bus capacitor kit | [Amazon](https://www.amazon.com/s?k=DC+bus+capacitor+kit&tag=errorcodefixes-20) \| Available from Rockwell or aftermarket repair kits for common models |
-| Input line reactor (3–5%) | [Amazon](https://www.amazon.com/s?k=Input+line+reactor+%283%E2%80%935%25%29&tag=errorcodefixes-20) \| Install if supply impedance is causing voltage dips |
+| Input fuses (class J or CC) | [Amazon](https://www.amazon.com/s?i=industrial&k=Input+fuses+%28class+J+or+CC%29&tag=errorcodefixes-20) \| Use properly rated fuses; wrong rating will not protect the drive |
+| DC bus capacitor kit | [Amazon](https://www.amazon.com/s?i=industrial&k=DC+bus+capacitor+kit&tag=errorcodefixes-20) \| Available from Rockwell or aftermarket repair kits for common models |
+| Input line reactor (3–5%) | [Amazon](https://www.amazon.com/s?i=industrial&k=Input+line+reactor+%283%E2%80%935%25%29&tag=errorcodefixes-20) \| Install if supply impedance is causing voltage dips |
 ## When to Call a Pro
 
 If the input voltage is confirmed within spec and capacitors are not visually degraded but F004 persists, internal capacitance measurement requires capacitor discharge procedures and specialized test equipment. A certified Rockwell service technician or drive repair center should perform this evaluation.

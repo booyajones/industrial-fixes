@@ -36,9 +36,9 @@ The Weil-McLain **E10 error code** means **low system water pressure**. On Weil-
 
 | Part | Notes |
 |------|-------|
-| Expansion tank (2–5 gallon) | [Amazon](https://www.amazon.com/s?k=Expansion+tank+%282%E2%80%935+gallon%29&tag=errorcodefixes-20) \| Replace when bladder fails; Amtrol Extrol is a common direct replacement |
-| Auto-fill valve (Watts 911) | [Amazon](https://www.amazon.com/s?k=Auto-fill+valve+%28Watts+911%29&tag=errorcodefixes-20) \| Replace if valve is stuck open (overpressure) or stuck closed (E10 recurrence) |
-| Pressure relief valve | [Amazon](https://www.amazon.com/s?k=Pressure+relief+valve&tag=errorcodefixes-20) \| Replace if it's been weeping; a weeping PRV causes slow pressure loss |
+| Expansion tank (2–5 gallon) | [Amazon](https://www.amazon.com/s?i=industrial&k=Expansion+tank+%282%E2%80%935+gallon%29&tag=errorcodefixes-20) \| Replace when bladder fails; Amtrol Extrol is a common direct replacement |
+| Auto-fill valve (Watts 911) | [Amazon](https://www.amazon.com/s?i=industrial&k=Auto-fill+valve+%28Watts+911%29&tag=errorcodefixes-20) \| Replace if valve is stuck open (overpressure) or stuck closed (E10 recurrence) |
+| Pressure relief valve | [Amazon](https://www.amazon.com/s?i=industrial&k=Pressure+relief+valve&tag=errorcodefixes-20) \| Replace if it's been weeping; a weeping PRV causes slow pressure loss |
 ## When to Call a Pro
 
 If pressure drops more than 5 PSI per day after filling, you have a significant leak somewhere in the system. A plumber or boiler tech can perform a pressure isolation test to find the leak zone before water damage occurs.

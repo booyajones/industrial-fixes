@@ -93,9 +93,9 @@ The specific variant tells you when in the cycle the overcurrent occurred, which
 
 | Part | Notes |
 |---|---|
-| Yaskawa V1000 drive | [Amazon](https://www.amazon.com/s?k=Yaskawa+V1000+drive&tag=errorcodefixes-20) \| If output IGBT is shorted |
-| Motor | [Amazon](https://www.amazon.com/s?k=Motor&tag=errorcodefixes-20) \| If winding insulation failed |
-| Motor cable | [Amazon](https://www.amazon.com/s?k=Motor+cable&tag=errorcodefixes-20) \| Use shielded cable — 4-conductor VFD-rated |
+| Yaskawa V1000 drive | [Amazon](https://www.amazon.com/s?i=industrial&k=Yaskawa+V1000+drive&tag=errorcodefixes-20) \| If output IGBT is shorted |
+| Motor | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor&tag=errorcodefixes-20) \| If winding insulation failed |
+| Motor cable | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+cable&tag=errorcodefixes-20) \| Use shielded cable — 4-conductor VFD-rated |
 > **Pro tip:** The Yaskawa V1000 supports online auto-tuning (parameter T1-01 = 2 for rotational auto-tune). Running auto-tune after a motor change or OC fault helps the drive learn the correct motor parameters and reduces OC trips.
 
 ## Related Articles

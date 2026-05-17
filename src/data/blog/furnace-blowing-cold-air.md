@@ -43,7 +43,7 @@ If your thermostat is set to COOL instead of HEAT, the system behaves exactly op
 
 **The fix:** Check the thermostat mode. It should read HEAT. If the display is blank or flickering, replace the batteries. Programmable thermostats often default to a schedule that may be set for lower temperatures than expected.
 
-[Check thermostat batteries on Amazon](https://www.amazon.com/s?k=thermostat+batteries&tag=errorcodefixes-20)
+[Check thermostat batteries on Amazon](https://www.amazon.com/s?i=industrial&k=thermostat+batteries&tag=errorcodefixes-20)
 
 ## 3. Pilot Light or Ignition Failure
 
@@ -98,7 +98,7 @@ A bad capacitor is easy to spot: look for a bulging top or oily residue on the c
 
 **If the blower runs but heat is weak or intermittent:** Check the capacitor reading first. A weak capacitor costs under $20 and is a 15-minute swap.
 
-[Blower motor capacitor on Amazon](https://www.amazon.com/s?k=furnace+blower+capacitor&tag=errorcodefixes-20)
+[Blower motor capacitor on Amazon](https://www.amazon.com/s?i=industrial&k=furnace+blower+capacitor&tag=errorcodefixes-20)
 
 ## 8. Clogged Air Filter
 
@@ -114,7 +114,7 @@ A heavily clogged filter restricts airflow to the point that the heat exchanger 
 
 - [Hot surface igniter kit](https://www.amazon.com/dp/B00BTLLJ40?tag=errorcodefixes-20)
 - [Flame sensor replacement](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20)
-- [Blower motor run capacitor](https://www.amazon.com/s?k=furnace+blower+capacitor&tag=errorcodefixes-20)
+- [Blower motor run capacitor](https://www.amazon.com/s?i=industrial&k=furnace+blower+capacitor&tag=errorcodefixes-20)
 - [Standard furnace air filters](https://www.amazon.com/dp/B0CLBFXLYJ?tag=errorcodefixes-20)
 - [Digital multimeter](https://www.amazon.com/dp/B08ZJSN5X3?tag=errorcodefixes-20)
 

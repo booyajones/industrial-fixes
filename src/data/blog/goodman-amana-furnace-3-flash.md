@@ -37,7 +37,7 @@ Both **Amana** and **Goodman** furnaces (Amana is a Goodman brand and uses the s
 | Part | Notes |
 |------|-------|
 | Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?tag=errorcodefixes-20) \| Goodman/Amana switches are model-specific; verify part number by model tag |
-| Inducer capacitor | [Amazon](https://www.amazon.com/s?k=Inducer+capacitor&tag=errorcodefixes-20) \| Test before replacing the motor; often cheaper cause of slow inducer |
+| Inducer capacitor | [Amazon](https://www.amazon.com/s?i=industrial&k=Inducer+capacitor&tag=errorcodefixes-20) \| Test before replacing the motor; often cheaper cause of slow inducer |
 | Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?tag=errorcodefixes-20) \| Available by the foot at HVAC supply houses |
 | Inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Replace when motor shaft is seized or winding tests open |
 ## When to Call a Pro

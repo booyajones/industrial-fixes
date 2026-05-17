@@ -17,16 +17,16 @@ tags:
 
 SEL relays record trip events using IEEE standard protection element numbers and SELOGIC-based event reports accessible via the front panel, ACSELERATOR QuickSet software, or EtherNet/IP/Modbus.
 
-| [Element](https://www.amazon.com/s?k=Element&tag=errorcodefixes-20) | Function | Common Cause |
+| [Element](https://www.amazon.com/s?i=industrial&k=Element&tag=errorcodefixes-20) | Function | Common Cause |
 |---------|---------|-------------|
-| [50 — Instantaneous OC](https://www.amazon.com/s?k=50+%E2%80%94+Instantaneous+OC&tag=errorcodefixes-20) | Fault current above pickup | Short circuit near relay |
-| [51 — Time Overcurrent](https://www.amazon.com/s?k=51+%E2%80%94+Time+Overcurrent&tag=errorcodefixes-20) | Sustained overcurrent | Overload or slow-clearing fault |
-| [67 — Directional OC](https://www.amazon.com/s?k=67+%E2%80%94+Directional+OC&tag=errorcodefixes-20) | Fault current direction | Reverse fault or backfeed |
-| [27 — Undervoltage](https://www.amazon.com/s?k=27+%E2%80%94+Undervoltage&tag=errorcodefixes-20) | Voltage below setpoint | Supply sag or fault |
-| [59 — Overvoltage](https://www.amazon.com/s?k=59+%E2%80%94+Overvoltage&tag=errorcodefixes-20) | Voltage above setpoint | Switching transient |
-| [87 — Differential](https://www.amazon.com/s?k=87+%E2%80%94+Differential&tag=errorcodefixes-20) | Current imbalance across zone | Internal fault (transformer, motor) |
-| [79 — Reclosing](https://www.amazon.com/s?k=79+%E2%80%94+Reclosing&tag=errorcodefixes-20) | Auto-reclose sequence | Temporary fault on line |
-| [46 — Neg Sequence OC](https://www.amazon.com/s?k=46+%E2%80%94+Neg+Sequence+OC&tag=errorcodefixes-20) | Phase unbalance | Open phase, blown fuse |
+| [50 — Instantaneous OC](https://www.amazon.com/s?i=industrial&k=50+%E2%80%94+Instantaneous+OC&tag=errorcodefixes-20) | Fault current above pickup | Short circuit near relay |
+| [51 — Time Overcurrent](https://www.amazon.com/s?i=industrial&k=51+%E2%80%94+Time+Overcurrent&tag=errorcodefixes-20) | Sustained overcurrent | Overload or slow-clearing fault |
+| [67 — Directional OC](https://www.amazon.com/s?i=industrial&k=67+%E2%80%94+Directional+OC&tag=errorcodefixes-20) | Fault current direction | Reverse fault or backfeed |
+| [27 — Undervoltage](https://www.amazon.com/s?i=industrial&k=27+%E2%80%94+Undervoltage&tag=errorcodefixes-20) | Voltage below setpoint | Supply sag or fault |
+| [59 — Overvoltage](https://www.amazon.com/s?i=industrial&k=59+%E2%80%94+Overvoltage&tag=errorcodefixes-20) | Voltage above setpoint | Switching transient |
+| [87 — Differential](https://www.amazon.com/s?i=industrial&k=87+%E2%80%94+Differential&tag=errorcodefixes-20) | Current imbalance across zone | Internal fault (transformer, motor) |
+| [79 — Reclosing](https://www.amazon.com/s?i=industrial&k=79+%E2%80%94+Reclosing&tag=errorcodefixes-20) | Auto-reclose sequence | Temporary fault on line |
+| [46 — Neg Sequence OC](https://www.amazon.com/s?i=industrial&k=46+%E2%80%94+Neg+Sequence+OC&tag=errorcodefixes-20) | Phase unbalance | Open phase, blown fuse |
 
 ## Reading SEL Event Reports
 

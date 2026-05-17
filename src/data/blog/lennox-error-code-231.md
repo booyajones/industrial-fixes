@@ -40,7 +40,7 @@ Lennox error code 231 indicates a rollout switch fault. The rollout switch is a 
 |------|-------|
 | Rollout switch (limit switch) | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?tag=errorcodefixes-20) \| Match to Lennox model number; auto-reset and manual-reset versions exist |
 | Draft inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?tag=errorcodefixes-20) \| Replace if motor is noisy, weak, or fails to start |
-| Burner assembly / orifices | [Amazon](https://www.amazon.com/s?k=Burner+assembly+%2F+orifices&tag=errorcodefixes-20) \| Replace if burners are corroded or clogged beyond cleaning |
+| Burner assembly / orifices | [Amazon](https://www.amazon.com/s?i=industrial&k=Burner+assembly+%2F+orifices&tag=errorcodefixes-20) \| Replace if burners are corroded or clogged beyond cleaning |
 ## When to Call a Pro
 
 A cracked heat exchanger is a carbon monoxide hazard and must be diagnosed by a certified HVAC technician using combustion analysis equipment. If rollout switches trip repeatedly after reset, do not continue operating the furnace — call a pro immediately.

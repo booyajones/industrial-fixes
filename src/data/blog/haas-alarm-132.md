@@ -98,10 +98,10 @@ After installation:
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|-------------|
-| Haas Servo Amplifier Module | $500–$2,000+ | [Amazon](https://www.amazon.com/s?k=Haas+servo+amplifier+module+replacement+CNC&tag=errorcodefixes-20) |
-| Haas Axis Servo Motor | $600–$2,500+ | [Amazon](https://www.amazon.com/s?k=Haas+CNC+servo+motor+replacement+axis&tag=errorcodefixes-20) |
-| Motor Power Cable (Haas) | $100–$400 | [Amazon](https://www.amazon.com/s?k=Haas+servo+motor+power+cable+replacement&tag=errorcodefixes-20) |
-| Encoder Feedback Cable | $80–$250 | [Amazon](https://www.amazon.com/s?k=Haas+encoder+feedback+cable+servo+motor&tag=errorcodefixes-20) |
+| Haas Servo Amplifier Module | $500–$2,000+ | [Amazon](https://www.amazon.com/s?i=industrial&k=Haas+servo+amplifier+module+replacement+CNC&tag=errorcodefixes-20) |
+| Haas Axis Servo Motor | $600–$2,500+ | [Amazon](https://www.amazon.com/s?i=industrial&k=Haas+CNC+servo+motor+replacement+axis&tag=errorcodefixes-20) |
+| Motor Power Cable (Haas) | $100–$400 | [Amazon](https://www.amazon.com/s?i=industrial&k=Haas+servo+motor+power+cable+replacement&tag=errorcodefixes-20) |
+| Encoder Feedback Cable | $80–$250 | [Amazon](https://www.amazon.com/s?i=industrial&k=Haas+encoder+feedback+cable+servo+motor&tag=errorcodefixes-20) |
 
 > **On pricing:** Haas servo amplifiers are proprietary components. New units from Haas are the most expensive option but carry a warranty. Rebuilt and refurbished amplifiers from reputable CNC repair shops are typically half the cost and are a viable option for older machines.
 

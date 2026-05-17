@@ -16,21 +16,21 @@ tags:
 
 Kohler standby generators use the Decision-Maker controller (Decision-Maker 3000 on residential units, Decision-Maker 3500/6000 on commercial). Fault codes appear on the controller's LCD display and are logged in fault history. Alarms are classified as pre-alarms (warnings) and shutdowns.
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Type | Meaning | Quick Fix |
+| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Type | Meaning | Quick Fix |
 |------|------|---------|-----------|
-| [Low Battery](https://www.amazon.com/s?k=Low+Battery&tag=errorcodefixes-20) | Warning | Battery voltage low | Test and replace battery |
-| [Battery Charger Fault](https://www.amazon.com/s?k=Battery+Charger+Fault&tag=errorcodefixes-20) | Warning | Charging circuit issue | Check charger; check AC power to charger |
-| [Fail to Start](https://www.amazon.com/s?k=Fail+to+Start&tag=errorcodefixes-20) | Shutdown | Engine did not start after retries | Check fuel, battery, starter |
-| [Low Oil Pressure](https://www.amazon.com/s?k=Low+Oil+Pressure&tag=errorcodefixes-20) | Shutdown | Oil pressure below limit | Check oil level and condition |
-| [High Engine Temperature](https://www.amazon.com/s?k=High+Engine+Temperature&tag=errorcodefixes-20) | Shutdown | Coolant or oil over-temp | Check coolant, oil, fan |
-| [Overspeed](https://www.amazon.com/s?k=Overspeed&tag=errorcodefixes-20) | Shutdown | Engine RPM too high | Governor fault |
-| [Underspeed](https://www.amazon.com/s?k=Underspeed&tag=errorcodefixes-20) | Shutdown | Engine RPM too low | Load, governor, or fuel issue |
-| [High AC Voltage](https://www.amazon.com/s?k=High+AC+Voltage&tag=errorcodefixes-20) | Shutdown | Generator output voltage high | AVR fault |
-| [Low AC Voltage](https://www.amazon.com/s?k=Low+AC+Voltage&tag=errorcodefixes-20) | Shutdown | Generator output voltage low | AVR fault; high load |
-| [Overcurrent](https://www.amazon.com/s?k=Overcurrent&tag=errorcodefixes-20) | Shutdown | Load exceeds generator capacity | Reduce load; check for fault |
-| [Ground Fault](https://www.amazon.com/s?k=Ground+Fault&tag=errorcodefixes-20) | Shutdown | Ground fault in system | Inspect wiring; call electrician |
-| [Exercise Overdue](https://www.amazon.com/s?k=Exercise+Overdue&tag=errorcodefixes-20) | Warning | Generator hasn't run exercise | Run manual exercise; check schedule |
-| [Line Power Available](https://www.amazon.com/s?k=Line+Power+Available&tag=errorcodefixes-20) | Status | Utility power has returned | Normal status — transfer pending |
+| [Low Battery](https://www.amazon.com/s?i=industrial&k=Low+Battery&tag=errorcodefixes-20) | Warning | Battery voltage low | Test and replace battery |
+| [Battery Charger Fault](https://www.amazon.com/s?i=industrial&k=Battery+Charger+Fault&tag=errorcodefixes-20) | Warning | Charging circuit issue | Check charger; check AC power to charger |
+| [Fail to Start](https://www.amazon.com/s?i=industrial&k=Fail+to+Start&tag=errorcodefixes-20) | Shutdown | Engine did not start after retries | Check fuel, battery, starter |
+| [Low Oil Pressure](https://www.amazon.com/s?i=industrial&k=Low+Oil+Pressure&tag=errorcodefixes-20) | Shutdown | Oil pressure below limit | Check oil level and condition |
+| [High Engine Temperature](https://www.amazon.com/s?i=industrial&k=High+Engine+Temperature&tag=errorcodefixes-20) | Shutdown | Coolant or oil over-temp | Check coolant, oil, fan |
+| [Overspeed](https://www.amazon.com/s?i=industrial&k=Overspeed&tag=errorcodefixes-20) | Shutdown | Engine RPM too high | Governor fault |
+| [Underspeed](https://www.amazon.com/s?i=industrial&k=Underspeed&tag=errorcodefixes-20) | Shutdown | Engine RPM too low | Load, governor, or fuel issue |
+| [High AC Voltage](https://www.amazon.com/s?i=industrial&k=High+AC+Voltage&tag=errorcodefixes-20) | Shutdown | Generator output voltage high | AVR fault |
+| [Low AC Voltage](https://www.amazon.com/s?i=industrial&k=Low+AC+Voltage&tag=errorcodefixes-20) | Shutdown | Generator output voltage low | AVR fault; high load |
+| [Overcurrent](https://www.amazon.com/s?i=industrial&k=Overcurrent&tag=errorcodefixes-20) | Shutdown | Load exceeds generator capacity | Reduce load; check for fault |
+| [Ground Fault](https://www.amazon.com/s?i=industrial&k=Ground+Fault&tag=errorcodefixes-20) | Shutdown | Ground fault in system | Inspect wiring; call electrician |
+| [Exercise Overdue](https://www.amazon.com/s?i=industrial&k=Exercise+Overdue&tag=errorcodefixes-20) | Warning | Generator hasn't run exercise | Run manual exercise; check schedule |
+| [Line Power Available](https://www.amazon.com/s?i=industrial&k=Line+Power+Available&tag=errorcodefixes-20) | Status | Utility power has returned | Normal status — transfer pending |
 
 ## Most Common Faults
 

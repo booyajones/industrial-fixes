@@ -52,10 +52,10 @@ This is specific to Carrier Infinity and Bryant Evolution communicating systems 
 
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|-------------|--------------|--------------|
-| Carrier Infinity IFC (58CVX/58MVC series) | HK42FZ034 | $250–$400 | [Amazon](https://www.amazon.com/s?k=Carrier+Infinity+IFC+HK42FZ034&tag=errorcodefixes-20) \| Johnstone Supply |
+| Carrier Infinity IFC (58CVX/58MVC series) | HK42FZ034 | $250–$400 | [Amazon](https://www.amazon.com/s?i=industrial&k=Carrier+Infinity+IFC+HK42FZ034&tag=errorcodefixes-20) \| Johnstone Supply |
 | Carrier Infinity IFC (58CTX/58MTA series) | HK42FZ018 | $200–$350 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| RepairClinic |
-| SAB communication cable (4-wire, 18 AWG, per foot) | — | $0.30–$0.60/ft | [Amazon](https://www.amazon.com/s?k=18+awg+4+conductor+thermostat+wire&tag=errorcodefixes-20) \| Home Depot |
-| Infinity Touch thermostat | TP-NAC01-A | $300–$450 | [Amazon](https://www.amazon.com/s?k=Carrier+Infinity+Touch+thermostat+TP-NAC01-A&tag=errorcodefixes-20) \| Carrier dealer |
+| SAB communication cable (4-wire, 18 AWG, per foot) | — | $0.30–$0.60/ft | [Amazon](https://www.amazon.com/s?i=industrial&k=18+awg+4+conductor+thermostat+wire&tag=errorcodefixes-20) \| Home Depot |
+| Infinity Touch thermostat | TP-NAC01-A | $300–$450 | [Amazon](https://www.amazon.com/s?i=industrial&k=Carrier+Infinity+Touch+thermostat+TP-NAC01-A&tag=errorcodefixes-20) \| Carrier dealer |
 | Outdoor unit control board (varies by model) | — | $200–$500 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) \| Carrier dealer |
 
 ## When to Call a Professional

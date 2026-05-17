@@ -35,12 +35,12 @@ Failure at any step causes E06 after retries.
 
 | Cause | What to Check |
 |---|---|
-| [No gas supply](https://www.amazon.com/s?k=No+gas+supply&tag=errorcodefixes-20) | Gas valve at boiler, main shutoff, utility supply |
+| [No gas supply](https://www.amazon.com/s?i=industrial&k=No+gas+supply&tag=errorcodefixes-20) | Gas valve at boiler, main shutoff, utility supply |
 | [Dirty flame sensor](https://www.amazon.com/dp/B0CZ7M9V4D?tag=errorcodefixes-20) | Rod coated with oxide — clean with emery cloth |
-| [Failed igniter](https://www.amazon.com/s?k=Failed+igniter&tag=errorcodefixes-20) | Cracked or weak hot surface igniter |
+| [Failed igniter](https://www.amazon.com/s?i=industrial&k=Failed+igniter&tag=errorcodefixes-20) | Cracked or weak hot surface igniter |
 | [Failed gas valve](https://www.amazon.com/dp/B0015KAHHA?tag=errorcodefixes-20) | Valve not opening on command |
-| [Draft pressure fault](https://www.amazon.com/s?k=Draft+pressure+fault&tag=errorcodefixes-20) | Blocked flue, failed inducer, blocked condensate |
-| [Fuel pressure too low](https://www.amazon.com/s?k=Fuel+pressure+too+low&tag=errorcodefixes-20) | Check gas pressure at manifold (3.5" WC natural gas) |
+| [Draft pressure fault](https://www.amazon.com/s?i=industrial&k=Draft+pressure+fault&tag=errorcodefixes-20) | Blocked flue, failed inducer, blocked condensate |
+| [Fuel pressure too low](https://www.amazon.com/s?i=industrial&k=Fuel+pressure+too+low&tag=errorcodefixes-20) | Check gas pressure at manifold (3.5" WC natural gas) |
 
 ## How to Reset E06
 

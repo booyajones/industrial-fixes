@@ -44,9 +44,9 @@ Oil isn't reaching setpoint within the allowed time. Check burner operation, gas
 
 | Part | Notes |
 |------|-------|
-| Oil temperature probe | [Amazon](https://www.amazon.com/s?k=Oil+temperature+probe&tag=errorcodefixes-20) \| For E02 — Pitco OEM part |
-| High-limit thermostat | [Amazon](https://www.amazon.com/s?k=High-limit+thermostat&tag=errorcodefixes-20) \| For E04 — manual reset type |
-| Igniter assembly | [Amazon](https://www.amazon.com/s?k=Igniter+assembly&tag=errorcodefixes-20) \| For E03 |
+| Oil temperature probe | [Amazon](https://www.amazon.com/s?i=industrial&k=Oil+temperature+probe&tag=errorcodefixes-20) \| For E02 — Pitco OEM part |
+| High-limit thermostat | [Amazon](https://www.amazon.com/s?i=industrial&k=High-limit+thermostat&tag=errorcodefixes-20) \| For E04 — manual reset type |
+| Igniter assembly | [Amazon](https://www.amazon.com/s?i=industrial&k=Igniter+assembly&tag=errorcodefixes-20) \| For E03 |
 ## When to Call a Pro
 
 E01/E04 high temperature faults require root cause investigation before returning to service. Gas valve and burner work requires a certified commercial kitchen equipment technician.

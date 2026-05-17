@@ -21,12 +21,12 @@ tags:
 
 ## A.O. Smith Models That Show E1
 
-| [Model Series](https://www.amazon.com/s?k=Model+Series&tag=errorcodefixes-20) | E1 Meaning |
+| [Model Series](https://www.amazon.com/s?i=industrial&k=Model+Series&tag=errorcodefixes-20) | E1 Meaning |
 |---|---|
-| [Voltex (AHPT series)](https://www.amazon.com/s?k=Voltex+%28AHPT+series%29&tag=errorcodefixes-20) | Upper temperature sensor fault |
-| [Signature 900 (HPTU)](https://www.amazon.com/s?k=Signature+900+%28HPTU%29&tag=errorcodefixes-20) | Temperature sensor or heat pump sensor |
-| [ProLine XE (ELDS, ELD)](https://www.amazon.com/s?k=ProLine+XE+%28ELDS%2C+ELD%29&tag=errorcodefixes-20) | Element or sensor fault |
-| [Vertex (GPVH)](https://www.amazon.com/s?k=Vertex+%28GPVH%29&tag=errorcodefixes-20) | Gas control sensor fault |
+| [Voltex (AHPT series)](https://www.amazon.com/s?i=industrial&k=Voltex+%28AHPT+series%29&tag=errorcodefixes-20) | Upper temperature sensor fault |
+| [Signature 900 (HPTU)](https://www.amazon.com/s?i=industrial&k=Signature+900+%28HPTU%29&tag=errorcodefixes-20) | Temperature sensor or heat pump sensor |
+| [ProLine XE (ELDS, ELD)](https://www.amazon.com/s?i=industrial&k=ProLine+XE+%28ELDS%2C+ELD%29&tag=errorcodefixes-20) | Element or sensor fault |
+| [Vertex (GPVH)](https://www.amazon.com/s?i=industrial&k=Vertex+%28GPVH%29&tag=errorcodefixes-20) | Gas control sensor fault |
 
 ## Where Are the Sensors?
 
@@ -42,12 +42,12 @@ E1 usually means the **upper tank sensor** has failed.
 
 The sensors are NTC thermistors that change resistance with temperature:
 
-| [Temperature](https://www.amazon.com/s?k=Temperature&tag=errorcodefixes-20) | Expected Resistance |
+| [Temperature](https://www.amazon.com/s?i=industrial&k=Temperature&tag=errorcodefixes-20) | Expected Resistance |
 |---|---|
-| [32°F (0°C)](https://www.amazon.com/s?k=32%C2%B0F+%280%C2%B0C%29&tag=errorcodefixes-20) | ~32,650 ohms |
-| [68°F (20°C)](https://www.amazon.com/s?k=68%C2%B0F+%2820%C2%B0C%29&tag=errorcodefixes-20) | ~12,490 ohms |
-| [77°F (25°C)](https://www.amazon.com/s?k=77%C2%B0F+%2825%C2%B0C%29&tag=errorcodefixes-20) | ~10,000 ohms |
-| [120°F (49°C)](https://www.amazon.com/s?k=120%C2%B0F+%2849%C2%B0C%29&tag=errorcodefixes-20) | ~3,600 ohms |
+| [32°F (0°C)](https://www.amazon.com/s?i=industrial&k=32%C2%B0F+%280%C2%B0C%29&tag=errorcodefixes-20) | ~32,650 ohms |
+| [68°F (20°C)](https://www.amazon.com/s?i=industrial&k=68%C2%B0F+%2820%C2%B0C%29&tag=errorcodefixes-20) | ~12,490 ohms |
+| [77°F (25°C)](https://www.amazon.com/s?i=industrial&k=77%C2%B0F+%2825%C2%B0C%29&tag=errorcodefixes-20) | ~10,000 ohms |
+| [120°F (49°C)](https://www.amazon.com/s?i=industrial&k=120%C2%B0F+%2849%C2%B0C%29&tag=errorcodefixes-20) | ~3,600 ohms |
 
 **To test:**
 1. Turn off circuit breaker to the water heater
@@ -94,7 +94,7 @@ Don't ignore E1 — a $25–50 sensor replacement avoids a potential burnout of 
 | Part | Cost |
 |---|---|
 | [NTC temperature sensor (universal)](https://www.amazon.com/dp/B09FFFPF5L?tag=errorcodefixes-20) | $15–30 |
-| [A.O. Smith OEM sensor](https://www.amazon.com/s?k=A.O.+Smith+OEM+sensor&tag=errorcodefixes-20) | $25–60 |
+| [A.O. Smith OEM sensor](https://www.amazon.com/s?i=industrial&k=A.O.+Smith+OEM+sensor&tag=errorcodefixes-20) | $25–60 |
 | [Control board (if sensor input failed)](https://www.amazon.com/dp/B0CNZGZ1HS?tag=errorcodefixes-20) | $100–250 |
 
 ## Related Articles

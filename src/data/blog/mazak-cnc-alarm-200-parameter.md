@@ -36,7 +36,7 @@ Mazak Alarm 200 indicates a parameter fault — the MAZATROL control detected an
 
 | Part | Notes |
 |------|-------|
-| CMOS backup battery | [Amazon](https://www.amazon.com/s?k=CMOS+backup+battery&tag=errorcodefixes-20) \| Replace if battery-backed parameter loss is the cause |
+| CMOS backup battery | [Amazon](https://www.amazon.com/s?i=industrial&k=CMOS+backup+battery&tag=errorcodefixes-20) \| Replace if battery-backed parameter loss is the cause |
 ## When to Call a Pro
 
 If parameters are corrupted and no backup exists, Mazak service can retrieve the original parameter file for your machine serial number. Contact Mazak Technical Support before attempting parameter reconstruction.

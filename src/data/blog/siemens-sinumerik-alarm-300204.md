@@ -36,9 +36,9 @@ Siemens Sinumerik alarm 300204 means axis overcurrent — the drive detected mot
 
 | Part | Notes |
 |------|-------|
-| Sinamics S120 motor module | [Amazon](https://www.amazon.com/s?k=Sinamics+S120+motor+module&tag=errorcodefixes-20) \| Specific to axis current rating; part number from drive module label |
-| Servo motor | [Amazon](https://www.amazon.com/s?k=Servo+motor&tag=errorcodefixes-20) \| Replace if winding insulation fails megohm test |
-| Motor power cable (pre-assembled, shielded) | [Amazon](https://www.amazon.com/s?k=Motor+power+cable+%28pre-assembled%2C+shielded%29&tag=errorcodefixes-20) \| Siemens specifies cable type for Sinamics; use correct shield termination |
+| Sinamics S120 motor module | [Amazon](https://www.amazon.com/s?i=industrial&k=Sinamics+S120+motor+module&tag=errorcodefixes-20) \| Specific to axis current rating; part number from drive module label |
+| Servo motor | [Amazon](https://www.amazon.com/s?i=industrial&k=Servo+motor&tag=errorcodefixes-20) \| Replace if winding insulation fails megohm test |
+| Motor power cable (pre-assembled, shielded) | [Amazon](https://www.amazon.com/s?i=industrial&k=Motor+power+cable+%28pre-assembled%2C+shielded%29&tag=errorcodefixes-20) \| Siemens specifies cable type for Sinamics; use correct shield termination |
 ## When to Call a Pro
 
 Sinamics S120 drive module repair and parameter verification requires Siemens-trained technicians with TIA Portal access. Incorrect parameter restoration after a module swap will generate additional alarms.

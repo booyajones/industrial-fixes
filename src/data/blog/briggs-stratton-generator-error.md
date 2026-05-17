@@ -16,7 +16,7 @@ tags:
 
 Briggs & Stratton standby generators (Symphony II controller) and commercial generators use numeric fault codes displayed on the controller. Portable Briggs & Stratton generators typically use LED fault indicators rather than numeric codes.
 
-| [Code](https://www.amazon.com/s?k=Code&tag=errorcodefixes-20) | Controller | Meaning | Quick Fix |
+| [Code](https://www.amazon.com/s?i=industrial&k=Code&tag=errorcodefixes-20) | Controller | Meaning | Quick Fix |
 |------|-----------|---------|-----------|
 | 02 | Symphony II | Low battery | Test and replace battery |
 | 03 | Symphony II | Charger fault | Check battery charger input power |
@@ -30,8 +30,8 @@ Briggs & Stratton standby generators (Symphony II controller) and commercial gen
 | 15 | Symphony II | Low AC voltage | AVR fault; overload |
 | 19 | Symphony II | Overload — overcurrent | Reduce connected load |
 | 23 | Symphony II | Check | Maintenance reminder |
-| [Red LED](https://www.amazon.com/s?k=Red+LED&tag=errorcodefixes-20) | Portable | Low oil shutdown | Add oil |
-| [Yellow LED](https://www.amazon.com/s?k=Yellow+LED&tag=errorcodefixes-20) | Portable | Overload warning | Reduce load |
+| [Red LED](https://www.amazon.com/s?i=industrial&k=Red+LED&tag=errorcodefixes-20) | Portable | Low oil shutdown | Add oil |
+| [Yellow LED](https://www.amazon.com/s?i=industrial&k=Yellow+LED&tag=errorcodefixes-20) | Portable | Overload warning | Reduce load |
 
 ## Most Common Faults
 

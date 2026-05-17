@@ -36,9 +36,9 @@ Okuma alarm 2030 indicates a spindle drive fault — the spindle drive (inverter
 
 | Part | Notes |
 |------|-------|
-| Spindle encoder | [Amazon](https://www.amazon.com/s?k=Spindle+encoder&tag=errorcodefixes-20) \| Okuma uses proprietary encoders; must be Okuma OEM |
-| Spindle drive (PREX or DRIVE II) | [Amazon](https://www.amazon.com/s?k=Spindle+drive+%28PREX+or+DRIVE+II%29&tag=errorcodefixes-20) \| Replace if drive sub-fault indicates internal hardware failure |
-| Spindle bearings | [Amazon](https://www.amazon.com/s?k=Spindle+bearings&tag=errorcodefixes-20) \| Replace at a motor shop if bearing fault is confirmed |
+| Spindle encoder | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+encoder&tag=errorcodefixes-20) \| Okuma uses proprietary encoders; must be Okuma OEM |
+| Spindle drive (PREX or DRIVE II) | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+drive+%28PREX+or+DRIVE+II%29&tag=errorcodefixes-20) \| Replace if drive sub-fault indicates internal hardware failure |
+| Spindle bearings | [Amazon](https://www.amazon.com/s?i=industrial&k=Spindle+bearings&tag=errorcodefixes-20) \| Replace at a motor shop if bearing fault is confirmed |
 ## When to Call a Pro
 
 Okuma spindle drives contain proprietary electronics and use Okuma-specific communication protocols. Internal drive repairs and bearing replacements require an Okuma-certified technician to ensure proper alignment and parameter restoration.

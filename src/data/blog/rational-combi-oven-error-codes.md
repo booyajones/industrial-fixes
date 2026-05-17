@@ -509,16 +509,16 @@ Water treatment is non-negotiable. Hard water without softening deposits scale o
 |------|-------------|-------|
 | Cabinet thermocouple B1 | Service 20.1 / temperature fault | [Amazon search](https://www.amazon.com/dp/B00RJF4PYQ?tag=errorcodefixes-20) |
 | Steam generator thermocouple B5 | Service 20.8 / 28 | Check Rational part numbers by model |
-| CDS flow sensor | Service 11, 12, 25, 41 | [Amazon search](https://www.amazon.com/s?k=Rational+CDS+sensor+combi+oven&tag=errorcodefixes-20) |
+| CDS flow sensor | Service 11, 12, 25, 41 | [Amazon search](https://www.amazon.com/s?i=industrial&k=Rational+CDS+sensor+combi+oven&tag=errorcodefixes-20) |
 | Level electrode | Service 13, 14, 100 | Critical in hard-water areas |
 | Drain valve assembly | Service 26, 27 | Includes microswitch |
 | Steam generator heating element | Service 28, 44 | Replace as set with thermostat |
 | Solid-state relay (SSR) | Service 23, 24 | Hot-air and steam SSRs are different |
-| Care pump M12 | Service 40, 120 | [Amazon search](https://www.amazon.com/s?k=Rational+care+pump+M12&tag=errorcodefixes-20) |
+| Care pump M12 | Service 40, 120 | [Amazon search](https://www.amazon.com/s?i=industrial&k=Rational+care+pump+M12&tag=errorcodefixes-20) |
 | Moistening solenoid Y3 | Service 25, 41 | Clean before replacing — often just scaled |
-| Differential pressure sensor P1 | Service 30, 36, 37 | [Amazon search](https://www.amazon.com/s?k=Rational+differential+pressure+sensor+combi&tag=errorcodefixes-20) |
+| Differential pressure sensor P1 | Service 30, 36, 37 | [Amazon search](https://www.amazon.com/s?i=industrial&k=Rational+differential+pressure+sensor+combi&tag=errorcodefixes-20) |
 | Multi-point core probe | Service 31.x | Confirm compatible with your model |
-| Control panel cooling fan | Service 29 | [Amazon search](https://www.amazon.com/s?k=Rational+control+panel+cooling+fan&tag=errorcodefixes-20) |
+| Control panel cooling fan | Service 29 | [Amazon search](https://www.amazon.com/s?i=industrial&k=Rational+control+panel+cooling+fan&tag=errorcodefixes-20) |
 | Door gasket / door seal | Door fault, steam loss | Inspect quarterly; replace when compressed |
 | Ignition module (gas models) | Service 32, 33, 60 | Match to top or bottom burner position |
 
