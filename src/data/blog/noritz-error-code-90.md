@@ -50,3 +50,7 @@ Code 90 involves combustion safety. If venting is clear and the unit still trips
 - [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
 - [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
 - [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [Rheem EcoNet A101 error code fix](/posts/rheem-econet-a101-error-code/)
+

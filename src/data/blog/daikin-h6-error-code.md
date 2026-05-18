@@ -72,3 +72,7 @@ Replacing an indoor fan motor requires opening the indoor unit, removing the blo
 - [Daikin E7 Error Code — Outdoor Fan Motor Fault](/posts/daikin-e7-error-code/)
 - [Daikin U4 Error Code — Communication Fault](/posts/daikin-u4-error-code/)
 - [All Daikin Mini-Split Error Codes](/posts/daikin-mini-split-error-codes/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [Rheem EcoNet A101 error code fix](/posts/rheem-econet-a101-error-code/)
+

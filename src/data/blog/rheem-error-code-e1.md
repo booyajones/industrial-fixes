@@ -60,3 +60,10 @@ If the system ran correctly for years before developing E1, start with the wirin
 - [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)
 - [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)
 - [Rheem Furnace 5 Flashes Error Code — Flame Sensor Fault Fix](/posts/rheem-furnace-5-flashes-flame-sensor/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [Rheem EcoNet A101 error code fix](/posts/rheem-econet-a101-error-code/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [Rheem Performance Platinum PDN tankless error codes](/posts/rheem-performance-platinum-pdn-error-codes/)
+

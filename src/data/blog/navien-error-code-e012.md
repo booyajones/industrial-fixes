@@ -63,3 +63,7 @@ Gas pressure diagnosis requires a licensed gas technician with a manometer. Comb
 - [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)
 - [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
 - [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [Rheem Performance Platinum PDN tankless error codes](/posts/rheem-performance-platinum-pdn-error-codes/)
+

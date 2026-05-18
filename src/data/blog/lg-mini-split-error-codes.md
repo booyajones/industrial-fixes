@@ -69,3 +69,13 @@ CH67, CH25, CH32, CH34, and CH35 all require refrigeration technician-level expe
 - [Carrier Heat Pump E1 Error Code — Causes & Fix](/posts/carrier-heat-pump-e1-error-code/)
 - [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
 - [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [LG washer error codes (complete guide)](/posts/lg-washer-error-codes/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [LG washer error code 31 (pressure / suspension fault)](/posts/lg-washer-error-code-31/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [LG refrigerator error codes (complete guide)](/posts/lg-refrigerator-error-codes/)
+

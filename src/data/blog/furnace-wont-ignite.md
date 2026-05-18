@@ -170,3 +170,7 @@ A furnace that will not ignite in freezing weather is an emergency. If you have 
 - [Furnace Blowing Cold Air - 8 Causes and How to Fix Each](/blog/furnace-blowing-cold-air)
 - [Furnace Short Cycling - Causes and Fixes](/blog/furnace-short-cycling)
 - [Furnace Error Code List](/blog/furnace-error-codes)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [Rheem EcoNet A101 error code fix](/posts/rheem-econet-a101-error-code/)
+

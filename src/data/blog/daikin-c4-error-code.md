@@ -51,3 +51,7 @@ If the sensor tests correctly but C4 returns, the indoor control board likely ha
 - [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)
 - [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)
 - [Daikin E3 Error Code — Causes & Fix](/posts/daikin-e3-error-code/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [Rheem EcoNet A101 error code fix](/posts/rheem-econet-a101-error-code/)
+

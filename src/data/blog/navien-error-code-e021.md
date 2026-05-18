@@ -72,3 +72,7 @@ E021 is one of the more DIY-accessible Navien fault codes. The thermistor replac
 - [Navien Error Code E003 — Ignition Failure](/posts/navien-error-code-e003-ignition-failure/)
 - [Navien Error Code E016 — Heat Exchanger Outlet High Temperature](/posts/navien-error-code-e016/)
 - [All Navien Error Codes](/posts/navien-error-codes/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [Rheem Performance Platinum PDN tankless error codes](/posts/rheem-performance-platinum-pdn-error-codes/)
+

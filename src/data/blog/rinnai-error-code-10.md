@@ -75,3 +75,7 @@ If the fan motor, heat exchanger, or pressure switch needs replacement, most hom
 - [Rinnai Error Code 12 — Flame Failure](/posts/rinnai-error-code-12/)
 - [Rinnai Error Code 11 — Ignition Failure](/posts/rinnai-error-code-11/)
 - [All Rinnai Error Codes](/posts/rinnai-error-codes/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [Rheem Performance Platinum PDN tankless error codes](/posts/rheem-performance-platinum-pdn-error-codes/)
+

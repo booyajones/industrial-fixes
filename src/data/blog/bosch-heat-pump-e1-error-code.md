@@ -53,3 +53,7 @@ Bosch inverter heat pump control boards contain high-voltage components (DC bus 
 - [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
 - [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)
 - [Carrier Heat Pump E6 Error Code — Outdoor Temp Sensor Fault](/posts/carrier-heat-pump-e6-error-code/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [Bosch dishwasher error codes](/posts/bosch-dishwasher-error-codes/)
+

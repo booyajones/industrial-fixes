@@ -79,3 +79,7 @@ E4-02 (low pressure), E4-03 (discharge temp), and E5-01 (overcurrent) all indica
 - [Carrier Heat Pump E1 Error Code — Causes & Fix](/posts/carrier-heat-pump-e1-error-code/)
 - [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
 - [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [Samsung refrigerator error codes](/posts/samsung-refrigerator-error-codes/)
+

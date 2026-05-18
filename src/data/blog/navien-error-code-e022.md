@@ -77,3 +77,7 @@ E022 is similar in scope to E021 — a thermistor swap is within reach of a care
 - [Navien Error Code E016 — Heat Exchanger Outlet High Temperature](/posts/navien-error-code-e016/)
 - [Navien Error Code E003 — Ignition Failure](/posts/navien-error-code-e003-ignition-failure/)
 - [All Navien Error Codes](/posts/navien-error-codes/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [Rheem Performance Platinum PDN tankless error codes](/posts/rheem-performance-platinum-pdn-error-codes/)
+

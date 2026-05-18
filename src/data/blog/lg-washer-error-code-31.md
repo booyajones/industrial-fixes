@@ -68,3 +68,22 @@ When the controller starts a spin and the pressure sensor reading doesn't drop a
 - **dE** — Door not locked. Spin cycles abort with dE before they ever reach code 31.
 
 If code 31 returns within 24 hours of working through this guide, the most likely root cause is the main control board's pressure-sensing analog input — a known weakness on the LSWD combo. Schedule a board replacement.
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [LG washer error codes (complete guide)](/posts/lg-washer-error-codes/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [LG refrigerator error codes (complete guide)](/posts/lg-refrigerator-error-codes/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [Bosch dishwasher error codes](/posts/bosch-dishwasher-error-codes/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [Whirlpool washer error codes (F-codes + Cabrio)](/posts/whirlpool-washer-error-codes/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [Maytag washer error codes (Bravos + Centennial)](/posts/maytag-washer-error-codes/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [Samsung refrigerator error codes](/posts/samsung-refrigerator-error-codes/)
+

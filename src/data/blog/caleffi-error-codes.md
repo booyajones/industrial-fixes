@@ -57,3 +57,7 @@ Caleffi DISCAL automatic air vents and Series 502 float-type air vents should be
 
 ## When to Call a Pro
 Zone valve actuator replacement is straightforward — most technicians can swap an actuator in 15 minutes without draining the system. However, if the valve body itself leaks from the packing or ball seal, the system must be drained and the valve body replaced — a job for a licensed plumber.
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [Rheem Performance Platinum PDN tankless error codes](/posts/rheem-performance-platinum-pdn-error-codes/)
+

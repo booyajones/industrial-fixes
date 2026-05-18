@@ -60,3 +60,13 @@ Check compressor winding resistance with ohmmeter (all phases should be equal, t
 | Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-lg-multi-v-error-codes&tag=errorcodefixes-20) \| DC motor type on most Multi V |
 | Communication cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-multi-v-error-codes&k=Communication+cable&tag=errorcodefixes-20) \| 2-wire shielded — check polarity |
 > **Pro tip:** LG Multi V systems can be diagnosed remotely via LG HVAC Solution. Register the system with the ACS (Advanced Central System) for real-time monitoring and fault code alerts without site visits.
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [LG washer error codes (complete guide)](/posts/lg-washer-error-codes/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [LG washer error code 31 (pressure / suspension fault)](/posts/lg-washer-error-code-31/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [LG refrigerator error codes (complete guide)](/posts/lg-refrigerator-error-codes/)
+

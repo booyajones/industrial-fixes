@@ -97,3 +97,22 @@ The drive motor is drawing current but the rotor isn't moving. Causes:
 - **PE → IE → FE**: pressure sensor hose disconnected. The washer reads zero water, opens the inlet, then the sensor jumps to overflow when the tube reconnects under pressure. Replace the pressure tube clip.
 
 If you've worked through the diagnostic above and the fault returns within 24 hours, the issue is upstream — usually a failed pressure sensor or a wiring harness break — and the next step is a real service call rather than another swap.
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [LG washer error code 31 (pressure / suspension fault)](/posts/lg-washer-error-code-31/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [LG refrigerator error codes (complete guide)](/posts/lg-refrigerator-error-codes/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [Bosch dishwasher error codes](/posts/bosch-dishwasher-error-codes/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [Whirlpool washer error codes (F-codes + Cabrio)](/posts/whirlpool-washer-error-codes/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [Maytag washer error codes (Bravos + Centennial)](/posts/maytag-washer-error-codes/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [Samsung refrigerator error codes](/posts/samsung-refrigerator-error-codes/)
+

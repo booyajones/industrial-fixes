@@ -95,3 +95,10 @@ LG mini-splits allow 3 high-pressure trips before hard lockout:
 - [Carrier Heat Pump E1 Error Code — Causes & Fix](/posts/carrier-heat-pump-e1-error-code/)
 - [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
 - [Carrier Heat Pump E5 Error Code — Defrost Fault: Causes & Fix](/posts/carrier-heat-pump-e5-error-code/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [LG washer error codes (complete guide)](/posts/lg-washer-error-codes/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [LG washer error code 31 (pressure / suspension fault)](/posts/lg-washer-error-code-31/)
+

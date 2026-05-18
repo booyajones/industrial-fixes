@@ -50,3 +50,7 @@ Bosch commercial dishwashers (undercounter, door-type, and conveyor models) disp
 ## When to Call a Pro
 
 High-voltage heating element and control board work requires a qualified appliance or commercial kitchen equipment technician.
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [Bosch dishwasher error codes](/posts/bosch-dishwasher-error-codes/)
+

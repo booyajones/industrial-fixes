@@ -73,3 +73,7 @@ If J3 is caused by an actual elevated discharge temperature (not just a sensor f
 - [Daikin F3 Error Code — Discharge Pipe Temperature High](/posts/daikin-f3-error-code/)
 - [Daikin U4 Error Code — Communication Fault](/posts/daikin-u4-error-code/)
 - [All Daikin Mini-Split Error Codes](/posts/daikin-mini-split-error-codes/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [Rheem EcoNet A101 error code fix](/posts/rheem-econet-a101-error-code/)
+

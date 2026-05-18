@@ -119,3 +119,7 @@ Additionally, if Code 29 appeared after a lightning strike or power surge, have 
 - [Rinnai Error Code 11 — Ignition Failure Fix](/posts/rinnai-error-code-11/)
 - [Rinnai Error Code 12 — Flame Loss Fix](/posts/rinnai-error-code-12/)
 - [Rinnai Error Code 25 — Combustion Air Fault](/posts/rinnai-error-code-25/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [Rheem Performance Platinum PDN tankless error codes](/posts/rheem-performance-platinum-pdn-error-codes/)
+

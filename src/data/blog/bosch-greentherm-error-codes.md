@@ -141,3 +141,7 @@ Any fault that persists after cleaning the flame sensor and verifying gas supply
 - [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)
 - [Rinnai Error Code 11 — Ignition Failure Fix](/posts/rinnai-error-code-11/)
 - [Rinnai Error Code 12 — Flame Loss Fix](/posts/rinnai-error-code-12/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [Bosch dishwasher error codes](/posts/bosch-dishwasher-error-codes/)
+

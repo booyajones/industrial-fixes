@@ -372,3 +372,7 @@ PTAC replacement is often faster and cheaper than component-level repair. Use th
 - **[PTAC Filter Replacement Universal](https://www.amazon.com/s?ascsubtag=ecf-ptac-error-codes&k=ptac+replacement+filter+universal&tag=errorcodefixes-20)**
 - **[PTAC Blower Fan Motor](https://www.amazon.com/s?ascsubtag=ecf-ptac-error-codes&k=ptac+blower+motor+replacement&tag=errorcodefixes-20)**
 - **[LG PTAC Replacement Parts](https://www.amazon.com/s?ascsubtag=ecf-ptac-error-codes&k=lg+ptac+replacement+parts+CH+error&tag=errorcodefixes-20)**
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [Rheem EcoNet A101 error code fix](/posts/rheem-econet-a101-error-code/)
+

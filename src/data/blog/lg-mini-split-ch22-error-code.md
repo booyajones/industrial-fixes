@@ -133,3 +133,10 @@ If diagnosis points to the control board (no motor output voltage despite health
 - [LG Mini-Split CH21 Error Code — Fan Speed Error](/posts/lg-mini-split-ch21-error-code/)
 - [LG Mini-Split CH10 Error Code — Indoor Coil Sensor](/posts/lg-mini-split-ch10-error-code/)
 - [LG Mini-Split CH26 Error Code — Communication Error](/posts/lg-mini-split-ch26-error-code/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [LG washer error codes (complete guide)](/posts/lg-washer-error-codes/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [LG washer error code 31 (pressure / suspension fault)](/posts/lg-washer-error-code-31/)
+

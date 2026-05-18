@@ -72,3 +72,7 @@ If descaling and cleaning don't resolve code 07, the secondary heat exchanger it
 - [Rinnai Error Code 14 — Thermal Fuse Fault](/posts/rinnai-error-code-14/)
 - [Rinnai Error Code 33 — Heat Exchanger Outlet Temperature Fault](/posts/rinnai-error-code-33/)
 - [All Rinnai Error Codes](/posts/rinnai-error-codes/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [Rheem Performance Platinum PDN tankless error codes](/posts/rheem-performance-platinum-pdn-error-codes/)
+

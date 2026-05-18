@@ -142,3 +142,7 @@ A: A very brief, faint smell (a few seconds) when relighting a pilot is normal â
 
 **Q: Can I use my oven if my furnace has a gas leak?**
 A: No. Shut off the main gas supply to your home and do not use any gas appliance until the leak has been located and repaired.
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [Rheem EcoNet A101 error code fix](/posts/rheem-econet-a101-error-code/)
+

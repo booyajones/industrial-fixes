@@ -51,3 +51,7 @@ Trane ComfortLink II system diagnostics require the Trane proprietary service to
 - [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
 - [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
 - [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [Rheem EcoNet A101 error code fix](/posts/rheem-econet-a101-error-code/)
+

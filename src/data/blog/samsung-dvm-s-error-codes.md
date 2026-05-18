@@ -59,3 +59,7 @@ DVM S uses a variable-speed scroll compressor. Measure DC bus voltage (should be
 | Inverter board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dvm-s-error-codes&k=Inverter+board&tag=errorcodefixes-20) \| High cost — verify fault first |
 | Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-samsung-dvm-s-error-codes&tag=errorcodefixes-20) \| Match HP and frame type |
 > **Pro tip:** Samsung DVM S systems support SmartThings Pro for remote monitoring. Fault codes, pressures, and temperatures can be viewed remotely — enroll system for proactive fault notification.
+
+<!-- INTERNAL-LINK-AUTO -->
+**Related:** [Samsung refrigerator error codes](/posts/samsung-refrigerator-error-codes/)
+
