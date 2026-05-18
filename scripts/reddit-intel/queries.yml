@@ -64,6 +64,17 @@ brands:
   - Manitowoc
   - Hoshizaki
   - Scotsman
+  # Residential appliances — added 2026-05-17 after canary showed
+  # r/Appliances was the #2 source of hits but our brand list missed
+  # the dominant US laundry/kitchen brands entirely.
+  - Maytag
+  - Whirlpool
+  - Frigidaire
+  - KitchenAid
+  - Samsung
+  - GE         # also matches "GE Appliances"
+  - Kenmore
+  - Speed Queen
   # Commercial kitchen
   - Hobart
   - Vulcan

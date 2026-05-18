@@ -45,17 +45,25 @@ def _extract_post_id(url: str) -> str | None:
     return m.group(1) if m else None
 
 
-def _extract_brand(text: str, brands: list[str]) -> str:
-    """Pick the first brand mentioned in the title/description. Case-insensitive,
-    word-boundary match so "True" doesn't match "truely" but DOES match
-    "True T-49"."""
-    lower = text.lower()
-    # Sort by length descending so "Beverage-Air" wins over "Air"
-    for brand in sorted(brands, key=len, reverse=True):
-        b = brand.lower()
-        # Use word boundary on the brand name itself
-        if re.search(rf"\b{re.escape(b)}\b", lower):
-            return brand
+def _extract_brand(title: str, description: str, brands: list[str]) -> str:
+    """Brand detection with title priority.
+
+    First canary run mistagged 'Mazak servo parameter malfunction' as
+    Mitsubishi because Mitsubishi appeared in the SERP description. The
+    Reddit thread title is the human's framing of their problem — it's
+    a much stronger signal than the SERP snippet description, which is
+    Google's auto-summary and may include adjacent paragraph text.
+
+    Algorithm:
+      1. Scan TITLE first. If any brand matches, return it.
+      2. Only if title has zero brand hits, fall back to description.
+      3. Within each scan, longer brand names win (Beverage-Air > Air).
+    """
+    sorted_brands = sorted(brands, key=len, reverse=True)
+    for source in (title.lower(), description.lower()):
+        for brand in sorted_brands:
+            if re.search(rf"\b{re.escape(brand.lower())}\b", source):
+                return brand
     return ""
 
 
@@ -112,7 +120,7 @@ def search(
                 seen.add(pid)
                 title = item.get("title", "") or ""
                 desc = item.get("description", "") or ""
-                brand = _extract_brand(f"{title} {desc}", brands)
+                brand = _extract_brand(title, desc, brands)
                 yield RedditHit(
                     post_id=pid,
                     subreddit=sub,
