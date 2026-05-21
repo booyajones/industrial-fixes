@@ -50,3 +50,7 @@ If the sensor and wiring test good but F3 persists, the outdoor unit PCB may hav
 - [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
 - [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)
 - [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Mitsubishi mini split P5 drain fault](/posts/mitsubishi-p5-error-code/)
+

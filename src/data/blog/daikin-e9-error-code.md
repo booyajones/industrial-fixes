@@ -50,3 +50,7 @@ Refrigerant work requires an EPA 608 certification. If the coil is clean and E9 
 - [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
 - [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)
 - [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Mitsubishi mini split P5 drain fault](/posts/mitsubishi-p5-error-code/)
+

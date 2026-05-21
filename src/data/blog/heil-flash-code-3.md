@@ -107,3 +107,31 @@ Code 3 = pressure switch stuck open (didn't close after inducer started). Code 4
 - [Tempstar Flash Code 4 — Limit Switch Fix](/posts/tempstar-flash-code-4)
 - [Payne Error Code 31 — Pressure Switch Fix](/posts/payne-error-code-31)
 - [Carrier 31 Error Code — Pressure Switch Fix](/posts/carrier-31-error-code)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Carrier vs Trane furnaces compared](/posts/carrier-vs-trane-furnaces/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Goodman vs Bryant furnaces compared](/posts/goodman-vs-bryant-furnaces/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Mitsubishi vs Daikin mini splits](/posts/mitsubishi-vs-daikin-mini-splits/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Best combustion analyzer (2026)](/posts/best-combustion-analyzer/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Best HVAC manometer (2026)](/posts/best-manometer-for-hvac/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Best refrigerant gauge set (2026)](/posts/best-refrigerant-gauge-set/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Best thermal imager for HVAC](/posts/best-thermal-imager-for-hvac/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Best refrigerant leak detector](/posts/best-refrigerant-leak-detector/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Best boiler test kit](/posts/best-boiler-test-kit/)
+

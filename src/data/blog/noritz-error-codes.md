@@ -70,3 +70,10 @@ Code 14 (thermal fuse), code 71 (gas valve solenoid), and code 90 (combustion ab
 - [AO Smith Water Heater 4 Flashes — What It Means and How to Fix It](/posts/ao-smith-water-heater-4-flashes/)
 - [A.O. Smith Water Heater Error Codes Guide](/posts/ao-smith-water-heater-error-codes/)
 - [Bradford White Water Heater Error Code 1 — Pilot Outage Fix](/posts/bradford-white-error-code-1/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Best combustion analyzer (2026)](/posts/best-combustion-analyzer/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Weil-McLain code 3 low water cutoff](/posts/weil-mclain-error-code-3/)
+

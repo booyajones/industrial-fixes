@@ -70,3 +70,6 @@ Check compressor winding resistance with ohmmeter (all phases should be equal, t
 <!-- INTERNAL-LINK-AUTO -->
 **Related:** [LG refrigerator error codes (complete guide)](/posts/lg-refrigerator-error-codes/)
 
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Samsung vs LG French door refrigerators](/posts/samsung-vs-lg-french-door-refrigerators/)
+

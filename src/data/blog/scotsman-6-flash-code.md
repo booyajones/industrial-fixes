@@ -113,3 +113,19 @@ Possible early-stage low charge. The 6-flash threshold has some hysteresis built
 - [Scotsman 4-Flash Code — Long Freeze Cycle Fix](/posts/scotsman-4-flash-code)
 - [Scotsman 5-Flash Code — Long Harvest Cycle Fix](/posts/scotsman-5-flash-code)
 - [Manitowoc E15 Error Code — High-Side Pressure Switch Open Fix](/posts/manitowoc-e15-error-code)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Hoshizaki vs Manitowoc ice machines](/posts/hoshizaki-vs-manitowoc-ice-machines/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Manitowoc vs Scotsman ice machines](/posts/manitowoc-vs-scotsman-ice-machines/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Manitowoc E01 long freeze cycle fix](/posts/manitowoc-e01-error-code/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Hoshizaki E2 long freeze cycle fix](/posts/hoshizaki-e2-error-code/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Scotsman 1-flash bin full fix](/posts/scotsman-1-flash-code/)
+

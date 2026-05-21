@@ -104,3 +104,22 @@ Code 31 = pressure switch stuck closed at rest. Code 32 = pressure switch didn't
 - [Carrier 31 Error Code — Pressure Switch Fix](/posts/carrier-31-error-code)
 - [Bryant Error Code 13 — Limit Lockout Fix](/posts/bryant-error-code-13)
 - [Heil 3-Flash Error Code — Pressure Switch Fix](/posts/heil-flash-code-3)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Carrier vs Trane furnaces compared](/posts/carrier-vs-trane-furnaces/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Goodman vs Bryant furnaces compared](/posts/goodman-vs-bryant-furnaces/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Mitsubishi vs Daikin mini splits](/posts/mitsubishi-vs-daikin-mini-splits/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Best HVAC manometer (2026)](/posts/best-manometer-for-hvac/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Best refrigerant gauge set (2026)](/posts/best-refrigerant-gauge-set/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Best refrigerant leak detector](/posts/best-refrigerant-leak-detector/)
+

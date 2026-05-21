@@ -174,3 +174,21 @@ A furnace that will not ignite in freezing weather is an emergency. If you have 
 <!-- INTERNAL-LINK-AUTO -->
 **Related:** [Rheem EcoNet A101 error code fix](/posts/rheem-econet-a101-error-code/)
 
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Carrier vs Trane furnaces compared](/posts/carrier-vs-trane-furnaces/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Goodman vs Bryant furnaces compared](/posts/goodman-vs-bryant-furnaces/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Mitsubishi vs Daikin mini splits](/posts/mitsubishi-vs-daikin-mini-splits/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Best HVAC manometer (2026)](/posts/best-manometer-for-hvac/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Best refrigerant gauge set (2026)](/posts/best-refrigerant-gauge-set/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Best refrigerant leak detector](/posts/best-refrigerant-leak-detector/)
+

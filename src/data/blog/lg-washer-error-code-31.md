@@ -87,3 +87,6 @@ If code 31 returns within 24 hours of working through this guide, the most likel
 <!-- INTERNAL-LINK-AUTO -->
 **Related:** [Samsung refrigerator error codes](/posts/samsung-refrigerator-error-codes/)
 
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Samsung vs LG French door refrigerators](/posts/samsung-vs-lg-french-door-refrigerators/)
+

@@ -50,3 +50,13 @@ Megger testing at 500V or 1000V DC on motors connected to high-voltage systems r
 - [ABB ACS310 Fault 3130 — Causes & Fix](/posts/abb-acs310-fault-3130/)
 - [ABB ACS355 Fault 2330 — Ground Fault](/posts/abb-acs355-fault-2330/)
 - [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [PowerFlex vs SINAMICS VFD compared](/posts/powerflex-vs-sinamics-vfd/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [PowerFlex F004 undervoltage fix](/posts/allen-bradley-powerflex-f004-fault/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [PowerFlex F012 hardware overcurrent](/posts/allen-bradley-powerflex-f012-fault/)
+

@@ -129,3 +129,7 @@ Three usual causes: probe stylus deflection (long stylus = more deflection), the
 - [Mazak Error Code 257 — Spindle Encoder Error Fix](/posts/mazak-error-code-257) — probing accuracy depends on healthy machine geometry
 - [Haas Error Code 2052 — Tool Probe Communication Error](/posts/haas-error-code-2052) — probe signal troubleshooting
 - [Fanuc Alarm 414 — Servo Position Error Fix](/posts/fanuc-alarm-414) — servo accuracy affects probe accuracy
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Best refrigeration vacuum pump](/posts/best-vacuum-pump-for-refrigeration/)
+

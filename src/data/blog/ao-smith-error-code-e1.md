@@ -106,3 +106,6 @@ Don't ignore E1 — a $25–50 sensor replacement avoids a potential burnout of 
 <!-- INTERNAL-LINK-AUTO -->
 **Related:** [Rheem Performance Platinum PDN tankless error codes](/posts/rheem-performance-platinum-pdn-error-codes/)
 
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Rinnai code 11 no-ignition fix](/posts/rinnai-error-code-11/)
+

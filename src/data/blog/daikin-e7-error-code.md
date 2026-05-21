@@ -65,3 +65,6 @@ DC motor diagnosis requires a wiring diagram and a multimeter capable of measuri
 <!-- INTERNAL-LINK-AUTO -->
 **Related:** [Rheem EcoNet A101 error code fix](/posts/rheem-econet-a101-error-code/)
 
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Mitsubishi mini split P5 drain fault](/posts/mitsubishi-p5-error-code/)
+

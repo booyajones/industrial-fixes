@@ -61,3 +61,6 @@ Zone valve actuator replacement is straightforward — most technicians can swap
 <!-- INTERNAL-LINK-AUTO -->
 **Related:** [Rheem Performance Platinum PDN tankless error codes](/posts/rheem-performance-platinum-pdn-error-codes/)
 
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Weil-McLain code 3 low water cutoff](/posts/weil-mclain-error-code-3/)
+

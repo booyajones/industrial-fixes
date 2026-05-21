@@ -113,3 +113,10 @@ Call when: 1041 persists with a verified-good new battery (drive hold-up cap or 
 - [Fanuc Alarm 300 — APC Battery Voltage Low Fix](/posts/fanuc-alarm-300/)
 - [Fanuc Alarm 414 — Servo Digital Alarm Fix](/posts/fanuc-alarm-414/)
 - [Haas Alarm 114 — Servo Error Too Large Fix](/posts/haas-alarm-114/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Best multimeter for HVAC techs (2026)](/posts/best-multimeter-for-hvac/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Best clamp meter (2026)](/posts/best-clamp-meter-for-electricians/)
+

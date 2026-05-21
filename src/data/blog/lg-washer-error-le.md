@@ -106,3 +106,7 @@ LE = motor lock or stator fault. UE = unbalanced load (load too unevenly distrib
 - [LG Refrigerator Error ER RF — Evap Fan Motor Fix](/posts/lg-refrigerator-error-er-rf)
 - [LG Dishwasher Error IE — Water Inlet Fix](/posts/lg-dishwasher-error-ie)
 - [GE Washer Error Code E1 — Front Load Fix](/posts/ge-washer-error-code-e1)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Samsung vs LG French door refrigerators](/posts/samsung-vs-lg-french-door-refrigerators/)
+

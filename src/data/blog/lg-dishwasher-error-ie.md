@@ -104,3 +104,7 @@ IE = inlet error (not filling). OE = outlet error (not draining). Different faul
 - [LG Washer Error LE — Motor Lock Fix](/posts/lg-washer-error-le)
 - [LG Refrigerator Error ER RF — Evap Fan Motor Fix](/posts/lg-refrigerator-error-er-rf)
 - [GE Dishwasher Error Code LC — Leak Detected Fix](/posts/ge-dishwasher-error-code-lc)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Samsung vs LG French door refrigerators](/posts/samsung-vs-lg-french-door-refrigerators/)
+

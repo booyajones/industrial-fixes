@@ -138,3 +138,7 @@ Not legally and not safely on any modern modulating condensing boiler. Every man
 - [Champion UH130 Error Code — Combustion Lockout Fix](/posts/champion-uh130-error-code) — full boiler kit needed for diagnosis
 - [Best Combustion Analyzer for HVAC](/posts/best-combustion-analyzer) — standalone analyzer pick
 - [Best Manometer for HVAC](/posts/best-manometer-for-hvac) — manometer details
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Best refrigeration vacuum pump](/posts/best-vacuum-pump-for-refrigeration/)
+

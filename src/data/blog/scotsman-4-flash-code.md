@@ -97,3 +97,25 @@ A: That's an intermittent — usually a fan motor that runs OK cold and slows wh
 - [Scotsman 2-Flash Code — Long Freeze Cycle](/posts/scotsman-2-flash-code)
 - [Scotsman 3-Flash Code — Long Harvest Cycle](/posts/scotsman-3-flash-code)
 - [Scotsman 5-Flash Code — Pressure Sensor Fault](/posts/scotsman-5-flash-code)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Hoshizaki vs Manitowoc ice machines](/posts/hoshizaki-vs-manitowoc-ice-machines/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Manitowoc vs Scotsman ice machines](/posts/manitowoc-vs-scotsman-ice-machines/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Best refrigeration vacuum pump](/posts/best-vacuum-pump-for-refrigeration/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Manitowoc E01 long freeze cycle fix](/posts/manitowoc-e01-error-code/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Manitowoc HPCO high pressure cutout](/posts/manitowoc-hpco-error-code/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Hoshizaki E2 long freeze cycle fix](/posts/hoshizaki-e2-error-code/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Scotsman 1-flash bin full fix](/posts/scotsman-1-flash-code/)
+

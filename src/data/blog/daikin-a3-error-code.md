@@ -54,3 +54,6 @@ If the drain line runs through a ceiling or wall cavity and cannot be easily cle
 <!-- INTERNAL-LINK-AUTO -->
 **Related:** [Rheem EcoNet A101 error code fix](/posts/rheem-econet-a101-error-code/)
 
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Daikin U4 indoor-outdoor comm fault](/posts/daikin-error-code-u4/)
+

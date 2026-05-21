@@ -110,3 +110,31 @@ Yes — York, Coleman, Luxaire, and Champion are all under the same parent and u
 - [Carrier 31 Error Code — Pressure Switch Did Not Open Fix](/posts/carrier-31-error-code)
 - [Goodman 3-Flash Error Code — Pressure Switch Open Fix](/posts/goodman-3-flash-error-code)
 - [Trane 3-Blink Error Code — Pressure Switch Fault Fix](/posts/trane-3-blink-error-code)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Carrier vs Trane furnaces compared](/posts/carrier-vs-trane-furnaces/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Goodman vs Bryant furnaces compared](/posts/goodman-vs-bryant-furnaces/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Mitsubishi vs Daikin mini splits](/posts/mitsubishi-vs-daikin-mini-splits/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Best combustion analyzer (2026)](/posts/best-combustion-analyzer/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Best HVAC manometer (2026)](/posts/best-manometer-for-hvac/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Best refrigerant gauge set (2026)](/posts/best-refrigerant-gauge-set/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Best thermal imager for HVAC](/posts/best-thermal-imager-for-hvac/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Best refrigerant leak detector](/posts/best-refrigerant-leak-detector/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Best boiler test kit](/posts/best-boiler-test-kit/)
+

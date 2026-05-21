@@ -50,3 +50,10 @@ If the motor is cool and the thermistor reads correctly but alarm 107 returns wi
 - [Haas Alarm 103 — Servo Overload Fix](/posts/haas-alarm-103/)
 - [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
 - [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Fanuc vs Mazak CNC controls compared](/posts/fanuc-vs-mazak-cnc-controls/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Best megohmmeter for electricians](/posts/best-megohmmeter-for-electricians/)
+

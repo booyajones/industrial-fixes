@@ -69,3 +69,10 @@ E013 (rollout) and E004 (false flame detection) require investigation of the gas
 - [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)
 - [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
 - [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Best combustion analyzer (2026)](/posts/best-combustion-analyzer/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Weil-McLain code 3 low water cutoff](/posts/weil-mclain-error-code-3/)
+

@@ -55,3 +55,6 @@ If the sensor tests correctly but C4 returns, the indoor control board likely ha
 <!-- INTERNAL-LINK-AUTO -->
 **Related:** [Rheem EcoNet A101 error code fix](/posts/rheem-econet-a101-error-code/)
 
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Daikin U4 indoor-outdoor comm fault](/posts/daikin-error-code-u4/)
+

@@ -66,3 +66,7 @@ Code 14 (thermal fuse), code 72 (flame without call), and code 71 (gas valve fau
 - [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
 - [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
 - [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Weil-McLain code 3 low water cutoff](/posts/weil-mclain-error-code-3/)
+

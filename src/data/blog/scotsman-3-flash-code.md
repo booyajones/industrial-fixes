@@ -94,3 +94,22 @@ A: For a day or two, yes, but you'll see degraded cube quality and extended cycl
 - [Scotsman 1-Flash Code — Bin Full / Bin Thermostat Fix](/posts/scotsman-1-flash-code)
 - [Scotsman 2-Flash Code — Long Freeze Cycle](/posts/scotsman-2-flash-code)
 - [Scotsman 4-Flash Code — High Discharge Temperature](/posts/scotsman-4-flash-code)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Hoshizaki vs Manitowoc ice machines](/posts/hoshizaki-vs-manitowoc-ice-machines/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Manitowoc vs Scotsman ice machines](/posts/manitowoc-vs-scotsman-ice-machines/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Best refrigeration vacuum pump](/posts/best-vacuum-pump-for-refrigeration/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Manitowoc E01 long freeze cycle fix](/posts/manitowoc-e01-error-code/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Manitowoc HPCO high pressure cutout](/posts/manitowoc-hpco-error-code/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Hoshizaki E2 long freeze cycle fix](/posts/hoshizaki-e2-error-code/)
+

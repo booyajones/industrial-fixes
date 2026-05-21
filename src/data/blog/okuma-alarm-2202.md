@@ -125,3 +125,7 @@ Smaller installed base, lower part volumes, less refurb supply. A Fanuc spindle 
 - [Mori Seiki / DMG MORI Alarm 3010 — Servo Error Fix](/posts/mori-seiki-alarm-3010)
 - [Doosan Fanuc-based Alarm 302 — APC Fix](/posts/doosan-alarm-302)
 - [Mazak Alarm Code Fix — Common Faults](/posts/mazak-haas-fanuc-batch-summary)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Best multimeter for HVAC techs (2026)](/posts/best-multimeter-for-hvac/)
+

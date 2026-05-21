@@ -120,3 +120,10 @@ Same company — Doosan Machine Tools was rebranded to DN Solutions in 2022 afte
 - [Mori Seiki / DMG MORI Alarm 3010 — Servo Error Fix](/posts/mori-seiki-alarm-3010)
 - [Okuma OSP Alarm 2202 — Spindle Fix](/posts/okuma-alarm-2202)
 - [Mazak Alarm Code Fix — Common Faults](/posts/mazak-haas-fanuc-batch-summary)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Best multimeter for HVAC techs (2026)](/posts/best-multimeter-for-hvac/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Best clamp meter (2026)](/posts/best-clamp-meter-for-electricians/)
+

@@ -63,3 +63,22 @@ Haas servo system diagnosis — particularly encoder replacement and drive swap 
 - [Haas Alarm 104 Feed Hold — Causes & Fix](/posts/haas-alarm-104-feed-hold/)
 - [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)
 - [Haas Alarm 106 — Causes & Fix](/posts/haas-alarm-106/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Fanuc vs Mazak CNC controls compared](/posts/fanuc-vs-mazak-cnc-controls/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Best megohmmeter for electricians](/posts/best-megohmmeter-for-electricians/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Best CNC touch probe (2026)](/posts/best-cnc-touch-probe/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Fanuc alarm 401 servo ready off](/posts/fanuc-alarm-401/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Mazak alarm 218 spindle overheat](/posts/mazak-alarm-218/)
+
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Haas alarm 114 servo error too large](/posts/haas-alarm-114/)
+

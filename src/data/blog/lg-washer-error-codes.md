@@ -116,3 +116,6 @@ If you've worked through the diagnostic above and the fault returns within 24 ho
 <!-- INTERNAL-LINK-AUTO -->
 **Related:** [Samsung refrigerator error codes](/posts/samsung-refrigerator-error-codes/)
 
+<!-- INTERNAL-LINK-AUTO-2026-05-21 -->
+**Related:** [Samsung vs LG French door refrigerators](/posts/samsung-vs-lg-french-door-refrigerators/)
+
