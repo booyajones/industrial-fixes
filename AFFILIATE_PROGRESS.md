@@ -1,16 +1,32 @@
 # Affiliate Link Injection Progress
 
-## Amazon Associates Tag: `errorcodefixes-20`
+## Active Programs
 
-## Results
+### Amazon Associates — tag `errorcodefixes-20` (DIRECT)
+- Active on 1,103+ articles
+- 100% commission (excluded from Skimlinks rewriting)
 
+### Skimlinks — publisher `303448X1791493` (NETWORK) — LIVE 2026-05-21
+- Approved 2026-05-21
+- Script deployed site-wide via `src/layouts/Layout.astro`
+- Sister site `industrial-fixes-reviews` (booyajones/industrial-fixes-reviews) also wired
+- Auto-rewrites outbound links to ~48,000 merchants in their network
+- Covers Parts Town, RepairClinic, Home Depot, AutomationDirect, Galco, Wolf Automation, Supply House, PexUniverse, HVAC Parts Shop, TruTech Tools, Grainger, Johnstone Supply, Lowes — without per-merchant signup
+- **CRITICAL CONFIG (do once in dashboard):** Settings > Domain Management > Excluded Domains > add `amazon.com`, `amzn.to`, `amazon.co.uk` so direct Amazon stays 100% commission
 
-## Articles with affiliate links: 1103 / 1103
+## Article Counts (as of 2026-05-21)
+- Total articles in catalog: 1,288 (was 1,157)
+- New error-code guides added 2026-05-21: 131 (covering Manitowoc E0x, Hoshizaki E2-E7, Scotsman flash codes, Mitsubishi P-codes, PowerFlex F004-F122, SINAMICS G120, ABB ACS580, Yaskawa GA800, Danfoss FC-302, plus boilers, heat pumps, tankless, Mazak, Haas, Fanuc additions, Daikin, Fujitsu, commercial dishwashers, walk-in cooler controllers, Carrier-family rebadges, premium appliances, RTUs)
+- Tools/equipment buying guides added: 12 (best-multimeter-for-hvac, best-combustion-analyzer, etc.)
+- Brand-vs-brand comparison pages added: 8
+- All new articles have affiliate links (Amazon direct + Skimlinks-monetized merchants)
 
 ## Next Steps
 
-1. Verify a sample of articles look correct
-2. Deploy to Vercel (git push)
-3. Apply for J.Racenstein on Impact (8% commission)
-4. Apply for JB Tools on Impact (5% commission)
-5. Apply for RepairClinic on ShareASale (6% commission)
+1. **Do the Skimlinks Amazon exclusion** (2 min in dashboard — biggest single revenue protection)
+2. Apply for direct affiliates that beat Skimlinks' 75% pass-through rate:
+   - **ShareASale > AutomationDirect** (~5% on $1K-3K drives, 2-3 day approval)
+   - **RepairClinic affiliate** (~7%, 5 min apply)
+   - **CJ Affiliate** (unlocks PartSelect, eReplacementParts, Sears PartsDirect)
+   - **Impact.com Zoro/Grainger/Parts Town** (already in pipeline per AFFILIATE_LOG.md)
+3. Verify Skimlinks click tracking by clicking any non-Amazon merchant link on the site

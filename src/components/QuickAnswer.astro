@@ -1,9 +1,9 @@
 ---
 interface Props {
   description: string;
-  title: string;
+  title?: string;
 }
-const { description, title } = Astro.props;
+const { description } = Astro.props;
 ---
 
 <div class="quick-answer-box">
