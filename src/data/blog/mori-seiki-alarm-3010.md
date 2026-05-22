@@ -76,16 +76,16 @@ Before you start: machine off, control off, main disconnect locked and tagged. W
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Servo amp (αi SVM 1-axis 20A, common) | Fanuc A06B-6240-H105 | $1,850-3,200 (refurb), $4,800-6,800 (new) | [Galco](https://www.galco.com), [Wolf Automation](https://www.wolfautomation.com) |
-| Servo amp (αi SVM 2-axis 40A) | Fanuc A06B-6240-H226 | $2,200-3,800 (refurb), $5,500-7,500 (new) | [Galco](https://www.galco.com), [Wolf Automation](https://www.wolfautomation.com) |
-| Power supply module (αi PSM) | Fanuc A06B-6240-H030 | $1,500-2,800 (refurb), $3,800-5,800 (new) | [Galco](https://www.galco.com) |
-| Servo motor (αi 8/3000 typical Y-axis) | Fanuc A06B-0235-B400 | $1,800-2,600 (refurb), $3,800-5,500 (new) | [Galco](https://www.galco.com), [eBay](https://www.ebay.com) |
-| Encoder cable (per meter) | Fanuc A66L-6001-0026 | $45-85/m | [Galco](https://www.galco.com) |
-| Power cable (per meter) | Fanuc A06B-6093-K803 | $35-65/m | [Galco](https://www.galco.com) |
-| Cooling fan (amp top, 80mm DC) | Fanuc A90L-0001-0481 | $35-65 | [Amazon](https://www.amazon.com), [Galco](https://www.galco.com) |
-| Encoder battery (3V lithium, BR-2/3AGCT4A) | Fanuc A98L-0031-0028 | $45-85 | [Amazon](https://www.amazon.com), [Galco](https://www.galco.com) |
-| Megger insulation tester (500V) | Fluke 1577 | $385-485 | [Amazon](https://www.amazon.com), [Galco](https://www.galco.com) |
-| CAT-IV true-RMS multimeter | Fluke 87V | $445-585 | [Amazon](https://www.amazon.com), [Galco](https://www.galco.com) |
+| Servo amp (αi SVM 1-axis 20A, common) | Fanuc A06B-6240-H105 | $1,850-3,200 (refurb), $4,800-6,800 (new) | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mori-seiki-alarm-3010), [Wolf Automation](https://www.wolfautomation.com) |
+| Servo amp (αi SVM 2-axis 40A) | Fanuc A06B-6240-H226 | $2,200-3,800 (refurb), $5,500-7,500 (new) | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mori-seiki-alarm-3010), [Wolf Automation](https://www.wolfautomation.com) |
+| Power supply module (αi PSM) | Fanuc A06B-6240-H030 | $1,500-2,800 (refurb), $3,800-5,800 (new) | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mori-seiki-alarm-3010) |
+| Servo motor (αi 8/3000 typical Y-axis) | Fanuc A06B-0235-B400 | $1,800-2,600 (refurb), $3,800-5,500 (new) | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mori-seiki-alarm-3010), [eBay](https://www.ebay.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mori-seiki-alarm-3010) |
+| Encoder cable (per meter) | Fanuc A66L-6001-0026 | $45-85/m | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mori-seiki-alarm-3010) |
+| Power cable (per meter) | Fanuc A06B-6093-K803 | $35-65/m | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mori-seiki-alarm-3010) |
+| Cooling fan (amp top, 80mm DC) | Fanuc A90L-0001-0481 | $35-65 | [Amazon](https://www.amazon.com), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mori-seiki-alarm-3010) |
+| Encoder battery (3V lithium, BR-2/3AGCT4A) | Fanuc A98L-0031-0028 | $45-85 | [Amazon](https://www.amazon.com), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mori-seiki-alarm-3010) |
+| Megger insulation tester (500V) | Fluke 1577 | $385-485 | [Amazon](https://www.amazon.com), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mori-seiki-alarm-3010) |
+| CAT-IV true-RMS multimeter | Fluke 87V | $445-585 | [Amazon](https://www.amazon.com), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mori-seiki-alarm-3010) |
 
 Wolf Automation and Galco are the dominant US refurb sources for Fanuc servo components. Confirm exact part number including firmware revision before ordering — Fanuc has multiple sub-revisions of similar-looking amps that aren't interchangeable.
 

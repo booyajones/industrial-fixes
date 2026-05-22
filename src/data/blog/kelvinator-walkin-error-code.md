@@ -112,12 +112,12 @@ Electrical hazards: defrost heater circuits typically run 208/240 VAC at signifi
 
 | Part | OEM Number (typical) | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Air/coil thermistor sensor kit | 28907901 family | $85–$165 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Kelvinator KCS controller | 28907901 series | $385–$685 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Defrost heater element (typical) | 28907901 family | $145–$285 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Defrost contactor | varies by amp rating | $85–$185 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Door gasket kit (size-specific) | 28907901 family | $135–$285 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Door switch assembly | 28907901 family | $65–$125 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
+| Air/coil thermistor sensor kit | 28907901 family | $85–$165 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=kelvinator-walkin-error-code) |
+| Kelvinator KCS controller | 28907901 series | $385–$685 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=kelvinator-walkin-error-code) |
+| Defrost heater element (typical) | 28907901 family | $145–$285 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=kelvinator-walkin-error-code) |
+| Defrost contactor | varies by amp rating | $85–$185 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=kelvinator-walkin-error-code) |
+| Door gasket kit (size-specific) | 28907901 family | $135–$285 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=kelvinator-walkin-error-code) |
+| Door switch assembly | 28907901 family | $65–$125 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=kelvinator-walkin-error-code) |
 | Strip curtain kit (door vapor barrier) | aftermarket | $185–$385 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
 
 For controller replacement, verify firmware compatibility with the specific Kelvinator model — a generic replacement won't carry the correct application configuration.

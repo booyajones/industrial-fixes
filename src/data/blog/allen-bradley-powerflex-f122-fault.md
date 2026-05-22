@@ -78,13 +78,13 @@ Before you touch anything: lock and tag the disconnect, wait the rated discharge
 
 | Part | Catalog Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| PF 755 EtherNet/IP option card | 20-750-ENETR | $1,200–$1,500 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| PF 755 Single Incremental Encoder option | 20-750-ENC-1 | $580–$720 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| PF 755 24V I/O option card | 20-750-2262C-2R | $480–$620 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| PF 755 Main Control Board | 20-750-S1 | $1,200–$1,500 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| PF 755 24VDC Aux Power Supply (option) | 20-750-APS | $480–$650 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| PowerFlex 525, 480V, 5HP | 25B-D010N104 | $1,150–$1,400 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| SOLA SDP regulated 24VDC supply, 100W | SDP-5-24-100T | $235–$320 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
+| PF 755 EtherNet/IP option card | 20-750-ENETR | $1,200–$1,500 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f122-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| PF 755 Single Incremental Encoder option | 20-750-ENC-1 | $580–$720 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f122-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| PF 755 24V I/O option card | 20-750-2262C-2R | $480–$620 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f122-fault) |
+| PF 755 Main Control Board | 20-750-S1 | $1,200–$1,500 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f122-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| PF 755 24VDC Aux Power Supply (option) | 20-750-APS | $480–$650 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f122-fault) |
+| PowerFlex 525, 480V, 5HP | 25B-D010N104 | $1,150–$1,400 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f122-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f122-fault) |
+| SOLA SDP regulated 24VDC supply, 100W | SDP-5-24-100T | $235–$320 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f122-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f122-fault) |
 
 ## When to call a controls engineer
 

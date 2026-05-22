@@ -70,10 +70,10 @@ Before you start: turn off power at the outdoor disconnect, lock out, wait at le
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
 | Outdoor coil thermistor TH4 (M-Series MUZ) | Mitsubishi E22M62301 | $45-85 | [HVAC Parts Shop](https://www.hvacpartsshop.com), [Amazon](https://www.amazon.com) |
-| Outdoor coil thermistor (PUZ series) | Mitsubishi E22M52301 | $55-95 | [HVAC Parts Shop](https://www.hvacpartsshop.com), [Grainger](https://www.grainger.com) |
+| Outdoor coil thermistor (PUZ series) | Mitsubishi E22M52301 | $55-95 | [HVAC Parts Shop](https://www.hvacpartsshop.com), [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mitsubishi-p3-error-code) |
 | Outdoor coil thermistor (P-Series PUY) | Mitsubishi E12758450 | $65-105 | [HVAC Parts Shop](https://www.hvacpartsshop.com) |
-| Cable gland (replacement, 1/4" weatherproof) | Heyco generic | $8-15 | [Amazon](https://www.amazon.com), [Grainger](https://www.grainger.com) |
-| Thermistor lead wire (per ft, with shielding) | Generic Belden 9450 | $3-5/ft | [Amazon](https://www.amazon.com), [Grainger](https://www.grainger.com) |
+| Cable gland (replacement, 1/4" weatherproof) | Heyco generic | $8-15 | [Amazon](https://www.amazon.com), [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mitsubishi-p3-error-code) |
+| Thermistor lead wire (per ft, with shielding) | Generic Belden 9450 | $3-5/ft | [Amazon](https://www.amazon.com), [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mitsubishi-p3-error-code) |
 | Outdoor PCB (M-Series outdoor) | Mitsubishi E22270301 | $385-585 | [HVAC Parts Shop](https://www.hvacpartsshop.com) |
 | Service manual access (model-specific) | Mitsubishi MyLink portal | Free for registered techs | Mitsubishi Electric |
 

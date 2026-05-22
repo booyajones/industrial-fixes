@@ -81,13 +81,13 @@ Before you touch anything: lock and tag the disconnect, wait the rated discharge
 
 | Part | Order Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Brake resistor, 100Ω 1.5kW (G120 frame FSC) | 6SE6400-4BD22-2EA1 | $385–$520 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI) |
-| Brake resistor, 30Ω 3.5kW (G120 frame FSD) | 6SE6400-4BD24-0FA0 | $620–$820 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| External brake chopper for PM240-2 | 6SL3201-0BE12-0AA0 | $580–$780 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| PM240-2 Power Module, 7.5kW, 400V | 6SL3210-1PE22-8UL0 | $1,200–$1,600 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| CU240E-2 PN Control Unit | 6SL3244-0BB12-1PA1 | $480–$640 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| Line reactor, 5%, 400V, 18A | 6SL3203-0CD22-2AA0 | $290–$420 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI) |
-| Fluke 1748 power quality logger | FLUKE-1748/BASIC | $7,400–$8,800 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Brake resistor, 100Ω 1.5kW (G120 frame FSC) | 6SE6400-4BD22-2EA1 | $385–$520 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30002-fault), [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30002-fault) |
+| Brake resistor, 30Ω 3.5kW (G120 frame FSD) | 6SE6400-4BD24-0FA0 | $620–$820 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30002-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| External brake chopper for PM240-2 | 6SL3201-0BE12-0AA0 | $580–$780 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30002-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| PM240-2 Power Module, 7.5kW, 400V | 6SL3210-1PE22-8UL0 | $1,200–$1,600 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30002-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30002-fault) |
+| CU240E-2 PN Control Unit | 6SL3244-0BB12-1PA1 | $480–$640 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30002-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30002-fault) |
+| Line reactor, 5%, 400V, 18A | 6SL3203-0CD22-2AA0 | $290–$420 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30002-fault), [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30002-fault) |
+| Fluke 1748 power quality logger | FLUKE-1748/BASIC | $7,400–$8,800 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30002-fault), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
 
 ## When to call Siemens or a controls engineer
 

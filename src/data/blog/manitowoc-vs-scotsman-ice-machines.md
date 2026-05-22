@@ -21,7 +21,7 @@ For an operation that needs a single high-output cuber to feed a large bin, buy 
 |---|---|---|
 | Reliability (5-yr field data) | Very good — 8/10 | Very good — 8/10 |
 | Service network density | Excellent — large distributor network | Excellent — Scotsman-trained dealers nationwide |
-| Parts availability | Excellent — PartsTown dominant | Excellent — [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) + Scotsman parts |
+| Parts availability | Excellent — PartsTown dominant | Excellent — [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-vs-scotsman-ice-machines) + Scotsman parts |
 | Error code accessibility | Excellent — plain-English on Indigo NXT touchscreen | Very good — flash codes, LED + display on Prodigy Plus |
 | Top-tier cuber (2026) | Indigo NXT IYT1900N (1900 lb/day) | Prodigy Plus C2148SA (2110 lb/day) |
 | Flake/nugget specialty | Limited (RFS series) | Excellent — Brilliance, MeridianFlake, Prodigy Plus nugget |

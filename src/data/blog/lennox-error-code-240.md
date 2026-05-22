@@ -60,12 +60,12 @@ Safety first: kill power at the furnace disconnect. Wait at least five minutes a
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Hot surface igniter (nitride, common 80% AFUE) | Lennox 27W92 / 100946-01 | $40-70 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Hot surface igniter (90% AFUE platforms) | Lennox 78H56 / 100946-04 | $50-85 | [RepairClinic](https://www.repairclinic.com), [Home Depot](https://www.homedepot.com) |
-| Universal HSI (Norton 271N) | Norton / White-Rodgers 767A-373 | $25-45 | [Amazon](https://www.amazon.com), [Lowes](https://www.lowes.com) |
-| HSI wiring harness | Lennox 33M50 | $20-35 | [RepairClinic](https://www.repairclinic.com) |
-| Flame sensor | Lennox 69M15 / 27W23 | $25-45 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Integrated control board | Lennox 47W37 / 103217-01 (G60) | $300-460 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
+| Hot surface igniter (nitride, common 80% AFUE) | Lennox 27W92 / 100946-01 | $40-70 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lennox-error-code-240), [Amazon](https://www.amazon.com) |
+| Hot surface igniter (90% AFUE platforms) | Lennox 78H56 / 100946-04 | $50-85 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lennox-error-code-240), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lennox-error-code-240) |
+| Universal HSI (Norton 271N) | Norton / White-Rodgers 767A-373 | $25-45 | [Amazon](https://www.amazon.com), [Lowes](https://www.lowes.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lennox-error-code-240) |
+| HSI wiring harness | Lennox 33M50 | $20-35 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lennox-error-code-240) |
+| Flame sensor | Lennox 69M15 / 27W23 | $25-45 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lennox-error-code-240), [Amazon](https://www.amazon.com) |
+| Integrated control board | Lennox 47W37 / 103217-01 (G60) | $300-460 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lennox-error-code-240), [Amazon](https://www.amazon.com) |
 
 Note: silicon carbide HSIs (older Lennox style) and nitride HSIs are *not* interchangeable without confirming the board supports the new element's resistance profile. The 27W92 family is nitride. The older 14J11 family was silicon carbide. If you swap one type for the other, the board may post 240 again because the resistance doesn't match the expected range. Always match element type.
 

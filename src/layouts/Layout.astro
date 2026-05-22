@@ -231,8 +231,10 @@ const structuredData = pubDatetime
       Skimlinks auto-monetization. Approved 2026-05-21. Publisher 303448X1791493.
       Rewrites outbound merchant links across the catalog (Parts Town, RepairClinic,
       Home Depot, AutomationDirect, Galco, etc.) without per-merchant signup.
-      IMPORTANT: amazon.com and amzn.to are excluded in the Skimlinks dashboard
-      so direct Amazon Associates (tag=errorcodefixes-20) stays 100% commission.
+      TODO 2026-05-22: once Skimlinks moves from "pending approval" to active,
+      add amazon.com / amzn.to / amazon.co.uk to Excluded Domains in the
+      dashboard (Toolbox unlocked then) so direct Amazon Associates
+      (tag=errorcodefixes-20) stays 100% commission.
     -->
     <script type="text/javascript" src="https://s.skimresources.com/js/303448X1791493.skimlinks.js" is:inline></script>
   </head>
@@ -244,6 +246,16 @@ const structuredData = pubDatetime
 
     <!-- GA4 Key Event tracking -->
     <script src="../scripts/analytics.ts"></script>
+
+    <!--
+      Awin MasterTag — publisher 2905561. Tracks affiliate clicks for the 10
+      advertisers applied to on 2026-05-21 (Tado DE/UK/NL-BE, GE Appliances Parts,
+      Filter King, National Filter Warehouse, Ebac, Castle Heaters, Hüga Heat,
+      Shop Appliances, Heizungsdiscount24 DE). Required for commission tracking
+      once any advertiser approves. Placed at end of body with defer per Awin's
+      MasterTag 2.0 installation guide.
+    -->
+    <script defer src="https://www.dwin1.com/2905561.js" type="text/javascript" is:inline></script>
 
     <!-- AI Chat Widget -->
     <ChatWidget />

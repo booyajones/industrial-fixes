@@ -68,11 +68,11 @@ A6 on most M-series wall-mount heads (FTX, FTXS, FTKR, FTKN) is the cross-flow t
 
 | Part | OEM Number (typical) | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Indoor BLDC blower motor (FTXS09/12) | 4017019-xx (model specific) | $165–$285 | [HVAC Parts Shop](https://www.hvacpartsshop.com?aff=PLACEHOLDER-HPS) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Cross-flow wheel bearing block kit | 4017019 family | $30–$55 | [HVAC Parts Shop](https://www.hvacpartsshop.com?aff=PLACEHOLDER-HPS) |
-| Indoor controller PCB | 4017019-xx | $245–$380 | [HVAC Parts Shop](https://www.hvacpartsshop.com?aff=PLACEHOLDER-HPS) |
-| Motor harness assembly | varies | $35–$60 | [HVAC Parts Shop](https://www.hvacpartsshop.com?aff=PLACEHOLDER-HPS) |
-| Cross-flow blower wheel | varies by model | $45–$95 | [HVAC Parts Shop](https://www.hvacpartsshop.com?aff=PLACEHOLDER-HPS) |
+| Indoor BLDC blower motor (FTXS09/12) | 4017019-xx (model specific) | $165–$285 | [HVAC Parts Shop](https://www.hvacpartsshop.com) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Cross-flow wheel bearing block kit | 4017019 family | $30–$55 | [HVAC Parts Shop](https://www.hvacpartsshop.com) |
+| Indoor controller PCB | 4017019-xx | $245–$380 | [HVAC Parts Shop](https://www.hvacpartsshop.com) |
+| Motor harness assembly | varies | $35–$60 | [HVAC Parts Shop](https://www.hvacpartsshop.com) |
+| Cross-flow blower wheel | varies by model | $45–$95 | [HVAC Parts Shop](https://www.hvacpartsshop.com) |
 
 Order the wheel set screw and Allen key with the motor — Daikin sets are 3 mm metric and easy to strip if you use the wrong size.
 

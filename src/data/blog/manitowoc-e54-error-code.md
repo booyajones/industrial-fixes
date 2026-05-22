@@ -62,11 +62,11 @@ E54 specifically is the curtain-open-when-it-shouldn't-be fault. Three things ca
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Water curtain pivot/magnet kit | K-00295 | $38–$48 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Reed switch assembly | 7628145 | $58–$85 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Water curtain (IYT0500 half-dice) | 7628183 | $135–$175 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
+| Water curtain pivot/magnet kit | K-00295 | $38–$48 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-e54-error-code) |
+| Reed switch assembly | 7628145 | $58–$85 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-e54-error-code) |
+| Water curtain (IYT0500 half-dice) | 7628183 | $135–$175 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-e54-error-code) |
 | Food-safe structural epoxy (Scotch-Weld DP100) | n/a | $22–$32 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Curtain switch harness pigtail | 7628021 | $32–$48 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) / [RepairClinic](https://www.repairclinic.com?aff=PLACEHOLDER-RC) |
+| Curtain switch harness pigtail | 7628021 | $32–$48 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-e54-error-code) / [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-e54-error-code) |
 
 The K-00295 kit is the right starting point — it includes the magnet, the pivot bushings, and the small hardware that all age together. Replacing just the magnet often leads to a callback in 6 months when the pivots also fail.
 

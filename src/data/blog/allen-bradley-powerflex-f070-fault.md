@@ -79,13 +79,13 @@ PowerFlex 525 drives are sold as complete units — internal failure means repla
 
 | Part | Catalog Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| PowerFlex 525, 480V, 5HP | 25B-D010N104 | $1,150–$1,400 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| PowerFlex 525, 480V, 10HP | 25B-D017N104 | $1,800–$2,100 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| PF 755 Main Control Board | 20-750-S1 | $1,200–$1,500 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| PF 755 24VDC Aux Power Supply | 20-750-APS | $480–$650 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| PF 755 Heatsink Fan (frame 3) | 20-750-FAN3-F | $145–$220 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| 22-HIM-A3 LCD keypad | 22-HIM-A3 | $185–$240 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Vortex panel cooler (small) | EXAIR 4815 | $480–$580 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
+| PowerFlex 525, 480V, 5HP | 25B-D010N104 | $1,150–$1,400 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f070-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f070-fault) |
+| PowerFlex 525, 480V, 10HP | 25B-D017N104 | $1,800–$2,100 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f070-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f070-fault) |
+| PF 755 Main Control Board | 20-750-S1 | $1,200–$1,500 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f070-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| PF 755 24VDC Aux Power Supply | 20-750-APS | $480–$650 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f070-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| PF 755 Heatsink Fan (frame 3) | 20-750-FAN3-F | $145–$220 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f070-fault) |
+| 22-HIM-A3 LCD keypad | 22-HIM-A3 | $185–$240 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f070-fault), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Vortex panel cooler (small) | EXAIR 4815 | $480–$580 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f070-fault) |
 
 For 755 drives, swap the **Main Control Board (20-750-S1)** first if the subcode points to a control-side fault. If the subcode points to power-stage feedback (current sensor, gate driver), the power module is the part — that's not field-replaceable below frame 4. Frame 4+ power modules can be replaced as units but require Rockwell-trained service.
 

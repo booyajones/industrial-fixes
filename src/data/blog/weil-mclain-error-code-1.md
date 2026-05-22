@@ -66,14 +66,14 @@ Safety first: kill power at the boiler service switch and shut off the manual ga
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Flame sensor / rod assembly (Ultra) | Weil-McLain 511-330-115 | $48-75 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
+| Flame sensor / rod assembly (Ultra) | Weil-McLain 511-330-115 | $48-75 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=weil-mclain-error-code-1) |
 | Flame sensor (Gold GV90+) | Weil-McLain 511-330-082 | $40-65 | [Supply House](https://www.supplyhouse.com), [Amazon](https://www.amazon.com) |
-| Hot surface igniter (nitride, Ultra) | Weil-McLain 511-330-127 | $75-115 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
+| Hot surface igniter (nitride, Ultra) | Weil-McLain 511-330-127 | $75-115 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=weil-mclain-error-code-1) |
 | Spark electrode (Gold series) | Weil-McLain 511-330-070 | $35-55 | [Supply House](https://www.supplyhouse.com), [Amazon](https://www.amazon.com) |
-| Gas valve (Honeywell modulating, Ultra) | Honeywell VR8615V / WM 383-500-655 | $290-460 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
+| Gas valve (Honeywell modulating, Ultra) | Honeywell VR8615V / WM 383-500-655 | $290-460 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=weil-mclain-error-code-1) |
 | Ignition cable (HV lead, Gold) | Weil-McLain 511-330-052 | $18-30 | [Supply House](https://www.supplyhouse.com), [Amazon](https://www.amazon.com) |
-| U-Control board (Ultra) | Weil-McLain 383-500-630 | $480-720 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
-| Burner gasket | Weil-McLain 386-700-022 | $14-28 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
+| U-Control board (Ultra) | Weil-McLain 383-500-630 | $480-720 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=weil-mclain-error-code-1) |
+| Burner gasket | Weil-McLain 386-700-022 | $14-28 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=weil-mclain-error-code-1) |
 
 A note on flame rods: they are technically a wear item, especially in propane installations where the alkaline combustion byproducts attack the stainless. A flame rod that cleans up nicely but reads 2 µA under fire is at end of life — replace, don't reuse.
 

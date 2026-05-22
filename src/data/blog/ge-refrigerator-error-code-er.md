@@ -67,14 +67,14 @@ Before you start: unplug the refrigerator. Have a flashlight and a multimeter re
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Thermistor (universal 10kΩ NTC) | GE WR55X10025 | $15-30 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Thermistor mounting clip | GE WR2X9114 | $4-8 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Damper motor assembly | GE WR60X10185 | $85-145 | [RepairClinic](https://www.repairclinic.com), [Home Depot](https://www.homedepot.com) |
-| Dispenser UI control board | GE WR55X-series (model-specific) | $145-265 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Main control board (Profile French-door) | GE WR55X11098 (typical) | $245-385 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Icemaker assembly | GE WR30X10093 | $115-185 | [RepairClinic](https://www.repairclinic.com), [Home Depot](https://www.homedepot.com) |
-| Defrost thermostat | GE WR50X10068 | $35-55 | [RepairClinic](https://www.repairclinic.com) |
-| Defrost heater | GE WR51X10055 | $55-95 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
+| Thermistor (universal 10kΩ NTC) | GE WR55X10025 | $15-30 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ge-refrigerator-error-code-er), [Amazon](https://www.amazon.com) |
+| Thermistor mounting clip | GE WR2X9114 | $4-8 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ge-refrigerator-error-code-er), [Amazon](https://www.amazon.com) |
+| Damper motor assembly | GE WR60X10185 | $85-145 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ge-refrigerator-error-code-er), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ge-refrigerator-error-code-er) |
+| Dispenser UI control board | GE WR55X-series (model-specific) | $145-265 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ge-refrigerator-error-code-er), [Amazon](https://www.amazon.com) |
+| Main control board (Profile French-door) | GE WR55X11098 (typical) | $245-385 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ge-refrigerator-error-code-er), [Amazon](https://www.amazon.com) |
+| Icemaker assembly | GE WR30X10093 | $115-185 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ge-refrigerator-error-code-er), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ge-refrigerator-error-code-er) |
+| Defrost thermostat | GE WR50X10068 | $35-55 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ge-refrigerator-error-code-er) |
+| Defrost heater | GE WR51X10055 | $55-95 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ge-refrigerator-error-code-er), [Amazon](https://www.amazon.com) |
 
 GE Profile and Cafe share many parts; Monogram has unique part numbers reflecting its built-in form factor and higher price point. Always cross-check by full model number before ordering.
 

@@ -71,14 +71,14 @@ Before you start: power off at the disconnect, wait 5 minutes for high-side pres
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| High-side pressure transducer | Scotsman 02-3987-01 | $145-235 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Low-side pressure transducer | Scotsman 02-3987-02 | $145-235 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Condenser fan motor (CU0715) | Scotsman 02-1473-21 | $185-265 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Fan motor run capacitor (5 µF) | Generic | $18-28 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Liquid line filter-drier | Scotsman 03-0568-01 | $35-55 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| TXV (Brilliance series) | Scotsman 12-2842-21 | $185-285 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Coil cleaner (Nu-Calgon Evap Foam) | Nu-Calgon 4171-75 | $20-35 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) / [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Refrigerant leak detector (electronic) | Inficon TEK-Mate | $145-235 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) / [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
+| High-side pressure transducer | Scotsman 02-3987-01 | $145-235 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-6-flash-code) |
+| Low-side pressure transducer | Scotsman 02-3987-02 | $145-235 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-6-flash-code) |
+| Condenser fan motor (CU0715) | Scotsman 02-1473-21 | $185-265 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-6-flash-code) |
+| Fan motor run capacitor (5 µF) | Generic | $18-28 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-6-flash-code) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Liquid line filter-drier | Scotsman 03-0568-01 | $35-55 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-6-flash-code) |
+| TXV (Brilliance series) | Scotsman 12-2842-21 | $185-285 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-6-flash-code) |
+| Coil cleaner (Nu-Calgon Evap Foam) | Nu-Calgon 4171-75 | $20-35 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) / [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-6-flash-code) |
+| Refrigerant leak detector (electronic) | Inficon TEK-Mate | $145-235 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) / [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-6-flash-code) |
 
 ## When to call a professional
 

@@ -80,16 +80,16 @@ Before you start: machine off, control off, main disconnect locked and tagged. W
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Spindle drive (BL-MC series, common) | Okuma E0451-635-029 | $3,500-5,500 (refurb), $7,800-11,500 (new) | [Galco](https://www.galco.com), [Wolf Automation](https://www.wolfautomation.com) |
-| Spindle motor (BL-MC2 18.5kW) | Okuma E0541-635-016 | $4,200-6,800 (refurb), $9,500-14,000 (new) | [Galco](https://www.galco.com), [Wolf Automation](https://www.wolfautomation.com) |
-| Spindle encoder (built into motor housing) | Okuma E4809-770-090-D | $1,850-2,800 | [Galco](https://www.galco.com), [eBay](https://www.ebay.com) |
-| Encoder cable (per meter) | Okuma E5400-685-018 | $55-95/m | [Galco](https://www.galco.com) |
-| BOSS-V serial cable | Okuma E5400-685-022 | $185-285 | [Galco](https://www.galco.com) |
-| Drive cooling fan (120mm DC) | Okuma EHN0085-12B | $65-115 | [Amazon](https://www.amazon.com), [Galco](https://www.galco.com) |
-| Motor cooling fan | Okuma EHN0090-A | $145-225 | [Galco](https://www.galco.com), [Wolf Automation](https://www.wolfautomation.com) |
-| OSP CMOS backup battery (CR2450 / BR2/3AGCT) | Okuma A91L-0001-0145 | $35-65 | [Amazon](https://www.amazon.com), [Galco](https://www.galco.com) |
-| Spindle drive air filter | Okuma E0532-635-001 | $45-85 | [Galco](https://www.galco.com) |
-| Megger insulation tester (500V) | Fluke 1577 | $385-485 | [Amazon](https://www.amazon.com), [Galco](https://www.galco.com) |
+| Spindle drive (BL-MC series, common) | Okuma E0451-635-029 | $3,500-5,500 (refurb), $7,800-11,500 (new) | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=okuma-alarm-2202), [Wolf Automation](https://www.wolfautomation.com) |
+| Spindle motor (BL-MC2 18.5kW) | Okuma E0541-635-016 | $4,200-6,800 (refurb), $9,500-14,000 (new) | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=okuma-alarm-2202), [Wolf Automation](https://www.wolfautomation.com) |
+| Spindle encoder (built into motor housing) | Okuma E4809-770-090-D | $1,850-2,800 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=okuma-alarm-2202), [eBay](https://www.ebay.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=okuma-alarm-2202) |
+| Encoder cable (per meter) | Okuma E5400-685-018 | $55-95/m | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=okuma-alarm-2202) |
+| BOSS-V serial cable | Okuma E5400-685-022 | $185-285 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=okuma-alarm-2202) |
+| Drive cooling fan (120mm DC) | Okuma EHN0085-12B | $65-115 | [Amazon](https://www.amazon.com), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=okuma-alarm-2202) |
+| Motor cooling fan | Okuma EHN0090-A | $145-225 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=okuma-alarm-2202), [Wolf Automation](https://www.wolfautomation.com) |
+| OSP CMOS backup battery (CR2450 / BR2/3AGCT) | Okuma A91L-0001-0145 | $35-65 | [Amazon](https://www.amazon.com), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=okuma-alarm-2202) |
+| Spindle drive air filter | Okuma E0532-635-001 | $45-85 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=okuma-alarm-2202) |
+| Megger insulation tester (500V) | Fluke 1577 | $385-485 | [Amazon](https://www.amazon.com), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=okuma-alarm-2202) |
 
 Galco and Wolf Automation are the main US refurb sources for Okuma drives. Note: Okuma parts inventory is thinner than Fanuc in third-party channels because of Okuma's smaller installed base in North America — lead times can be 2-6 weeks on uncommon parts.
 

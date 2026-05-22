@@ -60,11 +60,11 @@ Diagnostic entry: hold OFF+ON for 5 seconds on Prodigy; menu navigation on Prodi
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |------|------------|--------------|--------------|
-| Condenser fan motor (C0322/C0530) | 12-2509-21 | $158-$235 | [Parts Town](https://partstown.com) |
-| Condenser fan blade | 02-3413-21 | $32-$54 | [Parts Town](https://partstown.com) |
-| Discharge thermistor | 12-2913-01 | $62-$95 | [Parts Town](https://partstown.com) |
-| Condenser air filter | 02-3927-01 | $18-$32 | [Parts Town](https://partstown.com) |
-| Compressor (C0530 R-404A) | 12-2820-21 | $720-$1,050 | [Parts Town](https://partstown.com) |
+| Condenser fan motor (C0322/C0530) | 12-2509-21 | $158-$235 | [Parts Town](https://partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-4-flash-code) |
+| Condenser fan blade | 02-3413-21 | $32-$54 | [Parts Town](https://partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-4-flash-code) |
+| Discharge thermistor | 12-2913-01 | $62-$95 | [Parts Town](https://partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-4-flash-code) |
+| Condenser air filter | 02-3927-01 | $18-$32 | [Parts Town](https://partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-4-flash-code) |
+| Compressor (C0530 R-404A) | 12-2820-21 | $720-$1,050 | [Parts Town](https://partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-4-flash-code) |
 | Coil cleaner (no-rinse, foaming) | — | $22-$35 | [Amazon](https://amazon.com) |
 | Clamp meter with temp probe (Fluke 902 FC) | — | $325-$420 | [Amazon](https://amazon.com) |
 | Pipe-mount thermocouple | — | $18-$32 | [Amazon](https://amazon.com) |

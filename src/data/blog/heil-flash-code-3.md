@@ -66,12 +66,12 @@ Before you start: shut off power at the furnace switch and gas at the gas cock. 
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Pressure switch (90% AFUE single, -0.50 WC) | ICP HQ1011927HW | $45-70 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Pressure switch (90% AFUE dual) | ICP HQ1009850TW | $65-95 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Condensate trap assembly | ICP 1184211 | $35-60 | [RepairClinic](https://www.repairclinic.com), [Home Depot](https://www.homedepot.com) |
-| Integrated furnace control (SmartLight) | ICP 1183620 | $185-265 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Inducer motor assembly (90% AFUE) | ICP 1014338 | $245-365 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Silicone hose (1/4 inch, per foot) | Generic | $3-5 | [Home Depot](https://www.homedepot.com), [Lowes](https://www.lowes.com) |
+| Pressure switch (90% AFUE single, -0.50 WC) | ICP HQ1011927HW | $45-70 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=heil-flash-code-3), [Amazon](https://www.amazon.com) |
+| Pressure switch (90% AFUE dual) | ICP HQ1009850TW | $65-95 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=heil-flash-code-3), [Amazon](https://www.amazon.com) |
+| Condensate trap assembly | ICP 1184211 | $35-60 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=heil-flash-code-3), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=heil-flash-code-3) |
+| Integrated furnace control (SmartLight) | ICP 1183620 | $185-265 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=heil-flash-code-3), [Amazon](https://www.amazon.com) |
+| Inducer motor assembly (90% AFUE) | ICP 1014338 | $245-365 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=heil-flash-code-3), [Amazon](https://www.amazon.com) |
+| Silicone hose (1/4 inch, per foot) | Generic | $3-5 | [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=heil-flash-code-3), [Lowes](https://www.lowes.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=heil-flash-code-3) |
 | Hand vacuum pump for switch testing | Mityvac MV8000 | $50-75 | [Amazon](https://www.amazon.com) |
 
 ICP cross-brand note: a Heil 1183620 control board drops directly into a Tempstar or Comfortmaker cabinet of the same era. The Day & Night and Arcoaire variants of these brands are identical down to the part number. Don't pay for a "Tempstar" board if your supplier has a Heil board in stock — same part, same price ideally.

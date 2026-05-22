@@ -92,17 +92,17 @@ Standard CNC and electrical safety: lock and tag the disconnect, wait 5 minutes 
 
 | Part | Part Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| αiI servo motor (medium frame, M6/3000) | A06B-0235-B100 (form, frame-specific) | $3,200–$5,800 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), eBay (used CNC dealer) |
-| αi servo motor (older generation, pre-2010) | A06B-0142-B (form, frame-specific) | $2,800–$4,800 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), eBay |
-| αiI motor cooling fan (integrated, replacement) | A290-7203-X (form per motor) | $310–$480 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), Mazak/HFO for cross-ref |
-| Motor fan filter screen (αiI) | A290-7203-X (form per motor) | $35–$80 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), replacement foam from [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) as field repair |
-| αiI motor encoder | A860-2020-T301 (or T331/T351) | $1,400–$2,400 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), eBay |
-| Encoder/thermistor cable | A06B-6093-K201 (length-dependent) | $310–$580 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), eBay |
-| Brake (servo motor, integrated) | per-motor brake assembly PN | $580–$1,100 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), eBay, Fanuc service |
-| Way oil, Mobil Vactra No. 2 | Vactra No. 2, 1 gallon | $40–$65 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| Way wiper kit, generic per machine | per machine builder | $35–$140 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), eBay |
-| CAT-III multimeter for thermistor R-check | Fluke 87V | $480–$560 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| IR thermometer (motor temp verification) | Fluke 62 MAX+ | $95–$160 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
+| αiI servo motor (medium frame, M6/3000) | A06B-0235-B100 (form, frame-specific) | $3,200–$5,800 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=fanuc-alarm-430), eBay (used CNC dealer) |
+| αi servo motor (older generation, pre-2010) | A06B-0142-B (form, frame-specific) | $2,800–$4,800 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=fanuc-alarm-430), eBay |
+| αiI motor cooling fan (integrated, replacement) | A290-7203-X (form per motor) | $310–$480 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=fanuc-alarm-430), Mazak/HFO for cross-ref |
+| Motor fan filter screen (αiI) | A290-7203-X (form per motor) | $35–$80 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=fanuc-alarm-430), replacement foam from [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) as field repair |
+| αiI motor encoder | A860-2020-T301 (or T331/T351) | $1,400–$2,400 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=fanuc-alarm-430), eBay |
+| Encoder/thermistor cable | A06B-6093-K201 (length-dependent) | $310–$580 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=fanuc-alarm-430), eBay |
+| Brake (servo motor, integrated) | per-motor brake assembly PN | $580–$1,100 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=fanuc-alarm-430), eBay, Fanuc service |
+| Way oil, Mobil Vactra No. 2 | Vactra No. 2, 1 gallon | $40–$65 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=fanuc-alarm-430) |
+| Way wiper kit, generic per machine | per machine builder | $35–$140 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=fanuc-alarm-430), eBay |
+| CAT-III multimeter for thermistor R-check | Fluke 87V | $480–$560 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=fanuc-alarm-430) |
+| IR thermometer (motor temp verification) | Fluke 62 MAX+ | $95–$160 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=fanuc-alarm-430) |
 
 ## When to call a CNC service engineer
 

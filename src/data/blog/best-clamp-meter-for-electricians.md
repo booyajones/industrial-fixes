@@ -33,7 +33,7 @@ I've spent 11 years working VFDs, motor starters, control transformers, and feed
 ### 1. Fluke 376 FC — Best for industrial and commercial electrical work
 
 **Brand + model:** Fluke 376 FC True RMS AC/DC Clamp Meter with iFlex Probe
-**Approximate price:** $580 ([Fluke 376 FC on Amazon](https://amzn.to/PLACEHOLDER-376FC), [Fluke 376 FC at TruTech Tools](https://trutechtools.com/PLACEHOLDER-376FC))
+**Approximate price:** $580 ([Fluke 376 FC on Amazon](https://www.amazon.com/s?k=376FC&tag=errorcodefixes-20), [Fluke 376 FC at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-clamp-meter-for-electricians))
 
 - True RMS AC and DC current to 1000A (2500A with iFlex)
 - True RMS AC voltage to 1000V, DC voltage to 1500V
@@ -49,7 +49,7 @@ I've spent 11 years working VFDs, motor starters, control transformers, and feed
 ### 2. Klein CL800 — Best value clamp meter under $250
 
 **Brand + model:** Klein CL800 Digital Clamp Meter
-**Approximate price:** $200 ([Klein CL800 on Amazon](https://amzn.to/PLACEHOLDER-CL800), [Klein CL800 at Home Depot](https://homedepot.com/PLACEHOLDER-CL800))
+**Approximate price:** $200 ([Klein CL800 on Amazon](https://www.amazon.com/s?k=CL800&tag=errorcodefixes-20), [Klein CL800 at Home Depot](https://homedepot.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-clamp-meter-for-electricians))
 
 - True RMS AC current to 600A
 - True RMS AC voltage to 1000V
@@ -65,7 +65,7 @@ I've spent 11 years working VFDs, motor starters, control transformers, and feed
 ### 3. Amprobe ACD-14-PLUS — Best slim-profile clamp for crowded panels
 
 **Brand + model:** Amprobe ACD-14-PLUS True RMS Clamp Meter
-**Approximate price:** $230 ([Amprobe ACD-14-PLUS on Amazon](https://amzn.to/PLACEHOLDER-ACD14), [Amprobe ACD-14-PLUS at Grainger](https://grainger.com/PLACEHOLDER-ACD14))
+**Approximate price:** $230 ([Amprobe ACD-14-PLUS on Amazon](https://www.amazon.com/s?k=ACD14&tag=errorcodefixes-20), [Amprobe ACD-14-PLUS at Grainger](https://grainger.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-clamp-meter-for-electricians))
 
 - True RMS AC current to 600A
 - True RMS AC voltage to 1000V

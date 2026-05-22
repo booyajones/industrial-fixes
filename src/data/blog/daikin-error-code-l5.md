@@ -66,12 +66,12 @@ Daikin firmware will sometimes auto-retry L5 once or twice over a few minutes be
 
 | Part | OEM Number (typical) | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Outdoor inverter PCB (RX09/RX12) | 5009566-xx | $385–$620 | [HVAC Parts Shop](https://www.hvacpartsshop.com?aff=PLACEHOLDER-HPS) / [Grainger](https://www.grainger.com?aff=PLACEHOLDER-GRAINGER) |
-| Compressor (RX09 class) | varies — Daikin reman | $480–$780 | [HVAC Parts Shop](https://www.hvacpartsshop.com?aff=PLACEHOLDER-HPS) |
-| Crankcase band heater | 4017019 family | $35–$75 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) / [Grainger](https://www.grainger.com?aff=PLACEHOLDER-GRAINGER) |
+| Outdoor inverter PCB (RX09/RX12) | 5009566-xx | $385–$620 | [HVAC Parts Shop](https://www.hvacpartsshop.com) / [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=daikin-error-code-l5) |
+| Compressor (RX09 class) | varies — Daikin reman | $480–$780 | [HVAC Parts Shop](https://www.hvacpartsshop.com) |
+| Crankcase band heater | 4017019 family | $35–$75 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) / [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=daikin-error-code-l5) |
 | Inverter PCB thermal paste kit | included with PCB | $0–$15 | with PCB |
-| R-410A recovery cylinder | Mastercool 62010 | $85–$120 | [Grainger](https://www.grainger.com?aff=PLACEHOLDER-GRAINGER) |
-| R-454B-rated recovery cylinder | varies | $145–$210 | [Grainger](https://www.grainger.com?aff=PLACEHOLDER-GRAINGER) |
+| R-410A recovery cylinder | Mastercool 62010 | $85–$120 | [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=daikin-error-code-l5) |
+| R-454B-rated recovery cylinder | varies | $145–$210 | [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=daikin-error-code-l5) |
 
 For a compressor swap, order the filter-drier and a new Schrader core kit — Daikin warranty requires a new drier on any sealed-system intrusion.
 

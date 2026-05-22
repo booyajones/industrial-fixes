@@ -62,11 +62,11 @@ E01 is almost always a symptom of a refrigeration problem, not a control problem
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Hot-gas valve kit (Indigo NXT) | K-00461 | $185–$240 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Condenser fan motor (IDT0500/0900) | 7626833 | $210–$295 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Fan motor run capacitor 5 µF | 000002777 | $18–$28 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Evaporator thermistor kit | K-00339 | $95–$140 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Water inlet valve | 000000218 | $115–$165 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) / [RepairClinic](https://www.repairclinic.com?aff=PLACEHOLDER-RC) |
+| Hot-gas valve kit (Indigo NXT) | K-00461 | $185–$240 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-e01-error-code) |
+| Condenser fan motor (IDT0500/0900) | 7626833 | $210–$295 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-e01-error-code) |
+| Fan motor run capacitor 5 µF | 000002777 | $18–$28 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-e01-error-code) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Evaporator thermistor kit | K-00339 | $95–$140 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-e01-error-code) |
+| Water inlet valve | 000000218 | $115–$165 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-e01-error-code) / [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-e01-error-code) |
 
 Order the gasket and clip kits along with the main part — Manitowoc valve bodies don't reuse old gaskets reliably and a $4 gasket will cost you a return trip if you skip it.
 

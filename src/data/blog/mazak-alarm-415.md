@@ -89,13 +89,13 @@ Mazak servo motors and encoders are sold as integrated assemblies. The motor mod
 
 | Part | Part Number (form) | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Feedback cable, 5m, with shield | Mitsubishi MR-J3ENCBL5M-A1-L (Matrix cross) | $310–$480 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| Encoder battery, 3.6V lithium pack (drive-mounted) | Mitsubishi MR-BAT6V1SET | $42–$78 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Servo motor + encoder assembly (HC152S class) | HC152S-A48 (Matrix) | $3,200–$5,800 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), eBay (used CNC dealer) |
-| MDS-DH spindle/servo drive | MDS-DH-V2-160160 (typical mid-frame) | $4,800–$7,800 used | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), eBay |
-| Encoder connector, 12-pin metal shell | JL05-2A22-22PE (Japan Aviation) | $48–$90 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Crimp tool for encoder pins | JAE CT170 or equivalent | $310–$520 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Insulation tester / megger for cable check | Fluke 1587 FC | $580–$720 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
+| Feedback cable, 5m, with shield | Mitsubishi MR-J3ENCBL5M-A1-L (Matrix cross) | $310–$480 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mazak-alarm-415), [Wolf Automation](https://www.wolfautomation.com) |
+| Encoder battery, 3.6V lithium pack (drive-mounted) | Mitsubishi MR-BAT6V1SET | $42–$78 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mazak-alarm-415), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Servo motor + encoder assembly (HC152S class) | HC152S-A48 (Matrix) | $3,200–$5,800 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mazak-alarm-415), eBay (used CNC dealer) |
+| MDS-DH spindle/servo drive | MDS-DH-V2-160160 (typical mid-frame) | $4,800–$7,800 used | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mazak-alarm-415), eBay |
+| Encoder connector, 12-pin metal shell | JL05-2A22-22PE (Japan Aviation) | $48–$90 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mazak-alarm-415), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Crimp tool for encoder pins | JAE CT170 or equivalent | $310–$520 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mazak-alarm-415), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Insulation tester / megger for cable check | Fluke 1587 FC | $580–$720 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mazak-alarm-415) |
 | Replacement OSA17/166 encoder (factory-fit) | Service via Mazak/Mitsubishi rebuild | varies | Mazak direct |
 
 ## When to call a CNC service engineer

@@ -79,13 +79,13 @@ PowerFlex 525 drives are sold as complete units — Allen-Bradley does not sell 
 
 | Part | Catalog Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| PowerFlex 525, 480V, 5HP | 25B-D010N104 | $1,150–$1,400 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| PowerFlex 525, 480V, 10HP | 25B-D017N104 | $1,800–$2,100 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| PowerFlex 525, 480V, 20HP | 25B-D030N104 | $2,600–$3,100 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| 22-HIM-A3 LCD keypad | 22-HIM-A3 | $185–$240 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Bussmann FRS-R-30 input fuse (480V) | FRS-R-30 | $14–$22 each | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Phoenix Contact terminal torque screwdriver | 1212597 | $190–$240 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| Fluke 1748 power quality logger | FLUKE-1748/BASIC | $7,400–$8,800 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| PowerFlex 525, 480V, 5HP | 25B-D010N104 | $1,150–$1,400 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f004-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f004-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| PowerFlex 525, 480V, 10HP | 25B-D017N104 | $1,800–$2,100 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f004-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f004-fault) |
+| PowerFlex 525, 480V, 20HP | 25B-D030N104 | $2,600–$3,100 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f004-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| 22-HIM-A3 LCD keypad | 22-HIM-A3 | $185–$240 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f004-fault), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Bussmann FRS-R-30 input fuse (480V) | FRS-R-30 | $14–$22 each | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f004-fault), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Phoenix Contact terminal torque screwdriver | 1212597 | $190–$240 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f004-fault) |
+| Fluke 1748 power quality logger | FLUKE-1748/BASIC | $7,400–$8,800 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f004-fault), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
 
 For 753/755 drives the same rule applies for the power module, but the **control board (20-750-S1)**, **EtherNet/IP option (20-750-ENETR)**, and **24VDC aux power supply (20-750-APS)** are user-replaceable.
 

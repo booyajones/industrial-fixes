@@ -75,16 +75,16 @@ Safety first: close the manual gas valve, kill power at the unit. Tankless hot w
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Flame rod / sensor (T-H3) | Takagi LOC-9000-009 | $42-72 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
-| Flame rod (T-K4 / T-D2) | Takagi LOC-9000-007 | $42-72 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
-| Ignition electrode (T-H3) | Takagi LOC-9050-024 | $48-82 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
+| Flame rod / sensor (T-H3) | Takagi LOC-9000-009 | $42-72 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=takagi-error-code-111) |
+| Flame rod (T-K4 / T-D2) | Takagi LOC-9000-007 | $42-72 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=takagi-error-code-111) |
+| Ignition electrode (T-H3) | Takagi LOC-9050-024 | $48-82 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=takagi-error-code-111) |
 | HV ignition cable | Takagi LOC-3010-014 | $28-48 | [Supply House](https://www.supplyhouse.com), [Amazon](https://www.amazon.com) |
-| Gas valve (T-H3, modulating) | Takagi LOC-3010-002 | $290-440 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
-| Burner gasket | Takagi LOC-2000-005 | $18-32 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
-| Condensate trap (Tx2) | Takagi LOC-7050-008 | $42-72 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
-| Main control board (T-H3-DV) | Takagi LOC-5000-001 | $440-680 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
+| Gas valve (T-H3, modulating) | Takagi LOC-3010-002 | $290-440 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=takagi-error-code-111) |
+| Burner gasket | Takagi LOC-2000-005 | $18-32 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=takagi-error-code-111) |
+| Condensate trap (Tx2) | Takagi LOC-7050-008 | $42-72 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=takagi-error-code-111) |
+| Main control board (T-H3-DV) | Takagi LOC-5000-001 | $440-680 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=takagi-error-code-111) |
 | LP conversion kit (T-K4) | Takagi LOC-9100-LP | $85-130 | [Supply House](https://www.supplyhouse.com), [Amazon](https://www.amazon.com) |
-| Wired remote (TK-RE10) | Takagi TK-RE10 | $115-175 | [Supply House](https://www.supplyhouse.com), [Home Depot](https://www.homedepot.com) |
+| Wired remote (TK-RE10) | Takagi TK-RE10 | $115-175 | [Supply House](https://www.supplyhouse.com), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=takagi-error-code-111) |
 
 Note: Takagi parts numbering follows a LOC-xxxx-xxx convention but exact numbers vary by model and production year. Always verify by serial number / model on the rating plate before ordering. Many parts cross-reference between Takagi and Rheem residential tankless because of shared manufacturing.
 

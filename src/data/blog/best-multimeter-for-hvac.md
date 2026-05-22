@@ -32,7 +32,7 @@ After 14 years on residential service I've broken three multimeters. All three w
 ### 1. Fluke 117 — Best for residential HVAC service techs
 
 **Brand + model:** Fluke 117 Electrician's True RMS Multimeter
-**Approximate price:** $215 ([Fluke 117 on Amazon](https://amzn.to/PLACEHOLDER-117), [Fluke 117 at TruTech Tools](https://trutechtools.com/PLACEHOLDER-117))
+**Approximate price:** $215 ([Fluke 117 on Amazon](https://www.amazon.com/s?k=117&tag=errorcodefixes-20), [Fluke 117 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-multimeter-for-hvac))
 
 - True RMS on AC voltage and current
 - 0.001 µA resolution on DC current — reads flame sensor current cleanly
@@ -47,7 +47,7 @@ After 14 years on residential service I've broken three multimeters. All three w
 ### 2. Fluke 87V — Best for commercial and industrial HVAC
 
 **Brand + model:** Fluke 87V Industrial True RMS Multimeter
-**Approximate price:** $430 ([Fluke 87V on Amazon](https://amzn.to/PLACEHOLDER-87V), [Fluke 87V at TruTech Tools](https://trutechtools.com/PLACEHOLDER-87V))
+**Approximate price:** $430 ([Fluke 87V on Amazon](https://www.amazon.com/s?k=87V&tag=errorcodefixes-20), [Fluke 87V at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-multimeter-for-hvac))
 
 - True RMS with selectable low-pass filter for VFD work
 - 0.05% basic DCV accuracy — the most accurate handheld in this class
@@ -62,7 +62,7 @@ After 14 years on residential service I've broken three multimeters. All three w
 ### 3. Klein MM700 — Best budget pick under $150
 
 **Brand + model:** Klein Tools MM700 Auto-Ranging True RMS Multimeter
-**Approximate price:** $110 ([Klein MM700 on Amazon](https://amzn.to/PLACEHOLDER-MM700), [Klein MM700 at Home Depot](https://homedepot.com/PLACEHOLDER-MM700))
+**Approximate price:** $110 ([Klein MM700 on Amazon](https://www.amazon.com/s?k=MM700&tag=errorcodefixes-20), [Klein MM700 at Home Depot](https://homedepot.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-multimeter-for-hvac))
 
 - True RMS, 1000V AC/DC
 - Capacitance to 10,000 µF
@@ -76,7 +76,7 @@ After 14 years on residential service I've broken three multimeters. All three w
 ### 4. Fieldpiece HS33 — Best for the stick-meter form factor crowd
 
 **Brand + model:** Fieldpiece HS33 Expandable Manual-Ranging Stick Multimeter
-**Approximate price:** $130 ([Fieldpiece HS33 on Amazon](https://amzn.to/PLACEHOLDER-HS33), [Fieldpiece HS33 at TruTech Tools](https://trutechtools.com/PLACEHOLDER-HS33))
+**Approximate price:** $130 ([Fieldpiece HS33 on Amazon](https://www.amazon.com/s?k=HS33&tag=errorcodefixes-20), [Fieldpiece HS33 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-multimeter-for-hvac))
 
 - Stick form factor — fits in a tool pouch, not just a meter pocket
 - Accepts Fieldpiece ACH4 clamp accessory for AC amps

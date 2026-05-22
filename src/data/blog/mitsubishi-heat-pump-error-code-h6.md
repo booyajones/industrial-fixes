@@ -69,14 +69,14 @@ Safety first: kill power at the outdoor disconnect. Inverter DC bus retains 300+
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Outdoor fan motor (PUZ-A24/A30, 230V) | Mitsubishi T7WE15315 | $310-460 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Outdoor fan motor (PUZ-A36/A42, 230V) | Mitsubishi T7WE15321 | $410-580 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Outdoor fan motor (PUMY-P/City Multi VRF) | Mitsubishi T7WE21405 | $480-720 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Fan blade (PUZ A-series) | Mitsubishi T7WB22102 | $48-85 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Outdoor main control PCB (PUZ-A24) | Mitsubishi T7WE34123 | $720-1100 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Outdoor inverter PCB (City Multi PUMY-P) | Mitsubishi T7WE40212 | $1100-1650 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Motor harness assembly | Mitsubishi T7WE11055 | $42-78 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Wired remote controller (PAR-40MAA) | Mitsubishi PAR-40MAA | $310-440 | [RepairClinic](https://www.repairclinic.com), [Home Depot](https://www.homedepot.com) |
+| Outdoor fan motor (PUZ-A24/A30, 230V) | Mitsubishi T7WE15315 | $310-460 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mitsubishi-heat-pump-error-code-h6), [Amazon](https://www.amazon.com) |
+| Outdoor fan motor (PUZ-A36/A42, 230V) | Mitsubishi T7WE15321 | $410-580 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mitsubishi-heat-pump-error-code-h6), [Amazon](https://www.amazon.com) |
+| Outdoor fan motor (PUMY-P/City Multi VRF) | Mitsubishi T7WE21405 | $480-720 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mitsubishi-heat-pump-error-code-h6), [Amazon](https://www.amazon.com) |
+| Fan blade (PUZ A-series) | Mitsubishi T7WB22102 | $48-85 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mitsubishi-heat-pump-error-code-h6), [Amazon](https://www.amazon.com) |
+| Outdoor main control PCB (PUZ-A24) | Mitsubishi T7WE34123 | $720-1100 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mitsubishi-heat-pump-error-code-h6), [Amazon](https://www.amazon.com) |
+| Outdoor inverter PCB (City Multi PUMY-P) | Mitsubishi T7WE40212 | $1100-1650 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mitsubishi-heat-pump-error-code-h6), [Amazon](https://www.amazon.com) |
+| Motor harness assembly | Mitsubishi T7WE11055 | $42-78 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mitsubishi-heat-pump-error-code-h6), [Amazon](https://www.amazon.com) |
+| Wired remote controller (PAR-40MAA) | Mitsubishi PAR-40MAA | $310-440 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mitsubishi-heat-pump-error-code-h6), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mitsubishi-heat-pump-error-code-h6) |
 
 Note: Mitsubishi part numbers I've listed are representative; always cross-reference to your unit's rating plate model and serial range. Mitsubishi changes part numbers between production runs and the wrong number can result in shipping a physically similar but electronically incompatible motor.
 

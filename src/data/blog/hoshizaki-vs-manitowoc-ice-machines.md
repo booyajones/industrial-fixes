@@ -21,7 +21,7 @@ For most restaurant and bar operators, Hoshizaki delivers lower total cost of ow
 |---|---|---|
 | Reliability (5-yr field data) | Excellent — 9/10 | Very good — 8/10 |
 | Service network density | Excellent — KOOL-NET certified techs nationwide | Excellent — Manitowoc-trained distributor network |
-| Parts availability | Excellent — Hoshizaki Parts, PartsTown, distributor | Excellent — [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) dominant, full distributor |
+| Parts availability | Excellent — Hoshizaki Parts, PartsTown, distributor | Excellent — [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=hoshizaki-vs-manitowoc-ice-machines) dominant, full distributor |
 | Error code accessibility | Excellent — LED codes documented, control board readable | Excellent — alpha codes on display, well-documented |
 | Top-tier model (2026) | KMD-901MAJ (modular cuber, 900 lb/day) | Indigo NXT IYT1900N (1900 lb/day) |
 | Mid-tier model | KM-660MAJ (660 lb/day) | IDT0750A (750 lb/day) |

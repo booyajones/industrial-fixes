@@ -62,11 +62,11 @@ Harvest is a heat-transfer problem. Anything that prevents heat from getting fro
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Harvest (hot-gas) valve kit | K-00461 | $185–$240 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Water curtain assembly (IYT0500) | 7628183 | $135–$175 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Water curtain pivot kit | K-00295 | $38–$48 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Harvest valve coil only | 000002326 | $65–$90 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) / [RepairClinic](https://www.repairclinic.com?aff=PLACEHOLDER-RC) |
-| Nu-Calgon Nickel-Safe cleaner (case of 4) | 4287-08 | $85–$110 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) / [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
+| Harvest (hot-gas) valve kit | K-00461 | $185–$240 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-e02-error-code) |
+| Water curtain assembly (IYT0500) | 7628183 | $135–$175 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-e02-error-code) |
+| Water curtain pivot kit | K-00295 | $38–$48 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-e02-error-code) |
+| Harvest valve coil only | 000002326 | $65–$90 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-e02-error-code) / [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-e02-error-code) |
+| Nu-Calgon Nickel-Safe cleaner (case of 4) | 4287-08 | $85–$110 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) / [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-e02-error-code) |
 
 If you're cleaning a plate that's been ignored for 18+ months, budget for two cleaner bottles per cycle and plan to run two back-to-back cleanings before you call it done.
 

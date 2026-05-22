@@ -33,7 +33,7 @@ Across 17 years of refrigeration work, I've chased leaks on everything from roof
 ### 1. Fieldpiece DR82 — Best for commercial refrigeration and modern refrigerants
 
 **Brand + model:** Fieldpiece DR82 Heated Diode Refrigerant Leak Detector
-**Approximate price:** $400 ([Fieldpiece DR82 on Amazon](https://amzn.to/PLACEHOLDER-DR82), [Fieldpiece DR82 at TruTech Tools](https://trutechtools.com/PLACEHOLDER-DR82))
+**Approximate price:** $400 ([Fieldpiece DR82 on Amazon](https://www.amazon.com/s?k=DR82&tag=errorcodefixes-20), [Fieldpiece DR82 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-refrigerant-leak-detector))
 
 - Heated diode sensor — selective for halogenated refrigerants
 - Sensitivity 0.1 oz/year on R-410A, R-454B, R-32, R-22, R-134a
@@ -49,7 +49,7 @@ Across 17 years of refrigeration work, I've chased leaks on everything from roof
 ### 2. Inficon TEK-Mate — Best corona-discharge detector under $300
 
 **Brand + model:** Inficon TEK-Mate Refrigerant Leak Detector
-**Approximate price:** $260 ([Inficon TEK-Mate on Amazon](https://amzn.to/PLACEHOLDER-TEKMATE), [Inficon TEK-Mate at TruTech Tools](https://trutechtools.com/PLACEHOLDER-TEKMATE))
+**Approximate price:** $260 ([Inficon TEK-Mate on Amazon](https://www.amazon.com/s?k=TEKMATE&tag=errorcodefixes-20), [Inficon TEK-Mate at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-refrigerant-leak-detector))
 
 - Corona discharge sensor
 - Sensitivity 0.25 oz/year on R-410A and most refrigerants
@@ -64,7 +64,7 @@ Across 17 years of refrigeration work, I've chased leaks on everything from roof
 ### 3. Testo 316-3 — Best for techs running Testo combustion and refrigerant tools
 
 **Brand + model:** Testo 316-3 Refrigerant Leak Detector
-**Approximate price:** $470 ([Testo 316-3 on Amazon](https://amzn.to/PLACEHOLDER-316-3), [Testo 316-3 at TruTech Tools](https://trutechtools.com/PLACEHOLDER-316-3))
+**Approximate price:** $470 ([Testo 316-3 on Amazon](https://www.amazon.com/s?k=316+3&tag=errorcodefixes-20), [Testo 316-3 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-refrigerant-leak-detector))
 
 - Heated diode sensor
 - Sensitivity 0.14 oz/year on R-410A, R-454B, R-32

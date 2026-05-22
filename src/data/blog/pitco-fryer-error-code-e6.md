@@ -68,15 +68,15 @@ Before you start: shut off gas at the appliance gas cock (gas units) or kill the
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| High-limit switch (manual reset, 460°F) | Pitco PP10078 | $85-145 | [PartsTown](https://www.partstown.com), [RepairClinic](https://www.repairclinic.com) |
-| Operating thermostat (mechanical) | Pitco PP10079 | $115-185 | [PartsTown](https://www.partstown.com), [Amazon](https://www.amazon.com) |
-| I12 digital controller | Pitco P5047541 | $385-585 | [PartsTown](https://www.partstown.com), [RepairClinic](https://www.repairclinic.com) |
-| Temperature sensor RTD (Pt100) | Pitco PP10078E | $85-145 | [PartsTown](https://www.partstown.com), [Amazon](https://www.amazon.com) |
-| Gas valve (natural gas, Solstice) | Pitco PP10612 | $385-585 | [PartsTown](https://www.partstown.com), [RepairClinic](https://www.repairclinic.com) |
-| Heating element (electric, 14 kW) | Pitco PP10080 | $445-585 | [PartsTown](https://www.partstown.com), [Amazon](https://www.amazon.com) |
-| Burner tube assembly (gas) | Pitco PP10081 | $245-385 | [PartsTown](https://www.partstown.com) |
-| High-limit reset button cap | Pitco PP10082 | $15-25 | [PartsTown](https://www.partstown.com), [Amazon](https://www.amazon.com) |
-| Deep-fry thermometer (calibration) | Taylor 3506FS | $35-65 | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com) |
+| High-limit switch (manual reset, 460°F) | Pitco PP10078 | $85-145 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=pitco-fryer-error-code-e6), [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=pitco-fryer-error-code-e6) |
+| Operating thermostat (mechanical) | Pitco PP10079 | $115-185 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=pitco-fryer-error-code-e6), [Amazon](https://www.amazon.com) |
+| I12 digital controller | Pitco P5047541 | $385-585 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=pitco-fryer-error-code-e6), [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=pitco-fryer-error-code-e6) |
+| Temperature sensor RTD (Pt100) | Pitco PP10078E | $85-145 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=pitco-fryer-error-code-e6), [Amazon](https://www.amazon.com) |
+| Gas valve (natural gas, Solstice) | Pitco PP10612 | $385-585 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=pitco-fryer-error-code-e6), [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=pitco-fryer-error-code-e6) |
+| Heating element (electric, 14 kW) | Pitco PP10080 | $445-585 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=pitco-fryer-error-code-e6), [Amazon](https://www.amazon.com) |
+| Burner tube assembly (gas) | Pitco PP10081 | $245-385 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=pitco-fryer-error-code-e6) |
+| High-limit reset button cap | Pitco PP10082 | $15-25 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=pitco-fryer-error-code-e6), [Amazon](https://www.amazon.com) |
+| Deep-fry thermometer (calibration) | Taylor 3506FS | $35-65 | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=pitco-fryer-error-code-e6) |
 | Digital manometer | Dwyer 475-1-FM | $185-235 | [Amazon](https://www.amazon.com) |
 
 PartsTown is primary distributor for Pitco. Confirm part numbers by serial — Pitco changes part numbers across Solstice generations.

@@ -80,15 +80,15 @@ Lock and tag the upstream disconnect on the drive's input contactor. Wait the FC
 
 | Part | Catalog Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| FC-302, 480V, 5.5kW (7.5HP) | 131F0036 | $1,950–$2,350 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| FC-302, 480V, 11kW (15HP) | 131F0058 | $2,850–$3,400 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| FC-302, 480V, 22kW (30HP) | 131F0073 | $4,200–$5,100 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| LCP 102 graphical display | 130B1107 | $385–$485 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| LCP 101 numerical display | 130B1124 | $215–$285 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI) |
-| Danfoss output reactor 22 kW | 130B2304 | $625–$795 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| Danfoss du/dt filter 11 kW | 130B2440 | $890–$1,150 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| Fluke 87V industrial multimeter | FLUKE-87-5 | $480–$580 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| Megger MIT420/2 1000V tester | MIT420/2 | $1,250–$1,500 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
+| FC-302, 480V, 5.5kW (7.5HP) | 131F0036 | $1,950–$2,350 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=danfoss-fc302-alarm-12), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=danfoss-fc302-alarm-12) |
+| FC-302, 480V, 11kW (15HP) | 131F0058 | $2,850–$3,400 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=danfoss-fc302-alarm-12), [Wolf Automation](https://www.wolfautomation.com) |
+| FC-302, 480V, 22kW (30HP) | 131F0073 | $4,200–$5,100 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=danfoss-fc302-alarm-12), [Wolf Automation](https://www.wolfautomation.com) |
+| LCP 102 graphical display | 130B1107 | $385–$485 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=danfoss-fc302-alarm-12), [Wolf Automation](https://www.wolfautomation.com) |
+| LCP 101 numerical display | 130B1124 | $215–$285 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=danfoss-fc302-alarm-12), [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=danfoss-fc302-alarm-12) |
+| Danfoss output reactor 22 kW | 130B2304 | $625–$795 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=danfoss-fc302-alarm-12), [Wolf Automation](https://www.wolfautomation.com) |
+| Danfoss du/dt filter 11 kW | 130B2440 | $890–$1,150 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=danfoss-fc302-alarm-12) |
+| Fluke 87V industrial multimeter | FLUKE-87-5 | $480–$580 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=danfoss-fc302-alarm-12) |
+| Megger MIT420/2 1000V tester | MIT420/2 | $1,250–$1,500 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=danfoss-fc302-alarm-12) |
 | Wiha torque screwdriver 1.0–5.0 Nm | Wiha 28503 | $215–$285 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
 
 The FC-302 power stage is not field-serviceable. If AMA fails and motor and cable check out, the drive itself has a current sensor or gate-drive problem and gets replaced. Danfoss offers a 24-month manufacturer warranty.

@@ -100,15 +100,15 @@ Before opening anything: lock and tag the upstream disconnect *only if you need 
 
 | Part | Catalog Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Allen-Bradley 100-DNY40 motor klixon thermostat | 100-DNY40 | $42–$68 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| Robertshaw 802-A vibration switch | 802-A | $385–$495 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Allen-Bradley 802T pull-cord switch | 802T-P1 | $215–$285 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| Auxiliary Power Supply Module | 20-750-APS | $385–$485 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| Additional I/O option card | 20-750-2262C-2R | $625–$795 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| 22-HIM-A6 Full-Numeric HIM | 22-HIM-A6 | $385–$485 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| Phoenix Contact PLC-RSC interposing relay | 2980429 | $42–$68 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| Belden 9501 shielded twisted pair (per ft) | 9501 060 | $0.85–$1.40/ft | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Fluke 87V industrial multimeter | FLUKE-87-5 | $480–$580 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
+| Allen-Bradley 100-DNY40 motor klixon thermostat | 100-DNY40 | $42–$68 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-755-aux-input-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-755-aux-input-fault) |
+| Robertshaw 802-A vibration switch | 802-A | $385–$495 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-755-aux-input-fault), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Allen-Bradley 802T pull-cord switch | 802T-P1 | $215–$285 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-755-aux-input-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-755-aux-input-fault) |
+| Auxiliary Power Supply Module | 20-750-APS | $385–$485 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-755-aux-input-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| Additional I/O option card | 20-750-2262C-2R | $625–$795 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-755-aux-input-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| 22-HIM-A6 Full-Numeric HIM | 22-HIM-A6 | $385–$485 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-755-aux-input-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-755-aux-input-fault) |
+| Phoenix Contact PLC-RSC interposing relay | 2980429 | $42–$68 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-755-aux-input-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-755-aux-input-fault) |
+| Belden 9501 shielded twisted pair (per ft) | 9501 060 | $0.85–$1.40/ft | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-755-aux-input-fault), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Fluke 87V industrial multimeter | FLUKE-87-5 | $480–$580 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-755-aux-input-fault) |
 | Klein wire strippers / cutters | Klein 11055 | $25–$40 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
 
 The PowerFlex 755 itself is rarely the source of F2 — the fault is reporting an external condition. If you replace the drive without finding the external cause you will get F2 on the new drive too.

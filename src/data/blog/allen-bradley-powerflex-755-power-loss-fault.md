@@ -99,15 +99,15 @@ Before opening the cabinet: lock and tag the upstream disconnect. Wait the rated
 
 | Part | Catalog Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| PowerFlex 755, 480V, 5HP | 20G11NC011AA0NNNNN | $3,200–$3,800 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| PowerFlex 755, 480V, 20HP | 20G11NC030AA0NNNNN | $5,500–$6,600 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| PowerFlex 755, 480V, 50HP | 20G11NC072AA0NNNNN | $9,200–$11,000 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| Bussmann FRS-R-30 Class RK5 fuse | FRS-R-30 | $14–$22 each | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Mersen AJT-30 Class J fuse | AJT30 | $28–$45 each | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| Allen-Bradley 100-E contactor 30A 480V | 100-E30KJ11 | $385–$485 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| Auxiliary Power Supply Module | 20-750-APS | $385–$485 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| 22-HIM-A6 Full-Numeric HIM | 22-HIM-A6 | $385–$485 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| Fluke 1748 power quality logger | FLUKE-1748/BASIC | $7,400–$8,800 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| PowerFlex 755, 480V, 5HP | 20G11NC011AA0NNNNN | $3,200–$3,800 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-755-power-loss-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| PowerFlex 755, 480V, 20HP | 20G11NC030AA0NNNNN | $5,500–$6,600 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-755-power-loss-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| PowerFlex 755, 480V, 50HP | 20G11NC072AA0NNNNN | $9,200–$11,000 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-755-power-loss-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| Bussmann FRS-R-30 Class RK5 fuse | FRS-R-30 | $14–$22 each | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-755-power-loss-fault), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Mersen AJT-30 Class J fuse | AJT30 | $28–$45 each | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-755-power-loss-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-755-power-loss-fault) |
+| Allen-Bradley 100-E contactor 30A 480V | 100-E30KJ11 | $385–$485 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-755-power-loss-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-755-power-loss-fault) |
+| Auxiliary Power Supply Module | 20-750-APS | $385–$485 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-755-power-loss-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| 22-HIM-A6 Full-Numeric HIM | 22-HIM-A6 | $385–$485 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-755-power-loss-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-755-power-loss-fault) |
+| Fluke 1748 power quality logger | FLUKE-1748/BASIC | $7,400–$8,800 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-755-power-loss-fault), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
 | Klein torque wrench 1/4" drive | Klein TQ235U | $185–$240 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
 
 ## When to call a controls engineer

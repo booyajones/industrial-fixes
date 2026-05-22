@@ -69,14 +69,14 @@ Safety first: kill power at the boiler service switch. The Knight HX can hold wa
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Stack thermistor (Knight WHN/WBN) | Lochinvar 100130388 | $48-75 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
+| Stack thermistor (Knight WHN/WBN) | Lochinvar 100130388 | $48-75 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lochinvar-error-code-e02) |
 | Supply/return thermistor (NTC 10K) | Lochinvar 100209345 | $35-55 | [Supply House](https://www.supplyhouse.com), [Amazon](https://www.amazon.com) |
-| Circulator (Taco 0015e3) | Taco 0015e3-1IFC / replaces 100208632 | $310-440 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
-| Circulator (Grundfos UPS15-58FC) | Grundfos 59896341 | $280-380 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
-| Y-strainer 1" (return line) | Webstone H-44705 | $35-55 | [Supply House](https://www.supplyhouse.com), [Home Depot](https://www.homedepot.com) |
-| Isolation valve kit (Knight WHN) | Lochinvar WHN-IK / 100211062 | $95-145 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
-| Burner gasket | Lochinvar 100208234 | $24-42 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
-| SMART System control (Knight WHN) | Lochinvar 100212430 | $620-850 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
+| Circulator (Taco 0015e3) | Taco 0015e3-1IFC / replaces 100208632 | $310-440 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lochinvar-error-code-e02) |
+| Circulator (Grundfos UPS15-58FC) | Grundfos 59896341 | $280-380 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lochinvar-error-code-e02) |
+| Y-strainer 1" (return line) | Webstone H-44705 | $35-55 | [Supply House](https://www.supplyhouse.com), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lochinvar-error-code-e02) |
+| Isolation valve kit (Knight WHN) | Lochinvar WHN-IK / 100211062 | $95-145 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lochinvar-error-code-e02) |
+| Burner gasket | Lochinvar 100208234 | $24-42 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lochinvar-error-code-e02) |
+| SMART System control (Knight WHN) | Lochinvar 100212430 | $620-850 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lochinvar-error-code-e02) |
 | Condensate neutralizer media (refill) | Lochinvar 100165660 | $32-55 | [Supply House](https://www.supplyhouse.com), [Amazon](https://www.amazon.com) |
 
 A note on thermistor swaps: Lochinvar uses NTC 10K thermistors throughout the Knight platform, but the connector pinout, probe length, and seal vary by sensor location (stack vs. supply vs. return vs. DHW). Always order by Lochinvar part number, not generic NTC 10K — the probe must seat correctly in its well or it will read wrong.

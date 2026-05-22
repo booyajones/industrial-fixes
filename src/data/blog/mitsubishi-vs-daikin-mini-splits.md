@@ -23,7 +23,7 @@ If you want the highest-performance cold-climate mini-split for a Northern U.S. 
 |---|---|---|
 | Reliability (10-yr field data) | Excellent — 9/10 | Excellent — 9/10 |
 | Service network density | Excellent — Mitsubishi Diamond Contractor network nationwide | Excellent — Daikin Comfort Pro network nationwide |
-| Parts availability | Excellent — Mitsubishi distributor + RepairClinic | Excellent — Daikin owns Goodman, shares distribution + [RepairClinic](https://www.repairclinic.com?aff=PLACEHOLDER-RC) |
+| Parts availability | Excellent — Mitsubishi distributor + RepairClinic | Excellent — Daikin owns Goodman, shares distribution + [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mitsubishi-vs-daikin-mini-splits) |
 | Error code accessibility | Excellent — LED codes on indoor + outdoor, well-documented | Excellent — alphanumeric on indoor wireless / wall controllers |
 | Top-tier model (2026) | MZ-FS series Hyper-Heat | Daikin Atmosphera, Aurora cold-climate |
 | Mid-tier model | MSZ-GL series | Daikin LV / 19 series |

@@ -63,12 +63,12 @@ A subtle point on the AM15: the wash pump impeller is a cast bronze open-impelle
 
 | Part | OEM Number (typical) | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Wash pump motor (1.5 HP 3-phase) | 00-913665-XXX | $585–$895 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Wash pump impeller | 00-274700-001 | $145–$215 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Pump housing seal kit | 00-274846-001 | $35–$65 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Motor contactor (24 V coil) | 00-771530-001 | $95–$165 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Overload relay | 00-771544-001 | $105–$185 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Wash arm assembly (upper) | 00-887580-001 | $175–$285 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
+| Wash pump motor (1.5 HP 3-phase) | 00-913665-XXX | $585–$895 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=hobart-am15-error-1-1) |
+| Wash pump impeller | 00-274700-001 | $145–$215 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=hobart-am15-error-1-1) |
+| Pump housing seal kit | 00-274846-001 | $35–$65 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=hobart-am15-error-1-1) |
+| Motor contactor (24 V coil) | 00-771530-001 | $95–$165 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=hobart-am15-error-1-1) |
+| Overload relay | 00-771544-001 | $105–$185 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=hobart-am15-error-1-1) |
+| Wash arm assembly (upper) | 00-887580-001 | $175–$285 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=hobart-am15-error-1-1) |
 
 For any pump cover open, replace the housing seal. Hobart seals don't reliably reseat once compressed.
 

@@ -61,11 +61,11 @@ Daikin's U4 doesn't tell you *which* direction the link broke. The indoor could 
 
 | Part | OEM Number (typical) | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Outdoor inverter PCB (RX series) | 5009566-xx (varies by sub-model) | $385–$620 | [HVAC Parts Shop](https://www.hvacpartsshop.com?aff=PLACEHOLDER-HPS) / [Grainger](https://www.grainger.com?aff=PLACEHOLDER-GRAINGER) |
-| Indoor controller PCB (FTX wall mount) | 4017019-xx (varies) | $245–$380 | [HVAC Parts Shop](https://www.hvacpartsshop.com?aff=PLACEHOLDER-HPS) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| F1U fuse 3.15A 250V fast | 4017019 series glass fuse kit | $8–$18 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) / [Grainger](https://www.grainger.com?aff=PLACEHOLDER-GRAINGER) |
-| Communication cable, 18/2 twisted shielded, 100 ft | Honeywell Genesis 2110 | $65–$95 | [Home Depot](https://www.homedepot.com?aff=PLACEHOLDER-HD) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Line-set rubber grommet kit | Rectorseal Kit | $12–$22 | [Home Depot](https://www.homedepot.com?aff=PLACEHOLDER-HD) |
+| Outdoor inverter PCB (RX series) | 5009566-xx (varies by sub-model) | $385–$620 | [HVAC Parts Shop](https://www.hvacpartsshop.com) / [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=daikin-error-code-u4) |
+| Indoor controller PCB (FTX wall mount) | 4017019-xx (varies) | $245–$380 | [HVAC Parts Shop](https://www.hvacpartsshop.com) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| F1U fuse 3.15A 250V fast | 4017019 series glass fuse kit | $8–$18 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) / [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=daikin-error-code-u4) |
+| Communication cable, 18/2 twisted shielded, 100 ft | Honeywell Genesis 2110 | $65–$95 | [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=daikin-error-code-u4) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Line-set rubber grommet kit | Rectorseal Kit | $12–$22 | [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=daikin-error-code-u4) |
 
 Always order the gasket and harness clips with a PCB — Daikin board kits sometimes ship without and you need both for warranty.
 

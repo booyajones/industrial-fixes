@@ -67,14 +67,14 @@ Safety first: kill power at the boiler service switch and close the manual gas s
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Flame sensor (Alpine ALP) | Burnham 8236157U / U.S. Boiler 8236157 | $55-90 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
+| Flame sensor (Alpine ALP) | Burnham 8236157U / U.S. Boiler 8236157 | $55-90 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=burnham-error-code-2) |
 | Pilot/sensor assembly (7/8 Series) | Honeywell Q345A-1305 | $65-110 | [Supply House](https://www.supplyhouse.com), [Amazon](https://www.amazon.com) |
-| Hot surface igniter (Alpine, nitride) | Burnham 8236185U | $75-130 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
+| Hot surface igniter (Alpine, nitride) | Burnham 8236185U | $75-130 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=burnham-error-code-2) |
 | Spark electrode (7/8 Series IID) | Burnham 8236092U | $30-50 | [Supply House](https://www.supplyhouse.com), [Amazon](https://www.amazon.com) |
 | Ignition control module (S8610M) | Honeywell S8610M-3008 | $130-200 | [Supply House](https://www.supplyhouse.com), [Amazon](https://www.amazon.com) |
-| Sage 2.2/2.3 boiler control (Alpine) | Burnham 109173-01 | $580-780 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
-| Gas valve (Alpine modulating) | Honeywell VK4115V-1014 | $310-460 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
-| Condensate trap kit (Alpine) | Burnham 109094-01 | $45-75 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
+| Sage 2.2/2.3 boiler control (Alpine) | Burnham 109173-01 | $580-780 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=burnham-error-code-2) |
+| Gas valve (Alpine modulating) | Honeywell VK4115V-1014 | $310-460 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=burnham-error-code-2) |
+| Condensate trap kit (Alpine) | Burnham 109094-01 | $45-75 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=burnham-error-code-2) |
 
 Note: Alpine flame sensors are not interchangeable across the model range — ALP080 through ALP285 use 8236157U, but the larger ALP399-740 commercial models use a different sensor assembly. Always cross-check against your serial-tagged install manual.
 

@@ -32,7 +32,7 @@ After 17 years pulling vacuum on everything from 1.5-ton residential heat pumps 
 ### 1. JB Industries DV-285N Platinum — Best 10 CFM commercial pump
 
 **Brand + model:** JB Industries DV-285N Platinum 10 CFM Two-Stage Vacuum Pump
-**Approximate price:** $560 ([JB DV-285N on Amazon](https://amzn.to/PLACEHOLDER-DV285N), [JB DV-285N at TruTech Tools](https://trutechtools.com/PLACEHOLDER-DV285N))
+**Approximate price:** $560 ([JB DV-285N on Amazon](https://www.amazon.com/s?k=DV285N&tag=errorcodefixes-20), [JB DV-285N at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-vacuum-pump-for-refrigeration))
 
 - 10 CFM, two-stage
 - Pulls to 25 microns (advertised); typically reads 15–20 microns clean
@@ -48,7 +48,7 @@ After 17 years pulling vacuum on everything from 1.5-ton residential heat pumps 
 ### 2. Robinair 15500 — Best 5 CFM residential and light commercial pump
 
 **Brand + model:** Robinair 15500 5 CFM Two-Stage Vacuum Pump
-**Approximate price:** $400 ([Robinair 15500 on Amazon](https://amzn.to/PLACEHOLDER-15500), [Robinair 15500 at TruTech Tools](https://trutechtools.com/PLACEHOLDER-15500))
+**Approximate price:** $400 ([Robinair 15500 on Amazon](https://www.amazon.com/s?k=15500&tag=errorcodefixes-20), [Robinair 15500 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-vacuum-pump-for-refrigeration))
 
 - 5 CFM, two-stage
 - Pulls to 35 microns (advertised); typically reads 25–30 microns clean
@@ -64,7 +64,7 @@ After 17 years pulling vacuum on everything from 1.5-ton residential heat pumps 
 ### 3. Yellow Jacket 93600 SuperEvac Plus — Best with auto oil-back protection
 
 **Brand + model:** Yellow Jacket 93600 SuperEvac Plus 6 CFM Two-Stage Vacuum Pump
-**Approximate price:** $850 ([Yellow Jacket 93600 on Amazon](https://amzn.to/PLACEHOLDER-93600), [Yellow Jacket 93600 at TruTech Tools](https://trutechtools.com/PLACEHOLDER-93600))
+**Approximate price:** $850 ([Yellow Jacket 93600 on Amazon](https://www.amazon.com/s?k=93600&tag=errorcodefixes-20), [Yellow Jacket 93600 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-vacuum-pump-for-refrigeration))
 
 - 6 CFM, two-stage
 - Pulls to 15 microns

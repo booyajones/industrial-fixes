@@ -63,12 +63,12 @@ Five real-world causes drive the vast majority of Error 1 calls: clogged fill so
 
 | Part | OEM Number (typical) | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Fill solenoid valve assembly | 6685-002-01 series | $145–$245 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Float switch assembly | 6685-105-XX | $95–$165 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Solenoid valve inlet screen kit | 6685-XXX-XX | $15–$35 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Chemical injector check valve | 6685-330-01 | $25–$55 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Supply hose strainer | 6685-002-01 series | $25–$50 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Control board (Conserver XL2) | 6685-200-XX | $385–$585 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
+| Fill solenoid valve assembly | 6685-002-01 series | $145–$245 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=jackson-conserver-error-1) |
+| Float switch assembly | 6685-105-XX | $95–$165 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=jackson-conserver-error-1) |
+| Solenoid valve inlet screen kit | 6685-XXX-XX | $15–$35 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=jackson-conserver-error-1) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Chemical injector check valve | 6685-330-01 | $25–$55 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=jackson-conserver-error-1) |
+| Supply hose strainer | 6685-002-01 series | $25–$50 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=jackson-conserver-error-1) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Control board (Conserver XL2) | 6685-200-XX | $385–$585 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=jackson-conserver-error-1) |
 
 Order the rubber inlet washer with any solenoid valve work — Jackson valve washers harden over time and won't seal reliably on reinstall.
 

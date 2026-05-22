@@ -80,13 +80,13 @@ Standard CNC safety applies. Lock and tag the main disconnect, wait 5 minutes fo
 
 | Part | Part Number (form) | Typical Cost | Where to Buy |
 |---|---|---|---|
-| MR-BAT6V1 encoder battery pack | Mitsubishi MR-BAT6V1SET | $42–$78 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| MR-BAT6V1 encoder battery pack | Mitsubishi MR-BAT6V1SET | $42–$78 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mazak-alarm-1041), [Wolf Automation](https://www.wolfautomation.com), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
 | MR-BAT6V1SET aftermarket | various Asian clones | $14–$28 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), eBay (not recommended for production) |
 | NC memory backup coin cell (different alarm — 1043) | Maxell CR2032 or Renata CR2032 | $4–$10 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Battery clip / holder (if damaged) | Mazak drive PN per maintenance manual | $35–$90 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), Mazak direct |
-| Servo drive (MDS-DH) if hold-up cap failed | MDS-DH-V2-xx (size varies) | $4,800–$7,800 used | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), eBay (used CNC dealer) |
-| CAT-III multimeter for battery voltage | Fluke 87V | $480–$560 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| Cabinet interlock defeat key (if your shop uses one) | per maintenance manual | $25–$60 | Mazak direct, [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
+| Battery clip / holder (if damaged) | Mazak drive PN per maintenance manual | $35–$90 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mazak-alarm-1041), Mazak direct |
+| Servo drive (MDS-DH) if hold-up cap failed | MDS-DH-V2-xx (size varies) | $4,800–$7,800 used | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mazak-alarm-1041), eBay (used CNC dealer) |
+| CAT-III multimeter for battery voltage | Fluke 87V | $480–$560 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mazak-alarm-1041) |
+| Cabinet interlock defeat key (if your shop uses one) | per maintenance manual | $25–$60 | Mazak direct, [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mazak-alarm-1041) |
 | Replacement battery harness, drive-to-clip | Mazak PN per parts list | $70–$140 | Mazak direct, eBay |
 
 ## When to call a CNC service engineer

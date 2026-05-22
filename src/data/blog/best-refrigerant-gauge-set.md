@@ -32,7 +32,7 @@ I've spent 17 years in supermarket refrigeration and light commercial HVAC, and 
 ### 1. Testo 550i — Best digital manifold for modern refrigerants
 
 **Brand + model:** Testo 550i Smart Refrigeration Manifold Kit (with wireless temp probes)
-**Approximate price:** $850 ([Testo 550i on Amazon](https://amzn.to/PLACEHOLDER-T550i), [Testo 550i at TruTech Tools](https://trutechtools.com/PLACEHOLDER-T550i))
+**Approximate price:** $850 ([Testo 550i on Amazon](https://www.amazon.com/s?k=T550i&tag=errorcodefixes-20), [Testo 550i at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-refrigerant-gauge-set))
 
 - 60+ refrigerant PT tables built in, including R-454B, R-32, R-290, R-744
 - 870 PSI burst rating, 580 PSI working pressure
@@ -47,7 +47,7 @@ I've spent 17 years in supermarket refrigeration and light commercial HVAC, and 
 ### 2. Yellow Jacket 49967 Brute II — Best analog manifold
 
 **Brand + model:** Yellow Jacket 49967 Brute II 4-Valve Test and Charging Manifold
-**Approximate price:** $290 ([Yellow Jacket 49967 on Amazon](https://amzn.to/PLACEHOLDER-49967), [Yellow Jacket 49967 at Grainger](https://grainger.com/PLACEHOLDER-49967))
+**Approximate price:** $290 ([Yellow Jacket 49967 on Amazon](https://www.amazon.com/s?k=49967&tag=errorcodefixes-20), [Yellow Jacket 49967 at Grainger](https://grainger.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-refrigerant-gauge-set))
 
 - 4-valve manifold (separate liquid charging port)
 - Scales for R-22, R-134a, R-404A, R-410A
@@ -62,7 +62,7 @@ I've spent 17 years in supermarket refrigeration and light commercial HVAC, and 
 ### 3. Fieldpiece SMAN360 — Best for techs running the full Fieldpiece ecosystem
 
 **Brand + model:** Fieldpiece SMAN360 Digital 3-Port Refrigeration Manifold
-**Approximate price:** $620 ([Fieldpiece SMAN360 on Amazon](https://amzn.to/PLACEHOLDER-SMAN360), [Fieldpiece SMAN360 at TruTech Tools](https://trutechtools.com/PLACEHOLDER-SMAN360))
+**Approximate price:** $620 ([Fieldpiece SMAN360 on Amazon](https://www.amazon.com/s?k=SMAN360&tag=errorcodefixes-20), [Fieldpiece SMAN360 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-refrigerant-gauge-set))
 
 - 45+ refrigerants in the PT library, including R-454B and R-32
 - Integrated micron gauge (down to 50 microns)

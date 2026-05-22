@@ -63,13 +63,13 @@ Before you start: shut off power at the furnace switch, shut off gas at the gas 
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Pressure switch (90% AFUE, single, 0.40 WC) | Payne HK06WC084 | $45-70 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Pressure switch (80% AFUE, single, 0.30 WC) | Payne HK06WB175 | $40-65 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Pressure switch (90% AFUE, dual) | Payne HK06NB124 | $65-95 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Silicone hose (1/4 inch, high-temp) | Generic | $5-10/ft | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com) |
-| Integrated furnace control | Payne HK42FZ020 | $235-340 | [RepairClinic](https://www.repairclinic.com), [Lowes](https://www.lowes.com) |
-| Inducer assembly | Payne 320725-756 | $290-410 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| 24V transformer (40VA) | Payne HT01BD110 | $55-85 | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com) |
+| Pressure switch (90% AFUE, single, 0.40 WC) | Payne HK06WC084 | $45-70 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=payne-error-code-31), [Amazon](https://www.amazon.com) |
+| Pressure switch (80% AFUE, single, 0.30 WC) | Payne HK06WB175 | $40-65 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=payne-error-code-31), [Amazon](https://www.amazon.com) |
+| Pressure switch (90% AFUE, dual) | Payne HK06NB124 | $65-95 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=payne-error-code-31), [Amazon](https://www.amazon.com) |
+| Silicone hose (1/4 inch, high-temp) | Generic | $5-10/ft | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=payne-error-code-31) |
+| Integrated furnace control | Payne HK42FZ020 | $235-340 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=payne-error-code-31), [Lowes](https://www.lowes.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=payne-error-code-31) |
+| Inducer assembly | Payne 320725-756 | $290-410 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=payne-error-code-31), [Amazon](https://www.amazon.com) |
+| 24V transformer (40VA) | Payne HT01BD110 | $55-85 | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=payne-error-code-31) |
 
 Carrier/Bryant/Payne cross-reference: every Payne part above interchanges with Carrier and Bryant equivalents one-to-one. Carrier sells these with HC-prefix stickers, Bryant with HK-prefix, Payne with HK-prefix — same physical parts. If your supply house has the Carrier number in stock and the Payne number on backorder, the Carrier part drops in without modification.
 

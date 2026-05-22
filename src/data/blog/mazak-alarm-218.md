@@ -82,13 +82,13 @@ Mazak sells spindle motors as complete assemblies under maker part numbers in th
 
 | Part | Part Number (form) | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Spindle oil chiller, Habor 200V class | HBO-200-D-AS-FN (Habor cross) | $2,800–$3,800 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
+| Spindle oil chiller, Habor 200V class | HBO-200-D-AS-FN (Habor cross) | $2,800–$3,800 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mazak-alarm-218), [Wolf Automation](https://www.wolfautomation.com) |
 | Spindle motor thermistor cable assy (Matrix) | MZ-cable PN from spindle parts list | $480–$720 | Mazak direct, eBay used |
 | Motor fan kit (rear fan, Integrex i-200) | MZ-fan PN per maintenance manual | $310–$450 | Mazak direct, eBay |
 | Motor fan filter foam (cut to fit) | generic foam, 1/4" thick | $18–$30 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
 | Replacement spindle motor (Quick Turn Nexus 250) | MZ-spindle assy PN | $9,500–$14,000 | Mazak direct, eBay (used, often pulled) |
-| Thermistor harness pins/contacts | Tyco MR-#### crimp | $4–$12 each | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| CAT-III multimeter for thermistor R-check | Fluke 87V | $480–$560 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
+| Thermistor harness pins/contacts | Tyco MR-#### crimp | $4–$12 each | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mazak-alarm-218), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| CAT-III multimeter for thermistor R-check | Fluke 87V | $480–$560 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mazak-alarm-218) |
 | Inspection scope for spindle bore | Vividia VA-980 | $390–$540 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
 
 ## When to call a CNC service engineer

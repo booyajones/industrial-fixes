@@ -82,16 +82,16 @@ Before you start: lock and tag the disconnect, verify zero voltage at the drive 
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Altivar ATV320 1.5kW 480V | Schneider ATV320U15N4C | $585-885 | [AutomationDirect](https://www.automationdirect.com), [Galco](https://www.galco.com) |
-| Altivar ATV320 5.5kW 480V | Schneider ATV320U55N4C | $1,485-1,985 | [AutomationDirect](https://www.automationdirect.com), [Galco](https://www.galco.com) |
-| Altivar ATV630 22kW 480V | Schneider ATV630D22N4 | $4,200-5,800 | [Galco](https://www.galco.com), [AutomationDirect](https://www.automationdirect.com) |
-| Altivar ATV930 55kW 480V (closed loop) | Schneider ATV930D55N4 | $9,800-13,500 | [Galco](https://www.galco.com) |
-| Graphic display terminal (HMI) | Schneider VW3A1101 | $385-485 | [AutomationDirect](https://www.automationdirect.com), [Galco](https://www.galco.com) |
+| Altivar ATV320 1.5kW 480V | Schneider ATV320U15N4C | $585-885 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=schneider-altivar-fault-code-ocf), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=schneider-altivar-fault-code-ocf) |
+| Altivar ATV320 5.5kW 480V | Schneider ATV320U55N4C | $1,485-1,985 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=schneider-altivar-fault-code-ocf), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=schneider-altivar-fault-code-ocf) |
+| Altivar ATV630 22kW 480V | Schneider ATV630D22N4 | $4,200-5,800 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=schneider-altivar-fault-code-ocf), [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=schneider-altivar-fault-code-ocf) |
+| Altivar ATV930 55kW 480V (closed loop) | Schneider ATV930D55N4 | $9,800-13,500 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=schneider-altivar-fault-code-ocf) |
+| Graphic display terminal (HMI) | Schneider VW3A1101 | $385-485 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=schneider-altivar-fault-code-ocf), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=schneider-altivar-fault-code-ocf) |
 | SoMove software (free) | Schneider | Free | Schneider download |
-| Bluetooth dongle for SoMove | Schneider VW3A8114 | $185-245 | [Galco](https://www.galco.com), [Amazon](https://www.amazon.com) |
-| Motor cable, shielded VFD-rated (per ft) | Belden 29504 / similar | $5-12/ft | [AutomationDirect](https://www.automationdirect.com) |
-| Megger insulation tester (500V) | Fluke 1577 | $385-485 | [Amazon](https://www.amazon.com), [Galco](https://www.galco.com) |
-| Phoenix Contact torque screwdriver | Phoenix 1212597 | $185-235 | [Amazon](https://www.amazon.com), [Galco](https://www.galco.com) |
+| Bluetooth dongle for SoMove | Schneider VW3A8114 | $185-245 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=schneider-altivar-fault-code-ocf), [Amazon](https://www.amazon.com) |
+| Motor cable, shielded VFD-rated (per ft) | Belden 29504 / similar | $5-12/ft | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=schneider-altivar-fault-code-ocf) |
+| Megger insulation tester (500V) | Fluke 1577 | $385-485 | [Amazon](https://www.amazon.com), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=schneider-altivar-fault-code-ocf) |
+| Phoenix Contact torque screwdriver | Phoenix 1212597 | $185-235 | [Amazon](https://www.amazon.com), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=schneider-altivar-fault-code-ocf) |
 
 Altivar drives are sold complete units only — Schneider does not field-replace power modules, control boards, or capacitors as separate parts. Refurb drives are widely available through Galco at 40-60% of new pricing.
 

@@ -67,14 +67,14 @@ Safety first: kill power at the outdoor disconnect. Wait 5+ minutes for capacito
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Outdoor coil temperature sensor (Evolution) | Bryant/Carrier HH79NZ039 | $48-75 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Outdoor ambient sensor | Bryant/Carrier HH79NZ040 | $42-65 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Sensor mounting clip | Bryant LA01ZF021 / generic stainless clip | $4-10 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Sensor harness (286BNV) | Bryant HK42NK301 | $48-85 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Thermal compound (small tube) | Arctic Silver 5 / generic | $8-15 | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com) |
-| Outdoor control board (286BNV Evolution) | Bryant HK35AA001 | $720-1100 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Evolution Connex thermostat | Bryant SYSTXBBECC01-B | $480-720 | [RepairClinic](https://www.repairclinic.com), [Home Depot](https://www.homedepot.com) |
-| Service panel screws (replacement set) | Bryant LA01ZF005 | $4-10 | [RepairClinic](https://www.repairclinic.com), [Lowes](https://www.lowes.com) |
+| Outdoor coil temperature sensor (Evolution) | Bryant/Carrier HH79NZ039 | $48-75 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=bryant-heat-pump-error-code-21), [Amazon](https://www.amazon.com) |
+| Outdoor ambient sensor | Bryant/Carrier HH79NZ040 | $42-65 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=bryant-heat-pump-error-code-21), [Amazon](https://www.amazon.com) |
+| Sensor mounting clip | Bryant LA01ZF021 / generic stainless clip | $4-10 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=bryant-heat-pump-error-code-21), [Amazon](https://www.amazon.com) |
+| Sensor harness (286BNV) | Bryant HK42NK301 | $48-85 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=bryant-heat-pump-error-code-21), [Amazon](https://www.amazon.com) |
+| Thermal compound (small tube) | Arctic Silver 5 / generic | $8-15 | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=bryant-heat-pump-error-code-21) |
+| Outdoor control board (286BNV Evolution) | Bryant HK35AA001 | $720-1100 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=bryant-heat-pump-error-code-21), [Amazon](https://www.amazon.com) |
+| Evolution Connex thermostat | Bryant SYSTXBBECC01-B | $480-720 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=bryant-heat-pump-error-code-21), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=bryant-heat-pump-error-code-21) |
+| Service panel screws (replacement set) | Bryant LA01ZF005 | $4-10 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=bryant-heat-pump-error-code-21), [Lowes](https://www.lowes.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=bryant-heat-pump-error-code-21) |
 
 Note: Bryant Evolution and Carrier Infinity sensors are interchangeable at the part level — HH79NZ039 is the same physical part in either brand's catalog. Buy whichever box says HH79NZ039 and you're good.
 

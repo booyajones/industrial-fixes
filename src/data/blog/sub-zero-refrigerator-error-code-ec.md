@@ -69,14 +69,14 @@ Before you start: schedule with Sub-Zero factory service if the unit is under wa
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Evap fan motor (BLDC, 600-series) | Sub-Zero 4204050 | $385-485 | [RepairClinic](https://www.repairclinic.com), authorized dealer |
-| Evap fan motor (BLDC, 700-series) | Sub-Zero 4204795 | $425-525 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com), authorized dealer |
-| Condenser fan motor | Sub-Zero 4200750 | $345-425 | [RepairClinic](https://www.repairclinic.com), authorized dealer |
-| Defrost thermostat | Sub-Zero 7012336 | $65-95 | [RepairClinic](https://www.repairclinic.com), [Home Depot](https://www.homedepot.com) |
-| Defrost heater | Sub-Zero 7012337 | $125-185 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| UCB / main control board (700-series) | Sub-Zero 7027148 | $685-925 | [RepairClinic](https://www.repairclinic.com), authorized dealer |
-| Thermistor (NTC sensor) | Sub-Zero 4200320 | $85-145 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Fan harness | Sub-Zero model-specific | $65-125 | [RepairClinic](https://www.repairclinic.com), authorized dealer |
+| Evap fan motor (BLDC, 600-series) | Sub-Zero 4204050 | $385-485 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=sub-zero-refrigerator-error-code-ec), authorized dealer |
+| Evap fan motor (BLDC, 700-series) | Sub-Zero 4204795 | $425-525 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=sub-zero-refrigerator-error-code-ec), [Amazon](https://www.amazon.com), authorized dealer |
+| Condenser fan motor | Sub-Zero 4200750 | $345-425 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=sub-zero-refrigerator-error-code-ec), authorized dealer |
+| Defrost thermostat | Sub-Zero 7012336 | $65-95 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=sub-zero-refrigerator-error-code-ec), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=sub-zero-refrigerator-error-code-ec) |
+| Defrost heater | Sub-Zero 7012337 | $125-185 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=sub-zero-refrigerator-error-code-ec), [Amazon](https://www.amazon.com) |
+| UCB / main control board (700-series) | Sub-Zero 7027148 | $685-925 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=sub-zero-refrigerator-error-code-ec), authorized dealer |
+| Thermistor (NTC sensor) | Sub-Zero 4200320 | $85-145 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=sub-zero-refrigerator-error-code-ec), [Amazon](https://www.amazon.com) |
+| Fan harness | Sub-Zero model-specific | $65-125 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=sub-zero-refrigerator-error-code-ec), authorized dealer |
 
 These prices reflect Sub-Zero's premium positioning. Compare with $85-145 for an equivalent LG BLDC evap fan — Sub-Zero charges 3-4x for the brand's reliability premium and limited dealer network.
 

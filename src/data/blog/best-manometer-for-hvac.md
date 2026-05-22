@@ -32,7 +32,7 @@ After 14 years setting gas pressure, measuring static pressure across coils and 
 ### 1. Fieldpiece SDMN6 — Best for residential and light-commercial HVAC
 
 **Brand + model:** Fieldpiece SDMN6 Dual Port Digital Manometer
-**Approximate price:** $290 ([Fieldpiece SDMN6 on Amazon](https://amzn.to/PLACEHOLDER-SDMN6), [Fieldpiece SDMN6 at TruTech Tools](https://trutechtools.com/PLACEHOLDER-SDMN6))
+**Approximate price:** $290 ([Fieldpiece SDMN6 on Amazon](https://www.amazon.com/s?k=SDMN6&tag=errorcodefixes-20), [Fieldpiece SDMN6 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-manometer-for-hvac))
 
 - Dual port differential, ±60 inWC range, 0.01 inWC resolution
 - Reads inWC, PSI, mBar, kPa, mmHg
@@ -47,7 +47,7 @@ After 14 years setting gas pressure, measuring static pressure across coils and 
 ### 2. UEi EM151 — Best budget pick under $150
 
 **Brand + model:** UEi EM151 Differential Manometer
-**Approximate price:** $135 ([UEi EM151 on Amazon](https://amzn.to/PLACEHOLDER-EM151), [UEi EM151 at TruTech Tools](https://trutechtools.com/PLACEHOLDER-EM151))
+**Approximate price:** $135 ([UEi EM151 on Amazon](https://www.amazon.com/s?k=EM151&tag=errorcodefixes-20), [UEi EM151 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-manometer-for-hvac))
 
 - Dual port differential, ±60 inWC range, 0.01 inWC resolution
 - Reads inWC, PSI, mBar, kPa
@@ -62,7 +62,7 @@ After 14 years setting gas pressure, measuring static pressure across coils and 
 ### 3. Yellow Jacket 78060 — Best for techs already running Yellow Jacket gauges
 
 **Brand + model:** Yellow Jacket 78060 Manometer
-**Approximate price:** $235 ([Yellow Jacket 78060 on Amazon](https://amzn.to/PLACEHOLDER-78060), [Yellow Jacket 78060 at TruTech Tools](https://trutechtools.com/PLACEHOLDER-78060))
+**Approximate price:** $235 ([Yellow Jacket 78060 on Amazon](https://www.amazon.com/s?k=78060&tag=errorcodefixes-20), [Yellow Jacket 78060 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-manometer-for-hvac))
 
 - Dual port, ±60 inWC range, 0.01 inWC resolution
 - Reads in inWC, PSI, mBar

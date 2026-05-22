@@ -89,15 +89,15 @@ The ACS580's bus capacitor bank, pre-charge resistor, and pre-charge relay are n
 
 | Part | Catalog Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| ACS580-01, 480V, 4kW (5HP) | ACS580-01-09A5-4 | $1,650–$1,950 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| ACS580-01, 480V, 7.5kW (10HP) | ACS580-01-017A-4 | $2,250–$2,650 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| ACS580-01, 480V, 18.5kW (25HP) | ACS580-01-038A-4 | $3,800–$4,500 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| ACS580-01, 480V, 37kW (50HP) | ACS580-01-073A-4 | $5,600–$6,800 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| ABB CHK-A1 line reactor 3% 11kW | 68878601 | $425–$565 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| ACS-AP-W assistant control panel | 3AUA0000094568 | $385–$485 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| Bussmann FRS-R-30 input fuse (480V) | FRS-R-30 | $14–$22 each | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Fluke 1748 power quality logger | FLUKE-1748/BASIC | $7,400–$8,800 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Fluke 87V industrial multimeter | FLUKE-87-5 | $480–$580 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
+| ACS580-01, 480V, 4kW (5HP) | ACS580-01-09A5-4 | $1,650–$1,950 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=abb-acs580-fault-3220), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=abb-acs580-fault-3220) |
+| ACS580-01, 480V, 7.5kW (10HP) | ACS580-01-017A-4 | $2,250–$2,650 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=abb-acs580-fault-3220), [Wolf Automation](https://www.wolfautomation.com) |
+| ACS580-01, 480V, 18.5kW (25HP) | ACS580-01-038A-4 | $3,800–$4,500 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=abb-acs580-fault-3220), [Wolf Automation](https://www.wolfautomation.com) |
+| ACS580-01, 480V, 37kW (50HP) | ACS580-01-073A-4 | $5,600–$6,800 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=abb-acs580-fault-3220), [Wolf Automation](https://www.wolfautomation.com) |
+| ABB CHK-A1 line reactor 3% 11kW | 68878601 | $425–$565 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=abb-acs580-fault-3220), [Wolf Automation](https://www.wolfautomation.com) |
+| ACS-AP-W assistant control panel | 3AUA0000094568 | $385–$485 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=abb-acs580-fault-3220) |
+| Bussmann FRS-R-30 input fuse (480V) | FRS-R-30 | $14–$22 each | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=abb-acs580-fault-3220), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Fluke 1748 power quality logger | FLUKE-1748/BASIC | $7,400–$8,800 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=abb-acs580-fault-3220), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Fluke 87V industrial multimeter | FLUKE-87-5 | $480–$580 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=abb-acs580-fault-3220) |
 | Wera 7440 torque screwdriver 1.2–3.0 Nm | Wera 05074722001 | $185–$240 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
 
 ## When to call a controls engineer

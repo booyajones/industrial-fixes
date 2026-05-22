@@ -67,12 +67,12 @@ Before you start: turn off power at the furnace switch and gas at the gas cock. 
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Primary limit switch (200°F auto-reset) | ICP HQ1003779HW | $35-55 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Rollout switch (manual reset, 350°F) | ICP HQ1011875HW | $25-40 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Auxiliary limit (blower deck) | ICP HQ1008420TW | $30-50 | [RepairClinic](https://www.repairclinic.com) |
-| PSC blower motor 1/2 HP | ICP HC45TQ118 | $245-340 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Blower run capacitor 7.5µF/370V | Generic | $18-32 | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com) |
-| Integrated furnace control (SmartLight) | ICP 1183620 | $185-265 | [RepairClinic](https://www.repairclinic.com) |
+| Primary limit switch (200°F auto-reset) | ICP HQ1003779HW | $35-55 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=tempstar-flash-code-4), [Amazon](https://www.amazon.com) |
+| Rollout switch (manual reset, 350°F) | ICP HQ1011875HW | $25-40 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=tempstar-flash-code-4), [Amazon](https://www.amazon.com) |
+| Auxiliary limit (blower deck) | ICP HQ1008420TW | $30-50 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=tempstar-flash-code-4) |
+| PSC blower motor 1/2 HP | ICP HC45TQ118 | $245-340 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=tempstar-flash-code-4), [Amazon](https://www.amazon.com) |
+| Blower run capacitor 7.5µF/370V | Generic | $18-32 | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=tempstar-flash-code-4) |
+| Integrated furnace control (SmartLight) | ICP 1183620 | $185-265 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=tempstar-flash-code-4) |
 | Digital manometer | Dwyer 475-1-FM | $185-235 | [Amazon](https://www.amazon.com) |
 | Temperature probe set | Fluke 80PK | $85-130 | [Amazon](https://www.amazon.com) |
 

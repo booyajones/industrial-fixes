@@ -63,14 +63,14 @@ Before you start: shut off both hot and cold supplies at the wall, disconnect po
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Inlet screen set (hot + cold) | GE WH08X10036 | $8-15 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Water inlet valve (dual coil, GFW series) | GE WH13X10054 | $65-115 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Water inlet valve (GFW850 newer) | GE WH13X28235 | $85-145 | [RepairClinic](https://www.repairclinic.com), [Home Depot](https://www.homedepot.com) |
-| Pressure transducer (analog) | GE WH12X10499 | $45-85 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Pressure / air hose | GE WH08X10036 | $12-25 | [RepairClinic](https://www.repairclinic.com) |
-| Stainless braided fill hose set | Generic / Camco | $15-25 | [Home Depot](https://www.homedepot.com), [Amazon](https://www.amazon.com) |
-| Main control board (Front-load) | GE WH18X-series (model-specific) | $245-485 | [RepairClinic](https://www.repairclinic.com) |
-| Drain hose | GE WH41X10208 | $25-45 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
+| Inlet screen set (hot + cold) | GE WH08X10036 | $8-15 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ge-washer-error-code-e1), [Amazon](https://www.amazon.com) |
+| Water inlet valve (dual coil, GFW series) | GE WH13X10054 | $65-115 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ge-washer-error-code-e1), [Amazon](https://www.amazon.com) |
+| Water inlet valve (GFW850 newer) | GE WH13X28235 | $85-145 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ge-washer-error-code-e1), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ge-washer-error-code-e1) |
+| Pressure transducer (analog) | GE WH12X10499 | $45-85 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ge-washer-error-code-e1), [Amazon](https://www.amazon.com) |
+| Pressure / air hose | GE WH08X10036 | $12-25 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ge-washer-error-code-e1) |
+| Stainless braided fill hose set | Generic / Camco | $15-25 | [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ge-washer-error-code-e1), [Amazon](https://www.amazon.com) |
+| Main control board (Front-load) | GE WH18X-series (model-specific) | $245-485 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ge-washer-error-code-e1) |
+| Drain hose | GE WH41X10208 | $25-45 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ge-washer-error-code-e1), [Amazon](https://www.amazon.com) |
 
 GE part numbers in the WH (Washer, Horizontal/front-load) series are typically model-specific. WT (Washer, Top-load) series part numbers don't cross over. Confirm by full model number.
 

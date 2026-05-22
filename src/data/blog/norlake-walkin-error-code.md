@@ -80,16 +80,16 @@ Before you start: walk-ins are 208V/240V single or 3-phase. Lock and tag the dis
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Defrost terminator (snap-disc, 55°F) | Norlake 102577 | $45-85 | [PartsTown](https://www.partstown.com), [RepairClinic](https://www.repairclinic.com) |
-| Defrost heater (2000W, 240V coil) | Norlake 050103 | $145-225 | [PartsTown](https://www.partstown.com), [Amazon](https://www.amazon.com) |
-| Defrost contactor (30A, 2-pole) | Norlake 050106 | $85-145 | [PartsTown](https://www.partstown.com), [RepairClinic](https://www.repairclinic.com) |
-| Heatcraft Beacon II controller | Heatcraft 25304101 | $445-685 | [PartsTown](https://www.partstown.com) |
-| KE2 Evap Efficiency controller | KE2 Therm 20226 | $385-585 | [PartsTown](https://www.partstown.com), [RepairClinic](https://www.repairclinic.com) |
-| EC fan motor (evap, 10" blade) | Norlake 050125 | $185-285 | [PartsTown](https://www.partstown.com), [Amazon](https://www.amazon.com) |
-| NTC temperature sensor (10kΩ) | Norlake 050130 | $35-65 | [PartsTown](https://www.partstown.com) |
-| Drain heat tape (per foot, 12W/ft) | Generic | $5-10/ft | [Home Depot](https://www.homedepot.com), [Amazon](https://www.amazon.com) |
-| Drain pan heater | Norlake 050135 | $115-185 | [PartsTown](https://www.partstown.com), [RepairClinic](https://www.repairclinic.com) |
-| Interior door release | Norlake 100330 | $185-285 | [PartsTown](https://www.partstown.com) |
+| Defrost terminator (snap-disc, 55°F) | Norlake 102577 | $45-85 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=norlake-walkin-error-code), [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=norlake-walkin-error-code) |
+| Defrost heater (2000W, 240V coil) | Norlake 050103 | $145-225 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=norlake-walkin-error-code), [Amazon](https://www.amazon.com) |
+| Defrost contactor (30A, 2-pole) | Norlake 050106 | $85-145 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=norlake-walkin-error-code), [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=norlake-walkin-error-code) |
+| Heatcraft Beacon II controller | Heatcraft 25304101 | $445-685 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=norlake-walkin-error-code) |
+| KE2 Evap Efficiency controller | KE2 Therm 20226 | $385-585 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=norlake-walkin-error-code), [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=norlake-walkin-error-code) |
+| EC fan motor (evap, 10" blade) | Norlake 050125 | $185-285 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=norlake-walkin-error-code), [Amazon](https://www.amazon.com) |
+| NTC temperature sensor (10kΩ) | Norlake 050130 | $35-65 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=norlake-walkin-error-code) |
+| Drain heat tape (per foot, 12W/ft) | Generic | $5-10/ft | [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=norlake-walkin-error-code), [Amazon](https://www.amazon.com) |
+| Drain pan heater | Norlake 050135 | $115-185 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=norlake-walkin-error-code), [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=norlake-walkin-error-code) |
+| Interior door release | Norlake 100330 | $185-285 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=norlake-walkin-error-code) |
 
 PartsTown carries Norlake parts and the OEM Heatcraft Beacon and KE2 controllers that ship in modern Norlake builds.
 

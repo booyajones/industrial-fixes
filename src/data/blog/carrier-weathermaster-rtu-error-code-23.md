@@ -72,16 +72,16 @@ Before you start: turn off the unit at the disconnect (typically a 60-100A 480V 
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Low-pressure switch (R-410A, auto-reset 50 psi) | Carrier HK02ZA111 | $145-225 | [Johnstone](https://www.johnstonesupply.com), [Grainger](https://www.grainger.com) |
-| High-pressure switch (R-410A, manual reset 600 psi) | Carrier HK02ZA112 | $185-265 | [Johnstone](https://www.johnstonesupply.com), [Grainger](https://www.grainger.com) |
-| Compressor contactor (3-pole, 40A, 480V) | Carrier HC67EZ027 | $185-285 | [Johnstone](https://www.johnstonesupply.com), [Grainger](https://www.grainger.com) |
-| TXV (R-410A, 5-ton) | Carrier 33ZCFCR001 | $385-485 | [Johnstone](https://www.johnstonesupply.com), [Grainger](https://www.grainger.com) |
-| Compressor (Copeland Scroll 5-ton, R-410A) | Copeland ZP67KCE-PFV | $1,485-1,985 | [Johnstone](https://www.johnstonesupply.com), [Grainger](https://www.grainger.com) |
-| Comfortlink II RTU controller | Carrier CESO110057 | $785-985 | [Johnstone](https://www.johnstonesupply.com) |
-| Indoor blower motor (3 HP, 460V, 3-phase) | Carrier HC52BE462 | $585-885 | [Johnstone](https://www.johnstonesupply.com), [Grainger](https://www.grainger.com) |
-| Manifold gauge set (R-410A/R-22) | Yellow Jacket 49967 | $185-285 | [Amazon](https://www.amazon.com), [Grainger](https://www.grainger.com) |
-| Electronic leak detector | Inficon TLD-1 | $585-785 | [Grainger](https://www.grainger.com), [Amazon](https://www.amazon.com) |
-| Recovery machine (R-410A capable) | Yellow Jacket Recover-XLT | $885-1,285 | [Grainger](https://www.grainger.com), [Johnstone](https://www.johnstonesupply.com) |
+| Low-pressure switch (R-410A, auto-reset 50 psi) | Carrier HK02ZA111 | $145-225 | [Johnstone](https://www.johnstonesupply.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=carrier-weathermaster-rtu-error-code-23), [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=carrier-weathermaster-rtu-error-code-23) |
+| High-pressure switch (R-410A, manual reset 600 psi) | Carrier HK02ZA112 | $185-265 | [Johnstone](https://www.johnstonesupply.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=carrier-weathermaster-rtu-error-code-23), [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=carrier-weathermaster-rtu-error-code-23) |
+| Compressor contactor (3-pole, 40A, 480V) | Carrier HC67EZ027 | $185-285 | [Johnstone](https://www.johnstonesupply.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=carrier-weathermaster-rtu-error-code-23), [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=carrier-weathermaster-rtu-error-code-23) |
+| TXV (R-410A, 5-ton) | Carrier 33ZCFCR001 | $385-485 | [Johnstone](https://www.johnstonesupply.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=carrier-weathermaster-rtu-error-code-23), [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=carrier-weathermaster-rtu-error-code-23) |
+| Compressor (Copeland Scroll 5-ton, R-410A) | Copeland ZP67KCE-PFV | $1,485-1,985 | [Johnstone](https://www.johnstonesupply.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=carrier-weathermaster-rtu-error-code-23), [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=carrier-weathermaster-rtu-error-code-23) |
+| Comfortlink II RTU controller | Carrier CESO110057 | $785-985 | [Johnstone](https://www.johnstonesupply.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=carrier-weathermaster-rtu-error-code-23) |
+| Indoor blower motor (3 HP, 460V, 3-phase) | Carrier HC52BE462 | $585-885 | [Johnstone](https://www.johnstonesupply.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=carrier-weathermaster-rtu-error-code-23), [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=carrier-weathermaster-rtu-error-code-23) |
+| Manifold gauge set (R-410A/R-22) | Yellow Jacket 49967 | $185-285 | [Amazon](https://www.amazon.com), [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=carrier-weathermaster-rtu-error-code-23) |
+| Electronic leak detector | Inficon TLD-1 | $585-785 | [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=carrier-weathermaster-rtu-error-code-23), [Amazon](https://www.amazon.com) |
+| Recovery machine (R-410A capable) | Yellow Jacket Recover-XLT | $885-1,285 | [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=carrier-weathermaster-rtu-error-code-23), [Johnstone](https://www.johnstonesupply.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=carrier-weathermaster-rtu-error-code-23) |
 
 Commercial HVAC parts distribution is dominated by Johnstone Supply, Grainger, and Carrier's own distribution. AutomationDirect carries the controls and contactors but not the sealed-system parts.
 

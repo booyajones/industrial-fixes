@@ -81,13 +81,13 @@ SINAMICS G120 Power Modules and Control Units are sold separately. Identify your
 
 | Part | Order Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| PM240-2 Power Module, 7.5kW, 400V | 6SL3210-1PE22-8UL0 | $1,200–$1,600 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| PM240-2 Power Module, 15kW, 400V | 6SL3210-1PE24-5UL0 | $1,900–$2,400 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| CU240E-2 PN Control Unit | 6SL3244-0BB12-1PA1 | $480–$640 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| BOP-2 Basic Operator Panel | 6SL3255-0AA00-4CA1 | $185–$245 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| IOP-2 Intelligent Operator Panel | 6SL3255-0AA00-4JA2 | $480–$620 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| Output choke (3.5%, frame FSC) | 6SL3203-0CD22-2AA0 | $380–$520 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| dV/dt filter for long motor cables | 6SL3000-2DE38-4AA0 | $1,400–$1,900 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
+| PM240-2 Power Module, 7.5kW, 400V | 6SL3210-1PE22-8UL0 | $1,200–$1,600 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30001-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30001-fault) |
+| PM240-2 Power Module, 15kW, 400V | 6SL3210-1PE24-5UL0 | $1,900–$2,400 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30001-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| CU240E-2 PN Control Unit | 6SL3244-0BB12-1PA1 | $480–$640 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30001-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30001-fault) |
+| BOP-2 Basic Operator Panel | 6SL3255-0AA00-4CA1 | $185–$245 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30001-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30001-fault) |
+| IOP-2 Intelligent Operator Panel | 6SL3255-0AA00-4JA2 | $480–$620 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30001-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30001-fault) |
+| Output choke (3.5%, frame FSC) | 6SL3203-0CD22-2AA0 | $380–$520 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30001-fault) |
+| dV/dt filter for long motor cables | 6SL3000-2DE38-4AA0 | $1,400–$1,900 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30001-fault), [Wolf Automation](https://www.wolfautomation.com) |
 
 ## When to call Siemens or a controls engineer
 

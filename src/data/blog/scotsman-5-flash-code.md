@@ -59,10 +59,10 @@ This is one of the few Scotsman codes where the failure is almost always electri
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |------|------------|--------------|--------------|
-| High-side pressure transducer (Prodigy Plus) | 12-2920-31 | $145-$215 | [Parts Town](https://partstown.com) |
-| Pressure transducer harness | 12-2935-01 | $58-$92 | [Parts Town](https://partstown.com) |
-| Transducer Schrader core kit | 02-3415-01 | $12-$22 | [Parts Town](https://partstown.com) |
-| Control board (Prodigy Plus) | 12-2838-21 | $295-$420 | [Parts Town](https://partstown.com) |
+| High-side pressure transducer (Prodigy Plus) | 12-2920-31 | $145-$215 | [Parts Town](https://partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-5-flash-code) |
+| Pressure transducer harness | 12-2935-01 | $58-$92 | [Parts Town](https://partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-5-flash-code) |
+| Transducer Schrader core kit | 02-3415-01 | $12-$22 | [Parts Town](https://partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-5-flash-code) |
+| Control board (Prodigy Plus) | 12-2838-21 | $295-$420 | [Parts Town](https://partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-5-flash-code) |
 | Schrader core depressor tool | — | $14-$24 | [Amazon](https://amazon.com) |
 | Multimeter with min/max (Fluke 117) | — | $189-$220 | [Amazon](https://amazon.com) |
 | Back-probe lead set | — | $32-$48 | [Amazon](https://amazon.com) |

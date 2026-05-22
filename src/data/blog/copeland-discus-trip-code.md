@@ -110,13 +110,13 @@ CoreSense codes point at *symptoms*, not root causes. A 1-flash high discharge f
 
 | Part | OEM Number (typical) | Typical Cost | Where to Buy |
 |---|---|---|---|
-| CoreSense Diagnostics module | 998-0500-XX | $245–$385 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| CoreSense Protection module | 998-0511-XX | $185–$285 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Discharge line thermistor | 998-0500 family | $65–$115 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Oil pressure differential switch | 998-0500-XX | $145–$245 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| 3-phase contactor (rack duty) | varies by amp rating | $145–$385 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| POE refrigeration oil (1 qt) | Mobil EAL Arctic 22CC | $35–$65 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Rack oil filter cartridge | 998-0500 family | $85–$165 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
+| CoreSense Diagnostics module | 998-0500-XX | $245–$385 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=copeland-discus-trip-code) |
+| CoreSense Protection module | 998-0511-XX | $185–$285 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=copeland-discus-trip-code) |
+| Discharge line thermistor | 998-0500 family | $65–$115 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=copeland-discus-trip-code) |
+| Oil pressure differential switch | 998-0500-XX | $145–$245 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=copeland-discus-trip-code) |
+| 3-phase contactor (rack duty) | varies by amp rating | $145–$385 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=copeland-discus-trip-code) |
+| POE refrigeration oil (1 qt) | Mobil EAL Arctic 22CC | $35–$65 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=copeland-discus-trip-code) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Rack oil filter cartridge | 998-0500 family | $85–$165 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=copeland-discus-trip-code) |
 
 For any compressor work, replace the suction filter-drier and the oil filter — both are normal service items at compressor change-out.
 

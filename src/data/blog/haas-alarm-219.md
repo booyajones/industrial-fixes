@@ -95,15 +95,15 @@ Standard CNC safety: lock and tag the main disconnect, wait 2 minutes for cabine
 | X-axis brushless servo motor, VF-2 NGC | Haas 32-0820X (form) | $1,800–$2,800 | Haas Factory Outlet (HFO), eBay (used) |
 | X-axis encoder (rear-of-motor mount, NGC) | Haas 32-XXXX (form) | $580–$980 | HFO |
 | Encoder cover gasket | Haas 22-XXXX (form, machine-specific) | $20–$45 | HFO |
-| X-axis ballscrew spindle-side bearing pack | Haas 22-XXXX (form) | $180–$380 | HFO, [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) (cross-ref to NSK or NTN if possible) |
+| X-axis ballscrew spindle-side bearing pack | Haas 22-XXXX (form) | $180–$380 | HFO, [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=haas-alarm-219) (cross-ref to NSK or NTN if possible) |
 | X-axis ballscrew assembly (full) | Haas 22-XXXX (form) | $2,400–$4,200 | HFO, eBay (used) |
 | X-axis way wipers (pair) | Haas 22-7290 (form) | $48–$95 | HFO, eBay |
 | X-axis way cover | Haas 22-XXXX (form, model-specific) | $280–$520 | HFO, eBay |
 | X-axis encoder cable | Haas 32-XXXX (form) | $310–$580 | HFO |
 | X-axis servo drive (NGC) | Haas 32-XXXX (form) | $2,800–$4,500 | HFO, eBay (used) |
-| Way oil, Vactra No. 2 | Mobil Vactra No. 2, 1 gallon | $40–$65 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| Dial indicator + magnetic base (for backlash test) | Mitutoyo 2046S, base 7011S | $145–$240 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| Bearing puller/installer kit | OTC or generic | $80–$220 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
+| Way oil, Vactra No. 2 | Mobil Vactra No. 2, 1 gallon | $40–$65 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=haas-alarm-219) |
+| Dial indicator + magnetic base (for backlash test) | Mitutoyo 2046S, base 7011S | $145–$240 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=haas-alarm-219) |
+| Bearing puller/installer kit | OTC or generic | $80–$220 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=haas-alarm-219) |
 
 ## When to call a CNC service engineer
 

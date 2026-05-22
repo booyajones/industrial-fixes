@@ -84,13 +84,13 @@ This guide covers the five most common Meiko/Ecolab codes you'll encounter in no
 
 | Part | OEM Number Pattern | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Wash heater element (M-iQ B) | Meiko 9544-XXXX-XX | $485–$785 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Booster heater element | Meiko 9544-XXXX-XX | $385–$585 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Fill solenoid valve | Meiko 9544-XXXX-XX | $185–$285 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Drain pump assembly | Meiko 9544-XXXX-XX | $345–$525 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Door safety switch | Meiko 9544-XXXX-XX | $95–$165 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Wash tank thermistor | Meiko 9544-XXXX-XX | $65–$115 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Delimer (1 gallon) | Meiko Active or Ecolab equivalent | $35–$65 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) / Ecolab |
+| Wash heater element (M-iQ B) | Meiko 9544-XXXX-XX | $485–$785 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ecolab-meiko-error-code) |
+| Booster heater element | Meiko 9544-XXXX-XX | $385–$585 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ecolab-meiko-error-code) |
+| Fill solenoid valve | Meiko 9544-XXXX-XX | $185–$285 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ecolab-meiko-error-code) |
+| Drain pump assembly | Meiko 9544-XXXX-XX | $345–$525 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ecolab-meiko-error-code) |
+| Door safety switch | Meiko 9544-XXXX-XX | $95–$165 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ecolab-meiko-error-code) |
+| Wash tank thermistor | Meiko 9544-XXXX-XX | $65–$115 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ecolab-meiko-error-code) |
+| Delimer (1 gallon) | Meiko Active or Ecolab equivalent | $35–$65 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ecolab-meiko-error-code) / Ecolab |
 
 Parts are typically Meiko-branded even on Ecolab-serviced machines; cross-reference with Ecolab service tech support if you need pricing through that channel.
 

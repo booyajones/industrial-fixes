@@ -62,12 +62,12 @@ Before you start: shut off power at the disconnect and gas at the valve. Wait fi
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Hot surface igniter (Norton-style) | Trane IGN00065 / 23W51 | $35-65 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Flame sensor rod | Trane SEN01114 | $20-40 | [RepairClinic](https://www.repairclinic.com), [Home Depot](https://www.homedepot.com) |
-| Gas valve (White-Rodgers 36J24) | Trane VAL06642 / 36J24-614 | $130-220 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Integrated furnace control | Trane CNT06077 / D341396P01 | $220-360 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Burner assembly (per burner) | Trane BNR01049 | $30-55 each | [RepairClinic](https://www.repairclinic.com) |
-| HSI installation kit (universal) | White-Rodgers 767A-373 | $35-50 | [Amazon](https://www.amazon.com), [Lowes](https://www.lowes.com) |
+| Hot surface igniter (Norton-style) | Trane IGN00065 / 23W51 | $35-65 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-2-blink-error-code), [Amazon](https://www.amazon.com) |
+| Flame sensor rod | Trane SEN01114 | $20-40 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-2-blink-error-code), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-2-blink-error-code) |
+| Gas valve (White-Rodgers 36J24) | Trane VAL06642 / 36J24-614 | $130-220 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-2-blink-error-code), [Amazon](https://www.amazon.com) |
+| Integrated furnace control | Trane CNT06077 / D341396P01 | $220-360 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-2-blink-error-code), [Amazon](https://www.amazon.com) |
+| Burner assembly (per burner) | Trane BNR01049 | $30-55 each | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-2-blink-error-code) |
+| HSI installation kit (universal) | White-Rodgers 767A-373 | $35-50 | [Amazon](https://www.amazon.com), [Lowes](https://www.lowes.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-2-blink-error-code) |
 
 Brand-share note: American Standard furnaces of the same era use identical control boards, igniters, and gas valves. The part number prefix may differ (e.g., AS uses ACONT vs Trane TCONT) but the components are the same. Check the original sticker.
 

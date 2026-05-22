@@ -62,12 +62,12 @@ Other causes parallel the standard fill-fault list: clogged solenoid inlet scree
 
 | Part | OEM Number (typical) | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Water level probe assembly | Champion 6685-PROBE-XX | $85–$155 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Fill solenoid valve | Champion 0512127 | $145–$245 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Drain solenoid valve | Champion 0512128 | $165–$265 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Solenoid inlet screen | universal 1/2 FPT | $8–$20 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Control board (UH130) | Champion 0511125 | $385–$585 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Probe cleaning kit | Champion delimer + Scotchbrite | $25–$50 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
+| Water level probe assembly | Champion 6685-PROBE-XX | $85–$155 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=champion-uh130-error-code) |
+| Fill solenoid valve | Champion 0512127 | $145–$245 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=champion-uh130-error-code) |
+| Drain solenoid valve | Champion 0512128 | $165–$265 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=champion-uh130-error-code) |
+| Solenoid inlet screen | universal 1/2 FPT | $8–$20 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=champion-uh130-error-code) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Control board (UH130) | Champion 0511125 | $385–$585 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=champion-uh130-error-code) |
+| Probe cleaning kit | Champion delimer + Scotchbrite | $25–$50 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=champion-uh130-error-code) |
 
 Order replacement probes with new sealing washers — the through-tank o-ring on the probe stem doesn't reliably reseat.
 

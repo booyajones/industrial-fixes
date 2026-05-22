@@ -92,15 +92,15 @@ Lock and tag the input contactor. Wait the FC-302 capacitor discharge time — D
 
 | Part | Catalog Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| FC-302, 480V, 5.5kW (7.5HP) | 131F0036 | $1,950–$2,350 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| FC-302, 480V, 15kW (20HP) | 131F0061 | $3,200–$3,800 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| FC-302, 480V, 30kW (40HP) | 131F0076 | $4,800–$5,800 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| Brake resistor, 22 ohm, 1200W for 11 kW drive | 175U3007 (Danfoss MCE 101) | $385–$520 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| Brake resistor, 16 ohm, 2400W for 22 kW drive | 175U3019 | $625–$795 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| External brake module, large frames | 130B1287 (MCE 152) | $1,450–$1,750 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| LCP 102 graphical display | 130B1107 | $385–$485 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| Fluke 1748 power quality logger | FLUKE-1748/BASIC | $7,400–$8,800 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Fluke 87V industrial multimeter | FLUKE-87-5 | $480–$580 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
+| FC-302, 480V, 5.5kW (7.5HP) | 131F0036 | $1,950–$2,350 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=danfoss-fc302-alarm-13), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=danfoss-fc302-alarm-13) |
+| FC-302, 480V, 15kW (20HP) | 131F0061 | $3,200–$3,800 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=danfoss-fc302-alarm-13), [Wolf Automation](https://www.wolfautomation.com) |
+| FC-302, 480V, 30kW (40HP) | 131F0076 | $4,800–$5,800 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=danfoss-fc302-alarm-13), [Wolf Automation](https://www.wolfautomation.com) |
+| Brake resistor, 22 ohm, 1200W for 11 kW drive | 175U3007 (Danfoss MCE 101) | $385–$520 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=danfoss-fc302-alarm-13), [Wolf Automation](https://www.wolfautomation.com) |
+| Brake resistor, 16 ohm, 2400W for 22 kW drive | 175U3019 | $625–$795 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=danfoss-fc302-alarm-13) |
+| External brake module, large frames | 130B1287 (MCE 152) | $1,450–$1,750 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=danfoss-fc302-alarm-13), [Wolf Automation](https://www.wolfautomation.com) |
+| LCP 102 graphical display | 130B1107 | $385–$485 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=danfoss-fc302-alarm-13), [Wolf Automation](https://www.wolfautomation.com) |
+| Fluke 1748 power quality logger | FLUKE-1748/BASIC | $7,400–$8,800 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=danfoss-fc302-alarm-13), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Fluke 87V industrial multimeter | FLUKE-87-5 | $480–$580 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=danfoss-fc302-alarm-13) |
 
 The FC-302 brake chopper IGBT and DC link capacitors are not field-serviceable. A drive with a confirmed brake-chopper or capacitor failure is replaced as a complete unit. Verify warranty status via the production label before ordering.
 

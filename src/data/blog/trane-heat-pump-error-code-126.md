@@ -65,15 +65,15 @@ Safety first: kill power at the outdoor disconnect. Variable-speed inverters ret
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Low-pressure switch (R-410A, XV20i) | Trane SWT03408 | $48-75 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Low-pressure switch (R-454B units) | Trane SWT03520 | $58-90 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| TXV (R-410A indoor coil, 3-ton) | Trane VAL07879 | $145-220 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Liquid line filter-drier (3/8") | Trane FLR01089 / Sporlan C-163-S | $35-58 | [RepairClinic](https://www.repairclinic.com), [Home Depot](https://www.homedepot.com) |
-| Indoor ECM blower module (variable speed) | Trane MOD03046 | $410-620 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Reversing valve solenoid coil | Trane CCY01083 | $55-95 | [RepairClinic](https://www.repairclinic.com), [Home Depot](https://www.homedepot.com) |
-| Outdoor control board (XV20i inverter) | Trane CNT05746 | $620-920 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Schrader core (R-410A/R-454B rated) | Trane SCR00121 / generic 1/4" SAE | $5-12 (pair) | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Air filter (4" pleated, MERV 11) | Honeywell FC100A1029 | $25-45 | [Home Depot](https://www.homedepot.com), [Lowes](https://www.lowes.com) |
+| Low-pressure switch (R-410A, XV20i) | Trane SWT03408 | $48-75 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-heat-pump-error-code-126), [Amazon](https://www.amazon.com) |
+| Low-pressure switch (R-454B units) | Trane SWT03520 | $58-90 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-heat-pump-error-code-126), [Amazon](https://www.amazon.com) |
+| TXV (R-410A indoor coil, 3-ton) | Trane VAL07879 | $145-220 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-heat-pump-error-code-126), [Amazon](https://www.amazon.com) |
+| Liquid line filter-drier (3/8") | Trane FLR01089 / Sporlan C-163-S | $35-58 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-heat-pump-error-code-126), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-heat-pump-error-code-126) |
+| Indoor ECM blower module (variable speed) | Trane MOD03046 | $410-620 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-heat-pump-error-code-126), [Amazon](https://www.amazon.com) |
+| Reversing valve solenoid coil | Trane CCY01083 | $55-95 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-heat-pump-error-code-126), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-heat-pump-error-code-126) |
+| Outdoor control board (XV20i inverter) | Trane CNT05746 | $620-920 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-heat-pump-error-code-126), [Amazon](https://www.amazon.com) |
+| Schrader core (R-410A/R-454B rated) | Trane SCR00121 / generic 1/4" SAE | $5-12 (pair) | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-heat-pump-error-code-126), [Amazon](https://www.amazon.com) |
+| Air filter (4" pleated, MERV 11) | Honeywell FC100A1029 | $25-45 | [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-heat-pump-error-code-126), [Lowes](https://www.lowes.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-heat-pump-error-code-126) |
 
 Note: Trane has been transitioning XV20i variants from R-410A to R-454B. Always check the rating plate before ordering — refrigerant-specific parts (pressure switches, TXVs, Schraders) differ. Crossing parts between refrigerants is not safe.
 

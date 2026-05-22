@@ -66,12 +66,12 @@ Before you start: shut off power at the furnace switch and gas at the gas cock. 
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Flame sensor (80% AFUE single stage) | Bryant HK06WB003 | $25-45 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Flame sensor (90% AFUE two stage) | Bryant HK06WB006 | $30-50 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Hot surface igniter (silicon nitride) | Bryant LH33ZS006 | $55-85 | [RepairClinic](https://www.repairclinic.com), [Home Depot](https://www.homedepot.com) |
-| Gas valve (24V natural gas, single stage) | Bryant EF32CW182 / Honeywell VR8205 | $185-265 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Gas valve (24V natural gas, two stage) | Bryant EF32CW190 / Honeywell VR9205 | $245-340 | [RepairClinic](https://www.repairclinic.com) |
-| Integrated furnace control | Bryant HK42FZ035 | $235-340 | [RepairClinic](https://www.repairclinic.com), [Home Depot](https://www.homedepot.com) |
+| Flame sensor (80% AFUE single stage) | Bryant HK06WB003 | $25-45 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=bryant-error-code-21), [Amazon](https://www.amazon.com) |
+| Flame sensor (90% AFUE two stage) | Bryant HK06WB006 | $30-50 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=bryant-error-code-21), [Amazon](https://www.amazon.com) |
+| Hot surface igniter (silicon nitride) | Bryant LH33ZS006 | $55-85 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=bryant-error-code-21), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=bryant-error-code-21) |
+| Gas valve (24V natural gas, single stage) | Bryant EF32CW182 / Honeywell VR8205 | $185-265 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=bryant-error-code-21), [Amazon](https://www.amazon.com) |
+| Gas valve (24V natural gas, two stage) | Bryant EF32CW190 / Honeywell VR9205 | $245-340 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=bryant-error-code-21) |
+| Integrated furnace control | Bryant HK42FZ035 | $235-340 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=bryant-error-code-21), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=bryant-error-code-21) |
 | Microamp DC meter | Fieldpiece SC480 | $145-185 | [Amazon](https://www.amazon.com) |
 
 The Bryant HK-prefix gas valves are Honeywell VR8205/VR9205-series gas valves with a Bryant sticker — if your supply house only stocks the Honeywell direct part, it drops in without modification and saves you 20-30%.

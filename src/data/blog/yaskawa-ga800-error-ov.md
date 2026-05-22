@@ -90,14 +90,14 @@ Lock and tag the upstream disconnect. Wait the GA800 capacitor discharge time �
 
 | Part | Catalog Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| GA800, 480V, 5HP (ND) | CIMR-GA4A0011FAA | $1,650–$1,950 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| GA800, 480V, 15HP (ND) | CIMR-GA4A0023FAA | $2,750–$3,200 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| GA800, 480V, 50HP (ND) | CIMR-GA4A0072FAA | $5,800–$6,900 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| Dynamic braking resistor, 16 ohm 1500W | Yaskawa CDBR-4022D | $385–$520 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| Dynamic braking resistor, 30 ohm 750W | Yaskawa LKEB-4015 | $295–$380 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| External DB unit (large frames) | CDBR-4045D | $1,250–$1,550 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| Fluke 1748 power quality logger | FLUKE-1748/BASIC | $7,400–$8,800 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Fluke 87V industrial multimeter | FLUKE-87-5 | $480–$580 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
+| GA800, 480V, 5HP (ND) | CIMR-GA4A0011FAA | $1,650–$1,950 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=yaskawa-ga800-error-ov), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=yaskawa-ga800-error-ov), [Wolf Automation](https://www.wolfautomation.com) |
+| GA800, 480V, 15HP (ND) | CIMR-GA4A0023FAA | $2,750–$3,200 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=yaskawa-ga800-error-ov), [Wolf Automation](https://www.wolfautomation.com) |
+| GA800, 480V, 50HP (ND) | CIMR-GA4A0072FAA | $5,800–$6,900 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=yaskawa-ga800-error-ov), [Wolf Automation](https://www.wolfautomation.com) |
+| Dynamic braking resistor, 16 ohm 1500W | Yaskawa CDBR-4022D | $385–$520 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=yaskawa-ga800-error-ov), [Wolf Automation](https://www.wolfautomation.com) |
+| Dynamic braking resistor, 30 ohm 750W | Yaskawa LKEB-4015 | $295–$380 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=yaskawa-ga800-error-ov) |
+| External DB unit (large frames) | CDBR-4045D | $1,250–$1,550 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=yaskawa-ga800-error-ov), [Wolf Automation](https://www.wolfautomation.com) |
+| Fluke 1748 power quality logger | FLUKE-1748/BASIC | $7,400–$8,800 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=yaskawa-ga800-error-ov), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Fluke 87V industrial multimeter | FLUKE-87-5 | $480–$580 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=yaskawa-ga800-error-ov) |
 
 The GA800 chopper IGBT and bus capacitors are not field-replaceable. If the chopper is dead the drive is replaced. Yaskawa offers a 24-month manufacturer warranty (verify ship date via the serial number) before considering replacement out-of-warranty.
 

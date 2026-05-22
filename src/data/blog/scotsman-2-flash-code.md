@@ -57,12 +57,12 @@ The 2-flash is not the failure itself — it's a symptom that the evaporator nev
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |------|------------|--------------|--------------|
-| Condenser air filter (Prodigy) | 02-3927-01 | $18-$32 | [Parts Town](https://partstown.com) |
-| Float valve assembly | 12-2917-01 | $52-$78 | [Parts Town](https://partstown.com) |
-| Water distributor tube (C0322) | 02-3879-01 | $42-$68 | [Parts Town](https://partstown.com) |
-| Harvest thermostat | 11-0408-21 | $48-$72 | [Parts Town](https://partstown.com) |
-| TXV (C0530/C0630 air-cooled R-404A) | 12-2849-01 | $145-$210 | [Parts Town](https://partstown.com) |
-| Water pump | 12-2588-21 | $185-$260 | [Parts Town](https://partstown.com) |
+| Condenser air filter (Prodigy) | 02-3927-01 | $18-$32 | [Parts Town](https://partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-2-flash-code) |
+| Float valve assembly | 12-2917-01 | $52-$78 | [Parts Town](https://partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-2-flash-code) |
+| Water distributor tube (C0322) | 02-3879-01 | $42-$68 | [Parts Town](https://partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-2-flash-code) |
+| Harvest thermostat | 11-0408-21 | $48-$72 | [Parts Town](https://partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-2-flash-code) |
+| TXV (C0530/C0630 air-cooled R-404A) | 12-2849-01 | $145-$210 | [Parts Town](https://partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-2-flash-code) |
+| Water pump | 12-2588-21 | $185-$260 | [Parts Town](https://partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-2-flash-code) |
 | Nickel-safe scale remover (1 gal) | — | $24-$38 | [Amazon](https://amazon.com) |
 | Fin comb set | — | $14-$22 | [Amazon](https://amazon.com) |
 

@@ -80,14 +80,14 @@ Before you touch anything: lock and tag the disconnect, wait 5 minutes for DC li
 
 | Part | Order Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Bussmann FRS-R-30 input fuse (480V) | FRS-R-30 | $14–$22 each | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Bussmann FRS-R-60 input fuse (480V) | FRS-R-60 | $22–$32 each | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| PM240-2 Power Module, 7.5kW, 400V | 6SL3210-1PE22-8UL0 | $1,200–$1,600 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| CU240E-2 PN Control Unit | 6SL3244-0BB12-1PA1 | $480–$640 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| Square D QO-series 30A 3P breaker | QO330 | $120–$165 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| Phoenix Contact terminal torque screwdriver | 1212597 | $190–$240 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| FLIR thermal camera (entry pro) | FLIR E54 | $2,800–$3,400 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| Fluke 1748 power quality logger | FLUKE-1748/BASIC | $7,400–$8,800 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Bussmann FRS-R-30 input fuse (480V) | FRS-R-30 | $14–$22 each | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30011-fault), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Bussmann FRS-R-60 input fuse (480V) | FRS-R-60 | $22–$32 each | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30011-fault), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| PM240-2 Power Module, 7.5kW, 400V | 6SL3210-1PE22-8UL0 | $1,200–$1,600 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30011-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30011-fault) |
+| CU240E-2 PN Control Unit | 6SL3244-0BB12-1PA1 | $480–$640 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30011-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30011-fault) |
+| Square D QO-series 30A 3P breaker | QO330 | $120–$165 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30011-fault) |
+| Phoenix Contact terminal torque screwdriver | 1212597 | $190–$240 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30011-fault) |
+| FLIR thermal camera (entry pro) | FLIR E54 | $2,800–$3,400 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30011-fault) |
+| Fluke 1748 power quality logger | FLUKE-1748/BASIC | $7,400–$8,800 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30011-fault), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
 
 ## When to call Siemens, an electrician, or a controls engineer
 

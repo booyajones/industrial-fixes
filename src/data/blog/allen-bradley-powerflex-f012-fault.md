@@ -84,15 +84,15 @@ Safety paramount on F012: the drive may have a shorted IGBT, which means the bus
 
 | Part | Catalog Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| PowerFlex 525, 480V, 5HP | 25B-D010N104 | $1,150–$1,400 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| PowerFlex 525, 480V, 10HP | 25B-D017N104 | $1,800–$2,100 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| PowerFlex 525, 480V, 20HP | 25B-D030N104 | $2,600–$3,100 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| PowerFlex 753, 480V, 25HP | 20F11ND022AA0NNNNN | $3,800–$4,800 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| Replacement motor, 10HP TEFC 480V inverter-duty | Baldor ECP3770T-4 or equiv | $1,400–$1,900 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI) |
-| VFD-rated motor cable, 4-conductor 10AWG | Belden 29504 or equiv | $4.50–$7/ft | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| 500V megohmmeter | Fluke 1587 FC | $720–$880 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Klein digital multimeter w/ diode | MM700 | $145–$195 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI) |
-| Cable lug crimping tool | Burndy Y750 | $390–$520 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| PowerFlex 525, 480V, 5HP | 25B-D010N104 | $1,150–$1,400 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f012-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f012-fault) |
+| PowerFlex 525, 480V, 10HP | 25B-D017N104 | $1,800–$2,100 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f012-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f012-fault) |
+| PowerFlex 525, 480V, 20HP | 25B-D030N104 | $2,600–$3,100 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f012-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| PowerFlex 753, 480V, 25HP | 20F11ND022AA0NNNNN | $3,800–$4,800 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f012-fault) |
+| Replacement motor, 10HP TEFC 480V inverter-duty | Baldor ECP3770T-4 or equiv | $1,400–$1,900 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f012-fault), [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f012-fault) |
+| VFD-rated motor cable, 4-conductor 10AWG | Belden 29504 or equiv | $4.50–$7/ft | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f012-fault), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| 500V megohmmeter | Fluke 1587 FC | $720–$880 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f012-fault), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Klein digital multimeter w/ diode | MM700 | $145–$195 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f012-fault) |
+| Cable lug crimping tool | Burndy Y750 | $390–$520 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f012-fault), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
 
 PowerFlex 525 power stages are not separately replaceable — if the diode check shows a shorted IGBT, the whole drive is replaced. PowerFlex 753 and 755 have field-replaceable power modules on frame 3 and larger (catalog 20-PF7-PWR-xxxx), but the swap requires a controls engineer and Rockwell-trained tech for warranty.
 

@@ -100,14 +100,14 @@ Before opening the drive cabinet: lock and tag the upstream disconnect. Wait the
 
 | Part | Catalog Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| PowerFlex 753, 480V, 5HP | 20F1ANC011AA0NNNNN | $2,200–$2,650 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| PowerFlex 753, 480V, 15HP | 20F1ANC022AA0NNNNN | $3,200–$3,800 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| PowerFlex 755, 480V, 10HP | 20G11NC015AA0NNNNN | $4,500–$5,400 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| PowerFlex 755, 480V, 25HP | 20G11NC037AA0NNNNN | $6,200–$7,500 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| Main Control Cassette (standard) | 20-750-S1 | $850–$1,050 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| Main Control Cassette (advanced) | 20-750-S3 | $1,250–$1,550 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| Auxiliary Power Supply Module | 20-750-APS | $385–$485 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| EtherNet/IP Dual-Port Option | 20-750-ENETR | $625–$795 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
+| PowerFlex 753, 480V, 5HP | 20F1ANC011AA0NNNNN | $2,200–$2,650 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-753-control-sync-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-753-control-sync-fault) |
+| PowerFlex 753, 480V, 15HP | 20F1ANC022AA0NNNNN | $3,200–$3,800 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-753-control-sync-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| PowerFlex 755, 480V, 10HP | 20G11NC015AA0NNNNN | $4,500–$5,400 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-753-control-sync-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| PowerFlex 755, 480V, 25HP | 20G11NC037AA0NNNNN | $6,200–$7,500 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-753-control-sync-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| Main Control Cassette (standard) | 20-750-S1 | $850–$1,050 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-753-control-sync-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| Main Control Cassette (advanced) | 20-750-S3 | $1,250–$1,550 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-753-control-sync-fault) |
+| Auxiliary Power Supply Module | 20-750-APS | $385–$485 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-753-control-sync-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| EtherNet/IP Dual-Port Option | 20-750-ENETR | $625–$795 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-753-control-sync-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-753-control-sync-fault) |
 | DeoxIT Gold G100L pen | DeoxIT G100L-2DB | $22–$35 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
 | Wiha torque screwdriver 0.5–2.0 Nm | Wiha 28502 | $215–$285 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
 

@@ -83,15 +83,15 @@ Before you start: shut off gas at the oven's dedicated gas cock, disconnect powe
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Hot surface igniter (HSI) | Vulcan 00-855236 | $65-115 | [PartsTown](https://www.partstown.com), [RepairClinic](https://www.repairclinic.com) |
-| Flame sensor rod | Vulcan 00-498247 | $45-85 | [PartsTown](https://www.partstown.com), [Amazon](https://www.amazon.com) |
-| Ignition control module (Fenwal/Honeywell) | Vulcan 00-855244 | $245-385 | [PartsTown](https://www.partstown.com), [RepairClinic](https://www.repairclinic.com) |
-| Gas valve (natural gas, sealed) | Vulcan 00-498246 | $385-585 | [PartsTown](https://www.partstown.com), [RepairClinic](https://www.repairclinic.com) |
-| Convection blower motor (1/2 HP) | Vulcan 00-855127 | $445-625 | [PartsTown](https://www.partstown.com), [Amazon](https://www.amazon.com) |
-| High-limit switch (manual reset, 600°F) | Vulcan 00-855249 | $85-145 | [PartsTown](https://www.partstown.com), [RepairClinic](https://www.repairclinic.com) |
-| Door switch (heavy-duty) | Vulcan 00-855251 | $65-115 | [PartsTown](https://www.partstown.com), [Amazon](https://www.amazon.com) |
-| Oven temperature sensor (RTD) | Vulcan 00-855248 | $125-185 | [PartsTown](https://www.partstown.com), [RepairClinic](https://www.repairclinic.com) |
-| Cooling fan motor | Vulcan 00-855254 | $145-225 | [PartsTown](https://www.partstown.com), [Amazon](https://www.amazon.com) |
+| Hot surface igniter (HSI) | Vulcan 00-855236 | $65-115 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=vulcan-convection-oven-error-code), [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=vulcan-convection-oven-error-code) |
+| Flame sensor rod | Vulcan 00-498247 | $45-85 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=vulcan-convection-oven-error-code), [Amazon](https://www.amazon.com) |
+| Ignition control module (Fenwal/Honeywell) | Vulcan 00-855244 | $245-385 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=vulcan-convection-oven-error-code), [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=vulcan-convection-oven-error-code) |
+| Gas valve (natural gas, sealed) | Vulcan 00-498246 | $385-585 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=vulcan-convection-oven-error-code), [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=vulcan-convection-oven-error-code) |
+| Convection blower motor (1/2 HP) | Vulcan 00-855127 | $445-625 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=vulcan-convection-oven-error-code), [Amazon](https://www.amazon.com) |
+| High-limit switch (manual reset, 600°F) | Vulcan 00-855249 | $85-145 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=vulcan-convection-oven-error-code), [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=vulcan-convection-oven-error-code) |
+| Door switch (heavy-duty) | Vulcan 00-855251 | $65-115 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=vulcan-convection-oven-error-code), [Amazon](https://www.amazon.com) |
+| Oven temperature sensor (RTD) | Vulcan 00-855248 | $125-185 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=vulcan-convection-oven-error-code), [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=vulcan-convection-oven-error-code) |
+| Cooling fan motor | Vulcan 00-855254 | $145-225 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=vulcan-convection-oven-error-code), [Amazon](https://www.amazon.com) |
 | Digital manometer | Dwyer 475-1-FM | $185-235 | [Amazon](https://www.amazon.com) |
 
 PartsTown is the dominant commercial foodservice parts distributor and typically has the deepest Vulcan inventory at competitive pricing. Confirm part numbers against your serial-tag — Vulcan changes part numbers across model years and may have superseding numbers.

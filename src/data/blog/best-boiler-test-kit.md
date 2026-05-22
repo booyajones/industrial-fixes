@@ -31,7 +31,7 @@ After 16 years on hydronic boilers — cast iron through fire-tube condensing �
 ### 1. Combustion analyzer: Testo 320 — Best for residential and light-commercial boilers
 
 **Brand + model:** Testo 320 Combustion Analyzer
-**Approximate price:** $1,000 ([Testo 320 on Amazon](https://amzn.to/PLACEHOLDER-T320-BOILER), [Testo 320 at TruTech Tools](https://trutechtools.com/PLACEHOLDER-T320-BOILER))
+**Approximate price:** $1,000 ([Testo 320 on Amazon](https://www.amazon.com/s?k=T320+BOILER&tag=errorcodefixes-20), [Testo 320 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-boiler-test-kit))
 
 - O2 (±0.2 vol%), CO (±10 ppm or ±10%), stack temp, ambient temp
 - Auto-calculated CO2, efficiency, excess air
@@ -46,7 +46,7 @@ After 16 years on hydronic boilers — cast iron through fire-tube condensing �
 ### 2. Manometer: Fieldpiece SDMN6 — Best for gas and draft pressure
 
 **Brand + model:** Fieldpiece SDMN6 Dual Port Manometer
-**Approximate price:** $290 ([Fieldpiece SDMN6 on Amazon](https://amzn.to/PLACEHOLDER-SDMN6-BOILER), [Fieldpiece SDMN6 at TruTech Tools](https://trutechtools.com/PLACEHOLDER-SDMN6-BOILER))
+**Approximate price:** $290 ([Fieldpiece SDMN6 on Amazon](https://www.amazon.com/s?k=SDMN6+BOILER&tag=errorcodefixes-20), [Fieldpiece SDMN6 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-boiler-test-kit))
 
 - Dual port, ±60 inWC range, 0.01 inWC resolution
 - Reads inWC, PSI, mBar
@@ -60,7 +60,7 @@ See [best manometer for HVAC](/posts/best-manometer-for-hvac) for full breakdown
 ### 3. Thermometer: Fluke 561 IR + Contact Thermometer
 
 **Brand + model:** Fluke 561 HVACPro Infrared and Contact Thermometer
-**Approximate price:** $360 ([Fluke 561 on Amazon](https://amzn.to/PLACEHOLDER-561), [Fluke 561 at TruTech Tools](https://trutechtools.com/PLACEHOLDER-561))
+**Approximate price:** $360 ([Fluke 561 on Amazon](https://www.amazon.com/s?k=561&tag=errorcodefixes-20), [Fluke 561 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-boiler-test-kit))
 
 - IR with laser sighting, -40°F to 1022°F
 - K-type thermocouple input with included contact probe
@@ -74,7 +74,7 @@ See [best manometer for HVAC](/posts/best-manometer-for-hvac) for full breakdown
 ### 4. Water chemistry: LaMotte BoilerCare Test Kit
 
 **Brand + model:** LaMotte BoilerCare Hydronic Test Kit (or Hach AquaChek 5-in-1 strips for budget)
-**Approximate price:** $180 for LaMotte kit; $25 for Hach strips ([LaMotte BoilerCare on Amazon](https://amzn.to/PLACEHOLDER-LAMOTTE), [Hach AquaChek on Amazon](https://amzn.to/PLACEHOLDER-HACH))
+**Approximate price:** $180 for LaMotte kit; $25 for Hach strips ([LaMotte BoilerCare on Amazon](https://www.amazon.com/s?k=LAMOTTE&tag=errorcodefixes-20), [Hach AquaChek on Amazon](https://www.amazon.com/s?k=HACH&tag=errorcodefixes-20))
 
 - Tests pH (6.5–10.0), total hardness, total alkalinity, iron, copper
 - Drop count titration for accurate readings

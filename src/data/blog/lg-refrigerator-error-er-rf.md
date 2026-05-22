@@ -64,13 +64,13 @@ Before you start: unplug the refrigerator. Remove all food to a cooler. Allow 24
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Evap fan motor BLDC (French door, common) | LG 6500JB1011A | $85-145 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Evap fan motor BLDC (LFX larger French door) | LG 6549JB2001A | $115-175 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Evap fan motor (side-by-side, older) | LG 6500JB2002K | $75-125 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Defrost thermostat (bimetal) | LG 6615JB2002L | $25-45 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Defrost heater (sheath type) | LG 5300JJ2001A | $45-85 | [RepairClinic](https://www.repairclinic.com) |
-| Main control PCB (varies by model) | LG EBR-series (model-specific) | $185-385 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Fan motor connector / wiring harness | LG model-specific | $15-35 | [RepairClinic](https://www.repairclinic.com) |
+| Evap fan motor BLDC (French door, common) | LG 6500JB1011A | $85-145 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lg-refrigerator-error-er-rf), [Amazon](https://www.amazon.com) |
+| Evap fan motor BLDC (LFX larger French door) | LG 6549JB2001A | $115-175 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lg-refrigerator-error-er-rf), [Amazon](https://www.amazon.com) |
+| Evap fan motor (side-by-side, older) | LG 6500JB2002K | $75-125 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lg-refrigerator-error-er-rf), [Amazon](https://www.amazon.com) |
+| Defrost thermostat (bimetal) | LG 6615JB2002L | $25-45 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lg-refrigerator-error-er-rf), [Amazon](https://www.amazon.com) |
+| Defrost heater (sheath type) | LG 5300JJ2001A | $45-85 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lg-refrigerator-error-er-rf) |
+| Main control PCB (varies by model) | LG EBR-series (model-specific) | $185-385 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lg-refrigerator-error-er-rf), [Amazon](https://www.amazon.com) |
+| Fan motor connector / wiring harness | LG model-specific | $15-35 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lg-refrigerator-error-er-rf) |
 
 The LG 6500JB1011A is the most common French-door evap fan motor and fits LFX25974ST, LMXS27626S, LFXS28968S, LMXS30776S, and dozens of related models from 2013-2020. Confirm fit with your model number before ordering.
 

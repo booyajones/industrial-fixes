@@ -74,17 +74,17 @@ Before you start: walk-ins are 208V/240V single or 3-phase commercial circuits. 
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| EC fan motor (10" blade, common evap) | Master-Bilt 19-13494 | $185-285 | [PartsTown](https://www.partstown.com), [RepairClinic](https://www.repairclinic.com) |
-| EC fan motor (16" blade, large evap) | Master-Bilt 19-13497 | $245-385 | [PartsTown](https://www.partstown.com), [Amazon](https://www.amazon.com) |
-| NTC temperature sensor (10kΩ) | Master-Bilt 02-71499 | $35-65 | [PartsTown](https://www.partstown.com), [Amazon](https://www.amazon.com) |
-| Defrost heater (2000W coil heater) | Master-Bilt 19-13355 | $145-225 | [PartsTown](https://www.partstown.com), [RepairClinic](https://www.repairclinic.com) |
-| Defrost terminator (snap-disc, 55°F) | Master-Bilt 02-71500 | $45-85 | [PartsTown](https://www.partstown.com), [Amazon](https://www.amazon.com) |
-| KE2 Evap Efficiency controller | KE2 Therm 20226 | $385-585 | [PartsTown](https://www.partstown.com), [RepairClinic](https://www.repairclinic.com) |
-| Heatcraft Beacon II controller | Heatcraft 25304101 | $445-685 | [PartsTown](https://www.partstown.com) |
-| Compressor contactor (40A, 2-pole) | Master-Bilt 19-13501 | $85-145 | [PartsTown](https://www.partstown.com), [Amazon](https://www.amazon.com) |
-| Drain heat tape (per foot) | Generic 12W/ft | $5-10/ft | [Home Depot](https://www.homedepot.com), [Amazon](https://www.amazon.com) |
-| Interior door release | Master-Bilt 02-71235 | $185-285 | [PartsTown](https://www.partstown.com) |
-| CR2032 backup battery | Generic | $3-8 | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com) |
+| EC fan motor (10" blade, common evap) | Master-Bilt 19-13494 | $185-285 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=master-bilt-error-code), [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=master-bilt-error-code) |
+| EC fan motor (16" blade, large evap) | Master-Bilt 19-13497 | $245-385 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=master-bilt-error-code), [Amazon](https://www.amazon.com) |
+| NTC temperature sensor (10kΩ) | Master-Bilt 02-71499 | $35-65 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=master-bilt-error-code), [Amazon](https://www.amazon.com) |
+| Defrost heater (2000W coil heater) | Master-Bilt 19-13355 | $145-225 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=master-bilt-error-code), [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=master-bilt-error-code) |
+| Defrost terminator (snap-disc, 55°F) | Master-Bilt 02-71500 | $45-85 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=master-bilt-error-code), [Amazon](https://www.amazon.com) |
+| KE2 Evap Efficiency controller | KE2 Therm 20226 | $385-585 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=master-bilt-error-code), [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=master-bilt-error-code) |
+| Heatcraft Beacon II controller | Heatcraft 25304101 | $445-685 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=master-bilt-error-code) |
+| Compressor contactor (40A, 2-pole) | Master-Bilt 19-13501 | $85-145 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=master-bilt-error-code), [Amazon](https://www.amazon.com) |
+| Drain heat tape (per foot) | Generic 12W/ft | $5-10/ft | [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=master-bilt-error-code), [Amazon](https://www.amazon.com) |
+| Interior door release | Master-Bilt 02-71235 | $185-285 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=master-bilt-error-code) |
+| CR2032 backup battery | Generic | $3-8 | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=master-bilt-error-code) |
 
 PartsTown is the largest commercial refrigeration parts distributor and stocks the deepest Master-Bilt and KE2 inventory.
 

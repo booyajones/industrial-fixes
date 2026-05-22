@@ -75,16 +75,16 @@ Before you start: machine in OFF/manual mode, hydraulic pressure verified at zer
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Pallet clamp prox sensor (OMRON, M18) | Doosan EX-S29 / OMRON E2E-X10MD1 | $85-145 OEM, $40-65 OMRON direct | [Galco](https://www.galco.com), [AutomationDirect](https://www.automationdirect.com) |
-| Pallet rotation prox sensor (M12) | Doosan EX-S31 / OMRON E2E-X3D1 | $65-115 OEM, $30-55 direct | [Galco](https://www.galco.com), [AutomationDirect](https://www.automationdirect.com) |
-| Pallet locating pin (typical) | Doosan 5601-XXX-201 | $45-85 each | [Galco](https://www.galco.com), [eBay](https://www.ebay.com) |
-| Hydraulic pump (vane-type, common APC) | Doosan 5601-XXX-505 | $1,850-2,800 | [Galco](https://www.galco.com), [Wolf Automation](https://www.wolfautomation.com) |
-| Hydraulic cylinder seal kit (clamp) | Doosan 5601-XXX-401 | $145-225 | [Galco](https://www.galco.com), [Wolf Automation](https://www.wolfautomation.com) |
-| APC servo motor (Fanuc βi) | Fanuc A06B-0078-B403 | $1,200-2,200 refurb | [Galco](https://www.galco.com), [Wolf Automation](https://www.wolfautomation.com) |
-| Door interlock safety switch | Pilz PSEN cs1.13M / similar | $145-225 | [Galco](https://www.galco.com), [Amazon](https://www.amazon.com) |
-| Fanuc PMC backup battery | Fanuc A98L-0031-0028 | $45-85 | [Amazon](https://www.amazon.com), [Galco](https://www.galco.com) |
-| Pressure gauge (0-2000 psi, glycerin) | Generic | $35-65 | [Amazon](https://www.amazon.com), [Galco](https://www.galco.com) |
-| Hydraulic fluid (ISO 32 typical) | Mobil DTE 24 | $85-145 / 5 gal | [Amazon](https://www.amazon.com), [Galco](https://www.galco.com) |
+| Pallet clamp prox sensor (OMRON, M18) | Doosan EX-S29 / OMRON E2E-X10MD1 | $85-145 OEM, $40-65 OMRON direct | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=doosan-alarm-302), [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=doosan-alarm-302) |
+| Pallet rotation prox sensor (M12) | Doosan EX-S31 / OMRON E2E-X3D1 | $65-115 OEM, $30-55 direct | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=doosan-alarm-302), [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=doosan-alarm-302) |
+| Pallet locating pin (typical) | Doosan 5601-XXX-201 | $45-85 each | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=doosan-alarm-302), [eBay](https://www.ebay.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=doosan-alarm-302) |
+| Hydraulic pump (vane-type, common APC) | Doosan 5601-XXX-505 | $1,850-2,800 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=doosan-alarm-302), [Wolf Automation](https://www.wolfautomation.com) |
+| Hydraulic cylinder seal kit (clamp) | Doosan 5601-XXX-401 | $145-225 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=doosan-alarm-302), [Wolf Automation](https://www.wolfautomation.com) |
+| APC servo motor (Fanuc βi) | Fanuc A06B-0078-B403 | $1,200-2,200 refurb | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=doosan-alarm-302), [Wolf Automation](https://www.wolfautomation.com) |
+| Door interlock safety switch | Pilz PSEN cs1.13M / similar | $145-225 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=doosan-alarm-302), [Amazon](https://www.amazon.com) |
+| Fanuc PMC backup battery | Fanuc A98L-0031-0028 | $45-85 | [Amazon](https://www.amazon.com), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=doosan-alarm-302) |
+| Pressure gauge (0-2000 psi, glycerin) | Generic | $35-65 | [Amazon](https://www.amazon.com), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=doosan-alarm-302) |
+| Hydraulic fluid (ISO 32 typical) | Mobil DTE 24 | $85-145 / 5 gal | [Amazon](https://www.amazon.com), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=doosan-alarm-302) |
 
 For Fanuc-based parts (servos, batteries, PMC modules), refurb from Galco or Wolf Automation. For Doosan-specific mechanical parts, the Doosan/DN Solutions service network is often the only source.
 

@@ -72,17 +72,17 @@ Before you start: turn off the unit at the rooftop disconnect, lock and tag. Ver
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| High-pressure switch (R-410A, 600 psi, manual reset) | Trane SWT2476 | $145-225 | [Johnstone](https://www.johnstonesupply.com), [Grainger](https://www.grainger.com) |
-| High-pressure switch (R-22 legacy, 350 psi) | Trane SWT2477 | $115-185 | [Johnstone](https://www.johnstonesupply.com), [Grainger](https://www.grainger.com) |
-| Condenser fan motor (1/2 HP, 460V, 825 RPM) | Trane MOT09224 | $385-585 | [Johnstone](https://www.johnstonesupply.com), [Grainger](https://www.grainger.com) |
-| Condenser fan blade (24", 4-blade) | Trane FAN02256 | $145-225 | [Johnstone](https://www.johnstonesupply.com), [Grainger](https://www.grainger.com) |
-| Condenser fan run capacitor (7.5 µF, 440V) | Trane CPT00658 | $35-65 | [Grainger](https://www.grainger.com), [Amazon](https://www.amazon.com) |
-| Compressor contactor (3-pole, 50A, 480V) | Trane CTR03773 | $185-285 | [Johnstone](https://www.johnstonesupply.com), [Grainger](https://www.grainger.com) |
-| UCM 4 control module | Trane MOD03003 | $585-885 | [Johnstone](https://www.johnstonesupply.com) |
-| Tracer SC controller | Trane X13651531-01 | $1,485-1,985 | [Johnstone](https://www.johnstonesupply.com) |
-| Compressor (Copeland Scroll, 5-ton R-410A) | Copeland ZP67KCE-TFD | $1,585-2,085 | [Johnstone](https://www.johnstonesupply.com), [Grainger](https://www.grainger.com) |
-| Coil cleaner (non-acid, gallon) | NU-Calgon Evap Foam | $35-55 | [Grainger](https://www.grainger.com), [Amazon](https://www.amazon.com) |
-| Manifold gauge set (R-410A/R-22) | Yellow Jacket 49967 | $185-285 | [Amazon](https://www.amazon.com), [Grainger](https://www.grainger.com) |
+| High-pressure switch (R-410A, 600 psi, manual reset) | Trane SWT2476 | $145-225 | [Johnstone](https://www.johnstonesupply.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-voyager-rtu-error-code-31), [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-voyager-rtu-error-code-31) |
+| High-pressure switch (R-22 legacy, 350 psi) | Trane SWT2477 | $115-185 | [Johnstone](https://www.johnstonesupply.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-voyager-rtu-error-code-31), [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-voyager-rtu-error-code-31) |
+| Condenser fan motor (1/2 HP, 460V, 825 RPM) | Trane MOT09224 | $385-585 | [Johnstone](https://www.johnstonesupply.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-voyager-rtu-error-code-31), [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-voyager-rtu-error-code-31) |
+| Condenser fan blade (24", 4-blade) | Trane FAN02256 | $145-225 | [Johnstone](https://www.johnstonesupply.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-voyager-rtu-error-code-31), [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-voyager-rtu-error-code-31) |
+| Condenser fan run capacitor (7.5 µF, 440V) | Trane CPT00658 | $35-65 | [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-voyager-rtu-error-code-31), [Amazon](https://www.amazon.com) |
+| Compressor contactor (3-pole, 50A, 480V) | Trane CTR03773 | $185-285 | [Johnstone](https://www.johnstonesupply.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-voyager-rtu-error-code-31), [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-voyager-rtu-error-code-31) |
+| UCM 4 control module | Trane MOD03003 | $585-885 | [Johnstone](https://www.johnstonesupply.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-voyager-rtu-error-code-31) |
+| Tracer SC controller | Trane X13651531-01 | $1,485-1,985 | [Johnstone](https://www.johnstonesupply.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-voyager-rtu-error-code-31) |
+| Compressor (Copeland Scroll, 5-ton R-410A) | Copeland ZP67KCE-TFD | $1,585-2,085 | [Johnstone](https://www.johnstonesupply.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-voyager-rtu-error-code-31), [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-voyager-rtu-error-code-31) |
+| Coil cleaner (non-acid, gallon) | NU-Calgon Evap Foam | $35-55 | [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-voyager-rtu-error-code-31), [Amazon](https://www.amazon.com) |
+| Manifold gauge set (R-410A/R-22) | Yellow Jacket 49967 | $185-285 | [Amazon](https://www.amazon.com), [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-voyager-rtu-error-code-31) |
 
 Johnstone Supply and Grainger are primary commercial HVAC distributors. AutomationDirect carries the controls but not sealed-system parts. Trane's own distribution (Trane Supply) carries the deepest OEM inventory but at premium pricing.
 

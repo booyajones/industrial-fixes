@@ -65,13 +65,13 @@ Before you start: turn off power at the furnace switch and shut off gas. Let the
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Pressure switch (single, 80% AFUE) | Trane SEN02021 | $45-75 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Pressure switch (dual, 90% AFUE) | Trane CNT05226 | $75-115 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Pressure switch tubing (silicone) | Generic 1/4" silicone | $5-10 | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com) |
-| Inducer motor assembly | Trane MOT12376 (varies) | $235-380 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Condensate trap | Trane TRP03325 | $35-65 | [Amazon](https://www.amazon.com), [RepairClinic](https://www.repairclinic.com) |
-| Integrated furnace control | Trane CNT05165 (varies) | $235-380 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Digital manometer | Testo 510i / Fieldpiece SDMN6 | $130-275 | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com) |
+| Pressure switch (single, 80% AFUE) | Trane SEN02021 | $45-75 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-3-blink-error-code), [Amazon](https://www.amazon.com) |
+| Pressure switch (dual, 90% AFUE) | Trane CNT05226 | $75-115 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-3-blink-error-code), [Amazon](https://www.amazon.com) |
+| Pressure switch tubing (silicone) | Generic 1/4" silicone | $5-10 | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-3-blink-error-code) |
+| Inducer motor assembly | Trane MOT12376 (varies) | $235-380 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-3-blink-error-code), [Amazon](https://www.amazon.com) |
+| Condensate trap | Trane TRP03325 | $35-65 | [Amazon](https://www.amazon.com), [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-3-blink-error-code) |
+| Integrated furnace control | Trane CNT05165 (varies) | $235-380 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-3-blink-error-code), [Amazon](https://www.amazon.com) |
+| Digital manometer | Testo 510i / Fieldpiece SDMN6 | $130-275 | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-3-blink-error-code) |
 
 ## When to call a professional
 

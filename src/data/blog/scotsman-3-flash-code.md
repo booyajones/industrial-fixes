@@ -57,12 +57,12 @@ Don't confuse a 3-flash with a stuck slab. A stuck slab will sometimes throw a 3
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |------|------------|--------------|--------------|
-| Hot-gas solenoid coil (Prodigy Plus) | 12-2920-22 | $68-$112 | [Parts Town](https://partstown.com) |
-| Hot-gas solenoid valve body | 12-2920-21 | $145-$210 | [Parts Town](https://partstown.com) |
-| Purge/dump valve assembly | 12-2917-22 | $78-$118 | [Parts Town](https://partstown.com) |
-| Harvest thermostat | 11-0408-21 | $48-$72 | [Parts Town](https://partstown.com) |
-| Harvest assist motor (C0530/C0630) | 02-3950-21 | $215-$310 | [Parts Town](https://partstown.com) |
-| Scotsman Clear-1 nickel-safe scale remover | 19-0653-01 | $42-$68 | [Parts Town](https://partstown.com) |
+| Hot-gas solenoid coil (Prodigy Plus) | 12-2920-22 | $68-$112 | [Parts Town](https://partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-3-flash-code) |
+| Hot-gas solenoid valve body | 12-2920-21 | $145-$210 | [Parts Town](https://partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-3-flash-code) |
+| Purge/dump valve assembly | 12-2917-22 | $78-$118 | [Parts Town](https://partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-3-flash-code) |
+| Harvest thermostat | 11-0408-21 | $48-$72 | [Parts Town](https://partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-3-flash-code) |
+| Harvest assist motor (C0530/C0630) | 02-3950-21 | $215-$310 | [Parts Town](https://partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-3-flash-code) |
+| Scotsman Clear-1 nickel-safe scale remover | 19-0653-01 | $42-$68 | [Parts Town](https://partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-3-flash-code) |
 | Infrared thermometer (Fluke 62 MAX+) | — | $98-$135 | [Amazon](https://amazon.com) |
 | Inline water filter cartridge | — | $48-$120 | [Amazon](https://amazon.com) |
 

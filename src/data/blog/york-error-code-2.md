@@ -70,13 +70,13 @@ Before you start: power off at the furnace switch, gas off at the gas valve. Wai
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Pressure switch (90% AFUE) | York S1-02437196000 | $55-95 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Pressure switch (80% AFUE) | York S1-024-37196-000 | $45-75 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Pressure switch hose (silicone) | Generic 1/4" silicone | $5-10 | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com) |
-| Inducer motor assembly | York S1-32643951000 | $245-385 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Condensate trap | York S1-1NP0411 | $45-75 | [Amazon](https://www.amazon.com), [RepairClinic](https://www.repairclinic.com) |
-| Integrated furnace control (S1 board family) | York S1-03101264000 | $245-385 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Digital manometer | Testo 510i | $130-220 | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com) |
+| Pressure switch (90% AFUE) | York S1-02437196000 | $55-95 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=york-error-code-2), [Amazon](https://www.amazon.com) |
+| Pressure switch (80% AFUE) | York S1-024-37196-000 | $45-75 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=york-error-code-2), [Amazon](https://www.amazon.com) |
+| Pressure switch hose (silicone) | Generic 1/4" silicone | $5-10 | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=york-error-code-2) |
+| Inducer motor assembly | York S1-32643951000 | $245-385 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=york-error-code-2), [Amazon](https://www.amazon.com) |
+| Condensate trap | York S1-1NP0411 | $45-75 | [Amazon](https://www.amazon.com), [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=york-error-code-2) |
+| Integrated furnace control (S1 board family) | York S1-03101264000 | $245-385 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=york-error-code-2), [Amazon](https://www.amazon.com) |
+| Digital manometer | Testo 510i | $130-220 | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=york-error-code-2) |
 
 ## When to call a professional
 

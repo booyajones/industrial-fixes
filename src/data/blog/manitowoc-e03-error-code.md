@@ -61,10 +61,10 @@ Open circuits in the thermistor leg happen for three reasons, in this order: the
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Evaporator thermistor kit | K-00339 | $95–$140 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Thermistor clip only | 000007541 | $14–$22 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
+| Evaporator thermistor kit | K-00339 | $95–$140 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-e03-error-code) |
+| Thermistor clip only | 000007541 | $14–$22 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-e03-error-code) |
 | Control board harness loom (3/8" split) | n/a | $12–$20 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Manitowoc service pigtail (molex) | 7628021 | $32–$48 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
+| Manitowoc service pigtail (molex) | 7628021 | $32–$48 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-e03-error-code) |
 | High-temp wire ties (UL94 V-0, 10 in) | n/a | $9–$15 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
 
 The thermistor kit is the right part to order for any E03 that turns out to be a hardware failure — it includes the sensor, the clip, the inline connector, and the gasketing material.

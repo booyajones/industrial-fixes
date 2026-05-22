@@ -63,12 +63,12 @@ Before you start: shut off power at the furnace switch and gas at the dedicated 
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Primary limit switch (200°F auto-reset) | Bryant HH18HA250 | $35-55 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Rollout limit switch (manual reset) | Bryant HH12ZB174 | $25-40 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Integrated furnace control (IFC) | Bryant HK42FZ035 | $235-340 | [RepairClinic](https://www.repairclinic.com), [Home Depot](https://www.homedepot.com) |
-| PSC blower motor 1/2 HP | Bryant HC45TE118 | $245-340 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Blower run capacitor 7.5µF/370V | Bryant HC91CE015 | $18-32 | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com) |
-| 1-inch pleated filter MERV-8 (20x25x1) | Generic | $8-15 | [Home Depot](https://www.homedepot.com), [Lowes](https://www.lowes.com) |
+| Primary limit switch (200°F auto-reset) | Bryant HH18HA250 | $35-55 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=bryant-error-code-13), [Amazon](https://www.amazon.com) |
+| Rollout limit switch (manual reset) | Bryant HH12ZB174 | $25-40 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=bryant-error-code-13), [Amazon](https://www.amazon.com) |
+| Integrated furnace control (IFC) | Bryant HK42FZ035 | $235-340 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=bryant-error-code-13), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=bryant-error-code-13) |
+| PSC blower motor 1/2 HP | Bryant HC45TE118 | $245-340 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=bryant-error-code-13), [Amazon](https://www.amazon.com) |
+| Blower run capacitor 7.5µF/370V | Bryant HC91CE015 | $18-32 | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=bryant-error-code-13) |
+| 1-inch pleated filter MERV-8 (20x25x1) | Generic | $8-15 | [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=bryant-error-code-13), [Lowes](https://www.lowes.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=bryant-error-code-13) |
 | Digital manometer | Dwyer 475-1-FM | $185-235 | [Amazon](https://www.amazon.com) |
 
 Note on Carrier/Bryant cross-reference: the limit switches are identical between Carrier (HC-prefix), Bryant (HH-prefix), and Payne (HH-prefix as well) for matching model years. The IFC board is identical between Carrier (HK42FZ035 with HC prefix in some variants) and Bryant (HK42FZ035 with HK prefix) — same firmware, same connector layout, only the dealer-channel sticker changes.

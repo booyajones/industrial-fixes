@@ -62,10 +62,10 @@ The fourth, rarer case: an R-410A outdoor unit paired with an R-454B indoor head
 
 | Part | OEM Number (typical) | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Outdoor inverter PCB (RX/RXS series) | 5009566-xx | $385–$620 | [HVAC Parts Shop](https://www.hvacpartsshop.com?aff=PLACEHOLDER-HPS) / [Grainger](https://www.grainger.com?aff=PLACEHOLDER-GRAINGER) |
-| Indoor controller PCB (FTX/FTXS) | 4017019-xx | $245–$380 | [HVAC Parts Shop](https://www.hvacpartsshop.com?aff=PLACEHOLDER-HPS) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Wireless remote BRC082 | BRC082A43 | $95–$140 | [HVAC Parts Shop](https://www.hvacpartsshop.com?aff=PLACEHOLDER-HPS) |
-| Wall thermostat BRC1E73 | BRC1E73 | $175–$240 | [Grainger](https://www.grainger.com?aff=PLACEHOLDER-GRAINGER) |
+| Outdoor inverter PCB (RX/RXS series) | 5009566-xx | $385–$620 | [HVAC Parts Shop](https://www.hvacpartsshop.com) / [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=daikin-error-code-uA) |
+| Indoor controller PCB (FTX/FTXS) | 4017019-xx | $245–$380 | [HVAC Parts Shop](https://www.hvacpartsshop.com) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Wireless remote BRC082 | BRC082A43 | $95–$140 | [HVAC Parts Shop](https://www.hvacpartsshop.com) |
+| Wall thermostat BRC1E73 | BRC1E73 | $175–$240 | [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=daikin-error-code-uA) |
 | Replacement nameplate decal | varies | $5–$15 | Daikin distributor |
 
 For PCB swaps, order with the harness clip and gasket set — Daikin PCB kits often ship without and you need them for IP-rated reassembly.

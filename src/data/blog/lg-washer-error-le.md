@@ -65,13 +65,13 @@ Before you start: unplug the washer, shut off water at the wall valves, and remo
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Stator assembly (WM front-loader) | LG 4417EA1002K | $145-225 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Rotor assembly (WM front-loader) | LG 4413ER1003A | $185-265 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Hall sensor PCB | LG 6501KW2002A | $35-65 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Stator-to-board harness | LG 6877ER1016T | $25-55 | [RepairClinic](https://www.repairclinic.com) |
-| Main PCB (varies by model) | LG EBR-series | $245-485 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Tub bearing kit (front-loader) | LG 4280FR4048L | $85-145 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Door gasket / bellows (front-loader) | LG MDS47123604 | $115-185 | [RepairClinic](https://www.repairclinic.com), [Home Depot](https://www.homedepot.com) |
+| Stator assembly (WM front-loader) | LG 4417EA1002K | $145-225 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lg-washer-error-le), [Amazon](https://www.amazon.com) |
+| Rotor assembly (WM front-loader) | LG 4413ER1003A | $185-265 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lg-washer-error-le), [Amazon](https://www.amazon.com) |
+| Hall sensor PCB | LG 6501KW2002A | $35-65 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lg-washer-error-le), [Amazon](https://www.amazon.com) |
+| Stator-to-board harness | LG 6877ER1016T | $25-55 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lg-washer-error-le) |
+| Main PCB (varies by model) | LG EBR-series | $245-485 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lg-washer-error-le), [Amazon](https://www.amazon.com) |
+| Tub bearing kit (front-loader) | LG 4280FR4048L | $85-145 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lg-washer-error-le), [Amazon](https://www.amazon.com) |
+| Door gasket / bellows (front-loader) | LG MDS47123604 | $115-185 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lg-washer-error-le), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lg-washer-error-le) |
 
 LG part numbers are very model-specific. A WM2487HRM stator (4417EA1002K) is different from a WM3997HWA stator (4417EA1002L) — confirm the exact suffix letter for your model before ordering.
 

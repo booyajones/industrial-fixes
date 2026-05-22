@@ -67,14 +67,14 @@ Safety first: kill power at the boiler service switch. Boilers retain hot water 
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| LWCO probe (Ultra Series) | Weil-McLain 511-330-105 | $85-120 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
+| LWCO probe (Ultra Series) | Weil-McLain 511-330-105 | $85-120 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=weil-mclain-error-code-3) |
 | LWCO probe (Gold GV90+) | Weil-McLain 511-330-095 | $75-110 | [Supply House](https://www.supplyhouse.com), [Amazon](https://www.amazon.com) |
-| McDonnell & Miller 67 float LWCO (commercial conversions) | M&M 67-LWCO | $230-340 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
-| Expansion tank (Amtrol Extrol 30) | Amtrol EX-30 / Weil-McLain 386-700-040 | $55-85 | [Supply House](https://www.supplyhouse.com), [Home Depot](https://www.homedepot.com) |
-| 30 PSI relief valve | Watts 174A / Weil-McLain 511-330-066 | $35-55 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
+| McDonnell & Miller 67 float LWCO (commercial conversions) | M&M 67-LWCO | $230-340 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=weil-mclain-error-code-3) |
+| Expansion tank (Amtrol Extrol 30) | Amtrol EX-30 / Weil-McLain 386-700-040 | $55-85 | [Supply House](https://www.supplyhouse.com), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=weil-mclain-error-code-3) |
+| 30 PSI relief valve | Watts 174A / Weil-McLain 511-330-066 | $35-55 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=weil-mclain-error-code-3) |
 | Float-type air vent | Taco 400-4 / Maid-O-Mist | $12-22 | [Supply House](https://www.supplyhouse.com), [Amazon](https://www.amazon.com) |
-| U-Control board (Ultra) | Weil-McLain 383-500-630 | $480-720 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
-| Autofill valve (Watts) | Watts 1156F | $65-95 | [Supply House](https://www.supplyhouse.com), [Home Depot](https://www.homedepot.com) |
+| U-Control board (Ultra) | Weil-McLain 383-500-630 | $480-720 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=weil-mclain-error-code-3) |
+| Autofill valve (Watts) | Watts 1156F | $65-95 | [Supply House](https://www.supplyhouse.com), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=weil-mclain-error-code-3) |
 
 A note on probe interchange: Weil-McLain LWCO probes look similar across the line but the resistance calibration and thread length differ between Gold and Ultra. Don't substitute a 511-330-095 (Gold) for a 511-330-105 (Ultra) — the tip length is different and the seal won't seat right in the Ultra block.
 

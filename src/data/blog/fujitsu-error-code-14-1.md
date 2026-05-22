@@ -69,11 +69,11 @@ It can also be a failed high-pressure switch itself (open when it should be clos
 
 | Part | OEM Number (typical) | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Outdoor condenser fan motor (AOU18RLS3) | 9707080-xx | $245–$385 | [HVAC Parts Shop](https://www.hvacpartsshop.com?aff=PLACEHOLDER-HPS) / [Grainger](https://www.grainger.com?aff=PLACEHOLDER-GRAINGER) |
-| Condenser fan run capacitor (1.5-3 µF) | 9707080 family | $18–$35 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) / [Grainger](https://www.grainger.com?aff=PLACEHOLDER-GRAINGER) |
-| High-pressure switch | 9707080-xx | $65–$120 | [HVAC Parts Shop](https://www.hvacpartsshop.com?aff=PLACEHOLDER-HPS) |
-| Liquid line filter-drier | 9707080 family | $35–$65 | [HVAC Parts Shop](https://www.hvacpartsshop.com?aff=PLACEHOLDER-HPS) |
-| Coil cleaner foam (1 gallon) | Nu-Calgon Evap Foam | $25–$45 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) / [Grainger](https://www.grainger.com?aff=PLACEHOLDER-GRAINGER) |
+| Outdoor condenser fan motor (AOU18RLS3) | 9707080-xx | $245–$385 | [HVAC Parts Shop](https://www.hvacpartsshop.com) / [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=fujitsu-error-code-14-1) |
+| Condenser fan run capacitor (1.5-3 µF) | 9707080 family | $18–$35 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) / [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=fujitsu-error-code-14-1) |
+| High-pressure switch | 9707080-xx | $65–$120 | [HVAC Parts Shop](https://www.hvacpartsshop.com) |
+| Liquid line filter-drier | 9707080 family | $35–$65 | [HVAC Parts Shop](https://www.hvacpartsshop.com) |
+| Coil cleaner foam (1 gallon) | Nu-Calgon Evap Foam | $25–$45 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) / [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=fujitsu-error-code-14-1) |
 
 Order the fan blade hub clip kit with a fan motor — the original hub key can deform during removal.
 

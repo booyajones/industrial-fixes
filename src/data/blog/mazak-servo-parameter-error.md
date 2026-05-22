@@ -101,12 +101,12 @@ Parameter errors rarely require parts. The main exceptions are NC parameter memo
 
 | Part | Part Number (form) | Typical Cost | Where to Buy |
 |---|---|---|---|
-| NC parameter backup battery (coin cell, NC board) | Maxell CR2032 or Renata CR2032 | $4–$10 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| MDS-DH servo drive (parameter memory failure) | MDS-DH-V2-xx series | $4,800–$7,800 used | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), eBay (used CNC dealer) |
-| MDS-D servo drive | MDS-D-V2-xx series | $4,200–$6,800 used | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), eBay |
-| Parameter backup CF card (industrial grade) | SanDisk Industrial 2GB | $35–$60 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
+| NC parameter backup battery (coin cell, NC board) | Maxell CR2032 or Renata CR2032 | $4–$10 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mazak-servo-parameter-error) |
+| MDS-DH servo drive (parameter memory failure) | MDS-DH-V2-xx series | $4,800–$7,800 used | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mazak-servo-parameter-error), eBay (used CNC dealer) |
+| MDS-D servo drive | MDS-D-V2-xx series | $4,200–$6,800 used | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mazak-servo-parameter-error), eBay |
+| Parameter backup CF card (industrial grade) | SanDisk Industrial 2GB | $35–$60 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mazak-servo-parameter-error) |
 | USB drive for parameter backup (FAT32) | Kingston DataTraveler 8GB | $8–$14 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Replacement encoder cable, axis-correct | Mazak/Mitsubishi PN per axis | $310–$480 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
+| Replacement encoder cable, axis-correct | Mazak/Mitsubishi PN per axis | $310–$480 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mazak-servo-parameter-error), [Wolf Automation](https://www.wolfautomation.com) |
 | Mazak maintenance service laptop access | factory service only | n/a | Mazak Technical Service |
 | Drive parameter list printout (laminated, in cabinet) | shop-prepared | <$5 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) (lamination supplies) |
 

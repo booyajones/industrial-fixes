@@ -63,13 +63,13 @@ Power down at the disconnect before opening panels. The blower may still be runn
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Main high limit switch (L200) | Trane LMT01062 / SWT02927 | $30-50 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Flame rollout switch (manual reset) | Trane SWT02926 / SWT02928 | $25-45 | [RepairClinic](https://www.repairclinic.com), [Home Depot](https://www.homedepot.com) |
-| Blower motor (PSC, 1/2 HP) | Trane MOT09255 / 5SME39SL0671 | $260-420 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Blower wheel | Trane BLW01267 | $50-90 | [RepairClinic](https://www.repairclinic.com) |
-| Run capacitor (7.5/370V) | Generic | $12-22 | [Amazon](https://www.amazon.com), [Lowes](https://www.lowes.com) |
-| Filter (20x25x4 media cabinet) | Various MERV 8-11 | $20-40 ea | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com) |
-| Integrated control board | Trane CNT06077 / D341396P01 | $220-360 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
+| Main high limit switch (L200) | Trane LMT01062 / SWT02927 | $30-50 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-4-blink-error-code), [Amazon](https://www.amazon.com) |
+| Flame rollout switch (manual reset) | Trane SWT02926 / SWT02928 | $25-45 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-4-blink-error-code), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-4-blink-error-code) |
+| Blower motor (PSC, 1/2 HP) | Trane MOT09255 / 5SME39SL0671 | $260-420 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-4-blink-error-code), [Amazon](https://www.amazon.com) |
+| Blower wheel | Trane BLW01267 | $50-90 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-4-blink-error-code) |
+| Run capacitor (7.5/370V) | Generic | $12-22 | [Amazon](https://www.amazon.com), [Lowes](https://www.lowes.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-4-blink-error-code) |
+| Filter (20x25x4 media cabinet) | Various MERV 8-11 | $20-40 ea | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-4-blink-error-code) |
+| Integrated control board | Trane CNT06077 / D341396P01 | $220-360 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=trane-4-blink-error-code), [Amazon](https://www.amazon.com) |
 
 Cross-brand note: American Standard equivalents (Freedom 80, Gold S8X1, Silver S8B1) use the same part numbers. Original-sticker check is always the safe move.
 

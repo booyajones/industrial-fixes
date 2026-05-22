@@ -85,13 +85,13 @@ Standard safety: lock and tag, verify zero energy at the DC bus and at the brake
 
 | Part | Catalog Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| PowerFlex 525, 480V, 5HP | 25B-D010N104 | $1,150–$1,400 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| PowerFlex 525, 480V, 10HP | 25B-D017N104 | $1,800–$2,100 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| Dynamic brake resistor, 100Ω 750W (5HP class) | AK-R2-091P500 | $220–$320 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| Dynamic brake resistor, 47Ω 1200W (10HP class) | AK-R2-047P1K2 | $380–$520 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| External brake module (for 4-class drives) | 22-BR-A or 20-750-RA | $550–$1,100 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI) |
-| 5% line reactor, 480V 10HP | 1321-3R18-A | $190–$280 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| Fluke 1748 power quality logger | FLUKE-1748/BASIC | $7,400–$8,800 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| PowerFlex 525, 480V, 5HP | 25B-D010N104 | $1,150–$1,400 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f005-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f005-fault) |
+| PowerFlex 525, 480V, 10HP | 25B-D017N104 | $1,800–$2,100 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f005-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f005-fault) |
+| Dynamic brake resistor, 100Ω 750W (5HP class) | AK-R2-091P500 | $220–$320 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f005-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| Dynamic brake resistor, 47Ω 1200W (10HP class) | AK-R2-047P1K2 | $380–$520 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f005-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| External brake module (for 4-class drives) | 22-BR-A or 20-750-RA | $550–$1,100 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f005-fault), [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f005-fault) |
+| 5% line reactor, 480V 10HP | 1321-3R18-A | $190–$280 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f005-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| Fluke 1748 power quality logger | FLUKE-1748/BASIC | $7,400–$8,800 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f005-fault), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
 
 The PowerFlex 525 drive itself is not field-repairable. If the chopper IGBT has failed (you see no pulses on BR+ during decel, or the brake resistor is intact but bus still climbs), replace the drive.
 

@@ -59,11 +59,11 @@ The lockout matters: even after you've cleared the actual cause, the unit won't 
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |------|------------|--------------|--------------|
-| Bin thermostat (Prodigy / Prodigy Plus cap-tube) | 11-0408-21 | $48-$72 | [Parts Town](https://partstown.com) |
-| Bin thermistor (Brilliance series) | 12-2920-01 | $58-$85 | [Parts Town](https://partstown.com) |
-| Thermostat mounting clip | 02-3413-01 | $6-$12 | [Parts Town](https://partstown.com) |
-| Splash curtain (C0322) | 02-3866-01 | $34-$58 | [Parts Town](https://partstown.com) |
-| Control board (Prodigy Plus) | 12-2838-21 | $295-$420 | [Parts Town](https://partstown.com) |
+| Bin thermostat (Prodigy / Prodigy Plus cap-tube) | 11-0408-21 | $48-$72 | [Parts Town](https://partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-1-flash-code) |
+| Bin thermistor (Brilliance series) | 12-2920-01 | $58-$85 | [Parts Town](https://partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-1-flash-code) |
+| Thermostat mounting clip | 02-3413-01 | $6-$12 | [Parts Town](https://partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-1-flash-code) |
+| Splash curtain (C0322) | 02-3866-01 | $34-$58 | [Parts Town](https://partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-1-flash-code) |
+| Control board (Prodigy Plus) | 12-2838-21 | $295-$420 | [Parts Town](https://partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=scotsman-1-flash-code) |
 | Multimeter (Fluke 117 or equivalent) | — | $189-$220 | [Amazon](https://amazon.com) |
 | Plastic ice scraper | — | $8-$14 | [Amazon](https://amazon.com) |
 

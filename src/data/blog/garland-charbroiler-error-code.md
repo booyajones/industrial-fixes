@@ -72,16 +72,16 @@ Before you start: shut off gas at the appliance gas cock, allow the unit to cool
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Pilot orifice (natural gas, #76) | Garland 1031300 | $25-45 | [PartsTown](https://www.partstown.com), [RepairClinic](https://www.repairclinic.com) |
-| Pilot assembly (complete with bracket) | Garland 1032500 | $85-145 | [PartsTown](https://www.partstown.com), [Amazon](https://www.amazon.com) |
-| Thermocouple (24" lead) | Garland 1031450 | $35-65 | [PartsTown](https://www.partstown.com), [Amazon](https://www.amazon.com) |
-| Thermopile (millivolt) | Garland 1031460 | $55-85 | [PartsTown](https://www.partstown.com), [RepairClinic](https://www.repairclinic.com) |
-| Gas valve (millivolt) | Garland 1030300 | $245-385 | [PartsTown](https://www.partstown.com), [RepairClinic](https://www.repairclinic.com) |
-| Gas valve (electronic 24V) | Garland 1030350 | $285-445 | [PartsTown](https://www.partstown.com), [Amazon](https://www.amazon.com) |
-| Ignition control module (Fenwal/Honeywell) | Garland 1031600 | $185-285 | [PartsTown](https://www.partstown.com), [RepairClinic](https://www.repairclinic.com) |
-| Spark electrode | Garland 1031550 | $45-75 | [PartsTown](https://www.partstown.com), [Amazon](https://www.amazon.com) |
-| Main burner casting (cast iron) | Garland 4520038 | $185-285 | [PartsTown](https://www.partstown.com) |
-| Torch tip cleaner set | Generic | $8-15 | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com) |
+| Pilot orifice (natural gas, #76) | Garland 1031300 | $25-45 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=garland-charbroiler-error-code), [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=garland-charbroiler-error-code) |
+| Pilot assembly (complete with bracket) | Garland 1032500 | $85-145 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=garland-charbroiler-error-code), [Amazon](https://www.amazon.com) |
+| Thermocouple (24" lead) | Garland 1031450 | $35-65 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=garland-charbroiler-error-code), [Amazon](https://www.amazon.com) |
+| Thermopile (millivolt) | Garland 1031460 | $55-85 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=garland-charbroiler-error-code), [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=garland-charbroiler-error-code) |
+| Gas valve (millivolt) | Garland 1030300 | $245-385 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=garland-charbroiler-error-code), [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=garland-charbroiler-error-code) |
+| Gas valve (electronic 24V) | Garland 1030350 | $285-445 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=garland-charbroiler-error-code), [Amazon](https://www.amazon.com) |
+| Ignition control module (Fenwal/Honeywell) | Garland 1031600 | $185-285 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=garland-charbroiler-error-code), [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=garland-charbroiler-error-code) |
+| Spark electrode | Garland 1031550 | $45-75 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=garland-charbroiler-error-code), [Amazon](https://www.amazon.com) |
+| Main burner casting (cast iron) | Garland 4520038 | $185-285 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=garland-charbroiler-error-code) |
+| Torch tip cleaner set | Generic | $8-15 | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=garland-charbroiler-error-code) |
 | Millivolt meter | Fluke 87V | $445-585 | [Amazon](https://www.amazon.com) |
 
 PartsTown is the primary distributor for Garland commercial parts. Confirm by serial-tag — Garland part numbers change across model revisions and the specific orifice size depends on natural gas vs. propane and altitude.

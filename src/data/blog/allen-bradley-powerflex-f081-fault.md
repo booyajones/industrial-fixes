@@ -88,16 +88,16 @@ Safety: comm troubleshooting is mostly low-voltage work, but the drive is still 
 
 | Part | Catalog Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| 22-COMM-E EtherNet/IP adapter (4-class) | 22-COMM-E | $440–$580 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI) |
-| 20-750-ENETR EtherNet/IP option (753/755) | 20-750-ENETR | $980–$1,250 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| 22-HIM-A3 LCD keypad | 22-HIM-A3 | $185–$240 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Stratix 5700 8-port managed switch | 1783-BMS10CL | $980–$1,300 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| Cat6 industrial Ethernet cable, M12 to RJ45, 5m | 1585J-M8TBJM-5 | $115–$160 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| Cat6 patch cable, RJ45 to RJ45, 25ft shielded | Belden 10GX or equiv | $24–$38 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI) |
-| Fluke LinkRunner cable tester | LRAT-2000 | $1,150–$1,400 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| Fluke MicroScanner cable verifier | MS2-100 | $290–$380 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI) |
-| PowerFlex 525 drive replacement (5HP, 480V) | 25B-D010N104 | $1,150–$1,400 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| Ferrite snap-on EMI suppressor | Wurth 74271222 | $4–$8 each | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI) |
+| 22-COMM-E EtherNet/IP adapter (4-class) | 22-COMM-E | $440–$580 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f081-fault), [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f081-fault) |
+| 20-750-ENETR EtherNet/IP option (753/755) | 20-750-ENETR | $980–$1,250 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f081-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| 22-HIM-A3 LCD keypad | 22-HIM-A3 | $185–$240 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f081-fault), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Stratix 5700 8-port managed switch | 1783-BMS10CL | $980–$1,300 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f081-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| Cat6 industrial Ethernet cable, M12 to RJ45, 5m | 1585J-M8TBJM-5 | $115–$160 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f081-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f081-fault) |
+| Cat6 patch cable, RJ45 to RJ45, 25ft shielded | Belden 10GX or equiv | $24–$38 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f081-fault) |
+| Fluke LinkRunner cable tester | LRAT-2000 | $1,150–$1,400 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f081-fault) |
+| Fluke MicroScanner cable verifier | MS2-100 | $290–$380 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f081-fault) |
+| PowerFlex 525 drive replacement (5HP, 480V) | 25B-D010N104 | $1,150–$1,400 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f081-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f081-fault) |
+| Ferrite snap-on EMI suppressor | Wurth 74271222 | $4–$8 each | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f081-fault) |
 
 For 753 and 755 drives, the comm option module is field-replaceable without replacing the entire drive — pull the bad 20-750-ENETR, replace with a new one, restore the saved parameter set from your project file.
 

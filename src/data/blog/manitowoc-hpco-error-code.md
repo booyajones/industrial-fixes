@@ -63,11 +63,11 @@ Head pressure climbs for one reason: the condenser can't reject the heat the com
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| HPCO switch kit (R-404A) | K-00432 | $115–$160 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Condenser fan motor (IDT0500) | 7626833 | $210–$295 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Fan motor run capacitor 5 µF | 000002777 | $18–$28 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Water regulating valve (water-cooled) | K-00298 | $185–$245 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Nu-Calgon Nu-Brite condenser cleaner | 4148-04 | $42–$60 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) / [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
+| HPCO switch kit (R-404A) | K-00432 | $115–$160 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-hpco-error-code) |
+| Condenser fan motor (IDT0500) | 7626833 | $210–$295 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-hpco-error-code) |
+| Fan motor run capacitor 5 µF | 000002777 | $18–$28 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-hpco-error-code) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Water regulating valve (water-cooled) | K-00298 | $185–$245 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-hpco-error-code) |
+| Nu-Calgon Nu-Brite condenser cleaner | 4148-04 | $42–$60 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) / [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-hpco-error-code) |
 
 If you're descaling a water-cooled condenser, also pick up a CLR-rated descaling pump or rent one — a hand-pump approach won't move enough cleaner through a scaled tube bundle in a reasonable time.
 

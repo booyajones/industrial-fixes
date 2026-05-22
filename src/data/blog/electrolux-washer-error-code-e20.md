@@ -65,14 +65,14 @@ Before you start: shut off both water supplies, unplug the washer.
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Drain pump assembly (Askoll M50) | Electrolux 137221600 | $85-145 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Pump filter (basket only) | Electrolux 137519400 | $25-45 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Drain hose (corrugated) | Electrolux 137120900 | $35-65 | [RepairClinic](https://www.repairclinic.com), [Home Depot](https://www.homedepot.com) |
-| Pressure transducer | Electrolux 134762000 | $55-95 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Air hose to transducer | Electrolux 137220900 | $15-25 | [RepairClinic](https://www.repairclinic.com) |
-| Main PCB (varies by model) | Electrolux 134743700 | $245-485 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Tub bearing kit | Electrolux 134721500 | $135-225 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Stainless braided fill hose set | Generic / Camco | $15-25 | [Home Depot](https://www.homedepot.com), [Amazon](https://www.amazon.com) |
+| Drain pump assembly (Askoll M50) | Electrolux 137221600 | $85-145 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=electrolux-washer-error-code-e20), [Amazon](https://www.amazon.com) |
+| Pump filter (basket only) | Electrolux 137519400 | $25-45 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=electrolux-washer-error-code-e20), [Amazon](https://www.amazon.com) |
+| Drain hose (corrugated) | Electrolux 137120900 | $35-65 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=electrolux-washer-error-code-e20), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=electrolux-washer-error-code-e20) |
+| Pressure transducer | Electrolux 134762000 | $55-95 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=electrolux-washer-error-code-e20), [Amazon](https://www.amazon.com) |
+| Air hose to transducer | Electrolux 137220900 | $15-25 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=electrolux-washer-error-code-e20) |
+| Main PCB (varies by model) | Electrolux 134743700 | $245-485 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=electrolux-washer-error-code-e20), [Amazon](https://www.amazon.com) |
+| Tub bearing kit | Electrolux 134721500 | $135-225 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=electrolux-washer-error-code-e20), [Amazon](https://www.amazon.com) |
+| Stainless braided fill hose set | Generic / Camco | $15-25 | [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=electrolux-washer-error-code-e20), [Amazon](https://www.amazon.com) |
 
 Electrolux and Frigidaire are sister brands under the same parent company; many washer parts cross between brands with shared part numbers in the 5300, 5304, 134, and 137 series.
 

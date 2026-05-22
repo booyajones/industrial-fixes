@@ -80,12 +80,12 @@ E1 is the most common Beacon II fault by a significant margin — sensors live i
 
 | Part | OEM Number (typical) | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Beacon II air/coil sensor kit (10 ft) | 28907901 | $85–$145 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Beacon II air/coil sensor kit (long lead) | 28907901-LL | $115–$185 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Beacon II controller (basic config) | 28907901-BASIC | $385–$585 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Beacon II controller (EEV config) | 28907901-EEV | $585–$785 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Sensor mounting clip kit | 28907901-CLIP | $15–$35 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Dielectric grease, 1 oz tube | Permatex 22058 | $4–$10 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) / [Home Depot](https://www.homedepot.com?aff=PLACEHOLDER-HD) |
+| Beacon II air/coil sensor kit (10 ft) | 28907901 | $85–$145 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=heatcraft-beacon-ii-error-code) |
+| Beacon II air/coil sensor kit (long lead) | 28907901-LL | $115–$185 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=heatcraft-beacon-ii-error-code) |
+| Beacon II controller (basic config) | 28907901-BASIC | $385–$585 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=heatcraft-beacon-ii-error-code) |
+| Beacon II controller (EEV config) | 28907901-EEV | $585–$785 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=heatcraft-beacon-ii-error-code) |
+| Sensor mounting clip kit | 28907901-CLIP | $15–$35 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=heatcraft-beacon-ii-error-code) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Dielectric grease, 1 oz tube | Permatex 22058 | $4–$10 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) / [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=heatcraft-beacon-ii-error-code) |
 
 Always order the sensor with the mounting clip — Heatcraft clips don't reliably re-grip after being removed.
 

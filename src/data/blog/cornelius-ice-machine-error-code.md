@@ -81,16 +81,16 @@ Before you start: shut off water at the inlet valve, disconnect power at the ded
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Inlet water filter (5-micron carbon) | Cornelius 558800 | $35-65 | [PartsTown](https://www.partstown.com), [Amazon](https://www.amazon.com) |
-| Water pump (centrifugal, 60W) | Cornelius 558705 | $185-285 | [PartsTown](https://www.partstown.com), [RepairClinic](https://www.repairclinic.com) |
-| Water inlet valve (24VAC) | Cornelius 558710 | $85-145 | [PartsTown](https://www.partstown.com), [Amazon](https://www.amazon.com) |
-| Condenser fan motor (air-cooled) | Cornelius 558720 | $145-225 | [PartsTown](https://www.partstown.com), [RepairClinic](https://www.repairclinic.com) |
-| Evaporator temperature sensor (NTC) | Cornelius 558730 | $45-85 | [PartsTown](https://www.partstown.com), [Amazon](https://www.amazon.com) |
-| Bin level sensor (photoelectric) | Cornelius 558740 | $115-185 | [PartsTown](https://www.partstown.com), [Amazon](https://www.amazon.com) |
-| Control board (IAF series) | Cornelius 558750 | $385-585 | [PartsTown](https://www.partstown.com), [RepairClinic](https://www.repairclinic.com) |
-| Spray header / water distribution tube | Cornelius 558760 | $85-145 | [PartsTown](https://www.partstown.com) |
-| Descaling solution (1 gallon, food grade) | Cornelius 558770 | $35-55 | [PartsTown](https://www.partstown.com), [Amazon](https://www.amazon.com) |
-| Pressure gauge (water inlet test) | Generic | $25-45 | [Home Depot](https://www.homedepot.com), [Amazon](https://www.amazon.com) |
+| Inlet water filter (5-micron carbon) | Cornelius 558800 | $35-65 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=cornelius-ice-machine-error-code), [Amazon](https://www.amazon.com) |
+| Water pump (centrifugal, 60W) | Cornelius 558705 | $185-285 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=cornelius-ice-machine-error-code), [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=cornelius-ice-machine-error-code) |
+| Water inlet valve (24VAC) | Cornelius 558710 | $85-145 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=cornelius-ice-machine-error-code), [Amazon](https://www.amazon.com) |
+| Condenser fan motor (air-cooled) | Cornelius 558720 | $145-225 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=cornelius-ice-machine-error-code), [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=cornelius-ice-machine-error-code) |
+| Evaporator temperature sensor (NTC) | Cornelius 558730 | $45-85 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=cornelius-ice-machine-error-code), [Amazon](https://www.amazon.com) |
+| Bin level sensor (photoelectric) | Cornelius 558740 | $115-185 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=cornelius-ice-machine-error-code), [Amazon](https://www.amazon.com) |
+| Control board (IAF series) | Cornelius 558750 | $385-585 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=cornelius-ice-machine-error-code), [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=cornelius-ice-machine-error-code) |
+| Spray header / water distribution tube | Cornelius 558760 | $85-145 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=cornelius-ice-machine-error-code) |
+| Descaling solution (1 gallon, food grade) | Cornelius 558770 | $35-55 | [PartsTown](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=cornelius-ice-machine-error-code), [Amazon](https://www.amazon.com) |
+| Pressure gauge (water inlet test) | Generic | $25-45 | [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=cornelius-ice-machine-error-code), [Amazon](https://www.amazon.com) |
 
 PartsTown is primary distributor. Cornelius part numbers in newer Marmon Foodservice catalog may use different prefixes; cross-reference by serial-tag.
 

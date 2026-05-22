@@ -81,13 +81,13 @@ Before you touch anything: lock and tag the disconnect, wait 5 minutes minimum f
 
 | Part | Order Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| PM240-2 Power Module, 7.5kW, 400V | 6SL3210-1PE22-8UL0 | $1,200–$1,600 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| PM240-2 Power Module, 15kW, 400V | 6SL3210-1PE24-5UL0 | $1,900–$2,400 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| Siemens dV/dt filter | 6SL3000-2DE38-4AA0 | $1,400–$1,900 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| VFD-rated submersible cable (per ft) | Belden 9D050810 or equiv | $7–$12/ft | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Output choke (motor reactor), 18A | 6SL3203-0CD22-2AA0 | $290–$420 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI) |
-| 500V/1000V megohmmeter | Fluke 1587 FC | $620–$780 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| Motor dryout heater controller | (varies) | $180–$320 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
+| PM240-2 Power Module, 7.5kW, 400V | 6SL3210-1PE22-8UL0 | $1,200–$1,600 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30021-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30021-fault) |
+| PM240-2 Power Module, 15kW, 400V | 6SL3210-1PE24-5UL0 | $1,900–$2,400 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30021-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| Siemens dV/dt filter | 6SL3000-2DE38-4AA0 | $1,400–$1,900 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30021-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| VFD-rated submersible cable (per ft) | Belden 9D050810 or equiv | $7–$12/ft | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30021-fault), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Output choke (motor reactor), 18A | 6SL3203-0CD22-2AA0 | $290–$420 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30021-fault), [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30021-fault) |
+| 500V/1000V megohmmeter | Fluke 1587 FC | $620–$780 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30021-fault) |
+| Motor dryout heater controller | (varies) | $180–$320 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=siemens-sinamics-f30021-fault) |
 
 Note: Siemens does not sell replacement Hall-effect current sensors for G120 Power Modules as field-replaceable parts. Power Modules are sold as complete units.
 

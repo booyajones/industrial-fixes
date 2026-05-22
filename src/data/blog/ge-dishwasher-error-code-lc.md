@@ -65,14 +65,14 @@ Before you start: disconnect power at the breaker (GE dishwashers are typically 
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Leak sensor (conductive strip, Profile) | GE WD21X23467 | $35-65 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Leak sensor (float type, older) | GE WD21X23030 | $25-50 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Water inlet valve | GE WD15X10003 | $55-95 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Drain pump assembly | GE WD26X25104 | $85-145 | [RepairClinic](https://www.repairclinic.com), [Home Depot](https://www.homedepot.com) |
-| Tub gasket / door seal | GE WD08X10057 | $45-75 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Detergent dispenser assembly | GE WD12X10417 | $115-185 | [RepairClinic](https://www.repairclinic.com) |
-| Sump-to-tub seal | GE WD08X10071 | $25-45 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Drain hose (with high-loop hardware) | GE WD24X10070 | $35-65 | [RepairClinic](https://www.repairclinic.com), [Home Depot](https://www.homedepot.com) |
+| Leak sensor (conductive strip, Profile) | GE WD21X23467 | $35-65 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ge-dishwasher-error-code-lc), [Amazon](https://www.amazon.com) |
+| Leak sensor (float type, older) | GE WD21X23030 | $25-50 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ge-dishwasher-error-code-lc), [Amazon](https://www.amazon.com) |
+| Water inlet valve | GE WD15X10003 | $55-95 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ge-dishwasher-error-code-lc), [Amazon](https://www.amazon.com) |
+| Drain pump assembly | GE WD26X25104 | $85-145 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ge-dishwasher-error-code-lc), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ge-dishwasher-error-code-lc) |
+| Tub gasket / door seal | GE WD08X10057 | $45-75 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ge-dishwasher-error-code-lc), [Amazon](https://www.amazon.com) |
+| Detergent dispenser assembly | GE WD12X10417 | $115-185 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ge-dishwasher-error-code-lc) |
+| Sump-to-tub seal | GE WD08X10071 | $25-45 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ge-dishwasher-error-code-lc), [Amazon](https://www.amazon.com) |
+| Drain hose (with high-loop hardware) | GE WD24X10070 | $35-65 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ge-dishwasher-error-code-lc), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=ge-dishwasher-error-code-lc) |
 
 ## When to call a professional
 

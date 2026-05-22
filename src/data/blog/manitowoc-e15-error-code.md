@@ -74,12 +74,12 @@ Before you start: turn off power to the ice machine at the wall switch or discon
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| High-pressure cut-out switch (manual reset) | Manitowoc 000007379 | $85-145 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Condenser fan motor (IDT0500/0900) | Manitowoc 7626833 | $215-295 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Fan motor run capacitor (5 µF) | Manitowoc 000002777 | $18-28 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Water-regulating valve | Manitowoc 000000218 | $185-265 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) / [RepairClinic](https://www.repairclinic.com?aff=PLACEHOLDER-RC) |
-| Condenser coil (cleaning kit) | Nu-Calgon Evap Foam | $20-35 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) / [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) |
-| Hot detergent / degreaser | Nu-Calgon Nickel-Safe Coil Cleaner | $25-45 | [Parts Town](https://www.partstown.com?aff=PLACEHOLDER-PT) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| High-pressure cut-out switch (manual reset) | Manitowoc 000007379 | $85-145 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-e15-error-code) |
+| Condenser fan motor (IDT0500/0900) | Manitowoc 7626833 | $215-295 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-e15-error-code) |
+| Fan motor run capacitor (5 µF) | Manitowoc 000002777 | $18-28 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-e15-error-code) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Water-regulating valve | Manitowoc 000000218 | $185-265 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-e15-error-code) / [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-e15-error-code) |
+| Condenser coil (cleaning kit) | Nu-Calgon Evap Foam | $20-35 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) / [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-e15-error-code) |
+| Hot detergent / degreaser | Nu-Calgon Nickel-Safe Coil Cleaner | $25-45 | [Parts Town](https://www.partstown.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=manitowoc-e15-error-code) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
 | Fin comb | Generic | $15-25 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
 
 Order any HPCO switch with its gasket and O-rings — Manitowoc switch bodies don't seal reliably on used gaskets.

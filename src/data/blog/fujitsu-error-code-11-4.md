@@ -63,11 +63,11 @@ The 1-2-3 cable on Fujitsu is *not* polarity sensitive in the same way Daikin F1
 
 | Part | OEM Number (typical) | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Outdoor inverter PCB (AOU12-18RLS3) | 9707080-xx | $395–$580 | [HVAC Parts Shop](https://www.hvacpartsshop.com?aff=PLACEHOLDER-HPS) / [Grainger](https://www.grainger.com?aff=PLACEHOLDER-GRAINGER) |
-| Indoor controller PCB (ASU wall mount) | 9707080-xx | $245–$385 | [HVAC Parts Shop](https://www.hvacpartsshop.com?aff=PLACEHOLDER-HPS) |
-| F1 outdoor PCB fuse, 5A 250V glass | 9707080 series | $8–$18 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) / [Grainger](https://www.grainger.com?aff=PLACEHOLDER-GRAINGER) |
-| 1-2-3 indoor-outdoor cable, 14/3 stranded jacketed, 50 ft | Southwire | $55–$95 | [Home Depot](https://www.homedepot.com?aff=PLACEHOLDER-HD) |
-| Line-set rubber grommet kit | Rectorseal | $12–$22 | [Home Depot](https://www.homedepot.com?aff=PLACEHOLDER-HD) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Outdoor inverter PCB (AOU12-18RLS3) | 9707080-xx | $395–$580 | [HVAC Parts Shop](https://www.hvacpartsshop.com) / [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=fujitsu-error-code-11-4) |
+| Indoor controller PCB (ASU wall mount) | 9707080-xx | $245–$385 | [HVAC Parts Shop](https://www.hvacpartsshop.com) |
+| F1 outdoor PCB fuse, 5A 250V glass | 9707080 series | $8–$18 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) / [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=fujitsu-error-code-11-4) |
+| 1-2-3 indoor-outdoor cable, 14/3 stranded jacketed, 50 ft | Southwire | $55–$95 | [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=fujitsu-error-code-11-4) |
+| Line-set rubber grommet kit | Rectorseal | $12–$22 | [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=fujitsu-error-code-11-4) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
 
 Order replacement PCBs with the gasket and clip kit — Fujitsu boards ship in protective bags but the small thermal pad on the bridge rectifier sometimes doesn't come with the basic part.
 

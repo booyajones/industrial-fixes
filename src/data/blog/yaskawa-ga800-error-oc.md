@@ -90,13 +90,13 @@ The GA800 is a sealed-power-stage drive — Yaskawa does not sell IGBT modules, 
 
 | Part | Catalog Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| GA800, 480V, 5HP (ND) | CIMR-GA4A0011FAA | $1,650–$1,950 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| GA800, 480V, 10HP (ND) | CIMR-GA4A0018FAA | $2,300–$2,750 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| GA800, 480V, 25HP (ND) | CIMR-GA4A0038FAA | $3,800–$4,500 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| GA800 LCD keypad | JVOP-KPLCA04 | $385–$475 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI) |
-| GA800 EtherNet/IP option | SI-EN3 | $725–$890 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| Fluke 1587 FC insulation/multimeter combo | FLUKE-1587 FC | $700–$880 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| Megger MIT420/2 1000V insulation tester | MIT420/2 | $1,250–$1,500 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
+| GA800, 480V, 5HP (ND) | CIMR-GA4A0011FAA | $1,650–$1,950 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=yaskawa-ga800-error-oc), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=yaskawa-ga800-error-oc), [Wolf Automation](https://www.wolfautomation.com) |
+| GA800, 480V, 10HP (ND) | CIMR-GA4A0018FAA | $2,300–$2,750 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=yaskawa-ga800-error-oc), [Wolf Automation](https://www.wolfautomation.com) |
+| GA800, 480V, 25HP (ND) | CIMR-GA4A0038FAA | $3,800–$4,500 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=yaskawa-ga800-error-oc), [Wolf Automation](https://www.wolfautomation.com) |
+| GA800 LCD keypad | JVOP-KPLCA04 | $385–$475 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=yaskawa-ga800-error-oc), [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=yaskawa-ga800-error-oc) |
+| GA800 EtherNet/IP option | SI-EN3 | $725–$890 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=yaskawa-ga800-error-oc), [Wolf Automation](https://www.wolfautomation.com) |
+| Fluke 1587 FC insulation/multimeter combo | FLUKE-1587 FC | $700–$880 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=yaskawa-ga800-error-oc) |
+| Megger MIT420/2 1000V insulation tester | MIT420/2 | $1,250–$1,500 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=yaskawa-ga800-error-oc) |
 | Wera torque screwdriver, 1.2–3.0 Nm | Wera 7440 ESD | $185–$240 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
 
 ## When to call a controls engineer

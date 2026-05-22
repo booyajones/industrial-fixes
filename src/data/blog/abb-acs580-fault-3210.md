@@ -94,16 +94,16 @@ Before opening the cabinet: lock and tag the upstream disconnect. Wait the rated
 
 | Part | Catalog Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| ACS580-01, 480V, 5.5kW (7.5HP) | ACS580-01-12A6-4 | $1,850–$2,200 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| ACS580-01, 480V, 11kW (15HP) | ACS580-01-026A-4 | $2,850–$3,400 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| ACS580-01, 480V, 22kW (30HP) | ACS580-01-046A-4 | $4,200–$5,000 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| ACS580-01, 480V, 45kW (60HP) | ACS580-01-088A-4 | $6,500–$7,800 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| ABB JBR-08 brake resistor 22Ω 1200W | 68878597 | $385–$525 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| ABB JBR-12 brake resistor 16Ω 2400W | 68878598 | $625–$795 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| External NBRA brake unit 75kW | NBRA-65C | $1,450–$1,750 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| ACS-AP-W assistant control panel | 3AUA0000094568 | $385–$485 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| Fluke 1748 power quality logger | FLUKE-1748/BASIC | $7,400–$8,800 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Fluke 87V industrial multimeter | FLUKE-87-5 | $480–$580 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
+| ACS580-01, 480V, 5.5kW (7.5HP) | ACS580-01-12A6-4 | $1,850–$2,200 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=abb-acs580-fault-3210), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=abb-acs580-fault-3210) |
+| ACS580-01, 480V, 11kW (15HP) | ACS580-01-026A-4 | $2,850–$3,400 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=abb-acs580-fault-3210), [Wolf Automation](https://www.wolfautomation.com) |
+| ACS580-01, 480V, 22kW (30HP) | ACS580-01-046A-4 | $4,200–$5,000 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=abb-acs580-fault-3210), [Wolf Automation](https://www.wolfautomation.com) |
+| ACS580-01, 480V, 45kW (60HP) | ACS580-01-088A-4 | $6,500–$7,800 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=abb-acs580-fault-3210), [Wolf Automation](https://www.wolfautomation.com) |
+| ABB JBR-08 brake resistor 22Ω 1200W | 68878597 | $385–$525 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=abb-acs580-fault-3210), [Wolf Automation](https://www.wolfautomation.com) |
+| ABB JBR-12 brake resistor 16Ω 2400W | 68878598 | $625–$795 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=abb-acs580-fault-3210) |
+| External NBRA brake unit 75kW | NBRA-65C | $1,450–$1,750 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=abb-acs580-fault-3210), [Wolf Automation](https://www.wolfautomation.com) |
+| ACS-AP-W assistant control panel | 3AUA0000094568 | $385–$485 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=abb-acs580-fault-3210) |
+| Fluke 1748 power quality logger | FLUKE-1748/BASIC | $7,400–$8,800 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=abb-acs580-fault-3210), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Fluke 87V industrial multimeter | FLUKE-87-5 | $480–$580 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=abb-acs580-fault-3210) |
 
 The ACS580's DC link capacitors and brake chopper IGBT are not field-replaceable on frames R0–R5. A confirmed chopper failure requires drive replacement. ABB's standard warranty is 18 months from delivery / 12 months from commissioning, whichever is shorter — check the production code on the drive nameplate before ordering.
 

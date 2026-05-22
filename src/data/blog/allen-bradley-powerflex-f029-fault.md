@@ -88,14 +88,14 @@ Safety first, even though analog circuits are low energy: lock and tag if you'll
 
 | Part | Catalog Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| 4-20mA loop calibrator | Fluke 705 | $610–$780 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| 4-20mA process clamp meter | Fluke 773 | $390–$520 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI) |
-| Belden 8761 instrumentation cable (twisted shielded pair) | 8761 | $0.95–$1.40/ft | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Phoenix Contact UT 2.5 terminal block | 3044102 | $4.50–$6.50 each | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Allen-Bradley 1734-IE2C 4-20mA analog input card | 1734-IE2C | $440–$580 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| Allen-Bradley 1734-OE2C 4-20mA analog output card | 1734-OE2C | $480–$620 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| Endress+Hauser Promag 4-20mA flow transmitter (replacement) | Various | $1,200–$3,500 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| PowerFlex 525 drive replacement (5HP, 480V) | 25B-D010N104 | $1,150–$1,400 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
+| 4-20mA loop calibrator | Fluke 705 | $610–$780 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f029-fault) |
+| 4-20mA process clamp meter | Fluke 773 | $390–$520 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f029-fault) |
+| Belden 8761 instrumentation cable (twisted shielded pair) | 8761 | $0.95–$1.40/ft | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f029-fault), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Phoenix Contact UT 2.5 terminal block | 3044102 | $4.50–$6.50 each | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f029-fault), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Allen-Bradley 1734-IE2C 4-20mA analog input card | 1734-IE2C | $440–$580 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f029-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| Allen-Bradley 1734-OE2C 4-20mA analog output card | 1734-OE2C | $480–$620 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f029-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| Endress+Hauser Promag 4-20mA flow transmitter (replacement) | Various | $1,200–$3,500 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f029-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| PowerFlex 525 drive replacement (5HP, 480V) | 25B-D010N104 | $1,150–$1,400 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f029-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f029-fault) |
 
 The drive itself almost never causes F029 — the burden resistor on the analog input can fail if overvoltage was applied, but in 15 years I've replaced exactly one drive for an analog input failure.
 

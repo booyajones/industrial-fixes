@@ -83,14 +83,14 @@ Before you start: power off at the furnace switch and gas off at the gas valve. 
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Flame sensor (Lennox) | Lennox 24L8501 | $35-55 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Flame sensor bracket | Lennox 50J27 | $25-45 | [RepairClinic](https://www.repairclinic.com) |
-| Hot surface ignitor (nitride) | Lennox 27W92 / 78H56 | $45-75 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Burner assembly (single cell) | Lennox 10G73 | $45-85 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Gas valve (Honeywell VR8205 for Lennox) | Lennox 14T70 | $245-345 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Integrated control board (varies by model) | Lennox 81W03 / 67M41 | $295-680 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Digital manometer | Testo 510i / Fieldpiece SDMN6 | $130-275 | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com) |
-| 0000-grade steel wool | Generic | $5-8 | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com) |
+| Flame sensor (Lennox) | Lennox 24L8501 | $35-55 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lennox-error-code-270), [Amazon](https://www.amazon.com) |
+| Flame sensor bracket | Lennox 50J27 | $25-45 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lennox-error-code-270) |
+| Hot surface ignitor (nitride) | Lennox 27W92 / 78H56 | $45-75 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lennox-error-code-270), [Amazon](https://www.amazon.com) |
+| Burner assembly (single cell) | Lennox 10G73 | $45-85 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lennox-error-code-270), [Amazon](https://www.amazon.com) |
+| Gas valve (Honeywell VR8205 for Lennox) | Lennox 14T70 | $245-345 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lennox-error-code-270), [Amazon](https://www.amazon.com) |
+| Integrated control board (varies by model) | Lennox 81W03 / 67M41 | $295-680 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lennox-error-code-270), [Amazon](https://www.amazon.com) |
+| Digital manometer | Testo 510i / Fieldpiece SDMN6 | $130-275 | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lennox-error-code-270) |
+| 0000-grade steel wool | Generic | $5-8 | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lennox-error-code-270) |
 
 ## When to call a professional
 

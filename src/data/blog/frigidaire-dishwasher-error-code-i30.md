@@ -66,14 +66,14 @@ Before you start: disconnect power at the breaker, shut off the supply at the wa
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Detergent dispenser assembly | Frigidaire 154754502 | $115-185 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Sump-to-tub gasket | Frigidaire 154827601 | $25-45 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Door gasket (tub) | Frigidaire 154827602 | $45-85 | [RepairClinic](https://www.repairclinic.com), [Home Depot](https://www.homedepot.com) |
-| Float switch and float | Frigidaire 5304521547 | $35-55 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Sump pump assembly | Frigidaire 154844301 | $185-285 | [RepairClinic](https://www.repairclinic.com) |
-| Water inlet valve | Frigidaire 5304475624 | $55-95 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Drain hose (with clamps) | Frigidaire 5304475636 | $25-45 | [RepairClinic](https://www.repairclinic.com), [Home Depot](https://www.homedepot.com) |
-| Main control board | Frigidaire 5304504815 | $145-265 | [RepairClinic](https://www.repairclinic.com) |
+| Detergent dispenser assembly | Frigidaire 154754502 | $115-185 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=frigidaire-dishwasher-error-code-i30), [Amazon](https://www.amazon.com) |
+| Sump-to-tub gasket | Frigidaire 154827601 | $25-45 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=frigidaire-dishwasher-error-code-i30), [Amazon](https://www.amazon.com) |
+| Door gasket (tub) | Frigidaire 154827602 | $45-85 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=frigidaire-dishwasher-error-code-i30), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=frigidaire-dishwasher-error-code-i30) |
+| Float switch and float | Frigidaire 5304521547 | $35-55 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=frigidaire-dishwasher-error-code-i30), [Amazon](https://www.amazon.com) |
+| Sump pump assembly | Frigidaire 154844301 | $185-285 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=frigidaire-dishwasher-error-code-i30) |
+| Water inlet valve | Frigidaire 5304475624 | $55-95 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=frigidaire-dishwasher-error-code-i30), [Amazon](https://www.amazon.com) |
+| Drain hose (with clamps) | Frigidaire 5304475636 | $25-45 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=frigidaire-dishwasher-error-code-i30), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=frigidaire-dishwasher-error-code-i30) |
+| Main control board | Frigidaire 5304504815 | $145-265 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=frigidaire-dishwasher-error-code-i30) |
 
 ## When to call a professional
 

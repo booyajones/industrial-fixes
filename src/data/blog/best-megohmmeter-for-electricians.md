@@ -32,7 +32,7 @@ After 11 years troubleshooting variable-frequency drives, motor starters, and fe
 ### 1. Fluke 1587 FC — Best megohmmeter + DMM combo for industrial techs
 
 **Brand + model:** Fluke 1587 FC Insulation Multimeter
-**Approximate price:** $890 ([Fluke 1587 FC on Amazon](https://amzn.to/PLACEHOLDER-1587FC), [Fluke 1587 FC at TruTech Tools](https://trutechtools.com/PLACEHOLDER-1587FC))
+**Approximate price:** $890 ([Fluke 1587 FC on Amazon](https://www.amazon.com/s?k=1587FC&tag=errorcodefixes-20), [Fluke 1587 FC at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-megohmmeter-for-electricians))
 
 - Insulation test voltages: 50, 100, 250, 500, 1000V
 - Full TRMS DMM (AC/DC voltage, current, resistance, capacitance, frequency)
@@ -47,7 +47,7 @@ After 11 years troubleshooting variable-frequency drives, motor starters, and fe
 ### 2. Megger MIT400/2 — Best dedicated megohmmeter under $600
 
 **Brand + model:** Megger MIT400/2 Series (specifically MIT430/2)
-**Approximate price:** $560 ([Megger MIT430/2 on Amazon](https://amzn.to/PLACEHOLDER-MIT430), [Megger MIT430/2 at TruTech Tools](https://trutechtools.com/PLACEHOLDER-MIT430))
+**Approximate price:** $560 ([Megger MIT430/2 on Amazon](https://www.amazon.com/s?k=MIT430&tag=errorcodefixes-20), [Megger MIT430/2 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-megohmmeter-for-electricians))
 
 - Test voltages: 250V, 500V, 1000V (MIT430/2 model)
 - Insulation range to 200 GΩ
@@ -62,7 +62,7 @@ After 11 years troubleshooting variable-frequency drives, motor starters, and fe
 ### 3. AEMC 6505 — Best for medium-voltage testing (2500V class)
 
 **Brand + model:** AEMC 6505 Megohmmeter
-**Approximate price:** $1,400 ([AEMC 6505 on Amazon](https://amzn.to/PLACEHOLDER-6505), [AEMC 6505 at Grainger](https://grainger.com/PLACEHOLDER-6505))
+**Approximate price:** $1,400 ([AEMC 6505 on Amazon](https://www.amazon.com/s?k=6505&tag=errorcodefixes-20), [AEMC 6505 at Grainger](https://grainger.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-megohmmeter-for-electricians))
 
 - Test voltages: 500V, 1000V, 2500V
 - Insulation range to 5 TΩ

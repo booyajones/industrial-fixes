@@ -88,14 +88,14 @@ Safety: F007 trips can happen because of a mechanical jam that's still binding. 
 
 | Part | Catalog Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| PowerFlex 525 replacement (5HP, 480V) | 25B-D010N104 | $1,150–$1,400 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| PowerFlex 525 internal cooling fan kit | 25-FAN1-B70 (frame B) | $85–$120 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| TEFC motor cooling fan (Baldor 5HP) | 36FN1004A02SP | $45–$75 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Replacement motor, 5HP TEFC 480V inverter-duty | Baldor EM3611T or equiv | $850–$1,250 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI) |
-| Klein Tools clamp meter (true RMS) | CL800 | $180–$240 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI) |
-| 500V megohmmeter | Fluke 1587 FC | $720–$880 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Motor PTC thermistor (PTC type) | Various 130°C trip | $35–$95 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| 20-750-UFB-1 universal feedback option (755) | 20-750-UFB-1 | $380–$520 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
+| PowerFlex 525 replacement (5HP, 480V) | 25B-D010N104 | $1,150–$1,400 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f007-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f007-fault) |
+| PowerFlex 525 internal cooling fan kit | 25-FAN1-B70 (frame B) | $85–$120 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f007-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| TEFC motor cooling fan (Baldor 5HP) | 36FN1004A02SP | $45–$75 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f007-fault), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Replacement motor, 5HP TEFC 480V inverter-duty | Baldor EM3611T or equiv | $850–$1,250 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f007-fault), [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f007-fault) |
+| Klein Tools clamp meter (true RMS) | CL800 | $180–$240 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f007-fault) |
+| 500V megohmmeter | Fluke 1587 FC | $720–$880 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f007-fault), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Motor PTC thermistor (PTC type) | Various 130°C trip | $35–$95 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f007-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| 20-750-UFB-1 universal feedback option (755) | 20-750-UFB-1 | $380–$520 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f007-fault), [Wolf Automation](https://www.wolfautomation.com) |
 
 If the drive's internal cooling fan has failed (you'll see F008 Heatsink Overtemp or a heatsink temp alarm preceding F007), replace the drive fan, not the drive — the 525 fans are field-replaceable on frames B and larger.
 

@@ -50,8 +50,8 @@ Code 414 is stored in the furnace's fault history and displayed on the diagnosti
 
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|---------------|
-| Lennox Gas Valve | 1171688 | $140–$165 | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-lennox-error-code-414-gas-valve-circuit-fault&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=1171688) |
-| Lennox SureLight Control Board | 51M33 | $220–$275 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-lennox-error-code-414-gas-valve-circuit-fault&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=51M33) |
+| Lennox Gas Valve | 1171688 | $140–$165 | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-lennox-error-code-414-gas-valve-circuit-fault&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=1171688&utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lennox-error-code-414-gas-valve-circuit-fault) |
+| Lennox SureLight Control Board | 51M33 | $220–$275 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-lennox-error-code-414-gas-valve-circuit-fault&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=51M33&utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lennox-error-code-414-gas-valve-circuit-fault) |
 | Wiring Harness (if burnt) | — | $40–$80 | [Lennox dealer](https://www.lennox.com/dealers) |
 
 ## When to Call a Professional

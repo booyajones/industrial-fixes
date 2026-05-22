@@ -76,13 +76,13 @@ Before you touch anything: lock and tag the disconnect, wait the rated discharge
 
 | Part | Catalog Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| 20-750-ENC-1 Single Encoder Option (755) | 20-750-ENC-1 | $580–$720 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| 20-750-DENC-1 Dual Encoder Option (755) | 20-750-DENC-1 | $890–$1,100 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| 25-ENC Encoder kit for PF525 | 25-ENC | $295–$380 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| Allen-Bradley 845H series encoder, 1024 PPR | 845H-SJDN24DDLY4 | $580–$760 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| Encoder cable (shielded, 18 AWG, per ft) | Belden 1030A | $3–$5/ft | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Würth ferrite core (large bore) | 74271132 | $4–$8 each | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| Encoder flex coupling (1/4" to 3/8") | Lovejoy SX-1 or equivalent | $35–$65 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
+| 20-750-ENC-1 Single Encoder Option (755) | 20-750-ENC-1 | $580–$720 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f091-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| 20-750-DENC-1 Dual Encoder Option (755) | 20-750-DENC-1 | $890–$1,100 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f091-fault) |
+| 25-ENC Encoder kit for PF525 | 25-ENC | $295–$380 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f091-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f091-fault) |
+| Allen-Bradley 845H series encoder, 1024 PPR | 845H-SJDN24DDLY4 | $580–$760 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f091-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f091-fault) |
+| Encoder cable (shielded, 18 AWG, per ft) | Belden 1030A | $3–$5/ft | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f091-fault), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Würth ferrite core (large bore) | 74271132 | $4–$8 each | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f091-fault) |
+| Encoder flex coupling (1/4" to 3/8") | Lovejoy SX-1 or equivalent | $35–$65 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=allen-bradley-powerflex-f091-fault) |
 
 ## When to call a controls engineer
 

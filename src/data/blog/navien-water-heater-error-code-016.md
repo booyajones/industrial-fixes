@@ -72,16 +72,16 @@ Safety first: close gas, kill power, let unit cool. Hot water at 200°F+ scalds 
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Inlet water filter screen | Navien 30002131 | $14-28 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
-| Flow sensor assembly | Navien 30015168 | $58-90 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
-| Outlet temperature sensor (NPE-A 2nd gen) | Navien 30016322 | $42-68 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
-| Inlet temperature sensor | Navien 30016324 | $38-62 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
-| Heat exchanger (NPE-A 240) | Navien 30025028 | $1100-1650 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
-| Recirculation pump (NPE-A) | Navien 30009881 | $245-380 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
-| Service valve kit (isolation) | Navien NPE-Y8 | $145-220 | [Supply House](https://www.supplyhouse.com), [Home Depot](https://www.homedepot.com) |
-| Descaler kit (pump, hoses, bucket) | Navien NPE-DESC-001 / generic Hercules Sizzle | $115-180 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
-| Citric acid descaler (5 gal jug) | Hercules / Cresote 5402 | $52-85 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
-| Main control board (NPE-A 2nd gen) | Navien 30021301 | $580-820 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
+| Inlet water filter screen | Navien 30002131 | $14-28 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=navien-water-heater-error-code-016) |
+| Flow sensor assembly | Navien 30015168 | $58-90 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=navien-water-heater-error-code-016) |
+| Outlet temperature sensor (NPE-A 2nd gen) | Navien 30016322 | $42-68 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=navien-water-heater-error-code-016) |
+| Inlet temperature sensor | Navien 30016324 | $38-62 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=navien-water-heater-error-code-016) |
+| Heat exchanger (NPE-A 240) | Navien 30025028 | $1100-1650 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=navien-water-heater-error-code-016) |
+| Recirculation pump (NPE-A) | Navien 30009881 | $245-380 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=navien-water-heater-error-code-016) |
+| Service valve kit (isolation) | Navien NPE-Y8 | $145-220 | [Supply House](https://www.supplyhouse.com), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=navien-water-heater-error-code-016) |
+| Descaler kit (pump, hoses, bucket) | Navien NPE-DESC-001 / generic Hercules Sizzle | $115-180 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=navien-water-heater-error-code-016) |
+| Citric acid descaler (5 gal jug) | Hercules / Cresote 5402 | $52-85 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=navien-water-heater-error-code-016) |
+| Main control board (NPE-A 2nd gen) | Navien 30021301 | $580-820 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=navien-water-heater-error-code-016) |
 
 Note: Heat exchanger replacement is rare but possible after years of severe scale and corrosion. The HX is the most expensive single part on the unit; if you're facing HX replacement plus labor, compare to total replacement cost — sometimes a new NPE-A is the better long-term value.
 

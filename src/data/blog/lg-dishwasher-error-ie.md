@@ -63,13 +63,13 @@ Before you start: shut off water at the wall valve under the sink, and disconnec
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Water inlet valve (older LDF series) | LG 5220FR2006H | $45-85 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Water inlet valve (QuadWash) | LG 5221DD1003E | $65-115 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Float switch assembly | LG 6601EL3001A | $35-65 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Inlet hose (3/8" braided stainless) | Generic / Camco | $12-20 | [Home Depot](https://www.homedepot.com), [Amazon](https://www.amazon.com) |
-| Inline filter screen | LG 5006DD1001E | $8-15 | [RepairClinic](https://www.repairclinic.com) |
-| Sump assembly with sensor (QuadWash) | LG AJU72992604 | $185-285 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Main control PCB | LG EBR-series (model-specific) | $145-285 | [RepairClinic](https://www.repairclinic.com) |
+| Water inlet valve (older LDF series) | LG 5220FR2006H | $45-85 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lg-dishwasher-error-ie), [Amazon](https://www.amazon.com) |
+| Water inlet valve (QuadWash) | LG 5221DD1003E | $65-115 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lg-dishwasher-error-ie), [Amazon](https://www.amazon.com) |
+| Float switch assembly | LG 6601EL3001A | $35-65 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lg-dishwasher-error-ie), [Amazon](https://www.amazon.com) |
+| Inlet hose (3/8" braided stainless) | Generic / Camco | $12-20 | [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lg-dishwasher-error-ie), [Amazon](https://www.amazon.com) |
+| Inline filter screen | LG 5006DD1001E | $8-15 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lg-dishwasher-error-ie) |
+| Sump assembly with sensor (QuadWash) | LG AJU72992604 | $185-285 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lg-dishwasher-error-ie), [Amazon](https://www.amazon.com) |
+| Main control PCB | LG EBR-series (model-specific) | $145-285 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lg-dishwasher-error-ie) |
 
 The LG 5220FR2006H valve is a workhorse — fits dozens of LDF, LDS, LDP models from 2008-2017. Confirm model fit before ordering.
 

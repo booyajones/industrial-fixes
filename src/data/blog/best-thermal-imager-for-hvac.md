@@ -33,7 +33,7 @@ After 14 years of using infrared for tracing radiant heat lines, finding moistur
 ### 1. Seek ShotPRO — Best all-around HVAC thermal imager
 
 **Brand + model:** Seek ShotPRO Thermal Imaging Camera
-**Approximate price:** $700 ([Seek ShotPRO on Amazon](https://amzn.to/PLACEHOLDER-SHOTPRO), [Seek ShotPRO at TruTech Tools](https://trutechtools.com/PLACEHOLDER-SHOTPRO))
+**Approximate price:** $700 ([Seek ShotPRO on Amazon](https://www.amazon.com/s?k=SHOTPRO&tag=errorcodefixes-20), [Seek ShotPRO at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-thermal-imager-for-hvac))
 
 - 320×240 thermal detector — real, not interpolated
 - 70 mK NETD — sensitive enough for refrigerant leak detection on low-side lines
@@ -49,7 +49,7 @@ After 14 years of using infrared for tracing radiant heat lines, finding moistur
 ### 2. Fluke TiS75+ — Best for commercial HVAC and electrical inspection reports
 
 **Brand + model:** Fluke TiS75+ Performance Series Thermal Imager
-**Approximate price:** $3,200 ([Fluke TiS75+ on Amazon](https://amzn.to/PLACEHOLDER-TIS75), [Fluke TiS75+ at TruTech Tools](https://trutechtools.com/PLACEHOLDER-TIS75))
+**Approximate price:** $3,200 ([Fluke TiS75+ on Amazon](https://www.amazon.com/s?k=TIS75&tag=errorcodefixes-20), [Fluke TiS75+ at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-thermal-imager-for-hvac))
 
 - 256×192 thermal detector (Super Resolution interpolation to 512×384)
 - ≤60 mK NETD
@@ -65,7 +65,7 @@ After 14 years of using infrared for tracing radiant heat lines, finding moistur
 ### 3. Hikmicro Pocket 2 — Best budget thermal imager under $500
 
 **Brand + model:** Hikmicro Pocket 2 Handheld Thermal Imager
-**Approximate price:** $470 ([Hikmicro Pocket 2 on Amazon](https://amzn.to/PLACEHOLDER-POCKET2), [Hikmicro Pocket 2 at TruTech Tools](https://trutechtools.com/PLACEHOLDER-POCKET2))
+**Approximate price:** $470 ([Hikmicro Pocket 2 on Amazon](https://www.amazon.com/s?k=POCKET2&tag=errorcodefixes-20), [Hikmicro Pocket 2 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-thermal-imager-for-hvac))
 
 - 256×192 thermal detector
 - 40 mK NETD — best-in-class sensitivity at this price

@@ -64,12 +64,12 @@ A frozen indoor coil is sometimes a 15:1 contributor — refrigerant boiling off
 
 | Part | OEM Number (typical) | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Low-pressure switch | 9707080-xx | $55–$110 | [HVAC Parts Shop](https://www.hvacpartsshop.com?aff=PLACEHOLDER-HPS) |
-| Liquid line filter-drier | 9707080 family | $35–$65 | [HVAC Parts Shop](https://www.hvacpartsshop.com?aff=PLACEHOLDER-HPS) |
-| Indoor flare nut/gasket kit | 9707080 family | $25–$50 | [HVAC Parts Shop](https://www.hvacpartsshop.com?aff=PLACEHOLDER-HPS) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Electronic expansion valve (EEV) | 9707080-xx | $185–$320 | [HVAC Parts Shop](https://www.hvacpartsshop.com?aff=PLACEHOLDER-HPS) |
-| Schrader core kit | universal | $5–$15 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) / [Home Depot](https://www.homedepot.com?aff=PLACEHOLDER-HD) |
-| R-410A refrigerant (25 lb cyl) | Honeywell Solstice | $295–$450 | [HVAC Parts Shop](https://www.hvacpartsshop.com?aff=PLACEHOLDER-HPS) / [Grainger](https://www.grainger.com?aff=PLACEHOLDER-GRAINGER) |
+| Low-pressure switch | 9707080-xx | $55–$110 | [HVAC Parts Shop](https://www.hvacpartsshop.com) |
+| Liquid line filter-drier | 9707080 family | $35–$65 | [HVAC Parts Shop](https://www.hvacpartsshop.com) |
+| Indoor flare nut/gasket kit | 9707080 family | $25–$50 | [HVAC Parts Shop](https://www.hvacpartsshop.com) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Electronic expansion valve (EEV) | 9707080-xx | $185–$320 | [HVAC Parts Shop](https://www.hvacpartsshop.com) |
+| Schrader core kit | universal | $5–$15 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) / [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=fujitsu-error-code-15-1) |
+| R-410A refrigerant (25 lb cyl) | Honeywell Solstice | $295–$450 | [HVAC Parts Shop](https://www.hvacpartsshop.com) / [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=fujitsu-error-code-15-1) |
 
 For any sealed-system service, order the drier with the flare gaskets — never reuse a flare gasket after breaking the joint.
 

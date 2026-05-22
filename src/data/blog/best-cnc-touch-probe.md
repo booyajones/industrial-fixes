@@ -32,7 +32,7 @@ After 13 years setting up Mazak Integrex multi-tasking centers, Haas VF-series V
 ### 1. Renishaw OMP60 — Best general-purpose CNC touch probe
 
 **Brand + model:** Renishaw OMP60 Optical Machine Probe
-**Approximate price:** $4,800 (probe) + $1,500 (receiver) ([Renishaw OMP60 on Amazon](https://amzn.to/PLACEHOLDER-OMP60), [Renishaw OMP60 at Grainger](https://grainger.com/PLACEHOLDER-OMP60))
+**Approximate price:** $4,800 (probe) + $1,500 (receiver) ([Renishaw OMP60 on Amazon](https://www.amazon.com/s?k=OMP60&tag=errorcodefixes-20), [Renishaw OMP60 at Grainger](https://grainger.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-cnc-touch-probe))
 
 - ±1 µm 2σ repeatability
 - Optical signal (line-of-sight), 5-meter range
@@ -48,7 +48,7 @@ After 13 years setting up Mazak Integrex multi-tasking centers, Haas VF-series V
 ### 2. Heidenhain TS460 — Best for Heidenhain controls
 
 **Brand + model:** Heidenhain TS460 Touch Probe with Cable Adapter
-**Approximate price:** $5,200 ([Heidenhain TS460 on Amazon](https://amzn.to/PLACEHOLDER-TS460), [Heidenhain TS460 at Grainger](https://grainger.com/PLACEHOLDER-TS460))
+**Approximate price:** $5,200 ([Heidenhain TS460 on Amazon](https://www.amazon.com/s?k=TS460&tag=errorcodefixes-20), [Heidenhain TS460 at Grainger](https://grainger.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-cnc-touch-probe))
 
 - ±0.5 µm repeatability
 - Native Heidenhain protocol — no signal-conversion overhead
@@ -63,7 +63,7 @@ After 13 years setting up Mazak Integrex multi-tasking centers, Haas VF-series V
 ### 3. Blum TC52 — Best for high-throughput / harsh environments
 
 **Brand + model:** Blum Novotest TC52 Touch Probe
-**Approximate price:** $3,800 ([Blum TC52 on Amazon](https://amzn.to/PLACEHOLDER-TC52), [Blum TC52 at TruTech Tools](https://trutechtools.com/PLACEHOLDER-TC52))
+**Approximate price:** $3,800 ([Blum TC52 on Amazon](https://www.amazon.com/s?k=TC52&tag=errorcodefixes-20), [Blum TC52 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-cnc-touch-probe))
 
 - ±0.3 µm 2σ repeatability
 - Optical signal (Blum BRC100 receiver)

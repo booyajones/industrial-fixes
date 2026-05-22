@@ -55,12 +55,12 @@ You'll need: multimeter with kΩ scale, small Phillips, flashlight, ice water cu
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |------|------------|--------------|--------------|
-| Indoor pipe thermistor (TH2), MSZ-GL / MSZ-FH | E12 E48 427 | $44–$60 | [HVAC Parts Shop](https://www.hvacpartsshop.com?aff=PLACEHOLDER-HPS), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Indoor pipe thermistor (TH2), MSZ-LN | E27 E48 304 | $48–$64 | [HVAC Parts Shop](https://www.hvacpartsshop.com?aff=PLACEHOLDER-HPS) |
-| Indoor pipe thermistor (TH2), MLZ cassette | E22 E45 305 | $50–$66 | [HVAC Parts Shop](https://www.hvacpartsshop.com?aff=PLACEHOLDER-HPS), [Grainger](https://www.grainger.com?aff=PLACEHOLDER-GRAINGER) |
-| Indoor pipe thermistor (TH2), SEZ ducted | E12 E47 402 | $46–$62 | [HVAC Parts Shop](https://www.hvacpartsshop.com?aff=PLACEHOLDER-HPS) |
-| TH2 spring clip / band (MSZ) | E12 E84 612 | $9–$14 | [HVAC Parts Shop](https://www.hvacpartsshop.com?aff=PLACEHOLDER-HPS) |
-| Indoor controller PCB, MSZ-GL15NA | E22 R12 305 | $310–$420 | [HVAC Parts Shop](https://www.hvacpartsshop.com?aff=PLACEHOLDER-HPS), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Indoor pipe thermistor (TH2), MSZ-GL / MSZ-FH | E12 E48 427 | $44–$60 | [HVAC Parts Shop](https://www.hvacpartsshop.com), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Indoor pipe thermistor (TH2), MSZ-LN | E27 E48 304 | $48–$64 | [HVAC Parts Shop](https://www.hvacpartsshop.com) |
+| Indoor pipe thermistor (TH2), MLZ cassette | E22 E45 305 | $50–$66 | [HVAC Parts Shop](https://www.hvacpartsshop.com), [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mitsubishi-p2-error-code) |
+| Indoor pipe thermistor (TH2), SEZ ducted | E12 E47 402 | $46–$62 | [HVAC Parts Shop](https://www.hvacpartsshop.com) |
+| TH2 spring clip / band (MSZ) | E12 E84 612 | $9–$14 | [HVAC Parts Shop](https://www.hvacpartsshop.com) |
+| Indoor controller PCB, MSZ-GL15NA | E22 R12 305 | $310–$420 | [HVAC Parts Shop](https://www.hvacpartsshop.com), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
 
 Don't skip the clip. A new sensor on an old, stretched-out clip will just fall off again in 18 months.
 

@@ -67,13 +67,13 @@ Cut power at the disconnect before opening panels. Verify the inducer has fully 
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Pressure switch (single, 0.50" WC) | York S1-02435671000 | $35-65 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Pressure switch (dual, 90% AFUE) | York S1-02441125000 | $55-95 | [RepairClinic](https://www.repairclinic.com), [Home Depot](https://www.homedepot.com) |
-| Inducer motor assembly | York S1-32434074000 / 7062-5715 | $200-330 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Condensate trap | York S1-37315174000 | $30-50 | [Amazon](https://www.amazon.com), [RepairClinic](https://www.repairclinic.com) |
-| Pressure switch tubing (silicone) | Generic 1/4" | $5-10 | [Amazon](https://www.amazon.com), [Lowes](https://www.lowes.com) |
-| Integrated control board (Affinity/LX) | York S1-03101932000 | $250-420 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Wiring harness (burner area) | York S1-37322097000 | $40-70 | [RepairClinic](https://www.repairclinic.com) |
+| Pressure switch (single, 0.50" WC) | York S1-02435671000 | $35-65 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=york-error-code-1), [Amazon](https://www.amazon.com) |
+| Pressure switch (dual, 90% AFUE) | York S1-02441125000 | $55-95 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=york-error-code-1), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=york-error-code-1) |
+| Inducer motor assembly | York S1-32434074000 / 7062-5715 | $200-330 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=york-error-code-1), [Amazon](https://www.amazon.com) |
+| Condensate trap | York S1-37315174000 | $30-50 | [Amazon](https://www.amazon.com), [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=york-error-code-1) |
+| Pressure switch tubing (silicone) | Generic 1/4" | $5-10 | [Amazon](https://www.amazon.com), [Lowes](https://www.lowes.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=york-error-code-1) |
+| Integrated control board (Affinity/LX) | York S1-03101932000 | $250-420 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=york-error-code-1), [Amazon](https://www.amazon.com) |
+| Wiring harness (burner area) | York S1-37322097000 | $40-70 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=york-error-code-1) |
 
 Brand note: York, Coleman, Luxaire, and Champion are all part of the Johnson Controls family (now JCI's "Heat Group") and many share OEM parts. The S1-prefix part numbers are JCI universal across these brands; check the original sticker before ordering.
 

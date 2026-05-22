@@ -21,7 +21,7 @@ If you want a feature-rich French-door refrigerator with the most-developed smar
 |---|---|---|
 | Reliability (5-yr field data) | Good — 7/10 | Good — 7.5/10 |
 | Service network density | Adequate — Samsung Care + 3rd-party | Adequate — LG Authorized + 3rd-party |
-| Parts availability | Good — RepairClinic + Samsung Parts + Amazon | Good — [RepairClinic](https://www.repairclinic.com?aff=PLACEHOLDER-RC) + LG Parts + [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Parts availability | Good — RepairClinic + Samsung Parts + Amazon | Good — [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=samsung-vs-lg-french-door-refrigerators) + LG Parts + [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
 | Error code accessibility | Excellent — codes displayed on touchscreen + diagnostic mode | Excellent — codes on display, SmartDiagnosis via app |
 | Top-tier model (2026) | Family Hub (Bespoke 4-Door Flex with 21" Touch Screen) | InstaView Door-in-Door (Signature, LRMVS3006S) |
 | Mid-tier model | RF28R6201SR / RF27T5201SR | LRFXS3106S / LRFXC2606S |

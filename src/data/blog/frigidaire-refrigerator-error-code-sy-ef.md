@@ -69,14 +69,14 @@ Before you start: unplug the refrigerator and remove all food to a cooler.
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Evap fan motor (French-door BLDC) | Frigidaire 5304504369 | $95-165 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Evap fan motor (side-by-side older) | Frigidaire 5303918549 | $75-135 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Fan mounting bracket | Frigidaire 5304507319 | $15-30 | [RepairClinic](https://www.repairclinic.com) |
-| Defrost thermostat | Frigidaire 5303918214 | $25-45 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Defrost heater (sheath type) | Frigidaire 241927201 | $45-85 | [RepairClinic](https://www.repairclinic.com), [Home Depot](https://www.homedepot.com) |
-| Damper assembly | Frigidaire 241600905 | $115-185 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Main control board (varies by model) | Frigidaire 5304-series | $185-385 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Thermistor (10kΩ NTC) | Frigidaire 5304504709 | $25-45 | [RepairClinic](https://www.repairclinic.com) |
+| Evap fan motor (French-door BLDC) | Frigidaire 5304504369 | $95-165 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=frigidaire-refrigerator-error-code-sy-ef), [Amazon](https://www.amazon.com) |
+| Evap fan motor (side-by-side older) | Frigidaire 5303918549 | $75-135 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=frigidaire-refrigerator-error-code-sy-ef), [Amazon](https://www.amazon.com) |
+| Fan mounting bracket | Frigidaire 5304507319 | $15-30 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=frigidaire-refrigerator-error-code-sy-ef) |
+| Defrost thermostat | Frigidaire 5303918214 | $25-45 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=frigidaire-refrigerator-error-code-sy-ef), [Amazon](https://www.amazon.com) |
+| Defrost heater (sheath type) | Frigidaire 241927201 | $45-85 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=frigidaire-refrigerator-error-code-sy-ef), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=frigidaire-refrigerator-error-code-sy-ef) |
+| Damper assembly | Frigidaire 241600905 | $115-185 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=frigidaire-refrigerator-error-code-sy-ef), [Amazon](https://www.amazon.com) |
+| Main control board (varies by model) | Frigidaire 5304-series | $185-385 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=frigidaire-refrigerator-error-code-sy-ef), [Amazon](https://www.amazon.com) |
+| Thermistor (10kΩ NTC) | Frigidaire 5304504709 | $25-45 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=frigidaire-refrigerator-error-code-sy-ef) |
 
 ## When to call a professional
 

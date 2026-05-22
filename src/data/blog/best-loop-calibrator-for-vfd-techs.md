@@ -33,7 +33,7 @@ Across 11 years of VFD work, refinery instrumentation, and water/wastewater proc
 ### 1. Fluke 715 — Best general-purpose loop calibrator
 
 **Brand + model:** Fluke 715 Volt/mA Calibrator
-**Approximate price:** $1,050 ([Fluke 715 on Amazon](https://amzn.to/PLACEHOLDER-715), [Fluke 715 at TruTech Tools](https://trutechtools.com/PLACEHOLDER-715))
+**Approximate price:** $1,050 ([Fluke 715 on Amazon](https://www.amazon.com/s?k=715&tag=errorcodefixes-20), [Fluke 715 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-loop-calibrator-for-vfd-techs))
 
 - 0–24 mA source, sink, measure
 - 0–100 mV and 0–20V voltage source/measure
@@ -49,7 +49,7 @@ Across 11 years of VFD work, refinery instrumentation, and water/wastewater proc
 ### 2. Druck DPI 620 Genii — Best multifunction calibrator
 
 **Brand + model:** Druck DPI 620 Genii Multifunction Calibrator
-**Approximate price:** $2,800 ([Druck DPI 620 on Amazon](https://amzn.to/PLACEHOLDER-DPI620), [Druck DPI 620 at Grainger](https://grainger.com/PLACEHOLDER-DPI620))
+**Approximate price:** $2,800 ([Druck DPI 620 on Amazon](https://www.amazon.com/s?k=DPI620&tag=errorcodefixes-20), [Druck DPI 620 at Grainger](https://grainger.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-loop-calibrator-for-vfd-techs))
 
 - 0–24 mA source, sink, measure
 - 0–30V source, 0–300V measure
@@ -66,7 +66,7 @@ Across 11 years of VFD work, refinery instrumentation, and water/wastewater proc
 ### 3. Beamex MC2-IS — Best for intrinsically safe environments
 
 **Brand + model:** Beamex MC2-IS Intrinsically Safe Multifunction Calibrator
-**Approximate price:** $4,500 ([Beamex MC2-IS on Amazon](https://amzn.to/PLACEHOLDER-MC2IS), [Beamex MC2-IS at Grainger](https://grainger.com/PLACEHOLDER-MC2IS))
+**Approximate price:** $4,500 ([Beamex MC2-IS on Amazon](https://www.amazon.com/s?k=MC2IS&tag=errorcodefixes-20), [Beamex MC2-IS at Grainger](https://grainger.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-loop-calibrator-for-vfd-techs))
 
 - ATEX / IECEx Zone 0 / Class I Div 1 certified
 - 0–24 mA source, sink, measure

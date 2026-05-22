@@ -68,10 +68,10 @@ C4 is the same code logic on most M-Series wall mounts (FTX, FTXS, FTXN, MTKN), 
 
 | Part | OEM Number (typical) | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Indoor coil thermistor R2T | 168000J series (model specific) | $35–$75 | [HVAC Parts Shop](https://www.hvacpartsshop.com?aff=PLACEHOLDER-HPS) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Thermistor harness extension | 4017019 family | $25–$45 | [HVAC Parts Shop](https://www.hvacpartsshop.com?aff=PLACEHOLDER-HPS) |
-| Indoor controller PCB | 4017019-xx | $245–$380 | [HVAC Parts Shop](https://www.hvacpartsshop.com?aff=PLACEHOLDER-HPS) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Dielectric grease, 1 oz tube | Permatex 22058 | $4–$10 | [Home Depot](https://www.homedepot.com?aff=PLACEHOLDER-HD) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Indoor coil thermistor R2T | 168000J series (model specific) | $35–$75 | [HVAC Parts Shop](https://www.hvacpartsshop.com) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Thermistor harness extension | 4017019 family | $25–$45 | [HVAC Parts Shop](https://www.hvacpartsshop.com) |
+| Indoor controller PCB | 4017019-xx | $245–$380 | [HVAC Parts Shop](https://www.hvacpartsshop.com) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Dielectric grease, 1 oz tube | Permatex 22058 | $4–$10 | [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=daikin-error-code-c4) / [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
 | Heat shrink tubing kit | 3M FP-301 assortment | $15–$25 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
 
 Always order the thermistor kit with the harness clip — Daikin sells the bare thermistor and the kit at similar price, and the kit gives you a fresh clip that won't break on reinstallation.

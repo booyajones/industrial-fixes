@@ -77,15 +77,15 @@ Before you start: lock and tag the disconnect for any work involving the drive o
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Encoder option card (incremental TTL) | Schneider VW3A3401 | $385-485 | [AutomationDirect](https://www.automationdirect.com), [Galco](https://www.galco.com) |
-| Encoder option card (sin/cos) | Schneider VW3A3402 | $545-685 | [Galco](https://www.galco.com), [AutomationDirect](https://www.automationdirect.com) |
-| Encoder option card (EnDat absolute) | Schneider VW3A3404 | $685-845 | [Galco](https://www.galco.com) |
-| Heidenhain ROD 426 incremental (1024 PPR) | Heidenhain 376857-04 | $785-985 | [Galco](https://www.galco.com), [Amazon](https://www.amazon.com) |
-| BEI HS35 incremental (1024 PPR) | BEI HS35F-100-R2-SS-1024-ABZC-28V/V-EM18 | $385-485 | [Galco](https://www.galco.com), [AutomationDirect](https://www.automationdirect.com) |
-| Encoder cable, shielded (per foot) | Belden 8451 | $5-10/ft | [AutomationDirect](https://www.automationdirect.com), [Amazon](https://www.amazon.com) |
-| Dynamic brake resistor (10 ohm, 1.5kW) | Schneider VW3A7702 | $385-485 | [AutomationDirect](https://www.automationdirect.com), [Galco](https://www.galco.com) |
-| Altivar ATV340 (closed loop, 7.5kW) | Schneider ATV340U75N4 | $2,400-3,200 | [Galco](https://www.galco.com), [AutomationDirect](https://www.automationdirect.com) |
-| Oscilloscope (encoder waveform check) | Rigol DS1054Z | $385-485 | [Amazon](https://www.amazon.com), [Galco](https://www.galco.com) |
+| Encoder option card (incremental TTL) | Schneider VW3A3401 | $385-485 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=schneider-altivar-fault-code-osf), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=schneider-altivar-fault-code-osf) |
+| Encoder option card (sin/cos) | Schneider VW3A3402 | $545-685 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=schneider-altivar-fault-code-osf), [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=schneider-altivar-fault-code-osf) |
+| Encoder option card (EnDat absolute) | Schneider VW3A3404 | $685-845 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=schneider-altivar-fault-code-osf) |
+| Heidenhain ROD 426 incremental (1024 PPR) | Heidenhain 376857-04 | $785-985 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=schneider-altivar-fault-code-osf), [Amazon](https://www.amazon.com) |
+| BEI HS35 incremental (1024 PPR) | BEI HS35F-100-R2-SS-1024-ABZC-28V/V-EM18 | $385-485 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=schneider-altivar-fault-code-osf), [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=schneider-altivar-fault-code-osf) |
+| Encoder cable, shielded (per foot) | Belden 8451 | $5-10/ft | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=schneider-altivar-fault-code-osf), [Amazon](https://www.amazon.com) |
+| Dynamic brake resistor (10 ohm, 1.5kW) | Schneider VW3A7702 | $385-485 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=schneider-altivar-fault-code-osf), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=schneider-altivar-fault-code-osf) |
+| Altivar ATV340 (closed loop, 7.5kW) | Schneider ATV340U75N4 | $2,400-3,200 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=schneider-altivar-fault-code-osf), [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=schneider-altivar-fault-code-osf) |
+| Oscilloscope (encoder waveform check) | Rigol DS1054Z | $385-485 | [Amazon](https://www.amazon.com), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=schneider-altivar-fault-code-osf) |
 
 ## When to call a controls engineer
 

@@ -32,7 +32,7 @@ After 14 years in residential and light-commercial gas work, I've owned a Testo 
 ### 1. Testo 320 — Best for residential and light-commercial HVAC
 
 **Brand + model:** Testo 320 Combustion Analyzer Kit
-**Approximate price:** $1,000 ([Testo 320 on Amazon](https://amzn.to/PLACEHOLDER-T320), [Testo 320 at TruTech Tools](https://trutechtools.com/PLACEHOLDER-T320))
+**Approximate price:** $1,000 ([Testo 320 on Amazon](https://www.amazon.com/s?k=T320&tag=errorcodefixes-20), [Testo 320 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-combustion-analyzer))
 
 - O2 sensor: 0–21%, ±0.2 vol% accuracy
 - CO sensor: 0–4000 ppm, ±10 ppm or ±10% of reading
@@ -48,7 +48,7 @@ After 14 years in residential and light-commercial gas work, I've owned a Testo 
 ### 2. UEi C155 — Best entry-level combustion analyzer
 
 **Brand + model:** UEi C155 Combustion Analyzer
-**Approximate price:** $750 ([UEi C155 on Amazon](https://amzn.to/PLACEHOLDER-C155), [UEi C155 at TruTech Tools](https://trutechtools.com/PLACEHOLDER-C155))
+**Approximate price:** $750 ([UEi C155 on Amazon](https://www.amazon.com/s?k=C155&tag=errorcodefixes-20), [UEi C155 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-combustion-analyzer))
 
 - O2 and CO sensors with auto-calculated CO2, efficiency, excess air
 - CO range 0–2000 ppm
@@ -62,7 +62,7 @@ After 14 years in residential and light-commercial gas work, I've owned a Testo 
 ### 3. Fieldpiece WLP1 — Best for techs already in the Fieldpiece ecosystem
 
 **Brand + model:** Fieldpiece WLP1 Wireless Combustion Analyzer
-**Approximate price:** $1,400 ([Fieldpiece WLP1 on Amazon](https://amzn.to/PLACEHOLDER-WLP1), [Fieldpiece WLP1 at TruTech Tools](https://trutechtools.com/PLACEHOLDER-WLP1))
+**Approximate price:** $1,400 ([Fieldpiece WLP1 on Amazon](https://www.amazon.com/s?k=WLP1&tag=errorcodefixes-20), [Fieldpiece WLP1 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-combustion-analyzer))
 
 - Wireless to the Job Link app — no display on the probe itself
 - O2 and CO sensors, ±0.3% O2 / ±5% CO accuracy
@@ -76,7 +76,7 @@ After 14 years in residential and light-commercial gas work, I've owned a Testo 
 ### 4. Bacharach Fyrite Insight Plus — Best for institutional or fleet use
 
 **Brand + model:** Bacharach Fyrite Insight Plus
-**Approximate price:** $2,500 ([Fyrite Insight Plus on Amazon](https://amzn.to/PLACEHOLDER-FYRITE), [Fyrite Insight Plus at Grainger](https://grainger.com/PLACEHOLDER-FYRITE))
+**Approximate price:** $2,500 ([Fyrite Insight Plus on Amazon](https://www.amazon.com/s?k=FYRITE&tag=errorcodefixes-20), [Fyrite Insight Plus at Grainger](https://grainger.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-combustion-analyzer))
 
 - O2, CO, optional NO sensor
 - CO range to 4000 ppm with high-range option to 20,000 ppm

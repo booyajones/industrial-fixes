@@ -78,15 +78,15 @@ Safety first: close the manual gas shutoff and kill power at the front panel swi
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Flame rod / sensor (NPE-A/S 1st & 2nd gen) | Navien 30015095 | $42-68 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
-| Flame rod (NCB-150/180/210) | Navien 30018543 | $48-75 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
+| Flame rod / sensor (NPE-A/S 1st & 2nd gen) | Navien 30015095 | $42-68 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=navien-error-code-e003) |
+| Flame rod (NCB-150/180/210) | Navien 30018543 | $48-75 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=navien-error-code-e003) |
 | Ignition electrode (direct spark) | Navien 30013188 | $55-85 | [Supply House](https://www.supplyhouse.com), [Amazon](https://www.amazon.com) |
-| Igniter cable / HV lead | Navien 30013092 | $32-52 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
-| Gas valve (NPE-A 2nd gen) | Navien 30014116 | $310-450 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
-| Condensate trap (NPE/NCB) | Navien 30012712 | $45-72 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
-| Main control board (NPE-A 2nd gen) | Navien 30021301 | $580-820 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
-| Burner gasket | Navien 30007325 | $20-35 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
-| LP conversion kit (NPE-A 240) | Navien PEAK-LP-A240 | $95-150 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com) |
+| Igniter cable / HV lead | Navien 30013092 | $32-52 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=navien-error-code-e003) |
+| Gas valve (NPE-A 2nd gen) | Navien 30014116 | $310-450 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=navien-error-code-e003) |
+| Condensate trap (NPE/NCB) | Navien 30012712 | $45-72 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=navien-error-code-e003) |
+| Main control board (NPE-A 2nd gen) | Navien 30021301 | $580-820 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=navien-error-code-e003) |
+| Burner gasket | Navien 30007325 | $20-35 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=navien-error-code-e003) |
+| LP conversion kit (NPE-A 240) | Navien PEAK-LP-A240 | $95-150 | [Supply House](https://www.supplyhouse.com), [PexUniverse](https://www.pexuniverse.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=navien-error-code-e003) |
 
 Note: Navien parts changed significantly between 1st-gen NPE-A (2010-2016) and 2nd-gen (2016+). Always verify by serial number on the rating plate before ordering. The 30015095 flame rod, for instance, supersedes earlier 30002872 — they look similar but mounting differs.
 

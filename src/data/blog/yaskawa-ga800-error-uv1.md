@@ -87,13 +87,13 @@ Yaskawa does not sell the bus capacitor bank, pre-charge resistor, or pre-charge
 
 | Part | Catalog Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| GA800, 480V, 3HP (ND) | CIMR-GA4A0008FAA | $1,350–$1,650 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| GA800, 480V, 7.5HP (ND) | CIMR-GA4A0014FAA | $1,950–$2,300 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| GA800, 480V, 20HP (ND) | CIMR-GA4A0031FAA | $3,200–$3,800 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| GA800 line reactor 3%, 5HP | LR3-00504 | $310–$420 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| GA800 line reactor 5%, 10HP | LR5-01005 | $385–$520 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| Bussmann FRS-R-30 input fuse (480V) | FRS-R-30 | $14–$22 each | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
-| Fluke 1748 power quality logger | FLUKE-1748/BASIC | $7,400–$8,800 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| GA800, 480V, 3HP (ND) | CIMR-GA4A0008FAA | $1,350–$1,650 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=yaskawa-ga800-error-uv1), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=yaskawa-ga800-error-uv1) |
+| GA800, 480V, 7.5HP (ND) | CIMR-GA4A0014FAA | $1,950–$2,300 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=yaskawa-ga800-error-uv1), [Wolf Automation](https://www.wolfautomation.com) |
+| GA800, 480V, 20HP (ND) | CIMR-GA4A0031FAA | $3,200–$3,800 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=yaskawa-ga800-error-uv1), [Wolf Automation](https://www.wolfautomation.com) |
+| GA800 line reactor 3%, 5HP | LR3-00504 | $310–$420 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=yaskawa-ga800-error-uv1), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=yaskawa-ga800-error-uv1) |
+| GA800 line reactor 5%, 10HP | LR5-01005 | $385–$520 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=yaskawa-ga800-error-uv1), [Wolf Automation](https://www.wolfautomation.com) |
+| Bussmann FRS-R-30 input fuse (480V) | FRS-R-30 | $14–$22 each | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=yaskawa-ga800-error-uv1), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
+| Fluke 1748 power quality logger | FLUKE-1748/BASIC | $7,400–$8,800 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=yaskawa-ga800-error-uv1), [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
 | Wera 7440 torque screwdriver, 1.2–3.0 Nm | Wera 05074722001 | $185–$240 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20) |
 
 ## When to call a controls engineer

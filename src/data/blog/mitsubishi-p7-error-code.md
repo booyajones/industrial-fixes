@@ -74,7 +74,7 @@ P7 rarely requires hardware replacement. When it does:
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
 | PAR-31MAA wired remote controller | Mitsubishi PAR-31MAA | $185-285 | [HVAC Parts Shop](https://www.hvacpartsshop.com) |
-| PAR-32MAA wired remote (current model) | Mitsubishi PAR-32MAA | $245-345 | [HVAC Parts Shop](https://www.hvacpartsshop.com), [Grainger](https://www.grainger.com) |
+| PAR-32MAA wired remote (current model) | Mitsubishi PAR-32MAA | $245-345 | [HVAC Parts Shop](https://www.hvacpartsshop.com), [Grainger](https://www.grainger.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=mitsubishi-p7-error-code) |
 | Wireless handheld remote (M-Series) | Mitsubishi E12758450 | $45-85 | [Amazon](https://www.amazon.com), [HVAC Parts Shop](https://www.hvacpartsshop.com) |
 | Indoor PCB (replacement) | Model-specific (E22M-prefix family) | $385-585 | [HVAC Parts Shop](https://www.hvacpartsshop.com) |
 | Indoor signal receiver (IR window assembly) | Model-specific | $85-145 | [HVAC Parts Shop](https://www.hvacpartsshop.com) |

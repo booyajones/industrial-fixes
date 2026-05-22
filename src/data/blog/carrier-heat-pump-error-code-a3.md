@@ -75,14 +75,14 @@ Safety first: kill power at the outdoor disconnect. Variable-speed inverters ret
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Outdoor coil temperature sensor (Greenspeed) | Carrier HH79NZ039 | $48-75 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Outdoor ambient sensor | Carrier HH79NZ040 | $42-65 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Reversing valve solenoid coil (24V) | Carrier EF18BZ073 | $55-95 | [RepairClinic](https://www.repairclinic.com), [Home Depot](https://www.homedepot.com) |
-| Reversing valve (R-410A, 25VNA0) | Carrier EF680001 | $310-460 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Reversing valve (R-454B, 38MGRQ) | Carrier EF680042 | $345-510 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Outdoor ECM fan motor | Carrier HC39GE237 | $310-450 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Outdoor control board (Greenspeed inverter) | Carrier HK35AA001 | $720-1100 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Infinity Touch thermostat | Carrier SYSTXCCITC01-B | $480-720 | [RepairClinic](https://www.repairclinic.com), [Home Depot](https://www.homedepot.com) |
+| Outdoor coil temperature sensor (Greenspeed) | Carrier HH79NZ039 | $48-75 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=carrier-heat-pump-error-code-a3), [Amazon](https://www.amazon.com) |
+| Outdoor ambient sensor | Carrier HH79NZ040 | $42-65 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=carrier-heat-pump-error-code-a3), [Amazon](https://www.amazon.com) |
+| Reversing valve solenoid coil (24V) | Carrier EF18BZ073 | $55-95 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=carrier-heat-pump-error-code-a3), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=carrier-heat-pump-error-code-a3) |
+| Reversing valve (R-410A, 25VNA0) | Carrier EF680001 | $310-460 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=carrier-heat-pump-error-code-a3), [Amazon](https://www.amazon.com) |
+| Reversing valve (R-454B, 38MGRQ) | Carrier EF680042 | $345-510 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=carrier-heat-pump-error-code-a3), [Amazon](https://www.amazon.com) |
+| Outdoor ECM fan motor | Carrier HC39GE237 | $310-450 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=carrier-heat-pump-error-code-a3), [Amazon](https://www.amazon.com) |
+| Outdoor control board (Greenspeed inverter) | Carrier HK35AA001 | $720-1100 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=carrier-heat-pump-error-code-a3), [Amazon](https://www.amazon.com) |
+| Infinity Touch thermostat | Carrier SYSTXCCITC01-B | $480-720 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=carrier-heat-pump-error-code-a3), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=carrier-heat-pump-error-code-a3) |
 
 Note: Carrier specifies different reversing valves and inverter boards for R-410A versus R-454B units. Crossing parts between refrigerant types is not safe — material compatibility differs (POE oil tolerances, valve seat materials). Always verify the refrigerant type on the rating plate before ordering.
 

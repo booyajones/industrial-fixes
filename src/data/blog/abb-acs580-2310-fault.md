@@ -84,13 +84,13 @@ ABB ACS580 drives are sold as complete units in frames R1–R5. Higher frame dri
 
 | Part | Order Code | Typical Cost | Where to Buy |
 |---|---|---|---|
-| ACS580-01-12A6-4, 5.5kW, 400V | ACS580-01-12A6-4 | $1,300–$1,700 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| ACS580-01-018A-4, 7.5kW, 400V | ACS580-01-018A-4 | $1,700–$2,200 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| ACS580-01-030A-4, 15kW, 400V | ACS580-01-030A-4 | $2,800–$3,400 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| Assistant control panel | ACS-AP-W | $295–$385 | [AutomationDirect](https://www.automationdirect.com?aff=PLACEHOLDER-ADI), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| FENA-21 Ethernet/IP adapter | FENA-21 | $385–$520 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO), [Wolf Automation](https://www.wolfautomation.com?aff=PLACEHOLDER-WOLF) |
-| Output choke (du/dt filter) | NOCH 80-V-26-575 family | $620–$890 | [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
-| 500V/1000V megohmmeter | Fluke 1587 FC | $620–$780 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?aff=PLACEHOLDER-GALCO) |
+| ACS580-01-12A6-4, 5.5kW, 400V | ACS580-01-12A6-4 | $1,300–$1,700 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=abb-acs580-2310-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=abb-acs580-2310-fault) |
+| ACS580-01-018A-4, 7.5kW, 400V | ACS580-01-018A-4 | $1,700–$2,200 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=abb-acs580-2310-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=abb-acs580-2310-fault) |
+| ACS580-01-030A-4, 15kW, 400V | ACS580-01-030A-4 | $2,800–$3,400 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=abb-acs580-2310-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| Assistant control panel | ACS-AP-W | $295–$385 | [AutomationDirect](https://www.automationdirect.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=abb-acs580-2310-fault), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=abb-acs580-2310-fault) |
+| FENA-21 Ethernet/IP adapter | FENA-21 | $385–$520 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=abb-acs580-2310-fault), [Wolf Automation](https://www.wolfautomation.com) |
+| Output choke (du/dt filter) | NOCH 80-V-26-575 family | $620–$890 | [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=abb-acs580-2310-fault) |
+| 500V/1000V megohmmeter | Fluke 1587 FC | $620–$780 | [Amazon](https://www.amazon.com/?tag=errorcodefixes-20), [Galco](https://www.galco.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=abb-acs580-2310-fault) |
 
 ## When to call ABB or a controls engineer
 

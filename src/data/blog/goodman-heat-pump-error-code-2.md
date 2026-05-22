@@ -63,16 +63,16 @@ Safety first: kill power at the outdoor disconnect. Standard residential split h
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Low-pressure switch (R-410A, Goodman GSZ/GSXC) | Goodman 0130M00440 | $32-58 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Low-pressure switch (R-454B variants) | Goodman 0130M00451 | $42-70 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| TXV (3-ton R-410A) | Goodman B12602-69 | $130-180 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Liquid line filter-drier (3/8") | Sporlan C-052-S / generic | $22-38 | [RepairClinic](https://www.repairclinic.com), [Home Depot](https://www.homedepot.com) |
-| Outdoor control board (Goodman GSZ) | Goodman PCBKF101S | $185-280 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Contactor (30A 2-pole, 24V coil) | Goodman CONT2P030024VS | $35-60 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Run capacitor (typical 45/5 µF) | Goodman CAP050450440RT | $28-48 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Outdoor fan motor (1/4 HP PSC) | Goodman B13400258S | $145-220 | [RepairClinic](https://www.repairclinic.com), [Home Depot](https://www.homedepot.com) |
-| Reversing valve (R-410A 3-ton) | Goodman B1226003S | $245-380 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Air filter (1" pleated MERV 8) | Honeywell FPR-7 | $14-22 (pack) | [Home Depot](https://www.homedepot.com), [Lowes](https://www.lowes.com) |
+| Low-pressure switch (R-410A, Goodman GSZ/GSXC) | Goodman 0130M00440 | $32-58 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=goodman-heat-pump-error-code-2), [Amazon](https://www.amazon.com) |
+| Low-pressure switch (R-454B variants) | Goodman 0130M00451 | $42-70 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=goodman-heat-pump-error-code-2), [Amazon](https://www.amazon.com) |
+| TXV (3-ton R-410A) | Goodman B12602-69 | $130-180 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=goodman-heat-pump-error-code-2), [Amazon](https://www.amazon.com) |
+| Liquid line filter-drier (3/8") | Sporlan C-052-S / generic | $22-38 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=goodman-heat-pump-error-code-2), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=goodman-heat-pump-error-code-2) |
+| Outdoor control board (Goodman GSZ) | Goodman PCBKF101S | $185-280 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=goodman-heat-pump-error-code-2), [Amazon](https://www.amazon.com) |
+| Contactor (30A 2-pole, 24V coil) | Goodman CONT2P030024VS | $35-60 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=goodman-heat-pump-error-code-2), [Amazon](https://www.amazon.com) |
+| Run capacitor (typical 45/5 µF) | Goodman CAP050450440RT | $28-48 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=goodman-heat-pump-error-code-2), [Amazon](https://www.amazon.com) |
+| Outdoor fan motor (1/4 HP PSC) | Goodman B13400258S | $145-220 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=goodman-heat-pump-error-code-2), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=goodman-heat-pump-error-code-2) |
+| Reversing valve (R-410A 3-ton) | Goodman B1226003S | $245-380 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=goodman-heat-pump-error-code-2), [Amazon](https://www.amazon.com) |
+| Air filter (1" pleated MERV 8) | Honeywell FPR-7 | $14-22 (pack) | [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=goodman-heat-pump-error-code-2), [Lowes](https://www.lowes.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=goodman-heat-pump-error-code-2) |
 
 Note: Goodman is part of Daikin since 2012; many parts cross-reference between Goodman/Amana/Daikin trademark variants. Always verify by the unit's model number on the rating plate.
 

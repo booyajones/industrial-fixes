@@ -67,13 +67,13 @@ Before you start: power off at the furnace switch, gas off at the gas valve. Let
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Integrated control board (G24M/G50 family) | Lennox 81W03 | $295-440 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Integrated control board (SLP98V) | Lennox 67M41 | $445-680 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| HSI (nitride, Norton 27W92 family) | Lennox 27W92 / 78H56 | $45-75 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| HSI bracket assembly | Lennox 47W37 | $35-55 | [RepairClinic](https://www.repairclinic.com) |
-| HSI wiring harness | Lennox 50J27 | $25-45 | [RepairClinic](https://www.repairclinic.com) |
-| Flame sensor | Lennox 24L8501 | $35-55 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Multimeter with ohms and AC voltage | Klein MM700 | $145-195 | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com) |
+| Integrated control board (G24M/G50 family) | Lennox 81W03 | $295-440 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lennox-error-code-224), [Amazon](https://www.amazon.com) |
+| Integrated control board (SLP98V) | Lennox 67M41 | $445-680 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lennox-error-code-224), [Amazon](https://www.amazon.com) |
+| HSI (nitride, Norton 27W92 family) | Lennox 27W92 / 78H56 | $45-75 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lennox-error-code-224), [Amazon](https://www.amazon.com) |
+| HSI bracket assembly | Lennox 47W37 | $35-55 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lennox-error-code-224) |
+| HSI wiring harness | Lennox 50J27 | $25-45 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lennox-error-code-224) |
+| Flame sensor | Lennox 24L8501 | $35-55 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lennox-error-code-224), [Amazon](https://www.amazon.com) |
+| Multimeter with ohms and AC voltage | Klein MM700 | $145-195 | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lennox-error-code-224) |
 
 ## When to call a professional
 

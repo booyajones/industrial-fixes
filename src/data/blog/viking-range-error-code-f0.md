@@ -71,15 +71,15 @@ Before you start: shut off power at the breaker (Viking ranges are typically har
 
 | Part | OEM Number | Typical Cost | Where to Buy |
 |---|---|---|---|
-| Electronic oven control (EOC) | Viking PB040xxx (model-specific) | $485-885 | [RepairClinic](https://www.repairclinic.com), authorized dealer |
-| RTD oven temperature sensor | Viking PB010206 | $85-145 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Touch overlay / membrane keypad | Viking PE010xxx | $245-425 | [RepairClinic](https://www.repairclinic.com), authorized dealer |
-| Cooling fan motor | Viking PE040055 | $185-285 | [RepairClinic](https://www.repairclinic.com), [Home Depot](https://www.homedepot.com) |
-| Door switch | Viking PE060079 | $45-85 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Bake element (electric) | Viking PD040022 | $185-285 | [RepairClinic](https://www.repairclinic.com), [Amazon](https://www.amazon.com) |
-| Broil element (electric) | Viking PD040023 | $225-345 | [RepairClinic](https://www.repairclinic.com) |
-| Gas valve (sealed burner) | Viking PB040122 | $385-485 | [RepairClinic](https://www.repairclinic.com), authorized dealer |
-| Oven thermometer (calibration reference) | Taylor 3506 | $25-45 | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com) |
+| Electronic oven control (EOC) | Viking PB040xxx (model-specific) | $485-885 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=viking-range-error-code-f0), authorized dealer |
+| RTD oven temperature sensor | Viking PB010206 | $85-145 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=viking-range-error-code-f0), [Amazon](https://www.amazon.com) |
+| Touch overlay / membrane keypad | Viking PE010xxx | $245-425 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=viking-range-error-code-f0), authorized dealer |
+| Cooling fan motor | Viking PE040055 | $185-285 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=viking-range-error-code-f0), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=viking-range-error-code-f0) |
+| Door switch | Viking PE060079 | $45-85 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=viking-range-error-code-f0), [Amazon](https://www.amazon.com) |
+| Bake element (electric) | Viking PD040022 | $185-285 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=viking-range-error-code-f0), [Amazon](https://www.amazon.com) |
+| Broil element (electric) | Viking PD040023 | $225-345 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=viking-range-error-code-f0) |
+| Gas valve (sealed burner) | Viking PB040122 | $385-485 | [RepairClinic](https://www.repairclinic.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=viking-range-error-code-f0), authorized dealer |
+| Oven thermometer (calibration reference) | Taylor 3506 | $25-45 | [Amazon](https://www.amazon.com), [Home Depot](https://www.homedepot.com?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=viking-range-error-code-f0) |
 
 Viking pricing reflects the premium positioning. An equivalent residential EOC from GE or Whirlpool runs $150-250; Viking's EOC is 3-4x that, reflecting the smaller production volumes and the dealer-network margin.
 
