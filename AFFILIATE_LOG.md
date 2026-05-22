@@ -128,3 +128,67 @@ Each approved advertiser will email a notification with the Awin merchant ID (e.
 - **Tools:** ToolStation, Grainger, MSC — Impact.com path is documented in the AFFILIATE_LOG.md backlog
 - **HVAC parts distributors:** Parts Town, Johnstone Supply — direct outreach (drafts exist at outreach/parts-town.md and outreach/johnstone-supply.md)
 
+
+## 2026-05-22 — Awin awinmid IDs captured from Pending tab
+
+After re-login as info@errorcodefixes.com, only 5 (not 10) applications are
+actually in Pending state. Joined tab = 0, Rejected = 0. Previous session
+overstated the count.
+
+| Advertiser | awinmid | Status |
+|---|---|---|
+| National Filter Warehouse (US) | 114058 | Pending |
+| GE Appliances Parts & Accessories (US) | 71163 | Pending |
+| Filter King | 125512 | Pending |
+| Shop Appliances Affiliate Program | 120780 | Pending |
+| Hüga Heat | 36800 | Pending |
+
+These are the integer merchant IDs to pass to `<AwinLink awinmid="...">`
+once any approves. The AwinLink component is already built at
+`src/components/AwinLink.astro`.
+
+
+## 2026-05-22 — 12 NEW Awin applications (Pending now 22)
+
+| Advertiser | awinmid | Submitted | Category |
+|---|---|---|---|
+| GE Appliances (US) | 71161 | 2026-05-22 | Major appliance brand |
+| GE Appliances Professional Discounts (US) | 71165 | 2026-05-22 | Pro discount portal |
+| Electrolux | 34515 | 2026-05-22 | Parent of Frigidaire |
+| Tado NL-BE | 25066 | 2026-05-22 | Smart thermostat (Benelux) |
+| Optiwatt Clean Energy US | 119391 | 2026-05-22 | EV/energy app |
+| Octopus Energy | 67000 | 2026-05-22 | Energy supplier |
+| TURBRO | 46463 | 2026-05-22 | HVAC / heating brand |
+| TOSOT Direct | 59175 | 2026-05-22 | Gree appliances (AC, dehumidifier) |
+| ALPICOOL INC. | 106771 | 2026-05-22 | Portable fridge / cooler |
+| DiscountFilterStore.com (US) | 126373 | 2026-05-22 | Water/air filters |
+| Heizungsdiscount24 DE | 120593 | 2026-05-22 | German heating discount |
+| Think Energy Affiliate Program | 122540 | 2026-05-22 | Energy / smart home |
+
+### Full Pending state (22 advertisers)
+
+| # | Advertiser | awinmid |
+|---|---|---|
+| 1 | Haier | 43489 |
+| 2 | National Filter Warehouse (US) | 114058 |
+| 3 | GE Appliances Professional Discounts (US) | 71165 |
+| 4 | Tado NL-BE | 25066 |
+| 5 | Optiwatt Clean Energy US | 119391 |
+| 6 | GE Appliances Parts & Accessories (US) | 71163 |
+| 7 | Castle Heaters | 24556 |
+| 8 | Tado DE | 16503 |
+| 9 | TOSOT Direct | 59175 |
+| 10 | Octopus Energy | 67000 |
+| 11 | Filter King | 125512 |
+| 12 | Ebac | 73251 |
+| 13 | GE Appliances (US) | 71161 |
+| 14 | Shop Appliances Affiliate Program | 120780 |
+| 15 | ALPICOOL INC. | 106771 |
+| 16 | DiscountFilterStore.com (US) | 126373 |
+| 17 | TURBRO | 46463 |
+| 18 | Heizungsdiscount24 DE | 120593 |
+| 19 | Hüga Heat | 36800 |
+| 20 | Tado UK | 24881 |
+| 21 | Electrolux | 34515 |
+| 22 | Think Energy Affiliate Program | 122540 |
+
