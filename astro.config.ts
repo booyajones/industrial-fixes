@@ -16,7 +16,15 @@ export default defineConfig({
   site: SITE.website,
   integrations: [
     sitemap({
-      filter: page => SITE.showArchives || !page.endsWith("/archives"),
+      // Strip paginated archives (/posts/2/, /posts/3/...) — they're noindexed
+      // in Layout.astro and don't belong in the crawl queue. Also strip
+      // /archives if disabled in SITE config.
+      filter: page => {
+        if (!SITE.showArchives && page.endsWith("/archives")) return false;
+        // Match https://errorcodefixes.com/posts/<digits>/ but keep /posts/<slug>/
+        if (/\/posts\/\d+\/?$/.test(page)) return false;
+        return true;
+      },
     }),
   ],
   markdown: {

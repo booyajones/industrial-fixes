@@ -1,6 +1,6 @@
 ---
-title: "Trane XR80 Error Codes — Flash Code Quick Reference"
-description: "Complete Trane XR80 flash code guide: what each LED pattern (1–9 flashes) means and how to fix common faults."
+title: "Trane XR80 Blinking Yellow Light Codes: Full Flash-Code Fix Guide"
+description: "Trane XR80 yellow LED blink patterns decoded - what each 1 through 9 flash sequence means, common causes, and the fix steps. Quick-reference table for HVAC technicians and homeowners."
 pubDatetime: 2026-04-22T12:00:00Z
 modDatetime: 2026-04-22T12:00:00Z
 author: "Marcus Webb"

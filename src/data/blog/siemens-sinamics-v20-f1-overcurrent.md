@@ -1,6 +1,6 @@
 ---
-title: "Siemens SINAMICS V20 F1 Fault: Overcurrent Causes and Fix"
-description: "Siemens SINAMICS V20 F1 fault means overcurrent detected. Learn how to diagnose motor winding faults, short circuits, and ramp settings that cause F1 trips."
+title: "Siemens VFD F1 Fault (SINAMICS V20 Overcurrent): Causes, Codes, Fix"
+description: "F1 fault on a Siemens SINAMICS V20 VFD means overcurrent. Step-by-step diagnosis of motor winding faults, short circuits, and ramp settings that trip F1 — with parameter numbers and OEM part references."
 pubDatetime: 2026-04-26T17:30:00Z
 modDatetime: 2026-04-26T17:30:00Z
 author: "Dana Kowalski"

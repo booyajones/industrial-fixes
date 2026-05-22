@@ -1,0 +1,120 @@
+[
+  {
+    "slug": "rational-combi-oven-error-codes",
+    "queries": [
+      {
+        "q": "\"icombi classic\" \"e01\" error",
+        "pos": 4,
+        "imp": 4
+      },
+      {
+        "q": "\"icombi classic\" \"service 20.x\"",
+        "pos": 1.25,
+        "imp": 4
+      },
+      {
+        "q": "\"service 20.x\" \"icombi classic\"",
+        "pos": 1.3333333333333333,
+        "imp": 3
+      },
+      {
+        "q": "\"service 20.x\" \"icombi classic\"",
+        "pos": 7.666666666666667,
+        "imp": 3
+      },
+      {
+        "q": "\"service 21\" \"icombi classic\"",
+        "pos": 7,
+        "imp": 2
+      }
+    ],
+    "total_imp": 16
+  },
+  {
+    "slug": "wolf-commercial-range-error-codes",
+    "queries": [
+      {
+        "q": "\"icombi classic\" \"e01\" error",
+        "pos": 4.583333333333334,
+        "imp": 12
+      }
+    ],
+    "total_imp": 12
+  },
+  {
+    "slug": "siemens-sinamics-v20-f1-overcurrent",
+    "queries": [
+      {
+        "q": "f1 fault in siemens drive",
+        "pos": 7,
+        "imp": 2
+      },
+      {
+        "q": "siemens vfd f1 fault",
+        "pos": 7.5,
+        "imp": 2
+      },
+      {
+        "q": "sinamics v20 f1 fault",
+        "pos": 9.5,
+        "imp": 2
+      }
+    ],
+    "total_imp": 6
+  },
+  {
+    "slug": "amana-avxc18-heat-pump-error-codes",
+    "queries": [
+      {
+        "q": "\"avxc18\" amana",
+        "pos": 1,
+        "imp": 5
+      }
+    ],
+    "total_imp": 5
+  },
+  {
+    "slug": "daikin-h6-error-code",
+    "queries": [
+      {
+        "q": "daikin h6 error code",
+        "pos": 9.6,
+        "imp": 5
+      }
+    ],
+    "total_imp": 5
+  },
+  {
+    "slug": "trane-xr80-error-codes",
+    "queries": [
+      {
+        "q": "trane xr80 blinking yellow light codes meaning",
+        "pos": 10,
+        "imp": 5
+      }
+    ],
+    "total_imp": 5
+  },
+  {
+    "slug": "daikin-c4-error-code",
+    "queries": [
+      {
+        "q": "c4 error code daikin",
+        "pos": 11.5,
+        "imp": 2
+      }
+    ],
+    "total_imp": 2
+  },
+  {
+    "slug": "daikin-f9-error-code",
+    "queries": [
+      {
+        "q": "daikin f9 error code",
+        "pos": 6,
+        "imp": 2
+      }
+    ],
+    "total_imp": 2
+  }
+]
