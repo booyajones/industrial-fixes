@@ -1,0 +1,74 @@
+---
+/**
+ * AwinLink — affiliate-tracked outbound link via Awin's cread.php redirector.
+ *
+ * Usage:
+ *   <AwinLink awinmid="12345" to="https://merchant.com/product" rel="sponsored noopener">
+ *     Buy from Merchant
+ *   </AwinLink>
+ *
+ * The component emits an `<a>` whose href is:
+ *   https://www.awin1.com/cread.php?awinmid=<awinmid>&awinaffid=2905561
+ *     &clickref=<slug>&p=<encoded_destination>
+ *
+ * `awinmid` is the merchant ID assigned by Awin (visible in the Pending /
+ * Joined tab of the Advertiser Directory once an application is approved).
+ *
+ * `awinaffid=2905561` is errorcodefixes.com's Awin publisher ID — fixed
+ * across all links.
+ *
+ * `clickref` is an arbitrary tracking string that comes back to the Awin
+ * dashboard with each click, allowing us to attribute revenue to specific
+ * articles. Defaults to the current page's path if not supplied.
+ *
+ * For now the component is unused — no Awin merchant has approved yet. Once
+ * the first approval lands (likely Tado UK or GE Appliances Parts based on
+ * Awin's typical 3-10 day review window), drop the awinmid into the call
+ * site and we're earning commission on that merchant's catalog.
+ */
+
+interface Props {
+  awinmid: string | number;
+  to: string;
+  clickref?: string;
+  rel?: string;
+  class?: string;
+  title?: string;
+  target?: "_blank" | "_self";
+}
+
+const AWIN_AFFID = "2905561";
+
+const {
+  awinmid,
+  to,
+  clickref,
+  rel = "sponsored nofollow noopener",
+  class: className,
+  title,
+  target = "_blank",
+} = Astro.props;
+
+// Default clickref to current page's pathname so dashboard reports show
+// per-article performance without us having to remember to pass it.
+const ref =
+  clickref ??
+  Astro.url.pathname.replace(/^\/posts\//, "").replace(/\/$/, "") ??
+  "unknown";
+
+const wrapped =
+  `https://www.awin1.com/cread.php` +
+  `?awinmid=${encodeURIComponent(String(awinmid))}` +
+  `&awinaffid=${AWIN_AFFID}` +
+  `&clickref=${encodeURIComponent(ref)}` +
+  `&p=${encodeURIComponent(to)}`;
+---
+
+<a
+  href={wrapped}
+  rel={rel}
+  target={target}
+  class={className}
+  title={title}
+  data-awinmid={awinmid}
+><slot /></a>
