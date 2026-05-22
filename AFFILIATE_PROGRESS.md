@@ -7,6 +7,8 @@
 - 100% commission (excluded from Skimlinks rewriting)
 
 ### Awin — publisher `2905561` (NETWORK) — APPROVED 2026-05-22
+- 10 Awin applications submitted 2026-05-22 (Ebac, Hüga Heat, Haier, Castle Heaters, National Filter Warehouse, Filter King, GE Appliances Parts, Shop Appliances, Tado DE, Tado UK)
+
 - Approved 2026-05-22
 - Account holder: Chris Wyatt
 - Sign in: https://ui.awin.com/awin-publisher-portal/

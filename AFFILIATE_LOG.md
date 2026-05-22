@@ -90,3 +90,41 @@ Investigated upgrading top 5 articles from Amazon search URLs to direct ASIN lin
   - Awin tracking link format: `https://www.awin1.com/cread.php?awinmid=<MERCHANT_ID>&awinaffid=2905561&clickref=<OPTIONAL_SUB_ID>&p=<DESTINATION_URL>`
   - Once approved for the top 3 advertisers, I can add a small Astro component that wraps outbound links to those domains in the Awin tracking format automatically. Until then, those clicks go through Skimlinks (still monetized, just at the lower pass-through rate).
 
+
+
+---
+
+## Awin Applications Submitted — Browser Session 2026-05-22
+
+Publisher ID 2905561. 10 applications submitted via Awin Advertiser Directory.
+
+Honest finding: Awin US network does NOT carry the originally-targeted Tier 1 advertisers (RS Components, Newark/element14, Schneider Electric Boutique, ABB e-commerce, Conrad Electronic, ToolStation). Awin US is heavy on consumer/lifestyle and light on industrial. Those Tier 1 industrial brands are better pursued via Impact.com (which is already in the AFFILIATE_LOG.md backlog for Zoro, Parts Town, Grainger, J.Racenstein, JB Tools).
+
+### Applications submitted (status: pending, expect approval in 24-72 hours)
+
+| # | Advertiser | Region | Vertical fit | Notes |
+|---|---|---|---|---|
+| 1 | Ebac | UK | Dehumidifiers | HVAC adjacency — mini split + basement humidity articles |
+| 2 | Hüga Heat | US | Supplemental heating | Furnace and boiler companion product |
+| 3 | Haier | Global | Appliances + AC | Mini split + refrigerator + washer error code articles |
+| 4 | Castle Heaters | UK | Heaters | Supplemental heating during HVAC repair |
+| 5 | National Filter Warehouse | US | Air filters | Direct fit — #1 fix for limit-trip codes (Carrier 13, Goodman 4-flash, Trane 4-blink) |
+| 6 | Filter King | Global | Air filters | Same use case |
+| 7 | GE Appliances Parts & Accessories | US | OEM parts | Direct fit — we publish GE error code articles (Er, E1, LC) |
+| 8 | Shop Appliances Affiliate Program | US | Appliance retail | Replacement appliances when repair cost > value |
+| 9 | Tado DE | EU | Smart thermostats | Furnace/boiler/mini-split control upgrade recommendation |
+| 10 | Tado UK | UK | Smart thermostats | Same fit, UK region |
+
+### What to do when approvals arrive
+
+Each approved advertiser will email a notification with the Awin merchant ID (e.g., "awinmid=12345"). For each one:
+
+1. **Add the merchant's domain to Skimlinks Excluded Domains** at https://hub.skimlinks.com → Settings → Domain Management. This preserves direct Awin commission (vs. Skimlinks rewriting at ~75% of commission).
+2. **Forward the approval email** so I can add domain-specific Awin tracking link wrappers across the catalog. Awin link format: `https://www.awin1.com/cread.php?awinmid=<MID>&awinaffid=2905561&p=<DESTINATION_URL>`
+
+### What's NOT in Awin (pursue elsewhere)
+
+- **Industrial parts:** RS Components, Newark/element14, Schneider, ABB, Conrad — apply via their direct programs or via Impact.com / ShareASale
+- **Tools:** ToolStation, Grainger, MSC — Impact.com path is documented in the AFFILIATE_LOG.md backlog
+- **HVAC parts distributors:** Parts Town, Johnstone Supply — direct outreach (drafts exist at outreach/parts-town.md and outreach/johnstone-supply.md)
+
