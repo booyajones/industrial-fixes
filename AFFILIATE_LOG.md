@@ -65,3 +65,28 @@ Investigated upgrading top 5 articles from Amazon search URLs to direct ASIN lin
 - All new content shipped with proper frontmatter for AstroPaper schema validation (`pubDatetime`, `modDatetime`, `slug`, `featured: false`, `draft: false`, structured `tags` array)
 - Authors mapped to existing roster: Dana Kowalski (HVAC + VFD), Marcus Webb (commercial refrigeration), James Rutherford (CNC), Industrial Error Code Fixes (editorial collective)
 
+
+
+---
+
+## Awin — Network Aggregator (APPROVED 2026-05-22)
+
+- **Network:** Awin
+- **Publisher ID:** 2905561
+- **Account holder:** Chris Wyatt
+- **Status:** APPROVED — needs per-advertiser application
+- **Notes:**
+  - Awin gives direct relationships with electrical/industrial distributors that Skimlinks does not cover at the same commission tier.
+  - **Priority advertisers to apply to** (in approximate order of fit for errorcodefixes.com content):
+    1. **RS Components / RS Pro** — industrial parts, electrical components, sensors. Strong for VFD, CNC, and controls articles.
+    2. **Newark / element14 / Farnell** — electronics distribution. Same use case.
+    3. **Conrad Electronic** — industrial automation parts, more EU-focused but has US shipping.
+    4. **Sonepar** — electrical distributor, may be region-locked.
+    5. **Schneider Electric Boutique** — direct Schneider parts (Altivar drives etc.). High-fit for our VFD content.
+    6. **ABB e-commerce** — ABB ACS drives + parts. Direct fit for the ABB ACS580 articles we shipped.
+    7. **ToolStation / Tools-United** — tools and instruments for the buying-guide articles.
+    8. Any HVAC parts retailer that appears in the directory (browse "Home & Garden" and "Industrial" categories).
+  - After each approval, the merchant domain MUST be added to the Skimlinks Excluded Domains list (currently only amazon.com / amzn.to / amazon.co.uk are recommended for exclusion). Otherwise Skimlinks will rewrite Awin clicks and take its cut.
+  - Awin tracking link format: `https://www.awin1.com/cread.php?awinmid=<MERCHANT_ID>&awinaffid=2905561&clickref=<OPTIONAL_SUB_ID>&p=<DESTINATION_URL>`
+  - Once approved for the top 3 advertisers, I can add a small Astro component that wraps outbound links to those domains in the Awin tracking format automatically. Until then, those clicks go through Skimlinks (still monetized, just at the lower pass-through rate).
+

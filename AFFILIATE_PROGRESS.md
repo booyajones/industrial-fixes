@@ -6,6 +6,15 @@
 - Active on 1,103+ articles
 - 100% commission (excluded from Skimlinks rewriting)
 
+### Awin — publisher `2905561` (NETWORK) — APPROVED 2026-05-22
+- Approved 2026-05-22
+- Account holder: Chris Wyatt
+- Sign in: https://ui.awin.com/awin-publisher-portal/
+- Advertiser directory: https://ui.awin.com/awin-publisher-portal/advertiser-directory
+- Strong for industrial parts and electrical distributors that don't have direct/Impact programs
+- Target advertisers to apply to (in order): RS Components / RS Pro, Newark / element14 / Farnell, Conrad Electronic, Sonepar, Schneider Electric Boutique, ABB, ToolStation, plus any HVAC parts retailers visible in the directory
+- After approvals, add those domains to the Skimlinks Excluded Domains list so the direct Awin commission is preserved instead of Skimlinks taking ~25%
+
 ### Skimlinks — publisher `303448X1791493` (NETWORK) — LIVE 2026-05-21
 - Approved 2026-05-21
 - Script deployed site-wide via `src/layouts/Layout.astro`
