@@ -36,7 +36,11 @@ import sys
 from pathlib import Path
 
 SITE = "https://errorcodefixes.com"
-PROPERTY = "sc-domain:errorcodefixes.com"
+# Use the URL-prefix property (https://errorcodefixes.com/) — that is the one
+# the wyattbot-reader@wyattplayground.iam.gserviceaccount.com SA is verified
+# Owner of. The sc-domain:errorcodefixes.com property exists separately but
+# only Chris's personal Google account owns that one.
+PROPERTY = "https://errorcodefixes.com/"
 DEFAULT_SITEMAP = f"{SITE}/sitemap-index.xml"
 
 SETUP_HELP = """
