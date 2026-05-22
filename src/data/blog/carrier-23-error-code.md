@@ -55,3 +55,10 @@ If you have verified inducer operation and clear venting but the fault remains, 
 - [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
 - [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
 - [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
+
+## See Also
+
+- [Carrier Mini-Split P4 Error Code — Inverter Module Overtemperature Fix](/posts/carrier-mini-split-p4-error-code/)
+- [Carrier Infinity 24VNA6 Heat Pump Error Codes - Greenspeed Fault Reference](/posts/carrier-24vna6-error-codes/)
+- [Carrier Error Code 65 — Inducer Motor Fault](/posts/carrier-65-error-code/)
+- [Carrier 42 Error Code — Causes & Fix](/posts/carrier-42-error-code/)

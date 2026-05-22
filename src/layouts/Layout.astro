@@ -2,7 +2,7 @@
 import { Font } from "astro:assets";
 import { ClientRouter } from "astro:transitions";
 import ChatWidget from "../components/ChatWidget.astro";
-import { PUBLIC_GOOGLE_SITE_VERIFICATION, PUBLIC_GA4_MEASUREMENT_ID } from "astro:env/client";
+import { PUBLIC_GOOGLE_SITE_VERIFICATION, PUBLIC_GA4_MEASUREMENT_ID, PUBLIC_ADSENSE_CLIENT } from "astro:env/client";
 import { SITE } from "@/config";
 import "@/styles/global.css";
 
@@ -164,6 +164,19 @@ const structuredData = pubDatetime
         <meta
           name="google-site-verification"
           content={PUBLIC_GOOGLE_SITE_VERIFICATION}
+        />
+      )
+    }
+
+    <!-- Google AdSense Auto Ads — activates when PUBLIC_ADSENSE_CLIENT
+         env var is set (format: ca-pub-XXXXXXXXXXXXXXXX). Approval at
+         adsense.google.com is required before this earns revenue. -->
+    {
+      PUBLIC_ADSENSE_CLIENT && (
+        <script
+          async
+          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${PUBLIC_ADSENSE_CLIENT}`}
+          crossorigin="anonymous"
         />
       )
     }

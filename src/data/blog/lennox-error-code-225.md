@@ -50,3 +50,10 @@ If the flue is clear, the pressure switch hose is dry, and a new pressure switch
 - [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
 - [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
 - [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
+
+## See Also
+
+- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
+- [Lennox Error Code 125 — Causes & Fix](/posts/lennox-error-code-125/)
+- [Lennox iComfort Error Code 225 — Communication Fault Fix Guide](/posts/lennox-icomfort-error-code-225/)
+- [Lennox SLP98V Error Codes — Variable-Speed Furnace Fault Guide](/posts/lennox-slp98v-error-codes/)
