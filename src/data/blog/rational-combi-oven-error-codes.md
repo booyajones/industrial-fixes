@@ -1,6 +1,6 @@
 ---
-title: "Rational Combi Oven Error Codes — Complete Fix Guide"
-description: "Rational combi oven error codes for SCC WE, iCombi Pro, and iCombi Classic: service codes, fault causes, step-by-step diagnosis, and parts for commercial kitchen technicians."
+title: "Rational iCombi Classic & Pro Error Codes: E01, Service 20.x, 21, 26 Fixes"
+description: "Every Rational iCombi Classic and iCombi Pro error code explained. E01 board fault, Service 20.x sensor codes, Service 21, Service 26, and legacy SCC WE codes. Step-by-step diagnosis with OEM part numbers for commercial kitchen technicians."
 pubDatetime: 2026-04-27T18:00:00Z
 modDatetime: 2026-04-27T18:00:00Z
 author: "James Rutherford"

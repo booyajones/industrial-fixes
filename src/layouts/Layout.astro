@@ -16,6 +16,13 @@ type Props = {
   pubDatetime?: Date;
   modDatetime?: Date | null;
   scrollSmooth?: boolean;
+  /**
+   * Set true on paginated archive pages (/posts/2/, /posts/3/...) and any
+   * other URL that should stay crawlable but not show in search results.
+   * GSC was showing 1-impression-zero-click hits for /posts/102/ etc.
+   * eating crawl budget.
+   */
+  noindex?: boolean;
 };
 
 const {
@@ -28,6 +35,7 @@ const {
   pubDatetime,
   modDatetime,
   scrollSmooth = false,
+  noindex = false,
 } = Astro.props;
 
 const socialImageURL = new URL(ogImage, Astro.url);
@@ -95,6 +103,7 @@ const structuredData = pubDatetime
     <meta name="title" content={title} />
     <meta name="description" content={description} />
     <meta name="author" content={author} />
+    {noindex && <meta name="robots" content="noindex,follow" />}
     <link rel="sitemap" href="/sitemap-index.xml" />
 
     <!-- Open Graph / Facebook -->

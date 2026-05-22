@@ -1,6 +1,6 @@
 ---
-title: "Amana AVXC18 Heat Pump Error Codes - Communicating System Fault Guide"
-description: "Complete fault guide for the Amana AVXC18 variable-capacity heat pump, covering communicating system codes, control board faults, reversing valve issues, and refrigerant diagnostics. Includes practical repair steps and parts guidance for homeowners and HVAC technicians."
+title: "Amana AVXC18 Error Codes: ComfortNet Faults, Board LEDs, Fix Sequence"
+description: "Every Amana AVXC18 variable-capacity heat pump error code decoded. ComfortNet thermostat codes, outdoor board LED flash patterns, reversing valve faults, refrigerant diagnostics. With OEM part numbers and step-by-step fix sequences."
 pubDatetime: 2026-04-25T00:00:00Z
 author: "Dana Kowalski"
 tags:

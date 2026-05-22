@@ -16,9 +16,14 @@ export const getStaticPaths = (async ({ paginate }) => {
 }) satisfies GetStaticPaths;
 
 const { page } = Astro.props;
+
+// Noindex paginated archives. Page 1 (/posts/) stays indexable as the
+// archive entry point. Pages 2+ ranked at pos 50-90 in GSC for random
+// queries, wasted crawl budget. follow=true keeps internal links live.
+const isPaginatedDeep = page.currentPage > 1;
 ---
 
-<Layout title={`Posts | ${SITE.title}`}>
+<Layout title={`Posts | ${SITE.title}`} noindex={isPaginatedDeep}>
   <Header />
   <Main pageTitle="Posts" pageDesc="All the articles I've posted.">
     <ul>
