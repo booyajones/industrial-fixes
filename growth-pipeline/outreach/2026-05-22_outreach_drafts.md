@@ -1,6 +1,6 @@
 # Backlink Outreach Batch — 2026-05-22
 
-30 prospects identified. Each has a personalized draft below.
+25 prospects identified. Each has a personalized draft below.
 
 **How to use:** review each draft, edit lightly, copy/paste into Gmail (booyajones222@gmail.com), send. Update 2026-05-22_prospects.csv with sent_date as you go.
 
@@ -130,19 +130,19 @@ errorcodefixes.com
 
 ---
 
-## 5. hvaclearningcampus.com — HVAC trade school resources
+## 5. hvacrschool.com — HVAC trade school resources
 
-**Page:** https://www.hvaclearningcampus.com/
-**Page title:** HVAC Learning Campus
+**Page:** http://www.hvacrschool.com/
+**Page title:** HVAC and Refrigeration Free Training
 
 ### Draft (copy + edit + send)
 
 ```
-Subject: Resource for your hvac trade school resources page on hvaclearningcampus.com
+Subject: Resource for your hvac trade school resources page on hvacrschool.com
 
 Hi,
 
-I noticed your team curates a list of hvac trade school resources on hvaclearningcampus.com. We just shipped a comprehensive diagnostic guide that fits your existing collection well: Carrier furnace code 13 troubleshooting guide.
+I noticed your team curates a list of hvac trade school resources on hvacrschool.com. We just shipped a comprehensive diagnostic guide that fits your existing collection well: Carrier furnace code 13 troubleshooting guide.
 
 Direct link: https://errorcodefixes.com/posts/carrier-13-error-code/
 
@@ -160,19 +160,19 @@ errorcodefixes.com
 
 ---
 
-## 6. hvacrschool.com — HVAC trade school resources
+## 6. hvaclearningcampus.com — HVAC trade school resources
 
-**Page:** http://www.hvacrschool.com/
-**Page title:** HVAC and Refrigeration Free Training
+**Page:** https://www.hvaclearningcampus.com/
+**Page title:** HVAC Learning Campus
 
 ### Draft (copy + edit + send)
 
 ```
-Subject: Resource for your hvac trade school resources page on hvacrschool.com
+Subject: Resource for your hvac trade school resources page on hvaclearningcampus.com
 
 Hi,
 
-I noticed your team curates a list of hvac trade school resources on hvacrschool.com. We just shipped a comprehensive diagnostic guide that fits your existing collection well: Carrier furnace code 13 troubleshooting guide.
+I noticed your team curates a list of hvac trade school resources on hvaclearningcampus.com. We just shipped a comprehensive diagnostic guide that fits your existing collection well: Carrier furnace code 13 troubleshooting guide.
 
 Direct link: https://errorcodefixes.com/posts/carrier-13-error-code/
 
@@ -370,37 +370,7 @@ errorcodefixes.com
 
 ---
 
-## 13. aaon.com — HVAC trade school resources
-
-**Page:** https://www.aaon.com/training
-**Page title:** HVAC Training Programs | AAON
-
-### Draft (copy + edit + send)
-
-```
-Subject: Resource for your hvac trade school resources page on aaon.com
-
-Hi,
-
-I noticed your team curates a list of hvac trade school resources on aaon.com. We just shipped a comprehensive diagnostic guide that fits your existing collection well: Carrier furnace code 13 troubleshooting guide.
-
-Direct link: https://errorcodefixes.com/posts/carrier-13-error-code/
-
-It is technician-written with real OEM part numbers, microamp readings, and a step-by-step diagnostic tree. No paywall, no email gate, no marketing fluff.
-
-If it's a fit for your resources page, no rush — happy to write a 2-sentence blurb in your house style if useful.
-
-Either way, thanks for keeping a useful resource list. Those are increasingly rare.
-
-Best,
-[YOUR NAME]
-errorcodefixes.com
-
-```
-
----
-
-## 14. stlcc.edu — HVAC trade school resources
+## 13. stlcc.edu — HVAC trade school resources
 
 **Page:** https://stlcc.edu/pathways/industrial/hvac-tech/
 **Page title:** HVAC Training | HVAC Technician Certification
@@ -430,7 +400,7 @@ errorcodefixes.com
 
 ---
 
-## 15. hvacr.elearn.network — HVAC trade school resources
+## 14. hvacr.elearn.network — HVAC trade school resources
 
 **Page:** https://hvacr.elearn.network/
 **Page title:** HVACR Learning Network
@@ -443,6 +413,36 @@ Subject: Resource for your hvac trade school resources page on hvacr.elearn.netw
 Hi,
 
 I noticed your team curates a list of hvac trade school resources on hvacr.elearn.network. We just shipped a comprehensive diagnostic guide that fits your existing collection well: Carrier furnace code 13 troubleshooting guide.
+
+Direct link: https://errorcodefixes.com/posts/carrier-13-error-code/
+
+It is technician-written with real OEM part numbers, microamp readings, and a step-by-step diagnostic tree. No paywall, no email gate, no marketing fluff.
+
+If it's a fit for your resources page, no rush — happy to write a 2-sentence blurb in your house style if useful.
+
+Either way, thanks for keeping a useful resource list. Those are increasingly rare.
+
+Best,
+[YOUR NAME]
+errorcodefixes.com
+
+```
+
+---
+
+## 15. bmcc.cuny.edu — HVAC trade school resources
+
+**Page:** https://www.bmcc.cuny.edu/ce/online-courses/online-certified-hvacr-technician-training-course/
+**Page title:** Online Certified HVACR Technician Training Course – BMCC
+
+### Draft (copy + edit + send)
+
+```
+Subject: Resource for your hvac trade school resources page on bmcc.cuny.edu
+
+Hi,
+
+I noticed your team curates a list of hvac trade school resources on bmcc.cuny.edu. We just shipped a comprehensive diagnostic guide that fits your existing collection well: Carrier furnace code 13 troubleshooting guide.
 
 Direct link: https://errorcodefixes.com/posts/carrier-13-error-code/
 
@@ -743,156 +743,6 @@ Subject: Resource for your contractor blog resource pages page on traviscrawford
 Hi,
 
 I noticed your team curates a list of contractor blog resource pages on traviscrawfordhvac.com. We just shipped a comprehensive diagnostic guide that fits your existing collection well: Carrier furnace code 13 troubleshooting guide.
-
-Direct link: https://errorcodefixes.com/posts/carrier-13-error-code/
-
-It is technician-written with real OEM part numbers, microamp readings, and a step-by-step diagnostic tree. No paywall, no email gate, no marketing fluff.
-
-If it's a fit for your resources page, no rush — happy to write a 2-sentence blurb in your house style if useful.
-
-Either way, thanks for keeping a useful resource list. Those are increasingly rare.
-
-Best,
-[YOUR NAME]
-errorcodefixes.com
-
-```
-
----
-
-## 26. qualityheating.com — Contractor blog resource pages
-
-**Page:** https://qualityheating.com/common-hvac-problems-and-how-to-troubleshoot-them/
-**Page title:** Common HVAC Problems and How to Troubleshoot Them | Quality Heating, Cooling, Plumbing & Electric
-
-### Draft (copy + edit + send)
-
-```
-Subject: Resource for your contractor blog resource pages page on qualityheating.com
-
-Hi,
-
-I noticed your team curates a list of contractor blog resource pages on qualityheating.com. We just shipped a comprehensive diagnostic guide that fits your existing collection well: Carrier furnace code 13 troubleshooting guide.
-
-Direct link: https://errorcodefixes.com/posts/carrier-13-error-code/
-
-It is technician-written with real OEM part numbers, microamp readings, and a step-by-step diagnostic tree. No paywall, no email gate, no marketing fluff.
-
-If it's a fit for your resources page, no rush — happy to write a 2-sentence blurb in your house style if useful.
-
-Either way, thanks for keeping a useful resource list. Those are increasingly rare.
-
-Best,
-[YOUR NAME]
-errorcodefixes.com
-
-```
-
----
-
-## 27. premierhvacpa.com — Contractor blog resource pages
-
-**Page:** https://www.premierhvacpa.com/blog/
-**Page title:** HVAC Blog | Heating and Air Conditioning News | Premier HVAC Service
-
-### Draft (copy + edit + send)
-
-```
-Subject: Resource for your contractor blog resource pages page on premierhvacpa.com
-
-Hi,
-
-I noticed your team curates a list of contractor blog resource pages on premierhvacpa.com. We just shipped a comprehensive diagnostic guide that fits your existing collection well: Carrier furnace code 13 troubleshooting guide.
-
-Direct link: https://errorcodefixes.com/posts/carrier-13-error-code/
-
-It is technician-written with real OEM part numbers, microamp readings, and a step-by-step diagnostic tree. No paywall, no email gate, no marketing fluff.
-
-If it's a fit for your resources page, no rush — happy to write a 2-sentence blurb in your house style if useful.
-
-Either way, thanks for keeping a useful resource list. Those are increasingly rare.
-
-Best,
-[YOUR NAME]
-errorcodefixes.com
-
-```
-
----
-
-## 28. otthvac.com — Contractor blog resource pages
-
-**Page:** https://otthvac.com/blog/hvac-troubleshooting/
-**Page title:** HVAC Troubleshooting: Check THIS Before You Call The Pros
-
-### Draft (copy + edit + send)
-
-```
-Subject: Resource for your contractor blog resource pages page on otthvac.com
-
-Hi,
-
-I noticed your team curates a list of contractor blog resource pages on otthvac.com. We just shipped a comprehensive diagnostic guide that fits your existing collection well: Carrier furnace code 13 troubleshooting guide.
-
-Direct link: https://errorcodefixes.com/posts/carrier-13-error-code/
-
-It is technician-written with real OEM part numbers, microamp readings, and a step-by-step diagnostic tree. No paywall, no email gate, no marketing fluff.
-
-If it's a fit for your resources page, no rush — happy to write a 2-sentence blurb in your house style if useful.
-
-Either way, thanks for keeping a useful resource list. Those are increasingly rare.
-
-Best,
-[YOUR NAME]
-errorcodefixes.com
-
-```
-
----
-
-## 29. generaltools.com — Contractor blog resource pages
-
-**Page:** https://generaltools.com/blog/hvac-problems/
-**Page title:** 10 of the Most Common HVAC Problems and How to Fix Them
-
-### Draft (copy + edit + send)
-
-```
-Subject: Resource for your contractor blog resource pages page on generaltools.com
-
-Hi,
-
-I noticed your team curates a list of contractor blog resource pages on generaltools.com. We just shipped a comprehensive diagnostic guide that fits your existing collection well: Carrier furnace code 13 troubleshooting guide.
-
-Direct link: https://errorcodefixes.com/posts/carrier-13-error-code/
-
-It is technician-written with real OEM part numbers, microamp readings, and a step-by-step diagnostic tree. No paywall, no email gate, no marketing fluff.
-
-If it's a fit for your resources page, no rush — happy to write a 2-sentence blurb in your house style if useful.
-
-Either way, thanks for keeping a useful resource list. Those are increasingly rare.
-
-Best,
-[YOUR NAME]
-errorcodefixes.com
-
-```
-
----
-
-## 30. ajperri.com — Contractor blog resource pages
-
-**Page:** https://www.ajperri.com/blog/hvac-troubleshooting
-**Page title:** HVAC Troubleshooting | A.J. Perri
-
-### Draft (copy + edit + send)
-
-```
-Subject: Resource for your contractor blog resource pages page on ajperri.com
-
-Hi,
-
-I noticed your team curates a list of contractor blog resource pages on ajperri.com. We just shipped a comprehensive diagnostic guide that fits your existing collection well: Carrier furnace code 13 troubleshooting guide.
 
 Direct link: https://errorcodefixes.com/posts/carrier-13-error-code/
 
