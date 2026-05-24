@@ -91,6 +91,26 @@ def ga4(sa_path: str, days: int = 30) -> dict:
     }
 
 
+def bing(api_key: str) -> dict:
+    """Pull search performance + crawl stats from Bing Webmaster Tools."""
+    import urllib.parse, urllib.request
+    site = urllib.parse.quote("https://errorcodefixes.com/", safe="")
+
+    def get(method, extra=""):
+        url = f"https://ssl.bing.com/webmaster/api.svc/json/{method}?siteUrl={site}&apikey={api_key}{extra}"
+        try:
+            return json.load(urllib.request.urlopen(urllib.request.Request(url), timeout=15)).get("d")
+        except Exception as e:
+            print(f"  [!] Bing {method}: {e}")
+            return None
+
+    return {
+        "rank_traffic": get("GetRankAndTrafficStats") or [],
+        "crawl_stats": get("GetCrawlStats") or [],
+        "quota": get("GetUrlSubmissionQuota") or {},
+    }
+
+
 def gsc(sa_path: str, days: int = 28) -> dict:
     from google.oauth2 import service_account
     from googleapiclient.discovery import build
@@ -129,6 +149,9 @@ def main() -> int:
     ga = ga4(sa_path)
     print("Pulling GSC...")
     gs = gsc(sa_path)
+    bing_key = os.environ.get("BING_API_KEY")
+    bing_data = bing(bing_key) if bing_key else {"rank_traffic": [], "crawl_stats": [], "quota": {}}
+    print(f"Bing: {len(bing_data['rank_traffic'])} traffic points, {len(bing_data['crawl_stats'])} crawl points")
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     date_stamp = datetime.now().strftime("%Y-%m-%d")
@@ -214,6 +237,31 @@ def main() -> int:
     ])
     for r in ga["countries"][:10]:
         lines.append(f"| {r['country']} | {r['totalUsers']} |")
+
+    if bing_data["rank_traffic"] or bing_data["crawl_stats"] or bing_data["quota"]:
+        lines.extend([
+            "",
+            "## Bing Webmaster (BWT)",
+            "",
+        ])
+        q = bing_data["quota"] or {}
+        if q:
+            lines.append(
+                f"- URL submission quota: **{q.get('DailyQuota', '?')}/day, "
+                f"{q.get('MonthlyQuota', '?')}/month**"
+            )
+        rt = bing_data["rank_traffic"] or []
+        if rt:
+            last7 = rt[-7:]
+            total_clk = sum(d.get("Clicks", 0) for d in last7)
+            total_imp = sum(d.get("Impressions", 0) for d in last7)
+            lines.append(f"- Last 7d on Bing: **{total_clk} clicks, {total_imp} impressions**")
+        cs = bing_data["crawl_stats"] or []
+        if cs:
+            last7 = cs[-7:]
+            total_crawled = sum(d.get("CrawledPages", 0) for d in last7)
+            total_errors = sum(d.get("CrawlErrors", 0) for d in last7)
+            lines.append(f"- Last 7d crawl: **{total_crawled} pages, {total_errors} errors**")
 
     lines.extend([
         "",
