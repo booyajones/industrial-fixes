@@ -175,10 +175,11 @@ const structuredData = pubDatetime
     {
       PUBLIC_ADSENSE_CLIENT && (
         <script
+          is:inline
           async
           src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${PUBLIC_ADSENSE_CLIENT}`}
           crossorigin="anonymous"
-        />
+        ></script>
       )
     }
 
