@@ -172,16 +172,12 @@ const structuredData = pubDatetime
     <!-- Google AdSense Auto Ads — activates when PUBLIC_ADSENSE_CLIENT
          env var is set (format: ca-pub-XXXXXXXXXXXXXXXX). Approval at
          adsense.google.com is required before this earns revenue. -->
-    {
-      PUBLIC_ADSENSE_CLIENT && (
-        <script
-          is:inline
-          async
-          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${PUBLIC_ADSENSE_CLIENT}`}
-          crossorigin="anonymous"
-        ></script>
-      )
-    }
+    <!-- AdSense pub ID hardcoded after env-var path failed to reach Astro
+         build despite being set in CF Pages config. TODO: investigate
+         astro:env/client + CF Pages env injection. -->
+    <script is:inline async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8658387753904693"
+      crossorigin="anonymous"></script>
 
     <!-- Google Analytics 4 — lazy-loaded after first idle so it doesn't
          block LCP. Activate by setting PUBLIC_GA4_MEASUREMENT_ID env var. -->
