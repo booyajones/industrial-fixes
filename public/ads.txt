@@ -1,0 +1,5 @@
+# ads.txt for errorcodefixes.com
+# IAB Tech Lab Authorized Digital Sellers spec — https://iabtechlab.com/ads-txt/
+# Created 2026-05-24 for AdSense verification (publisher: pub-8658387753904693)
+
+google.com, pub-8658387753904693, DIRECT, f08c47fec0942fa0
