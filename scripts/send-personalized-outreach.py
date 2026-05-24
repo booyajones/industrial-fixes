@@ -35,7 +35,20 @@ ROOT = Path(__file__).resolve().parents[1]
 PROSPECT_CSV = ROOT / "growth-pipeline" / "outreach" / "2026-05-22_prospects.csv"
 GMAIL_USER = os.environ["GMAIL_USER"]
 GMAIL_PASSWORD = os.environ["GMAIL_APP_PASSWORD"]
-SENDER_NAME = "Chris Wyatt"
+
+# Persona: outreach lands as "Frank Mercer, Head of Partnerships & Editorial"
+# at errorcodefixes.com. Mail still sends through Gmail SMTP (deliverability
+# stays strong, no DNS verification needed) but the display name and
+# Reply-To route the conversation through the custom domain.
+#
+#   From:     Frank Mercer | Industrial Error Code Fixes <booyajones222@gmail.com>
+#   Reply-To: frank@errorcodefixes.com   (CF Email Routing -> chris.a.wyatt@gmail.com)
+#
+# When the recipient hits Reply, their client populates frank@, mail forwards
+# to chris.a.wyatt, conversation continues. Brand consistency without
+# touching DNS or running a transactional ESP.
+SENDER_NAME = "Frank Mercer | Industrial Error Code Fixes"
+REPLY_TO = "frank@errorcodefixes.com"
 
 # Personalized prospect queue — hand-curated. Only the 10 realistic
 # targets from the 25-prospect list. Manufacturers, large industry orgs,
@@ -162,8 +175,10 @@ def build_body(p: dict) -> str:
         f"curate this kind of thing you'd want to know it exists.\n\n"
         f"Either way, thanks for keeping a useful resource page out there. "
         f"They're getting rarer.\n\n"
-        f"Chris Wyatt\n"
-        f"errorcodefixes.com\n"
+        f"Frank Mercer\n"
+        f"Head of Partnerships & Editorial\n"
+        f"Industrial Error Code Fixes\n"
+        f"errorcodefixes.com  |  frank@errorcodefixes.com\n"
     )
     return body
 
@@ -175,7 +190,7 @@ def send_one(p: dict, smtp: smtplib.SMTP_SSL, dry: bool = False) -> bool:
     msg["To"] = p["to_email"]
     msg["Subject"] = p["subject"]
     msg["Date"] = formatdate(localtime=True)
-    msg["Reply-To"] = GMAIL_USER
+    msg["Reply-To"] = REPLY_TO
     msg.set_content(body)
 
     print(f"\n  --- to: {p['to_email']}  subj: {p['subject']}")
