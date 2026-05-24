@@ -35,20 +35,71 @@ ROOT = Path(__file__).resolve().parents[1]
 PROSPECT_CSV = ROOT / "growth-pipeline" / "outreach" / "2026-05-22_prospects.csv"
 GMAIL_USER = os.environ["GMAIL_USER"]
 GMAIL_PASSWORD = os.environ["GMAIL_APP_PASSWORD"]
+RESEND_API_KEY = os.environ.get("RESEND_API_KEY", "")
 
 # Persona: outreach lands as "Frank Mercer, Head of Partnerships & Editorial"
-# at errorcodefixes.com. Mail still sends through Gmail SMTP (deliverability
-# stays strong, no DNS verification needed) but the display name and
-# Reply-To route the conversation through the custom domain.
+# at errorcodefixes.com.
 #
-#   From:     Frank Mercer | Industrial Error Code Fixes <booyajones222@gmail.com>
-#   Reply-To: frank@errorcodefixes.com   (CF Email Routing -> chris.a.wyatt@gmail.com)
+# TRANSPORT:
+#   Resend (preferred): From: Frank Mercer <frank@errorcodefixes.com>
+#     - SPF/DKIM aligned (DNS records added 2026-05-24)
+#     - No "via gmail.com" attribution
+#     - Use once Resend confirms domain verified
+#   Gmail SMTP (fallback): From: ... <booyajones222@gmail.com> + Reply-To: frank@...
+#     - Same brand impression, replies still route through custom domain
+#     - Always works regardless of DNS state
 #
-# When the recipient hits Reply, their client populates frank@, mail forwards
-# to chris.a.wyatt, conversation continues. Brand consistency without
-# touching DNS or running a transactional ESP.
+# The script auto-detects which to use: if RESEND_API_KEY is set AND
+# the Resend domain is verified, it uses Resend. Otherwise Gmail SMTP.
 SENDER_NAME = "Frank Mercer | Industrial Error Code Fixes"
-REPLY_TO = "frank@errorcodefixes.com"
+FRANK_EMAIL = "frank@errorcodefixes.com"
+REPLY_TO = FRANK_EMAIL
+RESEND_DOMAIN_ID = "4d86ca07-2b2d-44f2-a893-cdafa51448ab"
+
+
+def _resend_domain_verified() -> bool:
+    """True if Resend has verified errorcodefixes.com (cached per-run)."""
+    if not RESEND_API_KEY:
+        return False
+    import urllib.request
+    try:
+        req = urllib.request.Request(
+            f"https://api.resend.com/domains/{RESEND_DOMAIN_ID}",
+            headers={"Authorization": f"Bearer {RESEND_API_KEY}"},
+        )
+        import json
+        with urllib.request.urlopen(req, timeout=10) as r:
+            return json.load(r).get("status") == "verified"
+    except Exception:
+        return False
+
+
+def _send_via_resend(p: dict, body: str) -> bool:
+    """Send AS frank@errorcodefixes.com via Resend HTTP API."""
+    import json, urllib.request
+    payload = {
+        "from": f"Frank Mercer <{FRANK_EMAIL}>",
+        "to": [p["to_email"]],
+        "subject": p["subject"],
+        "text": body,
+        "reply_to": FRANK_EMAIL,
+    }
+    req = urllib.request.Request(
+        "https://api.resend.com/emails",
+        data=json.dumps(payload).encode(),
+        headers={
+            "Authorization": f"Bearer {RESEND_API_KEY}",
+            "Content-Type": "application/json",
+        },
+        method="POST",
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=15) as r:
+            json.load(r)
+        return True
+    except Exception as e:
+        print(f"  [!] Resend send fail: {e}")
+        return False
 
 # Personalized prospect queue — hand-curated. Only the 10 realistic
 # targets from the 25-prospect list. Manufacturers, large industry orgs,
@@ -183,8 +234,14 @@ def build_body(p: dict) -> str:
     return body
 
 
-def send_one(p: dict, smtp: smtplib.SMTP_SSL, dry: bool = False) -> bool:
+def send_one(p: dict, smtp, dry: bool = False, use_resend: bool = False) -> bool:
     body = build_body(p)
+    print(f"\n  --- to: {p['to_email']}  subj: {p['subject']}  via={'resend' if use_resend else 'gmail'}")
+    if dry:
+        print(body[:200] + ("..." if len(body) > 200 else ""))
+        return True
+    if use_resend:
+        return _send_via_resend(p, body)
     msg = EmailMessage()
     msg["From"] = f"{SENDER_NAME} <{GMAIL_USER}>"
     msg["To"] = p["to_email"]
@@ -193,10 +250,6 @@ def send_one(p: dict, smtp: smtplib.SMTP_SSL, dry: bool = False) -> bool:
     msg["Reply-To"] = REPLY_TO
     msg.set_content(body)
 
-    print(f"\n  --- to: {p['to_email']}  subj: {p['subject']}")
-    if dry:
-        print(body[:200] + ("..." if len(body) > 200 else ""))
-        return True
     try:
         smtp.send_message(msg)
         return True
@@ -280,16 +333,21 @@ def main() -> int:
         print(f"\n[+] {saved} drafts saved in {GMAIL_USER}.")
         return 0
 
-    # Send via SMTP
-    smtp = smtplib.SMTP_SSL("smtp.gmail.com", 465)
-    smtp.login(GMAIL_USER, GMAIL_PASSWORD)
+    # Pick transport: Resend if domain verified, else Gmail SMTP fallback.
+    use_resend = _resend_domain_verified()
+    smtp = None
+    if not use_resend:
+        smtp = smtplib.SMTP_SSL("smtp.gmail.com", 465)
+        smtp.login(GMAIL_USER, GMAIL_PASSWORD)
+    print(f"[i] Transport: {'Resend (frank@errorcodefixes.com)' if use_resend else 'Gmail SMTP'}")
     sent_domains = []
     for prospect in batch:
-        ok = send_one(prospect, smtp, dry=args.dry)
+        ok = send_one(prospect, smtp, dry=args.dry, use_resend=use_resend)
         if ok and not args.dry:
             sent_domains.append(prospect["domain"])
             time.sleep(15)   # courteous pacing between sends
-    smtp.quit()
+    if smtp is not None:
+        smtp.quit()
 
     if sent_domains:
         update_csv(sent_domains)
