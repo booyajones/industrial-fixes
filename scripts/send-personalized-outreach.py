@@ -131,6 +131,16 @@ PROSPECTS = [
         "article_path": "/posts/carrier-13-error-code/",
         "article_pitch": "real-world brand-and-code repair references for learners",
     },
+    # Wave 2 — 2026-05-24
+    {
+        "domain": "generaltools.com",
+        "to_email": "info@generaltools.com",
+        "name": "",
+        "subject": "Reference for your 10 Common HVAC Problems guide",
+        "ref": "your '10 of the Most Common HVAC Problems and How to Fix Them' guide",
+        "article_path": "/posts/carrier-13-error-code/",
+        "article_pitch": "deeper brand-specific fault-code diagnostics that complement your general HVAC troubleshooting content",
+    },
 ]
 
 
