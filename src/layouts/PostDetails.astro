@@ -69,6 +69,24 @@ const ogImage = ogImageUrl
   ? new URL(ogImageUrl, Astro.url.origin).href
   : undefined;
 
+// Reading time estimate — 230 wpm is the standard for technical
+// non-fiction. Word count comes from the post body (not frontmatter).
+const wordCount = (post.body || "").trim().split(/\s+/).length;
+const readingMinutes = Math.max(1, Math.round(wordCount / 230));
+
+// "Last reviewed" relative phrasing for the trust bar. Shows "today",
+// "2 weeks ago", "3 months ago" instead of bare date — humans parse
+// recency faster than they parse a Y/M/D.
+const reviewDate = modDatetime || pubDatetime;
+const daysAgo = Math.floor((Date.now() - reviewDate.getTime()) / (24 * 3600 * 1000));
+let reviewedLabel: string;
+if (daysAgo <= 0) reviewedLabel = "today";
+else if (daysAgo === 1) reviewedLabel = "yesterday";
+else if (daysAgo < 14) reviewedLabel = `${daysAgo} days ago`;
+else if (daysAgo < 60) reviewedLabel = `${Math.floor(daysAgo / 7)} weeks ago`;
+else if (daysAgo < 730) reviewedLabel = `${Math.floor(daysAgo / 30)} months ago`;
+else reviewedLabel = `${Math.floor(daysAgo / 365)} years ago`;
+
 const layoutProps = {
   title: `${title} — Fix & Diagnosis Guide | errorcodefixes.com`,
   author,
@@ -210,9 +228,16 @@ const nextPost =
         }
       </span>
       <span class="article-date">
-        Updated: <time datetime={modDatetime ? modDatetime.toISOString() : pubDatetime.toISOString()}>
-          {(modDatetime || pubDatetime).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
+        Reviewed <time datetime={reviewDate.toISOString()} title={reviewDate.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}>
+          {reviewedLabel}
         </time>
+      </span>
+      <span class="article-read-time">
+        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <circle cx="12" cy="12" r="10"/>
+          <polyline points="12 6 12 12 16 14"/>
+        </svg>
+        {readingMinutes} min read
       </span>
     </div>
 
@@ -309,6 +334,12 @@ const nextPost =
     font-weight: 500;
   }
   .article-date { color: #6b7280; }
+  .article-read-time {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    color: #6b7280;
+  }
 
   /* Title + copy button */
   .title-copy-wrapper {
