@@ -58,3 +58,9 @@ If wiring is confirmed correct and power is present at both units but CH05 persi
 <!-- INTERNAL-LINK-AUTO -->
 **Related:** [LG washer error code 31 (pressure / suspension fault)](/posts/lg-washer-error-code-31/)
 
+## See Also
+
+- [LG Multi V VRF System Error Codes: Complete Guide](/posts/lg-multi-v-error-codes/)
+- [LG Mini-Split CH67 Error Code — Causes & Fix](/posts/lg-mini-split-ch67-error-code/)
+- [LG Mini Split CH02 Error Code — Causes & Fix](/posts/lg-mini-split-ch02-error-code/)
+- [LG Washer Error Code 31 — Pressure Sensor / Suspension Fault Fix](/posts/lg-washer-error-code-31/)

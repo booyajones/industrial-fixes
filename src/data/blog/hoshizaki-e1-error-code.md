@@ -68,3 +68,9 @@ This code is extremely common in commercial kitchens, particularly in high-use e
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
 **Related:** [Scotsman 1-flash bin full fix](/posts/scotsman-1-flash-code/)
 
+## See Also
+
+- [Hoshizaki E3 Error Code — Causes & Fix](/posts/hoshizaki-e3-error-code/)
+- [Hoshizaki vs Manitowoc Ice Machines — A Commercial Tech's Honest Comparison (2026)](/posts/hoshizaki-vs-manitowoc-ice-machines/)
+- [Hoshizaki E9 Error Code — Causes & Fix](/posts/hoshizaki-e9-error-code/)
+- [Hoshizaki F-450 Flaker Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-f450-error-codes/)

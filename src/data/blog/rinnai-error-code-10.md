@@ -79,3 +79,9 @@ If the fan motor, heat exchanger, or pressure switch needs replacement, most hom
 <!-- INTERNAL-LINK-AUTO -->
 **Related:** [Rheem Performance Platinum PDN tankless error codes](/posts/rheem-performance-platinum-pdn-error-codes/)
 
+## See Also
+
+- [Rinnai Error Code 25 — Causes & Fix](/posts/rinnai-error-code-25/)
+- [Rinnai RU130iN Tankless Water Heater Error Codes - Full Fault Guide](/posts/rinnai-ru130in-error-codes/)
+- [Rinnai Error Code 16 — Causes & Fix](/posts/rinnai-error-code-16/)
+- [Rinnai Error Code 31 — Causes & Fix](/posts/rinnai-error-code-31/)

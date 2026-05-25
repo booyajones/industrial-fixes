@@ -51,3 +51,10 @@ Okuma servo system repair requires Okuma-authorized service. Encoder replacement
 - [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
 - [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
 - [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+
+## See Also
+
+- [Okuma CNC Alarm 2000 — Communication Error](/posts/okuma-cnc-alarm-2000/)
+- [Okuma CNC Alarm 1400 — Encoder Error](/posts/okuma-cnc-alarm-1400/)
+- [Okuma CNC Alarm 2030 Spindle Drive Fault — Causes & Fix](/posts/okuma-cnc-alarm-2030/)
+- [Okuma CNC Alarm 1201 — Causes & Fix](/posts/okuma-cnc-alarm-1201/)

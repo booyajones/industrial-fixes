@@ -57,3 +57,9 @@ If the replacement sensor clears CH02 temporarily but it returns within weeks, t
 <!-- INTERNAL-LINK-AUTO -->
 **Related:** [LG washer error code 31 (pressure / suspension fault)](/posts/lg-washer-error-code-31/)
 
+## See Also
+
+- [LG Washer Error Codes — Complete Fix Guide](/posts/lg-washer-error-codes/)
+- [LG Mini Split CH01 Error Code — Causes & Fix](/posts/lg-mini-split-ch01-error-code/)
+- [LG Mini-Split CH22 Error Code — Indoor Fan Motor Fix](/posts/lg-mini-split-ch22-error-code/)
+- [LG Mini Split CH10 Error Code — Causes & Fix](/posts/lg-mini-split-ch10-error-code/)

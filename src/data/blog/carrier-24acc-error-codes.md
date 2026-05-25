@@ -69,3 +69,10 @@ Refrigerant handling requires EPA 608 certification. Any Code 3 investigation th
 - [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
 - [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
 - [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
+
+## See Also
+
+- [Carrier 21 Error Code — Gas Heating Lockout Fix](/posts/carrier-21-error-code/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier Error Code 61 — Rollout Switch Lockout](/posts/carrier-61-error-code/)
+- [Carrier 46 Error Code — Check IFC: Board Self-Diagnosis Fault](/posts/carrier-46-error-code/)

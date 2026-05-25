@@ -50,3 +50,10 @@ If gas is confirmed at the unit, the electrode and flame sensor are clean, and E
 - [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
 - [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)
 - [Rinnai Error Code 16 — Causes & Fix](/posts/rinnai-error-code-16/)
+
+## See Also
+
+- [Rinnai Error Code 10 — Condensate / Exhaust Blockage / Fan Motor Fault Fix](/posts/rinnai-error-code-10/)
+- [Rinnai Error Code 32 — Causes & Fix](/posts/rinnai-error-code-32/)
+- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)
+- [Rinnai I120CN Tankless Water Heater Error Codes: Complete Guide](/posts/rinnai-i120cn-error-codes/)

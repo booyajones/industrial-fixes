@@ -99,3 +99,9 @@ After replacing the sensor:
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
 **Related:** [Daikin U4 indoor-outdoor comm fault](/posts/daikin-error-code-u4/)
 
+## See Also
+
+- [Daikin E9 Error Code — Causes & Fix](/posts/daikin-e9-error-code/)
+- [Daikin Fit Error Codes — Inverter Heat Pump Diagnostic Guide](/posts/daikin-fit-error-codes/)
+- [Daikin E7 Error Code — Outdoor Fan Motor Fault Fix](/posts/daikin-e7-error-code/)
+- [Daikin Aurora Heat Pump Error Codes - Cold Climate Fault Guide](/posts/daikin-aurora-heat-pump-error-codes/)

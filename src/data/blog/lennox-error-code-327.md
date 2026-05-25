@@ -50,3 +50,10 @@ If the limit trips with a clean filter and a confirmed-running blower, the heat 
 - [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
 - [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
 - [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
+
+## See Also
+
+- [Lennox Error Code 224 — HSI Relay Failure Fix](/posts/lennox-error-code-224/)
+- [Lennox Error Code 240 — Ignitor Failed Fix](/posts/lennox-error-code-240/)
+- [Lennox Merit Series Furnace Error Codes - What It Means and How to Fix It](/posts/lennox-merit-series-furnace-error-codes/)
+- [Lennox XP20 Heat Pump Error Codes - Full iComfort Fault Reference](/posts/lennox-xp20-heat-pump-error-codes/)

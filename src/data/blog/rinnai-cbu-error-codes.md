@@ -83,3 +83,10 @@ Rinnai CBU combi boiler diagnosis involves both the refrigerant/heat circuit and
 - [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
 - [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)
 - [Rinnai Error Code 16 — Causes & Fix](/posts/rinnai-error-code-16/)
+
+## See Also
+
+- [Rinnai Error Code 25 — Causes & Fix](/posts/rinnai-error-code-25/)
+- [Rinnai Error Code 61 — Causes & Fix](/posts/rinnai-error-code-61/)
+- [Rinnai Error Code 31 — Causes & Fix](/posts/rinnai-error-code-31/)
+- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)

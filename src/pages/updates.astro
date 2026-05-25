@@ -1,0 +1,115 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import Breadcrumb from "@/components/Breadcrumb.astro";
+import { SITE } from "@/config";
+
+// Pull every published article and group by month for a clean changelog feel.
+// Uses modDatetime when present (revisions) otherwise pubDatetime.
+const posts = await getCollection("blog", ({ data }) => !data.draft);
+
+type PostEntry = {
+  id: string;
+  title: string;
+  author: string;
+  ts: Date;
+  isRevised: boolean;
+  pubTs: Date;
+};
+
+const sorted: PostEntry[] = posts
+  .map(p => {
+    const pub = new Date(p.data.pubDatetime);
+    const mod = p.data.modDatetime ? new Date(p.data.modDatetime) : null;
+    const ts = mod && mod.getTime() > pub.getTime() ? mod : pub;
+    const isRevised = !!mod && mod.getTime() > pub.getTime();
+    return {
+      id: p.id.replace(/\.md$/, ""),
+      title: p.data.title,
+      author: p.data.author,
+      ts,
+      isRevised,
+      pubTs: pub,
+    };
+  })
+  .sort((a, b) => b.ts.getTime() - a.ts.getTime())
+  .slice(0, 60);
+
+const byMonth = new Map<string, PostEntry[]>();
+for (const entry of sorted) {
+  const key = entry.ts.toLocaleString("en-US", { year: "numeric", month: "long" });
+  if (!byMonth.has(key)) byMonth.set(key, []);
+  byMonth.get(key)!.push(entry);
+}
+
+const totalCount = posts.length;
+const newest30dCount = posts.filter(p => {
+  const ts = p.data.modDatetime ? new Date(p.data.modDatetime) : new Date(p.data.pubDatetime);
+  return ts.getTime() > Date.now() - 30 * 24 * 3600 * 1000;
+}).length;
+---
+
+<Layout
+  title={`Recent updates | ${SITE.title}`}
+  description="Latest error code fix guides added or revised on errorcodefixes.com. Updated continuously by our editorial team."
+>
+  <Header />
+  <Breadcrumb />
+  <main id="main-content" class="app-layout pb-12">
+    <section class="py-10 border-b border-border">
+      <h1 class="text-3xl font-bold sm:text-4xl">Recent updates</h1>
+      <p class="mt-3 text-lg text-foreground/80 max-w-2xl">
+        Newly added and recently revised fix guides. The library grows
+        every week as new equipment platforms ship and existing service
+        bulletins are integrated.
+      </p>
+      <div class="mt-4 flex flex-wrap gap-4 text-sm">
+        <div class="rounded-full bg-muted px-4 py-1.5">
+          <span class="font-bold tabular-nums">{totalCount.toLocaleString()}</span>
+          <span class="text-foreground/70 ml-1">guides total</span>
+        </div>
+        <div class="rounded-full bg-accent/10 text-accent px-4 py-1.5">
+          <span class="font-bold tabular-nums">{newest30dCount}</span>
+          <span class="ml-1">added or revised in the last 30 days</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="py-8">
+      {[...byMonth.entries()].map(([month, entries]) => (
+        <div class="mb-8">
+          <h2 class="text-lg font-semibold mb-3 text-foreground/80">{month}</h2>
+          <ul class="space-y-2">
+            {entries.map(e => (
+              <li class="flex items-start justify-between gap-4 rounded-md border border-border bg-muted/30 px-4 py-3 hover:border-accent hover:bg-accent/5 transition-all">
+                <a href={`/posts/${e.id}/`} class="flex-1 min-w-0">
+                  <span class="font-medium hover:text-accent transition-colors">{e.title}</span>
+                  <p class="mt-1 text-xs text-foreground/60">
+                    {e.isRevised ? "Revised" : "Added"} {e.ts.toLocaleDateString("en-US", { month: "short", day: "numeric" })}
+                    {" · "}
+                    {e.author}
+                  </p>
+                </a>
+                <span class={`shrink-0 rounded-full px-2 py-0.5 text-xs font-medium ${e.isRevised ? "bg-amber-100 text-amber-900 dark:bg-amber-900/30 dark:text-amber-300" : "bg-green-100 text-green-900 dark:bg-green-900/30 dark:text-green-300"}`}>
+                  {e.isRevised ? "revised" : "new"}
+                </span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))}
+    </section>
+
+    <section class="border-t border-border py-8">
+      <p class="text-sm text-foreground/70">
+        Showing the most recent 60 entries. The full library is searchable
+        from the homepage or via the <a href="/archives/" class="text-accent hover:underline">archives</a>.
+        Every guide is technician-written — see <a href="/methodology/" class="text-accent hover:underline">our methodology</a> and the
+        <a href="/authors/" class="text-accent hover:underline">editorial team</a>.
+      </p>
+    </section>
+  </main>
+  <Footer />
+</Layout>

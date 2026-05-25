@@ -152,3 +152,10 @@ A: At minimum, every 90 days. In high-traffic convenience stores or dusty enviro
 **Q: The GDM-23 light flickered and now shows E6. Is the whole controller fried?**
 
 A: Not necessarily. Power fluctuations (surges, brownouts) can cause E6. Power-cycle the unit completely for 5 minutes and see if the error clears. If it does, the controller is fine. If E6 returns immediately, the controller has failed. A surge protector/line conditioner on GDM units in lightning-prone areas is worth the $40–$80 investment.
+
+## See Also
+
+- [True T-23 Refrigerator Error Codes — Fault Code Diagnostic Guide](/posts/true-t-23-error-codes/)
+- [True GDM Error Codes - What It Means and How to Fix It](/posts/true-gdm-error-codes/)
+- [True Refrigeration E1 Error Code — Causes & Fix](/posts/true-refrigeration-e1-error-code/)
+- [True Refrigeration E3 Error Code — Causes & Fix](/posts/true-refrigeration-e3-error-code/)

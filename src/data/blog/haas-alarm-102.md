@@ -82,3 +82,9 @@ Haas servo system diagnosis — particularly encoder replacement and drive swap 
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
 **Related:** [Haas alarm 114 servo error too large](/posts/haas-alarm-114/)
 
+## See Also
+
+- [Haas Alarm 120-129 — Automatic Tool Changer (ATC) Fault Fix Guide](/posts/haas-alarm-120-atc-fault/)
+- [Haas Alarm 116 — Causes & Fix](/posts/haas-alarm-116/)
+- [Haas Alarm 115 Spindle Overload — Causes & Fix](/posts/haas-alarm-115-spindle-overload/)
+- [Haas Alarm 124 — Causes & Fix](/posts/haas-alarm-124/)

@@ -140,3 +140,10 @@ Yes. If your system is paired with an air handler or furnace that has backup ele
 
 **What does it mean if the LED never blinks, it's just solid amber?**
 A solid amber LED means the board has 24VAC power but is not receiving a call from the thermostat. Check your thermostat settings and wiring first. If the thermostat is calling for heat or cooling and the LED stays solid, you likely have a wiring break between the thermostat and the outdoor unit.
+
+## See Also
+
+- [Carrier Infinity XC21 Error Codes — Most Common Faults and Fixes](/posts/carrier-xc21-error-codes/)
+- [Carrier VRF System Error Codes Guide](/posts/carrier-vrf-error-codes/)
+- [Carrier 33 Error Code — Causes & Fix](/posts/carrier-33-error-code/)
+- [Carrier Error Code 56 — IFC Fault (Induced Draft Motor)](/posts/carrier-56-error-code/)

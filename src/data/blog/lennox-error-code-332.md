@@ -53,3 +53,10 @@ If the limit trips repeatedly after filter and airflow corrections, call an HVAC
 - [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
 - [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
 - [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
+
+## See Also
+
+- [Lennox Error Code 412 — Limit Switch Fault Fix](/posts/lennox-error-code-412/)
+- [Lennox Error Code 441 — Limit Device Fault](/posts/lennox-error-code-441/)
+- [Lennox Furnace Error Codes — Complete Reference Guide](/posts/lennox-furnace-error-codes/)
+- [Lennox Error Code 540 — Communicating System Fault (Detailed Guide)](/posts/lennox-error-code-540-communicating/)

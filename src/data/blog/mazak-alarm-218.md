@@ -125,3 +125,9 @@ Call Mazak Technical Service (or your authorized dealer) when: the thermistor an
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
 **Related:** [Best 4-20mA loop calibrator](/posts/best-loop-calibrator-for-vfd-techs/)
 
+## See Also
+
+- [Mazak Matrix Alarm 1041 — Battery Voltage Drop / Encoder Battery Fix](/posts/mazak-alarm-1041/)
+- [Mazak Alarm 700 — MPC Alarm](/posts/mazak-alarm-700-mpc/)
+- [Mazak CNC Alarm 30 — Servo Alarm Fix](/posts/mazak-cnc-alarm-30-servo-alarm/)
+- [Mazak Alarm 900 Tool Magazine Index Fault - Causes & Fix](/posts/mazak-alarm-900-magazine/)

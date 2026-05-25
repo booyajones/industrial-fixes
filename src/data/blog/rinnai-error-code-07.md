@@ -79,3 +79,9 @@ If descaling and cleaning don't resolve code 07, the secondary heat exchanger it
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
 **Related:** [Rinnai code 11 no-ignition fix](/posts/rinnai-error-code-11/)
 
+## See Also
+
+- [Rinnai Error Code 10 — Condensate / Exhaust Blockage / Fan Motor Fault Fix](/posts/rinnai-error-code-10/)
+- [Rinnai Error Code 52 — Outlet Water Temperature Sensor Fault](/posts/rinnai-error-code-52/)
+- [Rinnai Error Code 33 — Causes & Fix](/posts/rinnai-error-code-33/)
+- [Rinnai Error Code 25 — Causes & Fix](/posts/rinnai-error-code-25/)

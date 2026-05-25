@@ -68,3 +68,10 @@ If the cooling fan is operational, the cabinet is clean, the axis moves freely u
 - [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
 - [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
 - [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+
+## See Also
+
+- [Okuma CNC Alarm 1600 — Communication Error Causes & Fix](/posts/okuma-cnc-alarm-1600/)
+- [Okuma CNC Alarm 1800 — Causes & Fix](/posts/okuma-cnc-alarm-1800/)
+- [Okuma OSP Alarm 2202 — Spindle Fix](/posts/okuma-alarm-2202/)
+- [Okuma CNC Alarm 4000 - Causes & Fix](/posts/okuma-cnc-alarm-4000/)

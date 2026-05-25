@@ -101,3 +101,10 @@ Code 240 should clear after replacement if the HSI is the issue. If you've repla
 - [Trane 2-Blink Error Code — External Lockout Fix](/posts/trane-2-blink-error-code)
 - [Goodman 3-Flash Error Code — Pressure Switch Open Fix](/posts/goodman-3-flash-error-code)
 - [York 1-Blink Error Code — Pressure Switch Stuck Closed Fix](/posts/york-error-code-1)
+
+## See Also
+
+- [Lennox XP25 Heat Pump Error Codes - iComfort Fault Diagnostics](/posts/lennox-xp25-heat-pump-error-codes/)
+- [Lennox XC21 Error Codes — Diagnostic Guide and Fixes](/posts/lennox-xc21-error-codes/)
+- [Lennox Mini Split Error Code E1 — Causes & Fix](/posts/lennox-mini-split-error-code-e1/)
+- [Lennox Error Code 412 — Limit Switch Fault Fix](/posts/lennox-error-code-412/)

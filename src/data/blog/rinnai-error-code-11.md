@@ -68,3 +68,9 @@ If Code 11 persists after purging air, cleaning the igniter, and checking ventin
 <!-- INTERNAL-LINK-AUTO -->
 **Related:** [Rheem Performance Platinum PDN tankless error codes](/posts/rheem-performance-platinum-pdn-error-codes/)
 
+## See Also
+
+- [Rinnai Error Code 11 No Ignition — Causes & Fix](/posts/rinnai-error-code-11-ignition/)
+- [Rinnai Error Code 33 — Causes & Fix](/posts/rinnai-error-code-33/)
+- [Rinnai Error Code 31 — Causes & Fix](/posts/rinnai-error-code-31/)
+- [Rinnai Error Code 52 — Outlet Water Temperature Sensor Fault](/posts/rinnai-error-code-52/)

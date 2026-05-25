@@ -51,3 +51,10 @@ If water contamination is recurring, the condensate drainage system needs a thor
 - [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
 - [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
 - [York 7 Flashes Error Code — Ignition Lockout Fix](/posts/york-7-flashes-error-code/)
+
+## See Also
+
+- [York Furnace Error Code E5 — High Limit Tripped](/posts/york-furnace-error-code-e5/)
+- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
+- [York 1-Blink Error Code — Pressure Switch Stuck Closed Fix](/posts/york-error-code-1/)
+- [York 2-Blink Error Code — Pressure Switch Stuck Open Fix](/posts/york-error-code-2/)

@@ -53,3 +53,10 @@ Spindle drive replacement, spindle motor testing, and encoder calibration requir
 - [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
 - [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
 - [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+
+## See Also
+
+- [Mazak Alarm 500 PC Alarm — Causes & Fix](/posts/mazak-alarm-500-pc/)
+- [Mazak Integrex Error Codes Guide — Common Mazatrol and Servo Faults](/posts/mazak-integrex-error-codes/)
+- [Mazak Matrix Alarm 1041 — Battery Voltage Drop / Encoder Battery Fix](/posts/mazak-alarm-1041/)
+- [Mazak CNC Alarm Codes — Common Faults and Fixes](/posts/mazak-alarm-codes/)

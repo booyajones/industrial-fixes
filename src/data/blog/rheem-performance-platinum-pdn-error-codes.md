@@ -89,3 +89,10 @@ Fix:
 ## Need Help Finding Parts?
 
 If you're not sure which OEM part number fits your specific PDN model, pull the rating-plate label (rear of unit, behind the cover) and look for the model number — it starts with "PDN" followed by the BTU rating and a revision letter. Rheem's parts portal and most supply houses will cross-reference from there.
+
+## See Also
+
+- [Rheem Furnace 5 Flashes Error Code — Flame Sensor Fault Fix](/posts/rheem-furnace-5-flashes-flame-sensor/)
+- [Rheem RPH Series Packaged Unit Error Codes: Complete Guide](/posts/rheem-rph-error-codes/)
+- [Rheem Furnace 9 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-9-flashes/)
+- [Rheem Prestige RP20 Heat Pump Error Codes - Full Fault Code Reference](/posts/rheem-rp20-heat-pump-error-codes/)

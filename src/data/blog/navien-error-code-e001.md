@@ -71,3 +71,9 @@ If E001 persists after purging air and cleaning the igniter: a licensed plumber 
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
 **Related:** [Rinnai code 11 no-ignition fix](/posts/rinnai-error-code-11/)
 
+## See Also
+
+- [Navien Error Code E021 — Cold Water Inlet Thermistor Fault Fix](/posts/navien-error-code-e021/)
+- [Navien E002 Error Code — Causes & Fix](/posts/navien-error-code-e002/)
+- [Navien Error Code E007 — Causes & Fix](/posts/navien-error-code-e007/)
+- [Navien E030 Error Code — Causes & Fix](/posts/navien-error-code-e030/)

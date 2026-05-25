@@ -169,3 +169,10 @@ A: Yes, but wait at least 30 minutes after cycling power. The variable-speed com
 **Q: What's the difference between the Rheem RP20 and the Ruud RP20?**
 
 A: They're functionally identical — Rheem and Ruud are sister brands manufactured by Paloma Industries. The control boards, sensors, fault codes, and parts are all interchangeable. Service manuals from either brand apply to both units.
+
+## See Also
+
+- [Rheem Furnace 8 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-8-flashes/)
+- [Rheem Furnace 9 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-9-flashes/)
+- [Rheem Furnace 6 Flashes — Rollout Switch Open Fix](/posts/rheem-furnace-6-flashes/)
+- [Rheem RTGH-95DVLN Condensing Tankless Water Heater Error Codes](/posts/rheem-rtgh-95dvln-error-codes/)

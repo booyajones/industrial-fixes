@@ -64,3 +64,9 @@ Any refrigerant-related cause of E2 requires an EPA 608-certified refrigeration 
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
 **Related:** [Scotsman 1-flash bin full fix](/posts/scotsman-1-flash-code/)
 
+## See Also
+
+- [Hoshizaki F01 Error Code — Causes & Fix](/posts/hoshizaki-f01-error-code/)
+- [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)
+- [Hoshizaki E6 Error Code — Causes & Fix](/posts/hoshizaki-e6-error-code/)
+- [Hoshizaki F2 Error Code — Ice Full Sensor Fault Causes & Fix](/posts/hoshizaki-f2-error-code/)

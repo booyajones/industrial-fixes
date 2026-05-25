@@ -119,3 +119,9 @@ A: That's an intermittent — usually a fan motor that runs OK cold and slows wh
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
 **Related:** [Scotsman 1-flash bin full fix](/posts/scotsman-1-flash-code/)
 
+## See Also
+
+- [Scotsman 2-Flash Code — Long Freeze Cycle Fix](/posts/scotsman-2-flash-code/)
+- [Scotsman Ice Machine Error Code 5 — Freeze Cycle Timeout Causes & Fix](/posts/scotsman-ice-machine-error-code-5/)
+- [Scotsman HID525 Error Codes — Complete Guide](/posts/scotsman-hid525-error-codes/)
+- [Scotsman Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/scotsman-ice-machine-complete-guide/)

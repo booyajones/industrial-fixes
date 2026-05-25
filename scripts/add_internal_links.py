@@ -11,7 +11,16 @@ import re
 import random
 
 BLOG_DIR = os.path.join(os.path.dirname(__file__), "..", "src", "data", "blog")
-BRANDS = ["carrier", "goodman", "lennox", "trane", "rheem"]
+BRANDS = [
+    # Wave 1 — top HVAC brands
+    "carrier", "goodman", "lennox", "trane", "rheem",
+    # Wave 2 — HVAC + commercial refrigeration + CNC
+    "york", "mitsubishi", "daikin", "haas", "fanuc", "siemens",
+    "abb", "allen", "yaskawa", "manitowoc", "hoshizaki",
+    # Wave 3 — tankless/boilers + appliances + CNC depth
+    "navien", "rinnai", "mazak", "scotsman", "lg", "danfoss",
+    "true", "okuma", "weil",
+]
 MAX_PER_BRAND = 5
 SEE_ALSO_LINKS = 4  # number of cross-links to add
 

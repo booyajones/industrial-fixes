@@ -102,3 +102,10 @@ A: Watch the unit while the compressor is running. The condenser fan should run 
 
 **Q: What temperature should a GDM-49 run at?**
 A: Most beverage and merchandiser setups target a cabinet temperature around 33°F to 38°F. Product temperature is what matters most. Use a thermometer in a liquid-filled bottle on a middle shelf to confirm the actual product temp instead of relying only on the controller display.
+
+## See Also
+
+- [True TSSU Prep Table Error Codes, Causes, and Fixes](/posts/true-tssu-prep-table-error-codes/)
+- [True Refrigerator Error Code E1 / P1: Thermostat Probe Failure Causes and Fix](/posts/true-refrigeration-e1-p1-error/)
+- [True Refrigeration E2 Error Code — Causes & Fix](/posts/true-refrigeration-e2-error-code/)
+- [True T-72 Refrigerator Error Codes - Full Fault Guide](/posts/true-t-72-error-codes/)

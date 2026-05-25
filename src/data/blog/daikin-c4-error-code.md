@@ -58,3 +58,9 @@ If the sensor tests correctly but C4 returns, the indoor control board likely ha
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
 **Related:** [Daikin U4 indoor-outdoor comm fault](/posts/daikin-error-code-u4/)
 
+## See Also
+
+- [Daikin L5 Error Code — Compressor Lock Fault](/posts/daikin-l5-error-code/)
+- [Daikin VRV E7 Error Code — Causes & Fix](/posts/daikin-vrv-e7-error-code/)
+- [Daikin U2 Error Code — Causes & Fix](/posts/daikin-u2-error-code/)
+- [Daikin Fit Error Codes — Inverter Heat Pump Diagnostic Guide](/posts/daikin-fit-error-codes/)

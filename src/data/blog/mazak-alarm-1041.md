@@ -120,3 +120,9 @@ Call when: 1041 persists with a verified-good new battery (drive hold-up cap or 
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
 **Related:** [Best clamp meter (2026)](/posts/best-clamp-meter-for-electricians/)
 
+## See Also
+
+- [Mazak Nexus Series Error Codes: Complete Guide](/posts/mazak-nexus-error-codes/)
+- [Mazak Alarm 218 — Spindle Motor Overheat Fix](/posts/mazak-alarm-218/)
+- [Mazak Alarm 600 ATC — Automatic Tool Changer Fault Causes & Fix](/posts/mazak-alarm-600-atc/)
+- [Mazak Alarm 800 — Tool Magazine Fault](/posts/mazak-alarm-800-atc/)

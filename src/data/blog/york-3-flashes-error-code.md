@@ -51,3 +51,10 @@ If the draft motor runs at full speed, vents are clear, and the hose is intact, 
 - [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
 - [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
 - [York 7 Flashes Error Code — Ignition Lockout Fix](/posts/york-7-flashes-error-code/)
+
+## See Also
+
+- [York 2-Blink Error Code — Pressure Switch Stuck Open Fix](/posts/york-error-code-2/)
+- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
+- [York YG2C Furnace Error Codes — Flash Code Diagnostic Guide](/posts/york-yg2c-error-codes/)
+- [York 2 Flashes Error Code — Causes & Fix](/posts/york-2-flashes-error-code/)

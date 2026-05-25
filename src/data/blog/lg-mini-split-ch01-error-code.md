@@ -60,3 +60,9 @@ If you've replaced the sensor and the fault persists, the PCB input circuit is s
 <!-- INTERNAL-LINK-AUTO -->
 **Related:** [LG refrigerator error codes (complete guide)](/posts/lg-refrigerator-error-codes/)
 
+## See Also
+
+- [LG Washer Error Codes — Complete Fix Guide](/posts/lg-washer-error-codes/)
+- [LG Mini-Split CH22 Error Code — Indoor Fan Motor Fix](/posts/lg-mini-split-ch22-error-code/)
+- [LG Mini Split CH02 Error Code — Causes & Fix](/posts/lg-mini-split-ch02-error-code/)
+- [LG Mini-Split CH34 Error Code — Causes & Fix](/posts/lg-mini-split-ch34-error-code/)

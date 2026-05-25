@@ -50,3 +50,10 @@ If the sensor is clean and correctly positioned but the fault persists, gas valv
 - [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
 - [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
 - [York 7 Flashes Error Code — Ignition Lockout Fix](/posts/york-7-flashes-error-code/)
+
+## See Also
+
+- [York Furnace Error Codes — Complete Guide](/posts/york-furnace-error-codes/)
+- [York YXV Heat Pump Error Codes - Fault Code Reference](/posts/york-yxv-heat-pump-error-codes/)
+- [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
+- [York YG2C Furnace Error Codes — Flash Code Diagnostic Guide](/posts/york-yg2c-error-codes/)

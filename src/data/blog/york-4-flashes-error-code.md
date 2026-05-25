@@ -59,3 +59,10 @@ If the 4-flash fault persists after filter replacement and airflow correction, h
 - [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
 - [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
 - [York 7 Flashes Error Code — Ignition Lockout Fix](/posts/york-7-flashes-error-code/)
+
+## See Also
+
+- [York Furnace Error Codes — Complete Guide](/posts/york-furnace-error-codes/)
+- [York 7 Flashes Error Code — Ignition Lockout Fix](/posts/york-7-flashes-error-code/)
+- [York Mini Split Error Code E1 — Causes & Fix](/posts/york-mini-split-error-code-e1/)
+- [York TG9 Furnace Error Codes — Fault Code Diagnostic Guide](/posts/york-tg9-furnace-error-codes/)

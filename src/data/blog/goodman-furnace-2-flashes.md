@@ -77,3 +77,10 @@ If you've confirmed the pressure switch tests open at rest, the hose is clear of
 
 - [Goodman Furnace 3 Flashes — Pressure Switch Open](/posts/goodman-furnace-3-flashes/)
 - [Goodman Furnace 4 Flashes — Open High Limit Switch](/posts/goodman-furnace-4-flashes/)
+
+## See Also
+
+- [Goodman Furnace 4 Flashes — Open High Limit Switch Fix](/posts/goodman-furnace-4-flashes/)
+- [Goodman GMS96 Error Codes — Fault Code Guide](/posts/goodman-gms96-error-codes/)
+- [Goodman GSX13 Air Conditioner Error Codes — Fault Code Diagnostic Guide](/posts/goodman-gsx13-error-codes/)
+- [Goodman vs Bryant Furnaces — A Service Tech's Honest Comparison (2026)](/posts/goodman-vs-bryant-furnaces/)
