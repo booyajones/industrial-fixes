@@ -17,6 +17,7 @@ USAGE:
 
 from __future__ import annotations
 
+import json
 import os
 import sys
 from datetime import date, datetime, timedelta
@@ -152,6 +153,37 @@ def main() -> int:
     bing_key = os.environ.get("BING_API_KEY")
     bing_data = bing(bing_key) if bing_key else {"rank_traffic": [], "crawl_stats": [], "quota": {}}
     print(f"Bing: {len(bing_data['rank_traffic'])} traffic points, {len(bing_data['crawl_stats'])} crawl points")
+
+    # Write top-this-week.json for homepage consumption. The homepage
+    # imports this file at build time so the auto-deploy that happens
+    # after this cron commit will refresh the "Most popular" block.
+    top_articles_for_homepage = []
+    blog_dir = ROOT / "src" / "data" / "blog"
+    for row in ga["pages"]:
+        path = row.get("pagePath", "")
+        if not (path.startswith("/posts/") and path.endswith("/")):
+            continue
+        slug = path.replace("/posts/", "").rstrip("/")
+        # Verify the article still exists (handles unpublished/renamed slugs).
+        if not (blog_dir / f"{slug}.md").exists():
+            continue
+        top_articles_for_homepage.append({
+            "slug": slug,
+            "path": path,
+            "pageviews": int(row.get("screenPageViews", 0) or 0),
+            "users": int(row.get("totalUsers", 0) or 0),
+        })
+        if len(top_articles_for_homepage) >= 8:
+            break
+
+    top_data_path = ROOT / "src" / "data" / "top-this-week.json"
+    top_data_path.parent.mkdir(parents=True, exist_ok=True)
+    top_data_path.write_text(json.dumps({
+        "generated_at": datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "window_days": 30,
+        "articles": top_articles_for_homepage,
+    }, indent=2), encoding="utf-8")
+    print(f"[+] Wrote top-this-week.json with {len(top_articles_for_homepage)} articles")
 
     OUT_DIR.mkdir(parents=True, exist_ok=True)
     date_stamp = datetime.now().strftime("%Y-%m-%d")

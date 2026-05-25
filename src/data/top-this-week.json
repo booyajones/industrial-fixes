@@ -1,0 +1,54 @@
+{
+  "generated_at": "2026-05-25T01:26:32Z",
+  "window_days": 30,
+  "articles": [
+    {
+      "slug": "siemens-vfd-fault-codes",
+      "path": "/posts/siemens-vfd-fault-codes/",
+      "pageviews": 19,
+      "users": 17
+    },
+    {
+      "slug": "cnc-error-codes-guide",
+      "path": "/posts/cnc-error-codes-guide/",
+      "pageviews": 18,
+      "users": 16
+    },
+    {
+      "slug": "hoshizaki-e7-error-code",
+      "path": "/posts/hoshizaki-e7-error-code/",
+      "pageviews": 16,
+      "users": 9
+    },
+    {
+      "slug": "mitsubishi-fr-d700-fault-codes",
+      "path": "/posts/mitsubishi-fr-d700-fault-codes/",
+      "pageviews": 16,
+      "users": 13
+    },
+    {
+      "slug": "yaskawa-sigma7-sgd7s-alarm-codes",
+      "path": "/posts/yaskawa-sigma7-sgd7s-alarm-codes/",
+      "pageviews": 16,
+      "users": 15
+    },
+    {
+      "slug": "rinnai-error-code-11",
+      "path": "/posts/rinnai-error-code-11/",
+      "pageviews": 14,
+      "users": 12
+    },
+    {
+      "slug": "ao-smith-water-heater-error-codes",
+      "path": "/posts/ao-smith-water-heater-error-codes/",
+      "pageviews": 13,
+      "users": 11
+    },
+    {
+      "slug": "carrier-13-error-code",
+      "path": "/posts/carrier-13-error-code/",
+      "pageviews": 12,
+      "users": 9
+    }
+  ]
+}

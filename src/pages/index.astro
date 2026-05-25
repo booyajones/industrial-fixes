@@ -15,6 +15,30 @@ const sortedPosts = getSortedPosts(posts);
 const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
 const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
 
+// Most popular this week — auto-fed by scripts/weekly-traffic-report.py
+// which writes src/data/top-this-week.json from GA4 every Monday 7am.
+// The homepage re-renders on the next commit cycle so the list stays
+// fresh without manual touch.
+let topThisWeek: Array<{ slug: string; path: string; pageviews: number; title: string }> = [];
+try {
+  const topData = (await import("@/data/top-this-week.json")).default as {
+    articles: Array<{ slug: string; path: string; pageviews: number }>;
+  };
+  const bySlug = new Map(posts.map(p => [p.id.replace(/\.md$/, ""), p]));
+  topThisWeek = topData.articles
+    .map(a => {
+      const post = bySlug.get(a.slug);
+      return post
+        ? { slug: a.slug, path: a.path, pageviews: a.pageviews, title: post.data.title }
+        : null;
+    })
+    .filter((x): x is { slug: string; path: string; pageviews: number; title: string } => x !== null)
+    .slice(0, 6);
+} catch {
+  // top-this-week.json not present (first run / fresh checkout). Section
+  // simply doesn't render — graceful degradation.
+}
+
 // Equipment categories pulled from the shared data file so the homepage,
 // the /equipment/ index, and each /equipment/[slug]/ hub stay in sync.
 import { equipmentCategories } from "@/data/equipmentCategories";
@@ -108,6 +132,28 @@ const categories = equipmentCategories.map(c => ({
         <ul>
           {featuredPosts.map(data => <Card variant="h3" {...data} />)}
         </ul>
+      </section>
+    )}
+
+    {topThisWeek.length > 0 && (
+      <section id="top-this-week" class="pt-10 pb-6 border-b border-border">
+        <h2 class="text-xl font-bold mb-1 flex items-center gap-2">
+          <svg class="h-5 w-5 text-accent" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6"/>
+          </svg>
+          Most popular fixes this week
+        </h2>
+        <p class="text-sm text-foreground/60 mb-4">Auto-updated from real reader traffic, refreshed weekly.</p>
+        <ol class="grid gap-2 sm:grid-cols-2">
+          {topThisWeek.map((article, i) => (
+            <li class="flex items-baseline gap-3 rounded-md border border-border bg-muted/30 px-3 py-2 hover:border-accent hover:bg-accent/5 transition-all">
+              <span class="text-lg font-bold text-accent tabular-nums">{i + 1}</span>
+              <a href={article.path} class="text-sm font-medium hover:text-accent transition-colors">
+                {article.title}
+              </a>
+            </li>
+          ))}
+        </ol>
       </section>
     )}
 
