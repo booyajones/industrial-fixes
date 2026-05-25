@@ -1,30 +1,119 @@
 ---
+import { getCollection } from "astro:content";
 import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
-import LinkButton from "@/components/LinkButton.astro";
 import { SITE } from "@/config";
+import { equipmentCategories } from "@/data/equipmentCategories";
+
+// Pull a stable handful of popular articles for the 404 page so visitors
+// who landed wrong have an immediate path forward. Uses top-this-week
+// if available, falls back to featured posts.
+let popularArticles: Array<{ path: string; title: string }> = [];
+try {
+  const topData = (await import("@/data/top-this-week.json")).default as {
+    articles: Array<{ slug: string; path: string }>;
+  };
+  const allPosts = await getCollection("blog", ({ data }) => !data.draft);
+  const bySlug = new Map(allPosts.map(p => [p.id.replace(/\.md$/, ""), p]));
+  popularArticles = topData.articles
+    .map(a => {
+      const post = bySlug.get(a.slug);
+      return post ? { path: a.path, title: post.data.title } : null;
+    })
+    .filter((x): x is { path: string; title: string } => x !== null)
+    .slice(0, 5);
+} catch {
+  const allPosts = await getCollection("blog", ({ data }) => !data.draft && data.featured);
+  popularArticles = allPosts.slice(0, 5).map(p => ({
+    path: `/posts/${p.id.replace(/\.md$/, "")}/`,
+    title: p.data.title,
+  }));
+}
 ---
 
-<Layout title={`404 Not Found | ${SITE.title}`}>
+<Layout title={`Page Not Found | ${SITE.title}`} noindex={true}>
   <Header />
 
-  <main
-    id="main-content"
-    class="app-layout flex flex-1 items-center justify-center"
-  >
-    <div class="mb-14 flex flex-col items-center justify-center">
-      <h1 class="text-9xl font-bold text-accent">404</h1>
-      <span aria-hidden="true">¯\_(ツ)_/¯</span>
-      <p class="mt-4 text-2xl sm:text-3xl">Page Not Found</p>
-      <LinkButton
-        href="/"
-        class="my-6 text-lg underline decoration-dashed underline-offset-8"
-      >
-        Go back home
-      </LinkButton>
-    </div>
+  <main id="main-content" class="app-layout pb-12">
+    <section class="py-10">
+      <p class="text-sm font-semibold text-accent">404</p>
+      <h1 class="mt-2 text-3xl font-bold sm:text-4xl">This page didn't show up.</h1>
+      <p class="mt-3 text-lg text-foreground/80 max-w-2xl">
+        It either moved, was renamed, or never existed. Here's how to find
+        what you came for.
+      </p>
+
+      <div id="pagefind-404" class="mt-6 max-w-lg">
+        <noscript>
+          <a href="/search" class="flex items-center gap-3 w-full rounded-lg border-2 border-accent bg-muted px-4 py-3 text-foreground/60">
+            <svg class="h-5 w-5 text-accent shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+            </svg>
+            <span>Search every error code...</span>
+          </a>
+        </noscript>
+      </div>
+    </section>
+
+    <section class="border-t border-border py-8">
+      <h2 class="text-lg font-bold mb-4">Browse by equipment</h2>
+      <div class="grid grid-cols-2 gap-3 sm:grid-cols-3">
+        {equipmentCategories.map(cat => (
+          <a
+            href={`/equipment/${cat.slug}/`}
+            class="flex flex-col gap-1 rounded-lg border border-border bg-muted p-3 hover:border-accent hover:bg-accent/5 transition-all"
+          >
+            <span class="text-xl">{cat.emoji}</span>
+            <span class="font-semibold text-sm">{cat.name}</span>
+            <span class="text-xs text-foreground/50">{cat.tagline}</span>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    {popularArticles.length > 0 && (
+      <section class="border-t border-border py-8">
+        <h2 class="text-lg font-bold mb-4">Popular right now</h2>
+        <ul class="grid gap-2 sm:grid-cols-2">
+          {popularArticles.map(a => (
+            <li>
+              <a href={a.path} class="block rounded-md border border-border bg-muted/30 px-3 py-2 text-sm hover:border-accent hover:bg-accent/5 transition-all">
+                {a.title}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    <section class="border-t border-border py-8">
+      <h2 class="text-lg font-bold mb-2">Still stuck?</h2>
+      <p class="text-sm text-foreground/80">
+        Email <a href="mailto:info@errorcodefixes.com" class="text-accent hover:underline">info@errorcodefixes.com</a>
+        with the brand and error code. We'll point you at the right guide
+        or add it if we haven't covered it yet.
+      </p>
+    </section>
   </main>
 
   <Footer />
 </Layout>
+
+<script>
+  import { PagefindUI } from "@pagefind/default-ui";
+  document.addEventListener("astro:page-load", () => {
+    const container = document.getElementById("pagefind-404");
+    if (container && !(container as HTMLElement).dataset.initialized) {
+      new PagefindUI({
+        element: "#pagefind-404",
+        showSubResults: false,
+        showImages: false,
+        resetStyles: false,
+        placeholder: "Search every error code...",
+        autofocus: true,
+      });
+      (container as HTMLElement).dataset.initialized = "true";
+    }
+  });
+</script>
