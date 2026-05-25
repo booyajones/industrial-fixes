@@ -9,37 +9,35 @@ import LinkButton from "@/components/LinkButton.astro";
 import getSortedPosts from "@/utils/getSortedPosts";
 import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
 import { SITE } from "@/config";
+import { equipmentCategories } from "@/data/equipmentCategories";
+import topData from "@/data/top-this-week.json";
 
 const posts = await getCollection("blog");
 const sortedPosts = getSortedPosts(posts);
 const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
 const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
 
+// Most popular this week — auto-fed by scripts/weekly-traffic-report.py
+// which writes src/data/top-this-week.json from GA4 every Monday 7am.
+// The homepage re-renders on the next commit cycle so the list stays
+// fresh without manual touch.
+const _bySlug = new Map(posts.map(p => [p.id.replace(/\.md$/, ""), p]));
+const topThisWeek = (topData.articles || [])
+  .map(a => {
+    const post = _bySlug.get(a.slug);
+    return post ? { path: a.path, title: post.data.title } : null;
+  })
+  .filter(Boolean)
+  .slice(0, 6) as Array<{ path: string; title: string }>;
+
 // Equipment categories pulled from the shared data file so the homepage,
 // the /equipment/ index, and each /equipment/[slug]/ hub stay in sync.
-import { equipmentCategories } from "@/data/equipmentCategories";
 const categories = equipmentCategories.map(c => ({
   name: c.name,
   emoji: c.emoji,
   slug: c.slug,
   desc: c.tagline,
 }));
-
-// Most popular this week — auto-fed by scripts/weekly-traffic-report.py
-// which writes src/data/top-this-week.json from GA4 every Monday 7am.
-// Static import (not await import) — dynamic JSON import was crashing the
-// vite/esbuild CSS pipeline with "Unexpected {" on the .astro file itself.
-import topThisWeekData from "@/data/top-this-week.json";
-const bySlug = new Map(posts.map(p => [p.id.replace(/\.md$/, ""), p]));
-const topThisWeek = (topThisWeekData.articles ?? [])
-  .map(a => {
-    const post = bySlug.get(a.slug);
-    return post
-      ? { slug: a.slug, path: a.path, pageviews: a.pageviews, title: post.data.title }
-      : null;
-  })
-  .filter((x): x is { slug: string; path: string; pageviews: number; title: string } => x !== null)
-  .slice(0, 6);
 ---
 
 <Layout>
