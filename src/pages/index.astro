@@ -41,12 +41,33 @@ const categories = equipmentCategories.map(c => ({
       </div>
 
       <h1 class="my-3 text-3xl font-bold sm:text-4xl leading-tight">
-        Industrial Error Code Fixes
+        The Industrial Error Code Library
       </h1>
       <p class="text-lg text-foreground/80 max-w-xl">
-        Fast troubleshooting guides for HVAC, CNC, refrigeration and commercial equipment.
-        Find your error code — get the fix and the part.
+        Technician-written diagnostic guides for HVAC, CNC, VFD, refrigeration,
+        boilers, and commercial equipment. Real OEM part numbers, voltage and
+        resistance ranges, step-by-step fix trees. No paywall, no email gate.
       </p>
+
+      <!-- Authority bar: the actual numbers behind our coverage claim. -->
+      <div class="mt-5 flex flex-wrap gap-x-6 gap-y-2 text-sm">
+        <div class="flex items-baseline gap-1.5">
+          <span class="font-bold text-accent text-xl tabular-nums">{sortedPosts.length.toLocaleString()}+</span>
+          <span class="text-foreground/70">fix guides</span>
+        </div>
+        <div class="flex items-baseline gap-1.5">
+          <span class="font-bold text-accent text-xl tabular-nums">30+</span>
+          <span class="text-foreground/70">manufacturers</span>
+        </div>
+        <div class="flex items-baseline gap-1.5">
+          <span class="font-bold text-accent text-xl tabular-nums">6</span>
+          <span class="text-foreground/70">equipment categories</span>
+        </div>
+        <div class="flex items-baseline gap-1.5">
+          <span class="font-bold text-accent text-xl">Free</span>
+          <span class="text-foreground/70">forever</span>
+        </div>
+      </div>
 
       <!-- Real Pagefind search above the fold. Users arrive knowing the
            code they're trying to fix — this is one click instead of two. -->
