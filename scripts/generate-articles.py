@@ -271,7 +271,13 @@ def assemble_md(topic: str, c: dict, slug: str) -> str:
     cat = c.get("equipment_category", "other")
     brand = c.get("brand_slug", "").strip()
     tags = [t for t in [cat if cat != "other" else None, brand or None] if t]
-    now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    # Backdate pubDatetime by 2 days. postFilter.ts drops posts whose pubDatetime
+    # is in the future; this host has a clock/timezone skew, so a "now" stamp can
+    # look future-dated at build and get filtered out. 48h past is bulletproof and
+    # still recent enough for freshness signals.
+    from datetime import timedelta
+    pub = (datetime.now(timezone.utc) - timedelta(days=2)).strftime("%Y-%m-%dT%H:%M:%SZ")
+    now = pub
 
     def amazon(name: str) -> str:
         import urllib.parse

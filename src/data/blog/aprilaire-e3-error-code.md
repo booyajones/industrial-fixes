@@ -1,8 +1,8 @@
 ---
 title: "Aprilaire E3 Error Code - Causes & Fix"
 description: "Aprilaire E3 means either missing dehumidifier wall-control communication or outdoor sensor failure on humidifiers. Diagnose and fix both."
-pubDatetime: 2026-05-26T22:34:38Z
-modDatetime: 2026-05-26T22:34:38Z
+pubDatetime: 2026-05-24T22:40:47Z
+modDatetime: 2026-05-24T22:40:47Z
 author: "Dana Kowalski"
 featured: false
 draft: false
