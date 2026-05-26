@@ -55,3 +55,9 @@ CH38 with a compressor or refrigerant root cause requires certified refrigerant 
 <!-- INTERNAL-LINK-AUTO -->
 **Related:** [LG washer error codes (complete guide)](/posts/lg-washer-error-codes/)
 
+## See Also
+
+- [LG Mini-Split CH34 Error Code — Causes & Fix](/posts/lg-mini-split-ch34-error-code/)
+- [LG Mini-Split CH67 Error Code — Causes & Fix](/posts/lg-mini-split-ch67-error-code/)
+- [LG Dishwasher Error IE — Water Inlet Fix](/posts/lg-dishwasher-error-ie/)
+- [LG Washer Error Code 31 — Pressure Sensor / Suspension Fault Fix](/posts/lg-washer-error-code-31/)

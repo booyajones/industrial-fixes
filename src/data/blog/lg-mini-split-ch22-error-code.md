@@ -140,3 +140,9 @@ If diagnosis points to the control board (no motor output voltage despite health
 <!-- INTERNAL-LINK-AUTO -->
 **Related:** [LG washer error code 31 (pressure / suspension fault)](/posts/lg-washer-error-code-31/)
 
+## See Also
+
+- [LG Refrigerator Error ER RF — Evap Fan Motor Fix](/posts/lg-refrigerator-error-er-rf/)
+- [LG Mini Split CH01 Error Code — Causes & Fix](/posts/lg-mini-split-ch01-error-code/)
+- [LG Washer Error Codes — Complete Fix Guide](/posts/lg-washer-error-codes/)
+- [LG Mini Split CH02 Error Code — Causes & Fix](/posts/lg-mini-split-ch02-error-code/)

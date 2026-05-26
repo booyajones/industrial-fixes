@@ -55,3 +55,9 @@ CH34 involving inverter or compressor failure requires a certified LG technician
 <!-- INTERNAL-LINK-AUTO -->
 **Related:** [LG washer error codes (complete guide)](/posts/lg-washer-error-codes/)
 
+## See Also
+
+- [LG Mini Split Error Codes — All CH Codes Explained](/posts/lg-mini-split-error-codes/)
+- [LG Mini Split CH10 Error Code — Causes & Fix](/posts/lg-mini-split-ch10-error-code/)
+- [LG Mini-Split CH38 Error Code — Causes & Fix](/posts/lg-mini-split-ch38-error-code/)
+- [LG Mini-Split CH05 Error Code — Causes & Fix](/posts/lg-mini-split-ch05-error-code/)

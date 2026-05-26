@@ -70,3 +70,9 @@ Gas pressure diagnosis requires a licensed gas technician with a manometer. Comb
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
 **Related:** [Rinnai code 11 no-ignition fix](/posts/rinnai-error-code-11/)
 
+## See Also
+
+- [Navien Error Code E007 — Causes & Fix](/posts/navien-error-code-e007/)
+- [Navien NPE-A 016 — Overheat Lockout Fix](/posts/navien-water-heater-error-code-016/)
+- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
+- [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)

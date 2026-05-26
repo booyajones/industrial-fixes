@@ -50,3 +50,10 @@ Board replacement on a Carrier furnace is straightforward for an experienced tec
 - [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
 - [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
 - [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
+
+## See Also
+
+- [Carrier Greenspeed Heat Pump Error Codes: Complete Guide](/posts/carrier-greenspeed-heat-pump-codes/)
+- [Carrier Error Code 66 — Pressure Switch Fault](/posts/carrier-66-error-code/)
+- [Carrier 46 Error Code — Check IFC: Board Self-Diagnosis Fault](/posts/carrier-46-error-code/)
+- [Carrier Chiller Fault Codes — Complete Troubleshooting Guide](/posts/carrier-chiller-fault-codes/)

@@ -129,3 +129,9 @@ Possible early-stage low charge. The 6-flash threshold has some hysteresis built
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
 **Related:** [Scotsman 1-flash bin full fix](/posts/scotsman-1-flash-code/)
 
+## See Also
+
+- [Scotsman Ice Machine Error Code 4 — Causes & Fix](/posts/scotsman-ice-machine-error-code-4/)
+- [Scotsman HID312 Error Codes — Fault Code Diagnostic Guide](/posts/scotsman-hid312-error-codes/)
+- [Scotsman 2-Flash Code — Long Freeze Cycle Fix](/posts/scotsman-2-flash-code/)
+- [Scotsman Prodigy Plus Error Codes - What It Means and How to Fix It](/posts/scotsman-prodigy-plus-error-codes/)

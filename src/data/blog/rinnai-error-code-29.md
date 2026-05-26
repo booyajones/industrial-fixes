@@ -123,3 +123,9 @@ Additionally, if Code 29 appeared after a lightning strike or power surge, have 
 <!-- INTERNAL-LINK-AUTO -->
 **Related:** [Rheem Performance Platinum PDN tankless error codes](/posts/rheem-performance-platinum-pdn-error-codes/)
 
+## See Also
+
+- [Rinnai Error Code 65 — Water Flow Rate Fault](/posts/rinnai-error-code-65/)
+- [Rinnai RUR Series Error Codes — Tankless Water Heater Fault Guide](/posts/rinnai-rur-error-codes/)
+- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)
+- [Rinnai RU130iN Tankless Water Heater Error Codes - Full Fault Guide](/posts/rinnai-ru130in-error-codes/)

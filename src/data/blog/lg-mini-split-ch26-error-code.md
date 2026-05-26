@@ -90,3 +90,9 @@ The CT (current transformer) sensor is a small toroidal coil that clamps around 
 <!-- INTERNAL-LINK-AUTO -->
 **Related:** [LG washer error codes (complete guide)](/posts/lg-washer-error-codes/)
 
+## See Also
+
+- [LG Mini Split CH02 Error Code — Causes & Fix](/posts/lg-mini-split-ch02-error-code/)
+- [LG Mini Split CH10 Error Code — Causes & Fix](/posts/lg-mini-split-ch10-error-code/)
+- [LG Mini Split Error Codes — All CH Codes Explained](/posts/lg-mini-split-error-codes/)
+- [LG Washer Error LE — Motor Lock / Stator Fix](/posts/lg-washer-error-le/)

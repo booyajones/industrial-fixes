@@ -50,3 +50,10 @@ Gas supply capacity testing and burner combustion analysis require a licensed ga
 - [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
 - [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)
 - [Rinnai Error Code 16 — Causes & Fix](/posts/rinnai-error-code-16/)
+
+## See Also
+
+- [Rinnai Error Code 65 — Water Flow Rate Fault](/posts/rinnai-error-code-65/)
+- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)
+- [Rinnai Error Code 32 — Causes & Fix](/posts/rinnai-error-code-32/)
+- [Rinnai I120CN Tankless Water Heater Error Codes: Complete Guide](/posts/rinnai-i120cn-error-codes/)

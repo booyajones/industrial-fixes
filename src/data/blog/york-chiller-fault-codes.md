@@ -563,3 +563,10 @@ Find replacement parts for York chillers on Amazon:
 - [York Chiller Parts & Controls](https://www.amazon.com/s?ascsubtag=ecf-york-chiller-fault-codes&k=York+chiller+parts&tag=errorcodefixes-20)
 - [York HVAC Pressure Transducer & Sensor](https://www.amazon.com/s?ascsubtag=ecf-york-chiller-fault-codes&k=York+HVAC+pressure+transducer+sensor&tag=errorcodefixes-20)
 - [York OptiView Control Panel Components](https://www.amazon.com/s?ascsubtag=ecf-york-chiller-fault-codes&k=York+chiller+control+panel+parts&tag=errorcodefixes-20)
+
+## See Also
+
+- [York TG9 Furnace Error Codes — Fault Code Diagnostic Guide](/posts/york-tg9-furnace-error-codes/)
+- [York 2 Flashes Error Code — Causes & Fix](/posts/york-2-flashes-error-code/)
+- [York 2-Blink Error Code — Pressure Switch Stuck Open Fix](/posts/york-error-code-2/)
+- [York Furnace Error Code E5 — High Limit Tripped](/posts/york-furnace-error-code-e5/)

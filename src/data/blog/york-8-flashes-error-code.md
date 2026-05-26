@@ -53,3 +53,10 @@ If the furnace continues to lock out after replacing the igniter and cleaning th
 - [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
 - [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
 - [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
+
+## See Also
+
+- [York YCD Packaged Unit Error Codes — Fault Code Diagnostic Guide](/posts/york-ycd-error-codes/)
+- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
+- [York Furnace Error Codes — Complete Guide](/posts/york-furnace-error-codes/)
+- [York YG2C Furnace Error Codes — Flash Code Diagnostic Guide](/posts/york-yg2c-error-codes/)

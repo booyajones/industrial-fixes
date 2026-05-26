@@ -102,3 +102,9 @@ LG mini-splits allow 3 high-pressure trips before hard lockout:
 <!-- INTERNAL-LINK-AUTO -->
 **Related:** [LG washer error code 31 (pressure / suspension fault)](/posts/lg-washer-error-code-31/)
 
+## See Also
+
+- [LG Mini-Split CH22 Error Code — Indoor Fan Motor Fix](/posts/lg-mini-split-ch22-error-code/)
+- [LG Mini Split Error Codes — All CH Codes Explained](/posts/lg-mini-split-error-codes/)
+- [LG Mini-Split CH26 Error Code — CT Sensor Fault](/posts/lg-mini-split-ch26-error-code/)
+- [LG Mini-Split CH38 Error Code — Causes & Fix](/posts/lg-mini-split-ch38-error-code/)

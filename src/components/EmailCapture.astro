@@ -41,12 +41,10 @@ const headline =
     </div>
     <form
       class="email-capture-form"
-      action="https://app.beehiiv.com/subscribe"
+      action="/api/subscribe"
       method="POST"
-      target="_blank"
       data-ecf-capture
     >
-      <input type="hidden" name="publication_id" value="2e4c7f50-b3b2-4415-876b-9c15d2400da9" />
       <input type="hidden" name="ecf_cat" value={cat.slug} />
       <input
         type="email"
@@ -61,10 +59,11 @@ const headline =
 </div>
 
 <script is:inline>
-  // Progressive enhancement: keep the standard POST-to-beehiiv as a no-JS
-  // fallback (target="_blank"), but when JS is available redirect the user
-  // to /thanks/ immediately so they get the PDF without bouncing through
-  // the beehiiv hosted page.
+  // Progressive enhancement: the plain form POSTs to /api/subscribe (a
+  // Cloudflare Pages Function that adds the email to our Resend audience and
+  // 303-redirects to /thanks/) as a no-JS fallback. When JS is available we
+  // submit via fetch so the page never reloads, fire the GA4 lead event, then
+  // route to the thank-you page.
   (function () {
     function bind() {
       document.querySelectorAll('form[data-ecf-capture]').forEach(function (form) {
@@ -74,21 +73,19 @@ const headline =
           var input = form.querySelector('input[type=email]');
           if (!input || !input.value) return; // let HTML validation handle empty
           e.preventDefault();
-          // Fire-and-forget POST to beehiiv via a hidden iframe so the user's
-          // tab never navigates away. Then redirect to the thanks page.
-          var iframe = document.createElement('iframe');
-          iframe.name = 'ecf-bee-target-' + Date.now();
-          iframe.style.display = 'none';
-          document.body.appendChild(iframe);
-          form.target = iframe.name;
-          form.submit();
           var catEl = form.querySelector('input[name=ecf_cat]');
           var cat = catEl ? catEl.value : 'industrial';
-          if (typeof gtag === 'function') {
-            gtag('event', 'lead_signup', { method: 'email_capture', category: cat });
-          }
-          var redirect = '/thanks/' + (cat && cat !== 'industrial' ? '?cat=' + encodeURIComponent(cat) : '');
-          setTimeout(function () { window.location.href = redirect; }, 250);
+          fetch('/api/subscribe', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+            body: JSON.stringify({ email: input.value, ecf_cat: cat }),
+          }).catch(function () {}).finally(function () {
+            if (typeof gtag === 'function') {
+              gtag('event', 'lead_signup', { method: 'email_capture', category: cat });
+            }
+            var redirect = '/thanks/' + (cat && cat !== 'industrial' ? '?cat=' + encodeURIComponent(cat) : '');
+            window.location.href = redirect;
+          });
         });
       });
     }

@@ -50,3 +50,10 @@ If the thermal fuse opens again within a short period after replacement, the com
 - [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
 - [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
 - [Rinnai Error Code 16 — Causes & Fix](/posts/rinnai-error-code-16/)
+
+## See Also
+
+- [Rinnai Error Code 65 — Water Flow Rate Fault](/posts/rinnai-error-code-65/)
+- [Rinnai RUR Series Error Codes — Tankless Water Heater Fault Guide](/posts/rinnai-rur-error-codes/)
+- [Rinnai I120CN Tankless Water Heater Error Codes: Complete Guide](/posts/rinnai-i120cn-error-codes/)
+- [Rinnai Error Code 33 — Causes & Fix](/posts/rinnai-error-code-33/)

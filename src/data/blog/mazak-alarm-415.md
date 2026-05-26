@@ -132,3 +132,9 @@ Call when: drive sub-code points to internal encoder failure (1x family) on an I
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
 **Related:** [Best 4-20mA loop calibrator](/posts/best-loop-calibrator-for-vfd-techs/)
 
+## See Also
+
+- [Mazak Alarm 50 Servo — Causes & Fix](/posts/mazak-alarm-50-servo/)
+- [Mazak Matrix Alarm 1041 — Battery Voltage Drop / Encoder Battery Fix](/posts/mazak-alarm-1041/)
+- [Mazak Alarm 400 Servo Error — Causes & Fix](/posts/mazak-alarm-400-servo/)
+- [Mazak Nexus Series Error Codes: Complete Guide](/posts/mazak-nexus-error-codes/)

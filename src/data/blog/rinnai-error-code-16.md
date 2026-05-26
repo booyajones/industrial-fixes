@@ -50,3 +50,10 @@ Gas appliance fan replacement involves working inside the combustion enclosure. 
 - [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
 - [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
 - [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)
+
+## See Also
+
+- [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
+- [Rinnai Tankless Water Heater Error Codes — Complete Guide](/posts/rinnai-error-codes/)
+- [Rinnai Error Code 33 — Causes & Fix](/posts/rinnai-error-code-33/)
+- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)

@@ -145,3 +145,10 @@ A: Code 16 as a non-shutdown alert (some firmware revisions log it as informatio
 
 **Q: My RTGH-95DVLN is brand new and shows code 03 on first start. Is it defective?**
 A: Code 03 means the water flow rate is below the minimum threshold required to fire (typically 0.75 GPM). This often happens on new installations where the service technician is testing the unit with a partially opened tap, or where a pressure-reducing valve was set too low. Open a hot water tap fully and confirm flow, the code should clear and the unit should fire. If it still won't fire at full open-tap flow, check that both isolation valves on the cold inlet and hot outlet are fully open.
+
+## See Also
+
+- [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)
+- [Rheem Furnace 6 Flashes — Rollout Switch Open Fix](/posts/rheem-furnace-6-flashes/)
+- [Rheem RTEX Electric Tankless Water Heater Error Codes](/posts/rheem-rtex-electric-tankless-error-codes/)
+- [Rheem RA14 Heat Pump Error Codes - What It Means and How to Fix It](/posts/rheem-ra14-heat-pump-error-codes/)

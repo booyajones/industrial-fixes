@@ -41,3 +41,10 @@ Alarm AL 29 on the Danfoss FC302 (VLT AutomationDrive) indicates heat sink overt
 ## When to Call a Pro
 
 If the drive trips AL 29 immediately after restart with clean fins and correct ambient, the thermal sensor or IGBT module may have failed. Danfoss authorized service handles internal component replacement.
+
+## See Also
+
+- [Danfoss VFD Fault OL — Causes & Fix](/posts/danfoss-vfd-fault-ol/)
+- [Danfoss VFD Fault W30 — Brake Resistor Overtemperature Fix](/posts/danfoss-vfd-fault-w30/)
+- [Danfoss VFD Fault OCL — Causes & Fix](/posts/danfoss-vfd-fault-ocl/)
+- [Danfoss FC302 Complete Fault Code Guide — All Faults and Fixes](/posts/danfoss-fc302-complete-guide/)

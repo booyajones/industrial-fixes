@@ -51,3 +51,10 @@ Refrigerant system diagnosis and repair on commercial ice machines requires EPA 
 - [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)
 - [Hoshizaki E2 Error Code — Harvest Fault Fix](/posts/hoshizaki-e2-error-code/)
 - [Hoshizaki E3 Error Code — Causes & Fix](/posts/hoshizaki-e3-error-code/)
+
+## See Also
+
+- [Hoshizaki Ice Machine E8 Error Code — Causes & Fix](/posts/hoshizaki-e8-error-code/)
+- [Hoshizaki Ice Machine E7 Error Code — High-Side Pressure Switch Fault Fix](/posts/hoshizaki-e7-pressure-switch/)
+- [Hoshizaki KM Series E1 Error Code — Causes & Fix](/posts/hoshizaki-km-series-e1-error/)
+- [Hoshizaki Ice Machine E8 Error Code — Low-Side Pressure Switch Fault Fix](/posts/hoshizaki-e8-low-side-pressure/)

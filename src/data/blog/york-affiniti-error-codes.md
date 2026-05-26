@@ -62,3 +62,10 @@ R-410A high-side must stay below 590 psi. Wash condenser coil, check condenser f
 - [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
 - [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
 - [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
+
+## See Also
+
+- [York 8 Flashes Error Code — Causes & Fix](/posts/york-8-flashes-error-code/)
+- [York Affinity Error Codes - What It Means and How to Fix It](/posts/york-affinity-error-codes/)
+- [York Furnace Error Codes — Complete Guide](/posts/york-furnace-error-codes/)
+- [York 7 Flashes Error Code — Ignition Lockout Fix](/posts/york-7-flashes-error-code/)

@@ -51,3 +51,10 @@ Mazak servo system repair — especially on Smooth-series machines — requires 
 - [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
 - [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
 - [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+
+## See Also
+
+- [Mazak Alarm 1 Servo Alarm — Causes & Fix](/posts/mazak-alarm-1-servo/)
+- [Mazak Matrix Alarm 1041 — Battery Voltage Drop / Encoder Battery Fix](/posts/mazak-alarm-1041/)
+- [Mazak Alarm 800 — Tool Magazine Fault](/posts/mazak-alarm-800-atc/)
+- [Mazak CNC Alarm Codes — Common Faults and Fixes](/posts/mazak-alarm-codes/)

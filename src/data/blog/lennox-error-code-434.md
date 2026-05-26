@@ -54,3 +54,10 @@ If you've confirmed communication wiring, fuse, and 24VAC but the outdoor unit s
 - [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
 - [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
 - [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
+
+## See Also
+
+- [Lennox Error Code 332 — Causes & Fix](/posts/lennox-error-code-332/)
+- [Lennox Furnace Error Codes — Complete Reference Guide](/posts/lennox-furnace-error-codes/)
+- [Lennox SLP98V Error Codes — Variable-Speed Furnace Fault Guide](/posts/lennox-slp98v-error-codes/)
+- [Lennox Error Code 412 — Limit Switch Fault Fix](/posts/lennox-error-code-412/)

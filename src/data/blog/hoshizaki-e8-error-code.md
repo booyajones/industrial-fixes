@@ -50,3 +50,10 @@ E8 from low refrigerant is a certified-technician job. EPA Section 608 certifica
 - [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)
 - [Hoshizaki E2 Error Code — Harvest Fault Fix](/posts/hoshizaki-e2-error-code/)
 - [Hoshizaki E3 Error Code — Causes & Fix](/posts/hoshizaki-e3-error-code/)
+
+## See Also
+
+- [Hoshizaki KM Series E1 Error Code — Causes & Fix](/posts/hoshizaki-km-series-e1-error/)
+- [Hoshizaki vs Manitowoc Ice Machines — A Commercial Tech's Honest Comparison (2026)](/posts/hoshizaki-vs-manitowoc-ice-machines/)
+- [Hoshizaki DKM-500 Cube Dispenser Error Codes — Fault Code Diagnostic Guide](/posts/hoshizaki-dkm-500-error-codes/)
+- [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)

@@ -68,3 +68,9 @@ If alarm 105 appears with all E-stop buttons confirmed released and no external 
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
 **Related:** [Haas alarm 114 servo error too large](/posts/haas-alarm-114/)
 
+## See Also
+
+- [Haas Alarm 122 — ATC Chain Fault](/posts/haas-alarm-122/)
+- [Haas Alarm 113 — Spindle Encoder Fault Causes & Fix](/posts/haas-alarm-113/)
+- [Haas CNC Alarm Codes — Complete Guide (100-Series and Up)](/posts/haas-alarm-codes/)
+- [Haas Alarm 121 — ATC Arm Fault](/posts/haas-alarm-121/)

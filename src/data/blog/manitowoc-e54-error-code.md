@@ -102,3 +102,10 @@ The switch element itself is a fairly common reed component, but the assembly is
 - [Manitowoc E02 Error Code — Long Harvest Cycle Fix](/manitowoc-e02-error-code)
 - [Manitowoc E03 Error Code — Probe / Thermistor Open Fix](/manitowoc-e03-error-code)
 - [Manitowoc E01 Error Code — Long Freeze Cycle Fix](/manitowoc-e01-error-code)
+
+## See Also
+
+- [Manitowoc IYT-0450 Error Codes — Fault Code Diagnostic Guide](/posts/manitowoc-iyt-0450-error-codes/)
+- [Manitowoc ID-0322 Error Codes — Fix Guide](/posts/manitowoc-id-0322-error-codes/)
+- [Manitowoc E01 Error Code — Long Freeze Cycle Fix](/posts/manitowoc-e01-error-code/)
+- [Manitowoc Indigo NXT Error Code 8 - What It Means and How to Fix It](/posts/manitowoc-indigo-nxt-error-code-8/)

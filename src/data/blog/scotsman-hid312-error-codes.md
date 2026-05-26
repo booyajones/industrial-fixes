@@ -73,3 +73,10 @@ Scotsman's SmartBoard can be interfaced with the Scotsman Remote Monitoring syst
 - [Scotsman Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/scotsman-ice-machine-complete-guide/)
 - [Scotsman Ice Machine Error Code 1 — High Pressure Cutout Fix](/posts/scotsman-ice-machine-error-code-1/)
 - [Scotsman Ice Machine Error Code 2 — Causes & Fix](/posts/scotsman-ice-machine-error-code-2/)
+
+## See Also
+
+- [Scotsman C0522 Error Codes — Fix Guide](/posts/scotsman-c0522-error-codes/)
+- [Scotsman 2-Flash Code — Long Freeze Cycle Fix](/posts/scotsman-2-flash-code/)
+- [Scotsman Ice Machine Error Code 2 — Causes & Fix](/posts/scotsman-ice-machine-error-code-2/)
+- [Scotsman Ice Machine Error Code 8 — Causes & Fix](/posts/scotsman-ice-machine-error-code-8/)
