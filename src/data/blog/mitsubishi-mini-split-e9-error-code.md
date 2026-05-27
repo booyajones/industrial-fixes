@@ -50,3 +50,10 @@ If E9 persists after thermistor replacement and all connectors test clean, the o
 - [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
 - [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
 - [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)
+
+## See Also
+
+- [Mitsubishi P7 Error Code — System Mode Mismatch Fix](/posts/mitsubishi-p7-error-code/)
+- [Mitsubishi FR Series VFD Fault E6 — Causes & Fix](/posts/mitsubishi-fr-series-fault-e6/)
+- [Mitsubishi Mini-Split U0 Error Code — Refrigerant Shortage Fix](/posts/mitsubishi-mini-split-u0-error-code/)
+- [Mitsubishi Mini Split E9 Error Code — Outdoor Thermistor 2 Fault Fix](/posts/mitsubishi-mini-split-e9-error/)

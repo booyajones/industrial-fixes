@@ -98,3 +98,10 @@ Check refrigerant charge with gauges. Inspect evaporator coil for ice formation.
 - [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
 - [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
 - [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
+
+## See Also
+
+- [Lennox iComfort Error Code 225 — Communication Fault Fix Guide](/posts/lennox-icomfort-error-code-225/)
+- [Lennox Error Code 412 — Limit Switch Fault Fix](/posts/lennox-error-code-412/)
+- [Lennox Error Code 434 — Outdoor Unit Communication Fault](/posts/lennox-error-code-434/)
+- [Lennox Error Code 411 — Ignition Proving Fault Fix](/posts/lennox-error-code-411/)

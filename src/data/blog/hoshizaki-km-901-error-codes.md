@@ -168,3 +168,10 @@ Yes, as long as it's nickel-safe. Hoshizaki's evaporators are nickel-plated, and
 - [Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix](/posts/hoshizaki-e1-error-code/)
 - [Hoshizaki E2 Error Code — Harvest Fault Fix](/posts/hoshizaki-e2-error-code/)
 - [Hoshizaki E3 Error Code — Causes & Fix](/posts/hoshizaki-e3-error-code/)
+
+## See Also
+
+- [Hoshizaki Ice Machine E9 Error Code — Compressor Overload Fault Fix](/posts/hoshizaki-e9-error-compressor/)
+- [Hoshizaki E2 Error Code — Harvest Fault Fix](/posts/hoshizaki-e2-error-code/)
+- [Hoshizaki KM Series E1 Error Code — Causes & Fix](/posts/hoshizaki-km-series-e1-error/)
+- [Hoshizaki Ice Machine E7 Error Code — High-Side Pressure Switch Fault Fix](/posts/hoshizaki-e7-pressure-switch/)

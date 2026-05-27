@@ -102,3 +102,10 @@ A: Yes, but you will lose iQ Drive communicating features, including variable-sp
 
 **Q: My York YXV runs fine in cooling but throws a Fault 4-1 every time it tries to defrost in heating mode. How do I diagnose this?**
 A: Fault 4-1 during defrost means the cycle starts but doesn't complete. The most likely cause is a faulty defrost termination sensor , the sensor that tells the board the coil is clear of ice. Replace the outdoor coil temperature sensor first. Second cause is low refrigerant charge reducing the system's ability to generate enough heat to melt ice within the defrost window.
+
+## See Also
+
+- [York Rooftop Unit Error Codes: Technician Guide](/posts/york-rooftop-unit-error-codes/)
+- [York Furnace E4 Error Code — Ignition Failure](/posts/york-furnace-error-code-e4/)
+- [York 1-Blink Error Code — Pressure Switch Stuck Closed Fix](/posts/york-error-code-1/)
+- [York Affinity Error Codes - What It Means and How to Fix It](/posts/york-affinity-error-codes/)

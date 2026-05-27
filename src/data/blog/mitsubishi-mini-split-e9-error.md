@@ -61,3 +61,10 @@ If the thermistor and wiring both test good and E9 persists after connector clea
 - [Mitsubishi Mini Split P8 Error Code — Drain Pan / Float Switch Fix](/posts/mitsubishi-mini-split-p8-error/)
 - [Mitsubishi Mini Split U4 Error Code — Outdoor Communication Fault Fix](/posts/mitsubishi-mini-split-u4-error-code/)
 - [Mitsubishi Mini Split Error Codes — Complete Fault Code Guide](/posts/mitsubishi-mini-split-error-codes/)
+
+## See Also
+
+- [Mitsubishi vs Daikin Mini-Splits — A Service Tech's Honest Comparison (2026)](/posts/mitsubishi-vs-daikin-mini-splits/)
+- [Mitsubishi FR-A800 Fault E.OC1, Overcurrent During Acceleration Fix](/posts/mitsubishi-fr-a800-fault-eoc1/)
+- [Mitsubishi E3 Error Code — Indoor Fan Motor Fault Fix](/posts/mitsubishi-e3-error-code/)
+- [Mitsubishi P-Series H6 — Outdoor Fan Motor Fix](/posts/mitsubishi-heat-pump-error-code-h6/)

@@ -148,3 +148,10 @@ The SL297NV achieves up to 97.5% AFUE in two-stage operation. Frequent fault res
 
 **The rollout switch tripped once. Can I just reset it and keep going?**
 No. A rollout switch trip is a serious indicator of either a blocked flue, failed inducer, or a cracked heat exchanger. Any of these can result in carbon monoxide intrusion. Reset only after a thorough visual inspection, and if the cause is not obvious, call a technician before running the furnace again.
+
+## See Also
+
+- [Lennox Error Code 224 — HSI Relay Failure Fix](/posts/lennox-error-code-224/)
+- [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
+- [Lennox XP21 Heat Pump Error Codes — iComfort Fault Code Guide](/posts/lennox-xp21-error-codes/)
+- [Lennox ResolvePlus Rooftop Unit Error Codes: Complete Guide](/posts/lennox-resolve-plus-error-codes/)

@@ -133,3 +133,10 @@ Any fault involving the gas valve (code 21) or a hard lockout on ignition (code 
 - [Lennox Elite Series Furnace Error Codes — Fault Code Diagnostic Guide](/posts/lennox-elite-series-furnace-codes/)
 - [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
 - [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
+
+## See Also
+
+- [Lennox iComfort Error Code 225 — Communication Fault Fix Guide](/posts/lennox-icomfort-error-code-225/)
+- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)
+- [Lennox Error Code 540 — Communicating System Fault (Detailed Guide)](/posts/lennox-error-code-540-communicating/)
+- [Lennox XP20 Heat Pump Error Codes - Full iComfort Fault Reference](/posts/lennox-xp20-heat-pump-error-codes/)

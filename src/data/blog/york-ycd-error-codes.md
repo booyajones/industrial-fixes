@@ -73,3 +73,10 @@ York YCD packaged units are commercial equipment requiring HVAC-R licensed techn
 - [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
 - [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
 - [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
+
+## See Also
+
+- [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
+- [York Furnace E4 Error Code — Ignition Failure](/posts/york-furnace-error-code-e4/)
+- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
+- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)

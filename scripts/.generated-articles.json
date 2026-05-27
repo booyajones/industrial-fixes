@@ -71,6 +71,106 @@
     "carrier-error-code-29": {
       "topic": "carrier error code 29",
       "date": "2026-05-27"
+    },
+    "carrier-error-code-30": {
+      "topic": "carrier error code 30",
+      "date": "2026-05-27"
+    },
+    "carrier-heat-pump-e2-error-code": {
+      "topic": "carrier heat pump e2 error code",
+      "date": "2026-05-27"
+    },
+    "carrier-heat-pump-e3-error-code": {
+      "topic": "carrier heat pump e3 error code",
+      "date": "2026-05-27"
+    },
+    "daikin-e2-error-code": {
+      "topic": "daikin e2 error code",
+      "date": "2026-05-27"
+    },
+    "daikin-e4-error-code": {
+      "topic": "daikin e4 error code",
+      "date": "2026-05-27"
+    },
+    "daikin-e5-error-code": {
+      "topic": "daikin e5 error code",
+      "date": "2026-05-27"
+    },
+    "daikin-e6-error-code": {
+      "topic": "daikin e6 error code",
+      "date": "2026-05-27"
+    },
+    "daikin-e8-error-code": {
+      "topic": "daikin e8 error code",
+      "date": "2026-05-27"
+    },
+    "daikin-u3-error-code": {
+      "topic": "daikin u3 error code",
+      "date": "2026-05-27"
+    },
+    "daikin-u5-error-code": {
+      "topic": "daikin u5 error code",
+      "date": "2026-05-27"
+    },
+    "daikin-u6-error-code": {
+      "topic": "daikin u6 error code",
+      "date": "2026-05-27"
+    },
+    "daikin-u7-error-code": {
+      "topic": "daikin u7 error code",
+      "date": "2026-05-27"
+    },
+    "daikin-u8-error-code": {
+      "topic": "daikin u8 error code",
+      "date": "2026-05-27"
+    },
+    "ecosmart-eco19-error-codes": {
+      "topic": "ecosmart eco19 error codes",
+      "date": "2026-05-27"
+    },
+    "ecosmart-eco20-error-codes": {
+      "topic": "ecosmart eco20 error codes",
+      "date": "2026-05-27"
+    },
+    "ecosmart-eco21-error-codes": {
+      "topic": "ecosmart eco21 error codes",
+      "date": "2026-05-27"
+    },
+    "ecosmart-eco22-error-codes": {
+      "topic": "ecosmart eco22 error codes",
+      "date": "2026-05-27"
+    },
+    "ecosmart-eco23-error-codes": {
+      "topic": "ecosmart eco23 error codes",
+      "date": "2026-05-27"
+    },
+    "ecosmart-eco24-error-codes": {
+      "topic": "ecosmart eco24 error codes",
+      "date": "2026-05-27"
+    },
+    "ecosmart-eco25-error-codes": {
+      "topic": "ecosmart eco25 error codes",
+      "date": "2026-05-27"
+    },
+    "ecosmart-eco26-error-codes": {
+      "topic": "ecosmart eco26 error codes",
+      "date": "2026-05-27"
+    },
+    "ecosmart-eco28-error-codes": {
+      "topic": "ecosmart eco28 error codes",
+      "date": "2026-05-27"
+    },
+    "ecosmart-eco29-error-codes": {
+      "topic": "ecosmart eco29 error codes",
+      "date": "2026-05-27"
+    },
+    "ecosmart-eco30-error-codes": {
+      "topic": "ecosmart eco30 error codes",
+      "date": "2026-05-27"
+    },
+    "ecosmart-eco31-error-codes": {
+      "topic": "ecosmart eco31 error codes",
+      "date": "2026-05-27"
     }
   }
 }

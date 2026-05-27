@@ -94,3 +94,10 @@ Temperature sensors on York YSC units have a nominal resistance of 10K ohms at 7
 - [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
 - [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
 - [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
+
+## See Also
+
+- [York YXV Heat Pump Error Codes - Fault Code Reference](/posts/york-yxv-heat-pump-error-codes/)
+- [York Affinity Series Packaged Unit Error Codes: Complete Guide](/posts/york-affiniti-error-codes/)
+- [York 2 Flashes Error Code — Causes & Fix](/posts/york-2-flashes-error-code/)
+- [York 3 Flashes Error Code — Causes & Fix](/posts/york-3-flashes-error-code/)

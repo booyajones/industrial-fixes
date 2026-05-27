@@ -56,3 +56,10 @@ If clearing the condensate trap and inspecting the hose don't resolve code 66, a
 - [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
 - [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
 - [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
+
+## See Also
+
+- [Carrier Error Code 28 - Causes & Fix](/posts/carrier-error-code-28/)
+- [Carrier Infinity Error 178 - What It Means and How to Fix It](/posts/carrier-infinity-error-178/)
+- [Carrier Infinity System Communication Error 168 — Wiring & Board Fix](/posts/carrier-infinity-error-168/)
+- [Carrier 42 Error Code — Causes & Fix](/posts/carrier-42-error-code/)

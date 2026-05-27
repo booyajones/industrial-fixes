@@ -72,3 +72,10 @@ The York TG9 ECM motor and variable-speed control logic require familiarity with
 - [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
 - [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
 - [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
+
+## See Also
+
+- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
+- [York 3 Flashes Error Code — Causes & Fix](/posts/york-3-flashes-error-code/)
+- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
+- [York Rooftop Unit Error Codes: Technician Guide](/posts/york-rooftop-unit-error-codes/)

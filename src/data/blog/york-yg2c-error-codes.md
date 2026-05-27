@@ -76,3 +76,10 @@ The YG2C's two-stage gas valve and variable-speed ECM blower are complex enough 
 - [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
 - [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
 - [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
+
+## See Also
+
+- [York YZV Heat Pump Error Codes - Variable Speed Fault Diagnostics](/posts/york-yzv-heat-pump-error-codes/)
+- [York Mini Split Error Code E1 — Causes & Fix](/posts/york-mini-split-error-code-e1/)
+- [York Furnace E4 Error Code — Ignition Failure](/posts/york-furnace-error-code-e4/)
+- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)

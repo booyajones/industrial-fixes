@@ -16,5 +16,47 @@
     "score": 3,
     "reason": "Research explicitly states 'Carrier error code 29 is not one universal Carrier HVAC code' and cannot confirm its existence from Carrier documentation; publishing unverified code violates documentation standards.",
     "date": "2026-05-27"
+  },
+  "carrier-error-code-30": {
+    "topic": "carrier error code 30",
+    "score": 3,
+    "reason": "The research explicitly states code 30 is NOT documented in any Carrier source provided; the draft creates repair content for a non-existent/unverified code.",
+    "date": "2026-05-27"
+  },
+  "ecosmart-eco19-error-codes": {
+    "topic": "ecosmart eco19 error codes",
+    "score": 3,
+    "reason": "The research explicitly states 'I cannot confirm a specific manufacturer-defined meaning for eco19' and 'EcoSmart does not publish a universal eco19 fault code'\u2014this is NOT a documented error code, it appears to be confusion between a model number (ECO 19) and an error code, failing the primary requirement for publication.",
+    "date": "2026-05-27"
+  },
+  "ecosmart-eco21-error-codes": {
+    "topic": "ecosmart eco21 error codes",
+    "score": 3,
+    "reason": "The research explicitly states 'ECO21' is NOT a documented error code; the draft conflates a non-existent code with a model number (Eco 21), creating fundamental confusion despite otherwise accurate content about real EcoSmart codes.",
+    "date": "2026-05-27"
+  },
+  "ecosmart-eco23-error-codes": {
+    "topic": "ecosmart eco23 error codes",
+    "score": 3,
+    "reason": "The research explicitly states 'I cannot confirm a manufacturer-defined fault called ECO23' - this is NOT a documented error code, only a model number; the draft conflates the two and creates content for a non-existent code.",
+    "date": "2026-05-27"
+  },
+  "ecosmart-eco25-error-codes": {
+    "topic": "ecosmart eco25 error codes",
+    "score": 3,
+    "reason": "Research explicitly states 'I could not verify a manufacturer-authored EcoSmart eco25 error-code list' and warns against assigning precise meaning without verification; draft treats ECO25 as confirmed model with generic troubleshooting instead of documented error codes.",
+    "date": "2026-05-27"
+  },
+  "ecosmart-eco29-error-codes": {
+    "topic": "ecosmart eco29 error codes",
+    "score": 4,
+    "reason": "The research confirms E1 is a real EcoSmart code, but found NO evidence that 'eco29' or 'ECO 29' is an error code\u2014it appears to be a model number (ECO 29), making the title/topic fundamentally incorrect.",
+    "date": "2026-05-27"
+  },
+  "ecosmart-eco31-error-codes": {
+    "topic": "ecosmart eco31 error codes",
+    "score": 3,
+    "reason": "The research explicitly states 'eco31' cannot be verified as a real EcoSmart error code; the draft incorrectly treats ECO31 as a model number rather than acknowledging the code does not exist.",
+    "date": "2026-05-27"
   }
 }
