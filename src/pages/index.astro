@@ -192,7 +192,6 @@ const categories = equipmentCategories.map(c => ({
         el.innerHTML = `<p style="font-size:0.8rem;color:#888;">Search available after first build.</p>`;
         return;
       }
-      // @ts-expect-error — Missing types for @pagefind/default-ui package.
       const { PagefindUI } = await import("@pagefind/default-ui");
       new PagefindUI({
         element: "#pagefind-home",

@@ -12,12 +12,17 @@ interface Env {
   RESEND_AUDIENCE_ID: string;
 }
 
+// Minimal local type so `astro check` (tsc) can type this without pulling in
+// @cloudflare/workers-types. At runtime Cloudflare Pages recognises the named
+// `onRequestPost` export and injects the real context.
+type PagesContext<E> = { request: Request; env: E };
+
 function redirect(cat: string): Response {
   const loc = "/thanks/" + (cat && cat !== "industrial" ? "?cat=" + encodeURIComponent(cat) : "");
   return new Response(null, { status: 303, headers: { Location: loc } });
 }
 
-export const onRequestPost: PagesFunction<Env> = async (ctx) => {
+export const onRequestPost = async (ctx: PagesContext<Env>): Promise<Response> => {
   const { request, env } = ctx;
   let email = "";
   let cat = "industrial";

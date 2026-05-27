@@ -32,8 +32,11 @@ runners:
     always_run: false
 
   astro-check:
-    command: "npx"
-    args: ["astro", "check"]
+    # Invoke astro's JS entry directly via node. FQE spawns runners with
+    # spawnSync(no shell), which on Windows cannot launch the `npx`/`astro`
+    # .cmd shims. `node node_modules/astro/astro.js` is spawnable on every OS.
+    command: "node"
+    args: ["node_modules/astro/astro.js", "check"]
     when: ["src/**", "**/*.astro", "**/*.ts", "src/data/blog/**/*.md", "astro.config.ts"]
     required: true
     always_run: false
