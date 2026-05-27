@@ -49,3 +49,10 @@ If valve, screen, and supply pressure are all confirmed good and Code 7 persists
 - [Scotsman HID525 Error Codes — Complete Guide](/posts/scotsman-hid525-error-codes/)
 - [Scotsman Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/scotsman-ice-machine-complete-guide/)
 - [Scotsman Ice Machine Error Code 1 — High Pressure Cutout Fix](/posts/scotsman-ice-machine-error-code-1/)
+
+## See Also
+
+- [Scotsman C0830 Ice Machine Error Codes - Full Fault Reference](/posts/scotsman-c0830-error-codes/)
+- [Scotsman 2-Flash Code — Long Freeze Cycle Fix](/posts/scotsman-2-flash-code/)
+- [Scotsman 3-Flash Code — Long Harvest Cycle Fix](/posts/scotsman-3-flash-code/)
+- [Scotsman Ice Machine Error Code 5 — Freeze Cycle Timeout Causes & Fix](/posts/scotsman-ice-machine-error-code-5/)

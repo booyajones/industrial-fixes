@@ -76,3 +76,9 @@ E013 (rollout) and E004 (false flame detection) require investigation of the gas
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
 **Related:** [Weil-McLain code 3 low water cutoff](/posts/weil-mclain-error-code-3/)
 
+## See Also
+
+- [Navien Error Code E013 — Causes & Fix](/posts/navien-error-code-e013/)
+- [Navien NPE Series Error Codes — Tankless Water Heater Fault Guide](/posts/navien-npe-error-codes/)
+- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)
+- [Navien Error Code E024 — Overheat / High Temperature Cutoff](/posts/navien-error-code-e024/)

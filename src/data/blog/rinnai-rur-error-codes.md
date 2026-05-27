@@ -81,3 +81,10 @@ Thermal fuse replacement and gas valve diagnosis require licensed plumbing and/o
 - [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
 - [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
 - [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)
+
+## See Also
+
+- [Rinnai Error Code 25 — Causes & Fix](/posts/rinnai-error-code-25/)
+- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)
+- [Rinnai Error Code 10 — Condensate / Exhaust Blockage / Fan Motor Fault Fix](/posts/rinnai-error-code-10/)
+- [Rinnai Error Code 29 — System Communication Fault Fix](/posts/rinnai-error-code-29/)

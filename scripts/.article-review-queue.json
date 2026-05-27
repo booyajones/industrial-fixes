@@ -1,1 +1,20 @@
-{}
+{
+  "carrier-error-code-20": {
+    "topic": "carrier error code 20",
+    "score": 6,
+    "reason": "Research explicitly states code 20 is NOT universal across Carrier lines and cannot verify single manufacturer-wide meaning; draft oversells certainty ('On most Carrier furnace control boards') when sources say meanings vary by model family and exact code should be confirmed first.",
+    "date": "2026-05-27"
+  },
+  "carrier-error-code-26": {
+    "topic": "carrier error code 26",
+    "score": 4,
+    "reason": "Research explicitly states code 26 is NOT documented in Carrier's indexed status codes and cannot be verified as a real universal code; publishing unverified fault code content violates technical accuracy standards.",
+    "date": "2026-05-27"
+  },
+  "carrier-error-code-29": {
+    "topic": "carrier error code 29",
+    "score": 3,
+    "reason": "Research explicitly states 'Carrier error code 29 is not one universal Carrier HVAC code' and cannot confirm its existence from Carrier documentation; publishing unverified code violates documentation standards.",
+    "date": "2026-05-27"
+  }
+}

@@ -75,3 +75,10 @@ If cleaning the flame sensor doesn't resolve EFO within 1–2 heating cycles, ca
 - [Lennox Elite Series Furnace Error Codes — Complete Guide](/posts/lennox-elite-series-furnace-codes/)
 - [Lennox Error Code 412 — Inducer Fault Fix](/posts/lennox-error-code-412-inducer/)
 - [Lennox Error Code 414 — Gas Valve Circuit Fault Fix](/posts/lennox-error-code-414-gas-valve-circuit-fault/)
+
+## See Also
+
+- [Lennox Error Code 540 — Communicating System Fault (Detailed Guide)](/posts/lennox-error-code-540-communicating/)
+- [Lennox XP20 Heat Pump Error Codes - Full iComfort Fault Reference](/posts/lennox-xp20-heat-pump-error-codes/)
+- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
+- [Lennox Error Code 540 — Causes & Fix](/posts/lennox-error-code-540/)

@@ -110,3 +110,9 @@ LE = motor lock or stator fault. UE = unbalanced load (load too unevenly distrib
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
 **Related:** [Samsung vs LG French door refrigerators](/posts/samsung-vs-lg-french-door-refrigerators/)
 
+## See Also
+
+- [LG Multi V VRF System Error Codes: Complete Guide](/posts/lg-multi-v-error-codes/)
+- [LG Mini-Split CH05 Error Code — Causes & Fix](/posts/lg-mini-split-ch05-error-code/)
+- [LG Mini Split Error Codes — All CH Codes Explained](/posts/lg-mini-split-error-codes/)
+- [LG Mini-Split CH38 Error Code — Causes & Fix](/posts/lg-mini-split-ch38-error-code/)

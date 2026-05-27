@@ -51,3 +51,10 @@ If code 6 returns after thorough cleaning, a certified refrigeration technician 
 - [Scotsman HID525 Error Codes — Complete Guide](/posts/scotsman-hid525-error-codes/)
 - [Scotsman Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/scotsman-ice-machine-complete-guide/)
 - [Scotsman Ice Machine Error Code 1 — High Pressure Cutout Fix](/posts/scotsman-ice-machine-error-code-1/)
+
+## See Also
+
+- [Scotsman 5-Flash Code — Pressure Sensor Fault Fix](/posts/scotsman-5-flash-code/)
+- [Scotsman HID312 Error Codes — Fault Code Diagnostic Guide](/posts/scotsman-hid312-error-codes/)
+- [Scotsman 1-Flash Code — Bin Full / Bin Thermostat Fix](/posts/scotsman-1-flash-code/)
+- [Scotsman Ice Machine Error Code 8 — Causes & Fix](/posts/scotsman-ice-machine-error-code-8/)

@@ -67,3 +67,10 @@ Check hydraulic pressure (minimum 900 PSI for standard chucks). Verify workpiece
 - [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
 - [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
 - [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+
+## See Also
+
+- [Mazak Alarm 900 Tool Magazine Index Fault - Causes & Fix](/posts/mazak-alarm-900-magazine/)
+- [Mazak Alarm 1 Servo Alarm — Causes & Fix](/posts/mazak-alarm-1-servo/)
+- [Mazak Alarm 50 Servo — Causes & Fix](/posts/mazak-alarm-50-servo/)
+- [Mazak Alarm 700 — MPC Alarm](/posts/mazak-alarm-700-mpc/)

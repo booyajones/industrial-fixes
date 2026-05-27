@@ -138,3 +138,9 @@ Call Fanuc-authorized service when: the motor needs to come out (most Fanuc moto
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
 **Related:** [Best 4-20mA loop calibrator](/posts/best-loop-calibrator-for-vfd-techs/)
 
+## See Also
+
+- [Fanuc Alarm 460 — Spindle Overload](/posts/fanuc-alarm-460/)
+- [Fanuc Alarm 401 — Servo Axis Overload Fix](/posts/fanuc-alarm-401/)
+- [Fanuc Alarm 700 — Causes & Fix](/posts/fanuc-alarm-700/)
+- [Fanuc Alarm 10 Servo Alarm — Causes & Fix](/posts/fanuc-alarm-10-servo-alarm/)

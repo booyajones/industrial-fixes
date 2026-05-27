@@ -54,3 +54,10 @@ Gas valve replacement requires leak-testing all connections with a manometer or 
 - [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
 - [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
 - [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
+
+## See Also
+
+- [York YSC Rooftop Unit Error Codes Guide](/posts/york-ysc-error-codes/)
+- [York 2 Flashes Error Code — Causes & Fix](/posts/york-2-flashes-error-code/)
+- [York TG9 Furnace Error Codes — Fault Code Diagnostic Guide](/posts/york-tg9-furnace-error-codes/)
+- [York Furnace Error Codes — Complete Guide](/posts/york-furnace-error-codes/)

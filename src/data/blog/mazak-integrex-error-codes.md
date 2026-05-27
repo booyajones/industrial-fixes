@@ -66,3 +66,10 @@ On an Integrex, the fastest route is usually subsystem thinking, not code memori
 - [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
 - [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
 - [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+
+## See Also
+
+- [Mazak CNC Alarm 200 Parameter Fault — Causes & Fix](/posts/mazak-cnc-alarm-200-parameter/)
+- [Mazak Matrix/Matrix 2 Fault Code Guide — Complete Reference](/posts/mazak-matrix-fault-codes/)
+- [Mazak Alarm 600 ATC — Automatic Tool Changer Fault Causes & Fix](/posts/mazak-alarm-600-atc/)
+- [Mazak Alarm 200 — Spindle Speed Error Causes & Fix](/posts/mazak-alarm-200-spindle/)

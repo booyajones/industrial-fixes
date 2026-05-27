@@ -98,3 +98,9 @@ The most common fix for Error 65:
 <!-- INTERNAL-LINK-AUTO -->
 **Related:** [Rheem Performance Platinum PDN tankless error codes](/posts/rheem-performance-platinum-pdn-error-codes/)
 
+## See Also
+
+- [Rinnai RU130iN Tankless Water Heater Error Codes - Full Fault Guide](/posts/rinnai-ru130in-error-codes/)
+- [Rinnai Error Code 52 — Outlet Water Temperature Sensor Fault](/posts/rinnai-error-code-52/)
+- [Rinnai Error Code 29 — System Communication Fault Fix](/posts/rinnai-error-code-29/)
+- [Rinnai Error Code 16 — Causes & Fix](/posts/rinnai-error-code-16/)

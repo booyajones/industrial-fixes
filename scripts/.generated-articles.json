@@ -39,6 +39,38 @@
     "carrier-error-code-17": {
       "topic": "carrier error code 17",
       "date": "2026-05-27"
+    },
+    "siemens-vfd-f1-fault": {
+      "topic": "siemens vfd f1 fault",
+      "date": "2026-05-27"
+    },
+    "carrier-error-code-18": {
+      "topic": "carrier error code 18",
+      "date": "2026-05-27"
+    },
+    "carrier-error-code-19": {
+      "topic": "carrier error code 19",
+      "date": "2026-05-27"
+    },
+    "carrier-error-code-20": {
+      "topic": "carrier error code 20",
+      "date": "2026-05-27"
+    },
+    "carrier-error-code-26": {
+      "topic": "carrier error code 26",
+      "date": "2026-05-27"
+    },
+    "carrier-error-code-27": {
+      "topic": "carrier error code 27",
+      "date": "2026-05-27"
+    },
+    "carrier-error-code-28": {
+      "topic": "carrier error code 28",
+      "date": "2026-05-27"
+    },
+    "carrier-error-code-29": {
+      "topic": "carrier error code 29",
+      "date": "2026-05-27"
     }
   }
 }

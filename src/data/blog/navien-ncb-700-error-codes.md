@@ -172,3 +172,10 @@ A: Yes — the NCB-700 is commonly used with radiant floor systems. It requires 
 
 **Q: What is the NCB-700's minimum water pressure requirement?**
 A: The system requires a minimum of 7.25 PSI (0.5 bar) on the heating circuit side. Below this, the low water pressure sensor may trigger and prevent operation.
+
+## See Also
+
+- [Navien Error Code E021 — Cold Water Inlet Thermistor Fault Fix](/posts/navien-error-code-e021/)
+- [Navien NPE-A 016 — Overheat Lockout Fix](/posts/navien-water-heater-error-code-016/)
+- [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)
+- [Navien E030 Error Code — Causes & Fix](/posts/navien-error-code-e030/)

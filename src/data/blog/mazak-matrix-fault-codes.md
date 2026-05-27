@@ -95,3 +95,10 @@ Mazak has a service team accessible via 1-859-342-1700. The Mazak SmartBox remot
 - [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
 - [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
 - [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+
+## See Also
+
+- [Mazak Servo Parameter Error Fix (Matrix, M-Plus, Smooth)](/posts/mazak-servo-parameter-error/)
+- [Mazak Alarm 900 Tool Magazine Index Fault - Causes & Fix](/posts/mazak-alarm-900-magazine/)
+- [Mazak Alarm 218 — Spindle Motor Overheat Fix](/posts/mazak-alarm-218/)
+- [Mazak Alarm 1 Servo Alarm — Causes & Fix](/posts/mazak-alarm-1-servo/)
