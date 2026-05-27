@@ -323,7 +323,7 @@ const nextPost =
     gap: 1.25rem;
     flex-wrap: wrap;
     font-size: 0.8rem;
-    color: #6b7280;
+    color: #4b5563;
     margin-bottom: 1rem;
   }
   .article-author {
@@ -333,12 +333,12 @@ const nextPost =
     color: #166534;
     font-weight: 500;
   }
-  .article-date { color: #6b7280; }
+  .article-date { color: #4b5563; }
   .article-read-time {
     display: flex;
     align-items: center;
     gap: 0.35rem;
-    color: #6b7280;
+    color: #4b5563;
   }
 
   /* Title + copy button */
@@ -355,7 +355,7 @@ const nextPost =
     padding: 0.25rem 0.6rem;
     font-size: 0.75rem;
     cursor: pointer;
-    color: #6b7280;
+    color: #4b5563;
     margin-top: 0.5rem;
     white-space: nowrap;
   }
@@ -369,7 +369,7 @@ const nextPost =
     padding: 0.4rem 0.9rem;
     font-size: 0.8rem;
     cursor: pointer;
-    color: #6b7280;
+    color: #4b5563;
     margin-top: 0.75rem;
   }
   .print-btn:hover { border-color: #9ca3af; color: #374151; }
@@ -434,6 +434,12 @@ const nextPost =
       link.className =
         "heading-link ms-2 no-underline opacity-75 md:opacity-0 md:group-hover:opacity-100 md:focus:opacity-100";
       link.href = "#" + heading.id;
+      // Accessible name: the "#" glyph is aria-hidden, so without this the link
+      // has no discernible name (Lighthouse link-name failure).
+      link.setAttribute(
+        "aria-label",
+        "Link to section: " + (heading.textContent || "").trim()
+      );
 
       const span = document.createElement("span");
       span.ariaHidden = "true";
