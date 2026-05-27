@@ -73,3 +73,9 @@ Check compressor winding resistance with ohmmeter (all phases should be equal, t
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
 **Related:** [Samsung vs LG French door refrigerators](/posts/samsung-vs-lg-french-door-refrigerators/)
 
+## See Also
+
+- [LG Dishwasher Error IE — Water Inlet Fix](/posts/lg-dishwasher-error-ie/)
+- [LG Mini-Split CH38 Error Code — Causes & Fix](/posts/lg-mini-split-ch38-error-code/)
+- [LG Refrigerator Error ER RF — Evap Fan Motor Fix](/posts/lg-refrigerator-error-er-rf/)
+- [LG Mini-Split CH22 Error Code — Indoor Fan Motor Fix](/posts/lg-mini-split-ch22-error-code/)

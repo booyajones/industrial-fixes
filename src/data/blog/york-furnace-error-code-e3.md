@@ -50,3 +50,10 @@ If the switch, wiring, and tubing all check out and E3 persists, the control boa
 - [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
 - [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
 - [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
+
+## See Also
+
+- [York Furnace Error Code E2 — Causes & Fix](/posts/york-furnace-e2-error-code/)
+- [York Furnace Error Code E5 — High Limit Tripped](/posts/york-furnace-error-code-e5/)
+- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
+- [York Furnace Error Code E2: Pressure Switch Fault Causes and Fix](/posts/york-furnace-e2-pressure-switch/)

@@ -79,3 +79,10 @@ Call a licensed HVAC technician if you cleared the drain and replaced the pressu
 - [Carrier Error Code 31: Pressure Switch Stuck Open](/posts/carrier-error-code-31/)
 - [Goodman Furnace 3 Flashes: Pressure Switch Fault](/posts/goodman-furnace-3-flashes/)
 - [York Furnace Complete Error Code Guide](/posts/york-furnace-error-codes/)
+
+## See Also
+
+- [York 3 Flashes Error Code — Causes & Fix](/posts/york-3-flashes-error-code/)
+- [York Chiller Fault Codes — Complete Troubleshooting Guide](/posts/york-chiller-fault-codes/)
+- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
+- [York 2 Flashes Error Code — Causes & Fix](/posts/york-2-flashes-error-code/)

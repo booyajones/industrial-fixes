@@ -51,3 +51,10 @@ Combustion fan replacement on Rinnai units requires working near the gas valve a
 - [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
 - [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
 - [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)
+
+## See Also
+
+- [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
+- [Rinnai Error Code 07 — Heat Exchanger High Temperature Fix](/posts/rinnai-error-code-07/)
+- [Rinnai Error Code 32 — Causes & Fix](/posts/rinnai-error-code-32/)
+- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)

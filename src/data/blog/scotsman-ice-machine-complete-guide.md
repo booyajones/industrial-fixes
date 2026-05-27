@@ -87,3 +87,10 @@ Scotsman (a Welbilt brand) has authorized service agents. Refrigerant work requi
 - [Scotsman HID525 Error Codes — Complete Guide](/posts/scotsman-hid525-error-codes/)
 - [Scotsman Ice Machine Error Code 1 — High Pressure Cutout Fix](/posts/scotsman-ice-machine-error-code-1/)
 - [Scotsman Ice Machine Error Code 2 — Causes & Fix](/posts/scotsman-ice-machine-error-code-2/)
+
+## See Also
+
+- [Scotsman Ice Machine Error Code 4 — Causes & Fix](/posts/scotsman-ice-machine-error-code-4/)
+- [Scotsman C0522 Error Codes — Fix Guide](/posts/scotsman-c0522-error-codes/)
+- [Scotsman 4-Flash Code — High Discharge Temperature Fix](/posts/scotsman-4-flash-code/)
+- [Scotsman Prodigy Plus Error Code Guide — Causes & Fixes](/posts/scotsman-prodigy-error-codes/)

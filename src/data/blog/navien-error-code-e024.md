@@ -97,3 +97,9 @@ Navien units shut down on E024 when the heat exchanger temperature exceeds the t
 <!-- INTERNAL-LINK-AUTO -->
 **Related:** [Rheem Performance Platinum PDN tankless error codes](/posts/rheem-performance-platinum-pdn-error-codes/)
 
+## See Also
+
+- [Navien NPE-240S Tankless Water Heater Error Codes - Full Fault Guide](/posts/navien-npe-240s-error-codes/)
+- [Navien Error Code E010 — Causes & Fix](/posts/navien-error-code-e010/)
+- [Navien E030 Error Code — Causes & Fix](/posts/navien-error-code-e030/)
+- [Navien E006 Error Code — Causes & Fix](/posts/navien-error-code-e006/)

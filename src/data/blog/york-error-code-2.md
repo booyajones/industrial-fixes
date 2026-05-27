@@ -138,3 +138,9 @@ Yes — York, Coleman, Luxaire, and Champion are all under the same parent and u
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
 **Related:** [Best boiler test kit](/posts/best-boiler-test-kit/)
 
+## See Also
+
+- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
+- [York Chiller Fault Codes — Complete Troubleshooting Guide](/posts/york-chiller-fault-codes/)
+- [York 3 Flashes Error Code — Causes & Fix](/posts/york-3-flashes-error-code/)
+- [York Affinity Error Codes - What It Means and How to Fix It](/posts/york-affinity-error-codes/)

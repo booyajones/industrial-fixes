@@ -1,0 +1,39 @@
+# Finexio Quality Engine - repo config
+# Each runner declares: command, args, when (glob patterns), required, always_run
+# Edit to match this repo's actual runners. Empty config = no runners = always PASS.
+#
+# Examples:
+#
+# runners:
+#   web:
+#     command: "npx"
+#     args: ["playwright", "test"]
+#     when: ["**/*.tsx", "**/*.jsx", "**/*.html"]
+#     required: true
+#
+#   excel:
+#     command: "python3"
+#     args: ["scripts/fqe_excel_diff.py"]
+#     when: ["**/*.xlsx"]
+#     required: true
+#
+#   outbound:
+#     command: "vale"
+#     args: ["--config", ".vale.ini", "templates/"]
+#     when: ["**/templates/**", "**/emails/**"]
+#     required: true
+
+runners:
+  content-encoding:
+    command: "node"
+    args: ["scripts/check-mojibake.mjs"]
+    when: ["src/data/blog/**/*.md", "src/**/*.astro", "src/**/*.md"]
+    required: true
+    always_run: false
+
+  astro-check:
+    command: "npx"
+    args: ["astro", "check"]
+    when: ["src/**", "**/*.astro", "**/*.ts", "src/data/blog/**/*.md", "astro.config.ts"]
+    required: true
+    always_run: false

@@ -1,0 +1,9 @@
+# Who can add the 'fqe-bypass' label to skip the gate.
+# The fqe-quality workflow looks up the LABEL ADDER (from GitHub Events API,
+# server-authoritative) against this list at the PR's BASE commit, so a PR
+# cannot add itself to this allowlist.
+#
+# Modifying this file is itself a PR that goes through the gate.
+
+allowed_actors:
+  - booyajones

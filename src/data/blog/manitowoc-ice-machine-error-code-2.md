@@ -50,3 +50,10 @@ Refrigerant diagnosis and harvest valve replacement in the refrigeration circuit
 - [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
 - [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)
 - [Manitowoc Ice Machine Error Code 4 — Water Curtain Fault Fix](/posts/manitowoc-ice-machine-error-code-4-water-curtain/)
+
+## See Also
+
+- [Manitowoc vs Scotsman Ice Machines — A Commercial Tech's Honest Comparison (2026)](/posts/manitowoc-vs-scotsman-ice-machines/)
+- [Manitowoc HPCO Error Code — High Pressure Cut Out Fix](/posts/manitowoc-hpco-error-code/)
+- [Manitowoc Indigo NXT Ice Machine Complete Troubleshooting Guide](/posts/manitowoc-indigo-nxt-complete-guide/)
+- [Manitowoc E01 Error Code — Long Freeze Cycle Fix](/posts/manitowoc-e01-error-code/)

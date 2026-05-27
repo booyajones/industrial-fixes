@@ -50,3 +50,10 @@ Mazak tool magazine mechanical work requires factory-trained service to maintain
 - [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
 - [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
 - [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+
+## See Also
+
+- [Mazak Alarm 1 Servo Alarm — Causes & Fix](/posts/mazak-alarm-1-servo/)
+- [Mazak Alarm 50 Servo — Causes & Fix](/posts/mazak-alarm-50-servo/)
+- [Mazak Alarm 100 Spindle Alarm — Causes & Fix](/posts/mazak-alarm-100-spindle/)
+- [Mazak Alarm 800 — Tool Magazine Fault](/posts/mazak-alarm-800-atc/)

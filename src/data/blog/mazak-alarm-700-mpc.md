@@ -55,3 +55,10 @@ Alarm 700 often points to control hardware, not field wiring. If it persists aft
 - [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
 - [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
 - [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+
+## See Also
+
+- [Mazak Alarm 415 — Position Detector Error Fix](/posts/mazak-alarm-415/)
+- [Mazak Alarm 500 PC Alarm — Causes & Fix](/posts/mazak-alarm-500-pc/)
+- [Mazak Matrix/Matrix 2 Fault Code Guide — Complete Reference](/posts/mazak-matrix-fault-codes/)
+- [Mazak Alarm 800 — Tool Magazine Fault](/posts/mazak-alarm-800-atc/)

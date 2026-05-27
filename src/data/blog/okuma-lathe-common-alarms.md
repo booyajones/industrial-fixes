@@ -97,3 +97,10 @@ Okuma provides technical support via their national service network. Contact 1-8
 - [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
 - [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
 - [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+
+## See Also
+
+- [Okuma CNC Alarm 1400 — Encoder Error](/posts/okuma-cnc-alarm-1400/)
+- [Okuma CNC Alarm 2030 Spindle Drive Fault — Causes & Fix](/posts/okuma-cnc-alarm-2030/)
+- [Okuma OSP Alarm 2202 — Spindle Fix](/posts/okuma-alarm-2202/)
+- [Okuma Alarm 3000 — Main CPU Error](/posts/okuma-cnc-alarm-3000/)

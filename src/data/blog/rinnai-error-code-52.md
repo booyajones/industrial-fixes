@@ -99,3 +99,9 @@ Rinnai outlet temperature sensors are NTC thermistors:
 <!-- INTERNAL-LINK-AUTO -->
 **Related:** [Rheem Performance Platinum PDN tankless error codes](/posts/rheem-performance-platinum-pdn-error-codes/)
 
+## See Also
+
+- [Rinnai I120CN Tankless Water Heater Error Codes: Complete Guide](/posts/rinnai-i120cn-error-codes/)
+- [Rinnai Error Code 31 — Causes & Fix](/posts/rinnai-error-code-31/)
+- [Rinnai Error Code 33 — Causes & Fix](/posts/rinnai-error-code-33/)
+- [Rinnai Error Code 11 No Ignition — Causes & Fix](/posts/rinnai-error-code-11-ignition/)

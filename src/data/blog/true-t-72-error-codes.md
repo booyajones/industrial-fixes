@@ -98,3 +98,10 @@ A: Yes. An overnight temperature alarm means the unit lost the ability to mainta
 
 **Q: Can I replace the Dixell controller on a True T-72 myself?**
 A: Yes, Dixell controller replacement is straightforward. Document all the current settings before disconnecting the old controller (photograph the display with each parameter shown). The new controller ships with factory defaults and must be reprogrammed to match the original settings: setpoint, alarm thresholds, defrost schedule, and probe type. The Dixell XR40/XR60 programming manual is available free online.
+
+## See Also
+
+- [True Refrigeration E1 Error Code — Causes & Fix](/posts/true-refrigeration-e1-error-code/)
+- [True T-49 Refrigerator Error Codes - What They Mean and How to Fix Them](/posts/true-t-49-error-codes/)
+- [True Refrigeration E6 Error Code — High Temperature Alarm Causes & Fix](/posts/true-refrigeration-e6-error-code/)
+- [True GDM-49 Glass Door Merchandiser Error Codes - Full Fault Guide](/posts/true-gdm-49-error-codes/)

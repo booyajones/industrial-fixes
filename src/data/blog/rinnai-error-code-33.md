@@ -51,3 +51,10 @@ If descaling and vent inspection don't resolve code 33, have a technician measur
 - [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
 - [Rinnai Error Code 12 — Causes & Fix](/posts/rinnai-error-code-12/)
 - [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)
+
+## See Also
+
+- [Rinnai Error Code 61 — Causes & Fix](/posts/rinnai-error-code-61/)
+- [Rinnai Error Code 11 — No Ignition Fix](/posts/rinnai-error-code-11/)
+- [Rinnai Error Code 11 No Ignition — Causes & Fix](/posts/rinnai-error-code-11-ignition/)
+- [Rinnai Error Code 32 — Causes & Fix](/posts/rinnai-error-code-32/)

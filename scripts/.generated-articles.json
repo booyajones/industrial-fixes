@@ -3,6 +3,42 @@
     "aprilaire-e3-error-code": {
       "topic": "Aprilaire E3 error code",
       "date": "2026-05-26"
+    },
+    "abb-acs550-fault-f0001-overcurrent-test": {
+      "topic": "ABB ACS550 fault F0001 overcurrent test",
+      "date": "2026-05-26"
+    },
+    "carrier-furnace-error-code-8472-nonexistent": {
+      "topic": "Carrier furnace error code 8472 nonexistent",
+      "date": "2026-05-26"
+    },
+    "icombi-classic-e01-error": {
+      "topic": "icombi classic e01 error",
+      "date": "2026-05-27"
+    },
+    "abb-inverter-fault-code-f0001": {
+      "topic": "abb inverter fault code f0001",
+      "date": "2026-05-27"
+    },
+    "trane-xr80-blinking-yellow-light-codes-meaning": {
+      "topic": "trane xr80 blinking yellow light codes meaning",
+      "date": "2026-05-27"
+    },
+    "f1-fault-in-siemens-drive": {
+      "topic": "f1 fault in siemens drive",
+      "date": "2026-05-27"
+    },
+    "carrier-error-code-15": {
+      "topic": "carrier error code 15",
+      "date": "2026-05-27"
+    },
+    "carrier-error-code-16": {
+      "topic": "carrier error code 16",
+      "date": "2026-05-27"
+    },
+    "carrier-error-code-17": {
+      "topic": "carrier error code 17",
+      "date": "2026-05-27"
     }
   }
 }

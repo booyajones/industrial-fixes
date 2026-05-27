@@ -100,7 +100,7 @@ def existing_signatures() -> list[frozenset[str]]:
 # ----------------------------------------------------------------------------- #
 # Demand source A: Google Search Console
 # ----------------------------------------------------------------------------- #
-def gsc_demand(limit: int = 200) -> list[dict]:
+def gsc_demand(limit: int = 5000) -> list[dict]:
     """Real Google queries hitting the domain. Returns [{query, impressions, position}]."""
     try:
         from google.oauth2 import service_account
@@ -117,7 +117,7 @@ def gsc_demand(limit: int = 200) -> list[dict]:
         svc = build("searchconsole", "v1", credentials=creds)
         from datetime import timedelta
         end = date.today() - timedelta(days=2)
-        start = end - timedelta(days=90)
+        start = end - timedelta(days=120)
         rows = svc.searchanalytics().query(siteUrl=f"https://{SITE}/", body={
             "startDate": str(start), "endDate": str(end),
             "dimensions": ["query"], "rowLimit": limit,
@@ -129,9 +129,66 @@ def gsc_demand(limit: int = 200) -> list[dict]:
         return []
 
 
+def bing_demand() -> list[dict]:
+    """Real Bing search queries for the site (GetQueryStats). Best-effort."""
+    key = os.environ.get("BING_API_KEY", "")
+    if not key:
+        return []
+    import urllib.parse
+    site = urllib.parse.quote("https://errorcodefixes.com/", safe="")
+    url = (f"https://ssl.bing.com/webmaster/api.svc/json/GetQueryStats"
+           f"?siteUrl={site}&apikey={key}")
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": UA})
+        with urllib.request.urlopen(req, timeout=20) as r:
+            data = json.load(r).get("d", []) or []
+        out = []
+        for row in data:
+            q = row.get("Query") or row.get("query")
+            if q:
+                out.append({"query": q, "impressions": row.get("Impressions", 1), "position": 99})
+        return out
+    except Exception as e:
+        print(f"  [bing] {e}")
+        return []
+
+
 # ----------------------------------------------------------------------------- #
 # Demand source B: Reddit intel gaps (best-effort)
 # ----------------------------------------------------------------------------- #
+def coverage_expansion() -> list[dict]:
+    """Renewable, high-confidence demand: find numeric code SERIES we already
+    cover and fill the interior gaps. If we have weil-mclain E01/E02/E04/E05 but
+    not E03, that missing code is almost certainly real and definitely searched.
+    Only fills gaps strictly BETWEEN the min and max we already have, so we never
+    invent codes past the end of a series. Perplexity grounding + the quality gate
+    still reject anything that turns out not to exist."""
+    import collections
+    groups: dict[tuple, dict] = collections.defaultdict(dict)
+    pat = re.compile(r"^(.*?)(\d+)(\D*)$")
+    for p in BLOG_DIR.glob("*.md"):
+        m = pat.match(p.stem)
+        if not m:
+            continue
+        prefix, num, suffix = m.group(1), m.group(2), m.group(3)
+        key = (prefix, suffix, len(num))
+        groups[key][int(num)] = p.stem
+    out = []
+    for (prefix, suffix, width), nums in groups.items():
+        if len(nums) < 3:           # need a real series to interpolate safely
+            continue
+        lo, hi = min(nums), max(nums)
+        if hi - lo > 60:            # avoid absurd ranges from coincidental matches
+            continue
+        for n in range(lo + 1, hi):
+            if n in nums:
+                continue
+            slug = f"{prefix}{n:0{width}d}{suffix}"
+            topic = slug.replace("-", " ").strip()
+            out.append({"query": topic, "impressions": 2, "position": 99})
+    return out
+
+
 def reddit_demand() -> list[dict]:
     """Best-effort: read reddit-intel gap output if present. Never fatal."""
     candidates = list((ROOT / "scripts" / "reddit-intel").glob("*gap*.json"))
@@ -154,7 +211,7 @@ def reddit_demand() -> list[dict]:
 # Topic selection
 # ----------------------------------------------------------------------------- #
 def pick_topics(count: int, have: set[str]) -> list[str]:
-    pool = gsc_demand() + reddit_demand()
+    pool = gsc_demand() + bing_demand() + reddit_demand() + coverage_expansion()
     have_sigs = existing_signatures()
     seen, picks = [], []
     scored = sorted(pool, key=lambda r: -float(r.get("impressions", 0)))
@@ -166,9 +223,12 @@ def pick_topics(count: int, have: set[str]) -> list[str]:
         sig = topic_signature(q)
         if len(sig) < 2:  # need at least a brand-ish token + a code-ish token
             continue
-        # Covered already if an existing article's signature contains this one
-        # (reordered words, extra qualifier words, etc. all collapse here).
-        if any(sig <= es or es <= sig for es in have_sigs):
+        # Covered only if an existing article is at least as specific as this
+        # query (candidate tokens are a subset of an existing article's tokens).
+        # We do NOT skip when the candidate is a SUPERSET of some short existing
+        # signature -- "york chiller e1" is a distinct, more-specific topic than
+        # an existing "york chiller" guide and should still be written.
+        if any(sig <= es for es in have_sigs):
             continue
         if any(sig <= s or s <= sig for s in seen):  # dedupe within this batch
             continue
@@ -261,10 +321,44 @@ def claude_write(topic: str, research: str) -> dict | None:
         print(f"    [claude] {e}"); return None
 
 
+def claude_review(topic: str, content: dict, research: str) -> dict:
+    """Second-pass quality gate. Scores the draft and decides publish vs hold.
+    Especially guards against coverage-expansion codes that don't actually exist."""
+    if not ANTHROPIC_KEY:
+        return {"score": 0, "publish": False, "reason": "no API key"}
+    draft_json = json.dumps(content)[:6000]
+    prompt = (
+        f"You are a strict technical editor for an industrial/HVAC error-code repair site. "
+        f"Evaluate this draft for the topic \"{topic}\".\n\n"
+        f"RESEARCH USED:\n{research[:3000] or '(none — no external grounding was available)'}\n\n"
+        f"DRAFT (JSON):\n{draft_json}\n\n"
+        f"Judge on: (1) is this a REAL, documented error code/fault for this equipment "
+        f"(if the research does not confirm the code exists, this fails); (2) technical "
+        f"accuracy vs the research; (3) specificity and usefulness (not vague filler); "
+        f"(4) appropriate safety guidance. "
+        f"Return ONLY JSON: {{\"score\": <0-10>, \"publish\": <true/false>, \"reason\": \"<one line>\"}}. "
+        f"Publish true only if it is a real code AND accurate AND specific (score >= 7)."
+    )
+    body = {"model": "claude-sonnet-4-5-20250929", "max_tokens": 300,
+            "messages": [{"role": "user", "content": prompt}]}
+    try:
+        req = urllib.request.Request("https://api.anthropic.com/v1/messages",
+            data=json.dumps(body).encode(), method="POST",
+            headers={"x-api-key": ANTHROPIC_KEY, "anthropic-version": "2023-06-01",
+                     "Content-Type": "application/json"})
+        with urllib.request.urlopen(req, timeout=60) as r:
+            d = json.load(r)
+        text = "".join(b.get("text", "") for b in d.get("content", []))
+        m = re.search(r"\{.*\}", text, re.DOTALL)
+        return json.loads(m.group(0)) if m else {"score": 0, "publish": False, "reason": "unparseable"}
+    except Exception as e:
+        return {"score": 0, "publish": False, "reason": f"review error: {e}"}
+
+
 BANNED = re.compile(r"\b(ensure|crucial|vital|leverage|robust|seamless)\b", re.I)
 
 
-def assemble_md(topic: str, c: dict, slug: str) -> str:
+def assemble_md(topic: str, c: dict, slug: str, draft: bool = False) -> str:
     title = c["title"].replace("—", "-").strip()
     desc = c["description"].replace("—", "-").strip()
     author = AUTHORS[abs(hash(slug)) % len(AUTHORS)]
@@ -301,7 +395,7 @@ pubDatetime: {now}
 modDatetime: {now}
 author: "{author}"
 featured: false
-draft: false
+draft: {str(draft).lower()}
 tags:
 {chr(10).join(f"  - {t}" for t in tags) if tags else "  - error-code"}
 ---
@@ -346,14 +440,27 @@ def generate_one(topic: str, have: set[str], dry: bool) -> str | None:
     content = claude_write(topic, research)
     if not content:
         print("     [!] generation failed"); return None
-    md = assemble_md(topic, content, slug)
+    # Quality gate: score the draft. Weak/unverifiable codes ship as draft:true
+    # (saved for human review, NOT built/published) instead of going live.
+    verdict = claude_review(topic, content, research)
+    publish = bool(verdict.get("publish")) and int(verdict.get("score", 0)) >= 7
+    print(f"     review: score={verdict.get('score')} publish={publish} — {verdict.get('reason','')[:80]}")
+    md = assemble_md(topic, content, slug, draft=not publish)
     if BANNED.search(md):
-        # one cheap scrub pass rather than discarding the article
         md = BANNED.sub(lambda m: {"ensure": "make sure", "crucial": "important",
                                    "vital": "important", "leverage": "use",
                                    "robust": "reliable", "seamless": "smooth"}.get(m.group(0).lower(), m.group(0)), md)
     (BLOG_DIR / f"{slug}.md").write_text(md, encoding="utf-8")
-    print(f"     [+] wrote src/data/blog/{slug}.md")
+    if publish:
+        print(f"     [+] PUBLISHED src/data/blog/{slug}.md")
+    else:
+        # log to a review queue so held drafts are easy to find
+        rq_path = ROOT / "scripts" / ".article-review-queue.json"
+        rq = json.loads(rq_path.read_text()) if rq_path.exists() else {}
+        rq[slug] = {"topic": topic, "score": verdict.get("score"),
+                    "reason": verdict.get("reason"), "date": date.today().isoformat()}
+        rq_path.write_text(json.dumps(rq, indent=2))
+        print(f"     [~] HELD as draft (review queue): {slug}")
     return slug
 
 

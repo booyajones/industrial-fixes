@@ -1,0 +1,8 @@
+# Who can add 'fqe-second-approved' to unblock when rolling bypass rate > 10%.
+# Approver must NOT be the same person who added 'fqe-bypass' (Events API check).
+# Approver must be in this list at the PR's BASE commit.
+#
+# Add real reviewers here. Single-entry is acceptable for a solo operator but
+# means same-actor rejection becomes the only collusion defense.
+
+allowed_actors: []

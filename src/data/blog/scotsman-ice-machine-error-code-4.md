@@ -50,3 +50,10 @@ If cleaning and descaling don't resolve code 4, the refrigeration system needs p
 - [Scotsman HID525 Error Codes — Complete Guide](/posts/scotsman-hid525-error-codes/)
 - [Scotsman Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/scotsman-ice-machine-complete-guide/)
 - [Scotsman Ice Machine Error Code 1 — High Pressure Cutout Fix](/posts/scotsman-ice-machine-error-code-1/)
+
+## See Also
+
+- [Scotsman Prodigy Plus Error Code Guide — Causes & Fixes](/posts/scotsman-prodigy-error-codes/)
+- [Scotsman 5-Flash Code — Pressure Sensor Fault Fix](/posts/scotsman-5-flash-code/)
+- [Scotsman 4-Flash Code — High Discharge Temperature Fix](/posts/scotsman-4-flash-code/)
+- [Scotsman C0522 Error Codes — Fix Guide](/posts/scotsman-c0522-error-codes/)

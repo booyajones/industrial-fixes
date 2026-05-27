@@ -1,0 +1,68 @@
+# Finexio Quality Engine - second-approve workflow
+# Triggers on PR label fqe-second-approved. Validates the approver via Events API.
+
+name: FQE Second Approve
+on:
+  pull_request:
+    types: [labeled]
+
+permissions:
+  contents: read
+  pull-requests: read
+  checks: write
+
+jobs:
+  approve:
+    if: github.event.label.name == 'fqe-second-approved'
+    runs-on: ubuntu-latest
+    container:
+      image: ghcr.io/booyajones/fqe:0.1
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.base.sha }}
+
+      - name: Identify both actors via Events API
+        id: actors
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          REPO: ${{ github.repository }}
+        run: |
+          set -euo pipefail
+          BYPASS_ACTOR=$(gh api \
+            "/repos/$REPO/issues/$PR_NUMBER/events" --paginate \
+            --jq '[.[] | select(.event=="labeled" and .label.name=="fqe-bypass")] | last | .actor.login')
+          if [ -z "$BYPASS_ACTOR" ] || [ "$BYPASS_ACTOR" = "null" ]; then
+            echo "::error::Cannot find original fqe-bypass label event"
+            exit 1
+          fi
+          APPROVER='${{ github.event.sender.login }}'
+          echo "bypass_actor=$BYPASS_ACTOR" >> "$GITHUB_OUTPUT"
+          echo "approver=$APPROVER" >> "$GITHUB_OUTPUT"
+
+      - name: Validate approver (allowlist + same-actor rule)
+        env:
+          BYPASS_ACTOR: ${{ steps.actors.outputs.bypass_actor }}
+          APPROVER: ${{ steps.actors.outputs.approver }}
+        run: |
+          set -euo pipefail
+          if ! yq '.allowed_actors[]' .github/fqe-second-reviewers.yml | grep -qx "$APPROVER"; then
+            echo "::error::Approver '$APPROVER' not in second-reviewer allowlist (at base commit)"
+            exit 1
+          fi
+          if [ "$APPROVER" = "$BYPASS_ACTOR" ]; then
+            echo "::error::Second approver '$APPROVER' cannot be the bypass requester '$BYPASS_ACTOR'"
+            exit 1
+          fi
+
+      - name: Re-emit fqe/second-reviewer-required = success
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: |
+          fqe status publish \
+            --check fqe/second-reviewer-required \
+            --commit '${{ github.event.pull_request.head.sha }}' \
+            --state success \
+            --description "Approved by ${{ steps.actors.outputs.approver }} (bypass by ${{ steps.actors.outputs.bypass_actor }})"

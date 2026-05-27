@@ -69,3 +69,10 @@ Access PLC diagnostic via OSP ΓåÆ DIAGNOSIS ΓåÆ PLC. View the bit that is 
 - [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
 - [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
 - [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+
+## See Also
+
+- [Okuma Alarm 3000 — Main CPU Error](/posts/okuma-cnc-alarm-3000/)
+- [Okuma CNC Alarm 1013 — Servo Axis Fault Fix](/posts/okuma-cnc-alarm-1013-servo-axis-fault/)
+- [Okuma CNC Alarm 1800 — Causes & Fix](/posts/okuma-cnc-alarm-1800/)
+- [Okuma OSP Alarm 2202 — Spindle Fix](/posts/okuma-alarm-2202/)

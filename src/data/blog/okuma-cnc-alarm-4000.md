@@ -50,3 +50,10 @@ Never bypass or jumper safety circuit components to clear Alarm 4000. Okuma auth
 - [Doosan CNC Alarm Codes Guide — Fanuc / Fanuc i Series Controls](/posts/doosan-cnc-fault-codes/)
 - [Fanuc 0i-MD Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-0i-md-alarm-codes/)
 - [Fanuc 30i/31i/32i Alarm Code Guide — Complete Diagnostic Reference](/posts/fanuc-30i-alarm-codes/)
+
+## See Also
+
+- [Okuma CNC Alarm 1050 — Causes & Fix](/posts/okuma-cnc-alarm-1050/)
+- [Okuma CNC Alarm 2000 — Communication Error](/posts/okuma-cnc-alarm-2000/)
+- [Okuma CNC Alarm 1201 — Causes & Fix](/posts/okuma-cnc-alarm-1201/)
+- [Okuma CNC Alarm 1600 — Communication Error Causes & Fix](/posts/okuma-cnc-alarm-1600/)

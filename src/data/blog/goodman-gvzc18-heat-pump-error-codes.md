@@ -147,3 +147,10 @@ The GVZC18 runs defrost until the defrost thermistor confirms the outdoor coil h
 
 **My unit is 4 years old and threw Code 6. Is the inverter board covered under warranty?**
 Yes, Goodman's 10-year parts limited warranty covers the iQ Drive inverter board if the unit was registered within 60 days of installation. You'll need a licensed HVAC contractor to submit the warranty claim. If registration was skipped, the standard 5-year parts warranty may still apply.
+
+## See Also
+
+- [Goodman 2 Flash Error Code — Causes & Fix](/posts/goodman-2-flash-error-code/)
+- [Goodman ComfortNet Communicating System Error Codes — Complete Guide](/posts/goodman-communicating-error-codes/)
+- [Goodman Furnace E3 Error Code — Draft Motor Fault](/posts/goodman-furnace-e3-error-code/)
+- [Goodman GSZC18 Heat Pump Error Codes — Fault Code Diagnostic Guide](/posts/goodman-gszc18-error-codes/)

@@ -61,3 +61,10 @@ All refrigerant-side diagnosis and repair requires an EPA 608-certified technici
 - [Scotsman HID525 Error Codes — Complete Guide](/posts/scotsman-hid525-error-codes/)
 - [Scotsman Ice Machine Complete Troubleshooting Guide — All Error Codes](/posts/scotsman-ice-machine-complete-guide/)
 - [Scotsman Ice Machine Error Code 2 — Causes & Fix](/posts/scotsman-ice-machine-error-code-2/)
+
+## See Also
+
+- [Scotsman Ice Machine Error Code 2 — Causes & Fix](/posts/scotsman-ice-machine-error-code-2/)
+- [Scotsman Ice Machine Error Code 7 — Causes & Fix](/posts/scotsman-ice-machine-error-code-7/)
+- [Scotsman Ice Machine Error Code 5 — Freeze Cycle Timeout Causes & Fix](/posts/scotsman-ice-machine-error-code-5/)
+- [Scotsman Ice Machine Error Code 6 — Causes & Fix](/posts/scotsman-ice-machine-error-code-6/)
