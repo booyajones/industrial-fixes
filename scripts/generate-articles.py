@@ -189,6 +189,21 @@ def coverage_expansion() -> list[dict]:
     return out
 
 
+def code_pool_demand() -> list[dict]:
+    """Real documented codes mined from manufacturer docs by mine-code-lists.py.
+    This is the renewable feeder that sustains the paced ramp without inventing
+    codes. Ranked above interior-gap expansion (these are explicitly documented)
+    but below live GSC/Reddit search demand."""
+    p = ROOT / "scripts" / ".code-pool.json"
+    if not p.exists():
+        return []
+    try:
+        data = json.loads(p.read_text())
+    except Exception:
+        return []
+    return [{"query": c, "impressions": 4, "position": 99} for c in data.get("candidates", [])]
+
+
 def reddit_demand() -> list[dict]:
     """Best-effort: read reddit-intel gap output if present. Never fatal."""
     candidates = list((ROOT / "scripts" / "reddit-intel").glob("*gap*.json"))
@@ -211,7 +226,8 @@ def reddit_demand() -> list[dict]:
 # Topic selection
 # ----------------------------------------------------------------------------- #
 def pick_topics(count: int, have: set[str]) -> list[str]:
-    pool = gsc_demand() + bing_demand() + reddit_demand() + coverage_expansion()
+    pool = (gsc_demand() + bing_demand() + reddit_demand()
+            + code_pool_demand() + coverage_expansion())
     have_sigs = existing_signatures()
     seen, picks = [], []
     scored = sorted(pool, key=lambda r: -float(r.get("impressions", 0)))
