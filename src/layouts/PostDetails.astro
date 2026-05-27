@@ -380,6 +380,32 @@ const nextPost =
   }
 </style>
 
+<style is:global>
+  /* Affiliate conversion: render in-article Amazon links as high-visibility CTA
+     buttons instead of plain text links. Applies to every existing + future
+     article (targets the rendered link, no content edits). White-on-#92400e
+     passes AA contrast. This is the affiliate revenue surface, so it gets a
+     clear, tappable button. */
+  #article a[href*="amazon.com"] {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3rem;
+    background: #92400e;
+    color: #fff !important;
+    text-decoration: none !important;
+    font-weight: 600;
+    font-size: 0.85rem;
+    line-height: 1.15;
+    padding: 0.45rem 0.8rem;
+    border-radius: 6px;
+    white-space: nowrap;
+    transition: background 0.15s ease;
+  }
+  #article a[href*="amazon.com"]:hover { background: #78350f; }
+  #article a[href*="amazon.com"]:focus-visible { outline: 2px solid #78350f; outline-offset: 2px; }
+  #article a[href*="amazon.com"]::after { content: "\00a0→"; }
+</style>
+
 <script is:inline data-astro-rerun>
   /** Create a progress indicator
    *  at the top */
