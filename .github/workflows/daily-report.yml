@@ -1,0 +1,33 @@
+# Daily traffic report — ports ECF Daily Report (ecf_daily_report.py).
+# Pulls GA4 + Cloudflare stats and posts to Slack #proj-industrial-code-errors.
+name: ECF Daily Report
+
+on:
+  schedule:
+    - cron: "0 14 * * *"   # 14:00 UTC daily
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install deps
+        run: pip install requests google-analytics-data google-auth 2>/dev/null || pip install requests || true
+      - name: Write GA4/GSC service account file
+        run: echo '${{ secrets.GSC_SA_JSON }}' > "$RUNNER_TEMP/ga-sa.json"
+      - name: Post daily report to Slack
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ZONE_ID: ${{ secrets.CLOUDFLARE_ZONE_ID }}
+          GOOGLE_APPLICATION_CREDENTIALS: ${{ runner.temp }}/ga-sa.json
+          GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}
+        run: cd automation && python ecf_daily_report.py
