@@ -65,3 +65,10 @@ If coil freezing returns after cleaning the filter and confirming good airflow, 
 - [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
 - [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
 - [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)
+
+## See Also
+
+- [Mitsubishi E6 AC Error Code — Causes & Fix](/posts/mitsubishi-e6-ac-error-code/)
+- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
+- [Mitsubishi Mini-Split U0 Error Code — Refrigerant Shortage Fix](/posts/mitsubishi-mini-split-u0-error-code/)
+- [Mitsubishi Mini Split E9 Error Code — Outdoor Thermistor 2 Fault Fix](/posts/mitsubishi-mini-split-e9-error/)

@@ -101,3 +101,10 @@ A: Mitsubishi recommends cleaning the filter every two weeks during periods of h
 
 **Q: Can I add a second indoor unit to my MSY-GL outdoor unit?**
 A: No. The MSY-GL outdoor units are single-zone only. If you need multi-zone capability, you would need to upgrade to a Mitsubishi MXZ multi-zone outdoor unit. The MSY-GL indoor heads are compatible with MXZ systems, so you could retain your indoor units if you replace the outdoor unit.
+
+## See Also
+
+- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
+- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)
+- [Mitsubishi E3 Error Code — Indoor Fan Motor Fault Fix](/posts/mitsubishi-e3-error-code/)
+- [Mitsubishi Mini Split P1 Error Code Fix](/posts/mitsubishi-p1-error-code/)

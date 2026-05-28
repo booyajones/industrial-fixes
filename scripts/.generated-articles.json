@@ -171,6 +171,14 @@
     "ecosmart-eco31-error-codes": {
       "topic": "ecosmart eco31 error codes",
       "date": "2026-05-27"
+    },
+    "abb-acs580-a2a1-fault-code": {
+      "topic": "ABB ACS580 A2A1 fault code",
+      "date": "2026-05-28"
+    },
+    "abb-acs580-a2b1-fault-code": {
+      "topic": "ABB ACS580 A2B1 fault code",
+      "date": "2026-05-28"
     }
   }
 }

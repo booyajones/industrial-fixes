@@ -49,3 +49,10 @@ The control board monitors blower performance during startup and operation. When
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with line voltage (115 VAC) or low voltage (24 VAC) electrical systems, or if you lack the tools to safely diagnose blower motor communication and startup faults. A professional has the Carrier troubleshooting trees, proper test equipment, and training to follow the manufacturer's diagnostic sequence for code 15. Water intrusion issues often require identifying hidden moisture paths and correcting drainage or coil problems that are not obvious. If the fault returns after you replace the motor or module, a technician can trace control-board or system-level problems that require more advanced diagnostics.
+
+## See Also
+
+- [Carrier WeatherMaker Rooftop Unit Error Codes: Complete Guide](/posts/carrier-weatheramaker-error-codes/)
+- [Carrier 23 Error Code — Draft Safeguard Switch Fault](/posts/carrier-23-error-code/)
+- [Carrier 58UX Furnace Error Codes — Flash Code Diagnostic Guide](/posts/carrier-58ux-error-codes/)
+- [Carrier Error Code 17 - Causes & Fix](/posts/carrier-error-code-17/)

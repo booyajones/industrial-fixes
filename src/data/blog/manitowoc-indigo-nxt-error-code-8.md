@@ -130,3 +130,10 @@ Only if the temperature ratings match exactly. The harvest thermostat has specif
 - [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)
 - [Manitowoc Ice Machine Error Code 2 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-2/)
 - [Manitowoc Ice Machine Error Code 3 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-3/)
+
+## See Also
+
+- [Manitowoc Indigo Ice Machine Error Codes — Complete Guide](/posts/manitowoc-indigo-error-codes/)
+- [Manitowoc Ice Machine Error Code 8 — Causes & Fix](/posts/manitowoc-ice-machine-error-code-8/)
+- [Manitowoc Ice Machine E05 HPC Fault: High Pressure Cutout Causes and Fix](/posts/manitowoc-e05-hpc-fault/)
+- [Manitowoc Ice Machine Error Code 10 — Ice Full Sensor Causes & Fix](/posts/manitowoc-ice-machine-error-code-10/)

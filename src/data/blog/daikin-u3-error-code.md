@@ -47,3 +47,10 @@ The fault is partly procedural and partly electrical. If the system recently had
 ## When to Call a Pro
 
 Call a qualified Daikin technician if you are not familiar with the service menu or test-operation procedure for your model, if you have already checked wiring and the fault will not clear, or if the system is under warranty or contract. Commercial VRV and SkyAir systems often require factory training to navigate commissioning steps, DIP switch tables, and addressing. If you replaced a PCB yourself and U3 remains after running the check operation, a tech can verify board configuration and communication integrity with diagnostic tools. Any scenario involving refrigerant work, multiple faults, or uncertain wiring should be handled by a licensed professional.
+
+## See Also
+
+- [Daikin E3 Error Code — Causes & Fix](/posts/daikin-e3-error-code/)
+- [Daikin UA Error Code — Mismatched Indoor/Outdoor Unit Fix](/posts/daikin-error-code-uA/)
+- [Daikin U7 Error Code - Causes & Fix](/posts/daikin-u7-error-code/)
+- [Daikin E6 Error Code - Causes & Fix](/posts/daikin-e6-error-code/)

@@ -49,3 +49,10 @@ Because the XR80 uses an IFC-style diagnostic system, the blink code alone is a 
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you have cleaned the flame sensor and verified wiring but the yellow blink code returns immediately, if you smell gas or hear the valve hissing without ignition, or if the furnace locks out every cycle with no obvious cause. Gas valve replacement, control board diagnosis, and pressure switch testing require multimeter skills and knowledge of the ignition sequence. If you are not comfortable working with 120V power, natural gas piping, or reading microamp flame current, professional service is the safer and faster choice. Repeated lockouts that clear temporarily after power cycling usually indicate an intermittent fault that needs proper diagnostics, not guesswork part swaps.
+
+## See Also
+
+- [Trane 8 Flashes Error Code — Causes & Fix](/posts/trane-8-flashes-error-code/)
+- [Trane ComfortR ER Error Code — Causes & Fix](/posts/trane-comfort-r-error-codes-er/)
+- [Trane Furnace Error Codes — Complete Flash Code Guide](/posts/trane-furnace-error-codes/)
+- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)

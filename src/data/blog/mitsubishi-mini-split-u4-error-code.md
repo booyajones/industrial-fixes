@@ -50,3 +50,10 @@ If all wiring tests good and both thermistors measure within spec, the outdoor P
 - [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
 - [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
 - [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)
+
+## See Also
+
+- [Mitsubishi vs Daikin Mini-Splits — A Service Tech's Honest Comparison (2026)](/posts/mitsubishi-vs-daikin-mini-splits/)
+- [Mitsubishi P-Series H6 — Outdoor Fan Motor Fix](/posts/mitsubishi-heat-pump-error-code-h6/)
+- [Mitsubishi P7 Error Code — System Mode Mismatch Fix](/posts/mitsubishi-p7-error-code/)
+- [Mitsubishi FR Series VFD Fault E6 — Causes & Fix](/posts/mitsubishi-fr-series-fault-e6/)

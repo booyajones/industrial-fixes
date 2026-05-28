@@ -81,3 +81,10 @@ Code 5 (flame without call) is a gas leak/valve failure — shut off the gas and
 - [Trane 2 Flashes Error Code — Causes & Fix](/posts/trane-2-flashes-error-code/)
 - [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
 - [Trane 3 Flash Pressure Switch Fault — Detailed Diagnosis Guide](/posts/trane-3-flashes-pressure-switch/)
+
+## See Also
+
+- [Trane XV20i/XV18 Fault 126 — Low Pressure Cutout Fix](/posts/trane-heat-pump-error-code-126/)
+- [Trane Precedent Rooftop Unit Error Codes: Complete Guide](/posts/trane-precedent-error-codes/)
+- [Trane 4 Flashes Error Code — Open High Limit Fix](/posts/trane-4-flashes-error-code/)
+- [Trane ComfortLink II Error Codes — Common Faults and Fixes](/posts/trane-comfortlink-ii-error-codes/)

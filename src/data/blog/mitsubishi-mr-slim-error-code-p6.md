@@ -179,3 +179,10 @@ A: Not necessarily — a completely silent outdoor unit after a P6 trip just mea
 
 **Q: How long do Mitsubishi Mr. Slim inverter boards typically last?**
 A: 10–15 years under normal operating conditions. Units in extreme climates (very high ambient temperatures in attic-mounted outdoor units, or heavy industrial environments) may see board failures earlier.
+
+## See Also
+
+- [Mitsubishi E5 Error Code — Causes & Fix](/posts/mitsubishi-e5-error-code/)
+- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
+- [Mitsubishi Mini Split E9 Error Code — Outdoor Thermistor 2 Fault Fix](/posts/mitsubishi-mini-split-e9-error/)
+- [Mitsubishi U3 Error Code — Causes & Fix](/posts/mitsubishi-u3-error-code/)

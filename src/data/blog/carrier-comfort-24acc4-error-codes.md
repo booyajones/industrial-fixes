@@ -129,3 +129,10 @@ A: A solid green LED means the control board sees no faults. If the system is ru
 **Q: What size capacitor does the Carrier 24ACC4 use?**
 
 A: Capacitor specs vary by unit tonnage and age. The dual run capacitor values are printed on the capacitor itself and on the unit's wiring diagram inside the service panel. Common values for the 24ACC4 are 35+5 µF or 45+5 µF at 370V or 440V. Always replace with the exact rated value — never substitute a lower µF capacitor.
+
+## See Also
+
+- [Carrier VRF System Error Codes Guide](/posts/carrier-vrf-error-codes/)
+- [Carrier 25 Error Code — Causes & Fix](/posts/carrier-25-error-code/)
+- [Carrier AquaSnap Chiller Fault Codes — 30RB/30RQ Guide](/posts/carrier-aquasnap-fault-codes/)
+- [Carrier Error Code 19 - Causes & Fix](/posts/carrier-error-code-19/)
