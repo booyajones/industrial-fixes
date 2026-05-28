@@ -41,4 +41,8 @@ jobs:
           git add growth-pipeline/indexing/ 2>/dev/null || true
           if git diff --cached --quiet; then echo "no state change"; exit 0; fi
           git commit -m "Bing daily URL submission [skip deploy]"
-          git push origin HEAD:main
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            echo "push race, retry $i"; sleep $((RANDOM % 8 + 3))
+          done
+          echo "push failed after retries"; exit 1
