@@ -1,0 +1,43 @@
+# Weekly real-code pool refresh — ported from local ECF-Code-Mine task.
+# Re-mines manufacturer docs via Perplexity for documented error/fault codes
+# and grows scripts/.code-pool.json, which the daily article generator draws
+# from. Commits the pool (no site rebuild needed -> [skip deploy]).
+name: Code Pool Mine (weekly)
+
+on:
+  schedule:
+    - cron: "0 5 * * 6"   # Saturday 05:00 UTC
+  workflow_dispatch:
+
+concurrency:
+  group: code-mine
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  mine:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.CONTENT_PUSH_TOKEN }}
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Mine code lists
+        env:
+          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+        run: python scripts/mine-code-lists.py
+      - name: Commit pool
+        shell: bash
+        run: |
+          git config user.email "chris.a.wyatt@gmail.com"
+          git config user.name "ECF Code Mine Bot"
+          git add scripts/.code-pool.json 2>/dev/null || true
+          if git diff --cached --quiet; then echo "pool unchanged"; exit 0; fi
+          git commit -m "Refresh real-code pool (weekly mine) [skip deploy]"
+          git push origin HEAD:main

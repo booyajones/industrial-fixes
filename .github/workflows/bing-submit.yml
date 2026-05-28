@@ -1,0 +1,44 @@
+# Daily Bing URL submission — ported from local ECF-Bing-Submit task.
+# Submits sitemap URLs to Bing (respects per-site quota), commits the
+# indexing state JSON. State-only change -> [skip deploy].
+name: Bing URL Submit (daily)
+
+on:
+  schedule:
+    - cron: "0 4 * * *"   # 04:00 UTC daily
+  workflow_dispatch:
+
+concurrency:
+  group: bing-submit
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.CONTENT_PUSH_TOKEN }}
+          persist-credentials: true
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Install deps (best-effort; script may use only built-ins)
+        run: npm ci || npm install || true
+      - name: Submit URLs to Bing
+        env:
+          BING_API_KEY: ${{ secrets.BING_API_KEY }}
+        run: node scripts/bing-submit-sitemap.mjs
+      - name: Commit indexing state
+        shell: bash
+        run: |
+          git config user.email "chris.a.wyatt@gmail.com"
+          git config user.name "ECF Bing Bot"
+          git add growth-pipeline/indexing/ 2>/dev/null || true
+          if git diff --cached --quiet; then echo "no state change"; exit 0; fi
+          git commit -m "Bing daily URL submission [skip deploy]"
+          git push origin HEAD:main
