@@ -1,0 +1,37 @@
+# Weekly newsletter — ports ECF-Weekly-Newsletter (resend-newsletter.py).
+#
+# DISPATCH-ONLY: this sends an email newsletter to the subscriber list via
+# Resend. Per the "no external send without explicit yes" rule, there is NO
+# schedule — a human triggers it (confirm=send). Do not add `schedule:`
+# without sign-off.
+name: Weekly Newsletter (manual only)
+
+on:
+  workflow_dispatch:
+    inputs:
+      confirm:
+        description: 'Type "send" to confirm sending to the subscriber list'
+        required: true
+        default: ""
+
+permissions:
+  contents: read
+
+jobs:
+  send:
+    if: ${{ github.event.inputs.confirm == 'send' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install deps
+        run: pip install pyyaml requests 2>/dev/null || pip install pyyaml || true
+      - name: Send newsletter (external — manual consent given)
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RESEND_AUDIENCE_ID: ${{ secrets.RESEND_AUDIENCE_ID }}
+          BEEHIIV_API_KEY: ${{ secrets.BEEHIIV_API_KEY }}
+        run: python scripts/resend-newsletter.py
