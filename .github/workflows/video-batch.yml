@@ -1,0 +1,60 @@
+# Weekly Shorts video batch — ports ECF-Weekly-Video-Batch. Generates MP4
+# Shorts (ElevenLabs TTS + ffmpeg) for recent articles, commits them.
+# Heaviest pipeline; ffmpeg installed on the runner.
+name: Video Batch (weekly)
+
+on:
+  schedule:
+    - cron: "0 7 * * 6"   # Saturday 07:00 UTC
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "max videos this run"
+        default: "5"
+
+concurrency:
+  group: content-pipeline   # share group with content-pipeline to avoid asset push races
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  video:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.CONTENT_PUSH_TOKEN }}
+          persist-credentials: true
+      - name: Install ffmpeg
+        run: sudo apt-get update -y && sudo apt-get install -y ffmpeg
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install deps
+        run: |
+          npm ci || npm install || true
+          pip install pillow requests 2>/dev/null || true
+      - name: Generate Shorts videos
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/daily-content-pipeline.py --days 7 --limit "${{ github.event.inputs.limit || '5' }}"
+      - name: Commit videos (rebase-safe)
+        shell: bash
+        run: |
+          git config user.email "chris.a.wyatt@gmail.com"
+          git config user.name "ECF Video Bot"
+          git add growth-pipeline/ 2>/dev/null || true
+          if git diff --cached --quiet; then echo "no new videos"; exit 0; fi
+          git commit -m "Weekly Shorts video batch [cloud]"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            echo "push race, retry $i"; sleep $((RANDOM % 8 + 3))
+          done
+          echo "push failed"; exit 1
