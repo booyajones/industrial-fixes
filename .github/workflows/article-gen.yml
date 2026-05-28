@@ -1,0 +1,80 @@
+# Daily demand-driven article generation — ported from the local Windows
+# ECF-Article-Generator scheduled task so it runs in the cloud (no dependency
+# on the EC2 being awake). Mines GSC + Reddit gaps, researches via Perplexity,
+# writes guides via Claude, wires internal links, commits + pushes. The push
+# (made with CONTENT_PUSH_TOKEN, a PAT) triggers the existing
+# "Deploy to Cloudflare Pages" workflow, so new articles go live automatically.
+name: Article Generation (daily)
+
+on:
+  schedule:
+    - cron: "30 6 * * *"   # 06:30 UTC daily (matches the old local task)
+  workflow_dispatch:
+    inputs:
+      count:
+        description: "How many articles to attempt"
+        default: "30"
+        required: false
+
+concurrency:
+  group: article-gen
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - name: Checkout (PAT so the content push triggers the deploy workflow)
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.CONTENT_PUSH_TOKEN }}
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Write GSC service account file from secret
+        shell: bash
+        run: |
+          echo '${{ secrets.GSC_SA_JSON }}' > "$RUNNER_TEMP/gsc-sa.json"
+
+      - name: Generate articles
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+          BING_API_KEY: ${{ secrets.BING_API_KEY }}
+          GSC_SERVICE_ACCOUNT_JSON: ${{ runner.temp }}/gsc-sa.json
+        run: |
+          python scripts/generate-articles.py --count "${{ github.event.inputs.count || '30' }}"
+
+      - name: Wire internal links
+        run: python scripts/add_internal_links.py
+
+      - name: Commit + push new articles (triggers Cloudflare deploy)
+        shell: bash
+        run: |
+          git config user.email "chris.a.wyatt@gmail.com"
+          git config user.name "ECF Article Bot"
+          git add src/data/blog scripts/.generated-articles.json scripts/.article-review-queue.json 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No new articles this run."
+            exit 0
+          fi
+          git commit -m "Demand-driven articles (GSC + Reddit gaps) [cloud]"
+          git push origin HEAD:main
+
+      - name: IndexNow ping (best-effort)
+        continue-on-error: true
+        run: node scripts/indexnow-ping.mjs
