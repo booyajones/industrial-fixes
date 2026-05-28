@@ -1,0 +1,50 @@
+# Weekly ECF audits — ports ECF_Weekly_AffiliateCheck, ECF_Weekly_LinkAudit,
+# ECF_Weekly_RefreshPlan into one cloud job. Read-only audits of the site
+# content; output published as an artifact.
+name: ECF Audits (weekly)
+
+on:
+  schedule:
+    - cron: "30 7 * * 6"   # Saturday 07:30 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+      PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install deps
+        run: pip install pyyaml requests beautifulsoup4 lxml 2>/dev/null || pip install pyyaml || true
+      - name: Write GSC service account file
+        run: echo '${{ secrets.GSC_SA_JSON }}' > "$RUNNER_TEMP/gsc-sa.json"
+      - name: Affiliate link check
+        continue-on-error: true
+        run: cd automation && python affiliate_link_check.py || true
+      - name: Internal linking audit
+        continue-on-error: true
+        run: cd automation && python internal_linking_audit.py || true
+      - name: Weekly refresh plan
+        continue-on-error: true
+        env:
+          GSC_SERVICE_ACCOUNT_JSON: ${{ runner.temp }}/gsc-sa.json
+        run: cd automation && python weekly_refresh.py || true
+      - name: Publish audit output
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: ecf-audits-weekly
+          path: |
+            automation/output/**
+            automation/*_2026-*.json
+          if-no-files-found: ignore
+          retention-days: 30
