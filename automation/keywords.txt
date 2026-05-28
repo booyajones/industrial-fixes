@@ -1,0 +1,30 @@
+carrier code 13
+carrier code 21
+carrier code 33
+carrier code 34
+hoshizaki E1
+hoshizaki E2
+manitowoc E01
+manitowoc HPCO
+scotsman 1 flash
+scotsman 2 flash
+mitsubishi mini split E6
+mitsubishi P5
+powerflex F004
+powerflex F005
+powerflex F012
+fanuc alarm 300
+samsung refrigerator 22C
+samsung refrigerator 39E
+whirlpool washer F21
+bosch dishwasher E15
+goodman 3 flash
+goodman 4 flash
+trane 2 blink
+trane 4 blink
+lennox 240
+york 1 blink
+weil-mclain code 3
+rinnai code 11
+daikin U4
+fujitsu 11:4
