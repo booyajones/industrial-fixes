@@ -1,0 +1,51 @@
+# Daily site-health monitor — ported from local ECF_Site_Health task.
+# Checks errorcodefixes.com URLs, publishes the report as an artifact, and
+# FAILS the run (red + GitHub notification) if any URL is unhealthy. No local
+# state needed — alerting is the red workflow, the report is the artifact.
+name: Site Health (daily)
+
+on:
+  schedule:
+    - cron: "20 7 * * *"   # 07:20 UTC daily
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  health:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install deps
+        run: pip install pyyaml requests 2>/dev/null || pip install pyyaml || true
+      - name: Run site health check
+        run: python automation/site_health.py
+      - name: Publish health report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-health-report
+          path: automation/output/health_*.json
+          if-no-files-found: ignore
+          retention-days: 14
+      - name: Fail if any URL unhealthy
+        shell: bash
+        run: |
+          latest=$(ls -t automation/output/health_*.json 2>/dev/null | head -1)
+          if [ -z "$latest" ]; then echo "no health report produced"; exit 1; fi
+          # fail if any check has a non-200 http_status or any errors
+          python - "$latest" <<'PY'
+          import json, sys
+          data = json.load(open(sys.argv[1]))
+          bad = [c for c in data if c.get("http_status") not in (200, None) or c.get("errors")]
+          if bad:
+              for c in bad:
+                  print(f"UNHEALTHY: {c.get('url')} status={c.get('http_status')} errors={c.get('errors')}")
+              sys.exit(1)
+          print(f"All {len(data)} URLs healthy.")
+          PY
