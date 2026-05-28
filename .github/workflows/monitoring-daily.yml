@@ -26,6 +26,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
       - name: Install deps
         run: pip install pyyaml requests beautifulsoup4 lxml 2>/dev/null || pip install pyyaml || true
       - name: Write GSC service account file
@@ -46,6 +49,9 @@ jobs:
       - name: Daily briefing (aggregate, no email)
         continue-on-error: true
         run: cd automation && python daily_briefing.py --no-email || true
+      - name: AdSense live-render check
+        continue-on-error: true
+        run: node scripts/check-adsense-live.mjs || true
       - name: Publish monitoring output
         if: always()
         uses: actions/upload-artifact@v4

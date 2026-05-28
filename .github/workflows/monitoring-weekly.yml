@@ -38,6 +38,17 @@ jobs:
         env:
           GSC_SERVICE_ACCOUNT_JSON: ${{ runner.temp }}/gsc-sa.json
         run: cd automation && python weekly_refresh.py || true
+      - name: Submit sitemap to GSC
+        continue-on-error: true
+        env:
+          GSC_SERVICE_ACCOUNT_JSON: ${{ runner.temp }}/gsc-sa.json
+        run: python scripts/submit-to-gsc.py || true
+      - name: Weekly traffic report
+        continue-on-error: true
+        env:
+          GSC_SERVICE_ACCOUNT_JSON: ${{ runner.temp }}/gsc-sa.json
+          BING_API_KEY: ${{ secrets.BING_API_KEY }}
+        run: python scripts/weekly-traffic-report.py || true
       - name: Publish audit output
         if: always()
         uses: actions/upload-artifact@v4
