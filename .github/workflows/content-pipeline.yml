@@ -1,0 +1,59 @@
+# Daily social-content pipeline — ports ECF-Daily-Content-Pipeline.
+# Generates Pinterest pin images + YouTube thumbnails + Shorts scripts for
+# recently published/modified articles (skips MP4 video — that's the weekly
+# video-batch). Commits growth-pipeline/, push triggers the Cloudflare deploy.
+name: Content Pipeline (daily, no video)
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # 06:00 UTC daily
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "max articles per run"
+        default: "30"
+
+concurrency:
+  group: content-pipeline
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.CONTENT_PUSH_TOKEN }}
+          persist-credentials: true
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install node deps (image-gen sub-tools)
+        run: npm ci || npm install || true
+      - name: Install python deps
+        run: pip install pillow requests 2>/dev/null || true
+      - name: Run content pipeline (no video)
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/daily-content-pipeline.py --days 7 --limit "${{ github.event.inputs.limit || '30' }}" --no-video
+      - name: Commit generated assets (rebase-safe)
+        shell: bash
+        run: |
+          git config user.email "chris.a.wyatt@gmail.com"
+          git config user.name "ECF Content Bot"
+          git add growth-pipeline/ 2>/dev/null || true
+          if git diff --cached --quiet; then echo "no new assets"; exit 0; fi
+          git commit -m "Daily auto-content: pins + thumbnails [cloud]"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            echo "push race, retry $i"; sleep $((RANDOM % 8 + 3))
+          done
+          echo "push failed"; exit 1
