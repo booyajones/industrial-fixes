@@ -50,3 +50,10 @@ For systems that do display code 19, the fault typically points to incorrect dev
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you are not familiar with communication bus architecture, device addressing, or multi-device troubleshooting. Communication faults in Carrier systems often require specialized diagnostic tools, knowledge of proprietary protocols, and access to model-specific configuration tables that are not published in homeowner manuals. A licensed tech can also verify that your system actually uses code 19 in the first place, because many Carrier platforms do not, and misinterpreting the fault can lead to unnecessary part replacements or unsafe wiring changes.
+
+## See Also
+
+- [Carrier Error Code 27 - Causes & Fix](/posts/carrier-error-code-27/)
+- [Carrier Error Code 56 — IFC Fault (Induced Draft Motor)](/posts/carrier-56-error-code/)
+- [Carrier 52 Error Code — Causes & Fix](/posts/carrier-52-error-code/)
+- [Carrier Furnace Error Codes — Complete Guide](/posts/carrier-furnace-error-codes/)

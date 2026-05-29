@@ -48,3 +48,10 @@ On inverter-equipped units, this fault protects the VFD power electronics from d
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with line voltage, if you lack a multimeter and the service manual for your exact model, or if the fault returns after you have verified correct supply voltage and repaired all wiring issues. VFD and inverter diagnostics require specialized knowledge and tools. Misdiagnosis can lead to expensive part replacements that do not solve the problem, and live electrical work carries serious shock and arc-flash hazards.
+
+## See Also
+
+- [Carrier 32 Error Code — Causes & Fix](/posts/carrier-32-error-code/)
+- [Carrier 33 Error Code — Causes & Fix](/posts/carrier-33-error-code/)
+- [Carrier Zone Controller Error Codes — Complete Guide](/posts/carrier-zone-controller-error-codes/)
+- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)

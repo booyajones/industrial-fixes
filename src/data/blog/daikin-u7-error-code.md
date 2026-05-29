@@ -49,3 +49,10 @@ Because Daikin assigns the same code to completely different faults depending on
 ## When to Call a Pro
 
 Call a professional if you are uncertain whether your system is Room Air or VRV, if you do not have access to the installation manual with wiring diagrams and switch-setting tables, or if the fault persists after verifying power, wiring, and settings. VRV systems require specialized tools and training to diagnose communication faults and address conflicts safely. PCB replacement on Room Air units also demands proper part identification and refrigerant-circuit safety procedures that most DIY users lack.
+
+## See Also
+
+- [Daikin U3 Error Code - Causes & Fix](/posts/daikin-u3-error-code/)
+- [Daikin E5 Error Code - Causes & Fix](/posts/daikin-e5-error-code/)
+- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
+- [Daikin UA Error Code — Mismatched Indoor/Outdoor Unit Fix](/posts/daikin-error-code-uA/)

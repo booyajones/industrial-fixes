@@ -47,3 +47,10 @@ Daikin's official fault chart lists U5 as a malfunction of transmission between 
 ## When to Call a Pro
 
 Call a licensed HVAC technician if the power cycle and wiring inspection do not clear the U5, or if you are not comfortable swapping control boards and remotes to isolate the fault. Communication faults require methodical substitution testing, and incorrect wiring or board installation can damage expensive components. A technician has the diagnostic tools and replacement parts to quickly identify whether the indoor PCB, the remote PCB, or a wiring issue is responsible.
+
+## See Also
+
+- [Daikin E3 Error Code — Causes & Fix](/posts/daikin-e3-error-code/)
+- [Daikin U2 Error Code — Causes & Fix](/posts/daikin-u2-error-code/)
+- [Daikin VRV / VRF U4 Error Code — Communication Fault Fix](/posts/daikin-vrv-vrf-u4-error-code/)
+- [Daikin E5 Error Code - Causes & Fix](/posts/daikin-e5-error-code/)

@@ -179,6 +179,126 @@
     "abb-acs580-a2b1-fault-code": {
       "topic": "ABB ACS580 A2B1 fault code",
       "date": "2026-05-28"
+    },
+    "abb-acs580-a2b3-fault-code": {
+      "topic": "ABB ACS580 A2B3 fault code",
+      "date": "2026-05-29"
+    },
+    "abb-acs580-a2b4-fault-code": {
+      "topic": "ABB ACS580 A2B4 fault code",
+      "date": "2026-05-29"
+    },
+    "abb-acs580-a0-fault-code": {
+      "topic": "ABB ACS580 A0 fault code",
+      "date": "2026-05-29"
+    },
+    "abb-acs580-a3d0-fault-code": {
+      "topic": "ABB ACS580 A3D0 fault code",
+      "date": "2026-05-29"
+    },
+    "abb-acs580-a5a0-fault-code": {
+      "topic": "ABB ACS580 A5A0 fault code",
+      "date": "2026-05-29"
+    },
+    "abb-acs580-a7ab-fault-code": {
+      "topic": "ABB ACS580 A7AB fault code",
+      "date": "2026-05-29"
+    },
+    "abb-acs580-a7ce-fault-code": {
+      "topic": "ABB ACS580 A7CE fault code",
+      "date": "2026-05-29"
+    },
+    "abb-acs580-a7ee-fault-code": {
+      "topic": "ABB ACS580 A7EE fault code",
+      "date": "2026-05-29"
+    },
+    "abb-acs580-fa81-fault-code": {
+      "topic": "ABB ACS580 FA81 fault code",
+      "date": "2026-05-29"
+    },
+    "abb-acs580-ff63-fault-code": {
+      "topic": "ABB ACS580 FF63 fault code",
+      "date": "2026-05-29"
+    },
+    "abb-acs550-ai1-loss-fault-code": {
+      "topic": "ABB ACS550 AI1 LOSS fault code",
+      "date": "2026-05-29"
+    },
+    "abb-acs550-ai2-loss-fault-code": {
+      "topic": "ABB ACS550 AI2 LOSS fault code",
+      "date": "2026-05-29"
+    },
+    "abb-acs550-efb-1-fault-code": {
+      "topic": "ABB ACS550 EFB 1 fault code",
+      "date": "2026-05-29"
+    },
+    "siemens-g120-f01000-fault-code": {
+      "topic": "Siemens G120 F01000 fault code",
+      "date": "2026-05-29"
+    },
+    "siemens-g120-f01001-fault-code": {
+      "topic": "Siemens G120 F01001 fault code",
+      "date": "2026-05-29"
+    },
+    "siemens-g120-f01015-fault-code": {
+      "topic": "Siemens G120 F01015 fault code",
+      "date": "2026-05-29"
+    },
+    "siemens-g120-f01018-fault-code": {
+      "topic": "Siemens G120 F01018 fault code",
+      "date": "2026-05-29"
+    },
+    "siemens-g120-a01028-fault-code": {
+      "topic": "Siemens G120 A01028 fault code",
+      "date": "2026-05-29"
+    },
+    "siemens-g120-f01033-fault-code": {
+      "topic": "Siemens G120 F01033 fault code",
+      "date": "2026-05-29"
+    },
+    "siemens-g120-f01034-fault-code": {
+      "topic": "Siemens G120 F01034 fault code",
+      "date": "2026-05-29"
+    },
+    "siemens-g120-f01040-fault-code": {
+      "topic": "Siemens G120 F01040 fault code",
+      "date": "2026-05-29"
+    },
+    "siemens-g120-f01044-fault-code": {
+      "topic": "Siemens G120 F01044 fault code",
+      "date": "2026-05-29"
+    },
+    "siemens-g120-f01105-fault-code": {
+      "topic": "Siemens G120 F01105 fault code",
+      "date": "2026-05-29"
+    },
+    "siemens-g120-f01122-fault-code": {
+      "topic": "Siemens G120 F01122 fault code",
+      "date": "2026-05-29"
+    },
+    "siemens-g120-f01205-fault-code": {
+      "topic": "Siemens G120 F01205 fault code",
+      "date": "2026-05-29"
+    },
+    "siemens-g120-f01250-fault-code": {
+      "topic": "Siemens G120 F01250 fault code",
+      "date": "2026-05-29"
+    },
+    "siemens-g120-a01590-fault-code": {
+      "topic": "Siemens G120 A01590 fault code",
+      "date": "2026-05-29"
+    },
+    "siemens-g120-f01600-fault-code": {
+      "topic": "Siemens G120 F01600 fault code",
+      "date": "2026-05-29"
+    },
+    "siemens-g120-f01625-fault-code": {
+      "topic": "Siemens G120 F01625 fault code",
+      "date": "2026-05-29"
+    },
+    "siemens-g120-f01650-fault-code": {
+      "topic": "Siemens G120 F01650 fault code",
+      "date": "2026-05-29"
     }
   }
 }

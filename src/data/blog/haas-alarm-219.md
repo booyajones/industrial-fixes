@@ -139,3 +139,9 @@ Call your Haas Factory Outlet when: drive replacement is required (most NGC driv
 <!-- INTERNAL-LINK-AUTO-2026-05-21 -->
 **Related:** [Best 4-20mA loop calibrator](/posts/best-loop-calibrator-for-vfd-techs/)
 
+## See Also
+
+- [Haas Alarm 132 — Servo Amplifier Fault Fix](/posts/haas-alarm-132/)
+- [Haas Alarm 105 E-Stop — Causes & Fix](/posts/haas-alarm-105/)
+- [Haas Alarm 102 — Servo Drive Fault Fix](/posts/haas-alarm-102/)
+- [Haas Alarm 118 — Spindle Orientation Fault Causes & Fix](/posts/haas-alarm-118/)

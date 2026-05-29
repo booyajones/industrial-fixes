@@ -124,3 +124,10 @@ A: On the S30 touchscreen, go to the main menu → Settings (gear icon) → Adva
 
 **Q: The XP25 shows code 180 (reversing valve fault) but the unit runs fine in one mode. Is it safe to keep running it?**
 A: Yes, temporarily. If the unit is stuck in cooling mode and it's winter, that's a problem. But if it's cooling correctly during summer and the fault appeared during a heating call that you don't need right now, you can run it in cooling mode safely while waiting for service. Don't ignore the fault, a reversing valve that partially sticks can cause refrigerant slugging and compressor damage over time.
+
+## See Also
+
+- [Lennox Error Code 332 — Causes & Fix](/posts/lennox-error-code-332/)
+- [Lennox Error Code 225 — Causes & Fix](/posts/lennox-error-code-225/)
+- [Lennox iComfort EFO Error Code — Excessive Flame Out and Common iComfort Faults](/posts/lennox-icomfort-error-codes/)
+- [Lennox Error Code 114 — Causes & Fix](/posts/lennox-error-code-114/)

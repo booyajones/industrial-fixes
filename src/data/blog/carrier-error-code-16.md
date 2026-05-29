@@ -49,3 +49,10 @@ This fault appears on Carrier communicating platforms including Infinity and rel
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with low-voltage control wiring, if you do not own a multimeter or Carrier service tool to test communication signals, or if replacing the indoor adapter board does not resolve code 16. Communicating Carrier systems require correct board pairing and sometimes software configuration that only a trained technician with manufacturer access can perform. If your unit is under warranty, professional diagnosis and documentation are usually required to avoid voiding coverage on expensive control boards.
+
+## See Also
+
+- [Carrier 41 Error Code — Blower Motor Fault Fix](/posts/carrier-41-error-code/)
+- [Carrier 24ACC6 Heat Pump Error Codes: Complete Diagnostic Guide](/posts/carrier-24acc6-heat-pump-error-codes/)
+- [Carrier 30XA Commercial Chiller Fault Codes — Common Faults and Fixes](/posts/carrier-commercial-chiller-fault/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)

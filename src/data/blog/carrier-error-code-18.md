@@ -47,3 +47,10 @@ Carrier uses different fault code sets across product lines, so a code number al
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you cannot locate the service manual or fault table for your model, if you are uncomfortable working with live electrical components, or if the sensor tests within specification but the fault persists. A pro has factory thermistor tables, the correct OEM sensor part numbers, and the tools to diagnose board-level input failures. If the system has refrigerant piping nearby or the repair requires opening sealed connections, professional service is required to handle refrigerant safely and legally.
+
+## See Also
+
+- [Carrier 44 Error Code — Causes & Fix](/posts/carrier-44-error-code/)
+- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
+- [Carrier 58CVA Furnace Error Codes — Fault Code Diagnostic Guide](/posts/carrier-58cva-error-codes/)
+- [Carrier Error Code 17 - Causes & Fix](/posts/carrier-error-code-17/)

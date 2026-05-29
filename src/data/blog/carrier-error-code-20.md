@@ -48,3 +48,10 @@ On most Carrier furnace control boards, error code 20 means the pressure switch 
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with gas appliances, if the venting system requires disassembly or major re-pitching, or if the fault persists after you have cleared drains and confirmed inducer operation. A technician has the combustion analyzers and manometers needed to verify draft pressure, measure gas valve operation safely, and diagnose intermittent control board faults. If the pressure switch tests good and the inducer runs correctly but the board still throws code 20, the problem may be in the board's pressure-switch input circuit and requires board-level diagnosis or replacement.
+
+## See Also
+
+- [Carrier 58CVA Furnace Error Codes — Fault Code Diagnostic Guide](/posts/carrier-58cva-error-codes/)
+- [Carrier Infinity Series 24ACC6 Error Codes — Fault Code Diagnostic Guide](/posts/carrier-infinity-24acc6-error-codes/)
+- [Carrier Mini-Split F0 Error Code — Low Refrigerant / Leakage Detection Fix](/posts/carrier-mini-split-f0-error-code/)
+- [Carrier Error Code 66 — Pressure Switch Fault](/posts/carrier-66-error-code/)

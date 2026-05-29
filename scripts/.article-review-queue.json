@@ -58,5 +58,11 @@
     "score": 3,
     "reason": "The research explicitly states 'eco31' cannot be verified as a real EcoSmart error code; the draft incorrectly treats ECO31 as a model number rather than acknowledging the code does not exist.",
     "date": "2026-05-27"
+  },
+  "siemens-g120-f01250-fault-code": {
+    "topic": "Siemens G120 F01250 fault code",
+    "score": 3,
+    "reason": "Research explicitly states F01250 is NOT confirmed in manufacturer documentation; publishing unverified fault code content violates technical accuracy standards.",
+    "date": "2026-05-29"
   }
 }
