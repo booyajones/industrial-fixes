@@ -1,62 +1,68 @@
-async function loadGoogleFont(
-  font: string,
-  text: string,
-  weight: number
-): Promise<ArrayBuffer> {
-  const API = `https://fonts.googleapis.com/css2?family=${font}:wght@${weight}&text=${encodeURIComponent(text)}`;
+import { readFileSync } from "node:fs";
+import { fileURLToPath } from "node:url";
+import { resolve } from "node:path";
 
-  const css = await (
-    await fetch(API, {
-      headers: {
-        "User-Agent":
-          "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; de-at) AppleWebKit/533.21.1 (KHTML, like Gecko) Version/5.0.5 Safari/533.21.1",
-      },
-    })
-  ).text();
+// Vendored IBM Plex Mono fonts (committed under src/assets/fonts) so OG-image
+// generation never touches the network at build time. This module used to
+// fetch the fonts from Google Fonts once per generated image, which timed out
+// on hosts with slow or flaky outbound and failed the whole build.
 
-  const resource = css.match(
-    /src: url\((.+?)\) format\('(opentype|truetype)'\)/
-  );
+const cache = new Map<string, Buffer>();
 
-  if (!resource) throw new Error("Failed to download dynamic font");
+function loadLocalFont(file: string): Buffer {
+  const cached = cache.get(file);
+  if (cached) return cached;
 
-  const res = await fetch(resource[1]);
+  // Primary path resolves against the project source tree, which is always
+  // present during `astro build`. The import.meta.url fallback covers builds
+  // that run from a non-standard working directory.
+  const candidates = [
+    resolve(process.cwd(), "src/assets/fonts", file),
+    fileURLToPath(new URL(`../assets/fonts/${file}`, import.meta.url)),
+  ];
 
-  if (!res.ok) {
-    throw new Error("Failed to download dynamic font. Status: " + res.status);
+  for (const path of candidates) {
+    try {
+      const data = readFileSync(path);
+      cache.set(file, data);
+      return data;
+    } catch {
+      // try the next candidate
+    }
   }
 
-  return res.arrayBuffer();
+  throw new Error(`Vendored font not found: ${file}`);
 }
 
+// Signature kept compatible with the previous network version. The text
+// argument is no longer needed (the full font is loaded) but callers still
+// pass it, so it is accepted and ignored.
 async function loadGoogleFonts(
-  text: string
+  _text?: string
 ): Promise<
-  Array<{ name: string; data: ArrayBuffer; weight: number; style: string }>
+  Array<{ name: string; data: Buffer; weight: number; style: string }>
 > {
   const fontsConfig = [
     {
       name: "IBM Plex Mono",
-      font: "IBM+Plex+Mono",
+      file: "IBMPlexMono-Regular.ttf",
       weight: 400,
       style: "normal",
     },
     {
       name: "IBM Plex Mono",
-      font: "IBM+Plex+Mono",
+      file: "IBMPlexMono-Bold.ttf",
       weight: 700,
       style: "bold",
     },
   ];
 
-  const fonts = await Promise.all(
-    fontsConfig.map(async ({ name, font, weight, style }) => {
-      const data = await loadGoogleFont(font, text, weight);
-      return { name, data, weight, style };
-    })
-  );
-
-  return fonts;
+  return fontsConfig.map(({ name, file, weight, style }) => ({
+    name,
+    data: loadLocalFont(file),
+    weight,
+    style,
+  }));
 }
 
 export default loadGoogleFonts;
