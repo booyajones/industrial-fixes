@@ -48,3 +48,10 @@ If you see code 29 on a different brand of condensing equipment (such as certain
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you cannot locate a fault-code table for your specific Carrier model, if the error persists after clearing the drain and verifying slope, or if you are not comfortable working with electrical connections and pressure switches. A technician has the service literature and diagnostic tools to identify the exact cause of code 29 on your unit and can test condensate sensors, measure flue pressures, and verify control-board operation. Professional help is also recommended if your unit requires a neutralizer kit installation or if the fault involves the heat exchanger or flue system.
+
+## See Also
+
+- [Carrier Infinity 24VNA6 Heat Pump Error Codes - Greenspeed Fault Reference](/posts/carrier-24vna6-error-codes/)
+- [Carrier 33 Error Code — Causes & Fix](/posts/carrier-33-error-code/)
+- [Carrier AC E3 Error Code: IPM Module Fault Diagnosis and Fix](/posts/carrier-e3-error-code/)
+- [Carrier Error Code 51 — Control Fault (Secondary)](/posts/carrier-51-error-code/)

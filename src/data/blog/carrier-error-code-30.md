@@ -48,3 +48,10 @@ Before you begin any repair, you must identify the exact model and serial number
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you cannot locate the fault-code table for your specific Carrier model, if the code reappears after replacing filters and cleaning sensors, or if you are not comfortable working with gas piping, high-voltage wiring, or control boards. A technician has the correct service literature, diagnostic tools, and replacement boards for your platform, and can measure flame-proving current, test communication signals, and verify refrigerant pressures or gas inlet pressure that homeowner tools cannot safely check. If your unit is still under warranty, professional diagnosis and repair are often required to maintain coverage.
+
+## See Also
+
+- [Carrier Chiller Fault Codes — Complete Troubleshooting Guide](/posts/carrier-chiller-fault-codes/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 58CVA Furnace Error Codes — Fault Code Diagnostic Guide](/posts/carrier-58cva-error-codes/)
+- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)

@@ -48,3 +48,10 @@ Based on Carrier troubleshooting patterns for similar fault codes, code 26 likel
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you cannot locate your model-specific troubleshooting guide or if the code persists after filter replacement and visual inspection. A technician has the correct Carrier service literature for your board, the tools to measure pressure switch operation and control voltages, and the training to safely diagnose inducer, venting, and control board faults. If you see repeated fault codes, smell gas, or hear unusual sounds from the blower or inducer, shut down the furnace and call for service immediately.
+
+## See Also
+
+- [Carrier 25 Error Code — Causes & Fix](/posts/carrier-25-error-code/)
+- [Carrier 48 Error Code — Induced Draft Motor Lockout](/posts/carrier-48-error-code/)
+- [Carrier Error Code 56 — IFC Fault (Induced Draft Motor)](/posts/carrier-56-error-code/)
+- [Carrier 21 Error Code — Gas Heating Lockout Fix](/posts/carrier-21-error-code/)

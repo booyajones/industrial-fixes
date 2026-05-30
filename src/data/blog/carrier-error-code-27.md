@@ -47,3 +47,10 @@ Before troubleshooting, confirm your exact model number and control type to dete
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are unsure which platform or fault definition applies to your unit, if the fault returns after a power cycle, or if you lack the tools to verify control voltage and configuration settings. Replacing a PCM requires matching the exact part number to your model and sometimes involves warranty registration or programming steps that need factory support. Configuration faults on communicating systems often require access to installer menus and pairing procedures that are not in the homeowner manual. A qualified technician can confirm the fault type, check all communication wiring, and replace or reprogram the control module correctly.
+
+## See Also
+
+- [Carrier E3 Error Code — Causes & Fix](/posts/carrier-error-code-e3/)
+- [Carrier AquaSnap Chiller Fault Codes — 30RB/30RQ Guide](/posts/carrier-aquasnap-fault-codes/)
+- [Carrier Zone Controller Error Codes — Complete Guide](/posts/carrier-zone-controller-error-codes/)
+- [Carrier 46 Error Code — Check IFC: Board Self-Diagnosis Fault](/posts/carrier-46-error-code/)

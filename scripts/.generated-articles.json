@@ -299,6 +299,126 @@
     "siemens-g120-f01650-fault-code": {
       "topic": "Siemens G120 F01650 fault code",
       "date": "2026-05-29"
+    },
+    "siemens-g120-f01659-fault-code": {
+      "topic": "Siemens G120 F01659 fault code",
+      "date": "2026-05-30"
+    },
+    "siemens-g120-f01662-fault-code": {
+      "topic": "Siemens G120 F01662 fault code",
+      "date": "2026-05-30"
+    },
+    "siemens-g120-f03505-fault-code": {
+      "topic": "Siemens G120 F03505 fault code",
+      "date": "2026-05-30"
+    },
+    "siemens-g120-a03520-fault-code": {
+      "topic": "Siemens G120 A03520 fault code",
+      "date": "2026-05-30"
+    },
+    "siemens-g120-a05000-fault-code": {
+      "topic": "Siemens G120 A05000 fault code",
+      "date": "2026-05-30"
+    },
+    "siemens-g120-a05001-fault-code": {
+      "topic": "Siemens G120 A05001 fault code",
+      "date": "2026-05-30"
+    },
+    "siemens-g120-a05002-fault-code": {
+      "topic": "Siemens G120 A05002 fault code",
+      "date": "2026-05-30"
+    },
+    "siemens-g120-a05004-fault-code": {
+      "topic": "Siemens G120 A05004 fault code",
+      "date": "2026-05-30"
+    },
+    "siemens-g120-a05006-fault-code": {
+      "topic": "Siemens G120 A05006 fault code",
+      "date": "2026-05-30"
+    },
+    "siemens-g120-f30002-fault-code": {
+      "topic": "Siemens G120 F30002 fault code",
+      "date": "2026-05-30"
+    },
+    "abb-acs580-b1-fault-code": {
+      "topic": "ABB ACS580 B1 fault code",
+      "date": "2026-05-30"
+    },
+    "abb-acs550-efb1-fault-code": {
+      "topic": "ABB ACS550 EFB1 fault code",
+      "date": "2026-05-30"
+    },
+    "abb-acs550-efb2-fault-code": {
+      "topic": "ABB ACS550 EFB2 fault code",
+      "date": "2026-05-30"
+    },
+    "abb-acs550-efb3-fault-code": {
+      "topic": "ABB ACS550 EFB3 fault code",
+      "date": "2026-05-30"
+    },
+    "siemens-g120-f01611-fault-code": {
+      "topic": "Siemens G120 F01611 fault code",
+      "date": "2026-05-30"
+    },
+    "siemens-micromaster-f0001-fault-code": {
+      "topic": "Siemens Micromaster F0001 fault code",
+      "date": "2026-05-30"
+    },
+    "siemens-micromaster-f0002-fault-code": {
+      "topic": "Siemens Micromaster F0002 fault code",
+      "date": "2026-05-30"
+    },
+    "siemens-micromaster-f0003-fault-code": {
+      "topic": "Siemens Micromaster F0003 fault code",
+      "date": "2026-05-30"
+    },
+    "siemens-micromaster-f0004-fault-code": {
+      "topic": "Siemens Micromaster F0004 fault code",
+      "date": "2026-05-30"
+    },
+    "siemens-micromaster-f0005-fault-code": {
+      "topic": "Siemens Micromaster F0005 fault code",
+      "date": "2026-05-30"
+    },
+    "siemens-micromaster-f0011-fault-code": {
+      "topic": "Siemens Micromaster F0011 fault code",
+      "date": "2026-05-30"
+    },
+    "siemens-micromaster-f0012-fault-code": {
+      "topic": "Siemens Micromaster F0012 fault code",
+      "date": "2026-05-30"
+    },
+    "siemens-micromaster-f0015-fault-code": {
+      "topic": "Siemens Micromaster F0015 fault code",
+      "date": "2026-05-30"
+    },
+    "siemens-micromaster-f0020-fault-code": {
+      "topic": "Siemens Micromaster F0020 fault code",
+      "date": "2026-05-30"
+    },
+    "siemens-micromaster-f0021-fault-code": {
+      "topic": "Siemens Micromaster F0021 fault code",
+      "date": "2026-05-30"
+    },
+    "siemens-micromaster-f0022-fault-code": {
+      "topic": "Siemens Micromaster F0022 fault code",
+      "date": "2026-05-30"
+    },
+    "siemens-micromaster-f0023-fault-code": {
+      "topic": "Siemens Micromaster F0023 fault code",
+      "date": "2026-05-30"
+    },
+    "siemens-micromaster-f0024-fault-code": {
+      "topic": "Siemens Micromaster F0024 fault code",
+      "date": "2026-05-30"
+    },
+    "siemens-micromaster-f0041-fault-code": {
+      "topic": "Siemens Micromaster F0041 fault code",
+      "date": "2026-05-30"
+    },
+    "siemens-micromaster-f0051-fault-code": {
+      "topic": "Siemens Micromaster F0051 fault code",
+      "date": "2026-05-30"
     }
   }
 }
