@@ -83,9 +83,18 @@ async function submitBatch(urls) {
 async function getQuota() {
     const url = `https://ssl.bing.com/webmaster/api.svc/json/GetUrlSubmissionQuota` +
                 `?siteUrl=${encodeURIComponent(SITE_URL)}&apikey=${API_KEY}`;
-    const r = await fetch(url);
-    const data = await r.json();
-    return data.d || {};
+    try {
+        const r = await fetch(url);
+        const text = await r.text();
+        return JSON.parse(text).d || {};
+    } catch (e) {
+        // Bing's Webmaster URL Submission API has been returning an HTML error
+        // page instead of JSON (auth/endpoint changes on Bing's side). IndexNow
+        // (scripts/indexnow-ping.mjs, run on every deploy) already covers Bing +
+        // Yandex, so this job is best-effort -> skip cleanly, do not fail the run.
+        console.warn(`[!] Bing quota API unavailable (non-JSON): ${e.message}`);
+        return null;
+    }
 }
 
 async function main() {
@@ -105,6 +114,10 @@ async function main() {
     }
 
     const quota = await getQuota();
+    if (quota === null) {
+        console.log("[i] Skipping Bing submission this run (API unavailable). IndexNow covers Bing on deploy.");
+        return;
+    }
     const dailyCap = Math.max(0, quota.DailyQuota || 50);
     console.log(`[i] Bing daily quota: ${dailyCap} (monthly: ${quota.MonthlyQuota || "?"})`);
     const todoToday = queue.slice(0, dailyCap);
