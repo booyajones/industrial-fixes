@@ -11,6 +11,7 @@ import ContractorCTA from "../components/ContractorCTA.astro";
 import { SITE } from "@/config";
 import BackToTopButton from "@/components/BackToTopButton.astro";
 import QuickAnswer from "@/components/QuickAnswer.astro";
+import AtAGlance from "@/components/AtAGlance.astro";
 import RelatedPosts from "@/components/RelatedPosts.astro";
 import EmailCapture from "../components/EmailCapture.astro";
 import AffiliateDisclosure from "@/components/AffiliateDisclosure.astro";
@@ -207,6 +208,11 @@ const nextPost =
         {readingMinutes} min read
       </span>
     </div>
+
+    <!-- At-a-glance triage strip: difficulty / time / tools, inferred from
+         tags. Sits between the meta row and the Quick Answer so a DIYer can
+         triage the repair before reading. -->
+    <AtAGlance {tags} />
 
     <!-- Quick Answer Box -->
     <QuickAnswer {description} {title} />

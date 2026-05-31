@@ -199,9 +199,29 @@ const structuredData = pubDatetime
     <!-- AdSense pub ID hardcoded after env-var path failed to reach Astro
          build despite being set in CF Pages config. TODO: investigate
          astro:env/client + CF Pages env injection. -->
-    <script is:inline async
-      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8658387753904693"
-      crossorigin="anonymous"></script>
+    <!-- Loaded on first idle (≤3s) instead of eagerly in <head>: the 230KB
+         AdSense payload was competing with the LCP element for bandwidth/CPU.
+         Auto-ads still fill once the library loads; any adsbygoogle.push()
+         calls queue on window.adsbygoogle until then. Reversible if ad
+         viewability/revenue regresses. -->
+    <script is:inline>
+      (function () {
+        var loadAds = function () {
+          if (window.__adsLoaded) return;
+          window.__adsLoaded = true;
+          var s = document.createElement('script');
+          s.async = true;
+          s.crossOrigin = 'anonymous';
+          s.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8658387753904693';
+          document.head.appendChild(s);
+        };
+        if ('requestIdleCallback' in window) {
+          requestIdleCallback(loadAds, { timeout: 3000 });
+        } else {
+          setTimeout(loadAds, 2500);
+        }
+      })();
+    </script>
 
     <!-- Google Analytics 4 — lazy-loaded after first idle so it doesn't
          block LCP. Activate by setting PUBLIC_GA4_MEASUREMENT_ID env var. -->
@@ -280,7 +300,7 @@ const structuredData = pubDatetime
       dashboard (Toolbox unlocked then) so direct Amazon Associates
       (tag=errorcodefixes-20) stays 100% commission.
     -->
-    <script type="text/javascript" src="https://s.skimresources.com/js/303448X1791493.skimlinks.js" is:inline></script>
+    <script type="text/javascript" src="https://s.skimresources.com/js/303448X1791493.skimlinks.js" async is:inline></script>
   </head>
   <body>
     <slot />

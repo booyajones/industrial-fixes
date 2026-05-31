@@ -1,0 +1,113 @@
+---
+import { getTriage } from "@/utils/triage";
+
+interface Props {
+  tags?: readonly string[];
+}
+
+const { tags } = Astro.props;
+const { difficulty, time, tools } = getTriage(tags);
+---
+
+<div class="at-a-glance" aria-label="At a glance: repair triage">
+  <div class="ataglance-item">
+    <svg
+      width="15"
+      height="15"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      stroke-width="2"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      aria-hidden="true"
+    >
+      <path d="M12 20V10" />
+      <path d="M18 20V4" />
+      <path d="M6 20v-4" />
+    </svg>
+    <span class="ataglance-label">Difficulty</span>
+    <span class="ataglance-value">{difficulty}</span>
+  </div>
+  <div class="ataglance-item">
+    <svg
+      width="15"
+      height="15"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      stroke-width="2"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      aria-hidden="true"
+    >
+      <circle cx="12" cy="12" r="10" />
+      <polyline points="12 6 12 12 16 14" />
+    </svg>
+    <span class="ataglance-label">Est. time</span>
+    <span class="ataglance-value">{time}</span>
+  </div>
+  <div class="ataglance-item">
+    <svg
+      width="15"
+      height="15"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      stroke-width="2"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      aria-hidden="true"
+    >
+      <path d="M14.7 6.3a4 4 0 0 0-5.4 5.4l-6 6a2 2 0 1 0 3 3l6-6a4 4 0 0 0 5.4-5.4l-2.6 2.6-2-2 2.6-2.6z" />
+    </svg>
+    <span class="ataglance-label">Tools</span>
+    <span class="ataglance-value">{tools}</span>
+  </div>
+</div>
+
+<style>
+  .at-a-glance {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem 1.5rem;
+    align-items: center;
+    padding: 0.7rem 1rem;
+    margin-bottom: 1.5rem;
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--accent);
+    border-radius: 6px;
+    background: color-mix(in srgb, var(--muted) 45%, transparent);
+    font-size: 0.8rem;
+  }
+  .ataglance-item {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    min-width: 0;
+  }
+  .ataglance-item svg {
+    flex: none;
+    color: var(--accent);
+  }
+  .ataglance-label {
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    font-size: 0.68rem;
+    font-weight: 600;
+    color: color-mix(in srgb, var(--foreground) 68%, transparent);
+  }
+  .ataglance-value {
+    font-weight: 600;
+    color: var(--foreground);
+  }
+  /* On narrow screens each item gets its own row so long tool lists stay
+     readable instead of crowding the difficulty/time chips. */
+  @media (max-width: 30rem) {
+    .at-a-glance {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.5rem;
+    }
+  }
+</style>
