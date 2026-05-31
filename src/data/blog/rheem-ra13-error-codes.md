@@ -55,7 +55,7 @@ The Rheem RA13 (and its Ruud counterpart, the RA13) is a 13–14 SEER single-sta
 | Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-rheem-ra13-error-codes&tag=errorcodefixes-20) \| 2-pole; inspect for pitting and carbon buildup |
 | High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-rheem-ra13-error-codes&tag=errorcodefixes-20) \| Spade terminals; replaces easily |
 | Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-rheem-ra13-error-codes&tag=errorcodefixes-20) \| 50 PSIG cutout for R-410A |
-| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-rheem-ra13-error-codes&tag=errorcodefixes-20) \| Check fuse first before ordering board |
+| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| Check fuse first before ordering board |
 | Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-rheem-ra13-error-codes&tag=errorcodefixes-20) \| Match RPM, HP, and shaft size |
 ## When to Call a Pro
 

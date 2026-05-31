@@ -39,7 +39,7 @@ F1 on a Midea mini split indicates a fault with the indoor ambient temperature s
 | Part | Notes |
 |------|-------|
 | Indoor ambient thermistor (NTC 10K) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-midea-mini-split-error-code-f1&k=Indoor+ambient+thermistor+%28NTC+10K%29&tag=errorcodefixes-20) \| Match to Midea model; generic 10K NTC thermistors often compatible |
-| Indoor control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-midea-mini-split-error-code-f1&tag=errorcodefixes-20) \| Replace only if thermistor and wiring test good |
+| Indoor control board | [Amazon](https://www.amazon.com/s?k=Indoor+control+board&tag=errorcodefixes-20) \| Replace only if thermistor and wiring test good |
 | Thermistor wiring harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-midea-mini-split-error-code-f1&k=Thermistor+wiring+harness&tag=errorcodefixes-20) \| Replace if wire insulation is damaged |
 ## When to Call a Pro
 

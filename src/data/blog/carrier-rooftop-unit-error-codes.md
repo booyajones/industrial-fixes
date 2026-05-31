@@ -77,8 +77,8 @@ Wash condenser coil with coil cleaner. Verify all condenser fans are rotating. C
 
 | Part | Notes |
 |---|---|
-| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-carrier-rooftop-unit-error-codes&tag=errorcodefixes-20) \| Measure µA before replacing |
-| Integrated control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-carrier-rooftop-unit-error-codes&tag=errorcodefixes-20) \| Model-specific — cross-reference by part number |
+| Flame sensor rod | [Amazon](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20) \| Measure µA before replacing |
+| Integrated control board | [Amazon](https://www.amazon.com/s?k=Integrated+control+board&tag=errorcodefixes-20) \| Model-specific — cross-reference by part number |
 | Limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-carrier-rooftop-unit-error-codes&tag=errorcodefixes-20) \| Match temperature rating exactly |
 | Inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-carrier-rooftop-unit-error-codes&tag=errorcodefixes-20) \| Check capacitor before condemning motor |
 | High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-rooftop-unit-error-codes&tag=errorcodefixes-20) \| Check setting: 410A = 590 psi, R-22 = 380 psi |

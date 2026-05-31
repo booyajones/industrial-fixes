@@ -1,6 +1,6 @@
 ---
 title: "Mitsubishi E3 Error Code — Indoor Fan Motor Fault Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2024-04-06T08:00:00Z
 modDatetime: 2024-04-06T08:00:00Z
 slug: mitsubishi-e3-error-code

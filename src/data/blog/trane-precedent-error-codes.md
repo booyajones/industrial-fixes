@@ -49,9 +49,9 @@ Three consecutive limit trips lock out the unit. The cause is almost always rest
 
 | Part | Notes |
 |------|-------|
-| UCM control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-trane-precedent-error-codes&tag=errorcodefixes-20) \| Match to unit model and refrigerant type |
+| UCM control board | [Amazon](https://www.amazon.com/s?k=UCM+control+board&tag=errorcodefixes-20) \| Match to unit model and refrigerant type |
 | SAT/OAT/RAT sensors | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-precedent-error-codes&k=SAT%2FOAT%2FRAT+sensors&tag=errorcodefixes-20) \| Thermistor type — check resistance vs. temp chart |
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-trane-precedent-error-codes&tag=errorcodefixes-20) \| Clean with emery cloth before condemning |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Clean with emery cloth before condemning |
 | Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-trane-precedent-error-codes&tag=errorcodefixes-20) \| Check ┬╡F value with capacitor meter |
 | Limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-trane-precedent-error-codes&tag=errorcodefixes-20) \| Match opening temperature rating |
 > **Pro tip:** Trane Precedent units require the correct UCM firmware for the refrigerant type (R-22 vs. R-410A). Swapping boards without matching firmware causes erratic fault codes.

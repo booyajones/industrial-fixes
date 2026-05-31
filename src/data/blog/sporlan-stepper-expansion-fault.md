@@ -17,7 +17,7 @@ tags:
 
 Sporlan SEI stepper valves are electronic expansion valves used with controllers from Emerson, Carel, Danfoss, and others. The valve itself does not usually display a fault code. The controller reports the fault based on valve position, superheat response, and motor current.
 
-| [Fault](https://www.amazon.com/s?ascsubtag=ecf-sporlan-stepper-expansion-fault&k=Fault&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| Fault | Meaning | Quick Fix |
 |------|---------|-----------|
 | [Valve Not Responding](https://www.amazon.com/s?ascsubtag=ecf-sporlan-stepper-expansion-fault&k=Valve+Not+Responding&tag=errorcodefixes-20) | Stepper motor not moving | Check coil, wiring, and controller output |
 | [Superheat High](https://www.amazon.com/s?ascsubtag=ecf-sporlan-stepper-expansion-fault&k=Superheat+High&tag=errorcodefixes-20) | Valve too closed or starved evaporator | Check refrigerant charge and valve movement |

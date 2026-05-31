@@ -1,6 +1,6 @@
 ---
 title: "Coleman Furnace 4 Flashes — Open High Limit Switch Fix (Also Goodman and Amana)"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2026-04-26T17:45:00Z
 featured: false
 draft: false

@@ -26,11 +26,11 @@ E1 appears on Crown Bimini (BIMINI), Aruba (ARUBA), and Sentinel (PHNTM) condens
 |---|---|
 | [No gas supply](https://www.amazon.com/s?ascsubtag=ecf-crown-boiler-error-code-e1&k=No+gas+supply&tag=errorcodefixes-20) | No click/no smell during startup |
 | [Failed igniter](https://www.amazon.com/s?ascsubtag=ecf-crown-boiler-error-code-e1&k=Failed+igniter&tag=errorcodefixes-20) | No spark or no glow (check through view port) |
-| [Failed flame sensor](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-crown-boiler-error-code-e1&tag=errorcodefixes-20) | Flame lights, then immediately shuts off |
+| [Failed flame sensor](https://www.amazon.com/s?k=Failed+flame+sensor&tag=errorcodefixes-20) | Flame lights, then immediately shuts off |
 | [Blocked condensate drain](https://www.amazon.com/s?ascsubtag=ecf-crown-boiler-error-code-e1&k=Blocked+condensate+drain&tag=errorcodefixes-20) | Boiler attempts ignition but draft fault intervenes |
 | [Low gas pressure](https://www.amazon.com/s?ascsubtag=ecf-crown-boiler-error-code-e1&k=Low+gas+pressure&tag=errorcodefixes-20) | Flame lights weakly, then drops out |
 | [Dirty burner](https://www.amazon.com/s?ascsubtag=ecf-crown-boiler-error-code-e1&k=Dirty+burner&tag=errorcodefixes-20) | Delayed ignition, weak flame signal |
-| [Control board failure](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-crown-boiler-error-code-e1&tag=errorcodefixes-20) | Random lockout with no clear cause |
+| [Control board failure](https://www.amazon.com/s?k=Control+board+failure&tag=errorcodefixes-20) | Random lockout with no clear cause |
 
 ## How to Reset E1 on Crown Boilers
 
@@ -81,10 +81,10 @@ Crown condensing boilers won't attempt ignition if the condensate drain is flood
 | Part | Cost |
 |---|---|
 | [Hot surface igniter](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-crown-boiler-error-code-e1&tag=errorcodefixes-20) | $30–80 |
-| [Flame sensor](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-crown-boiler-error-code-e1&tag=errorcodefixes-20) | $15–35 |
+| [Flame sensor](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) | $15–35 |
 | [Gas valve](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-crown-boiler-error-code-e1&tag=errorcodefixes-20) | $150–300 |
 | [Condensate trap (Crown OEM)](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-crown-boiler-error-code-e1&tag=errorcodefixes-20) | $20–40 |
-| [Control board](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-crown-boiler-error-code-e1&tag=errorcodefixes-20) | $200–500 |
+| [Control board](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) | $200–500 |
 
 ## Crown vs. Weil-McLain vs. Burnham E1
 

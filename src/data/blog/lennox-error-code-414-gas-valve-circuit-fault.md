@@ -1,6 +1,6 @@
 ---
 title: "Lennox Error Code 414 — Gas Valve Circuit Fault Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2024-03-15T08:00:00Z
 modDatetime: 2024-03-15T08:00:00Z
 slug: lennox-error-code-414-gas-valve-circuit-fault
@@ -51,7 +51,7 @@ Code 414 is stored in the furnace's fault history and displayed on the diagnosti
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|---------------|
 | Lennox Gas Valve | 1171688 | $140–$165 | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-lennox-error-code-414-gas-valve-circuit-fault&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=1171688&utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lennox-error-code-414-gas-valve-circuit-fault) |
-| Lennox SureLight Control Board | 51M33 | $220–$275 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-lennox-error-code-414-gas-valve-circuit-fault&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=51M33&utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lennox-error-code-414-gas-valve-circuit-fault) |
+| Lennox SureLight Control Board | 51M33 | $220–$275 | [Amazon](https://www.amazon.com/s?k=Lennox+SureLight+Control+Board&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=51M33&utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=lennox-error-code-414-gas-valve-circuit-fault) |
 | Wiring Harness (if burnt) | — | $40–$80 | [Lennox dealer](https://www.lennox.com/dealers) |
 
 ## When to Call a Professional

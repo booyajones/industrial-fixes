@@ -39,7 +39,7 @@ Carrier fault code 22 indicates a limit device lockout on a single-stage furnace
 | Air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-carrier-22-error-code&tag=errorcodefixes-20) \| Most common fix; replace first |
 | Blower run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-carrier-22-error-code&tag=errorcodefixes-20) \| Match µF and voltage exactly to OEM spec |
 | High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-carrier-22-error-code&tag=errorcodefixes-20) \| Verify OEM part number; temperature rating varies by model |
-| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-carrier-22-error-code&tag=errorcodefixes-20) \| Replace only if board relay is confirmed faulty |
+| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| Replace only if board relay is confirmed faulty |
 ## When to Call a Pro
 
 If the limit switch resets but opens again within one heating cycle and airflow is verified good, a cracked heat exchanger may be allowing combustion gases to recirculate. This is a carbon monoxide hazard — do not operate the furnace until a licensed technician inspects the heat exchanger.

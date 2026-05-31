@@ -1,6 +1,6 @@
 ---
 title: "Bosch Greentherm 9000/9800 Error Codes — Complete Fix Guide"
-author: "Industrial Error Code Fixes"
+author: "James Rutherford"
 pubDatetime: 2026-04-26T18:15:00Z
 modDatetime: 2026-04-26T18:15:00Z
 slug: bosch-greentherm-error-codes
@@ -123,7 +123,7 @@ This guide covers the four most common Greentherm fault codes and what to do whe
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|-------------|
-| Flame Sensor / Igniter Electrode | $30–$60 | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-bosch-greentherm-error-codes&tag=errorcodefixes-20) |
+| Flame Sensor / Igniter Electrode | $30–$60 | [Amazon](https://www.amazon.com/s?k=Flame+Sensor+%2F+Igniter+Electrode&tag=errorcodefixes-20) |
 | Fan Motor Assembly | $150–$280 | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-bosch-greentherm-error-codes&tag=errorcodefixes-20) |
 | Outlet Temperature Sensor (NTC) | $20–$45 | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-bosch-greentherm-error-codes&tag=errorcodefixes-20) |
 | Gas Valve | $180–$300 | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-bosch-greentherm-error-codes&tag=errorcodefixes-20) |

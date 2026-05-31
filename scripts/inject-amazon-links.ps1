@@ -1,8 +1,8 @@
 # Amazon Associates Affiliate Link Injection Script
-# Associate Tag: errorcodefixe-20
+# Associate Tag: errorcodefixes-20
 # Injects Amazon search links into "Parts Often Needed" tables across all posts
 
-$ASSOCIATE_TAG = "errorcodefixe-20"
+$ASSOCIATE_TAG = "errorcodefixes-20"
 $BLOG_DIR = "C:\Users\Administrator\.openclaw\workspace\industrial-fixes\src\data\blog"
 $files = Get-ChildItem $BLOG_DIR -Filter "*.md"
 $modified = 0

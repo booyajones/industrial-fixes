@@ -59,7 +59,7 @@ The XR95 uses a silicon nitride hot-surface igniter. Typical life is 5–10 year
 | Hot-surface igniter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-xr95-error-codes&k=Hot-surface+igniter&tag=errorcodefixes-20) \| Trane CNT05473 or OEM equivalent |
 | Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-trane-xr95-error-codes&tag=errorcodefixes-20) \| Trane CPT0048 or compatible |
 | Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-trane-xr95-error-codes&tag=errorcodefixes-20) \| 0.60"–0.80" WC, Trane model-specific |
-| IFC control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-trane-xr95-error-codes&tag=errorcodefixes-20) \| CNT05369 or match board label |
+| IFC control board | [Amazon](https://www.amazon.com/s?k=IFC+control+board&tag=errorcodefixes-20) \| CNT05369 or match board label |
 ## When to Call a Pro
 If 3-flash (high limit) or 2-flash codes repeat after cleaning the condensate trap and replacing the filter, a technician should inspect the secondary heat exchanger for scale buildup or damage. Chemical descaling of a plugged secondary coil is a service-level repair.
 

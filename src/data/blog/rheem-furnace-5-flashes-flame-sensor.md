@@ -1,6 +1,6 @@
 ---
 title: "Rheem Furnace 5 Flashes Error Code — Flame Sensor Fault Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2024-03-15T08:00:00Z
 modDatetime: 2024-03-15T08:00:00Z
 slug: rheem-furnace-5-flashes-flame-sensor
@@ -50,9 +50,9 @@ This is one of the most common furnace faults in the field. The flame sensor its
 
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|---------------|
-| Rheem OEM Flame Sensor | 42-24195-01 | $18–$25 | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-rheem-furnace-5-flashes-flame-sensor&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=42-24195-01&utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=rheem-furnace-5-flashes-flame-sensor) |
+| Rheem OEM Flame Sensor | 42-24195-01 | $18–$25 | [Amazon](https://www.amazon.com/s?k=Rheem+OEM+Flame+Sensor&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=42-24195-01&utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=rheem-furnace-5-flashes-flame-sensor) |
 | Hot Surface Igniter (HSI) | SP10266 | $35–$45 | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-rheem-furnace-5-flashes-flame-sensor&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=SP10266&utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=rheem-furnace-5-flashes-flame-sensor) |
-| Rheem Control Board (if board is bad) | 62-24268-82 | $150–$220 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-rheem-furnace-5-flashes-flame-sensor&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=62-24268-82&utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=rheem-furnace-5-flashes-flame-sensor) |
+| Rheem Control Board (if board is bad) | 62-24268-82 | $150–$220 | [Amazon](https://www.amazon.com/s?k=Rheem+Control+Board+%28if+board+is+bad%29&tag=errorcodefixes-20) \| [RepairClinic](https://www.repairclinic.com/Search/SearchResult?searchterm=62-24268-82&utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=rheem-furnace-5-flashes-flame-sensor) |
 
 ## When to Call a Professional
 

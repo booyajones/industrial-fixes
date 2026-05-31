@@ -1,6 +1,6 @@
 ---
 title: "Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker Error Codes — Full Fault Guide"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2026-04-24T22:00:00Z
 modDatetime: 2026-04-24T22:00:00Z
 slug: hoshizaki-c-101bah-error-codes

@@ -66,7 +66,7 @@ Lincoln Impinger conveyor belt problems are mechanical, not typically coded:
 | Type K thermocouple | [Amazon](https://www.amazon.com/dp/B00RJF4PYQ?ascsubtag=ecf-lincoln-foodservice-oven-fault&tag=errorcodefixes-20) \| Common wear item |
 | Igniter assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lincoln-foodservice-oven-fault&k=Igniter+assembly&tag=errorcodefixes-20) \| Replace if cracked or weak spark |
 | Conveyor belt | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lincoln-foodservice-oven-fault&k=Conveyor+belt&tag=errorcodefixes-20) \| Replace worn or broken links |
-| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-lincoln-foodservice-oven-fault&tag=errorcodefixes-20) \| Replace on E6 code |
+| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| Replace on E6 code |
 ## Jump to Fix
 
 - **E1/E4 sensor fault** → Check connector → Measure thermocouple resistance → Replace

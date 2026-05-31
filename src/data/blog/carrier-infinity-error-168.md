@@ -1,6 +1,6 @@
 ---
 title: "Carrier Infinity System Communication Error 168 — Wiring & Board Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2026-04-24T21:00:00Z
 modDatetime: 2026-04-24T21:00:00Z
 slug: carrier-infinity-error-168
@@ -53,10 +53,10 @@ This is specific to Carrier Infinity and Bryant Evolution communicating systems 
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|-------------|--------------|--------------|
 | Carrier Infinity IFC (58CVX/58MVC series) | HK42FZ034 | $250–$400 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-infinity-error-168&k=Carrier+Infinity+IFC+HK42FZ034&tag=errorcodefixes-20) \| Johnstone Supply |
-| Carrier Infinity IFC (58CTX/58MTA series) | HK42FZ018 | $200–$350 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-carrier-infinity-error-168&tag=errorcodefixes-20) \| RepairClinic |
+| Carrier Infinity IFC (58CTX/58MTA series) | HK42FZ018 | $200–$350 | [Amazon](https://www.amazon.com/s?k=Carrier+Infinity+IFC+%2858CTX%2F58MTA+series%29&tag=errorcodefixes-20) \| RepairClinic |
 | SAB communication cable (4-wire, 18 AWG, per foot) | — | $0.30–$0.60/ft | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-infinity-error-168&k=18+awg+4+conductor+thermostat+wire&tag=errorcodefixes-20) \| Home Depot |
 | Infinity Touch thermostat | TP-NAC01-A | $300–$450 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-infinity-error-168&k=Carrier+Infinity+Touch+thermostat+TP-NAC01-A&tag=errorcodefixes-20) \| Carrier dealer |
-| Outdoor unit control board (varies by model) | — | $200–$500 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-carrier-infinity-error-168&tag=errorcodefixes-20) \| Carrier dealer |
+| Outdoor unit control board (varies by model) | — | $200–$500 | [Amazon](https://www.amazon.com/s?k=Outdoor+unit+control+board+%28varies+by+model%29&tag=errorcodefixes-20) \| Carrier dealer |
 
 ## When to Call a Professional
 

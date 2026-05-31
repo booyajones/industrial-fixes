@@ -133,7 +133,7 @@ The igniter should begin glowing orange-hot within 20 seconds of the call for he
 |---|---|---|
 | Universal Silicon Nitride Igniter | Fits most post-2005 furnaces | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-furnace-igniter-replacement-guide&k=universal+silicon+nitride+furnace+igniter&tag=errorcodefixes-20) |
 | Silicon Carbide Igniter (120V/45W) | For older Lennox, Carrier, Trane | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-furnace-igniter-replacement-guide&k=silicon+carbide+furnace+igniter+45w&tag=errorcodefixes-20) |
-| Furnace Flame Sensor Rod | Often fails with same symptoms | [View on Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-furnace-igniter-replacement-guide&tag=errorcodefixes-20) |
+| Furnace Flame Sensor Rod | Often fails with same symptoms | [View on Amazon](https://www.amazon.com/s?k=Furnace+Flame+Sensor+Rod&tag=errorcodefixes-20) |
 | Digital Multimeter | For resistance and voltage testing | [View on Amazon](https://www.amazon.com/dp/B08ZJSN5X3?ascsubtag=ecf-furnace-igniter-replacement-guide&tag=errorcodefixes-20) |
 | Igniter Mounting Hardware Kit | If mounting screws are stripped | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-furnace-igniter-replacement-guide&k=furnace+igniter+mounting+bracket+screws&tag=errorcodefixes-20) |
 

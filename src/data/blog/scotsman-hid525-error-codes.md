@@ -15,7 +15,7 @@ tags:
 
 The Scotsman HID525 is a hotel ice dispenser that combines ice making, storage, and dispensing in one compact unit. It uses a Scotsman electronic controller that tracks water fill, freeze cycle, harvest cycle, and bin control faults. Most service issues relate to water quality, scaling, and dispensing obstructions.
 
-| [Code](https://www.amazon.com/s?ascsubtag=ecf-scotsman-hid525-error-codes&k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| Code | Meaning | Quick Fix |
 |------|---------|-----------|
 | [Fill fault](https://www.amazon.com/s?ascsubtag=ecf-scotsman-hid525-error-codes&k=Fill+fault&tag=errorcodefixes-20) | Water did not reach level | Check inlet valve and filter |
 | [Freeze fault](https://www.amazon.com/s?ascsubtag=ecf-scotsman-hid525-error-codes&k=Freeze+fault&tag=errorcodefixes-20) | Freeze cycle too long | Clean condenser; descale machine |

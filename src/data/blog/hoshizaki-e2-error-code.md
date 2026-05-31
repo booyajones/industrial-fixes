@@ -1,6 +1,6 @@
 ---
 title: "Hoshizaki E2 Error Code — Harvest Fault Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2024-04-15T08:00:00Z
 modDatetime: 2024-04-15T08:00:00Z
 slug: hoshizaki-e2-error-code

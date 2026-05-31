@@ -39,7 +39,7 @@ Carrier fault code 12 indicates the blower motor is running after the normal pos
 | Air filter (1" or 4" media) | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-carrier-12-error-code&tag=errorcodefixes-20) \| Replace first; most common fix |
 | High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-carrier-12-error-code&tag=errorcodefixes-20) \| Manual-reset or auto-reset depending on furnace model |
 | Blower run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-carrier-12-error-code&tag=errorcodefixes-20) \| Test before replacing; match µF and voltage rating exactly |
-| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-carrier-12-error-code&tag=errorcodefixes-20) \| Replace if blower relay is stuck; match Carrier part number |
+| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| Replace if blower relay is stuck; match Carrier part number |
 ## When to Call a Pro
 
 If the high-limit switch resets but trips again within minutes, suspect a cracked heat exchanger — a serious safety issue requiring a licensed HVAC technician to inspect and replace before the furnace is returned to service.

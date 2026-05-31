@@ -1,6 +1,6 @@
 ---
 title: "Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2024-04-05T08:00:00Z
 modDatetime: 2024-04-05T08:00:00Z
 slug: mitsubishi-e1-error-code

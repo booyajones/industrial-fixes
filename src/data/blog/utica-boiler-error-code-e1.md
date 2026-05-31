@@ -38,7 +38,7 @@ E1 on a Utica boiler (UB, UBCH, or Combi series) indicates an ignition failure l
 
 | Part | Notes |
 |------|-------|
-| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-utica-boiler-error-code-e1&tag=errorcodefixes-20) \| Utica/ECR OEM or universal replacement with matching tip geometry |
+| Flame sensor rod | [Amazon](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20) \| Utica/ECR OEM or universal replacement with matching tip geometry |
 | Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-utica-boiler-error-code-e1&tag=errorcodefixes-20) \| Match wattage and mounting style for the Utica model |
 | Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-utica-boiler-error-code-e1&tag=errorcodefixes-20) \| Replace only after confirming correct 24VAC input and no gas output |
 ## When to Call a Pro

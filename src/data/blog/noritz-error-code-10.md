@@ -38,7 +38,7 @@ Noritz error code 10 means abnormal combustion — the unit's flame sensor detec
 |------|-------|
 | Burner assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-noritz-error-code-10&k=Burner+assembly&tag=errorcodefixes-20) \| Replace if ports are physically damaged or permanently fouled |
 | Gas conversion kit (NG to LP or vice versa) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-noritz-error-code-10&k=Gas+conversion+kit+%28NG+to+LP+or+vice+versa%29&tag=errorcodefixes-20) \| Required if unit was converted and not properly configured |
-| Flame sensor / ionization rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-noritz-error-code-10&tag=errorcodefixes-20) \| Replace if sensor is cracked or heavily corroded |
+| Flame sensor / ionization rod | [Amazon](https://www.amazon.com/s?k=Flame+sensor+%2F+ionization+rod&tag=errorcodefixes-20) \| Replace if sensor is cracked or heavily corroded |
 ## When to Call a Pro
 
 Gas pressure measurement and burner combustion analysis require a licensed tech with a manometer and combustion analyzer. Persistent code 10 after cleaning the burner is a combustion efficiency issue that needs professional diagnosis.

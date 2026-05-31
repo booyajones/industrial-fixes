@@ -18,13 +18,13 @@ ECM (Electronically Commutated Motor) blower motors are used in most modern vari
 
 | [Flash Code](https://www.amazon.com/s?ascsubtag=ecf-ecm-blower-motor-error-codes&k=Flash+Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |------------|---------|-----------|
-| [1 flash](https://www.amazon.com/s?ascsubtag=ecf-ecm-blower-motor-error-codes&k=1+flash&tag=errorcodefixes-20) | Normal operation / standby | No fault — motor waiting for call |
-| [2 flashes](https://www.amazon.com/s?ascsubtag=ecf-ecm-blower-motor-error-codes&k=2+flashes&tag=errorcodefixes-20) | Low airflow / high static pressure | Check filter; open registers; clean coils |
-| [3 flashes](https://www.amazon.com/s?ascsubtag=ecf-ecm-blower-motor-error-codes&k=3+flashes&tag=errorcodefixes-20) | Control input out of range | Verify control board output signal (0–10V or PWM) |
-| [4 flashes](https://www.amazon.com/s?ascsubtag=ecf-ecm-blower-motor-error-codes&k=4+flashes&tag=errorcodefixes-20) | Internal module fault | Replace ECM module |
-| [5 flashes](https://www.amazon.com/s?ascsubtag=ecf-ecm-blower-motor-error-codes&k=5+flashes&tag=errorcodefixes-20) | Over-temperature — motor or module | Check for blocked airflow; allow cool-down |
-| [6 flashes](https://www.amazon.com/s?ascsubtag=ecf-ecm-blower-motor-error-codes&k=6+flashes&tag=errorcodefixes-20) | DC bus voltage fault | Check input voltage; verify 120/240VAC supply |
-| [7 flashes](https://www.amazon.com/s?ascsubtag=ecf-ecm-blower-motor-error-codes&k=7+flashes&tag=errorcodefixes-20) | Internal module memory fault | Replace ECM module |
+| 1 flash | Normal operation / standby | No fault — motor waiting for call |
+| 2 flashes | Low airflow / high static pressure | Check filter; open registers; clean coils |
+| 3 flashes | Control input out of range | Verify control board output signal (0–10V or PWM) |
+| 4 flashes | Internal module fault | Replace ECM module |
+| 5 flashes | Over-temperature — motor or module | Check for blocked airflow; allow cool-down |
+| 6 flashes | DC bus voltage fault | Check input voltage; verify 120/240VAC supply |
+| 7 flashes | Internal module memory fault | Replace ECM module |
 | [Rapid flash](https://www.amazon.com/s?ascsubtag=ecf-ecm-blower-motor-error-codes&k=Rapid+flash&tag=errorcodefixes-20) | Active fault — see blink count | Count individual blinks carefully |
 | [No flash](https://www.amazon.com/s?ascsubtag=ecf-ecm-blower-motor-error-codes&k=No+flash&tag=errorcodefixes-20) | No power to module | Check power supply; check fuse/breaker |
 | [Continuous on](https://www.amazon.com/s?ascsubtag=ecf-ecm-blower-motor-error-codes&k=Continuous+on&tag=errorcodefixes-20) | Module locked in fault | Cycle power to reset |

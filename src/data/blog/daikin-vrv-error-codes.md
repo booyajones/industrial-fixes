@@ -34,7 +34,7 @@ Codes appear on:
 
 ### U-Codes — System/Communication Faults
 
-| [Code](https://www.amazon.com/s?ascsubtag=ecf-daikin-vrv-error-codes&k=Code&tag=errorcodefixes-20) | Description | Common Cause |
+| Code | Description | Common Cause |
 |---|---|---|
 | U0 | Refrigerant shortage | Low refrigerant — leak in system |
 | U1 | Reverse phase / phase loss | Check 3-phase power supply |
@@ -50,7 +50,7 @@ Codes appear on:
 
 ### E-Codes — Heat Exchanger / Sensor Faults
 
-| [Code](https://www.amazon.com/s?ascsubtag=ecf-daikin-vrv-error-codes&k=Code&tag=errorcodefixes-20) | Description | Common Cause |
+| Code | Description | Common Cause |
 |---|---|---|
 | E1 | Outdoor unit PCB fault | Replace outdoor unit control board |
 | E3 | High-pressure lockout | Dirty coil, low airflow, overcharge |
@@ -62,7 +62,7 @@ Codes appear on:
 
 ### A-Codes — Indoor Unit Faults
 
-| [Code](https://www.amazon.com/s?ascsubtag=ecf-daikin-vrv-error-codes&k=Code&tag=errorcodefixes-20) | Description | Common Cause |
+| Code | Description | Common Cause |
 |---|---|---|
 | A0 | Protection device fault | Indoor unit safety device tripped |
 | A1 | Indoor unit PCB fault | Replace indoor control board |
@@ -73,7 +73,7 @@ Codes appear on:
 
 ### C-Codes — Sensor Faults
 
-| [Code](https://www.amazon.com/s?ascsubtag=ecf-daikin-vrv-error-codes&k=Code&tag=errorcodefixes-20) | Description | Common Cause |
+| Code | Description | Common Cause |
 |---|---|---|
 | C4 | Heat exchanger sensor fault | Outdoor liquid coil sensor |
 | C5 | Subcooling coil sensor fault | Check sensor resistance |
@@ -81,7 +81,7 @@ Codes appear on:
 
 ### F-Codes — System Protection
 
-| [Code](https://www.amazon.com/s?ascsubtag=ecf-daikin-vrv-error-codes&k=Code&tag=errorcodefixes-20) | Description | Common Cause |
+| Code | Description | Common Cause |
 |---|---|---|
 | F3 | Discharge temperature too high | Low refrigerant, TXV issue |
 | F6 | High-pressure control fault | Pressure protection activated |

@@ -40,8 +40,8 @@ On Carrier Infinity and Performance series communicating systems, the E1 error i
 | Part | Notes |
 |------|-------|
 | Infinity communicating thermostat | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-furnace-error-code-e1&k=Infinity+communicating+thermostat&tag=errorcodefixes-20) \| Bus master — replace first if wiring is good |
-| Indoor air handler/furnace control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-carrier-furnace-error-code-e1&tag=errorcodefixes-20) \| Match part number from unit data plate exactly |
-| Outdoor unit control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-carrier-furnace-error-code-e1&tag=errorcodefixes-20) \| If outdoor unit absent from system map after thermostat swap |
+| Indoor air handler/furnace control board | [Amazon](https://www.amazon.com/s?k=Indoor+air+handler%2Ffurnace+control+board&tag=errorcodefixes-20) \| Match part number from unit data plate exactly |
+| Outdoor unit control board | [Amazon](https://www.amazon.com/s?k=Outdoor+unit+control+board&tag=errorcodefixes-20) \| If outdoor unit absent from system map after thermostat swap |
 | Low-voltage thermostat wire (18/5 or 18/8) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-furnace-error-code-e1&k=Low-voltage+thermostat+wire+%2818%2F5+or+18%2F8%29&tag=errorcodefixes-20) \| Replace entire run if corroded or damaged |
 ## When to Call a Pro
 

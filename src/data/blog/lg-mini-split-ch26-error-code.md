@@ -69,7 +69,7 @@ The CT (current transformer) sensor is a small toroidal coil that clamps around 
 | Part | Notes |
 |---|---|
 | CT sensor (current transformer) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-mini-split-ch26-error-code&k=CT+sensor+%28current+transformer%29&tag=errorcodefixes-20) \| LG OEM part — match model number |
-| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-lg-mini-split-ch26-error-code&tag=errorcodefixes-20) \| Only replace after confirming sensor and wiring are good |
+| Outdoor PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB&tag=errorcodefixes-20) \| Only replace after confirming sensor and wiring are good |
 ## Reset Procedure
 
 1. Repair or replace the CT sensor

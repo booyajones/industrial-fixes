@@ -19,7 +19,7 @@ The **OC fault** on the Yaskawa A1000 high-performance vector drive means output
 
 ## A1000 OC Fault Variants
 
-| [Code](https://www.amazon.com/s?ascsubtag=ecf-yaskawa-a1000-fault-oc&k=Code&tag=errorcodefixes-20) | Phase | Description |
+| Code | Phase | Description |
 |---|---|---|
 | OCA | Acceleration | Overcurrent during speed ramp-up |
 | OCb | Deceleration | Overcurrent during speed ramp-down |

@@ -66,11 +66,11 @@ Fix: disconnect, clean terminals with electronic contact cleaner, apply dielectr
 | [Supply/return sensor (Ultra)](https://www.amazon.com/s?ascsubtag=ecf-weil-mclain-e05-error-code&k=Supply%2Freturn+sensor+%28Ultra%29&tag=errorcodefixes-20) | 383-500-332 | $30–60 |
 | [Sensor (Gold Plus)](https://www.amazon.com/s?ascsubtag=ecf-weil-mclain-e05-error-code&k=Sensor+%28Gold+Plus%29&tag=errorcodefixes-20) | 383-500-239 | $25–50 |
 | [Sensor immersion well](https://www.amazon.com/s?ascsubtag=ecf-weil-mclain-e05-error-code&k=Sensor+immersion+well&tag=errorcodefixes-20) | 381-334-234 | $15–30 |
-| [Control board (last resort)](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-weil-mclain-e05-error-code&tag=errorcodefixes-20) | Various | $200–500 |
+| [Control board (last resort)](https://www.amazon.com/s?k=Control+board+%28last+resort%29&tag=errorcodefixes-20) | Various | $200–500 |
 
 ## Related Weil-McLain Error Codes
 
-| [Code](https://www.amazon.com/s?ascsubtag=ecf-weil-mclain-e05-error-code&k=Code&tag=errorcodefixes-20) | Meaning |
+| Code | Meaning |
 |---|---|
 | E01 | High limit tripped |
 | E02 | Ignition failure |

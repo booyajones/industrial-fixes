@@ -66,7 +66,7 @@ This is the most expensive diagnosis. If the control board is energizing the ind
 | [Goodman Pressure Switch](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-goodman-furnace-2-flashes&tag=errorcodefixes-20) | Match exact pressure rating (WC value) from old switch label |
 | [Furnace Pressure Switch Hose](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-goodman-furnace-2-flashes&tag=errorcodefixes-20) | 1/4" or 3/8" ID vinyl; buy a foot or two |
 | [Condensate Drain Treatment](https://www.amazon.com/s?ascsubtag=ecf-goodman-furnace-2-flashes&k=condensate+drain+pan+treatment+tablets&tag=errorcodefixes-20) | Prevents algae-caused clogs |
-| [Goodman Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-goodman-furnace-2-flashes&tag=errorcodefixes-20) | Only if relay is confirmed stuck — verify model number |
+| [Goodman Control Board](https://www.amazon.com/s?k=Goodman+Control+Board&tag=errorcodefixes-20) | Only if relay is confirmed stuck — verify model number |
 | [Furnace Wire Harness](https://www.amazon.com/s?ascsubtag=ecf-goodman-furnace-2-flashes&k=furnace+wire+harness&tag=errorcodefixes-20) | For severe wiring damage; match model |
 
 ## When to Call a Technician

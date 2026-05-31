@@ -36,7 +36,7 @@ Five flashes on a York furnace LED means a flame sense fault — the furnace ign
 
 | Part | Notes |
 |------|-------|
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-york-5-flashes-error-code&tag=errorcodefixes-20) \| Match York OEM; universal versions also work |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Match York OEM; universal versions also work |
 | Sandpaper (400-grit) or steel wool | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-york-5-flashes-error-code&k=Sandpaper+%28400-grit%29+or+steel+wool&tag=errorcodefixes-20) \| For sensor cleaning |
 | Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-york-5-flashes-error-code&tag=errorcodefixes-20) \| Replace only after confirming correct voltage at valve terminals with no output |
 ## When to Call a Pro

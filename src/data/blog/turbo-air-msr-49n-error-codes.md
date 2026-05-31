@@ -1,6 +1,6 @@
 ---
 title: "Turbo Air MSR-49N Error Codes, Causes, and Fixes"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2026-04-24T22:20:00Z
 modDatetime: 2026-04-24T22:20:00Z
 slug: turbo-air-msr-49n-error-codes

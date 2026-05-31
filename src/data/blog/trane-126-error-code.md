@@ -1,6 +1,6 @@
 ---
 title: "Trane Error Code 126 — Ignition Lockout Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2024-03-12T08:00:00Z
 modDatetime: 2024-03-12T08:00:00Z
 slug: trane-126-error-code
@@ -52,9 +52,9 @@ Code 126 is most commonly seen on Trane XR80, XR95, and S9V2 series furnaces. Th
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|-------------|
 | Hot surface igniter | SEN00484 | $35–$50 | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-trane-126-error-code&tag=errorcodefixes-20) \| Repair Clinic / Amazon |
-| Flame sensor | SEN00106 | $18–$28 | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-trane-126-error-code&tag=errorcodefixes-20) \| Repair Clinic / Amazon |
+| Flame sensor | SEN00106 | $18–$28 | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Repair Clinic / Amazon |
 | Gas valve | SV9541Q8544 | $150–$220 | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-trane-126-error-code&tag=errorcodefixes-20) \| HVAC Distributors |
-| Control board (X-13) | CNT05015 | $180–$280 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-trane-126-error-code&tag=errorcodefixes-20) \| Repair Clinic |
+| Control board (X-13) | CNT05015 | $180–$280 | [Amazon](https://www.amazon.com/s?k=Control+board+%28X-13%29&tag=errorcodefixes-20) \| Repair Clinic |
 ## When to Call a Professional
 
 If replacing the igniter and cleaning the flame sensor doesn't resolve code 126 within two reset cycles, the furnace likely has a gas supply problem, a failed control board, or a venting/pressure issue that requires diagnostic equipment — specifically a manometer for gas pressure and a multimeter capable of microamp measurement for the flame signal. Gas valve replacement on a Trane furnace involves working with the gas supply line and requires a licensed technician in most states. If you smell gas at any point, stop work immediately, ventilate, and call your gas utility.

@@ -39,7 +39,7 @@ E1 on a Westinghouse furnace indicates a system lockout following a failed start
 | Part | Notes |
 |------|-------|
 | Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-westinghouse-furnace-e1-error-code&tag=errorcodefixes-20) \| Match Westinghouse/Nordyne model number for correct wattage |
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-westinghouse-furnace-e1-error-code&tag=errorcodefixes-20) \| Clean first; replace if cleaning does not resolve |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Clean first; replace if cleaning does not resolve |
 | Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-westinghouse-furnace-e1-error-code&tag=errorcodefixes-20) \| Match WC rating from original switch label |
 ## When to Call a Pro
 

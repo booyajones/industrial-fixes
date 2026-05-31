@@ -1,6 +1,6 @@
 ---
 title: "York 4 Flashes Error Code — Open Limit Device Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2024-03-31T08:00:00Z
 modDatetime: 2024-03-31T08:00:00Z
 slug: york-4-flashes-error-code

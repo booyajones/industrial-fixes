@@ -37,7 +37,7 @@ Nine flashes on a Trane furnace status LED indicates a **low or no flame signal*
 
 | Part | Notes |
 |------|-------|
-| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-trane-9-flashes-error-code&tag=errorcodefixes-20) \| Inexpensive universal or OEM; match length and mounting bracket style |
+| Flame sensor rod | [Amazon](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20) \| Inexpensive universal or OEM; match length and mounting bracket style |
 | Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-trane-9-flashes-error-code&tag=errorcodefixes-20) \| Silicon nitride (most Trane) — match voltage (120V) and resistance spec |
 | Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-trane-9-flashes-error-code&tag=errorcodefixes-20) \| Only if manifold pressure is confirmed low and regulator adjustment doesn't correct it |
 ## When to Call a Pro

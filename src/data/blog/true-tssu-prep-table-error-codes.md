@@ -1,6 +1,6 @@
 ---
 title: "True TSSU Prep Table Error Codes, Causes, and Fixes"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2026-04-24T22:10:00Z
 modDatetime: 2026-04-24T22:10:00Z
 slug: true-tssu-prep-table-error-codes

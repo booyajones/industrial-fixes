@@ -37,7 +37,7 @@ The Mitsubishi mini split **E9 error code** indicates a fault with the **outdoor
 | Part | Notes |
 |------|-------|
 | Outdoor discharge pipe thermistor (TH3) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-mini-split-e9-error-code&k=Outdoor+discharge+pipe+thermistor+%28TH3%29&tag=errorcodefixes-20) \| Verify OEM part number from model number; Mitsubishi thermistors are model-specific |
-| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-mitsubishi-mini-split-e9-error-code&tag=errorcodefixes-20) \| Replace if thermistor tests good but E9 persists after connector cleaning |
+| Outdoor PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB&tag=errorcodefixes-20) \| Replace if thermistor tests good but E9 persists after connector cleaning |
 | Electrical contact cleaner | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-mini-split-e9-error-code&k=Electrical+contact+cleaner&tag=errorcodefixes-20) \| Use on connector pins before replacing parts if corrosion is visible |
 ## When to Call a Pro
 

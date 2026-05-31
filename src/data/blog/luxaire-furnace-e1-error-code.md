@@ -40,10 +40,10 @@ Luxaire is a York-branded product line (both are owned by Johnson Controls/Bosch
 | Part | Notes |
 |------|-------|
 | Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-luxaire-furnace-e1-error-code&tag=errorcodefixes-20) \| Most common fix when prior fault was ignition — match voltage (80V or 120V) |
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-luxaire-furnace-e1-error-code&tag=errorcodefixes-20) \| Replace if ceramic is cracked; clean if just dirty |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Replace if ceramic is cracked; clean if just dirty |
 | Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-luxaire-furnace-e1-error-code&tag=errorcodefixes-20) \| Match setpoint from switch body |
 | Air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-luxaire-furnace-e1-error-code&tag=errorcodefixes-20) \| Replace if limit trips were caused by restricted airflow |
-| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-luxaire-furnace-e1-error-code&tag=errorcodefixes-20) \| Replace if E1 appears without prior fault history (board self-fault) |
+| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| Replace if E1 appears without prior fault history (board self-fault) |
 ## When to Call a Pro
 
 If E1 returns within one or two heat cycles after clearing, the root fault isn't fully resolved or there's a more complex issue (cracked heat exchanger, intermittent gas valve). A licensed HVAC technician can attach a service analyzer to the control board to read real-time fault data during the heating sequence, identifying the exact failure point without guessing.

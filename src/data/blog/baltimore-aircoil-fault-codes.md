@@ -17,7 +17,7 @@ tags:
 
 Baltimore Aircoil (BAC) cooling towers with electronic fan control panels or variable-frequency drives generate fault conditions based on motor, temperature, and water system monitoring.
 
-| [Fault](https://www.amazon.com/s?ascsubtag=ecf-baltimore-aircoil-fault-codes&k=Fault&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| Fault | Meaning | Quick Fix |
 |-------|---------|-----------|
 | [Fan Motor Overload](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-baltimore-aircoil-fault-codes&tag=errorcodefixes-20) | Fan motor current too high | Check motor current, bearings, and fan blades |
 | [High Water Temperature](https://www.amazon.com/s?ascsubtag=ecf-baltimore-aircoil-fault-codes&k=High+Water+Temperature&tag=errorcodefixes-20) | Leaving water temperature above setpoint | Check fan operation and heat load |

@@ -78,7 +78,7 @@ Always verify by checking the service manual for your specific model number.
 |---|---|
 | Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-mitsubishi-e7-error-code&tag=errorcodefixes-20) \| Match HP, RPM, shaft length, rotation direction |
 | Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-mitsubishi-e7-error-code&tag=errorcodefixes-20) \| Match µF and voltage — 370V or 440V |
-| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-mitsubishi-e7-error-code&tag=errorcodefixes-20) \| Only replace after confirming power supply issue |
+| Outdoor PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB&tag=errorcodefixes-20) \| Only replace after confirming power supply issue |
 ## Reset Procedure
 
 After repairing:

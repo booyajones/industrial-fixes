@@ -17,7 +17,7 @@ tags:
 
 Emerson and Alco Controls EEV systems pair a controller with a stepper valve to manage evaporator superheat. The controller, not the valve body, usually reports the fault. Common controllers include Emerson E2, Dixell, and OEM rack controllers.
 
-| [Fault](https://www.amazon.com/s?ascsubtag=ecf-emerson-alco-controls-eev-fault&k=Fault&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| Fault | Meaning | Quick Fix |
 |------|---------|-----------|
 | [Valve Error](https://www.amazon.com/s?ascsubtag=ecf-emerson-alco-controls-eev-fault&k=Valve+Error&tag=errorcodefixes-20) | EEV not moving as commanded | Check wiring, coil, and controller output |
 | [Superheat High](https://www.amazon.com/s?ascsubtag=ecf-emerson-alco-controls-eev-fault&k=Superheat+High&tag=errorcodefixes-20) | Evaporator starved | Check charge, drier, and valve movement |

@@ -59,7 +59,7 @@ The flame sensor is a small metal rod mounted in front of the burner. It verifie
 
 If cleaning does not work, the sensor itself may be worn out or the ceramic insulator may be cracked. Replace it.
 
-[Flame sensor replacement on Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-furnace-wont-ignite&tag=errorcodefixes-20)
+[Flame sensor replacement on Amazon](https://www.amazon.com/s?k=Flame+sensor+replacement&tag=errorcodefixes-20)
 
 ## 3. Gas Valve Not Opening
 
@@ -122,7 +122,7 @@ The control board is the brain of the furnace. It receives the thermostat signal
 
 **The fix:** Control board replacement requires matching the board to your furnace model exactly. Most boards have a model number printed directly on them. Board replacement is a straightforward swap: label all wire connections, remove the old board, install the new one, and reconnect.
 
-[Universal furnace control board on Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-furnace-wont-ignite&tag=errorcodefixes-20)
+[Universal furnace control board on Amazon](https://www.amazon.com/s?k=Universal+furnace+control+board&tag=errorcodefixes-20)
 
 ## 7. Blocked Condensate Drain Line
 
@@ -143,9 +143,9 @@ High-efficiency condensing furnaces produce acidic water as a byproduct of combu
 ## Parts You May Need
 
 - [Hot surface igniter](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-furnace-wont-ignite&tag=errorcodefixes-20)
-- [Flame sensor](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-furnace-wont-ignite&tag=errorcodefixes-20)
+- [Flame sensor](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20)
 - [Pressure switch](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-furnace-wont-ignite&tag=errorcodefixes-20)
-- [Furnace control board](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-furnace-wont-ignite&tag=errorcodefixes-20)
+- [Furnace control board](https://www.amazon.com/s?k=Furnace+control+board&tag=errorcodefixes-20)
 - [Condensate drain tablets](https://www.amazon.com/s?ascsubtag=ecf-furnace-wont-ignite&k=condensate+drain+cleaner+tablets&tag=errorcodefixes-20)
 - [Digital multimeter](https://www.amazon.com/dp/B08ZJSN5X3?ascsubtag=ecf-furnace-wont-ignite&tag=errorcodefixes-20)
 

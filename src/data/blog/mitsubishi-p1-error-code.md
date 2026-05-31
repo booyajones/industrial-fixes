@@ -1,6 +1,6 @@
 ---
 title: "Mitsubishi Mini Split P1 Error Code Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2024-03-06T08:00:00Z
 modDatetime: 2024-03-06T08:00:00Z
 slug: mitsubishi-p1-error-code

@@ -19,7 +19,7 @@ Fuji Frenic-Mini drives are compact and reliable, but their faults still fall in
 
 ## Common Fuji Faults
 
-| [Fault](https://www.amazon.com/s?ascsubtag=ecf-fuji-vfd-fault-codes&k=Fault&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| Fault | Meaning | Quick Fix |
 |---|---|---|
 | OC1 | Overcurrent during accel | Increase accel time, check load |
 | OC2 | Overcurrent during decel | Increase decel time |

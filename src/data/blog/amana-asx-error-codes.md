@@ -56,7 +56,7 @@ The Amana ASX series (ASX13, ASX14, ASX16) are residential central air condition
 | High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-amana-asx-error-codes&tag=errorcodefixes-20) \| Spade terminals; direct swap |
 | Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-amana-asx-error-codes&tag=errorcodefixes-20) \| 50 PSIG cutout for R-410A |
 | Ambient thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-asx-error-codes&k=Ambient+thermistor&tag=errorcodefixes-20) \| For Code 6; usually on a pigtail connector |
-| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-amana-asx-error-codes&tag=errorcodefixes-20) \| For Code 5; verify fuse and transformer first |
+| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| For Code 5; verify fuse and transformer first |
 ## When to Call a Pro
 
 Refrigerant service on the Amana ASX requires EPA 608 certification and proper manifold gauge equipment. Amana (Daikin/Goodman) offers a Lifetime Compressor Warranty on some ASX models for the original registered homeowner — check warranty status before authorizing a compressor replacement, as the part may be covered at no cost.

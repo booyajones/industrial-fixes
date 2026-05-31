@@ -1,6 +1,6 @@
 ---
 title: "York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2024-03-15T08:00:00Z
 modDatetime: 2024-03-15T08:00:00Z
 slug: york-6-flashes-pressure-switch-fault

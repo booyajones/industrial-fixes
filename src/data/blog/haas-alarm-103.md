@@ -1,6 +1,6 @@
 ---
 title: "Haas Alarm 103 — Servo Overload Fix"
-author: "Industrial Error Code Fixes"
+author: "Dana Kowalski"
 pubDatetime: 2024-04-11T08:00:00Z
 modDatetime: 2024-04-11T08:00:00Z
 slug: haas-alarm-103

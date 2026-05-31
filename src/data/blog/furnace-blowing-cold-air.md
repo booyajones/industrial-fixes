@@ -64,7 +64,7 @@ A dirty flame sensor is a top cause of cold air blowing from a furnace. The flam
 
 **The fix:** Turn off power and gas to the furnace. Remove the flame sensor (usually one screw, near the burner). Gently clean the metal rod with fine-grit sandpaper or steel wool until it shines. Reinstall it and restore power. This fixes the problem in 90% of cases.
 
-[Replacement flame sensor on Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-furnace-blowing-cold-air&tag=errorcodefixes-20)
+[Replacement flame sensor on Amazon](https://www.amazon.com/s?k=Replacement+flame+sensor&tag=errorcodefixes-20)
 
 ## 5. Faulty Gas Valve
 
@@ -113,7 +113,7 @@ A heavily clogged filter restricts airflow to the point that the heat exchanger 
 ## Parts You May Need
 
 - [Hot surface igniter kit](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-furnace-blowing-cold-air&tag=errorcodefixes-20)
-- [Flame sensor replacement](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-furnace-blowing-cold-air&tag=errorcodefixes-20)
+- [Flame sensor replacement](https://www.amazon.com/s?k=Flame+sensor+replacement&tag=errorcodefixes-20)
 - [Blower motor run capacitor](https://www.amazon.com/s?ascsubtag=ecf-furnace-blowing-cold-air&k=furnace+blower+capacitor&tag=errorcodefixes-20)
 - [Standard furnace air filters](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-furnace-blowing-cold-air&tag=errorcodefixes-20)
 - [Digital multimeter](https://www.amazon.com/dp/B08ZJSN5X3?ascsubtag=ecf-furnace-blowing-cold-air&tag=errorcodefixes-20)

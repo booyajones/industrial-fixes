@@ -93,11 +93,11 @@ The control board has detected an internal fault. Try cycling power at the disco
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
 | Hot surface igniter (York S1-02528326000) | Fixes Code 4-1 ignition failure | $25–$50 — [Search on Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-york-affinity-error-codes&tag=errorcodefixes-20) |
-| Flame sensor (universal 1/4" rod) | Fixes Code 4-2 flame sense fault | $10–$20 — [Search on Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-york-affinity-error-codes&tag=errorcodefixes-20) |
+| Flame sensor (universal 1/4" rod) | Fixes Code 4-2 flame sense fault | $10–$20 — [Search on Amazon](https://www.amazon.com/s?k=Flame+sensor+%28universal+1%2F4%22+rod%29&tag=errorcodefixes-20) |
 | Draft inducer motor (York S1-02435625000) | Fixes Code 3-3 inducer fault | $120–$280 — [Search on Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-york-affinity-error-codes&tag=errorcodefixes-20) |
 | Pressure switch (York S1-02528333000) | Fixes Code 2-1 when hose is clear | $20–$45 — [Search on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-york-affinity-error-codes&tag=errorcodefixes-20) |
 | High limit switch (York S1-02535710000) | Fixes Code 3-1 when limit is failed | $20–$40 — [Search on Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-york-affinity-error-codes&tag=errorcodefixes-20) |
-| Control board (York S1-33102956000) | Fixes Code 7-1 board fault | $150–$350 — [Search on Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-york-affinity-error-codes&tag=errorcodefixes-20) |
+| Control board (York S1-33102956000) | Fixes Code 7-1 board fault | $150–$350 — [Search on Amazon](https://www.amazon.com/s?k=Control+board+%28York+S1-33102956000%29&tag=errorcodefixes-20) |
 
 ## When to Call a Pro
 

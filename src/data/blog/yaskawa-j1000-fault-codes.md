@@ -1,6 +1,6 @@
 ---
 title: "Yaskawa J1000 Fault Codes — VFD Troubleshooting Guide"
-author: "Industrial Error Code Fixes"
+author: "Dana Kowalski"
 pubDatetime: 2026-04-26T18:15:00Z
 modDatetime: 2026-04-26T18:15:00Z
 slug: yaskawa-j1000-fault-codes

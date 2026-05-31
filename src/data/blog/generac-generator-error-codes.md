@@ -16,7 +16,7 @@ tags:
 
 Generac standby generators display alarm codes on the Evolution controller display. Alarms are classified as Warnings (generator continues to run) or Shutdowns (generator stops and requires reset). The controller also stores fault history for the last 50 events. Access fault history: Menu → View History.
 
-| [Code](https://www.amazon.com/s?ascsubtag=ecf-generac-generator-error-codes&k=Code&tag=errorcodefixes-20) | Type | Meaning | Quick Fix |
+| Code | Type | Meaning | Quick Fix |
 |------|------|---------|-----------|
 | [1100](https://www.amazon.com/s?ascsubtag=ecf-generac-generator-error-codes&k=1100&tag=errorcodefixes-20) | Warning | Low battery | Charge or replace battery |
 | [1200](https://www.amazon.com/s?ascsubtag=ecf-generac-generator-error-codes&k=1200&tag=errorcodefixes-20) | Warning | Low coolant | Add coolant; check for leaks |

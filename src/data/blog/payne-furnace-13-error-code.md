@@ -39,7 +39,7 @@ Payne is a Carrier-family brand and shares the same control board diagnostic cod
 | Air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-payne-furnace-13-error-code&tag=errorcodefixes-20) \| Replace first; most common fix on code 13 |
 | Blower run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-payne-furnace-13-error-code&tag=errorcodefixes-20) \| Match µF and voltage rating to OEM spec |
 | High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-payne-furnace-13-error-code&tag=errorcodefixes-20) \| Press reset first; replace only if contacts are open at room temp |
-| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-payne-furnace-13-error-code&tag=errorcodefixes-20) \| Replace if board relay faults are confirmed |
+| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| Replace if board relay faults are confirmed |
 ## When to Call a Pro
 
 Repeated limit trips after filter and airflow corrections point to a possible cracked heat exchanger. This is a carbon monoxide safety hazard — have a licensed HVAC technician perform a heat exchanger inspection before restoring the furnace to service.

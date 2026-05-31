@@ -1,6 +1,6 @@
 ---
 title: "Carrier 31 Error Code — Pressure Switch Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2024-03-04T08:00:00Z
 modDatetime: 2024-03-04T08:00:00Z
 slug: carrier-31-error-code

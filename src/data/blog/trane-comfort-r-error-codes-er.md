@@ -39,8 +39,8 @@ The ER code on a Trane ComfortR communicating system indicates a communication e
 | Part | Notes |
 |------|-------|
 | Communication wire (18 AWG, 4-conductor) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-comfort-r-error-codes-er&k=Communication+wire+%2818+AWG%2C+4-conductor%29&tag=errorcodefixes-20) \| Replace damaged runs; use shielded wire in high-interference environments |
-| Air handler control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-trane-comfort-r-error-codes-er&tag=errorcodefixes-20) \| Replace if communication module confirmed dead |
-| Outdoor unit control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-trane-comfort-r-error-codes-er&tag=errorcodefixes-20) \| Replace if isolation test confirms outdoor unit is generating the ER |
+| Air handler control board | [Amazon](https://www.amazon.com/s?k=Air+handler+control+board&tag=errorcodefixes-20) \| Replace if communication module confirmed dead |
+| Outdoor unit control board | [Amazon](https://www.amazon.com/s?k=Outdoor+unit+control+board&tag=errorcodefixes-20) \| Replace if isolation test confirms outdoor unit is generating the ER |
 | ComfortLink II thermostat | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-comfort-r-error-codes-er&k=ComfortLink+II+thermostat&tag=errorcodefixes-20) \| Replace if thermostat is source of bus failure |
 ## When to Call a Pro
 

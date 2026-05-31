@@ -16,7 +16,7 @@ tags:
 
 Lennox Healthy Climate is a family of air quality products including media air cleaners (HCF16), electronic air cleaners (HCX16, HCX20), HEPA filtration systems (HEPA-20), energy recovery ventilators (ERV-150, HRV-90), and UV germicidal lights (HCXUV). Error codes appear on the Lennox iComfort thermostat when these accessories are part of a communicating system, or on the unit's own indicator LEDs.
 
-| [Code](https://www.amazon.com/s?ascsubtag=ecf-lennox-healthy-climate-error-codes&k=Code&tag=errorcodefixes-20) | Product | Meaning | Quick Fix |
+| Code | Product | Meaning | Quick Fix |
 |------|---------|---------|-----------|
 | [2801](https://www.amazon.com/s?ascsubtag=ecf-lennox-healthy-climate-error-codes&k=2801&tag=errorcodefixes-20) | ERV/HRV | Defrost fault | Check defrost cycle settings; inspect core |
 | [2802](https://www.amazon.com/s?ascsubtag=ecf-lennox-healthy-climate-error-codes&k=2802&tag=errorcodefixes-20) | ERV/HRV | Bypass damper fault | Check bypass damper actuator |

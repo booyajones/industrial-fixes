@@ -37,7 +37,7 @@ The Comfortmaker E1 error code is a **system lockout** — the furnace has excee
 
 | Part | Notes |
 |------|-------|
-| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-comfortmaker-furnace-e1-error-code&tag=errorcodefixes-20) \| Address ignition lockouts first — easiest and cheapest fix |
+| Flame sensor rod | [Amazon](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20) \| Address ignition lockouts first — easiest and cheapest fix |
 | Air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-comfortmaker-furnace-e1-error-code&tag=errorcodefixes-20) \| For limit lockouts; replace and confirm blower operation |
 | Rollout switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-comfortmaker-furnace-e1-error-code&tag=errorcodefixes-20) \| Manual-reset thermal fuse; match temperature rating |
 ## When to Call a Pro

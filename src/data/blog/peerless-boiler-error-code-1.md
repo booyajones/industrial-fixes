@@ -38,10 +38,10 @@ Code 1 on a Peerless boiler (displayed on the Peerless IQ control or equivalent 
 
 | Part | Notes |
 |------|-------|
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-peerless-boiler-error-code-1&tag=errorcodefixes-20) \| OEM for Peerless model; clean before replacing |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| OEM for Peerless model; clean before replacing |
 | Spark electrode | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-peerless-boiler-error-code-1&k=Spark+electrode&tag=errorcodefixes-20) \| Match to burner assembly; check gap |
 | Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-peerless-boiler-error-code-1&tag=errorcodefixes-20) \| Replace only after control voltage and supply pressure confirmed |
-| Peerless IQ control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-peerless-boiler-error-code-1&tag=errorcodefixes-20) \| Replace if all field components test good and lockout persists |
+| Peerless IQ control board | [Amazon](https://www.amazon.com/s?k=Peerless+IQ+control+board&tag=errorcodefixes-20) \| Replace if all field components test good and lockout persists |
 ## When to Call a Pro
 
 If Code 1 returns after resetting and cleaning the flame sensor, call a licensed HVAC/boiler technician. Gas valve diagnosis, combustion analysis, and draft pressure measurement require specialized equipment and should not be performed by unqualified personnel.

@@ -1,6 +1,6 @@
 ---
 title: "Fanuc Alarm 300 — APC Alarm Fix (Absolute Encoder)"
-author: "Industrial Error Code Fixes"
+author: "Dana Kowalski"
 pubDatetime: 2024-03-10T08:00:00Z
 modDatetime: 2024-03-10T08:00:00Z
 slug: fanuc-alarm-300

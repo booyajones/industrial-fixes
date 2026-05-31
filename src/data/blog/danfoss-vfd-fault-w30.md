@@ -1,6 +1,6 @@
 ---
 title: "Danfoss VFD Fault W30 — Brake Resistor Overtemperature Fix"
-author: "Industrial Error Code Fixes"
+author: "Dana Kowalski"
 pubDatetime: 2024-04-14T08:00:00Z
 modDatetime: 2024-04-14T08:00:00Z
 slug: danfoss-vfd-fault-w30

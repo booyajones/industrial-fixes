@@ -52,7 +52,7 @@ The Lennox XC21 is a variable-capacity inverter heat pump that communicates with
 | Part | Notes |
 |------|-------|
 | iComfort thermostat (S30 or E30) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lennox-xc21-error-codes&k=iComfort+thermostat+%28S30+or+E30%29&tag=errorcodefixes-20) \| For persistent 411/434 after wiring confirmed |
-| Outdoor unit control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-lennox-xc21-error-codes&tag=errorcodefixes-20) \| For persistent 434 — must match XC21 model exactly |
+| Outdoor unit control board | [Amazon](https://www.amazon.com/s?k=Outdoor+unit+control+board&tag=errorcodefixes-20) \| For persistent 434 — must match XC21 model exactly |
 | Condenser fan motor + capacitor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-lennox-xc21-error-codes&tag=errorcodefixes-20) \| For Alert 223 with clean coil; test capacitor before motor |
 | Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-lennox-xc21-error-codes&tag=errorcodefixes-20) \| For persistent Alert 225 after confirming charge |
 | Discharge temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-lennox-xc21-error-codes&tag=errorcodefixes-20) \| For Alert 103 or persistent 327 with correct charge |

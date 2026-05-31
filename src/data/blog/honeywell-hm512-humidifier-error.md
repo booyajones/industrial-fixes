@@ -16,7 +16,7 @@ tags:
 
 The Honeywell HM512 TrueSTEAM is an electrode-type steam humidifier that heats water directly using electrical current through electrodes to generate steam. Error codes appear on the humidifier's LED display. The HM512 generates steam regardless of furnace operation, making it effective in any season.
 
-| [Code](https://www.amazon.com/s?ascsubtag=ecf-honeywell-hm512-humidifier-error&k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| Code | Meaning | Quick Fix |
 |------|---------|-----------|
 | E1 | High water temperature — thermal limit tripped | Allow cool-down; check steam hose |
 | E2 | Water not detected in reservoir | Check water supply; fill inlet; check float |

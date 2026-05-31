@@ -57,7 +57,7 @@ The Carrier 24ACC is a Comfort series central air conditioner (condensing unit o
 | Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-24acc-error-codes&tag=errorcodefixes-20) \| Replace if Code 3 persists with correct charge |
 | High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-24acc-error-codes&tag=errorcodefixes-20) \| Replace if Code 2 persists with clean coil |
 | Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-carrier-24acc-error-codes&tag=errorcodefixes-20) \| Check capacitor first before replacing |
-| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-carrier-24acc-error-codes&tag=errorcodefixes-20) \| For Code 5 or persistent unexplained faults |
+| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| For Code 5 or persistent unexplained faults |
 ## When to Call a Pro
 
 Refrigerant handling requires EPA 608 certification. Any Code 3 investigation that goes beyond switch testing requires manifold gauges and refrigerant recovery equipment. If the compressor is failing to start (buzzing but not running), compressor replacement on a 24ACC is a major repair — get a cost estimate vs. full system replacement.

@@ -69,7 +69,7 @@ After any repair, run a full heating and cooling cycle and verify no faults retu
 - [ComfortLink II thermostat replacement](https://www.amazon.com/s?ascsubtag=ecf-trane-error-79-xv20i&k=Trane+ComfortLink+II+thermostat&tag=errorcodefixes-20)
 - [4-wire thermostat communication cable](https://www.amazon.com/s?ascsubtag=ecf-trane-error-79-xv20i&k=4+wire+thermostat+communication+cable&tag=errorcodefixes-20)
 - [AA alkaline batteries](https://www.amazon.com/s?ascsubtag=ecf-trane-error-79-xv20i&k=AA+alkaline+batteries&tag=errorcodefixes-20)
-- [Trane heat pump control board](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-trane-error-79-xv20i&tag=errorcodefixes-20)
+- [Trane heat pump control board](https://www.amazon.com/s?k=Trane+heat+pump+control+board&tag=errorcodefixes-20)
 - [Non-contact voltage tester](https://www.amazon.com/s?ascsubtag=ecf-trane-error-79-xv20i&k=non+contact+voltage+tester+HVAC&tag=errorcodefixes-20)
 
 ## When to Call a Technician

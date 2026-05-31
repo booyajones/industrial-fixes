@@ -38,7 +38,7 @@ Daikin error code E9 means the compressor protection has activated — the outdo
 |------|-------|
 | Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-daikin-e9-error-code&tag=errorcodefixes-20) \| Test if fan doesn't spin freely; Daikin OEM motors preferred |
 | Refrigerant (410A or R-32 depending on model) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-e9-error-code&k=Refrigerant+%28410A+or+R-32+depending+on+model%29&tag=errorcodefixes-20) \| Requires licensed EPA 608-certified tech to add |
-| Outdoor PCB / inverter board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-daikin-e9-error-code&tag=errorcodefixes-20) \| If compressor is confirmed good but E9 persists, the inverter may be misreading current |
+| Outdoor PCB / inverter board | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB+%2F+inverter+board&tag=errorcodefixes-20) \| If compressor is confirmed good but E9 persists, the inverter may be misreading current |
 ## When to Call a Pro
 
 Refrigerant work requires an EPA 608 certification. If the coil is clean and E9 persists, compressor diagnosis and refrigerant handling must be done by a certified tech.

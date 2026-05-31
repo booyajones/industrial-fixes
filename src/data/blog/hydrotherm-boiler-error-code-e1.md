@@ -38,10 +38,10 @@ E1 on a Hydrotherm boiler indicates ignition failure. The boiler control attempt
 
 | Part | Notes |
 |------|-------|
-| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-hydrotherm-boiler-error-code-e1&tag=errorcodefixes-20) \| OEM or universal; clean before replacing |
+| Flame sensor rod | [Amazon](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20) \| OEM or universal; clean before replacing |
 | Spark electrode assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-hydrotherm-boiler-error-code-e1&k=Spark+electrode+assembly&tag=errorcodefixes-20) \| Check gap and insulator condition |
 | Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-hydrotherm-boiler-error-code-e1&tag=errorcodefixes-20) \| Replace only after voltage and gas supply confirmed |
-| Boiler control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-hydrotherm-boiler-error-code-e1&tag=errorcodefixes-20) \| Last resort if all components test normal |
+| Boiler control board | [Amazon](https://www.amazon.com/s?k=Boiler+control+board&tag=errorcodefixes-20) \| Last resort if all components test normal |
 ## When to Call a Pro
 
 Gas valve replacement and combustion air system diagnosis require a licensed technician. Repeated E1 faults without a clear cause should be investigated by a Hydrotherm-certified service technician to avoid gas accumulation hazards.

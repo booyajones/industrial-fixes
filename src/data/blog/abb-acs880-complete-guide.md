@@ -20,7 +20,7 @@ The ABB ACS880 is a high-performance industrial drive designed for demanding app
 
 ## ABB ACS880 Common Fault Codes
 
-| [Fault](https://www.amazon.com/s?ascsubtag=ecf-abb-acs880-complete-guide&k=Fault&tag=errorcodefixes-20) | Meaning |
+| Fault | Meaning |
 |-------|---------|
 | [2310](https://www.amazon.com/s?ascsubtag=ecf-abb-acs880-complete-guide&k=2310&tag=errorcodefixes-20) | Overcurrent — motor current exceeded limit |
 | [2321](https://www.amazon.com/s?ascsubtag=ecf-abb-acs880-complete-guide&k=2321&tag=errorcodefixes-20) | Earth fault (ground fault) |

@@ -61,11 +61,11 @@ The Carrier 58MVB is a variable-speed, multi-position gas furnace that uses an E
 
 | Part | Notes |
 |------|-------|
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-carrier-58mvb-error-codes&tag=errorcodefixes-20) \| Most common cause of Code 8; clean or replace |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Most common cause of Code 8; clean or replace |
 | Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-carrier-58mvb-error-codes&tag=errorcodefixes-20) \| For Code 11 or 14; confirm correct wattage for 58MVB |
 | Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-58mvb-error-codes&tag=errorcodefixes-20) \| For persistent Code 3 or 33 after drain is clear |
 | High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-carrier-58mvb-error-codes&tag=errorcodefixes-20) \| For persistent Code 4/31 with adequate airflow |
-| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-carrier-58mvb-error-codes&tag=errorcodefixes-20) \| For Code 45 or board damage; match to furnace serial |
+| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| For Code 45 or board damage; match to furnace serial |
 | Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-carrier-58mvb-error-codes&tag=errorcodefixes-20) \| Replace if cracked or plugged; specific to 58MVB design |
 ## When to Call a Pro
 

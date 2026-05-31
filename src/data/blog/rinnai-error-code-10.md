@@ -1,6 +1,6 @@
 ---
 title: "Rinnai Error Code 10 — Condensate / Exhaust Blockage / Fan Motor Fault Fix"
-author: "Industrial Error Code Fixes"
+author: "James Rutherford"
 pubDatetime: 2026-04-26T18:15:00Z
 modDatetime: 2026-04-26T18:15:00Z
 slug: rinnai-error-code-10

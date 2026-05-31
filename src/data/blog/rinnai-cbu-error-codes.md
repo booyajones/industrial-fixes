@@ -70,7 +70,7 @@ The Rinnai CBU (CBU199iN, CBU199eN) is a condensing combination boiler providing
 | Expansion tank | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-cbu-error-codes&k=Expansion+tank&tag=errorcodefixes-20) \| For Code 81; check pre-charge before replacing |
 | Heating pump (circulator) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-cbu-error-codes&k=Heating+pump+%28circulator%29&tag=errorcodefixes-20) \| For Code 61; bleed airlock first |
 | Condensate drain trap | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-cbu-error-codes&k=Condensate+drain+trap&tag=errorcodefixes-20) \| Replace if cracked or blocked |
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-rinnai-cbu-error-codes&tag=errorcodefixes-20) \| For Code 72; clean first |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| For Code 72; clean first |
 | Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-rinnai-cbu-error-codes&tag=errorcodefixes-20) \| For Code 71; confirm 24V signal first |
 ## When to Call a Pro
 

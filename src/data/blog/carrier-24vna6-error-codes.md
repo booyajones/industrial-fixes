@@ -107,7 +107,7 @@ These three codes come up most often on the 24VNA6 because they relate to the co
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
 | [Carrier Outdoor Sensor HH79NZ074](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-carrier-24vna6-error-codes&tag=errorcodefixes-20) | Ambient and coil sensor replacement for codes 41, 42; 10k NTC thermistor | $20–$45 |
-| [Carrier 24VNA6 Outdoor Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-carrier-24vna6-error-codes&tag=errorcodefixes-20) | Required for EEV driver failure (code 178) or control board fault (code 200) | $250–$550 |
+| [Carrier 24VNA6 Outdoor Control Board](https://www.amazon.com/s?k=Carrier+24VNA6+Outdoor+Control+Board&tag=errorcodefixes-20) | Required for EEV driver failure (code 178) or control board fault (code 200) | $250–$550 |
 | [Carrier Infinity Touch Thermostat](https://www.amazon.com/s?ascsubtag=ecf-carrier-24vna6-error-codes&k=Carrier+Infinity+Touch+thermostat&tag=errorcodefixes-20) | Required for full Infinity fault code display on the 24VNA6 | $200–$400 |
 | [High Pressure Switch Carrier Heat Pump](https://www.amazon.com/dp/B013IHQ8CU?ascsubtag=ecf-carrier-24vna6-error-codes&tag=errorcodefixes-20) | Replace if code 24 persists with normal refrigerant pressures | $25–$60 |
 | [Reversing Valve Solenoid Coil 24V](https://www.amazon.com/s?ascsubtag=ecf-carrier-24vna6-error-codes&k=reversing+valve+solenoid+coil+24V+heat+pump&tag=errorcodefixes-20) | Required when code 63 trips with confirmed 24V at solenoid terminals | $20–$45 |

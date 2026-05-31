@@ -1,6 +1,6 @@
 ---
 title: "Daikin H6 Error Code — Indoor Fan Motor Lock Fault Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2026-04-26T18:15:00Z
 modDatetime: 2026-04-26T18:15:00Z
 slug: daikin-h6-error-code
@@ -57,7 +57,7 @@ This code applies to Daikin's wall-mount, floor console, ceiling cassette, and d
 |------|-------------|-------------|
 | Daikin Indoor Fan Motor (BLDC or AC) | $100–$250 | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-daikin-h6-error-code&tag=errorcodefixes-20) |
 | Run Capacitor (fan motor, various uF) | $8–$25 | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-daikin-h6-error-code&tag=errorcodefixes-20) |
-| Daikin Indoor Control Board (PCB) | $120–$350 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-daikin-h6-error-code&tag=errorcodefixes-20) |
+| Daikin Indoor Control Board (PCB) | $120–$350 | [Amazon](https://www.amazon.com/s?k=Daikin+Indoor+Control+Board+%28PCB%29&tag=errorcodefixes-20) |
 | Capacitance Meter / Multimeter | $20–$60 | [Amazon](https://www.amazon.com/dp/B08ZJSN5X3?ascsubtag=ecf-daikin-h6-error-code&tag=errorcodefixes-20) |
 
 ## When to Call a Technician

@@ -71,7 +71,7 @@ Heat pumps routinely switch to cooling mode for a few minutes to defrost the out
 
 **The fix:** If the outdoor unit is steaming and the indoor air is cool, wait 15 minutes before investigating further. If the system does not come out of defrost, the defrost control board, defrost thermostat, or outdoor fan motor may be faulty.
 
-[Defrost control board on Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-heat-pump-not-heating&tag=errorcodefixes-20)
+[Defrost control board on Amazon](https://www.amazon.com/s?k=Defrost+control+board&tag=errorcodefixes-20)
 
 ## 5. Low Refrigerant Charge
 
@@ -107,7 +107,7 @@ If the outdoor coil is heavily iced over, heat transfer essentially stops. The h
 
 ## Parts You May Need
 
-- [Defrost control board](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-heat-pump-not-heating&tag=errorcodefixes-20)
+- [Defrost control board](https://www.amazon.com/s?k=Defrost+control+board&tag=errorcodefixes-20)
 - [Reversing valve solenoid coil](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-not-heating&k=reversing+valve+solenoid+coil&tag=errorcodefixes-20)
 - [Outdoor unit coil cleaner](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-not-heating&k=coil+cleaner+spray&tag=errorcodefixes-20)
 - [Thermostat batteries](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-not-heating&k=thermostat+batteries&tag=errorcodefixes-20)

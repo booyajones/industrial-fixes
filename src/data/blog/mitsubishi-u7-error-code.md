@@ -81,7 +81,7 @@ Check the exact definition in your model's service manual. Both codes indicate a
 |---|---|
 | Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-mitsubishi-u7-error-code&tag=errorcodefixes-20) \| Match HP, RPM, blade pitch, and rotation |
 | Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-mitsubishi-u7-error-code&tag=errorcodefixes-20) \| Match µF and voltage rating exactly |
-| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-mitsubishi-u7-error-code&tag=errorcodefixes-20) \| Model-specific — match firmware revision if applicable |
+| Outdoor PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB&tag=errorcodefixes-20) \| Model-specific — match firmware revision if applicable |
 ## Reset Procedure
 
 1. Correct the identified fault

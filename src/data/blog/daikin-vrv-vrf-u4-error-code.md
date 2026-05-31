@@ -1,6 +1,6 @@
 ---
 title: "Daikin VRV / VRF U4 Error Code — Communication Fault Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2024-03-19T08:00:00Z
 modDatetime: 2024-03-19T08:00:00Z
 slug: daikin-vrv-vrf-u4-error-code

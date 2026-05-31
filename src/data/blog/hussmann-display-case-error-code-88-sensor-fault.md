@@ -1,6 +1,6 @@
 ---
 title: "Hussmann Refrigeration Display Case Error Code 88 — Sensor Fault Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2024-03-15T08:00:00Z
 modDatetime: 2024-03-15T08:00:00Z
 slug: hussmann-display-case-error-code-88-sensor-fault

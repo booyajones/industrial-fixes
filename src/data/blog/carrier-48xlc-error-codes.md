@@ -59,7 +59,7 @@ The Carrier 48XLC is a light commercial single-package gas/electric rooftop unit
 | Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-carrier-48xlc-error-codes&tag=errorcodefixes-20) \| Match existing HP, RPM, and shaft diameter |
 | Supply air sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-48xlc-error-codes&k=Supply+air+sensor&tag=errorcodefixes-20) \| NTC thermistor; causes Code 8 or freeze lockout |
 | High-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-48xlc-error-codes&tag=errorcodefixes-20) \| Spade terminal; 610 PSIG for R-410A |
-| WeatherMaker control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-carrier-48xlc-error-codes&tag=errorcodefixes-20) \| For Code 10; verify fuses first |
+| WeatherMaker control board | [Amazon](https://www.amazon.com/s?k=WeatherMaker+control+board&tag=errorcodefixes-20) \| For Code 10; verify fuses first |
 | Compressor contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-carrier-48xlc-error-codes&tag=errorcodefixes-20) \| Check contact gap and coil resistance |
 ## When to Call a Pro
 

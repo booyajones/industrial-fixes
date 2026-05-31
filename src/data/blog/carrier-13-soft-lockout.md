@@ -56,7 +56,7 @@ The limit switch opens when the furnace heat exchanger overheats. Common trigger
 | Air filter (MERV 8–11) | Primary fix | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-carrier-13-soft-lockout&tag=errorcodefixes-20) \| $10–25 |
 | Limit switch | If switch fails open | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-carrier-13-soft-lockout&tag=errorcodefixes-20) \| $20–50 |
 | Blower motor | If not running properly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-13-soft-lockout&k=Blower+motor&tag=errorcodefixes-20) \| $150–400 |
-| IFC board | If it keeps locking out incorrectly | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-carrier-13-soft-lockout&tag=errorcodefixes-20) \| $100–300 |
+| IFC board | If it keeps locking out incorrectly | [Amazon](https://www.amazon.com/s?k=IFC+board&tag=errorcodefixes-20) \| $100–300 |
 ## When to Call a Pro
 
 If code 13 clears but returns within one heating cycle, you have an airflow problem deeper than a dirty filter. A tech needs to measure static pressure. If you see code 13 followed by code 31, the system has progressed to hard lockout — stop running it and get it inspected for a cracked heat exchanger.

@@ -65,7 +65,7 @@ Test the run capacitor (match µF rating). Check for debris binding the blower w
 
 | Part | Notes |
 |------|-------|
-| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-trane-xr80-error-codes&tag=errorcodefixes-20) \| Most codes 7 and 8 start with the sensor |
+| Flame sensor rod | [Amazon](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20) \| Most codes 7 and 8 start with the sensor |
 | Blower run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-trane-xr80-error-codes&tag=errorcodefixes-20) \| Code 9; match µF and voltage on the capacitor label |
 | Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-trane-xr80-error-codes&tag=errorcodefixes-20) \| Code 8; silicon carbide, 120V |
 | Draft pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-trane-xr80-error-codes&tag=errorcodefixes-20) \| Codes 2 and 3 |

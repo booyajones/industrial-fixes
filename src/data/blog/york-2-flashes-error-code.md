@@ -39,7 +39,7 @@ Two flashes on a York furnace diagnostic LED indicates the pressure switch is st
 | Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-york-2-flashes-error-code&tag=errorcodefixes-20) \| Match York/Johnson Controls part number exactly |
 | Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?ascsubtag=ecf-york-2-flashes-error-code&tag=errorcodefixes-20) \| 1/4" ID; replace if water-logged or cracked |
 | Condensate trap kit | [Amazon](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-york-2-flashes-error-code&tag=errorcodefixes-20) \| Required if condensate is backing up |
-| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-york-2-flashes-error-code&tag=errorcodefixes-20) \| Replace only if relay is confirmed stuck |
+| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| Replace only if relay is confirmed stuck |
 ## When to Call a Pro
 
 If water contamination is recurring, the condensate drainage system needs a thorough inspection by a licensed HVAC technician to prevent repeated lockouts and potential heat exchanger corrosion.

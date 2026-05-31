@@ -52,7 +52,7 @@ The Series 7 monitors loop flow via a differential pressure switch. Check loop p
 
 | Part | Notes |
 |------|-------|
-| Aurora Base Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-waterfurnace-series-7-error-codes&tag=errorcodefixes-20) \| ABC — match to unit model and software version |
+| Aurora Base Control board | [Amazon](https://www.amazon.com/s?k=Aurora+Base+Control+board&tag=errorcodefixes-20) \| ABC — match to unit model and software version |
 | IntelliZone2 thermostat | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-waterfurnace-series-7-error-codes&k=IntelliZone2+thermostat&tag=errorcodefixes-20) \| Communication interface for fault codes |
 | Loop pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-waterfurnace-series-7-error-codes&k=Loop+pump&tag=errorcodefixes-20) \| Verify GPM meets unit minimum |
 | TXV | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-waterfurnace-series-7-error-codes&k=TXV&tag=errorcodefixes-20) \| Match refrigerant and tonnage |

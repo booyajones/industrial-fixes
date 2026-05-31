@@ -1,6 +1,6 @@
 ---
 title: "Fanuc P/S Alarm — Program and Syntax Error Codes Fix Guide"
-author: "Industrial Error Code Fixes"
+author: "Dana Kowalski"
 pubDatetime: 2026-04-26T17:45:00Z
 featured: false
 draft: false

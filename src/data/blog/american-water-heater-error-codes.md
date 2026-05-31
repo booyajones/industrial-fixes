@@ -22,20 +22,20 @@ American Water Heater gas models (ProLine, Glasslined, Commercial series) use an
 
 | [Flash Code](https://www.amazon.com/s?ascsubtag=ecf-american-water-heater-error-codes&k=Flash+Code&tag=errorcodefixes-20) | Meaning | Fix |
 |---|---|---|
-| [1 flash](https://www.amazon.com/s?ascsubtag=ecf-american-water-heater-error-codes&k=1+flash&tag=errorcodefixes-20) | Normal operation | None — system OK |
-| [2 flashes](https://www.amazon.com/s?ascsubtag=ecf-american-water-heater-error-codes&k=2+flashes&tag=errorcodefixes-20) | Low thermopile voltage | Clean thermocouple, check pilot flame |
-| [3 flashes](https://www.amazon.com/s?ascsubtag=ecf-american-water-heater-error-codes&k=3+flashes&tag=errorcodefixes-20) | Pressure switch fault (power vent models only) | Check blower, hoses, vent |
-| [4 flashes](https://www.amazon.com/s?ascsubtag=ecf-american-water-heater-error-codes&k=4+flashes&tag=errorcodefixes-20) | Temperature limit exceeded | Reduce setpoint, check T&P valve |
-| [5 flashes](https://www.amazon.com/s?ascsubtag=ecf-american-water-heater-error-codes&k=5+flashes&tag=errorcodefixes-20) | Thermal switch / sensor fault | Replace gas control valve |
-| [6 flashes](https://www.amazon.com/s?ascsubtag=ecf-american-water-heater-error-codes&k=6+flashes&tag=errorcodefixes-20) | Gas valve internal fault | Replace gas control valve |
-| [7 flashes](https://www.amazon.com/s?ascsubtag=ecf-american-water-heater-error-codes&k=7+flashes&tag=errorcodefixes-20) | Pilot not proving | Relight pilot, replace thermocouple |
+| 1 flash | Normal operation | None — system OK |
+| 2 flashes | Low thermopile voltage | Clean thermocouple, check pilot flame |
+| 3 flashes | Pressure switch fault (power vent models only) | Check blower, hoses, vent |
+| 4 flashes | Temperature limit exceeded | Reduce setpoint, check T&P valve |
+| 5 flashes | Thermal switch / sensor fault | Replace gas control valve |
+| 6 flashes | Gas valve internal fault | Replace gas control valve |
+| 7 flashes | Pilot not proving | Relight pilot, replace thermocouple |
 | [Continuous ON](https://www.amazon.com/s?ascsubtag=ecf-american-water-heater-error-codes&k=Continuous+ON&tag=errorcodefixes-20) | Power fault / flame without pilot | Gas valve failure |
 
 ## Electric Models — Digital Display Codes
 
 American Water Heater electric models with digital controls (ProLine Specialist, Marathon series):
 
-| [Code](https://www.amazon.com/s?ascsubtag=ecf-american-water-heater-error-codes&k=Code&tag=errorcodefixes-20) | Meaning | Action |
+| Code | Meaning | Action |
 |---|---|---|
 | E1 | Upper heating element fault | Test, replace element |
 | E2 | Lower heating element fault | Test, replace element |

@@ -1,6 +1,6 @@
 ---
 title: "Fanuc Alarm 506 — Servo Following Error Fix"
-author: "Industrial Error Code Fixes"
+author: "Dana Kowalski"
 pubDatetime: 2026-04-26T18:15:00Z
 modDatetime: 2026-04-26T18:15:00Z
 slug: fanuc-alarm-506

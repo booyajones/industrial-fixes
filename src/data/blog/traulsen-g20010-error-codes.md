@@ -1,6 +1,6 @@
 ---
 title: "Traulsen G20010 Error Codes, Causes, and Fixes"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2026-04-24T22:40:00Z
 modDatetime: 2026-04-24T22:40:00Z
 slug: traulsen-g20010-error-codes

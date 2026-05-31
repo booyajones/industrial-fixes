@@ -54,7 +54,7 @@ The Goodman GMS80 is an 80% AFUE single-stage gas furnace with a PSC blower moto
 | Part | Notes |
 |---|---|
 | Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-goodman-gms80-error-codes&tag=errorcodefixes-20) \| Goodman uses both silicon nitride and silicon carbide depending on production year |
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-goodman-gms80-error-codes&tag=errorcodefixes-20) \| Rod-type; clean before replacing |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Rod-type; clean before replacing |
 | Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-goodman-gms80-error-codes&tag=errorcodefixes-20) \| Check hose first; switches fail after condensate contamination |
 | High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-goodman-gms80-error-codes&tag=errorcodefixes-20) \| L160 or L180 depending on GMS80 variant |
 | Rollout switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-goodman-gms80-error-codes&tag=errorcodefixes-20) \| L195°F or L270°F; manual reset |

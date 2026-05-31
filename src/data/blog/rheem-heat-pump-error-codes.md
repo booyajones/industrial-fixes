@@ -1,6 +1,6 @@
 ---
 title: "Rheem Split System Heat Pump Error Codes — RA14, RA15, RP15 Fault Guide"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2026-04-26T18:15:00Z
 modDatetime: 2026-04-26T18:15:00Z
 slug: rheem-heat-pump-error-codes

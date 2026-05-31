@@ -16,7 +16,7 @@ tags:
 
 Automatic transfer switches (ATS) monitor utility power and transfer loads to a generator when utility power fails. Major ATS brands include Generac (RTSY, RTSN series), Kohler (RDT, KCTS series), Asco (Series 300, 7000), and Russelectric. Faults appear on the ATS controller display and are often transmitted to the generator's controller.
 
-| [Fault](https://www.amazon.com/s?ascsubtag=ecf-ats-transfer-switch-fault-codes&k=Fault&tag=errorcodefixes-20) | Brand / Type | Meaning | Quick Fix |
+| Fault | Brand / Type | Meaning | Quick Fix |
 |-------|-------------|---------|-----------|
 | [Source 1 Fail](https://www.amazon.com/s?ascsubtag=ecf-ats-transfer-switch-fault-codes&k=Source+1+Fail&tag=errorcodefixes-20) | All | Utility power has failed | Normal — ATS should transfer to generator |
 | [Source 2 Fail](https://www.amazon.com/s?ascsubtag=ecf-ats-transfer-switch-fault-codes&k=Source+2+Fail&tag=errorcodefixes-20) | All | Generator not available | Check generator; check ATS-to-gen wiring |

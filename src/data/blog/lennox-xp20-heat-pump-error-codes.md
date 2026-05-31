@@ -115,7 +115,7 @@ Check these in order:
 
 | Part | Where to Find | Notes |
 |------|---------------|-------|
-| Outdoor control board (103686-06 / 1184-510) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-lennox-xp20-heat-pump-error-codes&tag=errorcodefixes-20) | Fixes E 125, E 131, E 132, E 345. Requires reconfiguration through iComfort after install. |
+| Outdoor control board (103686-06 / 1184-510) | [Amazon](https://www.amazon.com/s?k=Outdoor+control+board+%28103686-06+%2F+1184-510%29&tag=errorcodefixes-20) | Fixes E 125, E 131, E 132, E 345. Requires reconfiguration through iComfort after install. |
 | Inverter board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lennox-xp20-heat-pump-error-codes&k=Lennox+XP20+inverter+board&tag=errorcodefixes-20) | Fixes E 423 through E 438 inverter faults. Match to unit size (024/036/048/060). |
 | Outdoor ambient temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-lennox-xp20-heat-pump-error-codes&tag=errorcodefixes-20) | Fixes E 180. 10K ohm thermistor. |
 | Outdoor coil temperature sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-lennox-xp20-heat-pump-error-codes&tag=errorcodefixes-20) | Fixes E 416. Check resistance against spec before replacing. |

@@ -1,6 +1,6 @@
 ---
 title: "Beverage-Air Error Code E4, Causes, and Fixes"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2026-04-24T22:30:00Z
 modDatetime: 2026-04-24T22:30:00Z
 slug: beverage-air-e4-error-code

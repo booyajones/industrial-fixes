@@ -455,7 +455,7 @@ Find replacement parts for Trane chillers on Amazon:
 
 - [Trane Chiller Parts & Controls](https://www.amazon.com/s?ascsubtag=ecf-trane-chiller-fault-codes&k=Trane+chiller+parts&tag=errorcodefixes-20)
 - [Trane HVAC Temperature Sensor Replacement](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-trane-chiller-fault-codes&tag=errorcodefixes-20)
-- [Trane Chiller Control Board Replacement](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-trane-chiller-fault-codes&tag=errorcodefixes-20)
+- [Trane Chiller Control Board Replacement](https://www.amazon.com/s?k=Trane+Chiller+Control+Board+Replacement&tag=errorcodefixes-20)
 
 ## See Also
 

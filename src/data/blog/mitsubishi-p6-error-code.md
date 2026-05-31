@@ -1,6 +1,6 @@
 ---
 title: "Mitsubishi Mini Split P6 Error Code Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2024-03-05T08:00:00Z
 modDatetime: 2024-03-05T08:00:00Z
 slug: mitsubishi-p6-error-code

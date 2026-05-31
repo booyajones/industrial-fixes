@@ -5,6 +5,10 @@
   Permissions-Policy: camera=(), microphone=(), geolocation=(), interest-cohort=()
   X-Robots-Tag: index, follow
   X-Frame-Options: DENY
+  # Report-only CSP: observes violations without blocking (the site uses inline
+  # scripts + AdSense/GA4/Skimlinks/Awin). Promote to an enforcing
+  # Content-Security-Policy once violation reports are clean.
+  Content-Security-Policy-Report-Only: default-src 'self'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://pagead2.googlesyndication.com https://*.googlesyndication.com https://*.google.com https://s.skimresources.com https://*.skimresources.com https://www.dwin1.com https://*.awin1.com https://*.workers.dev; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com data:; img-src 'self' data: https:; connect-src 'self' https://www.googletagmanager.com https://*.google-analytics.com https://*.googlesyndication.com https://s.skimresources.com https://*.skimresources.com https://www.dwin1.com https://*.awin1.com https://*.amazon.com https://*.workers.dev; frame-src 'self' https://*.googlesyndication.com https://*.google.com https://*.amazon.com; base-uri 'self'; form-action 'self'
   # Browser revalidates on every request; CDN holds 5 min and serves stale up
   # to 24h while it refetches in the background. Cuts edge-origin traffic
   # massively without ever serving stale HTML to a user without revalidation.

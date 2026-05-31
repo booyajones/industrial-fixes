@@ -1,6 +1,6 @@
 ---
 title: "Navien Error Code E022 — Hot Water Outlet Thermistor Fault Fix"
-author: "Industrial Error Code Fixes"
+author: "James Rutherford"
 pubDatetime: 2026-04-26T18:15:00Z
 modDatetime: 2026-04-26T18:15:00Z
 slug: navien-error-code-e022

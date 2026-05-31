@@ -25,7 +25,7 @@ The status light on a Rheem water heater is built into the gas control valve (th
 
 ### Rheem Blink Code Reference
 
-| [Blinks](https://www.amazon.com/s?ascsubtag=ecf-rheem-water-heater-blinking-light-codes&k=Blinks&tag=errorcodefixes-20) | Fault | What It Means |
+| Blinks | Fault | What It Means |
 |--------|-------|---------------|
 | 1 | Normal / Pilot OK | Pilot lit, system operating normally |
 | 2 | Thermopile low voltage | Thermopile not generating enough millivolts |
@@ -116,7 +116,7 @@ On water heaters with a separate control board (usually power-vent or high-effic
 | [Gas Control Valve (AP14270G)](https://www.amazon.com/s?ascsubtag=ecf-rheem-water-heater-blinking-light-codes&k=Gas+Control+Valve+%28AP14270G%29&tag=errorcodefixes-20) | 5, 6, or 7 blinks — internal valve fault | $80–$150 |
 | [Piezo Igniter](https://www.amazon.com/s?ascsubtag=ecf-rheem-water-heater-blinking-light-codes&k=Piezo+Igniter&tag=errorcodefixes-20) | 3 blinks — pilot won't spark | $10–$25 |
 | [Thermal Switch / ECO](https://www.amazon.com/s?ascsubtag=ecf-rheem-water-heater-blinking-light-codes&k=Thermal+Switch+%2F+ECO&tag=errorcodefixes-20) | 4 blinks — high limit tripped and won't reset | $15–$35 |
-| [Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-rheem-water-heater-blinking-light-codes&tag=errorcodefixes-20) | 8 blinks — board failure on power-vent models | $60–$120 |
+| [Control Board](https://www.amazon.com/s?k=Control+Board&tag=errorcodefixes-20) | 8 blinks — board failure on power-vent models | $60–$120 |
 
 *Always verify part numbers against your model tag before ordering. Rheem model numbers are on a sticker on the side of the tank.*
 

@@ -37,7 +37,7 @@ Eight flashes on a Goodman furnace diagnostic LED indicates an ignition failure 
 | Part | Notes |
 |------|-------|
 | Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-goodman-8-flash-error-code&tag=errorcodefixes-20) \| Most common fix; verify correct model (120V or 80V HSI) |
-| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-goodman-8-flash-error-code&tag=errorcodefixes-20) \| Clean first; replace if cleaning does not help |
+| Flame sensor rod | [Amazon](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20) \| Clean first; replace if cleaning does not help |
 | Inducer motor capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-goodman-8-flash-error-code&tag=errorcodefixes-20) \| Test before replacing the full motor |
 | Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-goodman-8-flash-error-code&tag=errorcodefixes-20) \| Replace if voltage is present at coil but valve does not open |
 ## When to Call a Pro

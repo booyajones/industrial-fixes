@@ -38,7 +38,7 @@ Carrier fault code 14 is an ignition lockout. After exhausting the allowed ignit
 |------|-------|
 | Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-carrier-14-error-code&tag=errorcodefixes-20) \| Most common root cause leading to lockout |
 | Draft inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-carrier-14-error-code&tag=errorcodefixes-20) \| Replace if motor is noisy, slow, or fails to start |
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-carrier-14-error-code&tag=errorcodefixes-20) \| Inexpensive; replace if cleaning doesn't restore signal |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Inexpensive; replace if cleaning doesn't restore signal |
 ## When to Call a Pro
 
 If the furnace locks out again within the first heat cycle after reset, or if you suspect a cracked heat exchanger or failed gas valve, contact a licensed HVAC technician. Repeated lockouts without a clear component failure can indicate combustion or venting problems.

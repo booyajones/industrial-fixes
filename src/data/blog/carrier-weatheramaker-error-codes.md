@@ -55,8 +55,8 @@ Verify all condenser fan motors are running and drawing rated amps. Wash the con
 
 | Part | Notes |
 |------|-------|
-| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-carrier-weatheramaker-error-codes&tag=errorcodefixes-20) \| Clean first; replace if ┬╡A reading is below 1.5 |
-| IFC board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-carrier-weatheramaker-error-codes&tag=errorcodefixes-20) \| Model-specific — cross-reference part number |
+| Flame sensor rod | [Amazon](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20) \| Clean first; replace if ┬╡A reading is below 1.5 |
+| IFC board | [Amazon](https://www.amazon.com/s?k=IFC+board&tag=errorcodefixes-20) \| Model-specific — cross-reference part number |
 | Limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-carrier-weatheramaker-error-codes&tag=errorcodefixes-20) \| Match temperature rating exactly |
 | Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-carrier-weatheramaker-error-codes&tag=errorcodefixes-20) \| Test ┬╡F with capacitor tester before condemning motor |
 | Inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-carrier-weatheramaker-error-codes&tag=errorcodefixes-20) \| Check capacitor before replacing motor |

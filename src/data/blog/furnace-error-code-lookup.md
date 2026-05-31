@@ -51,7 +51,7 @@ Furnace fault codes are usually shown as blinking LEDs, two-digit board codes, o
 
 | Part | Notes |
 |---|---|
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-furnace-error-code-lookup&tag=errorcodefixes-20) \| Cheap and commonly dirty |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Cheap and commonly dirty |
 | Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-furnace-error-code-lookup&tag=errorcodefixes-20) \| Fragile, common wear part |
 | Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-furnace-error-code-lookup&tag=errorcodefixes-20) \| Check tubing before replacing |
 | Blower capacitor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-furnace-error-code-lookup&k=Blower+capacitor&tag=errorcodefixes-20) \| Common on PSC motor furnaces |

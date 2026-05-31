@@ -1,6 +1,6 @@
 ---
 title: "Hoshizaki Ice Machine E1 Error Code — Water Inlet Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2024-03-13T08:00:00Z
 modDatetime: 2024-03-13T08:00:00Z
 slug: hoshizaki-e1-error-code

@@ -15,7 +15,7 @@ tags:
 
 Manitowoc Indigo series ice machines store faults in the control board and display them on the Indigo touchscreen or service diagnostics. Common codes relate to safety limits, freeze time, harvest time, thermistors, water level, and refrigeration performance.
 
-| [Code](https://www.amazon.com/s?ascsubtag=ecf-manitowoc-indigo-error-codes&k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| Code | Meaning | Quick Fix |
 |------|---------|-----------|
 | [Safety Limit 1](https://www.amazon.com/s?ascsubtag=ecf-manitowoc-indigo-error-codes&k=Safety+Limit+1&tag=errorcodefixes-20) | Long freeze cycle | Clean condenser; check water flow |
 | [Safety Limit 2](https://www.amazon.com/s?ascsubtag=ecf-manitowoc-indigo-error-codes&k=Safety+Limit+2&tag=errorcodefixes-20) | Long harvest cycle | Check hot gas valve and curtain |

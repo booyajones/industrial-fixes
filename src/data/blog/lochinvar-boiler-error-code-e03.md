@@ -67,7 +67,7 @@ On Lochinvar Knight boilers: the E03 fault is typically auto-resetting once the 
 
 ## E03 vs. E01 on Lochinvar
 
-| [Code](https://www.amazon.com/s?ascsubtag=ecf-lochinvar-boiler-error-code-e03&k=Code&tag=errorcodefixes-20) | Meaning |
+| Code | Meaning |
 |---|---|
 | E01 | Ignition failure (no flame) |
 | E02 | Ignition lockout after retries |

@@ -13,6 +13,7 @@ import BackToTopButton from "@/components/BackToTopButton.astro";
 import QuickAnswer from "@/components/QuickAnswer.astro";
 import RelatedPosts from "@/components/RelatedPosts.astro";
 import EmailCapture from "../components/EmailCapture.astro";
+import AffiliateDisclosure from "@/components/AffiliateDisclosure.astro";
 import { getPath } from "@/utils/getPath";
 import { authors } from "../data/authors";
 import { equipmentCategories } from "@/data/equipmentCategories";
@@ -88,7 +89,7 @@ else if (daysAgo < 730) reviewedLabel = `${Math.floor(daysAgo / 30)} months ago`
 else reviewedLabel = `${Math.floor(daysAgo / 365)} years ago`;
 
 const layoutProps = {
-  title: `${title} — Fix & Diagnosis Guide | errorcodefixes.com`,
+  title: `${title} | errorcodefixes.com`,
   author,
   description,
   pubDatetime,
@@ -115,43 +116,9 @@ const nextPost =
 
 <Layout {...layoutProps}>
 
-  <!-- HowTo Schema for Google Featured Snippets / Rich Results -->
-  <script type="application/ld+json" is:inline set:html={JSON.stringify({
-    "@context": "https://schema.org",
-    "@type": "HowTo",
-    "name": title,
-    "description": description,
-    "datePublished": pubDatetime?.toISOString(),
-    "dateModified": modDatetime ? modDatetime.toISOString() : pubDatetime?.toISOString(),
-    "author": authorData ? { "@type": "Person", "name": authorData.name, "jobTitle": authorData.title } : { "@type": "Organization", "name": SITE.title, "url": SITE.website },
-    "publisher": { "@type": "Organization", "name": SITE.title, "url": SITE.website },
-    "supply": [
-      { "@type": "HowToSupply", "name": tags && tags.length > 0 ? tags[0] : "Replacement parts" },
-      { "@type": "HowToSupply", "name": "Multimeter" }
-    ],
-    "tool": [
-      { "@type": "HowToTool", "name": "Multimeter" },
-      { "@type": "HowToTool", "name": "Screwdriver set" },
-      { "@type": "HowToTool", "name": "Service manual" }
-    ],
-    "step": [
-      {
-        "@type": "HowToStep",
-        "name": "Diagnose the error code",
-        "text": "Read the error code description and identify the most likely cause using the guide above."
-      },
-      {
-        "@type": "HowToStep",
-        "name": "Follow the fix instructions",
-        "text": "Follow the step-by-step repair instructions in this article, checking each common cause in order."
-      },
-      {
-        "@type": "HowToStep",
-        "name": "Verify the repair",
-        "text": "Test the equipment after completing the repair to confirm the error code is cleared and the unit operates normally."
-      }
-    ]
-  })} />
+  <!-- HowTo schema removed: Google retired HowTo rich results in Sept 2023, and
+       identical templated steps across 1,400+ pages read as scaled markup. The
+       page is described by BlogPosting (Layout.astro) + the FAQ + breadcrumb below. -->
 
   <!-- BreadcrumbList JSON-LD — Home > Posts > Category > Title.
        Lets Google render breadcrumb chips under the SERP listing instead of
@@ -160,10 +127,10 @@ const nextPost =
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "Home", "item": `${SITE.website}/` },
-      { "@type": "ListItem", "position": 2, "name": "Fix Guides", "item": `${SITE.website}/posts/` },
-      ...(postCategory ? [{ "@type": "ListItem", "position": 3, "name": equipmentCategories.find(c => c.slug === postCategory)?.name ?? postCategory, "item": `${SITE.website}/equipment/${postCategory}/` }] : []),
-      { "@type": "ListItem", "position": postCategory ? 4 : 3, "name": title.replace(/—.*$/, '').trim(), "item": `${SITE.website}${Astro.url.pathname}` }
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": SITE.website.replace(/\/+$/, "") + "/" },
+      { "@type": "ListItem", "position": 2, "name": "Fix Guides", "item": SITE.website.replace(/\/+$/, "") + "/posts/" },
+      ...(postCategory ? [{ "@type": "ListItem", "position": 3, "name": equipmentCategories.find(c => c.slug === postCategory)?.name ?? postCategory, "item": SITE.website.replace(/\/+$/, "") + `/equipment/${postCategory}/` }] : []),
+      { "@type": "ListItem", "position": postCategory ? 4 : 3, "name": title.replace(/—.*$/, '').trim(), "item": SITE.website.replace(/\/+$/, "") + Astro.url.pathname }
     ]
   })} />
 
@@ -250,6 +217,9 @@ const nextPost =
          went to die. (Bottom EmailCapture is still rendered below as a
          second touchpoint for users who scroll the whole guide.) -->
     <EmailCapture brand={tags?.[0]} category={postCategory} />
+
+    <!-- FTC affiliate disclosure: clear, conspicuous, above the parts tables -->
+    <AffiliateDisclosure />
 
     <article
       id="article"

@@ -55,7 +55,7 @@ Rollout switch trips, repeated ignition lockouts, or a furnace that smells like 
 | Item | Notes |
 |------|-------|
 | Air filter | [Amazon](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-furnace-flashing-red-light&tag=errorcodefixes-20) \| Cheap first step for limit and airflow complaints |
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-furnace-flashing-red-light&tag=errorcodefixes-20) \| Clean or replace for weak flame signal issues |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Clean or replace for weak flame signal issues |
 | Pressure switch hose | [Amazon](https://www.amazon.com/dp/B0CPTHML1N?ascsubtag=ecf-furnace-flashing-red-light&tag=errorcodefixes-20) \| Often cracked or loose |
 | Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-furnace-flashing-red-light&tag=errorcodefixes-20) \| Common ignition failure part |
 | Multimeter | [Amazon](https://www.amazon.com/dp/B08ZJSN5X3?ascsubtag=ecf-furnace-flashing-red-light&tag=errorcodefixes-20) \| Needed for continuity and voltage checks |

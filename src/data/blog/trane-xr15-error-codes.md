@@ -18,7 +18,7 @@ The Trane XR15 is a two-stage heat pump using the Climatuff compressor. Fault co
 
 | [Flash Code](https://www.amazon.com/s?ascsubtag=ecf-trane-xr15-error-codes&k=Flash+Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
 |------------|---------|-----------|
-| [1 flash](https://www.amazon.com/s?ascsubtag=ecf-trane-xr15-error-codes&k=1+flash&tag=errorcodefixes-20) | System normal | No fault |
+| 1 flash | System normal | No fault |
 | 2-1 | Discharge line temperature sensor fault | Check discharge sensor wiring |
 | 2-2 | Outdoor ambient temperature sensor fault | Inspect outdoor sensor and connections |
 | 3-1 | Low-pressure fault | Check refrigerant; verify airflow |

@@ -54,8 +54,8 @@ Check compressor winding resistance with ohmmeter (all phases should be equal, t
 
 | Part | Notes |
 |------|-------|
-| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-lg-multi-v-error-codes&tag=errorcodefixes-20) \| Match Multi V model exactly |
-| Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-lg-multi-v-error-codes&tag=errorcodefixes-20) \| Match indoor unit model |
+| Outdoor PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB&tag=errorcodefixes-20) \| Match Multi V model exactly |
+| Indoor PCB | [Amazon](https://www.amazon.com/s?k=Indoor+PCB&tag=errorcodefixes-20) \| Match indoor unit model |
 | EEV (electronic expansion valve) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-multi-v-error-codes&k=EEV+%28electronic+expansion+valve%29&tag=errorcodefixes-20) \| Match valve size and refrigerant |
 | Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-lg-multi-v-error-codes&tag=errorcodefixes-20) \| DC motor type on most Multi V |
 | Communication cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-multi-v-error-codes&k=Communication+cable&tag=errorcodefixes-20) \| 2-wire shielded — check polarity |

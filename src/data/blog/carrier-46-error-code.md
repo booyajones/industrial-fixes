@@ -39,8 +39,8 @@ Code 46 is distinct from most other Carrier fault codes because it originates fr
 
 | Part | Notes |
 |------|-------|
-| IFC control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-carrier-46-error-code&tag=errorcodefixes-20) \| HK42FZ009, HK42FZ011, or model-specific — check label |
-| Flame sensor wire | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-carrier-46-error-code&tag=errorcodefixes-20) \| High-temp insulated lead wire, ~18 gauge |
+| IFC control board | [Amazon](https://www.amazon.com/s?k=IFC+control+board&tag=errorcodefixes-20) \| HK42FZ009, HK42FZ011, or model-specific — check label |
+| Flame sensor wire | [Amazon](https://www.amazon.com/s?k=Flame+sensor+wire&tag=errorcodefixes-20) \| High-temp insulated lead wire, ~18 gauge |
 | Low-voltage wire | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-46-error-code&k=Low-voltage+wire&tag=errorcodefixes-20) \| 18/5 or 18/8 thermostat cable if wiring needs replacement |
 ## When to Call a Pro
 If code 46 appears along with signs of burning smell, visible scorch marks on the board, or damaged wiring, stop operating the furnace and call an HVAC technician. Damaged control boards can be a fire risk in rare cases.

@@ -130,7 +130,7 @@ Combined incentives can reduce the net cost of a new furnace by $800–$1,500, w
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|--------------|
 | [Hot Surface Ignitor 120V Norton Universal](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-furnace-repair-vs-replace-age-guide&tag=errorcodefixes-20) | Failed ignitor — furnace won't attempt to light | $18–$35 |
-| [Universal Flame Sensor Rod](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-furnace-repair-vs-replace-age-guide&tag=errorcodefixes-20) | Dirty/failed sensor — burner lights but shuts off in seconds | $12–$22 |
+| [Universal Flame Sensor Rod](https://www.amazon.com/s?k=Universal+Flame+Sensor+Rod&tag=errorcodefixes-20) | Dirty/failed sensor — burner lights but shuts off in seconds | $12–$22 |
 | [Furnace Inducer Motor Draft](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-furnace-repair-vs-replace-age-guide&tag=errorcodefixes-20) | Failed inducer motor — furnace won't start, pressure switch fails | $65–$150 |
 | [Furnace High Limit Switch Auto-Reset](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-furnace-repair-vs-replace-age-guide&tag=errorcodefixes-20) | Tripped limit switch cuts burner even with good airflow | $15–$30 |
 | [Furnace Pressure Switch](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-furnace-repair-vs-replace-age-guide&tag=errorcodefixes-20) | Faulty pressure switch prevents inducer from confirming draft | $12–$28 |

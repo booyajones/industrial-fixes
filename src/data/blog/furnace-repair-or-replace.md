@@ -76,11 +76,11 @@ Typical repair ranges from licensed HVAC contractors (parts + labor):
 | [Repair](https://www.amazon.com/s?ascsubtag=ecf-furnace-repair-or-replace&k=Repair&tag=errorcodefixes-20) | Cost range |
 |--------|-----------|
 | [Igniter replacement](https://www.amazon.com/s?ascsubtag=ecf-furnace-repair-or-replace&k=Igniter+replacement&tag=errorcodefixes-20) | $150–$300 |
-| [Flame sensor cleaning or replacement](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-furnace-repair-or-replace&tag=errorcodefixes-20) | $80–$250 |
+| [Flame sensor cleaning or replacement](https://www.amazon.com/s?k=Flame+sensor+cleaning+or+replacement&tag=errorcodefixes-20) | $80–$250 |
 | [Pressure switch replacement](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-furnace-repair-or-replace&tag=errorcodefixes-20) | $150–$350 |
 | [Inducer motor replacement](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-furnace-repair-or-replace&tag=errorcodefixes-20) | $400–$800 |
 | [Blower motor replacement](https://www.amazon.com/s?ascsubtag=ecf-furnace-repair-or-replace&k=Blower+motor+replacement&tag=errorcodefixes-20) | $400–$900 |
-| [Control board replacement](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-furnace-repair-or-replace&tag=errorcodefixes-20) | $350–$900 |
+| [Control board replacement](https://www.amazon.com/s?k=Control+board+replacement&tag=errorcodefixes-20) | $350–$900 |
 | [Gas valve replacement](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-furnace-repair-or-replace&tag=errorcodefixes-20) | $350–$700 |
 | [Heat exchanger replacement](https://www.amazon.com/s?ascsubtag=ecf-furnace-repair-or-replace&k=Heat+exchanger+replacement&tag=errorcodefixes-20) | $800–$2,000 |
 
@@ -122,7 +122,7 @@ If your error code points to a part you can swap yourself:
 | Part | Fits most brands | Typical Amazon price |
 |------|-----------------|---------------------|
 | [Universal hot surface igniter](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-furnace-repair-or-replace&tag=errorcodefixes-20) | Carrier, Goodman, Trane, Rheem | $15–$45 |
-| [Flame sensor (standard rod)](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-furnace-repair-or-replace&tag=errorcodefixes-20) | Most brands | $8–$25 |
+| [Flame sensor (standard rod)](https://www.amazon.com/s?k=Flame+sensor+%28standard+rod%29&tag=errorcodefixes-20) | Most brands | $8–$25 |
 | [Pressure switch (brand-specific)](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-furnace-repair-or-replace&tag=errorcodefixes-20) | Match brand + model | $20–$60 |
 
 For igniter replacement walkthrough, see: [Best Furnace Igniter Replacement Guide](/best-furnace-igniter-replacement)

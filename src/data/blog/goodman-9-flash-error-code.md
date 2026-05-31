@@ -40,7 +40,7 @@ Nine flashes on a Goodman furnace diagnostic LED indicates reversed line and loa
 |------|-------|
 | Outlet polarity tester | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-goodman-9-flash-error-code&k=Outlet+polarity+tester&tag=errorcodefixes-20) \| Inexpensive tool for quickly diagnosing reversed outlets |
 | Wire nuts / terminals | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-goodman-9-flash-error-code&k=Wire+nuts+%2F+terminals&tag=errorcodefixes-20) \| For re-terminating corrected wiring connections |
-| Furnace control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-goodman-9-flash-error-code&tag=errorcodefixes-20) \| Only if board was damaged by sustained polarity reversal (rare) |
+| Furnace control board | [Amazon](https://www.amazon.com/s?k=Furnace+control+board&tag=errorcodefixes-20) \| Only if board was damaged by sustained polarity reversal (rare) |
 ## When to Call a Pro
 
 If you are not comfortable working inside an electrical panel or disconnect, call a licensed electrician. Reversed polarity at the panel is a shock hazard and should be corrected by someone qualified to work on live electrical systems. Once polarity is confirmed correct, the HVAC system should require no further repair.

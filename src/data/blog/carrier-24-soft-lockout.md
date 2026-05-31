@@ -57,8 +57,8 @@ Any short circuit on these wires will blow the fuse.
 |---|---|
 | 3-amp ATO/ATC fuse (pack) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-24-soft-lockout&k=3-amp+ATO%2FATC+fuse+%28pack%29&tag=errorcodefixes-20) \| $3–8 |
 | Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-carrier-24-soft-lockout&tag=errorcodefixes-20) \| $80–200 |
-| Humidifier control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-carrier-24-soft-lockout&tag=errorcodefixes-20) \| $30–80 |
-| IFC board (if internal fault) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-carrier-24-soft-lockout&tag=errorcodefixes-20) \| $100–300 |
+| Humidifier control board | [Amazon](https://www.amazon.com/s?k=Humidifier+control+board&tag=errorcodefixes-20) \| $30–80 |
+| IFC board (if internal fault) | [Amazon](https://www.amazon.com/s?k=IFC+board+%28if+internal+fault%29&tag=errorcodefixes-20) \| $100–300 |
 ## Pro Tip
 
 Fuses don't blow for no reason. Every time you replace a fuse without finding the short, you risk burning out the transformer or the IFC board. Spend the extra 15 minutes tracing the short before you close the furnace back up — it will save you a $200+ board replacement.

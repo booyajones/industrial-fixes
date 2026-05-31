@@ -1,6 +1,6 @@
 ---
 title: "Allen-Bradley PowerFlex 4M Fault Codes — F2, F4, F5, F7, F12 Fix Guide"
-author: "Industrial Error Code Fixes"
+author: "Dana Kowalski"
 pubDatetime: 2026-04-24T22:20:00Z
 modDatetime: 2026-04-24T22:20:00Z
 slug: allen-bradley-powerflex-4m-fault-codes

@@ -19,7 +19,7 @@ Eaton PowerXL drives, including the **DG1**, **DC1**, and related series, use fa
 
 ## Common Eaton Faults
 
-| [Fault](https://www.amazon.com/s?ascsubtag=ecf-eaton-vfd-fault-codes&k=Fault&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| Fault | Meaning | Quick Fix |
 |---|---|---|
 | OC | Overcurrent | Check motor short, accel too fast, jammed load |
 | OV | DC bus overvoltage | Increase decel time, add brake resistor |

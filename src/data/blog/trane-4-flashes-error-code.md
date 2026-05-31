@@ -1,6 +1,6 @@
 ---
 title: "Trane 4 Flashes Error Code — Open High Limit Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2024-03-25T08:00:00Z
 modDatetime: 2024-03-25T08:00:00Z
 slug: trane-4-flashes-error-code

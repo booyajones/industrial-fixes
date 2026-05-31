@@ -1,6 +1,6 @@
 ---
 title: "Fanuc Alarm 401 — Servo Axis Overload Fix"
-author: "Industrial Error Code Fixes"
+author: "Dana Kowalski"
 pubDatetime: 2024-03-11T08:00:00Z
 modDatetime: 2024-03-11T08:00:00Z
 slug: fanuc-alarm-401

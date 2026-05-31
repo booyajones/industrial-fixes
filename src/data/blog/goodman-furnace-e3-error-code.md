@@ -78,7 +78,7 @@ If the motor runs but E3 persists, the motor may not be generating enough suctio
 | [Pressure switch hose](https://www.amazon.com/dp/B0CPTHML1N?ascsubtag=ecf-goodman-furnace-e3-error-code&tag=errorcodefixes-20) | $5–10 |
 | [Inducer motor (Goodman OEM)](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-goodman-furnace-e3-error-code&tag=errorcodefixes-20) | $150–350 |
 | [Condensate trap](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-goodman-furnace-e3-error-code&tag=errorcodefixes-20) | $15–30 |
-| [IFC board](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-goodman-furnace-e3-error-code&tag=errorcodefixes-20) | $100–280 |
+| [IFC board](https://www.amazon.com/s?k=IFC+board&tag=errorcodefixes-20) | $100–280 |
 
 ## E3 vs. E1
 

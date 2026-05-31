@@ -37,7 +37,7 @@ E4 on an Armstrong Air furnace (part of the Allied Air Enterprises family, which
 | Part | Notes |
 |------|-------|
 | Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-armstrong-furnace-e4-error-code&tag=errorcodefixes-20) \| Verify voltage rating (120V or 80V) and physical dimensions |
-| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-armstrong-furnace-e4-error-code&tag=errorcodefixes-20) \| Clean first; replace if signal remains weak |
+| Flame sensor rod | [Amazon](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20) \| Clean first; replace if signal remains weak |
 | Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-armstrong-furnace-e4-error-code&tag=errorcodefixes-20) \| Replace if 24VAC is confirmed at coil but valve won't open |
 | Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-armstrong-furnace-e4-error-code&tag=errorcodefixes-20) \| Replace if draft system is confirmed working but switch stays open |
 ## When to Call a Pro

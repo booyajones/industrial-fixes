@@ -131,7 +131,7 @@ The unit detects water pressure below the minimum threshold (about 15 PSI). The 
 
 | Part | What It Fixes | Amazon Link |
 |------|--------------|-------------|
-| Navien NPE Flame Sensor Rod | E001 / E003 ignition/flame issues | [View on Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-navien-npe-240s-error-codes&tag=errorcodefixes-20) |
+| Navien NPE Flame Sensor Rod | E001 / E003 ignition/flame issues | [View on Amazon](https://www.amazon.com/s?k=Navien+NPE+Flame+Sensor+Rod&tag=errorcodefixes-20) |
 | Navien Igniter Electrode Assembly | E001 ignition failure | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-npe-240s-error-codes&k=navien+npe+igniter+electrode+assembly&tag=errorcodefixes-20) |
 | NTC Inlet/Outlet Thermistor (Navien) | E021 / E022 thermistor faults | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-npe-240s-error-codes&k=navien+npe+thermistor+inlet+outlet&tag=errorcodefixes-20) |
 | Tankless Descaling Kit with Pump | E046 scale sensor alert | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-npe-240s-error-codes&k=tankless+water+heater+descaler+pump+kit&tag=errorcodefixes-20) |

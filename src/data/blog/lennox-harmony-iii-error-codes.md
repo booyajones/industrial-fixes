@@ -16,7 +16,7 @@ tags:
 
 The Lennox Harmony III zoning system uses the HCC3-8 zone control center (or HCC3-4 for four-zone applications) to manage up to eight conditioned zones. The system communicates with iComfort or conventional thermostats via a 24VAC bus and controls motorized zone dampers. Fault codes appear on the control center LED display or via service mode on connected iComfort thermostats.
 
-| [Code](https://www.amazon.com/s?ascsubtag=ecf-lennox-harmony-iii-error-codes&k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| Code | Meaning | Quick Fix |
 |------|---------|-----------|
 | E01 | Zone 1 thermostat communication fault | Check zone 1 thermostat wiring |
 | E02 | Zone 2 thermostat communication fault | Check zone 2 thermostat wiring |

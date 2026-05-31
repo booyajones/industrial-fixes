@@ -37,7 +37,7 @@ On Goodman furnaces, **1 flash on the status LED indicates normal operation with
 
 | Part | Notes |
 |------|-------|
-| Control board fuse (3A or 5A) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-goodman-1-flash-error-code&tag=errorcodefixes-20) \| Small ATO/ATC blade fuse on the board; always replace with same rating |
+| Control board fuse (3A or 5A) | [Amazon](https://www.amazon.com/s?k=Control+board+fuse+%283A+or+5A%29&tag=errorcodefixes-20) \| Small ATO/ATC blade fuse on the board; always replace with same rating |
 | Door interlock switch | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-goodman-1-flash-error-code&k=Door+interlock+switch&tag=errorcodefixes-20) \| Push-button switch on the blower compartment; inexpensive and easy to replace |
 | Thermostat | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-goodman-1-flash-error-code&k=Thermostat&tag=errorcodefixes-20) \| If thermostat isn't generating the 24V W signal |
 ## When to Call a Pro

@@ -119,7 +119,7 @@ The iQ Drive communicates over a four-wire bus between the outdoor board and ind
 | 2-Pole 30A Contactor | Pitted contacts, voltage drop at startup | [View on Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-goodman-gvzc18-heat-pump-error-codes&tag=errorcodefixes-20) |
 | Reversing Valve Solenoid Coil | Code 11 reversing valve fault | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-goodman-gvzc18-heat-pump-error-codes&k=reversing+valve+solenoid+coil+hvac&tag=errorcodefixes-20) |
 | HVAC Communication Cable (4-conductor) | Code 7 / E1 communication wiring | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-goodman-gvzc18-heat-pump-error-codes&k=hvac+4+conductor+communication+wire&tag=errorcodefixes-20) |
-| Goodman Outdoor Control Board | Code 6 inverter board replacement | [View on Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-goodman-gvzc18-heat-pump-error-codes&tag=errorcodefixes-20) |
+| Goodman Outdoor Control Board | Code 6 inverter board replacement | [View on Amazon](https://www.amazon.com/s?k=Goodman+Outdoor+Control+Board&tag=errorcodefixes-20) |
 
 ## When to Call a Pro
 

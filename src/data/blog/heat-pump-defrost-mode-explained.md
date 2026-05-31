@@ -60,7 +60,7 @@ If the system is not acting normally, here are the common failure points.
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
-| [Heat Pump Defrost Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-heat-pump-defrost-mode-explained&tag=errorcodefixes-20) | Replaces a failed board that starts defrost at the wrong time or will not exit the cycle | $60–$150 |
+| [Heat Pump Defrost Control Board](https://www.amazon.com/s?k=Heat+Pump+Defrost+Control+Board&tag=errorcodefixes-20) | Replaces a failed board that starts defrost at the wrong time or will not exit the cycle | $60–$150 |
 | [Defrost Thermostat Clip Sensor](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-defrost-mode-explained&k=heat+pump+defrost+thermostat+clip&tag=errorcodefixes-20) | Replaces a faulty coil sensor that cannot detect frost conditions correctly | $10–$25 |
 | [Reversing Valve Solenoid 24V](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-defrost-mode-explained&k=heat+pump+reversing+valve+solenoid+24v&tag=errorcodefixes-20) | Fixes a valve coil that will not energize during heat or defrost mode | $20–$45 |
 | [Outdoor Fan Motor for Heat Pump](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-heat-pump-defrost-mode-explained&tag=errorcodefixes-20) | Replaces a failed condenser fan motor that prevents proper airflow and defrost recovery | $70–$180 |

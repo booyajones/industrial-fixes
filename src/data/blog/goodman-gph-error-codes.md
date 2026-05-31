@@ -49,7 +49,7 @@ Check for 24 VAC at the reversing valve solenoid in heating mode. A stuck valve 
 
 | Part | Notes |
 |------|-------|
-| Defrost control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-goodman-gph-error-codes&tag=errorcodefixes-20) \| Match to unit model number |
+| Defrost control board | [Amazon](https://www.amazon.com/s?k=Defrost+control+board&tag=errorcodefixes-20) \| Match to unit model number |
 | Defrost sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-goodman-gph-error-codes&tag=errorcodefixes-20) \| Clip-on type — confirm placement on tube |
 | Reversing valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-goodman-gph-error-codes&k=Reversing+valve&tag=errorcodefixes-20) \| Match refrigerant and tonnage |
 | Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-goodman-gph-error-codes&tag=errorcodefixes-20) \| Dual-capacitor — check both sections |

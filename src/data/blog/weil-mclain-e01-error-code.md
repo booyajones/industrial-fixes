@@ -1,6 +1,6 @@
 ---
 title: "Weil-McLain Boiler Error Code E01 — Lockout Fix"
-author: "Industrial Error Code Fixes"
+author: "James Rutherford"
 pubDatetime: 2024-03-17T08:00:00Z
 modDatetime: 2024-03-17T08:00:00Z
 slug: weil-mclain-e01-error-code
@@ -54,7 +54,7 @@ This code is one of the most searched Weil-McLain faults because it appears freq
 
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|-------------|
-| Flame sensor | 383-500-044 | $30–$45 | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-weil-mclain-e01-error-code&tag=errorcodefixes-20) \| HVAC Parts / Weil-McLain Distributor |
+| Flame sensor | 383-500-044 | $30–$45 | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| HVAC Parts / Weil-McLain Distributor |
 | Igniter | 383-500-043 | $50–$70 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-weil-mclain-e01-error-code&k=383-500-043+Igniter&tag=errorcodefixes-20) \| HVAC Parts / Weil-McLain Distributor |
 | Gas valve | 383-500-376 | $200–$350 | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-weil-mclain-e01-error-code&tag=errorcodefixes-20) \| Weil-McLain Distributor |
 | Burner control module | 383-500-372 | $280–$420 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-weil-mclain-e01-error-code&k=383-500-372+Burner+control+module&tag=errorcodefixes-20) \| Weil-McLain Distributor |

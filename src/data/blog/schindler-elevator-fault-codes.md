@@ -51,7 +51,7 @@ Like all modern elevator systems, Schindler implements UCM protection per EN 81-
 | Door operator drive | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-schindler-elevator-fault-codes&k=Door+operator+drive&tag=errorcodefixes-20) \| Replace on door fault |
 | Brake coil assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-schindler-elevator-fault-codes&k=Brake+coil+assembly&tag=errorcodefixes-20) \| Replace on brake fault |
 | Encoder | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-schindler-elevator-fault-codes&k=Encoder&tag=errorcodefixes-20) \| Replace on feedback fault |
-| IC3/IC5 control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-schindler-elevator-fault-codes&tag=errorcodefixes-20) \| Replace on controller fault |
+| IC3/IC5 control board | [Amazon](https://www.amazon.com/s?k=IC3%2FIC5+control+board&tag=errorcodefixes-20) \| Replace on controller fault |
 ## When to Call a Pro
 **Schindler elevator systems are proprietary.** The Schindler Diagnose Tool and software are only available to Schindler-authorized personnel. All elevator maintenance must be performed by licensed elevator mechanics.
 

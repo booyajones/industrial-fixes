@@ -1,6 +1,6 @@
 ---
 title: "Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix"
-author: "Industrial Error Code Fixes"
+author: "Dana Kowalski"
 pubDatetime: 2026-04-24T21:00:00Z
 modDatetime: 2026-04-24T21:00:00Z
 slug: yaskawa-a1000-oc-fault-code
@@ -68,7 +68,7 @@ The A1000 differentiates between:
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|-------------|--------------|--------------|
 | IGBT output module (drive-size dependent) | Varies by HP | $200–$800 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-yaskawa-a1000-oc-fault-code&k=Yaskawa+A1000+IGBT+module+replacement&tag=errorcodefixes-20) \| Yaskawa distributor |
-| Control board (if parameter corruption) | ETC615018-S3xxx | $350–$600 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-yaskawa-a1000-oc-fault-code&tag=errorcodefixes-20) \| Yaskawa distributor |
+| Control board (if parameter corruption) | ETC615018-S3xxx | $350–$600 | [Amazon](https://www.amazon.com/s?k=Control+board+%28if+parameter+corruption%29&tag=errorcodefixes-20) \| Yaskawa distributor |
 | Dynamic braking resistor (for OC on decel) | ERF150W series | $80–$300 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-yaskawa-a1000-oc-fault-code&k=Yaskawa+A1000+braking+resistor&tag=errorcodefixes-20) \| Automation supply |
 | Output choke/line reactor | LR3020-MH series | $80–$200 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-yaskawa-a1000-oc-fault-code&k=Yaskawa+output+line+reactor+3-phase&tag=errorcodefixes-20) \| Automation supply |
 

@@ -1,6 +1,6 @@
 ---
 title: "Daikin E7 Error Code — Outdoor Fan Motor Fault Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2024-04-04T08:00:00Z
 modDatetime: 2024-04-04T08:00:00Z
 slug: daikin-e7-error-code

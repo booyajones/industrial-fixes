@@ -37,7 +37,7 @@ A single LED flash on a Trane heat pump control board indicates a system lockout
 | Part | Notes |
 |------|-------|
 | Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-trane-heat-pump-1-flash&tag=errorcodefixes-20) \| Match HP, RPM, rotation direction, and shaft diameter |
-| Defrost control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-trane-heat-pump-1-flash&tag=errorcodefixes-20) \| Replace if defrost times out or never initiates |
+| Defrost control board | [Amazon](https://www.amazon.com/s?k=Defrost+control+board&tag=errorcodefixes-20) \| Replace if defrost times out or never initiates |
 | Defrost thermostat (sensor) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-heat-pump-1-flash&k=Defrost+thermostat+%28sensor%29&tag=errorcodefixes-20) \| Clip-type sensor on outdoor coil; fails open or closed |
 ## When to Call a Pro
 

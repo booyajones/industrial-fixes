@@ -58,7 +58,7 @@ The same blink pattern does not mean the same thing on every brand. Always pair 
 | Thermistors | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mini-split-blinking-lights&k=Thermistors&tag=errorcodefixes-20) \| Cheap parts that trigger lots of codes |
 | Communication wire | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mini-split-blinking-lights&k=Communication+wire&tag=errorcodefixes-20) \| Common install and rodent damage issue |
 | Indoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-mini-split-blinking-lights&tag=errorcodefixes-20) \| For fan speed and freeze complaints |
-| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-mini-split-blinking-lights&tag=errorcodefixes-20) \| For inverter and communication faults |
+| Outdoor PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB&tag=errorcodefixes-20) \| For inverter and communication faults |
 | Service manual | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mini-split-blinking-lights&k=Service+manual&tag=errorcodefixes-20) \| Often the fastest path on private-label brands |
 ## When to Call a Pro
 

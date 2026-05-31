@@ -104,7 +104,7 @@ When paired with the EcoNet system, the RP20 reports alphanumeric codes:
 | [Ruud Low Pressure Switch 42-25101-84](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-ruud-rp20-heat-pump-error-codes&tag=errorcodefixes-20) | Trips on E2 fault; replace if suction pressure is normal but fault persists | $25–$55 |
 | [Ruud NTC Thermistor Sensor 42-25101-10P](https://www.amazon.com/s?ascsubtag=ecf-ruud-rp20-heat-pump-error-codes&k=Ruud+NTC+thermistor+sensor+10k+heat+pump&tag=errorcodefixes-20) | Coil, ambient, and suction sensors, replace on any E4, E5, E6 fault | $15–$35 |
 | [Reversing Valve Solenoid Coil](https://www.amazon.com/s?ascsubtag=ecf-ruud-rp20-heat-pump-error-codes&k=heat+pump+reversing+valve+solenoid+coil+24V&tag=errorcodefixes-20) | Powers the 4-way valve; fails on E8/12-flash faults | $20–$45 |
-| [EcoNet Control Board for RP20](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-ruud-rp20-heat-pump-error-codes&tag=errorcodefixes-20) | Main outdoor control board; required for F3 or persistent F1/F2 faults | $150–$350 |
+| [EcoNet Control Board for RP20](https://www.amazon.com/s?k=EcoNet+Control+Board+for+RP20&tag=errorcodefixes-20) | Main outdoor control board; required for F3 or persistent F1/F2 faults | $150–$350 |
 | [R-410A Refrigerant (25 lb cylinder)](https://www.amazon.com/s?ascsubtag=ecf-ruud-rp20-heat-pump-error-codes&k=R-410A+refrigerant+25+lb&tag=errorcodefixes-20) | Required if system is low from a leak (E2 fault with confirmed low charge) | $75–$120 |
 
 ## When to Call a Pro

@@ -30,7 +30,7 @@ Any loss of communication between these devices triggers a fault code.
 
 ## Common Infinity Error Codes
 
-| [Code](https://www.amazon.com/s?ascsubtag=ecf-carrier-infinity-system-error-codes&k=Code&tag=errorcodefixes-20) | Description | Likely Cause |
+| Code | Description | Likely Cause |
 |---|---|---|
 | 10 | System communication error | Wiring fault or device offline |
 | 11 | Thermostat communication error | Thermostat board failure |

@@ -19,7 +19,7 @@ Carrier geothermal heat pumps (Infinity GHP and Performance series) communicate 
 
 ## Carrier Geothermal Fault Code Table
 
-| [Code](https://www.amazon.com/s?ascsubtag=ecf-carrier-geothermal-error-codes&k=Code&tag=errorcodefixes-20) | Description | Common Cause |
+| Code | Description | Common Cause |
 |---|---|---|
 | 1 | Low-pressure lockout | Low refrigerant, low airflow, low loop flow |
 | 2 | High-pressure lockout | High loop temp, dirty coil, overcharge |

@@ -31,7 +31,7 @@ The Omron CP1H is a compact PLC that indicates faults through **front-panel LEDs
 
 ## Common CP1H Faults
 
-| [Fault](https://www.amazon.com/s?ascsubtag=ecf-omron-cp1h-error-codes&k=Fault&tag=errorcodefixes-20) | Meaning | Typical Fix |
+| Fault | Meaning | Typical Fix |
 |---|---|---|
 | [Memory error](https://www.amazon.com/s?ascsubtag=ecf-omron-cp1h-error-codes&k=Memory+error&tag=errorcodefixes-20) | Program or DM memory corrupted | Re-download program, check battery |
 | [I/O bus error](https://www.amazon.com/s?ascsubtag=ecf-omron-cp1h-error-codes&k=I%2FO+bus+error&tag=errorcodefixes-20) | Expansion module missing or failed | Reseat module, verify addressing |

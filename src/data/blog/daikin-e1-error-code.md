@@ -1,6 +1,6 @@
 ---
 title: "Daikin E1 Error Code Fix — Indoor Sensor Fault"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2024-03-08T08:00:00Z
 modDatetime: 2024-03-08T08:00:00Z
 slug: daikin-e1-error-code
@@ -51,7 +51,7 @@ On some Daikin models, E1 can also indicate a communication error between the in
 |------|-------------|-------------|
 | Room temperature thermistor (Daikin #2501038) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-e1-error-code&k=Room+temperature+thermistor+%28Daikin+%232501038%29&tag=errorcodefixes-20) \| Daikin dealer, HVAC Parts Shop | $12–$30 |
 | Pipe temperature thermistor (Daikin #2501039) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-e1-error-code&k=Pipe+temperature+thermistor+%28Daikin+%232501039%29&tag=errorcodefixes-20) \| Daikin dealer, Amazon OEM | $12–$30 |
-| Indoor PCB main board (model-specific) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-daikin-e1-error-code&tag=errorcodefixes-20) \| Daikin dealer, HVAC Parts Shop | $150–$450 |
+| Indoor PCB main board (model-specific) | [Amazon](https://www.amazon.com/s?k=Indoor+PCB+main+board+%28model-specific%29&tag=errorcodefixes-20) \| Daikin dealer, HVAC Parts Shop | $150–$450 |
 | Electrical contact cleaner (CRC 05103) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-e1-error-code&k=Electrical+contact+cleaner+%28CRC+05103%29&tag=errorcodefixes-20) \| Home Depot, Amazon | $8–$15 |
 ## When to Call a Professional
 

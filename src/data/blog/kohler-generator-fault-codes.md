@@ -16,7 +16,7 @@ tags:
 
 Kohler standby generators use the Decision-Maker controller (Decision-Maker 3000 on residential units, Decision-Maker 3500/6000 on commercial). Fault codes appear on the controller's LCD display and are logged in fault history. Alarms are classified as pre-alarms (warnings) and shutdowns.
 
-| [Code](https://www.amazon.com/s?ascsubtag=ecf-kohler-generator-fault-codes&k=Code&tag=errorcodefixes-20) | Type | Meaning | Quick Fix |
+| Code | Type | Meaning | Quick Fix |
 |------|------|---------|-----------|
 | [Low Battery](https://www.amazon.com/s?ascsubtag=ecf-kohler-generator-fault-codes&k=Low+Battery&tag=errorcodefixes-20) | Warning | Battery voltage low | Test and replace battery |
 | [Battery Charger Fault](https://www.amazon.com/s?ascsubtag=ecf-kohler-generator-fault-codes&k=Battery+Charger+Fault&tag=errorcodefixes-20) | Warning | Charging circuit issue | Check charger; check AC power to charger |

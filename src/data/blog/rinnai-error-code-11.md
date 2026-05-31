@@ -1,6 +1,6 @@
 ---
 title: "Rinnai Error Code 11 — No Ignition Fix"
-author: "Industrial Error Code Fixes"
+author: "James Rutherford"
 pubDatetime: 2024-04-09T08:00:00Z
 modDatetime: 2024-04-09T08:00:00Z
 slug: rinnai-error-code-11
@@ -49,7 +49,7 @@ Low gas pressure requires a licensed gas plumber to inspect the supply system an
 
 | Part | Where to Buy |
 |------|-------------|
-| [Rinnai igniter / flame sensor assembly](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-rinnai-error-code-11&tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
+| [Rinnai igniter / flame sensor assembly](https://www.amazon.com/s?k=Rinnai+igniter+%2F+flame+sensor+assembly&tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
 | [Vent termination cap / kit](https://www.amazon.com/s?ascsubtag=ecf-rinnai-error-code-11&k=Vent+termination+cap+%2F+kit&tag=errorcodefixes-20) | SupplyHouse, Amazon |
 | [Isolation valve (ball valve)](https://www.amazon.com/s?ascsubtag=ecf-rinnai-error-code-11&k=Isolation+valve+%28ball+valve%29&tag=errorcodefixes-20) | Grainger, Amazon |
 

@@ -37,7 +37,7 @@ E1 on a Slant/Fin boiler (Galaxy, Eutectic, or Minuteman series) indicates an ig
 
 | Part | Notes |
 |------|-------|
-| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-slant-fin-boiler-error-code-e1&tag=errorcodefixes-20) \| Usually model-specific; match the part number from the Slant/Fin service manual |
+| Flame sensor rod | [Amazon](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20) \| Usually model-specific; match the part number from the Slant/Fin service manual |
 | Ignition module | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-slant-fin-boiler-error-code-e1&k=Ignition+module&tag=errorcodefixes-20) \| Honeywell S8600 or Beckett equivalent depending on model |
 | Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-slant-fin-boiler-error-code-e1&tag=errorcodefixes-20) \| Replace only after confirming 24VAC command and no gas output |
 ## When to Call a Pro

@@ -117,7 +117,7 @@ Discharge temperature faults (code 174/4 blinks) indicate the compressor dischar
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
 | [Trane Outdoor Sensor BAYSENSNDR01A](https://www.amazon.com/s?ascsubtag=ecf-trane-xr17-error-codes&k=Trane+BAYSENSNDR01A+outdoor+sensor&tag=errorcodefixes-20) | Universal sensor replacement for ambient, coil, discharge, suction faults | $20–$40 |
-| [Trane XR17 Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-trane-xr17-error-codes&tag=errorcodefixes-20) | Replace on persistent defrost faults (code 184) or board failure | $150–$350 |
+| [Trane XR17 Control Board](https://www.amazon.com/s?k=Trane+XR17+Control+Board&tag=errorcodefixes-20) | Replace on persistent defrost faults (code 184) or board failure | $150–$350 |
 | [Heat Pump Reversing Valve Solenoid 24V](https://www.amazon.com/s?ascsubtag=ecf-trane-xr17-error-codes&k=heat+pump+reversing+valve+solenoid+24V+coil&tag=errorcodefixes-20) | Burnt solenoid is common cause of reversing valve faults (code 182) | $20–$45 |
 | [Start/Run Capacitor for Heat Pump](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-trane-xr17-error-codes&tag=errorcodefixes-20) | Failed capacitor causes compressor and fan start faults (5 blinks) | $15–$35 |
 | [HVAC Coil Cleaner Spray](https://www.amazon.com/s?ascsubtag=ecf-trane-xr17-error-codes&k=HVAC+outdoor+coil+cleaner+spray&tag=errorcodefixes-20) | Clean fouled outdoor coil to prevent high-pressure trips | $12–$25 |

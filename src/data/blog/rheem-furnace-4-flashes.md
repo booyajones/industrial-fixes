@@ -1,6 +1,6 @@
 ---
 title: "Rheem Furnace 4 Flashes — Open High Temperature Limit Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2024-03-29T08:00:00Z
 modDatetime: 2024-03-29T08:00:00Z
 slug: rheem-furnace-4-flashes

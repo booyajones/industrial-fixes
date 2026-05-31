@@ -25,13 +25,13 @@ Bradford White status LED (on the gas valve body, visible through the front pane
 
 | [Flashes](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-error-code-7&k=Flashes&tag=errorcodefixes-20) | Meaning |
 |---|---|
-| [1 flash](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-error-code-7&k=1+flash&tag=errorcodefixes-20) | Normal pilot operation |
-| [2 flashes](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-error-code-7&k=2+flashes&tag=errorcodefixes-20) | Low thermopile voltage |
-| [3 flashes](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-error-code-7&k=3+flashes&tag=errorcodefixes-20) | Pressure switch fault (power vent models) |
-| [4 flashes](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-error-code-7&k=4+flashes&tag=errorcodefixes-20) | High limit exceeded |
-| [5 flashes](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-error-code-7&k=5+flashes&tag=errorcodefixes-20) | Flame sense without call for heat |
-| [6 flashes](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-error-code-7&k=6+flashes&tag=errorcodefixes-20) | Thermal well/temperature sensor fault |
-| [7 flashes](https://www.amazon.com/s?ascsubtag=ecf-bradford-white-error-code-7&k=7+flashes&tag=errorcodefixes-20) | **Pilot out / pilot not proved** |
+| 1 flash | Normal pilot operation |
+| 2 flashes | Low thermopile voltage |
+| 3 flashes | Pressure switch fault (power vent models) |
+| 4 flashes | High limit exceeded |
+| 5 flashes | Flame sense without call for heat |
+| 6 flashes | Thermal well/temperature sensor fault |
+| 7 flashes | **Pilot out / pilot not proved** |
 
 ## Why the Pilot Goes Out
 

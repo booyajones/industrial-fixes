@@ -367,7 +367,7 @@ PTAC replacement is often faster and cheaper than component-level repair. Use th
 ## Parts and Supply Links
 
 - **[Amana PTAC Thermistor Sensor Kit](https://www.amazon.com/s?ascsubtag=ecf-ptac-error-codes&k=amana+ptac+thermistor+sensor&tag=errorcodefixes-20)**
-- **[GE Zoneline Control Board Replacement](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-ptac-error-codes&tag=errorcodefixes-20)**
+- **[GE Zoneline Control Board Replacement](https://www.amazon.com/s?k=GE+Zoneline+Control+Board+Replacement&tag=errorcodefixes-20)**
 - **[Friedrich PTAC Parts](https://www.amazon.com/s?ascsubtag=ecf-ptac-error-codes&k=friedrich+ptac+replacement+parts&tag=errorcodefixes-20)**
 - **[PTAC Filter Replacement Universal](https://www.amazon.com/s?ascsubtag=ecf-ptac-error-codes&k=ptac+replacement+filter+universal&tag=errorcodefixes-20)**
 - **[PTAC Blower Fan Motor](https://www.amazon.com/s?ascsubtag=ecf-ptac-error-codes&k=ptac+blower+motor+replacement&tag=errorcodefixes-20)**

@@ -85,7 +85,7 @@ When E9 is displayed on an older model without a digital display:
 |---|---|
 | EEV coil (stepper motor coil) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fujitsu-mini-split-error-code-e9&k=EEV+coil+%28stepper+motor+coil%29&tag=errorcodefixes-20) \| Fujitsu OEM — match connector and winding resistance |
 | EEV valve body | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-fujitsu-mini-split-error-code-e9&k=EEV+valve+body&tag=errorcodefixes-20) \| Replace as assembly if mechanically stuck |
-| Outdoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-fujitsu-mini-split-error-code-e9&tag=errorcodefixes-20) \| Last resort — expensive; verify all other causes first |
+| Outdoor PCB | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB&tag=errorcodefixes-20) \| Last resort — expensive; verify all other causes first |
 ## Reset Procedure
 
 After fixing the EEV coil or wiring:

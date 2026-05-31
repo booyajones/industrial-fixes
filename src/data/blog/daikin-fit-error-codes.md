@@ -98,8 +98,8 @@ The system has detected low refrigerant based on discharge superheat readings. U
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|---------------|
-| Outdoor PCB / control board (Daikin OEM — match model) | $180–$450 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-daikin-fit-error-codes&tag=errorcodefixes-20) |
-| Indoor PCB / main board (Daikin SQ series — match model) | $150–$380 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-daikin-fit-error-codes&tag=errorcodefixes-20) |
+| Outdoor PCB / control board (Daikin OEM — match model) | $180–$450 | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB+%2F+control+board+%28Daikin+OEM+%E2%80%94+match+model%29&tag=errorcodefixes-20) |
+| Indoor PCB / main board (Daikin SQ series — match model) | $150–$380 | [Amazon](https://www.amazon.com/s?k=Indoor+PCB+%2F+main+board+%28Daikin+SQ+series+%E2%80%94+match+model%29&tag=errorcodefixes-20) |
 | Inverter module (IPM module for RZB series) | $200–$600 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-fit-error-codes&k=Daikin+inverter+IPM+module+heat+pump&tag=errorcodefixes-20) |
 | NTC temperature sensor / thermistor (Daikin OEM) | $12–$35 | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-daikin-fit-error-codes&tag=errorcodefixes-20) |
 | Electronic expansion valve (EEV) kit — Sporlan or Daikin OEM | $80–$220 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-fit-error-codes&k=Daikin+electronic+expansion+valve+EEV+kit&tag=errorcodefixes-20) |

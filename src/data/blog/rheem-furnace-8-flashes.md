@@ -37,7 +37,7 @@ Eight flashes on a Rheem furnace status LED indicates an **ignition lockout** â€
 
 | Part | Notes |
 |------|-------|
-| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-rheem-furnace-8-flashes&tag=errorcodefixes-20) \| Universal or OEM; clean first before replacing |
+| Flame sensor rod | [Amazon](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20) \| Universal or OEM; clean first before replacing |
 | Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-rheem-furnace-8-flashes&tag=errorcodefixes-20) \| Match voltage (120V) and mounting style â€” Rheem commonly uses Norton/Saint-Gobain ignitors |
 | Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-rheem-furnace-8-flashes&tag=errorcodefixes-20) \| Only replace after confirming pressure and wiring are correct |
 ## When to Call a Pro

@@ -1,6 +1,6 @@
 ---
 title: "Carrier 43 Error Code — Rollout Switch Open Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2024-03-23T08:00:00Z
 modDatetime: 2024-03-23T08:00:00Z
 slug: carrier-43-error-code

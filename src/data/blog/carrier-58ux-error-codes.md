@@ -58,7 +58,7 @@ The Carrier 58UX is an upflow/horizontal single-stage gas furnace in the Perform
 
 | Part | Notes |
 |------|-------|
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-carrier-58ux-error-codes&tag=errorcodefixes-20) \| Most common; clean first, replace if cracked |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Most common; clean first, replace if cracked |
 | Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-carrier-58ux-error-codes&tag=errorcodefixes-20) \| 120V silicon nitride type for 58UX |
 | Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-58ux-error-codes&tag=errorcodefixes-20) \| Confirm correct water column rating (typically 0.85" or 1.2") |
 | Inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-carrier-58ux-error-codes&tag=errorcodefixes-20) \| If inducer is weak or noisy, pressure switch faults follow |

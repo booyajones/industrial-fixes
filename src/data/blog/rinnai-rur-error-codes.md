@@ -67,7 +67,7 @@ The Rinnai RUR series (RUR160iN, RUR199iN, RUR160eN, RUR199eN) are condensing ta
 | Thermal fuse | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-rur-error-codes&k=Thermal+fuse&tag=errorcodefixes-20) \| One-time device; investigate cause before replacing |
 | Combustion fan assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-rur-error-codes&k=Combustion+fan+assembly&tag=errorcodefixes-20) \| For Code 61; includes wheel |
 | Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-rinnai-rur-error-codes&tag=errorcodefixes-20) \| For Code 71 with confirmed 24V signal |
-| Flame sensor rod | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-rinnai-rur-error-codes&tag=errorcodefixes-20) \| For Code 72; clean first |
+| Flame sensor rod | [Amazon](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20) \| For Code 72; clean first |
 | Condensate drain trap | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-rur-error-codes&k=Condensate+drain+trap&tag=errorcodefixes-20) \| Check for blockage or replace if cracked |
 | Remote controller (MC-91-2) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-rur-error-codes&k=Remote+controller+%28MC-91-2%29&tag=errorcodefixes-20) \| If display is faulty or communication fails |
 ## When to Call a Pro

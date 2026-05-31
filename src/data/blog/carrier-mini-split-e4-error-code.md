@@ -1,6 +1,6 @@
 ---
 title: "Carrier Mini-Split E4 Error Code — Compressor Discharge Temperature Fix"
-author: "Industrial Error Code Fixes"
+author: "Dana Kowalski"
 pubDatetime: 2026-04-26T18:15:00Z
 modDatetime: 2026-04-26T18:15:00Z
 slug: carrier-mini-split-e4-error-code

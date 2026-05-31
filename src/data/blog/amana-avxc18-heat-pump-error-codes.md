@@ -132,7 +132,7 @@ If these codes repeat, you need real electrical and refrigerant diagnosis. Guess
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
 | [Goodman Amana Outdoor Thermistor 0130M00068](https://www.amazon.com/s?ascsubtag=ecf-amana-avxc18-heat-pump-error-codes&k=Goodman+Amana+0130M00068+thermistor&tag=errorcodefixes-20) | Replaces failed outdoor temperature sensors for L5 through L8 faults | $15–$35 |
-| [Amana AVXC18 Outdoor Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-amana-avxc18-heat-pump-error-codes&tag=errorcodefixes-20) | Needed for repeated memory, communication, or board-level inverter faults | $180–$420 |
+| [Amana AVXC18 Outdoor Control Board](https://www.amazon.com/s?k=Amana+AVXC18+Outdoor+Control+Board&tag=errorcodefixes-20) | Needed for repeated memory, communication, or board-level inverter faults | $180–$420 |
 | [Heat Pump Reversing Valve Solenoid Coil 24V](https://www.amazon.com/s?ascsubtag=ecf-amana-avxc18-heat-pump-error-codes&k=heat+pump+reversing+valve+solenoid+24V+coil&tag=errorcodefixes-20) | Fixes common H4 electrical faults when the valve coil burns open | $20–$45 |
 | [Amana or Goodman ECM Outdoor Fan Motor](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-amana-avxc18-heat-pump-error-codes&tag=errorcodefixes-20) | Replaces failed outdoor fan motor causing H3 and secondary pressure faults | $120–$320 |
 | [ComfortNet Thermostat](https://www.amazon.com/s?ascsubtag=ecf-amana-avxc18-heat-pump-error-codes&k=ComfortNet+thermostat+Amana+Goodman&tag=errorcodefixes-20) | Gives full communicating diagnostics and proper control logic for AVXC18 systems | $120–$260 |

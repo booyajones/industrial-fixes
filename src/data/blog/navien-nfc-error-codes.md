@@ -54,7 +54,7 @@ Common in hard water areas. The stainless HX accumulates scale, reducing heat tr
 
 | Part | Notes |
 |------|-------|
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-navien-nfc-error-codes&tag=errorcodefixes-20) \| Clean first, replace if signal persists |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Clean first, replace if signal persists |
 | Flow sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-nfc-error-codes&k=Flow+sensor&tag=errorcodefixes-20) \| DHW and heating flow sensors differ |
 | Heat exchanger | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-nfc-error-codes&k=Heat+exchanger&tag=errorcodefixes-20) \| Expensive — descale first |
 | Igniter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-nfc-error-codes&k=Igniter&tag=errorcodefixes-20) \| Check resistance before replacing |

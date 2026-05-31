@@ -1,6 +1,6 @@
 ---
 title: "Navien Error Code E003 — Ignition Failure Fix"
-author: "Industrial Error Code Fixes"
+author: "James Rutherford"
 pubDatetime: 2024-03-15T08:00:00Z
 modDatetime: 2024-03-15T08:00:00Z
 slug: navien-error-code-e003-ignition-failure
@@ -53,7 +53,7 @@ This is the most common fault code on Navien's extensive line of residential and
 | Part | Part Number | Typical Cost | Where to Buy |
 |------|------------|-------------|-------------|
 | Navien Igniter (NPE-A/S) | BH2040180A | $50–$65 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-error-code-e003-ignition-failure&k=BH2040180A+Navien+Igniter+%28NPE-A%2FS%29&tag=errorcodefixes-20) \| SupplyHouse / Amazon |
-| Navien Flame Sensor (Rod) | 30010972A | $25–$40 | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-navien-error-code-e003-ignition-failure&tag=errorcodefixes-20) \| SupplyHouse / Amazon |
+| Navien Flame Sensor (Rod) | 30010972A | $25–$40 | [Amazon](https://www.amazon.com/s?k=Navien+Flame+Sensor+%28Rod%29&tag=errorcodefixes-20) \| SupplyHouse / Amazon |
 | Navien Gas Valve (NPE-A/S) | BH1680178A | $170–$200 | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-navien-error-code-e003-ignition-failure&tag=errorcodefixes-20) \| SupplyHouse / Navien Parts |
 | Navien Condensate Trap | 30011532A | $15–$25 | [Amazon](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-navien-error-code-e003-ignition-failure&tag=errorcodefixes-20) \| SupplyHouse |
 ## When to Call a Professional

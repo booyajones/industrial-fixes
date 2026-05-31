@@ -60,7 +60,7 @@ The Carrier Infinity 24ACC6 is a high-efficiency single-stage central air condit
 | Contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-carrier-infinity-24acc6-error-codes&tag=errorcodefixes-20) \| Check for pitted or welded contacts |
 | Low-pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-carrier-infinity-24acc6-error-codes&tag=errorcodefixes-20) \| Replace if Code 3 persists with correct charge |
 | Outdoor coil thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-infinity-24acc6-error-codes&k=Outdoor+coil+thermistor&tag=errorcodefixes-20) \| For Code 11; inexpensive OEM part |
-| Infinity control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-carrier-infinity-24acc6-error-codes&tag=errorcodefixes-20) \| For persistent Code 5 or communication faults |
+| Infinity control board | [Amazon](https://www.amazon.com/s?k=Infinity+control+board&tag=errorcodefixes-20) \| For persistent Code 5 or communication faults |
 | Condenser fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-carrier-infinity-24acc6-error-codes&tag=errorcodefixes-20) \| Confirm correct rotation before condemning |
 ## When to Call a Pro
 

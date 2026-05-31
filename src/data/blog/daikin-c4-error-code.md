@@ -40,7 +40,7 @@ Daikin error code **C4** indicates an **indoor heat exchanger coil sensor fault*
 | Part | Notes |
 |------|-------|
 | Indoor coil thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-c4-error-code&k=Indoor+coil+thermistor&tag=errorcodefixes-20) \| Model-specific Daikin sensor |
-| Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-daikin-c4-error-code&tag=errorcodefixes-20) \| Only if thermistor and wiring test good |
+| Indoor PCB | [Amazon](https://www.amazon.com/s?k=Indoor+PCB&tag=errorcodefixes-20) \| Only if thermistor and wiring test good |
 ## When to Call a Pro
 If the sensor tests correctly but C4 returns, the indoor control board likely has a bad thermistor input circuit. A technician can confirm before you order a PCB.
 

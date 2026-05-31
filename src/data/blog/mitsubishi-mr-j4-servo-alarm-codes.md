@@ -1,6 +1,6 @@
 ---
 title: "Mitsubishi MR-J4 Servo Amplifier Alarm Codes — AL.10, AL.16, AL.30, AL.50 Fix"
-author: "Industrial Error Code Fixes"
+author: "Dana Kowalski"
 pubDatetime: 2026-04-24T22:10:00Z
 modDatetime: 2026-04-24T22:10:00Z
 slug: mitsubishi-mr-j4-servo-alarm-codes

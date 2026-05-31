@@ -37,7 +37,7 @@ The Goodman **EE2 error code** appears on the communicating thermostat or contro
 | Part | Notes |
 |------|-------|
 | Communicating thermostat | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-goodman-furnace-ee2-error-code&k=Communicating+thermostat&tag=errorcodefixes-20) \| Replace when thermostat communication circuit has failed |
-| Furnace control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-goodman-furnace-ee2-error-code&tag=errorcodefixes-20) \| Replace when board communication circuit fails and all wiring tests good |
+| Furnace control board | [Amazon](https://www.amazon.com/s?k=Furnace+control+board&tag=errorcodefixes-20) \| Replace when board communication circuit fails and all wiring tests good |
 | Low-voltage wiring (18/5 or 18/8) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-goodman-furnace-ee2-error-code&k=Low-voltage+wiring+%2818%2F5+or+18%2F8%29&tag=errorcodefixes-20) \| Replace if wire continuity test shows any open conductors |
 ## When to Call a Pro
 

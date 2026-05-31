@@ -1,6 +1,6 @@
 ---
 title: "ABB ACS580 Fault Codes — Complete Diagnosis & Fix Guide"
-author: "Industrial Error Code Fixes"
+author: "Dana Kowalski"
 pubDatetime: 2026-04-24T22:40:00Z
 modDatetime: 2026-04-24T22:40:00Z
 slug: abb-acs580-fault-codes

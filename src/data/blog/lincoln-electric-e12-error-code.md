@@ -37,7 +37,7 @@ The E12 fault on Lincoln Electric welders (Power MIG, Power Wave, and Invertec s
 | Part | Notes |
 |------|-------|
 | Input contactor | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-lincoln-electric-e12-error-code&tag=errorcodefixes-20) \| Match to exact Lincoln part number — coil voltage and contact rating vary |
-| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-lincoln-electric-e12-error-code&tag=errorcodefixes-20) \| If board isn't sending energize signal to contactor |
+| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| If board isn't sending energize signal to contactor |
 | Input wiring harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lincoln-electric-e12-error-code&k=Input+wiring+harness&tag=errorcodefixes-20) \| If leads to contactor are damaged |
 ## When to Call a Pro
 

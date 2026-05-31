@@ -39,7 +39,7 @@ E4 on a Nordyne furnace (and Nordyne-built brands including Frigidaire, Gibson, 
 | Part | Notes |
 |------|-------|
 | Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-nordyne-furnace-e4-error-code&tag=errorcodefixes-20) \| Nordyne-specific part; use OEM or a direct replacement with matching wattage |
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-nordyne-furnace-e4-error-code&tag=errorcodefixes-20) \| Standard universal sensors work in most Nordyne models |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Standard universal sensors work in most Nordyne models |
 | Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-nordyne-furnace-e4-error-code&tag=errorcodefixes-20) \| Replace only after confirming 24VAC input with no gas output |
 ## When to Call a Pro
 

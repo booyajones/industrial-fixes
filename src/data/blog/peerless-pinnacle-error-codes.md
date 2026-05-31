@@ -19,7 +19,7 @@ The Peerless Pinnacle is a high-efficiency condensing gas boiler used in residen
 
 ## Peerless Pinnacle Error Code Table
 
-| [Code](https://www.amazon.com/s?ascsubtag=ecf-peerless-pinnacle-error-codes&k=Code&tag=errorcodefixes-20) | Description | Common Cause |
+| Code | Description | Common Cause |
 |---|---|---|
 | E01 | High limit trip | Overtemperature, poor circulation |
 | E02 | Ignition failure | No gas, failed igniter, flame sensor |

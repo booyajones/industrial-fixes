@@ -54,7 +54,7 @@ One reset after a clear correction is fine. Five resets in a row without diagnos
 
 | Item | Notes |
 |------|-------|
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-boiler-lockout-error-codes&tag=errorcodefixes-20) \| Cheap and common failure item |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Cheap and common failure item |
 | Igniter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-boiler-lockout-error-codes&k=Igniter&tag=errorcodefixes-20) \| Common on repeated ignition lockouts |
 | Expansion tank | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-boiler-lockout-error-codes&k=Expansion+tank&tag=errorcodefixes-20) \| Pressure-related complaints |
 | Circulator pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-boiler-lockout-error-codes&k=Circulator+pump&tag=errorcodefixes-20) \| Overtemp and low-flow issues |

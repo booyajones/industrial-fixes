@@ -41,7 +41,7 @@ E5 on a Burnham boiler indicates a sensor fault. Depending on the specific Burnh
 | Supply water temperature sensor (NTC) | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-burnham-boiler-e5-error-code&tag=errorcodefixes-20) \| Match to Burnham control model; immersion type most common |
 | Outdoor reset sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-burnham-boiler-e5-error-code&k=Outdoor+reset+sensor&tag=errorcodefixes-20) \| Only if fault references outdoor sensor input |
 | Sensor wiring harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-burnham-boiler-e5-error-code&k=Sensor+wiring+harness&tag=errorcodefixes-20) \| Replace if insulation is damaged near heat source |
-| Boiler control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-burnham-boiler-e5-error-code&tag=errorcodefixes-20) \| Replace only if sensors test good and fault persists |
+| Boiler control board | [Amazon](https://www.amazon.com/s?k=Boiler+control+board&tag=errorcodefixes-20) \| Replace only if sensors test good and fault persists |
 ## When to Call a Pro
 
 If the replacement sensor does not clear E5 and the wiring is confirmed intact, the control board likely has a failed input. A Burnham-authorized service technician can perform a full board-level diagnostic and confirm correct replacement parts.

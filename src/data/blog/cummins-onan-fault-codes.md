@@ -17,15 +17,15 @@ tags:
 
 Cummins Onan generators cover the range from compact RV gensets (QG 2500, QD 3200) to commercial diesel generators (MDKD, DSGAA series). Fault codes are displayed on the generator control panel or via the Onan app. RV-series generators use a simplified blink code system.
 
-| [Code](https://www.amazon.com/s?ascsubtag=ecf-cummins-onan-fault-codes&k=Code&tag=errorcodefixes-20) | Series | Meaning | Quick Fix |
+| Code | Series | Meaning | Quick Fix |
 |------|--------|---------|-----------|
-| [2 blinks](https://www.amazon.com/s?ascsubtag=ecf-cummins-onan-fault-codes&k=2+blinks&tag=errorcodefixes-20) | RV QG/QD | Low oil pressure | Add oil; check oil sender |
-| [3 blinks](https://www.amazon.com/s?ascsubtag=ecf-cummins-onan-fault-codes&k=3+blinks&tag=errorcodefixes-20) | RV QG/QD | High coolant temperature | Check coolant; check fan |
-| [4 blinks](https://www.amazon.com/s?ascsubtag=ecf-cummins-onan-fault-codes&k=4+blinks&tag=errorcodefixes-20) | RV QG/QD | Overcrank (fail to start) | Check fuel, spark, choke |
-| [5 blinks](https://www.amazon.com/s?ascsubtag=ecf-cummins-onan-fault-codes&k=5+blinks&tag=errorcodefixes-20) | RV QG/QD | Field (voltage) fault | AVR or control board issue |
-| [6 blinks](https://www.amazon.com/s?ascsubtag=ecf-cummins-onan-fault-codes&k=6+blinks&tag=errorcodefixes-20) | RV QG/QD | Governor fault | Governor calibration needed |
-| [7 blinks](https://www.amazon.com/s?ascsubtag=ecf-cummins-onan-fault-codes&k=7+blinks&tag=errorcodefixes-20) | RV QG/QD | Controller fault | Replace control board |
-| [8 blinks](https://www.amazon.com/s?ascsubtag=ecf-cummins-onan-fault-codes&k=8+blinks&tag=errorcodefixes-20) | RV QG/QD | Low voltage / high voltage | Load issue or AVR fault |
+| 2 blinks | RV QG/QD | Low oil pressure | Add oil; check oil sender |
+| 3 blinks | RV QG/QD | High coolant temperature | Check coolant; check fan |
+| 4 blinks | RV QG/QD | Overcrank (fail to start) | Check fuel, spark, choke |
+| 5 blinks | RV QG/QD | Field (voltage) fault | AVR or control board issue |
+| 6 blinks | RV QG/QD | Governor fault | Governor calibration needed |
+| 7 blinks | RV QG/QD | Controller fault | Replace control board |
+| 8 blinks | RV QG/QD | Low voltage / high voltage | Load issue or AVR fault |
 | [Code 13](https://www.amazon.com/s?ascsubtag=ecf-cummins-onan-fault-codes&k=Code+13&tag=errorcodefixes-20) | Commercial | Low oil pressure warning | Check oil level |
 | [Code 14](https://www.amazon.com/s?ascsubtag=ecf-cummins-onan-fault-codes&k=Code+14&tag=errorcodefixes-20) | Commercial | Low oil pressure shutdown | Immediate shutdown — add oil |
 | [Code 22](https://www.amazon.com/s?ascsubtag=ecf-cummins-onan-fault-codes&k=Code+22&tag=errorcodefixes-20) | Commercial | High coolant temp warning | Check cooling system |

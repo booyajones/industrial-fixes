@@ -1,6 +1,6 @@
 ---
 title: "Yaskawa VFD Fault OV — DC Bus Overvoltage Fix"
-author: "Industrial Error Code Fixes"
+author: "Dana Kowalski"
 pubDatetime: 2024-04-13T08:00:00Z
 modDatetime: 2024-04-13T08:00:00Z
 slug: yaskawa-vfd-fault-ov

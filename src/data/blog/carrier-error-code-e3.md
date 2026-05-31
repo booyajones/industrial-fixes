@@ -36,7 +36,7 @@ The Carrier E3 error code indicates an **IPM (Intelligent Power Module) fault** 
 
 | Part | Notes |
 |------|-------|
-| IPM / Inverter control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-carrier-error-code-e3&tag=errorcodefixes-20) \| Replace when fault persists after cleaning and fan checks; brand-specific part number required |
+| IPM / Inverter control board | [Amazon](https://www.amazon.com/s?k=IPM+%2F+Inverter+control+board&tag=errorcodefixes-20) \| Replace when fault persists after cleaning and fan checks; brand-specific part number required |
 | Outdoor fan motor | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-carrier-error-code-e3&tag=errorcodefixes-20) \| Replace if motor windings test open or motor is seized |
 | Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-carrier-error-code-e3&tag=errorcodefixes-20) \| Replace if capacitance reads >10% below rated value |
 | Coil cleaner (Nu-Calgon Evap Foam) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-error-code-e3&k=Coil+cleaner+%28Nu-Calgon+Evap+Foam%29&tag=errorcodefixes-20) \| Use for routine condenser cleaning to prevent thermal faults |

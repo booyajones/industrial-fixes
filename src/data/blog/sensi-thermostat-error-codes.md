@@ -20,7 +20,7 @@ Emerson Sensi thermostats (ST55U, ST75U, UP500W, and 1T) use a combination of di
 
 ## Sensi Error Codes — Quick Reference
 
-| [Code](https://www.amazon.com/s?ascsubtag=ecf-sensi-thermostat-error-codes&k=Code&tag=errorcodefixes-20) | Meaning | Fix |
+| Code | Meaning | Fix |
 |---|---|---|
 | E1 | Indoor temperature sensor fault | Replace thermostat |
 | E2 | Outdoor/remote sensor fault | Check/replace remote sensor probe |

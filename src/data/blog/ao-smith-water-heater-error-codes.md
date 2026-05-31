@@ -19,7 +19,7 @@ A.O. Smith manufactures one of the widest lines of water heating equipment in No
 
 ## A.O. Smith Tankless Error Codes (ATI/ATH Series)
 
-| [Code](https://www.amazon.com/s?ascsubtag=ecf-ao-smith-water-heater-error-codes&k=Code&tag=errorcodefixes-20) | Description | Common Cause |
+| Code | Description | Common Cause |
 |---|---|---|
 | E01 | Ignition failure | Gas supply, igniter, flame sensor |
 | E02 | Flame signal lost during operation | Gas pressure, flame sensor |
@@ -40,16 +40,16 @@ Standard ProLine and Craftmaster gas storage heaters use LED flash codes:
 | [Flash Count](https://www.amazon.com/s?ascsubtag=ecf-ao-smith-water-heater-error-codes&k=Flash+Count&tag=errorcodefixes-20) | Fault | Action |
 |---|---|---|
 | [1 flash / 3 sec](https://www.amazon.com/s?ascsubtag=ecf-ao-smith-water-heater-error-codes&k=1+flash+%2F+3+sec&tag=errorcodefixes-20) | Normal — pilot lit | No action needed |
-| [2 flashes](https://www.amazon.com/s?ascsubtag=ecf-ao-smith-water-heater-error-codes&k=2+flashes&tag=errorcodefixes-20) | Thermopile voltage < 350 mV | Clean thermopile, check draft |
-| [3 flashes](https://www.amazon.com/s?ascsubtag=ecf-ao-smith-water-heater-error-codes&k=3+flashes&tag=errorcodefixes-20) | Pilot out | Relight — check gas supply |
-| [4 flashes](https://www.amazon.com/s?ascsubtag=ecf-ao-smith-water-heater-error-codes&k=4+flashes&tag=errorcodefixes-20) | Ignition failure | Check spark, gas, thermocouple |
-| [5 flashes](https://www.amazon.com/s?ascsubtag=ecf-ao-smith-water-heater-error-codes&k=5+flashes&tag=errorcodefixes-20) | Sensor fault | Temperature sensor issue |
-| [6 flashes](https://www.amazon.com/s?ascsubtag=ecf-ao-smith-water-heater-error-codes&k=6+flashes&tag=errorcodefixes-20) | Thermal switch open | Scale or high temperature trip |
-| [7 flashes](https://www.amazon.com/s?ascsubtag=ecf-ao-smith-water-heater-error-codes&k=7+flashes&tag=errorcodefixes-20) | Gas valve fault | Gas valve or wiring issue |
+| 2 flashes | Thermopile voltage < 350 mV | Clean thermopile, check draft |
+| 3 flashes | Pilot out | Relight — check gas supply |
+| 4 flashes | Ignition failure | Check spark, gas, thermocouple |
+| 5 flashes | Sensor fault | Temperature sensor issue |
+| 6 flashes | Thermal switch open | Scale or high temperature trip |
+| 7 flashes | Gas valve fault | Gas valve or wiring issue |
 
 ## A.O. Smith Voltex Heat Pump Error Codes
 
-| [Code](https://www.amazon.com/s?ascsubtag=ecf-ao-smith-water-heater-error-codes&k=Code&tag=errorcodefixes-20) | Description | Action |
+| Code | Description | Action |
 |---|---|---|
 | E01 | Low refrigerant / compressor fault | Check refrigerant and compressor |
 | E02 | High refrigerant pressure | Check condenser coil and fan |
@@ -61,7 +61,7 @@ Standard ProLine and Craftmaster gas storage heaters use LED flash codes:
 
 ## A.O. Smith Vertex (Condensing Gas Storage) Faults
 
-| [Fault](https://www.amazon.com/s?ascsubtag=ecf-ao-smith-water-heater-error-codes&k=Fault&tag=errorcodefixes-20) | Description | Action |
+| Fault | Description | Action |
 |---|---|---|
 | E1 | Ignition failure | Gas, igniter, flame sensor |
 | E2 | Overheat | Scale buildup — descale unit |

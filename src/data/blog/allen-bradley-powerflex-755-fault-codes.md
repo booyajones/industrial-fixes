@@ -1,6 +1,6 @@
 ---
 title: "Allen-Bradley PowerFlex 755 Fault Codes — Complete Troubleshooting Guide"
-author: "Industrial Error Code Fixes"
+author: "Dana Kowalski"
 pubDatetime: 2026-04-26T18:15:00Z
 modDatetime: 2026-04-26T18:15:00Z
 slug: allen-bradley-powerflex-755-fault-codes

@@ -1,6 +1,6 @@
 ---
 title: "Carrier 13 Error Code — Limit Switch Lockout Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2024-03-03T08:00:00Z
 modDatetime: 2024-03-03T08:00:00Z
 slug: carrier-13-error-code

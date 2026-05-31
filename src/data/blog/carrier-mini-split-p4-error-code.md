@@ -1,6 +1,6 @@
 ---
 title: "Carrier Mini-Split P4 Error Code — Inverter Module Overtemperature Fix"
-author: "Industrial Error Code Fixes"
+author: "Dana Kowalski"
 pubDatetime: 2026-04-26T18:15:00Z
 modDatetime: 2026-04-26T18:15:00Z
 slug: carrier-mini-split-p4-error-code
@@ -56,7 +56,7 @@ Applies to Carrier Performance and Comfort series inverter mini-splits (40MAQB, 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|-------------|
 | Carrier Outdoor Fan Motor (mini-split) | $60–$140 | [Amazon](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-carrier-mini-split-p4-error-code&tag=errorcodefixes-20) |
-| Carrier Inverter Control Board / IPM | $250–$500+ | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-carrier-mini-split-p4-error-code&tag=errorcodefixes-20) |
+| Carrier Inverter Control Board / IPM | $250–$500+ | [Amazon](https://www.amazon.com/s?k=Carrier+Inverter+Control+Board+%2F+IPM&tag=errorcodefixes-20) |
 | AC Coil Fin Comb Set | $10–$20 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-mini-split-p4-error-code&k=AC+coil+fin+comb+set&tag=errorcodefixes-20) |
 | Nu-Calgon Coil Cleaner (Evap Foam) | $15–$25 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-mini-split-p4-error-code&k=Nu-Calgon+coil+cleaner+no+rinse&tag=errorcodefixes-20) |
 | Run Capacitor (outdoor fan) | $10–$30 | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-carrier-mini-split-p4-error-code&tag=errorcodefixes-20) |

@@ -47,8 +47,8 @@ R-410A high-side must stay below 590 psi. Wash condenser coil, check condenser f
 
 | Part | Notes |
 |------|-------|
-| IFC board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-york-affiniti-error-codes&tag=errorcodefixes-20) \| Match to unit model |
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-york-affiniti-error-codes&tag=errorcodefixes-20) \| Measure ┬╡A first |
+| IFC board | [Amazon](https://www.amazon.com/s?k=IFC+board&tag=errorcodefixes-20) \| Match to unit model |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Measure ┬╡A first |
 | Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-york-affiniti-error-codes&tag=errorcodefixes-20) \| Match pressure setpoint |
 | Limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-york-affiniti-error-codes&tag=errorcodefixes-20) \| Match temperature rating |
 | Run capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-york-affiniti-error-codes&tag=errorcodefixes-20) \| Test ┬╡F with meter |

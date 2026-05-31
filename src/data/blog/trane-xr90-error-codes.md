@@ -56,7 +56,7 @@ The Trane XR90 is a single-stage 90% AFUE gas furnace with a PSC (permanent spli
 | Part | Notes |
 |---|---|
 | Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-trane-xr90-error-codes&tag=errorcodefixes-20) \| Norton 601, silicon carbide; fragile — don't touch the ceramic |
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-trane-xr90-error-codes&tag=errorcodefixes-20) \| Rod-type; clean with steel wool before replacing |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Rod-type; clean with steel wool before replacing |
 | Inducer motor capacitor | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-trane-xr90-error-codes&tag=errorcodefixes-20) \| 5 or 7.5 µF; measure before replacing motor |
 | Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-trane-xr90-error-codes&tag=errorcodefixes-20) \| Two switches on some XR90 versions (high and low) |
 | High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-trane-xr90-error-codes&tag=errorcodefixes-20) \| L200°F on most XR90 configurations |

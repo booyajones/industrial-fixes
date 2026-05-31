@@ -36,7 +36,7 @@ Navien error code E004 indicates false flame detection — the flame sensor dete
 
 | Part | Notes |
 |------|-------|
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-navien-error-code-e004&tag=errorcodefixes-20) \| Navien units use an integrated sensor/igniter on some models; verify separately serviceable |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Navien units use an integrated sensor/igniter on some models; verify separately serviceable |
 | Gas valve assembly | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-navien-error-code-e004&tag=errorcodefixes-20) \| Replace only if confirmed leaking; this is a licensed gas technician job |
 | Control PCB | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-navien-error-code-e004&k=Control+PCB&tag=errorcodefixes-20) \| Replace if sensor and valve are confirmed good but fault persists |
 ## When to Call a Pro

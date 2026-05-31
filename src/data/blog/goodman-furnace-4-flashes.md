@@ -66,7 +66,7 @@ The high limit switch is a safety device. When it opens, it's telling you the he
 | [Goodman High Limit Switch](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-goodman-furnace-4-flashes&tag=errorcodefixes-20) | Match temperature rating stamped on switch body |
 | [Furnace Blower Motor Capacitor](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-goodman-furnace-4-flashes&tag=errorcodefixes-20) | Match µF and voltage rating exactly |
 | [Goodman Furnace Blower Motor](https://www.amazon.com/s?ascsubtag=ecf-goodman-furnace-4-flashes&k=goodman+furnace+blower+motor+replacement&tag=errorcodefixes-20) | Match HP, RPM, and voltage from motor label |
-| [Goodman Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-goodman-furnace-4-flashes&tag=errorcodefixes-20) | Last resort if board is misreading limit switch signal |
+| [Goodman Control Board](https://www.amazon.com/s?k=Goodman+Control+Board&tag=errorcodefixes-20) | Last resort if board is misreading limit switch signal |
 
 ## When to Call a Technician
 

@@ -1,6 +1,6 @@
 ---
 title: "Mitsubishi Mini Split E9 Error Code — Outdoor Thermistor 2 Fault Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2026-04-26T17:45:00Z
 featured: false
 draft: false
@@ -47,7 +47,7 @@ E9 is the outdoor thermistor 2 fault. It is different from E1 (indoor room tempe
 |------|-------|
 | Outdoor discharge pipe thermistor (TH3) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-mini-split-e9-error&k=mitsubishi+mini+split+outdoor+thermistor+TH3&tag=errorcodefixes-20) — Must match your model number; thermistors are not interchangeable across series |
 | Electrical contact cleaner | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-mini-split-e9-error&k=electrical+contact+cleaner+spray&tag=errorcodefixes-20) — Use before replacing the thermistor if corrosion is present on pins |
-| Outdoor PCB (control board) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-mitsubishi-mini-split-e9-error&tag=errorcodefixes-20) — Replace only after confirming thermistor and wiring are good |
+| Outdoor PCB (control board) | [Amazon](https://www.amazon.com/s?k=Outdoor+PCB+%28control+board%29&tag=errorcodefixes-20) — Replace only after confirming thermistor and wiring are good |
 | Wire repair kit / heat shrink | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-mitsubishi-mini-split-e9-error&k=wire+repair+heat+shrink+connectors&tag=errorcodefixes-20) — Use for splicing a damaged thermistor wire |
 
 ## When to Call a Technician

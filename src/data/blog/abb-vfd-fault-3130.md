@@ -1,6 +1,6 @@
 ---
 title: "ABB VFD Fault 3130 — Input Phase Loss Fix"
-author: "Industrial Error Code Fixes"
+author: "Dana Kowalski"
 pubDatetime: 2024-04-12T08:00:00Z
 modDatetime: 2024-04-12T08:00:00Z
 slug: abb-vfd-fault-3130

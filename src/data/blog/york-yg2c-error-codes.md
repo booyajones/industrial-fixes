@@ -64,7 +64,7 @@ The York YG2C is a two-stage, variable-speed gas furnace in the Affinity series.
 | Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-york-yg2c-error-codes&tag=errorcodefixes-20) \| Confirm low-fire and high-fire ratings separately |
 | Rollout switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-york-yg2c-error-codes&tag=errorcodefixes-20) \| Manual reset; investigate root cause |
 | High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-york-yg2c-error-codes&tag=errorcodefixes-20) \| Auto-reset; check continuity |
-| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-york-yg2c-error-codes&tag=errorcodefixes-20) \| For Code 13 or unexplained faults |
+| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| For Code 13 or unexplained faults |
 ## When to Call a Pro
 
 The YG2C's two-stage gas valve and variable-speed ECM blower are complex enough that board-level diagnosis benefits from York's proprietary tools. If you're chasing intermittent faults across multiple codes, an Affinity-compatible communicating thermostat will show detailed fault history that flash codes don't capture.

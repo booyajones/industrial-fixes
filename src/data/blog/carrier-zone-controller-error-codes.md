@@ -16,9 +16,9 @@ tags:
 
 Carrier zone controllers (models SYSTXZNSMS01, SYSTXZNCC1) manage multi-zone HVAC systems by controlling damper actuators and coordinating with zone thermostats. They work with Carrier Infinity and Performance series equipment. Fault codes appear on the Infinity System Control display or on the zone controller's LED indicator.
 
-| [Code](https://www.amazon.com/s?ascsubtag=ecf-carrier-zone-controller-error-codes&k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| Code | Meaning | Quick Fix |
 |------|---------|-----------|
-| [ZN1 FAULT](https://www.amazon.com/s?ascsubtag=ecf-carrier-zone-controller-error-codes&k=ZN1+FAULT&tag=errorcodefixes-20) | Zone 1 communication error | Check zone 1 thermostat wiring |
+| ZN1 FAULT | Zone 1 communication error | Check zone 1 thermostat wiring |
 | [ZN2–ZN8 FAULT](https://www.amazon.com/s?ascsubtag=ecf-carrier-zone-controller-error-codes&k=ZN2%E2%80%93ZN8+FAULT&tag=errorcodefixes-20) | Zone 2–8 communication errors | Check individual zone wiring |
 | [DAMP FAULT](https://www.amazon.com/s?ascsubtag=ecf-carrier-zone-controller-error-codes&k=DAMP+FAULT&tag=errorcodefixes-20) | Damper actuator fault | Test actuator; check wiring |
 | [BYPASS FAULT](https://www.amazon.com/s?ascsubtag=ecf-carrier-zone-controller-error-codes&k=BYPASS+FAULT&tag=errorcodefixes-20) | Bypass damper not responding | Inspect bypass actuator and duct |

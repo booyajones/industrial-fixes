@@ -38,9 +38,9 @@ On most Trane furnaces, a single LED flash (1 blink, pause, repeat) signals norm
 
 | Part | Notes |
 |------|-------|
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-trane-1-flash-error-code&tag=errorcodefixes-20) \| Universal or OEM; clean before replacing to confirm the part is actually faulty |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Universal or OEM; clean before replacing to confirm the part is actually faulty |
 | Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-trane-1-flash-error-code&tag=errorcodefixes-20) \| Replace if cracked or reading open resistance |
-| Furnace control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-trane-1-flash-error-code&tag=errorcodefixes-20) \| Last resort if power cycling and component replacement do not resolve lockout |
+| Furnace control board | [Amazon](https://www.amazon.com/s?k=Furnace+control+board&tag=errorcodefixes-20) \| Last resort if power cycling and component replacement do not resolve lockout |
 ## When to Call a Pro
 
 If the furnace locks out repeatedly after power cycling and you cannot identify a failed igniter, flame sensor, or gas supply problem, call a licensed HVAC technician. Persistent lockout may indicate a gas valve fault or combustion air issue that requires combustion analysis to diagnose safely.

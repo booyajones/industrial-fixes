@@ -1,6 +1,6 @@
 ---
 title: "Rheem Furnace 6 Flashes — Rollout Switch Open Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2024-03-30T08:00:00Z
 modDatetime: 2024-03-30T08:00:00Z
 slug: rheem-furnace-6-flashes

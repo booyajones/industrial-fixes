@@ -1,6 +1,6 @@
 ---
 title: "VFD Fault Codes OC, OV, UV, OL — Complete Fix Guide"
-author: "Industrial Error Code Fixes"
+author: "Dana Kowalski"
 pubDatetime: 2024-03-16T08:00:00Z
 modDatetime: 2024-03-16T08:00:00Z
 slug: vfd-fault-codes-oc-ov-uv-ol

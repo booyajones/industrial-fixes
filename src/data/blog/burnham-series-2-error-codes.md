@@ -48,7 +48,7 @@ On oil-fired Series 2 units with Beckett burner: check oil tank level, oil filte
 
 | Part | Notes |
 |------|-------|
-| Flame sensor (gas) | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-burnham-series-2-error-codes&tag=errorcodefixes-20) \| Clean first — measure ┬╡A |
+| Flame sensor (gas) | [Amazon](https://www.amazon.com/s?k=Flame+sensor+%28gas%29&tag=errorcodefixes-20) \| Clean first — measure ┬╡A |
 | Oil burner nozzle | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-burnham-series-2-error-codes&k=Oil+burner+nozzle&tag=errorcodefixes-20) \| Replace annually |
 | Ignition transformer | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-burnham-series-2-error-codes&k=Ignition+transformer&tag=errorcodefixes-20) \| Check spark at electrode |
 | Circulator pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-burnham-series-2-error-codes&k=Circulator+pump&tag=errorcodefixes-20) \| Check for seized impeller |

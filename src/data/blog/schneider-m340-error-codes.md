@@ -51,7 +51,7 @@ The Schneider Electric Modicon M340 is a mid-range PLC platform using the Unity 
 
 ### I/O Module Faults
 
-| [Fault](https://www.amazon.com/s?ascsubtag=ecf-schneider-m340-error-codes&k=Fault&tag=errorcodefixes-20) | Cause | Fix |
+| Fault | Cause | Fix |
 |---|---|---|
 | [Module not present](https://www.amazon.com/s?ascsubtag=ecf-schneider-m340-error-codes&k=Module+not+present&tag=errorcodefixes-20) | Module removed or loose | Reseat module, check card guides |
 | [Module configuration error](https://www.amazon.com/s?ascsubtag=ecf-schneider-m340-error-codes&k=Module+configuration+error&tag=errorcodefixes-20) | Wrong module type in slot | Update hardware configuration in project |
@@ -60,7 +60,7 @@ The Schneider Electric Modicon M340 is a mid-range PLC platform using the Unity 
 
 ### Ethernet/Communication Faults
 
-| [Fault](https://www.amazon.com/s?ascsubtag=ecf-schneider-m340-error-codes&k=Fault&tag=errorcodefixes-20) | Meaning |
+| Fault | Meaning |
 |---|---|
 | [IP conflict](https://www.amazon.com/s?ascsubtag=ecf-schneider-m340-error-codes&k=IP+conflict&tag=errorcodefixes-20) | Two devices with same IP on network |
 | [No heartbeat from master](https://www.amazon.com/s?ascsubtag=ecf-schneider-m340-error-codes&k=No+heartbeat+from+master&tag=errorcodefixes-20) | EtherNet/IP or Modbus TCP scanner not polling |

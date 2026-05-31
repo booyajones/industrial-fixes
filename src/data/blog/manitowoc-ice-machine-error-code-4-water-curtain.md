@@ -1,6 +1,6 @@
 ---
 title: "Manitowoc Ice Machine Error Code 4 — Water Curtain Fault Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2024-03-15T08:00:00Z
 modDatetime: 2024-03-15T08:00:00Z
 slug: manitowoc-ice-machine-error-code-4-water-curtain

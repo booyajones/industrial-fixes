@@ -1,6 +1,6 @@
 ---
 title: "Navien Error Code E001 — No Ignition Fix"
-author: "Industrial Error Code Fixes"
+author: "James Rutherford"
 pubDatetime: 2024-04-07T08:00:00Z
 modDatetime: 2024-04-07T08:00:00Z
 slug: navien-error-code-e001
@@ -49,7 +49,7 @@ Low gas pressure requires a licensed plumber or gas tech to inspect the gas pipi
 
 | Part | Where to Buy |
 |------|-------------|
-| [Navien igniter / flame sensor assembly](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-navien-error-code-e001&tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
+| [Navien igniter / flame sensor assembly](https://www.amazon.com/s?k=Navien+igniter+%2F+flame+sensor+assembly&tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
 | [Condensate drain kit](https://www.amazon.com/s?ascsubtag=ecf-navien-error-code-e001&k=Condensate+drain+kit&tag=errorcodefixes-20) | Amazon, SupplyHouse |
 | [Gas pressure test kit (manometer)](https://www.amazon.com/s?ascsubtag=ecf-navien-error-code-e001&k=Gas+pressure+test+kit+%28manometer%29&tag=errorcodefixes-20) | Amazon, Grainger |
 

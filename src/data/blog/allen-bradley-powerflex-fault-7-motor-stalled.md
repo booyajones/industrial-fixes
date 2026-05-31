@@ -1,6 +1,6 @@
 ---
 title: "Allen-Bradley PowerFlex VFD Fault F7 — Motor Stalled Fix"
-author: "Industrial Error Code Fixes"
+author: "Dana Kowalski"
 pubDatetime: 2024-03-15T08:00:00Z
 modDatetime: 2024-03-15T08:00:00Z
 slug: allen-bradley-powerflex-fault-7-motor-stalled

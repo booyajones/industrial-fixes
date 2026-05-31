@@ -1,6 +1,6 @@
 ---
 title: "Lochinvar Knight Boiler Error Messages — Complete Display Guide"
-author: "Industrial Error Code Fixes"
+author: "James Rutherford"
 pubDatetime: 2026-04-26T18:15:00Z
 modDatetime: 2026-04-26T18:15:00Z
 slug: lochinvar-knight-boiler-error-codes
@@ -141,7 +141,7 @@ This guide covers the most common Knight boiler display messages and how to reso
 4. Control board replacement is typically required for a genuine Fatal Error. The IQ boiler control board is a field-replaceable part.
 
 **Parts:**
-- [Lochinvar Knight IQ Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-lochinvar-knight-boiler-error-codes&tag=errorcodefixes-20)
+- [Lochinvar Knight IQ Control Board](https://www.amazon.com/s?k=Lochinvar+Knight+IQ+Control+Board&tag=errorcodefixes-20)
 
 ---
 
@@ -149,10 +149,10 @@ This guide covers the most common Knight boiler display messages and how to reso
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|-------------|
-| Igniter / Flame Sensor Electrode | $35–$70 | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-lochinvar-knight-boiler-error-codes&tag=errorcodefixes-20) |
+| Igniter / Flame Sensor Electrode | $35–$70 | [Amazon](https://www.amazon.com/s?k=Igniter+%2F+Flame+Sensor+Electrode&tag=errorcodefixes-20) |
 | Air Pressure Switch | $25–$55 | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-lochinvar-knight-boiler-error-codes&tag=errorcodefixes-20) |
 | Combustion Fan / Inducer Motor | $180–$350 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lochinvar-knight-boiler-error-codes&k=Lochinvar+Knight+inducer+blower+motor&tag=errorcodefixes-20) |
-| IQ Control Board | $400–$700 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-lochinvar-knight-boiler-error-codes&tag=errorcodefixes-20) |
+| IQ Control Board | $400–$700 | [Amazon](https://www.amazon.com/s?k=IQ+Control+Board&tag=errorcodefixes-20) |
 | Condensate Trap Kit | $20–$40 | [Amazon](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-lochinvar-knight-boiler-error-codes&tag=errorcodefixes-20) |
 
 ---

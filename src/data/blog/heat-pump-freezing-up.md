@@ -43,7 +43,7 @@ The defrost control board manages the defrost cycle. It monitors outdoor tempera
 
 **The fix:** Most defrost boards have a test mode. Check the manufacturer label on the board for the test procedure (usually shorting two pins with a screwdriver). If the board triggers a manual defrost but not an automatic one, replace the board.
 
-[Universal heat pump defrost control board on Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-heat-pump-freezing-up&tag=errorcodefixes-20)
+[Universal heat pump defrost control board on Amazon](https://www.amazon.com/s?k=Universal+heat+pump+defrost+control+board&tag=errorcodefixes-20)
 
 ## 2. Defrost Thermostat or Sensor Failure
 
@@ -125,7 +125,7 @@ These settings should match the OEM specifications for your heat pump model.
 
 ## Parts You May Need
 
-- [Defrost control board](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-heat-pump-freezing-up&tag=errorcodefixes-20)
+- [Defrost control board](https://www.amazon.com/s?k=Defrost+control+board&tag=errorcodefixes-20)
 - [Defrost thermostat sensor](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-freezing-up&k=heat+pump+defrost+thermostat&tag=errorcodefixes-20)
 - [Outdoor fan motor](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-heat-pump-freezing-up&tag=errorcodefixes-20)
 - [Fan motor capacitor](https://www.amazon.com/s?ascsubtag=ecf-heat-pump-freezing-up&k=heat+pump+fan+capacitor&tag=errorcodefixes-20)

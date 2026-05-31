@@ -1,6 +1,6 @@
 ---
 title: "Copeland Compressor Error Code 1 — High Pressure Cutout Fix"
-author: "Industrial Error Code Fixes"
+author: "Dana Kowalski"
 pubDatetime: 2024-03-18T08:00:00Z
 modDatetime: 2024-03-18T08:00:00Z
 slug: copeland-compressor-error-code-1

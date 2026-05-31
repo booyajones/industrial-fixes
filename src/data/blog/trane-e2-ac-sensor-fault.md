@@ -1,6 +1,6 @@
 ---
 title: "Trane AC E2 Error Code — Sensor and Communication Fault Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2026-04-26T17:45:00Z
 featured: false
 draft: false
@@ -52,7 +52,7 @@ On single-stage non-communicating systems, E2 is most often an outdoor ambient t
 | Trane outdoor ambient temp sensor | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-trane-e2-ac-sensor-fault&tag=errorcodefixes-20) — Match by model number; many Trane OAT sensors share part numbers across product lines |
 | Trane liquid / suction line thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-e2-ac-sensor-fault&k=trane+heat+pump+refrigerant+thermistor&tag=errorcodefixes-20) — Required for heat pump defrost control; clip-type sensor |
 | Electrical contact cleaner | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-trane-e2-ac-sensor-fault&k=electrical+contact+cleaner+CRC&tag=errorcodefixes-20) — Use before replacing sensors if connector corrosion is visible |
-| Trane outdoor unit control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-trane-e2-ac-sensor-fault&tag=errorcodefixes-20) — Replace only after sensors and wiring are confirmed good |
+| Trane outdoor unit control board | [Amazon](https://www.amazon.com/s?k=Trane+outdoor+unit+control+board&tag=errorcodefixes-20) — Replace only after sensors and wiring are confirmed good |
 
 ## When to Call a Technician
 

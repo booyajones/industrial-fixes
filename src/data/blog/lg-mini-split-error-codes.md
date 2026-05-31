@@ -15,7 +15,7 @@ tags:
 
 LG mini-splits use "CH" (Check) codes displayed on the indoor unit's LED display or the wireless remote controller. On most LG systems, hold the SLEEP button for 3 seconds to display the current error code. LG Art Cool, Dual Inverter Compressor, and LGRED heat pump systems all use the same CH code format.
 
-| [Code](https://www.amazon.com/s?ascsubtag=ecf-lg-mini-split-error-codes&k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| Code | Meaning | Quick Fix |
 |------|---------|-----------|
 | [CH01](https://www.amazon.com/s?ascsubtag=ecf-lg-mini-split-error-codes&k="CH01"&tag=errorcodefixes-20) | Indoor intake thermistor fault | Replace indoor air thermistor |
 | [CH02](https://www.amazon.com/s?ascsubtag=ecf-lg-mini-split-error-codes&k="CH02"&tag=errorcodefixes-20) | Indoor pipe thermistor fault | Replace indoor pipe thermistor |

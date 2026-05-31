@@ -1,6 +1,6 @@
 ---
 title: "Fanuc Alarm 414 — Servo Axis Following Error Fix"
-author: "Industrial Error Code Fixes"
+author: "Dana Kowalski"
 pubDatetime: 2024-03-12T08:00:00Z
 modDatetime: 2024-03-12T08:00:00Z
 slug: fanuc-alarm-414

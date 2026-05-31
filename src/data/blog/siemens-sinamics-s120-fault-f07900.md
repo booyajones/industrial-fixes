@@ -1,6 +1,6 @@
 ---
 title: "Siemens SINAMICS S120 Fault F07900 — Motor Overtemperature Fix"
-author: "Industrial Error Code Fixes"
+author: "Dana Kowalski"
 pubDatetime: 2026-04-24T22:30:00Z
 modDatetime: 2026-04-24T22:30:00Z
 slug: siemens-sinamics-s120-fault-f07900

@@ -1,6 +1,6 @@
 ---
 title: "Siemens SINUMERIK Alarm 25000 — Drive Fault Fix"
-author: "Industrial Error Code Fixes"
+author: "Dana Kowalski"
 pubDatetime: 2024-03-15T08:00:00Z
 modDatetime: 2024-03-15T08:00:00Z
 slug: siemens-sinumerik-alarm-25000-drive-fault

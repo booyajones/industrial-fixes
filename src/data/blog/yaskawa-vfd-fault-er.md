@@ -38,7 +38,7 @@ The ER fault on a Yaskawa drive (G7, F7, E7, A1000, V1000 series) indicates an E
 
 | Part | Notes |
 |------|-------|
-| Yaskawa control board (PCB) | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-yaskawa-vfd-fault-er&tag=errorcodefixes-20) \| Order by drive model and frame size; match control software version |
+| Yaskawa control board (PCB) | [Amazon](https://www.amazon.com/s?k=Yaskawa+control+board+%28PCB%29&tag=errorcodefixes-20) \| Order by drive model and frame size; match control software version |
 | Line reactor (3%) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-yaskawa-vfd-fault-er&k=Line+reactor+%283%25%29&tag=errorcodefixes-20) \| Add upstream of drive to reduce voltage spikes from power line |
 | Surge suppressor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-yaskawa-vfd-fault-er&k=Surge+suppressor&tag=errorcodefixes-20) \| Install on control wiring if noise is suspected cause |
 ## When to Call a Pro

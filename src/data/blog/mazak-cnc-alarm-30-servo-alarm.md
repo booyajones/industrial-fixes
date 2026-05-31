@@ -1,6 +1,6 @@
 ---
 title: "Mazak CNC Alarm 30 — Servo Alarm Fix"
-author: "Industrial Error Code Fixes"
+author: "Dana Kowalski"
 pubDatetime: 2024-03-15T08:00:00Z
 modDatetime: 2024-03-15T08:00:00Z
 slug: mazak-cnc-alarm-30-servo-alarm

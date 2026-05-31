@@ -20,7 +20,7 @@ The ABB ACS550 is a wall-mount general-purpose variable frequency drive rated fr
 
 ## ABB ACS550 Fault Codes (Fxxx)
 
-| [Fault](https://www.amazon.com/s?ascsubtag=ecf-abb-acs550-complete-guide&k=Fault&tag=errorcodefixes-20) | Meaning |
+| Fault | Meaning |
 |-------|---------|
 | [F0001](https://www.amazon.com/s?ascsubtag=ecf-abb-acs550-complete-guide&k="F0001"&tag=errorcodefixes-20) | Overcurrent — motor phase current too high |
 | [F0002](https://www.amazon.com/s?ascsubtag=ecf-abb-acs550-complete-guide&k="F0002"&tag=errorcodefixes-20) | DC overvoltage — DC bus voltage too high |

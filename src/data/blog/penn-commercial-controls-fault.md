@@ -17,7 +17,7 @@ tags:
 
 Penn controls from Johnson Controls protect compressors, fans, and pumps in refrigeration and HVAC systems. Many Penn controls are mechanical safeties, so the "fault code" is often just an open control, a blank output, or a digital sensor error on electronic models.
 
-| [Fault](https://www.amazon.com/s?ascsubtag=ecf-penn-commercial-controls-fault&k=Fault&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| Fault | Meaning | Quick Fix |
 |------|---------|-----------|
 | [High Pressure Open](https://www.amazon.com/s?ascsubtag=ecf-penn-commercial-controls-fault&k=High+Pressure+Open&tag=errorcodefixes-20) | Safety opened on high head pressure | Check condenser fans and airflow |
 | [Low Pressure Open](https://www.amazon.com/s?ascsubtag=ecf-penn-commercial-controls-fault&k=Low+Pressure+Open&tag=errorcodefixes-20) | Safety opened on low suction pressure | Check charge and evaporator airflow |

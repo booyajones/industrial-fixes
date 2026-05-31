@@ -1,6 +1,6 @@
 ---
 title: "Trane 7 Flashes Error Code — Gas Valve Circuit Fault Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2024-03-26T08:00:00Z
 modDatetime: 2024-03-26T08:00:00Z
 slug: trane-7-flashes-error-code
@@ -46,10 +46,10 @@ If the gas valve is not opening (no gas smell, no ignition) but the igniter glow
 
 | Part | Where to Buy |
 |------|-------------|
-| [Flame sensor](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-trane-7-flashes-error-code&tag=errorcodefixes-20) | RepairClinic, Amazon |
+| [Flame sensor](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) | RepairClinic, Amazon |
 | [Hot surface igniter (match model)](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-trane-7-flashes-error-code&tag=errorcodefixes-20) | RepairClinic, SupplyHouse |
 | [Gas valve](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-trane-7-flashes-error-code&tag=errorcodefixes-20) | SupplyHouse, Grainger |
-| [Control board](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-trane-7-flashes-error-code&tag=errorcodefixes-20) | RepairClinic, Grainger |
+| [Control board](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) | RepairClinic, Grainger |
 
 ## When to Call a Technician
 

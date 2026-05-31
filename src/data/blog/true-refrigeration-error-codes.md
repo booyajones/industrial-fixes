@@ -1,6 +1,6 @@
 ---
 title: "True Refrigeration Error Codes — Complete Fix Guide"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2024-03-14T08:00:00Z
 modDatetime: 2024-03-14T08:00:00Z
 slug: true-refrigeration-error-codes
@@ -23,7 +23,7 @@ This guide covers the most common True Refrigeration error codes and their fixes
 
 ## True Refrigeration Error Code Reference
 
-| [Code](https://www.amazon.com/s?ascsubtag=ecf-true-refrigeration-error-codes&k=Code&tag=errorcodefixes-20) | Meaning | Common Cause | [](https://www.amazon.com/s?ascsubtag=ecf-true-refrigeration-error-codes&k=&tag=errorcodefixes-20) | ------ |---------|-------------|
+| Code | Meaning | Common Cause | [](https://www.amazon.com/s?ascsubtag=ecf-true-refrigeration-error-codes&k=&tag=errorcodefixes-20) | ------ |---------|-------------|
 | E1 | [Return air sensor (room probe) fault](https://www.amazon.com/s?k=Return%20air%20sensor%20(room%20probe)%20fault&tag=errorcodefixes-20) | Failed or disconnected NTC probe |
 | [E2](https://www.amazon.com/s?ascsubtag=ecf-true-refrigeration-error-codes&k=E2&tag=errorcodefixes-20) | Evaporator coil sensor fault | Probe failure, ice buildup over sensor | [](https://www.amazon.com/s?ascsubtag=ecf-true-refrigeration-error-codes&k=&tag=errorcodefixes-20) | E3 | Condenser sensor fault | [Probe failure or disconnection](https://www.amazon.com/s?ascsubtag=ecf-true-refrigeration-error-codes&k=Probe+failure+or+disconnection&tag=errorcodefixes-20) |  | E4 | [Discharge line temperature fault](https://www.amazon.com/s?ascsubtag=ecf-true-refrigeration-error-codes&k=Discharge+line+temperature+fault&tag=errorcodefixes-20) | Probe failure, actual high discharge temp |
 | [E5](https://www.amazon.com/s?ascsubtag=ecf-true-refrigeration-error-codes&k=E5&tag=errorcodefixes-20) | Ambient temperature sensor fault | Controller or sensor issue | [](https://www.amazon.com/s?ascsubtag=ecf-true-refrigeration-error-codes&k=&tag=errorcodefixes-20) | F1 | High temperature alarm | [Product zone temp too high — door left open, condenser dirty](https://www.amazon.com/s?ascsubtag=ecf-true-refrigeration-error-codes&k=Product+zone+temp+too+high+%E2%80%94+door+left+open%2C+condenser+dirty&tag=errorcodefixes-20) |  | F2 | [Low temperature alarm](https://www.amazon.com/s?ascsubtag=ecf-true-refrigeration-error-codes&k=Low+temperature+alarm&tag=errorcodefixes-20) | Freezer over-cooling, stuck defrost, sensor fault |

@@ -70,7 +70,7 @@ In 80% of cases, a clogged air filter is the entire problem. Check that first.
 | [Carrier High Limit Switch](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-carrier-error-code-13&tag=errorcodefixes-20) | Match temperature rating stamped on switch body |
 | [Furnace Blower Motor Capacitor](https://www.amazon.com/s?ascsubtag=ecf-carrier-error-code-13&k=furnace+blower+motor+capacitor&tag=errorcodefixes-20) | Match µF and VAC rating exactly |
 | [Carrier Furnace Blower Motor](https://www.amazon.com/s?ascsubtag=ecf-carrier-error-code-13&k=carrier+furnace+blower+motor&tag=errorcodefixes-20) | Match HP, RPM, voltage; direct-drive vs belt-drive varies |
-| [Carrier Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-carrier-error-code-13&tag=errorcodefixes-20) | Last resort if board is misreading limit circuit signals |
+| [Carrier Control Board](https://www.amazon.com/s?k=Carrier+Control+Board&tag=errorcodefixes-20) | Last resort if board is misreading limit circuit signals |
 
 ## The 3-Hour Auto-Reset — Why People Get Fooled
 

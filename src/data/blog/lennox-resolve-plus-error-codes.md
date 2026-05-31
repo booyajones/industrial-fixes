@@ -50,8 +50,8 @@ On R-410A units, high-side pressure above 590 psi trips the HP switch. Wash the 
 
 | Part | Notes |
 |------|-------|
-| Integrated control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-lennox-resolve-plus-error-codes&tag=errorcodefixes-20) \| Must match unit model |
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-lennox-resolve-plus-error-codes&tag=errorcodefixes-20) \| Measure ┬╡A before replacing |
+| Integrated control board | [Amazon](https://www.amazon.com/s?k=Integrated+control+board&tag=errorcodefixes-20) \| Must match unit model |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Measure ┬╡A before replacing |
 | Inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-lennox-resolve-plus-error-codes&tag=errorcodefixes-20) \| Check capacitor first |
 | Limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-lennox-resolve-plus-error-codes&tag=errorcodefixes-20) \| Match temperature rating |
 | ECM blower motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lennox-resolve-plus-error-codes&k=ECM+blower+motor&tag=errorcodefixes-20) \| Check motor module and control board |

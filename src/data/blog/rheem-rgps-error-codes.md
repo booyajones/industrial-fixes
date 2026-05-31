@@ -61,7 +61,7 @@ The Rheem RGPS is a high-efficiency (96% AFUE) single-stage gas furnace in the C
 | Hot surface ignitor | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-rheem-rgps-error-codes&tag=errorcodefixes-20) \| 120V silicon nitride; Rheem-specific part |
 | Condensate trap | [Amazon](https://www.amazon.com/dp/B077J4Y763?ascsubtag=ecf-rheem-rgps-error-codes&tag=errorcodefixes-20) \| Inside cabinet; replace if cracked or heavily scaled |
 | Pressure switch | [Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-rheem-rgps-error-codes&tag=errorcodefixes-20) \| Two on two-stage RGPS; confirm part numbers |
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-rheem-rgps-error-codes&tag=errorcodefixes-20) \| Clean first; replace if damaged |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Clean first; replace if damaged |
 | Inducer motor assembly | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-rheem-rgps-error-codes&tag=errorcodefixes-20) \| With mounting plate; common on older RGPS |
 | Auxiliary limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-rheem-rgps-error-codes&tag=errorcodefixes-20) \| Located on secondary heat exchanger |
 ## When to Call a Pro

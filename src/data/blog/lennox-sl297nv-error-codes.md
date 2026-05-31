@@ -110,7 +110,7 @@ The variable-speed ECM motor in the SL297NV communicates digitally with the cont
 | Part | Use | Link |
 |---|---|---|
 | Hot Surface Igniter (Silicon Nitride) | E001/E002 ignition faults | [View on Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-lennox-sl297nv-error-codes&tag=errorcodefixes-20) |
-| Flame Sensor Rod | E001 flame sensing failure | [View on Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-lennox-sl297nv-error-codes&tag=errorcodefixes-20) |
+| Flame Sensor Rod | E001 flame sensing failure | [View on Amazon](https://www.amazon.com/s?k=Flame+Sensor+Rod&tag=errorcodefixes-20) |
 | Furnace Pressure Switch | E021/E022 pressure switch faults | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-lennox-sl297nv-error-codes&tag=errorcodefixes-20) |
 | Pressure Switch Tubing | E021 hose cracks or disconnects | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-lennox-sl297nv-error-codes&tag=errorcodefixes-20) |
 | Furnace High-Limit Switch | E031 persistent high-limit open | [View on Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-lennox-sl297nv-error-codes&tag=errorcodefixes-20) |

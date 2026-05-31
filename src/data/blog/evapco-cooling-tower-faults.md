@@ -17,7 +17,7 @@ tags:
 
 EVAPCO cooling towers and evaporative condensers with PMC (Packaged Mechanical Component) control panels or VFD systems generate fault conditions from motor protection, temperature monitoring, and water management systems.
 
-| [Fault](https://www.amazon.com/s?ascsubtag=ecf-evapco-cooling-tower-faults&k=Fault&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| Fault | Meaning | Quick Fix |
 |-------|---------|-----------|
 | [Fan Motor Fault](https://www.amazon.com/dp/B0D2L5NSMM?ascsubtag=ecf-evapco-cooling-tower-faults&tag=errorcodefixes-20) | Motor overload or trip | Check motor amps, bearings, and connections |
 | [High Leaving Water Temp](https://www.amazon.com/s?ascsubtag=ecf-evapco-cooling-tower-faults&k=High+Leaving+Water+Temp&tag=errorcodefixes-20) | Leaving water above setpoint | Check fan operation and load balance |

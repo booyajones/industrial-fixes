@@ -66,7 +66,7 @@ The diagnosis starts with the cheapest and easiest fix then moves toward more in
 ## Parts You May Need
 
 - [HVAC air filter pack (MERV 8)](https://www.amazon.com/dp/B0CLBFXLYJ?ascsubtag=ecf-furnace-short-cycling&tag=errorcodefixes-20)
-- [Universal flame sensor](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-furnace-short-cycling&tag=errorcodefixes-20)
+- [Universal flame sensor](https://www.amazon.com/s?k=Universal+flame+sensor&tag=errorcodefixes-20)
 - [Furnace limit switch replacement](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-furnace-short-cycling&tag=errorcodefixes-20)
 - [Furnace pressure switch](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-furnace-short-cycling&tag=errorcodefixes-20)
 - [Blower motor run capacitor](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-furnace-short-cycling&tag=errorcodefixes-20)

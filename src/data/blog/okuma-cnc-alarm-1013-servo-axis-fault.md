@@ -1,6 +1,6 @@
 ---
 title: "Okuma CNC Alarm 1013 — Servo Axis Fault Fix"
-author: "Industrial Error Code Fixes"
+author: "Dana Kowalski"
 pubDatetime: 2024-03-15T08:00:00Z
 modDatetime: 2024-03-15T08:00:00Z
 slug: okuma-cnc-alarm-1013-servo-axis-fault

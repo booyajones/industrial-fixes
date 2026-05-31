@@ -1,6 +1,6 @@
 ---
 title: "Heatcraft Refrigeration Alarm 1 — High Temperature Fault Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2024-03-15T08:00:00Z
 modDatetime: 2024-03-15T08:00:00Z
 slug: heatcraft-refrigeration-alarm-1-high-temperature

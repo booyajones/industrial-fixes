@@ -37,8 +37,8 @@ CH05 on an LG mini-split system indicates a communication error between the indo
 | Part | Notes |
 |------|-------|
 | Communication wire (2 or 3-conductor) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-mini-split-ch05-error-code&k=Communication+wire+%282+or+3-conductor%29&tag=errorcodefixes-20) \| 18-22 AWG; run separately from power wiring |
-| Indoor unit control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-lg-mini-split-ch05-error-code&tag=errorcodefixes-20) \| Replace if board communication IC is confirmed failed |
-| Outdoor unit control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-lg-mini-split-ch05-error-code&tag=errorcodefixes-20) \| Replace if outdoor board is the confirmed fault |
+| Indoor unit control board | [Amazon](https://www.amazon.com/s?k=Indoor+unit+control+board&tag=errorcodefixes-20) \| Replace if board communication IC is confirmed failed |
+| Outdoor unit control board | [Amazon](https://www.amazon.com/s?k=Outdoor+unit+control+board&tag=errorcodefixes-20) \| Replace if outdoor board is the confirmed fault |
 | Terminal block connectors | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-mini-split-ch05-error-code&k=Terminal+block+connectors&tag=errorcodefixes-20) \| Replace corroded terminals before replacing boards |
 ## When to Call a Pro
 

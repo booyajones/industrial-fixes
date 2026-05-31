@@ -20,7 +20,7 @@ Parker AC30 drives are used in OEM machinery and process equipment. Their faults
 
 ## Common AC30 Faults
 
-| [Fault](https://www.amazon.com/s?ascsubtag=ecf-parker-ac30-vfd-fault-codes&k=Fault&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| Fault | Meaning | Quick Fix |
 |---|---|---|
 | [Overcurrent](https://www.amazon.com/s?ascsubtag=ecf-parker-ac30-vfd-fault-codes&k=Overcurrent&tag=errorcodefixes-20) | Output current exceeded safe limit | Check motor, cable, load jam |
 | [Overvoltage](https://www.amazon.com/s?ascsubtag=ecf-parker-ac30-vfd-fault-codes&k=Overvoltage&tag=errorcodefixes-20) | DC bus too high | Increase decel time, add braking |

@@ -1,6 +1,6 @@
 ---
 title: "Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2024-03-11T08:00:00Z
 modDatetime: 2024-03-11T08:00:00Z
 slug: goodman-3-flash-error-code

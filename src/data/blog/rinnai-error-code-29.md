@@ -1,6 +1,6 @@
 ---
 title: "Rinnai Error Code 29 — System Communication Fault Fix"
-author: "Industrial Error Code Fixes"
+author: "James Rutherford"
 pubDatetime: 2026-04-26T18:15:00Z
 modDatetime: 2026-04-26T18:15:00Z
 slug: rinnai-error-code-29
@@ -99,7 +99,7 @@ Order the correct PCB by model number — Rinnai's product line uses different b
 
 | Part | Typical Cost | Where to Buy |
 |------|-------------|-------------|
-| Rinnai Main PCB / Control Board | $180–$400 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-rinnai-error-code-29&tag=errorcodefixes-20) |
+| Rinnai Main PCB / Control Board | $180–$400 | [Amazon](https://www.amazon.com/s?k=Rinnai+Main+PCB+%2F+Control+Board&tag=errorcodefixes-20) |
 | NTC Temperature Sensor | $15–$35 | [Amazon](https://www.amazon.com/dp/B09FFFPF5L?ascsubtag=ecf-rinnai-error-code-29&tag=errorcodefixes-20) |
 | Rinnai Remote Controller MC-91 | $80–$140 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-error-code-29&k=Rinnai+remote+controller+MC-91+tankless&tag=errorcodefixes-20) |
 | Remote Controller Wiring | $10–$25 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rinnai-error-code-29&k=Rinnai+remote+controller+wiring+2+wire+cable&tag=errorcodefixes-20) |

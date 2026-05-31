@@ -52,7 +52,7 @@ ClimateMaster uses a flow switch that opens on low GPM. Verify loop pump operati
 | Part | Notes |
 |------|-------|
 | ClimateTalk thermostat | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-climatemaster-trilogy-error-codes&k=ClimateTalk+thermostat&tag=errorcodefixes-20) \| Required for fault code display |
-| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-climatemaster-trilogy-error-codes&tag=errorcodefixes-20) \| Match unit model and revision |
+| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| Match unit model and revision |
 | Flow center pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-climatemaster-trilogy-error-codes&k=Flow+center+pump&tag=errorcodefixes-20) \| Match GPM requirement |
 | TXV | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-climatemaster-trilogy-error-codes&k=TXV&tag=errorcodefixes-20) \| Match refrigerant and model |
 | Reversing valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-climatemaster-trilogy-error-codes&k=Reversing+valve&tag=errorcodefixes-20) \| Match model spec |

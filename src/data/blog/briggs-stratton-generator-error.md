@@ -16,7 +16,7 @@ tags:
 
 Briggs & Stratton standby generators (Symphony II controller) and commercial generators use numeric fault codes displayed on the controller. Portable Briggs & Stratton generators typically use LED fault indicators rather than numeric codes.
 
-| [Code](https://www.amazon.com/s?ascsubtag=ecf-briggs-stratton-generator-error&k=Code&tag=errorcodefixes-20) | Controller | Meaning | Quick Fix |
+| Code | Controller | Meaning | Quick Fix |
 |------|-----------|---------|-----------|
 | 02 | Symphony II | Low battery | Test and replace battery |
 | 03 | Symphony II | Charger fault | Check battery charger input power |

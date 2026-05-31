@@ -36,7 +36,7 @@ A Rheem furnace flashing **7 times** indicates a **low flame sense signal**. The
 
 | Part | Notes |
 |------|-------|
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-rheem-furnace-error-code-7-flashes&tag=errorcodefixes-20) \| Replace if cleaning does not restore a stable flame signal |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Replace if cleaning does not restore a stable flame signal |
 | Burner assembly screws / hardware | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rheem-furnace-error-code-7-flashes&k=Burner+assembly+screws+%2F+hardware&tag=errorcodefixes-20) \| Helpful when removing rusted burners for cleaning |
 | Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-rheem-furnace-error-code-7-flashes&tag=errorcodefixes-20) \| Replace only after confirming low flame is caused by valve delivery, not dirty burners or grounding |
 ## When to Call a Pro

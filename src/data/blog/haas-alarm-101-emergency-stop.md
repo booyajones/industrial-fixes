@@ -1,6 +1,6 @@
 ---
 title: "Haas CNC Alarm 101 — Emergency Stop Active Fix"
-author: "Industrial Error Code Fixes"
+author: "Dana Kowalski"
 pubDatetime: 2024-03-14T08:00:00Z
 modDatetime: 2024-03-14T08:00:00Z
 slug: haas-alarm-101-emergency-stop

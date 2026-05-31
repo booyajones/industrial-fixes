@@ -15,7 +15,7 @@ tags:
 
 Navien tankless water heaters (NPE-A, NPE-S, NPE-2, NHB, NCB series) display fault codes on the front panel LED display. Codes appear as "E" followed by three numbers. Navien also uses a NaviLink or Navien Connect app on WiFi-enabled models for remote diagnostics.
 
-| [Code](https://www.amazon.com/s?ascsubtag=ecf-navien-error-codes&k=Code&tag=errorcodefixes-20) | Meaning | Quick Fix |
+| Code | Meaning | Quick Fix |
 |------|---------|-----------|
 | [E001](https://www.amazon.com/s?ascsubtag=ecf-navien-error-codes&k="E001"&tag=errorcodefixes-20) | Abnormal ignition | Check gas supply and igniter |
 | [E002](https://www.amazon.com/s?ascsubtag=ecf-navien-error-codes&k="E002"&tag=errorcodefixes-20) | Flame failure after ignition | Gas pressure or flame sensor |

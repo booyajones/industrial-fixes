@@ -1,6 +1,6 @@
 ---
 title: "Hoshizaki KM-1301SAH Error Codes — Commercial Ice Machine Fault Guide"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2026-04-24T21:00:00Z
 modDatetime: 2026-04-24T21:00:00Z
 slug: hoshizaki-km-1301sah-error-codes

@@ -60,7 +60,7 @@ The furnace attempted ignition but received no flame response at all , the gas v
 | Part | Use | Buy on Amazon |
 |------|-----|---------------|
 | Norton 271N Hot Surface Igniter | Replace failed igniter for Code 2, 7, or 9 | [View on Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-ruud-achiever-plus-error-codes&tag=errorcodefixes-20) |
-| Furnace Flame Sensor Rod | Fix dirty or failed flame sensor causing Code 8 | [View on Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-ruud-achiever-plus-error-codes&tag=errorcodefixes-20) |
+| Furnace Flame Sensor Rod | Fix dirty or failed flame sensor causing Code 8 | [View on Amazon](https://www.amazon.com/s?k=Furnace+Flame+Sensor+Rod&tag=errorcodefixes-20) |
 | HVAC Pressure Switch Universal (.50 WC) | Replace failed pressure switch for Code 3 | [View on Amazon](https://www.amazon.com/dp/B013J2J97A?ascsubtag=ecf-ruud-achiever-plus-error-codes&tag=errorcodefixes-20) |
 | 3/8 ID Pressure Switch Hose (Clear PVC, 5 ft) | Replace cracked pressure switch tubing | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-ruud-achiever-plus-error-codes&k=3+8+id+clear+vinyl+tubing+pressure+hose&tag=errorcodefixes-20) |
 | 20x25x1 MERV-8 Furnace Filter (6 pack) | Clear high-limit and draft faults from restricted airflow | [View on Amazon](https://www.amazon.com/s?ascsubtag=ecf-ruud-achiever-plus-error-codes&k=20x25x1+merv+8+furnace+filter&tag=errorcodefixes-20) |

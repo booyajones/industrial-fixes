@@ -1,6 +1,6 @@
 ---
 title: "Scotsman Ice Machine Error Code 1 — High Pressure Cutout Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2024-04-16T08:00:00Z
 modDatetime: 2024-04-16T08:00:00Z
 slug: scotsman-ice-machine-error-code-1

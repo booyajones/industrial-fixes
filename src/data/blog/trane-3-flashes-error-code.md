@@ -1,6 +1,6 @@
 ---
 title: "Trane 3 Flashes Error Code — Pressure Switch Fault Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2024-03-24T08:00:00Z
 modDatetime: 2024-03-24T08:00:00Z
 slug: trane-3-flashes-error-code

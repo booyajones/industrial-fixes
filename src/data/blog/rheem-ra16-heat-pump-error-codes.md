@@ -95,7 +95,7 @@ This is normal protection, not a true fault. After compressor shutdown, the boar
 |------|-------------|---------------|
 | Dual run capacitor — 45/5 µF 440VAC (match label exactly) | $15–$35 | [Amazon](https://www.amazon.com/dp/B01M05L7B3?ascsubtag=ecf-rheem-ra16-heat-pump-error-codes&tag=errorcodefixes-20) |
 | Contactor — 2-pole, 40A, 24VAC coil | $18–$45 | [Amazon](https://www.amazon.com/dp/B0CJFZQVPT?ascsubtag=ecf-rheem-ra16-heat-pump-error-codes&tag=errorcodefixes-20) |
-| Defrost control board (Rheem/Ruud OEM — match model) | $50–$130 | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-rheem-ra16-heat-pump-error-codes&tag=errorcodefixes-20) |
+| Defrost control board (Rheem/Ruud OEM — match model) | $50–$130 | [Amazon](https://www.amazon.com/s?k=Defrost+control+board+%28Rheem%2FRuud+OEM+%E2%80%94+match+model%29&tag=errorcodefixes-20) |
 | Defrost thermostat — coil clip type | $10–$25 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rheem-ra16-heat-pump-error-codes&k=defrost+thermostat+heat+pump+coil+clip+on&tag=errorcodefixes-20) |
 | Outdoor thermistor sensor (Rheem OEM) | $15–$40 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rheem-ra16-heat-pump-error-codes&k=Rheem+outdoor+thermistor+heat+pump+sensor&tag=errorcodefixes-20) |
 | Reversing valve solenoid coil — 24VAC (Sporlan or OEM) | $30–$70 | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-rheem-ra16-heat-pump-error-codes&k=reversing+valve+solenoid+coil+24VAC+R410A&tag=errorcodefixes-20) |

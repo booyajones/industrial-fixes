@@ -65,7 +65,7 @@ The Carrier 58CVA is a two-stage variable-speed gas furnace delivering 80% AFUE 
 | Part | Notes |
 |---|---|
 | Hot surface igniter | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-carrier-58cva-error-codes&tag=errorcodefixes-20) \| Silicon nitride; handle carefully, avoid touching ceramic |
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-carrier-58cva-error-codes&tag=errorcodefixes-20) \| Clean first; replace if cracked or reading <0.5 µA |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Clean first; replace if cracked or reading <0.5 µA |
 | ECM blower motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-carrier-58cva-error-codes&k=ECM+blower+motor&tag=errorcodefixes-20) \| Verify correct motor model; programmed to unit |
 | Inducer motor | [Amazon](https://www.amazon.com/dp/B00FDZ90B2?ascsubtag=ecf-carrier-58cva-error-codes&tag=errorcodefixes-20) \| Match frame size and speed rating |
 | High-limit switch | [Amazon](https://www.amazon.com/dp/B0BN3TRG9R?ascsubtag=ecf-carrier-58cva-error-codes&tag=errorcodefixes-20) \| L170°F or L200°F depending on unit config |

@@ -41,7 +41,7 @@ On Daikin systems, F9 specifically refers to the **indoor heat exchanger midpoin
 | Part | Notes |
 |------|-------|
 | Indoor coil thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-f9-error-code&k=Indoor+coil+thermistor&tag=errorcodefixes-20) \| Daikin 1845004 or model-specific; verify pin count |
-| Indoor PCB | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-daikin-f9-error-code&tag=errorcodefixes-20) \| Match to full model code; F9 from bad PCB is rare |
+| Indoor PCB | [Amazon](https://www.amazon.com/s?k=Indoor+PCB&tag=errorcodefixes-20) \| Match to full model code; F9 from bad PCB is rare |
 | Contact cleaner | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-daikin-f9-error-code&k=Contact+cleaner&tag=errorcodefixes-20) \| For connector maintenance |
 ## When to Call a Pro
 If the thermistor and connector check out but F9 persists, the indoor PCB is likely the issue. PCB replacement is feasible for those comfortable with electronics, but sourcing the correct part number from the unit's model code is essential — Daikin has many PCB variants.

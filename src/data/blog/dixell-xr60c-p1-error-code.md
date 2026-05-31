@@ -1,6 +1,6 @@
 ---
 title: "Dixell XR60C P1 Error Code Fix — Sensor Fault"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2024-03-13T08:00:00Z
 modDatetime: 2024-03-13T08:00:00Z
 slug: dixell-xr60c-p1-error-code

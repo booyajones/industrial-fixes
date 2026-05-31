@@ -23,12 +23,12 @@ State gas water heaters with piezo ignition and thermocouple control use an **LE
 | [Flash Code](https://www.amazon.com/s?ascsubtag=ecf-state-water-heater-error-codes&k=Flash+Code&tag=errorcodefixes-20) | Meaning | Action |
 |---|---|---|
 | [1 flash (slow)](https://www.amazon.com/s?ascsubtag=ecf-state-water-heater-error-codes&k=1+flash+%28slow%29&tag=errorcodefixes-20) | Normal — pilot lit | None |
-| [2 flashes](https://www.amazon.com/s?ascsubtag=ecf-state-water-heater-error-codes&k=2+flashes&tag=errorcodefixes-20) | Thermopile voltage low | Clean thermocouple, relight pilot |
-| [3 flashes](https://www.amazon.com/s?ascsubtag=ecf-state-water-heater-error-codes&k=3+flashes&tag=errorcodefixes-20) | Pressure switch (power vent) | Check vent, inducer |
-| [4 flashes](https://www.amazon.com/s?ascsubtag=ecf-state-water-heater-error-codes&k=4+flashes&tag=errorcodefixes-20) | Exceeded temperature limit | Lower setpoint, check safety |
-| [5 flashes](https://www.amazon.com/s?ascsubtag=ecf-state-water-heater-error-codes&k=5+flashes&tag=errorcodefixes-20) | Sensor fault / wrong reading | Replace temperature sensor |
-| [6 flashes](https://www.amazon.com/s?ascsubtag=ecf-state-water-heater-error-codes&k=6+flashes&tag=errorcodefixes-20) | Gas valve solenoid fault | Replace gas control valve |
-| [7 flashes](https://www.amazon.com/s?ascsubtag=ecf-state-water-heater-error-codes&k=7+flashes&tag=errorcodefixes-20) | Pilot failed to light | Relight pilot, check thermocouple |
+| 2 flashes | Thermopile voltage low | Clean thermocouple, relight pilot |
+| 3 flashes | Pressure switch (power vent) | Check vent, inducer |
+| 4 flashes | Exceeded temperature limit | Lower setpoint, check safety |
+| 5 flashes | Sensor fault / wrong reading | Replace temperature sensor |
+| 6 flashes | Gas valve solenoid fault | Replace gas control valve |
+| 7 flashes | Pilot failed to light | Relight pilot, check thermocouple |
 | [Rapid flashing](https://www.amazon.com/s?ascsubtag=ecf-state-water-heater-error-codes&k=Rapid+flashing&tag=errorcodefixes-20) | Control board fault | Replace gas control valve |
 
 *State gas valves are commonly made by Honeywell or White-Rodgers — same flash codes as Rheem and Bradford White.*
@@ -37,7 +37,7 @@ State gas water heaters with piezo ignition and thermocouple control use an **LE
 
 State ProLine XE and Select electric water heaters with digital controls:
 
-| [Code](https://www.amazon.com/s?ascsubtag=ecf-state-water-heater-error-codes&k=Code&tag=errorcodefixes-20) | Meaning | Fix |
+| Code | Meaning | Fix |
 |---|---|---|
 | E1 | Upper element or sensor fault | Test element (see below) |
 | E2 | Lower element or sensor fault | Test lower element |
@@ -68,7 +68,7 @@ The high-limit thermostat (ECO — Energy Cut Off) is behind the upper access pa
 
 State ProLine XE Heat Pump (GPHE series) shares controls with A.O. Smith Voltex:
 
-| [Code](https://www.amazon.com/s?ascsubtag=ecf-state-water-heater-error-codes&k=Code&tag=errorcodefixes-20) | Meaning |
+| Code | Meaning |
 |---|---|
 | E1 | Temperature sensor fault |
 | E2 | Refrigerant system fault |

@@ -1,6 +1,6 @@
 ---
 title: "Haas Alarm 103 Overheating — CNC Machine Thermal Fault Diagnosis and Fix"
-author: "Industrial Error Code Fixes"
+author: "Dana Kowalski"
 pubDatetime: 2026-04-26T17:45:00Z
 featured: false
 draft: false

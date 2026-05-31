@@ -38,9 +38,9 @@ On Ruud furnaces (manufactured by Rheem), 7 flashes on the diagnostic LED indica
 
 | Part | Notes |
 |------|-------|
-| Flame sensor | [Amazon](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-ruud-furnace-7-flashes&tag=errorcodefixes-20) \| Universal fit sensors work; OEM preferred for longer service life |
+| Flame sensor | [Amazon](https://www.amazon.com/s?k=Flame+sensor&tag=errorcodefixes-20) \| Universal fit sensors work; OEM preferred for longer service life |
 | Gas valve | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-ruud-furnace-7-flashes&tag=errorcodefixes-20) \| Only if gas pressure check confirms valve not opening to correct pressure |
-| Control board | [Amazon](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-ruud-furnace-7-flashes&tag=errorcodefixes-20) \| Last resort — flame sense circuit failure is rare but possible on older boards |
+| Control board | [Amazon](https://www.amazon.com/s?k=Control+board&tag=errorcodefixes-20) \| Last resort — flame sense circuit failure is rare but possible on older boards |
 ## When to Call a Pro
 
 If you've cleaned the flame sensor and confirmed it's not cracked, but 7 flashes persists, measuring flame microamps with a multimeter requires basic comfort with live electrical measurements inside a running furnace. If you're not comfortable with that, a technician can confirm the diagnosis in minutes and either verify the sensor is good or confirm board failure.

@@ -1,6 +1,6 @@
 ---
 title: "Haas Alarm 131 — E-Stop Chain Fault Fix"
-author: "Industrial Error Code Fixes"
+author: "Dana Kowalski"
 pubDatetime: 2026-04-26T18:15:00Z
 modDatetime: 2026-04-26T18:15:00Z
 slug: haas-alarm-131

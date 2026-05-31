@@ -1,6 +1,6 @@
 ---
 title: "Goodman 6 Flash Error Code — Rollout Switch Open Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2024-03-27T08:00:00Z
 modDatetime: 2024-03-27T08:00:00Z
 slug: goodman-6-flash-error-code

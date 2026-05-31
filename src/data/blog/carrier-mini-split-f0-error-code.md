@@ -1,6 +1,6 @@
 ---
 title: "Carrier Mini-Split F0 Error Code — Low Refrigerant / Leakage Detection Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2026-04-26T18:15:00Z
 modDatetime: 2026-04-26T18:15:00Z
 slug: carrier-mini-split-f0-error-code

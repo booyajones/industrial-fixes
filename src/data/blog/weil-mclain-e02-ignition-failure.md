@@ -55,10 +55,10 @@ E02 is one of the highest-volume search terms for Weil-McLain boiler problems, a
 ## Parts You May Need
 
 - [Weil-McLain Hot Surface Igniter Replacement](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-weil-mclain-e02-ignition-failure&tag=errorcodefixes-20)
-- [Weil-McLain Flame Sensor Rod](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-weil-mclain-e02-ignition-failure&tag=errorcodefixes-20)
+- [Weil-McLain Flame Sensor Rod](https://www.amazon.com/s?k=Weil-McLain+Flame+Sensor+Rod&tag=errorcodefixes-20)
 - [Weil-McLain Gas Valve Replacement](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-weil-mclain-e02-ignition-failure&tag=errorcodefixes-20)
-- [Weil-McLain Control Board](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-weil-mclain-e02-ignition-failure&tag=errorcodefixes-20)
-- [Fine Steel Wool for Flame Sensor Cleaning](https://www.amazon.com/dp/B0CZ7M9V4D?ascsubtag=ecf-weil-mclain-e02-ignition-failure&tag=errorcodefixes-20)
+- [Weil-McLain Control Board](https://www.amazon.com/s?k=Weil-McLain+Control+Board&tag=errorcodefixes-20)
+- [Fine Steel Wool for Flame Sensor Cleaning](https://www.amazon.com/s?k=Fine+Steel+Wool+for+Flame+Sensor+Cleaning&tag=errorcodefixes-20)
 
 ## When to Call a Technician
 

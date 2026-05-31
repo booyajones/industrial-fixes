@@ -35,7 +35,7 @@ The Allen-Bradley MicroLogix 1400 (1766-L32AWA, 1766-L32BXB, etc.) is a compact 
 
 Major faults halt the CPU. The FLT LED goes solid red.
 
-| [Code](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-micrologix-fault&k=Code&tag=errorcodefixes-20) | Type | Description |
+| Code | Type | Description |
 |---|---|---|
 | [0004](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-micrologix-fault&k=0004&tag=errorcodefixes-20) | Configuration | I/O configuration file error |
 | [0006](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-micrologix-fault&k=0006&tag=errorcodefixes-20) | Configuration | EE read error during power cycle |
@@ -55,7 +55,7 @@ Major faults halt the CPU. The FLT LED goes solid red.
 
 Minor faults are logged but the CPU keeps running (FLT LED blinks).
 
-| [Code](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-micrologix-fault&k=Code&tag=errorcodefixes-20) | Description |
+| Code | Description |
 |---|---|
 | [0081](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-micrologix-fault&k=0081&tag=errorcodefixes-20) | Battery low |
 | [0082](https://www.amazon.com/s?ascsubtag=ecf-allen-bradley-micrologix-fault&k=0082&tag=errorcodefixes-20) | RTC (real time clock) error |

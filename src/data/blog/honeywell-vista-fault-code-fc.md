@@ -30,7 +30,7 @@ Honeywell's communicating and zone-control-capable thermostats monitor the G (fa
 | Cause | Notes |
 |---|---|
 | [G terminal wire shorted to chassis or other terminal](https://www.amazon.com/s?ascsubtag=ecf-honeywell-vista-fault-code-fc&k=G+terminal+wire+shorted+to+chassis+or+other+terminal&tag=errorcodefixes-20) | Most common electrical cause |
-| [Failed indoor blower relay or control board](https://www.amazon.com/dp/B0CNZGZ1HS?ascsubtag=ecf-honeywell-vista-fault-code-fc&tag=errorcodefixes-20) | Relay coil shorted |
+| [Failed indoor blower relay or control board](https://www.amazon.com/s?k=Failed+indoor+blower+relay+or+control+board&tag=errorcodefixes-20) | Relay coil shorted |
 | [Wrong wiring configuration](https://www.amazon.com/s?ascsubtag=ecf-honeywell-vista-fault-code-fc&k=Wrong+wiring+configuration&tag=errorcodefixes-20) | G wire on wrong terminal |
 | [Accessory (humidifier, UVCO light) wired into G](https://www.amazon.com/s?ascsubtag=ecf-honeywell-vista-fault-code-fc&k=Accessory+%28humidifier%2C+UVCO+light%29+wired+into+G&tag=errorcodefixes-20) | Causes excessive load |
 | [Thermostat firmware bug](https://www.amazon.com/s?ascsubtag=ecf-honeywell-vista-fault-code-fc&k=Thermostat+firmware+bug&tag=errorcodefixes-20) | Some early T6 Pro units had fan monitoring issues |

@@ -1,6 +1,6 @@
 ---
 title: "Honeywell Thermostat E1 Error Code — Sensor Fault Fix"
-author: "Industrial Error Code Fixes"
+author: "Marcus Webb"
 pubDatetime: 2024-03-15T08:00:00Z
 modDatetime: 2024-03-15T08:00:00Z
 slug: honeywell-thermostat-e1-error-code-sensor-fault
