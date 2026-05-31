@@ -49,3 +49,10 @@ The drive monitors the IGBT junction temperature using a thermal model. When the
 ## When to Call a Pro
 
 Call a qualified drive technician or Siemens service partner if the A05006 alarm returns repeatedly after you have corrected load, cleaned cooling paths, and verified the fan. If the warning escalates to a trip fault like F30024, or if you discover the drive is chronically undersized for the application, professional analysis of the thermal model, load profile, and possible power unit replacement is the safest path. Also reach out for help if you lack the tools to measure current accurately or if the installation requires cabinet redesign to meet thermal specifications.
+
+## See Also
+
+- [Siemens SINAMICS G120 F30003 Fault — DC Link Undervoltage Fix](/posts/siemens-sinamics-f30003-fault/)
+- [Siemens G120 A01590 Fault Code - Causes & Fix](/posts/siemens-g120-a01590-fault-code/)
+- [Siemens Micromaster F0070 - Causes & Fix](/posts/siemens-micromaster-f0070-fault-code/)
+- [Siemens Sinumerik Alarm 380500 — Causes & Fix](/posts/siemens-sinumerik-alarm-380500/)

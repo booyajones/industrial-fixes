@@ -83,3 +83,10 @@ Also call a tech if code 33 returns immediately after replacing the high limit s
 
 - [Carrier Furnace Error Code 31 — Pressure Switch Open](/posts/carrier-error-code-31/)
 - [Carrier Furnace Error Code 13 — Limit Circuit Lockout](/posts/carrier-error-code-13/)
+
+## See Also
+
+- [Carrier Mini-Split E4 Error Code — Compressor Discharge Temperature Fix](/posts/carrier-mini-split-e4-error-code/)
+- [Carrier 48XLC Packaged Unit Error Codes — Fault Code Diagnostic Guide](/posts/carrier-48xlc-error-codes/)
+- [Carrier Error Code 16 - Causes & Fix](/posts/carrier-error-code-16/)
+- [Carrier Greenspeed A3 — Defrost Fault Fix](/posts/carrier-heat-pump-error-code-a3/)

@@ -419,6 +419,126 @@
     "siemens-micromaster-f0051-fault-code": {
       "topic": "Siemens Micromaster F0051 fault code",
       "date": "2026-05-30"
+    },
+    "siemens-micromaster-f0052-fault-code": {
+      "topic": "Siemens Micromaster F0052 fault code",
+      "date": "2026-05-31"
+    },
+    "siemens-micromaster-f0060-fault-code": {
+      "topic": "Siemens Micromaster F0060 fault code",
+      "date": "2026-05-31"
+    },
+    "siemens-micromaster-f0070-fault-code": {
+      "topic": "Siemens Micromaster F0070 fault code",
+      "date": "2026-05-31"
+    },
+    "siemens-micromaster-f0071-fault-code": {
+      "topic": "Siemens Micromaster F0071 fault code",
+      "date": "2026-05-31"
+    },
+    "siemens-micromaster-f0072-fault-code": {
+      "topic": "Siemens Micromaster F0072 fault code",
+      "date": "2026-05-31"
+    },
+    "siemens-micromaster-f0080-fault-code": {
+      "topic": "Siemens Micromaster F0080 fault code",
+      "date": "2026-05-31"
+    },
+    "siemens-micromaster-f0085-fault-code": {
+      "topic": "Siemens Micromaster F0085 fault code",
+      "date": "2026-05-31"
+    },
+    "siemens-micromaster-f0101-fault-code": {
+      "topic": "Siemens Micromaster F0101 fault code",
+      "date": "2026-05-31"
+    },
+    "siemens-micromaster-f0221-fault-code": {
+      "topic": "Siemens Micromaster F0221 fault code",
+      "date": "2026-05-31"
+    },
+    "siemens-micromaster-f0222-fault-code": {
+      "topic": "Siemens Micromaster F0222 fault code",
+      "date": "2026-05-31"
+    },
+    "danfoss-fc302-alarm-14-fault-code": {
+      "topic": "Danfoss FC302 ALARM 14 fault code",
+      "date": "2026-05-31"
+    },
+    "danfoss-fc302-alarm-15-fault-code": {
+      "topic": "Danfoss FC302 ALARM 15 fault code",
+      "date": "2026-05-31"
+    },
+    "danfoss-fc302-alarm-16-fault-code": {
+      "topic": "Danfoss FC302 ALARM 16 fault code",
+      "date": "2026-05-31"
+    },
+    "danfoss-fc302-alarm-17-fault-code": {
+      "topic": "Danfoss FC302 ALARM 17 fault code",
+      "date": "2026-05-31"
+    },
+    "danfoss-fc302-alarm-18-fault-code": {
+      "topic": "Danfoss FC302 ALARM 18 fault code",
+      "date": "2026-05-31"
+    },
+    "danfoss-fc302-alarm-20-fault-code": {
+      "topic": "Danfoss FC302 ALARM 20 fault code",
+      "date": "2026-05-31"
+    },
+    "danfoss-fc302-alarm-21-fault-code": {
+      "topic": "Danfoss FC302 ALARM 21 fault code",
+      "date": "2026-05-31"
+    },
+    "danfoss-fc302-alarm-22-fault-code": {
+      "topic": "Danfoss FC302 ALARM 22 fault code",
+      "date": "2026-05-31"
+    },
+    "danfoss-fc302-alarm-23-fault-code": {
+      "topic": "Danfoss FC302 ALARM 23 fault code",
+      "date": "2026-05-31"
+    },
+    "danfoss-fc302-alarm-24-fault-code": {
+      "topic": "Danfoss FC302 ALARM 24 fault code",
+      "date": "2026-05-31"
+    },
+    "danfoss-fc302-alarm-25-fault-code": {
+      "topic": "Danfoss FC302 ALARM 25 fault code",
+      "date": "2026-05-31"
+    },
+    "danfoss-fc302-alarm-26-fault-code": {
+      "topic": "Danfoss FC302 ALARM 26 fault code",
+      "date": "2026-05-31"
+    },
+    "danfoss-fc302-alarm-27-fault-code": {
+      "topic": "Danfoss FC302 ALARM 27 fault code",
+      "date": "2026-05-31"
+    },
+    "danfoss-fc302-alarm-28-fault-code": {
+      "topic": "Danfoss FC302 ALARM 28 fault code",
+      "date": "2026-05-31"
+    },
+    "danfoss-fc302-alarm-30-fault-code": {
+      "topic": "Danfoss FC302 ALARM 30 fault code",
+      "date": "2026-05-31"
+    },
+    "danfoss-fc302-alarm-31-fault-code": {
+      "topic": "Danfoss FC302 ALARM 31 fault code",
+      "date": "2026-05-31"
+    },
+    "danfoss-fc302-alarm-32-fault-code": {
+      "topic": "Danfoss FC302 ALARM 32 fault code",
+      "date": "2026-05-31"
+    },
+    "danfoss-fc302-alarm-33-fault-code": {
+      "topic": "Danfoss FC302 ALARM 33 fault code",
+      "date": "2026-05-31"
+    },
+    "danfoss-fc302-alarm-34-fault-code": {
+      "topic": "Danfoss FC302 ALARM 34 fault code",
+      "date": "2026-05-31"
+    },
+    "danfoss-fc302-alarm-35-fault-code": {
+      "topic": "Danfoss FC302 ALARM 35 fault code",
+      "date": "2026-05-31"
     }
   }
 }

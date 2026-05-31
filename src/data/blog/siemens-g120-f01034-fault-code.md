@@ -47,3 +47,10 @@ The fault triggers when a reference parameter tied to the drive's internal scali
 ## When to Call a Pro
 
 Call a qualified Siemens drive technician if you are not familiar with Startdrive or SINAMICS parameter structures, or if the fault repeats after you have restored original reference values and re-downloaded a known-good parameter set. If the Control Unit replacement is indicated and you do not have experience with G120 commissioning and parameter backup, professional service will prevent data loss and configuration errors during the swap.
+
+## See Also
+
+- [Siemens G120 F01033 - Causes & Fix](/posts/siemens-g120-f01033-fault-code/)
+- [Siemens SINAMICS V20 F1 Fault — Causes & Fix](/posts/siemens-sinamics-v20-f1-fault/)
+- [Siemens SENTRON 3WL/3VA Fault Codes — Troubleshooting Guide](/posts/siemens-sentron-fault-codes/)
+- [Siemens G120 F03505 - Causes & Fix](/posts/siemens-g120-f03505-fault-code/)

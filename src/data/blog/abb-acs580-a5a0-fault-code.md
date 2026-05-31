@@ -47,3 +47,10 @@ The fault appears on the drive display when one or both STO channels are not ene
 ## When to Call a Pro
 
 Call a qualified technician or ABB service if you have verified all external wiring, jumpers, and safety devices and the A5A0 fault still appears. Internal STO circuit board failure or complex safety-system integration issues require factory-trained diagnostics and replacement parts that are not field-serviceable. Also call a pro if your facility uses a certified safety system (Category 3 or 4) and you are not trained to work on machine-safety circuits, since improper changes can create hazards or violate safety standards.
+
+## See Also
+
+- [ABB ACS580 A3D0 Fault Code - Causes & Fix](/posts/abb-acs580-a3d0-fault-code/)
+- [ABB VFD Fault 2310 — Causes & Fix](/posts/abb-vfd-fault-2310/)
+- [ABB ACS355 Fault 3130 — Input Phase Loss Fix](/posts/abb-acs355-fault-3130/)
+- [ABB Tmax/Emax Circuit Breaker Fault Codes - Complete Guide](/posts/abb-circuit-breaker-fault-codes/)
