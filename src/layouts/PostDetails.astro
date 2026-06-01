@@ -209,13 +209,15 @@ const nextPost =
       </span>
     </div>
 
-    <!-- At-a-glance triage strip: difficulty / time / tools, inferred from
-         tags. Sits between the meta row and the Quick Answer so a DIYer can
-         triage the repair before reading. -->
-    <AtAGlance {tags} />
-
-    <!-- Quick Answer Box -->
+    <!-- Quick Answer Box. Rendered FIRST (right after the meta row) so its <p>
+         is the LCP element and paints near the top of the mobile viewport — it
+         was the article LCP element and sat below the fold when AtAGlance came
+         before it (LCP ~3.5s). Answer-first is also the better reading order. -->
     <QuickAnswer {description} {title} />
+
+    <!-- At-a-glance triage strip: difficulty / time / tools, inferred from tags.
+         After the Quick Answer — a tech triages once they've read the summary. -->
+    <AtAGlance {tags} />
 
     <!-- Inline email capture immediately after the Quick Answer. This is
          where intent peaks — the user just read the fix summary. Bottom-
@@ -251,7 +253,7 @@ const nextPost =
     <EmailCapture brand={tags?.[0]} category={postCategory} />
 
     <ShareLinks />
-    <button onclick="window.print()" class="print-btn" aria-label="Print this guide">
+    <button onclick="window.print()" class="print-btn" aria-label="Print guide">
       🖨️ Print guide
     </button>
 

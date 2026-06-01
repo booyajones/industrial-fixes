@@ -319,7 +319,12 @@ const structuredData = pubDatetime
       once any advertiser approves. Placed at end of body with defer per Awin's
       MasterTag 2.0 installation guide.
     -->
-    <script defer src="https://www.dwin1.com/2905561.js" type="text/javascript" is:inline></script>
+    {/* Awin MasterTag (dwin1.com/2905561.js) DISABLED 2026-05-31: the URL
+        returns HTTP 404 (publisher tag not active), so it earned nothing and
+        threw a console error on every one of the ~1,421 pages, dragging the
+        Lighthouse best-practices score. Re-enable this line once the Awin
+        publisher account/tag is live:
+        <script defer src="https://www.dwin1.com/2905561.js" type="text/javascript" is:inline></script> */}
 
     <!-- AI Chat Widget -->
     <ChatWidget />

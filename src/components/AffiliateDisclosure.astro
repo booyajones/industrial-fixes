@@ -15,7 +15,10 @@
   .affiliate-disclosure {
     font-size: 0.8rem;
     line-height: 1.5;
-    color: #6b7280;
+    /* Theme-aware so it passes WCAG 1.4.3 AA in BOTH light and dark: 82% of the
+       max-contrast foreground over the muted background. A hardcoded gray failed
+       contrast in light mode (and would fail in dark). */
+    color: color-mix(in srgb, var(--foreground) 82%, transparent);
     background: var(--muted, #f3f4f6);
     border: 1px solid var(--border, #d9d6ce);
     border-radius: 6px;
@@ -23,7 +26,10 @@
     margin: 0.75rem 0 1.25rem;
   }
   .affiliate-disclosure a {
-    color: var(--accent, #E6531D);
+    /* Darken the accent toward the foreground so the link clears AA on the muted
+       background (raw --accent was ~3:1 in light mode). Lightens in dark mode. */
+    color: color-mix(in srgb, var(--accent, #E6531D) 72%, var(--foreground) 28%);
     text-decoration: underline;
+    font-weight: 600;
   }
 </style>

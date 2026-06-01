@@ -35,3 +35,5 @@ scripts/reddit-intel/out/
 
 # Shorts video generator working dir (TTS mp3s, intermediate PNG frames)
 growth-pipeline/shorts/_tmp/
+
+out/

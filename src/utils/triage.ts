@@ -37,6 +37,7 @@ const PRO_TAGS = new Set([
   "refrigerant",
   "refrigeration",
   "commercial-refrigeration",
+  "commercial-refrigerator",
   "compressor",
   "high-voltage",
   "ignition",
