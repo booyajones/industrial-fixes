@@ -37,3 +37,6 @@ scripts/reddit-intel/out/
 growth-pipeline/shorts/_tmp/
 
 out/
+
+automation/__pycache__/
+**/__pycache__/
