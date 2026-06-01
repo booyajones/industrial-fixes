@@ -5,6 +5,21 @@
 
 declare function gtag(...args: unknown[]): void;
 
+// Listeners attach to document/window which persist across Astro view-transition
+// navigations. Guard so initAnalytics() wires them exactly ONCE per page session;
+// otherwise every 'astro:page-load' stacks another click listener and affiliate_click
+// events double/triple-fire on SPA nav, corrupting mC/1000.
+let listenersAttached = false;
+
+// Resolve the destination hostname for a link. Returns "" if the href can't be parsed.
+function destDomain(href: string): string {
+  try {
+    return new URL(href, window.location.href).hostname;
+  } catch {
+    return "";
+  }
+}
+
 function trackAffiliateClicks() {
   document.addEventListener("click", (e: MouseEvent) => {
     const target = (e.target as HTMLElement).closest("a");
@@ -14,6 +29,8 @@ function trackAffiliateClicks() {
     const part = target.dataset?.affiliatePart || "";
     const brand = target.dataset?.affiliateBrand || "";
     const kind = target.dataset?.affiliateKind || ""; // "asin" | "search" when AmazonPartLink
+    const placement = target.dataset?.affiliatePlacement || ""; // "at_a_glance" | "parts_table" | ...
+    const dest = destDomain(href);
 
     // Amazon Associates links
     if (href.includes("amazon.com") && href.includes("tag=errorcodefixes")) {
@@ -24,6 +41,8 @@ function trackAffiliateClicks() {
           part_number: part,
           brand,
           link_url: href,
+          placement,
+          dest_domain: dest,
           page_location: window.location.pathname,
         });
       }
@@ -35,6 +54,8 @@ function trackAffiliateClicks() {
         gtag("event", "lead_click", {
           partner: "angi",
           link_url: href,
+          placement,
+          dest_domain: dest,
           page_location: window.location.pathname,
         });
       }
@@ -53,6 +74,8 @@ function trackAffiliateClicks() {
         gtag("event", "affiliate_click", {
           affiliate_network: "impact",
           link_url: href,
+          placement,
+          dest_domain: dest,
           page_location: window.location.pathname,
         });
       }
@@ -62,7 +85,12 @@ function trackAffiliateClicks() {
 
 function trackScrollDepth() {
   const milestones = [25, 50, 75, 90];
-  const fired = new Set<number>();
+  // Reset the fired set on each view-transition navigation so scroll milestones
+  // re-fire for the newly loaded page, even though the listener attaches once.
+  let fired = new Set<number>();
+  document.addEventListener("astro:page-load", () => {
+    fired = new Set<number>();
+  });
 
   window.addEventListener("scroll", () => {
     const scrollPct = Math.round(
@@ -84,6 +112,8 @@ function trackScrollDepth() {
 }
 
 function initAnalytics() {
+  if (listenersAttached) return;
+  listenersAttached = true;
   trackAffiliateClicks();
   trackScrollDepth();
 }

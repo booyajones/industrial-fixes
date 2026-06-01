@@ -7,6 +7,59 @@ interface Props {
 
 const { tags } = Astro.props;
 const { difficulty, time, tools } = getTriage(tags);
+
+// Amazon Associates tag — keep in sync with AmazonPartLink.astro / parts.json.
+const TAG = "errorcodefixes-20";
+
+// Allowlist of genuinely buyable, repair-relevant tools. Anything not on this
+// list (PPE, service manual) renders as plain text — never linked. Matching is
+// case-insensitive and tolerant of plural / wording variants ("gauges",
+// "gauge set", "refrigerant gauges").
+const BUYABLE: { test: RegExp; query: string }[] = [
+  { test: /\bmultimeter\b/i, query: "multimeter" },
+  { test: /\bmanometer\b/i, query: "manometer" },
+  { test: /\bcombustion analyzer\b/i, query: "combustion analyzer" },
+  { test: /\b(?:refrigerant )?gauges?(?: set)?\b/i, query: "refrigerant gauge set" },
+  { test: /\bthermometer\b/i, query: "thermometer" },
+  { test: /\bESD strap\b/i, query: "ESD strap" },
+  { test: /\bscrewdrivers?\b/i, query: "screwdriver set" },
+  { test: /\bmegohmmeter\b/i, query: "megohmmeter" },
+  { test: /\bclamp meter\b/i, query: "clamp meter" },
+];
+
+function buyableQuery(tool: string): string | null {
+  const match = BUYABLE.find(b => b.test.test(tool));
+  return match ? match.query : null;
+}
+
+// Build the affiliate search URL for a buyable tool. Format per shared contract:
+//   https://www.amazon.com/s?k=<urlenc>&tag=errorcodefixes-20
+function amazonSearch(query: string): string {
+  return `https://www.amazon.com/s?k=${encodeURIComponent(query)}&tag=${TAG}`;
+}
+
+// Precompute render model so the template stays clean and the JSON-LD ItemList
+// uses the exact same tool names shown to the reader.
+const toolItems = tools.map(tool => {
+  const query = buyableQuery(tool);
+  return {
+    name: tool,
+    href: query ? amazonSearch(query) : null,
+  };
+});
+
+// Schema-safe ItemList: tool NAMES only. No price, no Offer, no availability —
+// avoids Product/Offer compliance exposure (council guidance).
+const itemListJsonLd = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  name: "Tools for this repair",
+  itemListElement: toolItems.map((t, i) => ({
+    "@type": "ListItem",
+    position: i + 1,
+    name: t.name,
+  })),
+};
 ---
 
 <div class="at-a-glance" aria-label="At a glance: repair triage">
@@ -62,9 +115,39 @@ const { difficulty, time, tools } = getTriage(tags);
       <path d="M14.7 6.3a4 4 0 0 0-5.4 5.4l-6 6a2 2 0 1 0 3 3l6-6a4 4 0 0 0 5.4-5.4l-2.6 2.6-2-2 2.6-2.6z" />
     </svg>
     <span class="ataglance-label">Tools</span>
-    <span class="ataglance-value">{tools}</span>
+    <span class="ataglance-value ataglance-tools">
+      {
+        toolItems.map((t, i) => (
+          <>
+            {t.href ? (
+              <a
+                class="noskim ataglance-tool-link"
+                href={t.href}
+                target="_blank"
+                rel="sponsored noopener"
+                data-affiliate-brand=""
+                data-affiliate-kind="tool"
+                data-affiliate-part={t.name}
+                data-affiliate-placement="at_a_glance"
+              >
+                {t.name}
+              </a>
+            ) : (
+              <span class="ataglance-tool-plain">{t.name}</span>
+            )}
+            {i < toolItems.length - 1 ? <span class="ataglance-tool-sep">, </span> : null}
+          </>
+        ))
+      }
+    </span>
   </div>
 </div>
+
+<script
+  type="application/ld+json"
+  is:inline
+  set:html={JSON.stringify(itemListJsonLd)}
+/>
 
 <style>
   .at-a-glance {
@@ -98,6 +181,31 @@ const { difficulty, time, tools } = getTriage(tags);
     color: color-mix(in srgb, var(--foreground) 68%, transparent);
   }
   .ataglance-value {
+    font-weight: 600;
+    color: var(--foreground);
+  }
+  /* The tool list sits ABOVE the QuickAnswer answer, so links must be quiet:
+     full-contrast foreground text with a subtle underline, never a button or
+     accent fill. Resting color is --foreground (AA-safe on the panel for both
+     themes); accent appears only on hover/focus as an affordance. */
+  .ataglance-tool-link {
+    color: var(--foreground);
+    font-weight: 600;
+    text-decoration: underline;
+    text-decoration-color: color-mix(in srgb, var(--foreground) 35%, transparent);
+    text-underline-offset: 0.15em;
+    transition: text-decoration-color 0.15s ease, color 0.15s ease;
+  }
+  .ataglance-tool-link:hover {
+    color: var(--accent);
+    text-decoration-color: var(--accent);
+  }
+  .ataglance-tool-plain {
+    font-weight: 600;
+    color: var(--foreground);
+  }
+  /* Commas join the list as plain punctuation, not links. */
+  .ataglance-tool-sep {
     font-weight: 600;
     color: var(--foreground);
   }

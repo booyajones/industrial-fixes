@@ -23,8 +23,12 @@ export interface Triage {
   difficulty: TriageLevel;
   /** Generic range, e.g. "1-3 hrs". Never a single false-precision number. */
   time: string;
-  /** Short, safe, generic tool list for this category. */
-  tools: string;
+  /**
+   * Short, safe, generic tool list for this category. One entry per tool so the
+   * UI can render buyable tools as individual affiliate links and leave
+   * non-buyable items (PPE, service manual) as plain text.
+   */
+  tools: readonly string[];
 }
 
 // Tags that signal a hazardous repair a DIYer should hand to a licensed
@@ -73,11 +77,12 @@ const INTERMEDIATE_DIY_TAGS = new Set([
 ]);
 
 // Tool kits by category. Keep them short, generic, and safe. A multimeter is
-// always present for anything electrical.
-const TOOLS_REFRIGERATION = "Thermometer, multimeter, gauges, PPE";
-const TOOLS_GAS = "Multimeter, manometer, combustion analyzer, PPE";
-const TOOLS_INDUSTRIAL = "Multimeter, service manual, ESD strap";
-const TOOLS_HVAC = "Multimeter, screwdrivers, PPE";
+// always present for anything electrical. Each kit is an ordered list of tool
+// names; the UI decides which entries are buyable (linkable) vs. plain text.
+const TOOLS_REFRIGERATION = ["Thermometer", "multimeter", "gauges", "PPE"] as const;
+const TOOLS_GAS = ["Multimeter", "manometer", "combustion analyzer", "PPE"] as const;
+const TOOLS_INDUSTRIAL = ["Multimeter", "service manual", "ESD strap"] as const;
+const TOOLS_HVAC = ["Multimeter", "screwdrivers", "PPE"] as const;
 
 /**
  * Resolve a triage card from a post's tags.

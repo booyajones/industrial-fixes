@@ -45,6 +45,38 @@ const { Content } = await render(post);
 
 const authorData = authors[author];
 
+// Internal linking / topical authority: link this guide to its brand hub
+// (/brands/<brand>/) so readers can browse every code for the same brand.
+// Raises sessions-per-visit (more affiliate impressions) and topical signal.
+// Only the brands that actually have a hub page qualify; derive from the
+// FIRST tag that matches one of those hubs, case-insensitively.
+const BRAND_HUBS: Record<string, string> = {
+  "carrier": "Carrier",
+  "goodman": "Goodman",
+  "lennox": "Lennox",
+  "trane": "Trane",
+  "rheem": "Rheem",
+  "york": "York",
+  "daikin": "Daikin",
+  "mitsubishi": "Mitsubishi",
+  "fujitsu": "Fujitsu",
+  "hoshizaki": "Hoshizaki",
+  "manitowoc": "Manitowoc",
+  "fanuc": "Fanuc",
+  "haas": "Haas",
+  "yaskawa": "Yaskawa",
+  "abb": "ABB",
+  "siemens": "Siemens",
+  "allen-bradley": "Allen-Bradley",
+  "danfoss": "Danfoss",
+};
+const hubMatch = (tags ?? [])
+  .map(t => t.toLowerCase())
+  .find(t => t in BRAND_HUBS);
+const brandHub = hubMatch
+  ? { slug: hubMatch, name: BRAND_HUBS[hubMatch] }
+  : null;
+
 // Map this post's tags to an equipment category so EmailCapture can deliver
 // the right cheat-sheet PDF. Returns undefined if no overlap.
 const tagSet = new Set((tags ?? []).map(t => t.toLowerCase()));
@@ -215,6 +247,19 @@ const nextPost =
          before it (LCP ~3.5s). Answer-first is also the better reading order. -->
     <QuickAnswer {description} {title} />
 
+    <!-- Internal link to the brand hub for topical authority + more sessions
+         per visit. Subtle, single inline link; only rendered when the post's
+         tags include a brand that has a hub page. data-internal-link tags it
+         for later GA4 / log analysis. Placed right under the Quick Answer so
+         it never crowds out the answer itself. -->
+    {brandHub && (
+      <p class="brand-hub-link">
+        <a href={`/brands/${brandHub.slug}/`} data-internal-link="brand-hub">
+          See all {brandHub.name} error codes →
+        </a>
+      </p>
+    )}
+
     <!-- At-a-glance triage strip: difficulty / time / tools, inferred from tags.
          After the Quick Answer — a tech triages once they've read the summary. -->
     <AtAGlance {tags} />
@@ -317,6 +362,24 @@ const nextPost =
     align-items: center;
     gap: 0.35rem;
     color: #4b5563;
+  }
+
+  /* Subtle inline internal link to the brand hub. #166534 on the white/light
+     page background is ~6.7:1 contrast (passes AA). Sits just under the Quick
+     Answer without competing with the answer copy. */
+  .brand-hub-link {
+    margin: -0.5rem 0 1.5rem 0;
+    font-size: 0.85rem;
+  }
+  .brand-hub-link a {
+    color: #166534;
+    font-weight: 500;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(22, 101, 52, 0.35);
+  }
+  .brand-hub-link a:hover,
+  .brand-hub-link a:focus-visible {
+    border-bottom-color: #166534;
   }
 
   /* Title + copy button */
