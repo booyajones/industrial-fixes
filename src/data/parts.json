@@ -5,8 +5,50 @@
     "verification_cadence": "quarterly; ASINs rot. Re-check via Rich Results spot-check or PA-API once integrated."
   },
   "parts": {
-    "T-84984": { "asin": "B07FVP4CY6", "title": "True 988294 cabinet temperature sensor probe", "last_verified": "2026-05-16" },
-    "T-04523": { "asin": "B07VYQS8H4", "title": "True 802167 condenser fan motor 1/15 HP", "last_verified": "2026-05-16" },
-    "915146":  { "asin": "B07FVP4CY6", "title": "True 915146 defrost heater", "last_verified": "2026-05-16" }
+    "T-84984": {
+      "asin": "B07FVP4CY6",
+      "title": "True 988294 cabinet temperature sensor probe",
+      "last_verified": "2026-05-16"
+    },
+    "T-04523": {
+      "asin": "B07VYQS8H4",
+      "title": "True 802167 condenser fan motor 1/15 HP",
+      "last_verified": "2026-05-16"
+    },
+    "915146": {
+      "asin": "B07FVP4CY6",
+      "title": "True 915146 defrost heater",
+      "last_verified": "2026-05-16"
+    },
+    "41-404": {
+      "asin": "B001GZJHKW",
+      "title": "resolved via Firecrawl for: Robertshaw 41-404 furnace igniter",
+      "last_verified": "2026-06-01"
+    },
+    "0130F00008S": {
+      "asin": "B00PM90GJY",
+      "title": "resolved via Firecrawl for: goodman furnace igniter 0130F00008S",
+      "last_verified": "2026-06-01"
+    },
+    "025-32625-000": {
+      "asin": "B0FNR6TM3J",
+      "title": "resolved via Firecrawl for: york furnace igniter 025-32625-000",
+      "last_verified": "2026-06-01"
+    },
+    "624631": {
+      "asin": "B0GWM6GYX1",
+      "title": "resolved via Firecrawl for: nordyne 624631 igniter",
+      "last_verified": "2026-06-01"
+    },
+    "HK42FZ": {
+      "asin": "B0FDGLNB2R",
+      "title": "resolved via Firecrawl for: Carrier control board (Part #HK42FZ series)",
+      "last_verified": "2026-06-01"
+    },
+    "62-25338-01": {
+      "asin": "B00FYWKB1W",
+      "title": "resolved via Firecrawl for: Ruud/Rheem Outdoor Control Board (Part # 62-25338-01)",
+      "last_verified": "2026-06-01"
+    }
   }
 }

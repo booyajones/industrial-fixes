@@ -120,7 +120,7 @@ Disconnect the suspect sensor and measure resistance with a calibrated ohmmeter 
 
 | Part | Why You Need It | Approx. Cost |
 |------|----------------|-------------|
-| [Ruud/Rheem Outdoor Control Board (Part # 62-25338-01)](https://www.amazon.com/s?k=Ruud%2FRheem+Outdoor+Control+Board+%28Part+%23+62-25338-01%29&tag=errorcodefixes-20) | Replaces failed main outdoor control board causing communication or sensor faults | $180-$320 |
+| [Ruud/Rheem Outdoor Control Board (Part # 62-25338-01)](https://www.amazon.com/dp/B00FYWKB1W/?tag=errorcodefixes-20) | Replaces failed main outdoor control board causing communication or sensor faults | $180-$320 |
 | [Reversing Valve Solenoid Coil (Part # 62-101684-04)](https://www.amazon.com/s?ascsubtag=ecf-ruud-upnl-heat-pump-error-codes&k=Ruud+reversing+valve+solenoid+coil&tag=errorcodefixes-20) | Replaces failed solenoid coil on reversing valve without replacing full valve | $35-$65 |
 | [NTC Thermistor Sensor (Part # 62-103189-01)](https://www.amazon.com/s?ascsubtag=ecf-ruud-upnl-heat-pump-error-codes&k=Ruud+Rheem+NTC+thermistor+10k+HVAC+sensor&tag=errorcodefixes-20) | Replaces failed outdoor ambient, discharge, or suction temperature sensors | $15-$30 |
 | [EcoNet Wi-Fi Control Module (Part # RWFIO-W01B)](https://www.amazon.com/s?ascsubtag=ecf-ruud-upnl-heat-pump-error-codes&k=Ruud+EcoNet+WiFi+module+RWFIO&tag=errorcodefixes-20) | Replaces failed EcoNet communicating module | $95-$145 |

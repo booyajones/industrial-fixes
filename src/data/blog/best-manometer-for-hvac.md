@@ -32,7 +32,7 @@ After 14 years setting gas pressure, measuring static pressure across coils and 
 ### 1. Fieldpiece SDMN6 — Best for residential and light-commercial HVAC
 
 **Brand + model:** Fieldpiece SDMN6 Dual Port Digital Manometer
-**Approximate price:** $290 ([Fieldpiece SDMN6 on Amazon](https://www.amazon.com/s?k=SDMN6&tag=errorcodefixes-20), [Fieldpiece SDMN6 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-manometer-for-hvac))
+**Approximate price:** $290 ([Fieldpiece SDMN6 on Amazon](https://www.amazon.com/dp/B00IJI0T6U/?tag=errorcodefixes-20), [Fieldpiece SDMN6 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-manometer-for-hvac))
 
 - Dual port differential, ±60 inWC range, 0.01 inWC resolution
 - Reads inWC, PSI, mBar, kPa, mmHg

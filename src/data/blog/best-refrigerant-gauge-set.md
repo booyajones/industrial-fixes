@@ -62,7 +62,7 @@ I've spent 17 years in supermarket refrigeration and light commercial HVAC, and 
 ### 3. Fieldpiece SMAN360 — Best for techs running the full Fieldpiece ecosystem
 
 **Brand + model:** Fieldpiece SMAN360 Digital 3-Port Refrigeration Manifold
-**Approximate price:** $620 ([Fieldpiece SMAN360 on Amazon](https://www.amazon.com/s?k=SMAN360&tag=errorcodefixes-20), [Fieldpiece SMAN360 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-refrigerant-gauge-set))
+**Approximate price:** $620 ([Fieldpiece SMAN360 on Amazon](https://www.amazon.com/dp/B00M9GPZR6/?tag=errorcodefixes-20), [Fieldpiece SMAN360 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-refrigerant-gauge-set))
 
 - 45+ refrigerants in the PT library, including R-454B and R-32
 - Integrated micron gauge (down to 50 microns)

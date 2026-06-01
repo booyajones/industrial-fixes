@@ -46,7 +46,7 @@ After 16 years on hydronic boilers — cast iron through fire-tube condensing �
 ### 2. Manometer: Fieldpiece SDMN6 — Best for gas and draft pressure
 
 **Brand + model:** Fieldpiece SDMN6 Dual Port Manometer
-**Approximate price:** $290 ([Fieldpiece SDMN6 on Amazon](https://www.amazon.com/s?k=SDMN6+BOILER&tag=errorcodefixes-20), [Fieldpiece SDMN6 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-boiler-test-kit))
+**Approximate price:** $290 ([Fieldpiece SDMN6 on Amazon](https://www.amazon.com/dp/B00IJI0T6U/?tag=errorcodefixes-20), [Fieldpiece SDMN6 at TruTech Tools](https://trutechtools.com/?utm_source=errorcodefixes&utm_medium=affiliate&utm_campaign=best-boiler-test-kit))
 
 - Dual port, ±60 inWC range, 0.01 inWC resolution
 - Reads inWC, PSI, mBar

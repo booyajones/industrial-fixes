@@ -51,7 +51,7 @@ description: "Carrier error code 34 means ignition proving failure — the furna
 | Flame sensor rod (universal, replaces OEM) | [Amazon](https://www.amazon.com/s?k=Flame+sensor+rod+%28universal%2C+replaces+OEM%29&tag=errorcodefixes-20) \| Carrier dealer, Johnstone Supply, Grainger | $8–$20 |
 | Hot surface igniter — Carrier/Bryant OEM (Part #LH33ZS004) | [Amazon](https://www.amazon.com/dp/B00BTLLJ40?ascsubtag=ecf-carrier-34-error-code&tag=errorcodefixes-20) \| Carrier dealer, HVAC Supply Outlet | $30–$65 |
 | Gas valve — White-Rodgers 36E (common Carrier app) | [Amazon](https://www.amazon.com/dp/B0015KAHHA?ascsubtag=ecf-carrier-34-error-code&tag=errorcodefixes-20) \| Johnstone Supply, Wittichen Supply | $80–$180 |
-| Carrier control board (Part #HK42FZ series) | [Amazon](https://www.amazon.com/s?k=Carrier+control+board+%28Part+%23HK42FZ+series%29&tag=errorcodefixes-20) \| Carrier OEM parts dealer | $150–$300 |
+| Carrier control board (Part #HK42FZ series) | [Amazon](https://www.amazon.com/dp/B0FDGLNB2R/?tag=errorcodefixes-20) \| Carrier OEM parts dealer | $150–$300 |
 ## When to Call a Professional
 
 If you've cleaned the flame sensor, confirmed igniter resistance, and verified gas pressure but the fault persists, you're likely dealing with a cracked heat exchanger or a failing control board. A cracked heat exchanger is a carbon monoxide safety hazard — do not run the furnace. Tell your tech: "I've already cleaned the flame sensor and checked gas pressure. I'm getting code 3-4 and the flame sensor reads under 0.5 microamps even on a clean rod. I want you to check the heat exchanger and the board."

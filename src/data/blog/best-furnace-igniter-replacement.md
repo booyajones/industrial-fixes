@@ -82,14 +82,14 @@ Most residential furnaces use one of three igniter styles:
 
 ### Carrier, Bryant, Payne
 **OEM part:** Carrier HH18HA499 / HKSG01WC001
-**Best universal fit:** [Robertshaw 41-404 silicon nitride igniter](https://www.amazon.com/s?k=Robertshaw+41-404+furnace+igniter&tag=errorcodefixes-20)
+**Best universal fit:** [Robertshaw 41-404 silicon nitride igniter](https://www.amazon.com/dp/B001GZJHKW/?tag=errorcodefixes-20)
 - Fits Carrier, Bryant, Payne, Comfortmaker furnaces 2000–present
 - Silicon nitride construction — longer life than SiC
 - Typical price: $25–$40
 
 ### Goodman, Amana, Daikin
 **OEM part:** Goodman 0130F00008S
-**Best universal fit:** [Supplying Demand B1401015S igniter](https://www.amazon.com/s?k=goodman+furnace+igniter+0130F00008S&tag=errorcodefixes-20)
+**Best universal fit:** [Supplying Demand B1401015S igniter](https://www.amazon.com/dp/B00PM90GJY/?tag=errorcodefixes-20)
 - Fits Goodman, Amana, Daikin manufactured furnaces 2005–present
 - Replaces SiC units with upgraded silicon nitride
 - Typical price: $18–$35
@@ -115,14 +115,14 @@ Most residential furnaces use one of three igniter styles:
 
 ### York, Coleman, Luxaire (Bosch)
 **OEM part:** York 025-32625-000
-**Best fit:** [Emerson/White Rodgers 767A-369 igniter](https://www.amazon.com/s?k=york+furnace+igniter+025-32625-000&tag=errorcodefixes-20)
+**Best fit:** [Emerson/White Rodgers 767A-369 igniter](https://www.amazon.com/dp/B0FNR6TM3J/?tag=errorcodefixes-20)
 - Fits York, Coleman, Luxaire, Champion manufactured furnaces
 - Silicon nitride flat style
 - Typical price: $22–$38
 
 ### Nordyne (Frigidaire, Gibson, Westinghouse, Tappan furnaces)
 **OEM part:** Nordyne 624631
-**Best fit:** [Nordyne 624631 igniter](https://www.amazon.com/s?k=nordyne+624631+igniter&tag=errorcodefixes-20) or Ceramic Igniter 624631B
+**Best fit:** [Nordyne 624631 igniter](https://www.amazon.com/dp/B0GWM6GYX1/?tag=errorcodefixes-20) or Ceramic Igniter 624631B
 - Fits Frigidaire, Gibson, Westinghouse, Tappan, and Nordyne-manufactured furnaces
 - Typical price: $20–$40
 
