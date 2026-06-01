@@ -15,6 +15,7 @@ import AtAGlance from "@/components/AtAGlance.astro";
 import RelatedPosts from "@/components/RelatedPosts.astro";
 import EmailCapture from "../components/EmailCapture.astro";
 import AffiliateDisclosure from "@/components/AffiliateDisclosure.astro";
+import PartsSpecialist from "@/components/PartsSpecialist.astro";
 import { getPath } from "@/utils/getPath";
 import { authors } from "../data/authors";
 import { equipmentCategories } from "@/data/equipmentCategories";
@@ -280,6 +281,12 @@ const nextPost =
     >
       <Content />
     </article>
+
+    <!-- "Shop the replacement part": the reader has just diagnosed the fault,
+         so buying intent peaks here. Routes to a category-appropriate parts
+         specialist; links are Skimlinks-monetized (no noskim). Placed after
+         the article body and before the tag/EditPost block. -->
+    <PartsSpecialist {tags} query={title.replace(/—.*$/, '').trim()} />
 
     <hr class="my-8 border-dashed" />
 

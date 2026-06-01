@@ -61,15 +61,35 @@ function trackAffiliateClicks() {
       }
     }
 
-    // Impact.com / general parts supplier links
+    // Parts-specialist / general supplier links. These are monetized by
+    // Skimlinks (rewrites the outbound link at click time — no per-merchant
+    // signup), NOT Impact, so they report affiliate_network: "skimlinks".
+    // The raw impact.com tracking domain stays on the Impact branch below.
     if (
-      href.includes("impact.com") ||
       href.includes("repairclinic.com") ||
       href.includes("supplyhouse.com") ||
+      href.includes("partstown.com") ||
       href.includes("grainger.com") ||
+      href.includes("johnstonesupply.com") ||
+      href.includes("homedepot.com") ||
       href.includes("jbtools.com") ||
       href.includes("jracenstein.com")
     ) {
+      if (typeof gtag !== "undefined") {
+        gtag("event", "affiliate_click", {
+          affiliate_network: "skimlinks",
+          link_kind: kind,
+          brand,
+          link_url: href,
+          placement,
+          dest_domain: dest,
+          page_location: window.location.pathname,
+        });
+      }
+    }
+
+    // Raw Impact.com tracking links (impact.com radius/click URLs).
+    if (href.includes("impact.com")) {
       if (typeof gtag !== "undefined") {
         gtag("event", "affiliate_click", {
           affiliate_network: "impact",

@@ -44,8 +44,12 @@ def _run(headers, body):
 
 
 def sessions(headers, start, end):
+    # ENGAGED sessions only — excludes the ~96% bot/crawler traffic that hits as
+    # "direct" with ~1.3s duration (GA4 diagnosis 2026-06-01: 4,907 direct/1.3s
+    # vs ~33 real organic+referral in 28d). Engaged = >10s OR 2+ views OR a
+    # conversion, so mC/1000 is measured against real humans, not bots.
     d = _run(headers, {"dateRanges": [{"startDate": start, "endDate": end}],
-                       "metrics": [{"name": "sessions"}]})
+                       "metrics": [{"name": "engagedSessions"}]})
     rows = d.get("rows", [])
     return int(rows[0]["metricValues"][0]["value"]) if rows else 0
 
@@ -109,11 +113,12 @@ def build_report():
     c_prev = monetized_clicks(headers, "14daysAgo", "8daysAgo")
     mc_now, mc_prev = mc1000(c_now, s_now), mc1000(c_prev, s_prev)
 
-    sess_pp = by_page(headers, "7daysAgo", "yesterday", "sessions")
+    sess_pp = by_page(headers, "7daysAgo", "yesterday", "engagedSessions")
     click_pp = by_page(headers, "7daysAgo", "yesterday", "eventCount", event="affiliate_click")
 
-    # Pages with enough traffic to be worth optimizing, ranked by mC/1000.
-    MIN_SESS = 15
+    # Pages with enough REAL (engaged) traffic to be worth optimizing.
+    # Low threshold on purpose — real organic traffic is small today (~33/28d).
+    MIN_SESS = 3
     scored = []
     for path, sess in sess_pp.items():
         if sess < MIN_SESS or not path.startswith("/posts/"):
@@ -131,9 +136,9 @@ def build_report():
         trend = " (first week of data)"
 
     L = ["*📊 errorcodefixes.com — Weekly North Star: mC/1000*",
-         f"_Monetized affiliate clicks per 1,000 sessions. Last 7 days._",
+         f"_Monetized affiliate clicks per 1,000 ENGAGED sessions (bots/1.3s-direct excluded). Last 7 days._",
          "",
-         f"*mC/1000: {mc_now}*{trend}   ·   {c_now:,} monetized clicks / {s_now:,} sessions",
+         f"*mC/1000: {mc_now}*{trend}   ·   {c_now:,} monetized clicks / {s_now:,} engaged sessions",
          f"Prior week: {mc_prev} ({c_prev:,} / {s_prev:,})"]
 
     if not scored:
