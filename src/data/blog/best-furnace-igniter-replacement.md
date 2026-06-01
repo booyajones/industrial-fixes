@@ -82,47 +82,47 @@ Most residential furnaces use one of three igniter styles:
 
 ### Carrier, Bryant, Payne
 **OEM part:** Carrier HH18HA499 / HKSG01WC001
-**Best universal fit:** [Robertshaw 41-404 silicon nitride igniter](https://www.amazon.com/s?k=Robertshaw+41-404+furnace+igniter)
+**Best universal fit:** [Robertshaw 41-404 silicon nitride igniter](https://www.amazon.com/s?k=Robertshaw+41-404+furnace+igniter&tag=errorcodefixes-20)
 - Fits Carrier, Bryant, Payne, Comfortmaker furnaces 2000–present
 - Silicon nitride construction — longer life than SiC
 - Typical price: $25–$40
 
 ### Goodman, Amana, Daikin
 **OEM part:** Goodman 0130F00008S
-**Best universal fit:** [Supplying Demand B1401015S igniter](https://www.amazon.com/s?k=goodman+furnace+igniter+0130F00008S)
+**Best universal fit:** [Supplying Demand B1401015S igniter](https://www.amazon.com/s?k=goodman+furnace+igniter+0130F00008S&tag=errorcodefixes-20)
 - Fits Goodman, Amana, Daikin manufactured furnaces 2005–present
 - Replaces SiC units with upgraded silicon nitride
 - Typical price: $18–$35
 
 ### Trane, American Standard
 **OEM part:** Trane IGN00011 / American Standard IGN00011
-**Best universal fit:** [White-Rodgers / Emerson Q3400A1024 silicon carbide igniter](https://www.amazon.com/s?k=trane+furnace+igniter+IGN00011)
+**Best universal fit:** [White-Rodgers / Emerson Q3400A1024 silicon carbide igniter](https://www.amazon.com/s?k=trane+furnace+igniter+IGN00011&tag=errorcodefixes-20)
 - Fits Trane, American Standard, RunTru furnaces
 - Older Trane models use silicon carbide — verify by resistance check
 - Typical price: $30–$55
 
 ### Lennox
 **OEM part:** Lennox 13F37 / SureLight igniter
-**Best replacement:** [Lennox 13F37 OEM igniter](https://www.amazon.com/s?k=lennox+furnace+igniter+13F37) (OEM recommended for Lennox — universal fit can be tricky on some models)
+**Best replacement:** [Lennox 13F37 OEM igniter](https://www.amazon.com/s?k=lennox+furnace+igniter+13F37&tag=errorcodefixes-20) (OEM recommended for Lennox — universal fit can be tricky on some models)
 - Lennox SureLight furnaces use a proprietary silicon nitride design
 - Typical price: $35–$65
 
 ### Rheem, Ruud, Weather King
 **OEM part:** Rheem 62-24140-04 / SP20166B
-**Best universal fit:** [Supplying Demand SP20166B igniter](https://www.amazon.com/s?k=rheem+ruud+furnace+igniter+62-24140-04)
+**Best universal fit:** [Supplying Demand SP20166B igniter](https://www.amazon.com/s?k=rheem+ruud+furnace+igniter+62-24140-04&tag=errorcodefixes-20)
 - Fits most Rheem, Ruud, WeatherKing, and Richmond furnaces 2000–present
 - Typical price: $20–$40
 
 ### York, Coleman, Luxaire (Bosch)
 **OEM part:** York 025-32625-000
-**Best fit:** [Emerson/White Rodgers 767A-369 igniter](https://www.amazon.com/s?k=york+furnace+igniter+025-32625-000)
+**Best fit:** [Emerson/White Rodgers 767A-369 igniter](https://www.amazon.com/s?k=york+furnace+igniter+025-32625-000&tag=errorcodefixes-20)
 - Fits York, Coleman, Luxaire, Champion manufactured furnaces
 - Silicon nitride flat style
 - Typical price: $22–$38
 
 ### Nordyne (Frigidaire, Gibson, Westinghouse, Tappan furnaces)
 **OEM part:** Nordyne 624631
-**Best fit:** [Nordyne 624631 igniter](https://www.amazon.com/s?k=nordyne+624631+igniter) or Ceramic Igniter 624631B
+**Best fit:** [Nordyne 624631 igniter](https://www.amazon.com/s?k=nordyne+624631+igniter&tag=errorcodefixes-20) or Ceramic Igniter 624631B
 - Fits Frigidaire, Gibson, Westinghouse, Tappan, and Nordyne-manufactured furnaces
 - Typical price: $20–$40
 

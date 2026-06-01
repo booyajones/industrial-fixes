@@ -4,6 +4,7 @@ import sitemap from "@astrojs/sitemap";
 import remarkToc from "remark-toc";
 import remarkCollapse from "remark-collapse";
 import remarkHeadingIds from "./src/utils/remark-heading-ids.mjs";
+import rehypeNoskim from "./src/utils/rehype-noskim.mjs";
 import {
   transformerNotationDiff,
   transformerNotationHighlight,
@@ -30,6 +31,7 @@ export default defineConfig({
   ],
   markdown: {
     remarkPlugins: [remarkHeadingIds, remarkToc, [remarkCollapse, { test: "Table of contents" }]],
+    rehypePlugins: [rehypeNoskim],
     shikiConfig: {
       // For more themes, visit https://shiki.style/themes
       themes: { light: "min-light", dark: "night-owl" },

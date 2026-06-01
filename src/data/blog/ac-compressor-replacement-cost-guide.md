@@ -1,4 +1,5 @@
 ---
+canonicalURL: "https://errorcodefixes.com/posts/ac-compressor-replacement-cost/"
 title: "AC Compressor Replacement Cost vs. New Unit - When to Repair or Replace"
 description: "AC compressor replacement costs $800 to $3,500. Complete system replacement runs $5,000 to $12,000. Use our age-based rule to decide which makes sense for you."
 pubDatetime: 2026-04-30T15:00:00Z

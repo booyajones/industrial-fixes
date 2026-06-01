@@ -1,4 +1,5 @@
 ---
+canonicalURL: "https://errorcodefixes.com/posts/abb-acs880-fault-2310/"
 title: "ABB ACS880 Fault 2310 Overcurrent — Causes & Fix"
 description: "What ABB ACS880 Fault 2310 overcurrent means, why it trips, and how to diagnose and fix it step by step."
 pubDatetime: 2026-04-22T13:00:00Z
