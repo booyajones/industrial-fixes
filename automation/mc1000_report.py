@@ -77,6 +77,25 @@ def by_page(headers, start, end, metric, event=None):
             for r in d.get("rows", [])}
 
 
+def clicks_by_placement(headers, start, end):
+    """Monetized clicks broken down by the `placement` custom dimension
+    (at_a_glance / parts_table / ...). Registered 2026-06-01; populates as
+    data accrues. This is the A/B signal: which placement converts best."""
+    d = _run(headers, {
+        "dateRanges": [{"startDate": start, "endDate": end}],
+        "dimensions": [{"name": "customEvent:placement"}],
+        "metrics": [{"name": "eventCount"}],
+        "dimensionFilter": {"filter": {"fieldName": "eventName",
+                                       "inListFilter": {"values": MONETIZED_EVENTS}}},
+        "orderBys": [{"metric": {"metricName": "eventCount"}, "desc": True}],
+    })
+    out = {}
+    for r in d.get("rows", []):
+        name = r["dimensionValues"][0]["value"] or "(unset)"
+        out[name] = int(r["metricValues"][0]["value"])
+    return out
+
+
 def mc1000(clicks, sess):
     return round(clicks / sess * 1000, 1) if sess else 0.0
 
@@ -128,8 +147,14 @@ def build_report():
         for path, sess, clicks, mc in best:
             L.append(f"• `{path}` — mC/1000 *{mc}* ({clicks}/{sess})")
 
-    L += ["", "_Note: per-placement A/B (at_a_glance vs parts_table) needs `placement` "
-          "registered as a GA4 custom dimension (Admin ▸ Custom definitions) — one-time setup to unlock._"]
+    placements = clicks_by_placement(headers, "7daysAgo", "yesterday")
+    if placements:
+        L += ["", "*🅰️🅱️ Monetized clicks by placement (where they convert):*"]
+        for name, n in sorted(placements.items(), key=lambda x: -x[1]):
+            L.append(f"• {name}: *{n}*")
+    else:
+        L += ["", "_Placement A/B: custom dimensions registered 2026-06-01; "
+              "breakdown populates as clicks accrue (none yet)._"]
     return "\n".join(L)
 
 
