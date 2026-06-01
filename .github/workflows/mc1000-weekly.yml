@@ -1,0 +1,34 @@
+# Weekly North Star readout — mC/1000 (monetized affiliate clicks per 1,000
+# sessions). Reads GA4, computes the metric + WoW trend, auto-surfaces the
+# highest-traffic / lowest-converting pages as next-wave optimization targets,
+# and posts to Slack #proj-industrial-code-errors. This is the self-running
+# optimization loop: every Monday it tells us where conversion work should go next.
+name: ECF North Star mC/1000 (weekly)
+
+on:
+  schedule:
+    - cron: "0 14 * * 1"   # Mondays 14:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  mc1000:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install deps
+        run: pip install requests google-auth 2>/dev/null || pip install requests || true
+      - name: Write GA4 service account file
+        run: echo '${{ secrets.GSC_SA_JSON }}' > "$RUNNER_TEMP/ga-sa.json"
+      - name: Post weekly mC/1000 readout to Slack
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+          GOOGLE_APPLICATION_CREDENTIALS: ${{ runner.temp }}/ga-sa.json
+          GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}
+        run: cd automation && python mc1000_report.py
