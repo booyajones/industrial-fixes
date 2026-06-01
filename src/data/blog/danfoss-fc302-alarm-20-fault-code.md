@@ -48,3 +48,10 @@ The FC302 monitors motor or external temperature sensors to protect equipment fr
 ## When to Call a Pro
 
 Call a qualified technician or Danfoss service if you are not familiar with VFD parameter programming, if you cannot safely lock out power and verify zero voltage, or if the alarm returns after you have confirmed good sensor resistance and correct wiring. Also call for help if the drive is part of a coordinated system (building HVAC, process line, or fire-pump setup) where incorrect parameter changes could create safety or production issues. If you have replaced the sensor and verified all wiring but Alarm 20 persists, the drive's internal temperature input circuit may be faulty and will require factory-trained diagnostics or control card replacement.
+
+## See Also
+
+- [Danfoss FC102 VLT HVAC Drive Fault Codes — Complete Diagnostic Reference](/posts/danfoss-fc102-fault-codes/)
+- [Danfoss VLT 2900 Fault Codes: Complete Guide](/posts/danfoss-vlt-2900-faults/)
+- [Danfoss VFD Fault Codes — FC301, FC302, FC102 Reference](/posts/danfoss-vfd-fault-codes/)
+- [Danfoss FC-302 Alarm 12 — Overcurrent Fix](/posts/danfoss-fc302-alarm-12/)

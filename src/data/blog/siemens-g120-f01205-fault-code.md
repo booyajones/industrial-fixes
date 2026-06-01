@@ -47,3 +47,10 @@ This is a control-unit performance fault, not a motor or power-stage issue. It a
 ## When to Call a Pro
 
 Call a qualified Siemens technician or your local Siemens service hotline if the fault remains after a POWER ON cycle, topology simplification, and firmware update. Because F01205 involves internal control-unit processing and time-slice management, it may indicate a CU hardware defect or a configuration issue that requires advanced diagnostics in TIA Portal. If you are not experienced with drive commissioning, multi-drive networks, or Siemens parameter structures, get professional help before replacing the control unit or making changes to your communication topology.
+
+## See Also
+
+- [Siemens SINAMICS G120 F30011 Fault — Phase Loss Fix](/posts/siemens-sinamics-f30011-fault/)
+- [Siemens Micromaster 440 Fault F002 — Overcurrent](/posts/siemens-micromaster-440-fault-f002/)
+- [Siemens G120 F01650 - Causes & Fix](/posts/siemens-g120-f01650-fault-code/)
+- [Siemens S7-300/400 CPU Fault Code Guide](/posts/siemens-s7-cpu-fault-codes/)

@@ -66,3 +66,10 @@ The Infinity bus uses a shielded 2-wire system. Any loose connection or short ca
 - [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
 - [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
 - [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
+
+## See Also
+
+- [Carrier 42 Error Code — Causes & Fix](/posts/carrier-42-error-code/)
+- [Carrier WeatherMaker Rooftop Unit Error Codes: Complete Guide](/posts/carrier-weatheramaker-error-codes/)
+- [Carrier Infinity Touch Thermostat Error Codes - What It Means and How to Fix It](/posts/carrier-infinity-touch-thermostat-error-codes/)
+- [Carrier Mini-Split F0 Error Code — Low Refrigerant / Leakage Detection Fix](/posts/carrier-mini-split-f0-error-code/)

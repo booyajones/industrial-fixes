@@ -539,6 +539,126 @@
     "danfoss-fc302-alarm-35-fault-code": {
       "topic": "Danfoss FC302 ALARM 35 fault code",
       "date": "2026-05-31"
+    },
+    "danfoss-fc302-alarm-36-fault-code": {
+      "topic": "Danfoss FC302 ALARM 36 fault code",
+      "date": "2026-06-01"
+    },
+    "danfoss-fc302-alarm-37-fault-code": {
+      "topic": "Danfoss FC302 ALARM 37 fault code",
+      "date": "2026-06-01"
+    },
+    "danfoss-fc302-alarm-38-fault-code": {
+      "topic": "Danfoss FC302 ALARM 38 fault code",
+      "date": "2026-06-01"
+    },
+    "danfoss-fc302-alarm-39-fault-code": {
+      "topic": "Danfoss FC302 ALARM 39 fault code",
+      "date": "2026-06-01"
+    },
+    "yaskawa-ga800-e01-fault-code": {
+      "topic": "Yaskawa GA800 E01 fault code",
+      "date": "2026-06-01"
+    },
+    "yaskawa-ga800-e02-fault-code": {
+      "topic": "Yaskawa GA800 E02 fault code",
+      "date": "2026-06-01"
+    },
+    "yaskawa-ga800-e03-fault-code": {
+      "topic": "Yaskawa GA800 E03 fault code",
+      "date": "2026-06-01"
+    },
+    "yaskawa-ga800-e04-fault-code": {
+      "topic": "Yaskawa GA800 E04 fault code",
+      "date": "2026-06-01"
+    },
+    "yaskawa-ga800-e07-fault-code": {
+      "topic": "Yaskawa GA800 E07 fault code",
+      "date": "2026-06-01"
+    },
+    "yaskawa-ga800-e08-fault-code": {
+      "topic": "Yaskawa GA800 E08 fault code",
+      "date": "2026-06-01"
+    },
+    "yaskawa-ga800-e09-fault-code": {
+      "topic": "Yaskawa GA800 E09 fault code",
+      "date": "2026-06-01"
+    },
+    "yaskawa-ga800-e10-fault-code": {
+      "topic": "Yaskawa GA800 E10 fault code",
+      "date": "2026-06-01"
+    },
+    "yaskawa-ga800-e11-fault-code": {
+      "topic": "Yaskawa GA800 E11 fault code",
+      "date": "2026-06-01"
+    },
+    "yaskawa-ga800-e12-fault-code": {
+      "topic": "Yaskawa GA800 E12 fault code",
+      "date": "2026-06-01"
+    },
+    "yaskawa-ga800-e13-fault-code": {
+      "topic": "Yaskawa GA800 E13 fault code",
+      "date": "2026-06-01"
+    },
+    "yaskawa-ga800-e14-fault-code": {
+      "topic": "Yaskawa GA800 E14 fault code",
+      "date": "2026-06-01"
+    },
+    "yaskawa-ga800-e15-fault-code": {
+      "topic": "Yaskawa GA800 E15 fault code",
+      "date": "2026-06-01"
+    },
+    "yaskawa-ga800-e16-fault-code": {
+      "topic": "Yaskawa GA800 E16 fault code",
+      "date": "2026-06-01"
+    },
+    "yaskawa-ga800-e17-fault-code": {
+      "topic": "Yaskawa GA800 E17 fault code",
+      "date": "2026-06-01"
+    },
+    "yaskawa-ga800-e18-fault-code": {
+      "topic": "Yaskawa GA800 E18 fault code",
+      "date": "2026-06-01"
+    },
+    "yaskawa-ga800-e19-fault-code": {
+      "topic": "Yaskawa GA800 E19 fault code",
+      "date": "2026-06-01"
+    },
+    "yaskawa-ga800-e20-fault-code": {
+      "topic": "Yaskawa GA800 E20 fault code",
+      "date": "2026-06-01"
+    },
+    "yaskawa-ga800-e21-fault-code": {
+      "topic": "Yaskawa GA800 E21 fault code",
+      "date": "2026-06-01"
+    },
+    "yaskawa-ga800-e22-fault-code": {
+      "topic": "Yaskawa GA800 E22 fault code",
+      "date": "2026-06-01"
+    },
+    "yaskawa-ga800-e23-fault-code": {
+      "topic": "Yaskawa GA800 E23 fault code",
+      "date": "2026-06-01"
+    },
+    "yaskawa-ga800-e24-fault-code": {
+      "topic": "Yaskawa GA800 E24 fault code",
+      "date": "2026-06-01"
+    },
+    "yaskawa-ga800-e25-fault-code": {
+      "topic": "Yaskawa GA800 E25 fault code",
+      "date": "2026-06-01"
+    },
+    "yaskawa-ga800-e26-fault-code": {
+      "topic": "Yaskawa GA800 E26 fault code",
+      "date": "2026-06-01"
+    },
+    "yaskawa-ga800-e27-fault-code": {
+      "topic": "Yaskawa GA800 E27 fault code",
+      "date": "2026-06-01"
+    },
+    "yaskawa-ga800-e28-fault-code": {
+      "topic": "Yaskawa GA800 E28 fault code",
+      "date": "2026-06-01"
     }
   }
 }

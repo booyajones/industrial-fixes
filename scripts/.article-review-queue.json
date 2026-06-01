@@ -64,5 +64,47 @@
     "score": 3,
     "reason": "Research explicitly states F01250 is NOT confirmed in manufacturer documentation; publishing unverified fault code content violates technical accuracy standards.",
     "date": "2026-05-29"
+  },
+  "yaskawa-ga800-e03-fault-code": {
+    "topic": "Yaskawa GA800 E03 fault code",
+    "score": 4,
+    "reason": "E03 is not a verified GA800 fault code per the research; the draft conflates unconfirmed 'E03' with documented 'EF3' without manufacturer evidence, failing the primary requirement that the code must be real and documented.",
+    "date": "2026-06-01"
+  },
+  "yaskawa-ga800-e08-fault-code": {
+    "topic": "Yaskawa GA800 E08 fault code",
+    "score": 4,
+    "reason": "Research explicitly states 'E08' is NOT documented in GA800 manual\u2014only 'EF8' exists; publishing unverified code label creates confusion and fails documentation requirement.",
+    "date": "2026-06-01"
+  },
+  "yaskawa-ga800-e11-fault-code": {
+    "topic": "Yaskawa GA800 E11 fault code",
+    "score": 3,
+    "reason": "E11 is not a documented GA800 fault code per the research; the draft correctly identifies this uncertainty but cannot meet the threshold for publication when the code's existence is unverified.",
+    "date": "2026-06-01"
+  },
+  "yaskawa-ga800-e19-fault-code": {
+    "topic": "Yaskawa GA800 E19 fault code",
+    "score": 3,
+    "reason": "Research explicitly states E19 cannot be verified from manufacturer documentation and exact meaning is unknown; draft speculates on causes/fixes without documented basis for this specific code.",
+    "date": "2026-06-01"
+  },
+  "yaskawa-ga800-e20-fault-code": {
+    "topic": "Yaskawa GA800 E20 fault code",
+    "score": 3,
+    "reason": "E20 is not a verified GA800 fault code per the research; publishing unverified codes creates confusion and liability even when the draft correctly acknowledges this gap.",
+    "date": "2026-06-01"
+  },
+  "yaskawa-ga800-e26-fault-code": {
+    "topic": "Yaskawa GA800 E26 fault code",
+    "score": 3,
+    "reason": "The research explicitly states E26 is NOT documented in GA800 manuals and cannot be verified as a real fault code for this equipment; publishing unverified codes risks technician confusion and wrong repairs.",
+    "date": "2026-06-01"
+  },
+  "yaskawa-ga800-e27-fault-code": {
+    "topic": "Yaskawa GA800 E27 fault code",
+    "score": 3,
+    "reason": "Research explicitly states E27 is NOT confirmed to exist in the provided GA800 documentation; publishing unverified fault codes violates technical accuracy standards.",
+    "date": "2026-06-01"
   }
 }

@@ -47,3 +47,10 @@ Alarm 23 on the Danfoss FC 302 drive signals an internal fan fault or warning. T
 ## When to Call a Pro
 
 Call a qualified technician or Danfoss service partner if you are not comfortable working inside the drive enclosure, if the fan and sensor both test good but the alarm persists, or if you suspect a control card fault. Drives operate at dangerous voltages and improper work can damage the unit or void warranties. A technician can trace the fan feedback circuit, verify control card operation, and safely replace internal components. If your drive is under warranty or part of a larger automated system, professional service is the safer choice to avoid unintended downtime or integration issues.
+
+## See Also
+
+- [Danfoss FC302 ALARM 26 - Causes & Fix](/posts/danfoss-fc302-alarm-26-fault-code/)
+- [Danfoss VFD Fault E-Trip — Causes & Fix](/posts/danfoss-vfd-fault-e-trip/)
+- [Danfoss FC-302 Alarm 13 — DC Link Overvoltage Fix](/posts/danfoss-fc302-alarm-13/)
+- [Danfoss FC302 Alarm 21 - Causes & Fix](/posts/danfoss-fc302-alarm-21-fault-code/)

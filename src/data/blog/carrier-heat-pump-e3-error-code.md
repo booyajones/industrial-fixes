@@ -48,3 +48,10 @@ Carrier uses the E3 code for different faults depending on your exact model and 
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with live voltage, if you cannot safely access the blower compartment, or if basic airflow and wiring checks do not clear the fault. Inverter heat pumps with IPM communication faults require specialized diagnostic tools and board-level troubleshooting that most homeowners do not have. If you have replaced the capacitor and sensor and the E3 persists, the motor or control board is likely failed and a professional can test and replace the correct component without misdiagnosing the root cause.
+
+## See Also
+
+- [Carrier 42 Error Code — Causes & Fix](/posts/carrier-42-error-code/)
+- [Carrier 23 Error Code — Draft Safeguard Switch Fault](/posts/carrier-23-error-code/)
+- [Carrier 46 Error Code — Check IFC: Board Self-Diagnosis Fault](/posts/carrier-46-error-code/)
+- [Carrier Rooftop Unit Error Codes: Common Faults Guide](/posts/carrier-rooftop-unit-error-codes/)

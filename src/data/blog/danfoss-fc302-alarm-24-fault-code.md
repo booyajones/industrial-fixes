@@ -49,3 +49,10 @@ In most cases, this alarm points to an external safety device or interlock in th
 ## When to Call a Pro
 
 Call a qualified electrician or controls technician if you are not trained in industrial safety systems, cannot locate the open safety device after inspection, or if the alarm returns with the external safety circuit confirmed closed and powered. Do not bypass or jumper safety interlocks. If the drive's safety input configuration or internal control board is suspect after all external checks pass, a factory-trained service provider should verify parameters and inspect the drive's safety interface hardware to avoid compromising machine safety certification.
+
+## See Also
+
+- [Danfoss VFD Fault UL — Causes & Fix](/posts/danfoss-vfd-fault-ul/)
+- [Danfoss FC302 ALARM 16 - Causes & Fix](/posts/danfoss-fc302-alarm-16-fault-code/)
+- [Danfoss FC302 Alarm 39 - Causes & Fix](/posts/danfoss-fc302-alarm-39-fault-code/)
+- [Danfoss FC302 Complete Fault Code Guide — All Faults and Fixes](/posts/danfoss-fc302-complete-guide/)

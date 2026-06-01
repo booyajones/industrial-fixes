@@ -48,3 +48,10 @@ Siemens identifies this as an application or technological function fault. The f
 ## When to Call a Pro
 
 Call a qualified technician or automation specialist if you cannot identify which measuring device is connected to the faulted input, if you are unfamiliar with reading drive parameters such as r0949, or if the fault returns after you have verified correct wiring and signal frequency. Also seek professional help if you need to modify the technological function parameters or if you suspect the control unit input stage is damaged, since incorrect parameterization can cause machine malfunction or safety hazards.
+
+## See Also
+
+- [Siemens Micromaster F0085 - Causes & Fix](/posts/siemens-micromaster-f0085-fault-code/)
+- [Siemens G120 F01105 - Causes & Fix](/posts/siemens-g120-f01105-fault-code/)
+- [Siemens G120 F30002 - Causes & Fix](/posts/siemens-g120-f30002-fault-code/)
+- [Siemens Micromaster F0221 - Causes & Fix](/posts/siemens-micromaster-f0221-fault-code/)

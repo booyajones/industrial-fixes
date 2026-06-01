@@ -48,3 +48,10 @@ The drive expects to see torque build up as the brake releases and the motor sta
 ## When to Call a Pro
 
 Call a qualified hoist technician or Danfoss-certified drive specialist if you cannot verify brake release, if the alarm persists after replacing the brake components, or if you are unfamiliar with hoist safety lockout and load-test procedures. Hoist applications involve fall hazards and require rigorous lockout-tagout discipline. A professional can also re-tune the drive's torque ramp and brake timing parameters to match your exact load profile and prevent nuisance trips.
+
+## See Also
+
+- [Danfoss FC302 ALARM 16 - Causes & Fix](/posts/danfoss-fc302-alarm-16-fault-code/)
+- [Danfoss FC302 Alarm 32 - Causes & Fix](/posts/danfoss-fc302-alarm-32-fault-code/)
+- [Danfoss VFD Fault W30 — Brake Resistor Overtemperature Fix](/posts/danfoss-vfd-fault-w30/)
+- [Danfoss FC-302 Alarm 13 — DC Link Overvoltage Fix](/posts/danfoss-fc302-alarm-13/)

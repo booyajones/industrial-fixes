@@ -48,3 +48,10 @@ Because E2 is model-dependent, always confirm the definition from your unit's ow
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with live voltage or interpreting multimeter readings on sensor circuits. A technician should always handle refrigerant-side diagnostics, control board replacement on units still under warranty, or any situation where the fault code definition is unclear and model-specific documentation is unavailable. If you have replaced the sensor and checked all wiring but the E2 code persists, a deeper electronic fault or misdiagnosis may be present and requires professional tools and experience.
+
+## See Also
+
+- [Carrier WeatherMaker Rooftop Unit Error Codes: Complete Guide](/posts/carrier-weatheramaker-error-codes/)
+- [Carrier vs Trane Furnaces — A Service Tech's Honest Comparison (2026)](/posts/carrier-vs-trane-furnaces/)
+- [Carrier Infinity Zoning System Error Codes — Complete Guide](/posts/carrier-infinity-zoning-error/)
+- [Carrier 45 Error Code — Causes & Fix](/posts/carrier-45-error-code/)
