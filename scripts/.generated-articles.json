@@ -1703,6 +1703,642 @@
     "navien-tankless-e001-error-code": {
       "topic": "Navien tankless E001 error code",
       "date": "2026-06-01"
+    },
+    "daikin-mini-split-e05-error-code": {
+      "topic": "Daikin mini split E05 error code",
+      "date": "2026-06-01"
+    },
+    "lennox-furnace-e204-error-code": {
+      "topic": "Lennox furnace E204 error code",
+      "date": "2026-06-01"
+    },
+    "lennox-furnace-e275-error-code": {
+      "topic": "Lennox furnace E275 error code",
+      "date": "2026-06-01"
+    },
+    "mitsubishi-mini-split-e3-error-code": {
+      "topic": "Mitsubishi mini split E3 error code",
+      "date": "2026-06-01"
+    },
+    "mitsubishi-mini-split-e7-error-code": {
+      "topic": "Mitsubishi mini split E7 error code",
+      "date": "2026-06-01"
+    },
+    "daikin-mini-split-a8-error-code": {
+      "topic": "Daikin mini split A8 error code",
+      "date": "2026-06-01"
+    },
+    "mitsubishi-mini-split-pl-error-code": {
+      "topic": "Mitsubishi mini split PL error code",
+      "date": "2026-06-01"
+    },
+    "lg-mini-split-ch09-error-code": {
+      "topic": "LG mini split CH09 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-06-error-code": {
+      "topic": "Fujitsu mini split E:06 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-13-error-code": {
+      "topic": "Fujitsu mini split E:13 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-23-error-code": {
+      "topic": "Fujitsu mini split E:23 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-27-error-code": {
+      "topic": "Fujitsu mini split E:27 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-38-error-code": {
+      "topic": "Fujitsu mini split E:38 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-40-error-code": {
+      "topic": "Fujitsu mini split E:40 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-52-error-code": {
+      "topic": "Fujitsu mini split E:52 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-48-error-code": {
+      "topic": "Fujitsu mini split E:48 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-58-error-code": {
+      "topic": "Fujitsu mini split E:58 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-60-error-code": {
+      "topic": "Fujitsu mini split E:60 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-62-error-code": {
+      "topic": "Fujitsu mini split E:62 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-65-error-code": {
+      "topic": "Fujitsu mini split E:65 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-88-error-code": {
+      "topic": "Fujitsu mini split E:88 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-81-error-code": {
+      "topic": "Fujitsu mini split E:81 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-70-error-code": {
+      "topic": "Fujitsu mini split E:70 error code",
+      "date": "2026-06-01"
+    },
+    "navien-tankless-e002-error-code": {
+      "topic": "Navien tankless E002 error code",
+      "date": "2026-06-01"
+    },
+    "navien-tankless-e004-error-code": {
+      "topic": "Navien tankless E004 error code",
+      "date": "2026-06-01"
+    },
+    "navien-tankless-e005-error-code": {
+      "topic": "Navien tankless E005 error code",
+      "date": "2026-06-01"
+    },
+    "navien-tankless-e006-error-code": {
+      "topic": "Navien tankless E006 error code",
+      "date": "2026-06-01"
+    },
+    "navien-tankless-e007-error-code": {
+      "topic": "Navien tankless E007 error code",
+      "date": "2026-06-01"
+    },
+    "navien-tankless-e008-error-code": {
+      "topic": "Navien tankless E008 error code",
+      "date": "2026-06-01"
+    },
+    "navien-tankless-e010-error-code": {
+      "topic": "Navien tankless E010 error code",
+      "date": "2026-06-01"
+    },
+    "navien-tankless-e011-error-code": {
+      "topic": "Navien tankless E011 error code",
+      "date": "2026-06-01"
+    },
+    "navien-tankless-e013-error-code": {
+      "topic": "Navien tankless E013 error code",
+      "date": "2026-06-01"
+    },
+    "navien-tankless-e016-error-code": {
+      "topic": "Navien tankless E016 error code",
+      "date": "2026-06-01"
+    },
+    "navien-tankless-e027-error-code": {
+      "topic": "Navien tankless E027 error code",
+      "date": "2026-06-01"
+    },
+    "navien-tankless-e021-error-code": {
+      "topic": "Navien tankless E021 error code",
+      "date": "2026-06-01"
+    },
+    "navien-tankless-e029-error-code": {
+      "topic": "Navien tankless E029 error code",
+      "date": "2026-06-01"
+    },
+    "navien-tankless-e038-error-code": {
+      "topic": "Navien tankless E038 error code",
+      "date": "2026-06-01"
+    },
+    "navien-tankless-e515-error-code": {
+      "topic": "Navien tankless E515 error code",
+      "date": "2026-06-01"
+    },
+    "navien-tankless-alarm-401-error-code": {
+      "topic": "Navien tankless Alarm 401 error code",
+      "date": "2026-06-01"
+    },
+    "navien-tankless-alarm-406-error-code": {
+      "topic": "Navien tankless Alarm 406 error code",
+      "date": "2026-06-01"
+    },
+    "navien-tankless-alarm-415-error-code": {
+      "topic": "Navien tankless Alarm 415 error code",
+      "date": "2026-06-01"
+    },
+    "noritz-tankless-f76-error-code": {
+      "topic": "Noritz tankless F76 error code",
+      "date": "2026-06-01"
+    },
+    "navien-tankless-alarm-438-error-code": {
+      "topic": "Navien tankless Alarm 438 error code",
+      "date": "2026-06-01"
+    },
+    "whirlpool-washer-f1e2-error-code": {
+      "topic": "Whirlpool washer F1E2 error code",
+      "date": "2026-06-01"
+    },
+    "whirlpool-washer-f1e1-error-code": {
+      "topic": "Whirlpool washer F1E1 error code",
+      "date": "2026-06-01"
+    },
+    "whirlpool-washer-f3e1-error-code": {
+      "topic": "Whirlpool washer F3E1 error code",
+      "date": "2026-06-01"
+    },
+    "whirlpool-washer-f2e1-error-code": {
+      "topic": "Whirlpool washer F2E1 error code",
+      "date": "2026-06-01"
+    },
+    "whirlpool-washer-hc-error-code": {
+      "topic": "Whirlpool washer HC error code",
+      "date": "2026-06-01"
+    },
+    "whirlpool-washer-f8e2-error-code": {
+      "topic": "Whirlpool washer F8E2 error code",
+      "date": "2026-06-01"
+    },
+    "whirlpool-washer-ldl-error-code": {
+      "topic": "Whirlpool washer LdL error code",
+      "date": "2026-06-01"
+    },
+    "whirlpool-washer-ldu-error-code": {
+      "topic": "Whirlpool washer LdU error code",
+      "date": "2026-06-01"
+    },
+    "whirlpool-washer-lid-error-code": {
+      "topic": "Whirlpool washer lid error code",
+      "date": "2026-06-01"
+    },
+    "whirlpool-washer-drn-error-code": {
+      "topic": "Whirlpool washer drn error code",
+      "date": "2026-06-01"
+    },
+    "whirlpool-washer-pf-error-code": {
+      "topic": "Whirlpool washer PF error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-ae-error-code": {
+      "topic": "Samsung washer AE error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-be1-error-code": {
+      "topic": "Samsung washer bE1 error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-be2-error-code": {
+      "topic": "Samsung washer bE2 error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-be3-error-code": {
+      "topic": "Samsung washer bE3 error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-be4-error-code": {
+      "topic": "Samsung washer bE4 error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-be6-error-code": {
+      "topic": "Samsung washer bE6 error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-be5-error-code": {
+      "topic": "Samsung washer bE5 error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-be8-error-code": {
+      "topic": "Samsung washer bE8 error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-be9-error-code": {
+      "topic": "Samsung washer bE9 error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-bc-error-code": {
+      "topic": "Samsung washer bC error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-be0-error-code": {
+      "topic": "Samsung washer bE0 error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-bc1-error-code": {
+      "topic": "Samsung washer bC1 error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-ce-error-code": {
+      "topic": "Samsung washer cE error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-de-error-code": {
+      "topic": "Samsung washer dE error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-dc1-error-code": {
+      "topic": "Samsung washer dC1 error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-de2-error-code": {
+      "topic": "Samsung washer dE2 error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-e2-error-code": {
+      "topic": "Samsung washer E2 error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-e3-error-code": {
+      "topic": "Samsung washer E3 error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-hc-error-code": {
+      "topic": "Samsung washer HC error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-he-error-code": {
+      "topic": "Samsung washer HE error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-he1-error-code": {
+      "topic": "Samsung washer HE1 error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-hr-error-code": {
+      "topic": "Samsung washer Hr error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-lc-error-code": {
+      "topic": "Samsung washer LC error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-le-error-code": {
+      "topic": "Samsung washer LE error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-lc1-error-code": {
+      "topic": "Samsung washer LC1 error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-nf-error-code": {
+      "topic": "Samsung washer nF error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-nf1-error-code": {
+      "topic": "Samsung washer nF1 error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-oe-error-code": {
+      "topic": "Samsung washer OE error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-of-error-code": {
+      "topic": "Samsung washer OF error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-tc-error-code": {
+      "topic": "Samsung washer tC error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-te-error-code": {
+      "topic": "Samsung washer tE error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-te1-error-code": {
+      "topic": "Samsung washer tE1 error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-te2-error-code": {
+      "topic": "Samsung washer tE2 error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-ub-error-code": {
+      "topic": "Samsung washer UB error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-uc-error-code": {
+      "topic": "Samsung washer UC error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-ue-error-code": {
+      "topic": "Samsung washer UE error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-sud-error-code": {
+      "topic": "Samsung washer Sud error code",
+      "date": "2026-06-01"
+    },
+    "lg-washer-de2-error-code": {
+      "topic": "LG washer dE2 error code",
+      "date": "2026-06-01"
+    },
+    "lg-washer-de1-error-code": {
+      "topic": "LG washer dE1 error code",
+      "date": "2026-06-01"
+    },
+    "lg-washer-ce-error-code": {
+      "topic": "LG washer CE error code",
+      "date": "2026-06-01"
+    },
+    "lg-washer-pe-error-code": {
+      "topic": "LG washer PE error code",
+      "date": "2026-06-01"
+    },
+    "lg-washer-pf-error-code": {
+      "topic": "LG washer PF error code",
+      "date": "2026-06-01"
+    },
+    "lg-washer-se-error-code": {
+      "topic": "LG washer SE error code",
+      "date": "2026-06-01"
+    },
+    "lg-washer-te-error-code": {
+      "topic": "LG washer tE error code",
+      "date": "2026-06-01"
+    },
+    "lg-washer-he-error-code": {
+      "topic": "LG washer HE error code",
+      "date": "2026-06-01"
+    },
+    "lg-washer-sud-error-code": {
+      "topic": "LG washer SUD error code",
+      "date": "2026-06-01"
+    },
+    "lg-washer-cd-error-code": {
+      "topic": "LG washer Cd error code",
+      "date": "2026-06-01"
+    },
+    "lg-washer-cl-error-code": {
+      "topic": "LG washer CL error code",
+      "date": "2026-06-01"
+    },
+    "lg-washer-ae-error-code": {
+      "topic": "LG washer AE error code",
+      "date": "2026-06-01"
+    },
+    "lg-washer-fe-error-code": {
+      "topic": "LG washer FE error code",
+      "date": "2026-06-01"
+    },
+    "lg-washer-ue-error-code": {
+      "topic": "LG washer UE error code",
+      "date": "2026-06-01"
+    },
+    "lg-washer-e03-error-code": {
+      "topic": "LG washer E03 error code",
+      "date": "2026-06-01"
+    },
+    "lg-washer-e21-error-code": {
+      "topic": "LG washer E21 error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-d1-error-code": {
+      "topic": "Maytag washer d1 error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-d3-error-code": {
+      "topic": "Maytag washer d3 error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-d5-error-code": {
+      "topic": "Maytag washer d5 error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-d7-error-code": {
+      "topic": "Maytag washer d7 error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-d8-error-code": {
+      "topic": "Maytag washer d8 error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-d9-error-code": {
+      "topic": "Maytag washer d9 error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-d13-error-code": {
+      "topic": "Maytag washer d13 error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-f07-error-code": {
+      "topic": "Maytag washer F07 error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-f11-error-code": {
+      "topic": "Maytag washer F11 error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-f20-error-code": {
+      "topic": "Maytag washer F20 error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-f22-error-code": {
+      "topic": "Maytag washer F22 error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-f25-error-code": {
+      "topic": "Maytag washer F25 error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-f24-error-code": {
+      "topic": "Maytag washer F24 error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-f29-error-code": {
+      "topic": "Maytag washer F29 error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-f27-error-code": {
+      "topic": "Maytag washer F27 error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-f32-error-code": {
+      "topic": "Maytag washer F32 error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-f33-error-code": {
+      "topic": "Maytag washer F33 error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-f34-error-code": {
+      "topic": "Maytag washer F34 error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-f70-error-code": {
+      "topic": "Maytag washer F70 error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-f71-error-code": {
+      "topic": "Maytag washer F71 error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-f73-error-code": {
+      "topic": "Maytag washer F73 error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-f77-error-code": {
+      "topic": "Maytag washer F77 error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-f74-error-code": {
+      "topic": "Maytag washer F74 error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-f7-e1-error-code": {
+      "topic": "Maytag washer F7 E1 error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-f8-e2-error-code": {
+      "topic": "Maytag washer F8 E2 error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-f8-e1-error-code": {
+      "topic": "Maytag washer F8 E1 error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-hc-error-code": {
+      "topic": "Maytag washer HC error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-ldl-error-code": {
+      "topic": "Maytag washer LdL error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-ldu-error-code": {
+      "topic": "Maytag washer LdU error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-drn-error-code": {
+      "topic": "Maytag washer drn error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-lc-error-code": {
+      "topic": "Maytag washer LC error code",
+      "date": "2026-06-01"
+    },
+    "frigidaire-washer-e1-error-code": {
+      "topic": "Frigidaire washer E1 error code",
+      "date": "2026-06-01"
+    },
+    "frigidaire-washer-e4-error-code": {
+      "topic": "Frigidaire washer E4 error code",
+      "date": "2026-06-01"
+    },
+    "frigidaire-washer-e11-error-code": {
+      "topic": "Frigidaire washer E11 error code",
+      "date": "2026-06-01"
+    },
+    "frigidaire-washer-e13-error-code": {
+      "topic": "Frigidaire washer E13 error code",
+      "date": "2026-06-01"
+    },
+    "frigidaire-washer-e14-error-code": {
+      "topic": "Frigidaire washer E14 error code",
+      "date": "2026-06-01"
+    },
+    "frigidaire-washer-e21-error-code": {
+      "topic": "Frigidaire washer E21 error code",
+      "date": "2026-06-01"
+    },
+    "frigidaire-washer-e23-error-code": {
+      "topic": "Frigidaire washer E23 error code",
+      "date": "2026-06-01"
+    },
+    "frigidaire-washer-e44-error-code": {
+      "topic": "Frigidaire washer E44 error code",
+      "date": "2026-06-01"
+    },
+    "frigidaire-washer-e45-error-code": {
+      "topic": "Frigidaire washer E45 error code",
+      "date": "2026-06-01"
+    },
+    "frigidaire-washer-e46-error-code": {
+      "topic": "Frigidaire washer E46 error code",
+      "date": "2026-06-01"
+    },
+    "frigidaire-washer-e47-error-code": {
+      "topic": "Frigidaire washer E47 error code",
+      "date": "2026-06-01"
+    },
+    "frigidaire-washer-e95-error-code": {
+      "topic": "Frigidaire washer E95 error code",
+      "date": "2026-06-01"
+    },
+    "frigidaire-washer-eb1-error-code": {
+      "topic": "Frigidaire washer EB1 error code",
+      "date": "2026-06-01"
+    },
+    "frigidaire-washer-ef2-error-code": {
+      "topic": "Frigidaire washer EF2 error code",
+      "date": "2026-06-01"
+    },
+    "kenmore-washer-f0-e2-error-code": {
+      "topic": "Kenmore washer F0 E2 error code",
+      "date": "2026-06-01"
+    },
+    "kenmore-washer-f0-e4-error-code": {
+      "topic": "Kenmore washer F0 E4 error code",
+      "date": "2026-06-01"
+    },
+    "kenmore-washer-f1-e1-error-code": {
+      "topic": "Kenmore washer F1 E1 error code",
+      "date": "2026-06-01"
+    },
+    "kenmore-washer-f9-e1-error-code": {
+      "topic": "Kenmore washer F9 E1 error code",
+      "date": "2026-06-01"
+    },
+    "kenmore-washer-e14-error-code": {
+      "topic": "Kenmore washer E14 error code",
+      "date": "2026-06-01"
+    },
+    "electrolux-washer-e10-error-code": {
+      "topic": "Electrolux washer E10 error code",
+      "date": "2026-06-01"
+    },
+    "kenmore-washer-e24-error-code": {
+      "topic": "Kenmore washer E24 error code",
+      "date": "2026-06-01"
     }
   }
 }
