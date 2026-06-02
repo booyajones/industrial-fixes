@@ -1207,6 +1207,502 @@
     "bradford-white-gas-water-heater-3-flashes-error-code": {
       "topic": "Bradford White gas water heater 3 flashes error code",
       "date": "2026-06-01"
+    },
+    "lennox-furnace-e117-error-code": {
+      "topic": "Lennox furnace E117 error code",
+      "date": "2026-06-01"
+    },
+    "lennox-furnace-e125-error-code": {
+      "topic": "Lennox furnace E125 error code",
+      "date": "2026-06-01"
+    },
+    "lennox-furnace-e205-error-code": {
+      "topic": "Lennox furnace E205 error code",
+      "date": "2026-06-01"
+    },
+    "lennox-furnace-e206-error-code": {
+      "topic": "Lennox furnace E206 error code",
+      "date": "2026-06-01"
+    },
+    "lennox-furnace-e270-error-code": {
+      "topic": "Lennox furnace E270 error code",
+      "date": "2026-06-01"
+    },
+    "lennox-furnace-e241-error-code": {
+      "topic": "Lennox furnace E241 error code",
+      "date": "2026-06-01"
+    },
+    "lennox-furnace-e290-error-code": {
+      "topic": "Lennox furnace E290 error code",
+      "date": "2026-06-01"
+    },
+    "daikin-mini-split-e04-error-code": {
+      "topic": "Daikin mini split E04 error code",
+      "date": "2026-06-01"
+    },
+    "daikin-mini-split-a1-error-code": {
+      "topic": "Daikin mini split A1 error code",
+      "date": "2026-06-01"
+    },
+    "daikin-mini-split-a5-error-code": {
+      "topic": "Daikin mini split A5 error code",
+      "date": "2026-06-01"
+    },
+    "daikin-mini-split-a6-error-code": {
+      "topic": "Daikin mini split A6 error code",
+      "date": "2026-06-01"
+    },
+    "daikin-mini-split-a7-error-code": {
+      "topic": "Daikin mini split A7 error code",
+      "date": "2026-06-01"
+    },
+    "daikin-mini-split-a9-error-code": {
+      "topic": "Daikin mini split A9 error code",
+      "date": "2026-06-01"
+    },
+    "daikin-mini-split-c4-error-code": {
+      "topic": "Daikin mini split C4 error code",
+      "date": "2026-06-01"
+    },
+    "mitsubishi-mini-split-e0-error-code": {
+      "topic": "Mitsubishi mini split E0 error code",
+      "date": "2026-06-01"
+    },
+    "mitsubishi-mini-split-e2-error-code": {
+      "topic": "Mitsubishi mini split E2 error code",
+      "date": "2026-06-01"
+    },
+    "mitsubishi-mini-split-e5-error-code": {
+      "topic": "Mitsubishi mini split E5 error code",
+      "date": "2026-06-01"
+    },
+    "mitsubishi-mini-split-e4-error-code": {
+      "topic": "Mitsubishi mini split E4 error code",
+      "date": "2026-06-01"
+    },
+    "mitsubishi-mini-split-p1-error-code": {
+      "topic": "Mitsubishi mini split P1 error code",
+      "date": "2026-06-01"
+    },
+    "mitsubishi-mini-split-p2-error-code": {
+      "topic": "Mitsubishi mini split P2 error code",
+      "date": "2026-06-01"
+    },
+    "mitsubishi-mini-split-p4-error-code": {
+      "topic": "Mitsubishi mini split P4 error code",
+      "date": "2026-06-01"
+    },
+    "mitsubishi-mini-split-p6-error-code": {
+      "topic": "Mitsubishi mini split P6 error code",
+      "date": "2026-06-01"
+    },
+    "mitsubishi-mini-split-p9-error-code": {
+      "topic": "Mitsubishi mini split P9 error code",
+      "date": "2026-06-01"
+    },
+    "mitsubishi-mini-split-pa-error-code": {
+      "topic": "Mitsubishi mini split PA error code",
+      "date": "2026-06-01"
+    },
+    "mitsubishi-mini-split-pb-error-code": {
+      "topic": "Mitsubishi mini split PB error code",
+      "date": "2026-06-01"
+    },
+    "mitsubishi-mini-split-fb-error-code": {
+      "topic": "Mitsubishi mini split Fb error code",
+      "date": "2026-06-01"
+    },
+    "mitsubishi-mini-split-ee-error-code": {
+      "topic": "Mitsubishi mini split EE error code",
+      "date": "2026-06-01"
+    },
+    "lg-mini-split-ch03-error-code": {
+      "topic": "LG mini split CH03 error code",
+      "date": "2026-06-01"
+    },
+    "lg-mini-split-ch04-error-code": {
+      "topic": "LG mini split CH04 error code",
+      "date": "2026-06-01"
+    },
+    "lg-mini-split-ch06-error-code": {
+      "topic": "LG mini split CH06 error code",
+      "date": "2026-06-01"
+    },
+    "lg-mini-split-ch07-error-code": {
+      "topic": "LG mini split CH07 error code",
+      "date": "2026-06-01"
+    },
+    "lg-mini-split-ch23-error-code": {
+      "topic": "LG mini split CH23 error code",
+      "date": "2026-06-01"
+    },
+    "lg-mini-split-ch24-error-code": {
+      "topic": "LG mini split CH24 error code",
+      "date": "2026-06-01"
+    },
+    "lg-mini-split-ch27-error-code": {
+      "topic": "LG mini split CH27 error code",
+      "date": "2026-06-01"
+    },
+    "lg-mini-split-ch29-error-code": {
+      "topic": "LG mini split CH29 error code",
+      "date": "2026-06-01"
+    },
+    "lg-mini-split-ch32-error-code": {
+      "topic": "LG mini split CH32 error code",
+      "date": "2026-06-01"
+    },
+    "lg-mini-split-ch33-error-code": {
+      "topic": "LG mini split CH33 error code",
+      "date": "2026-06-01"
+    },
+    "lg-mini-split-ch35-error-code": {
+      "topic": "LG mini split CH35 error code",
+      "date": "2026-06-01"
+    },
+    "lg-mini-split-ch40-error-code": {
+      "topic": "LG mini split CH40 error code",
+      "date": "2026-06-01"
+    },
+    "lg-mini-split-ch41-error-code": {
+      "topic": "LG mini split CH41 error code",
+      "date": "2026-06-01"
+    },
+    "lg-mini-split-ch44-error-code": {
+      "topic": "LG mini split CH44 error code",
+      "date": "2026-06-01"
+    },
+    "lg-mini-split-ch45-error-code": {
+      "topic": "LG mini split CH45 error code",
+      "date": "2026-06-01"
+    },
+    "lg-mini-split-ch46-error-code": {
+      "topic": "LG mini split CH46 error code",
+      "date": "2026-06-01"
+    },
+    "lg-mini-split-ch47-error-code": {
+      "topic": "LG mini split CH47 error code",
+      "date": "2026-06-01"
+    },
+    "lg-mini-split-ch53-error-code": {
+      "topic": "LG mini split CH53 error code",
+      "date": "2026-06-01"
+    },
+    "lg-mini-split-ch60-error-code": {
+      "topic": "LG mini split CH60 error code",
+      "date": "2026-06-01"
+    },
+    "lg-mini-split-ch61-error-code": {
+      "topic": "LG mini split CH61 error code",
+      "date": "2026-06-01"
+    },
+    "lg-mini-split-ch90-error-code": {
+      "topic": "LG mini split CH90 error code",
+      "date": "2026-06-01"
+    },
+    "lg-mini-split-ch74-error-code": {
+      "topic": "LG mini split CH74 error code",
+      "date": "2026-06-01"
+    },
+    "lg-mini-split-ch66-error-code": {
+      "topic": "LG mini split CH66 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-01-error-code": {
+      "topic": "Fujitsu mini split E:01 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-02-error-code": {
+      "topic": "Fujitsu mini split E:02 error code",
+      "date": "2026-06-01"
+    },
+    "lg-mini-split-ch93-error-code": {
+      "topic": "LG mini split CH93 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-03-error-code": {
+      "topic": "Fujitsu mini split E:03 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-04-error-code": {
+      "topic": "Fujitsu mini split E:04 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-05-error-code": {
+      "topic": "Fujitsu mini split E:05 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-07-error-code": {
+      "topic": "Fujitsu mini split E:07 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-09-error-code": {
+      "topic": "Fujitsu mini split E:09 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-08-error-code": {
+      "topic": "Fujitsu mini split E:08 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-10-error-code": {
+      "topic": "Fujitsu mini split E:10 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-11-error-code": {
+      "topic": "Fujitsu mini split E:11 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-12-error-code": {
+      "topic": "Fujitsu mini split E:12 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-15-error-code": {
+      "topic": "Fujitsu mini split E:15 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-16-error-code": {
+      "topic": "Fujitsu mini split E:16 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-14-error-code": {
+      "topic": "Fujitsu mini split E:14 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-17-error-code": {
+      "topic": "Fujitsu mini split E:17 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-19-error-code": {
+      "topic": "Fujitsu mini split E:19 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-20-error-code": {
+      "topic": "Fujitsu mini split E:20 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-18-error-code": {
+      "topic": "Fujitsu mini split E:18 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-21-error-code": {
+      "topic": "Fujitsu mini split E:21 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-22-error-code": {
+      "topic": "Fujitsu mini split E:22 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-24-error-code": {
+      "topic": "Fujitsu mini split E:24 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-25-error-code": {
+      "topic": "Fujitsu mini split E:25 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-26-error-code": {
+      "topic": "Fujitsu mini split E:26 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-28-error-code": {
+      "topic": "Fujitsu mini split E:28 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-32-error-code": {
+      "topic": "Fujitsu mini split E:32 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-31-error-code": {
+      "topic": "Fujitsu mini split E:31 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-30-error-code": {
+      "topic": "Fujitsu mini split E:30 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-33-error-code": {
+      "topic": "Fujitsu mini split E:33 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-34-error-code": {
+      "topic": "Fujitsu mini split E:34 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-35-error-code": {
+      "topic": "Fujitsu mini split E:35 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-37-error-code": {
+      "topic": "Fujitsu mini split E:37 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-36-error-code": {
+      "topic": "Fujitsu mini split E:36 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-39-error-code": {
+      "topic": "Fujitsu mini split E:39 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-41-error-code": {
+      "topic": "Fujitsu mini split E:41 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-43-error-code": {
+      "topic": "Fujitsu mini split E:43 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-42-error-code": {
+      "topic": "Fujitsu mini split E:42 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-45-error-code": {
+      "topic": "Fujitsu mini split E:45 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-46-error-code": {
+      "topic": "Fujitsu mini split E:46 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-47-error-code": {
+      "topic": "Fujitsu mini split E:47 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-49-error-code": {
+      "topic": "Fujitsu mini split E:49 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-50-error-code": {
+      "topic": "Fujitsu mini split E:50 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-51-error-code": {
+      "topic": "Fujitsu mini split E:51 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-53-error-code": {
+      "topic": "Fujitsu mini split E:53 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-54-error-code": {
+      "topic": "Fujitsu mini split E:54 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-55-error-code": {
+      "topic": "Fujitsu mini split E:55 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-56-error-code": {
+      "topic": "Fujitsu mini split E:56 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-57-error-code": {
+      "topic": "Fujitsu mini split E:57 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-59-error-code": {
+      "topic": "Fujitsu mini split E:59 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-61-error-code": {
+      "topic": "Fujitsu mini split E:61 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-64-error-code": {
+      "topic": "Fujitsu mini split E:64 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-66-error-code": {
+      "topic": "Fujitsu mini split E:66 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-67-error-code": {
+      "topic": "Fujitsu mini split E:67 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-68-error-code": {
+      "topic": "Fujitsu mini split E:68 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-69-error-code": {
+      "topic": "Fujitsu mini split E:69 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-71-error-code": {
+      "topic": "Fujitsu mini split E:71 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-72-error-code": {
+      "topic": "Fujitsu mini split E:72 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-73-error-code": {
+      "topic": "Fujitsu mini split E:73 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-74-error-code": {
+      "topic": "Fujitsu mini split E:74 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-75-error-code": {
+      "topic": "Fujitsu mini split E:75 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-76-error-code": {
+      "topic": "Fujitsu mini split E:76 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-77-error-code": {
+      "topic": "Fujitsu mini split E:77 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-78-error-code": {
+      "topic": "Fujitsu mini split E:78 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-80-error-code": {
+      "topic": "Fujitsu mini split E:80 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-79-error-code": {
+      "topic": "Fujitsu mini split E:79 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-82-error-code": {
+      "topic": "Fujitsu mini split E:82 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-83-error-code": {
+      "topic": "Fujitsu mini split E:83 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-84-error-code": {
+      "topic": "Fujitsu mini split E:84 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-85-error-code": {
+      "topic": "Fujitsu mini split E:85 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-87-error-code": {
+      "topic": "Fujitsu mini split E:87 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-86-error-code": {
+      "topic": "Fujitsu mini split E:86 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-89-error-code": {
+      "topic": "Fujitsu mini split E:89 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-90-error-code": {
+      "topic": "Fujitsu mini split E:90 error code",
+      "date": "2026-06-01"
+    },
+    "navien-tankless-e001-error-code": {
+      "topic": "Navien tankless E001 error code",
+      "date": "2026-06-01"
     }
   }
 }
