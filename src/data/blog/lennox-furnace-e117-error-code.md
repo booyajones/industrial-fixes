@@ -46,3 +46,10 @@ E117 on a Lennox furnace indicates a poor ground has been detected by the integr
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are uncomfortable working with 120-volt AC line power, if you cannot confirm voltage readings at the integrated control, or if the fault persists after verifying grounding and harness connections. Ground and neutral faults can create safety hazards and require proper diagnostic equipment and knowledge of electrical codes. A technician will measure voltages, inspect all connections under power, and determine whether the control board or harness requires replacement.
+
+## See Also
+
+- [Lennox Error Code 434 — Outdoor Unit Communication Fault](/posts/lennox-error-code-434/)
+- [Lennox 204 Error Code — Causes & Fix](/posts/lennox-error-code-204/)
+- [Lennox E270 Error Code - Causes & Fix](/posts/lennox-furnace-e270-error-code/)
+- [Lennox Error Code 292 — Ignition Failure Fix](/posts/lennox-292-error-code/)

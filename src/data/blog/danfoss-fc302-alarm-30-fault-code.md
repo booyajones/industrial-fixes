@@ -46,3 +46,10 @@ ALARM 30 on a Danfoss VLT AutomationDrive FC 302 indicates a missing motor phase
 ## When to Call a Pro
 
 Call a qualified technician or certified Danfoss service partner if you are not trained in high-voltage AC wiring, if you cannot safely isolate and test the drive and motor, or if your tests point to a failed inverter power module inside the drive. Replacing internal drive components requires experience with VFD electronics and proper ESD handling. If the fault persists after wiring and motor checks, or if multiple phase alarms appear together, professional diagnosis will save time and prevent further damage to the drive or motor.
+
+## See Also
+
+- [Danfoss FC302 ALARM 36 - Causes & Fix](/posts/danfoss-fc302-alarm-36-fault-code/)
+- [Danfoss FC302 ALARM 37 - Causes & Fix](/posts/danfoss-fc302-alarm-37-fault-code/)
+- [Danfoss FC302 ALARM 27 - Causes & Fix](/posts/danfoss-fc302-alarm-27-fault-code/)
+- [Danfoss FC302 Alarm 34 - Causes & Fix](/posts/danfoss-fc302-alarm-34-fault-code/)

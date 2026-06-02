@@ -48,3 +48,10 @@ Yaskawa's standard troubleshooting flow for GA800 faults requires you to remove 
 ## When to Call a Pro
 
 Call a qualified drive technician or contact Yaskawa support if the fault persists after you have cleared mechanical overloads, adjusted acceleration settings, re-run auto-tuning, and verified all wiring. If you cannot confirm the exact meaning of E11 from your printed GA800 manual or the drive continues to trip immediately after reset with no load connected, the issue may require factory diagnostics or board-level repair that is beyond typical field service. Do not attempt control-board replacement unless you have verified part numbers and are trained on high-voltage DC bus safety procedures.
+
+## See Also
+
+- [Yaskawa A1000 Fault UV1, DC Bus Undervoltage Causes & Fix](/posts/yaskawa-a1000-fault-uv1/)
+- [Yaskawa GA800 E08 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e08-fault-code/)
+- [Yaskawa U1000 Fault Codes: Complete Guide](/posts/yaskawa-u1000-fault-codes/)
+- [Yaskawa GA800 oC Fault — Overcurrent Fix](/posts/yaskawa-ga800-error-oc/)

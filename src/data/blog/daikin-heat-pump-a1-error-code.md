@@ -48,3 +48,10 @@ In most cases, A1 points to a hardware failure within the indoor control board i
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with live electrical components, if you cannot safely access the indoor unit control board, or if the fault returns after a power cycle. PCB replacement requires handling sensitive electronics, matching the correct part number to your model, and verifying proper system operation afterward. A qualified technician has the tools to test incoming power quality, inspect for hidden moisture or wiring damage, and make sure the new board is installed and configured correctly. If your unit is under warranty, professional installation of the replacement PCB is often required to maintain coverage.
+
+## See Also
+
+- [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
+- [Daikin E04 Error Code - Causes & Fix](/posts/daikin-mini-split-e04-error-code/)
+- [Daikin C9 Error Code — Compressor Discharge Temperature Sensor Fault](/posts/daikin-c9-error-code/)
+- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)

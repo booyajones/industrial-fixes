@@ -47,3 +47,10 @@ The B0 error code is not a standard Goodman heat pump fault across all models. O
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you cannot access the control menu, if the blower delay setting is already at or below 5 seconds and the code persists, or if you measure incorrect or missing 24-volt control power. Configuration faults on communicating and inverter heat pumps often require manufacturer-specific diagnostic software and proper pairing of indoor and outdoor modules. A technician can verify the control board matches the installed equipment, check for corrupted firmware, and safely replace the board or communicating module if needed.
+
+## See Also
+
+- [Goodman Heat Pump E7 Error Code - Causes & Fix](/posts/goodman-heat-pump-e7-error-code/)
+- [Goodman Furnace 4 Flashes - Causes & Fix](/posts/goodman-furnace-4-flashes-error-code/)
+- [Goodman Furnace 5 Flash Error Code — Causes & Fix](/posts/goodman-furnace-5-flash-error-code/)
+- [Goodman E8 Error Code - Causes & Fix](/posts/goodman-heat-pump-e8-error-code/)

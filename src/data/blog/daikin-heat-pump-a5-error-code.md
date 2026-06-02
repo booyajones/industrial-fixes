@@ -50,3 +50,10 @@ This is not a component-failure code but a condition alarm. The system has detec
 ## When to Call a Pro
 
 Call a licensed HVAC technician if the A5 code returns after you have cleaned the filter and coil and confirmed the fan is running, or if you see multiple fault codes (A6, C4, C9) displayed at the same time. Thermistor testing and refrigerant-circuit diagnosis require a multimeter, service manual resistance tables, and manifold gauges. Any refrigerant work must be performed by an EPA-certified technician. If the indoor fan does not run at all or the PCB shows no output voltage to the fan, the repair involves live AC voltage and should be handled by a qualified service provider.
+
+## See Also
+
+- [Daikin J3 Error Code — Discharge Pipe Temperature Sensor Fault Fix](/posts/daikin-j3-error-code/)
+- [Daikin H9 Error Code - Causes & Fix](/posts/daikin-heat-pump-h9-error-code/)
+- [Daikin E5 Error Code - Causes & Fix](/posts/daikin-e5-error-code/)
+- [Daikin C4 Error Code — Indoor Heat Exchanger Thermistor Fix](/posts/daikin-error-code-c4/)

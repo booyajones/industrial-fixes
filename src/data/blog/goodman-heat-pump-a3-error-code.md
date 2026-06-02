@@ -47,3 +47,10 @@ The A3 code on a Goodman heat pump indicates a temperature sensor circuit proble
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you do not have a multimeter or are uncomfortable working inside live electrical panels. If the sensor and wiring both test in range but the code returns after replacement, the control board likely needs diagnosis under power, which requires refrigerant and electrical expertise. Professionals also carry model-specific fault charts and thermistor resistance tables that are not always published online.
+
+## See Also
+
+- [Goodman Furnace 5 Flash Error Code — Causes & Fix](/posts/goodman-furnace-5-flash-error-code/)
+- [Amana / Goodman Furnace 3 Flash Error Code — Causes & Fix](/posts/goodman-amana-furnace-3-flash/)
+- [Goodman 8 Flash Error Code — Causes & Fix](/posts/goodman-8-flash-error-code/)
+- [Goodman E0 Error Code - Causes & Fix](/posts/goodman-heat-pump-e0-error-code/)

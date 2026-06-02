@@ -50,3 +50,10 @@ This is not a flame sensor problem, despite some generic furnace articles claimi
 ## When to Call a Pro
 
 Call a qualified HVAC technician if the 4-flash code returns after you replace the filter and verify all vents are open, if you see any signs of rust or soot in the burner compartment, if you suspect a cracked heat exchanger, or if you are uncomfortable working with gas appliances and electrical diagnostics. Trane's own guidance advises homeowners to call for service when red blinking lights indicate a fault rather than attempt repairs themselves. Repeated limit trips with no obvious airflow restriction can indicate serious safety issues like rollout or exchanger failure that require immediate professional evaluation and combustion analysis.
+
+## See Also
+
+- [Trane XV20i/XV18 Variable Speed Heat Pump Error Codes](/posts/trane-variable-speed-heat-pump-codes/)
+- [Trane 7 Flashes Error Code — Gas Valve Circuit Fault Fix](/posts/trane-7-flashes-error-code/)
+- [Trane XV20i Error Code 79: Communicating Thermostat Fault Fix](/posts/trane-error-79-xv20i/)
+- [Trane XV20i Error Code 79 — Causes & Fix](/posts/trane-error-code-79/)

@@ -50,3 +50,10 @@ This code protects against incomplete combustion and carbon monoxide risk. The m
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you have cleared all vents and drains, tested the pressure switch tubing, and the code persists. Diagnosing weak draft, measuring actual switch actuation pressure with a manometer, and testing for a cracked heat exchanger require professional tools and training. Also call a pro if you are uncomfortable working with gas appliances, electrical components, or disassembling the inducer and vent system. If the furnace is under warranty, professional documentation of the fault will be required for any covered parts.
+
+## See Also
+
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier 42 Error Code — Causes & Fix](/posts/carrier-42-error-code/)
+- [Carrier Infinity 24VNA6 Heat Pump Error Codes - Greenspeed Fault Reference](/posts/carrier-24vna6-error-codes/)
+- [Carrier Error Code 58 — Causes & Fix](/posts/carrier-58-error-code/)

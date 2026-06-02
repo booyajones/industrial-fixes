@@ -49,3 +49,10 @@ This fault can stem from a genuinely failed pressure switch that will not open e
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are uncomfortable working with gas appliances, cannot safely access the pressure switch and tubing, or do not own a manometer to measure draft pressure. A technician should also diagnose the fault if you have replaced the pressure switch and tubing but the 2-flash code returns, because the root cause may be a control-board fault, complex venting issue, or gas-valve problem that requires specialized tools and training. Any work involving gas connections, flue venting, or control-board replacement is best left to a qualified professional to protect your safety and warranty.
+
+## See Also
+
+- [Goodman Furnace E3 Error Code — Draft Motor Fault](/posts/goodman-furnace-e3-error-code/)
+- [Goodman E4 Error Code - Causes & Fix](/posts/goodman-heat-pump-e4-error-code/)
+- [Goodman vs Bryant Furnaces — A Service Tech's Honest Comparison (2026)](/posts/goodman-vs-bryant-furnaces/)
+- [Goodman GMSS96 Furnace Error Codes — Flash Code Diagnostic Guide](/posts/goodman-gmss96-error-codes/)

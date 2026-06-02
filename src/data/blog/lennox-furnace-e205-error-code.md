@@ -47,3 +47,10 @@ In practical terms, the fault sits in the electrical pathway between the board a
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with 120 V furnace wiring or if you cannot identify obvious wiring damage. E205 involves both live control circuits and the gas valve circuit, so misdiagnosis or improper repair can create a safety hazard. A technician has the meters and Lennox service literature to trace relay outputs, confirm proper voltage at the gas valve, and install the correct OEM control board for your furnace model. If the fault persists after a control replacement, the technician can also check for rare issues such as a gas valve coil drawing excessive current or a grounding fault elsewhere in the unit.
+
+## See Also
+
+- [Lennox Error Code 434 — Outdoor Unit Communication Fault](/posts/lennox-error-code-434/)
+- [Lennox E241 Error Code - Causes & Fix](/posts/lennox-furnace-e241-error-code/)
+- [Lennox Error Code 414 Rollout — Causes & Fix](/posts/lennox-error-code-414-rollout/)
+- [Lennox XC21 Error Codes — Diagnostic Guide and Fixes](/posts/lennox-xc21-error-codes/)

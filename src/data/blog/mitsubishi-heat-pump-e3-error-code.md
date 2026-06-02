@@ -46,3 +46,10 @@ On Mitsubishi Electric heat pumps, the E3 error code indicates a remote controll
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you have replaced the controller and the error persists, if you are uncomfortable working with low-voltage control circuits and PCBs, or if you cannot locate wiring faults. Technicians have model-specific service manuals, manufacturer diagnostic tools, and access to genuine Mitsubishi replacement boards. Because E3 is a communication error and not a refrigerant or compressor fault, most repairs involve electrical troubleshooting rather than refrigerant handling, but board-level diagnostics still require training and multimeter skills.
+
+## See Also
+
+- [Mitsubishi AL-29 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-al-29-error-code/)
+- [Mitsubishi PUY Air Handler Error Codes — Fault Code Diagnostic Guide](/posts/mitsubishi-puy-error-codes/)
+- [Mitsubishi P8 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-p8-error-code/)
+- [Mitsubishi U3 Error Code — Causes & Fix](/posts/mitsubishi-u3-error-code/)

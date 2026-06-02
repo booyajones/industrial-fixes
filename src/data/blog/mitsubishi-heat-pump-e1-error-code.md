@@ -48,3 +48,10 @@ The E1 error code on Mitsubishi Electric heat pumps is a control board or commun
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you are not comfortable working with low-voltage control circuits, if the fault persists after you have checked wiring and power cycled the system, or if you need to test communication signals with a multimeter and interpret the results against service-manual specs. Board-level diagnosis and replacement requires matching exact part numbers and understanding the communication protocol, and mistakes can damage expensive components or void your warranty.
+
+## See Also
+
+- [Mitsubishi E3 Error Code — Indoor Fan Motor Fault Fix](/posts/mitsubishi-e3-error-code/)
+- [Mitsubishi Mini-Split P6 Error - Causes & Fix](/posts/mitsubishi-mini-split-p6-error-code/)
+- [Mitsubishi PUY Air Handler Error Codes — Fault Code Diagnostic Guide](/posts/mitsubishi-puy-error-codes/)
+- [Mitsubishi U2 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-u2-error-code/)

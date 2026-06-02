@@ -45,3 +45,10 @@ ALARM 28 on the Danfoss FC302 drive indicates a brake check failure. The drive's
 ## When to Call a Pro
 
 Call a qualified drive technician if the alarm persists after you have verified the brake resistor is installed, wired correctly, and tests good electrically. A continuing ALARM 28 after external components are confirmed suggests an internal drive fault in the brake chopper or monitoring circuit, which requires factory-trained service and may involve power section replacement. Also call a professional if you are not comfortable working with high-voltage DC bus circuits or if your facility does not have lockout procedures for VFD service.
+
+## See Also
+
+- [Danfoss FC301 Fault AL 14 — Ground Fault Causes & Fix](/posts/danfoss-fc301-fault-al-14/)
+- [Danfoss FC302 ALARM 33 - Causes & Fix](/posts/danfoss-fc302-alarm-33-fault-code/)
+- [Danfoss FC302 Alarm 39 - Causes & Fix](/posts/danfoss-fc302-alarm-39-fault-code/)
+- [Danfoss FC-302 Alarm 13 — DC Link Overvoltage Fix](/posts/danfoss-fc302-alarm-13/)

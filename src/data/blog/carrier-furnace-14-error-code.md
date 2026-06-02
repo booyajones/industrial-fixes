@@ -49,3 +49,10 @@ Error code 14 on a Carrier furnace indicates ignition lockout. The control board
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you are uncomfortable working with gas connections, high-voltage ignition circuits, or venting components. A technician should also diagnose the problem if you have confirmed the igniter glows, the flame sensor is clean, venting is clear, and gas pressure is correct but the furnace still locks out. Grounding issues and control-board logic faults require metering skills and schematic knowledge that go beyond typical homeowner tools. Any time you smell gas or suspect a gas leak, leave the building immediately and call your gas utility or a licensed service provider.
+
+## See Also
+
+- [Carrier Infinity Zoning System Error Codes — Complete Guide](/posts/carrier-infinity-zoning-error/)
+- [Carrier Furnace Error Code 13 - Causes & Fix](/posts/carrier-furnace-13-error-code/)
+- [Carrier E13 Error Code - Causes & Fix](/posts/carrier-heat-pump-e13-error-code/)
+- [Carrier Furnace Error Code 31 — Pressure Switch Open Fix](/posts/carrier-error-code-31/)

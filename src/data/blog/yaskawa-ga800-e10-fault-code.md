@@ -48,3 +48,10 @@ Yaskawa's troubleshooting flow is straightforward: identify and remove the cause
 ## When to Call a Pro
 
 Call a qualified technician or Yaskawa authorized service provider if you do not have a spare keypad or cable to swap for diagnosis, if the fault persists after verifying good connections and swapping the operator, or if you are uncomfortable working inside the drive enclosure. Control board replacement requires proper handling of static-sensitive components and matching the correct board revision to your drive model and serial number. Always have your drive's model, spec number, serial number, and fault code ready when opening a service case.
+
+## See Also
+
+- [Yaskawa GA800 E21 Fault - Causes & Fix](/posts/yaskawa-ga800-e21-fault-code/)
+- [Yaskawa VFD Fault ER — Causes & Fix](/posts/yaskawa-vfd-fault-er/)
+- [Yaskawa VFD Fault PF — Causes & Fix](/posts/yaskawa-vfd-fault-pf/)
+- [Yaskawa V1000 Complete Fault Code Guide — All Faults and Fixes](/posts/yaskawa-v1000-complete-guide/)

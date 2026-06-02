@@ -48,3 +48,10 @@ This fault is part of the Safety Integrated architecture and points to a problem
 ## When to Call a Pro
 
 Call a qualified technician or Siemens service if you cannot identify the fault value in r0949, if F01611 reappears after clearing, or if you are unfamiliar with Safety Integrated commissioning and diagnostics. Safety-related faults require knowledge of functional safety standards and the specific safety configuration of your system. Do not bypass or disable safety functions to clear this fault. If the safety chain is complex or involves a safety PLC or third-party safety controller, bring in a controls specialist to trace the stop signal and verify compliance with your safety design.
+
+## See Also
+
+- [Siemens VFD Fault Codes — SINAMICS G120, V20, S120 Guide](/posts/siemens-vfd-fault-codes/)
+- [Siemens G120 F01650 - Causes & Fix](/posts/siemens-g120-f01650-fault-code/)
+- [Siemens G120 F01033 - Causes & Fix](/posts/siemens-g120-f01033-fault-code/)
+- [Siemens SINAMICS G120 F30011 Fault — Phase Loss Fix](/posts/siemens-sinamics-f30011-fault/)

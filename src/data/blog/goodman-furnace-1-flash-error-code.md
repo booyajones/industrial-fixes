@@ -49,3 +49,10 @@ A 1-flash code on a Goodman furnace indicates an ignition failure or flame failu
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with gas appliances, if you cannot verify proper gas pressure or valve operation, or if the furnace continues to post a 1-flash code after cleaning the flame sensor and inspecting the igniter. A technician will use a combustion analyzer to verify gas pressure, measure flame-sense microamperage, and test control board outputs safely. If the control board or gas valve must be replaced, professional diagnosis ensures the correct part and prevents misdiagnosis that can damage other components.
+
+## See Also
+
+- [Goodman Furnace E1 Error Code — Causes & Fix](/posts/goodman-furnace-e1-error-code/)
+- [Goodman D2 Error Code - Causes & Fix](/posts/goodman-heat-pump-d2-error-code/)
+- [Goodman Heat Pump E15 Error Code - Causes & Fix](/posts/goodman-heat-pump-e15-error-code/)
+- [Goodman E9 Error Code - Causes & Fix](/posts/goodman-heat-pump-e9-error-code/)

@@ -45,3 +45,10 @@ Error code 76 on a Rheem tankless water heater indicates a communication fault b
 ## When to Call a Pro
 
 Call a licensed plumber or tankless service technician if you are not comfortable working with low-voltage wiring or opening the heater's control compartment. A pro can quickly isolate whether the fault lies in the remote, the wiring, or the main board by testing each component in sequence. If your unit is still under warranty, professional documentation of the failure will protect your coverage when replacing the control board.
+
+## See Also
+
+- [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)
+- [Rheem RTGH-95DVLN Condensing Tankless Water Heater Error Codes](/posts/rheem-rtgh-95dvln-error-codes/)
+- [Rheem Furnace 9 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-9-flashes/)
+- [Rheem Furnace 7 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-7-flashes/)

@@ -48,3 +48,10 @@ The E1 code is a leak and overflow error. Water reached the base of the dishwash
 ## When to Call a Pro
 
 If the base is dry, the unit is level, and the float switch tests good but E1 keeps returning, a slow leak at the sump or pump seal is likely. A technician can locate the seeping seal and confirm the repair before water damages your floor.
+
+## See Also
+
+- [LG CH45 Error Code - Causes & Fix](/posts/lg-mini-split-ch45-error-code/)
+- [LG Range F4 Error Code - Causes & Fix](/posts/lg-range-f4-error-code/)
+- [LG Microwave F16 Error - Causes & Fix](/posts/lg-microwave-f16-error-code/)
+- [LG Dishwasher LE Error Code - Causes & Fix](/posts/lg-dishwasher-le-error-code/)

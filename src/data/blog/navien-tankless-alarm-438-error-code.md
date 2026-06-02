@@ -48,3 +48,10 @@ Alarm 438 on Navien tankless water heaters indicates a recirculation system faul
 ## When to Call a Pro
 
 Call a licensed plumber or Navien-certified technician if you are not comfortable working with electrical connections, testing pumps under power, or isolating water lines. If you have verified that all valves are open, the filter is clean, and the pump runs in test mode but the alarm still appears, a professional can measure pump voltage, test the flow sensor with a multimeter, and diagnose wiring faults or control board issues. Descaling a tankless heater also requires a pump and chemical flush kit, so many homeowners prefer to hire a pro for that service.
+
+## See Also
+
+- [Navien E008 Error Code - Causes & Fix](/posts/navien-tankless-e008-error-code/)
+- [Navien NPE Series Error Codes — Tankless Water Heater Fault Guide](/posts/navien-npe-error-codes/)
+- [Navien E006 Error Code - Causes & Fix](/posts/navien-tankless-e006-error-code/)
+- [Navien NFC Combi Boiler Error Codes: Complete Guide](/posts/navien-nfc-error-codes/)

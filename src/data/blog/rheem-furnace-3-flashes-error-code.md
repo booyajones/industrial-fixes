@@ -50,3 +50,10 @@ The furnace will not restart until the safety circuit closes and the root cause 
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you have replaced the air filter and reset any tripped rollout switches but the 3-flash code returns immediately, if you are not comfortable working with gas appliances or electrical circuits, or if you do not have a manometer and multimeter to measure manifold pressure and test limit-circuit continuity. A technician should also investigate any rollout-switch trip, because that indicates a serious combustion or venting problem that can produce carbon monoxide if left uncorrected. If you see soot, rust, or cracks in the heat exchanger, or if the vent pipe shows signs of condensation or corrosion, stop using the furnace and call for service right away.
+
+## See Also
+
+- [Rheem RTEX Electric Tankless Water Heater Error Codes](/posts/rheem-rtex-electric-tankless-error-codes/)
+- [Rheem EcoNet A101 Error Code — Causes & Fix](/posts/rheem-econet-a101-error-code/)
+- [Rheem RA16 Heat Pump Error Codes — Flash Code Diagnostic Guide](/posts/rheem-ra16-heat-pump-error-codes/)
+- [Rheem Furnace 7 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-error-code-7-flashes/)

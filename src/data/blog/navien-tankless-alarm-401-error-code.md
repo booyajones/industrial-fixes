@@ -46,3 +46,10 @@ Because the code is not defined in Navien's published lists, confirm the exact m
 ## When to Call a Pro
 
 Call a licensed technician if the error returns after cleaning the filter and cycling the relief valve, if you see error codes cycling on the display, or if you are not comfortable disconnecting gas or electrical connections. A pro can test the flow sensor's output voltage, inspect the control board for fault logging, and verify proper venting and gas pressure. Because "Alarm 401" is not a published Navien code, professional diagnostics will confirm whether the fault is sensor-related or points to a deeper control or wiring issue.
+
+## See Also
+
+- [Navien Error Code E007 — Causes & Fix](/posts/navien-error-code-e007/)
+- [Navien E003 Error - Ignition Failure Causes & Fix](/posts/navien-tankless-water-heater-e003-error-code/)
+- [Navien E008 Error Code - Causes & Fix](/posts/navien-tankless-e008-error-code/)
+- [Navien E021 Error Code - Causes & Fix](/posts/navien-tankless-e021-error-code/)

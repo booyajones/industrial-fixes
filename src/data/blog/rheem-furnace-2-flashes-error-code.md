@@ -51,3 +51,10 @@ This fault tells you the pressure switch is not behaving as the sequence expects
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with gas appliances, 120V wiring, or draft-proving circuits. A technician has the meters and manometers to measure switch behavior, draft pressure, and circuit continuity accurately. If you have replaced the pressure switch and tubing but the fault persists, the problem may involve the inducer, venting design, control board, or an intermittent wiring issue that requires diagnostic tools and experience to isolate safely.
+
+## See Also
+
+- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)
+- [Rheem RGPS Furnace Error Codes — Flash Code Diagnostic Guide](/posts/rheem-rgps-error-codes/)
+- [Rheem Tankless Water Heater Error 76 - Causes & Fix](/posts/rheem-tankless-water-heater-76-error-code/)
+- [Rheem RA16 Heat Pump Error Codes — Flash Code Diagnostic Guide](/posts/rheem-ra16-heat-pump-error-codes/)

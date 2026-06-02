@@ -106,5 +106,17 @@
     "score": 3,
     "reason": "Research explicitly states E27 is NOT confirmed to exist in the provided GA800 documentation; publishing unverified fault codes violates technical accuracy standards.",
     "date": "2026-06-01"
+  },
+  "abb-acs580-vfd-a0-fault-code": {
+    "topic": "ABB ACS580 VFD A0 fault code",
+    "score": 3,
+    "reason": "Research explicitly states 'A0' is NOT a standard ACS580 fault code; publishing an article for a non-existent code violates criterion #1 regardless of content quality.",
+    "date": "2026-06-02"
+  },
+  "siemens-g120-vfd-f01015-fault-code": {
+    "topic": "Siemens G120 VFD F01015 fault code",
+    "score": 3,
+    "reason": "F01015 is not a verified/documented Siemens G120 fault code per the research; publishing unconfirmed codes creates confusion and liability for a technical repair site.",
+    "date": "2026-06-02"
   }
 }

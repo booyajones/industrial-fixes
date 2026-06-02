@@ -50,3 +50,10 @@ The furnace will not restart until you correct the condition that caused the ove
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you see flames rolling out of the burner area, if the rollout switch keeps tripping after you correct airflow problems, or if you are not comfortable working with gas appliances and electrical components. A cracked or damaged heat exchanger requires immediate professional replacement and is a carbon monoxide hazard. Also call a pro if you have checked all airflow paths and the limit keeps opening, or if you need to verify combustion air calculations or vent pipe sizing on a 90% condensing furnace.
+
+## See Also
+
+- [Carrier 32 Error Code — Causes & Fix](/posts/carrier-32-error-code/)
+- [Carrier Infinity Error Code 179 — What It Means and How to Fix It](/posts/carrier-infinity-error-179/)
+- [Carrier 31 Error Code — Pressure Switch Fix](/posts/carrier-31-error-code/)
+- [Carrier E22 Error Code - Causes & Fix](/posts/carrier-heat-pump-e22-error-code/)

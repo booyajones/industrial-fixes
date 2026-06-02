@@ -48,3 +48,10 @@ Siemens documentation ties this fault to discrepancies in the safety chain and n
 ## When to Call a Pro
 
 Call a qualified Siemens integrator or automation technician if you are not trained in Safety Integrated commissioning or if r0949 shows a fault value you cannot interpret from the Siemens list manual. Safety-related faults require knowledge of failsafe wiring standards, safety-function configuration, and acceptance testing. If you have replaced the Control Unit or Power Module and F01611 returns immediately, the problem may involve firmware mismatch, incorrect safety-parameter cloning, or a more complex internal communication fault that needs factory support or an authorized service center.
+
+## See Also
+
+- [Siemens SINAMICS G120 F30002 Fault — DC Link Overvoltage Fix](/posts/siemens-sinamics-f30002-fault/)
+- [Siemens G120 F01650 - Causes & Fix](/posts/siemens-g120-f01650-fault-code/)
+- [Siemens SINAMICS G120 VFD Complete Setup and Fault Code Guide](/posts/siemens-sinamics-g120-complete-guide/)
+- [Siemens G120 A05006 - IGBT Overtemperature Warning & Fix](/posts/siemens-g120-a05006-fault-code/)

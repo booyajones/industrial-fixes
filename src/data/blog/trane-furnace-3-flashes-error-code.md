@@ -49,3 +49,10 @@ On most Trane gas furnaces, a 3-flash red LED code indicates a pressure switch f
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you cannot safely access the venting, if the pressure switch does not respond to cleaning and testing, or if the fault persists after you have cleared blockages and replaced tubing. A pro has manometers to measure actual draft pressure, can test inducer CFM against factory specs, and can safely diagnose control board faults. Because a pressure switch fault can allow unsafe combustion conditions, do not bypass the switch or attempt repeated manual resets without finding the root cause. If you smell gas, see rust or corrosion inside the burner compartment, or hear unusual noises from the inducer, shut off power and gas and call for service immediately.
+
+## See Also
+
+- [Trane Heat Pump E5 Error Code - Causes & Fix](/posts/trane-heat-pump-e5-error-code/)
+- [Trane AC E2 Error Code — Sensor and Communication Fault Fix](/posts/trane-e2-ac-sensor-fault/)
+- [Trane E7 Error Code - Causes & Fix](/posts/trane-heat-pump-e7-error-code/)
+- [Trane ComfortLink II Communicating Thermostat Fault Codes - What They Mean and How to Fix Them](/posts/trane-communicating-thermostat-fault-codes/)

@@ -47,3 +47,10 @@ On many Mitsubishi Electric heat pump models, the E4 error code indicates a remo
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with low-voltage wiring or interpreting wiring diagrams. Professional diagnosis is strongly recommended if basic power cycling and visual wiring checks do not resolve the fault, if you lack a spare remote controller for substitution testing, or if the indoor controller board requires replacement. Technicians have the correct Mitsubishi service manuals, diagnostic tools, and genuine replacement parts to pinpoint whether the fault lies in the remote, the board, or the wiring. Misdiagnosis or incorrect wiring can damage expensive control boards or void your warranty.
+
+## See Also
+
+- [Mitsubishi U3 Error Code — Causes & Fix](/posts/mitsubishi-u3-error-code/)
+- [Mitsubishi PB Error Code - Causes & Fix](/posts/mitsubishi-mini-split-pb-error-code/)
+- [Mitsubishi Mini Split E9 Error Code — Outdoor Thermistor 2 Fault Fix](/posts/mitsubishi-mini-split-e9-error/)
+- [Mitsubishi F0008 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-f0008-error-code/)

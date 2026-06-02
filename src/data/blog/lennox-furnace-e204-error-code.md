@@ -51,3 +51,10 @@ In field practice, this code points to a problem in the motor itself, the wiring
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with line voltage or if you lack a multimeter and the skills to interpret resistance and continuity tests safely. A technician can quickly isolate whether the fault is in the wiring, motor, or control boards and has access to OEM parts and diagnostic software. If the furnace has had repeated E204 codes or other fault codes, a full system inspection is recommended to prevent further failures.
+
+## See Also
+
+- [Lennox Error Code 111 — Causes & Fix](/posts/lennox-error-code-111/)
+- [Lennox Merit Series Furnace Error Codes (2024-2025) - LED Flash Code Guide](/posts/lennox-merit-series-2025-error-codes/)
+- [Lennox XC21 Error Codes — Diagnostic Guide and Fixes](/posts/lennox-xc21-error-codes/)
+- [Lennox Merit Series Furnace Error Codes - What It Means and How to Fix It](/posts/lennox-merit-series-furnace-error-codes/)

@@ -48,3 +48,10 @@ The E12 code on a Trane heat pump is not universally defined across all Trane re
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you cannot locate model-specific documentation for the E12 code, if the low-voltage fuse blows repeatedly, or if you are uncomfortable working with 240-volt power or refrigerant systems. A technician has the service literature, meters, and refrigerant gauges to diagnose sensor faults, communication errors, defrost problems, and refrigerant issues safely. Trane strongly recommends professional diagnosis when basic power and thermostat checks do not resolve the fault, and refrigerant work legally requires EPA certification.
+
+## See Also
+
+- [Trane XE80 Furnace Error Codes — Fault Code Guide](/posts/trane-xe80-error-codes/)
+- [Trane XR14 Heat Pump Error Codes — Fault Code Diagnostic Guide](/posts/trane-xr14-error-codes/)
+- [Trane 3-Blink Error Code — Pressure Switch Fault Fix](/posts/trane-3-blink-error-code/)
+- [Trane 4 Flashes Error Code — Open High Limit Fix](/posts/trane-4-flashes-error-code/)

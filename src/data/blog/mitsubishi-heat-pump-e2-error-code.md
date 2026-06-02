@@ -47,3 +47,10 @@ On Mitsubishi Electric heat pumps, E2 is a remote controller or controller-board
 ## When to Call a Pro
 
 Call a qualified HVAC technician if the code returns after a power reset, if you are not comfortable working with low-voltage control wiring, or if replacing the remote controller does not clear the fault. Mitsubishi's published troubleshooting guidance instructs homeowners to stop and call for repair when a code other than 00 is present. A technician has the diagnostic tools and service manuals to test the indoor control board, verify communication between components, and properly clear error history after the repair is complete.
+
+## See Also
+
+- [Mitsubishi AL-29 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-al-29-error-code/)
+- [Mitsubishi Mini Split E0 Error Code - Causes & Fix](/posts/mitsubishi-mini-split-e0-error-code/)
+- [Mitsubishi P4 Error Code — Drain System Fault: Causes & Fix](/posts/mitsubishi-p4-error-code/)
+- [Mitsubishi Mini Split P1 Error Code Fix](/posts/mitsubishi-p1-error-code/)

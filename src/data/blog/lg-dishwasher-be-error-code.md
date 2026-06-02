@@ -44,3 +44,10 @@ The bE code on an LG dishwasher stands for bubble error. It appears when the mac
 ## When to Call a Pro
 
 Call a professional if the bE code persists after you have eliminated all foam, confirmed you are using only powder dishwasher detergent in the correct dose, and run multiple rinse cycles to clear residue. A technician can inspect the control system and confirm whether the foam-detection logic is functioning correctly or whether an unrelated fault is mimicking a bubble error. If the machine shows other symptoms such as failure to drain, unusual noises, or water leaks alongside bE, professional diagnosis is needed to rule out mechanical or electrical issues outside the scope of detergent correction.
+
+## See Also
+
+- [LG CH23 Error Code - Causes & Fix](/posts/lg-mini-split-ch23-error-code/)
+- [LG Dryer nP Error Code - Causes & Fix](/posts/lg-dryer-np-error-code/)
+- [LG Oven F1 Error Code - Causes & Fix](/posts/lg-oven-f1-error-code/)
+- [LG Range E6 Error Code - Causes & Fix](/posts/lg-range-e6-error-code/)

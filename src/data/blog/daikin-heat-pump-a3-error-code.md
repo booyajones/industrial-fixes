@@ -49,3 +49,10 @@ The fault typically appears when the drain line is clogged, the drain piping is 
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you cannot safely access the indoor unit, if the drain pan or piping requires disassembly or modification, or if you've cleared blockages and tested the float switch and pump but the A3 code returns. A technician can perform electrical diagnostics on the float-switch circuit and indoor PCB, verify drain-pump output signals, and consult the model-specific service manual for resistance and voltage specifications. Indoor board replacement and refrigerant-circuit work must be done by a certified professional.
+
+## See Also
+
+- [Daikin E8 Error - Causes & Fix](/posts/daikin-e8-error-code/)
+- [Daikin A1 Error Code - Causes & Fix](/posts/daikin-heat-pump-a1-error-code/)
+- [Daikin E4 Error Code - Causes & Fix](/posts/daikin-e4-error-code/)
+- [Daikin U7 Error Code - Causes & Fix](/posts/daikin-u7-error-code/)

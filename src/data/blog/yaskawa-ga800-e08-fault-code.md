@@ -46,3 +46,10 @@ Because this is an externally triggered event, the drive itself is usually not d
 ## When to Call a Pro
 
 Call a qualified technician or Yaskawa support if you cannot locate the external device sending the fault signal to S8, if the wiring trace is complex or undocumented, or if the fault returns after correcting all visible wiring and parameter issues. Also seek professional help if you are not familiar with VFD parameter programming or if your application involves safety interlocks that must meet regulatory standards. Yaskawa requires model number, serial number, failure details, application type, and service history before providing advanced troubleshooting, so have that information ready when you call.
+
+## See Also
+
+- [Yaskawa VFD Fault UV1 — Causes & Fix](/posts/yaskawa-vfd-fault-uv1/)
+- [Yaskawa VFD Fault OH — Causes & Fix](/posts/yaskawa-vfd-fault-oh/)
+- [Yaskawa GA800 E21 Fault - Causes & Fix](/posts/yaskawa-ga800-e21-fault-code/)
+- [Yaskawa GA800 E25 Fault - Causes & Fix](/posts/yaskawa-ga800-e25-fault-code/)

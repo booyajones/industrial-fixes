@@ -48,3 +48,10 @@ The brake chopper is the circuit that dissipates energy during motor deceleratio
 ## When to Call a Pro
 
 Call a qualified technician or VFD specialist if the brake resistor and wiring check good but Alarm 27 persists, if you are not trained to safely discharge and work inside the drive, or if internal brake chopper replacement is required. Brake IGBT and power-stage faults require experience with drive internals and access to service documentation. Danfoss technical support or an authorized service center can diagnose internal faults and determine if the power section is field-replaceable or if the entire drive must be replaced.
+
+## See Also
+
+- [Danfoss FC302 ALARM 35 - Causes & Fix](/posts/danfoss-fc302-alarm-35-fault-code/)
+- [Danfoss FC302 Alarm 34 - Causes & Fix](/posts/danfoss-fc302-alarm-34-fault-code/)
+- [Danfoss VFD Fault OL — Causes & Fix](/posts/danfoss-vfd-fault-ol/)
+- [Danfoss FC302 Alarm 17 - Causes & Fix](/posts/danfoss-fc302-alarm-17-fault-code/)

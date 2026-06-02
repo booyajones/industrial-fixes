@@ -49,3 +49,10 @@ This is not a pressure switch, flame sensor, or ignitor problem. It is specifica
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with 120 V control circuits, gas valves, or diagnostic procedures. E206 requires verification of thermostat staging logic, inspection of low-voltage and line-voltage wiring, and correct identification of whether the fault lies in the control or the valve. Control board replacement involves shutting off power and gas, disconnecting multiple wiring harnesses, and confirming proper operation across both heating stages. A qualified technician has the tools and training to safely diagnose relay failures, test wiring continuity, and replace the control without creating new faults or safety hazards.
+
+## See Also
+
+- [Lennox XP25 Heat Pump Error Codes - iComfort Fault Diagnostics](/posts/lennox-xp25-heat-pump-error-codes/)
+- [Lennox Error Code 540 — Causes & Fix](/posts/lennox-error-code-540/)
+- [Lennox E117 Error Code - Causes & Fix](/posts/lennox-furnace-e117-error-code/)
+- [Lennox Error Code 441 — Limit Device Fault](/posts/lennox-error-code-441/)

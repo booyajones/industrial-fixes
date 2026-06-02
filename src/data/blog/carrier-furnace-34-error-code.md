@@ -51,3 +51,10 @@ This code points to a breakdown in the flame-sensing circuit, the ignition compo
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are uncomfortable working with gas, if the flame sensor and ignitor both look clean and intact but the code persists, or if you lack a multimeter and manometer to measure control voltage and gas pressure. A pro should also handle any situation where you smell gas, where the burners light but the flame pattern is yellow or lifting off the ports, or where the control board shows signs of moisture or burned traces. Flame-proving circuits involve low-microampere DC signals and precise grounding, so intermittent faults can be difficult to trace without experience and the correct diagnostic tools.
+
+## See Also
+
+- [Carrier Geothermal Heat Pump Error Codes Guide](/posts/carrier-geothermal-error-codes/)
+- [Carrier E16 Error Code - Causes & Fix](/posts/carrier-heat-pump-e16-error-code/)
+- [Carrier 52 Error Code — Causes & Fix](/posts/carrier-52-error-code/)
+- [Carrier 42 Error Code — Causes & Fix](/posts/carrier-42-error-code/)

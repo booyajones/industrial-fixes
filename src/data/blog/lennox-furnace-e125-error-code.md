@@ -45,3 +45,10 @@ E125 is a critical alert on Lennox furnaces indicating the integrated control ha
 ## When to Call a Pro
 
 E125 is a control-board hardware fault that nearly always requires replacement of the integrated control. If you are not comfortable working with line voltage, handling gas furnace controls, or matching the correct replacement board to your model, call a qualified HVAC technician. A pro can confirm the diagnosis with manufacturer tools, source the correct OEM board, and make sure all safety interlocks and flame-sense circuits are functioning after the repair. If your furnace is still under warranty, professional installation of the replacement control may be required to preserve coverage.
+
+## See Also
+
+- [Lennox E205 Error Code - Causes & Fix](/posts/lennox-furnace-e205-error-code/)
+- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
+- [Lennox Rooftop Unit Error Codes: Technician Guide](/posts/lennox-rooftop-unit-error-codes/)
+- [Lennox ResolvePlus Rooftop Unit Error Codes: Complete Guide](/posts/lennox-resolve-plus-error-codes/)

@@ -48,3 +48,10 @@ E10 is not a standard universal fault code across all Carrier heat pump models. 
 ## When to Call a Pro
 
 Call a professional immediately if you cannot find a fault-code definition for E10 in your model's literature, if the outdoor unit is frozen solid, if you smell burning or see sparking at the contactor, or if the compressor hums but does not start. Refrigerant work, reversing-valve replacement, compressor diagnosis, and control-board reprogramming all require EPA certification, specialized tools, and access to Carrier's service software. A technician will retrieve the stored fault history from your board, measure superheat and subcooling, test voltage at every component, and compare readings to your model's specifications to pinpoint the exact failure.
+
+## See Also
+
+- [Carrier WeatherMaker RTU Error Code 23 — Fix](/posts/carrier-weathermaster-rtu-error-code-23/)
+- [Carrier Comfort 24ACC4 AC Error Codes - Full Flash Code Guide](/posts/carrier-comfort-24acc4-error-codes/)
+- [Carrier Error Code 24 — Secondary Voltage Fuse Open](/posts/carrier-24-soft-lockout/)
+- [Carrier Infinity Error 178 - What It Means and How to Fix It](/posts/carrier-infinity-error-178/)

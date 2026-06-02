@@ -50,3 +50,10 @@ Because Navien uses E001 inconsistently across product families, matching the co
 ## When to Call a Pro
 
 Call a licensed technician if you are uncomfortable working with gas appliances, if the flame rod and wiring checks do not clear the fault, or if you lack a multimeter and the tools to verify gas pressure and electrical continuity. A pro will also diagnose mixed-signal cases where the code definition does not match observed symptoms, confirm proper venting and combustion-air sizing, and handle any gas-valve or control-board replacement safely. If your unit is under warranty, professional documentation of the repair may be required to preserve coverage.
+
+## See Also
+
+- [Navien E004 Error Code - Causes & Fix](/posts/navien-tankless-e004-error-code/)
+- [Navien E109 Error - Causes & Fix](/posts/navien-tankless-water-heater-e109-error-code/)
+- [Navien Alarm 415 - Causes & Fix](/posts/navien-tankless-alarm-415-error-code/)
+- [Navien NCB-700 Combination Boiler Error Codes - Full Fault Guide](/posts/navien-ncb-700-error-codes/)

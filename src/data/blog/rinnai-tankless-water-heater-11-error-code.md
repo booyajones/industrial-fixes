@@ -49,3 +49,10 @@ Rinnai error code 11 is labeled as No Ignition in the diagnostic code guide. It 
 ## When to Call a Pro
 
 Call a licensed technician if you are uncomfortable working with gas appliances, if the gas supply or pressure seems abnormal, or if the fault returns after cleaning the flame rod and igniter. Replacement of the gas valve or PC board requires proper diagnostic tools and familiarity with Rinnai control systems. Any work involving gas connections, venting modifications, or electrical board replacement should be performed by a qualified service professional to maintain warranty coverage and make sure safe operation.
+
+## See Also
+
+- [Rinnai Error Code 61 — Causes & Fix](/posts/rinnai-error-code-61/)
+- [Rinnai Tankless Water Heater Error Codes — Complete Guide](/posts/rinnai-error-codes/)
+- [Rinnai Error Code 25 - Causes & Fix](/posts/rinnai-tankless-water-heater-25-error-code/)
+- [Rinnai I120CN Tankless Water Heater Error Codes: Complete Guide](/posts/rinnai-i120cn-error-codes/)

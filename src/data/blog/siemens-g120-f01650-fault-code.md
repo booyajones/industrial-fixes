@@ -46,3 +46,10 @@ The fault typically appears during safety commissioning, after changes to safety
 ## When to Call a Pro
 
 Call a qualified Siemens technician or safety-certified integrator if you are not trained in Safety Integrated commissioning, if the fault returns after you have completed the acceptance test and replaced the memory card or Control Unit, or if your facility's safety approval process requires third-party validation of all safety-function changes. Safety-related faults on VFDs often have regulatory and insurance implications, so professional documentation and sign-off are recommended any time hardware is replaced or safety parameters are altered.
+
+## See Also
+
+- [Siemens G120 F03505 - Causes & Fix](/posts/siemens-g120-f03505-fault-code/)
+- [Siemens G120 F01044 - Causes & Fix](/posts/siemens-g120-vfd-f01044-fault-code/)
+- [Siemens G120 A01590 Fault Code - Causes & Fix](/posts/siemens-g120-a01590-fault-code/)
+- [Siemens G120 F30002 - Causes & Fix](/posts/siemens-g120-f30002-fault-code/)

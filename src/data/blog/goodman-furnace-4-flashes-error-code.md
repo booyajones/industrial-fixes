@@ -48,3 +48,10 @@ The high-limit switch is designed to open when airflow across the heat exchanger
 ## When to Call a Pro
 
 Call a professional if you are not comfortable working with furnace electrical components or gas appliances, if the blower motor or capacitor tests require tools you do not own, or if the 4-flash code returns after you have replaced the filter and verified all registers are open. A technician can measure airflow with a manometer, test limit-switch operation under load, and diagnose control-board or wiring faults that are not obvious during a visual inspection. If the limit switch is open at room temperature and you are unsure how to replace it safely, professional service is the best choice.
+
+## See Also
+
+- [Goodman Heat Pump E6 Error Code - Causes & Fix](/posts/goodman-heat-pump-e6-error-code/)
+- [Goodman GPH Series Packaged Unit Error Codes: Complete Guide](/posts/goodman-gph-error-codes/)
+- [Goodman GMS96 Error Codes — Fault Code Guide](/posts/goodman-gms96-error-codes/)
+- [Goodman 7 Flash Error Code — Ignition Lockout Fix](/posts/goodman-7-flash-error-code/)

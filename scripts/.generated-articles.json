@@ -2339,6 +2339,126 @@
     "kenmore-washer-e24-error-code": {
       "topic": "Kenmore washer E24 error code",
       "date": "2026-06-01"
+    },
+    "abb-acs580-vfd-a2a1-fault-code": {
+      "topic": "ABB ACS580 VFD A2A1 fault code",
+      "date": "2026-06-02"
+    },
+    "abb-acs580-vfd-a2b1-fault-code": {
+      "topic": "ABB ACS580 VFD A2B1 fault code",
+      "date": "2026-06-02"
+    },
+    "abb-acs580-vfd-a2b3-fault-code": {
+      "topic": "ABB ACS580 VFD A2B3 fault code",
+      "date": "2026-06-02"
+    },
+    "abb-acs580-vfd-a2b4-fault-code": {
+      "topic": "ABB ACS580 VFD A2B4 fault code",
+      "date": "2026-06-02"
+    },
+    "abb-acs580-vfd-a0-fault-code": {
+      "topic": "ABB ACS580 VFD A0 fault code",
+      "date": "2026-06-02"
+    },
+    "abb-acs580-vfd-b1-fault-code": {
+      "topic": "ABB ACS580 VFD B1 fault code",
+      "date": "2026-06-02"
+    },
+    "abb-acs580-vfd-ff63-fault-code": {
+      "topic": "ABB ACS580 VFD FF63 fault code",
+      "date": "2026-06-02"
+    },
+    "abb-acs550-vfd-ai1-loss-fault-code": {
+      "topic": "ABB ACS550 VFD AI1 LOSS fault code",
+      "date": "2026-06-02"
+    },
+    "abb-acs550-vfd-efb1-fault-code": {
+      "topic": "ABB ACS550 VFD EFB1 fault code",
+      "date": "2026-06-02"
+    },
+    "abb-acs550-vfd-efb2-fault-code": {
+      "topic": "ABB ACS550 VFD EFB2 fault code",
+      "date": "2026-06-02"
+    },
+    "abb-acs550-vfd-efb3-fault-code": {
+      "topic": "ABB ACS550 VFD EFB3 fault code",
+      "date": "2026-06-02"
+    },
+    "siemens-g120-vfd-f01000-fault-code": {
+      "topic": "Siemens G120 VFD F01000 fault code",
+      "date": "2026-06-02"
+    },
+    "siemens-g120-vfd-f01001-fault-code": {
+      "topic": "Siemens G120 VFD F01001 fault code",
+      "date": "2026-06-02"
+    },
+    "siemens-g120-vfd-f01015-fault-code": {
+      "topic": "Siemens G120 VFD F01015 fault code",
+      "date": "2026-06-02"
+    },
+    "siemens-g120-vfd-f01018-fault-code": {
+      "topic": "Siemens G120 VFD F01018 fault code",
+      "date": "2026-06-02"
+    },
+    "siemens-g120-vfd-a01028-fault-code": {
+      "topic": "Siemens G120 VFD A01028 fault code",
+      "date": "2026-06-02"
+    },
+    "siemens-g120-vfd-f01033-fault-code": {
+      "topic": "Siemens G120 VFD F01033 fault code",
+      "date": "2026-06-02"
+    },
+    "siemens-g120-vfd-f01034-fault-code": {
+      "topic": "Siemens G120 VFD F01034 fault code",
+      "date": "2026-06-02"
+    },
+    "siemens-g120-vfd-f01040-fault-code": {
+      "topic": "Siemens G120 VFD F01040 fault code",
+      "date": "2026-06-02"
+    },
+    "siemens-g120-vfd-f01044-fault-code": {
+      "topic": "Siemens G120 VFD F01044 fault code",
+      "date": "2026-06-02"
+    },
+    "siemens-g120-vfd-f01105-fault-code": {
+      "topic": "Siemens G120 VFD F01105 fault code",
+      "date": "2026-06-02"
+    },
+    "siemens-g120-vfd-f01122-fault-code": {
+      "topic": "Siemens G120 VFD F01122 fault code",
+      "date": "2026-06-02"
+    },
+    "siemens-g120-vfd-f01205-fault-code": {
+      "topic": "Siemens G120 VFD F01205 fault code",
+      "date": "2026-06-02"
+    },
+    "siemens-g120-vfd-f01250-fault-code": {
+      "topic": "Siemens G120 VFD F01250 fault code",
+      "date": "2026-06-02"
+    },
+    "siemens-g120-vfd-a01590-fault-code": {
+      "topic": "Siemens G120 VFD A01590 fault code",
+      "date": "2026-06-02"
+    },
+    "siemens-g120-vfd-f01600-fault-code": {
+      "topic": "Siemens G120 VFD F01600 fault code",
+      "date": "2026-06-02"
+    },
+    "siemens-g120-vfd-f01625-fault-code": {
+      "topic": "Siemens G120 VFD F01625 fault code",
+      "date": "2026-06-02"
+    },
+    "siemens-g120-vfd-f01650-fault-code": {
+      "topic": "Siemens G120 VFD F01650 fault code",
+      "date": "2026-06-02"
+    },
+    "siemens-g120-vfd-f01659-fault-code": {
+      "topic": "Siemens G120 VFD F01659 fault code",
+      "date": "2026-06-02"
+    },
+    "siemens-g120-vfd-f01662-fault-code": {
+      "topic": "Siemens G120 VFD F01662 fault code",
+      "date": "2026-06-02"
     }
   }
 }

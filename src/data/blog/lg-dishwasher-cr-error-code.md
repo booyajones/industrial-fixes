@@ -49,3 +49,10 @@ Most of the time, the dishwasher enters this mode accidentally through an uninte
 ## When to Call a Pro
 
 Call a technician if the CR code returns after a power reset and you have confirmed no buttons are stuck. A pro can test the control panel and main board with diagnostic tools to isolate whether the fault is in the user interface, the wiring, or the board itself. Also call for help if you are uncomfortable working with electrical connections or accessing internal components behind the door panel.
+
+## See Also
+
+- [LG Washer PE Error Code - Causes & Fix](/posts/lg-washer-pe-error-code/)
+- [LG Washer dE1 Error Code - Causes & Fix](/posts/lg-washer-de1-error-code/)
+- [LG Mini Split CH90 Error Code - Causes & Fix](/posts/lg-mini-split-ch90-error-code/)
+- [LG Oven F11 Error Code - Causes & Fix](/posts/lg-oven-f11-error-code/)

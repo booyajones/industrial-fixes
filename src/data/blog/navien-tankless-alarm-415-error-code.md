@@ -51,3 +51,10 @@ The code prevents the heater from firing because the control cannot measure flow
 ## When to Call a Pro
 
 Call a licensed plumber or Navien-certified technician if you are not comfortable working with water and electrical connections on a gas or electric tankless heater, if the code returns after cleaning the inlet filter and cycling the relief valve, or if you lack the tools to safely remove and test the flow sensor. A technician can verify the sensor's electrical output, check the water adjustment valve operation, and confirm that no other component (such as the control board or wiring harness) is contributing to the fault. Professional service is also recommended if your unit is still under warranty, because self-repair may void coverage.
+
+## See Also
+
+- [Navien Error Code E001 — No Ignition Fix](/posts/navien-error-code-e001/)
+- [Navien E302 Error Code — Causes & Fix](/posts/navien-error-code-e302/)
+- [Navien E030 Error Code — Causes & Fix](/posts/navien-error-code-e030/)
+- [Navien 406 Error Code - Causes & Fix](/posts/navien-tankless-alarm-406-error-code/)

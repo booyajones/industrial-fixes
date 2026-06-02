@@ -46,3 +46,10 @@ On York furnaces, a 7-flash error code does not have one universal meaning acros
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you have cleaned the flame sensor and burners, verified grounding, and the 7-flash code persists. A pro can measure flame-sense current with a microamp meter in series, confirm gas pressure and air settings, test the control board, and interpret the exact code definition for your specific York model. Also call if you are uncomfortable working around gas piping, high-voltage ignition, or live 120-volt controls, or if the furnace has a history of nuisance trips or intermittent faults that suggest a failing control board or wiring harness issue.
+
+## See Also
+
+- [York Furnace 6 Flashes Error Code — Pressure Switch Fault Fix](/posts/york-6-flashes-pressure-switch-fault/)
+- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
+- [York Furnace Error Code E5 — High Limit Tripped](/posts/york-furnace-error-code-e5/)
+- [York Affinity Error Codes - What It Means and How to Fix It](/posts/york-affinity-error-codes/)

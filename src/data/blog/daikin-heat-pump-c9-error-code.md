@@ -47,3 +47,10 @@ A C9 error on your Daikin heat pump indicates a fault with the indoor unit's suc
 ## When to Call a Pro
 
 If you are uncomfortable working inside the indoor unit with power off, or if your multimeter test shows normal sensor resistance and intact wiring but the C9 code returns after reset, call a licensed HVAC technician. Diagnosing a board-level fault or verifying the exact sensor spec for your model requires service documentation and experience with Daikin control systems. Technicians also have access to resistance tables and can safely test live circuits to confirm the PCB input stage is functioning.
+
+## See Also
+
+- [Daikin A1 Error Code - Causes & Fix](/posts/daikin-mini-split-a1-error-code/)
+- [Daikin H8 Error Code - Causes & Fix](/posts/daikin-heat-pump-h8-error-code/)
+- [Daikin Aurora Heat Pump Error Codes - Cold Climate Fault Guide](/posts/daikin-aurora-heat-pump-error-codes/)
+- [Daikin A6 Error Code — Indoor Fan Motor Fix](/posts/daikin-error-code-a6/)

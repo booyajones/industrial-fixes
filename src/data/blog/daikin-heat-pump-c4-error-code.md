@@ -47,3 +47,10 @@ The C4 error code on a Daikin heat pump signals a faulty heat exchanger temperat
 ## When to Call a Pro
 
 C4 diagnosis requires safe access to live refrigerant lines, low-voltage wiring, and control boards inside the air handler. If you are not comfortable working with multimeters, interpreting resistance curves, or handling indoor-unit covers and electrical connectors, call a licensed HVAC technician. A professional can cross-reference your exact model's service manual, measure thermistor values accurately, and replace the PCB if needed. Always call a pro if you see refrigerant leaks, burnt wiring, or if the code returns after you have replaced the sensor and checked the harness.
+
+## See Also
+
+- [Daikin A6 Error Code - Causes & Fix](/posts/daikin-mini-split-a6-error-code/)
+- [Daikin U4 Error Code - Causes & Fix](/posts/daikin-heat-pump-u4-error-code/)
+- [Daikin H6 Error Code - Causes & Fix](/posts/daikin-heat-pump-h6-error-code/)
+- [Daikin H0 Error Code - Causes & Fix](/posts/daikin-heat-pump-h0-error-code/)

@@ -47,3 +47,10 @@ This fault does not point to a single failed component. Instead, it signals a mi
 ## When to Call a Pro
 
 Call a qualified technician or contact Yaskawa support if the E09 fault returns after you have increased the acceleration time, verified the load moves freely, and re-run auto-tuning. Persistent acceleration errors can indicate a motor that is undersized for the application, a drive with internal faults, or complex tuning and parameter issues that require in-depth knowledge of the GA800 control algorithms. Yaskawa's own troubleshooting documentation recommends escalating with full drive identification and fault history when standard field corrections do not resolve the problem.
+
+## See Also
+
+- [Yaskawa GA800 E11 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e11-fault-code/)
+- [Yaskawa GA800 E25 Fault - Causes & Fix](/posts/yaskawa-ga800-e25-fault-code/)
+- [Yaskawa GA800 E08 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e08-fault-code/)
+- [Yaskawa VFD Fault LF — Causes & Fix](/posts/yaskawa-vfd-fault-lf/)

@@ -47,3 +47,10 @@ This fault does not mean the brake resistor has failed electrically in most case
 ## When to Call a Pro
 
 Call a qualified technician or Danfoss service partner if the alarm persists after you have verified correct resistor sizing, wiring integrity, and parameter settings. If the brake resistor tests good and the application duty cycle is within normal limits but the drive continues to trip, the internal brake chopper circuit or brake monitoring path may be faulty and will require drive-level diagnostics or hardware replacement. Also call a professional if you are unsure how to safely measure DC-link components, interpret drive parameters, or size a replacement brake resistor for your specific load and deceleration profile.
+
+## See Also
+
+- [Danfoss FC302 Alarm 23 - Causes & Fix](/posts/danfoss-fc302-alarm-23-fault-code/)
+- [Danfoss VFD Fault OL — Causes & Fix](/posts/danfoss-vfd-fault-ol/)
+- [Danfoss FC302 Alarm 17 - Causes & Fix](/posts/danfoss-fc302-alarm-17-fault-code/)
+- [Danfoss VFD Fault Codes — FC301, FC302, FC102 Reference](/posts/danfoss-vfd-fault-codes/)

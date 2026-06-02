@@ -48,3 +48,10 @@ Navien recommends opening and closing the pressure relief valve near the outlet 
 ## When to Call a Pro
 
 Call a licensed plumber or Navien-certified technician if the error returns after you have cleaned the sensor and verified good inlet flow, if you cannot safely remove the front panel or service valves, or if you see other fault codes appearing alongside the 406. A technician can run board-level diagnostics to confirm the flow sensor is sending the correct Hall-effect pulses and can perform a full descaling flush if your heat exchanger has heavy mineral buildup. Also call a pro if your unit is still under warranty, since self-service on certain internal components may void coverage.
+
+## See Also
+
+- [Navien E030 Error Code — Causes & Fix](/posts/navien-error-code-e030/)
+- [Navien E109 Error - Causes & Fix](/posts/navien-tankless-water-heater-e109-error-code/)
+- [Navien E008 Error Code - Causes & Fix](/posts/navien-tankless-e008-error-code/)
+- [Navien E515 Error Code - Causes & Fix](/posts/navien-tankless-e515-error-code/)

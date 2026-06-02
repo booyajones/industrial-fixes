@@ -48,3 +48,10 @@ Many Mitsubishi communication faults occur when the outdoor unit powers up befor
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you cannot confirm the exact error code, if power cycling does not clear the fault, or if you are uncomfortable working with 120-volt AC wiring and control boards. Mitsubishi systems require specialized tools and training to diagnose communication faults and replace control boards safely. A technician can retrieve error history, measure communication signals, and source the correct parts for your specific model and production year.
+
+## See Also
+
+- [Mitsubishi U2 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-u2-error-code/)
+- [Mitsubishi Mini Split E6 Error Code — Communication Error Indoor/Outdoor Fix](/posts/mitsubishi-mini-split-e6-error/)
+- [Mitsubishi F0002 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-f0002-error-code/)
+- [Mitsubishi U6 Error Code — Causes & Fix](/posts/mitsubishi-u6-error-code/)
