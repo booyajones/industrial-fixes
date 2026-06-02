@@ -2,7 +2,7 @@
 import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
-import { equipmentCategories } from "@/data/equipmentCategories";
+import { consumerCategories } from "@/data/equipmentCategories";
 import { getCollection } from "astro:content";
 import { SITE } from "@/config";
 
@@ -10,7 +10,7 @@ const allPosts = await getCollection("blog", ({ data }) => !data.draft);
 
 // Count posts in each category for the index cards.
 const counts: Record<string, number> = {};
-for (const cat of equipmentCategories) {
+for (const cat of consumerCategories) {
   counts[cat.slug] = allPosts.filter(p =>
     (p.data.tags ?? []).some(t => cat.tags.includes(t.toLowerCase()))
   ).length;
@@ -20,24 +20,24 @@ const pageUrl = new URL(Astro.url.pathname, SITE.website).href;
 ---
 
 <Layout
-  title={`Equipment Categories | ${SITE.title}`}
-  description="Browse industrial equipment fix guides by category — HVAC, CNC machines, refrigeration, boilers, compressors, and electrical."
+  title={`Appliance Categories | ${SITE.title}`}
+  description="Browse appliance error code fix guides by category: washers, dryers, refrigerators, dishwashers, ranges, ovens, microwaves, furnaces, mini-splits and water heaters."
   canonicalURL={pageUrl}
 >
   <Header />
   <main id="main-content" class="app-layout pb-12">
     <nav class="text-sm text-foreground/50 mt-4 mb-2" aria-label="Breadcrumb">
       <a href="/" class="hover:text-accent">Home</a> &raquo;
-      <span class="text-foreground/80">Equipment</span>
+      <span class="text-foreground/80">Appliances</span>
     </nav>
-    <h1 class="text-3xl font-bold sm:text-4xl mt-2">Equipment Categories</h1>
+    <h1 class="text-3xl font-bold sm:text-4xl mt-2">Appliance Categories</h1>
     <p class="mt-3 text-lg text-foreground/80 max-w-3xl">
-      Industrial equipment error code reference, organized by equipment type.
-      Each hub aggregates fix guides across the major OEMs in that category.
+      Appliance error codes organized by type. Each hub aggregates fix guides
+      across the major brands, with the real cause and the exact part for every code.
     </p>
 
     <div class="mt-8 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
-      {equipmentCategories.map(cat => (
+      {consumerCategories.map(cat => (
         <a
           href={`/equipment/${cat.slug}/`}
           class="flex flex-col gap-2 rounded-lg border border-border bg-muted p-5 hover:border-accent hover:bg-accent/5 transition-all"

@@ -9,7 +9,7 @@ import LinkButton from "@/components/LinkButton.astro";
 import getSortedPosts from "@/utils/getSortedPosts";
 import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
 import { SITE } from "@/config";
-import { equipmentCategories } from "@/data/equipmentCategories";
+import { consumerCategories } from "@/data/equipmentCategories";
 import topData from "@/data/top-this-week.json";
 
 const posts = await getCollection("blog");
@@ -32,7 +32,7 @@ const topThisWeek = (topData.articles || [])
 
 // Equipment categories pulled from the shared data file so the homepage,
 // the /equipment/ index, and each /equipment/[slug]/ hub stay in sync.
-const categories = equipmentCategories.map(c => ({
+const categories = consumerCategories.map(c => ({
   name: c.name,
   emoji: c.emoji,
   slug: c.slug,
@@ -55,12 +55,12 @@ const categories = equipmentCategories.map(c => ({
       </div>
 
       <h1 class="my-3 text-3xl font-bold sm:text-4xl leading-tight">
-        The Industrial Error Code Library
+        Fix your appliance error code, fast
       </h1>
       <p class="text-lg text-foreground/80 max-w-xl">
-        Technician-written diagnostic guides for HVAC, CNC, VFD, refrigeration,
-        boilers, and commercial equipment. Real OEM part numbers, voltage and
-        resistance ranges, step-by-step fix trees. No paywall, no email gate.
+        Enter your code and get the real cause plus the exact OEM part to fix it.
+        Technician-written guides for washers, dryers, refrigerators, dishwashers,
+        ranges, microwaves, furnaces and more. No paywall, no email gate.
       </p>
 
       <!-- Authority bar: the actual numbers behind our coverage claim. -->
@@ -70,12 +70,12 @@ const categories = equipmentCategories.map(c => ({
           <span class="text-foreground/70">fix guides</span>
         </div>
         <div class="flex items-baseline gap-1.5">
-          <span class="font-bold text-accent text-xl tabular-nums">30+</span>
-          <span class="text-foreground/70">manufacturers</span>
+          <span class="font-bold text-accent text-xl tabular-nums">40+</span>
+          <span class="text-foreground/70">brands</span>
         </div>
         <div class="flex items-baseline gap-1.5">
-          <span class="font-bold text-accent text-xl tabular-nums">6</span>
-          <span class="text-foreground/70">equipment categories</span>
+          <span class="font-bold text-accent text-xl tabular-nums">{consumerCategories.length}</span>
+          <span class="text-foreground/70">appliance categories</span>
         </div>
         <div class="flex items-baseline gap-1.5">
           <span class="font-bold text-accent text-xl">Free</span>
@@ -197,6 +197,7 @@ const categories = equipmentCategories.map(c => ({
         element: "#pagefind-home",
         showImages: false,
         showSubResults: false,
+        translations: { placeholder: "Enter your error code (e.g. LE, OE, 5E, F21)" },
       });
     });
   }

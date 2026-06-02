@@ -1,9 +1,9 @@
 export const SITE = {
   website: "https://errorcodefixes.com/",
-  author: "Industrial Error Code Fixes",
+  author: "Error Code Fixes",
   profile: "https://errorcodefixes.com/",
-  desc: "Fast troubleshooting guides for HVAC, CNC, refrigeration and commercial equipment.",
-  title: "Industrial Error Code Fixes",
+  desc: "Look up your appliance error code. Get the real cause and the exact OEM part to fix it. Washers, dryers, refrigerators, dishwashers, ranges, furnaces and more.",
+  title: "Error Code Fixes — Appliance Error Codes, DIY Fixes & OEM Parts",
   ogImage: "og-industrial.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
