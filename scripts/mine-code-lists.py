@@ -66,6 +66,28 @@ SEEDS = [
     ("Scotsman", "ice machine error code"), ("True", "refrigeration error code"),
 ]
 
+# Consumer / residential appliances + HVAC — the 2026-06 demand pivot. Mainstream
+# brands homeowners actually search, phrased the way we title + people search.
+# This is the renewable feeder that lets the daily pipeline keep producing
+# consumer content after the initial waves. Idempotent: re-runs dedupe.
+_CONSUMER = {
+    "washer error code": ["Whirlpool", "Samsung", "LG", "Maytag", "GE", "Frigidaire", "Kenmore", "Electrolux", "Bosch", "Speed Queen", "Amana"],
+    "dryer error code": ["Whirlpool", "Samsung", "LG", "Maytag", "GE", "Frigidaire", "Kenmore", "Electrolux", "Amana"],
+    "dishwasher error code": ["Bosch", "Whirlpool", "Samsung", "LG", "KitchenAid", "GE", "Frigidaire", "Maytag", "Kenmore", "Amana"],
+    "refrigerator error code": ["Samsung", "LG", "Whirlpool", "GE", "Frigidaire", "KitchenAid", "Kenmore", "Bosch", "Maytag", "Amana"],
+    "oven error code": ["Samsung", "LG", "Whirlpool", "GE", "Frigidaire", "KitchenAid", "Maytag", "Bosch", "Kenmore", "Amana"],
+    "range error code": ["Samsung", "LG", "Whirlpool", "GE", "Frigidaire", "KitchenAid", "Maytag", "Kenmore"],
+    "microwave error code": ["Samsung", "LG", "GE", "Whirlpool", "Panasonic", "Kenmore"],
+    "furnace error code": ["Carrier", "Goodman", "Lennox", "Trane", "Rheem", "York", "Bryant", "American Standard", "Amana", "Ruud", "Payne"],
+    "mini split error code": ["Mitsubishi", "Daikin", "LG", "Fujitsu", "Senville", "MRCOOL", "Gree", "Pioneer", "Cooper and Hunter"],
+    "heat pump error code": ["Mitsubishi", "Daikin", "Carrier", "Goodman", "Trane", "Bosch", "Rheem"],
+    "tankless water heater error code": ["Rheem", "Navien", "Rinnai", "A.O. Smith", "Bosch", "Noritz", "Takagi", "Ruud", "State"],
+    "water heater error code": ["Rheem", "A.O. Smith", "Bradford White", "GE", "Whirlpool", "State"],
+}
+# dict.fromkeys dedupes exact (brand, equip) tuples (some consumer seeds overlap
+# the original industrial HVAC seeds) so we don't waste Perplexity calls re-mining.
+SEEDS = list(dict.fromkeys(SEEDS + [(brand, equip) for equip, brands in _CONSUMER.items() for brand in brands]))
+
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) ecf-miner/1.0"
 STOP = {"error", "code", "codes", "fault", "alarm", "the", "and"}
 
@@ -112,14 +134,22 @@ def mine(brand: str, equip: str) -> list[str]:
         if "|" not in line:
             continue
         code = line.split("|", 1)[0].strip().strip("`*")
-        # A plausible code: short, contains a digit, not a sentence.
-        if not re.search(r"\d", code) or len(code) > 16 or len(code.split()) > 3:
+        # A plausible code: short, not a sentence, and EITHER contains a digit
+        # (F21, E04) OR is a short all-letter code (OE, LE, FF, HE, dE) which is
+        # common on consumer appliances. The article generator's review gate still
+        # independently verifies each code is real before publish.
+        plausible = bool(re.search(r"\d", code)) or bool(re.fullmatch(r"[A-Za-z]{2,4}", code))
+        if not plausible or len(code) > 16 or len(code.split()) > 3:
             continue
         code = re.sub(r"\s+", " ", code)
-        # Topic phrased the way we title + people search.
+        # Topic phrased the way we title + people search. INCLUDE the appliance /
+        # equipment descriptor (washer, dryer, mini split, furnace) so the topic is
+        # SPECIFIC: a bare "Whirlpool E02" means different things on a washer vs an
+        # oven, which produces ambiguous, low-ranking articles.
         noun = "alarm" if "alarm" in equip else ("fault code" if "fault" in equip else "error code")
-        topic = f"{brand} {code} {noun}".strip()
-        topics.append(re.sub(r"\s+", " ", topic))
+        desc = re.sub(r"\b(error|fault|alarm)\b.*$", "", equip, flags=re.I).strip()
+        topic = re.sub(r"\s+", " ", f"{brand} {desc} {code} {noun}").strip()
+        topics.append(topic)
     return topics
 
 

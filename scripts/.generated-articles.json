@@ -659,6 +659,554 @@
     "yaskawa-ga800-e28-fault-code": {
       "topic": "Yaskawa GA800 E28 fault code",
       "date": "2026-06-01"
+    },
+    "samsung-washer-4c-error-code": {
+      "topic": "Samsung Washer 4C Error Code",
+      "date": "2026-06-01"
+    },
+    "lg-washer-oe-error-code": {
+      "topic": "LG Washer OE Error Code",
+      "date": "2026-06-01"
+    },
+    "whirlpool-dryer-f22-error-code": {
+      "topic": "Whirlpool Dryer F22 Error Code",
+      "date": "2026-06-01"
+    },
+    "whirlpool-washer-f8-e1-error-code": {
+      "topic": "Whirlpool washer F8 E1 error code",
+      "date": "2026-06-01"
+    },
+    "lg-washer-de-error-code": {
+      "topic": "LG washer dE error code",
+      "date": "2026-06-01"
+    },
+    "samsung-range-e-08-error-code": {
+      "topic": "Samsung range E-08 error code",
+      "date": "2026-06-01"
+    },
+    "ge-microwave-f3-error-code": {
+      "topic": "GE microwave F3 error code",
+      "date": "2026-06-01"
+    },
+    "navien-tankless-water-heater-e012-error-code": {
+      "topic": "Navien tankless water heater E012 error code",
+      "date": "2026-06-01"
+    },
+    "american-standard-furnace-4-flashes-error-code": {
+      "topic": "American Standard furnace 4 flashes error code",
+      "date": "2026-06-01"
+    },
+    "whirlpool-dryer-f24-error-code": {
+      "topic": "Whirlpool dryer F24 error code",
+      "date": "2026-06-01"
+    },
+    "lg-refrigerator-cf-error-code": {
+      "topic": "LG refrigerator CF error code",
+      "date": "2026-06-01"
+    },
+    "kitchenaid-dishwasher-f8e4-error-code": {
+      "topic": "KitchenAid dishwasher F8E4 error code",
+      "date": "2026-06-01"
+    },
+    "ge-microwave-f2-error-code": {
+      "topic": "GE microwave F2 error code",
+      "date": "2026-06-01"
+    },
+    "trane-furnace-5-flashes-error-code": {
+      "topic": "Trane Furnace 5 Flashes error code",
+      "date": "2026-06-01"
+    },
+    "ge-dryer-e61-error-code": {
+      "topic": "GE dryer E61 error code",
+      "date": "2026-06-01"
+    },
+    "lennox-furnace-e250-error-code": {
+      "topic": "Lennox furnace E250 error code",
+      "date": "2026-06-01"
+    },
+    "fujitsu-mini-split-e-ee-error-code": {
+      "topic": "Fujitsu mini-split E:EE error code",
+      "date": "2026-06-01"
+    },
+    "honeywell-thermostat-e1-error-code": {
+      "topic": "Honeywell Thermostat E1 error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-dc-error-code": {
+      "topic": "Samsung washer DC error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-5e-error-code": {
+      "topic": "Samsung washer 5E error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-f5-e2-error-code": {
+      "topic": "Maytag washer F5 E2 error code",
+      "date": "2026-06-01"
+    },
+    "lg-washer-ie-error-code": {
+      "topic": "LG washer IE error code",
+      "date": "2026-06-01"
+    },
+    "lg-dryer-te1-error-code": {
+      "topic": "LG dryer tE1 error code",
+      "date": "2026-06-01"
+    },
+    "maytag-washer-f21-error-code": {
+      "topic": "Maytag washer F21 error code",
+      "date": "2026-06-01"
+    },
+    "frigidaire-dryer-e64-error-code": {
+      "topic": "Frigidaire dryer E64 error code",
+      "date": "2026-06-01"
+    },
+    "samsung-refrigerator-22e-error-code": {
+      "topic": "Samsung refrigerator 22E error code",
+      "date": "2026-06-01"
+    },
+    "samsung-refrigerator-39e-error-code": {
+      "topic": "Samsung refrigerator 39E error code",
+      "date": "2026-06-01"
+    },
+    "frigidaire-refrigerator-sy-ef-error-code": {
+      "topic": "Frigidaire refrigerator SY EF error code",
+      "date": "2026-06-01"
+    },
+    "lg-refrigerator-ff-error-code": {
+      "topic": "LG refrigerator FF error code",
+      "date": "2026-06-01"
+    },
+    "samsung-refrigerator-21e-error-code": {
+      "topic": "Samsung refrigerator 21E error code",
+      "date": "2026-06-01"
+    },
+    "bosch-dishwasher-e22-error-code": {
+      "topic": "Bosch dishwasher E22 error code",
+      "date": "2026-06-01"
+    },
+    "bosch-dishwasher-e24-error-code": {
+      "topic": "Bosch dishwasher E24 error code",
+      "date": "2026-06-01"
+    },
+    "lg-dishwasher-oe-error-code": {
+      "topic": "LG dishwasher OE error code",
+      "date": "2026-06-01"
+    },
+    "whirlpool-dishwasher-f9e1-error-code": {
+      "topic": "Whirlpool dishwasher F9E1 error code",
+      "date": "2026-06-01"
+    },
+    "ge-dishwasher-h2o-error-code": {
+      "topic": "GE dishwasher H2O error code",
+      "date": "2026-06-01"
+    },
+    "whirlpool-dishwasher-f8e4-error-code": {
+      "topic": "Whirlpool dishwasher F8E4 error code",
+      "date": "2026-06-01"
+    },
+    "samsung-range-se-error-code": {
+      "topic": "Samsung range SE error code",
+      "date": "2026-06-01"
+    },
+    "lg-oven-f9-error-code": {
+      "topic": "LG oven F9 error code",
+      "date": "2026-06-01"
+    },
+    "whirlpool-oven-f2-e0-error-code": {
+      "topic": "Whirlpool oven F2 E0 error code",
+      "date": "2026-06-01"
+    },
+    "ge-oven-f2-error-code": {
+      "topic": "GE oven F2 error code",
+      "date": "2026-06-01"
+    },
+    "frigidaire-oven-f10-error-code": {
+      "topic": "Frigidaire oven F10 error code",
+      "date": "2026-06-01"
+    },
+    "samsung-microwave-se-error-code": {
+      "topic": "Samsung microwave SE error code",
+      "date": "2026-06-01"
+    },
+    "whirlpool-microwave-f6-error-code": {
+      "topic": "Whirlpool microwave F6 error code",
+      "date": "2026-06-01"
+    },
+    "carrier-furnace-34-error-code": {
+      "topic": "Carrier furnace 34 error code",
+      "date": "2026-06-01"
+    },
+    "carrier-furnace-14-error-code": {
+      "topic": "Carrier furnace 14 error code",
+      "date": "2026-06-01"
+    },
+    "goodman-furnace-1-flash-error-code": {
+      "topic": "Goodman furnace 1 flash error code",
+      "date": "2026-06-01"
+    },
+    "trane-furnace-2-flashes-error-code": {
+      "topic": "Trane furnace 2 flashes error code",
+      "date": "2026-06-01"
+    },
+    "rheem-furnace-2-flashes-error-code": {
+      "topic": "Rheem furnace 2 flashes error code",
+      "date": "2026-06-01"
+    },
+    "york-furnace-7-flashes-error-code": {
+      "topic": "York furnace 7 flashes error code",
+      "date": "2026-06-01"
+    },
+    "goodman-furnace-4-flashes-error-code": {
+      "topic": "Goodman Furnace 4 Flashes error code",
+      "date": "2026-06-01"
+    },
+    "rheem-tankless-water-heater-12-error-code": {
+      "topic": "Rheem tankless water heater 12 error code",
+      "date": "2026-06-01"
+    },
+    "navien-tankless-water-heater-e003-error-code": {
+      "topic": "Navien tankless water heater E003 error code",
+      "date": "2026-06-01"
+    },
+    "rinnai-tankless-water-heater-11-error-code": {
+      "topic": "Rinnai tankless water heater 11 error code",
+      "date": "2026-06-01"
+    },
+    "rinnai-tankless-water-heater-12-error-code": {
+      "topic": "Rinnai tankless water heater 12 error code",
+      "date": "2026-06-01"
+    },
+    "noritz-tankless-water-heater-11-error-code": {
+      "topic": "Noritz tankless water heater 11 error code",
+      "date": "2026-06-01"
+    },
+    "bosch-tankless-water-heater-ea-error-code": {
+      "topic": "Bosch tankless water heater EA error code",
+      "date": "2026-06-01"
+    },
+    "bosch-dishwasher-e15-error-code": {
+      "topic": "Bosch dishwasher E15 error code",
+      "date": "2026-06-01"
+    },
+    "frigidaire-dishwasher-i30-error-code": {
+      "topic": "Frigidaire dishwasher i30 error code",
+      "date": "2026-06-01"
+    },
+    "trane-furnace-4-flashes-error-code": {
+      "topic": "Trane furnace 4 flashes error code",
+      "date": "2026-06-01"
+    },
+    "daikin-mini-split-e7-error-code": {
+      "topic": "Daikin mini-split E7 error code",
+      "date": "2026-06-01"
+    },
+    "mrcool-mini-split-p6-error-code": {
+      "topic": "MRCOOL mini-split P6 error code",
+      "date": "2026-06-01"
+    },
+    "panasonic-microwave-h97-error-code": {
+      "topic": "Panasonic microwave H97 error code",
+      "date": "2026-06-01"
+    },
+    "mitsubishi-mini-split-p8-error-code": {
+      "topic": "Mitsubishi mini-split P8 error code",
+      "date": "2026-06-01"
+    },
+    "gree-mini-split-h6-error-code": {
+      "topic": "Gree mini-split H6 error code",
+      "date": "2026-06-01"
+    },
+    "pioneer-mini-split-p4-error-code": {
+      "topic": "Pioneer mini-split P4 error code",
+      "date": "2026-06-01"
+    },
+    "samsung-washer-1c-error-code": {
+      "topic": "Samsung washer 1C error code",
+      "date": "2026-06-01"
+    },
+    "frigidaire-washer-e20-error-code": {
+      "topic": "Frigidaire washer E20 error code",
+      "date": "2026-06-01"
+    },
+    "frigidaire-washer-e10-error-code": {
+      "topic": "Frigidaire washer E10 error code",
+      "date": "2026-06-01"
+    },
+    "ge-washer-e23-error-code": {
+      "topic": "GE washer E23 error code",
+      "date": "2026-06-01"
+    },
+    "electrolux-washer-e20-error-code": {
+      "topic": "Electrolux washer E20 error code",
+      "date": "2026-06-01"
+    },
+    "ge-dryer-e63-error-code": {
+      "topic": "GE dryer E63 error code",
+      "date": "2026-06-01"
+    },
+    "kenmore-dryer-f22-error-code": {
+      "topic": "Kenmore dryer F22 error code",
+      "date": "2026-06-01"
+    },
+    "whirlpool-dryer-f23-error-code": {
+      "topic": "Whirlpool dryer F23 error code",
+      "date": "2026-06-01"
+    },
+    "electrolux-dryer-e64-error-code": {
+      "topic": "Electrolux dryer E64 error code",
+      "date": "2026-06-01"
+    },
+    "samsung-refrigerator-5e-error-code": {
+      "topic": "Samsung refrigerator 5E error code",
+      "date": "2026-06-01"
+    },
+    "samsung-refrigerator-33e-error-code": {
+      "topic": "Samsung refrigerator 33E error code",
+      "date": "2026-06-01"
+    },
+    "frigidaire-refrigerator-sy-ce-error-code": {
+      "topic": "Frigidaire refrigerator SY CE error code",
+      "date": "2026-06-01"
+    },
+    "lg-refrigerator-if-error-code": {
+      "topic": "LG refrigerator IF error code",
+      "date": "2026-06-01"
+    },
+    "ge-refrigerator-df-error-code": {
+      "topic": "GE refrigerator dF error code",
+      "date": "2026-06-01"
+    },
+    "kenmore-refrigerator-er-ff-error-code": {
+      "topic": "Kenmore refrigerator ER FF error code",
+      "date": "2026-06-01"
+    },
+    "ge-refrigerator-ff-error-code": {
+      "topic": "GE refrigerator FF error code",
+      "date": "2026-06-01"
+    },
+    "kenmore-refrigerator-er-dh-error-code": {
+      "topic": "Kenmore refrigerator ER dH error code",
+      "date": "2026-06-01"
+    },
+    "lg-dishwasher-ie-error-code": {
+      "topic": "LG dishwasher IE error code",
+      "date": "2026-06-01"
+    },
+    "ge-dishwasher-c2-error-code": {
+      "topic": "GE dishwasher C2 error code",
+      "date": "2026-06-01"
+    },
+    "samsung-oven-te-error-code": {
+      "topic": "Samsung oven tE error code",
+      "date": "2026-06-01"
+    },
+    "lg-oven-f19-error-code": {
+      "topic": "LG oven F19 error code",
+      "date": "2026-06-01"
+    },
+    "ge-oven-f3-error-code": {
+      "topic": "GE oven F3 error code",
+      "date": "2026-06-01"
+    },
+    "ge-oven-f7-error-code": {
+      "topic": "GE oven F7 error code",
+      "date": "2026-06-01"
+    },
+    "kenmore-oven-f30-error-code": {
+      "topic": "Kenmore oven F30 error code",
+      "date": "2026-06-01"
+    },
+    "lg-microwave-f-2-error-code": {
+      "topic": "LG microwave F-2 error code",
+      "date": "2026-06-01"
+    },
+    "kenmore-oven-f10-error-code": {
+      "topic": "Kenmore oven F10 error code",
+      "date": "2026-06-01"
+    },
+    "whirlpool-microwave-f5-error-code": {
+      "topic": "Whirlpool microwave F5 error code",
+      "date": "2026-06-01"
+    },
+    "lg-microwave-f-3-error-code": {
+      "topic": "LG microwave F-3 error code",
+      "date": "2026-06-01"
+    },
+    "carrier-furnace-31-error-code": {
+      "topic": "Carrier furnace 31 error code",
+      "date": "2026-06-01"
+    },
+    "kenmore-microwave-f6-error-code": {
+      "topic": "Kenmore microwave F6 error code",
+      "date": "2026-06-01"
+    },
+    "rheem-furnace-3-flashes-error-code": {
+      "topic": "Rheem furnace 3 flashes error code",
+      "date": "2026-06-01"
+    },
+    "american-standard-furnace-2-flashes-error-code": {
+      "topic": "American Standard furnace 2 flashes error code",
+      "date": "2026-06-01"
+    },
+    "mitsubishi-mini-split-p5-error-code": {
+      "topic": "Mitsubishi mini-split P5 error code",
+      "date": "2026-06-01"
+    },
+    "lennox-furnace-e227-error-code": {
+      "topic": "Lennox furnace E227 error code",
+      "date": "2026-06-01"
+    },
+    "mrcool-mini-split-e5-error-code": {
+      "topic": "MRCOOL mini-split E5 error code",
+      "date": "2026-06-01"
+    },
+    "gree-mini-split-f1-error-code": {
+      "topic": "Gree mini-split F1 error code",
+      "date": "2026-06-01"
+    },
+    "carrier-furnace-13-error-code": {
+      "topic": "Carrier Furnace 13 error code",
+      "date": "2026-06-01"
+    },
+    "goodman-furnace-2-flashes-error-code": {
+      "topic": "Goodman Furnace 2 Flashes error code",
+      "date": "2026-06-01"
+    },
+    "nest-thermostat-n260-error-code": {
+      "topic": "Nest Thermostat N260 error code",
+      "date": "2026-06-01"
+    },
+    "rheem-tankless-water-heater-76-error-code": {
+      "topic": "Rheem tankless water heater 76 error code",
+      "date": "2026-06-01"
+    },
+    "rinnai-tankless-water-heater-25-error-code": {
+      "topic": "Rinnai tankless water heater 25 error code",
+      "date": "2026-06-01"
+    },
+    "bosch-tankless-water-heater-e9-error-code": {
+      "topic": "Bosch tankless water heater E9 error code",
+      "date": "2026-06-01"
+    },
+    "a-o-smith-tankless-water-heater-e1-error-code": {
+      "topic": "A.O. Smith tankless water heater E1 error code",
+      "date": "2026-06-01"
+    },
+    "lg-washer-le-error-code": {
+      "topic": "LG washer LE error code",
+      "date": "2026-06-01"
+    },
+    "whirlpool-washer-f7-e1-error-code": {
+      "topic": "Whirlpool washer F7 E1 error code",
+      "date": "2026-06-01"
+    },
+    "a-o-smith-electric-water-heater-e2-error-code": {
+      "topic": "A.O. Smith electric water heater E2 error code",
+      "date": "2026-06-01"
+    },
+    "whirlpool-dryer-f1e1-error-code": {
+      "topic": "Whirlpool dryer F1E1 error code",
+      "date": "2026-06-01"
+    },
+    "frigidaire-dryer-e68-error-code": {
+      "topic": "Frigidaire dryer E68 error code",
+      "date": "2026-06-01"
+    },
+    "samsung-dishwasher-he-error-code": {
+      "topic": "Samsung dishwasher HE error code",
+      "date": "2026-06-01"
+    },
+    "bosch-dishwasher-e09-error-code": {
+      "topic": "Bosch dishwasher E09 error code",
+      "date": "2026-06-01"
+    },
+    "lg-dishwasher-te-error-code": {
+      "topic": "LG dishwasher tE error code",
+      "date": "2026-06-01"
+    },
+    "lg-dishwasher-ae-error-code": {
+      "topic": "LG dishwasher AE error code",
+      "date": "2026-06-01"
+    },
+    "bosch-oven-e011-error-code": {
+      "topic": "Bosch oven E011 error code",
+      "date": "2026-06-01"
+    },
+    "whirlpool-microwave-f7-error-code": {
+      "topic": "Whirlpool microwave F7 error code",
+      "date": "2026-06-01"
+    },
+    "kenmore-dishwasher-f2e2-error-code": {
+      "topic": "Kenmore dishwasher F2E2 error code",
+      "date": "2026-06-01"
+    },
+    "trane-furnace-3-flashes-error-code": {
+      "topic": "Trane furnace 3 flashes error code",
+      "date": "2026-06-01"
+    },
+    "rheem-furnace-4-flashes-error-code": {
+      "topic": "Rheem furnace 4 flashes error code",
+      "date": "2026-06-01"
+    },
+    "mitsubishi-mini-split-u6-error-code": {
+      "topic": "Mitsubishi mini-split U6 error code",
+      "date": "2026-06-01"
+    },
+    "lg-mini-split-ch-26-error-code": {
+      "topic": "LG mini-split CH 26 error code",
+      "date": "2026-06-01"
+    },
+    "daikin-mini-split-a3-error-code": {
+      "topic": "Daikin mini-split A3 error code",
+      "date": "2026-06-01"
+    },
+    "pioneer-mini-split-ec-07-error-code": {
+      "topic": "Pioneer mini-split EC 07 error code",
+      "date": "2026-06-01"
+    },
+    "nest-thermostat-e74-error-code": {
+      "topic": "Nest Thermostat E74 error code",
+      "date": "2026-06-01"
+    },
+    "navien-tankless-water-heater-e109-error-code": {
+      "topic": "Navien tankless water heater E109 error code",
+      "date": "2026-06-01"
+    },
+    "bradford-white-gas-water-heater-5-flashes-error-code": {
+      "topic": "Bradford White gas water heater 5 flashes error code",
+      "date": "2026-06-01"
+    },
+    "whirlpool-microwave-f2-error-code": {
+      "topic": "Whirlpool microwave F2 error code",
+      "date": "2026-06-01"
+    },
+    "lg-microwave-f-5-error-code": {
+      "topic": "LG microwave F-5 error code",
+      "date": "2026-06-01"
+    },
+    "kenmore-microwave-f2-error-code": {
+      "topic": "Kenmore microwave F2 error code",
+      "date": "2026-06-01"
+    },
+    "ge-microwave-f1-error-code": {
+      "topic": "GE microwave F1 error code",
+      "date": "2026-06-01"
+    },
+    "lg-mini-split-ch-05-error-code": {
+      "topic": "LG mini-split CH 05 error code",
+      "date": "2026-06-01"
+    },
+    "lg-mini-split-ch-38-error-code": {
+      "topic": "LG mini-split CH 38 error code",
+      "date": "2026-06-01"
+    },
+    "lg-microwave-f-11-error-code": {
+      "topic": "LG microwave F-11 error code",
+      "date": "2026-06-01"
+    },
+    "bradford-white-gas-water-heater-3-flashes-error-code": {
+      "topic": "Bradford White gas water heater 3 flashes error code",
+      "date": "2026-06-01"
     }
   }
 }

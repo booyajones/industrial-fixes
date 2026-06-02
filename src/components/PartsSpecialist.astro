@@ -40,6 +40,10 @@ const GRAINGER: Specialist = {
   name: "Grainger",
   url: q => `https://www.grainger.com/search?searchQuery=${encodeURIComponent(q)}`,
 };
+const PART_SELECT: Specialist = {
+  name: "PartSelect",
+  url: q => `https://www.partselect.com/Search.aspx?SearchTerm=${encodeURIComponent(q)}`,
+};
 
 // Category -> specialist(s). Chosen by the FIRST tag (case-insensitive) that
 // matches a rule below. Broad categories (HVAC etc.) get a second specialist
@@ -50,6 +54,10 @@ interface Rule {
 }
 
 const RULES: Rule[] = [
+  // Residential kitchen/laundry appliances: RepairClinic + PartSelect are the
+  // consumer appliance-parts leaders (both monetized by Skimlinks). Checked first
+  // so a washer/dryer/fridge routes to consumer parts, not HVAC/industrial.
+  { match: ["washer", "dryer", "dishwasher", "refrigerator", "oven", "range", "cooktop", "microwave", "appliance"], specialists: [REPAIR_CLINIC, PART_SELECT] },
   // Commercial refrigeration / ice machines: Parts Town is the OEM-parts leader,
   // RepairClinic as a broad-coverage backup. (Checked before HVAC so an article
   // tagged both "commercial-refrigeration" + "refrigeration" routes correctly.)
@@ -58,8 +66,8 @@ const RULES: Rule[] = [
   { match: ["boiler", "water-heater", "tankless", "plumbing"], specialists: [SUPPLY_HOUSE, REPAIR_CLINIC] },
   // Industrial controls / drives / compressors: Grainger.
   { match: ["vfd", "cnc", "plc", "industrial-controls", "compressor", "drive", "inverter"], specialists: [GRAINGER] },
-  // HVAC / appliance family: RepairClinic primary + SupplyHouse for HVAC parts.
-  { match: ["hvac", "furnace", "heat-pump", "mini-split", "refrigeration", "ac", "thermostat", "appliance"], specialists: [REPAIR_CLINIC, SUPPLY_HOUSE] },
+  // HVAC family: RepairClinic primary + SupplyHouse for HVAC parts.
+  { match: ["hvac", "furnace", "heat-pump", "mini-split", "refrigeration", "ac", "thermostat"], specialists: [REPAIR_CLINIC, SUPPLY_HOUSE] },
 ];
 
 const lowerTags = tags.map(t => t.toLowerCase());

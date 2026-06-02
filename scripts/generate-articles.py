@@ -36,8 +36,10 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import random
 import re
 import sys
+import time
 import urllib.request
 import urllib.error
 from datetime import date, datetime, timezone
@@ -59,6 +61,33 @@ UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) ecf-gen/1.0"
 # repair-guide topic and away from generic queries.
 CODE_RE = re.compile(r"\b([a-z]{1,4}\s?-?\s?\d{1,4}[a-z]?)\b", re.I)
 INTENT_RE = re.compile(r"error|code|fault|fxxx|e\d|f\d|flash|blink|lockout|alarm|trouble", re.I)
+
+
+def _post_json(url: str, headers: dict, payload: dict, timeout: int, retries: int = 6) -> dict:
+    """POST JSON with exponential backoff on rate-limit (429), overload (529),
+    and transient 5xx/network errors. Raises the last error if all retries fail.
+    This is what lets the parallel batch runner use real concurrency without
+    losing articles to momentary 'concurrent connections exceeded' 429s."""
+    data = json.dumps(payload).encode()
+    last_err: Exception | None = None
+    for attempt in range(retries):
+        try:
+            req = urllib.request.Request(url, data=data, method="POST", headers=headers)
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                return json.load(r)
+        except urllib.error.HTTPError as e:
+            last_err = e
+            if e.code in (429, 500, 502, 503, 529):
+                if attempt < retries - 1:  # don't sleep after the final attempt
+                    time.sleep(min(2 ** attempt + random.random(), 45))
+                continue
+            raise
+        except Exception as e:  # timeouts, connection resets
+            last_err = e
+            if attempt < retries - 1:
+                time.sleep(min(2 ** attempt + random.random(), 45))
+            continue
+    raise last_err if last_err else RuntimeError("post failed")
 
 
 # ----------------------------------------------------------------------------- #
@@ -276,11 +305,9 @@ def perplexity_research(topic: str) -> str:
         "max_tokens": 900,
     }
     try:
-        req = urllib.request.Request("https://api.perplexity.ai/chat/completions",
-            data=json.dumps(body).encode(), method="POST",
-            headers={"Authorization": f"Bearer {PERPLEXITY_KEY}", "Content-Type": "application/json"})
-        with urllib.request.urlopen(req, timeout=60) as r:
-            d = json.load(r)
+        d = _post_json("https://api.perplexity.ai/chat/completions",
+            {"Authorization": f"Bearer {PERPLEXITY_KEY}", "Content-Type": "application/json"},
+            body, 60)
         return d["choices"][0]["message"]["content"]
     except Exception as e:
         print(f"    [perplexity] {e}")
@@ -306,7 +333,11 @@ def claude_write(topic: str, research: str) -> dict | None:
         "ensure, crucial, vital, leverage, robust, seamless. Write like a working technician, "
         "concrete and calm. Only state specific numeric specs or part numbers that appear in the "
         "research below; if the research does not give a number, stay general (say 'consult your "
-        "model's table') rather than inventing one. 4-6 causes, 5-7 steps, 2-4 parts."
+        "model's table') rather than inventing one. 4-6 causes, 5-7 steps, 2-4 parts. "
+        "The description field must be an ANSWER-FIRST TL;DR a homeowner can act on: state what "
+        "the code means and the single most likely fix in plain words, 120-155 chars. For "
+        "residential kitchen and laundry appliances (washer, dryer, dishwasher, refrigerator, "
+        "range, oven, cooktop, microwave) set equipment_category to \"appliance\"."
     )
     prompt = (
         f"Write a repair guide for: \"{topic}\".\n\n"
@@ -320,12 +351,9 @@ def claude_write(topic: str, research: str) -> dict | None:
         "messages": [{"role": "user", "content": prompt}],
     }
     try:
-        req = urllib.request.Request("https://api.anthropic.com/v1/messages",
-            data=json.dumps(body).encode(), method="POST",
-            headers={"x-api-key": ANTHROPIC_KEY, "anthropic-version": "2023-06-01",
-                     "Content-Type": "application/json"})
-        with urllib.request.urlopen(req, timeout=120) as r:
-            d = json.load(r)
+        d = _post_json("https://api.anthropic.com/v1/messages",
+            {"x-api-key": ANTHROPIC_KEY, "anthropic-version": "2023-06-01",
+             "Content-Type": "application/json"}, body, 120)
         text = "".join(b.get("text", "") for b in d.get("content", []))
         m = re.search(r"\{.*\}", text, re.DOTALL)
         if not m:
@@ -358,12 +386,9 @@ def claude_review(topic: str, content: dict, research: str) -> dict:
     body = {"model": "claude-sonnet-4-5-20250929", "max_tokens": 300,
             "messages": [{"role": "user", "content": prompt}]}
     try:
-        req = urllib.request.Request("https://api.anthropic.com/v1/messages",
-            data=json.dumps(body).encode(), method="POST",
-            headers={"x-api-key": ANTHROPIC_KEY, "anthropic-version": "2023-06-01",
-                     "Content-Type": "application/json"})
-        with urllib.request.urlopen(req, timeout=60) as r:
-            d = json.load(r)
+        d = _post_json("https://api.anthropic.com/v1/messages",
+            {"x-api-key": ANTHROPIC_KEY, "anthropic-version": "2023-06-01",
+             "Content-Type": "application/json"}, body, 60)
         text = "".join(b.get("text", "") for b in d.get("content", []))
         m = re.search(r"\{.*\}", text, re.DOTALL)
         return json.loads(m.group(0)) if m else {"score": 0, "publish": False, "reason": "unparseable"}
@@ -380,7 +405,29 @@ def assemble_md(topic: str, c: dict, slug: str, draft: bool = False) -> str:
     author = AUTHORS[abs(hash(slug)) % len(AUTHORS)]
     cat = c.get("equipment_category", "other")
     brand = c.get("brand_slug", "").strip()
-    tags = [t for t in [cat if cat != "other" else None, brand or None] if t]
+    # Derive a precise equipment tag from the topic so triage difficulty and the
+    # parts-specialist routing are correct (washer/dryer/.../furnace/water-heater).
+    equip_tag = None
+    tl = topic.lower()
+    for pat, tag in (
+        (r"\bdryer\b", "dryer"), (r"washing machine|\bwasher", "washer"),
+        (r"\bdishwasher", "dishwasher"), (r"refrigerator|\bfridge|freezer", "refrigerator"),
+        (r"microwave", "microwave"), (r"\b(range|oven|stove|cooktop)\b", "oven"),
+        (r"\bfurnace", "furnace"), (r"mini.?split|heat pump", "mini-split"),
+        (r"tankless|water heater", "water-heater"),
+    ):
+        if re.search(pat, tl):
+            equip_tag = tag
+            break
+    tags = []
+    for t in [cat if cat != "other" else None, equip_tag, brand or None]:
+        if t and t not in tags:
+            tags.append(t)
+    # Gas combustion safety: if the topic involves gas, force a "gas" tag so triage
+    # escalates to "Pro recommended" (PRO_TAGS includes "gas"), regardless of the
+    # appliance DIY mapping. Gas valve/igniter/burner work is not a DIY default.
+    if re.search(r"\bgas\b", tl) and "gas" not in tags:
+        tags.append("gas")
     # Backdate pubDatetime by 2 days. postFilter.ts drops posts whose pubDatetime
     # is in the future; this host has a clock/timezone skew, so a "now" stamp can
     # look future-dated at build and get filtered out. 48h past is bulletproof and

@@ -76,6 +76,22 @@ const INTERMEDIATE_DIY_TAGS = new Set([
   "capacitor",
 ]);
 
+// Residential kitchen/laundry appliances: approachable DIY part swaps (inlet
+// valve, drain pump, heating element, door switch, thermistor, evap fan motor).
+// Sealed-system / refrigerant / compressor work stays "Pro recommended" via
+// PRO_TAGS above, which is checked first.
+const APPLIANCE_DIY_TAGS = new Set([
+  "appliance",
+  "washer",
+  "dryer",
+  "dishwasher",
+  "oven",
+  "range",
+  "cooktop",
+  "microwave",
+  "refrigerator",
+]);
+
 // Tool kits by category. Keep them short, generic, and safe. A multimeter is
 // always present for anything electrical. Each kit is an ordered list of tool
 // names; the UI decides which entries are buyable (linkable) vs. plain text.
@@ -83,6 +99,7 @@ const TOOLS_REFRIGERATION = ["Thermometer", "multimeter", "gauges", "PPE"] as co
 const TOOLS_GAS = ["Multimeter", "manometer", "combustion analyzer", "PPE"] as const;
 const TOOLS_INDUSTRIAL = ["Multimeter", "service manual", "ESD strap"] as const;
 const TOOLS_HVAC = ["Multimeter", "screwdrivers", "PPE"] as const;
+const TOOLS_APPLIANCE = ["Multimeter", "nut driver", "screwdrivers"] as const;
 
 /**
  * Resolve a triage card from a post's tags.
@@ -114,7 +131,16 @@ export function getTriage(tags?: readonly string[]): Triage {
     return { difficulty: "Advanced", time: "1-3 hrs", tools: TOOLS_INDUSTRIAL };
   }
 
-  // Approachable HVAC/appliance work -> Intermediate (DIY).
+  // Residential appliance part swap -> Intermediate (DIY), appliance tool kit.
+  if (has(APPLIANCE_DIY_TAGS)) {
+    return {
+      difficulty: "Intermediate (DIY)",
+      time: "15-60 min",
+      tools: TOOLS_APPLIANCE,
+    };
+  }
+
+  // Approachable HVAC work -> Intermediate (DIY).
   if (has(INTERMEDIATE_DIY_TAGS)) {
     return {
       difficulty: "Intermediate (DIY)",
