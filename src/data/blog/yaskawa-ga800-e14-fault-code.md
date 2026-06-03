@@ -46,3 +46,10 @@ Yaskawa's standard procedure for any GA800 fault is to identify the exact code s
 ## When to Call a Pro
 
 Call a qualified drive technician or contact Yaskawa Technical Support if you cannot locate E14 in your GA800 manual, if the fault persists after following the manual's corrective steps, or if you need help identifying the correct drive model and fault table. Yaskawa's maintenance documentation states that repair guidance beyond fan and control board replacement is limited and recommends professional support for undefined or recurring faults.
+
+## See Also
+
+- [Yaskawa V1000 OC Fault — Overcurrent](/posts/yaskawa-v1000-fault-oc/)
+- [Yaskawa GA800 E08 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e08-fault-code/)
+- [Yaskawa GA800 E09 Fault - Causes & Fix](/posts/yaskawa-ga800-e09-fault-code/)
+- [Yaskawa VFD Fault Codes — Complete Reference (V1000, A1000, GA700)](/posts/yaskawa-vfd-fault-codes/)

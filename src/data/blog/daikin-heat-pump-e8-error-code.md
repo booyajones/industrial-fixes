@@ -51,3 +51,10 @@ In practical terms, something is causing the compressor motor to pull excessive 
 ## When to Call a Pro
 
 E8 is a serious fault that involves high-voltage inverter circuits, compressor diagnostics, and refrigerant system work. If you are not a licensed HVAC technician with inverter drive experience, call a Daikin-trained professional. Misdiagnosis can lead to expensive part replacement without solving the problem, and working on energized inverter boards or compressors without proper tools and safety procedures is dangerous. A qualified tech will have the correct service literature, electrical test equipment, and refrigerant gauges to pinpoint the cause and perform the repair safely and correctly.
+
+## See Also
+
+- [Daikin A1 Error Code - Causes & Fix](/posts/daikin-mini-split-a1-error-code/)
+- [Daikin E05 Error Code - Causes & Fix](/posts/daikin-mini-split-e05-error-code/)
+- [Daikin U2 Error Code - Causes & Fix](/posts/daikin-heat-pump-u2-error-code/)
+- [Daikin A3 Error Code - Causes & Fix](/posts/daikin-mini-split-a3-error-code/)

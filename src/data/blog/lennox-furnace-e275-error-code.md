@@ -48,3 +48,10 @@ This is a flame-proving and ignition-sequence fault. The control expects flame t
 ## When to Call a Pro
 
 Call a qualified HVAC technician for E275 if you are not trained in gas appliance service. This code involves flame sensing and gas valve operation, both of which require proper test equipment and knowledge of combustion safety. A leaking gas valve or faulty flame sensor can create unsafe conditions. A technician will perform leak checks, measure flame signal, verify ignition sequence, and replace the gas valve or other components as needed. If the code repeats after initial repair or if you smell gas at any time, shut off the gas supply and call for service immediately.
+
+## See Also
+
+- [Lennox Error Code 411 — Ignition Proving Fault Fix](/posts/lennox-error-code-411/)
+- [Lennox Error Code 412 — Limit Switch Fault Fix](/posts/lennox-error-code-412/)
+- [Lennox G60UHV Furnace Error Codes — Flash Code Diagnostic Guide](/posts/lennox-g60uhv-error-codes/)
+- [Lennox Error Code 240 — Ignitor Failed Fix](/posts/lennox-error-code-240/)

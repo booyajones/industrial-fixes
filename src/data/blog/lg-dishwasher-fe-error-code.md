@@ -48,3 +48,10 @@ The FE code is an overfill error. The dishwasher sensed too much water in the tu
 ## When to Call a Pro
 
 If the valve closes properly and suds are ruled out but FE keeps coming back, the level sensor or control board needs testing. Because FE is a water-overflow code, do not keep running the unit. Have it checked before you risk cabinet or floor damage.
+
+## See Also
+
+- [LG Mini Split CH93 Error Code - Causes & Fix](/posts/lg-mini-split-ch93-error-code/)
+- [LG Mini-Split CH38 Error Code — Causes & Fix](/posts/lg-mini-split-ch38-error-code/)
+- [LG Refrigerator FS Error Code - Causes & Fix](/posts/lg-refrigerator-fs-error-code/)
+- [LG Mini-Split CH38 Error Code - Causes & Fix](/posts/lg-mini-split-ch-38-error-code/)

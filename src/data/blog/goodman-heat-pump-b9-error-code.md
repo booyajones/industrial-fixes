@@ -50,3 +50,10 @@ In most cases, the root cause is something blocking airflow or pressure: clogged
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with 24 V control circuits, testing continuity, or interpreting your model's service manual. If you have cleared all venting and drainage blockages, verified the inducer runs at full speed, confirmed the hose is intact, and the B9 code still appears, a technician with a manometer and wiring diagrams can pinpoint whether the issue is the switch, the control board, or a wiring fault. Professional diagnosis is also the safest choice if you smell gas, see active water leaks, or hear unusual mechanical sounds from the inducer.
+
+## See Also
+
+- [Amana / Goodman Furnace 3 Flash Error Code — Causes & Fix](/posts/goodman-amana-furnace-3-flash/)
+- [Goodman Heat Pump E15 Error Code - Causes & Fix](/posts/goodman-heat-pump-e15-error-code/)
+- [Goodman E9 Error Code - Causes & Fix](/posts/goodman-heat-pump-e9-error-code/)
+- [Goodman GSX13 Air Conditioner Error Codes — Fault Code Diagnostic Guide](/posts/goodman-gsx13-error-codes/)

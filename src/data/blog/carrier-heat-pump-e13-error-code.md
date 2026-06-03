@@ -49,3 +49,10 @@ The E13 error code on Carrier heat pumps is not universal across all models. On 
 ## When to Call a Pro
 
 Call a licensed HVAC technician if E13 returns after you have cleared obstructions and verified the outdoor fan runs, or if you are unable to confirm the exact meaning of E13 for your model. Communication faults and high-pressure diagnostics require metering, pressure gauges, and access to Carrier service literature. A technician will use manifold gauges to check actual refrigerant pressures, test board voltages and communication signals, and replace only the component that has failed after isolating the fault. Do not attempt refrigerant work or control-board replacement without proper training and EPA certification.
+
+## See Also
+
+- [Carrier Error Code 24 — Secondary Voltage Fuse Open](/posts/carrier-24-soft-lockout/)
+- [Carrier 14 Error Code — Causes & Fix](/posts/carrier-14-error-code/)
+- [Carrier E21 Error Code - Causes & Fix](/posts/carrier-heat-pump-e21-error-code/)
+- [Carrier 58MVB Furnace Error Codes — Variable-Speed Furnace Fault Guide](/posts/carrier-58mvb-error-codes/)

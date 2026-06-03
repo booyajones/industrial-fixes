@@ -50,3 +50,10 @@ Because E17 is not documented in Carrier's own fault code lists, you should veri
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you cannot locate E17 in your owner's manual or service documentation, if you are uncomfortable working with line voltage or control wiring, or if basic connector and power checks do not clear the fault. Communication faults require methodical testing with a multimeter and sometimes specialized diagnostic tools to isolate whether the problem lies in the harness, the indoor board, or the outdoor board. A technician can also confirm whether your system uses a different fault code scheme and provide the correct repair path for your specific Carrier model.
+
+## See Also
+
+- [Carrier VRF System Error Codes Guide](/posts/carrier-vrf-error-codes/)
+- [Carrier Error Code 31 - Causes & Fix](/posts/carrier-furnace-31-error-code/)
+- [Carrier Error Code 29 - Causes & Fix](/posts/carrier-error-code-29/)
+- [Carrier Comfort 24ACC4 AC Error Codes - Full Flash Code Guide](/posts/carrier-comfort-24acc4-error-codes/)

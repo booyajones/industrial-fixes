@@ -48,3 +48,10 @@ The alarm typically appears when the drive cannot communicate with the option mo
 ## When to Call a Pro
 
 Call a qualified VFD technician or Danfoss-authorized service provider if reseating the option module and inspecting connectors does not clear ALARM 35, if you do not have a spare option card for substitution testing, or if the alarm returns immediately after each power cycle. Also seek professional help if you are not trained in lockout/tagout procedures or working inside energized VFD enclosures, or if the drive shows additional alarms or erratic behavior that suggests damage to the control board or internal data bus.
+
+## See Also
+
+- [Danfoss FC302 Alarm AL 29 — Causes & Fix](/posts/danfoss-fc302-fault-al-29/)
+- [Danfoss FC302 ALARM 28 - Causes & Fix](/posts/danfoss-fc302-alarm-28-fault-code/)
+- [Danfoss VLT Alarm 14 - Earth Fault: What It Means and How to Fix It](/posts/danfoss-vlt-alarm-14/)
+- [Danfoss FC302 Alarm 25 - Causes & Fix](/posts/danfoss-fc302-alarm-25-fault-code/)

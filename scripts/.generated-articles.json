@@ -2459,6 +2459,90 @@
     "siemens-g120-vfd-f01662-fault-code": {
       "topic": "Siemens G120 VFD F01662 fault code",
       "date": "2026-06-02"
+    },
+    "siemens-g120-vfd-f03505-fault-code": {
+      "topic": "Siemens G120 VFD F03505 fault code",
+      "date": "2026-06-03"
+    },
+    "siemens-g120-vfd-a03520-fault-code": {
+      "topic": "Siemens G120 VFD A03520 fault code",
+      "date": "2026-06-03"
+    },
+    "siemens-g120-vfd-a05000-fault-code": {
+      "topic": "Siemens G120 VFD A05000 fault code",
+      "date": "2026-06-03"
+    },
+    "siemens-g120-vfd-a05001-fault-code": {
+      "topic": "Siemens G120 VFD A05001 fault code",
+      "date": "2026-06-03"
+    },
+    "siemens-g120-vfd-a05004-fault-code": {
+      "topic": "Siemens G120 VFD A05004 fault code",
+      "date": "2026-06-03"
+    },
+    "siemens-g120-vfd-a05006-fault-code": {
+      "topic": "Siemens G120 VFD A05006 fault code",
+      "date": "2026-06-03"
+    },
+    "siemens-g120-vfd-f30002-fault-code": {
+      "topic": "Siemens G120 VFD F30002 fault code",
+      "date": "2026-06-03"
+    },
+    "siemens-g120-vfd-f0003-fault-code": {
+      "topic": "Siemens G120 VFD F0003 fault code",
+      "date": "2026-06-03"
+    },
+    "siemens-g120-vfd-f0004-fault-code": {
+      "topic": "Siemens G120 VFD F0004 fault code",
+      "date": "2026-06-03"
+    },
+    "siemens-g120-vfd-f0006-fault-code": {
+      "topic": "Siemens G120 VFD F0006 fault code",
+      "date": "2026-06-03"
+    },
+    "siemens-g120-vfd-f0015-fault-code": {
+      "topic": "Siemens G120 VFD F0015 fault code",
+      "date": "2026-06-03"
+    },
+    "siemens-micromaster-vfd-f0001-fault-code": {
+      "topic": "Siemens Micromaster VFD F0001 fault code",
+      "date": "2026-06-03"
+    },
+    "siemens-micromaster-vfd-f0002-fault-code": {
+      "topic": "Siemens Micromaster VFD F0002 fault code",
+      "date": "2026-06-03"
+    },
+    "siemens-micromaster-vfd-f0003-fault-code": {
+      "topic": "Siemens Micromaster VFD F0003 fault code",
+      "date": "2026-06-03"
+    },
+    "siemens-micromaster-vfd-f0004-fault-code": {
+      "topic": "Siemens Micromaster VFD F0004 fault code",
+      "date": "2026-06-03"
+    },
+    "siemens-micromaster-vfd-f0005-fault-code": {
+      "topic": "Siemens Micromaster VFD F0005 fault code",
+      "date": "2026-06-03"
+    },
+    "siemens-micromaster-vfd-f0011-fault-code": {
+      "topic": "Siemens Micromaster VFD F0011 fault code",
+      "date": "2026-06-03"
+    },
+    "siemens-micromaster-vfd-f0015-fault-code": {
+      "topic": "Siemens Micromaster VFD F0015 fault code",
+      "date": "2026-06-03"
+    },
+    "siemens-micromaster-vfd-f0022-fault-code": {
+      "topic": "Siemens Micromaster VFD F0022 fault code",
+      "date": "2026-06-03"
+    },
+    "siemens-micromaster-vfd-f0023-fault-code": {
+      "topic": "Siemens Micromaster VFD F0023 fault code",
+      "date": "2026-06-03"
+    },
+    "siemens-micromaster-vfd-f0024-fault-code": {
+      "topic": "Siemens Micromaster VFD F0024 fault code",
+      "date": "2026-06-03"
     }
   }
 }

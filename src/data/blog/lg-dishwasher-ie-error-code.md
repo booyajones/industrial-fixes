@@ -46,3 +46,10 @@ The IE error code on your LG dishwasher signals that the machine did not reach t
 ## When to Call a Pro
 
 If you have verified the water supply is fully open, the hose is clear, and the inlet screen is clean but the IE code persists, the inlet valve itself has likely failed and will need replacement. A qualified appliance technician can safely test the valve electrically, confirm proper installation of a new valve, and check for less common issues such as damaged wiring harnesses or control-board faults. Call a pro if you are not comfortable working with water connections under pressure or if the error returns after you have completed all basic checks.
+
+## See Also
+
+- [LG Mini-Split CH26 Error Code — CT Sensor Fault](/posts/lg-mini-split-ch26-error-code/)
+- [LG Refrigerator C1 Error Code - Causes & Fix](/posts/lg-refrigerator-c1-error-code/)
+- [LG Mini Split CH93 Error Code - Causes & Fix](/posts/lg-mini-split-ch93-error-code/)
+- [LG Dishwasher bE Error Code - Causes & Fix](/posts/lg-dishwasher-be-error-code/)

@@ -48,3 +48,10 @@ The system test detects that the indoor side cannot move enough air for the sele
 ## When to Call a Pro
 
 Call a licensed HVAC technician immediately for D2 faults. This code requires access to the commissioning menu, manufacturer matched-system data, and static pressure measurement tools that homeowners do not typically have. Incorrect trim settings or mismatched equipment can damage the compressor or void warranties. A technician will verify the indoor and outdoor units are correctly paired, adjust airflow parameters to match the installed system, and measure static pressure to rule out duct problems. If the equipment is mismatched, the technician can recommend the correct indoor unit or outdoor unit replacement to achieve a stable, efficient system.
+
+## See Also
+
+- [Amana / Goodman Furnace 3 Flash Error Code — Causes & Fix](/posts/goodman-amana-furnace-3-flash/)
+- [Goodman GMSS96 Furnace Error Codes — Flash Code Diagnostic Guide](/posts/goodman-gmss96-error-codes/)
+- [Goodman E8 Error Code - Causes & Fix](/posts/goodman-heat-pump-e8-error-code/)
+- [Goodman Heat Pump E2 Error Code - Causes & Fix](/posts/goodman-heat-pump-e2-error-code/)

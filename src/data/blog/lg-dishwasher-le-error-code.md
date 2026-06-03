@@ -48,3 +48,10 @@ The LE code is a locked motor error on the water circulation pump. The pump moto
 ## When to Call a Pro
 
 If the impeller spins freely and the wiring is solid but LE keeps returning, the pump motor or the control board has likely failed. A technician can read the motor winding resistance and confirm which part to replace before you order.
+
+## See Also
+
+- [LG Range F8 Error Code - Causes & Fix](/posts/lg-range-f8-error-code/)
+- [LG Range SE Error Code - Causes & Fix](/posts/lg-range-se-error-code/)
+- [LG Mini Split Error Codes — All CH Codes Explained](/posts/lg-mini-split-error-codes/)
+- [LG Dishwasher Error IE — Water Inlet Fix](/posts/lg-dishwasher-error-ie/)

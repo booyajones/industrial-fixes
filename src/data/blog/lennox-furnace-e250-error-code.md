@@ -48,3 +48,10 @@ E250 on a Lennox furnace means the limit switch circuit is open. The furnace con
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you have checked the filter and airflow and the code persists, if you are not comfortable working with line voltage (120 VAC) or gas systems, or if you need to test the limit switch or blower circuit with a multimeter. A technician can verify proper firing rate, diagnose control board or blower module faults, and safely replace wiring or components in the limit safety circuit.
+
+## See Also
+
+- [Lennox E205 Error Code - Causes & Fix](/posts/lennox-furnace-e205-error-code/)
+- [Lennox iComfort Error Code 225 — Communication Fault Fix Guide](/posts/lennox-icomfort-error-code-225/)
+- [Lennox Error Code 540 — Communicating System Fault (Detailed Guide)](/posts/lennox-error-code-540-communicating/)
+- [Lennox Error Code 270 — Flame Signal Lost Fix](/posts/lennox-error-code-270/)

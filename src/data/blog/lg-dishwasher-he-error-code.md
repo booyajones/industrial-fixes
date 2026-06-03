@@ -48,3 +48,10 @@ The HE code is a heater error. The control board expected the water to warm up d
 ## When to Call a Pro
 
 If the heating element tests good and you still get HE, the issue is likely the thermistor or the control board not sending voltage to the heater. A technician can check for 120V at the heater terminals to pinpoint the failed part.
+
+## See Also
+
+- [LG Refrigerator EIU Error Code - Causes & Fix](/posts/lg-refrigerator-eiu-error-code/)
+- [LG Mini-Split CH21 Error Code — Outdoor Unit High Pressure](/posts/lg-mini-split-ch21-error-code/)
+- [LG Microwave F11 Error Code - Causes & Fix](/posts/lg-microwave-f11-error-code/)
+- [LG Mini Split CH47 Error - Causes & Fix](/posts/lg-mini-split-ch47-error-code/)

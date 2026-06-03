@@ -47,3 +47,10 @@ The error appears on the display panel when the sensor circuit reads as shorted,
 ## When to Call a Pro
 
 Call a licensed technician if you are not comfortable working with live gas appliances, if the thermistor and wiring both test good but the error persists (indicating a control board fault), or if the error returns immediately after replacing the sensor. A qualified service tech can perform board-level diagnostics, verify proper thermistor resistance values against your model's specification table, and safely handle any gas or venting issues discovered during the repair. If your unit is still under warranty, professional service may be required to preserve coverage.
+
+## See Also
+
+- [Navien E038 Error Code - Causes & Fix](/posts/navien-tankless-e038-error-code/)
+- [Navien E007 Error Code - Causes & Fix](/posts/navien-tankless-e007-error-code/)
+- [Navien E001 Error Code - Causes & Fix](/posts/navien-tankless-e001-error-code/)
+- [Navien Tankless Water Heater Error Codes — Complete Guide](/posts/navien-error-codes/)

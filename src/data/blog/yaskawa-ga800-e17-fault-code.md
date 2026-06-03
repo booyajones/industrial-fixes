@@ -47,3 +47,10 @@ Yaskawa documentation instructs technicians to identify the fault from the drive
 ## When to Call a Pro
 
 Call a qualified drive technician or contact Yaskawa technical support if you cannot verify the fault code in your manual, if the code persists after power cycling and inspection, or if you are not trained in VFD diagnostics. The GA800 maintenance guide limits field repair to fan and control board replacement only, and attempting other repairs voids warranties and creates shock hazards. A professional can access Yaskawa's full fault database, retrieve detailed alarm logs, and identify custom or communication-related codes that do not appear in standard documentation.
+
+## See Also
+
+- [Yaskawa VFD Fault OH — Causes & Fix](/posts/yaskawa-vfd-fault-oh/)
+- [Yaskawa GA800 E04 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e04-fault-code/)
+- [Yaskawa VFD Fault LF — Causes & Fix](/posts/yaskawa-vfd-fault-lf/)
+- [Yaskawa VFD Fault OV — DC Bus Overvoltage Fix](/posts/yaskawa-vfd-fault-ov/)

@@ -50,3 +50,10 @@ When E7 appears, the system shuts down to protect itself because the outdoor fan
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you are not comfortable working with line-voltage wiring, if you cannot safely access the outdoor unit, or if basic inspection reveals no obvious blockage or wiring damage. Fan motor testing requires a multimeter and knowledge of brushless DC motor diagnostics, and PCB-level troubleshooting involves manufacturer test procedures and specialized tools. A professional has access to Daikin service manuals, can perform live voltage and current measurements on the driver circuit, and will make sure the replacement motor or board is programmed and configured correctly for your specific heat pump model. If the unit is under warranty, always contact an authorized Daikin service provider to avoid voiding coverage.
+
+## See Also
+
+- [Daikin U7 Error Code - Causes & Fix](/posts/daikin-u7-error-code/)
+- [Daikin H6 Error Code — Indoor Fan Motor Lock Fault Fix](/posts/daikin-h6-error-code/)
+- [Daikin U2 Error Code - Causes & Fix](/posts/daikin-heat-pump-u2-error-code/)
+- [Daikin E05 Error Code - Causes & Fix](/posts/daikin-mini-split-e05-error-code/)

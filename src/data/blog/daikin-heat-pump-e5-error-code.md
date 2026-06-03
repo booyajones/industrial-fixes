@@ -49,3 +49,10 @@ This is a protection fault, not a simple sensor reading. It means the outdoor un
 ## When to Call a Pro
 
 Call a licensed HVAC technician for E5 faults. This code involves high-voltage inverter circuits, refrigerant system diagnostics, and compressor testing that require specialized tools and EPA certification. Misdiagnosis can lead to expensive part replacements that don't fix the root cause. A qualified technician will use the model-specific service manual to measure compressor winding resistance, inverter output voltages, and system pressures to pinpoint whether the compressor, inverter board, or a secondary cause is at fault. Compressor replacement also requires refrigerant recovery, vacuum procedures, and proper charging, all of which are regulated and best handled by a professional.
+
+## See Also
+
+- [Daikin A6 Error Code - Causes & Fix](/posts/daikin-mini-split-a6-error-code/)
+- [Daikin A6 Error Code — Indoor Fan Motor Fix](/posts/daikin-error-code-a6/)
+- [Daikin U9 Error Code — Causes & Fix](/posts/daikin-u9-error-code/)
+- [Daikin L5 Error Code — Compressor Lock Fault](/posts/daikin-l5-error-code/)

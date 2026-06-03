@@ -50,3 +50,10 @@ Because Mitsubishi uses model-specific error code definitions, you should verify
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you cannot access the drain pan safely, if the drain pump replacement requires refrigerant line work or disassembly of sealed components, or if the E9 code persists after you have cleared the drain and verified pump operation. Because Mitsubishi uses model-specific error code definitions, a technician with access to the correct service documentation can confirm whether your unit's E9 code maps to a drain fault or a different system protection issue. Professional help is also necessary if the fault involves control board diagnostics, refrigerant circuit concerns, or if your unit is still under warranty and requires authorized service to preserve coverage.
+
+## See Also
+
+- [Mitsubishi PB Error Code - Causes & Fix](/posts/mitsubishi-mini-split-pb-error-code/)
+- [Mitsubishi U6 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-u6-error-code/)
+- [Mitsubishi F0006 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-f0006-error-code/)
+- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)

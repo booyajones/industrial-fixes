@@ -47,3 +47,10 @@ This type of error usually appears after parameter changes, cloning settings fro
 ## When to Call a Pro
 
 Call a qualified drives technician or Yaskawa support if the oPE16 code persists after you have verified and corrected all energy-saving parameters to values within the acceptable range. Also reach out if you do not have access to the GA800 programming manual or a known-good parameter file for your specific motor and application. If the fault returns after clearing and the drive will not run, or if you are uncomfortable navigating the parameter menus, professional support can compare your settings to the factory configuration and identify firmware or hardware issues that may require a control board replacement or factory service.
+
+## See Also
+
+- [Yaskawa VFD Fault BB — Causes & Fix](/posts/yaskawa-vfd-fault-bb/)
+- [Yaskawa VFD Fault OH — Causes & Fix](/posts/yaskawa-vfd-fault-oh/)
+- [Yaskawa GA800 E28 Fault - Serial Watchdog Timeout Fix](/posts/yaskawa-ga800-e28-fault-code/)
+- [Yaskawa VFD Fault Codes — Complete Reference (V1000, A1000, GA700)](/posts/yaskawa-vfd-fault-codes/)

@@ -48,3 +48,10 @@ This code means the switch is either not opening or closing when it should, or t
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with electrical components, gas appliances, or furnace controls. If you have cleared the tubing and ports but the E227 code persists, a technician can perform detailed pressure measurements, verify control board signals, and diagnose intermittent switch or inducer faults. Professional service is also recommended if the inducer motor requires replacement, if you suspect a venting or combustion airflow problem, or if the furnace has other active fault codes. Always follow local codes and manufacturer requirements for gas furnace service.
+
+## See Also
+
+- [Lennox Error Code 231 — Causes & Fix](/posts/lennox-error-code-231/)
+- [Lennox XP20 Heat Pump Error Codes - Full iComfort Fault Reference](/posts/lennox-xp20-heat-pump-error-codes/)
+- [Lennox Rooftop Unit Error Codes: Technician Guide](/posts/lennox-rooftop-unit-error-codes/)
+- [Lennox iComfort Error Code 31 — Pressure Switch Fault Diagnosis and Fix](/posts/lennox-icomfort-error-code-31/)

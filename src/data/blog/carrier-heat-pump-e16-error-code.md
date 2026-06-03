@@ -47,3 +47,10 @@ The E16 error code on a Carrier heat pump indicates a communication failure betw
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working inside energized equipment, if the fault returns after a reset and you cannot identify visible wiring damage, or if you have confirmed wiring integrity but suspect the outdoor control board needs replacement. Board-level diagnosis often requires meter testing and familiarity with your specific Carrier model's communication protocol, and misdiagnosis can lead to unnecessary parts replacement. A pro can also verify that the correct wire type and routing were used during original installation, which is a common root cause of communication faults.
+
+## See Also
+
+- [Carrier 42 Error Code — Causes & Fix](/posts/carrier-42-error-code/)
+- [Carrier 48 Error Code — Induced Draft Motor Lockout](/posts/carrier-48-error-code/)
+- [Carrier Rooftop Unit Error Codes: Common Faults Guide](/posts/carrier-rooftop-unit-error-codes/)
+- [Carrier E17 Error Code - Causes & Fix](/posts/carrier-heat-pump-e17-error-code/)

@@ -47,3 +47,10 @@ This code does not mean the heater is running dry or has lost water flow. It is 
 ## When to Call a Pro
 
 Call a qualified technician if you are not comfortable working with gas appliances, venting systems, or electrical components. Heat exchanger leaks and control board diagnostics require specialized tools and experience. If you have cleared the vents and cleaned the flame rod but the E004 persists, the issue is likely internal to the combustion chamber or the control circuit, both of which require disassembly and proper gas-safe procedures. Navien tankless heaters also have model-specific wiring and sensor placements that are easy to damage without the service manual and proper training.
+
+## See Also
+
+- [Navien Alarm 401 Error Code - Causes & Fix](/posts/navien-tankless-alarm-401-error-code/)
+- [Navien E011 Error Code - Causes & Fix](/posts/navien-tankless-e011-error-code/)
+- [Navien Tankless E013 Error Code - Causes & Fix](/posts/navien-tankless-e013-error-code/)
+- [Navien NPE Series Error Codes — Tankless Water Heater Fault Guide](/posts/navien-npe-error-codes/)

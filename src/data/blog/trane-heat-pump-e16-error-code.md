@@ -50,3 +50,10 @@ Because Trane heat pumps rely on multiple sensors, control boards, and refrigera
 ## When to Call a Pro
 
 Call a licensed HVAC technician immediately when E16 appears. Trane designates this as a critical error that requires professional diagnosis, and the exact fault varies by model. A qualified technician will use the service manual to decode E16 for your specific unit, test sensor resistance and voltages (such as the approximately 32 VDC reference on certain rooftop modules), verify refrigerant charge with gauges, inspect defrost controls, and check communication wiring. Attempting refrigerant work or control-board replacement without EPA certification, proper tools, and the model-specific fault tree risks further damage, lost warranty coverage, and unsafe operation. If you see ice on the outdoor coil, hear unusual compressor noise, or the system will not heat, do not run the unit until a technician clears the fault.
+
+## See Also
+
+- [Trane XV20i Error Code 79 — Causes & Fix](/posts/trane-error-code-79/)
+- [Trane E12 Error Code - Causes & Fix](/posts/trane-heat-pump-e12-error-code/)
+- [Trane 4TCC4 Mini Split Error Codes — Causes & Fix](/posts/trane-4tcc4-error-codes/)
+- [Trane 4 Flashes Error Code — Open High Limit Fix](/posts/trane-4-flashes-error-code/)

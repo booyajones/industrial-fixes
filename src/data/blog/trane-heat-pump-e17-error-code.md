@@ -50,3 +50,10 @@ E17 on Trane heat pumps indicates a current fault, meaning the control board has
 ## When to Call a Pro
 
 Call a professional if you cannot locate your service manual, if current measurements exceed nameplate values, or if the fault returns after you have verified airflow and power. Current faults often require refrigerant testing, inverter diagnostics, or control-board troubleshooting with specialized meters and software. Trane recommends professional service when basic thermostat and power checks do not resolve heat pump problems, and repeated E17 faults without an obvious cause indicate a deeper electrical or mechanical issue that risks compressor damage if ignored.
+
+## See Also
+
+- [Trane XV15i Heat Pump Error Codes: Complete Variable-Speed Fault Guide](/posts/trane-xv15i-error-codes/)
+- [Trane Tracer BAS Fault Codes - Complete Guide](/posts/trane-tracer-fault-codes/)
+- [Trane ComfortR ER Error Code — Causes & Fix](/posts/trane-comfort-r-error-codes-er/)
+- [Trane ComfortLink II Communicating Thermostat Fault Codes - What They Mean and How to Fix Them](/posts/trane-communicating-thermostat-fault-codes/)

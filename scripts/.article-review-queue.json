@@ -118,5 +118,11 @@
     "score": 3,
     "reason": "F01015 is not a verified/documented Siemens G120 fault code per the research; publishing unconfirmed codes creates confusion and liability for a technical repair site.",
     "date": "2026-06-02"
+  },
+  "siemens-g120-vfd-a05004-fault-code": {
+    "topic": "Siemens G120 VFD A05004 fault code",
+    "score": 0,
+    "reason": "review error: HTTP Error 429: Too Many Requests",
+    "date": "2026-06-03"
   }
 }

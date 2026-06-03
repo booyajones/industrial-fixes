@@ -51,3 +51,10 @@ Because Carrier fault codes vary by model and platform, always verify the code d
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you have replaced the low-voltage fuse and it blows again, if the error persists after verifying thermostat settings and wiring, or if you are uncomfortable working with control boards or 24 V circuits. A pro will use a multimeter to trace shorts, test board outputs, verify reversing-valve and contactor circuits, and replace the control board or communication module if needed. Because Carrier heat pumps may use proprietary control protocols or integrated defrost and refrigerant-management logic, advanced diagnostics and part programming often require factory tooling and training.
+
+## See Also
+
+- [Carrier 33 Error Code — Causes & Fix](/posts/carrier-33-error-code/)
+- [Carrier Infinity System Communication Error 168 — Wiring & Board Fix](/posts/carrier-infinity-error-168/)
+- [Carrier Heat Pump E4 Error Code — Causes & Fix](/posts/carrier-heat-pump-e4-error-code/)
+- [Carrier Infinity Error Code 179 — What It Means and How to Fix It](/posts/carrier-infinity-error-179/)

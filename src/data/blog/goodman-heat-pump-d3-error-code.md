@@ -48,3 +48,10 @@ In practical terms, the control logic has detected that something in the system 
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not confident verifying control board part numbers against your model's approved parts list, or if you do not have access to the service manual with configuration tables and wiring diagrams for your specific heat pump. A D3 fault requires exact part-number matching and correct configuration input setup, and installing the wrong board or setting the wrong options can damage the control or create additional faults. If the fault persists after you have confirmed correct parts, settings, and connections, a technician with diagnostic tools can verify communication signals and shared data integrity between the control and modules.
+
+## See Also
+
+- [Goodman A3 Error Code - Causes & Fix](/posts/goodman-heat-pump-a3-error-code/)
+- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
+- [Goodman 7 Flash Error Code — Ignition Lockout Fix](/posts/goodman-7-flash-error-code/)
+- [Goodman 8 Flash Error Code — Causes & Fix](/posts/goodman-8-flash-error-code/)

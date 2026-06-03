@@ -49,3 +49,10 @@ Communication faults usually stem from damaged or loose wiring between the indoo
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with line voltage, if you cannot locate or interpret the service manual for your exact Trane model, or if the fault returns after you have checked wiring and cycled power. Communication and control-board diagnostics require a multimeter and familiarity with low-voltage circuits. A technician has access to Trane's model-specific fault trees, can verify proper communication signals, and can safely replace control modules without voiding warranties or creating additional faults.
+
+## See Also
+
+- [Trane XL18i Heat Pump Error Codes: Flash Codes and ComfortLink II Faults](/posts/trane-xl18i-error-codes/)
+- [Trane Heat Pump E5 Error Code - Causes & Fix](/posts/trane-heat-pump-e5-error-code/)
+- [Trane E18 Error Code - Causes & Fix](/posts/trane-heat-pump-e18-error-code/)
+- [Trane Heat Pump E9 Error Code - Causes & Fix](/posts/trane-heat-pump-e9-error-code/)

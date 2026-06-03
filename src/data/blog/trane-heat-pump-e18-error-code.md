@@ -48,3 +48,10 @@ The E18 error code is not consistently documented across all Trane residential h
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you cannot locate the E18 code definition in your service manual, if the fault returns after you have replaced the sensor and verified airflow, or if you see signs of refrigerant loss (ice on lines, hissing sounds, oil residue). Refrigerant diagnostics, inverter module replacement, and control-board-level troubleshooting require EPA certification, specialized gauges, and model-specific software. Also call a pro if the outdoor coil is frozen solid or the system will not enter defrost mode, because these conditions indicate deeper refrigeration or defrost-control problems that go beyond a simple sensor fault.
+
+## See Also
+
+- [Trane 6 Flashes Error Code — Causes & Fix](/posts/trane-6-flashes-error-code/)
+- [Trane CenTraVac Chiller Fault Codes — Common Faults Guide](/posts/trane-centravac-fault-codes/)
+- [Trane E13 Error Code - Causes & Fix](/posts/trane-heat-pump-e13-error-code/)
+- [Trane XV20i Heat Pump Error Codes — Common Faults & Fixes](/posts/trane-xv20i-heat-pump-error-codes/)

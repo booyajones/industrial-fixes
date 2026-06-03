@@ -46,3 +46,10 @@ The E007 error on your Navien tankless water heater means the hot water outlet t
 ## When to Call a Pro
 
 Call a licensed plumber or Navien service technician if you are not comfortable working with 120-volt power, do not own a multimeter, or cannot locate the outlet thermistor on your unit. Also call if you replace the sensor and repair all wiring but E007 returns, since that points to a control-board issue that requires factory training and genuine parts. Navien recommends having your serial number ready when you contact support so the technician can pull the correct service data for your specific model.
+
+## See Also
+
+- [Navien E009 Error Code — Causes & Fix](/posts/navien-error-code-e009/)
+- [Navien Error Code E007 — Causes & Fix](/posts/navien-error-code-e007/)
+- [Navien E006 Error Code - Causes & Fix](/posts/navien-tankless-e006-error-code/)
+- [Navien NPE-A 016 — Overheat Lockout Fix](/posts/navien-water-heater-error-code-016/)

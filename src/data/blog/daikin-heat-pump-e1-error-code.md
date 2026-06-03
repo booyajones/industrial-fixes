@@ -49,3 +49,10 @@ When the outdoor PCB fails, the system cannot properly control compressor, fan, 
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with line voltage, do not have a multimeter and the skills to safely diagnose circuit boards, or if the fault returns after you have checked power and connections. Outdoor PCB replacement requires proper handling of refrigerant lines, electrical connections, and sometimes refrigerant recovery depending on the repair. A technician can also verify that the replacement board is correctly configured and that no other faults are present. If your unit is under warranty, contact Daikin or your installer before opening the outdoor unit, as DIY repairs may void coverage.
+
+## See Also
+
+- [Daikin E4 Error Code - Causes & Fix](/posts/daikin-e4-error-code/)
+- [Daikin E8 Error - Causes & Fix](/posts/daikin-e8-error-code/)
+- [Daikin A3 Error Code — Causes & Fix](/posts/daikin-a3-error-code/)
+- [Daikin E5 Error Code - Causes & Fix](/posts/daikin-e5-error-code/)

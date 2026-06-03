@@ -46,3 +46,10 @@ In practical terms, something is causing the drive to cycle on and off rapidly i
 ## When to Call a Pro
 
 Call a qualified drive technician or contact Danfoss service if the alarm returns after you have confirmed no external cycling, allowed proper cool-down time, and verified stable incoming power. Persistent ALARM 33 with normal power-up behavior points to an internal DC-link or power-section fault that requires board-level diagnosis, high-voltage testing, and possibly factory repair. Do not attempt internal power-section work without proper training and discharge procedures.
+
+## See Also
+
+- [Danfoss FC302 Alarm 39 - Causes & Fix](/posts/danfoss-fc302-alarm-39-fault-code/)
+- [Danfoss FC302 Alarm 34 - Causes & Fix](/posts/danfoss-fc302-alarm-34-fault-code/)
+- [Danfoss FC302 Alarm 23 - Causes & Fix](/posts/danfoss-fc302-alarm-23-fault-code/)
+- [Danfoss FC302 Complete Fault Code Guide — All Faults and Fixes](/posts/danfoss-fc302-complete-guide/)

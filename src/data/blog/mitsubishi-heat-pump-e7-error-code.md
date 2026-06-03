@@ -47,3 +47,10 @@ The E7 error code on Mitsubishi Electric heat pumps is not universal across all 
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you are uncomfortable working with line voltage, cannot locate your model's specific fault code table, or if the error persists after checking all wiring and terminal connections. Communication faults often require signal tracing with a multimeter and may involve control board replacement, which demands proper refrigerant handling, electrical diagnostics, and warranty documentation. A licensed pro will have access to Mitsubishi's service literature, factory part numbers, and the test equipment needed to pinpoint board-level failures safely.
+
+## See Also
+
+- [Mitsubishi P1 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-p1-error-code/)
+- [Mitsubishi Mini Split E6 Error Code Fix](/posts/mitsubishi-e6-error-code/)
+- [Mitsubishi Mini Split E3 Error - Causes & Fix](/posts/mitsubishi-mini-split-e3-error-code/)
+- [Mitsubishi Mini-Split U0 Error Code — Refrigerant Shortage Fix](/posts/mitsubishi-mini-split-u0-error-code/)

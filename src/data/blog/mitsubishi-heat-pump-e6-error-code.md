@@ -50,3 +50,10 @@ The fault usually appears at startup or after a power event like a storm or trip
 ## When to Call a Pro
 
 E6 involves both line voltage (120 VAC at the terminals) and low-voltage control circuits. Misdiagnosing or miswiring these connections can damage expensive control boards or create a shock hazard. If you are not comfortable working with live AC voltage, measuring DC signals with a multimeter, or interpreting wiring diagrams, call a Mitsubishi-certified HVAC technician. A technician will have the proper test equipment and access to model-specific service manuals and communication checkers to isolate the fault quickly and replace only the failed component.
+
+## See Also
+
+- [Mitsubishi F0004 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-f0004-error-code/)
+- [Mitsubishi P3 Error Code — Outdoor Coil Thermistor Fix](/posts/mitsubishi-p3-error-code/)
+- [Mitsubishi P-Series H6 — Outdoor Fan Motor Fix](/posts/mitsubishi-heat-pump-error-code-h6/)
+- [Mitsubishi E7 Error Code — Refrigerant Cycle Fault](/posts/mitsubishi-e7-error-code/)

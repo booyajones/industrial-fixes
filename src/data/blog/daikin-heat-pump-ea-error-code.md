@@ -46,3 +46,10 @@ The EA error code on a Daikin heat pump signals a malfunction of the four-way va
 ## When to Call a Pro
 
 EA faults involve refrigerant circuits, live electrical diagnosis at the outdoor unit, and valve replacement that requires brazing and evacuation. If you are not EPA-certified or do not own manifold gauges, a vacuum pump, and a refrigerant scale, call a licensed HVAC technician. Attempting refrigerant work without proper tools and certification is illegal in most jurisdictions and can cause compressor damage or personal injury. Even for experienced techs, confirming which of the four listed causes is active requires methodical testing, so budget time for diagnosis before ordering parts.
+
+## See Also
+
+- [Daikin U4 Error Code - Causes & Fix](/posts/daikin-heat-pump-u4-error-code/)
+- [Daikin E8 Error Code - Causes & Fix](/posts/daikin-heat-pump-e8-error-code/)
+- [Daikin A7 Error Code - Causes & Fix](/posts/daikin-mini-split-a7-error-code/)
+- [Daikin A1 Error Code - Causes & Fix](/posts/daikin-heat-pump-a1-error-code/)

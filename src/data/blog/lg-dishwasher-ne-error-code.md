@@ -48,3 +48,10 @@ The nE code is a Vario motor error. The Vario motor, also called the water diver
 ## When to Call a Pro
 
 If the Vario motor windings read in spec and the wiring is clean but nE persists, the control board may be misreading the motor. A technician can confirm the board signal before you replace it, since access means flipping the dishwasher over.
+
+## See Also
+
+- [LG Microwave F3 Error Code - Causes & Fix](/posts/lg-microwave-f3-error-code/)
+- [LG Oven F11 Error Code - Causes & Fix](/posts/lg-oven-f11-error-code/)
+- [LG Mini Split CH06 Error Code - Causes & Fix](/posts/lg-mini-split-ch06-error-code/)
+- [LG Mini Split CH04 Error Code - Causes & Fix](/posts/lg-mini-split-ch04-error-code/)
