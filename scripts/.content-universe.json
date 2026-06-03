@@ -1,0 +1,2782 @@
+{
+  "appliances": [
+    {
+      "appliance": "washer",
+      "parts": [
+        {
+          "part": "Drain pump",
+          "top_brands": [
+            "Samsung",
+            "LG",
+            "Whirlpool",
+            "GE"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Door lock / latch assembly",
+          "top_brands": [
+            "Samsung",
+            "LG",
+            "Whirlpool",
+            "Maytag"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Water inlet valve",
+          "top_brands": [
+            "Samsung",
+            "Whirlpool",
+            "GE",
+            "Maytag"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Door boot seal / bellow gasket (front-load)",
+          "top_brands": [
+            "Samsung",
+            "LG",
+            "Whirlpool"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Drive belt",
+          "top_brands": [
+            "Whirlpool",
+            "Maytag",
+            "Kenmore",
+            "LG"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Lid switch",
+          "top_brands": [
+            "Whirlpool",
+            "Maytag",
+            "Kenmore",
+            "GE"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Tub / drum bearing",
+          "top_brands": [
+            "LG",
+            "Samsung",
+            "Whirlpool"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Shock absorber / suspension rod kit",
+          "top_brands": [
+            "Samsung",
+            "LG",
+            "Whirlpool"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Main control board / PCB",
+          "top_brands": [
+            "Samsung",
+            "LG",
+            "GE",
+            "Whirlpool"
+          ],
+          "demand": "high",
+          "buying_intent": "medium"
+        },
+        {
+          "part": "Motor coupler (direct-drive)",
+          "top_brands": [
+            "Whirlpool",
+            "Kenmore",
+            "Maytag"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Agitator repair kit / agitator dogs",
+          "top_brands": [
+            "Whirlpool",
+            "Maytag",
+            "Kenmore"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Clutch / splutch assembly",
+          "top_brands": [
+            "Whirlpool",
+            "Maytag",
+            "Kenmore"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Drive motor / stator-rotor (direct-drive)",
+          "top_brands": [
+            "LG",
+            "Samsung",
+            "Whirlpool"
+          ],
+          "demand": "medium",
+          "buying_intent": "medium"
+        },
+        {
+          "part": "Water-level pressure switch / sensor",
+          "top_brands": [
+            "Whirlpool",
+            "Maytag",
+            "GE",
+            "Frigidaire"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Shift actuator",
+          "top_brands": [
+            "Whirlpool",
+            "Maytag",
+            "Kenmore"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Drain hose",
+          "top_brands": [
+            "Samsung",
+            "LG",
+            "Whirlpool",
+            "GE"
+          ],
+          "demand": "medium",
+          "buying_intent": "medium"
+        }
+      ],
+      "models": [
+        {
+          "brand": "Samsung",
+          "model": "WF45T6000AW",
+          "demand": "high"
+        },
+        {
+          "brand": "LG",
+          "model": "WM3500CW",
+          "demand": "high"
+        },
+        {
+          "brand": "Whirlpool",
+          "model": "WTW5000DW",
+          "demand": "high"
+        },
+        {
+          "brand": "Whirlpool",
+          "model": "WTW5057LW",
+          "demand": "high"
+        },
+        {
+          "brand": "Samsung",
+          "model": "WA50R5200AW",
+          "demand": "high"
+        },
+        {
+          "brand": "Maytag",
+          "model": "MVWC465HW",
+          "demand": "high"
+        },
+        {
+          "brand": "Whirlpool",
+          "model": "WTW4816FW",
+          "demand": "high"
+        },
+        {
+          "brand": "Maytag",
+          "model": "MVWX655DW",
+          "demand": "medium"
+        },
+        {
+          "brand": "GE",
+          "model": "GTW335ASNWW",
+          "demand": "medium"
+        },
+        {
+          "brand": "Maytag",
+          "model": "MVW6230HW",
+          "demand": "medium"
+        },
+        {
+          "brand": "GE",
+          "model": "GTW720BSNWS",
+          "demand": "medium"
+        },
+        {
+          "brand": "Frigidaire",
+          "model": "FFTW4120SW",
+          "demand": "medium"
+        }
+      ],
+      "generic_symptoms": [
+        {
+          "symptom": "Washer won't drain",
+          "demand": "high"
+        },
+        {
+          "symptom": "Washer won't spin",
+          "demand": "high"
+        },
+        {
+          "symptom": "Washer leaking water",
+          "demand": "high"
+        },
+        {
+          "symptom": "Washer shaking / vibrating violently",
+          "demand": "high"
+        },
+        {
+          "symptom": "Washer won't turn on / won't start",
+          "demand": "high"
+        },
+        {
+          "symptom": "Washer stuck on a cycle / not advancing",
+          "demand": "medium"
+        },
+        {
+          "symptom": "Washer won't agitate",
+          "demand": "medium"
+        },
+        {
+          "symptom": "Washer not filling with water",
+          "demand": "medium"
+        },
+        {
+          "symptom": "Washer making loud noise during spin",
+          "demand": "medium"
+        },
+        {
+          "symptom": "Washer smells bad / moldy",
+          "demand": "medium"
+        }
+      ]
+    },
+    {
+      "appliance": "Dryer",
+      "parts": [
+        {
+          "part": "Heating element",
+          "top_brands": [
+            "Whirlpool",
+            "Kenmore",
+            "Maytag",
+            "Samsung",
+            "GE"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Thermal fuse",
+          "top_brands": [
+            "Whirlpool",
+            "Maytag",
+            "Kenmore",
+            "Samsung",
+            "GE"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Drive belt",
+          "top_brands": [
+            "Whirlpool",
+            "Kenmore",
+            "Maytag",
+            "GE",
+            "Samsung"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Idler pulley",
+          "top_brands": [
+            "Whirlpool",
+            "Samsung",
+            "Kenmore",
+            "Maytag",
+            "LG"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Drum roller / support roller",
+          "top_brands": [
+            "Whirlpool",
+            "Kenmore",
+            "Maytag",
+            "GE"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Cycling thermostat / high-limit thermostat",
+          "top_brands": [
+            "Whirlpool",
+            "Maytag",
+            "Kenmore",
+            "GE"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Door switch",
+          "top_brands": [
+            "Whirlpool",
+            "Kenmore",
+            "Maytag",
+            "GE",
+            "Samsung"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Moisture sensor / thermistor",
+          "top_brands": [
+            "Samsung",
+            "LG",
+            "Whirlpool",
+            "Kenmore"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Gas valve igniter",
+          "top_brands": [
+            "Whirlpool",
+            "Kenmore",
+            "Maytag",
+            "GE"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Gas valve coils / solenoid kit",
+          "top_brands": [
+            "Whirlpool",
+            "Kenmore",
+            "Maytag",
+            "GE"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Flame sensor / radiant flame sensor",
+          "top_brands": [
+            "Whirlpool",
+            "Kenmore",
+            "GE",
+            "Maytag"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Drive motor",
+          "top_brands": [
+            "Whirlpool",
+            "Kenmore",
+            "Samsung",
+            "Maytag",
+            "GE"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Thermal cut-off fuse kit",
+          "top_brands": [
+            "Whirlpool",
+            "Maytag",
+            "Kenmore",
+            "GE"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Main control board / PCB",
+          "top_brands": [
+            "Samsung",
+            "LG",
+            "GE",
+            "Whirlpool"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Drum glides / drum slides",
+          "top_brands": [
+            "Whirlpool",
+            "Kenmore",
+            "Maytag",
+            "GE"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Drum bearing / rear drum bearing kit",
+          "top_brands": [
+            "Whirlpool",
+            "Kenmore",
+            "Samsung",
+            "GE"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Blower wheel",
+          "top_brands": [
+            "Whirlpool",
+            "Kenmore",
+            "Maytag",
+            "GE"
+          ],
+          "demand": "low",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Felt drum seal",
+          "top_brands": [
+            "Whirlpool",
+            "Kenmore",
+            "Maytag",
+            "GE"
+          ],
+          "demand": "low",
+          "buying_intent": "high"
+        }
+      ],
+      "models": [
+        {
+          "brand": "Whirlpool",
+          "model": "WED4815EW",
+          "demand": "high"
+        },
+        {
+          "brand": "Whirlpool",
+          "model": "WED4850HW",
+          "demand": "high"
+        },
+        {
+          "brand": "Samsung",
+          "model": "DVE45T6000W",
+          "demand": "high"
+        },
+        {
+          "brand": "Samsung",
+          "model": "DVE45R6100W",
+          "demand": "high"
+        },
+        {
+          "brand": "Maytag",
+          "model": "MED4500MW",
+          "demand": "high"
+        },
+        {
+          "brand": "GE",
+          "model": "GTD33EASKWW",
+          "demand": "high"
+        },
+        {
+          "brand": "LG",
+          "model": "DLE7400WE",
+          "demand": "medium"
+        },
+        {
+          "brand": "LG",
+          "model": "DLEX4000W",
+          "demand": "medium"
+        },
+        {
+          "brand": "Maytag",
+          "model": "MEDC465HW",
+          "demand": "medium"
+        },
+        {
+          "brand": "Whirlpool",
+          "model": "WED5000DW",
+          "demand": "medium"
+        },
+        {
+          "brand": "GE",
+          "model": "GTD42EASJWW",
+          "demand": "medium"
+        },
+        {
+          "brand": "Samsung",
+          "model": "DVE45B6300W",
+          "demand": "medium"
+        },
+        {
+          "brand": "Kenmore",
+          "model": "110.60022",
+          "demand": "low"
+        }
+      ],
+      "generic_symptoms": [
+        {
+          "symptom": "Dryer not heating / no heat",
+          "demand": "high"
+        },
+        {
+          "symptom": "Dryer won't start",
+          "demand": "high"
+        },
+        {
+          "symptom": "Dryer won't spin / drum not turning",
+          "demand": "high"
+        },
+        {
+          "symptom": "Dryer taking too long to dry / not drying clothes",
+          "demand": "high"
+        },
+        {
+          "symptom": "Dryer making loud noise / squeaking",
+          "demand": "high"
+        },
+        {
+          "symptom": "Dryer shuts off mid-cycle / stops running",
+          "demand": "medium"
+        },
+        {
+          "symptom": "Dryer not getting hot enough / clothes still damp",
+          "demand": "medium"
+        },
+        {
+          "symptom": "Dryer overheating / too hot",
+          "demand": "medium"
+        },
+        {
+          "symptom": "Dryer runs but no power to drum / clicks won't turn on",
+          "demand": "medium"
+        },
+        {
+          "symptom": "Dryer thermal fuse keeps blowing",
+          "demand": "low"
+        }
+      ]
+    },
+    {
+      "appliance": "refrigerator",
+      "parts": [
+        {
+          "part": "Water inlet valve",
+          "top_brands": [
+            "Whirlpool",
+            "Samsung",
+            "GE",
+            "LG",
+            "Frigidaire"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Ice maker assembly / ice maker kit",
+          "top_brands": [
+            "Whirlpool",
+            "Samsung",
+            "GE",
+            "KitchenAid",
+            "Kenmore"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Defrost heater assembly",
+          "top_brands": [
+            "Whirlpool",
+            "GE",
+            "Samsung",
+            "Frigidaire",
+            "Kenmore"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Defrost thermostat (bi-metal / termination thermostat)",
+          "top_brands": [
+            "GE",
+            "Whirlpool",
+            "Frigidaire",
+            "Kenmore",
+            "Samsung"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Evaporator fan motor",
+          "top_brands": [
+            "Samsung",
+            "Whirlpool",
+            "GE",
+            "LG",
+            "Frigidaire"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Compressor start relay / PTC overload",
+          "top_brands": [
+            "LG",
+            "Samsung",
+            "Whirlpool",
+            "GE",
+            "Frigidaire"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Thermistor / temperature sensor",
+          "top_brands": [
+            "Samsung",
+            "LG",
+            "Whirlpool",
+            "GE",
+            "Kenmore"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Main control board / PCB",
+          "top_brands": [
+            "Samsung",
+            "LG",
+            "Whirlpool",
+            "GE",
+            "Frigidaire"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Door gasket / door seal",
+          "top_brands": [
+            "Whirlpool",
+            "Samsung",
+            "GE",
+            "Frigidaire",
+            "LG"
+          ],
+          "demand": "high",
+          "buying_intent": "medium"
+        },
+        {
+          "part": "Condenser fan motor",
+          "top_brands": [
+            "Whirlpool",
+            "GE",
+            "Frigidaire",
+            "Kenmore",
+            "Samsung"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Water filter",
+          "top_brands": [
+            "Whirlpool",
+            "Samsung",
+            "LG",
+            "GE",
+            "KitchenAid"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Defrost timer / defrost control board",
+          "top_brands": [
+            "Whirlpool",
+            "GE",
+            "Frigidaire",
+            "Kenmore",
+            "Samsung"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Dispenser actuator / dispenser switch (water & ice lever)",
+          "top_brands": [
+            "GE",
+            "Whirlpool",
+            "Frigidaire",
+            "Samsung",
+            "Kenmore"
+          ],
+          "demand": "medium",
+          "buying_intent": "medium"
+        },
+        {
+          "part": "Ice maker auger motor (dispenser)",
+          "top_brands": [
+            "Whirlpool",
+            "GE",
+            "Frigidaire",
+            "Kenmore",
+            "Samsung"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Door shelf bin / door bin",
+          "top_brands": [
+            "Whirlpool",
+            "Frigidaire",
+            "GE",
+            "Samsung",
+            "Kenmore"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Compressor (inverter / linear)",
+          "top_brands": [
+            "LG",
+            "Samsung",
+            "Whirlpool",
+            "GE",
+            "Frigidaire"
+          ],
+          "demand": "medium",
+          "buying_intent": "medium"
+        },
+        {
+          "part": "Damper control assembly (air diffuser)",
+          "top_brands": [
+            "Whirlpool",
+            "GE",
+            "Samsung",
+            "Kenmore",
+            "Frigidaire"
+          ],
+          "demand": "low",
+          "buying_intent": "medium"
+        }
+      ],
+      "models": [
+        {
+          "brand": "Samsung",
+          "model": "RF28R7351SG",
+          "demand": "high"
+        },
+        {
+          "brand": "Samsung",
+          "model": "RF263BEAESR",
+          "demand": "high"
+        },
+        {
+          "brand": "Samsung",
+          "model": "RF28HFEDBSR",
+          "demand": "medium"
+        },
+        {
+          "brand": "LG",
+          "model": "LFXS26973S",
+          "demand": "high"
+        },
+        {
+          "brand": "LG",
+          "model": "LMXS28626S",
+          "demand": "medium"
+        },
+        {
+          "brand": "LG",
+          "model": "LFXS28968S",
+          "demand": "medium"
+        },
+        {
+          "brand": "Whirlpool",
+          "model": "WRF535SWHZ",
+          "demand": "high"
+        },
+        {
+          "brand": "Whirlpool",
+          "model": "WRX735SDHZ",
+          "demand": "high"
+        },
+        {
+          "brand": "Whirlpool",
+          "model": "WRS325SDHZ",
+          "demand": "medium"
+        },
+        {
+          "brand": "GE",
+          "model": "GSS25GSHSS",
+          "demand": "high"
+        },
+        {
+          "brand": "GE",
+          "model": "GNE27JYMFS",
+          "demand": "medium"
+        },
+        {
+          "brand": "Frigidaire",
+          "model": "FFSS2615TS",
+          "demand": "high"
+        },
+        {
+          "brand": "KitchenAid",
+          "model": "KRMF706ESS",
+          "demand": "medium"
+        },
+        {
+          "brand": "Kenmore",
+          "model": "Elite 51133",
+          "demand": "low"
+        }
+      ],
+      "generic_symptoms": [
+        {
+          "symptom": "refrigerator not cooling",
+          "demand": "high"
+        },
+        {
+          "symptom": "refrigerator not making ice",
+          "demand": "high"
+        },
+        {
+          "symptom": "refrigerator leaking water",
+          "demand": "high"
+        },
+        {
+          "symptom": "refrigerator not dispensing water",
+          "demand": "high"
+        },
+        {
+          "symptom": "refrigerator freezing food / too cold",
+          "demand": "medium"
+        },
+        {
+          "symptom": "refrigerator not cold but freezer works",
+          "demand": "medium"
+        },
+        {
+          "symptom": "refrigerator making loud noise / buzzing",
+          "demand": "medium"
+        },
+        {
+          "symptom": "refrigerator frost buildup in freezer",
+          "demand": "medium"
+        },
+        {
+          "symptom": "refrigerator ice maker not dispensing ice",
+          "demand": "medium"
+        },
+        {
+          "symptom": "refrigerator running warm / compressor running but not cooling",
+          "demand": "low"
+        }
+      ]
+    },
+    {
+      "appliance": "dishwasher",
+      "parts": [
+        {
+          "part": "Drain pump",
+          "top_brands": [
+            "Bosch",
+            "Samsung",
+            "Whirlpool",
+            "GE"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Water inlet valve",
+          "top_brands": [
+            "Samsung",
+            "Whirlpool",
+            "GE",
+            "Bosch"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Heating element",
+          "top_brands": [
+            "Whirlpool",
+            "KitchenAid",
+            "Frigidaire",
+            "GE"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Door latch / door lock assembly",
+          "top_brands": [
+            "Bosch",
+            "Whirlpool",
+            "KitchenAid",
+            "Samsung"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Circulation / wash pump motor",
+          "top_brands": [
+            "Whirlpool",
+            "Bosch",
+            "KitchenAid",
+            "GE"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Control board (main / electronic control)",
+          "top_brands": [
+            "Whirlpool",
+            "GE",
+            "Samsung",
+            "LG"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Control panel / touchpad / user interface board",
+          "top_brands": [
+            "Samsung",
+            "GE",
+            "Whirlpool",
+            "Frigidaire"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Detergent / soap dispenser assembly (wax motor)",
+          "top_brands": [
+            "Whirlpool",
+            "KitchenAid",
+            "Bosch",
+            "Frigidaire"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Spray arm (upper / lower)",
+          "top_brands": [
+            "Bosch",
+            "Whirlpool",
+            "Samsung",
+            "KitchenAid"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Door gasket / tub seal",
+          "top_brands": [
+            "Bosch",
+            "Samsung",
+            "Whirlpool",
+            "LG"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Drain hose",
+          "top_brands": [
+            "Bosch",
+            "Whirlpool",
+            "GE",
+            "Samsung"
+          ],
+          "demand": "medium",
+          "buying_intent": "medium"
+        },
+        {
+          "part": "Thermistor / temperature sensor",
+          "top_brands": [
+            "Samsung",
+            "LG",
+            "GE",
+            "Whirlpool"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Diverter motor / valve",
+          "top_brands": [
+            "Whirlpool",
+            "KitchenAid",
+            "GE",
+            "Maytag"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Float switch / flood (overfill) switch",
+          "top_brands": [
+            "GE",
+            "Whirlpool",
+            "Frigidaire",
+            "KitchenAid"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Turbidity / wash sensor",
+          "top_brands": [
+            "Whirlpool",
+            "Samsung",
+            "LG",
+            "KitchenAid"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Sump assembly / sump seal",
+          "top_brands": [
+            "Whirlpool",
+            "Bosch",
+            "GE",
+            "KitchenAid"
+          ],
+          "demand": "medium",
+          "buying_intent": "medium"
+        },
+        {
+          "part": "Dishrack roller / wheel / adjuster (upper rack)",
+          "top_brands": [
+            "Bosch",
+            "Whirlpool",
+            "KitchenAid",
+            "Frigidaire"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Rinse aid dispenser / cap",
+          "top_brands": [
+            "Bosch",
+            "Whirlpool",
+            "GE",
+            "Samsung"
+          ],
+          "demand": "low",
+          "buying_intent": "medium"
+        }
+      ],
+      "models": [
+        {
+          "brand": "Bosch",
+          "model": "SHEM63W55N",
+          "demand": "high"
+        },
+        {
+          "brand": "Bosch",
+          "model": "SHPM65Z55N",
+          "demand": "high"
+        },
+        {
+          "brand": "Whirlpool",
+          "model": "WDT730PAHZ",
+          "demand": "high"
+        },
+        {
+          "brand": "Whirlpool",
+          "model": "WDT750SAKZ",
+          "demand": "high"
+        },
+        {
+          "brand": "Whirlpool",
+          "model": "WDF520PADM",
+          "demand": "high"
+        },
+        {
+          "brand": "Samsung",
+          "model": "DW80R5060US",
+          "demand": "high"
+        },
+        {
+          "brand": "GE",
+          "model": "GDT665SSNSS",
+          "demand": "high"
+        },
+        {
+          "brand": "GE",
+          "model": "GDT535PSRSS",
+          "demand": "medium"
+        },
+        {
+          "brand": "LG",
+          "model": "LDFN4542S",
+          "demand": "high"
+        },
+        {
+          "brand": "KitchenAid",
+          "model": "KDPM604KPS",
+          "demand": "high"
+        },
+        {
+          "brand": "KitchenAid",
+          "model": "KDTM404KPS",
+          "demand": "medium"
+        },
+        {
+          "brand": "Frigidaire",
+          "model": "FFCD2418US",
+          "demand": "medium"
+        },
+        {
+          "brand": "Frigidaire",
+          "model": "FGID2466QF",
+          "demand": "medium"
+        }
+      ],
+      "generic_symptoms": [
+        {
+          "symptom": "dishwasher won't drain (standing water)",
+          "demand": "high"
+        },
+        {
+          "symptom": "dishwasher not cleaning dishes",
+          "demand": "high"
+        },
+        {
+          "symptom": "dishwasher not drying dishes",
+          "demand": "high"
+        },
+        {
+          "symptom": "dishwasher won't start",
+          "demand": "high"
+        },
+        {
+          "symptom": "dishwasher leaking from bottom / door",
+          "demand": "high"
+        },
+        {
+          "symptom": "dishwasher lights flashing / blinking",
+          "demand": "high"
+        },
+        {
+          "symptom": "dishwasher not filling with water",
+          "demand": "high"
+        },
+        {
+          "symptom": "dishwasher not heating / water not hot",
+          "demand": "medium"
+        },
+        {
+          "symptom": "dishwasher spray arm not spinning",
+          "demand": "medium"
+        },
+        {
+          "symptom": "dishwasher soap dispenser not opening",
+          "demand": "medium"
+        }
+      ]
+    },
+    {
+      "appliance": "Oven / Range",
+      "parts": [
+        {
+          "part": "Bake element (lower oven heating element)",
+          "top_brands": [
+            "Whirlpool",
+            "GE",
+            "Frigidaire",
+            "KitchenAid"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Oven igniter (gas bake/broil igniter, flat & round)",
+          "top_brands": [
+            "Whirlpool",
+            "GE",
+            "Frigidaire",
+            "Samsung"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Broil element (upper oven heating element)",
+          "top_brands": [
+            "GE",
+            "Whirlpool",
+            "Frigidaire",
+            "KitchenAid"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Oven temperature sensor (RTD probe)",
+          "top_brands": [
+            "Whirlpool",
+            "GE",
+            "Samsung",
+            "Frigidaire"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Oven control board (electronic range control / ERC)",
+          "top_brands": [
+            "GE",
+            "Whirlpool",
+            "Frigidaire",
+            "Samsung"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Surface burner element / coil (electric cooktop element)",
+          "top_brands": [
+            "GE",
+            "Whirlpool",
+            "Frigidaire",
+            "Samsung"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Surface element infinite switch (burner control switch)",
+          "top_brands": [
+            "GE",
+            "Whirlpool",
+            "Frigidaire",
+            "KitchenAid"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Spark igniter switch (gas surface burner ignition switch)",
+          "top_brands": [
+            "Whirlpool",
+            "GE",
+            "Frigidaire",
+            "Samsung"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Spark electrode / igniter (gas surface burner electrode)",
+          "top_brands": [
+            "Whirlpool",
+            "GE",
+            "Frigidaire",
+            "Samsung"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Spark / ignition module",
+          "top_brands": [
+            "Whirlpool",
+            "GE",
+            "Frigidaire",
+            "Samsung"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Oven door hinge",
+          "top_brands": [
+            "Samsung",
+            "Whirlpool",
+            "GE",
+            "Frigidaire"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Oven door gasket / seal",
+          "top_brands": [
+            "GE",
+            "Whirlpool",
+            "Frigidaire",
+            "Samsung"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Oven door lock / latch motor & switch assembly (self-clean latch)",
+          "top_brands": [
+            "Frigidaire",
+            "Whirlpool",
+            "GE",
+            "Samsung"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Convection fan motor (oven convection blower)",
+          "top_brands": [
+            "Samsung",
+            "Frigidaire",
+            "GE",
+            "LG"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Gas oven safety valve (gas control valve)",
+          "top_brands": [
+            "Whirlpool",
+            "GE",
+            "Frigidaire",
+            "KitchenAid"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Surface burner receptacle / terminal block (coil element receptacle)",
+          "top_brands": [
+            "GE",
+            "Whirlpool",
+            "Frigidaire",
+            "Samsung"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Control knob (burner / oven dial knob)",
+          "top_brands": [
+            "GE",
+            "Whirlpool",
+            "Frigidaire",
+            "Samsung"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Oven thermostat (gas range mechanical thermostat)",
+          "top_brands": [
+            "GE",
+            "Frigidaire",
+            "Whirlpool",
+            "KitchenAid"
+          ],
+          "demand": "low",
+          "buying_intent": "high"
+        }
+      ],
+      "models": [
+        {
+          "brand": "Whirlpool",
+          "model": "WFE505W0JS",
+          "demand": "high"
+        },
+        {
+          "brand": "Frigidaire",
+          "model": "FFEF3054TS",
+          "demand": "high"
+        },
+        {
+          "brand": "Samsung",
+          "model": "NX58H5600SS",
+          "demand": "high"
+        },
+        {
+          "brand": "GE",
+          "model": "JB645RKSS",
+          "demand": "high"
+        },
+        {
+          "brand": "Samsung",
+          "model": "NE63A6511SS",
+          "demand": "high"
+        },
+        {
+          "brand": "Whirlpool",
+          "model": "WFE515S0JS",
+          "demand": "medium"
+        },
+        {
+          "brand": "LG",
+          "model": "LREL6323S",
+          "demand": "medium"
+        },
+        {
+          "brand": "KitchenAid",
+          "model": "KFEG500ESS",
+          "demand": "medium"
+        },
+        {
+          "brand": "Samsung",
+          "model": "NX58R4311SS",
+          "demand": "medium"
+        },
+        {
+          "brand": "Samsung",
+          "model": "NE63T8711SS",
+          "demand": "medium"
+        },
+        {
+          "brand": "GE",
+          "model": "JB735SPSS",
+          "demand": "medium"
+        },
+        {
+          "brand": "Frigidaire",
+          "model": "GCRE3060AF",
+          "demand": "medium"
+        },
+        {
+          "brand": "Whirlpool",
+          "model": "WFG505M0BS",
+          "demand": "medium"
+        },
+        {
+          "brand": "KitchenAid",
+          "model": "KFGG500ESS",
+          "demand": "low"
+        }
+      ],
+      "generic_symptoms": [
+        {
+          "symptom": "Oven not heating / oven won't heat up",
+          "demand": "high"
+        },
+        {
+          "symptom": "Oven won't turn on",
+          "demand": "high"
+        },
+        {
+          "symptom": "Oven not heating to the right temperature (temperature inaccurate)",
+          "demand": "high"
+        },
+        {
+          "symptom": "Gas oven igniter glows but won't light / no flame",
+          "demand": "high"
+        },
+        {
+          "symptom": "Stove burner won't light / won't spark (keeps clicking)",
+          "demand": "high"
+        },
+        {
+          "symptom": "Electric cooktop burner not heating",
+          "demand": "high"
+        },
+        {
+          "symptom": "Oven cooking unevenly / one side hotter",
+          "demand": "medium"
+        },
+        {
+          "symptom": "Oven door won't close or won't seal",
+          "demand": "medium"
+        },
+        {
+          "symptom": "Oven self-clean not working / door won't unlock",
+          "demand": "medium"
+        },
+        {
+          "symptom": "Oven showing F1 / error code on display",
+          "demand": "medium"
+        }
+      ]
+    },
+    {
+      "appliance": "Microwave",
+      "parts": [
+        {
+          "part": "Magnetron",
+          "top_brands": [
+            "GE",
+            "Whirlpool",
+            "Samsung"
+          ],
+          "demand": "high",
+          "buying_intent": "medium"
+        },
+        {
+          "part": "Door switch / interlock micro-switch",
+          "top_brands": [
+            "GE",
+            "Whirlpool",
+            "Samsung"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "High-voltage diode (rectifier)",
+          "top_brands": [
+            "GE",
+            "Whirlpool",
+            "Samsung"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Waveguide cover / mica sheet",
+          "top_brands": [
+            "GE",
+            "Samsung",
+            "Whirlpool"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Turntable / tray drive motor",
+          "top_brands": [
+            "GE",
+            "Whirlpool",
+            "Samsung"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Charcoal / grease vent filter (over-the-range)",
+          "top_brands": [
+            "Whirlpool",
+            "GE",
+            "Samsung"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Glass turntable plate / tray and drive coupler",
+          "top_brands": [
+            "Panasonic",
+            "GE",
+            "Samsung"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Door latch / lever / latch spring",
+          "top_brands": [
+            "Samsung",
+            "GE",
+            "LG"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Main control board / user control and display board",
+          "top_brands": [
+            "Samsung",
+            "GE",
+            "Whirlpool"
+          ],
+          "demand": "high",
+          "buying_intent": "medium"
+        },
+        {
+          "part": "Line fuse / ceramic fuse",
+          "top_brands": [
+            "GE",
+            "Whirlpool",
+            "Samsung"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Thermal fuse / cavity thermostat (TCO)",
+          "top_brands": [
+            "GE",
+            "Whirlpool",
+            "Samsung"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "High-voltage capacitor",
+          "top_brands": [
+            "GE",
+            "Whirlpool",
+            "Samsung"
+          ],
+          "demand": "medium",
+          "buying_intent": "medium"
+        },
+        {
+          "part": "Membrane switch / touchpad keypad",
+          "top_brands": [
+            "Whirlpool",
+            "GE",
+            "Samsung"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Cavity / interior light bulb",
+          "top_brands": [
+            "GE",
+            "Whirlpool",
+            "Samsung"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Door handle / outer door assembly",
+          "top_brands": [
+            "Samsung",
+            "GE",
+            "Whirlpool"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "High-voltage transformer",
+          "top_brands": [
+            "GE",
+            "Whirlpool",
+            "Samsung"
+          ],
+          "demand": "medium",
+          "buying_intent": "medium"
+        },
+        {
+          "part": "Inverter board (inverter models)",
+          "top_brands": [
+            "Panasonic",
+            "LG"
+          ],
+          "demand": "medium",
+          "buying_intent": "medium"
+        },
+        {
+          "part": "Roller ring / turntable support",
+          "top_brands": [
+            "Panasonic",
+            "GE",
+            "Whirlpool"
+          ],
+          "demand": "low",
+          "buying_intent": "high"
+        }
+      ],
+      "models": [
+        {
+          "brand": "GE",
+          "model": "JVM3160RFSS",
+          "demand": "high"
+        },
+        {
+          "brand": "Whirlpool",
+          "model": "WMH31017HS",
+          "demand": "high"
+        },
+        {
+          "brand": "Samsung",
+          "model": "ME21M706BAS",
+          "demand": "high"
+        },
+        {
+          "brand": "LG",
+          "model": "LMV2031ST",
+          "demand": "high"
+        },
+        {
+          "brand": "Panasonic",
+          "model": "NN-SN686S",
+          "demand": "high"
+        },
+        {
+          "brand": "GE",
+          "model": "JVM6175SKSS",
+          "demand": "high"
+        },
+        {
+          "brand": "LG",
+          "model": "MVEL2033F",
+          "demand": "medium"
+        },
+        {
+          "brand": "Whirlpool",
+          "model": "WMC30516HZ",
+          "demand": "medium"
+        },
+        {
+          "brand": "Panasonic",
+          "model": "NN-SN67KS",
+          "demand": "medium"
+        },
+        {
+          "brand": "Samsung",
+          "model": "MS14K6000AS",
+          "demand": "medium"
+        },
+        {
+          "brand": "GE",
+          "model": "JES1072SHSS",
+          "demand": "medium"
+        },
+        {
+          "brand": "Whirlpool",
+          "model": "WMH78519LZ",
+          "demand": "medium"
+        },
+        {
+          "brand": "LG",
+          "model": "MVEL2125F",
+          "demand": "medium"
+        },
+        {
+          "brand": "Samsung",
+          "model": "ME21DG6500SR",
+          "demand": "low"
+        },
+        {
+          "brand": "GE",
+          "model": "JNM7196SKSS",
+          "demand": "low"
+        }
+      ],
+      "generic_symptoms": [
+        {
+          "symptom": "Microwave not heating but runs / turntable turns",
+          "demand": "high"
+        },
+        {
+          "symptom": "Microwave won't turn on / no power / dead",
+          "demand": "high"
+        },
+        {
+          "symptom": "Microwave sparking or arcing inside",
+          "demand": "high"
+        },
+        {
+          "symptom": "Microwave turntable not turning / plate won't spin",
+          "demand": "high"
+        },
+        {
+          "symptom": "Microwave buttons / touchpad not responding",
+          "demand": "high"
+        },
+        {
+          "symptom": "Microwave door won't open or won't close / latch stuck",
+          "demand": "medium"
+        },
+        {
+          "symptom": "Microwave making loud noise / buzzing / grinding",
+          "demand": "medium"
+        },
+        {
+          "symptom": "Microwave keeps blowing the fuse / trips breaker",
+          "demand": "medium"
+        },
+        {
+          "symptom": "Microwave shuts off mid-cycle / overheating",
+          "demand": "medium"
+        },
+        {
+          "symptom": "Microwave light bulb out / vent fan not working",
+          "demand": "low"
+        }
+      ]
+    },
+    {
+      "appliance": "Furnace (gas, residential)",
+      "parts": [
+        {
+          "part": "Hot surface igniter (furnace ignitor)",
+          "top_brands": [
+            "Carrier",
+            "Goodman",
+            "Trane",
+            "York"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Flame sensor",
+          "top_brands": [
+            "Carrier",
+            "Goodman",
+            "Lennox",
+            "Trane"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Control board (main / integrated furnace control board)",
+          "top_brands": [
+            "Carrier",
+            "Goodman",
+            "Lennox",
+            "Trane"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Draft inducer motor (inducer / combustion blower)",
+          "top_brands": [
+            "Carrier",
+            "Goodman",
+            "Rheem",
+            "Trane"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Blower motor (circulating / ECM / PSC)",
+          "top_brands": [
+            "Goodman",
+            "Carrier",
+            "Trane",
+            "Rheem"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Pressure switch (air-proving switch)",
+          "top_brands": [
+            "Carrier",
+            "Goodman",
+            "Rheem",
+            "York"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Run / start capacitor (blower & inducer)",
+          "top_brands": [
+            "Goodman",
+            "Carrier",
+            "Rheem",
+            "Trane"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Gas valve",
+          "top_brands": [
+            "Carrier",
+            "Goodman",
+            "Trane",
+            "Lennox"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "High limit switch / fan limit switch",
+          "top_brands": [
+            "Carrier",
+            "Goodman",
+            "York",
+            "Rheem"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Thermocouple (standing-pilot models)",
+          "top_brands": [
+            "Rheem",
+            "York",
+            "Goodman",
+            "Carrier"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Transformer (24V control transformer)",
+          "top_brands": [
+            "Carrier",
+            "Goodman",
+            "Trane",
+            "Lennox"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Door switch (blower compartment safety switch)",
+          "top_brands": [
+            "Goodman",
+            "Carrier",
+            "Rheem",
+            "York"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Furnace air filter",
+          "top_brands": [
+            "Carrier",
+            "Trane",
+            "Lennox",
+            "Goodman"
+          ],
+          "demand": "high",
+          "buying_intent": "medium"
+        },
+        {
+          "part": "Flame rollout / spill switch",
+          "top_brands": [
+            "Carrier",
+            "Goodman",
+            "Trane",
+            "York"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Inducer / draft motor gasket & mounting assembly",
+          "top_brands": [
+            "Carrier",
+            "Goodman",
+            "Trane",
+            "Rheem"
+          ],
+          "demand": "medium",
+          "buying_intent": "medium"
+        },
+        {
+          "part": "Condensate drain trap / pressure switch hose (high-efficiency 90%+)",
+          "top_brands": [
+            "Carrier",
+            "Goodman",
+            "Rheem",
+            "Lennox"
+          ],
+          "demand": "medium",
+          "buying_intent": "medium"
+        },
+        {
+          "part": "Heat exchanger",
+          "top_brands": [
+            "Carrier",
+            "Trane",
+            "Lennox",
+            "Goodman"
+          ],
+          "demand": "medium",
+          "buying_intent": "low"
+        }
+      ],
+      "models": [
+        {
+          "brand": "Carrier",
+          "model": "58STA",
+          "demand": "high"
+        },
+        {
+          "brand": "Goodman",
+          "model": "GMVC96",
+          "demand": "high"
+        },
+        {
+          "brand": "Goodman",
+          "model": "GMSS96",
+          "demand": "high"
+        },
+        {
+          "brand": "York",
+          "model": "TG9S",
+          "demand": "high"
+        },
+        {
+          "brand": "Trane",
+          "model": "XR80",
+          "demand": "high"
+        },
+        {
+          "brand": "Trane",
+          "model": "XR90",
+          "demand": "high"
+        },
+        {
+          "brand": "Carrier",
+          "model": "59TP6",
+          "demand": "high"
+        },
+        {
+          "brand": "Lennox",
+          "model": "EL296V",
+          "demand": "high"
+        },
+        {
+          "brand": "York",
+          "model": "Diamond 80",
+          "demand": "high"
+        },
+        {
+          "brand": "Rheem",
+          "model": "R96V",
+          "demand": "medium"
+        },
+        {
+          "brand": "Trane",
+          "model": "S9V2",
+          "demand": "medium"
+        },
+        {
+          "brand": "Carrier",
+          "model": "59TN6",
+          "demand": "medium"
+        },
+        {
+          "brand": "Goodman",
+          "model": "GM9S96",
+          "demand": "medium"
+        },
+        {
+          "brand": "York",
+          "model": "YP9C",
+          "demand": "medium"
+        },
+        {
+          "brand": "Lennox",
+          "model": "ML193",
+          "demand": "medium"
+        }
+      ],
+      "generic_symptoms": [
+        {
+          "symptom": "Furnace not heating / blowing cold air",
+          "demand": "high"
+        },
+        {
+          "symptom": "Furnace not igniting (clicks but won't light)",
+          "demand": "high"
+        },
+        {
+          "symptom": "Furnace short cycling (turns on and off repeatedly)",
+          "demand": "high"
+        },
+        {
+          "symptom": "Furnace won't turn on / no power",
+          "demand": "high"
+        },
+        {
+          "symptom": "Furnace blower won't stop / runs constantly",
+          "demand": "high"
+        },
+        {
+          "symptom": "Furnace blower won't start / fan not running",
+          "demand": "high"
+        },
+        {
+          "symptom": "Furnace igniter glows but no flame",
+          "demand": "medium"
+        },
+        {
+          "symptom": "Furnace making loud / banging / rattling noise",
+          "demand": "medium"
+        },
+        {
+          "symptom": "Furnace lights then shuts off after a few seconds",
+          "demand": "medium"
+        },
+        {
+          "symptom": "Furnace leaking water (high-efficiency condensate)",
+          "demand": "medium"
+        }
+      ]
+    },
+    {
+      "appliance": "Ductless Mini Split (Air Conditioner / Heat Pump)",
+      "parts": [
+        {
+          "part": "Control board / main PCB (inverter board)",
+          "top_brands": [
+            "Mitsubishi",
+            "MRCOOL",
+            "Daikin",
+            "LG",
+            "Fujitsu"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Indoor blower / fan motor",
+          "top_brands": [
+            "Mitsubishi",
+            "MRCOOL",
+            "Daikin",
+            "Fujitsu",
+            "LG"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Outdoor condenser fan motor",
+          "top_brands": [
+            "Mitsubishi",
+            "MRCOOL",
+            "Daikin",
+            "Fujitsu",
+            "LG"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Remote control (handheld)",
+          "top_brands": [
+            "MRCOOL",
+            "Mitsubishi",
+            "Daikin",
+            "Fujitsu",
+            "LG"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Run / start capacitor",
+          "top_brands": [
+            "MRCOOL",
+            "Mitsubishi",
+            "Daikin",
+            "Fujitsu",
+            "LG"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Thermistor / temperature sensor",
+          "top_brands": [
+            "Mitsubishi",
+            "Daikin",
+            "Fujitsu",
+            "MRCOOL",
+            "LG"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Condensate / drain pump",
+          "top_brands": [
+            "MRCOOL",
+            "Mitsubishi",
+            "Daikin",
+            "Fujitsu",
+            "LG"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Drain pan float switch (safety switch)",
+          "top_brands": [
+            "MRCOOL",
+            "Mitsubishi",
+            "Daikin",
+            "Fujitsu",
+            "LG"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Reversing valve",
+          "top_brands": [
+            "Mitsubishi",
+            "Daikin",
+            "MRCOOL",
+            "Fujitsu",
+            "LG"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Compressor",
+          "top_brands": [
+            "Mitsubishi",
+            "Daikin",
+            "LG",
+            "Fujitsu",
+            "MRCOOL"
+          ],
+          "demand": "medium",
+          "buying_intent": "medium"
+        },
+        {
+          "part": "Electronic expansion valve (EEV) / stepper motor",
+          "top_brands": [
+            "Mitsubishi",
+            "Daikin",
+            "Fujitsu",
+            "MRCOOL",
+            "LG"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Blower wheel / fan blade",
+          "top_brands": [
+            "MRCOOL",
+            "Mitsubishi",
+            "Daikin",
+            "Fujitsu",
+            "LG"
+          ],
+          "demand": "medium",
+          "buying_intent": "medium"
+        },
+        {
+          "part": "Air filter (mesh / replacement filter set)",
+          "top_brands": [
+            "Mitsubishi",
+            "Daikin",
+            "MRCOOL",
+            "Fujitsu",
+            "LG"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Drain pan / condensate tray",
+          "top_brands": [
+            "Mitsubishi",
+            "MRCOOL",
+            "Daikin",
+            "Fujitsu",
+            "LG"
+          ],
+          "demand": "medium",
+          "buying_intent": "medium"
+        },
+        {
+          "part": "WiFi control module / signal receiver board",
+          "top_brands": [
+            "MRCOOL",
+            "LG",
+            "Mitsubishi",
+            "Daikin",
+            "Fujitsu"
+          ],
+          "demand": "medium",
+          "buying_intent": "medium"
+        },
+        {
+          "part": "Louver / swing flap motor (vane motor)",
+          "top_brands": [
+            "Mitsubishi",
+            "Daikin",
+            "Fujitsu",
+            "MRCOOL",
+            "LG"
+          ],
+          "demand": "low",
+          "buying_intent": "medium"
+        },
+        {
+          "part": "Evaporator coil",
+          "top_brands": [
+            "Mitsubishi",
+            "Daikin",
+            "Fujitsu",
+            "LG",
+            "MRCOOL"
+          ],
+          "demand": "low",
+          "buying_intent": "medium"
+        }
+      ],
+      "models": [
+        {
+          "brand": "MRCOOL",
+          "model": "DIY-12-HP-WMAH-230C25",
+          "demand": "high"
+        },
+        {
+          "brand": "MRCOOL",
+          "model": "DIY-18-HP-WMAH-230C25",
+          "demand": "high"
+        },
+        {
+          "brand": "MRCOOL",
+          "model": "DIY-24-HP-WMAH-230C25",
+          "demand": "high"
+        },
+        {
+          "brand": "Mitsubishi",
+          "model": "MSZ-FH12NA",
+          "demand": "high"
+        },
+        {
+          "brand": "Mitsubishi",
+          "model": "MSZ-GL12NA",
+          "demand": "high"
+        },
+        {
+          "brand": "Mitsubishi",
+          "model": "MSZ-FS12NA",
+          "demand": "high"
+        },
+        {
+          "brand": "Mitsubishi",
+          "model": "MSZ-FS09NA",
+          "demand": "medium"
+        },
+        {
+          "brand": "Daikin",
+          "model": "FTXS09LVJU",
+          "demand": "high"
+        },
+        {
+          "brand": "Daikin",
+          "model": "FTXV09AVJU9",
+          "demand": "medium"
+        },
+        {
+          "brand": "Daikin",
+          "model": "FTXV18AVJU9",
+          "demand": "medium"
+        },
+        {
+          "brand": "LG",
+          "model": "LS120HSV5",
+          "demand": "high"
+        },
+        {
+          "brand": "LG",
+          "model": "LSU120HSV5",
+          "demand": "medium"
+        },
+        {
+          "brand": "LG",
+          "model": "LAN120HSV5",
+          "demand": "medium"
+        },
+        {
+          "brand": "Fujitsu",
+          "model": "ASU9RLF",
+          "demand": "high"
+        },
+        {
+          "brand": "Fujitsu",
+          "model": "ASU12RLF1",
+          "demand": "medium"
+        }
+      ],
+      "generic_symptoms": [
+        {
+          "symptom": "Mini split leaking water / dripping from indoor unit",
+          "demand": "high"
+        },
+        {
+          "symptom": "Mini split not cooling",
+          "demand": "high"
+        },
+        {
+          "symptom": "Mini split not heating",
+          "demand": "high"
+        },
+        {
+          "symptom": "Mini split blinking light / flashing error code",
+          "demand": "high"
+        },
+        {
+          "symptom": "Mini split won't turn on / outdoor unit not running",
+          "demand": "high"
+        },
+        {
+          "symptom": "Mini split won't drain / clogged drain line",
+          "demand": "medium"
+        },
+        {
+          "symptom": "Mini split fan not blowing air",
+          "demand": "medium"
+        },
+        {
+          "symptom": "Mini split freezing up / ice on coils",
+          "demand": "medium"
+        },
+        {
+          "symptom": "Mini split making noise / rattling",
+          "demand": "medium"
+        },
+        {
+          "symptom": "Mini split musty / bad smell",
+          "demand": "medium"
+        }
+      ]
+    },
+    {
+      "appliance": "Water Heater",
+      "parts": [
+        {
+          "part": "Heating Element (electric, screw-in / flange)",
+          "top_brands": [
+            "Rheem",
+            "A.O. Smith",
+            "Bradford White"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Thermocouple (gas pilot sensor)",
+          "top_brands": [
+            "Bradford White",
+            "A.O. Smith",
+            "Rheem"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Thermostat (upper/lower electric, surface-mount)",
+          "top_brands": [
+            "Rheem",
+            "A.O. Smith",
+            "Bradford White"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Gas Control Valve / Thermostat Valve (tank gas)",
+          "top_brands": [
+            "Bradford White",
+            "Rheem",
+            "A.O. Smith"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Anode Rod (sacrificial magnesium/aluminum)",
+          "top_brands": [
+            "A.O. Smith",
+            "Bradford White",
+            "Rheem"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Temperature & Pressure Relief Valve (T&P / TPR)",
+          "top_brands": [
+            "Rheem",
+            "A.O. Smith",
+            "Bradford White"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Pilot Assembly / Burner Assembly (gas)",
+          "top_brands": [
+            "Bradford White",
+            "A.O. Smith",
+            "Rheem"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Flow Sensor / Flow Meter (tankless)",
+          "top_brands": [
+            "Navien",
+            "Rinnai",
+            "Rheem"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Flame Rod / Flame Sensor (tankless)",
+          "top_brands": [
+            "Navien",
+            "Rinnai",
+            "Rheem"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Igniter / Ignition Electrode (tankless)",
+          "top_brands": [
+            "Rinnai",
+            "Navien",
+            "Rheem"
+          ],
+          "demand": "high",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Control Board / PCB / Main Board (tankless)",
+          "top_brands": [
+            "Navien",
+            "Rinnai",
+            "Rheem"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Heat Exchanger (tankless / condensing secondary)",
+          "top_brands": [
+            "Rinnai",
+            "Navien",
+            "Rheem"
+          ],
+          "demand": "medium",
+          "buying_intent": "medium"
+        },
+        {
+          "part": "Dip Tube (cold water inlet)",
+          "top_brands": [
+            "Bradford White",
+            "Rheem",
+            "A.O. Smith"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Drain Valve (tank)",
+          "top_brands": [
+            "Rheem",
+            "A.O. Smith",
+            "Bradford White"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "High-Limit Switch / ECO (electric reset, upper thermostat)",
+          "top_brands": [
+            "Rheem",
+            "A.O. Smith",
+            "Bradford White"
+          ],
+          "demand": "medium",
+          "buying_intent": "high"
+        },
+        {
+          "part": "Water Inlet Valve / Cold Water Isolation Valve Kit (tankless)",
+          "top_brands": [
+            "Navien",
+            "Rinnai",
+            "Rheem"
+          ],
+          "demand": "medium",
+          "buying_intent": "medium"
+        },
+        {
+          "part": "Air Pressure Switch / Vent Pressure Switch (gas & tankless)",
+          "top_brands": [
+            "Rheem",
+            "Navien",
+            "Rinnai"
+          ],
+          "demand": "low",
+          "buying_intent": "medium"
+        }
+      ],
+      "models": [
+        {
+          "brand": "Navien",
+          "model": "NPE-240A2",
+          "demand": "high"
+        },
+        {
+          "brand": "Rinnai",
+          "model": "RU199iN",
+          "demand": "high"
+        },
+        {
+          "brand": "Rheem",
+          "model": "XE40M06ST45U1",
+          "demand": "high"
+        },
+        {
+          "brand": "A.O. Smith",
+          "model": "E6-50H45DV",
+          "demand": "high"
+        },
+        {
+          "brand": "Bradford White",
+          "model": "RG240T6N",
+          "demand": "high"
+        },
+        {
+          "brand": "Rheem",
+          "model": "RTGH-95DVLN",
+          "demand": "high"
+        },
+        {
+          "brand": "Navien",
+          "model": "NPE-180S2",
+          "demand": "medium"
+        },
+        {
+          "brand": "Rinnai",
+          "model": "RUR199iN",
+          "demand": "medium"
+        },
+        {
+          "brand": "Rheem",
+          "model": "XE50T10HS45U1",
+          "demand": "medium"
+        },
+        {
+          "brand": "A.O. Smith",
+          "model": "E6-50R45DV",
+          "demand": "medium"
+        },
+        {
+          "brand": "Bradford White",
+          "model": "RG250T6N",
+          "demand": "medium"
+        },
+        {
+          "brand": "Rinnai",
+          "model": "V65iN",
+          "demand": "medium"
+        },
+        {
+          "brand": "Rheem",
+          "model": "XE40T06ST45U1",
+          "demand": "medium"
+        },
+        {
+          "brand": "A.O. Smith",
+          "model": "EEU6-50H45DV",
+          "demand": "low"
+        }
+      ],
+      "generic_symptoms": [
+        {
+          "symptom": "water heater no hot water",
+          "demand": "high"
+        },
+        {
+          "symptom": "water heater not heating",
+          "demand": "high"
+        },
+        {
+          "symptom": "water heater leaking",
+          "demand": "high"
+        },
+        {
+          "symptom": "water heater pilot light won't stay lit",
+          "demand": "high"
+        },
+        {
+          "symptom": "water not hot enough / runs out of hot water fast",
+          "demand": "high"
+        },
+        {
+          "symptom": "water heater making popping or rumbling noise",
+          "demand": "medium"
+        },
+        {
+          "symptom": "hot water smells like rotten eggs (sulfur)",
+          "demand": "medium"
+        },
+        {
+          "symptom": "water heater reset button keeps tripping",
+          "demand": "medium"
+        },
+        {
+          "symptom": "discolored / rusty brown hot water",
+          "demand": "medium"
+        },
+        {
+          "symptom": "tankless water heater error code / won't ignite",
+          "demand": "medium"
+        }
+      ]
+    }
+  ]
+}

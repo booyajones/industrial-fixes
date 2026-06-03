@@ -400,8 +400,8 @@ BANNED = re.compile(r"\b(ensure|crucial|vital|leverage|robust|seamless)\b", re.I
 
 
 def assemble_md(topic: str, c: dict, slug: str, draft: bool = False) -> str:
-    title = c["title"].replace("—", "-").strip()
-    desc = c["description"].replace("—", "-").strip()
+    title = c["title"].replace("—", "-").replace('"', '\\"').strip()
+    desc = c["description"].replace("—", "-").replace('"', '\\"').strip()
     author = AUTHORS[abs(hash(slug)) % len(AUTHORS)]
     cat = c.get("equipment_category", "other")
     brand = c.get("brand_slug", "").strip()
