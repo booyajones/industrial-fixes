@@ -5,25 +5,31 @@ import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
 import { SITE } from "@/config";
 
+// Consumer brands only. Industrial brand hubs stay generable but are de-linked
+// from this consumer page (P2 quarantine). Order = section order on the page.
 const BRAND_LIST = [
-  { slug: "carrier", name: "Carrier", category: "HVAC" },
-  { slug: "goodman", name: "Goodman", category: "HVAC" },
-  { slug: "lennox", name: "Lennox", category: "HVAC" },
-  { slug: "trane", name: "Trane", category: "HVAC" },
-  { slug: "rheem", name: "Rheem", category: "HVAC" },
-  { slug: "york", name: "York", category: "HVAC" },
-  { slug: "daikin", name: "Daikin", category: "HVAC" },
-  { slug: "mitsubishi", name: "Mitsubishi", category: "HVAC" },
-  { slug: "fujitsu", name: "Fujitsu", category: "HVAC" },
-  { slug: "hoshizaki", name: "Hoshizaki", category: "Refrigeration" },
-  { slug: "manitowoc", name: "Manitowoc", category: "Refrigeration" },
-  { slug: "fanuc", name: "Fanuc", category: "CNC / Industrial" },
-  { slug: "haas", name: "Haas", category: "CNC / Industrial" },
-  { slug: "yaskawa", name: "Yaskawa", category: "Drives / VFD" },
-  { slug: "abb", name: "ABB", category: "Drives / VFD" },
-  { slug: "siemens", name: "Siemens", category: "Drives / Industrial" },
-  { slug: "allen-bradley", name: "Allen-Bradley", category: "Drives / Industrial" },
-  { slug: "danfoss", name: "Danfoss", category: "Drives / VFD" },
+  { slug: "samsung", name: "Samsung", category: "Appliances" },
+  { slug: "lg", name: "LG", category: "Appliances" },
+  { slug: "whirlpool", name: "Whirlpool", category: "Appliances" },
+  { slug: "ge", name: "GE", category: "Appliances" },
+  { slug: "frigidaire", name: "Frigidaire", category: "Appliances" },
+  { slug: "maytag", name: "Maytag", category: "Appliances" },
+  { slug: "bosch", name: "Bosch", category: "Appliances" },
+  { slug: "kitchenaid", name: "KitchenAid", category: "Appliances" },
+  { slug: "kenmore", name: "Kenmore", category: "Appliances" },
+  { slug: "electrolux", name: "Electrolux", category: "Appliances" },
+  { slug: "amana", name: "Amana", category: "Appliances" },
+  { slug: "carrier", name: "Carrier", category: "Heating & Cooling" },
+  { slug: "goodman", name: "Goodman", category: "Heating & Cooling" },
+  { slug: "lennox", name: "Lennox", category: "Heating & Cooling" },
+  { slug: "trane", name: "Trane", category: "Heating & Cooling" },
+  { slug: "rheem", name: "Rheem", category: "Heating & Cooling" },
+  { slug: "york", name: "York", category: "Heating & Cooling" },
+  { slug: "daikin", name: "Daikin", category: "Heating & Cooling" },
+  { slug: "mitsubishi", name: "Mitsubishi", category: "Heating & Cooling" },
+  { slug: "fujitsu", name: "Fujitsu", category: "Heating & Cooling" },
+  { slug: "navien", name: "Navien", category: "Water Heaters" },
+  { slug: "rinnai", name: "Rinnai", category: "Water Heaters" },
 ];
 
 const allPosts = await getCollection("blog");
@@ -38,8 +44,8 @@ const brandData = BRAND_LIST.map(({ slug, name, category }) => {
 // Group by category
 const categories = [...new Set(BRAND_LIST.map(b => b.category))];
 
-const pageTitle = "Error Codes by Brand — All Manufacturers";
-const pageDesc = "Browse error code fix guides by manufacturer. Carrier, Goodman, Lennox, Trane, Fanuc, ABB, Siemens, and more — every fault code explained with step-by-step repair guides.";
+const pageTitle = "Appliance Error Codes by Brand";
+const pageDesc = "Browse appliance error code fix guides by brand. Samsung, LG, Whirlpool, GE, Frigidaire, Maytag, Bosch, KitchenAid and more, with the real cause and the exact OEM part for every code.";
 ---
 
 <Layout title={`${pageTitle} | ${SITE.title}`} description={pageDesc}>
