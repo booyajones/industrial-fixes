@@ -44,3 +44,10 @@ Reliability issues center around the pressure switch circuit and ignition system
 ## When to Call a Pro
 
 Call a licensed HVAC technician for any gas valve replacement, gas piping work, or combustion testing. Professionals should handle control board replacement, complex wiring diagnostics, or polarity and grounding faults. If you have repeated ignition lockouts after replacing the igniter and cleaning the flame sensor, or if pressure switch codes persist after clearing vents and drains, the issue likely requires airflow measurement, pressure switch testing, or inducer motor diagnostics beyond DIY scope. Gas work and electrical troubleshooting on modulating furnaces require proper tools and safety procedures.
+
+## See Also
+
+- [York 2 Flashes Error Code — Causes & Fix](/posts/york-2-flashes-error-code/)
+- [York Affinity Series Packaged Unit Error Codes: Complete Guide](/posts/york-affiniti-error-codes/)
+- [York Furnace Error Code E3 — Causes & Fix](/posts/york-furnace-error-code-e3/)
+- [York Affinity Error Codes - What It Means and How to Fix It](/posts/york-affinity-error-codes/)

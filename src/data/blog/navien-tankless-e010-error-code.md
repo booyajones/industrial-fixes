@@ -48,3 +48,10 @@ The heater's air pressure sensor monitors combustion air supply and exhaust cond
 ## When to Call a Pro
 
 Call a licensed technician if you are not comfortable working with gas appliances, if the error persists after cleaning the filter and checking obvious vent obstructions, or if you suspect a faulty air pressure sensor or venting code violation. A technician has the tools to measure differential pressure, verify sensor operation, and correct complex venting issues. Any work involving gas connections, combustion diagnostics, or electrical component replacement on a tankless heater should be performed by a qualified professional to maintain warranty coverage and make sure safe operation.
+
+## See Also
+
+- [Navien Error Code E013 — Causes & Fix](/posts/navien-error-code-e013/)
+- [Navien E515 Error Code - Causes & Fix](/posts/navien-tankless-e515-error-code/)
+- [Navien Error Code E022 — Hot Water Outlet Thermistor Fault Fix](/posts/navien-error-code-e022/)
+- [Navien E012 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e012-error-code/)

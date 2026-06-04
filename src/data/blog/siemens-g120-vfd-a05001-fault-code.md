@@ -46,3 +46,10 @@ A05001 is an alarm indicating that the Power Module in your Siemens SINAMICS G12
 ## When to Call a Pro
 
 Call a qualified drive technician or contact Siemens technical support if the A05001 alarm returns immediately after cooling and cleaning, if you measure normal airflow and ambient conditions but the drive still overheats, or if you are not comfortable working with three-phase power and VFD internal components. Persistent thermal alarms after environmental corrections usually mean an internal Power Module fault that requires module-level replacement or factory service. If your process cannot tolerate downtime for troubleshooting, bring in a professional with Siemens-specific diagnostic tools and replacement parts on hand.
+
+## See Also
+
+- [Siemens G120 F01659 - Causes & Fix](/posts/siemens-g120-vfd-f01659-fault-code/)
+- [Siemens Micromaster F0015 - Causes & Fix](/posts/siemens-micromaster-f0015-fault-code/)
+- [Siemens SINAMICS G120 F30021 Fault — Ground Fault Fix](/posts/siemens-sinamics-f30021-fault/)
+- [Siemens G120 A05000 - Causes & Fix](/posts/siemens-g120-a05000-fault-code/)

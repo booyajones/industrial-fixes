@@ -46,3 +46,10 @@ Because this code is not standard, you cannot safely assume its cause without ve
 ## When to Call a Pro
 
 Call a qualified drive technician or contact Yaskawa technical support immediately if you cannot find E22 in your manual, if the code reappears after reset, or if the drive will not clear the fault. The GA800 maintenance documentation explicitly states that repairs beyond fan and control board replacement are outside the scope of field service. Do not attempt to modify parameters, swap boards, or bypass interlocks without manufacturer guidance, as this can damage the drive or create unsafe motor operation.
+
+## See Also
+
+- [Yaskawa V1000 Complete Fault Code Guide — All Faults and Fixes](/posts/yaskawa-v1000-complete-guide/)
+- [Yaskawa GA800 E16 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e16-fault-code/)
+- [Yaskawa GA800 E17 Fault - Causes & Fix](/posts/yaskawa-ga800-e17-fault-code/)
+- [Yaskawa GA800 E11 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e11-fault-code/)

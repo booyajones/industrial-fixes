@@ -70,3 +70,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you cannot safely access or read the control-board flash code, if the fault returns immediately after resetting a safety switch (which may indicate a cracked heat exchanger or serious venting problem), or if the diagnosis requires gas-valve testing, inducer performance measurement, or control-board replacement. Any work involving gas piping, burner adjustment, ignition components, or heat-exchanger inspection should be performed by a qualified professional to prevent fire, carbon-monoxide, or explosion hazards. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Lennox XC16 Air Conditioner Error Codes — Fault Code Diagnostic Guide](/posts/lennox-xc16-error-codes/)
+- [Lennox Error Code 432 — Causes & Fix](/posts/lennox-error-code-432/)
+- [Lennox E250 Error Code - Causes & Fix](/posts/lennox-furnace-e250-error-code/)
+- [Lennox iComfort Error Code 31 — Pressure Switch Fault Diagnosis and Fix](/posts/lennox-icomfort-error-code-31/)

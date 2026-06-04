@@ -51,3 +51,10 @@ The code can point to a failed remote control, weak batteries, blocked infrared 
 ## When to Call a Pro
 
 Call a licensed HVAC technician if the error persists after replacing batteries and resetting power, if you find reversed or damaged wiring that you cannot safely correct, or if voltage measurements fall outside the nameplate range. PCB-level diagnosis and component replacement require soldering skills, schematic reading, and specialized test equipment. Any work involving refrigerant lines, high-voltage circuits, or warranty-covered components should be performed only by a qualified Mitsubishi-certified service provider to avoid voiding coverage and make sure safe, compliant repairs.
+
+## See Also
+
+- [Mitsubishi Mini Split Ice on Coils - Causes & Fix](/posts/mitsubishi-mini-split-ice-on-coils/)
+- [Mitsubishi P4 Error Code — Drain System Fault: Causes & Fix](/posts/mitsubishi-p4-error-code/)
+- [Mitsubishi Mini Split Not Cooling - Causes & Fix](/posts/mitsubishi-mini-split-not-cooling/)
+- [Mitsubishi F0004 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-f0004-error-code/)

@@ -69,3 +69,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with gas appliances, if you cannot safely access the control board or flame sensor, or if the LED code points to a gas valve, control board, or pressure switch failure. Professional service is also recommended if the furnace repeatedly trips safeties after you have replaced the filter and cleaned the flame sensor, or if you smell gas at any point during troubleshooting. Techs have the meters and manometers to test gas pressure, flame current, and pressure switch operation accurately. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Goodman d0 Error Code - Causes & Fix](/posts/goodman-heat-pump-d0-error-code/)
+- [Goodman Furnace 2 Flashes — Pressure Switch Stuck Closed Fix](/posts/goodman-furnace-2-flashes/)
+- [Amana / Goodman Furnace 3 Flash Error Code — Causes & Fix](/posts/goodman-amana-furnace-3-flash/)
+- [Goodman GSX13 Air Conditioner Error Codes — Fault Code Diagnostic Guide](/posts/goodman-gsx13-error-codes/)

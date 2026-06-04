@@ -63,3 +63,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician for any work involving the igniter circuit, gas valve, or burner assembly. Gas furnace ignition and combustion diagnostics require specific voltage, continuity, and gas pressure measurements that must match your exact furnace model's specifications. A technician will also verify proper venting, pressure switch operation, and flame sensing to prevent unsafe conditions or repeat failures. If you are not trained in gas appliance repair, do not attempt to replace the igniter, gas valve, or control board yourself. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Trane YSC Packaged Rooftop Error Codes — Fault Code Diagnostic Guide](/posts/trane-ysc-error-codes/)
+- [Trane 5 Flashes Error Code — Causes & Fix](/posts/trane-5-flashes-error-code/)
+- [Trane XR80 Blinking Yellow Light Codes - Causes & Fix](/posts/trane-xr80-blinking-yellow-light-codes-meaning/)
+- [Trane 9 Flashes Error Code — Causes & Fix](/posts/trane-9-flashes-error-code/)

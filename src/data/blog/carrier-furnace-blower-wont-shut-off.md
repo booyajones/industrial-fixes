@@ -62,3 +62,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a professional if you are not comfortable working with 24V control wiring or 120V blower circuits, if the control board or blower motor module needs replacement, or if a rollout switch continues to trip after you have corrected airflow issues. Any work involving gas burners, ignition components, or repeated safety trips should be handled by a qualified HVAC technician. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Carrier 45 Error Code — Causes & Fix](/posts/carrier-45-error-code/)
+- [Carrier Heat Pump E14 Error Code - Causes & Fix](/posts/carrier-heat-pump-e14-error-code/)
+- [Carrier WeatherMaker RTU Error Code 23 — Fix](/posts/carrier-weathermaster-rtu-error-code-23/)
+- [Carrier E8 Error Code - Causes & Fix](/posts/carrier-heat-pump-e8-error-code/)

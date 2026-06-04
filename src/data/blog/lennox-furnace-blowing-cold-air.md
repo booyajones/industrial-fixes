@@ -69,3 +69,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician if the burners will not light, if burners light then drop out after you have checked the filter and thermostat settings, if you suspect a gas-valve or gas-supply problem, or if you see a diagnostic fault code on the furnace control board. Gas-related work, ignition component testing, flame-sensor cleaning or replacement, and refrigerant work (on heat pumps) all require proper tools and safety training. If you have cleared the filter and confirmed AUTO fan mode but still get continuous cold air, a pro can read the exact fault code and follow the model-specific service manual to pinpoint the cause. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Lennox Furnace Won't Turn On - Causes & Fix](/posts/lennox-furnace-wont-turn-on/)
+- [Lennox ML193 Furnace Problems & Error Codes](/posts/lennox-ml193-furnace-gas-residential-problems/)
+- [Lennox Error Code 224 — HSI Relay Failure Fix](/posts/lennox-error-code-224/)
+- [Lennox Furnace Short Cycling - Causes & Fix](/posts/lennox-furnace-short-cycling/)

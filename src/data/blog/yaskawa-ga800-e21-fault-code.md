@@ -48,3 +48,10 @@ This is not a motor overload or input power problem. It is a signal integrity is
 ## When to Call a Pro
 
 Call a qualified drive technician or Yaskawa service partner if the E21 fault remains after you have verified all wiring, tried a known-good encoder cable, and ruled out obvious mechanical or connection problems. Encoder signal troubleshooting with an oscilloscope and control board replacement both require experience with feedback systems and electrostatic-safe handling. If your application is mission-critical or you do not have a spare encoder or cable to isolate the fault, bring in a pro before you risk damaging good components with trial-and-error swaps.
+
+## See Also
+
+- [Yaskawa GA800 E26 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e26-fault-code/)
+- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)
+- [Yaskawa GA800 E09 Fault - Causes & Fix](/posts/yaskawa-ga800-e09-fault-code/)
+- [Yaskawa GA800 E22 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e22-fault-code/)

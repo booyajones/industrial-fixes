@@ -71,3 +71,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a pro if you confirm no airflow at the vent during the last 30 minutes of drying, if the heating element or vent fan motor tests faulty, or if rinse aid and cycle-option changes do not improve performance. Electrical testing of the heater circuit, vent fan, and control board connections requires proper meter work and safe access to live components. LG does not publish resistance or voltage specs for the drying system in consumer guidance, so component-level diagnosis relies on field experience and proper part testing.
+
+## See Also
+
+- [LG Dishwasher bE Error Code - Causes & Fix](/posts/lg-dishwasher-be-error-code/)
+- [LG Dryer Won't Start - Causes & Fix](/posts/lg-dryer-wont-start/)
+- [LG LS120HSV5 Ductless Mini Split Problems & Error Codes](/posts/lg-ls120hsv5-ductless-mini-split-air-conditioner-problems/)
+- [LG Range HE Error Code - Causes & Fix](/posts/lg-range-he-error-code/)

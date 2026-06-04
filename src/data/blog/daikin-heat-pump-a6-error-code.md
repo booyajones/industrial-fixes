@@ -47,3 +47,10 @@ The A6 error code on a Daikin heat pump or air conditioner indicates a fan motor
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with line voltage, if the blower wheel is difficult to access, or if you lack a multimeter and wiring diagrams for your specific Daikin model. Fan motor and PCB diagnostics require measuring live DC control circuits and interpreting feedback signals that vary by model. Professional service also ensures warranty coverage is preserved and that refrigerant lines are not disturbed during indoor unit disassembly.
+
+## See Also
+
+- [Daikin UH Error Code - Causes & Fix](/posts/daikin-heat-pump-uh-error-code/)
+- [Daikin J6 Error Code - Causes & Fix](/posts/daikin-heat-pump-j6-error-code/)
+- [Daikin A9 Error Code - Causes & Fix](/posts/daikin-mini-split-a9-error-code/)
+- [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)

@@ -42,3 +42,10 @@ The York Diamond 80 is an 80% AFUE residential gas furnace sold across multiple 
 ## When to Call a Pro
 
 Call a licensed HVAC technician for any ignition lockout that persists after cleaning the flame sensor and confirming gas supply, for pressure-switch or inducer motor diagnosis, for gas valve testing or replacement, and for all control-board swap or low-voltage wiring troubleshooting. Gas work and combustion tuning require proper test instruments, combustion analysis, and code compliance. If you see repeated limit trips or smell gas at any time, shut off the furnace at the service switch and gas valve and call for service immediately.
+
+## See Also
+
+- [York Chiller Fault Codes — Complete Troubleshooting Guide](/posts/york-chiller-fault-codes/)
+- [York Affinity Series Packaged Unit Error Codes: Complete Guide](/posts/york-affiniti-error-codes/)
+- [York 4 Flashes Error Code — Open Limit Device Fix](/posts/york-4-flashes-error-code/)
+- [York Furnace Error Code E2 — Causes & Fix](/posts/york-furnace-e2-error-code/)

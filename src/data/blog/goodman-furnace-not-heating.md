@@ -68,3 +68,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a professional if you see a rollout-switch fault (six flashes), smell gas, or find soot or rust inside the burner compartment. Rollout and flame-sensing-when-off codes point to heat-exchanger cracks or gas-valve leaks that require combustion analysis and pressure testing. Likewise, if you've cleaned the flame sensor and replaced the igniter but the furnace still locks out on ignition codes, a technician with a manometer and microamp meter can pinpoint valve, grounding, or flame-current problems that are not visible during a basic inspection. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Goodman B9 Error Code - Causes & Fix](/posts/goodman-heat-pump-b9-error-code/)
+- [Goodman Heat Pump E1 Error Code — Pressure Switch Fault](/posts/goodman-heat-pump-error-code-e1/)
+- [Goodman Furnace Short Cycling - Causes & Fix](/posts/goodman-furnace-short-cycling/)
+- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)

@@ -48,3 +48,10 @@ If your display shows a different code or if E20 appears on an older keypad, the
 ## When to Call a Pro
 
 Call a qualified Yaskawa technician or authorized service center if the fault code does not match any entry in your GA800 manual, if you cannot safely access the encoder connector due to machine design, or if replacing the encoder cable does not clear the alarm. Professional support is also necessary when the alarm table directs you to replace the SERVOPACK or servomotor, as these components require configuration, parameter transfer, and sometimes mechanical alignment to restore proper operation.
+
+## See Also
+
+- [Yaskawa GA800 E01 Fault - Motor Data Error During Auto-Tune](/posts/yaskawa-ga800-e01-fault-code/)
+- [Yaskawa V1000 Complete Fault Code Guide — All Faults and Fixes](/posts/yaskawa-v1000-complete-guide/)
+- [Yaskawa VFD Fault ER — Causes & Fix](/posts/yaskawa-vfd-fault-er/)
+- [Yaskawa J1000 Fault Codes — VFD Troubleshooting Guide](/posts/yaskawa-j1000-fault-codes/)

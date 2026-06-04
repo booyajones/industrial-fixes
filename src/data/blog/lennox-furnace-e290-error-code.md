@@ -46,3 +46,10 @@ E290 on a Lennox furnace signals an ignitor circuit fault. The control board has
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with line voltage or gas appliances, if the fault returns after you replace the ignitor, or if voltage testing indicates a control-board problem. Integrated control diagnostics require model-specific test points and a clear understanding of the Lennox troubleshooting flowchart. A pro will also verify proper gas pressure, flame sensing, and sequence-of-operation timing to rule out secondary issues that can stress the ignitor circuit.
+
+## See Also
+
+- [Lennox Furnace Error Codes — Complete Reference Guide](/posts/lennox-furnace-error-codes/)
+- [Lennox Error Code 411 — Ignition Proving Fault Fix](/posts/lennox-error-code-411/)
+- [Lennox Furnace Not Heating - Causes & Fix](/posts/lennox-furnace-not-heating/)
+- [Lennox Error Code 114 — Causes & Fix](/posts/lennox-error-code-114/)

@@ -64,3 +64,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a licensed HVAC technician for any work involving the gas valve, ignition system, burner assembly, or control board diagnostics. If the furnace is in hard lockout and the fault code points to ignition failure, pressure switch fault, or flame sensing error, a tech can safely trace voltage, check the inducer and pressure switch sequence, measure flame signal, and verify gas valve operation. Professional diagnosis is also recommended if you have replaced basic items like the filter and thermostat batteries and the furnace still will not start. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Trane 5 Flashes Error Code — Causes & Fix](/posts/trane-5-flashes-error-code/)
+- [Trane Tracer BAS Fault Codes - Complete Guide](/posts/trane-tracer-fault-codes/)
+- [Trane E8 Error Code - Causes & Fix](/posts/trane-heat-pump-e8-error-code/)
+- [Trane Voyager RTU Error Code 31 — Fix](/posts/trane-voyager-rtu-error-code-31/)

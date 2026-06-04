@@ -124,5 +124,17 @@
     "score": 0,
     "reason": "review error: HTTP Error 429: Too Many Requests",
     "date": "2026-06-03"
+  },
+  "siemens-g120-vfd-f0010-fault-code": {
+    "topic": "Siemens G120 VFD F0010 fault code",
+    "score": 6,
+    "reason": "Research explicitly states F0010 is NOT definitively verified for G120 in manufacturer sources\u2014'I cannot state that exact mapping with full manufacturer confidence'\u2014but draft presents it as confirmed fact; fails criterion 1 (real/documented for exact brand+model).",
+    "date": "2026-06-04"
+  },
+  "siemens-g120-vfd-f0011-fault-code": {
+    "topic": "Siemens G120 VFD F0011 fault code",
+    "score": 6,
+    "reason": "F0011 is NOT documented as a real G120 fault code per the research; the draft correctly warns this but shouldn't be published under 'Siemens G120 F0011' when the code doesn't exist for that model.",
+    "date": "2026-06-04"
   }
 }

@@ -69,3 +69,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician if the short cycling continues after you have replaced the filter, cleared all vents, and cleaned the flame sensor. Gas-pressure testing, inducer-motor diagnostics, control-board troubleshooting, and vent-system inspection require gauges and safety training. If you see standing water in the inducer, smell gas during the cycles, or the furnace locks out completely, shut off the unit at the service switch and call for service immediately. Furnace sizing and duct-design problems also require professional load calculations and airflow measurement. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Goodman Furnace Won't Turn On - Causes & Fix](/posts/goodman-furnace-wont-turn-on/)
+- [Goodman Heat Pump E7 Error Code - Causes & Fix](/posts/goodman-heat-pump-e7-error-code/)
+- [Goodman GMVC96 Furnace Problems & Error Codes](/posts/goodman-gmvc96-furnace-gas-residential-problems/)
+- [Goodman GMS96 Error Codes — Fault Code Guide](/posts/goodman-gms96-error-codes/)

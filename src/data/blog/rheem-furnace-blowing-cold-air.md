@@ -63,3 +63,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician for any work involving gas supply, gas valve testing, ignition system replacement, or combustion venting. If you have cleared the filter and confirmed the thermostat fan setting but the furnace still does not produce heat or shows a fault code you cannot resolve, professional diagnosis with combustion analysis and electrical testing is the safe next step. Flame sensor issues and pressure switch diagnostics can often be handled by a homeowner comfortable with basic electrical testing, but igniter replacement and all gas-side troubleshooting should be left to a licensed pro. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rheem RGPS Furnace Error Codes — Flash Code Diagnostic Guide](/posts/rheem-rgps-error-codes/)
+- [Rheem RTGH-95DVLN Problems & Error Codes](/posts/rheem-rtgh-95dvln-water-heater-problems/)
+- [Rheem Furnace 4 Flashes - Causes & Fix](/posts/rheem-furnace-4-flashes-error-code/)
+- [Rheem RA13 Air Conditioner Error Codes — Fault Code Diagnostic Guide](/posts/rheem-ra13-error-codes/)

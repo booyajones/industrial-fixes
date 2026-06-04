@@ -46,3 +46,10 @@ ALARM 36 on a Danfoss VLT FC 302 means mains failure. The drive has lost its sup
 ## When to Call a Pro
 
 Call a qualified electrician or drive technician if you are not trained to work safely with live industrial AC power, if you cannot locate the source of the mains loss after checking the upstream supply and input fuses, or if the alarm persists even when you have confirmed that proper line voltage is present at the drive input terminals. A recurring ALARM 36 with good incoming power may indicate a configuration issue or an internal control fault that requires factory support or a field service engineer.
+
+## See Also
+
+- [Danfoss FC302 ALARM 35 - Causes & Fix](/posts/danfoss-fc302-alarm-35-fault-code/)
+- [Danfoss VFD Fault W30 — Brake Resistor Overtemperature Fix](/posts/danfoss-vfd-fault-w30/)
+- [Danfoss FC302 Alarm 25 - Causes & Fix](/posts/danfoss-fc302-alarm-25-fault-code/)
+- [Danfoss FC302 Alarm 20 - Causes & Fix](/posts/danfoss-fc302-alarm-20-fault-code/)

@@ -63,3 +63,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you are not comfortable working around gas appliances, if the fault code returns after you have corrected the obvious causes, or if the diagnosis points to ignition components, the gas valve, the control board, or the inducer motor. A technician can verify gas manifold pressure, measure flame sense microamps, check for proper grounding and phasing on the power supply, and safely replace ignition or control components. Do not bypass safety switches or attempt repeated manual resets without identifying and correcting the underlying fault, as this can damage the control board or create an unsafe condition. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)
+- [Rheem Tankless Water Heater Error 76 - Causes & Fix](/posts/rheem-tankless-water-heater-76-error-code/)
+- [Rheem Furnace 5 Flashes Error Code — Flame Sensor Fault Fix](/posts/rheem-furnace-5-flashes-flame-sensor/)
+- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)

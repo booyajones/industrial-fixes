@@ -48,3 +48,10 @@ F0002 does not appear in Mitsubishi Electric's documented fault-code library for
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you cannot locate the service manual for your exact Mitsubishi model, if the fault-code retrieval procedure does not match any published instructions, or if you do not have a multimeter and refrigeration gauges to safely test control voltages and refrigerant pressures. Also call a pro if the real fault code points to inverter or compressor failures, or if you have already replaced wiring or a board and the error returns. Mitsubishi systems often require model-specific software tools and refrigerant handling that are beyond typical homeowner scope.
+
+## See Also
+
+- [Mitsubishi P8 Error Code — Causes & Fix](/posts/mitsubishi-p8-error-code/)
+- [Mitsubishi MSZ-FS09NA Problems & Error Codes](/posts/mitsubishi-msz-fs09na-ductless-mini-split-air-conditioner-problems/)
+- [Mitsubishi F0003 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-f0003-error-code/)
+- [Mitsubishi Mini Split E9 Error Code — Causes & Fix](/posts/mitsubishi-mini-split-e9-error-code/)

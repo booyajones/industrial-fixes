@@ -64,3 +64,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a professional for any work involving gas piping, burner assembly, gas valve testing, or flame-sensor circuit diagnostics. If you see an LED fault code related to ignition lockout, pressure-switch failure, or flame loss, or if the furnace has cycled into hard lockout and will not attempt ignition after a thermostat reset, a licensed HVAC technician has the tools and training to safely diagnose the control sequence, measure flame signal, test pressure-switch operation, and verify proper gas-valve voltage. Any time you smell gas or suspect a gas leak, leave the home immediately and call your gas utility or emergency services before attempting any troubleshooting. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Trane Heat Pump E11 Error Code - Causes & Fix](/posts/trane-heat-pump-e11-error-code/)
+- [Trane Heat Pump E5 Error Code - Causes & Fix](/posts/trane-heat-pump-e5-error-code/)
+- [Trane ComfortLink II Communicating Thermostat Fault Codes - What They Mean and How to Fix Them](/posts/trane-communicating-thermostat-fault-codes/)
+- [Trane Heat Pump E10 Error - Causes & Fix](/posts/trane-heat-pump-e10-error-code/)

@@ -64,3 +64,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician if the furnace still blows cold air after you have confirmed the thermostat settings, replaced the filter, and cleared any obvious vent obstructions. Gas ignition, flame-sensor, and pressure-switch diagnostics require test equipment and safe handling of gas components. A tech will measure electrical inputs, inspect the venting and condensate system on condensing furnaces, and replace failed ignition or sensing parts without bypassing safeties. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Carrier WeatherMaker Rooftop Unit Error Codes: Complete Guide](/posts/carrier-weatheramaker-error-codes/)
+- [Carrier Error Code 26 - Causes & Fix](/posts/carrier-error-code-26/)
+- [Carrier 24ANA Heat Pump Error Codes — Performance Series Diagnostic Guide](/posts/carrier-24ana-heat-pump-error-codes/)
+- [Carrier E19 Error Code - Causes & Fix](/posts/carrier-heat-pump-e19-error-code/)

@@ -45,3 +45,10 @@ ALARM 37 on the Danfoss VLT AutomationDrive FC 302 indicates a phase imbalance f
 ## When to Call a Pro
 
 Call a qualified drive technician or certified Danfoss service partner if you are not trained to work inside VFD cabinets, if the fault returns after correcting motor current settings and load issues, or if you lack the tools to safely test and replace power or control cards. Internal drive component replacement requires working with high-voltage DC bus capacitors and precise firmware configuration. If the motor itself shows signs of winding damage or insulation failure during inspection, bring in a motor shop for rewind or replacement evaluation.
+
+## See Also
+
+- [Danfoss FC302 ALARM 35 - Causes & Fix](/posts/danfoss-fc302-alarm-35-fault-code/)
+- [Danfoss FC302 ALARM 26 - Causes & Fix](/posts/danfoss-fc302-alarm-26-fault-code/)
+- [Danfoss FC302 Alarm 22 - Hoist Brake Fault Fix](/posts/danfoss-fc302-vfd-alarm-22-fault-code/)
+- [Danfoss FC302 ALARM 27 - Causes & Fix](/posts/danfoss-fc302-alarm-27-fault-code/)

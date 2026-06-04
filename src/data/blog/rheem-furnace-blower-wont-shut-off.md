@@ -63,3 +63,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a technician if you've confirmed the thermostat fan switch is in AUTO, disconnecting the thermostat does not stop the blower, or you are not comfortable working with 115-volt furnace control circuits. Control board diagnostics, ECM motor isolation, and fan limit control replacement require meter testing and access to the blower compartment. Any work involving gas burners, ignition, or internal furnace wiring should be handled by a qualified HVAC technician. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rheem Water Heater High-Limit Switch / ECO Replacement Guide](/posts/rheem-water-heater-high-limit-switch-eco-electric-reset-upper-thermostat-replacement/)
+- [Rheem Water Heater No Ignition - Causes & Fix](/posts/rheem-water-heater-no-ignition/)
+- [Rheem Water Heater Not Enough Hot Water - Causes & Fix](/posts/rheem-water-heater-not-enough-hot-water/)
+- [Rheem XE50T10HS45U1 Problems & Error Codes](/posts/rheem-xe50t10hs45u1-water-heater-problems/)

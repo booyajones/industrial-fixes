@@ -42,3 +42,10 @@ The Daikin FTXS09LVJU is a 9,000 BTU ductless mini split indoor unit that pairs 
 ## When to Call a Pro
 
 Call a licensed HVAC technician for refrigerant work (U0, A5, F6), compressor or inverter-board diagnosis (E6, L4, L5, E8), or any outdoor-unit component replacement. If you see U4 and basic connector checks at both units do not fix it, the problem is often a failed board that requires a tech with a multimeter and the service manual. Temperature-sensor codes (C4, J6) can be DIY if you are comfortable with a thermistor ohm check and connector work, but mis-wiring a sensor can damage the board.
+
+## See Also
+
+- [Daikin Mini Split Leaking Water - Causes & Fix](/posts/daikin-mini-split-leaking-water/)
+- [Daikin VRV IV Fault Codes - Commercial System Diagnostic Guide](/posts/daikin-vrv-iv-fault-codes/)
+- [Daikin E1 Error Code - Causes & Fix](/posts/daikin-heat-pump-e1-error-code/)
+- [Daikin E2 Error Code - Causes & Fix](/posts/daikin-e2-error-code/)

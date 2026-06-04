@@ -68,3 +68,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a professional if you are not comfortable working with low-voltage wiring or if the problem persists after checking the thermostat and visible wiring. Control board diagnosis, ECM blower module replacement, and any work involving the hot surface igniter or gas burner system should be handled by a qualified HVAC technician. If the furnace is displaying an 8-flash fault code or if safety switches are involved, professional diagnosis is recommended to prevent further damage and maintain safe operation. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Goodman GMS96 Error Codes — Fault Code Guide](/posts/goodman-gms96-error-codes/)
+- [Goodman EE2 Error Code: Control Board Communication Fault Fix](/posts/goodman-ee2-error-code/)
+- [Goodman Furnace 2 Flashes - Causes & Fix](/posts/goodman-furnace-2-flashes-error-code/)
+- [Goodman Heat Pump E2 Error Code - Causes & Fix](/posts/goodman-heat-pump-e2-error-code/)

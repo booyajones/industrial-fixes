@@ -50,3 +50,10 @@ The fault path involves the power card, the gate drive card, or the ribbon cable
 ## When to Call a Pro
 
 Call a qualified Danfoss service technician or drive specialist if you are not comfortable working inside energized industrial equipment or if you lack lockout/tagout procedures for your facility. If you have replaced the ribbon cable and cleaned the cooling system but Alarm 39 persists, the fault is on the power card or gate drive card, both of which require board-level diagnosis and proper ESD handling. A technician with Danfoss-specific training can also interrogate the drive's internal diagnostics to confirm which board is at fault and can source the correct revision of power or gate drive card for your drive's serial number and firmware version.
+
+## See Also
+
+- [Danfoss FC302 Alarm 17 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-17-fault-code/)
+- [Danfoss VLT Alarm 14 - Earth Fault: What It Means and How to Fix It](/posts/danfoss-vlt-alarm-14/)
+- [Danfoss VFD Fault UL — Causes & Fix](/posts/danfoss-vfd-fault-ul/)
+- [Danfoss FC302 ALARM 26 - Causes & Fix](/posts/danfoss-fc302-alarm-26-fault-code/)

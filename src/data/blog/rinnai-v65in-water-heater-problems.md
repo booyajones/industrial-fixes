@@ -42,3 +42,10 @@ The Rinnai V65iN is a mid-capacity tankless natural gas or propane water heater 
 ## When to Call a Pro
 
 Call a licensed plumber or gas technician for any work involving gas line inspection, gas pressure testing, gas valve replacement, or orifice changes. Professionals should handle heat exchanger replacement, control board diagnosis, and any repair requiring combustion analysis or vent system modification. If you see repeated ignition codes after cleaning the flame rod, or if temperature codes return after flushing, the issue likely needs diagnostic tools and parts beyond typical homeowner access. Tankless water heaters require correct gas supply sizing and proper venting to code, and errors in either create safety hazards or chronic failure. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rinnai Error Code 25 - Causes & Fix](/posts/rinnai-tankless-water-heater-25-error-code/)
+- [Rinnai Tankless Water Heater Igniter / Electrode Replacement](/posts/rinnai-water-heater-igniter-ignition-electrode-tankless-replacement/)
+- [Rinnai Water Heater No Hot Water - Causes & Fix](/posts/rinnai-water-heater-no-hot-water/)
+- [Rinnai Error Code 25 — Causes & Fix](/posts/rinnai-error-code-25/)

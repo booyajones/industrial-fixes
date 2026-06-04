@@ -47,3 +47,10 @@ Alarm 38 on the Danfoss VLT FC302 indicates an internal fault. This is not a sin
 ## When to Call a Pro
 
 Call a qualified VFD technician or contact Danfoss technical support if cycling power and reseating internal connections does not clear Alarm 38. Internal board diagnosis requires knowledge of the specific subcode, access to internal schematics, and safe handling of live power electronics. If you are not trained to open and service the drive or lack the tools to isolate board-level faults, professional repair or factory service is the safest route. Danfoss support can guide board replacement based on the exact fault code displayed.
+
+## See Also
+
+- [Danfoss FC302 ALARM 30 - Causes & Fix](/posts/danfoss-fc302-alarm-30-fault-code/)
+- [Danfoss FC302 ALARM 31 - Causes & Fix](/posts/danfoss-fc302-alarm-31-fault-code/)
+- [Danfoss FC102 VLT HVAC Drive Fault Codes — Complete Diagnostic Reference](/posts/danfoss-fc102-fault-codes/)
+- [Danfoss FC302 Complete Fault Code Guide — All Faults and Fixes](/posts/danfoss-fc302-complete-guide/)

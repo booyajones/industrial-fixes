@@ -65,3 +65,10 @@ If this part is failing you may also see one of these codes:
 ## When to Call a Pro
 
 If you replaced the door gasket correctly and water still leaks from the door area, the problem may be a damaged outer tub seal, a cracked tub, a bent door frame, or a failed door latch that prevents full closure. Leaks coming from the sides or top of the door opening (not the door perimeter itself) usually point to the outer tub seal, which requires pulling the dishwasher out and accessing the tub lip. If you are not comfortable disconnecting water lines, pulling the unit from the cabinet, or diagnosing multiple leak sources, call a qualified appliance technician.
+
+## See Also
+
+- [LG Range E1 Error Code - Causes & Fix](/posts/lg-range-e1-error-code/)
+- [LG Microwave DOOR Error Code - Causes & Fix](/posts/lg-microwave-door-error-code/)
+- [LG CH 26 Error Code - Causes & Fix](/posts/lg-mini-split-ch-26-error-code/)
+- [LG Microwave F-11 Error Code - Causes & Fix](/posts/lg-microwave-f-11-error-code/)

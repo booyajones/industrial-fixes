@@ -46,3 +46,10 @@ This code falls into Navien's category of sensor and internal faults, alongside 
 ## When to Call a Pro
 
 If you are uncomfortable working inside a tankless water heater cabinet, measuring electrical resistance, or identifying the outlet thermistor circuit, contact a licensed plumber or Navien-certified technician. Also call a pro if replacing the sensor and harness does not clear E008, if the code returns intermittently, or if you see other fault codes alongside E008. Navien technical support can help your technician diagnose complex board or heat exchanger issues when you have the unit's serial number ready.
+
+## See Also
+
+- [Navien NPE-180S2 Problems & Error Codes](/posts/navien-npe-180s2-water-heater-problems/)
+- [Navien E010 Error Code - Causes & Fix](/posts/navien-tankless-e010-error-code/)
+- [Navien Error Code E010 — Causes & Fix](/posts/navien-error-code-e010/)
+- [Navien Flow Sensor Replacement - Signs & How-To](/posts/navien-water-heater-flow-sensor-flow-meter-tankless-replacement/)

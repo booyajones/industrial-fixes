@@ -47,3 +47,10 @@ For Mitsubishi Heavy Industries heat pumps, the E5 error code indicates an outdo
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with live electrical circuits or if the fault persists after wiring and terminal checks. Because E5 points to control-board failure or communication faults, diagnosis requires multimeter skills, wiring-diagram interpretation, and safe handling of both line voltage and low-voltage control circuits. A technician will verify supply power, trace the communication path, and replace the outdoor PCB or damaged wiring as needed. If your unit is still under warranty, contact an authorized Mitsubishi service center before opening the outdoor unit to preserve coverage.
+
+## See Also
+
+- [Mitsubishi F0008 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-f0008-error-code/)
+- [Mitsubishi F0005 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-f0005-error-code/)
+- [Mitsubishi Mini Split Ice on Coils - Causes & Fix](/posts/mitsubishi-mini-split-ice-on-coils/)
+- [Mitsubishi Mini Split EE Error Code - Causes & Fix](/posts/mitsubishi-mini-split-ee-error-code/)

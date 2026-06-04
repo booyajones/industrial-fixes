@@ -47,3 +47,10 @@ F0004 does not appear in official Mitsubishi Electric heat pump fault code docum
 ## When to Call a Pro
 
 Call a Mitsubishi-certified technician immediately if you cannot retrieve a valid error code from the service menu, if the code you recorded does not appear in any Mitsubishi documentation, or if the system is showing multiple simultaneous faults. Because F0004 is not a recognized Mitsubishi Electric code, professional diagnosis is the only safe path forward. Technicians have access to model-specific service bulletins, factory diagnostic tools, and direct manufacturer support that can identify whether the fault is a control-board issue, a wiring problem, or a display error. Attempting repairs based on unverified codes risks voiding your warranty and damaging expensive components.
+
+## See Also
+
+- [Mitsubishi U6 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-u6-error-code/)
+- [Mitsubishi U4 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-u4-error-code/)
+- [Mitsubishi Mini Split Won't Turn On - Causes & Fix](/posts/mitsubishi-mini-split-wont-turn-on/)
+- [Mitsubishi FR-A800 Fault E7 — CPU Error Causes & Fix](/posts/mitsubishi-fr-a800-fault-e7/)

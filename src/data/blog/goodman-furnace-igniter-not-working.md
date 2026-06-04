@@ -67,3 +67,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you are not comfortable working with line voltage, natural gas, or propane, or if you cannot safely access the furnace control compartment and igniter. Professionals should handle all gas valve testing, gas pressure measurement with a manometer, control board replacement, and any work requiring soldering or rewiring of safety circuits. If the furnace shows an unfamiliar fault code, cycles on and off repeatedly, or you smell gas at any point, shut off the gas supply and call for service immediately. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Goodman EE2 Error Code: Control Board Communication Fault Fix](/posts/goodman-ee2-error-code/)
+- [Goodman 7 Flash Error Code — Ignition Lockout Fix](/posts/goodman-7-flash-error-code/)
+- [Goodman E0 Error Code - Causes & Fix](/posts/goodman-heat-pump-e0-error-code/)
+- [Goodman Heat Pump E1 Error Code — Pressure Switch Fault](/posts/goodman-heat-pump-error-code-e1/)

@@ -47,3 +47,10 @@ E009 is a fan motor or blower abnormality fault. The control board is not seeing
 ## When to Call a Pro
 
 Call a licensed technician if you are not comfortable working with gas appliances, electrical diagnostics, or disassembling the combustion chamber. Blower motor testing requires meter work and reference to the service manual for your exact model. Control board replacement and fan calibration also require Navien-specific procedures. If the code returns after you have cleared obstructions and cleaned the filter, or if you see physical damage to the blower or wiring, professional diagnosis is the safest path.
+
+## See Also
+
+- [Navien E038 Error Code - Causes & Fix](/posts/navien-tankless-e038-error-code/)
+- [Navien E006 Error Code - Causes & Fix](/posts/navien-tankless-e006-error-code/)
+- [Navien Error Code E021 — Cold Water Inlet Thermistor Fault Fix](/posts/navien-error-code-e021/)
+- [Navien E002 Error Code — Causes & Fix](/posts/navien-error-code-e002/)

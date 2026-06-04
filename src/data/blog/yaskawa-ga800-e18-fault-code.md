@@ -47,3 +47,10 @@ This fault does not indicate a burned component or failed circuit board in most 
 ## When to Call a Pro
 
 Call a qualified drive technician or Yaskawa-authorized service provider if the E18 fault returns after you have verified motor nameplate data twice, checked all wiring, and completed two separate auto-tune cycles with the motor uncoupled. Persistent back EMF errors can indicate a failing motor winding, a drive measurement circuit issue, or an application mismatch that requires detailed motor testing and drive configuration beyond basic parameter entry. Also contact support if you do not have the original motor nameplate or documentation, since guessing at motor data will cause repeated tuning failures and may damage the motor or drive.
+
+## See Also
+
+- [Yaskawa GA800 E08 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e08-fault-code/)
+- [Yaskawa GA800 E02 Fault - Causes & Fix](/posts/yaskawa-ga800-e02-fault-code/)
+- [Yaskawa GA800 E16 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e16-fault-code/)
+- [Yaskawa VFD Fault PF — Causes & Fix](/posts/yaskawa-vfd-fault-pf/)

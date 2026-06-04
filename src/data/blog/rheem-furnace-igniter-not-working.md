@@ -62,3 +62,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you are not comfortable working with gas appliances, if testing the igniter requires disassembly you are unsure about, or if basic checks do not isolate the fault. Gas valve replacement, control board diagnosis, manifold pressure testing, and rollout switch investigation all require proper tools and training. A technician can also verify correct combustion, check for carbon monoxide hazards, and reset or replace components that require gas line work or electrical troubleshooting beyond the igniter itself. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rheem RTGH-95DVLN Condensing Tankless Water Heater Error Codes](/posts/rheem-rtgh-95dvln-error-codes/)
+- [Rheem Furnace Error Codes — All Flash Codes Explained](/posts/rheem-furnace-error-codes/)
+- [Rheem Furnace 7 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-7-flashes/)
+- [Rheem Classic Series Furnace Error Codes — Complete Guide](/posts/rheem-classic-furnace-error-codes/)

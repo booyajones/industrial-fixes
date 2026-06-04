@@ -48,3 +48,10 @@ The F3 code on a Daikin heat pump signals a high discharge pipe temperature faul
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not trained to handle refrigerant, if you do not own refrigeration gauges and recovery equipment, or if the outdoor fan and coil are clean but the code persists. Discharge-temperature faults often require pressure testing, leak repair, precise refrigerant charging, and sometimes compressor or control-board replacement. A technician can also check Daikin's service bulletins for your specific model series to determine whether a PCB reflash or recall repair applies to your serial number.
+
+## See Also
+
+- [Daikin Mini Split Not Cooling - Causes & Fix](/posts/daikin-mini-split-not-cooling/)
+- [Daikin A1 Error Code - Causes & Fix](/posts/daikin-heat-pump-a1-error-code/)
+- [Daikin H9 Error Code - Causes & Fix](/posts/daikin-heat-pump-h9-error-code/)
+- [Daikin E2 Error Code - Causes & Fix](/posts/daikin-e2-error-code/)
