@@ -5,7 +5,7 @@ pubDatetime: 2026-06-01T17:26:53Z
 modDatetime: 2026-06-01T17:26:53Z
 author: "James Rutherford"
 featured: false
-draft: true
+draft: false
 tags:
   - hvac
   - ductless-mini-split-air-conditioner

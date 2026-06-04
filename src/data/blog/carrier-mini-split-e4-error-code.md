@@ -5,7 +5,7 @@ pubDatetime: 2026-04-26T18:15:00Z
 modDatetime: 2026-04-26T18:15:00Z
 slug: carrier-mini-split-e4-error-code
 featured: false
-draft: false
+draft: true
 tags:
   - carrier
   - mini-split

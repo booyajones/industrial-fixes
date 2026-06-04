@@ -5,7 +5,7 @@ pubDatetime: 2026-06-01T17:23:09Z
 modDatetime: 2026-06-01T17:23:09Z
 author: "James Rutherford"
 featured: false
-draft: true
+draft: false
 tags:
   - hvac
   - furnace-gas-residential-

@@ -5,7 +5,7 @@ pubDatetime: 2026-06-01T21:42:21Z
 modDatetime: 2026-06-01T21:42:21Z
 author: "Marcus Webb"
 featured: false
-draft: true
+draft: false
 tags:
   - water-heater
   - bradford-white

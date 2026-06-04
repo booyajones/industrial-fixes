@@ -5,7 +5,7 @@ pubDatetime: 2026-04-26T18:15:00Z
 modDatetime: 2026-04-26T18:15:00Z
 slug: mitsubishi-mini-split-u0-error-code
 featured: false
-draft: false
+draft: true
 tags:
   - mitsubishi
   - mini-split

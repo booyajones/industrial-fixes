@@ -5,7 +5,7 @@ pubDatetime: 2026-06-01T21:34:36Z
 modDatetime: 2026-06-01T21:34:36Z
 author: "James Rutherford"
 featured: false
-draft: true
+draft: false
 tags:
   - water-heater
   - a-o-smith

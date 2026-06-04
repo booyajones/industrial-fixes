@@ -5,7 +5,7 @@ pubDatetime: 2026-04-26T18:15:00Z
 modDatetime: 2026-04-26T18:15:00Z
 slug: lg-mini-split-ch22-error-code
 featured: false
-draft: false
+draft: true
 tags:
   - lg
   - mini-split

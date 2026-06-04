@@ -5,7 +5,7 @@ pubDatetime: 2026-06-01T21:41:16Z
 modDatetime: 2026-06-01T21:41:16Z
 author: "Dana Kowalski"
 featured: false
-draft: true
+draft: false
 tags:
   - water-heater
   - bradford-white

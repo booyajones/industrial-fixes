@@ -5,7 +5,7 @@ pubDatetime: 2026-06-01T19:08:15Z
 modDatetime: 2026-06-01T19:08:15Z
 author: "Marcus Webb"
 featured: false
-draft: true
+draft: false
 tags:
   - hvac
   - mini-split

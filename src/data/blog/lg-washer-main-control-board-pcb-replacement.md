@@ -5,7 +5,7 @@ pubDatetime: 2026-06-01T15:44:06Z
 modDatetime: 2026-06-01T15:44:06Z
 author: "Dana Kowalski"
 featured: false
-draft: true
+draft: false
 tags:
   - appliance
   - washer

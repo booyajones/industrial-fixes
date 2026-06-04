@@ -5,7 +5,7 @@ pubDatetime: 2026-04-22T13:00:00Z
 modDatetime: 2026-04-22T13:00:00Z
 author: "Dana Kowalski"
 featured: false
-draft: false
+draft: true
 tags:
   - mini-split
   - mitsubishi

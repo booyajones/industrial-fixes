@@ -5,7 +5,7 @@ pubDatetime: 2026-06-01T19:08:14Z
 modDatetime: 2026-06-01T19:08:14Z
 author: "James Rutherford"
 featured: false
-draft: true
+draft: false
 tags:
   - hvac
   - mini-split

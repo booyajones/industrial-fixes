@@ -5,7 +5,7 @@ pubDatetime: 2026-06-01T15:28:46Z
 modDatetime: 2026-06-01T15:28:46Z
 author: "Dana Kowalski"
 featured: false
-draft: true
+draft: false
 tags:
   - appliance
   - refrigerator

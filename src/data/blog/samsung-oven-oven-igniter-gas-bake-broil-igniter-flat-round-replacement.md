@@ -5,7 +5,7 @@ pubDatetime: 2026-06-01T21:01:11Z
 modDatetime: 2026-06-01T21:01:11Z
 author: "Dana Kowalski"
 featured: false
-draft: true
+draft: false
 tags:
   - appliance
   - oven

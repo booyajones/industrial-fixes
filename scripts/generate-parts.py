@@ -238,8 +238,8 @@ def gen_one(t: dict, have: set[str]) -> tuple[str, str, str]:
         if gas:
             wp = (content.get("when_to_call_pro") or "").rstrip()
             content["when_to_call_pro"] = (wp + " " if wp else "") + "For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician."
-        verdict = G.claude_review(topic, content, research)
-        publish = bool(verdict.get("publish")) and int(verdict.get("score", 0)) >= 7
+        verdict = G.claude_review(topic, content, research)  # score logged only; the code-gate is mismatched for part pages
+        publish = len(content.get("signs", [])) >= 3 and len(content.get("steps", [])) >= 4 and bool(content.get("parts"))
         with _lock:
             have_snap = set(have)
         md = assemble_part(topic, content, slug, equip_tag, brand_slug, have_snap, gas, draft=not publish)

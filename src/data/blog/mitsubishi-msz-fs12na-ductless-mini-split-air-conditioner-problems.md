@@ -5,7 +5,7 @@ pubDatetime: 2026-06-01T17:27:17Z
 modDatetime: 2026-06-01T17:27:17Z
 author: "Dana Kowalski"
 featured: false
-draft: true
+draft: false
 tags:
   - hvac
   - ductless-mini-split-air-conditioner

@@ -5,7 +5,7 @@ pubDatetime: 2026-06-01T17:30:42Z
 modDatetime: 2026-06-01T17:30:42Z
 author: "Dana Kowalski"
 featured: false
-draft: true
+draft: false
 tags:
   - water-heater
   - a-o-smith

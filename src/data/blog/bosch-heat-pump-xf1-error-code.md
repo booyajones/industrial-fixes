@@ -5,7 +5,7 @@ pubDatetime: 2026-05-31T09:15:48Z
 modDatetime: 2026-05-31T09:15:48Z
 author: "Dana Kowalski"
 featured: false
-draft: false
+draft: true
 tags:
   - hvac
   - mini-split

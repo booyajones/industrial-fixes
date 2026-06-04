@@ -5,7 +5,7 @@ pubDatetime: 2026-06-01T17:23:48Z
 modDatetime: 2026-06-01T17:23:48Z
 author: "Marcus Webb"
 featured: false
-draft: true
+draft: false
 tags:
   - hvac
   - furnace-gas-residential-

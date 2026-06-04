@@ -5,7 +5,7 @@ pubDatetime: 2026-06-01T17:31:50Z
 modDatetime: 2026-06-01T17:31:50Z
 author: "James Rutherford"
 featured: false
-draft: true
+draft: false
 tags:
   - water-heater
   - rheem
