@@ -47,3 +47,10 @@ If the E26 code behaves like other Yaskawa communication or encoder-related alar
 ## When to Call a Pro
 
 Call a qualified Yaskawa technician or integrator if the E26 fault returns after you have reseated connectors, inspected the environment, and replaced the encoder or communication cable. Persistent alarms after those checks usually point to a failed feedback card inside the drive, a defective encoder inside the motor, or a configuration mismatch that requires parameter changes and factory documentation. Because the E26 code is not confirmed in the standard GA800 manual, professional support is especially important to avoid replacing the wrong component. Have your drive model, spec number, serial number, and a photo of the fault screen ready when you call.
+
+## See Also
+
+- [Yaskawa GA800 E10 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e10-fault-code/)
+- [Yaskawa GA800 E20 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e20-fault-code/)
+- [Yaskawa GA800 E03 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e03-fault-code/)
+- [Yaskawa VFD Fault Codes — Complete Reference (V1000, A1000, GA700)](/posts/yaskawa-vfd-fault-codes/)

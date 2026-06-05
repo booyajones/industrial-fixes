@@ -44,3 +44,10 @@ E013 on a Navien tankless water heater indicates abnormal pump operation. The ci
 ## When to Call a Pro
 
 Call a licensed plumber or Navien service technician if you are not comfortable working with 120 V wiring, if the error persists after replacing the pump and checking all connections, or if your unit displays a different set of fault codes alongside E013. A technician has the factory diagnostic software to read live pump feedback, verify control-board output, and rule out intermittent faults that a visual inspection will miss. Professional service is also the safest choice if your unit is still under warranty, since DIY pump replacement can void coverage on some Navien models.
+
+## See Also
+
+- [Navien E003 Error - Ignition Failure Causes & Fix](/posts/navien-tankless-water-heater-e003-error-code/)
+- [Navien E016 Error Code - Causes & Fix](/posts/navien-tankless-e016-error-code/)
+- [Navien E302 Error Code — Causes & Fix](/posts/navien-error-code-e302/)
+- [Navien Flame Rod Replacement - Signs & How-To](/posts/navien-water-heater-flame-rod-flame-sensor-tankless-replacement/)

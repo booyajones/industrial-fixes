@@ -48,3 +48,10 @@ The A001 error code is not a well-documented or universally standardized fault c
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you cannot locate the service manual for your model, if the code returns immediately after a reset, or if you find visible damage to the control board or wiring. A technician has access to manufacturer diagnostic software, OEM service bulletins, and the correct replacement parts for your specific Rheem heat pump. Do not replace components at random. Proper diagnosis requires the model-specific fault definition and test procedures that only the service literature can provide.
+
+## See Also
+
+- [Rheem A01 Error Code - Causes & Fix](/posts/rheem-water-heater-a01-error-code/)
+- [Rheem RA14 Heat Pump Error Codes - What It Means and How to Fix It](/posts/rheem-ra14-heat-pump-error-codes/)
+- [Rheem EcoNet A101 Error Code — Causes & Fix](/posts/rheem-econet-a101-error-code/)
+- [Rheem XE40M06ST45U1 Water Heater Problems & Error Codes](/posts/rheem-xe40m06st45u1-water-heater-problems/)

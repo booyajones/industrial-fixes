@@ -49,3 +49,10 @@ This fault appears when the drive cannot detect continuity or proper connection 
 ## When to Call a Pro
 
 Call a qualified technician or contact Yaskawa support if you have confirmed the external regenerative resistor is correctly installed and wired but the E23 fault continues to appear. This indicates a possible drive-side hardware failure in the braking circuit that requires advanced diagnostics and access to service-level documentation. Also call a professional if you are not trained in high-voltage drive systems or do not have the tools to safely verify circuit continuity and proper grounding. Drive circuits store dangerous voltage even after power removal, and incorrect work on the braking resistor circuit can damage the drive or create a safety hazard.
+
+## See Also
+
+- [Yaskawa VFD Fault OV — DC Bus Overvoltage Fix](/posts/yaskawa-vfd-fault-ov/)
+- [Yaskawa GA800 E24 Fault - Causes & Fix](/posts/yaskawa-ga800-e24-fault-code/)
+- [Yaskawa VFD Fault CF — Causes & Fix](/posts/yaskawa-vfd-fault-cf/)
+- [Yaskawa A1000 Fault Code OC — Overcurrent Diagnosis & Fix](/posts/yaskawa-a1000-oc-fault-code/)

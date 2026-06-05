@@ -44,3 +44,10 @@ F0006 on a Siemens SINAMICS G120 means the drive has detected a critical chip-te
 ## When to Call a Pro
 
 Call a qualified technician or Siemens service immediately if the fault returns after you have verified motor sizing, corrected thermal parameters, and confirmed adequate cooling. Persistent F0006 after parameter corrections indicates a hardware failure in the power stage that requires factory-authorized replacement of the inverter power module. Do not attempt repeated resets without addressing the root cause, because continued operation with a real thermal fault can damage the drive permanently.
+
+## See Also
+
+- [Siemens SINAMICS G120 F00001 Fault — Causes & Fix](/posts/siemens-sinamics-g120-fault-f00001/)
+- [Siemens Desigo BMS Fault Codes - Complete Guide](/posts/siemens-desigo-fault-codes/)
+- [Siemens Cerberus/MXL Fire Alarm Fault Codes — Troubleshooting Guide](/posts/siemens-fire-alarm-fault-codes/)
+- [Siemens G120 F01600 - Causes & Fix](/posts/siemens-g120-f01600-fault-code/)

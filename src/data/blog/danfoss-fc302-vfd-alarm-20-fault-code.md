@@ -48,3 +48,10 @@ Danfoss documentation describes this alarm as 'Temp. input error. The temperatur
 ## When to Call a Pro
 
 Call a qualified technician or VFD specialist if you are not comfortable working with low-voltage control wiring or interpreting drive parameters. If the alarm remains after you have verified and reconnected the sensor wiring, the fault is likely inside the drive and requires control-card diagnosis or replacement. Industrial VFD repairs often involve both electrical troubleshooting and parameter programming, and incorrect changes can affect motor protection or process safety. Professional service is recommended any time the control card is suspect or when the drive serves a critical or high-value application.
+
+## See Also
+
+- [Danfoss FC302 VFD ALARM 39 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-39-fault-code/)
+- [Danfoss AKC Controller Fault Codes - Complete Guide](/posts/danfoss-akc-controller-fault/)
+- [Danfoss FC302 ALARM 31 - Causes & Fix](/posts/danfoss-fc302-alarm-31-fault-code/)
+- [Danfoss FC302 VFD ALARM 15 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-15-fault-code/)

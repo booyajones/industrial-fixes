@@ -46,3 +46,10 @@ The E021 error code on a Navien tankless water heater indicates a cold water inl
 ## When to Call a Pro
 
 E021 requires opening the unit, working with low-voltage wiring, and using a multimeter to diagnose open circuits. If you are not comfortable de-energizing the heater, accessing internal components, or interpreting resistance readings against manufacturer specifications, contact a Navien-certified technician. Navien technical support recommends that thermistor and sensor-related faults be handled by qualified service personnel who have access to model-specific service data and genuine replacement parts. Incorrect diagnosis or improper part replacement can leave the unit unable to regulate inlet temperature and may void your warranty.
+
+## See Also
+
+- [Navien E003 Error - Ignition Failure Causes & Fix](/posts/navien-tankless-water-heater-e003-error-code/)
+- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
+- [Navien E016 Error Code - Causes & Fix](/posts/navien-tankless-e016-error-code/)
+- [Navien E008 Error Code - Causes & Fix](/posts/navien-tankless-e008-error-code/)

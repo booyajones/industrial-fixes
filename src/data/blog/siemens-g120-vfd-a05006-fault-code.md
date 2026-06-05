@@ -46,3 +46,10 @@ A05006 is an alarm (not a fault) indicating that your Siemens SINAMICS G120 vari
 ## When to Call a Pro
 
 If you have cleaned all ventilation paths, confirmed fan operation, and verified normal ambient conditions but the A05006 alarm returns immediately or frequently, call a qualified electrician or Siemens service partner. Persistent thermal alarms despite good cooling conditions usually mean a failing power module or internal thermal sensor fault that requires module-level replacement and diagnostic tools. Also call a professional if you are not comfortable working inside energized industrial control panels or if your facility requires certified personnel for VFD service work.
+
+## See Also
+
+- [Siemens Micromaster F0020 - Causes & Fix](/posts/siemens-micromaster-f0020-fault-code/)
+- [Siemens SINAMICS G120 Fault F30021, Ground Fault Causes & Fix](/posts/siemens-sinamics-g120-fault-f30021/)
+- [Siemens G120 A05000 Alarm - Causes & Fix](/posts/siemens-g120-vfd-a05000-fault-code/)
+- [Siemens SINAMICS G120X Fault Codes: Complete Guide](/posts/siemens-g120x-fault-codes/)

@@ -2643,6 +2643,98 @@
     "danfoss-fc302-vfd-alarm-23-fault-code": {
       "topic": "Danfoss FC302 VFD ALARM 23 fault code",
       "date": "2026-06-04"
+    },
+    "siemens-micromaster-vfd-f0035-fault-code": {
+      "topic": "Siemens Micromaster VFD F0035 fault code",
+      "date": "2026-06-05"
+    },
+    "siemens-micromaster-vfd-f0041-fault-code": {
+      "topic": "Siemens Micromaster VFD F0041 fault code",
+      "date": "2026-06-05"
+    },
+    "siemens-micromaster-vfd-f0070-fault-code": {
+      "topic": "Siemens Micromaster VFD F0070 fault code",
+      "date": "2026-06-05"
+    },
+    "danfoss-fc302-vfd-alarm-14-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 14 fault code",
+      "date": "2026-06-05"
+    },
+    "danfoss-fc302-vfd-alarm-16-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 16 fault code",
+      "date": "2026-06-05"
+    },
+    "danfoss-fc302-vfd-alarm-25-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 25 fault code",
+      "date": "2026-06-05"
+    },
+    "danfoss-fc302-vfd-alarm-26-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 26 fault code",
+      "date": "2026-06-05"
+    },
+    "danfoss-fc302-vfd-alarm-30-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 30 fault code",
+      "date": "2026-06-05"
+    },
+    "danfoss-fc302-vfd-alarm-31-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 31 fault code",
+      "date": "2026-06-05"
+    },
+    "danfoss-fc302-vfd-alarm-33-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 33 fault code",
+      "date": "2026-06-05"
+    },
+    "danfoss-fc302-vfd-alarm-34-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 34 fault code",
+      "date": "2026-06-05"
+    },
+    "danfoss-fc302-vfd-alarm-37-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 37 fault code",
+      "date": "2026-06-05"
+    },
+    "danfoss-fc302-vfd-alarm-38-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 38 fault code",
+      "date": "2026-06-05"
+    },
+    "danfoss-fc302-vfd-alarm-39-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 39 fault code",
+      "date": "2026-06-05"
+    },
+    "danfoss-fc302-vfd-alarm-40-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 40 fault code",
+      "date": "2026-06-05"
+    },
+    "danfoss-fc302-vfd-alarm-41-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 41 fault code",
+      "date": "2026-06-05"
+    },
+    "danfoss-fc302-vfd-alarm-42-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 42 fault code",
+      "date": "2026-06-05"
+    },
+    "danfoss-fc302-vfd-alarm-43-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 43 fault code",
+      "date": "2026-06-05"
+    },
+    "danfoss-fc302-vfd-alarm-44-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 44 fault code",
+      "date": "2026-06-05"
+    },
+    "danfoss-fc302-vfd-alarm-45-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 45 fault code",
+      "date": "2026-06-05"
+    },
+    "danfoss-fc302-vfd-alarm-46-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 46 fault code",
+      "date": "2026-06-05"
+    },
+    "danfoss-fc302-vfd-alarm-47-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 47 fault code",
+      "date": "2026-06-05"
+    },
+    "danfoss-fc302-vfd-alarm-48-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 48 fault code",
+      "date": "2026-06-05"
     }
   }
 }

@@ -49,3 +49,10 @@ Because F0005 does not appear in the standard references, you should locate your
 ## When to Call a Pro
 
 Call a Mitsubishi-certified technician if the code does not appear in your model's documentation, if you are uncomfortable working with line-voltage wiring, or if the fault persists after you have checked all terminal connections and performed a power cycle. Mitsubishi systems often require proprietary service tools to read detailed fault histories and to configure or reset control boards. A pro can also verify that your indoor and outdoor units are correctly paired and that refrigerant pressures and other system parameters are within specification.
+
+## See Also
+
+- [Mitsubishi Mini Split P4 Error - Causes & Fix](/posts/mitsubishi-mini-split-p4-error-code/)
+- [Mitsubishi Mini Split E9 Error Code — Causes & Fix](/posts/mitsubishi-mini-split-e9-error-code/)
+- [Mitsubishi F0004 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-f0004-error-code/)
+- [Mitsubishi Mini Split P1 Error Code Fix](/posts/mitsubishi-p1-error-code/)

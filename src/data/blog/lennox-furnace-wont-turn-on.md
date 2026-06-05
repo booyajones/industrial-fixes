@@ -71,3 +71,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you cannot locate an LED code, if safety switches keep tripping after you clear blockages and restore airflow, or if the furnace still will not ignite after you confirm power and verify venting. Any work involving gas valve testing, pressure switch diagnostics, ignition timing, or control board replacement should be done by a licensed professional. If the rollout switch has opened, do not simply reset it without finding and fixing the combustion or venting fault that caused it to trip. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Lennox Error Code 414 Rollout — Causes & Fix](/posts/lennox-error-code-414-rollout/)
+- [Lennox 103 Error Code — Causes & Fix](/posts/lennox-error-code-103/)
+- [Lennox Furnace Short Cycling - Causes & Fix](/posts/lennox-furnace-short-cycling/)
+- [Lennox Merit Series Furnace Error Codes (2024-2025) - LED Flash Code Guide](/posts/lennox-merit-series-2025-error-codes/)

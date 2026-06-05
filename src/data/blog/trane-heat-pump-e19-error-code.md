@@ -49,3 +49,10 @@ The fault is typically in the sensor itself, its wiring and connector, or the co
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you are not comfortable working with line-voltage electrical connections or do not have a multimeter and the service literature for your specific Trane model. If you replace the sensor and wiring but the E19 code returns, a technician will need to diagnose the control board input circuit using the manufacturer's diagnostic procedures. Proper sensor selection requires matching your model and serial number to the correct Trane OEM part, and a pro can verify this and perform the repair safely.
+
+## See Also
+
+- [Trane 7 Flashes Error Code — Gas Valve Circuit Fault Fix](/posts/trane-7-flashes-error-code/)
+- [Trane Furnace Short Cycling - Causes & Fix](/posts/trane-furnace-short-cycling/)
+- [Trane Heat Pump E10 Error - Causes & Fix](/posts/trane-heat-pump-e10-error-code/)
+- [Trane E8 Error Code - Causes & Fix](/posts/trane-heat-pump-e8-error-code/)

@@ -50,3 +50,10 @@ When A01 appears on a gas water heater, the ignition sequence started but the co
 ## When to Call a Pro
 
 Call a licensed technician if you are not comfortable working with gas appliances, if you smell gas at any point, or if the unit still faults after you have confirmed gas supply and replaced the igniter and flame sensor. A professional can perform combustion analysis, measure gas pressure at the valve, and safely diagnose grounding or control-board faults that require specialized test equipment. If your unit is actually a heat pump and you see A01, a technician can decode the correct fault family and prevent misdiagnosis.
+
+## See Also
+
+- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)
+- [Rheem Tankless Error Code 12 - Causes & Fix](/posts/rheem-tankless-water-heater-12-error-code/)
+- [Rheem Furnace Error Codes — All Flash Codes Explained](/posts/rheem-furnace-error-codes/)
+- [Rheem Furnace Blowing Cold Air - Causes & Fix](/posts/rheem-furnace-blowing-cold-air/)

@@ -51,3 +51,10 @@ If water is visible inside the unit, you have a real leak that needs immediate a
 ## When to Call a Pro
 
 Heat exchanger replacement and internal cabinet work on a tankless water heater require soldering or compression fittings, pressure testing, and knowledge of Rinnai's wiring and plumbing layout. If you find water inside the unit or the leak code persists after checking the wiring, call a qualified plumber or Rinnai technician to identify the failed component and complete the repair safely. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)
+- [Rinnai RU130iN Tankless Water Heater Error Codes - Full Fault Guide](/posts/rinnai-ru130in-error-codes/)
+- [Rinnai Water Heater No Hot Water - Causes & Fix](/posts/rinnai-water-heater-no-hot-water/)
+- [Rinnai LC Error Code - Causes & Fix](/posts/rinnai-tankless-water-heater-lc-error-code/)

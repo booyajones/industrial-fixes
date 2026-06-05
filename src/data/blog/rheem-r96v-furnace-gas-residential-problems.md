@@ -42,3 +42,10 @@ The Rheem R96V is a two-stage modulating condensing gas furnace with integrated 
 ## When to Call a Pro
 
 Call a licensed HVAC technician for all gas valve work, manifold pressure adjustment, heat exchanger inspection, combustion analysis, and any code 33 rollout fault (flame rollout is a serious safety issue). Also call for control board replacement if you are not comfortable with line-voltage wiring and static-sensitive electronics. Homeowners can safely change filters, clear condensate traps, and reset tripped switches, but diagnosing pressure switch circuits, flame sense problems, and gas delivery faults requires proper test equipment and gas-furnace knowledge. If the furnace locks out repeatedly or you smell gas, shut off the gas supply at the manual valve and call for service immediately.
+
+## See Also
+
+- [Rheem Furnace 9 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-9-flashes/)
+- [Rheem EcoNet A101 Error Code — Causes & Fix](/posts/rheem-econet-a101-error-code/)
+- [Rheem Water Heater Error Codes — Complete Guide](/posts/rheem-water-heater-error-codes/)
+- [Rheem Water Heater Thermocouple Replacement - Signs & How-To](/posts/rheem-water-heater-thermocouple-gas-pilot-sensor-replacement/)

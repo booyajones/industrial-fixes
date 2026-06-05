@@ -48,3 +48,10 @@ F0008 does not appear in official Mitsubishi Electric fault code documentation. 
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you cannot verify the exact code, if you are not trained to handle refrigerant or work on high-voltage circuits, or if the fault persists after cleaning filters and confirming basic airflow. Refrigerant work requires EPA certification and specialized gauges. Sensor and control board diagnostics demand service manuals, wiring diagrams, and model-specific resistance or voltage tables that are not publicly available for every unit. Any time you suspect a refrigerant leak, overcharge, or board failure, professional diagnosis and repair will save time and prevent further damage to the compressor or control system.
+
+## See Also
+
+- [Mitsubishi MSZ-GL12NA Problems & Error Codes](/posts/mitsubishi-msz-gl12na-ductless-mini-split-air-conditioner-problems/)
+- [Mitsubishi P-Series H6 — Outdoor Fan Motor Fix](/posts/mitsubishi-heat-pump-error-code-h6/)
+- [Mitsubishi U1 Error Code — Causes & Fix](/posts/mitsubishi-u1-error-code/)
+- [Mitsubishi E7 Error Code - Causes & Fix](/posts/mitsubishi-mini-split-e7-error-code/)

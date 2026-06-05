@@ -67,3 +67,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 If you have cleaned the filter, tub, spray arms, and drain area and run a full citric acid or vinegar cycle but the odor returns within a few uses, call a technician. Persistent smell after thorough cleaning can indicate hidden debris in the sump assembly, a partially clogged drain path, or a problem with the drain pump that prevents complete water evacuation. A professional can disassemble the lower sump area, inspect the drain pump and hose for blockage, and verify that all internal passages are clear.
+
+## See Also
+
+- [LG Washer Leaking Water - Causes & Fix](/posts/lg-washer-leaking-water/)
+- [LG Dishwasher LE Error Code - Causes & Fix](/posts/lg-dishwasher-le-error-code/)
+- [LG Range F4 Error Code - Causes & Fix](/posts/lg-range-f4-error-code/)
+- [LG Mini Split CH46 Error Code - Causes & Fix](/posts/lg-mini-split-ch46-error-code/)

@@ -47,3 +47,10 @@ The A004 code on a Rheem hybrid heat pump water heater indicates a compressor sh
 ## When to Call a Pro
 
 Call a technician if you see oil residue around the compressor or tubing, if thermistor and fan checks do not resolve the code, or if you are not comfortable working with electrical diagnostics and refrigerant systems. Sealed-system repairs and compressor replacement are not typical field repairs and may require unit replacement. A qualified HVAC or water heater technician can perform refrigerant and pressure testing, diagnose control board issues, and determine whether repair or replacement is the better option for your situation.
+
+## See Also
+
+- [Rheem Split System Heat Pump Error Codes — RA14, RA15, RP15 Fault Guide](/posts/rheem-heat-pump-error-codes/)
+- [Rheem Water Heater Not Enough Hot Water - Causes & Fix](/posts/rheem-water-heater-not-enough-hot-water/)
+- [Rheem Water Heater Error Codes — Complete Guide](/posts/rheem-water-heater-error-codes/)
+- [Rheem Furnace Blower Won't Shut Off - Causes & Fix](/posts/rheem-furnace-blower-wont-shut-off/)

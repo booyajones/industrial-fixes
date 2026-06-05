@@ -50,3 +50,10 @@ In most cases, H0 is triggered by a disconnected harness, poor connector contact
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with live electrical components or if you cannot safely access the outdoor unit wiring. H0 diagnosis requires tracing low-voltage sensor circuits and testing PCB inputs, which can be difficult without a schematic and multimeter experience. If you have already reseated connectors and see no obvious damage but the code persists, a technician with Daikin-specific diagnostic tools and access to the service manual for your model will be able to pinpoint whether the fault is in the sensor, harness, or board and perform the correct repair.
+
+## See Also
+
+- [Daikin L5 Error Code — Compressor Lock Fault](/posts/daikin-l5-error-code/)
+- [Daikin U4 Error Code - Causes & Fix](/posts/daikin-heat-pump-u4-error-code/)
+- [Daikin F9 Error Code — Heat Exchanger Temp Sensor Fault: Causes & Fix](/posts/daikin-f9-error-code/)
+- [Daikin Mini Split Not Heating - Causes & Fix](/posts/daikin-mini-split-not-heating/)

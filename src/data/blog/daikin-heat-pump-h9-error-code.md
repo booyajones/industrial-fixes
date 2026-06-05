@@ -45,3 +45,10 @@ The H9 error code on a Daikin heat pump signals an outdoor air thermistor fault.
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are uncomfortable working inside live electrical equipment, cannot locate the outdoor air thermistor, or lack a multimeter to test sensor resistance. Also call a pro if you replace the sensor and clean all connections but the H9 code returns, since that points to a control board fault that requires board-level diagnosis and refrigerant-circuit safety checks.
+
+## See Also
+
+- [Daikin U5 Error Code - Causes & Fix](/posts/daikin-u5-error-code/)
+- [Daikin C9 Error Code - Causes & Fix](/posts/daikin-heat-pump-c9-error-code/)
+- [Daikin A6 Error Code — Indoor Fan Motor Fix](/posts/daikin-error-code-a6/)
+- [Daikin UH Error Code - Causes & Fix](/posts/daikin-heat-pump-uh-error-code/)

@@ -51,3 +51,10 @@ If the code is actually E2 or another sensor-related fault, it typically points 
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you cannot confirm the exact code from your model's documentation, if sensor resistance testing requires a model-specific chart you do not have, or if the fault involves refrigerant diagnosis or pressure safeties. Refrigerant work requires EPA certification, and misdiagnosing a sensor fault when the real issue is airflow, charge, or a failed board can lead to expensive parts replacement and continued failures. A qualified technician has access to Goodman's full service literature, model-specific fault-code databases, and the tools to test sensor circuits, refrigerant pressures, and board outputs safely. If the unit is under warranty, contact Goodman or an authorized dealer before replacing any parts to avoid voiding coverage.
+
+## See Also
+
+- [Goodman 7 Flash Error Code — Ignition Lockout Fix](/posts/goodman-7-flash-error-code/)
+- [Goodman Heat Pump d4 Error Code - Causes & Fix](/posts/goodman-heat-pump-d4-error-code/)
+- [Goodman Furnace Error Codes — All Flash Codes Explained](/posts/goodman-furnace-error-codes/)
+- [Goodman Furnace EF Error Code — Invalid Flame Signal](/posts/goodman-furnace-ef-error-code/)

@@ -46,3 +46,10 @@ In practical terms, the heater has detected a problem with airflow or the sensor
 ## When to Call a Pro
 
 Call a licensed technician if you have cleared the venting and cleaned the air filter but the E027 code returns. Testing the air pressure sensor circuit requires a multimeter and familiarity with Navien control boards. Combustion appliances involve gas, high voltage, and carbon-monoxide risk, so any work beyond basic filter and vent inspection should be handled by qualified service personnel. If your unit is under warranty, contact Navien or an authorized service center before replacing parts.
+
+## See Also
+
+- [Navien E030 Error Code — Causes & Fix](/posts/navien-error-code-e030/)
+- [Navien NPE/NCB Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003/)
+- [Navien Control Board Replacement - Signs & How-To](/posts/navien-water-heater-control-board-pcb-main-board-tankless-replacement/)
+- [Navien Error Code E001 — No Ignition Fix](/posts/navien-error-code-e001/)

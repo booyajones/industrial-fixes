@@ -64,3 +64,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a pro if the LED code points to a gas-valve fault, the board itself, or a persistent ignition or flame-proving problem after you've cleaned the sensor and confirmed the ignitor glows. Any work on gas piping, the gas valve, or burner assembly should be done by a licensed technician. If the furnace repeatedly trips a limit or rollout switch even after you've restored airflow and cleared the vents, that's a combustion or heat-exchanger issue that requires diagnosis with a manometer and combustion analyzer. Also call if you see rust stains, soot, or water around the burners or heat exchanger, or if you smell gas at any point. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Carrier vs Trane Furnaces — A Service Tech's Honest Comparison (2026)](/posts/carrier-vs-trane-furnaces/)
+- [Carrier 42 Error Code — Causes & Fix](/posts/carrier-42-error-code/)
+- [Carrier Mini-Split E4 Error Code — Compressor Discharge Temperature Fix](/posts/carrier-mini-split-e4-error-code/)
+- [Carrier Error Code 65 — Inducer Motor Fault](/posts/carrier-65-error-code/)

@@ -48,3 +48,10 @@ Because the exact definition of E14 depends on your specific model, you should c
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you cannot locate the sensor your manual specifies, if the sensor tests within range but the fault persists, or if you suspect the control board is not supplying the correct reference voltage. A professional can quickly trace the circuit with a service meter, verify board output, and replace components without voiding your warranty. If your unit is a standard Trane residential split system and E14 does not appear in your manual, a technician can cross-reference factory service bulletins or contact Trane support directly to identify the fault.
+
+## See Also
+
+- [Trane XV20i/XV18 Fault 126 — Low Pressure Cutout Fix](/posts/trane-heat-pump-error-code-126/)
+- [Trane 5 Flashes Error Code — Causes & Fix](/posts/trane-5-flashes-error-code/)
+- [Trane Tracer BAS Fault Codes - Complete Guide](/posts/trane-tracer-fault-codes/)
+- [Trane Heat Pump E4 Error Code - Causes & Fix](/posts/trane-heat-pump-e4-error-code/)

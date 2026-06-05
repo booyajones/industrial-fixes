@@ -48,3 +48,10 @@ The tE error on your LG dishwasher tells you the control board is not receiving 
 ## When to Call a Pro
 
 Call a professional if you are not comfortable working with live electrical circuits, if your multimeter readings do not match service data and you are unsure how to interpret them, or if you have replaced the thermistor and checked all wiring but the tE code still appears. LG notes that persistent tE errors require repair service, so technician-level diagnostics of the control board or hidden wiring faults may be necessary. A qualified technician has access to model-specific resistance tables, factory harness diagrams, and board-level test procedures that are not published in consumer materials.
+
+## See Also
+
+- [LG Mini Split CH06 Error Code - Causes & Fix](/posts/lg-mini-split-ch06-error-code/)
+- [LG Refrigerator CF Error Code - Causes & Fix](/posts/lg-refrigerator-cf-error-code/)
+- [LG Washer Door Boot Seal Replacement - Signs & How-To](/posts/lg-washer-door-boot-seal-bellow-gasket-front-load-replacement/)
+- [LG Washer dE Error Code - Causes & Fix](/posts/lg-washer-de-error-code/)

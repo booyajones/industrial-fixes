@@ -60,3 +60,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 If you are not comfortable working with gas appliances, call a technician to inspect and replace the igniter. Gas supply, burner, and igniter work should be performed by a qualified professional. If the igniter has been replaced and the furnace still does not ignite, or if fault codes point to control board, gas valve, or inducer issues, a technician with metering equipment and model-specific training is required to diagnose and repair the system safely. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Carrier E18 Error Code - Causes & Fix](/posts/carrier-heat-pump-e18-error-code/)
+- [Carrier 45 Error Code — Causes & Fix](/posts/carrier-45-error-code/)
+- [Carrier Zone Controller Error Codes — Complete Guide](/posts/carrier-zone-controller-error-codes/)
+- [Carrier Greenspeed Heat Pump Error Codes: Complete Guide](/posts/carrier-greenspeed-heat-pump-codes/)

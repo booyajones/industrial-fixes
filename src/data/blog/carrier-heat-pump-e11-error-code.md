@@ -47,3 +47,10 @@ The E11 error code on most Carrier split and ducted heat pump systems indicates 
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with line voltage, if you do not have the model-specific service manual and fault-code table, or if the error persists after reseating all wiring. Communication faults require methodical testing of signal voltages and board isolation, and misdiagnosis can lead to unnecessary part replacement. A technician has the meters, documentation, and experience to pinpoint whether the problem is in the indoor board, outdoor board, or harness before any component is swapped.
+
+## See Also
+
+- [Carrier Error Code 58 — Causes & Fix](/posts/carrier-58-error-code/)
+- [Carrier E22 Error Code - Causes & Fix](/posts/carrier-heat-pump-e22-error-code/)
+- [Carrier Furnace Error Code 33 — Flame Rollout & High Limit Switch Fix](/posts/carrier-error-code-33/)
+- [Carrier 12 Error Code — Causes & Fix](/posts/carrier-12-error-code/)

@@ -49,3 +49,10 @@ F0007 does not appear in manufacturer-backed Mitsubishi Electric heat pump fault
 ## When to Call a Pro
 
 Call a licensed HVAC technician or Mitsubishi-certified service provider if you cannot verify the exact fault code from the controller or service menu, if the code does not match any entry in your model's service manual, if you lack the tools or training to safely measure voltages and test control boards, or if the fault persists after checking power and wiring. Misdiagnosis or incorrect board replacement on inverter-driven heat pumps can cause expensive secondary failures, so professional diagnosis is the safest path when the fault code is unclear or unrecognized.
+
+## See Also
+
+- [Mitsubishi P3 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-p3-error-code/)
+- [Mitsubishi Mini Split E0 Error Code - Causes & Fix](/posts/mitsubishi-mini-split-e0-error-code/)
+- [Mitsubishi Mini Split Blowing Warm Air - Causes & Fix](/posts/mitsubishi-mini-split-blowing-warm-air/)
+- [Mitsubishi E2 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-e2-error-code/)

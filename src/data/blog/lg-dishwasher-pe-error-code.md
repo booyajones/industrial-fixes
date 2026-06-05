@@ -46,3 +46,10 @@ The PE error code on an LG dishwasher indicates a problem with the water level s
 ## When to Call a Pro
 
 If you are uncomfortable disconnecting power, removing panels, or handling electrical connectors, call a technician. Also get help if the PE code returns after you have cleared the air tube and checked all visible wiring, since diagnosing between a faulty sensor and a control board fault requires test equipment and experience. Professional repair typically costs less than replacing the entire dishwasher, especially if the unit is less than a few years old.
+
+## See Also
+
+- [LG Washer CE Error Code - Causes & Fix](/posts/lg-washer-ce-error-code/)
+- [LG Microwave F11 Error Code - Causes & Fix](/posts/lg-microwave-f11-error-code/)
+- [LG Mini Split CH90 Error Code - Causes & Fix](/posts/lg-mini-split-ch90-error-code/)
+- [LG LDFN4542S Dishwasher Problems & Error Codes](/posts/lg-ldfn4542s-dishwasher-problems/)

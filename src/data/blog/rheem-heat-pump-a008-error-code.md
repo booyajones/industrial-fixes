@@ -45,3 +45,10 @@ A008 on a Rheem heat pump water heater indicates a detected dry fire condition. 
 ## When to Call a Pro
 
 Call a licensed technician if the A008 code returns after you have fully filled the tank and purged all air through multiple hot water fixtures. A pro can test the sensor circuit, inspect the condensate system, and verify the control board using manufacturer diagnostic procedures. Persistent dry fire alarms despite a full tank often require electrical testing and part replacement that go beyond basic homeowner troubleshooting. If your unit is under warranty, contact Rheem or your installer before replacing any parts to avoid voiding coverage.
+
+## See Also
+
+- [Rheem Furnace 5 Flashes Error Code — Flame Sensor Fault Fix](/posts/rheem-furnace-5-flashes-flame-sensor/)
+- [Rheem Furnace 3 Flashes - Causes & Fix](/posts/rheem-furnace-3-flashes-error-code/)
+- [Rheem XE50T10HS45U1 Problems & Error Codes](/posts/rheem-xe50t10hs45u1-water-heater-problems/)
+- [Rheem Water Heater T&P Relief Valve Replacement - Signs & How-To](/posts/rheem-water-heater-temperature-pressure-relief-valve-t-p-tpr-replacement/)

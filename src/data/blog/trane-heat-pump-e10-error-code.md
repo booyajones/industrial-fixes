@@ -49,3 +49,10 @@ The E10 error code on Trane heat pump systems indicates a low refrigerant pressu
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not trained in refrigerant handling or electrical diagnosis. Refrigerant work requires EPA certification, manifold gauges, recovery equipment, and proper leak-repair brazing or soldering. If you have already replaced the filter and confirmed good airflow but the E10 code returns, a professional can perform pressure testing, locate hidden leaks, check defrost operation, and test control-board voltages safely. Incorrect refrigerant charging or missed leaks will cause repeat failures and compressor damage.
+
+## See Also
+
+- [Trane Furnace Won't Turn On - Causes & Fix](/posts/trane-furnace-wont-turn-on/)
+- [Trane Heat Pump E2 Error Code — Outdoor Coil Sensor Fault](/posts/trane-heat-pump-error-code-e2/)
+- [Trane XV20i Error Code 79 — Causes & Fix](/posts/trane-error-code-79/)
+- [Trane 3-Blink Error Code — Pressure Switch Fault Fix](/posts/trane-3-blink-error-code/)

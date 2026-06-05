@@ -67,3 +67,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a licensed HVAC technician for any work that involves testing or replacing the gas valve, adjusting manifold pressure, diagnosing control-board failures, or working inside the burner box or heat exchanger. If you are not comfortable reading wiring diagrams, using a multimeter, or handling 120V circuits, stop and get help. Gas ignition and combustion diagnostics require training and calibrated tools, and a misdiagnosis can create a safety hazard or expensive secondary damage. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Goodman Heat Pump B0 Error Code - Causes & Fix](/posts/goodman-heat-pump-b0-error-code/)
+- [Goodman Furnace Short Cycling - Causes & Fix](/posts/goodman-furnace-short-cycling/)
+- [Goodman 5 Flash Error Code — Causes & Fix](/posts/goodman-5-flash-error-code/)
+- [Goodman Furnace 2 Flashes — Pressure Switch Stuck Closed Fix](/posts/goodman-furnace-2-flashes/)

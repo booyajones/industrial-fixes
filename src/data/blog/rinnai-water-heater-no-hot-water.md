@@ -53,3 +53,10 @@ If the display shows code 10, that points to an air supply or exhaust blockage. 
 ## When to Call a Pro
 
 Call a qualified technician if cleaning the inlet filter and checking plumbing connections does not restore hot water, if you see an error code you cannot resolve with basic checks, or if the symptom involves gas supply, ignition components, or the control board. Gas-side diagnostics, pressure testing, igniter replacement, and control board work require specialized tools and safety training. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rinnai Error Code 31 — Causes & Fix](/posts/rinnai-error-code-31/)
+- [Rinnai Tankless Water Heater Flame Rod Replacement Guide](/posts/rinnai-water-heater-flame-rod-flame-sensor-tankless-replacement/)
+- [Rinnai Error Code 14 — Causes & Fix](/posts/rinnai-error-code-14/)
+- [Rinnai Error Code 10 — Condensate / Exhaust Blockage / Fan Motor Fault Fix](/posts/rinnai-error-code-10/)

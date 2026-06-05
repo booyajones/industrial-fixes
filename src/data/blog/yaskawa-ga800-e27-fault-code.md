@@ -47,3 +47,10 @@ Before you reset any fault, Yaskawa requires you to identify and remove the unde
 ## When to Call a Pro
 
 Contact Yaskawa technical support or your supplier if the drive does not operate correctly after you clear the fault, if the E27 code reappears immediately, or if you cannot locate the E27 definition in your manual revision. Have the drive model number, specification code from the nameplate, serial number, and the exact fault code ready when you call. If the drive has visible damage, burned components, or tripped a ground-fault interrupter, do not re-energize it until a qualified technician inspects the unit and verifies safe operation.
+
+## See Also
+
+- [Yaskawa VFD Fault SC — Causes & Fix](/posts/yaskawa-vfd-fault-sc/)
+- [Yaskawa A1000 Complete Guide - Fault Codes, Parameters, and Commissioning](/posts/yaskawa-a1000-complete-guide/)
+- [Yaskawa GA800 E21 Fault - Causes & Fix](/posts/yaskawa-ga800-e21-fault-code/)
+- [Yaskawa GA800 E28 Fault - Serial Watchdog Timeout Fix](/posts/yaskawa-ga800-e28-fault-code/)

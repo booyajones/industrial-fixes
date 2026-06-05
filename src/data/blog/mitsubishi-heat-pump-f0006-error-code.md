@@ -47,3 +47,10 @@ Mitsubishi's own troubleshooting process requires you to read the fault directly
 ## When to Call a Pro
 
 Call a Mitsubishi-certified technician now if you cannot find F0006 in your model's fault table or if you do not have the service manual. Mitsubishi heat pumps use model-specific diagnostics, and attempting repairs without the correct fault definition risks damaging expensive boards, compressors, or refrigerant circuits. A qualified technician has access to factory fault libraries, service tools, and the training to retrieve and interpret codes correctly. If your system is under warranty, any repair by an uncertified person may void coverage.
+
+## See Also
+
+- [Mitsubishi P6 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-p6-error-code/)
+- [Mitsubishi F0010 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-f0010-error-code/)
+- [Mitsubishi AL-29 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-al-29-error-code/)
+- [Mitsubishi PL Error Code - Causes & Fix](/posts/mitsubishi-mini-split-pl-error-code/)

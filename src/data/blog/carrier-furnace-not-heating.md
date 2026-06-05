@@ -62,3 +62,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a technician for any gas-train work (ignitor, flame sensor, burners, gas valve, or supply checks), repeated lockout conditions, pressure-switch or venting diagnostics, control-board replacement, or if you are not comfortable working with line voltage or reading status codes. Professional diagnosis maps the LED code to the correct fault family before replacing parts, which saves time and avoids unnecessary expenses. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Carrier 45 Error Code — Causes & Fix](/posts/carrier-45-error-code/)
+- [Carrier 24ACC Air Conditioner Error Codes — Fault Code Diagnostic Guide](/posts/carrier-24acc-error-codes/)
+- [Carrier Geothermal Heat Pump Error Codes Guide](/posts/carrier-geothermal-error-codes/)
+- [Carrier Error Code 66 — Pressure Switch Fault](/posts/carrier-66-error-code/)

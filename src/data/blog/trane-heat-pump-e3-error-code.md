@@ -47,3 +47,10 @@ On Trane and American Standard ductless heat pump systems, the E3 fault indicate
 ## When to Call a Pro
 
 E3 faults require refrigerant handling, vacuum pump evacuation to 300 microns, and pressure diagnostics that are beyond typical DIY scope. Licensed HVAC technicians have refrigerant recovery equipment, micron gauges, and access to the exact charge specifications and EEV diagnostic procedures for your model. If you see the E3 code, especially on a new installation or after recent service, contact a Trane-certified technician. Attempting to add refrigerant without finding the root cause will mask a leak or installation error and lead to compressor damage.
+
+## See Also
+
+- [Trane Rooftop Unit Fault 77 — High Pressure Cutout](/posts/trane-rooftop-fault-77/)
+- [Trane / American Standard 2-Blink Error Code — External Lockout Fix](/posts/trane-2-blink-error-code/)
+- [Trane E19 Error Code - Causes & Fix](/posts/trane-heat-pump-e19-error-code/)
+- [Trane Furnace Error Codes — Complete Flash Code Guide](/posts/trane-furnace-error-codes/)

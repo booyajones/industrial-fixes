@@ -53,3 +53,10 @@ When the exchanger or its sensor fails, the control board throws diagnostic code
 ## When to Call a Pro
 
 Heat exchanger replacement on a tankless gas water heater involves gas-line work, combustion-chamber access, and precise sensor wiring. If you are not comfortable working with natural gas or propane connections, or if your local code requires a licensed plumber or gas fitter for any gas-appliance repair, hire a professional. A pro will also verify venting integrity, measure flame-circuit current (Rinnai specifies 1 amp or greater), check gas pressure, and confirm that the new exchanger operates within safe temperature limits before closing up the unit. If the fault code persists even after exchanger and sensor replacement, the control board may need replacement, and a qualified Rinnai service technician can diagnose board-level faults that DIY meter checks cannot pinpoint. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rinnai Water Heater Leaking - Causes & Fix](/posts/rinnai-water-heater-leaking/)
+- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)
+- [Rinnai RUR199iN Problems & Error Codes](/posts/rinnai-rur199in-water-heater-problems/)
+- [Rinnai RUR Series Error Codes — Tankless Water Heater Fault Guide](/posts/rinnai-rur-error-codes/)

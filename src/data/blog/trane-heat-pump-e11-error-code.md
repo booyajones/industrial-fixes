@@ -48,3 +48,10 @@ The practical takeaway is that E11 is a control-board problem, not a refrigerant
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with 120/240 VAC power or low-voltage control circuits, if the fault returns after a board replacement, or if your unit is still under warranty. Because Trane does not publish a heat-pump-specific E11 troubleshooting chart in the available service literature, professional diagnosis is the safest path to confirm that the fault is truly a board issue and not a misdiagnosed sensor, refrigerant, or reversing-valve problem. A tech will also verify proper board calibration and system staging after the repair.
+
+## See Also
+
+- [Trane XV20i/XV18 Fault 126 — Low Pressure Cutout Fix](/posts/trane-heat-pump-error-code-126/)
+- [Trane Heat Pump E15 Error Code - Causes & Fix](/posts/trane-heat-pump-e15-error-code/)
+- [Trane 1 Flash Error Code — Causes & Fix](/posts/trane-1-flash-error-code/)
+- [Trane XR90 Furnace Problems & Error Codes](/posts/trane-xr90-furnace-gas-residential-problems/)

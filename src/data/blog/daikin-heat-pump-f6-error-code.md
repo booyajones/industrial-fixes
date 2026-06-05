@@ -50,3 +50,10 @@ In simple terms, something is preventing the outdoor unit from releasing heat pr
 ## When to Call a Pro
 
 Call a licensed HVAC technician if the outdoor coil is clean, the fan runs normally, and the fault persists. Refrigerant work requires EPA certification, recovery equipment, and gauges to verify charge against factory specifications. Any diagnosis involving pressure switches, control boards, or refrigerant-side restrictions also needs professional tools and training. If the unit is still under warranty, contact a Daikin-authorized service provider to avoid voiding coverage. Do not attempt to add or remove refrigerant yourself.
+
+## See Also
+
+- [Daikin FTXV18AVJU9 Ductless Mini Split Problems & Error Codes](/posts/daikin-ftxv18avju9-ductless-mini-split-air-conditioner-problems/)
+- [Daikin RXQ VRV System Error Codes (Outdoor Unit): Complete Guide](/posts/daikin-vrv-rxq-error-codes/)
+- [Daikin E8 Error - Causes & Fix](/posts/daikin-e8-error-code/)
+- [Daikin U7 Error Code - Causes & Fix](/posts/daikin-u7-error-code/)

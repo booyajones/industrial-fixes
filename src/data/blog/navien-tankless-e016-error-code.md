@@ -49,3 +49,10 @@ This overheat fault is most often caused by restricted water flow or scale build
 ## When to Call a Pro
 
 Call a licensed plumber or Navien-certified technician if the E016 code returns after you have cleaned the inlet filter and confirmed water flow is normal. Persistent overheat faults usually mean scale inside the heat exchanger that requires a professional flush, a failed circulation pump or three-way valve, or a control-board issue. Do not attempt to disassemble the heat exchanger or test electrical components unless you have gas-appliance and electrical training. Overheat conditions can indicate unsafe combustion or venting problems that only a qualified technician should diagnose.
+
+## See Also
+
+- [Navien Water Heater Leaking - Causes & Fix](/posts/navien-water-heater-leaking/)
+- [Navien E515 Error Code - Causes & Fix](/posts/navien-tankless-e515-error-code/)
+- [Navien NCB-700 Combination Boiler Error Codes - Full Fault Guide](/posts/navien-ncb-700-error-codes/)
+- [Navien Alarm 401 Error Code - Causes & Fix](/posts/navien-tankless-alarm-401-error-code/)

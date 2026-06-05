@@ -45,3 +45,10 @@ The E011 error code on a Navien tankless water heater indicates a high water pre
 ## When to Call a Pro
 
 If you are not comfortable working with gas or electrical connections, or if you cannot access the sensor location safely, call a licensed plumber or Navien service technician. Also call a pro if measured water pressure is genuinely excessive and you need a pressure-reducing valve installed upstream, or if the code persists after sensor replacement and cleaning. Any electrical testing of sensor resistance or voltage should be done by a technician with your model's service manual, since the search results do not provide Navien's factory test values for E011.
+
+## See Also
+
+- [Navien Water Heater Not Enough Hot Water - Causes & Fix](/posts/navien-water-heater-not-enough-hot-water/)
+- [Navien NPE/NCB Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003/)
+- [Navien E027 Error Code - Causes & Fix](/posts/navien-tankless-e027-error-code/)
+- [Navien 406 Error Code - Causes & Fix](/posts/navien-tankless-alarm-406-error-code/)

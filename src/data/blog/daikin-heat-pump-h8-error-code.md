@@ -48,3 +48,10 @@ Daikin's official fault tables list four main causes: defective power transistor
 ## When to Call a Pro
 
 H8 is an inverter-level electrical fault that requires disassembly of the outdoor unit, live voltage diagnosis, and often surface-mount soldering or board-level replacement. If you do not have an HVAC multimeter, DC bus measurement tools, or experience handling inverter boards and high-voltage components, call a licensed Daikin technician. Misdiagnosis can destroy expensive inverter parts, and working inside the outdoor unit while power is on carries shock and arc-flash risk. Always call a pro if you are uncomfortable with live electrical troubleshooting or if the reactor or power module requires replacement and you lack soldering or board-swap experience.
+
+## See Also
+
+- [Daikin U2 Error Code - Causes & Fix](/posts/daikin-heat-pump-u2-error-code/)
+- [Daikin Mini Split Won't Turn On - Causes & Fix](/posts/daikin-mini-split-wont-turn-on/)
+- [Daikin C4 Error Code - Causes & Fix](/posts/daikin-mini-split-c4-error-code/)
+- [Daikin F9 Error Code — Heat Exchanger Temp Sensor Fault: Causes & Fix](/posts/daikin-f9-error-code/)

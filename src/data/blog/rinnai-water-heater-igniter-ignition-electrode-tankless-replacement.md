@@ -50,3 +50,10 @@ The igniter produces the spark that lights the gas burner when your tankless wat
 ## When to Call a Pro
 
 Gas appliance ignition and combustion work requires careful handling of electrical spark components, gas connections, and sealed combustion chambers. If you are not comfortable working with gas valves, wiring, or reassembling burner covers with proper gasket seals, hire a licensed technician. Also call a pro if cleaning the electrode and igniter does not restore ignition, if you see cracked heat exchangers or other damage inside the burner box, or if the unit continues to lock out after you replace the igniter and flame rod. Incorrect reassembly or a missed gasket can create unsafe combustion conditions or carbon monoxide risk. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rinnai Code 12 - Flame Failure & Lost Flame Fix](/posts/rinnai-tankless-water-heater-12-error-code/)
+- [Rinnai Error Code 16 — Causes & Fix](/posts/rinnai-error-code-16/)
+- [Rinnai Tankless Water Heater Error Codes — Complete Guide](/posts/rinnai-error-codes/)
+- [Rinnai Error Code 33 — Causes & Fix](/posts/rinnai-error-code-33/)
