@@ -1,0 +1,17 @@
+{
+  "project_code": "ECF",
+  "milestone": "consumer-orientation-v1",
+  "mode": "yolo",
+  "granularity": "standard",
+  "parallelization": true,
+  "commit_docs": true,
+  "model_profile": "balanced",
+  "workflow": {
+    "research": false,
+    "plan_check": true,
+    "verifier": true,
+    "nyquist_validation": true,
+    "auto_advance": true
+  },
+  "execution_note": "Content generation runs as deterministic Python (Perplexity+Claude, jobs=3, retry/backoff) orchestrated by Workflow agent storms for planning/QA. Subagents cannot Write to the repo; only Python does."
+}
