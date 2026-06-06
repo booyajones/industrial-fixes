@@ -13,6 +13,15 @@ html[data-theme="light"] {
   --accent: #E6531D;
   --muted: #E8E5DC;
   --border: #D9D6CE;
+  /* Service-manual identity (additive). Service blue = structure + trust;
+     semantic colors = diagnostic badges; code chip = the error code as hero. */
+  --brand: #1B2A4A;
+  --brand-contrast: #FFFFFF;
+  --safe: #15803D;
+  --caution: #B45309;
+  --danger: #B91C1C;
+  --code-bg: #15263F;
+  --code-fg: #F4F3EF;
 }
 
 html[data-theme="dark"] {
@@ -21,15 +30,28 @@ html[data-theme="dark"] {
   --accent: #E6531D;
   --muted: #1A2024;
   --border: #2A3038;
+  --brand: #9DB8E0;
+  --brand-contrast: #0F1418;
+  --safe: #4ADE80;
+  --caution: #FBBF24;
+  --danger: #F87171;
+  --code-bg: #1A2A45;
+  --code-fg: #F4F3EF;
 }
 
 @theme inline {
   --font-app: "Inter Tight", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-mono: ui-monospace, "JetBrains Mono", "SFMono-Regular", Menlo, Consolas, monospace;
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --color-accent: var(--accent);
   --color-muted: var(--muted);
   --color-border: var(--border);
+  --color-brand: var(--brand);
+  --color-brand-contrast: var(--brand-contrast);
+  --color-safe: var(--safe);
+  --color-caution: var(--caution);
+  --color-danger: var(--danger);
 }
 
 @layer base {

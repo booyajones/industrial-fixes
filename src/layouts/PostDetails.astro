@@ -137,6 +137,14 @@ else if (daysAgo < 60) reviewedLabel = `${Math.floor(daysAgo / 7)} weeks ago`;
 else if (daysAgo < 730) reviewedLabel = `${Math.floor(daysAgo / 30)} months ago`;
 else reviewedLabel = `${Math.floor(daysAgo / 365)} years ago`;
 
+// Error-code hero: the council's "make the code the hero" trust cue. Pull the
+// token that precedes "error code" / "fault code" in the title, and only show it
+// when it looks like a real code (has a digit, or is 1-3 uppercase letters), so
+// parts / symptom / model pages render no chip.
+const _heroMatch = title.match(/\b([A-Za-z0-9]{1,6})\s+(?:error|fault)\s+code\b/i);
+const _heroTok = _heroMatch?.[1];
+const heroCode = _heroTok && (/\d/.test(_heroTok) || /^[A-Z]{1,3}$/.test(_heroTok)) ? _heroTok : null;
+
 const layoutProps = {
   title: `${title} | errorcodefixes.com`,
   author: authorData?.name ?? "Error Code Fixes Editorial Team",
@@ -213,6 +221,12 @@ const nextPost =
     class:list={["app-layout pb-12", { "mt-8": !SITE.showBackButton }]}
     data-pagefind-body
   >
+    {heroCode && (
+      <div class="code-hero">
+        <span class="code-hero-label">Error code</span>
+        <span class="code-hero-value">{heroCode}</span>
+      </div>
+    )}
     <div class="title-copy-wrapper">
       <h1
         transition:name={slugifyStr(title.replaceAll(".", "-"))}
@@ -255,6 +269,9 @@ const nextPost =
         {readingMinutes} min read
       </span>
     </div>
+    <p class="independent-note" data-pagefind-ignore>
+      Independent. We don't sell parts, so we tell you when not to buy one.
+    </p>
 
     <!-- Quick Answer Box. Rendered FIRST (right after the meta row) so its <p>
          is the LCP element and paints near the top of the mobile viewport — it
@@ -401,6 +418,42 @@ const nextPost =
   .brand-hub-link a:hover,
   .brand-hub-link a:focus-visible {
     border-bottom-color: #166534;
+  }
+
+  /* Error-code hero: the actual code in monospace on a service-blue chip, so a
+     panicked reader confirms they are on the right page in under a second. */
+  .code-hero {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    margin-bottom: 0.7rem;
+    padding: 0.3rem 0.75rem 0.4rem;
+    background: var(--code-bg);
+    border-radius: 7px;
+  }
+  .code-hero-label {
+    font-size: 0.6rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: color-mix(in srgb, var(--code-fg) 68%, transparent);
+  }
+  .code-hero-value {
+    font-family: var(--font-mono);
+    font-size: 1.35rem;
+    font-weight: 700;
+    line-height: 1;
+    color: var(--code-fg);
+    letter-spacing: 0.02em;
+  }
+  /* Honest positioning made a feature (the council's highest-trust line). */
+  .independent-note {
+    margin: 0 0 1.1rem;
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: var(--brand);
+    border-left: 3px solid var(--brand);
+    padding-left: 0.6rem;
   }
 
   /* Title + copy button */
