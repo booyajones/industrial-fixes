@@ -48,3 +48,10 @@ The E6 error on Trane heat pumps with UCM control boards indicates a phase rever
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you see the E6 code. This fault involves three-phase power diagnostics, transformer polarity checks, and control board revision-specific reset procedures that require test equipment and electrical training. Incorrect work on phase wiring can damage the compressor, void warranties, or create safety hazards. A technician will use a phase rotation meter, follow the factory Power Supply Checkout Procedure, and determine whether the fault is in the supply, transformers, or the UCM itself.
+
+## See Also
+
+- [Trane 3 Flashes Error Code — Pressure Switch Fault Fix](/posts/trane-3-flashes-error-code/)
+- [Trane Heat Pump E3 Error Code - Causes & Fix](/posts/trane-heat-pump-e3-error-code/)
+- [Trane 7 Flashes Error Code — Gas Valve Circuit Fault Fix](/posts/trane-7-flashes-error-code/)
+- [Trane Heat Pump E2 Error Code — Outdoor Coil Sensor Fault](/posts/trane-heat-pump-error-code-e2/)

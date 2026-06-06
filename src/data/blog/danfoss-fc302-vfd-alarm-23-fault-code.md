@@ -46,3 +46,10 @@ Alarm 23 (or Warning 23) on a Danfoss VLT AutomationDrive FC 302 indicates an in
 ## When to Call a Pro
 
 Call a qualified drives technician or an electrical contractor with VFD experience if you are not trained in high-voltage electrical work or if the alarm persists after replacing the fan and fuses. Working inside a VFD involves potentially lethal DC bus voltages that can remain even after mains power is disconnected. If the control card or option card needs replacement, a technician can also verify proper configuration and parameter settings after the repair.
+
+## See Also
+
+- [Danfoss FC302 Alarm 20 - Causes & Fix](/posts/danfoss-fc302-alarm-20-fault-code/)
+- [Danfoss FC302 VFD Alarm 46 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-46-fault-code/)
+- [Danfoss FC302 Alarm 24 - Causes & Fix](/posts/danfoss-fc302-alarm-24-fault-code/)
+- [Danfoss FC302 Alarm 49 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-49-fault-code/)

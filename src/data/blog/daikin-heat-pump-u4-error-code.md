@@ -47,3 +47,10 @@ The U4 code indicates a communication fault between your indoor and outdoor unit
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you are not comfortable working with live 240 V power, if the communication wiring passes all visual and meter checks but the code persists, or if you need to test or replace control boards. Technicians have the tools to measure communication signals, isolate board-level faults, and verify correct multi-zone configurations. Do not replace expensive boards until power, wiring integrity, and system setup have been verified by someone trained in Daikin diagnostics.
+
+## See Also
+
+- [Daikin Mini Split Ice on Coils - Causes & Fix](/posts/daikin-mini-split-ice-on-coils/)
+- [Daikin UA Error Code — Mismatched Indoor/Outdoor Unit Fix](/posts/daikin-error-code-uA/)
+- [Daikin E7 Error Code — Outdoor Fan Motor Fault Fix](/posts/daikin-e7-error-code/)
+- [Daikin L5 Error Code — Compressor Lock Fix](/posts/daikin-error-code-l5/)

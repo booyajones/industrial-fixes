@@ -59,3 +59,10 @@ If this part is failing you may also see one of these codes:
 ## When to Call a Pro
 
 Gas-fired tankless heaters require proper combustion diagnostics, gas-pressure testing, and flame-rod voltage checks that are difficult without a multimeter and manometer. If you're not confident reading wiring diagrams, testing sensors, or working around 120V or 240V power and natural-gas or propane lines, call a licensed plumber or gas technician. A pro can also verify that the new board is programmed correctly for your fuel type and venting configuration and can confirm that the root cause wasn't a failed sensor or corroded connector that will damage the replacement board. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rheem Furnace Blower Won't Shut Off - Causes & Fix](/posts/rheem-furnace-blower-wont-shut-off/)
+- [Rheem Furnace Won't Turn On - Causes & Fix](/posts/rheem-furnace-wont-turn-on/)
+- [Rheem Water Heater T&P Relief Valve Replacement - Signs & How-To](/posts/rheem-water-heater-temperature-pressure-relief-valve-t-p-tpr-replacement/)
+- [Rheem Water Heater Water Too Hot - Causes & Fix](/posts/rheem-water-heater-water-too-hot/)

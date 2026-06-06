@@ -48,3 +48,10 @@ The UA error code on a Daikin heat pump indicates an indoor/outdoor unit combina
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not confident reading wiring diagrams, if you lack access to Daikin's official combination tables and service mode procedures, or if the error persists after checking models and wiring. VRV and VRF systems require specialized tools and software to configure addresses and commissioning settings. Replacing control boards or reconfiguring multi-split systems without proper training can damage expensive components or void warranties. A qualified Daikin service provider has the technical bulletins, diagnostic software, and replacement boards needed to resolve combination faults efficiently.
+
+## See Also
+
+- [Daikin H6 Error Code - Causes & Fix](/posts/daikin-heat-pump-h6-error-code/)
+- [Daikin U0 Error Code - Causes & Fix](/posts/daikin-heat-pump-u0-error-code/)
+- [Daikin U8 Error Code - Causes & Fix](/posts/daikin-u8-error-code/)
+- [Daikin Mini Split Blowing Warm Air - Causes & Fix](/posts/daikin-mini-split-blowing-warm-air/)

@@ -49,3 +49,10 @@ Before beginning any repair work, confirm the exact fault code by checking the d
 ## When to Call a Pro
 
 Call a qualified electrician or automation technician if you cannot confirm the exact fault code, if the fault returns after you have verified all wiring and mechanical conditions, or if you suspect internal power-module damage. Replacement of the G120 power module requires knowledge of Siemens drive commissioning, parameter backup, and safe high-voltage work practices. Professional diagnostics using Siemens STARTER software and drive-specific fault history will save time and prevent incorrect part replacement.
+
+## See Also
+
+- [Siemens G120 F0003 - Causes & Fix](/posts/siemens-g120-vfd-f0003-fault-code/)
+- [Siemens G120 F01001 - Causes & Fix](/posts/siemens-g120-vfd-f01001-fault-code/)
+- [Siemens Micromaster F0070 - Causes & Fix](/posts/siemens-micromaster-vfd-f0070-fault-code/)
+- [Siemens Micromaster F0071 - Causes & Fix](/posts/siemens-micromaster-f0071-fault-code/)

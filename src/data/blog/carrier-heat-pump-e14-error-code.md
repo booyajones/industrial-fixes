@@ -46,3 +46,10 @@ The E14 error code on Carrier heat pumps typically indicates a tank temperature 
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with line-voltage electrical components or if the error code definition does not match the tank sensor fault described here. A pro should also diagnose the system if the sensor tests within spec, the wiring shows continuity, but the E14 code will not clear, as this points to a control board issue requiring board-level testing and possibly refrigerant-side work. Professional service is also recommended if your heat pump is under warranty, since DIY sensor replacement may void coverage on some Carrier models.
+
+## See Also
+
+- [Carrier 23 Error Code — Draft Safeguard Switch Fault](/posts/carrier-23-error-code/)
+- [Carrier 59TN6 Furnace Problems & Error Codes](/posts/carrier-59tn6-furnace-gas-residential-problems/)
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier Error Code 34 - Ignition Proving Failure Fix](/posts/carrier-furnace-34-error-code/)

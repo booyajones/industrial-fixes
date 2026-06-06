@@ -58,3 +58,10 @@ If this part is failing you may also see one of these codes:
 ## When to Call a Pro
 
 If the anode rod hex head is severely seized and you cannot break it loose with a breaker bar or impact wrench, a pro with hydraulic tools can remove it without damaging the tank threads. If you find active leaks from the tank body or heavy rust perforation, the tank itself has failed and you need a licensed plumber to evaluate replacement. On gas models, if you smell gas at any point or are uncomfortable working around the gas control and pilot assembly, shut off the gas supply and call a qualified technician. Low ceiling clearance that prevents pulling a full-length rod straight out is another reason to hire a pro who can install a flexible or powered anode without removing the tank. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rheem Tankless Water Heater Flame Sensor Replacement Guide](/posts/rheem-water-heater-flame-rod-flame-sensor-tankless-replacement/)
+- [Rheem Water Heater High-Limit Switch / ECO Replacement Guide](/posts/rheem-water-heater-high-limit-switch-eco-electric-reset-upper-thermostat-replacement/)
+- [Rheem RA16 Heat Pump Error Codes — Flash Code Diagnostic Guide](/posts/rheem-ra16-heat-pump-error-codes/)
+- [Rheem Furnace 9 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-9-flashes/)

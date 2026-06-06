@@ -2735,6 +2735,114 @@
     "danfoss-fc302-vfd-alarm-48-fault-code": {
       "topic": "Danfoss FC302 VFD ALARM 48 fault code",
       "date": "2026-06-05"
+    },
+    "danfoss-fc302-vfd-alarm-24-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 24 fault code",
+      "date": "2026-06-06"
+    },
+    "danfoss-fc302-vfd-alarm-27-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 27 fault code",
+      "date": "2026-06-06"
+    },
+    "danfoss-fc302-vfd-alarm-28-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 28 fault code",
+      "date": "2026-06-06"
+    },
+    "danfoss-fc302-vfd-alarm-29-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 29 fault code",
+      "date": "2026-06-06"
+    },
+    "danfoss-fc302-vfd-alarm-32-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 32 fault code",
+      "date": "2026-06-06"
+    },
+    "danfoss-fc302-vfd-alarm-35-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 35 fault code",
+      "date": "2026-06-06"
+    },
+    "danfoss-fc302-vfd-alarm-36-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 36 fault code",
+      "date": "2026-06-06"
+    },
+    "danfoss-fc302-vfd-alarm-49-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 49 fault code",
+      "date": "2026-06-06"
+    },
+    "danfoss-fc302-vfd-alarm-50-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 50 fault code",
+      "date": "2026-06-06"
+    },
+    "danfoss-fc302-vfd-alarm-51-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 51 fault code",
+      "date": "2026-06-06"
+    },
+    "danfoss-fc302-vfd-alarm-52-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 52 fault code",
+      "date": "2026-06-06"
+    },
+    "danfoss-fc302-vfd-alarm-53-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 53 fault code",
+      "date": "2026-06-06"
+    },
+    "danfoss-fc302-vfd-alarm-54-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 54 fault code",
+      "date": "2026-06-06"
+    },
+    "danfoss-fc302-vfd-alarm-55-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 55 fault code",
+      "date": "2026-06-06"
+    },
+    "danfoss-fc302-vfd-alarm-58-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 58 fault code",
+      "date": "2026-06-06"
+    },
+    "danfoss-vlt-vfd-al-4-fault-code": {
+      "topic": "Danfoss VLT VFD AL 4 fault code",
+      "date": "2026-06-06"
+    },
+    "yaskawa-ga800-vfd-e01-fault-code": {
+      "topic": "Yaskawa GA800 VFD E01 fault code",
+      "date": "2026-06-06"
+    },
+    "yaskawa-ga800-vfd-e02-fault-code": {
+      "topic": "Yaskawa GA800 VFD E02 fault code",
+      "date": "2026-06-06"
+    },
+    "yaskawa-ga800-vfd-e03-fault-code": {
+      "topic": "Yaskawa GA800 VFD E03 fault code",
+      "date": "2026-06-06"
+    },
+    "yaskawa-ga800-vfd-e04-fault-code": {
+      "topic": "Yaskawa GA800 VFD E04 fault code",
+      "date": "2026-06-06"
+    },
+    "yaskawa-ga800-vfd-e05-fault-code": {
+      "topic": "Yaskawa GA800 VFD E05 fault code",
+      "date": "2026-06-06"
+    },
+    "yaskawa-ga800-vfd-e06-fault-code": {
+      "topic": "Yaskawa GA800 VFD E06 fault code",
+      "date": "2026-06-06"
+    },
+    "yaskawa-ga800-vfd-e07-fault-code": {
+      "topic": "Yaskawa GA800 VFD E07 fault code",
+      "date": "2026-06-06"
+    },
+    "yaskawa-ga800-vfd-e08-fault-code": {
+      "topic": "Yaskawa GA800 VFD E08 fault code",
+      "date": "2026-06-06"
+    },
+    "yaskawa-ga800-vfd-e09-fault-code": {
+      "topic": "Yaskawa GA800 VFD E09 fault code",
+      "date": "2026-06-06"
+    },
+    "yaskawa-ga800-vfd-e10-fault-code": {
+      "topic": "Yaskawa GA800 VFD E10 fault code",
+      "date": "2026-06-06"
+    },
+    "yaskawa-ga800-vfd-e11-fault-code": {
+      "topic": "Yaskawa GA800 VFD E11 fault code",
+      "date": "2026-06-06"
     }
   }
 }

@@ -49,3 +49,10 @@ These codes apply to this model line:
 ## When to Call a Pro
 
 Call a licensed technician for any gas supply work, gas valve replacement, or venting issues. Professionals have combustion analyzers to verify proper gas pressure and air-fuel mix. If you see repeated ignition codes after cleaning the flame rod and igniter, or if the unit trips thermal safeties, the problem usually involves gas pressure, venting, or internal scale that needs professional flushing and component testing. Any work inside the combustion chamber or on gas connections requires a qualified gas technician. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rheem Split System Heat Pump Error Codes — RA14, RA15, RP15 Fault Guide](/posts/rheem-heat-pump-error-codes/)
+- [Rheem A01 Error Code - Causes & Fix](/posts/rheem-water-heater-a01-error-code/)
+- [Rheem Furnace 6 Flashes — Rollout Switch Open Fix](/posts/rheem-furnace-6-flashes/)
+- [Rheem Air Handler E1 Error Code — Causes & Fix](/posts/rheem-error-code-e1/)

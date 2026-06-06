@@ -48,3 +48,10 @@ This fault points directly to the hoist brake system rather than the motor or po
 ## When to Call a Pro
 
 Call a qualified hoist or VFD technician if you are not trained in hoist brake systems or if the alarm persists after you have verified wiring and adjusted parameters. Hoist brake faults involve load-holding safety and require precise mechanical and electrical integration. A technician with FC 302 and hoist experience can perform load tests, measure brake torque, verify feedback logic, and certify the system meets local lifting equipment codes before returning the hoist to service.
+
+## See Also
+
+- [Danfoss FC302 ALARM 27 - Causes & Fix](/posts/danfoss-fc302-alarm-27-fault-code/)
+- [Danfoss FC302 Alarm 40 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-40-fault-code/)
+- [Danfoss FC302 ALARM 16 - Causes & Fix](/posts/danfoss-fc302-alarm-16-fault-code/)
+- [Danfoss FC302 ALARM 25 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-25-fault-code/)

@@ -48,3 +48,10 @@ The d4 code on Goodman heat pumps indicates that shared data on the memory card 
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you cannot verify the exact code or model number, if the fault persists after a power cycle and wiring inspection, or if you are not comfortable working with low-voltage control boards and data interfaces. A technician has the model-specific service manual, diagnostic tools, and correct replacement parts to isolate whether the fault is in the memory card, control board, or communication wiring. Because d4 is not a widely published code and meanings vary by model family, professional diagnosis is the safest path to avoid replacing the wrong part.
+
+## See Also
+
+- [Goodman Furnace 4 Flashes — Open High Limit Switch Fix](/posts/goodman-furnace-4-flashes/)
+- [Goodman GVZC18 Heat Pump Error Codes: iQ Drive Fault Diagnostics](/posts/goodman-gvzc18-heat-pump-error-codes/)
+- [Goodman D2 Error Code - Causes & Fix](/posts/goodman-heat-pump-d2-error-code/)
+- [Goodman EE2 Error Code: Control Board Communication Fault Fix](/posts/goodman-ee2-error-code/)

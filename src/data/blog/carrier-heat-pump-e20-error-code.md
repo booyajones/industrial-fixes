@@ -49,3 +49,10 @@ The E20 error code on a Carrier heat pump signals a communication fault between 
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with line voltage, if the error returns after a power cycle and visual inspection, or if you cannot locate obvious wiring damage. Board-level diagnosis requires a multimeter, the correct service manual for your Carrier model, and experience isolating communication circuits from power and sensor wiring. Incorrect board replacement or miswiring can damage expensive electronics or create a safety hazard, so professional help is the safest choice when the fault is not obvious.
+
+## See Also
+
+- [Carrier WeatherMaker Rooftop Unit Error Codes: Complete Guide](/posts/carrier-weatheramaker-error-codes/)
+- [Carrier E22 Error Code - Causes & Fix](/posts/carrier-heat-pump-e22-error-code/)
+- [Carrier Error Code 27 - Causes & Fix](/posts/carrier-error-code-27/)
+- [Carrier Greenspeed Heat Pump Error Codes: Complete Guide](/posts/carrier-greenspeed-heat-pump-codes/)

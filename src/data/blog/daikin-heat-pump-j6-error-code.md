@@ -49,3 +49,10 @@ Daikin's self-diagnosis documentation identifies three primary fault sources for
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working inside the outdoor unit with line voltage present, if you do not have a multimeter and the skills to interpret thermistor resistance readings, or if replacing the sensor does not clear the J6 code. Heat pump refrigerant circuits and high-voltage controls require EPA certification and specialized tools. A qualified Daikin service technician can access model-specific resistance tables, retrieve additional fault history from the control board, and perform board-level diagnostics that are not published in homeowner literature.
+
+## See Also
+
+- [Daikin Mini Split Blowing Warm Air - Causes & Fix](/posts/daikin-mini-split-blowing-warm-air/)
+- [Daikin F3 Error Code — Causes & Fix](/posts/daikin-f3-error-code/)
+- [Daikin RXYQ VRV System Error Codes — Complete Fault Code Guide](/posts/daikin-rxyq-error-codes/)
+- [Daikin E05 Error Code - Causes & Fix](/posts/daikin-mini-split-e05-error-code/)

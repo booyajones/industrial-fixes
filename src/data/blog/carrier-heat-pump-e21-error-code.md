@@ -49,3 +49,10 @@ The fault can indicate either an actual refrigerant leak somewhere in the sealed
 ## When to Call a Pro
 
 Call a licensed HVAC technician as soon as E21 appears. Refrigerant work requires EPA Section 608 certification, specialized leak-detection and recovery equipment, vacuum pumps, manifold gauges, and exact charging procedures that are not legal or safe for homeowners to perform. A tech will confirm whether you have a real leak or a sensor fault, then repair and recharge the system to factory specifications. Attempting refrigerant service without certification violates federal law and risks personal injury, equipment damage, and environmental harm.
+
+## See Also
+
+- [Carrier Infinity System Communication Error 168 — Wiring & Board Fix](/posts/carrier-infinity-error-168/)
+- [Carrier 59TP6 Furnace Problems & Error Codes](/posts/carrier-59tp6-furnace-gas-residential-problems/)
+- [Carrier 13 Error Code — Limit Switch Lockout Fix](/posts/carrier-13-error-code/)
+- [Carrier Error Code 29 - Causes & Fix](/posts/carrier-error-code-29/)

@@ -48,3 +48,10 @@ The U2 code on a Daikin heat pump signals a malfunction of the power supply or a
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with line voltage or if you cannot confirm proper supply voltage at the outdoor unit. If voltage is present and correct but the unit still shows U2, the outdoor PCB or internal power-section components likely need diagnosis and replacement, which requires technical training and proper tools. Because U2 is a power-supply fault, misdiagnosis or improper wiring repair can create safety hazards or further damage the system.
+
+## See Also
+
+- [Daikin C4 Error Code - Causes & Fix](/posts/daikin-heat-pump-c4-error-code/)
+- [Daikin U0 Error Code - Causes & Fix](/posts/daikin-heat-pump-u0-error-code/)
+- [Daikin VRV System Error Codes: Complete Guide](/posts/daikin-vrv-error-codes/)
+- [Daikin Chiller Fault Codes — Complete Troubleshooting Guide](/posts/daikin-chiller-fault-codes/)

@@ -48,3 +48,10 @@ The drive also performs a brake resistor disconnection test at power-up, so rela
 ## When to Call a Pro
 
 Call a qualified VFD technician or industrial electrician if you are not trained to work on live DC bus circuits or high-power brake resistors. If the alarm persists after you have replaced the brake resistor and verified all wiring, the internal brake chopper has likely failed and requires component-level drive repair or a new power section. A technician can perform safe DC bus discharge, measure brake IGBT gate signals, and access manufacturer service parts. Also call a pro if your application involves regenerative loads like cranes or centrifuges where loss of braking creates a safety hazard or if your facility requires arc-flash PPE and lockout procedures beyond your training.
+
+## See Also
+
+- [Danfoss FC302 Alarm 34 - Causes & Fix](/posts/danfoss-fc302-alarm-34-fault-code/)
+- [Danfoss FC302 Alarm 42 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-42-fault-code/)
+- [Danfoss FC302 Alarm 43 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-43-fault-code/)
+- [Danfoss VFD Fault UL — Causes & Fix](/posts/danfoss-vfd-fault-ul/)

@@ -46,3 +46,10 @@ The E029 code on a Navien tankless water heater signals an air pressure sensor o
 ## When to Call a Pro
 
 Call a licensed technician if you are not comfortable working with gas appliances, if you cannot locate or access the air pressure sensor, or if replacing the sensor and clearing vents does not resolve the code. Tankless water heaters involve combustion air systems and control logic that require proper testing equipment and gas-safety training. A pro can perform pressure tests, read live sensor values on the board, and make sure the unit meets local code after any repair.
+
+## See Also
+
+- [Navien Alarm 401 Error Code - Causes & Fix](/posts/navien-tankless-alarm-401-error-code/)
+- [Navien E109 Error - Causes & Fix](/posts/navien-tankless-water-heater-e109-error-code/)
+- [Navien E008 Error Code - Causes & Fix](/posts/navien-tankless-e008-error-code/)
+- [Navien E003 Error - Ignition Failure Causes & Fix](/posts/navien-tankless-water-heater-e003-error-code/)

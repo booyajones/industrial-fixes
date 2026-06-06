@@ -46,3 +46,10 @@ Navien's official guidance points to a stuck or obstructed flow sensor as the ro
 ## When to Call a Pro
 
 If opening the pressure relief valve and inspecting the sensor wiring do not clear the E038 code, contact the original installer or a Navien-authorized service provider. Removing and replacing the flow sensor involves shutting off water and power, draining parts of the system, and ensuring proper reassembly to avoid leaks. A qualified technician has the correct Navien replacement sensor, tools to verify flow mechanically, and experience re-sealing the housing without damaging gaskets or O-rings.
+
+## See Also
+
+- [Navien E002 Error Code — Causes & Fix](/posts/navien-error-code-e002/)
+- [Navien E615 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e615-error-code/)
+- [Navien NPE-240S Tankless Water Heater Error Codes - Full Fault Guide](/posts/navien-npe-240s-error-codes/)
+- [Navien Water Heater Leaking - Causes & Fix](/posts/navien-water-heater-leaking/)

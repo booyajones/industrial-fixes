@@ -45,3 +45,10 @@ On Trane heat pumps using the Medium Foundation control system, E7 indicates a d
 ## When to Call a Pro
 
 If you are not comfortable working with live 240 V power, refrigerant lines, or multimeter diagnostics, call a licensed HVAC technician. Replacing the sensor is straightforward for anyone with basic electrical skills, but misdiagnosing the board or damaging refrigerant lines during sensor removal can lead to expensive compressor damage or refrigerant loss. A technician can also verify refrigerant charge and run a full system checkout after the repair to confirm safe operation.
+
+## See Also
+
+- [Trane E6 Error Code - Causes & Fix](/posts/trane-heat-pump-e6-error-code/)
+- [Trane 3-Blink Error Code — Pressure Switch Fault Fix](/posts/trane-3-blink-error-code/)
+- [Trane XL20i Variable Speed Error Codes — Complete Guide](/posts/trane-xl20i-error-codes/)
+- [Trane Heat Pump E2 Error Code — Outdoor Coil Sensor Fault](/posts/trane-heat-pump-error-code-e2/)

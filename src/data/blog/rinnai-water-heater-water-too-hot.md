@@ -52,3 +52,10 @@ This is not an ignition or venting fault. The heater is firing but cannot shed h
 ## When to Call a Pro
 
 Call a licensed plumber or gas technician if you see an LC code and are not comfortable performing a chemical flush, if the heat exchanger shows visible damage after flushing, or if the over-temperature fault returns after you have confirmed good water flow and clear venting. Any work that involves disconnecting gas lines, replacing the heat exchanger, or diagnosing control-board and sensor circuits should be handled by a Rinnai-trained service provider. If your unit is still under warranty, professional documentation of the flush procedure may be required for any subsequent heat-exchanger claim. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rinnai Error Code 11 No Ignition — Causes & Fix](/posts/rinnai-error-code-11-ignition/)
+- [Rinnai Tankless Water Heater Flame Rod Replacement Guide](/posts/rinnai-water-heater-flame-rod-flame-sensor-tankless-replacement/)
+- [Rinnai Tankless Heat Exchanger Replacement - Signs & How-To](/posts/rinnai-water-heater-heat-exchanger-tankless-condensing-secondary-replacement/)
+- [Rinnai Error Code 31 — Causes & Fix](/posts/rinnai-error-code-31/)

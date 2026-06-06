@@ -49,3 +49,10 @@ Because Trane uses different control platforms across model families, the exact 
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with line voltage, if the fault returns after replacing the sensor and cleaning connectors, or if you cannot locate the correct service manual and resistance specifications for your Trane model. A technician can perform board-level diagnostics, measure reference voltages at the control board, and confirm whether a board replacement is necessary. Professional help is also recommended if your heat pump is still under warranty, since DIY sensor replacement may void coverage on some Trane models.
+
+## See Also
+
+- [Trane Heat Pump E10 Error - Causes & Fix](/posts/trane-heat-pump-e10-error-code/)
+- [Trane 4 Flashes Error Code — Open High Limit Fix](/posts/trane-4-flashes-error-code/)
+- [Trane Heat Pump E11 Error Code - Causes & Fix](/posts/trane-heat-pump-e11-error-code/)
+- [Trane E16 Error Code - Causes & Fix](/posts/trane-heat-pump-e16-error-code/)

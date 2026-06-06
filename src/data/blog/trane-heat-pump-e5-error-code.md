@@ -47,3 +47,10 @@ The E5 error code on Trane heat pumps indicates a voltage protection fault in th
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with line voltage or if incoming voltage tests normal but the fault persists. Voltage protection faults can point to failed inverter boards or internal control issues that require diagnostic equipment and manufacturer training to isolate safely. A technician will measure supply voltage under load, test the control board's internal regulation circuits, and replace only the confirmed failed component. Do not repeatedly reset the unit or replace parts without testing, as repeated voltage faults can damage other components.
+
+## See Also
+
+- [Trane XL16i Error Codes — Heat Pump Fault Code Diagnostic Guide](/posts/trane-xl16i-error-codes/)
+- [Trane Furnace 4 Flashes - Causes & Fix](/posts/trane-furnace-4-flashes-error-code/)
+- [Trane XV20i Error Code 79 — Causes & Fix](/posts/trane-error-code-79/)
+- [Trane Rooftop Unit Error Codes: Common Faults Guide](/posts/trane-rooftop-unit-error-codes/)

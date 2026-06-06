@@ -49,3 +49,10 @@ Mitsubishi Electric fault-code tables group P2 as a pipe sensor circuit error, n
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with live control boards, measuring thermistor resistance, or handling refrigerant. Refrigerant-side diagnostics require EPA certification, manifold gauges, recovery equipment, and vacuum pumps. Replacing the indoor board or thermistor involves removing panels and working near high-voltage connections. If the fault is intermittent or you cannot isolate whether the problem is the sensor, wiring, or refrigerant circuit, a technician with Mitsubishi-specific training and the correct service manual will save you time and prevent misdiagnosis.
+
+## See Also
+
+- [Mitsubishi Elevator Fault Codes - Complete Guide](/posts/mitsubishi-elevator-fault-codes/)
+- [Mitsubishi E0 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-e0-error-code/)
+- [Mitsubishi E5 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-e5-error-code/)
+- [Mitsubishi E1 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-e1-error-code/)

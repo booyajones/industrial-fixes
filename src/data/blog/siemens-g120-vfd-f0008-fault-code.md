@@ -49,3 +49,10 @@ The DC link is the capacitor bank between the input rectifier and the output inv
 ## When to Call a Pro
 
 Call a qualified drives technician or Siemens-certified service partner if you measure correct incoming voltage and tight connections but the DC link still trips low, if you are uncomfortable working inside energized industrial control cabinets, or if your drive has no external fault-reset capability and requires laptop-based diagnostics. Replacing the input rectifier or power module requires matching the exact frame size and firmware revision, and many G120 configurations need parameter backup and commissioning software to restore full operation after a hardware swap.
+
+## See Also
+
+- [Siemens G120 F01600 - Causes & Fix](/posts/siemens-g120-f01600-fault-code/)
+- [Siemens VFD Fault Codes — SINAMICS G120, V20, S120 Guide](/posts/siemens-vfd-fault-codes/)
+- [Siemens G120 F01034 - Causes & Fix](/posts/siemens-g120-f01034-fault-code/)
+- [Siemens Micromaster F0030 - Causes & Fix](/posts/siemens-micromaster-vfd-f0030-fault-code/)

@@ -46,3 +46,10 @@ Alarm 401 on Rheem tankless water heaters is a maintenance notification, not a b
 ## When to Call a Pro
 
 Call a licensed technician if the alarm will not clear after you complete maintenance, if you are uncomfortable working with gas appliances, or if you find damaged combustion components, wiring issues, or error codes that appear alongside the 401. A qualified Rheem service provider has the model-specific diagnostic tools, combustion analyzer, and access to manufacturer bulletins needed to verify safe operation and address any underlying issues that a maintenance cleaning alone cannot resolve.
+
+## See Also
+
+- [Rheem Tankless Water Heater Error 76 - Causes & Fix](/posts/rheem-tankless-water-heater-76-error-code/)
+- [Rheem Water Heater High-Limit Switch / ECO Replacement Guide](/posts/rheem-water-heater-high-limit-switch-eco-electric-reset-upper-thermostat-replacement/)
+- [Rheem Heat Pump A001 Error Code - Causes & Fix](/posts/rheem-heat-pump-a001-error-code/)
+- [Rheem Furnace Igniter Not Working - Causes & Fix](/posts/rheem-furnace-igniter-not-working/)

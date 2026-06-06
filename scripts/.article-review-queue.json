@@ -136,5 +136,35 @@
     "score": 6,
     "reason": "F0011 is NOT documented as a real G120 fault code per the research; the draft correctly warns this but shouldn't be published under 'Siemens G120 F0011' when the code doesn't exist for that model.",
     "date": "2026-06-04"
+  },
+  "danfoss-fc302-vfd-alarm-55-fault-code": {
+    "topic": "Danfoss FC302 VFD ALARM 55 fault code",
+    "score": 0,
+    "reason": "review error: HTTP Error 429: Too Many Requests",
+    "date": "2026-06-06"
+  },
+  "yaskawa-ga800-vfd-e01-fault-code": {
+    "topic": "Yaskawa GA800 VFD E01 fault code",
+    "score": 6,
+    "reason": "Code existence is field-reported only, not manufacturer-verified for GA800; research explicitly states E01 meaning cannot be confirmed from official Yaskawa documentation, making this unverifiable rather than documented.",
+    "date": "2026-06-06"
+  },
+  "yaskawa-ga800-vfd-e08-fault-code": {
+    "topic": "Yaskawa GA800 VFD E08 fault code",
+    "score": 3,
+    "reason": "Research explicitly states E08 definition for GA800 cannot be verified from available sources; publishing unverified fault code meanings creates liability and misinformation risk.",
+    "date": "2026-06-06"
+  },
+  "yaskawa-ga800-vfd-e09-fault-code": {
+    "topic": "Yaskawa GA800 VFD E09 fault code",
+    "score": 6,
+    "reason": "Code existence for GA800 E09 not confirmed by research; draft appropriately hedges but cannot verify this is a real, documented code for this specific drive model.",
+    "date": "2026-06-06"
+  },
+  "yaskawa-ga800-vfd-e11-fault-code": {
+    "topic": "Yaskawa GA800 VFD E11 fault code",
+    "score": 6,
+    "reason": "Code existence confirmed only by forum post, not manufacturer documentation; meaning appears accurate but lacks primary-source verification for this exact drive model",
+    "date": "2026-06-06"
   }
 }

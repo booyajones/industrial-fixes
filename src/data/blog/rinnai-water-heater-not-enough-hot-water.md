@@ -53,3 +53,10 @@ In most cases the unit cannot maintain the required firing rate or water flow th
 ## When to Call a Pro
 
 Call a licensed plumber or gas technician if you are not comfortable working with gas connections, if gas supply pressure needs to be tested under load, or if the unit requires descaling, heat exchanger inspection, or flow sensor replacement. Any work involving gas piping, burner assembly, venting modification, or internal water controls should be handled by a qualified professional to maintain safety and warranty coverage. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rinnai Water Heater No Hot Water - Causes & Fix](/posts/rinnai-water-heater-no-hot-water/)
+- [Rinnai Tankless Water Heater Igniter / Electrode Replacement](/posts/rinnai-water-heater-igniter-ignition-electrode-tankless-replacement/)
+- [Rinnai Water Heater Leaking - Causes & Fix](/posts/rinnai-water-heater-leaking/)
+- [Rinnai Tankless Water Heater Control Board Replacement Guide](/posts/rinnai-water-heater-control-board-pcb-main-board-tankless-replacement/)

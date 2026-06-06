@@ -47,3 +47,10 @@ Mitsubishi uses different code definitions by product family, so P1 does not mea
 ## When to Call a Pro
 
 Call a qualified Mitsubishi installer if you are unsure which sensor configuration your system requires, if you cannot locate the initial settings menu on your controller, or if correcting the sensor source and heating mode does not clear the fault. Professional help is also necessary if your model documentation defines P1 as a voltage abnormality and you need to test incoming power supply, or if wiring inspection reveals damaged cables that require safe replacement and recommissioning of the heat pump.
+
+## See Also
+
+- [Mitsubishi F0001 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-f0001-error-code/)
+- [Mitsubishi MSZ-FH12NA Problems & Error Codes](/posts/mitsubishi-msz-fh12na-ductless-mini-split-air-conditioner-problems/)
+- [Mitsubishi UP Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-up-error-code/)
+- [Mitsubishi MSZ-FS09NA Problems & Error Codes](/posts/mitsubishi-msz-fs09na-ductless-mini-split-air-conditioner-problems/)

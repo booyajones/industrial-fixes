@@ -47,3 +47,10 @@ The E8 code on a Trane heat pump signals a discharge temperature sensor fault fo
 ## When to Call a Pro
 
 If you are not comfortable working with live electrical circuits, measuring sensor resistance, or interpreting wiring diagrams, call a licensed HVAC technician. Misdiagnosing sensor faults can lead to unnecessary part replacement or damage to the control board. A professional has the correct resistance and voltage specifications for your exact Trane model, as well as the tools to verify board inputs and rule out refrigerant-side issues that may cause abnormal discharge temperatures.
+
+## See Also
+
+- [Trane E13 Error Code - Causes & Fix](/posts/trane-heat-pump-e13-error-code/)
+- [Trane XR80 Blinking Yellow Light Codes: Full Flash-Code Fix Guide](/posts/trane-xr80-error-codes/)
+- [Trane Chiller Fault Codes — Complete Troubleshooting Guide](/posts/trane-chiller-fault-codes/)
+- [Trane XR17 Heat Pump Error Codes - Fault Code and Flash Code Guide](/posts/trane-xr17-error-codes/)

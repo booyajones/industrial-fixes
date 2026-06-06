@@ -47,3 +47,10 @@ E19 is a communication fault between the indoor and outdoor units of your Carrie
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with low-voltage control wiring or printed circuit boards. Diagnosing communication faults requires a multimeter and familiarity with your unit's service manual and wiring diagram. Misdiagnosis or incorrect board replacement can be expensive. A qualified tech can isolate the fault to wiring or a specific board, perform safe voltage checks, and verify repair through a full heat and cool cycle.
+
+## See Also
+
+- [Carrier 23 Error Code — Draft Safeguard Switch Fault](/posts/carrier-23-error-code/)
+- [Carrier 11 Error Code — Causes & Fix](/posts/carrier-11-error-code/)
+- [Carrier Error Code 24 — Secondary Voltage Fuse Open](/posts/carrier-24-soft-lockout/)
+- [Carrier Error Code 58 — Causes & Fix](/posts/carrier-58-error-code/)

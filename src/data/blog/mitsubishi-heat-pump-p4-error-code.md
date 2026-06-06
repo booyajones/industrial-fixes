@@ -49,3 +49,10 @@ The system shuts down to protect your home from water damage. Until the drain pa
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you are uncomfortable working with electrical components, cannot locate the float switch or pump inside your indoor unit, or if the P4 code returns after you have cleared the drain line and tested the pump. A technician has the service manual, the correct test jumpers, and the diagnostic tools to measure board outputs and verify the float-switch circuit. If the control board or pump wiring harness is damaged, or if your unit is still under warranty, professional repair protects your coverage and ensures safe, compliant work.
+
+## See Also
+
+- [Mitsubishi AL-29 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-al-29-error-code/)
+- [Mitsubishi Mini Split E1 Error Code — Indoor Thermistor Fault Fix](/posts/mitsubishi-mini-split-e1-error/)
+- [Mitsubishi MSZ-FS12NA Problems & Error Codes](/posts/mitsubishi-msz-fs12na-ductless-mini-split-air-conditioner-problems/)
+- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)

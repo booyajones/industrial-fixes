@@ -50,3 +50,10 @@ The control system expects to see flame confirmation during each ignition attemp
 ## When to Call a Pro
 
 Call a licensed plumber or gas technician if you are not comfortable working with gas connections, if you cannot safely access the burner chamber, or if the heater continues to lock out on A01 after you have confirmed gas supply and cleaned the flame sensor. A technician has combustion analyzers and multimeters to measure flame-rod microamp current, gas pressure, and control-board outputs. Also call a pro if you smell gas at any point, if the vent system needs modification or repair, or if your local code requires permitted work for any gas-appliance service.
+
+## See Also
+
+- [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)
+- [Rheem Furnace Igniter Not Working - Causes & Fix](/posts/rheem-furnace-igniter-not-working/)
+- [Rheem Heat Pump A001 Error Code - Causes & Fix](/posts/rheem-heat-pump-a001-error-code/)
+- [Rheem Furnace 8 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-8-flashes/)

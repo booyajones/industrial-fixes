@@ -48,3 +48,10 @@ On Goodman and Amana furnace controls, E2 indicates a low-stage pressure switch 
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with gas appliances, electrical components, or venting systems. A professional should handle any repair that involves combustion safety, pressure measurement with a manometer, inducer motor replacement, or control board diagnosis. If you clear tubing and verify the inducer runs but the code persists, a technician can perform detailed draft and electrical tests to pinpoint whether the pressure switch, wiring, or control board is at fault. Always call a pro if you smell gas, see rust or corrosion in the vent system, or if the unit has tripped multiple safety codes.
+
+## See Also
+
+- [Goodman Furnace 4 Flashes — Open High Limit Switch Fix](/posts/goodman-furnace-4-flashes/)
+- [Goodman 9 Flash Error Code — Causes & Fix](/posts/goodman-9-flash-error-code/)
+- [Goodman E9 Error Code - Causes & Fix](/posts/goodman-heat-pump-e9-error-code/)
+- [Goodman E4 Error Code - Causes & Fix](/posts/goodman-heat-pump-e4-error-code/)

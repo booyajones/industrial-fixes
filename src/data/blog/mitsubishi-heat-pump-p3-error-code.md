@@ -46,3 +46,10 @@ The P3 error on Mitsubishi Electric heat pumps indicates an outdoor unit pipe te
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are uncomfortable working with line voltage, if you do not have a multimeter and the manufacturer's resistance specifications for your specific model, or if the fault persists after you have verified the sensor and wiring. Outdoor control board diagnosis and refrigerant-circuit work require EPA certification and specialized gauges. If your system is under warranty, contact a Mitsubishi-authorized service provider to avoid voiding coverage.
+
+## See Also
+
+- [Mitsubishi CNC Alarm 500 — Causes & Fix](/posts/mitsubishi-cnc-alarm-500/)
+- [Mitsubishi U6 Error Code — Causes & Fix](/posts/mitsubishi-u6-error-code/)
+- [Mitsubishi F0010 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-f0010-error-code/)
+- [Mitsubishi E5 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-e5-error-code/)
