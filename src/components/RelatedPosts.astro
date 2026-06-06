@@ -15,17 +15,30 @@ const { currentSlug, tags, posts } = Astro.props;
 
 const allPosts = posts ?? (await getCollection("blog"));
 
+// Tags shared by nearly every page carry no topical signal, so they must not
+// drive relatedness. Matching on "appliance" alone is why a dryer page used to
+// surface random microwaves. Score by MEANINGFUL shared tags only (brand +
+// appliance type), require a real overlap, and drop drafts (they 404).
+const UBIQUITOUS = new Set(["appliance", "model", "gas", "diy", "error-code"]);
+const meaningful = (t: string[]) =>
+  t.map(x => x.toLowerCase()).filter(x => !UBIQUITOUS.has(x));
+const myTags = new Set(meaningful(tags));
+
 const related = allPosts
-  .filter(post => {
-    if (post.id === currentSlug) return false;
-    return post.data.tags.some(tag => tags.includes(tag));
+  .filter(post => post.id !== currentSlug && !post.data.draft)
+  .map(post => {
+    const overlap = meaningful(post.data.tags).filter(t => myTags.has(t)).length;
+    return { post, overlap };
   })
+  .filter(r => r.overlap > 0)
   .sort(
     (a, b) =>
-      new Date(b.data.pubDatetime).getTime() -
-      new Date(a.data.pubDatetime).getTime()
+      b.overlap - a.overlap ||
+      new Date(b.post.data.pubDatetime).getTime() -
+        new Date(a.post.data.pubDatetime).getTime()
   )
-  .slice(0, 4);
+  .slice(0, 4)
+  .map(r => r.post);
 ---
 
 {related.length > 0 && (

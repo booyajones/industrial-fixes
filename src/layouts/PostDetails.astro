@@ -52,6 +52,21 @@ const authorData = authors[author];
 // Only the brands that actually have a hub page qualify; derive from the
 // FIRST tag that matches one of those hubs, case-insensitively.
 const BRAND_HUBS: Record<string, string> = {
+  // Consumer appliance brands. Each has a /brands/<slug>/ hub built by
+  // src/pages/brands/[brand].astro. These are the money pages, so the brand-hub
+  // link is what drives topical authority + sessions per visit on consumer traffic.
+  "samsung": "Samsung",
+  "lg": "LG",
+  "whirlpool": "Whirlpool",
+  "ge": "GE",
+  "frigidaire": "Frigidaire",
+  "maytag": "Maytag",
+  "bosch": "Bosch",
+  "kitchenaid": "KitchenAid",
+  "kenmore": "Kenmore",
+  "electrolux": "Electrolux",
+  "amana": "Amana",
+  // HVAC / legacy brands (hubs also exist):
   "carrier": "Carrier",
   "goodman": "Goodman",
   "lennox": "Lennox",
@@ -124,7 +139,7 @@ else reviewedLabel = `${Math.floor(daysAgo / 365)} years ago`;
 
 const layoutProps = {
   title: `${title} | errorcodefixes.com`,
-  author,
+  author: authorData?.name ?? "Error Code Fixes Editorial Team",
   description,
   pubDatetime,
   modDatetime,
@@ -172,17 +187,16 @@ const nextPost =
        Drives People Also Ask placements. Five questions a tech actually asks. -->
   {(() => {
     const cleanTitle = title.replace(/—.*$/, '').trim();
-    const brand = tags && tags.length > 0 ? tags[0] : 'equipment';
-    const brandLabel = brand.charAt(0).toUpperCase() + brand.slice(1).replace(/-/g, ' ');
+    const brandName = brandHub?.name; // real brand (e.g. "Samsung"), or undefined for generic/HVAC
     // Extract the error code token if title looks like "Brand 12 — ..." or "Brand Error Code 12"
     const codeMatch = cleanTitle.match(/\b([A-Z]{1,3}\s?\d{1,4}|\d{1,4}|E\d+|F\d+|P\d+|H\d+|L\d+)\b/);
     const code = codeMatch?.[1];
     const faqs = [
       { q: `What does ${cleanTitle} mean?`, a: description },
-      { q: `How do I fix ${cleanTitle}?`, a: `Follow the step-by-step diagnosis below. The most likely fix is identified by checking power, sensor resistance, and control-board signals in order — using a multimeter and the part numbers documented in the parts reference table.` },
-      { q: `Can I keep running the equipment with ${code ?? 'this fault'} active?`, a: `Generally no. Faults on ${brandLabel} units are emitted when a sensor, safety, or control circuit is outside its operating envelope. Running through an active fault risks compressor, heater, or control-board damage. Diagnose and clear the fault first.` },
-      { q: `What part is most commonly replaced for ${cleanTitle}?`, a: `The most frequently replaced parts for ${cleanTitle} are listed in the Parts Reference section of this guide with OEM part numbers and typical price ranges. Check the table for direct replacements.` },
-      { q: `Is ${cleanTitle} a DIY repair or do I need a technician?`, a: `Sensor swaps, fan motor replacements, and condenser cleaning are typical DIY-level repairs. Anything involving refrigerant, gas, or high-voltage (>240V) work requires a licensed technician for both safety and code-compliance reasons.` }
+      { q: `How do I fix ${cleanTitle}?`, a: `Work through the step-by-step fix below. Start with the quick reset and the most common cause, then check the specific part this guide points to. Most fixes need only basic hand tools and the right replacement part.` },
+      { q: `Can I keep using my ${brandName ? brandName + ' ' : ''}appliance with ${code ?? 'this error'} showing?`, a: `Usually not. ${brandName ? brandName + ' appliances' : 'These appliances'} show this error when a part or safety circuit is out of range, so running it can stop the cycle or make the problem worse. Diagnose and clear the error before normal use.` },
+      { q: `What part is most commonly replaced for ${cleanTitle}?`, a: `The parts that most often fix ${cleanTitle} are listed in the parts section of this guide. Match the part to your exact model and serial number before you buy.` },
+      { q: `Is ${cleanTitle} a DIY repair or do I need a technician?`, a: `Many fixes are DIY-friendly with basic tools, such as door switches, drain pumps, water inlet valves, thermostats, heating elements, and filters. Sealed-system, refrigerant, gas, or high-voltage work should go to a licensed technician for safety.` }
     ];
     return (
       <script type="application/ld+json" is:inline set:html={JSON.stringify({
@@ -206,11 +220,11 @@ const nextPost =
       >
         {title}
       </h1>
-      <button class="copy-code-btn" data-title={title} aria-label="Copy error code name">
+      <button class="copy-code-btn" data-pagefind-ignore data-title={title} aria-label="Copy error code name">
         Copy
       </button>
     </div>
-    <div class="article-meta">
+    <div class="article-meta" data-pagefind-ignore>
       <span class="article-author">
         <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
           <path d="M12 12c2.7 0 4.8-2.1 4.8-4.8S14.7 2.4 12 2.4 7.2 4.5 7.2 7.2 9.3 12 12 12zm0 2.4c-3.2 0-9.6 1.6-9.6 4.8v2.4h19.2v-2.4c0-3.2-6.4-4.8-9.6-4.8z"/>
@@ -224,7 +238,7 @@ const nextPost =
           ) : authorData ? (
             <span>{authorData.name}{authorData.credentials ? `, ${authorData.credentials}` : ''}</span>
           ) : (
-            <span>Verified by Certified Technicians</span>
+            <span>Error Code Fixes Editorial Team</span>
           )
         }
       </span>

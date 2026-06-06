@@ -33,10 +33,10 @@ if (known?.asin) {
   href = `https://www.amazon.com/dp/${known.asin}/?tag=${TAG}`;
   kind = "asin";
 } else {
-  // Quoted exact-match part number + brand, restricted to industrial category.
-  // s?k="PARTNUM"+BRAND&i=industrial&tag=…
+  // Quoted exact-match part number + brand, no category scope so consumer
+  // appliance parts resolve correctly. s?k="PARTNUM"+BRAND&tag=…
   const q = brand ? `"${part}" ${brand}` : `"${part}"`;
-  href = `https://www.amazon.com/s?k=${encodeURIComponent(q)}&i=industrial&tag=${TAG}`;
+  href = `https://www.amazon.com/s?k=${encodeURIComponent(q)}&tag=${TAG}`;
   kind = "search";
 }
 ---

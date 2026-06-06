@@ -54,9 +54,9 @@ const structuredData = pubDatetime
       ...(modDatetime && { dateModified: modDatetime.toISOString() }),
       author: [
         {
-          "@type": "Person",
-          name: `${author}`,
-          ...(profile && { url: profile }),
+          "@type": "Organization",
+          name: "Error Code Fixes Editorial Team",
+          url: SITE.website,
         },
       ],
     }
@@ -222,6 +222,12 @@ const structuredData = pubDatetime
         }
       })();
     </script>
+
+    <style is:global>
+      /* Collapse unfilled / placeholder AdSense slots so an empty auto-ad never
+         leaves a blank void mid-article before ads are approved and filling. */
+      ins.adsbygoogle[data-ad-status="unfilled"] { display: none !important; }
+    </style>
 
     <!-- Google Analytics 4 — lazy-loaded after first idle so it doesn't
          block LCP. Activate by setting PUBLIC_GA4_MEASUREMENT_ID env var. -->

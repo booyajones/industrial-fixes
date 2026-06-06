@@ -1,101 +1,94 @@
-# Roadmap — Error Code Fixes Consumer Orientation v1
-
-**7 phases** | **27 requirements mapped** | All v1 requirements covered ✓
+# Roadmap — Error Code Fixes Consumer Orientation v1 (council-revised 2026-06-06)
 
 North Star: **mC/1000** (monetized affiliate clicks per 1,000 engaged sessions).
-Dependency logic: fix the surfaces that make content compound (links, search) and
-stop the industrial leak BEFORE scaling content, then scale, then optimize conversion,
-then measure.
 
-| # | Phase | Goal | Requirements | Success Criteria |
-|---|-------|------|--------------|------------------|
-| 1 | Consumer Coherence & Internal-Link Foundation | Every consumer page links right and carries zero pivot leaks | UX-01..UX-09 | 5 |
-| 2 | Re-anchor the Autonomous Engine | The daily engine makes consumer-only content; drift can't recur | ENG-01, ENG-02 | 3 |
-| 3 | Code-Search Precision | A bare code finds the right brand+appliance page fast | ENG-03, ENG-04 | 3 |
-| 4 | DIY Part-Replacement Engine (the money type) | Big, paced, grounded build-out of the highest-conversion pages | CON-01, CON-07, CON-08 | 4 |
-| 5 | Symptom + Model + DIY-Code Breadth | Cover the full consumer matrix incl. missing brands/appliances | CON-02, CON-03, CON-04, CON-06 | 4 |
-| 6 | Conversion + Maintenance + Build Perf | One clear part CTA, funnel how-tos, fast ships | CONV-01, CONV-02, CON-05, ENG-05 | 4 |
-| 7 | Measurement, Guardrails & Iteration | Measure indexing + mC/1000, stay HCU-safe | MEAS-01..MEAS-04 | 4 |
+Revised after a heavy multi-LLM council (Claude + GPT + DeepSeek + Gemini chairman).
+Unanimous direction: "amazing" = a technician's confidence for a panicked person on a
+phone. Win on **diagnostic precision, honesty, a distinctive service-manual design, and
+a linkable tool**, NOT on scaling thin templated pages (the #1 Helpful-Content risk).
+Strategy = raise the template floor for every page, go DEEP on the top commercial-intent
+pages, quality-gate the thin majority, and build linkable assets to pull traffic.
+
+| # | Phase | Goal | Status |
+|---|-------|------|--------|
+| 1 | Consumer Coherence & Internal Links | Pages link right, no pivot/E-E-A-T leaks | SHIPPING |
+| 2 | Diagnosis Command Center redesign | Amazing service-manual template + identity that lifts every page | NEXT |
+| 3 | Re-anchor the autonomous engine | Consumer-only generation, tuned to the new deep bar | pending |
+| 4 | Deep money pages (top ~150-200) | Make the highest-intent guides the best on the internet | pending |
+| 5 | Quality-gate + code-search precision | Hide/upgrade thin pages; fix code search | pending |
+| 6 | Link & traffic engine | /diagnose tool + link magnets to pull links/traffic at ~0 traffic | pending |
+| 7 | Measurement, guardrails & iteration | Measure mC/1000 + indexing; stay HCU-safe | pending |
 
 ---
 
 ## Phase Details
 
-### Phase 1: Consumer Coherence & Internal-Link Foundation
-**Goal:** Every consumer page links to its brand hub and topically-relevant guides, and
-the site carries no industrial or dishonest-attribution leaks. Do this FIRST so all
-subsequent content compounds through internal links instead of piling up.
-**Requirements:** UX-01, UX-02, UX-03, UX-04, UX-05, UX-06, UX-07, UX-08, UX-09
-**UI hint:** yes
-**Success criteria:**
-1. On a sample of consumer-brand pages, the brand-hub link renders and resolves 200.
-2. Related Fix Guides on a dryer page are dryer/brand-relevant, never random microwaves.
-3. View-source on any page shows consumer logo alt/aria, brand+appliance-aware FAQ schema,
-   and honest reviewer attribution.
-4. No empty ad void renders mid-article; Pagefind snippets contain no "Copy"/byline noise.
-5. `npm run build` passes (mojibake + astro check) and the changes deploy green.
+### Phase 1: Consumer Coherence & Internal Links — SHIPPING
+Done: consumer brand-hub links (UX-01), related-posts relevance + draft exclusion (UX-02),
+de-industrialized logo/chat/FAQ schema (UX-03/04), honest editorial attribution (UX-05),
+ad-void collapse (UX-06), search-index noise removed (UX-07), FAQ brand-bug fix, meta-author
+honesty, AmazonPartLink category fix. UX-08 (DIY-vs-pro label) deferred into generators.
 
-### Phase 2: Re-anchor the Autonomous Engine
-**Goal:** The daily pipeline generates consumer-only topics; industrial drift cannot recur.
-**Requirements:** ENG-01, ENG-02
-**UI hint:** no
+### Phase 2: Diagnosis Command Center redesign (the "amazing")
+**Goal:** A distinctive, trustworthy, mobile-first service-manual design and a rebuilt
+article template that raises the quality floor of every page automatically.
 **Success criteria:**
-1. Topic selection (gsc_demand / reddit / code_pool / miner) excludes industrial brands
-   and appliances; a dry-run of the daily generator yields only consumer topics.
-2. `.code-pool.json` and mine-code-lists seeds contain no VFD/PLC/servo/industrial entries.
-3. One full daily-pipeline cycle (or simulation) publishes zero industrial pages.
+1. Visual identity shipped: service blue (#1B2A4A) + safety amber accent (action/warning only)
+   + paper off-white; monospace for error codes and part numbers; original art, no stock.
+2. Article template rebuilt: code-as-hero (mono), most-likely-cause verdict + confidence,
+   Safe-to-run badge, native `<details>` decision tree, honest "when to call a pro" with
+   cost math, exact-part box, sticky mobile "get the part" bar that appears post-diagnostic.
+3. Homepage moves toward a triage funnel ("What's broken?" → "What's it doing?") while
+   keeping code search; honest "independent, not a parts store" trust line.
+4. Verified in-browser (desktop + mobile), council/codex-reviewed, gauntlet-scored before ship.
+5. Build passes; deploys green; Core Web Vitals not regressed (LCP < 2.5s mobile target).
 
-### Phase 3: Code-Search Precision
-**Goal:** A bare code search returns the correct brand+appliance guide near the top.
-**Requirements:** ENG-03, ENG-04
-**UI hint:** yes
+### Phase 3: Re-anchor the autonomous engine
+**Goal:** Daily pipeline makes consumer-only content, tuned to the new deep template bar.
 **Success criteria:**
-1. Searching "LE", "OE", "5E", "F21" surfaces the canonical brand+appliance guide in the
-   top results (not an off-appliance page), with materially less noise than the 708-for-LE baseline.
-2. An ambiguous bare code presents a brand/appliance disambiguation affordance.
-3. Change is verified in-browser on the live (or preview) site.
+1. Topic selection excludes industrial brands/appliances; dry-run yields only consumer topics.
+2. Generators emit the new deep structure (verdict, decision-tree branches, verified part,
+   cost math, pro/DIY signal for the AtAGlance label) — not the old thin 4-causes/6-steps.
+3. One cycle publishes zero industrial pages and zero pages below the new quality bar.
 
-### Phase 4: DIY Part-Replacement Engine (the money type)
-**Goal:** A large, paced, grounded build-out of DIY part-replacement pages across the
-consumer appliance × brand matrix — the highest-conversion content.
-**Requirements:** CON-01, CON-07, CON-08
-**UI hint:** no
+### Phase 4: Deep money pages (top ~150-200 commercial-intent)
+**Goal:** Make the highest-intent error-code + part pages the best resources on the internet.
 **Success criteria:**
-1. A demand pass expands the parts universe (appliance × common failure parts × top brands).
-2. Paced waves publish grounded, gated part-replacement pages (draft on gate-fail).
-3. Each published page cross-links to related codes/symptoms and its brand hub.
-4. A fresh adversarial QA sample of the new parts pages is ≥ 90% clean before scaling further.
+1. Top ~150-200 codes/parts selected by commercial intent (clear $30-150 DIY part) and demand.
+2. Each upgraded to depth: confident verdict, verified OEM part number, model-variant notes,
+   misdiagnosis warning, decision tree, honest cost math, original diagram/photo where feasible.
+3. Each cross-links related codes/symptoms/parts + brand hub; agent storms do DEPTH not breadth.
+4. Fresh adversarial QA sample ≥ 90% clean; no cross-brand contamination; honest claims only.
 
-### Phase 5: Symptom + Model + DIY-Code Breadth
-**Goal:** Cover the full consumer demand spectrum — branded + generic symptoms, model
-long-tail, DIY-fixable codes — and add the missing brands and appliances.
-**Requirements:** CON-02, CON-03, CON-04, CON-06
-**UI hint:** no
+### Phase 5: Quality-gate + code-search precision
+**Goal:** Stop the thin majority dragging the domain; make code search return the right page.
 **Success criteria:**
-1. Symptom pages exist for branded and generic high-volume queries per appliance.
-2. Model long-tail and DIY-fixable-code waves ship, grounded + gated, weighted away from pro-only.
-3. New brands (Miele, Speed Queen, Café, Haier, Fisher & Paykel, Asko, Thermador) and
-   appliances (freezers, disposals, ice makers, cooktops, range hoods, central AC, thermostats)
-   have at least starter coverage.
-4. Fresh QA sample across the new types is ≥ 90% clean; no cross-brand contamination.
+1. Analysis pass classifies every page (deep / salvageable / thin-duplicate) with a report.
+2. Thin/duplicate pages that cannot be upgraded are noindexed or consolidated (reversible,
+   reviewed) so the domain is judged on its strong average.
+3. Bare-code search ("LE","OE","5E","F21") returns the canonical brand+appliance guide near
+   the top with low noise; an ambiguous code gets a disambiguation affordance.
 
-### Phase 6: Conversion + Maintenance + Build Perf
-**Goal:** Turn the landing traffic into affiliate clicks, fill the funnel with how-tos,
-and make builds fast enough to ship daily.
-**Requirements:** CONV-01, CONV-02, CON-05, ENG-05
-**UI hint:** yes
+### Phase 6: Link & traffic engine
+**Goal:** Pull links and traffic at ~0 organic traffic; create destination assets.
 **Success criteria:**
-1. Each page shows one clear primary "Get the exact part" CTA; competing CTAs de-emphasized.
-2. Pro-only pages offer a relevant non-dead-end action instead of an empty buy prompt.
-3. Reset/maintenance how-to guides are published for common intents.
-4. Full build+deploy time is materially reduced from the ~20-min baseline.
+1. `/diagnose` interactive symptom checker (client-side, static result routes) shipped and shareable.
+2. Link magnets shipped: brand service-mode cheat sheets, model-number-location gallery,
+   error-code master reference (downloadable). Seeded honestly on relevant forums/communities.
+3. Client-side brand+code search and model finder in the header.
 
-### Phase 7: Measurement, Guardrails & Iteration
-**Goal:** Measure what matters and stay clear of a Helpful-Content penalty.
-**Requirements:** MEAS-01, MEAS-02, MEAS-03, MEAS-04
-**UI hint:** no
+### Phase 7: Measurement, guardrails & iteration
+**Goal:** Measure what matters; stay clear of a Helpful-Content penalty.
 **Success criteria:**
-1. Local GSC visibility restored: indexed count + impressions/clicks per page readable on demand.
-2. mC/1000 computed from analytics + affiliate click events and trending over time.
-3. A quality watch flags thin/duplicative/low-CTR pages for prune-or-improve.
-4. A pre-scale adversarial QA gate runs on a fresh sample before each new content scale-up.
+1. Local GSC visibility restored (indexed count + impressions/clicks per page).
+2. mC/1000 computed from analytics + affiliate click events and trending.
+3. Quality watch flags thin/low-CTR pages; pre-scale adversarial QA gate before any scale-up.
+
+---
+
+## Key strategic decision (council-driven, 2026-06-06)
+Depth + distinctive design + linkable tool > scaling thin templated pages. The ~3,500-page
+templated corpus is the top HCU risk per all four advisors. We raise the floor (template),
+concentrate firepower (top ~150-200), and quality-gate the rest — deliberately, after analysis,
+not rashly. Legacy industrial pages stay live for now (prior decision) but are candidates for
+the Phase 5 quality-gate. Affiliate routing favors OEM/verified sellers; trust > a single click.
