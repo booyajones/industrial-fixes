@@ -45,3 +45,10 @@ P7 on Mitsubishi Electric heat pumps indicates a system address-setting fault. T
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not familiar with reading DIP switch tables or working inside control panels with live low-voltage connections. Address-setting faults require cross-referencing model-specific installation documentation, and incorrect switch settings can prevent the system from running or cause compressor and fan control errors. If you have corrected all switch positions and reseated CN40 but the P7 code returns, board-level diagnosis and replacement require proper ESD handling and firmware considerations that are best left to a factory-trained Mitsubishi technician.
+
+## See Also
+
+- [Mitsubishi U4 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-u4-error-code/)
+- [Mitsubishi Mini Split E3 Error - Causes & Fix](/posts/mitsubishi-mini-split-e3-error-code/)
+- [Mitsubishi F0005 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-f0005-error-code/)
+- [Mitsubishi UF Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-uf-error-code/)

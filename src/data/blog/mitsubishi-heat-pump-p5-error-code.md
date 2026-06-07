@@ -50,3 +50,10 @@ The P5 error code on Mitsubishi Electric ductless indoor units signals a condens
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you are not comfortable working inside the indoor unit or if the pump runs but the P5 code persists. A professional can test control-board outputs, verify float-switch logic, and diagnose installation issues such as air traps or improper drain pitch that are not obvious from a visual inspection. If the indoor PCB requires replacement or refrigerant-side airflow restrictions are causing excessive condensate, a licensed contractor has the tools and training to repair the system safely and restore normal operation.
+
+## See Also
+
+- [Mitsubishi P8 Error Code — Causes & Fix](/posts/mitsubishi-p8-error-code/)
+- [Mitsubishi F0007 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-f0007-error-code/)
+- [Mitsubishi Mini Split E1 Error Code — Indoor Thermistor Fault Fix](/posts/mitsubishi-mini-split-e1-error/)
+- [Mitsubishi Mini Split U4 Error Code — Causes & Fix](/posts/mitsubishi-mini-split-u4-error-code/)

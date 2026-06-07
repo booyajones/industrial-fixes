@@ -48,3 +48,10 @@ Carrier does not publish a universal heat-pump-specific E24 definition across al
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you cannot safely access the control board, if you are uncomfortable working with live electrical circuits even after killing power, or if the fuse keeps blowing after you have inspected all visible wiring and found no obvious shorts. Carrier heat pump fault codes vary by model and control platform, and a dealer technician has access to the exact service manual and fault legend for your unit. If your system uses a communicating or inverter control board rather than a traditional furnace-style platform, professional diagnosis is required because the E24 code may reference a different fault family not covered by the secondary-fuse definition.
+
+## See Also
+
+- [Carrier Error Code 29 - Causes & Fix](/posts/carrier-error-code-29/)
+- [Carrier E19 Error Code - Causes & Fix](/posts/carrier-heat-pump-e19-error-code/)
+- [Carrier Rooftop Unit Error Codes: Common Faults Guide](/posts/carrier-rooftop-unit-error-codes/)
+- [Carrier 45 Error Code — Causes & Fix](/posts/carrier-45-error-code/)

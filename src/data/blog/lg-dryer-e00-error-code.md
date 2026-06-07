@@ -50,3 +50,10 @@ In technical terms, the error points to an EEPROM operation abnormality or a fir
 ## When to Call a Pro
 
 Call a professional if the power reset does not clear the code or if you are not comfortable working inside the dryer's control cabinet. Board-level diagnosis requires access to live 240 V circuits, and misidentifying the failed board can lead to unnecessary parts cost. A qualified technician can test the communication link between boards, verify connector integrity, and confirm which PCB has failed before ordering parts. If your dryer is still under warranty, contact LG or an authorized service center before attempting any board replacement yourself.
+
+## See Also
+
+- [LG Dryer Takes Too Long to Dry - Causes & Fix](/posts/lg-dryer-takes-too-long-to-dry/)
+- [LG Microwave F13 Error Code - Causes & Fix](/posts/lg-microwave-f13-error-code/)
+- [LG Refrigerator EID Error Code - Causes & Fix](/posts/lg-refrigerator-eid-error-code/)
+- [LG Oven Self-Clean Not Working - Causes & Fix](/posts/lg-oven-self-clean-not-working/)

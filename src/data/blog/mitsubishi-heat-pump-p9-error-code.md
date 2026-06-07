@@ -45,3 +45,10 @@ The P9 error code on a Mitsubishi heat pump or mini-split indicates a pipe tempe
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with live electrical components or if you do not own a multimeter and cannot safely measure thermistor resistance. A pro will have the service manual resistance tables for your exact model, the correct replacement TH5 sensor in stock or on order, and the tools to verify whether the indoor board is at fault. If you replace the sensor yourself and the P9 code returns immediately, the problem is likely the control board or a hidden wiring fault that requires professional diagnosis.
+
+## See Also
+
+- [Mitsubishi Mini Split Won't Turn On - Causes & Fix](/posts/mitsubishi-mini-split-wont-turn-on/)
+- [Mitsubishi Mini Split P2 Error Code — Indoor Pipe Thermistor Fix](/posts/mitsubishi-p2-error-code/)
+- [Mitsubishi E9 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-e9-error-code/)
+- [Mitsubishi U1 Error Code — Causes & Fix](/posts/mitsubishi-u1-error-code/)

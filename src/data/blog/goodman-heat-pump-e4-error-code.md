@@ -51,3 +51,10 @@ Because Goodman uses different control platforms across model families, the exac
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working inside the air handler with power off, if you do not have a service manual with the resistance table for your model, or if the sensor and wiring both test correctly but the code will not clear. Also call a pro if the system is icing heavily or you suspect a refrigerant leak or airflow problem contributing to the fault. A technician has the tools to measure live sensor signals at the board, verify refrigerant charge, and replace the control board safely if needed. If your unit is under warranty, professional diagnosis and repair by an authorized Goodman servicer will protect your coverage.
+
+## See Also
+
+- [Goodman Heat Pump A2 Error Code - Causes & Fix](/posts/goodman-heat-pump-a2-error-code/)
+- [Goodman Furnace 3 Flashes — Pressure Switch Open Fix](/posts/goodman-furnace-3-flashes/)
+- [Goodman Furnace Igniter Not Working - Causes & Fix](/posts/goodman-furnace-igniter-not-working/)
+- [Goodman Furnace Error Codes — All Flash Codes Explained](/posts/goodman-furnace-error-codes/)

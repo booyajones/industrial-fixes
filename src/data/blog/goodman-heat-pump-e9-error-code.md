@@ -48,3 +48,10 @@ On most Goodman packaged and window-style heat pump models, the E9 code indicate
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you have cleared all visible obstructions and sealed the sleeve but the E9 code returns immediately on startup, if you are not comfortable working with live voltage and refrigeration components, or if the unit shows frost on the suction line or other signs of refrigerant imbalance. Professional gauges and recovery equipment are required to diagnose refrigerant-side high-pressure faults safely. Also call for help if your model uses a different control platform and the E9 definition does not match condenser high-pressure protection.
+
+## See Also
+
+- [Amana / Goodman Furnace 3 Flash Error Code — Causes & Fix](/posts/goodman-amana-furnace-3-flash/)
+- [Goodman GMS80 Furnace Error Codes — Fault Code Diagnostic Guide](/posts/goodman-gms80-error-codes/)
+- [Goodman 9 Flash Error Code — Causes & Fix](/posts/goodman-9-flash-error-code/)
+- [Goodman Heat Pump A2 Error Code - Causes & Fix](/posts/goodman-heat-pump-a2-error-code/)

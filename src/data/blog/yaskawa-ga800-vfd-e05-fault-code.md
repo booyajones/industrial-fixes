@@ -49,3 +49,10 @@ Unlike basic I/O or hardwired control faults, E05 means the drive and PLC or mas
 ## When to Call a Pro
 
 Call a controls technician or system integrator if you are not familiar with industrial network protocols, PLC programming, or drive parameter configuration. Communication faults require coordinated troubleshooting of both the drive and the upstream controller. A professional can use network diagnostic tools to capture traffic, verify cyclic data integrity, and update PLC logic or drive firmware if needed. Also call for help if swapping cables and reseating the card do not clear the fault, since the issue may lie in the PLC program, network topology, or a deeper drive electronics fault that requires factory support.
+
+## See Also
+
+- [Yaskawa GA800 E16 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e16-fault-code/)
+- [Yaskawa GA800 E30 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e30-fault-code/)
+- [Yaskawa GA800 E38 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e38-fault-code/)
+- [Yaskawa GA800 E24 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e24-fault-code/)

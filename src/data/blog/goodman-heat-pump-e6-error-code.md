@@ -51,3 +51,10 @@ Because Goodman does not publish a universal E6 definition across all heat pump 
 ## When to Call a Pro
 
 Call a professional if the E6 fault returns after you have cleaned the coil and verified fan and electrical connections, or if you are not comfortable working with live 240-volt circuits. Compressor overload diagnosis requires refrigerant pressure and temperature measurements, electrical load testing, and sometimes compressor terminal resistance checks that need specialized tools and EPA certification for refrigerant work. A technician will also cross-reference your exact Goodman model's fault code chart to confirm whether E6 has any board-specific or sensor-related meaning on your platform, and can safely recover refrigerant before replacing a compressor or other sealed-system component.
+
+## See Also
+
+- [Goodman D3 Error Code - Causes & Fix](/posts/goodman-heat-pump-d3-error-code/)
+- [Goodman Furnace Short Cycling - Causes & Fix](/posts/goodman-furnace-short-cycling/)
+- [Goodman GSZC18 Heat Pump Error Codes — Fault Code Diagnostic Guide](/posts/goodman-gszc18-error-codes/)
+- [Goodman GVZC18 Heat Pump Error Codes: iQ Drive Fault Diagnostics](/posts/goodman-gvzc18-heat-pump-error-codes/)

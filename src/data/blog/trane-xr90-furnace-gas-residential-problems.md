@@ -42,3 +42,10 @@ The Trane XR90 is a residential condensing gas furnace that uses LED flash codes
 ## When to Call a Pro
 
 Call a licensed HVAC technician for all gas valve, ignition, and combustion work, and anytime you see rust, corrosion, or signs of abnormal combustion in the burner chamber. If you've cleared venting and replaced the filter but the furnace still flashes the same code, the pressure switch, limit switch, or inducer motor likely needs testing and replacement. A tech will use a multimeter to check switch continuity, verify draft pressure with a manometer, and inspect the heat exchanger if high-limit trips are recurring. Any fault that returns after a component swap or shows evidence of heat exchanger damage is a safety issue and requires professional diagnosis before you operate the furnace again.
+
+## See Also
+
+- [Trane ComfortLink II Communicating Thermostat Fault Codes - What They Mean and How to Fix Them](/posts/trane-communicating-thermostat-fault-codes/)
+- [Trane XR80 Furnace Problems & Error Codes](/posts/trane-xr80-furnace-gas-residential-problems/)
+- [Trane XL16i Error Codes — Heat Pump Fault Code Diagnostic Guide](/posts/trane-xl16i-error-codes/)
+- [Trane E18 Error Code - Causes & Fix](/posts/trane-heat-pump-e18-error-code/)

@@ -47,3 +47,10 @@ This alarm is directly tied to parameter 2-15 (Brake Check) and the physical bra
 ## When to Call a Pro
 
 Call a qualified VFD technician or Danfoss service if you have verified the brake resistor is connected, measures the correct resistance, all wiring is intact, and parameter 2-15 is set correctly but Alarm 28 still appears. At that point the fault is likely inside the drive's brake-chopper or monitoring circuit, which requires specialized test equipment and knowledge of high-voltage DC circuits. Also call a pro if you are unfamiliar with VFD safety procedures, working around high DC bus voltages, or configuring brake parameters for regenerative applications.
+
+## See Also
+
+- [Danfoss FC302 Alarm 47 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-47-fault-code/)
+- [Danfoss VFD Fault OCL — Causes & Fix](/posts/danfoss-vfd-fault-ocl/)
+- [Danfoss FC302 Alarm 14 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-14-fault-code/)
+- [Danfoss VFD Fault UL — Causes & Fix](/posts/danfoss-vfd-fault-ul/)

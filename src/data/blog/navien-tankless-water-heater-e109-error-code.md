@@ -45,3 +45,10 @@ The E109 code indicates a motor fan problem or combustion air system fault. Your
 ## When to Call a Pro
 
 If you are not comfortable working around gas appliances, call a licensed plumber or HVAC technician. Water intrusion cases often require investigation of the venting system, condensate trap, or building envelope, which may need professional assessment. If you have replaced the fan and harness and the E109 persists, the control board may need diagnosis with manufacturer-specific tools and firmware.
+
+## See Also
+
+- [Navien E002 Error Code - Causes & Fix](/posts/navien-tankless-e002-error-code/)
+- [Navien E615 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e615-error-code/)
+- [Navien Tankless Igniter/Flame Rod Replacement - Signs & How-To](/posts/navien-water-heater-igniter-ignition-electrode-tankless-replacement/)
+- [Navien NCB Combi Boiler Error Codes — Complete Fault Guide](/posts/navien-ncb-error-codes/)

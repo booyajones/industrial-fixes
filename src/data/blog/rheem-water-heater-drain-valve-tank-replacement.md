@@ -59,3 +59,10 @@ If this part is failing you may also see one of these codes:
 ## When to Call a Pro
 
 If you cannot shut off the cold-water supply or the upstream shutoff valve leaks, call a plumber to replace that valve before you touch the drain valve. If the tank itself is leaking from the bottom seam or you see rust and corrosion around the drain opening in the steel, the tank is failing and a pro should evaluate whether replacement makes more sense than a valve swap. For gas heaters, if you are not comfortable relighting the pilot or checking for gas leaks after the repair, have a licensed tech complete the startup and safety checks. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rheem RPH Series Packaged Unit Error Codes: Complete Guide](/posts/rheem-rph-error-codes/)
+- [Rheem XE40T06ST45U1 Water Heater Problems & Error Codes](/posts/rheem-xe40t06st45u1-water-heater-problems/)
+- [Rheem Tankless Water Heater Control Board Replacement Guide](/posts/rheem-water-heater-control-board-pcb-main-board-tankless-replacement/)
+- [Rheem Water Heater Not Enough Hot Water - Causes & Fix](/posts/rheem-water-heater-not-enough-hot-water/)

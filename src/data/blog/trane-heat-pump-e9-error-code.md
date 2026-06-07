@@ -47,3 +47,10 @@ Trane's diagnostic flow for E9 points to three root causes: the sensor itself is
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working inside electrical panels or do not own a multimeter to test sensor resistance. A pro can quickly test the T1 sensor circuit, verify wiring integrity, and determine whether the board needs replacement. If your heat pump is still under warranty, professional diagnosis and installation are usually required to maintain coverage. Technicians also carry model-specific resistance and voltage charts that speed up diagnosis when sensor behavior is ambiguous.
+
+## See Also
+
+- [Trane 9 Flashes Error Code — Causes & Fix](/posts/trane-9-flashes-error-code/)
+- [Trane E19 Error Code - Causes & Fix](/posts/trane-heat-pump-e19-error-code/)
+- [Trane ComfortLink II Communicating Thermostat Fault Codes - What They Mean and How to Fix Them](/posts/trane-communicating-thermostat-fault-codes/)
+- [Trane E13 Error Code - Causes & Fix](/posts/trane-heat-pump-e13-error-code/)

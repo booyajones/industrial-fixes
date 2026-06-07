@@ -48,3 +48,10 @@ On Mitsubishi Electric heat pumps, a P6 error code signals that the system has a
 ## When to Call a Pro
 
 Call a professional if the P6 code returns after cleaning filters and confirming good airflow, or if you see ice on the coil in cooling mode or smell burning in heating mode. Refrigerant work requires EPA certification and specialized gauges. A technician will measure superheat and subcooling, leak-check the system, test the thermistor against factory specs, and inspect control boards with a service tool. Do not repeatedly reset the breaker to clear the code without fixing the root cause, because running with a frozen or overheated coil can damage the compressor.
+
+## See Also
+
+- [Mitsubishi PUY Air Handler Error Codes — Fault Code Diagnostic Guide](/posts/mitsubishi-puy-error-codes/)
+- [Mitsubishi UP Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-up-error-code/)
+- [Mitsubishi P-Series H6 — Outdoor Fan Motor Fix](/posts/mitsubishi-heat-pump-error-code-h6/)
+- [Mitsubishi E7 Error Code - Causes & Fix](/posts/mitsubishi-mini-split-e7-error-code/)

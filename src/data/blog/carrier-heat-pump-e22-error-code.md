@@ -47,3 +47,10 @@ The E22 code on most Carrier heat pump and inverter systems indicates a high/low
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with live electrical circuits, refrigerant systems, or multimeter diagnostics. Pressure sensor replacement and especially refrigerant system work (leak repair, charge adjustment, or compressor replacement) require EPA certification, specialized tools, and recovery equipment. If the fault returns after a power cycle and you do not have your model's service manual with sensor specifications, a professional can confirm the exact E22 definition for your unit, test the sensor circuit safely, and verify whether a refrigerant-side issue is causing the code.
+
+## See Also
+
+- [Carrier Furnace Error Code 31 — Pressure Switch Open Fix](/posts/carrier-error-code-31/)
+- [Carrier 13 Soft Lockout — What's Different from Hard Lockout](/posts/carrier-13-soft-lockout/)
+- [Carrier Error Code 17 - Causes & Fix](/posts/carrier-error-code-17/)
+- [Carrier Furnace Error Code 13 - Causes & Fix](/posts/carrier-furnace-13-error-code/)

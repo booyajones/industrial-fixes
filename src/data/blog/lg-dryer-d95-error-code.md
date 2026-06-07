@@ -47,3 +47,10 @@ The LG D95 error code indicates the dryer has detected a 95% blockage in the exh
 ## When to Call a Pro
 
 Call a professional if the d95 code persists after you have cleaned the entire vent system and verified no obvious blockages remain. Also call a technician if the vent run is longer than you can safely access, includes multiple complex bends, or is routed through walls or ceilings where professional duct-cleaning equipment is required. Do not continue running the dryer with the d95 code active, as LG warns that severely restricted exhaust creates unsafe conditions and may lead to overheating or fire risk.
+
+## See Also
+
+- [LG Oven F12 Error Code - Causes & Fix](/posts/lg-oven-f12-error-code/)
+- [LG Mini Split CH61 Error Code - Causes & Fix](/posts/lg-mini-split-ch61-error-code/)
+- [LG Washer PE Error Code - Causes & Fix](/posts/lg-washer-pe-error-code/)
+- [LG Refrigerator dS Error Code - Causes & Fix](/posts/lg-refrigerator-ds-error-code/)

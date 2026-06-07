@@ -48,3 +48,10 @@ The A5 code is Daikin's freeze-up protector fault for the indoor unit. It means 
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you have cleaned the filters and coil but the A5 code returns, or if you are not trained in refrigerant work. Diagnosing low refrigerant charge, leak repair, thermistor testing, and expansion-device problems requires gauges, recovery equipment, and knowledge of refrigerant circuit behavior. Electrical and control-board diagnostics also require specialized tools and service manuals. A technician can retrieve stored fault codes, measure operating conditions, and isolate the true cause without guessing or causing further damage.
+
+## See Also
+
+- [Daikin J6 Error Code - Causes & Fix](/posts/daikin-heat-pump-j6-error-code/)
+- [Daikin U8 Error Code - Causes & Fix](/posts/daikin-u8-error-code/)
+- [Daikin E4 Error Code - Causes & Fix](/posts/daikin-e4-error-code/)
+- [Daikin U0 Error Code - Causes & Fix](/posts/daikin-heat-pump-u0-error-code/)

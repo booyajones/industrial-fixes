@@ -45,3 +45,10 @@ The E615 code on a Navien tankless water heater indicates an abnormal operation 
 ## When to Call a Pro
 
 Call a licensed technician if the error persists after a power reset or if you are not comfortable working inside the unit's electrical compartment. Replacing the main control board requires familiarity with low-voltage connections, proper grounding, and manufacturer-specific calibration steps that vary by model. A qualified Navien service provider can also run factory diagnostics to confirm the board is the root cause and check for collateral damage to sensors or relays that might have been affected by the same fault.
+
+## See Also
+
+- [Navien E009 Error Code - Causes & Fix](/posts/navien-tankless-e009-error-code/)
+- [Navien Tankless Water Heater Error Codes — Complete Guide](/posts/navien-error-codes/)
+- [Navien Error Code E007 — Causes & Fix](/posts/navien-error-code-e007/)
+- [Navien E029 Error Code - Causes & Fix](/posts/navien-tankless-e029-error-code/)

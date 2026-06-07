@@ -51,3 +51,10 @@ Daikin's own fault-code documentation defines A3 as a drain level control system
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with electrical connections, testing components with a multimeter, or accessing the indoor unit's drain pan and PCB. If you have cleared blockages and verified the drain line flows freely but A3 returns immediately, the problem is likely the float switch, pump, or indoor board, all of which require safe disassembly, electrical diagnosis, and refrigerant-system-aware handling. Technicians have the Daikin service software and component-level test procedures to pinpoint sensor, pump, and PCB faults without guessing or swapping parts unnecessarily.
+
+## See Also
+
+- [Daikin VRV / VRF U4 Error Code — Communication Fault Fix](/posts/daikin-vrv-vrf-u4-error-code/)
+- [Daikin A1 Error Code - Causes & Fix](/posts/daikin-heat-pump-a1-error-code/)
+- [Daikin RXYQ VRV System Error Codes — Complete Fault Code Guide](/posts/daikin-rxyq-error-codes/)
+- [Daikin Mini Split Not Heating - Causes & Fix](/posts/daikin-mini-split-not-heating/)

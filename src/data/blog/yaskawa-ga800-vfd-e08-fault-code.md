@@ -46,3 +46,10 @@ The E08 fault code on a Yaskawa GA800 variable frequency drive is a major fault 
 ## When to Call a Pro
 
 Call a qualified industrial electrician or Yaskawa-authorized service technician if you are not trained to work on live three-phase power, if the fault persists after verifying line power and resetting the drive, or if you need to replace the control board. Control board replacement requires safe lockout of high voltage, careful handling of static-sensitive components, and often reprogramming of parameters from a backup. If your facility does not have the GA800 documentation, parameter backup, or replacement board in stock, professional support will save time and reduce the risk of further damage.
+
+## See Also
+
+- [Yaskawa U1000 Fault Codes: Complete Guide](/posts/yaskawa-u1000-fault-codes/)
+- [Yaskawa GA800 E28 Fault - Serial Watchdog Timeout Fix](/posts/yaskawa-ga800-e28-fault-code/)
+- [Yaskawa V1000 OV Fault - What It Means and How to Fix It](/posts/yaskawa-v1000-fault-ov/)
+- [Yaskawa VFD Fault ER — Causes & Fix](/posts/yaskawa-vfd-fault-er/)

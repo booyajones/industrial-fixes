@@ -48,3 +48,10 @@ E8 is a model-specific code on Goodman heat pumps, so you must verify its meanin
 ## When to Call a Pro
 
 Call a licensed HVAC technician if the E8 code returns after you have cleaned the coil and verified the fan runs normally, or if you are not certain what E8 means on your exact Goodman model. Refrigerant work, sealed-system diagnosis, and compressor replacement all require EPA certification, manifold gauges, and recovery equipment. If the unit is still under warranty, contact Goodman or an authorized dealer before attempting any sealed-system repair to avoid voiding coverage.
+
+## See Also
+
+- [Goodman 7 Flash Error Code — Ignition Lockout Fix](/posts/goodman-7-flash-error-code/)
+- [Goodman EE2 Error Code: Control Board Communication Fault Fix](/posts/goodman-ee2-error-code/)
+- [Goodman Heat Pump E15 Error Code - Causes & Fix](/posts/goodman-heat-pump-e15-error-code/)
+- [Goodman Heat Pump E3 Error Code - Causes & Fix](/posts/goodman-heat-pump-e3-error-code/)

@@ -50,3 +50,10 @@ This is not a terminal 27 wiring issue. Warning 40 covers overload of digital ou
 ## When to Call a Pro
 
 Call a qualified industrial electrician or VFD technician if the brake resistor tests good and the fault persists, since internal brake IGBT or chopper circuit failure requires specialized tools and training to diagnose and repair. Also call a professional if you are not familiar with high-voltage DC-bus capacitor discharge procedures or if the drive requires replacement of internal power components like the brake chopper assembly or soft-charge fuses. Any work inside the drive enclosure involves lethal voltages and should only be performed by personnel trained in VFD service.
+
+## See Also
+
+- [Danfoss FC302 Alarm 23 - Causes & Fix](/posts/danfoss-fc302-alarm-23-fault-code/)
+- [Danfoss FC302 Alarm 43 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-43-fault-code/)
+- [Danfoss FC302 Alarm 22 - Hoist Brake Fault Fix](/posts/danfoss-fc302-vfd-alarm-22-fault-code/)
+- [Danfoss FC302 Alarm 25 - Causes & Fix](/posts/danfoss-fc302-alarm-25-fault-code/)

@@ -50,3 +50,10 @@ If E25 does signal an inverter or power module overcurrent fault, the system has
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you cannot locate a service manual for your exact model, if you are uncomfortable working with live high-voltage circuits, or if the fault returns after clearing. Diagnosing inverter and power module faults requires multimeter testing, knowledge of refrigerant pressures, and access to factory test modes. If the compressor or outdoor fan motor is the root cause of the overcurrent condition, replacement involves refrigerant recovery, brazing, and evacuation that require EPA certification and specialized tools.
+
+## See Also
+
+- [Carrier Error Code 28 - Causes & Fix](/posts/carrier-error-code-28/)
+- [Carrier 46 Error Code — Check IFC: Board Self-Diagnosis Fault](/posts/carrier-46-error-code/)
+- [Carrier 59TP6 Furnace Problems & Error Codes](/posts/carrier-59tp6-furnace-gas-residential-problems/)
+- [Carrier Heat Pump E6 Error Code — Outdoor Temp Sensor Fault](/posts/carrier-heat-pump-e6-error-code/)

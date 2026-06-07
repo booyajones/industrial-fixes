@@ -49,3 +49,10 @@ Sometimes it is just a stuck filter or a bit of laundry caught in the door, but 
 ## When to Call a Pro
 
 Most dE repairs are within reach for a confident DIYer. If the switch and latch both test good and the door is aligned but dE keeps coming back, the wiring or control board may be at fault, and that is a good time to call an appliance pro.
+
+## See Also
+
+- [LG Washer Door Lock Assembly Replacement - Signs & How-To](/posts/lg-washer-door-lock-latch-assembly-replacement/)
+- [LG OE Error Code - Causes & Fix](/posts/lg-range-oe-error-code/)
+- [LG Dryer E4 Error Code - Causes & Fix](/posts/lg-dryer-e4-error-code/)
+- [LG Washer SUD Error Code - Causes & Fix](/posts/lg-washer-sud-error-code/)

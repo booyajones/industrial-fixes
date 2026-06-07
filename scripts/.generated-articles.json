@@ -2843,6 +2843,126 @@
     "yaskawa-ga800-vfd-e11-fault-code": {
       "topic": "Yaskawa GA800 VFD E11 fault code",
       "date": "2026-06-06"
+    },
+    "danfoss-fc302-vfd-alarm-56-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 56 fault code",
+      "date": "2026-06-07"
+    },
+    "danfoss-fc302-vfd-alarm-57-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 57 fault code",
+      "date": "2026-06-07"
+    },
+    "danfoss-fc302-vfd-alarm-80-fault-code": {
+      "topic": "Danfoss FC302 VFD ALARM 80 fault code",
+      "date": "2026-06-07"
+    },
+    "yaskawa-ga800-vfd-e12-fault-code": {
+      "topic": "Yaskawa GA800 VFD E12 fault code",
+      "date": "2026-06-07"
+    },
+    "yaskawa-ga800-vfd-e13-fault-code": {
+      "topic": "Yaskawa GA800 VFD E13 fault code",
+      "date": "2026-06-07"
+    },
+    "yaskawa-ga800-vfd-e14-fault-code": {
+      "topic": "Yaskawa GA800 VFD E14 fault code",
+      "date": "2026-06-07"
+    },
+    "yaskawa-ga800-vfd-e15-fault-code": {
+      "topic": "Yaskawa GA800 VFD E15 fault code",
+      "date": "2026-06-07"
+    },
+    "yaskawa-ga800-vfd-e16-fault-code": {
+      "topic": "Yaskawa GA800 VFD E16 fault code",
+      "date": "2026-06-07"
+    },
+    "yaskawa-ga800-vfd-e17-fault-code": {
+      "topic": "Yaskawa GA800 VFD E17 fault code",
+      "date": "2026-06-07"
+    },
+    "yaskawa-ga800-vfd-e18-fault-code": {
+      "topic": "Yaskawa GA800 VFD E18 fault code",
+      "date": "2026-06-07"
+    },
+    "yaskawa-ga800-vfd-e19-fault-code": {
+      "topic": "Yaskawa GA800 VFD E19 fault code",
+      "date": "2026-06-07"
+    },
+    "yaskawa-ga800-vfd-e20-fault-code": {
+      "topic": "Yaskawa GA800 VFD E20 fault code",
+      "date": "2026-06-07"
+    },
+    "yaskawa-ga800-vfd-e21-fault-code": {
+      "topic": "Yaskawa GA800 VFD E21 fault code",
+      "date": "2026-06-07"
+    },
+    "yaskawa-ga800-vfd-e22-fault-code": {
+      "topic": "Yaskawa GA800 VFD E22 fault code",
+      "date": "2026-06-07"
+    },
+    "yaskawa-ga800-vfd-e23-fault-code": {
+      "topic": "Yaskawa GA800 VFD E23 fault code",
+      "date": "2026-06-07"
+    },
+    "yaskawa-ga800-vfd-e24-fault-code": {
+      "topic": "Yaskawa GA800 VFD E24 fault code",
+      "date": "2026-06-07"
+    },
+    "yaskawa-ga800-vfd-e25-fault-code": {
+      "topic": "Yaskawa GA800 VFD E25 fault code",
+      "date": "2026-06-07"
+    },
+    "yaskawa-ga800-vfd-e26-fault-code": {
+      "topic": "Yaskawa GA800 VFD E26 fault code",
+      "date": "2026-06-07"
+    },
+    "yaskawa-ga800-vfd-e27-fault-code": {
+      "topic": "Yaskawa GA800 VFD E27 fault code",
+      "date": "2026-06-07"
+    },
+    "yaskawa-ga800-vfd-e28-fault-code": {
+      "topic": "Yaskawa GA800 VFD E28 fault code",
+      "date": "2026-06-07"
+    },
+    "yaskawa-ga800-vfd-e29-fault-code": {
+      "topic": "Yaskawa GA800 VFD E29 fault code",
+      "date": "2026-06-07"
+    },
+    "yaskawa-ga800-vfd-e30-fault-code": {
+      "topic": "Yaskawa GA800 VFD E30 fault code",
+      "date": "2026-06-07"
+    },
+    "yaskawa-ga800-vfd-e31-fault-code": {
+      "topic": "Yaskawa GA800 VFD E31 fault code",
+      "date": "2026-06-07"
+    },
+    "yaskawa-ga800-vfd-e32-fault-code": {
+      "topic": "Yaskawa GA800 VFD E32 fault code",
+      "date": "2026-06-07"
+    },
+    "yaskawa-ga800-vfd-e33-fault-code": {
+      "topic": "Yaskawa GA800 VFD E33 fault code",
+      "date": "2026-06-07"
+    },
+    "yaskawa-ga800-vfd-e34-fault-code": {
+      "topic": "Yaskawa GA800 VFD E34 fault code",
+      "date": "2026-06-07"
+    },
+    "yaskawa-ga800-vfd-e35-fault-code": {
+      "topic": "Yaskawa GA800 VFD E35 fault code",
+      "date": "2026-06-07"
+    },
+    "yaskawa-ga800-vfd-e36-fault-code": {
+      "topic": "Yaskawa GA800 VFD E36 fault code",
+      "date": "2026-06-07"
+    },
+    "yaskawa-ga800-vfd-e37-fault-code": {
+      "topic": "Yaskawa GA800 VFD E37 fault code",
+      "date": "2026-06-07"
+    },
+    "yaskawa-ga800-vfd-e38-fault-code": {
+      "topic": "Yaskawa GA800 VFD E38 fault code",
+      "date": "2026-06-07"
     }
   }
 }

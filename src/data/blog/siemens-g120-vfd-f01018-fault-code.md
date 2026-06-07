@@ -45,3 +45,10 @@ Fault F01018 on a Siemens SINAMICS G120 indicates that the drive's controller de
 ## When to Call a Pro
 
 Call a qualified Siemens technician or certified drive specialist if F01018 returns immediately after a clean power cycle and you have confirmed stable incoming power and valid parameterization. Repeated boot interruptions that survive basic supply and parameter troubleshooting usually indicate an internal control-unit fault requiring specialized diagnostic tools, firmware updates, or module replacement. If the drive is mission-critical or connected to expensive machinery, professional support will prevent extended downtime and avoid damage from trial-and-error parts swapping.
+
+## See Also
+
+- [Siemens G120 VFD F01040 - Causes & Fix](/posts/siemens-g120-vfd-f01040-fault-code/)
+- [Siemens G120 F01122 - Causes & Fix](/posts/siemens-g120-vfd-f01122-fault-code/)
+- [Siemens Micromaster 440 Fault F002 — Overcurrent](/posts/siemens-micromaster-440-fault-f002/)
+- [Siemens Micromaster F0011 - Causes & Fix](/posts/siemens-micromaster-f0011-fault-code/)

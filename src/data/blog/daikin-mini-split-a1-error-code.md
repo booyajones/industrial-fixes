@@ -48,3 +48,10 @@ This is an electrical fault inside the unit's brain. The board controls fan spee
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with live electrical circuits, if the fault returns after power cycling, or if you lack a multimeter and the skills to safely inspect the indoor board. PCB diagnosis requires verifying supply voltage, ruling out wiring faults, and confirming that the board is truly defective before replacement. A technician will also check for upstream power-quality issues that can damage a new board, make sure the correct OEM part is ordered, and handle refrigerant-circuit safety if any panels near the coil must be opened. Misdiagnosis or incorrect board installation can lead to repeat failures or damage to the new PCB.
+
+## See Also
+
+- [Daikin C4 Error Code - Causes & Fix](/posts/daikin-heat-pump-c4-error-code/)
+- [Daikin E7 Error Code - Causes & Fix](/posts/daikin-heat-pump-e7-error-code/)
+- [Daikin U2 Error Code — Causes & Fix](/posts/daikin-u2-error-code/)
+- [Daikin E9 Error Code — Causes & Fix](/posts/daikin-e9-error-code/)

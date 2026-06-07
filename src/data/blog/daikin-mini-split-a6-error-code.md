@@ -48,3 +48,10 @@ The fault typically originates from one of three places: a mechanical obstructio
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with live voltage, cannot safely access the blower assembly, or if the fault persists after cleaning the fan and checking visible wiring. Diagnosing drive voltage and motor feedback signals requires a multimeter and familiarity with DC motor circuits. If both the motor and PCB appear functional but the A6 code continues, the issue may involve communication errors or sensor feedback that require factory service software to diagnose.
+
+## See Also
+
+- [Daikin Mini Split Won't Turn On - Causes & Fix](/posts/daikin-mini-split-wont-turn-on/)
+- [Daikin E7 Error Code - Causes & Fix](/posts/daikin-heat-pump-e7-error-code/)
+- [Daikin C4 Error Code — Indoor Heat Exchanger Thermistor Fix](/posts/daikin-error-code-c4/)
+- [Daikin A3 Error Code - Causes & Fix](/posts/daikin-mini-split-a3-error-code/)

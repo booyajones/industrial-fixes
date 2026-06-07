@@ -50,3 +50,10 @@ In practical terms, the outdoor unit and indoor unit(s) cannot talk to each othe
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with low-voltage wiring or do not have access to the wiring diagram for your specific Daikin model. Also call a pro if you have corrected all visible wiring errors and verified continuity but the UH code persists, or if your system is a multi-split or VRV installation that requires a wiring test mode you cannot access. Communication faults can be model-specific and may require factory software or test equipment to diagnose control board issues downstream of the wiring itself.
+
+## See Also
+
+- [Daikin A5 Error Code - Causes & Fix](/posts/daikin-mini-split-a5-error-code/)
+- [Daikin A3 Error Code — Causes & Fix](/posts/daikin-a3-error-code/)
+- [Daikin A1 Error Code - Causes & Fix](/posts/daikin-heat-pump-a1-error-code/)
+- [Daikin C4 Error Code - Causes & Fix](/posts/daikin-heat-pump-c4-error-code/)

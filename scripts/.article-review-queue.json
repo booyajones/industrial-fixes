@@ -166,5 +166,83 @@
     "score": 6,
     "reason": "Code existence confirmed only by forum post, not manufacturer documentation; meaning appears accurate but lacks primary-source verification for this exact drive model",
     "date": "2026-06-06"
+  },
+  "yaskawa-ga800-vfd-e13-fault-code": {
+    "topic": "Yaskawa GA800 VFD E13 fault code",
+    "score": 3,
+    "reason": "Research explicitly states E13 is NOT documented in GA800's standard fault list and exact meaning could not be verified from manufacturer material; draft treats unconfirmed code as real.",
+    "date": "2026-06-07"
+  },
+  "yaskawa-ga800-vfd-e16-fault-code": {
+    "topic": "Yaskawa GA800 VFD E16 fault code",
+    "score": 3,
+    "reason": "Research explicitly states E16 is NOT verifiable for GA800 in available sources; draft speculates on causes/fixes without confirmed code definition for this exact brand+model combination.",
+    "date": "2026-06-07"
+  },
+  "yaskawa-ga800-vfd-e17-fault-code": {
+    "topic": "Yaskawa GA800 VFD E17 fault code",
+    "score": 4,
+    "reason": "Research explicitly states E17 is NOT verified for the GA800 in available documentation and should not be published without manufacturer confirmation; draft proceeds anyway despite lack of code verification for this exact model.",
+    "date": "2026-06-07"
+  },
+  "yaskawa-ga800-vfd-e18-fault-code": {
+    "topic": "Yaskawa GA800 VFD E18 fault code",
+    "score": 3,
+    "reason": "Research explicitly could not verify E18 as a real GA800 fault code; draft speculates on causes without manufacturer confirmation\u2014fails authenticity requirement.",
+    "date": "2026-06-07"
+  },
+  "yaskawa-ga800-vfd-e20-fault-code": {
+    "topic": "Yaskawa GA800 VFD E20 fault code",
+    "score": 3,
+    "reason": "Research explicitly states E20 cannot be verified for Yaskawa GA800; draft publishes unconfirmed code with speculative meaning borrowed from other brands.",
+    "date": "2026-06-07"
+  },
+  "yaskawa-ga800-vfd-e23-fault-code": {
+    "topic": "Yaskawa GA800 VFD E23 fault code",
+    "score": 3,
+    "reason": "Research explicitly states E23 definition is NOT found in available GA800 documentation, yet draft presents it as real/documented; content is generic placeholder without verified code meaning.",
+    "date": "2026-06-07"
+  },
+  "yaskawa-ga800-vfd-e25-fault-code": {
+    "topic": "Yaskawa GA800 VFD E25 fault code",
+    "score": 3,
+    "reason": "Research explicitly states E25 is NOT verified in official GA800 documentation; draft presents unconfirmed speculation as fact without adequate disclaimer that this code's existence for GA800 is unverified.",
+    "date": "2026-06-07"
+  },
+  "yaskawa-ga800-vfd-e27-fault-code": {
+    "topic": "Yaskawa GA800 VFD E27 fault code",
+    "score": 3,
+    "reason": "Research explicitly states E27 is NOT verified for GA800 (only UV3 for soft-charge fault documented), yet draft presents E27 as real with detailed troubleshooting\u2014fails core authenticity requirement.",
+    "date": "2026-06-07"
+  },
+  "yaskawa-ga800-vfd-e30-fault-code": {
+    "topic": "Yaskawa GA800 VFD E30 fault code",
+    "score": 4,
+    "reason": "E30 is not confirmed as a real GA800 fault code in the research; the draft correctly identifies this uncertainty but cannot verify the code exists for this specific drive model, failing criterion #1.",
+    "date": "2026-06-07"
+  },
+  "yaskawa-ga800-vfd-e33-fault-code": {
+    "topic": "Yaskawa GA800 VFD E33 fault code",
+    "score": 3,
+    "reason": "E33 is not verified as a real GA800 fault code in the research; the draft correctly identifies this uncertainty but should not be published as a definitive error-code guide for a non-existent code.",
+    "date": "2026-06-07"
+  },
+  "yaskawa-ga800-vfd-e35-fault-code": {
+    "topic": "Yaskawa GA800 VFD E35 fault code",
+    "score": 4,
+    "reason": "Research explicitly states 'E35' as the official GA800 code label for overspeed could NOT be verified from manufacturer documents; the fault is documented as 'oS / Overspeed' not 'E35', failing authenticity requirement for this exact brand+appliance.",
+    "date": "2026-06-07"
+  },
+  "yaskawa-ga800-vfd-e37-fault-code": {
+    "topic": "Yaskawa GA800 VFD E37 fault code",
+    "score": 4,
+    "reason": "Research explicitly states the GA800 fault table entry for E37 is NOT confirmed from manufacturer documentation; the draft presents unverified 'motor overload' meaning as fact, violating technical accuracy requirements.",
+    "date": "2026-06-07"
+  },
+  "yaskawa-ga800-vfd-e38-fault-code": {
+    "topic": "Yaskawa GA800 VFD E38 fault code",
+    "score": 6,
+    "reason": "Research explicitly states E38 cannot be verified for GA800; draft speculates on causes/fixes without manufacturer confirmation, violating requirement (1) for documented real code.",
+    "date": "2026-06-07"
   }
 }

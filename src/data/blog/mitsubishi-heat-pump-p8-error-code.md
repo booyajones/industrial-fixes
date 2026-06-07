@@ -50,3 +50,10 @@ In field troubleshooting, this code typically appears when the outdoor unit fail
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not EPA 608 certified to handle refrigerants, if you lack refrigerant gauges and recovery equipment, or if you are uncomfortable working with live 208-240V outdoor unit wiring. Professional diagnosis is also recommended when multiple components test normally but the fault persists, when the service manual diagnostic tree points to inverter or compressor replacement, or when you need to confirm refrigerant charge and superheat/subcooling measurements that require specialized tools and model-specific target values. Compressor and inverter board replacement on mini-splits often approaches the cost of a new outdoor unit, so get a detailed estimate and system age assessment before authorizing major repairs.
+
+## See Also
+
+- [Mitsubishi U2 Error Code — Causes & Fix](/posts/mitsubishi-u2-error-code/)
+- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
+- [Mitsubishi E5 Error Code — Causes & Fix](/posts/mitsubishi-e5-error-code/)
+- [Mitsubishi Mini Split Ice on Coils - Causes & Fix](/posts/mitsubishi-mini-split-ice-on-coils/)

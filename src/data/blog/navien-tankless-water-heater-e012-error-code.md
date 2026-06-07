@@ -49,3 +49,10 @@ The heater uses a flame rod to confirm ignition. If gas pressure is too low, the
 ## When to Call a Pro
 
 Call a licensed plumber or gas technician if you are not comfortable working with gas appliances, if measured gas pressure is outside the manufacturer's range, or if cleaning the flame rod does not resolve E012. Gas regulator replacement, gas-valve diagnostics, and pressure testing require proper tools and certification. If the error returns after initial repair, a pro can trace intermittent wiring faults, internal leaks, or system sizing problems that are not visible during basic troubleshooting.
+
+## See Also
+
+- [Navien E009 Error Code - Causes & Fix](/posts/navien-tankless-e009-error-code/)
+- [Navien E005 Error Code - Causes & Fix](/posts/navien-tankless-e005-error-code/)
+- [Navien E016 Error Code - Causes & Fix](/posts/navien-tankless-e016-error-code/)
+- [Navien E615 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e615-error-code/)

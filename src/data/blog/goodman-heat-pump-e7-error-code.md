@@ -49,3 +49,10 @@ The E7 error code on Goodman heat pumps is most commonly associated with an outd
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are uncomfortable working with line voltage, if you cannot safely access the outdoor unit's electrical compartment, or if basic wiring and power-cycle checks do not resolve the fault. A technician has the model-specific service literature, metering tools to test motor windings and board outputs accurately, and the refrigerant-handling certification required if fan-motor replacement involves disturbing refrigerant lines. Professional diagnosis is also recommended when the code meaning is ambiguous or when the unit cycles through multiple error codes, since those patterns often point to a failing inverter board or compressor-control issue that requires specialized troubleshooting.
+
+## See Also
+
+- [Goodman Furnace 3 Flashes — Pressure Switch Open Fix](/posts/goodman-furnace-3-flashes/)
+- [Goodman Heat Pump Error Codes - What It Means and How to Fix It](/posts/goodman-heat-pump-error-codes/)
+- [Goodman GVZC18 Heat Pump Error Codes: iQ Drive Fault Diagnostics](/posts/goodman-gvzc18-heat-pump-error-codes/)
+- [Goodman Furnace Blowing Cold Air - Causes & Fix](/posts/goodman-furnace-blowing-cold-air/)

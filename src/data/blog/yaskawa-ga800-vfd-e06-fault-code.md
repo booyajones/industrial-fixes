@@ -45,3 +45,10 @@ The E06 fault code does not appear in available Yaskawa GA800 technical document
 ## When to Call a Pro
 
 Call a qualified Yaskawa technician or authorized distributor if you cannot locate the E06 code in your drive's manual, if the fault reappears immediately after clearing, or if you are unfamiliar with VFD parameter programming and electrical diagnostics. Variable frequency drives operate at high voltage and require proper training for safe troubleshooting. Professional support is especially important when the fault code is undocumented, as it may indicate a firmware issue, internal board failure, or application-specific configuration problem that requires factory tools or replacement components matched to your exact drive revision.
+
+## See Also
+
+- [Yaskawa GA800 E31 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e31-fault-code/)
+- [Yaskawa GA800 E17 Fault - Causes & Fix](/posts/yaskawa-ga800-e17-fault-code/)
+- [Yaskawa J1000 Fault Codes — VFD Troubleshooting Guide](/posts/yaskawa-j1000-fault-codes/)
+- [Yaskawa VFD Fault GF — Causes & Fix](/posts/yaskawa-vfd-fault-gf/)

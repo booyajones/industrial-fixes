@@ -49,3 +49,10 @@ The D80 code signals that your LG dryer has detected roughly 80% airflow restric
 ## When to Call a Pro
 
 Call a professional if the D80 code returns immediately after you have verified the entire vent system is clean, properly installed, and made of approved materials. Persistent codes after thorough vent work suggest an internal airflow sensor, high-limit thermostat, or blocked internal duct that requires disassembly and diagnostic equipment. Also call a pro if your vent run is built into walls or ceilings in a way that makes safe access impossible, or if you smell burning or see scorch marks near the dryer.
+
+## See Also
+
+- [LG Washer Won't Drain - Causes & Fix](/posts/lg-washer-wont-drain/)
+- [LG Microwave Not Heating - Causes & Fix](/posts/lg-microwave-not-heating/)
+- [LG Dryer tE1 Error Code - Causes & Fix](/posts/lg-dryer-te1-error-code/)
+- [LG Washer Drive Motor/Stator-Rotor Replacement - Signs & How-To](/posts/lg-washer-drive-motor-stator-rotor-direct-drive-replacement/)

@@ -47,3 +47,10 @@ Do not assume E09 has the same meaning as codes on other VFD brands or even othe
 ## When to Call a Pro
 
 Call a qualified drives technician or Yaskawa-certified service provider if you do not have access to the GA800 fault code table or elementary diagram, if the E09 fault returns immediately after reset, or if the fault definition points to control board or internal drive component failure. Industrial VFDs operate at high voltage and require trained personnel for safe diagnosis and repair. Also contact a professional if your application requires compliance documentation or if the drive is under warranty, as unauthorized repairs can void coverage.
+
+## See Also
+
+- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)
+- [Yaskawa GA800 E07 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e07-fault-code/)
+- [Yaskawa GA800 E14 Fault - Causes & Fix](/posts/yaskawa-ga800-e14-fault-code/)
+- [Yaskawa GA800 E34 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e34-fault-code/)
