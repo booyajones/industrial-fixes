@@ -20,6 +20,10 @@ const blog = defineCollection({
       canonicalURL: z.string().optional(),
       hideEditPost: z.boolean().optional(),
       timezone: z.string().optional(),
+      // Diagnosis Command Center fields (optional; only on deep code pages).
+      most_likely_cause: z.string().optional(),
+      likelihood: z.string().optional(),
+      diy_or_pro: z.enum(["diy", "pro"]).optional(),
     }),
 });
 

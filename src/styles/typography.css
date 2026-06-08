@@ -86,6 +86,18 @@
       @apply focus-visible:no-underline focus-visible:outline-2 focus-visible:outline-offset-1 focus-visible:outline-accent focus-visible:outline-dashed;
     }
 
+    /* Quick-diagnosis decision-tree cards. Block (overrides the inline-block
+       spoiler default) with a visible body div (not <p>, so it is not hidden). */
+    details.dtree {
+      @apply block w-full cursor-default border border-border rounded-md my-3 bg-muted/30 select-text;
+    }
+    details.dtree > summary {
+      @apply cursor-pointer font-semibold px-3 py-2.5;
+    }
+    details.dtree .dtree-body {
+      @apply px-3 pb-3 pt-1 text-foreground;
+    }
+
     pre {
       @apply focus-visible:border-transparent focus-visible:outline-2 focus-visible:outline-accent focus-visible:outline-dashed;
     }

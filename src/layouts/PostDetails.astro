@@ -40,6 +40,9 @@ const {
   modDatetime,
   tags,
   hideEditPost,
+  most_likely_cause,
+  likelihood,
+  diy_or_pro,
 } = post.data;
 
 const { Content } = await render(post);
@@ -279,6 +282,24 @@ const nextPost =
          before it (LCP ~3.5s). Answer-first is also the better reading order. -->
     <QuickAnswer {description} {title} />
 
+    <!-- Verdict block: a technician's most-likely-cause call + a color-coded
+         DIY/Pro badge. Only renders on deep code pages that carry the fields. -->
+    {(most_likely_cause || diy_or_pro) && (
+      <div class="verdict" data-pagefind-ignore>
+        {most_likely_cause && (
+          <p class="verdict-cause">
+            <span class="verdict-label">Most likely</span>
+            {most_likely_cause}{likelihood ? ` (${likelihood})` : ""}
+          </p>
+        )}
+        {diy_or_pro && (
+          <span class={`verdict-badge verdict-${diy_or_pro}`}>
+            {diy_or_pro === "pro" ? "Pro repair" : "DIY-friendly"}
+          </span>
+        )}
+      </div>
+    )}
+
     <!-- Internal link to the brand hub for topical authority + more sessions
          per visit. Subtle, single inline link; only rendered when the post's
          tags include a brand that has a hub page. data-internal-link tags it
@@ -454,6 +475,46 @@ const nextPost =
     color: var(--brand);
     border-left: 3px solid var(--brand);
     padding-left: 0.6rem;
+  }
+  /* Verdict block: a most-likely-cause call + a color-coded DIY/Pro badge,
+     right under the Quick Answer. The whole "diagnosis at a glance" cue. */
+  .verdict {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.55rem 0.9rem;
+    margin: 0 0 1.25rem;
+  }
+  .verdict-cause {
+    margin: 0;
+    font-size: 0.95rem;
+    color: var(--foreground);
+  }
+  .verdict-label {
+    display: inline-block;
+    margin-right: 0.4rem;
+    font-size: 0.62rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: color-mix(in srgb, var(--foreground) 58%, transparent);
+  }
+  .verdict-badge {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.22rem 0.65rem;
+    border-radius: 999px;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+  }
+  .verdict-diy {
+    color: var(--safe);
+    background: color-mix(in srgb, var(--safe) 16%, transparent);
+  }
+  .verdict-pro {
+    color: var(--danger);
+    background: color-mix(in srgb, var(--danger) 16%, transparent);
   }
 
   /* Title + copy button */

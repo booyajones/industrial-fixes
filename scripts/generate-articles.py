@@ -54,7 +54,7 @@ ANTHROPIC_KEY = os.environ.get("ANTHROPIC_API_KEY", "")
 PERPLEXITY_KEY = os.environ.get("PERPLEXITY_API_KEY", "")
 GSC_SA = os.environ.get("GSC_SERVICE_ACCOUNT_JSON", r"C:\Users\Administrator\.claude\secrets\gsc-sa.json")
 
-AUTHORS = ["Dana Kowalski", "Marcus Webb", "James Rutherford"]
+AUTHORS = ["Error Code Fixes Editorial Team"]
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) ecf-gen/1.0"
 
 # Error-code intent: a brand-ish token plus a code-ish token. Keeps us on the
@@ -319,11 +319,18 @@ def claude_write(topic: str, research: str) -> dict | None:
         print("    [claude] ANTHROPIC_API_KEY not set"); return None
     schema = (
         '{"title": "<Brand Code Error Code — Causes & Fix, <=70 chars>",'
-        ' "description": "<meta description, 120-155 chars>",'
+        ' "description": "<meta description, answer-first TL;DR, 120-155 chars>",'
         ' "equipment_category": "<one of: hvac, boiler, refrigeration, cnc, vfd, appliance, water-heater, generator, other>",'
         ' "brand_slug": "<lowercase-hyphenated brand, e.g. weil-mclain>",'
         ' "what_it_means": "<1-2 paragraph plain-English explanation of the code>",'
+        ' "most_likely_cause": "<the single most common cause of THIS code on THIS appliance, a short noun phrase, only if the research supports one; else empty string>",'
+        ' "likelihood": "<plain qualitative phrase for how often that cause applies, e.g. the most common cause or often; NEVER a made-up percentage; empty string if unsure>",'
+        ' "diy_or_pro": "<diy if a typical homeowner can fix it with basic hand tools and a part, or pro if it needs gas, refrigerant, sealed-system, compressor, or high-voltage work>",'
+        ' "misdiagnosis_warning": "<1-2 sentences naming the part people wrongly replace first and the cheap test to do instead; empty string if none>",'
+        ' "cost_diy": "<rough DIY cost and time as a general range, e.g. $20-60 in parts, 30-60 min; empty string if unknown>",'
+        ' "cost_pro": "<rough pro service cost as a general range, e.g. $150-300; empty string if unknown>",'
         ' "causes": [{"lead": "<short bold lead-in>", "text": "<one sentence>"}],'
+        ' "decision_tree": [{"question": "<a yes/no check a homeowner can actually do>", "if_yes": "<what it means and what to do next>", "if_no": "<what it means and what to do next>"}],'
         ' "steps": ["<imperative step with a bolded first phrase>", "..."],'
         ' "parts": [{"name": "<part name a buyer would search>", "note": "<short selection note>"}],'
         ' "when_to_call_pro": "<1 paragraph>"}'
@@ -344,7 +351,16 @@ def claude_write(topic: str, research: str) -> dict | None:
         "and do NOT borrow another brand's meaning for the same code letters. A code can be real for "
         "one brand or appliance and mean something different (or not exist) on another. When unsure, "
         "say the exact meaning varies by model and to check the owner's manual or wiring diagram, and "
-        "keep causes general rather than asserting a specific wrong cause."
+        "keep causes general rather than asserting a specific wrong cause. "
+        "DIAGNOSTIC DEPTH: set diy_or_pro to \"pro\" whenever the real fix involves gas, "
+        "refrigerant, a sealed system, the compressor, or high-voltage work, and \"diy\" when a "
+        "homeowner can swap a sensor, switch, pump, valve, belt, filter, door lock, igniter, or "
+        "control board with basic tools. most_likely_cause and likelihood must come from the "
+        "research; never invent a percentage (use words like \"the most common cause\" or \"often\"). "
+        "Give 2-3 decision_tree checks a homeowner can actually perform (for example \"Does the drum "
+        "spin freely by hand?\"), each with a clear if_yes and if_no. cost_diy and cost_pro are rough "
+        "GENERAL ranges; leave them empty if the research gives no basis. misdiagnosis_warning names "
+        "the expensive part people replace by mistake and the cheap test that finds the real cause."
     )
     prompt = (
         f"Write a repair guide for: \"{topic}\".\n\n"
@@ -460,6 +476,60 @@ def assemble_md(topic: str, c: dict, slug: str, draft: bool = False) -> str:
     causes = "\n".join(f"- **{x['lead']}** {x['text']}" for x in c.get("causes", []))
     steps = "\n".join(f"{i+1}. {s}" for i, s in enumerate(c.get("steps", [])))
 
+    # ---- Diagnosis Command Center depth (all optional, backward compatible) ----
+    def _clean(v):
+        # Collapse newlines too: an embedded \n in a frontmatter value would write
+        # invalid YAML and break the Astro content parse for the whole build.
+        return (str(v or "").replace('"', "'").replace("—", "-")
+                .replace("\n", " ").replace("\r", " ").strip())
+
+    mlc = _clean(c.get("most_likely_cause"))
+    likelihood = _clean(c.get("likelihood"))
+    diy_or_pro = _clean(c.get("diy_or_pro")).lower()
+    misdiag = _clean(c.get("misdiagnosis_warning"))
+    cost_diy = _clean(c.get("cost_diy"))
+    cost_pro = _clean(c.get("cost_pro"))
+    tree = c.get("decision_tree", []) or []
+
+    # Frontmatter the template reads to render the verdict block + DIY/Pro badge.
+    extra_fm = ""
+    if mlc:
+        extra_fm += f'most_likely_cause: "{mlc}"\n'
+    if likelihood:
+        extra_fm += f'likelihood: "{likelihood}"\n'
+    if diy_or_pro in ("diy", "pro"):
+        extra_fm += f'diy_or_pro: "{diy_or_pro}"\n'
+
+    # Misdiagnosis callout: the costly part people wrongly replace first.
+    misdiag_block = f"\n## Before You Replace Anything\n\n{misdiag}\n" if misdiag else ""
+
+    # Quick-diagnosis decision tree as raw HTML. Body is a <div> (not <p>) so the
+    # typography rule that hides <p> inside <details> does not blank it out.
+    tree_block = ""
+    rows = []
+    for q in tree:
+        qq = _clean(q.get("question"))
+        qy = _clean(q.get("if_yes"))
+        qn = _clean(q.get("if_no"))
+        if qq and (qy or qn):
+            rows.append(
+                f'<details class="dtree"><summary>{qq}</summary>\n'
+                f'<div class="dtree-body"><strong>Yes:</strong> {qy}<br><strong>No:</strong> {qn}</div>\n'
+                f'</details>'
+            )
+    if rows:
+        tree_block = "\n## Quick Diagnosis\n\nAnswer these to narrow it down fast.\n\n" + "\n\n".join(rows) + "\n"
+
+    # Honest cost framing appended to the pro section.
+    cost_line = ""
+    if cost_diy or cost_pro:
+        bits = []
+        if cost_diy:
+            bits.append(f"DIY runs about {cost_diy}")
+        if cost_pro:
+            bits.append(f"A pro service call runs about {cost_pro}")
+        cost_line = "\n\n**Rough cost:** " + ". ".join(bits) + "."
+
     md = f"""---
 title: "{title}"
 description: "{desc}"
@@ -470,18 +540,18 @@ featured: false
 draft: {str(draft).lower()}
 tags:
 {chr(10).join(f"  - {t}" for t in tags) if tags else "  - error-code"}
----
+{extra_fm}---
 
 ## {title.split(' — ')[0].split(' - ')[0]} — What It Means
 
 {c['what_it_means']}
-
+{misdiag_block}
 [Jump to Fix](#fix)
 
 ## Common Causes
 
 {causes}
-
+{tree_block}
 ## Step-by-Step Fix {{#fix}}
 
 {steps}
@@ -494,7 +564,7 @@ tags:
 
 ## When to Call a Pro
 
-{c['when_to_call_pro']}
+{c['when_to_call_pro']}{cost_line}
 """
     return md
 
@@ -515,7 +585,7 @@ def generate_one(topic: str, have: set[str], dry: bool) -> str | None:
     # Quality gate: score the draft. Weak/unverifiable codes ship as draft:true
     # (saved for human review, NOT built/published) instead of going live.
     verdict = claude_review(topic, content, research)
-    publish = bool(verdict.get("publish")) and int(verdict.get("score", 0)) >= 7
+    publish = bool(verdict.get("publish")) and int(verdict.get("score") or 0) >= 7
     print(f"     review: score={verdict.get('score')} publish={publish} — {verdict.get('reason','')[:80]}")
     md = assemble_md(topic, content, slug, draft=not publish)
     if BANNED.search(md):

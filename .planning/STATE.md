@@ -9,17 +9,26 @@ exact part to fix it in under a minute, and we earn a commission when they buy i
 **North Star:** mC/1000 (monetized affiliate clicks / 1,000 engaged sessions).
 **Current focus:** Phase 1 — Consumer Coherence & Internal-Link Foundation.
 
-## Status
+## Status (council-revised roadmap, see ROADMAP.md)
 
 | # | Phase | Status |
 |---|-------|--------|
-| 1 | Consumer Coherence & Internal-Link Foundation | NEXT |
-| 2 | Re-anchor the Autonomous Engine | pending |
-| 3 | Code-Search Precision | pending |
-| 4 | DIY Part-Replacement Engine | pending |
-| 5 | Symptom + Model + DIY-Code Breadth | pending |
-| 6 | Conversion + Maintenance + Build Perf | pending |
-| 7 | Measurement, Guardrails & Iteration | pending |
+| 1 | Consumer Coherence & Internal Links | SHIPPED + verified live (commits b1c9ac8d) |
+| 2 | Diagnosis Command Center redesign | 2a IDENTITY SHIPPED (c93dfdbe): navy mono code-hero, honest trust line, service-blue + semantic tokens, mono codes. 2b PENDING: decision tree, verdict+confidence, Safe-to-run badge, cost-math pro section, sticky mobile part bar, homepage triage, branded OG image |
+| 3 | Re-anchor the autonomous engine (deep) | NEXT: upgrade generators to Command Center content schema (verdict, misdiagnosis warning, cost math, accurate DIY/pro signal, decision-tree branches). Test on a DRY SAMPLE before any storm — this is the autonomous daily pipeline. |
+| 4 | Deep money pages (top ~150-200) | pending (agent storm after Phase 3 generator upgrade + sample QA) |
+| 5 | Quality-gate + code-search precision | pending |
+| 6 | Link & traffic engine (/diagnose + magnets) | pending |
+| 7 | Measurement, guardrails & iteration | pending |
+
+## Next-effort entry point
+Phase 3 generator upgrade: read scripts/generate-articles.py (574 lines) fully; extend the
+claude_write schema (line ~320) with most_likely_cause + confidence, misdiagnosis_warning,
+cost_diy + cost_pro, diy_or_pro; update the assemble template (line ~440) + claude_review gate;
+add corresponding render in PostDetails (verdict block, Safe-to-run/diy badge with semantic
+colors, cost-math "when to call a pro", native <details> decision tree). DRY-RUN test on ~5
+codes and adversarially QA before regenerating top pages. UX-08 (DIY/pro label accuracy)
+resolves here via the new diy_or_pro content signal.
 
 ## Baseline (2026-06-05)
 
