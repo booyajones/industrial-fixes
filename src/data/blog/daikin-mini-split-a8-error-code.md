@@ -49,3 +49,10 @@ Because power-quality faults can stem from utility brownouts, internal board fai
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with live line voltage, if your multimeter readings do not match expected values and you cannot interpret the fault tree, or if the A8 code returns immediately after you replace the motor or board. Power-supply and overcurrent faults can damage expensive inverter components when misdiagnosed, so professional instruments and experience with Daikin's service software will save both time and parts. Also confirm that your specific mini-split model uses the A8 definition above, because Daikin publishes different code sets across product families and regions.
+
+## See Also
+
+- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)
+- [Daikin FTXV09AVJU9 Ductless Mini Split Problems & Error Codes](/posts/daikin-ftxv09avju9-ductless-mini-split-air-conditioner-problems/)
+- [Daikin A3 Error Code - Causes & Fix](/posts/daikin-mini-split-a3-error-code/)
+- [Daikin Mini Split Leaking Water - Causes & Fix](/posts/daikin-mini-split-leaking-water/)

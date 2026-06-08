@@ -50,3 +50,10 @@ This is a serious electrical fault that typically requires component replacement
 ## When to Call a Pro
 
 U6 faults involve high-voltage inverter electronics and refrigerant-circuit diagnostics that require specialized tools and EPA certification. Testing the power module, measuring DC drive signals, and isolating compressor faults safely all require an experienced HVAC technician with Mitsubishi training. Compressor replacement involves recovering refrigerant, brazing refrigerant lines, and vacuum-testing the system. Inverter board replacement requires careful handling of static-sensitive components and correct configuration of DIP switches or software settings for your specific model. If you are not trained in VFD diagnostics and refrigeration work, call a Mitsubishi-certified technician to diagnose and repair this fault. Attempting inverter or compressor work without proper licensing, tools, and safety knowledge can result in equipment damage, refrigerant release, or electrical shock.
+
+## See Also
+
+- [Mitsubishi Mini Split E9 Error Code — Outdoor Thermistor 2 Fault Fix](/posts/mitsubishi-mini-split-e9-error/)
+- [Mitsubishi U6 Error Code — Causes & Fix](/posts/mitsubishi-u6-error-code/)
+- [Mitsubishi Mini Split E4 Error - Causes & Fix](/posts/mitsubishi-mini-split-e4-error-code/)
+- [Mitsubishi P5 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-p5-error-code/)

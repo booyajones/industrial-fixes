@@ -45,3 +45,10 @@ The E782 error code on a Navien tankless water heater indicates an abnormal oper
 ## When to Call a Pro
 
 Call a qualified Navien technician if you are not comfortable working with live electrical components or if the error persists after reseating connectors and cycling power. PCB replacement requires proper handling of control boards, matching your exact unit model, and verifying calibration settings after installation. A technician can also perform voltage and continuity tests on the communication circuit to isolate intermittent faults that are not obvious during visual inspection.
+
+## See Also
+
+- [Navien E008 Error Code - Causes & Fix](/posts/navien-tankless-e008-error-code/)
+- [Navien Error Code E013 — Causes & Fix](/posts/navien-error-code-e013/)
+- [Navien E009 Error Code — Causes & Fix](/posts/navien-error-code-e009/)
+- [Navien E302 Error Code — Causes & Fix](/posts/navien-error-code-e302/)

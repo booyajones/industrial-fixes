@@ -48,3 +48,10 @@ The error typically points to a configuration mistake, a loose or corroded senso
 ## When to Call a Pro
 
 Call a licensed heating technician if you are not comfortable working with low-voltage control wiring or if you do not have a multimeter and the factory resistance table for your model. A qualified service provider can quickly test the sensor circuit, verify outdoor reset programming, and replace the sensor or control board under warranty if applicable. Professional diagnosis is also recommended if the error returns after you have checked wiring and replaced the sensor, since persistent E740 may indicate a control board failure or a more complex system integration issue.
+
+## See Also
+
+- [Navien NPE-240S Tankless Water Heater Error Codes - Full Fault Guide](/posts/navien-npe-240s-error-codes/)
+- [Navien Error Code E004 — Causes & Fix](/posts/navien-error-code-e004/)
+- [Navien E110 Error Code - Causes & Fix](/posts/navien-tankless-e110-error-code/)
+- [Navien E006 Error Code - Causes & Fix](/posts/navien-tankless-e006-error-code/)

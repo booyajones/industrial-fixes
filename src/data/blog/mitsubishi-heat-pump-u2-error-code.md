@@ -49,3 +49,10 @@ Because Mitsubishi uses different fault code taxonomies across product families,
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not EPA-certified to handle refrigerants, if you cannot safely access the outdoor unit or compressor components, or if the fault persists after cleaning filters and verifying fans. Discharge-temperature faults involve refrigeration diagnostics, pressure measurement, leak detection, and precise recharging that require specialized tools and training. A technician will also confirm the exact U2 definition for your model, rule out control-board faults, and make sure the 49°C protection circuit is functioning correctly before releasing the unit back into service.
+
+## See Also
+
+- [Mitsubishi E2 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-e2-error-code/)
+- [Mitsubishi F0002 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-f0002-error-code/)
+- [Mitsubishi F0001 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-f0001-error-code/)
+- [Mitsubishi Mini Split E6 Error Code — Communication Error Indoor/Outdoor Fix](/posts/mitsubishi-mini-split-e6-error/)

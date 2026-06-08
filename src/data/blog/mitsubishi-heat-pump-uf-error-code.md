@@ -50,3 +50,10 @@ Mitsubishi groups this code with related faults like U6 (power module abnormal) 
 ## When to Call a Pro
 
 Call a licensed HVAC technician for any UF code. Diagnosing this fault requires a multimeter, knowledge of inverter-driven compressor systems, and the ability to safely work with high-voltage outdoor power boards. Misdiagnosing the fault and replacing the wrong part (PCB when the compressor is bad, or compressor when the board is bad) is expensive. A qualified technician has the inverter test equipment to isolate whether the fault is in the power module or the compressor, can safely discharge capacitors, and can handle refrigerant recovery if compressor replacement is needed. Do not attempt this repair yourself.
+
+## See Also
+
+- [Mitsubishi vs Daikin Mini-Splits — A Service Tech's Honest Comparison (2026)](/posts/mitsubishi-vs-daikin-mini-splits/)
+- [Mitsubishi F0006 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-f0006-error-code/)
+- [Mitsubishi E7 Error Code — Refrigerant Cycle Fault](/posts/mitsubishi-e7-error-code/)
+- [Mitsubishi EE Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-ee-error-code/)

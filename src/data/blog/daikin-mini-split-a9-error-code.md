@@ -47,3 +47,10 @@ A9 on a Daikin mini split indicates a malfunction of the electronic expansion va
 ## When to Call a Pro
 
 A9 repair involves live electrical diagnostics, refrigerant lines, and surface-mount control boards inside a sealed indoor unit. If you are not EPA-certified or do not have multimeter skills and Daikin service documentation for your model, call a licensed HVAC technician. Misdiagnosing the fault can lead to replacing the wrong part, and improper handling of the expansion valve or PCB can damage refrigerant circuits or create refrigerant leaks that are expensive to repair. Professional techs have access to Daikin's full fault-code tables, resistance specs for the EEV coil, and the correct replacement part numbers for your serial number.
+
+## See Also
+
+- [Daikin C4 Error Code — Heat Exchanger Coil Sensor: Causes & Fix](/posts/daikin-c4-error-code/)
+- [Daikin A5 Error Code - Causes & Fix](/posts/daikin-mini-split-a5-error-code/)
+- [Daikin Mini Split A8 Error Code - Causes & Fix](/posts/daikin-mini-split-a8-error-code/)
+- [Daikin Applied Chiller Fault Codes Guide — WMC / AGZ / ALZ Series](/posts/daikin-applied-fault-codes/)

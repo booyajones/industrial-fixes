@@ -51,3 +51,10 @@ This is not a transient fault. If the code appears, the system has detected a re
 ## When to Call a Pro
 
 Call a qualified HVAC technician immediately if you are not trained in heat pump diagnostics or if you are uncomfortable working with high-voltage electrical components. Compressor overcurrent faults require methodical diagnosis of power supply, control circuitry, and mechanical condition. Technicians use the fault history, wiring diagrams, voltage and current measurements, and model-specific service documentation to isolate the root cause. If the fault returns after a reset or if you see burned terminals, hear unusual compressor noise, or smell overheated components, do not attempt further resets and call for service.
+
+## See Also
+
+- [Mitsubishi U3 Error Code — Causes & Fix](/posts/mitsubishi-u3-error-code/)
+- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)
+- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
+- [Mitsubishi E4 Error Code — Causes & Fix](/posts/mitsubishi-e4-error-code/)

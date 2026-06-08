@@ -47,3 +47,10 @@ The U4 error on Mitsubishi Electric heat pumps and mini-splits indicates an open
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you do not have a multimeter and refrigeration safety training, if the fault persists after replacing the sensor, or if you cannot safely access the outdoor unit electrical components. Mitsubishi heat pumps contain live voltage, pressurized refrigerant, and require model-specific diagnostic tools to identify which thermistor has failed. A qualified technician can use the service controller menu to pinpoint the exact sensor, verify the control board thermistor input circuit, and make sure refrigerant integrity during the repair.
+
+## See Also
+
+- [Mitsubishi FR-D700 VFD Fault Codes — Complete Diagnostic Reference](/posts/mitsubishi-fr-d700-fault-codes/)
+- [Mitsubishi Mini Split Leaking Water - Causes & Fix](/posts/mitsubishi-mini-split-leaking-water/)
+- [Mitsubishi AL-29 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-al-29-error-code/)
+- [Mitsubishi Mini Split Not Cooling - Causes & Fix](/posts/mitsubishi-mini-split-not-cooling/)

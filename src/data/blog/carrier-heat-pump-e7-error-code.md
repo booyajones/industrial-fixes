@@ -51,3 +51,10 @@ This code typically appears when interconnect wiring between units is loose, dam
 ## When to Call a Pro
 
 Call a licensed HVAC technician if the error persists after power cycling and verifying mode settings, if you find burned or damaged wiring that requires running new cable through walls or attic spaces, or if you lack the wiring diagram and multimeter skills to test communication signals and control boards. Ductless and mini-split systems use low-voltage communication protocols and inverter electronics that are easily damaged by incorrect probing or part substitution. A technician will have the model-specific fault tables, board testers, and refrigerant recovery equipment needed to safely diagnose and replace control boards or inverter modules without losing refrigerant charge or voiding warranty coverage.
+
+## See Also
+
+- [Carrier Infinity 24VNA6 Heat Pump Error Codes - Greenspeed Fault Reference](/posts/carrier-24vna6-error-codes/)
+- [Carrier E8 Error Code - Causes & Fix](/posts/carrier-heat-pump-e8-error-code/)
+- [Carrier Error Code 30 - Causes & Fix](/posts/carrier-error-code-30/)
+- [Carrier E16 Error Code - Causes & Fix](/posts/carrier-heat-pump-e16-error-code/)

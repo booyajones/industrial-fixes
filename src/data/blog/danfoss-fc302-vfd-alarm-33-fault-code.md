@@ -48,3 +48,10 @@ In practical terms, the drive's inrush protection has tripped because it did not
 ## When to Call a Pro
 
 Call a qualified VFD technician or Danfoss service partner if Alarm 33 returns after you have allowed proper cooldown time, corrected any rapid power-cycling, and verified stable incoming power. Persistent inrush faults usually indicate an internal failure in the precharge relay, DC-link circuit, or power section that requires factory-level diagnostics and component replacement. Do not continue to reset and re-energize the drive if the fault repeats, as this can cause further damage to internal components.
+
+## See Also
+
+- [Danfoss FC302 Alarm 26 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-26-fault-code/)
+- [Danfoss FC302 Alarm 24 - Causes & Fix](/posts/danfoss-fc302-alarm-24-fault-code/)
+- [Danfoss VFD Fault OL — Causes & Fix](/posts/danfoss-vfd-fault-ol/)
+- [Danfoss AKC Controller Fault Codes - Complete Guide](/posts/danfoss-akc-controller-fault/)

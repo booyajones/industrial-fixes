@@ -59,3 +59,10 @@ If this part is failing you may also see one of these codes:
 ## When to Call a Pro
 
 This repair involves gas connections, combustion venting, and critical temperature sensors on a sealed-combustion appliance. If you are not comfortable working with gas shutoffs, vent disassembly, or verifying proper combustion after reassembly, call a licensed plumber or gas technician. Most jurisdictions require a licensed professional for any work on gas-fired water heaters. A pro will also pressure-test the new exchanger, verify vent integrity, and confirm that the unit meets local code before putting it back into service. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rheem Water Heater T&P Relief Valve Replacement - Signs & How-To](/posts/rheem-water-heater-temperature-pressure-relief-valve-t-p-tpr-replacement/)
+- [Rheem Water Heater Dip Tube Replacement - Signs & How-To](/posts/rheem-water-heater-dip-tube-cold-water-inlet-replacement/)
+- [Rheem Water Heater Thermocouple Replacement - Signs & How-To](/posts/rheem-water-heater-thermocouple-gas-pilot-sensor-replacement/)
+- [Rheem Furnace Error Codes — All Flash Codes Explained](/posts/rheem-furnace-error-codes/)

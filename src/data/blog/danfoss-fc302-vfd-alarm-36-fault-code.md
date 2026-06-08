@@ -47,3 +47,10 @@ In plain terms, the FC302 is saying it cannot see stable mains power on its line
 ## When to Call a Pro
 
 Call a qualified electrician or automation technician if you are not comfortable working with three-phase mains voltage, if the alarm persists after replacing fuses and verifying all connections, or if you measure unstable or missing phases at the upstream panel. A licensed professional can safely trace the supply circuit, measure phase balance under load, and verify grounding and bonding meet code. If the drive continues to report Alarm 36 with confirmed good incoming power and correct parameter settings, the internal power-supply stage may have failed and the unit will need factory repair or replacement by someone trained on Danfoss VFDs.
+
+## See Also
+
+- [Danfoss FC302 Alarm 32 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-32-fault-code/)
+- [Danfoss FC302 Alarm 52 - AMA Low Inom Causes & Fix](/posts/danfoss-fc302-vfd-alarm-52-fault-code/)
+- [Danfoss FC302 Alarm 54 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-54-fault-code/)
+- [Danfoss FC302 Alarm 34 - Causes & Fix](/posts/danfoss-fc302-alarm-34-fault-code/)

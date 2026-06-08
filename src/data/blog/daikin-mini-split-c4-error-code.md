@@ -50,3 +50,10 @@ This is a sensor circuit problem, not a refrigerant or compressor issue. In most
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working inside a live mini-split indoor unit or measuring resistance with a multimeter. A qualified tech has the exact Daikin sensor specifications, can safely test the PCB, and can verify refrigerant temperatures match the sensor readings after repair. If you replace the thermistor yourself and C4 returns immediately, the indoor board likely needs professional diagnosis or factory replacement.
+
+## See Also
+
+- [Daikin H6 Error Code — Indoor Fan Motor Lock Fault Fix](/posts/daikin-h6-error-code/)
+- [Daikin E8 Error Code - Causes & Fix](/posts/daikin-heat-pump-e8-error-code/)
+- [Daikin U0 Error Code - Causes & Fix](/posts/daikin-heat-pump-u0-error-code/)
+- [Daikin RXYQ VRV System Error Codes — Complete Fault Code Guide](/posts/daikin-rxyq-error-codes/)

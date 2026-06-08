@@ -58,3 +58,10 @@ If this part is failing you may also see one of these codes:
 ## When to Call a Pro
 
 Call a licensed plumber or electrician if you are not comfortable working with 240-volt circuits, if the breaker continues to trip after element replacement, or if you find active leaking from the tank body rather than just the element gasket. If the tank is more than ten years old and you are replacing a second element, a full tank replacement may be more cost-effective than continued part-by-part repair. Any service that requires welding, pressure-vessel modification, or work on gas lines (if you have a gas model) should always be handled by a qualified professional. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rheem Furnace 8 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-8-flashes/)
+- [Rheem XE50T10HS45U1 Problems & Error Codes](/posts/rheem-xe50t10hs45u1-water-heater-problems/)
+- [Rheem Water Heater Blinking Light Codes — What Each Flash Means and How to Fix It](/posts/rheem-water-heater-blinking-light-codes/)
+- [Rheem A01 Error Code - Causes & Fix](/posts/rheem-heat-pump-a01-error-code/)

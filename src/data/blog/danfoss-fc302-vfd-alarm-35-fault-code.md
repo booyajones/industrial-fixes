@@ -46,3 +46,10 @@ ALARM 35 on a Danfoss VLT AutomationDrive FC 302 means an option fault. The driv
 ## When to Call a Pro
 
 Call a qualified VFD technician or Danfoss-certified service partner if you are not trained in safe high-voltage lockout, option module installation, or industrial drive diagnostics. A professional can perform Danfoss-specific isolation tests, verify firmware compatibility between the drive and the option, and safely handle control card replacement or advanced communication troubleshooting. Always call for support if the alarm persists after reseating and wiring checks, or if your application requires continuous uptime and you cannot afford trial-and-error part replacement.
+
+## See Also
+
+- [Danfoss FC302 ALARM 22 - Causes & Fix](/posts/danfoss-fc302-alarm-22-fault-code/)
+- [Danfoss FC302 ALARM 33 - Causes & Fix](/posts/danfoss-fc302-alarm-33-fault-code/)
+- [Danfoss VFD Fault UL — Causes & Fix](/posts/danfoss-vfd-fault-ul/)
+- [Danfoss AKC Controller Fault Codes - Complete Guide](/posts/danfoss-akc-controller-fault/)

@@ -244,5 +244,47 @@
     "score": 6,
     "reason": "Research explicitly states E38 cannot be verified for GA800; draft speculates on causes/fixes without manufacturer confirmation, violating requirement (1) for documented real code.",
     "date": "2026-06-07"
+  },
+  "yaskawa-ga800-vfd-e48-fault-code": {
+    "topic": "Yaskawa GA800 VFD E48 fault code",
+    "score": 3,
+    "reason": "Research explicitly states E48 meaning for GA800 cannot be verified from manufacturer sources; draft proceeds anyway with unverified 'communication-related fault' claim, failing authenticity requirement.",
+    "date": "2026-06-08"
+  },
+  "yaskawa-ga800-vfd-e49-fault-code": {
+    "topic": "Yaskawa GA800 VFD E49 fault code",
+    "score": 3,
+    "reason": "The research explicitly states E49 is NOT verifiable from manufacturer sources for the GA800; the draft publishes unverified content as fact, violating rule #1.",
+    "date": "2026-06-08"
+  },
+  "yaskawa-ga800-vfd-e54-fault-code": {
+    "topic": "Yaskawa GA800 VFD E54 fault code",
+    "score": 3,
+    "reason": "E54 is explicitly NOT verified as a real GA800 code in the research; the draft invents a meaning (STO-related) based on speculation, violating the requirement that codes must be documented for this exact brand and model.",
+    "date": "2026-06-08"
+  },
+  "yaskawa-ga800-vfd-e57-fault-code": {
+    "topic": "Yaskawa GA800 VFD E57 fault code",
+    "score": 4,
+    "reason": "Research explicitly states E57 exact meaning cannot be verified from available sources and warns against guessing specs; draft proceeds anyway with unverified 'communication or option-related' content that may be inaccurate for this specific code.",
+    "date": "2026-06-08"
+  },
+  "yaskawa-ga800-vfd-e60-fault-code": {
+    "topic": "Yaskawa GA800 VFD E60 fault code",
+    "score": 3,
+    "reason": "E60 is NOT a documented GA800 fault code per research; the draft correctly identifies this but then creates full troubleshooting content for an unverified code, which violates requirement #1.",
+    "date": "2026-06-08"
+  },
+  "yaskawa-ga800-vfd-e63-fault-code": {
+    "topic": "Yaskawa GA800 VFD E63 fault code",
+    "score": 3,
+    "reason": "Research explicitly states E63 cannot be verified for the GA800 from manufacturer sources; the draft attempts to publish content about an unconfirmed code, violating requirement #1.",
+    "date": "2026-06-08"
+  },
+  "yaskawa-ga800-vfd-e64-fault-code": {
+    "topic": "Yaskawa GA800 VFD E64 fault code",
+    "score": 3,
+    "reason": "Research explicitly states E64 description is NOT found in available GA800 documentation, yet draft presents detailed causes/fixes as factual\u2014fails authenticity requirement for this exact brand+model combination.",
+    "date": "2026-06-08"
   }
 }

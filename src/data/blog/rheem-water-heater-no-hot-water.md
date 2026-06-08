@@ -59,3 +59,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a licensed plumber or gas technician if you see a persistent fault code after checking gas supply and water flow, if you are not comfortable working with gas connections or combustion components, or if the fault returns immediately after a reset. Ignition, flame sensing, venting, and gas-pressure work on tankless and gas water heaters require specialized tools and knowledge of combustion safety. A pro will diagnose the exact code, test gas pressure and flow rates, inspect venting for code compliance, and replace sensors or control boards as needed. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rheem Water Heater Water Too Hot - Causes & Fix](/posts/rheem-water-heater-water-too-hot/)
+- [Rheem RTEX Electric Tankless Water Heater Error Codes](/posts/rheem-rtex-electric-tankless-error-codes/)
+- [Rheem Furnace 4 Flashes - Causes & Fix](/posts/rheem-furnace-4-flashes-error-code/)
+- [Rheem A01 Error Code - Causes & Fix](/posts/rheem-water-heater-a01-error-code/)

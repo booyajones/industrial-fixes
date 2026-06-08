@@ -68,3 +68,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a licensed HVAC technician if the unit shows a flashing operation lamp with a fault code, if you have confirmed the mode and filters are correct but the air is still warm, or if you suspect low refrigerant. Refrigerant work requires EPA certification, recovery equipment, and proper charging by superheat or subcooling. A pro will retrieve any stored fault codes, measure system pressures and temperatures, check for leaks with electronic detectors, inspect the compressor and reversing valve, verify indoor and outdoor fan operation, and test control boards and communication between the indoor and outdoor units. Do not attempt to add refrigerant yourself or bypass any safety controls.
+
+## See Also
+
+- [Daikin Mini Split Error Codes — Complete Reference](/posts/daikin-mini-split-error-codes/)
+- [Daikin U4 Error Code — Indoor-Outdoor Communication Fix](/posts/daikin-error-code-u4/)
+- [Daikin U3 Error Code - Causes & Fix](/posts/daikin-u3-error-code/)
+- [Daikin F6 Error Code - Causes & Fix](/posts/daikin-heat-pump-f6-error-code/)

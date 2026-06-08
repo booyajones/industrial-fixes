@@ -48,3 +48,10 @@ LG's support documentation confirms tE1 as a thermistor-related fault and recomm
 ## When to Call a Pro
 
 Call a qualified appliance technician if you are uncomfortable working with multimeters or accessing internal components, if the dryer shows any sign of burning smell or scorch marks near the heater or blower, or if the code returns after you have verified the thermistor resistance and wiring are good. A pro can cross-reference the exact factory resistance spec for your model, perform live voltage checks on the control board, and diagnose whether the fault is in the sensor circuit or the control itself. If the dryer is still under warranty or you lack the service manual with component location diagrams, professional diagnosis will save time and avoid unnecessary part replacement.
+
+## See Also
+
+- [LG Dryer LE2 Error Code - Causes & Fix](/posts/lg-dryer-le2-error-code/)
+- [LG Refrigerator CO Error Code - Causes & Fix](/posts/lg-refrigerator-co-error-code/)
+- [LG Refrigerator Leaking Water - Causes & Fix](/posts/lg-refrigerator-leaking-water/)
+- [LG WM3500CW Washer Problems & Error Codes](/posts/lg-wm3500cw-washer-problems/)

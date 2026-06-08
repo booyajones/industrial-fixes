@@ -50,3 +50,10 @@ The most common trigger is inadequate heat rejection at the outdoor coil. When h
 ## When to Call a Pro
 
 Call a qualified HVAC technician if the E9 code returns after you have cleared obstructions, verified good airflow, and confirmed the sleeve fit is correct. A pro can measure actual refrigerant pressures, test the high-pressure switch or sensor with accurate gauges, and safely recover and recharge refrigerant if needed. If you see frost on the copper lines, hear unusual compressor noise, or smell anything abnormal, stop the unit immediately and get professional help. Refrigerant work and pressure diagnostics require EPA certification and specialized tools that are not safe or legal for unlicensed individuals to perform.
+
+## See Also
+
+- [Carrier Infinity Error Code 179 — What It Means and How to Fix It](/posts/carrier-infinity-error-179/)
+- [Carrier Infinity 24VNA6 Heat Pump Error Codes - Greenspeed Fault Reference](/posts/carrier-24vna6-error-codes/)
+- [Carrier Heat Pump E2 Error Code - Causes & Fix](/posts/carrier-heat-pump-e2-error-code/)
+- [Carrier E3 Error Code — Causes & Fix](/posts/carrier-error-code-e3/)

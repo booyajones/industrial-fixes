@@ -45,3 +45,10 @@ On LG dryers and Stylers with steam capability, the E4 code indicates the heater
 ## When to Call a Pro
 
 Call a professional if the E4 code persists after you have unplugged the unit, cleaned the water tank and drain tray, and confirmed only water has been used. The repair requires live voltage tests of the steam heater circuit and control board outputs, tools most homeowners do not own. LG directs you to request service when the code returns after reset and cleaning because the fault lies in a sealed steam assembly that is not user-serviceable.
+
+## See Also
+
+- [LG OE Error Code - Causes & Fix](/posts/lg-range-oe-error-code/)
+- [LG Refrigerator Not Making Ice - Causes & Fix](/posts/lg-refrigerator-not-making-ice/)
+- [LG Range PE Error Code - Causes & Fix](/posts/lg-range-pe-error-code/)
+- [LG Dryer Won't Tumble - Causes & Fix](/posts/lg-dryer-wont-tumble/)

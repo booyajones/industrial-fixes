@@ -48,3 +48,10 @@ The fault means the drive cannot establish or maintain proper electrical contact
 ## When to Call a Pro
 
 Call a qualified VFD technician or contact Yaskawa technical support if reseating and swapping the option card does not clear the E14 fault. A persistent fault after these steps typically indicates a damaged control board or internal interface that requires factory-level diagnosis and repair. Yaskawa's maintenance guidance is limited to fan and control board replacement, and further internal repairs are outside the scope of field service. Also call a professional if you are not trained in VFD lockout/tagout procedures or if the drive is part of a critical process that requires certified troubleshooting and documentation.
+
+## See Also
+
+- [Yaskawa GA800 E33 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e33-fault-code/)
+- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
+- [Yaskawa V1000 OC Fault — Overcurrent](/posts/yaskawa-v1000-fault-oc/)
+- [Yaskawa GA800 E44 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e44-fault-code/)

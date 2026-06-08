@@ -46,3 +46,10 @@ The A7 error code on a Daikin mini split indicates a malfunction of the swing fl
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you are not comfortable working inside the indoor unit or if you cannot locate the swing motor. If the fault returns after clearing obstructions and reseating connectors, a technician with the model-specific service manual can perform voltage and resistance tests on the motor and board to isolate the defective component. Refrigerant work is not required for A7, but accessing the motor often requires partial disassembly of the indoor unit and some models have fragile plastic parts that are easy to damage without proper experience.
+
+## See Also
+
+- [Daikin Mini Split A8 Error Code - Causes & Fix](/posts/daikin-mini-split-a8-error-code/)
+- [Daikin A6 Error Code - Causes & Fix](/posts/daikin-heat-pump-a6-error-code/)
+- [Daikin E2 Error Code - Causes & Fix](/posts/daikin-e2-error-code/)
+- [Daikin H6 Error Code — Indoor Fan Motor Lock Fault Fix](/posts/daikin-h6-error-code/)

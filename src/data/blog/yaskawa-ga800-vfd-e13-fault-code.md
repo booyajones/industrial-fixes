@@ -46,3 +46,10 @@ This error typically appears after commissioning, parameter changes, or initiali
 ## When to Call a Pro
 
 Call a qualified Yaskawa technician or controls integrator if you cannot identify which parameter is triggering E13, if the error returns immediately after correction and power cycle, or if the drive was recently installed and you are unfamiliar with VFD commissioning procedures. Also contact Yaskawa technical support if the error appears alongside other fault codes or if the keypad becomes unresponsive, since control-board or option-card hardware failure may require factory repair or replacement beyond typical field service scope.
+
+## See Also
+
+- [Yaskawa GA800 E28 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e28-fault-code/)
+- [Yaskawa GA800 E42 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e42-fault-code/)
+- [Yaskawa GA800 E55 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e55-fault-code/)
+- [Yaskawa GA800 E01 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e01-fault-code/)

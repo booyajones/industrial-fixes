@@ -47,3 +47,10 @@ HE stands for a heating error. The control board checked the heating circuit and
 ## When to Call a Pro
 
 On gas dryers the igniter, flame sensor, and gas valve sit on the burner and involve a live gas line, so bring in a licensed appliance pro for that work. Call a pro too if the new fuse keeps blowing after the vent is clean, since that points to a deeper wiring or control fault.
+
+## See Also
+
+- [LG Dryer Won't Tumble - Causes & Fix](/posts/lg-dryer-wont-tumble/)
+- [LG Dishwasher CR Error Code - Causes & Fix](/posts/lg-dishwasher-cr-error-code/)
+- [LG Microwave F4 Error - Causes & Fix](/posts/lg-microwave-f4-error-code/)
+- [LG LFXS28968S Refrigerator Problems & Error Codes](/posts/lg-lfxs28968s-refrigerator-problems/)
