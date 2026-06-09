@@ -44,6 +44,8 @@ def is_target(slug: str, head: str) -> bool:
         return False
     if re.search(r"^draft:\s*true", head, re.M):
         return False
+    if re.search(r"^diy_or_pro:", head, re.M):  # already deepened; skip so re-runs are idempotent
+        return False
     if not any(b in slug for b in CONSUMER_BRANDS):
         return False
     if not any(a in slug for a in APPLIANCES):

@@ -1,47 +1,73 @@
 ---
 title: "Samsung Microwave E-33 Error - Causes & Fix"
-description: "E-33 means Under Weight Error: the microwave sees too little weight for the auto-cook mode. Reset power first, then check load size."
-pubDatetime: 2026-05-31T07:04:08Z
-modDatetime: 2026-05-31T07:04:08Z
-author: "Marcus Webb"
+description: "E-33 is Samsung's Under Weight Error. Power-reset the microwave (unplug 60 sec). If it returns, call service for sensor or control diagnosis."
+pubDatetime: 2026-06-06T03:06:55Z
+modDatetime: 2026-06-06T03:06:55Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - microwave
   - samsung
+diy_or_pro: "diy"
 ---
 
 ## Samsung Microwave E-33 Error — What It Means
 
-The E-33 code on Samsung microwaves means Under Weight Error. The weight-sensing system detects a load below the minimum threshold required for the selected automatic or sensor-based cooking program, so the controller refuses to start the cycle. This can happen because the food or container is genuinely too light for the chosen mode, the wrong program was selected, or a component in the weight-sensing circuit is faulty and misreporting the load to the control board.
+Samsung lists E-33 as an Under Weight Error in its microwave error-code tables. On models that use weight-sensing or cook logic, the control board believes the sensed load is below the valid range for the programmed operation. Samsung does not publish detailed root-cause information for E-33 beyond that label, so the exact sensor or circuit involved depends on your microwave model and should be confirmed with the service manual.
+
+Samsung's published guidance is to unplug the microwave or turn it off at the circuit breaker for 60 seconds, then restart. If E-33 returns after the power reset, contact Samsung service rather than continuing user-level troubleshooting. Some models may also throw E-33 if the control electronics were exposed to steam or spills and need time to dry.
+
+## Before You Replace Anything
+
+Because Samsung does not publish which component triggers E-33, avoid ordering a weight sensor, humidity sensor, or control board until you perform a power reset and confirm the code persists. Many E-33 codes clear with a simple 60-second power cycle.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Food weight below program minimum** The item on the turntable is lighter than the automatic cook mode requires, so the controller rejects the cycle.
-- **Wrong auto-cook mode selected** The chosen program expects a heavier load than what is actually in the cavity.
-- **Faulty weight-sensing component** A defect in the sensor or its signal path causes the control board to read the load as too light even when weight is normal.
-- **Control board glitch or power interruption** A temporary software fault, moisture, or interrupted power can trigger the code without a hardware failure.
+- **Transient control glitch** A brief fault in the control memory can log E-33 even when the hardware is fine, and a 60-second power reset clears the stored code.
+- **Moisture on control board** Steam or liquid spills inside the cabinet can cause erratic sensor readings until the electronics dry out.
+- **Weight or humidity sensor fault** If your model uses a load-sensing element, a failed sensor or corroded connector may report an out-of-range signal that the control interprets as under weight.
+- **Damaged sensor wiring** A chafed or disconnected harness between the sensor and the control board can produce an open-circuit reading that triggers the under-weight logic.
+- **Control board failure** A fault in the analog-to-digital conversion or sensor-input circuitry on the main board can misread valid sensor signals as below threshold.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does E-33 appear immediately on power-up, before you press any buttons?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The control is detecting a fault at startup. Proceed with a full power reset (unplug 60 seconds) and check for moisture inside the cabinet.<br><strong>No:</strong> The code triggers during or after a cook cycle. Note which function you selected, then perform a power reset and retry the same cycle to see if E-33 returns.</div>
+</details>
+
+<details class="dtree"><summary>Did you recently spill liquid or see heavy steam inside the microwave?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Moisture may be affecting the control or sensor circuits. Leave the door open and allow the interior to air-dry for a few hours, then power-reset and test.<br><strong>No:</strong> Proceed directly to the 60-second power reset and monitor for repeat codes.</div>
+</details>
+
+<details class="dtree"><summary>After a 60-second power reset, does E-33 come back on the first cook attempt?</summary>
+<div class="dtree-body"><strong>Yes:</strong> A hardware fault in the sensor, wiring, or control board is likely. Contact Samsung service or a qualified technician for model-specific diagnosis.<br><strong>No:</strong> The fault was transient. Continue normal use and watch for recurrence.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Unplug the microwave** or switch off the circuit breaker, wait 60 seconds, then restore power to reset the controller.
-2. **Verify the load weight** matches the minimum for the selected auto-cook or sensor program, and confirm you have chosen the correct mode for the food type.
-3. **Test with a different cook mode** or use manual time/power settings to check whether the code appears only in weight-sensing modes.
-4. **Inspect the turntable and cavity** for obstructions, moisture, or debris that could interfere with the weight-sensing mechanism.
-5. **Check harness connections** at the control board and any visible sensor leads for looseness, corrosion, or damage.
-6. **Replace the faulty component** if diagnostics confirm a defective weight sensor or control board interpretation circuit.
-7. **Consult the service manual** for your model to identify the exact sensing hardware and board part numbers before ordering replacement parts.
+1. **Turn off power** by unplugging the microwave from the wall outlet or switching off the dedicated circuit breaker at your panel.
+2. **Wait a full 60 seconds** to allow the control board's capacitors to discharge and memory to clear.
+3. **Restore power** and check that the display lights normally without showing E-33 at startup.
+4. **Run a short test cycle** with a cup of water on the normal microwave setting to confirm the error does not return.
+5. **Inspect the interior and vents** for any signs of liquid spills or condensation, and wipe dry if present.
+6. **If E-33 reappears**, note the exact model number from the label inside the door or on the back panel and contact Samsung support or a service technician.
+7. **Do not attempt to disassemble** the cabinet or remove the control board without disconnecting power and consulting your model's service manual.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Main control board (PCB) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-microwave-e-33-error-code&k=Main+control+board+%28PCB%29&tag=errorcodefixes-20) \| Required if the fault is in the load-interpretation circuit. Match the exact model number. |
-| Weight-sensing component | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-microwave-e-33-error-code&k=Weight-sensing+component&tag=errorcodefixes-20) \| Model-specific sensor hardware, if separately serviceable. Confirm part number from the service diagram. |
+| Weight or humidity sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-microwave-e-33-error-code&k=Weight+or+humidity+sensor&tag=errorcodefixes-20) \| Model-specific part; verify from your service manual or Samsung parts lookup before ordering. |
+| Main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-microwave-e-33-error-code&k=Main+control+board&tag=errorcodefixes-20) \| Required only if sensor and wiring test good and the board is confirmed faulty by a technician. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if the power reset does not clear the code or if E-33 returns after you have confirmed the load size and cooking mode are correct. Diagnosing the weight-sensing circuit and control board requires model-specific service documentation, a multimeter, and experience with microwave high-voltage safety. Samsung directs customers to professional service when the reset fails, and component-level repair involves parts that vary by model.
+Call a technician if E-33 returns after a 60-second power reset, if you see physical damage to the control board or wiring harness, or if you are uncomfortable working near high-voltage capacitor circuits inside the microwave cabinet. Samsung's published guidance is to escalate to service when a power reset does not clear the code. A qualified technician will use the model-specific service manual to locate the exact weight or humidity sensor, measure signal voltages, and replace only the failed component rather than guessing at parts.
+
+**Rough cost:** A pro service call runs about $150–$300 service call and diagnosis.

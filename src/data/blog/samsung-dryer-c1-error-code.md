@@ -1,52 +1,75 @@
 ---
 title: "Samsung Dryer C1 Error Code - Causes & Fix"
-description: "C1/CL1 means laundry detected in the drum. Remove all laundry, close the door fully, and reset the dryer to clear the code."
-pubDatetime: 2026-05-31T03:29:44Z
-modDatetime: 2026-05-31T03:29:44Z
-author: "Marcus Webb"
+description: "C1/CL1 means the dryer detects laundry in the drum when it expects it empty. Remove all items, power-cycle the unit, and restart."
+pubDatetime: 2026-06-06T02:12:46Z
+modDatetime: 2026-06-06T02:12:46Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dryer
   - samsung
+most_likely_cause: "Clothing or items left in the drum"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Samsung Dryer C1 Error Code — What It Means
 
-The C1 or CL1 error code on a Samsung dryer indicates that laundry is detected inside the drum. Samsung's guidance is straightforward: open the door, remove all items, and try again. If the drum is completely empty when the code appears, the dryer may have a door latch issue, a stuck control panel button, or a false sensor reading that requires service. The code can also appear if the door is not fully latched or if an item is caught at the door seal, preventing proper closure.
+The Samsung dryer C1 (also displayed as CL1) code means the machine believes there is clothing or another item inside the drum when it expects the drum to be empty. This is not a temperature sensor fault or a vent blockage warning. The dryer's control system has detected something that prevents it from starting a new cycle or calibration routine.
 
-Samsung also ties this code to electrical supply conditions. The dryer must be on its own dedicated circuit with the correct voltage, using a properly installed power cord and no extension cord. If the code persists after basic checks, the control system may be misreading the drum state or door position.
+Samsung's published troubleshooting directs users to remove any laundry from the drum and try the cycle again. If the drum is already empty and the code persists, the issue is likely a false detection caused by a control board glitch, a door latch problem, or interference with the door closure. Samsung instructs users to request service if the code continues after the drum is cleared.
+
+## Before You Replace Anything
+
+Homeowners sometimes replace the main control board when the real problem is a faulty door switch or latch. Check that the door clicks firmly shut and test the door switch continuity with a multimeter before replacing any boards.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Laundry left in the drum** The most common cause is simply a forgotten load still inside the dryer when you try to start a new cycle.
-- **Door not fully latched** If the door is not completely closed or the latch is not engaging, the dryer will not recognize an empty drum.
-- **Item caught at the door** Clothing, a belt, or debris wedged between the door and seal can prevent full closure and trigger the code.
-- **Stuck control panel button** A button on the user interface that is stuck or registering continuous input can cause a false C1/CL1 code.
-- **Improper power supply** Using an extension cord, sharing a circuit, or incorrect supply voltage can trigger control errors including C1/CL1.
-- **Faulty door switch or control board** If the drum is empty and the code remains after all checks, the door switch or main control may be sending a false signal.
+- **Laundry left in drum** The dryer detects fabric or other items inside when it runs a start-up or calibration check.
+- **Temporary control board glitch** A transient error in the main control or user interface can trigger a false C1 detection even when the drum is empty.
+- **Door latch or switch malfunction** A worn or misaligned door switch or latch may send incorrect signals to the control board about drum status or door closure.
+- **Power supply issue** Insufficient voltage, a shared circuit, or an incorrectly installed power cord (on electric models) can cause intermittent control faults including C1.
+- **Obstruction preventing door closure** Lint, fabric, or debris around the door seal or latch area can stop the door from latching fully and trigger a drum-status error.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Is there any clothing, fabric, or other item inside the drum?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Remove all items completely, close the door, and restart the cycle. The code should clear.<br><strong>No:</strong> Proceed to the next check: the drum is empty and the problem is likely electrical or mechanical.</div>
+</details>
+
+<details class="dtree"><summary>Does the door click firmly shut and stay latched when you close it?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The door latch is likely working. Move on to a power-cycle reset to clear a control glitch.<br><strong>No:</strong> Inspect the door latch and strike for wear, alignment, or debris. Clean or replace the door switch assembly as needed.</div>
+</details>
+
+<details class="dtree"><summary>After removing all items and power-cycling (unplug 60 seconds, plug back in), does the C1 code still appear?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The control board, door switch circuit, or user interface is likely at fault. Request service or test the door switch with a multimeter.<br><strong>No:</strong> The issue was a temporary glitch or items in the drum. Resume normal operation.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Open the door and remove all laundry** from the drum, then close the door firmly and see if the code clears.
-2. **Inspect the door latch and seal** for any clothing, lint, or debris that might prevent the door from closing completely and engaging the latch.
-3. **Power off the dryer** by unplugging it or switching off the circuit breaker, wait 60 seconds, then restore power and test again.
-4. **Check every button on the control panel** by touching and releasing each one to confirm none are stuck or continuously registering input.
-5. **Verify the power supply** by confirming the dryer is on its own dedicated circuit, not using an extension cord, and that the power cord is correctly installed with the proper voltage.
-6. **Run a test cycle with an empty drum** after the reset to see if the code reappears.
-7. **Request service if the code persists** with an empty drum after all checks, as Samsung recommends professional diagnosis when C1/CL1 appears without laundry present.
+1. **Open the door and remove all items** from the drum, including small articles that may be caught in folds or around the baffles.
+2. **Inspect the door seal and latch area** for lint, fabric fragments, or debris that could prevent full closure, and wipe clean if needed.
+3. **Close the door firmly** until you hear and feel a click, confirming the latch has engaged.
+4. **Unplug the dryer** (or flip the breaker off) and wait 60 seconds to clear any temporary control-board memory, then restore power.
+5. **Restart the dryer cycle** and observe whether the C1 code clears and the machine begins normally.
+6. **Verify the dryer is on its own dedicated circuit** and that an electric model has the correct voltage supply and a properly installed power cord (no extension cords).
+7. **If the code persists with an empty drum** after these checks, request service to diagnose the door switch, main control board, or user-interface panel.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Door latch assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dryer-c1-error-code&k=Door+latch+assembly&tag=errorcodefixes-20) \| Replace if the door does not latch securely or the switch does not register when closed. |
-| User interface control panel | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dryer-c1-error-code&k=User+interface+control+panel&tag=errorcodefixes-20) \| Needed if buttons are stuck or the panel is sending false inputs to the control board. |
-| Main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dryer-c1-error-code&k=Main+control+board&tag=errorcodefixes-20) \| Required if the fault persists after door and panel checks, indicating a false sensor reading. |
+| Samsung dryer door switch / latch assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dryer-c1-error-code&k=Samsung+dryer+door+switch+%2F+latch+assembly&tag=errorcodefixes-20) \| Confirm your model number before ordering. The switch should show continuity when the door is closed and open circuit when open. |
+| Samsung dryer main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dryer-c1-error-code&k=Samsung+dryer+main+control+board&tag=errorcodefixes-20) \| Replace only after confirming the door switch and power supply are correct. Match the board part number to your model. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if the C1 or CL1 code appears with an empty drum and does not clear after a power reset and door inspection. Samsung directs users to request service in this scenario because the fault points to a door switch, control panel, or main board issue that requires diagnostic tools and model-specific troubleshooting. Also call for help if you are uncomfortable working with the power supply or if the dryer shares a circuit and you need an electrician to install a dedicated line.
+Call a professional if the C1 code remains after you have emptied the drum, power-cycled the machine, confirmed the door closes and latches properly, and verified the dryer is on its own circuit with correct voltage. Samsung's published guidance directs users to request service when the code persists with an empty drum. A technician will test the door switch circuit, inspect the main control board, and check the user-interface panel with a multimeter and wiring diagram. If you are uncomfortable working with 240-volt electric dryer circuits or disassembling control panels, professional diagnosis is the safer choice.
+
+**Rough cost:** DIY runs about $15-80 in parts (door switch or latch), 20-45 min. A pro service call runs about $150-280 for service call and part replacement.

@@ -1,49 +1,76 @@
 ---
 title: "Samsung Microwave E-61 Error - Causes & Fix"
-description: "E-61 means an open humidity sensor circuit. The most likely fix is reconnecting or replacing the humidity sensor or its wiring harness."
-pubDatetime: 2026-05-31T07:33:36Z
-modDatetime: 2026-05-31T07:33:36Z
-author: "Dana Kowalski"
+description: "E-61 means an open humidity sensor error. The most common fix is replacing the humidity sensor or repairing its wiring harness."
+pubDatetime: 2026-06-06T03:15:20Z
+modDatetime: 2026-06-06T03:15:20Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - microwave
   - samsung
+most_likely_cause: "failed humidity sensor"
+likelihood: "the most common cause"
+diy_or_pro: "pro"
 ---
 
 ## Samsung Microwave E-61 Error — What It Means
 
-The E-61 error code on Samsung microwaves indicates an open humidity sensor error. The control board is not receiving the expected signal from the humidity sensor circuit, registering it as an open or incomplete electrical path. This sensor monitors moisture levels during cooking, and when the circuit is open the microwave cannot operate normally. The fault can be a failed sensor, disconnected or damaged wiring, or occasionally a control board issue if the sensor and harness test good.
+The E-61 code on a Samsung microwave indicates an open humidity sensor error. This means the control board is not detecting the humidity sensor circuit in its expected electrical state. The board has registered an open (broken or disconnected) condition in the sensor circuit, as opposed to a short or other fault.
+
+The humidity sensor monitors steam levels inside the cavity during cooking cycles. When the control board cannot read the sensor at all, it throws E-61 and typically halts operation to prevent running cycles blind. Samsung distinguishes E-61 (open sensor) from E-62 (shorted sensor), so the fault is specifically a missing or interrupted signal rather than a sensor reading out of range.
+
+## Before You Replace Anything
+
+Many users replace the main control board first when E-61 appears, but the fault is usually at the humidity sensor itself or its connector. Always check sensor continuity and inspect the harness plug for corrosion before ordering a new board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed humidity sensor** The sensor itself has failed internally and reads as an open circuit to the control board.
-- **Disconnected or loose wiring harness** The connector between the humidity sensor and the control board has come loose, corroded, or separated.
-- **Damaged sensor wiring** Wires in the humidity sensor circuit are broken, pinched, or melted from heat exposure.
-- **Moisture or steam buildup** Temporary moisture inside the control area can trigger a false open sensor reading until the unit dries out.
-- **Control board fault** The main control board incorrectly reports an open circuit even when the sensor and wiring are intact.
+- **Failed humidity sensor** The sensor element itself has gone open-circuit internally, so the control board sees no connection.
+- **Disconnected or loose sensor connector** Vibration or service work can unseat the plug at the sensor or at the control board, breaking the circuit.
+- **Corroded or moisture-damaged connector pins** Steam and heat can corrode the small pins in the sensor harness, creating an intermittent or permanent open.
+- **Broken wire in the sensor harness** Flexing over time or accidental pinching can snap one of the fine wires between the sensor and the board.
+- **Control board input fault** If the sensor circuit and wiring test normal but the code persists, a failed trace or input stage on the main PCB can also register as an open sensor.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the error clear for several minutes after you unplug the microwave for 60 seconds and then plug it back in?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The control board is booting normally and the fault may be intermittent. Inspect the humidity sensor connector for loose seating or light corrosion and reseat it firmly.<br><strong>No:</strong> The error returns immediately, which points to a hard open in the sensor circuit. Proceed to inspect the sensor and harness for visible damage or continuity faults.</div>
+</details>
+
+<details class="dtree"><summary>Can you locate the humidity sensor (usually a small cylindrical or rectangular module mounted near the vent or cavity ceiling) and see any visible burn marks, melted plastic, or disconnected wires?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Physical damage is present. Replace the humidity sensor assembly and repair or replace any damaged sections of the harness.<br><strong>No:</strong> No visible damage means the fault is electrical. Test the sensor for continuity and check connector pins for corrosion before replacing parts.</div>
+</details>
+
+<details class="dtree"><summary>With power off, do you measure infinite resistance (open circuit) across the humidity sensor terminals when you disconnect it from the harness and test it with a multimeter?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The sensor has failed open. Replace the humidity sensor assembly.<br><strong>No:</strong> The sensor shows some resistance, so the open fault is likely in the wiring harness, connector, or control board input. Inspect connectors and test harness continuity next.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. Unplug the microwave or turn off the circuit breaker and wait at least 60 seconds to allow the control board to reset and any moisture to settle.
-2. Restore power and run a brief test cycle. If the E-61 code does not return, the issue was temporary moisture or a momentary glitch.
-3. If the code reappears, unplug the unit again and remove the outer cabinet panels to access the humidity sensor and its wiring harness.
-4. Inspect the humidity sensor connector and all associated wiring for loose terminals, corrosion, heat damage, or visible breaks in the wire insulation.
-5. Test the humidity sensor resistance using a multimeter if you have access to the service manual specifications for your model. If the sensor reads open or far outside spec, replace it.
-6. Check the control board connector pins and traces for damage or burn marks if the sensor and wiring test normal, as the board may be reporting a false open condition.
-7. Reassemble the microwave, restore power, and verify the error does not return during a normal cook cycle.
+1. **Disconnect power** by unplugging the microwave or switching off the dedicated breaker, and leave it off for at least 60 seconds to clear volatile memory.
+2. **Restore power** and observe whether E-61 returns immediately or after a few minutes of operation (an intermittent fault suggests a loose connection rather than a dead sensor).
+3. **Access the humidity sensor** by removing the outer cabinet panels (typically side and top screws) to expose the control cavity and sensor assembly, which is usually mounted near the steam vent or on the ceiling of the cooking chamber.
+4. **Inspect the sensor connector** at both the sensor end and the control board end for corrosion, bent pins, moisture intrusion, or incomplete seating, and clean or reseat as needed.
+5. **Test sensor continuity** by disconnecting the sensor plug and measuring resistance across the sensor terminals with a multimeter (an open reading confirms sensor failure, while a finite resistance means the sensor may be good and the fault lies elsewhere).
+6. **Replace the humidity sensor** if it tests open or shows visible damage, routing the new harness carefully to avoid pinch points and ensuring the connector locks securely.
+7. **Verify the repair** by reassembling the cabinet, restoring power, and running a short cook cycle to confirm that E-61 does not return (if the code persists after sensor replacement and all wiring checks pass, the control board input stage is the remaining suspect and requires professional board-level diagnosis or replacement).
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Humidity sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-microwave-e-61-error-code&k=Humidity+sensor&tag=errorcodefixes-20) \| Order by your Samsung microwave model number for exact fit. |
-| Sensor wiring harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-microwave-e-61-error-code&k=Sensor+wiring+harness&tag=errorcodefixes-20) \| Needed if wires are cut, melted, or connector terminals are damaged beyond repair. |
-| Main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-microwave-e-61-error-code&k=Main+control+board&tag=errorcodefixes-20) \| Replace only after confirming the sensor and all wiring test correctly. |
+| Samsung microwave humidity sensor assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-microwave-e-61-error-code&k=Samsung+microwave+humidity+sensor+assembly&tag=errorcodefixes-20) \| Verify your exact model number on the door frame label and cross-reference the sensor part number in the service manual or on Samsung's parts site. |
+| Wire harness or connector repair kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-microwave-e-61-error-code&k=Wire+harness+or+connector+repair+kit&tag=errorcodefixes-20) \| Only needed if you find broken wires or badly corroded pins that cannot be cleaned. |
+| Main control board (PCB) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-microwave-e-61-error-code&k=Main+control+board+%28PCB%29&tag=errorcodefixes-20) \| Replace only after confirming the sensor and all wiring test normal but the E-61 fault remains. |
 
 ## When to Call a Pro
 
-If you are not comfortable discharging the high-voltage capacitor and working inside a microwave cabinet, call a qualified appliance technician. Microwaves retain lethal voltage even when unplugged. A professional has the training, discharge tools, and model-specific service data to safely diagnose the humidity sensor circuit, test components to exact specifications, and replace the sensor, harness, or control board as needed. If the error returns immediately after a power reset or you see evidence of arcing or burnt components, do not attempt further troubleshooting and schedule a service call.
+Call a qualified appliance technician if you are uncomfortable working inside the microwave cabinet around high-voltage components, if you cannot locate or access the humidity sensor, or if the fault persists after you have replaced the sensor and verified all wiring continuity. The magnetron, high-voltage capacitor, and transformer retain lethal charge even when unplugged, so any work beyond simple sensor replacement carries shock risk. A technician will also have model-specific service manuals with sensor resistance specifications and board-level diagnostic tools to isolate control board faults that a multimeter alone cannot pinpoint.
+
+**Rough cost:** A pro service call runs about $150–300.

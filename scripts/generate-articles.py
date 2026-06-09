@@ -63,7 +63,7 @@ CODE_RE = re.compile(r"\b([a-z]{1,4}\s?-?\s?\d{1,4}[a-z]?)\b", re.I)
 INTENT_RE = re.compile(r"error|code|fault|fxxx|e\d|f\d|flash|blink|lockout|alarm|trouble", re.I)
 
 
-def _post_json(url: str, headers: dict, payload: dict, timeout: int, retries: int = 6) -> dict:
+def _post_json(url: str, headers: dict, payload: dict, timeout: int, retries: int = 9) -> dict:
     """POST JSON with exponential backoff on rate-limit (429), overload (529),
     and transient 5xx/network errors. Raises the last error if all retries fail.
     This is what lets the parallel batch runner use real concurrency without

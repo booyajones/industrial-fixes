@@ -1,50 +1,77 @@
 ---
 title: "Samsung Oven E28 Error Code - Causes & Fix"
-description: "E28 means a shorted oven temperature sensor. Most likely fix: replace the sensor after checking wiring for damage or shorts."
-pubDatetime: 2026-05-31T05:41:42Z
-modDatetime: 2026-05-31T05:41:42Z
-author: "Marcus Webb"
+description: "E28 means a shorted oven temperature sensor. The most common fix is replacing the thermistor, which typically reads under 930 Ω."
+pubDatetime: 2026-06-06T03:33:43Z
+modDatetime: 2026-06-06T03:33:43Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - oven
   - samsung
+most_likely_cause: "Failed oven temperature sensor (thermistor)"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Samsung Oven E28 Error Code — What It Means
 
-The E28 error code on a Samsung oven indicates a shorted oven temperature sensor or thermistor. The control board sees the sensor resistance below the normal operating range and interprets this as a short circuit in the sensor or its wiring. In practical terms, the sensor is reading less than approximately 930 Ω when it should be around 1080 Ω at room temperature. The oven will not heat properly or may shut down completely when this code appears. While the code points to the sensor, field experience shows the main control board can also be the true source of the fault even when all wiring and the sensor test normally.
+E28 on a Samsung oven or range indicates a temperature sensor short circuit. The oven thermistor, which monitors cavity temperature, is reading abnormally low resistance or has developed a short path to ground. The code belongs to the broader family of temperature sensor faults. Samsung's system expects the sensor to read around 1080 Ω at room temperature (25 °C). When the reading drops below roughly 930 Ω, the control board logs E28 and may disable baking or roasting functions to prevent unsafe operation.
+
+While some information codes clear with a simple power reset, E28 almost always signals a component failure rather than a glitch. The sensor itself is the usual culprit, but damaged wiring or a faulty control board input can also pull resistance low enough to trip the code.
+
+## Before You Replace Anything
+
+Many people replace the main control board first when the real problem is a $20 sensor. Always measure the thermistor resistance at room temperature with a multimeter before ordering any board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed oven temperature sensor** The thermistor itself has shorted internally and reads below the normal resistance range, which is the most common root cause.
-- **Damaged sensor wiring harness** Pinched, rubbed-through, or melted insulation on the wiring to the sensor creates a short circuit that the control board detects as E28.
-- **Loose or corroded sensor connector** Poor connection at the sensor plug can cause intermittent shorts or erratic resistance readings that trigger the fault.
-- **Physical sensor damage or deformation** A bent, crushed, or heat-damaged sensor probe can short internally or allow the thermistor element to contact the metal sheath.
-- **Main control board failure** The sensor input circuit on the control board itself can fail and report a short even when the sensor and wiring are good.
-- **Prior sensor fault damaged the board** A genuine sensor short in the past may have damaged the control board's input, so replacing only the sensor does not clear the code.
+- **Failed oven temperature sensor** The thermistor develops an internal short or drops below the 930 Ω threshold, triggering E28.
+- **Damaged sensor harness or connector** Heat, arcing, or physical wear creates a low-resistance path between sensor wires or to chassis ground.
+- **Loose or corroded wiring** Poor pin contact or moisture ingress at the sensor plug can intermittently short the circuit.
+- **Heat-damaged wiring near the cavity** Insulation melts or chars where the sensor lead runs close to the oven box, shorting conductors together.
+- **Main control board fault** A failed input circuit on the board reads the sensor as shorted even when the sensor and wiring test good.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the sensor measure close to 1080 Ω at room temperature (around 25 °C)?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The sensor is within spec. Inspect the wiring harness and connector for burns, corrosion, or loose pins back to the control board.<br><strong>No:</strong> The sensor is out of range. If it reads below 930 Ω the sensor is shorted and should be replaced. If it reads above 2950 Ω you may have E27 instead, indicating an open sensor.</div>
+</details>
+
+<details class="dtree"><summary>Do you see any melted, burned, or discolored insulation on the sensor wiring?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Heat damage has compromised the harness. Repair or replace the affected wiring and re-check resistance before clearing the code.<br><strong>No:</strong> Wiring appears intact. If the sensor tested good and connections are clean, the main control board input circuit is the likely fault.</div>
+</details>
+
+<details class="dtree"><summary>Does the E28 code return immediately after you restore power and clear the fault?</summary>
+<div class="dtree-body"><strong>Yes:</strong> A hard short is present. Re-verify sensor resistance and inspect every inch of the harness for pinched or shorted wires.<br><strong>No:</strong> The fault may be intermittent. Monitor the oven through a heat cycle and check connector seating under operating temperature.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. Disconnect power at the circuit breaker or unplug the range completely before beginning any service work.
-2. Access the oven temperature sensor by removing oven racks and locating the sensor probe at the rear or side wall of the oven cavity, then inspect the sensor, connector, and wiring for visible damage, burns, pinched insulation, or loose connections.
-3. Disconnect the sensor connector and measure the sensor resistance with a digital multimeter at room temperature. A good sensor should read approximately 1080 Ω at 25 °C and should drop as you warm it gently with your hand.
-4. Replace the oven temperature sensor if it reads below 930 Ω at room temperature, shows erratic readings, or does not respond to temperature change.
-5. Inspect the wiring harness for continuity and insulation damage along its entire length, especially where it passes through metal brackets or near heat sources, and repair or replace the harness if you find shorts or opens.
-6. Restore power and test the oven. If the E28 code returns immediately and the sensor and wiring test good, the main control board is likely faulty and must be replaced.
-7. Verify the error clears and the oven heats normally through a full preheat cycle before returning the unit to service.
+1. **Disconnect power** at the circuit breaker or unplug the range to eliminate shock hazard before opening any panels.
+2. **Remove the rear access panel or oven cavity shield** to reach the temperature sensor, which is typically mounted in the upper back wall of the oven cavity.
+3. **Unplug the sensor connector** from the wiring harness and use a multimeter set to resistance (Ω) to measure across the sensor terminals at room temperature.
+4. **Compare the reading to specification.** A good sensor reads about 1080 Ω at 25 °C. Readings below 930 Ω indicate a short. Readings above 2950 Ω indicate an open (E27 code territory).
+5. **Inspect the sensor wiring and connector** for heat damage, melted insulation, corrosion, or loose pins from the sensor back to the control board.
+6. **Replace the oven temperature sensor** if resistance is out of range. If the sensor tests good, repair any damaged harness sections or replace the connector.
+7. **Replace the main control board** only if the sensor and all wiring test within spec but the E28 code persists after clearing and cycling the oven.
+8. **Restore power, clear the code** by holding the appropriate keypad combination (consult your model's manual), and run a short bake cycle to verify the repair.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Oven temperature sensor / thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-oven-e28-error-code&k=Oven+temperature+sensor+%2F+thermistor&tag=errorcodefixes-20) \| Match the part number to your exact Samsung range model. The sensor should measure around 1080 Ω at room temperature. |
-| Main control board / electronic control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-oven-e28-error-code&k=Main+control+board+%2F+electronic+control+board&tag=errorcodefixes-20) \| Required if the sensor and wiring test good but the code persists. Verify the board part number against your model before ordering. |
-| Sensor wiring harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-oven-e28-error-code&k=Sensor+wiring+harness&tag=errorcodefixes-20) \| Needed if insulation is damaged, wires are pinched, or the connector is melted or corroded. |
+| Oven temperature sensor / thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-oven-e28-error-code&k=Oven+temperature+sensor+%2F+thermistor&tag=errorcodefixes-20) \| Verify your model number. Nominal resistance is 1080 Ω at 25 °C. |
+| Sensor wiring harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-oven-e28-error-code&k=Sensor+wiring+harness&tag=errorcodefixes-20) \| Order if the original shows heat damage, melted insulation, or cannot be repaired. |
+| Main control board / electronic control | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-oven-e28-error-code&k=Main+control+board+%2F+electronic+control&tag=errorcodefixes-20) \| Model-specific. Replace only after confirming the sensor and wiring are good. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if you are not comfortable working with live voltage or disassembling the range control panel and oven cavity. If the error returns after you replace the sensor and verify the wiring is intact, the control board likely needs diagnosis and replacement, which requires model-specific programming and calibration in some Samsung ranges. Also call a pro if you find evidence of arcing, melted connectors, or repeated short circuits, since these conditions can indicate a deeper electrical fault that may be unsafe to troubleshoot without proper test equipment and training.
+Call a technician if you are not comfortable working inside the oven cavity or measuring resistance with a multimeter. A pro should also handle the repair if the control board is the suspected fault, since board replacement requires careful connector work and sometimes firmware matching. If you see any sign of arcing, charred wiring, or repeated codes after replacing the sensor, a qualified appliance tech can trace the circuit end to end and confirm whether the board input stage has failed. Most sensor swaps are straightforward DIY jobs, but control board diagnosis benefits from experience and a wiring diagram.
+
+**Rough cost:** DIY runs about $15–40 in parts, 30–60 min. A pro service call runs about $120–250 including service call and sensor.

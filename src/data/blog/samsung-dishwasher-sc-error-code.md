@@ -1,51 +1,77 @@
 ---
 title: "Samsung SC Error Code - Causes & Fix"
-description: "SC means drain error. Clean the filter and sump, check for kinked drain hose, and verify the disposal knockout plug was removed."
-pubDatetime: 2026-05-31T04:40:40Z
-modDatetime: 2026-05-31T04:40:40Z
-author: "Dana Kowalski"
+description: "Samsung SC (or 5C) means a drainage fault. The machine cannot drain water fast enough. Most often the drain pump filter is clogged."
+pubDatetime: 2026-06-06T02:02:37Z
+modDatetime: 2026-06-06T02:02:37Z
+author: "Error Code Fixes Editorial Team"
 featured: false
-draft: false
+draft: true
 tags:
   - appliance
-  - dishwasher
   - samsung
+most_likely_cause: "clogged drain pump filter"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Samsung SC Error Code — What It Means
 
-The SC code on a Samsung dishwasher indicates a drain error. The machine cannot clear water from the tub within the expected time, so the control stops the cycle to prevent overflow. Samsung groups SC with 5C, 5E, and SE as the same fault family, all signaling difficulty draining water.
+The Samsung SC or 5C error code indicates a drainage fault. The washer has detected that water is not draining fast enough during the drain portion of the cycle. The machine is measuring how long the drain cycle takes, and when it exceeds the programmed limit the code appears and the cycle stops.
 
-In practical terms, water is standing in the tub after the drain cycle completes, or the drain pump runs but fails to move water out. The error protects against flooding and points to a blockage or routing issue in the drain path.
+This code does not point to a wash motor or heater problem. It is exclusively a drain system issue. The washer may still have water standing in the drum when the code appears. Technicians treat SC/5C as a "won't drain" or "slow drain" complaint and work through the drain path, pump, hoses, and pressure-sensing components to find the blockage or failed part.
+
+## Before You Replace Anything
+
+Homeowners often replace the drain pump before checking the filter or hose. Clean the pump filter and inspect the drain hose for kinks first, both are free checks that solve the majority of SC codes.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Clogged filter or sump** Food debris, seeds, labels, or glass shards collect in the filter basket or sump area and block water flow to the drain pump.
-- **Debris in drain pump** Small objects lodge in the pump impeller, causing grinding noise, slow drainage, or preventing the pump from spinning.
-- **Kinked or blocked drain hose** The hose is crushed, bent sharply, or routed too low without a proper high loop or air gap, stopping water from evacuating.
-- **Blocked sink or disposal connection** The drain hose connects to a clogged sink tailpiece, garbage disposal inlet, or a new disposal still has the knockout plug installed.
-- **Improper hose routing or air gap fault** The drain line lacks a high loop or the air gap is clogged, allowing backflow or siphoning that prevents proper drainage.
+- **Clogged drain pump filter** Lint, coins, and small objects accumulate in the filter housing and slow or block water flow, triggering the code.
+- **Kinked or blocked drain hose** A crushed, twisted, or improperly routed hose restricts drainage and causes the cycle to time out.
+- **Debris in the drain pump or sump** Foreign objects (coins, hairpins, socks) jam the pump impeller or lodge in the sump chamber, preventing the pump from moving water.
+- **Failed drain pump** A worn motor, damaged impeller, or loose shaft causes the pump to run without moving water or to fail electrically.
+- **Faulty pressure switch** If the switch does not signal that the tub has drained, the washer will continue to report a drain fault even when the pump and hoses are clear.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Is water still standing in the drum when the code appears?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The drain path is blocked or the pump is not running. Start by cleaning the filter and checking the hose for kinks.<br><strong>No:</strong> The washer may be draining slowly or the pressure switch is reading incorrectly. Inspect the pump and test the switch.</div>
+</details>
+
+<details class="dtree"><summary>Does the drain pump make noise when the code appears?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The pump is trying to run. Check for a jammed impeller or debris in the pump housing.<br><strong>No:</strong> The pump may have no power or the motor has failed. Test the pump electrically and inspect wiring.</div>
+</details>
+
+<details class="dtree"><summary>When you remove the filter, is it packed with lint or objects?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Clean the filter thoroughly, reinstall it, and run a drain test cycle to see if the code clears.<br><strong>No:</strong> The blockage is elsewhere. Inspect the hose, pump, and sump for debris or damage.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Power off the dishwasher** at the breaker or by unplugging the unit before any inspection or disassembly.
-2. **Remove the lower dish rack** and pull out the filter assembly from the tub floor, then rinse it under running water to clear trapped food and debris.
-3. **Inspect the sump area** under the filter for seeds, broken glass, labels, or other objects and remove any blockage by hand or with a damp cloth.
-4. **Check the drain hose** from the dishwasher outlet to the sink or disposal connection for kinks, crushing, or low loops, and confirm a proper high loop or air gap is in place.
-5. **Verify the sink or disposal inlet** is clear and that the knockout plug was removed if the disposal was recently installed, then flush the connection with water.
-6. **Run a short drain test** by starting a rinse cycle and listening for the pump. If the pump hums but water does not move, suspect a blockage in the hose or sump outlet. If the pump grinds or does not run, inspect the pump impeller for debris.
-7. **Reassemble and test** by replacing the filter, running a normal cycle, and confirming the SC code clears and water drains completely.
+1. **Unplug the washer** and turn off the water supply before starting any work.
+2. **Locate and open the drain pump filter access door** on the lower front of the washer (usually bottom right or center), and place a shallow pan or towels underneath to catch residual water.
+3. **Unscrew and remove the drain pump filter**, clean out all lint, coins, and debris, rinse it under running water, and inspect the filter housing and sump opening for any objects or buildup.
+4. **Inspect the drain hose** from the back of the washer to the standpipe or laundry sink, straighten any kinks, verify the hose is not crushed, and check that the installation height is within the washer's specification (consult your manual).
+5. **Access the drain pump** by tipping the washer back or removing the lower front panel (model-dependent), disconnect the electrical connector and hoses, and inspect the pump impeller by turning it by hand (it should turn with a stiff, jerky feel, not spin freely).
+6. **Test the drain pump motor** with a multimeter set to resistance, touching the probes to the pump terminals and looking for a reading in the range of 12 to 18 ohms (a guideline for many models), and replace the pump if the reading is open, shorted, or the impeller is loose or damaged.
+7. **If the pump and drain path test good**, locate and test the pressure switch with a multimeter for proper continuity changes when the switch is actuated, and replace the switch if it fails the test or does not respond to pressure changes.
+8. **Reassemble all components**, reinstall hoses and connectors, plug in the washer, and run a drain or spin cycle to verify the SC code is cleared and water drains normally.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dishwasher-sc-error-code&k=Drain+pump+assembly&tag=errorcodefixes-20) \| Replace if the impeller is cracked, the pump housing is leaking, or the motor fails to spin after debris removal. |
-| Filter and sump cover assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dishwasher-sc-error-code&k=Filter+and+sump+cover+assembly&tag=errorcodefixes-20) \| Order if the filter basket is cracked or the sump cover threads are stripped and no longer seal properly. |
-| Drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dishwasher-sc-error-code&k=Drain+hose&tag=errorcodefixes-20) \| Replace if the hose is split, crushed flat, or cannot be straightened to restore proper flow. |
+| Samsung washer drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dishwasher-sc-error-code&k=Samsung+washer+drain+pump+assembly&tag=errorcodefixes-20) \| Match your model number. Replace if the impeller is loose, shaft has play, or motor tests open or shorted. |
+| Drain pump filter (cleanout plug) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dishwasher-sc-error-code&k=Drain+pump+filter+%28cleanout+plug%29&tag=errorcodefixes-20) \| Often included with the washer but available separately if threads are stripped or the seal is damaged. |
+| Drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dishwasher-sc-error-code&k=Drain+hose&tag=errorcodefixes-20) \| Replace if kinked, cracked, or the corrugations are crushed and cannot be straightened. |
+| Pressure switch (water level sensor) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dishwasher-sc-error-code&k=Pressure+switch+%28water+level+sensor%29&tag=errorcodefixes-20) \| Required when the pump and hoses are clear but the washer still reports a drain fault. |
 
 ## When to Call a Pro
 
-If the SC code returns after cleaning the filter, sump, and drain hose and confirming the disposal knockout is removed, the fault likely lies in the drain pump motor, internal check valve, or a wiring issue. A technician with the service manual for your model can measure pump resistance, check internal valve operation, and replace sealed components that require disassembly of the tub or pump housing. Also call for help if you see water leaking from the pump area during the drain cycle or if the error appeared immediately after installation and you suspect incorrect plumbing or electrical wiring.
+Call a technician if you have cleaned the filter, cleared the hose, tested the pump electrically, and the code persists. A faulty pressure switch, control board communication fault, or wiring issue requires diagnostic tools and experience to isolate. Also call a pro if you are uncomfortable tipping the washer, removing panels, or working with electrical connectors. If the washer is under warranty, contact Samsung or an authorized service center before opening the machine to avoid voiding coverage.
+
+**Rough cost:** DIY runs about $15–80 in parts (filter, hose, or pump), 30–90 min. A pro service call runs about $120–250 service call plus parts.

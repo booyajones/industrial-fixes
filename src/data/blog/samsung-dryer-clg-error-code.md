@@ -1,52 +1,78 @@
 ---
 title: "Samsung Dryer CLg Error Code - Causes & Fix"
-description: "CLg means your Samsung dryer detected a blocked exhaust vent. Clean the lint screen, vent hose, and exterior hood to restore airflow."
-pubDatetime: 2026-05-31T03:19:59Z
-modDatetime: 2026-05-31T03:19:59Z
-author: "Marcus Webb"
+description: "CLg means the vent system cannot exhaust properly. Most common fix: clean the lint screen and check for clogged or kinked ductwork."
+pubDatetime: 2026-06-06T02:20:02Z
+modDatetime: 2026-06-06T02:20:02Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dryer
   - samsung
+most_likely_cause: "Clogged lint screen or restricted exhaust vent trapping heat"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Samsung Dryer CLg Error Code — What It Means
 
-The CLg error code (also displayed as Cg, CL9, C9, C80, C8, or C90 on some models) appears when your Samsung dryer's Vent Blockage test finds that the exhaust duct system is clogged or cannot exhaust air properly. Higher code numbers in this family usually indicate more severe restriction. This is not a component failure code in most cases. It is a diagnostic result telling you the dryer cannot move air through the vent system as designed.
+The CLg code (sometimes shown as Cg, CL9, or C9) appears on Samsung dryers after the Vent Blockage test has been run. It indicates that the dryer has detected the vent or duct system cannot exhaust air properly. Samsung groups this code with vent blockage test results and describes it as a clogged vent or duct system that traps heat and restricts airflow.
 
-The test is meant to be run with an empty drum. If you see this code during normal use or after running the test with laundry inside, the result may not be accurate. Samsung's guidance for this condition focuses on cleaning the lint filter and exhaust vent, then verifying that airflow is restored. The vast majority of CLg codes are resolved by vent system cleaning or correction, not by replacing internal parts.
+The code does not appear during normal drying cycles. It only shows up as the result of a diagnostic test that measures how well the dryer can move air through the exhaust system. A CLg result means the system has failed the airflow test and requires inspection of the venting path.
+
+## Before You Replace Anything
+
+Homeowners sometimes replace the blower motor or control board when the real problem is simply a clogged outside hood or crushed transition duct. Always disconnect the vent at the dryer and test airflow before ordering internal parts.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Lint buildup in the exhaust vent or duct** Accumulated lint inside the flexible or rigid vent tubing is the most common reason the dryer cannot exhaust air during the test.
-- **Crushed or kinked flexible vent hose** A flexible foil or plastic vent hose pinched behind the dryer or bent at a sharp angle restricts airflow and triggers the blockage code.
-- **Blocked exterior vent hood or flap** Lint, bird nests, or a stuck flapper at the outdoor termination prevent exhaust air from escaping and cause the test to fail.
-- **Vent system too long or improperly configured** Runs longer than the manufacturer's maximum length, excessive elbows, or undersized duct diameter all create enough back pressure to register as a blockage.
-- **Clogged lint screen or internal lint accumulation** A lint screen that appears clean on the surface may have a film of fabric softener residue, or lint may have packed into the blower housing or exhaust transition.
-- **Faulty thermistor or temperature sensor** If the vent system is verified clean and airflow is strong, a failing temperature sensor can send incorrect readings that mimic an overheat or restriction condition.
+- **Clogged lint screen** A lint-covered filter blocks airflow and causes heat to build up, triggering the vent blockage code.
+- **Blocked or restrictive exhaust ductwork** Lint buildup inside the vent hose, a clogged outside hood, or ducting that is too long or has too many bends prevents proper exhaust.
+- **Crushed or kinked transition duct** A flexible vent hose pinched behind the dryer restricts airflow and mimics a full blockage.
+- **Internal lint buildup in the blower wheel area** Lint that bypasses the filter can accumulate in the blower housing and reduce airflow even with the external vent clear.
+- **Faulty thermistor or temperature sensor** A sensor reading abnormally high temperature can cause the dryer to report a vent blockage code even when airflow is adequate.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Is the lint screen clean and free of residue?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The filter is not the problem. Move on to inspect the external vent and ductwork.<br><strong>No:</strong> Clean the lint screen thoroughly and wash it with warm soapy water if it has a waxy film. Retest the dryer.</div>
+</details>
+
+<details class="dtree"><summary>With the vent disconnected at the dryer, does hot air blow strongly from the exhaust outlet during a Time Dry cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The dryer blower and internal airflow are working. The blockage is in the external vent or outside hood.<br><strong>No:</strong> The problem is inside the dryer. Check for lint buildup in the blower wheel area or a faulty temperature sensor.</div>
+</details>
+
+<details class="dtree"><summary>Does the outside vent hood flapper open freely when the dryer runs?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The hood is not stuck. Look for buildup or restrictions inside the duct run itself.<br><strong>No:</strong> Clean or replace the outside vent hood. A stuck flapper will block exhaust and trigger the code.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Power off the dryer** at the breaker or by unplugging it, wait 30 seconds, then restore power to clear any transient fault and reset the control board.
-2. **Remove and inspect the lint screen.** Wash it with warm soapy water if you see any film or residue, rinse thoroughly, and let it dry completely before reinstalling.
-3. **Disconnect the exhaust vent hose** from the back of the dryer and inspect both the dryer's exhaust outlet and the inside of the flex hose for packed lint or obstructions.
-4. **Run a short Time Dry cycle** with the vent hose disconnected and feel the airflow and heat at the dryer's exhaust port. Strong, hot air indicates the dryer itself is working and the problem is downstream in the vent.
-5. **Trace the entire vent run** from the dryer to the exterior hood. Remove and clean each section of rigid or flexible duct, checking for kinks, sags, or lint buildup. Use a vent brush or vacuum to clear all debris.
-6. **Check the exterior vent hood.** Make sure the flapper opens freely, remove any lint or nests, and confirm nothing is blocking the opening from the outside.
-7. **Reconnect the vent system** and run the Samsung Vent Blockage test with an empty drum. A result of 0 or End means the system is clear. If you still see CLg or a related code and airflow is verified good, consult a technician to test the thermistor and control circuits.
+1. **Power on the dryer** and run the Vent Blockage test to confirm the code. Empty the drum, close the door, press Adjust Time Up and Dry Level within five seconds of power-on, then press and hold Start/Pause to begin the test.
+2. **Check the test result.** A display of 0 or End means the vent is normal. CLg, Cg, CL9, C9, C80, C8, or C90 indicate the duct system cannot exhaust properly, with higher numbers meaning more severe blockage.
+3. **Clean the lint filter** thoroughly and inspect it for waxy buildup from dryer sheets. Wash the screen with warm soapy water and a soft brush if needed, then dry it completely before reinstalling.
+4. **Disconnect the exhaust vent** from the back of the dryer. Run a Time Dry cycle for at least 30 seconds and feel the airflow and heat at the dryer's exhaust outlet.
+5. **Compare the airflow.** If the dryer feels much hotter and airflow is stronger with the vent disconnected, the external vent system is too clogged or restrictive. Clean or replace the ductwork and check the outside hood.
+6. **Inspect the full vent path** from the dryer to the outside. Look for crushed or kinked flexible duct, lint buildup inside rigid duct, and a stuck or blocked outside hood flapper.
+7. **If airflow is weak even with the vent disconnected**, open the dryer cabinet and inspect the blower wheel and housing for lint buildup. Clean any lint from internal passages and check the thermistor and related sensors for proper resistance or voltage according to your model's service manual.
+8. **Rerun the Vent Blockage test** after repairs to confirm the code has cleared. A result of 0 or End means the exhaust system now meets airflow requirements.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Dryer vent cleaning brush kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dryer-clg-error-code&k=Dryer+vent+cleaning+brush+kit&tag=errorcodefixes-20) \| Long flexible brush and rods to remove lint from interior ductwork without disassembly. |
-| Samsung dryer thermistor or temperature sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dryer-clg-error-code&k=Samsung+dryer+thermistor+or+temperature+sensor&tag=errorcodefixes-20) \| Only if the vent system is confirmed clean and the sensor is reading incorrectly. Model-specific part number required. |
-| Replacement dryer vent hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dryer-clg-error-code&k=Replacement+dryer+vent+hose&tag=errorcodefixes-20) \| Semi-rigid aluminum duct is preferred over flexible foil or plastic for reduced lint buildup and better airflow. |
+| Samsung Dryer Lint Screen / Lint Filter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dryer-clg-error-code&k=Samsung+Dryer+Lint+Screen+%2F+Lint+Filter&tag=errorcodefixes-20) \| Match your model number. Clean first before replacing. |
+| 4-inch Aluminum Rigid Dryer Duct | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dryer-clg-error-code&k=4-inch+Aluminum+Rigid+Dryer+Duct&tag=errorcodefixes-20) \| Use smooth-wall rigid or semi-rigid duct, not flexible vinyl or foil. |
+| Outside Dryer Vent Hood with Damper | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dryer-clg-error-code&k=Outside+Dryer+Vent+Hood+with+Damper&tag=errorcodefixes-20) \| Choose a hood with a freely moving flapper that seals when the dryer is off. |
+| Samsung Dryer Thermistor / Temperature Sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dryer-clg-error-code&k=Samsung+Dryer+Thermistor+%2F+Temperature+Sensor&tag=errorcodefixes-20) \| Order by model number if testing shows the sensor is out of spec. |
 
 ## When to Call a Pro
 
-Call a professional if you have cleaned the entire vent system from the dryer to the exterior hood, confirmed strong airflow with the vent disconnected, and the CLg code still appears after running the Vent Blockage test with an empty drum. At that point the issue is likely a faulty thermistor, thermal cutoff, or control board that requires component-level diagnostics and model-specific resistance or voltage testing. Also call a pro if your vent system is routed inside walls or ceilings and you cannot access it safely, or if you need help evaluating whether your duct length and configuration meet Samsung's installation requirements for your model.
+Call a professional if you have cleaned the lint screen and external vent but the CLg code persists with the vent disconnected. This points to an internal airflow restriction or a faulty temperature sensor that requires opening the cabinet and testing components. Also call a pro if your vent run is very long, passes through walls or a crawlspace, or if you are not comfortable working with 240-volt connections when accessing internal parts. A qualified appliance technician can perform a complete airflow test, clean internal passages, and test the thermistor and control board circuits safely.
+
+**Rough cost:** DIY runs about $0-40 in parts (vent hose or outside hood if needed), 30-90 min. A pro service call runs about $100-250 for vent cleaning and inspection.
