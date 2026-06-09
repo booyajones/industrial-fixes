@@ -34,7 +34,13 @@ def slug_to_topic(slug: str) -> str:
 
 
 def run_one(slug: str) -> tuple[str, str, str]:
+    # Hard slug allowlist: the slug becomes a file path, so reject anything that
+    # could traverse out of the blog dir (../, absolute, odd chars).
+    if not re.fullmatch(r"[a-z0-9][a-z0-9-]{0,80}", slug):
+        return (slug, "fail", "invalid slug")
     path = G.BLOG_DIR / f"{slug}.md"
+    if G.BLOG_DIR.resolve() != path.resolve().parent:
+        return (slug, "fail", "path escape")
     exists = path.exists()
     if exists:
         head = path.read_text(encoding="utf-8")[:600]
@@ -72,6 +78,7 @@ def main() -> int:
         print("[!] set ANTHROPIC_API_KEY first.")
         return 1
     slugs = [s.strip() for s in Path(args.file).read_text(encoding="utf-8").splitlines() if s.strip()]
+    slugs = list(dict.fromkeys(slugs))  # dedup, preserve order (no double API calls / double writes)
     if args.limit:
         slugs = slugs[: args.limit]
     print(f"[i] {len(slugs)} money targets (jobs={args.jobs})")

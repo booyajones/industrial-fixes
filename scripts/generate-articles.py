@@ -34,6 +34,7 @@ USAGE:
 from __future__ import annotations
 
 import argparse
+import html
 import json
 import os
 import random
@@ -527,9 +528,9 @@ def assemble_md(topic: str, c: dict, slug: str, draft: bool = False) -> str:
     tree_block = ""
     rows = []
     for q in tree:
-        qq = _clean(q.get("question"))
-        qy = _clean(q.get("if_yes"))
-        qn = _clean(q.get("if_no"))
+        qq = html.escape(_clean(q.get("question")), quote=False)
+        qy = html.escape(_clean(q.get("if_yes")), quote=False)
+        qn = html.escape(_clean(q.get("if_no")), quote=False)
         if qq and (qy or qn):
             rows.append(
                 f'<details class="dtree"><summary>{qq}</summary>\n'
