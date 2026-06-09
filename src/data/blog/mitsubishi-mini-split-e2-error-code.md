@@ -48,3 +48,10 @@ This code appears when the indoor unit cannot properly communicate with the remo
 ## When to Call a Pro
 
 Call a Mitsubishi Electric certified technician if the error returns after you have replaced the remote batteries and power-cycled the system, or if you are not comfortable opening the indoor unit to inspect or replace the control board. Licensed techs have access to model-specific service manuals, diagnostic software, and the correct replacement PCBs for your exact platform. Because Mitsubishi product lines use different control architectures, professional confirmation of the E2 code meaning and the failed component will prevent misdiagnosis and unnecessary part replacement.
+
+## See Also
+
+- [Mitsubishi U4 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-u4-error-code/)
+- [Mitsubishi E6 AC Error Code — Causes & Fix](/posts/mitsubishi-e6-ac-error-code/)
+- [Mitsubishi E6 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-e6-error-code/)
+- [Mitsubishi P7 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-p7-error-code/)

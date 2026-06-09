@@ -47,3 +47,10 @@ The alarm is specifically tied to terminal 29 and does not indicate a motor or m
 ## When to Call a Pro
 
 Call a qualified technician or Danfoss service provider if the alarm continues after you have disconnected the load, verified wiring integrity, and confirmed correct parameter settings. Persistent Alarm 41 with no external cause points to internal damage on the drive's control board, which requires specialized diagnostic tools, board-level repair skill, and access to OEM replacement parts. If your application is critical or you are unfamiliar with VFD parameter programming, professional support is recommended from the start to avoid extended downtime or further equipment damage.
+
+## See Also
+
+- [Danfoss FC302 Alarm 51 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-51-fault-code/)
+- [Danfoss FC302 Alarm 32 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-32-fault-code/)
+- [Danfoss FC102 VLT HVAC Drive Fault Codes — Complete Diagnostic Reference](/posts/danfoss-fc102-fault-codes/)
+- [Danfoss FC302 Alarm 21 - Causes & Fix](/posts/danfoss-fc302-alarm-21-fault-code/)

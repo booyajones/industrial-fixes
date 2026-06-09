@@ -45,3 +45,10 @@ Fault code F01650 on the Siemens SINAMICS G120 drive means there is a fault in t
 ## When to Call a Pro
 
 Call a qualified Siemens-trained technician or system integrator if you are not familiar with Safety Integrated commissioning procedures or if the fault persists after completing the acceptance test and verifying all wiring. Safety functions are critical for personnel protection and require precise configuration. If the drive shows an unresolved internal safety fault after all standard diagnostics, or if you see fault values in r0949 that are not documented in your manual, contact Siemens technical support immediately. Any work on safety circuits should be performed by personnel trained in functional safety standards.
+
+## See Also
+
+- [Siemens Micromaster F0060 - Causes & Fix](/posts/siemens-micromaster-f0060-fault-code/)
+- [Siemens G120 F03505 - Causes & Fix](/posts/siemens-g120-vfd-f03505-fault-code/)
+- [Siemens Sinumerik Alarm 380500 — Causes & Fix](/posts/siemens-sinumerik-alarm-380500/)
+- [Siemens G120 A05002 Fault - Causes & Fix](/posts/siemens-g120-vfd-a05002-fault-code/)

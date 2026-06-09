@@ -69,3 +69,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 If you've cleaned the filter, confirmed the fan is running, and cleared all obstructions but ice still forms on the coil, the problem is likely in the refrigerant circuit or the coil temperature sensor. Low refrigerant requires leak detection, evacuation, and precise recharge with the correct Daikin refrigerant type, which needs gauges and recovery equipment. Faulty sensors often require resistance testing against factory specs and careful PCB connector work. A licensed HVAC technician can also retrieve detailed fault logs from the Daikin control board to pinpoint intermittent fan or sensor failures that aren't obvious during a quick visual check.
+
+## See Also
+
+- [Daikin A6 Error Code — Indoor Fan Motor Fix](/posts/daikin-error-code-a6/)
+- [Daikin C4 Error Code - Causes & Fix](/posts/daikin-mini-split-c4-error-code/)
+- [Daikin Mini Split Not Heating - Causes & Fix](/posts/daikin-mini-split-not-heating/)
+- [Daikin F9 Error Code — Heat Exchanger Temp Sensor Fault: Causes & Fix](/posts/daikin-f9-error-code/)

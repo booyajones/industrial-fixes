@@ -67,3 +67,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a technician if the error code is anything other than "00," if you cannot restore outdoor unit power after checking breakers and fuses, or if cleaning filters and verifying settings does not restore cooling. Refrigerant leaks, compressor faults, and control board or communication problems require professional diagnosis and repair. Mitsubishi's guidance is that any displayed fault code other than "00" requires inspection rather than continued operation.
+
+## See Also
+
+- [Mitsubishi U4 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-u4-error-code/)
+- [Mitsubishi U1 Error Code — Causes & Fix](/posts/mitsubishi-u1-error-code/)
+- [Mitsubishi Mini-Split U0 Error Code — Refrigerant Shortage Fix](/posts/mitsubishi-mini-split-u0-error-code/)
+- [Mitsubishi MSZ-FH12NA Problems & Error Codes](/posts/mitsubishi-msz-fh12na-ductless-mini-split-air-conditioner-problems/)

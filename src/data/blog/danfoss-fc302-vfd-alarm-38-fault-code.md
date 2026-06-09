@@ -49,3 +49,10 @@ This fault means something has failed or become disconnected inside the drive en
 ## When to Call a Pro
 
 Call a qualified VFD technician or industrial controls specialist if you are not trained in working inside energized or recently de-energized industrial drives, because the DC bus can hold lethal voltage even after AC power is removed. Also call for help if reseating boards and replacing the control card does not clear Alarm 38, if you do not have the tools to safely discharge the DC bus, or if your facility requires that only certified personnel open drive enclosures. Danfoss technical support should be contacted with your drive's model number, serial number, and the full alarm subcode if board-level troubleshooting does not resolve the fault, because some internal faults require factory-level diagnostics or firmware updates.
+
+## See Also
+
+- [Danfoss FC302 VFD Alarm 16 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-16-fault-code/)
+- [Danfoss FC302 ALARM 18 - Causes & Fix](/posts/danfoss-fc302-alarm-18-fault-code/)
+- [Danfoss FC302 VFD Alarm 23 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-23-fault-code/)
+- [Danfoss VFD Fault Codes — FC301, FC302, FC102 Reference](/posts/danfoss-vfd-fault-codes/)

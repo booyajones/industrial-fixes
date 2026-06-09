@@ -48,3 +48,10 @@ The E04 error code on a Daikin mini split indicates that the low pressure switch
 ## When to Call a Pro
 
 E04 low pressure errors require refrigerant circuit diagnosis and repair that involves EPA-certified handling of refrigerants, vacuum pumps, manifold gauges, leak detection equipment, and precise charging by weight. Homeowners should call a licensed HVAC technician for this code. Attempting refrigerant work without proper certification, tools, and training risks compressor damage, personal injury from high-pressure refrigerant, environmental violations, and voiding manufacturer warranties. A qualified technician can accurately diagnose whether the problem is a leak, restriction, valve issue, or failed sensor and perform the necessary evacuation and recharge to manufacturer specifications.
+
+## See Also
+
+- [Daikin Chiller Fault Codes — Complete Troubleshooting Guide](/posts/daikin-chiller-fault-codes/)
+- [Daikin U7 Error Code - Causes & Fix](/posts/daikin-u7-error-code/)
+- [Daikin FTXS09LVJU Problems & Error Codes](/posts/daikin-ftxs09lvju-ductless-mini-split-air-conditioner-problems/)
+- [Daikin A5 Error Code - Causes & Fix](/posts/daikin-mini-split-a5-error-code/)

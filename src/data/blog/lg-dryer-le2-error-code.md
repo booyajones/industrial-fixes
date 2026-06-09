@@ -46,3 +46,10 @@ The LE2 code on LG heat-pump dryers indicates a compressor-related fault. The co
 ## When to Call a Pro
 
 Call a qualified appliance technician if the LE2 code returns after you power-cycle the unit and verify installation and airflow conditions. LG's official guidance for LE2, AE, and CE1 codes directs you to request service rather than continue home troubleshooting. Compressor diagnostics require inverter output checks, wiring tests, and refrigerant system work that fall outside the scope of homeowner repair. A technician will have the service manual values and specialized equipment needed to test and replace the compressor or related heat-pump components safely.
+
+## See Also
+
+- [LG Microwave Won't Start - Causes & Fix](/posts/lg-microwave-wont-start/)
+- [LG Mini-Split CH24 Error - Causes & Fix](/posts/lg-mini-split-ch24-error-code/)
+- [LG Washer Won't Start - Causes & Fix](/posts/lg-washer-wont-start/)
+- [LG Washer Error Code 31 — Pressure Sensor / Suspension Fault Fix](/posts/lg-washer-error-code-31/)

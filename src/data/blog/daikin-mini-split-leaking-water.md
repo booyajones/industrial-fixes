@@ -67,3 +67,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a professional if the leak continues after cleaning filters and clearing the drain line, if the evaporator coil is frozen and does not resolve with airflow correction, or if you suspect low refrigerant charge or installation pitch problems. A technician should handle refrigerant diagnostics, drain pan replacement inside a sealed indoor unit, and any re-leveling or remounting of the wall-hung assembly. If the condensate pump has failed or the drain system requires disassembly beyond the external hose, professional service is recommended.
+
+## See Also
+
+- [Daikin J6 Error Code - Causes & Fix](/posts/daikin-heat-pump-j6-error-code/)
+- [Daikin L5 Error Code — Compressor Lock Fault](/posts/daikin-l5-error-code/)
+- [Daikin VRV IV Fault Codes - Commercial System Diagnostic Guide](/posts/daikin-vrv-iv-fault-codes/)
+- [Daikin E7 Error Code — Outdoor Fan Motor Fault Fix](/posts/daikin-e7-error-code/)

@@ -49,3 +49,10 @@ This is not a motor earth fault or a power-stage problem. It is strictly a digit
 ## When to Call a Pro
 
 Call a qualified technician or controls specialist if you are not comfortable working with VFD wiring or digital I/O circuits. If Alarm 40 continues after you have removed and checked all external wiring and loads on terminal 27, and the fault returns after a power cycle with nothing connected, the control card is likely defective and requires factory replacement or repair. VFD repairs involving internal boards should be done by trained personnel to avoid voiding warranties or creating safety hazards.
+
+## See Also
+
+- [Danfoss FC302 ALARM 35 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-35-fault-code/)
+- [Danfoss FC302 ALARM 35 - Causes & Fix](/posts/danfoss-fc302-alarm-35-fault-code/)
+- [Danfoss FC302 VFD ALARM 57 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-57-fault-code/)
+- [Danfoss RX Controller Fault Codes — Troubleshooting Guide](/posts/danfoss-rx-controller-fault/)

@@ -48,3 +48,10 @@ Before attempting any repair, consult the alarm history on your keypad and cross
 ## When to Call a Pro
 
 Call a qualified VFD technician or Yaskawa-authorized service partner immediately if the fault code does not appear in your manual, if the drive will not clear the fault after a full power cycle, or if you lack a multimeter and experience working safely inside energized industrial equipment. The GA800 maintenance documentation explicitly directs users to contact Yaskawa technical support for faults beyond simple fan or control board replacement. Do not attempt to replace internal components without confirming the fault cause and obtaining the correct part number from the manufacturer, as incorrect repairs can void warranties and create safety hazards.
+
+## See Also
+
+- [Yaskawa GA800 E07 Fault - Causes & Fix](/posts/yaskawa-ga800-e07-fault-code/)
+- [Yaskawa GA800 E37 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e37-fault-code/)
+- [Yaskawa GA800 E03 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e03-fault-code/)
+- [Yaskawa GA800 E08 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e08-fault-code/)

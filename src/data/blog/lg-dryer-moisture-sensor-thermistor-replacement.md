@@ -67,3 +67,10 @@ If this part is failing you may also see one of these codes:
 ## When to Call a Pro
 
 If you are uncomfortable working inside the dryer cabinet, cannot locate the thermistor or moisture sensor after removing panels, or if replacing both sensors does not fix the problem, call a qualified appliance technician. Persistent error codes after sensor replacement usually mean a control-board or wiring harness fault that requires diagnostic tools and schematic knowledge. A pro can also test sensor resistance values against factory specifications to confirm the part is truly bad before you buy a replacement.
+
+## See Also
+
+- [LG Refrigerator Freezer Not Freezing - Causes & Fix](/posts/lg-refrigerator-freezer-not-freezing/)
+- [LG Mini Split CH60 Error - Causes & Fix](/posts/lg-mini-split-ch60-error-code/)
+- [LG Dryer HE Error Code - Causes & Fix](/posts/lg-dryer-he-error-code/)
+- [LG Refrigerator dS Error Code - Causes & Fix](/posts/lg-refrigerator-ds-error-code/)

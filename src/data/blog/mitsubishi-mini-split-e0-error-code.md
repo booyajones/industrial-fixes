@@ -49,3 +49,10 @@ In practice, E0 points to one of three areas: a faulty remote controller, loose 
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with low-voltage control wiring or if you've verified the remote and wiring but the fault persists. Indoor control board replacement requires safe handling of electrical connections and proper programming or pairing with the outdoor unit. A technician can also reference the model-specific service manual to confirm the exact failure point and avoid unnecessary part replacement. Always consult a professional if the system uses multi-zone controls or networked communication, as these configurations require specialized diagnostic tools.
+
+## See Also
+
+- [Mitsubishi Mr. Slim Error Code P6 - What It Means and How to Fix It](/posts/mitsubishi-mr-slim-error-code-p6/)
+- [Mitsubishi EE Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-ee-error-code/)
+- [Mitsubishi FR-D700 VFD Fault Codes — Complete Diagnostic Reference](/posts/mitsubishi-fr-d700-fault-codes/)
+- [Mitsubishi MSZ-FS12NA Problems & Error Codes](/posts/mitsubishi-msz-fs12na-ductless-mini-split-air-conditioner-problems/)

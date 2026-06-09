@@ -50,3 +50,10 @@ When any error code other than 00 appears, Mitsubishi instructs you to stop usin
 ## When to Call a Pro
 
 Call a licensed HVAC technician or Mitsubishi Electric authorized dealer if the error persists after you have replaced the remote batteries and cleaned the receiver, or if you are not comfortable working inside the indoor unit with power isolated. Mitsubishi officially recommends dealer service for any error code that does not clear, and a qualified technician will have the model-specific service manual, error-code tables, and diagnostic tools to measure voltages and verify communication signals on the control board. Professional help is also required if the fault points to a failed main PCB, because refrigerant-circuit access or electrical certification may be needed to complete the repair safely.
+
+## See Also
+
+- [Mitsubishi Mini Split P2 Error - Causes & Fix](/posts/mitsubishi-mini-split-p2-error-code/)
+- [Mitsubishi F0003 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-f0003-error-code/)
+- [Mitsubishi E7 Error Code - Causes & Fix](/posts/mitsubishi-mini-split-e7-error-code/)
+- [Mitsubishi PL Error Code - Causes & Fix](/posts/mitsubishi-mini-split-pl-error-code/)

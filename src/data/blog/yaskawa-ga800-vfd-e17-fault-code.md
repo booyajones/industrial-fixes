@@ -46,3 +46,10 @@ E17 on the Yaskawa GA800 is not a standard internal drive hardware fault code. Y
 ## When to Call a Pro
 
 Call a qualified technician or contact Yaskawa support if the fault returns after you have verified all external wiring and interlock devices, if the GA800 Technical Manual definition for E17 does not match your observed symptoms, or if the drive requires parameter changes or option-card diagnostics beyond your training. Professional help is also needed if the drive will not clear the fault even after power cycling and all field devices test normal, or if you do not have access to the machine's wiring diagram and cannot safely trace which input is generating the fault signal.
+
+## See Also
+
+- [Yaskawa GA800 E44 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e44-fault-code/)
+- [Yaskawa V1000 OV Fault - What It Means and How to Fix It](/posts/yaskawa-v1000-fault-ov/)
+- [Yaskawa GA800 E16 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e16-fault-code/)
+- [Yaskawa GA800 E28 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e28-fault-code/)

@@ -49,3 +49,10 @@ A common trigger is residue from dryer sheets coating the bars, which clean off 
 ## When to Call a Pro
 
 Cleaning and swapping the sensor bars is a doable home repair. If clean, good sensor bars still throw HS, the wiring or control board may be at fault, and an appliance pro can confirm that before you replace a costly board.
+
+## See Also
+
+- [LG Refrigerator Leaking Water - Causes & Fix](/posts/lg-refrigerator-leaking-water/)
+- [LG Oven F1 Error Code - Causes & Fix](/posts/lg-oven-f1-error-code/)
+- [LG Range F4 Error Code - Causes & Fix](/posts/lg-range-f4-error-code/)
+- [LG Mini Split Won't Turn On - Causes & Fix](/posts/lg-mini-split-wont-turn-on/)

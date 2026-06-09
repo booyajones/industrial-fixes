@@ -51,3 +51,10 @@ If debris, scale, or a stuck component prevents the sensor from registering flow
 ## When to Call a Pro
 
 Call a licensed plumber or Navien service technician if the no-hot-water condition continues after clearing debris from the pressure relief valve, cleaning the inlet filter, and confirming all valves are open. Internal flow sensor testing, control board diagnostics, and heat exchanger descaling often require specialized tools and knowledge of the specific model. Any work involving gas supply, burner components, or igniter replacement should always be performed by a qualified professional to meet code and warranty requirements. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Navien Error Code E012 — Flame Loss During Operation Fix](/posts/navien-error-code-e012/)
+- [Navien E002 Error Code - Causes & Fix](/posts/navien-tankless-e002-error-code/)
+- [Navien Error Code E022 — Hot Water Outlet Thermistor Fault Fix](/posts/navien-error-code-e022/)
+- [Navien E109 Error - Causes & Fix](/posts/navien-tankless-water-heater-e109-error-code/)

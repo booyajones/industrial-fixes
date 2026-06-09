@@ -51,3 +51,10 @@ Most flow-sensor failures come from mineral buildup or contamination that jams t
 ## When to Call a Pro
 
 Navien recommends that any work involving gas connections, burner control, or internal water-path components be performed by the original installer or a Navien-certified service technician. If you are not comfortable isolating gas and water, working inside the unit's pressure boundary, or interpreting model-specific fault codes, call a qualified pro. After sensor replacement, a technician can verify proper flow-signal voltage, check for upstream restrictions at the inlet filter, and confirm that the control board is reading the new sensor correctly under full-demand conditions. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Navien E027 Error Code - Causes & Fix](/posts/navien-tankless-e027-error-code/)
+- [Navien E007 Error Code - Causes & Fix](/posts/navien-tankless-e007-error-code/)
+- [Navien E002 Error Code — Causes & Fix](/posts/navien-error-code-e002/)
+- [Navien Error Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003-ignition-failure/)

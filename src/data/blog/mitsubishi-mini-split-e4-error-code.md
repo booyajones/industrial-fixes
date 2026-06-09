@@ -47,3 +47,10 @@ The E4 error code on Mitsubishi mini-split systems is not universal across all m
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you cannot find your model's fault table, if you are not comfortable working inside a live mini-split control box, or if the error returns after you replace the sensor or motor. Refrigerant-circuit work and board-level diagnostics require specialized tools and EPA certification. A pro will have the exact Mitsubishi service manual, can verify refrigerant charge if the fault is actually compressor-related on certain platforms, and will warranty the repair.
+
+## See Also
+
+- [Mitsubishi E6 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-e6-error-code/)
+- [Mitsubishi Mini Split P1 Error Code Fix](/posts/mitsubishi-p1-error-code/)
+- [Mitsubishi P9 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-p9-error-code/)
+- [Mitsubishi E7 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-e7-error-code/)

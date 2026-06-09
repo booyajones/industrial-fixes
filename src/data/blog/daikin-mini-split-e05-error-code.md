@@ -49,3 +49,10 @@ In plain terms, the outdoor unit's compressor is either overheating, drawing too
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not EPA 608 certified to handle refrigerant, if initial wiring inspection reveals no obvious faults, or if the compressor tests as mechanically locked. Compressor replacement and inverter board diagnosis require specialized tools, refrigerant recovery and recharge, and knowledge of high-voltage inverter circuits. Misdiagnosis can lead to expensive part swaps without fixing the underlying issue, and improper refrigerant work is both illegal and unsafe.
+
+## See Also
+
+- [Daikin U5 Error Code - Causes & Fix](/posts/daikin-u5-error-code/)
+- [Daikin H6 Error Code — Indoor Fan Motor Lock Fault Fix](/posts/daikin-h6-error-code/)
+- [Daikin Mini Split Leaking Water - Causes & Fix](/posts/daikin-mini-split-leaking-water/)
+- [Daikin E04 Error Code - Causes & Fix](/posts/daikin-mini-split-e04-error-code/)

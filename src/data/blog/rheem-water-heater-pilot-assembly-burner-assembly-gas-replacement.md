@@ -60,3 +60,10 @@ If this part is failing you may also see one of these codes:
 ## When to Call a Pro
 
 Gas burner and pilot work involves shutting off gas supply, disconnecting gas lines, and verifying safe ignition and combustion after reassembly. If you are not comfortable working with gas fittings, do not have the tools to disconnect flare or compression fittings safely, or if you discover a popped thermal release device or heavy sooting that suggests a venting or gas pressure problem, call a licensed plumber or gas technician. Rheem recommends professional service for any condition that involves the gas control valve itself, draft or venting issues, or if the pilot will not stay lit after replacing the pilot assembly and cleaning all passages. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rheem Prestige RP20 Heat Pump Error Codes - Full Fault Code Reference](/posts/rheem-rp20-heat-pump-error-codes/)
+- [Rheem RTEX Electric Tankless Water Heater Error Codes](/posts/rheem-rtex-electric-tankless-error-codes/)
+- [Rheem EcoNet A101 Error Code — Causes & Fix](/posts/rheem-econet-a101-error-code/)
+- [Rheem Furnace 9 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-9-flashes/)

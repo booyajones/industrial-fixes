@@ -57,3 +57,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Rheem's official guidance for recurring Code 11 is to book service. Gas solenoid testing, manifold pressure measurement, and igniter-coil replacement all involve working inside a gas appliance and should be handled by a licensed gas technician. If your reset attempt and basic vent check do not restore ignition, or if you smell gas at any point, shut off the gas supply and call a pro immediately. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rheem Furnace 5 Flashes Error Code — Flame Sensor Fault Fix](/posts/rheem-furnace-5-flashes-flame-sensor/)
+- [Rheem RTGH-95DVLN Problems & Error Codes](/posts/rheem-rtgh-95dvln-water-heater-problems/)
+- [Rheem Furnace 3 Flashes - Causes & Fix](/posts/rheem-furnace-3-flashes-error-code/)
+- [Rheem Furnace Blowing Cold Air - Causes & Fix](/posts/rheem-furnace-blowing-cold-air/)

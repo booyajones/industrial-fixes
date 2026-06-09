@@ -47,3 +47,10 @@ This fault typically points to a problem with the soft-charge bypass relay itsel
 ## When to Call a Pro
 
 Call a qualified technician or Yaskawa-authorized service provider if the fault repeats after re-energizing, if you are not trained in VFD diagnostics and high-voltage work, or if replacing the soft-charge relay and control board does not clear the code. The GA800 maintenance documentation explicitly limits user-serviceable repairs to fan and control board replacement, so deeper internal faults require factory support or a complete drive replacement. Any work on VFDs involves lethal DC bus voltages that can persist long after input power is removed, so lockout/tagout and proper discharge verification are mandatory before opening the enclosure.
+
+## See Also
+
+- [Yaskawa GA800 E86 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e86-fault-code/)
+- [Yaskawa GA800 E46 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e46-fault-code/)
+- [Yaskawa GA800 E25 Fault - Causes & Fix](/posts/yaskawa-ga800-e25-fault-code/)
+- [Yaskawa U1000 Fault Codes: Complete Guide](/posts/yaskawa-u1000-fault-codes/)

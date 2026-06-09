@@ -286,5 +286,29 @@
     "score": 3,
     "reason": "Research explicitly states E64 description is NOT found in available GA800 documentation, yet draft presents detailed causes/fixes as factual\u2014fails authenticity requirement for this exact brand+model combination.",
     "date": "2026-06-08"
+  },
+  "yaskawa-ga800-vfd-e71-fault-code": {
+    "topic": "Yaskawa GA800 VFD E71 fault code",
+    "score": 6,
+    "reason": "Research explicitly states 'do not have a manufacturer-confirmed' E71 definition and 'results do not include a manufacturer page that explicitly defines E71 by code'\u2014the code is not documented for this exact brand+model, failing criterion 1.",
+    "date": "2026-06-09"
+  },
+  "yaskawa-ga800-vfd-e74-fault-code": {
+    "topic": "Yaskawa GA800 VFD E74 fault code",
+    "score": 3,
+    "reason": "E74 is not documented as a real GA800 fault code in the research; the draft conflates unverified E74 with documented Uv3 fault, failing authenticity requirement.",
+    "date": "2026-06-09"
+  },
+  "yaskawa-ga800-vfd-e83-fault-code": {
+    "topic": "Yaskawa GA800 VFD E83 fault code",
+    "score": 3,
+    "reason": "E83 is NOT documented as a real GA800 fault code per the research; the draft correctly admits this uncertainty but should not be published as a definitive error-code guide when the code itself cannot be verified for this specific drive model.",
+    "date": "2026-06-09"
+  },
+  "yaskawa-ga800-vfd-e94-fault-code": {
+    "topic": "Yaskawa GA800 VFD E94 fault code",
+    "score": 3,
+    "reason": "FAIL: E94 is not verified as a real GA800 fault code in the research; the draft extensively discusses Uv3 instead, which is a different code entirely\u2014publishing would misinform users searching for E94.",
+    "date": "2026-06-09"
   }
 }
