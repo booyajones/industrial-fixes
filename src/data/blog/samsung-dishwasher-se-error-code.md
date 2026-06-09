@@ -1,52 +1,75 @@
 ---
 title: "Samsung SE Error Code - Causes & Fix"
-description: "Samsung SE code means the dishwasher can't drain water in time. Most often caused by a kinked drain hose or clogged filter."
-pubDatetime: 2026-05-31T04:40:53Z
-modDatetime: 2026-05-31T04:40:53Z
-author: "Marcus Webb"
+description: "Samsung SE (5E) code means a drain error: water won't leave the tub. Most often a clogged pump filter or kinked drain hose."
+pubDatetime: 2026-06-07T23:16:27Z
+modDatetime: 2026-06-07T23:16:27Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
-  - dishwasher
   - samsung
+most_likely_cause: "clogged pump filter or debris trap"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Samsung SE Error Code — What It Means
 
-The SE error code (also displayed as 5C, 5E, or SC on some Samsung dishwasher models) indicates a drain error. The machine is having trouble draining water from the tub within the expected time. Samsung support describes this as a difficulty in draining water, not a complete failure, but the dishwasher will stop the cycle to prevent overflow or other damage.
+The SE code (also displayed as 5E on many Samsung washer models) signals a drainage fault. The washer has detected that water remained in the drum when the tub should have emptied during a drain or spin cycle. This is a drain-path problem, not a wash motor or fill system issue. Samsung's official support pages document 5E as the canonical drain error code, and user displays on certain models show SE for the same condition.
 
-This code points to a blockage or restriction somewhere in the drain path, from the sump at the bottom of the tub all the way through the drain hose to your home plumbing. The dishwasher's control board sets the code when the water level sensor detects standing water after the drain pump has run for its programmed cycle time.
+The fault typically means the drain pump could not remove water quickly enough, or water could not exit through the drain hose. The washer will not advance to the next cycle step until the drain path is cleared and the tub empties properly.
+
+## Before You Replace Anything
+
+Many people order a new drain pump when the real problem is a coin, hairpin, or lint wad blocking the pump filter or impeller inlet. Always remove and inspect the pump filter and check the drain hose for kinks before replacing the pump assembly.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Pinched, kinked, or clogged drain hose** Samsung lists this first as the most common cause, where the flexible drain hose is bent too sharply under the sink or has collected debris inside.
-- **Blocked filter or sump area** Food particles, broken glass, or other debris lodge in the fine filter or the sump housing below it, preventing water from reaching the drain pump.
-- **Restricted sink drain or garbage disposal connection** A clogged disposal, closed knockout plug, or blocked tailpiece stops wastewater from leaving the dishwasher even when the pump runs correctly.
-- **Failed or sticking drain pump** The pump motor burns out, the impeller jams on debris, or internal corrosion prevents the pump from spinning at full speed.
-- **Clogged check valve or drain valve diaphragm** A stuck check valve or torn diaphragm in the drain assembly allows water to flow backward or restricts forward flow during the drain cycle.
+- **Clogged pump filter or debris trap (~50%)** Lint, coins, buttons, hairpins, or small fabric items lodge in the filter housing or impeller inlet, blocking water flow out of the tub.
+- **Kinked, frozen, or blocked drain hose (~25%)** The rubber drain hose is crushed behind the washer, pinched by the cabinet, frozen in an unheated space, or has a buildup of soap residue inside.
+- **Failed or obstructed drain pump (~12%)** The pump motor windings are open, the impeller is broken, or debris wedged inside the pump volute prevents the impeller from turning even after the filter is clean.
+- **Incorrect drain hose installation or height (~10%)** The hose discharge end is too high (above 90-100 cm at the standpipe) or too low, or the hose is pushed too far into the standpipe, creating a siphon or air-lock problem.
+- **Washer not level (~3%)** An out-of-level machine can cause water to pool away from the sump or prevent the pressure switch from sensing that the tub is empty.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Can you hear the drain pump running when the error appears?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The pump motor is trying to work but water is not leaving, so the blockage is downstream: check the drain hose for kinks or clogs and verify correct standpipe height (60-100 cm depending on connection type).<br><strong>No:</strong> The pump is not running at all, so either debris is jamming the impeller or the pump has failed: remove and clean the pump filter first, then inspect the pump inlet for obstructions before testing electrical connections.</div>
+</details>
+
+<details class="dtree"><summary>Does water drain manually when you open the pump filter access and pull the emergency drain tube or tip the filter cap?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Water is reaching the pump, so the problem is in the pump itself (jammed impeller or failed motor) or in the hose downstream: clean the filter, check the hose, and test a drain cycle.<br><strong>No:</strong> Water is not reaching the pump sump, which suggests a main drain blockage higher in the tub outlet or an internal hose fault: inspect the large corrugated hose between the tub and pump housing for kinks or clogs.</div>
+</details>
+
+<details class="dtree"><summary>Is the washer level front-to-back and side-to-side when you place a bubble level on the top panel?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Level is correct, so focus on the drain filter, hose routing, and pump assembly as the primary suspects.<br><strong>No:</strong> Adjust the leveling feet until all four corners rest firmly and the bubble is centered: Samsung lists leveling as a first check because an unlevel machine can interfere with drainage and pressure-switch sensing.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Disconnect power** at the circuit breaker or unplug the unit to make it safe for inspection and avoid injury.
-2. **Inspect the drain hose** routing under the sink for sharp kinks, pinches where it passes through the cabinet, or sags that form a low trap where debris settles.
-3. **Remove and clean the filter assembly** at the bottom of the tub by twisting it counterclockwise (consult your model's manual for the exact motion), then rinse away all food particles and check the sump cavity below the filter for foreign objects.
-4. **Check the sink drain and garbage disposal** connection by removing the dishwasher drain hose from the disposal inlet or tailpiece and verifying that water flows freely, and confirm any disposal knockout plug was removed during installation.
-5. **Run a manual drain test** by restoring power, starting a rinse cycle, and canceling it to trigger a drain, watching and listening for the drain pump to spin and water to evacuate within two to three minutes.
-6. **Inspect the drain pump and impeller** by accessing the pump housing (usually from beneath the unit or behind a lower panel), removing the cover, and checking for debris wrapped around the impeller or a seized motor shaft.
-7. **Test the drain pump electrically** by measuring for continuity across the pump motor terminals (if your model's service data provides resistance values) or by applying direct voltage if you have verified the wiring and control board are sending the correct signal, then replace the pump if it fails to spin.
+1. **Power off and unplug** the washer at the wall outlet before you open any drain access or touch water-handling components.
+2. **Check that the washer is level** by placing a bubble level on the top panel and adjusting the front leveling feet until the machine rests solidly on all four corners.
+3. **Inspect the drain hose** where it exits the back of the washer: look for kinks, tight bends, or crushing by the cabinet, and verify the standpipe discharge height is between 60 and 100 cm as specified by Samsung.
+4. **Locate the pump filter access panel** at the lower front of the cabinet (on front-load models), open it, and pull out the small emergency drain tube or place a shallow pan underneath to catch residual water.
+5. **Unscrew and remove the pump filter** by turning it counterclockwise, then rinse the filter screen under running water and inspect the filter cavity and pump inlet for coins, lint, hairpins, buttons, or other debris blocking the impeller.
+6. **Reinstall the filter securely** by threading it clockwise until snug, close the access panel, plug in the washer, and run a short rinse-and-spin or drain test cycle to confirm the tub empties completely.
+7. **If the SE code returns** after filter and hose cleaning, the drain pump assembly itself is the next service point: either the impeller is broken, the motor windings have failed, or debris remains lodged inside the volute that you cannot reach through the filter opening.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dishwasher-se-error-code&k=Drain+hose&tag=errorcodefixes-20) \| Replace if kinked beyond straightening, cracked, or internally clogged with hardened debris. |
-| Fine filter and sump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dishwasher-se-error-code&k=Fine+filter+and+sump+assembly&tag=errorcodefixes-20) \| Order the complete filter set if the mesh is torn or the plastic housing is cracked. |
-| Drain pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dishwasher-se-error-code&k=Drain+pump&tag=errorcodefixes-20) \| Match your model number exactly, Samsung pumps vary by tub design and motor voltage. |
-| Drain check valve or diaphragm | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dishwasher-se-error-code&k=Drain+check+valve+or+diaphragm&tag=errorcodefixes-20) \| Buy the valve kit if your model uses a separate flapper or rubber diaphragm in the drain path. |
+| Samsung washer drain pump filter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dishwasher-se-error-code&k=Samsung+washer+drain+pump+filter&tag=errorcodefixes-20) \| The twist-out filter at the pump inlet; replace if the threads are stripped, the seal is torn, or the screen is cracked. |
+| Samsung washer drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dishwasher-se-error-code&k=Samsung+washer+drain+pump+assembly&tag=errorcodefixes-20) \| Includes motor and volute; needed when the filter and hose are clear but the pump will not run or water will not drain. |
+| Washer drain hose (universal or OEM) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dishwasher-se-error-code&k=Washer+drain+hose+%28universal+or+OEM%29&tag=errorcodefixes-20) \| Replace if the original hose is kinked, cracked, or clogged with hardened detergent residue that will not flush out. |
 
 ## When to Call a Pro
 
-Call a pro if you have cleared the filter, straightened the hose, verified the sink drain is open, and the SE code returns immediately on the next cycle. Persistent drain errors after those checks usually mean a failed pump, a control board fault sending incorrect signals, or a wiring problem between the board and the pump. A technician can measure pump voltage during the drain cycle, test the water-level sensor, and access Samsung service mode diagnostics to isolate the fault without replacing parts by trial. Also call for service if you are uncomfortable working under the dishwasher or disconnecting plumbing and electrical connections.
+Call a professional if you have cleaned the pump filter and drain hose, verified correct hose height and washer level, and the SE code still appears after a test cycle. At that point the drain pump assembly or an internal tub-to-pump hose may have failed, and diagnosis requires disassembly of the lower cabinet and multimeter testing of pump power and continuity. Also call a pro if you are uncomfortable working with standing water, removing cabinet panels, or testing electrical connections on a 120-volt appliance. A qualified appliance technician can check pump voltage, measure impeller resistance, inspect the pressure switch and control board signals, and replace the pump or related components in one visit.
+
+**Rough cost:** DIY runs about $10-40 in parts (filter or hose), 20-45 min. A pro service call runs about $120-250 service call including pump replacement if needed.
