@@ -16,6 +16,7 @@ import RelatedPosts from "@/components/RelatedPosts.astro";
 import EmailCapture from "../components/EmailCapture.astro";
 import AffiliateDisclosure from "@/components/AffiliateDisclosure.astro";
 import PartsSpecialist from "@/components/PartsSpecialist.astro";
+import StickyPartsBar from "@/components/StickyPartsBar.astro";
 import { getPath } from "@/utils/getPath";
 import { authors } from "../data/authors";
 import { equipmentCategories } from "@/data/equipmentCategories";
@@ -339,6 +340,10 @@ const nextPost =
          specialist; links are Skimlinks-monetized (no noskim). Placed after
          the article body and before the tag/EditPost block. -->
     <PartsSpecialist {tags} query={title.replace(/—.*$/, '').trim()} />
+
+    <!-- Sticky mobile "get the part" bar: appears after the reader scrolls into
+         the fix, so the affiliate click is earned. Mobile only, self-contained. -->
+    <StickyPartsBar query={title.replace(/—.*$/, '').trim()} brand={tags?.[0] ?? ''} />
 
     <hr class="my-8 border-dashed" />
 

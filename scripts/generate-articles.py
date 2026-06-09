@@ -329,7 +329,7 @@ def claude_write(topic: str, research: str) -> dict | None:
         ' "misdiagnosis_warning": "<1-2 sentences naming the part people wrongly replace first and the cheap test to do instead; empty string if none>",'
         ' "cost_diy": "<rough DIY cost and time as a general range, e.g. $20-60 in parts, 30-60 min; empty string if unknown>",'
         ' "cost_pro": "<rough pro service cost as a general range, e.g. $150-300; empty string if unknown>",'
-        ' "causes": [{"lead": "<short bold lead-in>", "text": "<one sentence>"}],'
+        ' "causes": [{"lead": "<short bold lead-in>", "text": "<one sentence>", "share": <integer 0-100: rough share of how often this is the actual cause>}],'
         ' "decision_tree": [{"question": "<a yes/no check a homeowner can actually do>", "if_yes": "<what it means and what to do next>", "if_no": "<what it means and what to do next>"}],'
         ' "steps": ["<imperative step with a bolded first phrase>", "..."],'
         ' "parts": [{"name": "<part name a buyer would search>", "note": "<short selection note>"}],'
@@ -360,7 +360,10 @@ def claude_write(topic: str, research: str) -> dict | None:
         "Give 2-3 decision_tree checks a homeowner can actually perform (for example \"Does the drum "
         "spin freely by hand?\"), each with a clear if_yes and if_no. cost_diy and cost_pro are rough "
         "GENERAL ranges; leave them empty if the research gives no basis. misdiagnosis_warning names "
-        "the expensive part people replace by mistake and the cheap test that finds the real cause."
+        "the expensive part people replace by mistake and the cheap test that finds the real cause. "
+        "RANKED CAUSES: order causes most likely first and give each a rough share (integer percent) "
+        "of how often it is the actual cause; the shares should sum to about 100. Shares are field-"
+        "frequency estimates from typical repair experience, not guarantees and not invented numeric specs."
     )
     prompt = (
         f"Write a repair guide for: \"{topic}\".\n\n"
@@ -473,7 +476,23 @@ def assemble_md(topic: str, c: dict, slug: str, draft: bool = False) -> str:
         for p in parts
     ) or "| Replacement component | " + amazon(title) + " \\| verify fitment for your exact model |"
 
-    causes = "\n".join(f"- **{x['lead']}** {x['text']}" for x in c.get("causes", []))
+    def _share_int(x):
+        try:
+            return int(float(x.get("share")))
+        except (TypeError, ValueError):
+            return 0
+
+    def _cause_line(x):
+        lead = str(x.get("lead", "") or "").strip()
+        text = str(x.get("text", "") or "").strip()
+        sh = _share_int(x)
+        pct = f" (~{sh}%)" if sh else ""
+        if not lead:
+            return f"- {text}" if text else ""
+        return f"- **{lead}{pct}** {text}".rstrip()
+
+    _causes = sorted(c.get("causes", []) or [], key=_share_int, reverse=True)
+    causes = "\n".join(filter(None, (_cause_line(x) for x in _causes)))
     steps = "\n".join(f"{i+1}. {s}" for i, s in enumerate(c.get("steps", [])))
 
     # ---- Diagnosis Command Center depth (all optional, backward compatible) ----

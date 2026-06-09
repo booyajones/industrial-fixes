@@ -1,0 +1,106 @@
+---
+// Sticky mobile "get the part" bar. The reader has scrolled into the fix, so
+// buying intent peaks. Appears only after they scroll past the diagnostic
+// (earned, not begged), mobile only, routes to the consumer parts leader
+// (RepairClinic) via Skimlinks (no noskim, so it is monetized). One clear CTA.
+interface Props {
+  query: string;
+  brand?: string;
+}
+const { query, brand = "" } = Astro.props;
+const rcUrl = `https://www.repairclinic.com/Shop-For-Parts?query=${encodeURIComponent(query)}`;
+---
+
+<div id="sticky-parts" class="sticky-parts" aria-hidden="true" data-pagefind-ignore>
+  <div class="sp-inner">
+    <span class="sp-text">Found the part you need?</span>
+    <a
+      class="sp-cta"
+      href={rcUrl}
+      target="_blank"
+      rel="sponsored noopener"
+      data-affiliate-network="skimlinks"
+      data-affiliate-kind="parts-specialist"
+      data-affiliate-placement="sticky_mobile"
+      data-affiliate-brand={brand}
+    >
+      Get the exact part
+      <span aria-hidden="true">→</span>
+    </a>
+  </div>
+</div>
+
+<script is:inline>
+  (function () {
+    var bar = document.getElementById("sticky-parts");
+    if (!bar) return;
+    var shown = false;
+    function onScroll() {
+      var y = window.scrollY || document.documentElement.scrollTop;
+      var past = y > 640;
+      if (past !== shown) {
+        shown = past;
+        bar.classList.toggle("visible", past);
+        bar.setAttribute("aria-hidden", past ? "false" : "true");
+      }
+    }
+    window.addEventListener("scroll", onScroll, { passive: true });
+    onScroll();
+  })();
+</script>
+
+<style>
+  /* Mobile only. Hidden off-screen until the reader scrolls into the fix. */
+  .sticky-parts {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 45;
+    transform: translateY(115%);
+    transition: transform 0.25s ease;
+    background: var(--brand);
+    border-top: 2px solid var(--accent);
+    box-shadow: 0 -4px 16px rgba(0, 0, 0, 0.18);
+  }
+  .sticky-parts.visible {
+    transform: translateY(0);
+  }
+  @media (min-width: 640px) {
+    .sticky-parts {
+      display: none;
+    }
+  }
+  .sp-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+    max-width: 48rem;
+    margin: 0 auto;
+    padding: 0.6rem 0.9rem calc(0.6rem + env(safe-area-inset-bottom));
+  }
+  .sp-text {
+    color: var(--brand-contrast);
+    font-weight: 600;
+    font-size: 0.88rem;
+    line-height: 1.2;
+  }
+  .sp-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    background: var(--accent);
+    color: #fff;
+    font-weight: 700;
+    font-size: 0.9rem;
+    padding: 0.55rem 0.95rem;
+    border-radius: 8px;
+    text-decoration: none;
+    white-space: nowrap;
+  }
+  .sp-cta:focus-visible {
+    outline: 2px solid #fff;
+    outline-offset: 2px;
+  }
+</style>
