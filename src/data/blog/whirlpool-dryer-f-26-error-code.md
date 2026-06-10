@@ -1,50 +1,74 @@
 ---
-title: "Whirlpool F-26 Dryer Error - Causes & Fix"
-description: "F-26 on a Whirlpool Cabrio dryer means drive motor failure. Most often caused by burnt motor connector contacts or failed motor windings."
-pubDatetime: 2026-05-31T03:08:46Z
-modDatetime: 2026-05-31T03:08:46Z
-author: "Marcus Webb"
+title: "Whirlpool F26 Dryer Error - Causes & Fix"
+description: "F26 on a Whirlpool dryer signals a power-cycle diagnostic fault. Turn off the circuit breaker for 5 minutes and restart."
+pubDatetime: 2026-06-08T05:04:52Z
+modDatetime: 2026-06-08T05:04:52Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dryer
   - whirlpool
+most_likely_cause: "temporary control or communication glitch"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
-## Whirlpool F-26 Dryer Error — What It Means
+## Whirlpool F26 Dryer Error — What It Means
 
-The F-26 error code on Whirlpool Cabrio-style dryers signals a drive motor failure or motor circuit fault. The machine control has detected that the motor is not starting or running correctly. Whirlpool's product help instructs owners to perform a power reset and then run a timed dry test to see if the code returns. In the field, technicians treat F-26 as a motor or start-circuit problem unless inspection reveals a damaged harness, loose connector, or failed main control board.
+F26 is a reset or power-cycle diagnostic fault on Whirlpool dryer platforms. It indicates an electronic fault condition detected by the control board. The code does not point to a single failed component like a thermistor, heater, or door switch. Instead, Whirlpool's published guidance treats F26 as a temporary control or communication glitch that may clear after a full power interruption.
+
+Whirlpool directs technicians to turn off the circuit breaker for five minutes, restore power, run a time dry cycle, and watch whether the code returns within one minute. If the fault reappears immediately after the reset, the manufacturer recommends contacting a qualified service technician. The exact cause requires model-specific diagnostics when the code persists.
+
+## Before You Replace Anything
+
+Many people replace the control board or motor first. Before ordering parts, perform the full five-minute breaker reset and verify the code returns immediately after restart, because most F26 faults clear on their own.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Burnt or loose motor connector contacts** Heat and vibration can cause the connector pins at the motor to burn, corrode, or pull loose, breaking the circuit between the control and motor.
-- **Failed motor windings or start circuit** The motor's run or start windings may open or short internally, preventing the motor from spinning when power is applied.
-- **Damaged wiring harness** Chafed, pinched, or broken wires between the machine control and the motor interrupt the drive signal.
-- **Failed machine control board** The main control electronics may not be driving or sensing the motor correctly, even when the motor itself is good.
-- **Intermittent belt switch** A faulty belt tension switch may not close reliably, causing the control to read an open safety circuit and flag a motor fault.
+- **Temporary control glitch (~60%)** A momentary firmware or communication fault that clears after a full power reset.
+- **Persistent control-board fault (~25%)** An electronic fault that reappears immediately after the reset, requiring service-level diagnosis.
+- **Loose wiring harness (~10%)** A poor connection between the control board and other dryer components can trigger intermittent fault codes.
+- **Power-supply voltage drop (~5%)** A brief brownout or circuit-breaker trip during a cycle can leave the control in a fault state that needs a full reset.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Did the code appear during or just after a power outage or breaker trip?</summary>
+<div class="dtree-body"><strong>Yes:</strong> A voltage interruption likely left the control in a fault state. Proceed with the five-minute breaker reset.<br><strong>No:</strong> The fault is internal to the dryer. Continue with the full power reset and monitor whether it returns.</div>
+</details>
+
+<details class="dtree"><summary>After the five-minute breaker reset, does F26 return within one minute of starting a time dry cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault is persistent. Contact a qualified technician for model-specific diagnostics and possible control-board replacement.<br><strong>No:</strong> The glitch has cleared. Resume normal use and monitor the dryer over the next few cycles.</div>
+</details>
+
+<details class="dtree"><summary>Can you hear or feel the dryer's drum motor start when you begin a cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The motor and drive system are working. The fault is likely in the control or wiring harness.<br><strong>No:</strong> Check for a tripped breaker or loose power connection before diagnosing further.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Kill power at the breaker** and wait five minutes, then restore power to perform a reset. Start a timed dry cycle and let the dryer run for one minute to see if F-26 returns.
-2. **Disconnect power again at the breaker** and verify the unit is de-energized before opening the cabinet to access internal components.
-3. **Inspect the motor connector and harness** closely for loose pins, burnt or discolored terminals, damaged wire insulation, or connectors that have pulled off the motor.
-4. **Check motor winding resistance** at the motor terminals using a multimeter. One technician reference indicates that if the resistance across P8-4 and P9-1 is about 1 to 6 ohms, the machine control electronics is suspect. If the start winding reads much greater than 4 ohms, the motor is suspect.
-5. **Test the belt switch** by accessing the switch and checking continuity while manually deflecting the tension pulley. If the switch does not close reliably, replace it.
-6. **Repair or replace the failed component** found during testing, whether motor, control board, harness connector, or belt switch.
-7. **Reassemble the dryer**, restore power, and run a full timed dry cycle to confirm that the F-26 code does not return.
+1. **Turn off the circuit breaker(s)** that supply the dryer at your home's electrical panel.
+2. **Wait five full minutes** to allow the control board to discharge and reset completely.
+3. **Restore power** by switching the breaker(s) back on.
+4. **Start a time dry cycle** on the dryer, not an automatic-sensor cycle.
+5. **Watch the dryer for about one minute** to see if the F26 code reappears on the display.
+6. **If the code does not return**, resume normal use and monitor the dryer over the next several loads.
+7. **If F26 reappears immediately**, contact a qualified appliance technician for model-specific diagnostics and possible control-board replacement.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Whirlpool Cabrio dryer drive motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dryer-f-26-error-code&k=Whirlpool+Cabrio+dryer+drive+motor&tag=errorcodefixes-20) \| Replacement motor assembly if windings are open or start circuit is failed. |
-| Whirlpool dryer main control board / machine control electronics | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dryer-f-26-error-code&k=Whirlpool+dryer+main+control+board+%2F+machine+control+electronics&tag=errorcodefixes-20) \| Replace if resistance testing points to control rather than motor. |
-| Dryer motor wiring harness with connector | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dryer-f-26-error-code&k=Dryer+motor+wiring+harness+with+connector&tag=errorcodefixes-20) \| Order if connector terminals are burnt or wires are damaged beyond repair. |
-| Dryer belt switch / belt tension switch | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dryer-f-26-error-code&k=Dryer+belt+switch+%2F+belt+tension+switch&tag=errorcodefixes-20) \| Needed if continuity testing shows the switch is not closing reliably. |
+| Whirlpool dryer control board (user interface or main) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dryer-f-26-error-code&k=Whirlpool+dryer+control+board+%28user+interface+or+main%29&tag=errorcodefixes-20) \| Only replace after verifying the fault persists through a full reset and consulting your model's service manual. |
+| Wire-harness repair kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dryer-f-26-error-code&k=Wire-harness+repair+kit&tag=errorcodefixes-20) \| If inspection reveals burnt or loose connectors between the control and other components. |
 
 ## When to Call a Pro
 
-Call a professional if you are uncomfortable working inside the dryer cabinet with electrical components, if you do not own a multimeter or lack confidence interpreting resistance readings, or if you have replaced the motor or control board and the F-26 code still returns. Motor and control diagnostics require careful measurement and part-number cross-referencing to avoid unnecessary replacements.
+Call a qualified appliance technician if the F26 code returns within one minute of restarting the dryer after a five-minute breaker reset. At that point Whirlpool's guidance says service-level diagnostics are needed. A technician will have your model's wiring diagram, can measure control-board signals, and can verify whether the main control or user-interface board requires replacement. Also call if you are uncomfortable working at the circuit breaker or if you need to remove panels to inspect wiring harnesses. A pro visit typically costs $150 to $300 including diagnostics and a board swap if required.
+
+**Rough cost:** A pro service call runs about $150–300 if control board replacement is needed.

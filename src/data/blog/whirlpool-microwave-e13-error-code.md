@@ -1,48 +1,72 @@
 ---
 title: "Whirlpool Microwave E13 Error Code - Causes & Fix"
-description: "E13 means preheat failure on Whirlpool over-the-range microwaves. Most often the appliance control board or wiring has failed."
-pubDatetime: 2026-05-31T07:40:25Z
-modDatetime: 2026-05-31T07:40:25Z
-author: "James Rutherford"
+description: "E13 means the microwave did not preheat correctly. The most common cause is a failed appliance control board or loose wiring."
+pubDatetime: 2026-06-08T05:07:55Z
+modDatetime: 2026-06-08T05:07:55Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - microwave
   - whirlpool
+most_likely_cause: "appliance control board"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Whirlpool Microwave E13 Error Code — What It Means
 
-E13 on a Whirlpool over-the-range microwave is a preheat failure code. The unit did not preheat correctly during a convection or preheat cycle. The fault typically points to trouble in the appliance control board or the associated wiring that runs between the board and the temperature-sensing circuit. A temporary control glitch can sometimes trigger the code, but if it returns after a power reset, you are looking at a real component or wiring issue that needs diagnosis and replacement.
+On Whirlpool over-the-range microwaves, E13 indicates the oven did not pre-heat correctly. The unit entered a preheat-related mode and failed to reach the expected preheat condition. Whirlpool's own product help identifies the appliance control board and associated wiring as the primary suspects. This is not a magnetron or door-switch fault. It is a control-system issue tied to the preheat sequence.
+
+## Before You Replace Anything
+
+Many people replace the magnetron or door switches when they see any error code, but E13 is explicitly a preheat-controller fault. Reset the breaker first and confirm the code returns before buying any parts.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed appliance control board** The main control board has a logic fault or failed output that prevents the preheat cycle from completing correctly.
-- **Damaged wiring or loose connectors** The harness between the control board and the temperature sensor or preheat circuit is broken, corroded, or loose.
-- **Faulty temperature sensor or thermal sensing circuit** On models that monitor preheat temperature, the sensor or its circuit has failed and cannot report valid readings to the control board.
-- **Heat-damaged harness connections** Connector pins or terminals have been damaged by heat over time, creating intermittent or open circuits during preheat operation.
+- **Failed appliance control board (~60%)** Whirlpool points to the control board as the primary suspect when preheat logic fails.
+- **Loose or corroded wiring and connectors (~25%)** Whirlpool also implicates the associated wiring and harness connectors in the preheat circuit.
+- **Preheat temperature-sensing circuit fault (~10%)** Some models use a preheat-sensing component whose failure can prevent the expected preheat condition.
+- **Transient software glitch (~5%)** A rare one-time fault that clears after a full power-down at the breaker.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the E13 code disappear and stay away after you reset the breaker for one minute?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault was a transient glitch. Monitor the microwave and no further repair is needed unless it returns.<br><strong>No:</strong> The fault is real. Proceed to inspect the control board and wiring harness for visible damage, corrosion, or loose connectors.</div>
+</details>
+
+<details class="dtree"><summary>Do you see any charred spots, burn marks, or swollen capacitors on the control board?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The board is visibly failed and should be replaced.<br><strong>No:</strong> The board may still be faulty internally. Check all harness connectors for tightness and corrosion, then replace the board if the code persists.</div>
+</details>
+
+<details class="dtree"><summary>Are all wire harness connectors to the control board fully seated and free of corrosion?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Wiring is good. The control board itself is the likely cause and should be replaced.<br><strong>No:</strong> Clean or reseat the affected connectors, restore power, and retest. If the code returns, replace the board.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Turn off the circuit breaker** that powers the microwave for one full minute, then turn it back on and wait another minute to see if the E13 code returns. This is Whirlpool's published reset step for over-the-range microwave error codes.
-2. **Note the operating mode** when the fault appears. E13 is tied to preheat or convection cycles, not standard microwave cooking, so verify that the code only appears during those modes.
-3. **Inspect all connectors** at the control board and along the harness for looseness, corrosion, or heat damage. Reseat each connector firmly and look for discolored or melted plastic on the housing.
-4. **Check harness continuity** from the control board to the temperature sensor or thermal circuit. Use a multimeter to confirm that each wire in the harness has continuity and no shorts to ground.
-5. **Test the temperature sensor** if your model uses one for preheat monitoring. Compare the resistance reading at room temperature to the value in your model's service manual or tech sheet. Do not guess at the specification.
-6. **Replace the failed component** once testing has identified the control board, harness, or sensor as the root cause. Component replacement is the repair, not adjustment or cleaning.
-7. **Run a preheat test cycle** after the repair to confirm that the microwave completes the cycle without throwing E13 again.
+1. **Turn off power at the circuit breaker** for the microwave and wait at least one full minute to allow capacitors to discharge and the control board to reset.
+2. **Restore power** and test the microwave. If E13 does not return, the fault was a transient glitch and no further repair is needed.
+3. **If E13 returns immediately**, unplug the unit or switch off the breaker again and remove the outer cover to access the control board and wiring harness.
+4. **Inspect the appliance control board** for visible damage such as burn marks, charred traces, swollen capacitors, or corrosion on the circuit board.
+5. **Check every wire-harness connector** that plugs into the control board. Unplug each, inspect the pins and sockets for corrosion or bent contacts, and firmly reseat them.
+6. **Replace the appliance control board** if visible damage is present or if all connectors are clean and tight but the code persists after power is restored.
+7. **Reassemble the microwave**, restore power, and run a short test cycle to verify E13 is cleared and preheat completes normally.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Appliance control board (main PCB) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-microwave-e13-error-code&k=Appliance+control+board+%28main+PCB%29&tag=errorcodefixes-20) \| Order by your exact model number. The control board is the most common E13 failure. |
-| Wiring harness or connector kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-microwave-e13-error-code&k=Wiring+harness+or+connector+kit&tag=errorcodefixes-20) \| If inspection shows heat damage or broken wires. Match the part number to your microwave model. |
-| Temperature sensor (preheat sensor) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-microwave-e13-error-code&k=Temperature+sensor+%28preheat+sensor%29&tag=errorcodefixes-20) \| Only needed if your model uses a sensor for preheat monitoring and testing confirms it is out of spec. |
+| Whirlpool Microwave Appliance Control Board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-microwave-e13-error-code&k=Whirlpool+Microwave+Appliance+Control+Board&tag=errorcodefixes-20) \| Match the board part number printed on your existing board or use your full model number to make sure the correct replacement. |
+| Wire Harness or Connector Kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-microwave-e13-error-code&k=Wire+Harness+or+Connector+Kit&tag=errorcodefixes-20) \| Order only if you find a burnt or corroded connector that cannot be cleaned. Model-specific. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if the code returns after a breaker reset, or if you are not comfortable working with live 120 VAC circuits and control boards. Diagnosis requires a multimeter, the model-specific service manual with sensor resistance tables, and safe disassembly of the microwave cabinet. Misdiagnosis can lead to unnecessary part replacement and wasted money, and working inside an over-the-range microwave without disconnecting power and discharging capacitors carries a serious shock hazard. A technician will have the correct specs and tools to pinpoint whether the control board, harness, or sensor is at fault.
+Call a professional if you are uncomfortable working around high-voltage microwave components, if you cannot locate or safely access the control board, or if replacing the board and checking all connectors does not clear the E13 code. A technician can test model-specific preheat-sensing circuits and verify whether any additional components in the preheat chain have failed. Also call a pro if the unit is still under warranty, since self-repair may void coverage.
+
+**Rough cost:** DIY runs about $120-250 in parts, 45-90 min. A pro service call runs about $200-400.

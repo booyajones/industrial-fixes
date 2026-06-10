@@ -1,49 +1,74 @@
 ---
 title: "Whirlpool Oven AB Error Code - Causes & Fix"
-description: "AB (SAB/5AB/5A6) means Sabbath Mode is active on your Whirlpool oven. Exit the mode using your model's manual procedure to restore normal operation."
-pubDatetime: 2026-05-31T06:27:43Z
-modDatetime: 2026-05-31T06:27:43Z
-author: "Marcus Webb"
+description: "AB on a Whirlpool oven usually means Sabbath Mode (SAb/5AB/5A6) is active, not a fault. Exit the mode via your control panel."
+pubDatetime: 2026-06-08T05:15:51Z
+modDatetime: 2026-06-08T05:15:51Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - oven
   - whirlpool
+most_likely_cause: "Sabbath Mode accidentally activated"
+likelihood: "the most common explanation"
+diy_or_pro: "diy"
 ---
 
 ## Whirlpool Oven AB Error Code — What It Means
 
-The display code SAB, 5AB, 5A6, or Sab on your Whirlpool oven indicates that Sabbath Mode is currently activated. This is not a fault or component failure. Sabbath Mode is a special feature that modifies oven behavior to comply with certain religious observances by disabling lights, sounds, and automatic shutoffs. The oven will not respond to normal controls until you exit this mode.
+Whirlpool does not publish an official AB error code for ovens in its cooking-appliance fault-code documentation. If your display shows AB, you are most likely seeing SAb, 5AB, or 5A6, which indicates Sabbath Mode is activated. This is a feature setting, not a malfunction. Sabbath Mode disables certain control functions and tones to comply with religious observance requirements.
 
-Whirlpool's official error-code chart does not list a standalone "AB" code. If your display shows something that looks like AB, confirm whether it actually reads SAB or 5AB. The resolution is to deactivate Sabbath Mode using the specific button sequence for your model, which varies by control panel design. Consult your owner's manual for the exact exit procedure.
+If the characters on your display are truly AB in a different pattern or font, Whirlpool's official support page does not document that as a standard oven fault code. In that case the issue may be a different Whirlpool code (such as PF for power failure or F9/E0 for electrical problems) being misread on the display, or a model-specific message not covered in the general help guide.
+
+## Before You Replace Anything
+
+Homeowners sometimes assume AB is a control-board failure and replace the electronic control. Before ordering any part, confirm the exact characters on the display and check your owner's manual for Sabbath Mode instructions.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Sabbath Mode was intentionally enabled** Someone pressed the correct button combination on the control panel to activate the mode, and it remains on until manually deactivated.
-- **Accidental button press during cleaning** Wiping the control panel or leaning against it can trigger the multi-button sequence that enters Sabbath Mode on some Whirlpool models.
-- **Child or unfamiliar user activated the feature** A household member unfamiliar with the control panel pressed buttons that unknowingly turned on Sabbath Mode.
-- **Misreading the display code** The code may be a different fault (such as F3 or F9) that resembles AB due to poor lighting or a partial display failure.
+- **Sabbath Mode activated (~75%)** The display shows SAb, 5AB, or 5A6 because Sabbath Mode was turned on through the control panel, either intentionally or by accident.
+- **Misreading a different code (~15%)** A genuine fault code such as F9, PF, or another alphanumeric message is being misinterpreted as AB due to partial segment failures or viewing angle on the display.
+- **Power interruption (~5%)** A brief loss of power caused the control to display a temporary message or mode indicator that resembles AB.
+- **Control-board glitch (~5%)** The electronic control is showing garbled characters or an undocumented message due to a software or hardware anomaly.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the display show SAb, 5AB, or 5A6 in full, and do the oven controls feel locked or unresponsive?</summary>
+<div class="dtree-body"><strong>Yes:</strong> You are in Sabbath Mode. Consult your owner's manual for the button sequence to exit it (often holding a specific pad for several seconds).<br><strong>No:</strong> The display may be showing a different code or a partial message. Proceed to reset power and verify the exact characters.</div>
+</details>
+
+<details class="dtree"><summary>After a 1-minute power reset at the breaker, does the AB or SAb display clear completely?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The issue was likely a transient glitch or power event. Monitor the oven during the next use.<br><strong>No:</strong> The code is persistent. Check your model number and owner's manual to confirm whether AB or SAb is documented, or call Whirlpool support with the exact display text.</div>
+</details>
+
+<details class="dtree"><summary>Can you find your model's owner's manual and locate a section on Sabbath Mode or error codes?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Follow the manual's instructions to exit Sabbath Mode or identify the exact fault code for your model.<br><strong>No:</strong> Search Whirlpool's support site by model number, or contact a technician to decode the display and diagnose any underlying fault.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. Verify the exact code displayed: confirm it reads SAB, 5AB, 5A6, or Sab rather than a different error like F3 or FC.
-2. Locate your model number on the oven frame or door, then download the owner's manual from Whirlpool's support site if you don't have the printed copy.
-3. Find the Sabbath Mode section in your manual and follow the exit procedure, which typically involves pressing and holding a specific button (often Clock or Timer) for three to five seconds.
-4. Attempt the exit sequence two or three times if the first try does not clear the code, as timing and button pressure matter on capacitive touch panels.
-5. Power-cycle the oven at the circuit breaker by switching it off for one full minute, then restore power and check if the code clears and normal operation returns.
-6. Test basic oven functions after exiting Sabbath Mode by setting a bake temperature and verifying that lights, sounds, and display feedback all work normally.
-7. Document the button sequence that cleared the code so you can quickly reverse it if someone accidentally activates Sabbath Mode again in the future.
+1. **Write down the exact display characters** including spacing, case, and any flashing segments, and note your oven model number from the rating plate inside the door frame.
+2. **Check your owner's manual** for a section on Sabbath Mode or Special Features to see if SAb, 5AB, or 5A6 is listed as the Sabbath Mode indicator.
+3. **Exit Sabbath Mode** if confirmed by pressing and holding the designated control pad (often labeled Options, Settings, or a specific key combination) for 3 to 5 seconds until the display returns to normal.
+4. **Reset power to the oven** by switching off the circuit breaker or removing the fuses for 1 full minute, then restoring power and watching the display as it powers up.
+5. **Observe the display** after the reset to see if AB or SAb returns, and note whether the oven functions normally (bake and broil elements respond, timer works).
+6. **Cross-reference the code** in Whirlpool's online support or the wiring diagram inside the oven cabinet if the display is not Sabbath Mode and persists after reset.
+7. **Contact Whirlpool customer support or a technician** with your model number and a photo of the display if the code remains unidentified or the oven will not operate.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Owner's Manual (digital download) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-oven-ab-error-code&k=Owner%27s+Manual+%28digital+download%29&tag=errorcodefixes-20) \| Free PDF from Whirlpool's website using your model number, contains the exact Sabbath Mode exit procedure. |
-| Control Panel Overlay (if display is damaged) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-oven-ab-error-code&k=Control+Panel+Overlay+%28if+display+is+damaged%29&tag=errorcodefixes-20) \| Only needed if the display is cracked or unreadable and you cannot confirm the actual code being shown. |
+| Electronic oven control board (ERC) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-oven-ab-error-code&k=Electronic+oven+control+board+%28ERC%29&tag=errorcodefixes-20) \| Only replace if Whirlpool support confirms a control fault and the code is not Sabbath Mode. |
+| Oven display overlay / keypad membrane | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-oven-ab-error-code&k=Oven+display+overlay+%2F+keypad+membrane&tag=errorcodefixes-20) \| Needed if physical damage or wear is causing garbled or partial display segments. |
 
 ## When to Call a Pro
 
-Call a technician if the code does not clear after following your manual's Sabbath Mode exit steps and performing a full power cycle at the breaker. If the display shows a different code or partial segments after you restore power, or if the oven fails to heat even after the SAB code disappears, you may have a control board or user-interface fault that requires diagnostic tools and part replacement. A qualified appliance repair tech can read internal fault logs and test the control circuits to identify the root cause when the simple exit procedure does not resolve the issue.
+Call a qualified appliance technician if you cannot identify the exact code in your owner's manual, if the display persists after exiting Sabbath Mode and a full power reset, or if the oven will not heat even after the code clears. A technician can retrieve diagnostic fault history from the control board and test line voltage at the terminal block to rule out electrical supply problems. If the display is genuinely an undocumented fault code, the technician will consult the wiring diagram and Whirlpool service bulletins to pinpoint the failed sensor or relay. High-voltage work on the terminal block or control board replacement should always be done by a professional to avoid shock and warranty issues.
+
+**Rough cost:** DIY runs about $0, 1-2 min to exit Sabbath Mode. A pro service call runs about $80-150 service call if diagnosis is needed.

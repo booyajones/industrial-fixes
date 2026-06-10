@@ -8,26 +8,29 @@
 
 :root,
 html[data-theme="light"] {
-  --background: #F4F3EF;
-  --foreground: #0F1418;
-  --accent: #E6531D;
-  --muted: #E8E5DC;
-  --border: #D9D6CE;
-  /* Service-manual identity (additive). Service blue = structure + trust;
-     semantic colors = diagnostic badges; code chip = the error code as hero. */
-  --brand: #1B2A4A;
+  /* Design-excellence palette (swarm 2026-06-10): navy is the spine, orange is a
+     disciplined AA-safe accent (never a headline color), cream lightened, true
+     white behind content. */
+  --background: #FAFAF8;
+  --surface: #FFFFFF;
+  --foreground: #10182A;
+  --accent: #C2410C;
+  --muted: #F1F0EC;
+  --border: #E4E2DB;
+  --brand: #15233F;
   --brand-contrast: #FFFFFF;
-  --safe: #15803D;
+  --safe: #0E7C5A;
   --caution: #B45309;
   --danger: #B91C1C;
-  --code-bg: #15263F;
-  --code-fg: #F4F3EF;
+  --code-bg: #15233F;
+  --code-fg: #FAFAF8;
 }
 
 html[data-theme="dark"] {
   --background: #0F1418;
+  --surface: #161D2B;
   --foreground: #F4F3EF;
-  --accent: #E6531D;
+  --accent: #E5683A;
   --muted: #1A2024;
   --border: #2A3038;
   --brand: #9DB8E0;
@@ -43,6 +46,7 @@ html[data-theme="dark"] {
   --font-app: "Inter Tight", "Helvetica Neue", Helvetica, Arial, sans-serif;
   --font-mono: ui-monospace, "JetBrains Mono", "SFMono-Regular", Menlo, Consolas, monospace;
   --color-background: var(--background);
+  --color-surface: var(--surface);
   --color-foreground: var(--foreground);
   --color-accent: var(--accent);
   --color-muted: var(--muted);

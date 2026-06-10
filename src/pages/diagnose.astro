@@ -3,6 +3,7 @@ import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
 import { SITE } from "@/config";
+import ApplianceIcon from "@/components/ApplianceIcon.astro";
 
 const APPLIANCES = [
   { key: "washer", label: "Washer", emoji: "\u{1F9FA}", match: ["washer"] },
@@ -37,7 +38,7 @@ const pageUrl = new URL("/diagnose", SITE.website).href;
       <div id="dx-appliances" class="dx-grid">
         {APPLIANCES.map(a => (
           <button class="dx-appl" type="button" aria-pressed="false" data-key={a.key} data-match={a.match.join(",")}>
-            <span class="dx-emoji" aria-hidden="true">{a.emoji}</span>
+            <ApplianceIcon name={a.key} class="dx-icon" />
             <span>{a.label}</span>
           </button>
         ))}
@@ -176,7 +177,7 @@ const pageUrl = new URL("/diagnose", SITE.website).href;
   }
   .dx-appl:hover { border-color: var(--accent); background: color-mix(in srgb, var(--accent) 6%, transparent); }
   .dx-appl.active { border-color: var(--brand); background: color-mix(in srgb, var(--brand) 10%, transparent); }
-  .dx-emoji { font-size: 1.6rem; line-height: 1; }
+  .dx-icon { color: var(--brand); }
   .dx-search-wrap { margin-bottom: 0.5rem; }
   #dx-search {
     width: 100%; padding: 0.85rem 1rem; font-size: 1.05rem; font-family: var(--font-mono);

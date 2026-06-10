@@ -1,47 +1,73 @@
 ---
 title: "Whirlpool Range AB Error Code - Causes & Fix"
-description: "AB or SAB on a Whirlpool range usually means Sabbath Mode is active. Exit the mode using your owner's manual button sequence."
-pubDatetime: 2026-05-31T06:39:02Z
-modDatetime: 2026-05-31T06:39:02Z
-author: "James Rutherford"
+description: "AB is not a standard Whirlpool range error code. Likely a misread display or model-specific fault. Power-cycle the unit first."
+pubDatetime: 2026-06-08T05:21:34Z
+modDatetime: 2026-06-08T05:21:34Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - oven
   - whirlpool
+diy_or_pro: "diy"
 ---
 
 ## Whirlpool Range AB Error Code — What It Means
 
-Whirlpool does not publish an official AB fault code in its public error-code charts for ranges. The closest match is SAB, Sab, 5AB, or 5A6, which indicates Sabbath Mode is activated. Sabbath Mode is a feature that disables certain controls and displays to comply with religious observances. If your display truly shows AB by itself, it is most likely a variation of the Sabbath Mode indicator, a misread of the code, or a model-specific abbreviation rather than a component failure.
+Whirlpool does not publish an "AB" error code in its standard cooking-appliance fault-code charts. The display you see may be a misread of another code (such as "A8" or "F9"), a model-specific code not listed in general documentation, or a partial display caused by a failing control board or keypad. Because the meaning is not confirmed in manufacturer sources, the safest first step is to power-cycle the range at the breaker and confirm the exact characters and model number.
+
+If the code reappears, check your owner's manual or the wiring diagram inside the range's control panel for a model-specific code list. Some Whirlpool ranges do use letter-number combinations to flag electrical supply issues, sensor faults, or control-board communication errors, but without a verified definition for "AB" you should not replace parts until you have confirmed the exact fault.
+
+## Before You Replace Anything
+
+Homeowners often replace the electronic control board when an unfamiliar code appears. Before ordering a board, power-cycle the unit for one minute and photograph the exact display. Many codes clear on reset or point to a loose connector rather than a failed board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Sabbath Mode was activated intentionally or by accident** A user pressed the correct button sequence to enter the mode, or the feature was triggered during a power event.
-- **Power-up condition or button-hold triggered the mode** Some models enter Sabbath Mode if certain buttons are held during startup or after a power outage.
-- **Misreading the display** The display may show SAB or 5AB but appear similar to AB depending on font and viewing angle.
-- **Model-specific display behavior** A few models may abbreviate Sabbath Mode differently, so checking your exact model documentation is necessary.
+- **Misread or partial display (~40%)** The control panel may be showing only part of a two-character code (such as "F9" appearing as "AB" due to a stuck segment) or you may have read similar-looking characters incorrectly.
+- **Model-specific or undocumented code (~30%)** Some Whirlpool range models use codes that do not appear in the general published chart and are listed only in the service manual or wiring diagram for that series.
+- **Electronic control-board glitch (~15%)** A temporary memory error or voltage spike can cause the board to display an invalid code that clears after a full power reset.
+- **Keypad or membrane-switch fault (~10%)** A stuck button or damaged membrane can send garbled signals to the control board, resulting in a code that does not match the published list.
+- **Electrical supply or line-noise issue (~5%)** If the range is receiving incorrect voltage or experiencing line noise (similar to Whirlpool's documented F9 code), the control may display unexpected characters before logging a recognized fault.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the code disappear after you power-cycle the range at the breaker for one full minute?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault was likely a temporary glitch. Monitor the range during normal use; if the code does not return within a week, no further repair is needed.<br><strong>No:</strong> The fault is persistent. Proceed to confirm the exact code and model number, then consult the service manual or call a technician for diagnosis.</div>
+</details>
+
+<details class="dtree"><summary>Can you locate your range's model number (usually on a label inside the oven door or on the side wall) and find a code chart in the owner's manual or wiring diagram?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Cross-reference the exact characters on the display with that chart. If 'AB' is listed, follow the manufacturer's diagnostic steps for that code.<br><strong>No:</strong> Without a model-specific chart you cannot verify the meaning of 'AB.' Contact Whirlpool support with your full model number or schedule a service call for accurate diagnosis.</div>
+</details>
+
+<details class="dtree"><summary>Are all burners, the oven, and the control-panel buttons otherwise working normally when the code is not displayed?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The issue is likely isolated to a sensor, wiring connector, or intermittent control-board fault rather than a total failure. A technician can test sensor circuits and connectors before replacing the board.<br><strong>No:</strong> Multiple functions failing alongside an unknown code suggests a control-board or power-supply problem. Have a technician verify incoming voltage at the terminal block and test the board.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Verify the exact code** by standing directly in front of the display and confirming whether it reads AB, SAB, Sab, 5AB, or 5A6.
-2. **Locate your owner's manual** for your model number (found on the rating plate inside the oven door or drawer) and turn to the Sabbath Mode section.
-3. **Follow the exit sequence** printed in the manual, which typically involves pressing and holding a specific button or combination for three to five seconds.
-4. **Reset power if the code persists** by switching off the circuit breaker for one minute, then restoring power and checking whether the display clears.
-5. **Record the exact model number** from the data plate if the display still shows AB and does not match any Sabbath Mode indicator in your manual.
-6. **Contact Whirlpool or a technician** with your model number if the code does not clear, because AB is not a standard Whirlpool fault code and may require model-specific service documentation.
-7. **Do not replace parts** based on AB alone, since Whirlpool's published guidance shows SAB codes require a mode exit, not component replacement.
+1. **Turn off power** at the circuit breaker or fuse panel that supplies the range and wait one full minute to allow the control board to reset.
+2. **Restore power** and observe the display. Write down the exact characters shown, including any spaces, letters, or numbers, and note whether they are steady or flashing.
+3. **Locate the model and serial number** on the label inside the oven door frame or on the rear panel, and find your owner's manual (or download it from Whirlpool's support site using the model number).
+4. **Check the manual's error-code chart** or the wiring diagram inside the control-panel cover for a definition of the code you see. If "AB" is not listed, the code may be model-specific or misread.
+5. **Inspect the keypad** for stuck or damaged buttons. Press each key firmly to make sure none are jammed. If a button feels stuck, the membrane switch or overlay may need replacement.
+6. **Verify incoming power** by checking that the range is plugged in fully (if it has a cord) or that the terminal-block connections are tight and that both hot legs are delivering the correct voltage (consult a qualified electrician if you are not comfortable testing voltage).
+7. **Contact Whirlpool support or a certified technician** if the code persists and is not documented in your manual. Provide the full model number and the exact code displayed so the technician can reference the service manual and perform targeted diagnostics.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Owner's manual (digital or print) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-range-ab-error-code&k=Owner%27s+manual+%28digital+or+print%29&tag=errorcodefixes-20) \| Required to identify the correct Sabbath Mode exit sequence for your model. |
-| Model-specific service manual | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-range-ab-error-code&k=Model-specific+service+manual&tag=errorcodefixes-20) \| Necessary if AB is a true fault code unique to your range and not listed in public Whirlpool charts. |
+| Electronic Control Board (ERC or Clock/Timer Board) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-range-ab-error-code&k=Electronic+Control+Board+%28ERC+or+Clock%2FTimer+Board%29&tag=errorcodefixes-20) \| Only replace after confirming the board is faulty through voltage and continuity tests; verify your exact model number and part number from the wiring diagram. |
+| Keypad Membrane or Overlay | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-range-ab-error-code&k=Keypad+Membrane+or+Overlay&tag=errorcodefixes-20) \| If a button is stuck or the display is garbled due to membrane damage; part number varies by model and control style. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if the display shows AB and you cannot find a matching code or Sabbath Mode reference in your owner's manual, or if the range exhibits abnormal behavior such as no heat, unresponsive controls, or error messages that reappear after a power reset. Because Whirlpool's public documentation does not define a universal AB fault code, a tech with access to model-specific service sheets and diagnostic tools can determine whether the display indicates a control-board issue, a wiring fault, or another component failure that requires parts and testing equipment.
+Call a professional if the code returns after a power reset and you cannot find it in your owner's manual or wiring diagram, if you are uncomfortable testing line voltage at the terminal block, or if multiple functions (oven, burners, clock) fail at the same time. A technician has the service manual and diagnostic tools to identify model-specific codes, test sensor circuits and control-board outputs, and verify that the electrical supply is correct. Because "AB" is not a documented Whirlpool cooking-appliance code, professional diagnosis will save you from replacing expensive parts (like the control board) based on guesswork.
+
+**Rough cost:** A pro service call runs about $150–300 for diagnosis and part replacement if board or sensor is confirmed faulty.

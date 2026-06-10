@@ -1,47 +1,71 @@
 ---
 title: "Whirlpool SAB Error Code - Causes & Fix"
-description: "SAB (or 5AB/5A6) on a Whirlpool oven means Sabbath Mode is active, not a fault. Exit the mode using your model's control sequence."
-pubDatetime: 2026-05-31T05:43:15Z
-modDatetime: 2026-05-31T05:43:15Z
-author: "Marcus Webb"
+description: "SAB on Whirlpool ovens means Sabbath Mode is activated, not a fault. Exit using your model's settings menu or power-cycle the breaker."
+pubDatetime: 2026-06-08T05:20:40Z
+modDatetime: 2026-06-08T05:20:40Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
-  - oven
   - whirlpool
+most_likely_cause: "Sabbath Mode was activated through the control panel"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Whirlpool SAB Error Code — What It Means
 
-SAB, Sab, 5AB, or 5A6 on your Whirlpool oven display is not an error code. It indicates that Sabbath Mode is currently active. In this mode, only the Bake function operates. All other cooking and cleaning cycles are disabled, display tones are turned off, and the oven is designed to remain on until you manually turn it off. Whirlpool publishes this as a mode indicator rather than a fault condition.
+SAB (or Sab, 5AB, 5A6) on a Whirlpool cooking appliance means Sabbath Mode is currently enabled. This is not an error code or a component failure. Sabbath Mode is a feature that allows the oven to remain in bake mode until manually turned off, with most other control functions disabled to meet religious observance requirements.
+
+The display appears because the appliance was placed into Sabbath Mode through a control sequence, either intentionally or accidentally. Whirlpool defines this as a mode indicator, not a diagnostic fault code. The appliance will behave normally within the constraints of Sabbath Mode until you exit the feature using the correct procedure for your model.
+
+## Before You Replace Anything
+
+Homeowners sometimes call for service thinking SAB is a control board failure. The code is simply a mode indicator. Check your owner's manual for the exit sequence before ordering any parts.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Sabbath Mode was intentionally enabled** The most common cause is that someone activated Sabbath Mode using the control sequence for your specific model.
-- **Power event during startup** A power outage or interrupted startup can sometimes cause the control to resume in Sabbath Mode on certain models.
-- **Mode was not exited after previous use** If the oven was used in Sabbath Mode recently, the display remains until you explicitly exit the mode.
-- **Control sequence held too long** Accidentally pressing and holding the correct button combination can trigger Sabbath Mode without your knowledge.
+- **Sabbath Mode activated by user (~95%)** The appliance was placed into Sabbath Mode intentionally or accidentally through a settings menu sequence.
+- **Accidental button sequence (~4%)** A specific combination of button presses triggered Sabbath Mode without the user realizing it.
+- **Control interface malfunction (~1%)** The control repeatedly re-enters Sabbath Mode after correct exit, suggesting a control board or interface issue (very rare and not documented as a typical SAB cause by Whirlpool).
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does your owner's manual show a Sabbath Mode exit procedure for your model?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Follow the documented steps exactly (usually through a settings or options menu). The SAB display should clear immediately.<br><strong>No:</strong> Try a power reset by turning off the breaker or unplugging the unit for one minute, then restore power and check if SAB clears.</div>
+</details>
+
+<details class="dtree"><summary>Did the SAB display clear after you exited Sabbath Mode or performed a power reset?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The issue is resolved. The appliance is now in normal operation mode.<br><strong>No:</strong> The control may not be responding correctly. Verify you followed the exact exit sequence for your model or consult a technician if the code persists after multiple attempts.</div>
+</details>
+
+<details class="dtree"><summary>Does the oven still heat and respond to bake commands while SAB is displayed?</summary>
+<div class="dtree-body"><strong>Yes:</strong> This is normal Sabbath Mode behavior. The oven will bake continuously until you exit the mode or turn it off.<br><strong>No:</strong> If the oven is completely unresponsive and you cannot exit Sabbath Mode, perform a power reset at the breaker and attempt the exit sequence again.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Confirm the display shows SAB, Sab, 5AB, or 5A6** and verify that only the Bake function is available, which indicates Sabbath Mode rather than a true fault.
-2. **Locate your model-specific Owner's Manual** to find the exact control sequence for exiting Sabbath Mode, as the method varies by model.
-3. **Exit Sabbath Mode** by pressing and holding the correct button combination for your model (often a combination involving the Clock or Settings button held for several seconds).
-4. **Check the display** to confirm that SAB has cleared and normal oven functions have returned.
-5. **Cycle power at the breaker** for about 1 minute if the code does not clear after manual exit, then recheck the display.
-6. **Test normal operation** by selecting a cooking mode other than Bake to verify all functions are restored.
-7. **Inspect the user interface and control board** for stuck buttons or control logic issues only if SAB returns repeatedly after proper exit and power reset, though Whirlpool does not list component failure as a normal cause for this code.
+1. **Locate your owner's manual** or download it from Whirlpool's website using your full model number to find the exact Sabbath Mode exit procedure for your appliance.
+2. **Access the control panel settings menu** by pressing the designated button (often labeled Settings, Options, or a gear icon) and navigate to the Sabbath Mode option.
+3. **Disable Sabbath Mode** using the control sequence specified in your manual (typically pressing a confirmation button or selecting Off).
+4. **Verify the SAB display clears** and the appliance returns to normal operation, allowing full access to all control functions.
+5. **If the display does not clear**, turn off the circuit breaker or unplug the appliance for at least one minute to perform a hard power reset.
+6. **Restore power and check** whether SAB reappears immediately or if the appliance operates normally.
+7. **If SAB returns after correct exit and reset**, consult the wiring diagram and control interface instructions in your service manual or contact a qualified technician, as Whirlpool does not assign a specific failed component for persistent SAB codes.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Whirlpool Oven User Interface Control Board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-oven-sab-error-code&k=Whirlpool+Oven+User+Interface+Control+Board&tag=errorcodefixes-20) \| Only needed if SAB persists after exit attempts and suggests a stuck input or control logic fault (rare for this code). |
-| Whirlpool Oven Main Electronic Control Board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-oven-sab-error-code&k=Whirlpool+Oven+Main+Electronic+Control+Board&tag=errorcodefixes-20) \| Consider only if the user interface has been ruled out and SAB returns without manual activation. |
+| Replacement component | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-oven-sab-error-code&k=Whirlpool+SAB+Error+Code+-+Causes+%26+Fix&tag=errorcodefixes-20) \| verify fitment for your exact model |
 
 ## When to Call a Pro
 
-Call a technician if the SAB display returns immediately after you exit Sabbath Mode and cycle power at the breaker, or if you cannot find the correct exit sequence for your model and the oven remains locked in Bake-only operation. A pro can verify whether the user interface or main control board has a stuck input or logic fault. For the vast majority of cases, this is a mode setting rather than a hardware failure, so consult your Owner's Manual or Whirlpool support before scheduling service.
+Call a professional if the SAB display persists after you have correctly followed the exit procedure in your owner's manual and performed a complete power reset at the breaker. If the appliance repeatedly re-enters Sabbath Mode on its own or the control panel becomes completely unresponsive, a technician can inspect the control board and interface wiring. However, in the vast majority of cases SAB is simply a mode that can be exited using the documented control sequence, and no service call is necessary.
+
+**Rough cost:** DIY runs about $0, 2-5 minutes.

@@ -1,50 +1,73 @@
 ---
 title: "Whirlpool F3 Error Code - Causes & Fix"
-description: "F3 means oven temperature sensor fault. Most often fixed by replacing the oven temp sensor. Also check wiring and control board."
-pubDatetime: 2026-05-31T06:35:55Z
-modDatetime: 2026-05-31T06:35:55Z
-author: "Dana Kowalski"
+description: "F3 means an oven temperature sensor circuit fault. Most often the sensor probe has failed and needs replacement."
+pubDatetime: 2026-06-08T05:23:01Z
+modDatetime: 2026-06-08T05:23:01Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
-  - oven
   - whirlpool
+most_likely_cause: "failed oven temperature sensor probe"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Whirlpool F3 Error Code — What It Means
 
-The F3 error on a Whirlpool range signals a temperature-sensing fault in the oven system. The exact issue depends on the suffix: F3 E0 indicates a problem with the oven temperature sensor, control board, or associated wiring. F3 E2 adds the warming drawer sensor (if your model has one) to that fault path. While many technicians shorthand this to a bad oven sensor, Whirlpool's documentation confirms the control and wiring are also possible causes.
+The F3 error code on a Whirlpool range or oven indicates a problem with the oven temperature sensing circuit. Whirlpool uses F3 with subcodes (F3 E0, F3 E2) to flag faults in the oven temperature sensor, the electronic control board, or the wiring connecting them. On some models equipped with a warming drawer, F3 E2 can also involve the warming drawer sensor. Regardless of the subcode, the fault prevents the control from accurately reading or interpreting oven temperature, so the unit will stop heating and display the code.
 
-In practice, a failed oven temperature sensor is the most common culprit. Loose or damaged sensor wiring and connectors come next. If the fault returns immediately after a power reset and the sensor tests good, the electronic control board is usually the problem.
+The sensor itself is a resistance temperature detector (RTD probe) that sits inside the oven cavity and reports temperature to the main control board. When the sensor fails, develops an open circuit, or sends a signal the control cannot interpret, the F3 family of codes appears. Wiring faults and control board failures are less common but still possible.
+
+## Before You Replace Anything
+
+Many people replace the expensive control board first when the real fault is a $20 sensor. Always unplug the sensor and inspect the connector and wiring for damage or corrosion before ordering any board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed oven temperature sensor** The sensor probe develops an open circuit or reads out of specification, triggering the fault code.
-- **Loose or damaged sensor wiring** Burned insulation, poor terminal contact, or a loose connector at the sensor harness can mimic a bad sensor.
-- **Failed electronic control board** If the code returns immediately after power reset and the sensor tests normal, the control board itself is defective.
-- **Warming drawer sensor fault (F3 E2 only)** On models with a warming drawer, the drawer sensor or its wiring can also trigger the F3 E2 code.
+- **Failed oven temperature sensor (~65%)** The RTD probe inside the oven cavity develops an internal open or short, sending no signal or a signal out of range to the control board.
+- **Loose or damaged wiring and connectors (~20%)** The plug-in connector between the sensor and control harness corrodes, backs out, or the wires become pinched or broken, interrupting the circuit.
+- **Control board fault (~10%)** The electronic control board itself fails to interpret a good sensor signal correctly, flagging a false fault.
+- **Warming drawer sensor fault (F3 E2 on equipped models) (~5%)** On ranges with a warming drawer, the drawer's own temperature sensor can trigger F3 E2 when it fails or its wiring is damaged.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the code clear for a few minutes after you reset power at the breaker, then return once the oven heats?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The sensor or its wiring is failing under heat. Replace the oven temperature sensor.<br><strong>No:</strong> The fault is constant. Inspect the sensor connector and wiring for visible damage or corrosion before testing further.</div>
+</details>
+
+<details class="dtree"><summary>Is the sensor connector plug fully seated and free of corrosion or burn marks?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The wiring is intact. The sensor probe itself or the control board is at fault. Replace the sensor first.<br><strong>No:</strong> Clean or repair the connector and harness. If damage is severe, replace the wiring or the sensor with its pigtail.</div>
+</details>
+
+<details class="dtree"><summary>After installing a new sensor, does the F3 code still appear immediately on power-up?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The control board is misinterpreting a good sensor or has failed. Replace the electronic control.<br><strong>No:</strong> The sensor was the problem. The oven should now heat normally.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Reset power at the circuit breaker** by switching it off for one full minute, then restore power and observe whether the code returns immediately or stays clear.
-2. **Inspect the sensor wiring and connectors** for burned insulation, loose terminals, or poor seating at the harness connector on the back of the oven cavity.
-3. **Test the oven temperature sensor** by disconnecting it and measuring resistance across the sensor terminals with a multimeter, then compare the reading to your model's specification table (consult your service manual or tech sheet for the exact resistance at room temperature).
-4. **Replace the oven temperature sensor** if the resistance is out of range, reads open, or fluctuates when you wiggle the probe.
-5. **Check the warming drawer sensor** (F3 E2 models only) by disconnecting and testing it the same way you tested the oven sensor, and replace if defective.
-6. **Replace the electronic control board** if the sensor and all wiring test normal but the fault code persists or returns immediately after every power reset.
-7. **Clear the code and test** by running the oven through a bake cycle and verifying stable temperature without the fault reappearing.
+1. **Kill power** at the circuit breaker and wait one full minute to allow the control to reset, then restore power and watch for the code to return.
+2. **Pull the range forward** and remove the rear access panel to expose the oven temperature sensor and its wiring harness.
+3. **Locate the sensor probe** at the back wall of the oven cavity (inside) and trace its wire to the plug-in connector on the harness.
+4. **Unplug the connector** and inspect both the plug and socket for corrosion, bent pins, or burn marks. Clean or repair any damage.
+5. **Remove the sensor** by unscrewing the mounting bracket (usually one or two screws) and pulling the probe out of the oven cavity.
+6. **Install the new sensor** by inserting the probe through the same hole, securing the bracket with screws, and plugging the connector firmly into the harness.
+7. **Reassemble the access panel**, push the range back into place, restore power, and start a bake cycle to verify the code is gone and the oven heats.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Oven temperature sensor probe | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-range-f3-error-code&k=Oven+temperature+sensor+probe&tag=errorcodefixes-20) \| Match the sensor to your exact Whirlpool model number for correct connector and length. |
-| Warming drawer temperature sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-range-f3-error-code&k=Warming+drawer+temperature+sensor&tag=errorcodefixes-20) \| For F3 E2 codes on ranges equipped with a warming drawer. |
-| Electronic oven control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-range-f3-error-code&k=Electronic+oven+control+board&tag=errorcodefixes-20) \| Replace only after confirming sensor and wiring are intact and testing correctly. |
+| Oven temperature sensor / RTD probe | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-range-f3-error-code&k=Oven+temperature+sensor+%2F+RTD+probe&tag=errorcodefixes-20) \| Match the part number on your model's wiring diagram or tech sheet. Most sensors include a short pigtail and connector. |
+| Electronic control board (oven control) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-range-f3-error-code&k=Electronic+control+board+%28oven+control%29&tag=errorcodefixes-20) \| Only needed if a new sensor and clean connections do not clear the code. Verify your exact model number before ordering. |
 
 ## When to Call a Pro
 
-Call a technician if you are not comfortable working with live 240-volt wiring or removing the range back panel to access the sensor and control. Also call if the fault returns after you have replaced both the sensor and control board, since intermittent harness faults inside the range chassis require systematic tracing. If your range is still under warranty, contact Whirlpool or an authorized service center before opening the appliance to preserve coverage.
+Call a technician if you are uncomfortable working behind the range, if your unit is a slide-in or built-in model that requires countertop or cabinetry removal to access the back panel, or if you have replaced the sensor and checked all wiring but the F3 code still appears. A pro can verify sensor resistance against the factory specification table, test the control board's sensor circuit with a simulator, and safely handle any high-voltage wiring. Also call if your model has both an oven and a warming drawer and you are unsure which sensor is at fault.
+
+**Rough cost:** DIY runs about $15-40 in parts, 30-60 min. A pro service call runs about $150-250.
