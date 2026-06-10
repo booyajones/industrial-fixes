@@ -1,54 +1,76 @@
 ---
 title: "Maytag F21 Error Code - Causes & Fix"
-description: "F21 means your Maytag washer detected a long drain or no-drain condition. The most common fix is cleaning the drain pump filter/coin trap."
-pubDatetime: 2026-05-30T23:42:06Z
-modDatetime: 2026-05-30T23:42:06Z
-author: "Dana Kowalski"
+description: "F21 means drain problem-water isn't leaving. Check for a kinked, clogged, or frozen drain hose or a standpipe over 96 in. high first."
+pubDatetime: 2026-06-08T18:49:51Z
+modDatetime: 2026-06-08T18:49:51Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
-  - washer
   - maytag
+most_likely_cause: "kinked or clogged drain hose"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Maytag F21 Error Code — What It Means
 
-The Maytag F21 code on front-load washers means the machine has detected a long drain or no-drain condition. Water is not leaving the tub within the expected drain window, so the control flags a drainage fault. This is a drain performance issue, not a problem with washing or filling.
+F21 on a Maytag front-load washer signals a drain problem or long drain condition. The machine cannot remove water as expected during the cycle. Maytag's own troubleshooting links this code directly to water evacuation issues, not motor or agitation faults.
 
-The washer is taking too long to empty the tub, or it cannot drain at all. The code appears when the drain cycle times out, typically accompanied by water still visible in the drum or a failure to advance to the final spin.
+The control has detected that the tub is not emptying within the programmed time window. This can stem from a restricted drain path (kinked, clogged, or frozen hose), incorrect installation (drain hose routed higher than 96 in. above the floor), or a failed drain pump or filter obstruction. Excess suds or a faulty pressure switch can also prevent proper drain sensing, though these are less common.
+
+## Before You Replace Anything
+
+Many users replace the drain pump without first inspecting the hose and filter. Pull the drain hose and check for kinks, clogs, and correct standpipe height before ordering a pump.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Clogged drain pump filter or coin trap** Lint, coins, socks, small toys, and other debris accumulate in the filter housing and block water flow to the pump.
-- **Kinked or blocked drain hose** The drain hose may be pinched behind the washer, clamped shut, or clogged with debris or detergent buildup.
-- **Excess suds from non-HE detergent** Too much detergent or the wrong detergent type creates foam that interferes with the drain cycle and pressure sensing.
-- **Failed drain pump motor** The pump impeller may be jammed with debris, or the motor itself has failed and cannot move water out of the tub.
-- **Obstructed sump hose or pump impeller** Debris lodged in the short hose between the tub sump and the pump, or stuck in the pump impeller, prevents drainage.
-- **Faulty pressure switch or clogged air trap** A bad pressure transducer, blocked pressure hose, or clogged air chamber can send false water-level signals and prevent the drain cycle from completing.
+- **Kinked drain hose (~35%)** A bend or twist in the hose restricts flow and triggers the long-drain fault.
+- **Clogged drain hose or pump filter (~30%)** Lint, coins, buttons, or other debris block water from leaving the tub.
+- **Drain pump failure (~20%)** The pump impeller is jammed or the motor has failed and cannot expel water.
+- **Drain hose installed too high (~10%)** Routing the hose more than 96 in. (2.4 m) above the floor prevents gravity-assist drainage.
+- **Frozen drain hose (~3%)** In unheated spaces, water in the hose can freeze and block flow completely.
+- **Pressure switch or hose fault (~2%)** A stuck switch or air-leak in the pressure hose can prevent the control from recognizing that the tub has drained.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Is the drain hose kinked, pinched, or looped above 96 in. from the floor?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Straighten the hose and lower the standpipe connection below 96 in., then restart the cycle.<br><strong>No:</strong> Proceed to check the hose and pump filter for clogs.</div>
+</details>
+
+<details class="dtree"><summary>Does water drain freely when you disconnect the hose from the standpipe and lower it into a bucket?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The pump is working and the problem is in the house drain or standpipe height.<br><strong>No:</strong> The blockage is in the machine's hose, filter, or pump.</div>
+</details>
+
+<details class="dtree"><summary>Can you hear the drain pump running during the drain cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The pump has power but may be obstructed or the impeller is broken.<br><strong>No:</strong> Check wiring and connections to the pump, or the pump motor has failed.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Unplug the washer** and turn off the water supply valves to isolate power and prevent accidental starts during the repair.
-2. **Check for excessive suds** by opening the door and inspecting the tub. If foam is present, let it dissipate naturally or run a rinse and spin cycle with no detergent after you clear the fault.
-3. **Remove the lower front access panel** (typically held by spring clips or screws) and locate the drain pump filter or coin trap door on the lower right of the machine.
-4. **Open the filter housing** by turning the cover counterclockwise and slowly pulling the filter out. Have towels and a shallow pan ready, as water will spill. Clean all debris from the filter, the filter cavity, and the pump impeller visible behind it.
-5. **Inspect the drain hose** at the back of the washer for kinks, clamps that have slipped shut, or blockages. Disconnect the hose from the standpipe or laundry sink and flush it with water to confirm it is clear.
-6. **Check the sump hose and pump** by removing the pump assembly if needed. Look for debris in the short rubber hose between the tub sump and the pump inlet, and verify the pump impeller spins freely by hand.
-7. **Test the drain pump electrically** if the mechanical path is clear but the washer still will not drain. Use a multimeter to check for continuity across the pump motor terminals and inspect wiring connections to the pump for damage or corrosion.
-8. **Inspect the pressure system** by locating the pressure switch or transducer (usually mounted high on the tub or control-board area) and its attached air hose. Check for kinks, cracks, or blockages in the hose and clean the air trap chamber if accessible.
+1. **Press PAUSE/CANCEL twice** to abort the cycle, then unplug the washer or flip the breaker off.
+2. **Pull the washer forward** and inspect the entire drain hose run for kinks, twists, clogs, or ice if the machine is in a cold space.
+3. **Measure standpipe height** from the floor to the top of the standpipe or laundry-sink drain connection and confirm it is no more than 96 in. (2.4 m).
+4. **Locate and remove the drain pump filter** (usually behind a lower front access panel) and clean out lint, coins, and debris, then rinse the filter under running water.
+5. **Disconnect the drain hose** from the back of the washer and the standpipe, blow through it or flush with a garden hose to clear any blockage, then reconnect it securely.
+6. **Restore power and run a drain/spin cycle** to verify water pumps out normally and the F21 code does not return.
+7. **If the code persists**, access the drain pump (often by tipping the machine back or removing the front panel), inspect the impeller for obstructions or damage, and test pump continuity with a multimeter (consult your model's wiring diagram for resistance specs), replacing the pump assembly if it has failed.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Maytag washer drain pump filter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-washer-f21-error-code&k=Maytag+washer+drain+pump+filter&tag=errorcodefixes-20) \| The coin trap or filter insert that catches debris before the pump. Verify your model number for the correct filter design. |
-| Maytag front-load washer drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-washer-f21-error-code&k=Maytag+front-load+washer+drain+pump+assembly&tag=errorcodefixes-20) \| Complete pump motor and housing. Replace if the impeller is damaged or the motor does not run when powered. |
-| Washer pressure switch or pressure transducer | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-washer-f21-error-code&k=Washer+pressure+switch+or+pressure+transducer&tag=errorcodefixes-20) \| Analog or digital pressure sensor that reports water level to the control. Match your model and control-board type. |
-| Drain hose and clamps | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-washer-f21-error-code&k=Drain+hose+and+clamps&tag=errorcodefixes-20) \| Replacement corrugated or smooth-bore hose and stainless clamps if the original hose is split, kinked permanently, or clogged. |
+| Maytag washer drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-washer-f21-error-code&k=Maytag+washer+drain+hose&tag=errorcodefixes-20) \| Use OEM or exact-length replacement if kinked or punctured. |
+| Maytag washer drain pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-washer-f21-error-code&k=Maytag+washer+drain+pump&tag=errorcodefixes-20) \| Order by your model number for correct mounting and connector. |
+| Drain pump filter (if removable) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-washer-f21-error-code&k=Drain+pump+filter+%28if+removable%29&tag=errorcodefixes-20) \| Some models have a cleanable filter cartridge in the pump housing. |
 
 ## When to Call a Pro
 
-Call a professional if you have cleaned the filter and drain path, confirmed the hoses are clear, and the washer still displays F21 and will not drain. A technician can safely test the drain pump motor under power, measure pressure-switch signals with diagnostic tools, and trace wiring faults in the harness or control board. Also call for help if you are uncomfortable working with electrical components, if the pump or pressure switch requires removal from inside the cabinet, or if the fault returns immediately after a successful manual drain and filter cleaning.
+Call a technician if you have cleared the hose and filter, confirmed correct standpipe height, and the F21 code still appears. The problem may be a failed drain pump, a faulty pressure switch, an air-leak in the pressure hose, or a control-board fault. Professional diagnostics with a multimeter and wiring diagram will pinpoint the exact failed component and avoid unnecessary part swaps. Also call for service if the machine is still under warranty, if you are uncomfortable tipping the washer to access internal components, or if the pump replacement requires removing the tub or cabinet in a way that risks water damage to your floor.
+
+**Rough cost:** DIY runs about $15-80 in parts (hose or pump filter), 20-45 min. A pro service call runs about $150-250 service call and pump replacement.

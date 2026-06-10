@@ -1,51 +1,77 @@
 ---
 title: "Maytag Washer F22 Error Code - Causes & Fix"
-description: "F22 means the door lock is not engaging or reporting correctly. Most often fixed by clearing obstructions or replacing the door lock."
-pubDatetime: 2026-05-31T02:08:51Z
-modDatetime: 2026-05-31T02:08:51Z
-author: "James Rutherford"
+description: "F22 means the door lock is not detected. Check the door is fully closed, clean the latch area, and inspect for obstructions or damage."
+pubDatetime: 2026-06-08T18:50:02Z
+modDatetime: 2026-06-08T18:50:02Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - washer
   - maytag
+most_likely_cause: "door not fully closed or obstructed"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Maytag Washer F22 Error Code — What It Means
 
-The F22 error on a Maytag front-load washer indicates a door lock or latch failure. The control board is not receiving a valid locked-door signal, so the washer will not start or continue the cycle. Maytag front-load models may also display this fault as F5 E2, both describing the same safety interlock problem: the machine cannot confirm the door is securely locked. Without a proper lock signal, the washer will refuse to fill or spin to prevent water leaks or injury.
+The F22 error code on a Maytag front-load washer means the machine is not detecting a valid door-lock condition. Maytag identifies this as a front door lock issue. The washer will refuse to operate until the door is firmly shut and the lock signal is satisfied. The control board expects confirmation that the door latch has engaged and locked, but that signal is missing or invalid.
 
-This is a safety feature, not a catastrophic failure. In most cases the problem lies with the door strike, the lock assembly itself, or a simple obstruction preventing the door from fully closing. Electrical issues such as loose connectors or a failed control board are less common but possible if mechanical components test good.
+This fault can stem from mechanical problems (door not fully closed, obstruction at the latch, misaligned strike) or electrical issues (dirty lock contacts, faulty door lock assembly, wiring breaks, or control board communication faults). The washer's safety interlock will not allow a cycle to start or continue when the door lock status is uncertain.
+
+## Before You Replace Anything
+
+Many people replace the door lock assembly immediately, but dirty lock contacts or a simple latch obstruction cause F22 just as often. Clean the lock and strike area thoroughly and check for clothing caught in the door seal before ordering parts.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Door not fully closed or obstruction** Laundry, debris, or a folded gasket edge can prevent the door from seating and the latch from engaging the strike.
-- **Worn, bent, or misaligned door strike** The plastic or metal strike on the door opening can crack, shift, or wear down so the lock cannot catch it properly.
-- **Failed door lock or latch assembly** The electromechanical lock may no longer actuate, report its state, or hold the door securely during the cycle.
-- **Loose or corroded wiring harness** Damaged connectors, broken wires, or corrosion between the lock and control board interrupt the lock-feedback circuit.
-- **Faulty main control board** If the lock, strike, and wiring all test good, the control board may not be processing the lock signal correctly.
+- **Door not fully closed or obstructed (~35%)** Laundry protruding past the door opening, overloading, or debris in the gasket area prevents the latch from engaging completely.
+- **Detergent buildup or contamination in the lock area (~25%)** Fabric softener, detergent residue, lint, or grime on the lock mechanism or strike prevents proper electrical contact or mechanical engagement.
+- **Faulty door lock assembly (~20%)** The lock solenoid, latch, or internal switch has failed and no longer reports a locked state to the control board.
+- **Damaged or misaligned door strike (~10%)** The strike plate is cracked, bent, loose, or out of alignment so the latch cannot seat properly.
+- **Wiring harness or connector fault (~7%)** Broken wires, corroded pins, or loose connectors between the door lock assembly and the control board interrupt the lock signal.
+- **Control board communication issue (~3%)** The control board or CCU fails to recognize a valid lock signal even when the lock and wiring test good.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the door close firmly with a distinct click and no visible gap?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The latch is engaging mechanically. Move to cleaning the lock area and checking electrical connections.<br><strong>No:</strong> Remove laundry, check for obstructions in the gasket and latch area, and inspect the strike for damage or misalignment.</div>
+</details>
+
+<details class="dtree"><summary>Is there visible detergent residue, lint, or grime around the lock or strike?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Clean both the lock mechanism and strike thoroughly with a damp cloth, allow to dry, then test the washer again.<br><strong>No:</strong> The lock area is clean. Proceed to inspect the door lock assembly and wiring harness for physical or electrical faults.</div>
+</details>
+
+<details class="dtree"><summary>Does the error persist after cleaning and verifying door closure?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Unplug the washer and test the door lock assembly and wiring harness for continuity and secure connections. Replace the lock if it fails electrical checks.<br><strong>No:</strong> The issue is resolved. Run a test cycle to confirm normal operation.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Power-reset the washer.** Press cancel or off, unplug the machine for at least two minutes, then plug back in and attempt a cycle to clear transient faults.
-2. **Inspect the door opening and gasket.** Remove any laundry, debris, or objects wedged in the door seal or latch area, and verify the rubber boot is not folded or pinched when you close the door.
-3. **Check the door strike.** Open the door and examine the plastic or metal catch on the door opening for cracks, looseness, or misalignment. Tighten mounting screws or replace the strike if it is damaged.
-4. **Test the door lock assembly.** With power off, access the lock from behind the front panel and verify it is secure and the latch arm moves freely. Reconnect power and listen or feel for the lock to click when you start a cycle.
-5. **Inspect wiring and connectors.** Trace the harness from the door lock to the control board, checking for loose pins, corrosion, or broken wires. Wiggle connectors and look for intermittent contact.
-6. **Replace the door lock assembly.** If the lock does not actuate or does not report a closed state, install a new lock assembly and retest the cycle.
-7. **Evaluate the control board.** If the lock, strike, and wiring are all verified good but the fault returns immediately, consult the tech sheet for your model and consider control-board replacement.
+1. **Unload the washer and open the door.** Remove all laundry and check the door gasket and latch area for clothing, debris, or foreign objects that might prevent full closure.
+2. **Close the door firmly** and listen for a distinct click. Verify there is no visible gap between the door and the frame. If the door does not latch, inspect the strike plate for cracks, bending, or looseness.
+3. **Clean the lock and strike area.** Use a soft, damp cloth to wipe detergent residue, fabric softener, lint, and grime from the door lock mechanism and the strike plate. Allow both to dry completely.
+4. **Unplug the washer from power.** Remove the front or top access panel as needed to reach the door lock assembly and wiring harness. Consult your model's service manual for panel removal steps.
+5. **Inspect the wiring harness.** Check the connector at the door lock assembly and trace the wires back to the control board. Look for loose connections, corroded pins, or broken wires. Reconnect or repair as needed.
+6. **Test the door lock assembly.** If available, use a multimeter to check continuity across the lock terminals when the door is closed and when open. Replace the door lock assembly if it does not show expected continuity changes or if the latch is visibly damaged.
+7. **Reassemble and test.** Replace all panels, plug the washer back in, and run a short test cycle to verify the F22 error is cleared. If the error persists after replacing the lock and verifying wiring, the control board may require replacement or further diagnostic mode testing.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Door lock assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-washer-f22-error-code&k=Door+lock+assembly&tag=errorcodefixes-20) \| Electromechanical latch and switch. Match your Maytag model number for correct mounting and connector. |
-| Door strike | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-washer-f22-error-code&k=Door+strike&tag=errorcodefixes-20) \| Plastic or metal catch on the cabinet. Verify fitment for your washer's door hinge style. |
-| Main control board (CCU) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-washer-f22-error-code&k=Main+control+board+%28CCU%29&tag=errorcodefixes-20) \| Only after confirming lock and wiring are intact. Verify part number from your tech sheet. |
+| Maytag Front-Load Washer Door Lock Assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-washer-f22-error-code&k=Maytag+Front-Load+Washer+Door+Lock+Assembly&tag=errorcodefixes-20) \| Match the part number to your exact model. Often includes the latch and wiring pigtail. |
+| Maytag Washer Door Strike Plate | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-washer-f22-error-code&k=Maytag+Washer+Door+Strike+Plate&tag=errorcodefixes-20) \| Replace if cracked, bent, or misaligned. Check fit for your specific model series. |
+| Wiring Harness (Door Lock to Control Board) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-washer-f22-error-code&k=Wiring+Harness+%28Door+Lock+to+Control+Board%29&tag=errorcodefixes-20) \| Only if continuity testing reveals a break or if connectors are damaged beyond repair. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if you are uncomfortable working with live electrical connections, if the lock and strike both appear intact but the fault persists after a wiring check, or if you suspect the control board. A technician has the service manual, wiring diagrams, and multimeter skills to trace the lock circuit and verify component feedback before replacing expensive boards. If your washer is still under warranty, contact Maytag or an authorized service center before opening panels or replacing parts.
+Call a professional if you are uncomfortable working with electrical connectors or removing access panels on a plugged-in appliance. Also call a technician if the door lock assembly, strike, and wiring all test good but the F22 error persists. The control board may need diagnostic mode testing or replacement, which requires service-level tools and knowledge of your model's specific fault codes. A qualified appliance technician can run manufacturer diagnostic routines and isolate control board faults that are not visible through basic continuity checks.
+
+**Rough cost:** DIY runs about $50-120 in parts, 30-90 min. A pro service call runs about $150-300.

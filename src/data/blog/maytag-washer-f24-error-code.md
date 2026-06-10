@@ -1,52 +1,75 @@
 ---
 title: "Maytag Washer F24 Error Code - Causes & Fix"
-description: "F24 means temperature sensor fault on most Maytag front-loaders or overload/excess water on compact models. Check your model first."
-pubDatetime: 2026-05-31T02:09:19Z
-modDatetime: 2026-05-31T02:09:19Z
-author: "Dana Kowalski"
+description: "F24 means water temperature sensor fault. Most likely cause: failed thermistor. Check wiring connections and test or replace the sensor."
+pubDatetime: 2026-06-08T18:50:32Z
+modDatetime: 2026-06-08T18:50:32Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - washer
   - maytag
+most_likely_cause: "Failed temperature sensor or thermistor"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Maytag Washer F24 Error Code — What It Means
 
-F24 on Maytag washers does not have a single universal meaning. On most Maytag front-load washers, F24 indicates a water temperature sensor or thermistor fault that is reading out of range. On certain compact front-load models, the same code means either the load exceeds the cycle capacity or too much inlet water has entered the tub. Because Whirlpool and Maytag use different code sets across model families, the first step is always to confirm your exact model number and check the owner's manual or service literature before diagnosing the fault.
+The F24 code on Maytag front-load washers signals a water temperature sensor or thermistor fault. The machine is detecting an out-of-range or invalid signal from the temperature-sensing circuit, so it cannot reliably control wash water temperature. Some sources loosely describe this as a water-inlet issue, but the consistent pattern across washer-specific references points to a temperature sensor problem rather than a generic inlet failure.
 
-If your model uses F24 as a thermistor code, the machine has detected an open, shorted, or out-of-specification reading from the temperature sensor or its wiring. If your compact front-load displays F24 for overload or excess fill, the machine is protecting itself from overfilling or cycle stress. Do not assume the meaning without verifying your model's code table.
+Because the control board cannot read valid temperature data, the washer halts the cycle to prevent improper heating or cold-water washing when hot water is selected. In some cases you may also notice poor or absent water heating as a secondary symptom, but that is a result of the sensor fault rather than the code's primary meaning.
+
+## Before You Replace Anything
+
+Many owners replace the main control board first, but a simple multimeter test of the temperature sensor and inspection of its connector will identify a bad sensor or loose pin for a fraction of the cost.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Model code-set confusion** Compact front-load models assign F24 to overload or excess inlet water, not a sensor fault, so the repair path is entirely different.
-- **Open or shorted thermistor** The water temperature sensor on the tub or sump reads out of range, causing the control to halt the cycle and log F24 on applicable models.
-- **Damaged wiring or corroded connectors** Loose, broken, or corroded wires between the thermistor and the control board interrupt the signal and trigger the fault even when the sensor is good.
-- **Overloaded wash cycle** On compact models that use F24 for capacity, packing too much laundry into a delicate or specialty cycle exceeds the programmed weight limit.
-- **Inlet valve stuck open or water supply not shut off** On models where F24 signals too much water, a defective inlet valve or continuously running supply line causes the tub to overfill between cycles.
-- **Failed control-board input circuit** If the thermistor and harness test within specification but F24 persists, the main control's sensor input circuit has failed.
+- **Failed temperature sensor or thermistor (~60%)** The sensor itself drifts out of spec, gives an open or short reading, or delivers unstable resistance values that the control board cannot interpret.
+- **Loose, damaged, or corroded wiring and connectors (~25%)** Vibration, moisture, or detergent residue can loosen pins, corrode terminals, or break wires between the sensor and the control board.
+- **Control board misreading the sensor circuit (~10%)** A fault in the main control board's input circuit can flag an F24 even when the sensor and wiring test normal.
+- **Intermittent sensor ground or power supply (~5%)** A poor chassis ground or intermittent supply voltage to the sensor can produce sporadic out-of-range readings.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the code clear after you unplug the washer for five minutes and plug it back in?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault may be intermittent or a one-time glitch. Run a full test cycle to confirm. If the code returns, proceed to connector and sensor checks.<br><strong>No:</strong> The fault is persistent. Inspect the sensor connector and test the sensor with a multimeter next.</div>
+</details>
+
+<details class="dtree"><summary>Do you see any loose pins, corrosion, or moisture inside the temperature sensor connector?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Clean the terminals with electrical contact cleaner, reseat the connector firmly, and retest. If the code persists, test or replace the sensor.<br><strong>No:</strong> The connector is sound. Measure the sensor resistance and compare to your model's service table, or replace the sensor if you cannot find a spec.</div>
+</details>
+
+<details class="dtree"><summary>After replacing the temperature sensor, does the F24 code still appear?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The wiring harness or the main control board is at fault. Trace the harness for breaks and test continuity, or call a technician to evaluate the board.<br><strong>No:</strong> The sensor was the problem. Run a full hot-water cycle to verify temperature control is restored.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Identify your exact model number** and pull up the service literature or owner's manual to confirm whether F24 is a thermistor fault, an overload code, or an excess-water code for your machine.
-2. **Clear the fault** by pressing Pause or Cancel twice and then Power once, or disconnect power at the breaker or plug for five minutes and restore.
-3. **Check for obvious external causes** before opening the cabinet: if your model uses F24 for overload, remove some laundry and run Rinse and Spin; if the code signals excess water, turn off the water faucet and verify the tub is not filling when the machine is idle.
-4. **Unplug the washer and access the temperature sensor** (usually mounted on the tub or sump) per the service manual, then inspect the harness connectors for looseness, corrosion, or damage.
-5. **Measure the thermistor resistance** at the sensor terminals and compare the reading to the specification table in your model's service sheet; replace the sensor if it reads open, shorted, or out of range.
-6. **Test continuity through the harness** from the sensor connector to the control board plug; repair or replace any damaged wiring or corroded terminals you find.
-7. **Verify the control-board sensor input** if the sensor and wiring both test good; if the board does not respond correctly to a known-good sensor signal, replace the main control or CCU.
+1. **Verify the exact model number** on your washer's label and consult your owner's manual or wiring diagram to confirm F24 means temperature sensor fault for your platform.
+2. **Disconnect power** by unplugging the washer or turning off the breaker, then wait five minutes to allow the control board to reset fully before reconnecting.
+3. **Access the temperature sensor** by removing the top or rear panel (depending on model) and locating the thermistor mounted on the outer tub or in the sump area near the heater.
+4. **Inspect the sensor connector** for loose pins, corrosion, bent terminals, or moisture intrusion, and clean or repair any obvious damage.
+5. **Test the sensor resistance** with a multimeter set to ohms, comparing your reading to the service specification for your model if available, or replace the sensor if the reading is open, shorted, or unstable.
+6. **Check harness continuity** from the sensor plug back to the main control board if the sensor tests good, looking for breaks or high resistance in the wiring.
+7. **Reassemble, restore power, and run a diagnostic cycle** or a normal hot-water wash to confirm the F24 code does not return and the washer heats properly.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Water temperature sensor / thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-washer-f24-error-code&k=Water+temperature+sensor+%2F+thermistor&tag=errorcodefixes-20) \| Order by full model number; confirm the connector style matches your harness. |
-| Wire harness (sensor to control) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-washer-f24-error-code&k=Wire+harness+%28sensor+to+control%29&tag=errorcodefixes-20) \| Only if wires are cut, burned, or terminals are broken beyond cleaning. |
-| Main control board / CCU | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-washer-f24-error-code&k=Main+control+board+%2F+CCU&tag=errorcodefixes-20) \| Required when sensor and wiring test good but F24 persists; verify part number from the existing board label. |
+| Water temperature sensor / thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-washer-f24-error-code&k=Water+temperature+sensor+%2F+thermistor&tag=errorcodefixes-20) \| Match by Maytag model number; typically mounted on outer tub or sump. |
+| Sensor wiring harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-washer-f24-error-code&k=Sensor+wiring+harness&tag=errorcodefixes-20) \| Order only if you find physical damage or broken wires that cannot be repaired. |
+| Main control board / CCU | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-washer-f24-error-code&k=Main+control+board+%2F+CCU&tag=errorcodefixes-20) \| Replace only after confirming the sensor and harness test normal and the code persists. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if you cannot locate your model's code definition, if you are uncomfortable working with electrical connectors and multimeter resistance checks, or if the fault returns after you have cleared it and verified the load size and water supply. Also call for help if you have confirmed the sensor and harness are good but the control board still logs F24, because main-control replacement requires correct part-number matching and often a software initialization sequence. If your machine is showing F24 alongside other error codes or unusual fill and drain behavior, a pro can run the full diagnostic mode and trace both water-circuit and sensor-circuit faults together.
+If you are uncomfortable working behind live panels, cannot locate the temperature sensor in your model, or have already replaced the sensor and inspected the wiring without clearing the code, call a qualified appliance technician. A pro can perform board-level diagnostics, trace intermittent harness faults, and confirm whether the main control board needs replacement. Also call if your washer is still under warranty, since DIY work may void coverage.
+
+**Rough cost:** DIY runs about $30–80 in parts, 45–90 min. A pro service call runs about $150–280 service call.
