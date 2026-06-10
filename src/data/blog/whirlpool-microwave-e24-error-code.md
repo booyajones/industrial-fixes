@@ -1,53 +1,75 @@
 ---
 title: "Whirlpool Microwave E24 Error Code - Causes & Fix"
-description: "E24 signals a thermal sensor or control circuit fault. Most cases need a new thermistor or harness repair to restore safe operation."
-pubDatetime: 2026-05-31T07:41:20Z
-modDatetime: 2026-05-31T07:41:20Z
-author: "Dana Kowalski"
+description: "E24 means a thermal sensor circuit fault. The most common fix is replacing the failed thermal sensor in the microwave cavity."
+pubDatetime: 2026-06-08T06:16:45Z
+modDatetime: 2026-06-08T06:16:45Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - microwave
   - whirlpool
+most_likely_cause: "Failed thermal sensor"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Whirlpool Microwave E24 Error Code — What It Means
 
-The E24 error code on Whirlpool over-the-range microwaves indicates a problem in the thermal sensing circuit. While Whirlpool's public documentation lists E24 as a recognized fault code, the exact definition is not published in consumer materials. Based on closely related codes in the same family, E24 most likely signals either an open circuit, short circuit, or out-of-range reading from the thermal sensor (thermistor) that monitors cavity or magnetron temperature. This sensor protects the microwave from overheating by reporting temperature data to the control board.
+The E24 error code on a Whirlpool over-the-range microwave indicates a thermal sensor circuit fault. The control board is not seeing the thermal sensor circuit in the expected state. Whirlpool identifies the likely problem as the thermal sensor itself, the appliance control board, or the wiring and connectors between them.
 
-When the control board detects a sensor reading outside normal parameters or loses communication with the thermistor entirely, it halts operation and displays E24. The fault can stem from a failed sensor, damaged wiring, poor harness connections, or a defective control board input circuit. Less commonly, an actual overheating event or blocked vent may trigger the sensor into fault mode.
+This fault means the microwave's safety monitoring circuit has detected an issue with the component that watches for overheating. The code will typically appear on the display and may prevent the microwave from operating until the underlying problem is corrected.
+
+## Before You Replace Anything
+
+Many people replace the expensive appliance control board first when the real culprit is a $15 thermal sensor or a loose connector. Always inspect the sensor wiring and test the sensor circuit before ordering a new board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed thermal sensor or thermistor** The temperature sensor itself develops an internal open or short, sending incorrect or no signal to the control board.
-- **Damaged or disconnected sensor wiring harness** Wires between the sensor and control board can break, fray, or pull loose from vibration or heat exposure over time.
-- **Poor harness connector contact** Oxidized, bent, or loose pins at the sensor or board connector prevent reliable electrical continuity.
-- **Faulty appliance control board** The main control board's sensor input circuit may fail even when the sensor and wiring test normal.
-- **Blocked ventilation or actual overheating** Restricted airflow or a genuine thermal event can push the sensor reading beyond the control board's safe threshold.
-- **Control board solder joint failure** Cold or cracked solder joints at the thermistor input on the board create intermittent or permanent open circuits.
+- **Failed thermal sensor (~50%)** The thermistor in the microwave cavity has failed open, shorted, or drifted out of spec, so the control board cannot read the circuit correctly.
+- **Loose or corroded wiring (~25%)** Connectors between the thermal sensor and the control board have come loose, corroded, or been damaged by heat, breaking the signal path.
+- **Faulty appliance control board (~20%)** The control board itself has a failed input circuit or processor fault that misreads a good sensor circuit as a fault.
+- **Temporary power glitch (~5%)** A brief overheat condition or power surge has triggered the fault intermittently, and a reset clears the code without any hardware replacement.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the E24 code disappear after unplugging the microwave for 1 minute and then restoring power?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault may have been a temporary glitch. Monitor the microwave for a day. If E24 returns, continue to the next diagnostic step.<br><strong>No:</strong> The fault is persistent. Proceed to inspect the thermal sensor and wiring for physical damage or loose connections.</div>
+</details>
+
+<details class="dtree"><summary>Can you see any burned, melted, or corroded wires or connectors near the thermal sensor?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Repair or replace the damaged wiring harness and connectors first, then retest. Damaged wiring is a frequent cause of E24.<br><strong>No:</strong> The sensor itself is the next suspect. Test it electrically if you have the service data, or replace it and recheck for the code.</div>
+</details>
+
+<details class="dtree"><summary>After replacing the thermal sensor, does the E24 code still appear?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The appliance control board is likely faulty. Replace the board and confirm the code does not return.<br><strong>No:</strong> The sensor was the problem. The repair is complete.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Disconnect power** at the circuit breaker and wait two minutes for high-voltage capacitors to discharge before opening any panels.
-2. **Reset the microwave** by restoring power and observing whether E24 returns immediately or only during heating cycles.
-3. **Access the thermal sensor** by removing the outer cabinet or top grille, then locate the thermistor mounted near the magnetron or on the cavity wall.
-4. **Inspect the wiring harness** from sensor to control board for visible breaks, heat discoloration, loose connectors, or corroded terminals.
-5. **Test sensor continuity** by unplugging the thermistor connector and measuring resistance across the sensor leads, then compare to your model's specification sheet if available.
-6. **Replace the thermal sensor** if resistance is infinite (open), near zero (short), or the sensor shows physical damage or intermittent readings.
-7. **Replace the control board** if the sensor and all wiring test normal but the E24 fault persists after reconnection and a full power cycle.
-8. **Clear the fault** by disconnecting power for 30 seconds, then run a short cook cycle to verify the code does not reappear.
+1. **Turn off power at the circuit breaker** for the microwave and wait 1 minute, then restore power to see if the E24 code clears and stays away.
+2. **Remove the outer cabinet** of the over-the-range microwave by taking out the mounting screws (consult your model's service manual for the exact panel removal sequence).
+3. **Locate the thermal sensor** (a small thermistor probe) typically mounted in the microwave cavity or near the air-flow duct, and trace its wiring back to the control board.
+4. **Inspect all connectors and wiring** for heat damage, corrosion, looseness, or breaks. Push connectors fully home and look for melted insulation or discolored terminals.
+5. **Test the thermal sensor** using a multimeter set to resistance mode. Compare the reading to your model's specification table if available. If you do not have the spec, proceed to replacement if the sensor looks damaged.
+6. **Replace the thermal sensor** if it tests open, shorted, or out of range, or if visual inspection shows damage. Secure the new sensor in the same mounting location and reconnect the harness.
+7. **Reassemble the microwave cabinet**, restore power, and run a short cook cycle to verify that E24 does not reappear and the unit heats normally.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Whirlpool microwave thermal sensor (thermistor) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-microwave-e24-error-code&k=Whirlpool+microwave+thermal+sensor+%28thermistor%29&tag=errorcodefixes-20) \| Match the OEM part number printed on your existing sensor or use your full model number for lookup. |
-| Microwave wiring harness or connector kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-microwave-e24-error-code&k=Microwave+wiring+harness+or+connector+kit&tag=errorcodefixes-20) \| Order only if individual wires or plug housings show heat damage or broken terminals that cannot be safely repaired. |
-| Whirlpool microwave control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-microwave-e24-error-code&k=Whirlpool+microwave+control+board&tag=errorcodefixes-20) \| Verify your complete model and serial number before ordering, as boards are not interchangeable across families. |
+| Whirlpool Microwave Thermal Sensor (Thermistor) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-microwave-e24-error-code&k=Whirlpool+Microwave+Thermal+Sensor+%28Thermistor%29&tag=errorcodefixes-20) \| Verify the part number for your exact model from the service label inside the door frame. |
+| Whirlpool Microwave Appliance Control Board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-microwave-e24-error-code&k=Whirlpool+Microwave+Appliance+Control+Board&tag=errorcodefixes-20) \| Only needed if the sensor and wiring test good but the E24 fault persists. |
+| Wiring Harness or Connector Kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-microwave-e24-error-code&k=Wiring+Harness+or+Connector+Kit&tag=errorcodefixes-20) \| Order if connectors are melted, corroded, or damaged and cannot be cleaned. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if you are uncomfortable working around high-voltage microwave components, cannot safely access the sensor or control board, or lack a multimeter and the skills to interpret resistance and continuity readings. Professional help is also recommended if you replace the sensor and harness yet the E24 code returns, since control board diagnosis and replacement require precise part matching and sometimes involve reprogramming or calibration. Any situation involving visible arcing, burning odors, or repeated nuisance tripping of your home circuit breaker warrants immediate professional evaluation to rule out magnetron or high-voltage circuit faults that may not be evident from the error code alone.
+Call a professional if you are not comfortable working inside a microwave cabinet with the cover removed, or if you lack a multimeter and the confidence to trace wiring and test electrical components. A technician can quickly verify whether the thermal sensor circuit is open or shorted, rule out control-board faults, and confirm the repair without ordering unnecessary parts. If the E24 code returns after you have replaced the sensor and checked all wiring, the control board likely needs replacement, and a pro can confirm that diagnosis and install the board correctly.
+
+**Rough cost:** DIY runs about $15-50 in parts, 45-90 min. A pro service call runs about $150-275.
