@@ -97,6 +97,13 @@ const categories = consumerCategories.map(c => ({
         </noscript>
       </div>
 
+      <p class="mt-3 text-sm">
+        <a href="/diagnose" class="inline-flex items-center gap-1.5 font-semibold text-accent hover:underline">
+          Not sure of your code? Use the guided diagnosis
+          <span aria-hidden="true">&rarr;</span>
+        </a>
+      </p>
+
       <!-- Equipment category grid -->
       <div class="mt-8 grid grid-cols-2 gap-3 sm:grid-cols-3">
         {categories.map(cat => (

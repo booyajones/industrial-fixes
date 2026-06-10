@@ -86,6 +86,11 @@ const isActive = (path: string) => {
         ]}
       >
         <li class="col-span-2">
+          <a href="/diagnose" class:list={{ "active-nav": isActive("/diagnose") }}>
+            Diagnose
+          </a>
+        </li>
+        <li class="col-span-2">
           <a href="/posts" class:list={{ "active-nav": isActive("/posts") }}>
             All Guides
           </a>

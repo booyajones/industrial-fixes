@@ -1,0 +1,207 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import { SITE } from "@/config";
+
+const APPLIANCES = [
+  { key: "washer", label: "Washer", emoji: "\u{1F9FA}", match: ["washer"] },
+  { key: "dryer", label: "Dryer", emoji: "\u{1F300}", match: ["dryer"] },
+  { key: "refrigerator", label: "Refrigerator", emoji: "\u{1F9CA}", match: ["refrigerator", "freezer"] },
+  { key: "dishwasher", label: "Dishwasher", emoji: "\u{1F37D}️", match: ["dishwasher"] },
+  { key: "range", label: "Range / Oven", emoji: "\u{1F373}", match: ["range", "oven", "cooktop"] },
+  { key: "microwave", label: "Microwave", emoji: "\u{1F4E1}", match: ["microwave"] },
+];
+const pageUrl = new URL("/diagnose", SITE.website).href;
+---
+
+<Layout
+  title={`Diagnose Your Appliance | ${SITE.title}`}
+  description="Tell us your appliance and the error code or symptom, and get the most likely cause, whether it is a DIY fix, and the exact part. Independent and free."
+  canonicalURL={pageUrl}
+>
+  <Header />
+  <main id="main-content" class="app-layout">
+    <section class="dx-hero">
+      <span class="dx-kicker">Free diagnostic tool</span>
+      <h1 class="dx-h1">Diagnose your appliance</h1>
+      <p class="dx-sub">
+        Pick your appliance, then type the error code or what it is doing. We will
+        show the most likely cause, whether it is a DIY fix, and the exact part.
+        Independent. We do not sell parts, so we tell you when not to buy one.
+      </p>
+    </section>
+
+    <section class="dx-step" aria-label="Choose appliance">
+      <h2 class="dx-step-h">1. What is broken?</h2>
+      <div id="dx-appliances" class="dx-grid">
+        {APPLIANCES.map(a => (
+          <button class="dx-appl" type="button" data-key={a.key} data-match={a.match.join(",")}>
+            <span class="dx-emoji" aria-hidden="true">{a.emoji}</span>
+            <span>{a.label}</span>
+          </button>
+        ))}
+      </div>
+    </section>
+
+    <section id="dx-search-step" class="dx-step" hidden aria-label="Search">
+      <h2 class="dx-step-h">2. What is the error code or symptom?</h2>
+      <div class="dx-search-wrap">
+        <input
+          id="dx-search"
+          type="text"
+          placeholder="e.g. 5E, OE, F21, won't drain, not heating"
+          autocomplete="off"
+          aria-label="Error code or symptom"
+        />
+      </div>
+      <p id="dx-count" class="dx-count" aria-live="polite"></p>
+      <div id="dx-results" class="dx-results"></div>
+    </section>
+
+    <p class="dx-foot">
+      Cannot find your code? Browse <a href="/posts">all fix guides</a> or
+      <a href="/brands">by brand</a>. We add new codes constantly.
+    </p>
+  </main>
+  <Footer />
+</Layout>
+
+<script is:inline>
+  (function () {
+    var INDEX = [];
+    var appl = null;
+    var applMatch = [];
+    var elAppls = document.getElementById("dx-appliances");
+    var elStep = document.getElementById("dx-search-step");
+    var elSearch = document.getElementById("dx-search");
+    var elResults = document.getElementById("dx-results");
+    var elCount = document.getElementById("dx-count");
+
+    fetch("/diagnose-index.json")
+      .then(function (r) { return r.json(); })
+      .then(function (d) { INDEX = d || []; if (appl) render(); })
+      .catch(function () { if (elCount) elCount.textContent = "Could not load the index. Try the guides instead."; });
+
+    function brandLabel(b) { return b ? b.charAt(0).toUpperCase() + b.slice(1) : ""; }
+
+    function render() {
+      if (!appl) return;
+      var q = (elSearch.value || "").trim().toLowerCase();
+      var rows = INDEX.filter(function (x) {
+        if (applMatch.indexOf(x.a) === -1) return false;
+        if (!q) return true;
+        var hay = ((x.c || "") + " " + (x.t || "") + " " + (x.m || "")).toLowerCase();
+        return hay.indexOf(q) !== -1;
+      });
+      // code-prefix matches first, then the rest; cap to 60
+      rows.sort(function (a, b) {
+        var qa = q && (a.c || "").toLowerCase().indexOf(q) === 0 ? 0 : 1;
+        var qb = q && (b.c || "").toLowerCase().indexOf(q) === 0 ? 0 : 1;
+        return qa - qb;
+      });
+      var shown = rows.slice(0, 60);
+      elCount.textContent = rows.length + (rows.length === 1 ? " guide" : " guides") + (q ? " for “" + q + "”" : "");
+      elResults.innerHTML = shown.map(function (x) {
+        var badge = x.d === "pro"
+          ? '<span class="dx-badge dx-pro">Pro repair</span>'
+          : (x.d === "diy" ? '<span class="dx-badge dx-diy">DIY-friendly</span>' : "");
+        var code = x.c ? '<span class="dx-code">' + esc(x.c) + "</span>" : "";
+        var cause = x.m ? '<p class="dx-cause"><strong>Most likely:</strong> ' + esc(x.m) + "</p>" : "";
+        return (
+          '<a class="dx-card" href="/posts/' + esc(x.s) + '/">' +
+          '<div class="dx-card-top">' + code +
+          '<span class="dx-brand">' + esc(brandLabel(x.b)) + "</span>" + badge + "</div>" +
+          '<div class="dx-title">' + esc(x.t) + "</div>" + cause +
+          '<span class="dx-open">Open guide →</span>' +
+          "</a>"
+        );
+      }).join("");
+    }
+
+    function esc(s) {
+      return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
+        return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+      });
+    }
+
+    elAppls.addEventListener("click", function (e) {
+      var btn = e.target.closest(".dx-appl");
+      if (!btn) return;
+      appl = btn.getAttribute("data-key");
+      applMatch = (btn.getAttribute("data-match") || appl).split(",");
+      Array.prototype.forEach.call(elAppls.querySelectorAll(".dx-appl"), function (b) {
+        b.classList.toggle("active", b === btn);
+      });
+      elStep.hidden = false;
+      elSearch.value = "";
+      render();
+      elSearch.focus();
+    });
+
+    var t;
+    elSearch.addEventListener("input", function () {
+      clearTimeout(t);
+      t = setTimeout(render, 120);
+    });
+  })();
+</script>
+
+<style>
+  .dx-hero { padding: 2.5rem 0 1rem; }
+  .dx-kicker {
+    display: inline-block; font-size: 0.7rem; font-weight: 700; letter-spacing: 0.1em;
+    text-transform: uppercase; color: var(--brand);
+    background: color-mix(in srgb, var(--brand) 12%, transparent);
+    padding: 0.2rem 0.6rem; border-radius: 999px;
+  }
+  .dx-h1 { font-size: 2rem; font-weight: 800; margin: 0.6rem 0 0.5rem; line-height: 1.1; }
+  @media (min-width: 640px) { .dx-h1 { font-size: 2.5rem; } }
+  .dx-sub { color: color-mix(in srgb, var(--foreground) 80%, transparent); max-width: 42rem; }
+  .dx-step { padding: 1.25rem 0; border-top: 1px solid var(--border); }
+  .dx-step-h { font-size: 1.05rem; font-weight: 700; margin: 0 0 0.85rem; }
+  .dx-grid {
+    display: grid; gap: 0.6rem;
+    grid-template-columns: repeat(2, 1fr);
+  }
+  @media (min-width: 560px) { .dx-grid { grid-template-columns: repeat(3, 1fr); } }
+  @media (min-width: 820px) { .dx-grid { grid-template-columns: repeat(6, 1fr); } }
+  .dx-appl {
+    display: flex; flex-direction: column; align-items: center; gap: 0.4rem;
+    padding: 1rem 0.5rem; border: 1px solid var(--border); border-radius: 10px;
+    background: var(--background); color: var(--foreground); font-weight: 600; font-size: 0.9rem;
+    transition: border-color 0.15s, background 0.15s, transform 0.1s;
+  }
+  .dx-appl:hover { border-color: var(--accent); background: color-mix(in srgb, var(--accent) 6%, transparent); }
+  .dx-appl.active { border-color: var(--brand); background: color-mix(in srgb, var(--brand) 10%, transparent); }
+  .dx-emoji { font-size: 1.6rem; line-height: 1; }
+  .dx-search-wrap { margin-bottom: 0.5rem; }
+  #dx-search {
+    width: 100%; padding: 0.85rem 1rem; font-size: 1.05rem; font-family: var(--font-mono);
+    border: 2px solid var(--border); border-radius: 10px; background: var(--background); color: var(--foreground);
+  }
+  #dx-search:focus { outline: none; border-color: var(--accent); }
+  .dx-count { font-size: 0.85rem; color: color-mix(in srgb, var(--foreground) 65%, transparent); margin: 0.6rem 0; }
+  .dx-results { display: grid; gap: 0.6rem; grid-template-columns: 1fr; }
+  @media (min-width: 720px) { .dx-results { grid-template-columns: repeat(2, 1fr); } }
+  .dx-card {
+    display: flex; flex-direction: column; gap: 0.35rem; padding: 0.9rem 1rem;
+    border: 1px solid var(--border); border-radius: 10px; background: var(--background);
+    text-decoration: none; color: var(--foreground); transition: border-color 0.15s, box-shadow 0.15s;
+  }
+  .dx-card:hover { border-color: var(--accent); box-shadow: 0 2px 10px rgba(0,0,0,0.06); }
+  .dx-card-top { display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap; }
+  .dx-code {
+    font-family: var(--font-mono); font-weight: 700; font-size: 0.95rem;
+    background: var(--code-bg); color: var(--code-fg); padding: 0.1rem 0.45rem; border-radius: 5px;
+  }
+  .dx-brand { font-size: 0.75rem; font-weight: 600; color: color-mix(in srgb, var(--foreground) 60%, transparent); }
+  .dx-badge { margin-left: auto; font-size: 0.68rem; font-weight: 700; padding: 0.15rem 0.5rem; border-radius: 999px; }
+  .dx-diy { color: var(--safe); background: color-mix(in srgb, var(--safe) 16%, transparent); }
+  .dx-pro { color: var(--danger); background: color-mix(in srgb, var(--danger) 16%, transparent); }
+  .dx-title { font-weight: 700; font-size: 0.95rem; line-height: 1.25; }
+  .dx-cause { margin: 0; font-size: 0.82rem; color: color-mix(in srgb, var(--foreground) 78%, transparent); }
+  .dx-open { font-size: 0.8rem; font-weight: 600; color: var(--accent); margin-top: 0.15rem; }
+  .dx-foot { margin: 1.5rem 0 2.5rem; font-size: 0.88rem; color: color-mix(in srgb, var(--foreground) 70%, transparent); }
+  .dx-foot a { color: var(--brand); font-weight: 600; }
+</style>
