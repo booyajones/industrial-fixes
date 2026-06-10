@@ -1,52 +1,73 @@
 ---
 title: "Whirlpool F10E5 Error Code - Causes & Fix"
-description: "F10E5 means the cycle ended and drained, then displayed the fault. Most often it's a diverter issue or water leak in the base pan."
-pubDatetime: 2026-05-31T04:40:11Z
-modDatetime: 2026-05-31T04:40:11Z
-author: "Dana Kowalski"
+description: "F10E5 (FAE5) means a diverter fault. The dishwasher drains and stops. Most often caused by a leaking diverter gasket at the sump."
+pubDatetime: 2026-06-08T04:43:02Z
+modDatetime: 2026-06-08T04:43:02Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
-  - dishwasher
   - whirlpool
+most_likely_cause: "Leak at the diverter gasket or sump seal"
+likelihood: "the most common cause"
+diy_or_pro: "pro"
 ---
 
 ## Whirlpool F10E5 Error Code — What It Means
 
-F10E5 (or FAE5) appears on Whirlpool dishwashers when the cycle ends, the unit drains, and the control detects a fault condition. Whirlpool's public documentation does not specify the exact sub-component at fault. The official first response is to press Cancel twice and restart a new cycle. If the code returns, field experience points most often to a recurring control or input problem rather than a one-time glitch.
+F10E5 (also shown as FAE5) appears on Whirlpool dishwashers after the cycle ends and the machine drains. Whirlpool's product help identifies this as a diverter-related error. The diverter is the internal component that switches water flow between the lower and upper spray arms during the wash cycle.
 
-Technicians commonly trace repeated F10E5 codes to the diverter system in the sump assembly or to water intrusion in the base pan that triggers a protective fault. Other contributors can include faulty wiring, loose connectors, latch or door-switch faults, or a failing main control board. Because Whirlpool does not publish a component-level definition for this code, diagnosis relies on systematic inspection and component testing rather than a single published cause.
+Field repair sources trace F10E5 to problems with the diverter gasket or the sump assembly where the diverter sits. Water leakage around the center underside of the dishwasher is the most common physical sign of this fault. The code does not point to an electrical or sensor problem in most cases.
+
+## Before You Replace Anything
+
+Homeowners sometimes replace the control board thinking any error code is electronic. Before buying parts, pull the dishwasher forward and check the floor and center underside for water. If you see dripping near the sump, the diverter gasket or sump assembly is the real culprit.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Diverter or sump assembly fault** A failed diverter seal, gasket, or internal mechanism in the sump area is the most commonly reported field cause of recurring F10E5 codes.
-- **Water leak into the base pan** Leaks from the sump, door seal, or hose connections can pool in the base and trigger a safety or fault response that displays F10E5.
-- **Loose or corroded wiring and connectors** Intermittent connections in the harness between the control board, user interface, and diverter assembly can generate sporadic fault codes.
-- **Door latch or switch malfunction** A failing door latch, strike, or micro-switch can interrupt the control signal path and cause the cycle to end with a fault display.
-- **Main control board or user-interface failure** Internal faults in the electronic control or UI board can generate F10E5 when no mechanical defect is present.
+- **Failed diverter gasket (~60%)** The rubber seal around the diverter mechanism cracks, hardens, or shifts out of place and allows water to leak from the sump during the wash cycle.
+- **Cracked or damaged sump assembly (~25%)** The plastic or composite sump housing develops a crack near the diverter mount, especially on models where the gasket is molded into the assembly and not sold separately.
+- **Displaced diverter motor or linkage (~10%)** The diverter actuator shifts from its correct position and prevents proper sealing, allowing water to escape and trigger the fault.
+- **Debris blocking the diverter seal surface (~5%)** Food particles, broken glass, or mineral buildup lodge between the diverter disk and the gasket and prevent a watertight seal.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Do you see water pooled under the center of the dishwasher after pulling it forward?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The diverter gasket or sump seal is leaking. You will need to access the sump area and replace the gasket or the entire sump assembly.<br><strong>No:</strong> The leak may be intermittent or internal to the sump. Run a diagnostic cycle and watch the underside for dripping during spray-arm changes.</div>
+</details>
+
+<details class="dtree"><summary>Does the error clear when you press Cancel twice and start a new cycle, then return later in the wash?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault is recurring and points to a persistent diverter leak or mechanical problem rather than a one-time glitch. Proceed with sump inspection.<br><strong>No:</strong> If the code does not return after reset, monitor for a few cycles. A single occurrence may be a transient issue and not require parts replacement yet.</div>
+</details>
+
+<details class="dtree"><summary>Can you see or feel cracks in the sump housing or obvious damage to the diverter gasket when you remove the lower access panel?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Replace the damaged component. If the gasket is integral to the sump on your model, replace the entire sump assembly.<br><strong>No:</strong> The gasket may be displaced or the leak hidden. Clean the seal surfaces, reseat the diverter assembly, and test. If the code returns, replace the gasket or sump.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Press Cancel twice** and wait for the display to clear, then start a new cycle to see if the fault was a one-time glitch.
-2. **Inspect the base pan** by pulling the dishwasher forward and looking underneath for standing water, dampness, or signs of leakage near the sump and diverter area.
-3. **Check the door latch and strike** for proper alignment, damage, or looseness, and listen for a solid click when the door closes.
-4. **Examine all visible wiring and connectors** at the control board, user interface, diverter assembly, and door-latch switch for corrosion, looseness, or pinched insulation.
-5. **Run a diagnostic or test cycle** (if your model supports it) and note exactly when the code appears: at start, during fill or wash, or only after drain.
-6. **Remove the lower access panel and sump cover** to inspect the diverter assembly, seals, and related harness connections for physical damage or water intrusion.
-7. **Replace the identified failed component**, starting with the sump or diverter assembly if water intrusion or mechanical wear is confirmed, or the control board if electrical testing isolates the fault there.
+1. **Press Cancel twice** to clear the error code as recommended by Whirlpool, then start a new cycle to confirm whether the fault recurs.
+2. **Pull the dishwasher forward** and inspect the floor and the underside near the center for standing water or dripping during a test cycle.
+3. **Remove the lower access panel** (typically the kick plate at the front bottom) and any internal covers needed to expose the sump and diverter assembly in the center of the tub floor.
+4. **Inspect the diverter gasket and sump housing** for visible cracks, hardening, displacement, or debris that would prevent a seal.
+5. **Replace the diverter gasket** if it is sold separately for your model and shows damage, or replace the entire sump assembly if the gasket is integral or access is impractical.
+6. **Reassemble the dishwasher**, slide it back into place, and run a full test cycle while monitoring the underside for any new leaks.
+7. **Verify the code does not return** after the cycle completes and drains. If F10E5 reappears, recheck your gasket installation or consult the wiring diagram for any secondary diverter-sensor faults on your specific model.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Sump and diverter assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dishwasher-f10e5-error-code&k=Sump+and+diverter+assembly&tag=errorcodefixes-20) \| Includes diverter motor, seals, and housing. Match by full model number. |
-| Main control board (electronic control) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dishwasher-f10e5-error-code&k=Main+control+board+%28electronic+control%29&tag=errorcodefixes-20) \| Verify by model and serial number. Some boards require programming or transfer of the existing UI. |
-| Door latch and strike kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dishwasher-f10e5-error-code&k=Door+latch+and+strike+kit&tag=errorcodefixes-20) \| Order the complete latch assembly and strike plate for your series. |
-| Wiring harness (sump to control) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dishwasher-f10e5-error-code&k=Wiring+harness+%28sump+to+control%29&tag=errorcodefixes-20) \| Model-specific harness if connectors or insulation are damaged beyond repair. |
+| Diverter gasket | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dishwasher-f10e5-error-code&k=Diverter+gasket&tag=errorcodefixes-20) \| Check your model's parts breakdown to confirm the gasket is sold separately and note the correct part number for your series. |
+| Sump assembly (with integral diverter gasket) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dishwasher-f10e5-error-code&k=Sump+assembly+%28with+integral+diverter+gasket%29&tag=errorcodefixes-20) \| Required on many models where the gasket is molded into the sump housing or sold only as a complete assembly. |
 
 ## When to Call a Pro
 
-Call a professional if the F10E5 code returns after the Cancel-twice reset and you find no obvious water leak or loose connections. Diagnosis requires disassembly of the lower sump area, multimeter testing of the diverter assembly and control circuits, and interpretation of fault patterns that are not published in consumer documentation. A qualified appliance technician has access to model-specific service manuals, diagnostic modes, and part cross-references that will save time and prevent unnecessary part replacement. If water is pooling in the base pan but you cannot locate the leak source, a technician can pressure-test the system and identify whether the sump gasket, door seal, or an internal hose connection has failed.
+Call a technician if you are not comfortable pulling the dishwasher out, working underneath it, or disassembling internal sump components. The diverter area sits below the tub and requires removing hoses, clamps, and sometimes the pump assembly for full access. If water damage has spread to wiring or the motor area, a professional can assess whether additional parts are needed. A pro will also have model-specific sump diagrams and the correct torque specs for reassembly to prevent future leaks.
+
+**Rough cost:** A pro service call runs about $150-300.

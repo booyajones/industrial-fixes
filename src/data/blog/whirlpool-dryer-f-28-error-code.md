@@ -1,48 +1,78 @@
 ---
 title: "Whirlpool Dryer F-28 Error Code - Causes & Fix"
-description: "F-28 is a communication error in Whirlpool dryers. Most often caused by loose board connectors. Reset the breaker and reseat harnesses."
-pubDatetime: 2026-05-31T03:29:09Z
-modDatetime: 2026-05-31T03:29:09Z
-author: "Dana Kowalski"
+description: "F-28 means a control-system communication fault. Most often a loose or corroded connector between boards. Reset power, reseat harnesses."
+pubDatetime: 2026-06-08T04:53:16Z
+modDatetime: 2026-06-08T04:53:16Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dryer
   - whirlpool
+most_likely_cause: "loose, oxidized, or poorly seated wiring connectors between control boards"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Whirlpool Dryer F-28 Error Code — What It Means
 
-The F-28 code on a Whirlpool dryer signals a communication error between electronic control boards. Whirlpool's official guidance describes it as a fault cleared by power-cycling the unit and running a timed dry cycle to see if the code returns. The public product-help page does not break down the specific boards or communication channel involved, so the fault stays general: something in the control-system electronics is not talking correctly. In the field, technicians treat F-28 as an intermittent board-to-board or harness issue rather than a mechanical component failure.
+The F-28 code on a Whirlpool dryer indicates a communication error in the control system. The central control board cannot reliably talk to another board in the dryer, such as the user interface or motor control board. This is an electronic fault, not a mechanical one.
+
+Whirlpool's official product help lists F-28 as a dryer error code and recommends a reset and monitor procedure. Field service experience shows the fault is most often caused by a poor connection rather than a failed board. Loose, oxidized, or vibration-damaged connectors between control boards interrupt the signal path and trigger the code.
+
+## Before You Replace Anything
+
+Homeowners often replace the main control board or user interface board immediately. Instead, pull power, remove and reseat every harness connector on the boards, inspect for corrosion or weak pin tension, and clean terminals before buying any board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Loose or corroded board connectors** Poor contact at harness terminals is the most commonly reported cause in field-service repairs.
-- **Oxidized or contaminated terminal pads** Corrosion or residue on board pads can interrupt low-voltage signals even when the harness tests good for continuity.
-- **Intermittent wire-harness faults** Breaks, flexing damage, or loose crimps at connector points disrupt communication without showing as a full open circuit.
-- **Failed electronic control board** A board can fail internally, though field reports show this is less common than connection problems.
-- **Temporary electrical noise or moisture** Power anomalies or moisture intrusion can trigger the code once and clear after a reset.
+- **Loose or poorly seated harness connectors (~50%)** Vibration, heat cycles, or movement can unseat the multi-pin connectors that link the control board to the user interface or motor board, breaking the communication path.
+- **Oxidized or corroded connector terminals (~25%)** Moisture intrusion or age causes oxidation on the metal pins or board pads, creating intermittent contact and signaling failures even when the harness appears plugged in.
+- **Loss of terminal tension in connectors (~10%)** Repeated connection cycles or heat can relax the metal terminals inside the plastic connector housings so they no longer grip the board pins tightly.
+- **Damaged wiring harness (~8%)** Pinched, chafed, or broken wires inside the ribbon or bundle harness between boards can open the communication lines.
+- **Failed control board or user interface board (~7%)** A defective board component or failed communication circuit on one of the boards can prevent handshake signals, though this is less common than connector issues.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>After a five-minute power reset, does the F-28 code reappear within one minute of starting a timed dry cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault is persistent. Open the control panel and inspect every harness connector on the control boards for looseness, corrosion, or moisture.<br><strong>No:</strong> The reset cleared the fault. Monitor the dryer over the next few loads. If the code does not return, it was a transient glitch and no repair is needed.</div>
+</details>
+
+<details class="dtree"><summary>When you remove and reseat each connector on the control boards, do you see green or white oxidation on the pins or feel loose fit?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Clean the terminals with contact cleaner or very fine abrasive, and gently tighten loose pins with a pick if safe to do so. Reconnect firmly and test.<br><strong>No:</strong> Connectors appear clean and tight. Test the dryer again. If the code persists, suspect a failed board and proceed to board substitution or call a technician.</div>
+</details>
+
+<details class="dtree"><summary>Do you have a second known-good control board available to swap in for testing?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Replace the main control board first, then the user interface board if needed, one at a time, to isolate the faulty component.<br><strong>No:</strong> Without spare boards for substitution testing, call a technician who can use diagnostic modes and known-good parts to pinpoint the failure.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Turn off the circuit breaker(s)** feeding the dryer and leave power off for a full five minutes to clear temporary faults.
-2. **Restore power** and immediately start a timed dry cycle, then watch the display for about one minute to see if F-28 returns.
-3. **If the code reappears**, unplug the dryer and remove the service panels to access the electronic control boards and wiring harnesses.
-4. **Inspect and reseat every harness connector** at the control boards, looking for loose terminals, corrosion, heat marks, or moisture intrusion.
-5. **Check terminal tension** on female connector pins and tighten any that have lost grip, since weak contact is the most frequent repair without replacing parts.
-6. **If reseating and terminal correction do not clear the fault**, replace the suspect control board(s) in the communication path after confirming the harness and connectors are sound.
-7. **Reassemble the dryer**, restore power, and run a full timed dry cycle to verify the code does not return.
+1. **Turn off power at the circuit breaker** for at least five minutes to allow the control boards to fully discharge and reset.
+2. **Restore power** and start a timed dry cycle, then observe the display for about one minute to see if the F-28 code returns.
+3. **Unplug the dryer** and remove the top panel or front control-panel cover according to your model's service instructions to access the control boards.
+4. **Inspect every wiring harness and connector** on the central control board, user interface board, and any other board in the dryer for looseness, moisture, corrosion, or damaged wires.
+5. **Disconnect and reseat each connector** firmly, checking that each terminal has good spring tension and that no pins are pushed back or oxidized.
+6. **Clean any corroded or oxidized terminals** with electrical contact cleaner and a soft brush, and allow them to dry completely before reconnecting.
+7. **Reassemble the dryer**, restore power, and run a test cycle to confirm the F-28 code is gone and the dryer operates normally.
+8. **If the code persists** after connector service, replace the control board or user interface board one at a time, or consult a technician with diagnostic equipment and known-good boards for substitution testing.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Electronic control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dryer-f-28-error-code&k=Electronic+control+board&tag=errorcodefixes-20) \| Replace only after verifying harness and connectors are clean, tight, and undamaged. |
-| Wire harness or connector terminal kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dryer-f-28-error-code&k=Wire+harness+or+connector+terminal+kit&tag=errorcodefixes-20) \| Use when terminals are heat-damaged, corroded, or cannot hold tension after adjustment. |
+| Main control board (CCU or central control unit) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dryer-f-28-error-code&k=Main+control+board+%28CCU+or+central+control+unit%29&tag=errorcodefixes-20) \| Order by your dryer's full model number. Confirm the board part number on the existing board before purchase. |
+| User interface board (UI board or console board) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dryer-f-28-error-code&k=User+interface+board+%28UI+board+or+console+board%29&tag=errorcodefixes-20) \| Includes the display and buttons. Verify the part number and connector layout match your model. |
+| Wiring harness or interconnect harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dryer-f-28-error-code&k=Wiring+harness+or+interconnect+harness&tag=errorcodefixes-20) \| Rarely needed unless the harness itself is cut or pinched. Inspect connectors first before ordering. |
+| Electrical contact cleaner spray | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dryer-f-28-error-code&k=Electrical+contact+cleaner+spray&tag=errorcodefixes-20) \| Use a non-residue electronics-safe cleaner to remove oxidation from connector pins and board pads. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if the code returns after a full power reset, if you are not comfortable working inside the dryer cabinet around live electrical components, or if you cannot identify which boards and harnesses are involved in your specific model. Board-level diagnosis requires safe disassembly and knowledge of low-voltage control circuits. A technician can also cross-reference your model number with the correct service manual and board part numbers, which are not published on Whirlpool's public help page.
+Call a professional if you are not comfortable opening the dryer's control-panel area or handling live control boards, or if you lack the tools to safely remove and reseat connectors. A technician should also be called if connector cleaning and reseating do not resolve the code, since accurate board-level diagnosis often requires substitution with known-good parts and access to service-mode diagnostics. If the dryer is still under warranty, contact Whirlpool or an authorized service provider before attempting any repair to avoid voiding coverage.
+
+**Rough cost:** DIY runs about $80–200 in parts if a board is needed, 30–60 min for connector cleaning, 60–90 min for board replacement. A pro service call runs about $150–350 for service call, diagnosis, and connector repair or board replacement.

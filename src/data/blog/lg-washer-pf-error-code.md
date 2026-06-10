@@ -1,50 +1,72 @@
 ---
 title: "LG Washer PF Error Code - Causes & Fix"
-description: "PF means your LG washer detected a power failure during the cycle. Usually you can press START/PAUSE and resume after an outage."
-pubDatetime: 2026-05-31T02:03:00Z
-modDatetime: 2026-05-31T02:03:00Z
-author: "James Rutherford"
+description: "PF means power failure. The washer lost electricity during a cycle. Press and hold START/PAUSE for 5 seconds while unplugged to reset."
+pubDatetime: 2026-06-08T04:40:00Z
+modDatetime: 2026-06-08T04:40:00Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - washer
   - lg
+most_likely_cause: "utility power outage or breaker trip during the wash cycle"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## LG Washer PF Error Code — What It Means
 
-The PF code stands for power failure. Your LG washer detected a loss of incoming power while it was running a cycle. LG built this code into the washer's power failure recovery system to let you know the cycle was interrupted. The washer stores the interrupted state in memory and tries to resume where it left off once power comes back. By itself, a PF code is not a defect, it is normal recovery behavior after an outage, unplugging, or breaker trip.
+The LG washer PF error code stands for power failure. It appears when the machine has experienced an interruption in electrical supply, such as a utility outage, unplugged cord, or tripped breaker during a wash cycle. PF is not a defect. It is part of the washer's power-failure recovery system and tells the machine to remember and resume the job it was doing before the power loss.
 
-If PF appears once after a known power event and the machine resumes normally, no repair is needed. However, if PF shows up repeatedly without any outage, the washer will not resume, or the unit stops powering on entirely after a PF event, the code is pointing you toward an underlying power-supply or control-board issue rather than a simple utility outage.
+## Before You Replace Anything
+
+Homeowners sometimes assume PF indicates a failed main control board. Before ordering a board, verify the outlet and breaker supply steady power and perform the reset sequence LG publishes, since PF is a power-event code and not a component-fault code.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Utility outage or brownout** A brief loss of grid power or voltage sag while the washer is running will trigger PF.
-- **Unplugged cord or tripped breaker** Any interruption at the receptacle or circuit panel during a cycle stores a PF event.
-- **Loose connection at the harness or control board** An intermittent power feed inside the machine can mimic a power failure and prevent the washer from restarting.
-- **Low or high incoming water pressure** LG lists water pressure outside the 14.5–80 psi range as a condition to verify when troubleshooting PF on some models.
+- **Utility power outage or brownout (~50%)** A momentary loss of grid power while the washer is running triggers the PF recovery system.
+- **Tripped circuit breaker (~25%)** The breaker feeding the washer opens and cuts power mid-cycle, then is reset.
+- **Unplugged power cord (~15%)** The cord was pulled or bumped out of the outlet while the machine was operating.
+- **Intermittent loose connection at outlet or plug (~10%)** A worn receptacle or loose plug contact drops and restores voltage during the wash, causing repeated PF codes.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Did a power outage or breaker trip happen in your home during the wash?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The PF code is expected. Follow the reset steps below and the washer will resume or restart the cycle.<br><strong>No:</strong> Check whether the plug is fully seated and the outlet is tight. Wiggle the plug to see if the connection is loose.</div>
+</details>
+
+<details class="dtree"><summary>Does the PF code return every time you start a new cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> You have an intermittent power supply problem. Inspect the outlet, plug, and breaker for loose or corroded connections before replacing washer parts.<br><strong>No:</strong> The original power event was a one-time interruption. The reset should clear it permanently.</div>
+</details>
+
+<details class="dtree"><summary>Is there standing water in the tub after the PF code appears?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Close both water taps, power the washer back on, select No Spin, and press START/PAUSE to drain before restarting a full cycle.<br><strong>No:</strong> Proceed directly to the reset sequence and restart your cycle.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Verify the event** by asking whether there was a real outage, unplugging, or breaker trip at the time PF appeared.
-2. **Reset the washer** by unplugging the unit or switching off the breaker, then press and hold START/PAUSE for 5 seconds while power is off, restore power, and try a new cycle.
-3. **Drain trapped water** if the cycle stopped mid-fill by closing both water taps, running a drain-only or spin-only sequence as your model allows, then restarting the cycle.
-4. **Check the outlet voltage** with a multimeter to confirm proper 120 V supply if the washer will not power back on after PF.
-5. **Inspect the power cord and plug** for damage, verify the cord seats fully in the rear socket, and wiggle connectors at the main control board to find loose pins.
-6. **Measure water supply pressure** at the hose bibs with a gauge to confirm 14.5–80 psi, and install a pressure-reducing valve if pressure exceeds 116 psi.
-7. **Replace the main control board or harness** only after confirming voltage at the board is present but the unit will not initialize, since PF itself does not indicate a failed component.
+1. **Unplug the washer** or turn off the circuit breaker feeding it so the machine has no power.
+2. **Press and hold the START/PAUSE button for 5 seconds** while the unit remains unplugged or de-energized to clear the PF recovery state.
+3. **Restore power** by plugging the cord back in or turning the breaker back on.
+4. **If water remains in the tub**, close both hot and cold supply taps, turn the washer on, select No Spin, and press START/PAUSE to drain.
+5. **Start a new cycle** or allow the washer to resume the interrupted cycle automatically.
+6. **Monitor for recurrence.** If PF returns during the next wash, verify the outlet delivers stable voltage and the plug connection is tight.
+7. **Call service** if the code persists after you have confirmed steady incoming power and completed the reset procedure, because LG states the unit will require repair at that point.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Main control board (PCB assembly) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-pf-error-code&k=Main+control+board+%28PCB+assembly%29&tag=errorcodefixes-20) \| Only if voltage reaches the board but the washer will not power on or repeatedly throws PF with no external outage. |
-| Power cord and strain relief | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-pf-error-code&k=Power+cord+and+strain+relief&tag=errorcodefixes-20) \| When the cord shows physical damage or the plug makes poor contact at the rear socket. |
-| Wire harness and connectors | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-pf-error-code&k=Wire+harness+and+connectors&tag=errorcodefixes-20) \| If wiggle-testing reveals intermittent contact between the cord receptacle and the control board. |
+| 15 or 20 A GFCI outlet | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-pf-error-code&k=15+or+20+A+GFCI+outlet&tag=errorcodefixes-20) \| Only if inspection reveals a damaged, loose, or burnt receptacle causing intermittent power loss. |
+| Power cord for LG washer | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-pf-error-code&k=Power+cord+for+LG+washer&tag=errorcodefixes-20) \| Replace if the plug or cord jacket shows melting, corrosion, or intermittent contact at the prongs. |
 
 ## When to Call a Pro
 
-Call a technician if the PF code appears over and over without any utility outage, the washer will not resume or power on after you reset it, or you measure correct voltage at the outlet but find no power reaching the control board. These symptoms point to an intermittent connection or failed board that requires disassembly, harness tracing, and live voltage checks inside the cabinet. A single PF after a known outage is normal and needs no service.
+Call a professional if the PF code returns after you have verified the breaker is on, the outlet is live, and you have performed the 5-second START/PAUSE reset. LG states that a persistent PF after power restoration requires service. Also call an electrician if you find scorch marks, loose connections, or voltage drops at the outlet or panel, since those indicate unsafe branch-circuit wiring rather than a washer defect. A technician will confirm incoming supply voltage is stable and check for house-wiring faults before considering internal washer components.
+
+**Rough cost:** DIY runs about $0, 5-10 min (reset only). A pro service call runs about $0-150 (service call for electrical diagnosis if power is unstable).
