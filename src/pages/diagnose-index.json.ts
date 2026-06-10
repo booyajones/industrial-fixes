@@ -1,6 +1,8 @@
 import type { APIRoute } from "astro";
 import { getCollection } from "astro:content";
 
+export const prerender = true;
+
 // Compact client-side index for the /diagnose tool: every live consumer
 // error-code page as { a:appliance, b:brand, c:code, t:title, s:slug,
 // m:most-likely-cause, d:diy|pro }. Prerendered to a static JSON file at build.
@@ -18,6 +20,7 @@ export const GET: APIRoute = async () => {
   const items: Array<Record<string, string>> = [];
   for (const p of posts) {
     const slug = p.id.replace(/\.md$/, "");
+    if (!/^[a-z0-9-]+$/.test(slug)) continue; // clean slugs only (safe in hrefs)
     if (!slug.endsWith("-error-code")) continue;
     const tags = (p.data.tags || []).map(t => t.toLowerCase());
     // Exact tag match first; fall back to a delimiter-bounded slug match so
@@ -26,7 +29,9 @@ export const GET: APIRoute = async () => {
     const appliance = APPLIANCES.find(a => tags.includes(a)) || APPLIANCES.find(a => slugHas(a));
     const brand = BRANDS.find(b => tags.includes(b)) || BRANDS.find(b => slugHas(b));
     if (!appliance || !brand) continue;
-    const m = p.data.title.match(/\b([A-Za-z0-9-]{1,8})\s+(?:error|fault)\s+code/i);
+    // Code can appear before ("5E Error Code") or after ("Error Code 5E") the phrase.
+    const m = p.data.title.match(/\b([A-Za-z0-9-]{1,8})\s+(?:error|fault)\s+code/i)
+      || p.data.title.match(/(?:error|fault)\s+code[:\s]+([A-Za-z0-9-]{1,8})/i);
     const code = m ? m[1] : "";
     items.push({
       a: appliance,

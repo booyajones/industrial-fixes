@@ -36,7 +36,7 @@ const pageUrl = new URL("/diagnose", SITE.website).href;
       <h2 class="dx-step-h">1. What is broken?</h2>
       <div id="dx-appliances" class="dx-grid">
         {APPLIANCES.map(a => (
-          <button class="dx-appl" type="button" data-key={a.key} data-match={a.match.join(",")}>
+          <button class="dx-appl" type="button" aria-pressed="false" data-key={a.key} data-match={a.match.join(",")}>
             <span class="dx-emoji" aria-hidden="true">{a.emoji}</span>
             <span>{a.label}</span>
           </button>
@@ -131,7 +131,9 @@ const pageUrl = new URL("/diagnose", SITE.website).href;
       appl = btn.getAttribute("data-key");
       applMatch = (btn.getAttribute("data-match") || appl).split(",");
       Array.prototype.forEach.call(elAppls.querySelectorAll(".dx-appl"), function (b) {
-        b.classList.toggle("active", b === btn);
+        var on = b === btn;
+        b.classList.toggle("active", on);
+        b.setAttribute("aria-pressed", on ? "true" : "false");
       });
       elStep.hidden = false;
       elSearch.value = "";
