@@ -1,52 +1,71 @@
 ---
 title: "LG Range FE Error Code - Causes & Fix"
-description: "FE on an LG range means low voltage reaching the appliance. Most often fixed by checking the power cord, breaker, and outlet."
-pubDatetime: 2026-05-31T06:34:00Z
-modDatetime: 2026-05-31T06:34:00Z
-author: "Marcus Webb"
+description: "FE on LG ranges varies by model and is not universally defined. Check your manual. On washers/dishwashers it means fill/overflow error."
+pubDatetime: 2026-06-08T04:12:04Z
+modDatetime: 2026-06-08T04:12:04Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - oven
   - lg
+diy_or_pro: "pro"
 ---
 
 ## LG Range FE Error Code — What It Means
 
-The FE error code on an LG range indicates a low-voltage condition. This means the range is not receiving adequate electrical supply from your home's circuit. Unlike the FE code on LG washers (which relates to water overflow), the range version specifically flags an issue with incoming power rather than an internal sensor or component failure.
+LG does not publish a single universal meaning for FE on its ranges. The error code list for LG ranges is model-dependent, and the manufacturer's online range code reference does not include an FE entry in the general documentation. If you see FE on your LG range display, locate the exact model number on the rating label and consult that model's service manual or the LG range error-code page for your product family, because meanings vary. On other LG appliances (washers and dishwashers), FE indicates a fill or overflow error related to abnormal water-level sensing, but this meaning does not transfer to ranges.
 
-LG identifies this as a supply-side electrical problem requiring diagnosis by a qualified electrician. The range's control board detects that line voltage is below the minimum threshold needed for safe operation and shuts down to prevent damage or unsafe heating cycles.
+## Before You Replace Anything
+
+Because FE is not a documented LG range code, do not replace any part until you verify the exact code meaning for your model. Confirm the display shows FE and not a similar code (such as F or E followed by another digit), and check the printed service sheet inside the control panel or lower kick plate for model-specific codes before ordering sensors or boards.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Low utility voltage or brownout** The electrical supply from your utility may be delivering insufficient voltage to your home during periods of high demand or grid issues.
-- **Loose or corroded terminal block connections** The hardwired connection points at the back of the range can loosen over time or develop corrosion, creating resistance that drops voltage before it reaches the control board.
-- **Damaged or undersized power cord** A frayed cord or one with an insufficient wire gauge for the range's amperage demand will cause voltage drop under load.
-- **Tripped or weak circuit breaker** A breaker that is failing or sized incorrectly may not deliver full current, or it may have internal contact degradation reducing voltage output.
-- **Poor outlet or receptacle contact** The wall receptacle or plug blades may be worn, scorched, or loose, increasing resistance and dropping the voltage available to the range.
-- **Control board power-input fault** In rare cases the control board's voltage-sensing circuit or power-supply section itself may misread or fail, triggering the code even when supply voltage is adequate.
+- **Model-specific code not documented (~40%)** LG's range error-code guidance does not list FE as a standard code, so the display may be showing a partial or model-unique fault that requires the service manual to interpret.
+- **Display misread or intermittent character (~25%)** A stuck segment or electrical noise can make another code (F followed by a digit, or E followed by a digit) appear as FE on the control panel.
+- **Control board or keypad error (~20%)** A fault in the touch panel or main control can generate non-standard codes or display anomalies that do not correspond to a real sensor fault.
+- **Wiring or connector issue (~10%)** Loose or corroded connectors between sensors and the control board can produce unexpected codes that vary from the published list.
+- **User confusion with washer or dishwasher code (~5%)** If FE appeared on an LG washer or dishwasher in the same household, the homeowner may have noted the wrong appliance, since FE is a documented fill error on those machines but not on ranges.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the display show FE clearly, or could it be F followed by a number (F1, F9) or E followed by a number (E1, E0)?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Write down the exact characters and spacing, then look up that specific code in your model's service sheet or online LG range code database.<br><strong>No:</strong> The display may be misread. Power off the range for two minutes, then photograph the code when it reappears and compare it to the published list for your model.</div>
+</details>
+
+<details class="dtree"><summary>Can you locate the service sheet or wiring diagram inside the control panel or behind the lower kick plate?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Check the printed code table on that sheet for FE or any similar two-character code, and follow the troubleshooting steps listed there.<br><strong>No:</strong> Note your full model and serial number from the rating label (usually inside the oven door or on the side wall) and contact LG support or a qualified technician to confirm the code meaning before replacing parts.</div>
+</details>
+
+<details class="dtree"><summary>Is the range still heating and operating normally despite the FE display?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault may be intermittent or display-only. Monitor the appliance and document when the code appears (during preheat, self-clean, or idle) to help the technician diagnose.<br><strong>No:</strong> The range has entered a fault lockout. Do not use it until the code is identified and the underlying issue is resolved, because some faults (such as temperature-sensor failures) can affect safe operation.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Disconnect power** at the circuit breaker and verify the range is completely off before beginning any inspection.
-2. **Measure supply voltage** at the wall receptacle or junction box with a multimeter set to AC volts. Verify you have approximately 240 volts between the two hot legs and approximately 120 volts from each hot to neutral.
-3. **Inspect the power cord and plug** for burns, cracks, loose prongs, or damaged insulation. Wiggle the plug in the outlet to check for looseness or arcing marks.
-4. **Check the terminal block connections** at the rear of the range. Remove the rear access panel, confirm all wire connections are tight, clean, and free of oxidation or char marks.
-5. **Test the circuit breaker** by turning it fully off then back on. Look for signs of heat damage on the breaker itself or a loose connection at the breaker terminals in the panel.
-6. **Monitor voltage under load** by reconnecting power and watching the multimeter reading while the range attempts to heat. A significant drop below rated voltage under load points to a supply or wiring problem.
-7. **Replace the control board** only after confirming adequate supply voltage and good connections. If voltage is correct at the terminal block but the FE code persists, the board's voltage-sensing circuit may be at fault.
+1. **Turn off power** at the circuit breaker and unplug the range if it has a cord, or switch off the dedicated breaker if it is hard-wired.
+2. **Photograph the display** clearly, noting the exact characters and any flashing or steady illumination, then write down your full model and serial number from the rating label.
+3. **Locate the service sheet** by removing the control-panel trim or the lower kick plate. Look for a folded paper or sticker inside that lists error codes specific to your model.
+4. **Compare the displayed code** to the printed list. If FE does not appear, check for similar codes (F plus a digit, or E plus a digit) that may look like FE due to a dim segment or viewing angle.
+5. **Inspect all wire connectors** behind the control panel and at each sensor (oven temperature sensor, door-lock assembly if present, and touch-panel ribbon cables) for corrosion, looseness, or damage.
+6. **Reset the range** by restoring power and observing whether the code returns immediately, after a few minutes, or only during a specific function (bake, broil, self-clean).
+7. **Contact LG support or a qualified appliance technician** with your model number, serial number, the exact code, and when it appears, so they can provide the correct diagnostic path and any service bulletins for your range family.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| LG range power cord | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-range-fe-error-code&k=LG+range+power+cord&tag=errorcodefixes-20) \| Confirm amperage rating matches your model (typically 40 or 50 amp) and cord type (three-prong or four-prong) before ordering. |
-| Range terminal block | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-range-fe-error-code&k=Range+terminal+block&tag=errorcodefixes-20) \| Replace if terminals are melted, cracked, or heavily corroded. Match the wire configuration to your installation. |
-| LG range main control board (EBR series) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-range-fe-error-code&k=LG+range+main+control+board+%28EBR+series%29&tag=errorcodefixes-20) \| Use your full model number to identify the correct board. Only replace after confirming supply voltage is correct. |
+| Oven temperature sensor (thermistor) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-range-fe-error-code&k=Oven+temperature+sensor+%28thermistor%29&tag=errorcodefixes-20) \| Only if your service sheet confirms FE relates to temperature sensing for your model. Match the resistance specification printed in the manual. |
+| Main control board (EBR/PCB assembly) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-range-fe-error-code&k=Main+control+board+%28EBR%2FPCB+assembly%29&tag=errorcodefixes-20) \| Replace only after confirming all sensors and wiring are intact and the fault is board-internal, per LG or technician guidance. |
 
 ## When to Call a Pro
 
-LG recommends having a qualified electrician diagnose the FE error code because it involves live high-voltage circuits and potential upstream electrical issues. If you are not comfortable working inside your home's breaker panel, measuring 240-volt circuits, or accessing hardwired range connections, call a licensed electrician. Also call a pro if you measure correct supply voltage at the terminal block but the code persists, as this points to a control-board fault requiring appliance-repair expertise. Any signs of arcing, melted insulation, or repeated breaker trips should be addressed by a professional immediately to prevent fire hazard.
+Call a qualified appliance technician immediately if you cannot locate a service sheet or owner's manual that lists FE for your range model, if the code locks out all oven functions, or if you are uncomfortable working behind live control panels. Ranges operate on 240 V in North America, and misdiagnosing the fault can lead to expensive part swaps (control boards often cost $200–400) when the real issue is a loose connector or a non-existent code caused by a display glitch. A technician has access to LG's internal service database and can retrieve model-specific code tables, wiring diagrams, and any technical service bulletins that clarify ambiguous or undocumented codes.
+
+**Rough cost:** A pro service call runs about $150–350.

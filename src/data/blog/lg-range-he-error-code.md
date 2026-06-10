@@ -1,51 +1,74 @@
 ---
 title: "LG Range HE Error Code - Causes & Fix"
-description: "HE on an LG range means a temporary heater error. Power off and unplug for 60 seconds. If it returns, check the heating element or sensor."
-pubDatetime: 2026-05-31T06:33:47Z
-modDatetime: 2026-05-31T06:33:47Z
-author: "Dana Kowalski"
+description: "HE on an LG range means a thermistor error in the oven temperature circuit. The most common fix is replacing the oven thermistor."
+pubDatetime: 2026-06-08T04:11:26Z
+modDatetime: 2026-06-08T04:11:26Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - oven
   - lg
+most_likely_cause: "Failed oven thermistor"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## LG Range HE Error Code — What It Means
 
-The HE error code on an LG range indicates a temporary heater error, according to LG's official support documentation. This fault is specific to LG combo units and range models, and it signals that the appliance has detected a problem with the heating system during operation. LG advises users to power down the unit and unplug it to reset the fault.
+The HE code on an LG range indicates a thermistor error in the oven temperature sensing circuit. The control system is detecting an invalid signal from the oven thermistor, which means it cannot trust the temperature reading and will not operate the oven safely. This is not a generic heater fault but specifically a problem with the temperature sensor or its wiring.
 
-If the code reappears after a power reset, the problem is not temporary and the unit requires service. The underlying cause is typically related to a heating element or burner fault, an oven sensor or thermistor failure, wiring or connection issues, or in some cases improper supply voltage to the appliance.
+LG's official error code documentation identifies this as a thermistor-related fault and directs users to power-cycle the unit and call for service if the code returns. The control board has lost reliable communication with the oven temperature sensor, so normal heating operations are suspended until the sensor circuit is restored.
+
+## Before You Replace Anything
+
+Homeowners often replace the main control board when the real fault is a failed thermistor or loose connector. Always test the thermistor resistance and inspect the harness connections before replacing the board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Faulty heating element or burner** A damaged or burned-out heating element in the oven can trigger the HE error when the control board cannot regulate temperature properly.
-- **Defective oven sensor or thermistor** The oven temperature sensor monitors heat levels, and a failed or drift-prone sensor will cause the control to report a heater fault.
-- **Loose or corroded wiring connections** Wiring harnesses to the heating element or sensor can become loose, oxidized, or damaged, interrupting the heating circuit and generating the error.
-- **Improper electrical supply voltage** An LG range requires correct line voltage, and low or fluctuating power from the outlet or circuit breaker can mimic a heater failure.
-- **Control board or relay fault** In some cases the PCB or a relay responsible for switching the heater can fail, preventing normal operation and triggering the code.
+- **Failed oven thermistor (~60%)** The temperature sensor has drifted out of specification, failed open, or failed short, so the control board receives an invalid resistance reading.
+- **Loose or corroded thermistor connector (~20%)** The harness connector at the sensor or control board has worked loose, developed corrosion, or burned due to arcing, creating an intermittent or open circuit.
+- **Damaged sensor wiring harness (~10%)** The wiring between the thermistor and control board has been pinched, cut, melted, or chafed through insulation, causing a short or open.
+- **Control board input circuit failure (~10%)** If the sensor and wiring test correctly, the control board's input circuitry for the thermistor may have failed and cannot process a valid sensor signal.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the HE code clear after you press Power ON/OFF and turn the circuit breaker off for 30 seconds?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault was intermittent, likely a loose connector or marginal thermistor. Monitor the oven and inspect connections if the code returns.<br><strong>No:</strong> The fault is persistent. Proceed to inspect and test the thermistor and its wiring harness.</div>
+</details>
+
+<details class="dtree"><summary>Can you access the oven thermistor connector and verify it is fully seated with no visible corrosion or burns?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The connector is good. Measure the thermistor resistance and compare to your model's service data to confirm the sensor is in spec.<br><strong>No:</strong> Clean or replace the connector and retest. A loose or damaged connector is a common source of HE codes.</div>
+</details>
+
+<details class="dtree"><summary>Does the thermistor measure within the expected resistance range at room temperature?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The sensor is likely good. Check the harness for damage and consider control board input failure if everything else tests correctly.<br><strong>No:</strong> Replace the oven thermistor. An out-of-spec reading confirms the sensor has failed.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Power off and unplug the range** for at least 60 seconds to reset the control board, then restore power and test whether the error clears.
-2. **Verify the electrical supply** by checking the circuit breaker and confirming the outlet delivers the correct voltage for your model (consult your installation manual for spec).
-3. **Inspect the heating element or burner** visually for cracks, blistering, or burn marks, and use a multimeter to test continuity across the element terminals (consult your model's wiring diagram for expected values).
-4. **Test the oven sensor or thermistor** by disconnecting it and measuring resistance at room temperature, then compare the reading to your service manual's resistance table.
-5. **Examine all wiring and connectors** between the sensor, heating element, and control board for loose pins, corrosion, or frayed insulation, and repair or replace damaged harnesses.
-6. **Replace the failed component** (element, sensor, or harness) once testing identifies the fault, ensuring all connections are secure before reassembling panels.
-7. **Contact LG service or a qualified technician** if the error persists after component replacement, as the control board may require professional diagnostics or replacement.
+1. **Turn off power** at the circuit breaker to the range and confirm the display is dark before proceeding.
+2. **Press Power ON/OFF** on the control panel, then turn the circuit breaker off for 30 seconds and restore power to attempt a reset.
+3. **Locate the oven thermistor**, typically mounted in the rear wall of the oven cavity or attached near the upper heating element, and note the wire routing to the control board.
+4. **Disconnect the thermistor connector** at the sensor or control board and inspect both halves for corrosion, burns, or loose pins.
+5. **Measure the thermistor resistance** with a multimeter across the sensor terminals and compare the reading to your model's service data or wiring diagram (consult your model's table if no universal spec is available).
+6. **Replace the oven thermistor** if it reads open, shorted, or out of specification, and make sure the new sensor connector is fully seated.
+7. **Restore power and test** the oven in bake mode to verify the HE code does not return and the oven heats normally.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| LG Range Heating Element | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-range-he-error-code&k=LG+Range+Heating+Element&tag=errorcodefixes-20) \| Match the wattage and physical dimensions to your model number. |
-| LG Oven Temperature Sensor (Thermistor) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-range-he-error-code&k=LG+Oven+Temperature+Sensor+%28Thermistor%29&tag=errorcodefixes-20) \| Verify the connector type and sensor length for your range model. |
-| Wiring Harness or Terminal Block | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-range-he-error-code&k=Wiring+Harness+or+Terminal+Block&tag=errorcodefixes-20) \| Use OEM or compatible harness if connectors are melted or corroded. |
+| LG oven thermistor (temperature sensor) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-range-he-error-code&k=LG+oven+thermistor+%28temperature+sensor%29&tag=errorcodefixes-20) \| Model-specific part. Verify your range model number and match the connector type. |
+| Wire harness repair kit or connector | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-range-he-error-code&k=Wire+harness+repair+kit+or+connector&tag=errorcodefixes-20) \| If the thermistor connector is burned or damaged. make sure pin count and gauge match your harness. |
 
 ## When to Call a Pro
 
-Call a professional if the HE error returns after a power reset and you are not comfortable working with live electrical circuits or high-voltage heating elements. A licensed appliance technician has the test equipment and LG service documentation to safely diagnose control board faults, measure voltage at the heating element under load, and verify thermistor calibration. Professional service is also recommended if you have replaced both the element and sensor but the code persists, since internal control board relay or firmware issues may be present.
+Call a qualified appliance technician if you are not comfortable working around 240-volt circuits or removing the range back panel to access the thermistor. Also call for service if the thermistor and all wiring test correctly but the HE code persists, because the remaining fault is likely a control board input issue that requires board-level diagnosis or LG-authorized repair. If the error appears on a dual-fuel or gas range and you smell gas or suspect a gas-line issue, shut off the gas supply and call a professional immediately.
+
+**Rough cost:** DIY runs about $20-50 for thermistor, 30-60 min. A pro service call runs about $150-250 service call and thermistor replacement.

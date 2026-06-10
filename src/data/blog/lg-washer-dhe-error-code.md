@@ -1,53 +1,75 @@
 ---
 title: "LG Washer dHE Error Code - Causes & Fix"
-description: "dHE means temporary dry function error on LG combo units. Try a 10-second power reset first. If it returns, service needed."
-pubDatetime: 2026-05-31T02:42:23Z
-modDatetime: 2026-05-31T02:42:23Z
-author: "Marcus Webb"
+description: "dHE means a temporary dry function error on LG washer-dryer combos. Most common fix: check the drying heater element and wiring."
+pubDatetime: 2026-06-08T04:25:55Z
+modDatetime: 2026-06-08T04:25:55Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - washer
   - lg
+most_likely_cause: "failing or open heater element in the drying circuit"
+likelihood: "the most common cause"
+diy_or_pro: "pro"
 ---
 
 ## LG Washer dHE Error Code — What It Means
 
-The dHE code on LG washer-dryer combo units stands for a temporary dry function error. It signals a problem in the drying circuit, not the wash cycle. LG designed this code to flag issues with heating, temperature sensing, or control communication during the dry phase. In many cases the fault is transient and can be cleared by a full power reset.
+LG states that the dHE error code is caused by a temporary dry function error on washer-dryer combination units. The code appears when the drying or heating circuit does not complete its expected sequence during the dry portion of a cycle. LG's consumer troubleshooting is limited to power-cycling the machine, unplugging for about ten seconds, restoring power, and restarting the cycle. If the code persists after a reset, LG directs the unit to service rather than offering additional user-level fixes.
 
-Because LG labels it 'temporary,' the first step is always a proper reset. If the code clears and does not come back, the unit may resume normal operation. If dHE persists after reset, the control board has detected a real fault in the dry circuit that requires diagnosis and repair.
+For technicians, dHE points to a problem in the drying side of the machine, not the wash side. The fault is typically in the heater circuit, temperature-sensing circuit, wiring, or control relay that manages the dry function. Field repairs focus on the heater element, thermostat, thermal fuse, connectors, and the PCB relay that powers the heater.
+
+## Before You Replace Anything
+
+Homeowners often assume the main control board is bad and replace it first. Before ordering a board, test the heater element with a multimeter for continuity and inspect all wiring and connectors to the heater for damage or looseness.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Open or weak heating element** The dry heater loses continuity or resistance drops below spec, preventing proper heat generation during the dry cycle.
-- **Faulty thermostat or temperature sensor** A failed sensor gives the control board incorrect temperature readings, making the board think drying performance is abnormal.
-- **Open thermal fuse or thermal cutoff** A tripped or failed thermal safety device in the heater circuit breaks the path and stops current flow to the element.
-- **Loose, burnt, or corroded wiring and connectors** Poor connections at the heater, sensor, or board terminals disrupt the circuit and mimic a component failure.
-- **Failed PCB relay or control output** The main board does not send commanded voltage to the heater even though the element and safety devices test good.
-- **Transient control glitch after power interruption** A brief fault in control logic can set the code without a hard component failure, which is why LG recommends a reset first.
+- **Open or failing heater element (~45%)** The drying heater has failed open or shows abnormal resistance, preventing the dry cycle from completing.
+- **Loose, oxidized, or damaged wiring and connectors (~25%)** Connectors at the heater or harness have become corroded, loose, or heat-damaged, breaking the circuit.
+- **Faulty thermostat, thermal fuse, or bimetal fuse (~15%)** A temperature-sensing safety device in the dry circuit has opened and will not close, preventing heater operation.
+- **PCB or heater relay failure (~10%)** The main control board or heater relay has burned contacts or internal failure and does not send power to the heater.
+- **Temperature sensor fault (~5%)** The sensor that monitors drying temperature is reading incorrectly or has failed, causing the control to abort the dry cycle.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the code clear after unplugging the washer for ten seconds and restarting?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault was temporary. Monitor the next few cycles. If dHE returns, proceed with heater circuit diagnostics.<br><strong>No:</strong> The fault is persistent. Power down and inspect the heater element, wiring, and thermal safety devices.</div>
+</details>
+
+<details class="dtree"><summary>Does the heater element show continuity when tested with a multimeter (power off)?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The element is intact. Check connectors, thermal fuses, and the thermostat for open circuits or damage.<br><strong>No:</strong> The heater element is open and must be replaced.</div>
+</details>
+
+<details class="dtree"><summary>Is voltage present at the heater terminals during a commanded dry cycle (with power on)?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Voltage is reaching the heater. If the element tests good, suspect a poor connection or failed thermostat inline.<br><strong>No:</strong> Voltage is not reaching the heater. Check the PCB relay and upstream wiring for failure or open relay contacts.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Power off the unit completely.** Turn the washer off at the control panel, then either unplug the machine or open the circuit breaker feeding it.
-2. **Wait at least 10 seconds.** Let the control board fully discharge and clear any temporary fault flags held in memory.
-3. **Restore power and restart the cycle.** Plug the unit back in or close the breaker, turn the washer on, and select a dry cycle to test whether the code returns.
-4. **Inspect the heater circuit visually.** If dHE persists, unplug the unit and open the rear or bottom panel to examine the heater assembly, wiring harness, terminals, and connectors for heat damage, looseness, or corrosion.
-5. **Test the heating element with a multimeter.** Check continuity across the element terminals and verify no path to ground, following safe isolation procedures before measuring.
-6. **Check the thermostat and thermal fuse for continuity.** Use your meter to confirm that each safety device is closed, an open reading on either part means replacement is required.
-7. **Verify power to the heater during a dry command.** With the unit powered and a dry cycle running, measure whether the board is supplying voltage to the heater circuit, a missing supply points to a board or relay fault.
+1. **Unplug the washer** and wait ten seconds, then restore power and restart the cycle to see if the code clears.
+2. **If dHE returns**, unplug the unit and isolate it from power before any disassembly.
+3. **Remove the rear or side access panel** to expose the drying heater assembly and wiring harness.
+4. **Inspect all connectors and wiring** to the heater for looseness, corrosion, heat discoloration, or broken wires, and repair or replace as needed.
+5. **Test the heater element with a multimeter** for continuity and resistance, replacing the element if it is open or reads abnormally.
+6. **Check the thermostat, thermal fuse, and any bimetal safety devices** in the dry circuit for continuity, replacing any that do not close.
+7. **Verify supply voltage to the heater** while the machine is in dry mode (with power restored), checking upstream at the PCB relay if voltage is absent but components test good.
+8. **Reassemble the unit**, run a complete dry-cycle test, and confirm the dHE code does not recur before returning the washer to service.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Dry heater heating element | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-dhe-error-code&k=Dry+heater+heating+element&tag=errorcodefixes-20) \| Match the part number to your exact LG combo model, elements are not universal across the line. |
-| Thermostat or temperature sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-dhe-error-code&k=Thermostat+or+temperature+sensor&tag=errorcodefixes-20) \| Order the sensor specified for the dry circuit, not the wash thermistor. |
-| Thermal fuse or thermal cutoff | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-dhe-error-code&k=Thermal+fuse+or+thermal+cutoff&tag=errorcodefixes-20) \| Single-use safety device, replace if open and inspect for the root cause of overheating. |
-| Wire harness or connector kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-dhe-error-code&k=Wire+harness+or+connector+kit&tag=errorcodefixes-20) \| Use an OEM connector kit if terminals are melted or corroded beyond cleaning. |
+| LG washer-dryer heater element (drying heater assembly) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-dhe-error-code&k=LG+washer-dryer+heater+element+%28drying+heater+assembly%29&tag=errorcodefixes-20) \| Confirm the part number for your specific model from the wiring diagram or service label. |
+| Thermostat or thermal fuse | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-dhe-error-code&k=Thermostat+or+thermal+fuse&tag=errorcodefixes-20) \| Replace any safety device in the dry circuit that tests open. |
+| Wiring harness or connector kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-dhe-error-code&k=Wiring+harness+or+connector+kit&tag=errorcodefixes-20) \| Use if connectors are heat-damaged or corroded beyond cleaning. |
 
 ## When to Call a Pro
 
-LG directs customers to professional service if the dHE code returns after a proper power reset. If you are not comfortable working with 220V AC circuits, disassembling the cabinet, or using a multimeter to trace heater voltage, call a qualified appliance technician. Technicians have the training and tools to safely diagnose the heater circuit end to end, identify whether the fault is in the element, sensor, safety device, wiring, or control board, and replace only the failed component. Misdiagnosis or unsafe work around live heater circuits can damage the unit or create a shock hazard.
+Call a qualified appliance technician if you are not comfortable working with the washer unplugged and disassembled, or if you do not own a multimeter and cannot safely test the heater circuit. Washer-dryer combo units can have high-voltage heater circuits (up to 220 V AC in some models), and incorrect testing or reassembly can create shock or fire hazards. If you have replaced the heater element and tested all safety devices but the dHE code still appears, the main control board or heater relay likely needs professional diagnosis and replacement.

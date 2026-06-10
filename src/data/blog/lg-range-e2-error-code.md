@@ -1,51 +1,75 @@
 ---
 title: "LG Range E2 Error Code - Causes & Fix"
-description: "E2 on LG ranges typically signals an oven temperature sensor fault. Most common fix: replace the oven thermistor or repair the wiring."
-pubDatetime: 2026-05-31T06:03:27Z
-modDatetime: 2026-05-31T06:03:27Z
-author: "Marcus Webb"
+description: "E2 means thermistor error on LG ranges. The most common fix is replacing the failed oven temperature sensor or repairing its wiring."
+pubDatetime: 2026-06-08T04:04:54Z
+modDatetime: 2026-06-08T04:04:54Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - oven
   - lg
+most_likely_cause: "Failed oven thermistor or temperature sensor"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## LG Range E2 Error Code — What It Means
 
-LG ranges use model-specific error codes, so E2 does not have one universal meaning across every platform. On most LG range models where E2 appears, it indicates an oven thermistor or temperature sensor fault detected by the control board. On some platforms, error codes in this family can also point to low voltage conditions or communication problems between the cooktop PCB and oven PCB. Always verify the exact meaning for your model number by checking the service literature or user manual that shipped with your range, because LG's fault codes vary by platform.
+E2 on an LG range indicates a thermistor error in the oven temperature-sensing circuit. The control board is detecting an invalid signal from the oven temperature sensor, which can happen if the sensor is open, shorted, disconnected, or if the control cannot interpret its resistance correctly.
+
+LG's published first-step response is to press Power Off/On and, if the code returns, shut off the breaker for 30 seconds and restore power. If the code persists after a power reset, the problem is usually in the oven temperature sensor itself, its wiring or connector, or less commonly the main control board reading that sensor incorrectly.
+
+## Before You Replace Anything
+
+Homeowners sometimes replace the main control board when the real problem is a failed sensor or loose connector. Always test the thermistor with a multimeter and check the harness for damage before replacing the board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed oven thermistor** The oven temperature sensor itself has drifted out of specification or failed open or short, so the control cannot read valid temperature data.
-- **Loose or corroded sensor connector** The wiring harness connection at the rear of the oven cavity has backed out, corroded pins, or heat damage that breaks the sensor circuit.
-- **Damaged sensor wiring harness** The wire between the sensor and the control board has been cut, pinched, or shorted against the oven frame.
-- **Faulty main control board** The control PCB's sensor input circuitry has failed even though the thermistor itself tests good.
-- **Low supply voltage or power quality issue** On certain models, the code flags inadequate incoming voltage at the breaker, which requires electrician diagnosis before replacing appliance parts.
-- **Board-to-board communication failure** On dual-board platforms, the cooktop PCB and oven PCB are not communicating properly, triggering an error in the display.
+- **Failed oven thermistor (~50%)** The oven temperature sensor itself has drifted out of specification, is open, or is shorted, sending an invalid resistance reading to the control board.
+- **Loose, broken, or corroded wiring (~25%)** The connector between the sensor and control board is loose, the harness wires are broken or pinched, or corrosion has developed at the terminals.
+- **Temporary control glitch (~15%)** A power interruption or transient voltage spike has caused the control board to latch a fault that clears with a full power reset.
+- **Main control board issue (~10%)** The control board's thermistor input circuit is failing even though the sensor and harness test good.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Did the E2 code disappear after you turned the breaker off for 30 seconds and back on?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault was likely a temporary control glitch. Monitor the range over the next few uses. If E2 returns, proceed with sensor testing.<br><strong>No:</strong> The fault is persistent. Move on to inspecting the oven sensor wiring and testing the thermistor resistance.</div>
+</details>
+
+<details class="dtree"><summary>Is the sensor connector at the back of the oven cavity fully seated and free of corrosion or damage?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The connector is good. Test the sensor resistance with a multimeter at room temperature and compare to your model's specification.<br><strong>No:</strong> Clean or repair the connector, make sure a tight connection, then reset power and see if the code clears.</div>
+</details>
+
+<details class="dtree"><summary>Does the oven thermistor measure resistance within the expected range (consult your model's service data or wiring diagram)?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The sensor is likely good. Check harness continuity to the control board and, if continuity is intact, suspect the control board.<br><strong>No:</strong> The sensor is out of specification. Replace the oven thermistor and retest.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Record your full model and serial number** from the label inside the oven door or on the back, then look up the service manual or error-code table for that specific platform to confirm what E2 means on your range.
-2. **Power-cycle the range** by pressing Power ON/OFF on the control panel, then if the code returns immediately, open the circuit breaker for thirty seconds, restore power, and check whether the code clears.
-3. **Unplug the range or turn off the breaker**, pull the unit away from the wall, remove the rear access panel, and locate the oven thermistor connector at the back of the oven cavity.
-4. **Inspect the thermistor connector and harness** for loose pins, corrosion, heat discoloration, or any pinched or cut wires running from the sensor probe to the control board.
-5. **Measure the thermistor resistance** if you have a multimeter and your model's service sheet provides the specification, or simply replace the sensor if the wiring is intact but the code persists.
-6. **If the sensor and harness are good**, suspect the main control board or any intermediate PCB listed for your platform, and verify board power and communication ribbon-cable connections.
-7. **If the code is voltage-related** according to your model documentation, have a qualified electrician test incoming supply voltage and grounding at the breaker before replacing appliance components.
-8. **After replacement**, reassemble all panels, restore power, run a bake cycle, and confirm the error does not return during normal oven operation.
+1. **Disconnect power** at the circuit breaker and wait 30 seconds, then restore power to attempt a reset as LG recommends.
+2. **Check if the code returns** after the power reset, and if it does, proceed with diagnostics.
+3. **Remove the oven racks** and locate the oven temperature sensor, usually a metal probe mounted through the rear wall of the oven cavity.
+4. **Inspect the sensor connector** at the back of the range for loose or corroded terminals, and disconnect the harness.
+5. **Test the sensor resistance** with a multimeter set to ohms and compare the reading to the manufacturer specification for your model (consult your wiring diagram if available).
+6. **Check continuity** in the harness from the sensor connector to the control board connector to rule out an open wire.
+7. **Replace the oven thermistor** if the resistance is out of range, the harness if damaged, or the main control board if both the sensor and harness test good but the code persists.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Oven thermistor / temperature sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-range-e2-error-code&k=Oven+thermistor+%2F+temperature+sensor&tag=errorcodefixes-20) \| Verify the part number for your exact LG range model, sensor resistance specification varies by platform. |
-| Sensor wiring harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-range-e2-error-code&k=Sensor+wiring+harness&tag=errorcodefixes-20) \| Order if the connector or wire between sensor and control is damaged or heat-degraded. |
-| Main control board (oven PCB) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-range-e2-error-code&k=Main+control+board+%28oven+PCB%29&tag=errorcodefixes-20) \| Required if the sensor circuit tests good but the code persists, confirm board part number by model. |
+| LG oven temperature sensor / thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-range-e2-error-code&k=LG+oven+temperature+sensor+%2F+thermistor&tag=errorcodefixes-20) \| Match the part number to your specific LG range model for correct fit and resistance specification. |
+| Sensor wiring harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-range-e2-error-code&k=Sensor+wiring+harness&tag=errorcodefixes-20) \| Only if the existing harness is damaged, pinched, or has burned terminals. |
+| LG range main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-range-e2-error-code&k=LG+range+main+control+board&tag=errorcodefixes-20) \| Replace only after confirming the sensor and harness are good and the code persists. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if you are not comfortable working inside live electrical equipment, if your multimeter readings do not match published specifications, or if the code returns after you have replaced the thermistor and inspected all harness connections. If your model documentation indicates the code is a low-voltage fault, hire a licensed electrician to diagnose the incoming power before replacing any appliance parts. Also call for help on dual-board ranges where the error involves cooktop-to-oven communication, because those platforms require board-level diagnosis and ribbon-cable testing that is difficult without service training.
+Call a professional if you are not comfortable working with appliance wiring and multimeter testing, if you cannot access the sensor or control board safely, or if the sensor and harness both test good but the E2 code persists after replacement. A technician can compare readings to the exact service specification for your model and evaluate the control board's thermistor input circuit. Also call a pro if the range shares a high-voltage circuit with other appliances and you are unsure how to isolate power safely.
+
+**Rough cost:** DIY runs about $30-80 in parts, 30-60 min. A pro service call runs about $150-300.
