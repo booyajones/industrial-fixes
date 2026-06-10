@@ -1,53 +1,76 @@
 ---
 title: "Whirlpool Washer PF Error Code - Causes & Fix"
-description: "PF means Power Failure: the cycle was interrupted by lost or low voltage. Press and hold START to resume or press POWER to clear."
-pubDatetime: 2026-05-31T01:52:03Z
-modDatetime: 2026-05-31T01:52:03Z
-author: "Dana Kowalski"
+description: "PF means power failure during the wash cycle. Press POWER to clear or hold START to resume. Check outlet voltage and connections first."
+pubDatetime: 2026-06-08T05:57:18Z
+modDatetime: 2026-06-08T05:57:18Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - washer
   - whirlpool
+most_likely_cause: "actual utility power loss or brief outage"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Whirlpool Washer PF Error Code — What It Means
 
-The PF code on a Whirlpool washer stands for Power Failure. It means the wash cycle was interrupted by a loss or disturbance in the electrical supply to the machine. The washer's control board detected that power dropped out or fell below safe operating levels, so it stopped the cycle and posted the code. Whirlpool instructs you to touch and hold START to restart the cycle where it left off, or press POWER to clear the display.
+The PF code on your Whirlpool washer stands for Power Failure. It means the wash cycle was interrupted by a loss of electrical power to the machine. The control board detected that voltage dropped or disappeared completely while the washer was running, so it stopped the cycle and displayed the code. On most models you can clear the display by pressing the POWER button, or on some you can hold START to resume the interrupted cycle where it left off.
 
-PF is not usually a failed-part code by itself. It is an event code that can be triggered by a brief utility outage, a voltage sag, a loose plug or receptacle, a weak breaker, or any condition that makes the control see an interruption in supply power. Field diagnostics have shown PF appearing when outlet voltage drops to 108 VAC instead of the required 120 to 125 VAC range. Less commonly, internal wiring or control-board power-supply issues can make the controller think power was lost even when the outlet is good.
+The interruption can come from an actual utility outage, a tripped breaker, a loose plug or outlet connection, or low incoming line voltage. Some models will show PF even after a very brief voltage dip that resets the control mid-cycle. The code itself is informational rather than a component fault, but if it appears repeatedly with no obvious power loss, the problem may be an intermittent connection in the power cord, outlet, or control board power supply.
+
+## Before You Replace Anything
+
+Homeowners sometimes replace the main control board when PF keeps appearing, but the real problem is often a loose outlet, worn receptacle contacts, or low house voltage. Always measure voltage at the outlet with a meter and inspect all connections before ordering a board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Actual power outage or voltage sag** A brief utility interruption, brownout, or voltage drop under load caused the controller to see a loss of supply and stop the cycle.
-- **Loose or unplugged power cord** The washer's plug is not seated fully in the receptacle, or the cord connection at the back of the machine is loose, creating an intermittent supply.
-- **Failing outlet or weak receptacle contact** The wall receptacle has loose internal contacts, corrosion, or heat damage that interrupts power or drops voltage under the washer's load.
-- **Tripped, overloaded, or weak circuit breaker** The breaker momentarily trips or sags under the motor's startup current, or a GFCI or AFCI device nuisance-trips during the cycle.
-- **Low incoming line voltage** The outlet measures below 120 VAC, such as 108 VAC documented in field cases, causing the control to detect undervoltage and throw PF.
-- **Internal control wiring or power-supply fault** A loose harness connector, corroded terminal, or failing power-supply section on the main control board intermittently starves the controller of voltage.
+- **Actual utility power outage or brief interruption (~50%)** The electrical service to your home lost voltage during the wash cycle, either a full outage or a momentary dip that reset the control.
+- **Loose power connection at outlet, plug, or cord (~25%)** A poor connection at the wall receptacle, washer plug, or cord terminals can cause the machine to lose power briefly and throw PF.
+- **Low or unstable line voltage (~15%)** Incoming voltage below the expected 120 VAC range (for example 108 VAC measured at the outlet) can trigger the power-failure condition on some models.
+- **Tripped breaker or GFCI reset (~7%)** The circuit breaker or GFCI tripped during the cycle and then was reset, interrupting power long enough to stop the washer.
+- **Intermittent control board or harness connection (~3%)** A damaged connector or cold solder joint inside the main control can mimic a power loss even when house voltage is stable.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Did the lights in your house flicker or go out at the same time the washer stopped?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The cause was a real utility power interruption. Clear the code by pressing POWER and restart the cycle. No repair needed unless it happens often.<br><strong>No:</strong> The interruption is local to the washer circuit. Check the outlet voltage and all connections at the plug and receptacle.</div>
+</details>
+
+<details class="dtree"><summary>Does your outlet measure between 120 and 125 VAC with a multimeter?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Voltage is adequate. Inspect the power cord, plug, and outlet contacts for looseness or heat damage, then test the control board connections.<br><strong>No:</strong> Low voltage is the problem. Have an electrician check the branch circuit, breaker, and service panel for undersized wire or poor connections.</div>
+</details>
+
+<details class="dtree"><summary>Does the PF code reappear on every cycle even with good house power?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Suspect an intermittent fault in the main control board or its power-supply harness. Unplug the washer, inspect all connectors, and consider replacing the control if connections are clean.<br><strong>No:</strong> The problem is likely external (outlet, breaker, or utility). Monitor the circuit for intermittent trips or loose contacts.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Confirm the code and symptom.** Note whether the washer lost power mid-cycle, dimmed, or reset when other appliances in the house started up, and check that PF is the only code displayed.
-2. **Press POWER to clear the code** or touch and hold START to restart the cycle per Whirlpool's instructions, then observe whether the code returns immediately or only under load.
-3. **Measure the outlet voltage with a true-RMS multimeter.** Verify stable supply around 120 VAC (field cases link PF to readings as low as 108 VAC when 120 to 125 VAC is expected), and check voltage again while the washer is running to catch sags under load.
-4. **Inspect the power cord and plug.** Push the plug firmly into the receptacle, check for heat marks or melted plastic on the plug blades and outlet, and verify the cord connection at the back of the washer is tight and not damaged.
-5. **Check the circuit breaker and receptacle.** Open the breaker panel and confirm the washer's breaker is not loose or warm, reset any tripped GFCI or AFCI device, and test the receptacle with a plug-in tester or by measuring hot-to-neutral and hot-to-ground.
-6. **Run a test cycle while monitoring voltage.** Start a normal wash and watch the meter for voltage dips during motor start, fill, or spin, and listen for relay clicks or dimming lights that indicate supply problems.
-7. **Inspect internal connections if external power is good.** Unplug the washer, remove the top or rear access panel, and check all wire harness connectors to the main control board and user interface for looseness, corrosion, or heat damage, then reconnect and retest.
-8. **Replace the main control board only after proving stable supply.** If the outlet reads steady 120 VAC, all connections are clean and tight, and PF still appears during cycles, suspect a failing power-input circuit or control board and consult your model's service manual for board replacement.
+1. **Clear the code** by pressing the POWER button to turn off the display, or on some models hold the START button for a few seconds to resume the interrupted cycle.
+2. **Check for a recent power event** by asking if the house lights flickered, checking the main panel for a tripped breaker, or looking for a tripped GFCI on the washer outlet.
+3. **Measure the outlet voltage** with a multimeter set to AC volts. You should see close to 120 VAC. One technician case found 108 VAC at the outlet and identified that as too low for reliable operation.
+4. **Inspect the power cord and plug** for damage, heat marks, or loose prongs. Wiggle the plug in the receptacle and check for play or sparking marks on the contacts.
+5. **Unplug the washer** for 30 seconds, then restore power and start a new cycle. If PF was caused by a one-time voltage dip, the code will not return.
+6. **Test the outlet and breaker** by plugging another high-wattage appliance into the same receptacle and running it for a few minutes. If that device also loses power, replace the outlet or tighten the breaker connection.
+7. **Inspect control-board connections** if PF returns repeatedly with confirmed good voltage. Unplug the machine, remove the control-console cover, and check that all harness plugs are fully seated and show no signs of corrosion or heat damage.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Power cord | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-washer-pf-error-code&k=Power+cord&tag=errorcodefixes-20) \| Replace if damaged, melted, or loose at the washer's rear terminal block. |
-| Main control board (machine control) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-washer-pf-error-code&k=Main+control+board+%28machine+control%29&tag=errorcodefixes-20) \| Required only after confirming stable incoming voltage and ruling out all external power-path issues. |
-| Wall receptacle / outlet | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-washer-pf-error-code&k=Wall+receptacle+%2F+outlet&tag=errorcodefixes-20) \| Replace if contacts are loose, burned, or corroded and cannot hold the plug firmly. |
+| Whirlpool washer main control board (electronic control) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-washer-pf-error-code&k=Whirlpool+washer+main+control+board+%28electronic+control%29&tag=errorcodefixes-20) \| Replace if PF persists with verified good incoming power and all connections clean. Match your model number. |
+| Power cord (three-prong appliance cord) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-washer-pf-error-code&k=Power+cord+%28three-prong+appliance+cord%29&tag=errorcodefixes-20) \| Replace if the cord shows heat damage, cracked insulation, or loose terminals at the washer end. |
+| Wall receptacle (120 VAC outlet) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-washer-pf-error-code&k=Wall+receptacle+%28120+VAC+outlet%29&tag=errorcodefixes-20) \| Replace if contacts are loose, discolored, or measure low voltage under load. Use a heavy-duty 15 or 20 amp receptacle. |
 
 ## When to Call a Pro
 
-Call a licensed electrician if you measure low or unstable voltage at the outlet, if the breaker trips repeatedly, or if you are uncomfortable working inside your home's electrical panel. Call an appliance technician if the outlet voltage is stable around 120 VAC, all external connections are tight and clean, and the PF code still appears during wash cycles. Internal control-board diagnosis and replacement require safe disassembly and proper part identification for your specific Whirlpool model. If you see burned wiring, smell melted plastic, or the washer sparks or smokes, disconnect power immediately and do not attempt repair yourself.
+Call a qualified appliance technician if the PF code returns on every cycle after you have confirmed stable 120 VAC at the outlet and inspected all visible connections. A pro can test the control board power supply under load and check for intermittent faults in the harness or board that are not obvious during a static inspection. Also call an electrician if you measure consistently low voltage (below about 115 VAC) at the outlet, since that points to a problem in your home's branch circuit, service panel, or utility connection that requires licensed electrical work to diagnose and repair safely.
+
+**Rough cost:** DIY runs about $0-15 if outlet or breaker, $150-250 if control board, 15-45 min. A pro service call runs about $100-300 depending on diagnosis and part.

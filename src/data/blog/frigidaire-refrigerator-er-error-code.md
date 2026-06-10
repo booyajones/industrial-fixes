@@ -1,53 +1,72 @@
 ---
 title: "Frigidaire ER Error Code - Causes & Fix"
-description: "ER means electronic communication fault between control boards or sensors. Most common fix: hard reset by unplugging 5–10 minutes."
-pubDatetime: 2026-05-31T05:30:12Z
-modDatetime: 2026-05-31T05:30:12Z
-author: "Dana Kowalski"
+description: "ER means membrane switch fault or stuck key on your Frigidaire dishwasher. Most often the touch panel or keypad has failed."
+pubDatetime: 2026-06-08T06:09:07Z
+modDatetime: 2026-06-08T06:09:07Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
-  - refrigerator
   - frigidaire
+most_likely_cause: "Stuck or shorted keypad or membrane switch assembly"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Frigidaire ER Error Code — What It Means
 
-The ER code on a Frigidaire refrigerator signals a generic electronic or communication fault inside the control system. It is not a temperature alarm or sealed-system problem. Instead, it means the main control board cannot properly communicate with the display panel, sensors, or other electronics. This can happen after a power surge, because of a loose connector, or when a control board begins to fail. Frigidaire's official guidance treats unexplained error codes as candidates for a hard reset first, which clears many transient glitches.
+The ER code on a Frigidaire dishwasher signals a membrane switch failure or stuck-key fault. The control board detects that one or more buttons on the user interface appear stuck, continuously closed, or not responding correctly. In practice, this code points to a problem in the control panel itself, the user interface assembly, or the electronic control board that reads the keypad signals. The fault can be a physical issue like a button jammed down by residue or moisture, a failing membrane switch, or an internal fault in the touch panel or main board. It is not a drain, fill, or sensor code. The root cause usually lies in the user interface-to-control-board path.
 
-Because ER is not component-specific, you will need to check wiring, connectors, and boards in sequence after the reset attempt. Video repair guides confirm that ER and related codes like ER CE point to communication breakdowns between the main board and the user interface or thermistor inputs, rather than mechanical or compressor faults.
+## Before You Replace Anything
+
+Many homeowners replace the main control board first when ER appears. Before ordering a board, hard-reset the machine and press each button individually to check for stuck keys or physical damage on the touch panel, since a failed keypad is more common and less expensive.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Temporary control lockup after power disturbance** A voltage spike or brownout can freeze the board logic, and a full power-down reset often clears the fault.
-- **Loose or corroded wiring harness or connectors** Oxidized pins, moisture intrusion, or a partially unseated ribbon cable between the main board and display panel interrupt communication.
-- **Failed main control board** Burnt components, cracked solder joints, or damaged relay circuits prevent the board from managing sensor and display signals.
-- **Faulty user-interface or display board** If the display panel itself has failed circuitry, the main board cannot read or send commands correctly.
-- **Bad thermistor or sensor input** An out-of-range sensor reading can confuse the control logic and trigger a generic electronic fault code.
-- **Moisture damage in the control compartment** Water from condensation, leaks, or cleaning can corrode connectors and short traces on control boards.
+- **Stuck or shorted keypad button (~50%)** Physical wear, moisture intrusion, or residue can cause one or more membrane switches to stay closed or short, triggering the ER code.
+- **Faulty user interface or touch panel assembly (~30%)** The membrane switch assembly or touch panel itself can fail internally, with failing contacts or a damaged ribbon connection to the control board.
+- **Defective main electronic control board (~15%)** If the keypad tests normally and reseating connections does not clear ER, the main control board may not be correctly reading the user interface signals.
+- **Loose or corroded ribbon cable or harness connector (~5%)** The ribbon cable or plug between the user interface and control board can become loose, corroded, or damaged, interrupting the signal path.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does any button on the control panel feel stuck, spongy, or unresponsive when pressed?</summary>
+<div class="dtree-body"><strong>Yes:</strong> A stuck or damaged key is likely. Clean around each button, then hard-reset the dishwasher; if ER returns, replace the user interface or membrane switch assembly.<br><strong>No:</strong> The keypad itself may be internally faulty or the issue lies in the wiring or control board. Continue to the next check.</div>
+</details>
+
+<details class="dtree"><summary>Does the ER code clear after unplugging the dishwasher for five minutes and restoring power?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault may have been a momentary glitch. Monitor the machine; if ER returns, inspect the ribbon cable and connectors between the UI and board.<br><strong>No:</strong> The fault is persistent. Open the console, reseat the ribbon cable and harness plugs, and if the code remains, replace the touch panel or control board.</div>
+</details>
+
+<details class="dtree"><summary>After reseating all connections, does the control panel respond normally but ER still appears?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The main electronic control board is the stronger suspect. Replace the control board.<br><strong>No:</strong> The user interface or touch panel assembly is faulty. Replace that assembly first.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Perform a hard reset first.** Unplug the refrigerator completely for 5 to 10 minutes, then restore power and watch whether the ER code clears or returns immediately.
-2. **Remove the control panel cover.** Access the display board and main control board area by taking out the screws that hold the upper or rear interior panel, depending on your model.
-3. **Inspect all wiring connectors.** Check that every harness plug between the main board and display board is fully seated, and look for bent pins, corrosion, moisture, or damaged insulation.
-4. **Test thermistor resistance if equipped.** Disconnect the sensor plug and use a multimeter to measure resistance at room temperature, comparing the reading to your model's specification if available.
-5. **Examine both control boards for visible damage.** Look for burnt relays, discolored areas, cracked solder joints, or swollen capacitors on the main control board and the user-interface board.
-6. **Replace the faulty board or harness.** If wiring is intact and the code persists, swap the main control board first since it is the most common failure point for ER codes.
-7. **Reassemble and verify normal operation.** Restore all covers, plug in the unit, confirm that the display shows normal temperature readings, and listen for compressor and fan startup without error codes.
+1. **Unplug the dishwasher** at the wall or turn off the circuit breaker, wait five minutes, then restore power to perform a hard reset and clear any electronic upset.
+2. **Press each button** on the control panel individually and check for physical sticking, moisture around the keys, or visible residue that could hold a membrane switch closed.
+3. **Remove the outer door panel** by unscrewing the screws around the perimeter (usually Torx or Phillips), lift the panel away, and locate the user interface assembly and ribbon cable inside the console.
+4. **Disconnect and reseat the ribbon cable** and all harness plugs between the user interface board and the main control board, inspecting for corrosion, bent pins, or damage.
+5. **Run a test cycle** to see if ER returns; if the code is gone and all buttons respond, reassemble the door and monitor for recurring faults.
+6. **Replace the user interface or touch panel assembly** if buttons remain stuck, unresponsive, or if ER persists after reseating connections; source the correct part by model number.
+7. **Replace the main electronic control board** if the keypad behaves normally, all connections are secure, and the ER code still appears, indicating the board is misreading the user interface signals.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-refrigerator-er-error-code&k=Main+control+board&tag=errorcodefixes-20) \| Most common replacement for persistent ER codes after wiring checks pass. |
-| User-interface or display board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-refrigerator-er-error-code&k=User-interface+or+display+board&tag=errorcodefixes-20) \| Replace if the main board tests good but the display remains unresponsive or throws ER. |
-| Wiring harness or ribbon cable | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-refrigerator-er-error-code&k=Wiring+harness+or+ribbon+cable&tag=errorcodefixes-20) \| Order the inter-board connector assembly if pins are corroded or the cable insulation is damaged. |
-| Thermistor or temperature sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-refrigerator-er-error-code&k=Thermistor+or+temperature+sensor&tag=errorcodefixes-20) \| Swap if multimeter testing shows the sensor is out of specification or open circuit. |
+| User interface assembly or touch panel | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-refrigerator-er-error-code&k=User+interface+assembly+or+touch+panel&tag=errorcodefixes-20) \| Match your model number; includes membrane switches and often the display. |
+| Main electronic control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-refrigerator-er-error-code&k=Main+electronic+control+board&tag=errorcodefixes-20) \| Replace only if the keypad and wiring test good and ER persists. |
+| Ribbon cable or harness connector | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-refrigerator-er-error-code&k=Ribbon+cable+or+harness+connector&tag=errorcodefixes-20) \| Order if the original cable is visibly damaged or pins are corroded. |
 
 ## When to Call a Pro
 
-Call a professional if you are uncomfortable working with live 120 V AC connections, if the error returns after you have reseated all connectors and replaced the main board, or if you see signs of water damage that suggest a larger leak or drain problem. Technicians have model-specific wiring diagrams and board-level diagnostic tools that can isolate intermittent faults faster than trial-and-error part swaps. If your refrigerator is still under warranty, manufacturer service may cover the control board at no charge, so check your documentation before ordering parts.
+Call a technician if you are uncomfortable working inside the dishwasher door console, if voltage measurements are required to isolate the fault, or if both the user interface and control board appear to be working but ER continues. A pro can run factory diagnostic modes, verify signal voltages on the ribbon cable, and accurately isolate whether the fault is in the keypad, the board, or the wiring harness. Also call if the machine is still under warranty, since opening the console yourself may void coverage.
+
+**Rough cost:** DIY runs about $60–150 in parts, 30–60 min. A pro service call runs about $150–300.

@@ -1,48 +1,75 @@
 ---
 title: "Frigidaire PF Error Code - Causes & Fix"
-description: "PF means power failure detected. Most often caused by a brief outage or tripped breaker. Clear by pressing Alarm Reset."
-pubDatetime: 2026-05-31T06:25:40Z
-modDatetime: 2026-05-31T06:25:40Z
-author: "Marcus Webb"
+description: "PF means power failure detected. Press START/CANCEL to clear. If it returns, check breaker and supply wiring for loose connections."
+pubDatetime: 2026-06-08T06:10:44Z
+modDatetime: 2026-06-08T06:10:44Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
-  - refrigerator
   - frigidaire
+most_likely_cause: "brief power interruption or breaker trip"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Frigidaire PF Error Code — What It Means
 
-PF stands for Power Failure on your Frigidaire refrigerator. The control board detected that power was interrupted and then restored. This can happen during a utility outage, a voltage surge, a brownout, or even a brief flicker in your home's electrical supply. On many models you will also see a Hi Temp alarm if the outage was long enough for the cabinet temperature to rise above safe thresholds. The refrigerator is alerting you to check food safety and acknowledge the event.
+PF stands for Power Failure. The dishwasher detected that incoming power was interrupted and entered a protective fault state. This is not a drain, wash, or sensor problem. The control board logged the event and locked out further operation until you acknowledge the interruption.
+
+In most cases, PF appears after a brief utility outage, a breaker trip, or a momentary flicker in your home's electrical supply. Frigidaire's own guidance says to press START/CANCEL to cancel the error and then start a new cycle. If the code returns without any known power event, the problem is either an intermittent supply connection or a failing control board power section.
+
+## Before You Replace Anything
+
+Many people replace the main control board first. Before ordering a board, verify that house power is stable and inspect every wire connection at the junction box and breaker. A loose wire nut or corroded splice causes most repeat PF codes.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Actual power outage or utility flicker** A brief outage, brownout, or voltage surge from the utility is the most common cause of the PF code.
-- **Tripped or unstable circuit breaker** A breaker that has tripped or is cycling on and off can create intermittent power loss and trigger the alarm.
-- **Loose power cord or poor receptacle contact** A plug that is not fully seated or an outlet with worn contacts can cause repeated PF events without a house-wide outage.
-- **Wiring connection fault in the branch circuit** Loose connections at the outlet, junction box, or breaker panel can interrupt line voltage to the refrigerator.
-- **Main control board or internal power supply fault** If PF repeats with no real outage and the supply circuit is sound, the control board may be detecting false interruptions or failing internally.
+- **Utility outage or voltage flicker (~40%)** A brief loss or sag in neighborhood power triggers the fault and the board remembers the event.
+- **Tripped or nuisance-tripping breaker (~25%)** The dishwasher breaker partially trips or momentarily opens under load, cutting power for an instant.
+- **Loose junction-box wire connection (~20%)** A loose wire nut, corroded splice, or poorly seated conductor at the dishwasher supply box causes intermittent power loss.
+- **Loose power cord or plug (~10%)** On plug-in installations, a loose plug or damaged receptacle interrupts the circuit.
+- **Failing main control board or internal power-supply fault (~5%)** The board's power section or an internal fuse or solder joint fails and falsely detects loss of power even when supply is good.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Did any other appliances or clocks reset at the same time?</summary>
+<div class="dtree-body"><strong>Yes:</strong> A real utility event occurred. Press START/CANCEL to clear PF and start a new cycle. No further repair is needed unless the code returns.<br><strong>No:</strong> The power loss was isolated to the dishwasher circuit. Check the breaker and dishwasher wiring connections next.</div>
+</details>
+
+<details class="dtree"><summary>Does the breaker feel loose, warm, or show signs of a partial trip?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Reset the breaker firmly and test. If it trips again, call an electrician to diagnose the branch circuit before replacing dishwasher parts.<br><strong>No:</strong> The breaker is sound. Inspect the junction box and control board connections.</div>
+</details>
+
+<details class="dtree"><summary>After clearing PF and tightening all supply connections, does the code reappear during a test cycle with stable house power?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The main control board or its internal power section is failing and should be replaced.<br><strong>No:</strong> The original event was external. Monitor the dishwasher for a few cycles to confirm the repair.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. {'step': '**Verify whether a real power interruption occurred.** Ask whether lights flickered, clocks reset, or other devices lost power at the same time the refrigerator showed PF.'}
-2. {'step': '**Press the Alarm Reset button** on the control panel to clear the PF code and any accompanying Hi Temp alarm after power is restored.'}
-3. {'step': '**Check the circuit breaker** at your electrical panel and reset it fully by switching it all the way off and then back on. If the breaker trips again immediately, stop and investigate the electrical supply before proceeding.'}
-4. {'step': '**Inspect the power cord and receptacle.** Unplug the refrigerator, examine the plug blades for burn marks or corrosion, confirm the outlet is tight and not loose in the wall, and plug the cord back in firmly.'}
-5. {'step': '**Power-cycle the refrigerator** by unplugging it or switching off the breaker for five minutes, then restore power and observe whether the PF code returns.'}
-6. {'step': '**Monitor for recurrence.** If PF appears again without any outage or circuit issue, suspect the main control board and prepare for diagnostic testing or replacement.'}
-7. {'step': '**Check cabinet temperature** if a Hi Temp alarm is also displayed. Discard any perishable food that has been above 40 °F for more than two hours, and confirm the unit cools back to normal before clearing the complaint.'}
+1. **Press START/CANCEL** to clear the PF fault. Frigidaire specifies this as the official reset procedure.
+2. **Check for a known power event.** Ask whether the house lost power, a breaker tripped, or other appliances reset at the same time.
+3. **Turn off power at the breaker** and wait two minutes, then restore power and attempt a new cycle to confirm the code clears.
+4. **Inspect the branch-circuit breaker.** Look for a partial trip position, a warm handle, or a loose connection at the panel. Reset the breaker firmly and test.
+5. **Open the dishwasher junction box** (typically beneath the left side or behind the toe kick). Check every wire nut, splice, and ground connection for tightness, corrosion, or heat damage. Re-splice and tighten as needed.
+6. **Inspect the power cord and receptacle** on plug-in models. Look for a loose plug, burned contacts, or a damaged cord. Replace any damaged components.
+7. **Test for intermittent control-board power loss.** If PF returns with no household outage and all wiring is secure, replace the main electronic control board.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Main control board (electronic control) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-refrigerator-pf-error-code&k=Main+control+board+%28electronic+control%29&tag=errorcodefixes-20) \| Replace if PF recurs with no real outage and the supply circuit is verified sound. |
-| Power cord and plug assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-refrigerator-pf-error-code&k=Power+cord+and+plug+assembly&tag=errorcodefixes-20) \| Replace if the cord shows damage, burn marks, or corroded blades that prevent solid contact. |
+| Frigidaire dishwasher main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-refrigerator-pf-error-code&k=Frigidaire+dishwasher+main+control+board&tag=errorcodefixes-20) \| Match the exact model number and board part number from your unit's label. Used when the board falsely detects power loss with confirmed stable supply. |
+| Dishwasher power cord and plug | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-refrigerator-pf-error-code&k=Dishwasher+power+cord+and+plug&tag=errorcodefixes-20) \| For plug-in installations only. Replace if the cord shows heat damage or the plug contacts are loose or burned. |
+| Wire nuts and electrical splice connectors | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-refrigerator-pf-error-code&k=Wire+nuts+and+electrical+splice+connectors&tag=errorcodefixes-20) \| Use appropriately rated connectors for the wire gauge. Replace any corroded or heat-damaged wire nuts in the junction box. |
 
 ## When to Call a Pro
 
-Call a licensed electrician if your breaker trips repeatedly, if you find signs of overheating at the outlet or breaker, or if you are uncomfortable working inside your electrical panel. Call an appliance technician if the PF code returns after you have confirmed stable power and completed a control reset, since recurring false alarms usually point to a failing main control board that requires diagnostic tools and part replacement.
+Call a professional if the breaker trips repeatedly, if you find burn marks or melted insulation at the junction box, or if you are uncomfortable working with 120 V household wiring. An electrician should diagnose the branch circuit before you spend money on dishwasher parts. If the supply wiring is sound and the code returns after clearing, a technician can test the control board's power section and replace it with the correct factory part for your model.
+
+**Rough cost:** DIY runs about $150-250 for control board if needed, 45-90 min. A pro service call runs about $200-400 including service call and board.
