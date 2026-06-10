@@ -20,8 +20,11 @@ export const GET: APIRoute = async () => {
     const slug = p.id.replace(/\.md$/, "");
     if (!slug.endsWith("-error-code")) continue;
     const tags = (p.data.tags || []).map(t => t.toLowerCase());
-    const appliance = APPLIANCES.find(a => tags.includes(a) || slug.includes(a));
-    const brand = BRANDS.find(b => tags.includes(b) || slug.includes(b));
+    // Exact tag match first; fall back to a delimiter-bounded slug match so
+    // "dishwasher" is never read as "washer" and "range" is never read as "ge".
+    const slugHas = (w: string) => new RegExp(`(^|-)${w}(-|$)`).test(slug);
+    const appliance = APPLIANCES.find(a => tags.includes(a)) || APPLIANCES.find(a => slugHas(a));
+    const brand = BRANDS.find(b => tags.includes(b)) || BRANDS.find(b => slugHas(b));
     if (!appliance || !brand) continue;
     const m = p.data.title.match(/\b([A-Za-z0-9-]{1,8})\s+(?:error|fault)\s+code/i);
     const code = m ? m[1] : "";
