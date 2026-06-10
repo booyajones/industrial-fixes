@@ -1,54 +1,79 @@
 ---
 title: "LG Range F9 Error Code - Causes & Fix"
-description: "F9 means the upper oven is not heating properly. Most often caused by a failed relay board, bad temperature sensor, or weak igniter."
-pubDatetime: 2026-05-31T06:33:23Z
-modDatetime: 2026-05-31T06:33:23Z
-author: "Marcus Webb"
+description: "F9 means the upper oven failed to heat to 150°F in about 5 minutes. Most often the relay board or temperature sensor has failed."
+pubDatetime: 2026-06-08T03:04:27Z
+modDatetime: 2026-06-08T03:04:27Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - oven
   - lg
+most_likely_cause: "failed relay board or main control board"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## LG Range F9 Error Code — What It Means
 
-The F9 error code on an LG range means the upper oven is not heating properly. The oven failed to reach approximately 150°F within the first 5 minutes of preheat. This is a no-heat or slow-heat fault, not a keypad or control-panel button problem.
+The F9 code on an LG range means the oven did not heat properly during preheat. LG's support documentation states this code indicates the upper oven is not heating as expected and the control board did not see the oven reach approximately 150°F within roughly five minutes of starting a bake cycle.
 
-LG's official guidance is to press CLEAR/OFF and retry the function, then power-cycle the breaker if the error returns. If the code persists after a reset, one or more components in the heating system has failed and needs diagnosis.
+This is a heating fault. The control is calling for heat but either the heating circuit is not responding or the temperature sensor is not reporting the rise correctly. The code can appear on both electric and gas LG ranges, though the underlying components differ between the two.
+
+## Before You Replace Anything
+
+Many people replace the main control board first when the real problem is a loose or heat-damaged connector at the relay board or temperature sensor. Always inspect wiring and test the sensor resistance before buying a new board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed relay board or main control board** The relay board or main control may no longer energize the heating element or igniter circuit, preventing the oven from heating even though all other components test good.
-- **Defective temperature sensor or thermistor** The oven temperature sensor may be out of spec (normal room-temperature resistance is approximately 1080–1100 Ω on many LG models) or the sensor wiring may be damaged or loose.
-- **Blown thermal fuse** The high-limit thermal fuse protects the oven from overheating and will open if a previous overheat event occurred, cutting power to the heating circuit.
-- **Weak or failed gas igniter** On gas ranges, the igniter may glow orange but fail to draw enough current (typically around 3.0–3.6 A) to open the gas safety valve, so the oven never heats.
-- **Open bake heating element** On electric ranges, the upper-oven bake element may have an internal break or visible blister, preventing current flow and heat production.
-- **Heat-damaged wiring or connectors** Harness connectors near the element, sensor, or relay board may show melting, discoloration, or open pins that interrupt the heating circuit.
+- **Failed relay board or main control board (~35%)** The relay that powers the heating element or igniter does not energize even though the oven calls for heat, so the oven never warms and the code appears after five minutes.
+- **Faulty oven temperature sensor (~30%)** The sensor reads open, shorted, or far out of its normal 1080–1100 Ω range at room temperature, so the control does not see the oven heating and throws F9.
+- **Damaged wiring or connector (~15%)** Heat-damaged, brittle, or oxidized connectors at the relay board, sensor, or element can break the circuit and prevent heating.
+- **Blown thermal fuse (~10%)** The thermal fuse on the heating circuit has opened due to overheating, breaking continuity and stopping all heat.
+- **Weak igniter on gas models (~7%)** The igniter glows but does not draw enough current (typically around 3.0–3.6 amps) to open the gas valve and light the burner.
+- **Failed bake element on electric models (~3%)** The element has broken internally or lost continuity and cannot produce heat.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Did you press CLEAR/OFF and turn off the circuit breaker for 30 seconds, then retry the oven?</summary>
+<div class="dtree-body"><strong>Yes:</strong> If the F9 code returned immediately, move to sensor and wiring checks.<br><strong>No:</strong> Reset the control by pressing CLEAR/OFF, then cycle the breaker and try again before proceeding with diagnostics.</div>
+</details>
+
+<details class="dtree"><summary>Does the oven temperature sensor measure around 1080–1100 Ω at room temperature with a multimeter?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The sensor is likely good. Inspect connectors and wiring next, then test the relay board or igniter.<br><strong>No:</strong> The sensor is out of range or open. Replace it and retest before replacing any boards.</div>
+</details>
+
+<details class="dtree"><summary>On a gas model, does the igniter glow brightly but the burner never lights?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The igniter is weak and not drawing enough current to open the gas valve. Replace the igniter.<br><strong>No:</strong> Check the relay board, thermal fuse, and wiring for loss of power to the igniter or element.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Press CLEAR/OFF** on the range control panel, wait 60 seconds, then start a normal Bake cycle to see if the error clears.
-2. **Power-cycle the breaker.** Switch the circuit breaker off for 60 seconds, restore power, and retry Bake. If F9 returns immediately or within five minutes, proceed with component testing.
-3. **Confirm the symptom.** Set the upper oven to Bake at 350°F and listen and watch for the heating element to glow (electric) or the igniter to glow and the burner to light (gas). If nothing happens within five minutes, the oven is not heating.
-4. **Inspect visible components.** Unplug the range or shut off the breaker, remove the upper-oven racks, and look for a blistered bake element, burned wire insulation, or loose harness connectors behind the rear panel.
-5. **Test the temperature sensor.** Disconnect the sensor plug (usually a two-wire connector at the back wall of the oven cavity) and measure resistance across the sensor leads with an ohmmeter. Compare the reading to your model's specification (many LG sensors read 1080–1100 Ω at room temperature). Replace the sensor if the reading is far out of range or open.
-6. **Check the thermal fuse for continuity.** Locate the thermal fuse on the back of the oven or on the control-board assembly, disconnect both leads, and test with an ohmmeter. Replace the fuse if it shows an open circuit.
-7. **Verify element or igniter operation.** On electric models, test the bake element for continuity (typically 15–50 Ω when cold). On gas models, measure igniter current draw during a Bake cycle (a weak igniter will glow but draw less than about 3.0 A). Replace the element or igniter if defective.
-8. **Replace the relay or main control board** if all field components (sensor, element or igniter, thermal fuse, wiring) test within specification but the oven still does not receive power to heat. Retest a full preheat cycle after board replacement.
+1. **Press CLEAR/OFF** on the control panel to clear the F9 code.
+2. **Turn off the circuit breaker** for the range, wait 30 seconds, then restore power and try preheating the oven again.
+3. **Remove power** at the breaker, pull the range forward, and remove the rear access panel or lower kick panel to reach the temperature sensor and relay board.
+4. **Test the temperature sensor** with a multimeter set to resistance. At room temperature it should read about 1080–1100 Ω. If it is open or far out of range, replace it.
+5. **Inspect all connectors** at the relay board, control board, heating element or igniter, and sensor for burned, loose, or brittle contacts. Repair or replace damaged connectors and wiring.
+6. **Check the thermal fuse** for continuity. If it is open, replace it and investigate why it blew before restoring power.
+7. **Test the bake element or igniter.** On electric models, check the element for continuity. On gas models, measure igniter current during a bake cycle (should be around 3.0–3.6 A). Replace if weak or failed.
+8. **Replace the relay board or main control board** if the sensor, fuse, element or igniter, and all wiring test good but the oven still will not heat.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| LG range relay board or main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-range-f9-error-code&k=LG+range+relay+board+or+main+control+board&tag=errorcodefixes-20) \| Match the board part number printed on your existing board. Some LG models use a separate relay board, others integrate relay circuits into the main EBR control. |
-| LG oven temperature sensor / thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-range-f9-error-code&k=LG+oven+temperature+sensor+%2F+thermistor&tag=errorcodefixes-20) \| Two-wire probe that mounts through the rear oven wall. Verify the connector type and probe length for your model. |
-| LG oven thermal fuse | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-range-f9-error-code&k=LG+oven+thermal+fuse&tag=errorcodefixes-20) \| High-limit safety fuse, usually rated 250°F or higher. One-time device that must be replaced if blown. |
-| LG range gas oven igniter (gas models) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-range-f9-error-code&k=LG+range+gas+oven+igniter+%28gas+models%29&tag=errorcodefixes-20) \| Round or flat ceramic hot-surface igniter. Confirm the mounting bracket and current rating match your burner valve. |
+| LG oven temperature sensor (thermistor) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-range-f9-error-code&k=LG+oven+temperature+sensor+%28thermistor%29&tag=errorcodefixes-20) \| Match the sensor to your exact LG model number. Room-temp resistance should be 1080–1100 Ω. |
+| LG relay board or main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-range-f9-error-code&k=LG+relay+board+or+main+control+board&tag=errorcodefixes-20) \| Confirm your model number. The relay board powers the heating circuit and is the most common board failure. |
+| LG thermal fuse | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-range-f9-error-code&k=LG+thermal+fuse&tag=errorcodefixes-20) \| One-time fuse in the heating circuit. Replace only after confirming it is open and investigating the cause. |
+| LG gas oven igniter (gas models) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-range-f9-error-code&k=LG+gas+oven+igniter+%28gas+models%29&tag=errorcodefixes-20) \| Should draw 3.0–3.6 A. A weak igniter glows but does not open the gas valve. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if you are uncomfortable working inside a 240 V electric range or around gas appliance components. High-voltage and gas connections require training and proper tools. A technician can perform live-circuit current measurements, verify control-board relay outputs with a multimeter, and safely replace internal wiring harnesses. If you have already replaced the sensor and thermal fuse but F9 persists, the fault is likely in the relay board or main control, and professional board-level diagnosis will save time and prevent unnecessary part swaps.
+Call a professional if you are not comfortable working inside a 240-volt appliance or testing live circuits with a multimeter. Gas models require safe handling of the gas supply line and igniter circuit. If you have replaced the sensor and inspected all wiring but the code persists, a technician can perform live voltage tests on the relay board and control board to isolate the failed component. A pro visit typically costs $150–300 including diagnosis and a common part like a sensor or relay board.
+
+**Rough cost:** DIY runs about $20-120 in parts, 30-90 min. A pro service call runs about $150-300.

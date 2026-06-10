@@ -1,52 +1,77 @@
 ---
 title: "Frigidaire Dryer E64 Error Code - Causes & Fix"
-description: "E64 means a heating element circuit fault. Most often caused by a failed heating element or blown thermal fuse. Check and replace."
-pubDatetime: 2026-05-30T23:42:34Z
-modDatetime: 2026-05-30T23:42:34Z
-author: "Dana Kowalski"
+description: "E64 means the heating circuit is open. The heating element itself is the most common cause. Test continuity and replace the failed part."
+pubDatetime: 2026-06-08T02:49:19Z
+modDatetime: 2026-06-08T02:49:19Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dryer
   - frigidaire
+most_likely_cause: "broken or open heating element coil"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Frigidaire Dryer E64 Error Code — What It Means
 
-The E64 error code on a Frigidaire dryer indicates a fault in the heating element circuit. The dryer has detected a problem with the heater assembly, which can include a broken heating coil, shorted element, defective wiring, or a tripped safety component like the thermal fuse or cycling thermostat. When this code appears, the dryer typically will not heat or may stop mid-cycle.
+The E64 code on a Frigidaire dryer indicates an open circuit in the heating system. When the control board calls for heat, it expects to see a complete electrical path through the heating element and all safety devices in series. If it detects no continuity, it shuts down the cycle and displays E64 to prevent unsafe operation.
 
-The control board monitors the heating circuit continuously. When it detects an open circuit, short, or abnormal resistance in the heater system, it throws E64 and halts operation to prevent damage or unsafe conditions. The code points you directly to the rear heater compartment and the components that manage heat generation and safety.
+This is not a sensor or airflow problem. The fault is in the heater circuit itself: either the heating element coil is broken, a thermal safety device has opened, or wiring and terminals are damaged or disconnected. The code will return after every reset until you repair the open circuit.
+
+## Before You Replace Anything
+
+Homeowners often replace the control board first when the real culprit is a $20 heating element or a $10 thermal fuse. Always test the heating element and each thermal safety device for continuity with a multimeter before ordering expensive electronics.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed heating element** A broken or shorted heating coil inside the element assembly is the most common trigger for E64.
-- **Blown thermal fuse** The thermal fuse protects against overheating and will open (no continuity) if the dryer gets too hot, cutting power to the heating circuit.
-- **Faulty cycling thermostat** The cycling thermostat regulates heat by opening and closing, and a stuck-open or failed thermostat will interrupt the heating circuit.
-- **Damaged heater wiring or connectors** Loose, burnt, or corroded wiring at the heating element terminals can create an open circuit or intermittent fault.
-- **Defective main control board** If all heating components test good and the code persists, the control board may be misreading the circuit or have a relay fault.
+- **Open or broken heating element (~50%)** The element coil can crack or burn through from age, overheating, or mechanical stress, creating an open circuit that triggers E64.
+- **Blown thermal fuse or thermal limiter (~25%)** A one-time safety fuse in the heater circuit opens permanently if the dryer overheats, often because of clogged venting or restricted airflow.
+- **Tripped high-limit thermostat (~15%)** This resettable or non-resettable thermostat cuts power to the heater when internal temperature exceeds safe limits, and some models stay open until replaced.
+- **Burned, loose, or corroded wiring and terminals (~8%)** Heat and vibration can damage the wire connectors and spade terminals at the heater assembly, breaking continuity even when the element itself is good.
+- **Failed heater relay or control board (~2%)** If all heater-side components test normal but the board still will not close the relay or deliver power to the circuit, the relay or board itself may be defective.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the dryer drum still turn and run a cycle, just without heat?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The motor and drive system are fine. The problem is isolated to the heating circuit, so focus your testing on the element and thermal devices.<br><strong>No:</strong> You may have a separate main control or motor issue. Clear the E64 by unplugging for two minutes and retest before diagnosing the heater circuit.</div>
+</details>
+
+<details class="dtree"><summary>Can you see any visible breaks, burns, or scorch marks on the heating element coils through the rear panel?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Replace the heating element assembly. A visible break confirms the open circuit without needing a multimeter.<br><strong>No:</strong> Proceed to multimeter testing of the element and each thermal safety device in the heater path.</div>
+</details>
+
+<details class="dtree"><summary>When you test the heating element with a multimeter set to ohms, do you read continuity (roughly 20 to 50 ohms)?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The element is good. Test each thermal fuse, thermal limiter, high-limit thermostat, and cycling thermostat for continuity, and inspect all wiring terminals for loose or burned connections.<br><strong>No:</strong> The element is open. Replace the heating element assembly and check your vent system for restrictions that caused the element to fail.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Disconnect power** at the circuit breaker or wall plug and verify the dryer is completely off before you begin any work.
-2. **Remove the rear access panel** (or lower front panel on some models) to expose the heating element housing and wiring harness.
-3. **Inspect all wiring and connectors** at the heating element for burn marks, corrosion, or loose terminals, and repair or replace any damaged wiring.
-4. **Test the heating element for continuity** using a multimeter set to ohms. Disconnect the element wires, then measure across the element terminals. A good element typically reads about 20 to 50 ohms. If you see infinite resistance (open) or near-zero (short), replace the element.
-5. **Check the thermal fuse for continuity** by disconnecting it and testing across its terminals. It should show continuity (close to 0 ohms). No continuity means the fuse is blown and must be replaced.
-6. **Test the cycling thermostat** for continuity at room temperature (it should be closed, showing continuity). If it shows no continuity or erratic readings, replace it.
-7. **Reassemble and test the dryer** after replacing any failed parts. Clear the error code by unplugging the dryer for one minute, then run a heat cycle. If E64 returns and all heater components test good, the main control board is likely at fault and should be replaced.
+1. **Disconnect power** at the circuit breaker or unplug the dryer completely before you touch any internal wiring or components.
+2. **Remove the rear access panel** by unscrewing the sheet-metal screws around the perimeter so you can see the heating element housing and attached thermostats.
+3. **Inspect the heating element visually** for broken coils, burned housing, or loose wire terminals, and look for any obvious damage or disconnected wires.
+4. **Test the heating element for continuity** by disconnecting at least one wire terminal and placing your multimeter probes across the element terminals (a normal reading is around 20 to 50 ohms).
+5. **Test each thermal safety device** in the heater circuit (thermal fuse, thermal limiter, high-limit thermostat, cycling thermostat) for continuity, replacing any device that reads open or infinite resistance.
+6. **Check all wiring and spade terminals** at the heater assembly for corrosion, burn marks, or loose fit, and repair or replace any damaged connectors.
+7. **Replace the failed component** (element, fuse, thermostat, or wiring), reassemble the rear panel, restore power, and run a timed-dry cycle to verify heat and confirm the E64 code does not return.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Heating element assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dryer-e64-error-code&k=Heating+element+assembly&tag=errorcodefixes-20) \| Order by your dryer's model number. The element is the coil that generates heat. |
-| Thermal fuse | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dryer-e64-error-code&k=Thermal+fuse&tag=errorcodefixes-20) \| One-time safety fuse, usually mounted on the blower housing or heater can. Replace if blown. |
-| Cycling thermostat | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dryer-e64-error-code&k=Cycling+thermostat&tag=errorcodefixes-20) \| Regulates heat on and off. Often located on the heater can or blower. Match the temperature rating to your model. |
-| Main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dryer-e64-error-code&k=Main+control+board&tag=errorcodefixes-20) \| Only needed if all heating parts test good and the code persists. Verify your model number before ordering. |
+| Frigidaire dryer heating element assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dryer-e64-error-code&k=Frigidaire+dryer+heating+element+assembly&tag=errorcodefixes-20) \| Match your model number, usually stamped inside the door frame or on the rear panel. |
+| Thermal fuse or thermal limiter (dryer heater circuit) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dryer-e64-error-code&k=Thermal+fuse+or+thermal+limiter+%28dryer+heater+circuit%29&tag=errorcodefixes-20) \| One-time safety device, often mounted on the heater housing or blower housing. |
+| High-limit thermostat (dryer) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dryer-e64-error-code&k=High-limit+thermostat+%28dryer%29&tag=errorcodefixes-20) \| Temperature cutoff, may be resettable or one-time depending on part number. |
+| Dryer wire terminal kit (high-temp spade connectors) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dryer-e64-error-code&k=Dryer+wire+terminal+kit+%28high-temp+spade+connectors%29&tag=errorcodefixes-20) \| Use if existing terminals are burned or corroded and cannot hold a secure connection. |
 
 ## When to Call a Pro
 
-Call a professional if you are not comfortable working with electrical components or using a multimeter, or if you have replaced the heating element, thermal fuse, and cycling thermostat and the E64 code still appears. A technician can perform advanced diagnostics on the control board and wiring harness, and has access to manufacturer service mode tests that pinpoint intermittent faults. If your dryer is still under warranty, contact Frigidaire or an authorized service center before opening the cabinet, as DIY repairs may void coverage.
+Call a technician if you are not comfortable working around 240-volt wiring, if you cannot identify which thermal device in the stack has failed, or if the heating element and all safety devices test good but the E64 code still appears. A pro can trace the heater relay output at the control board and determine whether the board itself has failed. Also call for service if your dryer uses a gas burner instead of an electric element, because the E64 logic and component layout will be completely different and may involve gas-valve or flame-sensor circuits that require specialized tools and safety procedures.
+
+**Rough cost:** DIY runs about $15-50 in parts, 45-90 min. A pro service call runs about $150-300.

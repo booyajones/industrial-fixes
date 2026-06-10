@@ -1,50 +1,76 @@
 ---
 title: "Whirlpool Dryer F22 Error Code - Causes & Fix"
-description: "F22 on a Whirlpool dryer means the outlet thermistor circuit has failed. The most common fix is replacing the thermistor sensor."
-pubDatetime: 2026-05-30T22:08:26Z
-modDatetime: 2026-05-30T22:08:26Z
-author: "Dana Kowalski"
+description: "F22 means the control can't read the exhaust thermistor. Most often a failed thermistor. Replace it after testing resistance."
+pubDatetime: 2026-06-08T02:50:54Z
+modDatetime: 2026-06-08T02:50:54Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dryer
   - whirlpool
+most_likely_cause: "failed exhaust/outlet thermistor"
+likelihood: "the most commonly reported cause"
+diy_or_pro: "diy"
 ---
 
 ## Whirlpool Dryer F22 Error Code — What It Means
 
-On Whirlpool dryers, the F22 code signals a problem in the outlet thermistor or temperature sensor circuit. The control board detects that the thermistor is open, shorted, or reporting an implausible temperature reading. The dryer will typically shut down after about a minute when this fault occurs. (Note: On Whirlpool front-load washers, F22 means a door lock issue, not a thermistor fault.)
+The F22 code on a Whirlpool dryer is a thermistor circuit fault. Specifically, the machine control is not seeing a valid resistance signal from the exhaust or outlet thermistor, which monitors temperature in the dryer's exhaust path. In plain terms, the sensor is either open (broken wire inside), shorted (resistance too low), or the control board cannot read it because of a wiring or connector problem.
 
-The outlet thermistor is a temperature-sensing resistor mounted in the dryer's exhaust path. It tells the control board how hot the exhaust air is so the heater can cycle correctly. When the thermistor or its wiring fails, the control loses its temperature reference and throws F22 to prevent overheating or unsafe operation.
+Whirlpool's own product help directs you to power-cycle the dryer and run a timed dry test, which confirms the control is actively monitoring that sensor during operation. If the code returns after the reset, the sensor circuit needs repair.
+
+## Before You Replace Anything
+
+Homeowners sometimes replace the main control board first. Always ohm-test the thermistor and inspect its connector before condemning the board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed outlet thermistor** The thermistor itself degrades over time, develops an open circuit, or shorts internally.
-- **Loose or corroded connector** Vibration or moisture causes the thermistor plug or connector pins to lose contact or corrode.
-- **Damaged wiring harness** Wires between the thermistor and control board are pinched, cut, or shorted to ground.
-- **Control board fault** The machine control board misreads the thermistor signal or has a failed input circuit.
+- **Failed exhaust/outlet thermistor (~60%)** The thermistor reads open (infinite resistance) or shorted (below ~500 ohms) instead of the normal ~10 kΩ at room temperature.
+- **Loose, damaged, or corroded connector (~20%)** The plug between the thermistor and the control board has a poor connection, corrosion, or a pushed-back pin.
+- **Damaged wire harness (~10%)** The harness between the sensor and control is pinched, cut, or rubbed through, breaking continuity.
+- **Main control board fault (~10%)** The control board's thermistor input circuit has failed, even though the sensor and wiring test good.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the F22 code clear after unplugging the dryer for 5 minutes and running a timed dry cycle for 1 minute?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The code was a transient glitch. Monitor the next few loads and proceed to thermistor testing only if F22 returns.<br><strong>No:</strong> The fault is persistent. Unplug the dryer and proceed to inspect the exhaust thermistor and its connector.</div>
+</details>
+
+<details class="dtree"><summary>Does the exhaust thermistor measure around 10,000 ohms at room temperature (~77 °F)?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The thermistor is likely good. Check the harness for continuity and inspect the connector at both ends for damage or corrosion.<br><strong>No:</strong> The thermistor is open or shorted. Replace the exhaust/outlet thermistor and retest the dryer.</div>
+</details>
+
+<details class="dtree"><summary>After replacing the thermistor, does the F22 code still appear?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Verify harness continuity from the new sensor to the control board. If the harness is good, the main control board is the likely cause.<br><strong>No:</strong> The repair is complete. Run a full drying cycle to confirm normal operation.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Power down the dryer** at the circuit breaker for five minutes, then restore power and run a timed dry cycle to see if F22 returns. This reset step clears any transient faults.
-2. **Unplug the dryer** and pull it away from the wall. Remove the top or rear panel (depending on your model) to access the outlet thermistor, usually mounted on the blower housing or exhaust duct.
-3. **Inspect the thermistor connector** and wiring harness for loose pins, corrosion, or damage. Disconnect the thermistor plug and examine both the sensor terminals and the harness socket.
-4. **Measure thermistor resistance** with a multimeter set to ohms. Touch the probes to the thermistor terminals (with the sensor at room temperature). Compare your reading to the resistance table in your model's service manual. A reading of open (infinite ohms) or near-zero ohms indicates a failed thermistor.
-5. **Check wiring continuity** from the thermistor harness connector back to the control board if the thermistor tests good. Also test each wire to ground to rule out a short. Replace the harness if you find an open or shorted conductor.
-6. **Replace the thermistor** if resistance is out of range or wiring is intact but the code persists. Plug in the new sensor, secure any mounting clips, and reassemble the panels.
-7. **Restore power and run a test cycle** for at least five minutes. If F22 does not return and the dryer heats normally, the repair is complete. If the code reappears with a known-good thermistor and harness, replace the machine control board.
+1. **Power down the dryer** at the circuit breaker for at least 5 minutes to clear the control memory.
+2. **Restore power** and start a Timed Dry cycle, then monitor for about 1 minute to see if F22 returns.
+3. **Unplug the dryer** and access the exhaust thermistor (typically mounted on or near the exhaust duct or blower housing).
+4. **Inspect the thermistor connector** and harness for loose terminals, corrosion, pinched wires, or pushed-back pins at both the sensor and control board ends.
+5. **Ohm-test the thermistor** at room temperature using a multimeter (expect roughly 10,000 ohms at ~77 °F; open or very low readings indicate failure).
+6. **Replace the thermistor** if it reads open, shorted, or significantly out of range, and reconnect the harness securely.
+7. **Check harness continuity** end-to-end and to ground if the thermistor tests good but the code persists, and replace the wire harness if damaged.
+8. **Replace the main control board** only if the thermistor, connector, and harness all test good and the fault remains.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Outlet thermistor (temperature sensor) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dryer-f22-error-code&k=Outlet+thermistor+%28temperature+sensor%29&tag=errorcodefixes-20) \| Verify the part number against your dryer's model and serial tag. WP8577274 fits many Whirlpool Duet models but always cross-reference. |
-| Thermistor wiring harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dryer-f22-error-code&k=Thermistor+wiring+harness&tag=errorcodefixes-20) \| Order if the connector or wires are melted, corroded, or cut. Match the harness to your exact dryer series. |
-| Machine control board (main PCB) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dryer-f22-error-code&k=Machine+control+board+%28main+PCB%29&tag=errorcodefixes-20) \| Required only if the thermistor and harness test good but F22 persists. Confirm the board part number from your dryer's service sheet. |
+| Exhaust/outlet thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dryer-f22-error-code&k=Exhaust%2Foutlet+thermistor&tag=errorcodefixes-20) \| The primary suspect. Verify your model number before ordering (example part WP8577274 for some Duet-style dryers). |
+| Thermistor wire harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dryer-f22-error-code&k=Thermistor+wire+harness&tag=errorcodefixes-20) \| Replace if continuity testing shows an open or short in the wiring between the sensor and control. |
+| Main electronic control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dryer-f22-error-code&k=Main+electronic+control+board&tag=errorcodefixes-20) \| Only needed if the thermistor and harness test good but F22 persists. Verify the sensor circuit first to avoid unnecessary expense. |
 
 ## When to Call a Pro
 
-Call a technician if you are not comfortable working with a multimeter, if the dryer's cabinet disassembly is unclear, or if you have replaced both the thermistor and harness but F22 still appears. Control board diagnosis requires schematic reading and may involve live voltage checks. A qualified appliance tech can also verify that the exhaust duct is not restricted (a blocked vent can sometimes cause unusual temperature readings) and can cross-check other thermal components in one visit.
+Call a technician if you are not comfortable using a multimeter to test resistance and continuity, or if the dryer cabinet and exhaust area are difficult to access on your model. A pro can also verify the control board's thermistor input circuit with specialized diagnostic tools if the sensor and harness test good but the code persists. If the dryer is still under warranty, contact Whirlpool service rather than opening the cabinet yourself.
+
+**Rough cost:** DIY runs about $20–50 in parts, 30–60 min. A pro service call runs about $150–250.

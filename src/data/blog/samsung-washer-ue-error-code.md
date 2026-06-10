@@ -1,49 +1,74 @@
 ---
 title: "Samsung Washer UE Error Code - Causes & Fix"
-description: "UE means unbalanced load. Redistribute clothes evenly in the drum and restart the spin cycle to clear the code on most Samsung washers."
-pubDatetime: 2026-05-31T02:01:36Z
-modDatetime: 2026-05-31T02:01:36Z
-author: "Marcus Webb"
+description: "UE means unbalanced load detected. Redistribute laundry evenly around the drum, then restart the spin cycle to clear the code."
+pubDatetime: 2026-06-08T02:50:09Z
+modDatetime: 2026-06-08T02:50:09Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - washer
   - samsung
+most_likely_cause: "laundry bunched to one side or not spread evenly in the drum"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Samsung Washer UE Error Code — What It Means
 
-The UE code (also displayed as Ub or 1U6 on some models) indicates the washer detected an unbalanced load in the drum during the wash or spin cycle. The machine cannot distribute the laundry evenly enough to complete the spin safely, so it stops or retries to protect the appliance and prevent damage. This is a load-distribution fault, not a component failure in most cases.
+The UE code on a Samsung washer means the machine has detected an unbalanced load during the wash or spin cycle and has stopped or limited spinning for safety. Samsung groups this as UE / UB in its support documentation, treating both as the same balance-related condition. On top-load models the same imbalance may appear as UB. This is not a failed-part fault in most cases. The washer senses unstable drum rotation and stops to protect itself from damage.
+
+## Before You Replace Anything
+
+People often replace the control board or balance sensors, but the code almost always clears by redistributing the load and confirming the washer sits level on all four feet.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Uneven laundry distribution** A single bulky item or clothes that have balled up on one side of the drum trigger the error.
-- **Overloading or too-small loads** Too many items or a very small load can clump badly and prevent the drum from balancing during spin.
-- **Washer not level or unstable floor** A machine that rocks or sits unevenly worsens imbalance and can trip the code even with a normal load.
-- **Worn shock absorbers or dampers** Failed suspension components cannot control drum movement, causing persistent UE codes after load correction.
-- **Tub or drum obstruction** Foreign objects or mechanical interference between the inner drum and outer tub restrict free rotation.
-- **Damaged suspension springs** Worn or broken springs fail to support the drum properly and allow excessive movement during spin.
+- **Laundry bunched to one side (~50%)** Clothes clump together or shift during spin, leaving one heavy mass that the washer cannot balance.
+- **Overloading the drum (~20%)** Too much laundry prevents items from redistributing freely during the spin cycle.
+- **Single bulky item (~15%)** Large bedding, pillows, or blankets cannot spread evenly and remain heavy on one side.
+- **Washer not level or uneven floor (~10%)** Unlevel installation or a soft floor allows excessive tub movement, triggering the imbalance sensor.
+- **Worn suspension components (~5%)** Failed shock absorbers or dampers allow the tub to sway excessively even with a correct load.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the washer rock or wobble when you push the top corners gently?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The machine is not level. Adjust the feet until all four contact the floor firmly, then retest.<br><strong>No:</strong> The washer is stable. Move to the next check.</div>
+</details>
+
+<details class="dtree"><summary>Is the load made up of one or two large heavy items, or is the drum more than three-quarters full?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Remove half the load or separate bulky items into smaller balanced loads, then retry the spin.<br><strong>No:</strong> The load size is reasonable. Check that items are spread evenly around the drum.</div>
+</details>
+
+<details class="dtree"><summary>After redistributing and releveling, does the UE code return on a small balanced test load?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Suspect worn suspension parts (shocks or dampers). Inspect for damage or call a technician.<br><strong>No:</strong> The code was caused by the load or leveling. No further repair needed.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Stop the cycle and open the door.** Remove a few items if the drum is packed, or redistribute the clothes so they spread evenly around the basket.
-2. **Restart the spin cycle** and watch for the code. If it clears, the issue was simply load distribution.
-3. **Check washer level.** Place a level on top of the machine front-to-back and side-to-side, and adjust the feet until the unit is stable and does not rock.
-4. **Rotate the drum by hand** with the machine empty and unplugged. It should spin freely without scraping, binding, or unusual resistance.
-5. **Inspect shock absorbers and dampers** if the code persists with a balanced load. Look for broken mounts, leaking fluid, or loose attachment points at the drum and frame.
-6. **Check suspension springs** for damage, rust, or detachment. Replace any that are stretched, broken, or missing.
-7. **Run a short test cycle** with a moderate, evenly distributed load to confirm the repair. If UE returns, the suspension system or tub support requires professional service.
+1. **Power off and open the lid or door.** Remove all laundry and inspect how it was distributed.
+2. **Redistribute the load evenly** around the drum. Separate any tangled or bunched items so they lie flat.
+3. **Check the washer's level.** Place a bubble level on top. Adjust the four feet until the machine sits flat and stable on the floor, at least 10 cm from walls per Samsung guidance.
+4. **Reduce the load if overloaded.** Remove items until the drum is no more than two-thirds full, or separate single bulky items into smaller loads (Samsung recommends 3.0 kg or less for some bedding).
+5. **Close the door and restart the spin cycle.** Let the washer attempt to balance and spin. The code should clear if the load and level are correct.
+6. **If the UE code returns with a correct load and level machine**, inspect the suspension system. Look for worn shock absorbers, broken springs, or loose mounting that allows excessive tub sway.
+7. **Replace any failed suspension parts** and retest with a small balanced load. If the fault persists after mechanical checks, consult the service manual for model-specific electrical or sensor diagnostics.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Shock absorbers (dampers) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-ue-error-code&k=Shock+absorbers+%28dampers%29&tag=errorcodefixes-20) \| Replace when leaking, broken, or no longer damping drum movement effectively. |
-| Suspension springs | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-ue-error-code&k=Suspension+springs&tag=errorcodefixes-20) \| Required when springs are stretched, corroded, or detached from the drum or frame. |
+| Shock absorber / damper kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-ue-error-code&k=Shock+absorber+%2F+damper+kit&tag=errorcodefixes-20) \| Replace in pairs if worn or leaking; confirms model compatibility before ordering. |
+| Suspension spring set | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-ue-error-code&k=Suspension+spring+set&tag=errorcodefixes-20) \| For models with spring-based suspension; inspect all springs for breaks or stretching. |
+| Leveling foot / leg adjuster | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-ue-error-code&k=Leveling+foot+%2F+leg+adjuster&tag=errorcodefixes-20) \| If existing feet are stripped or damaged and the washer cannot be leveled. |
 
 ## When to Call a Pro
 
-If the UE code appears after you have redistributed the load, confirmed the washer is level, and inspected for obstructions, the problem is likely in the suspension system. Shock absorbers, dampers, and suspension springs require disassembly and safe handling of the drum assembly. Samsung recommends professional service when load correction does not resolve the code, since internal mechanical faults need diagnosis and replacement by a trained technician.
+Call a technician if the UE code returns after you have redistributed the load, confirmed the washer sits level on all four feet, and tested with a small balanced load. Persistent imbalance points to worn suspension parts (shocks, dampers, or springs) that require disassembly to inspect and replace. Also call if you see visible damage to the drum mounts, hear loud banging during spin, or lack the tools to safely tip or open the cabinet. A pro can perform a full mechanical inspection and access the service manual for model-specific sensor or control-board diagnostics if the suspension checks out but the code remains.
+
+**Rough cost:** DIY runs about $0-50 in parts (if leveling feet or small hardware needed), 10-30 min. A pro service call runs about $100-250 for suspension parts if worn shocks or dampers are confirmed.

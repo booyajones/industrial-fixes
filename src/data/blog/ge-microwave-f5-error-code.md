@@ -1,50 +1,75 @@
 ---
 title: "GE Microwave F5 Error Code - Causes & Fix"
-description: "F5 means a shorted humidity sensor in your GE microwave. Power-cycle first, then check the sensor and wiring or call a tech."
-pubDatetime: 2026-05-31T07:38:41Z
-modDatetime: 2026-05-31T07:38:41Z
-author: "Dana Kowalski"
+description: "F5 on a GE microwave means a shorted humidity sensor. Most common fix: replace the humidity sensor or repair damaged wiring to it."
+pubDatetime: 2026-06-08T03:05:58Z
+modDatetime: 2026-06-08T03:05:58Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - microwave
   - ge
+most_likely_cause: "failed humidity sensor"
+likelihood: "the most common cause"
+diy_or_pro: "pro"
 ---
 
 ## GE Microwave F5 Error Code — What It Means
 
-The F5 code on a GE microwave means the control has detected a shorted humidity sensor. GE's official fault-code table defines F5 as a shorted humidity sensor in the microwave control system. The humidity sensor monitors moisture during cooking cycles. When the control sees an electrical short in that sensor circuit, it throws F5 and stops normal operation to prevent damage or incorrect cooking.
+The F5 error code on GE microwaves indicates that the control board has detected a shorted humidity sensor circuit. According to GE's own fault-code table, this code is programmed into the microwave control to signal a specific electrical condition where the humidity sensor is detected as shorted continuously for more than 5 seconds. This is distinct from oven temperature-sensor faults and specifically maps to the microwave's humidity sensor in GE's error table.
 
-Sometimes the sensor itself has failed internally and is reading as a dead short. Other times a damaged wire, corroded connector, or a problem on the control board input circuit makes the control think the sensor is shorted even when it is not. Either way, F5 tells you the issue is in the humidity sensor circuit.
+The code triggers when the control sees an electrical short in the humidity-sensor circuit. That short can come from the sensor itself, damaged wiring or connectors leading to the sensor, or in rare cases a fault in the control board's detection circuit. GE recommends this fault be diagnosed by a trained service technician because it requires accessing internal components and testing electrical continuity.
+
+## Before You Replace Anything
+
+Many people replace the control board first when the actual problem is a shorted humidity sensor or damaged wiring. Always ohm-test the sensor and inspect the harness for pinched wires or corroded terminals before ordering a new control.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed humidity sensor** The sensor has shorted internally and reads zero or near-zero resistance, triggering the fault code.
-- **Damaged or pinched sensor wiring** A wire in the humidity sensor harness has lost insulation or been crushed, creating a short to ground or another wire.
-- **Loose or corroded sensor connector** Moisture or arcing at the connector terminals can bridge pins and mimic a shorted sensor.
-- **Control board input fault** A failed component on the control board's sensor input circuit can falsely detect a short even when the sensor is good.
+- **Failed humidity sensor (~55%)** The sensor itself has shorted internally, which is the primary fault identified by GE's code definition and triggers the F5 when detected for over 5 seconds.
+- **Shorted or damaged wiring harness (~25%)** Pinched, corroded, or damaged wires or connector terminals to the humidity sensor create a short circuit condition that the control interprets as a sensor fault.
+- **Control board detection circuit problem (~10%)** The electronic control itself has a fault in the humidity-sensor input circuit, causing it to falsely detect a short even when the sensor and wiring test good.
+- **Moisture contamination in sensor circuit (~10%)** Liquid or steam intrusion into the sensor housing or connector can create a temporary or permanent short across the sensor terminals.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the F5 code clear after unplugging the microwave for 30 seconds and plugging it back in?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault may have been a temporary glitch. Monitor the microwave for a few days. If F5 returns, treat it as a real sensor circuit fault.<br><strong>No:</strong> The fault is persistent. Proceed to inspect the humidity sensor and wiring, as the control is continuously detecting a short.</div>
+</details>
+
+<details class="dtree"><summary>Can you locate and visually inspect the humidity sensor connector for loose pins, corrosion, or moisture?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Clean or repair any corroded or damaged connector terminals and retest. If the code clears, the harness was the problem. If F5 remains, the sensor likely needs replacement.<br><strong>No:</strong> The sensor is not easily accessible without disassembly. Call a technician to access, test, and replace the sensor or control board as needed.</div>
+</details>
+
+<details class="dtree"><summary>After replacing the humidity sensor, does the F5 code still appear after the unit has been powered on for at least 5 minutes?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The control board's humidity-sensor input circuit is likely faulty. The control board will need evaluation or replacement by a technician.<br><strong>No:</strong> The new sensor has resolved the fault. The microwave should operate normally.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Disconnect power** at the circuit breaker or unplug the microwave and wait at least 30 seconds to clear the fault from memory.
-2. **Restore power** and test the microwave to see if F5 returns immediately or during a cooking cycle.
-3. **Unplug again and remove the outer cabinet** panels to access the humidity sensor, usually mounted near the vent or cavity.
-4. **Inspect the humidity sensor connector** for corrosion, burn marks, or loose pins and clean or reseat it as needed.
-5. **Check the sensor harness** from the sensor to the control board for pinched, melted, or bare wire insulation.
-6. **Test the humidity sensor** with a multimeter according to your model's service data or replace it if it reads shorted or out of specification.
-7. **Reassemble the microwave**, restore power, and run a test cycle to confirm the F5 code does not reappear.
+1. **Turn off power at the breaker or fuse** supplying the microwave and wait 30 seconds, then restore power to see if the F5 clears temporarily.
+2. **If the code returns**, unplug the microwave and remove the outer cabinet or access panel to reach the humidity sensor, which is typically mounted near the vent or cavity opening.
+3. **Inspect the humidity sensor connector and wiring harness** for loose terminals, pinched wires, corrosion, or any signs of moisture contamination.
+4. **Use a multimeter to ohm-test the humidity sensor** for a short circuit (zero or very low resistance across its terminals when disconnected). Consult your model's service documentation for exact resistance specs if available.
+5. **Replace the humidity sensor** if it tests shorted or out of specification, making sure the new sensor connector is clean and fully seated.
+6. **Reassemble the microwave, restore power, and let the unit run for at least 5 minutes** to allow the control to reinitialize and check the new sensor circuit.
+7. **If F5 persists with a known-good sensor and wiring**, the electronic control board's humidity-sensor input is likely faulty and the control will need professional evaluation or replacement.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Humidity Sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-microwave-f5-error-code&k=Humidity+Sensor&tag=errorcodefixes-20) \| Match the part number on your existing sensor or look up your exact GE microwave model number. |
-| Wire Harness (Sensor to Control) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-microwave-f5-error-code&k=Wire+Harness+%28Sensor+to+Control%29&tag=errorcodefixes-20) \| Only needed if the wiring is damaged or connectors are melted beyond cleaning. |
-| Electronic Control Board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-microwave-f5-error-code&k=Electronic+Control+Board&tag=errorcodefixes-20) \| Required if sensor and wiring test good but F5 persists, indicating a board-level fault. |
+| GE microwave humidity sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-microwave-f5-error-code&k=GE+microwave+humidity+sensor&tag=errorcodefixes-20) \| Primary component indicated by F5. Verify the exact part number using your microwave's full model number from the data plate. |
+| Humidity sensor wiring harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-microwave-f5-error-code&k=Humidity+sensor+wiring+harness&tag=errorcodefixes-20) \| Replace if connector terminals are damaged, corroded, or if wires are pinched or shorted. |
+| GE microwave electronic control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-microwave-f5-error-code&k=GE+microwave+electronic+control+board&tag=errorcodefixes-20) \| Only replace if the sensor and wiring test good but the F5 code remains, indicating a control-side detection fault. |
 
 ## When to Call a Pro
 
-If the power-cycle reset does not clear F5 or the code returns immediately, a trained service technician should diagnose and repair the issue. Testing the humidity sensor requires a multimeter and access to your model's service specifications. Working inside a microwave cabinet also exposes you to high-voltage capacitor circuits that can hold a dangerous charge even when unplugged. If you are not comfortable with electrical testing or disassembly, call a qualified appliance repair technician to inspect the sensor, wiring, and control board safely.
+Call a professional if you are not comfortable working inside the microwave cabinet or if you do not have a multimeter and the skills to safely test electrical components. Microwaves contain high-voltage capacitors that can retain a dangerous charge even when unplugged. GE recommends that F5 faults be diagnosed by a trained service technician. A technician can safely access the humidity sensor, test the wiring harness, and determine whether the sensor or the control board is at fault. If the sensor and wiring check out but the code persists, the control board's input circuit is likely defective and professional replacement is the best option.
+
+**Rough cost:** A pro service call runs about $150–300.

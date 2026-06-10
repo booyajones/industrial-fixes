@@ -1,53 +1,79 @@
 ---
 title: "Whirlpool Dryer AF Error Code - Causes & Fix"
-description: "AF means airflow restriction. Check and clean the lint screen, vent hose, and exterior hood. Clear lint blockages to restore flow."
-pubDatetime: 2026-05-31T03:07:46Z
-modDatetime: 2026-05-31T03:07:46Z
-author: "Marcus Webb"
+description: "AF means airflow restriction in the exhaust path. Clean the lint screen and check for kinked or blocked vent ducts first."
+pubDatetime: 2026-06-08T02:54:45Z
+modDatetime: 2026-06-08T02:54:45Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dryer
   - whirlpool
+most_likely_cause: "restricted or blocked exhaust vent system"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Whirlpool Dryer AF Error Code — What It Means
 
-The AF code on a Whirlpool dryer stands for airflow restriction or airflow fault. The control board has detected that hot, moist air is not moving properly through the exhaust vent system. This can happen when lint builds up in the screen, duct, or blower housing, when the vent hose is kinked or crushed, or when the exterior vent hood is blocked or stuck closed.
+The AF code on a Whirlpool dryer stands for airflow fault or airflow restriction. The dryer is reporting that hot, moist air is not moving through the exhaust system as expected. The control board detects this by comparing readings from the inlet and outlet thermistors. When those temperature readings are inconsistent, the dryer concludes that airflow is blocked or restricted and displays AF.
 
-In most cases the root cause is a physical restriction somewhere in the vent path. Less often, the dryer's internal airflow sensing components may be at fault if the vent system is confirmed clean and the code persists.
+In most cases, AF points to a venting problem rather than an internal dryer failure. The code can be triggered by a clogged lint screen, crushed flex duct behind the dryer, a blocked exterior vent hood, or excessive lint buildup in the internal blower housing. Less commonly, a faulty thermistor or a blower wheel that is not spinning properly will also cause AF even when the vent path looks clear.
+
+## Before You Replace Anything
+
+Homeowners often replace the control board or thermistors before checking the vent system. Run a short test with the dryer vent disconnected from the back of the machine. If airflow is strong and AF clears, the house vent is the problem, not the dryer electronics.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Lint buildup in screen or internal passages** Lint accumulates in the lint screen, internal duct, or blower housing and blocks airflow.
-- **Crushed or kinked vent hose** The flexible exhaust hose behind the dryer is pinched, crushed, or sharply bent.
-- **Blocked exterior vent hood** The outdoor vent flap is stuck shut, clogged with lint, or obstructed by debris.
-- **Long vent run or too many elbows** Excessive duct length or multiple tight bends create resistance even when the duct is not fully blocked.
-- **Faulty airflow sensor or thermistor** The inlet or outlet thermistor used by the board to infer airflow is out of specification or has failed.
-- **Blower wheel or drive failure** The blower wheel is not spinning or is mechanically disconnected due to a broken drive belt or motor mount.
+- **Crushed, kinked, or disconnected flex duct (~30%)** The flexible duct behind the dryer can be pinched, kinked, or pulled loose, choking airflow to the wall.
+- **Lint screen restriction or film (~25%)** A clogged or detergent-coated lint screen blocks air before it reaches the vent, triggering AF.
+- **Blocked exterior vent hood or flapper (~20%)** Lint accumulation or a stuck flapper at the outside vent prevents exhaust from escaping.
+- **Internal lint buildup in blower housing (~15%)** Lint packs into the blower wheel or internal ducts over time, reducing airflow even when the external vent is clear.
+- **Faulty inlet or outlet thermistor (~7%)** A thermistor that reads incorrectly will make the control board think airflow is blocked when it is not.
+- **Blower wheel or drive issue (~3%)** A loose, cracked, or slipping blower wheel will not move enough air, causing AF even with a clean vent path.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the lint screen have visible lint or a waxy film that water will not pass through?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Clean or replace the screen. Run a test cycle. If AF clears, the screen was the cause.<br><strong>No:</strong> Move to the next step and inspect the vent duct and external hood.</div>
+</details>
+
+<details class="dtree"><summary>With the dryer unplugged and the vent disconnected from the back, is airflow strong at the dryer outlet when you run a short test?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The dryer is moving air correctly. The blockage is in the house vent system. Clean or replace the external vent run.<br><strong>No:</strong> The problem is inside the dryer. Check the blower housing and internal ducts for lint, or test the thermistors and blower wheel.</div>
+</details>
+
+<details class="dtree"><summary>When you open the dryer cabinet, is the blower housing or wheel packed with lint or does the blower spin freely by hand?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Clean the blower and internal passages. If the blower does not spin freely, inspect for mechanical damage or a loose wheel.<br><strong>No:</strong> Airflow hardware looks normal. Test the inlet and outlet thermistors for correct resistance and continuity, or call a technician.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. Remove and inspect the lint screen. Wash it in warm soapy water if fabric-softener residue has coated the mesh and is reducing airflow.
-2. Pull the dryer forward and check the exhaust hose for kinks, crushing, separation, or improper routing. Straighten or replace any damaged flex duct.
-3. Go outside and inspect the exterior vent hood while the dryer is running. The flap should open freely and you should feel strong, hot airflow. Clear any lint or debris blocking the hood.
-4. Disconnect the vent hose at the dryer outlet and run a short test cycle. If airflow from the dryer is strong and the AF code clears, the house vent duct is the restriction and must be cleaned.
-5. Clean the entire vent run using a vent brush or vacuum. Remove and clean the blower housing and internal lint passages if accessible on your model.
-6. If the vent system is confirmed clear but the code persists, check the blower wheel for free rotation and verify the drive belt is intact and turning the blower.
-7. Test the inlet and outlet thermistors if the mechanical airflow path is good. Consult your model's service manual for resistance values and replace any thermistor that is out of range.
+1. **Turn off the dryer** and unplug it from the wall outlet for safety.
+2. **Remove and clean the lint screen** thoroughly. Hold it under running water. If water beads up or does not pass through the mesh, scrub the screen with warm soapy water and a soft brush to remove detergent or fabric-softener film, then rinse and dry completely.
+3. **Inspect the flex duct** behind the dryer. Pull the dryer forward and check for kinks, crush points, or disconnected joints. Straighten or replace any damaged duct. Make sure the duct is not longer than necessary and has no more than two 90-degree elbows.
+4. **Check the exterior vent hood** at the outside wall. Remove any lint buildup around the flapper and confirm the flapper opens freely when air is flowing. Replace the hood if the flapper is stuck or damaged.
+5. **Run a test with the vent disconnected** from the back of the dryer. Plug the dryer in, start a cycle, and feel for strong airflow at the dryer exhaust outlet. If airflow is strong and AF does not appear, the house vent system is the problem. If AF still appears or airflow is weak, the issue is inside the dryer.
+6. **Open the dryer cabinet** and remove the front or rear panel to access the blower housing. Remove lint buildup from the blower wheel, housing, and internal ducts. Spin the blower wheel by hand to confirm it turns freely and is not loose on its shaft.
+7. **Test the inlet and outlet thermistors** if airflow is verified normal but AF persists. Use a multimeter to measure resistance at room temperature and compare readings to the wiring diagram for your model. Replace any thermistor that is open, shorted, or out of specification.
+8. **Reassemble the dryer**, reconnect the vent, and run a full test cycle to confirm AF is cleared.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Dryer vent hose (4-inch aluminum or rigid duct) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dryer-af-error-code&k=Dryer+vent+hose+%284-inch+aluminum+or+rigid+duct%29&tag=errorcodefixes-20) \| Replace kinked, crushed, or plastic flex hose with code-compliant metal duct. |
-| Exterior vent hood | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dryer-af-error-code&k=Exterior+vent+hood&tag=errorcodefixes-20) \| Use a hood with a spring-loaded flap that opens easily and closes tight when the dryer stops. |
-| Dryer thermistor (inlet or outlet) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dryer-af-error-code&k=Dryer+thermistor+%28inlet+or+outlet%29&tag=errorcodefixes-20) \| Order the exact thermistor for your Whirlpool model if resistance is out of specification. |
-| Dryer blower wheel or drive belt | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dryer-af-error-code&k=Dryer+blower+wheel+or+drive+belt&tag=errorcodefixes-20) \| Replace if the blower is not spinning or if the belt is broken or loose. |
+| 4-inch semi-rigid aluminum dryer duct | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dryer-af-error-code&k=4-inch+semi-rigid+aluminum+dryer+duct&tag=errorcodefixes-20) \| Replace crushed or excessively long flex duct with smooth, short runs. |
+| Exterior dryer vent hood with flapper | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dryer-af-error-code&k=Exterior+dryer+vent+hood+with+flapper&tag=errorcodefixes-20) \| Choose a model with a spring-loaded flapper that opens easily and closes to keep pests out. |
+| Whirlpool dryer inlet thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dryer-af-error-code&k=Whirlpool+dryer+inlet+thermistor&tag=errorcodefixes-20) \| Order by your exact model number. Thermistors are model-specific. |
+| Whirlpool dryer outlet thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dryer-af-error-code&k=Whirlpool+dryer+outlet+thermistor&tag=errorcodefixes-20) \| Order by your exact model number. Thermistors are model-specific. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if you have cleaned the entire vent system and verified the exterior hood is clear but the AF code still appears. A pro can test the internal thermistors, inspect the blower assembly and drive components, and diagnose control-board issues that may be misreading airflow. Also call for help if you are not comfortable disconnecting the vent, accessing internal passages, or using a multimeter to test sensors.
+Call a professional if you have cleaned the lint screen, verified the entire vent path is clear, and AF still appears with strong airflow at the dryer outlet. A technician can test the thermistors, inspect the blower wheel and drive system, and check control-board logic. Also call a pro if you are not comfortable opening the dryer cabinet, working with electrical connections, or diagnosing sensor circuits. If the blower wheel is damaged or the blower motor has failed, a technician has the tools and parts to replace those components safely.
+
+**Rough cost:** DIY runs about $10-40 in duct or vent parts, 30-90 min. A pro service call runs about $150-300 for service call and vent cleaning or blower service.

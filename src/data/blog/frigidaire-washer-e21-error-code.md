@@ -1,47 +1,76 @@
 ---
-title: "Frigidaire E21 Error Code - Causes & Fix"
-description: "E21 means slow drain or drain fault. Most often caused by a kinked hose or clogged pump. Check hose routing and clear debris from pump."
-pubDatetime: 2026-05-31T02:15:44Z
-modDatetime: 2026-05-31T02:15:44Z
-author: "Marcus Webb"
+title: "Frigidaire Washer E21 Error Code - Causes & Fix"
+description: "E21 means slow or no drain. Most often a clogged pump, kinked hose, or blocked drain path. Clean the pump filter and hose first."
+pubDatetime: 2026-06-08T03:02:09Z
+modDatetime: 2026-06-08T03:02:09Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - washer
   - frigidaire
+most_likely_cause: "clogged drain pump or debris in the pump impeller"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
-## Frigidaire E21 Error Code — What It Means
+## Frigidaire Washer E21 Error Code — What It Means
 
-The E21 code signals a drain fault or slow-drain condition. Your washer has detected that water is not evacuating fast enough, so the control board stops the cycle and flags a drainage problem. This is not a spin-only issue. It points to a restricted drain path, a blocked pump, or a failing pump impeller or motor that cannot move water at the required rate.
+E21 on a Frigidaire washer indicates a drainage fault. The machine has detected that water is draining too slowly or not draining within the expected time during a drain or spin cycle. The control board monitors water level and when it does not drop fast enough, it stops the cycle and displays E21.
+
+This code points to a restriction somewhere in the drain path or a failing drain pump rather than an electrical or control-board problem. The washer cannot proceed until water evacuation is restored to normal flow.
+
+## Before You Replace Anything
+
+Homeowners sometimes replace the control board or door lock when E21 appears. Check and clean the drain hose, pump filter, and impeller cavity for blockages first, since restricted water flow is the actual problem in most cases.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Kinked or blocked drain hose** The hose may be crushed behind the machine, routed too high, or clogged with lint and debris, preventing proper flow.
-- **Debris in the pump filter or cavity** Coins, paper clips, pet hair, lint, and small garments can lodge in the pump housing and block the impeller.
-- **Obstructed or damaged pump impeller** Broken vanes, hair wrapped around the shaft, or foreign objects jamming the impeller will stop the pump from turning freely.
-- **Weak or failed drain pump motor** Even with a clear path, a motor that has lost torque or an open winding will produce slow or no flow.
+- **Debris in the drain pump or impeller (~45%)** Lint, coins, socks, pet hair, or soap scum jam the impeller or restrict the pump housing, slowing water flow below the threshold the control expects.
+- **Kinked or clogged drain hose (~30%)** The external drain hose is pinched, kinked, positioned too high, or has an internal blockage that prevents water from exiting quickly.
+- **Failing drain pump (~15%)** The pump motor runs but the impeller is cracked, loose, or worn so it cannot move water at the correct rate even when the path is clear.
+- **Blocked standpipe or drain path (~8%)** The household standpipe, trap, or internal washer drain line has a restriction that backs up water and slows evacuation.
+- **Pump filter or coin trap clogged (~2%)** On models with a removable filter or clean-out trap at the front lower panel, accumulated debris blocks flow before it reaches the pump.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Is the drain hose kinked, pinched, or inserted more than 4–5 inches into the standpipe?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Straighten the hose, remove any kinks, and make sure the standpipe end is not pushed in too far. Run a drain cycle to see if E21 clears.<br><strong>No:</strong> The external hose routing is fine. Move to the pump filter and internal drain path.</div>
+</details>
+
+<details class="dtree"><summary>Does water drain very slowly or not at all when you manually advance the washer to a drain cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The pump or drain path is blocked. Open the lower access panel and check for standing water, debris in the filter, or objects around the impeller.<br><strong>No:</strong> If water drains normally on manual test but E21 still appears, the pump may be intermittent or the control is not sensing the level drop correctly. Consider replacing the pump.</div>
+</details>
+
+<details class="dtree"><summary>Can you spin the pump impeller freely by hand (with power off and hose disconnected) and do you see no obstructions?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The impeller moves freely but flow is still slow, so the pump motor or housing is likely failing internally. Replace the drain pump assembly.<br><strong>No:</strong> There is a blockage or the impeller is jammed. Remove all foreign objects, clean the cavity, and test again before replacing parts.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Unplug the washer** and turn off the water supply before you begin any disassembly or inspection.
-2. **Inspect the drain hose** from the pump outlet all the way to the standpipe or laundry sink, straighten any kinks, remove obstructions, and confirm the discharge end is not submerged or higher than the washer's maximum drain-lift specification.
-3. **Access the pump filter or pump cavity** (consult your model's service manual for the access panel location), remove the cover, and clear all coins, lint, hairpins, and debris from the housing and impeller area.
-4. **Check the impeller for free rotation** by turning it by hand, look for broken vanes, and remove any hair or string wound around the shaft.
-5. **Test the drain pump electrically** using a multimeter set to resistance, disconnect the pump harness, and measure across the pump terminals (one repair video reports 10 to 20 ohms for continuity, but verify against your model's documentation).
-6. **Replace the drain pump assembly** if the hose and impeller are clear, the motor shows an open circuit or very low torque, or the pump still drains slowly after cleaning.
-7. **Reassemble the machine**, restore power and water, and run a drain or spin-only cycle to confirm strong discharge flow with no reappearance of the E21 code.
+1. **Disconnect power** by unplugging the washer or switching off the circuit breaker so you can work safely.
+2. **Check the external drain hose** for kinks, pinches, and proper height (standpipe should be 30–96 inches above floor and hose should not be pushed more than 4–5 inches into it). Straighten or reposition as needed.
+3. **Remove the lower front access panel** (usually a kick panel held by clips or screws) to expose the drain pump and filter area.
+4. **Place a shallow pan or towels** under the pump area and open the pump filter or coin trap if your model has one. Remove lint, coins, and debris. If no removable filter, locate the pump itself.
+5. **Disconnect the drain hose** from the pump outlet and inspect both the hose and pump housing for blockages. Remove any objects jamming the impeller and verify the impeller spins freely by hand.
+6. **Inspect the pump impeller** for cracks, loose mounting, or damage. If the impeller is damaged or the pump does not move water even when clear, replace the drain pump assembly.
+7. **Reassemble all hoses and clamps**, replace the access panel, restore power, and run a drain or spin cycle to confirm water evacuates quickly and E21 does not return.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Frigidaire drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-washer-e21-error-code&k=Frigidaire+drain+pump+assembly&tag=errorcodefixes-20) \| Match the part number on your existing pump or use your full model number to make sure correct voltage and mounting. |
-| Drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-washer-e21-error-code&k=Drain+hose&tag=errorcodefixes-20) \| Replace if the original hose is cracked, collapsed, or you cannot clear a blockage. |
+| Drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-washer-e21-error-code&k=Drain+pump+assembly&tag=errorcodefixes-20) \| Match your Frigidaire model number. Typical for front-load and some top-load washers when impeller is damaged or motor fails. |
+| Drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-washer-e21-error-code&k=Drain+hose&tag=errorcodefixes-20) \| Replace if kinked, cracked, or internally clogged and cannot be cleared. |
+| Hose clamps | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-washer-e21-error-code&k=Hose+clamps&tag=errorcodefixes-20) \| Spring or screw-type clamps to secure drain hose connections after service. |
 
 ## When to Call a Pro
 
-Call a technician if you have cleared the hose and pump cavity, verified free impeller rotation, and the E21 code returns immediately or the washer still drains very slowly. A persistent fault after parts replacement may point to a wiring issue, a failing pressure sensor, or a control-board problem that requires diagnostic software and schematic tracing. Also consider professional help if you are uncomfortable working with water-soaked components, accessing the pump through a sealed cabinet, or testing live circuits with a multimeter.
+Call a technician if you have cleared all visible blockages and verified free impeller movement but E21 persists, or if you are uncomfortable removing the lower panel and working around standing water. A pro can test pump voltage and resistance, verify the pressure-switch or water-level-sensor signal to the control, and replace the pump quickly with the correct part for your model. Also call if the washer requires tipping or you lack basic tools to access internal plumbing.
+
+**Rough cost:** DIY runs about $20–80 in parts if pump replacement needed, 45–90 min. A pro service call runs about $150–280 service call including labor and pump if required.
