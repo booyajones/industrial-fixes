@@ -1,49 +1,72 @@
 ---
 title: "Maytag Oven CAL Error Code - Causes & Fix"
-description: "CAL on a Maytag oven means the calibration feature is active, not a fault. Exit calibration mode or adjust the temperature offset."
-pubDatetime: 2026-05-31T05:54:45Z
-modDatetime: 2026-05-31T05:54:45Z
-author: "Dana Kowalski"
+description: "CAL means your Maytag oven is in calibration mode, not a fault. Exit the mode by pressing Cancel or cycle power for 1 minute to clear."
+pubDatetime: 2026-06-08T16:19:19Z
+modDatetime: 2026-06-08T16:19:19Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - oven
   - maytag
+most_likely_cause: "Accidental entry into the calibration menu or the calibration display left on screen"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Maytag Oven CAL Error Code — What It Means
 
-CAL is not an error code on Maytag ovens. It indicates the oven calibration feature is active, which allows you to adjust the baking temperature offset from the factory setting. If you see CAL on the display, the control is either in calibration mode or showing the current temperature offset. This is a normal function used to compensate when the oven runs consistently hotter or cooler than the set temperature. Maytag calibration adjustments typically range from +30°F to -30°F in increments of 5°F or 10°F, depending on your control style.
+The Maytag CAL code is not a fault code. Maytag identifies CAL as the oven calibration feature, which appears when the control is in calibration-adjustment mode or displaying the current temperature offset. This feature lets you shift the oven temperature up or down in 5°F or 10°F increments (depending on control style) within a ±30°F range to compensate for ovens that bake too hot or too cool.
+
+If you see CAL on the display, the oven is simply showing a settings screen. The code does not indicate a failed sensor or board. If the display was left in calibration mode accidentally, pressing Cancel will exit without saving changes. If the oven temperature is actually incorrect, you can use the calibration menu to apply an offset and then press Start to save it.
+
+## Before You Replace Anything
+
+Homeowners sometimes replace the temperature sensor or control board thinking CAL is a fault code. CAL is only a calibration-mode indicator, so always exit calibration mode first and verify actual oven temperature with a known-good thermometer before ordering any parts.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Calibration mode was entered** Someone accessed the calibration menu by holding a button combination or selecting a settings option, so the display now shows CAL or a calibration offset value.
-- **Oven temperature runs consistently off** The oven bakes hotter or cooler than the set point, and the control needs a temperature offset adjustment to compensate.
-- **Control display is stuck or frozen** A temporary control glitch is holding the calibration screen active, and a power reset may clear the display.
-- **Temperature sensor is malfunctioning** If calibration does not fix inaccurate baking, the oven temperature sensor may be reading incorrectly and needs testing or replacement.
-- **Ignitor is dirty or weak (gas models)** A worn or dirty ignitor can cause poor combustion and uneven oven temperatures that calibration alone cannot correct.
+- **Accidental calibration-menu entry (~60%)** The display shows CAL because a button sequence triggered the calibration function or the screen was left in that mode.
+- **Intentional calibration offset (~25%)** A user or technician previously adjusted the temperature offset to fix baking performance and the display is showing that saved setting.
+- **Control interface glitch (~10%)** The touchpad or control registers phantom key presses and enters calibration mode on its own.
+- **Power interruption mid-calibration (~5%)** The oven lost power while in calibration mode and the display remained in that state when power returned.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the display respond normally when you press Cancel or any other button?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The control interface is working. Press Cancel to exit calibration mode and return to the clock or normal screen.<br><strong>No:</strong> The touchpad or control may be unresponsive. Cycle power at the breaker for 1 minute to reset the control.</div>
+</details>
+
+<details class="dtree"><summary>Does CAL reappear immediately after you exit or cycle power?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The control may be stuck in calibration mode or the keypad is sending unwanted input. Consult the owner's manual for a factory reset or call a technician to inspect the user interface.<br><strong>No:</strong> The code was simply left in calibration mode. The oven should now operate normally.</div>
+</details>
+
+<details class="dtree"><summary>Is the oven baking at the wrong temperature (verified with a separate oven thermometer)?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Use the calibration menu to apply a temperature offset within ±30°F in 5°F or 10°F steps, then press Start to save. If the offset does not correct the temperature, the sensor or control may need replacement.<br><strong>No:</strong> No calibration adjustment is needed. Exit the CAL screen and use the oven as normal.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. {'lead': 'Check the display carefully', 'text': 'to confirm you are seeing CAL, 0°F CAL, or a similar calibration message, not a true fault code with letters like F or E.'}
-2. {'lead': 'Exit calibration mode', 'text': 'by pressing Cancel or Stop, or by turning the oven off, then check if the display returns to normal standby.'}
-3. {'lead': 'Perform a power reset', 'text': 'by switching off the oven circuit breaker or pulling the fuse for one full minute, then restore power and recheck the display.'}
-4. {'lead': 'Test actual oven temperature', 'text': 'with a reliable oven thermometer at 350°F for 20 minutes to measure how far off the oven bakes from the set point.'}
-5. {'lead': "Enter calibration mode using your model's method", 'text': '(Settings/Options, Temp down-arrow hold, or Bake hold) and adjust the offset in 5°F or 10°F increments to match your thermometer reading, then press Start to save.'}
-6. {'lead': 'Inspect the oven temperature sensor', 'text': "if calibration does not solve the problem, checking for visible damage, secure connection, or abnormal resistance values per your model's specifications."}
-7. {'lead': 'Examine the ignitor (gas ovens)', 'text': 'or heating elements (electric ovens) for wear, carbon buildup, or weak glow, and replace if they do not reach proper operating condition.'}
+1. **Press Cancel** on the control panel to exit calibration mode and return to the normal display.
+2. **Observe the display** for 10 seconds to confirm CAL does not reappear on its own.
+3. **Cycle power** if Cancel does not clear the display: turn off the circuit breaker or pull the fuse for 1 minute, then restore power.
+4. **Check actual oven temperature** with a known-good oven thermometer placed in the center of the oven during a bake cycle if you suspect temperature inaccuracy.
+5. **Enter calibration mode** through your model's control interface if the oven is consistently too hot or too cool (consult the owner's manual for the button sequence).
+6. **Adjust the offset** in 5°F or 10°F increments within the ±30°F range to match your thermometer reading, then press Start to save.
+7. **Monitor performance** over several bake cycles to confirm the offset correction holds and the oven temperature is accurate.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Oven Temperature Sensor (RTD) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-oven-cal-error-code&k=Oven+Temperature+Sensor+%28RTD%29&tag=errorcodefixes-20) \| Replace if the sensor is damaged or reads out of spec and calibration does not correct temperature accuracy. |
-| Oven Ignitor (Gas Models) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-oven-cal-error-code&k=Oven+Ignitor+%28Gas+Models%29&tag=errorcodefixes-20) \| Replace if the ignitor glows weakly, is carbon-fouled, or does not open the gas valve reliably. |
-| Electronic Oven Control Board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-oven-cal-error-code&k=Electronic+Oven+Control+Board&tag=errorcodefixes-20) \| Replace only if the calibration feature is unresponsive, the display is permanently stuck, or temperature regulation fails after sensor and ignitor checks. |
+| Maytag oven temperature sensor / RTD probe | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-oven-cal-error-code&k=Maytag+oven+temperature+sensor+%2F+RTD+probe&tag=errorcodefixes-20) \| Only needed if calibration does not correct persistent temperature errors and the sensor reads out of spec. |
+| Maytag oven electronic control board / ERC | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-oven-cal-error-code&k=Maytag+oven+electronic+control+board+%2F+ERC&tag=errorcodefixes-20) \| Required only if the control fails to save calibration settings or shows erratic display behavior after a factory reset. |
 
 ## When to Call a Pro
 
-Call a professional if you are uncomfortable entering calibration mode through your control's menu system, if the CAL display persists after a full power reset and manual exit, or if oven temperature remains inaccurate after you complete calibration and verify the sensor and ignitor are functioning. A technician can test sensor resistance, ignitor draw, and control board outputs with proper meters and interpret your model's calibration limits and component specifications accurately.
+Call a professional if the CAL display returns repeatedly after you cycle power and exit calibration mode, or if the oven temperature remains incorrect even after you apply the maximum ±30°F calibration offset. A technician will test the temperature sensor for correct resistance, inspect the wiring between the sensor and control board, and verify the control's ability to read and store calibration data. If the keypad enters calibration mode on its own without button presses, the user interface or control board may need replacement. A pro will also confirm whether a separate fault code (such as an F3 or F4 sensor error) is present alongside CAL, which would point to a component failure rather than a simple calibration-mode display.

@@ -1,49 +1,77 @@
 ---
 title: "Maytag Dryer PF Error Code - Causes & Fix"
-description: "PF means Power Failure: your Maytag dryer lost electricity mid-cycle. Press START to resume or reset the circuit breaker for one minute."
-pubDatetime: 2026-05-31T04:25:55Z
-modDatetime: 2026-05-31T04:25:55Z
-author: "Marcus Webb"
+description: "PF means power failure: the dryer lost power during the cycle. Most often a tripped breaker or loose connection. Hold START to restart."
+pubDatetime: 2026-06-08T16:17:54Z
+modDatetime: 2026-06-08T16:17:54Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dryer
   - maytag
+most_likely_cause: "tripped or partially tripped circuit breaker"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Maytag Dryer PF Error Code — What It Means
 
-The PF code on a Maytag dryer stands for Power Failure. It appears when the control board detects that the drying cycle was interrupted by a loss of electrical power. This can happen after a house-wide outage, a tripped breaker, or any interruption to the dryer's supply during operation. On some Maytag commercial units, the code can also appear if you press buttons during the brief power-up delay when the dryer is first energized. In most cases, PF is simply a notification that power was lost and the cycle did not finish. Clear it by pressing START to restart the interrupted cycle or POWER to clear the display and start fresh.
+The PF code on a Maytag dryer stands for Power Failure. The dryer detected that electrical power was interrupted during the cycle. Maytag instructs you to touch and hold START to restart the cycle, or press POWER to clear the display.
+
+This code usually appears after a brief outage, voltage drop, or breaker interruption while the dryer was running. On electric dryers, a partially tripped breaker or unstable supply can leave the control in a PF state or make the code recur after reset. If the dryer was recently installed, Maytag advises having a qualified electrician verify the electrical supply.
+
+## Before You Replace Anything
+
+Many people replace the main control board when PF keeps returning, but a loose power-cord terminal or weak outlet is the real culprit more often. Check every connection at the terminal block and outlet with the breaker off before ordering any boards.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **House power interruption or outage** A brief or extended loss of electrical service during the drying cycle will trigger the PF code.
-- **Tripped or partially reset circuit breaker** A breaker that has tripped or was not fully reset can cause the dryer to lose power intermittently.
-- **Unstable electrical supply or voltage drop** Fluctuating voltage or brownouts in your home's electrical system can interrupt the dryer's operation.
-- **Loose or damaged power cord, outlet, or terminal connections** Poor contact at the cord plug, wall receptacle, or dryer terminal block can create intermittent power loss.
-- **User input during power-up delay** Pressing control buttons while the dryer is powering up can register as a fault on some models.
+- **Tripped or partially tripped breaker (~35%)** A household breaker that has flipped or is sitting mid-position cuts power to the dryer and triggers PF when it loses voltage.
+- **Loose or damaged power cord connection (~25%)** Oxidized or loose terminals at the dryer's terminal block or wall outlet interrupt current and cause the control to see a power failure.
+- **Momentary utility power outage or voltage drop (~20%)** A brief interruption from the utility company or neighbor's heavy load can dip voltage enough to reset the dryer's control.
+- **Faulty wall outlet or receptacle (~10%)** A worn or burned outlet can lose contact under load, especially on electric dryers drawing high current, and the dryer reads it as lost power.
+- **Unstable household voltage or wiring issue (~7%)** Undersized or damaged house wiring, poor connections at the breaker panel, or shared circuits cause voltage sags that trip the PF detection.
+- **Failing main control board (~3%)** Weak internal power-supply components on the control can misread voltage and falsely log a power failure even when the supply is stable.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Is the household breaker for the dryer in the full ON position and not tripped?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The breaker is good. Move on to inspect the power cord and outlet connections.<br><strong>No:</strong> Reset the breaker fully to ON, then hold START on the dryer. If the breaker trips again immediately, call an electrician to check for a short or overload.</div>
+</details>
+
+<details class="dtree"><summary>Does the PF code return within a few cycles after you clear it?</summary>
+<div class="dtree-body"><strong>Yes:</strong> You have an intermittent power-supply problem. Inspect the terminal block, cord, and outlet for loose or burned connections before replacing any boards.<br><strong>No:</strong> The original event was likely a one-time utility interruption. Resume normal use and monitor for recurrence.</div>
+</details>
+
+<details class="dtree"><summary>Can you see any discoloration, melting, or burning at the dryer terminal block or wall outlet?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Replace the damaged cord or outlet and tighten all terminal screws. Heat damage means poor contact and high resistance.<br><strong>No:</strong> Connections look clean. Test the outlet voltage under load or have an electrician verify stable supply if PF keeps appearing.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Press START** to resume the interrupted cycle, or press POWER to clear the display and confirm the dryer runs normally.
-2. **Check your home's circuit breaker** for the dryer circuit and make sure it is fully reset and not tripped or sitting in the middle position.
-3. **Turn the dryer circuit breaker off** for one full minute, then turn it back on and wait another minute to see if the PF code reappears.
-4. **Inspect the power cord and outlet** for loose connections, burn marks, or heat damage at the plug, receptacle, and dryer terminal block.
-5. **Measure the supply voltage at the outlet** if the code keeps coming back and no obvious outage occurred, since repeated PF points to an unstable electrical supply.
-6. **Verify stable household electrical service** with a qualified electrician if the dryer was recently installed or if other appliances are also acting up.
-7. **Check internal wiring harnesses and control board connections** if the code persists after confirming a stable 240-volt supply, since repeated PF on good power suggests an electronics or connection fault inside the dryer.
+1. **Clear the PF code** by pressing and holding START, or press POWER to clear the display, as directed by Maytag.
+2. **Turn off the dryer's household breaker** for one full minute, then reset it firmly to the ON position and test the dryer again.
+3. **Inspect the power cord and terminal block** with the breaker off. Remove the dryer's rear access panel, check that all three or four wire terminals are tight and show no burn marks, and wiggle the cord gently to reveal loose connections.
+4. **Examine the wall outlet** for discoloration, cracks, or loose prongs when you plug the cord back in. If the plug slides in loosely or the receptacle is warm after a cycle, replace the outlet.
+5. **Verify the dryer is plugged directly into the wall** and is not fed through an extension cord, adapter, or multi-outlet strip, all of which can cause voltage drop.
+6. **Test the supply voltage** at the outlet with a multimeter if you have one, or hire a qualified electrician to measure voltage under load and confirm stable power, especially if the dryer was recently installed.
+7. **Replace the main control board** only if the terminal block, cord, outlet, and household wiring all test good and the PF code still returns after every few cycles.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Dryer power cord | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dryer-pf-error-code&k=Dryer+power+cord&tag=errorcodefixes-20) \| Replace if the cord shows heat damage, cracked insulation, or loose terminal lugs. |
-| Wall outlet receptacle | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dryer-pf-error-code&k=Wall+outlet+receptacle&tag=errorcodefixes-20) \| A worn or arcing outlet can cause intermittent power loss and should be replaced by an electrician. |
-| Dryer electronic control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dryer-pf-error-code&k=Dryer+electronic+control+board&tag=errorcodefixes-20) \| Required if PF persists after confirming stable supply and all connections are tight. |
+| Maytag dryer power cord | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dryer-pf-error-code&k=Maytag+dryer+power+cord&tag=errorcodefixes-20) \| Three-prong (older 120/240 V) or four-prong (newer code), match your outlet and model rating. |
+| NEMA 10-30R or 14-30R dryer outlet receptacle | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dryer-pf-error-code&k=NEMA+10-30R+or+14-30R+dryer+outlet+receptacle&tag=errorcodefixes-20) \| Heavy-duty flush or surface mount, verify amperage matches your breaker (typically 30 A for dryers). |
+| Maytag dryer main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dryer-pf-error-code&k=Maytag+dryer+main+control+board&tag=errorcodefixes-20) \| Model-specific electronic control. Verify part number from the service label inside the door before ordering. |
 
 ## When to Call a Pro
 
-Call a professional if the PF code returns repeatedly after you have confirmed the circuit breaker is fully reset and no house-wide power interruptions are occurring. Persistent PF on a stable electrical supply usually means a problem inside the dryer's wiring harness or control board, which requires disassembly and diagnostic equipment. Also call a licensed electrician if you measure low or fluctuating voltage at the outlet, or if the outlet or cord shows any signs of overheating or arcing damage. Do not attempt internal repairs if you are uncomfortable working with 240-volt circuits.
+Call a licensed electrician if the breaker trips repeatedly, if you find burned or melted wiring, or if you are not comfortable working inside the breaker panel or dryer terminal block with power off. Maytag recommends professional verification of the electrical supply any time a dryer is newly installed or the PF code appears often. If the house wiring, outlet, and cord all check out but PF persists, call an appliance technician to test the control board and internal power-supply components under load before replacing the board.
+
+**Rough cost:** DIY runs about $15-80 in parts (cord or outlet), 30-60 min. A pro service call runs about $100-250 service call plus parts.

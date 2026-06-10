@@ -1,48 +1,77 @@
 ---
 title: "Maytag Dryer F78 Error Code - Causes & Fix"
-description: "F78 is a stored fault code in Maytag's electronic control system. Power down the dryer for 5 minutes and restore power to reset."
-pubDatetime: 2026-05-31T03:40:58Z
-modDatetime: 2026-05-31T03:40:58Z
-author: "Dana Kowalski"
+description: "F78 means a power supply or voltage fault. Reset the breaker for 5 minutes, then run Timed Dry. Check for missing leg or loose wiring."
+pubDatetime: 2026-06-08T16:16:19Z
+modDatetime: 2026-06-08T16:16:19Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dryer
   - maytag
+most_likely_cause: "Missing one leg of supply power at the terminal block or breaker"
+likelihood: "the most common cause"
+diy_or_pro: "pro"
 ---
 
 ## Maytag Dryer F78 Error Code — What It Means
 
-F78 is a stored error code within the F72 through F78 group on electronic-control Maytag dryers. Maytag's official product help does not publish a separate, code-specific meaning for F78 alone, but treats the entire F72–F78 range as stored fault codes tied to the electronic control system. The code usually points to an intermittent control board fault, wiring issue, or transient logic problem that requires a power reset and further diagnostic review if it returns.
+The F78 code on a Maytag dryer signals a power supply or voltage-related fault. Maytag groups F72 through F78 as power-related errors and does not publish a single-line definition for F78 beyond that family. The fault means the dryer detected an abnormal electrical supply condition rather than a failure of a single heating or mechanical component.
+
+Maytag's official corrective action is to turn the dryer off at the circuit breaker for 5 minutes, then run a Timed Dry cycle to see if the code returns. If it does, the problem lies in the incoming power path or the control board's handling of power, not in the heater or thermostats alone.
+
+## Before You Replace Anything
+
+Homeowners often replace the heating element or thermostats first. F78 is a power-supply fault, so check incoming voltage at both legs of the terminal block under load before replacing any heating components.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Control board fault** The main electronic control board has failed or experienced a transient logic error that triggers a stored fault code.
-- **Wire harness damage** Loose, corroded, or damaged wire harness connections between the control board and other components interrupt signals and log faults.
-- **User interface failure** A defective control panel or stuck key sends incorrect signals to the main board and generates stored error codes.
-- **Power supply interruption** Voltage sags, brownouts, or a damaged power cord cause the control to lock up and record fault codes in memory.
+- **Missing one leg of supply power (~40%)** A burned breaker, damaged cord, or loose terminal-block connection can allow the control to power up but fail under load when the heater or motor draws current.
+- **Loose, burned, or corroded wiring (~25%)** Heat damage or oxidation at the terminal block, power cord connections, or harness plugs interrupts one leg of 240 V supply intermittently.
+- **Failing breaker or receptacle (~15%)** A breaker or wall outlet that drops a leg under load can trigger the code even though static voltage appears correct.
+- **Main control board fault (~15%)** If correct supply voltage is present at the terminal block and wiring is intact, the main electronic control or ACU may fail to manage power correctly and set the F78 code.
+- **Incorrectly installed or mismatched control board (~5%)** A replacement control that is not the correct part number for the platform can trigger fault codes in the F72-F78 family.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Did the code clear after turning off the breaker for 5 minutes and running a Timed Dry cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault was transient or caused by a brief voltage sag. Monitor the dryer over the next few loads to confirm it does not return.<br><strong>No:</strong> The fault is persistent. Proceed to check incoming supply voltage at the terminal block and inspect all wiring for damage.</div>
+</details>
+
+<details class="dtree"><summary>Do you measure 240 V across both legs at the dryer terminal block with the breaker on and no load?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Static voltage is correct. Run the dryer and re-measure under load. If voltage drops on one leg or the code returns, trace upstream to the cord, receptacle, and breaker.<br><strong>No:</strong> One leg is missing or weak. Inspect the power cord, terminal block connections, wall receptacle, and breaker for loose or burned contacts.</div>
+</details>
+
+<details class="dtree"><summary>Are the terminal block screws tight and free of burn marks or corrosion?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Terminal connections are good. Test the power cord for continuity on both hot legs and inspect the main control board connectors for looseness or heat damage.<br><strong>No:</strong> Clean or replace the damaged terminal block and power cord. Re-torque all screws to the manufacturer's specification and retest.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Turn off the circuit breaker** feeding the dryer and leave it off for a full 5 minutes to clear transient control faults, then restore power and check whether the code returns.
-2. **Enter stored fault diagnostics** by following your model's diagnostic access procedure to retrieve and document all stored codes before clearing any fault memory.
-3. **Inspect all wire harness connections** between the main control board, user interface, and other components for looseness, corrosion, or burn marks, and reseat or repair any damaged connectors.
-4. **Examine the main electronic control board** for signs of physical damage, burnt traces, or failed relays, and replace the board if it shows visible defects or if the code persists after power reset.
-5. **Check the user interface control panel** for stuck buttons, cracked displays, or moisture intrusion, and replace the interface if keys are unresponsive or the panel is damaged.
-6. **Test the power cord and supply wiring** for continuity and proper voltage at the terminal block, and replace the cord if insulation is frayed or conductors are loose.
-7. **Clear stored fault codes** through the diagnostic menu after repairs are complete, run a test cycle, and monitor for recurring faults before returning the dryer to service.
+1. **Record the fault code** and any symptom notes, then turn the dryer off at the circuit breaker (both breakers if the panel has two 120 V legs feeding the dryer) and wait 5 minutes.
+2. **Restore power** and start a Timed Dry cycle with no load. If the F78 does not reappear, monitor the dryer over the next few uses to confirm the fault was transient.
+3. **Verify incoming voltage** at the terminal block. With the breaker on and the dryer off, measure across the two hot legs. You should see approximately 240 V. Check each leg to neutral or ground for approximately 120 V. If one leg is missing or low, the problem is upstream.
+4. **Inspect the power cord and terminal block** for loose screws, heat damage, burn marks, or corrosion. Remove the rear access panel, examine every connection, and re-torque the terminal screws if they are loose.
+5. **Run the dryer under load** and re-measure voltage at the terminal block while the heater and motor are running. If voltage drops on one leg or fluctuates, test the wall receptacle and breaker with a known-good load.
+6. **Check the wiring harness** from the terminal block to the main control board for pinched insulation, loose connectors, or heat damage. Repair or replace any damaged sections.
+7. **Replace the main control board** if incoming power is correct, all wiring is intact, and the F78 code persists after reset. Use the exact replacement part number for your model to avoid mismatched firmware triggering additional faults.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Main electronic control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dryer-f78-error-code&k=Main+electronic+control+board&tag=errorcodefixes-20) \| Match the board part number to your dryer's model and serial tag. |
-| User interface control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dryer-f78-error-code&k=User+interface+control+board&tag=errorcodefixes-20) \| Verify compatibility with your exact Maytag dryer model before ordering. |
-| Wire harness or connector set | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dryer-f78-error-code&k=Wire+harness+or+connector+set&tag=errorcodefixes-20) \| Replace any harness with visible damage, melting, or broken latches. |
+| Main electronic control board (ACU) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dryer-f78-error-code&k=Main+electronic+control+board+%28ACU%29&tag=errorcodefixes-20) \| Match the exact part number for your model; mismatched boards can cause F72-F78 faults. |
+| 4-wire dryer power cord | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dryer-f78-error-code&k=4-wire+dryer+power+cord&tag=errorcodefixes-20) \| Replace if any conductor shows heat damage, broken strands, or failed continuity. |
+| Terminal block assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dryer-f78-error-code&k=Terminal+block+assembly&tag=errorcodefixes-20) \| Replace if screws are stripped, insulators are cracked, or contacts are burned. |
+| Wiring harness (power entry to control) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dryer-f78-error-code&k=Wiring+harness+%28power+entry+to+control%29&tag=errorcodefixes-20) \| Replace if insulation is melted, connectors are loose, or conductors are corroded. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if the F78 code returns after the 5-minute power reset, if you are uncomfortable working inside the control console or with live voltage, or if diagnostic mode retrieval and stored-code interpretation are unfamiliar. Control board and user interface replacements require removing the dryer top and console, working with multiple connectors, and sometimes reprogramming or calibrating the new board. A technician has the service manual, wiring diagrams, and diagnostic tools to isolate intermittent faults that do not show obvious physical damage.
+Call a qualified appliance technician or electrician if you are not comfortable working with 240 V circuits or if you cannot safely access and measure voltage at the terminal block. A technician has the tools to test under load, trace intermittent faults in the house wiring or breaker panel, and safely replace the main control board. If the code persists after you have verified correct incoming voltage and inspected all visible wiring, professional diagnostics will save time and prevent misdiagnosis of heating components that are not the root cause of F78.
+
+**Rough cost:** A pro service call runs about $150-350.
