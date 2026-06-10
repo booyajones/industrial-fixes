@@ -1,48 +1,75 @@
 ---
 title: "Samsung Washer tE Error Code - Causes & Fix"
-description: "tE code signals a temperature sensor fault. Most often the thermistor has failed or its wiring is broken. Test resistance first."
-pubDatetime: 2026-05-31T02:00:22Z
-modDatetime: 2026-05-31T02:00:22Z
-author: "Dana Kowalski"
+description: "tE means temperature sensor fault. Most often a failed thermistor or loose connector. Check sensor resistance and wiring first."
+pubDatetime: 2026-06-08T03:23:25Z
+modDatetime: 2026-06-08T03:23:25Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - washer
   - samsung
+most_likely_cause: "failed thermistor or temperature sensor"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Samsung Washer tE Error Code — What It Means
 
-The tE error code on your Samsung washer indicates a temperature-sensing fault in the wash cycle. The control board cannot read valid data from the thermistor (temperature sensor) mounted on the tub or heater assembly. This typically means the sensor itself has failed, reads out of range, or the wiring harness between the sensor and the control board is open, corroded, or making intermittent contact. The washer will not heat water reliably or may refuse to run until the fault is cleared.
+The tE code on a Samsung washer signals a temperature-sensing fault. The control board is not receiving a valid temperature signal from the thermistor (temperature sensor) that monitors water temperature during the wash cycle. The reading is either out of the expected range, missing entirely, or electrically abnormal, so the washer halts the cycle for safety.
+
+This is specifically a thermistor circuit problem, not a drain or door issue. The control cannot trust the water temperature data, which affects cycle timing and heating decisions.
+
+## Before You Replace Anything
+
+Many people replace the main control board first when the actual fault is a $15 thermistor or a loose connector at the sensor. Always test the sensor resistance and inspect the harness plug before ordering a new board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed thermistor or temperature sensor** The sensor assembly has drifted out of tolerance or developed an open circuit, so it no longer reports accurate resistance values to the board.
-- **Broken or loose wiring at the sensor connector** Vibration, previous service work, or age has pulled terminals, cracked conductors, or loosened locking tabs in the harness plug.
-- **Corroded or poor connector contact** Moisture infiltration or oxidation at the plug causes high resistance or intermittent open-circuit readings.
-- **Mechanical damage to the sensor assembly** The sensor mounting bracket has shifted or the sensor body has cracked, causing the element inside to fail or lose contact.
-- **Control board input fault** If the sensor and harness both test good, the control board's thermistor input circuit may have failed.
+- **Failed thermistor (~50%)** The temperature sensor itself has gone open, shorted, or drifted out of spec so the control sees an invalid resistance.
+- **Loose or corroded connector (~25%)** The plug at the sensor or at the main board has backed out, corroded, or shows heat damage, breaking the circuit.
+- **Broken wire in harness (~15%)** A conductor in the sensor lead has fractured near a flex point or at the connector crimp, causing an intermittent or permanent open.
+- **Main control board fault (~10%)** The temperature input stage on the board has failed or a trace is burnt, even though the sensor and wiring are good.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the error clear and stay away after unplugging the washer for two minutes and restarting?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault was transient (a glitch or water splash on the connector). Monitor the next few cycles, but if it returns proceed with sensor testing.<br><strong>No:</strong> The fault is persistent. Move on to inspect the sensor connector and test resistance.</div>
+</details>
+
+<details class="dtree"><summary>With the washer unplugged and the sensor disconnected, does the thermistor measure between 35 kΩ and 70 kΩ at room temperature (and does resistance drop smoothly when you warm it in your hand)?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The sensor is likely good. Check the harness for continuity from sensor pins to the board plug, then suspect the control board if wiring is intact.<br><strong>No:</strong> The sensor is open, shorted, or non-responsive. Replace the thermistor.</div>
+</details>
+
+<details class="dtree"><summary>Are the pins and socket at the sensor connector clean, dry, and fully seated with no burn marks or green corrosion?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The connector is good. Test sensor resistance and trace the harness for breaks.<br><strong>No:</strong> Clean the connector with contact cleaner or replace the sensor pigtail if the terminals are burnt or the housing is melted.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. {'step': '**Disconnect power and water.** Unplug the washer, turn off the hot and cold supply valves, and drain any standing water from the tub before accessing internal components.'}
-2. {'step': '**Access the temperature sensor.** Depending on your model, tilt the washer back or remove the rear panel to reach the tub and heater area where the sensor is mounted.'}
-3. {'step': '**Inspect the sensor connector and harness.** Unplug the thermistor connector and look for pulled terminals, broken wires, corrosion, or loose locking tabs that would cause an open circuit.'}
-4. {'step': '**Test the thermistor with a multimeter.** Let the sensor stabilize near room temperature, set your meter to resistance, and measure across the two terminals. At 68°F (20°C) expect approximately 66 kΩ, and at 86°F (30°C) approximately 37 kΩ. Resistance should drop smoothly as the sensor warms.'}
-5. {'step': '**Replace the sensor if out of range.** If resistance is infinite, zero, or does not match the published table, install a new temperature sensor assembly and reconnect the harness.'}
-6. {'step': '**Repair the harness if the sensor tests good.** Re-pin damaged terminals, splice broken wires, or replace the harness section between the sensor and control board as needed.'}
-7. {'step': '**Reassemble and test.** Restore water and power, run a warm or hot wash cycle, and verify the tE code does not return and the washer heats normally.'}
+1. **Unplug the washer** and leave it unplugged for at least one minute to clear any transient fault in the control memory.
+2. **Access the thermistor location** by removing the rear panel (front-load) or the cabinet top and front (top-load), depending on your model, to reach the lower sump or heater area where the sensor mounts.
+3. **Inspect the sensor connector** for looseness, corrosion, water intrusion, or heat damage, and check the harness along its path for pinched, chafed, or broken wires.
+4. **Disconnect the thermistor plug** and use a multimeter set to resistance (Ω) to measure across the sensor terminals at room temperature, looking for a reading in the 35–70 kΩ range (exact spec varies by model, typical room-temp values are around 54 kΩ at 76 °F or 66 kΩ at 68 °F).
+5. **Warm the sensor body** gently in your hand or with a heat gun on low and confirm that resistance drops smoothly as temperature rises (NTC thermistor behavior), if the reading is open (OL), zero, or does not change, replace the sensor.
+6. **Test harness continuity** from the sensor-side pins to the control board connector if the sensor tested good, looking for an open or intermittent wire.
+7. **Replace the thermistor** if resistance is out of range or non-responsive, or replace the main control board only after confirming the sensor and wiring are intact and the error persists.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Temperature sensor / thermistor assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-te-error-code&k=Temperature+sensor+%2F+thermistor+assembly&tag=errorcodefixes-20) \| Common Samsung part number DC90-10128N. Verify compatibility with your model before ordering. |
-| Wire harness connector or repair kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-te-error-code&k=Wire+harness+connector+or+repair+kit&tag=errorcodefixes-20) \| Use if the sensor tests good but terminals are corroded or pulled. Match the plug style and pin count. |
+| Samsung washer thermistor / temperature sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-te-error-code&k=Samsung+washer+thermistor+%2F+temperature+sensor&tag=errorcodefixes-20) \| NTC sensor, usually a two-wire probe mounted in the sump or on the heater assembly. Verify part number for your model. |
+| Sensor wiring harness or connector pigtail | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-te-error-code&k=Sensor+wiring+harness+or+connector+pigtail&tag=errorcodefixes-20) \| If the wires are broken near the plug or the connector housing is melted. |
+| Main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-te-error-code&k=Main+control+board&tag=errorcodefixes-20) \| Only if the sensor and harness test correctly but the tE code remains. Confirm all other causes first. |
 
 ## When to Call a Pro
 
-Call a technician if you are uncomfortable working with a multimeter, cannot safely access the sensor area, or if the sensor and harness both test within specification yet the code persists. Persistent faults after parts replacement usually point to a control board input issue that requires board-level diagnosis or replacement. Professional service also makes sense if your washer is still under warranty or if you lack the tools to verify resistance curves accurately.
+Call a pro if you are uncomfortable working inside the washer cabinet, if the thermistor and harness both test good but the error persists (pointing to a board-level fault), or if the sensor is buried under the drum or sealed into a heater assembly that requires disassembly of the tub. A technician has the model-specific resistance tables, the correct replacement sensor part number, and the tools to trace intermittent wiring faults quickly. If the washer is still under warranty or a service plan, use it before opening panels yourself.
+
+**Rough cost:** DIY runs about $15–50 in parts, 30–60 min. A pro service call runs about $150–250.

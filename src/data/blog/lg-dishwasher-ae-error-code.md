@@ -1,60 +1,76 @@
 ---
 title: "LG Dishwasher AE Error Code - Causes & Fix"
-description: "AE means the float switch detected water in the base pan. Check for leaks, level the unit, inspect the door gasket, and reset."
-pubDatetime: 2026-05-31T00:06:55Z
-modDatetime: 2026-05-31T00:06:55Z
-author: "Marcus Webb"
+description: "AE means water in the base pan triggered the leak sensor. Most often caused by a dirty door gasket. Dry the pan and find the leak source."
+pubDatetime: 2026-06-08T03:25:25Z
+modDatetime: 2026-06-08T03:25:25Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dishwasher
   - lg
+most_likely_cause: "Door gasket contamination or damage"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## LG Dishwasher AE Error Code — What It Means
 
-The AE error (sometimes displayed as AE/E1 on certain models) means your LG dishwasher has detected water or moisture in the base leak pan beneath the tub. A float switch in the pan trips when water accumulates and signals the control board to halt operation as a safety measure. This code does not always mean a catastrophic leak. Water can collect in the base from splashing, condensation, an unlevel installation, or a genuine leak from a hose, pump seal, or tub component. The dishwasher will not run normally until the water is removed and the underlying cause is corrected.
+The AE code (also grouped with E1 by LG) means your dishwasher has detected water or moisture in the base pan at the bottom of the unit. This trips the float switch or leak protection system, which then stops normal operation to prevent flooding. The code is not a single-component failure but a protection response telling you water is pooling where it should not be.
+
+The dishwasher will not resume normal cycles until you locate and correct the internal leak source and dry out the base pan completely. Common sources include door gasket contamination, a dishwasher that is not level, oversudsing from the wrong detergent, or loose hoses and fittings inside the unit.
+
+## Before You Replace Anything
+
+Many people order a new float switch or base-pan sensor first. Before replacing any parts, always dry the base pan completely and inspect the door gasket and leveling, which solve most AE codes without new parts.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Dishwasher not level** If the unit sits unevenly, water can pool in the wrong areas and eventually drip into the base pan, tripping the float switch.
-- **Dirty or damaged door gasket** A gasket clogged with food debris or torn can allow water to escape the tub and run down into the base.
-- **Clogged or damaged spray arms** Blocked spray jets or cracked arms can redirect water forcefully enough to splash over the tub edge and into the pan.
-- **Drain hose leak or restriction** A split, loose, or kinked drain hose can cause water to leak into the base or back up during drainage.
-- **Internal leak from pump or tub plumbing** Worn pump seals, cracked hoses, or loose fittings inside the cabinet can release water directly into the base pan.
-- **Excess suds from incorrect detergent** Using too much detergent or the wrong type can create foam that overflows the tub and drips into the base.
+- **Door gasket contamination or damage (~35%)** Food debris, grease buildup, tears, or warping on the door seal allow water to seep past the door and into the base pan below.
+- **Dishwasher not level (~25%)** If the unit tilts forward or to one side, water pools and leaks toward the lower corner, eventually reaching the base pan and tripping the float switch.
+- **Oversuds from detergent misuse (~20%)** Using regular dish soap, too much detergent, or excess rinse aid creates foam that migrates into the base pan and triggers the leak sensor.
+- **Loose or leaking hoses and clamps (~10%)** Inlet hoses, drain hoses, or internal circulation hose clamps that are loose or cracked drip water into the base over time.
+- **Inlet valve or sump seal leakage (~10%)** A worn inlet valve or a failing sump pump seal allows slow internal drips that accumulate in the base pan.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Is there visible water pooling in the base pan under the dishwasher (remove the toe-kick panel to check)?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The leak is active. Dry the pan with towels, then inspect the door gasket, hoses, and leveling before running another cycle.<br><strong>No:</strong> The pan may have already evaporated or the code is stored from an earlier event. Clear the code and run a test cycle to see if it returns.</div>
+</details>
+
+<details class="dtree"><summary>Does the door gasket have visible food debris, grease, or tears along its edges?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Clean the gasket thoroughly with warm soapy water or replace it if torn. Retest after drying the base pan.<br><strong>No:</strong> Check that the dishwasher is level in all directions and inspect internal hoses and the inlet valve for drips.</div>
+</details>
+
+<details class="dtree"><summary>Did you use regular dish soap or notice excessive suds during the last cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Oversuds is the likely cause. Run an empty rinse cycle to clear foam, dry the base pan, and use only dishwasher-specific detergent going forward.<br><strong>No:</strong> The leak is mechanical. Inspect hoses, clamps, the inlet valve, and sump area for slow drips or dampness.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Disconnect power** at the breaker or unplug the dishwasher before starting any inspection.
-2. **Remove the toe-kick panel** at the bottom front of the unit and look inside the base pan for standing water, dampness, or residue.
-3. **Remove all water** from the base pan using towels, a sponge, or a wet-dry vacuum, then dry the pan completely.
-4. **Check that the dishwasher is level** by placing a carpenter's level inside the empty tub front-to-back and side-to-side, then adjust the front and rear leveling feet until the tub sits evenly.
-5. **Inspect the door gasket** around the tub opening for food buildup, tears, or gaps, and clean it with a damp cloth or replace it if damaged.
-6. **Remove and inspect the spray arms** for clogs, cracks, or loose mounting, then clean all spray holes with a toothpick or small brush.
-7. **Examine the drain hose** from the dishwasher to the sink drain or disposal for kinks, splits, loose clamps, or blockages, and check the sink drain itself for restrictions.
-8. **Restore power** and reset the dishwasher by holding the Start or Cancel button for about five seconds, or power-cycle the unit by turning the breaker off and on.
-9. **Run a short test cycle** with no dishes and watch for leaks around the door, base, and drain connections, then confirm the AE code does not return.
+1. **Disconnect power and water.** Unplug the dishwasher or turn off its breaker, then close the water shut-off valve under the sink to make sure safe access to the base pan area.
+2. **Remove the toe-kick panel** at the front bottom of the dishwasher and inspect the base pan for standing water or dampness. Use towels or a wet-dry vacuum to dry the pan completely.
+3. **Check leveling.** Place a level on the floor of the tub (front-to-back and side-to-side) and verify equal gaps around the door when closed. Adjust the front leveling feet if the unit tilts in any direction.
+4. **Inspect the door gasket.** Look for food particles, grease film, tears, or warping along the entire perimeter. Clean the gasket and tub mating surface with warm soapy water. Replace the gasket if it is torn or no longer seals evenly.
+5. **Inspect hoses and clamps.** With the base pan exposed, check the inlet hose, drain hose, and any internal circulation hoses for loose clamps, cracks, or signs of dripping. Tighten or replace as needed.
+6. **Check for oversuds.** Confirm only dishwasher detergent is in use and reduce the amount if suds were visible. Run an empty rinse cycle if foam is present to clear residue.
+7. **Reassemble and test.** Restore power and water, run a short cycle, and monitor for water in the base pan. If the AE code returns, trace internal plumbing and the sump area for slow leaks you may have missed.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Door gasket / door seal | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dishwasher-ae-error-code&k=Door+gasket+%2F+door+seal&tag=errorcodefixes-20) \| Replace if torn, stiff, or unable to seal evenly around the tub opening. |
-| Float switch / leak detection switch | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dishwasher-ae-error-code&k=Float+switch+%2F+leak+detection+switch&tag=errorcodefixes-20) \| Located in the base pan. Replace if water is clear but the code persists after drying. |
-| Drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dishwasher-ae-error-code&k=Drain+hose&tag=errorcodefixes-20) \| Replace if split, cracked, or connections are leaking. |
-| Spray arm assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dishwasher-ae-error-code&k=Spray+arm+assembly&tag=errorcodefixes-20) \| Replace if cracked, warped, or cleaning does not restore proper spray pattern. |
+| LG Dishwasher Door Gasket | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dishwasher-ae-error-code&k=LG+Dishwasher+Door+Gasket&tag=errorcodefixes-20) \| Match your model number. Look for tears, warping, or poor seal contact. |
+| Dishwasher Inlet Valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dishwasher-ae-error-code&k=Dishwasher+Inlet+Valve&tag=errorcodefixes-20) \| Replace if you see dampness or mineral buildup around the valve body. |
+| Hose Clamps and Drain Hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dishwasher-ae-error-code&k=Hose+Clamps+and+Drain+Hose&tag=errorcodefixes-20) \| Generic stainless clamps or OEM drain hose if the existing hose is cracked or loose. |
 
 ## When to Call a Pro
 
-Call a professional if you have removed all water and corrected obvious issues but the AE code returns immediately, if you find water but cannot locate the leak source after inspecting hoses and gaskets, or if the leak appears to come from the circulation pump or internal tub plumbing that requires disassembly of the lower cabinet. A technician has the tools to pressure-test the tub, inspect sump seals, and replace pump components safely. Also call if you are uncomfortable working around water and electricity or if your dishwasher is still under warranty.
+Call a technician if you cannot safely access the base pan area, if the leak source is not obvious after inspecting the door gasket and hoses, or if the AE code returns immediately after you dry the pan and reassemble the unit. A pro can trace internal plumbing, inspect the sump and pump seals, and perform pressure tests that are difficult without specialized tools. Also call for help if you are not comfortable working around electrical connections or water supply lines in a confined space.
 
-## See Also
-
-- [LG Microwave F11 Error Code - Causes & Fix](/posts/lg-microwave-f11-error-code/)
-- [LG Microwave F-3 Error - Causes & Fix](/posts/lg-microwave-f-3-error-code/)
-- [LG Washer UE Error Code - Causes & Fix](/posts/lg-washer-ue-error-code/)
-- [LG Range F4 Error Code - Causes & Fix](/posts/lg-range-f4-error-code/)
+**Rough cost:** DIY runs about $15-50 in parts (gasket or hose clamp), 30-90 min. A pro service call runs about $150-300 for diagnosis and repair.

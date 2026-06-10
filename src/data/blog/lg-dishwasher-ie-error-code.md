@@ -1,55 +1,76 @@
 ---
 title: "LG Dishwasher IE Error Code - Causes & Fix"
-description: "IE means not enough water entered within the expected fill time. Most often caused by a closed valve, kinked hose, or clogged inlet filter."
-pubDatetime: 2026-05-30T23:57:46Z
-modDatetime: 2026-05-30T23:57:46Z
-author: "James Rutherford"
+description: "IE means the dishwasher did not fill with enough water within 30 seconds to 10 minutes. Check the water shutoff valve under the sink first."
+pubDatetime: 2026-06-08T03:28:00Z
+modDatetime: 2026-06-08T03:28:00Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dishwasher
   - lg
+most_likely_cause: "Water supply valve under the sink is not fully open or house water supply is restricted"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## LG Dishwasher IE Error Code — What It Means
 
-The IE error code on your LG dishwasher signals that the machine did not reach the required water level within the expected fill time, usually within 30 seconds to 10 minutes depending on the model. LG describes this as insufficient water or no water fill. The dishwasher is detecting low or absent water intake, not a drain problem or generic electronic fault.
+The LG dishwasher IE error code indicates insufficient water intake. The dishwasher has not reached the required water level within the fill window, typically appearing after about 30 seconds to 10 minutes depending on your model. This is a water supply or inlet problem, not a drain issue.
+
+In practice, the dishwasher is either not filling fast enough or not filling at all. The fault lies on the water supply side: the machine is calling for water but not receiving it at the rate or volume needed to satisfy the fill sensor.
+
+## Before You Replace Anything
+
+Many people replace the water inlet valve assuming it has failed, when the real problem is a clogged inlet screen or a shutoff valve under the sink that is only partially open. Clean the inlet filter and confirm the supply valve is fully open before ordering a new valve.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **House water supply valve closed or only partially open** The under-sink shutoff valve may be turned off, partially closed, or restricted, preventing adequate water from reaching the dishwasher.
-- **Low household water pressure** LG requires household water pressure above 20 PSI for proper operation, and anything below that can trigger the IE code.
-- **Kinked, pinched, bent, or damaged inlet hose** The inlet hose can be crushed behind the unit, kinked at a tight bend, or frozen in cold conditions, blocking water flow.
-- **Clogged inlet filter or inlet screen** Sediment and debris accumulate on the inlet screen at the water connection or inlet valve, restricting flow into the dishwasher.
-- **Faulty water inlet valve** The inlet valve solenoid may fail to open or pass enough water even when supply pressure and screens are correct.
+- **Water supply valve not fully open (~30%)** The shutoff valve under the sink is only partially turned on, restricting flow to the dishwasher.
+- **Inlet filter or screen clogged (~25%)** Sediment, rust, or debris has accumulated in the small mesh screen where the supply hose connects to the dishwasher, choking off water flow.
+- **Inlet hose kinked or pinched (~20%)** The supply hose is bent, crushed, frozen, or torn somewhere along its path, preventing water from reaching the valve.
+- **Water inlet valve faulty (~15%)** The solenoid valve that controls water entry is stuck closed, electrically open, or mechanically jammed and will not open when commanded.
+- **House water pressure too low (~10%)** LG requires above 20 PSI for proper operation, and pressure below that threshold will trigger the IE code even if all parts are working.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Is the shutoff valve under the sink fully open (handle parallel to the pipe)?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The supply valve is open. Move on to check the inlet hose and filter.<br><strong>No:</strong> Turn the valve fully open (counterclockwise until it stops), then run a cycle to see if the error clears.</div>
+</details>
+
+<details class="dtree"><summary>Does a nearby sink faucet deliver strong water flow?</summary>
+<div class="dtree-body"><strong>Yes:</strong> House pressure is likely adequate. Focus on the dishwasher inlet path (hose, filter, valve).<br><strong>No:</strong> Low house pressure or a main supply problem is starving the dishwasher. Contact a plumber or your water utility.</div>
+</details>
+
+<details class="dtree"><summary>Can you see or feel debris in the inlet screen where the hose attaches to the dishwasher?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Remove and clean the screen, then test. A clogged filter is a very common cause.<br><strong>No:</strong> The filter is clear. Test the inlet valve electrically and mechanically, or call a technician.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Power down safely.** Unplug the dishwasher or switch off the circuit breaker before beginning any inspection or repair work.
-2. **Check the water supply at the source.** Confirm the under-sink shutoff valve is fully open and that nearby faucets have normal flow to rule out a house-supply issue.
-3. **Inspect the inlet hose path.** Trace the hose from the valve to the dishwasher, looking for kinks, pinches, bends, crushing, or freezing, and straighten or replace the hose if damaged.
-4. **Remove and clean the inlet screen.** Disconnect the water supply line at the dishwasher and remove the inlet screen or screened elbow, then rinse away any sediment or debris.
-5. **Test the inlet valve.** If supply pressure is good and screens are clean but the dishwasher still will not fill, the water inlet valve is the likely failed component and should be replaced.
-6. **Reassemble and restore power.** Reconnect all fittings securely, turn the water back on, restore electrical power, and run a fill test cycle to confirm normal water intake and no return of the IE code.
+1. **Turn off power** at the circuit breaker or unplug the dishwasher before beginning any service work.
+2. **Verify house water supply** by running a nearby faucet at full flow to confirm adequate pressure and volume are available.
+3. **Check the shutoff valve** under the sink and turn it fully counterclockwise until it stops to make sure it is completely open.
+4. **Inspect the inlet hose** along its entire length for kinks, pinching, crushing, freezing, or visible damage, and straighten or replace as needed.
+5. **Remove and clean the inlet filter** at the point where the supply hose connects to the dishwasher, rinsing away any sediment, rust, or debris.
+6. **Test the water inlet valve** by listening for a click or hum when the dishwasher calls for water, or use a multimeter to verify the solenoid coil is receiving voltage and has continuity, then replace the valve if it does not open reliably.
+7. **Restore power and run a fill test** to confirm the dishwasher fills to the correct level without re-triggering the IE code.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| LG dishwasher water inlet valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dishwasher-ie-error-code&k=LG+dishwasher+water+inlet+valve&tag=errorcodefixes-20) \| Primary replaceable part when supply, hose, and screens are verified good but fill remains slow or absent. |
-| Dishwasher inlet hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dishwasher-ie-error-code&k=Dishwasher+inlet+hose&tag=errorcodefixes-20) \| Replace if kinked, pinched, torn, frozen, or otherwise no longer serviceable. |
-| Inlet screen or filter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dishwasher-ie-error-code&k=Inlet+screen+or+filter&tag=errorcodefixes-20) \| Replace if the screen is physically damaged or cannot be cleaned adequately. |
+| LG dishwasher water inlet valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dishwasher-ie-error-code&k=LG+dishwasher+water+inlet+valve&tag=errorcodefixes-20) \| Match your model number. The valve assembly includes the solenoid coil and inlet port. |
+| Dishwasher inlet hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dishwasher-ie-error-code&k=Dishwasher+inlet+hose&tag=errorcodefixes-20) \| Standard 3/8-inch or 5/8-inch compression fitting. Buy the correct length and connector type for your installation. |
+| Inlet screen filter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dishwasher-ie-error-code&k=Inlet+screen+filter&tag=errorcodefixes-20) \| Often built into the valve or hose fitting. Some models use a separate serviceable screen. |
 
 ## When to Call a Pro
 
-If you have verified the water supply is fully open, the hose is clear, and the inlet screen is clean but the IE code persists, the inlet valve itself has likely failed and will need replacement. A qualified appliance technician can safely test the valve electrically, confirm proper installation of a new valve, and check for less common issues such as damaged wiring harnesses or control-board faults. Call a pro if you are not comfortable working with water connections under pressure or if the error returns after you have completed all basic checks.
+Call a professional if you have confirmed the shutoff valve is open, the hose is clear, and the inlet filter is clean, yet the error persists. A technician can measure house water pressure with a gauge to verify it meets LG's 20 PSI minimum, test the inlet valve under load, and check for wiring faults or control-board issues that prevent the valve from energizing. Also call a pro if you are uncomfortable working around water connections, if the valve is hard to reach, or if you suspect a broader plumbing problem affecting water pressure throughout your home.
 
-## See Also
-
-- [LG Mini-Split CH26 Error Code — CT Sensor Fault](/posts/lg-mini-split-ch26-error-code/)
-- [LG Refrigerator C1 Error Code - Causes & Fix](/posts/lg-refrigerator-c1-error-code/)
-- [LG Mini Split CH93 Error Code - Causes & Fix](/posts/lg-mini-split-ch93-error-code/)
-- [LG Dishwasher bE Error Code - Causes & Fix](/posts/lg-dishwasher-be-error-code/)
+**Rough cost:** DIY runs about $25–70 in parts, 30–90 min. A pro service call runs about $150–280.

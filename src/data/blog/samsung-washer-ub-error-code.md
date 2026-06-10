@@ -1,49 +1,77 @@
 ---
 title: "Samsung Washer UB Error Code - Causes & Fix"
-description: "UB means unbalanced load. The drum can't spin safely because laundry is bunched up. Redistribute the load evenly and restart the cycle."
-pubDatetime: 2026-05-31T02:01:06Z
-modDatetime: 2026-05-31T02:01:06Z
-author: "Marcus Webb"
+description: "UB means unbalanced load. The drum is weighted to one side during spin. Pause, untangle and redistribute laundry, then restart."
+pubDatetime: 2026-06-08T03:24:39Z
+modDatetime: 2026-06-08T03:24:39Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - washer
   - samsung
+most_likely_cause: "laundry clumped to one side of the drum"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Samsung Washer UB Error Code — What It Means
 
-The UB error (sometimes displayed as U6 or 1U6) means your Samsung washer has detected an unbalanced load. The laundry inside the drum is distributed unevenly, so the machine cannot spin safely at high speed. You may also see Ur, which is an unbalanced load retry condition tied to the same issue. The washer stops the cycle to protect itself and your floor from excessive vibration or damage. In most cases, the problem is simply how the clothes are arranged or how much you loaded, not a mechanical fault.
+A UB code (and the related Ur code) on a Samsung washer indicates an unbalanced load inside the drum. The washer has detected that laundry is clumped to one side and has paused or is retrying the spin cycle to avoid excessive vibration or damage. Samsung's support page lists this as "Unbalanced Load Error." The Ur variant means the machine is attempting to add water, rebalance the load, and retry the spin automatically.
+
+The code usually appears during the spin phase when wet laundry settles unevenly. It is a protective feature, not a component failure. If the code appears once and clears after you redistribute the load, the washer is working correctly. Repeated UB codes on properly sized, balanced loads point to a mechanical issue in the suspension system.
+
+## Before You Replace Anything
+
+Homeowners sometimes replace the control board or main PCB thinking the sensor is faulty. First check that the washer is level (use a bubble level on top of the cabinet) and that the load is balanced and not overloaded, which resolves most UB codes at no cost.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Laundry bunched or tangled together** Wet items clump in one area of the drum during agitation and throw off the spin balance.
-- **Overloading the washer** Too many items, especially heavy or bulky loads like comforters, blankets, towels, rugs, or coats, prevent even distribution.
-- **Mixed heavy and light items** Combining towels with delicates or other uneven weights causes the load to shift unevenly during spin.
-- **Washer not level** If the cabinet rocks or sits unevenly on the floor, even a balanced load will trigger the error.
-- **Worn suspension components** If UB returns on normal loads, shocks, dampers, springs, or other tub support parts may be damaged or worn out.
+- **Clumped or tangled laundry (~50%)** Wet clothes bunch to one side of the drum, especially sheets, towels, or items that twist together during agitation.
+- **Mixed heavy and light items (~20%)** A single heavy towel or pair of jeans loads down one side while lighter garments float to the other, creating imbalance during spin.
+- **Overloading (~15%)** Too many items prevent the drum from redistributing laundry evenly, so weight stays concentrated in one area.
+- **Washer not level (~10%)** If the cabinet rocks or one foot is too high, the drum tilts and cannot balance even small loads correctly.
+- **Worn suspension rods or shock absorbers (~4%)** Damaged or weak dampers no longer stabilize the drum, causing repeated UB codes on balanced loads.
+- **Weak or broken springs (~1%)** Suspension springs lose tension or snap, allowing the drum to tilt or shift during spin.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the error clear when you pause, untangle the laundry, and restart the cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The load was unbalanced. Continue using the washer and avoid overloading or washing single heavy items alone.<br><strong>No:</strong> Proceed to check whether the washer cabinet is level and stable on all four feet.</div>
+</details>
+
+<details class="dtree"><summary>Does the washer rock or wobble when you push down on opposite corners of the top?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The machine is not level. Adjust the leveling legs until all four feet contact the floor firmly and the cabinet does not move.<br><strong>No:</strong> The cabinet is stable. The UB code is likely caused by a mechanical suspension problem such as worn shocks or springs.</div>
+</details>
+
+<details class="dtree"><summary>Does the UB code appear even with a small, properly balanced load after leveling the washer?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Inspect or replace the suspension rods, shock absorbers, and springs. If you are not comfortable disassembly, call a technician.<br><strong>No:</strong> The washer is working correctly. Load size and distribution were the issue.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Stop the cycle and open the washer.** Pull out the laundry and untangle any clumped or twisted items, then spread them evenly around the drum.
-2. **Remove some items if overloaded.** Cut the load size by a third, especially if washing bulky or heavy articles, and run those items in a separate cycle.
-3. **Check that the washer is level.** Rock the cabinet gently from corner to corner. If it moves, adjust the leveling legs or feet until the machine sits flat and stable on the floor.
-4. **Power-cycle the washer.** Unplug the machine or turn off the circuit breaker for 60 seconds, then restore power. Samsung also recommends touching every button on the control panel once to complete the reset.
-5. **Restart the cycle.** Close the door and run a spin or drain-and-spin cycle to confirm the load now spins without error.
-6. **Inspect suspension hardware if UB persists.** With power off, tilt or open the cabinet and check shock absorbers, dampers, suspension springs, and tub support brackets for damage, looseness, or loss of damping.
-7. **Replace failed suspension parts.** Install new shocks, springs, or support components as needed, then test the washer with a balanced load to verify the repair.
+1. **Pause the cycle** by pressing Start/Pause or opening the door (if your model allows mid-cycle access).
+2. **Open the door** and inspect the load. Pull apart any tangled or clumped items, such as sheets wrapped around other garments.
+3. **Redistribute the laundry** evenly around the drum. Remove a few items if the load is packed tightly or very heavy.
+4. **Close the door** and press Start to resume or restart the cycle. Samsung instructs restarting after rebalancing the load.
+5. **Check the washer's level** if the code returns. Place a bubble level on top of the cabinet front-to-back and side-to-side. Adjust the leveling legs by turning them clockwise to raise or counterclockwise to lower until the washer is stable and does not rock.
+6. **Inspect the suspension system** if UB appears repeatedly on balanced loads. Unplug the washer, remove the front or rear access panel (consult your service manual), and check the shock absorbers or suspension rods for leaks, cracks, or loose mounting. Check the springs for breaks or loss of tension.
+7. **Replace worn suspension components** as needed. Suspension rods, shocks, and springs are sold as service parts. Install new parts in the same orientation and torque fasteners to the values in your model's service manual. Run a test spin cycle with a small balanced load to verify the repair.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Shock absorber / damper kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-ub-error-code&k=Shock+absorber+%2F+damper+kit&tag=errorcodefixes-20) \| Replace if the tub oscillates excessively or you see fluid leaks or broken mounts. |
-| Suspension springs or straps | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-ub-error-code&k=Suspension+springs+or+straps&tag=errorcodefixes-20) \| Order the set that matches your model if springs are stretched, broken, or detached. |
-| Leveling legs / adjustable feet | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-ub-error-code&k=Leveling+legs+%2F+adjustable+feet&tag=errorcodefixes-20) \| Replace if threads are stripped or the leg will not hold the cabinet stable. |
+| Suspension rod kit (Samsung washer) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-ub-error-code&k=Suspension+rod+kit+%28Samsung+washer%29&tag=errorcodefixes-20) \| Replaces worn dampers or rods that no longer stabilize the drum. Verify your model number before ordering. |
+| Shock absorber / damper (Samsung washer) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-ub-error-code&k=Shock+absorber+%2F+damper+%28Samsung+washer%29&tag=errorcodefixes-20) \| For models using hydraulic shocks instead of friction rods. Check for oil leaks or binding. |
+| Suspension spring set (Samsung washer) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-ub-error-code&k=Suspension+spring+set+%28Samsung+washer%29&tag=errorcodefixes-20) \| Restores drum support if springs are broken or stretched. Most washers use four springs. |
 
 ## When to Call a Pro
 
-Call a pro if the UB code returns repeatedly on small, balanced loads even after you have leveled the washer and reset the controls. Persistent errors usually mean internal suspension or tub support parts have failed, and diagnosing which components are worn requires disassembly and inspection. A qualified appliance technician can test shock absorbers, springs, and related hardware, then replace only the parts that have lost function. Also call for help if you are not comfortable tilting or opening the cabinet, or if the washer is still under warranty.
+Call a professional if the UB code persists after you have redistributed the load, verified the washer is level, and inspected accessible suspension parts. A technician can safely disassemble the cabinet, test the suspension rods and springs under load, check counterbalance weights for cracks or loose bolts, and rule out control-board or sensor issues. Also call if the door will not unlock after a UB code, if you hear grinding or banging noises during spin, or if you are uncomfortable working inside the washer cabinet. Samsung also recommends service if you suspect a stuck or damaged control-panel button is triggering false codes.
+
+**Rough cost:** DIY runs about $0 for load rebalancing, $40–120 for suspension rods or springs if replacement needed, 30–90 min. A pro service call runs about $150–300 for suspension system repair or leveling service.
