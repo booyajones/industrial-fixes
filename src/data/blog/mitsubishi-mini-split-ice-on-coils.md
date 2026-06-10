@@ -70,3 +70,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you suspect low refrigerant, find signs of a refrigerant leak, or if the coil continues to freeze after cleaning filters and airflow paths. Refrigerant work requires recovery, evacuation, and charging by weight per nameplate specifications. A pro should also diagnose any thermistor, wiring, or control board fault, especially if resistance readings are abnormal or the unit shows a P6 or other sensor-related code. If airflow is strong and filters are clean but ice returns, the problem is likely refrigerant or electronic and requires professional tools and service manual data.
+
+## See Also
+
+- [Mitsubishi F0007 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-f0007-error-code/)
+- [Mitsubishi U6 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-u6-error-code/)
+- [Mitsubishi MSZ-GL12NA Problems & Error Codes](/posts/mitsubishi-msz-gl12na-ductless-mini-split-air-conditioner-problems/)
+- [Mitsubishi Mini Split P4 Error - Causes & Fix](/posts/mitsubishi-mini-split-p4-error-code/)

@@ -69,3 +69,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician if the breaker trips repeatedly, if a flashing operation lamp persists after a 20-minute power reset, or if you retrieve an error code you cannot clear with basic checks. Daikin instructs that persistent faults require component-level diagnosis, and working inside a mini split involves live line voltage, refrigerant circuits, and sealed control boards that need proper tools and training.
+
+## See Also
+
+- [Daikin E5 Error Code - Causes & Fix](/posts/daikin-heat-pump-e5-error-code/)
+- [Daikin U2 Error Code - Causes & Fix](/posts/daikin-heat-pump-u2-error-code/)
+- [Daikin E1 Error Code Fix — Indoor Sensor Fault](/posts/daikin-e1-error-code/)
+- [Daikin U9 Error Code — Causes & Fix](/posts/daikin-u9-error-code/)

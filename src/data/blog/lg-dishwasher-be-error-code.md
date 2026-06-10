@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified appliance technician if the bE code persists after you have confirmed correct detergent type, cleared all foam with the milk procedure, leveled the dishwasher, and reduced detergent quantity. A technician will inspect for installation issues that may contribute to suds behavior or leakage risk and verify that no deeper mechanical or electronic fault is present. Professional service is also warranted if you are uncomfortable adjusting leveling feet or if the dishwasher shows signs of leakage or other error codes in addition to bE.
 
 **Rough cost:** DIY runs about $0-15 (detergent correction), 1-2 hours to clear foam. A pro service call runs about $100-200 service call if installation leveling is required.
+
+## See Also
+
+- [LG Refrigerator Not Making Ice - Causes & Fix](/posts/lg-refrigerator-not-making-ice/)
+- [LG Washer Won't Drain - Causes & Fix](/posts/lg-washer-wont-drain/)
+- [LG Oven F7 Error Code - Causes & Fix](/posts/lg-oven-f7-error-code/)
+- [LG Washer dE Error Code - Causes & Fix](/posts/lg-washer-de-error-code/)

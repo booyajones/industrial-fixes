@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a professional if you cannot locate the leak source after drying the base and inspecting the door seal, hoses, and clamps. A technician can pressure-test the sump, check the inlet valve electronically, and access internal seals that require cabinet disassembly. Also call for service if the E1 code returns within one or two cycles after you have dried the base and completed basic repairs, because a hidden crack in the tub or a faulty float-switch assembly will need diagnostic tools and OEM parts to resolve safely.
 
 **Rough cost:** DIY runs about $15–50 in parts (gasket or clamps), 1–2 hours plus dry time. A pro service call runs about $150–300 depending on the leak source and parts.
+
+## See Also
+
+- [LG Refrigerator Error ER RF — Evap Fan Motor Fix](/posts/lg-refrigerator-error-er-rf/)
+- [LG Oven F17 Error Code - Causes & Fix](/posts/lg-oven-f17-error-code/)
+- [LG Range F6 Error Code - Causes & Fix](/posts/lg-range-f6-error-code/)
+- [LG Washer OE Error Code - Causes & Fix](/posts/lg-washer-oe-error-code/)

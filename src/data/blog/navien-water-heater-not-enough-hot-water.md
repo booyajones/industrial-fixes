@@ -53,3 +53,10 @@ The flow sensor must spin freely to signal the unit to begin heating. If debris 
 ## When to Call a Pro
 
 Call a licensed contractor, the original installer, or a Navien Service Specialist if you are not comfortable disassembling internal components, if cleaning the flow sensor and inlet filter does not restore hot water, or if the issue involves gas supply, ignition, burner operation, or control board diagnostics. Gas and combustion work requires proper tools, safety procedures, and training. Navien recommends professional service for any condition that persists after exercising the pressure relief valve and checking for obvious blockages. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Navien E021 Error Code - Causes & Fix](/posts/navien-tankless-e021-error-code/)
+- [Navien E012 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e012-error-code/)
+- [Navien E782 Error Code - Causes & Fix](/posts/navien-tankless-water-heater-e782-error-code/)
+- [Navien Tankless Igniter/Flame Rod Replacement - Signs & How-To](/posts/navien-water-heater-igniter-ignition-electrode-tankless-replacement/)

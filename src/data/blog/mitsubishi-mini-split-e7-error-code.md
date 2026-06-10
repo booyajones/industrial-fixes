@@ -47,3 +47,10 @@ The E7 error code on Mitsubishi Electric Mr. Slim and mini-split systems is an i
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working inside 240V equipment or if the error returns after you have verified all wiring connections. Communication errors can also indicate refrigerant circuit problems or system configuration issues that require leak detection, pressure testing, and software setup tools. Mitsubishi advises stopping use and contacting service if the error remains after basic troubleshooting. A qualified technician has the diagnostic tools to test board voltages, measure communication signals, and access service menus to pinpoint whether the fault is in the indoor unit, outdoor unit, or the connecting circuit.
+
+## See Also
+
+- [Mitsubishi FR Series VFD Fault E6 — Causes & Fix](/posts/mitsubishi-fr-series-fault-e6/)
+- [Mitsubishi F0006 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-f0006-error-code/)
+- [Mitsubishi P5 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-p5-error-code/)
+- [Mitsubishi P1 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-p1-error-code/)

@@ -47,3 +47,10 @@ E5 on Mitsubishi Electric mini-splits is reported as a remote control transmissi
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with line voltage, if you do not have a multimeter and wiring diagram for your exact model, or if the error persists after checking all wiring and fuses. Communication faults require precise diagnosis to avoid misidentifying the failed component. A qualified technician has access to Mitsubishi-specific diagnostic tools, board-level testers, and model-specific service literature that homeowners typically do not. Replacing the wrong control board is expensive and will not solve the problem if the root cause is wiring or a terminal connection.
+
+## See Also
+
+- [Mitsubishi F0001 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-f0001-error-code/)
+- [Mitsubishi Mini Split E2 Error Code - Causes & Fix](/posts/mitsubishi-mini-split-e2-error-code/)
+- [Mitsubishi Mini Split Error Codes — Complete Guide](/posts/mitsubishi-mini-split-error-codes/)
+- [Mitsubishi Mini Split Won't Turn On - Causes & Fix](/posts/mitsubishi-mini-split-wont-turn-on/)

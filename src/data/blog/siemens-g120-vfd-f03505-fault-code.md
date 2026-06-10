@@ -48,3 +48,10 @@ F03505 on a Siemens SINAMICS G120 is a fault that means 'Analog input, wire brea
 ## When to Call a Pro
 
 Call a qualified drive technician or controls integrator if you have verified continuity and correct current in the external loop but the fault persists, if you are unsure how to safely measure live current loops or modify drive parameters, or if you suspect the control unit's analog input hardware is damaged. Also get professional help if your system uses complex multi-channel analog configurations or safety-rated signals where incorrect parameterization could create a hazard. Working inside an energized VFD cabinet requires electrical training and appropriate PPE.
+
+## See Also
+
+- [Siemens G120 F01611 - Causes & Fix](/posts/siemens-g120-f01611-fault-code/)
+- [Siemens G120 F01015 Fault - Causes & Fix](/posts/siemens-g120-vfd-f01015-fault-code/)
+- [Siemens G120 F01662 - Causes & Fix](/posts/siemens-g120-f01662-fault-code/)
+- [Siemens Micromaster F0060 - Causes & Fix](/posts/siemens-micromaster-f0060-fault-code/)

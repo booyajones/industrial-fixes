@@ -48,3 +48,10 @@ Siemens ties the exact cause to the fault value stored in parameter r0949. Commo
 ## When to Call a Pro
 
 Call a qualified technician or Siemens support if you cannot resolve the fault after verifying the password, resetting the safety state, and confirming hardware compatibility. Safety Integrated configuration requires knowledge of both the drive's safety architecture and the machine's safety logic, and incorrect changes can compromise personnel protection. If the fault persists after a power cycle and firmware update, or if you see repeated rejections with no clear cause in r0949, professional diagnostic support is needed to interpret the fault value and check for internal Control Unit issues that require replacement.
+
+## See Also
+
+- [Siemens Micromaster F0023 - Causes & Fix](/posts/siemens-micromaster-f0023-fault-code/)
+- [Siemens G120 VFD F01040 - Causes & Fix](/posts/siemens-g120-vfd-f01040-fault-code/)
+- [Siemens Micromaster F0020 - Causes & Fix](/posts/siemens-micromaster-f0020-fault-code/)
+- [Siemens G120 A03520 - Causes & Fix](/posts/siemens-g120-a03520-fault-code/)

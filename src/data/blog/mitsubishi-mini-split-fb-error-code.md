@@ -49,3 +49,10 @@ In the field, this code usually appears when the indoor control board has failed
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working inside the indoor unit or removing the controller board cover, or if the Fb code returns immediately after you restore power and you have confirmed all visible wiring is intact. Replacing the indoor PCB requires matching the exact board revision to your serial number, transferring DIP-switch settings or configuration jumpers, and sometimes re-pairing the indoor and outdoor units through a service menu. A technician will also verify that the outdoor unit is not sending a fault signal that mimics an indoor memory error, and will have the diagnostic tools to read detailed fault logs from the controller. If your system is still under warranty, contact Mitsubishi or your installing contractor before opening the unit, since self-service may void coverage on the control board.
+
+## See Also
+
+- [Mitsubishi Mini Split Ice on Coils - Causes & Fix](/posts/mitsubishi-mini-split-ice-on-coils/)
+- [Mitsubishi MSZ-FS12NA Problems & Error Codes](/posts/mitsubishi-msz-fs12na-ductless-mini-split-air-conditioner-problems/)
+- [Mitsubishi P3 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-p3-error-code/)
+- [Mitsubishi MSZ-FS09NA Problems & Error Codes](/posts/mitsubishi-msz-fs09na-ductless-mini-split-air-conditioner-problems/)

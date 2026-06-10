@@ -69,3 +69,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you see an error code you cannot clear, if the outdoor unit does not run during a heating call, or if you suspect low refrigerant or a refrigerant leak. Refrigerant work, four-way valve replacement, electrical diagnostics, and communication-fault troubleshooting require specialized tools, recovery equipment, and access to Daikin's model-specific service manuals and error-code charts. If the unit repeatedly enters defrost or shows ice buildup in mild weather, a technician should check refrigerant charge, airflow, and defrost-control settings.
+
+## See Also
+
+- [Daikin Mini Split Ice on Coils - Causes & Fix](/posts/daikin-mini-split-ice-on-coils/)
+- [Daikin VRV IV Fault Codes - Commercial System Diagnostic Guide](/posts/daikin-vrv-iv-fault-codes/)
+- [Daikin Fit Error Codes — Inverter Heat Pump Diagnostic Guide](/posts/daikin-fit-error-codes/)
+- [Daikin C4 Error Code - Causes & Fix](/posts/daikin-mini-split-c4-error-code/)

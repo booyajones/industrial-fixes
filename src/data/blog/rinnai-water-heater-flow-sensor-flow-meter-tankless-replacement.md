@@ -54,3 +54,10 @@ Common failure modes include corroded or loose wiring connectors, a sticking tur
 ## When to Call a Pro
 
 If you are uncomfortable working around natural gas or propane connections, call a licensed plumber or gas fitter to handle the shutoff and reconnection safely. If the new sensor does not resolve code 65 or the no-hot-water condition, the control board, wiring harness, or hydraulic crossover elsewhere in the system may be at fault and requires professional diagnostics. Tankless heaters also need annual descaling and combustion tuning, so consider scheduling service if your unit has not been maintained or if you see soot, odd flame color, or mineral scale during the repair. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rinnai Tankless Water Heater Flame Rod Replacement Guide](/posts/rinnai-water-heater-flame-rod-flame-sensor-tankless-replacement/)
+- [Rinnai CBU Combi Boiler Error Codes — Complete Fault Guide](/posts/rinnai-cbu-error-codes/)
+- [Rinnai Error Code 52 — Outlet Water Temperature Sensor Fault](/posts/rinnai-error-code-52/)
+- [Rinnai Water Heater No Hot Water - Causes & Fix](/posts/rinnai-water-heater-no-hot-water/)

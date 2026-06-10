@@ -59,3 +59,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a licensed technician if you are not comfortable working with electrical sensors or wiring, if the fault persists after sensor replacement and descaling, or if gas burner or combustion diagnostics are needed. Gas pressure testing, burner adjustment, and control board replacement require specialized tools and safety knowledge. Professional help is also recommended if you cannot safely measure outlet temperature or flow rate, or if the unit repeatedly trips the over-temperature fault without an obvious cause. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rheem RTEX Electric Tankless Water Heater Error Codes](/posts/rheem-rtex-electric-tankless-error-codes/)
+- [Rheem Water Heater Thermocouple Replacement - Signs & How-To](/posts/rheem-water-heater-thermocouple-gas-pilot-sensor-replacement/)
+- [Rheem Classic Series Furnace Error Codes — Complete Guide](/posts/rheem-classic-furnace-error-codes/)
+- [Rheem Water Heater Heating Element Replacement - Signs & How-To](/posts/rheem-water-heater-heating-element-electric-screw-in-flange-replacement/)

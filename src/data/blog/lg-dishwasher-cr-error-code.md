@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a technician if the CR code returns immediately after both a control-panel power-off and a full breaker reset, and you have confirmed that no buttons are visibly stuck and the ribbon cable is seated correctly. A pro can use LG's service software to verify whether the control board is locked in test mode due to internal firmware corruption or a failed input circuit. Also call if you are uncomfortable removing the dishwasher's inner door panel to inspect the wiring harness, or if you see any signs of water damage or corrosion inside the door that might require broader repairs beyond a simple reset.
 
 **Rough cost:** DIY runs about $0, 2-5 minutes (power reset only). A pro service call runs about $0-100 (most service calls will only perform a reset; control panel replacement if buttons are stuck runs $100-200 including labor).
+
+## See Also
+
+- [LG Oven Won't Turn On - Causes & Fix](/posts/lg-oven-wont-turn-on/)
+- [LG Refrigerator Door Gasket Replacement - Signs & How-To](/posts/lg-refrigerator-door-gasket-door-seal-replacement/)
+- [LG MVEL2033F Microwave Problems & Error Codes](/posts/lg-mvel2033f-microwave-problems/)
+- [LG Washer Won't Spin - Causes & Fix](/posts/lg-washer-wont-spin/)

@@ -49,3 +49,10 @@ In practical terms, the FC302 is responding to a deliberate external shutdown co
 ## When to Call a Pro
 
 Call a qualified electrician or automation technician if you cannot locate the open contact in the interlock chain, if the machine schematic is unavailable or unclear, or if the alarm persists after verifying all external wiring and contacts are correct. A technician with a schematic and multimeter can systematically trace the interlock circuit and identify which field device or wiring segment is opening the chain. Also call a professional if you suspect a control card fault, as drive control board diagnosis and replacement require familiarity with VFD parameter backup, proper handling of static-sensitive components, and verification of correct I/O configuration after card replacement.
+
+## See Also
+
+- [Danfoss FC302 Alarm 27 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-27-fault-code/)
+- [Danfoss FC302 Alarm 34 - Causes & Fix](/posts/danfoss-fc302-alarm-34-fault-code/)
+- [Danfoss FC302 Alarm 25 - Causes & Fix](/posts/danfoss-fc302-alarm-25-fault-code/)
+- [Danfoss FC302 Alarm 42 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-42-fault-code/)

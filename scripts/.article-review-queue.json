@@ -310,5 +310,107 @@
     "score": 3,
     "reason": "FAIL: E94 is not verified as a real GA800 fault code in the research; the draft extensively discusses Uv3 instead, which is a different code entirely\u2014publishing would misinform users searching for E94.",
     "date": "2026-06-09"
+  },
+  "yaskawa-ga800-vfd-e90-fault-code": {
+    "topic": "Yaskawa GA800 VFD E90 fault code",
+    "score": 3,
+    "reason": "Research explicitly states E90 code cannot be verified for GA800 from any source; draft invents speculative causes/fixes for an unconfirmed code, violating fundamental accuracy requirement.",
+    "date": "2026-06-10"
+  },
+  "yaskawa-ga800-vfd-e99-fault-code": {
+    "topic": "Yaskawa GA800 VFD E99 fault code",
+    "score": 3,
+    "reason": "The research explicitly states 'the provided sources do NOT include the exact GA800 fault-table entry for E99' and 'I can't responsibly claim a more specific manufacturer-defined meaning' \u2013 yet the draft presents E99 as a documented real code with specific causes and percentages, violating criterion #1 (code authenticity) and #2 (accuracy vs research).",
+    "date": "2026-06-10"
+  },
+  "yaskawa-ga800-vfd-a-100-fault-code": {
+    "topic": "Yaskawa GA800 VFD A.100 fault code",
+    "score": 3,
+    "reason": "Research explicitly states A.100 is NOT verifiable from provided Yaskawa GA800 sources and exact meaning cannot be confirmed, yet draft asserts it 'signals a software or parameter abnormality' as fact\u2014this is speculation contradicting the research's own caution against guessing.",
+    "date": "2026-06-10"
+  },
+  "yaskawa-ga800-vfd-a-102-fault-code": {
+    "topic": "Yaskawa GA800 VFD A.102 fault code",
+    "score": 4,
+    "reason": "Research explicitly states A.102 definition is NOT VISIBLE in supplied GA800 documentation and cannot verify precise meaning, yet draft presents specific 'internal control timeout' meaning as fact\u2014this is speculative content contradicting the research's honest uncertainty.",
+    "date": "2026-06-10"
+  },
+  "yaskawa-ga800-vfd-a-105-fault-code": {
+    "topic": "Yaskawa GA800 VFD A.105 fault code",
+    "score": 4,
+    "reason": "Research explicitly states 'I cannot state the exact one-line definition of A.105 from the provided search results because the actual GA800 alarm table entry was not surfaced' - the code existence is inferred but not documented in the research provided, failing verification standard #1.",
+    "date": "2026-06-10"
+  },
+  "yaskawa-ga800-vfd-a-106-fault-code": {
+    "topic": "Yaskawa GA800 VFD A.106 fault code",
+    "score": 3,
+    "reason": "The A.106 fault code is NOT verified to exist for the Yaskawa GA800 in the research provided; the draft acknowledges this but still publishes unverified causes and fixes, failing criterion #1.",
+    "date": "2026-06-10"
+  },
+  "yaskawa-ga800-vfd-a-108-fault-code": {
+    "topic": "Yaskawa GA800 VFD A.108 fault code",
+    "score": 3,
+    "reason": "Research explicitly states A.108 cannot be verified as a real GA800 code from manufacturer sources; draft invents probable causes without documented basis for this specific code.",
+    "date": "2026-06-10"
+  },
+  "yaskawa-ga800-vfd-a-109-fault-code": {
+    "topic": "Yaskawa GA800 VFD A.109 fault code",
+    "score": 3,
+    "reason": "Research explicitly states 'exact A.109 meaning is not clearly identified' and 'could not verify the exact Yaskawa-manufacturer definition of A.109' \u2014 the draft invents specific meaning/causes not confirmed for this exact code on this exact drive model.",
+    "date": "2026-06-10"
+  },
+  "yaskawa-ga800-vfd-a-110-fault-code": {
+    "topic": "Yaskawa GA800 VFD A.110 fault code",
+    "score": 4,
+    "reason": "Research confirms A.110 exists for GA800 but explicitly states 'the provided manuals do not spell out the alarm text in the search snippet' and 'treat the exact phrasing as a manufacturer-grounded identification, not a literal excerpt' \u2014 the specific meaning 'DriveData conflict/mismatch' is not documented in the research provided, making this unverifiable speculation presented as fact.",
+    "date": "2026-06-10"
+  },
+  "yaskawa-ga800-vfd-a-111-fault-code": {
+    "topic": "Yaskawa GA800 VFD A.111 fault code",
+    "score": 3,
+    "reason": "Research explicitly states A.111 code meaning cannot be verified from manufacturer documentation; draft invents 'output-phase or motor-connection issue' without source confirmation for this specific GA800 code.",
+    "date": "2026-06-10"
+  },
+  "yaskawa-ga800-vfd-a-113-fault-code": {
+    "topic": "Yaskawa GA800 VFD A.113 fault code",
+    "score": 2,
+    "reason": "A.113 is not confirmed as a real GA800 fault code in the research; the draft correctly refuses to invent a meaning but should not be published as an error-code repair guide for a non-existent code.",
+    "date": "2026-06-10"
+  },
+  "yaskawa-ga800-vfd-a-114-fault-code": {
+    "topic": "Yaskawa GA800 VFD A.114 fault code",
+    "score": 4,
+    "reason": "The research explicitly states 'the exact meaning needs to be verified' and 'do not include a manufacturer source that explicitly defines A.114' for the GA800\u2014the code is not confirmed real for this exact drive model, failing criterion #1.",
+    "date": "2026-06-10"
+  },
+  "yaskawa-ga800-vfd-a-115-fault-code": {
+    "topic": "Yaskawa GA800 VFD A.115 fault code",
+    "score": 4,
+    "reason": "Research explicitly states A.115 is NOT verified in available GA800 documentation and exact meaning cannot be confirmed; draft proceeds anyway with generic speculation rather than refusing to publish unverified content.",
+    "date": "2026-06-10"
+  },
+  "yaskawa-ga800-vfd-a-117-fault-code": {
+    "topic": "Yaskawa GA800 VFD A.117 fault code",
+    "score": 3,
+    "reason": "The research explicitly states 'I do NOT see any manufacturer-grounded resistance, voltage, or pressure specification tied specifically to A.117' and provides no direct GA800 manual confirmation that A.117 exists or means what the draft claims\u2014the draft invents detailed causes and percentages without documented support for this specific code on this specific drive.",
+    "date": "2026-06-10"
+  },
+  "yaskawa-ga800-vfd-a-118-fault-code": {
+    "topic": "Yaskawa GA800 VFD A.118 fault code",
+    "score": 3,
+    "reason": "Research explicitly states A.118 definition is NOT confirmed in available GA800 documentation; article invents generic troubleshooting for an unverified code, failing requirement #1 (code reality for this exact brand+model is not established).",
+    "date": "2026-06-10"
+  },
+  "yaskawa-ga800-vfd-a-119-fault-code": {
+    "topic": "Yaskawa GA800 VFD A.119 fault code",
+    "score": 3,
+    "reason": "The A.119 code for GA800 is not confirmed in the research provided; author explicitly states they could not verify the exact code or mnemonic, making this speculative content that fails criterion #1.",
+    "date": "2026-06-10"
+  },
+  "yaskawa-ga800-vfd-a-122-fault-code": {
+    "topic": "Yaskawa GA800 VFD A.122 fault code",
+    "score": 3,
+    "reason": "Research explicitly states 'the search results provided do NOT include a Yaskawa document that explicitly defines A.122 by name' \u2013 code authenticity not verified for GA800, making this speculative content built on closest interpretation rather than manufacturer documentation.",
+    "date": "2026-06-10"
   }
 }

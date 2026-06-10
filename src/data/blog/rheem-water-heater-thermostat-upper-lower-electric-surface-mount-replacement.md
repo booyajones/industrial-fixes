@@ -59,3 +59,10 @@ If this part is failing you may also see one of these codes:
 ## When to Call a Pro
 
 Call a licensed electrician or appliance tech if you are not comfortable working with 240 V or higher electrical systems, if you find burned wiring or corrosion inside the junction box, or if the heater continues to trip the high-limit or breaker after thermostat replacement. If the heating elements test grounded to the tank body or show abnormal resistance, both the element and thermostat may need replacement at the same time. A pro can also verify correct element wattage and voltage match, test for ground faults, and inspect for sediment or tank integrity issues that cause repeated thermostat failure. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rheem RGPS Furnace Error Codes — Flash Code Diagnostic Guide](/posts/rheem-rgps-error-codes/)
+- [Rheem Water Heater High-Limit Switch / ECO Replacement Guide](/posts/rheem-water-heater-high-limit-switch-eco-electric-reset-upper-thermostat-replacement/)
+- [Rheem Tankless Water Heater Flame Sensor Replacement Guide](/posts/rheem-water-heater-flame-rod-flame-sensor-tankless-replacement/)
+- [Rheem R96V Furnace Problems & Error Codes](/posts/rheem-r96v-furnace-gas-residential-problems/)

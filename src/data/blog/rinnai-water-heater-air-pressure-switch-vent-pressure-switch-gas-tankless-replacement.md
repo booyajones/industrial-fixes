@@ -53,3 +53,10 @@ The switch itself can fail from normal wear, debris in the pressure-sense tube, 
 ## When to Call a Pro
 
 Call a qualified gas-appliance technician if you are unfamiliar with combustion-air circuits, if the fan motor does not run at all, or if Code 10 persists after replacing the switch and inspecting the vents. Professionals have manometers to measure actual draft pressure, continuity testers for the wiring harness, and factory service bulletins for DIP-switch configuration and heat-exchanger inspection. Gas-fired tankless heaters also require proper vent termination, clearances, and combustion testing that are difficult to verify without training and tools. If you see soot, smell gas, or suspect a heat-exchanger crack, shut down the unit immediately and call for service. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rinnai RU199iN Water Heater Problems & Error Codes](/posts/rinnai-ru199in-water-heater-problems/)
+- [Rinnai Water Heater Leaking - Causes & Fix](/posts/rinnai-water-heater-leaking/)
+- [Rinnai Error Code 31 — Causes & Fix](/posts/rinnai-error-code-31/)
+- [Rinnai Water Heater Not Enough Hot Water - Causes & Fix](/posts/rinnai-water-heater-not-enough-hot-water/)

@@ -58,3 +58,10 @@ If this part is failing you may also see one of these codes:
 ## When to Call a Pro
 
 If you are not comfortable working around live gas connections, flammable vapors, or 120 V AC wiring, hire a licensed plumber or gas technician. Rheem's diagnostic procedure requires isolating the venting system (disconnecting PVC exhaust piping and running test cycles), checking blower operation, and verifying correct vent installation and sizing. All of those steps involve gas burner ignition, draft measurement, and combustion-safety knowledge. If the new pressure switch does not solve the fault, the real cause is usually blocked or incorrectly installed venting, a failed blower motor, a plugged sensing tube, or a control board issue. Any of those conditions require professional combustion analysis and vent-system inspection to prevent carbon monoxide hazards or repeat failures. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rheem RA13 Air Conditioner Error Codes — Fault Code Diagnostic Guide](/posts/rheem-ra13-error-codes/)
+- [Rheem Furnace 4 Flashes — Open High Temperature Limit Fix](/posts/rheem-furnace-4-flashes/)
+- [Rheem Furnace 7 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-7-flashes/)
+- [Rheem Classic Series Furnace Error Codes — Complete Guide](/posts/rheem-classic-furnace-error-codes/)
