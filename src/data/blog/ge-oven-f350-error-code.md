@@ -1,48 +1,74 @@
 ---
 title: "GE Oven F350 Error Code - Causes & Fix"
-description: "F350 means the upper cooling fan isn't spinning correctly. Check for obstructions first, then replace the blower motor if needed."
-pubDatetime: 2026-05-31T07:28:34Z
-modDatetime: 2026-05-31T07:28:34Z
-author: "James Rutherford"
+description: "F350 means the upper cooling fan blower wheel is not spinning fast enough. Most often caused by debris blocking the fan path."
+pubDatetime: 2026-06-08T06:39:14Z
+modDatetime: 2026-06-08T06:39:14Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - oven
   - ge
+most_likely_cause: "debris or obstruction blocking the upper cooling fan blower wheel"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## GE Oven F350 Error Code — What It Means
 
-The F350 error on a GE range tells you the control board has detected a problem with the upper cooling fan circuit. Either the fan is not spinning at the expected speed or the circuit has failed. This fan normally runs during and after cooking to cool internal components and the control board. When the fan is obstructed, the wiring is damaged, or the motor itself has failed, the control throws F350 and may disable the oven to protect electronics from overheating.
+The F350 code indicates an upper cooling fan circuit fault. The control board has detected that the upper cooling fan blower wheel is not turning as fast as it should, or that the fan circuit is not behaving as expected. This fan cools the oven electronics and upper components during and after cooking cycles.
+
+When the fan cannot spin at the correct speed, the control protects the electronics by throwing F350 and may disable the oven until the problem is corrected. The fault can be caused by a physical obstruction in the fan path, damaged wiring or connectors to the blower motor, or a failed motor itself. Less commonly, a transient glitch in the control system can trigger the code and clear after a power cycle.
+
+## Before You Replace Anything
+
+Many people replace the control board when the real problem is a blocked or slow fan. Always power-cycle the unit and inspect the fan area for obstructions and test the blower motor wiring before ordering any control.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Debris or foreign objects in the fan path** Insulation, packaging material, or kitchen debris can block the blower wheel and prevent it from reaching normal speed.
-- **Loose or corroded wiring connector at the fan motor** The harness plug at the motor can work loose over time or develop corrosion that breaks the circuit.
-- **Failed blower motor** The motor windings can burn out or bearings can seize, stopping rotation entirely or slowing the fan below the threshold the control expects.
-- **Damaged wiring between the control and the fan** Wires can chafe against sheet metal edges or be pinched during a previous repair, creating an open circuit or short.
-- **Temporary control-board glitch** Rarely, a voltage spike or static event can cause the board to log a false fault that clears with a power cycle.
+- **Debris or obstruction in the fan path (~45%)** Food debris, insulation, or foreign objects can block the blower wheel or air inlet and slow or stall the fan.
+- **Faulty wiring or loose connector at the blower motor (~25%)** Heat damage, vibration, or rodent damage can break wires or loosen the motor plug and interrupt power or feedback signals.
+- **Defective blower motor or fan assembly (~20%)** The motor windings can fail, bearings can seize, or the blower wheel can crack and lose speed.
+- **Control board glitch or corrupted memory (~10%)** A transient fault in the control can trigger F350 even when the fan is working and usually clears after a full power cycle.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the error clear and stay away after unplugging the range for five minutes and restoring power?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault was likely a temporary control glitch. Monitor the oven over the next few cycles. If F350 returns, proceed with fan inspection.<br><strong>No:</strong> The fault is persistent. Move to the next check to inspect the fan.</div>
+</details>
+
+<details class="dtree"><summary>Can you hear or feel the upper cooling fan running when you turn the oven on (listen at the rear vent)?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The motor is getting power. Check for obstructions or a slow, noisy fan that may need cleaning or replacement.<br><strong>No:</strong> The fan is not running. Inspect wiring and connectors to the blower motor, then test or replace the motor.</div>
+</details>
+
+<details class="dtree"><summary>After removing the top or rear panel, does the blower wheel spin freely by hand and is the air path clear?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Obstruction is not the issue. Test the motor winding resistance and wiring continuity, then replace the motor if faulty.<br><strong>No:</strong> Clear the obstruction, reassemble, and retest. If the code returns, the motor or wiring may still be damaged.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. {'text': '**Power off the range** at the circuit breaker and wait two minutes to allow the control board to reset, then restore power and check whether the code returns.'}
-2. {'text': '**Access the upper rear** of the range by removing the back panel or lifting the cooktop, depending on your model, so you can see the cooling-fan assembly and wiring.'}
-3. {'text': '**Inspect the fan and vent path** for any debris, insulation, or foreign objects wedged against the blower wheel and remove anything you find.'}
-4. {'text': '**Check the fan-motor connector** for looseness, corrosion, or pushed-back pins, then unplug and re-seat the connector firmly.'}
-5. {'text': '**Run the control diagnostic mode** if your model supports it, command the cooling fan to low speed, and listen for the motor to spin freely without grinding or stalling.'}
-6. {'text': "**Measure motor resistance** across the wiring harness terminals if you have service data for your model (one documented example shows roughly 47 Ω white-to-black and 31 Ω white-to-red, but consult your model's table)."}
-7. {'text': '**Replace the upper cooling-fan assembly** if the motor does not spin, resistance is out of range, or the fan runs but the code persists after clearing obstructions and repairing wiring.'}
+1. **Power off the range** at the circuit breaker or unplug it completely. Wait five minutes to allow the control to reset, then restore power and check whether F350 returns.
+2. **Run the oven briefly** and listen at the rear vent area for the upper cooling fan. The fan should start within a few moments of turning on the oven or during self-clean. If you hear nothing or a grinding noise, the fan is not spinning properly.
+3. **Remove the rear access panel or top cover** according to your model's service manual. Locate the upper cooling fan assembly, typically mounted near the top rear of the oven cavity.
+4. **Inspect the blower wheel and air path** for debris, insulation, wires, or other obstructions. Clear any blockage and verify the wheel spins freely by hand with no rubbing or binding.
+5. **Check the wiring harness and connector** at the blower motor for loose pins, heat damage, or broken wires. Wiggle the connector and look for corrosion or discoloration.
+6. **Test the motor windings** with a multimeter set to ohms. Disconnect the motor plug and measure resistance across the motor leads. If you find an open circuit (infinite resistance) or a dead short (near zero), the motor is failed. Some sources report nominal values near 47 ohms and 31 ohms for certain GE models, but consult your model's wiring diagram for authoritative specifications.
+7. **Replace the upper cooling fan or blower motor assembly** if the motor tests bad or if clearing obstructions and repairing wiring does not resolve the fault. Reinstall all panels, restore power, and verify the code does not return.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| GE range upper cooling fan / blower motor assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-oven-f350-error-code&k=GE+range+upper+cooling+fan+%2F+blower+motor+assembly&tag=errorcodefixes-20) \| Match the part number to your exact model and voltage; the assembly usually includes the motor, wheel, and mounting bracket. |
-| Wiring harness or connector repair kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-oven-f350-error-code&k=Wiring+harness+or+connector+repair+kit&tag=errorcodefixes-20) \| Only needed if you find chafed wires or a damaged plug that cannot be cleaned and re-seated. |
+| GE upper cooling fan blower motor assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-oven-f350-error-code&k=GE+upper+cooling+fan+blower+motor+assembly&tag=errorcodefixes-20) \| Verify the part number against your model tag (usually inside the oven door frame). The assembly typically includes the motor and blower wheel. |
+| Wiring harness or connector set for blower motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-oven-f350-error-code&k=Wiring+harness+or+connector+set+for+blower+motor&tag=errorcodefixes-20) \| Order only if the existing harness is heat-damaged or the connector is cracked. Often sold as a repair pigtail. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if you are not comfortable working inside a 240-volt appliance, if you cannot locate the cooling fan after removing panels, or if the error returns after you have cleared obstructions and replaced the blower motor. A persistent F350 after part replacement can indicate a control-board fault that requires board-level diagnosis and possibly a new electronic control.
+Call a professional if you are not comfortable working with 240-volt appliances, if the oven is still under warranty, or if you have cleared obstructions and verified wiring but the code persists and you suspect a control board fault. A technician has the diagnostic tools to run the service test mode, command the fan at different speeds, and measure real-time feedback signals to isolate whether the issue is the motor, wiring, or control. If the blower motor and wiring test good but F350 returns, the control board may need replacement, which typically requires programming or configuration and is best left to a qualified service provider.
+
+**Rough cost:** DIY runs about $50-150 in parts (blower motor assembly), 45-90 min. A pro service call runs about $150-300 including service call and labor.

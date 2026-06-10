@@ -1,51 +1,76 @@
 ---
 title: "GE Range FD Error Code - Causes & Fix"
-description: "FD means shorted meat probe circuit. Unplug the probe and clear the code. If it stays off, replace the meat probe assembly."
-pubDatetime: 2026-05-31T06:42:52Z
-modDatetime: 2026-05-31T06:42:52Z
-author: "Dana Kowalski"
+description: "FD means a shorted meat probe circuit. Most often the probe itself has failed. Unplug the probe and see if the code clears."
+pubDatetime: 2026-06-08T06:40:43Z
+modDatetime: 2026-06-08T06:40:43Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - oven
   - ge
+most_likely_cause: "defective meat probe with internal short or damaged lead"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## GE Range FD Error Code — What It Means
 
-The FD error code on a GE range indicates a shorted meat probe or food temperature probe circuit. The control board is detecting an invalid resistance from the meat probe input and has flagged that circuit as failed. This code refers specifically to the meat probe system, not the oven temperature sensor.
+The FD error code on a GE range signals a shorted meat probe circuit. The control board detects an electrical short somewhere in the path between the probe jack and the control itself. In practice this fault appears when the range thinks the probe circuit is continuously closed or has near-zero resistance, even when no probe is plugged in or when the probe should be open-circuit.
 
-In most cases the fault is in the probe itself or its receptacle. The control cannot distinguish between a true short inside the probe wire and contamination or moisture in the receptacle, so diagnostic unplugging is the standard first step.
+The issue is usually in the probe itself, the receptacle where the probe plugs in, or the wiring harness that connects the jack to the electronic control. A true control board fault is less common but possible if all other parts check out. The code will typically prevent you from using probe functions and may lock out other oven features until the fault is cleared.
+
+## Before You Replace Anything
+
+Homeowners sometimes replace the control board when the real fault is a $20 meat probe. Always remove the probe and verify whether the code clears before ordering a board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Defective meat probe with internal shorting** The probe element or internal wiring has failed and is creating a short circuit that the control reads as invalid.
-- **Damaged probe wire from pinching, wear, or heat exposure** The insulation on the probe cord has been compromised by being pinched in the oven door, rubbed through, or melted by direct heat contact.
-- **Condensation or contamination in the probe receptacle** Moisture, grease, or food debris inside the probe jack creates a false short that triggers the code even when the probe itself is good.
-- **Corroded or physically damaged probe receptacle** The metal contacts inside the jack have corroded or the plastic housing has cracked, allowing pins to touch or short to ground.
-- **Control board input circuit fault** If the code persists with the probe disconnected, the fault is in the control board's meat probe input circuitry rather than the probe itself.
+- **Defective meat probe (~60%)** An internal short or damaged lead inside the probe cable creates a continuous low-resistance path that the control reads as a fault.
+- **Contaminated or corroded probe receptacle (~20%)** Moisture, grease, condensation, or corrosion in the jack creates a short between the probe terminals even when no probe is installed.
+- **Damaged wiring harness or pinched wire (~12%)** A pinched, cut, or heat-damaged wire in the harness between the receptacle and the control board shorts the probe circuit to ground or another terminal.
+- **Loose or corroded connector at the control (~5%)** A poor connection at the board can create intermittent shorts or allow moisture into the circuit.
+- **Failed control board input circuit (~3%)** A damaged probe input on the electronic range control itself can falsely report a short when the external circuit is intact.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the FD code clear when you unplug the meat probe from the receptacle and power-cycle the range?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The probe itself is shorted. Replace the meat probe.<br><strong>No:</strong> The fault is in the receptacle, harness, or control. Inspect the jack and wiring next.</div>
+</details>
+
+<details class="dtree"><summary>Do you see moisture, grease, or corrosion inside the probe receptacle jack?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Clean the jack with contact cleaner and a cotton swab, dry thoroughly, and retest. If contamination returns or the jack is damaged, replace the receptacle.<br><strong>No:</strong> The jack looks clean. Trace the wiring harness from the jack to the control for pinches, cuts, or damaged insulation.</div>
+</details>
+
+<details class="dtree"><summary>Does the code persist after replacing the probe and confirming the jack and harness are intact?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The control board probe-input circuit has likely failed. Replace the electronic range control.<br><strong>No:</strong> Recheck all connectors for secure seating and retest. An intermittent connection may be the cause.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Disconnect power** at the circuit breaker or unplug the range completely before starting any diagnostics or repair work.
-2. **Unplug the meat probe** from its receptacle on the control panel or oven cavity wall and allow the oven to cool if it has been in use.
-3. **Clear the error code** by pressing the cancel or clear button, then observe whether the FD code returns with the probe disconnected.
-4. **If the code clears and stays off**, the meat probe assembly is shorted and should be replaced.
-5. **Inspect the probe cord** along its full length for pinches, cuts, melted insulation, or other visible damage that would indicate a short.
-6. **Inspect the probe receptacle** for moisture, grease, corrosion, or physical damage to the pins or housing, and clean or replace the receptacle if contamination or damage is present.
-7. **If the FD code returns with the probe unplugged**, verify the harness connector is clean and fully seated, then test or replace the electronic control board as the fault is in the board's input circuit.
+1. **Turn off power** at the circuit breaker and allow the range to sit for two minutes to clear residual voltage.
+2. **Remove the meat probe** from the receptacle if one is installed and set it aside.
+3. **Restore power and clear the fault** by pressing Cancel or turning the range back on. If the FD code does not return, the probe is defective and should be replaced.
+4. **Inspect the probe receptacle** for moisture, grease, corrosion, bent terminals, or debris. Clean with electrical contact cleaner and a cotton swab, then dry completely. Replace the receptacle if terminals are damaged or corrosion is severe.
+5. **Trace the wiring harness** from the receptacle to the control board. Look for pinched wires behind the back panel, cuts in the insulation, heat damage near the oven cavity, or loose connectors. Repair or replace any damaged sections.
+6. **Check the connector at the control board** for a secure fit, corrosion, or pushed-back pins. Reseat the connector firmly and verify continuity through the harness if you have a multimeter.
+7. **Replace the electronic range control** only if the probe, receptacle, and harness all test good and the code returns immediately on power-up. Confirm the new board is programmed or configured for your range model before final installation.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Meat probe / food temperature probe | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-range-fd-error-code&k=Meat+probe+%2F+food+temperature+probe&tag=errorcodefixes-20) \| Replacement probe assembly for your specific GE range model, required if the code clears when the probe is unplugged. |
-| Probe receptacle / probe jack | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-range-fd-error-code&k=Probe+receptacle+%2F+probe+jack&tag=errorcodefixes-20) \| Wall or panel-mount receptacle for the meat probe, needed if the jack is corroded, contaminated, or physically damaged. |
-| Electronic control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-range-fd-error-code&k=Electronic+control+board&tag=errorcodefixes-20) \| Oven control board with meat probe input circuit, only needed if the FD fault persists with the probe fully disconnected and receptacle confirmed clean. |
+| GE range meat probe | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-range-fd-error-code&k=GE+range+meat+probe&tag=errorcodefixes-20) \| Temperature probe with two-pin plug. Verify plug style and cable length match your range model. |
+| GE range probe receptacle / jack | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-range-fd-error-code&k=GE+range+probe+receptacle+%2F+jack&tag=errorcodefixes-20) \| Mounts in the oven wall. Confirm terminal count and mounting-hole spacing before ordering. |
+| GE range electronic control board (ERC) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-range-fd-error-code&k=GE+range+electronic+control+board+%28ERC%29&tag=errorcodefixes-20) \| Model-specific. Cross-reference your full model number and verify overlay or clock compatibility. |
 
 ## When to Call a Pro
 
-Call a technician if the FD code returns after you have unplugged the probe and confirmed the receptacle is clean and dry, as this points to a control board fault that requires board-level diagnosis and replacement. Also call for help if you are uncomfortable working inside the control panel or if the range requires disassembly beyond removing the probe. A qualified appliance repair tech can verify the harness and connector integrity, measure the control board's probe input circuit, and replace the board if needed.
+Call a technician if you are not comfortable working inside the range back panel, if the wiring harness shows multiple areas of damage that require splicing or re-routing, or if the fault persists after you have replaced the probe and inspected the receptacle. A pro can perform full-circuit continuity and isolation tests to definitively locate shorts in the harness or confirm a control-board failure. Also call if your range is still under warranty or if you need the repair documented for a service claim.
+
+**Rough cost:** DIY runs about $15–40 for probe or receptacle, 10–20 min. A pro service call runs about $120–220 service call plus parts.

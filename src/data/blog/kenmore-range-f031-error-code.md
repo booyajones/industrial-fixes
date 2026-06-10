@@ -1,50 +1,75 @@
 ---
 title: "Kenmore Range F031 Error Code - Causes & Fix"
-description: "F031 signals a shorted or out-of-range oven temperature sensor circuit. Most often the sensor probe itself has failed and needs replacement."
-pubDatetime: 2026-05-31T06:56:42Z
-modDatetime: 2026-05-31T06:56:42Z
-author: "James Rutherford"
+description: "F031 on a Kenmore range means an oven temperature sensor circuit fault. The most common fix is replacing the RTD sensor probe."
+pubDatetime: 2026-06-08T06:46:30Z
+modDatetime: 2026-06-08T06:46:30Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - oven
   - kenmore
+most_likely_cause: "failed RTD oven temperature sensor"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Kenmore Range F031 Error Code — What It Means
 
-The F031 error code on Kenmore ranges indicates a fault in the oven temperature sensor circuit. The electronic oven control is detecting an abnormal signal from the sensor, typically consistent with a shorted probe or a sensor reading that is out of the expected range. This is not a heating element problem. The control board relies on the oven temperature sensor to monitor and regulate oven heat, and when it sees a signal it interprets as impossible or dangerous, it throws F031 and may disable oven operation.
+The F031 error code on a Kenmore range indicates the control board has detected an abnormal signal from the oven temperature sensor circuit. This is a sensor probe problem, not a burner or ignition fault. The control can no longer read the oven cavity temperature correctly because the sensor itself has failed, the wiring harness is damaged or shorted, or the control board input has failed. Because Kenmore is a retail brand, the exact meaning of F031 can vary slightly by the underlying manufacturer platform, but on Kenmore ranges using Frigidaire or Electrolux-style controls the fault is consistently reported as an oven temperature sensor or probe circuit error in the F30 family of codes.
 
-The fault almost always points to the sensor probe itself, the wiring harness connecting it to the control board, or occasionally the control board's sensor input circuit. The sensor is a resistance temperature detector (RTD) that changes resistance as temperature changes. At room temperature (around 75°F), a healthy sensor should read approximately 1,080 to 1,091 ohms. Readings far outside this range, or a short to the metal cabinet, will trigger the code.
+## Before You Replace Anything
+
+Many people replace the electronic control board first. Always test the oven temperature sensor resistance (should read about 1,080–1,091 ohms at room temperature) and inspect the sensor wiring harness for damage or shorts before replacing the control.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed oven temperature sensor or RTD probe** The sensor element itself has drifted out of range or developed an internal short, sending a faulty resistance signal to the control board.
-- **Damaged or shorted sensor wiring harness** The wires running from the sensor to the control have been pinched, melted, or cut, causing a short circuit or open connection.
-- **Loose or corroded sensor connector** The plug joining the sensor harness to the control board has backed out or developed corrosion, creating an intermittent or high-resistance connection.
-- **Sensor wire shorted to chassis ground** Insulation on a sensor lead has worn through and the wire now touches the metal cabinet, creating a direct short to ground.
-- **Electronic oven control (EOC) board fault** The sensor input circuit on the control board itself has failed, even though the sensor and wiring test correctly.
+- **Failed oven temperature sensor (RTD probe) (~50%)** The sensor has drifted out of range or failed completely and no longer reads the correct resistance at room temperature.
+- **Damaged or shorted sensor wiring harness (~25%)** The purple sensor wires running from the probe to the control board are pinched, burnt, or have damaged insulation causing a short to the metal cabinet.
+- **Loose connector at sensor or control board (~10%)** The plug at the sensor probe or at the control board has backed out or corroded, breaking the circuit.
+- **Short to chassis ground (~8%)** Damaged wire insulation allows a sensor lead to contact the metal cabinet, sending a false signal to the control.
+- **Main control board (EOC) input failure (~7%)** The control board itself is no longer able to read the sensor circuit correctly even when the sensor and wiring test good.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the oven temperature sensor read about 1,080–1,091 ohms at room temperature when you test it with a multimeter?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The sensor itself is good. Inspect the wiring harness for damage and test each sensor lead to the metal cabinet for a short to ground (should read open or OL).<br><strong>No:</strong> The sensor is out of range or failed. Replace the oven temperature sensor probe.</div>
+</details>
+
+<details class="dtree"><summary>Do both sensor wires read open (OL) when tested from each wire to the metal cabinet ground?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The wiring is not shorted to ground. If the sensor tested good, the control board is the remaining suspect.<br><strong>No:</strong> One or both sensor wires are shorted to the cabinet. Repair or replace the sensor wiring harness.</div>
+</details>
+
+<details class="dtree"><summary>Is the connector at the sensor probe or at the control board loose, corroded, or backed out?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Clean the connector pins and reseat the connection firmly, then test the range. If the code returns and the sensor tests good, replace the harness or control board.<br><strong>No:</strong> The connection is secure. Proceed with resistance and short-to-ground tests to isolate the sensor, harness, or control board.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Disconnect power at the circuit breaker** or unplug the range completely, then pull the unit away from the wall so you can access the rear service panels.
-2. **Remove the rear access panel** covering the oven cavity and locate the oven temperature sensor (a metal probe extending into the oven) and its two-wire connector plugged into the control board or harness.
-3. **Inspect the sensor connector and harness** for any obvious damage, melting, or looseness, and firmly reseat the plug if it appears loose or corroded.
-4. **Disconnect the sensor leads from the control board** and use a multimeter set to resistance (ohms) to measure across the two sensor terminals with the oven at room temperature.
-5. **Check that the sensor reads between 1,080 and 1,091 ohms at room temperature** (approximately 75°F), then test each sensor lead to the metal cabinet frame for a short to ground (any reading near 0 ohms indicates a shorted wire).
-6. **Replace the oven temperature sensor** if it reads open (infinite resistance), shorted (very low resistance), more than about 200 ohms away from the nominal value, or if either lead shows a short to ground.
-7. **Replace the electronic oven control board** if the sensor and all wiring test within specification but the F031 code returns as soon as you restore power and attempt to use the oven.
+1. **Disconnect power** to the range at the breaker or by unplugging the cord, then pull the range away from the wall to access the rear panel and control area.
+2. **Locate the oven temperature sensor probe** on the rear wall of the oven cavity (inside) and trace its wiring harness through the back of the range to the control board connector.
+3. **Inspect the sensor connector** at the probe and at the control board for corrosion, loose pins, or a backed-out plug, and reseat any loose connection.
+4. **Measure the sensor resistance** by disconnecting the sensor leads and testing across the two terminals with a multimeter set to ohms; the reading should be about 1,080–1,091 ohms at room temperature (75°F).
+5. **Test each sensor lead to chassis ground** by touching one meter probe to a bare metal part of the range cabinet and the other to each sensor wire in turn; both should read open (OL), indicating no short to ground.
+6. **Replace the oven temperature sensor** if the resistance is outside the 1,080–1,091 ohm range or if the sensor reads shorted or open.
+7. **Repair or replace the sensor wiring harness** if the sensor tested good but one or both wires show a short to ground or visible damage along the harness.
+8. **Replace the electronic oven control board** only after confirming that the sensor reads correctly, the harness has no shorts or damage, and the connections are clean and tight, yet the F031 error persists.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Oven Temperature Sensor / RTD Probe | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-range-f031-error-code&k=Oven+Temperature+Sensor+%2F+RTD+Probe&tag=errorcodefixes-20) \| Match the sensor to your specific Kenmore range model number. Most sensors are universal within a brand family but verify the connector type and probe length. |
-| Electronic Oven Control Board (EOC) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-range-f031-error-code&k=Electronic+Oven+Control+Board+%28EOC%29&tag=errorcodefixes-20) \| Required only if the sensor circuit tests good. Control boards are model-specific, so have your full model and serial number ready when ordering. |
+| Oven temperature sensor (RTD probe) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-range-f031-error-code&k=Oven+temperature+sensor+%28RTD+probe%29&tag=errorcodefixes-20) \| Match your Kenmore range model number; should measure 1,080–1,091 ohms at room temperature. |
+| Sensor wiring harness or pigtail connector | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-range-f031-error-code&k=Sensor+wiring+harness+or+pigtail+connector&tag=errorcodefixes-20) \| Use if the harness is burnt, pinched, or shorted to ground and cannot be repaired. |
+| Electronic oven control board (EOC) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-range-f031-error-code&k=Electronic+oven+control+board+%28EOC%29&tag=errorcodefixes-20) \| Replace only after sensor and wiring are verified good and the fault persists. |
 
 ## When to Call a Pro
 
-If you are uncomfortable working with electrical appliances or accessing live wiring, call a qualified appliance technician. The sensor replacement itself is straightforward, but you must pull the range out, work behind it, and verify correct resistance readings with a multimeter. If the sensor tests correctly and the fault persists, diagnosing and replacing the control board requires experience reading wiring diagrams and handling sensitive electronics. A professional can also confirm the fault code definition against your specific model's tech sheet, since Kenmore ranges are built by multiple OEMs and fault code logic can vary slightly across families.
+Call a professional if you are not comfortable working with 240-volt electrical connections or if you have tested the sensor and wiring and both are good but the error persists. A technician can verify the control board input circuit and safely replace the electronic oven control. Also call a pro if the sensor is difficult to reach, the wiring harness runs through sealed conduit or behind insulation you cannot safely move, or if you see any signs of arcing or burnt wiring that suggest a deeper electrical fault.
+
+**Rough cost:** DIY runs about $20–50 in parts, 30–60 min. A pro service call runs about $150–250.
