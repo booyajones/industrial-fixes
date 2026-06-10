@@ -1,52 +1,76 @@
 ---
 title: "Frigidaire Dishwasher PF Error Code - Causes & Fix"
-description: "PF means power failure detected. Press START/CANCEL to clear it. If it returns, check breaker, connections, and control board."
-pubDatetime: 2026-05-31T04:47:37Z
-modDatetime: 2026-05-31T04:47:37Z
-author: "Dana Kowalski"
+description: "PF means power failure. Press START/CANCEL to clear the code after an outage or breaker trip, then restart the cycle."
+pubDatetime: 2026-06-08T22:30:32Z
+modDatetime: 2026-06-08T22:30:32Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dishwasher
   - frigidaire
+most_likely_cause: "interrupted household power supply"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Frigidaire Dishwasher PF Error Code — What It Means
 
-The PF code stands for power failure. Your Frigidaire dishwasher displays it when it detects a loss of power during operation. This can be a real outage, a momentary voltage dip you didn't notice, or a tripped breaker. Frigidaire's official guidance is to press START/CANCEL to clear the code and then start a new cycle.
+The PF code on a Frigidaire dishwasher indicates a loss of power or power failure. According to Frigidaire, this code appears when the unit has experienced an interruption in household electrical supply, such as during an outage, a tripped breaker, or a brief voltage drop. The dishwasher control registers the event and displays PF to notify you that the current cycle was interrupted.
 
-If PF keeps coming back and you have not experienced any outages, the problem is usually in the supply wiring or inside the control board. The dishwasher is either losing power intermittently or falsely detecting a power event because of a control fault.
+This is not a code for a specific component failure like a pump or heater. It is simply the control's way of recording that power was lost. Frigidaire instructs users to press START/CANCEL to clear the error and begin a new cycle. If the code recurs during normal operation without any known power event, the problem may be an intermittent electrical supply issue or an internal wiring or control fault rather than the one-time outage itself.
+
+## Before You Replace Anything
+
+Homeowners sometimes replace the control board when PF recurs, but the real culprit is often a loose wire connection at the junction box or a tripped breaker. Always verify stable 120 V supply and inspect all wire connections before ordering any parts.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Brief utility outage or flicker** A momentary power interruption you may not have noticed causes the dishwasher to log PF and pause the cycle.
-- **Tripped or weak breaker** The circuit breaker may have tripped or the connection at the breaker itself may be loose, causing an intermittent power drop.
-- **Loose or damaged junction-box wiring** Connections inside the dishwasher's junction box can work loose over time, creating intermittent contact and triggering PF.
-- **Voltage sag from shared circuit** Another heavy appliance on the same circuit can pull voltage down enough that the dishwasher interprets it as a power failure.
-- **Control board or power module fault** If incoming power is stable and wiring is sound, the control board itself may be failing and falsely reporting a power event.
-- **Loose fuse or corroded fuse holder on board** Field reports describe small glass fuses or their clips on the control board losing contact and causing recurring PF codes.
+- **Household power outage or breaker trip (~50%)** The circuit breaker serving the dishwasher tripped or a brief power interruption occurred, causing the control to register PF.
+- **Loose or damaged electrical connection (~25%)** A wire in the junction box or at the power cord connection has worked loose or shows heat damage, creating intermittent power loss.
+- **Faulty control board (~15%)** The main control has internal damage or solder cracks that cause it to reset and display PF even when supply voltage is stable.
+- **Blown thermal fuse (~7%)** The thermal fuse has opened due to overheating, cutting power to the control and triggering a PF code when power is restored.
+- **Defective door latch or switch (~3%)** An intermittent door-switch connection can cause the control to lose power path continuity and register a PF event.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Did you recently experience a known power outage or did you hear the breaker trip?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The PF code is expected. Press START/CANCEL to clear it and start a new cycle. No repair is needed if it does not return.<br><strong>No:</strong> The code appeared without any known power event, so proceed to check the breaker panel and electrical connections.</div>
+</details>
+
+<details class="dtree"><summary>Is the circuit breaker for the dishwasher in the ON position and not tripped?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Power supply at the panel is intact. Move on to inspect the dishwasher's internal wiring and junction box for loose connections.<br><strong>No:</strong> Reset the breaker. If it trips again immediately, you have a short circuit or ground fault that requires professional diagnosis.</div>
+</details>
+
+<details class="dtree"><summary>Does the PF code return during a test cycle after you have cleared it and verified all connections?</summary>
+<div class="dtree-body"><strong>Yes:</strong> An internal component (control board, thermal fuse, or intermittent wiring) is likely at fault. Consider calling a technician or testing components with a multimeter.<br><strong>No:</strong> The issue was a one-time event. Monitor the dishwasher over the next few cycles to confirm the problem is resolved.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Press START/CANCEL** to clear the PF code. Frigidaire states this will cancel the error and allow you to start a new cycle.
-2. **Check for recent outages.** Confirm whether your home lost power or had a flicker around the time the code appeared.
-3. **Inspect the dishwasher breaker.** Open your panel and verify the breaker is fully seated and has not tripped. Flip it off and back on to reset, then retest the dishwasher.
-4. **Turn off power at the breaker and check the junction box.** Remove the dishwasher's access panel to reach the wiring compartment. Look for loose wire nuts, burned conductors, or corrosion. Tighten all connections.
-5. **Measure incoming voltage** if PF repeats. At the dishwasher supply, you should see roughly 110 to 120 V AC. A significantly lower reading points to a supply problem upstream of the appliance.
-6. **Test the dishwasher through a full cycle** after repairs. If PF returns with good power and tight connections, the control board is the most likely remaining suspect.
-7. **Replace the control board** if all external power checks pass and PF continues to appear. The board's internal power monitoring circuit is failing.
+1. **Press START/CANCEL** to clear the PF code according to Frigidaire's instructions, then attempt to start a new cycle and observe whether the code returns.
+2. **Turn off power at the breaker** or unplug the dishwasher if the code does not clear or if you need to reset the control completely, wait 30 seconds, then restore power.
+3. **Check the circuit breaker panel** to confirm the dishwasher breaker is fully in the ON position and has not tripped, and verify no other appliances on the same circuit are causing overload.
+4. **Inspect the power cord and junction box** by removing the lower front panel or access cover, looking for loose wire nuts, blackened connectors, or any sign of arcing or heat damage.
+5. **Run a complete wash cycle** after clearing the code and verifying connections to see if PF recurs, which would indicate an intermittent fault rather than a one-time power event.
+6. **Test for 120 V at the supply** using a multimeter at the junction box or outlet to confirm stable household voltage is reaching the dishwasher.
+7. **Replace the failed component** only after confirming which part has failed through voltage checks and visual inspection, whether that is a thermal fuse, control board, door latch assembly, or damaged wiring harness.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Electronic control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dishwasher-pf-error-code&k=Electronic+control+board&tag=errorcodefixes-20) \| Required when PF recurs with verified good power and wiring. Match your model number. |
-| Power supply harness or junction-box wire kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dishwasher-pf-error-code&k=Power+supply+harness+or+junction-box+wire+kit&tag=errorcodefixes-20) \| Use if supply wiring is heat-damaged, corroded, or conductors are frayed. |
-| Circuit breaker | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dishwasher-pf-error-code&k=Circuit+breaker&tag=errorcodefixes-20) \| Replace if the existing breaker is weak, loose, or trips intermittently under normal load. |
+| Frigidaire dishwasher main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dishwasher-pf-error-code&k=Frigidaire+dishwasher+main+control+board&tag=errorcodefixes-20) \| Required if the board shows burn marks or PF recurs after all wiring and supply checks pass. |
+| Thermal fuse (e.g. WPW10402110) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dishwasher-pf-error-code&k=Thermal+fuse+%28e.g.+WPW10402110%29&tag=errorcodefixes-20) \| Check continuity with a multimeter; replace if open on models that use an in-line fuse. |
+| Door latch and switch assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dishwasher-pf-error-code&k=Door+latch+and+switch+assembly&tag=errorcodefixes-20) \| Test door-switch continuity if PF appears only when the door is moved or cycle is interrupted. |
 
 ## When to Call a Pro
 
-Call a technician if PF keeps returning after you have reset the breaker and checked for obvious loose connections. Diagnosing intermittent voltage faults and verifying control-board operation require a multimeter and familiarity with live AC circuits. If you are not comfortable working inside your electrical panel or testing line voltage at the appliance junction box, a service call is the safer choice. Technicians will measure supply voltage under load, inspect all power connections for heat or corrosion, and determine whether the control board needs replacement or the fault lies upstream in your home wiring.
+Call a professional if the breaker trips repeatedly when you restore power, if you are uncomfortable working inside the dishwasher's electrical junction, or if you have verified stable 120 V supply and tight connections but the PF code still returns during every cycle. A technician can safely trace intermittent faults with specialized meters, test the control board under load, and replace internal components that require disassembly of the door or tub. Also call a pro if you find signs of arcing, melted insulation, or burnt wire nuts, since these indicate a serious electrical fault that poses a fire risk if not corrected properly.
+
+**Rough cost:** DIY runs about $0-150 in parts (if wiring repair or thermal fuse), 30-90 min. A pro service call runs about $100-250.

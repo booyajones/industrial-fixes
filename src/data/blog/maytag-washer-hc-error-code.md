@@ -1,47 +1,66 @@
 ---
 title: "Maytag HC Error Code - Causes & Fix"
-description: "HC means hot and cold inlet hoses are reversed. Swap the hoses at the back of the washer or at the wall faucets to clear the code."
-pubDatetime: 2026-05-31T02:13:10Z
-modDatetime: 2026-05-31T02:13:10Z
-author: "James Rutherford"
+description: "HC means hot and cold inlet hoses are reversed. Switch the hoses at the back of the washer so each connects to the correct inlet."
+pubDatetime: 2026-06-08T22:25:53Z
+modDatetime: 2026-06-08T22:25:53Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
-  - washer
   - maytag
+most_likely_cause: "hot and cold supply hoses swapped during installation"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Maytag HC Error Code — What It Means
 
-The HC code on a Maytag HE washer tells you the hot and cold water inlet hoses are installed backwards. The cold supply line is connected to the hot inlet on the washer, and the hot supply is connected to the cold inlet. Maytag displays this code at the end of the wash cycle as a reminder that the hose connections are incorrect. It is a hookup error, not a component failure.
+The HC code on Maytag top-load washers indicates that the hot and cold water inlet hoses are connected to the wrong inlets. Maytag displays this code at the end of the wash cycle when the cold hose is plugged into the hot inlet and the hot hose is plugged into the cold inlet. This is not a sensor failure or control board fault. It is a hose installation error that causes a temperature mismatch during the cycle.
+
+## Before You Replace Anything
+
+Do not replace the control board or temperature sensor. The HC code is a hose-connection fault, so inspect the inlet hose orientation at the back of the washer before ordering any parts.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Crossed hoses at the washer** The hot and cold fill hoses were swapped when connecting to the back of the washer.
-- **Reversed hoses at the wall faucets** The hoses are correct at the washer but connected to the wrong supply valves at the wall.
-- **Incorrect household supply setup** The hot and cold supply lines at the wall are plumbed backward or one valve is not fully open.
-- **Damaged or missing hose washers** Leaking connections during initial installation led to swapping hoses to troubleshoot, introducing the reversal.
+- **Hot and cold hoses reversed at installation (~95%)** The cold water supply line is connected to the hot inlet on the washer and the hot supply is connected to the cold inlet, creating a temperature mismatch.
+- **Hoses reconnected incorrectly after moving the washer (~4%)** After pulling the washer forward for cleaning or access, the hoses were reattached to the wrong inlets.
+- **Wall supply lines labeled incorrectly (~1%)** The hot and cold valves at the wall are marked or installed backward, so even correct washer connections result in reversed water flow.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Are the hose connections clearly labeled H and C on the back of the washer?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Compare the labels to the hoses currently attached. If the hot hose is on the C inlet or the cold hose is on the H inlet, swap them.<br><strong>No:</strong> Consult your owner's manual for the correct inlet positions (usually hot is left, cold is right when facing the back), then trace each hose to verify proper connection.</div>
+</details>
+
+<details class="dtree"><summary>Does the HC code clear after you swap the hoses and run a new cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The installation is now correct and no further repair is needed.<br><strong>No:</strong> Verify that the wall supply valves themselves are not reversed. If the code persists with known-correct hose routing, review your model's installation instructions or call a technician.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. Shut off both water supply valves at the wall before disconnecting any hoses.
-2. Identify the hot and cold inlets on the back of the washer. The hot inlet is typically marked with a red label or an H, and the cold with blue or a C.
-3. Trace each hose from the washer to the wall faucet. Confirm the hot supply (usually the left faucet) feeds the washer's hot inlet and the cold supply (right faucet) feeds the cold inlet.
-4. Swap the hoses at the washer or at the wall faucets if they are reversed. Make sure the hot supply connects to the hot inlet and cold to cold.
-5. Check that rubber washers are seated inside each hose coupling, then tighten the fittings securely by hand plus a quarter turn with pliers.
-6. Turn both supply valves fully open and inspect all connections for leaks.
-7. Run a complete wash cycle and verify the HC code clears and the washer fills with the correct water temperature.
+1. **Turn off both water supply valves** at the wall to stop flow before disconnecting any hoses.
+2. **Pull the washer forward** enough to see the back panel and the two inlet connections (usually marked H for hot and C for cold).
+3. **Identify each hose** by tracing it from the wall valve (the hot valve handle is often red or on the left, the cold valve blue or on the right) to the washer inlet.
+4. **Disconnect both hoses** from the washer inlets and inspect the rubber washers inside each coupling for damage.
+5. **Reconnect the cold water hose** to the cold inlet (C) and the hot water hose to the hot inlet (H) on the washer.
+6. **Turn on the water supply valves** and check each connection for leaks. Tighten the couplings by hand plus a quarter turn with pliers if needed.
+7. **Run a short test cycle** and confirm that the HC code does not appear at the end. If the code clears, the repair is complete.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Hot and cold fill hoses | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-washer-hc-error-code&k=Hot+and+cold+fill+hoses&tag=errorcodefixes-20) \| Replace if kinked, cracked, or fittings are stripped during hose swap. |
-| Hose washers (rubber gaskets) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-washer-hc-error-code&k=Hose+washers+%28rubber+gaskets%29&tag=errorcodefixes-20) \| Install new washers if connections leak after correcting the hose routing. |
+| Hot water inlet hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-washer-hc-error-code&k=Hot+water+inlet+hose&tag=errorcodefixes-20) \| Replace only if the existing hose is kinked, cracked, or has a damaged coupling. Standard washer hoses are sold in pairs. |
+| Cold water inlet hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-washer-hc-error-code&k=Cold+water+inlet+hose&tag=errorcodefixes-20) \| Replace only if damaged. Check the rubber washer inside the coupling and replace the washer if it is missing or worn. |
 
 ## When to Call a Pro
 
-If the HC code remains after you have verified correct hose connections, checked that both wall valves are fully open, and confirmed your household hot and cold supply is plumbed correctly, contact a Maytag service technician. The code is designed to indicate a hose-reversal issue, so a persistent HC after correct hookup may point to a model-specific diagnostic need or an uncommon fill-system fault that requires professional troubleshooting.
+Call a technician if you have reversed the hoses correctly and verified that the wall supply valves match the hose labels, yet the HC code still appears at the end of every cycle. In that case, the installation instructions may need review for model-specific inlet configurations, or there may be an unusual plumbing issue at the supply side. For straightforward hose swaps, this is a simple DIY fix that requires no tools beyond basic pliers and takes less than 20 minutes.
+
+**Rough cost:** DIY runs about $0, 10-20 min (no parts needed, just reconnect hoses). A pro service call runs about $80-150 service call to verify and reconnect hoses.

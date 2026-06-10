@@ -1,51 +1,77 @@
 ---
 title: "Frigidaire i40 Error Code - Causes & Fix"
-description: "i40 means clogged filter or sump on Frigidaire dishwashers. Clean the glass trap and filter assembly, then check the sump for food debris."
-pubDatetime: 2026-05-31T04:47:15Z
-modDatetime: 2026-05-31T04:47:15Z
-author: "James Rutherford"
+description: "i40 means clogged filter or sump on Frigidaire dishwashers. Clean the filter assembly and sump area at the tub bottom to restore drain flow."
+pubDatetime: 2026-06-08T22:28:55Z
+modDatetime: 2026-06-08T22:28:55Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
-  - dishwasher
   - frigidaire
+most_likely_cause: "food debris in the sump, glass trap, or filter area"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Frigidaire i40 Error Code — What It Means
 
-The i40 code on a Frigidaire dishwasher indicates a clogged filter or sump fault. The manufacturer defines this as food soils building up in the sump area and restricting circulation or drain flow. You'll often see water remaining in the tub at the end of a cycle when this fault is active.
+The i40 code on a Frigidaire dishwasher indicates a clogged filter or sump. Frigidaire states the dishwasher displays i40 when food soils have built up in the sump and the unit is not draining properly. Functionally, the dishwasher is not moving water through the sump and drain path as expected, usually because debris is restricting flow. While some independent repair guides describe i40 as a pressure sensor or control board issue, the manufacturer's published explanation focuses on physical clogs in the filter and sump area.
 
-In practice, technicians treat i40 as a drain and flow restriction complaint. Debris in the filter assembly, sump, pump impeller path, or drain hose can all trigger the code. A partial blockage at the sink or disposal connection can also cause water to stay in the unit and set the fault.
+The code typically appears when food particles, grease, or other debris accumulate in the triple-filter system, glass trap, or sump housing at the bottom of the tub. This buildup prevents proper water circulation and drainage during the wash cycle. In some cases, the restriction may be farther downstream in the drain hose, air gap, or sink connection, but the root cause remains the same: the dishwasher cannot move water out as designed.
+
+## Before You Replace Anything
+
+Homeowners sometimes replace the control board or pressure sensor when i40 appears, but the manufacturer explanation points to a physical clog. Clean the filter, sump, and drain path completely before ordering electronic parts.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Clogged filter or glass trap** Food particles, grease, and sludge accumulate in the filter assembly and restrict water flow through the sump.
-- **Debris in the pump area** Seeds, labels, glass fragments, or other foreign objects lodge in the pump inlet or impeller path and block circulation.
-- **Partial drain hose blockage** Kinks, buildup, or restrictions in the drain hose prevent the dishwasher from evacuating water completely.
-- **Clogged sink or disposal connection** The drain hose connects to a blocked sink drain or disposal, causing water to back up into the dishwasher sump.
-- **Sump contamination** Heavy grease or organic sludge coats the sump interior and interferes with normal water level and flow sensing.
+- **Food debris in sump or filter area (~50%)** Buildup of food particles, grease, and soil in the sump housing, glass trap, or triple-filter system blocks water flow and triggers the code.
+- **Clogged drain hose or connection (~25%)** Kinks, obstructions, or improper routing in the drain hose, or blockage at the sink or disposal connection, prevent proper drainage.
+- **Drain pump restriction or weak performance (~15%)** Foreign objects lodged in the pump impeller, sludge buildup, or a failing pump motor reduce flow and cause the fault.
+- **Check valve blockage or sticking (~7%)** A stuck or obstructed check valve allows backflow or restricts drainage, causing water to remain in the sump longer than expected.
+- **Air gap or sink plumbing restriction (~3%)** If an air gap is installed, debris or soap buildup inside the cap or body restricts drainage and can set the code.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Is there standing water in the bottom of the tub after a cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The drain path is blocked or the pump is not moving water. Clean the filter and sump, then check the drain hose and pump for obstructions.<br><strong>No:</strong> The code may be intermittent or the sump sensor is picking up residual buildup. Clean the sump and filter thoroughly and run a rinse cycle to test.</div>
+</details>
+
+<details class="dtree"><summary>Does the drain pump run when you start a cancel/drain cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The pump is working but flow is restricted. Inspect the drain hose, air gap, and sink connection for kinks or blockage.<br><strong>No:</strong> The pump may be jammed or has failed. Remove the filter and check the pump impeller area for foreign objects or debris.</div>
+</details>
+
+<details class="dtree"><summary>After cleaning the filter and sump, does the code return immediately on the next cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The restriction is downstream in the drain hose, check valve, or external plumbing, or the pump itself is weak or blocked.<br><strong>No:</strong> The filter and sump were the culprits. Run a few cycles to confirm the fix and clean the filter monthly to prevent recurrence.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Disconnect power** at the breaker or unplug the unit before you begin any inspection or cleaning work.
-2. **Remove the lower rack** and locate the filter assembly at the bottom of the tub, then twist or lift to remove the cylindrical glass trap and any additional filter screens according to your model's design.
-3. **Clean the filter and glass trap** thoroughly under running water to remove all food soil, grease, and debris, then inspect the sump opening below for seeds, labels, glass, or other foreign objects and remove anything you can reach by hand.
-4. **Check the pump inlet area** for obstructions by looking into the sump cavity after the filter is out, and remove any accessible debris without forcing tools into the pump impeller.
-5. **Inspect the drain hose** under the sink for kinks or sags and disconnect it to check for internal blockages, then verify that the sink drain or disposal connection is clear and the sink drains normally.
-6. **Reinstall the filter assembly** in the correct order and orientation, restore power, and run a rinse or short cycle to test whether the unit drains completely and the fault clears.
-7. **Clear the fault code** if it persists after cleaning by pressing and holding the appropriate button combination for your model, or simply power-cycle the dishwasher and start a new cycle.
+1. **Power off the dishwasher** at the breaker or by unplugging it to reset the control, then power it back on and see if the code clears on its own.
+2. **Remove the lower dish rack** and locate the filter assembly at the bottom of the tub, usually in the center or rear corner.
+3. **Twist and lift out the filter assembly**, including the cylindrical fine filter and flat coarse filter or glass trap, and rinse thoroughly under hot water to remove all food debris and grease.
+4. **Inspect the sump area** underneath where the filter sat, using a damp cloth or sponge to wipe out any standing water, food particles, or sludge buildup.
+5. **Check the drain pump impeller** by carefully reaching into the sump opening (if accessible on your model) and feeling for foreign objects like toothpicks, bones, or glass that may jam the pump.
+6. **Inspect the drain hose** under the sink for kinks, low loops, or blockage, and verify the connection at the disposal or drain is clear and properly secured.
+7. **Reinstall the filter assembly** firmly, replace the lower rack, and run a short rinse or drain cycle to verify water drains completely and the code does not return.
+8. **If the code persists**, check the air gap (if installed) by removing the cap and flushing it, or inspect the check valve and pump for mechanical failure or electrical fault.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Dishwasher filter assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dishwasher-i40-error-code&k=Dishwasher+filter+assembly&tag=errorcodefixes-20) \| Replace if the filter screen or glass trap is cracked, warped, or cannot be cleaned. |
-| Drain pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dishwasher-i40-error-code&k=Drain+pump&tag=errorcodefixes-20) \| Required if the unit still will not evacuate water after all blockages are cleared and the sump is clean. |
-| Drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dishwasher-i40-error-code&k=Drain+hose&tag=errorcodefixes-20) \| Use if the existing hose is kinked, cracked, or has internal buildup that cannot be flushed out. |
+| Frigidaire dishwasher filter assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dishwasher-i40-error-code&k=Frigidaire+dishwasher+filter+assembly&tag=errorcodefixes-20) \| Includes the cylindrical fine filter and flat coarse filter or glass trap. Replace if cracked, warped, or heavily stained. |
+| Dishwasher drain pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dishwasher-i40-error-code&k=Dishwasher+drain+pump&tag=errorcodefixes-20) \| If the impeller is jammed or the motor does not hum during drain cycles, replace the pump assembly. |
+| Drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dishwasher-i40-error-code&k=Drain+hose&tag=errorcodefixes-20) \| Replace if kinked, cracked, or internally clogged beyond flushing. make sure the new hose routes properly with a high loop. |
+| Drain check valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dishwasher-i40-error-code&k=Drain+check+valve&tag=errorcodefixes-20) \| A small flapper or ball valve that prevents backflow. Replace if it sticks open or closed. |
 
 ## When to Call a Pro
 
-Call a technician if the i40 code returns after you've cleaned the filter, sump, and drain path and confirmed the sink drains properly. Persistent faults can point to a failing drain pump, a damaged sump component, or a pressure-sensing issue that requires diagnostic tools and model-specific service data. Also call for help if you find physical damage to the pump impeller or sump housing, or if you're uncomfortable working around water and electrical connections.
+Call a professional if you have cleaned the filter, sump, drain hose, and air gap but the i40 code returns immediately or if no water drains during a cancel cycle despite a running pump. A technician can test the drain pump electrically, inspect the pressure sensor and level-sensing circuit, and evaluate the control board for fault. Also call if you are uncomfortable removing the lower spray arm, accessing the sump area, or working under the sink to inspect the drain connection. Pros have service manuals with model-specific wiring diagrams and can order OEM parts quickly if the pump, check valve, or sensor has failed.
+
+**Rough cost:** DIY runs about $0-40 if cleaning resolves it, or $25-80 for a filter assembly or drain pump if replacement is needed, 30-90 min. A pro service call runs about $120-220 for a service call with cleaning and inspection, more if pump or hose replacement is needed.

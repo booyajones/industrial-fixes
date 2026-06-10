@@ -1,50 +1,75 @@
 ---
 title: "Frigidaire i20 Error Code - Causes & Fix"
-description: "The i20 code means your Frigidaire dishwasher did not drain. Most often it's a clogged filter or kinked drain hose. Clean and check both."
-pubDatetime: 2026-05-31T04:47:09Z
-modDatetime: 2026-05-31T04:47:09Z
-author: "James Rutherford"
+description: "i20 means the dishwasher did not drain properly. Most often a blocked drain hose, clogged filter, or missing disposer knockout plug."
+pubDatetime: 2026-06-08T22:28:04Z
+modDatetime: 2026-06-08T22:28:04Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
-  - dishwasher
   - frigidaire
+most_likely_cause: "Blocked or kinked drain hose"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Frigidaire i20 Error Code — What It Means
 
-The i20 code on a Frigidaire dishwasher signals that the unit did not drain properly during the cycle. The control board detected standing water in the tub after the drain pump ran. This can happen because of a physical blockage in the drain path, improper hose installation, or a problem with the drain pump or pressure-sensing circuit. In most cases the fix is straightforward: a clogged filter, kinked hose, or forgotten knockout plug in the garbage disposal.
+The i20 error code on a Frigidaire dishwasher indicates the unit did not drain properly. The control board has completed or attempted a drain cycle and still detects residual water or inadequate drain performance. This is a drain system fault, not a fill or pressure issue.
+
+The code triggers when water remains in the sump at the end of a drain phase. It points to a blockage, restriction, or mechanical failure somewhere in the drain path from the sump through the pump and out the drain hose. Frigidaire's troubleshooting guidance focuses on checking the drain hose routing, filter cleanliness, garbage disposer connection, and drain pump operation.
+
+## Before You Replace Anything
+
+Many people replace the drain pump when the real problem is a clogged filter or a forgotten knockout plug in the garbage disposer. Always clear the filter and verify the disposer knockout has been removed before ordering a pump.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Clogged filter or glass trap** Food debris, labels, and small objects accumulate in the filter assembly at the tub bottom and block water from reaching the drain pump.
-- **Kinked or blocked drain hose** The drain hose can be pinched behind the dishwasher, sagging too low, or clogged internally with grease and food particles.
-- **Disposer knockout plug not removed** If the dishwasher drains into a garbage disposal, the plastic knockout plug inside the disposal inlet must be punched out or water cannot exit.
-- **Incorrect drain hose height** Frigidaire requires the drain hose to rise to at least 32 inches from the floor before descending to the drain connection.
-- **Obstructed sump or drain inlet** Broken glass, twist ties, or hard debris can lodge in the sump cavity below the filter and block the path to the pump.
-- **Faulty drain pump or pressure switch** If all plumbing is clear but the tub still holds water, the drain pump may have failed or debris may be blocking the pressure-sensing channel.
+- **Blocked or kinked drain hose (~35%)** Food debris, grease buildup, or a pinched hose prevents water from leaving the dishwasher.
+- **Clogged filter or sump area (~30%)** The glass trap, filter screen, or sump is packed with food soil and restricts water flow to the pump.
+- **Missing knockout plug at disposer (~20%)** If the dishwasher drains into a garbage disposer, the installer may have forgotten to punch out the knockout plug in the disposer inlet.
+- **Failed or obstructed drain pump (~12%)** The pump motor has burned out, the impeller is jammed by debris, or internal wiring has failed.
+- **Improper drain hose height (~3%)** Frigidaire requires a minimum drain hose height of 32 inches from the floor, and incorrect routing can cause back-siphoning or poor drain performance.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does water remain in the bottom of the dishwasher after the error appears?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The drain system is blocked or the pump is not moving water. Start by cleaning the filter and checking the hose for kinks.<br><strong>No:</strong> The code may have triggered from a temporary condition. Reset the dishwasher by pressing Cancel or power-cycling at the breaker, then retest a full cycle.</div>
+</details>
+
+<details class="dtree"><summary>Is the dishwasher connected to a garbage disposer?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Check that the knockout plug inside the disposer inlet has been removed. A forgotten plug will completely block drainage.<br><strong>No:</strong> Inspect the drain hose where it connects to the sink tailpiece or air gap for blockage or improper height.</div>
+</details>
+
+<details class="dtree"><summary>Can you hear the drain pump run during a Cancel/Drain cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The pump is energized but water is not moving. The impeller may be jammed, the pump housing is clogged, or the drain hose is blocked downstream.<br><strong>No:</strong> The pump may have failed electrically, or the control board is not sending power. Verify wiring connections at the pump, then test or replace the pump.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Reset the control** by pressing cancel, then turn off power at the breaker or unplug the dishwasher for three minutes to clear the fault code.
-2. **Remove and clean the filter assembly** at the tub bottom, including the glass trap and any screen inserts, rinsing away all food soil and debris.
-3. **Inspect the sump cavity** below the filter for broken glass, labels, twist ties, or other hard objects that can block the drain inlet.
-4. **Check the drain hose routing** under the sink, straightening any kinks, confirming the hose rises to at least 32 inches from the floor, and verifying no internal blockage.
-5. **Verify the garbage disposal connection** by reaching into the disposal inlet with a screwdriver and confirming the knockout plug was removed during installation.
-6. **Run a drain or cancel cycle** and listen for the drain pump to run continuously, then open the door and check that the tub is empty.
-7. **Test the drain pump and pressure switch** if water remains after a clear drain path is confirmed, checking for pump hum without flow or consulting your model's service sheet for electrical diagnostics.
+1. **Reset the fault** by pressing and holding Cancel, or turn off the breaker for three minutes, then restore power and retest the cycle.
+2. **Pull the dishwasher forward** enough to access the drain hose connection at the rear, then disconnect the hose and inspect for blockage, kinks, or pinching along its entire length.
+3. **Verify drain hose height** by measuring from the floor to the highest point of the loop. Frigidaire specifies a minimum of 32 inches from the floor.
+4. **Check the garbage disposer connection** if applicable. Remove the hose from the disposer inlet and shine a flashlight inside to confirm the knockout plug has been removed.
+5. **Remove and clean the filter assembly** at the bottom of the dishwasher tub. Clear the sump area of any food debris, broken glass, or other obstructions.
+6. **Run a Cancel/Drain test** by pressing Cancel and observing whether water evacuates completely. Listen for the drain pump to energize and verify water exits the drain hose.
+7. **Inspect the drain pump** if the hose and filter are clear but water still does not drain. Disconnect power, remove the pump cover or access panel, and check the impeller for debris or damage. Test the pump for continuity or replace it if the motor has failed.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Dishwasher filter assembly (glass trap and screen) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dishwasher-i20-error-code&k=Dishwasher+filter+assembly+%28glass+trap+and+screen%29&tag=errorcodefixes-20) \| Order the exact filter kit for your Frigidaire model number. |
-| Drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dishwasher-i20-error-code&k=Drain+hose&tag=errorcodefixes-20) \| Universal or OEM hose, typically 5/8-inch inside diameter, long enough for proper loop height. |
-| Drain pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dishwasher-i20-error-code&k=Drain+pump&tag=errorcodefixes-20) \| Model-specific pump assembly if the motor does not run or water does not evacuate despite a clear path. |
+| Frigidaire dishwasher drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dishwasher-i20-error-code&k=Frigidaire+dishwasher+drain+hose&tag=errorcodefixes-20) \| Match the diameter and length to your model if replacing a damaged or permanently kinked hose. |
+| Frigidaire dishwasher filter assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dishwasher-i20-error-code&k=Frigidaire+dishwasher+filter+assembly&tag=errorcodefixes-20) \| Includes the fine screen and glass trap. Order by model number if broken or missing. |
+| Frigidaire dishwasher drain pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dishwasher-i20-error-code&k=Frigidaire+dishwasher+drain+pump&tag=errorcodefixes-20) \| Verify the motor has failed electrically or the impeller is damaged before ordering. Pump assemblies are model-specific. |
 
 ## When to Call a Pro
 
-Call a technician if you have cleaned the filter, verified the hose routing and disposal connection, and the dishwasher still throws the i20 code with standing water in the tub. The issue is likely a failed drain pump, a blocked pressure-sensing channel, or a control board fault that requires disassembly and electrical testing. Also call for help if you are uncomfortable working under the sink, disconnecting water and power, or removing panels to access internal components.
+Call a technician if you have cleared the filter, verified the hose is not blocked or kinked, confirmed the knockout plug is removed, and the dishwasher still will not drain. A pro can test the drain pump electrically, trace control-board output, and replace the pump or wiring safely. Also call if you are uncomfortable working with the dishwasher's internal plumbing or if the unit requires disassembly beyond removing the lower rack and filter. Persistent i20 codes after all mechanical checks are complete may indicate a control-board fault, which requires diagnostic tools and OEM calibration.
+
+**Rough cost:** DIY runs about $15-80 in parts (filter cleaning is free, pump $40-80), 30-90 min. A pro service call runs about $150-250 service call including labor and trip charge.

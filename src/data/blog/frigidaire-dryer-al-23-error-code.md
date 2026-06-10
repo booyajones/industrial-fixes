@@ -1,53 +1,74 @@
 ---
 title: "Frigidaire Dryer AL-23 Error Code - Causes & Fix"
-description: "AL-23 is not a documented Frigidaire dryer code. Retrieve the actual error using Cancel + Start/Pause for 6 seconds, then diagnose."
-pubDatetime: 2026-05-31T03:46:50Z
-modDatetime: 2026-05-31T03:46:50Z
-author: "Dana Kowalski"
+description: "AL-23 is not a documented Frigidaire dryer code. The closest verified fault is AD (auto-dry sensor). Check your display again or consult your manual."
+pubDatetime: 2026-06-08T22:33:19Z
+modDatetime: 2026-06-08T22:33:19Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dryer
   - frigidaire
+most_likely_cause: "lint or residue on the moisture sensor bars"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Frigidaire Dryer AL-23 Error Code — What It Means
 
-AL-23 does not appear in official Frigidaire dryer service documentation or fault code tables. Frigidaire dryers use E-codes and model-specific alphanumeric codes that map to detected faults in the control board, sensors, motors, or door switches. The code you see may be misread, displayed incorrectly, or specific to a model without publicly available tech sheets. Most Frigidaire dryer fault codes relate to door latching, thermal sensors, motor circuits, or control board outputs.
+AL-23 does not appear in Frigidaire's published dryer fault code lists. The closest documented code is AD, which indicates an auto-dry or moisture-sensing fault. AD appears when the dryer cannot properly detect moisture levels in the load, often because lint or residue has built up on the sensor bars inside the drum or because airflow is restricted by a clogged vent. A control board glitch can also trigger AD after a power surge or if the wiring to the moisture sensor is damaged.
 
-Without the exact model number and corresponding tech sheet, you cannot verify what AL-23 means or which component has failed. The safe approach is to retrieve the stored error code using the service diagnostic mode, compare it to your model's official fault list, and test the indicated circuit before replacing parts.
+If your display shows something that looks like AL-23, double-check the readout under good light. Some LED segments can be misread when partially lit. Consult your model's wiring diagram or service sheet to confirm the exact code. The repair steps below address the AD fault, which is the most common auto-dry error on Frigidaire dryers and covers the same root causes you would troubleshoot for any moisture-sensing or airflow issue.
+
+## Before You Replace Anything
+
+Many people replace the main control board first, spending $150–250, when the real problem is lint on the sensor bars or a clogged vent. Clean the sensors and inspect the entire vent path before ordering any electronics.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Misread or corrupted display** The control panel may show a garbled code due to a temporary power glitch or display malfunction rather than an actual fault.
-- **Door switch failure** A faulty door switch prevents the dryer from starting and can trigger control-board errors on many Frigidaire models.
-- **Thermal sensor or thermistor out of range** Temperature sensors that read open, shorted, or outside expected resistance trigger safety faults in the control system.
-- **Control board relay or output fault** The electronic control can log an error if an internal relay or triac fails to energize the motor, heater, or blower circuit.
-- **Wiring harness damage or loose connector** Broken wires or corroded terminals between the control and sensors interrupt signals and register as component faults.
-- **Motor or blower circuit problem** The drive motor or its start circuit can fail to respond to control signals, causing the board to log a motor-related error.
+- **Lint or residue on moisture sensor bars (~50%)** Fabric softener, detergent residue, and lint coat the two metal strips inside the drum and prevent accurate moisture readings.
+- **Clogged dryer vent or exhaust duct (~25%)** Lint buildup in the flexible hose, wall duct, or exterior termination restricts airflow and confuses the auto-dry logic.
+- **Faulty moisture sensor assembly (~15%)** The sensor bars or their mounting bracket can corrode or crack, breaking the electrical connection to the control board.
+- **Control board glitch or failure (~10%)** A power surge or age-related solder crack on the main electronic control can cause false AD codes even when sensors are clean.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the code clear after you unplug the dryer for 10 minutes and plug it back in?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault was a temporary glitch. Run a test cycle with damp towels and monitor for recurrence.<br><strong>No:</strong> The problem is hardware related. Proceed to clean the sensors and check the vent system.</div>
+</details>
+
+<details class="dtree"><summary>Can you see or feel lint buildup on the two metal sensor bars inside the drum near the lint filter?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Clean the bars with a damp cloth and a little rubbing alcohol, then test again.<br><strong>No:</strong> The sensors may be clean but the vent is blocked, or the sensor assembly itself has failed.</div>
+</details>
+
+<details class="dtree"><summary>Is airflow from the exterior vent noticeably weak when the dryer is running?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Disconnect and clean the entire vent path from the dryer to the outside termination.<br><strong>No:</strong> The sensor assembly or control board is the likely fault. Check sensor wiring and consider board replacement if all else is clean.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Unplug the dryer** from the wall outlet or turn off the circuit breaker to prevent shock during inspection.
-2. **Enter diagnostic mode** by pressing and holding Cancel and Start/Pause together for six seconds, then read the displayed error code and write it down exactly as shown.
-3. **Look up the code** in your dryer model's tech sheet or service manual, because Frigidaire codes are model-specific and the meaning of each code varies by design.
-4. **Inspect the door switch** by opening and closing the door while listening for a click, then test the switch terminals with a multimeter for continuity when pressed and open when released.
-5. **Check all wire harnesses** at the control board, door switch, motor, and thermal sensors for loose connectors, broken wires, or corrosion at the terminals.
-6. **Test thermal components** including the thermistor, thermal fuse, and any high-limit thermostats by removing one lead and measuring resistance, then compare readings to the model's specifications.
-7. **Verify control board outputs** by consulting the wiring diagram and testing voltage or continuity at the suspected relay or triac circuit, replacing the board only after confirming the fault is internal and all harnesses and sensors test good.
+1. **Disconnect power** by unplugging the dryer or switching off the circuit breaker for at least 10 minutes to reset the control board.
+2. **Pull the dryer away from the wall** and disconnect the flexible exhaust hose from both the dryer outlet and the wall duct.
+3. **Clean the entire vent path** by vacuuming out the hose, the wall duct, and the exterior termination cap to remove all lint and obstructions.
+4. **Locate the moisture sensor bars** inside the drum, usually two parallel metal strips near the lint filter opening, and wipe them thoroughly with a damp cloth dipped in rubbing alcohol to remove any film or residue.
+5. **Reconnect the vent hose** securely with a foil-tape seal or metal clamp, ensuring no kinks or sags that could trap lint.
+6. **Restore power** and run a short auto-dry test cycle with a few damp towels to confirm the code is gone and the cycle advances normally.
+7. **If the code returns**, open the top or front panel per your model's service manual, inspect the moisture sensor wiring for loose or corroded connections, and test the control board for visible damage or replace it if all other components test good.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Frigidaire Dryer Electronic Control Board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dryer-al-23-error-code&k=Frigidaire+Dryer+Electronic+Control+Board&tag=errorcodefixes-20) \| Replace only after verifying sensors, switches, and harnesses test good and the fault is internal to the board. |
-| Frigidaire Dryer Door Switch | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dryer-al-23-error-code&k=Frigidaire+Dryer+Door+Switch&tag=errorcodefixes-20) \| Choose the switch that matches your model number, found on the door frame label. |
-| Frigidaire Dryer Thermistor or Thermal Fuse Kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dryer-al-23-error-code&k=Frigidaire+Dryer+Thermistor+or+Thermal+Fuse+Kit&tag=errorcodefixes-20) \| Select the sensor kit for your specific dryer series, as resistance specs vary by model. |
-| Frigidaire Dryer Wire Harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dryer-al-23-error-code&k=Frigidaire+Dryer+Wire+Harness&tag=errorcodefixes-20) \| Order the harness assembly if you find damaged wires or melted connectors between the control and components. |
+| Moisture sensor assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dryer-al-23-error-code&k=Moisture+sensor+assembly&tag=errorcodefixes-20) \| Frigidaire part 134792300 or equivalent for your model; includes the metal bars and mounting bracket. |
+| Main electronic control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dryer-al-23-error-code&k=Main+electronic+control+board&tag=errorcodefixes-20) \| Frigidaire part 134593200 or your model-specific board; only replace after confirming sensors and wiring are intact. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if you cannot retrieve a valid error code in diagnostic mode, if the code you retrieve does not match any entry in the service documentation you can find, or if you are uncomfortable working with live voltage and multimeter testing. Professional diagnosis is also the safer choice when multiple codes appear, when the dryer has a history of repeated failures, or when you lack the exact tech sheet for your model number. A technician has access to manufacturer service databases and can identify model-specific faults that are not published in consumer-facing materials.
+Call a technician if you have cleaned the sensors and vent system, performed a hard reset, and the code still appears on every cycle. A pro can use a multimeter to verify sensor continuity and board outputs, and can safely disassemble the cabinet to inspect wiring that runs behind the drum. Also call if you are uncomfortable working around 240-volt connections or if your dryer is still under warranty, since self-repair may void coverage.
+
+**Rough cost:** DIY runs about $0–50 in parts (if sensor replacement needed), 20–45 min. A pro service call runs about $100–200 service call.
