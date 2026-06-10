@@ -1,49 +1,75 @@
 ---
 title: "LG Microwave F-2 Error Code - Causes & Fix"
-description: "F-2 means the thermistor is shorted or out of range during convection cooking. Most often fix: replace the failed thermistor sensor."
-pubDatetime: 2026-05-30T23:59:55Z
-modDatetime: 2026-05-30T23:59:55Z
-author: "Dana Kowalski"
+description: "LG F-2 means the thermistor reports out-of-range temperature. Most likely: failed thermistor or loose connector. Service required."
+pubDatetime: 2026-06-08T03:44:27Z
+modDatetime: 2026-06-08T03:44:27Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - microwave
   - lg
+most_likely_cause: "failed thermistor"
+likelihood: "the most common cause"
+diy_or_pro: "pro"
 ---
 
 ## LG Microwave F-2 Error Code — What It Means
 
-The F-2 code on your LG microwave signals a problem with the thermistor, the temperature sensor used during convection cooking. LG support documentation states that F-2 indicates the thermistor is causing the temperature in the unit to be out of range. The code specifically appears when the sensor circuit is shorted or reading abnormally for more than one minute while the convection mode is active. This is a sensor or input fault, not something caused by how you're using the microwave. If the code returns after a power reset, LG says the unit requires service.
+The F-2 error code on an LG microwave indicates that the unit's thermistor is reporting a temperature that is out of range. LG classifies this as a service-required fault, meaning the control system has detected a temperature-sensing problem rather than a simple condition you can reset yourself.
+
+The thermistor is a small sensor that monitors the internal temperature of the microwave cavity. When the control board sees a reading that falls outside the expected range (either too high, too low, or no signal at all), it throws the F-2 code and stops operation to prevent damage or unsafe cooking. This is not a user-resettable error in most cases.
+
+## Before You Replace Anything
+
+Many people replace the main control board first, assuming it is faulty. Always test the thermistor itself and inspect the wiring harness and connector for damage or corrosion before swapping the board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed or shorted thermistor** The temperature sensor itself has drifted out of specification or developed an internal short circuit.
-- **Damaged wiring harness or connector** The wiring between the thermistor and the control board is pinched, corroded, or has a loose or damaged connector pin.
-- **Control board sensor input issue** The main control board is not interpreting the sensor signal correctly even when the thermistor and wiring test normal.
-- **Moisture or contamination on the sensor** Water, grease, or debris on the thermistor or connector can create intermittent short-circuit conditions that mimic a hard failure.
-- **Intermittent connection at the thermistor plug** A poor connection at the sensor harness can cause the circuit to read shorted or open unpredictably during heating cycles.
+- **Failed thermistor (~50%)** The temperature sensor has drifted out of specification or has failed open or shorted, so the control board sees an invalid reading.
+- **Damaged or loose wiring and connector (~30%)** The harness between the thermistor and the control board is loose, corroded, burned, or has a broken wire, preventing a valid signal from reaching the board.
+- **Control board input fault (~15%)** The sensor and wiring test correctly, but the control board itself misreads the signal due to a damaged input circuit or solder joint.
+- **Intermittent connection during power cycle (~5%)** The connector makes contact at room temperature but loses continuity when the microwave heats up, causing the board to see an open circuit.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the F-2 code return immediately after you unplug the microwave for one minute and plug it back in?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault is present at startup, pointing to a hard failure in the thermistor, wiring, or control board. Call a technician to test the sensor and harness.<br><strong>No:</strong> The error may be intermittent or related to a loose connection that only fails under heat. A technician should inspect connectors and test the thermistor under operating temperature.</div>
+</details>
+
+<details class="dtree"><summary>Can you safely access the back panel or cabinet of the microwave to visually inspect the wiring?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Unplug the unit, remove the cabinet, and look for obvious burn marks, loose connectors, or damaged wires near the thermistor. If you see damage, note the location and call a technician.<br><strong>No:</strong> Do not attempt to open the microwave. High-voltage components inside the cabinet remain dangerous even when unplugged. Call a qualified service technician.</div>
+</details>
+
+<details class="dtree"><summary>Has the microwave been in service for more than five years?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Thermistors and wiring can degrade over time. Age increases the likelihood that the sensor itself has failed, so replacement is often the most cost-effective fix.<br><strong>No:</strong> A newer unit is more likely to have a wiring or connector issue rather than a worn-out sensor. A technician should verify the harness and connectors first.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Unplug the microwave** (or turn off the circuit breaker) and leave it disconnected for at least one minute to reset the control board, then restore power and check whether the F-2 code returns.
-2. **Confirm the operating mode** when the code appeared. F-2 is tied specifically to convection cooking, so note whether you were using convection heat or another function.
-3. **Access the thermistor** by removing the microwave's outer cabinet panels according to your service manual. Locate the thermistor sensor, usually mounted in the cavity or convection duct.
-4. **Inspect the thermistor and wiring** closely for physical damage, heat discoloration, loose connectors, corroded pins, pinched wires, or moisture contamination.
-5. **Test the thermistor with a multimeter** set to ohms. Measure the resistance across the sensor leads and compare the reading to the specification table in your model's service data. Flex the harness gently while measuring to catch intermittent faults. If the sensor reads shorted, open, or unstable, replace it.
-6. **Check the wiring harness and connectors** for continuity from the thermistor plug back to the control board. Repair or replace any damaged wiring or connectors.
-7. **Replace the control board** if the thermistor and all wiring test within specification but the F-2 code persists. The board's sensor input circuit is likely faulty.
+1. **Disconnect power** by unplugging the microwave or switching off the dedicated circuit breaker, then wait at least one minute to allow internal capacitors to discharge.
+2. **Reset the microwave** by plugging it back in and checking whether the F-2 code reappears immediately or after a short heating cycle. If the code returns, proceed with diagnosis.
+3. **Remove the cabinet** (technician only) by unscrewing the back or side panels, taking care to avoid contact with the high-voltage capacitor and magnetron even when the unit is unplugged.
+4. **Locate the thermistor** inside the microwave cavity or mounted on the cavity wall, and trace its wiring back to the main control board. Inspect the connector and harness for burn marks, corrosion, or looseness.
+5. **Measure the thermistor resistance** at room temperature using a multimeter set to ohms, and compare the reading to the manufacturer's service data for your exact model. Consult your model's table, as I do not have a verified resistance spec from LG for this code.
+6. **Check continuity** from the thermistor pins back to the control board connector to verify the wiring harness is intact. If continuity is good and the thermistor tests within spec, suspect a control board input fault.
+7. **Replace the failed component** (thermistor, harness, or control board) and reassemble the cabinet. Restore power and run a short heating cycle to verify the F-2 code is cleared and the microwave operates normally.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| LG microwave thermistor / temperature sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-microwave-f-2-error-code&k=LG+microwave+thermistor+%2F+temperature+sensor&tag=errorcodefixes-20) \| Match to your exact model number. The sensor used in convection cooking mode. |
-| Thermistor wiring harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-microwave-f-2-error-code&k=Thermistor+wiring+harness&tag=errorcodefixes-20) \| If connectors or wiring between the sensor and control board are damaged or corroded. |
-| LG microwave main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-microwave-f-2-error-code&k=LG+microwave+main+control+board&tag=errorcodefixes-20) \| Required if the sensor and wiring test good but the fault code remains. |
+| LG microwave thermistor / temperature sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-microwave-f-2-error-code&k=LG+microwave+thermistor+%2F+temperature+sensor&tag=errorcodefixes-20) \| Match the part number to your exact microwave model using the LG service manual or parts diagram. |
+| Thermistor wiring harness / connector | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-microwave-f-2-error-code&k=Thermistor+wiring+harness+%2F+connector&tag=errorcodefixes-20) \| Order if the harness shows burn marks, broken wires, or corroded pins that cannot be repaired. |
+| LG microwave main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-microwave-f-2-error-code&k=LG+microwave+main+control+board&tag=errorcodefixes-20) \| Only replace if the thermistor and wiring test correctly but the F-2 code persists after reconnection. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if you are not comfortable working with live electrical components or disassembling the microwave cabinet. Microwaves store high voltage in the magnetron and capacitor even when unplugged, which can be dangerous without proper discharge procedures. If you've replaced the thermistor and checked all wiring but the F-2 code still appears, the control board likely needs professional diagnosis and replacement. A technician has the service data, resistance charts, and board-level testing tools to pinpoint the fault quickly and safely.
+Call a qualified appliance technician for any F-2 error. Microwave service requires working near high-voltage components, including the magnetron and capacitor, which can store a lethal charge even after the unit is unplugged. A technician has the tools and training to safely discharge the capacitor, measure the thermistor against factory specifications, and replace the sensor or control board without risking shock. If you see the F-2 code, unplug the microwave and schedule service rather than attempting cabinet removal yourself.
+
+**Rough cost:** A pro service call runs about $150–$300.

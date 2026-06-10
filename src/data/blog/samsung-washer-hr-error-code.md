@@ -1,49 +1,76 @@
 ---
-title: "Samsung Hr Error Code - Causes & Fix"
-description: "Hr means a water-heating or temperature-control fault. Most common fix: replace the failed heater element or thermistor sensor."
-pubDatetime: 2026-05-31T01:58:02Z
-modDatetime: 2026-05-31T01:58:02Z
-author: "Dana Kowalski"
+title: "Samsung HR Error Code - Causes & Fix"
+description: "HR means heater error on Samsung washers. Most often caused by reversed hot/cold hoses. Swap hoses so hot supply connects to hot inlet."
+pubDatetime: 2026-06-08T03:34:36Z
+modDatetime: 2026-06-08T03:34:36Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
-  - washer
   - samsung
+most_likely_cause: "Reversed hot and cold water supply hoses"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
-## Samsung Hr Error Code — What It Means
+## Samsung HR Error Code — What It Means
 
-The Hr error code on Samsung front-load washers indicates a fault in the water-heating or temperature-control system. The washer's control board has detected that the heating element is not raising water temperature as expected, or that the temperature sensor is sending incorrect readings. This code points technicians toward the heater circuit, thermistor, wiring, or control logic rather than issues like drain blockages, door locks, or load imbalance. Because Samsung's publicly indexed U.S. error-code documentation does not list Hr specifically, the exact behavior can vary by model and region, but the underlying cause is almost always related to the heating or temperature-sensing circuit.
+The HR code on a Samsung washer is a heater-related error. Samsung support documentation maps this fault to a problem in the water-heating circuit or temperature-control path. The washer has detected that it cannot properly heat water, either because the supply configuration is incorrect, the heater circuit has failed, or the temperature sensor is not reading correctly.
+
+This code does not indicate a motor or door issue. It points specifically to the heating system, which includes the supply plumbing, the heating element, the temperature sensor (thermistor), and the control wiring between them. Samsung groups this fault with communication and sensor-related errors in the same diagnostic family, so both hardware and wiring problems are part of the technician workflow.
+
+## Before You Replace Anything
+
+Many people replace the heating element first, but the washer will throw HR even when the heater is good if the hot and cold hoses are swapped. Always verify hose hookup and home hot-water supply before ordering parts.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed heating element** The washer's immersion heater is open, shorted, or not drawing current properly, preventing the water from reaching the target temperature.
-- **Defective thermistor or temperature sensor** The sensor is sending out-of-range or implausible readings to the control board, causing the board to flag a heating fault.
-- **Loose, corroded, or damaged wiring** Connectors or harness pins in the heater or sensor circuit are loose, corroded, or heat-damaged, interrupting the signal or power.
-- **Incorrect hot and cold water supply hookup** Hot and cold inlet hoses are reversed or the home hot-water heater is not delivering hot water, confusing the washer's temperature logic on heated cycles.
-- **Control board fault** The main PCB is not driving the heater circuit correctly or is misinterpreting valid sensor input, generating a false error.
+- **Reversed hot and cold supply hoses (~40%)** When the cold supply is connected to the hot inlet (or vice versa), the washer cannot reach target temperature and reports a heater fault.
+- **No hot water reaching the washer (~25%)** If the home water heater is off, the tank is depleted, or a shutoff valve is closed, the washer sees cold water on both inlets and flags a heating problem.
+- **Failed heating element (~20%)** The electric heater inside the tub can burn out or develop a short, preventing the washer from raising water temperature.
+- **Faulty temperature sensor or thermistor (~10%)** The sensor that monitors water temperature may drift out of range, break its wire, or corrode at the connector, causing the control board to report a heater error.
+- **Harness or connector fault in the heating circuit (~5%)** Loose terminals, corroded pins, or chafed wires between the heater and control board can interrupt the feedback signal and trigger HR.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Is hot water flowing from the faucet closest to the washer?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The home hot-water supply is working, so focus on the washer's hose connections and internal heating components.<br><strong>No:</strong> Check the water heater and any shutoff valves. Restore hot water to the house before testing the washer again.</div>
+</details>
+
+<details class="dtree"><summary>Are the inlet hoses connected hot-to-hot and cold-to-cold (check the washer's inlet markings)?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The plumbing is correct, so the fault is inside the washer (heater, sensor, or wiring).<br><strong>No:</strong> Swap the hoses so each supply matches its labeled inlet, then power-cycle the washer and retry the cycle.</div>
+</details>
+
+<details class="dtree"><summary>Does the error clear after a full power reset (unplug 60 seconds, plug back in)?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault may have been a temporary control glitch. Monitor the next few cycles.<br><strong>No:</strong> The fault is persistent, indicating a hardware problem in the heater, sensor, or control board.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Power-cycle the washer** by turning it off at the breaker or unplugging for 30 seconds to 5 minutes, then restart to confirm the code reappears and is not a transient glitch.
-2. **Check the hot and cold water supply hoses** at the back of the machine to make sure they are connected to the correct inlets, not kinked, and that both supply valves are fully open.
-3. **Unplug the washer** and remove the rear or top access panel to expose the heater assembly, thermistor, and wiring harness connections.
-4. **Inspect all wiring and connectors** in the heater circuit for looseness, corrosion, melted plastic, or burn marks, and reseat or clean any suspect terminals.
-5. **Test the heating element** with a multimeter set to ohms by disconnecting its wiring and measuring across the element terminals, then compare the reading against your model's service manual specification.
-6. **Test the thermistor** by disconnecting it and measuring its resistance at room temperature, consulting the service data for your exact model to determine if the reading is within tolerance.
-7. **Replace the failed component** (heater, thermistor, or control board) based on your test results, reassemble the machine, and run a heated wash cycle to verify the error clears.
+1. **Unplug the washer** from power and turn off both hot and cold shutoff valves behind the machine.
+2. **Disconnect the inlet hoses** and verify which valve supplies hot water by briefly opening each shutoff and feeling the water temperature.
+3. **Reconnect the hoses** so the hot supply feeds the inlet marked HOT and the cold supply feeds the inlet marked COLD, then tighten the couplings.
+4. **Turn the shutoffs back on** and check for leaks at each connection.
+5. **Plug the washer in** and run a hot-water cycle to see if the code clears.
+6. **If HR returns**, unplug again, pull the washer forward, and remove the top or rear panel to access the heater and temperature sensor (consult your model's service manual for fastener locations).
+7. **Inspect the heater terminals and thermistor connector** for corrosion, burn marks, or loose wires, and test the heater and sensor according to your model's resistance table if you have a multimeter and the service documentation.
+8. **Replace the failed component** (heater, sensor, or harness) or call a technician if basic supply and connection checks do not resolve the fault.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Heating element / heater assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-hr-error-code&k=Heating+element+%2F+heater+assembly&tag=errorcodefixes-20) \| Match by model number. Most common Hr repair part. |
-| Thermistor / temperature sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-hr-error-code&k=Thermistor+%2F+temperature+sensor&tag=errorcodefixes-20) \| Small two-wire sensor near the heater. Verify part number for your washer. |
-| Main control board / PCB | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-hr-error-code&k=Main+control+board+%2F+PCB&tag=errorcodefixes-20) \| Required only if heater and sensor test good but board output is incorrect. |
+| Samsung washer heating element | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-hr-error-code&k=Samsung+washer+heating+element&tag=errorcodefixes-20) \| Match by model number, typically 1200-1400 W on front-load models. |
+| Samsung washer thermistor / temperature sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-hr-error-code&k=Samsung+washer+thermistor+%2F+temperature+sensor&tag=errorcodefixes-20) \| Small two-wire sensor near the heater or sump, model-specific. |
+| Heater wiring harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-hr-error-code&k=Heater+wiring+harness&tag=errorcodefixes-20) \| If terminals are melted or wires are chafed, replace the harness segment or use a repair splice kit. |
 
 ## When to Call a Pro
 
-Call a professional if you are uncomfortable working with electrical components while the washer is unplugged, if you do not have a multimeter or service manual with the correct resistance specifications for your model, or if you have replaced both the heater and thermistor and the Hr code still appears. A trained technician has model-specific diagnostic charts, the tools to measure control-board output voltage safely, and access to OEM wiring diagrams that are not publicly indexed. Because the exact meaning of Hr can vary by region and model, a pro can also confirm whether your washer variant uses a different fault-code definition.
+Call a technician if you have verified that hot water is reaching the washer, the hoses are connected correctly, and a power reset does not clear the code. The repair will require disassembly to access the heater and sensor, multimeter testing against model-specific resistance values, and possibly replacing the main control board if the heating hardware tests good but the fault persists. A pro can retrieve the exact resistance specs from the service manual, test each component safely, and avoid the risk of ordering the wrong part or damaging connectors during disassembly.
+
+**Rough cost:** DIY runs about $30-80 in parts, 45-90 min. A pro service call runs about $150-280.

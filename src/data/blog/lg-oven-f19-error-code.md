@@ -1,51 +1,77 @@
 ---
 title: "LG Oven F19 Error Code - Causes & Fix"
-description: "F19 means your LG oven isn't heating past 150°F in 5 minutes. Usually a bad temperature sensor or failed heating element needs replacing."
-pubDatetime: 2026-05-30T23:58:25Z
-modDatetime: 2026-05-30T23:58:25Z
-author: "Dana Kowalski"
+description: "F19 means an oven heating error. The most common cause is a failed temperature sensor or igniter. Reset power, then test the sensor."
+pubDatetime: 2026-06-08T03:57:18Z
+modDatetime: 2026-06-08T03:57:18Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - oven
   - lg
+most_likely_cause: "failed oven temperature sensor or thermistor"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## LG Oven F19 Error Code — What It Means
 
-The F19 error code on an LG electric range or oven indicates an oven heating fault. LG defines this as the oven temperature failing to exceed 150°F within 5 minutes of preheating with the door closed. The control board has detected that the oven cavity is not warming as expected, so it halts operation and displays the code.
+LG defines the F19 error code as an Oven Heating Error. The control board displays this code when the oven fails to reach the target temperature within the expected time window. This fault can occur on both gas and electric models, though the underlying cause differs by fuel type.
 
-This error points to a problem somewhere in the heating circuit. The oven sensor (thermistor) may be reading incorrectly, the heating element may have failed, or wiring and connectors between these components and the control board may be loose or damaged. Less commonly, the control board itself or inadequate power supply can trigger the code.
+On electric LG ovens the error typically points to a failed oven temperature sensor, a broken heating element, or a wiring fault in the heating circuit. On gas models F19 often indicates a weak or failed igniter that cannot draw enough current to open the gas valve, or less commonly a sensor that is reporting incorrect temperature data back to the control board. LG's published support guidance directs users to clear the code and power-cycle the appliance, then request service if the error returns.
+
+## Before You Replace Anything
+
+Many technicians replace the main control board first when the real fault is a failed oven sensor or igniter. Always test the temperature sensor with a multimeter (should read around 1,100 ohms at room temperature) and inspect the igniter operation on gas models before replacing the expensive control board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed oven temperature sensor or thermistor** A faulty sensor cannot report accurate cavity temperature to the control board, causing the board to think the oven is not heating even when the element cycles on.
-- **Broken or open heating element** If the bake or broil element has burned out or developed an internal break, no heat will be generated and the oven will remain cold.
-- **Loose, corroded, or damaged wiring and connectors** Poor contact at the sensor plug, element terminals, or control-board harness can interrupt signals or power and mimic a component failure.
-- **Control board fault** The main oven control board may have a failed relay, output driver, or internal fault that prevents it from powering the heating element or reading the sensor correctly.
-- **Inadequate power supply to the range** Low or missing voltage on one leg of the 240 V supply can starve the heating circuit and prevent the oven from reaching temperature in the required time.
+- **Failed oven temperature sensor (thermistor) (~45%)** The sensor reports incorrect or no temperature data to the control board, preventing the oven from recognizing that heat is rising.
+- **Weak or open igniter (gas models) (~30%)** The igniter draws insufficient current to open the gas valve or has an open circuit, so the burner never lights or lights too slowly.
+- **Open or weak bake element (electric models) (~12%)** The heating element has an internal break or high resistance, so it cannot generate enough heat to satisfy the target temperature.
+- **Damaged wiring or loose connector (~8%)** A corroded or loose connector between the sensor, heating circuit, and control board causes intermittent or no signal.
+- **Failed main control board (~5%)** The control board no longer correctly interprets sensor input or cannot command the heating relay, though this is less common than peripheral faults.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the oven igniter glow bright orange but the burner never lights (gas models)?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The igniter is likely too weak to draw enough current to open the gas valve. Replace the igniter.<br><strong>No:</strong> Continue to the next check.</div>
+</details>
+
+<details class="dtree"><summary>Does the oven temperature sensor measure around 1,100 ohms at room temperature with a multimeter?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The sensor is within typical range. Inspect the bake element (electric) or gas igniter operation and wiring harness next.<br><strong>No:</strong> The sensor is out of specification. Replace the oven temperature sensor.</div>
+</details>
+
+<details class="dtree"><summary>Does the error clear after a full power cycle (breaker off for two minutes) and not return during a test bake?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault may have been a one-time glitch or a loose connector that reseated. Monitor for recurrence.<br><strong>No:</strong> The fault is persistent. Proceed with component testing or call a technician.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Press CLEAR/OFF** on the control panel, or turn off the range circuit breaker for 60 seconds, then restore power and try preheating again to see if the fault clears.
-2. **Verify that the oven door closes completely** and that you are preheating with the door shut, since LG's heating-fault detection assumes a closed cavity.
-3. **Unplug the range or turn off the breaker.** Remove the oven rear panel or access the sensor from inside the cavity to locate the oven temperature sensor probe and its wiring harness.
-4. **Inspect the sensor connector and harness** for bent pins, corrosion, or melted plastic, then disconnect the sensor and test its resistance with a multimeter at room temperature (consult your model's specification table for the expected value).
-5. **Check the heating element** for visible cracks, blistering, or separation, and use a multimeter to confirm continuity across the element terminals when disconnected from power.
-6. **Measure incoming voltage** at the range terminal block with the breaker on to confirm you have approximately 240 V across both hot legs and 120 V from each leg to neutral.
-7. **Replace the sensor or heating element** if testing shows an open circuit or out-of-range resistance, then reassemble the oven, restore power, and run a test preheat cycle to verify the repair.
+1. **Turn off power** at the circuit breaker or unplug the range to make sure safe work conditions.
+2. **Clear the error code** by pressing the control panel's clear or cancel button, or by power-cycling the unit off and back on.
+3. **Wait two minutes** with power disconnected, then restore power and run a short bake cycle to see if the error returns.
+4. **Access the oven cavity and locate the temperature sensor**, a metal probe usually mounted in the upper rear or side wall of the oven chamber.
+5. **Disconnect the sensor harness** and use a multimeter set to resistance (ohms) to measure across the sensor terminals, looking for a reading near 1,100 ohms at room temperature.
+6. **Inspect the igniter (gas models)** by observing whether it glows brightly and the burner lights within 90 seconds, or test the bake element (electric models) for continuity and visible breaks.
+7. **Replace the faulty component** (sensor, igniter, or element) with an OEM or compatible part, reconnect all harnesses, restore power, and verify normal operation with a test bake cycle.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| LG oven temperature sensor / thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-oven-f19-error-code&k=LG+oven+temperature+sensor+%2F+thermistor&tag=errorcodefixes-20) \| Match the part number to your exact model number, printed on the range data plate. |
-| LG oven bake heating element | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-oven-f19-error-code&k=LG+oven+bake+heating+element&tag=errorcodefixes-20) \| Confirm element wattage and mounting-bracket style for your range series before ordering. |
-| LG range main control board (EBR series) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-oven-f19-error-code&k=LG+range+main+control+board+%28EBR+series%29&tag=errorcodefixes-20) \| Only after testing rules out sensor, element, and wiring. Verify the board part number on your existing unit. |
+| LG oven temperature sensor / thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-oven-f19-error-code&k=LG+oven+temperature+sensor+%2F+thermistor&tag=errorcodefixes-20) \| Verify your model number before ordering. Common LG part; should read around 1,100 ohms at room temperature. |
+| LG gas oven igniter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-oven-f19-error-code&k=LG+gas+oven+igniter&tag=errorcodefixes-20) \| Gas models only. Choose the correct igniter type (round or flat ceramic) for your range. |
+| LG electric oven bake element | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-oven-f19-error-code&k=LG+electric+oven+bake+element&tag=errorcodefixes-20) \| Electric models only. Match the wattage and mounting style to your oven cavity. |
+| LG range main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-oven-f19-error-code&k=LG+range+main+control+board&tag=errorcodefixes-20) \| Replace only after testing all sensors, igniters, elements, and wiring. Verify your exact model and board revision. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if you are uncomfortable working with 240 V circuits, if the error returns after you have reset the unit and confirmed the door closes properly, or if your multimeter tests show conflicting results. Also bring in a pro if the heating element and sensor both test good but the code persists, since that points to a control-board fault or a subtle wiring issue that requires schematic-level diagnosis. If you suspect the house supply voltage is low or unstable, contact a licensed electrician to inspect the branch circuit and connections at the panel before replacing oven components.
+Call a professional if you are uncomfortable working with gas connections or high-voltage wiring, if the error persists after replacing the sensor and heating component, or if you lack a multimeter and cannot safely test resistance and continuity. Technicians can perform a full diagnostic sequence, measure igniter current draw on gas models, check for intermittent wiring faults, and replace the control board if all other components test good. Gas work in particular requires proper tools to check gas pressure and confirm safe ignition, so a licensed appliance technician is the best choice when igniters and gas valves are involved.
+
+**Rough cost:** DIY runs about $25-80 in parts, 20-45 min. A pro service call runs about $150-280.

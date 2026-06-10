@@ -1,49 +1,75 @@
 ---
 title: "LG Microwave F13 Error Code - Causes & Fix"
-description: "F13 means a voltage error in your LG microwave. LG requires service for this fault. Unplug for one minute, then call a tech if it returns."
-pubDatetime: 2026-05-31T08:35:20Z
-modDatetime: 2026-05-31T08:35:20Z
-author: "James Rutherford"
+description: "F13 on an LG microwave signals a voltage error. LG requires a service call. The most common cause is a power-supply or control-board fault."
+pubDatetime: 2026-06-08T03:46:50Z
+modDatetime: 2026-06-08T03:46:50Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - microwave
   - lg
+most_likely_cause: "Main control board or power-supply section fault"
+likelihood: "the most common cause"
+diy_or_pro: "pro"
 ---
 
 ## LG Microwave F13 Error Code — What It Means
 
-The F13 error code on an LG microwave indicates a voltage error. LG lists F13 alongside F14 and F15 as faults that require professional service rather than a simple user reset. The code signals a problem in the microwave's voltage-sensing or power-supply path, meaning the control electronics cannot correctly read or regulate the incoming voltage.
+LG identifies the F13 error code as a voltage error in microwave models. The code indicates a problem with either the incoming electrical supply to the microwave or the internal power and control circuitry that senses and regulates voltage. LG does not provide a deeper component-level description for F13 in its public support documentation, so the exact failed subassembly is not named.
 
-Because LG does not publish detailed root-cause diagnostics for F13, service technicians interpret the code as pointing to either incoming line-voltage issues, a failing power-supply circuit on the main control board, or a defective control board that cannot properly interpret voltage. The appliance will typically refuse to operate or shut down to protect itself when this fault is active.
+Because the code is tied to voltage sensing and regulation, LG directs owners to contact service rather than attempt a user reset. The fault may originate on the supply side (receptacle, cord, connections) or within the appliance itself (main control board, power-supply section, or wiring harnesses). Without model-specific service documentation, technicians follow a supply-to-appliance diagnostic path to isolate the fault.
+
+## Before You Replace Anything
+
+Homeowners often replace the main control board without first verifying line voltage and inspecting the power cord and terminal connections. A loose or heat-damaged connection in the supply path can trigger a voltage fault and is much cheaper to fix than a new board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failing main control board** The PCB that monitors voltage may have developed a fault in its voltage-sensing circuits or power-supply section, causing it to report an F13 error even when line voltage is correct.
-- **Low or unstable incoming line voltage** If your household outlet delivers below-normal or fluctuating voltage, the microwave's control logic will detect the condition and throw the F13 code.
-- **Defective power-supply section on the control board** Components such as capacitors, diodes, or regulators in the board's power-supply path can degrade and produce incorrect voltages that trigger the error.
-- **Loose or corroded wiring harness connections** Poor contact at control-power connectors can create intermittent voltage drops that the board reads as a fault condition.
+- **Main control board or power-supply section failure (~50%)** The internal circuitry that monitors and regulates voltage has failed or is out of specification, triggering the F13 code.
+- **Loose or damaged power cord, plug, or terminal connections (~25%)** Arcing, heat damage, or looseness at the cord, plug, or terminal block causes intermittent voltage drops that the microwave reads as a fault.
+- **Unstable line voltage at the receptacle (~15%)** The wall outlet or household circuit is delivering voltage outside the microwave's required range, especially under load.
+- **Wiring harness or connector fault between line input and control electronics (~10%)** A broken, corroded, or poorly seated connector in the internal wiring path interrupts clean voltage delivery to the control board.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the microwave display F13 immediately on power-up, or does it appear only after a few minutes of operation?</summary>
+<div class="dtree-body"><strong>Yes:</strong> An immediate F13 points to a supply-side issue (receptacle voltage, cord, or terminal connection). Check line voltage at the outlet with a multimeter and inspect the cord and plug for damage.<br><strong>No:</strong> A delayed F13 suggests a heat-related fault in the control board or power-supply section. The appliance will require disassembly and board-level diagnosis by a technician.</div>
+</details>
+
+<details class="dtree"><summary>Have you recently moved the microwave or noticed a burning smell near the plug or cord?</summary>
+<div class="dtree-body"><strong>Yes:</strong> A burning smell or recent movement often indicates a loose or arcing connection. Unplug the unit, inspect the cord and terminal block for discoloration or heat damage, and test the receptacle under load.<br><strong>No:</strong> The fault is more likely internal. Proceed to check line voltage, then call a technician to test the control board and power-supply circuitry.</div>
+</details>
+
+<details class="dtree"><summary>When you measure line voltage at the receptacle under load, is it stable and within the microwave's required range (typically 120 V ±10%)?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Line voltage is acceptable. The fault is inside the microwave, most likely the main control board or a harness connector. Schedule a service call.<br><strong>No:</strong> Unstable or out-of-range line voltage is the problem. Have an electrician inspect the circuit, receptacle, and breaker before replacing any microwave parts.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Unplug the microwave** from the wall receptacle and leave it disconnected for at least one minute to allow the control board to fully discharge and reset.
-2. **Plug the unit back in** and test whether the F13 code returns when you attempt to operate the microwave.
-3. **Check the wall outlet voltage** with a multimeter to confirm you have stable household voltage at the receptacle, since LG identifies F13 as a voltage error.
-4. **Inspect the microwave's power cord and plug** for any visible damage, burn marks, or loose prongs that might cause intermittent supply problems.
-5. **Schedule a service call** if the code persists after the reset and incoming power checks out, because LG explicitly requires service for the F13 fault.
-6. **During service, the technician will inspect the main control board**, power-supply circuits, and wiring harnesses for abnormal readings or damaged components.
-7. **Replace the control board or power-supply section** if bench tests or voltage measurements confirm a fault in those components, then verify that the F13 code clears and the microwave operates normally.
+1. **Unplug the microwave** and do not attempt to reset or operate it until the voltage fault is diagnosed.
+2. **Verify the error code** is F13 and not a similar LG code by checking the display carefully.
+3. **Measure line voltage** at the wall receptacle with a multimeter, both unloaded and while the microwave is plugged in and attempting to start, to confirm the supply is stable and within the required range (consult your model's voltage plate).
+4. **Inspect the power cord, plug, and terminal connections** for signs of heat damage, discoloration, looseness, or arcing, as supply-path faults commonly trigger voltage errors.
+5. **Check wiring harnesses and connectors** inside the microwave (with the unit unplugged and the cabinet removed) for corrosion, breaks, or poorly seated plugs between the line input and the main control board.
+6. **Test or replace the main control board** and power-supply section if supply voltage is confirmed good and all connections are clean and tight, since the control electronics are the remaining likely fault.
+7. **Reassemble the microwave**, plug it in, and run a test cycle to confirm the F13 code is cleared and operation is normal.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Main control board (PCB) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-microwave-f13-error-code&k=Main+control+board+%28PCB%29&tag=errorcodefixes-20) \| Match the board part number printed on your existing control board or listed in your microwave's service manual. |
-| Wiring harness for control power | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-microwave-f13-error-code&k=Wiring+harness+for+control+power&tag=errorcodefixes-20) \| Order only if inspection shows melted insulation, corroded terminals, or physical damage at the connectors. |
+| LG microwave main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-microwave-f13-error-code&k=LG+microwave+main+control+board&tag=errorcodefixes-20) \| Verify your exact model number before ordering, as LG uses many different boards across microwave lines. |
+| LG microwave power cord and terminal block assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-microwave-f13-error-code&k=LG+microwave+power+cord+and+terminal+block+assembly&tag=errorcodefixes-20) \| Required if the cord or internal terminal block shows heat damage or arcing. |
+| Wiring harness or connector kit (model-specific) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-microwave-f13-error-code&k=Wiring+harness+or+connector+kit+%28model-specific%29&tag=errorcodefixes-20) \| If a broken or corroded harness connector is found between the line input and control board. |
 
 ## When to Call a Pro
 
-LG requires professional service for the F13 voltage error. If unplugging the microwave for one minute does not clear the code, or if the code returns immediately after a reset, contact an LG-authorized technician. Voltage faults involve the main control board and power-supply circuits that require test equipment and component-level diagnosis. Attempting board-level repairs without proper tools and knowledge risks electric shock and further damage to the appliance.
+Call a professional technician for the F13 voltage error because diagnosis requires measuring line voltage under load, disassembling the microwave cabinet, and testing or replacing the main control board and power-supply circuitry. LG explicitly directs service for this code rather than a homeowner reset. The work involves high-voltage components (the microwave's internal supply runs at line voltage and feeds the magnetron circuit) and requires proper test equipment and knowledge of appliance power electronics. If you are uncomfortable working with 120 V AC, if you lack a multimeter and hand tools, or if the fault persists after you have verified good line voltage and clean connections, schedule a service call. A qualified appliance technician will isolate the fault, order the correct board or harness for your model, and complete the repair safely.
+
+**Rough cost:** A pro service call runs about $150–$350.

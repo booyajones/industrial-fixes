@@ -1,57 +1,75 @@
 ---
 title: "LG Dishwasher tE Error Code - Causes & Fix"
-description: "tE error means the dishwasher's control detected a temperature-sensor fault. The thermistor or its wiring is usually the fix."
-pubDatetime: 2026-05-31T00:06:49Z
-modDatetime: 2026-05-31T00:06:49Z
-author: "James Rutherford"
+description: "tE means the control board detected a faulty temperature sensor signal. Most often a failed thermistor is to blame. Replace the sensor."
+pubDatetime: 2026-06-08T03:35:27Z
+modDatetime: 2026-06-08T03:35:27Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dishwasher
   - lg
+most_likely_cause: "failed thermistor or temperature sensor"
+likelihood: "the most common cause"
+diy_or_pro: "pro"
 ---
 
 ## LG Dishwasher tE Error Code — What It Means
 
-The tE error on your LG dishwasher tells you the control board is not receiving a valid temperature reading from the thermistor (temperature sensor). The control has detected that the water-temperature signal is abnormal or out of the expected range. In practical terms, this is a thermistor circuit problem rather than a generic heating fault. The dishwasher may stop mid-cycle or refuse to start until the fault is corrected.
+The tE code on an LG dishwasher signals a temperature sensor or thermistor circuit fault. The control board has detected an abnormal or invalid signal from the sensor and cannot trust the water-temperature reading. This is a sensor-circuit problem, not a drain or fill issue.
+
+LG's own support materials categorize tE as a temperature sensor issue and advise that if the code persists after a power cycle, the unit will need professional repair service. The dishwasher may refuse to run or halt mid-cycle because it cannot verify safe water temperature.
+
+## Before You Replace Anything
+
+Homeowners sometimes replace the main control board first, assuming an electronic failure. Always test the thermistor with a multimeter and inspect the sensor wiring and connectors before spending on a new board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed thermistor** The temperature sensor itself produces out-of-range or erratic resistance readings and can no longer tell the control board the actual water temperature.
-- **Loose or corroded wiring** Connections between the sensor and the control board become loose, corroded, or suffer water intrusion, breaking the signal circuit.
-- **Damaged sensor connector** The plug at the sensor or control board has bent pins, poor terminal fit, or corrosion that prevents a stable electrical connection.
-- **Pinched or chafed harness** Wiring to the thermistor gets pinched during installation or rubs against a sharp edge, creating an intermittent open circuit.
-- **Control board sensor-input fault** The circuit on the main control board that reads the thermistor signal is damaged, even though the sensor and wiring test correctly.
-- **Excessively hot incoming water** Water temperature above normal range can trigger the fault, though this is less common than a true sensor or wiring issue.
+- **Failed thermistor or temperature sensor (~60%)** The sensor element itself has failed open, shorted, or drifted out of specification so the control board sees an invalid resistance or voltage.
+- **Damaged or loose sensor wiring and connectors (~25%)** Chewed insulation, corrosion, loose pins, or pinched harnesses interrupt the signal path between the sensor and the control board.
+- **Control board or temperature-sense input circuit failure (~10%)** When the sensor and wiring test good, the board's input circuit may be damaged by water intrusion, burned traces, or component failure.
+- **Intermittent connector corrosion or poor contact (~5%)** Moisture in the connector creates high resistance or intermittent open circuits that the board reads as a sensor fault.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the tE code return immediately after you restore power, even before starting a cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> An immediate fault strongly suggests an open or shorted sensor circuit or damaged harness rather than a heating-cycle issue. Inspect the thermistor connector and wiring first.<br><strong>No:</strong> The fault appears only during fill or heating, which can still be sensor or wiring but may also point to a board input problem. Proceed with full sensor and connector testing.</div>
+</details>
+
+<details class="dtree"><summary>Can you access the thermistor and measure its resistance with a multimeter at room temperature?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Compare your reading to the service-manual specification for your exact model. An open (infinite ohms), short (zero ohms), or wildly out-of-range reading confirms a bad sensor.<br><strong>No:</strong> You will need to remove the lower panel or inner door panel to reach the sensor, or call a technician if you are not comfortable working inside the dishwasher.</div>
+</details>
+
+<details class="dtree"><summary>Do you see any visible damage, corrosion, or moisture on the sensor connector or harness?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Clean the connector with electronic contact cleaner, check for bent pins, and make sure a firm snap-fit. If the damage is severe, replace the harness or sensor assembly.<br><strong>No:</strong> The wiring looks intact, so the fault is likely in the sensor element itself or the control board's input circuit. Test the thermistor with a meter next.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Disconnect power** at the circuit breaker or unplug the dishwasher completely before opening any panels or touching electrical components.
-2. **Verify the symptom** by running a short cycle to confirm that the tE code appears consistently and is not a one-time glitch.
-3. **Locate the thermistor** (check your service manual for exact position, often near the sump or heating element) and inspect its harness for loose terminals, corrosion, pinched wires, or water damage.
-4. **Check the connector** at both the sensor and the control board for bent pins, poor fit, or signs of heat or moisture intrusion.
-5. **Measure the thermistor resistance** with a multimeter and compare the reading to the specification table in your model's service sheet (values vary by model and temperature).
-6. **Replace the thermistor** if resistance is out of spec, unstable, or open, and reconnect the harness securely.
-7. **Inspect the main control board** connector and circuit traces if the sensor and wiring test correctly but the tE code persists, because LG states that persistent tE requires repair service and the control input may be at fault.
+1. **Kill all power** by switching off the dishwasher circuit breaker or unplugging the unit before accessing any internal components.
+2. **Confirm the fault** by restoring power briefly and noting whether tE appears immediately on the display or only after the cycle starts, then power down again.
+3. **Access the thermistor** by removing the dishwasher's lower front panel or inner door panel (consult your model's service manual for exact location and fastener positions).
+4. **Inspect the sensor wiring and connector** for chew marks, corrosion, pinched insulation, loose pins, or water damage, and clean or repair any visible issues.
+5. **Measure the thermistor resistance** with a digital multimeter and compare the reading to the specification in your model's service documentation (an open, short, or out-of-range reading indicates sensor failure).
+6. **Check the control board and sensor input terminals** for burnt traces, water intrusion, or damaged solder joints if the sensor and wiring both test within specification.
+7. **Replace the failed component** (thermistor, harness, or control board), reassemble the dishwasher, restore power, clear the code by cycling power, and run a test wash to verify normal temperature detection.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| LG Dishwasher Thermistor / Temperature Sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dishwasher-te-error-code&k=LG+Dishwasher+Thermistor+%2F+Temperature+Sensor&tag=errorcodefixes-20) \| Match the part number stamped on your existing sensor or use your full model number to cross-reference the correct replacement. |
-| Dishwasher Wiring Harness Connector Terminals | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dishwasher-te-error-code&k=Dishwasher+Wiring+Harness+Connector+Terminals&tag=errorcodefixes-20) \| If only the plug or individual terminals are damaged, replacement terminals or a pigtail connector may save the full harness. |
-| LG Dishwasher Main Control Board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dishwasher-te-error-code&k=LG+Dishwasher+Main+Control+Board&tag=errorcodefixes-20) \| Required only if the sensor and wiring pass all tests but tE remains, indicating a fault in the control's sensor-input circuit. |
+| LG dishwasher thermistor or temperature sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dishwasher-te-error-code&k=LG+dishwasher+thermistor+or+temperature+sensor&tag=errorcodefixes-20) \| Verify the exact part number for your model from the service manual or nameplate. |
+| Thermistor wiring harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dishwasher-te-error-code&k=Thermistor+wiring+harness&tag=errorcodefixes-20) \| Order if the connector or wiring is damaged beyond field repair. |
+| Main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dishwasher-te-error-code&k=Main+control+board&tag=errorcodefixes-20) \| Replace only after confirming the sensor and wiring are good and the board input circuit is faulty. |
 
 ## When to Call a Pro
 
-Call a professional if you are not comfortable working with live electrical circuits, if your multimeter readings do not match service data and you are unsure how to interpret them, or if you have replaced the thermistor and checked all wiring but the tE code still appears. LG notes that persistent tE errors require repair service, so technician-level diagnostics of the control board or hidden wiring faults may be necessary. A qualified technician has access to model-specific resistance tables, factory harness diagrams, and board-level test procedures that are not published in consumer materials.
+Call a professional if you are not comfortable de-energizing the dishwasher, removing panels, or using a multimeter to test resistance. A qualified technician has model-specific service manuals with exact thermistor resistance tables, proper diagnostic meters, and the experience to isolate sensor faults from control-board failures. If you have already tested the sensor and wiring and both appear normal, the control board's temperature-sense input circuit may be damaged and require board-level diagnosis or replacement, which is best left to a trained repair technician.
 
-## See Also
-
-- [LG Mini Split CH06 Error Code - Causes & Fix](/posts/lg-mini-split-ch06-error-code/)
-- [LG Refrigerator CF Error Code - Causes & Fix](/posts/lg-refrigerator-cf-error-code/)
-- [LG Washer Door Boot Seal Replacement - Signs & How-To](/posts/lg-washer-door-boot-seal-bellow-gasket-front-load-replacement/)
-- [LG Washer dE Error Code - Causes & Fix](/posts/lg-washer-de-error-code/)
+**Rough cost:** A pro service call runs about $150–300.

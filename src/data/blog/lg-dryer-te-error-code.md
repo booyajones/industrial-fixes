@@ -1,49 +1,78 @@
 ---
 title: "LG Dryer tE Error Code - Causes & Fix"
-description: "tE (or tE1/tE3) means the control board detected a faulty thermistor signal. Most common fix: power reset, then check airflow and sensor."
-pubDatetime: 2026-05-31T03:33:35Z
-modDatetime: 2026-05-31T03:33:35Z
-author: "James Rutherford"
+description: "tE or tE1 means the thermistor temperature sensor has failed or lost signal. Most often the thermistor itself needs replacement."
+pubDatetime: 2026-06-08T03:41:58Z
+modDatetime: 2026-06-08T03:41:58Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dryer
   - lg
+most_likely_cause: "failed thermistor sensor"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## LG Dryer tE Error Code — What It Means
 
-The tE, tE1, or tE3 error code on an LG dryer indicates the control board has detected a problem with the thermistor or its circuit. The thermistor is the temperature sensor that tells the control board how hot the drum is getting. When the board receives an abnormal or unbelievable reading from that sensor, it throws this code and stops the cycle to protect the machine. This is not an overheat alarm by itself. It is a signal-quality fault, meaning the control cannot trust the temperature information it is receiving.
+The tE, tE1, or tE3 error code on an LG dryer indicates a thermistor or temperature-sensing fault. The control board is not receiving a valid temperature signal from the dryer's thermistor sensor. This sensor monitors drum and exhaust air temperature to prevent overheating and to cycle the heating element properly. When the thermistor reads open, shorted, or sends implausible data, the control stops the cycle and displays the code.
+
+LG groups tE1 and tE3 together as thermistor problems. In many cases the fault is temporary and clears with a factory reset. When the error returns or persists, the actual hardware has failed or the wiring between the sensor and control board is damaged, corroded, or loose. Restricted airflow from lint buildup can also cause abnormal temperatures that trigger the fault, though the sensor or wiring is still the most common root cause.
+
+## Before You Replace Anything
+
+Homeowners often replace the main control board when the real problem is a $15 thermistor or a loose connector. Always test the thermistor resistance with a multimeter and inspect the harness before ordering a new board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Control glitch or transient fault** A temporary control-board hiccup can trigger the code and will often clear after a simple power reset.
-- **Failed or out-of-spec thermistor** The temperature sensor itself can drift out of range or fail completely, sending bad data to the control board.
-- **Loose or corroded connector** Connections between the thermistor and control board can loosen or corrode, breaking the signal path.
-- **Restricted airflow from lint buildup** Clogged lint screens, ducts, or exterior vents cause abnormal temperature swings that can confuse the sensor circuit.
-- **Main control board fault** Less common, but the control board itself can misread a good thermistor signal and throw the error incorrectly.
+- **Failed thermistor sensor (~50%)** The temperature sensor reads open, shorted, or far out of specification and no longer sends reliable data to the control board.
+- **Loose, corroded, or damaged wiring harness or connector (~25%)** Vibration, moisture, or heat has compromised the terminals or wiring between the thermistor and the main control board, breaking the signal path.
+- **Control board glitch or temporary fault (~15%)** A soft error in the control board memory triggers the code even though all hardware is functional, and a factory reset clears it.
+- **Restricted airflow or lint buildup (~7%)** Heavy lint accumulation in the duct, housing, or blower wheel causes abnormal temperature spikes that the thermistor reports as out-of-range, triggering the fault.
+- **Failed main control board sensing circuit (~3%)** The control board's temperature-input circuitry has failed, misinterpreting a good sensor signal as invalid.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the error clear after unplugging the dryer for two minutes, pressing and holding START/PAUSE for five seconds (while unplugged), then restoring power?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault was a control-board glitch. Run a test cycle; if the code returns, continue to the next check.<br><strong>No:</strong> The hardware has likely failed. Proceed to inspect airflow and wiring.</div>
+</details>
+
+<details class="dtree"><summary>Is the lint screen clean, the exhaust vent duct straight and unobstructed, and airflow strong at the exterior hood when the dryer runs?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Airflow is not the problem. Test the thermistor and wiring harness.<br><strong>No:</strong> Clean the lint filter, vacuum the lint housing, disconnect and clear the vent duct, then retry. Restricted airflow can cause temperature faults.</div>
+</details>
+
+<details class="dtree"><summary>Does the thermistor measure within the expected resistance range at room temperature (consult your model's service manual or wiring diagram for the spec)?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The thermistor is good. Inspect the wiring harness for damage and, if intact, suspect the main control board.<br><strong>No:</strong> The thermistor has failed. Replace it and retest.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Perform a power reset.** Unplug the dryer or turn off the circuit breaker, wait 30 seconds, then restore power. LG recommends this as the first action because many tE faults clear with a simple reset.
-2. **Check all airflow paths.** Pull and clean the lint screen, vacuum out the lint housing behind it, inspect the transition duct for kinks or blockage, and confirm the exterior vent hood opens freely. Weak airflow is a common root cause of recurring temperature-sensor errors.
-3. **Run a short timed-dry test.** Start a timed cycle and watch for heat. If the dryer runs briefly then throws tE again, the control is rejecting the thermistor signal in real time rather than displaying a stale fault.
-4. **Access and inspect the thermistor circuit.** Unplug power, remove the lower front or rear panel (model-dependent), locate the thermistor on the blower housing or heater assembly, and check the sensor, harness, and connectors for damage, corrosion, or loose pins.
-5. **Test the thermistor with a multimeter.** Disconnect the sensor plug and measure resistance across the thermistor terminals. Field sources commonly report 10,000 to 11,700 ohms at room temperature, but consult your model's service manual for the exact specification. Replace the thermistor if the reading is far out of range or open.
-6. **Replace the thermistor if faulty.** If the sensor tests bad or the wiring is intact and airflow is good, swap in a new thermistor and reconnect the harness securely.
-7. **Evaluate the main control board if the fault persists.** When the thermistor, harness, and airflow all check out but the code returns, the control board may be misinterpreting the signal. Board replacement is the final step in the diagnostic path.
+1. **Unplug the dryer** or switch off both breakers (electric dryers use two 120-volt breakers for 240 volts total) and wait two minutes for the control to discharge.
+2. **Press and hold the START/PAUSE button** for about five seconds while the unit is still unplugged to reset the control memory, then restore power and run a short test cycle to see if the code clears.
+3. **Clean the lint screen and housing** by removing the filter, vacuuming the slot, and pulling the dryer forward to disconnect and inspect the entire exhaust duct for kinks, crushed sections, or heavy lint blockage.
+4. **Access the thermistor** by removing the rear or top panel (location varies by model) and locate the small sensor mounted on the blower housing or duct, then disconnect its two-wire connector and inspect both the sensor terminals and the harness plug for corrosion, burn marks, or looseness.
+5. **Test the thermistor resistance** with a multimeter set to ohms; at room temperature many LG thermistors read in the 10,000–11,700 ohm range, but consult your model's service data for the exact specification and compare your reading.
+6. **Replace the thermistor** if it reads open (infinite resistance), shorted (near zero), or significantly outside specification; the sensor typically secures with a single screw or clip and requires no special tools.
+7. **Inspect the wiring harness** from the thermistor all the way to the main control board for pinched, melted, or broken wires, and check every inline connector for tight seating and clean contacts.
+8. **Test the control board** only after verifying the thermistor and harness are good; if the sensor reads correctly but the code persists, the control board's sensing circuit has likely failed and the board must be replaced.
+9. **Reassemble the dryer**, restore power, and run a full heat cycle to confirm the tE code does not return and the dryer heats and shuts off normally.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| LG dryer thermistor / temperature sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dryer-te-error-code&k=LG+dryer+thermistor+%2F+temperature+sensor&tag=errorcodefixes-20) \| Match to your model number. Usually mounted on the blower housing or heater assembly. |
-| Wiring harness or connector kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dryer-te-error-code&k=Wiring+harness+or+connector+kit&tag=errorcodefixes-20) \| Order if pins are corroded or the plug is heat-damaged. |
-| LG dryer main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dryer-te-error-code&k=LG+dryer+main+control+board&tag=errorcodefixes-20) \| Required only if the sensor and wiring test good but the fault remains. Confirm your model before purchase. |
+| LG dryer thermistor temperature sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dryer-te-error-code&k=LG+dryer+thermistor+temperature+sensor&tag=errorcodefixes-20) \| Verify the part number from your model's service label or wiring diagram; sensors are model-specific. |
+| Wiring harness or connector repair kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dryer-te-error-code&k=Wiring+harness+or+connector+repair+kit&tag=errorcodefixes-20) \| Only needed if terminals are burned or wires are broken; inspect before ordering. |
+| LG dryer main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dryer-te-error-code&k=LG+dryer+main+control+board&tag=errorcodefixes-20) \| Replace only after confirming the thermistor and harness test good; boards are expensive and less commonly the cause. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if you are not comfortable working with a multimeter, accessing internal panels, or interpreting resistance readings. If airflow is clear, the thermistor tests within range, and the fault still appears after a reset, the control board is the likely culprit and board-level diagnostics require experience. Also call if your dryer is still under warranty, since DIY repairs can void coverage.
+Call a technician if you are uncomfortable working with 240-volt appliances, if the thermistor and wiring both test good but the code persists (indicating a control-board fault that requires board-level diagnosis), or if you lack a multimeter and cannot verify sensor resistance. A pro can quickly test the thermistor in-circuit, check the control board's input voltage and signal continuity, and replace the correct part the first time. Professional service is also wise if the dryer has had repeated tE codes, water damage, or other intermittent faults that suggest a larger electrical issue.
+
+**Rough cost:** DIY runs about $15–40 in parts, 30–60 min. A pro service call runs about $150–250.

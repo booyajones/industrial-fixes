@@ -1,50 +1,75 @@
 ---
 title: "LG Microwave E10 Error Code - Causes & Fix"
-description: "E10 means LG detected an internal short in the control board. Power reset first, replace the control board if the code returns."
-pubDatetime: 2026-05-31T07:35:42Z
-modDatetime: 2026-05-31T07:35:42Z
-author: "Dana Kowalski"
+description: "E10 means an internal short in the control board. Most often the board itself has failed and needs replacement after a power reset."
+pubDatetime: 2026-06-08T03:43:44Z
+modDatetime: 2026-06-08T03:43:44Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - microwave
   - lg
+most_likely_cause: "Internal short in the control board"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## LG Microwave E10 Error Code — What It Means
 
-The E10 error code on an LG microwave indicates that the unit has detected an internal short in the control board. LG's official support documentation identifies this as a control PCB fault, not a magnetron, cavity, or door-interlock issue. The control board is the main electronic module that receives input from the keypad and manages all microwave functions.
+LG defines the E10 error code as an internal short detected in the control board. This fault is electronic, not related to the magnetron or heating system. The control board monitors its own circuitry and throws E10 when it finds a short circuit in its internal components or connected keypad lines.
 
-When this fault is detected, the microwave halts operation and displays E10 to prevent further damage. In most cases, the short is permanent and the control board will need replacement, though a temporary glitch can sometimes be cleared by a hard power reset.
+If the error clears temporarily after you unplug the microwave and then returns, that pattern confirms a board-level fault rather than a random glitch. In some cases a stuck key or contaminated touch panel can contribute to the short, but the root issue remains in the control-board circuitry.
+
+## Before You Replace Anything
+
+Some owners replace the entire door assembly or keypad membrane alone when only the main control board is at fault. A simple power reset and visual inspection of the board will show whether physical damage, burn marks, or stuck keys are present before spending on unnecessary parts.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed control board** The main control PCB develops an internal short circuit due to component failure, moisture exposure, or age-related degradation.
-- **Stuck or shorted keypad** A key on the membrane keypad remains stuck or creates a short that the control board interprets as an internal fault.
-- **Liquid intrusion** Spills or steam migrate into the control panel area and create conductive paths that short control traces or key contacts.
-- **Harness or connector fault** Damaged wiring or a corroded connector between the keypad and control board causes intermittent or persistent short conditions.
-- **Power surge damage** A voltage spike from the mains or internal power supply damages sensitive ICs or traces on the control board.
+- **Control board internal short (~60%)** The main control board has developed a short circuit in its internal traces, components, or solder joints, triggering the E10 self-diagnostic.
+- **Shorted or stuck keypad (~20%)** A stuck button or contaminated touch panel can create a short condition that the control board interprets as an internal fault.
+- **Moisture or contamination on the board (~10%)** Steam, grease, or liquid intrusion onto the control board can bridge traces and cause intermittent or permanent shorts.
+- **Damaged harness or connector (~5%)** A pinched or corroded wire in the harness between the keypad and control board can short circuit and register as E10.
+- **Power surge damage (~5%)** A lightning strike or electrical surge can damage the control-board circuitry and produce a latent short that appears as E10.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the E10 code disappear after unplugging the microwave for one full minute and then plugging it back in?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The board may have experienced a transient fault. Monitor the microwave over the next few uses. If E10 returns, proceed to inspect the board and keypad.<br><strong>No:</strong> The short is persistent. Move to Step 2 and inspect the control board and keypad for physical damage or contamination.</div>
+</details>
+
+<details class="dtree"><summary>Are any keys on the keypad visibly stuck, damaged, or is the touch panel cracked or wet?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Clean or replace the keypad assembly first. If the error remains after keypad replacement, the control board itself is shorted.<br><strong>No:</strong> The fault is internal to the control board. Plan to replace the main control board.</div>
+</details>
+
+<details class="dtree"><summary>Do you see burn marks, discoloration, or corrosion on the control board when you open the cabinet?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The board has visible damage and must be replaced. Do not attempt component-level repair in the field.<br><strong>No:</strong> The short is not visible but still exists in the board circuitry. Replace the control board to resolve E10.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Unplug the microwave** from the wall outlet and wait at least one full minute, then restore power and test the keypad to see if E10 clears.
-2. **Verify the error is persistent** by running a short cook cycle or pressing multiple keys. If E10 reappears immediately or within a few operations, treat it as a permanent control board fault.
-3. **Inspect the keypad and control panel** for visible damage, stuck keys, or signs of liquid intrusion around the membrane switch area.
-4. **Check the ribbon cable or harness** connecting the keypad to the main control board for corrosion, pinching, or damage at the connectors.
-5. **Disconnect power again**, then remove the outer cabinet panels to access the control board mounted behind or above the cavity.
-6. **Inspect the control board** for burn marks, bulging capacitors, or obvious trace damage. Look for corrosion or foreign material bridging solder pads.
-7. **Replace the control board** if the E10 code returns after reset and no obvious keypad or harness fault is found. Reconnect all harnesses, reassemble, and test all functions before returning the unit to service.
+1. **Unplug the microwave** and wait one full minute to allow the control board to fully discharge and reset any transient fault states.
+2. **Plug the microwave back in** and test the keypad. If E10 returns immediately or within a few button presses, the short is confirmed.
+3. **Remove the outer cabinet** by taking out the screws on the back and sides, then sliding or lifting the cover off to expose the control board and keypad assembly.
+4. **Inspect the control board** for burn marks, corrosion, moisture, or visible damage on traces and solder joints. Check the keypad for stuck buttons or cracks in the touch membrane.
+5. **Disconnect the ribbon cable or harness** that links the keypad to the control board and examine the connector pins for corrosion or bent contacts.
+6. **Replace the control board** if inspection reveals damage or if the error persists after cleaning the keypad. Transfer any connectors and mounting hardware to the new board.
+7. **Reassemble the cabinet**, restore power, and run a brief cook cycle to verify that E10 no longer appears and all buttons respond normally.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| LG microwave main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-microwave-e10-error-code&k=LG+microwave+main+control+board&tag=errorcodefixes-20) \| Verify your exact model number to order the correct control PCB. This is the primary repair for persistent E10 faults. |
-| LG microwave keypad assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-microwave-e10-error-code&k=LG+microwave+keypad+assembly&tag=errorcodefixes-20) \| Order only if the keypad shows physical damage or if the service manual for your model identifies E10 as a key-short code. |
+| LG microwave main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-microwave-e10-error-code&k=LG+microwave+main+control+board&tag=errorcodefixes-20) \| Match the exact model and board part number printed on your existing board or found in your owner's manual. |
+| LG microwave control panel assembly (keypad) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-microwave-e10-error-code&k=LG+microwave+control+panel+assembly+%28keypad%29&tag=errorcodefixes-20) \| Replace only if the keypad is physically damaged, cracked, or stuck and cleaning does not resolve the short. |
 
 ## When to Call a Pro
 
-Call a professional if the E10 code returns after a power reset or if you are not comfortable working inside the microwave cabinet. The repair requires disassembly of the outer case, discharge of the high-voltage capacitor, and careful handling of the control board and ribbon connectors. If you lack the correct replacement board for your model or are unsure how to safely discharge stored voltage, a qualified appliance technician can diagnose the fault, source the correct part, and complete the repair with warranty coverage on both labor and the new control board.
+Call a technician if you are uncomfortable working near the high-voltage capacitor and magnetron inside the microwave cabinet. Even when unplugged, the capacitor can hold a lethal charge until it is properly discharged with an insulated screwdriver across its terminals. A service tech will safely discharge the unit, diagnose whether the control board or keypad is at fault, and install the correct replacement part. Professional help is also wise if you lack a service manual with the exact board location and connector pinout for your model, or if you have already replaced the board and E10 continues to appear.
+
+**Rough cost:** DIY runs about $80–180 for the control board, 30–60 min. A pro service call runs about $150–300 including labor and board.

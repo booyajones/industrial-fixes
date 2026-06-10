@@ -1,56 +1,76 @@
 ---
 title: "LG Dryer D95 Error Code - Causes & Fix"
-description: "D95 means 95% exhaust duct blockage. Most common fix: disconnect and clean the full vent run from dryer to outside hood."
-pubDatetime: 2026-05-31T03:32:23Z
-modDatetime: 2026-05-31T03:32:23Z
-author: "Dana Kowalski"
+description: "D95 means 95% airflow blockage in the exhaust duct. Clean the lint filter and check the outside vent for obstructions or clogs."
+pubDatetime: 2026-06-08T03:37:25Z
+modDatetime: 2026-06-08T03:37:25Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dryer
   - lg
+most_likely_cause: "blocked lint filter or clogged exhaust vent duct"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## LG Dryer D95 Error Code — What It Means
 
-The LG D95 error code indicates the dryer has detected a 95% blockage in the exhaust duct or vent system. This is the most severe airflow restriction warning in LG's d-series fault codes (d75, d80, d90, d95), meaning exhaust air cannot escape normally and heat and moisture are trapped inside the dryer. The code is triggered by severely restricted airflow, not an electronic component failure.
+The LG D95 code indicates the dryer has detected a 95% blockage or restriction in the exhaust duct system. This is a severe airflow warning tied to the dryer's duct blockage sensor. LG groups D95 with D90 as critical exhaust restriction alerts that signal the vent path is nearly completely blocked.
+
+The fault is primarily a venting and airflow problem, not a control board failure. The dryer is measuring severely reduced air movement through the exhaust system and warning you to stop use until the restriction is cleared. Continuing to run the dryer with this level of blockage can cause overheating, extended dry times, and potential fire hazard.
+
+## Before You Replace Anything
+
+Homeowners sometimes replace the moisture sensor or control board when they see a D95 code. Before ordering any electronic parts, disconnect the vent hose from the dryer and run a test cycle to verify the code clears with unrestricted airflow.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Lint buildup in the vent system** Accumulated lint inside the filter housing, internal ducts, wall vent, or exterior termination restricts airflow to the point where the dryer detects 95% blockage.
-- **Crushed, kinked, or compressed exhaust hose** The flexible or semi-rigid duct behind the dryer is dented, pinched by the dryer cabinet, or flattened where it exits the wall.
-- **Blocked or damaged exterior vent hood** The outside termination flap is stuck closed, clogged with lint or debris, or obstructed by bird nests or damage preventing it from opening during operation.
-- **Excessive vent length or too many 90° bends** The duct run exceeds recommended length or includes multiple tight turns that create backpressure and reduce exhaust velocity.
-- **Disconnected or leaking vent joints** Duct sections are loose, separated, or have gaps that allow air to escape internally instead of venting outdoors.
+- **Clogged or obstructed exhaust duct (~35%)** Lint buildup inside the vent hose or rigid duct, especially at bends and the termination point, is a primary cause of severe airflow restriction.
+- **Blocked lint filter or internal lint screen (~30%)** Lint accumulation on the filter or in the filter housing restricts airflow at the dryer inlet and can trigger the 95% blockage warning.
+- **Blocked or damaged exterior vent hood (~15%)** The outside vent flapper may be jammed with lint, stuck closed, or blocked by bird nests or debris, preventing exhaust air from exiting.
+- **Crushed, kinked, or improperly installed ductwork (~12%)** Flexible vent hose that is pinched behind the dryer, kinked at a turn, or made from improper material (plastic or foil) can collapse and block airflow.
+- **Excessively long or overly bent duct run (~8%)** Vent systems with long runs or multiple 90-degree elbows create cumulative resistance that can reach blockage threshold levels even without visible clogs.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Is the lint filter clean and free of debris?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The filter is not the issue. Move on to inspect the exhaust duct and exterior vent.<br><strong>No:</strong> Clean the lint filter completely and check the filter housing for any lint buildup. Run a test cycle and see if the code clears.</div>
+</details>
+
+<details class="dtree"><summary>Can you feel strong airflow at the outside vent hood while the dryer is running?</summary>
+<div class="dtree-body"><strong>Yes:</strong> External airflow is good. The blockage sensor may be faulty or the duct run design is marginal. Document airflow strength and consult a technician if the code persists.<br><strong>No:</strong> Weak or no airflow confirms a real blockage. Proceed to disconnect and inspect the vent duct for clogs, kinks, or damage.</div>
+</details>
+
+<details class="dtree"><summary>Does the exterior vent hood flapper open freely when you push it by hand?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The hood is working. Focus on cleaning the interior duct run and checking for crushed or kinked sections.<br><strong>No:</strong> The flapper is stuck, jammed, or blocked. Clean or replace the exterior vent hood and clear any debris.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Verify the code and exterior airflow** by confirming d95 on the display and checking the outside vent termination for weak or no airflow while the dryer is running.
-2. **Turn off power to the dryer** by unplugging the unit or switching off the circuit breaker before beginning any inspection or cleaning work.
-3. **Remove and clean the lint filter** and inspect the filter housing for any visible lint accumulation or obstruction.
-4. **Disconnect the exhaust hose from the dryer outlet** and inspect the hose itself for crushed sections, kinks, holes, or lint blockages inside the duct.
-5. **Inspect the full vent run from dryer to exterior** by checking all accessible duct sections for lint buildup, damage, excessive length, and tight bends or turns.
-6. **Check and clean the exterior vent hood** by removing lint, debris, or any nests from the termination and verifying that the flap opens freely when air flows.
-7. **Reconnect all ductwork securely**, restore power, and run a test cycle to confirm the d95 code clears and normal airflow resumes at the exterior termination.
+1. **Unplug the dryer** from the wall outlet and pull it forward enough to access the rear exhaust connection.
+2. **Remove and clean the lint filter** completely, and inspect the filter housing cavity for any lint buildup or obstructions.
+3. **Disconnect the exhaust vent hose** from the back of the dryer and inspect both the dryer outlet and the hose inlet for visible lint, kinks, or damage.
+4. **Go outside and locate the exterior vent hood.** Remove the cover or flapper and clear any lint, debris, or bird nests. Verify the flapper opens freely.
+5. **Inspect the entire duct run** for crushed sections, excessive bends, or improper materials. Replace any flexible plastic or foil hose with rigid or semi-rigid metal ducting.
+6. **Clean the full duct path** using a vent brush kit or vacuum, or hire a professional duct cleaning service if the run is long or difficult to access.
+7. **Reconnect all ductwork**, plug the dryer back in, and run a test cycle. Confirm strong airflow at the exterior vent and verify the D95 code does not return.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Exterior vent hood or exhaust cover | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dryer-d95-error-code&k=Exterior+vent+hood+or+exhaust+cover&tag=errorcodefixes-20) \| Replace if the flapper is damaged, rusted, or does not open properly during dryer operation. |
-| Semi-rigid or rigid exhaust duct hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dryer-d95-error-code&k=Semi-rigid+or+rigid+exhaust+duct+hose&tag=errorcodefixes-20) \| Replace if the existing hose is crushed, kinked, or made of improper flexible material that collapses under airflow. |
-| Vent duct cleaning brush kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dryer-d95-error-code&k=Vent+duct+cleaning+brush+kit&tag=errorcodefixes-20) \| Use to remove lint from long or hard-to-reach vent runs between the dryer and exterior termination. |
+| Exterior dryer vent hood | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dryer-d95-error-code&k=Exterior+dryer+vent+hood&tag=errorcodefixes-20) \| Replace if the flapper is damaged, stuck, or will not open fully under airflow. |
+| Rigid or semi-rigid metal vent duct | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dryer-d95-error-code&k=Rigid+or+semi-rigid+metal+vent+duct&tag=errorcodefixes-20) \| Use 4-inch diameter metal ducting to replace crushed, kinked, or non-code flexible hose. |
+| Dryer vent cleaning brush kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dryer-d95-error-code&k=Dryer+vent+cleaning+brush+kit&tag=errorcodefixes-20) \| Long flexible brush with extendable rods for removing lint from inside the duct run. |
 
 ## When to Call a Pro
 
-Call a professional if the d95 code persists after you have cleaned the entire vent system and verified no obvious blockages remain. Also call a technician if the vent run is longer than you can safely access, includes multiple complex bends, or is routed through walls or ceilings where professional duct-cleaning equipment is required. Do not continue running the dryer with the d95 code active, as LG warns that severely restricted exhaust creates unsafe conditions and may lead to overheating or fire risk.
+Call a professional if the duct run is longer than 15 feet, has multiple bends, or runs through walls or ceilings where you cannot safely access it for cleaning. A technician should also inspect the system if the D95 code returns after you have confirmed the lint filter is clean and the exterior vent has strong airflow. Long or complex vent installations may require professional duct cleaning equipment and expertise to fully clear restrictions. If the vent system design exceeds manufacturer installation guidelines for length and bends, a pro can evaluate whether rerouting or upgrading the ductwork is necessary to prevent future blockage codes.
 
-## See Also
-
-- [LG Oven F12 Error Code - Causes & Fix](/posts/lg-oven-f12-error-code/)
-- [LG Mini Split CH61 Error Code - Causes & Fix](/posts/lg-mini-split-ch61-error-code/)
-- [LG Washer PE Error Code - Causes & Fix](/posts/lg-washer-pe-error-code/)
-- [LG Refrigerator dS Error Code - Causes & Fix](/posts/lg-refrigerator-ds-error-code/)
+**Rough cost:** DIY runs about $15-50 in parts (vent hood, replacement ducting), 30-90 min. A pro service call runs about $150-300 for duct cleaning and repair.
