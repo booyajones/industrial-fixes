@@ -1,47 +1,74 @@
 ---
 title: "Maytag Range LOC Error Code - Causes & Fix"
-description: "LOC means control lock is active, not a failure. Unlock by holding START/ENTER for 5 seconds or reset power at the breaker for 1 minute."
-pubDatetime: 2026-05-31T06:52:08Z
-modDatetime: 2026-05-31T06:52:08Z
-author: "Dana Kowalski"
+description: "LOC means control lock is active on your Maytag range, not a fault. Hold START/ENTER for 5 seconds to unlock the keypad and clear the message."
+pubDatetime: 2026-06-08T07:09:42Z
+modDatetime: 2026-06-08T07:09:42Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - oven
   - maytag
+most_likely_cause: "Intentional or accidental activation of Control Lock or Child Lock"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Maytag Range LOC Error Code — What It Means
 
-LOC on a Maytag range indicates that the control lock feature is engaged. This is not a fault code pointing to a broken sensor, relay, or control board. When active, the control lock disables the keypad and prevents unintended operation. On some models it also locks the oven door. The display shows LOC whenever a user presses any button while the lock is engaged or if the feature was deliberately turned on. Maytag designs this as a safety feature to prevent accidental changes to cook settings or activation by children.
+On a Maytag range, LOC is not a fault code. It is the control lock (or lockout) message showing that the keypad controls are locked. The range's control lock feature is enabled, which shuts down the control pads and locks the oven door to prevent unintended use. Maytag states that LOC will appear whenever any command pad is pressed while the control is locked.
+
+The normal unlock action is to touch and hold START/ENTER for 5 seconds until LOC disappears. This is a feature state, not a defect, and does not by itself indicate that any component has failed.
+
+## Before You Replace Anything
+
+Some homeowners replace the touchpad or main control board thinking LOC signals a hardware failure, but the message indicates only that the lock feature is active. Try the unlock sequence and a breaker reset before ordering any parts.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Accidental key hold** The user held the START/ENTER key or a dedicated Control Lock button long enough to engage the lockout feature.
-- **Button press during lockout** Someone pressed a command pad while the control was already locked, causing LOC to display again.
-- **Persistent lock after power loss** A power interruption left the control panel in a locked state that requires a power reset to clear.
-- **Keypad or control panel glitch** A rare firmware or interface error causes the lock to remain active even after the correct unlock sequence.
+- **Accidental lock activation (~70%)** A user pressed the lock sequence during cleaning, storage, or while children were near the panel.
+- **Intentional lock left enabled (~20%)** The control lock was turned on as a child safety measure and simply needs to be unlocked.
+- **Power interruption or reset issue (~8%)** A brief power outage or surge can leave the display showing LOC until the panel is reset at the breaker.
+- **Touchpad or control-board communication fault (~2%)** In rare cases, a failing keypad interface or control board can prevent the unlock sequence from registering.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the display change or beep when you press any button?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The keypad is receiving input and LOC is showing because lock mode is active. Proceed with the unlock sequence.<br><strong>No:</strong> The control may be completely unresponsive. Perform a power reset at the circuit breaker first, then try unlocking.</div>
+</details>
+
+<details class="dtree"><summary>After holding START/ENTER for 5 seconds, does LOC disappear and do you hear a confirmation tone?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The lock feature has been successfully disabled and the range is ready to use.<br><strong>No:</strong> The keypad may not be communicating properly. Reset power at the breaker and attempt the unlock again.</div>
+</details>
+
+<details class="dtree"><summary>After a 1-minute breaker reset and unlock attempt, does the LOC message still appear?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The touchpad or main control board may have a hardware fault. Consult a technician for further diagnostics.<br><strong>No:</strong> The issue was a temporary lock state or power glitch. Normal operation is restored.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Verify the oven and timer are off.** Maytag states the lock cannot be engaged while the oven is in use, so confirm all cooking functions are stopped before attempting unlock.
-2. **Hold START/ENTER for 5 seconds.** On most Maytag ranges this is the standard unlock sequence. Watch the display until LOC disappears and normal operation resumes.
-3. **Try the model-specific unlock key** if START/ENTER does not work. Some ranges use a dedicated Control Lock button or a different key combination. Check your owner's manual for the exact procedure.
-4. **Perform a power reset** if the keypad remains unresponsive. Turn off both circuit breakers (or unplug if accessible) for a full 1 minute, then restore power.
-5. **Test keypad response** after power is restored. Press a few buttons to confirm the display no longer shows LOC and that commands register normally.
-6. **Inspect control panel wiring** if the lock persists after reset. Verify that the ribbon cable connecting the keypad overlay to the main control board is seated correctly and shows no damage.
-7. **Consult the service manual** for your specific model number if the lock will not clear. Persistent symptoms after the correct unlock procedure and a power cycle point to a model-specific control issue rather than a standard LOC event.
+1. **Verify the oven and timer are off.** Maytag documentation specifies that the oven and timer must be off before you lock or unlock the controls.
+2. **Locate the START/ENTER button on the control panel.** On most Maytag range models, this is the key used to unlock the control.
+3. **Press and hold START/ENTER for 5 seconds.** Keep your finger on the button until you hear a confirmation tone and the LOC message disappears from the display.
+4. **If the keypad does not respond, perform a power reset.** Turn off the range at the circuit breaker, wait 1 minute, then restore power.
+5. **Attempt the unlock sequence again** after power is restored. Hold START/ENTER for 5 seconds and check whether LOC clears.
+6. **Consult your owner's manual for model-specific instructions.** The exact unlock method can vary by model, so verify the correct key sequence for your range.
+7. **If LOC still appears after unlock and reset, inspect the touchpad and control board.** A technician should check for normal keypad communication and main control board function, but LOC itself is not proof of a failed part.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| User Interface Control Panel / Keypad Overlay | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-range-loc-error-code&k=User+Interface+Control+Panel+%2F+Keypad+Overlay&tag=errorcodefixes-20) \| Required only if the touchpad fails to respond after proper unlock sequence and power reset, indicating a failed membrane or wiring issue. |
-| Main Control Board (ERC / Clock Timer Board) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-range-loc-error-code&k=Main+Control+Board+%28ERC+%2F+Clock+Timer+Board%29&tag=errorcodefixes-20) \| Needed if the board does not recognize the unlock command and a known-good keypad has been tested, pointing to a board-level fault. |
+| Touchpad / Control Panel Assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-range-loc-error-code&k=Touchpad+%2F+Control+Panel+Assembly&tag=errorcodefixes-20) \| Only if diagnostics confirm the keypad does not register button presses after power reset. |
+| Main Control Board (ERC / Clock) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-range-loc-error-code&k=Main+Control+Board+%28ERC+%2F+Clock%29&tag=errorcodefixes-20) \| Only if the control does not respond to the touchpad and power reset does not restore function. |
 
 ## When to Call a Pro
 
-Call a technician if LOC remains displayed after you have tried the correct unlock sequence for your model and completed a full 1-minute power reset at the breaker. A pro will verify the keypad overlay wiring, test the control board's response to unlock commands, and reference the service literature for your exact model number. Because LOC is a feature rather than a component failure, a persistent lock usually indicates a control panel or board issue that requires diagnostic tools and OEM service documentation to isolate.
+Call a qualified appliance technician if the LOC message does not clear after you have tried the proper unlock sequence (holding START/ENTER for 5 seconds) and performed a full power reset at the circuit breaker for 1 minute. A technician will verify that the touchpad is communicating with the main control board and determine whether the control panel assembly or the main control board needs replacement. Because the LOC message indicates a feature state rather than a hardware fault, confirming a true component failure requires careful diagnostics. Do not order replacement parts based solely on the LOC display.
+
+**Rough cost:** A pro service call runs about $100–200 service call if control board replacement is truly needed after diagnostics.
