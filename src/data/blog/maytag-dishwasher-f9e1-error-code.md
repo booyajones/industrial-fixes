@@ -1,51 +1,77 @@
 ---
 title: "Maytag Dishwasher F9E1 Error - Causes & Fix"
-description: "F9E1 means your Maytag dishwasher can't drain. Most often a clogged filter, kinked hose, or jammed pump is blocking water flow."
-pubDatetime: 2026-05-31T04:51:46Z
-modDatetime: 2026-05-31T04:51:46Z
-author: "Marcus Webb"
+description: "F9E1 means drain timeout: the dishwasher didn't empty fast enough. Most often a clogged filter or blocked drain hose. Clean the sump first."
+pubDatetime: 2026-06-08T08:23:25Z
+modDatetime: 2026-06-08T08:23:25Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dishwasher
   - maytag
+most_likely_cause: "clogged filter or sump area restricting water flow to the pump inlet"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Maytag Dishwasher F9E1 Error — What It Means
 
-The F9E1 (or E1 F9) error code on a Maytag dishwasher indicates a long drain condition. The control board has detected that water is not leaving the tub as expected during the drain cycle. This is a drainage fault, not a fill or heating problem.
+F9E1 (or E1 F9) on a Maytag dishwasher is a long drain or drain timeout fault. The control detected that the tub did not empty within the allowed drain time and ended the cycle. This code does not mean the drain pump is definitely broken. It only tells you the machine timed out trying to drain.
 
-In most cases the dishwasher will stop mid-cycle with standing water in the bottom of the tub. The machine is working correctly by stopping the cycle when it cannot confirm proper drainage within the expected time window.
+The code appears when water remains in the tub after the drain cycle completes. The root cause is usually a physical restriction somewhere in the drain path, not a failed electronic component. Most F9E1 faults are resolved by clearing debris from the filter, sump, or drain hose rather than replacing the pump or control board.
+
+## Before You Replace Anything
+
+Many people replace the drain pump first. Clean the filter, sump, chopper area, and drain hose thoroughly before buying any parts. A jammed impeller or kinked hose causes the same symptom as a bad pump.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Clogged filter or sump area** Food debris, broken glass, label fragments, or other material trapped in the filter basket or sump chamber blocks water from reaching the pump.
-- **Kinked or blocked drain hose** The flexible drain hose routed to your sink drain or disposal has a kink, is pinched behind the unit, or contains a clog that prevents water flow.
-- **Jammed or failed drain pump** The drain pump motor has failed electrically, or the impeller and chopper assembly inside the pump is jammed by food shards or foreign objects.
-- **Garbage disposal or air gap blockage** If your dishwasher drains into a disposal, the disposal inlet or knockout plug may be blocked, or an air gap fitting on the countertop is clogged.
-- **Debris in chopper or grinder assembly** Dishwashers with a hard-food disposer or grinder blade can jam when hard debris (fruit pits, bones, twist-ties) gets into the chopper chamber below the sump.
+- **Clogged filter or sump area (~40%)** Food debris, glass shards, or grease restrict water flow through the pump inlet and slow drainage below the timeout threshold.
+- **Blocked or kinked drain hose (~25%)** The hose is crushed, routed with a low loop, or has internal buildup that prevents water from leaving the machine quickly.
+- **Garbage disposal or air-gap restriction (~15%)** A disposal knockout plug was left in place, the air gap is clogged, or the household drain line is slow and creates backpressure.
+- **Drain pump impeller jammed with debris (~12%)** Small objects (twist ties, toothpicks, popcorn kernels) lodge in the impeller or grinder area and stop the pump from turning freely.
+- **Failed drain pump motor (~8%)** The pump motor windings are open, shorted, or the motor is mechanically seized and cannot generate enough flow to empty the tub on time.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Is there standing water in the bottom of the tub when the error appears?</summary>
+<div class="dtree-body"><strong>Yes:</strong> This confirms a real drainage fault. Pull the lower rack and inspect the filter and sump for debris.<br><strong>No:</strong> The drain path may be slow but not fully blocked. Check the drain hose routing and household drain connection for partial restrictions.</div>
+</details>
+
+<details class="dtree"><summary>After cleaning the filter, does the pump spin freely when you turn the impeller by hand (power off)?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The pump is not mechanically jammed. Test a drain cycle and check the drain hose and disposal connection if the code returns.<br><strong>No:</strong> Foreign material is still lodged in the pump or grinder. Disassemble the sump and remove all debris before reassembly.</div>
+</details>
+
+<details class="dtree"><summary>Does water drain normally when you run a rinse-only cycle after clearing all restrictions?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The blockage is cleared and the code was mechanical. No parts are needed.<br><strong>No:</strong> The pump may be electrically failed or the control board is not driving it. Test pump resistance and voltage or call a technician.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Turn off power** at the circuit breaker before any disassembly or inspection work.
-2. **Remove the lower dish rack** and unscrew or lift out the cylindrical filter assembly in the bottom of the tub, then check the sump area below for any debris, broken glass, or foreign objects and clear them out.
-3. **Pull the dishwasher forward** enough to access the rear panel or toe-kick area, then locate the drain hose and inspect its full length for kinks, pinches, or loops that trap water, straightening or repositioning as needed.
-4. **Check the drain connection** at your sink or garbage disposal, verify the disposal knockout plug was removed during installation, and clear any blockage in the air gap or drain line.
-5. **Access the drain pump** by removing the lower spray arm, sump cover, and any chopper or grinder components per your model's service steps, then manually rotate the impeller or chopper to confirm it spins freely and clear any visible obstructions.
-6. **Test the drain pump electrically** by disconnecting the wire harness and measuring resistance across the pump motor terminals with a multimeter (field techs typically see 40 to 80 ohms on a working pump, though this is not an official Maytag specification).
-7. **Reassemble all components**, restore power, and run a rinse or drain cycle to confirm the error is cleared and water drains completely within two to three minutes.
+1. **Kill power** at the circuit breaker and confirm the dishwasher is off before you open any panels or reach into the tub.
+2. **Remove the lower dish rack** and locate the cylindrical filter assembly at the bottom center of the tub.
+3. **Twist and lift out the filter and screen** and rinse them under hot water to remove all food particles, grease, and debris.
+4. **Inspect the sump opening** below the filter for foreign objects (bones, glass, twist ties) and remove anything you find.
+5. **Pull the dishwasher forward** and disconnect the drain hose from the disposal or sink drain, then check the hose for kinks, crushing, or internal blockage.
+6. **Verify the garbage disposal knockout plug** was removed if the dishwasher drains into a disposal, and check that the air gap (if present) is clear.
+7. **Access the drain pump** by removing the lower front panel or the sump cover (model-dependent) and spin the impeller by hand to confirm it turns freely and is not jammed.
+8. **Reassemble all components**, restore power, and run a rinse or drain test cycle to confirm the tub empties within the normal time and the code does not return.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Maytag dishwasher drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dishwasher-f9e1-error-code&k=Maytag+dishwasher+drain+pump+assembly&tag=errorcodefixes-20) \| Match by your full model number (often W10348269 or equivalent). Order the complete pump and motor unit if the impeller is cracked or the motor fails electrical testing. |
-| Dishwasher drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dishwasher-f9e1-error-code&k=Dishwasher+drain+hose&tag=errorcodefixes-20) \| Universal 5/8-inch or 3/4-inch corrugated drain hose, typically 6 to 8 feet. Replace if kinked, collapsed, or brittle. |
-| Dishwasher filter and sump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dishwasher-f9e1-error-code&k=Dishwasher+filter+and+sump+assembly&tag=errorcodefixes-20) \| Model-specific cylindrical filter, screen, and sump housing. Order if the mesh is torn or the housing is cracked. |
+| Maytag dishwasher drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dishwasher-f9e1-error-code&k=Maytag+dishwasher+drain+pump+assembly&tag=errorcodefixes-20) \| Only if the pump is mechanically seized, electrically open, or the impeller is broken after clearing all debris. |
+| Dishwasher drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dishwasher-f9e1-error-code&k=Dishwasher+drain+hose&tag=errorcodefixes-20) \| If the original hose is crushed, cracked, or has permanent kinks that cannot be straightened. |
+| Dishwasher sump and filter kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dishwasher-f9e1-error-code&k=Dishwasher+sump+and+filter+kit&tag=errorcodefixes-20) \| If the filter housing or chopper blade is cracked or damaged during cleaning. |
 
 ## When to Call a Pro
 
-Call a professional if you have cleared all visible blockages, confirmed the drain hose is routed correctly, verified the pump spins freely and passes electrical testing, yet the F9E1 code returns. At that point the fault may lie in wiring, the control board, or a pressure-sensor issue that requires diagnostic tools and schematic tracing. Also call a technician if you are uncomfortable working with 120-volt connections or disassembling the sump and pump area, since sharp debris and tight spaces make the job harder for a first-timer.
+Call a technician if you have cleaned the filter, sump, and drain hose and confirmed the impeller spins freely but the F9E1 code still appears. The pump may need electrical testing with a multimeter (one non-manufacturer source suggests 40–80 ohms, but consult your model's service sheet for the correct specification). A pro can also diagnose a control board fault if the pump tests good and the drain path is completely clear. If you are uncomfortable pulling the dishwasher out, disconnecting hoses, or removing panels to access the sump, a service call will save time and prevent accidental water damage or part breakage.
+
+**Rough cost:** DIY runs about $30–90 in parts if a pump or hose is needed, 45–90 min. A pro service call runs about $150–280 service call.

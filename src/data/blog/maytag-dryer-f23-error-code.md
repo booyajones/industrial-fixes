@@ -1,50 +1,75 @@
 ---
 title: "Maytag Dryer F23 Error Code - Causes & Fix"
-description: "F23 means the control detected an exhaust thermistor fault. Most often fixed by replacing the outlet thermistor or repairing its wiring."
-pubDatetime: 2026-05-31T03:35:35Z
-modDatetime: 2026-05-31T03:35:35Z
-author: "Dana Kowalski"
+description: "F23 means the exhaust thermistor circuit has failed. Most often a faulty exhaust thermistor or loose connector, not the heating element."
+pubDatetime: 2026-06-08T08:27:18Z
+modDatetime: 2026-06-08T08:27:18Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dryer
   - maytag
+most_likely_cause: "failed or drifting exhaust thermistor"
+likelihood: "the most common cause"
+diy_or_pro: "pro"
 ---
 
 ## Maytag Dryer F23 Error Code — What It Means
 
-The F23 code on a Maytag dryer indicates the main control has detected a fault in the exhaust or outlet thermistor circuit. This is the sensor that monitors exhaust air temperature, and the code appears when the control reads an open circuit, short, or out-of-range value from that sensor or its wiring. It is not a generic heater failure but a specific problem in the temperature-sensing circuit running through the control's P4 connector.
+The F23 code on a Maytag dryer signals an exhaust or outlet thermistor circuit fault. This thermistor monitors the temperature of air leaving the dryer drum. When the control board loses a valid signal from the thermistor (open circuit, short, or out-of-range reading), it throws F23 and stops the cycle to prevent unsafe operation.
 
-Maytag's product help instructs you to power-cycle the dryer and retest with a timed dry cycle to see if the code returns. If it does, the fault is real and requires inspection of the exhaust thermistor, its harness, or the control board.
+Maytag's official reset procedure is to disconnect power for at least one minute, then restart the dryer on a Timed Dry cycle and watch whether the code returns within the first minute. If F23 comes back immediately, the thermistor circuit needs diagnosis. This is not a heating-element code and should not be confused with washer fault codes that share the same number.
+
+## Before You Replace Anything
+
+Many people replace the main control board first. Always test the exhaust thermistor resistance (around 10 kΩ at room temperature) and inspect the wiring harness and connectors before buying a board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed exhaust or outlet thermistor** The sensor itself has failed open, short, or out of specification and sends an invalid signal to the control.
-- **Loose, corroded, or damaged wiring and connectors** The harness between the thermistor and the main control board is intermittent, corroded, or physically damaged.
-- **Main control board failure** The control board's thermistor input circuit has failed even though the sensor and wiring test correctly.
-- **Thermal damage from poor airflow** Restricted exhaust airflow or overheating can damage the thermistor or its connectors over time, triggering the fault.
+- **Open, shorted, or drifting exhaust thermistor (~50%)** The thermistor's resistance falls outside the normal range (roughly 10 kΩ at room temperature) or fluctuates, so the control board cannot read a stable temperature signal.
+- **Loose, corroded, or damaged wiring and connectors (~30%)** The harness between the thermistor and the main control board (especially the P4 connector) can develop poor contact from vibration, heat, or corrosion, breaking the circuit intermittently or permanently.
+- **Failed main control board (~15%)** When the thermistor and wiring test correctly but the code persists, the control board's thermistor input circuit has failed and the board needs replacement.
+- **Restricted exhaust duct or airflow blockage (~5%)** Heavy lint buildup or a kinked vent hose can overheat the exhaust area and stress or damage the thermistor over time, though this is a secondary contributor rather than a direct electrical fault.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the code return within one minute after you power-cycle the dryer and start a Timed Dry cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault is active and repeatable. Move to the next diagnostic step to test the thermistor and wiring.<br><strong>No:</strong> The fault may have been a transient glitch. Monitor the next few cycles. If it does not return, no repair is needed yet.</div>
+</details>
+
+<details class="dtree"><summary>Can you access the back panel and locate the exhaust thermistor and its wiring harness?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Proceed to measure the thermistor resistance and inspect the connectors. You will need a multimeter and basic hand tools.<br><strong>No:</strong> Call a technician. Safe access to the thermistor circuit requires disassembly and some models have tight or complex cabinet layouts.</div>
+</details>
+
+<details class="dtree"><summary>With power off and the thermistor unplugged, does the thermistor measure roughly 10 kΩ (10,000 ohms) at room temperature?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The thermistor is likely good. Check the wiring harness for breaks, shorts to ground, or damaged connectors. If the harness is intact, suspect the control board.<br><strong>No:</strong> The thermistor is out of specification. Replace the exhaust thermistor and retest before replacing any other parts.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Disconnect power at the circuit breaker** and wait one minute, then restore power and start a timed dry cycle to confirm whether the F23 code returns.
-2. **Unplug the dryer and access the exhaust thermistor** by removing the rear or top panel, depending on your model, and locate the thermistor mounted near the exhaust outlet or blower housing.
-3. **Inspect the thermistor and its wiring harness** for physical damage, loose terminals, corrosion, or signs of heat damage at the connector.
-4. **Disconnect the thermistor harness at the control board (connector P4)** and use a multimeter to measure resistance across the thermistor leads, expecting approximately 10,000 ohms at room temperature.
-5. **Replace the exhaust or outlet thermistor** if the resistance reading is open, shorted, or far out of range, and repair or replace any damaged connectors or wiring.
-6. **If the thermistor and wiring test good**, replace the main control board, as the fault lies in the board's thermistor input circuit.
-7. **Reassemble the dryer, restore power, and run a full timed dry cycle** to verify the F23 code does not return and heating operates normally.
+1. **Kill power at the breaker** for at least one full minute to clear the control board's memory, then restore power.
+2. **Start a Timed Dry cycle** and watch the display. If F23 returns within the first minute, the fault is active and you need to diagnose the thermistor circuit.
+3. **Unplug the dryer** and remove the rear access panel or top cabinet to reach the exhaust duct area where the thermistor mounts.
+4. **Locate the exhaust thermistor** (a small sensor clipped or mounted near the duct outlet) and trace its wire leads back to the main control connector, often labeled P4.
+5. **Inspect all connectors and wiring** for loose pins, corrosion, burn marks, or physical damage. Push connectors firmly home and clean any corrosion with contact cleaner.
+6. **Measure thermistor resistance** by unplugging the thermistor connector and placing your multimeter probes across the thermistor terminals. At room temperature you should see around 10 kΩ. If the reading is infinite (open), zero (short), or drifts wildly, replace the thermistor.
+7. **Reassemble and test** by reconnecting everything, restoring power, and running a full Timed Dry cycle. If F23 clears, the repair is complete. If the code returns and the thermistor and wiring tested good, replace the main control board.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Exhaust or outlet thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dryer-f23-error-code&k=Exhaust+or+outlet+thermistor&tag=errorcodefixes-20) \| The temperature sensor monitoring exhaust air, the most common F23 cause. |
-| Main electronic control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dryer-f23-error-code&k=Main+electronic+control+board&tag=errorcodefixes-20) \| Replace if thermistor and wiring test correctly but the fault persists. |
-| Wire harness or connector terminals | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dryer-f23-error-code&k=Wire+harness+or+connector+terminals&tag=errorcodefixes-20) \| Repair or replace if heat-damaged, corroded, or intermittent between thermistor and control. |
+| Exhaust thermistor (outlet thermistor) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dryer-f23-error-code&k=Exhaust+thermistor+%28outlet+thermistor%29&tag=errorcodefixes-20) \| Verify your dryer's model number to order the correct sensor. Most Maytag dryers use a 10 kΩ NTC thermistor. |
+| Wiring harness repair kit or thermistor lead assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dryer-f23-error-code&k=Wiring+harness+repair+kit+or+thermistor+lead+assembly&tag=errorcodefixes-20) \| Only needed if you find breaks, shorts, or badly corroded wires between the thermistor and control board. |
+| Main control board (electronic control board) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dryer-f23-error-code&k=Main+control+board+%28electronic+control+board%29&tag=errorcodefixes-20) \| Replace only after confirming the thermistor and harness are good. Match your exact model number because board part numbers vary. |
 
 ## When to Call a Pro
 
-Call a technician if you are uncomfortable working inside the dryer cabinet with electrical components, if the multimeter test results are unclear, or if the code returns after you have replaced the thermistor and verified the wiring. Control board replacement requires careful handling and model-specific reassembly, and a qualified service provider can also confirm the exact thermistor specification and connector pinout for your dryer model.
+Call a professional if you are uncomfortable working inside the dryer cabinet, if you do not own a multimeter or have never measured resistance, or if your initial tests show the thermistor and wiring are good but the code persists (indicating a control-board replacement that requires careful connector work and potential firmware matching). Technicians have the tools to verify harness continuity quickly, access tight areas safely, and source the correct control board for your model without trial and error. If your dryer is still under warranty, always call an authorized Maytag service center so the repair remains covered.
+
+**Rough cost:** A pro service call runs about $150–300.

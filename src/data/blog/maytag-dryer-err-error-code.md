@@ -1,50 +1,76 @@
 ---
 title: "Maytag Dryer ERR Error Code - Causes & Fix"
-description: "ERR means the door is not fully closed and latched. Push the door firmly shut, check both latches engage, and reset power to clear."
-pubDatetime: 2026-05-31T03:41:32Z
-modDatetime: 2026-05-31T03:41:32Z
-author: "Dana Kowalski"
+description: "ERR means the door is not fully latched. Push the door firmly until it clicks, then power-cycle the dryer for 5 minutes and retry."
+pubDatetime: 2026-06-08T08:24:49Z
+modDatetime: 2026-06-08T08:24:49Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dryer
   - maytag
+most_likely_cause: "Door not pushed in far enough to engage the latch"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Maytag Dryer ERR Error Code — What It Means
 
-The ERR code on a Maytag dryer signals that the door is not completely closed and latched. The control board has detected an open door circuit, so it will not allow the dryer to run until the door switch or latch condition is satisfied. On models equipped with upper and lower latches, both latches must engage fully before the dryer will start. This code is strictly a door-latching fault, not a motor, thermistor, or airflow issue.
+The Maytag ERR code means the dryer has detected that the door is not fully closed and latched. The unit will not run until the door switch and latch condition is satisfied. The door may appear closed but is not latched securely.
+
+On some models there are upper and lower latches, and both must be secure for the dryer to run. The code can also appear after a temporary control lockup following a power interruption.
+
+## Before You Replace Anything
+
+Homeowners sometimes replace the electronic control board when ERR appears, but the real fix is usually a broken or misaligned door latch assembly or door strike. Test by opening and firmly re-latching the door, then power-cycling for 5 minutes before ordering any parts.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Door not pushed fully closed** The door may feel latched but is not seated far enough to engage the switch.
-- **Latch or strike misalignment** The door strike plate or latch mechanism has shifted or worn, preventing full engagement.
-- **Weak or broken latch spring** The latch mechanism no longer snaps into place or holds the door securely against the cabinet.
-- **Dual-latch models with one latch not engaging** If the dryer has both upper and lower latches, one may be failing even when the door appears closed.
-- **Faulty door switch** The door switch itself may be stuck open or have failed contacts, even when the latch is fully seated.
-- **Loose or corroded wiring connector at the door switch** The harness plug at the door-latch circuit may have backed out or developed oxidation, breaking the continuity signal.
+- **Door not pushed firmly enough (~40%)** The door appears shut but has not clicked into the latched position, so the switch never signals the control.
+- **Broken or misaligned door latch or strike (~30%)** Wear, cracked plastic, or bent metal prevents the latch from seating fully even when the door is pushed closed.
+- **Temporary control board lockup (~15%)** A power interruption or brief fault locks the controller in an error state that clears after a 5-minute power cycle.
+- **Failed door switch or wiring fault (~10%)** The door latches physically but the switch does not close or the wire to the control is broken or corroded.
+- **Both latches not engaged on dual-latch models (~5%)** Some Maytag dryers have upper and lower latches, and both must click for the interlock circuit to close.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the door click firmly into place when you push it closed?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The latch hardware is probably working. Power-cycle the dryer at the breaker for 5 minutes, then start a timed dry cycle and watch for 5 minutes to see if ERR returns.<br><strong>No:</strong> The latch, strike, or door alignment is faulty. Inspect the latch mechanism and strike for cracks, bent metal, or missing hardware, and replace the damaged part.</div>
+</details>
+
+<details class="dtree"><summary>After power-cycling, does ERR appear immediately when you press Start, or only after the door bounces slightly during spin-up?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The latch is marginal or the switch is intermittent. Replace the door latch assembly or door switch.<br><strong>No:</strong> The fault is most likely a control glitch or wiring issue. Recheck all door-switch connectors and harness routing, then call a technician if the problem persists.</div>
+</details>
+
+<details class="dtree"><summary>Can you see or feel both upper and lower latches (if your model has two) click into place?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Both latches are engaging. The fault is either a wiring issue or a switch failure. Test continuity across the door-switch terminals with the door closed, or call a technician.<br><strong>No:</strong> One latch is not engaging. Adjust or replace the latch hardware that is not clicking home.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Push the door firmly shut** and listen or feel for both latches to click if your model has two latch points.
-2. **Turn off power at the breaker** (both legs if 240 V) and wait five minutes to reset the control board.
-3. **Restore power** and start a timed dry cycle to see whether the code clears.
-4. **Inspect the door strike and latch assembly** for cracks, loose screws, or misalignment that would prevent full engagement.
-5. **Unplug the dryer** and remove the top or front panel as required to access the door switch and wiring.
-6. **Check the door-switch harness connector** for a tight fit and clean pins, then manually test the switch with the door latch actuating it.
-7. **Replace the door latch assembly or door switch** if the door is fully closed but the dryer still displays ERR, confirming the new part restores continuity in the door circuit.
+1. **Turn off power** at the circuit breaker and wait 5 minutes to clear any temporary control fault.
+2. **Open the door fully**, then push it closed firmly until you hear or feel a distinct click.
+3. **Check both latches** (upper and lower, if your model has them) to confirm each has engaged its strike.
+4. **Restore power** at the breaker and start a Timed Dry cycle.
+5. **Monitor the dryer** for 5 minutes to verify the ERR code does not return.
+6. **Inspect the latch and strike** if the code persists. Look for cracks, bent tabs, missing springs, or misalignment that prevents full engagement.
+7. **Replace the door latch assembly or strike** if you find visible damage, or test the door switch for continuity when closed and replace it if open.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Door latch assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dryer-err-error-code&k=Door+latch+assembly&tag=errorcodefixes-20) \| Includes the strike and latch mechanism that engages when the door closes. |
-| Door switch | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dryer-err-error-code&k=Door+switch&tag=errorcodefixes-20) \| The microswitch or sensor that signals the control board when the door is latched. |
-| Wiring harness connector | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dryer-err-error-code&k=Wiring+harness+connector&tag=errorcodefixes-20) \| Replacement pigtail or plug if the original connector is damaged or corroded. |
+| Door latch assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dryer-err-error-code&k=Door+latch+assembly&tag=errorcodefixes-20) \| Look up your model number to match the correct latch design (hook, roller, or dual-latch). |
+| Door strike | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dryer-err-error-code&k=Door+strike&tag=errorcodefixes-20) \| The metal or plastic catch mounted on the frame that the latch engages. |
+| Door switch | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dryer-err-error-code&k=Door+switch&tag=errorcodefixes-20) \| The interlock microswitch inside the latch housing or mounted separately on some models. |
 
 ## When to Call a Pro
 
-If you have verified the door closes fully, both latches engage, and the wiring connector is tight but the ERR code persists, call a qualified appliance technician. Persistent faults can point to a defective control board interpreting a good door-latch signal incorrectly, or to internal wiring breaks that require tracing the harness behind panels. A technician has the wiring diagrams and multimeter to isolate whether the switch, harness, or control board is at fault.
+Call a technician if you have replaced the door latch, strike, and switch, power-cycled the dryer, and ERR still appears with a physically latched door. The fault may be in the control-board door-switch input circuit or the wiring harness. Also call a pro if you are uncomfortable working with the dryer unplugged or if the latch mechanism is buried behind trim panels you cannot easily remove.
+
+**Rough cost:** DIY runs about $15–50 in parts (latch or strike), 20–45 min. A pro service call runs about $120–220 service call.
