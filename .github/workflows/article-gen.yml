@@ -56,8 +56,9 @@ jobs:
           PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
           BING_API_KEY: ${{ secrets.BING_API_KEY }}
           GSC_SERVICE_ACCOUNT_JSON: ${{ runner.temp }}/gsc-sa.json
+          COUNT: ${{ github.event.inputs.count || '30' }}
         run: |
-          python scripts/generate-articles.py --count "${{ github.event.inputs.count || '30' }}"
+          python scripts/generate-articles.py --count "$COUNT"
 
       - name: Wire internal links
         run: python scripts/add_internal_links.py

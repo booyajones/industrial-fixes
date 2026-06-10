@@ -5,10 +5,13 @@
 # Caller must export ANTHROPIC_API_KEY (+ PERPLEXITY_API_KEY) before running.
 set -uo pipefail
 cd /c/Users/chris/industrial-fixes || exit 1
-LOG=/tmp/ecf-crank.log
 WAVES="${1:-10}"
 COUNT="${2:-50}"
 JOBS="${3:-2}"
+[[ "$WAVES$COUNT$JOBS" =~ ^[0-9]+$ ]] || { echo "numeric args only: waves count jobs"; exit 2; }
+# Per-user, 0600 log (response bodies can land here; keep it off a shared /tmp path).
+LOG="${TMPDIR:-/tmp}/ecf-crank-$(id -u).log"
+( umask 077; : >> "$LOG" )
 
 ship() {
   git checkout -- public/search-index.json 2>/dev/null

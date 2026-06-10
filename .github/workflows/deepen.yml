@@ -49,12 +49,15 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+          COUNT: ${{ github.event.inputs.count || '40' }}
+          JOBS: ${{ github.event.inputs.jobs || '2' }}
         run: |
-          # Revenue-first: finish any not-yet-done money-map codes, then broaden.
+          # Inputs come in via env (never interpolated into the shell) to avoid
+          # Actions script injection. Revenue-first, then broaden the backlog.
           if [ -f .planning/money-targets.txt ]; then
-            python scripts/money-gen.py --file .planning/money-targets.txt --jobs "${{ github.event.inputs.jobs || '2' }}" || true
+            python scripts/money-gen.py --file .planning/money-targets.txt --jobs "$JOBS" || true
           fi
-          python scripts/regen-deep.py --count "${{ github.event.inputs.count || '40' }}" --jobs "${{ github.event.inputs.jobs || '2' }}"
+          python scripts/regen-deep.py --count "$COUNT" --jobs "$JOBS"
 
       - name: Commit + push deepened pages (triggers Cloudflare deploy)
         shell: bash
