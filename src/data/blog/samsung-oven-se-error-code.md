@@ -1,50 +1,74 @@
 ---
 title: "Samsung SE Error Code - Causes & Fix"
-description: "SE means a stuck or shorted keypad button. Most common fix: replace the membrane switch assembly or reseat its ribbon connector."
-pubDatetime: 2026-05-31T05:41:08Z
-modDatetime: 2026-05-31T05:41:08Z
-author: "James Rutherford"
+description: "Samsung SE code means a drainage fault. The most common fix: clean the clogged pump filter at the lower front panel of the washer."
+pubDatetime: 2026-06-07T23:53:24Z
+modDatetime: 2026-06-07T23:53:24Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
-  - oven
   - samsung
+most_likely_cause: "Clogged pump filter or debris in the filter trap"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Samsung SE Error Code — What It Means
 
-The SE error code on a Samsung oven or range indicates a defective key or button input on the control panel. The oven's control board is detecting an abnormal signal from one or more keys on the membrane or touch keypad, treating it as a stuck, shorted, or otherwise faulty switch. This is not a heating or sensor fault. It is strictly a user-interface problem originating in the keypad assembly, its wiring connection, or occasionally the main control board itself.
+The SE error code on a Samsung washing machine signals a drainage fault. The washer has detected that water is not draining properly from the drum. Samsung groups SE together with the 5E code in the same drain-issue family, so both indicate the machine cannot empty water within the expected time during the rinse or spin cycle.
+
+This code does not point to a general electronic failure. It is specifically tied to the drain path: the pump filter, drain hose, or the pump itself. When the washer cannot evacuate water, it stops the cycle and displays SE to protect the motor and prevent flooding.
+
+## Before You Replace Anything
+
+Many owners replace the drain pump assembly before checking the pump filter. Pull and clean the filter first (usually behind a lower access panel) because lint, coins, and small garments block the impeller and trigger SE without any pump failure.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Defective membrane switch or touch keypad** The most common cause is a failed membrane switch assembly where one or more keys short internally or send continuous signals to the control board.
-- **Loose or corroded ribbon connector** The ribbon cable or harness between the keypad and the control board may be unseated, pinched, or corroded, creating false key signals.
-- **Contamination or moisture on the membrane connection** Grease, moisture, or residue on the ribbon connector can cause intermittent key-detection faults that trigger the SE code.
-- **Main control board failure** If the keypad and wiring are intact, the electronic control board itself may be misinterpreting signals or have a failed input circuit.
-- **Physically stuck button** A key stuck in the pressed position due to debris or mechanical damage will register as a continuous input and flag the error.
-- **Damaged wire harness** Broken or heat-damaged wires in the harness between the keypad and control board can produce the same symptom as a shorted key.
+- **Clogged pump filter (~60%)** Lint, coins, buttons, and small fabric items accumulate in the filter trap and block water flow to the pump impeller.
+- **Kinked or clogged drain hose (~20%)** The hose can be pinched behind the washer, frozen in a cold garage, or obstructed by detergent sludge inside the corrugated tube.
+- **Washer not level (~10%)** An unlevel washer can prevent proper spin and drainage, especially if the rear legs are significantly higher or lower than the front.
+- **Drain pump restriction or failure (~10%)** The pump impeller may be jammed by debris that passed the filter, or the pump motor windings may be open if cleaning does not restore function.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Is there standing water in the drum at the end of a cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The drain path is blocked or the pump is not running. Clean the filter and inspect the hose before replacing the pump.<br><strong>No:</strong> The code may be intermittent or caused by a slow drain. Check that the drain hose standpipe height is 60-90 cm and not airtight at the top.</div>
+</details>
+
+<details class="dtree"><summary>When you open the filter access panel, does water pour out of the emergency drain hose?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Water was trapped below the drum, confirming a drain blockage. Clean the filter thoroughly and check for objects jamming the pump impeller.<br><strong>No:</strong> The washer may have partially drained. Still clean the filter because even partial clogs trigger SE during high-speed spin.</div>
+</details>
+
+<details class="dtree"><summary>After cleaning the filter and hose, does a rinse-and-spin test cycle complete without the SE code?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The blockage is cleared. Run a normal load to confirm and check the filter monthly to prevent recurrence.<br><strong>No:</strong> The drain pump itself is likely faulty or the main control board is not sending power to the pump. Test the pump for continuity or call a technician.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Disconnect power** at the circuit breaker or unplug the range before opening the console to avoid shock and board damage.
-2. **Remove the control-panel cover** by taking out the screws along the top or rear edge, then pull the panel forward carefully to expose the membrane keypad and ribbon connector.
-3. **Inspect and reseat the ribbon connector** that joins the membrane keypad to the main control board, checking for bent pins, corrosion, grease, or moisture, and clean contacts with isopropyl alcohol if contamination is visible.
-4. **Test the keypad for stuck buttons** by pressing each key and looking for physical resistance or debris, and confirm the error appears immediately on power-up if a key is electronically shorted.
-5. **Replace the membrane switch assembly** if the ribbon connection is clean and seated but the code persists, using the part number specific to your model (for example, DG34-00020A on some Samsung ranges).
-6. **Swap the main control board** if a new keypad assembly does not clear the fault, since the input circuit on the board may be damaged or misreading signals.
-7. **Restore power and verify** that the SE code clears, all keys respond normally, and the oven accepts commands without re-triggering the error.
+1. **Unplug the washer** from the wall outlet and turn off the water supply valves to prevent any electrical or water hazards during service.
+2. **Verify the washer is level** by placing a bubble level across the top front-to-back and side-to-side, and adjust the feet if needed so the machine does not rock.
+3. **Inspect the drain hose** at the rear of the washer for kinks, frozen sections (if stored in a cold space), or pinch points where it passes behind the cabinet, and straighten or reposition the hose so it has a smooth path to the standpipe or laundry sink at a height of 60-90 cm.
+4. **Open the lower front access panel** (usually a snap-on cover near the floor), pull out the small emergency drain hose or tube, remove its cap, and direct the hose into a shallow pan to drain any residual water before opening the filter.
+5. **Unscrew and remove the pump filter** by turning it counterclockwise, pull it straight out, and rinse it under running water to remove lint, coins, hair pins, and any other debris trapped in the mesh or impeller cavity.
+6. **Check the pump impeller** by shining a flashlight into the filter housing and turning the impeller blades by hand to confirm they spin freely without obstruction.
+7. **Reinstall the filter** by seating it firmly in the housing and turning clockwise until snug, replace the emergency drain hose cap, close the access panel, restore the drain hose to its standpipe, plug the washer back in, and run a rinse-and-spin cycle to test drainage.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Range membrane switch / touch keypad assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-oven-se-error-code&k=Range+membrane+switch+%2F+touch+keypad+assembly&tag=errorcodefixes-20) \| Primary replacement part when keys are shorted or defective. Match by exact model number printed inside the oven door or on the data plate. |
-| Electronic control board / main PCB | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-oven-se-error-code&k=Electronic+control+board+%2F+main+PCB&tag=errorcodefixes-20) \| Required if keypad and harness are confirmed good but the code remains. Order by full model and serial number to make sure board compatibility. |
-| Wire harness / ribbon connector | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-oven-se-error-code&k=Wire+harness+%2F+ribbon+connector&tag=errorcodefixes-20) \| Needed only if the existing harness is damaged, pinched, or has broken conductors. Sold separately or as part of the keypad assembly. |
+| Drain pump filter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-oven-se-error-code&k=Drain+pump+filter&tag=errorcodefixes-20) \| Usually a twist-out mesh or plastic cage behind the lower access panel. Often cleaned rather than replaced. |
+| Drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-oven-se-error-code&k=Drain+hose&tag=errorcodefixes-20) \| Corrugated flexible hose from pump to standpipe. Replace if cracked, split, or permanently clogged inside. |
+| Drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-oven-se-error-code&k=Drain+pump+assembly&tag=errorcodefixes-20) \| Electric motor and impeller unit. Replace only after confirming the filter and hose are clear and the pump does not run. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if you are uncomfortable working inside the control console, if voltage measurements or board-level diagnostics are required, or if the error returns after you have replaced both the keypad and the control board. A pro can also cross-check wiring schematics and confirm that no secondary faults (such as a damaged harness run inside the range chassis) are contributing to the SE code. If your range is still under warranty, contact Samsung or an authorized service center before opening the unit to preserve coverage.
+Call a technician if you have cleaned the filter and drain hose, confirmed the washer is level, and the SE code returns immediately on a test cycle. At that point the drain pump motor may have failed or the main control board is not sending voltage to the pump. A technician will use a multimeter to check pump continuity and verify that the board is delivering power during the drain phase. Also call for help if you cannot access the lower panel because cabinetry blocks it, or if water continues to leak from the filter housing after you have reinstalled the filter and cap.
+
+**Rough cost:** DIY runs about $0-30 in parts (if only cleaning), 20-40 min. A pro service call runs about $100-200 service call.
