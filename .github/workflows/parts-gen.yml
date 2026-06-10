@@ -1,0 +1,62 @@
+# Continuous part-replacement page generation (the highest-conversion content).
+# Runs twice a day on a staggered schedule so it does not collide with the code
+# generators on the shared API key. Generates grounded, gated part pages and
+# pushes [cloud] (PAT push triggers the Cloudflare deploy).
+name: Parts Pages (continuous)
+
+on:
+  schedule:
+    - cron: "30 1,13 * * *"
+  workflow_dispatch:
+    inputs:
+      count:
+        description: "Part pages to attempt"
+        default: "60"
+      jobs:
+        description: "Parallel workers"
+        default: "2"
+
+concurrency:
+  group: parts-gen
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  gen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 80
+    steps:
+      - name: Checkout (PAT so the content push triggers the deploy workflow)
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.CONTENT_PUSH_TOKEN }}
+          fetch-depth: 0
+          persist-credentials: true
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Generate part-replacement pages
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+          COUNT: ${{ github.event.inputs.count || '60' }}
+          JOBS: ${{ github.event.inputs.jobs || '2' }}
+        run: |
+          python scripts/generate-parts.py --topics-file scripts/.content-universe.json --count "$COUNT" --jobs "$JOBS"
+      - name: Commit + push (triggers Cloudflare deploy)
+        shell: bash
+        run: |
+          git config user.email "chris.a.wyatt@gmail.com"
+          git config user.name "ECF Parts Bot"
+          git checkout -- public/search-index.json 2>/dev/null || true
+          git add src/data/blog 2>/dev/null || true
+          if git diff --cached --quiet; then echo "No part pages this run."; exit 0; fi
+          git commit -m "Part-replacement pages [cloud]"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            echo "push race, retry $i"; sleep $((RANDOM % 8 + 3))
+          done
+          echo "push failed after retries"; exit 1
