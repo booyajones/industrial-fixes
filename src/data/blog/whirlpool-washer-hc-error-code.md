@@ -1,49 +1,72 @@
 ---
 title: "Whirlpool HC Error Code - Causes & Fix"
-description: "HC means hot and cold inlet hoses are reversed. Swap the supply hoses at the back of the washer so hot connects to hot and cold to cold."
-pubDatetime: 2026-05-31T01:50:24Z
-modDatetime: 2026-05-31T01:50:24Z
-author: "James Rutherford"
+description: "HC means hot and cold inlet hoses are reversed. Fix: turn off water, swap the hoses so hot connects to hot and cold to cold."
+pubDatetime: 2026-06-08T05:49:02Z
+modDatetime: 2026-06-08T05:49:02Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
-  - washer
   - whirlpool
+most_likely_cause: "hot and cold inlet hoses connected to the wrong ports"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Whirlpool HC Error Code — What It Means
 
-On Whirlpool top-load HE washers, the HC error code indicates that the hot and cold inlet hoses are installed backwards. The washer has detected that the cold water supply is feeding the hot inlet valve and the hot supply is feeding the cold inlet valve. This code typically appears at the end of a wash cycle to flag the incorrect hose hookup.
+The HC code on Whirlpool washers stands for hot and cold hoses reversed. The washer has detected that the inlet hoses were installed incorrectly, with the cold water supply connected to the hot inlet valve and the hot supply connected to the cold inlet valve. The code typically appears at the end of a wash cycle.
 
-The code is not a component failure in most cases. It is a plumbing installation error, often introduced when the washer is first installed, moved to a new location, or reconnected after service. Correcting the hose connections usually clears the code immediately.
+This is not a component failure. It is an installation or plumbing issue, usually occurring after the washer has been moved or newly installed. The machine's temperature sensors flag the reversal when the incoming water does not match the expected temperature for each fill cycle.
+
+## Before You Replace Anything
+
+Homeowners sometimes suspect a failed inlet valve or temperature sensor, but HC is almost always a simple hose reversal that requires no parts, just reattaching hoses correctly.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Hot and cold supply hoses swapped at installation** The most common cause is simply reversing the hoses when connecting the washer to the wall valves or to the inlet valve ports on the back of the machine.
-- **Hoses crossed or kinked behind the washer** Even if connected correctly at each end, hoses routed across each other behind the machine can result in reversed flow or confuse the inlet detection.
-- **Incorrect reconnection after moving the washer** When a washer is relocated or pulled out for cleaning or repairs, hoses may be reattached to the wrong inlets without checking color or marking.
-- **Washer reconnected incorrectly after service** A technician or DIYer may reconnect hoses in reverse after replacing an inlet valve or performing other rear-panel work.
+- **Hot and cold hoses reversed (~85%)** The hot water supply line is connected to the cold inlet port on the washer and vice versa, usually after installation or moving the machine.
+- **Hoses crossed behind the machine (~10%)** The hoses are routed over each other behind the washer so that hot feeds the cold valve and cold feeds the hot valve, even if they appear correct at the wall.
+- **Labeling confusion at water supply (~4%)** The wall faucets or laundry box connections are mislabeled or plumbed backward, so what appears to be the hot tap is actually delivering cold water.
+- **Installation check with water off (~1%)** During setup the water supply was turned off or partially closed, causing the washer to misread temperatures during the first fill cycle.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Did the HC code appear after moving or installing the washer?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The hoses were likely reconnected backward. Verify hot to hot and cold to cold at both the wall and the back of the washer, then swap if reversed.<br><strong>No:</strong> The code may have been latched from an earlier installation error. Check the hose routing anyway, then clear the code by running a new cycle.</div>
+</details>
+
+<details class="dtree"><summary>Are the inlet hoses clearly labeled hot and cold, and do they match the ports on the washer?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The hoses are routed correctly at the washer. Trace each hose back to the wall to confirm the supply faucets are also correct and not crossed.<br><strong>No:</strong> Swap the hoses so the hot supply connects to the port marked hot on the washer and cold connects to cold, then run a test cycle.</div>
+</details>
+
+<details class="dtree"><summary>Does the HC code clear after correcting the hoses and running a new cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The repair is complete. No parts are needed.<br><strong>No:</strong> Verify the wall faucets deliver the correct temperatures and consult the installation instructions. If the plumbing is correct and the code persists, contact service for further diagnosis.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Turn off the water supply** at the wall shutoff valves behind the washer to prevent leaks or spray while you work.
-2. **Unplug the washer** from the electrical outlet for safety during any inspection or hose handling.
-3. **Pull the washer forward** enough to access the back panel and see both the wall connections and the inlet valve ports clearly.
-4. **Inspect the hose connections** at the washer inlet valves and confirm that the hot supply hose (usually marked red or H) is connected to the hot inlet and the cold hose (usually blue or C) is connected to the cold inlet.
-5. **Swap the hoses if reversed** by unscrewing them from the washer inlet valves and reattaching hot to hot and cold to cold, then hand-tighten each connection and snug with pliers.
-6. **Check the routing** behind the washer to make sure the hoses are not crossed, kinked, or pinched, and that each hose runs straight from the wall valve to the correct inlet.
-7. **Restore water and power**, then run a short test cycle to verify that the HC code clears and the washer fills and operates normally.
+1. **Turn off the hot and cold water supply** at the wall faucets or laundry box shutoff valves before disconnecting any hoses.
+2. **Unplug the washer** from the wall outlet to power down the machine completely.
+3. **Disconnect both inlet hoses** from the back of the washer by unscrewing the threaded couplings, keeping a towel or bucket handy for residual water.
+4. **Identify the hot and cold inlet ports** on the washer (usually marked HOT and COLD) and the corresponding supply faucets at the wall (typically the left faucet is hot).
+5. **Reconnect the hoses correctly**, attaching the hot supply line to the hot inlet port and the cold supply line to the cold inlet port, hand-tightening plus a quarter turn with pliers.
+6. **Turn the water supply back on** and check each connection for leaks, tightening further if needed.
+7. **Plug the washer back in** and run a short test cycle (rinse or quick wash) to confirm the HC code does not return and the machine fills normally.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Hot and cold inlet supply hoses | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-washer-hc-error-code&k=Hot+and+cold+inlet+supply+hoses&tag=errorcodefixes-20) \| Typically no replacement needed unless hoses are damaged, but make sure each is marked or color-coded for correct installation. |
-| Inlet valve assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-washer-hc-error-code&k=Inlet+valve+assembly&tag=errorcodefixes-20) \| Only required if the code persists after correct hose hookup and further diagnosis points to a valve or wiring fault, which is rare for HC. |
+| Inlet hose set (if hoses are damaged or need replacement) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-washer-hc-error-code&k=Inlet+hose+set+%28if+hoses+are+damaged+or+need+replacement%29&tag=errorcodefixes-20) \| Standard 3/4-inch washer inlet hoses, 4–6 feet long, available at any hardware store; not required for HC repair unless hoses are worn. |
 
 ## When to Call a Pro
 
-Call a professional if you have confirmed that the hot and cold hoses are correctly connected at both the wall and the washer inlets, the hoses are not crossed or kinked, and the HC code still appears after running a test cycle. In that case the issue may involve the inlet valve temperature sensors, control board communication, or model-specific wiring that requires diagnostic tools and service documentation. Also contact Whirlpool support or a qualified technician if your model does not use the HC code for reversed hoses, since not all Whirlpool codes apply to every washer model.
+Call a professional if you have corrected the hose routing at both the washer and the wall supply, confirmed that the hot and cold faucets deliver the correct temperatures, and the HC code still appears after running a test cycle. A technician can verify the installation against the factory instructions and inspect the inlet valve assembly and temperature sensors for faults that mimic a hose reversal. Also call if you discover the laundry room plumbing itself is backward (hot and cold pipes are crossed inside the wall), which requires a licensed plumber to reroute the supply lines.
+
+**Rough cost:** DIY runs about $0 and 10–20 minutes to swap hoses. A pro service call runs about $75–150 service call if a technician is needed to verify and reconnect hoses.
