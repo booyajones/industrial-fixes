@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a technician if you have verified the water supply is good, cleaned the float, and tested the float switch but the FE code persists. A pro can safely check the pressure-switch air-tube path, measure inlet-valve operation under load, and diagnose control-board issues without risking water damage. Also call if you are uncomfortable working around 120 V wiring or if the dishwasher has already flooded the base pan, because that may indicate a stuck valve or failed overfill sensor that needs immediate replacement to prevent floor damage.
 
 **Rough cost:** DIY runs about $15–80 in parts, 30–90 min. A pro service call runs about $150–300.
+
+## See Also
+
+- [LG Dryer Won't Start - Causes & Fix](/posts/lg-dryer-wont-start/)
+- [LG Microwave Won't Start - Causes & Fix](/posts/lg-microwave-wont-start/)
+- [LG Washer Stuck on One Cycle - Causes & Fix](/posts/lg-washer-stuck-on-one-cycle/)
+- [LG Dishwasher CE Error Code - Causes & Fix](/posts/lg-dishwasher-ce-error-code/)

@@ -51,3 +51,10 @@ In systems like the Ecodan heat pump, P1 specifically flags a mismatch between t
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are uncomfortable working inside the indoor unit with power off, if you do not own a multimeter or cannot interpret resistance tables, or if the P1 fault returns after you have verified the sensor resistance and all connections. A pro can cross-reference your exact Mitsubishi model number to the factory code definition, use specialized software to read additional fault history, and stock the correct OEM thermistor and control board for same-day repair. Also call if the system is under warranty, since DIY sensor replacement may void coverage.
+
+## See Also
+
+- [Mitsubishi PB Error Code - Causes & Fix](/posts/mitsubishi-mini-split-pb-error-code/)
+- [Mitsubishi Mr. Slim Error Code P6 - What It Means and How to Fix It](/posts/mitsubishi-mr-slim-error-code-p6/)
+- [Mitsubishi U6 Error Code - Causes & Fix](/posts/mitsubishi-mini-split-u6-error-code/)
+- [Mitsubishi CNC Alarm Y96 — Causes & Fix](/posts/mitsubishi-cnc-alarm-y96/)

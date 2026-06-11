@@ -49,3 +49,10 @@ This code will prevent normal operation until the sensor circuit is restored. Th
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are uncomfortable working with live electrical components, cannot safely access the indoor coil, or lack a multimeter and thermistor resistance chart for your model. Also call a pro if the P2 code returns after you have verified and replaced the sensor, since board-level diagnosis and refrigerant-side checks require gauges, recovery equipment, and EPA certification. If your system is under warranty, contact an authorized Mitsubishi Electric dealer to avoid voiding coverage with DIY repairs.
+
+## See Also
+
+- [Mitsubishi E4 Error Code — Causes & Fix](/posts/mitsubishi-e4-error-code/)
+- [Mitsubishi Mini Split P6 Error Code Fix](/posts/mitsubishi-p6-error-code/)
+- [Mitsubishi Mr. Slim Error Code P6 - What It Means and How to Fix It](/posts/mitsubishi-mr-slim-error-code-p6/)
+- [Mitsubishi Mini Split Won't Turn On - Causes & Fix](/posts/mitsubishi-mini-split-wont-turn-on/)

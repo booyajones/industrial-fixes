@@ -49,3 +49,10 @@ These codes apply to this model line:
 ## When to Call a Pro
 
 Call a licensed plumber or electrician if you see active water leaking from the tank itself, if you are not comfortable working with 240-volt power and testing element resistance, or if fault codes persist after you have dried sensors and cleared the condensate drain. Heat pump refrigerant work and compressor diagnosis require EPA certification and specialized gauges. If the tank is leaking, replacement is the only option and a pro will handle permit, code compliance, and safe disposal of the old unit. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rheem Furnace Blowing Cold Air - Causes & Fix](/posts/rheem-furnace-blowing-cold-air/)
+- [Rheem RA13 Air Conditioner Error Codes — Fault Code Diagnostic Guide](/posts/rheem-ra13-error-codes/)
+- [Rheem RA16 Heat Pump Error Codes — Flash Code Diagnostic Guide](/posts/rheem-ra16-heat-pump-error-codes/)
+- [Rheem Furnace 2 Flashes — Pressure Switch Fault](/posts/rheem-furnace-2-flashes/)

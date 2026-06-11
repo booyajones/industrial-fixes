@@ -412,5 +412,35 @@
     "score": 3,
     "reason": "Research explicitly states 'the search results provided do NOT include a Yaskawa document that explicitly defines A.122 by name' \u2013 code authenticity not verified for GA800, making this speculative content built on closest interpretation rather than manufacturer documentation.",
     "date": "2026-06-10"
+  },
+  "yaskawa-ga800-vfd-a-101-fault-code": {
+    "topic": "Yaskawa GA800 VFD A.101 fault code",
+    "score": 3,
+    "reason": "A.101 is explicitly stated in research as NOT a verified Yaskawa GA800 code; the draft correctly warns of this but should not be published as it documents a non-existent/unconfirmed fault code for this specific model.",
+    "date": "2026-06-11"
+  },
+  "yaskawa-ga800-vfd-a-135-fault-code": {
+    "topic": "Yaskawa GA800 VFD A.135 fault code",
+    "score": 3,
+    "reason": "Research explicitly states A.135 cannot be verified from available sources for the GA800; the draft invents meaning and causes without manufacturer documentation for this specific code.",
+    "date": "2026-06-11"
+  },
+  "yaskawa-ga800-vfd-a-136-fault-code": {
+    "topic": "Yaskawa GA800 VFD A.136 fault code",
+    "score": 4,
+    "reason": "The A.136 code is not confirmed in any GA800-specific manufacturer documentation; the research explicitly states 'I could not confirm a GA800-specific manufacturer PDF' and relies on pattern inference from other Yaskawa drives, making this unverified for the exact brand+model combination.",
+    "date": "2026-06-11"
+  },
+  "yaskawa-ga800-vfd-a-140-fault-code": {
+    "topic": "Yaskawa GA800 VFD A.140 fault code",
+    "score": 4,
+    "reason": "Research explicitly states A.140 is NOT verified for GA800 VFD\u2014only found in Yaskawa servo line\u2014yet draft presents it as confirmed GA800 fault; fails brand+appliance verification requirement.",
+    "date": "2026-06-11"
+  },
+  "yaskawa-ga800-vfd-a-147-fault-code": {
+    "topic": "Yaskawa GA800 VFD A.147 fault code",
+    "score": 3,
+    "reason": "Research explicitly states A.147 is NOT a verified GA800 code; draft proceeds anyway with invented causes not tied to any confirmed meaning, violating rule #1 (code reality) and #2 (accurate meaning).",
+    "date": "2026-06-11"
   }
 }

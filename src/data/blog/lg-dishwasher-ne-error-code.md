@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a professional if you are not comfortable working with the dishwasher's electrical system, testing components with a multimeter, or interpreting voltage and resistance readings. The vario motor is located under the tub and requires panel removal and precise connector work. If you have already inspected the wiring and the fault persists, a technician can perform model-specific diagnostic tests, verify control board output, and replace the correct component without trial and error. Professional diagnosis is especially important if you lack the service manual with the exact electrical specifications for your model.
 
 **Rough cost:** DIY runs about $80-180 in parts, 1-2 hours. A pro service call runs about $180-350.
+
+## See Also
+
+- [LG LFXS28968S Refrigerator Problems & Error Codes](/posts/lg-lfxs28968s-refrigerator-problems/)
+- [LG Refrigerator IF Error Code - Causes & Fix](/posts/lg-refrigerator-if-error-code/)
+- [LG Range SE Error Code - Causes & Fix](/posts/lg-range-se-error-code/)
+- [LG Dryer tE1 Error Code - Causes & Fix](/posts/lg-dryer-te1-error-code/)

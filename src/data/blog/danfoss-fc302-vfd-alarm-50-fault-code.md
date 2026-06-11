@@ -48,3 +48,10 @@ This alarm typically appears during commissioning or after a motor change when y
 ## When to Call a Pro
 
 Call a qualified drive technician or Danfoss service if Alarm 50 returns after you have verified and corrected all motor nameplate data in parameters 1-20 through 1-25 and inspected the motor wiring for faults. Danfoss does not publish a deeper field repair procedure for this alarm and directs users to contact their supplier or service department when the fault persists. If you are not familiar with VFD programming or safe electrical work on industrial motor circuits, call a professional from the start to avoid damage to the drive or motor.
+
+## See Also
+
+- [Danfoss FC302 Alarm 42 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-42-fault-code/)
+- [Danfoss FC302 VFD Alarm 28 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-28-fault-code/)
+- [Danfoss VFD Fault W30 — Brake Resistor Overtemperature Fix](/posts/danfoss-vfd-fault-w30/)
+- [Danfoss FC302 Alarm 40 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-40-fault-code/)

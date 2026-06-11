@@ -49,3 +49,10 @@ These codes apply to this model line:
 ## When to Call a Pro
 
 Call a licensed electrician or plumber if you are not comfortable working with 240-volt circuits, if the breaker trips repeatedly after resetting, or if you smell burning plastic near the heater. Professional diagnosis is also needed when the ECO trips immediately after reset, when a new element fails within days, or when you find evidence of a leak or water damage around the tank. If the unit has electronic controls and shows a fault you cannot clear, or if voltage testing at the element terminals does not match expected readings, have a qualified technician troubleshoot the control board and wiring. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rheem Water Heater Water Too Hot - Causes & Fix](/posts/rheem-water-heater-water-too-hot/)
+- [Rheem EcoNet A101 Error Code — Causes & Fix](/posts/rheem-econet-a101-error-code/)
+- [Rheem Water Heater Gas Control Valve Replacement - Signs & How-To](/posts/rheem-water-heater-gas-control-valve-thermostat-valve-tank-gas-replacement/)
+- [Rheem Furnace 7 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-7-flashes/)

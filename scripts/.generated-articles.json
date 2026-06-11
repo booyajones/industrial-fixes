@@ -3295,6 +3295,114 @@
     "yaskawa-ga800-vfd-a-123-fault-code": {
       "topic": "Yaskawa GA800 VFD A.123 fault code",
       "date": "2026-06-10"
+    },
+    "yaskawa-ga800-vfd-a-101-fault-code": {
+      "topic": "Yaskawa GA800 VFD A.101 fault code",
+      "date": "2026-06-11"
+    },
+    "yaskawa-ga800-vfd-a-121-fault-code": {
+      "topic": "Yaskawa GA800 VFD A.121 fault code",
+      "date": "2026-06-11"
+    },
+    "yaskawa-ga800-vfd-a-124-fault-code": {
+      "topic": "Yaskawa GA800 VFD A.124 fault code",
+      "date": "2026-06-11"
+    },
+    "yaskawa-ga800-vfd-a-125-fault-code": {
+      "topic": "Yaskawa GA800 VFD A.125 fault code",
+      "date": "2026-06-11"
+    },
+    "yaskawa-ga800-vfd-a-126-fault-code": {
+      "topic": "Yaskawa GA800 VFD A.126 fault code",
+      "date": "2026-06-11"
+    },
+    "yaskawa-ga800-vfd-a-127-fault-code": {
+      "topic": "Yaskawa GA800 VFD A.127 fault code",
+      "date": "2026-06-11"
+    },
+    "yaskawa-ga800-vfd-a-128-fault-code": {
+      "topic": "Yaskawa GA800 VFD A.128 fault code",
+      "date": "2026-06-11"
+    },
+    "yaskawa-ga800-vfd-a-129-fault-code": {
+      "topic": "Yaskawa GA800 VFD A.129 fault code",
+      "date": "2026-06-11"
+    },
+    "yaskawa-ga800-vfd-a-130-fault-code": {
+      "topic": "Yaskawa GA800 VFD A.130 fault code",
+      "date": "2026-06-11"
+    },
+    "yaskawa-ga800-vfd-a-131-fault-code": {
+      "topic": "Yaskawa GA800 VFD A.131 fault code",
+      "date": "2026-06-11"
+    },
+    "yaskawa-ga800-vfd-a-132-fault-code": {
+      "topic": "Yaskawa GA800 VFD A.132 fault code",
+      "date": "2026-06-11"
+    },
+    "yaskawa-ga800-vfd-a-133-fault-code": {
+      "topic": "Yaskawa GA800 VFD A.133 fault code",
+      "date": "2026-06-11"
+    },
+    "yaskawa-ga800-vfd-a-134-fault-code": {
+      "topic": "Yaskawa GA800 VFD A.134 fault code",
+      "date": "2026-06-11"
+    },
+    "yaskawa-ga800-vfd-a-135-fault-code": {
+      "topic": "Yaskawa GA800 VFD A.135 fault code",
+      "date": "2026-06-11"
+    },
+    "yaskawa-ga800-vfd-a-136-fault-code": {
+      "topic": "Yaskawa GA800 VFD A.136 fault code",
+      "date": "2026-06-11"
+    },
+    "yaskawa-ga800-vfd-a-137-fault-code": {
+      "topic": "Yaskawa GA800 VFD A.137 fault code",
+      "date": "2026-06-11"
+    },
+    "yaskawa-ga800-vfd-a-138-fault-code": {
+      "topic": "Yaskawa GA800 VFD A.138 fault code",
+      "date": "2026-06-11"
+    },
+    "yaskawa-ga800-vfd-a-140-fault-code": {
+      "topic": "Yaskawa GA800 VFD A.140 fault code",
+      "date": "2026-06-11"
+    },
+    "yaskawa-ga800-vfd-a-142-fault-code": {
+      "topic": "Yaskawa GA800 VFD A.142 fault code",
+      "date": "2026-06-11"
+    },
+    "yaskawa-ga800-vfd-a-143-fault-code": {
+      "topic": "Yaskawa GA800 VFD A.143 fault code",
+      "date": "2026-06-11"
+    },
+    "yaskawa-ga800-vfd-a-144-fault-code": {
+      "topic": "Yaskawa GA800 VFD A.144 fault code",
+      "date": "2026-06-11"
+    },
+    "yaskawa-ga800-vfd-a-146-fault-code": {
+      "topic": "Yaskawa GA800 VFD A.146 fault code",
+      "date": "2026-06-11"
+    },
+    "yaskawa-ga800-vfd-a-147-fault-code": {
+      "topic": "Yaskawa GA800 VFD A.147 fault code",
+      "date": "2026-06-11"
+    },
+    "yaskawa-ga800-vfd-a-148-fault-code": {
+      "topic": "Yaskawa GA800 VFD A.148 fault code",
+      "date": "2026-06-11"
+    },
+    "yaskawa-a1000-vfd-cpf00-fault-code": {
+      "topic": "Yaskawa A1000 VFD CPF00 fault code",
+      "date": "2026-06-11"
+    },
+    "yaskawa-a1000-vfd-cpf01-fault-code": {
+      "topic": "Yaskawa A1000 VFD CPF01 fault code",
+      "date": "2026-06-11"
+    },
+    "yaskawa-a1000-vfd-cpf02-fault-code": {
+      "topic": "Yaskawa A1000 VFD CPF02 fault code",
+      "date": "2026-06-11"
     }
   }
 }

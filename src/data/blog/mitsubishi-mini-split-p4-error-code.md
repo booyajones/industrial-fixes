@@ -50,3 +50,10 @@ The P4 code on a Mitsubishi Electric mini split is an inverter compressor drive 
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you are not comfortable working with high-voltage electrical components or if you do not own a multimeter and the tools to safely test inverter modules and compressor windings. Diagnosis of P4 requires measuring live voltage, testing power electronics, and interpreting resistance readings that vary by model. Replacing the wrong part (IPM, PCB, or compressor) is expensive and will not fix the problem if the root cause is not isolated first. A trained technician has the manufacturer service manuals, proper test equipment, and refrigerant recovery tools to diagnose and repair the fault correctly the first time.
+
+## See Also
+
+- [Mitsubishi PL Error Code - Causes & Fix](/posts/mitsubishi-mini-split-pl-error-code/)
+- [Mitsubishi E7 Error Code — Refrigerant Cycle Fault](/posts/mitsubishi-e7-error-code/)
+- [Mitsubishi Mini Split E4 Error - Causes & Fix](/posts/mitsubishi-mini-split-e4-error-code/)
+- [Mitsubishi P7 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-p7-error-code/)

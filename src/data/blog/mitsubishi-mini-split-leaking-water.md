@@ -69,3 +69,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 If you have cleared the drain line and filter but water continues to leak, or if you find ice on the evaporator coil that returns after airflow is restored, the system likely has a refrigerant leak or charge problem that requires a licensed technician with recovery equipment and leak detection tools. Likewise, if the drain pan is cracked or the indoor unit was installed without proper pitch, call a professional to remount the head or replace internal components. Refrigerant work and structural remounting are not DIY repairs.
+
+## See Also
+
+- [Mitsubishi P7 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-p7-error-code/)
+- [Mitsubishi AL-29 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-al-29-error-code/)
+- [Mitsubishi U7 Error Code — Refrigerant System Fault](/posts/mitsubishi-u7-error-code/)
+- [Mitsubishi Mini Split P2 Error Code — Indoor Pipe Thermistor Fix](/posts/mitsubishi-p2-error-code/)

@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a professional if you have confirmed the shutoff valve is open, the hose is clear, and the inlet filter is clean, yet the error persists. A technician can measure house water pressure with a gauge to verify it meets LG's 20 PSI minimum, test the inlet valve under load, and check for wiring faults or control-board issues that prevent the valve from energizing. Also call a pro if you are uncomfortable working around water connections, if the valve is hard to reach, or if you suspect a broader plumbing problem affecting water pressure throughout your home.
 
 **Rough cost:** DIY runs about $25–70 in parts, 30–90 min. A pro service call runs about $150–280.
+
+## See Also
+
+- [LG Dryer D95 Error Code - Causes & Fix](/posts/lg-dryer-d95-error-code/)
+- [LG Oven Broiler Not Working - Causes & Fix](/posts/lg-oven-broiler-not-working/)
+- [LG Washer Burning Smell - Causes & Fix](/posts/lg-washer-burning-smell/)
+- [LG Washer Door Lock Assembly Replacement - Signs & How-To](/posts/lg-washer-door-lock-latch-assembly-replacement/)

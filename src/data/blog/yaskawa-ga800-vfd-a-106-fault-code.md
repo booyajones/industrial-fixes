@@ -70,3 +70,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa-authorized service center if you cannot find the A.106 code in your manual, if the fault persists after parameter correction and wiring checks, or if you lack the training to work safely on industrial three-phase equipment. High-voltage VFD repair requires lockout/tagout procedures, multimeter diagnostics, and familiarity with motor control circuits. The GA800 maintenance documentation notes that field repair scope is limited to fan and control board replacement. Internal capacitor banks and power modules retain lethal voltage even after shutdown and must be discharged by trained personnel.
 
 **Rough cost:** A pro service call runs about $200-500.
+
+## See Also
+
+- [Yaskawa GA800 A.120 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-120-fault-code/)
+- [Yaskawa GA800 A.143 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-143-fault-code/)
+- [Yaskawa GA800 E37 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e37-fault-code/)
+- [Yaskawa A1000 Complete Guide - Fault Codes, Parameters, and Commissioning](/posts/yaskawa-a1000-complete-guide/)

@@ -75,3 +75,10 @@ Answer these to narrow it down fast.
 Call a professional if you are not comfortable disassembling the lower dishwasher cabinet to access the sump and motor, if you lack a multimeter to test motor continuity and wiring, or if the motor and harness appear good but the LE code persists and points to a control-board fault. Technicians have the diagnostic tools to measure motor drive signals and determine whether the pump assembly or the board is at fault. Also call a pro if your household water pressure is below 20 PSI, as low pressure can cause related errors and may require plumbing work beyond appliance repair.
 
 **Rough cost:** A pro service call runs about $200-400.
+
+## See Also
+
+- [LG Washer Drive Belt Replacement - Signs & How-To](/posts/lg-washer-drive-belt-replacement/)
+- [LG LS120HSV5 Ductless Mini Split Problems & Error Codes](/posts/lg-ls120hsv5-ductless-mini-split-air-conditioner-problems/)
+- [LG Dishwasher bE Error Code - Causes & Fix](/posts/lg-dishwasher-be-error-code/)
+- [LG LAN120HSV5 Ductless Mini Split Problems & Error Codes](/posts/lg-lan120hsv5-ductless-mini-split-air-conditioner-problems/)

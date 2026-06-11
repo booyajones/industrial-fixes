@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a technician if you are not comfortable working with 120-volt appliance wiring, if multimeter tests are outside your skill level, or if both the heater and thermistor test good but the error persists (which points to a control board or relay problem). A pro can quickly isolate whether the control board is commanding heater power, test the full circuit under load, and replace the sump assembly or board as needed. If the heater connector is part of a larger pump case assembly and you do not want to disassemble the base of the dishwasher, a service call will save time and avoid the risk of damaging hoses or seals during reassembly.
 
 **Rough cost:** DIY runs about $60-150 in parts, 1-2 hours. A pro service call runs about $150-300.
+
+## See Also
+
+- [LG Microwave F-5 Error Code - Causes & Fix](/posts/lg-microwave-f-5-error-code/)
+- [LG Washer Leaking Water - Causes & Fix](/posts/lg-washer-leaking-water/)
+- [LG Microwave Door Latch/Spring Replacement - Signs & How-To](/posts/lg-microwave-door-latch-lever-latch-spring-replacement/)
+- [LG Microwave Sparking - Causes & Fix](/posts/lg-microwave-sparking/)

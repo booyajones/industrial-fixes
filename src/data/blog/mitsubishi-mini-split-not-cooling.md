@@ -67,3 +67,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you cannot retrieve the fault code, if the fault returns after cleaning filters and resetting the unit, or if the code points to wiring, sensor, or refrigerant circuit problems. Refrigerant testing and sealed-system work require EPA certification and specialized tools. Communication faults and control board replacement also need model-specific diagnostic equipment and the exact service manual for your Mitsubishi model.
+
+## See Also
+
+- [Mitsubishi FR-E800 Fault E6 — Causes & Fix](/posts/mitsubishi-fr-e800-fault-e6/)
+- [Mitsubishi Mini Split E6 Error Code — Communication Error Indoor/Outdoor Fix](/posts/mitsubishi-mini-split-e6-error/)
+- [Mitsubishi F0001 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-f0001-error-code/)
+- [Mitsubishi AL-29 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-al-29-error-code/)

@@ -49,3 +49,10 @@ This alarm is almost always a configuration problem rather than a hardware failu
 ## When to Call a Pro
 
 Call a qualified technician or control systems integrator if you have verified and corrected all motor data in parameters 1-20 to 1-25 and the alarm still appears after rerunning AMA. Persistent Alarm 51 after correct data entry may indicate a wiring problem, a motor issue that prevents adaptation, or an unusual drive configuration that requires deeper diagnostic tools. Also call a professional if you are unfamiliar with VFD programming or motor nameplate interpretation, since incorrect settings can damage both the drive and the motor.
+
+## See Also
+
+- [Danfoss VFD Fault E-Trip — Causes & Fix](/posts/danfoss-vfd-fault-e-trip/)
+- [Danfoss FC302 VFD Alarm 38 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-38-fault-code/)
+- [Danfoss FC302 ALARM 27 - Causes & Fix](/posts/danfoss-fc302-alarm-27-fault-code/)
+- [Danfoss FC302 VFD Alarm 80 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-80-fault-code/)

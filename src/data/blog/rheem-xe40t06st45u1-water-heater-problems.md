@@ -49,3 +49,10 @@ These codes apply to this model line:
 ## When to Call a Pro
 
 Call a licensed electrician or plumber for any work inside the heater if you are not comfortable working with 240-volt circuits. Always shut off the breaker and verify zero voltage before opening any panel. If you see active water leaking from the tank itself (not fittings), the tank is done and needs replacement. If fault codes return after you reset the ECO or replace a thermistor, the control board or element relay may have failed and a tech with a meter and the Rheem diagnostic flow is the right call. Gas work does not apply to this electric storage model. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rheem Classic Series Furnace Error Codes — Complete Guide](/posts/rheem-classic-furnace-error-codes/)
+- [Rheem A01 Error Code - Causes & Fix](/posts/rheem-water-heater-a01-error-code/)
+- [Rheem Tankless Water Inlet Valve Replacement - Signs & How-To](/posts/rheem-water-heater-water-inlet-valve-cold-water-isolation-valve-kit-tankless-replacement/)
+- [Rheem Water Heater Anode Rod Replacement - Signs & How-To](/posts/rheem-water-heater-anode-rod-sacrificial-magnesium-aluminum-replacement/)

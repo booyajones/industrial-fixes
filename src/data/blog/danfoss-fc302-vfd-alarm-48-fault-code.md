@@ -48,3 +48,10 @@ The 1.8 V rail powers critical control-card circuitry. When it drops or becomes 
 ## When to Call a Pro
 
 Call a qualified VFD technician or contact Danfoss technical support if you are not comfortable working inside energized or recently de-energized industrial drives, if you do not have the tools to measure low-voltage DC supplies safely, or if replacing the control card does not clear Alarm 48. Control-card replacement requires proper ESD handling, parameter backup, and sometimes firmware/configuration tools. If the drive is under warranty or part of a critical process line, professional service ensures you preserve warranty coverage and minimize downtime.
+
+## See Also
+
+- [Danfoss FC302 Alarm 32 - Causes & Fix](/posts/danfoss-fc302-alarm-32-fault-code/)
+- [Danfoss FC302 Alarm 40 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-40-fault-code/)
+- [Danfoss AKC Controller Fault Codes - Complete Guide](/posts/danfoss-akc-controller-fault/)
+- [Danfoss FC302 VFD Alarm 28 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-28-fault-code/)
