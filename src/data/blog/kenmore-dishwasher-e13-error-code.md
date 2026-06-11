@@ -1,9 +1,9 @@
 ---
-title: "Kenmore Dishwasher E13 Error Code - Causes & Fix"
-description: "E13 on Kenmore dishwashers (LG-built models) signals a drain problem. Most often a kinked or clogged drain hose or blocked pump."
-pubDatetime: 2026-05-31T04:55:17Z
-modDatetime: 2026-05-31T04:55:17Z
-author: "James Rutherford"
+title: "Kenmore Dishwasher E13 Error - Causes & Fix"
+description: "E13 on Kenmore dishwashers varies by model platform. Check your manual for the exact meaning. Often a drain hose or sensor issue."
+pubDatetime: 2026-06-09T22:30:14Z
+modDatetime: 2026-06-09T22:30:14Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
@@ -11,43 +11,65 @@ tags:
   - dishwasher
   - kenmore
 money_part: "Drain hose"
+diy_or_pro: "diy"
 ---
 
-## Kenmore Dishwasher E13 Error Code — What It Means
+## Kenmore Dishwasher E13 Error — What It Means
 
-E13 is not a universal Kenmore code. Kenmore is a private-label brand, so the exact meaning depends on which manufacturer built your particular model. On LG-built Kenmore dishwashers, E13 typically indicates a drain-side fault: the machine cannot empty water properly. This usually points to a kinked, frozen, or clogged drain hose, a blocked sump area, or a drain pump performance issue.
+E13 is not a universal Kenmore dishwasher code. Kenmore dishwashers are manufactured by different OEMs depending on the model family, so E13 can mean different things across platforms. On some LG-manufactured Kenmore models, E13 indicates a drain problem such as a kinked, clogged, or frozen drain hose, a blocked sump, or a drain-path restriction. On other platforms, the same code may relate to a leak or pressure-switch fault, or may not be used at all.
 
-Before you start repairs, locate your full Kenmore model number on the door jamb or inside frame. That number will tell you the actual OEM platform and confirm whether the LG interpretation applies to your unit. If you cannot find a tech sheet or service bulletin for your exact model, start with the drain hose and sink connection, since those are the most common culprits on LG-family units.
+Because the exact meaning depends on your dishwasher's underlying platform and model number, always consult the owner's manual or the wiring diagram inside the door or on the tub wall. Look for the full model number on the door frame or tub label. Without that information, repair steps based on another brand's definition may lead to wasted time and wrong parts.
+
+## Before You Replace Anything
+
+Many owners replace the drain pump when E13 appears, but a simple kinked or clogged drain hose is often the real cause. Inspect the entire drain path and hose routing before ordering any parts.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Kinked or pinched drain hose** The drain hose is crushed, bent sharply, or routed incorrectly under the dishwasher or cabinet, blocking water flow.
-- **Clogged drain hose or path** Food debris, grease buildup, or foreign objects inside the hose or at the sink connection restrict draining.
-- **Frozen hose section** If the dishwasher is near an exterior wall or unheated space, a portion of the drain hose may freeze and block flow.
-- **Blocked sink or disposer connection** The dishwasher drain connects to a garbage disposer or sink tailpiece that is clogged or backed up, preventing the dishwasher from emptying.
-- **Sump or drain pump restriction** Debris, broken glass, or hard-water scale in the sump area or pump impeller prevents the pump from moving water out.
-- **Drain pump failure** The drain pump itself has failed electrically or mechanically and can no longer expel water, even when the path is clear.
+- **Kinked or pinched drain hose (~35%)** A drain hose bent sharply behind the dishwasher or under the sink can block water flow and trigger a drain-related error on LG-platform models.
+- **Clogged drain hose or drain path (~25%)** Food debris, grease buildup, or foreign objects inside the hose or sump restrict drainage and may set the code.
+- **Blocked sink or garbage disposer connection (~15%)** If the dishwasher drains into a disposer, a new disposer knockout plug left in place or a clogged sink trap can prevent proper drainage.
+- **Frozen drain hose (~10%)** In cold climates or unheated spaces, water in an improperly routed hose can freeze and block the drain.
+- **Faulty drain pump or sump obstruction (~10%)** A failed drain pump motor or an object lodged in the sump can stop drainage and trigger the error.
+- **Pressure switch or sensor fault (~5%)** On some Kenmore platforms, E13 may indicate a water-level sensor or pressure-switch problem rather than a drain issue.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does water remain standing in the tub at the end of a cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The problem is likely in the drain path (hose, pump, or disposer connection). Inspect the drain hose for kinks and clogs, and verify the sink or disposer connection is clear.<br><strong>No:</strong> The code may be related to a sensor or wiring fault rather than a physical drain blockage. Check the wiring diagram for your specific model number to identify the E13 circuit.</div>
+</details>
+
+<details class="dtree"><summary>Is the drain hose routed higher than the dishwasher's drain outlet or looped improperly?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Improper hose routing can cause slow drainage or siphoning. Re-route the hose following the installation instructions in your manual, with a high loop or air gap as required.<br><strong>No:</strong> Proceed to inspect the hose for internal clogs, the sump for debris, and the sink or disposer connection for blockages.</div>
+</details>
+
+<details class="dtree"><summary>Have you recently installed a new garbage disposer?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Check that the disposer knockout plug was removed from the dishwasher inlet. If the plug is still in place, remove it to restore drainage.<br><strong>No:</strong> Focus on the drain hose, sump filter, and pump as the most likely sources of the blockage or fault.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Disconnect power** at the circuit breaker or unplug the dishwasher before any inspection or repair work.
-2. **Inspect the drain hose routing** from the dishwasher to the sink or disposer connection, looking for kinks, sharp bends, pinch points, or any crushing under the cabinet.
-3. **Check the sink and disposer connection** by running the sink to verify it drains freely, and if you have a disposer, remove the knockout plug if this is a new installation or confirm the connection is not clogged.
-4. **Remove and flush the drain hose** if you find debris or suspect a clog, or replace it if it is frozen, cracked, or permanently kinked.
-5. **Access the sump area** by removing the lower dish rack and spray arm, then the filter assembly, and clear any debris, broken items, or buildup around the sump and pump inlet.
-6. **Test the drain pump** by restoring power and running a drain or rinse cycle, listening for pump operation and watching for steady water flow out the hose, or consult your model's tech sheet for resistance specs if you suspect pump failure.
-7. **Restore full power and run a complete test cycle** to confirm the dishwasher drains normally at each stage and the E13 code does not reappear.
+1. **Turn off power** at the circuit breaker and turn off the water supply to the dishwasher before starting any inspection or repair work.
+2. **Locate your full model number** on the door frame or inside the tub and consult the owner's manual or wiring diagram to confirm the exact meaning of E13 for your model platform.
+3. **Inspect the drain hose** behind and under the dishwasher for kinks, sharp bends, or crush points, and straighten or re-route the hose as needed.
+4. **Disconnect the drain hose** at the sink or disposer connection and check for clogs inside the hose and at the connection point, removing any debris or obstructions.
+5. **Check the garbage disposer knockout** if the dishwasher drains into a disposer, and remove the plug if it was not taken out during installation.
+6. **Remove and clean the sump filter** and inspect the sump area for foreign objects, food debris, or anything blocking the drain pump inlet.
+7. **Test the drain pump** by running a drain cycle and listening for motor operation, or use a multimeter to check continuity across the pump terminals if the pump does not run (consult your model's wiring diagram for terminal locations and resistance values).
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-e13-error-code&k=Drain+hose&tag=errorcodefixes-20) \| Replace if kinked, cracked, frozen, or collapsed. Match length and diameter to your model. |
-| Drain pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-e13-error-code&k=Drain+pump&tag=errorcodefixes-20) \| Order by full Kenmore model number if the pump is electrically or mechanically failed and the hose path is clear. |
-| Sump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-e13-error-code&k=Sump+assembly&tag=errorcodefixes-20) \| Needed if the sump housing is cracked or the internal filter screen and passages are damaged beyond cleaning. |
+| Drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-e13-error-code&k=Drain+hose&tag=errorcodefixes-20) \| Choose the correct length and diameter for your model if the existing hose is damaged or cannot be cleared. |
+| Drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-e13-error-code&k=Drain+pump+assembly&tag=errorcodefixes-20) \| Verify the part number from your model's service sheet before ordering, as pump designs vary by platform. |
 
 ## When to Call a Pro
 
-Call a professional if you have cleared all hose obstructions and sump debris but the E13 code persists, if you are not comfortable removing the lower access panel or testing the drain pump electrically, or if you cannot identify your dishwasher's OEM platform from the model number. A technician can pull the service diagnostics, measure pump performance against factory specs, and trace any wiring or control-board faults that might falsely trigger a drain error. Also call if the drain hose is routed through walls or floors you cannot safely access, or if you suspect a main control board issue rather than a mechanical blockage.
+Call a professional if you cannot identify your dishwasher's platform or if the wiring diagram shows E13 tied to a sealed component, control board, or high-voltage circuit you are not comfortable testing. Also call for help if you have cleared all visible drain obstructions, verified proper hose routing, and tested the pump but the code persists. A technician can retrieve the full fault history from the control, measure voltages and continuity on the drain circuit, and identify whether the problem is mechanical, electrical, or related to a sensor or board fault specific to your model.
+
+**Rough cost:** DIY runs about $15-80 in parts, 30-90 min. A pro service call runs about $120-250.

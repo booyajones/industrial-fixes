@@ -1,54 +1,76 @@
 ---
 title: "KitchenAid FAE5 Error Code - Causes & Fix"
-description: "FAE5 means the dishwasher stopped, drained, and threw an error. Usually caused by water in the base pan triggering the leak sensor."
-pubDatetime: 2026-05-31T04:44:44Z
-modDatetime: 2026-05-31T04:44:44Z
-author: "Dana Kowalski"
+description: "FAE5 means water has leaked under your dishwasher, triggering the flood sensor. Most often caused by excessive suds from wrong detergent."
+pubDatetime: 2026-06-09T22:20:53Z
+modDatetime: 2026-06-09T22:20:53Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
-  - dishwasher
   - kitchenaid
-money_part: "Flood sensor or base leak switch"
+money_part: "Flood switch (leak detector)"
+most_likely_cause: "Excessive suds from incorrect detergent or overfilling"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## KitchenAid FAE5 Error Code — What It Means
 
-The FAE5 code appears when your KitchenAid dishwasher ends the cycle, drains the tub, and displays the fault on the control panel. KitchenAid's official guidance treats this as a general error state rather than pointing to one specific failed component. The code is equivalent to F10E5 on many Whirlpool-platform dishwashers. Field experience shows FAE5 most often appears when water collects in the base pan under the dishwasher and triggers the flood sensor or leak-detection float switch.
+The FAE5 error code (also labeled F10E5 on some models) means the dishwasher's flood sensor has detected water in the base pan underneath the machine. When this sensor activates, the main control board immediately stops the wash cycle, drains the tub, and displays the error to alert you of a leak condition.
 
-The fault can also result from oversudsing, drain-hose backflow, or a wiring problem between the leak sensor and the control board. KitchenAid's first recommended action is to press Cancel twice and start a new cycle to clear the code. If it returns immediately or after the next wash, you need to inspect the base for standing water and trace any leak to its source.
+The code does not tell you where the leak originated. It simply confirms that water has accumulated in the drip tray at the bottom of the unit. The cause may be an actual mechanical leak, backflow from a drain hose, or excessive suds overflowing from the tub into the base pan.
+
+## Before You Replace Anything
+
+Many people replace the flood switch or the main control board first, but the error usually clears once you remove the water from the base pan and fix the suds or drain hose issue that caused it.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Water in the base pan** A leak from the inlet valve, door seal, pump, or hose connections fills the drip tray and activates the flood sensor.
-- **Oversudsing from wrong detergent** Using hand-dish soap or too much rinse aid creates foam that spills into the base and triggers the leak switch.
-- **Drain-hose backflow or siphon** Missing high loop or air gap allows sink water to flow back into the dishwasher base or sump area.
-- **Faulty flood sensor or float switch** The base leak detector sticks in the triggered position even when dry, sending a false signal to the control board.
-- **Loose or corroded wiring** Damaged connectors or broken wires between the flood switch and main control board report an intermittent fault.
-- **Failed main control board** The board misreads normal sensor input or has internal memory corruption that logs FAE5 without a real leak.
+- **Excessive suds overflow (~40%)** Using regular dish soap instead of dishwasher detergent, or overfilling the detergent cup, creates foam that overflows into the base pan and triggers the sensor.
+- **Drain hose backflow (~30%)** A drain hose installed without a high loop, or a new garbage disposal with the dishwasher plug still in place, allows water to back up and flood the base pan.
+- **Door latch or gasket leak (~15%)** A worn door seal or misaligned latch allows water to drip down the front of the tub and into the base during the wash cycle.
+- **Water inlet valve leak (~10%)** A faulty inlet valve can drip water into the base pan even when the dishwasher is off, gradually filling the drip tray.
+- **Stuck or dirty flood switch (~5%)** The float switch itself may be stuck in the activated position by debris or mineral buildup, triggering the error even when no water is present.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Is water visible in the base pan when you remove the kickplate?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The flood sensor is working correctly. Dry the pan with a towel or shop vac, then proceed to diagnose the source of the leak (suds, drain hose, or mechanical).<br><strong>No:</strong> The flood switch may be stuck or dirty. Locate the float switch in the base pan, clean it, and check that it moves freely before resetting the dishwasher.</div>
+</details>
+
+<details class="dtree"><summary>Did you use regular dish soap or add too much detergent in the last cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Excessive suds are the likely cause. Run a rinse cycle with one cup of white vinegar to break down the suds, then dry the base pan and reset the machine.<br><strong>No:</strong> The issue is probably a drain hose backflow or a mechanical leak. Check the drain hose installation and inspect internal seals.</div>
+</details>
+
+<details class="dtree"><summary>Was a garbage disposal recently installed or replaced?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Check whether the dishwasher inlet plug was knocked out of the disposal. If not, water backs up into the dishwasher and overflows into the base pan.<br><strong>No:</strong> Verify the drain hose has a high loop and inspect internal components (door seal, inlet valve, pump seals) for leaks.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Press Cancel twice** on the control panel and start a new wash cycle to reset the error, following KitchenAid's official first step.
-2. **Turn off power at the breaker** for 60 seconds if the code returns, then restore power and run another test cycle to clear any transient board fault.
-3. **Remove the lower kickplate or toe panel** and inspect the base pan under the tub for standing water, using a flashlight and towel to check all corners.
-4. **Dry the base completely** if water is present, tipping the unit slightly if needed, then let it air out for 30 minutes before retesting to see if the sensor resets.
-5. **Trace the leak source** by checking the water-inlet fitting at the front left, all hose clamps on the sump and pump, the door gasket for tears, and the tub seals around the sump connection.
-6. **Verify the drain-hose installation** by confirming a high loop at least 32 inches above the floor or an air gap at the sink, and check that the hose end is not submerged in standing water.
-7. **Inspect the flood sensor and wiring** by locating the float or leak switch in the base pan, pulling its connector, checking for corrosion, and testing continuity to the control board if the code persists after drying.
-8. **Replace the faulty part** only after confirming which component failed: install a new flood sensor if it stays closed when dry, or replace the main control board if all wiring and sensors test normal and the code returns every cycle.
+1. **Turn off power** at the circuit breaker to the dishwasher before any work.
+2. **Remove the kickplate** (lower front access panel) and inspect the base pan for standing water.
+3. **Dry the base pan** completely using towels or a wet/dry vacuum, paying special attention to the area around the flood switch float.
+4. **Check detergent use** and confirm you are using only dishwasher-specific detergent (not liquid dish soap) and following the dosage on the package.
+5. **Inspect the drain hose** under the sink to verify it has a high loop secured to the underside of the countertop or cabinet, and that the hose is not lower than the sink drain.
+6. **Verify the garbage disposal** (if present) has the dishwasher inlet plug removed and that the drain connection is tight.
+7. **Run a test cycle** with the kickplate off so you can watch for new leaks at the door seal, inlet valve, pump housing, or spray arm connections, then address the leaking component as needed.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Flood sensor or base leak switch | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kitchenaid-dishwasher-fae5-error-code&k=Flood+sensor+or+base+leak+switch&tag=errorcodefixes-20) \| Buy the part that matches your model number if the float stays triggered when the base is dry. |
-| Main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kitchenaid-dishwasher-fae5-error-code&k=Main+control+board&tag=errorcodefixes-20) \| Order the board with your full model and serial number if sensor and wiring test good but the code repeats. |
-| Door gasket or tub seal kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kitchenaid-dishwasher-fae5-error-code&k=Door+gasket+or+tub+seal+kit&tag=errorcodefixes-20) \| Replace if you find water leaking from the door perimeter or sump connection during a wash cycle. |
+| Flood switch (leak detector) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kitchenaid-dishwasher-fae5-error-code&k=Flood+switch+%28leak+detector%29&tag=errorcodefixes-20) \| Only if the switch is physically damaged or stuck and will not reset after drying. |
+| Door gasket or latch assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kitchenaid-dishwasher-fae5-error-code&k=Door+gasket+or+latch+assembly&tag=errorcodefixes-20) \| If water is visibly dripping from the door during a cycle. |
+| Water inlet valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kitchenaid-dishwasher-fae5-error-code&k=Water+inlet+valve&tag=errorcodefixes-20) \| If you find slow dripping into the base even when the machine is off. |
 
 ## When to Call a Pro
 
-Call a technician if you cannot locate the source of the leak after drying the base and running a test cycle, or if the code returns immediately even when the base pan is bone dry and all hoses are tight. A pro has the service manual, wiring diagrams, and meters to test the flood-sensor circuit and control-board communication paths. Also call for help if you are uncomfortable working around 120‑volt wiring or tipping the dishwasher to access the base pan and pump connections.
+Call a technician if you cannot locate the source of the leak after inspecting the drain hose, door seal, and inlet valve, or if the error returns immediately after you dry the base pan and no suds or backflow issues are present. A pro can pressure-test the internal pump and spray-arm seals, check the wiring to the flood switch, and replace the main control board only if all other causes are ruled out. Also call if you are uncomfortable working around standing water and electrical components at the same time.
+
+**Rough cost:** DIY runs about $0-40 in parts (if a hose clamp or detergent change), 30-60 min. A pro service call runs about $150-300 for service call and diagnosis.

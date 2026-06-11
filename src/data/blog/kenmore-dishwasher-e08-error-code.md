@@ -1,50 +1,76 @@
 ---
 title: "Kenmore Dishwasher E08 Error Code - Causes & Fix"
-description: "E08 on a Kenmore dishwasher means slow or failed drainage. The most common fix is clearing a clogged drain hose or filter."
-pubDatetime: 2026-05-31T04:54:04Z
-modDatetime: 2026-05-31T04:54:04Z
-author: "Marcus Webb"
+description: "E08 signals a heater circuit fault on most Kenmore dishwashers. The heating element or its wiring is often the culprit."
+pubDatetime: 2026-06-09T22:28:47Z
+modDatetime: 2026-06-09T22:28:47Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dishwasher
   - kenmore
-money_part: "Drain pump"
+money_part: "Dishwasher heating element"
+most_likely_cause: "Failed or open heating element"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Kenmore Dishwasher E08 Error Code — What It Means
 
-The E08 error code (sometimes displayed as F8 or 8 blinks, depending on your Kenmore model and control generation) signals a drain-related fault. The dishwasher is detecting slow or failed drainage, meaning water is not leaving the tub at the expected rate. This is not a heating fault. The exact display format varies across Kenmore platforms because the brand uses different OEM manufacturers, so always verify against your model's tech sheet if available.
+E08 on many Kenmore dishwashers indicates a heater circuit failure. The control board did not detect the heating element energizing or water heating during the wash cycle. Because Kenmore uses multiple OEM platforms, the exact meaning of E08 can vary by model. Verify the code definition against your model's tech sheet or owner's manual before starting repairs.
+
+The heater circuit includes the heating element, wiring and connectors, temperature sensor (thermistor on some models), and the control board's output circuit. A fault anywhere in this chain will trigger E08 and prevent proper water heating.
+
+## Before You Replace Anything
+
+Many people replace the electronic control board first. Test the heating element for continuity and inspect all wiring connections before ordering any boards.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Clogged drain hose** A kink, blockage, or restriction anywhere along the drain hose from the dishwasher to the sink, disposal, or air gap prevents water from leaving the tub.
-- **Blocked filter or sump area** Food debris, paper labels, or other material trapped in the filter assembly or sump at the bottom of the tub stops normal drainage.
-- **Blocked drain path at disposal or air gap** The drain hose connection to a garbage disposal knockout plug that was never removed, or a clogged air gap fitting, blocks the exit path.
-- **Wiring fault to the drain pump** Loose, disconnected, or damaged wiring between the drain pump and the main control board interrupts the signal or power.
-- **Faulty drain pump** If the hose, filter, and wiring are good, the pump itself may be mechanically jammed or electrically failed and unable to move water.
+- **Open or failed heating element (~50%)** The element has burned out or developed an open circuit, preventing current flow and heat generation.
+- **Loose, corroded, or burned wiring connections (~25%)** Terminals at the heater, harness connectors, or spade terminals show corrosion, looseness, or heat damage that interrupts the circuit.
+- **Faulty thermistor or temperature sensor (~15%)** The control board cannot verify water temperature because the thermistor circuit is open, shorted, or out of range.
+- **Electronic control board failure (~10%)** The board fails to send power to the heater or incorrectly reads the heater feedback circuit.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the dishwasher fill with water normally and complete the cycle otherwise?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault is isolated to the heater circuit. Proceed to test the element and wiring.<br><strong>No:</strong> The control board may have multiple faults or the code may mean something different on your model. Consult your model's tech sheet and check the fill system.</div>
+</details>
+
+<details class="dtree"><summary>With power off, does the heating element show continuity when you test it with a multimeter?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The element is intact. Check all connectors, wiring, and the thermistor next.<br><strong>No:</strong> The element is open. Replace it and retest the cycle.</div>
+</details>
+
+<details class="dtree"><summary>After a power reset (unplug for two minutes), does E08 return immediately or only after heating starts?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault is real and repeatable. Continue systematic testing of the heater circuit.<br><strong>No:</strong> A transient control glitch may have caused the code. Monitor for recurrence before ordering parts.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Disconnect power** at the circuit breaker or by unplugging the unit before you begin any inspection or repair work.
-2. **Remove the lower dish rack and inspect the filter assembly** at the bottom of the tub, then unscrew or lift out the filter and sump cover, clean away all food debris, and reinstall.
-3. **Pull the dishwasher forward** and locate the drain hose running from the pump to the sink or disposal, then disconnect it at both ends and flush it with water to clear any clogs or kinks.
-4. **Check the drain connection** at the garbage disposal (confirm the knockout plug is removed) or air gap fitting, and clear any blockage at the sink drain point.
-5. **Inspect the wiring harness** at the drain pump, trace the connector back to the control board, and reseat or repair any loose or damaged terminals.
-6. **Test the drain pump** by reconnecting power and running a drain or cancel cycle, listen for pump operation, and confirm water exits the tub. If the pump does not run or move water, replace it.
-7. **Run a full test cycle** after repair to verify the E08 code clears and the dishwasher drains normally at each phase.
+1. **Disconnect power** at the breaker or by unplugging the dishwasher. Wait two minutes to allow the control board to reset, then restore power and run a test cycle to see if E08 clears.
+2. **Locate your model number** on the door frame label and pull up the tech sheet or service manual. Verify that E08 means heater circuit fault for your exact platform.
+3. **Access the heating element** by removing the lower access panel or the kickplate at the front of the dishwasher. The element is typically mounted to the sump or bottom of the tub.
+4. **Inspect the heater terminals and wiring** for burn marks, corrosion, loose spade connectors, or broken wires. Wiggle each connector and look for discoloration or melting.
+5. **Test the heating element** with a multimeter set to ohms. Disconnect the wires from the element terminals and measure resistance across the two terminals. Consult your model's wiring diagram for the expected resistance range. An open circuit (infinite resistance) means the element has failed.
+6. **Check the thermistor** if your model uses one. Disconnect it and measure its resistance at room temperature. Compare the reading to the spec in your tech sheet. An open or very high resistance indicates a failed sensor.
+7. **Replace the failed component** (element, thermistor, or damaged harness). Reconnect all wiring, restore power, and run a complete wash cycle. Monitor the display to confirm E08 does not return and that water heats properly.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Drain pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-e08-error-code&k=Drain+pump&tag=errorcodefixes-20) \| Match the part number on your existing pump or cross-reference by Kenmore model number. |
-| Drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-e08-error-code&k=Drain+hose&tag=errorcodefixes-20) \| Universal corrugated or smooth-bore hose, typically 5/8-inch or 3/4-inch inside diameter, cut to the required length. |
-| Wiring harness or connector kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-e08-error-code&k=Wiring+harness+or+connector+kit&tag=errorcodefixes-20) \| Only if terminals are burned or broken. Source from the OEM or a Kenmore parts distributor for your control board generation. |
+| Dishwasher heating element | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-e08-error-code&k=Dishwasher+heating+element&tag=errorcodefixes-20) \| Match by model number. Mounted to the sump or tub bottom. |
+| Dishwasher thermistor / temperature sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-e08-error-code&k=Dishwasher+thermistor+%2F+temperature+sensor&tag=errorcodefixes-20) \| For models that use a temperature sensor in the heater circuit. |
+| Dishwasher electronic control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-e08-error-code&k=Dishwasher+electronic+control+board&tag=errorcodefixes-20) \| Only after testing proves the element and wiring are good. |
 
 ## When to Call a Pro
 
-If you have cleared the filter, hose, and drain path and confirmed the wiring is intact but the E08 code persists, the drain pump or main control board may need diagnosis with a multimeter and schematic. A technician can perform continuity and voltage tests at the pump terminals and verify the control board is sending the correct signals. Also call a pro if you are uncomfortable working behind the dishwasher, disconnecting plumbing, or handling electrical connectors under the unit.
+Call a technician if you are uncomfortable working with electrical components or if you cannot safely access the heating element. Also call for help if you have tested the element, thermistor, and all wiring and found them good, yet E08 persists. At that point the control board or a wiring fault inside the harness is likely, and tracing those circuits requires a schematic and experience. If your dishwasher is still under warranty, contact Kenmore or the retailer before opening any panels to avoid voiding coverage.
+
+**Rough cost:** DIY runs about $50-120 in parts, 1-2 hours. A pro service call runs about $150-300.

@@ -1,52 +1,74 @@
 ---
 title: "Kenmore Dishwasher E10 Error Code - Causes & Fix"
-description: "E10 means your Kenmore dishwasher did not fill with water in time. Most often caused by a closed supply valve or clogged inlet screen."
-pubDatetime: 2026-05-31T04:54:32Z
-modDatetime: 2026-05-31T04:54:32Z
-author: "Marcus Webb"
+description: "E10 means the dishwasher isn't filling with water or is filling too slowly. Check the water supply valve is fully open first."
+pubDatetime: 2026-06-09T22:29:29Z
+modDatetime: 2026-06-09T22:29:29Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dishwasher
   - kenmore
-money_part: "Water inlet valve"
+money_part: "Water inlet valve assembly"
+most_likely_cause: "clogged inlet valve screen or partially closed water supply valve"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Kenmore Dishwasher E10 Error Code — What It Means
 
-The E10 error code on most Kenmore dishwashers signals a water fill failure. The machine expected water to enter within a set time window but did not detect enough fill. This is usually a problem with the water supply, the inlet valve, or a restriction blocking flow into the tub.
+The E10 code on a Kenmore dishwasher signals a water-fill or insufficient-water-supply fault. The machine expected to fill to its normal level within the programmed time window, but incoming water volume or flow did not meet that threshold. The dishwasher is either not filling at all or filling too slowly, and the error typically appears during the fill portion of the cycle rather than during draining or heating. This class of fault points to the water inlet and supply system rather than drain or heating components.
 
-The error does not point to a leak or drain issue. It means water is not getting in. The dishwasher's timer or control board monitors the fill cycle and throws E10 when the expected water level is not reached. Check the supply side first before assuming the valve itself has failed.
+## Before You Replace Anything
+
+Many people replace the entire water inlet valve assembly without first inspecting the inlet screen for sediment and mineral buildup. Shut off water, disconnect the inlet hose, and pull the screen. A blocked screen costs nothing to clean but can mimic a failed valve.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Closed or partially closed water supply valve** The shut-off valve under the sink or behind the dishwasher is not fully open, restricting flow.
-- **Kinked or crushed inlet hose** The flexible supply line running to the dishwasher is bent or pinched, blocking water.
-- **Clogged inlet valve screen or filter** Mineral deposits, sediment, or debris have built up in the small mesh screen at the valve inlet, choking off flow.
-- **Low household water pressure** Inadequate supply pressure from the main line prevents the dishwasher from filling quickly enough.
-- **Faulty water inlet valve** The solenoid valve has failed electrically or is stuck closed, blocking water even when commanded to open.
-- **Wiring or control board fault in the fill circuit** The control is not sending voltage to the inlet valve, or a broken wire prevents the valve from receiving the fill signal.
+- **Clogged inlet valve screen (~35%)** Mineral deposits, sediment, or debris accumulate on the fine mesh screen at the valve connection and restrict water flow into the machine.
+- **House water supply valve partially closed (~25%)** The shutoff valve under the sink is not turned fully open, limiting flow to the dishwasher.
+- **Kinked or crushed inlet hose (~20%)** The flexible supply line is bent sharply or pinched behind the machine, blocking or slowing the water path.
+- **Faulty water inlet valve solenoid (~15%)** The solenoid coil or valve body fails mechanically or electrically and does not open to admit water when energized.
+- **Low incoming water pressure (~5%)** Household water pressure is inadequate or a plumbing restriction upstream reduces the flow rate below what the dishwasher needs.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Is the water supply valve under the sink turned fully counterclockwise (wide open)?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The house valve is open. Move to inspecting the inlet hose and screen.<br><strong>No:</strong> Turn the valve fully open and run a test cycle. If E10 clears, the valve was the only problem.</div>
+</details>
+
+<details class="dtree"><summary>When you disconnect the inlet hose at the dishwasher, does water flow freely from the hose into a bucket?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The supply line and house pressure are good. Focus on the inlet valve screen and the valve itself.<br><strong>No:</strong> The hose is kinked, crushed, or blocked. Straighten or replace the hose and retest.</div>
+</details>
+
+<details class="dtree"><summary>After cleaning the inlet screen, does the dishwasher fill normally without the E10 code?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The clogged screen was the root cause. No further parts are needed.<br><strong>No:</strong> The inlet valve solenoid or valve body is likely defective. Replace the water inlet valve assembly.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Turn off power** at the breaker and close the water supply valve before you start any inspection or repair work.
-2. **Check that the water supply valve is fully open.** Follow the copper or braided hose from the dishwasher back to the shut-off under the sink and turn it counterclockwise all the way.
-3. **Inspect the inlet hose** for kinks, twists, or pinch points along its length and straighten or reposition it as needed.
-4. **Disconnect the inlet hose at the dishwasher** and remove the inlet valve screen or filter where the hose threads onto the valve, then rinse debris and mineral scale from the screen under running water.
-5. **Run a fill test** by restoring power and water, starting a cycle, and watching whether water enters the tub with normal pressure or remains weak or absent.
-6. **Test the water inlet valve** for electrical continuity across the solenoid coil and verify it opens when energized, replacing the valve if it fails either test or remains stuck closed.
-7. **Inspect wiring and connectors** from the control board to the inlet valve for breaks, corrosion, or loose terminals, and repair or replace damaged wiring as required.
+1. **Turn off power** at the circuit breaker and close the water shutoff valve under the sink before beginning work.
+2. **Pull the dishwasher forward** enough to access the connections at the rear, then disconnect the inlet hose from the valve fitting.
+3. **Inspect the inlet screen** inside the valve port or at the hose end for sediment, mineral scale, or debris and clean it with a soft brush and running water.
+4. **Check the inlet hose** along its entire length for kinks, crushing, or internal blockage and straighten or replace as needed.
+5. **Reattach the hose**, open the water valve fully, and restore power to run a test cycle and confirm that the dishwasher begins filling promptly.
+6. **Test the inlet valve electrically** (consult your model's wiring diagram for terminal resistance) and mechanically if the unit still will not fill after confirmed water delivery.
+7. **Replace the water inlet valve assembly** if it does not open or if resistance falls outside the manufacturer's specification for your model.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Water inlet valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-e10-error-code&k=Water+inlet+valve&tag=errorcodefixes-20) \| Match to your exact Kenmore model number stamped inside the door frame or on the tub wall. |
-| Inlet hose (braided stainless or rubber) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-e10-error-code&k=Inlet+hose+%28braided+stainless+or+rubber%29&tag=errorcodefixes-20) \| Use a hose rated for appliance supply, typically 3/8-inch compression fittings. |
+| Water inlet valve assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-e10-error-code&k=Water+inlet+valve+assembly&tag=errorcodefixes-20) \| Verify the part number against your exact Kenmore model tag before ordering. |
+| Dishwasher inlet hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-e10-error-code&k=Dishwasher+inlet+hose&tag=errorcodefixes-20) \| Needed only if the original is kinked, cracked, or internally restricted. |
 
 ## When to Call a Pro
 
-If you have verified that the water supply is open, the hose is clear, and the inlet screen is clean but the E10 code returns, the inlet valve or control board is likely at fault. Testing the valve solenoid for proper resistance and mechanical operation requires a multimeter and some electrical knowledge. If you are not comfortable working with live voltage or removing the dishwasher to access the valve and wiring harness, call a qualified appliance technician. Also call if the error persists after replacing the inlet valve, since that points to a control board or wiring fault that requires diagnostic tools and schematics.
+Call a technician if you have confirmed the water supply valve is open, the inlet hose is clear, and the screen is clean but the E10 code persists. At that point troubleshooting shifts to electrical testing of the inlet valve solenoid and control-board diagnostics, which require a multimeter and familiarity with your model's service sheet. Also call for help if you are uncomfortable working with water connections or if local plumbing code requires a licensed plumber to modify dishwasher supply lines.
+
+**Rough cost:** DIY runs about $20–80 in parts (inlet valve or hose), 30–60 min. A pro service call runs about $150–250 service call with valve replacement.

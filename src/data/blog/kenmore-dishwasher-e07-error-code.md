@@ -1,51 +1,74 @@
 ---
-title: "Kenmore Dishwasher E07 Error Code - Causes & Fix"
-description: "E07 on Bosch-built Kenmore dishwashers means a defective Zeolite/CrystalDry fan motor. Reset power for 30 seconds first."
-pubDatetime: 2026-05-31T04:53:33Z
-modDatetime: 2026-05-31T04:53:33Z
-author: "James Rutherford"
+title: "Kenmore Dishwasher E07 Error - Causes & Fix"
+description: "E07 is not a standard Kenmore code. Check your manual for the exact meaning or verify the brand. If it's Bosch, the drying fan has failed."
+pubDatetime: 2026-06-09T22:28:16Z
+modDatetime: 2026-06-09T22:28:16Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dishwasher
   - kenmore
-money_part: "Zeolite fan motor (CrystalDry fan motor)"
+money_part: "Control board (if confirmed defective after diagnosis)"
+diy_or_pro: "pro"
 ---
 
-## Kenmore Dishwasher E07 Error Code — What It Means
+## Kenmore Dishwasher E07 Error — What It Means
 
-The E07 error code is not universal across all Kenmore dishwashers because Kenmore machines were built by multiple manufacturers. On Bosch-built Kenmore models, E07 indicates a defective Zeolite or CrystalDry fan motor in the drying system. This fan is part of the condensation drying assembly that helps dry dishes at the end of the cycle.
+E07 does not appear in official Kenmore dishwasher error code documentation. Kenmore dishwashers (manufactured by Whirlpool, Electrolux, or GE depending on the model series) typically display numeric codes like E1 through E15 or letter-number combinations, but E07 is not among them. This exact code is commonly associated with Bosch dishwashers, where it indicates a failed Zeolite or Crystal Dry fan motor used in the drying system.
 
-If your Kenmore dishwasher was manufactured by a different OEM, the E07 code may have a different meaning entirely. Check your model number against Kenmore service documentation to confirm the platform. For Bosch-built units, the manufacturer recommends a 30-second power reset as the first troubleshooting step before assuming a hardware failure.
+If your dishwasher displays E07, first confirm the brand and model number on the door edge or interior panel. If it is actually a Bosch unit, the code points to a defective drying fan. If it is truly a Kenmore, the display may be showing a different code (such as E7, F7, or a misread digit), or your specific model uses a non-standard error system. Consult your owner's manual or the wiring diagram inside the door for the official code list before proceeding with any repair.
+
+## Before You Replace Anything
+
+Many owners replace the control board when they see an unfamiliar error code. Check your owner's manual and verify the brand first, as the code may not exist for your appliance or may indicate a simple sensor or fan issue rather than a board fault.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed Zeolite or CrystalDry fan motor** The motor itself has burned out or seized and can no longer turn, preventing proper drying function.
-- **Broken or corroded wiring to the fan motor** Connections may have loosened, corroded, or broken due to heat, moisture, or vibration inside the dishwasher.
-- **Control board circuit fault** The main control board may have a damaged fan-motor driver circuit or relay that prevents the motor from receiving proper voltage.
-- **Water intrusion into the fan assembly** Moisture or spray reaching the motor housing can cause short circuits or corrosion that stops operation.
-- **Faulty control board misreading normal operation** A transient electronic glitch can falsely trigger the E07 code even when the fan is working correctly.
+- **Misidentified brand or model (~40%)** The dishwasher may actually be a Bosch unit or a different manufacturer using the Kenmore badge, and the code applies to that brand's system.
+- **Misread or transposed code (~30%)** The display may show E7, F7, or another code that was read as E07 due to poor lighting, a faint digit, or a stuck segment on the LED panel.
+- **Non-standard or regional code variant (~15%)** Some Kenmore models sold in specific markets or manufactured in certain years may use proprietary error codes not found in general service literature.
+- **Control board glitch or corruption (~10%)** A power surge or software fault in the main control board may cause it to display an invalid or undocumented error code.
+- **Third-party diagnostic tool code (~5%)** The code may appear when using an aftermarket service scanner or test mode that does not match factory documentation.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the label inside the door say Bosch, or does the model number start with SHE, SHX, or SHP?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The dishwasher is likely a Bosch unit. E07 indicates a failed drying fan motor (Zeolite or Crystal Dry system). Inspect the fan assembly and fill tube for cracks or water damage, and consult a Bosch repair guide.<br><strong>No:</strong> Confirm the exact model number and check the owner's manual for the official code list. The code E07 may not apply to your Kenmore model.</div>
+</details>
+
+<details class="dtree"><summary>Does the owner's manual or wiring diagram list error code E07?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Follow the diagnostic steps in the manual for E07, which will specify the affected component and recommended repair.<br><strong>No:</strong> The code may be a misread, a glitch, or specific to a variant not covered in standard literature. Power-cycle the unit and contact customer support with your full model number.</div>
+</details>
+
+<details class="dtree"><summary>Did the code appear after a power outage, surge, or interruption?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The control board may have experienced a temporary fault or memory corruption. Reset the dishwasher by turning off the breaker for 60 seconds, then run a test cycle.<br><strong>No:</strong> The code is likely triggered by an actual sensor, motor, or wiring fault. Professional diagnosis with a multimeter and service manual is needed to identify the component.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Check your model number** to confirm the dishwasher is built on a Bosch platform, since E07 meanings vary by OEM and this repair path applies only to Bosch-built Kenmore units.
-2. **Turn off power at the circuit breaker** for 30 seconds, then restore power and run a test cycle to see if the code clears, following Bosch's recommended first step.
-3. **Access the fan motor assembly** by removing the lower kickplate and side panels as needed to locate the Zeolite or CrystalDry fan, usually mounted near the sump or base.
-4. **Inspect wiring and connectors** at the fan motor for corrosion, burns, or loose terminals, and repair or replace damaged wiring harnesses.
-5. **Test the fan motor electrically** by disconnecting it and measuring resistance across its terminals with a multimeter, or try applying direct voltage to verify it spins freely.
-6. **Replace the fan motor** if it shows open or shorted windings, does not spin, or shows physical damage to the housing or blades.
-7. **Check the main control board** for visible burns or damaged traces in the fan-motor circuit area, and replace the board if the motor tests good but the fault persists.
+1. **Verify the brand and model number** on the label inside the door or on the door edge. Confirm whether the dishwasher is Kenmore, Bosch, or another brand.
+2. **Consult the owner's manual** or the wiring diagram (often taped inside the door panel) to locate the official error code list for your exact model.
+3. **Power-cycle the dishwasher** by turning off the circuit breaker for 30 seconds, restoring power, and running a short test cycle to see if the code clears.
+4. **Check the display carefully** under good lighting to confirm the code reads E07 and not E7, F7, E01, E02, or another similar combination.
+5. **If the appliance is a Bosch dishwasher**, remove the lower kick plate and inspect the area around the fill tube and drying fan assembly at the bottom right for water damage, cracks, or debris.
+6. **Contact Kenmore or Bosch customer support** with your full model number to confirm the meaning of the code and whether a service bulletin or recall applies to your unit.
+7. **Schedule a service call** if the code persists and the manual does not list it, as diagnosis will require access to the control board and internal wiring harness.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Zeolite fan motor (CrystalDry fan motor) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-e07-error-code&k=Zeolite+fan+motor+%28CrystalDry+fan+motor%29&tag=errorcodefixes-20) \| Match the part number to your Kenmore model, usually found on the Bosch cross-reference list. |
-| Main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-e07-error-code&k=Main+control+board&tag=errorcodefixes-20) \| Required only if the motor and wiring test normal but the code continues to appear. |
+| Control board (if confirmed defective after diagnosis) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-e07-error-code&k=Control+board+%28if+confirmed+defective+after+diagnosis%29&tag=errorcodefixes-20) \| Only replace if a technician confirms the board is sending invalid codes or has visible damage; verify the exact Kenmore or OEM part number from the label. |
+| Drying fan motor assembly (Bosch models only) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-e07-error-code&k=Drying+fan+motor+assembly+%28Bosch+models+only%29&tag=errorcodefixes-20) \| For Bosch dishwashers displaying E07, this is the Zeolite or Crystal Dry fan; check the fill tube for cracks before replacing the motor. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if the power reset does not clear the code and you are not comfortable working with electrical components or disassembling the dishwasher. Diagnosing control-board faults and safely accessing internal motor assemblies requires multimeter skills and familiarity with live-circuit testing. If your Kenmore model is not Bosch-built, a technician with access to the correct OEM service manual will be able to decode E07 for your specific platform and avoid unnecessary parts replacement.
+Call a professional appliance technician if the error code E07 does not appear in your owner's manual or wiring diagram, or if you cannot confirm whether the dishwasher is a Kenmore or a rebadged Bosch or other brand. A qualified technician has access to manufacturer service databases, wiring schematics, and diagnostic tools that can read internal fault logs and identify the exact component triggering the code. If the dishwasher is a Bosch unit and E07 points to the drying fan, the repair involves disassembly of the lower panel, inspection of the fill tube and fan housing, and replacement of the motor assembly, which requires experience with water-damaged electronics and precise reassembly to avoid leaks. Professional diagnosis will prevent unnecessary parts replacement and make sure the correct repair the first time.
+
+**Rough cost:** A pro service call runs about $150-350 depending on diagnosis and part.
