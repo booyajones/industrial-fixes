@@ -10,13 +10,10 @@ tags:
   - appliance
   - dryer
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "loose or corroded wiring connectors between the control board and user interface"
 likelihood: "the most common technical cause"
 diy_or_pro: "diy"
-=======
 money_part: "User interface control panel"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Dryer F6E2 Error Code — What It Means

@@ -10,13 +10,10 @@ tags:
   - appliance
   - washer
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "drain hose installed incorrectly or kinked"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Maytag washer drain pump"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Washer LD Error Code — What It Means

@@ -9,13 +9,10 @@ draft: false
 tags:
   - appliance
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "blocked or restricted drain pump"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Drain pump assembly"
->>>>>>> Stashed changes
 ---
 
 ## Maytag F32 Error Code — What It Means

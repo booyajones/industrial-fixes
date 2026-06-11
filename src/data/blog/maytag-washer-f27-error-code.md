@@ -10,13 +10,10 @@ tags:
   - appliance
   - washer
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "blocked, cracked, or disconnected pressure hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Water inlet valve assembly"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Washer F27 Error Code — What It Means

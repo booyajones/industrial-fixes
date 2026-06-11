@@ -10,13 +10,10 @@ tags:
   - appliance
   - oven
   - frigidaire
-<<<<<<< Updated upstream
 most_likely_cause: "door lock assembly failure (motor or switches)"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Door lock assembly"
->>>>>>> Stashed changes
 ---
 
 ## Frigidaire Oven F92 Error Code — What It Means

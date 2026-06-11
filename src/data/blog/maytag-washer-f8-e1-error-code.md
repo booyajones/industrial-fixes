@@ -9,13 +9,10 @@ draft: false
 tags:
   - appliance
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "closed or partially closed supply valves, or clogged inlet screens"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Water inlet valve assembly"
->>>>>>> Stashed changes
 ---
 
 ## Maytag F8 E1 Error Code — What It Means

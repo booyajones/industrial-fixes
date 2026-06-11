@@ -10,13 +10,10 @@ tags:
   - appliance
   - refrigerator
   - ge
-<<<<<<< Updated upstream
 most_likely_cause: "Failed or contaminated humidity sensor in the crisper area"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "GE refrigerator humidity sensor"
->>>>>>> Stashed changes
 ---
 
 ## GE Refrigerator HS Error Code — What It Means

@@ -9,13 +9,10 @@ draft: false
 tags:
   - appliance
   - bosch
-<<<<<<< Updated upstream
 most_likely_cause: "failed heater-pump or flow heater assembly"
 likelihood: "the most common real-world cause"
 diy_or_pro: "pro"
-=======
 money_part: "Heat pump / circulation pump with integrated heater"
->>>>>>> Stashed changes
 ---
 
 ## Bosch E09 Error Code — What It Means

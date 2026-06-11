@@ -10,11 +10,8 @@ tags:
   - appliance
   - dishwasher
   - ge
-<<<<<<< Updated upstream
 diy_or_pro: "diy"
-=======
 money_part: "Drain pump assembly"
->>>>>>> Stashed changes
 ---
 
 ## GE Dishwasher FFF Error Code — What It Means

@@ -10,13 +10,10 @@ tags:
   - appliance
   - washer
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "Failed temperature sensor or thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Water temperature sensor / thermistor"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Washer F24 Error Code — What It Means

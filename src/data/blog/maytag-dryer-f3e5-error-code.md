@@ -9,13 +9,10 @@ draft: false
 tags:
   - appliance
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "control glitch that clears after power reset"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Mini dispenser assembly"
->>>>>>> Stashed changes
 ---
 
 ## Maytag F3E5 Error Code — What It Means

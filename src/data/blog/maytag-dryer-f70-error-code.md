@@ -10,13 +10,10 @@ tags:
   - appliance
   - dryer
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "loose or contaminated wiring-harness connector between control boards"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "User interface board (console control board)"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Dryer F70 Error Code — What It Means

@@ -10,13 +10,10 @@ tags:
   - appliance
   - washer
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "loose or damaged wiring harness or connector between the CCU and UI board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Central Control Unit (CCU) / main control board"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Washer F70 Error Code — What It Means

@@ -10,13 +10,10 @@ tags:
   - appliance
   - washer
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "both water faucets not fully open or clogged inlet hose screens"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Water inlet valve screens"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Washer F20 Error Code — What It Means

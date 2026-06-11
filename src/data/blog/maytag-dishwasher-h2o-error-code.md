@@ -10,13 +10,10 @@ tags:
   - appliance
   - dishwasher
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "closed or partially closed water supply shutoff valve"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Water inlet valve"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Dishwasher H2O Error Code — What It Means

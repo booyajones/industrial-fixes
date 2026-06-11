@@ -10,13 +10,10 @@ tags:
   - appliance
   - oven
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "Accidental entry into the calibration menu or the calibration display left on screen"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Oven Temperature Sensor (RTD)"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Oven CAL Error Code — What It Means

@@ -10,13 +10,10 @@ tags:
   - appliance
   - washer
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "Loose, damaged, or disconnected wiring harness connector between the drain pump and the CCU"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Drain pump assembly"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Washer F33 Error Code — What It Means

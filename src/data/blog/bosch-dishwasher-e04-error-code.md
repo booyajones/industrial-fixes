@@ -10,13 +10,10 @@ tags:
   - appliance
   - dishwasher
   - bosch
-<<<<<<< Updated upstream
 most_likely_cause: "clogged spray arms or nozzles restricting water flow"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Dishwasher heating element assembly"
->>>>>>> Stashed changes
 ---
 
 ## Bosch Dishwasher E04 Error — What It Means

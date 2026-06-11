@@ -10,13 +10,10 @@ tags:
   - appliance
   - washer
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "mechanical overload or excessive suds preventing motor rotation"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Drain pump"
->>>>>>> Stashed changes
 ---
 
 ## Maytag d8 Error Code — What It Means

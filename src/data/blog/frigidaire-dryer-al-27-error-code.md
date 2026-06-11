@@ -10,11 +10,8 @@ tags:
   - appliance
   - dryer
   - frigidaire
-<<<<<<< Updated upstream
 diy_or_pro: "diy"
-=======
 money_part: "Heating Element"
->>>>>>> Stashed changes
 ---
 
 ## Frigidaire Dryer AL-27 Error Code — What It Means

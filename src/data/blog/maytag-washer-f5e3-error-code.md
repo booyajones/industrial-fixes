@@ -10,13 +10,10 @@ tags:
   - appliance
   - washer
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "Obstruction, debris, lint, or residue around the lock or strike area"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Maytag washer door lock or lid lock assembly"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Washer F5E3 Error Code — What It Means

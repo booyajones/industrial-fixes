@@ -10,13 +10,10 @@ tags:
   - appliance
   - dryer
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "Wrong replacement control board installed for the model"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "User interface control board"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Dryer F1E3 Error Code — What It Means

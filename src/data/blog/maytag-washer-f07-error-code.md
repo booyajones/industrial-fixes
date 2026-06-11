@@ -9,13 +9,10 @@ draft: false
 tags:
   - appliance
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "Broken or slipped drive belt"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "affresh® Washer Cleaner tablets"
->>>>>>> Stashed changes
 ---
 
 ## Maytag F07 Error Code — What It Means

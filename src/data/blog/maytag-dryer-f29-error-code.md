@@ -10,13 +10,10 @@ tags:
   - appliance
   - dryer
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "temporary electronic glitch in the control board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Moisture sensor bar assembly"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Dryer F29 Error Code — What It Means

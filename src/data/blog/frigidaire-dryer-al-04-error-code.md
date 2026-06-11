@@ -10,13 +10,10 @@ tags:
   - appliance
   - dryer
   - frigidaire
-<<<<<<< Updated upstream
 most_likely_cause: "restricted venting or lint buildup"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Lint screen / lint filter"
->>>>>>> Stashed changes
 ---
 
 ## Frigidaire Dryer AL-04 Error Code — What It Means

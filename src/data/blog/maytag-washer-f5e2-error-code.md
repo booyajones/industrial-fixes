@@ -10,13 +10,10 @@ tags:
   - appliance
   - washer
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "clothing or objects blocking the lid lock area"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Maytag washer lid lock or door lock assembly"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Washer F5E2 Error Code — What It Means

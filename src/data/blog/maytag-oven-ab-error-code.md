@@ -10,13 +10,10 @@ tags:
   - appliance
   - oven
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "Sabbath mode accidentally activated"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Touchpad / control panel"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Oven AB Error Code — What It Means

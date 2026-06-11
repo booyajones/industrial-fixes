@@ -10,13 +10,10 @@ tags:
   - appliance
   - dryer
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "heater relay failure"
 likelihood: "the primary manufacturer-listed cause"
 diy_or_pro: "diy"
-=======
 money_part: "Electronic control board"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Dryer F4E1 Error Code — What It Means

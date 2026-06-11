@@ -9,13 +9,10 @@ draft: false
 tags:
   - appliance
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "loose or damaged wiring connections between the main control and interface boards"
 likelihood: "the most common real-world cause"
 diy_or_pro: "diy"
-=======
 money_part: "Maytag washer user interface control board"
->>>>>>> Stashed changes
 ---
 
 ## Maytag F73 Error Code — What It Means

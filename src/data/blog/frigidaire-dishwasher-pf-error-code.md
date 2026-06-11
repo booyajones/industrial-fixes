@@ -10,13 +10,10 @@ tags:
   - appliance
   - dishwasher
   - frigidaire
-<<<<<<< Updated upstream
 most_likely_cause: "interrupted household power supply"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Electronic control board"
->>>>>>> Stashed changes
 ---
 
 ## Frigidaire Dishwasher PF Error Code — What It Means

@@ -10,13 +10,10 @@ tags:
   - appliance
   - oven
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "failed oven door latch assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Maytag Oven Door Latch Assembly"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Oven F5 Error Code — What It Means

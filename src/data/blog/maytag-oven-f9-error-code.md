@@ -10,13 +10,10 @@ tags:
   - appliance
   - oven
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "L2 and neutral swapped at the terminal block"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
-=======
 money_part: "Oven control board (electronic control)"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Oven F9 Error Code — What It Means

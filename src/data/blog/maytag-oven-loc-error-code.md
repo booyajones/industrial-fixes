@@ -10,13 +10,10 @@ tags:
   - appliance
   - oven
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "User activation of Control Lock, either intentionally or by accident"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "User interface control panel (Maytag oven)"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Oven LOC Error Code — What It Means

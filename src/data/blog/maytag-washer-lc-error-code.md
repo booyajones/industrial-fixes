@@ -10,13 +10,10 @@ tags:
   - appliance
   - washer
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "Control Lock button was pressed accidentally"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Control Panel / User Interface Assembly"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Washer LC Error Code — What It Means

@@ -10,13 +10,10 @@ tags:
   - appliance
   - dryer
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "Control board or wiring fault"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Electronic control board (main control)"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Dryer F1E1 Error Code — What It Means

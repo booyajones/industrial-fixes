@@ -10,13 +10,10 @@ tags:
   - appliance
   - dryer
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "Loose, damaged, or corroded wiring harness or connector between the user interface and main control board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Main control board"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Dryer F1E5 Error Code — What It Means

@@ -10,13 +10,10 @@ tags:
   - appliance
   - oven
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "household power interruption or tripped circuit breaker"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Electronic control board (oven control)"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Oven PF Error Code — What It Means

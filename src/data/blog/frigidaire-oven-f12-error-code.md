@@ -10,13 +10,10 @@ tags:
   - appliance
   - oven
   - frigidaire
-<<<<<<< Updated upstream
 most_likely_cause: "Temporary control glitch or stuck key on the control panel"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "User interface board / touch panel assembly"
->>>>>>> Stashed changes
 ---
 
 ## Frigidaire Oven F12 Error Code — What It Means

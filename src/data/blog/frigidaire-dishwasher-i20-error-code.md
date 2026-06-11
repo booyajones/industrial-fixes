@@ -9,13 +9,10 @@ draft: false
 tags:
   - appliance
   - frigidaire
-<<<<<<< Updated upstream
 most_likely_cause: "Blocked or kinked drain hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Dishwasher filter assembly (glass trap and screen)"
->>>>>>> Stashed changes
 ---
 
 ## Frigidaire i20 Error Code — What It Means

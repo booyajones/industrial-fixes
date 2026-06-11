@@ -10,13 +10,10 @@ tags:
   - appliance
   - oven
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "defective oven temperature sensor"
 likelihood: "the most commonly cited cause"
 diy_or_pro: "diy"
-=======
 money_part: "Oven temperature sensor"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Oven F4 Error Code — What It Means

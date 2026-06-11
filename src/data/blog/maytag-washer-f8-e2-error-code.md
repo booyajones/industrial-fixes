@@ -9,13 +9,10 @@ draft: false
 tags:
   - appliance
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "detergent residue buildup in the drawer or cartridge"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Dispenser assembly"
->>>>>>> Stashed changes
 ---
 
 ## Maytag F8 E2 Error Code — What It Means

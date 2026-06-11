@@ -10,13 +10,10 @@ tags:
   - appliance
   - dryer
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "Clogged lint screen or blocked exhaust vent"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Lint screen"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Dryer F4E3 Error Code — What It Means

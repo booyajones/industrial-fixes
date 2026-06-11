@@ -9,13 +9,10 @@ draft: false
 tags:
   - appliance
   - frigidaire
-<<<<<<< Updated upstream
 most_likely_cause: "water in the base pan from a leak"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Inlet valve (water fill valve)"
->>>>>>> Stashed changes
 ---
 
 ## Frigidaire i30 Error Code — What It Means

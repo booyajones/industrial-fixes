@@ -10,13 +10,10 @@ tags:
   - appliance
   - dryer
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "tripped half of the 240 V double breaker or blown fuse on one leg"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Dryer power cord"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Dryer L2 Error Code — What It Means

@@ -10,13 +10,10 @@ tags:
   - appliance
   - dryer
   - frigidaire
-<<<<<<< Updated upstream
 most_likely_cause: "lint or residue on the moisture sensor bars"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Frigidaire Dryer Electronic Control Board"
->>>>>>> Stashed changes
 ---
 
 ## Frigidaire Dryer AL-23 Error Code — What It Means

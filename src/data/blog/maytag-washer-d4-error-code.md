@@ -10,13 +10,10 @@ tags:
   - appliance
   - washer
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "failed or misread door lock assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Maytag washer lid switch assembly"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Washer D4 Error Code — What It Means

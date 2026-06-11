@@ -10,13 +10,10 @@ tags:
   - appliance
   - dryer
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "failed exhaust thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Maytag dryer exhaust thermistor"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Dryer F22 Error Code — What It Means

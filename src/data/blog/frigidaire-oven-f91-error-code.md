@@ -10,13 +10,10 @@ tags:
   - appliance
   - oven
   - frigidaire
-<<<<<<< Updated upstream
 most_likely_cause: "door lock assembly failure"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Frigidaire oven door latch motor assembly"
->>>>>>> Stashed changes
 ---
 
 ## Frigidaire Oven F91 Error Code — What It Means

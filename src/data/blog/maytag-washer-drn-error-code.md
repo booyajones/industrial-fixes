@@ -10,13 +10,10 @@ tags:
   - appliance
   - washer
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "drain hose installed incorrectly or kinked"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Drain hose"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Washer DRN Error Code — What It Means

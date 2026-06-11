@@ -10,13 +10,10 @@ tags:
   - appliance
   - dishwasher
   - ge
-<<<<<<< Updated upstream
 most_likely_cause: "water heater set too low or hot water depleted by other fixtures"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "GE dishwasher heating element"
->>>>>>> Stashed changes
 ---
 
 ## GE Dishwasher C6 Error Code — What It Means

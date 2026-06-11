@@ -9,13 +9,10 @@ draft: false
 tags:
   - appliance
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "kinked or clogged drain hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Maytag washer drain pump filter"
->>>>>>> Stashed changes
 ---
 
 ## Maytag F21 Error Code — What It Means

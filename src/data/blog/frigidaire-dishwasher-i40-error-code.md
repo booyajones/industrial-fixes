@@ -9,13 +9,10 @@ draft: false
 tags:
   - appliance
   - frigidaire
-<<<<<<< Updated upstream
 most_likely_cause: "food debris in the sump, glass trap, or filter area"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Dishwasher filter assembly"
->>>>>>> Stashed changes
 ---
 
 ## Frigidaire i40 Error Code — What It Means

@@ -10,13 +10,10 @@ tags:
   - appliance
   - dishwasher
   - bosch
-<<<<<<< Updated upstream
 most_likely_cause: "Defective water-switch Triac on the main control board"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
-=======
 money_part: "Main control board"
->>>>>>> Stashed changes
 ---
 
 ## Bosch Dishwasher E05 Error Code — What It Means

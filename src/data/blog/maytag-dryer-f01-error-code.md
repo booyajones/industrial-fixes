@@ -10,13 +10,10 @@ tags:
   - appliance
   - dryer
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "Failed main control board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Main electronic control board (Maytag dryer)"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Dryer F01 Error Code — What It Means

@@ -10,11 +10,8 @@ tags:
   - appliance
   - dishwasher
   - maytag
-<<<<<<< Updated upstream
 diy_or_pro: "pro"
-=======
 money_part: "Water inlet valve"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Dishwasher FAE5 Error Code — What It Means

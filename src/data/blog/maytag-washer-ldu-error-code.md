@@ -9,13 +9,10 @@ draft: false
 tags:
   - appliance
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "Items on top of the lid preventing it from moving freely"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Lid lock assembly"
->>>>>>> Stashed changes
 ---
 
 ## Maytag LdU Error Code — What It Means

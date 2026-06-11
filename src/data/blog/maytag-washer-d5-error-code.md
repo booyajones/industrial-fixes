@@ -10,13 +10,10 @@ tags:
   - appliance
   - washer
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "Faulty door latch or switch assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Drain pump assembly"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Washer D5 Error Code — What It Means

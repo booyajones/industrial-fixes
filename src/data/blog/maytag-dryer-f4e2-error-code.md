@@ -10,11 +10,8 @@ tags:
   - appliance
   - dryer
   - maytag
-<<<<<<< Updated upstream
 diy_or_pro: "diy"
-=======
 money_part: "Electronic control board"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Dryer F4E2 Error Code — What It Means

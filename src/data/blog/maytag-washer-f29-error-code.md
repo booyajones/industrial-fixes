@@ -10,13 +10,10 @@ tags:
   - appliance
   - washer
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "failed or sticking door latch and lock assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Door lock assembly (door latch)"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Washer F29 Error Code — What It Means

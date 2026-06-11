@@ -10,13 +10,10 @@ tags:
   - appliance
   - washer
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "Failed temperature sensor inside the inlet water valve assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Pressure switch / water level sensor"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Washer D3 Error Code — What It Means

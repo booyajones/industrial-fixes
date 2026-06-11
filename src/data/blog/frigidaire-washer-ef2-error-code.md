@@ -10,13 +10,10 @@ tags:
   - appliance
   - washer
   - frigidaire
-<<<<<<< Updated upstream
 most_likely_cause: "overdosing detergent or using non-HE detergent"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Drain hose"
->>>>>>> Stashed changes
 ---
 
 ## Frigidaire Washer EF2 Error Code — What It Means

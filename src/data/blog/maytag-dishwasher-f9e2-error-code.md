@@ -9,13 +9,10 @@ draft: false
 tags:
   - appliance
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "blocked drain pump or debris in the pump filter"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Drain hose"
->>>>>>> Stashed changes
 ---
 
 ## Maytag F9E2 Error Code — What It Means

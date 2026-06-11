@@ -10,13 +10,10 @@ tags:
   - appliance
   - washer
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "shipping bolts left installed (front-load) or failed shift actuator (top-load)"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Maytag washer shift actuator"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Washer F7E1 Error Code — What It Means

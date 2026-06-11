@@ -10,13 +10,10 @@ tags:
   - appliance
   - dryer
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "Loose or damaged wiring and connectors in the motor feedback circuit"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Main electronic control board"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Dryer F25 Error Code — What It Means

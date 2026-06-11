@@ -10,13 +10,10 @@ tags:
   - appliance
   - washer
   - frigidaire
-<<<<<<< Updated upstream
 most_likely_cause: "clogged inlet screen or closed supply valve"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Water inlet valve"
->>>>>>> Stashed changes
 ---
 
 ## Frigidaire Washer E10 Error Code — What It Means

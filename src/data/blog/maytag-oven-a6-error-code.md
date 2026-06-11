@@ -10,13 +10,10 @@ tags:
   - appliance
   - oven
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "Misread display or Sabbath mode indicator"
 likelihood: "the most common explanation"
 diy_or_pro: "diy"
-=======
 money_part: "Maytag Oven Control Board (ERC)"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Oven A6 Error Code — What It Means

@@ -10,13 +10,10 @@ tags:
   - appliance
   - dryer
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "Loose or damaged wiring harness connection between control boards"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Main control board"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Dryer F71 Error Code — What It Means

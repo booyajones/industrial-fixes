@@ -10,11 +10,8 @@ tags:
   - appliance
   - dryer
   - maytag
-<<<<<<< Updated upstream
 diy_or_pro: "diy"
-=======
 money_part: "Moisture sensor strips"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Dryer F28 Error Code — What It Means

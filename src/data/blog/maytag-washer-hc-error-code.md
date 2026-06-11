@@ -9,13 +9,10 @@ draft: false
 tags:
   - appliance
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "hot and cold supply hoses swapped during installation"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Hot and cold fill hoses"
->>>>>>> Stashed changes
 ---
 
 ## Maytag HC Error Code — What It Means

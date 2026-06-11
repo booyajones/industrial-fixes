@@ -10,13 +10,10 @@ tags:
   - appliance
   - dryer
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "temporary control lockup or software glitch"
 likelihood: "the most common cause when the fault clears after a power reset"
 diy_or_pro: "diy"
-=======
 money_part: "Maytag dryer main control board"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Dryer F6E3 Error Code — What It Means

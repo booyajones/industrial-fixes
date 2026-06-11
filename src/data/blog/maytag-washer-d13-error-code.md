@@ -10,11 +10,8 @@ tags:
   - appliance
   - washer
   - maytag
-<<<<<<< Updated upstream
 diy_or_pro: "diy"
-=======
 money_part: "Drain pump"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Washer d13 Error Code — What It Means

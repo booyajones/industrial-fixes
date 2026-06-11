@@ -10,13 +10,10 @@ tags:
   - appliance
   - oven
   - frigidaire
-<<<<<<< Updated upstream
 most_likely_cause: "Failed oven temperature sensor (RTD)"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Frigidaire oven temperature sensor RTD probe"
->>>>>>> Stashed changes
 ---
 
 ## Frigidaire Oven F2 Error Code — What It Means

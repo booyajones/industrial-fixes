@@ -10,13 +10,10 @@ tags:
   - appliance
   - washer
   - frigidaire
-<<<<<<< Updated upstream
 most_likely_cause: "uneven load distribution or washer not sitting level on the floor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-=======
 money_part: "Impact switch"
->>>>>>> Stashed changes
 ---
 
 ## Frigidaire Washer E4 Error Code — What It Means

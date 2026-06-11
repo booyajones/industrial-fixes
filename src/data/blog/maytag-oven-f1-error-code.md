@@ -10,13 +10,10 @@ tags:
   - appliance
   - oven
   - maytag
-<<<<<<< Updated upstream
 most_likely_cause: "failed oven temperature sensor"
 likelihood: "one of the most common causes"
 diy_or_pro: "diy"
-=======
 money_part: "Oven temperature sensor"
->>>>>>> Stashed changes
 ---
 
 ## Maytag Oven F1 Error Code — What It Means
