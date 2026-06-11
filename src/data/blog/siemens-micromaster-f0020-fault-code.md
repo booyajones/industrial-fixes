@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "KTY84 motor temperature sensor"
 ---
 
 ## Siemens Micromaster F0020 — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - true-refrigeration
+money_part: "NTC air sensor"
 ---
 
 ## True Refrigeration T-Series Error Codes — What They Mean

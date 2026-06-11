@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Flame sensor (rod)"
 ---
 
 ## State Water Heater E82 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Controller PCB (Fujitsu mini split)"
 ---
 
 ## Fujitsu E:43 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - mitsubishi
+money_part: "Braking resistor"
 ---
 
 ## Mitsubishi FR Series Fault E6 — What It Means

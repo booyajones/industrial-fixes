@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Gree outdoor control board (inverter board)"
 ---
 
 ## Gree Mini-Split PF Error Code — What It Means

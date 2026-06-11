@@ -9,6 +9,7 @@ draft: false
 tags:
   - welding
   - hypertherm
+money_part: "Input capacitor bank"
 ---
 
 ## Hypertherm Plasma Cutter Fault 0-70 — What It Means

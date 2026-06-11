@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - manitowoc
+money_part: "Water inlet valve"
 ---
 
 ## Manitowoc Ice Machine Error Code 6 — What It Means

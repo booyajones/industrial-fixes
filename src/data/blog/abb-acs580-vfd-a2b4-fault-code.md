@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - abb
+money_part: "Shielded VFD-rated motor cable"
 ---
 
 ## ABB ACS580 A2B4 Fault Code — What It Means

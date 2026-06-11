@@ -10,6 +10,7 @@ tags:
   - parker
   - hydraulics
   - industrial
+money_part: "Hydraulic filter element"
 ---
 
 ## Parker Hydraulics Fault Codes - Quick Reference

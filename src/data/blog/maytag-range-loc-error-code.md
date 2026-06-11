@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Intentional or accidental activation of Control Lock or Child Lock"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Touchpad / Control Panel Assembly"
 ---
 
 ## Maytag Range LOC Error Code — What It Means

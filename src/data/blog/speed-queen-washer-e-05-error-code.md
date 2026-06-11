@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - speed-queen
+money_part: "Pressure switch (water-level sensor)"
 ---
 
 ## Speed Queen Washer E:05 Error — What It Means

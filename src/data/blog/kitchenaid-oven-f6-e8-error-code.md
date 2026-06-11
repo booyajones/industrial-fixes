@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - kitchenaid
+money_part: "Microwave Appliance Manager Control board"
 ---
 
 ## KitchenAid F6 E8 Error — What It Means

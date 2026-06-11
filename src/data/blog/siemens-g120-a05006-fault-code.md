@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "G120 power unit cooling fan"
 ---
 
 ## Siemens G120 A05006 — What It Means

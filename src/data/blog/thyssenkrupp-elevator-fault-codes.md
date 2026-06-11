@@ -10,6 +10,7 @@ tags:
   - thyssenkrupp
   - elevator
   - lift
+money_part: "Door contact (mechanical)"
 ---
 
 ## ThyssenKrupp Elevator Fault Codes - Quick Reference

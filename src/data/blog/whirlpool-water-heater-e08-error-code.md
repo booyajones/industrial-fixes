@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - whirlpool
+money_part: "Whirlpool Energy Smart Module (ESM)"
 ---
 
 ## Whirlpool E08 Error Code — What It Means

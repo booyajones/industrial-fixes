@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "Amana dryer main control board"
 ---
 
 ## Amana Dryer F1E3 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "STO safety relay or contactor"
 ---
 
 ## Siemens G120 F01600 — What It Means

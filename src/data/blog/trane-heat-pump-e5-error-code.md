@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - trane
+money_part: "Trane inverter control board"
 ---
 
 ## Trane Heat Pump E5 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - bosch
+money_part: "Main electronic control board (EOC)"
 ---
 
 ## Bosch Oven F45 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - bosch
+money_part: "Water inlet valve assembly"
 ---
 
 ## Bosch Washer E17 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi-electric
+money_part: "Air filter for Mitsubishi mini-split indoor unit"
 ---
 
 ## Mitsubishi Mini-Split P6 Error — What It Means

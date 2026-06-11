@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Air intake filter (State tankless)"
 ---
 
 ## State Water Heater E171 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - amana
+money_part: "Drain pump assembly"
 ---
 
 ## Amana dLO Error Code — What It Means

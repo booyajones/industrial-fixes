@@ -9,6 +9,7 @@ draft: true
 tags:
   - hvac
   - carrier
+money_part: "Carrier flame sensor"
 ---
 
 ## Carrier Error Code 30 — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kenmore
+money_part: "User interface control panel assembly"
 ---
 
 ## Kenmore Dishwasher F2E1 Error — What It Means

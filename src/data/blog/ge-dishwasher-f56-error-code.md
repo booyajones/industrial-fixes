@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Clogged or kinked drain hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Drain hose"
 ---
 
 ## GE Dishwasher F56 Error Code — What It Means

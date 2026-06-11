@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Outdoor inverter PCB"
 ---
 
 ## Fujitsu E:52 Error Code — What It Means

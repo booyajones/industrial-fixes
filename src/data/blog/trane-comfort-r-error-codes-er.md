@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - trane
+money_part: "Communication wire (18 AWG, 4-conductor)"
 ---
 
 ## Trane ComfortR ER Error Code — What It Means

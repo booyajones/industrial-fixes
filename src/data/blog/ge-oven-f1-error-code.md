@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "defective keypanel or touchpad overlay"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "GE oven keypanel (touchpad overlay)"
 ---
 
 ## GE Oven F1 Error Code — What It Means

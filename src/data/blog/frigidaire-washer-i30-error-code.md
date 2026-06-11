@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "water leak from a hose, pump, or seal"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Dishwasher drain hose and hose clamps"
 ---
 
 ## Frigidaire Dishwasher i30 Error Code — What It Means

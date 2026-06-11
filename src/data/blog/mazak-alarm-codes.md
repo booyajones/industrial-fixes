@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - mazak
+money_part: "Servo encoder cable"
 ---
 
 ## Mazak CNC Alarm Codes — Quick Reference

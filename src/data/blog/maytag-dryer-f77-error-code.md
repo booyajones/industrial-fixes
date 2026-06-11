@@ -10,7 +10,11 @@ tags:
   - appliance
   - dryer
   - maytag
+<<<<<<< Updated upstream
 diy_or_pro: "pro"
+=======
+money_part: "Electronic control board"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag Dryer F77 Error Code — What It Means

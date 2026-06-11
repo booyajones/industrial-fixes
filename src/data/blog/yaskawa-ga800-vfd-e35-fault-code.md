@@ -9,6 +9,7 @@ draft: true
 tags:
   - vfd
   - yaskawa
+money_part: "Encoder or pulse generator"
 ---
 
 ## Yaskawa GA800 E35 Fault — What It Means

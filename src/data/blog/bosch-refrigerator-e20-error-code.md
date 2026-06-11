@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "loose, damaged, or corroded wiring harness or connectors between the main control board and display module"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Bosch refrigerator main control board"
 ---
 
 ## Bosch Refrigerator E20 Error — What It Means

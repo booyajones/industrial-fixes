@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - siemens
+money_part: "DRIVE-CLiQ cable"
 ---
 
 ## Siemens Sinumerik Alarm 380500 — What It Means

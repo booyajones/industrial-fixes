@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Clogged lint filter or exhaust vent system"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "4-inch flexible dryer duct (aluminum or semi-rigid)"
 ---
 
 ## Samsung Dryer C90 Error Code — What It Means

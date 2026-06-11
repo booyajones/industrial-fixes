@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Kinked, clogged, or improperly routed drain hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Maytag dishwasher drain pump assembly"
 ---
 
 ## Maytag Dishwasher E1 Error Code — What It Means

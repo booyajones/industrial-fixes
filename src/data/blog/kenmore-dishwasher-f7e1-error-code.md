@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kenmore
+money_part: "Dishwasher heating element"
 ---
 
 ## Kenmore Dishwasher F7E1 Error Code — What It Means

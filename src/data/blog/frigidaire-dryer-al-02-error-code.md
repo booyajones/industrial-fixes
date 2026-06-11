@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - frigidaire
+money_part: "Moisture sensor assembly"
 ---
 
 ## Frigidaire Dryer AL-02 Error Code — What It Means

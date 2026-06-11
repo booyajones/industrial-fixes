@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - bosch
+money_part: "Carbon brushes (Bosch washer motor)"
 ---
 
 ## Bosch Oven F43 Error Code — What It Means

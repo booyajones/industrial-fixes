@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - lg
+money_part: "LG outdoor unit main PCB"
 ---
 
 ## LG Mini Split CH74 Error Code — What It Means

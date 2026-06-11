@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - manitowoc
+money_part: "Ice level sensor (IR)"
 ---
 
 ## Manitowoc Ice Machine Error Code 10 — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mrcool
+money_part: "MRCOOL indoor control board (PCB)"
 ---
 
 ## MRCOOL EH 00 Error Code — What It Means

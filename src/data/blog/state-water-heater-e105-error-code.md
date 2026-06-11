@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Air intake filter screen"
 ---
 
 ## State Water Heater E105 Error Code — What It Means

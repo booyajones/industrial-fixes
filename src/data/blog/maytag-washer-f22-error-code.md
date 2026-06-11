@@ -10,9 +10,13 @@ tags:
   - appliance
   - washer
   - maytag
+<<<<<<< Updated upstream
 most_likely_cause: "door not fully closed or obstructed"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Door lock assembly"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag Washer F22 Error Code — What It Means

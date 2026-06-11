@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Moisture, grease, or residue on the touch panel causing false activation"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Touch panel / keypad assembly"
 ---
 
 ## Samsung Microwave C-d0 Error Code — What It Means

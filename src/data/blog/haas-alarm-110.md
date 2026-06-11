@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - haas
+money_part: "Servo amplifier (axis drive)"
 ---
 
 ## Haas Alarm 110 — What It Means

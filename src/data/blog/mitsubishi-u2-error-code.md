@@ -9,6 +9,7 @@ draft: false
 tags:
   - mini-split
   - mitsubishi
+money_part: "Inverter PCB (outdoor unit board)"
 ---
 
 ## Mitsubishi U2 Error Code — What It Means

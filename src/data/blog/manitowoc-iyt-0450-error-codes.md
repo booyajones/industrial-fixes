@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - manitowoc
   - ice-machine
+money_part: "Hot gas valve"
 ---
 
 ## Manitowoc IYT-0450 Error Codes — What They Mean

@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - american-standard
+money_part: "Pressure switch"
 ---
 
 ## American Standard Furnace 3 Flash Error Code — What It Means

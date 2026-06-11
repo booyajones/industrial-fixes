@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Water supply issue or sensor circuit fault"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Water inlet valve assembly"
 ---
 
 ## Whirlpool E15 Error Code — What It Means

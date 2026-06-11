@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed ice maker assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "LG freezer ice maker assembly"
 ---
 
 ## LG Refrigerator EIU Error Code — What It Means

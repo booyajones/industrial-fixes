@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Drive belt (V-belt or synchronous)"
 ---
 
 ## Danfoss VFD Fault UL — What It Means

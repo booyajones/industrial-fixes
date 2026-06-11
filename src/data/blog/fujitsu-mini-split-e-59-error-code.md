@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Indoor coil thermistor"
 ---
 
 ## Fujitsu E:59 Error Code — What It Means

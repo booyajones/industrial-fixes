@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - abb
+money_part: "STO jumper wire or terminal bridge"
 ---
 
 ## ABB ACS580 FA81 Fault — What It Means

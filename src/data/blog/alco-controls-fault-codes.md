@@ -11,6 +11,7 @@ tags:
   - emerson
   - refrigeration
   - expansion-valve
+money_part: "EXV stepper motor coil"
 ---
 
 ## Alco Controls EXV Fault Codes - Quick Reference

@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - navien
+money_part: "Flame sensor"
 ---
 
 ## Navien Error Code E004 — What It Means

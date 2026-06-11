@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Siemens Micromaster cooling fan"
 ---
 
 ## Siemens Micromaster F0004 — What It Means

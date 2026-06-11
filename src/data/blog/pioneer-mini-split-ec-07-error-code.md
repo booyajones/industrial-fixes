@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - pioneer
+money_part: "Outdoor DC fan motor"
 ---
 
 ## Pioneer EC 07 Error Code — What It Means

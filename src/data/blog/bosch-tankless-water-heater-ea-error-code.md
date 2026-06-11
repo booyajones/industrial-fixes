@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - bosch
+money_part: "Ignition electrode and flame sensor assembly"
 ---
 
 ## Bosch EA Error Code — What It Means

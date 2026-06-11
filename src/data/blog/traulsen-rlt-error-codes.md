@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - traulsen
   - commercial-refrigeration
+money_part: "Box temperature sensor"
 ---
 
 ## Traulsen RLT Series Error Codes — What They Mean

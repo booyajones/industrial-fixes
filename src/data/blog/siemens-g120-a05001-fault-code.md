@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Shielded motor cable"
 ---
 
 ## Siemens G120 A05001 Current Limit — What It Means

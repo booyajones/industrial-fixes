@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - frigidaire
+money_part: "Door switch and strike assembly"
 ---
 
 ## Frigidaire Dryer AL-15 Error Code — What It Means

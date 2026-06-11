@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Indoor main control board (PCB)"
 ---
 
 ## Gree U8 Error Code — What It Means

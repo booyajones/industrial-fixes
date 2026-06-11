@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - kitchenaid
+money_part: "Control Panel Assembly"
 ---
 
 ## KitchenAid F6 E5 Error Code — What It Means

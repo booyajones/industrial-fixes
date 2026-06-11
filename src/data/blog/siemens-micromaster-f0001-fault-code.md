@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Motor power cable (armored or shielded VFD-rated)"
 ---
 
 ## Siemens Micromaster F0001 — What It Means

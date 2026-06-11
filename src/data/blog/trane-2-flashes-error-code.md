@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - trane
+money_part: "Hot surface igniter"
 ---
 
 ## Trane 2 Flashes Error Code — What It Means

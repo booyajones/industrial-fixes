@@ -10,9 +10,13 @@ tags:
   - appliance
   - dryer
   - maytag
+<<<<<<< Updated upstream
 most_likely_cause: "failed or drifting exhaust thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+=======
+money_part: "Exhaust or outlet thermistor"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag Dryer F23 Error Code — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "loose or damaged wiring in the door latch harness (ranges) or control board connector (microwaves)"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool oven door latch assembly"
 ---
 
 ## Whirlpool Oven F7 Error Code — What It Means

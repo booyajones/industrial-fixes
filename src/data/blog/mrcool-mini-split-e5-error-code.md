@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mrcool
+money_part: "MRCOOL evaporator coil temperature sensor (T2 sensor)"
 ---
 
 ## MRCOOL E5 Error Code — What It Means

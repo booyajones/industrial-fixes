@@ -10,6 +10,7 @@ tags:
   - electrical
   - vfd
   - delta
+money_part: "Cooling fan (replacement)"
 ---
 
 Delta VFDs are workhorses — they run pumps, fans, conveyors, compressors, and HVAC systems in facilities worldwide. When one trips, you need to know fast whether you're looking at a quick parameter fix or a hardware failure that needs a spare drive.

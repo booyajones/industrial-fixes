@@ -10,6 +10,7 @@ tags:
   - hvac
   - furnace
   - carrier
+money_part: "Pressure switch"
 ---
 
 ## Carrier Error Code 31 — What It Means

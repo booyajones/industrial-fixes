@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Failed membrane keypad or touchpad assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Membrane keypad or touchpad assembly"
 ---
 
 ## GE Oven F7 Error Code — What It Means

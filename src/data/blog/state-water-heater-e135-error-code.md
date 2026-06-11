@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state-water-heaters
+money_part: "Model-specific control board"
 ---
 
 ## State Water Heater E135 Error Code — What It Means

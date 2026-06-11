@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - laars
+money_part: "Hot surface igniter"
 ---
 
 Laars boilers — the Mighty Therm 2, Pennant hydronic boilers, and NeoTherm NTH/NTHN modulating series — all use different control systems. The Mighty Therm 2 and Pennant use a Honeywell S8600 or similar ignition control with LED flash codes. The NeoTherm NTH uses a dedicated touchscreen controller (or EMEA display on newer units) that shows numbered fault codes in an orange bar at the bottom of the screen. This guide covers all three platforms.

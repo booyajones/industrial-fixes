@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - goodman
+money_part: "Goodman Integrated Control Module (communicating system)"
 ---
 
 ## Goodman D1 Error Code — What It Means

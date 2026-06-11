@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - navien
+money_part: "Cold water inlet thermistor"
 ---
 
 ## Navien E021 Error Code — What It Means

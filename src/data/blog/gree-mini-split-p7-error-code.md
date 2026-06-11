@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "IPM temperature sensor (thermistor)"
 ---
 
 ## Gree P7 Error Code — What It Means

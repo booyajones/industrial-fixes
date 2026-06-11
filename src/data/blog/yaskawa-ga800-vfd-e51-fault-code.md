@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "One input phase missing from the supply or an open upstream protection device"
 likelihood: "the most common real-world cause"
 diy_or_pro: "pro"
+money_part: "Input fuses (sized per GA800 installation manual)"
 ---
 
 ## Yaskawa GA800 E51 Fault — What It Means

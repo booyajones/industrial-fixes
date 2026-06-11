@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - kenmore
+money_part: "Oven RTD temperature sensor probe"
 ---
 
 ## Kenmore Oven F33 Error Code — What It Means

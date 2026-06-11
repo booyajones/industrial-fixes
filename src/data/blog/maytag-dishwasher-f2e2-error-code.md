@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Loose or corroded wire connections between the user interface and control board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "User Interface Assembly (Control Panel)"
 ---
 
 ## Maytag Dishwasher F2E2 Error Code — What It Means

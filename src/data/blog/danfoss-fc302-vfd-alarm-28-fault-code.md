@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Danfoss brake resistor (match your FC 302 frame size and power)"
 ---
 
 ## Danfoss FC302 VFD Alarm 28 — What It Means

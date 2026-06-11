@@ -10,6 +10,7 @@ tags:
   - hvac
   - furnace
   - trane
+money_part: "Furnace air filter"
 ---
 
 ## Trane Furnace 4 Flashes — What It Means

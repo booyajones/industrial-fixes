@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - trane
+money_part: "T5-B discharge temperature sensor"
 ---
 
 ## Trane E8 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - speed-queen
+money_part: "Door lock/latch assembly"
 ---
 
 ## Speed Queen Washer dU Error Code — What It Means

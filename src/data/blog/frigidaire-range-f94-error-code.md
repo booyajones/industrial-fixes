@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - frigidaire
+money_part: "Oven door lock motor assembly"
 ---
 
 ## Frigidaire F94 Error Code — What It Means

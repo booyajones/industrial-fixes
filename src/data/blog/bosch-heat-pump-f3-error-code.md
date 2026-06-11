@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - bosch
+money_part: "T6B temperature sensor (thermistor)"
 ---
 
 ## Bosch Heat Pump F3 Error Code — What It Means

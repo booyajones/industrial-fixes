@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - carrier
+money_part: "Blower run capacitor"
 ---
 
 ## Carrier 52 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - heatcraft
   - unit-cooler
   - walk-in
+money_part: "Room temperature probe"
 ---
 
 ## Heatcraft ZER/ZR Series Alarms — Quick Reference

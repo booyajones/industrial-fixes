@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - state-water-heater
+money_part: "Air intake screen assembly"
 ---
 
 ## State Water Heater E15 Error Code — What It Means

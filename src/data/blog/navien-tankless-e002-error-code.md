@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - navien
+money_part: "Navien inlet water filter / screen"
 ---
 
 ## Navien E002 Error Code — What It Means

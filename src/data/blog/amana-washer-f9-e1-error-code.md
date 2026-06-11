@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - amana
+money_part: "Drain hose"
 ---
 
 ## Amana Washer F9 E1 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - num
+money_part: "Serial link communication cable"
 ---
 
 ## NUM CNC Alarm E28 — What It Means

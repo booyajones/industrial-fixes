@@ -10,6 +10,7 @@ tags:
   - appliance
   - refrigerator
   - maytag
+money_part: "Door switch"
 ---
 
 ## Maytag Refrigerator dE Error Code — What It Means

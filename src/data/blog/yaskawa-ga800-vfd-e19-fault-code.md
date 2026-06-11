@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "Soft-charge bypass relay/contactor for GA800"
 ---
 
 ## Yaskawa GA800 E19 Fault — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Failed door lock assembly or locking motor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung oven door lock assembly"
 ---
 
 ## Samsung Oven E-OE Error Code — What It Means

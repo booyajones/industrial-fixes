@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - noritz
+money_part: "Exhaust thermistor"
 ---
 
 ## Noritz Error Code 29 — What It Means

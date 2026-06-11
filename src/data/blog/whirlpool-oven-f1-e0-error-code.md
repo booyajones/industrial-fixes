@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed electronic control board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool oven electronic control board"
 ---
 
 ## Whirlpool Oven F1 E0 Error Code — What It Means

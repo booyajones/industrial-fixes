@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "Main circuit fuses for Yaskawa GA800"
 ---
 
 ## Yaskawa GA800 E24 Fault — What It Means

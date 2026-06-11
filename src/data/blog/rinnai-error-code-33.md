@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - rinnai
+money_part: "Exhaust temperature thermistor"
 ---
 
 ## Rinnai Error Code 33 — What It Means

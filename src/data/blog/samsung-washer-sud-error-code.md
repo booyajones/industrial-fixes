@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "too much detergent or using non-HE detergent"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Drain pump filter"
 ---
 
 ## Samsung SUD Error Code — What It Means

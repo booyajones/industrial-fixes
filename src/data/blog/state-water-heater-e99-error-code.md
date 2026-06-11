@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Control board / mainboard"
 ---
 
 ## State Water Heater E99 Error Code — What It Means

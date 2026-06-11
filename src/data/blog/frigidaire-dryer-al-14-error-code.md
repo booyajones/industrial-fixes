@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - frigidaire
+money_part: "Electronic control board (main PCB)"
 ---
 
 ## Frigidaire Dryer AL-14 Error Code — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "transient control glitch cleared by a power reset"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung dryer main control board"
 ---
 
 ## Samsung Dryer EEE Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - allen-bradley
+money_part: "Internal cooling fan"
 ---
 
 ## Allen-Bradley PowerFlex Fault F025 — What It Means

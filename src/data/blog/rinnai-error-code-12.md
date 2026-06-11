@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - rinnai
+money_part: "Flame rod / ionization sensor"
 ---
 
 ## Rinnai Error Code 12 — What It Means

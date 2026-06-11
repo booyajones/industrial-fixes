@@ -10,6 +10,7 @@ tags:
   - carel
   - refrigeration
   - ir33
+money_part: "Carel NTC probe (NTC/S)"
 ---
 
 ## Carel IR33 Fault Codes - Quick Reference

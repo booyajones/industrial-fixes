@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "Yaskawa GA800 digital operator (keypad)"
 ---
 
 ## Yaskawa GA800 E10 Fault Code — What It Means

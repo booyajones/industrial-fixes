@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - lennox
+money_part: "Rollout limit switch"
 ---
 
 ## Lennox Error Code 111 — What It Means

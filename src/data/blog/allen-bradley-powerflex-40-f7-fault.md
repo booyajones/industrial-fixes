@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - allen-bradley
+money_part: "PowerFlex 40 replacement drive"
 ---
 
 ## Allen Bradley PowerFlex 40 F7 Fault — What It Means

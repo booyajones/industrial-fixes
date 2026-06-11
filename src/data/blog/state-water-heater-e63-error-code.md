@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Thermocouple or Flame Sensor"
 ---
 
 ## State Water Heater E63 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - fanuc
+money_part: "Encoder battery"
 ---
 
 ## Fanuc CNC Alarm Codes — Quick Reference

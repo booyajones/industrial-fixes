@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "Amana dryer power cord"
 ---
 
 ## Amana Dryer F31 Error Code — What It Means

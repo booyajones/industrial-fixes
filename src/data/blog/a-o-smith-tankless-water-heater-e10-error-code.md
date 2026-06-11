@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - ao-smith
+money_part: "Inlet temperature sensor (thermistor)"
 ---
 
 ## A.O. Smith E10 Error Code — What It Means

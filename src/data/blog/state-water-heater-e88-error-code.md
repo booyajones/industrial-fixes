@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - state
+money_part: "Flame sensor / flame rod"
 ---
 
 ## State Water Heater E88 Error Code — What It Means

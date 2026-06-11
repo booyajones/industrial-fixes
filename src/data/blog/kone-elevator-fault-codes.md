@@ -10,6 +10,7 @@ tags:
   - kone
   - elevator
   - lift
+money_part: "KONE door contact"
 ---
 
 ## KONE Elevator Fault Codes - Quick Reference

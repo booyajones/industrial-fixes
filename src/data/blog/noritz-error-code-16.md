@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - noritz
+money_part: "Outlet thermistor"
 ---
 
 ## Noritz Error Code 16 — What It Means

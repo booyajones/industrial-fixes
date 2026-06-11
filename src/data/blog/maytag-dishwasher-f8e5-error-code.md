@@ -10,9 +10,13 @@ tags:
   - appliance
   - dishwasher
   - maytag
+<<<<<<< Updated upstream
 most_likely_cause: "Water in the drip pan or base tripping the overfill float switch"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Water inlet valve assembly"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag Dishwasher F8E5 Error — What It Means

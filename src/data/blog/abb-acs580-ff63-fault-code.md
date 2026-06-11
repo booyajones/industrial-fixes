@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - abb
+money_part: "ACS580 control board assembly"
 ---
 
 ## ABB ACS580 FF63 — What It Means

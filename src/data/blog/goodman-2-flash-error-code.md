@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - goodman
+money_part: "Hot surface igniter (Goodman B1401015S)"
 ---
 
 ## Goodman 2 Flash Error Code — What It Means

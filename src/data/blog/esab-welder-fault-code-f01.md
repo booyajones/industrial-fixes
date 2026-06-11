@@ -9,6 +9,7 @@ draft: false
 tags:
   - welding
   - esab
+money_part: "Cooling fan assembly"
 ---
 
 ## ESAB Welder F01 Fault Code — What It Means

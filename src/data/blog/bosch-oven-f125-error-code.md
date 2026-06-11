@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - bosch
+money_part: "Membrane Keypad / Touch Control Panel"
 ---
 
 ## Bosch Oven F125 Error Code — What It Means

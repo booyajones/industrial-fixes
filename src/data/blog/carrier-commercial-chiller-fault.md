@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - carrier
+money_part: "Condenser fan motor"
 ---
 
 ## Carrier 30XA Commercial Chiller Fault Codes — What They Mean

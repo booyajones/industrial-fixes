@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - allen-bradley
+money_part: "Terminal block wire (18–22 AWG)"
 ---
 
 ## Allen-Bradley PowerFlex Fault F002 — What It Means

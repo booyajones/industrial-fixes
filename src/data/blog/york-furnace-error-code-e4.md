@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - york
+money_part: "Hot surface ignitor"
 ---
 
 ## York Furnace E4 Error Code — What It Means

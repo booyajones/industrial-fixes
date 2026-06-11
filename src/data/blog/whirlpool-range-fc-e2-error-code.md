@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "misread error code"
 likelihood: "the most common scenario"
 diy_or_pro: "diy"
+money_part: "Oven temperature sensor"
 ---
 
 ## Whirlpool Range FC E2 Error — What It Means

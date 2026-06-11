@@ -10,6 +10,7 @@ tags:
   - toyota
   - forklift
   - material-handling
+money_part: "Motor thermal sensor"
 ---
 
 ## Toyota Forklift Error Codes - Quick Reference

@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - carrier
+money_part: "3A mini blade fuse (AGC-3 or ATC-3)"
 ---
 
 ## Carrier 24 Error Code — What It Means

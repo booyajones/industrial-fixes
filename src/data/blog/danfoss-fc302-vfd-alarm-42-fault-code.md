@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Relay coil or contactor coil"
 ---
 
 ## Danfoss FC302 Alarm 42 — What It Means

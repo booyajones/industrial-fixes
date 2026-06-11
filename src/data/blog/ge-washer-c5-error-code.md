@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "drain hose kink, blockage, or pump filter obstruction"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "GE washer drain pump assembly"
 ---
 
 ## GE Washer C5 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - allen-bradley
+money_part: "HIM module"
 ---
 
 ## Allen Bradley PowerFlex Fault Codes — Quick Reference

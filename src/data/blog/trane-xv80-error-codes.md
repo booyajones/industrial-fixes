@@ -10,6 +10,7 @@ tags:
   - hvac
   - trane
   - furnace
+money_part: "Flame sensor"
 ---
 
 ## Trane XV80 Furnace Error Codes — What They Mean

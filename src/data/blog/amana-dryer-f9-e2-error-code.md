@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "Main control board (CCU)"
 ---
 
 ## Amana Dryer F9 E2 Error Code — What It Means

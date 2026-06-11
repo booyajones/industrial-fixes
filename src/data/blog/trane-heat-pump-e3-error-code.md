@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - trane
+money_part: "Outdoor unit assembly"
 ---
 
 ## Trane Heat Pump E3 Error Code — What It Means

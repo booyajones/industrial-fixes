@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - pioneer
+money_part: "Outdoor main PCB / mainboard"
 ---
 
 ## Pioneer Mini-Split P1 Error Code — What It Means

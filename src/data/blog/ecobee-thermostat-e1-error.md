@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - ecobee
+money_part: "C-wire adapter (PEK)"
 ---
 
 ## ecobee E1 Error — What It Means

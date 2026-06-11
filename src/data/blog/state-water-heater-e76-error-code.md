@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - state
+money_part: "Main control board (PCB)"
 ---
 
 ## State Water Heater E76 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - rinnai
+money_part: "Condensate safety switch"
 ---
 
 ## Rinnai Error Code 25 — What It Means

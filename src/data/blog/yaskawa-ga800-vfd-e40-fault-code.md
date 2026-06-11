@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 diy_or_pro: "pro"
+money_part: "GA800 Control Board Assembly"
 ---
 
 ## Yaskawa GA800 E40 Fault — What It Means

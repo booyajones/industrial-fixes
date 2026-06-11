@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kitchenaid
+money_part: "KitchenAid dishwasher user interface control board"
 ---
 
 ## KitchenAid Dishwasher F2E2 Error Code — What It Means

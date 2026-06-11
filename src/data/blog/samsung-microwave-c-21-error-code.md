@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Failed or shorted temperature sensor"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Samsung microwave temperature sensor / thermistor assembly"
 ---
 
 ## Samsung C-21 Microwave Error — What It Means

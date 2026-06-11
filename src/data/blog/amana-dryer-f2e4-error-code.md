@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "Main control board (electronic control board)"
 ---
 
 ## Amana Dryer F2E4 Error Code — What It Means

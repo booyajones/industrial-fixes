@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - haas
+money_part: "Haas servo drive board"
 ---
 
 ## Haas Alarm 106 — What It Means

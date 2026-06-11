@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Gree outdoor inverter control board"
 ---
 
 ## Gree Mini Split F8 Error Code — What It Means

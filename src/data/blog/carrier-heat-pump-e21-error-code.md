@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - carrier
+money_part: "Leak-detection sensor or module"
 ---
 
 ## Carrier E21 Error Code — What It Means

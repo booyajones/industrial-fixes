@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Main control PCB (indoor or outdoor)"
 ---
 
 ## Fujitsu E:08 Error Code — What It Means

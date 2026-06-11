@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - speed-queen
+money_part: "Door lock assembly"
 ---
 
 ## Speed Queen Washer dL Error Code — What It Means

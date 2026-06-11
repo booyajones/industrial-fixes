@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "restricted or blocked exhaust vent system"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "4-inch semi-rigid aluminum dryer duct"
 ---
 
 ## Whirlpool Dryer AF Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "Safety relay"
 ---
 
 ## Yaskawa GA800 E36 Fault — What It Means

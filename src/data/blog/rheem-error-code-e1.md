@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - rheem
+money_part: "EcoNet control board (indoor)"
 ---
 
 ## Rheem Air Handler E1 Error Code — What It Means

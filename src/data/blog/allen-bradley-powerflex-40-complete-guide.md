@@ -10,6 +10,7 @@ tags:
   - vfd
   - allen-bradley
   - industrial
+money_part: "Input fuses"
 ---
 
 ## Allen-Bradley PowerFlex 40 Complete Fault Code Guide — What They Mean

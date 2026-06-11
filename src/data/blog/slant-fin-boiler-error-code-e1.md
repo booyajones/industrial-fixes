@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - slant-fin
+money_part: "Flame sensor rod"
 ---
 
 ## Slant/Fin Boiler Error Code E1 — What It Means

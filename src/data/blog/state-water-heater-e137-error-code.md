@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - state
+money_part: "State control board (model-specific)"
 ---
 
 ## State Water Heater E137 Error Code — What It Means

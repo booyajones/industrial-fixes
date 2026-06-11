@@ -11,6 +11,7 @@ tags:
   - manitowoc
   - foodservice
   - commercial-kitchen
+money_part: "Water filter"
 ---
 
 ## Manitowoc Ice Machine Complete Troubleshooting Guide

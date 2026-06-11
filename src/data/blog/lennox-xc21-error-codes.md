@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - lennox
+money_part: "iComfort thermostat (S30 or E30)"
 ---
 
 ## Lennox XC21 Error Codes — What They Mean

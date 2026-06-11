@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - abb
+money_part: "Analog signal transmitter or sensor"
 ---
 
 ## ABB ACS550 AI2 LOSS Fault — What It Means

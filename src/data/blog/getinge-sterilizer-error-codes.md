@@ -11,6 +11,7 @@ tags:
   - sterilizer
   - autoclave
   - medical
+money_part: "Door gasket (Getinge OEM)"
 ---
 
 ## Getinge Sterilizer Error Codes - Quick Reference

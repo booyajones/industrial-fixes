@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "Heating element"
 ---
 
 ## Amana Dryer F4 E1 Error Code — What It Means

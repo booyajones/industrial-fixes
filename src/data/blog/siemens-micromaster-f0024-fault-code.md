@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Siemens Micromaster cooling fan assembly"
 ---
 
 ## Siemens Micromaster F0024 — What It Means

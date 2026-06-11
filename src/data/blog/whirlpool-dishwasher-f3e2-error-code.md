@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - whirlpool
+money_part: "Whirlpool dryer moisture sensor"
 ---
 
 ## Whirlpool F3E2 Error Code — What It Means

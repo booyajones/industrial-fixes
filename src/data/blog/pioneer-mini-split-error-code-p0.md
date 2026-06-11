@@ -9,6 +9,7 @@ draft: false
 tags:
   - mini-split
   - pioneer
+money_part: "Condenser fan run capacitor"
 ---
 
 ## Pioneer Mini Split P0 Error Code — What It Means

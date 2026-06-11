@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - frigidaire
+money_part: "Frigidaire dryer door switch"
 ---
 
 ## Frigidaire Dryer AL-22 Error Code — What It Means

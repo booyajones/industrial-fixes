@@ -13,6 +13,7 @@ tags:
   - food-service
   - error-codes
 description: "Hoshizaki C-101BAH and C-201BAH countertop crescent cube ice maker error codes explained — diagnose and fix E1 through E6 and F-series safety faults on the most common compact commercial ice machine in hotels, bars, and restaurants."
+money_part: "Water inlet valve"
 ---
 
 ## Error Codes: Hoshizaki C-101BAH / C-201BAH Countertop Ice Maker

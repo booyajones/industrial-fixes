@@ -9,6 +9,7 @@ draft: false
 tags:
   - mini-split
   - midea
+money_part: "S-wire / communication wire"
 ---
 
 ## Midea Mini Split Error Code E3 — What It Means

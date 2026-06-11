@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - trane
+money_part: "Hot-surface igniter"
 ---
 
 ## Trane XE80 Error Codes — What It Means

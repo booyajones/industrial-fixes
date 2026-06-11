@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kenmore
+money_part: "Circulation pump and heater assembly"
 ---
 
 ## Kenmore Dishwasher E09 Error Code — What It Means

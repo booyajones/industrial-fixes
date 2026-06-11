@@ -10,9 +10,13 @@ tags:
   - appliance
   - dryer
   - maytag
+<<<<<<< Updated upstream
 most_likely_cause: "dryer not level or very small loads not contacting the moisture sensor bars"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Moisture sensor bars (drum moisture electrodes)"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag Dryer F3E2 Error Code — What It Means

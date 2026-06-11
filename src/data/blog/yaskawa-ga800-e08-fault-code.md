@@ -9,6 +9,7 @@ draft: true
 tags:
   - vfd
   - yaskawa
+money_part: "GA800 control board"
 ---
 
 ## Yaskawa GA800 E08 Fault Code — What It Means

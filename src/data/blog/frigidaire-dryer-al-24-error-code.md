@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - frigidaire
+money_part: "User Interface Control Board (UI Board)"
 ---
 
 ## Frigidaire Dryer AL-24 Error Code — What It Means

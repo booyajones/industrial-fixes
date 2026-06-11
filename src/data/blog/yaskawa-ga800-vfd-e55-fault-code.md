@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Incorrect communications cable wiring, short circuit, or disconnected cable"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Communications cable (serial or network)"
 ---
 
 ## Yaskawa GA800 E55 Fault — What It Means

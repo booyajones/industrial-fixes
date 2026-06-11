@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "obstruction or detergent buildup at the lid lock and strike area"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool lid-lock assembly"
 ---
 
 ## Whirlpool LdL Error Code — What It Means

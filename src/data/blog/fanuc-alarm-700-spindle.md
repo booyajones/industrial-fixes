@@ -10,6 +10,7 @@ tags:
   - cnc
   - fanuc
   - spindle
+money_part: "Spindle cooling fan or blower"
 ---
 
 ## Fanuc Alarm 700 — Spindle Overheat Detailed Guide

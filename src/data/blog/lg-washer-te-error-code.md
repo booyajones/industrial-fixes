@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "faulty thermistor (temperature sensor)"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "LG washer thermistor / temperature sensor"
 ---
 
 ## LG Washer tE Error Code — What It Means

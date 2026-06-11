@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - navien
+money_part: "Navien flow sensor assembly"
 ---
 
 ## Navien Alarm 401 Error Code — What It Means

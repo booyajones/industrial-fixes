@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Failed or stuck keypad/touchpad assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "User interface / keypad assembly"
 ---
 
 ## Maytag Range F2 E1 — What It Means

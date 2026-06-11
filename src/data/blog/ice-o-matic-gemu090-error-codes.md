@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - ice-o-matic
+money_part: "Water inlet valve"
 ---
 
 ## Ice-O-Matic GEMU090 Error Codes — What It Means

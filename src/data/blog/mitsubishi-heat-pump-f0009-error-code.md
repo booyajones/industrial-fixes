@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Indoor unit thermistor (TH5 or equivalent)"
 ---
 
 ## Mitsubishi F0009 Error Code — What It Means

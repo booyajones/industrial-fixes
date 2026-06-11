@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - electrolux
+money_part: "Drive motor assembly (Electrolux dryer)"
 ---
 
 ## Electrolux Dryer E53 Error — What It Means

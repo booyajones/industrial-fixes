@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - lg
+money_part: "LG indoor unit main PCB"
 ---
 
 ## LG Mini-Split CH03 Error — What It Means

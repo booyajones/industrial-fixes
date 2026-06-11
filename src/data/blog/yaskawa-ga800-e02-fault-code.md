@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "Motor power cable (3-phase shielded)"
 ---
 
 ## Yaskawa GA800 E02 Fault — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - pioneer
+money_part: "Indoor unit control board (PCB)"
 ---
 
 ## Pioneer PA Error Code — What It Means

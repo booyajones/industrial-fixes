@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Restricted airflow"
 likelihood: "the most common field cause"
 diy_or_pro: "diy"
+money_part: "Samsung dryer thermistor / temperature sensor"
 ---
 
 ## Samsung Dryer tCS Error Code — What It Means

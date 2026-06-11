@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - hill-phoenix
+money_part: "NTC thermistor temperature sensor"
 ---
 
 ## Hill Phoenix Display Case E1 Error Code — What It Means

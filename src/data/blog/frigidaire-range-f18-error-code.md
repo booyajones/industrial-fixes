@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed oven relay board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Frigidaire oven relay board"
 ---
 
 ## Frigidaire Range F18 Error Code — What It Means

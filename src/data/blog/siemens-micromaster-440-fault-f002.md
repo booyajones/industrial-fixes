@@ -11,6 +11,7 @@ tags:
   - siemens
   - micromaster
   - overcurrent
+money_part: "Motor cable"
 ---
 
 ## Siemens Micromaster 440 Fault F002 — What It Means

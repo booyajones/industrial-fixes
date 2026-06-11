@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - weil-mclain
+money_part: "Expansion tank (2–5 gallon)"
 ---
 
 ## Weil-McLain Boiler Error Code E10 — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - daikin
+money_part: "Daikin drain level float switch"
 ---
 
 ## Daikin A3 Error Code — What It Means

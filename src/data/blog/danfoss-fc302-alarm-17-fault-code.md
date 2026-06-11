@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Fieldbus communication cable"
 ---
 
 ## Danfoss FC302 Alarm 17 — What It Means

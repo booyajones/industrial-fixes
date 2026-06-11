@@ -10,6 +10,7 @@ tags:
   - hvac
   - furnace
   - lennox
+money_part: "Lennox furnace control board"
 ---
 
 ## Lennox E206 Error Code — What It Means

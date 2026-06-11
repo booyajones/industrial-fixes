@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - bosch
+money_part: "Bosch oven user interface board / control panel"
 ---
 
 ## Bosch E305 Error Code — What It Means

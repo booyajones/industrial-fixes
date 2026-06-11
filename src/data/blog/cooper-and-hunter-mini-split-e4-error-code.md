@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - cooper-hunter
+money_part: "Temperature sensor thermistor"
 ---
 
 ## Cooper&Hunter E4 Error Code — What It Means

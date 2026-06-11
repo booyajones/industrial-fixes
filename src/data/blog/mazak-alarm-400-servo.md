@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - mazak
+money_part: "Mitsubishi servo amplifier (MR-J series)"
 ---
 
 ## Mazak Alarm 400 Servo Error — What It Means

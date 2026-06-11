@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Indoor fan motor (blower motor)"
 ---
 
 ## Mitsubishi PB Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kenmore
+money_part: "Overfill float switch"
 ---
 
 ## Kenmore Dishwasher E04 Error Code — What It Means

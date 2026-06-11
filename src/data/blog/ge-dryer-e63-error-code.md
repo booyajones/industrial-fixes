@@ -11,6 +11,7 @@ tags:
   - dryer
   - ge
 diy_or_pro: "pro"
+money_part: "GE dryer heating element"
 ---
 
 ## GE Dryer E63 Error Code — What It Means

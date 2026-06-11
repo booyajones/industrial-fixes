@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "G120 Control Unit (CU) with Safety Integrated"
 ---
 
 ## Siemens G120 F01625 — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Motor (AC induction or PM)"
 ---
 
 ## Danfoss FC302 ALARM 18 — What It Means

@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - ecosmart
+money_part: "Heating element for EcoSmart ECO25"
 ---
 
 ## EcoSmart ECO25 Error Codes — What It Means

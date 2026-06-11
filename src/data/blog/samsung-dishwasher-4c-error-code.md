@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Closed or partially closed house shutoff valve, or clogged inlet filter screen"
 likelihood: "the most common real-world causes"
 diy_or_pro: "diy"
+money_part: "Water inlet valve (Samsung dishwasher)"
 ---
 
 ## Samsung Dishwasher 4C Error Code — What It Means

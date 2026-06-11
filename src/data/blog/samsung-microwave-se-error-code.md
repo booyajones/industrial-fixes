@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Dirty, loose, oxidized, or damaged ribbon cable connection between the keypad and control board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Touchpad membrane or control panel assembly"
 ---
 
 ## Samsung Microwave SE Error Code — What It Means

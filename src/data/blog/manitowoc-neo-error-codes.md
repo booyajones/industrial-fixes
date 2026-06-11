@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - manitowoc
+money_part: "Condenser fan motor"
 ---
 
 ## Manitowoc NEO Ice Machine Error Codes — What They Mean

@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - hoshizaki
+money_part: "Drain pump motor"
 ---
 
 ## Hoshizaki F1 Error Code — What It Means

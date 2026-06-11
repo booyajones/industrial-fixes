@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi-electric
+money_part: "Indoor controller board (indoor PCB)"
 ---
 
 ## Mitsubishi Fb Error Code — What It Means

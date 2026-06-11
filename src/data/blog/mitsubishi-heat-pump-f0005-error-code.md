@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Indoor/outdoor communication wire"
 ---
 
 ## Mitsubishi F0005 Error Code — What It Means

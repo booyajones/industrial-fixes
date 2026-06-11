@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Faulty touchpad or touch panel assembly"
 likelihood: "the most commonly cited cause"
 diy_or_pro: "diy"
+money_part: "Samsung range touchpad assembly"
 ---
 
 ## Samsung Range C-F2 Error Code — What It Means

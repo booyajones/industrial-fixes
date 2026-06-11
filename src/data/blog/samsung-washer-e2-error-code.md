@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "foreign material in the drain pump filter"
 likelihood: "the most common cause for the drain-error version"
 diy_or_pro: "diy"
+money_part: "Samsung washer drain pump"
 ---
 
 ## Samsung Washer E2 Error Code — What It Means

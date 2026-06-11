@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed membrane switch or keypad"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung range membrane switch / control panel overlay"
 ---
 
 ## Samsung Oven SE/5E Error Code — What It Means

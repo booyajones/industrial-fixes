@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Stuck, obstructed, or mechanically binding damper assembly"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Samsung microwave damper assembly"
 ---
 
 ## Samsung C-A1 Microwave Error — What It Means

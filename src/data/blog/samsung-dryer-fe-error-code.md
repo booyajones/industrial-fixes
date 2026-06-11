@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "loose or damaged power cord or terminal block connection"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Samsung dryer power cord (3- or 4-prong)"
 ---
 
 ## Samsung Dryer FE Error Code — What It Means

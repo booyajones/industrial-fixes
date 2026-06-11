@@ -10,6 +10,7 @@ tags:
   - appliance
   - microwave
   - panasonic
+money_part: "Panasonic Steam Cap (Taste Catcher)"
 ---
 
 ## Panasonic U15 Error Code — What It Means

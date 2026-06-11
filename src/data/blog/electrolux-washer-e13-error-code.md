@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - electrolux
+money_part: "Electrolux washer fill hose set"
 ---
 
 ## Electrolux Washer E13 Error Code — What It Means

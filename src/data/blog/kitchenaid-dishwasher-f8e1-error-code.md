@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kitchenaid
+money_part: "KitchenAid dishwasher drain pump"
 ---
 
 ## KitchenAid Dishwasher F8E1 Error Code — What It Means

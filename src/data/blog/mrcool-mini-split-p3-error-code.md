@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mrcool
+money_part: "Outdoor ambient temperature sensor (thermistor)"
 ---
 
 ## MRCOOL Mini Split P3 Error Code — What It Means

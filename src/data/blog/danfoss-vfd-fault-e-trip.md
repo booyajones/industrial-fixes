@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Motor PTC thermistor"
 ---
 
 ## Danfoss VFD Fault E-Trip — What It Means

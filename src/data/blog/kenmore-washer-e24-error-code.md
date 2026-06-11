@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - kenmore
+money_part: "Drain filter assembly"
 ---
 
 ## Kenmore Washer E24 Error Code — What It Means

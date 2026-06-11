@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - ge
+money_part: "Leak sensor battery"
 ---
 
 ## GE Water Heater F81 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - lenze
   - smd
   - overcurrent
+money_part: "VFD-rated motor cable"
 ---
 
 ## Lenze SMD Fault 0x0001 — What It Means

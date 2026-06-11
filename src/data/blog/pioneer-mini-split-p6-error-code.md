@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - pioneer
+money_part: "Outdoor coil temperature sensor (IPT sensor)"
 ---
 
 ## Pioneer Mini Split P6 Error — What It Means

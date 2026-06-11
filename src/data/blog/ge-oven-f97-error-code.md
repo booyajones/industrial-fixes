@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Failed lower cooling fan or blower motor assembly"
 likelihood: "the most common cause reported in the field"
 diy_or_pro: "pro"
+money_part: "Lower cooling fan / blower motor assembly"
 ---
 
 ## GE Oven F97 Error Code — What It Means

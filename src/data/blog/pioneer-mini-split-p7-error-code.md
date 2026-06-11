@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - pioneer
+money_part: "Evaporator coil temperature sensor (thermistor)"
 ---
 
 ## Pioneer Mini-Split P7 Error Code — What It Means

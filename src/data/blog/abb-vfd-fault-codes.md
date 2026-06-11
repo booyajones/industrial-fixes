@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - abb
+money_part: "Input fuses"
 ---
 
 ## ABB VFD Fault Codes — Quick Reference

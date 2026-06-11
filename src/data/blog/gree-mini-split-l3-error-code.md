@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Gree outdoor DC fan motor"
 ---
 
 ## Gree L3 Error Code — What It Means

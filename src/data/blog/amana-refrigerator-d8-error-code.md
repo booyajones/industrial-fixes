@@ -10,6 +10,7 @@ tags:
   - appliance
   - refrigerator
   - amana
+money_part: "Defrost heater"
 ---
 
 ## Amana Refrigerator D8 Error Code — What It Means

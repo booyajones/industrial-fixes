@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kitchenaid
+money_part: "Water Inlet Valve"
 ---
 
 ## KitchenAid Dishwasher F8E5 Error Code — What It Means

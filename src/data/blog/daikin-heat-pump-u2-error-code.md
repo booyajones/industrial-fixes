@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - daikin
+money_part: "Outdoor main control board (PCB)"
 ---
 
 ## Daikin U2 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - danfoss
   - hvac
   - industrial
+money_part: "LCP panel"
 ---
 
 ## Danfoss FC102 VLT HVAC Drive Fault Codes — What They Mean

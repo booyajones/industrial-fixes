@@ -10,6 +10,7 @@ tags:
   - instrument
   - omega
   - temperature-control
+money_part: "Thermocouple probe"
 ---
 
 ## Omega Temperature Controller Error Codes — Quick Reference

@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Clogged pump filter or debris in the filter trap"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Drain pump filter"
 ---
 
 ## Samsung SE Error Code — What It Means

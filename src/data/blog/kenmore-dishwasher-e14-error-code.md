@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kenmore
+money_part: "Flow meter / reed sensor (inlet side)"
 ---
 
 ## Kenmore Dishwasher E14 Error Code — What It Means

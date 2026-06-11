@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Incoming hot water supply temperature above 176°F (80°C)"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung dishwasher thermistor / temperature sensor"
 ---
 
 ## Samsung Dishwasher 3E Error Code — What It Means

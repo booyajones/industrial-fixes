@@ -11,6 +11,7 @@ tags:
   - webs
   - bms
   - building-automation
+money_part: "WEBs-4S controller"
 ---
 
 ## Honeywell WEBs Fault Codes - Quick Reference

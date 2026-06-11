@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - ruud
+money_part: "Flame rod"
 ---
 
 ## Ruud E11 Error Code — What It Means

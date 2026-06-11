@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 diy_or_pro: "pro"
+money_part: "Yaskawa GA800 control board (if specified by support)"
 ---
 
 ## Yaskawa GA800 E49 Fault — What It Means

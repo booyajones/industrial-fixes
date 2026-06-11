@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Clogged lint filter or blocked exhaust vent duct"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Dryer lint filter / lint screen"
 ---
 
 ## Samsung Dryer C8 Error Code — What It Means

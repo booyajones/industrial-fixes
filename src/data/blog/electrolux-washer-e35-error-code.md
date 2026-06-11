@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - electrolux
+money_part: "Water inlet valve assembly"
 ---
 
 ## Electrolux E35 Error Code — What It Means

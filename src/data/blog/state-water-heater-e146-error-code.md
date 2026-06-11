@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "State water heater control board"
 ---
 
 ## State Water Heater E146 Error Code — What It Means

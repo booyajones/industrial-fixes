@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "using hand soap or liquid dish detergent instead of automatic dishwasher detergent"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Automatic dishwasher detergent (powder or tablet)"
 ---
 
 ## LG Dishwasher bE Error Code — What It Means

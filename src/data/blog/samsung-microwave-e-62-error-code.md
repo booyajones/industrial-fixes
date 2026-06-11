@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Failed humidity sensor"
 likelihood: "the most common real cause"
 diy_or_pro: "pro"
+money_part: "Samsung microwave humidity sensor"
 ---
 
 ## Samsung Microwave E-62 Error — What It Means

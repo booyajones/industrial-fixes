@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - bosch
+money_part: "Bosch T3 outdoor temperature sensor"
 ---
 
 ## Bosch E4 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - pump
   - flowserve
   - industrial
+money_part: "Mechanical seal assembly"
 ---
 
 ## Flowserve Pump Fault Codes — Quick Reference

@@ -9,6 +9,7 @@ draft: false
 tags:
   - welding
   - hypertherm
+money_part: "Electrode"
 ---
 
 ## Hypertherm Plasma Cutter Fault 0-30 — What It Means

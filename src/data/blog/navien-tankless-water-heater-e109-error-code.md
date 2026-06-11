@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - navien
+money_part: "Navien combustion fan motor"
 ---
 
 ## Navien E109 Error — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - traulsen
+money_part: "NTC temperature sensor (Traulsen OEM)"
 ---
 
 ## Traulsen Refrigerator Error Code E1 — What It Means

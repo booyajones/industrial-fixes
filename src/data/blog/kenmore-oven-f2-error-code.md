@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - kenmore
+money_part: "Oven temperature sensor/probe"
 ---
 
 ## Kenmore Oven F2 Error Code — What It Means

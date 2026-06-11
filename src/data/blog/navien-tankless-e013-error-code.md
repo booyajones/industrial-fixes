@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - navien
+money_part: "Navien circulation pump assembly"
 ---
 
 ## Navien Tankless E013 Error Code — What It Means

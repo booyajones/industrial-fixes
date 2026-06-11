@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - mitsubishi
+money_part: "Drain pump assembly"
 ---
 
 ## Mitsubishi P5 Error Code — What It Means

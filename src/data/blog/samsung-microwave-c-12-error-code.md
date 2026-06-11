@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Temporary control glitch or moisture-related issue"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Gas/Easy/PH Sensor"
 ---
 
 ## Samsung Microwave C-12 Error Code — What It Means

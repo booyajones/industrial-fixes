@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - goodman
+money_part: "Indoor blower motor assembly"
 ---
 
 ## Goodman D2 Error Code — What It Means

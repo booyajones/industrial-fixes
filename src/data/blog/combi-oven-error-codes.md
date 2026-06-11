@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - rational
+money_part: "Descaling solution (Rational)"
 ---
 
 ## Commercial Combi Oven Error Codes — What They Mean

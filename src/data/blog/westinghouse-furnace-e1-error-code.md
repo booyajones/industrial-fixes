@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - westinghouse
+money_part: "Hot surface igniter"
 ---
 
 ## Westinghouse Furnace E1 Error Code — What It Means

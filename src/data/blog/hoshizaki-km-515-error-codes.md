@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - hoshizaki
+money_part: "Hot gas bypass valve"
 ---
 
 ## Hoshizaki KM-515 Error Codes — What They Mean

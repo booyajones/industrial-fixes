@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - state
+money_part: "Combustion air intake screen or filter"
 ---
 
 ## State Water Heater E81 Error Code — What It Means

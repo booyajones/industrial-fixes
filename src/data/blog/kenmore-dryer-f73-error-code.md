@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - kenmore
+money_part: "Main electronic control board (ECB)"
 ---
 
 ## Kenmore Dryer F73 Error Code — What It Means

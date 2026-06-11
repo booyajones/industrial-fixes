@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Temperature sensor / thermistor"
 ---
 
 ## Gree Mini Split F6 Error — What It Means

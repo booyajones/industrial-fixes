@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "dirty condenser coils or door left ajar"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "GE refrigerator condenser coil brush"
 ---
 
 ## GE Refrigerator CC Error Code — What It Means

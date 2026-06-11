@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - kenmore
+money_part: "Main control board / electronic control board (ECB)"
 ---
 
 ## Kenmore Dryer F71 Error Code — What It Means

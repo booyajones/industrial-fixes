@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - hoshizaki
+money_part: "Drain valve solenoid assembly"
 ---
 
 ## Hoshizaki E7 Error Code — What It Means

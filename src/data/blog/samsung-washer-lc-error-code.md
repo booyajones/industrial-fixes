@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Water leak from inlet or drain hose connections"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung washer inlet hose set"
 ---
 
 ## Samsung Washer LC Error Code — What It Means

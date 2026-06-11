@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Braking resistor"
 ---
 
 ## Danfoss VFD Fault Codes — Quick Reference

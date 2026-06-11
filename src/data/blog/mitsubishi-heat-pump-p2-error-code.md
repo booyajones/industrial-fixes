@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Mitsubishi pipe temperature thermistor (TH2)"
 ---
 
 ## Mitsubishi P2 Error Code — What It Means

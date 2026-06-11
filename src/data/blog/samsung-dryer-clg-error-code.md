@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Clogged lint screen or restricted exhaust vent trapping heat"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung Dryer Lint Screen / Lint Filter"
 ---
 
 ## Samsung Dryer CLg Error Code — What It Means

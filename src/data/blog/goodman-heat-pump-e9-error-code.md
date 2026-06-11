@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - goodman
+money_part: "High-pressure switch or sensor"
 ---
 
 ## Goodman E9 Error Code — What It Means

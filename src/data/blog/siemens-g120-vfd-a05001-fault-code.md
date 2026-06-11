@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Siemens G120 Power Module (PM)"
 ---
 
 ## Siemens G120 A05001 Fault Code — What It Means

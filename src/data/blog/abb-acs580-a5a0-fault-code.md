@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - abb
+money_part: "ABB safety relay (compatible model for STO)"
 ---
 
 ## ABB ACS580 A5A0 Fault — What It Means

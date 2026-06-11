@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Indoor main PCB control board"
 ---
 
 ## Fujitsu Mini Split E:45 Error — What It Means

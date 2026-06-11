@@ -10,6 +10,7 @@ tags:
   - apc
   - ups
   - power-systems
+money_part: "Replacement battery (RBC)"
 ---
 
 ## APC UPS Error Codes - Quick Reference

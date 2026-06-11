@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Stuck or shorted keypad membrane or touchpad"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool range user interface / keypad assembly"
 ---
 
 ## Whirlpool Range F2 Error Code — What It Means

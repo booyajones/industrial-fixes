@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Door not fully closed or misaligned"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool door lock assembly (washer)"
 ---
 
 ## Whirlpool F5E1 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - goodman
+money_part: "Pressure switch"
 ---
 
 ## Goodman Furnace E1 Error Code — What It Means

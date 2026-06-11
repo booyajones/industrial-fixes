@@ -9,6 +9,7 @@ draft: true
 tags:
   - vfd
   - siemens
+money_part: "Motor cable (shielded VFD-rated)"
 ---
 
 ## Siemens G120 F0010 Fault Code — What It Means

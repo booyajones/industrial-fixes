@@ -10,6 +10,7 @@ draft: false
 tags:
   - vfd
   - abb
+money_part: "Motor (replacement)"
 ---
 
 ## ABB ACS880 Fault 2310 Overcurrent — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Outdoor unit control board (main PCB)"
 ---
 
 ## Mitsubishi F0003 Error Code — What It Means

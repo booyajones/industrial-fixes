@@ -11,6 +11,7 @@ tags:
   - honeywell
   - notifier
   - building-management
+money_part: "FAPT/FSP detector head"
 ---
 
 ## Honeywell NOTIFIER Fire Alarm Fault Codes — Quick Reference

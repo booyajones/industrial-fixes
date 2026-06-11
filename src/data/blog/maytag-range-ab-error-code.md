@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - maytag
+money_part: "User Interface Control Board (Keypad Assembly)"
 ---
 
 ## Maytag Range AB Error Code — What It Means

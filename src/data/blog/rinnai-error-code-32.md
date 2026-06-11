@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - rinnai
+money_part: "Thermal fuse (outlet)"
 ---
 
 ## Rinnai Error Code 32 — What It Means

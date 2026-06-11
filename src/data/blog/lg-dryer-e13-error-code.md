@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Kinked, twisted, crushed, or clogged drain hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "LG dryer drain hose (OEM)"
 ---
 
 ## LG Dryer E13 Error Code — What It Means

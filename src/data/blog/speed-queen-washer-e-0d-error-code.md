@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - speed-queen
+money_part: "Pressure switch (water-level sensor)"
 ---
 
 ## Speed Queen Washer E:0d Error — What It Means

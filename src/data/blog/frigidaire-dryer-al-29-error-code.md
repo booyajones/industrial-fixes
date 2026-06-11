@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - frigidaire
+money_part: "Pressure switch / water-level sensor"
 ---
 
 ## Frigidaire Dryer AL-29 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Motor cable (shielded VFD-rated)"
 ---
 
 ## Siemens Micromaster F0021 Fault — What It Means

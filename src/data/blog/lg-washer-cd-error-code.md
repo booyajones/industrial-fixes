@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Normal end-of-dry cool-down period"
 likelihood: "the most common and expected reason"
 diy_or_pro: "diy"
+money_part: "LG washer door lock assembly"
 ---
 
 ## LG Washer Cd Error Code — What It Means

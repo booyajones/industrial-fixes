@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Failed microwave inverter"
 likelihood: "a primary cause identified by Maytag"
 diy_or_pro: "pro"
+money_part: "Microwave inverter board"
 ---
 
 ## Maytag Range F1E5 Error Code — What It Means

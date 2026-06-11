@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Danfoss FC302 control card (PCB)"
 ---
 
 ## Danfoss FC302 VFD Alarm 80 — What It Means

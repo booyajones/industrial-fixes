@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "clogged lint screen or exhaust vent trapping heat"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung dryer thermistor (temperature sensor)"
 ---
 
 ## Samsung Dryer t0 Error Code — What It Means

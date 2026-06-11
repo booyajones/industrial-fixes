@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "blocked or kinked water supply hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung washer water inlet valve"
 ---
 
 ## Samsung Washer bE4 Error Code — What It Means

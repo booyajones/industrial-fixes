@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Water or suds trapped in the base pan triggering the leak sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung leak sensor"
 ---
 
 ## Samsung LC1 Error Code — What It Means

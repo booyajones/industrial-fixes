@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - carrier
+money_part: "Indoor unit main control board (PCB)"
 ---
 
 ## Carrier E11 Error Code — What It Means

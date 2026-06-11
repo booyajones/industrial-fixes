@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "clogged or residue-blocked detergent dispenser"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Detergent Dispenser Assembly"
 ---
 
 ## Maytag Dishwasher F8E2 Error — What It Means

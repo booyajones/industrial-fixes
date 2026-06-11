@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "defective control board or internal circuitry"
 likelihood: "the most common cause in service practice"
 diy_or_pro: "pro"
+money_part: "Yaskawa GA800 control board assembly"
 ---
 
 ## Yaskawa GA800 E64 Fault — What It Means

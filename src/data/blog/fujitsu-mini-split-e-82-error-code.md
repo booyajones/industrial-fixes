@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Indoor controller PCB (main control board)"
 ---
 
 ## Fujitsu E:82 Error Code — What It Means

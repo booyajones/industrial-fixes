@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - goodman
+money_part: "Goodman integrated control module"
 ---
 
 ## Goodman d0 Error Code — What It Means

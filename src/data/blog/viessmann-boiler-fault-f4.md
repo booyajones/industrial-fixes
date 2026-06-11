@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - viessmann
+money_part: "Ionization/ignition electrode"
 ---
 
 ## Viessmann Boiler Fault F4 — What It Means

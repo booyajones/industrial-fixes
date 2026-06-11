@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - trane
+money_part: "Blower motor run capacitor"
 ---
 
 ## Trane 8 Flashes Error Code — What It Means

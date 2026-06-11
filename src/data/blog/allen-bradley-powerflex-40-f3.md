@@ -11,6 +11,7 @@ tags:
   - allen-bradley
   - powerflex
   - power-loss
+money_part: "Input fuses"
 ---
 
 ## Allen-Bradley PowerFlex 40 F3 Fault — What It Means

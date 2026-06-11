@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - electrolux
+money_part: "Main electronic control board"
 ---
 
 ## Electrolux Dryer E94 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Temperature or pressure sensor"
 ---
 
 ## State Water Heater E77 Error Code — What It Means

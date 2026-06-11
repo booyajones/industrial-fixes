@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Three-phase AC motor"
 ---
 
 ## Danfoss FC302 VFD Alarm 44 — What It Means

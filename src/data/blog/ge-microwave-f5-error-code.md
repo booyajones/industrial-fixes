@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed humidity sensor"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "GE microwave humidity sensor"
 ---
 
 ## GE Microwave F5 Error Code — What It Means

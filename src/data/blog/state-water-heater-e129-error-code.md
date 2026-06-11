@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Air Intake Screen or Assembly"
 ---
 
 ## State Water Heater E129 Error Code — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "defrost control board failure or wiring harness problem"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Frigidaire defrost control board"
 ---
 
 ## Frigidaire Refrigerator dF Error Code — What It Means

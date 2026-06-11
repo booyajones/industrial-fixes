@@ -9,9 +9,13 @@ draft: false
 tags:
   - appliance
   - frigidaire
+<<<<<<< Updated upstream
 most_likely_cause: "Partially closed supply faucets or clogged inlet screens"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Water inlet valve assembly"
+>>>>>>> Stashed changes
 ---
 
 ## Frigidaire E11 Error Code — What It Means

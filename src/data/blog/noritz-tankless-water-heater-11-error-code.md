@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - noritz
+money_part: "Ignition rod electrode assembly"
 ---
 
 ## Noritz Error Code 11 — What It Means

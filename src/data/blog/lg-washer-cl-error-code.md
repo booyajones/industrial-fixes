@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Child Lock feature was intentionally enabled by pressing and holding the designated button or button pair"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "LG washer control panel / touchpad assembly"
 ---
 
 ## LG Washer CL Error Code — What It Means

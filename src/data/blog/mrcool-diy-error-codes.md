@@ -10,6 +10,7 @@ tags:
   - hvac
   - mrcool
   - mini-split
+money_part: "Indoor room sensor (F1)"
 ---
 
 ## Mr. Cool DIY Mini Split Error Codes — What They Mean

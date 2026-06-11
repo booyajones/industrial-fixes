@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - bosch
+money_part: "Bosch pressure sensor (pressure switch)"
 ---
 
 ## Bosch F27 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - fire-alarm
   - simplex
   - building-management
+money_part: "TrueAlarm detector head"
 ---
 
 ## Simplex 4100 Fire Alarm Fault Codes — Quick Reference

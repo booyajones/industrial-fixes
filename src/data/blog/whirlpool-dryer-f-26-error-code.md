@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "temporary control or communication glitch"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool dryer control board (user interface or main)"
 ---
 
 ## Whirlpool F26 Dryer Error — What It Means

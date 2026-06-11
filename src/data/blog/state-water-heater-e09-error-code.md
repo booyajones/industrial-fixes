@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - state
+money_part: "Control board (model-specific)"
 ---
 
 ## State Water Heater E09 Error Code — What It Means

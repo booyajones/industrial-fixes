@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kenmore
+money_part: "Drain pump"
 ---
 
 ## Kenmore Dishwasher E08 Error Code — What It Means

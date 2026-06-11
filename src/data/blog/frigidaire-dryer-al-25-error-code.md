@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - frigidaire
+money_part: "User Interface Control Board / Keypad Assembly"
 ---
 
 ## Frigidaire Dryer AL-25 Error Code — What It Means

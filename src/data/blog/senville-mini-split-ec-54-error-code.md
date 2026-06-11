@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - senville
+money_part: "Senville compressor discharge temperature sensor (TP/T5)"
 ---
 
 ## Senville Mini Split EC 54 — What It Means

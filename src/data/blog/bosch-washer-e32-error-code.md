@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - bosch
+money_part: "Drum bearing kit"
 ---
 
 ## Bosch E32 Error Code — What It Means

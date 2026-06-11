@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Outdoor unit main control board (PCB)"
 ---
 
 ## Gree HC Error Code — What It Means

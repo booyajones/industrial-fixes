@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Measuring probe or encoder"
 ---
 
 ## Siemens G120 F01122 — What It Means

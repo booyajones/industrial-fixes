@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "Amana dryer keypad assembly"
 ---
 
 ## Amana Dryer F2E2 Error Code — What It Means

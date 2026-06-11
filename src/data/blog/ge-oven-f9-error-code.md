@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Debris or grease blocking the door latch mechanism"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "GE door lock assembly"
 ---
 
 ## GE Oven F9 Error Code — What It Means

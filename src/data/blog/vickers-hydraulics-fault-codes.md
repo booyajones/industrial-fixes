@@ -11,6 +11,7 @@ tags:
   - eaton
   - hydraulics
   - industrial
+money_part: "Hydraulic filter element"
 ---
 
 ## Vickers Hydraulics Fault Codes - Quick Reference

@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - bosch
+money_part: "Motor carbon brush set"
 ---
 
 ## Bosch E21 Error Code — What It Means

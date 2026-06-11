@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - carrier
+money_part: "Carrier slave thermostat"
 ---
 
 ## Carrier Error Code 19 — What It Means

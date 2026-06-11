@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "loose or damaged motor harness connector"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung washer motor assembly"
 ---
 
 ## Samsung Washer E3 Error Code — What It Means

@@ -10,9 +10,13 @@ tags:
   - appliance
   - dishwasher
   - bosch
+<<<<<<< Updated upstream
 most_likely_cause: "door not closing or latching properly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Bosch Dishwasher Door Sensor / Latch Switch"
+>>>>>>> Stashed changes
 ---
 
 ## Bosch Dishwasher E06 Error — What It Means

@@ -10,9 +10,13 @@ tags:
   - appliance
   - dishwasher
   - whirlpool
+<<<<<<< Updated upstream
 most_likely_cause: "Failed thermistor or OWI sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Whirlpool dishwasher OWI sensor"
+>>>>>>> Stashed changes
 ---
 
 ## Whirlpool Dishwasher F3E1 Error — What It Means

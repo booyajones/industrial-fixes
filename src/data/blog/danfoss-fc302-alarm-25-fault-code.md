@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Brake resistor (Danfoss compatible, match your drive's rating)"
 ---
 
 ## Danfoss FC302 Alarm 25 — What It Means

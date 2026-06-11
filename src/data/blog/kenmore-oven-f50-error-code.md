@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - kenmore
+money_part: "Electronic oven control board (EOC)"
 ---
 
 ## Kenmore Oven F50 Error — What It Means

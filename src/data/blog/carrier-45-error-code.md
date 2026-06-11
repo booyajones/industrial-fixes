@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - carrier
+money_part: "Carrier integrated furnace control board"
 ---
 
 ## Carrier 45 Error Code — What It Means

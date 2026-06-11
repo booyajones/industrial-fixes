@@ -11,6 +11,7 @@ tags:
   - daikin
   - vrv
   - commercial
+money_part: "EEV coil"
 ---
 
 ## Daikin RXYQ VRV System Error Codes — What They Mean

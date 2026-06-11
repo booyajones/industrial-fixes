@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - mori-seiki
+money_part: "Servo amplifier"
 ---
 
 Mori Seiki and DMG Mori machines use a layered alarm structure. The MAPPS or MSX operator interface sits on top of a Fanuc, Mitsubishi, or Siemens CNC core, and the machine ladder adds Mori-specific PMC and EX alarms for tool change, spindle orientation, pallet handling, turret indexing, and safety interlocks. That stack is why one fault can show up as a Mori alarm on the MAPPS screen, a Fanuc alarm in the CNC diagnostic page, and a drive alarm in the servo or spindle amplifier.

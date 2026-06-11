@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - state-water-heaters
+money_part: "Control board or gas valve assembly"
 ---
 
 ## State Water Heater E169 Error Code — What It Means

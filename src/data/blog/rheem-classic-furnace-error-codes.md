@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - rheem
+money_part: "Flame sensor"
 ---
 
 ## Rheem Classic Series Error Codes — What It Means

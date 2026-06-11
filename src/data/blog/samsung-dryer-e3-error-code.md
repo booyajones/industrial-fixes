@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Control or communication interruption between internal components"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Main control board (PCB assembly)"
 ---
 
 ## Samsung Dryer E3 Error Code — What It Means

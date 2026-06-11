@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Outdoor unit pressure sensor (transducer)"
 ---
 
 ## Fujitsu E:86 Error Code — What It Means

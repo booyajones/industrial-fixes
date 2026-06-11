@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - bosch
+money_part: "Bosch washer inlet hose"
 ---
 
 ## Bosch Washer F23 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - rheem
+money_part: "Rheem heat pump control board"
 ---
 
 ## Rheem Heat Pump A001 Error Code — What It Means

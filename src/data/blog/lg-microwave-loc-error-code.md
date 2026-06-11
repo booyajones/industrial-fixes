@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Control lock was intentionally or accidentally enabled"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Control panel / keypad assembly"
 ---
 
 ## LG Microwave LOC Error Code — What It Means

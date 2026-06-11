@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - carrier
+money_part: "Flame sensor"
 ---
 
 ## Carrier 25 Error Code — What It Means

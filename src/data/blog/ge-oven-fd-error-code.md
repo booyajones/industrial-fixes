@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "defective meat probe"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "GE oven meat probe"
 ---
 
 ## GE Oven FD Error Code — What It Means

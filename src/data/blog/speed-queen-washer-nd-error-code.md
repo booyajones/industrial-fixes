@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - speed-queen
+money_part: "Drain pump"
 ---
 
 ## Speed Queen Washer ND Error Code — What It Means

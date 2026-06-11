@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - bosch
+money_part: "Bosch washer pressure sensor"
 ---
 
 ## Bosch Washer F25 Error Code — What It Means

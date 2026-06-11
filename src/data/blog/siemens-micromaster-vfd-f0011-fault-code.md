@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Motor PTC thermistor / temperature sensor"
 ---
 
 ## Siemens Micromaster F0011 — What It Means

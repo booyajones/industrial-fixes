@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "drain hose installed incorrectly or kinked"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool washer drain pump assembly"
 ---
 
 ## Whirlpool drn Error Code — What It Means

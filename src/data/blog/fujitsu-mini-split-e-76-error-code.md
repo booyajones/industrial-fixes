@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Fujitsu outdoor unit operating valve thermistor"
 ---
 
 ## Fujitsu E:76 Error — What It Means

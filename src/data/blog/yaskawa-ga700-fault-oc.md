@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "Output reactor (load reactor)"
 ---
 
 ## Yaskawa GA700 OC Fault — What It Means

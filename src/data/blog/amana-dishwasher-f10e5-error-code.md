@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - amana
+money_part: "Door latch and switch assembly"
 ---
 
 ## Amana Dishwasher F10E5 Error Code — What It Means

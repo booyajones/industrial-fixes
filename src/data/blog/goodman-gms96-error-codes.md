@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - goodman
+money_part: "Hot-surface igniter"
 ---
 
 ## Goodman GMS96 Error Codes — What It Means

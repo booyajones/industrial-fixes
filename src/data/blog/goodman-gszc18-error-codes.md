@@ -10,6 +10,7 @@ tags:
   - hvac
   - goodman
   - heat-pump
+money_part: "Dual run capacitor"
 ---
 
 ## Goodman GSZC18 Heat Pump Error Codes — What They Mean

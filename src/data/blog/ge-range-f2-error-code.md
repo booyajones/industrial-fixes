@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Failed oven temperature sensor (RTD probe)"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "GE oven temperature sensor / RTD probe"
 ---
 
 ## GE Range F2 Error Code — What It Means

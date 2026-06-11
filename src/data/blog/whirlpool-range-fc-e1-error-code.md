@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - whirlpool
+money_part: "User interface control board (keypad assembly)"
 ---
 
 ## Whirlpool Range FC E1 Error Code — What It Means

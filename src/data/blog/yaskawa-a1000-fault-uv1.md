@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
   - a1000
+money_part: "Class J or semiconductor input fuses"
 ---
 
 ## Yaskawa A1000 Fault UV1, What It Means

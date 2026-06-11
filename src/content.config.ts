@@ -24,6 +24,7 @@ const blog = defineCollection({
       most_likely_cause: z.string().optional(),
       likelihood: z.string().optional(),
       diy_or_pro: z.enum(["diy", "pro"]).optional(),
+      money_part: z.string().optional(),
     }),
 });
 

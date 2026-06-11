@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Bypass Water Servo"
 ---
 
 ## State Water Heater E66 Error — What It Means

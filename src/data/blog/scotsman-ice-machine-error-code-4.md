@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - scotsman
+money_part: "Scotsman Ice Machine Cleaner (5 lb)"
 ---
 
 ## Scotsman Ice Machine Error Code 4 — What It Means

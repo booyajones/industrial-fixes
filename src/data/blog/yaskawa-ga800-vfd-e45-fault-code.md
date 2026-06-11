@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Blown input fuse or tripped upstream breaker"
 likelihood: "the most common field cause"
 diy_or_pro: "pro"
+money_part: "Input line fuses (Class J or T, matching drive rating)"
 ---
 
 ## Yaskawa GA800 E45 Fault — What It Means

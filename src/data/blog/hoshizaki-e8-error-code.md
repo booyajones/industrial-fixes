@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - hoshizaki
+money_part: "Low-pressure switch"
 ---
 
 ## Hoshizaki Ice Machine E8 Error Code — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "utility outage or tripped breaker"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Main electronic control board"
 ---
 
 ## Amana Refrigerator PO Error Code — What It Means

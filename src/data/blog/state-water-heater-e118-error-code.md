@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state-water-heaters
+money_part: "Filling loop hose kit"
 ---
 
 ## State Water Heater E118 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - daikin
+money_part: "Refrigerant charge"
 ---
 
 ## Daikin U4 Error Code — What It Means

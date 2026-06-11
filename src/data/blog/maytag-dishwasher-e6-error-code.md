@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - maytag
+money_part: "Water inlet valve"
 ---
 
 ## Maytag Dishwasher E6 Error Code — What It Means

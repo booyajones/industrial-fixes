@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - bosch
+money_part: "Oven temperature sensor (probe)"
 ---
 
 ## Bosch Oven E115 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "Rigid aluminum vent duct (4-inch)"
 ---
 
 ## Amana Dryer AF/F4E3 Error Code — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Loose or damaged water supply hose fittings"
 likelihood: "a major cause Samsung tells technicians to inspect first"
 diy_or_pro: "diy"
+money_part: "Samsung dishwasher water supply hose"
 ---
 
 ## Samsung Dishwasher LC Error Code — What It Means

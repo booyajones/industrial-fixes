@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - fanuc
+money_part: "Overtravel limit switch"
 ---
 
 ## Fanuc Alarm 6 Overtravel — What It Means

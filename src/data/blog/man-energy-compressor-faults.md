@@ -11,6 +11,7 @@ tags:
   - man-energy
   - industrial
   - centrifugal
+money_part: "Suction/discharge valve assemblies"
 ---
 
 ## MAN Energy Solutions Compressor Fault Codes — Quick Reference

@@ -11,6 +11,7 @@ tags:
   - turbochef
   - foodservice
   - commercial-kitchen
+money_part: "Type K thermocouple"
 ---
 
 ## TurboChef Oven Fault Codes — Quick Reference

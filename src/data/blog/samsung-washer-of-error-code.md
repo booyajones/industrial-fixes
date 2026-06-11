@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "stuck or leaking water inlet valve"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Water inlet valve assembly"
 ---
 
 ## Samsung Washer OF Error Code — What It Means

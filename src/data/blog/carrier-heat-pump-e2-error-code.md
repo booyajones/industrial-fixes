@@ -9,6 +9,7 @@ draft: true
 tags:
   - hvac
   - carrier
+money_part: "Indoor temperature sensor / room thermistor"
 ---
 
 ## Carrier Heat Pump E2 Error Code — What It Means

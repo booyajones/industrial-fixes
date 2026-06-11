@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - ao-smith
+money_part: "Thermistor / temperature sensor"
 ---
 
 ## A.O. Smith E2 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Gree indoor fan motor"
 ---
 
 ## Gree E8 Error Code — What It Means

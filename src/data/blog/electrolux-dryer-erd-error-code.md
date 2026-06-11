@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - electrolux
+money_part: "Moisture sensor bar assembly"
 ---
 
 ## Electrolux Dryer ERD Error Code — What It Means

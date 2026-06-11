@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - scotsman
   - ice-machine
+money_part: "Water curtain switch"
 ---
 
 ## Scotsman HID312 Error Codes — What They Mean

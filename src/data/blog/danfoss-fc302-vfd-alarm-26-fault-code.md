@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "IGBT power module"
 ---
 
 ## Danfoss FC302 Alarm 26 — What It Means

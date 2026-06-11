@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "Drive cooling fan"
 ---
 
 ## Yaskawa VFD Fault OH — What It Means

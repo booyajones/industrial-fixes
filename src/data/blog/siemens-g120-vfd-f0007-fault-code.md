@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Siemens G120 power module"
 ---
 
 ## Siemens G120 F0007 Fault Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
   - chiller
+money_part: "High pressure transducer (R-410A)"
 ---
 
 Carrier chillers are the workhorses of large commercial and industrial cooling systems — hotels, hospitals, data centers, office towers. When one faults, a building heats up fast. This guide covers the most common fault codes across the **30XA air-cooled scroll**, **30XV variable speed**, **30HXC water-cooled**, and **19XR centrifugal** chiller lines. You'll find alarm numbers, what triggers each fault, the most likely causes, diagnosis steps, and how to reset.

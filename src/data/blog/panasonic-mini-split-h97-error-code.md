@@ -9,6 +9,7 @@ draft: true
 tags:
   - mini-split
   - panasonic
+money_part: "Interconnecting cable (3-conductor)"
 ---
 
 ## Panasonic Mini-Split H97 Error Code — What It Means

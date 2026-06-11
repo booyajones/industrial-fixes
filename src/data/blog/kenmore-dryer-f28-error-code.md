@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - kenmore
+money_part: "Moisture sensor assembly"
 ---
 
 ## Kenmore Dryer F28 Error Code — What It Means

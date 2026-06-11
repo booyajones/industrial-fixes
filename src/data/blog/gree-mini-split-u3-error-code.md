@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Gree outdoor main control board / PCB"
 ---
 
 ## Gree U3 Error Code — What It Means

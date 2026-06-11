@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - fujitsu
+money_part: "Indoor DC fan motor"
 ---
 
 ## Fujitsu Mini Split E3 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - danfoss
   - refrigeration
   - akc-controller
+money_part: "AKC temperature sensor (NTC)"
 ---
 
 ## Danfoss AKC Controller Fault Codes - Quick Reference

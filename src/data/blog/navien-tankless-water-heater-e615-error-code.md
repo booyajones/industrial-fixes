@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - navien
+money_part: "Navien main control board / PCB"
 ---
 
 ## Navien E615 Error Code — What It Means

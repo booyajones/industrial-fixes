@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - lg
+money_part: "LG outdoor fan motor"
 ---
 
 ## LG Mini Split CH90 Error Code — What It Means

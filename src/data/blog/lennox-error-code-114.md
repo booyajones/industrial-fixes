@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - lennox
+money_part: "Hot surface igniter (HSI)"
 ---
 
 ## Lennox Error Code 114 — What It Means

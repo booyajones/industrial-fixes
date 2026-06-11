@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kitchenaid
+money_part: "KitchenAid dishwasher thermistor and OWI sensor"
 ---
 
 ## KitchenAid Dishwasher F3E1 Error Code — What It Means

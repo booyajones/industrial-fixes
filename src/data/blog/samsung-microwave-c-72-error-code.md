@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Moisture or steam exposure in the microwave electronics"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Steam sensor"
 ---
 
 ## Samsung Microwave C-72 Error — What It Means

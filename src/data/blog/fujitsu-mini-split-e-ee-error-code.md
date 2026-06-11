@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Outdoor fan motor"
 ---
 
 ## Fujitsu E:EE Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - furnace
   - lennox
+money_part: "Blower motor wiring harness"
 ---
 
 ## Lennox E204 Error Code — What It Means

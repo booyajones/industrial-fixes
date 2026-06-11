@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kenmore
+money_part: "Dishwasher drain pump"
 ---
 
 ## Kenmore Dishwasher F9E1 Error — What It Means

@@ -11,6 +11,7 @@ tags:
   - dryer
   - lg
 diy_or_pro: "diy"
+money_part: "Heater assembly (washer-dryer combo)"
 ---
 
 ## LG Dryer HE Error Code — What It Means

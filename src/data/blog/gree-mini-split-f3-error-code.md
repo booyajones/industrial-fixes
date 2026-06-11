@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Gree outdoor ambient temperature sensor / thermistor"
 ---
 
 ## Gree F3 Error Code — What It Means

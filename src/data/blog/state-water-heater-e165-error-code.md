@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state-water-heater
+money_part: "Air intake screen or filter assembly"
 ---
 
 ## State Water Heater E165 Error Code — What It Means

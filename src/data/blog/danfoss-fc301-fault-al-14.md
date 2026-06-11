@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Motor output cable"
 ---
 
 ## Danfoss FC301 Fault AL 14 — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - mini-split
   - york
+money_part: "Communication wire"
 ---
 
 ## York Mini Split Error Code E1 — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "Amana dryer lint screen"
 ---
 
 ## Amana Dryer F30 Error Code — What It Means

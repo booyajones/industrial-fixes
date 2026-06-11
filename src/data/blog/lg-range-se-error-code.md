@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - lg
+money_part: "Oven temperature sensor or thermistor assembly"
 ---
 
 ## LG Range SE Error Code — What It Means

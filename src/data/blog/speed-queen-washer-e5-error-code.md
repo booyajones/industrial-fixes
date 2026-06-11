@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - speed-queen
+money_part: "Speed Queen micro-wand programming tool"
 ---
 
 ## Speed Queen Washer E5 Error Code — What It Means

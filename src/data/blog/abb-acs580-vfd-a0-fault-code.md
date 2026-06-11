@@ -9,6 +9,7 @@ draft: true
 tags:
   - vfd
   - abb
+money_part: "ABB ACS580 input line fuse kit"
 ---
 
 ## ABB ACS580 A0 Fault Code — What It Means

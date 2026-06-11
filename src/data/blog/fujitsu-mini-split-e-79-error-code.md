@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Fujitsu thermistor sensor"
 ---
 
 ## Fujitsu E:79 Error Code — What It Means

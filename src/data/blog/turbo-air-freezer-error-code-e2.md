@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - turbo-air
+money_part: "Door gasket"
 ---
 
 ## Turbo Air Freezer Error Code E2 — What It Means

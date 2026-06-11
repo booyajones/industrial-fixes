@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Tripped breaker or loose power-cord connection"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool dryer main control board"
 ---
 
 ## Whirlpool Dryer PF Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - rheem
+money_part: "Flame sensor"
 ---
 
 ## Rheem Furnace 7 Flashes Error Code — What It Means

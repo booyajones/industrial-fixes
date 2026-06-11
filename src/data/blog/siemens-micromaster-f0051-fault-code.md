@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Siemens Micromaster replacement drive (same model and frame size)"
 ---
 
 ## Siemens Micromaster F0051 — What It Means

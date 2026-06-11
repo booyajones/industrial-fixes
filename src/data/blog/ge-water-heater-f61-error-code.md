@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - ge
+money_part: "Temperature sensor (thermistor)"
 ---
 
 ## GE Water Heater F61 Error Code — What It Means

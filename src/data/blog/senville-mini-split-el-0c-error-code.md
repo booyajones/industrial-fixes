@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - senville
+money_part: "Senville indoor PCB (control board)"
 ---
 
 ## Senville Mini Split EL 0C Error Code — What It Means

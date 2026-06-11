@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Gree evaporator or condenser coil thermistor / temperature sensor"
 ---
 
 ## Gree Mini Split F2 Error Code — What It Means

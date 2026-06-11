@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - goodman
+money_part: "Goodman integrated control board or control module"
 ---
 
 ## Goodman D3 Error Code — What It Means

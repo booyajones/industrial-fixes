@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - victory
+money_part: "NTC temperature sensor"
 ---
 
 ## Victory Refrigeration Error Code E1 — What It Means

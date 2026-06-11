@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - ecosmart
+money_part: "EcoSmart inlet thermistor"
 ---
 
 ## EcoSmart Eco 28 Error Codes — What It Means

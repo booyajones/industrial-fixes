@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - scotsman
+money_part: "Water inlet valve"
 ---
 
 ## Scotsman Ice Machine Error Code 7 — What It Means

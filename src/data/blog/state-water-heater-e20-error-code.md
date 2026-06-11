@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Air Intake Filter or Screen"
 ---
 
 ## State Water Heater E20 Error Code — What It Means

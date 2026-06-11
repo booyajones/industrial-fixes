@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - kenmore
+money_part: "Oven temperature sensor / RTD probe"
 ---
 
 ## Kenmore Oven F31 Error Code — What It Means

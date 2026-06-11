@@ -9,6 +9,7 @@ draft: true
 tags:
   - mini-split
   - samsung
+money_part: "Samsung indoor temperature sensor (TA)"
 ---
 
 ## Samsung Mini Split E4-01 Error Code — What It Means

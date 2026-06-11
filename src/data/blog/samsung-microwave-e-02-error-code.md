@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Temporary control glitch"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung Microwave Control Panel / Touch Keypad Assembly"
 ---
 
 ## Samsung Microwave E-02 Error — What It Means

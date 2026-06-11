@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "Main control board (electronic control)"
 ---
 
 ## Amana Dryer F6E3 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - goodman
+money_part: "Control board fuse (3A or 5A)"
 ---
 
 ## Goodman 1 Flash Error Code — What It Means

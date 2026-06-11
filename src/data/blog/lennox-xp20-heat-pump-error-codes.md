@@ -8,6 +8,7 @@ tags:
   - heat-pump
   - lennox
   - error-codes
+money_part: "Outdoor control board (103686-06 / 1184-510)"
 ---
 
 ## Lennox XP20 Heat Pump Error Codes

@@ -11,6 +11,7 @@ tags:
   - fanuc
   - servo
   - z-axis
+money_part: "Way lube metering unit"
 ---
 
 ## Fanuc Alarm 409 — What It Means

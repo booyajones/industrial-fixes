@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - state-water-heaters
+money_part: "State water heater control board"
 ---
 
 ## State Water Heater E154 Error Code — What It Means

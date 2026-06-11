@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - carrier
+money_part: "Carrier blower motor"
 ---
 
 ## Carrier Error Code 15 — What It Means

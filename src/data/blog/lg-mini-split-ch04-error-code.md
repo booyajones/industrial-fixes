@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - lg
+money_part: "LG mini split condensate pump"
 ---
 
 ## LG Mini Split CH04 Error Code — What It Means

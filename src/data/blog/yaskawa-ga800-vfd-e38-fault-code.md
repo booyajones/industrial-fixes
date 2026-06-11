@@ -9,6 +9,7 @@ draft: true
 tags:
   - vfd
   - yaskawa
+money_part: "Yaskawa GA800 option card"
 ---
 
 ## Yaskawa GA800 E38 Fault Code — What It Means

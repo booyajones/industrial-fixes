@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Indoor control board (PCB)"
 ---
 
 ## Mitsubishi E6 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mrcool
+money_part: "Indoor pipe temperature sensor (thermistor)"
 ---
 
 ## MRCOOL EL 0C Error Code — What It Means

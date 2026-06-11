@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "temporary control fault or moisture intrusion"
 likelihood: "the most common cause that clears with a power reset"
 diy_or_pro: "pro"
+money_part: "Temperature sensor / thermistor (model-specific)"
 ---
 
 ## Samsung E-23 Microwave Error — What It Means

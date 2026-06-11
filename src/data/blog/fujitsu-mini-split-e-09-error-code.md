@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Fujitsu float switch assembly"
 ---
 
 ## Fujitsu E:09 Error Code — What It Means

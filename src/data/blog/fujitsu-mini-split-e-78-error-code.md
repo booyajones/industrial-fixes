@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Fujitsu indoor unit thermistor"
 ---
 
 ## Fujitsu E:78 Error Code — What It Means

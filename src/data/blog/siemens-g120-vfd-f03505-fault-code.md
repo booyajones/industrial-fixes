@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Shielded analog signal cable"
 ---
 
 ## Siemens G120 F03505 — What It Means

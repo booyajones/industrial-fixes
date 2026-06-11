@@ -10,9 +10,13 @@ tags:
   - appliance
   - dryer
   - maytag
+<<<<<<< Updated upstream
 most_likely_cause: "Missing one leg of supply power at the terminal block or breaker"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+=======
+money_part: "Main electronic control board"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag Dryer F78 Error Code — What It Means

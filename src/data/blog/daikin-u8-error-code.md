@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - daikin
+money_part: "Daikin remote controller assembly"
 ---
 
 ## Daikin U8 Error Code — What It Means

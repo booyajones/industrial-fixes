@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - ruud
+money_part: "Igniter / spark electrode"
 ---
 
 ## Ruud E74 Error Code — What It Means

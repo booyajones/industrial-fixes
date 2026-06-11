@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - icp
+money_part: "Air filter"
 ---
 
 ## ICP Furnace E4 Error Code — What It Means

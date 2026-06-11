@@ -9,6 +9,7 @@ draft: true
 tags:
   - mini-split
   - samsung
+money_part: "Outdoor ambient temperature sensor"
 ---
 
 ## Samsung Mini-Split E1-01 Error Code — What It Means

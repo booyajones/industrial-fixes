@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Failed soft-charge bypass relay or control board"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Yaskawa GA800 control board (model-specific)"
 ---
 
 ## Yaskawa GA800 E73 Fault — What It Means

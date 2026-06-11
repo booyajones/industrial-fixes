@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Fujitsu indoor unit control PCB"
 ---
 
 ## Fujitsu Mini Split E:80 Error — What It Means

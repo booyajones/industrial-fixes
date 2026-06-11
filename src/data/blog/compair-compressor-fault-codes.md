@@ -10,6 +10,7 @@ tags:
   - compressor
   - compair
   - industrial
+money_part: "Oil separator element"
 ---
 
 ## CompAir Compressor Fault Codes - Quick Reference

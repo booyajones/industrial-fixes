@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "miswired outlet or appliance connection"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Electronic Control Board (Oven Control)"
 ---
 
 ## Whirlpool Oven F9 Error Code — What It Means

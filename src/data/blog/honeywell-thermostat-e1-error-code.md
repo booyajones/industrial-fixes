@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - honeywell
+money_part: "Replacement Honeywell thermostat"
 ---
 
 ## Honeywell Thermostat E1 Error Code — What It Means

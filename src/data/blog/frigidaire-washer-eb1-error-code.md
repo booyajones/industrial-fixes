@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - frigidaire
+money_part: "Main control board"
 ---
 
 ## Frigidaire Washer EB1 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - mini-split
   - daikin
+money_part: "Condenser fan motor"
 ---
 
 ## Daikin U9 Error Code — What It Means

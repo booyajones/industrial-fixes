@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed sensor or loose connector"
 likelihood: "the most common field causes"
 diy_or_pro: "pro"
+money_part: "Gas/Easy/PH Sensor Assembly"
 ---
 
 ## Samsung Microwave C-11 Error Code — What It Means

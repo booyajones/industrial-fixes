@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Fujitsu indoor unit switch board assembly"
 ---
 
 ## Fujitsu E:35 Error — What It Means

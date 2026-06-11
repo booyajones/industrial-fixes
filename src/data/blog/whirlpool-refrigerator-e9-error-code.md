@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Door left open or ajar"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Freezer thermistor / temperature sensor"
 ---
 
 ## Whirlpool Refrigerator E9 Error Code — What It Means

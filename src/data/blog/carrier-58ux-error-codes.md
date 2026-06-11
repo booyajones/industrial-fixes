@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
   - furnace
+money_part: "Flame sensor"
 ---
 
 ## Carrier 58UX Furnace Error Codes — What They Mean

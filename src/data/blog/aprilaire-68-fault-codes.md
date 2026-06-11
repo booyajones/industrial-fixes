@@ -10,6 +10,7 @@ tags:
   - dehumidifier
   - aprilaire
   - hvac
+money_part: "Air filter"
 ---
 
 ## Aprilaire 68 Dehumidifier Fault Codes — Quick Reference

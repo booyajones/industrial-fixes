@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - samsung
+money_part: "Drain pump assembly"
 ---
 
 ## Samsung Washer bE5 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - furnace
   - carrier
+money_part: "Carrier flame sensor"
 ---
 
 ## Carrier Error Code 34 — What It Means

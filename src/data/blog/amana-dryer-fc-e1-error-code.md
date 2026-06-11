@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "Main control board"
 ---
 
 ## Amana Dryer FC E1 Error Code — What It Means

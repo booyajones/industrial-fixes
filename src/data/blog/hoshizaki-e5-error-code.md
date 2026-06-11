@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - hoshizaki
+money_part: "Condenser fan motor"
 ---
 
 ## Hoshizaki E5 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - fanuc
+money_part: "Y-axis encoder cable"
 ---
 
 ## Fanuc Alarm 435 — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Outdoor pipe thermistor sensor"
 ---
 
 ## Fujitsu E:06 Error Code — What It Means

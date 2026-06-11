@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - speed-queen
+money_part: "Speed Queen washer main control board"
 ---
 
 ## Speed Queen Washer ESd Error Code — What It Means

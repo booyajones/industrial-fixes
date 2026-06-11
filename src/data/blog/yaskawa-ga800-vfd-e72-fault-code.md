@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Worn or damaged soft-charge bypass relay contacts or coil"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Yaskawa GA800 control board"
 ---
 
 ## Yaskawa GA800 E72 Fault — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - mini-split
   - mitsubishi
+money_part: "Condensate drain pan tablets"
 ---
 
 ## Mitsubishi E4 Error Code — What It Means

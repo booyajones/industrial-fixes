@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - daikin
+money_part: "Transmission wiring cable"
 ---
 
 ## Daikin UH Error Code — What It Means

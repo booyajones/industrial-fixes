@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - kenmore
+money_part: "Console electronics board (user interface board)"
 ---
 
 ## Kenmore Dryer F70 Error Code — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed bake or broil heating element"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung oven bake element"
 ---
 
 ## Samsung Oven E-08 Error Code — What It Means

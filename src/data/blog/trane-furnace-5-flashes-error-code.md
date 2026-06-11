@@ -10,6 +10,7 @@ tags:
   - hvac
   - furnace
   - trane
+money_part: "Flame sensor / flame rod"
 ---
 
 ## Trane Furnace 5 Flashes — What It Means

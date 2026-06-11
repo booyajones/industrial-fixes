@@ -10,9 +10,13 @@ tags:
   - appliance
   - washer
   - maytag
+<<<<<<< Updated upstream
 most_likely_cause: "failed shift actuator"
 likelihood: "the most commonly cited cause"
 diy_or_pro: "pro"
+=======
+money_part: "Maytag washer shift actuator"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag Washer F7E5 Error Code — What It Means

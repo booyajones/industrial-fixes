@@ -10,6 +10,7 @@ tags:
   - hvac
   - furnace
   - rheem
+money_part: "High limit switch"
 ---
 
 ## Rheem Furnace 3 Flashes — What It Means

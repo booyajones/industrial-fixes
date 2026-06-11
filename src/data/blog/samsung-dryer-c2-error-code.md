@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - samsung
+money_part: "Electronic control board (main PCB)"
 ---
 
 ## Samsung Dryer C2 Error Code — What It Means

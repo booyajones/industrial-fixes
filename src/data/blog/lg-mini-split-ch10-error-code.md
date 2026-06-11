@@ -9,6 +9,7 @@ draft: true
 tags:
   - mini-split
   - lg
+money_part: "Communication wire (18 AWG, 3-conductor)"
 ---
 
 ## LG Mini Split CH10 Error Code — What It Means

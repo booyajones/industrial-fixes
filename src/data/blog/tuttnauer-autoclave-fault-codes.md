@@ -11,6 +11,7 @@ tags:
   - autoclave
   - sterilizer
   - medical
+money_part: "PT100 temperature sensor"
 ---
 
 ## Tuttnauer Autoclave Fault Codes - Quick Reference

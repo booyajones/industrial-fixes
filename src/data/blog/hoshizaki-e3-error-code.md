@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - hoshizaki
+money_part: "Hot gas bypass valve"
 ---
 
 ## Hoshizaki E3 Error Code — What It Means

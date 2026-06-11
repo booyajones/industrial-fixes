@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Accidental entry into test mode via button combination"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "LG dishwasher control panel (user interface assembly)"
 ---
 
 ## LG Dishwasher CR Error Code — What It Means

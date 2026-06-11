@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - mazak
+money_part: "MDS servo amplifier"
 ---
 
 ## Mazak Alarm 50 Servo — What It Means

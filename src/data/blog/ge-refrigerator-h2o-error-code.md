@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Filter at end of service life"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "GE water filter (model-specific)"
 ---
 
 ## GE Refrigerator H2O Error Code — What It Means

@@ -10,9 +10,13 @@ tags:
   - appliance
   - washer
   - frigidaire
+<<<<<<< Updated upstream
 most_likely_cause: "defective door lock assembly or PTC element"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Main electronic control board"
+>>>>>>> Stashed changes
 ---
 
 ## Frigidaire Washer E45 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - lincoln
   - foodservice
   - commercial-kitchen
+money_part: "Type K thermocouple"
 ---
 
 ## Lincoln Impinger Conveyor Oven Fault Codes — Quick Reference

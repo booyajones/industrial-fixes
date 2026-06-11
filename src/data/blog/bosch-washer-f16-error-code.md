@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - bosch
+money_part: "Door lock / door interlock assembly"
 ---
 
 ## Bosch Washer F16 Error Code — What It Means

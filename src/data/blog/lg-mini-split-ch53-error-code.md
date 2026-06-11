@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - lg
+money_part: "Indoor main PCB / control board"
 ---
 
 ## LG Mini Split CH53 Error Code — What It Means

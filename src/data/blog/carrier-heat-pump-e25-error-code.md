@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - carrier
+money_part: "Carrier inverter power module (IPM)"
 ---
 
 ## Carrier E25 Error Code — What It Means

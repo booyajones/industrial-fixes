@@ -10,6 +10,7 @@ tags:
   - compressor
   - gardner-denver
   - industrial
+money_part: "Oil separator"
 ---
 
 ## Gardner Denver Compressor Fault Codes — Quick Reference

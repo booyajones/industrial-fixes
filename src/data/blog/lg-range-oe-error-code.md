@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - lg
+money_part: "LG washer drain pump assembly"
 ---
 
 ## LG OE Error Code — What It Means

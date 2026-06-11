@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - kitchenaid
+money_part: "Door latch and lock assembly"
 ---
 
 ## KitchenAid Oven Lock Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - refrigerator
   - maytag
+money_part: "User Interface / Display Control Board"
 ---
 
 ## Maytag Refrigerator C1 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - allen-bradley
+money_part: "Motor bearings"
 ---
 
 ## Allen-Bradley PowerFlex Fault F063 — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - coleman
+money_part: "Pressure switch"
 ---
 
 ## Coleman Furnace E2 Error Code — What It Means

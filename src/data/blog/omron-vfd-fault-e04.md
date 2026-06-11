@@ -11,6 +11,7 @@ tags:
   - omron
   - mx2
   - ground-fault
+money_part: "VFD-rated motor cable"
 ---
 
 ## Omron 3G3MX2 E04 Fault — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi-heavy-industries
+money_part: "Outdoor unit control PCB (printed circuit board)"
 ---
 
 ## Mitsubishi E5 Error Code — What It Means

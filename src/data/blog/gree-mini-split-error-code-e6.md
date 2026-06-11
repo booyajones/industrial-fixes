@@ -9,6 +9,7 @@ draft: false
 tags:
   - mini-split
   - gree
+money_part: "Communication wire (3-conductor, 18 AWG)"
 ---
 
 ## Gree Mini-Split E6 Error Code — What It Means

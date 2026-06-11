@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "TurboFreeze was turned on"
 likelihood: "the most common reason"
 diy_or_pro: "diy"
+money_part: "GE refrigerator control board"
 ---
 
 ## GE Refrigerator tF Code — What It Means

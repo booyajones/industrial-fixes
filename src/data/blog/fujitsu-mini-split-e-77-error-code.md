@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Outdoor unit heat sink thermistor"
 ---
 
 ## Fujitsu E:77 Error — What It Means

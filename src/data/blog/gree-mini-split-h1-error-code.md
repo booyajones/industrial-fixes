@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Outdoor defrost / temperature sensor"
 ---
 
 ## Gree H1 Error Code — What It Means

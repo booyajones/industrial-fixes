@@ -10,6 +10,7 @@ tags:
   - cnc
   - mazak
   - tool-changer
+money_part: "Proximity sensor"
 ---
 
 ## Mazak Alarm 800 — What It Means

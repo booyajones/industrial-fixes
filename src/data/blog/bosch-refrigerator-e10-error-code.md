@@ -10,6 +10,7 @@ tags:
   - appliance
   - refrigerator
   - bosch
+money_part: "Bosch refrigerator main control board"
 ---
 
 ## Bosch Refrigerator E10 Error — What It Means

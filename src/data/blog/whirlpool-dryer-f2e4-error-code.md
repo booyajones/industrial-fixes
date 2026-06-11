@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Failed user interface console board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "User interface / console assembly"
 ---
 
 ## Whirlpool Dryer F2E4 Error Code — What It Means

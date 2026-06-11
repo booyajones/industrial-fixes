@@ -9,6 +9,7 @@ draft: false
 tags:
   - mini-split
   - pioneer
+money_part: "Communication / signal wire (18 AWG)"
 ---
 
 ## Pioneer Mini Split E1 Error Code — What It Means

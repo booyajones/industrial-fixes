@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - frigidaire
+money_part: "Main Electronic Control Board"
 ---
 
 ## Frigidaire Dryer AL-10 Error Code — What It Means

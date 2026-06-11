@@ -10,6 +10,7 @@ tags:
   - appliance
   - microwave
   - kenmore
+money_part: "Microwave thermistor / temperature sensor"
 ---
 
 ## Kenmore Microwave E1 Error Code — What It Means

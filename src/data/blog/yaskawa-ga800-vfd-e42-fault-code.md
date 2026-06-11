@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Loose, oxidized, or partially seated encoder connector"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Encoder connector and mating cable assembly"
 ---
 
 ## Yaskawa GA800 E42 Fault — What It Means

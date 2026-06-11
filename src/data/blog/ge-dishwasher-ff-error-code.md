@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - ge
+money_part: "Freezer door gasket"
 ---
 
 ## GE Dishwasher FF Error Code — What It Means

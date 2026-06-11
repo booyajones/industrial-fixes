@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - lennox
+money_part: "Rollout switch (limit switch)"
 ---
 
 ## Lennox Error Code 231 — What It Means

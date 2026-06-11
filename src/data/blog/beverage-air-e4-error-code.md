@@ -13,6 +13,7 @@ tags:
   - refrigeration-repair
   - error-codes
 description: "Beverage-Air E4 error code explained. Learn what E4 means on Beverage-Air refrigerators and freezers, common causes, how to test the defrost or evaporator sensor, and when the problem points to a bigger refrigeration issue."
+money_part: "Evaporator or defrost sensor"
 ---
 
 ## Beverage-Air Error Code E4

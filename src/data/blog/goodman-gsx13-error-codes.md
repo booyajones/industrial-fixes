@@ -10,6 +10,7 @@ tags:
   - hvac
   - goodman
   - air-conditioner
+money_part: "Dual run capacitor"
 ---
 
 ## Goodman GSX13 Air Conditioner Error Codes — What They Mean

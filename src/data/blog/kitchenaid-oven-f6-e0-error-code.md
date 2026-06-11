@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - kitchenaid
+money_part: "KitchenAid Oven Main Control Board"
 ---
 
 ## KitchenAid F6 E0 Error Code — What It Means

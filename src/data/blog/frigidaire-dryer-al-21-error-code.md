@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - frigidaire
+money_part: "Door switch"
 ---
 
 ## Frigidaire Dryer AL-21 Error Code — What It Means

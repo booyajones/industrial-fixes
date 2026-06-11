@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "Yaskawa GA800 keypad/display module"
 ---
 
 ## Yaskawa GA800 E06 Fault Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - navien
+money_part: "Air pressure sensor (switch)"
 ---
 
 ## Navien E029 Error Code — What It Means

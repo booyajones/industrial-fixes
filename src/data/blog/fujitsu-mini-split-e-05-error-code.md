@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Fujitsu indoor pipe thermistor / heat exchanger temperature sensor"
 ---
 
 ## Fujitsu Mini Split E:05 Error — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - lg
+money_part: "Oven temperature sensor / thermistor"
 ---
 
 ## LG Range E0 Error Code — What It Means

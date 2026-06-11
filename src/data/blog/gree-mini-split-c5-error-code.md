@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "PCB jumper cap / configuration jumper"
 ---
 
 ## Gree Mini Split C5 Error Code — What It Means

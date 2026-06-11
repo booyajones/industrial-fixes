@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kitchenaid
+money_part: "Oven temperature sensor (thermistor)"
 ---
 
 ## KitchenAid F3E2 Error Code — What It Means

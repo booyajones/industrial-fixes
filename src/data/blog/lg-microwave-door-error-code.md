@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Foreign material, packaging, crumbs, or grease preventing full latch engagement"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "LG microwave door latch assembly"
 ---
 
 ## LG Microwave DOOR Error — What It Means

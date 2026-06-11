@@ -9,6 +9,7 @@ draft: false
 tags:
   - pump
   - graco
+money_part: "Throat seal liquid and wet cup parts"
 ---
 
 Graco uses two very different fault systems across its pump line. Air-operated pumps like the Merkur, President, Husky, and SaniForce usually do not show numeric fault codes on the pump itself. They fail by symptom: runaway, low output, icing, leaking checks, or stall. Electric E-Flo systems do show real electronic fault codes through the display, the control module, and the motor power LED blink sequence.

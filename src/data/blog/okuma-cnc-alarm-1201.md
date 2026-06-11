@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - okuma
+money_part: "Spindle amplifier cooling fan"
 ---
 
 ## Okuma CNC Alarm 1201 — What It Means

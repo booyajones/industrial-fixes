@@ -10,6 +10,7 @@ tags:
   - hvac
   - furnace
   - carrier
+money_part: "Hot-surface igniter"
 ---
 
 ## Carrier Furnace Error Code 14 — What It Means

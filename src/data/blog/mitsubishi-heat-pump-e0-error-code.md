@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Mitsubishi remote controller (model-specific)"
 ---
 
 ## Mitsubishi E0 Error Code — What It Means

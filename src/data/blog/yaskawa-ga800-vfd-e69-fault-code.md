@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Missing or removed STO jumper on terminals M3 and M4"
 likelihood: "the most common field cause"
 diy_or_pro: "pro"
+money_part: "STO jumper wire or terminal block jumper"
 ---
 
 ## Yaskawa GA800 E69 Fault — What It Means

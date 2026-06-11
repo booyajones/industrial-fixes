@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kitchenaid
+money_part: "KitchenAid dishwasher heating element"
 ---
 
 ## KitchenAid Dishwasher F7E1 Error Code — What It Means

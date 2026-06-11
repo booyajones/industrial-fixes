@@ -9,6 +9,7 @@ draft: true
 tags:
   - hvac
   - lg
+money_part: "Outdoor ambient temperature sensor"
 ---
 
 ## LG Mini Split CH02 Error Code — What It Means

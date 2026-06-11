@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - bosch
+money_part: "Door lock assembly"
 ---
 
 ## Bosch Oven ER6 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - daikin
+money_part: "Daikin indoor heat-exchanger temperature sensor"
 ---
 
 ## Daikin A5 Error Code — What It Means

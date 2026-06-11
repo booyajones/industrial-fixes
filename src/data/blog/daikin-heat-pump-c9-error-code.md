@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - daikin
+money_part: "Indoor suction air thermistor"
 ---
 
 ## Daikin C9 Error Code — What It Means

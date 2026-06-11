@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - lennox
+money_part: "Rollout limit switch (manual reset)"
 ---
 
 ## Lennox Error Code 414 Rollout — What It Means

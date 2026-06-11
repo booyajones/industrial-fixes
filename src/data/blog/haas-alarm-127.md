@@ -10,6 +10,7 @@ tags:
   - cnc
   - haas
   - spindle
+money_part: "Unclamp switch"
 ---
 
 ## Haas Alarm 127 — What It Means

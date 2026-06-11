@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - pioneer
+money_part: "Pioneer T2 evaporator coil temperature sensor (thermistor)"
 ---
 
 ## Pioneer E5 Error Code — What It Means

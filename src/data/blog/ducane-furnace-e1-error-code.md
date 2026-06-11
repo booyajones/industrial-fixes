@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - ducane
+money_part: "Pressure switch"
 ---
 
 ## Ducane Furnace E1 Error Code — What It Means

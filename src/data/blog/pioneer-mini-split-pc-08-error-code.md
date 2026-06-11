@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - pioneer
+money_part: "Pioneer outdoor control board (PCB)"
 ---
 
 ## Pioneer PC 08 Error Code — What It Means

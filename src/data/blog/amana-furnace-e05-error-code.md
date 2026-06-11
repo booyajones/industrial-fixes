@@ -10,6 +10,7 @@ tags:
   - hvac
   - furnace
   - amana
+money_part: "Furnace control board fuse"
 ---
 
 ## Amana Furnace E05 Error Code — What It Means

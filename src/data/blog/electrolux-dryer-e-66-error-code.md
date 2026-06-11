@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - electrolux
+money_part: "Thermal limiter / thermal fuse / thermal cutoff"
 ---
 
 ## Electrolux Dryer E66 Error Code — What It Means

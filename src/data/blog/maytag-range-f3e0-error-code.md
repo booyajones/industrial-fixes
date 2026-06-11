@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed oven temperature sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Oven Temperature Sensor (Sensor Probe / RTD)"
 ---
 
 ## Maytag Range F3E0 Error Code — What It Means

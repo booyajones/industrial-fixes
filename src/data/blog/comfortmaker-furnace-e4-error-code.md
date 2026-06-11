@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - comfortmaker
+money_part: "Hot surface igniter"
 ---
 
 ## Comfortmaker Furnace E4 Error Code — What It Means

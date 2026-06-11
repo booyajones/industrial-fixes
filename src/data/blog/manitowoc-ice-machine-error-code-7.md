@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - manitowoc
+money_part: "Bin thermostat / bin sensor"
 ---
 
 ## Manitowoc Ice Machine Error Code 7 — What It Means

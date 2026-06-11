@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "Main control board (electronic machine control)"
 ---
 
 ## Amana Dryer F01 Error Code — What It Means

@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Missing or removed factory STO jumper with no external safety circuit wired in its place"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Yaskawa GA800 STO jumper"
 ---
 
 ## Yaskawa GA800 E79 — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "actual water leak or kinked hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung washer water-level / leak sensor"
 ---
 
 ## Samsung Washer LE Error Code — What It Means

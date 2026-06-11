@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed wash motor or circulation motor assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "LG dishwasher wash motor / circulation motor assembly"
 ---
 
 ## LG Dishwasher CE Error Code — What It Means

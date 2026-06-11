@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - pioneer
+money_part: "Pioneer outdoor control board / mainboard"
 ---
 
 ## Pioneer PC 01 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - motor-control
   - oriental-motor
   - stepper
+money_part: "Driver unit"
 ---
 
 ## Oriental Motor AlphaStep Fault Codes — Quick Reference

@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Igniter and flame rod assembly"
 ---
 
 ## State Water Heater E140 Error Code — What It Means

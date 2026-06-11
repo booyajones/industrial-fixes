@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - goodman
+money_part: "Outlet polarity tester"
 ---
 
 ## Goodman 9 Flash Error Code — What It Means

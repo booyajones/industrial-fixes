@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - carrier
+money_part: "IFC control board"
 ---
 
 ## Carrier 46 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - abb
   - circuit-breaker
   - electrical
+money_part: "Ekip trip unit"
 ---
 
 ## ABB Circuit Breaker Fault Codes - Quick Reference

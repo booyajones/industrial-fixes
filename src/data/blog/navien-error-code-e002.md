@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - navien
+money_part: "Igniter/electrode assembly"
 ---
 
 ## Navien E002 Error Code — What It Means

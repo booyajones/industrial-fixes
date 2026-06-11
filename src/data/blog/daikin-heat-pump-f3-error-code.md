@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - daikin
+money_part: "Daikin discharge pipe thermistor"
 ---
 
 ## Daikin F3 Error Code — What It Means

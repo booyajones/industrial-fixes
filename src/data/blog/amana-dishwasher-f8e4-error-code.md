@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - amana
+money_part: "Water inlet hose or elbow fitting"
 ---
 
 ## Amana Dishwasher F8E4 Error — What It Means

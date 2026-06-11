@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Open thermal fuse in the defrost sensor assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Defrost sensor / thermal fuse assembly"
 ---
 
 ## Kenmore Er dH Error Code — What It Means

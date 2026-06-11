@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mrcool
+money_part: "Pressure switch"
 ---
 
 ## MRCOOL P6 Error Code — What It Means

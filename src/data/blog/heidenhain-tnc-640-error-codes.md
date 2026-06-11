@@ -10,6 +10,7 @@ tags:
   - cnc
   - heidenhain
   - industrial
+money_part: "Encoder cable"
 ---
 
 ## Heidenhain TNC 640 Error Codes — What They Mean

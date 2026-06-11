@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "loose, disconnected, or damaged wiring or connector between the main control and user interface"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool dryer user interface console"
 ---
 
 ## Whirlpool Dryer F6E3 Error Code — What It Means

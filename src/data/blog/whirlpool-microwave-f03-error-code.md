@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "humidity thermistor fault or sensor-cooking circuit failure"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool microwave humidity thermistor"
 ---
 
 ## Whirlpool Microwave F03 Error Code — What It Means

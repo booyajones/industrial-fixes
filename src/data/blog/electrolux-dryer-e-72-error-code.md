@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - electrolux
+money_part: "Outlet thermistor / outlet NTC sensor"
 ---
 
 ## Electrolux Dryer E72 Error Code — What It Means

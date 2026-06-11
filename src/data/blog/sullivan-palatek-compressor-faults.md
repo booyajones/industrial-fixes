@@ -10,6 +10,7 @@ tags:
   - compressor
   - sullivan-palatek
   - industrial
+money_part: "Oil filter"
 ---
 
 ## Sullivan-Palatek Compressor Fault Codes — Quick Reference

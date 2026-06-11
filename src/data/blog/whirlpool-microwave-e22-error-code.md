@@ -11,6 +11,7 @@ tags:
   - microwave
   - whirlpool
 diy_or_pro: "pro"
+money_part: "Main control board (electronic control)"
 ---
 
 ## Whirlpool Microwave E22 Error Code — What It Means

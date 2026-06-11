@@ -10,6 +10,7 @@ tags:
   - hvac
   - windmill
   - mini-split
+money_part: "Indoor filter"
 ---
 
 ## Windmill AC Mini Split Error Codes — What They Mean

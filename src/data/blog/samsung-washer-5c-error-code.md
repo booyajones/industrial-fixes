@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "clogged drain pump filter or coin trap"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Drain pump assembly"
 ---
 
 ## Samsung Washer 5C Error Code — What It Means

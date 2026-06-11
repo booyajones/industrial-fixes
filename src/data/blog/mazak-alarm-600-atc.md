@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - mazak
+money_part: "ATC proximity switch"
 ---
 
 ## Mazak Alarm 600 ATC — What It Means

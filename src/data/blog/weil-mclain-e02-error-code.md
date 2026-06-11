@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - weil-mclain
+money_part: "Circulator pump"
 ---
 
 ## Weil-McLain E02 Error Code — What It Means

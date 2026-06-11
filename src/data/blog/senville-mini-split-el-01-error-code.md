@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - senville
+money_part: "Indoor control board (PCB)"
 ---
 
 ## Senville Mini Split EL 01 Error Code — What It Means

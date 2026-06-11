@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - state
+money_part: "State OEM Gas Control Valve Assembly"
 ---
 
 ## State Water Heater E74 Error Code — What It Means

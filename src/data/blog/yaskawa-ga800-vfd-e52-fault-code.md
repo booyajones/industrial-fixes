@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Unstable incoming utility voltage or a failing main-circuit magnetic contactor"
 likelihood: "the most common causes"
 diy_or_pro: "pro"
+money_part: "Magnetic contactor (main circuit)"
 ---
 
 ## Yaskawa GA800 E52 Fault — What It Means

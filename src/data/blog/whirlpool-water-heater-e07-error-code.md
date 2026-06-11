@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - whirlpool
+money_part: "Lower thermistor sensor"
 ---
 
 ## Whirlpool Water Heater E07 Error — What It Means

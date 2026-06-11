@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - ecosmart
+money_part: "EcoSmart internal control board fuse"
 ---
 
 ## EcoSmart ECO 19 Error Codes — What It Means

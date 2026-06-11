@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - goodman
+money_part: "Condenser fan motor (Goodman)"
 ---
 
 ## Goodman E8 Error Code — What It Means

@@ -10,9 +10,13 @@ tags:
   - appliance
   - dryer
   - maytag
+<<<<<<< Updated upstream
 most_likely_cause: "Door not pushed in far enough to engage the latch"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Door latch assembly"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag Dryer ERR Error Code — What It Means

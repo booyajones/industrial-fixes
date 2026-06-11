@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Failed main control board PCB"
 likelihood: "the most common real cause"
 diy_or_pro: "diy"
+money_part: "Main control board PCB"
 ---
 
 ## Samsung Microwave C-F1 Error — What It Means

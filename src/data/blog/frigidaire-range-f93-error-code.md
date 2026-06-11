@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "failed door lock motor or latch assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Door latch assembly (Frigidaire OEM)"
 ---
 
 ## Frigidaire F93 Error Code — What It Means

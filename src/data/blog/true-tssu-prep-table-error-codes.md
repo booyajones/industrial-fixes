@@ -13,6 +13,7 @@ tags:
   - restaurant-equipment
   - error-codes
 description: "True TSSU sandwich and salad prep table error codes explained. Diagnose E1, E2, E3, E4, high temperature alarms, and common no-cool faults on one of the most common restaurant prep refrigerators."
+money_part: "Cabinet temperature sensor"
 ---
 
 ## Error Codes: True TSSU Prep Tables

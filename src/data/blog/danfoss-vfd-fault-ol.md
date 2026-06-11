@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Larger frame motor"
 ---
 
 ## Danfoss VFD Fault OL — What It Means

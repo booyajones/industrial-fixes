@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - follett
+money_part: "Auger motor"
 ---
 
 ## Follett Horizon Elite Error Codes — What They Mean

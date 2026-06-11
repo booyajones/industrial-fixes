@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - electrolux
+money_part: "Drain filter"
 ---
 
 ## Electrolux Washer EF2 Error Code — What It Means

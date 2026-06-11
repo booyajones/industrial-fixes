@@ -11,6 +11,7 @@ tags:
   - oven
   - lg
 diy_or_pro: "pro"
+money_part: "Oven temperature sensor (thermistor)"
 ---
 
 ## LG Range FE Error Code — What It Means

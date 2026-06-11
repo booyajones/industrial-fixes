@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Leak at the diverter gasket or sump seal"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Diverter gasket"
 ---
 
 ## Whirlpool F10E5 Error Code — What It Means

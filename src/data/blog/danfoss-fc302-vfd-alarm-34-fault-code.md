@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Danfoss fieldbus communication option card"
 ---
 
 ## Danfoss FC302 Alarm 34 — What It Means

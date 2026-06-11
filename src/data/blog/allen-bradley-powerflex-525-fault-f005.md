@@ -10,6 +10,7 @@ tags:
   - vfd
   - allen-bradley
   - powerflex
+money_part: "Dynamic braking resistor"
 ---
 
 ## Allen Bradley PowerFlex 525 F005 Fault, What It Means

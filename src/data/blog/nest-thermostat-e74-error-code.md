@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - nest
+money_part: "HVAC control board fuse (3-amp standard blade)"
 ---
 
 ## Nest Thermostat E74 Error — What It Means

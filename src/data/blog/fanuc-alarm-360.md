@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - fanuc
+money_part: "Fanuc APC battery A06B-6073-K001"
 ---
 
 ## Fanuc Alarm 360 — What It Means

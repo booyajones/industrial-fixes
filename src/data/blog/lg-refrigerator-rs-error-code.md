@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "loose or corroded refrigerator sensor connector"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "LG refrigerator temperature sensor / thermistor (fresh-food / R1)"
 ---
 
 ## LG Refrigerator rS Error Code — What It Means

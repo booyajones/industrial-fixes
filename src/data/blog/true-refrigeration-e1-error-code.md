@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - true-refrigeration
+money_part: "Cabinet temperature probe (NTC)"
 ---
 
 ## True Refrigeration E1 Error Code — What It Means

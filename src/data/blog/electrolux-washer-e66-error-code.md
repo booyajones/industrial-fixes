@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - electrolux
+money_part: "Thermal limiter / thermal cutoff"
 ---
 
 ## Electrolux Washer E66 Error Code — What It Means

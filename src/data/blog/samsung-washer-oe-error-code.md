@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "stuck-open inlet valve"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung washer inlet valve assembly"
 ---
 
 ## Samsung Washer OE Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - schneider
+money_part: "Motor output cable"
 ---
 
 ## Schneider Altivar 212 Fault OCF — What It Means

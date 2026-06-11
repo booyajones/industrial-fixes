@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - electrolux
+money_part: "User interface control board / button panel assembly"
 ---
 
 ## Electrolux Dryer H4 / B4 Error Code — What It Means

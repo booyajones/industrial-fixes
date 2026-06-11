@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "defrost heater failure or iced-over evaporator from repeated defrost failures"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Samsung refrigerator defrost heater"
 ---
 
 ## Samsung Refrigerator 25E Error — What It Means

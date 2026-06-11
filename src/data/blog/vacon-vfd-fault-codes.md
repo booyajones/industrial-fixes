@@ -10,6 +10,7 @@ tags:
   - electrical
   - vfd
   - vacon
+money_part: "Braking chopper"
 ---
 
 Vacon drives — now part of the Danfoss portfolio after the 2014 acquisition — use a two-layer fault system: a Fault Code (F1, F2, F3...) that tells you the category, and either a Subcode (NXP/NXS series) or Fault ID (Vacon 100 series) that tells you the exact cause. Skipping the subcode and jumping straight to "F1 Overcurrent = bad motor" is how you replace parts that don't need replacing. This guide covers both layers for Vacon 100 FLOW/INDUSTRIAL/HVAC, Vacon NXP, and Vacon 10.

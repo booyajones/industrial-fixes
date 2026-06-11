@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - daikin
+money_part: "Condensate pump (mini)"
 ---
 
 ## Daikin A3 Error Code — What It Means

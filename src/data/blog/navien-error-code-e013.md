@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - navien
+money_part: "DHW inlet thermistor"
 ---
 
 ## Navien Error Code E013 — What It Means

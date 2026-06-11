@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Motor output cable"
 ---
 
 ## Siemens Micromaster Fault F001 — What It Means

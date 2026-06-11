@@ -10,6 +10,7 @@ tags:
   - hvac
   - furnace
   - goodman
+money_part: "High-limit switch"
 ---
 
 ## Goodman Furnace 4 Flashes — What It Means

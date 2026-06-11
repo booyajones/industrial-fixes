@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - kitchenaid
+money_part: "Lower Oven Appliance Manager"
 ---
 
 ## KitchenAid Oven F6 E9 Error Code — What It Means

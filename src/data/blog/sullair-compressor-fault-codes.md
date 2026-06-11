@@ -10,6 +10,7 @@ tags:
   - compressor
   - sullair
   - industrial
+money_part: "Air/oil separator element"
 ---
 
 ## Sullair Compressor Fault Codes - Quick Reference

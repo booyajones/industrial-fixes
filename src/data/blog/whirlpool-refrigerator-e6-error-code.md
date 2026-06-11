@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Loose or damaged wiring between the main control board and the user interface board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool refrigerator user interface / display board"
 ---
 
 ## Whirlpool Refrigerator E6 Error Code — What It Means

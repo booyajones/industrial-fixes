@@ -10,6 +10,7 @@ tags:
   - hvac
   - furnace
   - goodman
+money_part: "Goodman hot surface igniter"
 ---
 
 ## Goodman Furnace 1-Flash Error Code — What It Means

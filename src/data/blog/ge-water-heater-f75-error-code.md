@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - ge
+money_part: "GE GeoSpring owner's manual (model-specific PDF)"
 ---
 
 ## GE Water Heater F75 Error Code — What It Means

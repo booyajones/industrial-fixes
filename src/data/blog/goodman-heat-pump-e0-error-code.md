@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - goodman
+money_part: "Indoor control board"
 ---
 
 ## Goodman E0 Error Code — What It Means

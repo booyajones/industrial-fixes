@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Loose, oxidized, or damaged ribbon cable between the keypad and control board"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Whirlpool microwave keypad / membrane switch assembly"
 ---
 
 ## Whirlpool Microwave E03 Error — What It Means

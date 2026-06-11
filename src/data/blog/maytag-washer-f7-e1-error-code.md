@@ -9,9 +9,13 @@ draft: false
 tags:
   - appliance
   - maytag
+<<<<<<< Updated upstream
 most_likely_cause: "Shipping bolts or spacers not removed on a front-load washer"
 likelihood: "the most common cause on recently installed or moved machines"
 diy_or_pro: "diy"
+=======
+money_part: "Drive motor"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag F7 E1 Error Code — What It Means

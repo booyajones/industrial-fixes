@@ -10,9 +10,13 @@ tags:
   - appliance
   - washer
   - maytag
+<<<<<<< Updated upstream
 most_likely_cause: "Clogged inlet screens or supply valves not fully open"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Maytag washer water inlet valve"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag Washer F8E1 Error Code — What It Means

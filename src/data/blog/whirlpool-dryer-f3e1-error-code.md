@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed exhaust thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool dryer exhaust thermistor"
 ---
 
 ## Whirlpool Dryer F3E1 Error Code — What It Means

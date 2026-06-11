@@ -10,6 +10,7 @@ tags:
   - industrial
   - stepper-motor
   - motion-control
+money_part: "Stepper driver"
 ---
 
 ## Stepper Motor Fault Codes — What They Usually Mean

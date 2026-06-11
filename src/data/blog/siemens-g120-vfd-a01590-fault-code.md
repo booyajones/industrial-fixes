@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Motor bearings"
 ---
 
 ## Siemens G120 A01590 Alarm — What It Means

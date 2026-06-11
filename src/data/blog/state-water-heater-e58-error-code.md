@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Flame rod / ignition sensor"
 ---
 
 ## State Water Heater E58 Error Code — What It Means

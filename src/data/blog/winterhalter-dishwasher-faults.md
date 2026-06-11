@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - winterhalter
+money_part: "Heating element"
 ---
 
 ## Winterhalter Dishwasher Fault Codes — What They Mean

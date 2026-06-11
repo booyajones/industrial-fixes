@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - navien
+money_part: "Air pressure sensor (APS)"
 ---
 
 ## Navien Error Code E010 — What It Means

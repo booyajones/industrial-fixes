@@ -10,6 +10,7 @@ tags:
   - crown
   - forklift
   - material-handling
+money_part: "Steer potentiometer"
 ---
 
 ## Crown Forklift Fault Codes - Quick Reference

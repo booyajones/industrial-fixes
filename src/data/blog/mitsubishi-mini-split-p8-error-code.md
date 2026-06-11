@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Outdoor fan motor"
 ---
 
 ## Mitsubishi Mini-Split P8 Error — What It Means

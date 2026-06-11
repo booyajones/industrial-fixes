@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - ao-smith
+money_part: "Temperature sensor / thermistor"
 ---
 
 ## A.O. Smith E1 Error Code — What It Means

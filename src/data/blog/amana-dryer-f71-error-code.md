@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "Amana dryer main control board"
 ---
 
 ## Amana Dryer F71 Error Code — What It Means

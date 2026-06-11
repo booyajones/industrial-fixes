@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "control or UI communication issue"
 likelihood: "often"
 diy_or_pro: "pro"
+money_part: "Main control board"
 ---
 
 ## Whirlpool Dishwasher FAE5 Error Code — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "shorted component or moisture intrusion in the control or communication circuit"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Main control board (PCB assembly)"
 ---
 
 ## Samsung E-X2 Microwave Error — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Outdoor fan motor"
 ---
 
 ## Gree Mini Split H3 Error Code — What It Means

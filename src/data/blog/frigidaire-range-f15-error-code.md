@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Failed or loose connection between the EOC and the relay board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Electronic Oven Control (EOC) / Main Control Board"
 ---
 
 ## Frigidaire Range F15 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "DC-link capacitor bank (for FC302 frame size)"
 ---
 
 ## Danfoss FC302 ALARM 33 — What It Means

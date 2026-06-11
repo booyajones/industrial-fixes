@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - whirlpool
+money_part: "Whirlpool Electronic Thermostat (ET) assembly"
 ---
 
 ## Whirlpool Water Heater E03 Error Code — What It Means

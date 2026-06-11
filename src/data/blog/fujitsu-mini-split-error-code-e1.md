@@ -9,6 +9,7 @@ draft: false
 tags:
   - mini-split
   - fujitsu
+money_part: "Outdoor PCB"
 ---
 
 ## Fujitsu Mini Split E1 Error Code — What It Means

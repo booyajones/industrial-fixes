@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed oven temperature sensor (thermistor)"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "LG oven temperature sensor / thermistor"
 ---
 
 ## LG Range E3 Error Code — What It Means

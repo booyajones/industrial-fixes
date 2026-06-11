@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mrcool
+money_part: "MRCOOL indoor fan motor (blower motor)"
 ---
 
 ## MRCOOL Mini Split E3 Error Code — What It Means

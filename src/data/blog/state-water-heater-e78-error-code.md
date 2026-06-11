@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Air intake screen or filter assembly"
 ---
 
 ## State Water Heater E78 Error Code — What It Means

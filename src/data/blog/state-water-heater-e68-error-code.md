@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Air intake screen or filter kit"
 ---
 
 ## State Water Heater E68 Error Code — What It Means

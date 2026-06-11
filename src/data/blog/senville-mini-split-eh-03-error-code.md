@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - senville
+money_part: "Indoor fan motor (blower motor)"
 ---
 
 ## Senville Mini Split EH 03 Error Code — What It Means

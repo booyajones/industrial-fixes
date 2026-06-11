@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Ice or frost accumulation blocking the evaporator fan"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Evaporator fan motor assembly"
 ---
 
 ## Frigidaire SY EF Error Code — What It Means

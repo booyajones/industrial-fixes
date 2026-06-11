@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - payne
+money_part: "Pressure switch (single or dual)"
 ---
 
 ## Payne Furnace 31 Error Code — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Miswired terminal block or home electrical supply to the appliance"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "KitchenAid Range Main Control Board (Electronic Oven Control)"
 ---
 
 ## KitchenAid Range F9 Error Code — What It Means

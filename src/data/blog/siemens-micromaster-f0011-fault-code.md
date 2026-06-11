@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Motor cooling fan or fan kit"
 ---
 
 ## Siemens Micromaster F0011 — What It Means

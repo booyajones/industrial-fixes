@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Motor (replacement)"
 ---
 
 ## Siemens SINAMICS V20 F1 Fault — What It Means

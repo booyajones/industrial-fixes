@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - goodman
+money_part: "Control board"
 ---
 
 ## Goodman Heat Pump d4 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Main controller PCB"
 ---
 
 ## Fujitsu E:16 Error Code — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Physically stuck button on the console"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung dryer control panel / user-interface assembly"
 ---
 
 ## Samsung Dryer bE Error Code — What It Means

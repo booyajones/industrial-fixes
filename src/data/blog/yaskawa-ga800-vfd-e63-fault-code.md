@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 diy_or_pro: "pro"
+money_part: "Yaskawa GA800 option card (model-specific)"
 ---
 
 ## Yaskawa GA800 E63 Fault — What It Means

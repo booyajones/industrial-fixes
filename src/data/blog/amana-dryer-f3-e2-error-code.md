@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "Exhaust thermistor (temperature sensor)"
 ---
 
 ## Amana Dryer F3 E2 Error Code — What It Means

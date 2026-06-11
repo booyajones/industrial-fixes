@@ -10,6 +10,7 @@ tags:
   - appliance
   - microwave
   - whirlpool
+money_part: "Whirlpool microwave main control board"
 ---
 
 ## Whirlpool Microwave E61 Error Code — What It Means

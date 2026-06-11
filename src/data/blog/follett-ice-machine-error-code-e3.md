@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - follett
+money_part: "Ice level sensor"
 ---
 
 ## Follett Ice Machine Error Code E3 — What It Means

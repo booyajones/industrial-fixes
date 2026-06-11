@@ -9,6 +9,7 @@ draft: false
 tags:
   - mini-split
   - daikin
+money_part: "Discharge temperature sensor (thermistor)"
 ---
 
 ## Daikin F3 Error Code — What It Means

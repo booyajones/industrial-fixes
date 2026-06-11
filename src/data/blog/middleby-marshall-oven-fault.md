@@ -11,6 +11,7 @@ tags:
   - middleby-marshall
   - foodservice
   - commercial-kitchen
+money_part: "Type K thermocouple"
 ---
 
 ## Middleby Marshall Oven Fault Codes — Quick Reference

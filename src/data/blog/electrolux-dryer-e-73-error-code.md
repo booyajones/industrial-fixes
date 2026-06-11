@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - electrolux
+money_part: "Inlet thermistor"
 ---
 
 ## Electrolux Dryer E73 Error Code — What It Means

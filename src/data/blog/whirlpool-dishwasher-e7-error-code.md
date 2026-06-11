@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - whirlpool
+money_part: "Dishwasher heating element assembly"
 ---
 
 ## Whirlpool Dishwasher E7 Error Code — What It Means

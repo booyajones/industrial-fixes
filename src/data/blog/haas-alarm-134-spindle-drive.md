@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - haas
+money_part: "Spindle vector drive"
 ---
 
 ## Haas Alarm 134 Spindle Drive Fault — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Broken or slipped drive belt"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool dryer drive belt"
 ---
 
 ## Whirlpool Dryer No Spin — What It Means

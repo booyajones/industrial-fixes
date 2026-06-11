@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Main control board (indoor or outdoor PCB)"
 ---
 
 ## Fujitsu Mini Split E:90 Error Code — What It Means

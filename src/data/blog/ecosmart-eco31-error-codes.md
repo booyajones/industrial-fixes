@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - ecosmart
+money_part: "Inlet thermistor"
 ---
 
 ## EcoSmart ECO31 Error Codes — What It Means

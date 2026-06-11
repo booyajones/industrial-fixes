@@ -10,6 +10,7 @@ tags:
   - appliance
   - microwave
   - panasonic
+money_part: "Cooling fan motor (model-specific)"
 ---
 
 ## Panasonic Microwave U50 Error Code — What It Means

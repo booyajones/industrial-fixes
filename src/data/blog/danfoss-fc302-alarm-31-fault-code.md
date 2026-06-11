@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Motor cable assembly (phase V conductor)"
 ---
 
 ## Danfoss FC302 ALARM 31 — What It Means

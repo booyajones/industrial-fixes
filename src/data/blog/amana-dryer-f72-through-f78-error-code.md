@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "User Interface Control Assembly (Keypad)"
 ---
 
 ## Amana Dryer F72–F78 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - goodman
+money_part: "High-stage pressure switch"
 ---
 
 ## Goodman B9 Error Code — What It Means

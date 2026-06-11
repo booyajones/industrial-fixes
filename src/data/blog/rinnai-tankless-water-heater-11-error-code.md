@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - rinnai
+money_part: "Flame rod (flame sensor electrode)"
 ---
 
 ## Rinnai Error Code 11 — What It Means

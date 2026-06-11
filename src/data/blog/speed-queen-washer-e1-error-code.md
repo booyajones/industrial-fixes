@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - speed-queen
+money_part: "Front-End User Control (Control Console)"
 ---
 
 ## Speed Queen Washer E1 Error Code — What It Means

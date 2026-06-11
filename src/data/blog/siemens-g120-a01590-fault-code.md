@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Siemens BOP-2 Basic Operator Panel"
 ---
 
 ## Siemens G120 A01590 Fault Code — What It Means

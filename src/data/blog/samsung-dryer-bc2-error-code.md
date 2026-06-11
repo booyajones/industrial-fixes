@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "physically stuck button or moisture/residue on the control panel"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "User interface assembly (control panel keypad)"
 ---
 
 ## Samsung Dryer bC2 Error Code — What It Means

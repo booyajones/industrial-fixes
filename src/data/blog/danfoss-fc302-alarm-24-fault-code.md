@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Safety relay"
 ---
 
 ## Danfoss FC302 Alarm 24 — What It Means

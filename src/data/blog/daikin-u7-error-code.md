@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - daikin
+money_part: "Inverter PCB"
 ---
 
 ## Daikin U7 Error Code — What It Means

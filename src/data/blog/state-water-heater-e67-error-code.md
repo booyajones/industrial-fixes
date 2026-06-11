@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Air-Gas Mixer (AGM) assembly"
 ---
 
 ## State Water Heater E67 Error Code — What It Means

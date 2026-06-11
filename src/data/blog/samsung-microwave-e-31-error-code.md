@@ -10,6 +10,7 @@ tags:
   - appliance
   - microwave
   - samsung
+money_part: "Gas sensor assembly"
 ---
 
 ## Samsung Microwave E-31 Error — What It Means

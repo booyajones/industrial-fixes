@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - okuma
+money_part: "Okuma servo drive"
 ---
 
 ## Okuma CNC Alarm 1050 — What It Means

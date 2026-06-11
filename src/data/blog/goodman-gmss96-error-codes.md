@@ -10,6 +10,7 @@ tags:
   - hvac
   - goodman
   - furnace
+money_part: "PVC condensate trap"
 ---
 
 ## Goodman GMSS96 Furnace Error Codes — What They Mean

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - trane
+money_part: "T1 indoor ambient temperature sensor (Trane)"
 ---
 
 ## Trane Heat Pump E9 Error Code — What It Means

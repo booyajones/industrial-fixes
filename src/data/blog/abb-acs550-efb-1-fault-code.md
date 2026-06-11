@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - abb
+money_part: "Fieldbus communication cable"
 ---
 
 ## ABB ACS550 EFB 1 Fault — What It Means

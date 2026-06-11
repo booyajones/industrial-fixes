@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Reversed white and red wire connections on the terminal block"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "LG dryer power cord (3-prong or 4-prong)"
 ---
 
 ## LG Dryer PS Error Code — What It Means

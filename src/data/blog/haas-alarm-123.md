@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - haas
+money_part: "ATC arm home proximity switch"
 ---
 
 ## Haas Alarm 123 — What It Means

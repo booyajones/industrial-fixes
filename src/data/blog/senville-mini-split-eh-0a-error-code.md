@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - senville
+money_part: "Senville indoor main PCB (TS01-IDU)"
 ---
 
 ## Senville EH 0A Error Code — What It Means

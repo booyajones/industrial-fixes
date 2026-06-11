@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "door left open or not fully closed"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Door gasket"
 ---
 
 ## Frigidaire Refrigerator H1 Error Code — What It Means

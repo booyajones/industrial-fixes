@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "Dryer power cord"
 ---
 
 ## Amana Dryer L2 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - electrolux
+money_part: "Moisture sensor assembly"
 ---
 
 ## Electrolux Dryer EF3 Error Code — What It Means

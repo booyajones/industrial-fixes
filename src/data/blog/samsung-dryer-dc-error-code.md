@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Laundry caught in the door or debris preventing full closure"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Door latch assembly"
 ---
 
 ## Samsung Dryer dC Error Code — What It Means

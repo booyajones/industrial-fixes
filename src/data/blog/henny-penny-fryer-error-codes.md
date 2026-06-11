@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - henny-penny
+money_part: "Thermocouple"
 ---
 
 ## Henny Penny Fryer Error Codes — What They Mean

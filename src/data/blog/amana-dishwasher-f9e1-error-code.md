@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - amana
+money_part: "Dishwasher drain pump assembly"
 ---
 
 ## Amana Dishwasher F9E1 Error Code — What It Means

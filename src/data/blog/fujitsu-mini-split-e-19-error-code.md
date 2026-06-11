@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Fujitsu mini-split refrigerant line set"
 ---
 
 ## Fujitsu E:19 Error Code — What It Means

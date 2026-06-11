@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Indoor unit controller PCB (main board)"
 ---
 
 ## Fujitsu Mini Split E:53 Error — What It Means

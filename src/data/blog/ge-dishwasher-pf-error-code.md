@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "brief utility outage or voltage flicker"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "GE dishwasher main control board"
 ---
 
 ## GE Dishwasher PF Error Code — What It Means

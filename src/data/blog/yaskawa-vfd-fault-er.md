@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "Yaskawa control board (PCB)"
 ---
 
 ## Yaskawa VFD Fault ER — What It Means

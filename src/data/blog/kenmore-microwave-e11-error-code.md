@@ -10,6 +10,7 @@ tags:
   - appliance
   - microwave
   - kenmore
+money_part: "Humidity sensor"
 ---
 
 ## Kenmore Microwave E11 Error — What It Means

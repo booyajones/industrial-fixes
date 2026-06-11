@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - electrolux
+money_part: "Main control board"
 ---
 
 ## Electrolux Dryer EA2 Error Code — What It Means

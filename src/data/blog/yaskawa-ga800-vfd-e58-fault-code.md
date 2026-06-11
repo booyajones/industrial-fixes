@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Failed soft-charge bypass relay or contact in the drive power section"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Yaskawa GA800 control board (model-specific)"
 ---
 
 ## Yaskawa GA800 E58 Fault — What It Means

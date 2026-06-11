@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Flame sensor or flame rod"
 ---
 
 ## State Water Heater E54 Error Code — What It Means

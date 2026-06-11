@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Service manual for your exact Fujitsu model"
 ---
 
 ## Fujitsu E:49 Error Code — What It Means

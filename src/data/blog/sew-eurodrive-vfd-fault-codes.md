@@ -10,6 +10,7 @@ tags:
   - electrical
   - vfd
   - sew-eurodrive
+money_part: "Braking Resistor"
 ---
 
 ## SEW-Eurodrive VFD Fault Codes — What They Mean

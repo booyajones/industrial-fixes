@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - frigidaire
+money_part: "Electronic control board"
 ---
 
 ## Frigidaire Dryer AL-11 Error — What It Means

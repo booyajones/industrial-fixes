@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Fujitsu outdoor inverter PCB / main control board"
 ---
 
 ## Fujitsu E:64 Error Code — What It Means

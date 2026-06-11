@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "loose, oxidized, or damaged connectors between the control board and display panel"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Main control board (Frigidaire motherboard)"
 ---
 
 ## Frigidaire SY CE Error Code — What It Means

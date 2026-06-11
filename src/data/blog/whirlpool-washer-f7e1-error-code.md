@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "shipping bolts still installed or shift actuator failure"
 likelihood: "the most common causes"
 diy_or_pro: "pro"
+money_part: "Whirlpool washer shift actuator"
 ---
 
 ## Whirlpool F7E1 Error Code — What It Means

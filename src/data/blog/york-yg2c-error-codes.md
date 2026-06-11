@@ -10,6 +10,7 @@ tags:
   - hvac
   - york
   - furnace
+money_part: "Hot surface ignitor"
 ---
 
 ## York YG2C Furnace Error Codes — What They Mean

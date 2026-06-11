@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Control Unit"
 ---
 
 ## Siemens VFD Fault Codes — Quick Reference

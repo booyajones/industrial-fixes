@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - frigidaire
+money_part: "Dispenser drawer assembly"
 ---
 
 ## Frigidaire E14 Error Code — What It Means

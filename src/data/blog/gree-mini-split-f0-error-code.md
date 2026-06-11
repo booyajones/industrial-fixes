@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Evaporator temperature sensor (thermistor)"
 ---
 
 ## Gree Mini Split F0 Error Code — What It Means

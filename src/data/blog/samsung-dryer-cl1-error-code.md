@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Laundry left in the drum when the Vent Blockage test was started"
 likelihood: "the primary cause Samsung documents"
 diy_or_pro: "diy"
+money_part: "Lint filter"
 ---
 
 ## Samsung Dryer CL1 Error Code — What It Means

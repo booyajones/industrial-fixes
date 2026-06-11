@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - speed-queen
+money_part: "Water inlet valve assembly"
 ---
 
 ## Speed Queen Washer LE Error Code — What It Means

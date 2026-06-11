@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Combustion fan motor assembly"
 ---
 
 ## State Water Heater E109 Error — What It Means

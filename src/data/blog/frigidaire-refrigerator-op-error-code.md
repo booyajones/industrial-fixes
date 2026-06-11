@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "freezer door not fully latched or sealed"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Frigidaire freezer temperature sensor / thermistor"
 ---
 
 ## Frigidaire OP Error Code — What It Means

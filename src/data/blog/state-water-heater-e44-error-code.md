@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state-water-heater
+money_part: "Gas valve assembly"
 ---
 
 ## State Water Heater E44 Error Code — What It Means

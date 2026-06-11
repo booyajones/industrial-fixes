@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - pioneer
+money_part: "IPM / inverter module board"
 ---
 
 ## Pioneer PC 00 Error Code — What It Means

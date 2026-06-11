@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Siemens Micromaster 440 heatsink temperature sensor"
 ---
 
 ## Siemens Micromaster F0012 — What It Means

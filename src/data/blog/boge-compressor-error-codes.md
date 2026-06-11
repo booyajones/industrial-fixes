@@ -10,6 +10,7 @@ tags:
   - compressor
   - boge
   - industrial
+money_part: "Oil separator element"
 ---
 
 ## BOGE Compressor Error Codes - Quick Reference

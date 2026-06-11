@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kitchenaid
+money_part: "KitchenAid dishwasher water inlet valve"
 ---
 
 ## KitchenAid Dishwasher F6E2 Error Code — What It Means

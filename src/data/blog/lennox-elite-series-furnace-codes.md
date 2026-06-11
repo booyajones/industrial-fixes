@@ -10,6 +10,7 @@ tags:
   - hvac
   - lennox
   - furnace
+money_part: "SureLight igniter"
 ---
 
 ## Lennox Elite Series Furnace Error Codes — What They Mean

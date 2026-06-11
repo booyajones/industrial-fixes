@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - bosch
+money_part: "Bosch dishwasher drain pump"
 ---
 
 ## Bosch Dishwasher E25 Error Code — What It Means

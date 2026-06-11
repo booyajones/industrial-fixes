@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - abb
+money_part: "Internal cooling fan"
 ---
 
 ## ABB VFD Fault 9300 — What It Means

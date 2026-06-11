@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - bosch
+money_part: "Inlet valve assembly"
 ---
 
 ## Bosch Washer F17 Error Code — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Restricted airflow from a clogged lint screen or blocked vent system"
 likelihood: "the most common trigger"
 diy_or_pro: "diy"
+money_part: "Replacement lint screen"
 ---
 
 ## Samsung HC4 Dryer Error — What It Means

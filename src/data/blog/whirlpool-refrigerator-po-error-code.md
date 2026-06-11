@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "actual power loss to the refrigerator"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool refrigerator power cord"
 ---
 
 ## Whirlpool Refrigerator PO Error Code — What It Means

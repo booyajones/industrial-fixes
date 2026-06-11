@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Siemens Micromaster inverter or converter drive"
 ---
 
 ## Siemens Micromaster F0101 — What It Means

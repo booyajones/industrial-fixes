@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - bosch
+money_part: "Bosch outdoor control board"
 ---
 
 ## Bosch xH0 Error Code — What It Means

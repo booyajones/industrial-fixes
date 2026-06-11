@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - kenmore
+money_part: "Moisture sensor bars"
 ---
 
 ## Kenmore Dryer F29 Error Code — What It Means

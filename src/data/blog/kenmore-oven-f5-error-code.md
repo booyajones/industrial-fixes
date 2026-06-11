@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - kenmore
+money_part: "Oven door latch assembly"
 ---
 
 ## Kenmore Oven F5 Error Code — What It Means

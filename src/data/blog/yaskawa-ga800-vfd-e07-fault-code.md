@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "Communications cable for Yaskawa GA800 option module"
 ---
 
 ## Yaskawa GA800 E07 Fault — What It Means

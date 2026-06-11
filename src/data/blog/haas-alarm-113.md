@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - haas
+money_part: "Spindle encoder cable"
 ---
 
 ## Haas Alarm 113 — Spindle Encoder Fault: What It Means

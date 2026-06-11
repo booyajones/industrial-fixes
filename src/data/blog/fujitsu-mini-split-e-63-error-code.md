@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Indoor controller PCB"
 ---
 
 ## Fujitsu E:63 Error Code — What It Means

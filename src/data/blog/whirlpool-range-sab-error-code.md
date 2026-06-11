@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Sabbath Mode was intentionally enabled through the control panel"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Owner's manual (Whirlpool range)"
 ---
 
 ## Whirlpool Range SAB Error Code — What It Means

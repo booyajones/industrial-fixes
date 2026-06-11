@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
   - acs580
+money_part: "VFD-rated motor cable"
 ---
 
 ## ABB ACS580 Fault 2330, What It Means

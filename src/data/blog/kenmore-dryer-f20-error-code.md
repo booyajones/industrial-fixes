@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - kenmore
+money_part: "Water inlet valve assembly"
 ---
 
 ## Kenmore F20 Error Code — What It Means

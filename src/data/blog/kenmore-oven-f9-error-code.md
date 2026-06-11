@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - kenmore
+money_part: "Door latch assembly"
 ---
 
 ## Kenmore Oven F9 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - navien
+money_part: "Navien flow sensor assembly"
 ---
 
 ## Navien E005 Error Code — What It Means

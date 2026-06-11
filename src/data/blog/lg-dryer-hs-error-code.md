@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Dirty humidity sensor bars from fabric softener residue or film buildup"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "LG dryer humidity sensor assembly"
 ---
 
 ## LG Dryer HS Error Code — What It Means

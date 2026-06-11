@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - trane
+money_part: "Outdoor coil thermistor"
 ---
 
 ## Trane Heat Pump E2 Error Code — What It Means

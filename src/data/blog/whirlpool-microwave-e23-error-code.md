@@ -11,6 +11,7 @@ tags:
   - microwave
   - whirlpool
 diy_or_pro: "pro"
+money_part: "Microwave cavity temperature sensor"
 ---
 
 ## Whirlpool Microwave E23 Error Code — What It Means

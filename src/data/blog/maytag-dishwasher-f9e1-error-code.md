@@ -10,9 +10,13 @@ tags:
   - appliance
   - dishwasher
   - maytag
+<<<<<<< Updated upstream
 most_likely_cause: "clogged filter or sump area restricting water flow to the pump inlet"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Maytag dishwasher drain pump assembly"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag Dishwasher F9E1 Error — What It Means

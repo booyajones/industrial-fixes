@@ -10,6 +10,7 @@ tags:
   - hvac
   - rheem
   - air-conditioner
+money_part: "Dual run capacitor"
 ---
 
 ## Rheem RA13 Air Conditioner Error Codes — What They Mean

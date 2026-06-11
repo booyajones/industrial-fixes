@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "ice or frost blocking the evaporator fan blade, or a seized fan motor"
 likelihood: "the most common causes"
 diy_or_pro: "pro"
+money_part: "Frigidaire evaporator fan motor assembly"
 ---
 
 ## Frigidaire 5Y EF Error Code — What It Means

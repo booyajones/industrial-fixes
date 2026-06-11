@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - rinnai
+money_part: "Thermal fuse (case or combustion type)"
 ---
 
 ## Rinnai Error Code 14 — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed defrost heater"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "GE refrigerator defrost heater"
 ---
 
 ## GE Refrigerator dF Error Code — What It Means

@@ -9,9 +9,13 @@ draft: false
 tags:
   - appliance
   - frigidaire
+<<<<<<< Updated upstream
 most_likely_cause: "failed electronic control board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Frigidaire washer door lock assembly"
+>>>>>>> Stashed changes
 ---
 
 ## Frigidaire E44 Error Code — What It Means

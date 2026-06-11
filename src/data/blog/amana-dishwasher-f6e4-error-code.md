@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - amana
+money_part: "Overfill float switch assembly"
 ---
 
 ## Amana Dishwasher F6E4 Error — What It Means

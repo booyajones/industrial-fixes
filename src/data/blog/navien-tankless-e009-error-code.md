@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - navien
+money_part: "Navien fan motor / blower assembly"
 ---
 
 ## Navien E009 Error Code — What It Means

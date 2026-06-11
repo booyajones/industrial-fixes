@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - pitco
+money_part: "Oil temperature probe"
 ---
 
 ## Pitco Commercial Fryer Error Codes — What They Mean

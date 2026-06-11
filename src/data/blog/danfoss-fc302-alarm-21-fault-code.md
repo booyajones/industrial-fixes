@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Danfoss FC302 LCP (Local Control Panel)"
 ---
 
 ## Danfoss FC302 Alarm 21 — What It Means

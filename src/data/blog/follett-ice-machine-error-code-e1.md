@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - follett
+money_part: "Auger bearing kit"
 ---
 
 ## Follett Ice Machine Error Code E1 — What It Means

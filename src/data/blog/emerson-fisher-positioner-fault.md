@@ -12,6 +12,7 @@ tags:
   - fisher
   - positioner
   - industrial
+money_part: "I/P module"
 ---
 
 ## Emerson Fisher Positioner Fault Codes — Quick Reference

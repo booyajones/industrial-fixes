@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Stuck button from detergent residue or moisture"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "User-interface control panel assembly"
 ---
 
 ## Samsung Washer bE1 Error Code — What It Means

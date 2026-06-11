@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "kinked or clogged drain hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool front-load washer drain hose"
 ---
 
 ## Whirlpool Washer F21 Error Code — What It Means

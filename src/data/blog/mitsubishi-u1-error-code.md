@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - mitsubishi
+money_part: "Supply wire upsizing"
 ---
 
 ## Mitsubishi U1 Error Code — What It Means

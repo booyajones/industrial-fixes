@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - comfortmaker
+money_part: "Flame sensor rod"
 ---
 
 ## Comfortmaker Furnace E1 Error Code — What It Means

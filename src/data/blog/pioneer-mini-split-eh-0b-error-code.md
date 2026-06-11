@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - pioneer
+money_part: "Pioneer mini split indoor display board"
 ---
 
 ## Pioneer Mini Split EH 0b Error Code — What It Means

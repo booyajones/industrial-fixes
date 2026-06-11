@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Siemens Micromaster brake resistor"
 ---
 
 ## Siemens Micromaster F0002 — What It Means

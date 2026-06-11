@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Blocked drain pump filter or pump chamber"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Bosch washer drain pump"
 ---
 
 ## Bosch Washer F18 Error Code — What It Means

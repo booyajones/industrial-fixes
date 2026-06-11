@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - speed-queen
+money_part: "Speed Queen washer heating element"
 ---
 
 ## Speed Queen Washer E7 Error Code — What It Means

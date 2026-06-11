@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "USS communication cable (RS-485 or RS-232)"
 ---
 
 ## Siemens Micromaster F0071 — What It Means

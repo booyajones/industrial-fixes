@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Silverware, pans, or racks obstructing the detergent cup door path"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "GE dishwasher detergent dispenser assembly"
 ---
 
 ## GE Dishwasher C8 Error Code — What It Means

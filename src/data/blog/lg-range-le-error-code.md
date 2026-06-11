@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - lg
+money_part: "LG washer direct-drive motor assembly"
 ---
 
 ## LG Washer LE Error Code — What It Means

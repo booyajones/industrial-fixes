@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - speed-queen
+money_part: "Water inlet valve"
 ---
 
 ## Speed Queen EI:0F Error Code — What It Means

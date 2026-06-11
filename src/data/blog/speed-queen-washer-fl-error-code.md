@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - speed-queen
+money_part: "Inlet water valve assembly"
 ---
 
 ## Speed Queen FL Error Code — What It Means

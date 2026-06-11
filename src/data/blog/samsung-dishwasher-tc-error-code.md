@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed or drifting thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Samsung Dishwasher Thermistor / Temperature Sensor"
 ---
 
 ## Samsung Dishwasher tC Error Code — What It Means

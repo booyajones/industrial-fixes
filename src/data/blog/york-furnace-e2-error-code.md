@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - york
+money_part: "Pressure switch"
 ---
 
 ## York Furnace Error Code E2 — What It Means

@@ -10,6 +10,7 @@ tags:
   - raymond
   - forklift
   - material-handling
+money_part: "Drive motor encoder"
 ---
 
 ## Raymond Forklift Fault Codes - Quick Reference

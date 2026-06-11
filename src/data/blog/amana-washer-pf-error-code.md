@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - amana
+money_part: "Amana washer power cord"
 ---
 
 ## Amana Washer PF Error Code — What It Means

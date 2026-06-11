@@ -10,6 +10,7 @@ tags:
   - hvac
   - mitsubishi
   - mini-split
+money_part: "EEV coil"
 ---
 
 ## Mitsubishi PUY Air Handler Error Codes — What They Mean

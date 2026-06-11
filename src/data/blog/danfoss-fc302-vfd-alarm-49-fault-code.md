@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Danfoss FC302 parameter backup module"
 ---
 
 ## Danfoss FC302 Alarm 49 — What It Means

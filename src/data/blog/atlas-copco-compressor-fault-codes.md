@@ -10,6 +10,7 @@ tags:
   - compressor
   - atlas-copco
   - industrial
+money_part: "Air/oil separator"
 ---
 
 ## Atlas Copco Compressor Fault Codes — Quick Reference

@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Danfoss FC 302 compatible option card"
 ---
 
 ## Danfoss FC302 VFD ALARM 15 — What It Means

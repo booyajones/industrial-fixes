@@ -10,6 +10,7 @@ tags:
   - hyster
   - forklift
   - material-handling
+money_part: "Motor thermal sensor"
 ---
 
 ## Hyster Forklift Fault Codes - Quick Reference

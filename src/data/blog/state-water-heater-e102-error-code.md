@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Flame sensor (flame rod)"
 ---
 
 ## State Water Heater E102 Error Code — What It Means

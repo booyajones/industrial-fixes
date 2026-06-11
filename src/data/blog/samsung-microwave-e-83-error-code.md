@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Communication failure between the main and display control boards"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung microwave main control board"
 ---
 
 ## Samsung Microwave E-83 Error Code — What It Means

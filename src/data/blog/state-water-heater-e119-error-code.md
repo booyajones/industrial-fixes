@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Filling loop kit with braided hose and valves"
 ---
 
 ## State Water Heater E119 Error Code — What It Means

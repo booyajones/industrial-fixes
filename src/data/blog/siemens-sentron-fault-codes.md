@@ -11,6 +11,7 @@ tags:
   - siemens
   - sentron
   - power-distribution
+money_part: "ETU module"
 ---
 
 ## Siemens SENTRON Fault Codes — Quick Reference

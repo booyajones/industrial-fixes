@@ -10,6 +10,7 @@ tags:
   - hvac
   - chiller
   - daikin
+money_part: "High Pressure Safety Switch"
 ---
 
 ## Daikin Chiller Fault Codes — What They Mean

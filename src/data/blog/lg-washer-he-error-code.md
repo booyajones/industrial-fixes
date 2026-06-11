@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "heater circuit interruption (open or high-resistance element, failed thermal cutout, or loose wiring)"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "LG washer heater element assembly"
 ---
 
 ## LG Washer HE Error Code — What It Means

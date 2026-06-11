@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Open door interlock switch circuit or misaligned door latch assembly"
 likelihood: "the most common cause in technician practice"
 diy_or_pro: "pro"
+money_part: "Door interlock switch assembly"
 ---
 
 ## Samsung Microwave E-01 Error — What It Means

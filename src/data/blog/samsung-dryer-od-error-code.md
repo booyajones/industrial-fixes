@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Restricted airflow from a clogged lint filter or blocked exhaust vent"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Moisture sensor bar assembly"
 ---
 
 ## Samsung Dryer oD Error Code — What It Means

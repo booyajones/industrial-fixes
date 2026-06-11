@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - pioneer
+money_part: "Outdoor fan motor"
 ---
 
 ## Pioneer Mini-Split F0 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - bosch
+money_part: "Cooling fan motor"
 ---
 
 ## Bosch Oven ER3 Error Code — What It Means

@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "items on the lid or physical obstruction in the lid-lock area"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool lid-lock assembly"
 ---
 
 ## Whirlpool LdU Error Code — What It Means

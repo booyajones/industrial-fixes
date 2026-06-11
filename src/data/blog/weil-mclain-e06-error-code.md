@@ -12,6 +12,7 @@ tags:
   - hvac
   - error-code
   - ignition
+money_part: "[Flame sensor rod](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20)"
 ---
 
 ## Weil-McLain E06 Error — Ignition Lockout

@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kenmore
+money_part: "Drain hose"
 ---
 
 ## Kenmore Dishwasher E13 Error Code — What It Means

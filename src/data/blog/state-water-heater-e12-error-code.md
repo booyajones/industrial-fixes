@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Flame rod / flame sensor"
 ---
 
 ## State Water Heater E12 Error Code — What It Means

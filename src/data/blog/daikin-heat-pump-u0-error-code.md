@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - daikin
+money_part: "Thermistor (temperature sensor)"
 ---
 
 ## Daikin U0 Error Code — What It Means

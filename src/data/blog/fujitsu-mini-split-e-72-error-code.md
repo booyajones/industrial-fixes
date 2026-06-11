@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Compressor thermistor (Fujitsu mini-split outdoor unit)"
 ---
 
 ## Fujitsu E:72 Error Code — What It Means

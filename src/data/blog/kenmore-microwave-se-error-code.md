@@ -10,6 +10,7 @@ tags:
   - appliance
   - microwave
   - kenmore
+money_part: "Membrane keypad assembly"
 ---
 
 ## Kenmore Microwave SE Error Code — What It Means

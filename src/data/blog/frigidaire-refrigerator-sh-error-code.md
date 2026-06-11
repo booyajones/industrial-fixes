@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Door not fully closed or poor door seal"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Frigidaire refrigerator temperature sensor / thermistor"
 ---
 
 ## Frigidaire Refrigerator SH Error Code — What It Means

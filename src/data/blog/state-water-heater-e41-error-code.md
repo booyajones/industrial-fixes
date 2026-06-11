@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Water temperature sensor (thermistor)"
 ---
 
 ## State Water Heater E41 Error Code — What It Means

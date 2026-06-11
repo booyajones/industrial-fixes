@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - pioneer
+money_part: "T2 indoor coil temperature sensor"
 ---
 
 ## Pioneer Mini-Split EC Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Indoor evaporator anti-freeze thermistor"
 ---
 
 ## Gree Mini Split E2 Error — What It Means

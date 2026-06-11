@@ -13,6 +13,7 @@ tags:
   - food-service
   - error-codes
 description: "Traulsen G20010 two-section reach-in freezer error codes explained. Diagnose E1, E2, E3, high temperature alarms, and defrost problems on one of the most common premium commercial freezers in restaurant and institutional kitchens."
+money_part: "Cabinet temperature sensor"
 ---
 
 ## Error Codes: Traulsen G20010 Reach-In Freezer

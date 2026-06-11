@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
   - furnace
+money_part: "Hot surface igniter"
 ---
 
 ## Carrier 58CVA Furnace Error Codes — What They Mean

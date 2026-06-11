@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Thermistor / temperature sensor"
 ---
 
 ## State Tankless Water Heater E34 Error Code — What It Means

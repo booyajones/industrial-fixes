@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Control-board communication fault or temporary glitch"
 likelihood: "the most common cause when an undocumented code appears"
 diy_or_pro: "diy"
+money_part: "Refrigerator Main Control Board (model-specific)"
 ---
 
 ## Frigidaire Refrigerator E11 Error — What It Means

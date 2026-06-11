@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Outlet Temperature Sensor (Thermistor)"
 ---
 
 ## State Water Heater E06 Error Code — What It Means

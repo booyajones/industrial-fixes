@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Missing or removed factory jumper on STO terminals when no external safety relay is used"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Factory STO jumper wire or plug"
 ---
 
 ## Yaskawa GA800 E84 Fault — What It Means

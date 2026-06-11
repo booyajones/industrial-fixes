@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Indoor unit float switch or water-safety sensor"
 ---
 
 ## Mitsubishi Mini-Split PA Error Code — What It Means

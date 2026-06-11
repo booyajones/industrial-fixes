@@ -11,6 +11,7 @@ tags:
   - washer
   - lg
 diy_or_pro: "pro"
+money_part: "LG direct-drive motor / stator assembly"
 ---
 
 ## LG Washer SE Error Code — What It Means

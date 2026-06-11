@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - noritz
+money_part: "Flame rod / ionization sensor"
 ---
 
 ## Noritz Error Code 12 — What It Means

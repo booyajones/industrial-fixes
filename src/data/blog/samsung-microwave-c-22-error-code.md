@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "open or shorted temperature sensor thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Samsung microwave cavity temperature sensor / thermistor"
 ---
 
 ## Samsung Microwave C-22 Error — What It Means

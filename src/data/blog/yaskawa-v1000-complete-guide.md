@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
   - industrial
+money_part: "Cooling fan"
 ---
 
 ## Yaskawa V1000 Complete Fault Code Guide — What They Mean

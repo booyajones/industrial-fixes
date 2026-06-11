@@ -10,6 +10,7 @@ tags:
   - fire-alarm
   - edwards-est
   - building-management
+money_part: "Signature detector head"
 ---
 
 ## Edwards EST Fire Alarm Fault Codes — Quick Reference

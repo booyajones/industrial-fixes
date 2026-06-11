@@ -9,6 +9,7 @@ draft: true
 tags:
   - vfd
   - danfoss
+money_part: "Motor terminal leads and connectors"
 ---
 
 ## Danfoss FC302 Alarm 55 — What It Means

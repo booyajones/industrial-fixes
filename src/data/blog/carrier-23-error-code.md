@@ -11,6 +11,7 @@ tags:
   - carrier
   - furnace
   - pressure-switch
+money_part: "Pressure switch"
 ---
 
 ## Carrier 23 Error Code — What It Means

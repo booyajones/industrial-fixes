@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Mitsubishi remote controller"
 ---
 
 ## Mitsubishi E4 Error Code — What It Means

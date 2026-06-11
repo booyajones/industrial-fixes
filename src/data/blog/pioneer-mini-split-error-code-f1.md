@@ -9,6 +9,7 @@ draft: false
 tags:
   - mini-split
   - pioneer
+money_part: "Indoor ambient (room) thermistor"
 ---
 
 ## Pioneer Mini Split Error Code F1 — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - lg
+money_part: "LG outdoor air temperature thermistor (inlet air sensor)"
 ---
 
 ## LG Mini Split CH44 Error Code — What It Means

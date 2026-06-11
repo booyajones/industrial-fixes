@@ -10,6 +10,7 @@ tags:
   - hvac
   - furnace
   - trane
+money_part: "Pressure switch"
 ---
 
 ## Trane Furnace 3 Flashes — What It Means

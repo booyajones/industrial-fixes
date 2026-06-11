@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "LG microwave thermistor (model-specific)"
 ---
 
 ## LG Microwave F2 Error Code — What It Means

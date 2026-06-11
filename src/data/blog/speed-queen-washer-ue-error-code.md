@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - speed-queen
+money_part: "Speed Queen unbalance switch"
 ---
 
 ## Speed Queen UE Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - bosch
+money_part: "Bosch oven control panel / keypad assembly"
 ---
 
 ## Bosch Oven F121 Error Code — What It Means

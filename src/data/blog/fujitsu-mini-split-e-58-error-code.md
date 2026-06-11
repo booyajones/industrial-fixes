@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Intake grille assembly (front panel)"
 ---
 
 ## Fujitsu E:58 Error Code — What It Means

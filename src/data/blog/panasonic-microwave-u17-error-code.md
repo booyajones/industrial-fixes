@@ -10,6 +10,7 @@ tags:
   - appliance
   - microwave
   - panasonic
+money_part: "Panasonic factory-specified SD memory card"
 ---
 
 ## Panasonic Microwave U17 Error Code — What It Means

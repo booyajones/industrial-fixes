@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Air Intake Screen / Filter"
 ---
 
 ## State Water Heater E138 Error Code — What It Means

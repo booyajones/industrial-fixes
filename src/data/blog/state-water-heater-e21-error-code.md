@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Control board"
 ---
 
 ## State Water Heater E21 Error Code — What It Means

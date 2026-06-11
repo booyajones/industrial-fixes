@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Temperature sensor or thermistor fault"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Samsung microwave temperature sensor / thermistor"
 ---
 
 ## Samsung Microwave E-25 Error — What It Means

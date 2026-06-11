@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - kitchenaid
+money_part: "Power supply board"
 ---
 
 ## KitchenAid Oven PF Error Code — What It Means

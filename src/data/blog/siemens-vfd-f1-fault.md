@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Shielded VFD-rated motor cable"
 ---
 
 ## Siemens VFD F1 Fault — What It Means

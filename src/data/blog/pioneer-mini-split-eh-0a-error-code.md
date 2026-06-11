@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - pioneer
+money_part: "Indoor unit main control board (PCB)"
 ---
 
 ## Pioneer Mini Split EH 0A Error Code — What It Means

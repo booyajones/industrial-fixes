@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Door not fully closed or lock assembly failure"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Door switch / lid lock assembly"
 ---
 
 ## Whirlpool F5E1 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - okuma
   - communication
   - controller
+money_part: "Cabinet cooling fan"
 ---
 
 ## Okuma Alarm 2000 — What It Means

@@ -11,6 +11,7 @@ tags:
   - scotsman
   - foodservice
   - commercial-kitchen
+money_part: "Water inlet valve"
 ---
 
 ## Scotsman Ice Machine Complete Troubleshooting Guide

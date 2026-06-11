@@ -10,6 +10,7 @@ tags:
   - appliance
   - microwave
   - panasonic
+money_part: "Inverter board / inverter power supply"
 ---
 
 ## Panasonic H99 Error Code — What It Means

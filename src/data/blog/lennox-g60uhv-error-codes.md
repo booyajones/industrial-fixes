@@ -10,6 +10,7 @@ tags:
   - hvac
   - lennox
   - furnace
+money_part: "SureLight ignitor"
 ---
 
 ## Lennox G60UHV Furnace Error Codes — What They Mean

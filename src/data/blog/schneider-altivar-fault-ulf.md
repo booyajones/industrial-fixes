@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - schneider
+money_part: "Drive belt (V-belt or synchronous)"
 ---
 
 ## Schneider Altivar Fault ULF — What It Means

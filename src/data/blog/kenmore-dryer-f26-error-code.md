@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - kenmore
+money_part: "Door switch assembly"
 ---
 
 ## Kenmore Dryer F26 Error Code — What It Means

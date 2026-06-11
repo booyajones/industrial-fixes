@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Input line fuses for Danfoss FC302"
 ---
 
 ## Danfoss FC302 Alarm 36 — What It Means

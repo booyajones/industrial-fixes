@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - carrier
+money_part: "Tank temperature sensor / thermistor"
 ---
 
 ## Carrier Heat Pump E14 Error Code — What It Means

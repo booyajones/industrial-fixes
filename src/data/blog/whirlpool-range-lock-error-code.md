@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Accidental activation of the Control Lock feature"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool Range User Interface / Touchpad Assembly"
 ---
 
 ## Whirlpool Range LOC Error Code — What It Means

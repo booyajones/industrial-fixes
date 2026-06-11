@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - ruud
+money_part: "Exhaust blower assembly"
 ---
 
 ## Ruud E99 Error Code — What It Means

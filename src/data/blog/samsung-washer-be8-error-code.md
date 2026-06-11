@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - samsung
+money_part: "Control panel / button membrane assembly"
 ---
 
 ## Samsung bE8 Error Code — What It Means

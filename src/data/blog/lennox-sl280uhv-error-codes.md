@@ -13,6 +13,7 @@ tags:
   - variable-speed
   - error-codes
 description: "Lennox SL280UHV error codes explained — this two-stage variable-capacity furnace communicates faults via LED blink codes on the control board. Here's how to read and fix each one."
+money_part: "High-limit switch (L195)"
 ---
 
 ## Error Codes: Lennox SL280UHV

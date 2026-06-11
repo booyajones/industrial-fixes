@@ -9,6 +9,7 @@ draft: false
 tags:
   - welding
   - lincoln-electric
+money_part: "Input voltage selector switch"
 ---
 
 ## Lincoln Electric E14 Error Code — What It Means

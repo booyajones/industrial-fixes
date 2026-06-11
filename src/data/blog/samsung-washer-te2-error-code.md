@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Defective temperature sensor or thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Temperature sensor / thermistor"
 ---
 
 ## Samsung Washer tE2 Error — What It Means

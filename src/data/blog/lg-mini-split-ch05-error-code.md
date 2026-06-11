@@ -9,6 +9,7 @@ draft: true
 tags:
   - mini-split
   - lg
+money_part: "Communication wire (2 or 3-conductor)"
 ---
 
 ## LG Mini-Split CH05 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: true
 tags:
   - vfd
   - yaskawa
+money_part: "Yaskawa GA800 control power fuse"
 ---
 
 ## Yaskawa GA800 E23 Fault Code — What It Means

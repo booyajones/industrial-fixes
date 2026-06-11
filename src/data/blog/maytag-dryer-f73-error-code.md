@@ -10,7 +10,11 @@ tags:
   - appliance
   - dryer
   - maytag
+<<<<<<< Updated upstream
 diy_or_pro: "diy"
+=======
+money_part: "Front Interface Control Board (Washer)"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag Dryer F73 Error Code — What It Means

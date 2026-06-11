@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - vulcan
+money_part: "Temperature sensor / thermocouple"
 ---
 
 ## Vulcan Commercial Oven Error Codes — What They Mean

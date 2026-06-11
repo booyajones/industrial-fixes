@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "moisture or contamination on the touch panel causing a false continuous press"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Touch control panel assembly (Samsung oven/microwave)"
 ---
 
 ## Samsung C-d0 Error Code — What It Means

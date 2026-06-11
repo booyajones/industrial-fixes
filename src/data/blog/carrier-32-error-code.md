@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - carrier
+money_part: "Pressure switch"
 ---
 
 ## Carrier 32 Error Code — What It Means

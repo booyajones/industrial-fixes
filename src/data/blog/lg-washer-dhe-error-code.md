@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failing or open heater element in the drying circuit"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "LG washer-dryer heater element (drying heater assembly)"
 ---
 
 ## LG Washer dHE Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - microwave
   - kenmore
+money_part: "Relay Control Board (Electronic Control Board)"
 ---
 
 ## Kenmore Microwave F6 Error Code — What It Means

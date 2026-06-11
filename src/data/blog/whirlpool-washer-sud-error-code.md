@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Too much detergent or non-HE detergent"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Drain pump"
 ---
 
 ## Whirlpool Washer Sud Error Code — What It Means

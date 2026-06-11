@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - pioneer
+money_part: "Indoor main control board (PCB)"
 ---
 
 ## Pioneer Mini Split E0 Error Code — What It Means

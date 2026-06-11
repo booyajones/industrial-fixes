@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - ice-o-matic
+money_part: "Harvest assist hot gas valve"
 ---
 
 ## Ice-O-Matic Error Code E1 — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - microwave
   - ge
+money_part: "GE oven temperature sensor"
 ---
 
 ## GE Microwave F2 Error Code — What It Means

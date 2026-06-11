@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - bryant
+money_part: "Pressure switch"
 ---
 
 ## Bryant Furnace 31 Error Code — What It Means

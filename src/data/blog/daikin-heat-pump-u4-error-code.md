@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - daikin
+money_part: "Indoor control PCB"
 ---
 
 ## Daikin U4 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - state
+money_part: "Flame sensor rod"
 ---
 
 ## State Water Heater E147 Error Code — What It Means

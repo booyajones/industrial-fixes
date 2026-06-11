@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - bosch
+money_part: "Bosch dishwasher flow meter sensor"
 ---
 
 ## Bosch Dishwasher E14 Error Code — What It Means

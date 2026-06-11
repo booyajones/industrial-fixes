@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "External interlock or control signal not cleared before reset attempt"
 likelihood: "the most common cause when non-standard codes appear"
 diy_or_pro: "pro"
+money_part: "GA800 Control Board"
 ---
 
 ## Yaskawa GA800 E47 Fault — What It Means

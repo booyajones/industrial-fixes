@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Accidental control lock activation"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool oven door lock assembly"
 ---
 
 ## Whirlpool Oven Lock Error Code — What It Means

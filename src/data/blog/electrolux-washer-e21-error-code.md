@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - electrolux
+money_part: "Drain pump filter"
 ---
 
 ## Electrolux Washer E21 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - speed-queen
+money_part: "Speed Queen thermistor / temperature sensor"
 ---
 
 ## Speed Queen Washer SH Error Code — What It Means

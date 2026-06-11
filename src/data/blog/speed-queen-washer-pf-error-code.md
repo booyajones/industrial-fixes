@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - speed-queen
+money_part: "Power cord"
 ---
 
 ## Speed Queen Washer PF Error Code — What It Means

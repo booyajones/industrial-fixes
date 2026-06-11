@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "TurboCool mode was intentionally or accidentally activated"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "GE refrigerator user interface control board"
 ---
 
 ## GE Refrigerator tC Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - kenmore
+money_part: "User interface control board"
 ---
 
 ## Kenmore Dryer F77 Error Code — What It Means

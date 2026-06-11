@@ -10,6 +10,7 @@ tags:
   - hvac
   - rheem
   - furnace
+money_part: "Hot surface ignitor"
 ---
 
 ## Rheem RGPS Furnace Error Codes — What They Mean

@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - carrier
+money_part: "Flame sensor"
 ---
 
 ## Carrier Error Code 58 — What It Means

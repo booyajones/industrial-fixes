@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - navien
+money_part: "Navien hot water outlet thermistor"
 ---
 
 ## Navien E007 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - master-bilt
+money_part: "Door gasket"
 ---
 
 ## Master-Bilt Refrigerator Error Code 1 — What It Means

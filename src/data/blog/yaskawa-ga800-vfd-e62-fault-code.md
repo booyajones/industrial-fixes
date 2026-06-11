@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 diy_or_pro: "pro"
+money_part: "Yaskawa GA800 cooling fan"
 ---
 
 ## Yaskawa GA800 E62 Fault — What It Means

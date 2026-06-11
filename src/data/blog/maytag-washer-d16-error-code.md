@@ -10,9 +10,13 @@ tags:
   - appliance
   - washer
   - maytag
+<<<<<<< Updated upstream
 most_likely_cause: "disconnected or failed debit card reader"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+=======
+money_part: "Maytag debit card reader assembly"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag Washer D16 Error Code — What It Means

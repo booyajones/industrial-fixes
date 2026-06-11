@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "Input line fuses"
 ---
 
 ## Yaskawa GA800 E25 Fault — What It Means

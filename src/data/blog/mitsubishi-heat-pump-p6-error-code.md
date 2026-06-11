@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Indoor air filter (Mitsubishi OEM or compatible)"
 ---
 
 ## Mitsubishi P6 Error Code — What It Means

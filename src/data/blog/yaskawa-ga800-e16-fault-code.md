@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "GA800 Keypad / Operator Panel"
 ---
 
 ## Yaskawa GA800 E16 Fault Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - whirlpool
+money_part: "Whirlpool oven temperature sensor (RTD)"
 ---
 
 ## Whirlpool Oven CAL Error Code — What It Means

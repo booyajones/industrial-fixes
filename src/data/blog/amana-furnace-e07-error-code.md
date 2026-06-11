@@ -10,6 +10,7 @@ tags:
   - hvac
   - furnace
   - amana
+money_part: "Gas valve assembly"
 ---
 
 ## Amana Furnace E07 Error Code — What It Means

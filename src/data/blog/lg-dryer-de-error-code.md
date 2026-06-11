@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "door not fully latched or laundry caught in the door seal"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "LG dryer door switch"
 ---
 
 ## LG Dryer dE Error Code — What It Means

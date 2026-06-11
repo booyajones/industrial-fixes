@@ -12,6 +12,7 @@ tags:
   - hvac
   - error-code
   - flame-loss
+money_part: "[Flame sensor rod](https://www.amazon.com/s?k=Flame+sensor+rod&tag=errorcodefixes-20)"
 ---
 
 ## Burnham Boiler E4 Error — Flame Loss

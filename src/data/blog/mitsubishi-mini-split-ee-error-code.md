@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Indoor/outdoor interconnect control harness"
 ---
 
 ## Mitsubishi Mini Split EE Error Code — What It Means

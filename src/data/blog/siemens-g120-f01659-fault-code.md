@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Siemens G120 Control Unit (Safety Integrated compatible)"
 ---
 
 ## Siemens G120 F01659 — What It Means

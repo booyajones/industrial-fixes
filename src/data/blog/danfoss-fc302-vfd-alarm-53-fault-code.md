@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Replacement motor (correctly sized)"
 ---
 
 ## Danfoss FC302 ALARM 53 — What It Means

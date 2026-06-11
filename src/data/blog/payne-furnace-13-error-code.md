@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - payne
+money_part: "Air filter"
 ---
 
 ## Payne Furnace 13 Error Code — What It Means

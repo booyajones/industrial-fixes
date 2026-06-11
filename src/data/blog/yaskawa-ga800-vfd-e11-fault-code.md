@@ -9,6 +9,7 @@ draft: true
 tags:
   - vfd
   - yaskawa
+money_part: "Couplings, belts, or bearings"
 ---
 
 ## Yaskawa GA800 E11 Error Code — What It Means

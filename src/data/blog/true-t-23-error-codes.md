@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - true-refrigeration
   - commercial-refrigeration
+money_part: "Cabinet temperature sensor"
 ---
 
 ## True T-23 Refrigerator Error Codes — What They Mean

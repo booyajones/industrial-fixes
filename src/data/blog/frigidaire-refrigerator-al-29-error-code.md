@@ -10,6 +10,7 @@ tags:
   - appliance
   - refrigerator
   - frigidaire
+money_part: "Frigidaire refrigerator door gasket"
 ---
 
 ## Frigidaire AL-29 Error Code — What It Means

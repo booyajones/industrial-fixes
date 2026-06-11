@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - navien
+money_part: "Navien flow sensor"
 ---
 
 ## Navien 406 Error Code — What It Means

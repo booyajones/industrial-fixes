@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Fujitsu indoor unit pipe thermistor sensor"
 ---
 
 ## Fujitsu E:04 Error Code — What It Means

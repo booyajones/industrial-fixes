@@ -10,9 +10,13 @@ tags:
   - appliance
   - oven
   - maytag
+<<<<<<< Updated upstream
 most_likely_cause: "Sabbath Mode was enabled accidentally or intentionally"
 likelihood: "the overwhelmingly common cause"
 diy_or_pro: "diy"
+=======
+money_part: "User Interface Control Board"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag Oven SAB Error Code — What It Means

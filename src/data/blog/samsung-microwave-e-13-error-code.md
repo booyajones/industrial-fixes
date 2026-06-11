@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "failed or disconnected humidity sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Humidity sensor (Samsung refrigerator)"
 ---
 
 ## Samsung E-13 Error Code — What It Means

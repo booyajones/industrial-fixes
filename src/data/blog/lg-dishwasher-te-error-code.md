@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed thermistor or temperature sensor"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "LG dishwasher thermistor or temperature sensor"
 ---
 
 ## LG Dishwasher tE Error Code — What It Means

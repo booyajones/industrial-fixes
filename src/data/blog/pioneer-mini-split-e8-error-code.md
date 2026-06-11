@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - pioneer
+money_part: "Discharge pipe thermistor / temperature sensor"
 ---
 
 ## Pioneer Mini Split E8 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - kenmore
+money_part: "Touchpad / Keypad Assembly"
 ---
 
 ## Kenmore Oven F7 Error Code — What It Means

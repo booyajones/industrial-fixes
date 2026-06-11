@@ -10,6 +10,7 @@ tags:
   - instrument
   - watlow
   - temperature-control
+money_part: "Thermocouple / RTD sensor"
 ---
 
 ## Watlow Temperature Controller Error Codes — Quick Reference

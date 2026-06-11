@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Gree outdoor unit tube temperature sensor / thermistor"
 ---
 
 ## Gree Mini Split H4 Error Code — What It Means

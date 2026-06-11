@@ -10,6 +10,7 @@ tags:
   - vfd
   - mitsubishi
   - fr-a800
+money_part: "VFD-rated motor cable"
 ---
 
 ## Mitsubishi FR-A800 Fault E.OC1, What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Shorted temperature probe"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "GE microwave temperature probe"
 ---
 
 ## GE Microwave F6 Error Code — What It Means

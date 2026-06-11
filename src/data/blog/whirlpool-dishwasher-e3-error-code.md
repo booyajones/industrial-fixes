@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - whirlpool
+money_part: "Circulation pump / wash motor assembly"
 ---
 
 ## Whirlpool Dishwasher E3 Error Code — What It Means

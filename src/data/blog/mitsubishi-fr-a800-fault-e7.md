@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - mitsubishi
+money_part: "Control PCB (FR-A800)"
 ---
 
 ## Mitsubishi FR-A800 Fault E7 — What It Means

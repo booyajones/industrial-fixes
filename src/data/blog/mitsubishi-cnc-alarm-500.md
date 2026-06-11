@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - mitsubishi
+money_part: "MDS servo amplifier"
 ---
 
 ## Mitsubishi CNC Alarm 500 — What It Means

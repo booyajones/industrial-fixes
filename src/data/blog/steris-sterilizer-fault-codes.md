@@ -11,6 +11,7 @@ tags:
   - sterilizer
   - autoclave
   - medical
+money_part: "Door gasket (EPDM)"
 ---
 
 ## STERIS Sterilizer Fault Codes - Quick Reference

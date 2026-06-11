@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - trane
+money_part: "Trane outdoor thermistor / temperature sensor"
 ---
 
 ## Trane Heat Pump E4 Error Code — What It Means

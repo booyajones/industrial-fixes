@@ -12,6 +12,7 @@ tags:
   - t10-pro
   - rth9585
   - hvac
+money_part: "Replacement thermostat"
 ---
 
 ## Honeywell T10 Pro / RTH9585 Thermostat Error Codes — Quick Reference

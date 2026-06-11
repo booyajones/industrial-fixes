@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - pioneer
+money_part: "Indoor main PCB (control board)"
 ---
 
 ## Pioneer Mini Split EL 01 Error — What It Means

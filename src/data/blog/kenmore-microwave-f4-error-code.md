@@ -10,6 +10,7 @@ tags:
   - appliance
   - microwave
   - kenmore
+money_part: "Humidity sensor (moisture sensor)"
 ---
 
 ## Kenmore Microwave F4 Error Code — What It Means

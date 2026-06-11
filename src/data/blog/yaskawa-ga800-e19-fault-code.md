@@ -9,6 +9,7 @@ draft: true
 tags:
   - vfd
   - yaskawa
+money_part: "Control board replacement"
 ---
 
 ## Yaskawa GA800 E19 Fault — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Failed main control board or corrupted EEPROM memory"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Main Electronic Control Board (ERC)"
 ---
 
 ## LG Oven F12 Error Code — What It Means

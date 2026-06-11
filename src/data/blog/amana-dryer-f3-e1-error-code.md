@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "Exhaust thermistor"
 ---
 
 ## Amana Dryer F3 E1 Error Code — What It Means

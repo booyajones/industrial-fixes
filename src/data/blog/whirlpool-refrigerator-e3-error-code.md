@@ -11,6 +11,7 @@ tags:
   - refrigerator
   - whirlpool
 diy_or_pro: "diy"
+money_part: "Main control board"
 ---
 
 ## Whirlpool Refrigerator E3 Error Code — What It Means

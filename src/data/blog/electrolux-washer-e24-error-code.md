@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - electrolux
+money_part: "Main control board / PCB"
 ---
 
 ## Electrolux Washer E24 Error Code — What It Means

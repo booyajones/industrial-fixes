@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kitchenaid
+money_part: "Flood sensor or base leak switch"
 ---
 
 ## KitchenAid FAE5 Error Code — What It Means

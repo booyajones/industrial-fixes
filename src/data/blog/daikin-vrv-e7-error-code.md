@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - daikin
+money_part: "Outdoor fan motor"
 ---
 
 ## Daikin VRV E7 Error Code — What It Means

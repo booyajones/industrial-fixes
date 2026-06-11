@@ -9,6 +9,7 @@ draft: true
 tags:
   - vfd
   - yaskawa
+money_part: "Yaskawa encoder cable"
 ---
 
 ## Yaskawa GA800 E26 Fault Code — What It Means

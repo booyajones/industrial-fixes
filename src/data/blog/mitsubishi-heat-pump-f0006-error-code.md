@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Indoor controller or display board"
 ---
 
 ## Mitsubishi F0006 Error Code — What It Means

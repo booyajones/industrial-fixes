@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - goodman
+money_part: "Outdoor temperature sensor (thermistor)"
 ---
 
 ## Goodman Heat Pump A2 Error Code — What It Means

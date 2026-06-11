@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Siemens Micromaster I/O board (option module)"
 ---
 
 ## Siemens Micromaster F0054 — What It Means

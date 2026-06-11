@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - carrier
+money_part: "Air filter"
 ---
 
 ## Carrier 22 Error Code — What It Means

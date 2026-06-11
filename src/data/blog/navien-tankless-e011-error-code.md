@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - navien
+money_part: "Navien water pressure sensor"
 ---
 
 ## Navien E011 Error Code — What It Means

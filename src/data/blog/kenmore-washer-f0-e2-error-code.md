@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - kenmore
+money_part: "HE laundry detergent"
 ---
 
 ## Kenmore Washer F0 E2 Error — What It Means

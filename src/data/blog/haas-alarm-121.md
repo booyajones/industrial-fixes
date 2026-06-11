@@ -11,6 +11,7 @@ tags:
   - haas
   - atc
   - tool-changer
+money_part: "Proximity switch"
 ---
 
 ## Haas Alarm 121 — What It Means

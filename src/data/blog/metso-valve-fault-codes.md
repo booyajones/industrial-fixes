@@ -12,6 +12,7 @@ tags:
   - neles
   - positioner
   - industrial
+money_part: "Position sensor module"
 ---
 
 ## Metso Valve Positioner Fault Codes — Quick Reference

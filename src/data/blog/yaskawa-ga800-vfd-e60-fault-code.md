@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Failed soft-charge bypass relay or contactor"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "GA800 control board (PCB)"
 ---
 
 ## Yaskawa GA800 VFD E60 Fault — What It Means

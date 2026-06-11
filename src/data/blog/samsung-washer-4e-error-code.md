@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "blocked or kinked inlet hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung washer inlet hose"
 ---
 
 ## Samsung Washer 4E Error Code — What It Means

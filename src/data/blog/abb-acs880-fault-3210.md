@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - abb
+money_part: "Pre-charge resistor / relay"
 ---
 
 ## ABB ACS880 Fault 3210 — What It Means

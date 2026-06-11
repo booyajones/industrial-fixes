@@ -9,6 +9,7 @@ draft: false
 tags:
   - mini-split
   - mitsubishi
+money_part: "IPM (Intelligent Power Module)"
 ---
 
 ## Mitsubishi P8 Error Code — What It Means

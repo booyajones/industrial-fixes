@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kitchenaid
+money_part: "KitchenAid dishwasher overfill float switch"
 ---
 
 ## KitchenAid Dishwasher F6E4 Error Code — What It Means

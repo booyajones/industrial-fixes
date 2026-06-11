@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - ao-smith
+money_part: "A.O. Smith moisture sensor or leak detector assembly"
 ---
 
 ## A.O. Smith Water Heater E4 Error Code — What It Means

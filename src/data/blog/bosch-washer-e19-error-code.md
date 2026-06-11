@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - bosch
+money_part: "Bosch washer heating element"
 ---
 
 ## Bosch Washer E19 Error Code — What It Means

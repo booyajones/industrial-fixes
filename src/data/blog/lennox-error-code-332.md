@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - lennox
+money_part: "Air filter (1' or 4' media)"
 ---
 
 ## Lennox Error Code 332 — What It Means

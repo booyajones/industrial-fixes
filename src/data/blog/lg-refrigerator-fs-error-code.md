@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "freezer sensor (thermistor) failure or wiring harness damage"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "LG freezer thermistor (freezer sensor)"
 ---
 
 ## LG Refrigerator FS Error Code — What It Means

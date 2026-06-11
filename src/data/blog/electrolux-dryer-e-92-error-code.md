@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - electrolux
+money_part: "User interface control panel"
 ---
 
 ## Electrolux Dryer E92 Error Code — What It Means

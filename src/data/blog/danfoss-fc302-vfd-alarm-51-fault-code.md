@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Danfoss FC302 programming cable or software"
 ---
 
 ## Danfoss FC302 Alarm 51 — What It Means

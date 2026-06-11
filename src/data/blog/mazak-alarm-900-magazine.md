@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - mazak
+money_part: "Magazine position proximity switch"
 ---
 
 ## Mazak Alarm 900 - What It Means

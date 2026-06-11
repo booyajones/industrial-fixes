@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Outdoor discharge temperature sensor / thermistor"
 ---
 
 ## Gree E4 Error Code — What It Means

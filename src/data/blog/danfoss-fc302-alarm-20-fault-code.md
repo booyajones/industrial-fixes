@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Motor thermistor or PTC temperature sensor"
 ---
 
 ## Danfoss FC302 Alarm 20 — What It Means

@@ -9,6 +9,7 @@ draft: true
 tags:
   - mini-split
   - chigo
+money_part: "Outdoor unit control PCB"
 ---
 
 ## Chigo Mini Split E1 Error Code — What It Means

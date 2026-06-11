@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - scotsman
+money_part: "Scotsman scale remover"
 ---
 
 ## Scotsman Ice Machine Error Code 6 — What It Means

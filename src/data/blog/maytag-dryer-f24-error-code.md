@@ -10,9 +10,13 @@ tags:
   - appliance
   - dryer
   - maytag
+<<<<<<< Updated upstream
 most_likely_cause: "Failed inlet thermistor or temperature sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Maytag dryer inlet thermistor / temperature sensor"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag Dryer F24 Error Code — What It Means

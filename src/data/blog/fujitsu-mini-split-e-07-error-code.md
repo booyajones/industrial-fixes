@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Outdoor pipe thermistor (outdoor coil sensor)"
 ---
 
 ## Fujitsu E:07 Error Code — What It Means

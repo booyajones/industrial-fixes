@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Air intake screen / filter"
 ---
 
 ## State Water Heater E159 Error Code — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Accidental button sequence triggering Access Point mode"
 likelihood: "the most common cause when pairing was not intended"
 diy_or_pro: "diy"
+money_part: "Samsung dishwasher control panel / user-interface board"
 ---
 
 ## Samsung Dishwasher AP Error Code — What It Means

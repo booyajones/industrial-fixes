@@ -10,6 +10,7 @@ tags:
   - haas
   - cnc
   - alarm-code
+money_part: "Proximity switch"
 ---
 
 ## Haas Alarm 128 Meaning

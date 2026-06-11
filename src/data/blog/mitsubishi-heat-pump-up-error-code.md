@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Outdoor compressor"
 ---
 
 ## Mitsubishi UP Error Code — What It Means

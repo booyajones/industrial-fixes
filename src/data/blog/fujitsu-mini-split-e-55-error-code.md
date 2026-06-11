@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Indoor controller PCB or main PCB"
 ---
 
 ## Fujitsu Mini Split E:55 Error Code — What It Means

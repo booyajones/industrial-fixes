@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - bosch
+money_part: "Oven temperature sensor / RTD probe"
 ---
 
 ## Bosch Oven F31 Error Code — What It Means

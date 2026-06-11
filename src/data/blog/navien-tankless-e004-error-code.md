@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - navien
+money_part: "Flame rod / flame sensor assembly"
 ---
 
 ## Navien E004 Error Code — What It Means

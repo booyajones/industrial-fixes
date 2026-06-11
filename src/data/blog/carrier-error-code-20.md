@@ -9,6 +9,7 @@ draft: true
 tags:
   - hvac
   - carrier
+money_part: "Pressure switch"
 ---
 
 ## Carrier Error Code 20 — What It Means

@@ -12,6 +12,7 @@ tags:
   - zoning
   - hvac
   - thermostat
+money_part: "Infinity zone controller"
 ---
 
 ## Carrier Infinity Zoning System Error Codes — Quick Reference

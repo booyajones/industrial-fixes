@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed exhaust/outlet thermistor"
 likelihood: "the most commonly reported cause"
 diy_or_pro: "diy"
+money_part: "Exhaust/outlet thermistor"
 ---
 
 ## Whirlpool Dryer F22 Error Code — What It Means

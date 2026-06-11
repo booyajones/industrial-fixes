@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - bosch
+money_part: "Bosch tankless water heater temperature limiter (ECO sensor)"
 ---
 
 ## Bosch E9 Error Code — What It Means

@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "moisture intrusion or loose steam-generator wire connection"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Steam sensor (humidity sensor)"
 ---
 
 ## Samsung C-71 Error Code — What It Means

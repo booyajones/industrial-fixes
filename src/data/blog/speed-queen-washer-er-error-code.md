@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - speed-queen
+money_part: "Water inlet valve"
 ---
 
 ## Speed Queen Washer ER Error Code — What It Means

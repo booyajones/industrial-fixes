@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Failed swing heater element"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Samsung microwave swing heater element"
 ---
 
 ## Samsung Microwave E-06 Error — What It Means

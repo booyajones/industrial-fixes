@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Gree outdoor inverter PCB"
 ---
 
 ## Gree E5 Error Code — What It Means

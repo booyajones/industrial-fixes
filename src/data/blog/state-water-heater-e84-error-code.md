@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state-water-heater
+money_part: "Air intake screen or filter"
 ---
 
 ## State Water Heater E84 Error Code — What It Means

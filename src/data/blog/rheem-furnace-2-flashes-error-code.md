@@ -10,6 +10,7 @@ tags:
   - hvac
   - furnace
   - rheem
+money_part: "Pressure switch"
 ---
 
 ## Rheem Furnace 2 Flashes — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Accidental activation of Sabbath Mode from the control panel"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Owner's Manual (model-specific)"
 ---
 
 ## Frigidaire SB Error Code — What It Means

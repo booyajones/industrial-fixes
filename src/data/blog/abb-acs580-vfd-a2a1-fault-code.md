@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - abb
+money_part: "VFD-rated motor cable"
 ---
 
 ## ABB ACS580 A2A1 Fault — What It Means

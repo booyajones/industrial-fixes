@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - lg
+money_part: "LG discharge temperature sensor (compressor 2)"
 ---
 
 ## LG Mini Split CH33 Error Code — What It Means

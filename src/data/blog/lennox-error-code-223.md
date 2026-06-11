@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - lennox
+money_part: "Induced draft motor"
 ---
 
 ## Lennox Error Code 223 — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "laundry bunched to one side of the drum"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "LG washer shock absorber set"
 ---
 
 ## LG Washer UE Error Code — What It Means

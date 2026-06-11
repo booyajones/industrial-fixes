@@ -10,6 +10,7 @@ tags:
   - water-heater
   - mini-split
   - rheem
+money_part: "Rheem condensate sensor"
 ---
 
 ## Rheem A008 Error Code — What It Means

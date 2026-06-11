@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - mitsubishi
+money_part: "Drain hose"
 ---
 
 ## Mitsubishi P4 Error Code — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "shorted or stuck keypad"
 likelihood: "the primary cause"
 diy_or_pro: "diy"
+money_part: "Frigidaire range keypad or console assembly"
 ---
 
 ## Frigidaire Range F1 Error Code — What It Means

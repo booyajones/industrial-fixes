@@ -10,6 +10,7 @@ tags:
   - hvac
   - furnace
   - lennox
+money_part: "Flame sensor (flame rod)"
 ---
 
 ## Lennox E241 Error Code — What It Means

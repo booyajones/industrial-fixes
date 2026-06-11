@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - ice-o-matic
   - ice-machine
+money_part: "Hot gas solenoid valve"
 ---
 
 ## Ice-O-Matic GEM-0305 Error Codes — What They Mean

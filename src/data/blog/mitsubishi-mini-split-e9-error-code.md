@@ -9,6 +9,7 @@ draft: true
 tags:
   - mini-split
   - mitsubishi
+money_part: "Outdoor discharge pipe thermistor (TH3)"
 ---
 
 ## Mitsubishi Mini Split E9 Error Code — What It Means

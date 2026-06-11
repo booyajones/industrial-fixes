@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - noritz
+money_part: "Burner assembly"
 ---
 
 ## Noritz Error Code 10 — What It Means

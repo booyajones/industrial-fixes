@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - carrier
+money_part: "Hot surface igniter (silicon nitride)"
 ---
 
 ## Carrier 11 Error Code — What It Means

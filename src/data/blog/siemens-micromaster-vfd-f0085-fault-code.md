@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Replacement external fault device (relay, switch, or interlock)"
 ---
 
 ## Siemens Micromaster F0085 — What It Means

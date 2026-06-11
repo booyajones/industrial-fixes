@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - abb
+money_part: "ABB ACS580 input fuse kit"
 ---
 
 ## ABB ACS580 B1 Fault Code — What It Means

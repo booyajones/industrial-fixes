@@ -10,6 +10,7 @@ tags:
   - festo
   - pneumatic
   - industrial
+money_part: "Valve coil (MFH/MEBH)"
 ---
 
 ## Festo Fault Codes - Quick Reference

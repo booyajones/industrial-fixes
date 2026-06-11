@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Siemens G120 Control Unit"
 ---
 
 ## Siemens G120 F01650 — What It Means

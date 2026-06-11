@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "Motor cable (VFD-rated, screened)"
 ---
 
 ## Yaskawa VFD Fault LF — What It Means

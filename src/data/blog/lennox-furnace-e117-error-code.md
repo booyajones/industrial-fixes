@@ -10,6 +10,7 @@ tags:
   - hvac
   - furnace
   - lennox
+money_part: "Integrated control board"
 ---
 
 ## Lennox E117 Error Code — What It Means

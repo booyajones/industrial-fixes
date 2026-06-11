@@ -10,9 +10,13 @@ tags:
   - appliance
   - oven
   - frigidaire
+<<<<<<< Updated upstream
 most_likely_cause: "failed keypad or touchpad membrane"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Frigidaire oven keypad touch panel overlay"
+>>>>>>> Stashed changes
 ---
 
 ## Frigidaire Oven F11 Error Code — What It Means

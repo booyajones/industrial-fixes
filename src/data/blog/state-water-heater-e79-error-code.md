@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - state
+money_part: "Gas valve and control board assembly"
 ---
 
 ## State Water Heater E79 Error — What It Means

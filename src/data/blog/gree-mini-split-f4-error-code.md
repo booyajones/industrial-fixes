@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Gree outdoor tube thermistor / outdoor coil temperature sensor"
 ---
 
 ## Gree F4 Error Code — What It Means

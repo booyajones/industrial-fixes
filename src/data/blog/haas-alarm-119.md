@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - haas
+money_part: "Spindle belt"
 ---
 
 ## Haas Alarm 119 — What It Means

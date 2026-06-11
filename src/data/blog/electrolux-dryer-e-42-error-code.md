@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - electrolux
+money_part: "Door switch / door interlock switch"
 ---
 
 ## Electrolux Dryer E42 Error Code — What It Means

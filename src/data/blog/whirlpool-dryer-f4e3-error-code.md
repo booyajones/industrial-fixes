@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Clogged lint screen or blocked exhaust duct"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Lint screen / filter"
 ---
 
 ## Whirlpool Dryer F4E3 Error Code — What It Means

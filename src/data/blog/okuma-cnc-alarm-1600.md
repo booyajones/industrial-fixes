@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - okuma
+money_part: "Drive communication cable"
 ---
 
 ## Okuma CNC Alarm 1600 — Communication Error: What It Means

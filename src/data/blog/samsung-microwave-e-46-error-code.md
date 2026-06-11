@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed primary door interlock switch"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Primary door interlock switch"
 ---
 
 ## Samsung Microwave E-46 Error — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "defrost heater"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Whirlpool refrigerator defrost heater"
 ---
 
 ## Whirlpool Refrigerator dF Error Code — What It Means

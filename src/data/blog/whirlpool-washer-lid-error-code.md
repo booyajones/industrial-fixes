@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Lid not closing fully because of clothing, detergent buildup, lint, or physical interference at the latch area"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Lid lock assembly"
 ---
 
 ## Whirlpool Washer Lid Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - electrolux
+money_part: "Heating element assembly"
 ---
 
 ## Electrolux Dryer E64 Error Code — What It Means

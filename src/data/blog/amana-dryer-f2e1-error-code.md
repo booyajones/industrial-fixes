@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "User interface control board (console assembly)"
 ---
 
 ## Amana Dryer F2E1 Error Code — What It Means

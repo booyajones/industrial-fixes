@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - continental
+money_part: "NTC temperature sensor"
 ---
 
 ## Continental Refrigerator Error Code E1 — What It Means

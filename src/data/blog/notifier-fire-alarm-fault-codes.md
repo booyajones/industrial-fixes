@@ -10,6 +10,7 @@ tags:
   - fire-alarm
   - notifier
   - building-management
+money_part: "Battery (12V 7Ah or 12V 18Ah)"
 ---
 
 ## Notifier Fire Alarm Fault Codes — Quick Reference

@@ -10,6 +10,7 @@ tags:
   - appliance
   - refrigerator
   - bosch
+money_part: "Bosch Refrigerator Main Control Board"
 ---
 
 ## Bosch Refrigerator E01 Error Code — What It Means

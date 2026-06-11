@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - daikin
+money_part: "Compressor sensor harness"
 ---
 
 ## Daikin H0 Error Code — What It Means

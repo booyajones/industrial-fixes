@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - fanuc
+money_part: "Encoder feedback cable"
 ---
 
 ## Fanuc Alarm 411 — What It Means

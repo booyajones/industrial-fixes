@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - lg
+money_part: "LG mini-split interconnecting control cable"
 ---
 
 ## LG Mini-Split CH05 Error — What It Means

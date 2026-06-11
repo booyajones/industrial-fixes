@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Air intake screen or intake assembly"
 ---
 
 ## State Water Heater E93 Error Code — What It Means

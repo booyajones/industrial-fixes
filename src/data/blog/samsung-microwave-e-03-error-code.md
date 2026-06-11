@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Invalid grill time entry exceeding the model's programmed limit"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung microwave main control board"
 ---
 
 ## Samsung Microwave E-03 Error — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "Electronic control board (user interface or main board)"
 ---
 
 ## Amana Dryer F25 Error Code — What It Means

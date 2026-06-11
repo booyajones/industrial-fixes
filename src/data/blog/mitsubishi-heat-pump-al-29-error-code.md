@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Indoor control PCB"
 ---
 
 ## Mitsubishi AL-29 Error Code — What It Means

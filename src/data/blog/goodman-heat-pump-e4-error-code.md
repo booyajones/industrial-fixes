@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - goodman
+money_part: "Indoor coil thermistor sensor"
 ---
 
 ## Goodman E4 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - furnace
   - lookup
+money_part: "Flame sensor"
 ---
 
 ## Furnace Error Code Lookup — Start Here

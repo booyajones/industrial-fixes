@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Outdoor discharge temperature thermistor"
 ---
 
 ## Fujitsu E:71 Error Code — What It Means

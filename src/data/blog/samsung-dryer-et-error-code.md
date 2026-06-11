@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - samsung
+money_part: "Main control board"
 ---
 
 ## Samsung Dryer Et Error Code — What It Means

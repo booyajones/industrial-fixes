@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - carrier
+money_part: "Indoor unit control board (PCB)"
 ---
 
 ## Carrier E7 Error Code — What It Means

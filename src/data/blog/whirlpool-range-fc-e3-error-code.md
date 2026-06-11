@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "temporary connection timeout or weak signal between the range and router"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool range Wi-Fi module"
 ---
 
 ## Whirlpool FC E3 Error — What It Means

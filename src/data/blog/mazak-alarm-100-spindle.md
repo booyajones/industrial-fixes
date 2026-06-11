@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - mazak
+money_part: "Spindle drive cooling fan"
 ---
 
 ## Mazak Alarm 100 — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Control lock feature turned on accidentally"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool Oven Touchpad / User Interface"
 ---
 
 ## Whirlpool Oven LOC Error Code — What It Means

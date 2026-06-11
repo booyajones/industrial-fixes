@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - goodman
+money_part: "Hot surface ignitor"
 ---
 
 ## Goodman 8 Flash Error Code — What It Means

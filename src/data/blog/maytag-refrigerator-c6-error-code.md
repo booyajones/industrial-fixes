@@ -10,6 +10,7 @@ tags:
   - appliance
   - refrigerator
   - maytag
+money_part: "Main control board (model-specific)"
 ---
 
 ## Maytag Refrigerator C6 Error Code — What It Means

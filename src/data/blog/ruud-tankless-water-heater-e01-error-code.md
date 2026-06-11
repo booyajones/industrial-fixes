@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - ruud
+money_part: "Inlet filter screen"
 ---
 
 ## Ruud Tankless Water Heater E01 Error — What It Means

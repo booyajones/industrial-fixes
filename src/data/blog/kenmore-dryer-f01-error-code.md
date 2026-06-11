@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - kenmore
+money_part: "Electronic machine control board"
 ---
 
 ## Kenmore Dryer F01 Error Code — What It Means

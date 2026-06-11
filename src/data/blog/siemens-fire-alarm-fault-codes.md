@@ -11,6 +11,7 @@ tags:
   - siemens
   - cerberus
   - building-management
+money_part: "Sealed lead-acid battery"
 ---
 
 ## Siemens Fire Alarm Fault Codes — Quick Reference

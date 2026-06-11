@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "defective or stuck oven door latch assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "KitchenAid Oven Door Latch Assembly"
 ---
 
 ## KitchenAid F5 Error Code — What It Means

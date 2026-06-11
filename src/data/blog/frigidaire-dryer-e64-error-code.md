@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "broken or open heating element coil"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Frigidaire dryer heating element assembly"
 ---
 
 ## Frigidaire Dryer E64 Error Code — What It Means

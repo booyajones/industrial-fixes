@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - weil-mclain
+money_part: "DHW thermistor/sensor"
 ---
 
 ## Weil-McLain Boiler Error Code E08 — What It Means

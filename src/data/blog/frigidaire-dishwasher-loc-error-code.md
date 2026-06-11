@@ -10,9 +10,13 @@ tags:
   - appliance
   - dishwasher
   - frigidaire
+<<<<<<< Updated upstream
 most_likely_cause: "Control Lock or Child Lock feature was intentionally or accidentally enabled"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Dishwasher User Interface / Keypad"
+>>>>>>> Stashed changes
 ---
 
 ## Frigidaire Dishwasher LOC Code — What It Means

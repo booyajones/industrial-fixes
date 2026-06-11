@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - larkin
+money_part: "Evaporator fan motor"
 ---
 
 ## Larkin Refrigeration Error Codes — What They Mean

@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Stuck or shorted keypad or membrane switch assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "User interface assembly or touch panel"
 ---
 
 ## Frigidaire ER Error Code — What It Means

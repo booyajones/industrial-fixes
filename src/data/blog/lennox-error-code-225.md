@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - lennox
+money_part: "Pressure switch"
 ---
 
 ## Lennox Error Code 225 — What It Means

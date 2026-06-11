@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi-electric
+money_part: "Mitsubishi Electric remote controller"
 ---
 
 ## Mitsubishi E3 Error Code — What It Means

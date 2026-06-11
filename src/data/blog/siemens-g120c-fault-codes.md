@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
   - industrial
+money_part: "G120C internal cooling fan"
 ---
 
 ## Siemens G120C VFD Fault Codes — What They Mean

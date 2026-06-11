@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - pioneer
+money_part: "Pioneer indoor or outdoor control board / PCB"
 ---
 
 ## Pioneer Mini-Split E7 Error Code — What It Means

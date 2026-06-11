@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - york
+money_part: "Pressure switch"
 ---
 
 ## York 3 Flashes Error Code — What It Means

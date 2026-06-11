@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - abb
+money_part: "EIA-485 fieldbus communication cable"
 ---
 
 ## ABB ACS580 A7CE Fault Code — What It Means

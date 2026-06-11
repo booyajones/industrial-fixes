@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - amana
+money_part: "Water inlet valve"
 ---
 
 ## Amana Dishwasher H2O Error Code — What It Means

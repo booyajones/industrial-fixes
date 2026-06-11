@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - ecolab
+money_part: "Conductivity probe"
 ---
 
 ## Ecolab Dishwasher Fault Codes — What They Mean

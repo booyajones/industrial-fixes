@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - electrolux
+money_part: "Washer motor assembly with tachometer"
 ---
 
 ## Electrolux Washer E52 Error — What It Means

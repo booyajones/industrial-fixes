@@ -10,6 +10,7 @@ tags:
   - cnc
   - okuma
   - control
+money_part: "Backup battery"
 ---
 
 ## Okuma Alarm 3000 — What It Means

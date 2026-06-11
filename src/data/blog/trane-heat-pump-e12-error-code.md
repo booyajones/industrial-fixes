@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - trane
+money_part: "Low-voltage control fuse (3A or 5A)"
 ---
 
 ## Trane E12 Error Code — What It Means

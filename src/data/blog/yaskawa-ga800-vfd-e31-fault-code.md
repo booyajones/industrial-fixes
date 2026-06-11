@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "STO terminal jumper wire"
 ---
 
 ## Yaskawa GA800 E31 Fault — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "Moisture sensor bar assembly"
 ---
 
 ## Amana Dryer F29 Error Code — What It Means

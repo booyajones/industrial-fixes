@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - electrolux
+money_part: "Heating element or heater assembly"
 ---
 
 ## Electrolux Dryer E63 Error Code — What It Means

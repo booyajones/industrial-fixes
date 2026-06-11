@@ -9,6 +9,7 @@ draft: false
 tags:
   - welding
   - esab
+money_part: "Contact tip"
 ---
 
 ## ESAB Welder F02 Fault Code — What It Means

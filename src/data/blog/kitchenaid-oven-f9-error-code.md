@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - kitchenaid
+money_part: "Terminal block"
 ---
 
 ## KitchenAid Oven F9 Error Code — What It Means

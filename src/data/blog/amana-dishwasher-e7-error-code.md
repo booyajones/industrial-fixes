@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - amana
+money_part: "Temperature sensor (thermistor)"
 ---
 
 ## Amana Dishwasher E7 Error Code — What It Means

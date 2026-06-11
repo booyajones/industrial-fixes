@@ -12,6 +12,7 @@ tags:
   - lathe
   - osp
   - alarms
+money_part: "Encoder battery (3.6V lithium)"
 ---
 
 ## Okuma LB/LU Lathe Common Alarm Guide

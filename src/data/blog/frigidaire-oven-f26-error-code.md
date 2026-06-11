@@ -9,9 +9,13 @@ draft: false
 tags:
   - appliance
   - frigidaire
+<<<<<<< Updated upstream
 most_likely_cause: "loose or damaged wiring harness or ribbon cable between the control board and user interface"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Electronic oven control board"
+>>>>>>> Stashed changes
 ---
 
 ## Frigidaire F26 Error Code — What It Means

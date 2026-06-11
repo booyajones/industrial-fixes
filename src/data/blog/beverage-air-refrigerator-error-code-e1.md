@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - beverage-air
+money_part: "NTC temperature probe"
 ---
 
 ## Beverage-Air Refrigerator Error Code E1 — What It Means

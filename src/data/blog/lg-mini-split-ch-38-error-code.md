@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - lg
+money_part: "Refrigerant line set flare repair kit"
 ---
 
 ## LG Mini-Split CH38 Error Code — What It Means

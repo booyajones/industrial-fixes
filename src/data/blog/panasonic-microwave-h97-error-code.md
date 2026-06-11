@@ -10,6 +10,7 @@ tags:
   - appliance
   - microwave
   - panasonic
+money_part: "Inverter board / Power PCB"
 ---
 
 ## Panasonic Microwave H97 Error Code — What It Means

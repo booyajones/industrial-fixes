@@ -10,6 +10,7 @@ tags:
   - compressor
   - kaeser
   - industrial
+money_part: "Temperature or pressure sensor"
 ---
 
 ## Kaeser Compressor Error Codes — Quick Reference

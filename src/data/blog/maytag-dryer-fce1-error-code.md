@@ -10,9 +10,13 @@ tags:
   - appliance
   - dryer
   - maytag
+<<<<<<< Updated upstream
 most_likely_cause: "stuck or contaminated button on the console"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Maytag dryer user interface board (touchpad assembly)"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag Dryer F2E1 Error Code — What It Means

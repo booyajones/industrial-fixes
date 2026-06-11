@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - pioneer
+money_part: "Compressor discharge temperature sensor (T5)"
 ---
 
 ## Pioneer Mini Split F3 Error Code — What It Means

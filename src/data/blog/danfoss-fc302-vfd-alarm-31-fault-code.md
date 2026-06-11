@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Motor cable assembly"
 ---
 
 ## Danfoss FC302 Alarm 31 — What It Means

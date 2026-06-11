@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - cooper-hunter
+money_part: "Cooper & Hunter indoor unit controller board"
 ---
 
 ## Cooper & Hunter F0 Error Code — What It Means

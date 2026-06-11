@@ -10,6 +10,7 @@ tags:
   - hvac
   - trane
   - air-conditioner
+money_part: "Dual run capacitor"
 ---
 
 ## Trane XR13 Air Conditioner Error Codes — What They Mean

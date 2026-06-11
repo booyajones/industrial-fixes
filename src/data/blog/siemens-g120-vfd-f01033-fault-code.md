@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Siemens Startdrive commissioning software"
 ---
 
 ## Siemens G120 F01033 — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Siemens G120 Control Unit (CU240 series or equivalent)"
 ---
 
 ## Siemens G120 F01001 — What It Means

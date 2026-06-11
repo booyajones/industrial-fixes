@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Steam feeder empty or below the MAX line"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "LG steam feeder assembly"
 ---
 
 ## LG Dryer Add Error Code — What It Means

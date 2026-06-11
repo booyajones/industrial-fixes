@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed lower oven thermistor or temperature sensor"
 likelihood: "the primary cause"
 diy_or_pro: "diy"
+money_part: "LG lower oven thermistor / temperature sensor"
 ---
 
 ## LG Range F5 Error Code — What It Means

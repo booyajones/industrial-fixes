@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - state
+money_part: "Inlet water filter screen"
 ---
 
 ## State Water Heater E100 Error Code — What It Means

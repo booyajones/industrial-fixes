@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "faulty lid lock assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool lid lock assembly"
 ---
 
 ## Whirlpool F5E3 Error Code — What It Means

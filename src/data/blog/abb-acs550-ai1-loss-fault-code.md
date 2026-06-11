@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - abb
+money_part: "Shielded twisted-pair cable (analog signal grade)"
 ---
 
 ## ABB ACS550 AI1 LOSS — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Inverter heatsink temperature sensor"
 ---
 
 ## Siemens Micromaster F0012 — What It Means

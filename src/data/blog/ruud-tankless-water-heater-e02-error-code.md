@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - ruud
+money_part: "High-limit thermostat or overheat switch"
 ---
 
 ## Ruud E02 Error Code — What It Means

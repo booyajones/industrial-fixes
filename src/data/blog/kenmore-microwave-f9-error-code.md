@@ -10,6 +10,7 @@ tags:
   - appliance
   - microwave
   - kenmore
+money_part: "Inverter board assembly"
 ---
 
 ## Kenmore Microwave F9 Error Code — What It Means

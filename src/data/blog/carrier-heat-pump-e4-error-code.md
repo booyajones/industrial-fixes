@@ -9,6 +9,7 @@ draft: true
 tags:
   - hvac
   - carrier
+money_part: "Refrigerant charge (R-410A per nameplate)"
 ---
 
 ## Carrier Heat Pump E4 Error Code — What It Means

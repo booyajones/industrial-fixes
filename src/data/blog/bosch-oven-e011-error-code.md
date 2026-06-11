@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - bosch
+money_part: "Control keypad / button panel"
 ---
 
 ## Bosch Oven E011 Error Code — What It Means

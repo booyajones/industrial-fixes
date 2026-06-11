@@ -10,9 +10,13 @@ tags:
   - appliance
   - washer
   - maytag
+<<<<<<< Updated upstream
 most_likely_cause: "jammed dispenser drawer or linkage"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Dispenser actuator motor"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag Washer F30 Error Code — What It Means

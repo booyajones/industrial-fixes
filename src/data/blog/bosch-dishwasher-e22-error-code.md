@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - bosch
+money_part: "Bosch dishwasher filter assembly"
 ---
 
 ## Bosch E22 Error Code — What It Means

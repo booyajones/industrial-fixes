@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - abb
+money_part: "Input fuses"
 ---
 
 ## ABB ACS580 Fault 3130 — What It Means

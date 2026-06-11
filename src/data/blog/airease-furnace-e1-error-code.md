@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - airease
+money_part: "Hot surface igniter"
 ---
 
 ## AirEase Furnace E1 Error Code — What It Means

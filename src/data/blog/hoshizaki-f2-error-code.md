@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - hoshizaki
+money_part: "Bin thermostat"
 ---
 
 ## Hoshizaki F2 Error Code — What It Means

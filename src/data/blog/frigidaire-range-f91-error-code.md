@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed door lock assembly"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Frigidaire oven door lock assembly"
 ---
 
 ## Frigidaire Range F91 Error Code — What It Means

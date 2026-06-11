@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Outdoor coil thermistor sensor"
 ---
 
 ## Fujitsu Mini Split E:68 Error — What It Means

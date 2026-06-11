@@ -10,9 +10,13 @@ tags:
   - appliance
   - washer
   - maytag
+<<<<<<< Updated upstream
 most_likely_cause: "failed motor tachometer or speed sensor"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+=======
+money_part: "Drive motor assembly"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag Washer F25 Error Code — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "utility power outage or breaker trip during the wash cycle"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "15 or 20 A GFCI outlet"
 ---
 
 ## LG Washer PF Error Code — What It Means

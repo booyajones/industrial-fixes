@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - navien
+money_part: "Navien circulation pump"
 ---
 
 ## Navien Alarm 438 — What It Means

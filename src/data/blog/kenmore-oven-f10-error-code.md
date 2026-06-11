@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - kenmore
+money_part: "Oven temperature sensor (temperature probe)"
 ---
 
 ## Kenmore Oven F10 Error Code — What It Means

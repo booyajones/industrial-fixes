@@ -11,6 +11,7 @@ tags:
   - fanuc
   - spindle
   - overload
+money_part: "Spindle bearings"
 ---
 
 ## Fanuc Alarm 460 — What It Means

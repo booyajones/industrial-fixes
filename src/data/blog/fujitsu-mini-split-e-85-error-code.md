@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Fujitsu main PCB"
 ---
 
 ## Fujitsu E:85 Error — What It Means

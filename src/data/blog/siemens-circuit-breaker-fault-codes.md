@@ -10,6 +10,7 @@ tags:
   - siemens
   - circuit-breaker
   - electrical
+money_part: "ETU trip unit"
 ---
 
 ## Siemens Circuit Breaker Fault Codes - Quick Reference

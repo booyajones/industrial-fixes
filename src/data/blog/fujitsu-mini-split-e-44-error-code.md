@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Indoor unit thermistor / temperature sensor"
 ---
 
 ## Fujitsu E:44 Error Code — What It Means

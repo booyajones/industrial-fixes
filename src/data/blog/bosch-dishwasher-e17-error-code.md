@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - bosch
+money_part: "Bosch dishwasher water inlet valve"
 ---
 
 ## Bosch Dishwasher E17 Error Code — What It Means

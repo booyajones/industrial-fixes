@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - abb
+money_part: "Input fuses (class J or RK5)"
 ---
 
 ## ABB VFD Fault 3210 — What It Means

@@ -10,6 +10,7 @@ tags:
   - plumbing
   - navien
   - tankless-water-heater
+money_part: "Flow sensor"
 ---
 
 ## Navien NPE Series Error Codes — What They Mean

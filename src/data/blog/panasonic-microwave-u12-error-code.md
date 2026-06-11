@@ -10,6 +10,7 @@ tags:
   - appliance
   - microwave
   - panasonic
+money_part: "Door Interlock Switch"
 ---
 
 ## Panasonic Microwave U12 Error Code — What It Means

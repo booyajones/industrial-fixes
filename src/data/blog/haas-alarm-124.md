@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - haas
+money_part: "Tool-present proximity switch"
 ---
 
 ## Haas Alarm 124 — What It Means

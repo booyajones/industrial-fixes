@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - bosch
+money_part: "Bosch Oven Food Sensor Probe / Meat Probe"
 ---
 
 ## Bosch Oven F111 Error Code — What It Means

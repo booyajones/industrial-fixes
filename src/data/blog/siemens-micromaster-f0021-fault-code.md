@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Motor output cable (3-conductor shielded VFD-rated)"
 ---
 
 ## Siemens Micromaster F0021 — What It Means

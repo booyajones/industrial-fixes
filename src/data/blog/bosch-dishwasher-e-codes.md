@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - bosch
+money_part: "Booster heater element"
 ---
 
 ## Bosch Commercial Dishwasher E-Codes — What They Mean

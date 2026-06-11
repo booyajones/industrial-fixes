@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - lg
+money_part: "Indoor/outdoor interconnect cable"
 ---
 
 ## LG Mini Split CH93 Error Code — What It Means

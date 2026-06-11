@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mrcool
+money_part: "Indoor room temperature sensor (T1 thermistor)"
 ---
 
 ## MRCOOL EH 60 Error Code — What It Means

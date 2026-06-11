@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi-electric
+money_part: "Mitsubishi remote controller"
 ---
 
 ## Mitsubishi E2 Error Code — What It Means

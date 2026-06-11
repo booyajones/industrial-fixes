@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kenmore
+money_part: "Drain pump assembly"
 ---
 
 ## Kenmore Dishwasher F8E2 Error Code — What It Means

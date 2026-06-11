@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Siemens Micromaster 420 or 440 VFD (replacement drive)"
 ---
 
 ## Siemens Micromaster F0051 — What It Means

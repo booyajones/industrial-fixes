@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - hoshizaki
+money_part: "Hoshizaki scale remover (nickel-safe)"
 ---
 
 ## Hoshizaki F01 Error Code — What It Means

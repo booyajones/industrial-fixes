@@ -10,6 +10,7 @@ tags:
   - hvac
   - trane
   - furnace
+money_part: "Pressure switch hose"
 ---
 
 ## Trane S8X1 Furnace Error Codes — What They Mean

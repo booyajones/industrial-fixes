@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Shielded VFD-rated motor cable"
 ---
 
 ## Danfoss FC302 Alarm 14 — What It Means

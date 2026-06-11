@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Low incoming water pressure or a partially closed supply valve"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Water inlet valve assembly"
 ---
 
 ## LG Refrigerator gF Error Code — What It Means

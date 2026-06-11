@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - trane
+money_part: "Outdoor fan motor"
 ---
 
 ## Trane Heat Pump 1 Flash Error Code — What It Means

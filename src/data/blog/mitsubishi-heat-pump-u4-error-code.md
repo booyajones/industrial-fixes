@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Outdoor unit thermistor sensor"
 ---
 
 ## Mitsubishi U4 Error Code — What It Means

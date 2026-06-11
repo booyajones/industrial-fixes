@@ -10,6 +10,7 @@ tags:
   - hvac
   - furnace
   - lennox
+money_part: "High-limit switch"
 ---
 
 ## Lennox E250 Error Code — What It Means

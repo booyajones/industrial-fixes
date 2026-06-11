@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - state
+money_part: "Temperature sensor (thermistor)"
 ---
 
 ## State Water Heater E51 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: true
 tags:
   - vfd
   - yaskawa
+money_part: "Yaskawa GA800 cooling fan"
 ---
 
 ## Yaskawa GA800 E37 Fault — What It Means

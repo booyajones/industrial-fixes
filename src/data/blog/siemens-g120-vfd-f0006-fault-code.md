@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Siemens G120 inverter power module"
 ---
 
 ## Siemens G120 F0006 Fault — What It Means

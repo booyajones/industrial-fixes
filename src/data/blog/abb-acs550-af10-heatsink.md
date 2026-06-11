@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - abb
+money_part: "Internal cooling fan"
 ---
 
 ## ABB ACS550 AF10 Fault — What It Means

@@ -10,9 +10,13 @@ tags:
   - appliance
   - washer
   - maytag
+<<<<<<< Updated upstream
 most_likely_cause: "failed motor control unit (MCU)"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Machine control board (main control unit)"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag Washer F11 Error Code — What It Means

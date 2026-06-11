@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Siemens SINAMICS G120 Control Unit (CU240E-2, CU250S-2, or matching variant)"
 ---
 
 ## Siemens G120 F01105 — What It Means

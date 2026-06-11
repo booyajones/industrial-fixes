@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - bosch
+money_part: "Oven cooling fan motor"
 ---
 
 ## Bosch Oven E6200 Error Code — What It Means

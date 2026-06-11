@@ -13,6 +13,7 @@ tags:
   - restaurant-equipment
   - error-codes
 description: "Turbo Air MSR-49N and similar two-door reach-in refrigerator error codes explained. Diagnose E1, E2, E3, defrost faults, and high temperature alarms on one of the most common restaurant reach-ins."
+money_part: "Cabinet temperature sensor"
 ---
 
 ## Error Codes: Turbo Air MSR-49N and Similar Reach-Ins

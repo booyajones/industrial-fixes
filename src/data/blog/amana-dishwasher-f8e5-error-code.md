@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - amana
+money_part: "Water inlet valve"
 ---
 
 ## Amana Dishwasher F8E5 Error Code — What It Means

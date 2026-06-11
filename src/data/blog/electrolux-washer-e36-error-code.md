@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - electrolux
+money_part: "Pressure switch"
 ---
 
 ## Electrolux Washer E36 Error Code — What It Means

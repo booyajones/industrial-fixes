@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Outdoor unit pipe temperature sensor (thermistor)"
 ---
 
 ## Mitsubishi P3 Error Code — What It Means

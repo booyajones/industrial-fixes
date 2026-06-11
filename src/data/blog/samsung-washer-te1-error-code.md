@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "faulty temperature sensor (thermistor)"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Temperature sensor (thermistor)"
 ---
 
 ## Samsung tE1 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - microwave
   - whirlpool
+money_part: "Gas sensor (Whirlpool OTR microwave)"
 ---
 
 ## Whirlpool Microwave E12 Error Code — What It Means

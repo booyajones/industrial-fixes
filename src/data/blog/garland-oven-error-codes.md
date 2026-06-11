@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - garland
+money_part: "Cavity temperature sensor"
 ---
 
 ## Garland Commercial Oven Error Codes — What They Mean

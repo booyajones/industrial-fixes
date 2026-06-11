@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - fanuc
+money_part: "Servo amplifier cooling fan"
 ---
 
 ## Fanuc Alarm 400 — What It Means

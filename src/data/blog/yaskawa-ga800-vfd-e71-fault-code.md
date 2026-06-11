@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "loose, damaged, or miswired communications cabling to the option card or network"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Yaskawa GA800 communications option card"
 ---
 
 ## Yaskawa GA800 E71 Fault — What It Means

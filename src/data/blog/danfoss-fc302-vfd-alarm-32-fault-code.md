@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Motor output cable (3-phase power cable)"
 ---
 
 ## Danfoss FC302 Alarm 32 — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kenmore
+money_part: "Water inlet valve"
 ---
 
 ## Kenmore Dishwasher E10 Error Code — What It Means

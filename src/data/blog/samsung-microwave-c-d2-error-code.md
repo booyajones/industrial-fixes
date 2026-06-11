@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "stuck or shorted keypad button"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Touch control panel assembly (membrane keypad)"
 ---
 
 ## Samsung C-d2 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - microwave
   - panasonic
+money_part: "Panasonic microwave water tank assembly"
 ---
 
 ## Panasonic Microwave U14 Error Code — What It Means

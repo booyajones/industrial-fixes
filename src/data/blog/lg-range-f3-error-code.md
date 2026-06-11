@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "moisture, grease, or food residue on the touch panel"
 likelihood: "the most common cause on touch-panel models"
 diy_or_pro: "diy"
+money_part: "LG range touch panel or keypad assembly"
 ---
 
 ## LG Range F3 Error Code — What It Means

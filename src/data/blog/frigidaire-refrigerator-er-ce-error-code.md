@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Loose, oxidized, or moisture-contaminated connector at the display or main control board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Frigidaire refrigerator user interface board (display board)"
 ---
 
 ## Frigidaire Er CE Error Code — What It Means

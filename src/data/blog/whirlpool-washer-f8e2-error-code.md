@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Clogged or improperly installed dispenser"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool dispenser assembly"
 ---
 
 ## Whirlpool F8E2 Error Code — What It Means

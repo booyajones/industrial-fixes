@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - goodman
+money_part: "Flame sensor"
 ---
 
 ## Goodman Furnace 5 Flash Error Code — What It Means

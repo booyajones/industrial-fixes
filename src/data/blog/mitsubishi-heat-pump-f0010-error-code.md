@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Indoor display PCB"
 ---
 
 ## Mitsubishi F0010 Error Code — What It Means

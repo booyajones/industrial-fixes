@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "Yaskawa control PCB"
 ---
 
 ## Yaskawa VFD Fault CF — What It Means

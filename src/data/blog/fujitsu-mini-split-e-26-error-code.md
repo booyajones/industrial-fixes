@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Fujitsu outdoor unit main PCB"
 ---
 
 ## Fujitsu Mini Split E:26 Error — What It Means

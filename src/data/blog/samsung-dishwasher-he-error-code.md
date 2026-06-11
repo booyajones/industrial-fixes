@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Heating element or thermistor fault"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Dishwasher heating element"
 ---
 
 ## Samsung Dishwasher HE Error Code — What It Means

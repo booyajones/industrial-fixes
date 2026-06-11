@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - ice-o-matic
+money_part: "Water inlet valve assembly"
 ---
 
 ## Ice-O-Matic Error Code E3 — What It Means

@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Incorrect wiring or loose connection in the communications cable"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Serial communications cable (shielded)"
 ---
 
 ## Yaskawa GA800 E76 Fault — What It Means

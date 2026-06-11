@@ -10,9 +10,13 @@ tags:
   - appliance
   - washer
   - frigidaire
+<<<<<<< Updated upstream
 most_likely_cause: "loose or leaking fill hose connection"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Pressure sensor air hose"
+>>>>>>> Stashed changes
 ---
 
 ## Frigidaire Washer E13 Error — What It Means

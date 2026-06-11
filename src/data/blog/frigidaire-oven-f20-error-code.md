@@ -9,9 +9,13 @@ draft: false
 tags:
   - appliance
   - frigidaire
+<<<<<<< Updated upstream
 most_likely_cause: "Temporary control glitch or failed main control board"
 likelihood: "the most common causes"
 diy_or_pro: "diy"
+=======
+money_part: "Electronic Oven Control (EOC) board"
+>>>>>>> Stashed changes
 ---
 
 ## Frigidaire F20 Error Code — What It Means

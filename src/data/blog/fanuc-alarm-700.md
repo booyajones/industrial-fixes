@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - fanuc
+money_part: "Spindle motor cooling fan"
 ---
 
 ## Fanuc Alarm 700 — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - okuma
+money_part: "Servo encoder cable"
 ---
 
 ## Okuma LB-Series Alarm 1013 — What It Means

@@ -9,6 +9,7 @@ draft: true
 tags:
   - hvac
   - carrier
+money_part: "Communication wire (18/2 shielded)"
 ---
 
 ## Carrier Heat Pump E1 Error Code — What It Means

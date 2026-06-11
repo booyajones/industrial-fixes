@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - carrier
+money_part: "VFD inverter module"
 ---
 
 ## Carrier Error Code 17 — What It Means

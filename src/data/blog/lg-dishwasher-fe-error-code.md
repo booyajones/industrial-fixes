@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "stuck or obstructed float assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "LG dishwasher water inlet valve"
 ---
 
 ## LG Dishwasher FE Error Code — What It Means

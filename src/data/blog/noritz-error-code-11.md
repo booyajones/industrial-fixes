@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - noritz
+money_part: "Igniter/spark electrode"
 ---
 
 ## Noritz Error Code 11 — What It Means

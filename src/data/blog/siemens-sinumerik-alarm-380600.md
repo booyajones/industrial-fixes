@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - siemens
+money_part: "Encoder feedback cable"
 ---
 
 ## Siemens Sinumerik Alarm 380600 — What It Means

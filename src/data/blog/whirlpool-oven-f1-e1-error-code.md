@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Failed control board (Oven Appliance Manager Control or clock)"
 likelihood: "the most common cause when code returns after reset"
 diy_or_pro: "diy"
+money_part: "Whirlpool oven control board (Oven Appliance Manager Control / clock)"
 ---
 
 ## Whirlpool Oven F1 E1 Error — What It Means

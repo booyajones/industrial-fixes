@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "G120 Control Unit Module (CU)"
 ---
 
 ## Siemens F01018 — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - appliance
   - rational
+money_part: "Differential pressure sensor"
 ---
 
 ## Rational iCombi Classic E01 — What It Means

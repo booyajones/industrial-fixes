@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - trane
+money_part: "ComfortLink II thermostat"
 ---
 
 ## Trane XV20i Heat Pump Error Codes — What They Mean

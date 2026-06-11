@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - bosch
+money_part: "Drain pump"
 ---
 
 ## Bosch Washer E23 Error Code — What It Means

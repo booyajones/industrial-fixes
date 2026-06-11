@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Condensate pump (Mitsubishi mini-split)"
 ---
 
 ## Mitsubishi P5 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Indoor controller PCB (main board)"
 ---
 
 ## Fujitsu E:56 Error Code — What It Means

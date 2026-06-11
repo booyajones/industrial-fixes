@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - lennox
+money_part: "Induced draft motor"
 ---
 
 ## Lennox 103 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - hussmann
+money_part: "NTC air sensor"
 ---
 
 ## Hussmann Walk-In Cooler Error Codes — What They Mean

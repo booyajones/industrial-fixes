@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Stuck or contaminated touch key or keypad"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Touchpad assembly (also called keypad or control overlay)"
 ---
 
 ## Samsung Microwave C-F2 Error Code — What It Means

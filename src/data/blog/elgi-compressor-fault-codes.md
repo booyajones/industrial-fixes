@@ -10,6 +10,7 @@ tags:
   - compressor
   - elgi
   - industrial
+money_part: "Oil separator element"
 ---
 
 ## ELGi Compressor Fault Codes — Quick Reference

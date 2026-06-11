@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Outdoor coil or discharge thermistor"
 ---
 
 ## Mitsubishi P8 Error Code — What It Means

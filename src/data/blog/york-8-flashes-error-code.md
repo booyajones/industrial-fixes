@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - york
+money_part: "Hot surface igniter"
 ---
 
 ## York 8 Flashes Error Code — What It Means

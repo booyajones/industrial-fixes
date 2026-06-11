@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - ecosmart
+money_part: "EcoSmart inlet thermistor (temperature sensor)"
 ---
 
 ## EcoSmart ECO 30 Error Codes — What It Means

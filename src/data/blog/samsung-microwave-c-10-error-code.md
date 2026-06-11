@@ -10,6 +10,7 @@ tags:
   - appliance
   - microwave
   - samsung
+money_part: "Gas/easy/pH sensor (Samsung OEM or equivalent)"
 ---
 
 ## Samsung Microwave C-10 Error Code — What It Means

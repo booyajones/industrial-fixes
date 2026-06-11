@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Thermistor / temperature sensor"
 ---
 
 ## Fujitsu E:46 Error Code — What It Means

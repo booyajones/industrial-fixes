@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - ruud
+money_part: "Gas valve"
 ---
 
 ## Ruud E13 Error Code — What It Means

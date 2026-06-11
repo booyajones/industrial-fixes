@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "User interface assembly (console board)"
 ---
 
 ## Amana Dryer F70 Error Code — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "loose, damaged, or corroded wiring or connectors between control components"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Maytag Appliance Manager / Main Control Board"
 ---
 
 ## Maytag Range F6E3 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Danfoss VLT programming software (MCT 10)"
 ---
 
 ## Danfoss FC302 Alarm 52 — What It Means

@@ -10,6 +10,7 @@ tags:
   - compressor
   - chicago-pneumatic
   - industrial
+money_part: "Oil filter"
 ---
 
 ## Chicago Pneumatic Compressor Fault Codes — Quick Reference

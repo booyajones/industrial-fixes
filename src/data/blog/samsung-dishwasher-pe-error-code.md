@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - samsung
+money_part: "Diverter assembly (Samsung dishwasher)"
 ---
 
 ## Samsung Dishwasher PE Error — What It Means

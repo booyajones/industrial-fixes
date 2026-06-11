@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Motor cable (3-phase shielded VFD-rated)"
 ---
 
 ## Danfoss FC302 Alarm 32 — What It Means

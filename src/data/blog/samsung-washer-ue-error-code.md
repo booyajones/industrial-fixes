@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "laundry bunched to one side or not spread evenly in the drum"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Shock absorber / damper kit"
 ---
 
 ## Samsung Washer UE Error Code — What It Means

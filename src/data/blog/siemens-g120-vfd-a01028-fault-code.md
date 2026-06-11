@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Siemens G120 Control Unit (CU) matching installed MLFB"
 ---
 
 ## Siemens G120 A01028 Fault — What It Means

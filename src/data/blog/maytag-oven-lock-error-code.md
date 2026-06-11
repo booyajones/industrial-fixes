@@ -10,9 +10,13 @@ tags:
   - appliance
   - oven
   - maytag
+<<<<<<< Updated upstream
 most_likely_cause: "Debris or obstruction in the door latch mechanism"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Door lock assembly"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag Oven Lock Error Code — What It Means

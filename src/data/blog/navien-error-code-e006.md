@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - navien
+money_part: "Exhaust thermistor"
 ---
 
 ## Navien E006 Error Code — What It Means

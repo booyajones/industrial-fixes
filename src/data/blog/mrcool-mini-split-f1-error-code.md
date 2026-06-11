@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mrcool
+money_part: "MRCOOL outdoor ambient temperature sensor (T4)"
 ---
 
 ## MRCOOL Mini Split F1 Error Code — What It Means

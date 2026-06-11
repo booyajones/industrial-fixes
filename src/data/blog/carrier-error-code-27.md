@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - carrier
+money_part: "Programmable Control Module (PCM)"
 ---
 
 ## Carrier Error Code 27 — What It Means

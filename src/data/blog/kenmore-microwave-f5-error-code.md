@@ -10,6 +10,7 @@ tags:
   - appliance
   - microwave
   - kenmore
+money_part: "Humidity sensor"
 ---
 
 ## Kenmore Microwave F5 Error Code — What It Means

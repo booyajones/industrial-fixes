@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "door latch assembly failure"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Whirlpool microwave door latch assembly"
 ---
 
 ## Whirlpool Microwave F05 Error — What It Means

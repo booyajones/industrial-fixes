@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Dirty, greasy, or wet touch control surface"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Touch control panel (user interface)"
 ---
 
 ## Maytag Range F1E0 Error Code — What It Means

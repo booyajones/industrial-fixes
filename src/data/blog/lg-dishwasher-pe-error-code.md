@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Defective water level sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "LG dishwasher water level sensor"
 ---
 
 ## LG Dishwasher PE Error Code — What It Means

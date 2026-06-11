@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Stuck, worn, or failed soft-charge bypass relay or contactor inside the drive"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Yaskawa GA800 control board"
 ---
 
 ## Yaskawa GA800 E61 Fault — What It Means

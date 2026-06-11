@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - bosch
+money_part: "Door lock assembly"
 ---
 
 ## Bosch Washer E27 Error Code — What It Means

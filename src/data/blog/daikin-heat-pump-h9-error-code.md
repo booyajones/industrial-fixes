@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - daikin
+money_part: "Outdoor air thermistor / outdoor ambient temperature sensor"
 ---
 
 ## Daikin H9 Error Code — What It Means

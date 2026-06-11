@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - electrolux
+money_part: "Electrolux dryer main control board"
 ---
 
 ## Electrolux Dryer E74 Error Code — What It Means

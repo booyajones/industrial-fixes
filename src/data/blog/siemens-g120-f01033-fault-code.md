@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Siemens G120 parameter backup file or commissioning dataset"
 ---
 
 ## Siemens G120 F01033 — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Refrigerator unintentionally placed into Wi-Fi pairing mode"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung refrigerator Wi-Fi module"
 ---
 
 ## Samsung Refrigerator AP Code — What It Means

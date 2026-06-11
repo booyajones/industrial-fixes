@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Gree reversing valve coil"
 ---
 
 ## Gree U7 Error Code — What It Means

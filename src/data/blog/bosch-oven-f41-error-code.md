@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - bosch
+money_part: "Oven door latch motor assembly"
 ---
 
 ## Bosch Oven F41 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - goodman
+money_part: "Communicating thermostat"
 ---
 
 ## Goodman Furnace EE2 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - microwave
   - samsung
+money_part: "Gas sensor assembly"
 ---
 
 ## Samsung Microwave E-14 Error — What It Means

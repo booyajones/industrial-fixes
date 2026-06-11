@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Failed or drifting oven temperature sensor"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Oven temperature sensor / thermistor"
 ---
 
 ## Samsung Oven C-21 Error Code — What It Means

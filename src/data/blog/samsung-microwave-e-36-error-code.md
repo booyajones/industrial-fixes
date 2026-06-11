@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "loose, cut, or damaged interconnect wiring between indoor and outdoor units"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Samsung mini-split interconnect wiring harness"
 ---
 
 ## Samsung E-36 Error Code — What It Means

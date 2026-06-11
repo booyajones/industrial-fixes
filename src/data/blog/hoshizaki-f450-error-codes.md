@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - hoshizaki
   - ice-machine
+money_part: "Gearmotor"
 ---
 
 ## Hoshizaki F-450 Flaker Error Codes — What They Mean

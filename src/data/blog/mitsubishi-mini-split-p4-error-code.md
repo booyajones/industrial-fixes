@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Mitsubishi outdoor unit main PCB"
 ---
 
 ## Mitsubishi Mini Split P4 Error — What It Means

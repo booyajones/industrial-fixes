@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - bosch
+money_part: "Water inlet valve / solenoid valve"
 ---
 
 ## Bosch Washer E29 Error Code — What It Means

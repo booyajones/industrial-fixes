@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - state
+money_part: "Air intake screen"
 ---
 
 ## State Tankless E65 Error — What It Means

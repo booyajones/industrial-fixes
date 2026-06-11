@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Braking resistor for Siemens G120"
 ---
 
 ## Siemens G120 F30002 — What It Means

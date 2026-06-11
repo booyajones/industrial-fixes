@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - cooper-and-hunter
+money_part: "Cooper & Hunter outdoor fan motor"
 ---
 
 ## Cooper & Hunter H3 Error Code — What It Means

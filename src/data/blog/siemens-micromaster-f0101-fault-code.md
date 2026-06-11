@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Siemens Micromaster 420 or 440 inverter drive (complete unit)"
 ---
 
 ## Siemens Micromaster F0101 — What It Means

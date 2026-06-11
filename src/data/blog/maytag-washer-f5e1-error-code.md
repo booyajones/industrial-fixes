@@ -10,9 +10,13 @@ tags:
   - appliance
   - washer
   - maytag
+<<<<<<< Updated upstream
 most_likely_cause: "door or lid not fully closed or obstructed"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Maytag washer lid switch and lock assembly"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag F5E1 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - cooper-and-hunter
+money_part: "IPM board (outdoor inverter module)"
 ---
 
 ## Cooper and Hunter Mini Split P1 Error — What It Means

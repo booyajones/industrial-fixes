@@ -11,6 +11,7 @@ tags:
   - oven
   - whirlpool
 diy_or_pro: "diy"
+money_part: "Electronic Control Board (ERC or Clock/Timer Board)"
 ---
 
 ## Whirlpool Range AB Error Code — What It Means

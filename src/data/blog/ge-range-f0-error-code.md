@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "stuck or defective membrane keypad"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "GE range membrane keypad or touchpad"
 ---
 
 ## GE Range F0 Error Code — What It Means

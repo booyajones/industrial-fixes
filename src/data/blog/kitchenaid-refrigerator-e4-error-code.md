@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "faulty thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "KitchenAid refrigerator thermistor"
 ---
 
 ## KitchenAid Refrigerator E4 Error — What It Means

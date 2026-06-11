@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - navien
+money_part: "Flame rod / flame detection sensor"
 ---
 
 ## Navien E001 Error Code — What It Means

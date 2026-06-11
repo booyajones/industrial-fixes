@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Loose or disconnected Wi-Fi antenna connector"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool wall oven Wi-Fi antenna module"
 ---
 
 ## Whirlpool FC E4 Error Code — What It Means

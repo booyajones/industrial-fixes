@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - hussmann
+money_part: "NTC 10K case sensor"
 ---
 
 Hussmann display cases — the Impact reach-in, Quantum multi-deck, QM Plus, island cases, and NAV series — use integrated case controllers to monitor temperature, manage defrost cycles, and alert technicians to faults. Depending on the case age and configuration, controls range from the simple **Safe-NET III** single-zone controller to the more sophisticated **EPC-1000** and **E*Vue** networked controllers used in large supermarket installations.

@@ -10,6 +10,7 @@ tags:
   - vfd
   - mitsubishi
   - industrial
+money_part: "Cooling fan"
 ---
 
 ## Mitsubishi FR-D700 VFD Fault Codes — What They Mean

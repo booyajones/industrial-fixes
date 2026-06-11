@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - kenmore
+money_part: "Oven electronic control board (ERC/clock board)"
 ---
 
 ## Kenmore Oven F1 Error Code — What It Means

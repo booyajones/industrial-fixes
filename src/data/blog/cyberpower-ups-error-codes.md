@@ -10,6 +10,7 @@ tags:
   - cyberpower
   - ups
   - power-systems
+money_part: "Replacement battery"
 ---
 
 ## CyberPower UPS Error Codes - Quick Reference

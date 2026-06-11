@@ -9,6 +9,7 @@ draft: false
 tags:
   - mini-split
   - gree
+money_part: "Indoor air filter"
 ---
 
 ## Gree Mini Split E3 Error Code — What It Means

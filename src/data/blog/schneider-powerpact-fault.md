@@ -11,6 +11,7 @@ tags:
   - schneider
   - powerpact
   - power-distribution
+money_part: "Micrologic trip unit"
 ---
 
 ## Schneider PowerPact Fault Codes — Quick Reference

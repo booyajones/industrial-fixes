@@ -9,6 +9,7 @@ draft: true
 tags:
   - hvac
   - carrier
+money_part: "Outdoor ambient thermistor"
 ---
 
 ## Carrier Heat Pump E6 Error Code — What It Means

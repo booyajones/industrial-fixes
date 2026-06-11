@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "Yaskawa GA800 control board"
 ---
 
 ## Yaskawa GA800 E17 Fault — What It Means

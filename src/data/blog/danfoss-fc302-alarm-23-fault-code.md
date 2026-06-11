@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Danfoss FC 302 internal cooling fan assembly"
 ---
 
 ## Danfoss FC302 Alarm 23 — What It Means

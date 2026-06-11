@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "30 A power cord (3-wire or 4-wire)"
 ---
 
 ## Amana Dryer F1 E4 Error Code — What It Means

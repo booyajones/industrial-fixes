@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Flame sensor or thermocouple assembly"
 ---
 
 ## State Water Heater E47 Error Code — What It Means

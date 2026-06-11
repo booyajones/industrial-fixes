@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - siemens
+money_part: "DRIVE-CLiQ cable"
 ---
 
 ## Siemens Sinumerik 840D Alarm 25000 — What It Means

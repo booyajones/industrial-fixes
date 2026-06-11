@@ -9,6 +9,7 @@ draft: false
 tags:
   - welding
   - esab
+money_part: "MIG gun"
 ---
 
 ## ESAB Rebel EMP Error Codes — What They Mean

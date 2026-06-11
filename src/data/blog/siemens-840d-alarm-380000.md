@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - siemens
+money_part: "Safety relay module"
 ---
 
 ## Siemens 840D Alarm 380000 — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - microwave
   - panasonic
+money_part: "Leveling feet (washer)"
 ---
 
 ## Panasonic U13 Error Code — What It Means

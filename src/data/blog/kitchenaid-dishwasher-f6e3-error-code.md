@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kitchenaid
+money_part: "Rinse aid dispenser cap"
 ---
 
 ## KitchenAid Dishwasher F6E3 Error Code — What It Means

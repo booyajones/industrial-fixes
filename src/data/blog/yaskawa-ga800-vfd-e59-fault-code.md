@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Missing or removed STO jumper on the safety terminals"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "STO terminal jumper or plug"
 ---
 
 ## Yaskawa GA800 E59 Fault — What It Means

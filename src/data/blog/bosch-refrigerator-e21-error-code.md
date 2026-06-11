@@ -11,6 +11,7 @@ tags:
   - refrigerator
   - bosch
 diy_or_pro: "pro"
+money_part: "Bosch refrigerator thermistor or sensor (model-specific)"
 ---
 
 ## Bosch Refrigerator E21 Error — What It Means

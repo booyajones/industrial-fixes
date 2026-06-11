@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - whirlpool
+money_part: "Temperature sensor"
 ---
 
 ## Whirlpool Water Heater E11 Error — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Failed electronic oven control board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Electronic oven control board (EOC)"
 ---
 
 ## GE Oven FF Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - parker
   - refrigeration
   - expansion-valve
+money_part: "SEI controller board"
 ---
 
 ## Sporlan EXV Fault Codes - Quick Reference

@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - state
+money_part: "Condensate neutralizer cartridge"
 ---
 
 ## State Water Heater E29 Error Code — What It Means

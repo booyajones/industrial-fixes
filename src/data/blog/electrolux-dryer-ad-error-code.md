@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - electrolux
+money_part: "Humidity Sensor (Moisture Sensor Bars)"
 ---
 
 ## Electrolux Dryer AD Code — What It Means

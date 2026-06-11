@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Danfoss FC 302 external cooling fan"
 ---
 
 ## Danfoss FC302 ALARM 24 — What It Means

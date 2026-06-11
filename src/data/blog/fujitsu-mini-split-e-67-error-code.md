@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Indoor unit controller PCB"
 ---
 
 ## Fujitsu Mini Split E:67 Error Code — What It Means

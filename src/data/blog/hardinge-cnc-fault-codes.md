@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - hardinge
+money_part: "Draw tube proximity switch"
 ---
 
 Hardinge CNC machines — the GS-series precision lathes, Bridgeport VMC series, and HQS/HQR horizontal turning centers — use Fanuc and Siemens controls layered on top of Hardinge-specific PMC (Programmable Machine Controller) logic. That two-layer alarm structure means a single fault can generate both a Fanuc system alarm and a Hardinge PMC alarm at the same time. This guide covers both layers so you can stop chasing symptoms and fix the root cause.

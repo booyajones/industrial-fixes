@@ -9,6 +9,7 @@ draft: false
 tags:
   - mini-split
   - gree
+money_part: "Condenser fan capacitor"
 ---
 
 ## Gree Mini Split E1 Error Code — What It Means

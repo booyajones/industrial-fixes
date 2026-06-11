@@ -9,6 +9,7 @@ draft: false
 tags:
   - mini-split
   - midea
+money_part: "Condenser fan run capacitor"
 ---
 
 ## Midea Mini Split E1 Error Code — What It Means

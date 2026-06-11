@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kitchenaid
+money_part: "KitchenAid dishwasher diverter motor"
 ---
 
 ## KitchenAid Dishwasher F9E1 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kitchenaid
+money_part: "Circulation motor assembly (wash motor)"
 ---
 
 ## KitchenAid F4E3 Error Code — What It Means

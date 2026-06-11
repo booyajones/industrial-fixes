@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - state-water-heaters
+money_part: "Model-specific temperature sensor or thermistor"
 ---
 
 ## State Water Heater E49 Error Code — What It Means

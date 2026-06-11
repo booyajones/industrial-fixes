@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - daikin
+money_part: "Daikin inverter compressor"
 ---
 
 ## Daikin E8 Error — What It Means

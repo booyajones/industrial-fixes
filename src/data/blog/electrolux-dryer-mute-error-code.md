@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - electrolux
+money_part: "User Interface Control Board"
 ---
 
 ## Electrolux Dryer Mute Error Code — What It Means

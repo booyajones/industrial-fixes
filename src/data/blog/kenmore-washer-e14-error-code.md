@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - kenmore
+money_part: "Water inlet valve assembly"
 ---
 
 ## Kenmore Washer E14 Error Code — What It Means

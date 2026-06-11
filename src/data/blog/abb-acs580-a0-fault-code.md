@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - abb
+money_part: "ABB ACS580 STO terminal jumper kit"
 ---
 
 ## ABB ACS580 A0 Fault Code — What It Means

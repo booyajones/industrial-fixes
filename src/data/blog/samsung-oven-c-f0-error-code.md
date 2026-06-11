@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "lost communication between main and sub control boards"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Samsung range main control board (PCB)"
 ---
 
 ## Samsung C-F0 Oven Error — What It Means

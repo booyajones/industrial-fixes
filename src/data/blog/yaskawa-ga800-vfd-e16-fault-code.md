@@ -9,6 +9,7 @@ draft: true
 tags:
   - vfd
   - yaskawa
+money_part: "Yaskawa GA800 Control Board"
 ---
 
 ## Yaskawa GA800 E16 Fault Code — What It Means

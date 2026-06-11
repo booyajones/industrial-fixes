@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Drain hose siphoning due to incorrect loop height"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Dishwasher drain hose (universal or model-specific)"
 ---
 
 ## Maytag Dishwasher F1E1 Error — What It Means

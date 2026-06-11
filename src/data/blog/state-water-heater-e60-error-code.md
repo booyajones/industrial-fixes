@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Heat-pump water heater heating element"
 ---
 
 ## State Water Heater E60 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - cooper-and-hunter
+money_part: "IPM inverter power module"
 ---
 
 ## Cooper & Hunter Mini Split P4 Error — What It Means

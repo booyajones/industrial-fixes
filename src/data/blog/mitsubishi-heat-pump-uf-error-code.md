@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Outdoor power PCB / inverter board"
 ---
 
 ## Mitsubishi UF Error Code — What It Means

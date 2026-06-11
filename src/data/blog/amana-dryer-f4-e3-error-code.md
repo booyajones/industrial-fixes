@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "Lint screen"
 ---
 
 ## Amana Dryer F4 E3 Error Code — What It Means

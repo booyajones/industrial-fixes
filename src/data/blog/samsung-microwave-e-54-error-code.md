@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "temporary electronic fault after moisture exposure"
 likelihood: "the most common trigger according to Samsung's support guidance"
 diy_or_pro: "diy"
+money_part: "Samsung microwave main control board"
 ---
 
 ## Samsung Microwave E-54 Error — What It Means

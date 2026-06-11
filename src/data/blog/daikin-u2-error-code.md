@@ -9,6 +9,7 @@ draft: false
 tags:
   - mini-split
   - daikin
+money_part: "Start capacitor (outdoor unit)"
 ---
 
 ## Daikin U2 Error Code — What It Means

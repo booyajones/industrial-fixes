@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
   - air-conditioner
+money_part: "Run capacitor"
 ---
 
 ## Carrier 24ACC Air Conditioner Error Codes — What They Mean

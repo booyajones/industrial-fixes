@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - electrolux
+money_part: "Drain pump"
 ---
 
 ## Electrolux EF5 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kenmore
+money_part: "Main electronic control board"
 ---
 
 ## Kenmore Dishwasher F1E1 Error Code — What It Means

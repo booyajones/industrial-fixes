@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - daikin
+money_part: "Swing flap motor"
 ---
 
 ## Daikin A7 Error Code — What It Means

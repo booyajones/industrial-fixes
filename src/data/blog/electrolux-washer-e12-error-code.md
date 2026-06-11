@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - electrolux
+money_part: "Water inlet valve"
 ---
 
 ## Electrolux Washer E12 Error Code — What It Means

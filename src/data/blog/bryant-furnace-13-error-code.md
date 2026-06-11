@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - bryant
+money_part: "High-limit switch"
 ---
 
 ## Bryant Furnace 13 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Siemens SINAMICS G120 Control Unit (CU240 / CU250)"
 ---
 
 ## Siemens G120 F01250 Fault — What It Means

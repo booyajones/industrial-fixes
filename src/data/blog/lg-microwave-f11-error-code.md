@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed inverter board"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "LG microwave inverter board"
 ---
 
 ## LG Microwave F11 Error Code — What It Means

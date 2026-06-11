@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - carrier
+money_part: "Outdoor fan motor"
 ---
 
 ## Carrier E13 Error Code — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "stuck or damaged button on the console"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "User interface control board (console assembly)"
 ---
 
 ## Whirlpool Washer F2E1 Error — What It Means

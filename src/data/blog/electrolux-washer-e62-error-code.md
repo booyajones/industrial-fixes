@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - electrolux
+money_part: "Wash heater element"
 ---
 
 ## Electrolux Washer E62 Error Code — What It Means

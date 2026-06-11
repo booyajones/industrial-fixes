@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - haas
+money_part: "Cabinet cooling fans"
 ---
 
 ## Haas Alarm 108 — What It Means

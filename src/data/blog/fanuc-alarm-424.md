@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - fanuc
+money_part: "Servo amplifier module"
 ---
 
 ## Fanuc Alarm 424 — What It Means

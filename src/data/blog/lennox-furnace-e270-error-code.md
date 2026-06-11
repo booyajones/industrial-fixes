@@ -10,6 +10,7 @@ tags:
   - hvac
   - furnace
   - lennox
+money_part: "Lennox hot surface igniter"
 ---
 
 ## Lennox E270 Error Code — What It Means

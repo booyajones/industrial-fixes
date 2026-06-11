@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - amana
+money_part: "Door lock assembly (front-load)"
 ---
 
 ## Amana Washer F5 E2 Error Code — What It Means

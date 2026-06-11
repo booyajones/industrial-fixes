@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - mazak
+money_part: "Spindle drive belt"
 ---
 
 ## Mazak Alarm 200 — Spindle Speed Error: What It Means

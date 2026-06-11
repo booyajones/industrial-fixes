@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - scotsman
+money_part: "Hot gas valve coil or valve assembly"
 ---
 
 ## Scotsman Ice Machine Error Code 2 — What It Means

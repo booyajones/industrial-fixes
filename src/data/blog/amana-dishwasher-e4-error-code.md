@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - amana
+money_part: "Float switch assembly"
 ---
 
 ## Amana Dishwasher E4 Error Code — What It Means

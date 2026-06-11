@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - amana
+money_part: "Drain hose"
 ---
 
 ## Amana Ld Error Code — What It Means

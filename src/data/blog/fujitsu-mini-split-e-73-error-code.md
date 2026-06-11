@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Outdoor heat exchanger temperature thermistor"
 ---
 
 ## Fujitsu E:73 Error Code — What It Means

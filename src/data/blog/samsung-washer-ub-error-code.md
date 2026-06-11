@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "laundry clumped to one side of the drum"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Suspension rod kit (Samsung washer)"
 ---
 
 ## Samsung Washer UB Error Code — What It Means

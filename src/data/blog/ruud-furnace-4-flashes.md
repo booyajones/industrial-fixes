@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - ruud
+money_part: "Air filter"
 ---
 
 ## Ruud Furnace 4 Flashes — What It Means

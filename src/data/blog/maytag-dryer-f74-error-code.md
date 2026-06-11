@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - maytag
+money_part: "Main control board (electronic control)"
 ---
 
 ## Maytag Dryer F74 Error Code — What It Means

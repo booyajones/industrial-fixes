@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - electrolux
+money_part: "Door lock assembly"
 ---
 
 ## Electrolux Washer E44 Error Code — What It Means

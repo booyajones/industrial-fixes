@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Loose, damaged, or broken wiring harness or connector between the main PCB and sub PCB"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Main PCB / Main Control Board"
 ---
 
 ## Samsung Microwave C-F0 Error — What It Means

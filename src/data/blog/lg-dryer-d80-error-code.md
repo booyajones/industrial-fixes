@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Lint buildup or blockage in the exhaust vent run"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Rigid aluminum or galvanized steel vent duct"
 ---
 
 ## LG Dryer D80 Error Code — What It Means

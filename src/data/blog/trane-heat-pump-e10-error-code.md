@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - trane
+money_part: "Trane RTRM control board"
 ---
 
 ## Trane Heat Pump E10 Error — What It Means

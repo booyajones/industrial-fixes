@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - maytag
+money_part: "Appliance Control Board (ACU)"
 ---
 
 ## Maytag Dryer F1E4 Error Code — What It Means

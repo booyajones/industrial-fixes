@@ -11,6 +11,7 @@ tags:
   - oven
   - whirlpool
 diy_or_pro: "diy"
+money_part: "Whirlpool oven user interface / keypad assembly"
 ---
 
 ## Whirlpool Oven A6 Error Code — What It Means

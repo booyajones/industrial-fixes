@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - schneider
+money_part: "Motor cable (VFD-rated, screened)"
 ---
 
 ## Schneider Altivar Fault OCF — What It Means

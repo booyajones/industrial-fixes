@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Gas ignition circuit failure"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Samsung dryer igniter (glow bar)"
 ---
 
 ## Samsung Dryer HC2 Error Code — What It Means

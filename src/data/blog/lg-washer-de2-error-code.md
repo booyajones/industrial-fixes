@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Laundry pinched in the door opening or door not firmly latched"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "LG washer door lock assembly"
 ---
 
 ## LG Washer dE2 Error Code — What It Means

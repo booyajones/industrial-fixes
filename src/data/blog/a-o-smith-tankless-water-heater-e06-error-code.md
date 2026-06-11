@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - ao-smith
+money_part: "T-in thermistor"
 ---
 
 ## A.O. Smith Tankless E06 Error — What It Means

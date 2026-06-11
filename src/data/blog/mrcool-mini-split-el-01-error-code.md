@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mrcool
+money_part: "Indoor primary control board"
 ---
 
 ## MRCOOL Mini Split EL 01 — What It Means

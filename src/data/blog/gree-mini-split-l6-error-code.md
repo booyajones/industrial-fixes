@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Communication wire (indoor to outdoor)"
 ---
 
 ## Gree L6 Error Code — What It Means

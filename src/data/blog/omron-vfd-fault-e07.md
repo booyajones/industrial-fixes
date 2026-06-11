@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - omron
+money_part: "Motor output cable"
 ---
 
 ## Omron VFD Fault E07 — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - electrolux
+money_part: "Electronic control board (Electrolux dryer)"
 ---
 
 ## Electrolux Dryer EA1 Error Code — What It Means

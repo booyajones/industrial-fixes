@@ -9,6 +9,7 @@ draft: false
 tags:
   - mini-split
   - fujitsu
+money_part: "Condensate pump"
 ---
 
 ## Fujitsu Mini-Split E7 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - state
+money_part: "Ignition transformer / igniter assembly"
 ---
 
 ## State Water Heater E111 Error Code — What It Means

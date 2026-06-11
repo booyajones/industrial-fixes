@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Indoor main control board (PCB)"
 ---
 
 ## Fujitsu E:11 Error — What It Means

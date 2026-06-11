@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Heater circuit wiring fault or poor connection"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Heater assembly (dryer heating element)"
 ---
 
 ## Whirlpool Dryer F4E2 Error — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - carrier
+money_part: "Foam weather seal tape"
 ---
 
 ## Carrier Heat Pump E9 Error — What It Means

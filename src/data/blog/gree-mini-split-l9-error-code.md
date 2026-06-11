@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Gree main control board"
 ---
 
 ## Gree Mini Split L9 Error Code — What It Means

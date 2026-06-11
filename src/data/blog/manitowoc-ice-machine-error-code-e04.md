@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - manitowoc
+money_part: "Condenser fan motor"
 ---
 
 ## Manitowoc Ice Machine E04 Error Code — What It Means

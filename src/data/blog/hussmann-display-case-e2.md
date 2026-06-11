@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - hussmann
+money_part: "Defrost heater assembly"
 ---
 
 ## Hussmann Display Case E2 Error Code — What It Means

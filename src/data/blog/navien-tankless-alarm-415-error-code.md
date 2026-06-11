@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - navien
+money_part: "Flow sensor"
 ---
 
 ## Navien Alarm 415 — What It Means

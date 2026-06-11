@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - allen-bradley
+money_part: "Motor (replacement)"
 ---
 
 ## Allen-Bradley PowerFlex Fault F012 — What It Means

@@ -9,9 +9,13 @@ draft: false
 tags:
   - appliance
   - kitchenaid
+<<<<<<< Updated upstream
 most_likely_cause: "Temporary control glitch or corrupted state"
 likelihood: "often clears after power reset"
 diy_or_pro: "diy"
+=======
+money_part: "Main control board (electronic control)"
+>>>>>>> Stashed changes
 ---
 
 ## KitchenAid ER Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kitchenaid
+money_part: "Wash motor / circulation pump assembly"
 ---
 
 ## KitchenAid F7E2 Error Code — What It Means

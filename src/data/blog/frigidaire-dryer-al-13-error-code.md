@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - frigidaire
+money_part: "Door switch assembly"
 ---
 
 ## Frigidaire Dryer AL-13 Error Code — What It Means

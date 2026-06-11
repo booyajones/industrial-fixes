@@ -10,6 +10,7 @@ tags:
   - plumbing
   - navien
   - boiler
+money_part: "3-way valve motor"
 ---
 
 ## Navien NCB Combi Boiler Error Codes — What They Mean

@@ -9,6 +9,7 @@ draft: true
 tags:
   - vfd
   - yaskawa
+money_part: "Encoder cable (Yaskawa-compatible)"
 ---
 
 ## Yaskawa GA800 E20 Fault Code — What It Means

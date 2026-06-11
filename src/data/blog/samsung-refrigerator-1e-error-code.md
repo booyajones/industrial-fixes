@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Failed freezer temperature sensor or loose sensor connection"
 likelihood: "the most common cause when the code persists after reset"
 diy_or_pro: "diy"
+money_part: "Samsung freezer temperature sensor / thermistor"
 ---
 
 ## Samsung Refrigerator 1E Error Code — What It Means

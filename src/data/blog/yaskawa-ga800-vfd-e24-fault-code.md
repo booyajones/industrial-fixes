@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "GA800 control board"
 ---
 
 ## Yaskawa GA800 E24 Fault Code — What It Means

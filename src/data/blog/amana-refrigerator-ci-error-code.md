@@ -10,6 +10,7 @@ tags:
   - appliance
   - refrigerator
   - amana
+money_part: "Ice maker assembly"
 ---
 
 ## Amana Refrigerator CI Error Code — What It Means

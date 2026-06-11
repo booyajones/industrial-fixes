@@ -10,6 +10,7 @@ tags:
   - appliance
   - refrigerator
   - bosch
+money_part: "Evaporator fan motor assembly"
 ---
 
 ## Bosch Refrigerator E03 Error Code — What It Means

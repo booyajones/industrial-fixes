@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "tripped or partially tripped double-pole breaker"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "LG dryer power cord (3-prong or 4-prong)"
 ---
 
 ## LG Dryer nP Error Code — What It Means

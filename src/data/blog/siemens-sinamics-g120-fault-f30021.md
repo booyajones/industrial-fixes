@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
   - sinamics
+money_part: "VFD-rated motor cable"
 ---
 
 ## Siemens SINAMICS G120 Fault F30021, What It Means

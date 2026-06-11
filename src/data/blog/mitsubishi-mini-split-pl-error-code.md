@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Outdoor unit control board (PCB)"
 ---
 
 ## Mitsubishi PL Error Code — What It Means

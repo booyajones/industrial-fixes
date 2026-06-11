@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - carrier
+money_part: "Carrier outdoor unit control board"
 ---
 
 ## Carrier E18 Error Code — What It Means

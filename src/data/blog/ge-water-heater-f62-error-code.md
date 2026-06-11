@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - ge
+money_part: "Inlet temperature sensor (thermistor)"
 ---
 
 ## GE Water Heater F62 Error Code — What It Means

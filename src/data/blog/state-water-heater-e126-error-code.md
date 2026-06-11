@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Igniter assembly"
 ---
 
 ## State Water Heater E126 Error Code — What It Means

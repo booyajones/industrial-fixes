@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Siemens Micromaster 440 replacement drive"
 ---
 
 ## Siemens Micromaster F0035 — What It Means

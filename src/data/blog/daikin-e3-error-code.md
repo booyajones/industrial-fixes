@@ -9,6 +9,7 @@ draft: false
 tags:
   - mini-split
   - daikin
+money_part: "Indoor fan motor (BLDC)"
 ---
 
 ## Daikin E3 Error Code — What It Means

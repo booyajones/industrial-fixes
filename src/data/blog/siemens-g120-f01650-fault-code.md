@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Siemens G120 Memory Card"
 ---
 
 ## Siemens G120 F01650 — What It Means

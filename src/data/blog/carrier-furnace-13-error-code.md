@@ -10,6 +10,7 @@ tags:
   - hvac
   - furnace
   - carrier
+money_part: "Carrier high-limit switch"
 ---
 
 ## Carrier Furnace Error Code 13 — What It Means

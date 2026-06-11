@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state-water-heater
+money_part: "Circulation pump"
 ---
 
 ## State Water Heater E18 Error Code — What It Means

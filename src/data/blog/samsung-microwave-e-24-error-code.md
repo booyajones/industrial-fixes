@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "blocked venting or poor airflow causing heat buildup"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung microwave thermal sensor (temperature sensor)"
 ---
 
 ## Samsung Microwave E-24 Error — What It Means

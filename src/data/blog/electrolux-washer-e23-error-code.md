@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - electrolux
+money_part: "Drain pump"
 ---
 
 ## Electrolux Washer E23 Error Code — What It Means

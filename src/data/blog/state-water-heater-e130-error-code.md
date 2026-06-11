@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Flue thermostat sensor (temperature sensor)"
 ---
 
 ## State Water Heater E130 Error Code — What It Means

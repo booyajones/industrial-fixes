@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Danfoss FC302 control card"
 ---
 
 ## Danfoss FC302 Alarm 50 — What It Means

@@ -10,9 +10,13 @@ tags:
   - appliance
   - dryer
   - maytag
+<<<<<<< Updated upstream
 most_likely_cause: "failed exhaust thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Exhaust thermistor"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag Dryer F3E1 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
   - industrial
+money_part: "Cooling fan"
 ---
 
 ## ABB ACS150 Micro Drive Fault Codes — What They Mean

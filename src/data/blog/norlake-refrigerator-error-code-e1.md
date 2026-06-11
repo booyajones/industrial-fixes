@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - nor-lake
+money_part: "NTC temperature sensor"
 ---
 
 ## Nor-Lake Refrigerator Error Code E1 — What It Means

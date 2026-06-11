@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - pioneer
+money_part: "Discharge temperature sensor (thermistor)"
 ---
 
 ## Pioneer Mini Split P3 Error — What It Means

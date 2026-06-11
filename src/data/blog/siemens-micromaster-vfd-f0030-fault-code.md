@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Siemens MICROMASTER cooling fan"
 ---
 
 ## Siemens Micromaster F0030 — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - haas
+money_part: "Servo motor thermistor / thermostat"
 ---
 
 ## Haas Alarm 107 — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - bosch
+money_part: "Bosch oven NTC temperature sensor"
 ---
 
 ## Bosch Oven E8401 Error Code — What It Means

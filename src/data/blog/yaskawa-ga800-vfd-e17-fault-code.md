@@ -9,6 +9,7 @@ draft: true
 tags:
   - vfd
   - yaskawa
+money_part: "Yaskawa GA800 option/communication card"
 ---
 
 ## Yaskawa GA800 E17 Fault — What It Means

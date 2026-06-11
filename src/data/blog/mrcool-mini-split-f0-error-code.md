@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mrcool
+money_part: "Outdoor fan motor"
 ---
 
 ## MRCOOL Mini Split F0 Error Code — What It Means

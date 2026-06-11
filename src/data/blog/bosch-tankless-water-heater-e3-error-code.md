@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - bosch
+money_part: "Bosch flue gas temperature sensor"
 ---
 
 ## Bosch E3 Error Code — What It Means

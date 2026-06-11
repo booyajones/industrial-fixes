@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Gree outdoor main control board"
 ---
 
 ## Gree EE Error Code — What It Means

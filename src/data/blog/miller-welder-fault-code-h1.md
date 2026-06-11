@@ -9,6 +9,7 @@ draft: false
 tags:
   - welding
   - miller
+money_part: "Cooling fan assembly"
 ---
 
 ## Miller Welder H1 Fault Code — What It Means

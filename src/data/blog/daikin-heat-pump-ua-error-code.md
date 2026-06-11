@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - daikin
+money_part: "Daikin outdoor unit PCB (control board)"
 ---
 
 ## Daikin UA Error Code — What It Means

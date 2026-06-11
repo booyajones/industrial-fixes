@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "moisture on electronics or faulty Easy/PH sensor circuit"
 likelihood: "the most common scenario"
 diy_or_pro: "pro"
+money_part: "Easy/PH sensor assembly"
 ---
 
 ## Samsung Microwave E-41 Error — What It Means

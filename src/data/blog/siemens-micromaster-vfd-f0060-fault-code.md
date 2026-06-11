@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Siemens Micromaster inverter/converter assembly"
 ---
 
 ## Siemens Micromaster F0060 — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - electrolux
+money_part: "Drain pump assembly"
 ---
 
 ## Electrolux Washer F02 Error Code — What It Means

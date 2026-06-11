@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - true-refrigeration
+money_part: "Defrost heater"
 ---
 
 ## True Refrigeration E4 Error Code — What It Means

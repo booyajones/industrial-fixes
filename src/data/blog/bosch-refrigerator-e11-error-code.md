@@ -10,6 +10,7 @@ tags:
   - appliance
   - refrigerator
   - bosch
+money_part: "Display control module (Bosch refrigerator)"
 ---
 
 ## Bosch Refrigerator E11 Error Code — What It Means

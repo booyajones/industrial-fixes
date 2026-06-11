@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - electrolux
+money_part: "User interface board (control panel board)"
 ---
 
 ## Electrolux Dryer E91 Error Code — What It Means

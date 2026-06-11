@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Loose or failing wiring harness or connector inside the dryer"
 likelihood: "often"
 diy_or_pro: "pro"
+money_part: "Samsung dryer main control board"
 ---
 
 ## Samsung Dryer AE4 Error Code — What It Means

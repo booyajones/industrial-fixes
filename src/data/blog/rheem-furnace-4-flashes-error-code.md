@@ -10,6 +10,7 @@ tags:
   - hvac
   - furnace
   - rheem
+money_part: "Air filter"
 ---
 
 ## Rheem Furnace 4 Flashes — What It Means

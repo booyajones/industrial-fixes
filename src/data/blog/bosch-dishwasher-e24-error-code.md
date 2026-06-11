@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - bosch
+money_part: "Bosch dishwasher drain pump assembly"
 ---
 
 ## Bosch E24 Error Code — What It Means

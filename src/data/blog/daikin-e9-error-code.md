@@ -9,6 +9,7 @@ draft: false
 tags:
   - mini-split
   - daikin
+money_part: "Outdoor fan motor"
 ---
 
 ## Daikin E9 Error Code — What It Means

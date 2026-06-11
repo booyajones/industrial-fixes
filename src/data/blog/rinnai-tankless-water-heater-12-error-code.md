@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - rinnai
+money_part: "Flame rod assembly"
 ---
 
 ## Rinnai Code 12 — What It Means

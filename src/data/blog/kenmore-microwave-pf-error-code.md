@@ -10,6 +10,7 @@ tags:
   - appliance
   - microwave
   - kenmore
+money_part: "Microwave main control board"
 ---
 
 ## Kenmore Microwave PF Error Code — What It Means

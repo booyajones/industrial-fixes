@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Motor cable (shielded power cable, appropriate gauge)"
 ---
 
 ## Siemens Micromaster F0041 — What It Means

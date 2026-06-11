@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Missing or loose STO jumper at the drive terminals"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Yaskawa GA800 STO jumper kit"
 ---
 
 ## Yaskawa GA800 E91 Fault — What It Means

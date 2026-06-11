@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Loose, damaged, or corroded wiring and connectors between the main control board and inverter board"
 likelihood: "a common cause when AE is a communication fault"
 diy_or_pro: "pro"
+money_part: "Samsung washer main control board"
 ---
 
 ## Samsung Washer AE Error Code — What It Means

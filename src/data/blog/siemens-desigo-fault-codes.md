@@ -11,6 +11,7 @@ tags:
   - desigo
   - bms
   - building-automation
+money_part: "PXC compact controller module"
 ---
 
 ## Siemens Desigo BMS Fault Codes - Quick Reference

@@ -10,6 +10,7 @@ tags:
   - hvac
   - senville
   - mini-split
+money_part: "Indoor room temp sensor"
 ---
 
 ## Senville SENA Series Mini Split Error Codes — What They Mean

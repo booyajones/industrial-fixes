@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - heatcraft
+money_part: "Box temperature sensor (NTC thermistor)"
 ---
 
 ## Heatcraft Refrigeration Alarm 2 — What It Means

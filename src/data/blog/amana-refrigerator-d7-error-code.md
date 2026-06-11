@@ -10,6 +10,7 @@ tags:
   - appliance
   - refrigerator
   - amana
+money_part: "Refrigerator thermistor / temperature sensor"
 ---
 
 ## Amana D7 Error Code — What It Means

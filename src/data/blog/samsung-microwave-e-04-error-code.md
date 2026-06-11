@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Cooking time entered exceeds the allowed limit for the selected convection program"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung microwave main control board (MICOM)"
 ---
 
 ## Samsung Microwave E-04 Error — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mrcool
+money_part: "MRCOOL T2 evaporator coil temperature sensor"
 ---
 
 ## MRCOOL EH 61 Error Code — What It Means

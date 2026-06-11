@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mrcool
+money_part: "MRCOOL indoor control board / PCB"
 ---
 
 ## MRCOOL E0 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - alto-shaam
+money_part: "RTD temperature sensor"
 ---
 
 ## Alto-Shaam Commercial Oven Error Codes — What They Mean

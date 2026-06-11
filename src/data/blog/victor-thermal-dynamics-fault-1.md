@@ -9,6 +9,7 @@ draft: false
 tags:
   - welding
   - thermal-dynamics
+money_part: "Electrode"
 ---
 
 ## Thermal Dynamics Plasma Cutter Fault 1 — What It Means

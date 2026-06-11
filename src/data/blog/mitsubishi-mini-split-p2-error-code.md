@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi-electric
+money_part: "Mitsubishi indoor pipe thermistor (TH2)"
 ---
 
 ## Mitsubishi Mini Split P2 Error — What It Means

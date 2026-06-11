@@ -10,6 +10,7 @@ tags:
   - appliance
   - refrigerator
   - maytag
+money_part: "Door switch or reed switch"
 ---
 
 ## Maytag Refrigerator dr Error Code — What It Means

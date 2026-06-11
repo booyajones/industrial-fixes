@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - lg
+money_part: "LG oven thermistor / temperature sensor"
 ---
 
 ## LG Range E8 Error Code — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Failed inlet water valve stuck open"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "LG washer water inlet valve assembly"
 ---
 
 ## LG Washer FE Error Code — What It Means

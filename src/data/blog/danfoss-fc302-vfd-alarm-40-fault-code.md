@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Field wiring for terminal 27"
 ---
 
 ## Danfoss FC302 Alarm 40 — What It Means

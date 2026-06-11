@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - kitchenaid
+money_part: "Owner's Manual (Digital or Print)"
 ---
 
 ## KitchenAid AB Error Code — What It Means

@@ -10,9 +10,13 @@ tags:
   - appliance
   - oven
   - maytag
+<<<<<<< Updated upstream
 most_likely_cause: "Failed oven temperature sensor"
 likelihood: "the most common cause once the sensor and wiring test good is the control board"
 diy_or_pro: "diy"
+=======
+money_part: "Oven temperature sensor / thermal probe"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag Oven F3 Error Code — What It Means

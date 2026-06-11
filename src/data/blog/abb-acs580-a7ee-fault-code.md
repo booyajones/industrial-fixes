@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - abb
+money_part: "ABB ACS580 control panel (keypad assembly)"
 ---
 
 ## ABB ACS580 A7EE Fault — What It Means

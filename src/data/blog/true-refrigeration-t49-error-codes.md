@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - true-refrigeration
+money_part: "Cabinet probe"
 ---
 
 ## True T-49 Error Codes — What It Means

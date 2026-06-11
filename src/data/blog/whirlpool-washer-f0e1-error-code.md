@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Laundry or loose items left in the tub when Clean Washer was selected"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Main control board (model-specific)"
 ---
 
 ## Whirlpool F0E1 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - daikin-applied
   - hvac
   - industrial
+money_part: "Refrigerant charge"
 ---
 
 ## Daikin Applied Chiller Fault Codes — Quick Reference

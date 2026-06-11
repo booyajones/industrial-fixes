@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - kenmore
+money_part: "Dryer power cord"
 ---
 
 ## Kenmore Dryer PF Error Code — What It Means

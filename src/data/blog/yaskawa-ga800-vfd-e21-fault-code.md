@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "Motor thermistor or PTC temperature sensor"
 ---
 
 ## Yaskawa GA800 E21 Fault Code — What It Means

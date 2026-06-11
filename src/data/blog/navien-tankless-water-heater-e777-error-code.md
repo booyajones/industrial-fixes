@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - navien
+money_part: "LWCO sensor assembly"
 ---
 
 ## Navien E777 Error Code — What It Means

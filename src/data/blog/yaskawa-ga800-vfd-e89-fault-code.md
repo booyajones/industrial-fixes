@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Damaged soft-charge bypass relay or contactor"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Yaskawa GA800 control board (PCB)"
 ---
 
 ## Yaskawa GA800 E89 Fault — What It Means

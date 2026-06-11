@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Mitsubishi TH1 room thermistor"
 ---
 
 ## Mitsubishi P1 Error Code — What It Means

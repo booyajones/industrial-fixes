@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - turbo-air
+money_part: "NTC temperature sensor"
 ---
 
 ## Turbo Air Refrigerator Error Code E1 — What It Means

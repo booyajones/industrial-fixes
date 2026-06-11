@@ -9,6 +9,7 @@ draft: true
 tags:
   - vfd
   - yaskawa
+money_part: "Yaskawa GA800 communication option card"
 ---
 
 ## Yaskawa GA800 E30 Fault Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Fujitsu room temperature sensor / thermistor"
 ---
 
 ## Fujitsu E:03 Error Code — What It Means

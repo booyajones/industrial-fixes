@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - lennox
+money_part: "ECM motor module"
 ---
 
 ## Lennox SLP98V Error Codes — What It Means

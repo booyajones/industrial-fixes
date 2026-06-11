@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - haas
+money_part: "Door interlock switch"
 ---
 
 ## Haas Alarm 104 Feed Hold — What It Means

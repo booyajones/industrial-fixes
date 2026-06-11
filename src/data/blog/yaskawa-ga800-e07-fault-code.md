@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "Yaskawa GA800 option card or analog input module"
 ---
 
 ## Yaskawa GA800 E07 Fault — What It Means

@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Failed heating element or NTC thermistor"
 likelihood: "the most common causes"
 diy_or_pro: "pro"
+money_part: "Samsung washer heating element"
 ---
 
 ## Samsung HE1 Error Code — What It Means

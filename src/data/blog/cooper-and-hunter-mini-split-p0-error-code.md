@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - cooper-and-hunter
+money_part: "Cooper & Hunter outdoor main PCB / inverter control board"
 ---
 
 ## Cooper & Hunter Mini-Split P0 Error — What It Means

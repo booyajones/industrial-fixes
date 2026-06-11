@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - lennox
+money_part: "Outdoor unit control board"
 ---
 
 ## Lennox Error Code 434 — What It Means

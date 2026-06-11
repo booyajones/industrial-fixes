@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Utility outage or brief power flicker"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "GE refrigerator power cord"
 ---
 
 ## GE Refrigerator PF Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - state
+money_part: "User interface / display board"
 ---
 
 ## State E52 Error Code — What It Means

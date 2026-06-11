@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - frigidaire
+money_part: "Control panel / keypad assembly"
 ---
 
 ## Frigidaire Dryer AL-08 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - kitchenaid
+money_part: "User interface control panel"
 ---
 
 ## KitchenAid Oven SAB Error Code — What It Means

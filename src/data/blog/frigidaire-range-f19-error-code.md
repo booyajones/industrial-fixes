@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - frigidaire
+money_part: "Oven relay board"
 ---
 
 ## Frigidaire Range F19 Error Code — What It Means

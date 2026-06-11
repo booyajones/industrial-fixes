@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Failed humidity sensor"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "LG microwave humidity sensor"
 ---
 
 ## LG Microwave F4 Error — What It Means

@@ -10,9 +10,13 @@ tags:
   - appliance
   - dishwasher
   - maytag
+<<<<<<< Updated upstream
 most_likely_cause: "Loose or improperly seated water supply connection at the fill valve or elbow fitting"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Dishwasher float switch assembly"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag Dishwasher F8E4 Error Code — What It Means

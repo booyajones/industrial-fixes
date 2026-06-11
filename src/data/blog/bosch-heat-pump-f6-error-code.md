@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - bosch
+money_part: "Temperature sensor (NTC thermistor)"
 ---
 
 ## Bosch Heat Pump F6 Error Code — What It Means

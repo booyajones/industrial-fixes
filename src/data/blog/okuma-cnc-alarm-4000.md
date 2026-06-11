@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - okuma
+money_part: "Safety relay module"
 ---
 
 ## Okuma CNC Alarm 4000 - What It Means

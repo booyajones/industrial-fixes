@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Actual power outage or brief service interruption"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Range power cord"
 ---
 
 ## Whirlpool Oven PF Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - goodman
+money_part: "Goodman control board (model-specific)"
 ---
 
 ## Goodman Heat Pump B0 Error Code — What It Means

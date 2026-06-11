@@ -11,6 +11,7 @@ tags:
   - liebert
   - ups
   - power-systems
+money_part: "Battery module (GXT/EXS)"
 ---
 
 ## Vertiv (Liebert) UPS Fault Codes - Quick Reference

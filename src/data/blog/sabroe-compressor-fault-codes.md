@@ -10,6 +10,7 @@ tags:
   - compressor
   - refrigeration
   - sabroe
+money_part: "Oil filter element"
 ---
 
 Sabroe industrial refrigeration compressors use controller-based shutdown IDs, not generic motor fault lights. On SAB screw compressors and HPC reciprocating packages, the controller watches suction pressure, discharge pressure, discharge temperature, oil differential pressure, oil temperature, filter differential pressure, motor protection, and communication signals. When any monitored point crosses its shutdown threshold, the controller stops the compressor and logs an alarm or shutdown ID.

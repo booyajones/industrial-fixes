@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "communication glitch between the user interface and appliance control unit"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool user interface / console control board"
 ---
 
 ## Whirlpool F6E2 Error Code — What It Means

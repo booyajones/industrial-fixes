@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - abb
+money_part: "Motor (rewind or replace)"
 ---
 
 ## ABB VFD Fault 2310 — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - scotsman
+money_part: "Ice thickness sensor"
 ---
 
 ## Scotsman Ice Machine Error Code 3 — What It Means

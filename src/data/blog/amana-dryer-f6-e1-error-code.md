@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "Touchpad or user interface module"
 ---
 
 ## Amana Dryer F6 E1 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kenmore
+money_part: "Dishwasher thermistor (temperature sensor)"
 ---
 
 ## Kenmore Dishwasher E06 Error Code — What It Means

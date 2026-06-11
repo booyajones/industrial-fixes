@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mrcool
+money_part: "Outdoor control board (PCB)"
 ---
 
 ## MRCOOL F4 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - electrolux
+money_part: "Electronic control board (main PCB)"
 ---
 
 ## Electrolux Washer E54 Error Code — What It Means

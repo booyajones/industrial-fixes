@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed Electronic Oven Control board"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "KitchenAid Electronic Oven Control (range)"
 ---
 
 ## KitchenAid Range F4 Error Code — What It Means

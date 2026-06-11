@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - abb
+money_part: "ABB ACS580 Control Keypad (ACS-AP)"
 ---
 
 ## ABB ACS580 B1 Fault Code — What It Means

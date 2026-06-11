@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Control board memory or communication fault"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung microwave control board"
 ---
 
 ## Samsung E-53 Error Code — What It Means

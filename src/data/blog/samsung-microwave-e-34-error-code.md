@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "food load exceeds the program's maximum weight limit"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung microwave main control board (MICOM)"
 ---
 
 ## Samsung Microwave E-34 Error — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - navien
+money_part: "Navien cold-water inlet filter"
 ---
 
 ## Navien E030 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - rheem
+money_part: "Rheem flame sensor / flame rod"
 ---
 
 ## Rheem A01 Error Code — What It Means

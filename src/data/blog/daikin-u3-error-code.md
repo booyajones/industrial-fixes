@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - daikin
+money_part: "Outdoor unit main PCB"
 ---
 
 ## Daikin U3 Error Code — What It Means

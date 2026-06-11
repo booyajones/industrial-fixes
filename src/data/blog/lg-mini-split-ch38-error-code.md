@@ -9,6 +9,7 @@ draft: true
 tags:
   - mini-split
   - lg
+money_part: "Inverter PCB (outdoor unit)"
 ---
 
 ## LG Mini-Split CH38 Error Code — What It Means

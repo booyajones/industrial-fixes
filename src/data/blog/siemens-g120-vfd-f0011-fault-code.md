@@ -9,6 +9,7 @@ draft: true
 tags:
   - vfd
   - siemens
+money_part: "Motor cooling fan"
 ---
 
 ## Siemens G120 F0011 Fault Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "Dryer power cord"
 ---
 
 ## Amana Dryer F4 E4 Error Code — What It Means

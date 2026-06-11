@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - haas
+money_part: "Cutting inserts or endmill"
 ---
 
 ## Haas Alarm 115 Spindle Overload — What It Means

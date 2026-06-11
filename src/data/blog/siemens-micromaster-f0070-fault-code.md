@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Siemens Micromaster communications board (CB module)"
 ---
 
 ## Siemens Micromaster F0070 — What It Means

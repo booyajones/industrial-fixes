@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Danfoss FC 302 heat sink fan"
 ---
 
 ## Danfoss FC302 VFD Alarm 46 — What It Means

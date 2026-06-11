@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Loose, oxidized, or poorly seated ribbon cable between the console and main control board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Console / User Interface Assembly"
 ---
 
 ## Whirlpool Microwave E63 Error Code — What It Means

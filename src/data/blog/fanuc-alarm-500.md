@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - fanuc
+money_part: "Backup battery"
 ---
 
 ## Fanuc Alarm 500 — What It Means

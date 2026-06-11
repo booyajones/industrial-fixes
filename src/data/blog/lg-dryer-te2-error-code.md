@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Cold outdoor air backdraft through an open or poorly sealing exterior vent hood"
 likelihood: "the most common cause during winter"
 diy_or_pro: "diy"
+money_part: "LG dryer thermistor temperature sensor"
 ---
 
 ## LG Dryer tE2 Error Code — What It Means

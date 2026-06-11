@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - lg
+money_part: "LG oven temperature sensor / thermistor"
 ---
 
 ## LG Range E1 Error Code — What It Means

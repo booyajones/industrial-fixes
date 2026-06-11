@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Mitsubishi indoor unit control board (P.C. board)"
 ---
 
 ## Mitsubishi E7 Error Code — What It Means

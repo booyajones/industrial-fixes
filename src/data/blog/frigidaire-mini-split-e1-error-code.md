@@ -9,6 +9,7 @@ draft: true
 tags:
   - mini-split
   - frigidaire
+money_part: "Outdoor unit control PCB"
 ---
 
 ## Frigidaire Mini Split E1 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "Input fuses (semiconductor)"
 ---
 
 ## Yaskawa GA700 Fault UV1 — What It Means

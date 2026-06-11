@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Gree indoor control board"
 ---
 
 ## Gree Mini-Split EU Error Code — What It Means

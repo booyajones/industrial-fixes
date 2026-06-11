@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Controller PCB"
 ---
 
 ## Fujitsu E:17 Error Code — What It Means

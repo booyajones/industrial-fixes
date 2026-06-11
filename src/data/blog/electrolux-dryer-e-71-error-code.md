@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - electrolux
+money_part: "Electrolux dryer outlet thermistor"
 ---
 
 ## Electrolux Dryer E71 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - bosch
+money_part: "Hot water outlet sensor"
 ---
 
 ## Bosch E1 Error Code — What It Means

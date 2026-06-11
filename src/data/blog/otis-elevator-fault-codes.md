@@ -10,6 +10,7 @@ tags:
   - otis
   - elevator
   - lift
+money_part: "Door contacts (UCM rated)"
 ---
 
 ## Otis Elevator Fault Codes - Quick Reference

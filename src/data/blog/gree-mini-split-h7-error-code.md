@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Gree outdoor control board / PCB"
 ---
 
 ## Gree Mini Split H7 Error Code — What It Means

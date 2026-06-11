@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - york
+money_part: "Draft pressure switch"
 ---
 
 ## York Furnace Error Code E3 — What It Means

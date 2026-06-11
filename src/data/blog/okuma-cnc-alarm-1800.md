@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - okuma
+money_part: "ATC arm proximity switch"
 ---
 
 ## Okuma CNC Alarm 1800 — What It Means

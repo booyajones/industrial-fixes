@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Loose, damaged, or corroded wiring harness connector between the display and dispenser boards"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "LG refrigerator dispenser control board"
 ---
 
 ## LG Refrigerator C1 Error Code — What It Means

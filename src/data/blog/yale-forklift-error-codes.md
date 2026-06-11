@@ -10,6 +10,7 @@ tags:
   - yale
   - forklift
   - material-handling
+money_part: "Motor thermal sensor"
 ---
 
 ## Yale Forklift Error Codes - Quick Reference

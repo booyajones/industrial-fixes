@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Clogged filter or food debris in the pump impeller"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung dishwasher drain pump assembly"
 ---
 
 ## Samsung Dishwasher 5C Error Code — What It Means

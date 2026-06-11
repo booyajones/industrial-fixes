@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - state
+money_part: "Model-specific control board"
 ---
 
 ## State Water Heater E124 Error Code — What It Means

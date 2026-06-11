@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Motor (rewound or replacement)"
 ---
 
 ## Danfoss VFD Fault AL 14 — What It Means

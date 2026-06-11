@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "FC 302 power card"
 ---
 
 ## Danfoss FC302 Alarm 39 — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - cooper-and-hunter
+money_part: "Water level float switch"
 ---
 
 ## Cooper & Hunter EE Error Code — What It Means

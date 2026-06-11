@@ -10,6 +10,7 @@ tags:
   - hvac
   - lennox
   - air-conditioner
+money_part: "Dual run capacitor"
 ---
 
 ## Lennox XC16 Air Conditioner Error Codes — What They Mean

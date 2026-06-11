@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "Motor (replacement)"
 ---
 
 ## Yaskawa VFD Fault GF — What It Means

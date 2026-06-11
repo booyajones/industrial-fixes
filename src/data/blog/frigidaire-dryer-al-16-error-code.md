@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - frigidaire
+money_part: "Heating element assembly"
 ---
 
 ## Frigidaire Dryer AL-16 Error Code — What It Means

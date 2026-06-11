@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - trane
+money_part: "Trane UCM control board"
 ---
 
 ## Trane E6 Error Code — What It Means

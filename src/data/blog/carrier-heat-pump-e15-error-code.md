@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - carrier
+money_part: "Refrigerant temperature sensor"
 ---
 
 ## Carrier E15 Error Code — What It Means

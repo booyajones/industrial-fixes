@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Room temperature thermistor (10 kΩ at 25°C)"
 ---
 
 ## Fujitsu E:61 Error Code — What It Means

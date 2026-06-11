@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Failed keypanel or touchpad"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "GE oven keypanel or touchpad assembly"
 ---
 
 ## GE Oven F6 Error Code — What It Means

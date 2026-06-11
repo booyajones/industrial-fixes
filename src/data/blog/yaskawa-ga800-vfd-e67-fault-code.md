@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Incorrect wiring, loose connection, or damaged serial communication cable"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Serial communication cable"
 ---
 
 ## Yaskawa GA800 E67 Fault — What It Means

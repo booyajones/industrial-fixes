@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - allen-bradley
+money_part: "Internal cooling fan (drive-specific)"
 ---
 
 ## Allen Bradley PowerFlex 753 F35 Fault — What It Means

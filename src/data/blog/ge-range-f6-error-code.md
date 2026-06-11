@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed keypad or touchpad membrane"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "GE range keypanel assembly"
 ---
 
 ## GE Range F6 Error Code — What It Means

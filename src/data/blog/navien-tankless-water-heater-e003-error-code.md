@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - navien
+money_part: "Navien igniter assembly"
 ---
 
 ## Navien E003 Error — What It Means

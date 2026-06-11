@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - state
+money_part: "Inlet filter screen or sediment strainer"
 ---
 
 ## State Water Heater E23 Error Code — What It Means

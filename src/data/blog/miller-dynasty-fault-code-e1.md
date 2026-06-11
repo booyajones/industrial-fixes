@@ -9,6 +9,7 @@ draft: false
 tags:
   - welding
   - miller
+money_part: "Input power cable / plug"
 ---
 
 ## Miller Dynasty E1 Fault Code — What It Means

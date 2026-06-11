@@ -11,6 +11,7 @@ tags:
   - copeland
   - refrigeration
   - e2-controller
+money_part: "E2 temperature sensor (NTC)"
 ---
 
 ## Emerson E2 Controller Error Codes - Quick Reference

@@ -10,6 +10,7 @@ tags:
   - hvac
   - trane
   - heat-pump
+money_part: "Run capacitor"
 ---
 
 ## Trane XR14 Heat Pump Error Codes — What They Mean

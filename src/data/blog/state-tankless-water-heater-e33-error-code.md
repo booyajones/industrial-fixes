@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "State tankless temperature sensor"
 ---
 
 ## State Tankless Water Heater E33 Error Code — What It Means

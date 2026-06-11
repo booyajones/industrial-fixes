@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Feedback transmitter or sensor"
 ---
 
 ## Siemens Micromaster F0222 — What It Means

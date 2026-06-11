@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - lg
+money_part: "LG outdoor inverter PCB"
 ---
 
 ## LG Mini-Split CH27 Error Code — What It Means

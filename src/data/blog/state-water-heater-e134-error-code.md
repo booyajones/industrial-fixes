@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state-water-heaters
+money_part: "Combustion air intake screen kit"
 ---
 
 ## State Water Heater E134 Error Code — What It Means

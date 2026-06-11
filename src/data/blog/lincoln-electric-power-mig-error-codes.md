@@ -9,6 +9,7 @@ draft: false
 tags:
   - welding
   - lincoln-electric
+money_part: "MIG gun"
 ---
 
 ## Lincoln Electric Power MIG Error Codes — What They Mean

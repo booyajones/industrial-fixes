@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Silverware, pan, or dish blocking the dispenser door"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "GE dishwasher detergent dispenser assembly"
 ---
 
 ## GE Dishwasher EF Error Code — What It Means

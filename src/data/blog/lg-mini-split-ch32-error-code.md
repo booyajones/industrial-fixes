@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - lg
+money_part: "Discharge temperature sensor for LG outdoor unit"
 ---
 
 ## LG Mini Split CH32 Error Code — What It Means

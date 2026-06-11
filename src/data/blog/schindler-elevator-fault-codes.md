@@ -10,6 +10,7 @@ tags:
   - schindler
   - elevator
   - lift
+money_part: "Door contact (Schindler spec)"
 ---
 
 ## Schindler Elevator Fault Codes - Quick Reference

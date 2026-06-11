@@ -10,9 +10,13 @@ tags:
   - appliance
   - dishwasher
   - bosch
+<<<<<<< Updated upstream
 most_likely_cause: "main control board failure"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+=======
+money_part: "Heat pump / circulation pump motor assembly"
+>>>>>>> Stashed changes
 ---
 
 ## Bosch Dishwasher E01 Error Code — What It Means

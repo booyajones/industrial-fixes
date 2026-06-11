@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Keypad or ribbon cable issue"
 likelihood: "often"
 diy_or_pro: "pro"
+money_part: "Samsung microwave touchpad / keypad membrane assembly"
 ---
 
 ## Samsung Microwave E-51 Error — What It Means

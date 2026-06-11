@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Open STO circuit from an E-stop, safety relay, door switch, guard switch, or interlock"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "STO input wiring / safety loop wiring"
 ---
 
 ## Yaskawa GA800 E65 Fault — What It Means

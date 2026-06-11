@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - noritz
+money_part: "Noritz Quick Connect Communication Cord"
 ---
 
 ## Noritz F76 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - bosch
+money_part: "Bosch washer drain pump assembly"
 ---
 
 ## Bosch Washer E36 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - trane
+money_part: "Trane control board"
 ---
 
 ## Trane Heat Pump E17 Error Code — What It Means

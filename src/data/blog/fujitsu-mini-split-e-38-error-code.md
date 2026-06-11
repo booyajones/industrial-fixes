@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Controller PCB"
 ---
 
 ## Fujitsu Mini Split E:38 Error Code — What It Means

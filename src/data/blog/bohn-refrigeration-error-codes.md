@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - bohn
+money_part: "Evaporator fan motor"
 ---
 
 ## Bohn Refrigeration Error Codes — What They Mean

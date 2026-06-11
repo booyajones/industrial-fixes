@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
   - industrial
+money_part: "Cooling fan kit"
 ---
 
 ## Danfoss FC302 Complete Fault Code Guide — What They Mean

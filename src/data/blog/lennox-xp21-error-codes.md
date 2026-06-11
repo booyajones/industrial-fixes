@@ -10,6 +10,7 @@ tags:
   - hvac
   - lennox
   - heat-pump
+money_part: "Refrigerant charge (R-410A)"
 ---
 
 ## Lennox XP21 Heat Pump Error Codes — What They Mean

@@ -10,9 +10,13 @@ tags:
   - appliance
   - dishwasher
   - bosch
+<<<<<<< Updated upstream
 most_likely_cause: "Failed heating element or heater assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Main control board / power module"
+>>>>>>> Stashed changes
 ---
 
 ## Bosch Dishwasher E02 Error — What It Means

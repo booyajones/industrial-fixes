@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Control Lock was intentionally or accidentally enabled"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Touchpad / Keypad Assembly"
 ---
 
 ## Maytag Range Lock Error Code — What It Means

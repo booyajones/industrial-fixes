@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - burnham
+money_part: "Pressure switch"
 ---
 
 ## Burnham Boiler E2 Error Code — What It Means

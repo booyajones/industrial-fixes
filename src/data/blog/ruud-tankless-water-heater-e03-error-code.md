@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - ruud
+money_part: "ECO thermal cut-off switch"
 ---
 
 ## Ruud E03 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: true
 tags:
   - mini-split
   - lg
+money_part: "Outdoor condenser fan motor"
 ---
 
 ## LG Mini-Split CH34 Error Code — What It Means

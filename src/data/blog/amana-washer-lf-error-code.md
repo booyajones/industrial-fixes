@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - amana
+money_part: "Water inlet valve assembly"
 ---
 
 ## Amana LF Error Code — What It Means

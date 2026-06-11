@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Gree outdoor unit control board (PCB)"
 ---
 
 ## Gree H2 Error Code — What It Means

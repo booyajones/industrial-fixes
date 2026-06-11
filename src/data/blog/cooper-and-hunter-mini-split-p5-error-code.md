@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - cooper-and-hunter
+money_part: "Condenser temperature sensor (thermistor)"
 ---
 
 ## Cooper and Hunter P5 Error Code — What It Means

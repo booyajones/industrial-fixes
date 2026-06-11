@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - hoshizaki
+money_part: "Thermistor"
 ---
 
 ## Hoshizaki KM-1301 Error Codes — What It Means

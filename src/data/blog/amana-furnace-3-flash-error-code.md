@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - amana
+money_part: "Inducer motor run capacitor"
 ---
 
 ## Amana Furnace 3 Flash Error Code — What It Means

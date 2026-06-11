@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - frigidaire
+money_part: "Electronic control board"
 ---
 
 ## Frigidaire Dryer AL-12 Error Code — What It Means

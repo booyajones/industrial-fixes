@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - fanuc
+money_part: "Reference deceleration limit switch"
 ---
 
 ## Fanuc Alarm 90 — What It Means

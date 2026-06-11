@@ -11,6 +11,7 @@ tags:
   - eaton
   - motor-starter
   - electrical
+money_part: "C440 overload relay"
 ---
 
 ## Cutler-Hammer Fault Codes - Quick Reference

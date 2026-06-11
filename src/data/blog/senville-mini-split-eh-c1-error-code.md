@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - senville
+money_part: "Refrigerant leak sensor"
 ---
 
 ## Senville EH C1 Error Code — What It Means

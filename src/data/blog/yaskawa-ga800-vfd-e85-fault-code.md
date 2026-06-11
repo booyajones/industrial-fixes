@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 diy_or_pro: "pro"
+money_part: "Yaskawa GA800 control board (PCB)"
 ---
 
 ## Yaskawa GA800 E85 Fault — What It Means

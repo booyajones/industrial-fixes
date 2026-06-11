@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - pioneer
+money_part: "Indoor DC fan motor (blower motor)"
 ---
 
 ## Pioneer Mini Split E3 Error Code — What It Means

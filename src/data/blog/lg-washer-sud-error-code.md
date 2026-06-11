@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "too much detergent"
 likelihood: "the primary cause according to LG"
 diy_or_pro: "diy"
+money_part: "HE laundry detergent"
 ---
 
 ## LG Washer SUD Error Code — What It Means

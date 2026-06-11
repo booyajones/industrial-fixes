@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - daikin
+money_part: "Indoor thermistor / coil temperature sensor"
 ---
 
 ## Daikin A5 Error Code — What It Means

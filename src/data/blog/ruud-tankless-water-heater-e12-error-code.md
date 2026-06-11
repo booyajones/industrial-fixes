@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - ruud
+money_part: "Flame rod or flame sensor"
 ---
 
 ## Ruud Tankless E12 Error Code — What It Means

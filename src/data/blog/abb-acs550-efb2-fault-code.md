@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - abb
+money_part: "ABB embedded fieldbus communication module"
 ---
 
 ## ABB ACS550 EFB2 Fault Code — What It Means

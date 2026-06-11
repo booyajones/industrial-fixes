@@ -9,6 +9,7 @@ draft: false
 tags:
   - welding
   - lincoln-electric
+money_part: "Cooling fan motor"
 ---
 
 ## Lincoln Electric E11 Error Code — What It Means

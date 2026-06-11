@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Ambient temperature sensor"
 ---
 
 ## State Water Heater E50 Error Code — What It Means

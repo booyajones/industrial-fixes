@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed oven temperature sensor (RTD)"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool oven temperature sensor (RTD)"
 ---
 
 ## Whirlpool Range F4 Error Code — What It Means

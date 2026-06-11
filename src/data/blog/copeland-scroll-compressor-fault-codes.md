@@ -9,6 +9,7 @@ draft: false
 tags:
   - compressor
   - copeland
+money_part: "CoreSense Diagnostics Module (7.5–15 HP K5)"
 ---
 
 ## Copeland Scroll Compressor Fault Codes — What You're Looking At

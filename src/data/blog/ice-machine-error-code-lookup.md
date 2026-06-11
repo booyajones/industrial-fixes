@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - ice-machine
   - lookup
+money_part: "Water inlet valve"
 ---
 
 ## Ice Machine Error Code Lookup — Start Here

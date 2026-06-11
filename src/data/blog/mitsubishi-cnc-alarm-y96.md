@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - mitsubishi
+money_part: "SSCNET III/H fiber cable"
 ---
 
 ## Mitsubishi CNC Alarm Y96 — What It Means

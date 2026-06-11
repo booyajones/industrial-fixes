@@ -9,6 +9,7 @@ draft: true
 tags:
   - mini-split
   - bosch
+money_part: "Cold water inlet temperature sensor"
 ---
 
 ## Bosch Heat Pump E2 Error Code — What It Means

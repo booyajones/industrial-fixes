@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Outdoor coil thermistor / heat exchanger sensor"
 ---
 
 ## Fujitsu E:66 Error Code — What It Means

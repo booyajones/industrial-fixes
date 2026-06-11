@@ -10,6 +10,7 @@ tags:
   - hvac
   - furnace
   - american-standard
+money_part: "Flame sensor"
 ---
 
 ## American Standard Furnace 2 Flashes — What It Means

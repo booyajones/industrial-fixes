@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Enclosure thermostat fan unit"
 ---
 
 ## Siemens SINAMICS V20 F4 Fault — What It Means

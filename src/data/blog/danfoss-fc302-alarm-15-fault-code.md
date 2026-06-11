@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Danfoss FC 302 option card or communication module"
 ---
 
 ## Danfoss FC302 ALARM 15 — What It Means

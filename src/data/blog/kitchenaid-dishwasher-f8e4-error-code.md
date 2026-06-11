@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kitchenaid
+money_part: "Door gasket / tub seal"
 ---
 
 ## KitchenAid F8E4 Error Code — What It Means

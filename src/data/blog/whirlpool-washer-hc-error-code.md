@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "hot and cold inlet hoses connected to the wrong ports"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Inlet hose set (if hoses are damaged or need replacement)"
 ---
 
 ## Whirlpool HC Error Code — What It Means

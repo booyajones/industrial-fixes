@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - electrolux
+money_part: "Moisture sensor bars"
 ---
 
 ## Electrolux Dryer E31 Error Code — What It Means

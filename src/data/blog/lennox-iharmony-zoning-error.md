@@ -11,6 +11,7 @@ tags:
   - iharmony
   - zoning
   - hvac
+money_part: "iHarmony zone panel"
 ---
 
 ## Lennox iHarmony Zoning System Error Codes — Quick Reference

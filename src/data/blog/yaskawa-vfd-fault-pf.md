@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "Input fuses (class J or similar)"
 ---
 
 ## Yaskawa VFD Fault PF — What It Means

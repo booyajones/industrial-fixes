@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Hoist mechanical brake assembly"
 ---
 
 ## Danfoss FC302 Alarm 22 — What It Means

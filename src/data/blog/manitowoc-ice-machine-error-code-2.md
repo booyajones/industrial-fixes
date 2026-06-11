@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - manitowoc
+money_part: "Harvest valve (hot gas solenoid)"
 ---
 
 ## Manitowoc Ice Machine Error Code 2 — What It Means

@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Option card not seated correctly in the GA800 option slot"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Yaskawa GA800 communication option card"
 ---
 
 ## Yaskawa GA800 E53 Fault — What It Means

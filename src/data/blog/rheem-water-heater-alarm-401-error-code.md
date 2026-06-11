@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - rheem
+money_part: "Burner assembly (Rheem tankless)"
 ---
 
 ## Rheem 401 Alarm — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - daikin
+money_part: "Daikin indoor unit PCB / control board"
 ---
 
 ## Daikin A1 Error Code — What It Means

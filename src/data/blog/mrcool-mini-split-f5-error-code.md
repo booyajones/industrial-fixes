@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mrcool
+money_part: "Outdoor DC fan motor"
 ---
 
 ## MRCOOL F5 Error Code — What It Means

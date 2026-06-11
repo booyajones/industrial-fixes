@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Stuck or damaged touchpad/keypanel"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "GE microwave touchpad/keypanel assembly"
 ---
 
 ## GE Microwave F0 Error Code — What It Means

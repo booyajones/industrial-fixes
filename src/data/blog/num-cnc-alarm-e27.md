@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - num
+money_part: "Encoder or linear scale read head"
 ---
 
 ## NUM CNC Alarm E27 — What It Means

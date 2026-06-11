@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - bosch
+money_part: "Bosch washer door lock assembly"
 ---
 
 ## Bosch Washer E16 Error Code — What It Means

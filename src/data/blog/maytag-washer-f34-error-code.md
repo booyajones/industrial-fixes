@@ -9,9 +9,13 @@ draft: false
 tags:
   - appliance
   - maytag
+<<<<<<< Updated upstream
 most_likely_cause: "Laundry or small items left in the drum"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Maytag Clean Washer cycle tablet or cleaner"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag F34 Error Code — What It Means

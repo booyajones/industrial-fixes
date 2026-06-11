@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Miswired supply connection at the terminal block, including L2 and neutral reversed"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Oven door latch assembly"
 ---
 
 ## Maytag Range F9 Error Code — What It Means

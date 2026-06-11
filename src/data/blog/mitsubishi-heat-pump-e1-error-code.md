@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Indoor unit PCB"
 ---
 
 ## Mitsubishi E1 Error Code — What It Means

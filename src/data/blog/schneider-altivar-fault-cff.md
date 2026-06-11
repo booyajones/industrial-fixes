@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - schneider
+money_part: "No hardware typically needed"
 ---
 
 ## Schneider Altivar Fault CFF — What It Means

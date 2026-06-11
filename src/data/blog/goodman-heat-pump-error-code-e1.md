@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - goodman
+money_part: "High-pressure switch"
 ---
 
 ## Goodman Heat Pump E1 Error Code — What It Means

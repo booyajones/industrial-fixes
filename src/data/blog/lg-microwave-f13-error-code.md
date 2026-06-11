@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Main control board or power-supply section fault"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "LG microwave main control board"
 ---
 
 ## LG Microwave F13 Error Code — What It Means

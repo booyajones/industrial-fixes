@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Danfoss brake resistor"
 ---
 
 ## Danfoss FC302 ALARM 26 — What It Means

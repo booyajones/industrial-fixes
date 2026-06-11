@@ -10,6 +10,7 @@ tags:
   - plumbing
   - noritz
   - tankless-water-heater
+money_part: "Thermal fuse"
 ---
 
 ## Noritz NRCP Series Error Codes — What They Mean

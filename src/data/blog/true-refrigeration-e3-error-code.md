@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - true-refrigeration
+money_part: "Defrost heater"
 ---
 
 ## True Refrigeration E3 Error Code — What It Means

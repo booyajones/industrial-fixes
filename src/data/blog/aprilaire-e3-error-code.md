@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - aprilaire
+money_part: "Aprilaire outdoor temperature sensor"
 ---
 
 ## Aprilaire E3 Error Code — What It Means

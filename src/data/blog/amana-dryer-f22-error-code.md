@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "Dryer thermistor / temperature sensor"
 ---
 
 ## Amana Dryer F22 Error Code — What It Means

@@ -13,6 +13,7 @@ tags:
   - fault-codes
   - overcurrent
 description: "ABB ACS580 fault codes complete guide — 2310 overcurrent, 3130 input phase loss, 3210 DC overvoltage, 4110 heatsink overtemp, 7121 fan feedback fault. Step-by-step fixes and parts table."
+money_part: "ACS580 cooling fan assembly"
 ---
 
 ## ABB ACS580 VFD Fault Codes — Complete Guide

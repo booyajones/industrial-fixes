@@ -9,6 +9,7 @@ draft: false
 tags:
   - mini-split
   - daikin
+money_part: "Outdoor inverter PCB"
 ---
 
 ## Daikin R-32 U4 Error Code — What It Means

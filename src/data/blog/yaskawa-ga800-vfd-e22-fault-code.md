@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "Serial communication cable (shielded twisted-pair)"
 ---
 
 ## Yaskawa GA800 E22 Error Code — What It Means

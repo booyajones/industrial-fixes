@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Electronic control board"
 ---
 
 ## State Water Heater E98 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - bosch
+money_part: "Drain pump assembly"
 ---
 
 ## Bosch E24 Error Code — What It Means

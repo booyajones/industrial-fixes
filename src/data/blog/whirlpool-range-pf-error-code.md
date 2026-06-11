@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Tripped breaker, loose plug, or poor terminal-block connection"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Main control board (electronic clock control)"
 ---
 
 ## Whirlpool Range PF Error Code — What It Means

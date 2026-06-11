@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - pioneer
+money_part: "R-410A refrigerant"
 ---
 
 ## Pioneer EL 0C Error Code — What It Means

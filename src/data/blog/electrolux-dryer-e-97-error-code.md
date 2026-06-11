@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - electrolux
+money_part: "Electronic control board (main control)"
 ---
 
 ## Electrolux Dryer E97 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - rheem
+money_part: "Flame sensor rod"
 ---
 
 ## Rheem Furnace 8 Flashes Error Code — What It Means

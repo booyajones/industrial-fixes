@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - siemens
+money_part: "Sinamics S120 motor module"
 ---
 
 ## Siemens Sinumerik Alarm 300204 — What It Means

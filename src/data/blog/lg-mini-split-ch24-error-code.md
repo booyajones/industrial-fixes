@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - lg
+money_part: "High-pressure switch"
 ---
 
 ## LG Mini-Split CH24 Error — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - bosch
+money_part: "Bosch oven electronic control board"
 ---
 
 ## Bosch Oven F154 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - lg
+money_part: "Inverter PCB (outdoor main control board)"
 ---
 
 ## LG Mini Split CH40 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Outdoor unit main board (ODU PCB)"
 ---
 
 ## Gree U9 Error Code — What It Means

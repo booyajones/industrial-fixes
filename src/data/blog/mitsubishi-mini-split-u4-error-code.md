@@ -9,6 +9,7 @@ draft: true
 tags:
   - mini-split
   - mitsubishi
+money_part: "Outdoor thermistor (discharge or ambient)"
 ---
 
 ## Mitsubishi Mini Split U4 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "Yaskawa GA800 option card (CN5-A compatible)"
 ---
 
 ## Yaskawa GA800 E14 Fault — What It Means

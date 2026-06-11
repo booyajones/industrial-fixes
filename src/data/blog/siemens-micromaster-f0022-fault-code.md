@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Siemens Micromaster I/O expansion board"
 ---
 
 ## Siemens Micromaster F0022 — What It Means

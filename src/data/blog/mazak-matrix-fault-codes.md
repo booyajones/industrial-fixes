@@ -11,6 +11,7 @@ tags:
   - cnc
   - matrix
   - fault-codes
+money_part: "Servo amplifier (Mazatrol)"
 ---
 
 ## Mazak Matrix/Matrix 2 Fault Code Guide

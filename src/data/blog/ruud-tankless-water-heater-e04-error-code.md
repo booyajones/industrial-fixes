@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - ruud
+money_part: "Inlet water filter or screen"
 ---
 
 ## Ruud E04 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - refrigerator
   - maytag
+money_part: "Freezer thermistor / defrost sensor"
 ---
 
 ## Maytag Refrigerator C4 Error Code — What It Means

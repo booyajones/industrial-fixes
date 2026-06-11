@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Indoor blower motor assembly"
 ---
 
 ## Gree H6 Error Code — What It Means

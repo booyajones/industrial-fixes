@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "E-stop switch or safety interlock switch"
 ---
 
 ## Siemens Micromaster F0085 — What It Means

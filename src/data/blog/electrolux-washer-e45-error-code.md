@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - electrolux
+money_part: "Door lock / door interlock assembly"
 ---
 
 ## Electrolux Washer E45 Error Code — What It Means

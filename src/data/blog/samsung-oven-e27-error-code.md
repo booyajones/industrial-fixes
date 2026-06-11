@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "faulty oven temperature sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung oven temperature sensor / thermistor"
 ---
 
 ## Samsung Oven E27 Error Code — What It Means

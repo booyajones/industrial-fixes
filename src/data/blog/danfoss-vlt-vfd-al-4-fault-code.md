@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Three-pole contactor"
 ---
 
 ## Danfoss VLT AL 4 Fault — What It Means

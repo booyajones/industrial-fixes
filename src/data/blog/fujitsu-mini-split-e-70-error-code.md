@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Main PCB (indoor or outdoor control board)"
 ---
 
 ## Fujitsu Mini Split E:70 Error Code — What It Means

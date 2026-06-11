@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - kenmore
+money_part: "Outlet thermistor"
 ---
 
 ## Kenmore Dryer F23 Error Code — What It Means

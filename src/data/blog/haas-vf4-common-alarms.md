@@ -10,6 +10,7 @@ tags:
   - cnc
   - haas
   - machining
+money_part: "Air system components"
 ---
 
 ## Haas VF-4 Common Alarms Guide — What They Mean

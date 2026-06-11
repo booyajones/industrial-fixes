@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - tempstar
+money_part: "Draft pressure switch"
 ---
 
 ## Tempstar Furnace E1 Error Code — What It Means

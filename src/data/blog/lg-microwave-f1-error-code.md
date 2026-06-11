@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed main control board"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "LG microwave main control board"
 ---
 
 ## LG Microwave F1 Error Code — What It Means

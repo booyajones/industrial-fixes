@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - bosch
+money_part: "Door gasket / tub seal"
 ---
 
 ## Bosch Dishwasher E15 Error Code — What It Means

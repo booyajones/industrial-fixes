@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - mazak
+money_part: "Door interlock switch"
 ---
 
 ## Mazak Alarm 500 PC Alarm — What It Means

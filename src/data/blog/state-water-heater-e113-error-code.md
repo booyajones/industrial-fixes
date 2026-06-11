@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state-water-heaters
+money_part: "Cold water inlet filter screen"
 ---
 
 ## State Water Heater E113 Error Code — What It Means

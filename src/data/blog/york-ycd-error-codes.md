@@ -11,6 +11,7 @@ tags:
   - york
   - packaged-unit
   - commercial
+money_part: "Run capacitor"
 ---
 
 ## York YCD Packaged Unit Error Codes — What They Mean

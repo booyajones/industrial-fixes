@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "Drive IGBT module / power board"
 ---
 
 ## Yaskawa VFD Fault SC — What It Means

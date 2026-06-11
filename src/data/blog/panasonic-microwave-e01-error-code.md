@@ -10,6 +10,7 @@ tags:
   - appliance
   - microwave
   - panasonic
+money_part: "Panasonic Control Board (PCB Assembly)"
 ---
 
 ## Panasonic E01 Error Code — What It Means

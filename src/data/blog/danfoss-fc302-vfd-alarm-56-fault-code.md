@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Danfoss FC 302 control keypad (LCP)"
 ---
 
 ## Danfoss FC302 VFD ALARM 56 — What It Means

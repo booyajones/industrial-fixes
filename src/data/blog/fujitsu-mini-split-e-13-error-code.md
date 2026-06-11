@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Fujitsu main controller PCB (indoor)"
 ---
 
 ## Fujitsu E:13 Error Code — What It Means

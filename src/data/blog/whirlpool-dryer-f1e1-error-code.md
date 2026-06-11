@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed main control board"
 likelihood: "the most common cause when the code returns after reset"
 diy_or_pro: "diy"
+money_part: "Main electronic control board"
 ---
 
 ## Whirlpool Dryer F1E1 Error Code — What It Means

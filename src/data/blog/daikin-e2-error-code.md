@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - daikin
+money_part: "High-pressure switch (HPS)"
 ---
 
 ## Daikin E2 Error Code — What It Means

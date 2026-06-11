@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - hoshizaki
+money_part: "Hoshizaki Scale Away cleaner"
 ---
 
 ## Hoshizaki KM Series E1 Error Code — What It Means

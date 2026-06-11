@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - haas
+money_part: "Servo motor thermistor"
 ---
 
 ## Haas Alarm 112 — What It Means

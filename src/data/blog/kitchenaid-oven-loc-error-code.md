@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - kitchenaid
+money_part: "User Interface Control Board"
 ---
 
 ## KitchenAid Oven LOC Error Code — What It Means

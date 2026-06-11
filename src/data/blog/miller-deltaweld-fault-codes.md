@@ -9,6 +9,7 @@ draft: false
 tags:
   - welding
   - miller
+money_part: "MIG gun / cable"
 ---
 
 ## Miller Deltaweld Fault Codes — What They Mean

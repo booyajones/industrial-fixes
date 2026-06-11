@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "User interface control panel assembly"
 ---
 
 ## Amana Dryer F6 E2 Error Code — What It Means

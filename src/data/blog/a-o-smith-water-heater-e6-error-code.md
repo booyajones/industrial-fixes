@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - ao-smith
+money_part: "Flow sensor or flow meter"
 ---
 
 ## A.O. Smith E6 Error Code — What It Means

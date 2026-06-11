@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Air intake screen or filter"
 ---
 
 ## State Water Heater E139 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - schneider
+money_part: "Altivar control card / board"
 ---
 
 ## Schneider Altivar Fault INF — What It Means

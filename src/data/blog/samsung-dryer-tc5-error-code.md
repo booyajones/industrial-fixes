@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Restricted airflow or vent blockage"
 likelihood: "the most common real-world cause"
 diy_or_pro: "diy"
+money_part: "Samsung dryer exhaust thermistor / temperature sensor"
 ---
 
 ## Samsung Dryer tC5 Error Code — What It Means

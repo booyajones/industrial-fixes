@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Sabbath Mode accidentally activated"
 likelihood: "the most common explanation"
 diy_or_pro: "diy"
+money_part: "Electronic oven control board (ERC)"
 ---
 
 ## Whirlpool Oven AB Error Code — What It Means

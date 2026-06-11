@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Fujitsu outdoor inverter control board (controller PCB)"
 ---
 
 ## Fujitsu Mini Split E:25 Error Code — What It Means

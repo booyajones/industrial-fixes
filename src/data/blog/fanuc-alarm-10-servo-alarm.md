@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - fanuc
+money_part: "Fanuc servo amplifier (alpha-i or beta-i series)"
 ---
 
 ## Fanuc Alarm 10 Servo Alarm — What It Means

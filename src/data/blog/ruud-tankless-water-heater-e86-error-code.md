@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - ruud
+money_part: "Flame sensor (Ruud/Rheem tankless)"
 ---
 
 ## Ruud E86 Error Code — What It Means

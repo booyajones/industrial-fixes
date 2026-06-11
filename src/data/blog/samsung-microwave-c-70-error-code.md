@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Moisture or condensation in the electronics"
 likelihood: "the most common trigger"
 diy_or_pro: "pro"
+money_part: "Steam sensor assembly"
 ---
 
 ## Samsung C-70 Microwave Error — What It Means

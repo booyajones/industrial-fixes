@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - abb
+money_part: "IGBT power module"
 ---
 
 ## ABB VFD Fault 0001 Overcurrent — What It Means

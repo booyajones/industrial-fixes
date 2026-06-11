@@ -10,6 +10,7 @@ tags:
   - ge
   - circuit-breaker
   - electrical
+money_part: "DECS trip unit"
 ---
 
 ## GE Circuit Breaker Fault Codes - Quick Reference

@@ -9,6 +9,7 @@ draft: false
 tags:
   - welding
   - miller
+money_part: "MIG gun / torch"
 ---
 
 ## Miller Welder A1 Fault Code — What It Means

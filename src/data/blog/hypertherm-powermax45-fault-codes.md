@@ -9,6 +9,7 @@ draft: false
 tags:
   - welding
   - hypertherm
+money_part: "Electrode"
 ---
 
 ## Hypertherm Powermax 45 Fault Codes — What They Mean

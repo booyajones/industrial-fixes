@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - ecosmart
+money_part: "EcoSmart thermistor / temperature sensor"
 ---
 
 ## EcoSmart ECO 29 E1 Error — What It Means

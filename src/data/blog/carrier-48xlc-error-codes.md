@@ -11,6 +11,7 @@ tags:
   - carrier
   - packaged-unit
   - commercial
+money_part: "Run capacitor"
 ---
 
 ## Carrier 48XLC Packaged Unit Error Codes — What They Mean

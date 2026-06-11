@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - heatcraft
+money_part: "Evaporator fan motor"
 ---
 
 ## Heatcraft Walk-In Cooler Error Codes — What They Mean

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "compressor circuit failure on heat-pump models"
 likelihood: "the most common cause on heat-pump dryers"
 diy_or_pro: "pro"
+money_part: "Heat-pump compressor"
 ---
 
 ## LG Dryer LE2 Error Code — What It Means

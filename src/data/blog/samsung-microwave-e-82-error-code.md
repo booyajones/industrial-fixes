@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Moisture intrusion into the control electronics"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Samsung microwave main control board (MICOM board)"
 ---
 
 ## Samsung Microwave E-82 Error — What It Means

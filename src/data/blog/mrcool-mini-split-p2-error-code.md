@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mrcool
+money_part: "MRCOOL outdoor main PCB / inverter board"
 ---
 
 ## MRCOOL P2 Error Code — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "inverter module failure"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "LG microwave inverter module (assembly)"
 ---
 
 ## LG Microwave F16 Error — What It Means

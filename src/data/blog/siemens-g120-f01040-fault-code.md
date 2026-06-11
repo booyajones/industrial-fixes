@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Siemens SINAMICS G120 Control Unit (CU)"
 ---
 
 ## Siemens G120 F01040 — What It Means

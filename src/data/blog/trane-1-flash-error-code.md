@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - trane
+money_part: "Flame sensor"
 ---
 
 ## Trane 1 Flash Error Code — What It Means

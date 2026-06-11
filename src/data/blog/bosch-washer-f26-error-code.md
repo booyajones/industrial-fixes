@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - bosch
+money_part: "Analogue pressure sensor"
 ---
 
 ## Bosch Washer F26 Error Code — What It Means

@@ -9,9 +9,13 @@ draft: false
 tags:
   - appliance
   - maytag
+<<<<<<< Updated upstream
 most_likely_cause: "Water supply valves partially closed or clogged inlet screens"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Water inlet valve assembly"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag d7 Error Code — What It Means

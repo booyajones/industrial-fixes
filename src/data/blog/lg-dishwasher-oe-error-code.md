@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "clogged filters or food debris in the tub"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "LG dishwasher drain filter assembly"
 ---
 
 ## LG Dishwasher OE Error Code — What It Means

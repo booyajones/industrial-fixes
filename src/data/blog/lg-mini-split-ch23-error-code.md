@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - lg
+money_part: "LG outdoor unit inverter PCB (IPM board)"
 ---
 
 ## LG CH23 Error Code — What It Means

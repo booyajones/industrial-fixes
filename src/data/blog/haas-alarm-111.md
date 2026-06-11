@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - haas
+money_part: "Servo drive module"
 ---
 
 ## Haas Alarm 111 — What It Means

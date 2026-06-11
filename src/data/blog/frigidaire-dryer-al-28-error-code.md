@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - frigidaire
+money_part: "Heating element"
 ---
 
 ## Frigidaire AL-28 Dryer Error — What It Means

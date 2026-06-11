@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - rinnai
+money_part: "Ignition electrode"
 ---
 
 ## Rinnai Error Code 11 — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - pioneer
   - mini-split
+money_part: "Signal cable (3-conductor)"
 ---
 
 ## Pioneer WYS Series Mini Split Error Codes — What They Mean

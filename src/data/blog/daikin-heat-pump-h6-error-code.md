@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - daikin
+money_part: "Compressor wiring harness"
 ---
 
 ## Daikin H6 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - kb-electronics
   - dc-drive
   - motor-control
+money_part: "5K or 10K speed potentiometer"
 ---
 
 ## KB Electronics Fault Codes — Quick Reference

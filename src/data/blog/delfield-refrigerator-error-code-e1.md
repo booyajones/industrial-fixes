@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - delfield
+money_part: "Temperature probe / thermistor"
 ---
 
 ## Delfield Refrigerator Error Code E1 — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - pioneer
+money_part: "Pioneer indoor PCB / control board"
 ---
 
 ## Pioneer Bf Error Code — What It Means

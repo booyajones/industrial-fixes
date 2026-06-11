@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Missing jumper on STO terminals or open safety relay contact"
 likelihood: "the most common causes"
 diy_or_pro: "pro"
+money_part: "STO jumper or terminal link for GA800"
 ---
 
 ## Yaskawa GA800 E56 Fault — What It Means

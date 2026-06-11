@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kenmore
+money_part: "User interface control panel"
 ---
 
 ## Kenmore Dishwasher F6E1 Error — What It Means

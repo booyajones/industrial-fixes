@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - true-refrigeration
+money_part: "Defrost / evaporator temperature probe"
 ---
 
 ## True Refrigeration E5 Error Code — What It Means

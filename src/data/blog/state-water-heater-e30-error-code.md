@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Inlet screen or filter"
 ---
 
 ## State Water Heater E30 Error Code — What It Means

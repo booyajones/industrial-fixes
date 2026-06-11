@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - daikin
+money_part: "Indoor heat exchanger temperature sensor (thermistor)"
 ---
 
 ## Daikin C4 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - fs-elliott
   - centrifugal
   - industrial
+money_part: "Inlet filter element"
 ---
 
 ## FS-Elliott Centrifugal Compressor Fault Codes — Quick Reference

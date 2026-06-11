@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - maytag
+money_part: "Control-to-UI wiring harness"
 ---
 
 ## Maytag Dryer F76 Error Code — What It Means

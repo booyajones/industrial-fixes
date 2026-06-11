@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - senville
+money_part: "Senville indoor main board (PCB)"
 ---
 
 ## Senville Mini Split EH 02 Error Code — What It Means

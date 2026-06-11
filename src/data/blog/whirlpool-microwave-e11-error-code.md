@@ -10,6 +10,7 @@ tags:
   - appliance
   - microwave
   - whirlpool
+money_part: "Gas sensor"
 ---
 
 ## Whirlpool Microwave E11 Error Code — What It Means

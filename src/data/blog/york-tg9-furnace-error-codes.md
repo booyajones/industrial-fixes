@@ -10,6 +10,7 @@ tags:
   - hvac
   - york
   - furnace
+money_part: "Hot surface igniter"
 ---
 
 ## York TG9 Furnace Error Codes — What They Mean

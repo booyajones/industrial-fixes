@@ -9,6 +9,7 @@ draft: false
 tags:
   - mini-split
   - pioneer
+money_part: "Communication wire (S wire)"
 ---
 
 ## Pioneer Mini Split Error Code E6 — What It Means

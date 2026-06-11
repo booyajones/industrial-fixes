@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "User-input or control-board logic issue interpreting the entered cook time incorrectly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Main control board (PCB assembly)"
 ---
 
 ## Samsung Microwave E-05 Error — What It Means

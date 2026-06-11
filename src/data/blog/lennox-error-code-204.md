@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - lennox
+money_part: "Hot surface igniter"
 ---
 
 ## Lennox 204 Error Code — What It Means

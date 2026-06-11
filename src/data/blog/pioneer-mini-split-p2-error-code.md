@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - pioneer
+money_part: "Compressor overload protector"
 ---
 
 ## Pioneer Mini Split P2 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - refrigerator
   - maytag
+money_part: "Refrigerator thermistor (temperature sensor)"
 ---
 
 ## Maytag Refrigerator C3 Error Code — What It Means

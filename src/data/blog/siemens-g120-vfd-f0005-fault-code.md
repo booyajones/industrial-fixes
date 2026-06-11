@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Motor with correct horsepower and frame size"
 ---
 
 ## Siemens G120 F0005 Fault — What It Means

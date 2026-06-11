@@ -10,6 +10,7 @@ tags:
   - appliance
   - microwave
   - panasonic
+money_part: "Control panel assembly"
 ---
 
 ## Panasonic Microwave U30 Error Code — What It Means

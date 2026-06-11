@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - amana
+money_part: "Amana dishwasher drain pump"
 ---
 
 ## Amana Dishwasher F8E2 Error Code — What It Means

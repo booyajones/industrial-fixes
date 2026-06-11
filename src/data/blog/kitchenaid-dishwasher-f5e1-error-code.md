@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kitchenaid
+money_part: "KitchenAid dishwasher door latch assembly"
 ---
 
 ## KitchenAid Dishwasher F5E1 Error Code — What It Means

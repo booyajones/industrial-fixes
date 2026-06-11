@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kitchenaid
+money_part: "Water inlet valve assembly"
 ---
 
 ## KitchenAid H2O Error Code — What It Means

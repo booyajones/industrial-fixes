@@ -9,6 +9,7 @@ draft: false
 tags:
   - mini-split
   - fujitsu
+money_part: "Indoor fan motor"
 ---
 
 ## Fujitsu Mini Split Error Codes — Quick Reference

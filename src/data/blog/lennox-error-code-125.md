@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - lennox
+money_part: "Pressure switch (heat speed rated)"
 ---
 
 ## Lennox Error Code 125 — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - refrigerator
   - maytag
+money_part: "Maytag refrigerator temperature sensor (thermistor)"
 ---
 
 ## Maytag Refrigerator C7 Error Code — What It Means

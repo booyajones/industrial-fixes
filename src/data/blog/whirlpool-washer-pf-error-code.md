@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "actual utility power loss or brief outage"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool washer main control board (electronic control)"
 ---
 
 ## Whirlpool Washer PF Error Code — What It Means

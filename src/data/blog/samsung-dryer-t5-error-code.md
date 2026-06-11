@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Clogged lint screen or restricted exhaust vent"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung Dryer Thermistor / Temperature Sensor"
 ---
 
 ## Samsung Dryer t5 Error Code — What It Means

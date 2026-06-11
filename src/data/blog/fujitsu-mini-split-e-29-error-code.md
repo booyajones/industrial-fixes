@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Indoor unit controller PCB"
 ---
 
 ## Fujitsu E:29 Error Code — What It Means

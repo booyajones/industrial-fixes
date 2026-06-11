@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - navien
+money_part: "Navien flow sensor (water flow sensor)"
 ---
 
 ## Navien E038 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - daikin
+money_part: "Daikin indoor fan motor / blower motor assembly"
 ---
 
 ## Daikin A6 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - frigidaire
+money_part: "Main electronic control board"
 ---
 
 ## Frigidaire Dryer AL-01 Error Code — What It Means

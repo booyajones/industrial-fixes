@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - pioneer
+money_part: "Outdoor inverter power module (IPM board)"
 ---
 
 ## Pioneer Mini Split P8 Error — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - tyler
+money_part: "Evaporator fan motor"
 ---
 
 ## Tyler Refrigeration Error Code 1 — What It Means

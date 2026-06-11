@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - utica
+money_part: "Flame sensor rod"
 ---
 
 ## Utica Boiler Error Code E1 — What It Means

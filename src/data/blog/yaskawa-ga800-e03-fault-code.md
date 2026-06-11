@@ -9,6 +9,7 @@ draft: true
 tags:
   - vfd
   - yaskawa
+money_part: "External fault relay or safety interlock"
 ---
 
 ## Yaskawa GA800 E03 Fault Code — What It Means

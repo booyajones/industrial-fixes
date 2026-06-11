@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "blocked filter or glass trap"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Drain pump assembly"
 ---
 
 ## Frigidaire Dishwasher i20 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - mini-split
   - lennox
+money_part: "S-wire / signal wire"
 ---
 
 ## Lennox Mini Split Error Code E1 — What It Means

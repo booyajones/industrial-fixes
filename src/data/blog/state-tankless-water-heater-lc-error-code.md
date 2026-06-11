@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Tankless water heater descaling kit"
 ---
 
 ## State Tankless Water Heater LC Error Code — What It Means

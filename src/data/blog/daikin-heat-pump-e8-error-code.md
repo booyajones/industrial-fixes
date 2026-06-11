@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - daikin
+money_part: "Inverter compressor"
 ---
 
 ## Daikin E8 Error Code — What It Means

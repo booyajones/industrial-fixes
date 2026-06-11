@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Electronic control board (PCB)"
 ---
 
 ## State Water Heater E168 Error Code — What It Means

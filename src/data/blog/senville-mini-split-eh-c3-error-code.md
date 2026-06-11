@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - senville
+money_part: "Senville TS05-N10 Refrigerant Sensor"
 ---
 
 ## Senville EH C3 Error Code — What It Means

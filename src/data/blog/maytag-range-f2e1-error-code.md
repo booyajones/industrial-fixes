@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "stuck or shorted button on the user interface"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "User interface board (touch control / keypad assembly)"
 ---
 
 ## Maytag Range F2E1 Error Code — What It Means

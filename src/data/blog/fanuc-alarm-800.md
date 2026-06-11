@@ -12,6 +12,7 @@ tags:
   - alarm-800
   - apc
   - encoder
+money_part: "Fanuc A98L-0031-0005 battery"
 ---
 
 ## Fanuc Alarm 800: APC Alarm

@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - amana
+money_part: "Washing machine inlet hoses (pair)"
 ---
 
 ## Amana Washer Fd Error Code — What It Means

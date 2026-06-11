@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - lg
+money_part: "Compressor discharge thermistor"
 ---
 
 ## LG Mini Split CH47 Error — What It Means

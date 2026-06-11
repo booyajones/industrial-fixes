@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "ice accumulation or blocked drain hole"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "LG refrigerator defrost heater"
 ---
 
 ## LG Refrigerator dH Error Code — What It Means

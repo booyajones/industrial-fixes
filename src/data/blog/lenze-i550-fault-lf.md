@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - lenze
+money_part: "Semiconductor input fuses"
 ---
 
 ## Lenze i550 Fault LF — What It Means

@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Inlet water filter or screen"
 ---
 
 ## State Water Heater E162 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - amana
+money_part: "Overfill Protection Float Assembly"
 ---
 
 ## Amana Dishwasher E1 Error — What It Means

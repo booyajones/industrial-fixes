@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "clogged drain hose, blocked air gap, or disposer knockout plug not removed"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Drain hose"
 ---
 
 ## GE Dishwasher C2 Error Code — What It Means

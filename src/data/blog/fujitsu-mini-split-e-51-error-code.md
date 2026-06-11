@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Indoor fan motor"
 ---
 
 ## Fujitsu E:51 Error Code — What It Means

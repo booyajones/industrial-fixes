@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "thermistor or heating element failure"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Samsung washer heating element"
 ---
 
 ## Samsung Washer HE Error Code — What It Means

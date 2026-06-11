@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Replacement motor (appropriate HP/kW rating)"
 ---
 
 ## Danfoss FC302 Alarm 54 — What It Means

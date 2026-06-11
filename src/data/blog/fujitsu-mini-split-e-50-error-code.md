@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Fujitsu indoor coil thermistor"
 ---
 
 ## Fujitsu E:50 Error Code — What It Means

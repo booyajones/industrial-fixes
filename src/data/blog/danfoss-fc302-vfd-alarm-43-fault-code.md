@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "External interlock contact or safety relay"
 ---
 
 ## Danfoss FC302 Alarm 43 — What It Means

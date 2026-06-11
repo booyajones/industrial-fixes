@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - goodman
+money_part: "Temperature sensor / thermistor"
 ---
 
 ## Goodman A3 Error Code — What It Means

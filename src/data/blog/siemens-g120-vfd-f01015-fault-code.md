@@ -9,6 +9,7 @@ draft: true
 tags:
   - vfd
   - siemens
+money_part: "Siemens G120 Control Unit (CU)"
 ---
 
 ## Siemens G120 F01015 Fault — What It Means

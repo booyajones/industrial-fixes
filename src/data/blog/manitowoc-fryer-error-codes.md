@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - frymaster
+money_part: "Temperature probe (RTD)"
 ---
 
 ## Frymaster Commercial Fryer Error Codes — What They Mean

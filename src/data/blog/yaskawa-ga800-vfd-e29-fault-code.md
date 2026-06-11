@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "Soft-charge bypass relay"
 ---
 
 ## Yaskawa GA800 E29 Fault — What It Means

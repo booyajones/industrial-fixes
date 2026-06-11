@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed oven temperature sensor (thermistor)"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung oven temperature sensor (thermistor)"
 ---
 
 ## Samsung Range E-27 Error Code — What It Means

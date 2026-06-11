@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "Yaskawa GA800 operator keypad"
 ---
 
 ## Yaskawa GA800 E01 Fault — What It Means

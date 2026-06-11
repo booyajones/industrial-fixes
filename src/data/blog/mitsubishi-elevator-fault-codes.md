@@ -10,6 +10,7 @@ tags:
   - mitsubishi
   - elevator
   - lift
+money_part: "Door contact (dual-channel)"
 ---
 
 ## Mitsubishi Elevator Fault Codes - Quick Reference

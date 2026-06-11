@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Combustion air inlet and exhaust terminal assembly"
 ---
 
 ## State Water Heater E122 Error Code — What It Means

@@ -512,7 +512,12 @@ def assemble_md(topic: str, c: dict, slug: str, draft: bool = False) -> str:
     tree = c.get("decision_tree", []) or []
 
     # Frontmatter the template reads to render the verdict block + DIY/Pro badge.
+    # money_part = the #1 buyable part; the template uses it to build WORKING
+    # merchant search queries (RepairClinic etc.) instead of the page title.
     extra_fm = ""
+    money_part = _clean((parts[0].get("name") if parts and isinstance(parts[0], dict) else "") or "")
+    if money_part:
+        extra_fm += f'money_part: "{money_part}"\n'
     if mlc:
         extra_fm += f'most_likely_cause: "{mlc}"\n'
     if likelihood:

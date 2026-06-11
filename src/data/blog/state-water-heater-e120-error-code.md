@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state-water-heaters
+money_part: "Air intake screen assembly"
 ---
 
 ## State Water Heater E120 Error Code — What It Means

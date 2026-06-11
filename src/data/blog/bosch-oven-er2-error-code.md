@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - bosch
+money_part: "Bosch oven control board"
 ---
 
 ## Bosch ER2 Oven Error — What It Means

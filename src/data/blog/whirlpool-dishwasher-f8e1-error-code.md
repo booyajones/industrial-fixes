@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - whirlpool
 diy_or_pro: "diy"
+money_part: "Water inlet valve (dishwasher)"
 ---
 
 ## Whirlpool Dishwasher F8E1 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: true
 tags:
   - hvac
   - carrier
+money_part: "Outdoor coil thermistor"
 ---
 
 ## Carrier Heat Pump E5 Error Code — What It Means

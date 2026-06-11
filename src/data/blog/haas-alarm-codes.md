@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - haas
+money_part: "Way lube oil"
 ---
 
 ## Haas CNC Alarm Codes — Quick Reference

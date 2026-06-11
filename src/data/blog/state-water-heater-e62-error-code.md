@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - state-water-heaters
+money_part: "Flame sensor / flame rod"
 ---
 
 ## State Water Heater E62 Error Code — What It Means

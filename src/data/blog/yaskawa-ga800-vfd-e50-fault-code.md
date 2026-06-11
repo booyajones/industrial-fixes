@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Safety chain or interlock opening"
 likelihood: "the most typical field cause"
 diy_or_pro: "pro"
+money_part: "Replacement interlock relay or safety contact"
 ---
 
 ## Yaskawa GA800 E50 Fault Code — What It Means

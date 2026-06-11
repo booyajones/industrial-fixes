@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "debris or blockage in the sump or impeller area"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool dishwasher circulation pump or wash motor assembly"
 ---
 
 ## Whirlpool Dishwasher F7E2 Error — What It Means

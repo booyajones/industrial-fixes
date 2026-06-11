@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - fanuc
+money_part: "No parts typically required"
 ---
 
 ## Fanuc Alarm 5 — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - abb
+money_part: "Input power terminals and lugs"
 ---
 
 ## ABB ACS580 A3D0 Fault Code — What It Means

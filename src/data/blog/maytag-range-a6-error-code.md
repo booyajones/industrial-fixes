@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Sabbath mode was intentionally activated"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Electronic control board (oven control)"
 ---
 
 ## Maytag 5A6 Error Code — What It Means

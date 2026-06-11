@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - electrolux
+money_part: "Water inlet valve"
 ---
 
 ## Electrolux Dryer E10 Error Code — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Sabbath Mode turned on unintentionally or by another user"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Oven control board (electronic clock/control)"
 ---
 
 ## Maytag Range SAB Error Code — What It Means

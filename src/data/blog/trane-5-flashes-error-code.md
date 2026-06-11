@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - trane
+money_part: "Pressure switch"
 ---
 
 ## Trane 5 Flashes Error Code — What It Means

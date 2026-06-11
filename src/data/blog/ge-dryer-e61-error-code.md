@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "stuck or failed heater relay on the control board"
 likelihood: "the most common cause in the E6x heater-fault family"
 diy_or_pro: "pro"
+money_part: "GE dryer heating element assembly"
 ---
 
 ## GE Dryer E61 Error Code — What It Means

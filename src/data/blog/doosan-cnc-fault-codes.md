@@ -12,6 +12,7 @@ tags:
   - cnc
   - fanuc
   - alarm-codes
+money_part: "Hydraulic filter"
 ---
 
 ## Doosan CNC Alarm Codes — Quick Reference

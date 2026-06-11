@@ -10,6 +10,7 @@ tags:
   - plumbing
   - rinnai
   - boiler
+money_part: "Thermal fuse"
 ---
 
 ## Rinnai CBU Combi Boiler Error Codes — What They Mean

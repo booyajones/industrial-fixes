@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Fujitsu outdoor unit main PCB (control board)"
 ---
 
 ## Fujitsu E:32 Error Code — What It Means

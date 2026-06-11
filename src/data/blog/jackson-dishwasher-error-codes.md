@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - jackson
+money_part: "Wash pump seal kit"
 ---
 
 ## Jackson Commercial Dishwasher Error Codes — What They Mean

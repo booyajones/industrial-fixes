@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - daikin
+money_part: "Indoor coil thermistor"
 ---
 
 ## Daikin C4 Error Code — What It Means

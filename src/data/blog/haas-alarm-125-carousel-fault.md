@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - haas
+money_part: "Carousel proximity switch"
 ---
 
 ## Haas Alarm 125 Tool Carousel Fault — What It Means

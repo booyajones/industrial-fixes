@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Thermocouple or flame sensor"
 ---
 
 ## State Water Heater E53 Error Code — What It Means

@@ -10,9 +10,13 @@ tags:
   - appliance
   - dryer
   - maytag
+<<<<<<< Updated upstream
 most_likely_cause: "Failed inlet thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Inlet thermistor (inlet temperature sensor)"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag Dryer F3E3 Error Code — What It Means

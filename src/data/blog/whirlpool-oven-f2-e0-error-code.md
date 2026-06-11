@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "shorted or stuck membrane keypad or touchpad"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool oven user interface / keypad / touchpad assembly"
 ---
 
 ## Whirlpool Oven F2 E0 Error — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - samsung
+money_part: "Shock absorber kit"
 ---
 
 ## Samsung bE6 Error Code — What It Means

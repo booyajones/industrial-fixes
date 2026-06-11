@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - trane
+money_part: "Trane XR80 flame sensor rod"
 ---
 
 ## Trane XR80 Blinking Yellow Light Codes — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Outdoor PCB assembly (inverter control board)"
 ---
 
 ## Gree Mini Split U5 Error Code — What It Means

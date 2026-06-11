@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Poorly seated communication option card or damaged RJ45 connector pins"
 likelihood: "the most common field cause"
 diy_or_pro: "pro"
+money_part: "Yaskawa SI-EN3 Ethernet option card"
 ---
 
 ## Yaskawa GA800 E48 Fault — What It Means

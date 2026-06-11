@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Door left open or poor door seal"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Refrigerator door gasket"
 ---
 
 ## Frigidaire HI Error Code — What It Means

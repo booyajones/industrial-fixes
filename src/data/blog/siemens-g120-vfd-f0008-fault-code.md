@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Siemens G120 input rectifier module"
 ---
 
 ## Siemens G120 F0008 Fault — What It Means

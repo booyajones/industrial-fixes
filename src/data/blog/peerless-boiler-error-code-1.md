@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - peerless
+money_part: "Flame sensor"
 ---
 
 ## Peerless Boiler Code 1 — What It Means

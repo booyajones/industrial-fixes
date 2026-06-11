@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state-water-heaters
+money_part: "Air intake filter or screen"
 ---
 
 ## State Water Heater E90 Error Code — What It Means

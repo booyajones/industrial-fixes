@@ -9,6 +9,7 @@ draft: true
 tags:
   - mini-split
   - klimaire
+money_part: "Outdoor unit control PCB"
 ---
 
 ## Klimaire Mini Split E1 Error Code — What It Means

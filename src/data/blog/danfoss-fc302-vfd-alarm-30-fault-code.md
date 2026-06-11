@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Motor cable (U-phase conductor)"
 ---
 
 ## Danfoss FC302 ALARM 30 — What It Means

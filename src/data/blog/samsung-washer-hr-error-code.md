@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Reversed hot and cold water supply hoses"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung washer heating element"
 ---
 
 ## Samsung HR Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - burnham
+money_part: "Flame sensor rod"
 ---
 
 ## Burnham Alpine Boiler Error Codes — What They Mean

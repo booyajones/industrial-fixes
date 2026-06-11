@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed membrane keypad or touchpad"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "GE microwave membrane keypad (touchpad assembly)"
 ---
 
 ## GE Microwave F3 Error Code — What It Means

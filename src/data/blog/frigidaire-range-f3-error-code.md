@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Defective oven temperature sensor (RTD probe)"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Frigidaire oven temperature sensor (RTD probe)"
 ---
 
 ## Frigidaire F3 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Outdoor PCB / Outdoor Control Board"
 ---
 
 ## Fujitsu E:14 Error Code — What It Means

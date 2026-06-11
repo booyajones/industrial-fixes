@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - navien
+money_part: "Navien outdoor temperature sensor"
 ---
 
 ## Navien E740 Error Code — What It Means

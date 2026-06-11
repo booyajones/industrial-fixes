@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "blocked drain path (hose, air gap, or disposer connection)"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "GE dishwasher drain pump assembly"
 ---
 
 ## GE C2 Error Code — What It Means

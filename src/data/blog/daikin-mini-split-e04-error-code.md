@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - daikin
+money_part: "Low pressure switch"
 ---
 
 ## Daikin E04 Error Code — What It Means

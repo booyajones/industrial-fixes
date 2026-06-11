@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - electrolux
+money_part: "Electrolux washer electronic control board"
 ---
 
 ## Electrolux Washer E61 Error Code — What It Means

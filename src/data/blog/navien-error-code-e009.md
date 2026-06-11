@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - navien
+money_part: "Cold water inlet filter screen"
 ---
 
 ## Navien E009 Error Code — What It Means

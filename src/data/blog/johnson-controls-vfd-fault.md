@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - johnson-controls
+money_part: "Drive cooling fan (internal)"
 ---
 
 ## Johnson Controls HVAC VFD Fault Codes — What They Mean

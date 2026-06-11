@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Mitsubishi room temperature thermistor"
 ---
 
 ## Mitsubishi Mini Split P1 Error — What It Means

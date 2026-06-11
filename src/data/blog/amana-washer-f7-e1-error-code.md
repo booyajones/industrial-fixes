@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - amana
+money_part: "Shift actuator assembly with tachometer"
 ---
 
 ## Amana Washer F7 E1 Error Code — What It Means

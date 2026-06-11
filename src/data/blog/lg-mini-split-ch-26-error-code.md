@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - lg
+money_part: "LG mini-split inverter compressor"
 ---
 
 ## LG CH 26 Error Code — What It Means

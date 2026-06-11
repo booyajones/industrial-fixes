@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - bosch
+money_part: "T6A temperature sensor (or equivalent model-specific sensor)"
 ---
 
 ## Bosch Heat Pump F5 Error Code — What It Means

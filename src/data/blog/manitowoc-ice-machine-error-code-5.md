@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - manitowoc
+money_part: "High pressure cutout switch"
 ---
 
 ## Manitowoc Ice Machine Error Code 5 — What It Means

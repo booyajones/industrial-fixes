@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - navien
+money_part: "Hot surface igniter (silicon nitride)"
 ---
 
 ## Navien Error Code E016 — What It Means

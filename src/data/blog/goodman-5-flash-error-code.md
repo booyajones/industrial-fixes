@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - goodman
+money_part: "Flame sensor rod"
 ---
 
 ## Goodman 5 Flash Error Code — What It Means

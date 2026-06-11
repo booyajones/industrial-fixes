@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - whirlpool
+money_part: "High-Limit Thermostat Assembly"
 ---
 
 ## Whirlpool E02 Error Code — What It Means

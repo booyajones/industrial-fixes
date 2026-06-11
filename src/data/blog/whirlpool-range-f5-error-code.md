@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Failed or sticking door latch assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool Range Oven Door Latch Assembly"
 ---
 
 ## Whirlpool Range F5 Error Code — What It Means

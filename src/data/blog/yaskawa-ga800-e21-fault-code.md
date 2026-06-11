@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "Encoder feedback cable"
 ---
 
 ## Yaskawa GA800 E21 Fault — What It Means

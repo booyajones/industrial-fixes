@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Outdoor main PCB (control board)"
 ---
 
 ## Fujitsu E:62 Error Code — What It Means

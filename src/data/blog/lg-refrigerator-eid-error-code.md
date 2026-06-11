@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Failed freezer compartment ice maker sensor"
 likelihood: "the primary fault LG identifies"
 diy_or_pro: "pro"
+money_part: "LG freezer ice maker sensor"
 ---
 
 ## LG EID Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "Dryer main control board"
 ---
 
 ## Amana Dryer F28 Error Code — What It Means

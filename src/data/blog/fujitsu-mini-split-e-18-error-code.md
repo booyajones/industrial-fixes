@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "WLAN adapter module"
 ---
 
 ## Fujitsu E:18 Error Code — What It Means

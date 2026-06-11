@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Stuck or failing keypad on the user interface control panel"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "User interface control panel assembly"
 ---
 
 ## Whirlpool Dryer F-02 Error — What It Means

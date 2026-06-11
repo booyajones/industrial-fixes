@@ -10,6 +10,7 @@ tags:
   - cnc
   - dmg-mori
   - machining
+money_part: "Lube pump parts"
 ---
 
 ## DMG Mori DMF Series Fault Codes — What They Mean

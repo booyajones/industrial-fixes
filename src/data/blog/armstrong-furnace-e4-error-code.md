@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - armstrong
+money_part: "Hot surface ignitor"
 ---
 
 ## Armstrong Furnace E4 Error Code — What It Means

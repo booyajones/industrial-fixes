@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - amana
+money_part: "Main control board (electronic control)"
 ---
 
 ## Amana Dishwasher F1E1 Error Code — What It Means

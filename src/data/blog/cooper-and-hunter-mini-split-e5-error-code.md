@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - cooper-and-hunter
+money_part: "Cooper & Hunter outdoor main PCB"
 ---
 
 ## Cooper & Hunter Mini Split E5 Error — What It Means

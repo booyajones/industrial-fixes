@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - speed-queen
+money_part: "Speed Queen main control board"
 ---
 
 ## Speed Queen SR Error Code — What It Means

@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "physically stuck button on the control panel"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung washer control panel assembly"
 ---
 
 ## Samsung bE Error Code — What It Means

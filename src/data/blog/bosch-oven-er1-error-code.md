@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - bosch
+money_part: "Bosch oven temperature sensor"
 ---
 
 ## Bosch Oven Er1 Error Code — What It Means

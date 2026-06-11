@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "lint-loaded lint filter or housing"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Exterior vent hood (4-inch dryer vent cap)"
 ---
 
 ## LG Dryer D90 Error Code — What It Means

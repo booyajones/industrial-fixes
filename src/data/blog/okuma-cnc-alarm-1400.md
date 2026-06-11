@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - okuma
+money_part: "Encoder backup battery"
 ---
 
 ## Okuma CNC Alarm 1400 — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - kitchenaid
+money_part: "Microwave Appliance Manager / Control Board"
 ---
 
 ## KitchenAid F6 E7 Error Code — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "loose or faulty data cable between control panel and main board"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Main control board (electronic control board)"
 ---
 
 ## Samsung Oven E-54 Error Code — What It Means

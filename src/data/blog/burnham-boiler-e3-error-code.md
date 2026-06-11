@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - burnham
+money_part: "Circulator pump"
 ---
 
 ## Burnham Boiler E3 Error Code — What It Means

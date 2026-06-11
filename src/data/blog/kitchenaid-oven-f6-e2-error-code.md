@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - kitchenaid
+money_part: "Appliance Manager Control (main control board)"
 ---
 
 ## KitchenAid Oven F6 E2 — What It Means

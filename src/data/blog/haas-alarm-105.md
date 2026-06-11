@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - haas
+money_part: "E-stop push button (40mm mushroom head)"
 ---
 
 ## Haas Alarm 105 E-Stop — What It Means

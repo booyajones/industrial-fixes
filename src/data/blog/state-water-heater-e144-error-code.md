@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Flame sensor assembly"
 ---
 
 ## State Water Heater E144 Error Code — What It Means

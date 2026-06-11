@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - amana
+money_part: "Door gasket / door seal"
 ---
 
 ## Amana E15 Error Code — What It Means

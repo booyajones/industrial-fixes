@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi-electric
+money_part: "Mitsubishi control board (indoor or outdoor PCB)"
 ---
 
 ## Mitsubishi P7 Error Code — What It Means

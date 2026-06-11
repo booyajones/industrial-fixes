@@ -11,6 +11,7 @@ tags:
   - webctrl
   - bms
   - building-automation
+money_part: "MCB/LGR controller"
 ---
 
 ## Automated Logic WebCTRL Fault Codes - Quick Reference

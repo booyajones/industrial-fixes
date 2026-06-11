@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - abb
+money_part: "Field signal device (potentiometer, transmitter, or PLC analog output)"
 ---
 
 ## ABB ACS550 AI1 LOSS — What It Means

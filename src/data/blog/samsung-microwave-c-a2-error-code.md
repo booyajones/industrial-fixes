@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Failed cooling fan or blower fan motor"
 likelihood: "the most common field-reported cause"
 diy_or_pro: "pro"
+money_part: "Samsung cooling fan or blower fan assembly"
 ---
 
 ## Samsung C-A2 Error Code — What It Means

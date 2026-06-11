@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Feedback sensor or transducer (pressure, temperature, or flow)"
 ---
 
 ## Siemens Micromaster F0221 — What It Means

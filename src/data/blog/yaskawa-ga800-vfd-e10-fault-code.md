@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "Motor overload relay"
 ---
 
 ## Yaskawa GA800 E10 Fault — What It Means

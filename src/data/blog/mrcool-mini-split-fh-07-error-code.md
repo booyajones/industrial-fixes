@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mrcool
+money_part: "Indoor PCB control board"
 ---
 
 ## MRCOOL FH 07 Error Code — What It Means

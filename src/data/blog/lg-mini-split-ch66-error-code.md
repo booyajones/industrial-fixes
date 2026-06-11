@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - lg
+money_part: "LG outdoor main PCB (inverter PCB)"
 ---
 
 ## LG Mini Split CH66 Error Code — What It Means

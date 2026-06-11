@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Air intake screen (State/A. O. Smith tankless)"
 ---
 
 ## State Water Heater E160 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - bosch
+money_part: "Bosch discharge temperature sensor (thermistor)"
 ---
 
 ## Bosch Heat Pump E7 Error — What It Means

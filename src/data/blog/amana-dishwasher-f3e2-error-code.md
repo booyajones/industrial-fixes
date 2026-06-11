@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - amana
+money_part: "Oven temperature sensor"
 ---
 
 ## Amana F3E2 Error Code — What It Means

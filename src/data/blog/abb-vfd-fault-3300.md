@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - abb
+money_part: "Motor cable (XLPE, screened)"
 ---
 
 ## ABB VFD Fault 3300 — What It Means

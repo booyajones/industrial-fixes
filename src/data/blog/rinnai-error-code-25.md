@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - rinnai
+money_part: "Thermal fuse (one-time trip)"
 ---
 
 ## Rinnai Error Code 25 — What It Means

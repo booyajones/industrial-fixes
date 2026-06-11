@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - kenmore
+money_part: "Washer thermistor or temperature sensor"
 ---
 
 ## Kenmore Washer F0 E4 Error Code — What It Means

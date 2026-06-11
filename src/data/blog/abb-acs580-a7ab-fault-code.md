@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - abb
+money_part: "ABB C-type extension I/O module"
 ---
 
 ## ABB ACS580 A7AB Fault — What It Means

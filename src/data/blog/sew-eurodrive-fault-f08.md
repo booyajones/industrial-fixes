@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - sew-eurodrive
+money_part: "Braking resistor (correctly sized)"
 ---
 
 ## SEW-Eurodrive Fault F08 — What It Means

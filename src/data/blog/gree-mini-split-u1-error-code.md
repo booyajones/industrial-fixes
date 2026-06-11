@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Outdoor control board (PCB / inverter board)"
 ---
 
 ## Gree U1 Error Code — What It Means

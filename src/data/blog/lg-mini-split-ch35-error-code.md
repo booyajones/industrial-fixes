@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - lg
+money_part: "Low-Pressure Sensor"
 ---
 
 ## LG Mini Split CH35 Error Code — What It Means

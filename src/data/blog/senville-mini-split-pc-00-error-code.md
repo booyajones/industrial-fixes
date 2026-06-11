@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - senville
+money_part: "Outdoor control board (PCB)"
 ---
 
 ## Senville PC 00 Error Code — What It Means

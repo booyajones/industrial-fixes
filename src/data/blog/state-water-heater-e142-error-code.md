@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Flame rod sensor"
 ---
 
 ## State Water Heater E142 Error Code — What It Means

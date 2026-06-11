@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "stuck button or contaminated ribbon-cable contacts on the membrane keypad"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "GE range membrane keypad / touchpad assembly"
 ---
 
 ## GE Range F7 Error Code — What It Means

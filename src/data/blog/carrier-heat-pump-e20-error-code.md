@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - carrier
+money_part: "Carrier outdoor control board / power board"
 ---
 
 ## Carrier E20 Error Code — What It Means

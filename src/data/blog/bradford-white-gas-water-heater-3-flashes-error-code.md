@@ -10,6 +10,7 @@ tags:
   - water-heater
   - bradford-white
   - gas
+money_part: "Bradford White thermal well sensor"
 ---
 
 ## Bradford White 3 Flashes — What It Means

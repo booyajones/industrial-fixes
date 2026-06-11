@@ -10,6 +10,7 @@ tags:
   - test-equipment
   - flir
   - thermal-camera
+money_part: "OEM battery pack"
 ---
 
 ## FLIR Thermal Camera Error Codes — Quick Reference

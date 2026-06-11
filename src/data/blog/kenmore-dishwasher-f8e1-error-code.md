@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kenmore
+money_part: "Kenmore dishwasher drain pump"
 ---
 
 ## Kenmore Dishwasher F8E1 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - abb
+money_part: "Motor (replacement)"
 ---
 
 ## ABB ACS550 F0001 Fault — What It Means

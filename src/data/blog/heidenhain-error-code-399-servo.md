@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - heidenhain
+money_part: "Linear encoder read head"
 ---
 
 ## Heidenhain Error Code 399 — What It Means

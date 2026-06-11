@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "door or latch obstruction"
 likelihood: "the most common user-correctable cause"
 diy_or_pro: "pro"
+money_part: "Damper switch assembly"
 ---
 
 ## LG Microwave F-5 Error Code — What It Means

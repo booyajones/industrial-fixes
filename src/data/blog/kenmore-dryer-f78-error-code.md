@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - kenmore
+money_part: "Keypad / user-interface control assembly"
 ---
 
 ## Kenmore Dryer F78 Error Code — What It Means

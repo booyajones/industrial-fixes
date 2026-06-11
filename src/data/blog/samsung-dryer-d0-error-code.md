@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "laundry or debris preventing the door from fully closing"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung dryer door switch"
 ---
 
 ## Samsung Dryer d0 Error Code — What It Means

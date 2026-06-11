@@ -11,6 +11,7 @@ tags:
   - microwave
   - whirlpool
 diy_or_pro: "pro"
+money_part: "Oven temperature sensor"
 ---
 
 ## Whirlpool Microwave F01 Error — What It Means

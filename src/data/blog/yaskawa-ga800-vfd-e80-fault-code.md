@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Failed soft-charge bypass relay or contactor"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "GA800 soft-charge bypass relay or contactor"
 ---
 
 ## Yaskawa GA800 E80 Fault — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - daikin
+money_part: "Electronic expansion valve (EEV) coil"
 ---
 
 ## Daikin A9 Error Code — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed control board components, especially cracked solder joints or a failed relay"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Main control board (electronic control)"
 ---
 
 ## Whirlpool Dryer F01 Error Code — What It Means

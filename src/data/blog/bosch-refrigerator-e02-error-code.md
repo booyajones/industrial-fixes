@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Failed relay on the main control board"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Bosch dishwasher main control board"
 ---
 
 ## Bosch E02 Error Code — What It Means

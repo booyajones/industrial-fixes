@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - amana
+money_part: "Main control board (electronic control)"
 ---
 
 ## Amana F6E3 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - lg
+money_part: "Outdoor unit main PCB"
 ---
 
 ## LG Mini Split CH60 Error — What It Means

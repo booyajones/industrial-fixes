@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - scotsman
+money_part: "Harvest assist solenoid valve"
 ---
 
 ## Scotsman Prodigy Plus Error Codes — What They Mean

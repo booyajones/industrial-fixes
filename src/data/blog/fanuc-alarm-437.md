@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - fanuc
+money_part: "4th axis encoder/resolver"
 ---
 
 ## Fanuc Alarm 437 — What It Means

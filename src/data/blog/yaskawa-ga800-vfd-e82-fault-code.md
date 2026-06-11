@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 diy_or_pro: "pro"
+money_part: "GA800 Control Board"
 ---
 
 ## Yaskawa GA800 E82 Fault Code — What It Means

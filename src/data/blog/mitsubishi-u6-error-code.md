@@ -9,6 +9,7 @@ draft: false
 tags:
   - mini-split
   - mitsubishi
+money_part: "Outdoor coil thermistor"
 ---
 
 ## Mitsubishi U6 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - maytag
+money_part: "Dishwasher thermistor / temperature sensor"
 ---
 
 ## Maytag Dishwasher F3E2 Error Code — What It Means

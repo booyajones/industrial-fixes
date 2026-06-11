@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "Temperature sensor (thermistor)"
 ---
 
 ## Amana Dryer F02 Error Code — What It Means

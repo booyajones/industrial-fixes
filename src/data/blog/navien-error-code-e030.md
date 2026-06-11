@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - navien
+money_part: "Exhaust temperature sensor (thermistor)"
 ---
 
 ## Navien E030 Error Code — What It Means

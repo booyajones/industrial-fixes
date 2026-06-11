@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kitchenaid
+money_part: "Electronic control board (main control)"
 ---
 
 ## KitchenAid F1E2 Dishwasher Error — What It Means

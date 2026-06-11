@@ -10,9 +10,13 @@ tags:
   - appliance
   - dryer
   - maytag
+<<<<<<< Updated upstream
 most_likely_cause: "tripped or partially tripped circuit breaker"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Dryer power cord"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag Dryer PF Error Code — What It Means

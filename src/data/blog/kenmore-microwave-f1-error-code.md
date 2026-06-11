@@ -10,6 +10,7 @@ tags:
   - appliance
   - microwave
   - kenmore
+money_part: "Microwave thermistor"
 ---
 
 ## Kenmore Microwave F1 Error — What It Means

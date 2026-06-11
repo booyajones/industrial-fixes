@@ -9,6 +9,7 @@ draft: true
 tags:
   - mini-split
   - lg
+money_part: "LG indoor thermistor (room temp)"
 ---
 
 ## LG Mini Split CH01 Error Code — What It Means

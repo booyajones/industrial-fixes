@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - electrolux
+money_part: "Main electronic control board"
 ---
 
 ## Electrolux Dryer E61 Error Code — What It Means

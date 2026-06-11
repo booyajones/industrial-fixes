@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - welbilt
+money_part: "Condenser fan motor"
 ---
 
 ## Welbilt Ice Machine Error Codes — What They Mean

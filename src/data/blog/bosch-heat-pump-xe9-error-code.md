@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - bosch
+money_part: "Bosch outdoor-unit control board"
 ---
 
 ## Bosch xE9 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - steris
   - sterilizer
   - medical
+money_part: "Door gasket"
 ---
 
 ## AMSCO Sterilizer Fault Codes - Quick Reference

@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - schneider
+money_part: "Replacement motor"
 ---
 
 ## Schneider Altivar Fault OBF — What It Means

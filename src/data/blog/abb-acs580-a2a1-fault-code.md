@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - abb
+money_part: "Motor cable (if damaged during separate troubleshooting)"
 ---
 
 ## ABB ACS580 A2A1 — What It Means

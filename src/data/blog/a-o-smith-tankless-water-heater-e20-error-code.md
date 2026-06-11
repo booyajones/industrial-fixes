@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - ao-smith
+money_part: "Inlet thermistor / inlet temperature sensor"
 ---
 
 ## A.O. Smith Tankless E20 Error — What It Means

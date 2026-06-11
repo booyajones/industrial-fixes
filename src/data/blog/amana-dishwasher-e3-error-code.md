@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - amana
+money_part: "Dishwasher heating element"
 ---
 
 ## Amana Dishwasher E3 Error Code — What It Means

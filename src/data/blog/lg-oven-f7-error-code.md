@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "faulty oven temperature sensor or thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "LG oven temperature sensor (thermistor)"
 ---
 
 ## LG Oven F7 Error Code — What It Means

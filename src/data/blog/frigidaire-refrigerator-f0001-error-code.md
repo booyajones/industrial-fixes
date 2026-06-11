@@ -10,6 +10,7 @@ tags:
   - appliance
   - refrigerator
   - frigidaire
+money_part: "Door gasket (refrigerator or freezer)"
 ---
 
 ## Frigidaire F0001 Error Code — What It Means

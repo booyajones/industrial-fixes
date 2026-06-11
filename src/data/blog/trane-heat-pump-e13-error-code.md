@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - trane
+money_part: "Indoor control board / user interface module"
 ---
 
 ## Trane E13 Error Code — What It Means

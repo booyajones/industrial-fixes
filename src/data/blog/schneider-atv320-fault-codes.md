@@ -10,6 +10,7 @@ tags:
   - vfd
   - schneider
   - industrial
+money_part: "Braking resistor"
 ---
 
 ## Schneider Altivar 320 Fault Codes — What They Mean

@@ -11,6 +11,7 @@ tags:
   - refrigerator
   - whirlpool
 diy_or_pro: "diy"
+money_part: "Evaporator fan motor assembly"
 ---
 
 ## Whirlpool Refrigerator SY EF Error Code — What It Means

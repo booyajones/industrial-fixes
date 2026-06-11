@@ -10,6 +10,7 @@ tags:
   - appliance
   - refrigerator
   - amana
+money_part: "Freezer door gasket"
 ---
 
 ## Amana Refrigerator EC40 Error Code — What It Means

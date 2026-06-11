@@ -10,6 +10,7 @@ tags:
   - appliance
   - microwave
   - panasonic
+money_part: "Power PCB / inverter power board"
 ---
 
 ## Panasonic H98 Error Code — What It Means

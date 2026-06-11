@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Compressor"
 ---
 
 ## Gree P5 Error Code — What It Means

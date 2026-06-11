@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - senville
+money_part: "Senville T1 room temperature sensor / thermistor"
 ---
 
 ## Senville EH 60 Error Code — What It Means

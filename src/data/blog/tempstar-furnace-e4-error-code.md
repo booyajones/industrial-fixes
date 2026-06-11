@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - tempstar
+money_part: "High-limit switch"
 ---
 
 ## Tempstar Furnace E4 Error Code — What It Means

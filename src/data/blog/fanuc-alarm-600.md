@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - fanuc
+money_part: "Fanuc encoder backup battery"
 ---
 
 ## Fanuc Alarm 600 — What It Means

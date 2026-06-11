@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - york
+money_part: "Flame sensor"
 ---
 
 ## York 5 Flashes Error Code — What It Means

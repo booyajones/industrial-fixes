@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "water supply valves not fully open or inlet hoses kinked"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Water inlet valve assembly"
 ---
 
 ## Whirlpool Washer F8 E1 Error Code — What It Means

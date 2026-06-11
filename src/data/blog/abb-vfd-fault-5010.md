@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - abb
+money_part: "Safety relay (24VDC)"
 ---
 
 ## ABB VFD Fault 5010 — What It Means

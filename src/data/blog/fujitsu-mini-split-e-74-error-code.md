@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Fujitsu outdoor air temperature thermistor"
 ---
 
 ## Fujitsu E:74 Error Code — What It Means

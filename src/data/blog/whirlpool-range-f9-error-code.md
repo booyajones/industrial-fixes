@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Miswired electrical outlet or appliance terminal block connection"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Main electronic control board (oven control)"
 ---
 
 ## Whirlpool Range F9 Error Code — What It Means

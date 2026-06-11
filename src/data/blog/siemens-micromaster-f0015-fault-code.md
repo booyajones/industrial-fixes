@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Motor temperature sensor (PTC or KTY thermistor)"
 ---
 
 ## Siemens Micromaster F0015 — What It Means

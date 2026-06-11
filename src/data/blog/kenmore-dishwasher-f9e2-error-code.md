@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kenmore
+money_part: "Dishwasher drain hose"
 ---
 
 ## Kenmore Dishwasher F9E2 Error Code — What It Means

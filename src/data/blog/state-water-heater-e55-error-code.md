@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - state
+money_part: "Leak Sensor / Moisture Sensor"
 ---
 
 ## State Water Heater E55 Error Code — What It Means

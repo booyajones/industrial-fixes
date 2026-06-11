@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Fujitsu indoor unit main PCB (control board)"
 ---
 
 ## Fujitsu E:81 Error Code — What It Means

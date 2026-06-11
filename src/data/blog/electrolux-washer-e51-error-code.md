@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - electrolux
+money_part: "Main electronic control board"
 ---
 
 ## Electrolux E51 Error Code — What It Means

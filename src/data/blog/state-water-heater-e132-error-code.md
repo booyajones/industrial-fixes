@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state-water-heaters
+money_part: "Air intake screen or filter"
 ---
 
 ## State Water Heater E132 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - carrier
+money_part: "Low-pressure switch"
 ---
 
 ## Carrier Infinity XC21 Error Codes — What They Mean

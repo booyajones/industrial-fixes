@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "unstable outlet supply or partially tripped breaker"
 likelihood: "the most common real cause"
 diy_or_pro: "diy"
+money_part: "Samsung dryer power cord"
 ---
 
 ## Samsung Dryer FC Error Code — What It Means

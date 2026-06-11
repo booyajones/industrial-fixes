@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - speed-queen
+money_part: "Main control board"
 ---
 
 ## Speed Queen Washer E:08 Error — What It Means

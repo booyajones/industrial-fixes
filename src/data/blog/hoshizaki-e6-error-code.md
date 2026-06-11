@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - hoshizaki
+money_part: "Hot gas solenoid valve"
 ---
 
 ## Hoshizaki E6 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - electrolux
+money_part: "Moisture sensor / sensor bar assembly"
 ---
 
 ## Electrolux Dryer EF1 Error Code — What It Means

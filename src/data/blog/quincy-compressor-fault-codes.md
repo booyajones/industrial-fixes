@@ -10,6 +10,7 @@ tags:
   - compressor
   - quincy
   - industrial
+money_part: "Pressure transducer"
 ---
 
 ## Quincy Compressor Fault Codes — Quick Reference

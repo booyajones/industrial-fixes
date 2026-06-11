@@ -10,6 +10,7 @@ tags:
   - hvac
   - furnace
   - amana
+money_part: "ECM blower motor module"
 ---
 
 ## Amana Furnace E06 Error Code — What It Means

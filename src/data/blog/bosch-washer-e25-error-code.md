@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "debris in the pump chamber or pump cover not seated correctly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Bosch washer drain pump assembly"
 ---
 
 ## Bosch Washer E25 Error Code — What It Means

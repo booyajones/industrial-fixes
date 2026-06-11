@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - amana
+money_part: "Circulation motor assembly"
 ---
 
 ## Amana F7E2 Dishwasher Error — What It Means

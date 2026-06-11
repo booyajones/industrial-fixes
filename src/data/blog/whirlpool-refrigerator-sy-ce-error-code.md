@@ -10,9 +10,13 @@ tags:
   - appliance
   - refrigerator
   - whirlpool
+<<<<<<< Updated upstream
 most_likely_cause: "loose or damaged wiring harness connection between the user interface and main control board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "User interface display board"
+>>>>>>> Stashed changes
 ---
 
 ## Whirlpool SY CE Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - bosch
+money_part: "Carbon motor brushes"
 ---
 
 ## Bosch Washer F21 Error Code — What It Means

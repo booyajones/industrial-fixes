@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "lint buildup or blocked vent duct"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Flexible dryer vent hose (4-inch aluminum or semi-rigid)"
 ---
 
 ## Samsung Dryer CT Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - fujimak
+money_part: "Booster heater element"
 ---
 
 ## Fujimak Commercial Dishwasher Fault Codes — What They Mean

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mrcool
+money_part: "MRCOOL condenser outlet pipe temperature sensor"
 ---
 
 ## MRCOOL Mini-Split F2 Error Code — What It Means

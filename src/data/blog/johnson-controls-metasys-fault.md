@@ -11,6 +11,7 @@ tags:
   - metasys
   - bms
   - building-automation
+money_part: "Metasys field controller (FEC/IOM)"
 ---
 
 ## Johnson Controls Metasys Fault Codes - Quick Reference

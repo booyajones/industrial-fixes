@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - pioneer
+money_part: "Evaporator temperature sensor / pipe-coil thermistor"
 ---
 
 ## Pioneer Mini Split E2 Error Code — What It Means

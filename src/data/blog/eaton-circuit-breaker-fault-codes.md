@@ -10,6 +10,7 @@ tags:
   - eaton
   - circuit-breaker
   - electrical
+money_part: "Digitrip RMS module"
 ---
 
 ## Eaton Circuit Breaker Fault Codes - Quick Reference

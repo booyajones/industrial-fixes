@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Fujitsu main control PCB"
 ---
 
 ## Fujitsu Mini Split E:60 Error Code — What It Means

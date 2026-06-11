@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - carrier
+money_part: "High/low pressure sensor (transducer)"
 ---
 
 ## Carrier E22 Error Code — What It Means

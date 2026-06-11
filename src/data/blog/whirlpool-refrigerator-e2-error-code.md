@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Failed ice maker module or motor"
 likelihood: "the most common cause when E2 is tied to ice-maker diagnostics"
 diy_or_pro: "diy"
+money_part: "Whirlpool ice maker assembly or module"
 ---
 
 ## Whirlpool Refrigerator E2 Error Code — What It Means

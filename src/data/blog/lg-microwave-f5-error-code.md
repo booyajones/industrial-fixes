@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Stuck or obstructed damper assembly"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "LG microwave damper assembly"
 ---
 
 ## LG Microwave F5 Error — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - beverage-air
+money_part: "Evaporator sensor / probe"
 ---
 
 ## Beverage-Air Refrigerator Error Code E2 — What It Means

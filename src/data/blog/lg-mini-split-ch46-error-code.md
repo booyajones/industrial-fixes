@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - lg
+money_part: "Outdoor suction temperature sensor / thermistor"
 ---
 
 ## LG Mini Split CH46 Error Code — What It Means

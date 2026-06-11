@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "drain hose installation problem or kinked drain hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool drain pump"
 ---
 
 ## Whirlpool F9E1 Error Code — What It Means

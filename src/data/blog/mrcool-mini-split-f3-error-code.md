@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mrcool
+money_part: "Compressor discharge temperature sensor TP"
 ---
 
 ## MRCOOL F3 Error Code — What It Means

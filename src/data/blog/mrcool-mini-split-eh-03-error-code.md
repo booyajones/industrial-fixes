@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mrcool
+money_part: "Indoor fan motor / blower motor"
 ---
 
 ## MRCOOL EH 03 Error Code — What It Means

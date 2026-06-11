@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Option card not fully seated at CN5-A connector"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Yaskawa GA800 Communication Option Card"
 ---
 
 ## Yaskawa GA800 E44 Fault — What It Means

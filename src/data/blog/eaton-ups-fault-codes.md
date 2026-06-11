@@ -10,6 +10,7 @@ tags:
   - eaton
   - ups
   - power-systems
+money_part: "Internal battery module"
 ---
 
 ## Eaton UPS Fault Codes - Quick Reference

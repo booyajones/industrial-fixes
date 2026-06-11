@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - kenmore
+money_part: "Dryer vent hose"
 ---
 
 ## Kenmore Dryer F30 Error Code — What It Means

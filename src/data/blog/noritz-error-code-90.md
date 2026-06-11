@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - noritz
+money_part: "Combustion fan motor"
 ---
 
 ## Noritz Error Code 90 — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - electrolux
+money_part: "Drain filter / lint trap"
 ---
 
 ## Electrolux Washer EF1 Error Code — What It Means

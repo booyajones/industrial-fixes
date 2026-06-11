@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi-electric
+money_part: "Outdoor unit control board"
 ---
 
 ## Mitsubishi Mini Split E5 Error — What It Means

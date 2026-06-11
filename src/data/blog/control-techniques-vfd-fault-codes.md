@@ -9,6 +9,7 @@ draft: false
 tags:
   - electrical
   - vfd
+money_part: "Braking resistor"
 ---
 
 Control Techniques (now Nidec) drives are found across industrial conveyors, pumps, fans, compressors, and machine tool spindle applications. The **Unidrive M** series (M200 through M700), **Unidrive SP**, and **Commander SK/C300** share a common fault naming convention — trip codes that appear on the drive keypad display or via parameter readback. This guide covers every common trip code with causes, parameter checks, and fix procedures written for industrial maintenance technicians.

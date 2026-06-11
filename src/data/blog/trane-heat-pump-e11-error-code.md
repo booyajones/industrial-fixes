@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - trane
+money_part: "Trane S9 or S9V2 integrated furnace control board"
 ---
 
 ## Trane Heat Pump E11 Error Code — What It Means

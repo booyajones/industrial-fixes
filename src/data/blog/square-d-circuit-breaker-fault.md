@@ -11,6 +11,7 @@ tags:
   - schneider
   - circuit-breaker
   - electrical
+money_part: "Micrologic trip unit"
 ---
 
 ## Square D Circuit Breaker Fault Codes - Quick Reference

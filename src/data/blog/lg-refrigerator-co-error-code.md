@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Temporary power disturbance or failed main control board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "LG refrigerator main control board / main PCB"
 ---
 
 ## LG Refrigerator CO Error Code — What It Means

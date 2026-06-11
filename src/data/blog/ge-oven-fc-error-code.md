@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed or stuck door latch or lock assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "GE oven door latch assembly"
 ---
 
 ## GE Oven FC Error Code — What It Means

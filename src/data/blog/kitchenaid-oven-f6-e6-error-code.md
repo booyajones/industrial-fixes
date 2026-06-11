@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - kitchenaid
+money_part: "Upper Oven Appliance Manager Control Board"
 ---
 
 ## KitchenAid Oven F6 E6 Error Code — What It Means

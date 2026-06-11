@@ -9,6 +9,7 @@ draft: false
 tags:
   - compressor
   - bitzer
+money_part: "BMSK-2 (motor safety controller)"
 ---
 
 Bitzer is one of the most widely installed compressor brands in commercial refrigeration and HVAC. The **CSVH scroll**, **ECOLINE reciprocating**, and **CSH/HSK screw** series are found in supermarket racks, industrial refrigeration systems, and chiller applications worldwide. When a Bitzer compressor faults, the protection device — whether a **BITZER IQ Module**, **CM-RC-01**, **OLC-D1**, or older **BMSK (Bitzer Motor Safety Controller)** — generates a fault code via LED pattern, Modbus register, or the BEST SOFTWARE dashboard. This guide covers the full fault code set with causes, diagnosis procedures, and reset steps written for commercial refrigeration technicians.

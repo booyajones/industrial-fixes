@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - kenmore
+money_part: "Kenmore range meat probe assembly"
 ---
 
 ## Kenmore Range F033 Error Code — What It Means

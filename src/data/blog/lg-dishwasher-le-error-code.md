@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Wash or circulation motor failure"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "LG dishwasher wash motor / circulation pump assembly"
 ---
 
 ## LG Dishwasher LE Error Code — What It Means

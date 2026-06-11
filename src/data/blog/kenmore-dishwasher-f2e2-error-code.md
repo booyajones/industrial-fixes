@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kenmore
+money_part: "User interface control board"
 ---
 
 ## Kenmore Dishwasher F2E2 Error — What It Means

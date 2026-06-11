@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - kitchenaid
+money_part: "Oven temperature sensor (RTD sensor)"
 ---
 
 ## KitchenAid Oven F6 E1 Error Code — What It Means

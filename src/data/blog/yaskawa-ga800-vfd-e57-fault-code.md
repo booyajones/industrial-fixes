@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Loose or improperly seated communication or option card"
 likelihood: "the most common field cause"
 diy_or_pro: "pro"
+money_part: "Yaskawa GA800 Communication Option Card"
 ---
 
 ## Yaskawa GA800 E57 Fault — What It Means

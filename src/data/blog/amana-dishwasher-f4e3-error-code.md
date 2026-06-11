@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - amana
+money_part: "Circulation pump motor assembly"
 ---
 
 ## Amana Dishwasher F4E3 Error — What It Means

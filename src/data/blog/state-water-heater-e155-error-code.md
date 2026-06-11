@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Sensor 2 (RDS controller)"
 ---
 
 ## State Water Heater E155 Error Code — What It Means

@@ -44,6 +44,7 @@ const {
   most_likely_cause,
   likelihood,
   diy_or_pro,
+  money_part,
 } = post.data;
 
 const { Content } = await render(post);
@@ -96,6 +97,20 @@ const hubMatch = (tags ?? [])
 const brandHub = hubMatch
   ? { slug: hubMatch, name: BRAND_HUBS[hubMatch] }
   : null;
+
+// The merchant search query for the parts CTAs (sticky bar + parts specialist).
+// RepairClinic/PartSelect search needs a PART query ("Samsung dishwasher drain
+// pump assembly"), never the page title ("... 3C Error Code - Causes & Fix"),
+// which returns zero results and burns the click. Priority: the page's #1
+// buyable part -> "brand appliance parts" -> de-suffixed title as last resort.
+const _APPL_TAGS = ["washer", "dryer", "refrigerator", "dishwasher", "range", "oven",
+  "microwave", "cooktop", "freezer", "furnace", "water-heater", "mini-split", "heat-pump"];
+const _equipTag = (tags ?? []).map(t => t.toLowerCase()).find(t => _APPL_TAGS.includes(t));
+const _brandEquip = [brandHub?.name ?? "", _equipTag?.replace(/-/g, " ") ?? ""]
+  .filter(Boolean).join(" ").trim();
+const partsQuery = (money_part && money_part.trim())
+  || (_brandEquip ? `${_brandEquip} parts` : "")
+  || title.replace(/\s+[-—–].*$/, "").trim();
 
 // Map this post's tags to an equipment category so EmailCapture can deliver
 // the right cheat-sheet PDF. Returns undefined if no overlap.
@@ -339,11 +354,11 @@ const nextPost =
          so buying intent peaks here. Routes to a category-appropriate parts
          specialist; links are Skimlinks-monetized (no noskim). Placed after
          the article body and before the tag/EditPost block. -->
-    <PartsSpecialist {tags} query={title.replace(/—.*$/, '').trim()} />
+    <PartsSpecialist {tags} query={partsQuery} />
 
     <!-- Sticky mobile "get the part" bar: appears after the reader scrolls into
          the fix, so the affiliate click is earned. Mobile only, self-contained. -->
-    <StickyPartsBar query={title.replace(/—.*$/, '').trim()} brand={tags?.[0] ?? ''} />
+    <StickyPartsBar query={partsQuery} brand={tags?.[0] ?? ''} />
 
     <hr class="my-8 border-dashed" />
 

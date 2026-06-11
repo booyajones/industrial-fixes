@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - amana
+money_part: "Electronic control board"
 ---
 
 ## Amana Dishwasher FAE5 Error Code — What It Means

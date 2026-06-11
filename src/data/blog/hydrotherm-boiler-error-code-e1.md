@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - hydrotherm
+money_part: "Flame sensor rod"
 ---
 
 ## Hydrotherm Boiler Error Code E1 — What It Means

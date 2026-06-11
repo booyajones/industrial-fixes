@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - lg
+money_part: "LG washer clutch assembly"
 ---
 
 ## LG Range E6 Error Code — What It Means

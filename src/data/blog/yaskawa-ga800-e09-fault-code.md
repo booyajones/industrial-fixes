@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "Motor coupling or belt"
 ---
 
 ## Yaskawa GA800 E09 Fault — What It Means

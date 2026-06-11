@@ -10,9 +10,13 @@ tags:
   - appliance
   - oven
   - maytag
+<<<<<<< Updated upstream
 most_likely_cause: "faulty electronic range control (ERC) board on older models, or partially inserted meat probe on probe-equipped models"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Maytag oven control board (ERC/clock)"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag Oven F8 Error Code — What It Means

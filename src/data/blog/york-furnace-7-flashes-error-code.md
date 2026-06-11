@@ -10,6 +10,7 @@ tags:
   - hvac
   - furnace
   - york
+money_part: "Flame sensor rod (York OEM or universal)"
 ---
 
 ## York Furnace 7 Flashes — What It Means

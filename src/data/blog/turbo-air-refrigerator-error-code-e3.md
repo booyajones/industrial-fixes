@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - turbo-air
+money_part: "Defrost / evaporator sensor"
 ---
 
 ## Turbo Air Refrigerator Error Code E3 — What It Means

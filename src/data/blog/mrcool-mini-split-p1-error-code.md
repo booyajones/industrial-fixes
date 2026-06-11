@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mrcool
+money_part: "MRCOOL outdoor control board / inverter board"
 ---
 
 ## MRCOOL Mini Split P1 Error Code — What It Means

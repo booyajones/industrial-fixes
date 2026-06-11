@@ -10,6 +10,7 @@ tags:
   - water-heater
   - bradford-white
   - gas
+money_part: "Bradford White gas control valve / ICON or Honeywell-style gas valve"
 ---
 
 ## Bradford White 5 Flashes Error Code — What It Means

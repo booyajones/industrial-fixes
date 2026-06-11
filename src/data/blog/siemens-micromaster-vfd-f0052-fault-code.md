@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Siemens Micromaster control board"
 ---
 
 ## Siemens Micromaster F0052 — What It Means

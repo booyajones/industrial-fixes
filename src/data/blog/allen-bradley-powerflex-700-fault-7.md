@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - allen-bradley
+money_part: "Motor (if windings damaged by sustained OL)"
 ---
 
 ## Allen Bradley PowerFlex 700 F7 Fault — What It Means

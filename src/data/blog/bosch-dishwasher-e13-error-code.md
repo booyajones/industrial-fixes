@@ -10,9 +10,13 @@ tags:
   - appliance
   - dishwasher
   - bosch
+<<<<<<< Updated upstream
 most_likely_cause: "Faulty temperature sensor or thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Bosch dishwasher temperature sensor NTC"
+>>>>>>> Stashed changes
 ---
 
 ## Bosch Dishwasher E13 Error — What It Means

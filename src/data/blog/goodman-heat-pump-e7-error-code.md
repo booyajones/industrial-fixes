@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - goodman
+money_part: "Outdoor fan motor"
 ---
 
 ## Goodman Heat Pump E7 Error Code — What It Means

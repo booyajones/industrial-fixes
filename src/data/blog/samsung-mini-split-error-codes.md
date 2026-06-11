@@ -9,6 +9,7 @@ draft: false
 tags:
   - mini-split
   - samsung
+money_part: "Indoor thermistor"
 ---
 
 ## Samsung Mini Split Error Codes — Quick Reference

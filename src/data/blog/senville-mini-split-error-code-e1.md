@@ -9,6 +9,7 @@ draft: false
 tags:
   - mini-split
   - senville
+money_part: "18 AWG 3-conductor cable"
 ---
 
 ## Senville Mini Split E1 Error Code — What It Means

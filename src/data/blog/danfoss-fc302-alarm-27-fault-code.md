@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Brake resistor (matched to FC 302 model and application)"
 ---
 
 ## Danfoss FC302 ALARM 27 — What It Means

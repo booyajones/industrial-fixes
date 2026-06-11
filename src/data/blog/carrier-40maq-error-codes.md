@@ -9,6 +9,7 @@ draft: false
 tags:
   - mini-split
   - carrier
+money_part: "Indoor ambient thermistor (T1)"
 ---
 
 ## Carrier 40MAQ / 40MVC Mini Split Error Codes — What They Mean

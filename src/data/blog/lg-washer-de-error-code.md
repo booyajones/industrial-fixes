@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "door not fully closed or laundry caught in the door gasket"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "LG washer door lock assembly"
 ---
 
 ## LG Washer dE Error Code — What It Means

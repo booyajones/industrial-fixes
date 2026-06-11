@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - mitsubishi
+money_part: "Electronic expansion valve (EEV)"
 ---
 
 ## Mitsubishi City Multi P8 and E6 Error Codes — What They Mean

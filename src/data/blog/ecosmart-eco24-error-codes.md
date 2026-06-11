@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - ecosmart
+money_part: "EcoSmart inlet thermistor"
 ---
 
 ## EcoSmart ECO 24 Error Codes — What It Means

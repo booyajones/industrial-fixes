@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Failed load sensor or shorted sensor wiring"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Samsung microwave gas sensor / load sensor assembly"
 ---
 
 ## Samsung Microwave E-32 Error — What It Means

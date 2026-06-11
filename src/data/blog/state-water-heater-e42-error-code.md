@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - state
+money_part: "Control board or user interface"
 ---
 
 ## State Water Heater E42 Error Code — What It Means

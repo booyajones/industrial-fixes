@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - payne
+money_part: "High-limit switch"
 ---
 
 ## Payne Furnace 33 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Replacement air filter"
 ---
 
 ## Mitsubishi F0008 Error Code — What It Means

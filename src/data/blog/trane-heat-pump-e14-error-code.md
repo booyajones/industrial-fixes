@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - trane
+money_part: "Temperature sensor / thermistor"
 ---
 
 ## Trane Heat Pump E14 Error Code — What It Means

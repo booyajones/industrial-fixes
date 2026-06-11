@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - hoshizaki
+money_part: "Ice thickness sensor"
 ---
 
 ## Hoshizaki E4 Error Code — What It Means

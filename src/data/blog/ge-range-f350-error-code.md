@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "debris or obstruction in the upper cooling fan area"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "GE Range Upper Cooling Fan / Blower Motor Assembly"
 ---
 
 ## GE Range F350 Error Code — What It Means

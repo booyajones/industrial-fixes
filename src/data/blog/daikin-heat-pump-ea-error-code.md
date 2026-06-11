@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - daikin
+money_part: "Four-way reversing valve"
 ---
 
 ## Daikin EA Error Code — What It Means

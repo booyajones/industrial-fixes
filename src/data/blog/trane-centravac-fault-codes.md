@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - trane
+money_part: "Flow switch (chilled or condenser side)"
 ---
 
 ## Trane CenTraVac Chiller Fault Codes — What They Mean

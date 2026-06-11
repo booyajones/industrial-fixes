@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "open defrost heater"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "GE refrigerator defrost heater"
 ---
 
 ## GE Refrigerator dE Error Code — What It Means

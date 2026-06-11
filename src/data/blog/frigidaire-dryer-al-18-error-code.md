@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - frigidaire
+money_part: "User interface board or touchpad assembly"
 ---
 
 ## Frigidaire Dryer AL-18 Error Code — What It Means

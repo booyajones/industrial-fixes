@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "Amana dryer machine control board (main control electronics)"
 ---
 
 ## Amana Dryer F26 Error Code — What It Means

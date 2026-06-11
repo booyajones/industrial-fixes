@@ -9,6 +9,7 @@ draft: false
 tags:
   - mini-split
   - senville
+money_part: "Condensate drain line (PVC or vinyl)"
 ---
 
 ## Senville Mini Split Error Code E5 — What It Means

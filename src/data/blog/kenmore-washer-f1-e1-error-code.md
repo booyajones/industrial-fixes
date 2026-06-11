@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - kenmore
+money_part: "Main electronic control board (machine control)"
 ---
 
 ## Kenmore Washer F1 E1 Error Code — What It Means

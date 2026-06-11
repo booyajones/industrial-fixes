@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "clogged drain pump or debris in the pump impeller"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Drain pump assembly"
 ---
 
 ## Frigidaire Washer E21 Error Code — What It Means

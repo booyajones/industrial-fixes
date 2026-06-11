@@ -10,6 +10,7 @@ tags:
   - cnc
   - haas
   - tool-changer
+money_part: "ATC door air cylinder"
 ---
 
 ## Haas Alarm 126 — What It Means

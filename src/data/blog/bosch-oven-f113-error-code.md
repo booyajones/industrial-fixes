@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - bosch
+money_part: "Oven temperature sensor"
 ---
 
 ## Bosch Oven F113 Error Code — What It Means

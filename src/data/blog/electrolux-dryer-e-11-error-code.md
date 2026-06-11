@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - electrolux
+money_part: "Water inlet valve assembly"
 ---
 
 ## Electrolux E11 Error Code — What It Means

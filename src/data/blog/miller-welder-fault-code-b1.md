@@ -9,6 +9,7 @@ draft: false
 tags:
   - welding
   - miller
+money_part: "Weld lead set"
 ---
 
 ## Miller Welder Fault Code B1 — What It Means

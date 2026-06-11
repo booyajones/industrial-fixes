@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Outdoor fan motor"
 ---
 
 ## Fujitsu E:24 Error Code — What It Means

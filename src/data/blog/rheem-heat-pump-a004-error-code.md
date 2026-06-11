@@ -10,6 +10,7 @@ tags:
   - water-heater
   - mini-split
   - rheem
+money_part: "Suction thermistor"
 ---
 
 ## Rheem A004 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - maytag
+money_part: "Main control board"
 ---
 
 ## Maytag Dryer F02 Error Code — What It Means

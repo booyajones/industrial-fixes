@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - daikin
+money_part: "Outdoor unit PCB (printed circuit board)"
 ---
 
 ## Daikin E1 Error Code — What It Means

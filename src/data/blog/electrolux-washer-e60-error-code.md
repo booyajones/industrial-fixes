@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - electrolux
+money_part: "Heating element / heater assembly"
 ---
 
 ## Electrolux Washer E60 Error Code — What It Means

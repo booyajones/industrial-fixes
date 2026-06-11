@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Condensate float switch"
 ---
 
 ## State Water Heater E153 Error Code — What It Means

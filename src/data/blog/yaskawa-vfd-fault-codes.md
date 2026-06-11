@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "Braking resistor"
 ---
 
 ## Yaskawa VFD Fault Codes — Quick Reference

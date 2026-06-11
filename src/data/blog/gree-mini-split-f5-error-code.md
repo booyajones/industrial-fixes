@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Gree discharge temperature sensor"
 ---
 
 ## Gree Mini Split F5 Error Code — What It Means

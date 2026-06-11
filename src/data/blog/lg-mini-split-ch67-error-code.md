@@ -9,6 +9,7 @@ draft: true
 tags:
   - mini-split
   - lg
+money_part: "Outdoor BLDC fan motor"
 ---
 
 ## LG Mini-Split CH67 Error Code — What It Means

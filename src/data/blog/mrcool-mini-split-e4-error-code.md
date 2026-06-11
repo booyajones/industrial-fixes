@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mrcool
+money_part: "Indoor fan motor"
 ---
 
 ## MRCOOL E4 Error Code — What It Means

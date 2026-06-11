@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - carrier
+money_part: "Inducer motor assembly"
 ---
 
 ## Carrier 42 Error Code — What It Means

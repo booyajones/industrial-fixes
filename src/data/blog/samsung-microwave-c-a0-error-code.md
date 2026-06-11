@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Moisture intrusion into the control area"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Touch control panel or keypad assembly"
 ---
 
 ## Samsung Microwave C-A0 Error Code — What It Means

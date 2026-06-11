@@ -11,6 +11,7 @@ tags:
   - carrier
   - air-conditioner
   - infinity
+money_part: "Run capacitor"
 ---
 
 ## Carrier Infinity 24ACC6 Error Codes — What They Mean

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Indoor room thermistor"
 ---
 
 ## Fujitsu E:41 Error Code — What It Means

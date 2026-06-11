@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "blocked, loose, or damaged pressure hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "LG washer pressure sensor / water level sensor"
 ---
 
 ## LG Range PE Error Code — What It Means

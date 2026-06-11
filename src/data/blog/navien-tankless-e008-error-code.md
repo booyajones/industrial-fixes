@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - navien
+money_part: "Navien outlet thermistor / hot water outlet temperature sensor"
 ---
 
 ## Navien E008 Error Code — What It Means

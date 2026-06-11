@@ -12,6 +12,7 @@ tags:
   - siemens-840d
   - celos
   - fault-codes
+money_part: "SINAMICS encoder cable"
 ---
 
 ## DMG Mori CNC Fault Codes — Quick Reference

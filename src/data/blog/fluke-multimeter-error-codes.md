@@ -10,6 +10,7 @@ tags:
   - test-equipment
   - fluke
   - instrument
+money_part: "9V or AA battery"
 ---
 
 ## Fluke Multimeter Error Codes — Quick Reference

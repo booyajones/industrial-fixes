@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Fujitsu thermistor sensor"
 ---
 
 ## Fujitsu Mini Split E:21 Error Code — What It Means

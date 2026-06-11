@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - manitowoc
+money_part: "Water inlet valve"
 ---
 
 ## Manitowoc ID-0322 Error Codes — What They Mean

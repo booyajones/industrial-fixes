@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "TH5 pipe thermistor (Mitsubishi indoor unit)"
 ---
 
 ## Mitsubishi P9 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - microwave
   - lg
+money_part: "Touch button panel / control panel assembly"
 ---
 
 ## LG Microwave F3 Error Code — What It Means

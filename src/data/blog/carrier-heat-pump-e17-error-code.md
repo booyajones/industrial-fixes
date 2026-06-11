@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - carrier
+money_part: "Indoor Control Board / PCB"
 ---
 
 ## Carrier E17 Error Code — What It Means

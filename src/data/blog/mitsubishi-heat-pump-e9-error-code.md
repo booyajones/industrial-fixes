@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Condensate drain pump"
 ---
 
 ## Mitsubishi E9 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - speed-queen
+money_part: "Speed Queen inlet water valve"
 ---
 
 ## Speed Queen Washer EC:09 — What It Means

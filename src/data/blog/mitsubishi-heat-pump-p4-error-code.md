@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Mitsubishi condensate drain float switch"
 ---
 
 ## Mitsubishi P4 Error Code — What It Means

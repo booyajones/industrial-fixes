@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Drain restriction (clogged filter, blocked or kinked drain hose, or blocked sink/disposal connection)"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung dishwasher drain pump"
 ---
 
 ## Samsung Dishwasher oE Error Code — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "faulty defrost or temperature sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool refrigerator defrost sensor (fresh-food compartment)"
 ---
 
 ## Whirlpool Refrigerator E4 Error Code — What It Means

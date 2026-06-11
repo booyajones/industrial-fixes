@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - electrolux
+money_part: "Electronic control board"
 ---
 
 ## Electrolux Dryer EA3 Error Code — What It Means

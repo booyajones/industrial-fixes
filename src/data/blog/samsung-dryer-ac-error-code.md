@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Loose, damaged, or intermittent wiring or connectors between the main control and the inverter module"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Samsung dryer main control board"
 ---
 
 ## Samsung Dryer AC Error Code — What It Means

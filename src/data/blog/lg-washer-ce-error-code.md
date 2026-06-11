@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "main control board failure or drive motor fault"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "LG washer main control board (PCB)"
 ---
 
 ## LG Washer CE Error Code — What It Means

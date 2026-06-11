@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Incoming line fuses or fuse holders"
 ---
 
 ## Siemens G120 F0003 — What It Means

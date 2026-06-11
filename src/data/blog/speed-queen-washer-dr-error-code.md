@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - speed-queen
+money_part: "Speed Queen drain pump"
 ---
 
 ## Speed Queen Washer DR Error Code — What It Means

@@ -10,9 +10,13 @@ tags:
   - appliance
   - washer
   - maytag
+<<<<<<< Updated upstream
 most_likely_cause: "Control Lock feature enabled intentionally or accidentally"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Control panel / touchpad assembly"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag Washer LOC Error Code — What It Means

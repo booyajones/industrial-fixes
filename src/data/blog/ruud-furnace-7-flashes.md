@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - ruud
+money_part: "Flame sensor"
 ---
 
 ## Ruud Furnace 7 Flashes — What It Means

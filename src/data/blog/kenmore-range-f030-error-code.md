@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "loose or unplugged sensor connector at the rear of the oven"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Kenmore oven temperature sensor (RTD probe)"
 ---
 
 ## Kenmore F030 Error Code — What It Means

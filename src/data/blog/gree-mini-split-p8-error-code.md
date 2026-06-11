@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Gree outdoor inverter drive board (mainboard)"
 ---
 
 ## Gree P8 Error Code — What It Means

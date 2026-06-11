@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - lg
+money_part: "Indoor air filter (LG mini split)"
 ---
 
 ## LG Mini Split CH61 Error Code — What It Means

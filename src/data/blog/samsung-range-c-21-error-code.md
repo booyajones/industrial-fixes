@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Failed oven temperature sensor or thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung oven temperature sensor (NTC thermistor)"
 ---
 
 ## Samsung C-21 Error Code — What It Means

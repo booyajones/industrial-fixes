@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "Replacement motor"
 ---
 
 ## Yaskawa GA800 E18 Error — What It Means

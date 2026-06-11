@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - rheem
+money_part: "Rheem tankless flame sensor"
 ---
 
 ## Rheem Tankless Error Code 12 — What It Means

@@ -10,6 +10,7 @@ tags:
   - compressor
   - ingersoll-rand
   - industrial
+money_part: "Oil separator"
 ---
 
 ## Ingersoll-Rand Compressor Fault Codes — Quick Reference

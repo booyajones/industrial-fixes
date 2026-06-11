@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "laundry bunched to one side or uneven load distribution"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Door lock assembly (lid lock assembly for top-load)"
 ---
 
 ## Samsung Washer DC Error Code — What It Means

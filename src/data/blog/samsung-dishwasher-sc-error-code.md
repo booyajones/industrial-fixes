@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "clogged drain pump filter"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung washer drain pump assembly"
 ---
 
 ## Samsung SC Error Code — What It Means

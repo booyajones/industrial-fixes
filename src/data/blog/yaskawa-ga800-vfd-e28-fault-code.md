@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "GA800 control board (PCB)"
 ---
 
 ## Yaskawa GA800 E28 Fault Code — What It Means

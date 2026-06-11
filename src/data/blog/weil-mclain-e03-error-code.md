@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - weil-mclain
+money_part: "Flame sensor"
 ---
 
 ## Weil-McLain E03 Error Code — What It Means

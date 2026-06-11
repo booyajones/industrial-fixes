@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - kenmore
+money_part: "Outlet thermistor (outlet thermal sensor)"
 ---
 
 ## Kenmore Dryer F22 Error Code — What It Means

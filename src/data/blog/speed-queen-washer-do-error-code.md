@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - speed-queen
+money_part: "Door lock or latch assembly"
 ---
 
 ## Speed Queen Washer DO Error Code — What It Means

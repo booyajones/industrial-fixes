@@ -10,6 +10,7 @@ tags:
   - appliance
   - refrigerator
   - maytag
+money_part: "Evaporator fan motor"
 ---
 
 ## Maytag Refrigerator FF Error Code — What It Means

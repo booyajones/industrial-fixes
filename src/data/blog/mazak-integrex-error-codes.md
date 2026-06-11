@@ -10,6 +10,7 @@ tags:
   - cnc
   - mazak
   - machining
+money_part: "Lube components"
 ---
 
 ## Mazak Integrex Error Codes Guide — What They Mean

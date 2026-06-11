@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "defective heating element or stuck heater relay on the main control board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Heating element assembly"
 ---
 
 ## Whirlpool Dryer F4E1 Error — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Clogged drain pump filter"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Drain pump filter / debris filter"
 ---
 
 ## Samsung Washer 5E Error Code — What It Means

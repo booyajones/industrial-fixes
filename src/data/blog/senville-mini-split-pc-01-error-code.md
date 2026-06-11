@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - senville
+money_part: "Reactor (PFC coil)"
 ---
 
 ## Senville Mini Split PC 01 Error Code — What It Means

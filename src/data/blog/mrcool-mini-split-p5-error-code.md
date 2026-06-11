@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mrcool
+money_part: "Outdoor inverter control board (IPM module)"
 ---
 
 ## MRCOOL Mini Split P5 Error Code — What It Means

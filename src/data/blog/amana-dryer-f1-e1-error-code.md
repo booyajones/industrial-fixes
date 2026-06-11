@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "Main electronic control board"
 ---
 
 ## Amana Dryer F1 E1 Error — What It Means

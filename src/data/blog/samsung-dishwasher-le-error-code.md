@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "visible leaks at drain hose, supply hose, hose clamps, pump area, or door seal"
 likelihood: "the most common real causes"
 diy_or_pro: "diy"
+money_part: "Drain hose"
 ---
 
 ## Samsung Dishwasher LE Error Code — What It Means

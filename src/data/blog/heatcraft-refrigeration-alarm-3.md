@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - heatcraft
+money_part: "Filter drier"
 ---
 
 ## Heatcraft Refrigeration Alarm 3 — What It Means

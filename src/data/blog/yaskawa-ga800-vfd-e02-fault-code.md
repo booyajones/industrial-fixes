@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "GA800 Control Board"
 ---
 
 ## Yaskawa GA800 E02 Fault Code — What It Means

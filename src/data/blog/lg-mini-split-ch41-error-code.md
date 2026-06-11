@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - lg
+money_part: "LG mini split discharge temperature sensor"
 ---
 
 ## LG Mini Split CH41 Error Code — What It Means

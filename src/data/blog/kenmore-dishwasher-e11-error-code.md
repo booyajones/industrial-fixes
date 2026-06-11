@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kenmore
+money_part: "Water inlet valve (Kenmore dishwasher)"
 ---
 
 ## Kenmore Dishwasher E11 Error — What It Means

@@ -10,9 +10,13 @@ tags:
   - appliance
   - washer
   - maytag
+<<<<<<< Updated upstream
 most_likely_cause: "both hot and cold supply valves not fully open or inadequate household water supply"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Maytag washer water inlet valve"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag Washer LF Error Code — What It Means

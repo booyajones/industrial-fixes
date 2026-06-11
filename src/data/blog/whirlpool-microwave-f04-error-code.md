@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed humidity thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool microwave humidity thermistor"
 ---
 
 ## Whirlpool Microwave F04 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Motor cable"
 ---
 
 ## Danfoss FC302 VFD ALARM 18 — What It Means

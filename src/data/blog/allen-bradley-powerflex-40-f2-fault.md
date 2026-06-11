@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - allen-bradley
+money_part: "Motor replacement"
 ---
 
 ## Allen Bradley PowerFlex 40 F2 Fault — What It Means

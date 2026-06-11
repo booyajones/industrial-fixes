@@ -11,6 +11,7 @@ tags:
   - danfoss
   - controller
   - walk-in
+money_part: "Room probe"
 ---
 
 ## Danfoss RX Controller Fault Codes — Quick Reference

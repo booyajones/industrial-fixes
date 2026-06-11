@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Damper motor / stepper motor"
 ---
 
 ## Fujitsu E:57 Error Code — What It Means

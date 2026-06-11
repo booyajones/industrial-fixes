@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - haas
+money_part: "Spindle orientation sensor (Hall effect)"
 ---
 
 ## Haas Alarm 118 — What It Means

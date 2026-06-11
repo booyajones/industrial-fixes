@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Loose or corroded control board connector"
 likelihood: "the most common cause after transient power glitches"
 diy_or_pro: "diy"
+money_part: "Main electronic control board"
 ---
 
 ## Samsung Dryer AC7 Error Code — What It Means

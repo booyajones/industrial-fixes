@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - fanuc
+money_part: "JYA/JYB optical fiber cable"
 ---
 
 ## Fanuc Alarm 750 — What It Means

@@ -11,6 +11,7 @@ tags:
   - dryer
   - whirlpool
 diy_or_pro: "diy"
+money_part: "Dryer thermistor or temperature sensor"
 ---
 
 ## Whirlpool Dryer F24 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - hobart
+money_part: "Wash pump motor"
 ---
 
 ## Hobart Commercial Dishwasher Error Codes — What They Mean

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Indoor coil thermistor or heat exchanger sensor"
 ---
 
 ## Fujitsu E:65 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - furnace
   - amana
+money_part: "High-limit switch"
 ---
 
 ## Amana Furnace E04 Error Code — What It Means

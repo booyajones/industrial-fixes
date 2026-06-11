@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - cooper-and-hunter
+money_part: "Outdoor main control board (PCB)"
 ---
 
 ## Cooper & Hunter Mini Split E1 Error — What It Means

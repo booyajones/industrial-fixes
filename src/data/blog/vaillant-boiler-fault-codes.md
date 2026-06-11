@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - vaillant
+money_part: "Flow NTC sensor"
 ---
 
 Vaillant boilers — the ecoTEC Plus, ecoTEC Pro, ecoFIT Pure, and turboTEC Plus — display fault codes on the front panel when a lockout or fault condition is detected. The code appears as **F.XX** (fault) or **S.XX** (status). Faults lock the boiler out and require a reset. Status codes are informational and clear automatically.

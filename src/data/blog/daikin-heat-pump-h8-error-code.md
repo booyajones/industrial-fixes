@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - daikin
+money_part: "Outdoor inverter PCB (Daikin heat pump)"
 ---
 
 ## Daikin H8 Error Code — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "stuck or contaminated keypad membrane"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Oven control board / clock control board (ERC)"
 ---
 
 ## Frigidaire Range F11 Error Code — What It Means

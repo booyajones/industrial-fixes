@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Incorrect leveling of the dishwasher"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Overfill float switch (dishwasher flood switch)"
 ---
 
 ## Maytag Dishwasher F6E4 Error — What It Means

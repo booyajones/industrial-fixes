@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - kenmore
+money_part: "Motor control board (motor control unit)"
 ---
 
 ## Kenmore Dryer F74 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - rinnai
+money_part: "Combustion fan assembly"
 ---
 
 ## Rinnai Error Code 61 — What It Means

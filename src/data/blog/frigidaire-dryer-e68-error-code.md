@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "sticky or physically stuck button"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "User interface control panel assembly"
 ---
 
 ## Frigidaire Dryer E68 Error Code — What It Means

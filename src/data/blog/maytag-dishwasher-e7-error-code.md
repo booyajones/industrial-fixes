@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - maytag
+money_part: "Dishwasher heating element"
 ---
 
 ## Maytag Dishwasher E7 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - cnc
   - haas
   - lathe
+money_part: "Hydraulic pressure switch"
 ---
 
 ## Haas SL-20 Lathe Common Alarms — What They Mean

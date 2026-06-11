@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Motor cable (shielded three-conductor)"
 ---
 
 ## Siemens Micromaster F0023 — What It Means

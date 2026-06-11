@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Danfoss FC302 precharge/inrush circuit board"
 ---
 
 ## Danfoss FC302 VFD Alarm 33 — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - trane
   - furnace
+money_part: "Hot surface igniter"
 ---
 
 ## Trane XR90 Furnace Error Codes — What They Mean

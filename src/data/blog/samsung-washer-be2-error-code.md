@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "stuck or jammed button on the control panel"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "User interface / control panel assembly"
 ---
 
 ## Samsung Washer bE2 Error Code — What It Means

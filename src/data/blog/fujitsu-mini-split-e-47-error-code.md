@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Main PCB assembly"
 ---
 
 ## Fujitsu Mini Split E:47 Error Code — What It Means

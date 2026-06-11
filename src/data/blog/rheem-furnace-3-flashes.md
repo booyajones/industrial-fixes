@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - rheem
+money_part: "Draft pressure switch"
 ---
 
 ## Rheem Furnace 3 Flashes — What It Means

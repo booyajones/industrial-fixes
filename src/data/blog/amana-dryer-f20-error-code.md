@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "Water Inlet Valve Assembly"
 ---
 
 ## Amana Dryer F20 Error Code — What It Means

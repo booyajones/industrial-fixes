@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "Outlet thermistor (exhaust temperature sensor)"
 ---
 
 ## Amana Dryer F23 Error Code — What It Means

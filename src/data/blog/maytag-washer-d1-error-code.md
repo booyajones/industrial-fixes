@@ -10,9 +10,13 @@ tags:
   - appliance
   - washer
   - maytag
+<<<<<<< Updated upstream
 most_likely_cause: "Pinched, blocked, or disconnected pressure hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Main control board"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag Washer D1 Error Code — What It Means

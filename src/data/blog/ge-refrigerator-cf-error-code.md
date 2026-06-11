@@ -11,6 +11,7 @@ tags:
   - refrigerator
   - ge
 diy_or_pro: "diy"
+money_part: "GE refrigerator main control board"
 ---
 
 ## GE Refrigerator CF Error Code — What It Means

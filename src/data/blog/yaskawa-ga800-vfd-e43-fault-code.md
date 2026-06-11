@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Worn or stuck soft-charge bypass relay"
 likelihood: "the most common real cause"
 diy_or_pro: "pro"
+money_part: "Yaskawa GA800 control board (PCB)"
 ---
 
 ## Yaskawa GA800 E43 Fault — What It Means

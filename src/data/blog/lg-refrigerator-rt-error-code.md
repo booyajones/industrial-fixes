@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Failed room-temperature sensor thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "LG refrigerator room-temperature sensor / thermistor"
 ---
 
 ## LG Refrigerator rT Error Code — What It Means

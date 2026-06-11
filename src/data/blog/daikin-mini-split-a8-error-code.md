@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - daikin
+money_part: "Daikin indoor fan motor"
 ---
 
 ## Daikin Mini Split A8 Error Code — What It Means

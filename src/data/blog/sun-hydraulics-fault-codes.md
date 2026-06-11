@@ -10,6 +10,7 @@ tags:
   - sun-hydraulics
   - hydraulics
   - industrial
+money_part: "Deutsch DT connector pins"
 ---
 
 ## Sun Hydraulics Fault Codes - Quick Reference

@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - haas
+money_part: "Spindle drive communication cable"
 ---
 
 ## Haas Alarm 117 — What It Means

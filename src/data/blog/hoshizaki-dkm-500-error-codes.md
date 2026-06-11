@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - hoshizaki
   - ice-machine
+money_part: "Water inlet valve"
 ---
 
 ## Hoshizaki DKM-500 Cube Dispenser Error Codes — What They Mean

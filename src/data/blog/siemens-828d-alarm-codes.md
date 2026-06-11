@@ -10,6 +10,7 @@ tags:
   - cnc
   - siemens
   - industrial
+money_part: "Encoder cable"
 ---
 
 ## Siemens Sinumerik 828D Alarm Codes — What They Mean

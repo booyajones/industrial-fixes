@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - bosch
+money_part: "High-Pressure Switch"
 ---
 
 ## Bosch xF1 Error Code — What It Means

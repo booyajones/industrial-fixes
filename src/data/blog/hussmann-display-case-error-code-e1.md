@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - hussmann
+money_part: "Defrost heater"
 ---
 
 ## Hussmann Display Case Error Code E1 — What It Means

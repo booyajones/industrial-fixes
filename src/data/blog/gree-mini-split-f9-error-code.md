@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Gree outdoor fan motor"
 ---
 
 ## Gree Mini Split F9 Error Code — What It Means

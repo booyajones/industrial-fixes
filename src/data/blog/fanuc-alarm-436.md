@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - fanuc
+money_part: "Counterbalance cylinder / seals"
 ---
 
 ## Fanuc Alarm 436 — What It Means

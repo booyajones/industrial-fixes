@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - bosch
+money_part: "Flow sensor"
 ---
 
 ## Bosch Washer F28 Error Code — What It Means

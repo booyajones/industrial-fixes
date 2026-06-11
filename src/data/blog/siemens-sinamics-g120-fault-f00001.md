@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "VFD-rated motor cable"
 ---
 
 ## Siemens SINAMICS G120 F00001 Fault — What It Means

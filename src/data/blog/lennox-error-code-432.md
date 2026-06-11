@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - lennox
+money_part: "ECM motor module (control module)"
 ---
 
 ## Lennox Error Code 432 — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - kenmore
+money_part: "Kenmore oven touchpad/control panel assembly"
 ---
 
 ## Kenmore Oven F0 Error Code — What It Means

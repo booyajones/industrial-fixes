@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Failed temperature sensor or thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "LG microwave temperature sensor (thermistor)"
 ---
 
 ## LG Microwave F17 Error Code — What It Means

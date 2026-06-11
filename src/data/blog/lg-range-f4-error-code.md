@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "shorted oven sensor or thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "LG oven thermistor / temperature sensor"
 ---
 
 ## LG Range F4 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - samsung
+money_part: "Control panel / user interface assembly"
 ---
 
 ## Samsung bE9 Error Code — What It Means

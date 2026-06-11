@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - goodman
+money_part: "High-limit switch"
 ---
 
 ## Goodman 4 Flash Error Code — What It Means

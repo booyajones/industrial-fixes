@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state-water-heaters
+money_part: "High-limit thermal cutoff switch"
 ---
 
 ## State Water Heater E145 Error Code — What It Means

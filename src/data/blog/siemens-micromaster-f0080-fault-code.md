@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Potentiometer or analog setpoint source"
 ---
 
 ## Siemens Micromaster F0080 — What It Means

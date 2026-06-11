@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - manitowoc
+money_part: "Refrigerant charge (R-404A or R-448A per model)"
 ---
 
 ## Manitowoc Ice Machine E01 Error Code — What It Means

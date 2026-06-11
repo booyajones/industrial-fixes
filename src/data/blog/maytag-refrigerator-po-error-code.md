@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Utility power outage or home circuit breaker trip"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Evaporator fan motor"
 ---
 
 ## Maytag Refrigerator PO Error Code — What It Means

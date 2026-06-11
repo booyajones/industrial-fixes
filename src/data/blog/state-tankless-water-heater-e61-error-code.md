@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Combustion fan blower motor assembly"
 ---
 
 ## State Tankless Water Heater E61 Error Code — What It Means

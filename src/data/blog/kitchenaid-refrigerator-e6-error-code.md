@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Failed dispenser user interface board (EEPROM memory)"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Dispenser user interface assembly (UI board)"
 ---
 
 ## KitchenAid Refrigerator E6 Error — What It Means

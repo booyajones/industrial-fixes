@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - frigidaire
+money_part: "Thermal switch (heater safety)"
 ---
 
 ## Frigidaire Dryer AL-06 Error Code — What It Means

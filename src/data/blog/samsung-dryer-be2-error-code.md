@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Physical button jam or stuck key in the control console"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung dryer user interface / keypad assembly"
 ---
 
 ## Samsung Dryer bE2 Error Code — What It Means

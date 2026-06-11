@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Danfoss VLT Sensor Input Option module"
 ---
 
 ## Danfoss FC302 ALARM 35 — What It Means

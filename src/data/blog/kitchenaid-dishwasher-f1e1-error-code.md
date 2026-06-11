@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kitchenaid
+money_part: "Main electronic control board"
 ---
 
 ## KitchenAid Dishwasher F1E1 Error — What It Means

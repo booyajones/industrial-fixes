@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Defective membrane switch or touchpad assembly with a shorted key"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung Range Membrane Switch / Touchpad Assembly"
 ---
 
 ## Samsung Range SE Error Code — What It Means

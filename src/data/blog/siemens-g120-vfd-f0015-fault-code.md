@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Motor temperature sensor (thermistor)"
 ---
 
 ## Siemens G120 F0015 Fault — What It Means

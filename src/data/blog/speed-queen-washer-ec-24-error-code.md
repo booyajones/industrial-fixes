@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - speed-queen
+money_part: "Vending system user card"
 ---
 
 ## Speed Queen EC:24 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Remote controller (infrared)"
 ---
 
 ## Mitsubishi Mini Split E3 Error — What It Means

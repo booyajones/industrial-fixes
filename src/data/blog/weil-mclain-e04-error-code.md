@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - weil-mclain
+money_part: "Supply thermistor (S1)"
 ---
 
 ## Weil-McLain E04 Error Code — What It Means

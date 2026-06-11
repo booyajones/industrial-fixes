@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - daikin
+money_part: "Daikin indoor unit PCB (control board)"
 ---
 
 ## Daikin U6 Error Code — What It Means

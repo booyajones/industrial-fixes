@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Water in the base pan from a leaking door seal or internal hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "LG dishwasher door gasket"
 ---
 
 ## LG Dishwasher E1 Error Code — What It Means

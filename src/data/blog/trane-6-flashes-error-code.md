@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - trane
+money_part: "Rollout switch (manual reset)"
 ---
 
 ## Trane 6 Flashes Error Code — What It Means

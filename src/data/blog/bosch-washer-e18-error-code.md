@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Coin, lint, hair, or debris blocking the pump filter or pump cavity"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Bosch washer drain pump assembly"
 ---
 
 ## Bosch Washer E18 Error Code — What It Means

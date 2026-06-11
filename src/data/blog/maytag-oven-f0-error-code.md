@@ -10,9 +10,13 @@ tags:
   - appliance
   - oven
   - maytag
+<<<<<<< Updated upstream
 most_likely_cause: "stuck or shorted touchpad key"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Touchpad / Keypad Assembly"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag Oven F0 Error Code — What It Means

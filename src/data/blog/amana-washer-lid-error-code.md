@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - amana
+money_part: "Lid lock assembly"
 ---
 
 ## Amana Washer Lid Error Code — What It Means

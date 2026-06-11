@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - kitchenaid
+money_part: "Appliance Manager Control"
 ---
 
 ## KitchenAid Oven F6 E3 Error — What It Means

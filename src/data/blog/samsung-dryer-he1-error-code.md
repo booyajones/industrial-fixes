@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Clogged lint screen or blocked exhaust vent restricting airflow"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Thermal fuse"
 ---
 
 ## Samsung Dryer HE1 Error Code — What It Means

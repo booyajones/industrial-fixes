@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - navien
+money_part: "Outlet water temperature thermistor"
 ---
 
 ## Navien Error Code E007 — What It Means

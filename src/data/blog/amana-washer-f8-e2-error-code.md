@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - amana
+money_part: "Dispenser actuator"
 ---
 
 ## Amana Washer F8 E2 Error Code — What It Means

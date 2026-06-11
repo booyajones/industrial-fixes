@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed thermal sensor"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Thermal sensor (microwave oven)"
 ---
 
 ## Whirlpool Microwave E21 Error — What It Means

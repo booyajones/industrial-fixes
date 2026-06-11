@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Failed cavity thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "GE microwave cavity thermistor"
 ---
 
 ## GE Microwave F1 Error Code — What It Means

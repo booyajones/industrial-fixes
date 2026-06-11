@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Indoor evaporator coil thermistor"
 ---
 
 ## Gree FH Error Code — What It Means

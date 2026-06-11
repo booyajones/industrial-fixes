@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - rinnai
+money_part: "Descaling solution (Rinnai-compatible)"
 ---
 
 ## Rinnai LC Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - bosch
+money_part: "Pressure switch or pressure sensor"
 ---
 
 ## Bosch Washer E37 Error Code — What It Means

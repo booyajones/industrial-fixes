@@ -10,6 +10,7 @@ tags:
   - hvac
   - furnace
   - goodman
+money_part: "Goodman pressure switch"
 ---
 
 ## Goodman Furnace 2 Flashes — What It Means

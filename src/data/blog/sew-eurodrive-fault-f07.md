@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - sew-eurodrive
+money_part: "Braking resistor (SEW-specified)"
 ---
 
 ## SEW-Eurodrive Fault F07 — What It Means

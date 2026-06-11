@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Danfoss FC302 power card / power unit"
 ---
 
 ## Danfoss FC302 ALARM 37 — What It Means

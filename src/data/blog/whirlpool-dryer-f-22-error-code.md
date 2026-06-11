@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Failed exhaust thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool exhaust thermistor"
 ---
 
 ## Whirlpool Dryer F-22 Error Code — What It Means

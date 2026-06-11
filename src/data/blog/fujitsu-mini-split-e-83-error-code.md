@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Indoor unit main PCB"
 ---
 
 ## Fujitsu Mini Split E:83 Error — What It Means

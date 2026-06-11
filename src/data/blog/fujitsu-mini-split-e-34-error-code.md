@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Main PCB (outdoor unit control board)"
 ---
 
 ## Fujitsu E:34 Error Code — What It Means

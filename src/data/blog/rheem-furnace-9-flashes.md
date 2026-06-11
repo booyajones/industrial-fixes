@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - rheem
+money_part: "Outlet polarity tester"
 ---
 
 ## Rheem Furnace 9 Flashes — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - ao-smith
+money_part: "TH-1 thermistor (2-chamber and 4-chamber models)"
 ---
 
 ## A.O. Smith E21 Error Code — What It Means

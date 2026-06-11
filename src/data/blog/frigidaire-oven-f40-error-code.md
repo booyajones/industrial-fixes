@@ -10,9 +10,13 @@ tags:
   - appliance
   - oven
   - frigidaire
+<<<<<<< Updated upstream
 most_likely_cause: "control lock turned on and not cleared correctly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Cooktop Lockout Control Board"
+>>>>>>> Stashed changes
 ---
 
 ## Frigidaire Oven F40 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: true
 tags:
   - hvac
   - bosch
+money_part: "Bosch IDS communicating thermostat"
 ---
 
 ## Bosch Heat Pump E1 Error Code — What It Means

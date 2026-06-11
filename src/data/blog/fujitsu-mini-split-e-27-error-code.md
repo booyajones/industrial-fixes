@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Outdoor unit main PCB"
 ---
 
 ## Fujitsu Mini Split E:27 Error Code — What It Means

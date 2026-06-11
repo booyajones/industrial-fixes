@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "clogged or improperly installed bulk dispenser"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Bulk detergent dispenser assembly"
 ---
 
 ## Whirlpool Dishwasher F8E2 Error Code — What It Means

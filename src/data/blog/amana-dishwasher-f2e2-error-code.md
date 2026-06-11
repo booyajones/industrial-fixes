@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - amana
+money_part: "User interface control panel assembly"
 ---
 
 ## Amana Dishwasher F2E2 Error Code — What It Means

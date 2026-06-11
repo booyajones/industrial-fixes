@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Motor (oversized replacement)"
 ---
 
 ## Danfoss VFD Fault OCL — What It Means

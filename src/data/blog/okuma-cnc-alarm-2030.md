@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - okuma
+money_part: "Spindle encoder"
 ---
 
 ## Okuma CNC Alarm 2030 Spindle Drive Fault — What It Means

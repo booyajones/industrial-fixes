@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - rinnai
+money_part: "Combustion chamber / burner temperature sensor"
 ---
 
 ## Rinnai Error Code 31 — What It Means

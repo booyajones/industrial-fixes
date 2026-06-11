@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Loose, damaged, or disconnected wiring harness or ribbon cable between the user interface and main control board"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "User interface board (control panel PCB)"
 ---
 
 ## Frigidaire E15 Error Code — What It Means

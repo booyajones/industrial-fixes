@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - bosch
+money_part: "Main interface control board"
 ---
 
 ## Bosch Washer F40 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - navien
+money_part: "Navien air intake filter"
 ---
 
 ## Navien E110 Error Code — What It Means

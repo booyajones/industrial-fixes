@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - carrier
+money_part: "Condensate trap"
 ---
 
 ## Carrier 54 Error Code — What It Means

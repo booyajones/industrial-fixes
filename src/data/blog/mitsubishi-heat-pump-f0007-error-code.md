@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Indoor unit control PCB"
 ---
 
 ## Mitsubishi F0007 Error Code — What It Means

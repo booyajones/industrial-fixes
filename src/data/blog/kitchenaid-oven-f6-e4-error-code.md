@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - kitchenaid
+money_part: "Oven Appliance Manager Control (main control board)"
 ---
 
 ## KitchenAid F6 E4 Error Code — What It Means

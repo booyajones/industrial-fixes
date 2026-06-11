@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kenmore
+money_part: "Dishwasher descaling cleaner"
 ---
 
 ## Kenmore Dishwasher E12 Error Code — What It Means

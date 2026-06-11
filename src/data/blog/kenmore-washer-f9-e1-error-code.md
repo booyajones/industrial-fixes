@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - kenmore
+money_part: "Drain pump assembly"
 ---
 
 ## Kenmore Washer F9 E1 Error Code — What It Means

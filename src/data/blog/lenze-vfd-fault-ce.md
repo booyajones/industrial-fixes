@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - lenze
+money_part: "Fieldbus cable (shielded)"
 ---
 
 ## Lenze VFD Fault CE — What It Means

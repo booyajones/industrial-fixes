@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - amana
+money_part: "Water inlet valve assembly"
 ---
 
 ## Amana Dishwasher F6E1 Error Code — What It Means

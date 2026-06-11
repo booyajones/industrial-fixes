@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - buderus
+money_part: "NTC temperature sensor"
 ---
 
 ## Buderus Boiler Fault Code A1 — What It Means

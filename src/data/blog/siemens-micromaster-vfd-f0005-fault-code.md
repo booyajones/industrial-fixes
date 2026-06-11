@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "IGBT inverter power module"
 ---
 
 ## Siemens Micromaster F0005 — What It Means

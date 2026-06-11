@@ -11,6 +11,7 @@ tags:
   - refrigerator
   - amana
 diy_or_pro: "pro"
+money_part: "Refrigerator thermistor or defrost sensor"
 ---
 
 ## Amana Refrigerator F1 Error Code — What It Means

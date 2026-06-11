@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kenmore
+money_part: "Zeolite fan motor (CrystalDry fan motor)"
 ---
 
 ## Kenmore Dishwasher E07 Error Code — What It Means

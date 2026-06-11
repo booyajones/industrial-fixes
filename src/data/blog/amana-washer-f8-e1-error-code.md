@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - amana
+money_part: "Water inlet valve assembly"
 ---
 
 ## Amana Washer F8 E1 Error Code — What It Means

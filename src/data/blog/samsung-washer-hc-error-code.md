@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "faulty heater element or heating circuit"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Samsung washer heater element assembly"
 ---
 
 ## Samsung Washer HC Error Code — What It Means

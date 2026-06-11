@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - speed-queen
+money_part: "Water inlet valve assembly"
 ---
 
 ## Speed Queen Washer EI:09 Error Code — What It Means

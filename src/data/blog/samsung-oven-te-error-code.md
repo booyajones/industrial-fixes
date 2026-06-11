@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Failed oven temperature sensor or thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Oven temperature sensor / thermistor"
 ---
 
 ## Samsung Oven tE Error Code — What It Means

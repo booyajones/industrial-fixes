@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - nest
+money_part: "Nest Power Connector"
 ---
 
 ## Nest N260 Error Code — What It Means

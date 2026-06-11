@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - kitchenaid
+money_part: "Oven control board / electronic control"
 ---
 
 ## KitchenAid CAL Error Code — What It Means

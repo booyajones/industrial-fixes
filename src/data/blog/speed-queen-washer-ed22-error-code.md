@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - speed-queen
+money_part: "Speed Queen drive motor"
 ---
 
 ## Speed Queen Ed22 Error Code — What It Means

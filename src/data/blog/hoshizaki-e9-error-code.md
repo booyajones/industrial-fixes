@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - hoshizaki
+money_part: "Evaporator thermistor (E9 sensor)"
 ---
 
 ## Hoshizaki E9 Error Code — What It Means

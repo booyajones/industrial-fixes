@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - bosch
+money_part: "Bosch oven control board (main electronic module)"
 ---
 
 ## Bosch Oven F33 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - microwave
   - panasonic
+money_part: "Door interlock switch kit"
 ---
 
 ## Panasonic Microwave E02 Error Code — What It Means

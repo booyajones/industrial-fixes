@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - bosch
+money_part: "Bosch washer heating element"
 ---
 
 ## Bosch Washer F19 Error Code — What It Means

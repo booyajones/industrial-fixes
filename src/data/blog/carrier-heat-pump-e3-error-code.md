@@ -9,6 +9,7 @@ draft: true
 tags:
   - hvac
   - carrier
+money_part: "Indoor blower motor"
 ---
 
 ## Carrier Heat Pump E3 Error Code — What It Means

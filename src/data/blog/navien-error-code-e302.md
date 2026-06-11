@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - navien
+money_part: "Expansion tank (2–4 gallon for residential)"
 ---
 
 ## Navien E302 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - ruud
+money_part: "Ruud tankless inlet water filter"
 ---
 
 ## Ruud CO Error Code — What It Means

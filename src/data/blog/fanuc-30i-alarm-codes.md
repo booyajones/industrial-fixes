@@ -10,6 +10,7 @@ tags:
   - cnc
   - fanuc
   - industrial
+money_part: "Encoder battery"
 ---
 
 ## Fanuc 30i/31i/32i Alarm Codes — What They Mean

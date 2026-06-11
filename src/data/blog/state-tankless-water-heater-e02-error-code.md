@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - state
+money_part: "Thermistor / temperature sensor"
 ---
 
 ## State Tankless Water Heater E02 Error — What It Means

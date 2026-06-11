@@ -10,6 +10,7 @@ tags:
   - cnc
   - haas
   - machining
+money_part: "Air regulator / dryer service"
 ---
 
 ## Haas VF-2 Common Alarms Guide — What They Mean

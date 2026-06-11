@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - state
+money_part: "Exhaust pressure switch"
 ---
 
 ## State Water Heater E28 Error Code — What It Means

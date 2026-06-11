@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - lochinvar
+money_part: "Circulator pump"
 ---
 
 ## Lochinvar Boiler Error Code E04 — What It Means

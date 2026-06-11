@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed defrost sensor or thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "LG refrigerator defrost sensor (thermistor)"
 ---
 
 ## LG Refrigerator dS Error Code — What It Means

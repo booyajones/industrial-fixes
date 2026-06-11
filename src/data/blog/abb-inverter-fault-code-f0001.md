@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - abb
+money_part: "Motor cable (shielded VFD-rated)"
 ---
 
 ## ABB Inverter Fault Code F0001 — What It Means

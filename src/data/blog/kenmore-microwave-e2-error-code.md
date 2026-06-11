@@ -10,6 +10,7 @@ tags:
   - appliance
   - microwave
   - kenmore
+money_part: "Microwave oven thermistor / temperature sensor"
 ---
 
 ## Kenmore Microwave E2 Error Code — What It Means

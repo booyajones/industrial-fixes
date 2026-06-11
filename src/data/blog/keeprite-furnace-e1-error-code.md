@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - keeprite
+money_part: "Pressure switch"
 ---
 
 ## Keeprite Furnace E1 Error Code — What It Means

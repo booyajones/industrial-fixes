@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - bosch
+money_part: "Flow sensor"
 ---
 
 ## Bosch Washer E28 Error Code — What It Means

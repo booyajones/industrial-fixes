@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - pioneer
+money_part: "Outdoor PCB / control board"
 ---
 
 ## Pioneer Mini-Split E4 Error — What It Means

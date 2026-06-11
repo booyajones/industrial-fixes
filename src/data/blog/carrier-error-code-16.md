@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - carrier
+money_part: "Communicating adapter board / indoor interface PCB"
 ---
 
 ## Carrier Error Code 16 — What It Means

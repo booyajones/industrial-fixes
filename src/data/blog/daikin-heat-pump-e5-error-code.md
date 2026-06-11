@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - daikin
+money_part: "Daikin inverter PCB (outdoor control board)"
 ---
 
 ## Daikin E5 Error Code — What It Means

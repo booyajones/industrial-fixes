@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - heidenhain
+money_part: "Heidenhain encoder cable"
 ---
 
 ## Heidenhain TNC Error 399 — What It Means

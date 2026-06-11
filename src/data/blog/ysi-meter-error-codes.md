@@ -10,6 +10,7 @@ tags:
   - instrument
   - ysi
   - water-quality
+money_part: "DO membrane kit"
 ---
 
 ## YSI Meter Error Codes — Quick Reference

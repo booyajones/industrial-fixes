@@ -11,6 +11,7 @@ tags:
   - carrier
   - aquasnap
   - hvac
+money_part: "Condenser fan motor"
 ---
 
 ## Carrier AquaSnap Chiller Fault Codes — Quick Reference

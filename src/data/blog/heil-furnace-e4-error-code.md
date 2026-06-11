@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - heil
+money_part: "High-limit switch"
 ---
 
 ## Heil Furnace E4 Error Code — What It Means

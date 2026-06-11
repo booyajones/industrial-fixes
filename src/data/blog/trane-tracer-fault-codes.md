@@ -11,6 +11,7 @@ tags:
   - tracer
   - bms
   - building-automation
+money_part: "UCM controller"
 ---
 
 ## Trane Tracer BAS Fault Codes - Quick Reference

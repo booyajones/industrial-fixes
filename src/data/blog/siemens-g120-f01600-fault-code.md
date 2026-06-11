@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Safety relay or STO interface module"
 ---
 
 ## Siemens G120 F01600 — What It Means

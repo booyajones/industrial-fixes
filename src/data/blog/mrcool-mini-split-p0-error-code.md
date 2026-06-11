@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mrcool
+money_part: "MRCOOL outdoor control board (PCB)"
 ---
 
 ## MRCOOL Mini Split P0 Error Code — What It Means

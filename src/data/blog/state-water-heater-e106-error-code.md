@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Inlet water filter (State/A. O. Smith tankless)"
 ---
 
 ## State Water Heater E106 Error Code — What It Means

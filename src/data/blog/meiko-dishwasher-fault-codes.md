@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - meiko
+money_part: "Wash pump impeller"
 ---
 
 ## Meiko Commercial Dishwasher Fault Codes — What They Mean

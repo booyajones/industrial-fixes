@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "control board failure or wiring fault"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Whirlpool microwave main control board"
 ---
 
 ## Whirlpool Microwave F7 Error — What It Means

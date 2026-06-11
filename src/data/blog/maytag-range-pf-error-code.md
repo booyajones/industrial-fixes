@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Actual power outage or momentary voltage loss"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Maytag range power cord"
 ---
 
 ## Maytag Range PF Error Code — What It Means

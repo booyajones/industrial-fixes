@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Siemens G120 cooling fan assembly"
 ---
 
 ## Siemens G120 A05002 — What It Means

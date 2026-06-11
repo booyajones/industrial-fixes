@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Ice or frost accumulation locking the freezer fan blade"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "LG refrigerator freezer fan motor (evaporator fan motor)"
 ---
 
 ## LG FF Error Code — What It Means

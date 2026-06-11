@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - daikin
+money_part: "Outdoor fan motor"
 ---
 
 ## Daikin F6 Error Code — What It Means

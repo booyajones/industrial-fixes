@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "clogged inlet screens or kinked/restricted supply hoses"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Water inlet valve assembly"
 ---
 
 ## Amana IF Error Code — What It Means

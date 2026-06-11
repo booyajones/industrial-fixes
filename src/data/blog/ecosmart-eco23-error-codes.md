@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - ecosmart
+money_part: "Inlet thermistor (temperature sensor)"
 ---
 
 ## EcoSmart ECO 23 Error Codes — What It Means

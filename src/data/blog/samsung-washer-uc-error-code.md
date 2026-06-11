@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "unstable line voltage or extension cord use"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung washer power cord"
 ---
 
 ## Samsung Washer UC Error Code — What It Means

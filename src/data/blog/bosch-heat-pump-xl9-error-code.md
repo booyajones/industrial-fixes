@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - bosch
+money_part: "Bosch heat pump compressor"
 ---
 
 ## Bosch xL9 Error Code — What It Means

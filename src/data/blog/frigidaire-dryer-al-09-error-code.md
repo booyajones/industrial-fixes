@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - frigidaire
+money_part: "Main control board"
 ---
 
 ## Frigidaire Dryer AL-09 Error Code — What It Means

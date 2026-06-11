@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - manitowoc
+money_part: "Ice thickness probe assembly"
 ---
 
 ## Manitowoc Ice Machine Error Code 8 — What It Means

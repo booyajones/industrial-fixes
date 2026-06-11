@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Flame sensor or thermocouple"
 ---
 
 ## State Water Heater E83 Error Code — What It Means

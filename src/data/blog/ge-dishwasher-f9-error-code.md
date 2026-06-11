@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - ge
+money_part: "Drain pump assembly"
 ---
 
 ## GE Dishwasher F9 Error Code — What It Means

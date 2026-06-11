@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - maytag
+money_part: "Motor control unit / motor control board"
 ---
 
 ## Maytag F74 Error Code — What It Means

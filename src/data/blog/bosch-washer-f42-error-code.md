@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - bosch
+money_part: "Motor carbon brush set (Bosch washer)"
 ---
 
 ## Bosch Washer F42 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: true
 tags:
   - hvac
   - carrier
+money_part: "Condensate trap assembly"
 ---
 
 ## Carrier Error Code 29 — What It Means

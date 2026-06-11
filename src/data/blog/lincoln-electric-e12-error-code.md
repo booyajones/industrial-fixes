@@ -9,6 +9,7 @@ draft: false
 tags:
   - welding
   - lincoln-electric
+money_part: "Input contactor"
 ---
 
 ## Lincoln Electric E12 Error Code — What It Means

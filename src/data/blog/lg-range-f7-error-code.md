@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Upper convection fan failure or obstruction"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "LG range upper convection fan assembly"
 ---
 
 ## LG Range F7 Error Code — What It Means

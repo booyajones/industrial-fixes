@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Indoor controller PCB (main control board)"
 ---
 
 ## Fujitsu E:01 Error — What It Means

@@ -10,6 +10,7 @@ tags:
   - bosch-rexroth
   - hydraulics
   - industrial
+money_part: "Hydraulic filter element (Rexroth)"
 ---
 
 ## Bosch Rexroth Hydraulic Fault Codes - Quick Reference

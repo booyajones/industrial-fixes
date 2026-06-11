@@ -11,6 +11,7 @@ tags:
   - trane
   - packaged-unit
   - commercial
+money_part: "Condenser fan motor"
 ---
 
 ## Trane YSC Packaged Rooftop Error Codes — What They Mean

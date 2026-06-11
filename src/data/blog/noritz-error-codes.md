@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - noritz
+money_part: "Inlet thermistor"
 ---
 
 ## Noritz Error Codes — Quick Reference

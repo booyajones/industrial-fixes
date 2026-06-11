@@ -11,6 +11,7 @@ tags:
   - microwave
   - samsung
 diy_or_pro: "pro"
+money_part: "Temperature sensor assembly"
 ---
 
 ## Samsung Microwave E-26 Error — What It Means

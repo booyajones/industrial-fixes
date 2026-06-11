@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Internal short in the control board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "LG microwave main control board"
 ---
 
 ## LG Microwave E10 Error Code — What It Means

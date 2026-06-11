@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - carrier
+money_part: "SV2 solenoid valve (Carrier reefer)"
 ---
 
 ## Carrier Error Code 28 — What It Means

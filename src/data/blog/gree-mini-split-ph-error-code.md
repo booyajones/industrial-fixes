@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Outdoor inverter drive board / control board"
 ---
 
 ## Gree PH Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Fujitsu outdoor main PCB"
 ---
 
 ## Fujitsu E:28 Error Code — What It Means

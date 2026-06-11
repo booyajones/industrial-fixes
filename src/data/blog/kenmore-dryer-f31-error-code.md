@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - kenmore
+money_part: "30-amp dryer power cord"
 ---
 
 ## Kenmore Dryer F31 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - electrolux
+money_part: "Water inlet valve assembly"
 ---
 
 ## Electrolux Washer E11 Error Code — What It Means

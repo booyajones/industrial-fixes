@@ -10,6 +10,7 @@ tags:
   - hvac
   - coleman
   - furnace
+money_part: "HSI igniter - silicon carbide"
 ---
 
 ## Coleman-Evcon Furnace Error Codes — What They Mean

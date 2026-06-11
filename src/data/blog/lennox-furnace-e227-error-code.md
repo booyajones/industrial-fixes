@@ -10,6 +10,7 @@ tags:
   - hvac
   - furnace
   - lennox
+money_part: "Lennox pressure switch"
 ---
 
 ## Lennox E227 Error Code — What It Means

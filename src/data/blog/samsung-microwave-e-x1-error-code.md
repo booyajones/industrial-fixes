@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "open circuit in wiring harness, connector, or sensor path"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Samsung microwave wiring harness"
 ---
 
 ## Samsung Microwave E-X1 Error — What It Means

@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Failed door lock motor or latch assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Door lock motor assembly"
 ---
 
 ## Frigidaire F90 Error Code — What It Means

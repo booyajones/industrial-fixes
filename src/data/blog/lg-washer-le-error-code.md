@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Overloaded wash load"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "LG washer Hall sensor (RPS sensor)"
 ---
 
 ## LG Washer LE Error Code — What It Means

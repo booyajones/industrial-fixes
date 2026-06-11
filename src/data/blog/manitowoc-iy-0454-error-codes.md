@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - manitowoc
+money_part: "Condenser fan motor"
 ---
 
 ## Manitowoc IY-0454 Error Codes — What They Mean

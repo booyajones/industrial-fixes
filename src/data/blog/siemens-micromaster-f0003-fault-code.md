@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Input fuses for Siemens Micromaster"
 ---
 
 ## Siemens Micromaster F0003 — What It Means

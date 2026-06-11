@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "loose, corroded, or damaged wiring harness or connectors between control boards"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Appliance Manager Control board"
 ---
 
 ## Maytag Range F6E1 Error Code — What It Means

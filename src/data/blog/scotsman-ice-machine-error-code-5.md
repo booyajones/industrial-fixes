@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - scotsman
+money_part: "Water pump"
 ---
 
 ## Scotsman Ice Machine Error Code 5 — What It Means

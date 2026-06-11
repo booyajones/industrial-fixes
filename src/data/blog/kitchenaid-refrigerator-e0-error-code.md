@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Temporary control glitch or loose wiring connection"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Main control board"
 ---
 
 ## KitchenAid Refrigerator E0 Error Code — What It Means

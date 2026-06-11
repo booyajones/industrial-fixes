@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Siemens USS master or BOP-link master"
 ---
 
 ## Siemens Micromaster F0071 — What It Means

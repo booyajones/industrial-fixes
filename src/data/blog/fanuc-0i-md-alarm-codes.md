@@ -10,6 +10,7 @@ tags:
   - cnc
   - fanuc
   - industrial
+money_part: "Encoder battery"
 ---
 
 ## Fanuc 0i-MD Alarm Codes — What They Mean

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - cooper-hunter
+money_part: "Overload protector (compressor)"
 ---
 
 ## Cooper & Hunter P2 Error Code — What It Means

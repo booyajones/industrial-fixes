@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - lg
+money_part: "LG outdoor unit inverter PCB"
 ---
 
 ## LG Mini Split CH29 Error Code — What It Means

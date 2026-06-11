@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - heil
+money_part: "Pressure switch"
 ---
 
 ## Heil Furnace E2 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Motor output cable (shielded VFD-rated)"
 ---
 
 ## Siemens F1 Fault — What It Means

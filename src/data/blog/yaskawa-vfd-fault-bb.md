@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "No parts typically needed"
 ---
 
 ## Yaskawa VFD Fault BB — What It Means

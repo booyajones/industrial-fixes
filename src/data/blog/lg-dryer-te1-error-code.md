@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Failed thermistor or loose wiring connector to the thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "LG dryer thermistor / temperature sensor"
 ---
 
 ## LG Dryer tE1 Error Code — What It Means

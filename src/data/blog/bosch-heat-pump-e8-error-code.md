@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - bosch
+money_part: "Outdoor unit control board (PCB)"
 ---
 
 ## Bosch Heat Pump E8 Error Code — What It Means

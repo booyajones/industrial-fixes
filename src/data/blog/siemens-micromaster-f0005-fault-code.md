@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "MICROMASTER 420 or 440 drive replacement unit"
 ---
 
 ## Siemens Micromaster F0005 — What It Means

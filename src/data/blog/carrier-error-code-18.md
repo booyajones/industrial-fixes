@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - carrier
+money_part: "Carrier indoor coil tube sensor (thermistor)"
 ---
 
 ## Carrier Error Code 18 — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - lenze
+money_part: "Input fuses"
 ---
 
 ## Lenze VFD Fault LP — What It Means

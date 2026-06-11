@@ -10,6 +10,7 @@ tags:
   - hvac
   - amana
   - air-conditioner
+money_part: "Dual run capacitor"
 ---
 
 ## Amana ASX Air Conditioner Error Codes — What They Mean

@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - speed-queen
+money_part: "Front-end control board (user interface / display board)"
 ---
 
 ## Speed Queen Washer E:07 Error Code — What It Means

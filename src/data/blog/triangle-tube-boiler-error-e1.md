@@ -9,6 +9,7 @@ draft: false
 tags:
   - boiler
   - triangle-tube
+money_part: "Ionization electrode"
 ---
 
 ## Triangle Tube Boiler Error E1 — What It Means

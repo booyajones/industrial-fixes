@@ -10,6 +10,7 @@ tags:
   - appliance
   - refrigerator
   - bosch
+money_part: "Door gasket (dishwasher door seal)"
 ---
 
 ## Bosch E15 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - mitsubishi
+money_part: "Refrigerant (R-410A or R-32)"
 ---
 
 ## Mitsubishi U3 Error Code — What It Means

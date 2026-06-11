@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - daikin
+money_part: "Indoor coil thermistor"
 ---
 
 ## Daikin F9 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Flame sensor (flame rod)"
 ---
 
 ## State E128 Error Code — What It Means

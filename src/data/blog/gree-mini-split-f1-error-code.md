@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Indoor ambient temperature sensor (room thermistor)"
 ---
 
 ## Gree Mini-Split F1 Error Code — What It Means

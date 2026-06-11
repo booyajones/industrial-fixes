@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - allen-bradley
+money_part: "Input fuses (class J or CC)"
 ---
 
 ## Allen-Bradley PowerFlex Fault F004 — What It Means

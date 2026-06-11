@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Failed touch screen or keypad assembly"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "GE microwave touch screen or keypad assembly"
 ---
 
 ## GE Microwave F10 Error — What It Means

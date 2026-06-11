@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - trane
+money_part: "Flame sensor rod"
 ---
 
 ## Trane 9 Flashes Error Code — What It Means

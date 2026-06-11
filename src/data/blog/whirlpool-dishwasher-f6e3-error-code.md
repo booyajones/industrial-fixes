@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "wrong detergent (laundry detergent, hand soap, or hand-wash dish soap) or overdosing dishwasher detergent"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Vegetable cooking oil"
 ---
 
 ## Whirlpool F6E3 Dishwasher Error — What It Means

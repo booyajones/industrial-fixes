@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - schneider
+money_part: "Motor (if windings damaged)"
 ---
 
 ## Schneider Altivar 61 OBF Fault — What It Means

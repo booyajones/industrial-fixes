@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - carrier
+money_part: "Air filter (correct size for your air handler)"
 ---
 
 ## Carrier E10 Error Code — What It Means

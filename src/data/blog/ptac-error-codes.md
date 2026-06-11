@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - ptac
+money_part: "Indoor air thermistor"
 ---
 
 Hotel and motel maintenance techs often service dozens of identical PTAC units across a property. When a guest calls the front desk at midnight about a dead unit, you need to know within 60 seconds whether the fix is a reset, a filter clean, or a part swap. This guide covers every error code across the major PTAC brands — Amana, GE Zoneline, LG, Friedrich, and Islandaire — with brand-specific diagnostic mode entry, code meanings, and concrete fix steps.

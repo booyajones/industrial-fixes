@@ -10,6 +10,7 @@ tags:
   - appliance
   - samsung
 diy_or_pro: "pro"
+money_part: "Samsung refrigerator main PCB"
 ---
 
 ## Samsung E-52 Error Code — What It Means

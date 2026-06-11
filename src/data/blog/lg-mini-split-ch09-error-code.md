@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - lg
+money_part: "Outdoor fan motor"
 ---
 
 ## LG Mini Split CH09 Error Code — What It Means

@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Clogged or dirty drain filter assembly"
 likelihood: "the most common real cause"
 diy_or_pro: "diy"
+money_part: "Samsung dishwasher drain filter assembly"
 ---
 
 ## Samsung Dishwasher OC Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - oven
   - lg
 diy_or_pro: "pro"
+money_part: "LG range main control board (model-specific)"
 ---
 
 ## LG Range E7 Error Code — What It Means

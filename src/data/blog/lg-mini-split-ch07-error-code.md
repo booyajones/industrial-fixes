@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - lg
+money_part: "Indoor unit control board (PCB)"
 ---
 
 ## LG Mini-Split CH07 Error Code — What It Means

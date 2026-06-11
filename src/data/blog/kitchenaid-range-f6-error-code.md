@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Loose, damaged, or mis-seated wiring or connectors between control boards"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Appliance Manager Control board"
 ---
 
 ## KitchenAid Range F6 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Fujitsu indoor main control board"
 ---
 
 ## Fujitsu E:88 Error Code — What It Means

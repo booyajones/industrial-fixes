@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - senville
+money_part: "Refrigerant line-set or copper tubing"
 ---
 
 ## Senville EC C1 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Hot-surface igniter"
 ---
 
 ## State Water Heater E107 Error Code — What It Means

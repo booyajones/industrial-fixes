@@ -10,6 +10,7 @@ tags:
   - hvac
   - furnace
   - american-standard
+money_part: "High-limit switch"
 ---
 
 ## American Standard Furnace 4 Flashes — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - allen-bradley
+money_part: "Dynamic braking resistor (DB resistor)"
 ---
 
 ## Allen Bradley PowerFlex 753 F12 Fault — What It Means

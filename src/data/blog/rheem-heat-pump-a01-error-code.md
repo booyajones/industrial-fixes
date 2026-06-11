@@ -10,6 +10,7 @@ tags:
   - water-heater
   - mini-split
   - rheem
+money_part: "Hot surface igniter"
 ---
 
 ## Rheem A01 Error Code — What It Means

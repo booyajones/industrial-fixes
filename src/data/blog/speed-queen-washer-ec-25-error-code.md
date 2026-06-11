@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - speed-queen
+money_part: "Speed Queen card reader assembly"
 ---
 
 ## Speed Queen Washer EC:25 — What It Means

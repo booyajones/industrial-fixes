@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Fujitsu indoor fan motor"
 ---
 
 ## Fujitsu E:12 Error Code — What It Means

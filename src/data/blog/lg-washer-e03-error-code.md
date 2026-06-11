@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Clogged drain pump filter or debris in the pump chamber"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "LG washer drain pump assembly"
 ---
 
 ## LG Washer E03 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - electrolux
+money_part: "Terminal block assembly"
 ---
 
 ## Electrolux Dryer EA4 Error Code — What It Means

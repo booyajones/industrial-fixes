@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - electrolux
+money_part: "Main control board (electronic control board)"
 ---
 
 ## Electrolux Dryer EA5 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - electrolux
+money_part: "User interface assembly (control panel)"
 ---
 
 ## Electrolux Dryer EF8 Error Code — What It Means

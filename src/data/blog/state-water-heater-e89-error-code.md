@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - state
+money_part: "Inlet water filter screen"
 ---
 
 ## State Water Heater E89 Error Code — What It Means

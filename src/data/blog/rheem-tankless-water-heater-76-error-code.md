@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - rheem
+money_part: "Rheem tankless remote control"
 ---
 
 ## Rheem Tankless Water Heater Error 76 — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - navien
+money_part: "Heating Supply Outlet Thermistor"
 ---
 
 ## Navien E006 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Motor PTC temperature sensor"
 ---
 
 ## Siemens Micromaster F0015 — What It Means

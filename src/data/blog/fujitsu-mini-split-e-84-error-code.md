@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Fujitsu indoor unit controller PCB"
 ---
 
 ## Fujitsu Mini Split E:84 Error Code — What It Means

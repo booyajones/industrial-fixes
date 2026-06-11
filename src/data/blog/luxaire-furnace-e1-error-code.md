@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - luxaire
+money_part: "Hot surface ignitor"
 ---
 
 ## Luxaire Furnace E1 Error Code — What It Means

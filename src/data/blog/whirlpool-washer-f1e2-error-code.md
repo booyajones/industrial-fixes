@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Control-board or control-panel logic fault"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Electronic control board (ECB / clock / main board)"
 ---
 
 ## Whirlpool F1E2 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - mazak
+money_part: "Servo amplifier module"
 ---
 
 ## Mazak Alarm 1 Servo Alarm — What It Means

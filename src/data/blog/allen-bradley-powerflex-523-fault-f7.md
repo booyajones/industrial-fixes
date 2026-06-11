@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - allen-bradley
+money_part: "Pump impeller / strainer"
 ---
 
 ## Allen Bradley PowerFlex 523 F7 Fault — What It Means

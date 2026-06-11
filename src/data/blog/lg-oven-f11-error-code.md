@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "weak or failed hot-surface bake igniter"
 likelihood: "the most common repair shown in the field"
 diy_or_pro: "pro"
+money_part: "LG oven bake igniter"
 ---
 
 ## LG Oven F11 Error Code — What It Means

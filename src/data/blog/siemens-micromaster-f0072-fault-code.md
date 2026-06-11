@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "RS485 communication cable"
 ---
 
 ## Siemens Micromaster F0072 — What It Means

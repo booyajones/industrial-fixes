@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - trane
+money_part: "Flame sensor rod"
 ---
 
 ## Trane XR80 Error Codes — What They Mean

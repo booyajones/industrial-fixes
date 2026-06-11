@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "Moisture sensor kit"
 ---
 
 ## Amana Dryer F1E5 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - bosch
+money_part: "Bosch oven main control board"
 ---
 
 ## Bosch Oven F170 Error Code — What It Means

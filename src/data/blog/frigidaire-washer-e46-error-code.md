@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - frigidaire
+money_part: "Main electronic control board"
 ---
 
 ## Frigidaire Washer E46 Error Code — What It Means

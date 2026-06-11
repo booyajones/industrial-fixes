@@ -10,6 +10,7 @@ tags:
   - plumbing
   - rinnai
   - tankless-water-heater
+money_part: "Thermal fuse"
 ---
 
 ## Rinnai RUR Series Error Codes — What They Mean

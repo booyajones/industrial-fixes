@@ -10,6 +10,7 @@ tags:
   - appliance
   - dishwasher
   - kenmore
+money_part: "Main control board (Bosch-platform Kenmore)"
 ---
 
 ## Kenmore Dishwasher E05 Error Code — What It Means

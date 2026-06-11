@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - amana
+money_part: "Hot water inlet hose"
 ---
 
 ## Amana Washer HC Error Code — What It Means

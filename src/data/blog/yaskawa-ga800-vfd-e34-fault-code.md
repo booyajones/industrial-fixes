@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "Soft-charge bypass relay (contactor)"
 ---
 
 ## Yaskawa GA800 E34 Fault Code — What It Means

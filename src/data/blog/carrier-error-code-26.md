@@ -9,6 +9,7 @@ draft: true
 tags:
   - hvac
   - carrier
+money_part: "Carrier air filter (model-specific size)"
 ---
 
 ## Carrier Error Code 26 — What It Means

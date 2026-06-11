@@ -13,6 +13,7 @@ tags:
   - food-service
   - error-codes
 description: "Hoshizaki KM-1301SAH error codes explained — this large crescent-cube commercial ice machine communicates faults through LED blink codes on the control board. Here's how to diagnose and fix each one."
+money_part: "Water inlet valve"
 ---
 
 ## Error Codes: Hoshizaki KM-1301SAH

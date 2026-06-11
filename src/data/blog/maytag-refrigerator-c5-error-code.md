@@ -11,6 +11,7 @@ tags:
   - refrigerator
   - maytag
 diy_or_pro: "diy"
+money_part: "Main control board (electronic control board)"
 ---
 
 ## Maytag Refrigerator C5 Error Code — What It Means

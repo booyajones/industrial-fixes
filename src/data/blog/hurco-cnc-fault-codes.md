@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - hurco
+money_part: "Servo drive (Yaskawa SGDV series)"
 ---
 
 Hurco CNC machines — the VM, VMX, TM, and TMX series — run the **WinMax** control system. When a fault fires, WinMax displays an error code, a descriptive text message, and in most cases, enough context to diagnose the problem on the machine floor without a service call. This guide covers the fault codes technicians encounter most often across the Hurco mill and lathe lines, how to read fault history, and what to do when the alarm screen isn't telling you the whole story.

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - pioneer
+money_part: "Pioneer indoor control board (PCB)"
 ---
 
 ## Pioneer Mini Split F4 Error Code — What It Means

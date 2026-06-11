@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "KTY84 temperature sensor"
 ---
 
 ## Siemens Micromaster F0004 — What It Means

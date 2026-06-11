@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - allen-bradley
+money_part: "Dynamic brake resistor"
 ---
 
 ## Allen-Bradley PowerFlex Fault F111 — What It Means

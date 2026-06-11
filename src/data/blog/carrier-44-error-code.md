@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - carrier
+money_part: "Hot surface igniter"
 ---
 
 ## Carrier 44 Error Code — What It Means

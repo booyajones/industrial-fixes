@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - true-refrigeration
+money_part: "Condenser fan motor"
 ---
 
 ## True Refrigeration E6 Error Code — What It Means

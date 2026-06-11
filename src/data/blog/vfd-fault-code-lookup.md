@@ -10,6 +10,7 @@ tags:
   - vfd
   - industrial
   - lookup
+money_part: "Cooling fan"
 ---
 
 ## VFD Fault Code Lookup — Start Here

@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - allen-bradley
+money_part: "Motor (if failed)"
 ---
 
 ## Allen-Bradley PowerFlex 755 Fault 7 — What It Means

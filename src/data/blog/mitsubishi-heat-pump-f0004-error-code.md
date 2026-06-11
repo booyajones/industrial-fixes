@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Model-specific service manual"
 ---
 
 ## Mitsubishi F0004 Error Code — What It Means

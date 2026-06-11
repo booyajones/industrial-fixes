@@ -11,6 +11,7 @@ tags:
   - microwave
   - samsung
 diy_or_pro: "diy"
+money_part: "Weight or humidity sensor"
 ---
 
 ## Samsung Microwave E-33 Error — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - pioneer
+money_part: "Outdoor coil thermistor / condenser pipe temperature sensor"
 ---
 
 ## Pioneer Mini Split F2 Error Code — What It Means

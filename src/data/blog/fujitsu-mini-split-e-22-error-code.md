@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Fujitsu return-air thermistor / indoor air sensor"
 ---
 
 ## Fujitsu E:22 Error Code — What It Means

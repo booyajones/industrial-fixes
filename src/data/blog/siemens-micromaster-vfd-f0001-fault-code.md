@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Shielded motor cable (appropriate gauge for drive and motor)"
 ---
 
 ## Siemens Micromaster F0001 — What It Means

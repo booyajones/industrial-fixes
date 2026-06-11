@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - daikin
+money_part: "Outdoor heat exchanger thermistor"
 ---
 
 ## Daikin J6 Error Code — What It Means

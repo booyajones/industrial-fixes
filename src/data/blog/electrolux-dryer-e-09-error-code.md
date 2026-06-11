@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - electrolux
+money_part: "Humidity sensor (moisture sensor)"
 ---
 
 ## Electrolux Dryer E09 Error Code — What It Means

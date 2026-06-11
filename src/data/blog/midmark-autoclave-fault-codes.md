@@ -11,6 +11,7 @@ tags:
   - autoclave
   - sterilizer
   - medical
+money_part: "Door gasket (M11 silicone)"
 ---
 
 ## Midmark Autoclave Fault Codes - Quick Reference

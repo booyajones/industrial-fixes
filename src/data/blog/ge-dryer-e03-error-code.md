@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed outlet thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "GE dryer outlet thermistor"
 ---
 
 ## GE Dryer E03 Error Code — What It Means

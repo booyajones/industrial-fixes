@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "closed or partially closed water faucets, or clogged inlet mesh screens"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Samsung washer water inlet valve assembly"
 ---
 
 ## Samsung nF Error Code — What It Means

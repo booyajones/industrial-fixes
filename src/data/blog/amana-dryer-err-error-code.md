@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "Main control board"
 ---
 
 ## Amana Dryer ERR Error Code — What It Means

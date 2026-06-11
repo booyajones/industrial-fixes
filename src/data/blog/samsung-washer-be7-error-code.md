@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - samsung
+money_part: "Samsung washer control panel assembly (user interface board)"
 ---
 
 ## Samsung Washer bE7 Error Code — What It Means

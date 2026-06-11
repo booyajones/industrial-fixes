@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Heat exchanger (pipe) thermistor"
 ---
 
 ## Fujitsu E:30 Error Code — What It Means

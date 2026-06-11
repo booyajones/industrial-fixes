@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - bryant
+money_part: "Air filter"
 ---
 
 ## Bryant Furnace 33 Error Code — What It Means

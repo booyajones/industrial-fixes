@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - goodman
+money_part: "Outdoor Temperature Sensor / Thermistor"
 ---
 
 ## Goodman Heat Pump E3 Error Code — What It Means

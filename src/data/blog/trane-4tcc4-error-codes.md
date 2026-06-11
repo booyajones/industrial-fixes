@@ -9,6 +9,7 @@ draft: false
 tags:
   - mini-split
   - trane
+money_part: "Indoor ambient thermistor"
 ---
 
 ## Trane 4TCC4 Mini Split Error Codes — What They Mean

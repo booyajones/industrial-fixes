@@ -10,6 +10,7 @@ tags:
   - hvac
   - water-heater
   - state
+money_part: "24 VAC HVAC transformer"
 ---
 
 ## State Water Heater E73 Error Code — What It Means

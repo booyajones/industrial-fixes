@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Gree indoor unit PCB/control board"
 ---
 
 ## Gree E7 Error Code — What It Means

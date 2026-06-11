@@ -10,6 +10,7 @@ tags:
   - hvac
   - midea
   - mini-split
+money_part: "Room temperature sensor (E1)"
 ---
 
 ## Midea U-Inverter Mini Split Error Codes — What They Mean

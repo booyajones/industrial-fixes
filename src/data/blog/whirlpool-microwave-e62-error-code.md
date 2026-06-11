@@ -10,6 +10,7 @@ tags:
   - appliance
   - microwave
   - whirlpool
+money_part: "Gas sensor"
 ---
 
 ## Whirlpool E62 Error Code — What It Means

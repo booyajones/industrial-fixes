@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "Motor thermistor (PTC sensor)"
 ---
 
 ## Yaskawa GA800 E03 Fault — What It Means

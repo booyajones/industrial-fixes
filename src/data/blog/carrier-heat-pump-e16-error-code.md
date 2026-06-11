@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - carrier
+money_part: "Outdoor unit control board (PCB)"
 ---
 
 ## Carrier E16 Error Code — What It Means

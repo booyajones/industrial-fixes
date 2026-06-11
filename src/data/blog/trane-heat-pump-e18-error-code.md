@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - trane
+money_part: "Discharge temperature sensor (thermistor)"
 ---
 
 ## Trane E18 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - tripp-lite
   - ups
   - power-systems
+money_part: "Replacement battery"
 ---
 
 ## Tripp Lite UPS Fault Codes - Quick Reference

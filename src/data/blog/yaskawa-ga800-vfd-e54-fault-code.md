@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Open or miswired Safe Torque Off (STO) input circuit"
 likelihood: "often seen when the drive refuses to start and the code is not documented"
 diy_or_pro: "pro"
+money_part: "STO terminal jumper or wire link"
 ---
 
 ## Yaskawa GA800 VFD E54 Fault — What It Means

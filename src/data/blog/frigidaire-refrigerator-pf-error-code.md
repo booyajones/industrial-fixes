@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "brief power interruption or breaker trip"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Frigidaire dishwasher main control board"
 ---
 
 ## Frigidaire PF Error Code — What It Means

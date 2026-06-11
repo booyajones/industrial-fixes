@@ -10,6 +10,7 @@ tags:
   - plumbing
   - weil-mclain
   - boiler
+money_part: "Thermocouple"
 ---
 
 ## Weil-McLain ECG Boiler Error Codes — What They Mean

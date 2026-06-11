@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - amana
+money_part: "Electronic control board"
 ---
 
 ## Amana Dryer F3 E5 Error Code — What It Means

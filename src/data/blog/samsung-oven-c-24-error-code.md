@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "blocked or partially blocked vent"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Degreasing cleaner and soft cloth"
 ---
 
 ## Samsung Oven C-24 Error Code — What It Means

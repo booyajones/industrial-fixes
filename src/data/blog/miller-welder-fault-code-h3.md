@@ -9,6 +9,7 @@ draft: false
 tags:
   - welding
   - miller
+money_part: "Input voltage selector switch"
 ---
 
 ## Miller Welder H3 Fault Code — What It Means

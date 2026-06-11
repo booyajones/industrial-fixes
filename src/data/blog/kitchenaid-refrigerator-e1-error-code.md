@@ -11,6 +11,7 @@ tags:
   - refrigerator
   - kitchenaid
 diy_or_pro: "pro"
+money_part: "User interface board (display board)"
 ---
 
 ## KitchenAid Refrigerator E1 Error Code — What It Means

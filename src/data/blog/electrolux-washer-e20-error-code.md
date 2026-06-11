@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - electrolux
+money_part: "Electrolux washer drain pump"
 ---
 
 ## Electrolux Washer E20 Error Code — What It Means

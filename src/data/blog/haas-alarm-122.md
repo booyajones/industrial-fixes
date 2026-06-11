@@ -11,6 +11,7 @@ tags:
   - haas
   - atc
   - carousel
+money_part: "Carousel proximity switch"
 ---
 
 ## Haas Alarm 122 — What It Means

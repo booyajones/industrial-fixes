@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "Loose, dirty, or damaged ribbon cable or connector between UI and main control board"
 likelihood: "the most common cause in field service"
 diy_or_pro: "pro"
+money_part: "Main control board (PCB)"
 ---
 
 ## Samsung Microwave E-81 Error — What It Means

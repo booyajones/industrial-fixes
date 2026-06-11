@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Incorrect wiring or damaged communications cable"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Communications cable (shielded twisted-pair or network-specific)"
 ---
 
 ## Yaskawa GA800 E97 Fault Code — What It Means

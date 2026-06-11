@@ -9,6 +9,7 @@ draft: false
 tags:
   - refrigeration
   - follett
+money_part: "Water inlet valve"
 ---
 
 ## Follett Ice Machine Error Code E2 — What It Means

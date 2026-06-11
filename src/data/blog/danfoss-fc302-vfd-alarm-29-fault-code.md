@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - danfoss
+money_part: "Danfoss VLT FC 302 cooling fan assembly"
 ---
 
 ## Danfoss FC302 VFD Alarm 29 — What It Means

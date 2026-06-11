@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "failed upper cooling fan motor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Upper oven cooling fan motor assembly"
 ---
 
 ## GE Oven F96 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - ruud
+money_part: "Inlet filter screen"
 ---
 
 ## Ruud E05 Error Code — What It Means

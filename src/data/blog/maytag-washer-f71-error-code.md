@@ -10,9 +10,13 @@ tags:
   - appliance
   - washer
   - maytag
+<<<<<<< Updated upstream
 most_likely_cause: "Loose or damaged wiring harness or connector between control boards"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Motor control unit (motor control board)"
+>>>>>>> Stashed changes
 ---
 
 ## Maytag Washer F71 Error Code — What It Means

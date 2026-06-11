@@ -9,6 +9,7 @@ draft: false
 tags:
   - cnc
   - mazak
+money_part: "CMOS backup battery"
 ---
 
 ## Mazak CNC Alarm 200 Parameter Fault — What It Means

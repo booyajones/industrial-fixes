@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - yaskawa
+money_part: "Input fuses (semiconductor type)"
 ---
 
 ## Yaskawa VFD Fault UV1 — What It Means

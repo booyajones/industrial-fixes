@@ -10,9 +10,13 @@ tags:
   - appliance
   - dishwasher
   - frigidaire
+<<<<<<< Updated upstream
 most_likely_cause: "empty or low rinse aid reservoir"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+=======
+money_part: "Rinse-aid dispenser assembly"
+>>>>>>> Stashed changes
 ---
 
 ## Frigidaire Dishwasher LO Error Code — What It Means

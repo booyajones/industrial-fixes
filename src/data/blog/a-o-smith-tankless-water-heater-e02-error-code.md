@@ -9,6 +9,7 @@ draft: false
 tags:
   - water-heater
   - ao-smith
+money_part: "Temperature sensor (thermistor)"
 ---
 
 ## A.O. Smith Tankless E02 Error — What It Means

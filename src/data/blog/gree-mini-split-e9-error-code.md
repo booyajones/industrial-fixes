@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - gree
+money_part: "Condensate pump assembly"
 ---
 
 ## Gree Mini Split E9 Error Code — What It Means

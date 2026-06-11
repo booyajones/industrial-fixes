@@ -10,6 +10,7 @@ tags:
   - appliance
   - microwave
   - whirlpool
+money_part: "Door Latch Assembly"
 ---
 
 ## Whirlpool F5 Error Code — What It Means

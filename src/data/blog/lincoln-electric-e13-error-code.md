@@ -9,6 +9,7 @@ draft: false
 tags:
   - welding
   - lincoln-electric
+money_part: "Output contactor"
 ---
 
 ## Lincoln Electric E13 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Indoor room temperature sensor (thermistor)"
 ---
 
 ## Mitsubishi Mini Split E4 Error — What It Means

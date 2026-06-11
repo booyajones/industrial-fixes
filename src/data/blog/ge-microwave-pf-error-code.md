@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "actual power outage or momentary utility interruption"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "GE microwave control board (main PCB)"
 ---
 
 ## GE Microwave PF Error Code — What It Means

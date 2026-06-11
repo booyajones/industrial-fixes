@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - mitsubishi
+money_part: "Outdoor inverter power PCB (power module board)"
 ---
 
 ## Mitsubishi U6 Error Code — What It Means

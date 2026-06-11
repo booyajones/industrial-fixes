@@ -9,6 +9,7 @@ draft: false
 tags:
   - mini-split
   - mitsubishi
+money_part: "Condensate drain pump"
 ---
 
 ## Mitsubishi E5 Error Code — What It Means

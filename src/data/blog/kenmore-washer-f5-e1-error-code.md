@@ -10,6 +10,7 @@ tags:
   - appliance
   - washer
   - kenmore
+money_part: "Lid lock assembly"
 ---
 
 ## Kenmore F5 E1 Error Code — What It Means

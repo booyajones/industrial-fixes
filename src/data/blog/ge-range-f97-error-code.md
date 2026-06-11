@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "lower cooling fan motor failing or running too slowly"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Lower cooling fan assembly"
 ---
 
 ## GE Range F97 Error Code — What It Means

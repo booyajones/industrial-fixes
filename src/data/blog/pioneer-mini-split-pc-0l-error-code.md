@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - pioneer
+money_part: "Pioneer outdoor ambient temperature sensor (T4)"
 ---
 
 ## Pioneer PC 0L Error Code — What It Means

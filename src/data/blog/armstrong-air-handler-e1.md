@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - armstrong
+money_part: "iComfort thermostat"
 ---
 
 ## Armstrong Air Handler E1 Error Code — What It Means

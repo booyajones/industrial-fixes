@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - trane
+money_part: "Outdoor ambient temperature sensor (Trane OEM)"
 ---
 
 ## Trane E19 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - manitowoc
   - ice-machine
+money_part: "Remote condenser fan motor"
 ---
 
 ## Manitowoc ID-0502 Error Codes — What They Mean

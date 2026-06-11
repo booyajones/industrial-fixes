@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Fujitsu outdoor main PCB (control board)"
 ---
 
 ## Fujitsu E:39 Error Code — What It Means

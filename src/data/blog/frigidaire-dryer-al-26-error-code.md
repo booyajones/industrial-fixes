@@ -10,6 +10,7 @@ tags:
   - appliance
   - dryer
   - frigidaire
+money_part: "Heating Element Assembly"
 ---
 
 ## Frigidaire Dryer AL-26 Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - abb
+money_part: "Fieldbus communication cable (shielded twisted-pair)"
 ---
 
 ## ABB ACS550 EFB3 Fault — What It Means

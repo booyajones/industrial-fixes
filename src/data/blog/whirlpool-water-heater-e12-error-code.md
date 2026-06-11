@@ -9,6 +9,7 @@ draft: true
 tags:
   - water-heater
   - whirlpool
+money_part: "Whirlpool electronic thermostat (ET)"
 ---
 
 ## Whirlpool Water Heater E12 Error Code — What It Means

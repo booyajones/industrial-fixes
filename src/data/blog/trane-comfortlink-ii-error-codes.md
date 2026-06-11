@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - trane
+money_part: "ComfortLink II thermostat"
 ---
 
 ## Trane ComfortLink II Error Codes — What They Mean

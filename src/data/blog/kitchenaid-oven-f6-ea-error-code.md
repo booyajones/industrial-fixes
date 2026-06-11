@@ -10,6 +10,7 @@ tags:
   - appliance
   - oven
   - kitchenaid
+money_part: "User Interface Control Board"
 ---
 
 ## KitchenAid F6 EA Error Code — What It Means

@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - goodman
+money_part: "Pressure switch"
 ---
 
 ## Amana / Goodman Furnace 3 Flash Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - fujitsu
+money_part: "Outdoor unit main PCB"
 ---
 
 ## Fujitsu E:42 Error Code — What It Means

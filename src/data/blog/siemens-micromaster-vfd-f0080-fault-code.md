@@ -9,6 +9,7 @@ draft: false
 tags:
   - vfd
   - siemens
+money_part: "Analog input cable or wire"
 ---
 
 ## Siemens Micromaster F0080 — What It Means

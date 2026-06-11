@@ -13,6 +13,7 @@ tags:
 most_likely_cause: "water in the drip tray or base pan from a leak or loose inlet connection"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+money_part: "Whirlpool dishwasher water inlet valve"
 ---
 
 ## Whirlpool F8E5 Dishwasher Error — What It Means

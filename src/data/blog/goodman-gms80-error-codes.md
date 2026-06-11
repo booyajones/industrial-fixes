@@ -10,6 +10,7 @@ tags:
   - hvac
   - goodman
   - furnace
+money_part: "Hot surface igniter"
 ---
 
 ## Goodman GMS80 Furnace Error Codes — What They Mean

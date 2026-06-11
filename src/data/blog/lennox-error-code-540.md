@@ -9,6 +9,7 @@ draft: false
 tags:
   - hvac
   - lennox
+money_part: "iComfort S30/E30 thermostat"
 ---
 
 ## Lennox Error Code 540 — What It Means

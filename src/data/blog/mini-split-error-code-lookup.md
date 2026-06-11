@@ -10,6 +10,7 @@ tags:
   - hvac
   - mini-split
   - lookup
+money_part: "Thermistor"
 ---
 
 ## Mini Split Error Code Lookup — Start Here

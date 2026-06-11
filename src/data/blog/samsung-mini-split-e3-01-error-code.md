@@ -9,6 +9,7 @@ draft: true
 tags:
   - mini-split
   - samsung
+money_part: "Indoor BLDC fan motor"
 ---
 
 ## Samsung Mini-Split E3-01 Error Code — What It Means
