@@ -1,53 +1,77 @@
 ---
 title: "Frigidaire Dryer AL-04 Error Code - Causes & Fix"
-description: "AL-04 / E4 / E4A means restricted airflow or no heat causing prolonged drying. Most often: clean lint screen and check your vent system."
-pubDatetime: 2026-05-31T03:43:05Z
-modDatetime: 2026-05-31T03:43:05Z
-author: "Dana Kowalski"
+description: "AL-04 is not a documented Frigidaire code. Closest is E4/E4A (long dry time). Check vent blockage, lint filter, and heating element."
+pubDatetime: 2026-06-09T05:02:29Z
+modDatetime: 2026-06-09T05:02:29Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dryer
   - frigidaire
+most_likely_cause: "restricted venting or lint buildup"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Frigidaire Dryer AL-04 Error Code — What It Means
 
-The AL-04 / E4 / E4A code on Frigidaire dryers signals a restricted airflow or prolonged drying-time condition, usually because the dryer is not heating correctly or cannot move air efficiently through the drum and vent system. The control detects no heat for an extended period or sees drying times that stretch far beyond normal, then shuts the machine down to prevent damage. The exact code naming varies by model platform, so check your use-and-care guide for your specific dryer.
+AL-04 does not appear in documented Frigidaire dryer fault code lists. The closest verified Frigidaire code is E4 or E4A, which indicates long dry time (the normal dry cycle has been exceeded). Frigidaire troubleshooting materials associate E4/E04 errors with restricted airflow, clogged vents, or heating system failures. Before proceeding, confirm the exact code displayed on your dryer and check your model's service manual, because code definitions vary across Frigidaire platforms.
 
-This is not a pure sensor fault. The root cause is almost always a physical blockage in the lint path or house vent, or a failure in the heating system (electric element, gas burner, heater relay, or control-board output). If airflow is good but the dryer runs cold, the fault lies in the heater circuit or its controls.
+If your display shows E4, E04, or E4A, the dryer is running too long because it cannot maintain proper heat or exhaust. The most common physical causes are lint buildup in the vent system, a crushed or kinked vent hose, or a failed heating element on electric models (or gas burner issues on gas dryers). A hard reset and thorough vent inspection solve the majority of these cases.
+
+## Before You Replace Anything
+
+Many people replace the moisture sensor or control board first. Test airflow by disconnecting the vent hose and running a short cycle; if drying improves, the problem is in the vent system, not inside the dryer.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Lint screen or housing restriction** Heavy lint buildup on the screen or debris packed in the lint trap housing blocks air and prevents proper heat transfer through the drum.
-- **Restricted house venting** Crushed flex duct, long or undersized vent runs, blocked outside hood, or lint-packed venting all choke exhaust flow and force prolonged cycle times.
-- **Failed heating element** An open or grounded electric element stops heat output entirely, causing the control to see no temperature rise and trigger the code.
-- **Defective heater relay or control board output** On models using a relay (for example RL2), a stuck or failed relay or a dead control-board driver prevents the heater from energizing even when line voltage is present.
-- **Gas burner or ignition fault** On gas dryers, a failed igniter, gas valve, or flame sensor can prevent burner operation and leave the dryer running cold.
-- **Thermistor or temperature-sensing issue** If the control receives abnormal temperature feedback, it may misinterpret airflow or heat conditions and log the code, though this is less common than physical airflow or heater faults.
+- **Blocked or restricted vent hose (~50%)** Lint accumulation, a crushed duct, or a clogged exterior exhaust cap restricts airflow and causes the dryer to run far longer than normal.
+- **Failed heating element (electric) or gas burner fault (gas) (~25%)** A broken heating element or malfunctioning gas ignition system prevents the dryer from reaching target temperature.
+- **Dirty lint filter or blower wheel (~15%)** A caked lint screen or debris-packed blower impairs internal airflow and heat circulation.
+- **Faulty thermistor or temperature sensor (~7%)** If the thermistor reads out of range (nominal is about 50,000 ohms at room temperature), the control cannot regulate heat properly.
+- **Moisture sensor or wiring issue (~3%)** Corroded sensor bars or a loose harness connector can confuse the auto-dry logic and prolong the cycle.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does warm air blow freely from the exterior vent cap while the dryer runs?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Exhaust path is clear; focus on the heating element, thermistor, or sensor bars inside the dryer.<br><strong>No:</strong> Vent system is blocked; inspect and clean the entire vent hose, duct, and cap before testing internal components.</div>
+</details>
+
+<details class="dtree"><summary>Does the dryer dry a small load quickly with the vent hose disconnected?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The vent ducting is the problem; replace or clean the vent hose and check for kinks.<br><strong>No:</strong> Internal heating or airflow fault; test the heating element for continuity and inspect the blower wheel.</div>
+</details>
+
+<details class="dtree"><summary>Is the lint filter clean and free of fabric-softener residue?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Filter is not the issue; move to vent inspection and heating-element testing.<br><strong>No:</strong> Wash the filter with warm soapy water, rinse, and dry thoroughly before reinstalling.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Verify your model number** and locate the use-and-care guide or tech sheet, because Frigidaire code meanings vary by platform and AL-04 / E4 / E4A are not standardized across all dryers.
-2. **Clean the lint screen** thoroughly and inspect the lint-trap housing for packed debris or obstruction, then clear any buildup you find.
-3. **Inspect the entire vent system** from the dryer outlet to the exterior termination hood, looking for crushed duct, long runs, undersized pipe, lint accumulation, or a blocked outside flapper.
-4. **Disconnect the house vent** at the dryer transition and run a brief test cycle to see if heating and drying behavior improve, which tells you whether the fault is in the vent or inside the machine.
-5. **Check heat output** during operation by feeling the exhaust air or monitoring drum temperature, and if heat is absent or weak, move into heater-circuit testing.
-6. **Test the heating element** (electric) or burner assembly (gas) for continuity, proper resistance, and no grounding to the cabinet, and check for damaged terminals or arcing.
-7. **Test the heater relay and control-board outputs** if the dryer is electric and uses a relay-driven heater, checking for switching action and line voltage at the heater feed when the control calls for heat, then replace the relay or control board as needed.
+1. **Verify the displayed code** by powering off the dryer for three minutes, then restart and note the exact alphanumeric message (AL-04, E4, E04, or E4A) and consult your model's service sheet for its precise definition.
+2. **Clean the lint filter** and inspect it for waxy buildup from dryer sheets; wash it under warm water if airflow through the screen is poor.
+3. **Disconnect and inspect the vent hose** from the rear of the dryer to the exterior cap; remove any lint clogs, straighten kinks, and confirm the duct is not crushed or excessively long.
+4. **Run a vent-free test** by detaching the vent hose and starting a short timed-dry cycle; if the dryer heats and dries normally, the problem is in the vent system, not the appliance.
+5. **Test the heating element** (electric models) for continuity using a multimeter; replace the element if the coil is open or visibly broken.
+6. **Check the thermistor resistance** by disconnecting it and measuring across its terminals; it should read approximately 50,000 ohms at room temperature.
+7. **Inspect moisture-sensor bars** (if auto-dry is used) for corrosion or residue; clean them with rubbing alcohol on a soft cloth and check the wiring harness for loose or corroded connectors.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Lint screen / lint filter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dryer-al-04-error-code&k=Lint+screen+%2F+lint+filter&tag=errorcodefixes-20) \| Replace if torn or warped; confirm the exact part number for your model. |
-| Heating element assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dryer-al-04-error-code&k=Heating+element+assembly&tag=errorcodefixes-20) \| For electric dryers; match the element to your model and voltage (usually 240 V). |
-| Heater relay (RL2 or equivalent) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dryer-al-04-error-code&k=Heater+relay+%28RL2+or+equivalent%29&tag=errorcodefixes-20) \| Model-specific; consult the tech sheet or parts diagram for the correct relay designation. |
-| Main control board (ERC / user interface) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dryer-al-04-error-code&k=Main+control+board+%28ERC+%2F+user+interface%29&tag=errorcodefixes-20) \| Only if relay testing proves the board output is dead; verify the board part number before ordering. |
+| Heating element | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dryer-al-04-error-code&k=Heating+element&tag=errorcodefixes-20) \| Electric models only; verify your model number and element assembly before ordering. |
+| Thermistor or temperature sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dryer-al-04-error-code&k=Thermistor+or+temperature+sensor&tag=errorcodefixes-20) \| Should measure about 50,000 ohms at room temperature; confirm with your wiring diagram. |
+| Vent hose and clamps | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dryer-al-04-error-code&k=Vent+hose+and+clamps&tag=errorcodefixes-20) \| Use rigid or semi-rigid metal duct; avoid flexible plastic or foil that can sag and trap lint. |
+| Blower wheel | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dryer-al-04-error-code&k=Blower+wheel&tag=errorcodefixes-20) \| If the wheel is packed with lint or damaged; inspect after removing the front or rear panel. |
 
 ## When to Call a Pro
 
-Call a technician if you have cleared all lint and vent restrictions but the dryer still runs cold or logs the code, or if you are not comfortable working with 240-volt circuits, testing relays, or diagnosing control-board outputs. Gas-dryer burner and ignition faults also require a qualified service tech, especially if you smell gas or see error behavior tied to flame sensing. If the problem turns out to be a failed control board or a complex temperature-sensing fault, professional diagnosis will save time and prevent unnecessary part swaps.
+Call a technician if you have a gas dryer and suspect burner or ignition problems, because gas appliance repair requires specialized tools and safety training. Also call for help if you have tested the vent system, heating element, and thermistor but the dryer still shows the code and runs excessively long. A pro can retrieve stored fault logs from the control board, measure voltage at the element terminals, and check wiring harnesses and the main control board for hidden faults. If the dryer is still under warranty, contact Frigidaire or an authorized service center before replacing any parts.
+
+**Rough cost:** DIY runs about $10-50 in parts (vent hose, clamps, or heating element if needed), 30-90 min. A pro service call runs about $150-280 service call and part.

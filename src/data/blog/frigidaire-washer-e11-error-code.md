@@ -1,51 +1,74 @@
 ---
 title: "Frigidaire E11 Error Code - Causes & Fix"
-description: "E11 means your Frigidaire washer is not filling with water fast enough. Check water supply valves first, then inlet screens and hoses."
-pubDatetime: 2026-05-31T02:14:53Z
-modDatetime: 2026-05-31T02:14:53Z
-author: "Marcus Webb"
+description: "E11 on Frigidaire washers means the machine is taking too long to fill with water. Most often caused by closed faucets or clogged inlet screens."
+pubDatetime: 2026-06-09T05:08:07Z
+modDatetime: 2026-06-09T05:08:07Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
-  - washer
   - frigidaire
+most_likely_cause: "Partially closed supply faucets or clogged inlet screens"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Frigidaire E11 Error Code — What It Means
 
-E11 on a Frigidaire front-load washer means the machine is not filling with water fast enough during the wash phase. The washer expects water to enter the tub within a certain time window, and when that does not happen, it locks for up to 6 minutes while attempting to fill. Restarting power resets that lockout timer. The error points to a problem somewhere in the water supply path, from the household valves all the way to the internal inlet valve, pressure sensor, or control board.
+The E11 error code on Frigidaire washers indicates the control board has detected an extended fill time. The washer is not receiving an acceptable amount of water within the allowed fill window, so it faults on long fill and stops the cycle. This code signals a problem somewhere in the water supply path, from the household supply valves to the inlet valve itself, or less commonly a water-level sensing issue that prevents the control from recognizing the fill is complete.
+
+## Before You Replace Anything
+
+Homeowners sometimes replace the control board or pressure switch first. Always verify both wall faucets are fully open and clean the inlet screens before replacing electrical parts.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Water supply shutoff valves not fully open** One or both hot and cold supply valves behind the washer are closed or only partially open, restricting flow.
-- **Hot and cold hoses reversed** Frigidaire specifically identifies reversed hot and cold supply connections as a known installation error that triggers E11.
-- **Kinked or clogged inlet hoses and screens** The fill hoses are bent or the fine mesh screens inside the inlet connections are blocked with sediment or debris.
-- **Low household water pressure** Incoming water pressure below 30 psi or a building-wide low-pressure condition prevents the washer from filling in time.
-- **Failed inlet valve assembly** The solenoid valve inside the washer does not open when energized, or it leaks water when power is removed.
-- **Faulty pressure switch or sensor** The pressure-sensing component that tells the control board the tub is filling does not register water level correctly.
+- **Partially closed supply faucets (~30%)** One or both hot and cold water shutoff valves at the wall are not turned fully open, restricting flow to the machine.
+- **Clogged inlet screens (~25%)** Sediment, rust, or debris in the household water supply has accumulated in the fine mesh screens inside the inlet valve ports.
+- **Kinked or restricted fill hoses (~20%)** The rubber or braided fill hoses are pinched, twisted, or blocked, preventing adequate water flow to the inlet valve.
+- **Faulty water inlet valve (~15%)** The inlet valve solenoid coils are electrically open or the valve body is mechanically stuck, so the valve will not open when energized.
+- **Siphoning from improper drain setup (~7%)** The drain hose is pushed too far into the standpipe or is below the water level in the tub, causing fill water to siphon out during the fill cycle.
+- **Pressure switch or wiring fault (~3%)** The water-level pressure switch, air-dome hose, or control wiring is damaged or disconnected, so the control cannot detect the correct fill level.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Are both hot and cold water faucets at the wall turned fully open?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Water supply is available. Move on to inspecting the fill hoses and inlet screens.<br><strong>No:</strong> Turn both faucets completely counterclockwise to open. Run a test cycle to see if the error clears.</div>
+</details>
+
+<details class="dtree"><summary>When you disconnect the fill hoses at the machine, does water flow freely from each hose?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Hoses and faucets are good. Inspect the inlet screens on the valve and check for siphoning at the drain hose.<br><strong>No:</strong> Replace kinked or blocked fill hoses and check household water pressure.</div>
+</details>
+
+<details class="dtree"><summary>Is the drain hose inserted more than 4-5 inches into the standpipe or below the tub water line?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Pull the drain hose out so only the hook end sits in the standpipe to prevent siphoning during fill.<br><strong>No:</strong> Drain setup is correct. Test or replace the water inlet valve and check the pressure switch circuit.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Verify both water supply valves** behind the washer are turned fully counterclockwise to the open position and that the household water supply is on.
-2. **Check that hot and cold hoses** are connected to the correct inlets on the back of the washer, since reversed lines are a common installation mistake.
-3. **Inspect the inlet hoses** for kinks, twists, or pinch points where they connect to the wall or washer, and straighten or replace any damaged hoses.
-4. **Remove the fill hoses** from the washer inlet ports and pull out the fine mesh inlet screens with needle-nose pliers, then rinse them under running water to clear any sediment.
-5. **Measure incoming water pressure** at the supply or confirm it is at least 30 psi using a pressure gauge on a hose bib or washing machine outlet.
-6. **Test the inlet valve** by removing power from the washer and observing whether water flow stops completely at the valve, then replace the valve assembly if water continues to leak through.
-7. **Check the pressure switch or pressure sensor** according to your model's service manual if all water supply checks pass, and replace the failed pressure-sensing component if out of specification.
-8. **Replace the main control board** if water supply, inlet valve, and pressure sensor all test good but the E11 error persists.
+1. **Unplug the washer** and turn off both hot and cold water supply faucets at the wall.
+2. **Verify the faucets are fully open.** Turn each valve completely counterclockwise and confirm strong water flow from a nearby sink or faucet on the same supply line.
+3. **Inspect the fill hoses** for kinks, twists, or pinches along their length. Straighten or replace any damaged hose.
+4. **Remove the fill hoses** from the back of the washer and examine the inlet screens in the valve ports. Use needle-nose pliers to pull each screen and rinse under running water or replace if heavily clogged.
+5. **Check the drain hose installation.** Make sure the hose is not inserted more than 4-5 inches into the standpipe and that the standpipe is at least 30 inches tall to prevent siphoning.
+6. **Reconnect the hoses**, turn the water back on, and plug in the washer. Run a test cycle to see if the error clears.
+7. **Test the inlet valve** if the error persists. Disconnect power, remove the top or rear panel, locate the valve, and check each solenoid coil for continuity. Replace the inlet valve assembly if any coil reads open or if the valve body is mechanically stuck.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Water inlet valve assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-washer-e11-error-code&k=Water+inlet+valve+assembly&tag=errorcodefixes-20) \| Replace if water leaks through when power is off or valve does not open when energized. |
-| Pressure switch or pressure sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-washer-e11-error-code&k=Pressure+switch+or+pressure+sensor&tag=errorcodefixes-20) \| Model-specific part that monitors water level in the tub. |
-| Main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-washer-e11-error-code&k=Main+control+board&tag=errorcodefixes-20) \| Last replacement if all upstream components pass testing. |
+| Water inlet valve assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-washer-e11-error-code&k=Water+inlet+valve+assembly&tag=errorcodefixes-20) \| Match your model number. Most valves are two-solenoid, dual-port assemblies. |
+| Inlet screen filters | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-washer-e11-error-code&k=Inlet+screen+filters&tag=errorcodefixes-20) \| Fine mesh screens that sit in the valve inlet ports. Often sold as a kit or included with a new valve. |
+| Fill hoses | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-washer-e11-error-code&k=Fill+hoses&tag=errorcodefixes-20) \| Rubber or braided stainless hoses, typically 5 or 6 feet long with standard 3/4-inch female threaded ends. |
 
 ## When to Call a Pro
 
-If you have verified the water supply valves are fully open, corrected any reversed hoses, cleaned the inlet screens, and confirmed household water pressure is adequate but the E11 code returns, the fault is likely inside the machine. Testing the inlet valve, pressure sensor, and control board requires a multimeter and familiarity with your model's wiring diagram. A qualified appliance technician can isolate the failed component quickly and avoid unnecessary parts replacement.
+Call a professional if you have verified the faucets are open, cleaned or replaced the inlet screens, checked the hoses, corrected the drain hose setup, and tested or replaced the inlet valve, yet the E11 fault still appears. At that point the problem is likely in the pressure switch, air-dome hose, wiring harness, or control board. A technician has the tools and model-specific wiring diagrams to trace the water-level sensing circuit and isolate the fault without replacing parts by trial and error.
+
+**Rough cost:** DIY runs about $10-40 in parts, 30-60 min. A pro service call runs about $150-300.

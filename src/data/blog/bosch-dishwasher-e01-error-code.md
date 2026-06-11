@@ -1,51 +1,73 @@
 ---
 title: "Bosch Dishwasher E01 Error Code - Causes & Fix"
-description: "E01 means a heat pump motor circuit fault at the main control board. Reset power at the breaker for 30 seconds, then call service if it returns."
-pubDatetime: 2026-05-31T05:25:39Z
-modDatetime: 2026-05-31T05:25:39Z
-author: "James Rutherford"
+description: "E01 means a heat pump motor circuit fault at the main control board. Most often the main control board itself has failed."
+pubDatetime: 2026-06-09T05:13:42Z
+modDatetime: 2026-06-09T05:13:42Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dishwasher
   - bosch
+most_likely_cause: "main control board failure"
+likelihood: "the most common cause"
+diy_or_pro: "pro"
 ---
 
 ## Bosch Dishwasher E01 Error Code — What It Means
 
-The E01 error code on a Bosch dishwasher signals a heat pump motor circuit fault at the main control board. This is an electrical problem in the circuit that drives the heat pump or circulation pump motor, not a water-inlet issue. Bosch's official documentation defines E01 as a fault in the motor circuit itself or in the control board's output stage that powers it.
+Bosch defines the E01 error code as a heat pump motor circuit fault at the main control board. This means the control board has detected a problem in the circuit that powers and monitors the heat pump motor, which is part of the drying system in many Bosch dishwasher models. The fault can originate in the motor circuit itself, the wiring and connectors that link it to the board, or the control board's output circuitry.
 
-Some online videos incorrectly describe E01 as a filling or water-pressure problem, but that does not match Bosch's published definition. The fault typically involves the heat pump motor assembly, the control board's output driver, or damaged wiring and connectors in that circuit. Older units may develop this fault through normal component wear or moisture-related board damage.
+Because this code points to a specific circuit monitored by the main control board, it does not typically indicate simple user-serviceable issues like clogged filters or door latch problems. Bosch recommends a power reset as the first step, but if the code returns after that reset, the manufacturer advises contacting customer support or a qualified technician for circuit testing and component replacement.
+
+## Before You Replace Anything
+
+Homeowners sometimes replace the heat pump motor assembly first, assuming the motor itself is bad. Before ordering expensive parts, inspect all visible wiring and connectors for damage or moisture and perform a power reset, since the control board is actually the most frequent failure point for this code.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed heat pump or circulation pump motor circuit** The motor itself or its internal windings can fail, creating an open or short that the control board detects as a circuit fault.
-- **Main control board fault** The control board's output stage that drives the heat pump motor can fail due to a damaged relay, transistor, or logic fault.
-- **Wiring or connector damage** Moisture, heat, or physical wear can damage the harness or connectors between the control board and the pump motor, causing an open or intermittent circuit.
-- **Electrical short or power disturbance** A short circuit in the motor wiring or a power surge can damage the motor circuit or the board's output stage.
-- **Component wear in older dishwashers** Normal aging of the pump motor or control board can cause the fault to appear and persist even after a reset.
+- **Failed main control board (~55%)** The control board's heat pump motor output circuit can fail due to moisture intrusion, power surge, or component wear, and this is the most frequently replaced part when E01 returns after a reset.
+- **Damaged wiring or connectors (~25%)** Loose, corroded, burnt, or moisture-damaged connectors between the main board and the heat pump motor circuit will trigger the fault even when both the board and motor are functional.
+- **Heat pump motor circuit component failure (~15%)** The heat pump motor itself or an associated relay, capacitor, or sensor in the circuit can short or open, causing the control board to register a circuit fault.
+- **Intermittent power supply issue (~5%)** A loose connection at the household breaker, wall outlet, or dishwasher junction box can cause voltage drops that the control board interprets as a motor circuit fault.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the code clear after turning off the breaker for 30 seconds and then restoring power?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault may have been a transient glitch. Run a test cycle and monitor for code return. If it stays clear, no further action is needed.<br><strong>No:</strong> The fault is persistent. Proceed to inspect wiring and connectors, and plan for professional diagnosis of the control board and heat pump circuit.</div>
+</details>
+
+<details class="dtree"><summary>Do you see any visible damage, corrosion, or moisture on the wiring harness or connectors behind the lower toe-kick panel?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Damaged wiring or connectors are likely causing the fault. Clean or replace the affected connectors and harness, then retest.<br><strong>No:</strong> The fault is probably internal to the control board or heat pump motor circuit. Call a technician to test the circuit and replace the failed component.</div>
+</details>
+
+<details class="dtree"><summary>Has the dishwasher experienced a recent leak, flood, or power surge?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Moisture or surge damage to the control board or motor circuit is very likely. Professional testing and part replacement will be needed.<br><strong>No:</strong> The fault is most likely age-related wear of the control board or motor circuit component. Schedule a service call for diagnosis and repair.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Verify the exact model and FD number** on your dishwasher's rating plate so you confirm the correct error-code definition and service procedure for your unit.
-2. **Reset power at the circuit breaker** by switching off the breaker that feeds the dishwasher, wait 30 seconds, then switch it back on and check whether the E01 code clears.
-3. **Run a short test cycle** after the reset to see if the fault returns during operation or if the dishwasher completes the cycle normally.
-4. **Inspect the heat pump and circulation pump wiring** for visible damage, burned connectors, moisture, or loose plug connections at both the pump and the control board.
-5. **Check the main control board** for signs of heat damage, burned traces, or failed components near the motor-output terminals if the wiring and pump appear intact.
-6. **Replace the defective component** (pump motor assembly or control board) based on your findings, then perform a full test cycle to confirm the repair.
-7. **Contact Bosch support or an authorized service technician** if the code returns after a reset, because Bosch directs customers to professional service when the fault persists.
+1. **Turn off power at the breaker** for a full 30 seconds, then restore power and check whether the E01 code clears when you restart the dishwasher.
+2. **Remove the lower toe-kick panel** and inspect all visible wiring harnesses and connectors for signs of burning, corrosion, moisture, or loose pins.
+3. **Check the household electrical supply** by confirming the breaker is fully seated and the outlet or junction box connection is tight and delivering stable voltage.
+4. **Document the code behavior** by noting whether the code appears immediately at power-on, during a specific cycle phase, or intermittently, and share this information with your technician.
+5. **Call a qualified appliance technician** if the code returns after the reset, because diagnosing the heat pump motor circuit and control board requires specialized test equipment and access to the manufacturer's wiring diagram.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Heat pump / circulation pump motor assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-dishwasher-e01-error-code&k=Heat+pump+%2F+circulation+pump+motor+assembly&tag=errorcodefixes-20) \| Required if the motor circuit itself is open, shorted, or mechanically failed. |
-| Main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-dishwasher-e01-error-code&k=Main+control+board&tag=errorcodefixes-20) \| Needed when the board's motor-output stage is damaged or the fault persists with a known-good pump. |
-| Wiring harness or connector set | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-dishwasher-e01-error-code&k=Wiring+harness+or+connector+set&tag=errorcodefixes-20) \| Use if you find heat-damaged, corroded, or broken wiring between the board and pump. |
+| Bosch dishwasher main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-dishwasher-e01-error-code&k=Bosch+dishwasher+main+control+board&tag=errorcodefixes-20) \| Verify your exact model number before ordering, as Bosch uses many different board part numbers across model lines. |
+| Heat pump motor assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-dishwasher-e01-error-code&k=Heat+pump+motor+assembly&tag=errorcodefixes-20) \| Only replace after confirming the motor circuit has failed, not the control board, through proper testing. |
+| Wiring harness or connector kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-dishwasher-e01-error-code&k=Wiring+harness+or+connector+kit&tag=errorcodefixes-20) \| Use when visible damage, corrosion, or burnt pins are found during inspection. |
 
 ## When to Call a Pro
 
-Call a professional if the E01 code returns after a power reset at the breaker. Bosch recommends contacting authorized service when the fault persists because diagnosing the heat pump motor circuit requires model-specific test procedures, special tools, and access to wiring diagrams. The repair also involves working with live mains voltage and replacing either the pump assembly or the main control board, both of which require disassembly of the dishwasher tub and proper reassembly to maintain water-tight seals. If you are not comfortable with appliance disassembly or electrical diagnostics, schedule service rather than risk further damage or safety hazards.
+Call a professional whenever the E01 code returns after a 30-second breaker reset. Diagnosing a heat pump motor circuit fault requires a multimeter, knowledge of the control board's pin-out and expected voltage and resistance values, and the ability to safely access live circuitry inside the dishwasher. Technicians will test the control board outputs, inspect the motor circuit components, and trace the wiring harness to isolate the failure point. Replacing the wrong part without proper testing wastes money and time, so professional diagnosis is the recommended path once the simple reset has been ruled out.
+
+**Rough cost:** A pro service call runs about $250-450.

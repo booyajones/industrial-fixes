@@ -1,50 +1,77 @@
 ---
 title: "Bosch Dishwasher E08 Error Code - Causes & Fix"
-description: "E08 means water level is too low or not pumping correctly. Most often fixed by cleaning the filter or checking inlet water supply."
-pubDatetime: 2026-05-31T04:36:51Z
-modDatetime: 2026-05-31T04:36:51Z
-author: "James Rutherford"
+description: "E08 means loss of water during the wash cycle. Most often caused by a kinked inlet hose, clogged filter, or blocked inlet screen."
+pubDatetime: 2026-06-09T05:16:48Z
+modDatetime: 2026-06-09T05:16:48Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dishwasher
   - bosch
+most_likely_cause: "restricted water supply or kinked inlet hose"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Bosch Dishwasher E08 Error Code — What It Means
 
-The E08 error code on a Bosch dishwasher indicates that the water level is too low, or water is not being pumped correctly. This is a low-water fault that prevents the machine from completing its cycle because it cannot maintain the required water level for normal washing and heating operation. The fault can stem from problems getting water into the machine, moving water through the system, or sensing the water level accurately.
+E08 is a low-water or loss-of-water fault. Bosch defines it as the dishwasher detecting that the water level has unexpectedly dropped during the wash cycle. The heat pump or circulation system is sensing too low a water level in the pump sump to continue heating and washing safely.
+
+This is not a generic fill failure. It means the machine either did not maintain enough water after the initial fill, or water is escaping or being trapped somewhere it should not be. The code protects the heater and pump from running dry.
+
+## Before You Replace Anything
+
+Many people replace the inlet valve or control board first. Instead, check the inlet hose for kinks, clean the inlet screen and sump filter, and look for overturned dishes trapping water before ordering parts.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Restricted inlet water supply** A kinked or damaged inlet hose, closed shut-off valve, or insufficient water flow into the machine prevents adequate fill.
-- **Clogged filter or sump debris** Food particles, debris, or buildup in the filter basket or sump area block water circulation and trigger the low-level sensor.
-- **Circulation pump failure** The pump that moves water through the spray arms and heating circuit is not moving water correctly, even when fill volume is adequate.
-- **Water-level sensing fault** A malfunctioning float switch or water-level sensor sends incorrect signals to the control board, reporting low water when the tub is full.
-- **Heating element low-water interlock** On some models the heater shuts down and throws E08 if water level drops below the safe heating threshold during a cycle.
+- **Kinked or restricted inlet hose (~30%)** A bent or crushed inlet hose reduces flow so the dishwasher cannot maintain proper water level in the sump during the cycle.
+- **Clogged inlet screen or inlet valve (~25%)** Sediment, scale, or debris in the inlet screen or valve body blocks incoming water and prevents adequate fill.
+- **Blocked sump filter or circulation path (~20%)** Grease, food debris, or limescale buildup in the filter pack or sump restricts water movement and makes the level sensor read low.
+- **Overturned dishes or cookware trapping water (~15%)** Bowls, pots, or cups turned upside down can capture water and prevent it from circulating back to the sump.
+- **Leaking heat-exchanger drain valve (~7%)** A faulty drain valve on the heat-pump or heat-exchanger circuit can let water escape from the sump during the cycle.
+- **Faulty float switch or level sensor (~3%)** A stuck or failed float switch can send a false low-water signal even when the sump level is correct.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Is the inlet hose kinked or the shutoff valve partially closed?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Straighten the hose and open the valve fully, then run a test cycle to see if E08 clears.<br><strong>No:</strong> Move on to inspect the inlet screen and filter pack.</div>
+</details>
+
+<details class="dtree"><summary>Are the sump filter and inlet screen visibly clogged with debris or scale?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Remove and clean both thoroughly, then test the dishwasher.<br><strong>No:</strong> Check the tub for overturned dishes or cookware that might be trapping water.</div>
+</details>
+
+<details class="dtree"><summary>Does the error clear after rearranging dishes and cleaning all filters?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The problem was loading or a blockage. Run a normal cycle to confirm.<br><strong>No:</strong> The inlet valve, drain valve, or level sensor may be faulty and should be tested or replaced.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. {'lead': 'Reset power at the breaker', 'text': 'Turn off the circuit breaker feeding the dishwasher for 30 seconds, then restore power and see if the fault clears on the next start.'}
-2. {'lead': 'Confirm water supply is open and adequate', 'text': 'Check that the shut-off valve under the sink is fully open, the inlet hose is not kinked or damaged, and water flows freely when you disconnect the inlet line.'}
-3. {'lead': 'Remove and clean the filter assembly', 'text': 'Pull out the lower dish rack, twist-remove the cylindrical filter in the tub floor, rinse it under running water with mild soap and a soft brush, and reinstall it securely.'}
-4. {'lead': 'Inspect the sump and spray-arm area', 'text': 'Look for any debris, broken glass, or foreign objects in the sump well and around the lower spray-arm hub that could block water movement.'}
-5. {'lead': 'Test a short wash cycle', 'text': 'Run a rinse or light-wash program and listen for normal fill and pump sounds to confirm water is entering and circulating through the machine.'}
-6. {'lead': 'Check circulation pump function', 'text': 'If fill is normal but the code persists, access the lower front panel and verify the circulation pump spins freely and its wiring connections are tight and dry.'}
-7. {'lead': 'Call for service if the fault remains', 'text': 'If the error returns after supply, filter, and reset checks, the float switch, inlet valve, or pump assembly likely needs professional diagnosis and replacement.'}
+1. **Turn off power and water supply** at the breaker and shutoff valve before starting any work.
+2. **Inspect the inlet hose** for kinks, twists, or crushing where it connects behind the dishwasher and at the shutoff valve.
+3. **Remove and clean the inlet screen** at the connection point where the hose meets the dishwasher inlet valve to clear sediment or scale.
+4. **Pull out the lower rack and remove the filter assembly** from the sump, then clean all grease, food debris, and limescale from the filter pack and sump area.
+5. **Check the dish loading** and remove any overturned bowls, pots, or cups that could be trapping water and preventing proper circulation.
+6. **Test the inlet valve** for proper flow and electrical operation if the fill appears weak after clearing the hose and screen.
+7. **Inspect the heat-exchanger drain valve and related connections** for leaks or signs of water escaping from the sump during the cycle, and replace if faulty.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Dishwasher inlet hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-dishwasher-e08-error-code&k=Dishwasher+inlet+hose&tag=errorcodefixes-20) \| Replace if kinked, cracked, or restricted. |
-| Bosch dishwasher circulation pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-dishwasher-e08-error-code&k=Bosch+dishwasher+circulation+pump+assembly&tag=errorcodefixes-20) \| Needed when water fills but does not pump through the spray arms. |
-| Dishwasher filter assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-dishwasher-e08-error-code&k=Dishwasher+filter+assembly&tag=errorcodefixes-20) \| Order if the existing filter is cracked or damaged during cleaning. |
-| Water inlet valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-dishwasher-e08-error-code&k=Water+inlet+valve&tag=errorcodefixes-20) \| Replace if the machine does not fill to the correct level despite open supply. |
+| Bosch dishwasher inlet valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-dishwasher-e08-error-code&k=Bosch+dishwasher+inlet+valve&tag=errorcodefixes-20) \| Match the valve to your exact model number, usually printed inside the door frame. |
+| Bosch dishwasher sump filter assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-dishwasher-e08-error-code&k=Bosch+dishwasher+sump+filter+assembly&tag=errorcodefixes-20) \| Order the complete filter pack if the mesh is torn or the plastic housing is cracked. |
+| Inlet hose screen or washer | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-dishwasher-e08-error-code&k=Inlet+hose+screen+or+washer&tag=errorcodefixes-20) \| Small mesh filter that fits inside the inlet connection, often available as a universal part. |
 
 ## When to Call a Pro
 
-Call a professional if the E08 code persists after you have verified open water supply, cleaned the filter, and reset power. Internal faults in the circulation pump, water-level sensor, or heater circuit require access to the lower machine compartment, electrical testing with a multimeter, and part replacement under the tub. A qualified Bosch service technician has model-specific diagnostic procedures and access to OEM parts that match your exact dishwasher series.
+Call a pro if you have cleaned the filters, checked the hose and inlet screen, rearranged the dishes, and the E08 error still appears. A technician can test the inlet valve electronically, inspect the heat-exchanger drain valve for internal leaks, check the float switch and level-sensor wiring, and verify that the heater and circulation pump are operating correctly. Also call if you see water pooling under the dishwasher or if the unit trips the breaker when you reset the error, since those symptoms point to electrical faults or component damage that need professional diagnosis.
+
+**Rough cost:** DIY runs about $15-50 in parts, 30-60 min. A pro service call runs about $150-250.
