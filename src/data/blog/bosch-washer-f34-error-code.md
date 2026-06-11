@@ -1,51 +1,77 @@
 ---
 title: "Bosch F34 Error Code - Causes & Fix"
-description: "F34 means the door lock failed or the door isn't fully latched. Check for obstructions, then test or replace the door lock assembly."
-pubDatetime: 2026-05-31T02:56:30Z
-modDatetime: 2026-05-31T02:56:30Z
-author: "James Rutherford"
+description: "F34 on a Bosch washer means door-lock fault. Most common: debris or clothing blocking the latch. Clear the strike area and close firmly."
+pubDatetime: 2026-06-09T19:24:32Z
+modDatetime: 2026-06-09T19:24:32Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
-  - washer
   - bosch
-money_part: "Bosch washer door lock assembly (interlock)"
+money_part: "Bosch washer door lock / interlock assembly"
+most_likely_cause: "debris or clothing obstructing the latch area"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Bosch F34 Error Code — What It Means
 
-The F34 error code on a Bosch washer indicates a door-lock or door-not-closed fault. The machine has detected that the door is not securely latched or that the door lock circuit is not confirming a valid lock state. In Bosch documentation and repair references, this condition may also appear as E16 or F16 depending on the model and software variant, but all point to the same underlying door-lock issue. The washer will not start or continue a cycle until the door lock confirms secure engagement.
+F34 on a Bosch washing machine indicates a door-lock or door-latch fault. The machine is detecting that the door is not properly closed or the lock signal is not being received correctly by the control system. The washer's safety interlock is not confirming a secure door state, so the program will not start or the door may not release at the end of the cycle.
+
+This code points specifically to the door interlock system rather than a wash-motor, drain, or other fault. The control board expects a clear confirmation that the door is latched and locked before allowing a wash cycle to begin. When that confirmation does not arrive, F34 is triggered and the machine halts.
+
+## Before You Replace Anything
+
+Homeowners often replace the door lock assembly first. Before ordering parts, inspect the door striker and hinge for wear or misalignment, and verify the door closes with a clear click.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Door not fully closed** The door latch did not engage completely, leaving the lock unable to confirm secure closure.
-- **Obstruction at the door or gasket** Clothing, debris, or a misaligned gasket prevents the door from closing all the way and engaging the latch.
-- **Worn or broken door lock assembly** The door interlock mechanism has failed internally and cannot actuate or signal a locked state.
-- **Damaged door handle, hook, or striker** The door hardware that engages the lock is broken, worn, or has lost spring tension.
-- **Loose or corroded wiring at the lock** The electrical connector at the door lock assembly is not seated firmly or shows signs of corrosion, causing intermittent faults.
-- **Control reset issue after a transient fault** On some Bosch models, a stored fault code persists even after the mechanical problem is corrected, requiring a service reset.
+- **Debris or clothing blocking the latch (~35%)** Laundry or foreign objects trapped in the striker or latch area prevent the door from seating fully and the interlock from engaging.
+- **Worn or misaligned door latch or strike (~25%)** The latch tongue or strike plate is worn, bent, or out of alignment so the door does not latch with a positive click.
+- **Faulty door lock or interlock assembly (~20%)** The electronic door lock mechanism itself has failed and cannot signal the control board that the door is secure.
+- **Sagging or damaged door hinge (~10%)** A worn hinge allows the door to sag and misalign with the strike, preventing full engagement even when the door appears closed.
+- **Damaged wiring or loose connector to the lock (~7%)** Corrosion, breaks, or loose plugs in the harness between the door lock and the main control board interrupt the lock signal.
+- **Main control PCB not reading the lock circuit (~3%)** The control board input stage is faulty and fails to recognize a valid lock signal even when the lock is working correctly.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the door close with a clear, firm click when you push it shut?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The latch is engaging mechanically. Proceed to test the interlock by powering off the washer for 15 minutes, then try a cycle. If F34 persists, suspect the lock assembly or wiring.<br><strong>No:</strong> The latch is not engaging. Inspect for clothing, debris, or objects blocking the strike area. Check the door hinge for sag and the latch tongue for wear.</div>
+</details>
+
+<details class="dtree"><summary>Is the door stuck closed and will not release?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Check if child lock is active. Drain any water inside, then locate the emergency door release behind the lower front service flap and pull to open. If the lock does not release, replace the interlock assembly.<br><strong>No:</strong> The door opens normally but the lock will not engage. Inspect the latch alignment and test the interlock assembly for proper operation.</div>
+</details>
+
+<details class="dtree"><summary>After a power reset, does the door lock and the cycle start without F34?</summary>
+<div class="dtree-body"><strong>Yes:</strong> A transient fault state has cleared. Monitor the next few cycles. If F34 returns, the lock or control board may be failing intermittently.<br><strong>No:</strong> The fault is persistent. Replace the door lock assembly if the latch and wiring are intact, or call a technician to check the control board input circuit.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Verify mechanical closure first.** Open and close the door firmly, checking that the latch hook engages and you hear or feel a positive click. Inspect the door opening, gasket, and latch area for clothing, debris, or misalignment that might prevent full closure.
-2. **Check the door hardware.** Examine the door handle, latch hook, and striker for damage, excessive wear, or weak spring action. If any component is broken or loose, repair or replace it before proceeding.
-3. **Inspect the door lock assembly and connector.** Unplug the washer, then access the door lock (usually behind the front panel or through the door opening). Check that the wiring connector is fully seated and free of corrosion. Wiggle the connector and harness to reveal any intermittent faults.
-4. **Test the door lock for actuation.** With the door closed and the lock visible, start a short cycle and observe whether the lock mechanism moves or clicks. If the lock does not actuate or if the fault persists after confirmed closure, the lock assembly has likely failed.
-5. **Replace the door lock assembly.** Remove the screws or clips securing the old lock, disconnect the wiring, and install the new interlock assembly. Reconnect the harness and secure the lock in place.
-6. **Reassemble and reset the control if needed.** Some Bosch models require a service reset or a power cycle to clear stored fault codes after lock replacement. Consult your service manual for the reset procedure for your model.
-7. **Run a test cycle.** Restore power, close the door, and start a short wash cycle. Confirm that the door locks, the machine starts without displaying F34, and the cycle completes normally.
+1. **Open the door and inspect the latch area.** Remove any clothing, lint, or debris trapped around the door striker, latch tongue, and gasket lip that could prevent the door from seating fully.
+2. **Close the door firmly and listen for a positive click.** The latch must engage the strike with an audible snap. If no click is heard, the door is not latching mechanically.
+3. **Check the door hinge and strike alignment.** Look for sag, looseness, or wear on the hinge. Verify the latch tongue aligns with the strike plate when the door is closed. Adjust or replace worn parts as needed.
+4. **Power off the washer for about 15 minutes.** Disconnect the mains plug or turn off the breaker to clear any latched fault state in the control system, then restore power and test a cycle.
+5. **Test the door lock assembly.** If the door latches mechanically but F34 persists, the interlock is the primary suspect. Listen for the click of the lock solenoid when you start a cycle. If no click is heard, the lock is not receiving power or has failed.
+6. **Inspect the wiring harness and connectors.** Trace the wires from the door lock to the main control board. Look for damaged insulation, corrosion, or loose plugs. Clean and reseat connectors if necessary.
+7. **Replace the failed component.** Install a new door lock or interlock assembly if the mechanical latch is sound but the lock does not engage. Replace the latch or strike if worn or broken. If all components check good, the control PCB input stage may be faulty and require board-level repair or replacement.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Bosch washer door lock assembly (interlock) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-f34-error-code&k=Bosch+washer+door+lock+assembly+%28interlock%29&tag=errorcodefixes-20) \| The primary replacement part when the fault persists after verifying closure. Match by model E-Nr. |
-| Door handle or latch striker kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-f34-error-code&k=Door+handle+or+latch+striker+kit&tag=errorcodefixes-20) \| Replace if the door hardware is broken, worn, or preventing secure engagement of the lock. |
-| Wiring harness connector (door lock) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-f34-error-code&k=Wiring+harness+connector+%28door+lock%29&tag=errorcodefixes-20) \| Only if inspection shows damage, looseness, or corrosion at the lock connector. |
+| Bosch washer door lock / interlock assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-f34-error-code&k=Bosch+washer+door+lock+%2F+interlock+assembly&tag=errorcodefixes-20) \| Match your E-Nr model number stamped on the washer rating plate. Most Bosch front-load washers use a three-contact or four-contact lock module. |
+| Door latch / strike / lock tongue | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-f34-error-code&k=Door+latch+%2F+strike+%2F+lock+tongue&tag=errorcodefixes-20) \| Order the latch or striker that fits your door frame. Check for visible wear or damage before replacing the entire lock assembly. |
+| Door hinge kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-f34-error-code&k=Door+hinge+kit&tag=errorcodefixes-20) \| Replace if the hinge is bent, cracked, or allows the door to sag out of alignment with the strike. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if you are uncomfortable working with front-panel disassembly, if the fault returns after replacing the door lock and verifying all hardware, or if your Bosch model requires a proprietary service reset procedure that is not accessible through the user interface. A technician can also diagnose intermittent wiring faults or control board issues that may mimic a door-lock failure, and can confirm that the replacement lock is compatible with your exact E-Nr model number.
+Call a professional if the door lock, latch, and wiring all test good but F34 persists. The control board input circuit or door-lock relay may be faulty and require board-level diagnosis with a multimeter and wiring diagram. Also call a technician if you are uncomfortable working with mains-voltage wiring, if the washer is still under warranty, or if the door remains stuck closed after using the emergency release and you cannot safely access the lock assembly for replacement.
+
+**Rough cost:** DIY runs about $50-120 in parts (lock assembly or latch), 30-60 min. A pro service call runs about $150-250 service call including parts and labor.

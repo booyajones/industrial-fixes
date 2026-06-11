@@ -1,49 +1,76 @@
 ---
 title: "KitchenAid F7E2 Error Code - Causes & Fix"
-description: "F7E2 means the wash motor is locked or stalled. Most often fixed by clearing debris from the pump or replacing the wash motor."
-pubDatetime: 2026-05-31T04:44:10Z
-modDatetime: 2026-05-31T04:44:10Z
-author: "Marcus Webb"
+description: "F7E2 means the control detected a wash motor fault. Most common fix: replace the circulation motor after a power reset fails to clear it."
+pubDatetime: 2026-06-09T19:30:38Z
+modDatetime: 2026-06-09T19:30:38Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
-  - dishwasher
   - kitchenaid
-money_part: "Wash motor / circulation pump assembly"
+money_part: "Circulation pump motor (wash motor)"
+most_likely_cause: "failed wash motor or circulation pump motor"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## KitchenAid F7E2 Error Code — What It Means
 
-The F7E2 code on a KitchenAid dishwasher means the control has detected that the wash motor is locked, stalled, or not responding as expected. This fault typically appears when the circulation pump cannot start or the control does not see the motor action it commands. KitchenAid's product help identifies F7E2 as a motor-related fault that can often be cleared by power-cycling the unit, though a return of the code after reset usually points to a real mechanical or electrical problem with the wash system.
+The F7E2 code on a KitchenAid dishwasher signals that the electronic control has detected a wash motor or circulation motor fault. KitchenAid's product support recommends first cycling power to the dishwasher to reset the control. If the code returns after the reset, the control is logging a real fault in the wash motor circuit, which may involve the motor itself, its wiring connections, or speed-sensing feedback.
+
+This fault prevents the dishwasher from completing a wash cycle because the control cannot confirm that the circulation pump is operating correctly. The code is not a user-interface glitch. It requires a power reset followed by inspection of the motor, harness, and sump area if the fault persists.
+
+## Before You Replace Anything
+
+Many people replace the control board first when F7E2 appears. Before ordering a board, inspect the motor harness for corrosion or looseness and check the sump for debris that can load the motor.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed wash motor** The circulation pump motor may be electrically open, shorted, mechanically seized, or otherwise unable to run when commanded by the control.
-- **Debris blocking the impeller** Food particles, broken glass, or mineral buildup in the sump or pump housing can physically prevent the motor from turning and trigger the fault.
-- **Loose or damaged wiring** Corroded, pinched, or disconnected connectors between the control board and wash motor can mimic a motor failure and cause the code to appear.
-- **Control board relay fault** If the main control does not energize the motor circuit correctly, the code can recur even when the motor itself tests good.
+- **Failed wash motor (~50%)** The circulation pump motor has internal windings or bearings that have failed and the motor will not spin or draws abnormal current.
+- **Loose or corroded motor wiring (~25%)** Connections at the motor plug or harness terminals are corroded, pinched, or loose, breaking the circuit or creating intermittent contact.
+- **Debris or obstruction in the sump (~15%)** Food particles, broken glass, or other debris jam the impeller or load the motor so it cannot reach normal speed.
+- **Faulty electronic control board (~8%)** The control board itself has a failed relay or driver circuit that cannot properly command or read the motor.
+- **Speed sensor issue (~2%)** Some models use a speed sensor in the motor assembly, and a failed sensor can prevent the control from confirming motor operation.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the code clear after unplugging the dishwasher for 30 seconds and restoring power?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault was transient. Run a test cycle and monitor for return. If it stays clear, the problem may have been a one-time glitch or a temporary obstruction.<br><strong>No:</strong> The fault is persistent. Proceed to inspect the motor, wiring, and sump for physical problems.</div>
+</details>
+
+<details class="dtree"><summary>Can you hear or feel the wash motor attempt to run when you start a cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The motor may be getting power but stalling or running erratically. Check for debris in the sump or a failing motor bearing.<br><strong>No:</strong> The motor is not running at all. Inspect the wiring harness and connectors first, then test the motor electrically.</div>
+</details>
+
+<details class="dtree"><summary>Are there any burn marks, corrosion, or water intrusion at the motor connector?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Replace the damaged harness or connector and retest. Wiring faults often mimic motor failures.<br><strong>No:</strong> The wiring is intact. The motor itself is the most likely cause and should be replaced.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Power-cycle the dishwasher** by unplugging the unit or turning off the circuit breaker for a full 30 seconds, then restore power and run a rinse cycle to see if the fault clears.
-2. **Remove the lower dish rack and pull the filter assembly**, then inspect the sump area and impeller for debris, glass shards, or any object that could jam the wash motor.
-3. **Check all visible wiring** from the control board to the wash motor for loose connectors, heat damage, corrosion, or pinched wires, and reseat any suspect connections.
-4. **Verify water supply** by confirming that the dishwasher fills normally during the start of a cycle, since low water can sometimes contribute to circulation complaints.
-5. **Test the motor circuit** by accessing the wash motor and confirming it receives proper voltage when the control commands a wash phase, or by manually checking motor continuity according to your model's service sheet.
-6. **Replace the wash motor assembly** if it is seized, hums without turning, or shows an open winding, or replace the control board if motor tests pass but the fault persists.
-7. **Run a full cycle** after any repair to confirm that the F7E2 code does not return and that spray arm rotation and wash performance are normal.
+1. **Reset power** by unplugging the dishwasher or switching off the circuit breaker for at least 30 seconds, then restore power and observe whether F7E2 returns immediately or after starting a cycle.
+2. **Remove the lower dish rack and filter assembly** to access the sump area at the bottom of the tub, and inspect for food debris, broken glass, or other obstructions around the impeller and pump inlet.
+3. **Disconnect power again** and pull the dishwasher out from the counter to reach the motor assembly underneath the tub, removing the lower access panel or kick plate as needed.
+4. **Inspect the wash motor wiring harness and connector** for looseness, corrosion, pinched wires, or burn marks, and wiggle each terminal to confirm solid contact.
+5. **Test the wash motor electrically** by disconnecting its harness plug and measuring continuity or resistance across the motor terminals, and replace the motor if it reads open or out of range for your model.
+6. **If the motor and wiring test good**, consult your model's tech sheet to enter diagnostic mode and command a motor test, and replace the electronic control board only if the motor will not run when commanded and all other checks pass.
+7. **Reassemble the dishwasher**, restore power, and run a short test cycle to confirm that F7E2 does not return and that water circulates normally during the wash phase.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Wash motor / circulation pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kitchenaid-dishwasher-f7e2-error-code&k=Wash+motor+%2F+circulation+pump+assembly&tag=errorcodefixes-20) \| Match by your full KitchenAid model number, usually found on the door jamb or inner tub rim. |
-| Main control board / electronic control | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kitchenaid-dishwasher-f7e2-error-code&k=Main+control+board+%2F+electronic+control&tag=errorcodefixes-20) \| Required if motor tests good but the board does not energize the circuit or continues to throw F7E2. |
-| Wiring harness or motor connector | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kitchenaid-dishwasher-f7e2-error-code&k=Wiring+harness+or+motor+connector&tag=errorcodefixes-20) \| Sold as a repair set if pins are corroded or the plug housing is heat-damaged. |
+| Circulation pump motor (wash motor) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kitchenaid-dishwasher-f7e2-error-code&k=Circulation+pump+motor+%28wash+motor%29&tag=errorcodefixes-20) \| Order by your dishwasher's full model number, usually on the door jamb or inner tub edge. |
+| Motor wiring harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kitchenaid-dishwasher-f7e2-error-code&k=Motor+wiring+harness&tag=errorcodefixes-20) \| Replace if you find corrosion, pinched insulation, or damaged terminals at the motor connector. |
+| Electronic control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kitchenaid-dishwasher-f7e2-error-code&k=Electronic+control+board&tag=errorcodefixes-20) \| Only if the motor and harness test good and the fault persists after a motor-command test in service mode. |
 
 ## When to Call a Pro
 
-If the code returns immediately after a power reset, if you find no visible debris or wiring damage, or if you are not comfortable working with live voltage or removing the lower access panel and motor assembly, call an appliance technician. Motor and control board diagnostics require a multimeter and familiarity with your model's wiring diagram. A qualified tech can quickly isolate whether the fault is mechanical, electrical, or board-related and perform the replacement safely under warranty terms if your unit is still covered.
+Call a technician if you are uncomfortable disconnecting power at the breaker, pulling the dishwasher out from the counter, or using a multimeter to test electrical continuity. Also call if the motor and wiring both test good but the code returns, since that scenario often requires entering service mode with the platform-specific key sequence and interpreting live diagnostic data. A pro can also confirm that the sump and impeller are clear and that the control board is driving the motor correctly before ordering expensive parts.
+
+**Rough cost:** DIY runs about $100–200 in parts (motor), 1–2 hours. A pro service call runs about $200–350 including labor and motor.

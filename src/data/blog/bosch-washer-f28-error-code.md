@@ -1,51 +1,77 @@
 ---
 title: "Bosch Washer F28 Error Code - Causes & Fix"
-description: "F28 means the flow sensor can't detect proper water flow. Check inlet supply valves, hoses, and sensor connections first."
-pubDatetime: 2026-05-31T04:24:04Z
-modDatetime: 2026-05-31T04:24:04Z
-author: "Dana Kowalski"
+description: "F28 means the flow sensor is faulty or not detecting water entering the machine. The most common fix is replacing the flow sensor."
+pubDatetime: 2026-06-09T19:23:47Z
+modDatetime: 2026-06-09T19:23:47Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - washer
   - bosch
-money_part: "Flow sensor"
+money_part: "Bosch washer flow sensor"
+most_likely_cause: "defective flow sensor"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Bosch Washer F28 Error Code — What It Means
 
-The F28 error code (sometimes displayed as E28) indicates a flow sensor fault on your Bosch washing machine. The control board is not receiving a valid signal from the flow sensor, so the machine cannot confirm that water is entering at the correct rate. Bosch's official documentation identifies this code specifically as a flow sensor issue, not a drain problem. The sensor monitors incoming water flow during the fill cycle. When the sensor circuit fails, is disconnected, or reports flow that doesn't match what the control expects, the machine stops and displays F28. This can happen because of an actual sensor or wiring failure, or because restricted water supply prevents normal flow and the sensor correctly reports the problem.
+The F28 (or E28) error code on a Bosch washer indicates a flow sensor fault. The machine is not correctly sensing incoming water flow, so the cycle may fail to start or stop mid-program. Bosch's official support pages classify this code as a faulty flow sensor issue, meaning the sensor that monitors water entering the drum is either defective or unable to see the expected flow.
+
+In practical terms, the washer thinks it is not receiving enough water even if the supply is on. The flow sensor monitors inlet flow rate and volume. When it fails or its circuit is interrupted, the control board throws F28 and halts the wash. This is primarily a water-inlet and fill-detection problem, not a drain fault.
+
+## Before You Replace Anything
+
+Many owners replace the control board first when the real culprit is the flow sensor itself or a loose connector at the sensor. Always test the sensor wiring and inspect the inlet path for blockage before replacing the board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Faulty flow sensor** The flow sensor itself has failed internally or its reed switch or Hall-effect element no longer generates a proper signal when water passes through.
-- **Loose or corroded sensor connector** The wiring harness plug at the flow sensor has worked loose, gotten wet, or developed corrosion that interrupts the signal path to the control board.
-- **Kinked or restricted inlet hoses** Supply hoses are bent, pinched behind the washer, or internally restricted so that actual water flow is too low for the sensor to register correctly.
-- **Closed or partially closed supply valves** One or both hot and cold shut-off valves at the wall are not turned fully open, limiting flow enough to trigger a sensor fault.
-- **Clogged inlet screens** Fine mesh filters inside the hose couplings at the back of the washer are packed with sediment or mineral buildup, choking flow before it reaches the sensor.
-- **Control board misreading the sensor** The main PCB has a fault in the sensor input circuit and interprets a valid signal as an error, though this is less common than sensor-side problems.
+- **Defective flow sensor (~50%)** The sensor element or internal switch has failed and no longer produces a valid signal when water passes through it.
+- **Wiring or connector fault (~20%)** A corroded terminal, loose plug, or broken wire at the flow sensor circuit prevents the control board from reading the sensor.
+- **Blocked or kinked inlet hose (~15%)** A restriction in the supply hose or inlet screen stops enough water from reaching the sensor, so it never registers proper flow.
+- **Low water pressure or supply shut off (~10%)** Inlet pressure below approximately 0.2 bar or a partially closed tap means the sensor cannot detect the minimum required flow.
+- **Control board fault (~5%)** The PCB fails to interpret a good sensor signal, throwing F28 even when the sensor and supply are correct.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Is the inlet tap fully open and water pressure strong at the hose?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Supply pressure is likely adequate. Move on to check the inlet hose and sensor.<br><strong>No:</strong> Open the tap fully and verify house water pressure. If pressure is weak throughout the home, call a plumber before replacing washer parts.</div>
+</details>
+
+<details class="dtree"><summary>Does disconnecting and inspecting the inlet hose show any kinks, debris, or clogged mesh screens?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Clean or replace the hose and screens, then test a cycle. A clear path may restore normal flow sensing.<br><strong>No:</strong> The inlet path is clear. The fault is likely the flow sensor itself or its wiring.</div>
+</details>
+
+<details class="dtree"><summary>After power-cycling the washer (unplugged for one minute), does the F28 code return immediately on the next fill attempt?</summary>
+<div class="dtree-body"><strong>Yes:</strong> A persistent code points to a failed sensor or board, not a transient glitch. Replace the flow sensor next.<br><strong>No:</strong> The error may have been a one-time control-state issue. Monitor the next few loads before ordering parts.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Unplug the washer** and turn off both hot and cold supply valves at the wall to make the work area safe.
-2. **Check both supply valves** are turned fully counterclockwise to the open position, then inspect the inlet hoses for kinks, sharp bends, or crushing where they connect or run behind the cabinet.
-3. **Remove both inlet hoses** from the back of the washer, pull out the fine mesh screens from each inlet port with needle-nose pliers, and rinse them under running water to clear any sediment or scale.
-4. **Locate the flow sensor** on the inlet water path inside the washer (you may need to remove the top or rear panel depending on your model), then unplug its connector and inspect the terminals and pins for moisture, green corrosion, or looseness.
-5. **Reconnect the sensor firmly**, reassemble any panels you removed, reattach the inlet hoses, turn on the water supply, and plug in the washer to test whether the code clears.
-6. **If F28 persists**, consult your model's service manual for flow-sensor test procedures (resistance or signal checks) or arrange service, because Bosch states this fault cannot be cleared without component-level repair or replacement.
-7. **After successful repair**, run a short rinse or test cycle to confirm normal fill behavior and verify the error does not return.
+1. **Turn off the washer and unplug it** from the wall. Shut off both hot and cold inlet taps at the back of the machine.
+2. **Disconnect the inlet hoses** from the back panel. Inspect the small mesh screens inside each inlet valve port for debris or mineral buildup and rinse them clean under running water.
+3. **Check the hoses themselves** for kinks, cracks, or internal blockage. Straighten any kinks and replace a damaged hose if found.
+4. **Power-cycle the washer** by leaving it unplugged for at least one minute, then plug it back in. This clears transient control faults. Reconnect the hoses, open the taps, and run a short rinse cycle to see if F28 returns.
+5. **Access the flow sensor** by removing the top or rear service panel (consult your model's service manual for exact location). The sensor is a small cylindrical or rectangular device inline with the inlet water path, with a two-wire or three-wire connector.
+6. **Inspect the sensor wiring and connector** for corrosion, loose pins, or breaks. Clean any oxidation with contact cleaner and press the connector firmly. If the wiring is damaged, repair or replace the harness.
+7. **Replace the flow sensor** if the fault persists after verifying supply, hoses, and wiring. Unclip or unscrew the old sensor, disconnect its plug, install the new sensor in the same orientation, and reconnect the harness. Reassemble the panels, restore power and water, and test a cycle.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Flow sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-f28-error-code&k=Flow+sensor&tag=errorcodefixes-20) \| Order the sensor assembly specific to your Bosch washer model number, usually located in the inlet manifold. |
-| Inlet hose screens (filter inserts) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-f28-error-code&k=Inlet+hose+screens+%28filter+inserts%29&tag=errorcodefixes-20) \| Universal fine-mesh screens if originals are damaged or too clogged to clean, sold individually or in valve-repair kits. |
-| Water inlet valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-f28-error-code&k=Water+inlet+valve&tag=errorcodefixes-20) \| Replace if the valve does not open fully or if poor flow is traced to a stuck solenoid rather than external supply issues. |
+| Bosch washer flow sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-f28-error-code&k=Bosch+washer+flow+sensor&tag=errorcodefixes-20) \| Match the part number on your old sensor or use your washer's model number to find the correct OEM or compatible sensor. |
+| Inlet hose with integrated screens | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-f28-error-code&k=Inlet+hose+with+integrated+screens&tag=errorcodefixes-20) \| If the original hose is kinked or cracked, replace it with a reinforced stainless-steel braided hose rated for washing-machine pressure. |
+| Washer control board (PCB) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-f28-error-code&k=Washer+control+board+%28PCB%29&tag=errorcodefixes-20) \| Only needed if a new sensor and verified wiring still produce F28. Confirm the part number from the board label inside the console. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if you've verified full water supply, cleaned the inlet screens, reseated the flow-sensor connector, and the F28 code still appears. Testing the sensor circuit requires a multimeter and your model's specifications, and the sensor itself is often buried behind panels or the inlet manifold. Bosch's own guidance states this fault cannot be rectified by the user and recommends arranging service. If you are uncomfortable working with live water connections, partially disassembling the cabinet, or interpreting wiring diagrams, professional diagnosis will quickly isolate whether the sensor, harness, or control board is at fault and make sure the correct part is replaced the first time.
+Bosch's official support states that the F28 flow sensor fault cannot be rectified by the user and recommends arranging professional service. Call a technician if you are uncomfortable working behind the washer panels, if the sensor location is unclear for your model, or if replacing the sensor and verifying all wiring does not clear the code. A pro can also test the control board and pressure-test the inlet valves to rule out less common causes. If your washer is under warranty, contact Bosch or an authorized service center before opening any panels.
+
+**Rough cost:** DIY runs about $30–80 for a flow sensor, 30–60 min. A pro service call runs about $150–300 for service call and sensor replacement.
