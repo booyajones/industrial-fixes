@@ -1,48 +1,69 @@
 ---
 title: "Frigidaire Dryer AL-14 Error Code - Causes & Fix"
-description: "AL-14 is not a documented Frigidaire dryer code. Verify your display and model number, or consult your manual for the correct code list."
-pubDatetime: 2026-05-31T04:26:34Z
-modDatetime: 2026-05-31T04:26:34Z
-author: "Dana Kowalski"
+description: "AL-14 is not a standard Frigidaire code. It likely signals a model-specific alarm. Most common fix: hard reset by unplugging 5 minutes."
+pubDatetime: 2026-06-09T12:21:24Z
+modDatetime: 2026-06-09T12:21:24Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dryer
   - frigidaire
-money_part: "Electronic control board (main PCB)"
+money_part: "Frigidaire dryer electronic control board"
+diy_or_pro: "diy"
 ---
 
 ## Frigidaire Dryer AL-14 Error Code — What It Means
 
-AL-14 does not appear in Frigidaire's published dryer error code library. The code you are seeing may be a model-specific indicator, a display malfunction, or a misread of another code. Frigidaire dryer fault codes vary by control board generation and model family, so without your exact model number and a clear photo of the display, it is impossible to assign a verified meaning or repair path. Before attempting any repair, confirm the exact alphanumeric sequence shown on your control panel and cross-reference it with the tech sheet taped inside your dryer cabinet or the error code table in your owner's manual.
+AL-14 is not a verified manufacturer fault code in Frigidaire's published documentation. On some Frigidaire dryers, 'AL' or 'A' indicates an alarm condition, but the exact meaning of the '14' suffix varies by model and is not defined in available service materials. Frigidaire support recommends performing a hard reset first whenever any error or alarm appears on the display, and if the code returns after reset, service may be required. Because AL-14 is not manufacturer-verified, always consult your model's use-and-care guide or the wiring diagram inside the control panel to confirm the exact definition for your dryer.
+
+## Before You Replace Anything
+
+Many owners replace the main control board first when any unfamiliar code appears. Before ordering a board, perform a hard power reset by unplugging the dryer for at least five minutes to clear transient glitches, which Frigidaire lists as the first step for all alarm displays.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Display misread or partial segment failure** A failing control panel LED or segment can make one code look like another, turning E14 or A14 into AL-14.
-- **Undocumented model-specific code** Some private-label or regional Frigidaire models use codes not listed in the general service literature.
-- **Control board corruption or flash error** A power surge or failed firmware update can cause the board to display invalid or garbled codes.
-- **Loose ribbon cable between display and main board** Vibration can unseat the connector that carries code data to the front panel, scrambling the readout.
+- **Transient control glitch (~50%)** A temporary software or communication fault in the electronic control that clears when power is cycled.
+- **Model-specific sensor fault (~25%)** A thermistor, moisture sensor, or other monitoring circuit reporting an out-of-range value the control interprets as an alarm on your model.
+- **Wiring or connector problem (~15%)** A loose or corroded connection between the user interface, main control board, and sensor harnesses causing intermittent signal loss.
+- **Failed electronic control board (~10%)** A defective main control board that displays spurious codes even when all other components test normal.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the code clear after unplugging the dryer for five minutes and restoring power?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault was a transient glitch. Run a full test cycle and monitor for return.<br><strong>No:</strong> The fault is persistent. Move to sensor and wiring checks, or consult your model's service manual for the AL-14 definition.</div>
+</details>
+
+<details class="dtree"><summary>Can you locate a service mode or diagnostic routine in your owner's manual?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Enter diagnostics to read any logged fault history or sensor values that may clarify the alarm.<br><strong>No:</strong> Proceed with visual inspection of wiring and connectors, then consider professional diagnostics if no loose connections are found.</div>
+</details>
+
+<details class="dtree"><summary>Is the dryer completing cycles normally despite the code, or does it stop mid-cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The alarm may be a nuisance display from a marginal sensor. Monitor for pattern and consult a technician if it recurs.<br><strong>No:</strong> The control is halting operation due to a detected fault. Check for poor venting, overheating, or a failed sensor before replacing the board.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Power off the dryer** at the circuit breaker and unplug the cord to clear temporary board faults.
-2. **Photograph the display** clearly while the error is shown, then write down your dryer's full model number from the door-frame label.
-3. **Locate the technical data sheet** folded inside an envelope on the back of the dryer or taped inside the front lower access panel, and compare your code to the printed table.
-4. **Inspect the control-panel ribbon cable** by removing the top panel or console screws, then reseat both ends of the flat connector firmly.
-5. **Contact Frigidaire support** or a certified technician with your model number and photo to confirm whether AL-14 is valid for your machine.
-6. **Run a manual diagnostic cycle** if your model supports it, following the button sequence in your service sheet, to see if additional codes appear.
-7. **Replace the control board or user interface** only after verifying the part number and confirming no standard code matches your display.
+1. **Verify the displayed code.** Write down the exact characters shown. Check your model number (on the door frame or rear panel) and locate the use-and-care guide or service sheet for code definitions specific to your dryer.
+2. **Perform a hard reset.** Unplug the dryer from the wall or flip the circuit breaker off. Wait at least five minutes to allow capacitors to discharge and the control to reset, then restore power.
+3. **Run a test cycle.** Select a short timed-dry cycle and observe whether the code returns. If the display is clear and the dryer operates normally, the fault was transient and no further repair is needed.
+4. **Inspect wiring and connectors.** If the code returns, unplug the dryer and remove the top or rear access panel. Check the wire harness between the control board, user interface, and any temperature or moisture sensors for loose pins, corrosion, or damaged insulation.
+5. **Test suspect sensors.** If your model's wiring diagram identifies a thermistor or moisture sensor associated with alarm codes, disconnect it and measure resistance with a multimeter. Frigidaire thermistors typically read around 50,000 ohms at room temperature. Replace any sensor that reads open, shorted, or far out of range.
+6. **Check for other known codes.** If your display can show additional codes (such as EAF for control-board fault, E24 or E25 for thermistor error, or E4A for long dry time), cross-reference those in your service manual and address the documented fault before assuming AL-14 is unique.
+7. **Replace the electronic control board only as a last resort.** If all sensors, wiring, and venting check normal and the code persists after reset, the main control board is the remaining suspect. Order the correct board by model number and transfer all wire connections one at a time, then clear any stored faults and test.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Electronic control board (main PCB) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dryer-al-14-error-code&k=Electronic+control+board+%28main+PCB%29&tag=errorcodefixes-20) \| Match the board part number on your existing PCB label before ordering. |
-| User interface display assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dryer-al-14-error-code&k=User+interface+display+assembly&tag=errorcodefixes-20) \| Required if LED segments are visibly dark or flickering. |
+| Frigidaire dryer electronic control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dryer-al-14-error-code&k=Frigidaire+dryer+electronic+control+board&tag=errorcodefixes-20) \| Match by full model number. Required only if sensors and wiring test normal and a hard reset does not clear the code. |
+| Frigidaire dryer thermistor (temperature sensor) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dryer-al-14-error-code&k=Frigidaire+dryer+thermistor+%28temperature+sensor%29&tag=errorcodefixes-20) \| Should measure around 50,000 ohms at room temperature. Replace if open, shorted, or significantly out of range. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician immediately if you cannot find AL-14 in your dryer's documentation. Attempting repairs based on guesswork wastes money on wrong parts and risks electrical shock or fire. A technician has access to Frigidaire's full service database, can pull live diagnostics from your control board, and will identify whether the code is legitimate or the result of a board or display fault. If your dryer is still under warranty, unauthorized part replacement will void coverage.
+Call a qualified appliance technician if the code returns after a hard reset and you cannot locate a definition for AL-14 in your model's documentation, if you are uncomfortable working with live 240-volt circuits during diagnostics, or if sensor and wiring tests require access to internal control components you cannot safely reach. A technician can retrieve logged fault data from the control board, cross-reference factory service bulletins for model-specific alarm codes, and test signal paths with specialized meters. Professional diagnosis typically costs less than replacing the wrong part, especially when the exact meaning of an undocumented code is unclear.

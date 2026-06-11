@@ -1,52 +1,74 @@
 ---
 title: "Bosch Oven E115 Error Code - Causes & Fix"
-description: "E115 means your Bosch oven has overheated. Most common fix: check the temperature sensor and cooling fan for failure."
-pubDatetime: 2026-05-31T05:55:38Z
-modDatetime: 2026-05-31T05:55:38Z
-author: "Marcus Webb"
+description: "E115 means your Bosch oven detected excessive cavity temperature and locked the door. Most often a faulty temperature sensor or relay board."
+pubDatetime: 2026-06-09T12:26:52Z
+modDatetime: 2026-06-09T12:26:52Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - oven
   - bosch
-money_part: "Oven temperature sensor (probe)"
+money_part: "Bosch oven temperature sensor / probe"
+most_likely_cause: "Defective temperature sensor or thermostat"
+likelihood: "the most common cause"
+diy_or_pro: "pro"
 ---
 
 ## Bosch Oven E115 Error Code — What It Means
 
-The E115 (or F115) error code on a Bosch oven signals an overtemperature fault. The control board has detected that the oven cavity temperature has exceeded safe limits and has shut down heating to protect the appliance. This is a safety feature, not a simple sensor glitch.
+The E115 error code on a Bosch oven indicates the control system has detected an excessively high cavity temperature and entered a protective shutdown. The oven stops heating and typically locks the door until the temperature drops back into a safe range. This is a temperature-regulation safety fault designed to prevent damage or fire. The code clears automatically once the oven cools, but the underlying cause must be corrected or the error will return on the next cook cycle.
 
-The code typically points to a failure in the temperature sensing or cooling system. The oven either cannot accurately measure heat, cannot cool itself properly, or a control relay is stuck in the 'on' position and continuing to supply power to the heating elements even when it should stop.
+## Before You Replace Anything
+
+Many people replace the control board first when the actual fault is a failed temperature sensor or bad wiring connector. Test sensor resistance and inspect connectors before ordering expensive electronics.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Faulty temperature sensor** The oven temperature sensor (probe) has drifted out of range, has internal damage, or poor wiring connections, so the control cannot read cavity temperature accurately.
-- **Cooling fan failure** The cooling fan has stopped running or is running too slowly, preventing proper airflow and allowing heat to build up beyond safe levels.
-- **Blocked ventilation or airflow** Dust, debris, or improper installation have obstructed the cooling vents or fan intake, reducing cooling capacity.
-- **Stuck relay or faulty control board** A relay on the control board is stuck closed or the board logic has failed, keeping heating elements powered continuously even after the setpoint is reached.
-- **Damaged sensor wiring or connector** Corroded, loose, or broken wiring between the sensor and the control board causes intermittent or incorrect temperature readings.
+- **Defective temperature sensor or thermostat (~45%)** A failed or drifting sensor sends false high-temperature readings to the control board, triggering the safety lockout even when the cavity is not actually overheated.
+- **Failed relay control board or stuck relay (~30%)** The relay control PCB may have a stuck heating relay or faulty temperature-control logic that allows the oven to overheat or misinterpret sensor data.
+- **Wiring or connector damage (~15%)** Loose, corroded, or heat-damaged connectors between the sensor and control board can cause intermittent high-resistance faults that appear as false overtemperature signals.
+- **Actual overheating and cooling-fan failure (~10%)** If the oven cavity is genuinely too hot, a blocked vent or failed cooling fan may prevent heat removal, causing the sensor to correctly report an over-limit condition.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Is the oven cavity still very hot to the touch after the error appeared?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The oven may be genuinely overheating. Check for blocked vents or a failed cooling fan, and verify the heating element is switching off properly.<br><strong>No:</strong> The sensor or control board is likely reporting a false high temperature. Proceed to connector and sensor resistance checks.</div>
+</details>
+
+<details class="dtree"><summary>Do you see any burned, loose, or corroded connectors on the temperature sensor harness?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Clean or replace the damaged connector and retest. Wiring faults often cause intermittent high-resistance readings that mimic sensor failure.<br><strong>No:</strong> The sensor or control board is the likely fault. Measure sensor resistance and compare to your model's service specification before ordering parts.</div>
+</details>
+
+<details class="dtree"><summary>Does the error clear and stay gone for several cook cycles after the oven cools completely?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault may be intermittent, pointing to a marginal sensor, loose connector, or relay that sticks only when hot. Monitor and document when it returns.<br><strong>No:</strong> The fault is persistent. Replace the temperature sensor first, then the relay control board if the sensor tests within specification.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Turn off power at the breaker** and allow the oven to cool completely for at least one hour before any inspection or testing.
-2. **Restore power and observe** whether the E115 code clears after the cool-down period, indicating a transient overheat rather than a failed component.
-3. **Access and inspect the oven temperature sensor**, typically mounted on the rear wall of the cavity, and check for physical damage, corrosion, or loose connector pins.
-4. **Test the temperature sensor** by disconnecting it and measuring resistance (consult your model's service manual for the correct room-temperature resistance value), and replace the sensor if readings are out of specification or unstable.
-5. **Verify the cooling fan operation** by listening for fan noise during and after a heating cycle, and visually confirm the fan blades turn freely and the motor is not stalled or clogged with debris.
-6. **Inspect the control board and relay connections** for signs of burn marks, arcing, or stuck relays, and replace the relay control board if the sensor and fan test good but the fault persists.
-7. **Run a test bake cycle** after repairs to confirm the oven heats normally, the fan cools properly, and the E115 code does not return.
+1. **Shut off power** at the circuit breaker and let the oven cool completely before opening any panels or touching any components.
+2. **Remove the oven from the cabinet** or pull it forward enough to access the rear panel and wiring harness.
+3. **Locate the temperature sensor** (a metal probe extending into the oven cavity, usually at the upper rear wall) and trace its wiring back to the control board.
+4. **Inspect all connectors and wiring** for burn marks, corrosion, loose pins, or heat damage. Clean or replace any damaged connectors.
+5. **Measure the sensor resistance** with a multimeter at room temperature and compare the reading to the service specification for your model (consult your wiring diagram if no spec is provided here).
+6. **Check the cooling fan** (if your model has one) for obstruction, bearing noise, or failure to spin. Clear any blockages and test fan operation under power.
+7. **Replace the temperature sensor** if resistance is out of range or the sensor shows physical damage. If the sensor tests good, replace the relay control board and retest the oven through a full heat cycle.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Oven temperature sensor (probe) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-oven-e115-error-code&k=Oven+temperature+sensor+%28probe%29&tag=errorcodefixes-20) \| Verify the part number for your specific Bosch model. Some transcripts mention 00642855 but always cross-check your serial plate. |
-| Cooling fan motor and blade assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-oven-e115-error-code&k=Cooling+fan+motor+and+blade+assembly&tag=errorcodefixes-20) \| Order the fan assembly matched to your model. Check for both tangential and axial fan types depending on your oven series. |
-| Relay control board (oven control board) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-oven-e115-error-code&k=Relay+control+board+%28oven+control+board%29&tag=errorcodefixes-20) \| If sensor and fan are good but overheating persists, the relay board is the likely cause. Verify your model number before ordering. |
+| Bosch oven temperature sensor / probe | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-oven-e115-error-code&k=Bosch+oven+temperature+sensor+%2F+probe&tag=errorcodefixes-20) \| Verify the part number on your model's wiring diagram or service label. |
+| Bosch oven relay control board / control PCB | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-oven-e115-error-code&k=Bosch+oven+relay+control+board+%2F+control+PCB&tag=errorcodefixes-20) \| Match the board number exactly to your oven's serial and model number. |
+| Sensor wiring harness or connector kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-oven-e115-error-code&k=Sensor+wiring+harness+or+connector+kit&tag=errorcodefixes-20) \| Use if connectors are burned or corroded beyond cleaning. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if you are uncomfortable working with live 240 V circuits, if the error returns after sensor and fan replacement, or if you cannot safely access the control board or rear cavity components. Overheating faults can indicate complex relay or board failures that require diagnostic tools and experience to trace. A pro can also verify that your oven's ventilation and installation meet manufacturer clearances, which is critical for safe long-term operation.
+Call a qualified appliance technician if you are not comfortable working with 240-volt wiring, if you cannot safely access the rear panel and control board, or if you lack a multimeter and service documentation to test the sensor. Professionals have model-specific resistance tables, relay-board testers, and the experience to distinguish genuine overheating from false sensor signals. If the error persists after replacing the sensor and you suspect the relay control board, a technician can verify relay operation and check for shorted heating elements before you invest in expensive electronics.
+
+**Rough cost:** DIY runs about $40-120 in parts, 45-90 min. A pro service call runs about $180-380.

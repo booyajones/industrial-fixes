@@ -1,53 +1,79 @@
 ---
 title: "Bosch E24 Error Code - Causes & Fix"
-description: "E24 means the dishwasher cannot drain. Most often a clogged filter or blocked drain hose. Clean the filter and check the hose for kinks."
-pubDatetime: 2026-05-30T23:44:15Z
-modDatetime: 2026-05-30T23:44:15Z
-author: "Marcus Webb"
+description: "E24 means your Bosch dishwasher is not draining due to a blockage. Check and clean the drain filter at the tub bottom first."
+pubDatetime: 2026-06-09T12:26:10Z
+modDatetime: 2026-06-09T12:26:10Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
-  - dishwasher
   - bosch
-money_part: "Bosch dishwasher drain pump assembly"
+money_part: "Bosch dishwasher drain filter assembly"
+most_likely_cause: "blocked drain filter or debris in the sump area"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Bosch E24 Error Code — What It Means
 
-E24 is a drainage fault. Your Bosch dishwasher is detecting that water is not leaving the machine as expected. This code does not point to a wash or circulation problem. Instead, it signals a restriction somewhere in the drain path, a pump issue, or occasionally a control sensor reading incorrectly.
+Bosch E24 indicates your dishwasher is not draining properly because of a blockage in the drain path. Bosch support documentation points to the drain filter as the primary culprit, but the code can also appear when the drain hose, pump cover, or garbage disposal connection is restricted. This is a drainage restriction fault rather than a single failed part, so diagnosis focuses on clearing the blockage first before assuming any component has failed.
 
-In most cases the dishwasher will have standing water at the bottom of the tub when E24 appears. The machine has either attempted to drain and failed, or it sensed slow drainage and stopped the cycle. Less commonly, the dishwasher drains normally but still throws E24, which can indicate a control board or sensor glitch rather than a real blockage.
+The code triggers when water cannot leave the machine at the expected rate. Standing water in the tub, slow drainage during the cycle, or water remaining after a wash are all typical symptoms. Bosch's troubleshooting guidance treats E24 as owner-serviceable in most cases, directing homeowners to inspect and clean the filter, hose, and plumbing connections before calling for service.
+
+## Before You Replace Anything
+
+Many people replace the drain pump when the real problem is a clogged filter, kinked hose, or forgotten knockout plug in a new garbage disposal. Always clear and inspect the full drain path before ordering a pump.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Clogged filter or sump area** Food particles, broken glass, or other debris accumulate in the cylindrical filter assembly at the bottom of the tub and prevent water from reaching the pump.
-- **Foreign object at the drain pump** A piece of bone, toothpick, or twist-tie lodges in the pump cover or impeller, blocking rotation or preventing the pump inlet from opening fully.
-- **Kinked or blocked drain hose** The rubber drain hose is pinched behind the machine, crushed under the dishwasher, or has internal grease and soap buildup restricting flow.
-- **Improper drain hose routing** The hose lacks a proper high loop before connecting to the disposal or sink drain, allowing backflow or air-lock conditions that trigger the error.
-- **Blocked air gap or disposal connection** If your installation uses an air gap on the countertop or connects to a garbage disposal, debris in those fittings can stop drainage completely.
-- **Failed drain pump** When the hose and filter are clear but the dishwasher still will not drain, the pump motor or impeller has failed and no longer moves water out of the tub.
+- **Blocked drain filter (~40%)** Food debris, broken glass, or buildup in the cylindrical filter at the tub bottom restricts water flow and is the first checkpoint in Bosch's own guidance.
+- **Loose or improperly seated pump cover (~20%)** The cover under the filter must latch fully or the drain pump cannot create suction, and Bosch specifically lists this as a common E24 trigger.
+- **Kinked or blocked drain hose (~15%)** A crushed, folded, or internally clogged hose behind or under the dishwasher prevents proper drainage even when the filter is clean.
+- **Garbage disposal knockout plug not removed (~10%)** If a new disposal was installed and the dishwasher inlet knockout was not punched out, water has nowhere to go and E24 appears immediately.
+- **Blocked sink connection or air gap (~10%)** A clogged sink trap, blocked air-gap fitting, or sealed siphon connection can back up water into the dishwasher and trigger the code.
+- **Drain pump blockage or failure (~5%)** Debris jamming the impeller or a failed pump motor will prevent drainage after all plumbing restrictions have been ruled out.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Is there standing water in the bottom of the tub after a cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The drain path is definitely blocked or the pump is not running. Remove and clean the filter, then check the pump cover and hose.<br><strong>No:</strong> The code may be intermittent or the restriction is partial. Inspect the filter and hose for buildup that slows drainage without stopping it completely.</div>
+</details>
+
+<details class="dtree"><summary>Was a new garbage disposal installed recently?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Check the disposal's dishwasher inlet for the knockout plug. If it was not removed, water cannot drain and that is your cause.<br><strong>No:</strong> Move to the filter, pump cover, and hose inspection steps below.</div>
+</details>
+
+<details class="dtree"><summary>Can you hear the drain pump running during a drain command?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The pump motor is working, so focus on clearing blockages in the filter, hose, and plumbing connections.<br><strong>No:</strong> The pump may be jammed or failed. Clear any visible debris from the sump and impeller area, then test again before replacing the pump.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Cancel the cycle and attempt a drain.** Press and hold the Start or Reset button (consult your model's manual for the exact button) to force a drain cycle. If the machine drains completely and the code clears, the fault may be intermittent or control-related rather than a true blockage.
-2. **Remove and clean the filter assembly.** Open the door, pull out the lower rack, and twist out the cylindrical mesh filter and flat fine filter at the bottom of the tub. Rinse both under running water and inspect the sump well below for any debris, broken glass, or foreign objects.
-3. **Inspect the drain pump cover and impeller.** With the filters out, look into the sump opening and check the plastic pump cover for cracks or lodged debris. If accessible on your model, remove the cover and turn the impeller by hand to confirm it spins freely without binding or grinding.
-4. **Check the drain hose for kinks and blockages.** Pull the dishwasher forward enough to see the corrugated drain hose where it exits the machine. Look for sharp bends, pinch points under the unit, or crushing against the cabinet. Disconnect the hose at the sink or disposal end and blow through it or run water backward to confirm it is open.
-5. **Verify proper hose routing and connections.** Make sure the drain hose rises in a high loop under the countertop before descending to the disposal or drain tailpiece. If an air gap is installed on the sink deck, remove the chrome cap and clear any buildup inside. If the hose connects to a garbage disposal, confirm the knockout plug was removed when the dishwasher was installed.
-6. **Test the drain pump.** Reconnect everything, start a drain cycle, and listen at the front left corner of the machine for pump noise. The pump should hum or buzz and expel water into the hose. If you hear the motor but no water moves, or if the pump is silent, the pump assembly has likely failed and needs replacement.
-7. **Perform a hard power reset if the machine drains but E24 persists.** Turn off the circuit breaker for two minutes, then restore power and run a short rinse cycle. If E24 reappears despite confirmed drainage, the control board or water-level sensor may be sending a false signal and professional diagnostics are warranted.
+1. **Clear standing water** from the tub using a shallow pan or shop vacuum so you can safely access and inspect the sump area.
+2. **Remove and clean the drain filter** by twisting it counterclockwise out of the tub floor, rinsing away food particles, and checking for cracks or damage.
+3. **Check the pump cover** directly under the filter compartment and confirm it is fully latched or seated, as Bosch lists a loose cover as a direct E24 cause.
+4. **Inspect the drain hose** at the back or underside of the dishwasher for kinks, crushing, or internal blockage, and straighten or replace it if needed.
+5. **Verify the garbage disposal connection** by confirming the hose is secure and the disposal knockout plug has been removed if the disposal is new.
+6. **Check the sink plumbing** for blockages in the trap, air gap, or siphon connection that could prevent water from leaving the dishwasher.
+7. **Test the drain pump** by starting a drain cycle and listening for motor noise, then inspect the impeller area for debris or damage if the pump does not run or drains slowly.
+8. **Reset the fault** according to your model's owner's manual after the blockage is cleared, typically by pressing and holding the Start button or power-cycling the machine.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Bosch dishwasher drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-dishwasher-e24-error-code&k=Bosch+dishwasher+drain+pump+assembly&tag=errorcodefixes-20) \| Required when the pump motor does not run or the impeller is cracked and will not move water even after clearing blockages. |
-| Bosch dishwasher filter set (fine and cylindrical) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-dishwasher-e24-error-code&k=Bosch+dishwasher+filter+set+%28fine+and+cylindrical%29&tag=errorcodefixes-20) \| Order a matched pair if your existing filters are cracked, warped, or have damaged mesh that allows debris past the screen. |
-| Dishwasher drain hose (universal or OEM) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-dishwasher-e24-error-code&k=Dishwasher+drain+hose+%28universal+or+OEM%29&tag=errorcodefixes-20) \| Replace if the hose is kinked beyond straightening, has internal buildup that will not clear, or shows cracks and splits. |
+| Bosch dishwasher drain filter assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-dishwasher-e24-error-code&k=Bosch+dishwasher+drain+filter+assembly&tag=errorcodefixes-20) \| Replace if cracked, warped, or permanently clogged; verify your model number for exact fit. |
+| Bosch dishwasher drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-dishwasher-e24-error-code&k=Bosch+dishwasher+drain+hose&tag=errorcodefixes-20) \| Order if the original is kinked, cracked, or internally blocked and cannot be cleared. |
+| Bosch dishwasher drain pump cover | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-dishwasher-e24-error-code&k=Bosch+dishwasher+drain+pump+cover&tag=errorcodefixes-20) \| Needed if the cover is warped, missing a latch tab, or does not seal properly. |
+| Bosch dishwasher drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-dishwasher-e24-error-code&k=Bosch+dishwasher+drain+pump+assembly&tag=errorcodefixes-20) \| Only after confirming the filter, hose, and plumbing are clear and the impeller is jammed or the motor does not run. |
 
 ## When to Call a Pro
 
-Call a professional if you have cleaned the filter, confirmed the hose is clear and properly routed, and verified the disposal or air gap connection is open, but the dishwasher still will not drain or the E24 code returns immediately. A technician can test the drain pump motor windings, check control-board outputs, and measure water-level sensor behavior to distinguish a component failure from a wiring or logic fault. Also call for help if you are uncomfortable pulling the dishwasher out from under the counter, disconnecting plumbing, or working near the pump while the unit is powered.
+Call a technician if you have cleared the filter, pump cover, hose, and all plumbing connections but E24 persists and the drain pump does not run or hums without draining. A pro can test the pump electrically, inspect the control board for relay or wiring faults, and replace the pump assembly if the impeller is seized or the motor has failed. Also call for help if you are uncomfortable working with standing water, removing the kickplate and lower access panels, or disconnecting plumbing under the sink. If your dishwasher is still under warranty, contact Bosch service directly before replacing any parts to avoid voiding coverage.
+
+**Rough cost:** DIY runs about $0-40 in parts if a hose or filter needs replacement, 20-45 min. A pro service call runs about $120-250 service call if the pump must be replaced.

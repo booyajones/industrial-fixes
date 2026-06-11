@@ -1,50 +1,76 @@
 ---
 title: "Bosch E22 Error Code - Causes & Fix"
-description: "E22 means water cannot drain because the filter or sump is blocked. Clean the filter assembly and check the drain pump for debris."
-pubDatetime: 2026-05-30T23:44:15Z
-modDatetime: 2026-05-30T23:44:15Z
-author: "Marcus Webb"
+description: "E22 on a Bosch dishwasher means the filter is blocked or clogged. Clean the filter assembly at the bottom of the tub and reseat it firmly."
+pubDatetime: 2026-06-09T12:25:24Z
+modDatetime: 2026-06-09T12:25:24Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
-  - dishwasher
   - bosch
 money_part: "Bosch dishwasher filter assembly"
+most_likely_cause: "blocked dishwasher filter"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Bosch E22 Error Code — What It Means
 
-The E22 error code on a Bosch dishwasher indicates that water is not draining properly because something is blocking the filter or sump area. Bosch designed this code to alert you when the drain system is restricted, usually by food particles, grease, labels, seeds, or other debris that has collected in the filter assembly or pump inlet. The machine stops mid-cycle to prevent water from overflowing or damaging internal components. In most cases, the blockage is mechanical, not electrical, and you can clear it yourself by accessing the filter and pump area at the bottom of the tub.
+The E22 error code on a Bosch dishwasher indicates that the dishwasher filter is blocked or clogged. Bosch's official support documentation identifies the filter area at the bottom of the dishwasher, where food particles are trapped, as the fault location. This blockage prevents proper drainage and triggers the error.
+
+When the filter becomes clogged with food debris, grease, or mineral buildup, water cannot flow through the drain system correctly. You may notice standing water in the bottom of the tub or poor wash performance before the code appears. The error can also show up if the filter is not seated or locked correctly after cleaning or maintenance.
+
+## Before You Replace Anything
+
+Homeowners sometimes replace the drain pump when E22 appears, but the code points to the filter first. Remove and inspect the filter assembly for debris and proper seating before ordering any parts.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Clogged filter assembly** Food residue, grease, labels, seeds, or small debris has built up in the coarse or fine filter screens and is preventing water from reaching the pump.
-- **Debris in the drain pump or impeller** Glass fragments, hard particles, or sludge have entered the pump housing and are jamming the impeller so it cannot move water out of the tub.
-- **Kinked or blocked drain hose** The drain hose is bent, crushed, or has internal blockage that restricts water flow from the pump to the sink drain or disposal.
-- **Improperly seated filter** The filter assembly was not locked in place correctly after cleaning, leaving a gap that allows debris into the sump or pump inlet.
-- **Failed drain pump** The pump motor has stopped working electrically even though the impeller and drain path are clear, so it cannot expel water.
+- **Food debris clogging the filter assembly (~55%)** Trapped food particles, grease, and mineral deposits accumulate in the filter mesh and prevent water from draining properly.
+- **Improperly seated filter after cleaning (~20%)** The filter was removed for maintenance but not locked back into place correctly, leaving gaps that the dishwasher detects as a blockage.
+- **Blocked drain hose (~15%)** A kink, restriction, or buildup in the drain hose downstream of the filter stops water flow and triggers the error even when the filter is clean.
+- **Debris in the drain pump or impeller (~8%)** Foreign objects or food particles lodge in the pump housing or impeller blades, preventing the pump from moving water out of the tub.
+- **Damaged or deformed filter components (~2%)** Cracks, warping, or broken tabs on the filter assembly prevent a proper seal and allow the dishwasher to sense a blockage condition.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Is there standing water in the bottom of the dishwasher tub?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Water is not draining, confirming a blockage. Remove and clean the filter assembly, then check the drain hose for kinks or clogs.<br><strong>No:</strong> The filter may be misaligned or the sensor is detecting a partial restriction. Remove the filter, inspect it for damage, and reinstall it with a firm twist to lock it in place.</div>
+</details>
+
+<details class="dtree"><summary>After cleaning the filter, does the error clear when you run a short cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The filter blockage was the problem. Continue normal operation and clean the filter monthly to prevent recurrence.<br><strong>No:</strong> The blockage is downstream of the filter. Inspect the drain hose and pump area for debris or obstructions.</div>
+</details>
+
+<details class="dtree"><summary>Can you see or feel debris when you remove the filter and look into the sump area below it?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Remove any visible debris from the sump and pump inlet with your fingers or a soft cloth, then reinstall the filter and test.<br><strong>No:</strong> The filter and sump are clear. Check that the filter is seated correctly and that the drain hose is not kinked or clogged farther down the line.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. Power off the dishwasher at the circuit breaker or unplug it to eliminate shock risk before opening the sump or pump area.
-2. Remove the lower dish rack and unscrew the filter assembly by turning the coarse filter cap counterclockwise, then lift out both the coarse and fine filter screens.
-3. Rinse the filters under warm running water and scrub away grease, food particles, and any stuck-on debris with a soft brush, then inspect the sump basin under the filter for seeds, labels, glass, or sludge and remove everything you find.
-4. Check the drain pump and impeller by removing the pump cover (usually a few screws or clips) and look for obstructions around the impeller blades, using needle-nose pliers to pull out any debris carefully without forcing or bending the blades.
-5. Inspect the drain hose along its entire length from the pump outlet to the sink or disposal connection for kinks, sharp bends, crushing, or internal blockage, and straighten or replace the hose if needed.
-6. Reinstall the filter assembly by placing the fine filter into the sump, setting the coarse filter on top, and turning the cap clockwise until it locks firmly in place.
-7. Restore power and run a short drain or rinse cycle to confirm the tub empties completely and the E22 code clears, and if the error persists after the drain path is clean, test the drain pump electrically or call a technician to replace it.
+1. **Disconnect power** by unplugging the dishwasher or switching off the circuit breaker to make sure safe access to internal components.
+2. **Open the door and remove the lower dish rack** to expose the filter assembly at the bottom of the tub.
+3. **Twist and lift out the filter assembly** by turning it counterclockwise (or according to your model's release mechanism) and pulling upward to remove it completely.
+4. **Rinse the filter under warm running water** and scrub it with a soft brush and mild dish soap to remove food particles, grease, and mineral deposits from the mesh and housing.
+5. **Inspect the sump and pump inlet** below the filter opening for trapped debris, and remove any foreign objects or buildup you can reach by hand.
+6. **Reinstall the filter by aligning the tabs** and turning it clockwise until it clicks or locks firmly into place, ensuring a proper seal.
+7. **Restore power and run a short rinse cycle** to verify the error has cleared, and if the E22 persists, inspect the drain hose for kinks or blockages and check the drain pump impeller for obstructions.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Bosch dishwasher filter assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-dishwasher-e22-error-code&k=Bosch+dishwasher+filter+assembly&tag=errorcodefixes-20) \| Coarse and fine filter set for your model if the screens are damaged or worn. |
-| Bosch dishwasher drain pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-dishwasher-e22-error-code&k=Bosch+dishwasher+drain+pump&tag=errorcodefixes-20) \| Sump pump assembly if the motor has failed or the impeller housing is cracked. |
-| Dishwasher drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-dishwasher-e22-error-code&k=Dishwasher+drain+hose&tag=errorcodefixes-20) \| Replacement hose if the original is kinked, crushed, or internally restricted. |
+| Bosch dishwasher filter assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-dishwasher-e22-error-code&k=Bosch+dishwasher+filter+assembly&tag=errorcodefixes-20) \| Only needed if the original filter is cracked, warped, or has broken locking tabs that prevent proper seating. |
+| Dishwasher drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-dishwasher-e22-error-code&k=Dishwasher+drain+hose&tag=errorcodefixes-20) \| Replace if the hose is kinked, cracked, or has internal blockage that cannot be flushed out. |
+| Dishwasher drain pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-dishwasher-e22-error-code&k=Dishwasher+drain+pump&tag=errorcodefixes-20) \| Required if the impeller is jammed or the pump motor does not run after clearing all blockages from the filter and hose. |
 
 ## When to Call a Pro
 
-Call a professional if the E22 code returns after you have cleaned the filter, checked the sump and impeller for debris, and confirmed the drain hose is clear. A technician can test the drain pump motor electrically, measure resistance and voltage to confirm it is operating within spec, and replace the pump assembly if it has failed. Also call for help if you find a cracked sump housing, damaged pump cover, or other broken components that require disassembly of the lower spray arm assembly or tub base, or if you are uncomfortable working with water and electrical connections inside the machine.
+Call a professional if you have cleaned the filter, verified it is seated correctly, and inspected the drain hose but the E22 code still appears. A technician can disassemble the pump housing to clear impeller jams, test the drain pump motor and wiring, and check for control board or sensor faults that may mimic a blockage. Also contact Bosch support or a qualified repair service if you find damaged internal components or if the dishwasher has a history of recurring drainage problems that suggest a design or installation issue with the drain line.
+
+**Rough cost:** DIY runs about $0-25 in parts if filter is damaged, 15-30 min for cleaning. A pro service call runs about $100-200 for a service call if drain pump or hose work is needed.

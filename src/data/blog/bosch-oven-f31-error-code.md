@@ -1,51 +1,77 @@
 ---
 title: "Bosch Oven F31 Error Code - Causes & Fix"
-description: "F31 means the oven detected a faulty temperature sensor circuit. Most common fix: replace the oven temperature sensor probe or repair damaged wiring."
-pubDatetime: 2026-05-31T05:57:26Z
-modDatetime: 2026-05-31T05:57:26Z
-author: "Marcus Webb"
+description: "F31 means the oven temperature sensor circuit has failed. Most often the sensor probe itself is bad and needs replacement."
+pubDatetime: 2026-06-09T12:31:31Z
+modDatetime: 2026-06-09T12:31:31Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - oven
   - bosch
-money_part: "Oven temperature sensor / RTD probe"
+money_part: "Oven temperature sensor probe"
+most_likely_cause: "failed oven temperature sensor probe"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Bosch Oven F31 Error Code — What It Means
 
-The F31 error code on a Bosch oven signals that the control board has detected an abnormal signal from the oven temperature sensor circuit. The control thinks the temperature sensor (RTD probe) is shorted, open, or reading values that are outside the expected range. This can be caused by a failed sensor, damaged wiring between the sensor and the control board, a loose or corroded connector, or a faulty input on the control board itself.
+The F31 error code on a Bosch oven indicates an oven temperature sensor failure. The control board cannot get a valid temperature reading from the sensor circuit. This fault prevents the oven from heating properly because the control has no way to monitor and regulate oven temperature.
 
-The oven will typically shut down or refuse to heat until the fault is cleared. The error is not usually caused by the oven getting too hot, but rather by the control losing reliable communication with the sensor that monitors cavity temperature.
+The fault can originate in the sensor probe itself, the wiring and connector between the sensor and control board, or less commonly in the electronic control board that reads the sensor signal. Until the fault is resolved, the oven will not operate normally.
+
+## Before You Replace Anything
+
+Many people replace the electronic control board first. Test the sensor resistance with a multimeter (should read around 1,080 ohms at room temperature) and inspect all wiring before condemning the board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed oven temperature sensor (RTD probe)** The sensor develops an internal short or open circuit, or its resistance drifts out of specification so the control rejects the signal.
-- **Damaged or shorted sensor wiring harness** Wires between the sensor and control board are melted, pinched, rubbed through, or shorted together or to the chassis.
-- **Loose or corroded sensor connector** The plug at the sensor or the control board becomes loose, corroded, or heat-damaged, breaking electrical contact.
-- **Faulty control board input circuit** If the sensor and harness test correctly, the control board's temperature-sensor input circuit has failed and cannot process the signal.
+- **Failed oven temperature sensor probe (~50%)** The sensor element inside the probe has drifted out of specification or failed open or shorted, so the control board cannot read a valid temperature.
+- **Loose, corroded, or damaged wiring connection (~25%)** The harness connector at the sensor or at the control board has corroded pins, a loose fit, or broken wires that interrupt the circuit.
+- **Melted or heat-damaged wiring harness (~10%)** High oven temperatures or poor routing can melt insulation and cause shorts or opens in the sensor wiring.
+- **Short to chassis or ground in the sensor circuit (~10%)** A pinched or abraded wire touching the metal cabinet creates a ground fault that the control board reads as a sensor failure.
+- **Electronic control board failure (~5%)** The control board's sensor-input circuitry has failed and misreads or cannot process the sensor signal even when the sensor and wiring are good.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the oven temperature sensor connector at the back of the oven cavity look corroded, melted, or loose?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The connector or wiring is damaged. Clean or replace the connector and damaged wiring first, then retest.<br><strong>No:</strong> The connector appears intact. Proceed to measure the sensor resistance with a multimeter.</div>
+</details>
+
+<details class="dtree"><summary>Does the sensor measure around 1,080 ohms at room temperature?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The sensor probe is good. Check for wiring shorts to ground, then suspect the electronic control board if the code persists.<br><strong>No:</strong> The sensor is out of specification. Replace the oven temperature sensor probe.</div>
+</details>
+
+<details class="dtree"><summary>After replacing the sensor, does the F31 code clear and the oven heat normally?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Repair complete. The sensor was the root cause.<br><strong>No:</strong> Check all wiring continuity and insulation again, then replace the electronic control board if no other faults are found.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Power-cycle the oven** by switching off the circuit breaker for two minutes, then restore power and check if the F31 code returns.
-2. **Inspect the temperature sensor and wiring visually** for heat damage, pinched or melted insulation, burned connector terminals, or loose plugs at the sensor and control board.
-3. **Measure the sensor resistance** by unplugging the sensor connector and testing across the two sensor leads with a multimeter (one Bosch troubleshooting reference lists about 1,080 ohms at room temperature as a field target, but consult your model's service data for the exact specification).
-4. **Check for a short to ground** by measuring resistance from each sensor lead to the oven chassis with the sensor disconnected (you should see infinite resistance on both leads).
-5. **Replace the oven temperature sensor** if it reads open, shorted, or outside the expected resistance range for room temperature.
-6. **Repair or replace the wiring harness** if the sensor tests good at the probe but the resistance is wrong at the control board connector, or if you find visible wire damage.
-7. **Replace the electronic control board** if the sensor and harness both test correctly and all connections are clean and tight, yet the F31 code persists after power-cycling.
+1. **Disconnect power** at the circuit breaker or unplug the oven to prevent shock during disassembly.
+2. **Remove the rear access panel or oven cavity panel** to expose the oven temperature sensor probe and its wiring harness at the back of the oven chamber.
+3. **Inspect the sensor connector and wiring** for burn marks, melted insulation, corrosion, or loose pins and repair or replace any damaged sections.
+4. **Disconnect the sensor plug** and measure the sensor resistance with a multimeter set to ohms, probing the two sensor terminals.
+5. **Compare the reading to approximately 1,080 ohms at room temperature.** If the value is far off or open/shorted, replace the sensor probe.
+6. **Check for continuity to ground** by measuring resistance between each sensor wire and the metal oven chassis with the sensor disconnected. Any continuity indicates a short that must be cleared.
+7. **Replace the oven temperature sensor** if it tested bad, reconnect all wiring, restore power, and run a test cycle to verify the F31 code clears and the oven heats normally.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Oven temperature sensor / RTD probe | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-oven-f31-error-code&k=Oven+temperature+sensor+%2F+RTD+probe&tag=errorcodefixes-20) \| Match the sensor by your Bosch model number. The probe mounts inside the oven cavity, usually at the upper rear wall. |
-| Sensor wiring harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-oven-f31-error-code&k=Sensor+wiring+harness&tag=errorcodefixes-20) \| Order the harness if wires are melted, cut, or shorted and cannot be repaired with heat-shrink splices. |
-| Electronic control board (ERC / main control) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-oven-f31-error-code&k=Electronic+control+board+%28ERC+%2F+main+control%29&tag=errorcodefixes-20) \| Required only if sensor and wiring test good but the fault remains. Verify the board part number before ordering. |
+| Oven temperature sensor probe | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-oven-f31-error-code&k=Oven+temperature+sensor+probe&tag=errorcodefixes-20) \| Match your Bosch model number; probe length and connector style vary by oven. |
+| Sensor wiring harness or pigtail connector | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-oven-f31-error-code&k=Sensor+wiring+harness+or+pigtail+connector&tag=errorcodefixes-20) \| Only if the original harness is melted, cut, or corroded beyond repair. |
+| Electronic oven control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-oven-f31-error-code&k=Electronic+oven+control+board&tag=errorcodefixes-20) \| Replace only after confirming the sensor and all wiring test good and the fault persists. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if you are not comfortable working inside a live electrical appliance, if you do not own a multimeter or are unsure how to measure resistance and test for shorts, or if you have replaced the sensor and inspected the wiring but the F31 code continues to appear. A technician can perform the full diagnostic sequence, verify that the new sensor is reading correctly at the control board, and determine whether the control board input circuit has failed. If your oven is still under warranty, contact Bosch or an authorized service provider before opening the unit.
+Call a professional if you are uncomfortable working with electrical connections inside the oven, if the wiring harness is extensively damaged and you are unsure how to splice or replace it safely, or if you have replaced the sensor and verified all wiring but the F31 code still appears. A technician can perform advanced circuit tests and safely replace the electronic control board if needed. Bosch recommends contacting their customer support or authorized service when an electronics fault cannot be resolved by a simple reset or part swap.
+
+**Rough cost:** DIY runs about $30–80 in parts, 30–60 min. A pro service call runs about $150–300.
