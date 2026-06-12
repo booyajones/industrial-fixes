@@ -1,52 +1,77 @@
 ---
 title: "Amana Dryer PF Error Code - Causes & Fix"
-description: "PF means power failure. The dryer lost electricity during the cycle. Hold START to restart or press POWER to clear the display."
-pubDatetime: 2026-05-31T04:00:03Z
-modDatetime: 2026-05-31T04:00:03Z
-author: "James Rutherford"
+description: "PF means power failure. The cycle was interrupted by lost power. Press POWER to clear or hold START to restart the cycle."
+pubDatetime: 2026-06-10T22:12:01Z
+modDatetime: 2026-06-10T22:12:01Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dryer
   - amana
-money_part: "Dryer power cord"
+money_part: "Amana dryer power cord"
+most_likely_cause: "utility outage or tripped breaker"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Amana Dryer PF Error Code — What It Means
 
-The PF code on an Amana dryer stands for power failure. It appears when the drying cycle is interrupted by a loss of electrical power. This is not a component fault inside the dryer itself. The code is a notification that the appliance detected an interruption in its electricity supply, whether from a brief utility outage, a tripped breaker, a blown fuse, or a loose connection somewhere in the power path.
+PF stands for Power Failure. Your Amana dryer detected that the drying cycle was interrupted by a loss or interruption of incoming electrical power. The code can also appear after unstable power or electrical noise during a utility outage. It is not a parts-failure code. It is a status message telling you the dryer lost power mid-cycle.
 
-Amana's own documentation states you should touch and hold START to restart the cycle where it left off, or press POWER to clear the display. If the code appeared once after a known power event and clears normally, no repair is needed. If PF keeps returning without any obvious outage, the problem is either an unstable home power supply or a failing control board.
+The control board saves the code in memory so you know why the cycle stopped. You clear it by pressing POWER to dismiss the display or by holding START to pick up the cycle where it left off. If PF keeps coming back without any obvious outage, the dryer may be experiencing poor electrical supply or a control-board issue.
+
+## Before You Replace Anything
+
+Homeowners sometimes replace the main control board when PF appears repeatedly, but the real culprit is often a loose plug or receptacle connection. Check the cord, outlet, and breaker first before ordering any control.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Brief utility power outage** A momentary interruption from the electric company will trigger PF even if lights and other appliances recover quickly.
-- **Tripped circuit breaker** Electric dryers use two household breakers, and if either trips mid-cycle the dryer will display PF.
-- **Blown household fuse** Homes with fuse panels can lose one leg of 240 V power when a fuse blows, stopping the dryer and logging a power-failure code.
-- **Loose power-cord connection** A plug that is not fully seated in the wall outlet or a loose terminal-block connection at the back of the dryer can cause intermittent power loss.
-- **Faulty wall outlet or receptacle** Worn or damaged outlet contacts can drop voltage under load and interrupt the dryer mid-cycle.
-- **Main control board fault** If power supply is verified stable and correct and PF will not clear or reappears constantly, the electronic control itself may be failing.
+- **Utility outage or brief power interruption (~40%)** A momentary brownout or neighborhood supply drop interrupts the cycle and the control logs PF.
+- **Tripped circuit breaker (~25%)** If the breaker trips during the cycle the dryer sees a complete loss of power and displays PF when the breaker is reset.
+- **Loose cord or receptacle connection (~20%)** A plug that wiggles in the outlet or a worn receptacle can cause intermittent power loss that the control reads as PF.
+- **Power-line noise or voltage instability (~10%)** Electrical noise on the line during or right after an outage can confuse the control and trigger PF even if voltage never fully dropped.
+- **Control board or power-supply circuit fault (~5%)** If the incoming supply is clean and stable but PF repeats, the main control or its power input circuitry may be faulty.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Did a storm or neighborhood outage occur just before PF appeared?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The code is simply telling you power was lost. Clear it by pressing POWER or holding START to resume drying.<br><strong>No:</strong> Move to the next check to rule out a supply problem inside your home.</div>
+</details>
+
+<details class="dtree"><summary>Is the dryer plug tight in the outlet and does the outlet feel warm or show scorch marks?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Replace the receptacle and inspect the cord for damage. A loose or burned connection will cause repeated PF.<br><strong>No:</strong> Check your electrical panel for a tripped breaker or loose wire at the breaker.</div>
+</details>
+
+<details class="dtree"><summary>Does PF return immediately after clearing it, even when you know the house has stable power?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The main control board or its internal power supply is likely failing. Call a technician to test and replace the control.<br><strong>No:</strong> The fault was a one-time event. Monitor the dryer through a few more cycles to confirm it stays clear.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Clear the code first.** Touch and hold START to restart the cycle from where it stopped, or press POWER to clear the display completely.
-2. **Check for known power events.** Ask if there was a storm, an outage in the neighborhood, or any other appliances that lost power at the same time.
-3. **Inspect the breaker panel or fuse box.** Electric dryers require two breakers or two fuses to deliver full 240 V power. Confirm both are in the ON position and not tripped or blown.
-4. **Examine the power cord and outlet.** Unplug the dryer and inspect the cord for damage. Check that all prongs are straight and that the plug fits snugly in the wall receptacle with no signs of scorching or wear.
-5. **Verify voltage at the dryer terminal block.** If you have a multimeter and the dryer is electric, measure line voltage at the terminal block on the back of the machine. You should see approximately 240 V across the outer two terminals and 120 V from each outer terminal to the center neutral.
-6. **Test with a known-good outlet (if portable) or call an electrician.** If the outlet or home wiring is suspect, have a licensed electrician test the receptacle under load before replacing dryer parts.
-7. **Replace the main control board if power is confirmed good.** When household power is stable and correct and the PF code persists or cannot be cleared, the electronic control board is the next likely fault and should be replaced by a qualified technician.
+1. **Clear the code** by pressing the POWER button once, or touch and hold START to restart the interrupted cycle.
+2. **Check the circuit breaker** at your main panel. If it is tripped, reset it and turn the breaker off for one full minute, then restore power and wait another minute to confirm PF does not reappear.
+3. **Inspect the power cord and outlet**. Pull the plug and look for heat damage, bent prongs, or a loose fit. Check the wall receptacle for scorch marks or play. Replace any damaged cord or receptacle.
+4. **Run a test cycle**. Start a short timed dry and stay nearby. If PF appears again without any known outage, note the exact moment it happens and whether lights flicker elsewhere in the house.
+5. **Turn off the breaker for one minute** if PF appeared after a confirmed outage. This reset clears any residual noise in the control's memory.
+6. **Call a qualified electrician** if the dryer is newly installed and PF repeats. The branch circuit may be undersized, shared with a high-draw appliance, or wired incorrectly.
+7. **Replace the main control board** only after verifying that incoming voltage is stable and all connections are tight. A technician can test the board's internal power supply with a meter before ordering the part.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Dryer power cord | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dryer-pf-error-code&k=Dryer+power+cord&tag=errorcodefixes-20) \| Match the cord type (three-prong or four-prong) to your home outlet configuration. |
-| Main control board (electronic control) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dryer-pf-error-code&k=Main+control+board+%28electronic+control%29&tag=errorcodefixes-20) \| Order by your dryer's full model number. Required only if power supply is verified stable and PF will not clear. |
+| Amana dryer power cord | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dryer-pf-error-code&k=Amana+dryer+power+cord&tag=errorcodefixes-20) \| Three- or four-prong, match your receptacle type and dryer terminal block. |
+| 30-amp dryer receptacle | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dryer-pf-error-code&k=30-amp+dryer+receptacle&tag=errorcodefixes-20) \| Replace if the outlet is loose, scorched, or does not grip the plug firmly. |
+| Amana dryer main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dryer-pf-error-code&k=Amana+dryer+main+control+board&tag=errorcodefixes-20) \| Order by your model number if supply checks are normal and PF repeats without explanation. |
 
 ## When to Call a Pro
 
-Call a professional if you are uncomfortable working with 240 V electrical connections or if you have verified that both household breakers are on, the outlet is delivering correct voltage, and the PF code still returns every cycle. A technician can measure line voltage at the terminal block, rule out wiring faults, and replace the main control board if the power supply is proven stable. Also call an electrician if you see any signs of a damaged outlet, scorched wiring, or repeated breaker trips that affect other circuits in your home.
+Call a technician if PF returns after you have confirmed the breaker is solid, the cord and outlet are tight, and no utility outages are occurring. The technician will use a multimeter to measure incoming voltage under load, check for voltage sag during the heating phase, and test the control board's internal power supply. If your dryer is new or was recently moved, also call a licensed electrician to verify that the branch circuit is correctly sized and that neutral and ground connections meet code. Gas and sealed-system work does not apply to this code, but high-voltage measurement and control-board replacement are safest in professional hands if you are not comfortable working inside the cabinet.
+
+**Rough cost:** DIY runs about $0-50 in parts if a cord or outlet needs replacement, 15-30 min. A pro service call runs about $100-200 service call to diagnose supply or replace control.

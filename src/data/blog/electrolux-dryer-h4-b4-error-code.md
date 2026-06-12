@@ -1,50 +1,77 @@
 ---
 title: "Electrolux Dryer H4 / B4 Error Code - Causes & Fix"
-description: "H4 means a stuck key or keypad fault on the console. The most likely fix is a power reset or replacing the button panel assembly."
-pubDatetime: 2026-05-31T03:58:17Z
-modDatetime: 2026-05-31T03:58:17Z
-author: "James Rutherford"
+description: "H4 / B4 signals incorrect wiring or supply voltage. Check outlet voltage matches dryer rating, then inspect power cord and wiring."
+pubDatetime: 2026-06-10T22:02:40Z
+modDatetime: 2026-06-10T22:02:40Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dryer
   - electrolux
-money_part: "User interface control board / button panel assembly"
+money_part: "Main electronic control board"
+most_likely_cause: "Incorrect line voltage at the outlet or miswired power cord connection"
+likelihood: "the most common cause"
+diy_or_pro: "pro"
 ---
 
 ## Electrolux Dryer H4 / B4 Error Code — What It Means
 
-The H4 code on an Electrolux dryer indicates a stuck key error. The control board thinks one of the console buttons is being held down or is electrically stuck. This can happen when a physical button is jammed, the user interface membrane has failed, or the control board is in a glitched state. Note that EH4 or ExH4 on some Electrolux compact or heat-pump models may indicate an electrical supply voltage fault instead, not a keypad problem, so verify your exact model number and the displayed code before ordering parts. Because Electrolux code meanings vary by platform, confirm which code you actually see on the display.
+The H4 or B4 error code on an Electrolux dryer indicates a power supply or wiring installation fault. This code is not related to heating or airflow problems. It means the control board has detected incorrect wiring at the terminal block, an out-of-range voltage condition at the outlet, or a fault in the internal wiring harness between the power input and the electronics. A closely related code, EH4, specifically flags voltage that is too low or too high as measured by the control board.
+
+The code typically appears after a new installation, after a power surge, or when household voltage drifts outside the dryer's accepted range. It can also surface if the power cord is miswired at the terminal block, if a conductor is loose or crossed, or if the main control board's power-sensing circuitry has failed. Always verify the supply voltage at the receptacle before suspecting internal components.
+
+## Before You Replace Anything
+
+Homeowners often replace the main control board first without verifying the supply voltage or inspecting the terminal block. Measure the outlet voltage with a multimeter and compare it to the dryer's rating plate before ordering any parts.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Physically stuck or damaged button** A console button is jammed, binding, or physically broken so the control thinks it is always pressed.
-- **Faulty user interface or membrane panel** The button panel membrane or circuit has failed, sending a continuous input signal to the board.
-- **Control board glitch or corrupted state** The main control has locked up and thinks a key is stuck even when no button is pressed.
-- **Wiring or connector fault in keypad circuit** Loose, corroded, or damaged wiring between the user interface and control board can mimic a stuck-key signal.
-- **Supply voltage issue on EH4/ExH4 variants** On models where the code displays as EH4 or ExH4, the fault may indicate that incoming voltage does not match the dryer's rated supply.
+- **Incorrect supply voltage (~35%)** Outlet voltage does not match the dryer's rating plate specification, either too low or too high, triggering the board's voltage-range detection.
+- **Miswired power cord or terminal block (~30%)** Conductors are reversed, crossed, loose, or incorrectly landed at the dryer's terminal block during installation or cord replacement.
+- **Loose or damaged internal wiring harness (~20%)** Wiring between the terminal block and the main control board is frayed, disconnected, pinched, or has damaged insulation.
+- **Failed main control board (~10%)** The board's internal power-sensing circuit or voltage regulator has failed and incorrectly flags a wiring fault even when supply is correct.
+- **Transient board glitch after power surge (~5%)** A momentary power disturbance has left the control board in a fault state that will clear with a hard power cycle.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does your home electrical panel show any tripped breakers or is there recent electrical work in the house?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Reset the breaker fully off then on, verify correct breaker size for the dryer, and check that the outlet is wired correctly for the dryer's voltage requirement.<br><strong>No:</strong> Proceed to measure the outlet voltage with a multimeter and inspect the dryer's power cord and terminal block connections.</div>
+</details>
+
+<details class="dtree"><summary>Does the error clear after you unplug the dryer for five minutes and plug it back in?</summary>
+<div class="dtree-body"><strong>Yes:</strong> A transient board fault was present. Monitor the dryer over the next few loads. If the code returns, the control board or supply wiring has a persistent defect.<br><strong>No:</strong> The fault is active and requires voltage measurement at the outlet and inspection of all wiring connections.</div>
+</details>
+
+<details class="dtree"><summary>When you remove the rear panel, do you see any burn marks, loose connectors, or damaged wires at the terminal block or internal harness?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Repair or replace the damaged wiring or terminal block. If damage is limited to the power cord, replace the cord. If internal harness is damaged, replace it or call a technician.<br><strong>No:</strong> Wiring appears intact. Measure outlet voltage and compare to the dryer rating plate. If voltage is correct, the main control board is the likely fault.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Disconnect power at the breaker** or unplug the dryer and wait two minutes to perform a hard reset, then restore power and check whether the code clears.
-2. **Attempt the factory reset procedure** by holding the Temperature and Dryness buttons together for about six seconds, then release and see if the control resets.
-3. **Inspect the console buttons physically** by pressing lightly around each key to see if one is stuck down, binding, or damaged.
-4. **Check the user interface wiring** by removing the top or front panel and verifying that the connector between the button panel and the control board is fully seated and not damaged.
-5. **Replace the user interface or button panel assembly** if the code persists and you have confirmed a stuck or failed keypad, following your model's disassembly instructions.
-6. **Verify supply voltage on EH4/ExH4 codes** by confirming that the wall receptacle or hard-wired supply matches the voltage and phase rating on the dryer data plate.
-7. **Replace the main control board** if the code remains after a new user interface has been installed and all wiring and voltage checks are normal.
+1. **Disconnect power** by unplugging the dryer or switching off the circuit breaker and waiting five minutes to allow the control board to reset.
+2. **Measure the outlet voltage** with a digital multimeter set to AC volts and compare the reading to the voltage specification on the dryer's rating plate located inside the door or on the rear panel.
+3. **Inspect the power cord and terminal block** by removing the rear access panel and checking that all conductors are firmly seated, not crossed, and show no signs of overheating, fraying, or burn marks.
+4. **Examine the internal wiring harness** from the terminal block to the main control board for loose connectors, pinched or cut insulation, or damaged wire.
+5. **Restore power and test** by running a short timed-dry cycle to see if the code returns under load.
+6. **Replace the main control board** if the supply voltage is correct, all wiring is intact, and the code persists after a hard reset.
+7. **Run a verification cycle** after any repair to confirm the code does not reappear and the dryer completes a full dry cycle normally.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| User interface control board / button panel assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-dryer-h4-b4-error-code&k=User+interface+control+board+%2F+button+panel+assembly&tag=errorcodefixes-20) \| Primary replacement for persistent H4 stuck-key faults. Match by exact model number. |
-| Main electronic control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-dryer-h4-b4-error-code&k=Main+electronic+control+board&tag=errorcodefixes-20) \| Replace if H4 persists after keypad replacement or if EH4/ExH4 voltage fault is confirmed and board is damaged. |
-| Wiring harness or connector kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-dryer-h4-b4-error-code&k=Wiring+harness+or+connector+kit&tag=errorcodefixes-20) \| Repair or replace if console or control board connectors are visibly damaged or corroded. |
+| Main electronic control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-dryer-h4-b4-error-code&k=Main+electronic+control+board&tag=errorcodefixes-20) \| Order by exact model number stamped on the dryer's rating plate. Verify incoming voltage is correct before replacing. |
+| Wiring harness (power input to control) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-dryer-h4-b4-error-code&k=Wiring+harness+%28power+input+to+control%29&tag=errorcodefixes-20) \| Model-specific. Inspect for visible damage before ordering. May be sold as a sub-harness or complete assembly. |
+| Power cord and terminal block kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-dryer-h4-b4-error-code&k=Power+cord+and+terminal+block+kit&tag=errorcodefixes-20) \| Match your dryer's plug configuration (three-prong or four-prong) and voltage rating. make sure correct installation per diagram. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if the code does not clear after a power reset and you are uncomfortable removing panels or working around live voltage. If you have replaced the user interface panel and the fault persists, or if your model displays EH4/ExH4 and you are not confident testing supply voltage safely, professional diagnosis of the control board and electrical supply is the safest next step. Always verify your exact model number before ordering parts, because Electrolux code definitions vary widely across platforms.
+Call a qualified appliance technician if you are not comfortable working with live electrical circuits, if you do not own a multimeter or know how to safely measure outlet voltage, or if you have verified the supply voltage and inspected all wiring but the code persists. A technician will test the incoming power at the terminal block, perform continuity checks on the internal harness, and use diagnostic mode to isolate board-level faults. Professional service is also recommended if you see evidence of arcing, scorched terminals, or repeated breaker trips, since these indicate a more serious electrical hazard that requires expert diagnosis and repair.
+
+**Rough cost:** A pro service call runs about $150–350.

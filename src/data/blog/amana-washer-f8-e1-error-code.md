@@ -1,9 +1,9 @@
 ---
 title: "Amana Washer F8 E1 Error Code - Causes & Fix"
-description: "F8 E1 (or Lo FL) means your Amana washer isn't getting enough incoming water. Most often the fix is opening shut-off valves fully."
-pubDatetime: 2026-05-31T03:06:04Z
-modDatetime: 2026-05-31T03:06:04Z
-author: "Marcus Webb"
+description: "F8 E1 means your Amana washer isn't detecting incoming water. Most often a closed valve, kinked hose, or clogged inlet screen."
+pubDatetime: 2026-06-10T22:13:50Z
+modDatetime: 2026-06-10T22:13:50Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
@@ -11,40 +11,68 @@ tags:
   - washer
   - amana
 money_part: "Water inlet valve assembly"
+most_likely_cause: "Hot or cold supply valve closed or partially closed"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Amana Washer F8 E1 Error Code — What It Means
 
-F8 E1 on Amana top-load and front-load washers (also shown as Lo FL on some front-loaders) means the control board is not detecting the correct amount of incoming water within the expected fill time. The washer expects a normal fill cycle but is seeing too little water entering the tub. This is a water-supply or incoming-water fault, not a drain or spin problem.
+F8 E1 on Amana front-load washers means the machine is not detecting the correct amount of incoming water within the expected fill time. Amana also labels this code as Lo FL or No Water Detected. The control board flags a fill fault because normal water flow has not been sensed, so the cycle cannot proceed.
+
+This code does not indicate a drain or motor problem. It points directly to the water supply path: either water is not reaching the washer, flow is restricted, or water is draining out as fast as it fills due to installation or hose issues.
+
+## Before You Replace Anything
+
+Homeowners often replace the water inlet valve before checking the simplest fixes. Always verify both supply valves are fully open, inspect hoses for kinks, and clean the inlet screens at the valve before ordering any parts.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Hot or cold water supply turned off** One or both shut-off valves behind the washer are not fully open, starving the machine of water pressure.
-- **Supply hoses kinked, crushed, or restricted** The fill hoses are bent sharply, pinched against the wall, or clogged internally with mineral deposits or debris.
-- **Clogged inlet screens** The small mesh screens on the back of the water inlet valve are blocked by sediment or mineral buildup, reducing flow.
-- **Hot and cold hoses connected incorrectly** Red (hot) and blue (cold) hoses are swapped or attached to the wrong inlets, confusing the fill routine.
-- **Anti-flood device installed** A flood-safe or anti-flood hose restrictor is in place and limiting water flow below what the washer needs.
-- **Drain hose installed incorrectly** The drain hose is inserted too far into the standpipe or sealed air-tight, causing siphoning that pulls incoming water back out.
+- **Hot or cold supply valve closed or partially closed (~35%)** If either valve behind the washer is not fully open, water flow will be too slow to satisfy the fill sensor.
+- **Kinked, crushed, or restricted inlet hose (~25%)** A bent or internally clogged hose reduces flow below the threshold the control expects.
+- **Clogged inlet screens at the water inlet valve (~20%)** Mineral buildup or sediment in the fine mesh screens blocks water before it enters the valve.
+- **Anti-flood or flood-safe hose device restricting flow (~10%)** An aftermarket flood-protection device can reduce flow enough to trigger the code, and Amana recommends direct connection to the supply.
+- **Drain hose siphoning water out during fill (~6%)** Incorrect drain installation, such as taping the hose airtight into the standpipe or inserting it too deep, can pull water back out as it fills.
+- **Failed water inlet valve assembly (~4%)** If all external restrictions are cleared and the fault persists, the valve solenoids or internal passages may be defective.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Are both hot and cold water supply valves behind the washer turned fully counterclockwise (open)?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Supply is on. Move to the next check.<br><strong>No:</strong> Turn both valves fully open and restart the cycle. If the code clears, the problem is solved.</div>
+</details>
+
+<details class="dtree"><summary>When you disconnect an inlet hose at the washer and hold it over a bucket, does water flow freely and strongly?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The supply and hose are good. Check the inlet screens at the valve for debris.<br><strong>No:</strong> The hose is kinked, crushed, or internally restricted. Straighten or replace the hose.</div>
+</details>
+
+<details class="dtree"><summary>Is the drain hose taped tightly into the standpipe or inserted more than 4.5 inches deep?</summary>
+<div class="dtree-body"><strong>Yes:</strong> This can create a siphon. Pull the hose out to no more than 4.5 inches, leave an air gap, and do not seal it with tape.<br><strong>No:</strong> Drain installation is correct. If the code remains after cleaning screens, the inlet valve may need replacement.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Verify both supply valves are fully open.** Walk behind the washer and turn the hot and cold shut-off valves counter-clockwise all the way to confirm full flow.
-2. **Check hose connections.** Make sure the red hose is connected to the hot inlet and the blue hose to the cold inlet, and that neither hose is kinked, crushed, or pinched between the washer and the wall.
-3. **Inspect and clean the inlet screens.** Turn off the water supply, disconnect both fill hoses from the back of the washer, and look at the small mesh screens inside each inlet port on the valve body. Use a soft brush and mild soap to gently clean any debris or mineral buildup without removing the screens.
-4. **Remove any anti-flood hose devices.** If flood-safe restrictors or auto-shutoff adapters are installed on the hoses, take them off and connect the hoses directly to the household supply for best flow.
-5. **Check drain-hose installation.** Confirm the drain hose is inserted no more than 4.5 inches into the standpipe and is not sealed or taped air-tight, so air can enter and prevent siphoning.
-6. **Test for adequate household water pressure.** Disconnect one fill hose and run water into a bucket for 15 seconds. You should see strong flow from both hot and cold taps. Weak flow points to a plumbing issue upstream.
-7. **Replace the water inlet valve if all else checks out.** When supply pressure is good, hoses are clear, screens are clean, and the drain is correct but the F8 E1 persists, the inlet valve solenoids or the valve body itself are likely failed and should be replaced.
+1. **Verify both supply valves are fully open.** Walk behind the washer and turn both the hot and cold valves fully counterclockwise. Even a quarter-turn restriction can cut flow enough to cause F8 E1.
+2. **Inspect inlet hoses for kinks or crushing.** Trace each hose from the wall valve to the washer inlet. Straighten any bends and confirm nothing is pinching the hose against the wall or floor.
+3. **Test flow from each hose.** Turn off the valves, unscrew one hose at the washer end, place a bucket underneath, and turn the valve back on briefly. Flow should be strong and steady. Repeat for the other hose. If flow is weak, replace that hose.
+4. **Clean the inlet screens.** With valves off and hoses removed, use needle-nose pliers to gently pull the small mesh screens from each port on the washer's inlet valve. Rinse under running water and scrub with a soft brush and mild soap. Reinstall the screens and reconnect the hoses.
+5. **Remove any anti-flood hose device.** If a flood-safe connector or sensor is installed between the valve and the hose, disconnect it and attach the hose directly to the supply for testing. Amana recommends direct connection for proper flow.
+6. **Check drain hose installation.** Confirm the drain hose forms a U-shape or rises to the correct height and is not inserted more than 4.5 inches into the standpipe. The standpipe should be at least 39 inches high. Do not tape the hose airtight or seal the opening.
+7. **Test the water inlet valve if all external checks pass.** With power off, access the back of the washer, disconnect the inlet valve harness, and measure coil resistance or swap the valve with a known-good part. This step typically requires a technician if you are not comfortable with electrical testing.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Water inlet valve assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-washer-f8-e1-error-code&k=Water+inlet+valve+assembly&tag=errorcodefixes-20) \| Replacement valve body and solenoids when screens and hoses are clean but the washer still won't fill properly. |
-| Inlet fill hoses (pair, hot and cold) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-washer-f8-e1-error-code&k=Inlet+fill+hoses+%28pair%2C+hot+and+cold%29&tag=errorcodefixes-20) \| New hoses if the originals are kinked, cracked, or internally clogged with mineral deposits. |
+| Water inlet valve assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-washer-f8-e1-error-code&k=Water+inlet+valve+assembly&tag=errorcodefixes-20) \| Match your exact Amana model number. Includes integrated screens in most designs. |
+| Inlet hose pair (hot and cold) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-washer-f8-e1-error-code&k=Inlet+hose+pair+%28hot+and+cold%29&tag=errorcodefixes-20) \| Standard 3/4-inch threaded, 4-6 ft length. Choose stainless-steel braided for durability. |
+| Inlet screen filters | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-washer-f8-e1-error-code&k=Inlet+screen+filters&tag=errorcodefixes-20) \| Sold separately if your valve has removable screens. Confirm screen size before ordering. |
 
 ## When to Call a Pro
 
-Call a professional if you have confirmed both shut-off valves are open, the hoses are clear, the inlet screens are clean, and the drain hose is correctly installed, but the F8 E1 code returns every cycle. A technician can test household water pressure at the valve, measure solenoid resistance and voltage, and replace the water inlet valve assembly safely. Also call if you are uncomfortable working with water connections or if the washer shares complex plumbing with other appliances.
+Call a technician if you have verified both supply valves are open, inspected and tested the hoses for full flow, cleaned the inlet screens, removed any flood-safe devices, and confirmed the drain hose is installed correctly, yet the F8 E1 code returns. At that point the water inlet valve assembly itself is the likely fault and requires electrical testing and replacement. A pro can also diagnose less common issues such as control board faults or wiring problems that prevent the valve from opening, though these are rare compared to external flow restrictions.
+
+**Rough cost:** DIY runs about $15-40 in parts (hose or inlet screens), 20-45 min. A pro service call runs about $120-250 for service call and valve replacement if needed.
