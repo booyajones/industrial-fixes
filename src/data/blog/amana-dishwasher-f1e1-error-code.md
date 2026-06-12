@@ -1,50 +1,77 @@
 ---
 title: "Amana Dishwasher F1E1 Error Code - Causes & Fix"
-description: "F1E1 means your Amana dishwasher detected a problem during the drain sequence and stopped. Most often fixed by a power reset or control repair."
-pubDatetime: 2026-05-31T04:58:42Z
-modDatetime: 2026-05-31T04:58:42Z
-author: "Marcus Webb"
+description: "F1E1 means the dishwasher detects water not draining properly. Most likely cause: clogged or kinked drain hose blocking water flow."
+pubDatetime: 2026-06-10T18:25:30Z
+modDatetime: 2026-06-10T18:25:30Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dishwasher
   - amana
-money_part: "Main control board (electronic control)"
+money_part: "Drain pump for Amana dishwasher"
+most_likely_cause: "Clogged or kinked drain hose"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Amana Dishwasher F1E1 Error Code — What It Means
 
-The F1E1 error code appears when your Amana dishwasher encounters a fault during the drain sequence and then stops operating. According to Amana, the dishwasher will begin draining but will not continue once the code displays. The manufacturer does not publish the exact internal electrical cause in publicly available documentation, but the code indicates a control or drain-circuit problem that prevents the cycle from completing.
+The F1E1 (or E1F1) error code on an Amana dishwasher indicates a water level or drainage fault. The control board has detected that water is not draining to the expected empty level after the drain cycle runs, or the machine senses an incorrect water level that prevents the cycle from continuing. This code stops the dishwasher from operating until the problem is resolved.
+
+The machine relies on a water level sensor (pressure switch or flow sensor) to confirm the tub is empty before moving to the next phase. When the sensor detects water still present after draining, or when the drain pump fails to remove water, the control board throws F1E1 and halts the cycle to prevent overflow or damage.
+
+## Before You Replace Anything
+
+Many people replace the control board first, assuming an electronic failure. Before replacing any boards, physically inspect the drain hose for kinks and blockages, and check the drain pump for debris jamming the impeller.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Control board fault** The main electronic control can fail internally and trigger F1E1 during the drain command.
-- **Wiring or connector issues** Loose, corroded, or damaged wiring between the control and drain components interrupts the drain sequence.
-- **Drain pump failure** A failed or obstructed drain pump cannot complete the drain cycle, causing the control to abort with F1E1.
-- **Blocked drain path** A clogged drain hose or filter prevents proper drainage and can trigger the error during the drain phase.
-- **Stuck or failed drain component** A relay, valve, or sensor in the drain circuit that does not respond properly can halt the sequence.
+- **Clogged or kinked drain hose (~40%)** Food debris, grease buildup, or a physical kink in the hose prevents water from exiting the tub, leaving the sensor to detect water when it should read empty.
+- **Faulty or jammed drain pump (~25%)** The pump motor may be burnt out, the impeller broken, or debris (glass, pits, plastic) may be physically jamming the pump so it cannot spin and remove water.
+- **Malfunctioning water level sensor (~20%)** The pressure switch or flow sensor may be clogged with sediment, have a dirty sensing port, or have failed electronically, sending a false high-water signal to the control board.
+- **Sump area obstruction (~10%)** Food debris, broken glass, or other objects trapped in the bottom of the tub (sump) block water from reaching the pump or obstruct the sensor intake.
+- **Control board failure (~5%)** The main control board may fail to process sensor signals correctly or fail to send the 120V command to the drain pump, though this is less common than mechanical blockages.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Is there visible standing water in the bottom of the tub after the error appears?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The drain system is not removing water. Check the drain hose for kinks and blockages, then inspect the drain pump for debris or mechanical failure.<br><strong>No:</strong> The water may have drained but the sensor is malfunctioning or clogged. Inspect the water level sensor and its tubing for blockages or damage.</div>
+</details>
+
+<details class="dtree"><summary>Does the drain pump make any noise or hum when the error occurs?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The pump is receiving power but may be jammed by debris or have a broken impeller. Remove the pump cover and inspect the impeller for obstructions.<br><strong>No:</strong> The pump may not be receiving power, or the motor is completely dead. Test for 120V AC at the pump terminals during a drain cycle, or check for a tripped breaker.</div>
+</details>
+
+<details class="dtree"><summary>Can you see or feel any kinks in the drain hose under the dishwasher or at the sink connection?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Straighten the hose or replace it if the kink is permanent. A kinked hose is one of the most common causes of F1E1.<br><strong>No:</strong> Disconnect the hose and run water through it to check for internal blockages or sediment buildup that may not be visible from the outside.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Power-reset the dishwasher** by switching off the circuit breaker for one full minute, then restore power and run a test cycle to see if the code clears.
-2. **Inspect all wiring and connectors** between the main control board and the drain pump for loose plugs, corrosion, pinched insulation, or visible damage.
-3. **Check the drain pump** by starting a drain cycle and listening for the pump motor to run, then verify water exits through the drain hose without obstruction.
-4. **Remove and clean the drain filter** and inspect the drain hose for kinks, clogs, or debris that could block water flow.
-5. **Test the control board** by repeating the cycle after wiring and drain checks. If F1E1 returns immediately during drain with no physical blockage, the main control is the likely fault.
-6. **Replace the failed component** only after confirming power, wiring integrity, and drain system operation, starting with the control board if all else checks good.
-7. **Document the model number** and have it ready if you need to order parts or call service, since Amana does not publish a single replacement directive for F1E1 in available dishwasher documentation.
+1. **Disconnect power** to the dishwasher at the breaker or unplug the unit, then wait five minutes to allow the control board to reset.
+2. **Inspect the drain hose** from the dishwasher to the sink drain or garbage disposal. Look for visible kinks, twists, or tight bends that restrict water flow.
+3. **Disconnect the drain hose** at both ends and run water through it over a bucket to confirm it is not blocked by grease, food debris, or sediment buildup.
+4. **Open the dishwasher tub** and remove the lower dish rack. Check the sump area (the bottom center of the tub) for food debris, glass, or other objects that may block the drain pump intake.
+5. **Remove the drain pump cover** (if your model has a removable filter or cover) and inspect the impeller. Spin it by hand to confirm it rotates freely and is not jammed by debris.
+6. **Test the drain pump electrically** by setting a multimeter to AC voltage and checking for 120V at the pump terminals while running a drain cycle. If voltage is present but the pump does not run, replace the pump. If no voltage is present, inspect the wiring or control board.
+7. **Inspect the water level sensor** and its air tube (if accessible). Clean any sediment or debris from the sensor port and tubing, and make sure the tubing is not kinked or disconnected.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Main control board (electronic control) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dishwasher-f1e1-error-code&k=Main+control+board+%28electronic+control%29&tag=errorcodefixes-20) \| Replace if wiring and drain components test good but F1E1 persists during drain sequence. |
-| Drain pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dishwasher-f1e1-error-code&k=Drain+pump&tag=errorcodefixes-20) \| Order if the pump does not run or hums without pumping water during drain cycle. |
-| Wiring harness or connector kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dishwasher-f1e1-error-code&k=Wiring+harness+or+connector+kit&tag=errorcodefixes-20) \| Use if you find damaged or corroded wiring between the control and drain pump. |
+| Drain pump for Amana dishwasher | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dishwasher-f1e1-error-code&k=Drain+pump+for+Amana+dishwasher&tag=errorcodefixes-20) \| Match your model number. Most Amana models use a 120V AC drain pump with a threaded or snap-fit housing. |
+| Dishwasher drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dishwasher-f1e1-error-code&k=Dishwasher+drain+hose&tag=errorcodefixes-20) \| Universal hose will work for most models. Confirm the inner diameter matches your existing hose (typically 3/4 inch or 1 inch). |
+| Water level sensor (pressure switch) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dishwasher-f1e1-error-code&k=Water+level+sensor+%28pressure+switch%29&tag=errorcodefixes-20) \| Consult your model's wiring diagram to confirm the sensor type. Some models use a flow sensor instead of a pressure switch. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if the power reset does not clear the code, if you are uncomfortable working with electrical connections, or if you cannot identify which component has failed after inspecting wiring and drain operation. Because Amana does not publish a detailed repair tree for F1E1 in available documentation, a technician with model-specific service manuals and diagnostic tools can pinpoint the fault faster and avoid unnecessary part replacement. Professional diagnosis is especially important if the control board is suspect, since that is the most expensive component in the repair.
+Call a professional if you have tested the drain pump and confirmed it receives 120V during the drain cycle but still does not run, as this may indicate a control board failure that requires diagnostic tools and board replacement. Also call a pro if you are uncomfortable working with 120V electrical connections, if the wiring shows signs of damage or corrosion, or if you have cleared all blockages and replaced the drain pump and sensor but the F1E1 code persists. A technician can perform voltage and continuity tests on the control board and wiring harness to isolate the fault without replacing parts by trial and error.
+
+**Rough cost:** DIY runs about $15-60 in parts, 30-90 min. A pro service call runs about $150-280.

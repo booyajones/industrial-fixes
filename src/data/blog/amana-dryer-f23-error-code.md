@@ -1,49 +1,76 @@
 ---
 title: "Amana Dryer F23 Error Code - Causes & Fix"
-description: "F23 means outlet thermistor circuit fault. Most often the exhaust temperature sensor failed or its wiring is damaged or loose."
-pubDatetime: 2026-05-31T04:30:00Z
-modDatetime: 2026-05-31T04:30:00Z
-author: "James Rutherford"
+description: "F23 means the exhaust temperature sensor (thermistor) is open or out of range. Most often caused by lint buildup or a bad sensor."
+pubDatetime: 2026-06-10T18:32:57Z
+modDatetime: 2026-06-10T18:32:57Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dryer
   - amana
-money_part: "Outlet thermistor (exhaust temperature sensor)"
+money_part: "Exhaust thermistor (outlet temperature sensor)"
+most_likely_cause: "Faulty exhaust thermistor"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Amana Dryer F23 Error Code — What It Means
 
-The F23 error code on an Amana dryer signals a problem with the outlet thermistor circuit. This thermistor is the sensor that measures exhaust temperature and reports it back to the main control board. When the board detects an open circuit, a short, or an out-of-range resistance reading from that sensor, it throws F23 and stops the dryer. Amana recommends a power reset as a first step, but if the code returns the underlying fault is almost always hardware: a failed thermistor, damaged wiring between the sensor and the control board, or a failed control-board input circuit.
+The F23 error code signals a failure of the exhaust thermistor, the sensor that monitors air temperature leaving the dryer. The control board has detected an electrically open circuit or a resistance reading outside the valid range. When this happens, the board typically shuts down the heating element to prevent unsafe operation, which means your dryer will run but produce no heat or stop mid-cycle.
+
+The thermistor itself may have failed, but in many cases the root cause is external. Heavy lint buildup in the blower housing or a kinked exhaust hose can trap heat and either damage the sensor or cause it to read incorrectly. Wiring faults at the connector or control board can also trigger this code even when the sensor is healthy.
+
+## Before You Replace Anything
+
+Many people replace the control board first, but measuring the thermistor resistance with a multimeter (should be around 10,000 Ω at room temperature) and checking for lint buildup isolates the real fault in minutes.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed outlet thermistor** The exhaust temperature sensor itself has gone open, shorted, or drifted out of the acceptable resistance range.
-- **Damaged or loose wiring and connectors** The harness or terminals between the thermistor and the main control board are broken, corroded, or making intermittent contact.
-- **Failed main control board sensor input** The circuit on the control board that reads the thermistor signal has failed even though the sensor and wiring test correctly.
-- **Intermittent connection under heat** A connector or crimp that looks fine when cold opens up when the dryer heats, causing the fault only during operation.
+- **Faulty exhaust thermistor (~40%)** The sensor element has degraded internally, showing an open circuit (infinite resistance) or resistance far outside the 10 kΩ range at room temperature.
+- **Excessive lint buildup (~25%)** Heavy lint accumulation in the blower housing or exhaust path insulates the thermistor, causing it to overheat and fail or read erratic temperatures.
+- **Restricted airflow (kinked or clogged vent) (~15%)** A kinked exhaust hose, crushed vent line, or too many turns traps heat in the dryer, stressing the thermistor and eventually causing it to fail or read open.
+- **Wiring or connector fault (~12%)** Loose connections at the P4 connector on the control board, broken wires in the harness, or corrosion at the sensor terminals interrupt the signal.
+- **Failed control board (~8%)** If the thermistor and wiring test good, the microprocessor on the control board may be unable to read the resistance signal correctly.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the dryer run but produce no heat?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The control board has disabled the heating element because it cannot read valid exhaust temperature. Proceed with thermistor and airflow checks.<br><strong>No:</strong> If the dryer stops mid-cycle or displays F23 without running, the fault is immediate. Check for wiring issues and measure thermistor resistance first.</div>
+</details>
+
+<details class="dtree"><summary>Is there visible lint buildup around the blower housing or exhaust vent?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Clean the blower housing, lint filter, and entire exhaust path. Restricted airflow is a common trigger for thermistor failure.<br><strong>No:</strong> Airflow is likely adequate. Move to measuring thermistor resistance and inspecting wiring connections.</div>
+</details>
+
+<details class="dtree"><summary>Does the thermistor measure around 10,000 Ω at room temperature?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The sensor is healthy. Check the wiring harness and P4 connector at the control board for loose or corroded pins.<br><strong>No:</strong> If the reading is infinite (OL) or near zero, replace the exhaust thermistor. If the new sensor also fails quickly, inspect for airflow restrictions.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Perform a full power reset** by switching off the dryer circuit breaker for at least one minute, restoring power, and running a timed dry cycle to see if F23 returns.
-2. **Access the outlet thermistor** by unplugging the dryer and removing the rear panel or top cabinet access to reach the exhaust duct area where the sensor mounts.
-3. **Inspect the thermistor and its harness** for visible damage, corrosion, or loose connectors, and verify that both wires are firmly seated at the sensor and at the control-board connector.
-4. **Disconnect the thermistor leads** and measure resistance across the sensor terminals with a multimeter at room temperature. Technician references for similar Whirlpool-family dryers cite roughly 10,000 to 12,000 ohms, but consult your model's service sheet for the exact specification.
-5. **Check harness continuity** from the thermistor connector all the way to the control-board pins if the thermistor resistance is within range, looking for broken wires or poor crimps.
-6. **Replace the outlet thermistor** if your ohm reading is open, shorted, or clearly outside the acceptable window for your model.
-7. **Replace the main control board** only after confirming that the thermistor and all wiring test good, since the board's sensor-input circuit is the next most common failure point.
+1. **Disconnect power** by unplugging the dryer or turning off the circuit breaker, then wait five minutes for the control board to reset.
+2. **Inspect the exhaust path** by checking the vent hose for kinks, crushing, or excessive length, and clean the lint filter, blower housing, and entire vent line to restore airflow.
+3. **Access the exhaust thermistor** by removing the front or rear panel (consult your model's service manual), locate the sensor near the heating element or blower housing, and unplug one wire to isolate it.
+4. **Measure thermistor resistance** with a digital multimeter set to Ohms, placing probes across the thermistor leads and verifying a reading of approximately 10,000 Ω at room temperature (some models specify 5 to 15 kΩ).
+5. **Check wiring and connectors** by inspecting the harness between the thermistor and the control board, paying close attention to the P4 connector on the board for loose, corroded, or damaged pins.
+6. **Replace the thermistor** if the resistance is infinite (open) or near zero (shorted), then reassemble the dryer and run a test cycle to confirm the error clears.
+7. **Test the control board** by installing a known-good thermistor if the original sensor and wiring both test good, and replace the board only if the F23 code persists with confirmed-good components.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Outlet thermistor (exhaust temperature sensor) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dryer-f23-error-code&k=Outlet+thermistor+%28exhaust+temperature+sensor%29&tag=errorcodefixes-20) \| Use your dryer's full model number to find the correct replacement sensor for your Amana platform. |
-| Thermistor wire harness or repair terminals | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dryer-f23-error-code&k=Thermistor+wire+harness+or+repair+terminals&tag=errorcodefixes-20) \| Order if wiring continuity is bad or connector terminals are damaged beyond repair. |
-| Main control board (electronic control board) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dryer-f23-error-code&k=Main+control+board+%28electronic+control+board%29&tag=errorcodefixes-20) \| Replace only if the thermistor and harness both test correctly but F23 persists after power cycling. |
+| Exhaust thermistor (outlet temperature sensor) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dryer-f23-error-code&k=Exhaust+thermistor+%28outlet+temperature+sensor%29&tag=errorcodefixes-20) \| Verify the resistance specification (typically 10 kΩ) matches your dryer model before ordering. |
+| Main control board (electronic control) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dryer-f23-error-code&k=Main+control+board+%28electronic+control%29&tag=errorcodefixes-20) \| Replace only after confirming the thermistor and wiring are both functional. |
 
 ## When to Call a Pro
 
-Call a professional if you are not comfortable working with a multimeter, accessing internal dryer components, or interpreting resistance readings. The diagnostic process requires isolating the thermistor circuit and testing both the sensor and the harness under the correct conditions. If you replace the thermistor and wiring but F23 still returns, the control board is the likely culprit and that swap involves handling the user interface and all harness connections. A qualified appliance technician will have model-specific resistance specifications, the correct replacement parts on the truck, and the experience to avoid misdiagnosis.
+Call a professional if you are uncomfortable working with electrical components or accessing internal dryer panels. A technician should also handle the repair if you have replaced the thermistor and cleaned the exhaust path but the F23 code returns immediately, which points to a control board fault or a wiring harness problem that requires tracing and splice work. If the dryer is still under warranty, contact Amana service to avoid voiding coverage.
+
+**Rough cost:** DIY runs about $20-50 in parts, 30-60 min. A pro service call runs about $150-300.

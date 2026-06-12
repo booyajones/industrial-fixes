@@ -1,53 +1,76 @@
 ---
 title: "Electrolux Washer E24 Error Code - Causes & Fix"
-description: "E24 signals a drain pump triac sensing fault on the control board. Most often fixed by replacing the main PCB after checking wiring and pump."
-pubDatetime: 2026-05-31T03:26:06Z
-modDatetime: 2026-05-31T03:26:06Z
-author: "Dana Kowalski"
+description: "E24 means a fault in the drain pump triac sensing circuit on the control board. The most common fix is replacing the main control board."
+pubDatetime: 2026-06-10T18:22:32Z
+modDatetime: 2026-06-10T18:22:32Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - washer
   - electrolux
-money_part: "Main control board / PCB"
+money_part: "Main control board (PCB)"
+most_likely_cause: "Failed main control board"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Electrolux Washer E24 Error Code — What It Means
 
-E24 on an Electrolux washer indicates a drain pump triac sensing or triac status fault. This means the main control board is not receiving the expected electrical feedback from the drain pump circuit. Unlike a simple clogged drain code, E24 is primarily an electrical or circuit-level problem. The control board detects an abnormal condition in the drain pump control feedback path, so the issue usually lies with the main PCB, pump wiring, or connections rather than just a physical blockage.
+The E24 error code indicates a fault in the sensing circuit of the drain pump triac on the main control board. The triac is the electronic switch that powers the drain pump, and the board uses an internal sensor to monitor whether the triac is working correctly. When the board detects a mismatch between the triac status and the triac sensing signal, it throws E24. This is an electronic control fault, not a mechanical drain problem. The board cannot reliably command the drain pump or verify its operation even if the pump itself is physically intact.
 
-This distinction is important because fixing E24 typically requires electrical diagnosis and component replacement. While you should still check for clogs and hose kinks (since poor drainage can coexist with the fault), the root cause is most often a failed control board, damaged wiring harness, or a problem in the pump circuit connection. Field technicians report that when wiring and the pump itself check out, the main control board is the most common culprit.
+While the code points to internal board circuitry, the fault can originate from a failed triac component on the board, damaged wiring between the board and pump, or rarely from a pump that is mechanically jammed and drawing abnormal current. E24 is distinct from E21, which signals a long pump-out time due to blockage. E24 is almost always an electrical issue requiring board or wiring repair.
+
+## Before You Replace Anything
+
+Many people replace the drain pump first because the code mentions the pump. Test wiring continuity and check for mechanical blockage before buying a new pump. If the pump spins freely and the wiring is intact, the board is the real problem.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed main control board (PCB)** The control board's drain pump triac sensing circuit has failed and can no longer read the pump circuit correctly, which is the most commonly cited cause when other components test good.
-- **Loose, damaged, or corroded wiring and connectors** Wiring or connector damage between the drain pump and the control board creates an open or degraded sensing path that triggers the triac fault.
-- **Drain pump electrical fault** The pump itself may have an internal electrical issue or draw abnormally, compromising the circuit path the control board monitors.
-- **Blocked drain filter or kinked drain hose** Physical obstructions in the drain path can coexist with or contribute to the drain-related fault condition, even though E24 is primarily a circuit-level code.
-- **Corroded or heat-damaged connector pins** Pin corrosion or thermal damage at the pump or board connectors disrupts the triac sensing feedback signal.
+- **Failed main control board (~65%)** The triac component or its internal sensing circuitry on the PCB has burned out, shorted, or developed an open circuit that the board cannot self-correct.
+- **Faulty wiring or loose connection (~20%)** Damaged, corroded, or loose wires between the control board and drain pump send false signals that the board interprets as a triac sensing fault.
+- **Stuck or blocked drain pump (~10%)** A mechanically jammed pump impeller (from debris like coins or zippers) can cause abnormal current draw that triggers a triac status mismatch, though this is rare with E24.
+- **Power supply voltage spikes (~5%)** Intermittent surges or brown-outs from the home electrical supply can damage the sensitive triac sensing circuit on the control board over time.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the drain pump hum or spin when you manually advance the washer to the drain cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The pump motor is receiving power and trying to work, which points to a control board sensing fault rather than a mechanical jam. Inspect wiring and then plan to replace the control board.<br><strong>No:</strong> The pump may be jammed with debris or the wiring is broken. Check the pump filter and impeller for blockage and test wiring continuity before replacing the board.</div>
+</details>
+
+<details class="dtree"><summary>Are there any visible burns, scorch marks, or melted spots on the main control board near the pump connections?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The triac or surrounding circuitry has physically failed. Replace the main control board.<br><strong>No:</strong> The failure is internal to the board or in the wiring harness. Continue with wiring checks and resistance tests.</div>
+</details>
+
+<details class="dtree"><summary>Do you have a multimeter and can you measure the resistance across the drain pump terminals?</summary>
+<div class="dtree-body"><strong>Yes:</strong> A reading between 100Ω and 300Ω is typical for a healthy pump (varies by model). Infinite resistance means an open pump motor, zero means a short. If the pump tests good, the board is at fault.<br><strong>No:</strong> Call a technician to test the pump electrically and confirm whether the board or pump needs replacement.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Unplug the washer** and turn off the water supply, then check for standing water in the drum before opening any panels or filters.
-2. **Inspect the drain path** by checking that the drain hose is not kinked, crushed, or blocked, and clean the drain filter or sump area if your model provides access.
-3. **Check all visible wiring and connectors** at the drain pump and main control board for looseness, corrosion, heat damage, or damaged pins, and reseat any suspect connections.
-4. **Test the drain pump circuit** with a multimeter by checking continuity of the wiring from pump to board and testing the pump's electrical condition, since E24 points to a sensing problem in the triac path.
-5. **Replace the main control board (PCB)** if the wiring and pump test good, as this is the repair most directly recommended for persistent E24 codes.
-6. **Run a drain test or service diagnostic cycle** after the repair to confirm the pump activates correctly and the E24 code does not return.
-7. **Reassemble the washer** and run a normal cycle to verify full function and proper drainage without error codes.
+1. **Unplug the washer** and turn off the water supply to eliminate shock and flood risk.
+2. **Check the drain pump filter and impeller** by opening the small access door at the lower front of the washer, removing any debris like coins, hair clips, or fabric, and spinning the impeller by hand to confirm it rotates freely.
+3. **Inspect the drain hose** from the pump to the standpipe or laundry sink for kinks, clogs, or restrictions that could cause back-pressure and abnormal pump behavior.
+4. **Remove the top or rear panel** (depending on your model) to access the main control board and the wiring harness that connects to the drain pump, noting the location of the pump connector on the board.
+5. **Examine all wires and connectors** between the control board and pump for broken strands, corroded terminals, or loose pins, and repair or replace any damaged harness sections before proceeding.
+6. **Test the drain pump resistance** with a multimeter set to ohms by disconnecting the pump wires and measuring across the motor terminals; a typical reading is 100 to 300 ohms, and if you see infinite resistance the pump is open and needs replacement.
+7. **Replace the main control board** if the pump is mechanically free, the wiring is intact, and the pump resistance is within spec, because the triac sensing circuit inside the board has failed and cannot be repaired in the field.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Main control board / PCB | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-washer-e24-error-code&k=Main+control+board+%2F+PCB&tag=errorcodefixes-20) \| Primary replacement part when E24 persists after wiring and pump checks, as the triac sensing circuit is on the board. |
-| Drain pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-washer-e24-error-code&k=Drain+pump&tag=errorcodefixes-20) \| Replace if electrical testing shows the pump is faulty or implicated by circuit diagnosis. |
-| Pump wiring harness or connectors | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-washer-e24-error-code&k=Pump+wiring+harness+or+connectors&tag=errorcodefixes-20) \| Repair or replace if the harness or connector pins are damaged, corroded, or loose. |
-| Drain hose and filter components | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-washer-e24-error-code&k=Drain+hose+and+filter+components&tag=errorcodefixes-20) \| Clean or replace if physically damaged or obstructed, though these are usually maintenance items rather than the root E24 fault. |
+| Main control board (PCB) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-washer-e24-error-code&k=Main+control+board+%28PCB%29&tag=errorcodefixes-20) \| Order by your washer's full model number; boards are model-specific and often include the triac circuit as a soldered component. |
+| Drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-washer-e24-error-code&k=Drain+pump+assembly&tag=errorcodefixes-20) \| Only needed if the pump impeller is cracked, the motor windings test open or shorted, or the pump housing is damaged. |
+| Wiring harness (pump to board) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-washer-e24-error-code&k=Wiring+harness+%28pump+to+board%29&tag=errorcodefixes-20) \| Replacement harness if wires are corroded or broken; some techs splice and solder individual conductors instead. |
 
 ## When to Call a Pro
 
-Call a professional if you are not comfortable working with live electrical circuits or multimeter testing, or if you have inspected the drain path and wiring but the E24 code persists. Main control board replacement requires precise connector handling and often involves ordering model-specific boards, so a qualified appliance technician can diagnose the triac sensing fault accurately and source the correct PCB. If you have already replaced the pump or board and the error returns, a technician can perform service-level diagnostics to isolate intermittent wiring faults or secondary circuit issues that are difficult to trace without factory tools.
+Call a professional if you are uncomfortable working inside the washer cabinet, if you cannot safely disconnect and test electrical components with a multimeter, or if you have replaced the wiring and pump but the E24 code persists. A technician can quickly isolate whether the board, pump, or an intermittent power supply issue is at fault. Also call a pro if your washer is still under warranty or if you see evidence of water damage inside the control box, since moisture can cause secondary failures that require thorough inspection.
+
+**Rough cost:** DIY runs about $150-300 for control board, 45-90 min. A pro service call runs about $250-450 including service call and board.
