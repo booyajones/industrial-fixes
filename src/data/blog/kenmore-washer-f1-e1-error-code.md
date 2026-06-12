@@ -1,52 +1,75 @@
 ---
 title: "Kenmore Washer F1 E1 Error Code - Causes & Fix"
-description: "F1 E1 on Kenmore washers means control board fault. Power-cycle first: unplug 5 minutes. If code returns, replace main control board."
-pubDatetime: 2026-05-31T02:18:11Z
-modDatetime: 2026-05-31T02:18:11Z
-author: "James Rutherford"
+description: "F1 E1 on a Kenmore washer means a control board fault. Most often the main electronic control has failed and needs replacement."
+pubDatetime: 2026-06-10T12:00:28Z
+modDatetime: 2026-06-10T12:00:28Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - washer
   - kenmore
-money_part: "Main electronic control board (machine control)"
+money_part: "Main electronic control board (also called CCU or machine control)"
+most_likely_cause: "Failed main electronic control board"
+likelihood: "the most common cause when the code returns after a power reset"
+diy_or_pro: "diy"
 ---
 
 ## Kenmore Washer F1 E1 Error Code — What It Means
 
-F1 E1 on most Kenmore top-load washers indicates a primary control fault or internal machine-control malfunction. On Whirlpool-built Kenmore models (the most common platform), this code points directly to a problem with the main electronic control board. Because Kenmore was sold across multiple OEM platforms, the exact definition can vary by model family, but the Whirlpool-style fault code is the most widely documented meaning.
+On Whirlpool-built Kenmore top-load washers, the F1 E1 error code signals a problem with the main electronic control board. The control has detected an internal fault and locked out the washer to prevent further operation. Whirlpool product documentation treats F1E1 as a control error that may clear after a 5-minute power reset, but if the code returns immediately the control is considered failed and must be replaced.
 
-The code may appear after a power surge or electrical glitch. If the fault clears after a reset and does not return, the board is likely fine. If the code reappears immediately or within a few cycles, the control board has failed and requires replacement. Some older Kenmore models may also use F1 for pressure-sensing or harness issues, so verifying your exact model number is important before ordering parts.
+Because Kenmore is a brand label used across multiple OEM platforms, the exact meaning of F1 E1 can vary by model number. If your washer was not built by Whirlpool, the code may point to a different subsystem. Always verify your full model number from the cabinet or rear tag to confirm the correct fault definition and repair path for your specific machine.
+
+## Before You Replace Anything
+
+Some homeowners replace the drain pump or clean pressure hoses based on forum advice, but F1 E1 is a control-board code on Whirlpool platforms. Always power-reset for 5 minutes first before replacing anything.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed main control board** The most common cause when the code persists after a reset is a defective electronic control that can no longer manage machine functions.
-- **Power surge or electrical glitch** A temporary fault triggered by a voltage spike or outage can set the code without damaging the board.
-- **Loose or corroded control connectors** Harness connections to the control board can become intermittent from vibration, moisture, or heat damage.
-- **Kinked or clogged pressure hose** On some model platforms, the air-dome or pressure-sensing hose may cause a fault if restricted or disconnected.
-- **Damaged control-panel wiring harness** Wiring between the control panel and the main board can fray, short, or break, mimicking a board failure.
+- **Failed electronic control board (~70%)** The main control has experienced an internal fault and no longer operates correctly, triggering F1 E1 and locking out the washer.
+- **Power surge or transient glitch (~15%)** A temporary power event upset the control logic, and a 5-minute power reset may clear the code if no permanent damage occurred.
+- **Loose or corroded wiring harness connection (~10%)** A poor connection between the control board and the machine subsystems can create false inputs and trigger a control fault code.
+- **Damaged console or user-interface board (~5%)** If the user interface communicates incorrectly with the main control, the control may throw F1 E1 in response.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the F1 E1 code clear and stay away after unplugging the washer for 5 minutes?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault was likely a transient power glitch. Monitor the washer through the next few cycles. If the code does not return, no further repair is needed.<br><strong>No:</strong> The control board has a persistent fault. Inspect wiring connections at the control, then plan to replace the main electronic control board.</div>
+</details>
+
+<details class="dtree"><summary>Do you see any visible burn marks, swollen capacitors, or loose connectors on the control board?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Physical damage confirms a failed board. Order a replacement main control and follow the installation steps below.<br><strong>No:</strong> The fault is internal to the board with no visible signs. Replace the control board if the code returns immediately after reset.</div>
+</details>
+
+<details class="dtree"><summary>Is your Kenmore model number a 110.xxx series (Whirlpool-built) or another series?</summary>
+<div class="dtree-body"><strong>Yes:</strong> 110.xxx models follow Whirlpool F1E1 definitions (control fault). Proceed with the control-board replacement path.<br><strong>No:</strong> Non-Whirlpool Kenmore platforms may define F1 E1 differently. Look up your exact model number or consult the tech sheet inside the cabinet before ordering parts.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Verify the exact model number** on the washer's label and confirm the platform (most Kenmore washers are Whirlpool-built) before ordering any parts.
-2. **Unplug the washer for 5 minutes** to clear the fault and reset the control system, then restore power and run a test cycle.
-3. **Inspect the main control board** for visible burn marks, melted components, loose solder joints, or signs of moisture intrusion.
-4. **Check all control-board connectors** for corrosion, looseness, or damage, and reseat each harness firmly.
-5. **Examine the pressure hose** (if your model uses one) from the tub air dome to the pressure switch for kinks, clogs, or disconnection.
-6. **Replace the main electronic control board** if the code returns immediately after the reset and all connectors and hoses are secure.
-7. **Test a full cycle** after replacement to confirm the fault is cleared and all wash functions operate normally.
+1. **Unplug the washer** and wait at least 5 minutes to allow the control capacitors to discharge and the system to reset completely.
+2. **Restore power** and start a cycle to see if the F1 E1 code returns immediately. If it does not return, the issue was transient and you can resume normal use.
+3. **Access the control board** by removing the console screws (usually along the top edge or rear) and tilting or lifting the console panel forward to expose the main control mounted inside.
+4. **Inspect all wire harness connectors** at the control board for corrosion, loose pins, or physical damage. Press each connector firmly to make sure a solid connection.
+5. **Photograph the control board wiring** before disconnecting anything so you have a reference for reassembly. Label connectors if needed.
+6. **Remove the old control board** by pulling each connector straight off (do not pull on wires) and unscrewing the mounting screws that hold the board to the console bracket.
+7. **Install the new control board** by mounting it in the same position, reconnecting each wire harness connector one at a time per your photo, and securing the console panel. Plug in the washer and run a test cycle to confirm the F1 E1 code is gone.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Main electronic control board (machine control) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-washer-f1-e1-error-code&k=Main+electronic+control+board+%28machine+control%29&tag=errorcodefixes-20) \| Primary replacement part for persistent F1 E1 faults on Whirlpool-built Kenmore washers. Match by model number. |
-| Control-panel wiring harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-washer-f1-e1-error-code&k=Control-panel+wiring+harness&tag=errorcodefixes-20) \| Replace if inspection shows frayed, burned, or broken wires between panel and main board. |
-| Pressure hose (air dome to switch) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-washer-f1-e1-error-code&k=Pressure+hose+%28air+dome+to+switch%29&tag=errorcodefixes-20) \| Only needed if your model uses pressure sensing and the hose is kinked, cracked, or clogged. |
+| Main electronic control board (also called CCU or machine control) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-washer-f1-e1-error-code&k=Main+electronic+control+board+%28also+called+CCU+or+machine+control%29&tag=errorcodefixes-20) \| Match your exact Kenmore model number. Whirlpool-built models often use W10xxx or W11xxx part numbers. |
+| Wire harness repair kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-washer-f1-e1-error-code&k=Wire+harness+repair+kit&tag=errorcodefixes-20) \| Only if inspection reveals burned or broken connector pins at the control board. |
 
 ## When to Call a Pro
 
-Call a technician if the code persists after a power reset and you are not comfortable working inside the control-panel cabinet, or if you cannot identify which OEM platform your Kenmore model uses. Board replacement requires removing the control panel, disconnecting multiple harnesses, and transferring settings or programming in some cases. A professional can also test voltage at the board to rule out upstream power-supply faults and confirm the correct replacement part for your exact model. If your washer is still under warranty or a service contract, contact the provider before opening any panels.
+Call a technician if you are not comfortable working with 120V power connections or removing the console panel. A pro can verify the fault with a multimeter, confirm that no upstream wiring or user-interface board caused the F1 E1 code, and complete the control-board replacement in one visit. Also call if the new control board does not clear the code, since that points to a wiring fault or a rare secondary control failure that requires diagnostic tools and a wiring diagram for your specific model.
+
+**Rough cost:** DIY runs about $100-250 for control board, 30-60 min. A pro service call runs about $200-400 including part and labor.

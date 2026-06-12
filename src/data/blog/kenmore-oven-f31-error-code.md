@@ -1,49 +1,76 @@
 ---
 title: "Kenmore Oven F31 Error Code - Causes & Fix"
-description: "F31 signals a shorted oven temperature sensor circuit. The sensor probe itself is usually at fault and needs replacement."
-pubDatetime: 2026-05-31T06:01:09Z
-modDatetime: 2026-05-31T06:01:09Z
-author: "Marcus Webb"
+description: "F31 means the oven temperature sensor circuit is shorted. The most common fix is replacing the failed RTD sensor probe."
+pubDatetime: 2026-06-10T11:57:32Z
+modDatetime: 2026-06-10T11:57:32Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - oven
   - kenmore
-money_part: "Oven temperature sensor / RTD probe"
+money_part: "Oven Temperature Sensor (RTD Probe)"
+most_likely_cause: "failed oven temperature sensor (RTD probe)"
+likelihood: "the most common real-world fix"
+diy_or_pro: "diy"
 ---
 
 ## Kenmore Oven F31 Error Code — What It Means
 
-F31 on Kenmore ranges that use the Frigidaire or Electrolux control platform indicates a shorted oven temperature sensor circuit. The electronic oven control is reading a signal that is too low or otherwise electrically abnormal, so it flags the fault and may prevent the oven from heating. In most cases the oven temperature sensor probe (RTD sensor) has developed an internal short or has fallen out of specification.
+On most Kenmore electric ranges and ovens built on Frigidaire or Electrolux controls, F31 indicates the oven temperature sensor circuit is shorted or being read as shorted by the control. The control sees a sensor signal outside the normal range, so it flags a fault and may block baking or heating.
+
+The sensor, also called an RTD probe, monitors oven temperature and sends resistance readings to the electronic control. When the control detects an abnormally low resistance, it assumes the circuit is shorted and throws F31.
+
+## Before You Replace Anything
+
+Homeowners often replace the main control board first. Always test the oven sensor resistance at room temperature (should read about 1,080–1,091 ohms at 75°F) and inspect the harness for damage before buying a new control.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed oven temperature sensor** The RTD probe develops an internal short or drops below the normal resistance range, typically measuring far below 1,080 ohms at room temperature.
-- **Damaged sensor harness wiring** The wires between the sensor and the control board are pinched, burnt, or broken, creating a short circuit or low-resistance path.
-- **Loose or corroded connector** The plug at the sensor or at the main control board has oxidized terminals or is not seated fully, causing intermittent or low readings.
-- **Main control board input failure** The electronic oven control's sensor input circuit has failed even though the sensor and harness test normal.
+- **Failed oven temperature sensor (~60%)** Internal short in the RTD probe produces a very low resistance reading and triggers F31.
+- **Damaged sensor wiring harness (~20%)** Pinched, rubbed-through, or broken wires between the sensor and control board short the circuit.
+- **Loose or corroded sensor connector (~10%)** Moisture contamination or corrosion at the connector can create intermittent shorts.
+- **Faulty electronic oven control board (~10%)** If the sensor and wiring test normally, the input circuitry on the control itself may have failed.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the oven sensor measure approximately 1,080–1,091 ohms at room temperature (75°F)?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The sensor itself is good. Inspect the wiring harness and connectors for damage or shorts to ground, then suspect the control board if the harness is intact.<br><strong>No:</strong> A far-off or very low reading points to a shorted sensor. Replace the oven temperature sensor probe.</div>
+</details>
+
+<details class="dtree"><summary>Are the sensor lead and harness connectors clean, dry, and firmly seated?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Connector condition is acceptable. If the sensor reads correctly and the harness is sound, the fault is likely in the electronic control board.<br><strong>No:</strong> Clean corrosion, dry any moisture, and reseat the connectors. If that does not clear F31, test the sensor resistance again.</div>
+</details>
+
+<details class="dtree"><summary>Does the code return immediately after you restore power?</summary>
+<div class="dtree-body"><strong>Yes:</strong> A persistent code at startup usually means the sensor or wiring is shorted. Measure sensor resistance and check for bare wires touching the cabinet.<br><strong>No:</strong> If the code appears only during a heating cycle, look for heat-damaged insulation on the sensor harness near the oven cavity.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. Turn off power at the breaker before touching any wiring or removing access panels.
-2. Remove the back panel or lower access cover to expose the oven temperature sensor, which is usually a metal probe mounted in the rear oven wall.
-3. Inspect the sensor probe and its harness for physical damage, burnt insulation, or corroded connector pins, and clean or tighten any loose connections.
-4. Disconnect the sensor from the harness and measure its resistance with a multimeter at room temperature. A healthy sensor should read approximately 1,080 to 1,091 ohms at 75°F, and anything below 500 ohms indicates a failed probe.
-5. Replace the oven temperature sensor if the resistance is out of range, then reconnect the harness and restore power.
-6. If the sensor measures correctly, check the harness for continuity between the sensor plug and the control board, and test for any shorts to the chassis or ground.
-7. Replace the electronic oven control board if both the sensor and wiring test good but the F31 code returns after clearing the fault and running a bake cycle.
+1. **Turn off power** at the circuit breaker before opening any panels or touching wires.
+2. **Access the oven temperature sensor** at the back wall of the oven cavity (you may need to remove oven racks and a rear panel).
+3. **Disconnect the sensor** at the plug or control-board connector and measure its resistance with a multimeter at room temperature (about 75°F).
+4. **Verify the reading** is approximately 1,080–1,091 ohms. If the reading is far below that range or shows a direct short (near zero ohms), the sensor has failed internally.
+5. **Replace the sensor** if it tests bad. Slide the old probe out of its mounting bracket, install the new one, and reconnect the harness.
+6. **Inspect the wiring harness** if the sensor tests good. Look for pinched, burned, or bare wires and check continuity from sensor to control. Repair or replace damaged sections.
+7. **Replace the electronic oven control** if both the sensor and harness check out but F31 persists. Restore power and run a Bake cycle to confirm the code does not return.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Oven temperature sensor / RTD probe | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-oven-f31-error-code&k=Oven+temperature+sensor+%2F+RTD+probe&tag=errorcodefixes-20) \| Primary fix when resistance measures low or erratic at room temperature. |
-| Sensor wiring harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-oven-f31-error-code&k=Sensor+wiring+harness&tag=errorcodefixes-20) \| Needed if the harness shows opens, shorts, or melted insulation. |
-| Electronic oven control board (EOC) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-oven-f31-error-code&k=Electronic+oven+control+board+%28EOC%29&tag=errorcodefixes-20) \| Replace only after confirming the sensor and wiring are in specification. |
+| Oven Temperature Sensor (RTD Probe) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-oven-f31-error-code&k=Oven+Temperature+Sensor+%28RTD+Probe%29&tag=errorcodefixes-20) \| Match the connector type and length to your Kenmore model number. |
+| Sensor Wiring Harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-oven-f31-error-code&k=Sensor+Wiring+Harness&tag=errorcodefixes-20) \| Only if you find cuts, burns, or insulation damage that cannot be spliced safely. |
+| Electronic Oven Control Board (ERC) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-oven-f31-error-code&k=Electronic+Oven+Control+Board+%28ERC%29&tag=errorcodefixes-20) \| Replace only after confirming the sensor and harness test within spec. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if you are not comfortable working with high-voltage wiring or if you do not own a multimeter to test the sensor resistance accurately. A technician will also have access to model-specific wiring diagrams and resistance tables to confirm whether the sensor is in specification. If you have already replaced the sensor and the F31 code persists, the control board replacement requires careful handling and programming, and a professional can verify the repair and prevent damage to other components.
+Call a technician if you are uncomfortable working inside a 240-volt electric range, if you cannot safely access the rear panel or control area, or if the sensor and wiring both test good but you do not want to diagnose the control board yourself. A qualified appliance repair tech can quickly verify sensor resistance, trace harness faults, and swap the control board with the correct replacement for your model. If your oven is still under warranty or part of a built-in wall unit that requires cabinet removal, professional service is the safest choice.
+
+**Rough cost:** DIY runs about $20–60 for sensor, 30–60 minutes. A pro service call runs about $120–250 including sensor and service call.

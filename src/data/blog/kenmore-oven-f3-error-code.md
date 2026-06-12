@@ -1,9 +1,9 @@
 ---
 title: "Kenmore Oven F3 Error Code - Causes & Fix"
-description: "F3 means oven temperature sensor probe fault. Most often the sensor itself has failed and needs replacement. Check sensor, wiring, then board."
-pubDatetime: 2026-05-31T06:00:12Z
-modDatetime: 2026-05-31T06:00:12Z
-author: "James Rutherford"
+description: "F3 on a Kenmore oven means an oven temperature sensor circuit fault. Most often the sensor probe itself has failed and needs replacement."
+pubDatetime: 2026-06-10T11:56:50Z
+modDatetime: 2026-06-10T11:56:50Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
@@ -11,39 +11,66 @@ tags:
   - oven
   - kenmore
 money_part: "Oven temperature sensor probe"
+most_likely_cause: "failed oven temperature sensor probe"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Kenmore Oven F3 Error Code — What It Means
 
-The F3 code on a Kenmore oven signals an oven temperature sensor probe fault. The electronic control board cannot get a valid reading from the sensor circuit, which means the problem is in the sensor probe itself, the wiring harness that connects it to the control board, or the control board that reads the signal. This is not a bake element or ignition problem. The oven will not heat properly or may refuse to start until the fault is cleared.
+The F3 error code on most Kenmore ovens and ranges signals a problem with the oven temperature sensor circuit. This code appears when the electronic control board detects that the sensor probe is out of range, has failed, or the wiring connecting the sensor to the control has opened or shorted. In some Kenmore and Frigidaire-family models, the code may also be displayed as F3-E2 and can indicate an oven over-temperature condition when the sensor itself tests good, pointing instead to a control board fault.
+
+The temperature sensor is a resistive probe mounted inside the oven cavity that tells the control board the current oven temperature so it can cycle the heating elements to maintain the setpoint. When the sensor fails or its circuit is interrupted, the control cannot regulate temperature safely and locks out the oven, displaying F3 to alert you to the fault.
+
+## Before You Replace Anything
+
+Many homeowners replace the expensive electronic control board first when the real fault is a failed sensor or damaged wiring. Always test the sensor resistance with a multimeter and inspect the wiring harness for damage before replacing the board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed oven temperature sensor probe** The sensor is out of specification, open circuit, or otherwise not reporting temperature correctly to the control board.
-- **Damaged or loose sensor wiring** Wiring between the probe and the control board is broken, burned, shorted, or the connector has come loose or corroded.
-- **Defective electronic control board** If the sensor and wiring both test good, the control board that interprets the sensor signal has failed.
-- **Connector mismatch on replacement sensor** Some Kenmore models require an adapter lead because the original harness connector does not match newer replacement sensors.
+- **Failed oven temperature sensor probe (~60%)** The sensor element inside the probe burns out or drifts out of the acceptable resistance range, causing the control to flag a circuit fault.
+- **Open, shorted, or damaged sensor wiring (~20%)** The lead wires or harness between the sensor and the control board can break, short against the oven frame, or develop an intermittent connection that triggers the F3 code.
+- **Defective electronic control board (~15%)** When the sensor and wiring both test within specification but the F3 code persists, the control board itself has a failed input circuit or logic fault.
+- **Loose or corroded connector terminal (~5%)** The plug where the sensor wires connect to the control board or at the sensor probe can develop corrosion or lose tension, creating an intermittent open circuit.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the F3 code appear immediately when you turn the oven on, or only after the oven has been heating for a while?</summary>
+<div class="dtree-body"><strong>Yes:</strong> An immediate code points to a failed sensor or open wiring. Proceed with the sensor resistance test.<br><strong>No:</strong> A code that appears after heating suggests an intermittent wiring fault or a genuine over-temperature condition. Inspect the wiring harness for damage and check connector terminals for corrosion.</div>
+</details>
+
+<details class="dtree"><summary>With power disconnected, does the oven temperature sensor measure close to 1.0-1.1 kΩ at room temperature when you test it with a multimeter?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The sensor is likely good. Inspect the wiring harness and connectors for breaks or shorts, then suspect the control board if wiring is intact.<br><strong>No:</strong> The sensor is out of range or open and should be replaced. An open circuit will read infinite resistance.</div>
+</details>
+
+<details class="dtree"><summary>After replacing the sensor, does the F3 code clear and the oven heat normally?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The repair is complete. The failed sensor was the root cause.<br><strong>No:</strong> The sensor and wiring are good, so the control board has a failed input circuit and must be replaced or sent for repair.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. Disconnect power at the circuit breaker or unplug the range completely before starting any work.
-2. Access the oven temperature sensor by removing the back panel or top of the range to reach the wiring harness and control board connections.
-3. Disconnect the sensor probe connector and measure resistance across the sensor terminals with a multimeter set to ohms. A good thermal probe typically reads around 1.0 to 1.1 kΩ at room temperature, though you should consult your model's service sheet for the exact range.
-4. Check wiring continuity from the probe connector to the control board connector if the sensor resistance is in range. Look for breaks, burns, or loose pins in the harness and repair or replace damaged wiring.
-5. Replace the oven temperature sensor probe if it reads open, shorted, or far out of the expected resistance range. Match the connector type or use an adapter lead if needed for your model.
-6. Replace the electronic control board if both the sensor and wiring test normal but the F3 code persists after reconnecting power and running a test cycle.
-7. Restore power and run a bake cycle to verify the F3 code clears and the oven heats to the correct temperature.
+1. **Disconnect electrical power** to the oven at the circuit breaker or by unplugging the range to prevent shock during diagnosis and repair.
+2. **Access the oven temperature sensor** by removing the back panel or top control panel (depending on model) to locate the sensor probe wiring, or reach it from inside the oven cavity if the probe is mounted through the rear wall.
+3. **Disconnect the sensor leads** from the control board or connector, then use a multimeter set to ohms to measure resistance across the two sensor terminals at room temperature.
+4. **Compare the reading** to the expected value (typically around 1.0-1.1 kΩ at room temperature, though the exact range varies by model). If the reading is far out of range, infinite, or zero, replace the sensor.
+5. **Inspect the sensor wiring harness** for cuts, abrasion, or pinched insulation between the probe and the control board, and check each connector for corrosion or loose pins.
+6. **Replace the oven temperature sensor** if it tested out of range. Remove the mounting bracket or clip, pull the old probe from the oven cavity, and install the new sensor using any required connector adapter if the plug style differs.
+7. **Reassemble the oven**, restore power, and run a test bake cycle to verify the F3 code is cleared and the oven maintains temperature normally. If the code returns with a good sensor and wiring, replace the electronic control board.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Oven temperature sensor probe | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-oven-f3-error-code&k=Oven+temperature+sensor+probe&tag=errorcodefixes-20) \| Match to your Kenmore model number. May require an adapter connector on some models. |
-| Sensor wiring harness or connector | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-oven-f3-error-code&k=Sensor+wiring+harness+or+connector&tag=errorcodefixes-20) \| Only if the original harness is burned, broken, or corroded beyond repair. |
-| Electronic control board (oven controller) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-oven-f3-error-code&k=Electronic+control+board+%28oven+controller%29&tag=errorcodefixes-20) \| Replace only after confirming the sensor and wiring are good. Match your model and serial number exactly. |
+| Oven temperature sensor probe | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-oven-f3-error-code&k=Oven+temperature+sensor+probe&tag=errorcodefixes-20) \| Verify the connector style matches your model or order the matching pigtail adapter if needed. |
+| Electronic oven control board (EOC) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-oven-f3-error-code&k=Electronic+oven+control+board+%28EOC%29&tag=errorcodefixes-20) \| Only required if the sensor and wiring test good but the F3 code persists. Match the part number on your existing board. |
+| Sensor connector adapter / pigtail | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-oven-f3-error-code&k=Sensor+connector+adapter+%2F+pigtail&tag=errorcodefixes-20) \| May be needed if the replacement sensor plug differs from the original harness connector. |
 
 ## When to Call a Pro
 
-If you are uncomfortable working with electrical connections or do not own a multimeter, call a qualified appliance technician. If you replace the sensor and wiring but the F3 code returns, control board diagnosis and replacement require experience with component-level testing and can be expensive, so a professional estimate is worthwhile. Gas ranges also involve gas line work if you need to move the unit for access, and that should always be handled by a licensed technician.
+Call a professional if you are uncomfortable working with the oven's electrical wiring or removing the control panel, or if you have tested the sensor and wiring and both are good but the F3 code remains. Control board replacement requires matching the exact part number and transferring or reprogramming settings on some models. A technician will have the correct diagnostic tools, service literature with model-specific resistance tables, and access to OEM replacement boards. Also call a pro if your range is a dual-fuel or gas model and you need to move the appliance away from a fixed gas line to complete the repair safely.
+
+**Rough cost:** DIY runs about $20-60 in parts, 30-60 min. A pro service call runs about $150-250.

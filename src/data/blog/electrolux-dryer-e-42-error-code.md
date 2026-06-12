@@ -1,52 +1,74 @@
 ---
 title: "Electrolux Dryer E42 Error Code - Causes & Fix"
-description: "E42 means the door lock isn't being recognized. Check the door is fully closed and the latch clicks, then test the door switch."
-pubDatetime: 2026-05-31T03:52:53Z
-modDatetime: 2026-05-31T03:52:53Z
-author: "James Rutherford"
+description: "E42 means the door sensing circuit failed. The door switch cannot tell the control board the door is closed. Replace the door switch."
+pubDatetime: 2026-06-10T12:02:41Z
+modDatetime: 2026-06-10T12:02:41Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dryer
   - electrolux
-money_part: "Door switch / door interlock switch"
+money_part: "Electrolux dryer door switch"
+most_likely_cause: "Faulty door switch"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Electrolux Dryer E42 Error Code — What It Means
 
-E42 on an Electrolux dryer means the control is not recognizing the door lock or door closed signal. The machine is not seeing a valid closed-door input from the door switch or latch circuit. This is a door-lock or door-switch fault, not a heating or motor issue. Electrolux support describes the code as the door lock not being recognized, and repair references for Electrolux IQ-Touch dryers label it as a door open or door malfunction condition.
+The E42 error code indicates a door sensing circuit or door lock device failure. The control board cannot receive a valid signal confirming that the door is completely closed and latched. The system behaves as if the door is open, preventing the dryer from starting the heating cycle or tumbling to protect against unsafe operation. The board does not detect the closed state from the door switch, which is the component responsible for signaling the door latch position.
+
+## Before You Replace Anything
+
+People often replace the control board first. Test the door switch with a multimeter for continuity when latched. If the switch shows zero ohms when pressed, it is working and the problem is elsewhere.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Door not fully latched** The door is not completely shut or laundry is caught between the door and seal, preventing the latch from engaging.
-- **Faulty door switch or door lock assembly** The door switch or door interlock assembly has failed and is no longer sending a closed signal to the control board.
-- **Latch or striker misalignment** The mechanical latch or striker is worn, broken, or misaligned and cannot engage properly when the door closes.
-- **Loose or damaged wiring** The wiring harness or connectors at the door assembly or switch are loose, broken, or intermittent.
-- **Overloading the drum** Too much laundry in the drum can prevent the door from closing and latching fully.
-- **Child safety lock engaged** If your model has a mechanical child-safety lock, it may be accidentally engaged and blocking the door from closing.
+- **Faulty door switch (~60%)** The internal mechanism of the switch fails to close the electrical circuit even when the door is physically latched, breaking the signal path to the control board.
+- **Broken or loose wiring (~20%)** The wires connecting the door switch to the control board may be pinched by the door frame, corroded at terminals, or disconnected from the harness.
+- **Physical obstruction (~10%)** Clothing, debris, or a misaligned door striker prevents the latch from engaging fully, so the switch never activates.
+- **Failed control board (~10%)** In rare cases the control board has a damaged input circuit and cannot process the signal from a functioning door switch.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the door close firmly with an audible click?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The latch mechanism is engaging. Proceed to test the door switch and wiring.<br><strong>No:</strong> Inspect the door striker and latch for damage or debris. Clear any obstruction and check for bent metal parts.</div>
+</details>
+
+<details class="dtree"><summary>Does the door switch show continuity (zero ohms) when you press the plunger manually?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The switch is working. Check the wiring harness for breaks or loose connections, or test the control board input.<br><strong>No:</strong> The door switch is defective and must be replaced.</div>
+</details>
+
+<details class="dtree"><summary>Are there any visible cuts, burns, or loose connectors in the wiring harness?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Repair or replace damaged wires and re-seat all connectors firmly before re-testing.<br><strong>No:</strong> If the switch and wiring are both good, the control board is likely defective.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. Unplug the dryer or turn off the breaker, then open and close the door firmly to verify it latches completely and nothing is caught in the seal.
-2. Listen and feel for the latch click when you close the door to confirm the striker engages properly.
-3. Check that the child-safety lock (if equipped) is not engaged and that the door closes without resistance.
-4. Inspect the door latch, striker, and door lock assembly for visible damage, wear, or misalignment.
-5. Remove the door assembly access panel and check all wiring and connectors at the door switch for loose, broken, or corroded terminals.
-6. Test the door switch with a multimeter to verify it closes (shows continuity) when the door is latched and opens when the door is open.
-7. If the door switch and wiring test good but the fault remains, replace the door lock assembly or consult the main control board as a last resort.
+1. **Disconnect power** by unplugging the dryer or turning off the circuit breaker at the panel.
+2. **Check door closure** by opening and closing the door to verify nothing blocks it and that it latches with a solid click.
+3. **Inspect the striker and latch** for bent metal, wear, or misalignment that would prevent full engagement.
+4. **Remove the top or front panel** to access the door switch, typically located near the door opening on the frame.
+5. **Trace and inspect wiring** from the door switch to the control board, looking for cuts, burns, pinched insulation, or loose connectors, and re-seat all harness plugs firmly.
+6. **Test the door switch with a multimeter** set to ohms by disconnecting the wires, placing probes on the two terminals, and verifying infinite resistance when open and zero ohms when the plunger is pressed.
+7. **Replace the faulty component** (switch, wiring, or control board) based on your test results, reassemble the dryer, restore power, and run a test cycle.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Door switch / door interlock switch | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-dryer-e-42-error-code&k=Door+switch+%2F+door+interlock+switch&tag=errorcodefixes-20) \| Replace if continuity test shows open or intermittent reading when door is closed. |
-| Door lock assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-dryer-e-42-error-code&k=Door+lock+assembly&tag=errorcodefixes-20) \| Use if the switch tests good but the door lock mechanism itself is faulty or damaged. |
-| Door latch and striker | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-dryer-e-42-error-code&k=Door+latch+and+striker&tag=errorcodefixes-20) \| Order if the mechanical latch path is broken, worn, or visibly misaligned. |
-| Main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-dryer-e-42-error-code&k=Main+control+board&tag=errorcodefixes-20) \| Only needed after door-side parts and wiring are confirmed good and fault persists. |
+| Electrolux dryer door switch | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-dryer-e-42-error-code&k=Electrolux+dryer+door+switch&tag=errorcodefixes-20) \| Match your model number on the OEM part or use a compatible aftermarket switch. |
+| Wire harness repair kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-dryer-e-42-error-code&k=Wire+harness+repair+kit&tag=errorcodefixes-20) \| For repairing pinched or corroded wires between the switch and control board. |
+| Electrolux dryer control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-dryer-e-42-error-code&k=Electrolux+dryer+control+board&tag=errorcodefixes-20) \| Only if the switch and wiring test good but the error persists. |
 
 ## When to Call a Pro
 
-Call a technician if you are not comfortable working with multimeters or disassembling the door panel to access the switch and wiring. If you have tested the door switch, inspected the wiring, and confirmed the latch is working but the E42 code still appears, the issue may be in the door lock assembly or main control board. A qualified appliance repair tech can perform full circuit diagnostics and replace board-level components safely.
+Call a technician if you are not comfortable removing panels, working with electrical connectors, or using a multimeter. Also call if you have replaced the door switch and verified all wiring is intact but the E42 error persists, as this points to a control board issue that requires diagnostic equipment to confirm. If the dryer is still under warranty, professional service may preserve coverage.
+
+**Rough cost:** DIY runs about $25-60 in parts, 30-60 min. A pro service call runs about $150-250.

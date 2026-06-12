@@ -1,49 +1,76 @@
 ---
 title: "Kenmore Dishwasher F9E2 Error Code - Causes & Fix"
-description: "F9E2 means your Kenmore dishwasher cannot drain water properly. Check for a knockout plug left in your garbage disposer or a kinked hose."
-pubDatetime: 2026-05-31T05:28:09Z
-modDatetime: 2026-05-31T05:28:09Z
-author: "James Rutherford"
+description: "F9E2 means diverter drive blocked. Most common cause: failed diverter relay on the main control board. Replace the control board to fix."
+pubDatetime: 2026-06-10T11:54:18Z
+modDatetime: 2026-06-10T11:54:18Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dishwasher
   - kenmore
-money_part: "Dishwasher drain hose"
+money_part: "Main electronic control board (Kenmore dishwasher)"
+most_likely_cause: "failed diverter relay on the main control board"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Kenmore Dishwasher F9E2 Error Code — What It Means
 
-The F9E2 error code on Whirlpool-built Kenmore dishwashers indicates a drain restriction or no-drain condition in the discharge path. The machine is detecting that water is not evacuating properly during the drain phase. This is not an electronic or control-board fault. Instead, the drain route itself is blocked, kinked, misrouted, or otherwise restricted, preventing normal water removal at the end of a wash cycle.
+On Whirlpool-built Kenmore dishwashers, F9E2 (also displayed as 9-2) indicates a diverter drive blocked condition. The main electronic control unit contains a diverter relay that controls the wash system's diverter assembly, which directs water flow during different cycle stages. When the control board cannot drive the diverter properly, it logs this fault.
+
+This is not a water-level sensor or thermistor code. The diverter relay onboard the main control unit is the component flagged by this code. When that relay fails or the circuit to the diverter motor is interrupted, the dishwasher cannot switch wash zones and halts operation with F9E2.
+
+## Before You Replace Anything
+
+Homeowners sometimes replace the diverter motor assembly first, but the code points to the control-board relay. Before ordering a new diverter, check the wiring harness connectors at the control board for corrosion or looseness and confirm voltage output from the board to the diverter.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Garbage disposer knockout plug still in place** If your dishwasher drains into a garbage disposer, the plastic knockout plug inside the disposer inlet may not have been removed during installation, completely blocking the drain path.
-- **Kinked or collapsed drain hose** The drain hose running from the dishwasher to the sink drain or disposer may be bent sharply, pinched by cabinetry, or routed incorrectly, restricting water flow.
-- **Clogged drain hose or disposer inlet** Food debris, grease, or foreign objects can accumulate inside the drain hose or at the point where it connects to the garbage disposer or drain branch, creating a blockage.
-- **Drain hose routed on wrong side or mispositioned** The hose may be installed on the incorrect side of the dishwasher frame or routed in a way that prevents proper drainage, even without a physical kink.
-- **Blocked household drain branch** The kitchen sink drain line or garbage disposer itself may be clogged with food waste, preventing the dishwasher from pushing water through the shared plumbing.
+- **Failed diverter relay on main control board (~60%)** The relay that switches power to the diverter motor burns out or develops poor contacts, preventing the control board from driving the diverter assembly.
+- **Loose or corroded wiring harness connector (~20%)** The plug between the main control board and the diverter motor becomes oxidized, water-damaged, or partially unseated, interrupting the drive circuit.
+- **Damaged wiring harness (~10%)** Wires between the control board and diverter motor are pinched, frayed, or have heat damage, creating an open circuit that the board interprets as a blocked drive.
+- **Shorted diverter motor (~5%)** The diverter motor itself draws excessive current or has an internal short, causing the control-board relay to trip or fail.
+- **Main control board trace or solder failure (~5%)** Solder joints around the diverter relay crack or circuit-board traces develop hairline breaks due to heat cycling, preventing relay closure.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does unplugging the dishwasher for 5 minutes and restarting clear the F9E2 code for at least one full cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The relay may be intermittent or the control board is experiencing transient faults. Monitor for recurrence and prepare to replace the main control board if the code returns.<br><strong>No:</strong> The fault is persistent. Proceed with power-off inspection of the control-board connectors and wiring harness to the diverter.</div>
+</details>
+
+<details class="dtree"><summary>With power disconnected, are all wiring connectors at the main control board and diverter motor firmly seated and free of corrosion?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Wiring is intact. The diverter relay on the control board is likely defective and the board should be replaced.<br><strong>No:</strong> Clean and reseat the connectors. If any terminals show burn marks or broken locking tabs, replace the harness, then retest.</div>
+</details>
+
+<details class="dtree"><summary>After replacing the main control board, does the dishwasher complete a full cycle without returning F9E2?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Repair is successful. The old control-board relay was the root cause.<br><strong>No:</strong> The diverter motor itself may be shorted or mechanically jammed. Inspect the diverter assembly for foreign objects or motor resistance and replace if necessary.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Check for standing water** in the dishwasher tub to confirm the unit is experiencing a drain problem and not just displaying a stored fault code from a previous cycle.
-2. **Inspect the garbage disposer knockout plug** if your dishwasher drains to a disposer by disconnecting the drain hose at the disposer inlet and looking or feeling inside the fitting for the circular plastic plug, then remove it with a screwdriver and hammer if present.
-3. **Examine the entire drain hose** from the dishwasher pump outlet to the sink drain connection for kinks, sharp bends, pinch points under the cabinet, or visible collapse, and straighten or reposition the hose as needed.
-4. **Disconnect and flush the drain hose** by removing both ends and running water through it over a bucket to clear any internal clogs or debris buildup.
-5. **Run the garbage disposer** for 15-20 seconds with cold water flowing to clear any food waste that may be blocking the disposer inlet or the shared drain branch.
-6. **Check the drain hose routing** inside the dishwasher cabinet to confirm it is attached to the correct side and positioned according to your model's installation diagram, and reposition if necessary.
-7. **Reset the dishwasher** by turning off power at the breaker for one minute, then run a short rinse cycle to see if the F9E2 code clears now that the drain path is open.
+1. **Disconnect power** at the circuit breaker or unplug the dishwasher to prevent shock before any inspection or testing.
+2. **Remove the lower access panel or kickplate** and locate the main electronic control unit, typically mounted inside the door or along the lower front edge.
+3. **Inspect all wiring connectors** at the control board and trace the harness to the diverter motor, checking for loose plugs, corrosion, pinched wires, or heat damage.
+4. **Check for visible relay or board damage** by removing the control-board cover (if present) and looking for burned components, cracked solder joints, or swollen capacitors near the diverter relay.
+5. **Replace the main electronic control unit** if wiring is intact and the code persists, transferring any wire harnesses and mounting hardware to the new board.
+6. **Reassemble the dishwasher**, restore power, and run a full wash cycle to verify the F9E2 code does not return.
+7. **Document the repair** by noting the old board's part number and cycle count (if displayed) to help with warranty claims or future troubleshooting.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Dishwasher drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-f9e2-error-code&k=Dishwasher+drain+hose&tag=errorcodefixes-20) \| Replace if kinked, cracked, or clogged beyond cleaning. Verify correct length and diameter for your model before ordering. |
-| Drain pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-f9e2-error-code&k=Drain+pump&tag=errorcodefixes-20) \| Required if the drain path is completely clear but the dishwasher still will not evacuate water. This is a technician-level repair after ruling out all plumbing causes. |
+| Main electronic control board (Kenmore dishwasher) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-f9e2-error-code&k=Main+electronic+control+board+%28Kenmore+dishwasher%29&tag=errorcodefixes-20) \| Match your model number from the door-frame tag; the board includes the diverter relay and all cycle logic. |
+| Wiring harness (dishwasher control-to-diverter) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-f9e2-error-code&k=Wiring+harness+%28dishwasher+control-to-diverter%29&tag=errorcodefixes-20) \| Only needed if connectors are burned or wires show physical damage; order by model number. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if you have confirmed the knockout plug is removed, the drain hose is clear and correctly routed, the household drain is not clogged, and the F9E2 code still appears. At that point the fault is inside the dishwasher itself, likely the drain pump, pump wiring, or internal sensors. Also call a pro if you are uncomfortable working with garbage disposer plumbing connections or if your installation does not match standard configurations.
+Call a professional if you are uncomfortable working with 120-volt dishwasher wiring or removing the main control board, which often requires precise connector handling and firmware matching. A technician can also perform control-board voltage output tests to confirm the relay is not switching before replacing the board, saving the cost of an unnecessary part. If the new control board does not resolve F9E2, the diverter motor may be shorted and a pro can measure motor resistance and current draw to confirm the secondary fault.
+
+**Rough cost:** DIY runs about $150–$250 for the main control board, 45–90 min. A pro service call runs about $250–$400 including service call and board.

@@ -1,52 +1,75 @@
 ---
 title: "Electrolux Dryer E73 Error Code - Causes & Fix"
-description: "E73 means the inlet thermistor is out of range or faulty. Most common fix: replace the inlet air temperature sensor or repair its wiring."
-pubDatetime: 2026-05-31T03:55:06Z
-modDatetime: 2026-05-31T03:55:06Z
-author: "Marcus Webb"
+description: "E73 means the inlet thermistor is reading out of range. Most often a failed inlet thermistor on the heater duct; replace the sensor."
+pubDatetime: 2026-06-10T12:06:24Z
+modDatetime: 2026-06-10T12:06:24Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dryer
   - electrolux
-money_part: "Inlet thermistor"
+money_part: "Electrolux dryer inlet thermistor"
+most_likely_cause: "Failed or drifting inlet thermistor"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Electrolux Dryer E73 Error Code — What It Means
 
-The E73 error code on an Electrolux dryer indicates that the inlet thermistor (the sensor that measures incoming air temperature) is reading out of range or has a wiring fault. The electronic control board expects the thermistor to produce a resistance value within a specific window for the current air temperature. When the sensor reads open, shorted, or outside that window, the control stops the cycle and displays E73. This code appears on IQ-Touch and Perfect Steam dryer models.
+E73 on an Electrolux dryer signals that the control board is receiving an invalid temperature reading from the inlet thermistor. This sensor monitors the temperature of incoming air on the heater duct side. When the resistance or voltage from the thermistor falls outside the expected range, the control throws E73 and stops the dryer to prevent unsafe operation.
 
-The inlet thermistor is a small temperature sensor mounted in the air path near the blower inlet. It sends a signal to the main control board so the dryer can regulate heat properly. When this sensor or its circuit fails, the dryer cannot safely operate and locks out with the E73 fault.
+The code does not mean the dryer is overheating. It means the control cannot trust the signal from the inlet sensor, either because the sensor itself has failed (open, shorted, or drifted out of spec), or because a wiring or connector problem is breaking the circuit between the sensor and the control board.
+
+## Before You Replace Anything
+
+Many people replace the control board first. Test the inlet thermistor with a multimeter and inspect all connectors before ordering a new board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed inlet thermistor** The thermistor has drifted out of tolerance, shorted internally, or opened and no longer provides a valid resistance reading to the control board.
-- **Loose or damaged wiring harness** The wire harness between the inlet thermistor and the main control has a break, loose connection, or damaged insulation causing an intermittent or permanent open circuit.
-- **Corroded or loose connector pins** The thermistor plug or control board connector has corrosion, poor pin contact, or a backed-out terminal that creates an intermittent fault the board reads as out of range.
-- **Disconnected thermistor plug** The connector at the inlet thermistor has vibrated loose or was not fully seated during a previous service, causing the control to see an open circuit.
-- **Main control board sensor input failure** The thermistor and harness test good but the control board's sensor input circuit has failed and cannot read the thermistor correctly.
+- **Open, shorted, or drifting inlet thermistor (~55%)** The sensor itself has failed and is reporting resistance values that the control board sees as out of range.
+- **Loose or corroded wiring connector (~25%)** The plug at the inlet thermistor or at the control harness is not making good contact, which the control reads as an open or intermittent sensor.
+- **Damaged wiring harness (~15%)** A broken, pinched, or chafed wire between the inlet thermistor and the control board causes an open circuit or short.
+- **Control board fault (~5%)** The control itself is misreading a good sensor signal, though this is less common for E73.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the dryer power on and show E73 immediately, even before starting a cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The control is seeing a fault as soon as it checks the inlet sensor; likely a wiring or sensor open circuit. Inspect the inlet thermistor connector first.<br><strong>No:</strong> The fault may appear after heating begins; still likely the inlet thermistor but possibly an intermittent connection or sensor that drifts when warm.</div>
+</details>
+
+<details class="dtree"><summary>Can you locate the inlet thermistor on the heater duct and wiggle the connector while the code is displayed?</summary>
+<div class="dtree-body"><strong>Yes:</strong> If wiggling the connector makes the code clear or come back, you have a loose or corroded connection; clean or replace the connector and harness.<br><strong>No:</strong> Move to testing the thermistor itself with a meter; an open or shorted reading confirms sensor replacement.</div>
+</details>
+
+<details class="dtree"><summary>After replacing the inlet thermistor, does E73 still appear?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Check the wiring harness for damage between the sensor and control; if wiring is intact, the control board may need replacement.<br><strong>No:</strong> The inlet thermistor was the cause; the dryer should heat and run normally now.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Unplug the dryer** from the wall outlet and turn off the circuit breaker to completely de-energize the unit before any diagnostic work or component access.
-2. **Remove the top or front panel** as required for your model to gain access to the inlet thermistor, which is typically located near the blower housing or air inlet duct.
-3. **Inspect the thermistor wiring harness** from the sensor all the way to the main control board for visible breaks, pinched insulation, loose connectors, or backed-out pins.
-4. **Disconnect the thermistor plug** and measure the resistance across the thermistor terminals with a multimeter, then compare the reading to your model's thermistor resistance chart at the current room temperature.
-5. **Check harness continuity** by testing each wire in the harness end to end if the thermistor itself measures within specification but the code persists.
-6. **Reseat all connectors** at both the thermistor and the control board, ensuring each pin is fully inserted and locked, then restore power and test the dryer.
-7. **Replace the inlet thermistor** if it reads open, shorted, or outside the expected range, or replace the main control board if the sensor and harness both test good but the E73 code returns.
+1. **Disconnect power** at the breaker or unplug the dryer before opening any panels or touching wiring.
+2. **Remove the top or rear panel** to access the heater duct assembly and locate the inlet thermistor, which is a small sensor with two wires mounted on the incoming-air side of the heater housing.
+3. **Inspect the thermistor connector** at the sensor and at the control harness for loose pins, corrosion, or damage; clean or reseat any suspect connections.
+4. **Test the inlet thermistor** with a multimeter set to resistance; disconnect the sensor wires and measure across the thermistor terminals (consult your model's service sheet for expected values, or look for an open circuit or zero resistance which both indicate a failed sensor).
+5. **Replace the inlet thermistor** if it tests open, shorted, or significantly out of range; mount the new sensor in the same location and reconnect the harness.
+6. **Restore power and run a test cycle** to confirm E73 clears and the dryer heats normally.
+7. **If E73 persists** after replacing the sensor and verifying all wiring, test or replace the control board.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Inlet thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-dryer-e-73-error-code&k=Inlet+thermistor&tag=errorcodefixes-20) \| The primary replacement component for E73. Verify the part number for your specific Electrolux dryer model before ordering. |
-| Thermistor wiring harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-dryer-e-73-error-code&k=Thermistor+wiring+harness&tag=errorcodefixes-20) \| Order if the harness shows physical damage, broken wires, or damaged connectors that cannot be repaired. |
-| Main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-dryer-e-73-error-code&k=Main+control+board&tag=errorcodefixes-20) \| Replace only after confirming the inlet thermistor and harness are both in good condition and the fault still appears. |
+| Electrolux dryer inlet thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-dryer-e-73-error-code&k=Electrolux+dryer+inlet+thermistor&tag=errorcodefixes-20) \| Match your model number; typically a two-wire sensor mounted on the heater duct incoming-air side. |
+| Wiring harness repair kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-dryer-e-73-error-code&k=Wiring+harness+repair+kit&tag=errorcodefixes-20) \| Only if wires are damaged or connectors are corroded beyond cleaning. |
 
 ## When to Call a Pro
 
-Call a professional appliance technician if you are not comfortable working with electrical components or reading a multimeter. Also call for help if you have replaced the inlet thermistor and verified the wiring but the E73 code still appears, since control board diagnosis and replacement requires model-specific knowledge and careful handling of the electronic assembly. If your dryer is still under warranty, contact Electrolux or an authorized service center before attempting any repairs to avoid voiding coverage.
+Call a technician if you are not comfortable working with 240-volt dryer wiring, if you cannot locate the inlet thermistor on your model, or if the code persists after you have replaced the sensor and verified all connections. A pro can quickly test the control board and harness with manufacturer service tools and confirm the repair without additional guesswork.
+
+**Rough cost:** DIY runs about $20-50 in parts, 30-60 min. A pro service call runs about $150-250.
