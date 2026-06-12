@@ -1,52 +1,78 @@
 ---
 title: "Kenmore Dryer F23 Error Code - Causes & Fix"
-description: "F23 means the outlet thermistor circuit is open or faulty. The most common fix is replacing the outlet thermistor after testing."
-pubDatetime: 2026-05-31T03:48:55Z
-modDatetime: 2026-05-31T03:48:55Z
-author: "James Rutherford"
+description: "F23 means an outlet/exhaust thermistor fault. Most often the exhaust thermistor itself has failed and needs replacement."
+pubDatetime: 2026-06-10T05:09:27Z
+modDatetime: 2026-06-10T05:09:27Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dryer
   - kenmore
-money_part: "Outlet thermistor"
+money_part: "Kenmore dryer outlet/exhaust thermistor"
+most_likely_cause: "failed outlet/exhaust thermistor"
+likelihood: "the primary cause"
+diy_or_pro: "diy"
 ---
 
 ## Kenmore Dryer F23 Error Code — What It Means
 
-The F23 error code on your Kenmore dryer indicates an outlet or exhaust thermistor fault. The main control board is detecting an open or invalid temperature sensor circuit at the outlet thermistor, which monitors the temperature of air leaving the drum. This is the same fault family as the F22 code on Whirlpool-built Kenmore dryers.
+The F23 error code on Kenmore dryers (especially HE3 and Whirlpool-built platforms) indicates an outlet or exhaust thermistor fault. The thermistor is a temperature sensor in the blower or exhaust path that monitors the air leaving the drum. When the main control board sees an open, shorted, or out-of-range signal from this sensor, it throws F23 and stops the dryer to protect the machine. This is fundamentally an electrical sensor-circuit fault, not simply a clogged vent, though poor airflow can sometimes stress the thermistor.
 
-When this sensor circuit fails, the dryer cannot accurately measure exhaust temperature and will stop operating to prevent overheating or unsafe conditions. The fault usually points to the thermistor itself, but can also be caused by wiring problems or a failed control board.
+The code tells you the control cannot read valid temperature data from the outlet thermistor circuit. It does not mean the dryer is necessarily overheating right now, only that the sensor or its wiring is not communicating properly with the board.
+
+## Before You Replace Anything
+
+Homeowners often replace the main control board first when they see an F-code. Before buying a new board, use a multimeter to check the thermistor resistance (should read around 10,000 ohms at room temperature) and inspect the wire connectors; the sensor or a loose connection is usually the real problem.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed outlet thermistor** The thermistor has internally opened or drifted out of its normal resistance range, causing the control to see an invalid sensor reading.
-- **Loose or corroded thermistor connector** The wire connector at the thermistor has become loose, corroded, or damaged, breaking the electrical continuity to the control board.
-- **Damaged wiring harness** Wires between the thermistor and control board are broken, pinched, or grounded, preventing proper sensor signal transmission.
-- **Faulty control board sensor circuit** The main electronic control board's thermistor measurement circuit has failed, even though the thermistor and wiring test correctly.
-- **Corroded connector pins at P4** The control board connector terminals or harness pins have corroded or backed out, creating intermittent or open connections.
+- **Failed outlet/exhaust thermistor (~60%)** The temperature sensor in the exhaust path has failed open, shorted, or drifted out of range so the control board cannot read valid temperature data.
+- **Loose, damaged, or corroded thermistor connectors (~20%)** Oxidation, heat damage, or a loose plug at the thermistor or along the harness breaks the signal circuit and triggers the fault even when the sensor itself is good.
+- **Broken or shorted wiring harness (~10%)** The wires running from the thermistor to the main control board have a break, short, or pinch that interrupts continuity or creates an out-of-range reading.
+- **Main control board fault (~8%)** The electronic control board's thermistor input circuit has failed and reads the sensor incorrectly, even when the sensor and wiring both test normally.
+- **Severe airflow restriction stressing the thermistor (~2%)** Heavy lint buildup, a crushed vent hose, or a blocked outdoor exhaust can cause abnormal temperatures that damage the thermistor over time, though the code itself is still a thermistor-circuit failure.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Do you have a multimeter and can you safely unplug the dryer and access the rear or lower panel?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Proceed to measure the outlet thermistor resistance (should be around 10,000 ohms at room temperature) and inspect connectors.<br><strong>No:</strong> Call a qualified appliance technician to test the thermistor circuit and replace any failed components.</div>
+</details>
+
+<details class="dtree"><summary>Does the thermistor measure near 10,000 ohms and are all connectors clean and tight?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Check wiring continuity from the thermistor to the control board; if wiring is good, suspect the main control board.<br><strong>No:</strong> If the reading is far off or infinite, replace the outlet thermistor; if connectors are loose or corroded, clean or replace them and re-test.</div>
+</details>
+
+<details class="dtree"><summary>After replacing the thermistor and clearing power, does the code return during a test cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Verify wiring integrity again; if wiring is intact, the main control board is likely faulty and should be replaced.<br><strong>No:</strong> The repair is complete; run a few loads to confirm normal operation and check that the exhaust vent is clean.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. Unplug the dryer completely from the wall outlet before performing any diagnostics or repairs to prevent electric shock.
-2. Access the outlet thermistor by removing the front or rear panel, depending on your model. The outlet thermistor is usually mounted near the exhaust duct or blower housing where air exits the drum.
-3. Inspect the thermistor and its wire connector for visible damage, corrosion, loose terminals, or burned wires. Wiggle the connector gently to check for looseness and clean any corroded terminals with electrical contact cleaner.
-4. Disconnect the thermistor connector and measure resistance across the thermistor terminals using a multimeter set to ohms. A healthy outlet thermistor should read approximately 10,000 ohms at room temperature.
-5. If the thermistor reads open (infinite resistance) or significantly off from 10,000 ohms, replace the thermistor. If the reading is correct, check continuity in the wiring harness from the thermistor connector back to the main control board, paying special attention to the P4 connector and the red thermistor wires.
-6. Test for unintended grounds by checking continuity between each thermistor wire and the dryer cabinet ground. There should be no continuity. If the harness shows breaks or grounds, repair or replace the affected wiring.
-7. Reassemble the dryer, restore power, and run a test cycle. If the F23 code persists after confirming the thermistor and wiring are good, replace the main electronic control board as the sensor input circuit has likely failed.
+1. **Unplug the dryer** from the wall outlet or turn off the dedicated circuit breaker to eliminate all power before working inside the cabinet.
+2. **Remove the rear access panel** (or lower front panel on some models) to expose the blower housing and thermistor, which is typically mounted on the exhaust duct or blower outlet.
+3. **Inspect the thermistor connector** and the wiring harness for loose pins, corrosion, melted plastic, or heat discoloration; wiggle the plug gently to check for intermittent contact.
+4. **Disconnect the thermistor plug** and use a multimeter set to ohms to measure resistance across the two thermistor terminals; at room temperature you should read approximately 10,000 ohms.
+5. **Replace the outlet thermistor** if the reading is far outside 10,000 ohms, infinite, or zero; order the correct part for your Kenmore model number and install it in the same location with the same orientation.
+6. **Check wiring continuity** from the thermistor connector all the way to the main control board if the thermistor itself tested good; look for breaks, pinches, or shorts in the harness.
+7. **Clear the fault** by unplugging the dryer (or flipping the breaker off) for at least five minutes, then plug back in, select a timed dry cycle, and verify the F23 code does not return.
+8. **Inspect and clean the exhaust vent system** (lint screen, vent hose, and outdoor termination) to make sure good airflow, which helps prevent future thermistor stress even though the code itself is an electrical fault.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Outlet thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dryer-f23-error-code&k=Outlet+thermistor&tag=errorcodefixes-20) \| Should measure around 10,000 ohms at room temperature when working correctly. |
-| Dryer wire harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dryer-f23-error-code&k=Dryer+wire+harness&tag=errorcodefixes-20) \| Only needed if wires are damaged or continuity tests fail between thermistor and control. |
-| Main electronic control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dryer-f23-error-code&k=Main+electronic+control+board&tag=errorcodefixes-20) \| Required only if thermistor and harness both test good but the error remains. |
+| Kenmore dryer outlet/exhaust thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dryer-f23-error-code&k=Kenmore+dryer+outlet%2Fexhaust+thermistor&tag=errorcodefixes-20) \| Match your exact model number; most HE3 and Whirlpool-based units use a two-wire 10 kΩ NTC thermistor mounted on the blower housing. |
+| Wire harness repair kit or connector | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dryer-f23-error-code&k=Wire+harness+repair+kit+or+connector&tag=errorcodefixes-20) \| Only if you find broken or badly corroded wiring; includes replacement terminals and heat-shrink tubing. |
+| Main electronic control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dryer-f23-error-code&k=Main+electronic+control+board&tag=errorcodefixes-20) \| Order only if the thermistor and harness both test correctly and the fault persists; make sure the part number matches your dryer's serial tag. |
 
 ## When to Call a Pro
 
-Call a professional appliance technician if you are uncomfortable working with a multimeter or accessing internal dryer components. Also seek help if you have replaced the thermistor and verified all wiring but the F23 code continues to appear, as control board diagnosis and replacement requires experience with electronic components and proper part matching to your specific model. If your dryer is still under warranty, contact Kenmore service directly before attempting any repairs yourself.
+Call a qualified appliance technician if you are uncomfortable working with a multimeter, cannot safely access the dryer's internal components, or if the thermistor and wiring both test good but the code returns. A technician has factory service data, the correct resistance-versus-temperature tables for your specific model, and can verify main-board faults before you invest in a new control. Also call a pro if you discover melted harness insulation, burnt connectors, or other signs of overheating that may point to a more complex electrical problem. Professional diagnosis typically costs much less than replacing the wrong part.
+
+**Rough cost:** DIY runs about $15-40 in parts, 30-60 min. A pro service call runs about $150-250.

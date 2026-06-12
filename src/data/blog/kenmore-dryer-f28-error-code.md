@@ -1,51 +1,77 @@
 ---
-title: "Kenmore Dryer F28 Error Code - Causes & Fix"
-description: "F28 means moisture sensor circuit failure. Most common fix: clean sensor bars and check wiring connections in the sensor circuit."
-pubDatetime: 2026-05-31T03:49:27Z
-modDatetime: 2026-05-31T03:49:27Z
-author: "Marcus Webb"
+title: "Kenmore F28 Error Code - Causes & Fix"
+description: "F28 on Kenmore washers means a serial communication fault between control boards. Reseat all CCU-MCU connectors first; that fixes most cases."
+pubDatetime: 2026-06-10T05:10:15Z
+modDatetime: 2026-06-10T05:10:15Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dryer
   - kenmore
-money_part: "Moisture sensor assembly"
+money_part: "Kenmore washer CCU (Central Control Unit / main control board)"
+most_likely_cause: "loose, oxidized, or intermittent wiring and connectors between the CCU and MCU"
+likelihood: "the most common field cause"
+diy_or_pro: "diy"
 ---
 
-## Kenmore Dryer F28 Error Code — What It Means
+## Kenmore F28 Error Code — What It Means
 
-F28 on a Kenmore dryer signals a moisture sensor circuit fault. This code appears on Whirlpool-built Kenmore electronic dryers and indicates a problem with the moisture-sensing circuit or its communication with the control board, not a heating or airflow issue. The dryer cannot properly read fabric moisture levels, so it halts the cycle and displays the error. On Kenmore Elite HE3-style models, the code is listed as Moisture Sensor Fail.
+The F28 error code is documented for Kenmore and Whirlpool-style washers, not dryers. It signals a serial communication error between the Central Control Unit (CCU) and the Motor Control Unit (MCU). The two boards cannot exchange data properly, so the washer halts operation and displays the fault. This code does not appear in verified manufacturer literature as a Kenmore dryer fault code.
 
-The error is typically caused by contaminated sensor bars, loose wiring, or a failed sensor assembly rather than a board-level electronics problem. Because the moisture sensor circuit relies on physical contact between sensor bars and damp fabric, lint buildup and fabric softener residue are frequent culprits. Whirlpool recommends a power reset and test run as the first troubleshooting step.
+If you see F28 on a Kenmore dryer display, consult your model's wiring diagram or owner's manual to confirm the exact meaning, because code definitions vary across brands and appliance types. For washers, the fault almost always traces to loose or corroded connectors between the control boards, intermittent wiring damaged by vibration, or less often a failing CCU or MCU.
+
+## Before You Replace Anything
+
+Many people replace the expensive CCU or MCU first. Reseat every connector between the two boards and inspect the harness for bent pins, corrosion, or loose terminals before swapping any board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Dirty or coated moisture sensor bars** Lint, fabric softener residue, or detergent film on the sensor bars prevents proper moisture reading and triggers the fault.
-- **Loose, oxidized, or damaged wiring and connectors** Poor connections in the moisture sensor circuit are the most common practical cause reported by repair technicians.
-- **Failed moisture sensor assembly** If wiring and cleanliness are good, the sensor itself may have failed and will need replacement.
-- **Control board communication issue** On some Whirlpool-built platforms, a main control board or user interface board fault can produce F28 if reseating connectors does not clear the code.
+- **Loose or corroded connectors (~60%)** Vibration during spin cycles works connectors loose or exposes oxidized pins, breaking the serial link between CCU and MCU.
+- **Damaged wiring harness (~20%)** Chafing, pinching, or fatigue cracks in the harness wires interrupt the communication path and trigger the fault.
+- **Failing Central Control Unit (CCU) (~10%)** Internal faults on the main board prevent it from sending or receiving signals to the motor controller.
+- **Failing Motor Control Unit (MCU) (~8%)** The motor control board's serial interface can fail and stop answering the CCU's commands.
+- **Excessive vibration (~2%)** An out-of-level washer or worn suspension allows movement that worsens intermittent connector and wiring faults.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the code clear after you unplug the washer for two minutes and plug it back in?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault is intermittent. Reseat all CCU and MCU connectors and level the machine to reduce vibration before the next cycle.<br><strong>No:</strong> The communication failure is persistent. Proceed to inspect harness continuity and connectors for physical damage or corrosion.</div>
+</details>
+
+<details class="dtree"><summary>Are all connectors between the CCU and MCU firmly locked with no bent or discolored pins?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The harness and connectors are mechanically sound. Check continuity on each wire in the harness, then test with a known-good CCU or MCU if available.<br><strong>No:</strong> Clean any oxidized pins with contact cleaner, straighten bent terminals, and reseat the connectors until they click. Retest before replacing boards.</div>
+</details>
+
+<details class="dtree"><summary>Is the washer sitting level front-to-back and side-to-side?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Vibration is not the aggravating factor. Focus on the electrical path between boards.<br><strong>No:</strong> Adjust the leveling feet so all four corners are firm and the cabinet does not rock. Excessive movement can shake connectors loose during spin.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Turn off the dryer at the circuit breaker** for at least five minutes to perform a full power reset, then restore power.
-2. **Start a short Time Dry test cycle** and monitor the dryer for about one minute to see if the F28 code returns immediately.
-3. **Disconnect power and locate the moisture sensor bars** inside the drum, usually near the lint filter housing or along the front rim, and inspect the wiring harnesses and connectors for looseness, corrosion, or damage.
-4. **Clean the sensor bars thoroughly** with a soft cloth and rubbing alcohol to remove lint, fabric softener film, and detergent residue, then wipe dry.
-5. **Check the sensor circuit wiring and connectors** for continuity and stable connections using a multimeter if the error persists after cleaning.
-6. **Replace the moisture sensor assembly** if the wiring is intact and the sensor is clean but the code continues to appear.
-7. **Inspect or replace the main control board** only if symptoms and testing point to a control-side communication fault rather than a local sensor or wiring problem.
+1. **Disconnect power** by unplugging the washer or switching off the breaker, then wait two minutes for capacitors to discharge.
+2. **Remove the top or rear panel** to access the CCU (usually mounted near the control console) and the MCU (typically behind the drive motor or lower in the cabinet).
+3. **Inspect all connectors** linking the CCU and MCU. Look for loose locks, bent pins, corrosion, or melted plastic. Pull each connector apart and examine both the plug and socket.
+4. **Clean and reseat** every connector on the communication harness. Use electrical contact cleaner if you see discoloration or oxidation, then push connectors together until they lock.
+5. **Check harness continuity** with a multimeter set to ohms. With both ends disconnected, verify each wire shows low resistance (typically under 2 Ω) and that no wires are shorted to adjacent pins or ground.
+6. **Level the washer** by adjusting the four leveling feet so the cabinet does not rock and a bubble level reads centered on the top surface.
+7. **Reassemble and test** by running a short cycle. If F28 returns, isolate the fault by swapping in a known-good CCU or MCU to determine whether the failure follows the board or stays with the wiring harness.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Moisture sensor assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dryer-f28-error-code&k=Moisture+sensor+assembly&tag=errorcodefixes-20) \| Primary component for F28 faults after wiring and cleanliness are verified. |
-| Dryer wiring harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dryer-f28-error-code&k=Dryer+wiring+harness&tag=errorcodefixes-20) \| Replace if connectors or wires in the moisture sensor circuit are damaged or corroded. |
-| Main electronic control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dryer-f28-error-code&k=Main+electronic+control+board&tag=errorcodefixes-20) \| Only required if testing confirms a board-level communication fault rather than a sensor issue. |
+| Kenmore washer CCU (Central Control Unit / main control board) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dryer-f28-error-code&k=Kenmore+washer+CCU+%28Central+Control+Unit+%2F+main+control+board%29&tag=errorcodefixes-20) \| Match your model number; the CCU is the main logic board mounted near the console. |
+| Kenmore washer MCU (Motor Control Unit / inverter board) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dryer-f28-error-code&k=Kenmore+washer+MCU+%28Motor+Control+Unit+%2F+inverter+board%29&tag=errorcodefixes-20) \| Verify compatibility by model; the MCU drives the motor and communicates with the CCU. |
+| Washer wiring harness (CCU-to-MCU cable) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dryer-f28-error-code&k=Washer+wiring+harness+%28CCU-to-MCU+cable%29&tag=errorcodefixes-20) \| Order the correct harness for your model if wires are chafed, pinched, or show continuity faults. |
 
 ## When to Call a Pro
 
-If you are uncomfortable working with electrical connections or if the error returns after cleaning the sensor bars and reseating all connectors, call a qualified appliance technician. Also call a pro if multimeter testing reveals wiring faults you cannot trace or if the code persists after replacing the moisture sensor assembly, since control board diagnosis requires model-specific knowledge and test points not covered in general guides.
+Call a technician if you are uncomfortable working inside a washer cabinet with live wiring nearby, if continuity testing or board swapping is outside your skill set, or if the fault persists after you have reseated connectors and verified harness integrity. A qualified service tech can quickly isolate whether the CCU, MCU, or harness is at fault and has access to diagnostic software and known-good swap boards. Professional diagnosis is also wise if your washer is still under warranty, because opening the cabinet may void coverage.
+
+**Rough cost:** DIY runs about $50–250 in parts (harness or board), 1–2 hours. A pro service call runs about $150–350 service call plus parts.

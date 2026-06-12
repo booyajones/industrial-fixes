@@ -1,9 +1,9 @@
 ---
 title: "Kenmore Microwave E11 Error - Causes & Fix"
-description: "E11 on a Kenmore microwave means a humidity sensor fault. The most common fix is replacing the failed humidity sensor."
-pubDatetime: 2026-05-31T07:45:59Z
-modDatetime: 2026-05-31T07:45:59Z
-author: "James Rutherford"
+description: "E11 means humidity sensor fault. Most often a failed sensor or loose connector. Check wiring first, then replace the sensor."
+pubDatetime: 2026-06-10T05:15:31Z
+modDatetime: 2026-06-10T05:15:31Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
@@ -11,42 +11,66 @@ tags:
   - microwave
   - kenmore
 money_part: "Humidity sensor"
+most_likely_cause: "humidity sensor failure"
+likelihood: "the most common cause"
+diy_or_pro: "pro"
 ---
 
 ## Kenmore Microwave E11 Error — What It Means
 
-The E11 error code on a Kenmore microwave indicates a humidity sensor circuit fault. The control board has detected an abnormal signal from the moisture sensing system, which some models use to monitor steam levels during cooking. This is not a general electrical failure code but a specific sensor-related problem.
+On Kenmore microwaves, E11 indicates a humidity sensor error. The control board is not receiving a normal signal from the humidity-sensing circuit. This sensor is used during some automatic cooking cycles to measure steam levels inside the cavity. When the sensor circuit is open, shorted, or producing an abnormal reading, the control throws E11 and may prevent certain automatic functions from running.
 
-Because Kenmore is a brand label applied to microwaves built by different manufacturers, the first three digits of your model number identify who actually manufactured the unit. The underlying cause is typically a failed humidity sensor, moisture intrusion around the sensor area, a loose or corroded connector, damaged wiring, or occasionally a control board issue that misreads the sensor signal.
+Because Kenmore-branded microwaves were built by different manufacturers over the years, the exact sensor design and location can vary by model. Always confirm your exact model number before ordering parts. The fault chart for Kenmore ties E11 specifically to the humidity sensor circuit, not the magnetron or high-voltage components.
+
+## Before You Replace Anything
+
+Many people replace the control board first. Check the humidity sensor connector and wiring for continuity and corrosion before ordering any board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed humidity sensor** The sensor itself has deteriorated or shorted internally, sending no signal or an out-of-range signal to the control board.
-- **Moisture or steam exposure** Water vapor has infiltrated the sensor housing or connector pins, causing erratic readings or short circuits.
-- **Loose or damaged sensor connector** The plug at the sensor or control board has vibrated loose, or pins are corroded or pushed back in the housing.
-- **Wiring harness damage** Wires between the sensor and control board are pinched, burned, or have broken strands that cause intermittent faults.
-- **Control board misinterpretation** The PCB's sensor input circuit has failed and reads the humidity signal incorrectly even when the sensor is good.
+- **Failed humidity sensor (~50%)** The sensor element itself opens or shorts internally, especially after years of steam and heat exposure in the cavity.
+- **Loose or corroded connector (~30%)** The wiring terminals at the sensor or control board develop intermittent contact, green corrosion, or heat damage, breaking the circuit path.
+- **Damaged wiring harness (~12%)** Wires between the sensor and control can break, fray, or short against metal cabinet edges, particularly near hinge areas in over-the-range models.
+- **Control board misreading the sensor (~8%)** The electronic control itself develops a fault in the input circuit, throwing E11 even when the sensor and harness test correctly.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the code clear after you unplug the microwave for two minutes and plug it back in?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault may be transient or triggered by a power surge. Monitor for recurrence over a few days before ordering parts.<br><strong>No:</strong> The fault is persistent. Move on to inspect the sensor connector and wiring.</div>
+</details>
+
+<details class="dtree"><summary>Can you locate and inspect the humidity sensor connector near the control board or cavity wall for visible corrosion, melted plastic, or loose pins?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Clean or reseat the connector. If terminals are damaged, replace the harness or repair the connector before replacing the sensor.<br><strong>No:</strong> Access requires removing the outer cabinet. Call a service technician to test the sensor circuit safely.</div>
+</details>
+
+<details class="dtree"><summary>Is your microwave an over-the-range model installed above a frequently used stovetop?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Heavy steam exposure can accelerate sensor and connector failures. Replace both the sensor and inspect all nearby connectors for heat or moisture damage.<br><strong>No:</strong> Sensor or connector failure is less likely due to environmental stress. Focus on component-level testing of the sensor and control board.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Confirm the model number** by checking the label inside the door frame or on the back panel, and note the first three digits to identify the actual manufacturer of your Kenmore unit.
-2. **Disconnect power** at the breaker or by unplugging the microwave for at least two minutes to reset the control board, then restore power and test whether the code returns.
-3. **Remove the outer cabinet** by taking out the screws around the perimeter and lifting the cover, then locate the humidity sensor, which is often mounted near the cavity or vent area depending on your model's design.
-4. **Inspect the sensor connector and harness** for visible moisture, corrosion on the pins, loose fit, or heat damage to the insulation, and reseat or clean the connector if needed.
-5. **Test the humidity sensor** by disconnecting it and measuring resistance or continuity across its terminals, then compare the reading to the specification table in your model's service manual since values vary by manufacturer.
-6. **Replace the humidity sensor** if the readings are open, shorted, or outside the acceptable range, making sure the new part matches your exact model platform.
-7. **Check the control board** if the sensor and wiring test good, looking for burned traces or damaged components on the sensor input circuit, and replace the board if necessary.
+1. **Note your full model number** from the label inside the door or on the side wall, because Kenmore microwaves were built by multiple manufacturers and parts are not interchangeable across all models.
+2. **Disconnect power** by unplugging the unit or switching off the circuit breaker, and wait two minutes to allow the high-voltage capacitor to discharge before opening any panels.
+3. **Remove the outer cabinet** by taking out the screws securing the top, side, or back panels, depending on your model, to gain access to the control board and sensor wiring inside the chassis.
+4. **Locate the humidity sensor and its connector**, typically a small cylindrical or flat component mounted near the waveguide or control cavity, with a two- or three-wire plug running to the control board.
+5. **Inspect the connector and wiring** for green corrosion, melted or discolored plastic, pushed-back terminals, or broken wire insulation, and clean or repair any visible damage.
+6. **Test the sensor circuit for continuity** using a multimeter if you have service literature, or simply replace the humidity sensor if the connector and wiring look intact but the code persists.
+7. **Reassemble the cabinet**, restore power, and run a short cook cycle or sensor-reheat function to confirm the E11 code does not return and automatic features operate normally.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Humidity sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-microwave-e11-error-code&k=Humidity+sensor&tag=errorcodefixes-20) \| Match by model number and verify the connector type for your specific Kenmore platform. |
-| Wiring harness (sensor to control board) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-microwave-e11-error-code&k=Wiring+harness+%28sensor+to+control+board%29&tag=errorcodefixes-20) \| Needed if wires are burned, pinched, or connector housings are cracked. |
-| Electronic control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-microwave-e11-error-code&k=Electronic+control+board&tag=errorcodefixes-20) \| Required when sensor and wiring test good but the code persists or board shows visible damage. |
+| Humidity sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-microwave-e11-error-code&k=Humidity+sensor&tag=errorcodefixes-20) \| Order by your exact Kenmore model number, as sensor design varies by OEM. |
+| Wiring harness or connector | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-microwave-e11-error-code&k=Wiring+harness+or+connector&tag=errorcodefixes-20) \| Only if terminals are melted, broken, or heavily corroded beyond cleaning. |
+| Electronic control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-microwave-e11-error-code&k=Electronic+control+board&tag=errorcodefixes-20) \| Replace only after confirming the sensor and wiring test correctly but the code remains. |
 
 ## When to Call a Pro
 
-Call a technician if you are not comfortable working inside a microwave cabinet, since high-voltage components like the magnetron and capacitor remain dangerous even after unplugging. Also call for help if you lack a multimeter or the service manual with sensor specifications for your exact model, or if you have replaced the sensor and harness but the E11 code returns immediately. A qualified appliance tech can cross-reference your model prefix to the correct OEM parts database and has the test equipment to isolate control-board faults safely.
+Call a professional if you are uncomfortable working inside the microwave cabinet, even with power disconnected. Microwaves contain a high-voltage capacitor that can hold a dangerous charge. A technician can safely discharge the capacitor, test the sensor circuit with the correct service manual values, and identify whether the fault lies in the sensor, harness, or control board. Professional diagnosis is also worthwhile if you have already replaced the sensor and connector but E11 returns, since the control board input circuit may need specialized testing or replacement.
+
+**Rough cost:** A pro service call runs about $150–280.

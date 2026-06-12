@@ -1,52 +1,76 @@
 ---
 title: "Kenmore Oven F10 Error Code - Causes & Fix"
-description: "F10 means runaway oven temperature detected. Most often caused by a failed temperature sensor or faulty control board."
-pubDatetime: 2026-05-31T00:00:06Z
-modDatetime: 2026-05-31T00:00:06Z
-author: "Dana Kowalski"
+description: "F10 means runaway oven temperature detected. Most often caused by a failed temperature sensor; test it for ~1,100 ohms at room temp."
+pubDatetime: 2026-06-10T05:20:25Z
+modDatetime: 2026-06-10T05:20:25Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - oven
   - kenmore
-money_part: "Oven temperature sensor (temperature probe)"
+money_part: "Oven temperature sensor / temperature probe"
+most_likely_cause: "failed oven temperature sensor/probe"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Kenmore Oven F10 Error Code — What It Means
 
-The F10 error code indicates that your Kenmore oven's electronic control has detected a runaway temperature condition. This means the oven is heating outside the expected range, typically either overheating or the control board is receiving incorrect temperature readings from the sensor. The control shuts down the oven as a safety measure to prevent damage or fire.
+The F10 error code on a Kenmore range or oven indicates the electronic control has detected a runaway oven temperature condition. This means the control board is sensing that the oven temperature is rising out of control, climbing above the expected limit, or heating beyond the set temperature.
 
-This fault is usually caused by a problem in the temperature sensing circuit rather than an actual dangerous overheat. The control board monitors the oven temperature sensor continuously, and if it sees readings that suggest the oven is out of control, it triggers the F10 code and stops heating.
+The fault can be triggered by an actual overheating event or by an incorrect temperature reading from a faulty sensor or control circuit. The code may appear during normal baking or roasting, and is sometimes seen during or after a self-clean cycle when temperatures climb very high. Regardless of when it appears, F10 is always treated as an overtemperature or runaway condition requiring immediate shutdown and diagnosis of the sensor and control circuits.
+
+## Before You Replace Anything
+
+Many people replace the electronic control board first. Always test the oven temperature sensor with a multimeter at room temperature and check wiring continuity before replacing the board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed oven temperature sensor** The sensor probe (RTD) has drifted out of specification or failed open or shorted, sending incorrect resistance values to the control board.
-- **Faulty electronic oven control board** A stuck relay or failed sensing circuit on the main control board misreads normal sensor signals as a runaway condition.
-- **Damaged wiring or loose connectors** Frayed, burned, or corroded wires between the sensor and control board cause intermittent or incorrect readings.
-- **Poor ventilation or blocked airflow** Obstructions around the oven or blocked vents can trap excessive heat and trigger an overheat reading.
-- **Oven door not closing properly** A warped or misaligned door allows heat to escape unevenly or interferes with normal temperature regulation.
+- **Failed oven temperature sensor/probe (~55%)** The sensor reads resistance incorrectly or has drifted out of range, causing the control to see a runaway temperature that is not real.
+- **Failed electronic oven control (EOC) or main control board (~30%)** The control board itself falsely detects runaway temperature, reads the sensor signal incorrectly, or leaves heating relays stuck on.
+- **Wiring or harness issues between sensor and control (~10%)** Loose, damaged, burnt, or corroded connectors and wiring create bad temperature readings that trigger the fault.
+- **Blocked ventilation or obstructed door (~5%)** Poor airflow, blocked vents, or a door that does not fully close can cause real overheating and trigger the code.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the F10 code return immediately after you power-cycle the range?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault is persistent and points to a hardware issue in the sensor, wiring, or control board rather than a one-time event. Proceed with sensor and wiring tests.<br><strong>No:</strong> The fault may have been a transient spike or airflow issue. Check oven vents and door closure, then monitor for recurrence before replacing parts.</div>
+</details>
+
+<details class="dtree"><summary>Does the oven temperature sensor measure approximately 1,100 ohms at room temperature (roughly 75°F)?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The sensor is within range. Check wiring continuity from the sensor to the control board and inspect connectors for damage or looseness.<br><strong>No:</strong> The sensor is out of range. Replace the oven temperature sensor/probe.</div>
+</details>
+
+<details class="dtree"><summary>Are all oven vents clear and does the door close fully without obstruction?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Airflow is not the issue. Focus diagnostic effort on the sensor, wiring harness, and control board.<br><strong>No:</strong> Clear obstructions, make sure proper door alignment, and verify adequate clearance around the range for ventilation before testing electrical components.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Press OFF/CANCEL** and then unplug the range or turn off the circuit breaker for 1 to 2 minutes to reset the control board, then restore power and check if the F10 code returns.
-2. **Inspect the oven cavity and door** to verify nothing is blocking airflow, the area around the range is clear, and the door closes and seals completely.
-3. **Disconnect power at the breaker** and access the oven temperature sensor, usually a metal probe extending into the rear or side wall of the oven cavity.
-4. **Remove the sensor connector** and use a multimeter set to ohms to measure resistance across the sensor terminals at room temperature (it should read close to 1,100 Ω at about 75 °F, and you should replace it if it reads below 1,000 Ω, above 1,300 Ω, or open).
-5. **Check the sensor wire harness** for continuity from the sensor connector to the control board plug, and inspect all wires and terminals for damage, burns, or corrosion.
-6. **Replace the oven temperature sensor** if it is out of the acceptable resistance range or if the wiring is damaged, then restore power and test the oven through a bake cycle.
-7. **Replace the electronic oven control board** if the sensor and all wiring test good, because a faulty relay or sensing circuit inside the control is likely causing the false F10 reading.
+1. **Kill power to the range.** Cancel any active cycle, unplug the appliance from the wall, or switch off the dedicated circuit breaker and wait one to two minutes to allow the control to reset.
+2. **Verify the symptom.** Restore power and note whether the F10 code returns immediately or only after the oven begins to heat. An immediate return suggests a sensor or control board fault rather than a real overheating event.
+3. **Inspect airflow and installation.** Confirm that all oven vents and openings are clear, the door closes fully, and nothing is blocking ventilation around the range. Remove any obstructions and make sure proper clearance.
+4. **Access and test the oven temperature sensor/probe.** Disconnect power again, remove the rear panel or oven cavity cover to locate the sensor (a metal probe extending into the oven cavity), disconnect its two-wire plug, and use a multimeter set to ohms to measure resistance across the sensor terminals at room temperature. A good sensor reads about 1,100 ohms at roughly 75°F. Readings below 1,000 ohms, above 1,300 ohms, or open-line (OL) indicate a failed sensor.
+5. **Check wiring and harness continuity.** If the sensor tests in range, verify continuity from the sensor plug to the control board connector and inspect the harness for loose, burnt, or corroded pins. Repair or replace damaged wiring.
+6. **Replace the electronic oven control (EOC) if sensor and wiring are good.** If the sensor measures correctly and wiring is intact but the F10 code persists, the main control board is misreading the temperature signal or has a failed relay. Replace the control board following the model-specific removal and connector sequence in your service manual.
+7. **Reassemble, restore power, and test.** Reinstall all panels, reconnect power, set the oven to a moderate bake temperature, and monitor for several minutes to confirm the fault is cleared and the oven heats normally without triggering F10.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Oven temperature sensor (temperature probe) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-oven-f10-error-code&k=Oven+temperature+sensor+%28temperature+probe%29&tag=errorcodefixes-20) \| Match the sensor to your Kenmore model number (typically a two-wire RTD rated around 1,100 Ω at room temperature). |
-| Electronic oven control board (EOC) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-oven-f10-error-code&k=Electronic+oven+control+board+%28EOC%29&tag=errorcodefixes-20) \| Also called the main control or clock/timer board. Verify the exact board part number for your model before ordering. |
-| Sensor wire harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-oven-f10-error-code&k=Sensor+wire+harness&tag=errorcodefixes-20) \| Only needed if wiring between the sensor and control is visibly damaged or burned. |
+| Oven temperature sensor / temperature probe | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-oven-f10-error-code&k=Oven+temperature+sensor+%2F+temperature+probe&tag=errorcodefixes-20) \| Metal probe that extends into the oven cavity; should measure ~1,100 ohms at room temperature. Match part number to your model. |
+| Electronic oven control (EOC) / main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-oven-f10-error-code&k=Electronic+oven+control+%28EOC%29+%2F+main+control+board&tag=errorcodefixes-20) \| Replace only after confirming the sensor and wiring are good. Verify the board part number on your existing control before ordering. |
+| Sensor wire harness / connector | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-oven-f10-error-code&k=Sensor+wire+harness+%2F+connector&tag=errorcodefixes-20) \| Two-wire pigtail between the sensor and control board. Replace if pins are burnt, corroded, or continuity is lost. |
 
 ## When to Call a Pro
 
-Call a professional if you are not comfortable working with live electrical circuits or removing the range's rear panel to access components. Multimeter testing is straightforward, but replacing the control board involves disconnecting multiple wire harnesses and mounting screws, and any mistake can damage the new board or create a shock hazard. If the F10 code returns immediately after a sensor replacement and all wiring checks out, the control board is the likely culprit and a technician can confirm the diagnosis and install the correct replacement part for your model.
+Call a professional if you are uncomfortable working with 240-volt appliance wiring, if your range is hard-wired rather than plug-in, or if you cannot safely access the rear panel or control-board mounting area. A technician should also be called if you have replaced both the sensor and control board and the F10 code returns, since that suggests a less common fault such as a grounding issue, a defective relay on the new board, or an installation problem that requires diagnostic tools and wiring diagrams. If the oven is still under warranty or part of a built-in wall-oven unit that requires cabinet removal, professional service is the safer and faster choice.
+
+**Rough cost:** DIY runs about $20–80 in parts, 30–60 min. A pro service call runs about $150–300.
