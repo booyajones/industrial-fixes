@@ -47,3 +47,10 @@ Alarm 52 on the Danfoss VLT AutomationDrive FC 302 is labeled "AMA low Inom." Th
 ## When to Call a Pro
 
 Call a qualified drive technician or motor specialist if you have verified all motor nameplate data matches the drive parameters and the alarm still appears during AMA. Also get help if you are unsure which motor parameters to enter, if the motor has unusual construction (special windings, high-slip design), or if the drive and motor sizes seem mismatched. A technician can measure actual motor current with a clamp meter during a manual start, confirm the motor is wired correctly, and choose the best commissioning method for your application. Because Alarm 52 is configuration-related and not a hardware fault, professional help usually means getting the setup right rather than replacing parts.
+
+## See Also
+
+- [Danfoss FC302 Alarm 24 - Causes & Fix](/posts/danfoss-fc302-alarm-24-fault-code/)
+- [Danfoss VLT Alarm 14 - Earth Fault: What It Means and How to Fix It](/posts/danfoss-vlt-alarm-14/)
+- [Danfoss FC302 ALARM 27 - Causes & Fix](/posts/danfoss-fc302-alarm-27-fault-code/)
+- [Danfoss FC302 ALARM 28 - Causes & Fix](/posts/danfoss-fc302-alarm-28-fault-code/)

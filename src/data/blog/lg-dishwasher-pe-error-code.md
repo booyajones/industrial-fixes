@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a professional if you are uncomfortable working with electrical connections or if the PE code persists after you have replaced the water level sensor and verified all wiring is intact. A technician can use a multimeter to test the sensor signal path and the control board's input circuit. Also call a pro if the dishwasher requires disassembly beyond the lower panels, or if you discover water inside the control-board compartment, which may indicate a leak that must be traced and sealed before any electrical repair is safe.
 
 **Rough cost:** DIY runs about $30–80 in parts, 45–90 min. A pro service call runs about $150–280.
+
+## See Also
+
+- [LG Washer Drive Motor/Stator-Rotor Replacement - Signs & How-To](/posts/lg-washer-drive-motor-stator-rotor-direct-drive-replacement/)
+- [LG Refrigerator Error Codes — Complete Fix Guide](/posts/lg-refrigerator-error-codes/)
+- [LG Dryer HE Error Code - Causes & Fix](/posts/lg-dryer-he-error-code/)
+- [LG Washer Not Dispensing Detergent - Causes & Fix](/posts/lg-washer-not-dispensing-detergent/)

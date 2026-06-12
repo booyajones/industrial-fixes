@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a technician if the Add message remains after you have filled the steam feeder to MAX with tap water, closed the drawer fully, and performed a full power-cycle reset. Persistent Add displays suggest the steam feeder assembly is damaged, the drawer latch is broken, or the control board cannot read the feeder status. A qualified service provider can inspect the steam system, test the feeder assembly, and replace it if necessary. Because this is a water-supply issue and not a high-voltage or sealed-system problem, most homeowners can handle the filling and reset steps on their own. Professional help is only required when the hardware itself has failed.
 
 **Rough cost:** DIY runs about $0, 1 minute (filling water). A pro service call runs about $100-150 service call if the steam feeder assembly is damaged.
+
+## See Also
+
+- [LG Oven Door Won't Lock - Causes & Fix](/posts/lg-oven-door-wont-lock/)
+- [LG Refrigerator Compressor Start Relay & Overload Replacement](/posts/lg-refrigerator-compressor-start-relay-ptc-overload-replacement/)
+- [LG Dishwasher PE Error Code - Causes & Fix](/posts/lg-dishwasher-pe-error-code/)
+- [LG Refrigerator Freezer Not Freezing - Causes & Fix](/posts/lg-refrigerator-freezer-not-freezing/)

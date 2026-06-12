@@ -442,5 +442,35 @@
     "score": 3,
     "reason": "Research explicitly states A.147 is NOT a verified GA800 code; draft proceeds anyway with invented causes not tied to any confirmed meaning, violating rule #1 (code reality) and #2 (accurate meaning).",
     "date": "2026-06-11"
+  },
+  "yaskawa-ga800-vfd-a-139-fault-code": {
+    "topic": "Yaskawa GA800 VFD A.139 fault code",
+    "score": 3,
+    "reason": "Research explicitly states A.139 is NOT documented in the available sources and exact meaning cannot be verified; draft invents specific CPU/software fault description without manufacturer confirmation for this code on this drive.",
+    "date": "2026-06-12"
+  },
+  "yaskawa-ga800-vfd-a-141-fault-code": {
+    "topic": "Yaskawa GA800 VFD A.141 fault code",
+    "score": 6,
+    "reason": "Research does not confirm A.141 is a documented GA800 code; author explicitly states 'I cannot quote Yaskawa's exact wording for that specific alarm code with confidence' - fails requirement (1) for verified code documentation.",
+    "date": "2026-06-12"
+  },
+  "yaskawa-a1000-vfd-cpf05-fault-code": {
+    "topic": "Yaskawa A1000 VFD CPF05 fault code",
+    "score": 4,
+    "reason": "CPF05 is not confirmed to exist in the research provided; the draft extrapolates from CPF family codes without verification that CPF05 is a real, documented fault code for the Yaskawa A1000.",
+    "date": "2026-06-12"
+  },
+  "yaskawa-a1000-vfd-gf-fault-code": {
+    "topic": "Yaskawa A1000 VFD GF fault code",
+    "score": 0,
+    "reason": "review error: HTTP Error 429: Too Many Requests",
+    "date": "2026-06-12"
+  },
+  "yaskawa-a1000-vfd-op-fault-code": {
+    "topic": "Yaskawa A1000 VFD oP fault code",
+    "score": 3,
+    "reason": "FAIL: Research explicitly states 'oP does not appear to use as a standard fault code' and 'not explicitly defined' for A1000\u2014this code is not confirmed real/documented for this exact brand+model, violating criterion 1.",
+    "date": "2026-06-12"
   }
 }

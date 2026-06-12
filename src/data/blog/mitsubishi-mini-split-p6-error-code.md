@@ -52,3 +52,10 @@ The system uses temperature sensors on the indoor coil to detect these extremes 
 ## When to Call a Pro
 
 Call a licensed HVAC technician if the fault persists after cleaning filters and checking airflow, or if you are not comfortable working with refrigerant or electrical diagnostics. Refrigerant work requires recovery equipment, gauges, and EPA certification. A pro should also diagnose sensor or control-board faults, verify system charge and pressures with accurate instruments, and perform any refrigerant leak repair or component replacement that involves brazing or soldering refrigerant lines.
+
+## See Also
+
+- [Mitsubishi PUY Air Handler Error Codes — Fault Code Diagnostic Guide](/posts/mitsubishi-puy-error-codes/)
+- [Mitsubishi E3 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-e3-error-code/)
+- [Mitsubishi E7 Error Code - Causes & Fix](/posts/mitsubishi-mini-split-e7-error-code/)
+- [Mitsubishi F0005 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-f0005-error-code/)

@@ -49,3 +49,10 @@ The PA error code on Mitsubishi mini-split systems does not have a single univer
 ## When to Call a Pro
 
 Call a licensed HVAC technician if the PA code returns after you have confirmed all zones are in compatible modes and the drain system is clear, or if you do not have the tools to check refrigerant charge and pressures. Because PA is model-specific and can involve compressor protection, refrigerant-side diagnostics, or control-board logic, an incorrect guess can waste time and money on parts that do not fix the root cause. A qualified tech will have the Mitsubishi service manual, fault-table lookup access, and refrigerant gauges needed to diagnose the exact protection input that is active on your system and perform any refrigerant or electrical repairs safely and correctly.
+
+## See Also
+
+- [Mitsubishi UF Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-uf-error-code/)
+- [Mitsubishi City Multi P8 / E6 Error Codes — Causes & Fix](/posts/mitsubishi-city-multi-error-codes/)
+- [Mitsubishi Mr. Slim Error Code P6 - What It Means and How to Fix It](/posts/mitsubishi-mr-slim-error-code-p6/)
+- [Mitsubishi E7 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-e7-error-code/)

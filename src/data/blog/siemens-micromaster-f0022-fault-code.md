@@ -50,3 +50,10 @@ The documented hardware faults that trigger F0022 include DC-link overcurrent or
 ## When to Call a Pro
 
 Call a qualified drives technician or Siemens service center if the fault remains after you have reseated the I/O board and disconnected all motor cables, because a persistent F0022 with no external wiring points to an internal IGBT, DC-link capacitor, or braking chopper failure that requires specialized test equipment and parts. Also reach out for help if the fault is sporadic and you are not confident tuning sensorless vector control or selecting braking components, since incorrect settings can damage the drive or motor. Drives still under warranty should be diagnosed by Siemens to preserve coverage.
+
+## See Also
+
+- [Siemens 840D Alarm 380000 — Causes & Fix](/posts/siemens-840d-alarm-380000/)
+- [Siemens Micromaster F0222 - Causes & Fix](/posts/siemens-micromaster-f0222-fault-code/)
+- [Siemens Micromaster F0020 - Causes & Fix](/posts/siemens-micromaster-f0020-fault-code/)
+- [Siemens G120 F0015 Fault - Causes & Fix](/posts/siemens-g120-vfd-f0015-fault-code/)

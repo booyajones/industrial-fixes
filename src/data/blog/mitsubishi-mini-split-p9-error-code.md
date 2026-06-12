@@ -50,3 +50,10 @@ This code is specific to Mitsubishi Electric. Always check your model's service 
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with live 240 V power, if you lack a multimeter and the model-specific service manual, or if the sensor tests normal but the code will not clear. Refrigerant work (checking charge, recovering, and recharging) requires EPA 608 certification and manifold gauges. Mitsubishi systems often have model-specific fault trees and board configurations, so an experienced tech with Mitsubishi training will diagnose faster and avoid misdiagnosis across similar-looking error codes.
+
+## See Also
+
+- [Mitsubishi E7 Error Code — Refrigerant Cycle Fault](/posts/mitsubishi-e7-error-code/)
+- [Mitsubishi Mini Split EE Error Code - Causes & Fix](/posts/mitsubishi-mini-split-ee-error-code/)
+- [Mitsubishi MR-J4 Servo Amplifier Alarm Codes — AL.10, AL.16, AL.30, AL.50 Fix](/posts/mitsubishi-mr-j4-servo-alarm-codes/)
+- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)

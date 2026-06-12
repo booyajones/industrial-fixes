@@ -49,3 +49,10 @@ The P5 code on Mitsubishi mini-split systems signals a condensate-drain or water
 ## When to Call a Pro
 
 Call a licensed HVAC technician if the P5 code returns after you have cleared the drain line and verified the pump runs, or if you measure correct voltage at the pump but the pump does not operate and you are not comfortable replacing it. Also call if you suspect a control board output fault, if the float switch behaves erratically and you cannot source the correct replacement, or if the drain pan itself is cracked or misaligned and requires removal of the indoor unit. Refrigerant work and electrical troubleshooting beyond basic voltage checks should be left to qualified professionals.
+
+## See Also
+
+- [Mitsubishi Mini Split E3 Error - Causes & Fix](/posts/mitsubishi-mini-split-e3-error-code/)
+- [Mitsubishi UF Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-uf-error-code/)
+- [Mitsubishi P2 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-p2-error-code/)
+- [Mitsubishi P4 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-p4-error-code/)

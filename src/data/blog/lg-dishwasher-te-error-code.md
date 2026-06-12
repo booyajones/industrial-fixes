@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a professional if you are not comfortable de-energizing the dishwasher, removing panels, or using a multimeter to test resistance. A qualified technician has model-specific service manuals with exact thermistor resistance tables, proper diagnostic meters, and the experience to isolate sensor faults from control-board failures. If you have already tested the sensor and wiring and both appear normal, the control board's temperature-sense input circuit may be damaged and require board-level diagnosis or replacement, which is best left to a trained repair technician.
 
 **Rough cost:** A pro service call runs about $150–300.
+
+## See Also
+
+- [LG Oven F17 Error Code - Causes & Fix](/posts/lg-oven-f17-error-code/)
+- [LG Microwave F-3 Error - Causes & Fix](/posts/lg-microwave-f-3-error-code/)
+- [LG Refrigerator Water Leaking on Floor - Causes & Fix](/posts/lg-refrigerator-water-leaking-on-floor/)
+- [LG Dryer HS Error Code - Causes & Fix](/posts/lg-dryer-hs-error-code/)

@@ -52,3 +52,10 @@ The fault can stem from airflow restrictions that cause the outdoor coil or comp
 ## When to Call a Pro
 
 Call a licensed HVAC technician if the P8 code persists after you have cleaned the coil and confirmed good airflow, or if you lack the tools to safely measure voltage and test compressor start current. Diagnosing inverter boards, compressor windings, and refrigerant-side faults requires specialized gauges, meters, and knowledge of the specific Mitsubishi platform. Compressor and inverter replacement also involves recovering refrigerant, brazing, evacuation, and precise electrical work that must meet local codes. If the outdoor unit is still under warranty, unauthorized repairs may void coverage, so verify warranty status and use a Mitsubishi-certified contractor for any board or compressor work.
+
+## See Also
+
+- [Mitsubishi F0005 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-f0005-error-code/)
+- [Mitsubishi Mini Split E6 Error Code — Communication Error Indoor/Outdoor Fix](/posts/mitsubishi-mini-split-e6-error/)
+- [Mitsubishi P5 Error Code — Drain Pump Fault: Causes & Fix](/posts/mitsubishi-p5-error-code/)
+- [Mitsubishi PL Error Code - Causes & Fix](/posts/mitsubishi-mini-split-pl-error-code/)

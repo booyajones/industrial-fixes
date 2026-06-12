@@ -47,3 +47,10 @@ This alarm appears when you attempt to run AMA and the drive calculates the moto
 ## When to Call a Pro
 
 Call a qualified technician or controls engineer if you are not familiar with VFD commissioning, motor parameter entry, or manual tuning procedures. ALARM 53 is a configuration issue, not a simple reset, and incorrect motor data or mismatched components can lead to repeated faults or motor damage. If the motor is genuinely oversized for the drive's AMA routine and you need help sizing a replacement drive or programming manual motor control, professional assistance will save time and prevent equipment harm.
+
+## See Also
+
+- [Danfoss FC302 ALARM 15 - Causes & Fix](/posts/danfoss-fc302-alarm-15-fault-code/)
+- [Danfoss VFD Fault UL — Causes & Fix](/posts/danfoss-vfd-fault-ul/)
+- [Danfoss FC302 Alarm 47 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-47-fault-code/)
+- [Danfoss FC302 ALARM 35 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-35-fault-code/)

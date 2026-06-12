@@ -3403,6 +3403,122 @@
     "yaskawa-a1000-vfd-cpf02-fault-code": {
       "topic": "Yaskawa A1000 VFD CPF02 fault code",
       "date": "2026-06-11"
+    },
+    "yaskawa-ga800-vfd-a-139-fault-code": {
+      "topic": "Yaskawa GA800 VFD A.139 fault code",
+      "date": "2026-06-12"
+    },
+    "yaskawa-ga800-vfd-a-141-fault-code": {
+      "topic": "Yaskawa GA800 VFD A.141 fault code",
+      "date": "2026-06-12"
+    },
+    "yaskawa-ga800-vfd-a-145-fault-code": {
+      "topic": "Yaskawa GA800 VFD A.145 fault code",
+      "date": "2026-06-12"
+    },
+    "yaskawa-a1000-vfd-cpf04-fault-code": {
+      "topic": "Yaskawa A1000 VFD CPF04 fault code",
+      "date": "2026-06-12"
+    },
+    "yaskawa-a1000-vfd-cpf05-fault-code": {
+      "topic": "Yaskawa A1000 VFD CPF05 fault code",
+      "date": "2026-06-12"
+    },
+    "yaskawa-a1000-vfd-cpf06-fault-code": {
+      "topic": "Yaskawa A1000 VFD CPF06 fault code",
+      "date": "2026-06-12"
+    },
+    "yaskawa-a1000-vfd-cpf07-fault-code": {
+      "topic": "Yaskawa A1000 VFD CPF07 fault code",
+      "date": "2026-06-12"
+    },
+    "yaskawa-a1000-vfd-cpf08-fault-code": {
+      "topic": "Yaskawa A1000 VFD CPF08 fault code",
+      "date": "2026-06-12"
+    },
+    "yaskawa-a1000-vfd-cpf11-fault-code": {
+      "topic": "Yaskawa A1000 VFD CPF11 fault code",
+      "date": "2026-06-12"
+    },
+    "yaskawa-a1000-vfd-cpf12-fault-code": {
+      "topic": "Yaskawa A1000 VFD CPF12 fault code",
+      "date": "2026-06-12"
+    },
+    "yaskawa-a1000-vfd-cpf13-fault-code": {
+      "topic": "Yaskawa A1000 VFD CPF13 fault code",
+      "date": "2026-06-12"
+    },
+    "yaskawa-a1000-vfd-cpf14-fault-code": {
+      "topic": "Yaskawa A1000 VFD CPF14 fault code",
+      "date": "2026-06-12"
+    },
+    "yaskawa-a1000-vfd-cpf16-fault-code": {
+      "topic": "Yaskawa A1000 VFD CPF16 fault code",
+      "date": "2026-06-12"
+    },
+    "yaskawa-a1000-vfd-cpf19-fault-code": {
+      "topic": "Yaskawa A1000 VFD CPF19 fault code",
+      "date": "2026-06-12"
+    },
+    "yaskawa-a1000-vfd-gf-fault-code": {
+      "topic": "Yaskawa A1000 VFD GF fault code",
+      "date": "2026-06-12"
+    },
+    "yaskawa-a1000-vfd-lf-fault-code": {
+      "topic": "Yaskawa A1000 VFD LF fault code",
+      "date": "2026-06-12"
+    },
+    "yaskawa-a1000-vfd-lf2-fault-code": {
+      "topic": "Yaskawa A1000 VFD LF2 fault code",
+      "date": "2026-06-12"
+    },
+    "yaskawa-a1000-vfd-lf3-fault-code": {
+      "topic": "Yaskawa A1000 VFD LF3 fault code",
+      "date": "2026-06-12"
+    },
+    "yaskawa-a1000-vfd-oc-fault-code": {
+      "topic": "Yaskawa A1000 VFD oC fault code",
+      "date": "2026-06-12"
+    },
+    "yaskawa-a1000-vfd-oh-fault-code": {
+      "topic": "Yaskawa A1000 VFD oH fault code",
+      "date": "2026-06-12"
+    },
+    "yaskawa-a1000-vfd-ol-fault-code": {
+      "topic": "Yaskawa A1000 VFD oL fault code",
+      "date": "2026-06-12"
+    },
+    "yaskawa-a1000-vfd-ol1-fault-code": {
+      "topic": "Yaskawa A1000 VFD oL1 fault code",
+      "date": "2026-06-12"
+    },
+    "yaskawa-a1000-vfd-ol2-fault-code": {
+      "topic": "Yaskawa A1000 VFD oL2 fault code",
+      "date": "2026-06-12"
+    },
+    "yaskawa-a1000-vfd-ol3-fault-code": {
+      "topic": "Yaskawa A1000 VFD oL3 fault code",
+      "date": "2026-06-12"
+    },
+    "yaskawa-a1000-vfd-ol4-fault-code": {
+      "topic": "Yaskawa A1000 VFD oL4 fault code",
+      "date": "2026-06-12"
+    },
+    "yaskawa-a1000-vfd-ol5-fault-code": {
+      "topic": "Yaskawa A1000 VFD oL5 fault code",
+      "date": "2026-06-12"
+    },
+    "yaskawa-a1000-vfd-ol6-fault-code": {
+      "topic": "Yaskawa A1000 VFD oL6 fault code",
+      "date": "2026-06-12"
+    },
+    "yaskawa-a1000-vfd-ol7-fault-code": {
+      "topic": "Yaskawa A1000 VFD oL7 fault code",
+      "date": "2026-06-12"
+    },
+    "yaskawa-a1000-vfd-op-fault-code": {
+      "topic": "Yaskawa A1000 VFD oP fault code",
+      "date": "2026-06-12"
     }
   }
 }
