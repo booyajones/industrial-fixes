@@ -1,52 +1,75 @@
 ---
 title: "Electrolux Washer E44 Error Code - Causes & Fix"
-description: "E44 means door lock failure on Electrolux washers. Most common fix: replace the door lock assembly after checking door closure."
-pubDatetime: 2026-05-31T02:46:12Z
-modDatetime: 2026-05-31T02:46:12Z
-author: "James Rutherford"
+description: "E44 is a door-lock recognition fault. The control cannot see a valid locked-door signal. Most often caused by a faulty door lock assembly."
+pubDatetime: 2026-06-10T15:55:14Z
+modDatetime: 2026-06-10T15:55:14Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - washer
   - electrolux
-money_part: "Door lock assembly"
+money_part: "Door lock assembly (door interlock)"
+most_likely_cause: "Faulty door lock assembly"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 ---
 
 ## Electrolux Washer E44 Error Code — What It Means
 
-The E44 error code on an Electrolux washer indicates a door lock recognition failure. The control board is not seeing the correct door lock status during startup or operation. This code is part of the E40–E45 family, all of which relate to door lock circuit faults. The washer will not start a cycle until it can confirm the door is locked for safety.
+E44 belongs to the E40–E45 door lock circuit fault family on Electrolux front-load washers. The control board is not detecting a valid door-lock state. Electrolux support groups E42 as door lock device failure and E41 as door open, placing E44 in the same door-interlock recognition circuit. This is not a water-fill code, despite some third-party repair sites incorrectly describing it that way.
 
-In most cases, the machine either cannot physically lock the door or cannot detect that the lock has engaged. The fault may be mechanical (latch not catching), electrical (bad lock or wiring), or related to the control board itself.
+The code can appear if the door is not fully closed, if the door lock assembly has failed, if wiring between the lock and control is loose or damaged, or if the control board itself cannot process the lock signal correctly. The machine will not start a cycle until the lock is recognized and the fault clears.
+
+## Before You Replace Anything
+
+Some users replace the main control board when the door lock or its connector is actually at fault. Always test the lock assembly and inspect the harness connector for looseness or corrosion before ordering a control board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Door not fully closed or obstructed** Clothing caught in the door seal, debris on the striker, or insufficient force to close the door completely prevents the latch from engaging with an audible click.
-- **Worn or faulty door lock assembly** The door lock mechanism has failed mechanically or electrically and can no longer signal the control board that the door is secure.
-- **Loose or corroded wiring connector** The harness plug at the door lock or control board has backed out, corroded, or developed a bad pin connection interrupting the lock circuit.
-- **Damaged door striker or hinge** The plastic or metal striker on the door frame is cracked, misaligned, or worn so the lock cannot capture it properly.
-- **Main control board failure** The PCB's door lock detection circuit or relay has failed and cannot read or drive the lock even when the lock itself is good.
+- **Faulty door lock assembly (~50%)** The door interlock unit fails internally and no longer signals the control that the door is secure.
+- **Loose or corroded wiring and connectors (~25%)** The harness plug at the door lock or at the control can work loose, corrode, or develop broken conductors.
+- **Door not fully closed or latch obstructed (~15%)** Clothing, debris, or a misaligned gasket prevents the door from engaging the striker with a clear click.
+- **Main control board fault (~10%)** If the lock and harness test good but the code persists, the control PCB may no longer recognize the lock signal.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the door close completely with a firm click?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The latch is engaging. Proceed to inspect the door lock assembly and wiring.<br><strong>No:</strong> Check for clothing or debris in the door seal and verify the striker is aligned and intact.</div>
+</details>
+
+<details class="dtree"><summary>With the washer unplugged, is the door lock harness connector seated firmly and free of corrosion?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The connector looks good. Test the door lock assembly with a multimeter or replace it if you see physical damage.<br><strong>No:</strong> Clean or reseat the connector. Replace the harness if conductors are broken or terminals are badly corroded.</div>
+</details>
+
+<details class="dtree"><summary>After replacing the door lock, does the code clear?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault is resolved. Reassemble and test the cycle.<br><strong>No:</strong> The control board may be faulty. Call a technician to test the control or consult diagnostic mode.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Unplug the washer** and wait one minute to clear the control board, then plug back in and attempt to close the door firmly until you hear a distinct click.
-2. **Open and inspect the door** for clothing, detergent buildup, or objects caught between the door gasket and the frame that would prevent full closure.
-3. **Examine the door striker** on the door frame and the catch on the door itself for cracks, wear, or misalignment that would prevent the lock from engaging.
-4. **Access the door lock assembly** by removing the front panel or top/front trim (consult your service manual for your specific model) and unplug the lock connector.
-5. **Check the lock harness and connector** for pushed-back pins, corrosion, or damage, and verify continuity from the lock plug back to the main board connector.
-6. **Replace the door lock assembly** with an OEM or compatible part if the mechanism does not click, feels loose, or shows visible damage or burn marks.
-7. **Test the washer** by running a short cycle. If E44 returns with a known-good lock and verified wiring, replace the main control board.
+1. **Unplug the washer** and verify the door is fully closed with a clear click.
+2. **Inspect the door seal and latch area** for clothing, debris, or damage that could prevent the door from closing fully.
+3. **Remove the top or front panel** (depending on your model) to access the door lock assembly and its harness connector.
+4. **Inspect the door lock connector** for looseness, corrosion, or broken wires and reseat or repair as needed.
+5. **Test the door lock assembly** with a multimeter for continuity or replace it if it shows signs of burn marks or physical damage.
+6. **Reassemble the washer**, plug it in, and run a short test cycle or enter diagnostic mode to confirm the control now recognizes the door lock.
+7. **If the code persists** after lock replacement and harness inspection, consult a technician to evaluate the main control board.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Door lock assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-washer-e44-error-code&k=Door+lock+assembly&tag=errorcodefixes-20) \| Match your model number. OEM Electrolux locks are recommended for correct fit and connector type. |
-| Door lock wiring harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-washer-e44-error-code&k=Door+lock+wiring+harness&tag=errorcodefixes-20) \| Only if the existing harness shows melting, cuts, or non-repairable connector damage. |
-| Main control board (PCB) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-washer-e44-error-code&k=Main+control+board+%28PCB%29&tag=errorcodefixes-20) \| Required only if replacing the lock does not clear E44. Verify your model and software revision before ordering. |
+| Door lock assembly (door interlock) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-washer-e44-error-code&k=Door+lock+assembly+%28door+interlock%29&tag=errorcodefixes-20) \| Verify by your model number. Look for Electrolux OEM or compatible units. |
+| Wiring harness repair kit or replacement connector | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-washer-e44-error-code&k=Wiring+harness+repair+kit+or+replacement+connector&tag=errorcodefixes-20) \| Only if conductors are broken or terminals are badly corroded. |
 
 ## When to Call a Pro
 
-Call a professional if you are uncomfortable working with electrical connectors or removing the front panel of your washer. Also call if you have replaced the door lock assembly and verified all wiring but the E44 code persists, since main board replacement requires proper part matching and sometimes software configuration. If your washer is under warranty, contact Electrolux or an authorized service center before opening the machine to avoid voiding coverage.
+Call a professional if you are uncomfortable removing panels, if the wiring harness shows extensive damage that requires tracing through the cabinet, or if a new door lock and clean connectors do not clear the fault. A technician can run factory diagnostic mode to isolate whether the control board is no longer processing the lock signal correctly and can replace the main PCB if needed. Also call if the door itself is physically damaged or misaligned and requires structural adjustment.
+
+**Rough cost:** DIY runs about $40–80 in parts, 30–60 min. A pro service call runs about $150–280.

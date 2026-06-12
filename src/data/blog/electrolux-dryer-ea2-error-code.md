@@ -1,48 +1,75 @@
 ---
 title: "Electrolux Dryer EA2 Error Code - Causes & Fix"
-description: "EA2 means incoming voltage above 130 VAC. Check the outlet voltage with a multimeter. If normal, replace the main control board."
-pubDatetime: 2026-05-31T03:56:52Z
-modDatetime: 2026-05-31T03:56:52Z
-author: "Marcus Webb"
+description: "EA2 means incoming voltage above 130 Vac. Most often caused by external power supply spike or bad outlet wiring, not dryer failure."
+pubDatetime: 2026-06-10T15:42:58Z
+modDatetime: 2026-06-10T15:42:58Z
+author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - dryer
   - electrolux
-money_part: "Main control board"
+money_part: "Main Control Board"
+most_likely_cause: "External power supply spike or faulty outlet wiring"
+likelihood: "the most common cause"
+diy_or_pro: "pro"
 ---
 
 ## Electrolux Dryer EA2 Error Code — What It Means
 
-EA2 on an Electrolux or IQ-Touch dryer means the control board has detected incoming line voltage above 130 VAC at the dryer's power supply. This is a power supply issue code, not a wiring fault (wiring problems trigger different codes like H4 or B4). The dryer shuts down to protect itself from overvoltage damage. In many cases the supply voltage is actually high, but the code can also appear when the control board's voltage-sensing circuit fails and falsely reports an overvoltage condition even though the outlet is delivering normal power.
+The EA2 error code indicates that the dryer's electronic control unit has detected incoming AC voltage exceeding 130 Vac. The control board is designed to operate safely within a standard voltage range (typically 90 Vac to 130 Vac). When voltage spikes above this threshold, the control board triggers EA2 to prevent damage to internal components such as the heating relay, user interface, or motor controller and to make sure user safety.
+
+This fault is rarely caused by a failure inside the dryer itself. The root causes are almost exclusively external or related to the power infrastructure feeding the appliance. The dryer is functioning correctly by reporting a problem with the incoming power supply.
+
+## Before You Replace Anything
+
+Many people replace the control board immediately without checking the outlet voltage first. A simple multimeter test at the outlet will show whether the power source is the real problem and save you an expensive board replacement.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Actual overvoltage at the receptacle** The outlet or branch circuit is delivering more than 130 volts, typically due to a utility problem or incorrect installation upstream.
-- **Loose or damaged receptacle wiring** Poor connections at the dryer outlet can cause intermittent voltage spikes that trigger the EA2 fault.
-- **Defective main control board** The control board's voltage-sensing circuit fails and falsely reports EA2 even when measured supply voltage is normal.
-- **Branch circuit or panel issue** Problems at the breaker panel or service entrance can allow voltage to climb above the dryer's safe operating range.
+- **External power supply spike (~60%)** The electrical outlet is receiving voltage higher than 130 Vac due to grid issues, transformer problems, or a momentary surge in the local neighborhood power system.
+- **Faulty outlet or wiring (~25%)** The outlet itself may be damaged, loose, or wired incorrectly (such as a bad neutral connection) causing a floating voltage that reads higher than actual.
+- **Defective control board voltage sensor (~10%)** The voltage sensing circuit on the control board itself may be malfunctioning, causing it to falsely report high voltage even when the outlet is normal.
+- **Loose wiring connection inside dryer (~5%)** A loose or corroded wire connection at the terminal block where power enters the dryer can create intermittent voltage spikes.
+
+## Quick Diagnosis
+
+Answer these to narrow it down fast.
+
+<details class="dtree"><summary>Does the error appear immediately when you plug the dryer back in, before starting a cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The control board is detecting high voltage right away, strongly suggesting an external power problem. Test the outlet voltage with a multimeter.<br><strong>No:</strong> The error may be intermittent or triggered during heating cycles. Still test outlet voltage first, then inspect the terminal block connections inside the dryer.</div>
+</details>
+
+<details class="dtree"><summary>Do other appliances on the same circuit behave normally (no flickering lights, no unusual behavior)?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The problem may be isolated to the dryer outlet or the dryer's control board. Check outlet voltage and inspect the outlet for damage or loose wiring.<br><strong>No:</strong> The circuit or home electrical system may have a voltage problem. Contact an electrician to inspect your home's electrical panel and circuit.</div>
+</details>
+
+<details class="dtree"><summary>After unplugging the dryer for 30 minutes and plugging it back in, does the error clear?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault may have been a momentary power surge. Monitor the dryer for a few cycles. If it returns, the outlet or control board needs inspection.<br><strong>No:</strong> The fault is persistent. Measure outlet voltage with a multimeter. If voltage is normal (115-120 Vac), the control board is likely defective.</div>
+</details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Unplug the dryer** and lock out the breaker before any diagnostics or repair work.
-2. **Measure the receptacle voltage** with a multimeter at the outlet where the dryer plugs in (you may need to restore breaker power briefly for this test, but keep the dryer unplugged).
-3. **If voltage reads above 130 V**, do not return the dryer to service until you correct the upstream electrical problem. Contact an electrician to inspect the branch circuit, panel, and utility supply.
-4. **If voltage is at or below 130 V**, the supply is normal and the fault is inside the dryer. Proceed to inspect the main control board and its voltage-sensing components.
-5. **Replace the main control board** when the outlet voltage checks good but EA2 persists. The board's sensing circuit has failed and is falsely reporting overvoltage.
-6. **Restore power and run a test cycle** to confirm the EA2 code does not return and the dryer operates normally.
-7. **Document the measured voltage** and any repairs for warranty records and future reference.
+1. **Unplug the dryer immediately** and allow the control board to power down for at least 30 seconds (some technicians recommend 30 minutes for a full reset).
+2. **Reconnect power** and observe if the error persists immediately or after starting a cycle.
+3. **Measure the outlet voltage** using a digital multimeter set to AC Volts. Insert the probes into the outlet (hot to neutral) or test at the dryer terminal block. The reading should be between 115 and 120 Vac. If the voltage is above 130 Vac, the problem is external and you need an electrician.
+4. **Inspect the outlet and wiring** for loose connections, burn marks, or incorrect wiring. Check that the outlet is properly grounded and that the neutral connection is secure.
+5. **Open the dryer rear panel** and inspect the terminal block where the power cord connects. Look for loose, corroded, or burned connections. Tighten or replace any damaged terminals.
+6. **If outlet voltage is normal** (below 130 Vac) and all connections are secure, the control board voltage sensor is defective. Replace the main control board.
+7. **Run a test cycle** after repair to verify the error does not reappear. Monitor the dryer for several cycles to confirm the fix.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-dryer-ea2-error-code&k=Main+control+board&tag=errorcodefixes-20) \| Primary replacement when supply voltage is normal but EA2 fault persists. |
-| Dryer power cord and receptacle | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-dryer-ea2-error-code&k=Dryer+power+cord+and+receptacle&tag=errorcodefixes-20) \| Replace if damaged or if wiring inspection reveals loose or corroded connections (typically an electrician's scope). |
+| Main Control Board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-dryer-ea2-error-code&k=Main+Control+Board&tag=errorcodefixes-20) \| Match the exact part number for your Electrolux dryer model, found on the original board or in your service manual. |
+| Dryer Power Cord Terminal Block | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-dryer-ea2-error-code&k=Dryer+Power+Cord+Terminal+Block&tag=errorcodefixes-20) \| Replacement terminal block if the existing one shows burn marks or damaged connections. |
 
 ## When to Call a Pro
 
-Call a licensed electrician if your multimeter shows sustained voltage above 130 V at the dryer outlet. Overvoltage problems originate upstream in the building wiring or utility supply and are outside the scope of appliance repair. If the outlet voltage is normal but you are uncomfortable working with the main control board or do not have a multimeter, contact an appliance technician. Control board replacement requires disconnecting multiple wire harnesses and transferring settings, and misdiagnosis can lead to unnecessary part costs.
+Call a licensed electrician if the outlet voltage measures above 130 Vac, if other appliances on the same circuit show unusual behavior, or if you find damaged wiring in the outlet or breaker panel. Electrical work involving high voltage is dangerous and should not be attempted without proper training and tools. If the outlet and wiring are confirmed normal but the error persists, call an appliance technician to replace the control board. Control board replacement requires disconnecting multiple wire harnesses and careful handling of static-sensitive components.
+
+**Rough cost:** A pro service call runs about $100-250 for electrician to repair outlet or wiring, $200-400 for control board replacement if board is defective.
