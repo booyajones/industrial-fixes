@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Worn or failed soft-charge bypass relay contacts"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "GA800 control board (model-specific)"
 ---
 
 ## Yaskawa GA800 A.123 Fault — What It Means

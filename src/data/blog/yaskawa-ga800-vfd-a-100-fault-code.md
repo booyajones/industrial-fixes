@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "control wiring error or communication fault"
 likelihood: "often"
 diy_or_pro: "pro"
+money_part: "Yaskawa GA800 control board (IGBT driver card)"
 ---
 
 ## Yaskawa GA800 A.100 Fault — What It Means

@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Incomplete or incorrect parameter transfer from keypad, backup file, or option card"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Yaskawa GA800 digital operator keypad"
 ---
 
 ## Yaskawa GA800 A.110 Alarm — What It Means

@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Open or disconnected interlock or safety device in the external control circuit"
 likelihood: "the most common real-world cause"
 diy_or_pro: "pro"
+money_part: "Field control wire"
 ---
 
 ## Yaskawa GA800 A.116 Fault — What It Means

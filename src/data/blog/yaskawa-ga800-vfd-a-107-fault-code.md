@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 diy_or_pro: "pro"
+money_part: "Yaskawa GA800 communication cable (shielded twisted-pair)"
 ---
 
 ## Yaskawa GA800 A.107 Fault — What It Means

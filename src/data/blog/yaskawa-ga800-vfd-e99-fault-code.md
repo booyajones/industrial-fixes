@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Loose or incorrect control wiring on terminals or safety circuits"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "GA800 replacement fan kit"
 ---
 
 ## Yaskawa GA800 E99 Fault — What It Means

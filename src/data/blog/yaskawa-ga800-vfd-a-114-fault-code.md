@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "incorrect or damaged communications wiring"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Communication cable (shielded twisted pair or fieldbus-rated)"
 ---
 
 ## Yaskawa GA800 A.114 Fault — What It Means

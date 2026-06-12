@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Open STO circuit from safety relay, E-stop, or missing jumper"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Safety relay (Pilz, Schmersal, or machine OEM)"
 ---
 
 ## Yaskawa GA800 E88 Fault — What It Means

@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "incorrect communications cable wiring or a disconnected cable"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Shielded twisted-pair communications cable"
 ---
 
 ## Yaskawa GA800 A.120 Fault — What It Means

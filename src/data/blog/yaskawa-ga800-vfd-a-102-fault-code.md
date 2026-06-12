@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Control power instability or loose control terminal wiring"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Yaskawa GA800 control board"
 ---
 
 ## Yaskawa GA800 A.102 Alarm — What It Means

@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Missing or disconnected STO jumper when no external safety circuit is used"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "STO jumper wire or terminal block jumper"
 ---
 
 ## Yaskawa GA800 A.119 Fault — What It Means

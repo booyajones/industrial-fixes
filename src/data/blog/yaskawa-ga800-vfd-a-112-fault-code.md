@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Wrong run-command or speed-reference source selected in the drive parameters"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "External speed reference device or potentiometer"
 ---
 
 ## Yaskawa GA800 A.112 Alarm — What It Means

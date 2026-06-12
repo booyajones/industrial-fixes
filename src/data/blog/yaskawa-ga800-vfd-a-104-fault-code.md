@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 diy_or_pro: "pro"
+money_part: "Yaskawa GA800 control board (main CPU card)"
 ---
 
 ## Yaskawa GA800 A.104 Fault — What It Means

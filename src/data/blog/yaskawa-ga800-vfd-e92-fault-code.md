@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Missing or removed jumper on the STO terminals"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "STO jumper for Yaskawa GA800"
 ---
 
 ## Yaskawa GA800 E92 Fault — What It Means

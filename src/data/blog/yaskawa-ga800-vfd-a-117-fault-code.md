@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Incorrect motor nameplate data or control-mode mismatch"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "GA800 control board"
 ---
 
 ## Yaskawa GA800 A.117 Fault — What It Means

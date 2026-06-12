@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Incorrect wiring or missing connection of the speed-reference signal to the analog input terminals"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Yaskawa GA800 control board"
 ---
 
 ## Yaskawa GA800 A.122 Alarm — What It Means

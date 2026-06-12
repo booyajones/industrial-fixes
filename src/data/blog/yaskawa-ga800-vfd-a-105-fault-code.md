@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "motor wiring issues such as loose terminals, open phase, or incorrect motor connection"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Motor output power cable"
 ---
 
 ## Yaskawa GA800 A.105 Alarm — What It Means

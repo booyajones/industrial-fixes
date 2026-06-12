@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Loose or damaged output cable connection between the drive and motor"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "VFD-rated shielded motor cable"
 ---
 
 ## Yaskawa GA800 A.111 — What It Means

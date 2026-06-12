@@ -12,6 +12,7 @@ tags:
 most_likely_cause: "Incorrect, shorted, or disconnected communications cable"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
+money_part: "Communications cable"
 ---
 
 ## Yaskawa GA800 A.109 Fault — What It Means

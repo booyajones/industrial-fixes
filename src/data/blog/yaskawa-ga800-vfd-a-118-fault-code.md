@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 diy_or_pro: "pro"
+money_part: "Yaskawa GA800 option card (communication or I/O module)"
 ---
 
 ## Yaskawa GA800 A.118 Fault — What It Means
