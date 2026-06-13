@@ -11,6 +11,7 @@ tags:
   - washer
   - amana
 money_part: "Shift actuator or tachometer assembly"
+part_price: "$80-180"
 most_likely_cause: "shift actuator or tachometer assembly failure"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

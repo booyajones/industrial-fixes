@@ -11,6 +11,7 @@ tags:
   - dryer
   - electrolux
 money_part: "Electrolux dryer inlet thermistor"
+part_price: "$20-50"
 most_likely_cause: "Failed or drifting inlet thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

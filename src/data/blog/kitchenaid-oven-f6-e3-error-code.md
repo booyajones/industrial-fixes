@@ -11,6 +11,7 @@ tags:
   - oven
   - kitchenaid
 money_part: "Wiring harness (Appliance Manager to Converter Control)"
+part_price: "$50-150"
 most_likely_cause: "Faulty wiring harness between Appliance Manager and Converter Control"
 likelihood: "the most common cause"
 diy_or_pro: "pro"

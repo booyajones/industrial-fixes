@@ -14,6 +14,7 @@ most_likely_cause: "failed or shorted membrane/touchpad assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE oven touchpad / membrane keypad assembly"
+part_price: "$50-150"
 ---
 
 ## GE Oven F7 Error Code — What It Means

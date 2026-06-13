@@ -14,6 +14,7 @@ most_likely_cause: "Failed temperature sensor or thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Water temperature sensor / thermistor"
+part_price: "$30-80"
 ---
 
 ## Maytag Washer F24 Error Code — What It Means

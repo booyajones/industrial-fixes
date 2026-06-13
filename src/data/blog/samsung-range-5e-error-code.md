@@ -14,6 +14,7 @@ most_likely_cause: "moisture, residue, or contamination on the keypad buttons"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Membrane switch / keypad assembly"
+part_price: "$80-180"
 ---
 
 ## Samsung Range 5E/SE Error Code — What It Means

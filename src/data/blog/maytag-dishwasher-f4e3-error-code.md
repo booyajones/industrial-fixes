@@ -14,6 +14,7 @@ most_likely_cause: "failed circulation pump motor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Circulation pump / wash motor assembly"
+part_price: "$80-200"
 ---
 
 ## Maytag Dishwasher F4E3 Error — What It Means

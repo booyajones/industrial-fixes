@@ -14,6 +14,7 @@ most_likely_cause: "Water or suds trapped in the base pan triggering the leak se
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung leak sensor"
+part_price: "$15-50"
 ---
 
 ## Samsung LC1 Error Code — What It Means

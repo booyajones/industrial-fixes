@@ -11,6 +11,7 @@ tags:
   - dryer
   - amana
 money_part: "Amana dryer main control board"
+part_price: "$150-300"
 most_likely_cause: "transient control board communication fault"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

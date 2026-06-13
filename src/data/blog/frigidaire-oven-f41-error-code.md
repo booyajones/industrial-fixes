@@ -14,6 +14,7 @@ most_likely_cause: "Lock feature enabled and not clearing normally"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "User Interface / Touchpad Assembly"
+part_price: "$50-150"
 ---
 
 ## Frigidaire Oven F41 Error Code — What It Means

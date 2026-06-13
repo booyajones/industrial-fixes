@@ -13,6 +13,7 @@ most_likely_cause: "Temporary control glitch or failed main control board"
 likelihood: "the most common causes"
 diy_or_pro: "diy"
 money_part: "Electronic Oven Control (EOC) board"
+part_price: "$100-250"
 ---
 
 ## Frigidaire F20 Error Code — What It Means

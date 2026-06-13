@@ -14,6 +14,7 @@ most_likely_cause: "kinked, blocked, loose, or cracked pressure hose between the
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG washer pressure sensor (water level sensor)"
+part_price: "$10-40"
 ---
 
 ## LG Washer PE Error Code — What It Means

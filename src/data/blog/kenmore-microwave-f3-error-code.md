@@ -11,6 +11,7 @@ tags:
   - microwave
   - kenmore
 money_part: "Membrane keypad / control panel assembly"
+part_price: "$30-90"
 most_likely_cause: "shorted membrane keypad or failed thermistor"
 likelihood: "the most common causes"
 diy_or_pro: "diy"

@@ -11,6 +11,7 @@ tags:
   - dryer
   - electrolux
 money_part: "Electronic control board (EI-Touch platform)"
+part_price: "$150-250"
 most_likely_cause: "Low voltage at the outlet or a loose connection in the supply circuit"
 likelihood: "the most common cause"
 diy_or_pro: "pro"

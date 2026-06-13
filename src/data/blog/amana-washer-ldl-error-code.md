@@ -10,6 +10,7 @@ tags:
   - appliance
   - amana
 money_part: "Amana washer drain pump"
+part_price: "$30-80"
 most_likely_cause: "Drain hose pushed too far into the standpipe or hose end below 36 inches"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

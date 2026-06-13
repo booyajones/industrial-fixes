@@ -10,6 +10,7 @@ tags:
   - appliance
   - electrolux
 money_part: "Water inlet valve (solenoid valve)"
+part_price: "$15-80"
 most_likely_cause: "blocked inlet hose filters or closed/restricted water tap"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

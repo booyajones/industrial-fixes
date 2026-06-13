@@ -13,6 +13,7 @@ most_likely_cause: "Seized or failing circulation pump / wash motor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool dishwasher circulation pump / wash motor assembly"
+part_price: "$100-200"
 ---
 
 ## Whirlpool F4E3 Error Code — What It Means

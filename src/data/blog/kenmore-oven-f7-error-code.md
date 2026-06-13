@@ -11,6 +11,7 @@ tags:
   - oven
   - kenmore
 money_part: "Membrane keypad or touchpad assembly"
+part_price: "$40-120"
 most_likely_cause: "Shorted or failed membrane keypad"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

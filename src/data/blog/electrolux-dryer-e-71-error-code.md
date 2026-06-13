@@ -11,6 +11,7 @@ tags:
   - dryer
   - electrolux
 money_part: "Outlet thermistor (outlet control thermistor)"
+part_price: "$25-80"
 most_likely_cause: "faulty outlet thermistor or damaged wiring harness"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

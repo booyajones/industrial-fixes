@@ -14,6 +14,7 @@ most_likely_cause: "failed or out-of-range oven temperature sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Oven temperature sensor"
+part_price: "$20-80"
 ---
 
 ## KitchenAid Range F2 Error Code — What It Means

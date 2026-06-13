@@ -10,6 +10,7 @@ tags:
   - appliance
   - kenmore
 money_part: "Lid lock / lid switch assembly"
+part_price: "$40-90"
 most_likely_cause: "worn or failed lid lock or lid switch assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

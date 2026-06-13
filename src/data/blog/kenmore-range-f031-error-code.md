@@ -14,6 +14,7 @@ most_likely_cause: "failed RTD oven temperature sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Oven temperature sensor (RTD probe)"
+part_price: "$20-50"
 ---
 
 ## Kenmore Range F031 Error Code — What It Means

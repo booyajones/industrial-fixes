@@ -11,6 +11,7 @@ tags:
   - dryer
   - amana
 money_part: "Amana dryer main control board"
+part_price: "$80-180"
 most_likely_cause: "Intermittent or unstable power supply to the dryer control"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

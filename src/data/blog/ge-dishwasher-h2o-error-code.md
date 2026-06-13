@@ -14,6 +14,7 @@ most_likely_cause: "contaminated or faulty pressure switch/sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE dishwasher pressure switch / water level sensor"
+part_price: "$15-50"
 ---
 
 ## GE Dishwasher H2O Error Code — What It Means

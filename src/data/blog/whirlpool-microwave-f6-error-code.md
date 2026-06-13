@@ -14,6 +14,7 @@ most_likely_cause: "Defective relay control board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Relay Control Board"
+part_price: "$80-180"
 ---
 
 ## Whirlpool Microwave F6 Error Code — What It Means

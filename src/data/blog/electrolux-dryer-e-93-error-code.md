@@ -11,6 +11,7 @@ tags:
   - dryer
   - electrolux
 money_part: "Main control board"
+part_price: "$150-300"
 most_likely_cause: "Incorrect replacement control board or user interface from the wrong model or variant"
 likelihood: "the most common cause"
 diy_or_pro: "pro"

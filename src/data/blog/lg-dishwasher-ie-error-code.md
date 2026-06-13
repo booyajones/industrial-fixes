@@ -14,6 +14,7 @@ most_likely_cause: "Water supply valve under the sink is not fully open or house
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG dishwasher water inlet valve"
+part_price: "$25-70"
 ---
 
 ## LG Dishwasher IE Error Code — What It Means

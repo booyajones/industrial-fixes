@@ -14,6 +14,7 @@ most_likely_cause: "loose or contaminated wiring-harness connector between contr
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "User interface board (console control board)"
+part_price: "$50-200"
 ---
 
 ## Maytag Dryer F70 Error Code — What It Means

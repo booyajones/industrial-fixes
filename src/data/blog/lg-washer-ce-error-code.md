@@ -14,6 +14,7 @@ most_likely_cause: "main control board failure or drive motor fault"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
 money_part: "LG washer main control board (PCB)"
+part_price: "$150-350"
 ---
 
 ## LG Washer CE Error Code — What It Means

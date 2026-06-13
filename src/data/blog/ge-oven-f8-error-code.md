@@ -14,6 +14,7 @@ most_likely_cause: "Failed main control board (ERC/EOC)"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE main control board (ERC/EOC)"
+part_price: "$150-300"
 ---
 
 ## GE Oven F8 Error Code — What It Means

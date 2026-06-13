@@ -14,6 +14,7 @@ most_likely_cause: "Faulty thermistor or temperature sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung dishwasher heating element"
+part_price: "$25-80"
 ---
 
 ## Samsung Dishwasher HC Error Code — What It Means

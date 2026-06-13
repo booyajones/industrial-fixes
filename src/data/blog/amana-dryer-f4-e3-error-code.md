@@ -11,6 +11,7 @@ tags:
   - dryer
   - amana
 money_part: "Lint screen / lint filter"
+part_price: "$10-50"
 most_likely_cause: "Clogged or restricted exhaust vent ducting"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

@@ -14,6 +14,7 @@ most_likely_cause: "failed oven temperature sensor probe"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Oven temperature sensor (probe)"
+part_price: "$20-50"
 ---
 
 ## Maytag Range F4 Error Code — What It Means

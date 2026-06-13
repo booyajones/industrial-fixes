@@ -10,6 +10,7 @@ tags:
   - appliance
   - electrolux
 money_part: "Electrolux washer water inlet valve assembly"
+part_price: "$30-80"
 most_likely_cause: "water inlet valve stuck open or leaking"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

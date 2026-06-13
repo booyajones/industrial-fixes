@@ -14,6 +14,7 @@ most_likely_cause: "loose or corroded wiring connectors between the control boar
 likelihood: "the most common technical cause"
 diy_or_pro: "diy"
 money_part: "User interface control panel"
+part_price: "$80-250"
 ---
 
 ## Maytag Dryer F6E2 Error Code — What It Means

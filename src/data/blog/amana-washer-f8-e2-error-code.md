@@ -11,6 +11,7 @@ tags:
   - washer
   - amana
 money_part: "Dispenser motor assembly"
+part_price: "$10-40"
 most_likely_cause: "Clogged detergent drawer or cartridge"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

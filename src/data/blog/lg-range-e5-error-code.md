@@ -14,6 +14,7 @@ most_likely_cause: "Defective oven sensor or thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG oven sensor / thermistor"
+part_price: "$20-60"
 ---
 
 ## LG Range E5 Error Code — What It Means

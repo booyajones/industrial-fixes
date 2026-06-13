@@ -14,6 +14,7 @@ most_likely_cause: "Ice or frost buildup around the evaporator fan"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE refrigerator evaporator fan motor"
+part_price: "$40-120"
 ---
 
 ## GE Refrigerator FF Error Code — What It Means

@@ -14,6 +14,7 @@ most_likely_cause: "Loose, damaged, or corroded wiring or connectors between the
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Main control board"
+part_price: "$80-250"
 ---
 
 ## Maytag Dryer F6E1 Error Code — What It Means

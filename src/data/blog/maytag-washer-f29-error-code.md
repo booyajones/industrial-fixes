@@ -14,6 +14,7 @@ most_likely_cause: "failed or sticking door latch and lock assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Door lock assembly (door latch)"
+part_price: "$50-120"
 ---
 
 ## Maytag Washer F29 Error Code — What It Means

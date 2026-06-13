@@ -14,6 +14,7 @@ most_likely_cause: "failed oven temperature sensor or thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG oven temperature sensor / thermistor"
+part_price: "$25-80"
 ---
 
 ## LG Oven F19 Error Code — What It Means

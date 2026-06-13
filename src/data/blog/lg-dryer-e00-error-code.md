@@ -14,6 +14,7 @@ most_likely_cause: "Power interruption, surge, or control-board lockup leaving t
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG dryer main control board (PCB assembly)"
+part_price: "$80-200"
 ---
 
 ## LG Dryer E00 Error Code — What It Means

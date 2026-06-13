@@ -11,6 +11,7 @@ tags:
   - dryer
   - amana
 money_part: "Thermal fuse"
+part_price: "$15-80"
 most_likely_cause: "restricted airflow from a clogged lint screen or blocked vent"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

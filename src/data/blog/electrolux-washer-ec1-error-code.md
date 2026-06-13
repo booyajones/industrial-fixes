@@ -11,6 +11,7 @@ tags:
   - washer
   - electrolux
 money_part: "Water inlet valve"
+part_price: "$40-90"
 most_likely_cause: "defective water inlet valve"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

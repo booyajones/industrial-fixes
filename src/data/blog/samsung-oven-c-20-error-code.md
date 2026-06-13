@@ -14,6 +14,7 @@ most_likely_cause: "Failed or out-of-spec oven temperature sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Oven temperature sensor / thermistor assembly"
+part_price: "$20-80"
 ---
 
 ## Samsung Oven C-20 Error Code — What It Means

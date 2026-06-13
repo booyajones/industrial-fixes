@@ -14,6 +14,7 @@ most_likely_cause: "Glitched control logic after a power interruption or electro
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Electronic Oven Control board (EOC)"
+part_price: "$150-350"
 ---
 
 ## Kenmore Range F04 Error Code — What It Means

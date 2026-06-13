@@ -14,6 +14,7 @@ most_likely_cause: "loose or disconnected icemaker harness or connector"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE icemaker module assembly"
+part_price: "$80-180"
 ---
 
 ## GE Refrigerator CI Error Code — What It Means

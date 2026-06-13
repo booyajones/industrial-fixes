@@ -14,6 +14,7 @@ most_likely_cause: "failed thermistor or open thermal fuse"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Dryer thermistor"
+part_price: "$15-50"
 ---
 
 ## Whirlpool Dryer F25 Error Code — What It Means

@@ -14,6 +14,7 @@ most_likely_cause: "misread error code"
 likelihood: "the most common scenario"
 diy_or_pro: "diy"
 money_part: "Oven temperature sensor"
+part_price: "$20-80"
 ---
 
 ## Whirlpool Range FC E2 Error — What It Means

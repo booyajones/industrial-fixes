@@ -11,6 +11,7 @@ tags:
   - washer
   - electrolux
 money_part: "Electrolux washer heater element assembly"
+part_price: "$25-80"
 most_likely_cause: "Defective NTC temperature sensor or bad sensor connection"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

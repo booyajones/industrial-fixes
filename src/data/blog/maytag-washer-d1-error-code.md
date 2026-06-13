@@ -14,6 +14,7 @@ most_likely_cause: "Pinched, blocked, or disconnected pressure hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Main control board"
+part_price: "$15-50"
 ---
 
 ## Maytag Washer D1 Error Code — What It Means

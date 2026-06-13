@@ -11,6 +11,7 @@ tags:
   - dryer
   - electrolux
 money_part: "Main electronic control board (EPC board)"
+part_price: "$150-250"
 most_likely_cause: "fused or stuck heater relay on the main electronic control board"
 likelihood: "the most common cause"
 diy_or_pro: "pro"

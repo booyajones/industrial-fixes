@@ -14,6 +14,7 @@ most_likely_cause: "Failed inlet thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Inlet thermistor (inlet temperature sensor)"
+part_price: "$20-50"
 ---
 
 ## Maytag Dryer F3E3 Error Code — What It Means

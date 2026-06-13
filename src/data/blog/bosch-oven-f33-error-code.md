@@ -11,6 +11,7 @@ tags:
   - oven
   - bosch
 money_part: "Bosch warming drawer temperature sensor"
+part_price: "$30-80"
 most_likely_cause: "defective warming drawer temperature sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

@@ -14,6 +14,7 @@ most_likely_cause: "blocked filter, sump, or drain hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE dishwasher drain pump"
+part_price: "$15-80"
 ---
 
 ## GE Dishwasher C3 Error Code — What It Means

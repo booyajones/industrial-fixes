@@ -14,6 +14,7 @@ most_likely_cause: "Closed or partially closed house shutoff valve, or clogged i
 likelihood: "the most common real-world causes"
 diy_or_pro: "diy"
 money_part: "Water inlet valve (Samsung dishwasher)"
+part_price: "$25-80"
 ---
 
 ## Samsung Dishwasher 4C Error Code — What It Means

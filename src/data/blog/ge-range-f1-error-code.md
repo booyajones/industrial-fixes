@@ -14,6 +14,7 @@ most_likely_cause: "Failed electronic oven control board or shorted keypad"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Electronic Oven Control (EOC) / Main Control Board"
+part_price: "$100-250"
 ---
 
 ## GE Range F1 Error Code — What It Means

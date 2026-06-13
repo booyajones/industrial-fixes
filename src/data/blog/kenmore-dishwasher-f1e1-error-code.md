@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - kenmore
 money_part: "Kenmore dishwasher main control board / electronic control unit"
+part_price: "$150-300"
 most_likely_cause: "failed main control board"
 likelihood: "the most common final diagnosis"
 diy_or_pro: "diy"

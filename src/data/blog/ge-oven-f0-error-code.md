@@ -14,6 +14,7 @@ most_likely_cause: "defective keypad or membrane pad with an electrically shorte
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE oven keypad / touchpad / membrane pad"
+part_price: "$50-150"
 ---
 
 ## GE Oven F0 Error Code — What It Means

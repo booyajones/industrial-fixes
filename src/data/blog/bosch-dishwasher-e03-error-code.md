@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - bosch
 money_part: "Bosch dishwasher main control board"
+part_price: "$150-300"
 most_likely_cause: "main control board relay failure"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - kenmore
 money_part: "Dishwasher detergent dispenser assembly"
+part_price: "$60-150"
 most_likely_cause: "failed dispenser/diverter motor or actuator"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

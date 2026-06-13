@@ -14,6 +14,7 @@ most_likely_cause: "Failed oven thermistor or temperature sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG oven temperature sensor / thermistor"
+part_price: "$30-80"
 ---
 
 ## LG Range E2 Error Code — What It Means

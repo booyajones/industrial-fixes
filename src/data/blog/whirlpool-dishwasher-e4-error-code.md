@@ -14,6 +14,7 @@ most_likely_cause: "water in the drip tray from a loose or improperly seated inl
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Dishwasher inlet hose rubber washer"
+part_price: "$5-30"
 ---
 
 ## Whirlpool Dishwasher E4 Error Code — What It Means

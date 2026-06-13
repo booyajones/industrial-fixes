@@ -14,6 +14,7 @@ most_likely_cause: "Moisture intrusion into the touch panel or control electroni
 likelihood: "often"
 diy_or_pro: "diy"
 money_part: "Touch panel / keypad / user interface assembly"
+part_price: "$80-200"
 ---
 
 ## Samsung Microwave TE Error — What It Means

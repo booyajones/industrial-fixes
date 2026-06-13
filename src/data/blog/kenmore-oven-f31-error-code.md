@@ -11,6 +11,7 @@ tags:
   - oven
   - kenmore
 money_part: "Oven Temperature Sensor (RTD Probe)"
+part_price: "$20-60"
 most_likely_cause: "failed oven temperature sensor (RTD probe)"
 likelihood: "the most common real-world fix"
 diy_or_pro: "diy"

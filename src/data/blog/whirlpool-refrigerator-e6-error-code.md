@@ -14,6 +14,7 @@ most_likely_cause: "Loose or damaged wiring between the main control board and t
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool refrigerator user interface / display board"
+part_price: "$50-180"
 ---
 
 ## Whirlpool Refrigerator E6 Error Code — What It Means

@@ -14,6 +14,7 @@ most_likely_cause: "Door latch assembly sticking, failing, or not reaching posit
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE Oven Door Latch Assembly"
+part_price: "$25-80"
 ---
 
 ## GE Range F5 Error Code — What It Means

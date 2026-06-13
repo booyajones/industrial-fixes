@@ -14,6 +14,7 @@ most_likely_cause: "Loose or poorly seated ribbon cable between keypad and contr
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Keypad / touchpad assembly"
+part_price: "$40-120"
 ---
 
 ## Whirlpool Microwave F02 Error — What It Means

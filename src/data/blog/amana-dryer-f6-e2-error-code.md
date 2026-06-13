@@ -11,6 +11,7 @@ tags:
   - dryer
   - amana
 money_part: "Amana dryer user interface board / control panel assembly"
+part_price: "$80-200"
 most_likely_cause: "Temporary control lockup or loose connector between boards"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

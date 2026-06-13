@@ -10,6 +10,7 @@ tags:
   - appliance
   - frigidaire
 money_part: "Dispenser drawer reed switch or sensor"
+part_price: "$10-40"
 most_likely_cause: "dispenser drawer not fully closed or detergent residue preventing proper seating"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

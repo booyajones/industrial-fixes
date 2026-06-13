@@ -11,6 +11,7 @@ tags:
   - dryer
   - electrolux
 money_part: "Main electronic control board"
+part_price: "$150-300"
 most_likely_cause: "defective main electronic control board"
 likelihood: "the most commonly reported cause"
 diy_or_pro: "diy"

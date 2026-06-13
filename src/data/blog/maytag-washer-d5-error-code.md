@@ -14,6 +14,7 @@ most_likely_cause: "Faulty door latch or switch assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Drain pump assembly"
+part_price: "$30-80"
 ---
 
 ## Maytag Washer D5 Error Code — What It Means

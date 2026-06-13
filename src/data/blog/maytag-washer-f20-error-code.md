@@ -14,6 +14,7 @@ most_likely_cause: "both water faucets not fully open or clogged inlet hose scre
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Water inlet valve screens"
+part_price: "$15-50"
 ---
 
 ## Maytag Washer F20 Error Code — What It Means

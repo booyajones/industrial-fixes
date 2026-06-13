@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - amana
 money_part: "Amana dishwasher main control board"
+part_price: "$150-350"
 most_likely_cause: "Main control board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

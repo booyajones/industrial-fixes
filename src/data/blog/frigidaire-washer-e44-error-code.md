@@ -13,6 +13,7 @@ most_likely_cause: "failed electronic control board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Frigidaire washer door lock assembly"
+part_price: "$150-250"
 ---
 
 ## Frigidaire E44 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - bosch
 money_part: "Door seal / gasket kit"
+part_price: "$10-50"
 most_likely_cause: "Water in the base pan from an internal leak"
 likelihood: "the core trigger in all E15 activations"
 diy_or_pro: "diy"

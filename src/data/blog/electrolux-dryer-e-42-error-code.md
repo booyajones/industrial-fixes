@@ -11,6 +11,7 @@ tags:
   - dryer
   - electrolux
 money_part: "Electrolux dryer door switch"
+part_price: "$25-60"
 most_likely_cause: "Faulty door switch"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

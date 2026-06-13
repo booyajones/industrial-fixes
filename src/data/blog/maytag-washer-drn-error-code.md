@@ -14,6 +14,7 @@ most_likely_cause: "drain hose installed incorrectly or kinked"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Drain hose"
+part_price: "$15-80"
 ---
 
 ## Maytag Washer DRN Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - oven
   - bosch
 money_part: "Bosch oven temperature sensor"
+part_price: "$30-80"
 most_likely_cause: "failed oven temperature sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

@@ -14,6 +14,7 @@ most_likely_cause: "loose, corroded, or damaged sensor connector terminals"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE dishwasher water temperature sensor / thermistor"
+part_price: "$25-75"
 ---
 
 ## GE Dishwasher C7 Error Code — What It Means

@@ -14,6 +14,7 @@ most_likely_cause: "failed vario motor"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
 money_part: "LG dishwasher vario motor"
+part_price: "$80-180"
 ---
 
 ## LG Dishwasher nE Error Code — What It Means

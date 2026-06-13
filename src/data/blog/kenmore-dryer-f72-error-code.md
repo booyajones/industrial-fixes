@@ -11,6 +11,7 @@ tags:
   - dryer
   - kenmore
 money_part: "User Interface Control Assembly (UICB)"
+part_price: "$80-200"
 most_likely_cause: "faulty user interface control assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

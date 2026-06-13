@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - kenmore
 money_part: "Circulation pump with integrated heater assembly"
+part_price: "$150-300"
 most_likely_cause: "Failed circulation pump with integrated heater assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

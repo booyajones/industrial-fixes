@@ -11,6 +11,7 @@ tags:
   - dryer
   - electrolux
 money_part: "Main control board (PCB assembly)"
+part_price: "$150-250"
 most_likely_cause: "Control board failure"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

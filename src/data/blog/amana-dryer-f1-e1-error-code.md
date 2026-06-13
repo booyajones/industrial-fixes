@@ -11,6 +11,7 @@ tags:
   - dryer
   - amana
 money_part: "Electronic control board (main)"
+part_price: "$100-250"
 most_likely_cause: "Failed electronic control board or user interface assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

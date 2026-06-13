@@ -12,6 +12,7 @@ tags:
   - whirlpool
 diy_or_pro: "diy"
 money_part: "Whirlpool oven user interface / keypad assembly"
+part_price: "$40-150"
 ---
 
 ## Whirlpool Oven A6 Error Code — What It Means

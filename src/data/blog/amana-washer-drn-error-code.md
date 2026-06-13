@@ -11,6 +11,7 @@ tags:
   - washer
   - amana
 money_part: "Amana washer drain pump assembly"
+part_price: "$30-80"
 most_likely_cause: "kinked or clogged drain hose, or drain hose inserted too far into the standpipe"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

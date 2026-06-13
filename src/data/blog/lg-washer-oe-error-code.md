@@ -14,6 +14,7 @@ most_likely_cause: "clogged drain pump filter or kinked drain hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG drain pump filter"
+part_price: "$15-50"
 ---
 
 ## LG Washer OE Error Code — What It Means

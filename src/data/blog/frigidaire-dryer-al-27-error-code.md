@@ -12,6 +12,7 @@ tags:
   - frigidaire
 diy_or_pro: "diy"
 money_part: "Heating Element"
+part_price: "$20-80"
 ---
 
 ## Frigidaire Dryer AL-27 Error Code — What It Means

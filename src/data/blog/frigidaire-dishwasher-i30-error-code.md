@@ -13,6 +13,7 @@ most_likely_cause: "water in the base pan from a leak"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Inlet valve (water fill valve)"
+part_price: "$15-80"
 ---
 
 ## Frigidaire i30 Error Code — What It Means

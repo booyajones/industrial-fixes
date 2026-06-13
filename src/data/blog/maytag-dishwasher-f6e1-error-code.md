@@ -14,6 +14,7 @@ most_likely_cause: "User interface board failure or loss of communication with t
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Maytag dishwasher user interface board / control panel"
+part_price: "$80-200"
 ---
 
 ## Maytag Dishwasher F6E1 Error — What It Means

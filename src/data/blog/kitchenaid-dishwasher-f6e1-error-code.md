@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - kitchenaid
 money_part: "Water inlet valve"
+part_price: "$50-150"
 most_likely_cause: "Temporary control glitch or lockup"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

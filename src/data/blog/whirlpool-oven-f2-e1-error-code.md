@@ -14,6 +14,7 @@ most_likely_cause: "stuck or contaminated keypad"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool User Interface / Touchpad Assembly"
+part_price: "$50-150"
 ---
 
 ## Whirlpool Oven F2 E1 Error — What It Means

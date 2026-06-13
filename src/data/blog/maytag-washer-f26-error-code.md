@@ -14,6 +14,7 @@ most_likely_cause: "door not fully latched or closed"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Lid switch assembly (or door lock assembly for front-load models)"
+part_price: "$30-80"
 ---
 
 ## Maytag Washer F26 Error Code — What It Means

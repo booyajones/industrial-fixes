@@ -11,6 +11,7 @@ tags:
   - dryer
   - electrolux
 money_part: "Humidity sensor assembly (moisture sensor bars)"
+part_price: "$30-80"
 most_likely_cause: "dirty or obstructed humidity sensor bars"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

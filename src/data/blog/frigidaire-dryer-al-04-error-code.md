@@ -14,6 +14,7 @@ most_likely_cause: "restricted venting or lint buildup"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Lint screen / lint filter"
+part_price: "$10-50"
 ---
 
 ## Frigidaire Dryer AL-04 Error Code — What It Means

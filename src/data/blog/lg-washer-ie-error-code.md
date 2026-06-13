@@ -14,6 +14,7 @@ most_likely_cause: "Closed or partially closed water supply faucets"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Water inlet valve assembly"
+part_price: "$15-50"
 ---
 
 ## LG Washer IE Error Code — What It Means

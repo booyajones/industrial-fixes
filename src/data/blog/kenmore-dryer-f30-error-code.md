@@ -11,6 +11,7 @@ tags:
   - dryer
   - kenmore
 money_part: "Replacement lint screen"
+part_price: "$10-40"
 most_likely_cause: "clogged lint screen or blocked exhaust vent hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

@@ -14,6 +14,7 @@ most_likely_cause: "Power button physically stuck or electrically closed"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung washer user-interface board (UI board / display board)"
+part_price: "$30-80"
 ---
 
 ## Samsung Washer bC1 Error Code — What It Means

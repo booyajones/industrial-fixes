@@ -10,6 +10,7 @@ tags:
   - appliance
   - kenmore
 money_part: "Central Control Unit (CCU) / Main Electronic Control Board"
+part_price: "$80-200"
 most_likely_cause: "Loose, oxidized, or unseated wiring connectors between the CCU and MCU"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

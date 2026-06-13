@@ -14,6 +14,7 @@ most_likely_cause: "disconnected or failed ice maker sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG ice maker sensor"
+part_price: "$25-75"
 ---
 
 ## LG Refrigerator IS Error Code — What It Means

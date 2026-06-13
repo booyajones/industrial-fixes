@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - kenmore
 money_part: "Kenmore dishwasher drain pump"
+part_price: "$15-80"
 most_likely_cause: "Drain filter or sump blockage"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

@@ -14,6 +14,7 @@ most_likely_cause: "unstable outlet supply or partially tripped breaker"
 likelihood: "the most common real cause"
 diy_or_pro: "diy"
 money_part: "Samsung dryer power cord"
+part_price: "$15-80"
 ---
 
 ## Samsung Dryer FC Error Code — What It Means

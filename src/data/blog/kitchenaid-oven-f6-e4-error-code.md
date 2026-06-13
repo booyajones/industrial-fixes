@@ -10,6 +10,7 @@ tags:
   - appliance
   - kitchenaid
 money_part: "Overfill float switch assembly (dishwasher)"
+part_price: "$15-80"
 diy_or_pro: "diy"
 ---
 

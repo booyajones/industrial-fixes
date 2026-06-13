@@ -11,6 +11,7 @@ tags:
   - washer
   - electrolux
 money_part: "Door lock assembly (door interlock)"
+part_price: "$40-80"
 most_likely_cause: "Faulty door lock assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

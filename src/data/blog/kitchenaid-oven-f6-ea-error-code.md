@@ -10,6 +10,7 @@ tags:
   - appliance
   - kitchenaid
 money_part: "User Interface Control Assembly"
+part_price: "$80-200"
 most_likely_cause: "Loose, damaged, or intermittent wiring between the user interface and the associated circuit"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

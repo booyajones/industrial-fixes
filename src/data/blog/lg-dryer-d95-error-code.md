@@ -14,6 +14,7 @@ most_likely_cause: "blocked lint filter or clogged exhaust vent duct"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Exterior dryer vent hood"
+part_price: "$15-50"
 ---
 
 ## LG Dryer D95 Error Code — What It Means

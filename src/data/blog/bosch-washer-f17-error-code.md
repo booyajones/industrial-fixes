@@ -11,6 +11,7 @@ tags:
   - washer
   - bosch
 money_part: "Bosch washer inlet valve (water inlet solenoid valve)"
+part_price: "$10-40"
 most_likely_cause: "closed or partly open supply tap, or blocked inlet screen"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

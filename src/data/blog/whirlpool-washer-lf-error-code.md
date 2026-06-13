@@ -14,6 +14,7 @@ most_likely_cause: "Water supply valves not fully open or kinked inlet hoses"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Water inlet valve assembly"
+part_price: "$25-75"
 ---
 
 ## Whirlpool Washer LF Error Code — What It Means

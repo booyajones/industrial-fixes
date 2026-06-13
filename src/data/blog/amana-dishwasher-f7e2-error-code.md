@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - amana
 money_part: "Dishwasher circulation pump motor assembly"
+part_price: "$80-200"
 most_likely_cause: "blocked sump, impeller, or filter causing motor overheat"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

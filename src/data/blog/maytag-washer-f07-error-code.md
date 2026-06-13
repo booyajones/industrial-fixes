@@ -13,6 +13,7 @@ most_likely_cause: "Broken or slipped drive belt"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "affresh® Washer Cleaner tablets"
+part_price: "$15-40"
 ---
 
 ## Maytag F07 Error Code — What It Means

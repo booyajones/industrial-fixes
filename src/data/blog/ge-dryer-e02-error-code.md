@@ -14,6 +14,7 @@ most_likely_cause: "loose wiring at the outlet thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE dryer outlet thermistor"
+part_price: "$15-40"
 ---
 
 ## GE Dryer E02 Error Code — What It Means

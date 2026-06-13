@@ -10,6 +10,7 @@ tags:
   - appliance
   - bosch
 money_part: "Bosch oven user interface module (control panel assembly)"
+part_price: "$80-200"
 most_likely_cause: "loose or disconnected wiring harness between control board and user interface"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

@@ -13,6 +13,7 @@ most_likely_cause: "failed user interface board or corroded connector between UI
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool washer user interface board (UI / HMI)"
+part_price: "$80-180"
 ---
 
 ## Whirlpool F6E2 Error Code — What It Means

@@ -14,6 +14,7 @@ most_likely_cause: "Loose, damaged, or corroded wiring harness or connector betw
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Main control board"
+part_price: "$50-200"
 ---
 
 ## Maytag Dryer F1E5 Error Code — What It Means

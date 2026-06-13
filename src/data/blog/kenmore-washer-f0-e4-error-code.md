@@ -11,6 +11,7 @@ tags:
   - washer
   - kenmore
 money_part: "Washer thermistor / temperature sensor"
+part_price: "$15-50"
 most_likely_cause: "Hot and cold fill hoses reversed at the washer or at the wall valves"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

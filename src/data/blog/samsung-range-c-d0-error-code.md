@@ -13,6 +13,7 @@ most_likely_cause: "moisture or contamination on the touch panel causing a false
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Touch control panel assembly (Samsung oven/microwave)"
+part_price: "$80-180"
 ---
 
 ## Samsung C-d0 Error Code — What It Means

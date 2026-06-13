@@ -14,6 +14,7 @@ most_likely_cause: "failed exhaust thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Exhaust thermistor"
+part_price: "$15-40"
 ---
 
 ## Maytag Dryer F3E1 Error Code — What It Means

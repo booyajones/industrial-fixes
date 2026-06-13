@@ -14,6 +14,7 @@ most_likely_cause: "laundry trapped between the door and the gasket"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG washer door gasket (boot seal)"
+part_price: "$15-80"
 ---
 
 ## LG Washer dE1 Error Code — What It Means

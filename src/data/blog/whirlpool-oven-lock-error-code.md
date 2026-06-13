@@ -14,6 +14,7 @@ most_likely_cause: "Accidental control lock activation"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool oven door lock assembly"
+part_price: "$50-120"
 ---
 
 ## Whirlpool Oven Lock Error Code — What It Means

@@ -14,6 +14,7 @@ most_likely_cause: "water supply shut off or insufficient supply pressure"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool dishwasher water inlet valve"
+part_price: "$15-80"
 ---
 
 ## Whirlpool Dishwasher E6 Error Code — What It Means

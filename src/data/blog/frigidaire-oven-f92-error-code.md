@@ -14,6 +14,7 @@ most_likely_cause: "door lock assembly failure (motor or switches)"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Door lock assembly"
+part_price: "$80-150"
 ---
 
 ## Frigidaire Oven F92 Error Code — What It Means

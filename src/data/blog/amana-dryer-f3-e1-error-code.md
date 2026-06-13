@@ -11,6 +11,7 @@ tags:
   - dryer
   - amana
 money_part: "Amana dryer exhaust thermistor"
+part_price: "$25-70"
 most_likely_cause: "failed exhaust thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

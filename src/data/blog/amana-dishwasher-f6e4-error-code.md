@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - amana
 money_part: "Overfill float switch assembly"
+part_price: "$15-50"
 most_likely_cause: "dishwasher not level or obstructed overfill float switch"
 likelihood: "the most common causes"
 diy_or_pro: "diy"

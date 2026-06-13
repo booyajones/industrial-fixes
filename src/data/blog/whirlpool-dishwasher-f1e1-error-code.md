@@ -14,6 +14,7 @@ most_likely_cause: "Main control board relay stuck or failed"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Main electronic control board (ECB)"
+part_price: "$150-250"
 ---
 
 ## Whirlpool F1E1 Dishwasher Error — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - amana
 money_part: "Water inlet valve assembly"
+part_price: "$15-50"
 most_likely_cause: "Closed, partially closed, or restricted water supply valves or clogged inlet screens"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

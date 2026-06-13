@@ -14,6 +14,7 @@ most_likely_cause: "laundry or an object preventing the door from closing fully"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG dryer door switch"
+part_price: "$15-50"
 ---
 
 ## LG Dryer E4 Error Code — What It Means

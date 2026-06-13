@@ -11,6 +11,7 @@ tags:
   - dryer
   - electrolux
 money_part: "Thermal limiter or thermal fuse"
+part_price: "$15-80"
 most_likely_cause: "blocked exhaust vent or lint buildup"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

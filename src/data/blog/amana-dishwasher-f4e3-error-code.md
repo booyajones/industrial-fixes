@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - amana
 money_part: "Circulation pump / wash motor assembly"
+part_price: "$80-180"
 most_likely_cause: "failed circulation pump or wash motor"
 likelihood: "the most commonly cited direct cause"
 diy_or_pro: "diy"

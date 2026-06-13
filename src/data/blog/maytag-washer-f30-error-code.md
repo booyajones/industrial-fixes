@@ -14,6 +14,7 @@ most_likely_cause: "jammed dispenser drawer or linkage"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Dispenser actuator motor"
+part_price: "$50-120"
 ---
 
 ## Maytag Washer F30 Error Code — What It Means

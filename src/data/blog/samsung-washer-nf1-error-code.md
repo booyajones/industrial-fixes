@@ -14,6 +14,7 @@ most_likely_cause: "Hot and cold hoses connected to the wrong ports"
 likelihood: "the most common cause for the nF1 variant"
 diy_or_pro: "diy"
 money_part: "Water inlet valve assembly"
+part_price: "$10-40"
 ---
 
 ## Samsung Washer nF1 Error Code — What It Means

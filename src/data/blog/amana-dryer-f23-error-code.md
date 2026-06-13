@@ -11,6 +11,7 @@ tags:
   - dryer
   - amana
 money_part: "Exhaust thermistor (outlet temperature sensor)"
+part_price: "$20-50"
 most_likely_cause: "Faulty exhaust thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

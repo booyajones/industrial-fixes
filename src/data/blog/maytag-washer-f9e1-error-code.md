@@ -14,6 +14,7 @@ most_likely_cause: "kinked or clogged drain hose, or blocked pump filter"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Maytag washer drain pump"
+part_price: "$15-80"
 ---
 
 ## Maytag Washer F9E1 Error Code — What It Means

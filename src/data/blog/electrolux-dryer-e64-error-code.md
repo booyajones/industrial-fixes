@@ -11,6 +11,7 @@ tags:
   - dryer
   - electrolux
 money_part: "Heating element or heater assembly"
+part_price: "$25-80"
 most_likely_cause: "failed heating element"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

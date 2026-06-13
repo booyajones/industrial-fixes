@@ -11,6 +11,7 @@ tags:
   - washer
   - bosch
 money_part: "Bosch AquaStop inlet hose"
+part_price: "$15-50"
 most_likely_cause: "damaged or loose inlet or drain hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

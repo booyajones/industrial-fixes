@@ -14,6 +14,7 @@ most_likely_cause: "failed electronic oven control board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Electronic oven control board (EOC)"
+part_price: "$150-300"
 ---
 
 ## Frigidaire Range F0 Error Code — What It Means

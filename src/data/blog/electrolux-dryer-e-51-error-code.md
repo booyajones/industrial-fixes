@@ -11,6 +11,7 @@ tags:
   - dryer
   - electrolux
 money_part: "Main control board (PCB) for Electrolux dryer"
+part_price: "$150-250"
 most_likely_cause: "main control board failure (motor relay or triac section)"
 likelihood: "the most common cause"
 diy_or_pro: "pro"

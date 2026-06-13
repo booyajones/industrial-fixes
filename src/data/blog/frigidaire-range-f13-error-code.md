@@ -13,6 +13,7 @@ most_likely_cause: "temporary logic glitch after a power event"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Electronic oven control board (EOC/ERC)"
+part_price: "$150-300"
 ---
 
 ## Frigidaire F13 Error Code — What It Means

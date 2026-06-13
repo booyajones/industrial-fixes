@@ -14,6 +14,7 @@ most_likely_cause: "empty or incorrectly seated bulk dispenser"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Maytag washer dispenser motor assembly"
+part_price: "$15-40"
 ---
 
 ## Maytag F8E2 Error Code — What It Means

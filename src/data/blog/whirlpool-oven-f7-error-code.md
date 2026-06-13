@@ -14,6 +14,7 @@ most_likely_cause: "loose or damaged wiring in the door latch harness (ranges) o
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool oven door latch assembly"
+part_price: "$50-150"
 ---
 
 ## Whirlpool Oven F7 Error Code — What It Means

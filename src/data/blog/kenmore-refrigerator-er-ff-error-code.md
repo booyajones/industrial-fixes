@@ -13,6 +13,7 @@ most_likely_cause: "Ice or frost buildup binding the evaporator fan blade or hou
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Evaporator fan motor"
+part_price: "$30-80"
 ---
 
 ## Kenmore Er FF Error Code — What It Means

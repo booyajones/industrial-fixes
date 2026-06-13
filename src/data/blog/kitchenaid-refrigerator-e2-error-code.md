@@ -14,6 +14,7 @@ most_likely_cause: "Failed ice maker motor or jammed harvest mechanism"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Ice maker assembly"
+part_price: "$80-180"
 ---
 
 ## KitchenAid Refrigerator E2 Error — What It Means

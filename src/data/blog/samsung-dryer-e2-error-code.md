@@ -14,6 +14,7 @@ most_likely_cause: "Physically stuck button or moisture in the control panel"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "User interface or keypad assembly"
+part_price: "$40-120"
 ---
 
 ## Samsung Dryer E2 Error Code — What It Means

@@ -14,6 +14,7 @@ most_likely_cause: "failed upper oven temperature sensor or thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Upper oven temperature sensor / thermistor"
+part_price: "$30-80"
 ---
 
 ## LG Oven F6 Error Code — What It Means

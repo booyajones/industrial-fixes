@@ -14,6 +14,7 @@ most_likely_cause: "Failed membrane keypad or user interface assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool microwave user interface or keypad assembly"
+part_price: "$60-150"
 ---
 
 ## Whirlpool Microwave F2 Error — What It Means

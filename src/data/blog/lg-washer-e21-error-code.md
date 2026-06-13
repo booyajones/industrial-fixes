@@ -14,6 +14,7 @@ most_likely_cause: "clogged drain filter or blocked drain hose"
 likelihood: "the most common cause in field reports of drain-type faults"
 diy_or_pro: "diy"
 money_part: "LG washer drain pump assembly"
+part_price: "$15-50"
 ---
 
 ## LG Washer E21 Error Code — What It Means

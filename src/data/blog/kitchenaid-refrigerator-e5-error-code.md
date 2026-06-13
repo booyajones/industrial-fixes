@@ -14,6 +14,7 @@ most_likely_cause: "Failed ice-maker thermistor or temperature sensor inside the
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Ice-maker assembly (KitchenAid/Whirlpool compatible)"
+part_price: "$80-180"
 ---
 
 ## KitchenAid Refrigerator E5 Error Code — What It Means

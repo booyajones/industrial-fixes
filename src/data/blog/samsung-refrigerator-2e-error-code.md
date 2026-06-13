@@ -14,6 +14,7 @@ most_likely_cause: "disconnected or loose sensor connector"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung refrigerator compartment temperature sensor (fridge room sensor)"
+part_price: "$15-50"
 ---
 
 ## Samsung Refrigerator 2E Error Code — What It Means

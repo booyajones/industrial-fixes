@@ -14,6 +14,7 @@ most_likely_cause: "Wrong replacement control board installed for the model"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "User interface control board"
+part_price: "$100-200"
 ---
 
 ## Maytag Dryer F1E3 Error Code — What It Means

@@ -13,6 +13,7 @@ most_likely_cause: "loose or damaged wire connectors between the control boards"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Main control board (electronic control)"
+part_price: "$80-250"
 ---
 
 ## Frigidaire E95 Error Code — What It Means

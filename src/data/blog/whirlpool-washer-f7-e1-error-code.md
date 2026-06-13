@@ -14,6 +14,7 @@ most_likely_cause: "Shipping bolts still installed or improper installation afte
 likelihood: "the most common real-world cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool washer shift actuator or tachometer assembly"
+part_price: "$30-80"
 ---
 
 ## Whirlpool Washer F7 E1 Error Code — What It Means

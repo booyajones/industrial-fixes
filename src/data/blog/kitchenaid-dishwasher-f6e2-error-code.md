@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - kitchenaid
 money_part: "KitchenAid dishwasher main control board"
+part_price: "$100-250"
 most_likely_cause: "Transient control lockup or loose connector"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

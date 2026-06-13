@@ -11,6 +11,7 @@ tags:
   - washer
   - amana
 money_part: "Water inlet valve assembly"
+part_price: "$15-40"
 most_likely_cause: "Hot or cold supply valve closed or partially closed"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

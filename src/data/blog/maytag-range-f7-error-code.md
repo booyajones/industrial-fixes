@@ -14,6 +14,7 @@ most_likely_cause: "Stuck or shorted key on the touchpad"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Maytag Range Touchpad / Keypad Assembly"
+part_price: "$40-120"
 ---
 
 ## Maytag Range F7 Error Code — What It Means

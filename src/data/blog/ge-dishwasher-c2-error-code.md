@@ -14,6 +14,7 @@ most_likely_cause: "clogged drain hose, blocked air gap, or disposer knockout pl
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Drain hose"
+part_price: "$10-40"
 ---
 
 ## GE Dishwasher C2 Error Code — What It Means

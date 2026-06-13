@@ -14,6 +14,7 @@ most_likely_cause: "Frost or ice buildup around the ice maker fan assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG ice maker fan motor (ice maker blower fan motor)"
+part_price: "$40-80"
 ---
 
 ## LG Refrigerator IF Error Code — What It Means

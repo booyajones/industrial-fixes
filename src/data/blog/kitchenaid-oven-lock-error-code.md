@@ -11,6 +11,7 @@ tags:
   - oven
   - kitchenaid
 money_part: "KitchenAid oven door lock assembly"
+part_price: "$50-150"
 most_likely_cause: "Stuck or failed door lock switch"
 likelihood: "the most common cause"
 diy_or_pro: "pro"

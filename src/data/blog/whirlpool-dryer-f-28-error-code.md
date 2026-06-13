@@ -14,6 +14,7 @@ most_likely_cause: "loose, oxidized, or poorly seated wiring connectors between 
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Main control board (CCU or central control unit)"
+part_price: "$80-200"
 ---
 
 ## Whirlpool Dryer F-28 Error Code — What It Means

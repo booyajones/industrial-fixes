@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - kitchenaid
 money_part: "KitchenAid dishwasher drain pump"
+part_price: "$15-80"
 most_likely_cause: "clogged drain path or restricted drain hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

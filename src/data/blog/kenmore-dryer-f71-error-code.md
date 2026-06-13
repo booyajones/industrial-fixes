@@ -11,6 +11,7 @@ tags:
   - dryer
   - kenmore
 money_part: "Main electronic control board (ECB)"
+part_price: "$80-250"
 most_likely_cause: "loose, oxidized, or damaged harness connections between control boards"
 likelihood: "the most common cause"
 diy_or_pro: "pro"

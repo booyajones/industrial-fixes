@@ -11,6 +11,7 @@ tags:
   - dryer
   - kenmore
 money_part: "Moisture sensor assembly (sensor bars)"
+part_price: "$15-50"
 most_likely_cause: "Residue on the moisture sensor bars"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

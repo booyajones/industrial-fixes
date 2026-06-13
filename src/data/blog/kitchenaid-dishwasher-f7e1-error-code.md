@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - kitchenaid
 money_part: "KitchenAid dishwasher wash motor / circulation pump assembly"
+part_price: "$80-180"
 most_likely_cause: "failed wash motor or loose motor connector"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

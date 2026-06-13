@@ -14,6 +14,7 @@ most_likely_cause: "failed door switch or stuck main oven door latch assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool oven door switch"
+part_price: "$30-80"
 ---
 
 ## Whirlpool Oven F5 E0 Error Code — What It Means

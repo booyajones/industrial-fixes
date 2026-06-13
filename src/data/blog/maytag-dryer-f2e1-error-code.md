@@ -14,6 +14,7 @@ most_likely_cause: "Temporary control glitch or stuck keypad button"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Keypad / User Interface Assembly"
+part_price: "$60-120"
 ---
 
 ## Maytag Dryer F2E1 Error Code — What It Means

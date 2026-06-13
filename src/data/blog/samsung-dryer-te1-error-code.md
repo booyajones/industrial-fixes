@@ -14,6 +14,7 @@ most_likely_cause: "Failed thermistor or loose thermistor connector"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung dryer thermistor / temperature sensor"
+part_price: "$15-50"
 ---
 
 ## Samsung Dryer tE1 Error Code — What It Means

@@ -14,6 +14,7 @@ most_likely_cause: "dryer not level or very small loads not contacting the moist
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Moisture sensor bars (drum moisture electrodes)"
+part_price: "$30-80"
 ---
 
 ## Maytag Dryer F3E2 Error Code — What It Means

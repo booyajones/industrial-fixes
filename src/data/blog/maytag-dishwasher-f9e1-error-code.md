@@ -14,6 +14,7 @@ most_likely_cause: "clogged filter or sump area restricting water flow to the pu
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Maytag dishwasher drain pump assembly"
+part_price: "$30-90"
 ---
 
 ## Maytag Dishwasher F9E1 Error — What It Means

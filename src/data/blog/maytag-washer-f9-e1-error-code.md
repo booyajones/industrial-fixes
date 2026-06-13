@@ -13,6 +13,7 @@ most_likely_cause: "drain hose kinked, clogged, or inserted too far into the sta
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Maytag washer drain pump assembly"
+part_price: "$15-75"
 ---
 
 ## Maytag F9 E1 Error Code — What It Means

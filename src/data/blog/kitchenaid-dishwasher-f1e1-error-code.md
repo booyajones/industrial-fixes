@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - kitchenaid
 money_part: "Electronic control board (main control / ACU)"
+part_price: "$150-250"
 most_likely_cause: "Stuck relay on the electronic control board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

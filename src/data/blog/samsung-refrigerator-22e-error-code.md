@@ -14,6 +14,7 @@ most_likely_cause: "Ice or frost buildup around the evaporator fan blades"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung refrigerator evaporator fan motor assembly"
+part_price: "$30-80"
 ---
 
 ## Samsung 22E Refrigerator Error — What It Means

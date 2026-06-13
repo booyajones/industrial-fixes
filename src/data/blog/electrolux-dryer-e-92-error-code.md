@@ -11,6 +11,7 @@ tags:
   - dryer
   - electrolux
 money_part: "Electrolux dryer user interface control board"
+part_price: "$150-400"
 most_likely_cause: "Wrong replacement UI or main control board installed for the dryer model"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

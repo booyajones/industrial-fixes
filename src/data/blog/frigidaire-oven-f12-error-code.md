@@ -14,6 +14,7 @@ most_likely_cause: "Temporary control glitch or stuck key on the control panel"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "User interface board / touch panel assembly"
+part_price: "$50-200"
 ---
 
 ## Frigidaire Oven F12 Error Code — What It Means

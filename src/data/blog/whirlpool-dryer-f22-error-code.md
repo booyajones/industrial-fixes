@@ -14,6 +14,7 @@ most_likely_cause: "failed exhaust/outlet thermistor"
 likelihood: "the most commonly reported cause"
 diy_or_pro: "diy"
 money_part: "Exhaust/outlet thermistor"
+part_price: "$20-50"
 ---
 
 ## Whirlpool Dryer F22 Error Code — What It Means

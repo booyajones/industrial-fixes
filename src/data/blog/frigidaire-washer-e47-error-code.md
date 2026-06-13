@@ -13,6 +13,7 @@ most_likely_cause: "Failed door lock assembly"
 likelihood: "the most commonly reported cause"
 diy_or_pro: "diy"
 money_part: "Door lock assembly (Frigidaire front-load washer)"
+part_price: "$60-120"
 ---
 
 ## Frigidaire E47 Error Code — What It Means

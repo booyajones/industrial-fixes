@@ -14,6 +14,7 @@ most_likely_cause: "appliance control board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool Microwave Appliance Control Board"
+part_price: "$120-250"
 ---
 
 ## Whirlpool Microwave E13 Error Code — What It Means

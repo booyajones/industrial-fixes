@@ -11,6 +11,7 @@ tags:
   - oven
   - maytag
 money_part: "Maytag Oven Cooling Fan Assembly"
+part_price: "$40-120"
 most_likely_cause: "airflow restriction or failed oven cooling fan"
 likelihood: "the most common cause for F8 E0"
 diy_or_pro: "diy"

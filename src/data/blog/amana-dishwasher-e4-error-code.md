@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - amana
 money_part: "Dishwasher inlet valve rubber washer (3/4-inch)"
+part_price: "$10-40"
 most_likely_cause: "Leaking water supply connection at the inlet valve"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

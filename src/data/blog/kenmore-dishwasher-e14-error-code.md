@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - kenmore
 money_part: "Flow meter / reed sensor assembly"
+part_price: "$30-80"
 most_likely_cause: "failed flow meter or reed sensor in the inlet fill system"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

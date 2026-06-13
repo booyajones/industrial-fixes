@@ -14,6 +14,7 @@ most_likely_cause: "Failed or stuck door latch/lock assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Door latch/lock assembly"
+part_price: "$40-80"
 ---
 
 ## Frigidaire Range F8 Error Code — What It Means

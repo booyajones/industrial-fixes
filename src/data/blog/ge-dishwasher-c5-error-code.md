@@ -14,6 +14,7 @@ most_likely_cause: "stuck float or float cover"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE dishwasher float switch assembly"
+part_price: "$15-50"
 ---
 
 ## GE Dishwasher C5 Error Code — What It Means

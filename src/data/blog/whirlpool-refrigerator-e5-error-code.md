@@ -14,6 +14,7 @@ most_likely_cause: "Failed ice box or ice room thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Ice room thermistor (ice box temperature sensor)"
+part_price: "$30-80"
 ---
 
 ## Whirlpool Refrigerator E5 Error — What It Means

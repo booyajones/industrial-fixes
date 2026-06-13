@@ -14,6 +14,7 @@ most_likely_cause: "faulty oven temperature sensor or thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG oven temperature sensor / thermistor"
+part_price: "$15-40"
 ---
 
 ## LG Range F2 Error Code — What It Means

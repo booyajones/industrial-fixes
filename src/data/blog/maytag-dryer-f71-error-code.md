@@ -14,6 +14,7 @@ most_likely_cause: "Loose or damaged wiring harness connection between control b
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Main control board"
+part_price: "$100-250"
 ---
 
 ## Maytag Dryer F71 Error Code — What It Means

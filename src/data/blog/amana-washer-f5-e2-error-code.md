@@ -11,6 +11,7 @@ tags:
   - washer
   - amana
 money_part: "Lid lock assembly (top-load Amana washer)"
+part_price: "$40-90"
 most_likely_cause: "failed lid lock or door lock assembly"
 likelihood: "the most common repair-level cause"
 diy_or_pro: "diy"

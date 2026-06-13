@@ -10,6 +10,7 @@ tags:
   - appliance
   - bosch
 money_part: "Bosch washing machine pressure switch / pressure sensor"
+part_price: "$25-70"
 most_likely_cause: "faulty pressure sensor or pressure switch"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

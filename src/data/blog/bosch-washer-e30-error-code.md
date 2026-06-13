@@ -11,6 +11,7 @@ tags:
   - washer
   - bosch
 money_part: "Bosch washer inlet valve screen filter"
+part_price: "$10-50"
 most_likely_cause: "water leak into the base pan or clogged inlet valve screen"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

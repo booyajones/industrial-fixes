@@ -14,6 +14,7 @@ most_likely_cause: "door lock assembly failure"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Frigidaire oven door latch motor assembly"
+part_price: "$60-120"
 ---
 
 ## Frigidaire Oven F91 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - appliance
   - kitchenaid
 money_part: "Dishwasher door gasket / tub seal kit"
+part_price: "$10-40"
 most_likely_cause: "loose or mis-seated water supply fitting or elbow connection"
 likelihood: "the most common cause, especially after recent installation"
 diy_or_pro: "diy"

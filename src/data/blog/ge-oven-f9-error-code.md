@@ -14,6 +14,7 @@ most_likely_cause: "Debris or grease blocking the door latch mechanism"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE door lock assembly"
+part_price: "$50-150"
 ---
 
 ## GE Oven F9 Error Code — What It Means

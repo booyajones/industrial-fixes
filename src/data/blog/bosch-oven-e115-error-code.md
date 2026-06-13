@@ -11,6 +11,7 @@ tags:
   - oven
   - bosch
 money_part: "Bosch oven temperature sensor / probe"
+part_price: "$40-120"
 most_likely_cause: "Defective temperature sensor or thermostat"
 likelihood: "the most common cause"
 diy_or_pro: "pro"

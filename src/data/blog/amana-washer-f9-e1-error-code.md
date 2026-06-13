@@ -11,6 +11,7 @@ tags:
   - washer
   - amana
 money_part: "Drain hose"
+part_price: "$10-30"
 most_likely_cause: "drain hose installed incorrectly or kinked"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

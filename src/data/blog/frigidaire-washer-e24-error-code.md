@@ -14,6 +14,7 @@ most_likely_cause: "Failed main control board relay or triac for the drain pump"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Frigidaire washer main control board"
+part_price: "$150-300"
 ---
 
 ## Frigidaire Washer E24 Error Code — What It Means

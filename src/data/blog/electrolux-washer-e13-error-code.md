@@ -11,6 +11,7 @@ tags:
   - washer
   - electrolux
 money_part: "Pressure sensor or pressure switch"
+part_price: "$15-80"
 most_likely_cause: "drain hose positioned too low, allowing siphoning"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

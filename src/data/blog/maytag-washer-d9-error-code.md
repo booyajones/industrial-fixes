@@ -14,6 +14,7 @@ most_likely_cause: "house power sag or branch circuit overload"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Power cord"
+part_price: "$15-50"
 ---
 
 ## Maytag Washer d9 Error Code — What It Means

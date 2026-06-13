@@ -5,15 +5,19 @@
 // (RepairClinic) via Skimlinks (no noskim, so it is monetized). One clear CTA.
 interface Props {
   query: string;
+  part?: string;
   brand?: string;
 }
-const { query, brand = "" } = Astro.props;
+const { query, part = "", brand = "" } = Astro.props;
 const rcUrl = `https://www.repairclinic.com/Shop-For-Parts?query=${encodeURIComponent(query)}`;
+// Assert the actual part, not a vague "the part you need". Truncate long part
+// names so the bar stays one line on a phone.
+const partLabel = part && part.length > 38 ? part.slice(0, 36).trimEnd() + "…" : part;
 ---
 
 <div id="sticky-parts" class="sticky-parts" aria-hidden="true" data-pagefind-ignore>
   <div class="sp-inner">
-    <span class="sp-text">Found the part you need?</span>
+    <span class="sp-text">{partLabel || "The exact part for this fix"}</span>
     <a
       class="sp-cta"
       href={rcUrl}
@@ -24,7 +28,7 @@ const rcUrl = `https://www.repairclinic.com/Shop-For-Parts?query=${encodeURIComp
       data-affiliate-placement="sticky_mobile"
       data-affiliate-brand={brand}
     >
-      Get the exact part
+      See prices
       <span aria-hidden="true">→</span>
     </a>
   </div>

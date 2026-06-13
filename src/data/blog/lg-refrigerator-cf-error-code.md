@@ -14,6 +14,7 @@ most_likely_cause: "Seized or failed condenser fan motor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG condenser fan motor"
+part_price: "$40-80"
 ---
 
 ## LG Refrigerator CF Error Code — What It Means

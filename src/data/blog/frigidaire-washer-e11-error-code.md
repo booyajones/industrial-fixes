@@ -13,6 +13,7 @@ most_likely_cause: "Partially closed supply faucets or clogged inlet screens"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Water inlet valve assembly"
+part_price: "$10-40"
 ---
 
 ## Frigidaire E11 Error Code — What It Means

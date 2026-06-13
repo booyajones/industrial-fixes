@@ -14,6 +14,7 @@ most_likely_cause: "Garbage disposer knockout plug not removed"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Dishwasher drain hose"
+part_price: "$15-50"
 ---
 
 ## Whirlpool Dishwasher F9E1 Error — What It Means

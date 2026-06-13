@@ -14,6 +14,7 @@ most_likely_cause: "Loose or damaged wiring and connectors in the motor feedback
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Main electronic control board"
+part_price: "$80-200"
 ---
 
 ## Maytag Dryer F25 Error Code — What It Means

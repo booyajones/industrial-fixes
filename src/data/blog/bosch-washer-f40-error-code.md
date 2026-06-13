@@ -11,6 +11,7 @@ tags:
   - washer
   - bosch
 money_part: "Bosch washer power cord / mains cord"
+part_price: "$10-30"
 most_likely_cause: "no power at the wall outlet or a tripped breaker"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

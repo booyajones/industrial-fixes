@@ -14,6 +14,7 @@ most_likely_cause: "loose or damaged Wi-Fi antenna connector"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool Wi-Fi antenna module"
+part_price: "$15-50"
 ---
 
 ## Whirlpool Range FC E5 Error — What It Means

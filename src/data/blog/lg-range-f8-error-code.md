@@ -14,6 +14,7 @@ most_likely_cause: "Shorted or faulty oven meat probe"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG oven meat probe assembly"
+part_price: "$15-50"
 ---
 
 ## LG Range F8 Error Code — What It Means

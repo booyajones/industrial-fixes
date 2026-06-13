@@ -14,6 +14,7 @@ most_likely_cause: "Restricted venting or airflow"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung dryer thermistor (temperature sensor)"
+part_price: "$15-80"
 ---
 
 ## Samsung Dryer tC Error Code — What It Means

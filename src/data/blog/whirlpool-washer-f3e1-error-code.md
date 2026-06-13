@@ -13,6 +13,7 @@ most_likely_cause: "Kinked, clogged, or disconnected pressure hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Pressure switch (water level switch)"
+part_price: "$10-50"
 ---
 
 ## Whirlpool F3E1 Error Code — What It Means

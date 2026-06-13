@@ -11,6 +11,7 @@ tags:
   - washer
   - bosch
 money_part: "Bosch washer analogue pressure sensor"
+part_price: "$30-80"
 most_likely_cause: "failed analogue pressure sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

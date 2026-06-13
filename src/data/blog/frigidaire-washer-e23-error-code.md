@@ -14,6 +14,7 @@ most_likely_cause: "failed relay on the main control board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Main electronic control board"
+part_price: "$80-180"
 ---
 
 ## Frigidaire Washer E23 Error Code — What It Means

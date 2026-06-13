@@ -11,6 +11,7 @@ tags:
   - washer
   - bosch
 money_part: "Bosch washer heating element"
+part_price: "$40-120"
 most_likely_cause: "Failed heating element"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

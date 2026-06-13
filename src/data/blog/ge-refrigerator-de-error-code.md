@@ -14,6 +14,7 @@ most_likely_cause: "open defrost heater"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE refrigerator defrost heater"
+part_price: "$30-80"
 ---
 
 ## GE Refrigerator dE Error Code — What It Means

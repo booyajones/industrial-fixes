@@ -14,6 +14,7 @@ most_likely_cause: "Failed exhaust thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool exhaust thermistor"
+part_price: "$15-50"
 ---
 
 ## Whirlpool Dryer F-22 Error Code — What It Means

@@ -14,6 +14,7 @@ most_likely_cause: "clogged drain hose or kinked drain hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool drain pump assembly"
+part_price: "$15-80"
 ---
 
 ## Whirlpool Washer F02 Error Code — What It Means

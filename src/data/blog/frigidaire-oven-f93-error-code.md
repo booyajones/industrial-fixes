@@ -14,6 +14,7 @@ most_likely_cause: "stuck or failed door lock motor/actuator"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Door lock assembly (latch and motor)"
+part_price: "$50-150"
 ---
 
 ## Frigidaire Oven F93 Error Code — What It Means

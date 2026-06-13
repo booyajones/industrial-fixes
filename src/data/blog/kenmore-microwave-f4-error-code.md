@@ -11,6 +11,7 @@ tags:
   - microwave
   - kenmore
 money_part: "Humidity sensor (humidity thermistor)"
+part_price: "$15-45"
 most_likely_cause: "failed humidity sensor (humidity thermistor)"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

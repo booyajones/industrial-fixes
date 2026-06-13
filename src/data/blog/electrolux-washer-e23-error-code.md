@@ -11,6 +11,7 @@ tags:
   - washer
   - electrolux
 money_part: "Electrolux washer drain pump"
+part_price: "$50-120"
 most_likely_cause: "failed or intermittent drain pump"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

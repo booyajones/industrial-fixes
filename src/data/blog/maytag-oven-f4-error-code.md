@@ -14,6 +14,7 @@ most_likely_cause: "defective oven temperature sensor"
 likelihood: "the most commonly cited cause"
 diy_or_pro: "diy"
 money_part: "Oven temperature sensor"
+part_price: "$20-60"
 ---
 
 ## Maytag Oven F4 Error Code — What It Means

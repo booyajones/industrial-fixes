@@ -14,6 +14,7 @@ most_likely_cause: "failed thermistor sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG dryer thermistor temperature sensor"
+part_price: "$15-40"
 ---
 
 ## LG Dryer tE Error Code — What It Means

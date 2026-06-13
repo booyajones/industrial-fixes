@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - kitchenaid
 money_part: "Thermistor / OWI Sensor Assembly"
+part_price: "$40-90"
 most_likely_cause: "damaged wiring harness between the control board and the thermistor/OWI sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

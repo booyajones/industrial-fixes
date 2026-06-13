@@ -14,6 +14,7 @@ most_likely_cause: "moisture or residue on the control panel buttons"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Touch control panel or keypad assembly"
+part_price: "$80-180"
 ---
 
 ## Samsung Oven C-d0 Error Code — What It Means

@@ -14,6 +14,7 @@ most_likely_cause: "Failed RTD temperature sensor probe"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Frigidaire oven RTD temperature sensor probe"
+part_price: "$30-80"
 ---
 
 ## Frigidaire Oven F31 Error Code — What It Means

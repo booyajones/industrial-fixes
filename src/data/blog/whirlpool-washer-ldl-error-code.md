@@ -14,6 +14,7 @@ most_likely_cause: "obstruction or detergent buildup at the lid lock and strike 
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool lid-lock assembly"
+part_price: "$40-90"
 ---
 
 ## Whirlpool LdL Error Code — What It Means

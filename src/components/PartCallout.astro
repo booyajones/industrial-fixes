@@ -8,19 +8,21 @@
 interface Props {
   part: string;
   query: string;
+  price?: string;
   brand?: string;
   pro?: boolean;
 }
-const { part, query, brand = "", pro = false } = Astro.props;
+const { part, query, price, brand = "", pro = false } = Astro.props;
 const rc = `https://www.repairclinic.com/Shop-For-Parts?query=${encodeURIComponent(query)}`;
 const az = `https://www.amazon.com/s?k=${encodeURIComponent(part)}&tag=errorcodefixes-20`;
 ---
 
 <aside class="part-callout" data-pagefind-ignore aria-label="The part you likely need">
   <div class="pc-head">
-    <span class="pc-label">{pro ? "The part for this fix" : "The likely fix — the part you need"}</span>
+    <span class="pc-label">{pro ? "The part for this fix" : "The part you need"}</span>
   </div>
   <div class="pc-part">{part}</div>
+  {price && <div class="pc-price">Typically {price}</div>}
   <div class="pc-actions">
     <a
       class="pc-primary"
@@ -75,6 +77,13 @@ const az = `https://www.amazon.com/s?k=${encodeURIComponent(part)}&tag=errorcode
     font-weight: 700;
     line-height: 1.25;
     color: var(--brand);
+  }
+  /* Pulls up tight under the part name when a price is known. */
+  .pc-price {
+    margin: -0.6rem 0 0.85rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: color-mix(in srgb, var(--foreground) 62%, transparent);
   }
   .pc-actions {
     display: flex;

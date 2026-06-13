@@ -14,6 +14,7 @@ most_likely_cause: "Failed thermistor in the tub or heater assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung washer thermistor / water temperature sensor"
+part_price: "$15-50"
 ---
 
 ## Samsung Washer tC Error Code — What It Means

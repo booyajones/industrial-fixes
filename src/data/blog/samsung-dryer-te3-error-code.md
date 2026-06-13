@@ -14,6 +14,7 @@ most_likely_cause: "Clogged lint screen or restricted vent system causing overhe
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung dryer thermistor (temperature sensor)"
+part_price: "$15-50"
 ---
 
 ## Samsung Dryer tE3 Error Code — What It Means

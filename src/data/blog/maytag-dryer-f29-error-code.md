@@ -14,6 +14,7 @@ most_likely_cause: "temporary electronic glitch in the control board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Moisture sensor bar assembly"
+part_price: "$50-120"
 ---
 
 ## Maytag Dryer F29 Error Code — What It Means

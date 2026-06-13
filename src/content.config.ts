@@ -25,6 +25,12 @@ const blog = defineCollection({
       likelihood: z.string().optional(),
       diy_or_pro: z.enum(["diy", "pro"]).optional(),
       money_part: z.string().optional(),
+      // No-buy verdict fields (the cost-fork lever). All optional so the verdict
+      // renders qualitatively from most_likely_cause + money_part alone, and
+      // sharpens automatically as the generator/backfill fills these in.
+      free_checks: z.array(z.string()).optional(), // 2–3 free checks to do first
+      part_price: z.string().optional(),           // typical street price, e.g. "$45–70"
+      no_buy_pct: z.string().optional(),           // grounded share that are a $0/cheap fix, e.g. "70%"
     }),
 });
 

@@ -14,6 +14,7 @@ most_likely_cause: "failed oven door latch assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Maytag Oven Door Latch Assembly"
+part_price: "$60-150"
 ---
 
 ## Maytag Oven F5 Error Code — What It Means

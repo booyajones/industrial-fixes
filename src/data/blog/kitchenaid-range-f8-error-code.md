@@ -13,6 +13,7 @@ most_likely_cause: "water in the drip tray"
 likelihood: "the most common trigger"
 diy_or_pro: "diy"
 money_part: "Float switch (KitchenAid dishwasher overfill sensor)"
+part_price: "$15-50"
 ---
 
 ## KitchenAid F8 Error Code — What It Means

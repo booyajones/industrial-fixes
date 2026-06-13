@@ -14,6 +14,7 @@ most_likely_cause: "Door not fully closed or lock assembly failure"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Door switch / lid lock assembly"
+part_price: "$50-120"
 ---
 
 ## Whirlpool F5E1 Error Code — What It Means

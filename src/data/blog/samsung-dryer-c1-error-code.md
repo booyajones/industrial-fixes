@@ -14,6 +14,7 @@ most_likely_cause: "Clothing or items left in the drum"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung dryer door switch / latch assembly"
+part_price: "$15-80"
 ---
 
 ## Samsung Dryer C1 Error Code — What It Means

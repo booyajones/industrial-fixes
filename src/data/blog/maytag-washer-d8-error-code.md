@@ -14,6 +14,7 @@ most_likely_cause: "mechanical overload or excessive suds preventing motor rotat
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Drain pump"
+part_price: "$50-200"
 ---
 
 ## Maytag d8 Error Code — What It Means

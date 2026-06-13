@@ -14,6 +14,7 @@ most_likely_cause: "door latch or door-switch assembly signaling fault"
 likelihood: "often the cause when the error recurs after reset"
 diy_or_pro: "diy"
 money_part: "Maytag dishwasher door-latch assembly"
+part_price: "$50-150"
 ---
 
 ## Maytag Dishwasher F10E5 Error Code — What It Means

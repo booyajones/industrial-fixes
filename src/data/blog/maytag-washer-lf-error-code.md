@@ -14,6 +14,7 @@ most_likely_cause: "both hot and cold supply valves not fully open or inadequate
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Maytag washer water inlet valve"
+part_price: "$30-80"
 ---
 
 ## Maytag Washer LF Error Code — What It Means

@@ -14,6 +14,7 @@ most_likely_cause: "failed relay board or main control board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG oven temperature sensor (thermistor)"
+part_price: "$20-120"
 ---
 
 ## LG Range F9 Error Code — What It Means

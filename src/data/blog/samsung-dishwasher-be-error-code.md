@@ -14,6 +14,7 @@ most_likely_cause: "A physically stuck or jammed button on the control panel"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung Dishwasher User-Interface Panel (UI Assembly)"
+part_price: "$50-150"
 ---
 
 ## Samsung Dishwasher bE Error Code — What It Means

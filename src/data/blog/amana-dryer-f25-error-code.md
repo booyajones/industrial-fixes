@@ -11,6 +11,7 @@ tags:
   - dryer
   - amana
 money_part: "Inlet thermistor / inlet temperature sensor"
+part_price: "$30-80"
 most_likely_cause: "transient control glitch cleared by power reset"
 likelihood: "the most common first step that resolves the code"
 diy_or_pro: "diy"

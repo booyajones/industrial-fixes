@@ -13,6 +13,7 @@ most_likely_cause: "Electronic oven control board failure"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Electronic oven control board (control clock assembly)"
+part_price: "$150-300"
 ---
 
 ## KitchenAid F0 Error Code — What It Means

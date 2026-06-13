@@ -14,6 +14,7 @@ most_likely_cause: "door latch assembly failure or latch circuit problem"
 likelihood: "the most common cause on ranges showing F7 E0"
 diy_or_pro: "diy"
 money_part: "Whirlpool Oven Door Latch Assembly"
+part_price: "$50-150"
 ---
 
 ## Whirlpool Range F7 Error Code — What It Means

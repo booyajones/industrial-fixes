@@ -14,6 +14,7 @@ most_likely_cause: "meat probe not fully seated in the receptacle"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Meat probe (temperature probe)"
+part_price: "$20-50"
 ---
 
 ## Maytag Range F8 Error Code — What It Means

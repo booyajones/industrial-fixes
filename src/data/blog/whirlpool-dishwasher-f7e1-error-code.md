@@ -14,6 +14,7 @@ most_likely_cause: "failed wash motor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool dishwasher wash motor / circulation pump motor"
+part_price: "$100-200"
 ---
 
 ## Whirlpool Dishwasher F7E1 Error Code — What It Means

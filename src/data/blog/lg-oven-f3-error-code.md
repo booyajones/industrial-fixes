@@ -14,6 +14,7 @@ most_likely_cause: "liquid, grease, or debris on the touch panel"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Touch pad / membrane keypad assembly"
+part_price: "$40-120"
 ---
 
 ## LG Oven F3 Error Code — What It Means

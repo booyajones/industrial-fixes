@@ -14,6 +14,7 @@ most_likely_cause: "stuck or failed door switch plunger"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE refrigerator door switch"
+part_price: "$10-30"
 ---
 
 ## GE dS Error Code — What It Means

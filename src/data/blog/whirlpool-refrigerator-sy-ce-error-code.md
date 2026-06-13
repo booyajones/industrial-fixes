@@ -14,6 +14,7 @@ most_likely_cause: "loose or damaged wiring harness connection between the user 
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "User interface display board"
+part_price: "$150-350"
 ---
 
 ## Whirlpool SY CE Error Code — What It Means

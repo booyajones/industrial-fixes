@@ -11,6 +11,7 @@ tags:
   - washer
   - electrolux
 money_part: "Electrolux washer drain pump filter"
+part_price: "$15-50"
 most_likely_cause: "Kinked or restricted drain hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

@@ -14,6 +14,7 @@ most_likely_cause: "Ice maker not receiving water or restricted water flow"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Ice maker assembly"
+part_price: "$50-150"
 ---
 
 ## Whirlpool Refrigerator E0 Error Code — What It Means

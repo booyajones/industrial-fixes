@@ -11,6 +11,7 @@ tags:
   - washer
   - kenmore
 money_part: "Electronic control board (main CCU)"
+part_price: "$100-200"
 most_likely_cause: "transient control glitch or failed electronic control board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

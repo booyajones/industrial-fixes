@@ -11,6 +11,7 @@ tags:
   - oven
   - kenmore
 money_part: "Oven Door Latch Assembly"
+part_price: "$30-80"
 most_likely_cause: "stuck or bent latch cam or rod"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

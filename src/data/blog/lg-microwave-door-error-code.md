@@ -14,6 +14,7 @@ most_likely_cause: "Foreign material, packaging, crumbs, or grease preventing fu
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG microwave door latch assembly"
+part_price: "$15-50"
 ---
 
 ## LG Microwave DOOR Error — What It Means

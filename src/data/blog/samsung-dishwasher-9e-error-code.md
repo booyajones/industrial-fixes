@@ -14,6 +14,7 @@ most_likely_cause: "dirty inlet filter screen or kinked supply hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung dishwasher water inlet valve assembly"
+part_price: "$15-50"
 ---
 
 ## Samsung Dishwasher 9E Error Code — What It Means

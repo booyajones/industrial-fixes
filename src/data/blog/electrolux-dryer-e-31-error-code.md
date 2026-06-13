@@ -11,6 +11,7 @@ tags:
   - dryer
   - electrolux
 money_part: "Moisture sensor bar assembly"
+part_price: "$10-40"
 most_likely_cause: "lint, detergent residue, or fabric softener film on the moisture sensor bars"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

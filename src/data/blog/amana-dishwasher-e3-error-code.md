@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - amana
 money_part: "Dishwasher heating element"
+part_price: "$40-120"
 most_likely_cause: "Failed heating element or circulation pump"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

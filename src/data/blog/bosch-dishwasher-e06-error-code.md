@@ -14,6 +14,7 @@ most_likely_cause: "door not closing or latching properly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Bosch Dishwasher Door Sensor / Latch Switch"
+part_price: "$15-80"
 ---
 
 ## Bosch Dishwasher E06 Error — What It Means

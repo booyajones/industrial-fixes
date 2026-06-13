@@ -11,6 +11,7 @@ tags:
   - washer
   - electrolux
 money_part: "Main control board (PCB)"
+part_price: "$150-300"
 most_likely_cause: "Failed main control board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

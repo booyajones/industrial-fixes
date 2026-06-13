@@ -14,6 +14,7 @@ most_likely_cause: "Meat probe not fully seated in the receptacle"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool range meat probe"
+part_price: "$15-80"
 ---
 
 ## Whirlpool Range F8 Error Code — What It Means

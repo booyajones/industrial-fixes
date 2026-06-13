@@ -14,6 +14,7 @@ most_likely_cause: "Water inlet valve leakage or loose hose connection"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Bosch dishwasher water inlet valve"
+part_price: "$15-80"
 ---
 
 ## Bosch Washer E15 Error Code — What It Means

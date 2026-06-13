@@ -11,6 +11,7 @@ tags:
   - dryer
   - amana
 money_part: "Moisture sensor strip / moisture sensor bars"
+part_price: "$15-50"
 most_likely_cause: "Open or disconnected moisture sensor strip circuit at the drum bulkhead"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

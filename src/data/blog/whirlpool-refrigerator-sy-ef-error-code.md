@@ -12,6 +12,7 @@ tags:
   - whirlpool
 diy_or_pro: "diy"
 money_part: "Evaporator fan motor assembly"
+part_price: "$40-120"
 ---
 
 ## Whirlpool Refrigerator SY EF Error Code — What It Means

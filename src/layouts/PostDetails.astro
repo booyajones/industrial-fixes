@@ -18,6 +18,7 @@ import AffiliateDisclosure from "@/components/AffiliateDisclosure.astro";
 import PartsSpecialist from "@/components/PartsSpecialist.astro";
 import StickyPartsBar from "@/components/StickyPartsBar.astro";
 import PartCallout from "@/components/PartCallout.astro";
+import NoBuyVerdict from "@/components/NoBuyVerdict.astro";
 import { getPath } from "@/utils/getPath";
 import { authors } from "../data/authors";
 import { equipmentCategories } from "@/data/equipmentCategories";
@@ -46,6 +47,9 @@ const {
   likelihood,
   diy_or_pro,
   money_part,
+  free_checks,
+  part_price,
+  no_buy_pct,
 } = post.data;
 
 const { Content } = await render(post);
@@ -300,8 +304,10 @@ const nextPost =
     <QuickAnswer {description} {title} />
 
     <!-- Verdict block: a technician's most-likely-cause call + a color-coded
-         DIY/Pro badge. Only renders on deep code pages that carry the fields. -->
-    {(most_likely_cause || diy_or_pro) && (
+         DIY/Pro badge. Renders only when there is NO money_part — when a part
+         exists, the NoBuyVerdict below carries the cause + badge, so this would
+         be redundant (the cause appearing twice back-to-back). -->
+    {!money_part && (most_likely_cause || diy_or_pro) && (
       <div class="verdict" data-pagefind-ignore>
         {most_likely_cause && (
           <p class="verdict-cause">
@@ -317,8 +323,21 @@ const nextPost =
       </div>
     )}
 
+    <!-- No-buy verdict: the cost-fork judgment call (lead with "don't buy yet").
+         Above the fold; the buy button (PartCallout) now sits BELOW the free-fix
+         gate, anchored at #get-the-part. This is the AI-Overview hedge + the
+         honesty moat + a buyer pre-qualifier (DO-NOW #2, the biggest lever). -->
     {money_part && (
-      <PartCallout part={money_part} query={partsQuery} brand={tags?.[0] ?? ""} pro={diy_or_pro === "pro"} />
+      <NoBuyVerdict
+        cause={most_likely_cause}
+        part={money_part}
+        partPrice={part_price}
+        noBuyPct={no_buy_pct}
+        freeChecks={free_checks}
+        pro={diy_or_pro === "pro"}
+        diyOrPro={diy_or_pro}
+        code={heroCode ?? undefined}
+      />
     )}
 
     <!-- Internal link to the brand hub for topical authority + more sessions
@@ -355,6 +374,17 @@ const nextPost =
       <Content />
     </article>
 
+    <!-- The buy button, now BELOW the free-fix gate. By the time the reader is
+         here they have passed the no-buy verdict + the diagnostic + the fix
+         steps, so this click is pre-qualified (they need the part) and converts
+         harder. #get-the-part is the anchor the no-buy verdict's "already ruled
+         those out?" link jumps to. -->
+    {money_part && (
+      <div id="get-the-part">
+        <PartCallout part={money_part} query={partsQuery} price={part_price} brand={tags?.[0] ?? ""} pro={diy_or_pro === "pro"} />
+      </div>
+    )}
+
     <!-- "Shop the replacement part": the reader has just diagnosed the fault,
          so buying intent peaks here. Routes to a category-appropriate parts
          specialist; links are Skimlinks-monetized (no noskim). Placed after
@@ -363,7 +393,7 @@ const nextPost =
 
     <!-- Sticky mobile "get the part" bar: appears after the reader scrolls into
          the fix, so the affiliate click is earned. Mobile only, self-contained. -->
-    <StickyPartsBar query={partsQuery} brand={tags?.[0] ?? ''} />
+    <StickyPartsBar query={partsQuery} part={money_part} brand={tags?.[0] ?? ''} />
 
     <hr class="my-8 border-dashed" />
 

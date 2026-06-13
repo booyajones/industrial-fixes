@@ -14,6 +14,7 @@ most_likely_cause: "door latch/lock motor assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE oven door latch/lock motor assembly"
+part_price: "$80-180"
 ---
 
 ## GE Range FC Error Code — What It Means

@@ -14,6 +14,7 @@ most_likely_cause: "Oven door latch assembly failure or misoperation"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Oven Door Latch Assembly"
+part_price: "$40-120"
 ---
 
 ## Maytag Range F5E0 Error Code — What It Means

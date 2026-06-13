@@ -13,6 +13,7 @@ most_likely_cause: "Loose, oxidized, or damaged wiring and connectors between th
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "User interface board / console assembly"
+part_price: "$15-150"
 ---
 
 ## Maytag F6E3 Error Code — What It Means

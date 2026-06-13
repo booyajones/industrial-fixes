@@ -14,6 +14,7 @@ most_likely_cause: "Failed electronic control board"
 likelihood: "the most commonly cited cause when the code persists after power reset"
 diy_or_pro: "diy"
 money_part: "Electronic control board (ERC/oven control/clock)"
+part_price: "$150-300"
 ---
 
 ## Whirlpool Range F1 Error Code — What It Means

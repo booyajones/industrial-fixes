@@ -11,6 +11,7 @@ tags:
   - oven
   - bosch
 money_part: "Bosch oven control-panel keypad membrane"
+part_price: "$40-150"
 most_likely_cause: "stuck or jammed control-panel button"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

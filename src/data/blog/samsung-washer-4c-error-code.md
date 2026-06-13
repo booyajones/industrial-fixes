@@ -14,6 +14,7 @@ most_likely_cause: "clogged inlet mesh filters or partially closed water tap"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Inlet hose mesh filter screens"
+part_price: "$10-40"
 ---
 
 ## Samsung Washer 4C Error Code — What It Means

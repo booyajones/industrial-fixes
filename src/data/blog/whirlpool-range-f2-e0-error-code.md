@@ -14,6 +14,7 @@ most_likely_cause: "stuck or shorted keypad membrane"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool range user interface / control panel assembly"
+part_price: "$80-180"
 ---
 
 ## Whirlpool Range F2 E0 Error Code — What It Means

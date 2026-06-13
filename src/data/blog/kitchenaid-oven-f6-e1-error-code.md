@@ -11,6 +11,7 @@ tags:
   - oven
   - kitchenaid
 money_part: "Main Control Board (Appliance Manager)"
+part_price: "$150-300"
 most_likely_cause: "Loose or corroded wiring harness between control boards"
 likelihood: "the most common cause"
 diy_or_pro: "pro"

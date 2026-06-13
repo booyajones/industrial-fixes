@@ -14,6 +14,7 @@ most_likely_cause: "failed defrost thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung freezer defrost temperature sensor / thermistor"
+part_price: "$15-40"
 ---
 
 ## Samsung Refrigerator 4E Error Code — What It Means

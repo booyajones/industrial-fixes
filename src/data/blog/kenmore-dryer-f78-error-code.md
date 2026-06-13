@@ -11,6 +11,7 @@ tags:
   - dryer
   - kenmore
 money_part: "Keypad control assembly (user interface board)"
+part_price: "$80-250"
 most_likely_cause: "Loose, damaged, or unplugged wire harness between the main control and keypad assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

@@ -14,6 +14,7 @@ most_likely_cause: "jammed or bent latch mechanism"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Door latch assembly"
+part_price: "$30-120"
 ---
 
 ## Kenmore Range F05 Error Code — What It Means

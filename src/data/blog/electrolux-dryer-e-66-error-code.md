@@ -11,6 +11,7 @@ tags:
   - dryer
   - electrolux
 money_part: "Thermal fuse"
+part_price: "$15-40"
 most_likely_cause: "Restricted exhaust airflow from lint buildup"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

@@ -11,6 +11,7 @@ tags:
   - oven
   - bosch
 money_part: "Bosch oven cooling fan motor"
+part_price: "$30-80"
 most_likely_cause: "blocked ventilation or failed cooling fan"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

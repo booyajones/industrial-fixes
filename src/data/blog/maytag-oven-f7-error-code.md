@@ -14,6 +14,7 @@ most_likely_cause: "Stuck or shorted function key on the touchpad"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Touchpad / Keypad / Control Panel Assembly"
+part_price: "$50-150"
 ---
 
 ## Maytag Oven F7 Error Code — What It Means

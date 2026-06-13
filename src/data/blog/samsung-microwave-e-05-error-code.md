@@ -14,6 +14,7 @@ most_likely_cause: "User-input or control-board logic issue interpreting the ent
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Main control board (PCB assembly)"
+part_price: "$80-180"
 ---
 
 ## Samsung Microwave E-05 Error — What It Means

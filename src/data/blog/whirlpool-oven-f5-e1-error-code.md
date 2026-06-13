@@ -14,6 +14,7 @@ most_likely_cause: "Failed door latch motor or actuator"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Door latch motor assembly"
+part_price: "$50-150"
 ---
 
 ## Whirlpool Oven F5 E1 Error — What It Means

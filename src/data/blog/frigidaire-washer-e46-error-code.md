@@ -11,6 +11,7 @@ tags:
   - washer
   - frigidaire
 money_part: "Electronic control board (main PCB)"
+part_price: "$100-250"
 most_likely_cause: "failed electronic control board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

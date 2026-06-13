@@ -14,6 +14,7 @@ most_likely_cause: "Defective membrane switch or touchpad assembly with a shorte
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung Range Membrane Switch / Touchpad Assembly"
+part_price: "$50-150"
 ---
 
 ## Samsung Range SE Error Code — What It Means

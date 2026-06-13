@@ -14,6 +14,7 @@ most_likely_cause: "failed heating element or heater assembly"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
 money_part: "LG dishwasher heating element"
+part_price: "$60-150"
 ---
 
 ## LG Dishwasher HE Error Code — What It Means

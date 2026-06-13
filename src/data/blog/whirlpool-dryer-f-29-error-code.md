@@ -14,6 +14,7 @@ most_likely_cause: "dirty or residue-covered moisture sensor bars"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool dryer moisture sensor assembly"
+part_price: "$15-50"
 ---
 
 ## Whirlpool Dryer F-29 Error Code — What It Means

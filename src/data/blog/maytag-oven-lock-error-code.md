@@ -14,6 +14,7 @@ most_likely_cause: "Debris or obstruction in the door latch mechanism"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Door lock assembly"
+part_price: "$30-120"
 ---
 
 ## Maytag Oven Lock Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - amana
 money_part: "Water inlet valve (Amana dishwasher)"
+part_price: "$15-50"
 most_likely_cause: "shutoff valve under the sink not fully open"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

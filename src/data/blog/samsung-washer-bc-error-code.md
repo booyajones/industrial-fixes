@@ -14,6 +14,7 @@ most_likely_cause: "Sticking or physically jammed button on the control panel"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung washer display PCB / control panel board"
+part_price: "$80-180"
 ---
 
 ## Samsung Washer bC Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - washer
   - electrolux
 money_part: "Water inlet valve assembly"
+part_price: "$30-80"
 most_likely_cause: "closed or restricted water supply"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

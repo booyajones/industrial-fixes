@@ -14,6 +14,7 @@ most_likely_cause: "Control board or wiring fault"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Electronic control board (main control)"
+part_price: "$80-200"
 ---
 
 ## Maytag Dryer F1E1 Error Code — What It Means

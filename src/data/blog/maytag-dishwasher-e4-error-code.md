@@ -14,6 +14,7 @@ most_likely_cause: "Loose or improperly seated water supply connection at the in
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Float switch assembly"
+part_price: "$10-40"
 ---
 
 ## Maytag Dishwasher E4 Error Code — What It Means

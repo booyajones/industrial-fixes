@@ -14,6 +14,7 @@ most_likely_cause: "failed or shorted user interface assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "User Interface / Touchpad Assembly"
+part_price: "$80-180"
 ---
 
 ## Maytag Range F2E0 Error Code — What It Means

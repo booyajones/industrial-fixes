@@ -14,6 +14,7 @@ most_likely_cause: "frost or ice buildup around the evaporator fan area"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG refrigerator evaporator fan motor"
+part_price: "$30-80"
 ---
 
 ## LG Refrigerator rF Error Code — What It Means

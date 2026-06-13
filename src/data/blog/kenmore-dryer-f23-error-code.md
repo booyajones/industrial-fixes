@@ -11,6 +11,7 @@ tags:
   - dryer
   - kenmore
 money_part: "Kenmore dryer outlet/exhaust thermistor"
+part_price: "$15-40"
 most_likely_cause: "failed outlet/exhaust thermistor"
 likelihood: "the primary cause"
 diy_or_pro: "diy"

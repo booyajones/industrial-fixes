@@ -14,6 +14,7 @@ most_likely_cause: "faulty door lock assembly or actuator motor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung oven door lock assembly"
+part_price: "$50-120"
 ---
 
 ## Samsung Oven C-d1 Error Code — What It Means

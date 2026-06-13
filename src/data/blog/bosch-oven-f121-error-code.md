@@ -11,6 +11,7 @@ tags:
   - oven
   - bosch
 money_part: "Bosch oven membrane keypad / touchpad assembly"
+part_price: "$30-80"
 most_likely_cause: "physically stuck button or failed membrane keypad assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

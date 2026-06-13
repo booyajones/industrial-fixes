@@ -11,6 +11,7 @@ tags:
   - microwave
   - kenmore
 money_part: "Microwave Door Switch"
+part_price: "$15-40"
 most_likely_cause: "Mechanical door switch failure"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

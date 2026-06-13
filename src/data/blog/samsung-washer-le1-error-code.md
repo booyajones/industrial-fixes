@@ -14,6 +14,7 @@ most_likely_cause: "water leak into the base pan triggering the leak-protection 
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Water level sensor (pressure sensor) for Samsung front-load washer"
+part_price: "$15-80"
 ---
 
 ## Samsung Washer LE1 Error Code — What It Means

@@ -13,6 +13,7 @@ most_likely_cause: "Ice buildup freezing the evaporator fan in place"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung freezer evaporator fan motor"
+part_price: "$30-80"
 ---
 
 ## Samsung 21E Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - amana
 money_part: "Water inlet valve assembly"
+part_price: "$40-120"
 most_likely_cause: "Stuck or failed water inlet valve"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

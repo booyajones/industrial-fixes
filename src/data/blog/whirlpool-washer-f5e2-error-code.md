@@ -14,6 +14,7 @@ most_likely_cause: "Obstruction in the lock area or faulty lock assembly"
 likelihood: "the most common causes"
 diy_or_pro: "diy"
 money_part: "Whirlpool door lock assembly (front-load)"
+part_price: "$50-120"
 ---
 
 ## Whirlpool Washer F5E2 Error Code — What It Means

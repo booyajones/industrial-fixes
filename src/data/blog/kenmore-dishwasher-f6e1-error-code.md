@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - kenmore
 money_part: "Water inlet valve assembly"
+part_price: "$40-80"
 most_likely_cause: "failed water inlet valve coil"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

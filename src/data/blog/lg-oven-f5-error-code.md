@@ -14,6 +14,7 @@ most_likely_cause: "failed lower oven thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG lower oven thermistor / temperature sensor"
+part_price: "$15-40"
 ---
 
 ## LG Oven F5 Error Code — What It Means

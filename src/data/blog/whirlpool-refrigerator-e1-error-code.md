@@ -14,6 +14,7 @@ most_likely_cause: "Control glitch or transient fault"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Ice maker assembly"
+part_price: "$10-100"
 ---
 
 ## Whirlpool Refrigerator E1 Error Code — What It Means

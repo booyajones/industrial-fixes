@@ -14,6 +14,7 @@ most_likely_cause: "Failed inlet thermistor or temperature sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Maytag dryer inlet thermistor / temperature sensor"
+part_price: "$15-40"
 ---
 
 ## Maytag Dryer F24 Error Code — What It Means

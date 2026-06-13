@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - kenmore
 money_part: "Kenmore dishwasher drain pump"
+part_price: "$15-80"
 most_likely_cause: "clogged or kinked drain hose, or failed drain pump"
 likelihood: "the most common causes"
 diy_or_pro: "diy"

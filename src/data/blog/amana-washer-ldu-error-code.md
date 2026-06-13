@@ -11,6 +11,7 @@ tags:
   - washer
   - amana
 money_part: "Lid-lock assembly"
+part_price: "$50-120"
 most_likely_cause: "Objects on the lid"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

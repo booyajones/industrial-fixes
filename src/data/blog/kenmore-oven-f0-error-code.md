@@ -11,6 +11,7 @@ tags:
   - oven
   - kenmore
 money_part: "Touchpad / keypad / control-panel assembly"
+part_price: "$50-150"
 most_likely_cause: "defective touchpad or keypad"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

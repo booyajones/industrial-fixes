@@ -10,6 +10,7 @@ tags:
   - appliance
   - kitchenaid
 money_part: "KitchenAid oven temperature sensor"
+part_price: "$25-70"
 most_likely_cause: "Faulty oven temperature sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

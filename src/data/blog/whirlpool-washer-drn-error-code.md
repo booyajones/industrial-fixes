@@ -14,6 +14,7 @@ most_likely_cause: "drain hose installed incorrectly or kinked"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool washer drain pump assembly"
+part_price: "$30-80"
 ---
 
 ## Whirlpool drn Error Code — What It Means

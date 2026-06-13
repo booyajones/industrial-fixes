@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - kitchenaid
 money_part: "User Interface / Control Panel Assembly"
+part_price: "$80-200"
 most_likely_cause: "loose or corroded wiring and connectors between the user interface and main control"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

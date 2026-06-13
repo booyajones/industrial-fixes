@@ -14,6 +14,7 @@ most_likely_cause: "Filter, sump, or drain path blockage restricting water movem
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung dishwasher drain pump assembly"
+part_price: "$80-150"
 ---
 
 ## Samsung Dishwasher 3C Error Code — What It Means

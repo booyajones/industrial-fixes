@@ -11,6 +11,7 @@ tags:
   - dryer
   - amana
 money_part: "Rotor Position Sensor (RPS)"
+part_price: "$30-80"
 most_likely_cause: "Failed Rotor Position Sensor (RPS)"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

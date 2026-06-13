@@ -11,6 +11,7 @@ tags:
   - dryer
   - kenmore
 money_part: "Main electronic control board"
+part_price: "$50-250"
 diy_or_pro: "diy"
 ---
 

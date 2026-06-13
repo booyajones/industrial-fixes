@@ -11,6 +11,7 @@ tags:
   - microwave
   - kenmore
 money_part: "Keypad / User Interface Assembly"
+part_price: "$40-120"
 most_likely_cause: "Failing keypad or user interface membrane"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

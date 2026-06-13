@@ -12,6 +12,7 @@ tags:
   - whirlpool
 diy_or_pro: "diy"
 money_part: "Door latch assembly"
+part_price: "$30-120"
 ---
 
 ## Whirlpool Dishwasher F6E1 Error Code — What It Means

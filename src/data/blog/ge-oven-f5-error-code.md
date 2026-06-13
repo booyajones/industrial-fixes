@@ -14,6 +14,7 @@ most_likely_cause: "Failed ERC/EOC control board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "ERC/EOC control board (Electronic Oven Control)"
+part_price: "$100-250"
 ---
 
 ## GE Oven F5 Error Code — What It Means

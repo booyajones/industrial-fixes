@@ -14,6 +14,7 @@ most_likely_cause: "door not fully closed or debris blocking the latch"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung washer door lock assembly"
+part_price: "$30-80"
 ---
 
 ## Samsung Washer dC1 Error Code — What It Means

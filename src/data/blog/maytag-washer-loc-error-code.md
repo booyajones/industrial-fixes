@@ -14,6 +14,7 @@ most_likely_cause: "Control Lock feature enabled intentionally or accidentally"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Control panel / touchpad assembly"
+part_price: "$80-180"
 ---
 
 ## Maytag Washer LOC Error Code — What It Means

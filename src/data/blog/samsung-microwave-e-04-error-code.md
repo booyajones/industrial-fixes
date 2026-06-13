@@ -14,6 +14,7 @@ most_likely_cause: "Cooking time entered exceeds the allowed limit for the selec
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung microwave main control board (MICOM)"
+part_price: "$80-200"
 ---
 
 ## Samsung Microwave E-04 Error — What It Means

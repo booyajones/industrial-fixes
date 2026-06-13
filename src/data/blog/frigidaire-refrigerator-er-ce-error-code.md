@@ -14,6 +14,7 @@ most_likely_cause: "Loose, oxidized, or moisture-contaminated connector at the d
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Frigidaire refrigerator user interface board (display board)"
+part_price: "$80-250"
 ---
 
 ## Frigidaire Er CE Error Code — What It Means

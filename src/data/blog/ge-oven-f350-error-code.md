@@ -14,6 +14,7 @@ most_likely_cause: "debris or obstruction blocking the upper cooling fan blower 
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE upper cooling fan blower motor assembly"
+part_price: "$50-150"
 ---
 
 ## GE Oven F350 Error Code — What It Means

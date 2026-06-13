@@ -14,6 +14,7 @@ most_likely_cause: "Door gasket contamination or damage"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG Dishwasher Door Gasket"
+part_price: "$15-50"
 ---
 
 ## LG Dishwasher AE Error Code — What It Means

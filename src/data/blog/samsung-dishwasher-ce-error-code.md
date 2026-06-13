@@ -14,6 +14,7 @@ most_likely_cause: "Failed user interface or control panel"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "User interface / control panel assembly"
+part_price: "$80-200"
 ---
 
 ## Samsung Dishwasher CE Error Code — What It Means

@@ -14,6 +14,7 @@ most_likely_cause: "failed exhaust thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung exhaust thermistor DC32-00007A"
+part_price: "$15-40"
 ---
 
 ## Samsung Dryer tS Error Code — What It Means

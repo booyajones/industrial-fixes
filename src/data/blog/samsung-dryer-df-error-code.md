@@ -14,6 +14,7 @@ most_likely_cause: "Laundry or debris caught in the door, or latch/strike not al
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung dryer door latch assembly"
+part_price: "$15-50"
 ---
 
 ## Samsung Dryer dF Error Code — What It Means

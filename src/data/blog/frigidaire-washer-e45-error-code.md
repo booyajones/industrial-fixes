@@ -14,6 +14,7 @@ most_likely_cause: "defective door lock assembly or PTC element"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Main electronic control board"
+part_price: "$40-90"
 ---
 
 ## Frigidaire Washer E45 Error Code — What It Means

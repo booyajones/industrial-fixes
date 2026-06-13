@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - amana
 money_part: "Water inlet hose and 90° elbow fitting kit"
+part_price: "$10-50"
 most_likely_cause: "Water in the drip tray from a loose or improperly seated inlet water connection"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

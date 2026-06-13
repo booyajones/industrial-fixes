@@ -14,6 +14,7 @@ most_likely_cause: "closed or partially closed water supply shutoff valve"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Water inlet valve"
+part_price: "$20-80"
 ---
 
 ## Maytag Dishwasher H2O Error Code — What It Means

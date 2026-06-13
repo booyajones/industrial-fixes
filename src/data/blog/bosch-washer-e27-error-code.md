@@ -11,6 +11,7 @@ tags:
   - washer
   - bosch
 money_part: "Bosch washer door lock assembly"
+part_price: "$40-120"
 most_likely_cause: "failed door lock assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

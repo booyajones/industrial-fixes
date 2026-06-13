@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - kitchenaid
 money_part: "KitchenAid dishwasher water inlet valve"
+part_price: "$40-90"
 most_likely_cause: "water inlet valve mechanically stuck open"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

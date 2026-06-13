@@ -11,6 +11,7 @@ tags:
   - washer
   - kenmore
 money_part: "HE laundry detergent"
+part_price: "$5-15"
 most_likely_cause: "Non-HE detergent or too much detergent"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

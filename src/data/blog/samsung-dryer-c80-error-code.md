@@ -14,6 +14,7 @@ most_likely_cause: "Clogged lint filter or restricted exhaust vent duct"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "4-inch flexible aluminum dryer vent hose"
+part_price: "$10-50"
 ---
 
 ## Samsung Dryer C80 Error Code — What It Means

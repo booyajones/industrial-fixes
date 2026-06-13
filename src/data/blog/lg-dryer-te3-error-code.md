@@ -14,6 +14,7 @@ most_likely_cause: "failed thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG Dryer Thermistor"
+part_price: "$15-40"
 ---
 
 ## LG Dryer tE3 Error Code — What It Means

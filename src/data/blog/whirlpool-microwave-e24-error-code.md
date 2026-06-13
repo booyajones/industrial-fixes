@@ -14,6 +14,7 @@ most_likely_cause: "Failed thermal sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool Microwave Thermal Sensor (Thermistor)"
+part_price: "$15-50"
 ---
 
 ## Whirlpool Microwave E24 Error Code — What It Means

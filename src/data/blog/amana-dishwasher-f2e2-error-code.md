@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - amana
 money_part: "User interface / control panel assembly"
+part_price: "$50-200"
 most_likely_cause: "Loose or corroded connector between the user interface and control board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

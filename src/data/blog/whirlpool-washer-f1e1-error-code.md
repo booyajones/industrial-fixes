@@ -13,6 +13,7 @@ most_likely_cause: "Failed control board"
 likelihood: "the most common cause when the code returns after reset"
 diy_or_pro: "diy"
 money_part: "Oven Appliance Manager Control (wall oven/range)"
+part_price: "$150-300"
 ---
 
 ## Whirlpool F1E1 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - oven
   - bosch
 money_part: "Electronic control board (Bosch oven control module)"
+part_price: "$200-400"
 most_likely_cause: "blocked vent louvers or poor airflow at the control console"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

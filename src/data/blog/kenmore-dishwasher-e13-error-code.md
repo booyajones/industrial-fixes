@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - kenmore
 money_part: "Drain hose"
+part_price: "$15-80"
 diy_or_pro: "diy"
 ---
 

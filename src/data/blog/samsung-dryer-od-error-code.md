@@ -14,6 +14,7 @@ most_likely_cause: "Restricted airflow from a clogged lint filter or blocked exh
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Moisture sensor bar assembly"
+part_price: "$10-50"
 ---
 
 ## Samsung Dryer oD Error Code — What It Means

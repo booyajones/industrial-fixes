@@ -14,6 +14,7 @@ most_likely_cause: "failed oven temperature sensor"
 likelihood: "one of the most common causes"
 diy_or_pro: "diy"
 money_part: "Oven temperature sensor"
+part_price: "$20-80"
 ---
 
 ## Maytag Oven F1 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - dryer
   - amana
 money_part: "Amana dryer inlet thermistor"
+part_price: "$20-50"
 most_likely_cause: "failed inlet thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

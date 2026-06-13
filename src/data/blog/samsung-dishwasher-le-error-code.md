@@ -14,6 +14,7 @@ most_likely_cause: "visible leaks at drain hose, supply hose, hose clamps, pump 
 likelihood: "the most common real causes"
 diy_or_pro: "diy"
 money_part: "Drain hose"
+part_price: "$15-50"
 ---
 
 ## Samsung Dishwasher LE Error Code — What It Means

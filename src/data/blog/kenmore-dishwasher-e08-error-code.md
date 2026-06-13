@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - kenmore
 money_part: "Dishwasher heating element"
+part_price: "$50-120"
 most_likely_cause: "Failed or open heating element"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

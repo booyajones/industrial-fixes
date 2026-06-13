@@ -14,6 +14,7 @@ most_likely_cause: "Active firmware update in progress"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung dryer main control board"
+part_price: "$150-250"
 ---
 
 ## Samsung Dryer DN Error Code — What It Means

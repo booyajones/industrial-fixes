@@ -14,6 +14,7 @@ most_likely_cause: "clogged air gap or blocked drain hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE dishwasher drain pump assembly"
+part_price: "$15-80"
 ---
 
 ## GE Dishwasher C1 Error Code — What It Means

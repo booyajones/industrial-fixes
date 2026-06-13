@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - bosch
 money_part: "Bosch dishwasher flow meter (flow sensor, reed switch)"
+part_price: "$30-80"
 most_likely_cause: "faulty flow meter or flow sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

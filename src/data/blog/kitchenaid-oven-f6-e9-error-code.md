@@ -11,6 +11,7 @@ tags:
   - oven
   - kitchenaid
 money_part: "Lower Oven Appliance Manager Board"
+part_price: "$150-250"
 most_likely_cause: "Failed lower oven appliance manager board"
 likelihood: "the most common cause when the code returns after a power reset"
 diy_or_pro: "diy"

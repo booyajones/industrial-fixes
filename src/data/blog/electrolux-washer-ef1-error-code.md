@@ -11,6 +11,7 @@ tags:
   - washer
   - electrolux
 money_part: "Drain pump assembly (Electrolux washer)"
+part_price: "$15-50"
 most_likely_cause: "blocked drain filter"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

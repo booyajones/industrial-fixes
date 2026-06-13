@@ -14,6 +14,7 @@ most_likely_cause: "stuck-open inlet valve"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung washer inlet valve assembly"
+part_price: "$30-80"
 ---
 
 ## Samsung Washer OE Error Code — What It Means

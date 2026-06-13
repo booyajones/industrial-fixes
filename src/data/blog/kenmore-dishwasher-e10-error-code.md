@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - kenmore
 money_part: "Water inlet valve assembly"
+part_price: "$20-80"
 most_likely_cause: "clogged inlet valve screen or partially closed water supply valve"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

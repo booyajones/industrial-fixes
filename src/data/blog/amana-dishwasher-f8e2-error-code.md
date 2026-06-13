@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - amana
 money_part: "Bulk dispenser assembly"
+part_price: "$30-80"
 most_likely_cause: "Bulk dispenser empty, not seated correctly, or clogged with dried detergent"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

@@ -14,6 +14,7 @@ most_likely_cause: "failed humidity thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool microwave humidity thermistor"
+part_price: "$15-50"
 ---
 
 ## Whirlpool Microwave F04 Error Code — What It Means

@@ -14,6 +14,7 @@ most_likely_cause: "faulty door lock assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Door lock assembly (Maytag front-load washer)"
+part_price: "$50-120"
 ---
 
 ## Maytag Washer F5 E3 Error Code — What It Means

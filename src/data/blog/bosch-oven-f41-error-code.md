@@ -11,6 +11,7 @@ tags:
   - oven
   - bosch
 money_part: "Oven door latch assembly (motorized)"
+part_price: "$50-150"
 most_likely_cause: "jammed or defective latch motor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

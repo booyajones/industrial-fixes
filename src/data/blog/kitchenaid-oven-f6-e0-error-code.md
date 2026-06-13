@@ -10,6 +10,7 @@ tags:
   - appliance
   - kitchenaid
 money_part: "KitchenAid Appliance Control Board (main control board)"
+part_price: "$100-350"
 most_likely_cause: "power glitch or loose wiring harness between control boards"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

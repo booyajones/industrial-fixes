@@ -14,6 +14,7 @@ most_likely_cause: "Loose or damaged wiring harness or connector between control
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Motor control unit (motor control board)"
+part_price: "$80-250"
 ---
 
 ## Maytag Washer F71 Error Code — What It Means

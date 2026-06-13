@@ -13,6 +13,7 @@ most_likely_cause: "items directly under the lid or detergent buildup around the
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Lid lock assembly"
+part_price: "$50-120"
 ---
 
 ## Maytag LdL Error Code — What It Means

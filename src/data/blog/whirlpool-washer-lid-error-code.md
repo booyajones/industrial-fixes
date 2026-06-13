@@ -14,6 +14,7 @@ most_likely_cause: "Lid not closing fully because of clothing, detergent buildup
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Lid lock assembly"
+part_price: "$40-90"
 ---
 
 ## Whirlpool Washer Lid Error Code — What It Means

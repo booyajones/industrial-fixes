@@ -14,6 +14,7 @@ most_likely_cause: "temperature sensor circuit failure"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
 money_part: "Samsung oven temperature sensor / thermistor assembly"
+part_price: "$30-80"
 ---
 
 ## Samsung Oven C-22 Error Code — What It Means

@@ -14,6 +14,7 @@ most_likely_cause: "mechanically stuck or broken door latch assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Door lock assembly (latch motor and switch)"
+part_price: "$50-120"
 ---
 
 ## GE Range F9 Error Code — What It Means

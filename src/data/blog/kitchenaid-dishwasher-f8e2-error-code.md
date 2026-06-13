@@ -10,6 +10,7 @@ tags:
   - appliance
   - kitchenaid
 money_part: "KitchenAid dishwasher drain pump assembly"
+part_price: "$80-150"
 most_likely_cause: "failed drain pump"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

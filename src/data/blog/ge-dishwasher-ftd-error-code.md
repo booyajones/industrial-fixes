@@ -14,6 +14,7 @@ most_likely_cause: "Clogged filter or sump area with food debris"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE dishwasher drain pump assembly"
+part_price: "$15-80"
 ---
 
 ## GE Dishwasher FTD Error Code — What It Means

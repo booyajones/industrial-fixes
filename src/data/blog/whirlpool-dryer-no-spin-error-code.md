@@ -14,6 +14,7 @@ most_likely_cause: "Broken or slipped drive belt"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool dryer drive belt"
+part_price: "$15-50"
 ---
 
 ## Whirlpool Dryer No Spin — What It Means

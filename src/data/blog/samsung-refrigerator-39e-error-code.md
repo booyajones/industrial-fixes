@@ -13,6 +13,7 @@ most_likely_cause: "Ice maker assembly failure or mechanical sticking"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung refrigerator ice maker assembly"
+part_price: "$80-180"
 ---
 
 ## Samsung 39E Error Code — What It Means

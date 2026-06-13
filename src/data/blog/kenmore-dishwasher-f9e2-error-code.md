@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - kenmore
 money_part: "Main electronic control board (Kenmore dishwasher)"
+part_price: "$150-250"
 most_likely_cause: "failed diverter relay on the main control board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

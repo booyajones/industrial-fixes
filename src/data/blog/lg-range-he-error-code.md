@@ -14,6 +14,7 @@ most_likely_cause: "Failed oven thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG oven thermistor (temperature sensor)"
+part_price: "$20-50"
 ---
 
 ## LG Range HE Error Code — What It Means

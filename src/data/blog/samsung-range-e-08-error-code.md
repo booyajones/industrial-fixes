@@ -14,6 +14,7 @@ most_likely_cause: "Failed bake element or oven temperature sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung oven bake element"
+part_price: "$20-80"
 ---
 
 ## Samsung Range E-08 Error — What It Means

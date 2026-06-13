@@ -14,6 +14,7 @@ most_likely_cause: "failed oven temperature sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Oven temperature sensor (GE)"
+part_price: "$20-50"
 ---
 
 ## GE Oven F3 Error Code — What It Means

@@ -14,6 +14,7 @@ most_likely_cause: "shipping bolts left installed (front-load) or failed shift a
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Maytag washer shift actuator"
+part_price: "$40-150"
 ---
 
 ## Maytag Washer F7E1 Error Code — What It Means

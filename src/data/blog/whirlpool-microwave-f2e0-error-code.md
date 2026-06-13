@@ -14,6 +14,7 @@ most_likely_cause: "Stuck key or shorted membrane keypad"
 likelihood: "the most commonly reported cause"
 diy_or_pro: "diy"
 money_part: "User Interface / Keypad Assembly"
+part_price: "$50-120"
 ---
 
 ## Whirlpool Microwave F2E0 Error Code — What It Means

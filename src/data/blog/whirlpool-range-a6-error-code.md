@@ -14,6 +14,7 @@ most_likely_cause: "Failed cooling fan motor or assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool range cooling fan motor assembly"
+part_price: "$30-90"
 ---
 
 ## Whirlpool Range A6 Error Code — What It Means

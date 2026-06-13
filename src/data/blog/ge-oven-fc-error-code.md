@@ -14,6 +14,7 @@ most_likely_cause: "failed or stuck door latch or lock assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE oven door latch assembly"
+part_price: "$60-120"
 ---
 
 ## GE Oven FC Error Code — What It Means

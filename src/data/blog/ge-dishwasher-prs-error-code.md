@@ -14,6 +14,7 @@ most_likely_cause: "faulty pressure sensor or damaged wiring harness to the sens
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE dishwasher pressure sensor assembly"
+part_price: "$50-120"
 ---
 
 ## GE Dishwasher PrS Error Code — What It Means

@@ -14,6 +14,7 @@ most_likely_cause: "Closed or partially open supply valves, or clogged inlet scr
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Water inlet valve assembly (Whirlpool washer)"
+part_price: "$15-50"
 ---
 
 ## Whirlpool Washer F8E1 Error Code — What It Means

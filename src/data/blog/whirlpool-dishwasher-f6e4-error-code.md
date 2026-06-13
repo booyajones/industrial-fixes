@@ -14,6 +14,7 @@ most_likely_cause: "dishwasher not level or water in the base pan"
 likelihood: "the most common causes"
 diy_or_pro: "diy"
 money_part: "Overfill float switch assembly"
+part_price: "$15-75"
 ---
 
 ## Whirlpool Dishwasher F6E4 Error — What It Means

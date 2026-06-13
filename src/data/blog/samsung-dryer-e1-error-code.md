@@ -14,6 +14,7 @@ most_likely_cause: "shorted or failed thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung dryer thermistor / temperature sensor"
+part_price: "$20-50"
 ---
 
 ## Samsung Dryer E1 Error Code — What It Means

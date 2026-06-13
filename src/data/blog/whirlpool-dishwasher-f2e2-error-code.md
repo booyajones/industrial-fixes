@@ -14,6 +14,7 @@ most_likely_cause: "Failed user interface or touchpad console assembly"
 likelihood: "the most common cause when the code persists after reset and connector checks"
 diy_or_pro: "diy"
 money_part: "User interface console or touchpad assembly"
+part_price: "$80-180"
 ---
 
 ## Whirlpool Dishwasher F2E2 Error Code — What It Means

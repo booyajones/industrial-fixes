@@ -14,6 +14,7 @@ most_likely_cause: "Defective electronic oven control (EOC) board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Electronic oven control (EOC) board"
+part_price: "$150-300"
 ---
 
 ## Frigidaire Range F5 Error Code — What It Means

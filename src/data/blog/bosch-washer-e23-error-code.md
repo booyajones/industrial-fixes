@@ -11,6 +11,7 @@ tags:
   - washer
   - bosch
 money_part: "Bosch washer door seal (bellow gasket)"
+part_price: "$30-120"
 most_likely_cause: "Water leaked into the base pan from a door seal, hose connection, or drain pump"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

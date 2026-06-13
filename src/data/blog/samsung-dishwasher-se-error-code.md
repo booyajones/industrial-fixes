@@ -13,6 +13,7 @@ most_likely_cause: "clogged pump filter or debris trap"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung washer drain pump filter"
+part_price: "$10-40"
 ---
 
 ## Samsung SE Error Code — What It Means

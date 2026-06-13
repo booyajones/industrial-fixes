@@ -13,6 +13,7 @@ most_likely_cause: "loose or damaged wiring harness or ribbon cable between the 
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Electronic oven control board"
+part_price: "$50-180"
 ---
 
 ## Frigidaire F26 Error Code — What It Means

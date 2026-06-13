@@ -14,6 +14,7 @@ most_likely_cause: "Loose, damaged, or oxidized wiring or connectors between boa
 likelihood: "a common technician-level cause"
 diy_or_pro: "pro"
 money_part: "Samsung dryer main control board (PCB)"
+part_price: "$80-200"
 ---
 
 ## Samsung Dryer AE5 Error Code — What It Means

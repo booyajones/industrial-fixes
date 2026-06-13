@@ -14,6 +14,7 @@ most_likely_cause: "Failed temperature sensor inside the inlet water valve assem
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Pressure switch / water level sensor"
+part_price: "$60-120"
 ---
 
 ## Maytag Washer D3 Error Code — What It Means

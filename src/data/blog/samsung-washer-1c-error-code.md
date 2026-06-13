@@ -13,6 +13,7 @@ most_likely_cause: "kinked, pinched, or blocked pressure hose between tub and se
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Water-level pressure sensor"
+part_price: "$20-50"
 ---
 
 ## Samsung 1C Error Code — What It Means

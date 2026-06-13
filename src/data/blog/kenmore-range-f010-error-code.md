@@ -13,6 +13,7 @@ most_likely_cause: "failed oven temperature sensor (probe)"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Oven temperature sensor (probe)"
+part_price: "$20-80"
 ---
 
 ## Kenmore F10 Error Code — What It Means

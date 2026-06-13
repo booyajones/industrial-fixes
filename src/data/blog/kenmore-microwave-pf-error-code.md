@@ -11,6 +11,7 @@ tags:
   - microwave
   - kenmore
 money_part: "Kenmore microwave power cord"
+part_price: "$10-50"
 most_likely_cause: "utility power outage or tripped circuit breaker"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

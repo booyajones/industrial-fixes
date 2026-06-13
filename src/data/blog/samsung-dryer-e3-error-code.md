@@ -14,6 +14,7 @@ most_likely_cause: "Control or communication interruption between internal compo
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Main control board (PCB assembly)"
+part_price: "$100-250"
 ---
 
 ## Samsung Dryer E3 Error Code — What It Means

@@ -14,6 +14,7 @@ most_likely_cause: "closed or partially closed water supply faucets"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Water inlet valve assembly"
+part_price: "$15-50"
 ---
 
 ## Whirlpool Washer F20 Error Code — What It Means

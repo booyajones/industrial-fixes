@@ -14,6 +14,7 @@ most_likely_cause: "Loose, oxidized, or poorly seated ribbon cable between the c
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Console / User Interface Assembly"
+part_price: "$25-120"
 ---
 
 ## Whirlpool Microwave E63 Error Code — What It Means

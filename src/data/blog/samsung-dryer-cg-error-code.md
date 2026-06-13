@@ -14,6 +14,7 @@ most_likely_cause: "Lint filter not fully clean or airflow reduced at the lint s
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Flexible aluminum vent hose (4-inch)"
+part_price: "$10-40"
 ---
 
 ## Samsung Dryer CG Error Code — What It Means

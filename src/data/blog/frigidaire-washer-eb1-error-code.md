@@ -11,6 +11,7 @@ tags:
   - washer
   - frigidaire
 money_part: "Electronic control board (main control board)"
+part_price: "$150-250"
 most_likely_cause: "Utility or power-quality problem at the receptacle or supply feeder"
 likelihood: "the most common cause"
 diy_or_pro: "pro"

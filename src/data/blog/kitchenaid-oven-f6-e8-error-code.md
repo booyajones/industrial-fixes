@@ -10,6 +10,7 @@ tags:
   - appliance
   - kitchenaid
 money_part: "Microwave Appliance Manager Control"
+part_price: "$80-180"
 most_likely_cause: "Failed Microwave Appliance Manager Control"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

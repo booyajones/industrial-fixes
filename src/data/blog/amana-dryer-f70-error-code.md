@@ -11,6 +11,7 @@ tags:
   - dryer
   - amana
 money_part: "Amana dryer user interface console board"
+part_price: "$50-150"
 most_likely_cause: "loose or oxidized wiring harness connectors"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

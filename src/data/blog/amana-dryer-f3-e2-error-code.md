@@ -11,6 +11,7 @@ tags:
   - dryer
   - amana
 money_part: "Water Temperature Sensor (NTC Thermistor)"
+part_price: "$15-40"
 most_likely_cause: "Failed water temperature sensor (NTC thermistor)"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

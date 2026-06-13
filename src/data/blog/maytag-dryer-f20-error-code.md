@@ -14,6 +14,7 @@ most_likely_cause: "temporary control glitch"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Main control board (electronic control board)"
+part_price: "$80-200"
 ---
 
 ## Maytag Dryer F20 Error Code — What It Means

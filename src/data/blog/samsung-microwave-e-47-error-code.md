@@ -13,6 +13,7 @@ most_likely_cause: "faulty door switch or interlock mechanism"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Door interlock switch (microwave)"
+part_price: "$15-50"
 ---
 
 ## Samsung E-47 Error Code — What It Means

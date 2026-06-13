@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - kitchenaid
 money_part: "Door latch assembly"
+part_price: "$40-90"
 most_likely_cause: "defective door latch assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

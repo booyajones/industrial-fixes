@@ -14,6 +14,7 @@ most_likely_cause: "Damaged or loose wiring harness between the user interface a
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "User interface board (display board)"
+part_price: "$50-250"
 ---
 
 ## Frigidaire SY CF Error Code — What It Means

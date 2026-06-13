@@ -14,6 +14,7 @@ most_likely_cause: "laundry caught between the door and gasket, or the door not 
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung washer door interlock assembly"
+part_price: "$30-80"
 ---
 
 ## Samsung Washer dE Error Code — What It Means

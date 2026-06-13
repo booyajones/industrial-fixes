@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - kitchenaid
 money_part: "KitchenAid dishwasher drain pump"
+part_price: "$15-80"
 most_likely_cause: "Garbage disposer knockout plug not removed or blocked drain path"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

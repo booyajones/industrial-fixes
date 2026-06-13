@@ -11,6 +11,7 @@ tags:
   - dryer
   - frigidaire
 money_part: "Heating element assembly"
+part_price: "$20-80"
 most_likely_cause: "open or failed heating element"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

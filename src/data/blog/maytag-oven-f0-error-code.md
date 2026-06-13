@@ -14,6 +14,7 @@ most_likely_cause: "stuck or shorted touchpad key"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Touchpad / Keypad Assembly"
+part_price: "$50-150"
 ---
 
 ## Maytag Oven F0 Error Code — What It Means

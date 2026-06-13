@@ -14,6 +14,7 @@ most_likely_cause: "defective meat probe with internal short or damaged lead"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE range meat probe"
+part_price: "$15-40"
 ---
 
 ## GE Range FD Error Code — What It Means

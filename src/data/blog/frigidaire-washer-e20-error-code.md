@@ -14,6 +14,7 @@ most_likely_cause: "Clogged pump filter or coin trap"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Drain pump assembly"
+part_price: "$30-80"
 ---
 
 ## Frigidaire Washer E20 Error Code — What It Means

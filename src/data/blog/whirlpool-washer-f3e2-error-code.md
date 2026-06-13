@@ -14,6 +14,7 @@ most_likely_cause: "broken or loose wiring to the temperature sensor"
 likelihood: "the most common cause in the field"
 diy_or_pro: "diy"
 money_part: "Whirlpool washer temperature sensor / thermistor"
+part_price: "$15-50"
 ---
 
 ## Whirlpool Washer F3E2 Error Code — What It Means

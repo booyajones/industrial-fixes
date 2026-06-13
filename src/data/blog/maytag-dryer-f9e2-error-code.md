@@ -12,6 +12,7 @@ tags:
   - maytag
 diy_or_pro: "diy"
 money_part: "Main control board (electronic control board)"
+part_price: "$15-50"
 ---
 
 ## Maytag Dryer F9E2 Error Code — What It Means

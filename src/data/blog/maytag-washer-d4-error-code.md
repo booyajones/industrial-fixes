@@ -14,6 +14,7 @@ most_likely_cause: "failed or misread door lock assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Maytag washer lid switch assembly"
+part_price: "$80-150"
 ---
 
 ## Maytag Washer D4 Error Code — What It Means

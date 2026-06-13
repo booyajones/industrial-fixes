@@ -11,6 +11,7 @@ tags:
   - oven
   - kenmore
 money_part: "Door latch assembly"
+part_price: "$50-150"
 most_likely_cause: "seized or jammed door latch assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

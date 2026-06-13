@@ -14,6 +14,7 @@ most_likely_cause: "failed thermistor or temperature sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung dryer thermistor or temperature sensor"
+part_price: "$20-50"
 ---
 
 ## Samsung Dryer tE Error Code — What It Means

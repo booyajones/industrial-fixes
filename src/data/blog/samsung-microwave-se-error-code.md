@@ -14,6 +14,7 @@ most_likely_cause: "Dirty, loose, oxidized, or damaged ribbon cable connection b
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Touchpad membrane or control panel assembly"
+part_price: "$30-90"
 ---
 
 ## Samsung Microwave SE Error Code — What It Means

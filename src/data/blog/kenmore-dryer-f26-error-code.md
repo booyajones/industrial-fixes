@@ -11,6 +11,7 @@ tags:
   - dryer
   - kenmore
 money_part: "Kenmore dryer door switch assembly"
+part_price: "$10-30"
 most_likely_cause: "failed door switch"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

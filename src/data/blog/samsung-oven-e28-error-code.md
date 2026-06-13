@@ -14,6 +14,7 @@ most_likely_cause: "Failed oven temperature sensor (thermistor)"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Oven temperature sensor / thermistor"
+part_price: "$15-40"
 ---
 
 ## Samsung Oven E28 Error Code — What It Means

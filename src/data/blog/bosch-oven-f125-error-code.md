@@ -11,6 +11,7 @@ tags:
   - oven
   - bosch
 money_part: "Bosch oven membrane keypad / control panel assembly"
+part_price: "$80-200"
 most_likely_cause: "Stuck or shorted membrane keypad"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

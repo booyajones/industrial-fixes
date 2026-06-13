@@ -13,6 +13,7 @@ most_likely_cause: "Water supply valve closed or not fully open"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Dishwasher water inlet hose"
+part_price: "$15-40"
 ---
 
 ## Whirlpool H2O Error Code — What It Means

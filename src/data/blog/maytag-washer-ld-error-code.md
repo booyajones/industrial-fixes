@@ -14,6 +14,7 @@ most_likely_cause: "drain hose installed incorrectly or kinked"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Maytag washer drain pump"
+part_price: "$15-50"
 ---
 
 ## Maytag Washer LD Error Code — What It Means

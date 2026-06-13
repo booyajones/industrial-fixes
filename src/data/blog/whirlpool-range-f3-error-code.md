@@ -13,6 +13,7 @@ most_likely_cause: "failed oven temperature sensor probe"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Oven temperature sensor / RTD probe"
+part_price: "$15-40"
 ---
 
 ## Whirlpool F3 Error Code — What It Means

@@ -14,6 +14,7 @@ most_likely_cause: "Failed door lock motor or actuator assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG Oven Door Lock Motor / Actuator Assembly"
+part_price: "$60-120"
 ---
 
 ## LG Oven F10 Error Code — What It Means

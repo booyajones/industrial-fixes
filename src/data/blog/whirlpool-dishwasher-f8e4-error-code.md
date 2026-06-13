@@ -14,6 +14,7 @@ most_likely_cause: "Water leak at the inlet connection or 90° elbow fitting"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Dishwasher inlet elbow fitting (3/4 inch)"
+part_price: "$5-30"
 ---
 
 ## Whirlpool Dishwasher F8E4 Error Code — What It Means

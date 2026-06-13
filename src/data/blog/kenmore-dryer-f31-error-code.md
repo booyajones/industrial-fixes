@@ -11,6 +11,7 @@ tags:
   - dryer
   - kenmore
 money_part: "Dryer power cord (3-prong or 4-prong)"
+part_price: "$15-50"
 most_likely_cause: "one tripped breaker on the two-pole dryer circuit"
 likelihood: "the most common cause"
 diy_or_pro: "pro"

@@ -10,6 +10,7 @@ tags:
   - appliance
   - amana
 money_part: "Drain pump assembly"
+part_price: "$15-50"
 most_likely_cause: "kinked or clogged drain hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

@@ -11,6 +11,7 @@ tags:
   - oven
   - kenmore
 money_part: "Kenmore oven temperature sensor"
+part_price: "$20-60"
 most_likely_cause: "failed oven temperature sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

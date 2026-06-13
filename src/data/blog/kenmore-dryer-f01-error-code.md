@@ -11,6 +11,7 @@ tags:
   - dryer
   - kenmore
 money_part: "Kenmore dryer electronic control board"
+part_price: "$100-200"
 most_likely_cause: "failed electronic machine control board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

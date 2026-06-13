@@ -10,6 +10,7 @@ tags:
   - appliance
   - maytag
 money_part: "User Interface (UI) control board"
+part_price: "$80-180"
 most_likely_cause: "Corrupted UI board memory or faulty User Interface board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

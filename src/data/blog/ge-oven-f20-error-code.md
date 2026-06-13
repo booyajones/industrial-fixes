@@ -14,6 +14,7 @@ most_likely_cause: "Faulty oven temperature sensor (RTD sensor)"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Oven Temperature Sensor (RTD Sensor)"
+part_price: "$25-80"
 ---
 
 ## GE Oven F20 Error Code — What It Means

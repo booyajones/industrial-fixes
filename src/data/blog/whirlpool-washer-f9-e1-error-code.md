@@ -14,6 +14,7 @@ most_likely_cause: "Clogged drain pump filter"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Drain pump filter"
+part_price: "$15-80"
 ---
 
 ## Whirlpool Washer F9 E1 Error Code — What It Means

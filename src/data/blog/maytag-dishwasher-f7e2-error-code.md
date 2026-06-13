@@ -14,6 +14,7 @@ most_likely_cause: "failed wash motor or circulation pump assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Maytag dishwasher circulation pump assembly"
+part_price: "$120-250"
 ---
 
 ## Maytag Dishwasher F7E2 Error Code — What It Means

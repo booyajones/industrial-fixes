@@ -13,6 +13,7 @@ most_likely_cause: "loose, oxidized, or damaged connectors between the control b
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Main control board (Frigidaire motherboard)"
+part_price: "$80-250"
 ---
 
 ## Frigidaire SY CE Error Code — What It Means

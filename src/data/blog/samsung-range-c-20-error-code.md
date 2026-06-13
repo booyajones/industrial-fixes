@@ -14,6 +14,7 @@ most_likely_cause: "failed oven temperature sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Oven temperature sensor (temperature probe)"
+part_price: "$20-60"
 ---
 
 ## Samsung Range C-20 Error Code — What It Means

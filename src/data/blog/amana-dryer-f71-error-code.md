@@ -11,6 +11,7 @@ tags:
   - dryer
   - amana
 money_part: "Main control board (electronic control)"
+part_price: "$80-200"
 most_likely_cause: "loose or damaged wire connection between control boards"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

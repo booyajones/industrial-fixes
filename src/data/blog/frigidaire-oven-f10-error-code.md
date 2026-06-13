@@ -14,6 +14,7 @@ most_likely_cause: "Stuck relay or failed electronic control board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Frigidaire oven temperature sensor (RTD)"
+part_price: "$50-150"
 ---
 
 ## Frigidaire Oven F10 Error Code — What It Means

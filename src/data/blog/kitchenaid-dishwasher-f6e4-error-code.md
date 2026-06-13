@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - kitchenaid
 money_part: "KitchenAid dishwasher overfill float switch"
+part_price: "$15-50"
 most_likely_cause: "Dishwasher not level or debris blocking the float"
 likelihood: "the most common real-world trigger"
 diy_or_pro: "diy"

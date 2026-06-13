@@ -13,6 +13,7 @@ most_likely_cause: "Ice or frost buildup jamming the fan blades"
 likelihood: "the most common reported cause"
 diy_or_pro: "diy"
 money_part: "Ice compartment fan motor assembly"
+part_price: "$30-80"
 ---
 
 ## Kenmore Er 1F Error Code — What It Means

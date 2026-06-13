@@ -14,6 +14,7 @@ most_likely_cause: "temporary control glitch or faulty user interface panel"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "User interface control panel assembly"
+part_price: "$80-200"
 ---
 
 ## Frigidaire Range F12 Error Code — What It Means

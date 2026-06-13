@@ -14,6 +14,7 @@ most_likely_cause: "failed heating element or loose relay connector"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG oven bake element"
+part_price: "$50-150"
 ---
 
 ## LG Oven F9 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - washer
   - electrolux
 money_part: "Water inlet valve"
+part_price: "$15-50"
 most_likely_cause: "closed or partially closed water supply valve"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

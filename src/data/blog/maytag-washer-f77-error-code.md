@@ -13,6 +13,7 @@ most_likely_cause: "Overloaded load or shipping bolts still installed"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Drive motor assembly"
+part_price: "$30-150"
 ---
 
 ## Maytag F7 E1 Error Code — What It Means

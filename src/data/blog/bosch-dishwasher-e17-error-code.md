@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - bosch
 money_part: "Bosch dishwasher water inlet valve"
+part_price: "$30-80"
 most_likely_cause: "Water supply shutoff valve closed or partially closed"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

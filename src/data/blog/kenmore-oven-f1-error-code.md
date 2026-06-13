@@ -11,6 +11,7 @@ tags:
   - oven
   - kenmore
 money_part: "Oven control board / electronic range control (ERC/EOC)"
+part_price: "$100-250"
 most_likely_cause: "Failed oven control board electronics"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

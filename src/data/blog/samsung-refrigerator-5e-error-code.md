@@ -14,6 +14,7 @@ most_likely_cause: "failed or open defrost thermistor (sensor)"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung refrigerator defrost thermistor (sensor)"
+part_price: "$15-40"
 ---
 
 ## Samsung 5E/SE Refrigerator Error — What It Means

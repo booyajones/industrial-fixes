@@ -10,6 +10,7 @@ tags:
   - appliance
   - bosch
 money_part: "Bosch washer door lock / interlock assembly"
+part_price: "$50-120"
 most_likely_cause: "debris or clothing obstructing the latch area"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

@@ -14,6 +14,7 @@ most_likely_cause: "moisture, grease, or dirt contamination on the keypad membra
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Touchpad / membrane keypad assembly"
+part_price: "$30-80"
 ---
 
 ## Samsung Microwave 5E Error — What It Means

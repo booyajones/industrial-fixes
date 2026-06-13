@@ -14,6 +14,7 @@ most_likely_cause: "defective upper oven thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG upper oven thermistor / temperature sensor"
+part_price: "$20-60"
 ---
 
 ## LG Oven F2 Error Code — What It Means

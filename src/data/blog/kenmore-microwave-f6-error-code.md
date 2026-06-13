@@ -11,6 +11,7 @@ tags:
   - microwave
   - kenmore
 money_part: "Relay control board / main control board"
+part_price: "$80-180"
 most_likely_cause: "failed relay control board"
 likelihood: "the most common cause on Whirlpool/KitchenAid platforms"
 diy_or_pro: "diy"

@@ -14,6 +14,7 @@ most_likely_cause: "failed thermistor or temperature sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung washer thermistor / temperature sensor"
+part_price: "$15-50"
 ---
 
 ## Samsung Washer tE Error Code — What It Means

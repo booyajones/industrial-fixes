@@ -14,6 +14,7 @@ most_likely_cause: "Lint filter not fully seated or debris in the filter housing
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG dryer lint filter assembly"
+part_price: "$10-30"
 ---
 
 ## LG Dryer F0 Error Code — What It Means

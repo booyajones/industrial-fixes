@@ -11,6 +11,7 @@ tags:
   - dryer
   - electrolux
 money_part: "Electrolux dryer user interface control panel"
+part_price: "$80-180"
 most_likely_cause: "physically stuck or binding button on the keypad"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

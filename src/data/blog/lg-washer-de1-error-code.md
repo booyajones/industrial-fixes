@@ -14,6 +14,7 @@ most_likely_cause: "laundry caught between the door and rubber gasket"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Door lock assembly / door switch assembly"
+part_price: "$30-80"
 ---
 
 ## LG Washer dE1 Error Code — What It Means

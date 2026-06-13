@@ -14,6 +14,7 @@ most_likely_cause: "restricted airflow from a clogged lint filter, blocked vent,
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung dryer thermistor (temperature sensor)"
+part_price: "$10-50"
 ---
 
 ## Samsung Dryer hE Error Code — What It Means

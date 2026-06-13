@@ -14,6 +14,7 @@ most_likely_cause: "defective meat probe"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE oven meat probe"
+part_price: "$15-50"
 ---
 
 ## GE Oven FD Error Code — What It Means

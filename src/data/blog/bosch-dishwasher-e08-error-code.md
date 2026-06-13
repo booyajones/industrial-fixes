@@ -14,6 +14,7 @@ most_likely_cause: "restricted water supply or kinked inlet hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Dishwasher inlet hose"
+part_price: "$15-50"
 ---
 
 ## Bosch Dishwasher E08 Error Code — What It Means

@@ -14,6 +14,7 @@ most_likely_cause: "Faulty door latch or door lock switch"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Door latch assembly"
+part_price: "$15-50"
 ---
 
 ## Samsung Microwave C-d1 Error Code — What It Means

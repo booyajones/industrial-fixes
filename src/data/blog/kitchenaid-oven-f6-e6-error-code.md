@@ -11,6 +11,7 @@ tags:
   - oven
   - kitchenaid
 money_part: "Upper Oven Appliance Manager Control Board"
+part_price: "$150-300"
 most_likely_cause: "Power interruption or control glitch"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

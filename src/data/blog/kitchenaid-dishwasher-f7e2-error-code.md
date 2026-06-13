@@ -10,6 +10,7 @@ tags:
   - appliance
   - kitchenaid
 money_part: "Circulation pump motor (wash motor)"
+part_price: "$100-200"
 most_likely_cause: "failed wash motor or circulation pump motor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

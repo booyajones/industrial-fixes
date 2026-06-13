@@ -13,6 +13,7 @@ most_likely_cause: "blocked or restricted drain pump"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Drain pump assembly"
+part_price: "$30-80"
 ---
 
 ## Maytag F32 Error Code — What It Means

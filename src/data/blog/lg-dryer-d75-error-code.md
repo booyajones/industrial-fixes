@@ -14,6 +14,7 @@ most_likely_cause: "lint buildup in the exhaust duct or vent run"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "4-inch rigid or semi-rigid aluminum dryer duct"
+part_price: "$10-40"
 ---
 
 ## LG Dryer D75 Error Code — What It Means

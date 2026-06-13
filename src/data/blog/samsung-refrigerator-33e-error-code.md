@@ -13,6 +13,7 @@ most_likely_cause: "Failed ice pipe heater element"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung ice pipe heater / fill tube heater assembly"
+part_price: "$15-50"
 ---
 
 ## Samsung 33E Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - dryer
   - kenmore
 money_part: "User interface control assembly (console board)"
+part_price: "$50-200"
 most_likely_cause: "loose or damaged wire harness between control boards"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

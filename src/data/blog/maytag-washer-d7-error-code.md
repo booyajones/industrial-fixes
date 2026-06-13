@@ -13,6 +13,7 @@ most_likely_cause: "Water supply valves partially closed or clogged inlet screen
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Water inlet valve assembly"
+part_price: "$30-80"
 ---
 
 ## Maytag d7 Error Code — What It Means

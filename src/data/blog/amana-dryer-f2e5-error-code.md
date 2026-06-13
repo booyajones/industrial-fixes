@@ -11,6 +11,7 @@ tags:
   - dryer
   - amana
 money_part: "Amana washer user interface control panel assembly"
+part_price: "$80-200"
 most_likely_cause: "temporary control glitch or loose user interface wiring connector"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

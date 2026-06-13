@@ -14,6 +14,7 @@ most_likely_cause: "User interface or main control board fault"
 likelihood: "the most common cause when an unverified code appears"
 diy_or_pro: "diy"
 money_part: "Amana refrigerator user interface control board"
+part_price: "$80-200"
 ---
 
 ## Amana Refrigerator D9 Error Code — What It Means

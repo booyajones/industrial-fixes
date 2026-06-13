@@ -14,6 +14,7 @@ most_likely_cause: "communication glitch between the user interface and applianc
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool user interface / console control board"
+part_price: "$80-250"
 ---
 
 ## Whirlpool F6E2 Error Code — What It Means

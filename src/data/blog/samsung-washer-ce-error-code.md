@@ -14,6 +14,7 @@ most_likely_cause: "hot and cold supply hoses reversed or crossed at the washer 
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Water temperature sensor (thermistor)"
+part_price: "$15-50"
 ---
 
 ## Samsung Washer CE Error Code — What It Means

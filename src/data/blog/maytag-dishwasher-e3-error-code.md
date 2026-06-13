@@ -14,6 +14,7 @@ most_likely_cause: "temporary control glitch requiring a power reset"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Maytag dishwasher main control board (appliance control unit)"
+part_price: "$80-250"
 ---
 
 ## Maytag Dishwasher E3 Error — What It Means

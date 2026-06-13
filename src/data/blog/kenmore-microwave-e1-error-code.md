@@ -11,6 +11,7 @@ tags:
   - microwave
   - kenmore
 money_part: "Microwave thermistor sensor"
+part_price: "$15-50"
 most_likely_cause: "failed or out-of-range thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "pro"

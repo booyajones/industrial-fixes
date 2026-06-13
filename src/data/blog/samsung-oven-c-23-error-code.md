@@ -14,6 +14,7 @@ most_likely_cause: "shorted oven temperature probe sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung oven temperature probe / temperature sensor"
+part_price: "$15-50"
 ---
 
 ## Samsung Oven C-23 Error Code — What It Means

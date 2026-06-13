@@ -13,6 +13,7 @@ most_likely_cause: "Door not fully latched or clothing blocking closure"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Lid lock assembly or door lock assembly"
+part_price: "$50-120"
 ---
 
 ## Maytag F5 E2 Error Code — What It Means

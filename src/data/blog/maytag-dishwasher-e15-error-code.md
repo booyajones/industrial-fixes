@@ -14,6 +14,7 @@ most_likely_cause: "water leak from hose connections, pump seals, or door gasket
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Door gasket or tub seal"
+part_price: "$15-80"
 ---
 
 ## Maytag Dishwasher E15 Error Code — What It Means

@@ -14,6 +14,7 @@ most_likely_cause: "failed outlet thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool dryer outlet thermistor"
+part_price: "$25-50"
 ---
 
 ## Whirlpool Dryer F23 Error Code — What It Means

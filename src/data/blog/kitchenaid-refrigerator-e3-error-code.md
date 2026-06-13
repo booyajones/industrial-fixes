@@ -14,6 +14,7 @@ most_likely_cause: "Failed ice maker thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "KitchenAid ice maker thermistor"
+part_price: "$30-80"
 ---
 
 ## KitchenAid Refrigerator E3 Error Code — What It Means

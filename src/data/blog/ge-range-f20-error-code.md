@@ -14,6 +14,7 @@ most_likely_cause: "Failed oven temperature sensor or sensor circuit"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE oven temperature sensor"
+part_price: "$30-80"
 ---
 
 ## GE Range F20 Error Code — What It Means

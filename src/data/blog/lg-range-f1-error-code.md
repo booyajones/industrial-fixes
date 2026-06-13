@@ -14,6 +14,7 @@ most_likely_cause: "failed oven temperature sensor (thermistor)"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG oven temperature sensor (thermistor)"
+part_price: "$20-60"
 ---
 
 ## LG Range F1 Error Code — What It Means

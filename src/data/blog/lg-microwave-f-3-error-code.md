@@ -14,6 +14,7 @@ most_likely_cause: "Foreign material or moisture on the touch button panel"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG microwave touch button panel"
+part_price: "$50-150"
 ---
 
 ## LG Microwave F-3 Error — What It Means

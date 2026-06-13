@@ -13,6 +13,7 @@ most_likely_cause: "Faulty door lock or interlock assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Door lock assembly (door interlock)"
+part_price: "$30-80"
 ---
 
 ## Samsung dE Error Code — What It Means

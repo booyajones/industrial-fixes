@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - amana
 money_part: "Drain pump for Amana dishwasher"
+part_price: "$15-60"
 most_likely_cause: "Clogged or kinked drain hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

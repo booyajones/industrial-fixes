@@ -14,6 +14,7 @@ most_likely_cause: "stuck function key or defective touchpad"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Maytag range touchpad or membrane keypad assembly"
+part_price: "$50-150"
 ---
 
 ## Maytag Range F0 Error Code — What It Means

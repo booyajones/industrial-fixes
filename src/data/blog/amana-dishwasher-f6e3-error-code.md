@@ -10,6 +10,7 @@ tags:
   - appliance
   - amana
 money_part: "Amana washer main control board"
+part_price: "$100-250"
 most_likely_cause: "failed appliance control unit"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

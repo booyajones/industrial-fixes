@@ -10,6 +10,7 @@ tags:
   - appliance
   - electrolux
 money_part: "Main control board (electronic control board, PCB)"
+part_price: "$100-250"
 most_likely_cause: "Failed main control board (defective motor relay or triac)"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

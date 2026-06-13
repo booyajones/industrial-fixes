@@ -14,6 +14,7 @@ most_likely_cause: "tripped or partially tripped circuit breaker"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Dryer power cord"
+part_price: "$15-80"
 ---
 
 ## Maytag Dryer PF Error Code — What It Means

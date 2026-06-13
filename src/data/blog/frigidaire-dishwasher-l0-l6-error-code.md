@@ -14,6 +14,7 @@ most_likely_cause: "empty or low rinse aid reservoir"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Rinse-aid dispenser assembly"
+part_price: "$15-40"
 ---
 
 ## Frigidaire Dishwasher LO Error Code — What It Means

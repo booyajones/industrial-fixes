@@ -10,6 +10,7 @@ tags:
   - appliance
   - kenmore
 money_part: "Water inlet valve assembly"
+part_price: "$15-80"
 most_likely_cause: "Closed or partially closed supply valves, kinked hoses, or clogged inlet screens"
 likelihood: "the most common causes"
 diy_or_pro: "diy"

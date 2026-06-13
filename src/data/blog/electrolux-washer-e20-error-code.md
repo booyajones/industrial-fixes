@@ -11,6 +11,7 @@ tags:
   - washer
   - electrolux
 money_part: "Electrolux washer drain pump"
+part_price: "$15-80"
 most_likely_cause: "Blocked or dirty pump filter and debris in the pump blade area"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

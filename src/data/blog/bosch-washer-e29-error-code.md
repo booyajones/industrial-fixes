@@ -11,6 +11,7 @@ tags:
   - washer
   - bosch
 money_part: "Inlet water hose"
+part_price: "$15-50"
 most_likely_cause: "clogged inlet filter screen"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

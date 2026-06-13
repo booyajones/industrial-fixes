@@ -14,6 +14,7 @@ most_likely_cause: "intermittent or failed motor control circuit on the electron
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Maytag dryer main control board"
+part_price: "$100-250"
 ---
 
 ## Maytag Dryer F26 Error Code — What It Means

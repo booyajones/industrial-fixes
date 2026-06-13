@@ -14,6 +14,7 @@ most_likely_cause: "loose, disconnected, or damaged wiring or connector between 
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool dryer user interface console"
+part_price: "$50-150"
 ---
 
 ## Whirlpool Dryer F6E3 Error Code — What It Means

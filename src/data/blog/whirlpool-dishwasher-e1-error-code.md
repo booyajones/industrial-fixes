@@ -14,6 +14,7 @@ most_likely_cause: "failed or stuck relay on the main control board"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool dishwasher main control board (electronic control)"
+part_price: "$150-300"
 ---
 
 ## Whirlpool F1E1 Error Code — What It Means

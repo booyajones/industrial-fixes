@@ -14,6 +14,7 @@ most_likely_cause: "Stuck float assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Float switch assembly"
+part_price: "$15-50"
 ---
 
 ## GE Dishwasher C4 Error Code — What It Means

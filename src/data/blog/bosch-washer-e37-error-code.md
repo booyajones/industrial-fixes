@@ -11,6 +11,7 @@ tags:
   - washer
   - bosch
 money_part: "Water inlet valve assembly"
+part_price: "$25-85"
 most_likely_cause: "pressure switch or pressure sensor fault"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

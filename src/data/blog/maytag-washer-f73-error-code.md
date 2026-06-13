@@ -13,6 +13,7 @@ most_likely_cause: "loose or damaged wiring connections between the main control
 likelihood: "the most common real-world cause"
 diy_or_pro: "diy"
 money_part: "Maytag washer user interface control board"
+part_price: "$100-200"
 ---
 
 ## Maytag F73 Error Code — What It Means

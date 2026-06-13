@@ -10,6 +10,7 @@ tags:
   - appliance
   - electrolux
 money_part: "Main control board (PCB) for Electrolux washer"
+part_price: "$120-280"
 most_likely_cause: "faulty main control board or PCB"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

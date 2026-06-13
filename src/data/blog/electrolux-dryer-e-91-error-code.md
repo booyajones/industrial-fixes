@@ -11,6 +11,7 @@ tags:
   - dryer
   - electrolux
 money_part: "Electrolux Dryer User Interface Board"
+part_price: "$80-180"
 most_likely_cause: "Loose or corroded ribbon cable connection between the boards"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

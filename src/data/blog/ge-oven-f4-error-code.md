@@ -14,6 +14,7 @@ most_likely_cause: "Failed oven temperature sensor probe"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE oven temperature sensor probe"
+part_price: "$20-50"
 ---
 
 ## GE Oven F4 Error Code — What It Means

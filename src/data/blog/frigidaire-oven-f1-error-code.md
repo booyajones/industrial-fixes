@@ -14,6 +14,7 @@ most_likely_cause: "Shorted or stuck keypad button"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Frigidaire oven keypad touch panel"
+part_price: "$50-200"
 ---
 
 ## Frigidaire Oven F1 Error Code — What It Means

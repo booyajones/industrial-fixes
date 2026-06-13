@@ -11,6 +11,7 @@ tags:
   - washer
   - kenmore
 money_part: "Drain pump assembly"
+part_price: "$15-80"
 most_likely_cause: "kinked or clogged drain hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

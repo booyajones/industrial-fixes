@@ -14,6 +14,7 @@ most_likely_cause: "failed exhaust thermistor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Maytag dryer exhaust thermistor"
+part_price: "$15-40"
 ---
 
 ## Maytag Dryer F22 Error Code — What It Means

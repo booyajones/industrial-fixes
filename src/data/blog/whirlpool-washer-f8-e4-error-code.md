@@ -14,6 +14,7 @@ most_likely_cause: "Loose or improperly sealed water inlet connection at the 90�
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Water inlet valve elbow fitting (3/4 in. 90°)"
+part_price: "$5-15"
 ---
 
 ## Whirlpool F8 E4 Error Code — What It Means

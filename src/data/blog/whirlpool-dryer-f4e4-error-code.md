@@ -14,6 +14,7 @@ most_likely_cause: "One tripped breaker pole or open leg on the 240 V dryer circ
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool dryer power cord (3-wire or 4-wire)"
+part_price: "$10-40"
 ---
 
 ## Whirlpool Dryer F4E4 Error Code — What It Means

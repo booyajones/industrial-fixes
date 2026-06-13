@@ -11,6 +11,7 @@ tags:
   - washer
   - electrolux
 money_part: "Electrolux washer heating element"
+part_price: "$30-80"
 most_likely_cause: "defective heating element"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

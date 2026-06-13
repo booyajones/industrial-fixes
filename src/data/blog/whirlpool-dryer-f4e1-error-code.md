@@ -14,6 +14,7 @@ most_likely_cause: "defective heating element or stuck heater relay on the main 
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Heating element assembly"
+part_price: "$50-150"
 ---
 
 ## Whirlpool Dryer F4E1 Error — What It Means

@@ -11,6 +11,7 @@ tags:
   - microwave
   - kenmore
 money_part: "Membrane keypad / touchpad assembly"
+part_price: "$30-80"
 most_likely_cause: "stuck key or moisture on the touchpad"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

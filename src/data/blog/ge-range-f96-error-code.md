@@ -14,6 +14,7 @@ most_likely_cause: "failed cooling fan or blower motor assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE upper oven cooling fan / blower motor assembly"
+part_price: "$80-180"
 ---
 
 ## GE Range F96 Error Code — What It Means

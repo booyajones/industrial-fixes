@@ -14,6 +14,7 @@ most_likely_cause: "Failed main control board or relay failure on the board"
 likelihood: "the most common cause reported by technicians and repair sources"
 diy_or_pro: "diy"
 money_part: "Whirlpool Dryer Main Control Board (Electronic Control Board)"
+part_price: "$80-200"
 ---
 
 ## Whirlpool Dryer F-01 Error Code — What It Means

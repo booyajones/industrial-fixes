@@ -11,6 +11,7 @@ tags:
   - dryer
   - electrolux
 money_part: "Moisture sensor assembly (humidity sensor)"
+part_price: "$15-80"
 diy_or_pro: "diy"
 ---
 

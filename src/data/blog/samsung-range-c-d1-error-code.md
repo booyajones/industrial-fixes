@@ -14,6 +14,7 @@ most_likely_cause: "failed or obstructed door lock actuator or motor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung oven door lock assembly"
+part_price: "$50-120"
 ---
 
 ## Samsung Range C-D1 Error — What It Means

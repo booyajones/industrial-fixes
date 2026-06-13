@@ -11,6 +11,7 @@ tags:
   - washer
   - amana
 money_part: "Lid lock assembly"
+part_price: "$30-80"
 most_likely_cause: "Obstruction at the lid or lock area"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

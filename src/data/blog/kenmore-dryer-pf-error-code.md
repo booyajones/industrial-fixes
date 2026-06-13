@@ -11,6 +11,7 @@ tags:
   - dryer
   - kenmore
 money_part: "Dryer power cord (3-prong or 4-prong)"
+part_price: "$10-50"
 most_likely_cause: "recent house power interruption, breaker trip, or loose plug connection"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

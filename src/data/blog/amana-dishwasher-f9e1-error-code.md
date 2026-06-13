@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - amana
 money_part: "Drain pump assembly"
+part_price: "$15-80"
 most_likely_cause: "blocked drain path or garbage disposer knockout plug left in place"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

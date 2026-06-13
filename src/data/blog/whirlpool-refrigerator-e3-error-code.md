@@ -12,6 +12,7 @@ tags:
   - whirlpool
 diy_or_pro: "diy"
 money_part: "Main control board"
+part_price: "$50-200"
 ---
 
 ## Whirlpool Refrigerator E3 Error Code — What It Means

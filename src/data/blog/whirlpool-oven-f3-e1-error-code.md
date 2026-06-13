@@ -14,6 +14,7 @@ most_likely_cause: "Failed oven temperature sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool oven temperature sensor"
+part_price: "$20-50"
 ---
 
 ## Whirlpool Oven F3 E1 Error Code — What It Means

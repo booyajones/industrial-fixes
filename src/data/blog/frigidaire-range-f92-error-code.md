@@ -14,6 +14,7 @@ most_likely_cause: "transient control glitch or latched lock state"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Frigidaire oven door lock assembly / motor"
+part_price: "$50-150"
 ---
 
 ## Frigidaire Range F92 Error Code — What It Means

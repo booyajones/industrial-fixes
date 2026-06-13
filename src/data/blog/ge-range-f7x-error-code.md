@@ -14,6 +14,7 @@ most_likely_cause: "stuck or shorted membrane keys on the keypad"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE range keypad assembly (membrane or glass touch panel)"
+part_price: "$50-150"
 ---
 
 ## GE Range F7 Error Code — What It Means

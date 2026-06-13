@@ -14,6 +14,7 @@ most_likely_cause: "Door latch or strike loose, misaligned, or damaged"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung dryer door switch"
+part_price: "$15-50"
 ---
 
 ## Samsung Dryer dO Error Code — What It Means

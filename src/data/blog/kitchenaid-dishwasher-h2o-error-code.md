@@ -10,6 +10,7 @@ tags:
   - appliance
   - kitchenaid
 money_part: "Water inlet valve assembly"
+part_price: "$30-80"
 most_likely_cause: "Water supply valve partially or fully closed, or kinked inlet hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

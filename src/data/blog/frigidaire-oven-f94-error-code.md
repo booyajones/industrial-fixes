@@ -13,6 +13,7 @@ most_likely_cause: "failed door lock assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Door lock motor assembly"
+part_price: "$80-150"
 ---
 
 ## Frigidaire F94 Error Code — What It Means

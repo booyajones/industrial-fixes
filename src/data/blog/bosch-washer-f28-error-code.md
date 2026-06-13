@@ -11,6 +11,7 @@ tags:
   - washer
   - bosch
 money_part: "Bosch washer flow sensor"
+part_price: "$30-80"
 most_likely_cause: "defective flow sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
