@@ -17,6 +17,7 @@ import EmailCapture from "../components/EmailCapture.astro";
 import AffiliateDisclosure from "@/components/AffiliateDisclosure.astro";
 import PartsSpecialist from "@/components/PartsSpecialist.astro";
 import StickyPartsBar from "@/components/StickyPartsBar.astro";
+import PartCallout from "@/components/PartCallout.astro";
 import { getPath } from "@/utils/getPath";
 import { authors } from "../data/authors";
 import { equipmentCategories } from "@/data/equipmentCategories";
@@ -314,6 +315,10 @@ const nextPost =
           </span>
         )}
       </div>
+    )}
+
+    {money_part && (
+      <PartCallout part={money_part} query={partsQuery} brand={tags?.[0] ?? ""} pro={diy_or_pro === "pro"} />
     )}
 
     <!-- Internal link to the brand hub for topical authority + more sessions

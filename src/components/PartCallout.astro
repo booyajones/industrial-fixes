@@ -1,0 +1,119 @@
+---
+// Above-the-fold price-anchored part callout (design swarm DO-FIRST #4 + the
+// Diagnostic Readout). Surfaces the page's #1 buyable part with ONE dominant CTA
+// at the moment buying intent peaks, before the 1,500-word scroll. Renders on
+// every page that carries a money_part. Skimlinks monetizes the RepairClinic
+// link (no noskim); Amazon stays Associates (noskim). Both carry affiliate-*
+// attributes so the global affiliate_click listener counts them.
+interface Props {
+  part: string;
+  query: string;
+  brand?: string;
+  pro?: boolean;
+}
+const { part, query, brand = "", pro = false } = Astro.props;
+const rc = `https://www.repairclinic.com/Shop-For-Parts?query=${encodeURIComponent(query)}`;
+const az = `https://www.amazon.com/s?k=${encodeURIComponent(part)}&tag=errorcodefixes-20`;
+---
+
+<aside class="part-callout" data-pagefind-ignore aria-label="The part you likely need">
+  <div class="pc-head">
+    <span class="pc-label">{pro ? "The part for this fix" : "The likely fix — the part you need"}</span>
+  </div>
+  <div class="pc-part">{part}</div>
+  <div class="pc-actions">
+    <a
+      class="pc-primary"
+      href={rc}
+      target="_blank"
+      rel="sponsored noopener"
+      data-affiliate-network="skimlinks"
+      data-affiliate-kind="part-callout"
+      data-affiliate-placement="above_fold"
+      data-affiliate-brand={brand}
+    >
+      Find the exact part
+      <span aria-hidden="true">&rarr;</span>
+    </a>
+    <a
+      class="pc-secondary noskim"
+      href={az}
+      target="_blank"
+      rel="sponsored noopener"
+      data-affiliate-kind="part-callout"
+      data-affiliate-placement="above_fold"
+      data-affiliate-brand={brand}
+    >
+      Check on Amazon
+    </a>
+  </div>
+  <p class="pc-note">
+    OEM part. Match it to your model and serial number before you buy. {pro && "Have a licensed tech install it."}
+  </p>
+</aside>
+
+<style>
+  .part-callout {
+    margin: 0 0 1.5rem;
+    padding: 1rem 1.1rem 1.1rem;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-left: 4px solid var(--accent);
+    border-radius: 12px;
+    box-shadow: 0 1px 3px rgba(16, 24, 42, 0.06);
+  }
+  .pc-label {
+    font-size: 0.66rem;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: color-mix(in srgb, var(--foreground) 58%, transparent);
+  }
+  .pc-part {
+    margin: 0.3rem 0 0.85rem;
+    font-size: 1.15rem;
+    font-weight: 700;
+    line-height: 1.25;
+    color: var(--brand);
+  }
+  .pc-actions {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.6rem;
+  }
+  .pc-primary {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    background: var(--accent);
+    color: #fff;
+    font-weight: 700;
+    font-size: 0.95rem;
+    padding: 0.7rem 1.2rem;
+    border-radius: 9px;
+    text-decoration: none;
+    min-height: 44px;
+    line-height: 1;
+  }
+  .pc-primary:hover { background: #B83D14; }
+  .pc-secondary {
+    font-size: 0.88rem;
+    font-weight: 600;
+    color: var(--brand);
+    text-decoration: none;
+    border-bottom: 1px solid color-mix(in srgb, var(--brand) 35%, transparent);
+    padding: 0.3rem 0;
+  }
+  .pc-secondary:hover { border-bottom-color: var(--brand); }
+  .pc-note {
+    margin: 0.7rem 0 0;
+    font-size: 0.74rem;
+    color: color-mix(in srgb, var(--foreground) 60%, transparent);
+  }
+  .pc-primary:focus-visible,
+  .pc-secondary:focus-visible {
+    outline: 3px solid var(--accent);
+    outline-offset: 2px;
+  }
+</style>
