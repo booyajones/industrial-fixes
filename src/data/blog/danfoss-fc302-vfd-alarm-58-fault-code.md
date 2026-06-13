@@ -47,3 +47,10 @@ Unlike many other alarms, Danfoss does not provide detailed field troubleshootin
 ## When to Call a Pro
 
 Call a Danfoss authorized service technician or your drive supplier immediately for Alarm 58. This is an internal drive fault that Danfoss does not publish detailed field repair procedures for, and the manufacturer explicitly directs users to contact support rather than attempt troubleshooting on their own. A qualified VFD technician with Danfoss training can run diagnostic routines, check internal hardware, and access service bulletins not available to general users. Attempting to swap control cards or power modules without proper guidance risks further damage and may void warranty coverage.
+
+## See Also
+
+- [Danfoss FC302 ALARM 18 - Causes & Fix](/posts/danfoss-fc302-alarm-18-fault-code/)
+- [Danfoss FC302 Alarm 21 - Causes & Fix](/posts/danfoss-fc302-alarm-21-fault-code/)
+- [Danfoss VFD Fault OCL — Causes & Fix](/posts/danfoss-vfd-fault-ocl/)
+- [Danfoss FC302 Alarm 42 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-42-fault-code/)

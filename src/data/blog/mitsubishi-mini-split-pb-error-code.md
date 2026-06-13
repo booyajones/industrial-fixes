@@ -48,3 +48,10 @@ The PB (or Pb) error code on a Mitsubishi mini-split signals an indoor unit fan 
 ## When to Call a Pro
 
 A PB error requires opening the indoor unit, testing live circuits, and often replacing the fan motor or control board. If you are not comfortable working with line-voltage wiring, reading service menus, or handling refrigerant-system components, call a licensed HVAC technician. A pro will also have access to Mitsubishi's full fault history tools and genuine replacement parts matched to your exact model. If the blower spins freely by hand and all connectors look intact but the code returns, the root cause is likely in the control board or motor feedback circuit and professional diagnosis will save you from guessing at expensive parts.
+
+## See Also
+
+- [Mitsubishi F0001 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-f0001-error-code/)
+- [Mitsubishi Mini Split E9 Error Code — Outdoor Thermistor 2 Fault Fix](/posts/mitsubishi-mini-split-e9-error/)
+- [Mitsubishi U2 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-u2-error-code/)
+- [Mitsubishi PEX City Multi Error Codes (Indoor Unit): Complete Guide](/posts/mitsubishi-city-multi-pex-error/)

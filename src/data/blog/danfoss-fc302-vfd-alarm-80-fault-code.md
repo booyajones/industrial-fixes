@@ -46,3 +46,10 @@ Alarm 80 on a Danfoss VLT AutomationDrive FC 302 indicates the drive has been in
 ## When to Call a Pro
 
 Call a qualified drives technician or Danfoss service partner if Alarm 80 reappears on its own after you have cleared it and cycled power, especially if you did not perform a manual reset. Recurring initialization to defaults without user intervention points to a control card or parameter storage issue that requires diagnostic tools and familiarity with VFD commissioning. Also seek professional help if you do not have a backup of your application parameters and the drive controls a complex process, because incorrect motor control settings can damage equipment or create unsafe operating conditions.
+
+## See Also
+
+- [Danfoss VFD Fault Codes — FC301, FC302, FC102 Reference](/posts/danfoss-vfd-fault-codes/)
+- [Danfoss FC302 VFD Alarm 44 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-44-fault-code/)
+- [Danfoss FC302 ALARM 36 - Causes & Fix](/posts/danfoss-fc302-alarm-36-fault-code/)
+- [Danfoss FC302 ALARM 30 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-30-fault-code/)

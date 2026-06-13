@@ -47,3 +47,10 @@ F0023 on a Siemens Micromaster drive signals an output fault. The drive has dete
 ## When to Call a Pro
 
 Call a qualified electrician or VFD technician if you cannot locate the open phase in the field wiring, if continuity tests show all three phases are intact but the fault persists, or if you suspect internal drive damage. Replacing the drive output stage requires knowledge of high-voltage DC bus circuits and proper handling of static-sensitive power modules. If the motor or cable is in a hazardous area or the drive is part of a critical process, bring in a professional to avoid extended downtime or safety risks.
+
+## See Also
+
+- [Siemens G120 F01122 - Causes & Fix](/posts/siemens-g120-vfd-f01122-fault-code/)
+- [Siemens G120 F01033 - Causes & Fix](/posts/siemens-g120-vfd-f01033-fault-code/)
+- [Siemens Sinumerik Alarm 25201 — Causes & Fix](/posts/siemens-sinumerik-alarm-25201/)
+- [Siemens G120 F01000 - Causes & Fix](/posts/siemens-g120-vfd-f01000-fault-code/)

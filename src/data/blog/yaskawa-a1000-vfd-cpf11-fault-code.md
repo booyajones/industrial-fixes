@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa-authorized service provider immediately if the CPF11 fault appears. This is a hardware-level control circuit fault that requires diagnostic tools, replacement boards, and parameter backup and restoration. Attempting control board replacement without proper training risks further damage to the drive and connected equipment. A professional can also evaluate whether upstream power quality issues, electrical transients, or environmental factors contributed to the failure and recommend corrective measures. If your drive is under warranty or service contract, contact Yaskawa technical support before opening the enclosure.
 
 **Rough cost:** A pro service call runs about $400–1200 for control board replacement, $1500–3500 for drive replacement depending on model and horsepower.
+
+## See Also
+
+- [Yaskawa GA800 A.147 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-147-fault-code/)
+- [Yaskawa GA800 E03 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e03-fault-code/)
+- [Yaskawa GA800 A.105 Alarm - Causes & Fix](/posts/yaskawa-ga800-vfd-a-105-fault-code/)
+- [Yaskawa GA800 A.108 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-108-fault-code/)

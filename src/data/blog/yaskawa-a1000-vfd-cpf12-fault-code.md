@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 CPF12 is a hardware fault that requires opening the VFD cabinet, working near high-voltage DC bus capacitors, and handling static-sensitive control boards. Even after AC power is removed, internal capacitors can hold lethal voltage for several minutes. Proper lockout-tagout, DC-bus discharge verification, and electrostatic-discharge precautions are necessary. Because the fault points to internal CPU and memory circuitry rather than field wiring, troubleshooting requires Yaskawa service documentation, parameter backup and restore procedures, and sometimes firmware updates or board-level diagnostics. If you are not trained in VFD service or do not have the correct replacement control board and ESD-safe workspace, contact a Yaskawa-certified technician or authorized service center. Most industrial electricians or automation integrators can handle board replacement, but stocking the exact board revision often requires direct Yaskawa support.
 
 **Rough cost:** A pro service call runs about $400–1,200 for control-board replacement including labor; $800–3,000+ for a new drive depending on horsepower.
+
+## See Also
+
+- [Yaskawa GA800 E19 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e19-fault-code/)
+- [Yaskawa GA800 A.100 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-100-fault-code/)
+- [Yaskawa GA800 A.127 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-127-fault-code/)
+- [Yaskawa A1000 OC Fault — Overcurrent](/posts/yaskawa-a1000-fault-oc/)

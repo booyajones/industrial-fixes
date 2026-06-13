@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa-authorized service center as soon as the CPF13 fault persists after a power cycle. Control-circuit faults involve internal drive electronics that require specialized diagnostic equipment, knowledge of firmware and board-level troubleshooting, and access to OEM replacement parts. Replacing the control board or configuring a replacement drive demands familiarity with parameter backups, DC bus safety, and drive commissioning. Do not attempt board-level repairs without proper training and ESD precautions. Yaskawa recommends contacting their technical support or an authorized representative for control-board replacement instructions and to confirm warranty coverage before opening the drive.
 
 **Rough cost:** A pro service call runs about $300-1,200.
+
+## See Also
+
+- [Yaskawa GA800 A.103 - Causes & Fix](/posts/yaskawa-ga800-vfd-a-103-fault-code/)
+- [Yaskawa GA800 A.121 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-121-fault-code/)
+- [Yaskawa GA800 E20 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e20-fault-code/)
+- [Yaskawa GA800 A.148 - Causes & Fix](/posts/yaskawa-ga800-vfd-a-148-fault-code/)

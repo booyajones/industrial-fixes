@@ -50,3 +50,10 @@ The fault almost always points to an installation or parameter issue rather than
 ## When to Call a Pro
 
 Call a qualified drives technician or Siemens service partner if the fault continues after you have verified correct motor nameplate data, confirmed tight and correct wiring, checked for cable faults, ensured the motor spins freely, and repeated the identification routine. Persistent F0041 after these checks suggests an internal measurement-circuit fault or power-stage problem in the drive itself. Also call a professional if you are not comfortable working with three-phase power, measuring motor resistance and insulation, or navigating the drive's commissioning menus. A technician with a laptop and Siemens Starter software can read the detailed alarm values (stator resistance, rotor resistance, leakage inductance, IGBT on-voltage) on the MM440 and pinpoint whether the failure is electrical, mechanical, or internal to the drive.
+
+## See Also
+
+- [Siemens Micromaster F0101 - Causes & Fix](/posts/siemens-micromaster-vfd-f0101-fault-code/)
+- [Siemens G120 A01028 - Causes & Fix](/posts/siemens-g120-a01028-fault-code/)
+- [Siemens G120 F03505 - Causes & Fix](/posts/siemens-g120-vfd-f03505-fault-code/)
+- [Siemens G120 A05006 - IGBT Overtemperature Warning & Fix](/posts/siemens-g120-a05006-fault-code/)

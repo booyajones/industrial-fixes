@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified VFD technician or Yaskawa service center for CPF14. The fault requires diagnosing high-voltage control circuitry, handling static-sensitive boards, and verifying the drive's internal CPU operation. Board replacement involves opening the drive enclosure, disconnecting control and power buses, and ensuring proper reassembly to avoid further damage. If you are not trained in variable frequency drive service, do not attempt board replacement. A technician will also verify grounding, check for interference sources, and confirm that the replacement board resolves the fault without introducing new issues.
 
 **Rough cost:** A pro service call runs about $400-1200 for control board replacement, $1500-4000+ for drive replacement depending on frame size.
+
+## See Also
+
+- [Yaskawa VFD Fault OC — Overcurrent Fix](/posts/yaskawa-vfd-fault-oc-overcurrent/)
+- [Yaskawa GA800 A.110 Alarm - Causes & Fix](/posts/yaskawa-ga800-vfd-a-110-fault-code/)
+- [Yaskawa GA800 A.135 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-135-fault-code/)
+- [Yaskawa GA800 E27 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e27-fault-code/)

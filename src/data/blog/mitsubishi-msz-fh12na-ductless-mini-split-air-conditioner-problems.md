@@ -42,3 +42,10 @@ The Mitsubishi MSZ-FH12NA is a ductless mini-split indoor unit that uses failure
 ## When to Call a Pro
 
 Call a qualified HVAC technician for any fault that requires entering failure-mode recall, counting blink patterns, or diagnosing indoor-to-outdoor communication issues. Refrigerant work, electrical board replacement, and any repair that involves both indoor and outdoor units must be handled by a licensed professional with Mitsubishi training and the correct service manuals. If you see burned components on the board, smell electrical odors, or cannot safely access the blower area, stop and call for service. Always have a pro clear and verify the stored fault after any repair to confirm the unit operates normally.
+
+## See Also
+
+- [Mitsubishi U2 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-u2-error-code/)
+- [Mitsubishi E2 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-e2-error-code/)
+- [Mitsubishi Mini Split P4 Error - Causes & Fix](/posts/mitsubishi-mini-split-p4-error-code/)
+- [Mitsubishi MSY-GL Mini-Split Error Codes - Full Fault Guide](/posts/mitsubishi-msy-gl-error-codes/)

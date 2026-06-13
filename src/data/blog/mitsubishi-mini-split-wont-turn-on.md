@@ -69,3 +69,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 If you have verified incoming power and fresh remote batteries but the indoor indicator lamp does not light at all, or if the CHECK function retrieves a persistent fault code after you have cleared simple issues like filters and wiring connections, contact a technician. Mitsubishi recommends that any error code other than 00 be inspected and repaired by qualified service, and that the breaker be turned off while service is arranged. Working inside the control-board enclosures or troubleshooting refrigerant-circuit protections requires proper licensing, refrigerant certification, and familiarity with Mitsubishi's model-specific fault-code tables.
+
+## See Also
+
+- [Mitsubishi Mini Split U4 Error Code — Causes & Fix](/posts/mitsubishi-mini-split-u4-error-code/)
+- [Mitsubishi Mini Split P1 Error Code Fix](/posts/mitsubishi-p1-error-code/)
+- [Mitsubishi U6 Error Code — Causes & Fix](/posts/mitsubishi-u6-error-code/)
+- [Mitsubishi P-Series H6 — Outdoor Fan Motor Fix](/posts/mitsubishi-heat-pump-error-code-h6/)

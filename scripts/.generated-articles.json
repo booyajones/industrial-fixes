@@ -3519,6 +3519,106 @@
     "yaskawa-a1000-vfd-op-fault-code": {
       "topic": "Yaskawa A1000 VFD oP fault code",
       "date": "2026-06-12"
+    },
+    "abb-880-fault-codes": {
+      "topic": "abb 880 fault codes",
+      "date": "2026-06-13"
+    },
+    "yaskawa-a1000-vfd-cpf03-fault-code": {
+      "topic": "Yaskawa A1000 VFD CPF03 fault code",
+      "date": "2026-06-13"
+    },
+    "yaskawa-a1000-vfd-opr-fault-code": {
+      "topic": "Yaskawa A1000 VFD oPr fault code",
+      "date": "2026-06-13"
+    },
+    "yaskawa-a1000-vfd-os-fault-code": {
+      "topic": "Yaskawa A1000 VFD oS fault code",
+      "date": "2026-06-13"
+    },
+    "yaskawa-a1000-vfd-ou-fault-code": {
+      "topic": "Yaskawa A1000 VFD oU fault code",
+      "date": "2026-06-13"
+    },
+    "yaskawa-a1000-vfd-rh-fault-code": {
+      "topic": "Yaskawa A1000 VFD rH fault code",
+      "date": "2026-06-13"
+    },
+    "yaskawa-a1000-vfd-uv-fault-code": {
+      "topic": "Yaskawa A1000 VFD Uv fault code",
+      "date": "2026-06-13"
+    },
+    "yaskawa-a1000-vfd-uv1-fault-code": {
+      "topic": "Yaskawa A1000 VFD Uv1 fault code",
+      "date": "2026-06-13"
+    },
+    "yaskawa-a1000-vfd-uv2-fault-code": {
+      "topic": "Yaskawa A1000 VFD Uv2 fault code",
+      "date": "2026-06-13"
+    },
+    "yaskawa-a1000-vfd-uv4-fault-code": {
+      "topic": "Yaskawa A1000 VFD Uv4 fault code",
+      "date": "2026-06-13"
+    },
+    "yaskawa-a1000-vfd-hbb-fault-code": {
+      "topic": "Yaskawa A1000 VFD Hbb fault code",
+      "date": "2026-06-13"
+    },
+    "yaskawa-a1000-vfd-hbbf-fault-code": {
+      "topic": "Yaskawa A1000 VFD HbbF fault code",
+      "date": "2026-06-13"
+    },
+    "yaskawa-a1000-vfd-hca-fault-code": {
+      "topic": "Yaskawa A1000 VFD HCA fault code",
+      "date": "2026-06-13"
+    },
+    "yaskawa-a1000-vfd-fbl-fault-code": {
+      "topic": "Yaskawa A1000 VFD FbL fault code",
+      "date": "2026-06-13"
+    },
+    "allen-bradley-powerflex-525-vfd-f003-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F003 fault code",
+      "date": "2026-06-13"
+    },
+    "allen-bradley-powerflex-525-vfd-f004-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F004 fault code",
+      "date": "2026-06-13"
+    },
+    "allen-bradley-powerflex-525-vfd-f005-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F005 fault code",
+      "date": "2026-06-13"
+    },
+    "allen-bradley-powerflex-525-vfd-f007-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F007 fault code",
+      "date": "2026-06-13"
+    },
+    "allen-bradley-powerflex-525-vfd-f008-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F008 fault code",
+      "date": "2026-06-13"
+    },
+    "allen-bradley-powerflex-525-vfd-f012-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F012 fault code",
+      "date": "2026-06-13"
+    },
+    "allen-bradley-powerflex-525-vfd-f013-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F013 fault code",
+      "date": "2026-06-13"
+    },
+    "allen-bradley-powerflex-525-vfd-f015-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F015 fault code",
+      "date": "2026-06-13"
+    },
+    "allen-bradley-powerflex-525-vfd-f021-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F021 fault code",
+      "date": "2026-06-13"
+    },
+    "allen-bradley-powerflex-525-vfd-f029-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F029 fault code",
+      "date": "2026-06-13"
+    },
+    "allen-bradley-powerflex-525-vfd-f033-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F033 fault code",
+      "date": "2026-06-13"
     }
   }
 }

@@ -70,3 +70,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 If the inlet screen is clean, the hose is straight, and water pressure at the valve is strong but you still get an IE code, the inlet valve solenoid itself has likely failed and needs replacement. If you clear all drain obstructions and the pump still won't evacuate water (or you hear a hum but no water movement), the drain pump motor is burned out. Control board diagnostics for a 2H error or a no-code freeze require a multimeter and familiarity with testing door switch continuity and board relay outputs, so most homeowners should call a tech at that point. Any situation where you smell burning plastic or see water pooling under the unit during a cycle means you should stop immediately and get a professional out to prevent further damage.
+
+## See Also
+
+- [LG Mini-Split CH38 Error Code - Causes & Fix](/posts/lg-mini-split-ch-38-error-code/)
+- [LG Washer Won't Agitate - Causes & Fix](/posts/lg-washer-wont-agitate/)
+- [LG Microwave F-5 Error Code - Causes & Fix](/posts/lg-microwave-f-5-error-code/)
+- [LG Refrigerator Water Inlet Valve Replacement - Signs & How-To](/posts/lg-refrigerator-water-inlet-valve-replacement/)

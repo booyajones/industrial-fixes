@@ -472,5 +472,11 @@
     "score": 3,
     "reason": "FAIL: Research explicitly states 'oP does not appear to use as a standard fault code' and 'not explicitly defined' for A1000\u2014this code is not confirmed real/documented for this exact brand+model, violating criterion 1.",
     "date": "2026-06-12"
+  },
+  "yaskawa-a1000-vfd-hca-fault-code": {
+    "topic": "Yaskawa A1000 VFD HCA fault code",
+    "score": 0,
+    "reason": "review error: HTTP Error 429: Too Many Requests",
+    "date": "2026-06-13"
   }
 }

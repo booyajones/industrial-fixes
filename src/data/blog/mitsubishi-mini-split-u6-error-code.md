@@ -49,3 +49,10 @@ The fault belongs to the same family as Mitsubishi UF and UP overcurrent codes. 
 ## When to Call a Pro
 
 Call a licensed HVAC technician immediately if you see U6. This fault involves high-voltage inverter circuits and refrigerant-side components that require EPA certification, specialized multimeter skills, and model-specific service manuals. Diagnosing whether the inverter board or the compressor has failed requires measuring drive outputs under power and interpreting winding-resistance values against factory tables. Compressor replacement also means recovering refrigerant, brazing, evacuation, and recharge. Attempting this repair without proper tools and training risks electric shock, refrigerant release, and expensive secondary damage to the new parts.
+
+## See Also
+
+- [Mitsubishi U6 Error Code — Causes & Fix](/posts/mitsubishi-u6-error-code/)
+- [Mitsubishi E1 Error Code — Indoor/Outdoor Communication Fault Fix](/posts/mitsubishi-e1-error-code/)
+- [Mitsubishi MSY-GL Mini-Split Error Codes - Full Fault Guide](/posts/mitsubishi-msy-gl-error-codes/)
+- [Mitsubishi Mini Split Not Cooling - Causes & Fix](/posts/mitsubishi-mini-split-not-cooling/)

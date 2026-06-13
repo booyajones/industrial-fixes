@@ -70,3 +70,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a technician if you have confirmed power, cleared Control Lock, and reseated all connectors but buttons still do not respond. Diagnosing whether the console or the main board has failed requires multimeter testing and familiarity with your model's wiring diagram. If you are not comfortable removing the door panel, tracing harness connections, or handling live voltage during testing, professional service will save time and avoid misdiagnosis. LG-adjacent repair sources warn that control boards are frequently replaced unnecessarily, so an experienced tech can pinpoint the actual failed component and avoid wasting money on the wrong part.
+
+## See Also
+
+- [LG Mini Split CH60 Error - Causes & Fix](/posts/lg-mini-split-ch60-error-code/)
+- [LG Refrigerator Water Dispenser Not Working - Causes & Fix](/posts/lg-refrigerator-water-dispenser-not-working/)
+- [LG Mini-Split CH07 Error Code - Causes & Fix](/posts/lg-mini-split-ch07-error-code/)
+- [LG Oven Igniter Not Working - Causes & Fix](/posts/lg-oven-igniter-not-working/)

@@ -69,3 +69,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 If you have dried the base pan and inspected the door gasket, spray arms, leveling, and water supply fittings but the leak persists or you cannot locate the source, call a qualified appliance technician. Internal leaks from a cracked pump housing, failed inlet valve seal, or damaged internal hose require disassembly and parts replacement that are easier to diagnose with pressure testing and experience. A pro can also test the float switch circuit and replace it if the sensor itself has failed, which is less common but will cause the AE or E1 code to reappear even after the pan is dry.
+
+## See Also
+
+- [LG Range E5 Error Code - Causes & Fix](/posts/lg-range-e5-error-code/)
+- [LG Dishwasher Not Dispensing Detergent - Causes & Fix](/posts/lg-dishwasher-not-dispensing-detergent/)
+- [LG Microwave Sparking - Causes & Fix](/posts/lg-microwave-sparking/)
+- [LG Refrigerator Leaking Water - Causes & Fix](/posts/lg-refrigerator-leaking-water/)

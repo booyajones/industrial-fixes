@@ -47,3 +47,10 @@ Alarm 4 on a Danfoss VLT variable frequency drive signals a mains phase loss con
 ## When to Call a Pro
 
 Call a qualified industrial electrician or drive technician if you are not trained in three-phase power diagnostics, if the fault remains after you have verified balanced incoming voltage and tight connections, or if your lead-swapping test indicates the problem is inside the drive itself. Internal rectifier and power-section repairs require factory parts, specialized test equipment, and knowledge of high-voltage DC bus safety. Also call a professional if the alarm returns intermittently under load, which often points to a complex upstream distribution problem that requires load analysis and infrared scanning.
+
+## See Also
+
+- [Danfoss FC302 VFD ALARM 15 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-15-fault-code/)
+- [Danfoss RX Controller Fault Codes — Troubleshooting Guide](/posts/danfoss-rx-controller-fault/)
+- [Danfoss VFD Fault UL — Causes & Fix](/posts/danfoss-vfd-fault-ul/)
+- [Danfoss FC302 ALARM 24 - Causes & Fix](/posts/danfoss-fc302-vfd-alarm-24-fault-code/)

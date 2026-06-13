@@ -50,3 +50,10 @@ Because PL is an outdoor-side refrigerant-system fault, it is not a simple senso
 ## When to Call a Pro
 
 Call a professional immediately when the PL code appears. Mitsubishi explicitly requires that the unit be inspected and repaired by a qualified technician when this fault is present. The code indicates an outdoor refrigerant-system abnormality that involves refrigerant handling, inverter diagnostics, and control-board testing that require specialized tools, gauges, and manufacturer training. Attempting repair without proper equipment or EPA certification can damage the system, void your warranty, and violate refrigerant-handling regulations.
+
+## See Also
+
+- [Mitsubishi U2 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-u2-error-code/)
+- [Mitsubishi U4 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-u4-error-code/)
+- [Mitsubishi Mini Split Leaking Water - Causes & Fix](/posts/mitsubishi-mini-split-leaking-water/)
+- [Mitsubishi Mini Split E6 Error Code — Communication Error Indoor/Outdoor Fix](/posts/mitsubishi-mini-split-e6-error/)
