@@ -17,7 +17,7 @@ on:
         required: false
 
 concurrency:
-  group: article-gen
+  group: content-write
   cancel-in-progress: false
 
 permissions:
@@ -75,7 +75,7 @@ jobs:
           fi
           git commit -m "Demand-driven articles (GSC + Reddit gaps) [cloud]"
           for i in 1 2 3 4 5; do
-            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            git pull --rebase --no-edit origin main && git push origin HEAD:main && exit 0; git rebase --abort 2>/dev/null || true
             echo "push race, retry $i"; sleep $((RANDOM % 8 + 3))
           done
           echo "push failed after retries"; exit 1

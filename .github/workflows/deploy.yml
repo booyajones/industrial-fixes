@@ -43,6 +43,14 @@ jobs:
       - name: Install
         run: npm ci
 
+      - name: Guard — fail fast on conflict markers in content
+        run: |
+          if git grep -nE '^(<{7}|={7}|>{7})( |$)' -- 'src/data/blog/*.md' ; then
+            echo "::error::Git conflict markers found in content — refusing to build/deploy. A content cron likely committed an unresolved rebase. Fix the listed files."
+            exit 1
+          fi
+          echo "No conflict markers."
+
       - name: Build
         env:
           PUBLIC_GA4_MEASUREMENT_ID: ${{ vars.PUBLIC_GA4_MEASUREMENT_ID }}
