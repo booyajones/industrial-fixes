@@ -27,6 +27,24 @@ const { cause, part, partPrice, noBuyPct, freeChecks = [], pro = false, code, di
 const codeRef = code ? `${code} codes` : "these codes";
 const checks = freeChecks.filter(c => c && c.trim()).slice(0, 3);
 const badge = diyOrPro === "diy" ? "DIY-friendly" : diyOrPro === "pro" ? "Pro repair" : null;
+
+// SAFETY + HONESTY (storm review action #1): the "most are a cheap $0 fix" claim
+// is OPT-IN, never the default. Asserting it on a sealed-system / refrigerant /
+// VFD / igniter fault is both false and unsafe, and ~1,847 money pages carry no
+// diy_or_pro to judge from. So we only assert "cheap fix" with positive, safe
+// signal; everything else gets a neutral "confirm before you buy" lead that is
+// true for every code, and known-dangerous classes get an explicit pro lead.
+const _p = (part || "").toLowerCase();
+// Classes where the fault is dangerous / not a homeowner cheap fix -> pro lead.
+const DANGER = /compressor|refrigerant|sealed system|sealed-system|\binverter\b|\bipm\b|\bsto\b|gas[\s-]?valve|\bvfd\b|servo|\bstator\b|high[\s-]?voltage|\bacs\d|powerflex/;
+// Classes where the named part is usually the real failure, so "probably not the
+// part / it's a cheap fix" would mislead -> neutral lead (still anti-misdiagnosis).
+const PART_IS_FAILURE = /ignit|heating element|bake element|broil element|thermal fuse|glow|flame sensor|control board|main board/;
+const isDanger = pro || DANGER.test(_p);
+// Assert cheap-fix only when grounded (no_buy_pct from the honesty judge) OR an
+// explicit DIY label, AND the part isn't a danger/“part-is-the-failure” class.
+const assertCheap = !isDanger && !PART_IS_FAILURE.test(_p) && (Boolean(noBuyPct) || diyOrPro === "diy");
+const causeFrag = cause ? cause.replace(/\.$/, "").toLowerCase() : "";
 ---
 
 <aside class="nbv" data-pagefind-ignore aria-label="Before you buy a part">
@@ -38,18 +56,25 @@ const badge = diyOrPro === "diy" ? "DIY-friendly" : diyOrPro === "pro" ? "Pro re
     {badge && <span class={`nbv-badge nbv-${diyOrPro}`}>{badge}</span>}
   </div>
 
-  {pro ? (
+  {isDanger ? (
     <p class="nbv-lead">
-      {code ? `${code} ` : "This code "}can come from several parts, and the wrong one will not clear it.
-      Confirm the cause before you buy a {part}.
+      {code ? `${code} ` : "This code "}usually needs a proper diagnosis, and the wrong part will not clear it.
+      Confirm the cause{causeFrag && <> (often <strong>{causeFrag}</strong>)</>} before you buy a {part}.
     </p>
-  ) : (
+  ) : assertCheap ? (
     <p class="nbv-lead">
       {noBuyPct
         ? <>About <strong>{noBuyPct}</strong> of {codeRef} are a $0 to cheap fix, not a failed part.</>
         : <>Most {codeRef} are a cheap or $0 fix, not a failed part.</>}
-      {cause && <> The usual culprit is <strong>{cause.replace(/\.$/, "").toLowerCase()}</strong>.</>}
+      {causeFrag && <> The usual culprit is <strong>{causeFrag}</strong>.</>}
       {" "}Rule that out before you spend anything.
+    </p>
+  ) : (
+    <p class="nbv-lead">
+      Confirm it is actually the cause before you buy a {part}.
+      {code ? ` ${code} ` : " This code "}can have more than one, and the wrong part will not clear it.
+      {causeFrag && <> The usual culprit is <strong>{causeFrag}</strong>.</>}
+      {" "}Check the basics first.
     </p>
   )}
 
@@ -60,12 +85,12 @@ const badge = diyOrPro === "diy" ? "DIY-friendly" : diyOrPro === "pro" ? "Pro re
   )}
 
   <p class="nbv-fork">
-    {partPrice
-      ? <>A new {part} runs about <strong>{partPrice}</strong>. </>
-      : <>A new {part} is not cheap. </>}
-    {checks.length > 0
-      ? "The checks above cost nothing and clear most of these. Do them first."
-      : "Work the free checks in the steps below before you order anything."}
+    {partPrice && <>A new {part} runs about <strong>{partPrice}</strong>. </>}
+    {assertCheap
+      ? (checks.length > 0
+          ? "The checks above cost nothing and clear most of these. Do them first."
+          : "Work the free checks in the steps below before you order anything.")
+      : "Confirm the diagnosis first — the wrong part will not clear the code."}
   </p>
 
   <a class="nbv-skip" href="#get-the-part">
