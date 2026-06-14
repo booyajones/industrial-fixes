@@ -1,83 +1,83 @@
 ---
 title: "Samsung nF Error Code - Causes & Fix"
-description: "Samsung nF code means the washer cannot fill with enough water. Most often caused by closed faucets or clogged inlet screens."
-pubDatetime: 2026-06-08T03:21:05Z
-modDatetime: 2026-06-08T03:21:05Z
+description: "nF means no fill / not enough water entering the washer. Most often: closed faucets, kinked hoses, or clogged inlet screens."
+pubDatetime: 2026-06-12T21:53:45Z
+modDatetime: 2026-06-12T21:53:45Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - samsung
-most_likely_cause: "closed or partially closed water faucets, or clogged inlet mesh screens"
-free_checks:
-  - "Verify both hot and cold water supply valves are fully open and hoses are not kinked"
-  - "Remove inlet hoses and clean the mesh screens inside the valve ports"
-  - "Test home water pressure at another faucet to confirm adequate flow (minimum 20 psi required)"
-no_buy_pct: "60%"
+money_part: "Water inlet valve assembly"
+most_likely_cause: "closed or partially closed water faucets"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-money_part: "Samsung washer water inlet valve assembly"
-part_price: "$15-40"
+free_checks:
+  - "Verify both hot and cold water faucets are fully open"
+  - "Inspect inlet hoses for kinks, pinches, or blockage"
+  - "Check that the drain hose is not inserted more than 6 inches into the standpipe and is not sealed airtight"
+part_price: "$30-70"
+no_buy_pct: "70%"
 ---
 
 ## Samsung nF Error Code — What It Means
 
-Samsung's nF, NF, 4C, 4E, and NF1 error codes all belong to the same water-supply fault family. They appear when the washing machine cannot fill with enough water to run a cycle. The washer is commanding the fill system to bring in water, but the fill is not delivering adequate volume within the expected time or conditions.
+The Samsung nF error code indicates the washer has detected no fill or insufficient water fill during a wash or rinse cycle. The machine cannot fill with enough water to run the cycle. Samsung groups nF and nF1 with the 4C and 4E codes, all of which point to water-supply fill errors.
 
-This is a fill-failure condition. It does not mean the pump or drain is blocked. It means water is not entering the tub fast enough or at all. The issue is almost always on the inlet side, involving the house supply, hoses, filters, or the inlet valve itself. Less commonly, a faulty pressure switch or improper drain-hose installation can interfere with fill behavior and trigger the code even when some water is entering.
+The code appears when the control board does not detect the expected water level within the expected time. This can happen because water is not entering the tub at all, entering too slowly, or draining back out during the fill attempt.
 
 ## Before You Replace Anything
 
-Homeowners often replace the inlet valve before checking the basics. Start by confirming both faucets are fully open and cleaning the inlet mesh screens at the washer connections, which costs nothing and fixes most fill faults.
+Many people replace the inlet valve assembly first when the actual problem is clogged mesh inlet screens or a kinked hose. Check water supply, clean the screens, and inspect the drain hose installation before buying the valve.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Closed or partially closed faucets (~30%)** If the hot or cold supply valve behind the washer is not turned fully open, flow is restricted and the machine cannot fill in time.
-- **Clogged inlet mesh screens (~25%)** Small debris filters at the hose-to-washer connection trap sediment over time and choke off water flow.
-- **Kinked, pinched, or clogged inlet hoses (~20%)** A bent or internally restricted hose reduces flow, and a damaged hose may leak or fail to deliver adequate pressure.
-- **Faulty water inlet valve (~15%)** The solenoid valve that controls fill can fail electrically or become mechanically stuck, preventing water from entering even when supply and filters are clean.
-- **Drain hose installed too deep or airtight (~7%)** Samsung specifies the drain hose must not be pushed more than 6 inches into the standpipe and must not form an airtight seal, or fill behavior can be disrupted.
-- **Pressure switch or air-tube problem (~3%)** If the tub appears to fill but the control still flags nF, a blocked air tube or failed pressure switch may prevent the machine from sensing the correct water level.
+- **Closed or partially closed faucets (~30%)** One or both water supply valves are not fully open, restricting flow into the washer.
+- **Kinked or clogged inlet hoses (~25%)** The supply hoses are bent, pinched, blocked, or incorrectly connected, preventing water from reaching the inlet valve.
+- **Clogged mesh inlet screens (~20%)** Sediment and mineral buildup in the fine mesh filters at the hose connections restrict water flow.
+- **Drain hose installation problems (~15%)** The drain hose is inserted too deep (more than 6 inches), sealed airtight, or missing its retainer, causing water to siphon back out during the fill cycle.
+- **Failed inlet valve solenoid (~8%)** The hot or cold inlet valve coil has failed electrically or the valve is mechanically stuck, preventing water from entering even when commanded.
+- **Pressure switch or pressure hose issue (~2%)** The pressure-sensing tube is disconnected, blocked by soap buildup, or the pressure switch itself has failed, so the control cannot detect the water level correctly.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Are both hot and cold faucets behind the washer turned fully open?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Supply valves are open. Move on to inspect hoses and screens.<br><strong>No:</strong> Turn both valves fully counterclockwise and retry the cycle. This clears about one-third of fill faults immediately.</div>
+<details class="dtree"><summary>Are both hot and cold water faucets fully open?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Supply valves are good. Move on to inspect the hoses and screens.<br><strong>No:</strong> Turn both faucets fully open and retest the washer. This alone solves many nF errors.</div>
 </details>
 
-<details class="dtree"><summary>When you disconnect a fill hose at the washer and hold it over a bucket, does water flow strongly from the hose?</summary>
-<div class="dtree-body"><strong>Yes:</strong> House supply is adequate. The restriction is inside the washer inlet, at the screen, or at the valve.<br><strong>No:</strong> Check for a kinked hose, a closed inline shut-off, or low house pressure. Replace or straighten the hose as needed.</div>
+<details class="dtree"><summary>Do the inlet hoses have any visible kinks, pinches, or tight bends?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Straighten or reroute the hoses so water can flow freely, then retest.<br><strong>No:</strong> Hoses are clear. Remove them and check the mesh screens at the valve inlets.</div>
 </details>
 
-<details class="dtree"><summary>After cleaning the inlet screens, does the washer fill normally on a test cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Screens were the culprit. No further parts needed.<br><strong>No:</strong> The inlet valve is the next most likely part to replace, or check the pressure switch and drain-hose installation if the tub is filling but the code persists.</div>
+<details class="dtree"><summary>Is the drain hose inserted more than 6 inches into the standpipe or sealed airtight?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Pull the drain hose out so only 6 inches or less is in the pipe, leave an air gap, and secure it with the bracket. This stops siphoning.<br><strong>No:</strong> Drain installation is correct. Test the inlet valve electrically and inspect the pressure sensing system.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Unplug the washer** and turn off both the hot and cold water supply valves completely before touching any hoses or internal components.
-2. **Check both supply faucets** behind the washer and turn them fully open, then test flow by disconnecting each inlet hose at the washer end and running water into a bucket to confirm strong pressure.
-3. **Inspect the inlet hoses** for kinks, pinches, internal blockage, or damage, and confirm hot is connected to hot and cold to cold on models with separate inlets.
-4. **Remove and clean the inlet mesh screens** at the washer's inlet connections using a small brush or pick, rinsing gently under running water without damaging the fine mesh.
-5. **Verify drain-hose installation** by ensuring the hose is not pushed more than 6 inches into the standpipe and does not form an airtight seal, and that it is secured with the provided clip.
-6. **Reconnect hoses and power**, turn on the supply valves, and run a rinse or short cycle to test whether the machine now fills without throwing the code.
-7. **Test or replace the inlet valve** if the code persists after supply, hoses, and screens are confirmed good, checking for electrical continuity and mechanical operation, or install a new valve assembly and retest the cycle.
-8. **Inspect the pressure switch and air tube** if the tub appears to fill but the code still appears, looking for blockage, leaks, or a failed switch that prevents the control from sensing water level correctly.
+1. **Unplug the washer** and shut off both hot and cold water supply faucets before working on any plumbing connections.
+2. **Verify both faucets are fully open** and confirm hot is connected to the hot inlet, cold to the cold inlet.
+3. **Inspect the inlet hoses** for kinks, pinches, blockage, or damage along their entire length.
+4. **Remove the inlet hoses** from the back of the washer and use a small brush or pick to clean the mesh filter screens in each inlet port.
+5. **Check the drain hose installation**: confirm it is inserted no more than 6 inches into the standpipe, is not sealed airtight, and the retainer bracket is correctly installed.
+6. **Clean the dispenser drawer** if you see soap or mineral buildup that could restrict water flow through the detergent path.
+7. **Reconnect everything**, turn the water back on, plug in the washer, and run a rinse-and-spin cycle to test. If the error persists, test the inlet valve solenoids with a multimeter and inspect the pressure hose and pressure switch for blockage or disconnection.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Samsung washer water inlet valve assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-nf-error-code&k=Samsung+washer+water+inlet+valve+assembly&tag=errorcodefixes-20) \| Match your model number. Single or dual-solenoid versions exist depending on hot/cold configuration. |
-| Washing machine fill hoses (pair) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-nf-error-code&k=Washing+machine+fill+hoses+%28pair%29&tag=errorcodefixes-20) \| Replace if kinked, cracked, or internally restricted. Braided stainless-steel hoses offer better durability than rubber. |
+| Water inlet valve assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-nf-error-code&k=Water+inlet+valve+assembly&tag=errorcodefixes-20) \| Look up your exact Samsung model number to match the correct dual-solenoid valve. |
+| Water supply hoses | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-nf-error-code&k=Water+supply+hoses&tag=errorcodefixes-20) \| Replace if kinked, cracked, or damaged; standard hoses work on most models. |
+| Pressure switch or pressure sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-nf-error-code&k=Pressure+switch+or+pressure+sensor&tag=errorcodefixes-20) \| Model-specific part; order by exact washer model if electrical testing shows a fault. |
 
 ## When to Call a Pro
 
-Call a technician if you have verified that both faucets are fully open, cleaned the inlet screens, confirmed strong hose flow, checked drain-hose installation to the 6-inch spec, and the code still appears after a power reset. At that point the inlet valve or pressure-switch assembly likely needs electrical testing and replacement. A pro can also diagnose wiring faults or control-board issues that may mimic a fill fault. If you are uncomfortable working with water connections, moving the washer, or testing electrical components with a meter, schedule service rather than risk a flood or voiding your warranty with incorrect repairs.
+Call a technician if you have verified that both faucets are open, cleaned the inlet screens, inspected the hoses and drain installation, and the error still appears. The technician will test the inlet valve solenoids electrically, check the pressure switch and pressure hose for blockage or disconnection, and replace the failed component. Also call if you are uncomfortable working with plumbing connections or disassembling the washer cabinet to access internal sensors and valves.
 
-**Rough cost:** DIY runs about $15-40 in parts (inlet valve or hoses), 30-60 min. A pro service call runs about $120-220 typical service call and valve replacement.
+**Rough cost:** DIY runs about $15-80 in parts, 20-60 min. A pro service call runs about $150-300.

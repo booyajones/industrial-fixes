@@ -1,8 +1,8 @@
 ---
 title: "Samsung Dishwasher 4C Error Code - Causes & Fix"
-description: "4C/4E means water supply fault. Most likely: closed shutoff valve or clogged inlet filter. Open valve, clean screen, check hose for kinks."
-pubDatetime: 2026-06-06T01:52:43Z
-modDatetime: 2026-06-06T01:52:43Z
+description: "4C means the dishwasher isn't filling with water. Check that the supply shutoff valve under the sink is fully open."
+pubDatetime: 2026-06-12T21:46:20Z
+modDatetime: 2026-06-12T21:46:20Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,73 +10,74 @@ tags:
   - appliance
   - dishwasher
   - samsung
-most_likely_cause: "Closed or partially closed house shutoff valve, or clogged inlet filter screen"
-free_checks:
-  - "Check inlet hoses for kinks and verify supply valves are fully open"
-  - "Clean inlet hose mesh screens at valve connection points"
-  - "Verify minimum 20 psi water pressure and check for drain hose siphoning"
-no_buy_pct: "60%"
-likelihood: "the most common real-world causes"
+money_part: "Samsung dishwasher water inlet valve"
+most_likely_cause: "Closed or partially open water shutoff valve"
+likelihood: "the most common cause"
 diy_or_pro: "diy"
-money_part: "Water inlet valve (Samsung dishwasher)"
-part_price: "$25-80"
+free_checks:
+  - "Verify the water shutoff valve under the sink or at the branch line is turned fully counterclockwise (open)."
+  - "Inspect the supply hose for kinks, folds, or freezing and straighten or thaw as needed."
+  - "Remove and clean the inlet valve filter screen of any debris or sediment."
+part_price: "$30-60"
+no_buy_pct: "65%"
 ---
 
 ## Samsung Dishwasher 4C Error Code — What It Means
 
-The 4C or 4E error code on a Samsung dishwasher indicates a water supply fault. The control system has detected that the dishwasher is not getting enough incoming water or that the water fill path is abnormal. Samsung groups 4C and 4E together as the same issue related to water delivery problems.
+The 4C (or 4E) error code on a Samsung dishwasher signals a water supply problem. The machine has detected that water is not reaching the tub in the expected volume or time. Samsung describes this code as "Water supply issues," meaning the dishwasher cannot fill properly due to a blocked, restricted, or failed water inlet path.
 
-This code appears when the machine expects water to fill the tub within a certain time window but fails to see normal flow. The fault can come from the household supply side (closed valve, low pressure), a blockage in the inlet path (clogged filter, debris), a problem with the hose (kinked, frozen, or damaged), or a component failure such as a defective water inlet valve. Less commonly, a control board failure can also trigger this code if all supply-side checks pass.
+In practical terms, something is preventing water from flowing into the tub. The machine's fill sensor times out or registers insufficient pressure, triggering the code and halting the cycle. The problem is almost always mechanical (a closed valve, clogged screen, or kinked hose) or electrical (a failed inlet valve solenoid or a control board that cannot energize the valve).
 
 ## Before You Replace Anything
 
-Many people replace the water inlet valve first. Before ordering a new valve, verify the house supply is on, the hose is not kinked, and the inlet filter screen is clean. A clogged screen or closed valve causes the same symptoms at zero cost.
+Many people replace the water inlet valve without first checking the inlet screen or verifying that the shutoff valve is fully open. Clean the screen and confirm full house water pressure before ordering a valve.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **House supply issue** The shutoff valve under the sink is closed or only partially open, or household water pressure is too low or intermittent.
-- **Clogged inlet filter** The small mesh screen at the water valve inlet connection is blocked by sediment, rust, or debris from the supply line.
-- **Kinked or frozen hose** The inlet hose is folded, pinched behind the machine, frozen (in an unheated space), or otherwise restricted.
-- **Defective water inlet valve** The solenoid valve that opens to let water in has failed mechanically or electrically and does not open when commanded.
-- **Control board failure** The main control board incorrectly interprets fill signals or fails to energize the valve even when the supply path is clear.
+- **Water shutoff valve closed or partially open (~35%)** The house shutoff valve under the sink is turned off or only cracked open, starving the dishwasher of flow.
+- **Clogged inlet valve screen or filter (~25%)** Sediment, mineral deposits, or debris in the inlet valve's fine mesh screen restrict water entry.
+- **Kinked, folded, or frozen supply hose (~15%)** The flexible hose between the shutoff valve and the dishwasher is bent, crushed, or iced over in cold conditions.
+- **Failed water inlet valve (~15%)** The solenoid coil inside the inlet valve is open, shorted, or mechanically jammed so it cannot open when energized.
+- **Control board not energizing the inlet valve (~10%)** A failed relay or circuit on the main control board prevents voltage from reaching the inlet valve during the fill cycle.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Is the house shutoff valve under the sink fully open?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Water supply is on. Move to the next check (hose and filter).<br><strong>No:</strong> Turn the valve fully counterclockwise. Reset power and run a rinse cycle. If the code clears, the valve was the problem.</div>
+<details class="dtree"><summary>Is the water shutoff valve under the sink turned fully open?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The valve is not the problem. Move on to inspect the supply hose and inlet screen.<br><strong>No:</strong> Turn the valve fully counterclockwise. Clear the error and run a test cycle. If it fills, you are done.</div>
 </details>
 
-<details class="dtree"><summary>When you disconnect the inlet hose at the valve, does water flow freely from the house supply line?</summary>
-<div class="dtree-body"><strong>Yes:</strong> House pressure is adequate. Inspect the hose and inlet screen for blockage or kinks.<br><strong>No:</strong> Low or no house pressure. Check the main water supply or call a plumber if the home has no water flow.</div>
+<details class="dtree"><summary>Is the inlet valve screen (where the hose threads onto the dishwasher) clean and free of debris?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The screen is clear. Test the inlet valve coil with a multimeter or check for control board output voltage.<br><strong>No:</strong> Remove the screen, rinse it under running water, and reinstall. Clear the code and test.</div>
 </details>
 
-<details class="dtree"><summary>After cleaning the inlet filter and straightening the hose, does the error return when you reset power and run a short cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The supply path is clear but the code persists. The water inlet valve or control board is likely faulty. Test or replace the valve.<br><strong>No:</strong> The error is gone. The blockage or kink was the cause. No further parts needed.</div>
+<details class="dtree"><summary>Does the inlet valve coil measure roughly 890-1089 Ω across its terminals?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The coil is good. Verify the control board is sending 110-120 V AC to the valve during fill. If not, replace the board.<br><strong>No:</strong> The valve coil is open or shorted. Replace the water inlet valve.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Turn off power** at the breaker and close the water shutoff valve under the sink before starting any work.
-2. **Check the house supply** by opening the shutoff valve fully (turn counterclockwise until it stops) and confirming that other faucets in the home deliver normal flow and pressure.
-3. **Inspect the inlet hose** behind or beneath the dishwasher for kinks, sharp bends, or freezing (if the machine is in an unheated space). Straighten any folds and thaw frozen sections.
-4. **Remove and clean the inlet filter screen** where the supply hose connects to the dishwasher valve (typically a small mesh screen inside the hose fitting). Rinse away sediment or debris under running water.
-5. **Reconnect everything**, restore power, and run a short rinse or fill test cycle to see if the 4C code clears. A transient fault will disappear after a power reset.
-6. **Test the water inlet valve** if the code returns. Disconnect power and water, remove the lower access panel, locate the valve, and check for continuity across the solenoid coil terminals with a multimeter (consult your model's wiring diagram for expected values). Replace the valve if it is open-circuit or does not click when powered.
-7. **Contact Samsung service** or a qualified technician if the valve tests good, the supply is verified, and the error persists. Samsung identifies a control board failure as the remaining possibility when all supply-side checks pass.
+1. **Turn off power** at the circuit breaker and close the water shutoff valve under the sink.
+2. **Pull the dishwasher forward** enough to access the rear panel or lower front kick plate where the inlet valve is mounted.
+3. **Disconnect the supply hose** from the inlet valve and inspect the valve's inlet screen. Remove the screen with needle-nose pliers and rinse it under running water to clear sediment or debris.
+4. **Check the supply hose** for kinks, folds, or ice blockage. Straighten any bends and thaw frozen sections with warm (not boiling) water.
+5. **Test the inlet valve coil** with a multimeter set to resistance. Disconnect the valve's wire harness, then measure across the two coil terminals. A typical Samsung dishwasher inlet valve reads 890-1089 Ω. An open (infinite) or very low reading means the valve is failed.
+6. **Verify control board output** by reconnecting the valve harness, restoring power, and starting a fill cycle. Use a multimeter set to AC voltage to check for 110-120 V at the valve connector. If voltage is present but the valve does not open, replace the valve. If no voltage appears, the control board or its relay is faulty.
+7. **Replace the inlet valve** if the coil is out of spec or mechanically jammed. Unscrew the mounting bracket, disconnect the hose and harness, install the new valve, and secure all connections. Restore water and power, then run a test cycle to confirm the 4C code clears.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Water inlet valve (Samsung dishwasher) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dishwasher-4c-error-code&k=Water+inlet+valve+%28Samsung+dishwasher%29&tag=errorcodefixes-20) \| Match your model number. Typical part when valve solenoid fails to open or close. |
-| Inlet hose and clamp kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dishwasher-4c-error-code&k=Inlet+hose+and+clamp+kit&tag=errorcodefixes-20) \| Use if the original hose is cracked, frozen-damaged, or too short to avoid kinks. |
+| Samsung dishwasher water inlet valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dishwasher-4c-error-code&k=Samsung+dishwasher+water+inlet+valve&tag=errorcodefixes-20) \| Match the valve to your model number; most have a two-terminal solenoid coil and a threaded inlet port. |
+| Inlet valve filter screen | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dishwasher-4c-error-code&k=Inlet+valve+filter+screen&tag=errorcodefixes-20) \| Often built into the valve; sometimes sold separately if the screen is damaged or cannot be cleaned. |
+| Dishwasher supply hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dishwasher-4c-error-code&k=Dishwasher+supply+hose&tag=errorcodefixes-20) \| Replace if kinked, cracked, or frozen; choose a braided stainless hose rated for appliance use. |
 
 ## When to Call a Pro
 
-Call a professional if you have verified the house supply is on, the hose is clear, and the inlet screen is clean but the 4C code will not clear. A technician can test the water inlet valve with voltage and coil-resistance checks and replace it safely. If a new valve does not resolve the fault, Samsung points to a control board failure, which requires board-level diagnostics and possibly a factory service center for board repair or replacement. Also call a pro if the dishwasher is still under warranty or if you are not comfortable working with water connections and electrical components inside the appliance.
+Call a technician if you have confirmed the shutoff valve is open, the inlet screen is clean, the supply hose is clear, and the inlet valve coil tests within the 890-1089 Ω range but the dishwasher still throws a 4C code. At that point the problem is likely a control board relay failure or a wiring fault between the board and the valve. Diagnosing board-level failures requires a schematic and the ability to trace AC control voltage safely. A pro can also handle frozen or corroded shutoff valves that require plumbing work behind the cabinet.
 
-**Rough cost:** DIY runs about $25–80 in parts (valve or hose), 30–60 min. A pro service call runs about $150–280 service call.
+**Rough cost:** DIY runs about $30-80 in parts, 30-60 min. A pro service call runs about $150-250 service call.

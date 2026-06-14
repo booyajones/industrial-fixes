@@ -1,8 +1,8 @@
 ---
 title: "LG Oven F11 Error Code - Causes & Fix"
-description: "F11 on LG ovens means a communication or preheat fault. Most common fix: replace the bake igniter, often followed by the temperature sensor."
-pubDatetime: 2026-06-08T03:53:13Z
-modDatetime: 2026-06-08T03:53:13Z
+description: "F11 on LG ovens typically signals a communication error between control components. Power-cycle the breaker for 30 seconds first."
+pubDatetime: 2026-06-12T21:56:50Z
+modDatetime: 2026-06-12T21:56:50Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,72 +10,74 @@ tags:
   - appliance
   - oven
   - lg
-most_likely_cause: "weak or failed hot-surface bake igniter"
+money_part: "LG oven temperature sensor (thermistor)"
+most_likely_cause: "Loose or damaged wiring and connectors between control board, sensor, and display"
+likelihood: "the most common cause"
+diy_or_pro: "diy"
 free_checks:
-  - "Turn off breaker for 5 minutes to clear potential relay board glitch"
-  - "Inspect wire harness connections between control board and bake element/igniter for loose or corroded pins"
-no_buy_pct: "15%"
+  - "Press CLEAR/OFF to clear the code and attempt to restart the oven."
+  - "Shut off power at the circuit breaker for 30 seconds, then restore and test."
+  - "Inspect all visible wiring harnesses and connectors at the control board, display, sensor, and keypad for loose pins, corrosion, or burnt terminals."
 part_price: "$25-60"
-likelihood: "the most common repair shown in the field"
-diy_or_pro: "pro"
-money_part: "LG oven bake igniter"
+no_buy_pct: "40%"
 ---
 
 ## LG Oven F11 Error Code — What It Means
 
-LG officially lists F11 as a communication error on its range error-code page. In the field, however, many LG gas ovens displaying F11 are failing to heat or taking too long to preheat. Technicians commonly trace the code to a weak or failed bake igniter or, less often, a faulty oven temperature sensor. The control board sees the oven failing to reach temperature and flags the communication or preheat fault as F11.
+LG documents the F11 error code as a communication error between control components in most range and oven models. The fault indicates that signals between the main control board, display board, oven temperature sensor, or keypad are disrupted or not being received correctly. LG's first recommended action is to press CLEAR/OFF and retry the oven. If the code returns, power off the unit at the circuit breaker for 30 seconds and restore power.
 
-In practice, F11 points to a breakdown in the ignition or temperature-sensing circuit rather than a pure wiring or board fault. The symptom usually appears as an oven that will not heat at all or does not exceed 150°F within five minutes of starting preheat. Because the code has both an official meaning and a field-repair meaning, diagnosis must confirm whether the oven is actually failing to heat before replacing parts.
+The exact meaning of F11 can vary slightly by model family. Some LG product lines also associate similar error codes with thermistor or sensor faults, display board issues, or low supply voltage. Field reports commonly link F11 to a failed oven temperature sensor when the symptom is heating-related, but the underlying cause is often loose wiring, corroded connectors, or a defective control board. Always verify your exact model number and consult the service manual or wiring diagram for that unit before replacing parts.
 
 ## Before You Replace Anything
 
-Homeowners often replace the oven control board first. Instead, visually inspect the bake igniter for cracks or discoloration and check the sensor connector before spending money on a board.
+Homeowners often replace the main control board or oven sensor without first inspecting the wiring harnesses and connectors. Check every plug, pin, and terminal for corrosion, loose fit, or burnt contacts before ordering a board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Weak or failed bake igniter (~60%)** The hot-surface igniter is the most commonly replaced part in LG F11 repairs, typically cracked, discolored, or too weak to draw enough current to open the gas valve.
-- **Faulty oven temperature sensor or thermistor (~25%)** A defective sensor can send incorrect temperature readings to the control, causing the board to flag a preheat failure or communication fault.
-- **Loose, damaged, or corroded wiring or connectors (~10%)** Heat damage or looseness at the igniter or sensor harness can interrupt the signal or current flow and trigger the code.
-- **Control board or communication fault (~5%)** Consistent with LG's official communication-error description, the control itself or its internal wiring may fail, especially if component replacement does not clear the code.
+- **Loose or damaged wiring and connectors (~40%)** Vibration, heat, or age can loosen plugs or corrode terminals between the control board, oven sensor, display board, and keypad, breaking communication.
+- **Failed oven temperature sensor or thermistor (~30%)** A shorted, open, or out-of-spec sensor cannot report temperature correctly, and the control interprets the missing or erratic signal as a communication fault.
+- **Defective main control board or display board (~20%)** Internal faults on either board can prevent proper signal exchange, especially if the code returns immediately after a reset.
+- **Low supply voltage or electrical interference (~10%)** LG lists low voltage as a possible cause for error codes in the same family, and brownouts or poor connections at the outlet can disrupt communication.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Does the oven fail to heat at all or stay below 150°F after five minutes of preheat?</summary>
-<div class="dtree-body"><strong>Yes:</strong> This confirms a no-heat or failed preheat condition. Proceed to inspect the bake igniter and sensor.<br><strong>No:</strong> The oven may be heating normally but the control is flagging a communication fault. Check wiring and connectors first, then consider the control board.</div>
+<details class="dtree"><summary>Does the F11 code clear after you shut off power at the breaker for 30 seconds and restore it?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault was temporary, likely caused by a glitch or brief voltage dip. Monitor the oven for a few cycles. If the code returns, inspect wiring and connectors.<br><strong>No:</strong> The fault is persistent. Move to wiring inspection and sensor testing.</div>
 </details>
 
-<details class="dtree"><summary>Does the bake igniter glow but the burner does not light, or does it look cracked or discolored?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The igniter is weak or failed. Replace it and retest.<br><strong>No:</strong> Check the oven temperature sensor and its wiring next.</div>
+<details class="dtree"><summary>When you inspect the oven sensor connector at the back of the oven cavity, do you see any loose pins, corrosion, or burnt marks?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Clean or replace the connector and retest. A bad connection here is a common cause of F11.<br><strong>No:</strong> The sensor connector is good. Test the sensor resistance and inspect the control board connectors next.</div>
 </details>
 
-<details class="dtree"><summary>Did the code clear after cycling power off for one to five minutes?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The fault may be intermittent. Monitor the oven and inspect connectors for loose or corroded contacts.<br><strong>No:</strong> A hard fault is present. Proceed with igniter and sensor inspection and testing.</div>
+<details class="dtree"><summary>Does the oven sensor measure close to 1000 ohms at room temperature (about 77°F) with a multimeter?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The sensor is likely good. Suspect the control board, display board, or their harnesses.<br><strong>No:</strong> The sensor is out of spec or open. Replace the oven temperature sensor and retest.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Cycle power and clear the code.** Press Clear/Off on the control panel, or turn off the range circuit breaker for 30 seconds to five minutes, then restore power and retest.
-2. **Confirm the symptom.** Start a preheat cycle and observe whether the oven heats at all or stays below 150°F after five minutes, which indicates a no-heat condition rather than a pure communication fault.
-3. **Inspect the bake igniter.** Remove the oven racks and bottom panel to expose the igniter, and look for cracks, discoloration, distortion, or a glow that does not result in gas ignition. Check the igniter wiring and connector for looseness or heat damage.
-4. **Test the oven temperature sensor and wiring.** Locate the sensor probe at the rear wall of the oven cavity, inspect its harness and connector for damage or looseness, and replace the sensor if testing or symptoms suggest a fault.
-5. **Check harnesses and connectors.** Trace the wiring from the igniter and sensor back to the control board, looking for burnt or corroded terminals, broken wires, or open circuits.
-6. **Replace the failed component.** Install a new bake igniter if the old one is cracked or weak. If sensor-related symptoms persist after igniter replacement, install a new oven temperature sensor.
-7. **Reassemble and functional test.** Reinstall the oven bottom panel and racks, restore power, and run a full preheat cycle to verify normal heating and burner ignition without the F11 code returning.
+1. **Verify the exact model number** on the label inside the oven door or on the back panel, because LG's F11 definition is not uniform across all range and oven subtypes.
+2. **Clear the error code** by pressing CLEAR/OFF, then shut off power at the circuit breaker for 30 seconds and restore it. LG recommends this reset as the first step for communication errors.
+3. **Inspect all wiring harnesses and connectors** at the main control board, display board, oven temperature sensor, and keypad. Look for loose pins, corrosion, burnt terminals, or pinched or damaged wires. Reseat every connector firmly.
+4. **Test the oven temperature sensor** by disconnecting it and measuring resistance with a multimeter. One field report cited about 1000 ohms at room temperature (77°F) for an LG sensor, but consult your model's service data for the exact specification. Replace the sensor if it reads open, shorted, or far outside the expected range.
+5. **If the sensor and wiring test good**, suspect the main control board or display board. Check for visible signs of damage, burnt traces, or swollen capacitors on each board. Replace the defective board.
+6. **Reassemble the oven**, restore power, and run a functional bake cycle at 350°F for 15 minutes. Verify that the oven heats correctly and the F11 code does not return.
+7. **If the code persists after all checks**, consult the service manual for your exact model or call a qualified appliance technician. Some communication faults require diagnostic software or voltage measurements beyond typical DIY tools.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| LG oven bake igniter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-oven-f11-error-code&k=LG+oven+bake+igniter&tag=errorcodefixes-20) \| The most commonly replaced part for F11 no-heat faults. One documented repair used part number SGR1401. |
-| LG oven temperature sensor / thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-oven-f11-error-code&k=LG+oven+temperature+sensor+%2F+thermistor&tag=errorcodefixes-20) \| Replace if the igniter tests good or if sensor-related symptoms persist. Confirm the correct sensor for your model. |
-| Wiring harness or connector repair kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-oven-f11-error-code&k=Wiring+harness+or+connector+repair+kit&tag=errorcodefixes-20) \| Needed only if connectors are heat-damaged or corroded beyond cleaning. |
+| LG oven temperature sensor (thermistor) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-oven-f11-error-code&k=LG+oven+temperature+sensor+%28thermistor%29&tag=errorcodefixes-20) \| Match the part number on your existing sensor or use your model number to find the correct replacement. |
+| LG range main control board (PCB) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-oven-f11-error-code&k=LG+range+main+control+board+%28PCB%29&tag=errorcodefixes-20) \| Order by model number. Verify the board is the source of the fault before replacing, as it is the most expensive component. |
+| LG display board or user interface board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-oven-f11-error-code&k=LG+display+board+or+user+interface+board&tag=errorcodefixes-20) \| Required when the fault is isolated to the touchpad or display assembly and wiring tests good. |
+| Wiring harness or connector kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-oven-f11-error-code&k=Wiring+harness+or+connector+kit&tag=errorcodefixes-20) \| Use when terminals are burnt or corroded beyond cleaning. Check compatibility with your model. |
 
 ## When to Call a Pro
 
-Call a professional if you are uncomfortable working with gas appliances or high-voltage wiring. Gas range repair requires shutting off the gas supply, disconnecting and reconnecting gas lines safely, and verifying proper ignition and combustion after reassembly. Although the igniter and sensor are bolt-in parts, the risk of gas leaks and the need to test burner operation make this a job for a qualified appliance technician. If the code returns after both igniter and sensor replacement, the control board or internal wiring may be faulty, and further diagnosis requires a technician with a schematic and meter.
+Call a professional if you are uncomfortable working with 240-volt electrical connections, if the fault persists after you have tested the sensor and inspected all wiring, or if diagnostic software or a service manual is required to pinpoint the failed board. A qualified appliance technician has the tools to measure communication signals between boards, verify supply voltage under load, and access manufacturer-specific diagnostic modes. If your oven is still under warranty or you lack a multimeter and basic hand tools, professional service is the safer and often more cost-effective choice.
 
-**Rough cost:** A pro service call runs about $150–$300.
+**Rough cost:** DIY runs about $30-120 in parts, 30-90 min. A pro service call runs about $150-300.

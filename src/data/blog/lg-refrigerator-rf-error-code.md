@@ -1,8 +1,8 @@
 ---
 title: "LG Refrigerator rF Error Code - Causes & Fix"
-description: "LG rF code means the refrigerator fan motor is not operating normally. Most often caused by frost buildup locking the fan blade."
-pubDatetime: 2026-06-08T04:22:42Z
-modDatetime: 2026-06-08T04:22:42Z
+description: "LG rF error means the refrigerator fan motor has a fault. Most often it's frost/ice locking the fan. Defrost manually and reset."
+pubDatetime: 2026-06-12T21:58:41Z
+modDatetime: 2026-06-12T21:58:41Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,75 +10,72 @@ tags:
   - appliance
   - refrigerator
   - lg
-most_likely_cause: "frost or ice buildup around the evaporator fan area"
-free_checks:
-  - "Check for ice buildup blocking the evaporator fan; defrost manually if present"
-  - "Inspect fan blades for obstructions or damage preventing rotation"
-  - "Verify wire harness connector to fan motor is fully seated and not corroded"
-no_buy_pct: "25%"
+money_part: "LG refrigerator evaporator fan motor assembly"
+most_likely_cause: "Frost or ice buildup around the fan or evaporator"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-money_part: "LG refrigerator evaporator fan motor"
-part_price: "$30-80"
+free_checks:
+  - "Unplug the unit for 2–5 minutes and plug it back in to reset the error code."
+  - "Remove rear interior panel and inspect the evaporator area for frost or ice buildup."
+  - "Check that all air vents inside the refrigerator are not blocked by food or containers."
+part_price: "$40–80"
+no_buy_pct: "60%"
 ---
 
 ## LG Refrigerator rF Error Code — What It Means
 
-The rF code on an LG refrigerator indicates an abnormality in the refrigerator compartment fan motor. The control board has detected that the fan is not running normally or is being prevented from turning. Depending on the model and display behavior, this code can refer to either the freezer or refrigerator compartment evaporator fan motor.
+The rF error code on an LG refrigerator signals an abnormality in the refrigerator compartment fan motor (also called the fresh-food evaporator fan). LG's support pages state that the fault appears when the fan motor does not operate normally. Frost or ice buildup around the fan or evaporator is the most common trigger, physically blocking the fan blade or freezing the motor shaft. Depending on your model and display type, LG may show slightly different variations of the same fault (such as E rF or ER(E) rF), and some platforms also have a separate freezer-fan version of the code, so always verify which compartment fan is affected on your specific unit.
 
-In practical terms, the fan responsible for circulating cold air inside the refrigerator is either mechanically blocked, electrically failed, or not sending the proper feedback signal to the main control board. Frost and ice buildup around the evaporator coil and fan blade area is the most common physical obstruction LG calls out. When the fan cannot spin freely, the control board flags the rF fault to alert you to a cooling problem.
+Because the refrigerator fan circulates cold air from the evaporator coil into the fresh-food section, any failure stops that airflow and can lead to warm temperatures, uneven cooling, or frost accumulation. The error does not necessarily mean the motor itself is dead. Often the fan is simply locked by ice, and a full manual defrost will clear the fault. If the code returns after defrost and reset, the fan motor assembly or the control board sending power to it is the likely culprit.
 
 ## Before You Replace Anything
 
-Many people replace the fan motor first without checking for ice buildup or wiring problems. Before ordering a new motor, unplug the unit, inspect the fan area for frost, and manually spin the fan blade by hand to confirm it moves freely.
+Many people replace the control board first when the rF code appears, but the real problem is usually ice locking the fan or a failed fan motor. Defrost the evaporator area and spin the fan blade by hand before swapping the board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Ice or frost buildup (~50%)** Frost accumulates around the evaporator coil and fan blade, physically locking the fan so it cannot turn.
-- **Failed fan motor (~25%)** The evaporator fan motor itself is mechanically worn, electrically open, or the bearing is seized.
-- **Defrost system failure (~15%)** A bad defrost heater, sensor, or control board logic allows ice to keep forming and repeatedly trigger the fan fault.
-- **Wiring or connector problem (~7%)** Loose pins, corrosion, or broken conductors in the harness between the fan motor and control board interrupt voltage or feedback signals.
-- **Main control board fault (~3%)** The control board fails to deliver proper drive voltage to the fan motor even when the motor and wiring are intact.
+- **Frost or ice buildup around the fan or evaporator (~50%)** Moisture enters the compartment (from door seal leaks, poor leveling, or frequent door openings) and freezes on the evaporator coil and fan, locking the blade and triggering the rF fault.
+- **Fan motor failure or seized bearing (~25%)** The evaporator fan motor itself has failed internally or the bearing has seized, preventing the motor from spinning even when power is applied.
+- **Airflow blockage or door sealing issues (~15%)** Blocked air vents, misaligned doors, torn gaskets, or an unlevel cabinet allow warm, humid air in and reduce airflow, leading to frost accumulation and fan stalling.
+- **Control board output problem (~10%)** The main control board is not sending proper voltage to the fan motor even though the motor is good, a less common field-reported cause.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Can you see or feel heavy frost or ice around the evaporator coils or fan area in the refrigerator compartment?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Frost is blocking the fan. Unplug the unit and defrost it completely before testing further.<br><strong>No:</strong> The problem is likely electrical. Check the fan wiring and test the motor for proper voltage and operation.</div>
+<details class="dtree"><summary>Is there visible frost or ice on the rear interior panel or around the evaporator coils?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fan is likely iced over. Unplug the refrigerator, open all doors, and let it defrost for one day (or up to three days in cold weather). Once thawed, plug back in and check if the code clears.<br><strong>No:</strong> Frost is not the problem. Move to the next check.</div>
 </details>
 
-<details class="dtree"><summary>With the power off, does the fan blade spin freely by hand without sticking or scraping?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The fan is not mechanically blocked. Suspect a motor winding failure, wiring fault, or control board issue.<br><strong>No:</strong> Ice or a foreign object is preventing rotation. Clear the obstruction and check for defrost system faults.</div>
+<details class="dtree"><summary>With power off, can you spin the refrigerator evaporator fan blade freely by hand?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fan is not mechanically seized. The motor or control board is likely the issue. Restore power and listen for the fan running, or measure voltage at the fan connector.<br><strong>No:</strong> The fan is seized or obstructed. Check for ice, debris, or a locked bearing, then replace the fan motor assembly if the bearing is bad.</div>
 </details>
 
-<details class="dtree"><summary>After a full defrost and 24–48 hours of normal operation, does the rF code return?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The defrost system is not working properly. Diagnose the defrost heater, sensor, and related control board circuit.<br><strong>No:</strong> The one-time frost buildup is resolved. Monitor for any recurrence and check door seals to prevent future frost.</div>
+<details class="dtree"><summary>After defrost and reset, does the rF code return within a few hours?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault is persistent. The fan motor assembly or control board needs replacement, or there is a recurring moisture/defrost system problem.<br><strong>No:</strong> The issue was ice buildup. Monitor for a few days and address any door seal or airflow problems to prevent future frost.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Unplug the refrigerator** for at least 2 to 5 minutes to reset the control board, then restore power and check if the code clears.
-2. **Open both doors and inspect** the refrigerator and freezer compartments for visible frost or ice buildup around the evaporator coil, fan blade, and air vents.
-3. **If frost is present, unplug the unit** and leave both doors open for at least 8 hours (ideally one full day in summer, up to three days in winter) to allow complete melting.
-4. **Remove the evaporator cover panel** (consult your model's service manual for the exact location and fasteners) and manually spin the fan blade by hand to confirm it rotates freely without binding.
-5. **Inspect all wiring and connectors** at the fan motor and control board for loose pins, corrosion, burnt contacts, or broken wires.
-6. **Test the fan motor voltage** using a multimeter while the unit is powered on and the refrigerator is calling for cooling (voltage should typically be 8 to 12 V on BLDC fan circuits, but consult your model's service data for exact specs).
-7. **If voltage is present but the fan does not run**, replace the fan motor. If no voltage is present at the motor connector, suspect the wiring harness or main control board and trace the circuit accordingly.
-8. **Reassemble all panels**, plug in the refrigerator, and allow 24 to 48 hours of normal operation to confirm the fan runs continuously and the rF code does not return.
+1. **Unplug the refrigerator** or switch off the circuit breaker and wait 2 to 5 minutes, then restore power to reset the control board and clear the rF code.
+2. **Remove the rear interior panel** in the refrigerator compartment (usually held by screws or clips) to expose the evaporator coil and fan assembly, then inspect for frost or ice buildup.
+3. **Defrost manually if ice is present** by leaving the unit unplugged with all doors open for approximately one day in warm weather or up to three days in cold weather, allowing all frost to melt completely.
+4. **Check door alignment and gaskets** by closing each door on a dollar bill and tugging gently. If the bill slides out easily, the gasket is not sealing and should be cleaned or replaced.
+5. **Verify the fan spins freely** by hand with power off. If the blade is locked or stiff, remove any debris, ice, or check for a seized motor bearing.
+6. **Measure voltage at the fan motor connector** (with power on) using a multimeter. If proper voltage is present but the fan does not run, replace the fan motor assembly. If voltage is absent or erratic, suspect the control board or wiring.
+7. **Reassemble the unit and monitor** for 24–48 hours. If the rF code returns, replace the evaporator fan motor assembly or call a technician to inspect the control board and defrost system.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| LG refrigerator evaporator fan motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-refrigerator-rf-error-code&k=LG+refrigerator+evaporator+fan+motor&tag=errorcodefixes-20) \| Verify the exact part number from your model tag or service manual before ordering. |
-| Evaporator fan assembly (with panel) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-refrigerator-rf-error-code&k=Evaporator+fan+assembly+%28with+panel%29&tag=errorcodefixes-20) \| Some models use a complete assembly that includes the motor, blade, and mounting bracket (example part ADJ7325266 for certain models). |
-| Defrost heater | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-refrigerator-rf-error-code&k=Defrost+heater&tag=errorcodefixes-20) \| Replace if the fan fault is caused by recurring frost and the heater tests open or visibly damaged. |
+| LG refrigerator evaporator fan motor assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-refrigerator-rf-error-code&k=LG+refrigerator+evaporator+fan+motor+assembly&tag=errorcodefixes-20) \| Verify your model number before ordering. Some French-door models use a combined fan-and-panel assembly (for example part ADJ7325266 on certain models), while others have a standalone motor. |
+| LG refrigerator main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-refrigerator-rf-error-code&k=LG+refrigerator+main+control+board&tag=errorcodefixes-20) \| Replace only after confirming the fan motor is good and voltage is not reaching the fan. Model-specific, so match your board part number exactly. |
 
 ## When to Call a Pro
 
-Call a professional if you are uncomfortable working with electrical connections or removing internal panels in a live appliance. A technician should also diagnose the defrost system if frost keeps returning after a manual defrost, since that points to a deeper problem with the heater, sensor, or control board logic. If you have tested the fan motor and confirmed proper voltage but the code persists, a pro can trace feedback circuits and check the control board output with specialized tools. Finally, if you lack a service manual for your specific LG model number, a qualified appliance technician has access to the exact wiring diagrams, voltage specifications, and part numbers needed for an accurate repair.
+Call a technician if you are not comfortable working inside the refrigerator cabinet or handling live voltage measurements. A pro should also be called if the rF code returns after you have defrosted the evaporator and confirmed the fan spins freely, since the fault may then involve the control board, defrost timer, or sealed-system issues that require diagnostic tools and refrigerant handling. If your unit is still under warranty, LG recommends contacting their service network rather than attempting DIY board or motor replacement.
 
-**Rough cost:** DIY runs about $30–80 in parts (fan motor), 1–2 hours plus defrost time. A pro service call runs about $150–300 service call and part replacement.
+**Rough cost:** DIY runs about $40–80 in parts, 1–2 hours. A pro service call runs about $150–300.

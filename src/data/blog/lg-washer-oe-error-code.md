@@ -1,8 +1,8 @@
 ---
 title: "LG Washer OE Error Code - Causes & Fix"
-description: "OE means the washer cannot drain water. Most often a clogged drain filter or kinked hose blocks the pump. Clean the filter and check the hose."
-pubDatetime: 2026-06-08T04:29:43Z
-modDatetime: 2026-06-08T04:29:43Z
+description: "OE means your LG washer cannot drain. Most often a kinked drain hose or clogged pump filter is the cause. Clean the filter first."
+pubDatetime: 2026-06-12T21:59:53Z
+modDatetime: 2026-06-12T21:59:53Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,75 +10,72 @@ tags:
   - appliance
   - washer
   - lg
-most_likely_cause: "clogged drain pump filter or kinked drain hose"
-free_checks:
-  - "Clean drain pump filter (front lower left panel) of coins, lint, and debris"
-  - "Check drain hose for kinks, clogs, or excessive height above washer"
-  - "Verify drain hose isn't frozen in standpipe; power-cycle after clearing"
-no_buy_pct: "60%"
-likelihood: "the most common cause"
+money_part: "LG washer drain pump assembly"
+most_likely_cause: "clogged drain pump filter"
+likelihood: "the most common first check"
 diy_or_pro: "diy"
-money_part: "LG drain pump filter"
-part_price: "$15-50"
+free_checks:
+  - "Check the drain hose behind the washer for kinks, crushing, or pinching and straighten it"
+  - "Drain the tub manually through the small drain hose, then remove and clean the drain pump filter of lint, coins, and debris"
+  - "Run a spin-only cycle and listen for the drain pump humming to confirm it is being commanded on"
+part_price: "$25-60"
+no_buy_pct: "70%"
 ---
 
 ## LG Washer OE Error Code — What It Means
 
-The LG OE error code signals a drainage failure. Your washer has detected that water is not leaving the tub within the expected time during the drain or spin cycle. The machine stops and flags the problem to prevent overflow or water damage. This is strictly a drain issue, not an out-of-balance condition. The tub still holds wash water and the pump circuit has either been blocked or has failed mechanically.
+LG defines OE as a drainage failure. Water is not leaving the tub during the wash cycle as expected. The washer detects that water remains in the drum after the drain pump has been commanded to run.
+
+LG's troubleshooting flow for OE centers on confirming whether the drain path (hose and filter) is clear and whether the pump motor actually runs during a spin-only test. If the hose and filter are open but the pump does not move water, the pump assembly itself has failed.
 
 ## Before You Replace Anything
 
-Many people buy a new drain pump assembly before checking the filter and hose. Pull and clean the filter and straighten the hose first. Nine times out of ten the pump itself is still good.
+Homeowners sometimes replace the drain pump assembly before checking the filter and hose. Always remove and clean the filter and straighten the drain hose before ordering a new pump.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Clogged drain pump filter (~45%)** Lint, coins, hairpins, and fabric debris collect in the filter housing and prevent water from reaching the pump impeller.
-- **Kinked or pinched drain hose (~25%)** The external drain hose behind the washer is bent, crushed by the cabinet, or routed too low and restricts flow.
-- **Blocked pump impeller or inlet (~15%)** A sock, coin, or piece of wire lodges in the impeller chamber and jams the rotor so the motor hums but does not spin.
-- **Failed drain pump motor (~10%)** The pump motor windings are open, the rotor is seized, or the internal capacitor has failed so the pump does not run even when powered.
-- **Household drain blockage (~5%)** The standpipe, sink tailpiece, or floor drain is clogged so water backs up into the washer hose and the sensor sees a full tub.
+- **Clogged drain pump filter (~40%)** Lint, coins, and other debris accumulate in the filter and block the drain path.
+- **Kinked or clogged drain hose (~30%)** The drain hose is pinched behind the washer, crushed, or blocked with buildup.
+- **Blocked pump impeller or housing (~15%)** Debris lodges in the pump cavity or impeller, preventing the pump from moving water even when it runs.
+- **Failed drain pump motor or assembly (~15%)** The pump motor does not run, is noisy, or cannot develop pressure even when the filter and hose are clear.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Is the drain hose behind the washer kinked, crushed, or looped higher than the drum?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Straighten the hose and secure it so the outlet sits below the top of the tub, then run a drain cycle to test.<br><strong>No:</strong> The hose routing is correct. Move to the next check.</div>
+<details class="dtree"><summary>Is the drain hose behind the washer kinked, crushed, or pinched?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Straighten the hose, reposition the washer away from the wall, and run a spin-only test to see if the code clears.<br><strong>No:</strong> Move to the next check: the drain pump filter.</div>
 </details>
 
-<details class="dtree"><summary>Can you open the filter access door at the lower front and remove the filter cap without resistance?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Pull the filter, rinse it under a faucet, clear any debris from the housing, reinstall snugly, and run a spin test.<br><strong>No:</strong> The filter may be cross-threaded or jammed by an object. Gently rock the cap while turning counterclockwise or call for service if it will not budge.</div>
+<details class="dtree"><summary>Does water drain out when you open the small manual drain hose at the filter door?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Water is still in the tub. Remove and clean the drain pump filter, then reinstall it securely and run a rinse/spin test.<br><strong>No:</strong> The tub is already empty or the filter is completely clogged. Clean the filter and pump cavity, then test.</div>
 </details>
 
-<details class="dtree"><summary>After clearing the filter and hose, does the washer still leave water in the tub at the end of a drain cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The pump assembly itself has likely failed and needs replacement.<br><strong>No:</strong> The repair is complete. Run a full wash cycle to confirm normal operation.</div>
+<details class="dtree"><summary>Do you hear the drain pump humming or running during a spin-only cycle after cleaning the filter?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The pump is commanded on but still cannot drain. Inspect the pump impeller for debris or replace the pump assembly if it is jammed or weak.<br><strong>No:</strong> The pump is not running. Check wiring to the pump or replace the drain pump assembly.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Unplug the washer** and turn off the water supply so you can work safely without risk of a cycle starting.
-2. **Move the washer forward** enough to inspect the external drain hose where it exits the cabinet and enters the standpipe or laundry sink.
-3. **Straighten any kinks** and confirm the hose outlet is lower than the drum and not inserted more than four to six inches into the standpipe.
-4. **Open the lower access panel** at the front of the washer (usually a hinged door or snap-off cover near the floor).
-5. **Pull the small emergency drain hose** if your model has one, remove the cap, aim into a shallow pan, and let residual water gravity-drain until it stops.
-6. **Unscrew the large pump filter cap** counterclockwise, pull it straight out, and remove all lint, coins, and debris from both the filter and the filter housing.
-7. **Reach into the pump inlet** behind the filter opening and rotate the impeller by hand to check for jammed objects or rough bearing noise.
-8. **Reinstall the clean filter** by turning it clockwise until snug, tuck the emergency drain hose back into its clip, and close the access door.
-9. **Plug in the washer**, select Spin or Drain, and observe whether the pump runs steadily and water flows out of the drain hose.
-10. **Replace the drain pump assembly** if the filter and hose are clear but the pump does not move water or makes a loud hum without spinning.
+1. **Unplug the washer** from the wall outlet and turn off the water supply.
+2. **Pull the washer forward** and inspect the drain hose behind the machine for kinks, crushing, or pinching. Straighten the hose and check the end at the standpipe or laundry sink for clogs.
+3. **Open the lower access panel** at the front and locate the small drain hose and the drain pump filter cap.
+4. **Place a shallow pan or towels** under the filter door, pull out the small drain hose, remove the plug, and drain the remaining water into the pan.
+5. **Unscrew and remove the drain pump filter**, then clean out all lint, coins, and debris. Inspect the pump cavity behind the filter for foreign objects or buildup.
+6. **Reinstall the filter securely** and close the drain hose plug to prevent leaks.
+7. **Plug the washer back in** and run a spin-only or rinse/spin cycle to verify the pump runs and water drains. If the code persists and the hose and filter are clear, replace the drain pump assembly.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| LG drain pump filter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-oe-error-code&k=LG+drain+pump+filter&tag=errorcodefixes-20) \| Usually a threaded cap with a mesh basket. Check your model number for the exact filter design. |
-| LG drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-oe-error-code&k=LG+drain+pump+assembly&tag=errorcodefixes-20) \| Includes motor, impeller, and inlet/outlet ports. Verify voltage and mounting style before ordering. |
-| Washer drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-oe-error-code&k=Washer+drain+hose&tag=errorcodefixes-20) \| Corrugated or smooth rubber, typically 1¼-inch ID. Replace if cracked or permanently kinked. |
+| LG washer drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-oe-error-code&k=LG+washer+drain+pump+assembly&tag=errorcodefixes-20) \| Verify your model number before ordering. Most LG front-load pumps are interchangeable within a series. |
+| Drain pump filter cap | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-oe-error-code&k=Drain+pump+filter+cap&tag=errorcodefixes-20) \| Only needed if the original is cracked or the threads are stripped. |
 
 ## When to Call a Pro
 
-Call a technician if the filter and hose are confirmed clear, the impeller spins freely by hand, yet the pump still will not move water when powered. That points to an electrical fault in the pump motor windings, a failed pump capacitor, or a control-board output problem that requires multimeter testing and possibly a new pump assembly or harness repair. Also call for help if you cannot remove the filter cap without forcing it, if water leaks from the filter housing after reinstallation, or if the error returns immediately after a successful repair and you suspect a wiring or sensor issue beyond the drain path.
+Call a technician if you have drained the tub manually, cleaned the filter, straightened the hose, and the washer still shows OE after a spin test. A pro can test the pump motor windings, inspect the internal sump hoses for hidden clogs, and confirm the control board is sending the correct drain signal. Also call if you are uncomfortable tilting the washer to access the pump from below or if water leaks from the filter housing after you reinstall the cap.
 
-**Rough cost:** DIY runs about $15–50 in parts, 30–60 min. A pro service call runs about $150–280.
+**Rough cost:** DIY runs about $15-60 in parts, 30-60 min. A pro service call runs about $150-250.
