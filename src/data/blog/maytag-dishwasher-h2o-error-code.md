@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - maytag
 most_likely_cause: "closed or partially closed water supply shutoff valve"
+free_checks:
+  - "Check home water supply valve is fully open and inlet hose has no kinks or blockages"
+  - "Clean inlet valve screen filter where hose connects to dishwasher (often clogged with sediment)"
+  - "Run a drain cycle and verify drain hose isn't kinked (won't fill if can't drain first)"
+no_buy_pct: "40%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Water inlet valve"

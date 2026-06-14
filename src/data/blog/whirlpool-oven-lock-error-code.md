@@ -11,6 +11,11 @@ tags:
   - oven
   - whirlpool
 most_likely_cause: "Accidental control lock activation"
+free_checks:
+  - "Power-cycle the oven (breaker off 2+ minutes) to clear latch motor fault"
+  - "Check for obstructions in door latch striker preventing full retraction"
+  - "Inspect door latch/lock wiring harness connector for looseness or corrosion"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool oven door lock assembly"

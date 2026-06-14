@@ -1,0 +1,572 @@
+[
+  {
+    "verdict": "reject",
+    "no_buy_pct_final": null,
+    "free_checks_final": [
+      "Redistribute unbalanced load and ensure washer is level on all four feet",
+      "Inspect and reseat door lock wiring harness connector for corrosion or looseness"
+    ],
+    "part_price_final": "$25-65",
+    "reason": "DC code on Samsung washers is unbalanced load detection, not door lock failure; door lock assembly is wrong part for this code\u2014DC needs load redistribution/leveling or possibly suspension/tub issues, not a door lock replacement",
+    "slug": "samsung-washer-dc-error-code"
+  },
+  {
+    "verdict": "reject",
+    "no_buy_pct_final": null,
+    "free_checks_final": [],
+    "part_price_final": null,
+    "reason": "GF code on LG refrigerators indicates freezer fan failure, not water inlet valve issue; water inlet valve troubleshooting is irrelevant to this error code.",
+    "slug": "lg-refrigerator-gf-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Power-cycle the oven at breaker for 5 minutes to clear transient control board glitch",
+      "Visually inspect door latch mechanism for obstructions, grease buildup, or misalignment preventing full travel",
+      "Check wiring harness connections at door latch assembly and control board for loose or corroded terminals"
+    ],
+    "part_price_final": "$35-85",
+    "reason": "F7 is legitimately a latch assembly failure in 80-85% of cases; ~15% no-buy from transient faults, obstructions, or connector issues is defensible field experience, checks are safe and correct.",
+    "slug": "whirlpool-oven-f7-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Power cycle the range at breaker for 60 seconds to clear transient latch fault",
+      "Inspect door latch striker alignment and adjust if misaligned",
+      "Check wiring harness connectors at door lock motor assembly for looseness or corrosion"
+    ],
+    "part_price_final": "$65-140",
+    "reason": "F93 door lock fault is legitimately ~85% mechanical/electrical assembly failure; 15% no-buy from resets/connectors/alignment is defensible and checks are safe.",
+    "slug": "frigidaire-range-f93-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "40%",
+    "free_checks_final": [
+      "Check inlet hose screens at valve for debris/clogs and verify both hot/cold shut-off valves are fully open",
+      "Confirm home water pressure is 20-120 PSI and test inlet valve harness connector for tight seating/corrosion",
+      "Run diagnostics mode to verify E1 timing; check pressure switch hose for kinks/clogs if partial fill occurs"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "E1 fill-timeout commonly caused by clogged screens, low pressure, or kinked hoses; 40% no-buy is defensible given field frequency of these free-fix causes vs. actual valve solenoid failure.",
+    "slug": "maytag-washer-f8-e1-error-code"
+  },
+  {
+    "verdict": "reject",
+    "no_buy_pct_final": null,
+    "free_checks_final": [],
+    "part_price_final": null,
+    "reason": "E20 is a drain error; the part listed (heating element) is completely wrong for this code and the analysis conflates drain pump issues with heating element, creating unsafe advice.",
+    "slug": "bosch-washer-e20-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "40%",
+    "free_checks_final": [
+      "Check inlet hose screens/filters at valve connection for debris/sediment blockage",
+      "Verify both hot and cold water supply valves are fully open and hoses not kinked",
+      "Test inlet valve resistance (coils should read 500-1500 ohms); check wiring harness connector for corrosion"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "EC1 water fill faults commonly caused by clogged screens/low pressure; 40% no-buy estimate defensible, checks are free/safe/diagnostic, valve is the actual part when needed.",
+    "slug": "electrolux-washer-ec1-error-code"
+  },
+  {
+    "verdict": "reject",
+    "no_buy_pct_final": null,
+    "free_checks_final": [
+      "Reset washer (unplug 2 minutes) to clear transient sensor fault",
+      "Check wire harness connections at heating element and thermistor for corrosion or looseness",
+      "Test thermistor resistance (~50k\u03a9 at room temp) before replacing element"
+    ],
+    "part_price_final": "$25-60",
+    "reason": "HE code on Samsung washers is heating element failure; the 'part' listed IS the heating element itself\u2014this violates the rule against labeling heating-element faults as having a no-buy percentage since element burnout is the dominant cause.",
+    "slug": "samsung-washer-he-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Turn off breaker for 5 minutes to clear potential relay board glitch",
+      "Inspect wire harness connections between control board and bake element/igniter for loose or corroded pins"
+    ],
+    "part_price_final": "$25-60",
+    "reason": "F11 is predominantly a failed igniter/shorted element fault; 15% no-buy estimate for connector issues and transient board glitches is defensible, checks are safe and appropriate.",
+    "slug": "lg-oven-f11-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Power-cycle the oven (breaker off 2+ minutes) to clear latch motor fault",
+      "Check for obstructions in door latch striker preventing full retraction",
+      "Inspect door latch/lock wiring harness connector for looseness or corrosion"
+    ],
+    "part_price_final": "$80-180",
+    "reason": "LOCK errors on Whirlpool ovens are indeed predominantly failed lock motor assemblies; 15% no-buy rate for resets/jams/connector issues is defensible and conservative.",
+    "slug": "whirlpool-oven-lock-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "30%",
+    "free_checks_final": [
+      "Verify both hot and cold water supply valves are fully open and hoses are not kinked",
+      "Clean inlet valve screens/filters for sediment or debris",
+      "Check home water pressure is at least 20 psi"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "F8E1 water flow errors commonly trace to supply issues/clogs before valve failure; 30% no-buy is defensible field experience, checks are safe and standard.",
+    "slug": "maytag-washer-f8e1-error-code"
+  },
+  {
+    "verdict": "reject",
+    "no_buy_pct_final": null,
+    "free_checks_final": [
+      "Reset dishwasher by powering off for 5 minutes",
+      "Inspect heating element wire connectors at sump base for corrosion or looseness",
+      "Verify inlet water temperature is at least 120\u00b0F"
+    ],
+    "part_price_final": "$80-160",
+    "reason": "E04 is a heating element fault; element failures are the part itself (resistance failure/burnout), not a 'cheap fix' \u2014 no_buy should be null per the hard honesty rule against labeling heating-element faults as avoidable.",
+    "slug": "bosch-dishwasher-e04-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check for kinked drain hose or clogged drain filter/pump screen at front lower panel",
+      "Verify drain hose is elevated 24-39 inches and not pushed more than 8 inches into standpipe",
+      "Run empty drain cycle and listen for pump humming without water movement"
+    ],
+    "part_price_final": "$50-120",
+    "reason": "EF1 drain timeout is legitimately majority obstruction/installation issues; 60% no-buy is defensible, checks are safe and correct, pump price range is accurate.",
+    "slug": "electrolux-washer-ef1-error-code"
+  },
+  {
+    "verdict": "reject",
+    "no_buy_pct_final": null,
+    "free_checks_final": [
+      "Check for loose or corroded wire connections at the heating element terminals",
+      "Verify proper water fill level",
+      "Inspect thermistor wiring and connector for damage"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "HE1 is a heating element failure code; the element itself is the part, not a cheap fix\u2014violates the rule against labeling heating-element faults as having significant no-buy percentage.",
+    "slug": "samsung-washer-he1-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "30%",
+    "free_checks_final": [
+      "Power cycle breaker for 2 minutes to clear transient logic fault",
+      "Inspect door latch for obstructions, grease buildup, or misalignment preventing full travel",
+      "Wiggle and reseat wiring harness connectors at latch assembly and control board"
+    ],
+    "part_price_final": "$60-140",
+    "reason": "F5 door latch errors do resolve ~30% with resets/cleaning/connector reseats before latch motor/switch replacement needed; checks are safe and appropriate.",
+    "slug": "whirlpool-range-f5-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check drain pump filter and impeller for clogs or foreign objects (coins, socks, debris)",
+      "Inspect drain hose for kinks, clogs, or improper installation height (39\" max)",
+      "Verify drain pump wire harness connections are secure and corrosion-free"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "E1 drain timeout is well-documented as frequently caused by blockages/hose issues before pump failure; 60% no-buy is defensible field experience, checks are safe and appropriate.",
+    "slug": "maytag-washer-f9-e1-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "80%",
+    "free_checks_final": [
+      "Clean drain pump filter of lint, coins, and debris; check drain hose for kinks or clogs",
+      "Verify drain hose is inserted no more than 5 inches into standpipe with proper venting",
+      "Run empty spin cycle after clearing obstructions to reset error"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "EF5 drain timeout is indeed predominantly clogged filters/kinked hoses in field experience; 80% no-buy is defensible and checks are safe/free.",
+    "slug": "electrolux-washer-ef5-error-code"
+  },
+  {
+    "verdict": "reject",
+    "no_buy_pct_final": null,
+    "free_checks_final": [
+      "Power-cycle washer (unplug 2 minutes) to clear potential false HR code",
+      "Inspect wire connections at heating element and thermistor for corrosion or looseness",
+      "Test heating element resistance with multimeter (should read 8-15 ohms; infinite = open/failed)"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "HR code on Samsung washers directly indicates heating element failure in vast majority of cases (~85%+ per the tech's own rationale); this is a heating-element fault\u2014explicitly excluded from 'cheap fix' category per the hard honesty rule.",
+    "slug": "samsung-washer-hr-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Power cycle the range at breaker for 2 minutes to clear control board glitch",
+      "Inspect door latch mechanism for food debris or grease binding; clean and manually cycle latch",
+      "Check wiring harness connectors at door latch assembly and control board for looseness or corrosion"
+    ],
+    "part_price_final": "$45-110",
+    "reason": "F7 door latch fault is predominantly failed latch assembly (motor/switch), but connector/debris/glitch causes justify ~15% no-buy; checks are safe and appropriate.",
+    "slug": "whirlpool-range-f7-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check drain pump filter and impeller for debris (coins, socks, small objects)",
+      "Inspect drain hose for kinks, clogs, or excessive height (39\" max)",
+      "Verify drain hose isn't inserted too far into standpipe (causes siphon)"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "F9E1 drain timeout defensibly splits between blockages/installation issues vs actual pump failure; 60% no-buy is reasonable for this code, checks are safe and correct.",
+    "slug": "maytag-washer-f9e1-error-code"
+  },
+  {
+    "verdict": "reject",
+    "no_buy_pct_final": null,
+    "free_checks_final": [
+      "Check inlet hoses for kinks and verify both hot/cold supply valves are fully open with adequate water pressure (min 20 psi)",
+      "Clean inlet valve screens/filters at hose connections\u2014often clogged with sediment or debris",
+      "Run drain/spin cycle to verify drain pump works and OE isn't misdiagnosed as inlet issue"
+    ],
+    "part_price_final": "$25-65",
+    "reason": "OE on Samsung is an overflow/drain error, not a water-inlet error; the proposed diagnosis confuses it with water-fill codes (4E/4C) where inlet valve/screens are relevant\u2014OE primarily indicates drain pump failure, clogged drain filter/hose, or pressure sensor issues, making inlet valve rarely the fix.",
+    "slug": "samsung-washer-oe-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "20%",
+    "free_checks_final": [
+      "Clean door latch area and strike plate of food debris and grease, test door closure",
+      "Inspect door latch spring for visible damage or loss of tension",
+      "Check door alignment and hinges, verify door closes flush with cabinet"
+    ],
+    "part_price_final": "$25-65",
+    "reason": "F05 door latch faults genuinely do resolve ~20% via cleaning/alignment; most require mechanical latch assembly replacement, estimate is defensible and checks are safe.",
+    "slug": "whirlpool-microwave-f05-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check drain pump filter/coin trap for debris, coins, or small objects and clean if clogged",
+      "Inspect drain hose for kinks, clogs, or improper installation (max 96\" length, 18-96\" height)",
+      "Verify drain hose is not inserted more than 4.5\" into standpipe to prevent siphon/air lock"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "LD code commonly triggered by blockages/hose restrictions before pump failure; 60% no-buy is defensible field estimate, checks are safe/free, price reasonable for drain pump",
+    "slug": "maytag-washer-ld-error-code"
+  },
+  {
+    "verdict": "apply_qualitative",
+    "no_buy_pct_final": null,
+    "free_checks_final": [
+      "Check inlet hose screens/filters for debris and clean; verify hoses aren't kinked",
+      "Test water supply pressure (needs 20+ PSI both hot/cold) and confirm shutoff valves fully open",
+      "Power-cycle washer (unplug 2 min) to clear transient sensor glitches"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "Checks are valid and safe, but OF code field data is too sparse to defend a specific 40% no-buy estimate\u2014could be 20-60% depending on water quality and age; returning null is honest.",
+    "slug": "samsung-washer-of-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check home water supply valves are fully open and inlet hose screens aren't clogged",
+      "Verify inlet hoses aren't kinked and water pressure is adequate (20+ PSI)",
+      "Power-cycle washer and ensure drain hose isn't siphoning (proper air gap)"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "LF code is well-documented as frequently caused by supply issues, clogged screens, or low pressure before valve failure; 60% no-buy is defensible field estimate, checks are safe and correct",
+    "slug": "maytag-washer-lf-error-code"
+  },
+  {
+    "verdict": "apply_qualitative",
+    "no_buy_pct_final": null,
+    "free_checks_final": [
+      "Reset dishwasher (power off 5 min) to clear transient sensor faults",
+      "Test heating element continuity with multimeter (should read 15-30\u03a9); inspect for visible damage or corrosion"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "Checks are safe and correct; HC code predominantly indicates failed heating element requiring replacement, but no defensible field-frequency data to quantify no-buy percentage.",
+    "slug": "samsung-dishwasher-hc-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "40%",
+    "free_checks_final": [
+      "Check home water supply shutoff valve is fully open and verify adequate water pressure (min 20 psi)",
+      "Inspect inlet valve screen/filter for debris or sediment buildup and clean if clogged",
+      "Test inlet valve electrical connector for proper seating and check for corrosion"
+    ],
+    "part_price_final": "$50-120",
+    "reason": "F8E5 fill timeout commonly caused by supply issues, kinked hoses, or clogged screens; 40% no-buy rate is defensible field knowledge, checks are safe and free.",
+    "slug": "maytag-dishwasher-f8e5-error-code"
+  },
+  {
+    "verdict": "apply_qualitative",
+    "no_buy_pct_final": null,
+    "free_checks_final": [
+      "Visually inspect heating element for visible breaks or corrosion; measure continuity across terminals (should be 15-30 ohms)",
+      "Check wiring harness connections to heating element for corrosion or looseness",
+      "Verify 120V reaching element during heating cycle; test hi-limit thermostat for continuity"
+    ],
+    "part_price_final": "$50-120",
+    "reason": "Checks are safe and correct; tech correctly returned null for no_buy_pct because HE codes on Samsung dishwashers overwhelmingly indicate actual element failure\u2014wiring/connection faults are uncommon, no defensible estimate available.",
+    "slug": "samsung-dishwasher-he-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "40%",
+    "free_checks_final": [
+      "Clear standing water and remove/clean drain filter and sump area of debris, food particles, and foreign objects",
+      "Inspect drain hose for kinks, clogs, or missing high-loop/air-gap causing backflow",
+      "Power-cycle dishwasher (breaker off 2 minutes) to clear transient faults, then run drain cycle"
+    ],
+    "part_price_final": "$50-120",
+    "reason": "F9E1 drain timeout has well-documented ~40% clog/hose resolution rate before pump replacement; checks are safe and standard first-line diagnostics.",
+    "slug": "maytag-dishwasher-f9e1-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check drain hose for kinks or clogs, verify garbage disposal knockout plug removed if applicable",
+      "Remove and clean drain filter assembly at dishwasher bottom",
+      "Verify drain pump impeller spins freely by hand after removing filter"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "Samsung OE commonly caused by hose kinks, disposal plugs, and filter clogs; 60% no-buy is defensible field estimate, checks are safe DIY tasks.",
+    "slug": "samsung-dishwasher-oe-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "40%",
+    "free_checks_final": [
+      "Check home water supply shutoff valve is fully open and inspect fill hose for kinks or blockages",
+      "Clean inlet valve screen filter where hose connects to dishwasher for sediment/debris",
+      "Verify adequate water pressure (min 20 psi) and test that other household fixtures flow normally"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "FAE5 fill errors commonly stem from supply issues, kinked hoses, and clogged screens before valve failure; 40% no-buy is defensible and checks are safe/free.",
+    "slug": "maytag-dishwasher-fae5-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "80%",
+    "free_checks_final": [
+      "Clean drain pump filter by twisting counterclockwise and removing all debris",
+      "Inspect drain hose for kinks, clogs, and proper air-gap installation",
+      "Power-cycle dishwasher (breaker off 2 minutes) to clear transient error"
+    ],
+    "part_price_final": "$25-50",
+    "reason": "SE code is drainage error; filter clogs and hose issues are indeed the vast majority of cases before pump replacement needed.",
+    "slug": "samsung-dishwasher-se-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "40%",
+    "free_checks_final": [
+      "Check home water supply valve is fully open and inlet hose has no kinks or blockages",
+      "Clean inlet valve screen filter where hose connects to dishwasher (often clogged with sediment)",
+      "Run a drain cycle and verify drain hose isn't kinked (won't fill if can't drain first)"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "H2O/fill codes commonly caused by clogged screens, kinked hoses, or closed supply valves; 40% no-buy is defensible given how often these free fixes resolve the issue before valve replacement needed.",
+    "slug": "maytag-dishwasher-h2o-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Check for ice buildup blocking the evaporator fan blade; defrost manually if frozen",
+      "Verify fan blade spins freely by hand with power off; remove any obstructions",
+      "Reseat the 3-wire connector at the evaporator fan motor"
+    ],
+    "part_price_final": "$25-60",
+    "reason": "21E freezer fan error; ice blockage/obstruction ~15% is defensible field estimate, checks are safe and free, motor itself is the cheap part when failed",
+    "slug": "samsung-refrigerator-21e-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Check for ice buildup blocking evaporator fan; manually defrost if frozen",
+      "Inspect fan blade for obstructions or binding; spin manually to test",
+      "Reseat wiring harness connector at evaporator fan motor"
+    ],
+    "part_price_final": "$40-$85",
+    "reason": "PO code reliably indicates evaporator fan motor failure; ice blockage and connector issues are minority causes, 15% no-buy is defensible and checks are safe/appropriate.",
+    "slug": "maytag-refrigerator-po-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Check for ice buildup blocking evaporator fan; manually defrost freezer 8-12 hours with doors open",
+      "Verify fan spins freely by hand when unplugged; remove any frost or debris obstruction",
+      "Reseat the 3-wire harness connector at the evaporator fan motor"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "22E is motor failure code; frost-lock and connector issues are documented minority causes, 15% no-buy estimate is defensible, checks are safe and free",
+    "slug": "samsung-refrigerator-22e-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Power cycle the oven (breaker off 2 minutes) to clear transient control board glitch",
+      "Inspect door latch and strike alignment for binding or obstructions",
+      "Check wiring connectors at door latch and control board for looseness or corrosion"
+    ],
+    "part_price_final": "$35-85",
+    "reason": "F5 is well-documented as door latch failure; 15% no-buy is defensible (power cycle clears transient faults, wiring/alignment issues occasionally present), checks are safe and standard, part price reasonable for latch assembly.",
+    "slug": "maytag-oven-f5-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "30%",
+    "free_checks_final": [
+      "Power cycle the refrigerator for 2 minutes, then test ice maker reset button (hold 8-10 seconds)",
+      "Verify freezer temperature is 0-5\u00b0F and ice maker arm moves freely without obstructions",
+      "Check wire harness connector at ice maker for corrosion or looseness"
+    ],
+    "part_price_final": "$85-150",
+    "reason": "39E is a communication/sensor fault where connector issues and temperature problems are plausible non-part causes; 30% no-buy is defensible and checks are safe/free.",
+    "slug": "samsung-refrigerator-39e-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Power cycle breaker for 5 minutes to reset control board lock state",
+      "Check door latch striker alignment and ensure door closes flush without binding",
+      "Inspect door lock wiring harness connector at control board for corrosion or looseness"
+    ],
+    "part_price_final": "$80-180",
+    "reason": "LOCK code on Maytag ovens is genuinely dominated by failed door lock motor/mechanism; 15% no-buy for control board glitches and connector issues is defensible, checks are safe and appropriate.",
+    "slug": "maytag-oven-lock-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Power-cycle the oven (flip breaker for 5 minutes) to clear transient lock fault",
+      "Inspect door latch striker alignment and clean latch mechanism of grease/debris"
+    ],
+    "part_price_final": "$80-180",
+    "reason": "D1 door lock faults do occasionally resolve via power reset or stuck latch cleaning; 15% no-buy estimate is defensible, checks are safe and free.",
+    "slug": "samsung-oven-c-d1-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Power cycle the range at breaker for 2 minutes to clear electronic glitch",
+      "Manually inspect door latch mechanism for food debris or obstruction preventing full closure",
+      "Check door latch switch wiring harness connector for loose/corroded pins"
+    ],
+    "part_price_final": "$75-160",
+    "reason": "F5 on Maytag ranges is indeed typically a failed door latch assembly (motor/switch); 15% no-buy for occasional glitches/obstructions is defensible and checks are safe/free.",
+    "slug": "maytag-range-f5-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Power-cycle the oven (breaker off 2 min) to clear transient sensor glitch",
+      "Visually inspect bake element for breaks, blisters, or separation; check wire connectors for looseness or corrosion",
+      "Test element continuity with multimeter (should read 15-50 ohms); infinite = failed element"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "08 code is open-circuit bake element; 15% no-buy for connector/transient faults is defensible, checks are safe DIY steps, element failure (~85%) is the typical cause.",
+    "slug": "samsung-oven-e-08-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Power cycle the range at breaker for 2 minutes to reset control board",
+      "Inspect door latch switch connector for corrosion or looseness",
+      "Manually test latch mechanism for binding or misalignment"
+    ],
+    "part_price_final": "$80-$180",
+    "reason": "F5E0 door latch errors are indeed predominantly failed latch assemblies; ~15% resolution via reset/connector/alignment checks is defensible before part replacement.",
+    "slug": "maytag-range-f5e0-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Power-cycle the oven at breaker for 5 minutes to reset control board",
+      "Inspect door latch and striker alignment; ensure door closes flush without obstruction"
+    ],
+    "part_price_final": "$80-150",
+    "reason": "OE code is overwhelmingly a failed door lock assembly; 10-20% reset/alignment resolution is defensible field knowledge, checks are safe and appropriate.",
+    "slug": "samsung-oven-e-oe-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Power cycle the range at the breaker for 60 seconds to clear transient lock errors",
+      "Inspect door latch wiring harness connector for loose/corroded pins",
+      "Manually verify door latch mechanism slides freely without binding"
+    ],
+    "part_price_final": "$50-120",
+    "reason": "F9 door lock faults are predominantly failed latch assemblies; 15% no-buy via reset/connector fix is defensible field estimate, checks are safe and appropriate.",
+    "slug": "maytag-range-f9-error-code"
+  },
+  {
+    "verdict": "reject",
+    "no_buy_pct_final": null,
+    "free_checks_final": [],
+    "part_price_final": null,
+    "reason": "SE code is for SAMSUNG *ovens* but tech proposed drain pump filter (dishwasher/washer part) and free checks for door lock\u2014fundamental part/appliance mismatch invalidates entire analysis.",
+    "slug": "samsung-oven-se-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Power cycle breaker for 5 minutes to reset door lock control board",
+      "Check door latch striker alignment and adjust if misaligned",
+      "Inspect door lock wiring harness connector for looseness or corrosion"
+    ],
+    "part_price_final": "$80-150",
+    "reason": "D1 door lock fault is overwhelmingly mechanical lock assembly failure; 15% no-buy for reset/connector/alignment issues is defensible and conservative.",
+    "slug": "samsung-range-c-d1-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "10%",
+    "free_checks_final": [
+      "Power-cycle the range (flip breaker off 2 min, back on) to clear transient error",
+      "Inspect bake element wire connectors at rear wall for looseness, corrosion, or arcing damage"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "Samsung 08 code is indeed nearly always a failed bake element; 10% no-buy for connector issues and transient glitches is defensible, checks are safe and correct.",
+    "slug": "samsung-range-e-08-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Clean door latch contact area and striker with isopropyl alcohol; check for food debris blocking latch travel",
+      "Open/close door firmly 10 times to reseat latch; verify door alignment and check hinge screws for looseness",
+      "Unplug 2 minutes, inspect latch wire harness connector for corrosion or looseness"
+    ],
+    "part_price_final": "$25-65",
+    "reason": "D1 door-latch faults are predominantly mechanical latch failures, 15% no-buy for debris/connector issues is defensible; checks are safe and appropriate.",
+    "slug": "samsung-microwave-c-d1-error-code"
+  }
+]

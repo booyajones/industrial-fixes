@@ -11,6 +11,11 @@ tags:
   - oven
   - lg
 most_likely_cause: "weak or failed hot-surface bake igniter"
+free_checks:
+  - "Turn off breaker for 5 minutes to clear potential relay board glitch"
+  - "Inspect wire harness connections between control board and bake element/igniter for loose or corroded pins"
+no_buy_pct: "15%"
+part_price: "$25-60"
 likelihood: "the most common repair shown in the field"
 diy_or_pro: "pro"
 money_part: "LG oven bake igniter"

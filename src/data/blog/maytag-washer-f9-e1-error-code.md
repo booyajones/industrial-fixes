@@ -10,6 +10,11 @@ tags:
   - appliance
   - maytag
 most_likely_cause: "drain hose kinked, clogged, or inserted too far into the standpipe"
+free_checks:
+  - "Check drain pump filter and impeller for clogs or foreign objects (coins, socks, debris)"
+  - "Inspect drain hose for kinks, clogs, or improper installation height (39' max)"
+  - "Verify drain pump wire harness connections are secure and corrosion-free"
+no_buy_pct: "60%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Maytag washer drain pump assembly"

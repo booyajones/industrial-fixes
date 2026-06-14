@@ -11,6 +11,11 @@ tags:
   - oven
   - whirlpool
 most_likely_cause: "loose or damaged wiring in the door latch harness (ranges) or control board connector (microwaves)"
+free_checks:
+  - "Power-cycle the oven at breaker for 5 minutes to clear transient control board glitch"
+  - "Visually inspect door latch mechanism for obstructions, grease buildup, or misalignment preventing full travel"
+  - "Check wiring harness connections at door latch assembly and control board for loose or corroded terminals"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool oven door latch assembly"

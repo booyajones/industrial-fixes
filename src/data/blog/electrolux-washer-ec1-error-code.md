@@ -11,6 +11,11 @@ tags:
   - washer
   - electrolux
 money_part: "Water inlet valve"
+free_checks:
+  - "Check inlet hose screens/filters at valve connection for debris/sediment blockage"
+  - "Verify both hot and cold water supply valves are fully open and hoses not kinked"
+  - "Test inlet valve resistance (coils should read 500-1500 ohms); check wiring harness connector for corrosion"
+no_buy_pct: "40%"
 part_price: "$40-90"
 most_likely_cause: "defective water inlet valve"
 likelihood: "the most common cause"

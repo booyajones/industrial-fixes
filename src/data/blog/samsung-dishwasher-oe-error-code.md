@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - samsung
 most_likely_cause: "Drain restriction (clogged filter, blocked or kinked drain hose, or blocked sink/disposal connection)"
+free_checks:
+  - "Check drain hose for kinks or clogs, verify garbage disposal knockout plug removed if applicable"
+  - "Remove and clean drain filter assembly at dishwasher bottom"
+  - "Verify drain pump impeller spins freely by hand after removing filter"
+no_buy_pct: "60%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung dishwasher drain pump"

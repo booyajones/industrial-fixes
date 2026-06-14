@@ -11,6 +11,11 @@ tags:
   - oven
   - maytag
 most_likely_cause: "Oven door latch assembly failure"
+free_checks:
+  - "Power cycle the range at breaker for 2 minutes to clear electronic glitch"
+  - "Manually inspect door latch mechanism for food debris or obstruction preventing full closure"
+  - "Check door latch switch wiring harness connector for loose/corroded pins"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Oven Door Latch Assembly"

@@ -11,6 +11,10 @@ tags:
   - oven
   - samsung
 most_likely_cause: "Failed door lock assembly or locking motor"
+free_checks:
+  - "Power-cycle the oven at breaker for 5 minutes to reset control board"
+  - "Inspect door latch and striker alignment; ensure door closes flush without obstruction"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung oven door lock assembly"

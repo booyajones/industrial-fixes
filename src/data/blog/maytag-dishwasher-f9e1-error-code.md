@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - maytag
 most_likely_cause: "clogged filter or sump area restricting water flow to the pump inlet"
+free_checks:
+  - "Clear standing water and remove/clean drain filter and sump area of debris, food particles, and foreign objects"
+  - "Inspect drain hose for kinks, clogs, or missing high-loop/air-gap causing backflow"
+  - "Power-cycle dishwasher (breaker off 2 minutes) to clear transient faults, then run drain cycle"
+no_buy_pct: "40%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Maytag dishwasher drain pump assembly"

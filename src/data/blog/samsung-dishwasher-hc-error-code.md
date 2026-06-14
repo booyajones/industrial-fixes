@@ -11,6 +11,9 @@ tags:
   - dishwasher
   - samsung
 most_likely_cause: "Faulty thermistor or temperature sensor"
+free_checks:
+  - "Reset dishwasher (power off 5 min) to clear transient sensor faults"
+  - "Test heating element continuity with multimeter (should read 15-30Ω); inspect for visible damage or corrosion"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung dishwasher heating element"

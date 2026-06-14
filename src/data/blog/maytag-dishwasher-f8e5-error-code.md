@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - maytag
 most_likely_cause: "Water in the drip pan or base tripping the overfill float switch"
+free_checks:
+  - "Check home water supply shutoff valve is fully open and verify adequate water pressure (min 20 psi)"
+  - "Inspect inlet valve screen/filter for debris or sediment buildup and clean if clogged"
+  - "Test inlet valve electrical connector for proper seating and check for corrosion"
+no_buy_pct: "40%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Water inlet valve assembly"

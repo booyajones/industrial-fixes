@@ -10,6 +10,11 @@ tags:
   - appliance
   - samsung
 most_likely_cause: "Ice buildup freezing the evaporator fan in place"
+free_checks:
+  - "Check for ice buildup blocking the evaporator fan blade; defrost manually if frozen"
+  - "Verify fan blade spins freely by hand with power off; remove any obstructions"
+  - "Reseat the 3-wire connector at the evaporator fan motor"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung freezer evaporator fan motor"

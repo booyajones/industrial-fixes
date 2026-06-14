@@ -11,6 +11,11 @@ tags:
   - refrigerator
   - samsung
 most_likely_cause: "Ice or frost buildup around the evaporator fan blades"
+free_checks:
+  - "Check for ice buildup blocking evaporator fan; manually defrost freezer 8-12 hours with doors open"
+  - "Verify fan spins freely by hand when unplugged; remove any frost or debris obstruction"
+  - "Reseat the 3-wire harness connector at the evaporator fan motor"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung refrigerator evaporator fan motor assembly"

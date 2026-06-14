@@ -11,6 +11,12 @@ tags:
   - oven
   - maytag
 most_likely_cause: "Miswired supply connection at the terminal block, including L2 and neutral reversed"
+free_checks:
+  - "Power cycle the range at the breaker for 60 seconds to clear transient lock errors"
+  - "Inspect door latch wiring harness connector for loose/corroded pins"
+  - "Manually verify door latch mechanism slides freely without binding"
+no_buy_pct: "15%"
+part_price: "$50-120"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
 money_part: "Oven door latch assembly"

@@ -11,6 +11,11 @@ tags:
   - oven
   - whirlpool
 most_likely_cause: "Failed or sticking door latch assembly"
+free_checks:
+  - "Power cycle breaker for 2 minutes to clear transient logic fault"
+  - "Inspect door latch for obstructions, grease buildup, or misalignment preventing full travel"
+  - "Wiggle and reseat wiring harness connectors at latch assembly and control board"
+no_buy_pct: "30%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool Range Oven Door Latch Assembly"

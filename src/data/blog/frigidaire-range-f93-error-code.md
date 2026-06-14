@@ -10,6 +10,11 @@ tags:
   - appliance
   - frigidaire
 most_likely_cause: "failed door lock motor or latch assembly"
+free_checks:
+  - "Power cycle the range at breaker for 60 seconds to clear transient latch fault"
+  - "Inspect door latch striker alignment and adjust if misaligned"
+  - "Check wiring harness connectors at door lock motor assembly for looseness or corrosion"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Door latch assembly (Frigidaire OEM)"

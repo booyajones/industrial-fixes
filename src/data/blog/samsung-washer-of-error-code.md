@@ -11,6 +11,10 @@ tags:
   - washer
   - samsung
 most_likely_cause: "stuck or leaking water inlet valve"
+free_checks:
+  - "Check inlet hose screens/filters for debris and clean; verify hoses aren't kinked"
+  - "Test water supply pressure (needs 20+ PSI both hot/cold) and confirm shutoff valves fully open"
+  - "Power-cycle washer (unplug 2 min) to clear transient sensor glitches"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Water inlet valve assembly"

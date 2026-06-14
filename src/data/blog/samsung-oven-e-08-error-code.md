@@ -11,6 +11,11 @@ tags:
   - oven
   - samsung
 most_likely_cause: "failed bake or broil heating element"
+free_checks:
+  - "Power-cycle the oven (breaker off 2 min) to clear transient sensor glitch"
+  - "Visually inspect bake element for breaks, blisters, or separation; check wire connectors for looseness or corrosion"
+  - "Test element continuity with multimeter (should read 15-50 ohms); infinite = failed element"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung oven bake element"

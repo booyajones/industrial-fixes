@@ -11,6 +11,11 @@ tags:
   - oven
   - whirlpool
 most_likely_cause: "door latch assembly failure or latch circuit problem"
+free_checks:
+  - "Power cycle the range at breaker for 2 minutes to clear control board glitch"
+  - "Inspect door latch mechanism for food debris or grease binding; clean and manually cycle latch"
+  - "Check wiring harness connectors at door latch assembly and control board for looseness or corrosion"
+no_buy_pct: "15%"
 likelihood: "the most common cause on ranges showing F7 E0"
 diy_or_pro: "diy"
 money_part: "Whirlpool Oven Door Latch Assembly"

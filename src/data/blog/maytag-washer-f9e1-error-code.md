@@ -11,6 +11,11 @@ tags:
   - washer
   - maytag
 most_likely_cause: "kinked or clogged drain hose, or blocked pump filter"
+free_checks:
+  - "Check drain pump filter and impeller for debris (coins, socks, small objects)"
+  - "Inspect drain hose for kinks, clogs, or excessive height (39' max)"
+  - "Verify drain hose isn't inserted too far into standpipe (causes siphon)"
+no_buy_pct: "60%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Maytag washer drain pump"

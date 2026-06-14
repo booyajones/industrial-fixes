@@ -11,6 +11,11 @@ tags:
   - washer
   - maytag
 most_likely_cause: "both hot and cold supply valves not fully open or inadequate household water supply"
+free_checks:
+  - "Check home water supply valves are fully open and inlet hose screens aren't clogged"
+  - "Verify inlet hoses aren't kinked and water pressure is adequate (20+ PSI)"
+  - "Power-cycle washer and ensure drain hose isn't siphoning (proper air gap)"
+no_buy_pct: "60%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Maytag washer water inlet valve"

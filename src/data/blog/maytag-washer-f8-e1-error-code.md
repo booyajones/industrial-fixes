@@ -10,6 +10,11 @@ tags:
   - appliance
   - maytag
 most_likely_cause: "closed or partially closed supply valves, or clogged inlet screens"
+free_checks:
+  - "Check inlet hose screens at valve for debris/clogs and verify both hot/cold shut-off valves are fully open"
+  - "Confirm home water pressure is 20-120 PSI and test inlet valve harness connector for tight seating/corrosion"
+  - "Run diagnostics mode to verify E1 timing; check pressure switch hose for kinks/clogs if partial fill occurs"
+no_buy_pct: "40%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Water inlet valve assembly"

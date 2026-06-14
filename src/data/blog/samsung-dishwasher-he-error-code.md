@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - samsung
 most_likely_cause: "Heating element or thermistor fault"
+free_checks:
+  - "Visually inspect heating element for visible breaks or corrosion; measure continuity across terminals (should be 15-30 ohms)"
+  - "Check wiring harness connections to heating element for corrosion or looseness"
+  - "Verify 120V reaching element during heating cycle; test hi-limit thermostat for continuity"
+part_price: "$50-120"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
 money_part: "Dishwasher heating element"

@@ -11,6 +11,11 @@ tags:
   - washer
   - electrolux
 money_part: "Drain pump assembly (Electrolux washer)"
+free_checks:
+  - "Check for kinked drain hose or clogged drain filter/pump screen at front lower panel"
+  - "Verify drain hose is elevated 24-39 inches and not pushed more than 8 inches into standpipe"
+  - "Run empty drain cycle and listen for pump humming without water movement"
+no_buy_pct: "60%"
 part_price: "$15-50"
 most_likely_cause: "blocked drain filter"
 likelihood: "the most common cause"

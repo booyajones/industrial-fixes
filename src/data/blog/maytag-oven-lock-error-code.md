@@ -11,6 +11,11 @@ tags:
   - oven
   - maytag
 most_likely_cause: "Debris or obstruction in the door latch mechanism"
+free_checks:
+  - "Power cycle breaker for 5 minutes to reset control board lock state"
+  - "Check door latch striker alignment and ensure door closes flush without binding"
+  - "Inspect door lock wiring harness connector at control board for corrosion or looseness"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Door lock assembly"

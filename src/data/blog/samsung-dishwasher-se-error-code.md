@@ -10,6 +10,11 @@ tags:
   - appliance
   - samsung
 most_likely_cause: "clogged pump filter or debris trap"
+free_checks:
+  - "Clean drain pump filter by twisting counterclockwise and removing all debris"
+  - "Inspect drain hose for kinks, clogs, and proper air-gap installation"
+  - "Power-cycle dishwasher (breaker off 2 minutes) to clear transient error"
+no_buy_pct: "80%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung washer drain pump filter"

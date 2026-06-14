@@ -11,6 +11,10 @@ tags:
   - oven
   - samsung
 most_likely_cause: "faulty door lock assembly or actuator motor"
+free_checks:
+  - "Power-cycle the oven (flip breaker for 5 minutes) to clear transient lock fault"
+  - "Inspect door latch striker alignment and clean latch mechanism of grease/debris"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung oven door lock assembly"

@@ -11,6 +11,12 @@ tags:
   - dishwasher
   - maytag
 diy_or_pro: "pro"
+free_checks:
+  - "Check home water supply shutoff valve is fully open and inspect fill hose for kinks or blockages"
+  - "Clean inlet valve screen filter where hose connects to dishwasher for sediment/debris"
+  - "Verify adequate water pressure (min 20 psi) and test that other household fixtures flow normally"
+no_buy_pct: "40%"
+part_price: "$35-75"
 money_part: "Water inlet valve"
 most_likely_cause: "Flood switch or base pan float triggered"
 ---

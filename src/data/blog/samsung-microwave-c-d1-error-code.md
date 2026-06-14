@@ -11,6 +11,11 @@ tags:
   - microwave
   - samsung
 most_likely_cause: "Faulty door latch or door lock switch"
+free_checks:
+  - "Clean door latch contact area and striker with isopropyl alcohol; check for food debris blocking latch travel"
+  - "Open/close door firmly 10 times to reseat latch; verify door alignment and check hinge screws for looseness"
+  - "Unplug 2 minutes, inspect latch wire harness connector for corrosion or looseness"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Door latch assembly"

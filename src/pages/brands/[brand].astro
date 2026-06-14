@@ -69,6 +69,11 @@ export async function getStaticPaths() {
 const { brand } = Astro.params;
 const { posts } = Astro.props;
 
+// Differentiated, honesty-wedge stat for the hub intro: how many of this brand's
+// codes are usually a cheap or free fix (carry a grounded no_buy_pct), not a
+// failed part. No competitor surfaces this; it is the link-worthy hook.
+const cheapFixCount = posts.filter(p => p.data.no_buy_pct).length;
+
 const BRAND_GROUP: Record<string, "hvac" | "refrigeration" | "industrial" | "appliance"> = {
   "samsung": "appliance",
   "lg": "appliance",
@@ -136,6 +141,11 @@ const searchHint = {
     <p class="text-gray-600 dark:text-gray-400 mb-3">{pageDesc}</p>
     <div class="mb-8 rounded-lg border border-border bg-accent/5 p-4">
       <p class="mb-3 text-sm leading-6 text-gray-700 dark:text-gray-300">{introCopy}</p>
+      {cheapFixCount > 0 && (
+        <p class="mb-3 text-sm font-medium text-safe">
+          We don't sell parts, so we'll tell you when not to buy one: {cheapFixCount} of these {brandName} codes are usually a cheap or free fix, not a failed part. The "Often a cheap fix?" column shows the odds.
+        </p>
+      )}
       <p class="text-sm font-medium text-accent">{searchHint}</p>
     </div>
 
@@ -148,6 +158,7 @@ const searchHint = {
             <tr class="bg-accent/10 text-left">
               <th class="px-4 py-3 font-semibold w-1/4">Error Code</th>
               <th class="px-4 py-3 font-semibold">What It Means</th>
+              <th class="px-4 py-3 font-semibold w-28 text-center">Often a cheap fix?</th>
               <th class="px-4 py-3 font-semibold w-24 text-center">Guide</th>
             </tr>
           </thead>
@@ -157,12 +168,20 @@ const searchHint = {
               const titleParts = post.data.title.split(/\s[—\-]\s/);
               const codeLabel = titleParts[0]?.trim() ?? post.data.title;
               const what = titleParts.slice(1).join(" — ").trim() || post.data.description;
+              const pct = post.data.no_buy_pct;
               return (
                 <tr class:list={["border-t border-border", i % 2 === 0 ? "bg-background" : "bg-accent/5"]}>
                   <td class="px-4 py-3 font-mono text-accent font-semibold align-top">
                     <a href={href} class="hover:underline">{codeLabel}</a>
                   </td>
                   <td class="px-4 py-3 text-gray-700 dark:text-gray-300 align-top">{what}</td>
+                  <td class="px-4 py-3 text-center align-top whitespace-nowrap">
+                    {pct ? (
+                      <span class="rounded-full bg-safe/15 px-2 py-1 text-xs font-bold text-safe">~{pct} yes</span>
+                    ) : (
+                      <span class="text-xs text-gray-400">—</span>
+                    )}
+                  </td>
                   <td class="px-4 py-3 text-center align-top">
                     <a
                       href={href}

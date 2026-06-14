@@ -11,6 +11,11 @@ tags:
   - oven
   - samsung
 most_likely_cause: "failed or obstructed door lock actuator or motor"
+free_checks:
+  - "Power cycle breaker for 5 minutes to reset door lock control board"
+  - "Check door latch striker alignment and adjust if misaligned"
+  - "Inspect door lock wiring harness connector for looseness or corrosion"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung oven door lock assembly"

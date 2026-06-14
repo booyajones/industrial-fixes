@@ -10,6 +10,12 @@ tags:
   - appliance
   - electrolux
 money_part: "Drain pump filter (Electrolux washer)"
+free_checks:
+  - "Clean drain pump filter of lint, coins, and debris; check drain hose for kinks or clogs"
+  - "Verify drain hose is inserted no more than 5 inches into standpipe with proper venting"
+  - "Run empty spin cycle after clearing obstructions to reset error"
+no_buy_pct: "80%"
+part_price: "$35-75"
 most_likely_cause: "Laundry bunched or tangled on one side of the drum"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

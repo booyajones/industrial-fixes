@@ -11,6 +11,12 @@ tags:
   - microwave
   - whirlpool
 most_likely_cause: "door latch assembly failure"
+free_checks:
+  - "Clean door latch area and strike plate of food debris and grease, test door closure"
+  - "Inspect door latch spring for visible damage or loss of tension"
+  - "Check door alignment and hinges, verify door closes flush with cabinet"
+no_buy_pct: "20%"
+part_price: "$25-65"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
 money_part: "Whirlpool microwave door latch assembly"

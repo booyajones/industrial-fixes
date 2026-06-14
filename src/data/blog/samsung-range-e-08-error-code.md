@@ -11,6 +11,10 @@ tags:
   - oven
   - samsung
 most_likely_cause: "Failed bake element or oven temperature sensor"
+free_checks:
+  - "Power-cycle the range (flip breaker off 2 min, back on) to clear transient error"
+  - "Inspect bake element wire connectors at rear wall for looseness, corrosion, or arcing damage"
+no_buy_pct: "10%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung oven bake element"

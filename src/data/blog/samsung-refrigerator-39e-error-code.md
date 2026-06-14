@@ -10,6 +10,11 @@ tags:
   - appliance
   - samsung
 most_likely_cause: "Ice maker assembly failure or mechanical sticking"
+free_checks:
+  - "Power cycle the refrigerator for 2 minutes, then test ice maker reset button (hold 8-10 seconds)"
+  - "Verify freezer temperature is 0-5°F and ice maker arm moves freely without obstructions"
+  - "Check wire harness connector at ice maker for corrosion or looseness"
+no_buy_pct: "30%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung refrigerator ice maker assembly"
