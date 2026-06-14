@@ -1,8 +1,8 @@
 ---
 title: "Kenmore Dishwasher E14 Error Code - Causes & Fix"
-description: "E14 on Kenmore (Bosch-platform) dishwashers means the flow meter isn't seeing proper water fill. Most often a failed flow sensor or blocked inlet."
-pubDatetime: 2026-06-09T22:30:38Z
-modDatetime: 2026-06-09T22:30:38Z
+description: "E14 means a water-flow or flow-meter problem. Most often the flow sensor has failed or water supply is blocked. Check supply first."
+pubDatetime: 2026-06-12T11:10:49Z
+modDatetime: 2026-06-12T11:10:49Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,69 +10,75 @@ tags:
   - appliance
   - dishwasher
   - kenmore
-money_part: "Flow meter / reed sensor assembly"
-part_price: "$30-80"
-most_likely_cause: "failed flow meter or reed sensor in the inlet fill system"
+money_part: "Flow meter / reed sensor"
+most_likely_cause: "failed flow meter or reed sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+free_checks:
+  - "Confirm the shutoff valve is open and the inlet hose is not kinked or blocked"
+  - "Check that the float moves freely and is not jammed by debris or standing water"
+  - "Inspect and re-seat all connectors at the flow sensor and inlet valve for corrosion or moisture"
+part_price: "$25-60"
+no_buy_pct: "40%"
 ---
 
 ## Kenmore Dishwasher E14 Error Code — What It Means
 
-On Kenmore dishwashers built on Bosch platforms, E14 indicates a water-flow or flow-meter problem in the fill system. The control board is not receiving the expected signal from the inlet flow sensor during the fill cycle. This is not a drain fault or heater issue. The dishwasher expects to see a certain rate of incoming water detected by a reed sensor or flow meter in the inlet path, and when that signal is missing or weak the E14 fault is logged.
+E14 is not a native Kenmore fault code in manufacturer literature. In practice, Kenmore dishwashers that display E14 are usually Bosch-built platforms. On these machines, E14 means the control has detected a problem confirming inlet water flow, typically tied to the flow meter (also called a reed sensor) or the water-fill path. The dishwasher cannot verify proper fill volume, so it flags E14 and stops the cycle.
 
-Because E14 is not a universal Kenmore code across all models, you should confirm the meaning in your owner's manual or wiring diagram if your dishwasher was not built by Bosch. For Bosch-based Kenmore units the fault points to the fill side: either the flow sensor itself has failed, the incoming water supply is restricted so flow is too low to register, or wiring and connectors between the sensor and control board have corroded or come loose.
+Because Kenmore sources many models from Bosch, you should treat E14 as a flow-meter or water-inlet fault. The exact meaning can vary by model, so always cross-check your owner's manual or wiring diagram if available.
 
 ## Before You Replace Anything
 
-Homeowners often replace the inlet valve or control board first. Before ordering either, verify that the inlet screen is clean, supply pressure is adequate, and the flow sensor connector is dry and secure.
+Many people replace the control board first, but E14 usually points to the flow sensor or inlet valve. Always inspect the water supply, float, and flow-meter connector before ordering expensive control parts.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed flow meter or reed sensor (~45%)** The sensor that monitors incoming water has stopped generating a valid signal, so the control board logs E14.
-- **Restricted inlet supply (~25%)** A kinked hose, partially closed shutoff valve, or clogged inlet screen reduces flow below the threshold the sensor can register.
-- **Loose or corroded sensor wiring (~15%)** Moisture intrusion or a loose connector at the flow sensor or control board interrupts the signal path.
-- **Low household water pressure (~10%)** If supply pressure is unusually low the dishwasher may not fill fast enough to satisfy the flow-meter logic.
-- **Control board signal fault (~5%)** Less commonly the board itself fails to interpret a good sensor signal correctly.
+- **Failed flow meter or reed sensor (~45%)** The flow meter in the inlet chamber fails or becomes contaminated, so the control cannot confirm water is entering.
+- **Restricted or interrupted water supply (~25%)** A closed shutoff valve, kinked hose, blockage, or low household water pressure prevents proper fill.
+- **Faulty water inlet valve (~15%)** The valve receives 120 VAC from the control but does not open or pass water.
+- **Debris or sticking float mechanism (~10%)** Buildup or mechanical sticking in the float or safety float triggers a false water-level alarm.
+- **Loose, damaged, or corroded wiring (~5%)** Connectors at the flow sensor, inlet valve, or control harness are wet, corroded, or unplugged.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Is the inlet shutoff valve fully open and the hose not kinked?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Supply restriction is unlikely. Move on to inspect the inlet screen and flow sensor.<br><strong>No:</strong> Open the valve completely and straighten the hose. Reset the dishwasher and test a fill cycle.</div>
+<details class="dtree"><summary>Is the shutoff valve fully open and the inlet hose free of kinks or blockage?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Supply is good. Move on to check the float and flow sensor.<br><strong>No:</strong> Open the valve or clear the hose, then run a test cycle to see if E14 clears.</div>
 </details>
 
-<details class="dtree"><summary>Does water enter the tub at a normal rate when you start a cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The inlet valve is working. Focus on the flow sensor, its wiring, and connectors.<br><strong>No:</strong> Check the inlet screen for debris and confirm household water pressure is adequate. If both are good, test or replace the inlet valve.</div>
+<details class="dtree"><summary>Does the float move up and down freely without sticking?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Float is OK. Inspect the flow meter and inlet valve next.<br><strong>No:</strong> Clean debris from the float chamber and verify it moves smoothly, then test again.</div>
 </details>
 
-<details class="dtree"><summary>Is the flow-sensor connector clean, dry, and firmly seated?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Wiring is probably intact. The flow sensor itself is the next suspect. Replace it if no other restriction is found.<br><strong>No:</strong> Clean any corrosion from the pins, dry the connector, reseat it, and retest before replacing the sensor.</div>
+<details class="dtree"><summary>Do you hear the inlet valve energize (click or hum) when a cycle starts, but no water enters?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The valve is energized but not opening. Replace the inlet valve.<br><strong>No:</strong> The flow meter or its wiring is the likely culprit. Inspect the sensor and connectors.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Turn off power** at the breaker and close the water shutoff valve under the sink before you begin any work.
-2. **Check the supply side** by confirming the shutoff is fully open, the inlet hose is not kinked, and the inlet screen or filter at the valve connection is not clogged with sediment.
-3. **Run a short fill cycle** and watch the tub. If water enters slowly or not at all, correct the supply restriction or replace the inlet valve. If flow looks normal, the sensor or its wiring is the issue.
-4. **Locate the flow meter or reed sensor** on the inlet water path, often mounted on the inlet chamber or heat-exchanger area. Consult your model's service sheet for the exact location.
-5. **Inspect the sensor connector** for moisture, corrosion, or loose pins. Clean and dry the connector, then reseat it firmly. Check the wiring harness for breaks or chafing back to the control board.
-6. **Replace the flow sensor** if the connector is good and the supply side is verified. Order the correct sensor assembly for your Kenmore model number.
-7. **Reassemble and test** by restoring power and water, then starting a normal wash cycle. The E14 fault should clear if the new sensor is generating a valid signal.
+1. **Power down the dishwasher** at the breaker or unplug the unit before any service work.
+2. **Verify the water supply.** Confirm the shutoff valve is fully open, inspect the inlet hose for kinks or blockage, and check that household water pressure is adequate.
+3. **Check the float and safety mechanism.** Make sure the float moves up and down freely and inspect for debris or standing water that could cause a false trip.
+4. **Inspect the flow meter and inlet chamber.** Locate the flow meter (reed sensor) on the inlet side, check for visible damage, contamination, or moisture, and look for obstructions in the water path.
+5. **Test the water inlet valve electrically.** Start a cycle and verify the valve is energized with 120 VAC. If the valve receives power but no water flows, replace the valve.
+6. **Inspect all wiring and connectors.** Check for loose plugs, corrosion, damaged harnesses, or water ingress at the flow sensor, inlet valve, and control connections. Re-seat or clean as needed.
+7. **Replace the failed component.** If the flow meter is damaged or behaves abnormally, replace it. If the valve is energized but does not open, replace the inlet valve. If a hose or line is blocked or damaged, repair or replace it.
+8. **Run a diagnostic or short test cycle** to confirm E14 clears and that the machine fills normally.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Flow meter / reed sensor assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-e14-error-code&k=Flow+meter+%2F+reed+sensor+assembly&tag=errorcodefixes-20) \| Match to your exact Kenmore model. Often sold as a sensor-with-housing unit on Bosch-based dishwashers. |
-| Water inlet valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-e14-error-code&k=Water+inlet+valve&tag=errorcodefixes-20) \| Replace only if flow testing shows the valve is not opening or flow is weak with good supply pressure. |
-| Inlet hose and screen kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-e14-error-code&k=Inlet+hose+and+screen+kit&tag=errorcodefixes-20) \| If the original hose is kinked or the screen is damaged beyond cleaning. |
+| Flow meter / reed sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-e14-error-code&k=Flow+meter+%2F+reed+sensor&tag=errorcodefixes-20) \| Match the part number on your existing sensor or consult your model's service sheet. |
+| Water inlet valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-e14-error-code&k=Water+inlet+valve&tag=errorcodefixes-20) \| Verify the valve coil voltage (120 VAC) and connector type for your model. |
+| Inlet hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dishwasher-e14-error-code&k=Inlet+hose&tag=errorcodefixes-20) \| Replace if kinked, cracked, or internally blocked. |
 
 ## When to Call a Pro
 
-Call a technician if you cannot locate the flow sensor on your model, if the fault returns after you have replaced the sensor and verified the supply, or if you find evidence of a control-board fault such as burned traces or a shorted connector. A pro has the wiring diagrams and test equipment to measure sensor output and board signals directly. Also call if you are uncomfortable working with water connections and electrical connectors in close quarters, or if your dishwasher is still under warranty and DIY work would void coverage.
+Call a professional if you are not comfortable working with 120 VAC connections, if the error persists after you have replaced the flow sensor and inlet valve, or if you suspect a control-board fault. A technician has the diagnostic tools to measure valve voltage, test sensor continuity, and confirm that the control logic is sound. Also call if you find water damage inside the base pan or if the wiring harness shows signs of shorting or severe corrosion, since those conditions can point to multiple failed components or a safety hazard.
 
-**Rough cost:** DIY runs about $30–80 in parts, 45–90 min. A pro service call runs about $150–280 for diagnosis and sensor or valve replacement.
+**Rough cost:** DIY runs about $30-80 in parts, 45-90 min. A pro service call runs about $150-250.
