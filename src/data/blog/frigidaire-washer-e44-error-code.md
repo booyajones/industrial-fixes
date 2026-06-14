@@ -10,6 +10,11 @@ tags:
   - appliance
   - frigidaire
 most_likely_cause: "failed electronic control board"
+free_checks:
+  - "Power-cycle washer (unplug 2 minutes) to clear transient latch fault"
+  - "Inspect door strike alignment and manually test latch mechanism for obstructions or warping"
+  - "Check door lock wiring harness connector for corrosion or loose pins"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Frigidaire washer door lock assembly"

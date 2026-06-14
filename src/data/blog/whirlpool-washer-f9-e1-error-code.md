@@ -11,6 +11,11 @@ tags:
   - washer
   - whirlpool
 most_likely_cause: "Clogged drain pump filter"
+free_checks:
+  - "Clean drain pump filter of coins, debris, and lint buildup"
+  - "Check drain hose for kinks, clogs, or improper installation height"
+  - "Verify drain pump impeller spins freely and isn't jammed by foreign objects"
+no_buy_pct: "60%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Drain pump filter"

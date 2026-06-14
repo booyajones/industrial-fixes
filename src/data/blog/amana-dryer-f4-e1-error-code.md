@@ -11,6 +11,11 @@ tags:
   - dryer
   - amana
 money_part: "Thermal fuse"
+free_checks:
+  - "Check and clean lint blockage in exhaust vent and duct"
+  - "Verify adequate room ventilation around dryer"
+  - "Inspect blower wheel housing for lint buildup"
+no_buy_pct: "40%"
 part_price: "$15-80"
 most_likely_cause: "restricted airflow from a clogged lint screen or blocked vent"
 likelihood: "the most common cause"

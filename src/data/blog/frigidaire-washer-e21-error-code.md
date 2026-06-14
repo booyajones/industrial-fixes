@@ -11,6 +11,11 @@ tags:
   - washer
   - frigidaire
 most_likely_cause: "clogged drain pump or debris in the pump impeller"
+free_checks:
+  - "Check drain hose for kinks, clogs, or improper installation (must be < 96' high, not pushed too far into standpipe)"
+  - "Inspect drain pump filter/coin trap and pump inlet for debris blocking impeller"
+  - "Verify drain hose isn't frozen and test pump by running drain cycle while listening for operation"
+no_buy_pct: "60%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Drain pump assembly"

@@ -11,6 +11,10 @@ tags:
   - dishwasher
   - kenmore
 money_part: "Dishwasher heating element"
+free_checks:
+  - "Reset dishwasher by flipping breaker off for 5 minutes to clear transient fault"
+  - "Inspect wiring harness connections at heating element terminals for corrosion, loose pins, or moisture damage"
+  - "Use multimeter to test heating element continuity (should read 15-30 ohms; infinite = open circuit failure)"
 part_price: "$30-80"
 most_likely_cause: "Failed heating element or open heater circuit"
 likelihood: "the most common cause"

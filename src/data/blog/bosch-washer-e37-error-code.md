@@ -11,6 +11,11 @@ tags:
   - washer
   - bosch
 money_part: "Water inlet valve assembly"
+free_checks:
+  - "Check inlet hose screens/filters at valve connections for debris/clogging"
+  - "Verify both hot and cold water supply valves are fully open and hoses aren't kinked"
+  - "Test inlet valve resistance with multimeter (500-1500 ohms per solenoid)"
+no_buy_pct: "40%"
 part_price: "$25-85"
 most_likely_cause: "pressure switch or pressure sensor fault"
 likelihood: "the most common cause"

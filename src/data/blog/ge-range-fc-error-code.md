@@ -11,6 +11,10 @@ tags:
   - oven
   - ge
 most_likely_cause: "door latch/lock motor assembly"
+free_checks:
+  - "Power-cycle the range at breaker for 2 minutes to reset the control board"
+  - "Inspect door latch/lock assembly connector for looseness or corrosion"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE oven door latch/lock motor assembly"

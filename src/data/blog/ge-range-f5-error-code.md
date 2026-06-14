@@ -11,6 +11,11 @@ tags:
   - oven
   - ge
 most_likely_cause: "Door latch assembly sticking, failing, or not reaching position"
+free_checks:
+  - "Power cycle the range at the breaker for 60 seconds to clear transient control board glitches"
+  - "Inspect and reseat the door latch harness connector at the control board for looseness or corrosion"
+  - "Manually check door latch mechanism for binding, debris, or misalignment preventing full travel"
+no_buy_pct: "25%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE Oven Door Latch Assembly"

@@ -11,6 +11,12 @@ tags:
   - washer
   - lg
 diy_or_pro: "pro"
+free_checks:
+  - "Unplug 30 sec, check for tangled or severely unbalanced load causing rotor position sensor confusion"
+  - "Inspect Hall sensor connector on stator for corrosion, moisture, or looseness"
+  - "Run empty spin cycle to rule out overload-triggered false SE code"
+no_buy_pct: "30%"
+part_price: "$120-220"
 money_part: "LG direct-drive motor / stator assembly"
 most_likely_cause: "Loose or corroded motor harness connector"
 ---

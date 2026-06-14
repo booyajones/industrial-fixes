@@ -11,6 +11,11 @@ tags:
   - washer
   - electrolux
 money_part: "Water inlet valve assembly"
+free_checks:
+  - "Check inlet hose screens/filters at valve for debris/clogs and clean"
+  - "Verify home water supply valve fully open and adequate water pressure (min 20 psi)"
+  - "Inspect inlet hoses for kinks or pinching restricting flow"
+no_buy_pct: "40%"
 part_price: "$30-80"
 most_likely_cause: "closed or restricted water supply"
 likelihood: "the most common cause"

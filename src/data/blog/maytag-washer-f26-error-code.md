@@ -11,6 +11,11 @@ tags:
   - washer
   - maytag
 most_likely_cause: "door not fully latched or closed"
+free_checks:
+  - "Power-cycle washer (unplug 60 seconds) to clear transient error and test lid/door latch multiple times"
+  - "Inspect lid strike/magnet alignment and clean any debris from latch mechanism"
+  - "Check wiring harness connector at lid switch for corrosion or loose pins"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Lid switch assembly (or door lock assembly for front-load models)"

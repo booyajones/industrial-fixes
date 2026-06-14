@@ -11,6 +11,11 @@ tags:
   - washer
   - maytag
 most_likely_cause: "door not fully closed or obstructed"
+free_checks:
+  - "Power-cycle washer (unplug 60 seconds) to clear transient lock fault"
+  - "Inspect door strike alignment and manually test latch mechanism for obstructions"
+  - "Check door lock harness connector at control board for corrosion or loose pins"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Door lock assembly"

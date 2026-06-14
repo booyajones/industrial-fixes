@@ -11,6 +11,10 @@ tags:
   - refrigerator
   - kitchenaid
 most_likely_cause: "Failed ice maker thermistor"
+free_checks:
+  - "Unplug unit 60+ seconds, restore power to clear transient sensor glitch"
+  - "Inspect thermistor connector at ice maker for corrosion, moisture, or loose pins"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "KitchenAid ice maker thermistor"

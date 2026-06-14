@@ -10,6 +10,11 @@ tags:
   - appliance
   - kenmore
 most_likely_cause: "Open thermal fuse in the defrost sensor assembly"
+free_checks:
+  - "Unplug 30+ minutes, inspect defrost sensor connector at evaporator for frost/corrosion/looseness, reseat firmly"
+  - "Check for ice buildup blocking evaporator fan or covering sensor; manual defrost (unplug 6-8 hrs, towels) if packed"
+  - "Ohm-test thermal fuse (0-1Ω at room temp) and defrost sensor (~50kΩ at 0°F, ~10kΩ at 32°F) if accessible"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Defrost sensor / thermal fuse assembly"

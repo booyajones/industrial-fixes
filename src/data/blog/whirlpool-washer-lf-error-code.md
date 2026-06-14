@@ -11,6 +11,11 @@ tags:
   - washer
   - whirlpool
 most_likely_cause: "Water supply valves not fully open or kinked inlet hoses"
+free_checks:
+  - "Verify household water supply valves fully open and inlet hoses not kinked"
+  - "Clean inlet valve screens (remove hoses, extract and rinse mesh filters)"
+  - "Check drain hose height is 39' minimum and not siphoning into standpipe water"
+no_buy_pct: "60%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Water inlet valve assembly"

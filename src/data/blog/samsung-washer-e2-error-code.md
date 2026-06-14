@@ -11,6 +11,11 @@ tags:
   - washer
   - samsung
 most_likely_cause: "foreign material in the drain pump filter"
+free_checks:
+  - "Check drain hose for kinks, clogs, or improper height (18-96 inches, not submerged)"
+  - "Clean drain pump filter of coins, lint, debris"
+  - "Inspect internal drain hose connections at pump and tub for clogs or detachment"
+no_buy_pct: "60%"
 likelihood: "the most common cause for the drain-error version"
 diy_or_pro: "diy"
 money_part: "Samsung washer drain pump"

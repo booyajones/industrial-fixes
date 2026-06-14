@@ -11,6 +11,11 @@ tags:
   - washer
   - lg
 most_likely_cause: "clogged drain pump filter or kinked drain hose"
+free_checks:
+  - "Clean drain pump filter (front lower left panel) of coins, lint, and debris"
+  - "Check drain hose for kinks, clogs, or excessive height above washer"
+  - "Verify drain hose isn't frozen in standpipe; power-cycle after clearing"
+no_buy_pct: "60%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG drain pump filter"

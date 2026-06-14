@@ -11,6 +11,11 @@ tags:
   - washer
   - electrolux
 money_part: "Water inlet valve"
+free_checks:
+  - "Check inlet hose screens/filters for debris and clean; verify hoses aren't kinked"
+  - "Confirm household water supply valves are fully open and water pressure is adequate (≥20 psi)"
+  - "Inspect wiring harness connector at inlet valve for corrosion or looseness"
+no_buy_pct: "60%"
 part_price: "$15-50"
 most_likely_cause: "closed or partially closed water supply valve"
 likelihood: "the most common cause"

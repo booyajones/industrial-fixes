@@ -11,6 +11,11 @@ tags:
   - refrigerator
   - lg
 most_likely_cause: "failed ice maker assembly"
+free_checks:
+  - "Power-cycle the refrigerator (unplug 2+ minutes) to reset the ice maker control board"
+  - "Check ice maker arm/sensor position-manually lower/raise to test for mechanical binding or misalignment"
+  - "Inspect wire harness connector between ice maker and main board for loose pins or corrosion"
+no_buy_pct: "40%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG freezer ice maker assembly"

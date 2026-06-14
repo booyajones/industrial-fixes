@@ -10,6 +10,11 @@ tags:
   - appliance
   - frigidaire
 most_likely_cause: "Failed door lock assembly"
+free_checks:
+  - "Power-cycle washer (unplug 2 min) to clear transient lock fault"
+  - "Inspect door strike alignment and ensure door fully latches without obstruction"
+  - "Check door lock wiring harness connector for looseness or corrosion"
+no_buy_pct: "15%"
 likelihood: "the most commonly reported cause"
 diy_or_pro: "diy"
 money_part: "Door lock assembly (Frigidaire front-load washer)"

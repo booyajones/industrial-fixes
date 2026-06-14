@@ -10,6 +10,11 @@ tags:
   - appliance
   - kenmore
 most_likely_cause: "Ice or frost buildup binding the evaporator fan blade or housing"
+free_checks:
+  - "Check for ice buildup blocking evaporator fan blade; manually defrost if necessary"
+  - "Verify fan blade spins freely by hand with power off; remove any obstructions"
+  - "Inspect wiring harness connector at evaporator fan motor for corrosion or looseness"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Evaporator fan motor"

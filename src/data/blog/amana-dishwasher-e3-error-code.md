@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - amana
 money_part: "Dishwasher heating element"
+free_checks:
+  - "Reset dishwasher by flipping breaker off for 5 minutes, then back on to clear transient faults"
+  - "Inspect wire harness connectors at heating element for corrosion, looseness, or burn marks"
+  - "Test heating element continuity with multimeter (should read 15-30 ohms; infinite = failed element)"
+no_buy_pct: "10%"
 part_price: "$40-120"
 most_likely_cause: "Failed heating element or circulation pump"
 likelihood: "the most common cause"

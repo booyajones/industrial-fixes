@@ -11,6 +11,11 @@ tags:
   - washer
   - whirlpool
 most_likely_cause: "Closed or partially open supply valves, or clogged inlet screens"
+free_checks:
+  - "Turn off supply valves, disconnect inlet hoses, inspect and clean inlet valve screens for sediment/debris"
+  - "Verify supply valves fully open, hoses not kinked, and water pressure at source is 20+ PSI"
+  - "Power-cycle washer (unplug 2 minutes) to clear transient fault, run diagnostic cycle to retest"
+no_buy_pct: "60%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Water inlet valve assembly (Whirlpool washer)"

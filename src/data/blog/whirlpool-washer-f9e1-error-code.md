@@ -11,6 +11,11 @@ tags:
   - washer
   - whirlpool
 most_likely_cause: "drain hose installation problem or kinked drain hose"
+free_checks:
+  - "Check drain pump filter/trap and drain hose for clogs and debris"
+  - "Inspect drain hose for kinks, blockage, and proper positioning (not higher than 96 inches)"
+  - "Verify drain pump wire harness connections are secure at pump and control board"
+no_buy_pct: "60%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool drain pump"

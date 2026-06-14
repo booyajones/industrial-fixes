@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - kenmore
 money_part: "Kenmore dishwasher drain pump"
+free_checks:
+  - "Check drain hose, air gap, and garbage disposal knockout plug for clogs"
+  - "Clean drain pump filter and sump area of debris and standing water"
+  - "Test drain pump impeller for jam by manually spinning with power off"
+no_buy_pct: "40%"
 part_price: "$15-80"
 most_likely_cause: "Drain filter or sump blockage"
 likelihood: "the most common cause"

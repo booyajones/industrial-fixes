@@ -11,6 +11,12 @@ tags:
   - washer
   - bosch
 money_part: "Bosch washer drain pump"
+free_checks:
+  - "Clean drain pump filter/trap (lower front panel) - remove coins, clips, lint jamming impeller"
+  - "Check drain hose for kinks and verify not inserted more than 4-5 inches into standpipe"
+  - "Test drain hose and standpipe flow by pouring water through"
+no_buy_pct: "60%"
+part_price: "$50-110"
 most_likely_cause: "blocked pump filter or drain hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

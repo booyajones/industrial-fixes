@@ -11,6 +11,11 @@ tags:
   - washer
   - maytag
 most_likely_cause: "failed motor tachometer or speed sensor"
+free_checks:
+  - "Unplug 5 min, then check motor wire harness connector for corrosion or looseness at motor and control board"
+  - "Spin drum by hand to verify no seized bearing or foreign object jamming rotation"
+  - "Inspect motor mounting bolts for looseness causing intermittent connector contact"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
 money_part: "Drive motor assembly"

@@ -11,6 +11,12 @@ tags:
   - refrigerator
   - lg
 most_likely_cause: "Failed freezer compartment ice maker sensor"
+free_checks:
+  - "Verify ice maker is fully seated and harness connector is firmly clicked in"
+  - "Power-cycle refrigerator for 2 minutes to clear transient sensor fault"
+  - "Inspect sensor wire harness for pinch damage or ice buildup shorting contacts"
+no_buy_pct: "20%"
+part_price: "$15-35"
 likelihood: "the primary fault LG identifies"
 diy_or_pro: "pro"
 money_part: "LG freezer ice maker sensor"

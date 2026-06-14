@@ -11,6 +11,12 @@ tags:
   - refrigerator
   - frigidaire
 most_likely_cause: "ice or frost blocking the evaporator fan blade, or a seized fan motor"
+free_checks:
+  - "Unplug unit 60 seconds, restore power to clear transient error and check if EF returns"
+  - "Inspect evaporator fan wire harness for loose/corroded connectors at control board and fan motor"
+  - "Check for ice buildup blocking evaporator fan blade (defrost if present, test fan after thaw)"
+no_buy_pct: "15%"
+part_price: "$35-75"
 likelihood: "the most common causes"
 diy_or_pro: "pro"
 money_part: "Frigidaire evaporator fan motor assembly"

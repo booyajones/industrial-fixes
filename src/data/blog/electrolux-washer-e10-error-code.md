@@ -10,6 +10,11 @@ tags:
   - appliance
   - electrolux
 money_part: "Water inlet valve (solenoid valve)"
+free_checks:
+  - "Check inlet hose for kinks and verify both hot and cold supply taps are fully open"
+  - "Remove inlet hose and clean inlet valve screen filters"
+  - "Verify adequate water pressure (minimum 20 psi)"
+no_buy_pct: "60%"
 part_price: "$15-80"
 most_likely_cause: "blocked inlet hose filters or closed/restricted water tap"
 likelihood: "the most common cause"

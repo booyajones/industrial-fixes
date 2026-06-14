@@ -11,6 +11,11 @@ tags:
   - refrigerator
   - kitchenaid
 most_likely_cause: "Failed ice maker motor or jammed harvest mechanism"
+free_checks:
+  - "Power-cycle the refrigerator for 5 minutes to reset the ice maker control board"
+  - "Check for ice jams in the ejector mechanism and manually rotate the ejector arm to confirm free movement"
+  - "Verify water supply valve is fully open and water line has no kinks or frozen sections"
+no_buy_pct: "40%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Ice maker assembly"

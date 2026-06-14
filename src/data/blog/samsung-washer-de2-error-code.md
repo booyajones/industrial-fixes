@@ -11,6 +11,11 @@ tags:
   - washer
   - samsung
 most_likely_cause: "laundry caught in the door seal or gasket"
+free_checks:
+  - "Power-cycle washer (unplug 2 min) to clear transient door-lock fault"
+  - "Inspect door strike alignment and ensure door closes flush with gasket fully seated"
+  - "Check door lock wire harness connector for corrosion or loose pins"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung washer door lock assembly"

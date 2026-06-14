@@ -11,6 +11,11 @@ tags:
   - oven
   - ge
 most_likely_cause: "mechanically stuck or broken door latch assembly"
+free_checks:
+  - "Power cycle at breaker for 2 minutes to clear error memory and manually test door latch for obstruction"
+  - "Inspect door latch striker alignment and check wiring connector at lock assembly for looseness or corrosion"
+  - "Verify door hinges are not bent or sagging causing misalignment that prevents proper latch engagement"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Door lock assembly (latch motor and switch)"

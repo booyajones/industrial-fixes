@@ -10,6 +10,11 @@ tags:
   - appliance
   - amana
 money_part: "Water inlet valve assembly"
+free_checks:
+  - "Check both inlet hose screens for debris/sediment; remove and rinse clean"
+  - "Verify home water supply valves fully open and adequate pressure (≥20 PSI)"
+  - "Inspect inlet valve wire harness connector for corrosion or looseness"
+no_buy_pct: "60%"
 part_price: "$15-50"
 most_likely_cause: "Closed, partially closed, or restricted water supply valves or clogged inlet screens"
 likelihood: "the most common cause"
