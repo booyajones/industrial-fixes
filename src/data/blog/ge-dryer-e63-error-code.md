@@ -11,6 +11,12 @@ tags:
   - dryer
   - ge
 diy_or_pro: "pro"
+free_checks:
+  - "Check for lint blockage in blower housing and exhaust vent restricting airflow"
+  - "Inspect thermal fuse and high-limit thermostat wiring connectors for looseness or corrosion"
+  - "Verify 240V power at outlet and check both breaker legs are on"
+no_buy_pct: "15%"
+part_price: "$25-55"
 money_part: "GE dryer heating element"
 most_likely_cause: "Model-specific code or display glitch"
 ---

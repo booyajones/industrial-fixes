@@ -11,6 +11,11 @@ tags:
   - washer
   - bosch
 money_part: "Bosch washer door lock assembly (interlock)"
+free_checks:
+  - "Power-cycle washer (unplug 2 min) to clear transient door lock fault"
+  - "Inspect door strike alignment and clean latch contact points"
+  - "Check door lock wiring connector for corrosion or looseness"
+no_buy_pct: "15%"
 part_price: "$50-120"
 most_likely_cause: "door not fully closed or obstructed by laundry or debris"
 likelihood: "the most common cause"

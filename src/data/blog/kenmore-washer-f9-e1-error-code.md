@@ -11,6 +11,11 @@ tags:
   - washer
   - kenmore
 money_part: "Drain pump assembly"
+free_checks:
+  - "Check drain hose for kinks, clogs, or excessive insertion into standpipe (max 4.5 inches)"
+  - "Inspect and clean drain pump filter/coin trap for debris and obstructions"
+  - "Verify drain pump wiring connector is secure and free of corrosion"
+no_buy_pct: "60%"
 part_price: "$15-80"
 most_likely_cause: "kinked or clogged drain hose"
 likelihood: "the most common cause"

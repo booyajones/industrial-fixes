@@ -11,6 +11,12 @@ tags:
   - dishwasher
   - ge
 diy_or_pro: "diy"
+free_checks:
+  - "Check drain pump filter, sump area, and drain hose for clogs; remove debris"
+  - "Inspect drain hose for kinks or blockages; verify proper high-loop installation"
+  - "Test drain pump impeller for jam by manually rotating; remove foreign objects"
+no_buy_pct: "60%"
+part_price: "$50-120"
 money_part: "Drain pump assembly"
 most_likely_cause: "Misread or non-standard code"
 ---

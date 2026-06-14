@@ -11,6 +11,11 @@ tags:
   - dryer
   - electrolux
 money_part: "Heating element assembly"
+free_checks:
+  - "Reset dryer by unplugging 2 minutes; check for tripped house breaker"
+  - "Inspect lint buildup on heating element housing causing overheat sensor trip"
+  - "Check thermal fuse and hi-limit thermostat for continuity"
+part_price: "$40-85"
 most_likely_cause: "shorted or grounded heating element"
 likelihood: "the most common cause"
 diy_or_pro: "pro"

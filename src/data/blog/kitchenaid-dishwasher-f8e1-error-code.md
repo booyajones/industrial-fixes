@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - kitchenaid
 money_part: "KitchenAid dishwasher drain pump"
+free_checks:
+  - "Check drain hose, air gap, and garbage disposal knockout plug for clogs or kinks"
+  - "Remove and clean filter assembly and sump area for debris blocking impeller"
+  - "Power cycle dishwasher for 5 minutes to clear transient fault"
+no_buy_pct: "40%"
 part_price: "$15-80"
 most_likely_cause: "clogged drain path or restricted drain hose"
 likelihood: "the most common cause"

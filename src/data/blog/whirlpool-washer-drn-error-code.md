@@ -11,6 +11,11 @@ tags:
   - washer
   - whirlpool
 most_likely_cause: "drain hose installed incorrectly or kinked"
+free_checks:
+  - "Check drain hose for kinks, clogs, or improper height; clear drain filter/coin trap of debris"
+  - "Inspect drain pump impeller for socks, coins, or objects jamming movement; manually rotate to confirm it spins freely"
+  - "Test drain pump resistance (5-10 ohms) and verify wire harness connections are secure"
+no_buy_pct: "60%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool washer drain pump assembly"

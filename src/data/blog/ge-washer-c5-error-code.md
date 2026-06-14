@@ -11,6 +11,11 @@ tags:
   - washer
   - ge
 most_likely_cause: "drain hose kink, blockage, or pump filter obstruction"
+free_checks:
+  - "Check drain hose for kinks, clogs, and verify insertion depth is less than 4.5 inches into standpipe"
+  - "Remove and clean pump filter, inspect impeller for obstructions (coins, fabric, debris)"
+  - "Verify drain hose height is 39-96 inches and not creating siphon condition"
+no_buy_pct: "60%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE washer drain pump assembly"

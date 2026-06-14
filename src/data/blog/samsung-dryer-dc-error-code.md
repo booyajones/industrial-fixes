@@ -11,6 +11,11 @@ tags:
   - dryer
   - samsung
 most_likely_cause: "Laundry caught in the door or debris preventing full closure"
+free_checks:
+  - "Inspect door strike alignment and adjust if misaligned; clean lint buildup from door latch cavity"
+  - "Test door latch mechanism for mechanical binding or broken plastic tabs; verify door closes with audible click"
+  - "Check door latch wire harness connector at control board for loose or corroded pins"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Door latch assembly"

@@ -11,6 +11,11 @@ tags:
   - washer
   - amana
 money_part: "Amana washer drain pump assembly"
+free_checks:
+  - "Check drain hose for kinks, clogs, or excessive height (max 96 inches); clear standpipe obstruction"
+  - "Inspect and clean pump filter and impeller for coins, debris, or foreign objects"
+  - "Verify drain hose isn't inserted too far into standpipe (causes air lock); test manual drain cycle"
+no_buy_pct: "60%"
 part_price: "$30-80"
 most_likely_cause: "kinked or clogged drain hose, or drain hose inserted too far into the standpipe"
 likelihood: "the most common cause"

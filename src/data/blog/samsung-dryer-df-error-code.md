@@ -11,6 +11,11 @@ tags:
   - dryer
   - samsung
 most_likely_cause: "Laundry or debris caught in the door, or latch/strike not aligned"
+free_checks:
+  - "Inspect door strike alignment and clean lint buildup from latch mechanism and strike plate"
+  - "Verify door closes fully with audible click and check hinges for sagging"
+  - "Unplug 30 seconds, reseat door latch wire harness connector, check for visible wire damage"
+no_buy_pct: "25%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung dryer door latch assembly"

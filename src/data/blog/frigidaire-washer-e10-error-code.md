@@ -11,6 +11,11 @@ tags:
   - washer
   - frigidaire
 most_likely_cause: "clogged inlet screen or closed supply valve"
+free_checks:
+  - "Verify both hot and cold supply valves are fully open and hoses are not kinked"
+  - "Clean inlet valve screen filters for sediment or debris"
+  - "Confirm water pressure is at least 20 psi at the supply"
+no_buy_pct: "40%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Water inlet valve"

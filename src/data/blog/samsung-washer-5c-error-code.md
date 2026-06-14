@@ -11,6 +11,11 @@ tags:
   - washer
   - samsung
 most_likely_cause: "clogged drain pump filter or coin trap"
+free_checks:
+  - "Check drain hose for kinks, clogs, or improper height above 96 inches"
+  - "Clean debris filter at front lower panel for coins, lint, and small objects"
+  - "Inspect drain pump impeller and housing for foreign objects jamming rotation"
+no_buy_pct: "60%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Drain pump assembly"

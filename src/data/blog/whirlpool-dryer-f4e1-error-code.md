@@ -11,6 +11,10 @@ tags:
   - dryer
   - whirlpool
 most_likely_cause: "defective heating element or stuck heater relay on the main control board"
+free_checks:
+  - "Check wire harness connections at heating element terminal block for loose or corroded spade connectors"
+  - "Visually inspect heating element coil for breaks or grounding to housing (power disconnected)"
+  - "Test continuity across element terminals and from each terminal to ground with multimeter"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Heating element assembly"

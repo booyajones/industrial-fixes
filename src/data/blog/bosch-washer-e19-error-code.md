@@ -11,6 +11,10 @@ tags:
   - washer
   - bosch
 money_part: "Bosch washer heating element"
+free_checks:
+  - "Check wire harness connections to heating element for corrosion or looseness"
+  - "Inspect element terminals for visible burn marks or moisture damage"
+  - "Test element continuity with multimeter (should read 20-50 ohms; infinite = failed open)"
 part_price: "$40-120"
 most_likely_cause: "Failed heating element"
 likelihood: "the most common cause"

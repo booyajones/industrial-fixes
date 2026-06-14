@@ -10,6 +10,10 @@ tags:
   - appliance
   - kenmore
 money_part: "Water inlet valve assembly"
+free_checks:
+  - "Verify appliance is actually a washer (F20 is a Kenmore *washer* code, not dryer; dryers have no water inlet valves)"
+  - "If washer: confirm both hot/cold supply valves fully open and hoses not kinked"
+  - "Clean inlet valve screen filters at hose connections for sediment/debris"
 part_price: "$15-80"
 most_likely_cause: "Closed or partially closed supply valves, kinked hoses, or clogged inlet screens"
 likelihood: "the most common causes"

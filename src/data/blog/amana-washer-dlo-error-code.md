@@ -10,6 +10,11 @@ tags:
   - appliance
   - amana
 money_part: "Drain pump assembly"
+free_checks:
+  - "Check drain hose for kinks, clogs, or excessive height (max 39 inches)"
+  - "Remove and clean drain pump filter/coin trap of debris and obstructions"
+  - "Run drain cycle and listen for pump hum to distinguish blockage from motor failure"
+no_buy_pct: "60%"
 part_price: "$15-50"
 most_likely_cause: "kinked or clogged drain hose"
 likelihood: "the most common cause"

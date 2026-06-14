@@ -11,6 +11,12 @@ tags:
   - washer
   - maytag
 diy_or_pro: "diy"
+free_checks:
+  - "Check drain hose for kinks, clogs, or improper height (max 39' above floor)"
+  - "Inspect drain pump filter/coin trap for debris blocking impeller"
+  - "Verify drain hose is not inserted too far into standpipe (causes siphon block)"
+no_buy_pct: "60%"
+part_price: "$35-75"
 money_part: "Drain pump"
 most_likely_cause: "Misread or model-specific display code"
 ---

@@ -11,6 +11,11 @@ tags:
   - washer
   - maytag
 most_likely_cause: "Faulty door latch or switch assembly"
+free_checks:
+  - "Check drain hose for kinks, clogs, or elevation above 96 inches; clear standpipe"
+  - "Clean drain pump filter and check impeller for socks, coins, or debris"
+  - "Verify drain hose isn't inserted more than 4.5 inches into standpipe"
+no_buy_pct: "60%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Drain pump assembly"

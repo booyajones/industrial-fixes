@@ -11,6 +11,12 @@ tags:
   - washer
   - lg
 most_likely_cause: "Normal end-of-dry cool-down period"
+free_checks:
+  - "Power-cycle washer (unplug 60 seconds) to clear transient firmware lock errors"
+  - "Inspect door strike/latch alignment and wipe door gasket area for debris blocking full closure"
+  - "Check door lock wiring harness connector at lock assembly for corrosion or looseness"
+no_buy_pct: "15%"
+part_price: "$45-85"
 likelihood: "the most common and expected reason"
 diy_or_pro: "diy"
 money_part: "LG washer door lock assembly"

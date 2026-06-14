@@ -11,6 +11,11 @@ tags:
   - dryer
   - maytag
 most_likely_cause: "Door not pushed in far enough to engage the latch"
+free_checks:
+  - "Inspect door strike for damage/misalignment and ensure door closes flush with cabinet"
+  - "Clean lint from door latch mechanism and strike area; manually test latch clicks fully into strike"
+  - "Unplug 30 seconds to reset control; check door switch connector is fully seated at harness"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Door latch assembly"

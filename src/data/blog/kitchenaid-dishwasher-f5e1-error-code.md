@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - kitchenaid
 money_part: "Door latch assembly"
+free_checks:
+  - "Inspect door latch and strike for debris, food particles, or obstructions; clean thoroughly"
+  - "Open and close door firmly 5-6 times to reseat latch, then reset breaker for 5 minutes"
+  - "Check door strike alignment and hinge springs for sagging that prevents latch engagement"
+no_buy_pct: "15%"
 part_price: "$40-90"
 most_likely_cause: "defective door latch assembly"
 likelihood: "the most common cause"

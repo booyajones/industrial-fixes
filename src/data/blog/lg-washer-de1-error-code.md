@@ -11,6 +11,11 @@ tags:
   - washer
   - lg
 most_likely_cause: "laundry caught between the door and rubber gasket"
+free_checks:
+  - "Power-cycle washer (unplug 60 seconds) to clear transient error and retry door latch"
+  - "Inspect door strike/catch alignment and clean any detergent residue preventing full engagement"
+  - "Check door lock wiring harness connector for looseness or corrosion"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Door lock assembly / door switch assembly"

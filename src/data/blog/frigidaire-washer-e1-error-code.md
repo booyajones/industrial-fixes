@@ -10,6 +10,11 @@ tags:
   - appliance
   - frigidaire
 most_likely_cause: "Water supply valves not fully open or kinked inlet hoses"
+free_checks:
+  - "Verify both hot and cold supply valves are fully open and hoses are not kinked"
+  - "Clean inlet valve mesh screens at hose connections (check for sediment buildup)"
+  - "Confirm home water pressure is at least 20 psi"
+no_buy_pct: "40%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Water inlet valve assembly"

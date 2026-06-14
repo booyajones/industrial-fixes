@@ -11,6 +11,12 @@ tags:
   - dryer
   - ge
 most_likely_cause: "stuck or failed heater relay on the control board"
+free_checks:
+  - "Check dryer vent hose and exterior vent for clogs/restrictions causing overheating"
+  - "Inspect heating element wire harness connector for corrosion or loose terminals"
+  - "Verify 240V at wall outlet with multimeter"
+no_buy_pct: "15%"
+part_price: "$25-55"
 likelihood: "the most common cause in the E6x heater-fault family"
 diy_or_pro: "pro"
 money_part: "GE dryer heating element assembly"

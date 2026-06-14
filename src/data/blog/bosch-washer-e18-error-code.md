@@ -11,6 +11,12 @@ tags:
   - washer
   - bosch
 most_likely_cause: "Coin, lint, hair, or debris blocking the pump filter or pump cavity"
+free_checks:
+  - "Check and clear drain pump filter/coin trap for debris, coins, or small items"
+  - "Inspect drain hose for kinks, clogs, or blockages; ensure proper installation height"
+  - "Verify internal hoses are clear and pump impeller spins freely by hand"
+no_buy_pct: "60%"
+part_price: "$50-120"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Bosch washer drain pump assembly"

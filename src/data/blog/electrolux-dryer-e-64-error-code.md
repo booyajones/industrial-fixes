@@ -11,6 +11,10 @@ tags:
   - dryer
   - electrolux
 money_part: "Heating element (heater assembly)"
+free_checks:
+  - "Check vent system for blockages causing overheat trips; clean lint from blower housing and full exhaust path"
+  - "Test thermal fuse and thermal cut-off for continuity (separate $10-20 parts if open)"
+  - "Inspect heating element terminal block for loose or corroded spade connections"
 part_price: "$20-80"
 most_likely_cause: "failed heating element"
 likelihood: "the most common cause"

@@ -11,6 +11,11 @@ tags:
   - washer
   - lg
 most_likely_cause: "Laundry pinched in the door opening or door not firmly latched"
+free_checks:
+  - "Power-cycle washer (unplug 60 seconds) to reset door lock control board glitch"
+  - "Inspect door striker alignment and clean door latch catch area of detergent residue"
+  - "Check door lock wire harness connector at main control board for looseness or corrosion"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG washer door lock assembly"

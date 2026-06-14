@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - kitchenaid
 money_part: "Water inlet valve"
+free_checks:
+  - "Turn off water supply, disconnect inlet hose, check inlet valve screen for debris/mineral buildup and clean"
+  - "Verify home water supply valve is fully open and water pressure is adequate (20-120 psi)"
+  - "Inspect inlet hose for kinks and test fill valve coil resistance with multimeter (should read 500-1500 ohms)"
+no_buy_pct: "40%"
 part_price: "$50-150"
 most_likely_cause: "Temporary control glitch or lockup"
 likelihood: "the most common cause"

@@ -1,0 +1,478 @@
+[
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Inspect door strike alignment and adjust if misaligned; clean lint buildup from door latch cavity",
+      "Test door latch mechanism for mechanical binding or broken plastic tabs; verify door closes with audible click",
+      "Check door latch wire harness connector at control board for loose or corroded pins"
+    ],
+    "part_price_final": "$25-60",
+    "reason": "DC code is indeed predominantly failed door latch assembly; 15% no-buy for alignment/lint/connector issues is defensible and checks are safe/free.",
+    "slug": "samsung-dryer-dc-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Power-cycle washer (unplug 60 seconds) to clear transient firmware lock errors",
+      "Inspect door strike/latch alignment and wipe door gasket area for debris blocking full closure",
+      "Check door lock wiring harness connector at lock assembly for corrosion or looseness"
+    ],
+    "part_price_final": "$45-85",
+    "reason": "CD code is indeed a door lock circuit fault; 15% no-buy is defensible for transient glitches/connections, 85% failed lock assemblies aligns with LG field data, checks are safe and appropriate.",
+    "slug": "lg-washer-cd-error-code"
+  },
+  {
+    "verdict": "apply_qualitative",
+    "no_buy_pct_final": null,
+    "free_checks_final": [
+      "Check wire harness connections at heating element terminal block for loose or corroded spade connectors",
+      "Visually inspect heating element coil for breaks or grounding to housing (power disconnected)",
+      "Test continuity across element terminals and from each terminal to ground with multimeter"
+    ],
+    "part_price_final": "$25-60",
+    "reason": "Checks are safe and correct; tech properly returned null since F4E1 overwhelmingly indicates failed element, not wiring\u2014no defensible no_buy_pct exists for this fault.",
+    "slug": "whirlpool-dryer-f4e1-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Check dryer vent hose and exterior vent for clogs/restrictions causing overheating",
+      "Inspect heating element wire harness connector for corrosion or loose terminals",
+      "Verify 240V at wall outlet with multimeter"
+    ],
+    "part_price_final": "$25-55",
+    "reason": "E61 heating circuit fault is indeed predominantly failed element (~85%), but vent blockage causing thermal cutoff trips and connector issues are documented alternative causes; 15% no-buy is defensible and checks are safe/free.",
+    "slug": "ge-dryer-e61-error-code"
+  },
+  {
+    "verdict": "reject",
+    "no_buy_pct_final": null,
+    "free_checks_final": [
+      "Check for 240V at outlet with multimeter; verify both legs present",
+      "Test thermal fuse and high-limit thermostat for continuity",
+      "Inspect vent system for lint blockage causing thermal cutoffs"
+    ],
+    "part_price_final": "$25-60",
+    "reason": "Heating element is explicitly listed as a part that should NOT be labeled a cheap fix per the hard rule; 15% no-buy is inconsistent with the rationale stating 'element failure is the dominant cause'\u2014honest estimate would be <5% or null.",
+    "slug": "frigidaire-dryer-al-27-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Inspect door strike for damage/misalignment and ensure door closes flush with cabinet",
+      "Clean lint from door latch mechanism and strike area; manually test latch clicks fully into strike",
+      "Unplug 30 seconds to reset control; check door switch connector is fully seated at harness"
+    ],
+    "part_price_final": "$25-65",
+    "reason": "ERR code legitimately points to latch assembly failure; ~15% resolution via cleaning/reseating/reset is defensible before replacement, checks are safe and appropriate.",
+    "slug": "maytag-dryer-err-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Power-cycle washer (unplug 2 min) to clear transient door lock fault",
+      "Inspect door strike alignment and clean latch contact points",
+      "Check door lock wiring connector for corrosion or looseness"
+    ],
+    "part_price_final": "$80-150",
+    "reason": "E16 is a specific door lock failure code; the lock assembly itself (contacts/coil) genuinely fails in the large majority of cases, making 15% no-buy defensible for transient faults and wiring issues.",
+    "slug": "bosch-washer-e16-error-code"
+  },
+  {
+    "verdict": "apply_qualitative",
+    "no_buy_pct_final": null,
+    "free_checks_final": [
+      "Verify appliance is actually a washer (F20 is a Kenmore *washer* code, not dryer; dryers have no water inlet valves)",
+      "If washer: confirm both hot/cold supply valves fully open and hoses not kinked",
+      "Clean inlet valve screen filters at hose connections for sediment/debris"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "Correct code identification and safe checks, but supply/screen resolution rate for F20 isn't defensibly quantifiable without diagnostic context\u2014tech correctly returned null.",
+    "slug": "kenmore-dryer-f20-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Inspect door latch and strike for debris, food particles, or obstructions; clean thoroughly",
+      "Open and close door firmly 5-6 times to reseat latch, then reset breaker for 5 minutes",
+      "Check door strike alignment and hinge springs for sagging that prevents latch engagement"
+    ],
+    "part_price_final": "$65-140",
+    "reason": "F5E1 door latch fault predominantly requires latch assembly replacement; 15% no-buy for debris/alignment issues is defensible and checks are safe.",
+    "slug": "kitchenaid-dishwasher-f5e1-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "10%",
+    "free_checks_final": [
+      "Unplug dryer for 60 seconds, restore power to attempt error reset",
+      "Check motor wire harness connectors at control board and motor for looseness or corrosion"
+    ],
+    "part_price_final": "$140-220",
+    "reason": "Error 53 motor fault code is indeed nearly always a failed drive motor; 10% no-buy for rare connector issues is defensible, checks are safe and appropriate.",
+    "slug": "electrolux-dryer-e-53-error-code"
+  },
+  {
+    "verdict": "reject",
+    "no_buy_pct_final": null,
+    "free_checks_final": [
+      "Check and clean lint blockage in exhaust vent and duct",
+      "Verify blower wheel spins freely and isn't clogged with lint",
+      "Inspect vent hose for kinks or crushing"
+    ],
+    "part_price_final": "$8-20",
+    "reason": "E1 means thermal fuse has blown (non-resettable part failure); cleaning airflow *prevents recurrence* but cannot fix an already-blown fuse\u20140% no-buy, not 40%.",
+    "slug": "amana-dryer-f4-e1-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "25%",
+    "free_checks_final": [
+      "Inspect door strike alignment and clean lint buildup from latch mechanism and strike plate",
+      "Verify door closes fully with audible click and check hinges for sagging",
+      "Unplug 30 seconds, reseat door latch wire harness connector, check for visible wire damage"
+    ],
+    "part_price_final": "$25-65",
+    "reason": "DF code indicates door lock fault; 25% no-buy estimate defensible for alignment/lint/connector issues before latch replacement, checks are safe and appropriate.",
+    "slug": "samsung-dryer-df-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Power-cycle washer (unplug 60 seconds) to reset door lock electronics",
+      "Inspect door striker alignment and clean debris from door gasket and latch",
+      "Check door lock wiring connector for corrosion or looseness"
+    ],
+    "part_price_final": "$75-140",
+    "reason": "DE code overwhelmingly indicates failed door lock assembly (mechanical wear or relay failure); 15% no-buy for occasional connector/alignment issues is defensible from field data.",
+    "slug": "lg-washer-de-error-code"
+  },
+  {
+    "verdict": "reject",
+    "no_buy_pct_final": null,
+    "free_checks_final": [
+      "Unplug dryer, wait 60 seconds, restore power to attempt error reset",
+      "Check heater wire harness connectors at control board and heating element for looseness or corrosion"
+    ],
+    "part_price_final": null,
+    "reason": "F4E2 indicates control board relay failure, not the heating element; part listed is wrong\u2014customer needs control board ($150-300), not heater assembly.",
+    "slug": "whirlpool-dryer-f4e2-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Check for lint blockage in blower housing and exhaust vent restricting airflow",
+      "Inspect thermal fuse and high-limit thermostat wiring connectors for looseness or corrosion",
+      "Verify 240V power at outlet and check both breaker legs are on"
+    ],
+    "part_price_final": "$25-55",
+    "reason": "E63 heating fault is usually element/thermal cutoff failure, but ~15% airflow/connection issues is defensible; checks are safe and free.",
+    "slug": "ge-dryer-e63-error-code"
+  },
+  {
+    "verdict": "reject",
+    "no_buy_pct_final": null,
+    "free_checks_final": [
+      "Unplug dryer for 60 seconds to reset control board, then test cycle",
+      "Check for loose wire harness connections between main control and heating element assembly"
+    ],
+    "part_price_final": null,
+    "reason": "E64 is a heating element relay fault typically requiring control board replacement (~$150-250), not the $35-75 heating element listed as the part; wrong part identified for this error code.",
+    "slug": "frigidaire-dryer-e64-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check drain hose for kinks, clogs, or improper height (max 39\" above floor)",
+      "Inspect drain pump filter/coin trap for debris blocking impeller",
+      "Verify drain hose is not inserted too far into standpipe (causes siphon block)"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "D13 drain timeout is defensibly 50-70% obstructions/installation vs actual pump failure; checks are safe, free, and standard first-line diagnostics",
+    "slug": "maytag-washer-d13-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check and clear drain pump filter/coin trap for debris, coins, or small items",
+      "Inspect drain hose for kinks, clogs, or blockages; ensure proper installation height",
+      "Verify internal hoses are clear and pump impeller spins freely by hand"
+    ],
+    "part_price_final": "$50-120",
+    "reason": "E18 drain timeout is well-documented as majority blockage/obstruction rather than pump failure; 60% no-buy estimate is defensible and checks are safe/free",
+    "slug": "bosch-washer-e18-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Unplug for 2 minutes to reset control board, then test lid lock mechanism",
+      "Inspect lid strike alignment and clean striker/lock contact points with rubbing alcohol",
+      "Check wiring harness connector at lid lock for looseness or corrosion"
+    ],
+    "part_price_final": "$40-85",
+    "reason": "E1 is indeed typically failed lid lock assembly; 15% no-buy for reset/alignment/connector issues is defensible and conservative given mechanical failure dominance.",
+    "slug": "kenmore-washer-f5-e1-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "40%",
+    "free_checks_final": [
+      "Turn off water supply, disconnect inlet hose, check inlet valve screen for debris/mineral buildup and clean",
+      "Verify home water supply valve is fully open and water pressure is adequate (20-120 psi)",
+      "Inspect inlet hose for kinks and test fill valve coil resistance with multimeter (should read 500-1500 ohms)"
+    ],
+    "part_price_final": "$50-120",
+    "reason": "F6E1 water flow errors commonly caused by clogged screens/low pressure; 40% no-buy is defensible, checks are safe and correct, valve failure also common enough to justify moderate estimate",
+    "slug": "kitchenaid-dishwasher-f6e1-error-code"
+  },
+  {
+    "verdict": "apply_qualitative",
+    "no_buy_pct_final": null,
+    "free_checks_final": [
+      "Reset dryer by unplugging 2 minutes; check for tripped house breaker",
+      "Inspect lint buildup on heating element housing causing overheat sensor trip",
+      "Check thermal fuse and hi-limit thermostat for continuity"
+    ],
+    "part_price_final": "$40-85",
+    "reason": "Checks are valid and free, but error 63 heating circuit faults span thermal cutoffs, wiring, and element itself\u2014no defensible field data isolates 10% no-buy rate for this specific code/part pairing.",
+    "slug": "electrolux-dryer-e-63-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check drain hose for kinks, clogs, or excessive height (max 39 inches)",
+      "Remove and clean drain pump filter/coin trap of debris and obstructions",
+      "Run drain cycle and listen for pump hum to distinguish blockage from motor failure"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "DLO codes on Amana washers are well-documented as frequently caused by drain restrictions rather than pump failure; 60% no-buy is defensible and checks are standard safe diagnostics.",
+    "slug": "amana-washer-dlo-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "10%",
+    "free_checks_final": [
+      "Unplug dryer for 2 minutes, then check that igniter wire harness connector is fully seated",
+      "Visually inspect igniter for cracks or breaks in the ceramic element while cool"
+    ],
+    "part_price_final": "$35-$75",
+    "reason": "HC2 is igniter-specific fault code; ~90% need replacement due to thermal stress cracking, 10% no-buy for loose connectors is defensible and checks are safe/free.",
+    "slug": "samsung-dryer-hc2-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Power-cycle washer (unplug 60 seconds) to clear transient error and retry door latch",
+      "Inspect door strike/catch alignment and clean any detergent residue preventing full engagement",
+      "Check door lock wiring harness connector for looseness or corrosion"
+    ],
+    "part_price_final": "$45-$110",
+    "reason": "DE1 is indeed overwhelmingly a failed door lock assembly; 15% no-buy estimate for transient/alignment/connector issues is defensible and conservative.",
+    "slug": "lg-washer-de1-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check drain hose for kinks, clogs, or improper height; clear drain filter/coin trap of debris",
+      "Inspect drain pump impeller for socks, coins, or objects jamming movement; manually rotate to confirm it spins freely",
+      "Test drain pump resistance (5-10 ohms) and verify wire harness connections are secure"
+    ],
+    "part_price_final": "$35-$75",
+    "reason": "DRN codes commonly result from blockages/obstructions rather than pump motor failure; 60% no-buy is defensible field estimate, checks are safe and appropriate.",
+    "slug": "whirlpool-washer-drn-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check drain hose for kinks, clogs, and verify insertion depth is less than 4.5 inches into standpipe",
+      "Remove and clean pump filter, inspect impeller for obstructions (coins, fabric, debris)",
+      "Verify drain hose height is 39-96 inches and not creating siphon condition"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "C5 drain faults on GE washers genuinely split between clogs/hose setup (majority) and pump failure; 60% no-buy is defensible, checks are free/safe, price reasonable for OEM/aftermarket pumps",
+    "slug": "ge-washer-c5-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "40%",
+    "free_checks_final": [
+      "Verify both hot and cold supply valves are fully open and hoses are not kinked",
+      "Clean inlet valve mesh screens at hose connections (check for sediment buildup)",
+      "Confirm home water pressure is at least 20 psi"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "E1 water-fill timeout commonly caused by supply issues/clogged screens before valve failure; 40% no-buy is defensible field estimate, checks are safe and free",
+    "slug": "frigidaire-washer-e1-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "30%",
+    "free_checks_final": [
+      "Power-cycle washer (unplug 60 seconds) to clear transient lid-lock fault",
+      "Inspect lid striker alignment and clean magnetic contact surfaces",
+      "Check lid switch wire harness connector at control board for secure connection"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "D4 lid-lock fault commonly resolves via reset/alignment/connector checks; 30% no-buy estimate is defensible for this mechanical-electrical interlock system before replacing switch assembly.",
+    "slug": "maytag-washer-d4-error-code"
+  },
+  {
+    "verdict": "apply_qualitative",
+    "no_buy_pct_final": null,
+    "free_checks_final": [
+      "Check wire harness connections to heating element for corrosion or looseness",
+      "Inspect element terminals for visible burn marks or moisture damage",
+      "Test element continuity with multimeter (should read 20-50 ohms; infinite = failed open)"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "E19 heating element faults are overwhelmingly the element itself (limescale/burnout); checks are valid but no_buy_pct correctly null per honesty rule\u2014this is a heating element fault, not a cheap fix scenario.",
+    "slug": "bosch-washer-e19-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check drain hose for kinks, clogs, or excessive insertion into standpipe (max 4.5 inches)",
+      "Inspect and clean drain pump filter/coin trap for debris and obstructions",
+      "Verify drain pump wiring connector is secure and free of corrosion"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "E1 drain errors commonly stem from hose/clog issues before pump failure; 60% no-buy is defensible, checks are safe/free, price reasonable for drain pump assembly.",
+    "slug": "kenmore-washer-f9-e1-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "40%",
+    "free_checks_final": [
+      "Check drain hose, air gap, and garbage disposal knockout plug for clogs or kinks",
+      "Remove and clean filter assembly and sump area for debris blocking impeller",
+      "Power cycle dishwasher for 5 minutes to clear transient fault"
+    ],
+    "part_price_final": "$80-$150",
+    "reason": "F8E1 drain fault commonly caused by clogs/debris before pump failure; 40% no-buy rate is defensible field estimate, checks are safe and correct.",
+    "slug": "kitchenaid-dishwasher-f8e1-error-code"
+  },
+  {
+    "verdict": "apply_qualitative",
+    "no_buy_pct_final": null,
+    "free_checks_final": [
+      "Check vent system for blockages causing overheat trips; clean lint from blower housing and full exhaust path",
+      "Test thermal fuse and thermal cut-off for continuity (separate $10-20 parts if open)",
+      "Inspect heating element terminal block for loose or corroded spade connections"
+    ],
+    "part_price_final": "$45-110",
+    "reason": "Checks are legitimate free diagnostics that can resolve E64 without element replacement, but frequency of vent/thermal-fuse vs. actual element failure is not defensibly quantifiable\u2014null is correct.",
+    "slug": "electrolux-dryer-e-64-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check drain hose for kinks, clogs, or excessive height (max 96 inches); clear standpipe obstruction",
+      "Inspect and clean pump filter and impeller for coins, debris, or foreign objects",
+      "Verify drain hose isn't inserted too far into standpipe (causes air lock); test manual drain cycle"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "DRN codes are well-documented as majority blockage/installation issues before pump failure; 60% no-buy is defensible field estimate, checks are safe DIY, price reasonable for drain pump assembly.",
+    "slug": "amana-washer-drn-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check drain hose for kinks, clogs, or improper height above 96 inches",
+      "Clean debris filter at front lower panel for coins, lint, and small objects",
+      "Inspect drain pump impeller and housing for foreign objects jamming rotation"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "5C drain error commonly caused by blockages; 60% no-buy is defensible given field frequency of hose/filter/impeller obstructions before pump motor failure",
+    "slug": "samsung-washer-5c-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Power-cycle washer (unplug 60 seconds) to reset door lock control board glitch",
+      "Inspect door striker alignment and clean door latch catch area of detergent residue",
+      "Check door lock wire harness connector at main control board for looseness or corrosion"
+    ],
+    "part_price_final": "$65-140",
+    "reason": "DE2 is indeed predominantly a failed door lock assembly (~85%); 15% no-buy for occasional reset/wiring/alignment fixes is defensible and checks are safe/correct.",
+    "slug": "lg-washer-de2-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check drain hose for kinks/clogs and verify standpipe insertion depth under 4.5 inches",
+      "Clean pump filter/coin trap and inspect impeller for debris obstruction",
+      "Run drain cycle to verify pump operation and check for 120V at pump connector"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "F02 drain timeout is well-documented as frequently caused by hose restrictions and debris before pump failure; 60% no-buy is defensible field experience, checks are free/safe/standard troubleshooting.",
+    "slug": "whirlpool-washer-f02-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check drain pump filter, sump area, and drain hose for clogs; remove debris",
+      "Inspect drain hose for kinks or blockages; verify proper high-loop installation",
+      "Test drain pump impeller for jam by manually rotating; remove foreign objects"
+    ],
+    "part_price_final": "$50-120",
+    "reason": "FFF drain faults are commonly clogs/obstructions rather than pump motor failure; 60% no-buy is defensible field estimate, checks are safe and free.",
+    "slug": "ge-dishwasher-fff-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "40%",
+    "free_checks_final": [
+      "Verify both hot and cold supply valves are fully open and hoses are not kinked",
+      "Clean inlet valve screen filters for sediment or debris",
+      "Confirm water pressure is at least 20 psi at the supply"
+    ],
+    "part_price_final": "$25-60",
+    "reason": "E10 fill errors commonly stem from supply issues (valves, screens, pressure, kinks); 40% no-buy rate is defensible for these free checks before valve replacement.",
+    "slug": "frigidaire-washer-e10-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check drain hose for kinks, clogs, or elevation above 96 inches; clear standpipe",
+      "Clean drain pump filter and check impeller for socks, coins, or debris",
+      "Verify drain hose isn't inserted more than 4.5 inches into standpipe"
+    ],
+    "part_price_final": "$50-120",
+    "reason": "D5 drain timeout is legitimately majority obstructions/user-fixable issues before pump failure; 60% no-buy is defensible field estimate, checks are safe and correct",
+    "slug": "maytag-washer-d5-error-code"
+  },
+  {
+    "verdict": "reject",
+    "no_buy_pct_final": null,
+    "free_checks_final": [
+      "Check and clean drain pump filter and housing for debris/clogs",
+      "Inspect drain hose for kinks, clogs, or improper installation height (max 39 inches)",
+      "Verify drain pump impeller spins freely and isn't jammed by foreign objects"
+    ],
+    "part_price_final": null,
+    "reason": "E20 is a drainage error; the heating element is not the relevant part \u2014 drain pump or drain hose/filter blockages are the actual issues, making this part-check pairing fundamentally wrong.",
+    "slug": "bosch-washer-e20-error-code"
+  }
+]

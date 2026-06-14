@@ -11,6 +11,11 @@ tags:
   - washer
   - lg
 most_likely_cause: "door not fully closed or laundry caught in the door gasket"
+free_checks:
+  - "Power-cycle washer (unplug 60 seconds) to reset door lock electronics"
+  - "Inspect door striker alignment and clean debris from door gasket and latch"
+  - "Check door lock wiring connector for corrosion or looseness"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG washer door lock assembly"

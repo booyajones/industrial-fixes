@@ -11,6 +11,11 @@ tags:
   - dryer
   - electrolux
 money_part: "Electrolux dryer drive motor assembly"
+free_checks:
+  - "Unplug dryer for 60 seconds, restore power to attempt error reset"
+  - "Check motor wire harness connectors at control board and motor for looseness or corrosion"
+no_buy_pct: "10%"
+part_price: "$140-220"
 most_likely_cause: "Failed drive motor centrifugal switch or worn internal motor switch contacts"
 likelihood: "the most common cause"
 diy_or_pro: "pro"

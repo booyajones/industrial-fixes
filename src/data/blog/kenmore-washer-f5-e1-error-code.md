@@ -10,6 +10,11 @@ tags:
   - appliance
   - kenmore
 money_part: "Lid lock / lid switch assembly"
+free_checks:
+  - "Unplug for 2 minutes to reset control board, then test lid lock mechanism"
+  - "Inspect lid strike alignment and clean striker/lock contact points with rubbing alcohol"
+  - "Check wiring harness connector at lid lock for looseness or corrosion"
+no_buy_pct: "15%"
 part_price: "$40-90"
 most_likely_cause: "worn or failed lid lock or lid switch assembly"
 likelihood: "the most common cause"

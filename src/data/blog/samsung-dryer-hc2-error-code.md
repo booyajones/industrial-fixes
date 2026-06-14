@@ -11,6 +11,11 @@ tags:
   - dryer
   - samsung
 most_likely_cause: "Gas ignition circuit failure"
+free_checks:
+  - "Unplug dryer for 2 minutes, then check that igniter wire harness connector is fully seated"
+  - "Visually inspect igniter for cracks or breaks in the ceramic element while cool"
+no_buy_pct: "10%"
+part_price: "$35-$75"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
 money_part: "Samsung dryer igniter (glow bar)"
