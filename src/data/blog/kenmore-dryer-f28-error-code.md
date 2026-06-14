@@ -1,76 +1,82 @@
 ---
 title: "Kenmore F28 Error Code - Causes & Fix"
-description: "F28 means the main control board can't talk to the motor board. Most often it's a loose or corroded wiring connector between the two."
-pubDatetime: 2026-06-10T11:55:05Z
-modDatetime: 2026-06-10T11:55:05Z
+description: "F28 means lost communication between main control and motor control. Reseat all harness connectors first, fix most cases."
+pubDatetime: 2026-06-12T05:16:23Z
+modDatetime: 2026-06-12T05:16:23Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - kenmore
-money_part: "Central Control Unit (CCU) / Main Electronic Control Board"
-part_price: "$80-200"
-most_likely_cause: "Loose, oxidized, or unseated wiring connectors between the CCU and MCU"
+money_part: "CCU / Main Control Board (Kenmore washer)"
+most_likely_cause: "Loose or corroded harness connection at the control boards"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+free_checks:
+  - "Unplug the washer, open the top or rear panel, and firmly reseat every harness connector on the main control and motor control boards"
+  - "Inspect each connector pin and socket for corrosion, heat damage, or loose fit"
+part_price: "$80-180"
+no_buy_pct: "50%"
 ---
 
 ## Kenmore F28 Error Code — What It Means
 
-The F28 code on Kenmore front-load washers (built by Whirlpool) is a serial communication error between the central control unit (CCU, the main board) and the motor control unit (MCU, the motor drive board). The two boards exchange data to coordinate spin speeds and cycle stages. When the CCU cannot successfully talk to the MCU, the washer stops mid-cycle or refuses to start, and F28 appears on the display.
+F28 on Kenmore front-load washers (built by Whirlpool) is a serial communication fault between the main control board (CCU) and the motor control unit (MCU). The two boards cannot talk to each other, so the washer stops mid-cycle and displays the code. This is not a mechanical jam or spin problem. The fault usually traces to a loose or corroded wire harness plug, a failed control board, or damaged wiring between the boards.
 
-This is not a motor failure in most cases. It is a break in the signal path between the two electronic boards. The motor itself may be fine, but the control system cannot command it because the communication link is interrupted.
+Because communication errors can stem from either board or the harness between them, technicians follow a systematic approach: reseat every connector first, inspect for corrosion or damage, then swap boards if the fault persists. Most field reports show the CCU (main electronic control) as the failed component when reseating connectors does not clear the code, though MCU failures and burnt board traces also occur.
 
 ## Before You Replace Anything
 
-Many people replace the main control board or motor control board first. Before buying a board, unplug and reseat every connector at both the CCU and MCU, and visually inspect the harness for pinched or broken wires. A bad connection often costs nothing to fix.
+Homeowners often replace the motor first, thinking F28 is a spin fault. Always reseat all control-board connectors and inspect for corrosion before replacing any board or motor.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Loose or corroded connectors (~50%)** Vibration, humidity, or age can loosen or oxidize the multi-pin connectors linking the CCU and MCU, breaking the serial data line.
-- **Damaged wiring harness (~25%)** Pinched, chafed, or broken conductors in the communication harness interrupt the signal path even if the connectors look intact.
-- **Failed central control unit (CCU) (~15%)** The main board's communication driver or microcontroller can fail, preventing it from sending or receiving data.
-- **Failed motor control unit (MCU) (~10%)** The motor drive board's receiver circuit or burnt components (such as resistors or contacts) can stop it from responding to the CCU.
+- **Loose or corroded connector (~50%)** Harness plugs at the CCU or MCU work loose over vibration or develop oxidation that breaks the serial data path.
+- **Failed CCU (main control board) (~30%)** The electronic control unit loses its ability to send or receive signals to the motor control board.
+- **Failed MCU (motor control board) (~10%)** The motor control board itself fails, often showing burnt traces or damaged components visible on inspection.
+- **Damaged wiring harness (~8%)** Broken insulation, pinched wires, or pin backout in the harness between the two boards interrupts communication continuity.
+- **Motor circuit fault (~2%)** An open or short in the motor winding or motor wiring can prevent the MCU from reporting back to the CCU, triggering the communication fault.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Does the washer display F28 immediately on power-up, or only after trying to start a cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Immediate fault suggests a persistent hardware issue (bad board or harness damage). Inspect connectors and wiring first, then test boards.<br><strong>No:</strong> Intermittent fault during operation often points to a loose connector or vibration-sensitive wire. Reseat all plugs and secure the harness.</div>
+<details class="dtree"><summary>Did the code clear after you unplugged the washer for two minutes and reseated every control-board connector?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault was a poor connection. Run a full cycle to confirm the fix and watch for the code to return.<br><strong>No:</strong> The problem is a failed board or damaged harness. Proceed with inspection and continuity testing.</div>
 </details>
 
-<details class="dtree"><summary>After unplugging and firmly reseating all CCU and MCU connectors, does the code clear?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The problem was a poor connection. Run a test cycle; if F28 returns, inspect the harness for internal breaks.<br><strong>No:</strong> Move to harness continuity checks and board isolation tests. One of the control boards is likely failed.</div>
+<details class="dtree"><summary>Do you see burnt components, melted plastic, or discolored traces on the motor control board?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Replace the MCU. Visible damage confirms board failure.<br><strong>No:</strong> The CCU is the more common failure point when no visible damage is present. Test or replace the main control board.</div>
 </details>
 
-<details class="dtree"><summary>Can you see any burnt, discolored, or heat-damaged components on the motor control board?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Replace the MCU. Visible damage (burnt resistors, melted solder) confirms a board-level fault.<br><strong>No:</strong> If no visible damage and connectors are good, swap or replace the CCU first, since it initiates communication.</div>
+<details class="dtree"><summary>Does the drum spin freely by hand with the belt off?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The motor and bearings are fine. Focus on the control boards and harness.<br><strong>No:</strong> A seized bearing or blocked drum can stress the motor circuit and trigger communication faults. Fix the mechanical issue first.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Disconnect power** at the circuit breaker or unplug the washer completely before opening any panels or touching any connectors.
-2. **Remove the top and rear panels** to access the main control board (CCU, usually behind the control panel) and the motor control board (MCU, usually mounted on or near the motor at the bottom rear).
-3. **Unplug each connector** at both the CCU and the MCU. Examine the pins and sockets for corrosion (green or white deposits), bent pins, or heat marks. Clean any oxidation with electrical contact cleaner and a small brush.
-4. **Reconnect each plug firmly** until it clicks or seats fully. Wiggle gently to confirm a solid fit. Loose or half-seated connectors are the leading cause of F28.
-5. **Inspect the entire wiring harness** running between the two boards. Look for pinched wires where the harness passes through sheet-metal holes, chafing against the tub, or any broken insulation. Repair or replace damaged sections.
-6. **Restore power and run a test cycle**. If F28 clears, the repair is complete. If the code returns, isolate the boards by swapping in a known-good CCU or MCU one at a time to identify the failed component.
-7. **Replace the failed control board** if connector and harness checks pass but communication remains broken. In most cases where both connectors and wiring are sound, either the CCU or the MCU has an internal failure and must be replaced.
+1. **Disconnect power** by unplugging the washer or switching off the breaker.
+2. **Remove the top or rear panel** to access the main control board (usually mounted near the top) and the motor control board (often lower or on the motor itself).
+3. **Reseat every harness connector** on both boards by unplugging each one, inspecting the pins and sockets for corrosion or damage, then reconnecting firmly.
+4. **Inspect the wiring harness** between the two boards for pinched insulation, broken wires, heat damage, or loose pins.
+5. **Restore power and run a test cycle** to see if the code clears. If it does, the fault was a poor connection.
+6. **If F28 persists**, disconnect power again and either swap the CCU with a known-good unit or replace it. CCU part number AP3968080 is documented for some models.
+7. **If a new CCU does not fix the fault**, replace the MCU (motor control board) or check motor-circuit continuity for opens or shorts.
+8. **Reassemble all panels**, restore power, and run a full wash to confirm the repair.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Central Control Unit (CCU) / Main Electronic Control Board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dryer-f28-error-code&k=Central+Control+Unit+%28CCU%29+%2F+Main+Electronic+Control+Board&tag=errorcodefixes-20) \| Match the part number on your existing board; CCU designs vary by Kenmore model and year. |
-| Motor Control Unit (MCU) / Motor Drive Board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dryer-f28-error-code&k=Motor+Control+Unit+%28MCU%29+%2F+Motor+Drive+Board&tag=errorcodefixes-20) \| Verify compatibility with your washer's motor type and model number before ordering. |
-| Wiring Harness (CCU to MCU communication harness) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dryer-f28-error-code&k=Wiring+Harness+%28CCU+to+MCU+communication+harness%29&tag=errorcodefixes-20) \| Order if conductors are broken or insulation is badly damaged; repair with solder and heat-shrink if damage is localized. |
+| CCU / Main Control Board (Kenmore washer) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dryer-f28-error-code&k=CCU+%2F+Main+Control+Board+%28Kenmore+washer%29&tag=errorcodefixes-20) \| Look up your exact model number. AP3968080 is documented for some Kenmore/Whirlpool front-loaders. |
+| MCU / Motor Control Board (Kenmore washer) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dryer-f28-error-code&k=MCU+%2F+Motor+Control+Board+%28Kenmore+washer%29&tag=errorcodefixes-20) \| Replace if the board shows visible damage or if a new CCU does not clear the code. |
+| Wiring Harness (CCU to MCU) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kenmore-dryer-f28-error-code&k=Wiring+Harness+%28CCU+to+MCU%29&tag=errorcodefixes-20) \| Order the specific harness for your model if you find broken wires or damaged connectors. |
 
 ## When to Call a Pro
 
-Call a professional if you are uncomfortable working inside the washer cabinet, if you cannot locate or access the CCU or MCU, or if board-level troubleshooting is beyond your skill set. A technician can use diagnostic software or known-good swap boards to isolate the fault quickly. Also call a pro if the machine shows additional error codes or symptoms (such as burning smells or tripped breakers) that suggest deeper electrical damage. If you have already reseated connectors and inspected the harness but the code persists, a pro with manufacturer service manuals and board-testing tools will save time and prevent misdiagnosis.
+Call a technician if you are uncomfortable removing panels or working near 120V control boards, if reseating connectors and swapping the CCU does not clear F28, or if you need continuity testing on the motor circuit and harness. Professionals carry meters, known-good boards for swapping, and the correct wiring diagrams to isolate communication faults quickly. If the washer is under warranty or a service contract, let the authorized servicer handle board replacement to preserve coverage.
 
-**Rough cost:** DIY runs about $80–200 in parts (if a control board is needed), 30–90 min. A pro service call runs about $200–400.
+**Rough cost:** DIY runs about $80-180 in parts (control board), 45-90 min. A pro service call runs about $200-350.
