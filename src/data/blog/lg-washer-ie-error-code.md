@@ -1,8 +1,8 @@
 ---
 title: "LG Washer IE Error Code - Causes & Fix"
-description: "IE means water inlet error: the tub didn't fill in time. Most often it's a closed faucet, kinked hose, or clogged inlet screen."
-pubDatetime: 2026-06-08T02:58:46Z
-modDatetime: 2026-06-08T02:58:46Z
+description: "IE means water inlet error: the washer didn't fill in time. Most often caused by closed supply taps or clogged inlet screens."
+pubDatetime: 2026-06-12T17:52:34Z
+modDatetime: 2026-06-12T17:52:34Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,74 +10,77 @@ tags:
   - appliance
   - washer
   - lg
-most_likely_cause: "Closed or partially closed water supply faucets"
-free_checks:
-  - "Check inlet hoses for kinks and verify both hot/cold supply valves are fully open"
-  - "Clean inlet valve screens/filters at hose connections"
-  - "Verify drain hose has proper air gap and isn't siphoning water back out"
-no_buy_pct: "60%"
+money_part: "LG washer water inlet valve assembly"
+most_likely_cause: "Closed or partially closed water supply taps, or clogged inlet screens at the hose connections"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-money_part: "Water inlet valve assembly"
-part_price: "$15-50"
+free_checks:
+  - "Confirm both hot and cold water supply taps behind the washer are fully open."
+  - "Inspect inlet hoses for kinks, crushing, or visible damage and straighten them."
+  - "Remove inlet hoses and clean the small mesh screens at the washer connections and hose ends."
+part_price: "$15-40"
+no_buy_pct: "65%"
 ---
 
 ## LG Washer IE Error Code — What It Means
 
-The IE code on an LG washer stands for Water Inlet Error. It appears when the washer control detects that the tub did not fill to the required level within the expected time, so the cycle is stopped. LG's own support documentation confirms the error occurs when water fails to fill the tub adequately in a specified period.
+The IE error on an LG washer stands for Water Inlet Error. It appears when the control board does not detect an adequate rise in water level during the fill cycle within the allowed time. The machine stops and displays IE because it was unable to fill the tub with enough water to proceed with the wash program.
 
-This is not a drain problem or motor fault. The washer is telling you it cannot get enough water into the drum fast enough. The control expects a certain fill rate and volume, and when that isn't met the IE code is displayed and the cycle halts.
+This is a safety and diagnostic feature. The washer expects water to reach a certain level within a specific period. When that does not happen, it stops to prevent running a cycle without enough water, which could damage clothing or the machine itself.
 
 ## Before You Replace Anything
 
-Many people replace the inlet valve first when the real problem is a clogged inlet screen or kinked hose. Always check that both hot and cold faucets are fully open and clean the inlet filter screens before ordering a new valve.
+Many people replace the water inlet valve first without checking supply taps and inlet screens. Check that both hot and cold faucets are fully open and clean the inlet screens before ordering any parts.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Water supply faucets closed or partially closed (~35%)** Both hot and cold faucets behind the washer must be fully open for the machine to fill at the expected rate.
-- **Clogged inlet filter screens (~30%)** Rust, sand, stones, and sediment from household plumbing collect in the small mesh screens at the hose connection and block water flow.
-- **Kinked, crushed, or frozen inlet hose (~15%)** A bent, pressed, or frozen supply hose restricts flow and prevents the washer from filling quickly enough.
-- **Drain hose inserted too deep into standpipe (~10%)** When the drain hose is pushed deeper than 4 in into the drainpipe, siphoning can occur while the washer is trying to fill and triggers the IE code.
-- **Failed water inlet valve (~10%)** If supply, hoses, and filters are all good but the washer still won't fill, the inlet valve assembly itself may be stuck closed or electrically failed.
+- **Water supply taps closed or restricted (~40%)** One or both supply faucets behind the washer are not fully open, or building supply pressure is too low.
+- **Clogged inlet screens or filters (~25%)** The small mesh screens at the washer inlet or inside the hose ends are blocked by rust, sand, scale, or debris.
+- **Kinked or damaged inlet hose (~15%)** The hose is bent, crushed, frozen, or has internal damage that restricts water flow.
+- **Failed water inlet valve assembly (~15%)** The solenoid valve does not open or pass water even when commanded by the control board.
+- **Improper drain hose installation (~5%)** The drain hose is installed incorrectly, causing interference with fill on some models.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Are both the hot and cold water faucets behind the washer fully open?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Supply is on. Move to the next check.<br><strong>No:</strong> Turn both faucets fully counterclockwise and retry the cycle. This fixes the IE code in many cases.</div>
+<details class="dtree"><summary>Are both hot and cold supply taps fully open and is there water at the wall connections?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Supply is good. Move on to inspect hoses and screens.<br><strong>No:</strong> Open the taps fully. If still no water, check building supply or call a plumber.</div>
 </details>
 
-<details class="dtree"><summary>When you disconnect an inlet hose from the back of the washer, does water flow freely from the hose when you turn the faucet on?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Household supply is strong. The problem is downstream in the inlet screens or valve.<br><strong>No:</strong> Check for a kinked hose, a closed shutoff valve, or low household water pressure.</div>
+<details class="dtree"><summary>With hoses removed and placed into a bucket, does strong water flow from both wall valves?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Wall supply is adequate. The problem is in the hoses, screens, or washer valve.<br><strong>No:</strong> Low or no flow means a building supply issue or closed shutoff upstream. Resolve that first.</div>
 </details>
 
-<details class="dtree"><summary>After cleaning the inlet screens and reconnecting, does the washer now fill normally when you start a cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The screens were clogged. Problem solved.<br><strong>No:</strong> The inlet valve itself is likely faulty and needs replacement, or check drain-hose siphoning if equipped with a standpipe.</div>
+<details class="dtree"><summary>After cleaning the inlet screens and straightening hoses, does the washer fill normally?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Error is cleared. Restriction was in the screens or hoses.<br><strong>No:</strong> Suspect a failed inlet valve assembly or drain-hose interference. Test or replace the valve.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Turn off water and power.** Close both hot and cold faucets behind the washer and unplug the machine from the wall outlet.
-2. **Pull the washer away from the wall** so you can access the back panel and the inlet hoses.
-3. **Disconnect the inlet hoses** from the back of the washer by turning the couplings counterclockwise, then inspect each hose for kinks, cracks, or crushing.
-4. **Remove and clean the inlet filter screens.** Use needle-nose pliers to gently pull the small mesh screens out of each inlet port on the washer's valve body, rinse them under running water, and pick out any rust, sand, or debris.
-5. **Check the drain hose position.** Make sure the drain hose is not inserted deeper than 4 in into the standpipe or drain fitting to prevent siphoning during fill.
-6. **Reconnect the hoses and restore water and power.** Push the screens back in, thread the hoses onto the inlets, turn the faucets fully open, and plug the washer back in.
-7. **Run a short test cycle** and confirm the washer fills to the correct level without displaying the IE code.
-8. **If the code persists, test the inlet valve.** Listen for a click or hum when the washer tries to fill, and check that water actually flows into the drum; if not, replace the inlet valve assembly.
+1. **Turn off power** to the washer by unplugging it or switching off the circuit breaker.
+2. **Shut off both hot and cold water supply** taps behind the washer.
+3. **Pull the washer away** from the wall to access the hoses and connections.
+4. **Inspect the inlet hoses** for kinks, crushing, freezing, or visible damage. Straighten or replace as needed.
+5. **Remove both inlet hoses** from the back of the washer and from the wall supply connections.
+6. **Examine the inlet screens** (small mesh filters) at each connection point on the washer and at the hose ends. Clean them under running water or with a small brush to remove rust, sand, or debris. Replace screens if damaged or missing.
+7. **Test water flow** by placing the wall-end of each hose into a bucket, then opening the wall valves to confirm strong flow from both hot and cold lines. Weak flow indicates a building supply problem rather than a washer fault.
+8. **Check drain hose installation** to confirm it is routed correctly and not causing siphoning or interference on your model.
+9. **If all external checks pass** but the washer still will not fill, test the water inlet valve assembly electrically. Typical valve coil resistance is in the range of 500 to 1,500 ohms. If the coil is open or the valve does not actuate, replace the inlet valve assembly.
+10. **Reconnect the hoses**, restore water and power, and run a short fill cycle to verify the error clears.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Water inlet valve assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-ie-error-code&k=Water+inlet+valve+assembly&tag=errorcodefixes-20) \| Match your model number; most LG top-load and front-load valves are dual-coil solenoid types. |
-| Inlet hose set | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-ie-error-code&k=Inlet+hose+set&tag=errorcodefixes-20) \| Replace any hose that is kinked, cracked, or damaged by freezing. |
+| LG washer water inlet valve assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-ie-error-code&k=LG+washer+water+inlet+valve+assembly&tag=errorcodefixes-20) \| Dual-port solenoid valve that controls hot and cold water fill. Confirm part number for your model. |
+| Washer inlet hose (pair) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-ie-error-code&k=Washer+inlet+hose+%28pair%29&tag=errorcodefixes-20) \| Reinforced rubber or stainless-steel braided hoses. Replace if kinked beyond repair or cracked. |
+| Inlet screen filters | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-ie-error-code&k=Inlet+screen+filters&tag=errorcodefixes-20) \| Small mesh filters that fit into the washer inlet ports. Usually cleaned rather than replaced unless damaged. |
 
 ## When to Call a Pro
 
-Call a technician if you have verified that both faucets are fully open, cleaned the inlet screens, checked for kinks and siphoning, and the washer still displays the IE code. At that point the inlet valve or, less commonly, a pressure-switch or control-board fault is involved and requires diagnostic tools and experience. Also call a pro if you are uncomfortable working with water connections or if your installation uses non-standard plumbing that you cannot easily access or inspect.
+Call a pro if you have confirmed that both supply taps are fully open, hoses are clear, and screens are clean, yet the washer still displays IE and will not fill. A technician can test the inlet valve electrically, check for control-board communication faults, and rule out drain-hose interference or pressure-switch issues that are harder to diagnose at home. Also call a pro if you are uncomfortable working with water connections, do not have a multimeter to test valve coils, or if the washer is still under warranty and you want to preserve coverage.
 
-**Rough cost:** DIY runs about $15-50 in parts, 30-60 min. A pro service call runs about $120-250.
+**Rough cost:** DIY runs about $15-50 in parts (if inlet valve or hoses needed), 20-45 min. A pro service call runs about $150-250 service call.

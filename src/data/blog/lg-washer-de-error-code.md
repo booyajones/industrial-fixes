@@ -1,8 +1,8 @@
 ---
 title: "LG Washer dE Error Code - Causes & Fix"
-description: "dE means the washer cannot detect that the door has locked. The most common fix is closing the door firmly or clearing the gasket."
-pubDatetime: 2026-06-08T02:57:11Z
-modDatetime: 2026-06-08T02:57:11Z
+description: "LG dE means the door could not lock. Check for laundry caught in the seal, close the door firmly, and reset the washer."
+pubDatetime: 2026-06-12T17:51:10Z
+modDatetime: 2026-06-12T17:51:10Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,72 +10,73 @@ tags:
   - appliance
   - washer
   - lg
-most_likely_cause: "door not fully closed or laundry caught in the door gasket"
-free_checks:
-  - "Power-cycle washer (unplug 60 seconds) to reset door lock electronics"
-  - "Inspect door striker alignment and clean debris from door gasket and latch"
-  - "Check door lock wiring connector for corrosion or looseness"
-no_buy_pct: "15%"
+money_part: "LG front-load washer door lock assembly"
+most_likely_cause: "door not fully closed or laundry caught in the gasket"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-money_part: "LG washer door lock assembly"
-part_price: "$30-90"
+free_checks:
+  - "Open and close the door firmly, checking the rubber gasket for trapped laundry or debris."
+  - "Power off, unplug, hold START/PAUSE for 5 seconds, restore power, and retry a cycle to reset the control board."
+part_price: "$40-75"
+no_buy_pct: "60%"
 ---
 
 ## LG Washer dE Error Code — What It Means
 
-A dE error on an LG washer means the machine cannot detect that the door has locked. On some LG models, closely related variants appear as dE1 (door not closed properly) and dE2 (door is closed, but not locked). For top-load or drawer-style LG washers, dE can also mean the washer was not able to lock the drawer. The code will prevent the cycle from starting because the washer must confirm the door is sealed before it fills with water.
+The dE error code on an LG washer means the machine detected that the door could not lock. This is a door-locking failure, not a drain or motor problem. On some front-load models, LG distinguishes dE1 (door not closed properly) and dE2 (door closed but not locked). The washer will not start a cycle until it confirms the door is sealed and locked for safe operation.
+
+The code appears when the door is not fully seated, something is trapped between the door and the rubber gasket, the latch or strike is misaligned or broken, or the door lock assembly has failed. On top-load models the same code can indicate a lid-lock problem.
 
 ## Before You Replace Anything
 
-Many homeowners replace the main control board when the actual problem is a worn door latch assembly. Test the latch for continuity and mechanical engagement before ordering a new PCB.
+Many people replace the door lock assembly first, but the real culprit is often just clothing trapped in the seal or a loose strike plate that can be tightened or realigned with a screwdriver.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Door not fully closed or not pushed shut firmly (~35%)** The door latch may not be engaging completely, or the door seal is not compressed enough to trigger the lock sensor.
-- **Laundry caught in the door seal or gasket (~25%)** Clothing, lint, or small objects trapped between the door and the gasket prevent the latch from closing all the way.
-- **Defective door lock or latch assembly (~20%)** The lock mechanism itself has failed electrically or mechanically and cannot send the locked signal to the control board.
-- **Door misalignment, sagging hinge, or bent latch strike (~15%)** The door does not meet the lock hook square, or the strike is bent or broken, so the latch cannot engage.
-- **Main control board not processing the lock signal (~5%)** The PCB may have a failed relay or circuit that cannot read the door-lock feedback, even when the lock itself is working.
+- **Door not fully closed or laundry trapped in gasket (~45%)** Clothing, lint, or other items caught between the door and the rubber seal prevent the latch from seating, or the door was not pressed in firmly enough to engage the lock mechanism.
+- **Door latch strike or hook misaligned, loose, or broken (~25%)** The metal strike plate on the door frame may be bent, warped, or loose, so the door hook cannot reach it or the alignment is off by a fraction of an inch.
+- **Door lock or door switch assembly defective (~20%)** The electromechanical lock assembly fails to actuate or the internal switch does not signal the control board that the door is closed, even when the door is mechanically latched.
+- **Door hinge sagging or damaged (~7%)** A bent or loose hinge allows the door to hang out of alignment so the latch and strike do not meet squarely, especially on heavier front-load doors.
+- **Lid-lock mechanism not engaging (top-load models) (~3%)** On top-load washers the lid-lock switch or actuator may be stuck, broken, or misaligned so the washer does not detect a closed lid.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Does the door close with a firm click and stay latched when you push on it?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The door is mechanically closing, so the problem is likely the lock assembly itself or the control board not seeing the lock signal. Test the lock assembly for continuity and replace it if it fails.<br><strong>No:</strong> The door is not latching properly. Inspect the gasket for obstructions, check the hinge for sag, and examine the latch strike for bending or breakage.</div>
+<details class="dtree"><summary>Is there laundry, lint, or debris visible in the door gasket or around the latch?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Clear the obstruction, wipe the gasket, close the door firmly, and retry the cycle. The code will likely clear.<br><strong>No:</strong> Proceed to check door alignment and the strike plate for looseness or bending.</div>
 </details>
 
-<details class="dtree"><summary>After clearing the gasket and power-cycling, does the code clear and the cycle start normally?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The problem was a temporary obstruction or door closure issue. Monitor the machine over the next few loads to confirm the fix holds.<br><strong>No:</strong> The door lock assembly or control board is likely at fault. Proceed with electrical testing of the lock and replace it if readings are out of range.</div>
+<details class="dtree"><summary>Does the door close smoothly and sit flush with the front panel when you press it shut?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The problem is likely the lock assembly or wiring. Test the lock electrically or replace it.<br><strong>No:</strong> Inspect the hinge and strike plate. Tighten loose screws, bend the strike gently back into alignment, or replace broken hardware.</div>
 </details>
 
-<details class="dtree"><summary>Can you hear or feel the door lock actuate (a soft click or hum) when you start a cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The lock is trying to engage, so check that the latch hook is meeting the strike properly and that the door is aligned. If alignment is good, test lock continuity.<br><strong>No:</strong> The lock assembly is not receiving power or is failed. Check wiring connections at the lock, then test the lock for continuity and voltage supply.</div>
+<details class="dtree"><summary>After a power reset (unplug for 60 seconds), does the code clear and stay off for a full cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault may have been a transient control-board glitch. Monitor for recurrence.<br><strong>No:</strong> The door lock assembly or strike hardware is faulty and needs replacement.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Power off and unplug the washer** (or turn off the circuit breaker) to reset the control board and make sure safe inspection.
-2. **Press and hold the START/PAUSE button for 5 seconds** with the power disconnected to discharge residual voltage, then restore power and attempt a cycle.
-3. **Open the door and inspect the rubber gasket and door opening** for clothing, lint, coins, or any obstruction that would prevent the door from closing completely.
-4. **Close the door firmly** and listen for a solid click, then pull gently on the door to confirm the latch is holding and the door does not pop open.
-5. **Examine the door hinge and latch strike** for sagging, bending, or breakage. If the door does not meet the lock squarely, adjust or replace the hinge hardware or strike.
-6. **Test the door lock assembly** by disconnecting power, removing the lock, and using a multimeter to check continuity. One technician video shows readings of about 700-1500 ohms on one terminal pair and 60-90 ohms on another, and about 120 VAC live when powered.
-7. **Replace the door lock assembly** if continuity is out of range or the lock does not actuate. If a new lock does not resolve the code, test wiring and inspect the main control board for failed lock-signal circuits.
+1. **Power off the washer** and unplug it from the wall outlet or flip the breaker.
+2. **Open the door and inspect the rubber gasket** all the way around for trapped clothing, buttons, coins, lint, or other debris, and wipe the gasket clean with a damp cloth.
+3. **Close the door firmly** and listen for a solid click, then hold the START/PAUSE button for about 5 seconds with the power still off to discharge the control board.
+4. **Restore power** and select a rinse-and-spin or quick-wash cycle to test whether the code clears.
+5. **If the code persists, open the door again and examine the latch hook** on the door edge and the metal strike plate on the door opening for bends, cracks, loose screws, or misalignment.
+6. **Tighten or realign the strike plate** if it is loose or bent, or replace it if broken, then test the cycle again.
+7. **If the door closes flush and the strike is aligned but the code remains, test or replace the door lock assembly** by removing the front panel or inner door boot clamp to access the lock, disconnecting the wire harness, and installing a new lock, then reassemble and run a test cycle.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| LG washer door lock assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-de-error-code&k=LG+washer+door+lock+assembly&tag=errorcodefixes-20) \| Match your exact model number. The lock includes the latch solenoid and feedback switch in one unit. |
-| LG washer door latch strike or hook | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-de-error-code&k=LG+washer+door+latch+strike+or+hook&tag=errorcodefixes-20) \| Metal catch on the door frame. Order if the strike is bent, broken, or does not align with the lock. |
-| LG washer main control board (PCB) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-de-error-code&k=LG+washer+main+control+board+%28PCB%29&tag=errorcodefixes-20) \| Only if lock assembly and wiring test good but the code persists. Verify the part number on your existing board. |
+| LG front-load washer door lock assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-de-error-code&k=LG+front-load+washer+door+lock+assembly&tag=errorcodefixes-20) \| Match your exact model number, most assemblies include the switch and solenoid in one unit. |
+| Door latch strike plate / hook | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-de-error-code&k=Door+latch+strike+plate+%2F+hook&tag=errorcodefixes-20) \| Often sold as a small metal bracket, check the parts diagram for your model year. |
+| Top-load lid-lock assembly (if applicable) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-de-error-code&k=Top-load+lid-lock+assembly+%28if+applicable%29&tag=errorcodefixes-20) \| For top-load LG washers, verify your model uses a mechanical lid lock rather than a magnetic switch. |
 
 ## When to Call a Pro
 
-Call a professional if you have replaced the door lock assembly and confirmed the door closes properly, but the dE code still appears. The problem may be a failed relay or circuit on the main control board, a wiring harness fault, or a model-specific lock configuration that requires factory diagnostic software. A technician can also perform live voltage tests and control-board signal checks that are difficult and potentially dangerous for a homeowner without training. If your washer is still under warranty, contact LG or an authorized service center before opening the unit yourself.
+Call a professional if you have checked and cleared all obstructions, reset the washer, confirmed the door closes flush and the strike is aligned, yet the dE code returns immediately on every cycle. A technician can perform electrical tests on the door lock circuit and the main control board to isolate whether the lock assembly is sending the correct signals or whether the board itself has failed. Also call a pro if the door hinge is badly warped or the outer tub mounting has shifted, since realigning heavy front-load door hardware or repositioning the tub requires special tools and experience to avoid damage to the drum suspension or cabinet.
 
-**Rough cost:** DIY runs about $30-90 in parts, 30-60 min. A pro service call runs about $150-300.
+**Rough cost:** DIY runs about $40-80 in parts, 30-60 min. A pro service call runs about $150-250.

@@ -1,8 +1,8 @@
 ---
 title: "LG Dishwasher FE Error Code - Causes & Fix"
-description: "FE means Fill Error: the dishwasher detected abnormal water fill. Check float assembly for stuck debris, then inspect inlet valve."
-pubDatetime: 2026-06-08T03:27:16Z
-modDatetime: 2026-06-08T03:27:16Z
+description: "FE means fill error: not enough water in the tub. Most often a clogged inlet filter or low water pressure. Check supply valve first."
+pubDatetime: 2026-06-12T18:00:18Z
+modDatetime: 2026-06-12T18:00:18Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,81 +10,72 @@ tags:
   - appliance
   - dishwasher
   - lg
-most_likely_cause: "stuck or obstructed float assembly"
-free_checks:
-  - "Check household water supply valve is fully open and water pressure is adequate (min 20 psi)"
-  - "Inspect inlet hose for kinks, clogs, or closed inline shutoff valve"
-  - "Clean inlet valve screen filter at hose connection for sediment/debris"
-no_buy_pct: "60%"
+money_part: "LG dishwasher water inlet valve"
+most_likely_cause: "clogged inlet hose filter or low household water pressure"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-money_part: "LG dishwasher water inlet valve"
-part_price: "$15-80"
+free_checks:
+  - "Turn the water supply valve behind the dishwasher fully counterclockwise to confirm it is completely open"
+  - "Disconnect the inlet hose and inspect the small mesh filter inside the valve inlet for sediment and debris, then clean it under running water"
+  - "Check the inlet hose for kinks or bends that restrict flow"
+part_price: "$15-35 for a water inlet valve"
+no_buy_pct: "70%"
 ---
 
 ## LG Dishwasher FE Error Code — What It Means
 
-The FE code on an LG dishwasher stands for Fill Error. The machine has detected a water-fill problem. LG groups FE with AE/RE conditions that can indicate the water supply may exceed the standard amount in some situations, so FE covers both underfill and overfill scenarios rather than a simple low-water fault.
-
-In practice, the dishwasher control sees an abnormal fill condition. It may be receiving too little water, too much water, or a level signal that does not match what the pump and timer expect. The code will not clear until you fix the underlying water-supply or level-sensing issue and power-cycle the unit.
+The FE error code stands for Fill Error. LG USA Support states that an FE error indicates your dishwasher has experienced a fill error and detected insufficient water in the tub. The machine has not reached the required water level within the specified fill time, or it cannot confirm that water has entered correctly. This is a slow-fill or no-fill problem, not an overflow condition, though owners sometimes confuse the two because the float may trip if the unit tries to compensate for restricted flow.
 
 ## Before You Replace Anything
 
-Many people replace the control board first. Instead, pull the lower rack and check whether the float is stuck by detergent buildup or debris, which costs nothing to clean and is the most common fix.
+Homeowners often replace the water inlet valve first, but a clogged mesh filter at the valve inlet or a partially closed supply valve is the usual culprit. Clean the filter and verify full valve opening before buying a new valve.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Stuck or obstructed float assembly (~40%)** Detergent residue, food debris, or hard-water scale prevents the float from moving freely, so the control cannot read the correct fill level.
-- **Faulty float switch (~25%)** The float moves freely but its switch contacts are corroded or the wiring has failed, sending no signal or a constant high/low signal to the control.
-- **Defective water inlet valve (~20%)** The valve does not open, opens only partially, or fails to close, causing underfill or continuous flow that triggers the abnormal-fill detection.
-- **Low incoming water pressure or kinked supply line (~10%)** LG requires household pressure above 20 PSI and a clear hose; anything less starves the fill cycle and the control logs FE when the timer expires before the target level.
-- **Pressure switch or sensing-tube blockage (~5%)** The air-tube path to the pressure switch is clogged or the switch diaphragm has failed, so the control misreads the actual water level as too high or too low.
+- **Clogged inlet hose filter (~35%)** Sediment from household water builds up on the small mesh screen at the valve connection and restricts flow.
+- **Low household water pressure (~25%)** The dishwasher requires a minimum of 20 PSI to fill properly, and pressure below that threshold causes the fill time to exceed the sensor limit.
+- **Water supply valve partially closed (~20%)** The shutoff valve behind the unit is not turned fully open, limiting water flow into the machine.
+- **Faulty water inlet valve (~12%)** The solenoid valve fails to open mechanically or electrically, preventing water from entering the tub.
+- **Defective float switch assembly (~5%)** The float is stuck, dirty, or the electrical switch inside it has failed, so the machine cannot confirm water has entered.
+- **Kinked or crushed inlet line (~3%)** The copper or braided supply line is bent or pinched, restricting flow enough to trigger the fill-time limit.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Does the float in the tub bottom move up and down freely when you lift it with your finger?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The float is not stuck. Test the float switch with a multimeter for continuity or inspect the inlet valve and water supply next.<br><strong>No:</strong> The float is obstructed. Clean the float chamber, remove any detergent buildup or debris, then reassemble and test the cycle.</div>
+<details class="dtree"><summary>Is the water supply valve behind the dishwasher fully open?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The valve is not the problem. Proceed to check the inlet filter and hose.<br><strong>No:</strong> Turn the valve fully counterclockwise, then run a short cycle to see if the FE clears.</div>
 </details>
 
-<details class="dtree"><summary>Is the dishwasher shutoff valve under the sink fully open and the supply hose free of kinks?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Water supply is adequate. Focus on the inlet valve, float switch, or pressure-sensing components inside the machine.<br><strong>No:</strong> Open the valve or straighten the hose, then run a test cycle to see if FE clears.</div>
+<details class="dtree"><summary>Does water flow freely when you disconnect the inlet hose and turn on the supply valve briefly into a bucket?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Household pressure is adequate. The problem is likely the inlet valve, filter, or float switch inside the dishwasher.<br><strong>No:</strong> You have low household water pressure or a kinked supply line. Check the line for bends and test pressure with a gauge (must be above 20 PSI).</div>
 </details>
 
-<details class="dtree"><summary>Does water enter the tub at all when you start a cycle, or does it overfill and spill into the base pan?</summary>
-<div class="dtree-body"><strong>Yes:</strong> If overfilling, suspect a stuck-open inlet valve or a failed float/pressure switch that cannot signal the control to stop filling.<br><strong>No:</strong> If no water enters, check the inlet valve for 120 V AC during fill and verify the valve is not clogged with sediment.</div>
+<details class="dtree"><summary>Is the mesh filter at the inlet valve connection clean and free of debris?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The filter is not clogged. Test the inlet valve solenoid with a multimeter or replace the valve if other checks pass.<br><strong>No:</strong> Clean the filter under running water, reinstall the hose, and test the dishwasher again.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Disconnect power** by unplugging the dishwasher or switching off the breaker at the panel.
-2. **Check the water supply** under the sink: open the shutoff valve fully, straighten any kinks in the supply hose, and confirm household pressure is above 20 PSI (turn on a nearby faucet to verify flow).
-3. **Remove the lower dish rack** and locate the round float assembly in the center or corner of the tub floor, then lift it to see if it moves freely up and down without binding.
-4. **Clean the float chamber** by removing any detergent film, food particles, or mineral scale that could prevent the float from traveling its full range, then rinse and dry the area.
-5. **Inspect the float switch and wiring** by removing the kick panel or lower access cover, tracing the wire from the float to its connector, checking for corrosion or loose pins, and testing continuity across the switch terminals as you move the float.
-6. **Test the inlet valve** by running a fill cycle and listening for the valve to click open, checking for 120 V AC at the valve coil terminals during fill, and verifying water flows into the tub at a normal rate.
-7. **Reassemble and run a test cycle**: if the FE code returns, replace the failed component (float switch, inlet valve, or pressure switch) rather than resetting the machine again.
+1. **Unplug the dishwasher** or switch off the circuit breaker, then wait five minutes to allow the control board to reset before reconnecting power.
+2. **Check the water supply valve** behind the dishwasher and turn it fully counterclockwise to confirm it is completely open.
+3. **Disconnect the inlet hose** from the back of the unit and inspect the small mesh filter inside the valve inlet for sediment, then clean it thoroughly under running water if clogged.
+4. **Inspect the inlet hose** for kinks, bends, or crushing along its length and straighten or replace the line if restricted.
+5. **Test household water pressure** by briefly opening the supply valve into a bucket (with the hose removed) or using a pressure gauge to confirm pressure is above 20 PSI.
+6. **Test the water inlet valve solenoid** by disconnecting the wires, then measuring resistance across the terminals with a multimeter (typical spec is 1.5 to 2.5 kΩ, but consult your model's table), and replace the valve if resistance is zero or infinite.
+7. **Inspect the float switch assembly** inside the tub by removing the lower rack and checking that the float moves freely up and down without sticking, then clean any debris around it and test the electrical continuity of the switch if accessible.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| LG dishwasher water inlet valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dishwasher-fe-error-code&k=LG+dishwasher+water+inlet+valve&tag=errorcodefixes-20) \| Match your model number; single or dual-outlet versions exist. |
-| LG dishwasher float switch assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dishwasher-fe-error-code&k=LG+dishwasher+float+switch+assembly&tag=errorcodefixes-20) \| Includes the float and switch; confirm the connector type for your model. |
-| Pressure switch (if applicable) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dishwasher-fe-error-code&k=Pressure+switch+%28if+applicable%29&tag=errorcodefixes-20) \| Less common; used on models with air-tube level sensing. |
+| LG dishwasher water inlet valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dishwasher-fe-error-code&k=LG+dishwasher+water+inlet+valve&tag=errorcodefixes-20) \| Match your model number exactly; valves vary by series. |
+| LG dishwasher float switch assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-dishwasher-fe-error-code&k=LG+dishwasher+float+switch+assembly&tag=errorcodefixes-20) \| Only if the float is visibly damaged or continuity tests fail. |
 
 ## When to Call a Pro
 
-Call a technician if you have verified the water supply is good, cleaned the float, and tested the float switch but the FE code persists. A pro can safely check the pressure-switch air-tube path, measure inlet-valve operation under load, and diagnose control-board issues without risking water damage. Also call if you are uncomfortable working around 120 V wiring or if the dishwasher has already flooded the base pan, because that may indicate a stuck valve or failed overfill sensor that needs immediate replacement to prevent floor damage.
+Call a certified technician if you have confirmed the supply valve is open, the filter is clean, household pressure is above 20 PSI, and the inlet valve tests within spec, yet the FE error persists. The float switch or pressure sensor may require disassembly of the tub base, and the control board may need diagnostic software to verify the fill-signal circuit. Also call a pro if you are uncomfortable working with live electrical connections or if the machine is under warranty, since DIY work can void coverage.
 
-**Rough cost:** DIY runs about $15–80 in parts, 30–90 min. A pro service call runs about $150–300.
-
-## See Also
-
-- [LG Dryer Won't Start - Causes & Fix](/posts/lg-dryer-wont-start/)
-- [LG Microwave Won't Start - Causes & Fix](/posts/lg-microwave-wont-start/)
-- [LG Washer Stuck on One Cycle - Causes & Fix](/posts/lg-washer-stuck-on-one-cycle/)
-- [LG Dishwasher CE Error Code - Causes & Fix](/posts/lg-dishwasher-ce-error-code/)
+**Rough cost:** DIY runs about $15-50 in parts if you need a new inlet valve, 30-60 min. A pro service call runs about $150-250 for a service call and valve replacement.

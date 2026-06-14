@@ -1,8 +1,8 @@
 ---
 title: "Whirlpool Washer F02 Error Code - Causes & Fix"
-description: "F02 means the washer tub isn't draining in time. Check for a kinked or clogged drain hose, then clean the pump filter if the hose is clear."
-pubDatetime: 2026-06-08T05:41:48Z
-modDatetime: 2026-06-08T05:41:48Z
+description: "F02 means the washer didn't drain in 8 minutes. Most common fix: clear the drain pump filter or a kinked drain hose."
+pubDatetime: 2026-06-12T18:08:14Z
+modDatetime: 2026-06-12T18:08:14Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,74 +10,76 @@ tags:
   - appliance
   - washer
   - whirlpool
-most_likely_cause: "clogged drain hose or kinked drain hose"
-free_checks:
-  - "Check drain hose for kinks/clogs and verify standpipe insertion depth under 4.5 inches"
-  - "Clean pump filter/coin trap and inspect impeller for debris obstruction"
-  - "Run drain cycle to verify pump operation and check for 120V at pump connector"
-no_buy_pct: "60%"
+money_part: "Whirlpool washer drain pump assembly"
+most_likely_cause: "Blocked drain pump filter or kinked drain hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-money_part: "Whirlpool drain pump assembly"
-part_price: "$15-80"
+free_checks:
+  - "Straighten and inspect the drain hose for kinks, crushes, or clogs"
+  - "Clean the drain pump filter (coin trap) of lint, coins, and debris"
+  - "Check the standpipe or utility sink for backup or slow drainage"
+part_price: "$45-80"
+no_buy_pct: "70%"
 ---
 
 ## Whirlpool Washer F02 Error Code — What It Means
 
-The F02 (or F2) code on Whirlpool front-load washers indicates excessive drain time. The machine has detected that the tub is not emptying within the expected drain window, typically around eight minutes. Whirlpool describes this as a long drain time fault.
+On Whirlpool front-load washers, F02 is a long-drain fault. The control board energizes the drain pump and watches the pressure sensor to confirm the tub empties below the threshold. If the water level does not drop within about 8 minutes, the cycle stops and F02 appears. This is a drainage restriction or pump failure issue, not a random electronics glitch.
 
-The code can appear when water remains in the drum after the drain cycle or when the washer cannot pump out water fast enough. It is closely related to the F21 code, with F02 often representing a more severe drain failure.
+Whirlpool groups F02 with F21 as an indication that drain times are longer than expected. The code points to a physical blockage in the drain path, a failed pump, or in rare cases a pressure-sensing problem that prevents the control from seeing that the tub has emptied.
 
 ## Before You Replace Anything
 
-Many people replace the drain pump first without checking the external drain path. Always inspect and clear the drain hose, drainpipe, and pump filter before ordering a pump.
+Many people replace the drain pump when the real cause is a clogged coin trap or kinked hose. Always clean the filter, inspect the hose, and check pump power before ordering a new pump.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Kinked or clogged drain hose (~35%)** A bent, twisted, or debris-filled drain hose restricts water flow and prevents the washer from draining within the normal time window.
-- **Blocked pump filter or coin trap (~30%)** Coins, lint, small fabric pieces, and other foreign objects accumulate in the drain pump filter and prevent water from reaching the pump.
-- **Weak or failed drain pump (~20%)** A worn impeller, damaged pump motor, or internally clogged pump assembly reduces pumping power and causes slow or no drainage.
-- **Excess suds from non-HE detergent (~10%)** Using regular detergent or too much HE detergent creates excessive suds that interfere with the drain cycle and trigger the code.
-- **Clogged drainpipe or utility sink (~5%)** A blockage in the household drain line or standpipe prevents water from leaving the washer hose and backs up into the tub.
+- **Blocked drain pump filter (coin trap) (~35%)** Coins, lint, socks, and other debris accumulate in the filter housing and restrict flow, preventing the tub from draining in the allowed time.
+- **Kinked or clogged drain hose (~25%)** A crushed, kinked, or internally blocked hose slows or stops water flow from the pump to the standpipe or sink.
+- **Failed drain pump (~20%)** The pump receives line voltage but does not run, hums without pumping, or has a damaged impeller or windings.
+- **Clogged standpipe or utility sink (~10%)** A slow or backed-up household drainpipe prevents the washer from emptying fast enough even when the pump and hose are clear.
+- **Excessive suds from non-HE or too much detergent (~5%)** Over-sudsing slows drainage and can contribute to drain-time faults, especially when combined with a partial restriction.
+- **Faulty pressure switch or sensor circuit (~5%)** The drain path is clear and the pump runs, but the pressure switch or sensor does not signal the control that the tub is empty.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Is the drain hose kinked, crushed, or visibly bent behind the washer?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Straighten the hose and secure it with the proper U-shaped form, then reset the washer and test a drain cycle.<br><strong>No:</strong> Move to the next check.</div>
+<details class="dtree"><summary>Is the drain hose kinked, crushed, or visibly clogged?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Straighten or replace the hose, then run a drain cycle to see if F02 clears.<br><strong>No:</strong> Move to the next check.</div>
 </details>
 
-<details class="dtree"><summary>When you disconnect the drain hose from the washer and blow through it or run water through it, does water flow freely?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The hose is clear. Check the pump filter next for debris.<br><strong>No:</strong> The hose is clogged. Clear or replace the drain hose, then reset and test the washer.</div>
+<details class="dtree"><summary>Does the drain pump filter (coin trap) contain debris, coins, or lint?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Clean the filter and trap completely, reassemble, and test the cycle.<br><strong>No:</strong> Move to the next check.</div>
 </details>
 
-<details class="dtree"><summary>After clearing the filter and hose, does the pump make a loud humming or grinding noise during the drain cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The drain pump is likely worn or jammed. Inspect the pump impeller for damage and replace the pump if necessary.<br><strong>No:</strong> The drain system is clear. Check that you are using HE detergent and not overdosing, then run a test cycle.</div>
+<details class="dtree"><summary>Does the drain pump run (hum or vibrate) when the washer tries to drain?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The pump may have a sheared impeller or the pressure sensor may not see the level drop. Inspect the impeller and pressure switch.<br><strong>No:</strong> Check that the pump receives line voltage. If it does but does not run, replace the pump.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Cancel the fault and reset the washer.** Press Pause/Cancel to clear the code. If it does not clear, unplug the washer for five minutes, restore power, select a cycle, and press Start.
-2. **Inspect the drain hose for kinks or blockage.** Pull the washer forward and check that the drain hose is not bent, crushed, or twisted. Disconnect the hose from the back of the washer and from the drain pipe, then blow through it or flush it with water to verify it is clear.
-3. **Check the household drainpipe and utility sink.** Confirm that the standpipe or sink is not clogged and that water drains freely when you pour a bucket of water into it. Clear any blockage in the drain line.
-4. **Remove and clean the drain pump filter.** Open the access panel at the lower front of the washer. Place a towel and shallow pan underneath, then unscrew or pull out the pump filter or coin trap. Remove all debris, rinse the filter, and reinstall it securely.
-5. **Test the drain pump for weak or failed operation.** With the filter and hoses clear, run a drain or spin cycle and listen to the pump. If the pump hums, runs weakly, or makes grinding noises, remove the pump assembly and inspect the impeller for damage or wear. Replace the pump if the impeller is broken or the motor is weak.
-6. **Verify proper detergent use.** Confirm you are using only HE (high-efficiency) detergent and following the dosage on the label. Excess suds can interfere with drainage and trigger the F02 code.
-7. **Reassemble and run a test cycle.** After clearing blockages or replacing parts, restore all panels and hoses, run a drain/spin or full wash cycle, and confirm that the washer drains normally and the F02 code does not return.
+1. **Kill power** by unplugging the washer or switching off the circuit breaker, then make the area safe and prepare to access the front lower panel or rear of the machine.
+2. **Inspect the drain hose** from the pump outlet to the standpipe or sink for kinks, crushes, internal blockage, and correct installation height.
+3. **Open and clean the drain pump filter** (coin trap) by unscrewing the access cover, removing debris, and checking the pump inlet and nearby hoses for socks or lint plugs.
+4. **Check the household drainpipe** by pouring a bucket of water into the standpipe or sink to confirm it drains freely without backing up.
+5. **Test the drain pump electrically** by running a drain cycle and listening for pump operation, or use a multimeter to verify the pump receives line voltage when commanded.
+6. **Inspect the pump impeller** by removing the pump and checking for cracks, shear, or debris jamming the impeller blades.
+7. **Check the pressure switch and air hose** if all drain hardware is clear and the pump runs but F02 persists, looking for a clogged air line or faulty switch that does not signal empty.
+8. **Reset the fault** by pressing Pause/Cancel or unplugging the washer for 5 minutes, then restart the cycle to confirm the repair.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Whirlpool drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-washer-f02-error-code&k=Whirlpool+drain+pump+assembly&tag=errorcodefixes-20) \| Model-dependent; verify your model number. Common aftermarket part 8181684 fits many Duet washers; OEM 461970228513 is also available. |
-| Drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-washer-f02-error-code&k=Drain+hose&tag=errorcodefixes-20) \| Standard corrugated or smooth-bore hose, typically 1-1/4 inch diameter. Check length and fittings for your installation. |
-| Hose clamps | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-washer-f02-error-code&k=Hose+clamps&tag=errorcodefixes-20) \| Stainless steel worm-drive clamps to secure the drain hose to the pump outlet and drain pipe connection. |
+| Whirlpool washer drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-washer-f02-error-code&k=Whirlpool+washer+drain+pump+assembly&tag=errorcodefixes-20) \| Buy only after confirming the pump does not run when powered or has a damaged impeller. Common part numbers include WPW10364988 and 8181684. |
+| Drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-washer-f02-error-code&k=Drain+hose&tag=errorcodefixes-20) \| Replace if the original hose is kinked, cracked, or internally collapsed and cannot be cleared. |
+| Pressure switch or water level sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-washer-f02-error-code&k=Pressure+switch+or+water+level+sensor&tag=errorcodefixes-20) \| Replace if the drain path and pump test good but the control still does not see the tub empty. Consult your model's wiring diagram for the correct switch. |
 
 ## When to Call a Pro
 
-Call a technician if you have cleared the drain hose, filter, and external drain line but the F02 code persists and the pump runs weakly or not at all. A pro can test the pump motor electrically, check for wiring faults, and replace the pump assembly safely. Also call if you are uncomfortable working with electrical connectors, removing the front panel, or tilting the washer to access internal components. If the washer is still under warranty, contact Whirlpool service to avoid voiding coverage.
+Call a pro if you have cleaned the filter, cleared the hose, verified the standpipe drains freely, and the code returns. A technician can safely test the pump under power, check the pressure-sensor circuit with the correct meter settings, and replace the pump or switch with the factory-correct part. Also call for service if you are not comfortable working with line voltage, accessing the pump through the cabinet, or if the washer is still under warranty and you want to preserve coverage.
 
-**Rough cost:** DIY runs about $15-80 in parts (drain pump or hose), 30-90 min. A pro service call runs about $150-300.
+**Rough cost:** DIY runs about $0-80 in parts, 30-60 min. A pro service call runs about $150-300.

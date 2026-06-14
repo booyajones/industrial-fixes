@@ -1,8 +1,8 @@
 ---
 title: "Samsung Washer 5E Error Code - Causes & Fix"
-description: "Samsung 5E means water won't drain within 30 minutes. Most often a clogged pump filter. Clean it and check the drain hose for kinks."
-pubDatetime: 2026-06-06T03:51:41Z
-modDatetime: 2026-06-06T03:51:41Z
+description: "5E means your washer can't drain water within the time limit. Most common fix: clean the debris filter and check the drain hose for kinks."
+pubDatetime: 2026-06-12T17:58:51Z
+modDatetime: 2026-06-12T17:58:51Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,75 +10,74 @@ tags:
   - appliance
   - washer
   - samsung
-most_likely_cause: "Clogged drain pump filter"
-free_checks:
-  - "Clean drain pump filter of coins, lint, and debris; check drain hose for kinks or clogs"
-  - "Verify drain hose height is correct (max 96 inches with proper air gap)"
-  - "Power cycle washer and test spin cycle with empty drum"
-no_buy_pct: "80%"
+money_part: "Samsung washer drain pump assembly"
+most_likely_cause: "Clogged pump filter or debris trap"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-money_part: "Drain pump filter / debris filter"
-part_price: "$15-50"
+free_checks:
+  - "Clean the pump debris filter of lint, coins, hairpins, and other foreign objects"
+  - "Check the drain hose for kinks, crushing, or improper installation depth in the standpipe"
+  - "Verify the household drain or standpipe is not clogged or backing up"
+part_price: "$35-65"
+no_buy_pct: "60%"
 ---
 
 ## Samsung Washer 5E Error Code — What It Means
 
-The Samsung 5E (or SE) error appears when the washer cannot drain water within about 30 minutes. The machine detects that the tub still contains water after the drain cycle timeout and stops to prevent overflow or pump damage. This is a drain system fault, not a water-supply problem.
+The 5E error code (sometimes displayed as SE) tells you the washer has detected a drain timeout. Water is not leaving the tub fast enough, so the control board stops the cycle and flags a drainage problem. This is not a fill issue. The machine expects water to drain within a set window, and when it doesn't, the pressure sensor or timer circuit triggers the code.
 
-In practice, the error points to a blockage or failure somewhere in the path that moves water out of the tub: the drain pump filter, the drain hose, the pump itself, or the pressure-sensing system that tells the control board how much water remains. The washer will not advance to the next cycle until the water drains and the error clears.
+In most cases, the root cause is mechanical blockage or a failed drain pump. The controller relies on the pressure switch or air chamber to confirm the tub has emptied. If debris clogs the filter, the hose kinks, or the pump impeller jams, water sits in the drum and the code appears. Occasionally a blocked house drain or a faulty pressure sensor hose will also prevent proper feedback and set the same fault.
 
 ## Before You Replace Anything
 
-Many people replace the drain pump assembly immediately without first cleaning the filter or checking for a kinked hose. Always clear the filter cavity and verify the impeller turns freely before ordering a new pump.
+Many people replace the drain pump first without ever opening the filter housing. Clean the debris filter and inspect the drain hose for kinks before ordering a new pump assembly.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Drain pump filter clogged** Coins, lint, hairpins, bra wires, and other debris collect in the filter and block water flow.
-- **Drain hose kinked, frozen, or blocked** A bent, crushed, iced, or internally obstructed hose prevents water from leaving the machine.
-- **Drain pump impeller jammed or pump failing** Foreign objects jam the impeller blades, or the pump motor itself has failed electrically or mechanically.
-- **Pressure switch hose or air chamber blocked** Soap residue or lint in the small sensing hose causes the control board to misread water level.
-- **Standpipe siphoning or installation depth wrong** Drain hose inserted too deeply or a sealed standpipe top can create siphoning that confuses the drain sensor.
+- **Clogged pump filter or debris trap (~40%)** Lint, coins, hairpins, and small objects accumulate in the filter housing and block water flow to the pump impeller.
+- **Kinked or blocked drain hose (~25%)** The hose can be crushed behind the machine, installed too deep in the standpipe, or internally clogged with detergent buildup.
+- **Faulty drain pump assembly (~20%)** The pump motor fails electrically or the impeller seizes, so the machine cannot move water out of the tub.
+- **Jammed pump impeller (~10%)** Debris that passed the filter can lodge in the impeller blades and stop rotation even when the motor spins.
+- **Pressure sensor hose or air chamber blockage (~5%)** Water, detergent residue, or air-trap restrictions prevent the control from sensing the tub has drained.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Can you hear the drain pump running when the error appears?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The pump has power but may be jammed or the hose is blocked. Clean the filter and check the hose for kinks or blockage.<br><strong>No:</strong> The pump may have no power, or a blockage is so severe the motor stalls silently. Clean the filter first, then test the pump electrically if it still will not run.</div>
+<details class="dtree"><summary>Can you hear the drain pump running when the code appears?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The pump motor is energized but water is not moving, so check the filter and hose for blockage or inspect the impeller for a jam.<br><strong>No:</strong> The pump is not running at all, so check the electrical connector at the pump and test the pump for continuity before replacing it.</div>
 </details>
 
-<details class="dtree"><summary>Does water drain when you pull the emergency drain plug behind the lower panel?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Water is in the tub but not exiting through the normal path. Focus on the pump filter, impeller, and drain hose routing.<br><strong>No:</strong> Either the tub is already empty (pressure-switch or sensor fault) or the drain path is completely blocked at the filter or pump inlet.</div>
+<details class="dtree"><summary>Does water remain in the drum when the code displays?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The drain path is obstructed or the pump has failed, so start with the filter and hose inspection.<br><strong>No:</strong> The tub is empty but the control still flags a fault, so inspect the pressure switch hose and air chamber for blockage or water intrusion.</div>
 </details>
 
-<details class="dtree"><summary>Is the drain hose inserted more than 8 inches into the standpipe?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Excess depth can cause siphoning. Pull the hose back to 6-8 inches and make sure the standpipe top is open to air.<br><strong>No:</strong> Installation depth is correct. Look for blockage inside the hose or at the pump filter and impeller.</div>
+<details class="dtree"><summary>Is the drain hose installed deeper than four inches into the standpipe?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Pull the hose up so only three to four inches enter the standpipe to break any siphon or airlock that slows drainage.<br><strong>No:</strong> Hose installation is correct, so focus on the filter, pump impeller, and internal pressure sensing components.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Disconnect power** at the wall or circuit breaker before any service work.
-2. **Drain remaining water** using the emergency drain tube or plug behind the lower front access panel and have a shallow pan and towels ready.
-3. **Remove and clean the pump filter** by turning it counterclockwise and pulling it out, then rinse debris and inspect the filter cavity and pump inlet for foreign objects.
-4. **Check that the impeller turns freely** by reaching into the filter opening and rotating the plastic blades by hand.
-5. **Inspect the drain hose** from the back of the washer to the standpipe for kinks, blockage, freezing, and verify it enters the standpipe 6-8 inches (not deeper) and the standpipe top is open.
-6. **Test the drain pump** by reconnecting power and starting a drain or spin cycle, listening for motor noise and checking for vibration or current draw if you have a multimeter.
-7. **Check the pressure switch hose** (a small clear or rubber tube running from the tub air chamber to the control board area) for soap buildup or blockage, clear or replace if needed, then reassemble and run a rinse and drain test cycle.
+1. **Disconnect power** at the wall outlet or breaker and turn off the water supply valves.
+2. **Place towels and a shallow pan** in front of the washer, then open the small access panel at the lower front to reach the debris filter.
+3. **Unscrew the filter cap** slowly and let any trapped water drain into the pan, then pull the filter out and rinse it under running water to remove lint, coins, and debris.
+4. **Check the drain hose** behind the machine for kinks, crushing, or ice (if in a cold location), and verify the standpipe or sink drain is not clogged.
+5. **Inspect the pump impeller** by shining a flashlight into the filter housing and turning the impeller blades by hand to confirm free movement.
+6. **Access the drain pump** if the impeller is jammed or the motor does not hum, disconnect the wire harness, and test the pump terminals for continuity (a typical field check is roughly 10 to 50 ohms, though exact specs vary by model).
+7. **Replace the pump assembly** if the motor tests open, the impeller is seized, or the pump shows physical damage, then reinstall the filter and hose, restore power, and run a rinse-and-drain cycle to confirm the code clears.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Drain pump filter / debris filter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-5e-error-code&k=Drain+pump+filter+%2F+debris+filter&tag=errorcodefixes-20) \| Behind the lower front panel, catches coins and lint. |
-| Drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-5e-error-code&k=Drain+pump+assembly&tag=errorcodefixes-20) \| Replace if impeller is seized, pump is noisy, or motor does not run. |
-| Drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-5e-error-code&k=Drain+hose&tag=errorcodefixes-20) \| If cracked, kinked beyond repair, or internally blocked. |
-| Pressure switch hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-5e-error-code&k=Pressure+switch+hose&tag=errorcodefixes-20) \| Small air tube from tub to control, often clear or black rubber. |
+| Samsung washer drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-5e-error-code&k=Samsung+washer+drain+pump+assembly&tag=errorcodefixes-20) \| Match your exact model number; pumps vary by front-load and top-load series. |
+| Drain hose and clamps | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-5e-error-code&k=Drain+hose+and+clamps&tag=errorcodefixes-20) \| Replace if the original hose is kinked, cracked, or internally clogged. |
+| Pressure switch air hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-washer-5e-error-code&k=Pressure+switch+air+hose&tag=errorcodefixes-20) \| Use if the rubber air-trap tubing is split or clogged with detergent residue. |
 
 ## When to Call a Pro
 
-Call a technician if you have cleaned the filter, verified the hose is clear and correctly routed, confirmed the impeller spins freely, and the error persists. At that point the fault is likely in the drain pump motor windings, the pressure switch itself, or the main control board's drain-timer logic. A pro can test pump resistance, measure pressure-switch actuation, and access wiring diagrams to isolate the failure without replacing parts at random. Also call if you are uncomfortable working with water-filled appliances, tilting the machine to access components, or testing electrical circuits.
+Call a technician if you have cleaned the filter, verified the hose and house drain are clear, and the code persists even after replacing the pump. A pro can test the pressure switch circuit, inspect the air chamber for hidden blockage, and trace wiring faults in the harness. Also call if the washer is still under warranty, if you are uncomfortable draining residual water or working near electrical connectors, or if the pump replacement requires removing the cabinet and you lack the space or tools to tilt the machine safely.
 
-**Rough cost:** DIY runs about $15-50 in parts (if pump or hose needed), 30-60 min. A pro service call runs about $150-300 service call and labor.
+**Rough cost:** DIY runs about $15-70 in parts, 30-90 min. A pro service call runs about $150-250.

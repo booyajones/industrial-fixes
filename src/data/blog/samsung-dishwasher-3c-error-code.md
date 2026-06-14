@@ -1,8 +1,8 @@
 ---
-title: "Samsung Dishwasher 3C Error Code - Causes & Fix"
-description: "Samsung 3C code signals a pump-related water movement fault. Check for clogged filters and drain hose kinks before testing the drain pump."
-pubDatetime: 2026-06-04T18:09:50Z
-modDatetime: 2026-06-04T18:09:50Z
+title: "Samsung Dishwasher 3C Error - Causes & Fix"
+description: "3C means pump operation error. Most often a clogged filter or debris in the drain pump. Clean filter and sump, check drain hose first."
+pubDatetime: 2026-06-12T17:55:25Z
+modDatetime: 2026-06-12T17:55:25Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,73 +10,76 @@ tags:
   - appliance
   - dishwasher
   - samsung
-most_likely_cause: "Filter, sump, or drain path blockage restricting water movement"
-free_checks:
-  - "Check drain pump filter, sump area, and drain hose for clogs or debris and clear any obstructions"
-  - "Inspect drain hose for kinks or installation above 35-inch maximum height"
-  - "Run drain cycle to test pump operation; listen for hum indicating jammed impeller versus normal motor sound"
-no_buy_pct: "60%"
+money_part: "Samsung dishwasher drain pump"
+most_likely_cause: "Clogged fine filter or sump area restricting flow"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-money_part: "Samsung dishwasher drain pump assembly"
-part_price: "$80-150"
+free_checks:
+  - "Power cycle the dishwasher by unplugging or flipping the breaker for one minute, then re-test the cycle"
+  - "Remove and clean the fine filter and sump screen at the bottom of the tub, checking for food debris, labels, or glass fragments"
+  - "Inspect the drain hose for kinks, clogs, or a blocked sink/disposal connection"
+part_price: "$40-75"
+no_buy_pct: "65%"
 ---
 
-## Samsung Dishwasher 3C Error Code — What It Means
+## Samsung Dishwasher 3C Error — What It Means
 
-The 3C error code on a Samsung dishwasher indicates an abnormality in the water management or pump operation system. The dishwasher is not detecting expected water flow or pump behavior during either the drain cycle or the wash circulation cycle, depending on your model. In technician practice, this code is tied to the drain pump and circulation pump system rather than a single universal failure point. The dishwasher has detected that water is not moving through the system as programmed, triggering a safety shutdown.
+Samsung labels the 3C code as a pump operation error or pump failure. The dishwasher has detected abnormal pump operation or water flow during drain or wash functions. The fault can be triggered by the drain pump, the circulation/wash pump on some models, or anything that blocks water movement through the system.
+
+The code does not always mean the pump motor itself has failed. Blockages in the filter, sump, drain hose, or pump impeller are common triggers because they prevent normal flow even when the pump is trying to run. Wiring faults or a main control relay issue can also register as a 3C code if the pump is not being powered correctly.
 
 ## Before You Replace Anything
 
-Many people replace the drain pump assembly first without checking for simple blockages. Always clean the filter, sump area, and drain hose path before ordering parts, since debris restriction causes the majority of 3C faults.
+Many people replace the drain pump without checking for debris or blockages first. Always clean the filter, sump, and drain path before ordering a new pump.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Clogged filter or sump area** Food debris, glass fragments, or packaging labels obstruct the filter basket or sump housing and restrict water flow to the pump.
-- **Kinked or blocked drain hose** The drain hose is kinked behind the unit, clogged internally, or the sink disposal or air gap connection is blocked.
-- **Failed drain pump** The drain pump motor or impeller has seized, weakened under load, or burned out and cannot evacuate water from the tub.
-- **Circulation pump failure** On models where 3C indicates wash circulation problems, the circulation pump or motor assembly has seized or lost power.
-- **Wiring or connector fault** Corroded or loose connectors at the pump, or damaged wiring in the harness, prevent the control board from energizing the pump.
-- **Main control board or relay failure** After pump and wiring checks are exhausted, the drain relay or logic on the main control board may be faulty.
+- **Clogged fine filter or sump (~40%)** Food debris, labels, or other particles block water flow and prevent the pump from moving water normally.
+- **Debris in pump impeller (~25%)** Glass shards, toothpicks, or food lodge in the drain-pump impeller and jam it or break the blades.
+- **Kinked or clogged drain hose (~15%)** A hose bend, clog, or blocked sink connection stops water from leaving the dishwasher.
+- **Failed drain pump motor (~12%)** The pump motor is seized, burnt out, or too weak to move water, even when power is applied.
+- **Wiring or connector fault (~5%)** Loose, corroded, or broken connectors at the pump prevent proper power delivery.
+- **Main control relay failure (~3%)** The control board fails to switch power to the pump even though the pump itself is good.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Is water standing in the tub after the cycle stops?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The drain system is blocked or the drain pump is not running. Clean the filter and inspect the drain hose for kinks or clogs.<br><strong>No:</strong> The fault may be related to circulation during the wash phase. Check the circulation pump or run a test cycle and listen for abnormal pump noise.</div>
+<details class="dtree"><summary>Does water drain out when you remove the filter and scoop or sponge the sump dry during a test cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The drain pump is trying to run but may be blocked or weak. Inspect the impeller and pump housing for debris or damage.<br><strong>No:</strong> The pump is not running at all. Check the wiring connections at the pump, then test whether voltage arrives at the pump when a drain cycle is commanded.</div>
 </details>
-<details class="dtree"><summary>Can you hear the drain pump hum or buzz during the drain cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The pump is receiving power but may be mechanically seized or weak. Inspect the impeller for obstruction or replace the pump assembly.<br><strong>No:</strong> The pump is not receiving power. Check the wiring harness, connectors, and main control board for voltage output to the pump.</div>
+
+<details class="dtree"><summary>Can you hear the drain pump humming or buzzing during the drain phase?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The pump motor is getting power but cannot move water. Check for a jammed impeller or a clogged drain path.<br><strong>No:</strong> No power is reaching the pump motor. Inspect the wiring harness and connectors, or suspect the main control board relay.</div>
 </details>
-<details class="dtree"><summary>Does the error clear after a power cycle and filter cleaning?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The fault was likely a temporary blockage or logic glitch. Monitor the next few cycles to confirm the repair.<br><strong>No:</strong> The problem is persistent. Test pump voltage during the fault condition and replace the pump or control board as diagnosed.</div>
+
+<details class="dtree"><summary>Is the drain hose routed with a high loop or air gap, and does it run freely to the sink or disposal?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The drain path is correct. Focus on the filter, sump, and pump assembly for blockages or pump failure.<br><strong>No:</strong> Re-route the hose with a proper high loop and clear any kinks or clogs at the sink connection before re-testing.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Turn off power** at the circuit breaker or unplug the dishwasher completely before beginning any service work.
-2. **Power cycle the dishwasher** by leaving it off for two minutes, then restore power and run a short test cycle to see if the 3C code clears on its own.
-3. **Remove and clean the filter assembly** at the bottom of the tub, inspecting the sump area beneath for glass, food debris, labels, or other obstructions.
-4. **Check the drain hose path** from the dishwasher to the sink or disposal connection for kinks, clogs, or a blocked air gap, and clear any restrictions.
-5. **Run a test cycle** and listen carefully during fill, wash, and drain phases to identify whether the fault occurs during draining or circulation.
-6. **Access the pump assemblies** by removing the lower panel and toe kick, then verify proper voltage to the drain pump during the drain cycle using a multimeter.
-7. **Replace the drain pump** if proper voltage is present but the pump does not run or runs weakly, or replace the circulation pump if the fault is tied to wash spray and that assembly has failed.
-8. **Inspect wiring and connectors** to the pump for corrosion, loose pins, or damaged insulation, and repair or replace the harness as needed.
-9. **Test the main control board** for proper relay and voltage output if all pumps and wiring check good, and replace the board if it fails to energize the pump circuit.
+1. **Unplug the dishwasher** or turn off the breaker to de-energize the unit before opening any panels or touching components.
+2. **Power cycle** the dishwasher by waiting one minute, then restore power and run a short test cycle to see if the code clears.
+3. **Remove the lower dish rack** and pull out the fine filter, sump screen, and any spray-arm components that cover the sump area.
+4. **Clean all filter parts** under running water and inspect the sump for debris, labels, glass, or food particles, then reinstall everything.
+5. **Check the drain hose** under the sink or behind the dishwasher for kinks, clogs, or a blocked disposal knockout plug, and clear any obstruction.
+6. **Run a test cycle** and listen for the drain pump during the drain phase, noting whether water is being pumped out and whether the pump sounds normal or strained.
+7. **Access the pump assembly** by removing the lower access panel or the interior sump cover, then inspect the impeller for debris or damage and remove any foreign objects.
+8. **Test electrical power at the pump** using a multimeter when the control commands a drain cycle, confirming voltage arrives at the pump connectors, and replace the pump if voltage is present but the motor does not run, or trace wiring and control-board faults if no voltage is present.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Samsung dishwasher drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dishwasher-3c-error-code&k=Samsung+dishwasher+drain+pump+assembly&tag=errorcodefixes-20) \| Match your model number on the appliance data plate to make sure correct fit and connector type. |
-| Samsung dishwasher circulation pump or motor assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dishwasher-3c-error-code&k=Samsung+dishwasher+circulation+pump+or+motor+assembly&tag=errorcodefixes-20) \| Required on models where 3C indicates wash circulation failure rather than drain. |
-| Drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dishwasher-3c-error-code&k=Drain+hose&tag=errorcodefixes-20) \| Replace if the original hose is kinked, cracked, or internally clogged beyond clearing. |
+| Samsung dishwasher drain pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dishwasher-3c-error-code&k=Samsung+dishwasher+drain+pump&tag=errorcodefixes-20) \| Match the pump to your model number, typically listed on the door jamb or inner tub edge. |
+| Samsung dishwasher circulation/wash pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dishwasher-3c-error-code&k=Samsung+dishwasher+circulation%2Fwash+pump&tag=errorcodefixes-20) \| Needed on some models where 3C reflects wash-pump operation rather than only drain-pump faults. |
+| Samsung dishwasher main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dishwasher-3c-error-code&k=Samsung+dishwasher+main+control+board&tag=errorcodefixes-20) \| Replace only after confirming the pump, wiring, and all other components test good but the pump still does not receive power. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if you are not comfortable working with electrical testing, if you cannot access the pump assemblies safely, or if diagnostic voltage checks point to a main control board fault. Also call a pro if the 3C code persists after you have cleaned all filters, cleared the drain path, and verified the drain hose is not restricted. Technicians have model-specific wiring diagrams, proper metering tools, and experience isolating whether the fault is in the drain pump, circulation pump, wiring harness, or control logic.
+Call a technician if you have cleaned every filter and drain path, confirmed the impeller spins freely, and the 3C code still returns. Also call for help if you are uncomfortable working with electrical connectors, multimeter voltage tests, or removing the lower panel and pump assembly. A professional can quickly isolate whether the fault is in the pump motor itself, the wiring harness, or the main control board relay, and will have the correct replacement pump or board on the truck. If your dishwasher is still under warranty, contact Samsung support first because pump failures are sometimes covered and self-repair may void coverage.
 
-**Rough cost:** DIY runs about $80-150 for a pump assembly, 1-2 hours. a pro service call runs about $150-300 including diagnosis and labor.
+**Rough cost:** DIY runs about $40-90 in parts if pump replacement is needed, 45-90 min. A pro service call runs about $150-280 service call.

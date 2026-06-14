@@ -1,8 +1,8 @@
 ---
 title: "Bosch Washer E18 Error Code - Causes & Fix"
-description: "E18 means a drainage problem. Most often a blockage in the pump filter. Unplug, open the service flap, and clean the filter."
-pubDatetime: 2026-06-08T03:02:50Z
-modDatetime: 2026-06-08T03:02:50Z
+description: "E18 means water isn't draining. Most often a blocked pump filter or kinked drain hose. Clean the filter and check the hose first."
+pubDatetime: 2026-06-12T17:54:09Z
+modDatetime: 2026-06-12T17:54:09Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,74 +10,74 @@ tags:
   - appliance
   - washer
   - bosch
-most_likely_cause: "Coin, lint, hair, or debris blocking the pump filter or pump cavity"
-free_checks:
-  - "Check and clear drain pump filter/coin trap for debris, coins, or small items"
-  - "Inspect drain hose for kinks, clogs, or blockages; ensure proper installation height"
-  - "Verify internal hoses are clear and pump impeller spins freely by hand"
-no_buy_pct: "60%"
-part_price: "$50-120"
+money_part: "Bosch washer drain pump assembly"
+most_likely_cause: "blocked pump filter or coin trap"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-money_part: "Bosch washer drain pump assembly"
+free_checks:
+  - "Clean the pump filter and coin trap behind the service flap"
+  - "Inspect the drain hose for kinks, crushing, or blockage"
+  - "Check that the impeller behind the pump cover rotates freely"
+part_price: "$40-90"
+no_buy_pct: "70%"
 ---
 
 ## Bosch Washer E18 Error Code — What It Means
 
-The Bosch E18 code signals a drain fault. Bosch identifies it as a blockage in the pump or a blockage or kink in the drain hose. In some models the code also flags a cold-water inlet hose blockage or kink. In practice, the code appears when the machine cannot drain water fast enough during or after a cycle.
+Bosch's E18 code indicates a drainage problem. The washer has detected that water is not draining as expected, and Bosch states there may still be water in the tub. In practical terms, the machine is failing to evacuate water fast enough to continue the cycle. Bosch's own support pages identify the likely causes as a blocked pump, a blocked or kinked drain hose, or (on U.S. models) a blocked or kinked cold-water inlet hose.
 
-The washer monitors how quickly water leaves the tub. When drainage is too slow or stops, the control throws E18 and halts the program. Water usually remains in the drum. The fault centers on the drain path: pump filter, pump impeller, drain hose, or the external standpipe connection.
+This is a timed drain failure. The machine monitors how quickly water leaves the drum, and when the drain takes too long the control throws E18 and stops the cycle. The code does not always mean the pump has failed. Most of the time the pump is fine but something is blocking the flow path or preventing the impeller from spinning freely.
 
 ## Before You Replace Anything
 
-Many people replace the drain pump motor when the real problem is a sock, coin, or hairpin jammed in the filter or impeller. Always open the pump cover, remove any debris, and confirm the impeller spins freely by hand before ordering a new pump.
+Homeowners often replace the drain pump when E18 appears, but the pump itself is rarely faulty. Clean the filter and inspect the impeller for trapped debris before ordering a new pump. Most E18 faults clear once the blockage is removed.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Blocked pump filter or coin trap (~50%)** Coins, lint, hairpins, and small objects collect in the filter housing and prevent water from reaching the pump impeller.
-- **Kinked or crushed drain hose (~20%)** The hose behind the machine is bent sharply, pinched by the cabinet, or installed with a loop that traps water.
-- **Blocked household drain or standpipe (~15%)** The sink drain, standpipe, or siphon connection where the hose empties is clogged or too slow to accept washer flow.
-- **Jammed pump impeller (~10%)** A thread, wire, or fragment has wound around the impeller shaft so it cannot turn, even after the filter is removed.
-- **Failed drain pump motor (~5%)** The pump motor windings are open or the capacitor has failed, so the impeller does not spin even when free of debris.
+- **Pump filter or coin trap blocked (~45%)** Coins, lint, fabric debris, hair clips, buttons, and other small objects accumulate in the filter and prevent water from reaching the pump.
+- **Drain hose kinked, crushed, or clogged (~25%)** A bent or flattened hose restricts flow, and lint buildup inside the hose can slow drainage to the point that E18 triggers.
+- **Drain pump impeller obstructed (~15%)** Threads, small socks, or plastic wrap can wrap around the impeller and stop it from spinning, even when the pump motor is running.
+- **Standpipe or household drain restricted (~8%)** A clogged siphon, standpipe, or drain connection creates back-pressure that prevents the washer from emptying fast enough.
+- **Drain pump failure (~5%)** When cleaning and hose checks restore no improvement, the pump motor itself may have failed or the pump assembly may have an electrical fault.
+- **Cold-water inlet hose blocked or kinked (U.S. models) (~2%)** Bosch's U.S. support page notes that on some models a blockage or kink in the cold-water inlet hose can also trigger E18.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>When you open the pump filter cover, does water pour out?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Water is trapped because it cannot drain. Clean the filter, check the hose for kinks, and test the household drain connection.<br><strong>No:</strong> The machine may have already partially drained or the code appeared early. Continue with filter and impeller inspection to rule out blockage.</div>
+<details class="dtree"><summary>Is there still water in the drum after the error appears?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The drain path is blocked or the pump is not running. Move to the next check.<br><strong>No:</strong> The fault may be intermittent or pressure-sensor related. Run a drain cycle and watch for the code to return.</div>
 </details>
 
-<details class="dtree"><summary>After removing the filter, can you spin the pump impeller freely with your finger?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The impeller is not jammed. Reassemble, check the drain hose routing, and test with the DRAIN program. If E18 returns the pump motor or control may be faulty.<br><strong>No:</strong> A thread, wire, or debris is locking the impeller. Remove the obstruction, confirm free rotation, then reassemble and test.</div>
+<details class="dtree"><summary>Does the drain hose have any kinks, crushing, or tight bends?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Straighten the hose and make sure it has a smooth run to the standpipe. Re-test the cycle.<br><strong>No:</strong> The blockage is inside the machine. Proceed to clean the pump filter and inspect the impeller.</div>
 </details>
 
-<details class="dtree"><summary>Is the drain hose routed higher than the washer drum at any point?</summary>
-<div class="dtree-body"><strong>Yes:</strong> An elevated loop or incorrect installation can siphon water back or slow drainage. Re-route the hose per the manual and secure it below drum height at the standpipe.<br><strong>No:</strong> Hose routing is correct. Focus on cleaning the filter, pump cavity, and external drain connection.</div>
+<details class="dtree"><summary>Does the pump impeller spin freely when you turn it by hand?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The impeller is clear. If E18 persists after reassembly, test the drain pump for electrical continuity or replace it.<br><strong>No:</strong> Remove the obstruction wrapped around the impeller, reassemble, and test the machine.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Unplug the washer** and lay towels on the floor in front of the machine, because hot water may be present and will spill when you open the filter cover.
-2. **Locate the service flap** at the lower front of the cabinet, pry it open, and place a shallow pan or towels under the pump cover to catch residual water.
-3. **Unscrew the pump filter cover** slowly to let water drain into your pan, then pull the filter straight out and inspect it for coins, lint, hairpins, or other debris.
-4. **Reach into the pump cavity** with your finger and try to spin the impeller; Bosch states it must be able to turn freely, so remove any thread or obstruction wrapped around the shaft.
-5. **Inspect the drain hose** behind the washer for kinks, crushing, or loops that rise above the drum level, and straighten or re-route as needed; pull the hose free at the standpipe and check for blockage in both the hose end and the household drain.
-6. **Clean the filter, threads, and cover seal surfaces** with a brush and water, then screw the cover back on hand-tight and close the service flap.
-7. **Test the repair** by pouring 1 liter of water into the detergent dispenser, plugging the machine back in, and running the DRAIN program to confirm the pump operates and water flows out without leaks or error codes.
+1. **Shut off water and unplug the machine.** Turn off the hot and cold supply valves, switch the washer off at the controls, and unplug the power cord from the wall.
+2. **Drain residual water using the emergency drain.** Open the service flap at the front lower corner, pull out the emergency drain hose or tube, remove the cap, and let water flow into a shallow pan or towels until the drum is empty.
+3. **Remove and clean the pump filter.** Unscrew the pump cover (usually a large round cap behind the service flap), pull out the filter or coin trap, and rinse it under running water. Clear debris from the pump housing and the threads of the cover.
+4. **Inspect the pump impeller.** Look into the pump opening and turn the impeller by hand. It must rotate freely. Remove any thread, fabric, or foreign object that prevents smooth rotation.
+5. **Check the drain hose for kinks and blockage.** Follow the hose from the back of the machine to the standpipe or drain connection. Straighten any kinks, and if you suspect internal clog disconnect the hose and flush it with water or a plumbing snake.
+6. **Reinstall the pump cover and test for leaks.** Screw the cover firmly into place and close the service flap. Pour 1 liter of water into detergent compartment II (the main-wash drawer), then run a drain or spin-only program. Watch for leaks around the pump cover.
+7. **Run a full cycle and verify the code is cleared.** If the machine drains normally and completes spin without throwing E18, the repair is complete. If E18 returns and all paths are clear, replace the drain pump assembly.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Bosch washer drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-e18-error-code&k=Bosch+washer+drain+pump+assembly&tag=errorcodefixes-20) \| Motor and housing; needed only if the impeller is free, the filter is clean, and the pump still does not run or hums without pumping. |
-| Drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-e18-error-code&k=Drain+hose&tag=errorcodefixes-20) \| Corrugated or smooth tube from pump to standpipe; replace if split, crushed flat, or clogged solid. |
-| Pump filter cover and seal | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-e18-error-code&k=Pump+filter+cover+and+seal&tag=errorcodefixes-20) \| Cap and O-ring for the coin trap; order if threads are stripped or the seal is torn and leaking. |
+| Bosch washer drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-e18-error-code&k=Bosch+washer+drain+pump+assembly&tag=errorcodefixes-20) \| Match the part number on your existing pump or use your model number to confirm fit. Includes motor and housing. |
+| Drain hose (if damaged or permanently kinked) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-bosch-washer-e18-error-code&k=Drain+hose+%28if+damaged+or+permanently+kinked%29&tag=errorcodefixes-20) \| Measure the length and diameter of your current hose. Bosch and aftermarket hoses are widely available. |
 
 ## When to Call a Pro
 
-Call a technician if the pump filter and hose are clean, the impeller spins freely, the drain hose is routed correctly into a clear standpipe, and E18 still appears after the DRAIN test. At that point the fault may lie in the pump motor windings, the wiring harness, or the main control board. A pro will test pump voltage and resistance to isolate the failure. Also call if you are uncomfortable working with water on the floor, removing the pump cover, or pulling the machine away from the wall to inspect hoses.
+Call a professional if you have drained the machine, cleaned the filter, checked the hose, and verified the impeller spins freely but E18 still appears. At that point the drain pump itself or the control board may need diagnosis with a multimeter or continuity tester. Also call if you find water leaking from the pump area after reassembly and cannot stop it by re-tightening the cover. A technician can verify pump wiring, test the pressure switch, and rule out control-board faults that mimic a drain blockage.
 
-**Rough cost:** DIY runs about $0-50 in parts if only filter or hose cleaning; 20-40 min. A pro service call runs about $150-280 service call including labor and pump if needed.
+**Rough cost:** DIY runs about $0-80 in parts, 30-60 min. A pro service call runs about $100-250.

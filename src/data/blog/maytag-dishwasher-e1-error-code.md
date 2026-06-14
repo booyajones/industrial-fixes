@@ -1,8 +1,8 @@
 ---
 title: "Maytag Dishwasher E1 Error Code - Causes & Fix"
-description: "E1 means the dishwasher can't drain or is siphoning. Most common fix: check drain hose for kinks and verify it's 20 in. above the floor."
-pubDatetime: 2026-06-08T07:12:21Z
-modDatetime: 2026-06-08T07:12:21Z
+description: "E1 on Maytag dishwashers usually means F9E1 (Can't Drain). Most common fix: clear the filter and pump area of food debris and clogs."
+pubDatetime: 2026-06-12T18:15:03Z
+modDatetime: 2026-06-12T18:15:03Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,75 +10,73 @@ tags:
   - appliance
   - dishwasher
   - maytag
-most_likely_cause: "Kinked, clogged, or improperly routed drain hose"
-free_checks:
-  - "Check for clogs in drain hose, air gap, and garbage disposal knockout plug"
-  - "Clean drain pump filter and sump area of food debris and foreign objects"
-  - "Verify drain hose is not kinked and mounted below 35 inches"
-no_buy_pct: "60%"
+money_part: "Drain pump / pump motor assembly"
+most_likely_cause: "Clogged drain filter or debris in the pump area"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-money_part: "Maytag dishwasher drain pump assembly"
-part_price: "$15-50"
+free_checks:
+  - "Remove lower dish rack and pull out the cylindrical filter assembly; rinse under running water and clear any debris from the sump area beneath it."
+  - "Inspect the drain hose under the sink for kinks, low spots that allow siphoning, or clogs; straighten and clear as needed."
+  - "If the dishwasher drains to a garbage disposer, confirm the disposer knockout plug has been removed and the inlet is not blocked."
+part_price: "$45-80"
+no_buy_pct: "65%"
 ---
 
 ## Maytag Dishwasher E1 Error Code — What It Means
 
-The E1 error code on a Maytag dishwasher indicates a drain failure or siphoning condition. The control has detected that water did not evacuate properly during the drain cycle. Maytag documentation groups E1 with the F9E1 fault family, both pointing to drain-path problems. The code can mean either the dishwasher cannot pump water out, or that water is siphoning back into the tub after the pump stops.
+Maytag does not use a standalone E1 code in its official documentation. If your display shows E1, it is almost certainly the F9E1 fault, which Maytag defines as "Can't Drain Cycle." This means the dishwasher has detected that water is not draining properly during the cycle. The control has stopped the wash and flagged a drainage problem.
 
-Maytag's support pages emphasize that E1 often appears when the drain hose is connected below the drain trap or is routed too low, allowing gravity to pull water back into the machine. The manufacturer specifies that the drain hose must connect at least 20 inches above the floor and above the drain trap to prevent siphoning. Other common triggers include a kinked or clogged hose, food debris in the sump or disposer, or a forgotten knockout plug in a new garbage disposer installation.
+The code typically appears when standing water remains in the tub after the drain cycle, when the drain pump cannot move water out due to a blockage, or when the drain path is obstructed or kinked. Maytag lists clogged filters, kinked hoses, garbage disposer knockout plugs, excessive suds, and incorrect hose routing as the primary causes. In the field, food debris and clogs in the pump or filtration area are responsible for the majority of these faults.
 
 ## Before You Replace Anything
 
-Many people replace the drain pump before checking the hose routing and disposer knockout. First verify the drain hose is connected 20 inches above the floor and that the disposer knockout plug was removed.
+Many people replace the drain pump before checking for simple clogs. Always remove and clean the filter and inspect the pump chamber for food buildup, small objects, or broken glass before ordering a pump.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Kinked, clogged, or misrouted drain hose (~40%)** A hose that is pinched, blocked, or connected below the drain trap will prevent proper drainage or allow water to siphon back into the tub.
-- **Drain hose too low (siphoning) (~25%)** When the hose connection is less than 20 inches above the floor or below the drain trap, gravity pulls water back into the dishwasher after the pump stops.
-- **Food debris or obstruction in sump or disposer (~20%)** Lint, broken glass, or food particles can block the pump inlet or clog the garbage disposer inlet, restricting water flow.
-- **Garbage disposer knockout plug not removed (~10%)** If the dishwasher drains through a disposer and the knockout plug was not punched out during installation, no water can escape.
-- **Failed drain pump (~5%)** When hose routing and plumbing are correct but the pump does not run or runs weakly, the motor or impeller may be jammed or electrically defective.
+- **Clogged filter or debris in pump area (~50%)** Food particles, broken glass, or grease buildup in the filter assembly or pump chamber prevent water from reaching the drain pump or block the impeller.
+- **Kinked or clogged drain hose (~20%)** A hose that is bent, crushed, or routed too low can prevent drainage or allow water to siphon back into the tub.
+- **Garbage disposer knockout plug not removed (~15%)** If the dishwasher drains into a disposer and the installer did not knock out the plug, water cannot enter the disposer and will back up into the tub.
+- **Failed drain pump or motor (~10%)** The pump motor may be electrically open, mechanically jammed, or damaged, preventing it from moving water through the drain path.
+- **Excessive suds or wrong detergent (~5%)** Using hand-dish soap or too much detergent creates foam that interferes with the drain sensor and gives a false drainage fault.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Is there standing water in the tub at the end of a cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The dishwasher is not draining. Proceed to check the drain hose and disposer for obstructions.<br><strong>No:</strong> The code may be a siphoning fault. Verify the drain hose is connected at least 20 inches above the floor and above the drain trap.</div>
+<details class="dtree"><summary>Is there standing water in the bottom of the tub after the cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The drain path is blocked or the pump is not running. Remove and clean the filter and inspect the pump area for debris before testing the pump electrically.<br><strong>No:</strong> The fault may be intermittent or triggered by suds. Check for foam buildup and verify the drain hose is not siphoning water back into the tub due to low routing.</div>
 </details>
 
-<details class="dtree"><summary>Does the drain hose have any kinks or low loops between the dishwasher and the connection point?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Straighten the hose and re-route it so the connection is 20 inches above the floor. Reset power and test.<br><strong>No:</strong> Check the garbage disposer (if present) for a knockout plug and run the disposer to clear debris. If clear, inspect the sump and pump.</div>
+<details class="dtree"><summary>Does the drain pump make any noise or hum when the drain cycle runs?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The pump is receiving power but is likely jammed by debris or mechanically failed. Remove the lower covers and inspect the pump impeller for obstructions or damage.<br><strong>No:</strong> The pump may have no power, an open motor winding, or a control board fault. Check wiring connections to the pump and test the motor windings with a multimeter if accessible.</div>
 </details>
 
-<details class="dtree"><summary>Can you hear the drain pump motor running during a drain cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The pump is attempting to run. Clear any debris from the sump and impeller, then test again.<br><strong>No:</strong> The pump may have no power or a failed motor. Check for voltage at the pump terminals or replace the pump assembly.</div>
+<details class="dtree"><summary>Does the error clear after a 30-second power reset and one normal cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault was likely transient, caused by suds or a brief obstruction that has cleared. Monitor the next few cycles and verify detergent type and amount.<br><strong>No:</strong> A persistent blockage, failed pump, or wiring issue is present. Proceed with filter cleaning, hose inspection, and pump testing as described below.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Disconnect power** for at least 30 seconds by unplugging the dishwasher or switching off the circuit breaker to reset the control board.
-2. **Open the dishwasher door** and check whether standing water remains in the tub. If water is present, the machine cannot drain. If the tub is empty, suspect siphoning.
-3. **Pull the dishwasher forward** and locate the drain hose where it exits the cabinet. Inspect the entire length for kinks, pinches, or low loops that could trap water.
-4. **Verify the drain hose connection** is at least 20 inches above the floor and connects above the drain trap or disposer inlet. Re-route and secure the hose if it is too low.
-5. **Check the garbage disposer knockout plug** if the dishwasher drains through a disposer. Remove the hose from the disposer inlet and shine a flashlight inside to confirm the plug was punched out. Run the disposer to clear any obstructions.
-6. **Remove the lower dish rack and filter** from the dishwasher floor. Scoop out any standing water and check the sump area for food debris, broken glass, or foreign objects. Clear any obstructions.
-7. **Test the drain pump** by restoring power and starting a drain cycle. Listen for the pump motor. If it does not run or runs weakly, disconnect power and access the pump assembly beneath the tub. Check for a jammed impeller or replace the pump if defective.
-8. **Restore power and run a test cycle** after correcting the hose routing or clearing obstructions. Monitor for the E1 code and confirm the tub drains completely.
+1. **Disconnect power** at the breaker or unplug the dishwasher and wait 30 seconds to reset the control, as Maytag directs for this fault.
+2. **Remove the lower dish rack** and locate the cylindrical filter assembly in the tub floor; twist counterclockwise and lift out, then rinse thoroughly under running water and clear any debris from the sump cavity.
+3. **Inspect the drain hose** under the sink for kinks, low spots, or clogs; the hose should rise to the underside of the countertop before descending to the drain or disposer to prevent siphoning.
+4. **Check the garbage disposer connection** if present; confirm the knockout plug was removed from the disposer inlet and that the inlet is not blocked by food or grease.
+5. **Access the pump area** by removing the lower spray arm, filter housing, and any covers or shields that expose the pump assembly; look for broken glass, small objects, or buildup around the impeller.
+6. **Test the drain pump electrically** if no blockage is found; disconnect the pump harness, measure resistance across the motor terminals (field guidance suggests 40 to 80 ohms, though this is not an official Maytag specification), and replace the pump if the reading is open or shorted.
+7. **Reassemble the dishwasher**, restore power, and run a rinse cycle to verify drainage; check that water evacuates completely and the code does not return.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Maytag dishwasher drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dishwasher-e1-error-code&k=Maytag+dishwasher+drain+pump+assembly&tag=errorcodefixes-20) \| Match your model number. Includes motor and impeller housing. |
-| Dishwasher drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dishwasher-e1-error-code&k=Dishwasher+drain+hose&tag=errorcodefixes-20) \| Universal corrugated or smooth-bore, typically 5/8-inch or 3/4-inch inner diameter. |
-| Hose clamps | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dishwasher-e1-error-code&k=Hose+clamps&tag=errorcodefixes-20) \| Stainless steel adjustable clamps to secure hose connections. |
+| Drain pump / pump motor assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dishwasher-e1-error-code&k=Drain+pump+%2F+pump+motor+assembly&tag=errorcodefixes-20) \| Match your model number; most Maytag units use a combined pump and motor that mounts to the sump. |
+| Drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-dishwasher-e1-error-code&k=Drain+hose&tag=errorcodefixes-20) \| If the original hose is cracked, kinked beyond repair, or collapsed internally. |
 
 ## When to Call a Pro
 
-Call a technician if you have corrected the drain hose routing, cleared all visible obstructions, removed the disposer knockout plug, and the E1 code persists. A pro can test the drain pump electrically, check for wiring faults in the drain circuit, and diagnose control board issues that may send a false drain fault. Also call if you are not comfortable pulling the dishwasher out from under the counter, working around plumbing connections, or accessing the pump assembly beneath the tub. Professional service typically includes a multimeter diagnosis, pump replacement if needed, and a warranty on labor and parts.
+Call a professional if you are uncomfortable working under the dishwasher or removing lower covers and hoses, if the drain pump tests electrically sound but the code persists (indicating a possible control board or wiring fault), or if you find water leaking from the pump housing or sump during inspection. A technician has the tools to pressure-test the drain path, verify control board signals to the pump, and safely replace internal components without risk of cross-threading fittings or damaging wire harnesses. If the dishwasher is still under warranty, professional service protects your coverage.
 
-**Rough cost:** DIY runs about $15-50 in parts (hose or pump), 30-90 min. A pro service call runs about $150-280.
+**Rough cost:** DIY runs about $0-80 in parts if pump replacement needed, 30-90 min. A pro service call runs about $150-280.

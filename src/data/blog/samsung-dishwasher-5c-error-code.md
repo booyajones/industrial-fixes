@@ -1,8 +1,8 @@
 ---
 title: "Samsung Dishwasher 5C Error Code - Causes & Fix"
-description: "5C means a drainage fault on Samsung dishwashers. Water is not draining properly. Most often caused by a clogged filter or debris in pump."
-pubDatetime: 2026-06-06T01:53:31Z
-modDatetime: 2026-06-06T01:53:31Z
+description: "5C means a drainage fault. Clean the filter and sump first, then check for kinked hoses. Most cases clear without a new part."
+pubDatetime: 2026-06-12T17:56:15Z
+modDatetime: 2026-06-12T17:56:15Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,76 +10,76 @@ tags:
   - appliance
   - dishwasher
   - samsung
-most_likely_cause: "Clogged filter or food debris in the pump impeller"
-free_checks:
-  - "Check and clear drain hose for kinks or clogs at pump and sink connections"
-  - "Clean drain filter/sump area and verify pump impeller spins freely"
-  - "Verify drain hose height does not exceed 35 inches and has proper loop"
-no_buy_pct: "60%"
+money_part: "Samsung dishwasher drain pump assembly"
+most_likely_cause: "Clogged filter or debris in the sump and pump impeller"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-money_part: "Samsung dishwasher drain pump assembly"
-part_price: "$15-50"
+free_checks:
+  - "Clean the dishwasher filter and inspect the sump area for food waste, glass, or hard debris"
+  - "Check the drain hose for kinks, bends, or freezing along its entire run"
+  - "Power off the machine at the breaker, wait 60 seconds, then restart to clear transient faults"
+part_price: "$40-90"
+no_buy_pct: "65%"
 ---
 
 ## Samsung Dishwasher 5C Error Code — What It Means
 
-Samsung groups the 5C and 5E codes together as drainage issue indicators. When your dishwasher displays 5C, the control board has detected that wastewater is not leaving the tub normally. The machine stops mid-cycle and reports the fault to prevent flooding or further damage.
+Samsung lists the 5C (and 5E) code as a drainage issue on your dishwasher. The machine is reporting that water is not draining correctly or the drain system is being falsely read as blocked. Samsung specifically names clogged filters, broken plate or glass fragments caught in the pump impeller, frozen or kinked drain hoses, and less commonly a control board failure or pressure switch malfunction as the root causes.
 
-This is a mechanical drainage problem in most cases. The dishwasher's internal sensors have determined that water remains in the sump or tub longer than the programmed time allows, triggering the fault code and halting operation.
+In practical terms, the dishwasher either cannot pump water out fast enough or a sensor is telling the control board that the drain path is obstructed. Technicians treat 5C as a drain-path problem first and verify every mechanical piece of the drain system before replacing electrical parts.
 
 ## Before You Replace Anything
 
-Homeowners often replace the drain pump or control board first. Always clean the filter and check for debris in the sump and impeller before ordering parts, since a small piece of broken glass or food buildup causes the majority of 5C codes.
+Many people replace the drain pump when the real culprit is glass, bone fragments, or food waste jamming the impeller. Always pull the filter and inspect the sump cavity for debris before ordering a pump.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Clogged filter** Food waste, grease, and small particles accumulate in the filter basket and block water flow to the pump.
-- **Foreign material in pump impeller** Broken plate fragments, glass shards, or twist-ties jam the impeller and prevent the pump from expelling water.
-- **Drain hose kinked, frozen, or clogged** A bent, ice-covered, or internally obstructed drain hose stops wastewater from leaving the dishwasher.
-- **Blocked sink disposal or standpipe** A clogged garbage disposal, plugged air gap, or restricted drain outlet at the discharge point prevents proper drainage.
-- **Pressure switch malfunction** A faulty pressure sensor sends incorrect water-level signals to the control board even when the tub is empty.
-- **Control board failure** A failed main board misreads normal drainage as a fault or fails to energize the drain pump correctly.
+- **Clogged filter or debris in the sump (~50%)** Food waste, broken glass, and bone fragments block the pump impeller or restrict water flow through the filter assembly.
+- **Kinked, bent, or clogged drain hose (~25%)** A frozen, folded, or improperly routed hose prevents the dishwasher from pumping water to the drain or disposal connection.
+- **Failed or obstructed drain pump (~15%)** The sump pump motor is electrically weak or the impeller is mechanically damaged and cannot move water even after debris is cleared.
+- **Blocked sink or disposal connection (~5%)** The drain path downstream of the dishwasher is clogged, creating back pressure that the machine reads as a fault.
+- **Pressure switch malfunction (~3%)** The switch that monitors water level is stuck or falsely reporting a drain fault even when the tub is empty.
+- **Control board failure (~2%)** Samsung lists control board failure as a possible cause, though this is rare and only confirmed after all mechanical checks pass.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Is the dishwasher filter visibly clogged with food or debris?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Remove and clean the filter thoroughly, then run a rinse cycle to see if the 5C clears.<br><strong>No:</strong> Proceed to inspect the drain hose routing and the pump sump for hidden obstructions.</div>
+<details class="dtree"><summary>Is there standing water in the bottom of the tub after the cycle ends?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The drain path is blocked or the pump cannot move water. Start by cleaning the filter and sump, then check the hose for kinks.<br><strong>No:</strong> The fault may be intermittent or a sensor issue. Run a reset and inspect wiring to the pump and pressure switch for corrosion or loose connectors.</div>
 </details>
 
-<details class="dtree"><summary>Does water remain standing in the tub after the cycle aborts?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Water is not draining at all. Focus on mechanical blockages in the filter, impeller, hose, or external drain path.<br><strong>No:</strong> The tub may drain slowly or the sensor may be faulty. Check the pressure switch and wiring if mechanical parts are clear.</div>
+<details class="dtree"><summary>After cleaning the filter, does the pump impeller spin freely when you turn it by hand?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The impeller is clear. Check the drain hose routing and verify the pump motor electrically by running a short cycle and listening for pump noise.<br><strong>No:</strong> Debris is still jamming the impeller. Remove any glass, bone, or hard fragments, then test again.</div>
 </details>
 
-<details class="dtree"><summary>Is the drain hose kinked, frozen, or sagging below the connection point?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Straighten, thaw, or re-route the hose so it slopes upward to the discharge. Clear any internal clogs by flushing with water.<br><strong>No:</strong> The hose is fine. Inspect the disposal knockout plug, air gap, and standpipe for external blockages.</div>
+<details class="dtree"><summary>Does the code clear after cleaning the filter and hose and running a reset?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The blockage is resolved. Monitor the next few cycles to confirm the fault does not return.<br><strong>No:</strong> The drain pump may be failed, or you have a pressure switch or board fault. Inspect wiring and connectors next, then test or replace the pump if mechanical checks are good.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Disconnect power** by unplugging the dishwasher or switching off the circuit breaker to make sure safe access to internal components.
-2. **Remove and clean the filter assembly** by pulling out the lower rack, twisting or lifting the filter basket, and washing away all food waste and grease under running water.
-3. **Inspect the sump and pump impeller** by removing the filter housing cover and checking for broken glass, plate shards, or other foreign objects that can jam the impeller blades.
-4. **Check the drain hose routing** from the dishwasher outlet to the sink or disposal connection. Straighten any kinks, thaw any ice blockage, and flush the hose if you suspect internal debris.
-5. **Verify the external drain path** by removing the dishwasher drain hose from the disposal or air gap and running water through the disposal or standpipe to confirm it flows freely.
-6. **Inspect wiring and connectors** at the drain pump, pressure switch, and control board for loose plugs, corroded terminals, or damaged wires if mechanical checks pass.
-7. **Reassemble and test** by restoring power and running a short rinse or drain cycle to confirm the 5C code does not return and water drains completely.
+1. **Power off the dishwasher** at the circuit breaker or unplug it before any inspection or repair work.
+2. **Remove the lower dish rack** and locate the cylindrical filter assembly in the bottom center of the tub.
+3. **Unscrew and lift out the filter** and inspect the sump cavity below for food waste, broken glass, bone fragments, or other hard debris.
+4. **Spin the drain pump impeller by hand** (visible in the sump once the filter is out) and verify it turns freely without grinding or catching.
+5. **Pull the dishwasher forward** and disconnect the drain hose at the machine and at the sink or disposal connection, then check for kinks, freezing, or internal blockage.
+6. **Flush the hose** with water or replace it if it is cracked, frozen, or kinked beyond recovery.
+7. **Reinstall the filter and hose**, restore power, and run a short rinse cycle to test whether the code clears.
+8. **If the fault persists**, inspect the wiring and connectors to the drain pump and pressure switch for moisture, corrosion, or looseness, then test or replace the drain pump if all mechanical checks pass.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Samsung dishwasher drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dishwasher-5c-error-code&k=Samsung+dishwasher+drain+pump+assembly&tag=errorcodefixes-20) \| If the impeller is damaged or the pump fails to run after clearing obstructions. |
-| Samsung dishwasher drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dishwasher-5c-error-code&k=Samsung+dishwasher+drain+hose&tag=errorcodefixes-20) \| If the original hose is cracked, permanently kinked, or internally clogged beyond flushing. |
-| Samsung dishwasher filter assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dishwasher-5c-error-code&k=Samsung+dishwasher+filter+assembly&tag=errorcodefixes-20) \| If the mesh is torn or the basket is cracked and cannot be cleaned effectively. |
-| Samsung dishwasher pressure switch | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dishwasher-5c-error-code&k=Samsung+dishwasher+pressure+switch&tag=errorcodefixes-20) \| If mechanical drainage is confirmed clear and the fault persists due to sensor error. |
+| Samsung dishwasher drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dishwasher-5c-error-code&k=Samsung+dishwasher+drain+pump+assembly&tag=errorcodefixes-20) \| Match your model number; pumps vary by series and tub design. |
+| Dishwasher drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dishwasher-5c-error-code&k=Dishwasher+drain+hose&tag=errorcodefixes-20) \| Universal 5/8-inch or 3/4-inch ID corrugated hose, cut to length. |
+| Samsung dishwasher pressure switch | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-samsung-dishwasher-5c-error-code&k=Samsung+dishwasher+pressure+switch&tag=errorcodefixes-20) \| Only if diagnosis confirms false triggering after mechanical checks clear. |
 
 ## When to Call a Pro
 
-Call a technician if you have cleared all visible obstructions, confirmed the drain hose and external path are open, and the 5C code still appears. A pro can test the pressure switch circuit, measure pump voltage and current draw, and diagnose control board faults that require board-level repair or replacement. Also call for help if you are uncomfortable working inside the dishwasher cabinet, if wiring appears damaged, or if the pump does not energize at all during the drain cycle. Professional diagnostics typically include multimeter checks and a visual inspection of the sump chamber and pump housing that may require disassembly beyond a homeowner's comfort level.
+Call a pro if you have cleared all debris, verified the hose routing and drain path, and the code still returns every cycle. At that point you are looking at electrical testing of the drain pump motor, pressure switch, or control board, which requires a multimeter and some model-specific wiring knowledge. Also call a pro if you are uncomfortable pulling the dishwasher forward, disconnecting hoses, or working around wet electrical connections. If the pump itself has failed and you do not want to replace it, a technician can swap the assembly and verify proper operation in one visit.
 
-**Rough cost:** DIY runs about $15-50 in parts if a hose or filter is damaged, 20-45 min. A pro service call runs about $150-280 for a service call, diagnostic, and cleaning or minor part replacement.
+**Rough cost:** DIY runs about $0-120 in parts, 30-90 min. A pro service call runs about $120-250.

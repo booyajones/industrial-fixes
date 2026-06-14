@@ -1,8 +1,8 @@
 ---
 title: "Whirlpool Dishwasher E6 Error Code - Causes & Fix"
-description: "E6 on Whirlpool dishwashers usually means a water fill problem. Check that the supply shutoff is fully open and the inlet hose is not kinked."
-pubDatetime: 2026-06-08T04:43:01Z
-modDatetime: 2026-06-08T04:43:01Z
+description: "E6 means water supply fault or tap closed. Most often caused by a closed shutoff valve, kinked inlet hose, or clogged inlet screen."
+pubDatetime: 2026-06-12T18:05:43Z
+modDatetime: 2026-06-12T18:05:43Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,74 +10,73 @@ tags:
   - appliance
   - dishwasher
   - whirlpool
-most_likely_cause: "water supply shut off or insufficient supply pressure"
-free_checks:
-  - "Turn off water supply, disconnect inlet hose, check and clean inlet valve screen for debris/sediment"
-  - "Verify home water pressure is 20-120 psi; test faucet flow on same supply line"
-  - "Check for kinked inlet hose or partially closed shut-off valve"
-no_buy_pct: "40%"
+money_part: "Water inlet valve"
+most_likely_cause: "House water shutoff valve not fully open or inlet hose kinked"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-money_part: "Whirlpool dishwasher water inlet valve"
-part_price: "$15-80"
+free_checks:
+  - "Check that the house water shutoff valve under the sink is turned fully counterclockwise to the open position"
+  - "Pull the dishwasher forward and inspect the entire inlet hose for kinks, pinches, or crushing"
+  - "Disconnect the inlet hose at the valve and clean the inlet screen of any sediment or mineral buildup"
+part_price: "$40-70"
+no_buy_pct: "60%"
 ---
 
 ## Whirlpool Dishwasher E6 Error Code — What It Means
 
-The E6 error code on Whirlpool dishwashers is not a single universal fault across all models and must be verified against your model's tech sheet or owner's manual. The most common interpretation in field reports is a water fill or water supply problem. The dishwasher is not getting enough incoming water, the supply is turned off, or the inlet path is restricted. On certain models an alternate interpretation is incoming water temperature too cold, but this is not confirmed as the universal Whirlpool meaning.
-
-For practical diagnostics the target is the fill system first: the household supply, shutoff valve, inlet hose, inlet screen, and water inlet valve. Control or logic faults are checked only after the hydraulics are confirmed good. Always start by verifying the exact model number and consulting the model-specific documentation before assuming what E6 means on your dishwasher.
+The E6 (or F6/E6) error code on Whirlpool dishwashers indicates a water fill or incoming water supply problem. The control board is not detecting the expected water entering the machine, which it interprets as a water tap closed or insufficient supply condition. On some models the same code can also signal incoming water that is too cold, so always verify the exact definition on your unit's service tech sheet or diagnostic display before ordering parts. The common interpretation across Whirlpool dishwasher documentation is a water supply fault that prevents normal fill.
 
 ## Before You Replace Anything
 
-Many people replace the control board or user interface when E6 appears, but the fault is almost always in the fill system. Verify that the shutoff valve is fully open, the inlet hose is not kinked, and the inlet screen is clean before ordering electronic parts.
+Many people replace the water inlet valve first. Before buying the valve, verify the house shutoff is fully open, check for kinks or blockage in the inlet hose, and clean the inlet screen to confirm water can actually reach the valve.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Water supply shut off or low pressure (~35%)** The shutoff valve under the sink is not fully open or household water pressure is insufficient to fill the dishwasher in the expected time.
-- **Kinked or crushed inlet hose (~25%)** The water supply hose between the shutoff valve and the dishwasher is pinched, kinked, or blocked, restricting flow.
-- **Clogged inlet screen or sediment at valve (~20%)** The mesh filter screen at the water inlet valve is packed with sediment or debris, preventing adequate fill flow.
-- **Defective water inlet valve (~15%)** The water inlet valve does not open reliably or is mechanically stuck, even when the control sends power to it.
-- **Transient control logic issue (~5%)** A temporary glitch in the control board triggers the code once but clears after a power reset, especially if the code is intermittent.
+- **House water shutoff not fully open (~35%)** The supply valve under the sink is turned off or only partially open, preventing water from reaching the dishwasher inlet.
+- **Kinked or pinched inlet hose (~25%)** The hose between the wall shutoff and dishwasher is bent, crushed, or blocked, restricting water flow.
+- **Clogged inlet screen or filter (~15%)** Sediment, mineral deposits, or debris have accumulated in the screen at the valve connection, blocking water entry.
+- **Faulty water inlet valve (~15%)** The valve coil is open, shorted, or the valve itself sticks closed and does not open when energized.
+- **Low household water pressure (~5%)** Restricted or low-pressure supply in the home plumbing prevents the dishwasher from filling at the required rate.
+- **Faulty flow meter or water-level sensor (~5%)** On models equipped with a flow meter, the sensor cannot confirm proper flow even when water is entering.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Is the shutoff valve under the sink fully open and does other water in the home flow normally?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Household supply is good. Move to the inlet hose and inlet valve checks at the dishwasher.<br><strong>No:</strong> Turn the shutoff valve fully counterclockwise and check for low pressure at other fixtures. If pressure is low everywhere, call a plumber. If only the dishwasher valve is restricted, replace or service that valve.</div>
+<details class="dtree"><summary>Is the house water shutoff valve under the sink turned fully open?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The valve is open. Move on to inspect the inlet hose for kinks or blockage.<br><strong>No:</strong> Turn the valve fully counterclockwise, then run a wash cycle to see if the error clears.</div>
 </details>
 
-<details class="dtree"><summary>Does the inlet hose feel kinked or crushed when you trace it from the shutoff to the dishwasher?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Straighten the hose or replace it if the damage is permanent. Run a test cycle to see if E6 clears.<br><strong>No:</strong> The hose is fine. Inspect the inlet screen and valve at the appliance connection point next.</div>
+<details class="dtree"><summary>Does water flow freely when you disconnect the inlet hose at the dishwasher and turn on the shutoff?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Supply and hose are good. Check the inlet screen at the valve for debris, then test or replace the inlet valve.<br><strong>No:</strong> The hose is kinked, blocked, or the house supply is restricted. Straighten or replace the hose and verify house pressure.</div>
 </details>
 
-<details class="dtree"><summary>After disconnecting the inlet hose, is the screen at the valve inlet clean and free of sediment?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The screen is good. Test the valve electrically or replace it if fill is still weak or absent.<br><strong>No:</strong> Remove and rinse the screen under running water. Reinstall, reconnect, and run a test cycle. If fill improves, the screen was the cause.</div>
+<details class="dtree"><summary>After cleaning the inlet screen and verifying supply, does the error return immediately when you start a cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The inlet valve itself is likely faulty or the flow meter (if equipped) is not reading correctly. Replace the valve and retest.<br><strong>No:</strong> The error was caused by a supply or blockage issue. Monitor the next few cycles to confirm it stays cleared.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Verify the model number** and consult the tech sheet or owner's manual to confirm the exact meaning of E6 for your dishwasher, since Whirlpool's code definitions can vary by model.
-2. **Cycle power to the control** by unplugging the dishwasher or switching off the circuit breaker for one full minute, then restore power to clear any transient logic fault.
-3. **Check the household water supply** by confirming that the shutoff valve under the sink is fully open and that water pressure is adequate at other fixtures in the home.
-4. **Inspect the inlet hose** for kinks, pinches, crushed sections, or blockage along its entire run from the shutoff valve to the dishwasher connection.
-5. **Remove and clean the inlet screen** at the water valve inlet by shutting off the supply, disconnecting the hose, and rinsing the mesh filter under running water to remove sediment.
-6. **Test the water inlet valve** by reconnecting the hose, restoring power, and starting a fill cycle. If water does not enter promptly or in sufficient volume, replace the valve.
-7. **Clear the code and run a full cycle** after any repair to confirm that the dishwasher fills normally and that E6 does not return during the wash program.
+1. **Confirm the code definition** by checking your dishwasher's model number and tech sheet or diagnostic display, because E6 can be model-specific.
+2. **Verify the house shutoff** by locating the supply valve under the sink and turning it fully counterclockwise to the open position.
+3. **Inspect the inlet hose** from the wall to the dishwasher by pulling the unit forward and looking for kinks, pinches, crushing, or blockage along the entire length.
+4. **Clean the inlet screen** by disconnecting the hose at the dishwasher valve, removing the small mesh screen, and flushing away any sediment or mineral buildup.
+5. **Test the water inlet valve** electrically by checking continuity across the coil terminals with a multimeter (consult your model's table for expected resistance) and mechanically by observing whether it opens when power is applied.
+6. **Check the flow meter or sensing circuit** on models that use one by running diagnostics and observing whether the control registers water entry even when the valve and supply are confirmed good.
+7. **Restore power and run a full wash cycle** after making corrections to verify the error does not return and the dishwasher fills normally.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Whirlpool dishwasher water inlet valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dishwasher-e6-error-code&k=Whirlpool+dishwasher+water+inlet+valve&tag=errorcodefixes-20) \| Match your model number. Look for a valve with the correct thread size and solenoid configuration. |
-| Dishwasher water supply hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dishwasher-e6-error-code&k=Dishwasher+water+supply+hose&tag=errorcodefixes-20) \| Stainless-steel braided hose is more durable and kink-resistant than plain rubber. Measure the required length before ordering. |
-| Water inlet valve screen filter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dishwasher-e6-error-code&k=Water+inlet+valve+screen+filter&tag=errorcodefixes-20) \| Some valves have a removable screen. Check whether your valve design allows separate screen replacement or requires the whole valve. |
+| Water inlet valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dishwasher-e6-error-code&k=Water+inlet+valve&tag=errorcodefixes-20) \| Match the part number on your existing valve or look up by exact model number. |
+| Dishwasher inlet hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dishwasher-e6-error-code&k=Dishwasher+inlet+hose&tag=errorcodefixes-20) \| Replace if kinked, crushed, or internally restricted; measure length and fittings before ordering. |
+| Flow meter assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-whirlpool-dishwasher-e6-error-code&k=Flow+meter+assembly&tag=errorcodefixes-20) \| Only on certain models; confirm your unit has one before ordering. |
 
 ## When to Call a Pro
 
-Call a professional if you have verified that the shutoff is open, the hose is not kinked, the inlet screen is clean, and the valve has been replaced but E6 persists. At that point the fault may be in the control board, wiring harness, or a model-specific sensor that requires diagnostic tools and the tech sheet. Also call a pro if you are not comfortable working with household water connections or if local code requires a licensed plumber to modify appliance supply lines. If the model documentation ties E6 to incoming water temperature and your home supply is unusually cold, a technician can verify the temperature requirement and recommend a solution such as a mixing valve or water heater adjustment.
+Call a pro if you have verified the house shutoff is open, the inlet hose is clear, and the inlet screen is clean but the error persists after replacing the water inlet valve. A technician can test the flow meter, water-level sensing circuit, and control board to isolate faults that require detailed diagnostics or specialized tools. Also call a pro if your dishwasher is still under warranty, if you are uncomfortable working with household plumbing connections, or if you suspect a broader low-pressure issue in your home's water supply that requires a plumber to resolve.
 
-**Rough cost:** DIY runs about $15-80 in parts, 30-90 min. A pro service call runs about $120-250.
+**Rough cost:** DIY runs about $40-80 in parts, 30-60 min. A pro service call runs about $150-250.
