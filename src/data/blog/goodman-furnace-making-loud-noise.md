@@ -68,3 +68,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a technician for any work involving the burner assembly, gas valve, igniter replacement, or inducer motor repair. If the furnace is flashing a fault code and the noise is paired with no heat or repeated shutdowns, a pro should diagnose the exact cause with a manometer and CO meter. If you have checked the filter, vents, and intake/exhaust piping and the noise continues, a technician can safely inspect the blower wheel, inducer assembly, pressure-switch operation, and all ground connections to prevent further damage or unsafe operation. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Goodman Furnace 4 Flashes - Causes & Fix](/posts/goodman-furnace-4-flashes-error-code/)
+- [Goodman 6 Flash Error Code — Rollout Switch Open Fix](/posts/goodman-6-flash-error-code/)
+- [Goodman d0 Error Code - Causes & Fix](/posts/goodman-heat-pump-d0-error-code/)
+- [Goodman Furnace 2 Flashes - Causes & Fix](/posts/goodman-furnace-2-flashes-error-code/)

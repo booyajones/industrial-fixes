@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a licensed electrician or drive specialist for CPF16. This fault requires working inside the VFD enclosure with exposed high-voltage DC and AC bus bars, diagnostic tools to test logic circuits, and knowledge of drive architecture. Control board replacement demands proper ESD handling, firmware compatibility checks, and parameter backup and restore. If the drive powers critical machinery, a professional can minimize downtime and make sure the replacement is done safely and correctly. Do not attempt this repair unless you are trained and authorized to work on industrial motor drives.
 
 **Rough cost:** A pro service call runs about $400-1200 for control board replacement or $1500-4000 for drive replacement depending on model and rating.
+
+## See Also
+
+- [Yaskawa GA800 E23 Fault Code - Causes & Fix](/posts/yaskawa-ga800-vfd-e23-fault-code/)
+- [Yaskawa GA800 E65 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e65-fault-code/)
+- [Yaskawa GA800 A.143 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-143-fault-code/)
+- [Yaskawa A1000 CPF13 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf13-fault-code/)

@@ -61,3 +61,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you hear booming during ignition, clicking or popping that suggests a cracked heat exchanger, or if replacing the filter does not stop the noise. Any work involving gas valves, burners, or heat exchanger inspection requires professional tools and safety protocols. Also call a pro if the blower or inducer motor needs replacement, as this involves electrical connections and proper torque specs. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Carrier Error Code 27 - Causes & Fix](/posts/carrier-error-code-27/)
+- [Carrier 34 Error Code — Ignition Proving Failure Fix](/posts/carrier-34-error-code/)
+- [Carrier Furnace Won't Turn On - Causes & Fix](/posts/carrier-furnace-wont-turn-on/)
+- [Carrier Infinity System Communication Error Codes — Complete Guide](/posts/carrier-infinity-system-error-codes/)

@@ -60,3 +60,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a licensed plumber or gas technician if you are not comfortable working around gas appliances, if cleaning and connection checks do not solve the problem, or if you suspect the gas control valve has failed. Gas control valve replacement, thermopile testing with a multimeter, and any work on the gas supply line or vent system should be handled by a qualified professional. If you smell gas at any point, leave the area immediately and call your gas utility or emergency services. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rheem Water Heater Dip Tube Replacement - Signs & How-To](/posts/rheem-water-heater-dip-tube-cold-water-inlet-replacement/)
+- [Rheem RPH Series Packaged Unit Error Codes: Complete Guide](/posts/rheem-rph-error-codes/)
+- [Rheem Water Heater No Hot Water - Causes & Fix](/posts/rheem-water-heater-no-hot-water/)
+- [Rheem A008 Error Code - Causes & Fix](/posts/rheem-heat-pump-a008-error-code/)

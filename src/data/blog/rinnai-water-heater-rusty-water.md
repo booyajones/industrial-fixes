@@ -51,3 +51,10 @@ Rinnai's troubleshooting documents show that heat exchanger leaks and scale-rela
 ## When to Call a Pro
 
 Call a licensed plumber or gas technician if you find an active heat exchanger leak, if the exchanger shows heavy corrosion or damage, or if you are not comfortable performing a vinegar flush and inspecting gas-side components. Heat exchanger replacement and any work involving the burner assembly, gas connections, or venting requires a qualified professional. If isolating the heater does not clear up the rusty water, you may also need a plumber to inspect and replace corroded building piping. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rinnai Tankless Water Heater Flow Sensor Replacement Guide](/posts/rinnai-water-heater-flow-sensor-flow-meter-tankless-replacement/)
+- [Rinnai Tankless Water Heater Igniter / Electrode Replacement](/posts/rinnai-water-heater-igniter-ignition-electrode-tankless-replacement/)
+- [Rinnai Tankless Water Heater Error Codes — Complete Guide](/posts/rinnai-error-codes/)
+- [Rinnai Water Heater No Ignition - Causes & Fix](/posts/rinnai-water-heater-no-ignition/)

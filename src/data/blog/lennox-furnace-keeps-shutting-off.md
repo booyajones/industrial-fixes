@@ -70,3 +70,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a licensed HVAC technician if the rollout switch has tripped (rollout events indicate unsafe combustion or venting), if you smell gas or suspect a gas-valve or ignition problem, if the inducer motor does not start, or if the fault code persists after cleaning the flame sensor and clearing blockages. Technicians have the tools to measure flame microamps, static pressure, gas pressure, and heat-exchanger integrity. Any work involving gas piping, burner adjustment, or heat-exchanger replacement requires professional certification and proper combustion analysis. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Lennox Mini Split Error Code E1 — Causes & Fix](/posts/lennox-mini-split-error-code-e1/)
+- [Lennox Furnace Won't Turn On - Causes & Fix](/posts/lennox-furnace-wont-turn-on/)
+- [Lennox E227 Error Code - Causes & Fix](/posts/lennox-furnace-e227-error-code/)
+- [Lennox Furnace E275 Error Code - Causes & Fix](/posts/lennox-furnace-e275-error-code/)

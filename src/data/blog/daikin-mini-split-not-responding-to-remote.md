@@ -69,3 +69,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a licensed HVAC technician if the unit shows a communication fault code (such as UA), if you cannot retrieve any code using the self-diagnosis procedure, or if replacing batteries and power-cycling the system do not restore remote control. Diagnosing indoor-outdoor wiring faults, testing control boards with a multimeter, and safely handling refrigerant circuits all require specialized tools and training. A pro can also confirm whether your remote is compatible with your specific Daikin platform and retrieve detailed fault history from the unit's memory.
+
+## See Also
+
+- [Daikin H8 Error Code - Causes & Fix](/posts/daikin-heat-pump-h8-error-code/)
+- [Daikin E04 Error Code - Causes & Fix](/posts/daikin-mini-split-e04-error-code/)
+- [Daikin E9 Error Code — Causes & Fix](/posts/daikin-e9-error-code/)
+- [Daikin UA Error Code - Causes & Fix](/posts/daikin-heat-pump-ua-error-code/)

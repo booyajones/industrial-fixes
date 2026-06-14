@@ -46,3 +46,10 @@ F0080 on a Siemens Micromaster 420 or 440 drive means the inverter has lost the 
 ## When to Call a Pro
 
 Call a qualified technician if you have confirmed the analog signal is correct at the drive terminals (verified with a meter) but the F0080 fault still appears, or if you are not comfortable working with low-voltage DC wiring and parameter configuration in industrial drives. Also call for help if you do not have the wiring diagrams and parameter manual for your specific Micromaster model, or if the fault persists after you have repaired the wiring and verified the source. A professional can load the correct parameter set, test the drive input circuitry with calibrated equipment, and replace the I/O board or complete inverter if the analog input hardware has failed.
+
+## See Also
+
+- [Siemens Micromaster F0023 - Causes & Fix](/posts/siemens-micromaster-f0023-fault-code/)
+- [Siemens SENTRON 3WL/3VA Fault Codes — Troubleshooting Guide](/posts/siemens-sentron-fault-codes/)
+- [Siemens G120 F01659 - Causes & Fix](/posts/siemens-g120-f01659-fault-code/)
+- [Siemens G120 A05000 Alarm - Causes & Fix](/posts/siemens-g120-vfd-a05000-fault-code/)

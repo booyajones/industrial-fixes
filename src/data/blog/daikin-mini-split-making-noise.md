@@ -69,3 +69,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician if the noise is grinding, squealing, screeching, or loud continuous buzzing, especially after you have cleaned filters and checked for loose parts or debris. Daikin instructs stopping operation and turning off the breaker for these sounds before a technician inspects motor bearings, electrical components, and the compressor. Refrigerant leak detection, electrical testing, and motor replacement all require EPA certification and specialized tools. If the noise only occurs during defrost or start-up and sounds like gurgling or clicking, verify the pattern over a few cycles before calling for service, as these can be normal refrigerant control and thermal expansion sounds.
+
+## See Also
+
+- [Daikin E4 Error Code - Causes & Fix](/posts/daikin-e4-error-code/)
+- [Daikin A1 Error Code - Causes & Fix](/posts/daikin-mini-split-a1-error-code/)
+- [Daikin VRV E7 Error Code — Causes & Fix](/posts/daikin-vrv-e7-error-code/)
+- [Daikin H0 Error Code - Causes & Fix](/posts/daikin-heat-pump-h0-error-code/)

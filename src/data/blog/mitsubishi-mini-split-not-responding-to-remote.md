@@ -69,3 +69,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 If fresh batteries, clear line of sight, and a remote reset do not restore operation, or if the indoor unit's operation lamp is flashing in a pattern, call a qualified HVAC technician. Retrieving stored fault codes using Mitsubishi's Failure Mode Recall procedure requires familiarity with the model-specific service manual, and replacing the indoor receiver board or control PCB involves working with live electrical components and refrigerant-bearing equipment that should be handled by a licensed professional.
+
+## See Also
+
+- [Mitsubishi E4 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-e4-error-code/)
+- [Mitsubishi E7 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-e7-error-code/)
+- [Mitsubishi Mini Split E9 Error Code — Causes & Fix](/posts/mitsubishi-mini-split-e9-error-code/)
+- [Mitsubishi EE Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-ee-error-code/)

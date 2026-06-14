@@ -71,3 +71,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 If you are not comfortable working around 120 VAC wiring, natural gas, or propane, or if your local code requires a licensed technician for any gas-appliance repair, call an HVAC professional before beginning. Similarly, if you have confirmed the igniter element is intact and receives voltage but the burners still do not light, the fault likely lies in the gas valve, burner assembly, flame-sensor circuit, or control-board logic, all of which require gas-system knowledge and combustion-analyzer testing to diagnose safely. Any time you smell gas, hear a continuous hiss, or suspect a gas leak, leave the home immediately and call your utility or fire department, then arrange for a qualified technician to inspect and repair the furnace. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Lennox Error Code 540 — Causes & Fix](/posts/lennox-error-code-540/)
+- [Lennox Furnace Won't Turn On - Causes & Fix](/posts/lennox-furnace-wont-turn-on/)
+- [Lennox iComfort Error Code 31 — Pressure Switch Fault Diagnosis and Fix](/posts/lennox-icomfort-error-code-31/)
+- [Lennox Error Code 432 — Causes & Fix](/posts/lennox-error-code-432/)

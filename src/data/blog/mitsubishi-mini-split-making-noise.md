@@ -70,3 +70,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician if the noise is hissing or whistling (possible refrigerant leak), if the indoor fan motor or blower wheel needs replacement, or if defrost cycles are excessive or accompanied by unusual sounds. Refrigerant work, leak detection, and pressure verification require professional equipment and licensing. If abnormal defrost behavior persists after cleaning and inspection, escalate to Mitsubishi technical support or an authorized distributor for control-board or firmware guidance.
+
+## See Also
+
+- [Mitsubishi Mini Split Blowing Warm Air - Causes & Fix](/posts/mitsubishi-mini-split-blowing-warm-air/)
+- [Mitsubishi Mini Split E4 Error - Causes & Fix](/posts/mitsubishi-mini-split-e4-error-code/)
+- [Mitsubishi E4 Error Code — Causes & Fix](/posts/mitsubishi-e4-error-code/)
+- [Mitsubishi P4 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-p4-error-code/)

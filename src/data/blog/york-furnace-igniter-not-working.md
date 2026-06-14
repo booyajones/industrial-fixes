@@ -61,3 +61,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Gas furnace ignition and burner work should be handled by a licensed HVAC technician. If you are not trained in gas appliance repair, do not attempt to replace the igniter, adjust the gas valve, or troubleshoot flame-proving circuits. A technician has the tools to safely measure igniter voltage, verify gas pressure, test flame sensor microamp current, and clear lockout codes according to manufacturer procedures. Any work involving gas supply, burner operation, or control board diagnostics is best left to a professional to prevent unsafe conditions and make sure code compliance. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [York 1-Blink Error Code — Pressure Switch Stuck Closed Fix](/posts/york-error-code-1/)
+- [York Rooftop Unit Error Codes: Technician Guide](/posts/york-rooftop-unit-error-codes/)
+- [York YG2C Furnace Error Codes — Flash Code Diagnostic Guide](/posts/york-yg2c-error-codes/)
+- [York YSC Rooftop Unit Error Codes Guide](/posts/york-ysc-error-codes/)

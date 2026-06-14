@@ -76,3 +76,10 @@ Answer these to narrow it down fast.
 Call a professional if the D75 code returns after you have thoroughly cleaned the entire vent system, replaced any damaged ducting, verified strong airflow at the exterior hood, and reset the dryer. A persistent code with a clean vent usually means a Flow Sense pressure switch, wiring harness, or control-board issue that requires a technician with service documentation and test equipment. Also call a pro if your vent run is very long, routed through walls or the attic in a way you cannot safely access, or if you are uncomfortable disconnecting gas supply lines on a gas dryer model.
 
 **Rough cost:** DIY runs about $10-40 in duct or vent parts, 1-2 hours. A pro service call runs about $100-200 for vent cleaning or duct replacement.
+
+## See Also
+
+- [LG Refrigerator Compressor Start Relay & Overload Replacement](/posts/lg-refrigerator-compressor-start-relay-ptc-overload-replacement/)
+- [LG Mini Split Error Codes — All CH Codes Explained](/posts/lg-mini-split-error-codes/)
+- [LG WM3500CW Washer Problems & Error Codes](/posts/lg-wm3500cw-washer-problems/)
+- [LG Oven F10 Error Code - Causes & Fix](/posts/lg-oven-f10-error-code/)

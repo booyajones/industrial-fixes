@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a qualified electrician or industrial controls technician if you are not trained in lockout/tagout procedures, high-voltage testing, or VFD troubleshooting. Working on energized VFD circuits or performing insulation-resistance tests requires an understanding of electrical safety and proper test equipment. If the motor cable and motor both test good and the fault remains, a technician with drive diagnostics experience should evaluate the PowerFlex 525 for internal faults or replace the drive. Motor rewinding or replacement also typically requires a professional.
 
 **Rough cost:** A pro service call runs about $200-800 depending on whether you need new cable, motor repair, or drive replacement.
+
+## See Also
+
+- [Allen-Bradley PowerFlex 525 F070 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f070-fault-code/)
+- [Allen Bradley PowerFlex 700 F7 Fault — Causes & Fix](/posts/allen-bradley-powerflex-700-fault-7/)
+- [Allen Bradley PowerFlex 40 F2 Fault — Causes & Fix](/posts/allen-bradley-powerflex-40-f2-fault/)
+- [Allen-Bradley PowerFlex 525 F038 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f038-fault-code/)

@@ -70,3 +70,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a professional if the noise is a bang at ignition, which can indicate delayed ignition or burner problems that are safety hazards. Also call if you hear grinding from the blower or inducer motor and lack the tools or experience to replace motors safely. Any work involving gas burners, ignition components, or heat-exchanger inspection should be handled by a qualified HVAC technician to avoid carbon monoxide risk and make sure safe combustion. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Lennox E227 Error Code - Causes & Fix](/posts/lennox-furnace-e227-error-code/)
+- [Lennox 204 Error Code — Causes & Fix](/posts/lennox-error-code-204/)
+- [Lennox Error Code 327 — Causes & Fix](/posts/lennox-error-code-327/)
+- [Lennox Error Code 414 Rollout — Causes & Fix](/posts/lennox-error-code-414-rollout/)

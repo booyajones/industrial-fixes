@@ -73,3 +73,10 @@ Answer these to narrow it down fast.
 Call a qualified drive technician or controls integrator if you are not familiar with PID control loops, parameter programming, or multimeter testing of analog signals. Work on VFD feedback circuits requires understanding of low-voltage analog signals, proper grounding, and shielding practices. If you have verified the sensor and wiring but the fault persists, the drive control board or internal circuitry may be damaged and should be diagnosed by someone with VFD repair experience. Always follow lockout/tagout procedures and consult the A1000 technical manual before working inside the drive enclosure.
 
 **Rough cost:** A pro service call runs about $200-600.
+
+## See Also
+
+- [Yaskawa GA800 E03 Fault Code - Causes & Fix](/posts/yaskawa-ga800-e03-fault-code/)
+- [Yaskawa GA800 E99 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e99-fault-code/)
+- [Yaskawa GA700 OC Fault — Overcurrent Fix](/posts/yaskawa-ga700-fault-oc/)
+- [Yaskawa A1000 CPF03 - Causes & Fix](/posts/yaskawa-a1000-vfd-cpf03-fault-code/)

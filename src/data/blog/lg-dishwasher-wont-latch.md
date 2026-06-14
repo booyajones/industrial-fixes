@@ -69,3 +69,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a technician if you are not comfortable disassembling the inner door panel to access the latch assembly, if continuity testing is unfamiliar, or if the strike plate requires precision adjustment or tub disassembly. A pro can also diagnose hinge or door alignment issues that require frame or mounting corrections beyond simple latch replacement.
+
+## See Also
+
+- [LG Refrigerator CO Error Code - Causes & Fix](/posts/lg-refrigerator-co-error-code/)
+- [LG Dryer tE3 Error Code - Causes & Fix](/posts/lg-dryer-te3-error-code/)
+- [LG Microwave Won't Turn Off - Causes & Fix](/posts/lg-microwave-wont-turn-off/)
+- [LG Oven F10 Error Code - Causes & Fix](/posts/lg-oven-f10-error-code/)

@@ -61,3 +61,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician if the LED code persists after you have replaced the filter and cleared the vents, if the inducer motor does not start or sounds weak, if the pressure switch does not click when the inducer runs, or if you see repeated ignition attempts with no flame. Any work involving gas burners, igniters, gas-valve replacement, or control-board diagnosis should be handled by a licensed professional. York faults are code-based and model-dependent, so persistent shutdowns require exact code interpretation and component testing that goes beyond basic filter and vent checks. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [York Furnace Error Code E3 — Causes & Fix](/posts/york-furnace-error-code-e3/)
+- [York Furnace 7 Flashes - Causes & Fix](/posts/york-furnace-7-flashes-error-code/)
+- [York TG9 Furnace Error Codes — Fault Code Diagnostic Guide](/posts/york-tg9-furnace-error-codes/)
+- [York Furnace E4 Error Code — Ignition Failure](/posts/york-furnace-error-code-e4/)

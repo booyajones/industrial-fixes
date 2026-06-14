@@ -74,3 +74,10 @@ Answer these to narrow it down fast.
 Call a qualified technician or controls integrator if you cannot locate an obvious mechanical disconnect, if the coupling and drivetrain appear intact but the fault persists, or if you are unfamiliar with VFD parameter programming. Adjusting A490 and A491 incorrectly can mask real mechanical failures and lead to equipment damage or safety hazards. A pro can also measure actual torque current under load, compare it to the programmed thresholds, and determine whether the fault is mechanical, a programming mismatch, or (rarely) a drive feedback issue. Do not bypass the load-loss function without understanding why the current signature is low.
 
 **Rough cost:** A pro service call runs about $150–500 depending on mechanical repair.
+
+## See Also
+
+- [Allen-Bradley PowerFlex 525 F029 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f029-fault-code/)
+- [Allen-Bradley PowerFlex 525 F073 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f073-fault-code/)
+- [Allen-Bradley PowerFlex 525 F041 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f041-fault-code/)
+- [Allen-Bradley PowerFlex 525 F114 - Causes & Fix](/posts/allen-bradley-powerflex-525-vfd-f114-fault-code/)

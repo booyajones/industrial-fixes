@@ -62,3 +62,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a professional for any gas burner work, delayed ignition, or rumbling and banging at startup. These are safety issues that involve combustion and venting. Also get help if you are not comfortable working with capacitors or live electrical components, or if the blower motor or transformer needs replacement and you lack the tools to test and install them safely. If the noise persists after filter changes and basic cleaning, a technician can perform a full blower and electrical inspection. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [York 5 Flashes Error Code — Causes & Fix](/posts/york-5-flashes-error-code/)
+- [York YXV Heat Pump Error Codes - Fault Code Reference](/posts/york-yxv-heat-pump-error-codes/)
+- [York YCD Packaged Unit Error Codes — Fault Code Diagnostic Guide](/posts/york-ycd-error-codes/)
+- [York Furnace E4 Error Code — Ignition Failure](/posts/york-furnace-error-code-e4/)

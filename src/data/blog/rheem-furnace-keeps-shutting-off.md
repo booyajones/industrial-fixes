@@ -62,3 +62,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you are uncomfortable working with gas appliances, if the furnace continues to shut off after cleaning the flame sensor and changing the filter, if the fault code points to a gas valve or control board fault, or if combustion analysis or pressure-switch testing with a manometer is required. A technician can verify manifold gas pressure (Rheem specifies the inducer should produce at least 0.1 inch water column beyond the pressure-switch closing setpoint), check flame rectification current, test safety-switch circuits with a multimeter, and diagnose internal board faults or failed components that require part replacement. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rheem Heat Pump A001 Error Code - Causes & Fix](/posts/rheem-heat-pump-a001-error-code/)
+- [Rheem Furnace Igniter Not Working - Causes & Fix](/posts/rheem-furnace-igniter-not-working/)
+- [Rheem A008 Error Code - Causes & Fix](/posts/rheem-heat-pump-a008-error-code/)
+- [Rheem Furnace 3 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-3-flashes/)

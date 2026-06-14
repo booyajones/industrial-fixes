@@ -53,3 +53,10 @@ The control board relies on a flame rod (flame sensor) to prove the burner is li
 ## When to Call a Pro
 
 If you're not comfortable working with gas appliances, call a licensed plumber or gas technician. Diagnosing flame failure often requires opening the combustion chamber, testing electrical circuits at the control board, and verifying gas pressures with a manometer. Incorrect reassembly or missed gas leaks create serious safety risks. A qualified tech will also have access to Rinnai's model-specific service manuals with the correct resistance, voltage, and pressure specs for your exact unit, which are necessary for reliable diagnosis when the common fixes don't solve the problem. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rinnai Water Heater Not Enough Hot Water - Causes & Fix](/posts/rinnai-water-heater-not-enough-hot-water/)
+- [Rinnai Error Code 25 - Causes & Fix](/posts/rinnai-tankless-water-heater-25-error-code/)
+- [Rinnai RUR Series Error Codes — Tankless Water Heater Fault Guide](/posts/rinnai-rur-error-codes/)
+- [Rinnai Water Heater Rusty Water - Causes & Fix](/posts/rinnai-water-heater-rusty-water/)

@@ -72,3 +72,10 @@ Answer these to narrow it down fast.
 Call a qualified drives technician or electrical contractor if you see CPF19 on your Yaskawa A1000. This fault involves internal control electronics and requires expertise in VFD diagnostics, safe high-voltage lockout, and proper board or drive replacement. A technician will power-cycle the unit, review the fault log, inspect the control board for damage, and determine whether board-level replacement is feasible or whether the entire drive must be replaced. Attempting DIY repair on a VFD control board without training risks electric shock, further damage to the drive, and voiding manufacturer support. Professional service also ensures the replacement drive or board is correctly configured for your motor parameters, communication protocols, and application requirements.
 
 **Rough cost:** A pro service call runs about $400–$1,200 for control-board replacement; $1,500–$5,000+ for drive replacement depending on horsepower.
+
+## See Also
+
+- [Yaskawa GA800 E43 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e43-fault-code/)
+- [Yaskawa GA800 E24 Fault - Causes & Fix](/posts/yaskawa-ga800-e24-fault-code/)
+- [Yaskawa GA800 VFD E54 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e54-fault-code/)
+- [Yaskawa GA800 E15 Fault - Causes & Fix](/posts/yaskawa-ga800-e15-fault-code/)

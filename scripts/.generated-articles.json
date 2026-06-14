@@ -3619,6 +3619,126 @@
     "allen-bradley-powerflex-525-vfd-f033-fault-code": {
       "topic": "Allen-Bradley PowerFlex 525 VFD F033 fault code",
       "date": "2026-06-13"
+    },
+    "yaskawa-a1000-vfd-ov-fault-code": {
+      "topic": "Yaskawa A1000 VFD ov fault code",
+      "date": "2026-06-14"
+    },
+    "yaskawa-a1000-vfd-pf-fault-code": {
+      "topic": "Yaskawa A1000 VFD PF fault code",
+      "date": "2026-06-14"
+    },
+    "yaskawa-a1000-vfd-sco-fault-code": {
+      "topic": "Yaskawa A1000 VFD SCo fault code",
+      "date": "2026-06-14"
+    },
+    "yaskawa-a1000-vfd-uv3-fault-code": {
+      "topic": "Yaskawa A1000 VFD Uv3 fault code",
+      "date": "2026-06-14"
+    },
+    "yaskawa-a1000-vfd-fbh-fault-code": {
+      "topic": "Yaskawa A1000 VFD FbH fault code",
+      "date": "2026-06-14"
+    },
+    "allen-bradley-powerflex-525-vfd-f038-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F038 fault code",
+      "date": "2026-06-14"
+    },
+    "allen-bradley-powerflex-525-vfd-f039-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F039 fault code",
+      "date": "2026-06-14"
+    },
+    "allen-bradley-powerflex-525-vfd-f040-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F040 fault code",
+      "date": "2026-06-14"
+    },
+    "allen-bradley-powerflex-525-vfd-f041-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F041 fault code",
+      "date": "2026-06-14"
+    },
+    "allen-bradley-powerflex-525-vfd-f042-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F042 fault code",
+      "date": "2026-06-14"
+    },
+    "allen-bradley-powerflex-525-vfd-f043-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F043 fault code",
+      "date": "2026-06-14"
+    },
+    "allen-bradley-powerflex-525-vfd-f048-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F048 fault code",
+      "date": "2026-06-14"
+    },
+    "allen-bradley-powerflex-525-vfd-f059-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F059 fault code",
+      "date": "2026-06-14"
+    },
+    "allen-bradley-powerflex-525-vfd-f070-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F070 fault code",
+      "date": "2026-06-14"
+    },
+    "allen-bradley-powerflex-525-vfd-f071-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F071 fault code",
+      "date": "2026-06-14"
+    },
+    "allen-bradley-powerflex-525-vfd-f072-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F072 fault code",
+      "date": "2026-06-14"
+    },
+    "allen-bradley-powerflex-525-vfd-f073-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F073 fault code",
+      "date": "2026-06-14"
+    },
+    "allen-bradley-powerflex-525-vfd-f080-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F080 fault code",
+      "date": "2026-06-14"
+    },
+    "allen-bradley-powerflex-525-vfd-f091-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F091 fault code",
+      "date": "2026-06-14"
+    },
+    "allen-bradley-powerflex-525-vfd-f100-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F100 fault code",
+      "date": "2026-06-14"
+    },
+    "allen-bradley-powerflex-525-vfd-f101-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F101 fault code",
+      "date": "2026-06-14"
+    },
+    "allen-bradley-powerflex-525-vfd-f105-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F105 fault code",
+      "date": "2026-06-14"
+    },
+    "allen-bradley-powerflex-525-vfd-f106-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F106 fault code",
+      "date": "2026-06-14"
+    },
+    "allen-bradley-powerflex-525-vfd-f107-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F107 fault code",
+      "date": "2026-06-14"
+    },
+    "allen-bradley-powerflex-525-vfd-f108-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F108 fault code",
+      "date": "2026-06-14"
+    },
+    "allen-bradley-powerflex-525-vfd-f109-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F109 fault code",
+      "date": "2026-06-14"
+    },
+    "allen-bradley-powerflex-525-vfd-f110-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F110 fault code",
+      "date": "2026-06-14"
+    },
+    "allen-bradley-powerflex-525-vfd-f111-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F111 fault code",
+      "date": "2026-06-14"
+    },
+    "allen-bradley-powerflex-525-vfd-f114-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F114 fault code",
+      "date": "2026-06-14"
+    },
+    "allen-bradley-powerflex-525-vfd-f122-fault-code": {
+      "topic": "Allen-Bradley PowerFlex 525 VFD F122 fault code",
+      "date": "2026-06-14"
     }
   }
 }

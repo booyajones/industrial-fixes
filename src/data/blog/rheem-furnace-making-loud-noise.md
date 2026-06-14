@@ -61,3 +61,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician if you cannot safely identify the noise source, if the noise involves the inducer or blower motor (replacement requires disassembly and sometimes gas valve or ignition work), or if venting changes are needed on a condensing furnace. Technicians have the tools to measure motor amperage, test capacitors accurately, and match pressure switches to the correct rated inches of water column. If the furnace is cycling off, not heating properly, or showing other symptoms along with the noise, professional diagnosis is recommended. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rheem A01 Error Code - Causes & Fix](/posts/rheem-heat-pump-a01-error-code/)
+- [Rheem Water Heater Water Too Hot - Causes & Fix](/posts/rheem-water-heater-water-too-hot/)
+- [Rheem Water Heater Thermocouple Replacement - Signs & How-To](/posts/rheem-water-heater-thermocouple-gas-pilot-sensor-replacement/)
+- [Rheem Furnace 8 Flashes Error Code — Causes & Fix](/posts/rheem-furnace-8-flashes/)

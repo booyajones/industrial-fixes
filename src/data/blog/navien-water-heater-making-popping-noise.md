@@ -53,3 +53,10 @@ Less often, the noise comes from low flow, blockages, air in the lines, loose co
 ## When to Call a Pro
 
 Call a licensed plumber or Navien service technician if descaling and basic cleaning do not stop the popping noise, if you see active error codes you cannot clear, or if the sound is coming from the gas burner, ignition components, or exhaust path. Gas-side and combustion work should always be handled by a qualified professional. A pro can also verify correct venting, perform pressure and flow tests, and replace control boards or valves that require part-specific diagnostics. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Navien NPE/NCB Code E003 — Ignition Failure Fix](/posts/navien-error-code-e003/)
+- [Navien E009 Error Code — Causes & Fix](/posts/navien-error-code-e009/)
+- [Navien NCB-700 Combination Boiler Error Codes - Full Fault Guide](/posts/navien-ncb-700-error-codes/)
+- [Navien E030 Error Code — Causes & Fix](/posts/navien-error-code-e030/)

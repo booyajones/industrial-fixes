@@ -58,3 +58,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a pro if the popping persists after a thorough flush, if you're uncomfortable draining a hot tank, or if the unit shows signs of heavy internal scale or failing elements. For gas units, any burner, igniter, or gas-control work should be handled by a qualified technician. If the heater is old and has never been flushed, a professional can assess whether descaling is practical or replacement is the better long-term option. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Rheem Water Heater Leaking - Causes & Fix](/posts/rheem-water-heater-leaking/)
+- [Rheem Water Heater Error Codes — Complete Guide](/posts/rheem-water-heater-error-codes/)
+- [Rheem Furnace Making Loud Noise - Causes & Fix](/posts/rheem-furnace-making-loud-noise/)
+- [Rheem Water Heater Rusty Water - Causes & Fix](/posts/rheem-water-heater-rusty-water/)

@@ -63,3 +63,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Trane states that furnace troubleshooting is best left to a professional because of electrical shock hazard and the serious risk of gas leaks or explosion. Any work involving the burner assembly, ignition system, transformer testing, capacitor replacement, or blower motor replacement should be handled by a qualified HVAC technician. If you see error codes flashing on the control board or the furnace goes into lockout, record the pattern and call for service rather than attempting repairs yourself. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Trane 9 Flashes Error Code — Causes & Fix](/posts/trane-9-flashes-error-code/)
+- [Trane Heat Pump E10 Error - Causes & Fix](/posts/trane-heat-pump-e10-error-code/)
+- [Trane XV20i/XV18 Fault 126 — Low Pressure Cutout Fix](/posts/trane-heat-pump-error-code-126/)
+- [Trane XL18i Heat Pump Error Codes: Flash Codes and ComfortLink II Faults](/posts/trane-xl18i-error-codes/)

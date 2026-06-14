@@ -77,3 +77,10 @@ Answer these to narrow it down fast.
 Ground-fault diagnosis and repair on a VFD involves high DC bus voltages (often 650 VDC or more), requires insulation testing with specialized megohmmeter equipment, and demands familiarity with three-phase motor circuits and drive parameter programming. If you lack lockout/tagout procedures, insulation test equipment, or experience with VFD troubleshooting, call a qualified industrial electrician or drive service technician. Also call a professional if you have confirmed the motor and cable are good but the fault persists, since internal drive repair or board-level replacement requires factory training and proper ESD-safe handling. For permanent-magnet motor applications, incorrect speed-search or restart settings can cause nuisance faults or damage, so professional configuration is recommended.
 
 **Rough cost:** A pro service call runs about $200–800 for motor cable replacement or motor rewind; $1,200–3,500 for drive or control board replacement if internal fault confirmed.
+
+## See Also
+
+- [Yaskawa GA800 E26 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e26-fault-code/)
+- [Yaskawa GA800 E17 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-e17-fault-code/)
+- [Yaskawa J1000 Fault Codes — VFD Troubleshooting Guide](/posts/yaskawa-j1000-fault-codes/)
+- [Yaskawa GA800 A.139 Fault - Causes & Fix](/posts/yaskawa-ga800-vfd-a-139-fault-code/)

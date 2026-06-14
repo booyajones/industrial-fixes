@@ -70,3 +70,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a licensed HVAC technician if the furnace displays flame failure codes, if you smell gas, or if the blower continues running after you have replaced the filter and confirmed the thermostat is in AUTO mode. Gas pressure testing, flame sensor cleaning, and heat exchanger inspection require calibrated tools and safety protocols. Any work involving the gas valve, burner assembly, or internal wiring on communicating Lennox boards should be handled by a professional to avoid voiding warranties or creating fire hazards. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Lennox XP21 Heat Pump Error Codes — iComfort Fault Code Guide](/posts/lennox-xp21-error-codes/)
+- [Lennox EL296V Error Codes — Variable-Speed Furnace Diagnostic Guide](/posts/lennox-el296v-error-codes/)
+- [Lennox ML193 Furnace Problems & Error Codes](/posts/lennox-ml193-furnace-gas-residential-problems/)
+- [Lennox Merit Series Furnace Error Codes - What It Means and How to Fix It](/posts/lennox-merit-series-furnace-error-codes/)

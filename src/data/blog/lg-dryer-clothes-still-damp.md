@@ -66,3 +66,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a technician if cleaning the vent path, lint filter, and humidity sensors and verifying 240 V power do not restore normal drying. Persistent d80/d90/d95 codes after thorough vent cleaning may indicate internal blower-housing lint buildup or a failing blower motor. An nP code that remains after confirming home wiring is correct points to heater-circuit faults that require component testing. Temperature-sensor codes (tE1 through tE4) require thermistor and control-board diagnostics best handled by a qualified service provider.
+
+## See Also
+
+- [LG Mini Split CH02 Error Code — Causes & Fix](/posts/lg-mini-split-ch02-error-code/)
+- [LG Range E6 Error Code - Causes & Fix](/posts/lg-range-e6-error-code/)
+- [LG Dishwasher Leaking - Causes & Fix](/posts/lg-dishwasher-leaking/)
+- [LG Microwave Inverter Board Replacement - Signs & How-To](/posts/lg-microwave-inverter-board-inverter-models-replacement/)

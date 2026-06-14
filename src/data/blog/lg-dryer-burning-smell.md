@@ -71,3 +71,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified appliance technician if the smell persists after cleaning the lint filter and vent system, if you see burn marks or melted wiring, or if the odor is electrical or smoky. Heating element, motor, control board, and gas burner or igniter work on gas models should be handled by a professional with the service manual and test equipment for your specific LG model. Stop using the dryer until the source of the burning smell is identified and repaired.
+
+## See Also
+
+- [LG CH 26 Error Code - Causes & Fix](/posts/lg-mini-split-ch-26-error-code/)
+- [LG Dryer LE2 Error Code - Causes & Fix](/posts/lg-dryer-le2-error-code/)
+- [LG Mini Split CH33 Error Code - Causes & Fix](/posts/lg-mini-split-ch33-error-code/)
+- [LG Microwave Not Heating - Causes & Fix](/posts/lg-microwave-not-heating/)

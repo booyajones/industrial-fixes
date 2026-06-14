@@ -71,3 +71,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician if the unit displays a fault code you cannot identify, if you find no airflow or wiring problems but heating still does not work, or if refrigerant testing and leak repair are needed. Refrigerant work requires recovery equipment, gauges, and EPA certification. Control board and sensor replacement also requires the correct part number for your specific model and proper fault-clearing procedures. A technician has access to Mitsubishi service documentation, fault-code databases, and the tools to safely diagnose and repair sealed-system and electrical faults.
+
+## See Also
+
+- [Mitsubishi Mini Split Error Codes — Complete Guide](/posts/mitsubishi-mini-split-error-codes/)
+- [Mitsubishi Mini Split Not Responding to Remote - Causes & Fix](/posts/mitsubishi-mini-split-not-responding-to-remote/)
+- [Mitsubishi Mini Split P8 Error Code — Outdoor Heat Exchanger Overtemperature Fix](/posts/mitsubishi-mini-split-p8-error/)
+- [Mitsubishi Mini Split E0 Error Code - Causes & Fix](/posts/mitsubishi-mini-split-e0-error-code/)

@@ -478,5 +478,11 @@
     "score": 0,
     "reason": "review error: HTTP Error 429: Too Many Requests",
     "date": "2026-06-13"
+  },
+  "allen-bradley-powerflex-525-vfd-f108-fault-code": {
+    "topic": "Allen-Bradley PowerFlex 525 VFD F108 fault code",
+    "score": 6,
+    "reason": "Research explicitly states F108 is NOT documented in Rockwell's official PowerFlex 525 manual (only F008 is); publishing an article about a possibly non-existent code creates confusion even though the draft acknowledges the discrepancy.",
+    "date": "2026-06-14"
   }
 }

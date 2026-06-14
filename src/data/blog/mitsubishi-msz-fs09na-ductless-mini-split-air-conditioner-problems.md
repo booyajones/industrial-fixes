@@ -44,3 +44,10 @@ Real-world diagnosis on the FS09NA follows a straightforward path: turn off powe
 ## When to Call a Pro
 
 Call a licensed HVAC technician if you are not comfortable working with line voltage (up to 240V) inside the indoor unit, if you do not have the tools to perform failure mode recall and clear memorized abnormal codes, or if you have replaced the indoor fan motor and checked all wiring but the fault persists. Refrigerant work, control board diagnosis beyond visual inspection, and any repair that requires opening the sealed refrigerant system should always be handled by a pro with proper EPA certification and refrigerant recovery equipment. If the unit is still under warranty, any DIY repair may void coverage, so verify your warranty status before opening the case.
+
+## See Also
+
+- [Mitsubishi U6 Error Code — Causes & Fix](/posts/mitsubishi-u6-error-code/)
+- [Mitsubishi F0001 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-f0001-error-code/)
+- [Mitsubishi E3 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-e3-error-code/)
+- [Mitsubishi P8 Error Code - Causes & Fix](/posts/mitsubishi-heat-pump-p8-error-code/)

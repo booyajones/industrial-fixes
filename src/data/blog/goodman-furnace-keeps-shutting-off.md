@@ -69,3 +69,10 @@ If your appliance also shows a code on the display, these match this problem:
 ## When to Call a Pro
 
 Call a qualified HVAC technician for any work involving gas supply, burner assembly, igniter replacement, or flame rollout diagnosis. A rollout switch trip is a serious combustion safety event and should not be reset without professional inspection. If you are not comfortable working with 120-volt wiring, gas connections, or pressure diagnostics, or if the furnace continues to shut off after you have replaced the filter and checked venting, professional diagnosis with draft measurement and electrical testing is the correct next step. For gas line, burner, or igniter work, or if you ever smell gas, stop and call a licensed technician.
+
+## See Also
+
+- [Goodman Heat Pump E7 Error Code - Causes & Fix](/posts/goodman-heat-pump-e7-error-code/)
+- [Goodman GPH Series Packaged Unit Error Codes: Complete Guide](/posts/goodman-gph-error-codes/)
+- [Goodman E8 Error Code - Causes & Fix](/posts/goodman-heat-pump-e8-error-code/)
+- [Goodman 3 Flash Error Code — Pressure Switch Stuck Open Fix](/posts/goodman-3-flash-error-code/)
