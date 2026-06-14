@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - kenmore
 money_part: "Water inlet valve assembly"
+free_checks:
+  - "Check home water supply shut-off valve is fully open and verify inlet hose has no kinks or clogs"
+  - "Inspect inlet valve screen filter for sediment/debris and clean if clogged"
+  - "Power-cycle dishwasher (breaker off 2 min) to clear transient sensor fault"
+no_buy_pct: "40%"
 part_price: "$40-80"
 most_likely_cause: "failed water inlet valve coil"
 likelihood: "the most common cause"

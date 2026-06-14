@@ -11,6 +11,11 @@ tags:
   - dryer
   - whirlpool
 most_likely_cause: "Heater circuit wiring fault or poor connection"
+free_checks:
+  - "Unplug dryer, wait 60 seconds, restore power to clear transient error; run empty test cycle"
+  - "Check wire harness connectors at heating element and thermostats for corrosion or looseness"
+no_buy_pct: "10%"
+part_price: "$25-65"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
 money_part: "Heater assembly (dryer heating element)"

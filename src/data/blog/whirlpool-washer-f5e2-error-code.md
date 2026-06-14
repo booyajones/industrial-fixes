@@ -11,6 +11,11 @@ tags:
   - washer
   - whirlpool
 most_likely_cause: "Obstruction in the lock area or faulty lock assembly"
+free_checks:
+  - "Power-cycle washer (unplug 2 min) to clear transient door lock fault"
+  - "Inspect door strike alignment and clean door gasket/latch area of debris"
+  - "Check door lock wiring harness connector for looseness or corrosion"
+no_buy_pct: "20%"
 likelihood: "the most common causes"
 diy_or_pro: "diy"
 money_part: "Whirlpool door lock assembly (front-load)"

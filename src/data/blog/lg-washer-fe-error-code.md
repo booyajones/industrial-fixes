@@ -11,6 +11,11 @@ tags:
   - washer
   - lg
 most_likely_cause: "Failed inlet water valve stuck open"
+free_checks:
+  - "Check inlet hose screens at valve for debris/clogs and clean; verify both hot and cold supply valves fully open"
+  - "Confirm household water pressure is 20-120 psi (low pressure common cause); test by running other faucets"
+  - "Inspect drain hose for kinks/clogs causing slow drain that triggers premature FE code"
+no_buy_pct: "60%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG washer water inlet valve assembly"

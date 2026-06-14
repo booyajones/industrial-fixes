@@ -11,6 +11,11 @@ tags:
   - oven
   - ge
 most_likely_cause: "failed or stuck door latch or lock assembly"
+free_checks:
+  - "Power cycle the oven at breaker for 3 minutes to clear error memory"
+  - "Inspect door latch rod and linkage for binding, debris, or misalignment"
+  - "Check 3-wire connector at latch assembly for looseness or corrosion"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE oven door latch assembly"

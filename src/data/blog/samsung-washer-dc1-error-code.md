@@ -11,6 +11,11 @@ tags:
   - washer
   - samsung
 most_likely_cause: "door not fully closed or debris blocking the latch"
+free_checks:
+  - "Power-cycle washer (unplug 2 min) to clear transient error"
+  - "Inspect door strike alignment and test latch mechanism for binding or obstruction"
+  - "Check door lock wiring connector at control board for looseness or corrosion"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung washer door lock assembly"

@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - kenmore
 money_part: "Water inlet valve assembly"
+free_checks:
+  - "Check home water supply valve fully open and inlet hose has no kinks or clogs at screen filter"
+  - "Verify door fully closes and latch engages properly"
+  - "Test water pressure at inlet (minimum 20 psi required) and clean inlet valve screen filters"
+no_buy_pct: "40%"
 part_price: "$20-80"
 most_likely_cause: "clogged inlet valve screen or partially closed water supply valve"
 likelihood: "the most common cause"

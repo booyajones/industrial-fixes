@@ -11,6 +11,11 @@ tags:
   - refrigerator
   - ge
 most_likely_cause: "Ice or frost buildup around the evaporator fan"
+free_checks:
+  - "Check for ice buildup blocking the evaporator fan; defrost manually if present"
+  - "Inspect fan blade for obstructions or binding; spin manually to verify free rotation"
+  - "Reseat the wire harness connector at the evaporator fan motor"
+no_buy_pct: "20%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE refrigerator evaporator fan motor"

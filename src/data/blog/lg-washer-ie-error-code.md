@@ -11,6 +11,11 @@ tags:
   - washer
   - lg
 most_likely_cause: "Closed or partially closed water supply faucets"
+free_checks:
+  - "Check inlet hoses for kinks and verify both hot/cold supply valves are fully open"
+  - "Clean inlet valve screens/filters at hose connections"
+  - "Verify drain hose has proper air gap and isn't siphoning water back out"
+no_buy_pct: "60%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Water inlet valve assembly"

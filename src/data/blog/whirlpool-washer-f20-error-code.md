@@ -11,6 +11,11 @@ tags:
   - washer
   - whirlpool
 most_likely_cause: "closed or partially closed water supply faucets"
+free_checks:
+  - "Check inlet hoses for kinks and verify both hot/cold supply valves are fully open with adequate pressure (min 20 psi)"
+  - "Clean inlet valve screens/filters where hoses connect to washer"
+  - "Verify drain hose isn't inserted too far into standpipe causing siphon"
+no_buy_pct: "60%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Water inlet valve assembly"

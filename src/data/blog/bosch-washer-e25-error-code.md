@@ -11,6 +11,12 @@ tags:
   - washer
   - bosch
 most_likely_cause: "debris in the pump chamber or pump cover not seated correctly"
+free_checks:
+  - "Check and clear drain pump filter and housing for coins, debris, or small items causing blockage"
+  - "Inspect drain hose for kinks, clogs, or improper installation height (max 39 inches)"
+  - "Verify drain hose isn't pushed too far into standpipe creating airlock"
+no_buy_pct: "60%"
+part_price: "$50-110"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Bosch washer drain pump assembly"

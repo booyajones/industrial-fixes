@@ -11,6 +11,11 @@ tags:
   - dryer
   - electrolux
 money_part: "Thermal fuse"
+free_checks:
+  - "Clear lint trap, exhaust vent, and all ductwork of blockages"
+  - "Inspect thermal fuse wire connectors for looseness or corrosion"
+  - "Test airflow after cleaning by running empty cycle"
+no_buy_pct: "15%"
 part_price: "$15-40"
 most_likely_cause: "Restricted exhaust airflow from lint buildup"
 likelihood: "the most common cause"

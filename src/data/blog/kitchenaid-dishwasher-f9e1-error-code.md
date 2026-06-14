@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - kitchenaid
 money_part: "KitchenAid dishwasher drain pump"
+free_checks:
+  - "Check drain pump filter and sump area for debris/blockage; clean thoroughly"
+  - "Inspect drain hose for kinks, clogs, or improper installation height (max 35' rise)"
+  - "Verify drain pump wire harness connections are secure at pump and control board"
+no_buy_pct: "60%"
 part_price: "$15-80"
 most_likely_cause: "Garbage disposer knockout plug not removed or blocked drain path"
 likelihood: "the most common cause"

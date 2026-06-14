@@ -11,6 +11,11 @@ tags:
   - washer
   - samsung
 most_likely_cause: "Clogged drain pump filter"
+free_checks:
+  - "Clean drain pump filter of coins, lint, and debris; check drain hose for kinks or clogs"
+  - "Verify drain hose height is correct (max 96 inches with proper air gap)"
+  - "Power cycle washer and test spin cycle with empty drum"
+no_buy_pct: "80%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Drain pump filter / debris filter"

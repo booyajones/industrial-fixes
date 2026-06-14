@@ -10,6 +10,11 @@ tags:
   - appliance
   - kitchenaid
 money_part: "KitchenAid dishwasher drain pump assembly"
+free_checks:
+  - "Check for debris blocking the drain pump impeller or filter housing"
+  - "Inspect drain hose for kinks or clogs preventing drainage"
+  - "Verify drain pump wire harness connections are fully seated"
+no_buy_pct: "40%"
 part_price: "$80-150"
 most_likely_cause: "failed drain pump"
 likelihood: "the most common cause"

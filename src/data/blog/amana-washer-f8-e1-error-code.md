@@ -11,6 +11,11 @@ tags:
   - washer
   - amana
 money_part: "Water inlet valve assembly"
+free_checks:
+  - "Check inlet hose screens at valve for debris/sediment blockage; clean if clogged"
+  - "Verify home water supply valves are fully open and water pressure is adequate (20+ PSI)"
+  - "Inspect fill hoses for kinks and test inlet valve coil resistance (500-1500 ohms)"
+no_buy_pct: "40%"
 part_price: "$15-40"
 most_likely_cause: "Hot or cold supply valve closed or partially closed"
 likelihood: "the most common cause"

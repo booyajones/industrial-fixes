@@ -10,6 +10,11 @@ tags:
   - appliance
   - amana
 money_part: "Amana washer drain pump"
+free_checks:
+  - "Check drain pump filter/coin trap for debris, coins, or small objects and clear any blockages"
+  - "Inspect drain hose for kinks, clogs, or improper installation height (highest point must be above 39')"
+  - "Verify drain hose isn't inserted more than 4.5' into standpipe to prevent siphon/air-lock"
+no_buy_pct: "60%"
 part_price: "$30-80"
 most_likely_cause: "Drain hose pushed too far into the standpipe or hose end below 36 inches"
 likelihood: "the most common cause"

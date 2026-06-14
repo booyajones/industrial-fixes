@@ -10,6 +10,11 @@ tags:
   - appliance
   - maytag
 most_likely_cause: "kinked or clogged drain hose"
+free_checks:
+  - "Check and clean drain pump filter and coin trap for debris, coins, or fabric"
+  - "Inspect drain hose for kinks, clogs, or improper installation (must be <96' high, no airtight fit)"
+  - "Run empty drain/spin cycle to test if error clears"
+no_buy_pct: "60%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Maytag washer drain pump filter"

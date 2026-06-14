@@ -10,6 +10,11 @@ tags:
   - appliance
   - frigidaire
 most_likely_cause: "Partially closed supply faucets or clogged inlet screens"
+free_checks:
+  - "Check inlet hoses for kinks and verify both hot/cold supply valves are fully open with adequate water pressure (min 20 psi)"
+  - "Clean inlet valve screen filters at hose connections for sediment/debris blockage"
+  - "Verify drain hose isn't siphoning water back out during fill (hose must be 39' min height, not sealed into standpipe)"
+no_buy_pct: "40%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Water inlet valve assembly"

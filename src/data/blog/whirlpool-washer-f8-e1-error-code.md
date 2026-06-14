@@ -11,6 +11,11 @@ tags:
   - washer
   - whirlpool
 most_likely_cause: "water supply valves not fully open or inlet hoses kinked"
+free_checks:
+  - "Check inlet hose screens at valve for debris/sediment; clean if clogged"
+  - "Verify inlet hoses are fully open at shut-off valves and not kinked"
+  - "Test home water pressure (needs 20+ PSI); check if other faucets have weak flow"
+no_buy_pct: "40%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Water inlet valve assembly"

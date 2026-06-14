@@ -11,6 +11,9 @@ tags:
   - dryer
   - frigidaire
 most_likely_cause: "broken or open heating element coil"
+free_checks:
+  - "Power-cycle the dryer (unplug 2 minutes) to clear transient sensor faults"
+  - "Inspect wiring harness connections at heating element and thermostats for corrosion or looseness"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Frigidaire dryer heating element assembly"

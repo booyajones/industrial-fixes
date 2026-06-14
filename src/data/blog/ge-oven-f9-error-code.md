@@ -11,6 +11,11 @@ tags:
   - oven
   - ge
 most_likely_cause: "Debris or grease blocking the door latch mechanism"
+free_checks:
+  - "Power cycle: flip breaker off 60 seconds to clear glitch, then test door lock operation"
+  - "Inspect door latch striker alignment and adjust if door doesn't fully engage lock mechanism"
+  - "Check wiring harness connector at door lock assembly for looseness or corrosion"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE door lock assembly"

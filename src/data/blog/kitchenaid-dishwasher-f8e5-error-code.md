@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - kitchenaid
 money_part: "KitchenAid dishwasher water inlet valve"
+free_checks:
+  - "Turn off water supply, disconnect inlet hose, check and clean inlet valve screen for debris/sediment"
+  - "Verify home water supply valve fully open and water pressure 20-120 psi (low pressure or kinked hose triggers F8E5)"
+  - "Power cycle dishwasher at breaker for 2 minutes to clear transient faults, then run diagnostic cycle"
+no_buy_pct: "30%"
 part_price: "$40-90"
 most_likely_cause: "water inlet valve mechanically stuck open"
 likelihood: "the most common cause"

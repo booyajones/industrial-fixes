@@ -11,6 +11,11 @@ tags:
   - washer
   - maytag
 most_likely_cause: "both water faucets not fully open or clogged inlet hose screens"
+free_checks:
+  - "Check both inlet valve screens for debris and clean if clogged"
+  - "Verify both supply valves fully open and hoses not kinked"
+  - "Test inlet water pressure (requires 20+ PSI minimum)"
+no_buy_pct: "60%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Water inlet valve screens"

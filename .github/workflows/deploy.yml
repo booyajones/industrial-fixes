@@ -54,6 +54,9 @@ jobs:
       - name: Build
         env:
           PUBLIC_GA4_MEASUREMENT_ID: ${{ vars.PUBLIC_GA4_MEASUREMENT_ID }}
+          # Heap headroom: the corpus is ~5.7k pages and the SSG/pagefind step
+          # OOM'd locally at the default ~2GB. The runner has 7GB; give Node 6GB.
+          NODE_OPTIONS: "--max-old-space-size=6144"
         run: npm run build
 
       - name: Deploy to Cloudflare Pages

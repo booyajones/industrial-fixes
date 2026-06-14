@@ -1,0 +1,480 @@
+[
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "80%",
+    "free_checks_final": [
+      "Clean drain pump filter of coins, lint, and debris; check drain hose for kinks or clogs",
+      "Verify drain hose height is correct (max 96 inches with proper air gap)",
+      "Power cycle washer and test spin cycle with empty drum"
+    ],
+    "part_price_final": "$25-45",
+    "reason": "5E drain errors are indeed predominantly clogged filters and hose issues; 80% no-buy is defensible, checks are safe and correct",
+    "slug": "samsung-washer-5e-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check drain hose for kinks, clogs, or improper installation",
+      "Clean drain pump filter and inspect impeller for debris",
+      "Verify drain hose isn't inserted too far into standpipe"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "E03 drain errors are commonly blockages/hose issues before pump failure; 60% no-buy is defensible field knowledge, checks are safe and free",
+    "slug": "lg-washer-e03-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "10%",
+    "free_checks_final": [
+      "Unplug dryer, wait 60 seconds, restore power to clear transient error; run empty test cycle",
+      "Check wire harness connectors at heating element and thermostats for corrosion or looseness"
+    ],
+    "part_price_final": "$25-65",
+    "reason": "F4E2 heating element relay fault overwhelmingly indicates failed heating element (shorted/grounded); 10% no-buy for rare connector issues is defensible, checks are safe and appropriate.",
+    "slug": "whirlpool-dryer-f4e2-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check drain pump filter, sump area, and drain hose for clogs or debris; clear any obstruction",
+      "Inspect drain hose for kinks or improper installation (max 10\" height)",
+      "Verify drain pump wire harness connections are fully seated; power-cycle unit"
+    ],
+    "part_price_final": "$65-140",
+    "reason": "FTD code commonly caused by clogs/kinked hoses before pump failure; 60% no-buy is defensible for mechanical obstructions being most frequent, checks are safe DIY tasks",
+    "slug": "ge-dishwasher-ftd-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Verify 240V at outlet with multimeter; confirm both hot legs present and breaker not tripped",
+      "Check thermal fuse and high-limit thermostat on blower housing for continuity; reset any manual-reset thermostats",
+      "Clean lint from entire exhaust duct and verify exterior vent flap opens freely"
+    ],
+    "part_price_final": "$25-60",
+    "reason": "15% is defensible for thermal cutoff trips from lint blockage before element replacement needed; checks are safe and standard dryer no-heat diagnostics.",
+    "slug": "frigidaire-dryer-al-27-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Verify both hot and cold supply valves fully open and hoses not kinked",
+      "Remove inlet hoses and clean mesh screens at valve inlets",
+      "Test home water pressure is adequate (30+ PSI minimum required)"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "D7 fill timeout commonly caused by supply issues (closed valves, kinked hoses, clogged screens, low pressure) before valve failure; 60% no-buy is defensible and checks are safe.",
+    "slug": "maytag-washer-d7-error-code"
+  },
+  {
+    "verdict": "reject",
+    "no_buy_pct_final": null,
+    "free_checks_final": [
+      "Check and clean drain pump filter and drain hose for clogs",
+      "Inspect drain pump impeller for debris",
+      "Verify drain hose height is correct (max 39 inches)"
+    ],
+    "part_price_final": null,
+    "reason": "E20 is a drain error; heating element is completely unrelated to drainage and not the correct part for this code",
+    "slug": "bosch-washer-e20-error-code"
+  },
+  {
+    "verdict": "apply_qualitative",
+    "no_buy_pct_final": null,
+    "free_checks_final": [
+      "Reset dishwasher by turning off breaker for 5 minutes",
+      "Inspect heating element wire terminals for corrosion or loose connections",
+      "Test heating element continuity with multimeter (should read 15-30 ohms)"
+    ],
+    "part_price_final": "$25-60",
+    "reason": "E08 heating element failures are predominantly burned-out elements; connection issues exist but field frequency insufficient to defend a specific no-buy percentage.",
+    "slug": "kenmore-dishwasher-e08-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "40%",
+    "free_checks_final": [
+      "Check for debris blocking the drain pump impeller or filter housing",
+      "Inspect drain hose for kinks or clogs preventing drainage",
+      "Verify drain pump wire harness connections are fully seated"
+    ],
+    "part_price_final": "$80-150",
+    "reason": "F8E2 drain fault commonly caused by blockages; 40% no-buy estimate is defensible, checks are safe/free, pump failure is indeed common when obstructions cleared.",
+    "slug": "kitchenaid-dishwasher-f8e2-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Clear lint trap, exhaust vent, and all ductwork of blockages",
+      "Inspect thermal fuse wire connectors for looseness or corrosion",
+      "Test airflow after cleaning by running empty cycle"
+    ],
+    "part_price_final": "$8-25",
+    "reason": "Error 66 thermal fuse failure is genuinely usually a blown fuse (~85%), but blockage clearing + connector check resolves ~15% via intermittent connection or transient overheat; estimate is defensible and checks are safe.",
+    "slug": "electrolux-dryer-e-66-error-code"
+  },
+  {
+    "verdict": "reject",
+    "no_buy_pct_final": null,
+    "free_checks_final": [
+      "Check and clean lint blockage in exhaust vent, ductwork, and blower housing",
+      "Verify thermal fuse continuity with multimeter",
+      "Inspect for crushed or kinked vent hose causing back-pressure"
+    ],
+    "part_price_final": "$8-20",
+    "reason": "A blown thermal fuse (E1 code) means the part is already failed and must be replaced; cleaning prevents future failure but cannot restore a tripped one-time fuse\u20140% no-buy once code is confirmed.",
+    "slug": "amana-dryer-f4-e1-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "40%",
+    "free_checks_final": [
+      "Check inlet hose screens at valve connection for debris/sediment clogs and clean",
+      "Verify home water supply valves are fully open and water pressure is adequate (20+ PSI)",
+      "Inspect inlet hoses for kinks or blockages"
+    ],
+    "part_price_final": "$25-60",
+    "reason": "BE4 water-fill errors commonly caused by clogged screens/low pressure; 40% no-buy is defensible, checks are safe DIY tasks, valve price range accurate",
+    "slug": "samsung-washer-be4-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Clear drain pump filter and drain hose of clogs, coins, and debris",
+      "Check drain hose for kinks and verify proper standpipe insertion depth",
+      "Remove filter and verify drain pump impeller spins freely"
+    ],
+    "part_price_final": "$25-65",
+    "reason": "E21 drain timeout is legitimately split between clogs/obstructions (majority) and actual pump failure; 60% no-buy is defensible field estimate, checks are safe and appropriate",
+    "slug": "lg-washer-e21-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check inlet hoses for kinks and verify both hot/cold supply valves are fully open with adequate pressure (min 20 psi)",
+      "Clean inlet valve screens/filters where hoses connect to washer",
+      "Verify drain hose isn't inserted too far into standpipe causing siphon"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "F20 water-flow codes are notoriously often supply/pressure/clogged-screen issues before valve failure; 60% no-buy is defensible field experience, checks are safe/free, valve price is accurate.",
+    "slug": "whirlpool-washer-f20-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "20%",
+    "free_checks_final": [
+      "Check for ice buildup blocking the evaporator fan; defrost manually if present",
+      "Inspect fan blade for obstructions or binding; spin manually to verify free rotation",
+      "Reseat the wire harness connector at the evaporator fan motor"
+    ],
+    "part_price_final": "$35-80",
+    "reason": "FF code does point to evaporator fan but ice blockage is a well-documented minority cause (~20% defensible); checks are free, safe, and correct troubleshooting steps before motor replacement.",
+    "slug": "ge-refrigerator-ff-error-code"
+  },
+  {
+    "verdict": "apply_qualitative",
+    "no_buy_pct_final": null,
+    "free_checks_final": [
+      "Power-cycle the dryer (unplug 2 minutes) to clear transient sensor faults",
+      "Inspect wiring harness connections at heating element and thermostats for corrosion or looseness"
+    ],
+    "part_price_final": "$25-$65",
+    "reason": "E64 heating element relay fault almost always requires heating element or control board replacement; checks are valid but no defensible no-buy percentage exists for sealed heating circuits.",
+    "slug": "frigidaire-dryer-e64-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check drain hose for kinks or clogs; clear pump filter and remove any debris (coins, socks, etc.)",
+      "Verify drain hose is not inserted more than 4.5 inches into standpipe and is below 96 inches high",
+      "Inspect drain pump wire harness for loose connections; clean debris from pump impeller by hand-rotating"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "D8 drain errors are indeed very frequently blockages/restrictions/installation issues before pump failure; 60% no-buy is defensible field knowledge, checks are free and safe, price reasonable for drain pump.",
+    "slug": "maytag-washer-d8-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check and clear drain pump filter and housing for coins, debris, or small items causing blockage",
+      "Inspect drain hose for kinks, clogs, or improper installation height (max 39 inches)",
+      "Verify drain hose isn't pushed too far into standpipe creating airlock"
+    ],
+    "part_price_final": "$50-110",
+    "reason": "E25 drain timeout is legitimately split between filter/hose obstructions (majority, especially newer units) and actual pump failures (common on older units); 60% no-buy is defensible, checks are safe and correct.",
+    "slug": "bosch-washer-e25-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "40%",
+    "free_checks_final": [
+      "Check home water supply valve fully open and inlet hose has no kinks or clogs at screen filter",
+      "Verify door fully closes and latch engages properly",
+      "Test water pressure at inlet (minimum 20 psi required) and clean inlet valve screen filters"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "E10 fill-timeout diagnosis is well-established; 40% no-buy for supply/pressure/screen issues is defensible field experience, checks are safe DIY tasks, and valve price range is accurate.",
+    "slug": "kenmore-dishwasher-e10-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "30%",
+    "free_checks_final": [
+      "Turn off water supply, disconnect inlet hose, check and clean inlet valve screen for debris/sediment",
+      "Verify home water supply valve fully open and water pressure 20-120 psi (low pressure or kinked hose triggers F8E5)",
+      "Power cycle dishwasher at breaker for 2 minutes to clear transient faults, then run diagnostic cycle"
+    ],
+    "part_price_final": "$55-110",
+    "reason": "F8E5 flow errors commonly caused by clogged screens or low pressure; 30% no-buy is defensible, checks are safe and appropriate, majority do need valve replacement.",
+    "slug": "kitchenaid-dishwasher-f8e5-error-code"
+  },
+  {
+    "verdict": "apply_qualitative",
+    "no_buy_pct_final": null,
+    "free_checks_final": [
+      "Verify dryer is set to high-heat cycle, not delicate or air-dry mode",
+      "Check thermal fuse and thermal limiter on blower housing for continuity",
+      "Inspect heating element wire harness connections for corrosion or looseness"
+    ],
+    "part_price_final": "$35-85",
+    "reason": "E64 heating circuit fault has legitimate free checks (thermal fuses trip from lint, connections corrode), but no defensible field data to quantify no-buy rate\u2014tech correctly returned null given genuine uncertainty.",
+    "slug": "electrolux-dryer-e64-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "40%",
+    "free_checks_final": [
+      "Check inlet hose screens at valve for debris/sediment blockage; clean if clogged",
+      "Verify home water supply valves are fully open and water pressure is adequate (20+ PSI)",
+      "Inspect fill hoses for kinks and test inlet valve coil resistance (500-1500 ohms)"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "E1 fill timeout has defensible ~40% no-buy rate from clogged screens/low pressure/kinked hoses; checks are safe DIY; valve is low-voltage and reasonably priced when needed.",
+    "slug": "amana-washer-f8-e1-error-code"
+  },
+  {
+    "verdict": "reject",
+    "no_buy_pct_final": null,
+    "free_checks_final": [
+      "Redistribute unbalanced load evenly in drum; run spin cycle empty to test",
+      "Ensure washer is level on all four feet using spirit level; adjust feet",
+      "Check shipping bolts removed and drum moves freely"
+    ],
+    "part_price_final": null,
+    "reason": "DC code indicates unbalanced load detection, not door lock failure; proposed part (door lock assembly) is wrong for this error code\u2014DC troubleshooting involves load/leveling/suspension issues, not the lid lock itself",
+    "slug": "samsung-washer-dc-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check inlet hose screens at valve for debris/clogs and clean; verify both hot and cold supply valves fully open",
+      "Confirm household water pressure is 20-120 psi (low pressure common cause); test by running other faucets",
+      "Inspect drain hose for kinks/clogs causing slow drain that triggers premature FE code"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "FE code slow-fill diagnosis is well-established; clogged screens and low pressure are dominant field causes before valve failure, 60% is defensible, checks are free and safe",
+    "slug": "lg-washer-fe-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "20%",
+    "free_checks_final": [
+      "Power-cycle washer (unplug 2 min) to clear transient door lock fault",
+      "Inspect door strike alignment and clean door gasket/latch area of debris",
+      "Check door lock wiring harness connector for looseness or corrosion"
+    ],
+    "part_price_final": "$80-150",
+    "reason": "F5E2 door lock failure is predominantly mechanical lock assembly failure (~80%), but ~20% resolve via power cycle (transient electronic glitch) or connector/alignment fixes\u2014defensible field estimate, checks are free and safe.",
+    "slug": "whirlpool-washer-f5e2-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Power cycle: flip breaker off 60 seconds to clear glitch, then test door lock operation",
+      "Inspect door latch striker alignment and adjust if door doesn't fully engage lock mechanism",
+      "Check wiring harness connector at door lock assembly for looseness or corrosion"
+    ],
+    "part_price_final": "$85-180",
+    "reason": "F9 door lock faults are predominantly failed lock assembly hardware (motor/switch), but ~15% resolve via power cycle, alignment fix, or connector cleaning\u2014defensible estimate, safe checks, honest part price.",
+    "slug": "ge-oven-f9-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "40%",
+    "free_checks_final": [
+      "Check inlet hoses for kinks and verify both hot/cold supply valves are fully open with adequate water pressure (min 20 psi)",
+      "Clean inlet valve screen filters at hose connections for sediment/debris blockage",
+      "Verify drain hose isn't siphoning water back out during fill (hose must be 39\" min height, not sealed into standpipe)"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "E11 fill timeout commonly caused by low pressure/kinked hoses/clogged screens before valve failure; 40% no-buy is defensible, checks are free/safe, price reasonable.",
+    "slug": "frigidaire-washer-e11-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check both inlet valve screens for debris and clean if clogged",
+      "Verify both supply valves fully open and hoses not kinked",
+      "Test inlet water pressure (requires 20+ PSI minimum)"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "F20 water-flow faults are commonly caused by low pressure, clogged screens, or kinked hoses; 60% no-buy is defensible for this code before valve replacement.",
+    "slug": "maytag-washer-f20-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Power-cycle washer (unplug 2 minutes) to reset door lock mechanism",
+      "Check door strikes plate alignment and clean door latch striker for debris",
+      "Inspect door lock wiring harness connector for looseness or corrosion"
+    ],
+    "part_price_final": "$80-160",
+    "reason": "E27 is door lock fault; 15% no-buy from power-cycle resets and connector reseats is defensible, 85% genuinely need the lock assembly replaced.",
+    "slug": "bosch-washer-e27-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "40%",
+    "free_checks_final": [
+      "Check home water supply shut-off valve is fully open and verify inlet hose has no kinks or clogs",
+      "Inspect inlet valve screen filter for sediment/debris and clean if clogged",
+      "Power-cycle dishwasher (breaker off 2 min) to clear transient sensor fault"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "F6E1 water inlet faults commonly caused by supply issues, kinked hoses, and clogged screens before valve failure; 40% no-buy defensible, checks safe and correct, part price reasonable.",
+    "slug": "kenmore-dishwasher-f6e1-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check drain pump filter and sump area for debris/blockage; clean thoroughly",
+      "Inspect drain hose for kinks, clogs, or improper installation height (max 35\" rise)",
+      "Verify drain pump wire harness connections are secure at pump and control board"
+    ],
+    "part_price_final": "$80-150",
+    "reason": "F9E1 drain faults are commonly resolved by clearing clogs/obstructions before pump replacement; 60% no-buy is defensible for this code.",
+    "slug": "kitchenaid-dishwasher-f9e1-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Clean lint from entire exhaust duct, outdoor vent flap, and internal blower housing",
+      "Verify vent run is <25 feet with minimal elbows; check for crushed/kinked duct",
+      "Inspect and clean lint buildup around thermal limiter on heater housing"
+    ],
+    "part_price_final": "$15-35",
+    "reason": "EF1 overheat codes are commonly airflow-restriction driven; 60% no-buy is defensible field knowledge, checks are safe/free, limiter price accurate when replacement needed",
+    "slug": "electrolux-dryer-ef1-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check drain pump filter/coin trap for debris, coins, or small objects and clear any blockages",
+      "Inspect drain hose for kinks, clogs, or improper installation height (highest point must be above 39\")",
+      "Verify drain hose isn't inserted more than 4.5\" into standpipe to prevent siphon/air-lock"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "LDL code on Amana washers is commonly caused by drain obstructions/hose issues before pump motor failure; 60% no-buy estimate is defensible, checks are free/safe, and drain pumps are not sealed-system components.",
+    "slug": "amana-washer-ldl-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Power-cycle washer (unplug 2 min) to clear transient error",
+      "Inspect door strike alignment and test latch mechanism for binding or obstruction",
+      "Check door lock wiring connector at control board for looseness or corrosion"
+    ],
+    "part_price_final": "$50-120",
+    "reason": "DC1 is door-lock specific; ~85% mechanical/electrical lock failure rate is defensible field knowledge, 15% transient/connector resolution is conservative and honest, checks are safe and appropriate.",
+    "slug": "samsung-washer-dc1-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check inlet hoses for kinks and verify both hot/cold supply valves are fully open",
+      "Clean inlet valve screens/filters at hose connections",
+      "Verify drain hose has proper air gap and isn't siphoning water back out"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "IE code is well-documented as majority water-supply/pressure/siphoning issues; 60% no-buy is defensible field estimate, checks are safe and correct.",
+    "slug": "lg-washer-ie-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "40%",
+    "free_checks_final": [
+      "Check inlet hose screens at valve for debris/sediment; clean if clogged",
+      "Verify inlet hoses are fully open at shut-off valves and not kinked",
+      "Test home water pressure (needs 20+ PSI); check if other faucets have weak flow"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "E1 slow-fill diagnosis: inlet valve failure is common but clogs, kinked hoses, and low pressure are well-documented causes in field data; 40% no-buy is defensible and checks are safe/free.",
+    "slug": "whirlpool-washer-f8-e1-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "15%",
+    "free_checks_final": [
+      "Power cycle the oven at breaker for 3 minutes to clear error memory",
+      "Inspect door latch rod and linkage for binding, debris, or misalignment",
+      "Check 3-wire connector at latch assembly for looseness or corrosion"
+    ],
+    "part_price_final": "$65-140",
+    "reason": "FC code is indeed typically failed latch motor/switch assembly; 15% no-buy for occasional binding/connector/glitch is defensible and checks are free/safe.",
+    "slug": "ge-oven-fc-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check drain hose for kinks, clogs, or incorrect installation height (must be below 96 inches)",
+      "Clean pump filter and inspect drain pump impeller area for coins, socks, or debris",
+      "Verify drain hose isn't inserted too far into standpipe (causes siphon/air lock)"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "E20 drain errors are well-documented as majority obstruction/installation issues; 60% no-buy is defensible field estimate, checks are safe and correct, part price reasonable for drain pump assembly.",
+    "slug": "frigidaire-washer-e20-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check and clean drain pump filter and coin trap for debris, coins, or fabric",
+      "Inspect drain hose for kinks, clogs, or improper installation (must be <96\" high, no airtight fit)",
+      "Run empty drain/spin cycle to test if error clears"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "F21 drain timeout is well-documented as majority clog/blockage/hose issue before pump failure; 60% no-buy is defensible field estimate, checks are safe and correct",
+    "slug": "maytag-washer-f21-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "80%",
+    "free_checks_final": [
+      "Remove inlet hoses and clean inlet valve screen filters for sediment/debris",
+      "Check water supply valves are fully open and hoses aren't kinked",
+      "Verify home water pressure is 20-120 PSI"
+    ],
+    "part_price_final": "$8-18",
+    "reason": "E30 fill timeout is indeed predominantly clogged screens/low pressure; 80% no-buy is defensible, checks are safe/free, and inlet valve failure is genuinely the minority case.",
+    "slug": "bosch-washer-e30-error-code"
+  }
+]

@@ -11,6 +11,10 @@ tags:
   - dryer
   - electrolux
 money_part: "Heating element or heater assembly"
+free_checks:
+  - "Verify dryer is set to high-heat cycle, not delicate or air-dry mode"
+  - "Check thermal fuse and thermal limiter on blower housing for continuity"
+  - "Inspect heating element wire harness connections for corrosion or looseness"
 part_price: "$25-80"
 most_likely_cause: "failed heating element"
 likelihood: "the most common cause"

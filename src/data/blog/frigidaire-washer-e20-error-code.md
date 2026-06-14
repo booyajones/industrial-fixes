@@ -11,6 +11,11 @@ tags:
   - washer
   - frigidaire
 most_likely_cause: "Clogged pump filter or coin trap"
+free_checks:
+  - "Check drain hose for kinks, clogs, or incorrect installation height (must be below 96 inches)"
+  - "Clean pump filter and inspect drain pump impeller area for coins, socks, or debris"
+  - "Verify drain hose isn't inserted too far into standpipe (causes siphon/air lock)"
+no_buy_pct: "60%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Drain pump assembly"

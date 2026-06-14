@@ -11,6 +11,11 @@ tags:
   - washer
   - bosch
 money_part: "Bosch washer inlet valve screen filter"
+free_checks:
+  - "Remove inlet hoses and clean inlet valve screen filters for sediment/debris"
+  - "Check water supply valves are fully open and hoses aren't kinked"
+  - "Verify home water pressure is 20-120 PSI"
+no_buy_pct: "80%"
 part_price: "$10-50"
 most_likely_cause: "water leak into the base pan or clogged inlet valve screen"
 likelihood: "the most common cause"

@@ -11,6 +11,11 @@ tags:
   - washer
   - samsung
 most_likely_cause: "blocked or kinked water supply hose"
+free_checks:
+  - "Check inlet hose screens at valve connection for debris/sediment clogs and clean"
+  - "Verify home water supply valves are fully open and water pressure is adequate (20+ PSI)"
+  - "Inspect inlet hoses for kinks or blockages"
+no_buy_pct: "40%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung washer water inlet valve"

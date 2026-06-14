@@ -11,6 +11,11 @@ tags:
   - washer
   - maytag
 most_likely_cause: "mechanical overload or excessive suds preventing motor rotation"
+free_checks:
+  - "Check drain hose for kinks or clogs; clear pump filter and remove any debris (coins, socks, etc.)"
+  - "Verify drain hose is not inserted more than 4.5 inches into standpipe and is below 96 inches high"
+  - "Inspect drain pump wire harness for loose connections; clean debris from pump impeller by hand-rotating"
+no_buy_pct: "60%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Drain pump"

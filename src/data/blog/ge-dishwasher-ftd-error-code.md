@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - ge
 most_likely_cause: "Clogged filter or sump area with food debris"
+free_checks:
+  - "Check drain pump filter, sump area, and drain hose for clogs or debris; clear any obstruction"
+  - "Inspect drain hose for kinks or improper installation (max 10' height)"
+  - "Verify drain pump wire harness connections are fully seated; power-cycle unit"
+no_buy_pct: "60%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE dishwasher drain pump assembly"

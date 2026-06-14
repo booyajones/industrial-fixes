@@ -11,6 +11,11 @@ tags:
   - dryer
   - frigidaire
 diy_or_pro: "diy"
+free_checks:
+  - "Verify 240V at outlet with multimeter; confirm both hot legs present and breaker not tripped"
+  - "Check thermal fuse and high-limit thermostat on blower housing for continuity; reset any manual-reset thermostats"
+  - "Clean lint from entire exhaust duct and verify exterior vent flap opens freely"
+no_buy_pct: "15%"
 money_part: "Heating Element"
 most_likely_cause: "Blocked airflow"
 part_price: "$20-80"

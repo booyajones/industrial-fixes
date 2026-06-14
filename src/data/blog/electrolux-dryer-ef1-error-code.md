@@ -11,6 +11,11 @@ tags:
   - dryer
   - electrolux
 money_part: "Thermal limiter or thermal fuse"
+free_checks:
+  - "Clean lint from entire exhaust duct, outdoor vent flap, and internal blower housing"
+  - "Verify vent run is <25 feet with minimal elbows; check for crushed/kinked duct"
+  - "Inspect and clean lint buildup around thermal limiter on heater housing"
+no_buy_pct: "60%"
 part_price: "$15-80"
 most_likely_cause: "blocked exhaust vent or lint buildup"
 likelihood: "the most common cause"
