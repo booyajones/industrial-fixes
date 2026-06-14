@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Motor output cable (shielded VFD-rated)"
+most_likely_cause: "Motor overload or excessive torque demand"
 ---
 
 ## Siemens F1 Fault — What It Means

@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - amana
 money_part: "Main control board (electronic control)"
+most_likely_cause: "Transient control board glitch"
 ---
 
 ## Amana Dishwasher E6 Error Code — What It Means

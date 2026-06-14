@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
 money_part: "Air filter"
+most_likely_cause: "Restricted airflow"
 ---
 
 ## Carrier 22 Error Code — What It Means

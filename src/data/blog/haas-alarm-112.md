@@ -10,6 +10,7 @@ tags:
   - cnc
   - haas
 money_part: "Servo motor thermistor"
+most_likely_cause: "Mechanical overload on the axis"
 ---
 
 ## Haas Alarm 112 — What It Means

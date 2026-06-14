@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Combustion air inlet and exhaust terminal assembly"
+most_likely_cause: "Blocked combustion air inlet or exhaust outlet"
 ---
 
 ## State Water Heater E122 Error Code — What It Means

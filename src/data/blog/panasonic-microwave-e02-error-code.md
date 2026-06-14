@@ -11,6 +11,7 @@ tags:
   - microwave
   - panasonic
 money_part: "Door interlock switch kit"
+most_likely_cause: "Door or interlock switch fault"
 ---
 
 ## Panasonic Microwave E02 Error Code — What It Means

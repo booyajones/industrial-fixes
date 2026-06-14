@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "GA800 control board"
+most_likely_cause: "Incorrect motor nameplate data entered"
 ---
 
 ## Yaskawa GA800 E01 Fault — What It Means

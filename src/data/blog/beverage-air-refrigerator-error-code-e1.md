@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - beverage-air
 money_part: "NTC temperature probe"
+most_likely_cause: "Failed thermistor probe"
 ---
 
 ## Beverage-Air Refrigerator Error Code E1 — What It Means

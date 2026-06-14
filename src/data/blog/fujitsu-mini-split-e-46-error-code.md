@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Thermistor / temperature sensor"
+most_likely_cause: "Loose or disconnected wiring"
 ---
 
 ## Fujitsu E:46 Error Code — What It Means

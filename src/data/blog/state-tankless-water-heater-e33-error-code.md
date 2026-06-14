@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "State tankless temperature sensor"
+most_likely_cause: "Loose or corroded sensor connector"
 ---
 
 ## State Tankless Water Heater E33 Error Code — What It Means

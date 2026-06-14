@@ -11,6 +11,7 @@ tags:
   - mini-split
   - senville
 money_part: "Outdoor PCB / outdoor main control board"
+most_likely_cause: "Temporary control-board lockup"
 ---
 
 ## Senville Mini Split EC 51 Error Code — What It Means

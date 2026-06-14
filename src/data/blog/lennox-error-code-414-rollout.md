@@ -10,6 +10,7 @@ tags:
   - hvac
   - lennox
 money_part: "Rollout limit switch (manual reset)"
+most_likely_cause: "Blocked flue causing rollout"
 ---
 
 ## Lennox Error Code 414 Rollout — What It Means

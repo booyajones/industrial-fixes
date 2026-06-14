@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Motor cable"
+most_likely_cause: "Motor not connected or open circuit"
 ---
 
 ## Siemens Micromaster F0041 — What It Means

@@ -10,6 +10,7 @@ tags:
   - water-heater
   - navien
 money_part: "Navien main control board (PCB)"
+most_likely_cause: "Failed main control board (PCB)"
 ---
 
 ## Navien E782 Error Code — What It Means

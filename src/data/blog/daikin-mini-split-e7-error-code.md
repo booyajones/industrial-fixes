@@ -11,6 +11,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Daikin outdoor DC fan motor"
+most_likely_cause: "Failed outdoor DC fan motor"
 ---
 
 ## Daikin E7 Error Code — What It Means

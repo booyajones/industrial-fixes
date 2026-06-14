@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Indoor controller or display board"
+most_likely_cause: "Misread or incorrectly recorded code"
 ---
 
 ## Mitsubishi F0006 Error Code — What It Means

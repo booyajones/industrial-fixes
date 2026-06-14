@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Mitsubishi condensate drain float switch"
+most_likely_cause: "Clogged condensate drain line or trap"
 ---
 
 ## Mitsubishi P4 Error Code — What It Means

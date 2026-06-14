@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 control power fuse"
+most_likely_cause: "Incorrect wiring or loose motor connections"
 ---
 
 ## Yaskawa GA800 E23 Fault Code — What It Means

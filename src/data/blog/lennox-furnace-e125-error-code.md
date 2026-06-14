@@ -11,6 +11,7 @@ tags:
   - furnace
   - lennox
 money_part: "Lennox integrated furnace control board"
+most_likely_cause: "Failed integrated control board hardware"
 ---
 
 ## Lennox E125 Error Code — What It Means

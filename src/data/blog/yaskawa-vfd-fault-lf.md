@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Motor cable (VFD-rated, screened)"
+most_likely_cause: "Broken output phase wire"
 ---
 
 ## Yaskawa VFD Fault LF — What It Means

@@ -10,6 +10,7 @@ tags:
   - water-heater
   - navien
 money_part: "Navien air intake filter"
+most_likely_cause: "Blocked outdoor vent or intake termination"
 ---
 
 ## Navien E110 Error Code — What It Means

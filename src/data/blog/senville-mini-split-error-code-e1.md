@@ -10,6 +10,7 @@ tags:
   - mini-split
   - senville
 money_part: "18 AWG 3-conductor cable"
+most_likely_cause: "Miswired or disconnected communication terminal"
 ---
 
 ## Senville Mini Split E1 Error Code — What It Means

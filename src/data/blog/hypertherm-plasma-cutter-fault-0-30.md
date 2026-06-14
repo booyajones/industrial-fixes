@@ -10,6 +10,7 @@ tags:
   - welding
   - hypertherm
 money_part: "Electrode"
+most_likely_cause: "Missing or loose shield"
 ---
 
 ## Hypertherm Plasma Cutter Fault 0-30 — What It Means

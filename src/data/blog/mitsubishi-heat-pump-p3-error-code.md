@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Outdoor unit pipe temperature sensor (thermistor)"
+most_likely_cause: "Failed pipe temperature sensor"
 ---
 
 ## Mitsubishi P3 Error Code — What It Means

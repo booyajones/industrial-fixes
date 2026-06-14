@@ -11,6 +11,7 @@ tags:
   - mini-split
   - bosch
 money_part: "Temperature sensor (NTC thermistor)"
+most_likely_cause: "Temperature sensor failure"
 ---
 
 ## Bosch Heat Pump F6 Error Code — What It Means

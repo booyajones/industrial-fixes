@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - turbo-air
 money_part: "Defrost / evaporator sensor"
+most_likely_cause: "Failed evaporator / defrost probe"
 ---
 
 ## Turbo Air Refrigerator Error Code E3 — What It Means

@@ -12,6 +12,7 @@ tags:
   - ge
 diy_or_pro: "pro"
 money_part: "GE dryer heating element"
+most_likely_cause: "Model-specific code or display glitch"
 ---
 
 ## GE Dryer E63 Error Code — What It Means

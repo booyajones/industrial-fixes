@@ -10,6 +10,7 @@ tags:
   - water-heater
   - navien
 money_part: "Navien igniter assembly"
+most_likely_cause: "Insufficient gas supply or low gas pressure"
 ---
 
 ## Navien E003 Error — What It Means

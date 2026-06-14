@@ -10,6 +10,7 @@ tags:
   - hvac
   - rheem
 money_part: "Flame sensor rod"
+most_likely_cause: "Dirty flame sensor"
 ---
 
 ## Rheem Furnace 8 Flashes Error Code — What It Means

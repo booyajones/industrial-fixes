@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state-water-heaters
 money_part: "Combustion air intake screen kit"
+most_likely_cause: "Lint or debris blocking combustion air intake screens"
 ---
 
 ## State Water Heater E134 Error Code — What It Means

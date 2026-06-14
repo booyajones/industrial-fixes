@@ -10,6 +10,7 @@ tags:
   - vfd
   - allen-bradley
 money_part: "Pump impeller / strainer"
+most_likely_cause: "Mechanical overload"
 ---
 
 ## Allen Bradley PowerFlex 523 F7 Fault — What It Means

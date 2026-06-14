@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Gas valve and control board assembly"
+most_likely_cause: "Misread display"
 ---
 
 ## State Water Heater E79 Error — What It Means

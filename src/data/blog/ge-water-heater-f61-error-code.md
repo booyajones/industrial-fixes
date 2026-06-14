@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ge
 money_part: "Temperature sensor (thermistor)"
+most_likely_cause: "Excessive temperature setpoint"
 ---
 
 ## GE Water Heater F61 Error Code — What It Means

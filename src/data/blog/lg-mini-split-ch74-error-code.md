@@ -11,6 +11,7 @@ tags:
   - mini-split
   - lg
 money_part: "LG outdoor unit main PCB"
+most_likely_cause: "Loose or disconnected communication wiring"
 ---
 
 ## LG Mini Split CH74 Error Code — What It Means

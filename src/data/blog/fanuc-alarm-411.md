@@ -10,6 +10,7 @@ tags:
   - cnc
   - fanuc
 money_part: "Encoder feedback cable"
+most_likely_cause: "Encoder feedback cable fault"
 ---
 
 ## Fanuc Alarm 411 — What It Means

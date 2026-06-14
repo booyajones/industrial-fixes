@@ -11,6 +11,7 @@ tags:
   - mini-split
   - cooper-hunter
 money_part: "Cooper & Hunter indoor unit controller board"
+most_likely_cause: "Intentional pump-down activation"
 ---
 
 ## Cooper & Hunter F0 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "GA800 Control Board (PCB)"
+most_likely_cause: "Incoming line power loss or instability"
 ---
 
 ## Yaskawa GA800 E08 Fault — What It Means

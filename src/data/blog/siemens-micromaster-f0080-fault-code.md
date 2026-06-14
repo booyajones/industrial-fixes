@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Potentiometer or analog setpoint source"
+most_likely_cause: "Open or loose analog wiring"
 ---
 
 ## Siemens Micromaster F0080 — What It Means

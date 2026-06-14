@@ -11,6 +11,7 @@ tags:
   - microwave
   - lg
 money_part: "Touch button panel / control panel assembly"
+most_likely_cause: "Foreign material on the touch panel"
 ---
 
 ## LG Microwave F3 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Electronic control board (PCB)"
+most_likely_cause: "Interrupted or unstable power supply"
 ---
 
 ## State Water Heater E168 Error Code — What It Means

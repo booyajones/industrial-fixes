@@ -11,6 +11,7 @@ tags:
   - mini-split
   - rheem
 money_part: "Rheem heat pump control board"
+most_likely_cause: "Power supply interruption or voltage fault"
 ---
 
 ## Rheem Heat Pump A001 Error Code — What It Means

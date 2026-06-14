@@ -10,6 +10,7 @@ tags:
   - welding
   - miller
 money_part: "Input power cable / plug"
+most_likely_cause: "Input voltage selector set incorrectly"
 ---
 
 ## Miller Dynasty E1 Fault Code — What It Means

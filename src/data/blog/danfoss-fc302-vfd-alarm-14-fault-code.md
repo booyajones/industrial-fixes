@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Motor cable (shielded VFD-rated)"
+most_likely_cause: "Motor winding insulation breakdown"
 ---
 
 ## Danfoss FC302 Alarm 14 — What It Means

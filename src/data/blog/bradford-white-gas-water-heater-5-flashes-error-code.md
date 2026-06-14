@@ -11,6 +11,7 @@ tags:
   - bradford-white
   - gas
 money_part: "Bradford White gas control valve / ICON or Honeywell-style gas valve"
+most_likely_cause: "Pilot valve stuck open"
 ---
 
 ## Bradford White 5 Flashes Error Code — What It Means

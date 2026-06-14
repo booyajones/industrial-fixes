@@ -11,6 +11,7 @@ tags:
   - oven
   - maytag
 money_part: "User Interface Control Board (Keypad Assembly)"
+most_likely_cause: "Sabbath mode activated"
 ---
 
 ## Maytag Range AB Error Code — What It Means

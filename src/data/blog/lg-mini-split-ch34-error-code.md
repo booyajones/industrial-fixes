@@ -10,6 +10,7 @@ tags:
   - mini-split
   - lg
 money_part: "Outdoor condenser fan motor"
+most_likely_cause: "Dirty or blocked outdoor condenser coil"
 ---
 
 ## LG Mini-Split CH34 Error Code — What It Means

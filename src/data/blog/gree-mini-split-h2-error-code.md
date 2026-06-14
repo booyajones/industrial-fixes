@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Gree outdoor unit control board (PCB)"
+most_likely_cause: "Faulty electrostatic dust-protection module"
 ---
 
 ## Gree H2 Error Code — What It Means

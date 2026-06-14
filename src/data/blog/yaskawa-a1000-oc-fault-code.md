@@ -14,6 +14,7 @@ tags:
   - fault-codes
 description: "Yaskawa A1000 OC fault code means overcurrent — the drive detected output current exceeding 200% of rated current. Here's how to diagnose the motor, load, and drive parameters causing it."
 money_part: "IGBT output module (drive-size dependent)"
+most_likely_cause: "Acceleration ramp too fast"
 ---
 
 ## Error Code: Yaskawa A1000 OC (Overcurrent)

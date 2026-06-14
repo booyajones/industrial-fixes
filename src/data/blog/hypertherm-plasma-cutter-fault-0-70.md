@@ -10,6 +10,7 @@ tags:
   - welding
   - hypertherm
 money_part: "Input capacitor bank"
+most_likely_cause: "Low input voltage"
 ---
 
 ## Hypertherm Plasma Cutter Fault 0-70 — What It Means

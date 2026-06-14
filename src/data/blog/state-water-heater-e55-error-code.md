@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Leak Sensor / Moisture Sensor"
+most_likely_cause: "Active water leak"
 ---
 
 ## State Water Heater E55 Error Code — What It Means

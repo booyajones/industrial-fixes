@@ -10,6 +10,7 @@ tags:
   - hvac
   - lennox
 money_part: "Rollout limit switch"
+most_likely_cause: "Restricted flue or venting"
 ---
 
 ## Lennox Error Code 111 — What It Means

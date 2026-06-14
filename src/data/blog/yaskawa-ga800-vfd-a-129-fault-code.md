@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 keypad (JVOP-180)"
+most_likely_cause: "Misread or misrecorded display"
 diy_or_pro: "pro"
 ---
 

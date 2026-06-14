@@ -11,6 +11,7 @@ tags:
   - mini-split
   - lg
 money_part: "High-pressure switch"
+most_likely_cause: "Restricted outdoor airflow"
 ---
 
 ## LG Mini-Split CH24 Error — What It Means

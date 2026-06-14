@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 cooling fan"
+most_likely_cause: "Incorrect wiring or loose connections"
 ---
 
 ## Yaskawa GA800 E27 Fault — What It Means

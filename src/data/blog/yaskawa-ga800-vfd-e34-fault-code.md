@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Soft-charge bypass relay (contactor)"
+most_likely_cause: "Worn or damaged soft-charge bypass relay"
 ---
 
 ## Yaskawa GA800 E34 Fault Code — What It Means

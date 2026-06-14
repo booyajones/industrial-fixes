@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 soft-charge bypass relay"
+most_likely_cause: "Worn or failed soft-charge bypass relay"
 ---
 
 ## Yaskawa GA800 E32 Fault — What It Means

@@ -11,6 +11,7 @@ tags:
   - dryer
   - frigidaire
 money_part: "Door switch"
+most_likely_cause: "Misread or corrupt display"
 ---
 
 ## Frigidaire Dryer AL-21 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - oven
   - kitchenaid
 money_part: "Owner's Manual (Digital or Print)"
+most_likely_cause: "Sabbath Mode was intentionally enabled"
 ---
 
 ## KitchenAid AB Error Code — What It Means

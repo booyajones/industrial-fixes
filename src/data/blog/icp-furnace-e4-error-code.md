@@ -10,6 +10,7 @@ tags:
   - hvac
   - icp
 money_part: "Air filter"
+most_likely_cause: "Overheating heat exchanger"
 ---
 
 ## ICP Furnace E4 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - mini-split
   - lg
 money_part: "Communication wire (18 AWG, 3-conductor)"
+most_likely_cause: "Loose or disconnected communication wire"
 ---
 
 ## LG Mini Split CH10 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - mitsubishi
 money_part: "Supply wire upsizing"
+most_likely_cause: "Low voltage from utility or undersized wire"
 ---
 
 ## Mitsubishi U1 Error Code — What It Means

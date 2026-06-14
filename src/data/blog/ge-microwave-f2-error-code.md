@@ -11,6 +11,7 @@ tags:
   - microwave
   - ge
 money_part: "GE oven temperature sensor"
+most_likely_cause: "Failed oven temperature sensor"
 ---
 
 ## GE Microwave F2 Error Code — What It Means

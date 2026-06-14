@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Danfoss VLT programming software (MCT 10)"
+most_likely_cause: "Incorrect parameter 1-24 Motor Current entry"
 ---
 
 ## Danfoss FC302 Alarm 52 — What It Means

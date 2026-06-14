@@ -10,6 +10,7 @@ tags:
   - cnc
   - siemens
 money_part: "Safety relay module"
+most_likely_cause: "stop circuit not reset"
 ---
 
 ## Siemens 840D Alarm 380000 — What It Means

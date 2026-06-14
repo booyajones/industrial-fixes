@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
 money_part: "Outdoor ambient thermistor"
+most_likely_cause: "Failed outdoor ambient thermistor"
 ---
 
 ## Carrier Heat Pump E6 Error Code — What It Means

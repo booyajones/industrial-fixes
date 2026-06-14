@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "E-stop switch or safety interlock switch"
+most_likely_cause: "Open or tripped external interlock chain"
 ---
 
 ## Siemens Micromaster F0085 — What It Means

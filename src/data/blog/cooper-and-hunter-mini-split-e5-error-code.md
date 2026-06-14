@@ -11,6 +11,7 @@ tags:
   - mini-split
   - cooper-and-hunter
 money_part: "Cooper & Hunter outdoor main PCB"
+most_likely_cause: "Abnormal supply voltage"
 ---
 
 ## Cooper & Hunter Mini Split E5 Error — What It Means

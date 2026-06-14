@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Serial communication cable (shielded, twisted-pair)"
+most_likely_cause: "Controller or PLC stopped transmitting"
 ---
 
 ## Yaskawa GA800 E28 Fault — What It Means

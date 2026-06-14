@@ -10,6 +10,7 @@ tags:
   - cnc
   - haas
 money_part: "Cabinet cooling fans"
+most_likely_cause: "Spindle drive overtemperature"
 ---
 
 ## Haas Alarm 108 — What It Means

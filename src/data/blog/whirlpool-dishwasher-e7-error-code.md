@@ -11,6 +11,12 @@ tags:
   - dishwasher
   - whirlpool
 money_part: "Dishwasher heating element assembly"
+free_checks:
+  - "Reset dishwasher by turning off power for 5 minutes"
+  - "Inspect wire connections at heating element terminals for corrosion or looseness"
+no_buy_pct: "10%"
+part_price: "$40-80"
+most_likely_cause: "Open or failed heating element"
 ---
 
 ## Whirlpool Dishwasher E7 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Fujitsu main PCB"
+most_likely_cause: "Loose or miswired interconnecting wiring"
 ---
 
 ## Fujitsu E:85 Error — What It Means

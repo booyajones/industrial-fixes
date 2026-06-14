@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Fujitsu room temperature sensor / thermistor"
+most_likely_cause: "Room thermistor open or shorted"
 ---
 
 ## Fujitsu E:03 Error Code — What It Means

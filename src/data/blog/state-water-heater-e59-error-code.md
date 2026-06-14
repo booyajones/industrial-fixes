@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Air intake screen or filter assembly"
+most_likely_cause: "Blocked or restricted air intake"
 ---
 
 ## State Water Heater E59 Error Code — What It Means

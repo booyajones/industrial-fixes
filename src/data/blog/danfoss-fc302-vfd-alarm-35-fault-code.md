@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Danfoss FC 302 option card or module"
+most_likely_cause: "Option card not seated correctly"
 ---
 
 ## Danfoss FC302 ALARM 35 — What It Means

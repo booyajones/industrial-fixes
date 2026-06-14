@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - ge
 most_likely_cause: "clogged air gap or blocked drain hose"
+free_checks:
+  - "Check drain pump filter/sump and drain hose for clogs; remove debris and food particles"
+  - "Inspect drain hose for kinks or obstructions; verify proper air gap installation"
+  - "Reset dishwasher by cutting power for 2 minutes; verify drain pump impeller spins freely by hand"
+no_buy_pct: "40%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE dishwasher drain pump assembly"

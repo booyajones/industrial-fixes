@@ -10,6 +10,7 @@ tags:
   - vfd
   - omron
 money_part: "Motor output cable"
+most_likely_cause: "Short circuit in motor wiring"
 ---
 
 ## Omron VFD Fault E07 — What It Means

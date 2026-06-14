@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Damper motor / stepper motor"
+most_likely_cause: "Stuck or jammed louver blade"
 ---
 
 ## Fujitsu E:57 Error Code — What It Means

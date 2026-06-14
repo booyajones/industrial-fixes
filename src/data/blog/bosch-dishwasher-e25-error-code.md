@@ -11,6 +11,12 @@ tags:
   - dishwasher
   - bosch
 money_part: "Bosch dishwasher drain pump assembly"
+free_checks:
+  - "Check and clear drain hose for kinks/clogs and clean filter basket under spray arm"
+  - "Inspect drain pump impeller for debris (remove cover, manually rotate impeller)"
+  - "Reset by powering off at breaker for 5 minutes, then test drain cycle"
+no_buy_pct: "60%"
+part_price: "$80-150"
 most_likely_cause: "foreign objects blocking the drain pump or impeller"
 likelihood: "the most common cause"
 diy_or_pro: "diy"

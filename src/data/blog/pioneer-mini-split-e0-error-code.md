@@ -11,6 +11,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Indoor main control board (PCB)"
+most_likely_cause: "Miswired or loose interconnect wiring"
 ---
 
 ## Pioneer Mini Split E0 Error Code — What It Means

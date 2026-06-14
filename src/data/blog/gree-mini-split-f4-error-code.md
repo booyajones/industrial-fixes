@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Gree outdoor tube thermistor / outdoor coil temperature sensor"
+most_likely_cause: "Failed thermistor element"
 ---
 
 ## Gree F4 Error Code — What It Means

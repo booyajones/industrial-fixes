@@ -10,6 +10,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Outdoor PCB"
+most_likely_cause: "Miswired or loose communication terminals"
 ---
 
 ## Fujitsu Mini Split E1 Error Code — What It Means

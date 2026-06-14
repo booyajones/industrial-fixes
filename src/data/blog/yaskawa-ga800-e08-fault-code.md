@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "GA800 control board"
+most_likely_cause: "Open or broken wiring on S8"
 ---
 
 ## Yaskawa GA800 E08 Fault Code — What It Means

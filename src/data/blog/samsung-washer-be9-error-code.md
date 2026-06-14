@@ -11,6 +11,7 @@ tags:
   - washer
   - samsung
 money_part: "Control panel / user interface assembly"
+most_likely_cause: "Stuck or jammed button"
 ---
 
 ## Samsung bE9 Error Code — What It Means

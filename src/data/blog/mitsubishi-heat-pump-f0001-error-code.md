@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Indoor control board (PCB)"
+most_likely_cause: "Display or transcription error"
 ---
 
 ## Mitsubishi F0001 Error Code — What It Means

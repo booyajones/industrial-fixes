@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Indoor unit thermistor / temperature sensor"
+most_likely_cause: "Loose or unplugged sensor connector"
 ---
 
 ## Fujitsu E:44 Error Code — What It Means

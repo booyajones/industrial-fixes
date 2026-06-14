@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Danfoss VLT Sensor Input Option module"
+most_likely_cause: "Incorrectly seated or loose option module"
 ---
 
 ## Danfoss FC302 ALARM 35 — What It Means

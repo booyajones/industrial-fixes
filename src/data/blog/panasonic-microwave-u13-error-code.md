@@ -11,6 +11,7 @@ tags:
   - microwave
   - panasonic
 money_part: "Leveling feet (washer)"
+most_likely_cause: "Unbalanced laundry load"
 ---
 
 ## Panasonic U13 Error Code — What It Means

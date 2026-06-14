@@ -11,6 +11,7 @@ tags:
   - washer
   - samsung
 money_part: "Shock absorber kit"
+most_likely_cause: "Unevenly distributed laundry"
 ---
 
 ## Samsung bE6 Error Code — What It Means

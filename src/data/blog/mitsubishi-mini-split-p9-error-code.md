@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi-electric
 money_part: "TH5 pipe thermistor (Mitsubishi OEM)"
+most_likely_cause: "Loose or disconnected sensor connector"
 ---
 
 ## Mitsubishi Mini Split P9 Error — What It Means

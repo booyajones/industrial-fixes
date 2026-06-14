@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Motor with correct horsepower and frame size"
+most_likely_cause: "Mechanical overload on the driven machine"
 ---
 
 ## Siemens G120 F0005 Fault — What It Means

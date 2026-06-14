@@ -11,6 +11,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Electronic expansion valve (EEV) coil"
+most_likely_cause: "Failed EEV coil or valve assembly"
 ---
 
 ## Daikin A9 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "GA800 control board (PCB)"
+most_likely_cause: "Code misidentification"
 ---
 
 ## Yaskawa GA800 E04 Fault Code — What It Means

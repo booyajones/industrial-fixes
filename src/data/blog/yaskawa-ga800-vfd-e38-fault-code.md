@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 option card"
+most_likely_cause: "Incorrect or missing fault table reference"
 ---
 
 ## Yaskawa GA800 E38 Fault Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Outdoor coil thermistor / heat exchanger sensor"
+most_likely_cause: "Failed outdoor coil thermistor"
 ---
 
 ## Fujitsu E:66 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - senville
 money_part: "Outdoor control board (PCB)"
+most_likely_cause: "Loose or damaged wiring"
 ---
 
 ## Senville PC 00 Error Code — What It Means

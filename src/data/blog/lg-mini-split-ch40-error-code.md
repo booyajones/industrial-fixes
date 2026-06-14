@@ -11,6 +11,7 @@ tags:
   - mini-split
   - lg
 money_part: "Inverter PCB (outdoor main control board)"
+most_likely_cause: "Compressor winding fault"
 ---
 
 ## LG Mini Split CH40 Error Code — What It Means

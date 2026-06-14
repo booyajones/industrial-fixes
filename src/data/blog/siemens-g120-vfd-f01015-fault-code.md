@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens G120 Control Unit (CU)"
+most_likely_cause: "Misread or incomplete fault code"
 ---
 
 ## Siemens G120 F01015 Fault — What It Means

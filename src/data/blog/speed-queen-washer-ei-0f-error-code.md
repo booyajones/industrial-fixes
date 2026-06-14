@@ -11,6 +11,7 @@ tags:
   - washer
   - speed-queen
 money_part: "Water inlet valve"
+most_likely_cause: "IR communication disabled"
 ---
 
 ## Speed Queen EI:0F Error Code — What It Means

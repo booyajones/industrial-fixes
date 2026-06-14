@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "Fieldbus communication cable"
+most_likely_cause: "Master device not polling the drive"
 ---
 
 ## ABB ACS550 EFB1 Fault Code — What It Means

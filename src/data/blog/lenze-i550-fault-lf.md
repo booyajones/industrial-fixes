@@ -10,6 +10,7 @@ tags:
   - vfd
   - lenze
 money_part: "Semiconductor input fuses"
+most_likely_cause: "Blown input fuse on one phase"
 ---
 
 ## Lenze i550 Fault LF — What It Means

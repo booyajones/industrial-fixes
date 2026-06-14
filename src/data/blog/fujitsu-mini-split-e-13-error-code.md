@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Fujitsu main controller PCB (indoor)"
+most_likely_cause: "Loose or miswired interconnect wiring"
 ---
 
 ## Fujitsu E:13 Error Code — What It Means

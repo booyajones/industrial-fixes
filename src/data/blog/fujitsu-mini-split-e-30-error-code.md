@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Heat exchanger (pipe) thermistor"
+most_likely_cause: "Failed heat exchanger thermistor"
 ---
 
 ## Fujitsu E:30 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - cnc
   - okuma
 money_part: "Spindle encoder"
+most_likely_cause: "Spindle motor overload / overtemperature"
 ---
 
 ## Okuma CNC Alarm 2030 Spindle Drive Fault — What It Means

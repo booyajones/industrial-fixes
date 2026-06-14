@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Temperature sensor (thermistor)"
+most_likely_cause: "Scale or mineral deposits on the heat exchanger"
 ---
 
 ## State Water Heater E170 Error Code — What It Means

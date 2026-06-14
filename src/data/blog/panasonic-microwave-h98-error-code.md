@@ -11,6 +11,7 @@ tags:
   - microwave
   - panasonic
 money_part: "Power PCB / inverter power board"
+most_likely_cause: "Power surge or electrical event"
 ---
 
 ## Panasonic H98 Error Code — What It Means

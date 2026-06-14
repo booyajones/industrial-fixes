@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Outdoor fan motor"
+most_likely_cause: "Dirty or blocked condenser coil"
 ---
 
 ## Gree Mini Split H3 Error Code — What It Means

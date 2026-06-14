@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ao-smith
 money_part: "T-in thermistor"
+most_likely_cause: "Insufficient water flow or no flow through the heater"
 ---
 
 ## A.O. Smith Tankless E06 Error — What It Means

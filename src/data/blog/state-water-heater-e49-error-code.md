@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state-water-heaters
 money_part: "Model-specific temperature sensor or thermistor"
+most_likely_cause: "Model-specific sensor failure"
 ---
 
 ## State Water Heater E49 Error Code — What It Means

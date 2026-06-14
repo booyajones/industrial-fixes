@@ -11,6 +11,7 @@ tags:
   - microwave
   - panasonic
 money_part: "Inverter board / inverter power supply"
+most_likely_cause: "Defective magnetron"
 ---
 
 ## Panasonic H99 Error Code — What It Means

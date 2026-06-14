@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "DC-link capacitor bank (for FC302 frame size)"
+most_likely_cause: "Excessive cycling of incoming power"
 ---
 
 ## Danfoss FC302 ALARM 33 — What It Means

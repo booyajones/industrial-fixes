@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Control board (model-specific)"
+most_likely_cause: "Model-specific fault definition"
 ---
 
 ## State Water Heater E09 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - furnace
   - trane
 money_part: "Flame sensor / flame rod"
+most_likely_cause: "Contaminated or grounded flame sensor"
 ---
 
 ## Trane Furnace 5 Flashes — What It Means

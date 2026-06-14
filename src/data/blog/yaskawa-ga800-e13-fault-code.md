@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "GA800 operator keypad (JVOP-180)"
+most_likely_cause: "Misread display or similar code"
 ---
 
 ## Yaskawa GA800 E13 Fault Code — What It Means

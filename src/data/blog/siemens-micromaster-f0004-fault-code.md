@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens Micromaster cooling fan"
+most_likely_cause: "Cooling fan not running or weak"
 ---
 
 ## Siemens Micromaster F0004 — What It Means

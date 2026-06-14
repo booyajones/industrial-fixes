@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ruud
 money_part: "ECO thermal cut-off switch"
+most_likely_cause: "Restricted water flow through the unit"
 ---
 
 ## Ruud E03 Error Code — What It Means

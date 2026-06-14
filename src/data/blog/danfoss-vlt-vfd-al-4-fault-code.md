@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Three-pole contactor"
+most_likely_cause: "Lost incoming phase upstream"
 ---
 
 ## Danfoss VLT AL 4 Fault — What It Means

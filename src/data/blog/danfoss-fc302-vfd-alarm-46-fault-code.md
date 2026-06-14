@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Danfoss FC 302 heat sink fan"
+most_likely_cause: "Defective heat sink fan"
 ---
 
 ## Danfoss FC302 VFD Alarm 46 — What It Means

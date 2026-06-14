@@ -11,6 +11,7 @@ tags:
   - yaskawa
 diy_or_pro: "pro"
 money_part: "GA800 Control Board"
+most_likely_cause: "Transcription or display error"
 ---
 
 ## Yaskawa GA800 E41 Fault — What It Means

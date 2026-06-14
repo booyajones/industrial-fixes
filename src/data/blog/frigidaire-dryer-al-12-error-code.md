@@ -11,6 +11,7 @@ tags:
   - dryer
   - frigidaire
 money_part: "Electronic control board"
+most_likely_cause: "Temporary control glitch"
 ---
 
 ## Frigidaire Dryer AL-12 Error Code — What It Means

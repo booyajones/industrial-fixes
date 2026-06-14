@@ -11,6 +11,7 @@ tags:
   - oven
   - kenmore
 money_part: "Kenmore range meat probe assembly"
+most_likely_cause: "Meat probe not fully inserted"
 ---
 
 ## Kenmore Range F033 Error Code — What It Means

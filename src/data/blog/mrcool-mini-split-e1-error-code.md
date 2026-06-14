@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mrcool
 money_part: "MRCOOL indoor control board"
+most_likely_cause: "Loose or mislanded communication wiring"
 ---
 
 ## MRCOOL E1 Error Code — What It Means

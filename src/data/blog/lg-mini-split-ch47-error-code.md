@@ -11,6 +11,7 @@ tags:
   - mini-split
   - lg
 money_part: "Compressor discharge thermistor"
+most_likely_cause: "Failed discharge thermistor"
 ---
 
 ## LG Mini Split CH47 Error — What It Means

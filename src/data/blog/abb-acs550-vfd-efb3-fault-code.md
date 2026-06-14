@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "Fieldbus communication cable (shielded twisted-pair)"
+most_likely_cause: "Incorrect or mismatched protocol setup"
 ---
 
 ## ABB ACS550 EFB3 Fault — What It Means

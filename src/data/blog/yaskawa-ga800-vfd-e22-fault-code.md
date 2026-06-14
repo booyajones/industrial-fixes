@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Serial communication cable (shielded twisted-pair)"
+most_likely_cause: "Incorrect communication cable wiring"
 ---
 
 ## Yaskawa GA800 E22 Error Code — What It Means

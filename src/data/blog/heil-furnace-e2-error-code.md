@@ -10,6 +10,7 @@ tags:
   - hvac
   - heil
 money_part: "Pressure switch"
+most_likely_cause: "Welded or stuck pressure switch contacts"
 ---
 
 ## Heil Furnace E2 Error Code — What It Means

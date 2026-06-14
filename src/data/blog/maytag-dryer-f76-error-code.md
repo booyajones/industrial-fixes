@@ -11,6 +11,7 @@ tags:
   - dryer
   - maytag
 money_part: "Control-to-UI wiring harness"
+most_likely_cause: "Transient control board fault"
 ---
 
 ## Maytag Dryer F76 Error Code — What It Means

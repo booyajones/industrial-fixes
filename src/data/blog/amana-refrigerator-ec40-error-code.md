@@ -11,6 +11,7 @@ tags:
   - refrigerator
   - amana
 money_part: "Freezer door gasket"
+most_likely_cause: "Freezer door left open or ajar"
 ---
 
 ## Amana Refrigerator EC40 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - carrier
 money_part: "Indoor unit main control board (PCB)"
+most_likely_cause: "Loose or damaged interconnecting wiring"
 ---
 
 ## Carrier E11 Error Code — What It Means

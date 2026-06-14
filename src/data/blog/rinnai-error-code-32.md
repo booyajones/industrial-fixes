@@ -10,6 +10,7 @@ tags:
   - boiler
   - rinnai
 money_part: "Thermal fuse (outlet)"
+most_likely_cause: "Thermal fuse blown"
 ---
 
 ## Rinnai Error Code 32 — What It Means

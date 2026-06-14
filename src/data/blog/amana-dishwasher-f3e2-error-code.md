@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - amana
 money_part: "Oven temperature sensor"
+most_likely_cause: "Dryer not level or very small loads"
 ---
 
 ## Amana F3E2 Error Code — What It Means

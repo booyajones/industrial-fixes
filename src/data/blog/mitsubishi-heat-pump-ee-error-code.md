@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Indoor control board (PCB)"
+most_likely_cause: "Loose or damaged communication wiring"
 ---
 
 ## Mitsubishi EE Error Code — What It Means

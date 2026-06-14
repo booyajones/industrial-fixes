@@ -11,6 +11,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Discharge temperature sensor (thermistor)"
+most_likely_cause: "Blocked or restricted airflow"
 ---
 
 ## Pioneer Mini Split P3 Error — What It Means

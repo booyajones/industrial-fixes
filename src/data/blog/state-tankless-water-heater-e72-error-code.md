@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Flame sensor (flame rod)"
+most_likely_cause: "Blocked air intake screens or venting restriction"
 ---
 
 ## State E72 Error Code — What It Means

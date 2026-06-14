@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi-electric
 money_part: "Mitsubishi remote controller"
+most_likely_cause: "Defective remote controller or failed controller PCB"
 ---
 
 ## Mitsubishi E2 Error Code — What It Means

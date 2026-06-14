@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Danfoss FC302 parameter backup module"
+most_likely_cause: "Speed limits set too narrow"
 ---
 
 ## Danfoss FC302 Alarm 49 — What It Means

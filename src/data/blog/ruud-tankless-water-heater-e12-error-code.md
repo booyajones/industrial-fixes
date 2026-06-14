@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ruud
 money_part: "Flame rod or flame sensor"
+most_likely_cause: "Insufficient gas supply"
 ---
 
 ## Ruud Tankless E12 Error Code — What It Means

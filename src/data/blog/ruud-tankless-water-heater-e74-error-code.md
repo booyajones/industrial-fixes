@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ruud
 money_part: "Igniter / spark electrode"
+most_likely_cause: "Insufficient gas supply"
 ---
 
 ## Ruud E74 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - cnc
   - haas
 money_part: "Spindle encoder cable"
+most_likely_cause: "Programmed speed exceeds the machine's maximum"
 ---
 
 ## Haas Alarm 114 — Spindle Over Speed: What It Means

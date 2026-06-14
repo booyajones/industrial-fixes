@@ -10,6 +10,7 @@ tags:
   - hvac
   - trane
 money_part: "Outdoor coil thermistor"
+most_likely_cause: "Failed outdoor coil thermistor"
 ---
 
 ## Trane Heat Pump E2 Error Code — What It Means

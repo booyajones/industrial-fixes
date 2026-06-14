@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Fujitsu indoor unit controller PCB"
+most_likely_cause: "Communication failure between indoor and outdoor units"
 ---
 
 ## Fujitsu Mini Split E:84 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - trane
 money_part: "Temperature sensor / thermistor"
+most_likely_cause: "Loose or disconnected sensor connector"
 ---
 
 ## Trane Heat Pump E15 Error Code — What It Means

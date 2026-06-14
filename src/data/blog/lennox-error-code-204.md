@@ -10,6 +10,7 @@ tags:
   - hvac
   - lennox
 money_part: "Hot surface igniter"
+most_likely_cause: "Weak or cracked hot surface igniter"
 ---
 
 ## Lennox 204 Error Code — What It Means

@@ -12,6 +12,7 @@ tags:
   - communication
   - controller
 money_part: "Cabinet cooling fan"
+most_likely_cause: "Loose communication cable or backplane connector"
 ---
 
 ## Okuma Alarm 2000 — What It Means

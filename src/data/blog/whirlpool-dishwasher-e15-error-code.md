@@ -10,6 +10,11 @@ tags:
   - appliance
   - whirlpool
 most_likely_cause: "Water supply issue or sensor circuit fault"
+free_checks:
+  - "Tilt dishwasher backward 45° for 30 seconds to drain anti-flood pan and reset float switch"
+  - "Inspect door seal, spray arm connections, and base pan for leaks or detergent residue triggering float"
+  - "Verify drain hose has proper high loop or air gap to prevent siphon filling base pan"
+no_buy_pct: "75%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Water inlet valve assembly"

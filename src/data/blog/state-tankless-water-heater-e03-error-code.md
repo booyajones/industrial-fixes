@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Inlet filter screen or sediment strainer"
+most_likely_cause: "Clogged inlet screen or filter"
 ---
 
 ## State Tankless Water Heater E03 Error Code — What It Means

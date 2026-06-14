@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - hoshizaki
 money_part: "Hot gas bypass valve"
+most_likely_cause: "Low refrigerant charge"
 ---
 
 ## Hoshizaki E3 Error Code — What It Means

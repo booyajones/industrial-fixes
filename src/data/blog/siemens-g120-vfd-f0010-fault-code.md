@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Motor cable (shielded VFD-rated)"
+most_likely_cause: "Motor winding short circuit"
 ---
 
 ## Siemens G120 F0010 Fault Code — What It Means

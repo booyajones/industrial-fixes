@@ -11,6 +11,7 @@ tags:
   - mini-split
   - trane
 money_part: "Outdoor unit assembly"
+most_likely_cause: "Improper refrigerant charge from installation"
 ---
 
 ## Trane Heat Pump E3 Error Code — What It Means

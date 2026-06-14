@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Indoor unit control PCB"
+most_likely_cause: "Indoor/outdoor communication wiring fault"
 ---
 
 ## Mitsubishi F0002 Error Code — What It Means

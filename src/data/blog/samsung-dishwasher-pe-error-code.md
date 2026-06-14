@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - samsung
 money_part: "Diverter assembly (Samsung dishwasher)"
+most_likely_cause: "Failed diverter motor or assembly"
 ---
 
 ## Samsung Dishwasher PE Error — What It Means

@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - samsung
 most_likely_cause: "Clogged filter or food debris in the pump impeller"
+free_checks:
+  - "Check and clear drain hose for kinks or clogs at pump and sink connections"
+  - "Clean drain filter/sump area and verify pump impeller spins freely"
+  - "Verify drain hose height does not exceed 35 inches and has proper loop"
+no_buy_pct: "60%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung dishwasher drain pump assembly"

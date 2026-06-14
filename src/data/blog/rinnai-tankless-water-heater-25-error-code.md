@@ -10,6 +10,7 @@ tags:
   - water-heater
   - rinnai
 money_part: "Condensate safety switch"
+most_likely_cause: "Blocked or frozen condensate drain line"
 ---
 
 ## Rinnai Error Code 25 — What It Means

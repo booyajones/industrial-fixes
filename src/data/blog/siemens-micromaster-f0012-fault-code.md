@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Inverter heatsink temperature sensor"
+most_likely_cause: "Broken or open sensor wire"
 ---
 
 ## Siemens Micromaster F0012 — What It Means

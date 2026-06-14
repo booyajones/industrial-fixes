@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens G120 parameter backup file or commissioning dataset"
+most_likely_cause: "Reference parameter left at 0.0 during commissioning"
 ---
 
 ## Siemens G120 F01033 — What It Means

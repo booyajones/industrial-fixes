@@ -10,6 +10,7 @@ tags:
   - hvac
   - trane
 money_part: "ComfortLink II thermostat"
+most_likely_cause: "Damaged or loose communication wiring"
 ---
 
 ## Trane XV20i Error Code 79 — What It Means

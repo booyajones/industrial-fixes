@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Gree outdoor inverter PCB"
+most_likely_cause: "Low or unstable line voltage"
 ---
 
 ## Gree E5 Error Code — What It Means

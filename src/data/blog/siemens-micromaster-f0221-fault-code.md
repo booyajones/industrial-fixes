@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Feedback sensor or transducer (pressure, temperature, or flow)"
+most_likely_cause: "P2268 minimum threshold set too high"
 ---
 
 ## Siemens Micromaster F0221 — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Gree outdoor DC fan motor"
+most_likely_cause: "Jammed or seized outdoor fan motor"
 ---
 
 ## Gree L3 Error Code — What It Means

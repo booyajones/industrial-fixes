@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "State OEM Gas Control Valve Assembly"
+most_likely_cause: "Misread or transposed display code"
 ---
 
 ## State Water Heater E74 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - lg
 money_part: "LG mini-split interconnecting control cable"
+most_likely_cause: "Tripped outdoor breaker"
 ---
 
 ## LG Mini-Split CH05 Error — What It Means

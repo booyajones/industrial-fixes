@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 operator keypad"
+most_likely_cause: "Incorrect motor nameplate entries"
 ---
 
 ## Yaskawa GA800 E01 Fault — What It Means

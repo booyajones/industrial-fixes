@@ -11,6 +11,7 @@ tags:
   - dryer
   - samsung
 money_part: "Main control board"
+most_likely_cause: "Temporary control glitch"
 ---
 
 ## Samsung Dryer Et Error Code — What It Means

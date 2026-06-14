@@ -11,6 +11,7 @@ tags:
   - dryer
   - frigidaire
 money_part: "User Interface Control Board (UI Board)"
+most_likely_cause: "Misread or transient display error"
 ---
 
 ## Frigidaire Dryer AL-24 Error Code — What It Means

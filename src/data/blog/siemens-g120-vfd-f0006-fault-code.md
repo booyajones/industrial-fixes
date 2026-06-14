@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens G120 inverter power module"
+most_likely_cause: "Overload or excessive duty cycle"
 ---
 
 ## Siemens G120 F0006 Fault — What It Means

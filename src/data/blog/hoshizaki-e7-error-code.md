@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - hoshizaki
 money_part: "Drain valve solenoid assembly"
+most_likely_cause: "Drain valve solenoid failed"
 ---
 
 ## Hoshizaki E7 Error Code — What It Means

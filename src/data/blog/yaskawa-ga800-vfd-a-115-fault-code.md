@@ -11,6 +11,7 @@ tags:
   - yaskawa
 diy_or_pro: "pro"
 money_part: "GA800 control board"
+most_likely_cause: "Incoming power disturbance or phase loss"
 ---
 
 ## Yaskawa GA800 A.115 Fault — What It Means

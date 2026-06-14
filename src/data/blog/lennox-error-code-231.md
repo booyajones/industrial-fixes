@@ -10,6 +10,7 @@ tags:
   - hvac
   - lennox
 money_part: "Rollout switch (limit switch)"
+most_likely_cause: "Blocked flue or heat exchanger"
 ---
 
 ## Lennox Error Code 231 — What It Means

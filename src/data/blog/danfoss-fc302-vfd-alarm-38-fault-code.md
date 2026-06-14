@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Danfoss FC 302 control card"
+most_likely_cause: "Loose or poorly seated internal connections"
 ---
 
 ## Danfoss FC302 VFD Alarm 38 — What It Means

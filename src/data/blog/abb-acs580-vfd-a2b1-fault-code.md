@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "VFD-rated motor cable"
+most_likely_cause: "Mechanical overload on the motor or driven equipment"
 ---
 
 ## ABB ACS580 A2B1 Fault Code — What It Means

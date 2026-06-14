@@ -10,6 +10,7 @@ tags:
   - boiler
   - utica
 money_part: "Flame sensor rod"
+most_likely_cause: "Dirty flame sensor rod"
 ---
 
 ## Utica Boiler Error Code E1 — What It Means

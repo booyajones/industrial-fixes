@@ -10,6 +10,7 @@ tags:
   - boiler
   - navien
 money_part: "Hot surface igniter (silicon nitride)"
+most_likely_cause: "Cracked or burned-out igniter"
 ---
 
 ## Navien Error Code E016 — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Motor output cable"
+most_likely_cause: "Short circuit in output wiring or motor"
 ---
 
 ## Siemens Micromaster Fault F001 — What It Means

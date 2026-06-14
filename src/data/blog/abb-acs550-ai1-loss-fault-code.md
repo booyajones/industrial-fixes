@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "Shielded twisted-pair cable (analog signal grade)"
+most_likely_cause: "No analog signal source or source is powered off"
 ---
 
 ## ABB ACS550 AI1 LOSS — What It Means

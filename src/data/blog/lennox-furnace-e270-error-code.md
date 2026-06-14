@@ -11,6 +11,7 @@ tags:
   - furnace
   - lennox
 money_part: "Lennox hot surface igniter"
+most_likely_cause: "Failed or weak igniter"
 ---
 
 ## Lennox E270 Error Code — What It Means

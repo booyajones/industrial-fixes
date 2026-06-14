@@ -11,6 +11,7 @@ tags:
   - furnace
   - rheem
 money_part: "High limit switch"
+most_likely_cause: "Restricted airflow from dirty filter or blocked return"
 ---
 
 ## Rheem Furnace 3 Flashes — What It Means

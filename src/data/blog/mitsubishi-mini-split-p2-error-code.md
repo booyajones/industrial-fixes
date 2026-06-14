@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi-electric
 money_part: "Mitsubishi indoor pipe thermistor (TH2)"
+most_likely_cause: "Thermistor disconnected from holder"
 ---
 
 ## Mitsubishi Mini Split P2 Error — What It Means

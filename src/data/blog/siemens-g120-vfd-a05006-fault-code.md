@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens G120 cooling fan assembly"
+most_likely_cause: "Blocked air intake or clogged heatsink fins"
 ---
 
 ## Siemens G120 A05006 Alarm — What It Means

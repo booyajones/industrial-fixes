@@ -10,6 +10,7 @@ tags:
   - hvac
   - goodman
 money_part: "Pressure switch"
+most_likely_cause: "Blocked or kinked pressure switch hose"
 ---
 
 ## Amana / Goodman Furnace 3 Flash Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - trane
 money_part: "Trane UCM control board"
+most_likely_cause: "Incorrect phase sequence on incoming supply"
 ---
 
 ## Trane E6 Error Code — What It Means

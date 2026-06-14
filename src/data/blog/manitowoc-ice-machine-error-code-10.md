@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - manitowoc
 money_part: "Ice level sensor (IR)"
+most_likely_cause: "Ice bridging in front of the sensor"
 ---
 
 ## Manitowoc Ice Machine Error Code 10 — What It Means

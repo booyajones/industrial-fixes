@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Shielded motor cable (appropriate gauge for drive and motor)"
+most_likely_cause: "Mechanical overload or seized load"
 ---
 
 ## Siemens Micromaster F0001 — What It Means

@@ -11,6 +11,7 @@ tags:
   - oven
   - whirlpool
 money_part: "Whirlpool oven temperature sensor (RTD)"
+most_likely_cause: "User entered calibration menu"
 ---
 
 ## Whirlpool Oven CAL Error Code — What It Means

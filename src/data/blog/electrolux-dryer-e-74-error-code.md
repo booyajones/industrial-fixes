@@ -11,6 +11,7 @@ tags:
   - dryer
   - electrolux
 money_part: "Electrolux dryer main control board"
+most_likely_cause: "Failed main control board or relay"
 ---
 
 ## Electrolux Dryer E74 Error Code — What It Means

@@ -12,6 +12,7 @@ tags:
   - lg
 diy_or_pro: "pro"
 money_part: "Oven temperature sensor (thermistor)"
+most_likely_cause: "Model-specific code not documented"
 ---
 
 ## LG Range FE Error Code — What It Means

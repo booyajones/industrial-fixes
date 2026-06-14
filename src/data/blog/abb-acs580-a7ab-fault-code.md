@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "ABB C-type extension I/O module"
+most_likely_cause: "Wrong module type selected in parameters"
 ---
 
 ## ABB ACS580 A7AB Fault — What It Means

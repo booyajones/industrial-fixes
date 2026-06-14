@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens SINAMICS G120 Control Unit (CU240 / CU250)"
+most_likely_cause: "Misread or transposed fault number"
 ---
 
 ## Siemens G120 F01250 Fault — What It Means

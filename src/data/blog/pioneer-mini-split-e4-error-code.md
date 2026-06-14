@@ -11,6 +11,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Outdoor PCB / control board"
+most_likely_cause: "Loose, damaged, or corroded wiring and terminals"
 ---
 
 ## Pioneer Mini-Split E4 Error — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa encoder cable"
+most_likely_cause: "Loose or corroded connector"
 ---
 
 ## Yaskawa GA800 E26 Fault Code — What It Means

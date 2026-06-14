@@ -10,6 +10,7 @@ tags:
   - water-heater
   - whirlpool
 money_part: "Temperature sensor"
+most_likely_cause: "Wrong appliance code reference"
 ---
 
 ## Whirlpool Water Heater E11 Error — What It Means

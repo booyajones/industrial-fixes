@@ -11,6 +11,10 @@ tags:
   - dishwasher
   - lg
 most_likely_cause: "failed heating element or heater assembly"
+free_checks:
+  - "Reset dishwasher (power off 60 seconds) and verify error clears; confirm water heats during cycle"
+  - "Inspect heating element wire harness connector for corrosion, looseness, or moisture damage"
+  - "Test heating element continuity with multimeter (should read 15-30 ohms; infinite resistance = failed element)"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
 money_part: "LG dishwasher heating element"

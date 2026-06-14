@@ -11,6 +11,7 @@ tags:
   - microwave
   - panasonic
 money_part: "Panasonic factory-specified SD memory card"
+most_likely_cause: "Wrong SD card installed"
 ---
 
 ## Panasonic Microwave U17 Error Code — What It Means

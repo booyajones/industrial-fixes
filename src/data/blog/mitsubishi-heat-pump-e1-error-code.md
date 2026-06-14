@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Indoor unit PCB"
+most_likely_cause: "Loose or damaged communication wiring"
 ---
 
 ## Mitsubishi E1 Error Code — What It Means

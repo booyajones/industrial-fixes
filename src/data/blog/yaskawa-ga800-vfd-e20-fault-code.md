@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 control board"
+most_likely_cause: "Mechanical binding or jammed load"
 ---
 
 ## Yaskawa GA800 E20 Fault — What It Means

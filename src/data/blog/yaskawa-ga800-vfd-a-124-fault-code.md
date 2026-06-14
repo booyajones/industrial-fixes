@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 control board"
+most_likely_cause: "Misread or non-GA800 alarm code"
 diy_or_pro: "pro"
 ---
 

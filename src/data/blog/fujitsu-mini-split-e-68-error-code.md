@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Outdoor coil thermistor sensor"
+most_likely_cause: "Open or failed outdoor coil thermistor"
 ---
 
 ## Fujitsu Mini Split E:68 Error — What It Means

@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - samsung
 most_likely_cause: "Filter, sump, or drain path blockage restricting water movement"
+free_checks:
+  - "Check drain pump filter, sump area, and drain hose for clogs or debris and clear any obstructions"
+  - "Inspect drain hose for kinks or installation above 35-inch maximum height"
+  - "Run drain cycle to test pump operation; listen for hum indicating jammed impeller versus normal motor sound"
+no_buy_pct: "60%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung dishwasher drain pump assembly"

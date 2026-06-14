@@ -11,6 +11,7 @@ tags:
   - mini-split
   - lg
 money_part: "Indoor unit control board (PCB)"
+most_likely_cause: "Indoor units set to different modes"
 ---
 
 ## LG Mini-Split CH07 Error Code — What It Means

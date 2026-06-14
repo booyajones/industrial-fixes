@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Gree evaporator or condenser coil thermistor / temperature sensor"
+most_likely_cause: "Failed thermistor"
 ---
 
 ## Gree Mini Split F2 Error Code — What It Means

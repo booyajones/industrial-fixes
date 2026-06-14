@@ -11,6 +11,7 @@ tags:
   - mini-split
   - lg
 money_part: "Indoor air filter (LG mini split)"
+most_likely_cause: "Poor outdoor ventilation"
 ---
 
 ## LG Mini Split CH61 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Motor cable (shielded VFD-rated)"
+most_likely_cause: "Damaged motor cable insulation"
 ---
 
 ## Danfoss FC302 ALARM 16 — What It Means

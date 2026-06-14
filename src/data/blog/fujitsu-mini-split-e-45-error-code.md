@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Indoor main PCB control board"
+most_likely_cause: "Communication wiring fault"
 ---
 
 ## Fujitsu Mini Split E:45 Error — What It Means

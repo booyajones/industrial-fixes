@@ -10,6 +10,7 @@ tags:
   - hvac
   - trane
 money_part: "Flame sensor rod"
+most_likely_cause: "Dirty or oxidized flame sensor"
 ---
 
 ## Trane 9 Flashes Error Code — What It Means

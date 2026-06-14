@@ -11,6 +11,7 @@ tags:
   - refrigerator
   - bosch
 money_part: "Door gasket (dishwasher door seal)"
+most_likely_cause: "Worn or damaged door gasket"
 ---
 
 ## Bosch E15 Error Code — What It Means

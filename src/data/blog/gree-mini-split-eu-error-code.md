@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Gree indoor control board"
+most_likely_cause: "Model-specific code definition"
 ---
 
 ## Gree Mini-Split EU Error Code — What It Means

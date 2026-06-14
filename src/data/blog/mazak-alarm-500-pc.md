@@ -10,6 +10,7 @@ tags:
   - cnc
   - mazak
 money_part: "Door interlock switch"
+most_likely_cause: "Safety interlock not satisfied"
 ---
 
 ## Mazak Alarm 500 PC Alarm — What It Means

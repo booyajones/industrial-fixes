@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Danfoss FC302 power card / power unit"
+most_likely_cause: "Motor overheating or mechanical overload"
 ---
 
 ## Danfoss FC302 ALARM 37 — What It Means

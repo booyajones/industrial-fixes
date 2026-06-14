@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Thermocouple or Flame Sensor"
+most_likely_cause: "Undocumented fault code"
 ---
 
 ## State Water Heater E63 Error Code — What It Means

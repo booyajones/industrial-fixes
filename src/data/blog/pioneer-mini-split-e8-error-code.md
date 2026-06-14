@@ -11,6 +11,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Discharge pipe thermistor / temperature sensor"
+most_likely_cause: "Faulty discharge pipe thermistor"
 ---
 
 ## Pioneer Mini Split E8 Error Code — What It Means

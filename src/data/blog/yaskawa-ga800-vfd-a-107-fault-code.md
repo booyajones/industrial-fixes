@@ -11,6 +11,7 @@ tags:
   - yaskawa
 diy_or_pro: "pro"
 money_part: "Yaskawa GA800 communication cable (shielded twisted-pair)"
+most_likely_cause: "Incorrect communication wiring"
 ---
 
 ## Yaskawa GA800 A.107 Fault — What It Means

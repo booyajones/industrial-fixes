@@ -12,6 +12,7 @@ tags:
   - maytag
 diy_or_pro: "pro"
 money_part: "Electronic control board"
+most_likely_cause: "Misread or model-specific code"
 ---
 
 ## Maytag Dryer F77 Error Code — What It Means

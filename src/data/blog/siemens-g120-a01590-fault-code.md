@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens BOP-2 Basic Operator Panel"
+most_likely_cause: "Misread or partial fault code"
 ---
 
 ## Siemens G120 A01590 Fault Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - payne
 money_part: "Pressure switch (single or dual)"
+most_likely_cause: "Blocked or kinked pressure switch hose"
 ---
 
 ## Payne Furnace 31 Error Code — What It Means

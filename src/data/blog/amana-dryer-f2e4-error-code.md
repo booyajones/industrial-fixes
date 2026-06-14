@@ -11,6 +11,7 @@ tags:
   - dryer
   - amana
 money_part: "Main control board (electronic control board)"
+most_likely_cause: "Temporary control glitch"
 ---
 
 ## Amana Dryer F2E4 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 option communication card"
+most_likely_cause: "Broken or loose network cable"
 ---
 
 ## Yaskawa GA800 E05 Fault — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi-electric
 money_part: "Mitsubishi Electric remote controller"
+most_likely_cause: "Failed remote controller"
 ---
 
 ## Mitsubishi Mini Split E2 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - oven
   - frigidaire
 money_part: "Oven door lock motor assembly"
+most_likely_cause: "Stuck or obstructed latch mechanism"
 ---
 
 ## Frigidaire F94 Error Code — What It Means

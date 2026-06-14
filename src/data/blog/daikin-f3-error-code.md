@@ -10,6 +10,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Discharge temperature sensor (thermistor)"
+most_likely_cause: "Failed discharge thermistor"
 ---
 
 ## Daikin F3 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - carrier
 money_part: "Carrier outdoor unit control board"
+most_likely_cause: "Loose or damaged interconnect wiring"
 ---
 
 ## Carrier E18 Error Code — What It Means

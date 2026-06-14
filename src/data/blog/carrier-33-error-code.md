@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
 money_part: "High-limit switch"
+most_likely_cause: "Restricted airflow"
 ---
 
 ## Carrier 33 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - manitowoc
 money_part: "Bin thermostat / bin sensor"
+most_likely_cause: "Bin sensor probe covered with ice or frost"
 ---
 
 ## Manitowoc Ice Machine Error Code 7 — What It Means

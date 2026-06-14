@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Inlet water filter or screen"
+most_likely_cause: "Restricted water flow"
 ---
 
 ## State Water Heater E162 Error Code — What It Means

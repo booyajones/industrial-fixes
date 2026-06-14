@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Flame rod / flame sensor"
+most_likely_cause: "Blocked air intake"
 ---
 
 ## State Water Heater E46 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - washer
   - speed-queen
 money_part: "Drain pump"
+most_likely_cause: "Kinked or blocked drain hose"
 ---
 
 ## Speed Queen Washer ND Error Code — What It Means

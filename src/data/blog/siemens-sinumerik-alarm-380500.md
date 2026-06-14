@@ -10,6 +10,7 @@ tags:
   - cnc
   - siemens
 money_part: "DRIVE-CLiQ cable"
+most_likely_cause: "SINAMICS S120 drive sub-fault"
 ---
 
 ## Siemens Sinumerik Alarm 380500 — What It Means

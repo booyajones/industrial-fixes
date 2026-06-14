@@ -11,6 +11,7 @@ tags:
   - oven
   - lg
 money_part: "LG washer clutch assembly"
+most_likely_cause: "Foreign object lodged between pulsator and tub"
 ---
 
 ## LG Range E6 Error Code — What It Means

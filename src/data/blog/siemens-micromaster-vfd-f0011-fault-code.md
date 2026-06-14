@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Motor PTC thermistor / temperature sensor"
+most_likely_cause: "Motor overload or mechanical jam"
 ---
 
 ## Siemens Micromaster F0011 — What It Means

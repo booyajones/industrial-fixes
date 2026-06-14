@@ -10,6 +10,7 @@ tags:
   - hvac
   - mitsubishi
 money_part: "Drain hose"
+most_likely_cause: "Blocked drain line"
 ---
 
 ## Mitsubishi P4 Error Code — What It Means

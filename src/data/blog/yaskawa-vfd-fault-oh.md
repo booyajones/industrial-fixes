@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Drive cooling fan"
+most_likely_cause: "Failed drive cooling fan"
 ---
 
 ## Yaskawa VFD Fault OH — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 digital operator (keypad)"
+most_likely_cause: "Loose or improperly seated keypad connection"
 ---
 
 ## Yaskawa GA800 E10 Fault Code — What It Means

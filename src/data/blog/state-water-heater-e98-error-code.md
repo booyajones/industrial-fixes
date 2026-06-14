@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Electronic control board"
+most_likely_cause: "Model-specific code"
 ---
 
 ## State Water Heater E98 Error Code — What It Means

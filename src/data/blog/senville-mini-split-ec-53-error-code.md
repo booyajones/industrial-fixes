@@ -11,6 +11,7 @@ tags:
   - mini-split
   - senville
 money_part: "Senville outdoor ambient temperature sensor T4 (TS05-ODU)"
+most_likely_cause: "Loose or corroded sensor connector"
 ---
 
 ## Senville EC 53 Error Code — What It Means

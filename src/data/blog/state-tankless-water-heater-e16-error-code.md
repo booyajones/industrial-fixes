@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Outlet temperature sensor (thermistor)"
+most_likely_cause: "Low water flow through the heater"
 ---
 
 ## State Tankless Water Heater E16 Error Code — What It Means

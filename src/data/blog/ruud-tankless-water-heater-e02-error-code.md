@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ruud
 money_part: "High-limit thermostat or overheat switch"
+most_likely_cause: "Temperature setpoint too high"
 ---
 
 ## Ruud E02 Error Code — What It Means

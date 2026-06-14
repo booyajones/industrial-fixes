@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - true-refrigeration
 money_part: "Cabinet probe"
+most_likely_cause: "Temperature probe fault"
 ---
 
 ## True T-49 Error Codes — What It Means

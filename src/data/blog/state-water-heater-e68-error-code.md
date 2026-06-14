@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Air intake screen or filter kit"
+most_likely_cause: "Blocked air intake or exhaust vent"
 ---
 
 ## State Water Heater E68 Error Code — What It Means

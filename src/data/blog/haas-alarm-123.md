@@ -10,6 +10,7 @@ tags:
   - cnc
   - haas
 money_part: "ATC arm home proximity switch"
+most_likely_cause: "ATC arm left mid-stroke"
 ---
 
 ## Haas Alarm 123 — What It Means

@@ -10,6 +10,7 @@ tags:
   - cnc
   - haas
 money_part: "Haas servo drive board"
+most_likely_cause: "Mechanical jam or obstruction on the axis"
 ---
 
 ## Haas Alarm 106 — What It Means

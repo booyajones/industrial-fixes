@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Flame sensor (flame rod)"
+most_likely_cause: "Blocked or restricted air intake"
 ---
 
 ## State E128 Error Code — What It Means

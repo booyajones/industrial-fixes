@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Replacement motor"
+most_likely_cause: "Incorrect motor nameplate data entered"
 ---
 
 ## Yaskawa GA800 E18 Error — What It Means

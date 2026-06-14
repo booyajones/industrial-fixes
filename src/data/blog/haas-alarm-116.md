@@ -10,6 +10,7 @@ tags:
   - cnc
   - haas
 money_part: "Spindle encoder cable"
+most_likely_cause: "Spindle drive runaway"
 ---
 
 ## Haas Alarm 116 — What It Means

@@ -11,6 +11,7 @@ tags:
   - dryer
   - amana
 money_part: "Main control board (CCU)"
+most_likely_cause: "Transient control glitch"
 ---
 
 ## Amana Dryer F9 E2 Error Code — What It Means

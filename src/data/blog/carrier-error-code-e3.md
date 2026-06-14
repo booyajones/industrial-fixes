@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
 money_part: "IPM / Inverter control board"
+most_likely_cause: "Dirty condenser coil"
 ---
 
 ## Carrier E3 Error Code — What It Means

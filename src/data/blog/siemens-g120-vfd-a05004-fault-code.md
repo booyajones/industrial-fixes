@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens G120 cooling fan assembly"
+most_likely_cause: "Blocked airflow or high ambient temperature"
 ---
 
 ## Siemens G120 A05004 Fault — What It Means

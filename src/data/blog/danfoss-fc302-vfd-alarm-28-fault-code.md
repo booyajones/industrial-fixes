@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Danfoss brake resistor (match your FC 302 frame size and power)"
+most_likely_cause: "Brake resistor disconnected or missing"
 ---
 
 ## Danfoss FC302 VFD Alarm 28 — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - senville
 money_part: "Senville outdoor fan motor"
+most_likely_cause: "Obstructed or damaged outdoor fan"
 ---
 
 ## Senville EC 07 Error Code — What It Means

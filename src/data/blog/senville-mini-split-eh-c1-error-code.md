@@ -11,6 +11,7 @@ tags:
   - mini-split
   - senville
 money_part: "Refrigerant leak sensor"
+most_likely_cause: "Refrigerant leak at flare joints or indoor coil"
 ---
 
 ## Senville EH C1 Error Code — What It Means

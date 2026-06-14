@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Flame sensor or thermocouple assembly"
+most_likely_cause: "Blocked or restricted exhaust vent"
 ---
 
 ## State Water Heater E47 Error Code — What It Means

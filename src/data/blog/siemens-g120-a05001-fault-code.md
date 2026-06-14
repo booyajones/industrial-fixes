@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Shielded motor cable"
+most_likely_cause: "Motor power does not match inverter power"
 ---
 
 ## Siemens G120 A05001 Current Limit — What It Means

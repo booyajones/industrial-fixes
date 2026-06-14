@@ -11,6 +11,7 @@ tags:
   - mini-split
   - carrier
 money_part: "Refrigerant temperature sensor"
+most_likely_cause: "Loose or disconnected wiring between indoor and outdoor units"
 ---
 
 ## Carrier E15 Error Code — What It Means

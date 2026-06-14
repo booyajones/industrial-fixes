@@ -10,6 +10,7 @@ tags:
   - hvac
   - payne
 money_part: "Air filter"
+most_likely_cause: "Clogged air filter"
 ---
 
 ## Payne Furnace 13 Error Code — What It Means

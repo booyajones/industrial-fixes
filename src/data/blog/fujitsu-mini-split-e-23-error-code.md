@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Wired wall controller (Fujitsu UTY-series or equivalent)"
+most_likely_cause: "Loose or damaged interconnect wiring"
 ---
 
 ## Fujitsu E:23 Error Code — What It Means

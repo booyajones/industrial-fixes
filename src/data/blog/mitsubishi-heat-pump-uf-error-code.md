@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Outdoor power PCB / inverter board"
+most_likely_cause: "Failed outdoor inverter or power PCB"
 ---
 
 ## Mitsubishi UF Error Code — What It Means

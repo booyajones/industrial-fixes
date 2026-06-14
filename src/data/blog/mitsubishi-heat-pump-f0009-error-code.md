@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Indoor unit thermistor (TH5 or equivalent)"
+most_likely_cause: "Misread or incomplete code"
 ---
 
 ## Mitsubishi F0009 Error Code — What It Means

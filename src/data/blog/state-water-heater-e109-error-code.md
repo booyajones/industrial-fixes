@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Combustion fan motor assembly"
+most_likely_cause: "Clogged or dirty air inlet filter"
 ---
 
 ## State Water Heater E109 Error — What It Means

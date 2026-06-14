@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 control board"
+most_likely_cause: "Motor cable short or ground fault"
 diy_or_pro: "pro"
 ---
 

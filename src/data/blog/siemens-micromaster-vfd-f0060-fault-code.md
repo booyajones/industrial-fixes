@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens Micromaster inverter/converter assembly"
+most_likely_cause: "Internal control electronics failure"
 ---
 
 ## Siemens Micromaster F0060 — What It Means

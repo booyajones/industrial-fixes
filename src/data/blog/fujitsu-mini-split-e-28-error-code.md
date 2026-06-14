@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Fujitsu outdoor main PCB"
+most_likely_cause: "Loose or damaged interconnect wiring"
 ---
 
 ## Fujitsu E:28 Error Code — What It Means

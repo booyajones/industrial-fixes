@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Indoor controller PCB / main board"
+most_likely_cause: "Loose or open interconnecting wiring"
 ---
 
 ## Fujitsu E:69 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Analog input cable or wire"
+most_likely_cause: "Broken wire or open circuit in analog input wiring"
 ---
 
 ## Siemens Micromaster F0080 — What It Means

@@ -11,6 +11,7 @@ tags:
   - weil-mclain
   - boiler
 money_part: "Thermocouple"
+most_likely_cause: "Ignition lockout (pilot out)"
 ---
 
 ## Weil-McLain ECG Boiler Error Codes — What They Mean

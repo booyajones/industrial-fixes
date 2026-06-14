@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 communication option card"
+most_likely_cause: "Loss of communication between drive and option board or controller."
 ---
 
 ## Yaskawa GA800 E15 Fault — What It Means

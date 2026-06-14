@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Danfoss FC302 Control Card"
+most_likely_cause: "Communication failure between control card and power card"
 ---
 
 ## Danfoss FC302 Alarm 38 — What It Means

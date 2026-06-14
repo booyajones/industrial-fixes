@@ -10,6 +10,7 @@ tags:
   - hvac
   - trane
 money_part: "Outdoor fan motor"
+most_likely_cause: "Low refrigerant / system pressure fault"
 ---
 
 ## Trane Heat Pump 1 Flash Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - yaskawa
 diy_or_pro: "pro"
 money_part: "Yaskawa GA800 control board"
+most_likely_cause: "Parameter configuration error"
 ---
 
 ## Yaskawa GA800 A.106 Fault — What It Means

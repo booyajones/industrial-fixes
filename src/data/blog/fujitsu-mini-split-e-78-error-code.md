@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Fujitsu indoor unit thermistor"
+most_likely_cause: "Loose or damaged wiring and connectors"
 ---
 
 ## Fujitsu E:78 Error Code — What It Means

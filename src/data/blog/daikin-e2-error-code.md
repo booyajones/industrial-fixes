@@ -10,6 +10,7 @@ tags:
   - hvac
   - daikin
 money_part: "High-pressure switch (HPS)"
+most_likely_cause: "Actual ground leakage in outdoor circuit"
 ---
 
 ## Daikin E2 Error Code — What It Means

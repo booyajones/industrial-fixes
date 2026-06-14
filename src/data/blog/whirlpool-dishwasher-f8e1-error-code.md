@@ -12,6 +12,7 @@ tags:
   - whirlpool
 diy_or_pro: "diy"
 money_part: "Water inlet valve (dishwasher)"
+most_likely_cause: "Code display error or model-specific variant"
 ---
 
 ## Whirlpool Dishwasher F8E1 Error Code — What It Means

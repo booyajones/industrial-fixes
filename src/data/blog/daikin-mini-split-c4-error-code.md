@@ -11,6 +11,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Daikin indoor heat exchanger thermistor"
+most_likely_cause: "Defective thermistor"
 ---
 
 ## Daikin C4 Error Code — What It Means

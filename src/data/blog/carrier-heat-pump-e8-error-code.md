@@ -11,6 +11,7 @@ tags:
   - mini-split
   - carrier
 money_part: "Carrier outdoor fan motor"
+most_likely_cause: "Failed outdoor fan motor"
 ---
 
 ## Carrier E8 Error Code — What It Means

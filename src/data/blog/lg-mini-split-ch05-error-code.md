@@ -10,6 +10,7 @@ tags:
   - mini-split
   - lg
 money_part: "Communication wire (2 or 3-conductor)"
+most_likely_cause: "Loose, damaged, or miswired communication wire"
 ---
 
 ## LG Mini-Split CH05 Error Code — What It Means

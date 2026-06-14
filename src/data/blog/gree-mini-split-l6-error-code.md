@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Communication wire (indoor to outdoor)"
+most_likely_cause: "Indoor units commanded to different modes"
 ---
 
 ## Gree L6 Error Code — What It Means

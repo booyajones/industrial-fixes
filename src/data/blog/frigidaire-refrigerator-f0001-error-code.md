@@ -11,6 +11,7 @@ tags:
   - refrigerator
   - frigidaire
 money_part: "Door gasket (refrigerator or freezer)"
+most_likely_cause: "Door left open or ajar"
 ---
 
 ## Frigidaire F0001 Error Code — What It Means

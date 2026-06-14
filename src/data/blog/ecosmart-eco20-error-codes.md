@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ecosmart
 money_part: "EcoSmart inlet thermistor"
+most_likely_cause: "Incorrect or crossed wiring"
 ---
 
 ## EcoSmart ECO 20 Error Codes — What It Means

@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ecosmart
 money_part: "EcoSmart inlet thermistor"
+most_likely_cause: "Faulty inlet or outlet thermistor"
 ---
 
 ## EcoSmart Eco 21 Error Codes — What It Means

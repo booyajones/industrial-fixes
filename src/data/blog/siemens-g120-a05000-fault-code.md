@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Cooling fan assembly"
+most_likely_cause: "Blocked airflow or dirty heatsink"
 ---
 
 ## Siemens G120 A05000 — What It Means

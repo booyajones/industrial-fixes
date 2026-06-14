@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state-water-heaters
 money_part: "Circulation pump assembly"
+most_likely_cause: "Low system pressure"
 ---
 
 ## State Water Heater E125 Error Code — What It Means

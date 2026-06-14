@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 control board (PCB)"
+most_likely_cause: "Misread or incorrect code reference"
 diy_or_pro: "pro"
 ---
 

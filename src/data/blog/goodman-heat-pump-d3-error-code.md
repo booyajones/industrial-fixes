@@ -11,6 +11,7 @@ tags:
   - mini-split
   - goodman
 money_part: "Goodman integrated control board or control module"
+most_likely_cause: "Incorrect control board or module installed"
 ---
 
 ## Goodman D3 Error Code — What It Means

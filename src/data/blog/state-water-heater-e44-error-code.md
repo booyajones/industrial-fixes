@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state-water-heater
 money_part: "Gas valve assembly"
+most_likely_cause: "Incorrect controller parameter setting"
 ---
 
 ## State Water Heater E44 Error Code — What It Means

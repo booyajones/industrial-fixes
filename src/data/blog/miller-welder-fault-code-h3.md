@@ -10,6 +10,7 @@ tags:
   - welding
   - miller
 money_part: "Input voltage selector switch"
+most_likely_cause: "Voltage sag from undersized wiring or long runs"
 ---
 
 ## Miller Welder H3 Fault Code — What It Means

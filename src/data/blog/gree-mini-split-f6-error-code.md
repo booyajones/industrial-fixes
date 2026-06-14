@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Temperature sensor / thermistor"
+most_likely_cause: "Blocked airflow or dirty filters and coils"
 ---
 
 ## Gree Mini Split F6 Error — What It Means

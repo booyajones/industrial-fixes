@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Mitsubishi remote controller (model-specific)"
+most_likely_cause: "Remote controller battery or transmission failure"
 ---
 
 ## Mitsubishi E0 Error Code — What It Means

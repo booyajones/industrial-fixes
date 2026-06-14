@@ -10,6 +10,7 @@ tags:
   - boiler
   - rinnai
 money_part: "Exhaust temperature thermistor"
+most_likely_cause: "Scale buildup in the heat exchanger"
 ---
 
 ## Rinnai Error Code 33 — What It Means

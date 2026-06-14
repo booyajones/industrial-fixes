@@ -11,6 +11,7 @@ tags:
   - mini-split
   - carrier
 money_part: "Carrier inverter power module (IPM)"
+most_likely_cause: "Failing inverter or power module"
 ---
 
 ## Carrier E25 Error Code — What It Means

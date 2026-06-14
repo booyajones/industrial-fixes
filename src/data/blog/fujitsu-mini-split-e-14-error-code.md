@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Outdoor PCB / Outdoor Control Board"
+most_likely_cause: "Failed outdoor PCB or inverter PCB"
 ---
 
 ## Fujitsu E:14 Error Code — What It Means

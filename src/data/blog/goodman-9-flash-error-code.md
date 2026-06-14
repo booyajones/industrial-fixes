@@ -10,6 +10,7 @@ tags:
   - hvac
   - goodman
 money_part: "Outlet polarity tester"
+most_likely_cause: "Reversed hot and neutral at the disconnect"
 ---
 
 ## Goodman 9 Flash Error Code — What It Means

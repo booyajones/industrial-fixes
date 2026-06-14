@@ -10,6 +10,7 @@ tags:
   - cnc
   - fanuc
 money_part: "Reference deceleration limit switch"
+most_likely_cause: "Reference return deceleration dog missing or mispositioned"
 ---
 
 ## Fanuc Alarm 90 — What It Means

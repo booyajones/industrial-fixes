@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 keypad/display module"
+most_likely_cause: "Misread or partial code display"
 ---
 
 ## Yaskawa GA800 E06 Fault Code — What It Means

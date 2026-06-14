@@ -10,6 +10,7 @@ tags:
   - boiler
   - burnham
 money_part: "Circulator pump"
+most_likely_cause: "Inadequate system water flow"
 ---
 
 ## Burnham Boiler E3 Error Code — What It Means

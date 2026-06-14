@@ -11,6 +11,7 @@ tags:
   - furnace
   - carrier
 money_part: "Pressure switch"
+most_likely_cause: "Blocked venting or intake"
 ---
 
 ## Carrier Error Code 31 — What It Means

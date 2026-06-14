@@ -11,6 +11,7 @@ tags:
   - dryer
   - kenmore
 money_part: "Main electronic control board"
+most_likely_cause: "Loose or corroded wiring harness connector"
 part_price: "$50-250"
 diy_or_pro: "diy"
 ---

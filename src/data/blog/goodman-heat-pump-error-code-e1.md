@@ -10,6 +10,7 @@ tags:
   - hvac
   - goodman
 money_part: "High-pressure switch"
+most_likely_cause: "High-pressure switch trip (cooling mode)"
 ---
 
 ## Goodman Heat Pump E1 Error Code — What It Means

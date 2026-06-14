@@ -10,6 +10,7 @@ tags:
   - hvac
   - trane
 money_part: "Trane XR80 flame sensor rod"
+most_likely_cause: "Dirty or oxidized flame sensor"
 ---
 
 ## Trane XR80 Blinking Yellow Light Codes — What It Means

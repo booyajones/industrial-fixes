@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state-water-heater
 money_part: "Air intake screen assembly"
+most_likely_cause: "Blocked air intake screens"
 ---
 
 ## State Water Heater E15 Error Code — What It Means

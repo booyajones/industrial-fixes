@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Brake resistor"
+most_likely_cause: "Shorted or damaged brake resistor"
 ---
 
 ## Danfoss FC302 Alarm 27 — What It Means

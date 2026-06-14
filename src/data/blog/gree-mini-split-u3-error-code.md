@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Gree outdoor main control board / PCB"
+most_likely_cause: "Incorrect three-phase wiring or reversed phase sequence"
 ---
 
 ## Gree U3 Error Code — What It Means

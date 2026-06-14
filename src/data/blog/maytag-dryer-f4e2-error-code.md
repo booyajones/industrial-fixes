@@ -12,6 +12,7 @@ tags:
   - maytag
 diy_or_pro: "diy"
 money_part: "Electronic control board"
+most_likely_cause: "Misread or confused error code"
 ---
 
 ## Maytag Dryer F4E2 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens G120 Control Unit (CU240 series or equivalent)"
+most_likely_cause: "Firmware or software corruption"
 ---
 
 ## Siemens G120 F01001 — What It Means

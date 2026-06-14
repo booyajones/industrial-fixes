@@ -10,6 +10,7 @@ tags:
   - vfd
   - allen-bradley
 money_part: "PowerFlex 40 replacement drive"
+most_likely_cause: "Motor nameplate amps not programmed"
 ---
 
 ## Allen Bradley PowerFlex 40 F7 Fault — What It Means

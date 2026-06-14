@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Control board or user interface"
+most_likely_cause: "Misread code or wrong manual"
 ---
 
 ## State Water Heater E42 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - mini-split
   - midea
 money_part: "Condenser fan run capacitor"
+most_likely_cause: "Blocked outdoor condenser coil"
 ---
 
 ## Midea Mini Split E1 Error Code — What It Means

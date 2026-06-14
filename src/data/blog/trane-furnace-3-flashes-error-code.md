@@ -11,6 +11,7 @@ tags:
   - furnace
   - trane
 money_part: "Pressure switch"
+most_likely_cause: "Blocked intake or exhaust venting"
 ---
 
 ## Trane Furnace 3 Flashes — What It Means

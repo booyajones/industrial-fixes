@@ -10,6 +10,7 @@ tags:
   - hvac
   - armstrong
 money_part: "iComfort thermostat"
+most_likely_cause: "Loose communication wiring at the air handler terminal block"
 ---
 
 ## Armstrong Air Handler E1 Error Code — What It Means

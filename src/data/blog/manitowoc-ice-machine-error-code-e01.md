@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - manitowoc
 money_part: "Refrigerant charge (R-404A or R-448A per model)"
+most_likely_cause: "Low refrigerant charge"
 ---
 
 ## Manitowoc Ice Machine E01 Error Code — What It Means

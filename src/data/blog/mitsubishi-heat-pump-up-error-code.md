@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Outdoor compressor"
+most_likely_cause: "Wiring or terminal faults"
 ---
 
 ## Mitsubishi UP Error Code — What It Means

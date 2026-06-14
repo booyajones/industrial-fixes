@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ruud
 money_part: "Inlet water filter or screen"
+most_likely_cause: "Low inlet water pressure"
 ---
 
 ## Ruud E04 Error Code — What It Means

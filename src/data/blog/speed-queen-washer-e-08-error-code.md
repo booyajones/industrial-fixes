@@ -11,6 +11,7 @@ tags:
   - washer
   - speed-queen
 money_part: "Main control board"
+most_likely_cause: "Loose or damaged wiring and connectors"
 ---
 
 ## Speed Queen Washer E:08 Error — What It Means

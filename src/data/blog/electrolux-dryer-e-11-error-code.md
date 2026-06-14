@@ -11,6 +11,7 @@ tags:
   - dryer
   - electrolux
 money_part: "Water inlet valve assembly"
+most_likely_cause: "Reversed hot and cold supply lines"
 ---
 
 ## Electrolux E11 Error Code — What It Means

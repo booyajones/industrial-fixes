@@ -14,6 +14,7 @@ tags:
   - cnc
 description: "Mitsubishi MR-J4 servo amplifier alarm codes — AL.10 undervoltage, AL.16 encoder error, AL.30 regeneration fault, AL.32 overcurrent, AL.50 overload. Causes, step-by-step fixes, and parts table."
 money_part: "MR-J4 encoder cable (Mitsubishi standard)"
+most_likely_cause: "Encoder cable damage (AL.11, AL.16, AL.1E)"
 ---
 
 ## Mitsubishi MR-J4 Servo Amplifier Alarm Codes

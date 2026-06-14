@@ -10,6 +10,7 @@ tags:
   - water-heater
   - navien
 money_part: "Navien flow sensor (water flow sensor)"
+most_likely_cause: "Debris or scale blocking the flow sensor rotor"
 ---
 
 ## Navien E038 Error Code — What It Means

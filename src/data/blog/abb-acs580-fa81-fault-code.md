@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "STO jumper wire or terminal bridge"
+most_likely_cause: "Open or disconnected STO wiring"
 ---
 
 ## ABB ACS580 FA81 Fault — What It Means

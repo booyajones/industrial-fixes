@@ -10,6 +10,7 @@ tags:
   - mini-split
   - midea
 money_part: "Indoor ambient thermistor (NTC 10K)"
+most_likely_cause: "Failed thermistor"
 ---
 
 ## Midea Mini Split F1 Error Code — What It Means

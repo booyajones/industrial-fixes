@@ -11,6 +11,7 @@ tags:
   - mini-split
   - lg
 money_part: "Outdoor fan motor"
+most_likely_cause: "Outdoor fan motor unplugged or connector loose"
 ---
 
 ## LG Mini Split CH09 Error Code — What It Means

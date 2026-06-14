@@ -10,6 +10,7 @@ tags:
   - boiler
   - slant-fin
 money_part: "Flame sensor rod"
+most_likely_cause: "Failed or contaminated flame sensor"
 ---
 
 ## Slant/Fin Boiler Error Code E1 — What It Means

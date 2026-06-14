@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Enclosure thermostat fan unit"
+most_likely_cause: "Insufficient clearance around the drive"
 ---
 
 ## Siemens SINAMICS V20 F4 Fault — What It Means

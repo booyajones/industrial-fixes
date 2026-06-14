@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
 money_part: "Flame sensor"
+most_likely_cause: "Dirty or contaminated flame sensor"
 ---
 
 ## Carrier Error Code 58 — What It Means

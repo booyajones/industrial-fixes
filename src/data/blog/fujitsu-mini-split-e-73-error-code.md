@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Outdoor heat exchanger temperature thermistor"
+most_likely_cause: "Open or shorted thermistor"
 ---
 
 ## Fujitsu E:73 Error Code — What It Means

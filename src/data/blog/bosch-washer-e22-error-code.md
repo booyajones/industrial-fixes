@@ -11,6 +11,7 @@ tags:
   - washer
   - bosch
 money_part: "Bosch dishwasher filter assembly"
+most_likely_cause: "Clogged or dirty filter assembly"
 ---
 
 ## Bosch E22 Error Code — What It Means

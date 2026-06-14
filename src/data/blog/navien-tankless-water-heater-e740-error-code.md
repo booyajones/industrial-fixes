@@ -10,6 +10,7 @@ tags:
   - water-heater
   - navien
 money_part: "Navien outdoor temperature sensor"
+most_likely_cause: "Outdoor reset curve not enabled or misconfigured"
 ---
 
 ## Navien E740 Error Code — What It Means

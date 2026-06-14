@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Air intake filter screen"
+most_likely_cause: "Blocked or restricted air intake"
 ---
 
 ## State Water Heater E105 Error Code — What It Means

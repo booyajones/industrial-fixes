@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Thermistor / temperature sensor"
+most_likely_cause: "Loose or corroded thermistor connector"
 ---
 
 ## State Tankless Water Heater E34 Error Code — What It Means

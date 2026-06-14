@@ -10,6 +10,7 @@ tags:
   - welding
   - lincoln-electric
 money_part: "Cooling fan motor"
+most_likely_cause: "Exceeded duty cycle"
 ---
 
 ## Lincoln Electric E11 Error Code — What It Means

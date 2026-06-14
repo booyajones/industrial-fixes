@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Outdoor inverter drive board / control board"
+most_likely_cause: "Unstable or high incoming line voltage"
 ---
 
 ## Gree PH Error Code — What It Means

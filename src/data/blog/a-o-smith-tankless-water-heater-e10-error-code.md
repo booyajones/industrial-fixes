@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ao-smith
 money_part: "Inlet temperature sensor (thermistor)"
+most_likely_cause: "Loose or disconnected thermistor connector"
 ---
 
 ## A.O. Smith E10 Error Code — What It Means

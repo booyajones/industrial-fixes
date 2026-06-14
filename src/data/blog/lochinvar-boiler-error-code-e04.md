@@ -10,6 +10,7 @@ tags:
   - boiler
   - lochinvar
 money_part: "Circulator pump"
+most_likely_cause: "Low or no water flow through the boiler"
 ---
 
 ## Lochinvar Boiler Error Code E04 — What It Means

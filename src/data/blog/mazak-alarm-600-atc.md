@@ -10,6 +10,7 @@ tags:
   - cnc
   - mazak
 money_part: "ATC proximity switch"
+most_likely_cause: "ATC arm did not complete a phase within timeout"
 ---
 
 ## Mazak Alarm 600 ATC — What It Means

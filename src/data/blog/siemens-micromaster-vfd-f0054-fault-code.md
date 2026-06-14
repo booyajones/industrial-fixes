@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens Micromaster I/O board (option module)"
+most_likely_cause: "Incorrect I/O board installed"
 ---
 
 ## Siemens Micromaster F0054 — What It Means

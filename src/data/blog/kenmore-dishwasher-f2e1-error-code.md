@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - kenmore
 money_part: "User interface control panel assembly"
+most_likely_cause: "Physically stuck or jammed button"
 ---
 
 ## Kenmore Dishwasher F2E1 Error — What It Means

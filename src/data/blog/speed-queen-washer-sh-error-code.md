@@ -11,6 +11,7 @@ tags:
   - washer
   - speed-queen
 money_part: "Speed Queen thermistor / temperature sensor"
+most_likely_cause: "Failed thermistor or temperature sensor"
 ---
 
 ## Speed Queen Washer SH Error Code — What It Means

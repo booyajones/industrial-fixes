@@ -10,6 +10,7 @@ tags:
   - cnc
   - fanuc
 money_part: "Fanuc APC battery A06B-6073-K001"
+most_likely_cause: "Battery at end of service life"
 ---
 
 ## Fanuc Alarm 360 — What It Means

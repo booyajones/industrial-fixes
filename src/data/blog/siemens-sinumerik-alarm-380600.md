@@ -10,6 +10,7 @@ tags:
   - cnc
   - siemens
 money_part: "Encoder feedback cable"
+most_likely_cause: "Damaged encoder cable"
 ---
 
 ## Siemens Sinumerik Alarm 380600 — What It Means

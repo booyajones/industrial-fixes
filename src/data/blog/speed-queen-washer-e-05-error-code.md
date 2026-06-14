@@ -11,6 +11,7 @@ tags:
   - washer
   - speed-queen
 money_part: "Pressure switch (water-level sensor)"
+most_likely_cause: "No or low incoming water"
 ---
 
 ## Speed Queen Washer E:05 Error — What It Means

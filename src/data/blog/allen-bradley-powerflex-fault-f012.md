@@ -10,6 +10,7 @@ tags:
   - vfd
   - allen-bradley
 money_part: "Motor (replacement)"
+most_likely_cause: "Motor winding short circuit (phase to phase)"
 ---
 
 ## Allen-Bradley PowerFlex Fault F012 — What It Means

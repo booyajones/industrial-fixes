@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Motor cable (U-phase conductor)"
+most_likely_cause: "Loose or disconnected U-phase motor lead"
 ---
 
 ## Danfoss FC302 ALARM 30 — What It Means

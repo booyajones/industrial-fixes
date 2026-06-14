@@ -11,6 +11,7 @@ tags:
   - yaskawa
 diy_or_pro: "pro"
 money_part: "Yaskawa GA800 control board (main CPU card)"
+most_likely_cause: "Misread or misidentified fault code"
 ---
 
 ## Yaskawa GA800 A.104 Fault — What It Means

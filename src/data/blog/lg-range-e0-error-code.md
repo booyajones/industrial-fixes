@@ -11,6 +11,7 @@ tags:
   - oven
   - lg
 money_part: "Oven temperature sensor / thermistor"
+most_likely_cause: "Faulty oven temperature sensor or thermistor"
 ---
 
 ## LG Range E0 Error Code — What It Means

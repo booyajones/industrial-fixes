@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Fujitsu outdoor inverter PCB / main control board"
+most_likely_cause: "Failed outdoor inverter PCB or PFC circuit components"
 ---
 
 ## Fujitsu E:64 Error Code — What It Means

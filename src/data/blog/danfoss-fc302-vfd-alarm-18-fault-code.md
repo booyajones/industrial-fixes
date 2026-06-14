@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Motor cable"
+most_likely_cause: "Loose or open motor lead"
 ---
 
 ## Danfoss FC302 VFD ALARM 18 — What It Means

@@ -11,6 +11,7 @@ tags:
   - dryer
   - frigidaire
 money_part: "Main electronic control board"
+most_likely_cause: "Physically stuck or jammed button"
 ---
 
 ## Frigidaire Dryer AL-01 Error Code — What It Means

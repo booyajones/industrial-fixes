@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Gree outdoor control board (inverter board)"
+most_likely_cause: "Low incoming line voltage"
 ---
 
 ## Gree Mini-Split PF Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Three-phase AC motor"
+most_likely_cause: "Motor winding insulation breakdown"
 ---
 
 ## Danfoss FC302 VFD Alarm 44 — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Pioneer outdoor ambient temperature sensor (T4)"
+most_likely_cause: "True low outdoor temperature"
 ---
 
 ## Pioneer PC 0L Error Code — What It Means

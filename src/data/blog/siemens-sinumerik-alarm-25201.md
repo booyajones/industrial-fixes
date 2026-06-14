@@ -10,6 +10,7 @@ tags:
   - cnc
   - siemens
 money_part: "SINAMICS S120 motor module"
+most_likely_cause: "Axis or spindle overload from machining conditions"
 ---
 
 ## Siemens Sinumerik Alarm 25201 — What It Means

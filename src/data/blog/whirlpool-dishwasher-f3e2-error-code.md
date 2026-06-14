@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - whirlpool
 money_part: "Whirlpool dryer moisture sensor"
+most_likely_cause: "Broken sensor wiring"
 ---
 
 ## Whirlpool F3E2 Error Code — What It Means

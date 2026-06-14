@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Indoor controller PCB"
+most_likely_cause: "Loose or open interconnect wiring"
 ---
 
 ## Fujitsu E:89 Error Code — What It Means

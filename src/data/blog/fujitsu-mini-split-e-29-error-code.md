@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Indoor unit controller PCB"
+most_likely_cause: "Wrong number of connected indoor units"
 ---
 
 ## Fujitsu E:29 Error Code — What It Means

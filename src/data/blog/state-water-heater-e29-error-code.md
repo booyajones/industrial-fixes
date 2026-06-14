@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Condensate neutralizer cartridge"
+most_likely_cause: "Blocked condensate drain line"
 ---
 
 ## State Water Heater E29 Error Code — What It Means

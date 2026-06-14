@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Mitsubishi outdoor unit main PCB"
+most_likely_cause: "Low or unstable incoming voltage"
 ---
 
 ## Mitsubishi Mini Split P4 Error — What It Means

@@ -11,6 +11,7 @@ tags:
   - furnace
   - amana
 money_part: "Gas valve assembly"
+most_likely_cause: "Failed gas valve coil or assembly"
 ---
 
 ## Amana Furnace E07 Error Code — What It Means

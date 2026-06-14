@@ -12,6 +12,7 @@ tags:
   - amana
 diy_or_pro: "pro"
 money_part: "Refrigerator thermistor or defrost sensor"
+most_likely_cause: "Main control board communication fault"
 ---
 
 ## Amana Refrigerator F1 Error Code — What It Means

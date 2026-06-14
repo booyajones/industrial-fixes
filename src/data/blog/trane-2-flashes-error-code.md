@@ -10,6 +10,7 @@ tags:
   - hvac
   - trane
 money_part: "Hot surface igniter"
+most_likely_cause: "Failed igniter"
 ---
 
 ## Trane 2 Flashes Error Code — What It Means

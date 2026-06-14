@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - whirlpool
 money_part: "Circulation pump / wash motor assembly"
+most_likely_cause: "Transient control board lockup"
 ---
 
 ## Whirlpool Dishwasher E3 Error Code — What It Means

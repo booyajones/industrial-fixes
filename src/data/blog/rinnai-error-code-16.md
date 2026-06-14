@@ -10,6 +10,7 @@ tags:
   - boiler
   - rinnai
 money_part: "Combustion fan motor assembly"
+most_likely_cause: "Failed fan motor"
 ---
 
 ## Rinnai Error Code 16 — What It Means

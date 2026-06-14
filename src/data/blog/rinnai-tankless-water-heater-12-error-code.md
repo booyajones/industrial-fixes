@@ -10,6 +10,7 @@ tags:
   - water-heater
   - rinnai
 money_part: "Flame rod assembly"
+most_likely_cause: "Low or interrupted gas supply"
 ---
 
 ## Rinnai Code 12 — What It Means

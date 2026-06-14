@@ -10,6 +10,7 @@ tags:
   - hvac
   - trane
 money_part: "Blower motor run capacitor"
+most_likely_cause: "Failed blower motor run capacitor"
 ---
 
 ## Trane 8 Flashes Error Code — What It Means

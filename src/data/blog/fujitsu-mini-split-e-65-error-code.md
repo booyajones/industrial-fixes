@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Indoor coil thermistor or heat exchanger sensor"
+most_likely_cause: "Sensor circuit open or shorted"
 ---
 
 ## Fujitsu E:65 Error Code — What It Means

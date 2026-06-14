@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Fujitsu main control PCB"
+most_likely_cause: "Loose or damaged wiring between units"
 ---
 
 ## Fujitsu Mini Split E:60 Error Code — What It Means

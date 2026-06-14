@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Outdoor unit main PCB"
+most_likely_cause: "Loose or disconnected communication wiring"
 ---
 
 ## Fujitsu E:42 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Replacement motor (correctly sized)"
+most_likely_cause: "Motor horsepower or kW rating too large"
 ---
 
 ## Danfoss FC302 ALARM 53 — What It Means

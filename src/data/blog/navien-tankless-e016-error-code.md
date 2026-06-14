@@ -10,6 +10,7 @@ tags:
   - water-heater
   - navien
 money_part: "Navien inlet water filter / strainer"
+most_likely_cause: "Clogged inlet filter or strainer"
 ---
 
 ## Navien E016 Error Code — What It Means

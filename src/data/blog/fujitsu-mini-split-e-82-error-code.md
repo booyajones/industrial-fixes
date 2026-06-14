@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Indoor controller PCB (main control board)"
+most_likely_cause: "Lost communication between indoor and outdoor units"
 ---
 
 ## Fujitsu E:82 Error Code — What It Means

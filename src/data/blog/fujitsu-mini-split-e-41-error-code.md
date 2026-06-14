@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Indoor room thermistor"
+most_likely_cause: "Failed room thermistor"
 ---
 
 ## Fujitsu E:41 Error Code — What It Means

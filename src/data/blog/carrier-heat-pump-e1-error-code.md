@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
 money_part: "Communication wire (18/2 shielded)"
+most_likely_cause: "Damaged or disconnected communication wire"
 ---
 
 ## Carrier Heat Pump E1 Error Code — What It Means

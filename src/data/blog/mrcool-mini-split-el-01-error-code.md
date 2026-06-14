@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mrcool
 money_part: "Indoor primary control board"
+most_likely_cause: "Loose or miswired interconnect wiring"
 ---
 
 ## MRCOOL Mini Split EL 01 — What It Means

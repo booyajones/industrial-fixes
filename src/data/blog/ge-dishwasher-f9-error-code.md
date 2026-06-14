@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - ge
 money_part: "Drain pump assembly"
+most_likely_cause: "Clogged or kinked drain hose"
 ---
 
 ## GE Dishwasher F9 Error Code — What It Means

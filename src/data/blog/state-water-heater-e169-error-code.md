@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state-water-heaters
 money_part: "Control board or gas valve assembly"
+most_likely_cause: "Incorrect brand or model identification"
 ---
 
 ## State Water Heater E169 Error Code — What It Means

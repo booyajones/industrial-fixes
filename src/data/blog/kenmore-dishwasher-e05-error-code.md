@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - kenmore
 money_part: "Main control board (Bosch-platform Kenmore)"
+most_likely_cause: "Diverter circuit board fault (Bosch-built units)"
 ---
 
 ## Kenmore Dishwasher E05 Error Code — What It Means

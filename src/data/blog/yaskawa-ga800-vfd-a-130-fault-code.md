@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 keypad / operator panel"
+most_likely_cause: "Misread or corrupted display"
 diy_or_pro: "pro"
 ---
 

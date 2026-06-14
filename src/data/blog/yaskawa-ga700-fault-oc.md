@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Output reactor (load reactor)"
+most_likely_cause: "oC1 (During acceleration)"
 ---
 
 ## Yaskawa GA700 OC Fault — What It Means

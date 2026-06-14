@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mrcool
 money_part: "MRCOOL indoor control board / PCB"
+most_likely_cause: "Corrupted EEPROM or failed indoor PCB memory"
 ---
 
 ## MRCOOL E0 Error Code — What It Means

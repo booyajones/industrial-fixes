@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mrcool
 money_part: "Indoor fan motor"
+most_likely_cause: "Loose or disconnected fan motor harness"
 ---
 
 ## MRCOOL E4 Error Code — What It Means

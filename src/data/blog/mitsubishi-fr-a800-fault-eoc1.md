@@ -11,6 +11,7 @@ tags:
   - mitsubishi
   - fr-a800
 money_part: "VFD-rated motor cable"
+most_likely_cause: "Acceleration time is too short"
 ---
 
 ## Mitsubishi FR-A800 Fault E.OC1, What It Means

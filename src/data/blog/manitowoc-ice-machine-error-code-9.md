@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - manitowoc
 money_part: "Condenser fan motor"
+most_likely_cause: "Dirty or blocked condenser coil"
 ---
 
 ## Manitowoc Ice Machine Error Code 9 — What It Means

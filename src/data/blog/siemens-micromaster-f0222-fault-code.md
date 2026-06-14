@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Feedback transmitter or sensor"
+most_likely_cause: "Feedback signal scaling mismatch"
 ---
 
 ## Siemens Micromaster F0222 — What It Means

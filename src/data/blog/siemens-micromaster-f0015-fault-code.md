@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Motor temperature sensor (PTC or KTY thermistor)"
+most_likely_cause: "Broken sensor wiring"
 ---
 
 ## Siemens Micromaster F0015 — What It Means

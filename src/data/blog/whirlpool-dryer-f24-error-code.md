@@ -12,6 +12,7 @@ tags:
   - whirlpool
 diy_or_pro: "diy"
 money_part: "Dryer thermistor or temperature sensor"
+most_likely_cause: "Transient electronic glitch"
 ---
 
 ## Whirlpool Dryer F24 Error Code — What It Means

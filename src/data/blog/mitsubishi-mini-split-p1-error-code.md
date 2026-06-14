@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Mitsubishi room temperature thermistor"
+most_likely_cause: "Incorrect sensor configuration in the controller"
 ---
 
 ## Mitsubishi Mini Split P1 Error — What It Means

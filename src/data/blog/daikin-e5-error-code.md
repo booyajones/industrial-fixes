@@ -10,6 +10,7 @@ tags:
   - hvac
   - daikin
 money_part: "Daikin outdoor inverter PCB"
+most_likely_cause: "Compressor mechanical lock or seizure"
 ---
 
 ## Daikin E5 Error Code — What It Means

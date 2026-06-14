@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mrcool
 money_part: "MRCOOL evaporator coil temperature sensor (T2 sensor)"
+most_likely_cause: "Loose or poor sensor connection"
 ---
 
 ## MRCOOL E5 Error Code — What It Means

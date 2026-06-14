@@ -10,6 +10,7 @@ tags:
   - cnc
   - okuma
 money_part: "Safety relay module"
+most_likely_cause: "stop circuit fault"
 ---
 
 ## Okuma CNC Alarm 4000 - What It Means

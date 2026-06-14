@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Model-specific control board"
+most_likely_cause: "Model-specific code not documented"
 ---
 
 ## State Water Heater E124 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - ruud
 money_part: "Flame sensor"
+most_likely_cause: "Dirty flame sensor"
 ---
 
 ## Ruud Furnace 7 Flashes — What It Means

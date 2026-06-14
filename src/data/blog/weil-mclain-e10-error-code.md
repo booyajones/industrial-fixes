@@ -10,6 +10,7 @@ tags:
   - boiler
   - weil-mclain
 money_part: "Expansion tank (2–5 gallon)"
+most_likely_cause: "Normal pressure loss over time"
 ---
 
 ## Weil-McLain Boiler Error Code E10 — What It Means

@@ -10,6 +10,7 @@ tags:
   - boiler
   - navien
 money_part: "Exhaust thermistor"
+most_likely_cause: "Blocked or restricted flue/exhaust pipe"
 ---
 
 ## Navien E006 Error Code — What It Means

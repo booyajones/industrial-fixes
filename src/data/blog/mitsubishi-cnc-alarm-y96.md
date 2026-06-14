@@ -10,6 +10,7 @@ tags:
   - cnc
   - mitsubishi
 money_part: "SSCNET III/H fiber cable"
+most_likely_cause: "Servo drive overcurrent"
 ---
 
 ## Mitsubishi CNC Alarm Y96 — What It Means

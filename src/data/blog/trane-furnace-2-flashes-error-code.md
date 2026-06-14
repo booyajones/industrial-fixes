@@ -11,6 +11,7 @@ tags:
   - furnace
   - trane
 money_part: "Flame sensor rod"
+most_likely_cause: "Dirty or failed flame sensor"
 ---
 
 ## Trane Furnace 2 Flashes — What It Means

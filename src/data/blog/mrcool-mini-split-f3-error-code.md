@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mrcool
 money_part: "Compressor discharge temperature sensor TP"
+most_likely_cause: "Failed discharge temperature sensor"
 ---
 
 ## MRCOOL F3 Error Code — What It Means

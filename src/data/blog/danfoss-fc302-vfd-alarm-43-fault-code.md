@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "External interlock contact or safety relay"
+most_likely_cause: "Open safety or interlock contact"
 ---
 
 ## Danfoss FC302 Alarm 43 — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Controller PCB"
+most_likely_cause: "Loose or damaged field wiring"
 ---
 
 ## Fujitsu Mini Split E:38 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - washer
   - speed-queen
 money_part: "Water inlet valve assembly"
+most_likely_cause: "House water valves closed or partly closed"
 ---
 
 ## Speed Queen Washer NF Error Code — What It Means

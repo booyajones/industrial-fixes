@@ -10,6 +10,7 @@ tags:
   - hvac
   - york
 money_part: "Pressure switch"
+most_likely_cause: "Blocked or kinked pressure switch hose"
 ---
 
 ## York Furnace Error Code E2 — What It Means

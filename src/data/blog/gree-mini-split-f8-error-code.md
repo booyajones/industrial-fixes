@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Gree outdoor inverter control board"
+most_likely_cause: "Blocked or dirty coils"
 ---
 
 ## Gree Mini Split F8 Error Code — What It Means

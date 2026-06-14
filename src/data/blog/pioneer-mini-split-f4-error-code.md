@@ -11,6 +11,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Pioneer indoor control board (PCB)"
+most_likely_cause: "Failed EEPROM chip"
 ---
 
 ## Pioneer Mini Split F4 Error Code — What It Means

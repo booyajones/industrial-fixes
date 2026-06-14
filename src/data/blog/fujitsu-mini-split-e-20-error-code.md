@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Indoor controller PCB"
+most_likely_cause: "Indoor-to-outdoor communication wiring damage"
 ---
 
 ## Fujitsu E:20 Error Code — What It Means

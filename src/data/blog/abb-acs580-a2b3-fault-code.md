@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "Motor cable (shielded VFD-rated)"
+most_likely_cause: "Earth fault in the motor cable"
 ---
 
 ## ABB ACS580 A2B3 Fault Code — What It Means

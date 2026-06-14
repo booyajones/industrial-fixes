@@ -301,7 +301,7 @@ const nextPost =
          is the LCP element and paints near the top of the mobile viewport — it
          was the article LCP element and sat below the fold when AtAGlance came
          before it (LCP ~3.5s). Answer-first is also the better reading order. -->
-    <QuickAnswer {description} {title} />
+    <QuickAnswer {description} {title} hasPart={!!money_part} />
 
     <!-- Verdict block: a technician's most-likely-cause call + a color-coded
          DIY/Pro badge. Renders only when there is NO money_part — when a part

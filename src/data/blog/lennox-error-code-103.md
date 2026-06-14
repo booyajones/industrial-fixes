@@ -10,6 +10,7 @@ tags:
   - hvac
   - lennox
 money_part: "Induced draft motor"
+most_likely_cause: "Blocked exhaust or intake vent"
 ---
 
 ## Lennox 103 Error Code — What It Means

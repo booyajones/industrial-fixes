@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Fujitsu outdoor main PCB"
+most_likely_cause: "Loose or damaged communication wiring"
 ---
 
 ## Fujitsu Mini Split E:87 Error — What It Means

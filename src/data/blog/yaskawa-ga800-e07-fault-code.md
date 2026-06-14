@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 option card or analog input module"
+most_likely_cause: "Conflicting analog input parameter assignments"
 ---
 
 ## Yaskawa GA800 E07 Fault — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Gree outdoor control board / PCB"
+most_likely_cause: "Loose or burned compressor wiring"
 ---
 
 ## Gree Mini Split H7 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 operator keypad (JVOP-140 or JVOP-180 series)"
+most_likely_cause: "Misread display or incorrect fault transcription"
 diy_or_pro: "pro"
 ---
 

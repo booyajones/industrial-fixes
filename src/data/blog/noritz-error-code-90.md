@@ -10,6 +10,7 @@ tags:
   - hvac
   - noritz
 money_part: "Combustion fan motor"
+most_likely_cause: "Blocked intake or exhaust vent"
 ---
 
 ## Noritz Error Code 90 — What It Means

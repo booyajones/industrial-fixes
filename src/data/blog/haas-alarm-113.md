@@ -10,6 +10,7 @@ tags:
   - cnc
   - haas
 money_part: "Spindle encoder cable"
+most_likely_cause: "Damaged or loose encoder cable"
 ---
 
 ## Haas Alarm 113 — Spindle Encoder Fault: What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - goodman
 money_part: "High-pressure switch or sensor"
+most_likely_cause: "Blocked discharge airflow"
 ---
 
 ## Goodman E9 Error Code — What It Means

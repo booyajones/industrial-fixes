@@ -10,6 +10,7 @@ tags:
   - vfd
   - allen-bradley
 money_part: "Dynamic brake resistor"
+most_likely_cause: "Over-speed trip level set too low"
 ---
 
 ## Allen-Bradley PowerFlex Fault F111 — What It Means

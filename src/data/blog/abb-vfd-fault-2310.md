@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "Motor (rewind or replace)"
+most_likely_cause: "Motor winding insulation failure"
 ---
 
 ## ABB VFD Fault 2310 — What It Means

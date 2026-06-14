@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Exhaust pressure switch"
+most_likely_cause: "Loose or damaged wiring to the gas valve"
 ---
 
 ## State Water Heater E28 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - fujitsu
 money_part: "Indoor DC fan motor"
+most_likely_cause: "Failed indoor fan motor (DC brushless)"
 ---
 
 ## Fujitsu Mini Split E3 Error Code — What It Means

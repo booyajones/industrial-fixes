@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Larger frame motor"
+most_likely_cause: "Mechanical overload on the driven equipment"
 ---
 
 ## Danfoss VFD Fault OL — What It Means

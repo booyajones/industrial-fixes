@@ -11,6 +11,7 @@ tags:
   - mini-split
   - trane
 money_part: "Trane S9 or S9V2 integrated furnace control board"
+most_likely_cause: "Stuck or welded relay on the control board"
 ---
 
 ## Trane Heat Pump E11 Error Code — What It Means

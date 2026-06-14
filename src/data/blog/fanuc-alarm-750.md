@@ -10,6 +10,7 @@ tags:
   - cnc
   - fanuc
 money_part: "JYA/JYB optical fiber cable"
+most_likely_cause: "Damaged or loose optical fiber communication cable"
 ---
 
 ## Fanuc Alarm 750 — What It Means

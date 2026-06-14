@@ -12,6 +12,7 @@ tags:
   - powerflex
   - power-loss
 money_part: "Input fuses"
+most_likely_cause: "One input phase is missing"
 ---
 
 ## Allen-Bradley PowerFlex 40 F3 Fault — What It Means

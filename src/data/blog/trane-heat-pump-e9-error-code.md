@@ -11,6 +11,7 @@ tags:
   - mini-split
   - trane
 money_part: "T1 indoor ambient temperature sensor (Trane)"
+most_likely_cause: "Shorted T1 sensor"
 ---
 
 ## Trane Heat Pump E9 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - ice-o-matic
 money_part: "Water inlet valve"
+most_likely_cause: "Low water / fill fault"
 ---
 
 ## Ice-O-Matic GEMU090 Error Codes — What It Means

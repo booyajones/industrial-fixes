@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - manitowoc
 money_part: "Water inlet valve"
+most_likely_cause: "Clogged water inlet valve"
 ---
 
 ## Manitowoc Ice Machine Error Code 6 — What It Means

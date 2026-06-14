@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
 money_part: "Programmable Control Module (PCM)"
+most_likely_cause: "Failed or interrupted reprogramming event"
 ---
 
 ## Carrier Error Code 27 — What It Means

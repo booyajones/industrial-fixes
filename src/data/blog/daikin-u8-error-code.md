@@ -10,6 +10,7 @@ tags:
   - hvac
   - daikin
 money_part: "Daikin remote controller assembly"
+most_likely_cause: "Incorrect main/sub remote controller setting"
 ---
 
 ## Daikin U8 Error Code — What It Means

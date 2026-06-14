@@ -11,6 +11,7 @@ tags:
   - yaskawa
   - a1000
 money_part: "Class J or semiconductor input fuses"
+most_likely_cause: "Low incoming three-phase voltage"
 ---
 
 ## Yaskawa A1000 Fault UV1, What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "Input fuses (class J or RK5)"
+most_likely_cause: "Input power sag or interruption"
 ---
 
 ## ABB VFD Fault 3210 — What It Means

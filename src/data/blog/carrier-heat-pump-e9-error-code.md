@@ -11,6 +11,7 @@ tags:
   - mini-split
   - carrier
 money_part: "Foam weather seal tape"
+most_likely_cause: "Blocked or obstructed outdoor grille"
 ---
 
 ## Carrier Heat Pump E9 Error — What It Means

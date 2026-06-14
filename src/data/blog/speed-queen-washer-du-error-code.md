@@ -11,6 +11,7 @@ tags:
   - washer
   - speed-queen
 money_part: "Door lock/latch assembly"
+most_likely_cause: "Sticking or failing door lock assembly"
 ---
 
 ## Speed Queen Washer dU Error Code — What It Means

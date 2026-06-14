@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - turbo-air
 money_part: "NTC temperature sensor"
+most_likely_cause: "Failed NTC sensor"
 ---
 
 ## Turbo Air Refrigerator Error Code E1 — What It Means

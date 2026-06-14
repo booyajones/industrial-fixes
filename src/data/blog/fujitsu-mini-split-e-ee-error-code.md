@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Outdoor fan motor"
+most_likely_cause: "Dirty or blocked outdoor coil"
 ---
 
 ## Fujitsu E:EE Error Code — What It Means

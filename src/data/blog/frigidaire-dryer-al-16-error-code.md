@@ -11,6 +11,10 @@ tags:
   - dryer
   - frigidaire
 money_part: "Heating element assembly"
+free_checks:
+  - "Unplug dryer for 60 seconds to clear transient fault"
+  - "Check for 240V at outlet with multimeter (verify both legs present)"
+  - "Inspect heating element wire harness connectors for corrosion or looseness"
 part_price: "$20-80"
 most_likely_cause: "open or failed heating element"
 likelihood: "the most common cause"

@@ -11,6 +11,7 @@ tags:
   - washer
   - speed-queen
 money_part: "Speed Queen main control board"
+most_likely_cause: "Mismatched or incorrect control board"
 ---
 
 ## Speed Queen Washer EI:0A Error — What It Means

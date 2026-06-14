@@ -11,6 +11,7 @@ tags:
   - mini-split
   - carrier
 money_part: "Secondary-voltage fuse (3A or 4A automotive or glass tube)"
+most_likely_cause: "Shorted low-voltage wiring"
 ---
 
 ## Carrier Heat Pump E24 Error Code — What It Means

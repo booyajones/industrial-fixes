@@ -10,6 +10,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Inverter PCB (outdoor unit board)"
+most_likely_cause: "High supply voltage"
 ---
 
 ## Mitsubishi U2 Error Code — What It Means

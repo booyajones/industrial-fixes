@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Outdoor unit main board (ODU PCB)"
+most_likely_cause: "Faulty outdoor unit main board"
 ---
 
 ## Gree U9 Error Code — What It Means

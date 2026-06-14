@@ -11,6 +11,7 @@ tags:
   - refrigerator
   - maytag
 money_part: "Refrigerator thermistor (temperature sensor)"
+most_likely_cause: "Model-specific code definition"
 ---
 
 ## Maytag Refrigerator C3 Error Code — What It Means

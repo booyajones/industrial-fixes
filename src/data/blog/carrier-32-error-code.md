@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
 money_part: "Pressure switch"
+most_likely_cause: "Waterlogged pressure switch tubing"
 ---
 
 ## Carrier 32 Error Code — What It Means

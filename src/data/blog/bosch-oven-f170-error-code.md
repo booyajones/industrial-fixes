@@ -11,6 +11,7 @@ tags:
   - oven
   - bosch
 money_part: "Bosch oven main control board"
+most_likely_cause: "Control board reboot or power interruption"
 ---
 
 ## Bosch Oven F170 Error Code — What It Means

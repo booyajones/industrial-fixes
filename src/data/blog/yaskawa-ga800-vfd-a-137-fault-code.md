@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "GA800 control board (IGBT driver / logic board)"
+most_likely_cause: "Misread or non-standard display code"
 diy_or_pro: "pro"
 ---
 

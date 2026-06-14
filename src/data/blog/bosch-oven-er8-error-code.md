@@ -11,6 +11,7 @@ tags:
   - oven
   - bosch
 money_part: "Bosch oven temperature sensor"
+most_likely_cause: "Temperature sensor failure or open circuit"
 ---
 
 ## Bosch Oven Er8 Error Code — What It Means

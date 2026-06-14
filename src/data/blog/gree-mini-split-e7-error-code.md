@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Gree indoor unit PCB/control board"
+most_likely_cause: "Multiple remotes or controls sending mixed commands"
 ---
 
 ## Gree E7 Error Code — What It Means

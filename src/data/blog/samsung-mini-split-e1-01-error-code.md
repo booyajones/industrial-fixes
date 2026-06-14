@@ -10,6 +10,7 @@ tags:
   - mini-split
   - samsung
 money_part: "Outdoor ambient temperature sensor"
+most_likely_cause: "Failed outdoor temperature sensor (thermistor)"
 ---
 
 ## Samsung Mini-Split E1-01 Error Code — What It Means

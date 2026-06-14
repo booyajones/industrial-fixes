@@ -11,6 +11,7 @@ tags:
   - furnace
   - amana
 money_part: "ECM blower motor module"
+most_likely_cause: "Failed ECM blower motor or module"
 ---
 
 ## Amana Furnace E06 Error Code — What It Means

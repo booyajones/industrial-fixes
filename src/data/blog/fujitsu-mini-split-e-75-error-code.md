@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Suction pipe thermistor / temperature sensor"
+most_likely_cause: "Loose or disconnected sensor connector"
 ---
 
 ## Fujitsu E:75 Error Code — What It Means

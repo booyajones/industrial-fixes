@@ -11,6 +11,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Swing flap motor"
+most_likely_cause: "Jammed or stuck louver assembly"
 ---
 
 ## Daikin A7 Error Code — What It Means

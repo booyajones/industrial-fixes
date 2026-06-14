@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "IGBT inverter power module"
+most_likely_cause: "Motor load too high or mechanical binding"
 ---
 
 ## Siemens Micromaster F0005 — What It Means

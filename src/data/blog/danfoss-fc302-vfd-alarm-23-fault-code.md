@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Danfoss FC302 internal fan assembly"
+most_likely_cause: "Failed internal fan or worn bearings"
 ---
 
 ## Danfoss FC302 VFD Alarm 23 — What It Means

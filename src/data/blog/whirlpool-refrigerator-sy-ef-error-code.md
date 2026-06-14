@@ -12,6 +12,7 @@ tags:
   - whirlpool
 diy_or_pro: "diy"
 money_part: "Evaporator fan motor assembly"
+most_likely_cause: "Ice buildup blocking the evaporator fan"
 part_price: "$40-120"
 ---
 

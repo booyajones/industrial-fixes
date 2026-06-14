@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - whirlpool
 most_likely_cause: "water supply shut off or insufficient supply pressure"
+free_checks:
+  - "Turn off water supply, disconnect inlet hose, check and clean inlet valve screen for debris/sediment"
+  - "Verify home water pressure is 20-120 psi; test faucet flow on same supply line"
+  - "Check for kinked inlet hose or partially closed shut-off valve"
+no_buy_pct: "40%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool dishwasher water inlet valve"

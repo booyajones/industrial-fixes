@@ -11,6 +11,7 @@ tags:
   - yaskawa
 diy_or_pro: "pro"
 money_part: "Yaskawa GA800 option card (model-specific)"
+most_likely_cause: "Option card not seated correctly"
 ---
 
 ## Yaskawa GA800 E63 Fault — What It Means

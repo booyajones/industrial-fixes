@@ -11,6 +11,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Indoor DC fan motor (blower motor)"
+most_likely_cause: "Stuck or obstructed fan blade"
 ---
 
 ## Pioneer Mini Split E3 Error Code — What It Means

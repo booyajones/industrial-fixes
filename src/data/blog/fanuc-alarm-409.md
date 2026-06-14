@@ -12,6 +12,7 @@ tags:
   - servo
   - z-axis
 money_part: "Way lube metering unit"
+most_likely_cause: "axis ways or ballscrew are binding"
 ---
 
 ## Fanuc Alarm 409 — What It Means

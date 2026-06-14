@@ -10,6 +10,7 @@ tags:
   - hvac
   - york
 money_part: "Pressure switch"
+most_likely_cause: "Pressure switch contacts welded closed"
 ---
 
 ## York 2 Flashes Error Code — What It Means

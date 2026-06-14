@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Control board"
+most_likely_cause: "Model-specific sensor or control fault"
 ---
 
 ## State Water Heater E21 Error Code — What It Means

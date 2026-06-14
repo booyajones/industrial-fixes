@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens G120 Memory Card"
+most_likely_cause: "Safety acceptance test not completed"
 ---
 
 ## Siemens G120 F01650 — What It Means

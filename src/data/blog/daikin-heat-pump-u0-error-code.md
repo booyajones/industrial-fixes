@@ -11,6 +11,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Thermistor (temperature sensor)"
+most_likely_cause: "Refrigerant leak"
 ---
 
 ## Daikin U0 Error Code — What It Means

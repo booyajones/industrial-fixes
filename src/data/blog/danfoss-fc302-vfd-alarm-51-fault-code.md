@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Danfoss FC302 programming cable or software"
+most_likely_cause: "Wrong motor voltage entered"
 ---
 
 ## Danfoss FC302 Alarm 51 — What It Means

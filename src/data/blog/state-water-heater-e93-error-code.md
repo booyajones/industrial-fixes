@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Air intake screen or intake assembly"
+most_likely_cause: "Blocked air intake screens"
 ---
 
 ## State Water Heater E93 Error Code — What It Means

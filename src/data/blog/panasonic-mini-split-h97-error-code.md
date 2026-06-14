@@ -10,6 +10,7 @@ tags:
   - mini-split
   - panasonic
 money_part: "Interconnecting cable (3-conductor)"
+most_likely_cause: "Broken or miswired interconnecting cable"
 ---
 
 ## Panasonic Mini-Split H97 Error Code — What It Means

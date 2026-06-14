@@ -11,6 +11,7 @@ tags:
   - dryer
   - frigidaire
 money_part: "User Interface Control Board / Keypad Assembly"
+most_likely_cause: "Physically stuck control-panel button"
 ---
 
 ## Frigidaire Dryer AL-25 Error Code — What It Means

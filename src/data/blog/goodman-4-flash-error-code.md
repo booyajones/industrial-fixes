@@ -10,6 +10,7 @@ tags:
   - hvac
   - goodman
 money_part: "High-limit switch"
+most_likely_cause: "Clogged air filter"
 ---
 
 ## Goodman 4 Flash Error Code — What It Means

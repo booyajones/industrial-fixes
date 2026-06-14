@@ -11,6 +11,7 @@ tags:
   - mini-split
   - goodman
 money_part: "Goodman control board (model-specific)"
+most_likely_cause: "Cooling blower on-delay set above 5 seconds"
 ---
 
 ## Goodman Heat Pump B0 Error Code — What It Means

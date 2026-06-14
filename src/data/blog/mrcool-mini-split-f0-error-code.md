@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mrcool
 money_part: "Outdoor fan motor"
+most_likely_cause: "Outdoor fan motor failure or jam"
 ---
 
 ## MRCOOL Mini Split F0 Error Code — What It Means

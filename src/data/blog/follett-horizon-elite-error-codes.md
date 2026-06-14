@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - follett
 money_part: "Auger motor"
+most_likely_cause: "E1 (ice making fault)"
 ---
 
 ## Follett Horizon Elite Error Codes — What They Mean

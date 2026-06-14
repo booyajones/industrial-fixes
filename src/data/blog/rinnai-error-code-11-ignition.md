@@ -10,6 +10,7 @@ tags:
   - hvac
   - rinnai
 money_part: "Ignition electrode"
+most_likely_cause: "No gas or inadequate gas supply"
 ---
 
 ## Rinnai Error Code 11 — What It Means

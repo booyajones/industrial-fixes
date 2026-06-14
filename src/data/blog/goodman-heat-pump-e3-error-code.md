@@ -11,6 +11,7 @@ tags:
   - mini-split
   - goodman
 money_part: "Outdoor Temperature Sensor / Thermistor"
+most_likely_cause: "Restricted airflow at the outdoor unit"
 ---
 
 ## Goodman Heat Pump E3 Error Code — What It Means

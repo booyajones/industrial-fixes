@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Flame sensor rod"
+most_likely_cause: "Blocked air intake or exhaust vent"
 ---
 
 ## State Water Heater E97 Error Code — What It Means

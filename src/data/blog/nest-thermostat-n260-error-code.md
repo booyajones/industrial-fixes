@@ -10,6 +10,7 @@ tags:
   - hvac
   - nest
 money_part: "Nest Power Connector"
+most_likely_cause: "Missing C wire"
 ---
 
 ## Nest N260 Error Code — What It Means

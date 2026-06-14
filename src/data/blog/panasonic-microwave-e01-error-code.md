@@ -11,6 +11,7 @@ tags:
   - microwave
   - panasonic
 money_part: "Panasonic Control Board (PCB Assembly)"
+most_likely_cause: "Invalid button sequence during programming"
 ---
 
 ## Panasonic E01 Error Code — What It Means

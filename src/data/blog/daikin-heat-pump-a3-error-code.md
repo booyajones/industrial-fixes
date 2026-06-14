@@ -11,6 +11,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Daikin drain level float switch"
+most_likely_cause: "Blocked condensate drain line"
 ---
 
 ## Daikin A3 Error Code — What It Means

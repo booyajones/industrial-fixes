@@ -10,6 +10,7 @@ tags:
   - boiler
   - navien
 money_part: "DHW inlet thermistor"
+most_likely_cause: "Failed DHW inlet thermistor"
 ---
 
 ## Navien Error Code E013 — What It Means

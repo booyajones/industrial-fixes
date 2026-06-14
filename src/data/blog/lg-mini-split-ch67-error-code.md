@@ -10,6 +10,7 @@ tags:
   - mini-split
   - lg
 money_part: "Outdoor BLDC fan motor"
+most_likely_cause: "Debris blocking the outdoor fan"
 ---
 
 ## LG Mini-Split CH67 Error Code — What It Means

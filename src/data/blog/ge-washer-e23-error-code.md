@@ -11,6 +11,7 @@ tags:
   - washer
   - ge
 money_part: "Drain pump assembly"
+most_likely_cause: "Clogged drain pump filter"
 ---
 
 ## GE Washer E23 Error Code — What It Means

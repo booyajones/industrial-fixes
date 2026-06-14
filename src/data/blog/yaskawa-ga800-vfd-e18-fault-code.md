@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 control board"
+most_likely_cause: "STO circuit open or miswired"
 ---
 
 ## Yaskawa GA800 E18 Fault Code — What It Means

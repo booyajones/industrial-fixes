@@ -12,6 +12,7 @@ tags:
   - ge
 diy_or_pro: "diy"
 money_part: "Drain pump assembly"
+most_likely_cause: "Misread or non-standard code"
 ---
 
 ## GE Dishwasher FFF Error Code — What It Means

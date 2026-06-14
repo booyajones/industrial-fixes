@@ -11,6 +11,7 @@ tags:
   - refrigerator
   - amana
 money_part: "Defrost heater"
+most_likely_cause: "Defrost heater failure"
 ---
 
 ## Amana Refrigerator D8 Error Code — What It Means

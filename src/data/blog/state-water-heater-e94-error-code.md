@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Heat exchanger assembly"
+most_likely_cause: "Scale buildup in the heat exchanger"
 ---
 
 ## State Water Heater E94 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - goodman
 money_part: "Pressure switch"
+most_likely_cause: "Blocked or restricted vent piping"
 ---
 
 ## Goodman Heat Pump E2 Error Code — What It Means

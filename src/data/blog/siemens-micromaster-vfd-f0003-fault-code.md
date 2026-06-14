@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Input line fuses"
+most_likely_cause: "Incoming supply loss or sag"
 ---
 
 ## Siemens Micromaster F0003 — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Outdoor defrost / temperature sensor"
+most_likely_cause: "Normal defrost cycle during heating"
 ---
 
 ## Gree H1 Error Code — What It Means

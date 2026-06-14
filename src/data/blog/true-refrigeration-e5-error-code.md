@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - true-refrigeration
 money_part: "Defrost / evaporator temperature probe"
+most_likely_cause: "Failed defrost sensor"
 ---
 
 ## True Refrigeration E5 Error Code — What It Means

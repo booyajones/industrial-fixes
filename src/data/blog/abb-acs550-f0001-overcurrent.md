@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "Motor (replacement)"
+most_likely_cause: "Motor or cable short circuit"
 ---
 
 ## ABB ACS550 F0001 Fault — What It Means

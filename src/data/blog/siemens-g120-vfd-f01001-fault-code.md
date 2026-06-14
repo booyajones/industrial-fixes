@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens G120 Control Unit (CU)"
+most_likely_cause: "Transient processor exception"
 ---
 
 ## Siemens G120 F01001 — What It Means

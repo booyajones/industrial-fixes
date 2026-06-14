@@ -10,6 +10,11 @@ tags:
   - appliance
   - frigidaire
 most_likely_cause: "water in the base pan from a leak"
+free_checks:
+  - "Check home water supply valve is fully open and inlet hose has no kinks or clogs at screen filter inside valve connection"
+  - "Verify dishwasher door closes completely and latch engages properly"
+  - "Test water pressure at nearby sink (minimum 20 psi required)"
+no_buy_pct: "30%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Inlet valve (water fill valve)"

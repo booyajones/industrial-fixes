@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "ABB ACS580 Control Unit / Control Board"
+most_likely_cause: "Internal control-unit software fault"
 ---
 
 ## ABB ACS580 FF63 Fault — What It Means

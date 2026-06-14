@@ -11,6 +11,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Pioneer outdoor control board / mainboard"
+most_likely_cause: "Incorrect supply voltage or breaker type"
 ---
 
 ## Pioneer PC 01 Error Code — What It Means

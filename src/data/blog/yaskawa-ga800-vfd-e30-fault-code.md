@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 communication option card"
+most_likely_cause: "Misread or incomplete code"
 ---
 
 ## Yaskawa GA800 E30 Fault Code — What It Means

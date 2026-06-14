@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Motor (AC induction or PM)"
+most_likely_cause: "Motor or compressor mechanically blocked or stuck"
 ---
 
 ## Danfoss FC302 ALARM 18 — What It Means

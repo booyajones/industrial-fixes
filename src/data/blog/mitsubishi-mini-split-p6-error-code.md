@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi-electric
 money_part: "Air filter for Mitsubishi mini-split indoor unit"
+most_likely_cause: "Dirty or clogged air filters"
 ---
 
 ## Mitsubishi Mini-Split P6 Error — What It Means

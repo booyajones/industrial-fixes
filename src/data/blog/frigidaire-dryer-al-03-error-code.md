@@ -11,6 +11,7 @@ tags:
   - dryer
   - frigidaire
 money_part: "Door switch assembly"
+most_likely_cause: "Misread or undocumented code"
 ---
 
 ## Frigidaire Dryer AL-03 Error Code — What It Means

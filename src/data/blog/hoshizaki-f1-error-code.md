@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - hoshizaki
 money_part: "Drain pump motor"
+most_likely_cause: "Drain pump motor failed"
 ---
 
 ## Hoshizaki F1 Error Code — What It Means

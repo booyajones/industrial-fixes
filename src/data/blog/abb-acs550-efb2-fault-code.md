@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "ABB embedded fieldbus communication module"
+most_likely_cause: "Fieldbus communication timeout or loss"
 ---
 
 ## ABB ACS550 EFB2 Fault Code — What It Means

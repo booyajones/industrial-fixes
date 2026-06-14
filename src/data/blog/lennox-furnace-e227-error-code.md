@@ -11,6 +11,7 @@ tags:
   - furnace
   - lennox
 money_part: "Lennox pressure switch"
+most_likely_cause: "Blocked or clogged pressure tubing"
 ---
 
 ## Lennox E227 Error Code — What It Means

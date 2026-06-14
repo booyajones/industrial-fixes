@@ -11,6 +11,7 @@ tags:
   - dryer
   - frigidaire
 money_part: "Electronic control board"
+most_likely_cause: "Temporary control glitch after power interruption"
 ---
 
 ## Frigidaire Dryer AL-11 Error — What It Means

@@ -11,6 +11,7 @@ tags:
   - microwave
   - panasonic
 money_part: "Control panel assembly"
+most_likely_cause: "Stored cook time set too high"
 ---
 
 ## Panasonic Microwave U30 Error Code — What It Means

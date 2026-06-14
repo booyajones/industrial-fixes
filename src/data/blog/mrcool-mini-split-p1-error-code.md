@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mrcool
 money_part: "MRCOOL outdoor control board / inverter board"
+most_likely_cause: "Incoming power out of specification"
 ---
 
 ## MRCOOL Mini Split P1 Error Code — What It Means

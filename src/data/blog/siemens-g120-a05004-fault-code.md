@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens G120 cooling fan"
+most_likely_cause: "Excessive ambient temperature"
 ---
 
 ## Siemens G120 A05004 — What It Means

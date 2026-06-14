@@ -11,6 +11,7 @@ tags:
   - dryer
   - frigidaire
 money_part: "Door switch assembly"
+most_likely_cause: "Transient control-board communication fault"
 ---
 
 ## Frigidaire Dryer AL-13 Error Code — What It Means

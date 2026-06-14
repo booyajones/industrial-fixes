@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 control board"
+most_likely_cause: "Fault code table not checked"
 ---
 
 ## Yaskawa GA800 E09 Fault Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens USS master or BOP-link master"
+most_likely_cause: "Master device not sending telegrams"
 ---
 
 ## Siemens Micromaster F0071 — What It Means

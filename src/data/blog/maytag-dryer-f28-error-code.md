@@ -12,6 +12,7 @@ tags:
   - maytag
 diy_or_pro: "diy"
 money_part: "Moisture sensor strips"
+most_likely_cause: "Stored electronic fault or noise event"
 ---
 
 ## Maytag Dryer F28 Error Code — What It Means

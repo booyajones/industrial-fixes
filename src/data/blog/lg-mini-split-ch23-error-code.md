@@ -11,6 +11,7 @@ tags:
   - mini-split
   - lg
 money_part: "LG outdoor unit inverter PCB (IPM board)"
+most_likely_cause: "Low or unstable incoming voltage"
 ---
 
 ## LG CH23 Error Code — What It Means

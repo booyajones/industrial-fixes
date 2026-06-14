@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - hussmann
 money_part: "Defrost heater"
+most_likely_cause: "Open defrost heater"
 ---
 
 ## Hussmann Display Case Error Code E1 — What It Means

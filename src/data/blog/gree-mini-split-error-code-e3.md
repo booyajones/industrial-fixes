@@ -10,6 +10,7 @@ tags:
   - mini-split
   - gree
 money_part: "Indoor air filter"
+most_likely_cause: "Refrigerant leak"
 ---
 
 ## Gree Mini Split E3 Error Code — What It Means

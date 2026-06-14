@@ -10,6 +10,7 @@ tags:
   - water-heater
   - navien
 money_part: "Flame rod / igniter-flame rod assembly"
+most_likely_cause: "Low or inadequate gas pressure"
 ---
 
 ## Navien E012 Error Code — What It Means

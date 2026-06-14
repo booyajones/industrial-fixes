@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Indoor main control board (PCB)"
+most_likely_cause: "Incorrect or incompatible PCB installed"
 ---
 
 ## Fujitsu E:11 Error — What It Means

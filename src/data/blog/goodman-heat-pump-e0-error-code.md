@@ -11,6 +11,7 @@ tags:
   - mini-split
   - goodman
 money_part: "Indoor control board"
+most_likely_cause: "Loose or damaged low-voltage wiring"
 ---
 
 ## Goodman E0 Error Code — What It Means

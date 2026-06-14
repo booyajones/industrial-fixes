@@ -10,6 +10,7 @@ tags:
   - hvac
   - heil
 money_part: "High-limit switch"
+most_likely_cause: "Clogged air filter"
 ---
 
 ## Heil Furnace E4 Error Code — What It Means

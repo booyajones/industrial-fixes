@@ -10,6 +10,7 @@ tags:
   - water-heater
   - bosch
 money_part: "Bosch backflow temperature sensor"
+most_likely_cause: "Blocked or restricted venting"
 ---
 
 ## Bosch E4 Error Code — What It Means

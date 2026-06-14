@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Safety relay"
+most_likely_cause: "Missing or loose STO jumper"
 ---
 
 ## Yaskawa GA800 E36 Fault — What It Means

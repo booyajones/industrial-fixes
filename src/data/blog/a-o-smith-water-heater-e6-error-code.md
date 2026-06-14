@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ao-smith
 money_part: "Flow sensor or flow meter"
+most_likely_cause: "Low or interrupted water flow"
 ---
 
 ## A.O. Smith E6 Error Code — What It Means

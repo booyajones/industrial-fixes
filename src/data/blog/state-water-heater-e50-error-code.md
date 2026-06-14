@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Ambient temperature sensor"
+most_likely_cause: "Failed ambient temperature sensor"
 ---
 
 ## State Water Heater E50 Error Code — What It Means

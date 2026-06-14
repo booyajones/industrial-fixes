@@ -11,6 +11,7 @@ tags:
   - furnace
   - american-standard
 money_part: "High-limit switch"
+most_likely_cause: "Dirty or clogged air filter"
 ---
 
 ## American Standard Furnace 4 Flashes — What It Means

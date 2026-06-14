@@ -11,6 +11,7 @@ tags:
   - washer
   - speed-queen
 money_part: "Speed Queen main control board"
+most_likely_cause: "Wrong machine profile loaded into the control"
 ---
 
 ## Speed Queen EI:03 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Indoor thermistor / coil temperature sensor"
+most_likely_cause: "Restricted airflow through the indoor unit"
 ---
 
 ## Daikin A5 Error Code — What It Means

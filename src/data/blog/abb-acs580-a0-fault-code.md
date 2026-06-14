@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "ABB ACS580 STO terminal jumper kit"
+most_likely_cause: "Open or missing STO jumper"
 ---
 
 ## ABB ACS580 A0 Fault Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - washer
   - speed-queen
 money_part: "Speed Queen main control board"
+most_likely_cause: "Control board relay failure"
 ---
 
 ## Speed Queen SR Error Code — What It Means

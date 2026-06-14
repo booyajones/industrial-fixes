@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state-water-heaters
 money_part: "Inlet water filter or screen"
+most_likely_cause: "No gas or low gas pressure"
 ---
 
 ## State Water Heater E115 Error Code — What It Means

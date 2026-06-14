@@ -10,6 +10,7 @@ tags:
   - welding
   - lincoln-electric
 money_part: "Input voltage selector switch"
+most_likely_cause: "Low line voltage (brown-out)"
 ---
 
 ## Lincoln Electric E14 Error Code — What It Means

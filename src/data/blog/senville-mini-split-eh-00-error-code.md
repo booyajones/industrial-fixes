@@ -11,6 +11,7 @@ tags:
   - mini-split
   - senville
 money_part: "Senville indoor main PCB"
+most_likely_cause: "Failed indoor EEPROM chip"
 ---
 
 ## Senville Mini Split EH 00 Error Code — What It Means

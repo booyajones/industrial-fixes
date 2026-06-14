@@ -11,6 +11,7 @@ tags:
   - furnace
   - lennox
 money_part: "Integrated control board"
+most_likely_cause: "Missing or improper equipment ground"
 ---
 
 ## Lennox E117 Error Code — What It Means

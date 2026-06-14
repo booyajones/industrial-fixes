@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - lg
 most_likely_cause: "stuck or obstructed float assembly"
+free_checks:
+  - "Check household water supply valve is fully open and water pressure is adequate (min 20 psi)"
+  - "Inspect inlet hose for kinks, clogs, or closed inline shutoff valve"
+  - "Clean inlet valve screen filter at hose connection for sediment/debris"
+no_buy_pct: "60%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG dishwasher water inlet valve"

@@ -11,6 +11,7 @@ tags:
   - yaskawa
 diy_or_pro: "pro"
 money_part: "Yaskawa GA800 control board"
+most_likely_cause: "Display mode confusion"
 ---
 
 ## Yaskawa GA800 VFD A.113 — What It Means

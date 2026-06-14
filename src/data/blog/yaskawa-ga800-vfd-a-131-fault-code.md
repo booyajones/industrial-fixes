@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 option card (model-specific)"
+most_likely_cause: "Misread or misidentified code"
 diy_or_pro: "pro"
 ---
 

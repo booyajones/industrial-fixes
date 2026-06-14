@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Danfoss FC 302 control card"
+most_likely_cause: "Incorrect motor nameplate data entered in the drive"
 ---
 
 ## Danfoss FC302 VFD ALARM 57 — What It Means

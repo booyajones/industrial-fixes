@@ -10,6 +10,7 @@ tags:
   - cnc
   - fanuc
 money_part: "Hardware overtravel limit switch"
+most_likely_cause: "Axis jogged or commanded past machine travel limits"
 ---
 
 ## Fanuc Alarm 1 Overtravel — What It Means

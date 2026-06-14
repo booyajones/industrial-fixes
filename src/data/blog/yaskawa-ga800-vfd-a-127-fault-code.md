@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa keypad (JVOP‑180 or equivalent)"
+most_likely_cause: "Misread or transposed display"
 diy_or_pro: "pro"
 ---
 

@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - manitowoc
 money_part: "Condenser fan motor"
+most_likely_cause: "E01/E02 (cycle faults)"
 ---
 
 ## Manitowoc NEO Ice Machine Error Codes — What They Mean

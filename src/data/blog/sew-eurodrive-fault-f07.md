@@ -10,6 +10,7 @@ tags:
   - vfd
   - sew-eurodrive
 money_part: "Braking resistor (SEW-specified)"
+most_likely_cause: "Deceleration ramp too short"
 ---
 
 ## SEW-Eurodrive Fault F07 — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
 money_part: "Blower run capacitor"
+most_likely_cause: "Restricted airflow"
 ---
 
 ## Carrier 52 Error Code — What It Means

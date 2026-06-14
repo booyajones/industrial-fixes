@@ -10,6 +10,7 @@ tags:
   - mini-split
   - chigo
 money_part: "Outdoor unit control PCB"
+most_likely_cause: "Loose terminal connections"
 ---
 
 ## Chigo Mini Split E1 Error Code — What It Means

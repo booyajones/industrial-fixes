@@ -11,6 +11,7 @@ tags:
   - mini-split
   - bosch
 money_part: "Outdoor unit control board (PCB)"
+most_likely_cause: "Incorrect outdoor unit address setting"
 ---
 
 ## Bosch Heat Pump E8 Error Code — What It Means

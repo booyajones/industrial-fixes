@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Room air thermistor"
+most_likely_cause: "Model-specific sensor fault"
 ---
 
 ## Fujitsu E:31 Error Code — What It Means

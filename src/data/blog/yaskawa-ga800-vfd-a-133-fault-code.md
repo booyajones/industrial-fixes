@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 control board"
+most_likely_cause: "Misread or misidentified fault code"
 diy_or_pro: "pro"
 ---
 

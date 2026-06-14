@@ -11,6 +11,7 @@ tags:
   - mini-split
   - trane
 money_part: "Trane control board"
+most_likely_cause: "Compressor or fan motor drawing excessive current"
 ---
 
 ## Trane Heat Pump E17 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - washer
   - speed-queen
 money_part: "Speed Queen washer heating element"
+most_likely_cause: "Failed heating element"
 ---
 
 ## Speed Queen Washer E7 Error Code — What It Means

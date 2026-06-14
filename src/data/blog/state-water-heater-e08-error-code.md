@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Air pressure switch"
+most_likely_cause: "Faulty air pressure switch"
 ---
 
 ## State Water Heater E08 Error Code — What It Means

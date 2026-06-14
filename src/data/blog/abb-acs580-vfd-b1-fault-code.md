@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "ABB ACS580 input fuse kit"
+most_likely_cause: "Loose or missing power supply connections"
 ---
 
 ## ABB ACS580 B1 Fault Code — What It Means

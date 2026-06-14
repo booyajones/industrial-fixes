@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "WLAN adapter module"
+most_likely_cause: "Loose or disconnected connector at the WLAN adapter or I/O board"
 ---
 
 ## Fujitsu E:18 Error Code — What It Means

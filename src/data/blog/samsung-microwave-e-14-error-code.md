@@ -11,6 +11,7 @@ tags:
   - microwave
   - samsung
 money_part: "Gas sensor assembly"
+most_likely_cause: "Gas sensor circuit fault"
 ---
 
 ## Samsung Microwave E-14 Error — What It Means

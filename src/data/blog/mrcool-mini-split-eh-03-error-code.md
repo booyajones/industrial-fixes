@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mrcool
 money_part: "Indoor fan motor / blower motor"
+most_likely_cause: "Loose or incorrect wiring"
 ---
 
 ## MRCOOL EH 03 Error Code — What It Means

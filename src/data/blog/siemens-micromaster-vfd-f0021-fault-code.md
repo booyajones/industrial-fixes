@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Motor cable (shielded VFD-rated)"
+most_likely_cause: "Damaged motor cable insulation"
 ---
 
 ## Siemens Micromaster F0021 Fault — What It Means

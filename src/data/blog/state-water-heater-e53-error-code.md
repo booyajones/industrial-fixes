@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Thermocouple or flame sensor"
+most_likely_cause: "Dirty or oxidized thermocouple/flame sensor"
 ---
 
 ## State Water Heater E53 Error Code — What It Means

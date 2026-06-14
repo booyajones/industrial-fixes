@@ -11,6 +11,7 @@ tags:
   - washer
   - speed-queen
 money_part: "Pressure switch (water-level sensor)"
+most_likely_cause: "Kinked or restricted drain hose"
 ---
 
 ## Speed Queen Washer E:0d Error — What It Means

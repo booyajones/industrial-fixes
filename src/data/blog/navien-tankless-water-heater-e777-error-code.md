@@ -10,6 +10,7 @@ tags:
   - water-heater
   - navien
 money_part: "LWCO sensor assembly"
+most_likely_cause: "LWCO wiring disconnected or loose"
 ---
 
 ## Navien E777 Error Code — What It Means

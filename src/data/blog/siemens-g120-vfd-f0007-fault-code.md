@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens G120 power module"
+most_likely_cause: "Misread or misreported fault number"
 ---
 
 ## Siemens G120 F0007 Fault Code — What It Means

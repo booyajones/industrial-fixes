@@ -10,6 +10,7 @@ tags:
   - vfd
   - lenze
 money_part: "Input fuses"
+most_likely_cause: "Open fuse or tripped breaker on one input phase"
 ---
 
 ## Lenze VFD Fault LP — What It Means

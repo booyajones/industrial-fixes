@@ -11,6 +11,7 @@ tags:
   - oven
   - bosch
 money_part: "Oven temperature sensor"
+most_likely_cause: "Failed or open temperature sensor"
 ---
 
 ## Bosch Oven F113 Error Code — What It Means

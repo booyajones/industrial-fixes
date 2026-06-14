@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "External regenerative braking resistor"
+most_likely_cause: "Open or loose resistor leads"
 ---
 
 ## Yaskawa GA800 E23 Fault — What It Means

@@ -11,6 +11,7 @@ tags:
   - refrigerator
   - bosch
 money_part: "Bosch refrigerator main control board"
+most_likely_cause: "Failed main control board"
 ---
 
 ## Bosch Refrigerator E10 Error — What It Means

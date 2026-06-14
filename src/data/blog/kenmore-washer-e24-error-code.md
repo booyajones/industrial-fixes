@@ -11,6 +11,7 @@ tags:
   - washer
   - kenmore
 money_part: "Drain filter assembly"
+most_likely_cause: "Blocked drain filter or pump area"
 ---
 
 ## Kenmore Washer E24 Error Code — What It Means

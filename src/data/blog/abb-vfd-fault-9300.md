@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "Internal cooling fan"
+most_likely_cause: "Failed cooling fan"
 ---
 
 ## ABB VFD Fault 9300 — What It Means

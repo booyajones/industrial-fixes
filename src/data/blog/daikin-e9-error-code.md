@@ -10,6 +10,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Outdoor fan motor"
+most_likely_cause: "Low refrigerant charge"
 ---
 
 ## Daikin E9 Error Code — What It Means

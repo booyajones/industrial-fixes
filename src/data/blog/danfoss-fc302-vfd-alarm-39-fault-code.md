@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Danfoss FC302 ribbon cable (power card to gate-drive card)"
+most_likely_cause: "Bad or loose ribbon cable between power card and gate-drive card"
 ---
 
 ## Danfoss FC302 VFD ALARM 39 — What It Means

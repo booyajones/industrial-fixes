@@ -11,6 +11,7 @@ tags:
   - dryer
   - amana
 money_part: "Water Inlet Valve Assembly"
+most_likely_cause: "Water supply faucets not fully open"
 ---
 
 ## Amana Dryer F20 Error Code — What It Means

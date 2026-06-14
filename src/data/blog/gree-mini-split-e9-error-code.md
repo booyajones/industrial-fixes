@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Condensate pump assembly"
+most_likely_cause: "Blocked condensate drain or pump failure"
 ---
 
 ## Gree Mini Split E9 Error Code — What It Means

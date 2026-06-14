@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Combustion air intake screen or filter"
+most_likely_cause: "Blocked combustion air intake"
 ---
 
 ## State Water Heater E81 Error Code — What It Means

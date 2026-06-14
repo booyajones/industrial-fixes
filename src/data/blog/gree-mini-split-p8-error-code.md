@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Gree outdoor inverter drive board (mainboard)"
+most_likely_cause: "Poor heat transfer between the IPM or PFC module and its heatsink"
 ---
 
 ## Gree P8 Error Code — What It Means

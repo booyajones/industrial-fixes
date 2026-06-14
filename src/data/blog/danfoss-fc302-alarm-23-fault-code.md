@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Danfoss FC 302 internal cooling fan assembly"
+most_likely_cause: "Fan not spinning or mechanically failed"
 ---
 
 ## Danfoss FC302 Alarm 23 — What It Means

@@ -11,6 +11,7 @@ tags:
   - furnace
   - lennox
 money_part: "Blower motor wiring harness"
+most_likely_cause: "Loose or disconnected wiring"
 ---
 
 ## Lennox E204 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - cnc
   - haas
 money_part: "Servo motor thermistor / thermostat"
+most_likely_cause: "Sustained overload operation"
 ---
 
 ## Haas Alarm 107 — What It Means

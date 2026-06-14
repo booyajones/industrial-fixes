@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi-electric
 money_part: "Mitsubishi control board (indoor or outdoor PCB)"
+most_likely_cause: "Incorrect SW2 or SW6 switch setting"
 ---
 
 ## Mitsubishi P7 Error Code — What It Means

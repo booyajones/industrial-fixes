@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens G120 Control Unit (CU)"
+most_likely_cause: "Wrong device type selected in TIA Portal or Startdrive"
 ---
 
 ## Siemens G120 A01028 — What It Means

@@ -11,6 +11,7 @@ tags:
   - water-heater
   - state
 money_part: "24 VAC HVAC transformer"
+most_likely_cause: "Tripped breaker or system power loss"
 ---
 
 ## State Water Heater E73 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - cnc
   - fanuc
 money_part: "Servo amplifier cooling fan"
+most_likely_cause: "Excessive servo load from mechanical binding"
 ---
 
 ## Fanuc Alarm 400 — What It Means

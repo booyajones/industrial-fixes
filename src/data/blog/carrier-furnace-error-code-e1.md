@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
 money_part: "Infinity communicating thermostat"
+most_likely_cause: "Loose or reversed ABCD communication wiring"
 ---
 
 ## Carrier E1 Error Code — What It Means

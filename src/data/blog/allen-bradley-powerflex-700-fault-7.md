@@ -10,6 +10,7 @@ tags:
   - vfd
   - allen-bradley
 money_part: "Motor (if windings damaged by sustained OL)"
+most_likely_cause: "Mechanical overload on the driven equipment"
 ---
 
 ## Allen Bradley PowerFlex 700 F7 Fault — What It Means

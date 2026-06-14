@@ -10,6 +10,7 @@ tags:
   - cnc
   - fanuc
 money_part: "Servo amplifier module"
+most_likely_cause: "Servo motor or amplifier fault"
 ---
 
 ## Fanuc Alarm 424 — What It Means

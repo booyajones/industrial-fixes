@@ -11,6 +11,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Daikin indoor fan motor"
+most_likely_cause: "Low or unstable supply voltage"
 ---
 
 ## Daikin Mini Split A8 Error Code — What It Means

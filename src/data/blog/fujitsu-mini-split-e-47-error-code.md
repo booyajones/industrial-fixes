@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Main PCB assembly"
+most_likely_cause: "Loose or disconnected wiring connector"
 ---
 
 ## Fujitsu Mini Split E:47 Error Code — What It Means

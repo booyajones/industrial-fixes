@@ -11,6 +11,7 @@ tags:
   - refrigerator
   - bosch
 money_part: "Evaporator fan motor assembly"
+most_likely_cause: "Ice buildup or obstruction at the evaporator fan"
 ---
 
 ## Bosch Refrigerator E03 Error Code — What It Means

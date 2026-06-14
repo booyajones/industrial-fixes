@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens G120 Control Unit (CU)"
+most_likely_cause: "Pulse frequency from encoder or probe exceeds configured limit"
 ---
 
 ## Siemens G120 F01122 — What It Means

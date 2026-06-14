@@ -11,6 +11,7 @@ tags:
   - mini-split
   - goodman
 money_part: "Control board"
+most_likely_cause: "Corrupted or incompatible memory card data"
 ---
 
 ## Goodman Heat Pump d4 Error Code — What It Means

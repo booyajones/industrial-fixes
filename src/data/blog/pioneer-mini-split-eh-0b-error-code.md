@@ -11,6 +11,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Pioneer mini split indoor display board"
+most_likely_cause: "Loose or disconnected communication wiring"
 ---
 
 ## Pioneer Mini Split EH 0b Error Code — What It Means

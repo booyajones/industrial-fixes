@@ -10,6 +10,7 @@ tags:
   - boiler
   - rinnai
 money_part: "Combustion chamber / burner temperature sensor"
+most_likely_cause: "Failed temperature sensor (open circuit)"
 ---
 
 ## Rinnai Error Code 31 — What It Means

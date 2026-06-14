@@ -11,6 +11,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Pioneer T2 evaporator coil temperature sensor (thermistor)"
+most_likely_cause: "Failed T2 thermistor"
 ---
 
 ## Pioneer E5 Error Code — What It Means

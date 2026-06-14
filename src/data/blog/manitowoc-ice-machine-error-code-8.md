@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - manitowoc
 money_part: "Ice thickness probe assembly"
+most_likely_cause: "Mineral scale on the thickness probe"
 ---
 
 ## Manitowoc Ice Machine Error Code 8 — What It Means

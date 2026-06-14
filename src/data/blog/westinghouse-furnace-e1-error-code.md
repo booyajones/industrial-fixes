@@ -10,6 +10,7 @@ tags:
   - hvac
   - westinghouse
 money_part: "Hot surface igniter"
+most_likely_cause: "Failed hot surface igniter"
 ---
 
 ## Westinghouse Furnace E1 Error Code — What It Means

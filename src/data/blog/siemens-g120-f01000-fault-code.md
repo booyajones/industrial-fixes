@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens G120 Control Unit (CU)"
+most_likely_cause: "Internal software error in the Control Unit"
 ---
 
 ## Siemens G120 F01000 — What It Means

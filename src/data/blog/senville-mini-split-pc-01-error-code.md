@@ -11,6 +11,7 @@ tags:
   - mini-split
   - senville
 money_part: "Reactor (PFC coil)"
+most_likely_cause: "Incoming power outside rated range"
 ---
 
 ## Senville Mini Split PC 01 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi-electric
 money_part: "Outdoor inverter board / power PCB"
+most_likely_cause: "Failed outdoor inverter board or power PCB"
 ---
 
 ## Mitsubishi U6 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Fujitsu discharge temperature thermistor sensor"
+most_likely_cause: "Dirty or blocked outdoor coil"
 ---
 
 ## Fujitsu E:15 Error Code — What It Means

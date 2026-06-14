@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Flame sensor (rod)"
+most_likely_cause: "Dirty or fouled flame sensor"
 ---
 
 ## State Water Heater E82 Error Code — What It Means

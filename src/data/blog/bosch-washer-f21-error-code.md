@@ -11,6 +11,7 @@ tags:
   - washer
   - bosch
 money_part: "Carbon motor brushes"
+most_likely_cause: "Worn carbon brushes"
 ---
 
 ## Bosch Washer F21 Error Code — What It Means

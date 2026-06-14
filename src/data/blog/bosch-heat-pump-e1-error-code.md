@@ -10,6 +10,7 @@ tags:
   - hvac
   - bosch
 money_part: "Bosch IDS communicating thermostat"
+most_likely_cause: "Loose or damaged communication wiring"
 ---
 
 ## Bosch Heat Pump E1 Error Code — What It Means

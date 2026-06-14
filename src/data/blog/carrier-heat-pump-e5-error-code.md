@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
 money_part: "Outdoor coil thermistor"
+most_likely_cause: "Defrost sensor (outdoor coil thermistor) fault"
 ---
 
 ## Carrier Heat Pump E5 Error Code — What It Means

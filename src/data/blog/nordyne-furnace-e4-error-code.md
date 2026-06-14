@@ -10,6 +10,7 @@ tags:
   - hvac
   - nordyne
 money_part: "Hot surface igniter"
+most_likely_cause: "Failed hot surface igniter"
 ---
 
 ## Nordyne Furnace E4 Error Code — What It Means

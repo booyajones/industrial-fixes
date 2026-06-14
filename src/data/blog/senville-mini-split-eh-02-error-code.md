@@ -11,6 +11,7 @@ tags:
   - mini-split
   - senville
 money_part: "Senville indoor main board (PCB)"
+most_likely_cause: "Erratic or unstable incoming power"
 ---
 
 ## Senville Mini Split EH 02 Error Code — What It Means

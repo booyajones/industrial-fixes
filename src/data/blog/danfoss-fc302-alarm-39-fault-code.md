@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "FC 302 power card"
+most_likely_cause: "Defective power card"
 ---
 
 ## Danfoss FC302 Alarm 39 — What It Means

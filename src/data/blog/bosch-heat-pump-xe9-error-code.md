@@ -11,6 +11,7 @@ tags:
   - mini-split
   - bosch
 money_part: "Bosch outdoor-unit control board"
+most_likely_cause: "Unseated or loose EEPROM chip"
 ---
 
 ## Bosch xE9 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - cnc
   - mazak
 money_part: "Magazine position proximity switch"
+most_likely_cause: "Magazine drive motor or transmission fault"
 ---
 
 ## Mazak Alarm 900 - What It Means

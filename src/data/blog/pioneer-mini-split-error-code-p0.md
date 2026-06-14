@@ -10,6 +10,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Condenser fan run capacitor"
+most_likely_cause: "Dirty or blocked condenser coil"
 ---
 
 ## Pioneer Mini Split P0 Error Code — What It Means

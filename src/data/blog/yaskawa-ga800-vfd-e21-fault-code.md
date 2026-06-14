@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Motor thermistor or PTC temperature sensor"
+most_likely_cause: "Misread or misidentified display code"
 ---
 
 ## Yaskawa GA800 E21 Fault Code — What It Means

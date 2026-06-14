@@ -10,6 +10,7 @@ tags:
   - boiler
   - noritz
 money_part: "Flame rod / ionization sensor"
+most_likely_cause: "No gas or low gas pressure"
 ---
 
 ## Noritz Error Code 12 — What It Means

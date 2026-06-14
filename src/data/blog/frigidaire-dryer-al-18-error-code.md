@@ -11,6 +11,7 @@ tags:
   - dryer
   - frigidaire
 money_part: "User interface board or touchpad assembly"
+most_likely_cause: "Stuck or jammed button"
 ---
 
 ## Frigidaire Dryer AL-18 Error Code — What It Means

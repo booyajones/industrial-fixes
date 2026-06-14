@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ecosmart
 money_part: "Heating element for EcoSmart ECO25"
+most_likely_cause: "Insufficient line voltage"
 ---
 
 ## EcoSmart ECO25 Error Codes — What It Means

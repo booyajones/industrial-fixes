@@ -11,6 +11,7 @@ tags:
   - mini-split
   - bosch
 money_part: "High-Pressure Switch"
+most_likely_cause: "Restricted refrigerant flow or circuit blockage"
 ---
 
 ## Bosch xF1 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - dryer
   - frigidaire
 money_part: "Main control board"
+most_likely_cause: "Main control board motor relay stuck closed"
 ---
 
 ## Frigidaire Dryer AL-05 Error Code — What It Means

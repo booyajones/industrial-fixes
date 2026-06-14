@@ -11,6 +11,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Daikin indoor fan motor"
+most_likely_cause: "Jammed or obstructed blower wheel"
 ---
 
 ## Daikin A6 Error Code — What It Means

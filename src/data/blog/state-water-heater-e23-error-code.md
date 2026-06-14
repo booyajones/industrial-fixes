@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Inlet filter screen or sediment strainer"
+most_likely_cause: "Blocked or restricted venting"
 ---
 
 ## State Water Heater E23 Error Code — What It Means

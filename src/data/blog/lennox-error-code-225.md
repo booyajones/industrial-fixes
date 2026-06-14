@@ -10,6 +10,7 @@ tags:
   - hvac
   - lennox
 money_part: "Pressure switch"
+most_likely_cause: "Waterlogged pressure switch hose"
 ---
 
 ## Lennox Error Code 225 — What It Means

@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - true-refrigeration
 money_part: "NTC air sensor"
+most_likely_cause: "Failed NTC air sensor"
 ---
 
 ## True Refrigeration T-Series Error Codes — What They Mean

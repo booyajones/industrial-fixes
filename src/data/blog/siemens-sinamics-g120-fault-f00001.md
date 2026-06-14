@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "VFD-rated motor cable"
+most_likely_cause: "Motor winding or cable short"
 ---
 
 ## Siemens SINAMICS G120 F00001 Fault — What It Means

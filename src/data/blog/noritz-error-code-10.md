@@ -10,6 +10,7 @@ tags:
   - boiler
   - noritz
 money_part: "Burner assembly"
+most_likely_cause: "Dirty or clogged burner"
 ---
 
 ## Noritz Error Code 10 — What It Means

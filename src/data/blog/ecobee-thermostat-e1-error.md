@@ -10,6 +10,7 @@ tags:
   - hvac
   - ecobee
 money_part: "C-wire adapter (PEK)"
+most_likely_cause: "Furnace or air handler is locked out"
 ---
 
 ## ecobee E1 Error — What It Means

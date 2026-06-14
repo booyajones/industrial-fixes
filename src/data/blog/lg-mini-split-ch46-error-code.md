@@ -11,6 +11,7 @@ tags:
   - mini-split
   - lg
 money_part: "Outdoor suction temperature sensor / thermistor"
+most_likely_cause: "Disconnected or loose sensor plug"
 ---
 
 ## LG Mini Split CH46 Error Code — What It Means

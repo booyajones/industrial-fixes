@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Communications cable for Yaskawa GA800 option module"
+most_likely_cause: "Disconnected or loose communications cable"
 ---
 
 ## Yaskawa GA800 E07 Fault — What It Means

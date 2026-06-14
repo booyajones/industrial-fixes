@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Air intake screen or filter assembly"
+most_likely_cause: "Blocked air intake screen"
 ---
 
 ## State Water Heater E148 Error Code — What It Means

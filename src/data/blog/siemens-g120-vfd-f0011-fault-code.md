@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Motor cooling fan"
+most_likely_cause: "Mechanical overload or jam"
 ---
 
 ## Siemens G120 F0011 Fault Code — What It Means

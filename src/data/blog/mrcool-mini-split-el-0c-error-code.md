@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mrcool
 money_part: "Indoor pipe temperature sensor (thermistor)"
+most_likely_cause: "Outdoor service valves not fully opened"
 ---
 
 ## MRCOOL EL 0C Error Code — What It Means

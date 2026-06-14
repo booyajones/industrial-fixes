@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Safety relay or STO interface module"
+most_likely_cause: "Forced checking procedure of the safety shutdown path unsuccessful"
 ---
 
 ## Siemens G120 F01600 — What It Means

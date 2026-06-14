@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Fujitsu float switch assembly"
+most_likely_cause: "Clogged condensate drain line or trap"
 ---
 
 ## Fujitsu E:09 Error Code — What It Means

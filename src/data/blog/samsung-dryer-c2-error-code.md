@@ -11,6 +11,7 @@ tags:
   - dryer
   - samsung
 money_part: "Electronic control board (main PCB)"
+most_likely_cause: "Temporary control glitch"
 ---
 
 ## Samsung Dryer C2 Error Code — What It Means

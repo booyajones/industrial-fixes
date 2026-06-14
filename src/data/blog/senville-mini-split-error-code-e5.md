@@ -10,6 +10,7 @@ tags:
   - mini-split
   - senville
 money_part: "Condensate drain line (PVC or vinyl)"
+most_likely_cause: "Blocked condensate drain line"
 ---
 
 ## Senville Mini Split Error Code E5 — What It Means

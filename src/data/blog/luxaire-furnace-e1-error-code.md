@@ -10,6 +10,7 @@ tags:
   - hvac
   - luxaire
 money_part: "Hot surface ignitor"
+most_likely_cause: "Ignition failure chain"
 ---
 
 ## Luxaire Furnace E1 Error Code — What It Means

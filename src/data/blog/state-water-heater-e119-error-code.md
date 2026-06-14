@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Filling loop kit with braided hose and valves"
+most_likely_cause: "System pressure drop below minimum threshold"
 ---
 
 ## State Water Heater E119 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
 money_part: "Carrier flame sensor"
+most_likely_cause: "Restricted airflow"
 ---
 
 ## Carrier Error Code 30 — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Outdoor fan motor"
+most_likely_cause: "Refrigerant overcharge"
 ---
 
 ## Daikin F6 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - washer
   - speed-queen
 money_part: "Front-End User Control (Control Console)"
+most_likely_cause: "Incorrect incoming supply voltage"
 ---
 
 ## Speed Queen Washer E1 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - furnace
   - amana
 money_part: "High-limit switch"
+most_likely_cause: "Dirty or clogged air filter"
 ---
 
 ## Amana Furnace E03 Error Code — What It Means

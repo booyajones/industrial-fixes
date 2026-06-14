@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mrcool
 money_part: "Outdoor ambient temperature sensor (T4 thermistor)"
+most_likely_cause: "Failed outdoor ambient thermistor (T4)"
 ---
 
 ## MRCOOL EC 53 Error Code — What It Means

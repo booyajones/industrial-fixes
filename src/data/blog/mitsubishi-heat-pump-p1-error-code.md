@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Mitsubishi TH1 room thermistor"
+most_likely_cause: "Wrong room sensor source selected in controller"
 ---
 
 ## Mitsubishi P1 Error Code — What It Means

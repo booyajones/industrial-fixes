@@ -11,6 +11,7 @@ tags:
   - dryer
   - frigidaire
 money_part: "Main electronic control board (ERC)"
+most_likely_cause: "Misread display or transposed digits"
 diy_or_pro: "diy"
 ---
 

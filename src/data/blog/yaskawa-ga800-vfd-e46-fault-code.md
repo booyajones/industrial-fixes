@@ -11,6 +11,7 @@ tags:
   - yaskawa
 diy_or_pro: "pro"
 money_part: "Yaskawa GA800 control board"
+most_likely_cause: "Incorrect parameter setting"
 ---
 
 ## Yaskawa GA800 E46 Fault Code — What It Means

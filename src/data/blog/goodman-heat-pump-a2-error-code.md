@@ -11,6 +11,7 @@ tags:
   - mini-split
   - goodman
 money_part: "Outdoor temperature sensor (thermistor)"
+most_likely_cause: "Code misread or model-specific display"
 ---
 
 ## Goodman Heat Pump A2 Error Code — What It Means

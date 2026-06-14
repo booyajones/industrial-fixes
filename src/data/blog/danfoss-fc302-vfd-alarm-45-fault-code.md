@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Motor cable (shielded VFD-rated)"
+most_likely_cause: "Motor cable insulation breakdown or leakage current"
 ---
 
 ## Danfoss FC302 ALARM 45 — What It Means

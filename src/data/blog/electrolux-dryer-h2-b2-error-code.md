@@ -11,6 +11,7 @@ tags:
   - dryer
   - electrolux
 money_part: "Electronic control board"
+most_likely_cause: "Incorrect or unstable supply voltage"
 ---
 
 ## Electrolux Dryer H2 / B2 Error Code — What It Means

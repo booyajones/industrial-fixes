@@ -11,6 +11,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Outdoor inverter power module (IPM) board"
+most_likely_cause: "Failed outdoor inverter power module (IPM)"
 ---
 
 ## Pioneer PC 04 Error Code — What It Means

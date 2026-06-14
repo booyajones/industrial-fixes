@@ -11,6 +11,7 @@ tags:
   - washer
   - speed-queen
 money_part: "Water inlet valve"
+most_likely_cause: "Leaking inlet valve (Er,OF)"
 ---
 
 ## Speed Queen Washer ER Error Code — What It Means

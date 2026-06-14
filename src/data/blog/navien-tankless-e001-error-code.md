@@ -10,6 +10,7 @@ tags:
   - water-heater
   - navien
 money_part: "Flame rod / flame detection sensor"
+most_likely_cause: "Dirty or misaligned flame rod sensor"
 ---
 
 ## Navien E001 Error Code — What It Means

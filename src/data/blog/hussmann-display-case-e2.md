@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - hussmann
 money_part: "Defrost heater assembly"
+most_likely_cause: "Failed defrost heater element"
 ---
 
 ## Hussmann Display Case E2 Error Code — What It Means

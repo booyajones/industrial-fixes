@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa control PCB"
+most_likely_cause: "Parameter corruption"
 ---
 
 ## Yaskawa VFD Fault CF — What It Means

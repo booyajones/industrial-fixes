@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Temperature sensor (thermistor or PTC)"
+most_likely_cause: "Temperature sensor not wired or disconnected"
 ---
 
 ## Danfoss FC302 ALARM 20 — What It Means

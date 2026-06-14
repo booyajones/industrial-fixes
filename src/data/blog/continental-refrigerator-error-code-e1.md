@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - continental
 money_part: "NTC temperature sensor"
+most_likely_cause: "Failed NTC thermistor"
 ---
 
 ## Continental Refrigerator Error Code E1 — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Drive IGBT module / power board"
+most_likely_cause: "Phase-to-phase short on output cables"
 ---
 
 ## Yaskawa VFD Fault SC — What It Means

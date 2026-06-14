@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Danfoss FC302 control card"
+most_likely_cause: "Incorrect motor nameplate data in parameters"
 ---
 
 ## Danfoss FC302 Alarm 50 — What It Means

@@ -10,6 +10,7 @@ tags:
   - water-heater
   - bosch
 money_part: "Bosch tankless water heater air filter"
+most_likely_cause: "Blocked air intake or exhaust terminal"
 ---
 
 ## Bosch C1 Error Code — What It Means

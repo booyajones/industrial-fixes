@@ -11,6 +11,7 @@ tags:
   - mini-split
   - bosch
 money_part: "Bosch T3 outdoor temperature sensor"
+most_likely_cause: "Broken or damaged sensor wire"
 ---
 
 ## Bosch E4 Error Code — What It Means

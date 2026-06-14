@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens SINAMICS G120 Control Unit (CU)"
+most_likely_cause: "Parameter change not committed"
 ---
 
 ## Siemens G120 F01040 — What It Means

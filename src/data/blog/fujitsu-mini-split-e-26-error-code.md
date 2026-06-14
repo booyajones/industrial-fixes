@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Fujitsu outdoor unit main PCB"
+most_likely_cause: "Loose or disconnected communication wiring"
 ---
 
 ## Fujitsu Mini Split E:26 Error — What It Means

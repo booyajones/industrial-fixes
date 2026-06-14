@@ -11,6 +11,7 @@ tags:
   - oven
   - lg
 money_part: "LG oven thermistor / temperature sensor"
+most_likely_cause: "Faulty thermistor or oven temperature sensor"
 ---
 
 ## LG Range E8 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - honeywell
 money_part: "Replacement Honeywell thermostat"
+most_likely_cause: "Internal thermostat fault"
 ---
 
 ## Honeywell Thermostat E1 Error Code — What It Means

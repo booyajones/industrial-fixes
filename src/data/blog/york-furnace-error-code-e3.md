@@ -10,6 +10,7 @@ tags:
   - hvac
   - york
 money_part: "Draft pressure switch"
+most_likely_cause: "Pressure switch contacts welded closed"
 ---
 
 ## York Furnace Error Code E3 — What It Means

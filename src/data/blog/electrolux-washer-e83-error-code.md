@@ -11,6 +11,7 @@ tags:
   - washer
   - electrolux
 money_part: "Main control board (PCB)"
+most_likely_cause: "Control board communication fault"
 diy_or_pro: "pro"
 ---
 

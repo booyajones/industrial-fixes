@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "GA800 Keypad / Operator Panel"
+most_likely_cause: "Energy-saving parameter out of range"
 ---
 
 ## Yaskawa GA800 E16 Fault Code — What It Means

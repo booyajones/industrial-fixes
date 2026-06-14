@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Indoor coil thermistor"
+most_likely_cause: "Shorted or open indoor coil thermistor"
 ---
 
 ## Fujitsu E:59 Error Code — What It Means

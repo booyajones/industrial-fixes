@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Indoor main control board (PCB)"
+most_likely_cause: "Failed indoor main control board"
 ---
 
 ## Gree U8 Error Code — What It Means

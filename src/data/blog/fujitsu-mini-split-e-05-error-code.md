@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Fujitsu indoor pipe thermistor / heat exchanger temperature sensor"
+most_likely_cause: "Unplugged or loose sensor connector"
 ---
 
 ## Fujitsu Mini Split E:05 Error — What It Means

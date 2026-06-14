@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Mitsubishi remote controller"
+most_likely_cause: "Miswired remote controller connections"
 ---
 
 ## Mitsubishi E4 Error Code — What It Means

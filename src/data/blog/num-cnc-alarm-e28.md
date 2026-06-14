@@ -10,6 +10,7 @@ tags:
   - cnc
   - num
 money_part: "Serial link communication cable"
+most_likely_cause: "Communication cable fault"
 ---
 
 ## NUM CNC Alarm E28 — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Inverter compressor"
+most_likely_cause: "Failed compressor windings or bearings"
 ---
 
 ## Daikin E8 Error Code — What It Means

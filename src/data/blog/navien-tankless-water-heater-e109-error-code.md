@@ -10,6 +10,7 @@ tags:
   - water-heater
   - navien
 money_part: "Navien combustion fan motor"
+most_likely_cause: "Clogged air inlet filter or blocked intake path"
 ---
 
 ## Navien E109 Error — What It Means

@@ -11,6 +11,7 @@ tags:
   - washer
   - speed-queen
 money_part: "Door lock or latch assembly"
+most_likely_cause: "Door not fully closed or obstructed"
 ---
 
 ## Speed Queen Washer DO Error Code — What It Means

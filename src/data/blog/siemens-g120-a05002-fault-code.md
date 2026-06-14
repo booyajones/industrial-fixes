@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens G120 cooling fan assembly"
+most_likely_cause: "High ambient temperature"
 ---
 
 ## Siemens G120 A05002 — What It Means

@@ -10,6 +10,7 @@ tags:
   - cnc
   - fanuc
 money_part: "Overtravel limit switch"
+most_likely_cause: "Manual jog in wrong direction"
 ---
 
 ## Fanuc Alarm 6 Overtravel — What It Means

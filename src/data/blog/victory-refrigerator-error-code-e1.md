@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - victory
 money_part: "NTC temperature sensor"
+most_likely_cause: "Failed NTC sensor"
 ---
 
 ## Victory Refrigeration Error Code E1 — What It Means

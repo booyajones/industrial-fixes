@@ -11,6 +11,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Outdoor main PCB / mainboard"
+most_likely_cause: "Incorrect or unstable incoming voltage"
 ---
 
 ## Pioneer Mini-Split P1 Error Code — What It Means

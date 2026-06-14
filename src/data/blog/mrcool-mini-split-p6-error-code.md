@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mrcool
 money_part: "Pressure switch"
+most_likely_cause: "Service valves not fully opened"
 ---
 
 ## MRCOOL P6 Error Code — What It Means

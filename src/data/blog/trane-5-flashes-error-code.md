@@ -10,6 +10,7 @@ tags:
   - hvac
   - trane
 money_part: "Pressure switch"
+most_likely_cause: "Blocked or kinked pressure switch hose"
 ---
 
 ## Trane 5 Flashes Error Code — What It Means

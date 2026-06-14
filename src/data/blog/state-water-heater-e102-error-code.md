@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Flame sensor (flame rod)"
+most_likely_cause: "Gas supply interruption or low pressure"
 ---
 
 ## State Water Heater E102 Error Code — What It Means

@@ -12,6 +12,7 @@ tags:
   - maytag
 diy_or_pro: "diy"
 money_part: "Main control board (electronic control board)"
+most_likely_cause: "Misread fault code"
 part_price: "$15-50"
 ---
 

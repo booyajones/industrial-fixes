@@ -10,6 +10,7 @@ tags:
   - welding
   - lincoln-electric
 money_part: "Output contactor"
+most_likely_cause: "Worn or pitted output contactor contacts"
 ---
 
 ## Lincoln Electric E13 Error Code — What It Means

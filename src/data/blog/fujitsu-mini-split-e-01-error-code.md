@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Indoor controller PCB (main control board)"
+most_likely_cause: "Loose or damaged interconnect wiring"
 ---
 
 ## Fujitsu E:01 Error — What It Means

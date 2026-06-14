@@ -12,6 +12,7 @@ tags:
   - whirlpool
 diy_or_pro: "diy"
 money_part: "Electronic Control Board (ERC or Clock/Timer Board)"
+most_likely_cause: "Misread or partial display"
 ---
 
 ## Whirlpool Range AB Error Code — What It Means

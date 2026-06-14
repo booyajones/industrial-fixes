@@ -10,6 +10,7 @@ tags:
   - hvac
   - trane
 money_part: "Flame sensor"
+most_likely_cause: "Normal standby (most models)"
 ---
 
 ## Trane 1 Flash Error Code — What It Means

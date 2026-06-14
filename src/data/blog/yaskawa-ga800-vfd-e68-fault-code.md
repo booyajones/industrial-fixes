@@ -11,6 +11,7 @@ tags:
   - yaskawa
 diy_or_pro: "pro"
 money_part: "Yaskawa GA800 control board (PCB)"
+most_likely_cause: "Misread fault code"
 ---
 
 ## Yaskawa GA800 E68 Fault — What It Means

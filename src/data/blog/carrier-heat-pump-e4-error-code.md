@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
 money_part: "Refrigerant charge (R-410A per nameplate)"
+most_likely_cause: "Low refrigerant charge"
 ---
 
 ## Carrier Heat Pump E4 Error Code — What It Means

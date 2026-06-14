@@ -11,6 +11,7 @@ tags:
   - dryer
   - amana
 money_part: "Moisture sensor kit"
+most_likely_cause: "Misread or mistyped code"
 ---
 
 ## Amana Dryer F1E5 Error Code — What It Means

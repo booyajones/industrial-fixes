@@ -10,6 +10,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Condensate pump"
+most_likely_cause: "Clogged condensate drain line"
 ---
 
 ## Fujitsu Mini-Split E7 Error Code — What It Means

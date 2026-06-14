@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "Motor"
+most_likely_cause: "Motor insulation breakdown to ground"
 ---
 
 ## ABB ACS580 A2B3 Fault — What It Means

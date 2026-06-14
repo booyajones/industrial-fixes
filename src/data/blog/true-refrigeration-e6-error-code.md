@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - true-refrigeration
 money_part: "Condenser fan motor"
+most_likely_cause: "Dirty condenser coil"
 ---
 
 ## True Refrigeration E6 Error Code — What It Means

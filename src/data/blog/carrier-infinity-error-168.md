@@ -14,6 +14,7 @@ tags:
   - error-codes
 description: "Carrier Infinity error 168 is a communication fault between the furnace control board and the Infinity system — here's how to diagnose the data bus wiring and control boards that cause it."
 money_part: "Carrier Infinity IFC (58CVX/58MVC series)"
+most_likely_cause: "SAB wiring fault"
 ---
 
 ## Error Code: Carrier Infinity Error 168

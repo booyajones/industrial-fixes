@@ -10,6 +10,7 @@ tags:
   - vfd
   - allen-bradley
 money_part: "Internal cooling fan"
+most_likely_cause: "Blocked or failed cooling fan"
 ---
 
 ## Allen-Bradley PowerFlex Fault F025 — What It Means

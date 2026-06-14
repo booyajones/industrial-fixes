@@ -10,6 +10,7 @@ tags:
   - mini-split
   - york
 money_part: "Communication wire"
+most_likely_cause: "Loose or missing S-wire connection"
 ---
 
 ## York Mini Split Error Code E1 — What It Means

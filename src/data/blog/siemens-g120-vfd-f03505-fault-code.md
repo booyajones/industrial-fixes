@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Shielded analog signal cable"
+most_likely_cause: "Open or broken wire in the analog input loop"
 ---
 
 ## Siemens G120 F03505 — What It Means

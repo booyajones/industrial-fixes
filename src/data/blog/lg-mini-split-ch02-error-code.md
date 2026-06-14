@@ -10,6 +10,7 @@ tags:
   - hvac
   - lg
 money_part: "Outdoor ambient temperature sensor"
+most_likely_cause: "Failed outdoor ambient thermistor"
 ---
 
 ## LG Mini Split CH02 Error Code — What It Means

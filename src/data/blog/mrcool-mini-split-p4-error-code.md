@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mrcool
 money_part: "MRCOOL outdoor control board (inverter board)"
+most_likely_cause: "Closed or partially open service valves"
 ---
 
 ## MRCOOL P4 Error Code — What It Means

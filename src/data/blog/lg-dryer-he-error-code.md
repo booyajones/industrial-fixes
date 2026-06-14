@@ -12,6 +12,7 @@ tags:
   - lg
 diy_or_pro: "diy"
 money_part: "Heater assembly (washer-dryer combo)"
+most_likely_cause: "Washer-dryer combo temporary heater fault"
 ---
 
 ## LG Dryer HE Error Code — What It Means

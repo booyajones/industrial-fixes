@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Input fuses for Siemens Micromaster"
+most_likely_cause: "Incoming mains loss or brownout"
 ---
 
 ## Siemens Micromaster F0003 — What It Means

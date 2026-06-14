@@ -11,6 +11,7 @@ tags:
   - furnace
   - rheem
 money_part: "Air filter"
+most_likely_cause: "Dirty or clogged air filter"
 ---
 
 ## Rheem Furnace 4 Flashes — What It Means

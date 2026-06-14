@@ -10,6 +10,7 @@ tags:
   - hvac
   - lennox
 money_part: "iComfort thermostat (S30 or E30)"
+most_likely_cause: "Alerts 434/411 - Communication faults"
 ---
 
 ## Lennox XC21 Error Codes — What They Mean

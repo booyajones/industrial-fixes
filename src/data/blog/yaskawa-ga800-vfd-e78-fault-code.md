@@ -11,6 +11,7 @@ tags:
   - yaskawa
 diy_or_pro: "pro"
 money_part: "Motor PTC thermistor or temperature sensor"
+most_likely_cause: "Unverified fault code"
 ---
 
 ## Yaskawa GA800 E78 Fault — What It Means

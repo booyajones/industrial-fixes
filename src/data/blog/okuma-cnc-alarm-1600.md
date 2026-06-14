@@ -10,6 +10,7 @@ tags:
   - cnc
   - okuma
 money_part: "Drive communication cable"
+most_likely_cause: "Loose or damaged communication cable between control and drives"
 ---
 
 ## Okuma CNC Alarm 1600 — Communication Error: What It Means

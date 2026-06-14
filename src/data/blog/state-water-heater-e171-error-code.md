@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Air intake filter (State tankless)"
+most_likely_cause: "Blocked air intake or dirty filter"
 ---
 
 ## State Water Heater E171 Error Code — What It Means

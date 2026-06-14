@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Main circuit fuses for Yaskawa GA800"
+most_likely_cause: "Main circuit power loss"
 ---
 
 ## Yaskawa GA800 E24 Fault — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - lg
 money_part: "LG discharge temperature sensor (compressor 2)"
+most_likely_cause: "Low refrigerant charge or leakage"
 ---
 
 ## LG Mini Split CH33 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Control board / mainboard"
+most_likely_cause: "Control board or internal hardware fault"
 ---
 
 ## State Water Heater E99 Error Code — What It Means

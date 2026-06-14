@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state-water-heaters
 money_part: "High-limit thermal cutoff switch"
+most_likely_cause: "Blocked vent or combustion air inlet"
 ---
 
 ## State Water Heater E145 Error Code — What It Means

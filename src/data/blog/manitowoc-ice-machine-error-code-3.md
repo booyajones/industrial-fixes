@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - manitowoc
 money_part: "Condenser fan motor"
+most_likely_cause: "Low refrigerant charge"
 ---
 
 ## Manitowoc Ice Machine Error Code 3 — What It Means

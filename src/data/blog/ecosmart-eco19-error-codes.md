@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ecosmart
 money_part: "EcoSmart internal control board fuse"
+most_likely_cause: "No or incorrect line voltage"
 ---
 
 ## EcoSmart ECO 19 Error Codes — What It Means

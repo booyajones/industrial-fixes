@@ -10,6 +10,7 @@ tags:
   - vfd
   - allen-bradley
 money_part: "Dynamic braking resistor (DB resistor)"
+most_likely_cause: "Decel ramp too fast"
 ---
 
 ## Allen Bradley PowerFlex 753 F12 Fault — What It Means

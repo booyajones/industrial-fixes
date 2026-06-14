@@ -10,6 +10,7 @@ tags:
   - hvac
   - heil
 money_part: "Pressure switch"
+most_likely_cause: "Blocked flue or vent termination"
 ---
 
 ## Heil Furnace E1 Error Code — What It Means

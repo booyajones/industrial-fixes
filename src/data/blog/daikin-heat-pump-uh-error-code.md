@@ -11,6 +11,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Transmission wiring cable"
+most_likely_cause: "Miswired transmission circuit"
 ---
 
 ## Daikin UH Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - trane
 money_part: "Trane RTRM control board"
+most_likely_cause: "Low refrigerant charge or refrigerant leak"
 ---
 
 ## Trane Heat Pump E10 Error — What It Means

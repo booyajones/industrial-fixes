@@ -11,6 +11,7 @@ tags:
   - washer
   - speed-queen
 money_part: "Power cord"
+most_likely_cause: "Utility power outage during delayed start"
 ---
 
 ## Speed Queen Washer PF Error Code — What It Means

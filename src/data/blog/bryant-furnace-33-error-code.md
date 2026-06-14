@@ -10,6 +10,7 @@ tags:
   - hvac
   - bryant
 money_part: "Air filter"
+most_likely_cause: "Restricted airflow - dirty filter"
 ---
 
 ## Bryant Furnace 33 Error Code — What It Means

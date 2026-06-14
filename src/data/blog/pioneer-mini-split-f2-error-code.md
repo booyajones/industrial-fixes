@@ -11,6 +11,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Outdoor coil thermistor / condenser pipe temperature sensor"
+most_likely_cause: "Failed outdoor thermistor"
 ---
 
 ## Pioneer Mini Split F2 Error Code — What It Means

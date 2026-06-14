@@ -10,6 +10,7 @@ tags:
   - water-heater
   - bosch
 money_part: "Ignition electrode and flame sensor assembly"
+most_likely_cause: "Insufficient gas supply pressure or closed shutoff valve"
 ---
 
 ## Bosch EA Error Code — What It Means

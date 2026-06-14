@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "GA800 Control Board"
+most_likely_cause: "Undocumented fault code"
 ---
 
 ## Yaskawa GA800 E02 Fault Code — What It Means

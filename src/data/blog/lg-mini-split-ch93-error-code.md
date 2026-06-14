@@ -11,6 +11,7 @@ tags:
   - mini-split
   - lg
 money_part: "Indoor/outdoor interconnect cable"
+most_likely_cause: "Outdoor unit without power"
 ---
 
 ## LG Mini Split CH93 Error Code — What It Means

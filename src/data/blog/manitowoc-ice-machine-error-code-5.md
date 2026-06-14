@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - manitowoc
 money_part: "High pressure cutout switch"
+most_likely_cause: "High pressure cutout tripped"
 ---
 
 ## Manitowoc Ice Machine Error Code 5 — What It Means

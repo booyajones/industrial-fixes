@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens MICROMASTER cooling fan"
+most_likely_cause: "Failed or non-running fan"
 ---
 
 ## Siemens Micromaster F0030 — What It Means

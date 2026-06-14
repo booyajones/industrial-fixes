@@ -10,6 +10,7 @@ tags:
   - boiler
   - navien
 money_part: "Igniter/electrode assembly"
+most_likely_cause: "Gas supply issue"
 ---
 
 ## Navien E002 Error Code — What It Means

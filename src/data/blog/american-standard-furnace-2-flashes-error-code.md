@@ -11,6 +11,7 @@ tags:
   - furnace
   - american-standard
 money_part: "Flame sensor"
+most_likely_cause: "Contaminated or failed flame sensor"
 ---
 
 ## American Standard Furnace 2 Flashes — What It Means

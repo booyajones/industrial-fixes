@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "KTY84 temperature sensor"
+most_likely_cause: "Blocked or restricted airflow"
 ---
 
 ## Siemens Micromaster F0004 — What It Means

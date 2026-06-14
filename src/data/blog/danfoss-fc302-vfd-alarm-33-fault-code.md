@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Danfoss FC302 precharge/inrush circuit board"
+most_likely_cause: "Repeated power cycling"
 ---
 
 ## Danfoss FC302 VFD Alarm 33 — What It Means

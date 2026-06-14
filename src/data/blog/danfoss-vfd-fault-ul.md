@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Drive belt (V-belt or synchronous)"
+most_likely_cause: "Broken or slipped drive belt"
 ---
 
 ## Danfoss VFD Fault UL — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - trane
 money_part: "Outdoor ambient temperature sensor (Trane OEM)"
+most_likely_cause: "Failed outdoor ambient sensor thermistor"
 ---
 
 ## Trane E19 Error Code — What It Means

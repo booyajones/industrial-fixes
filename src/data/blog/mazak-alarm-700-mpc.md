@@ -12,6 +12,7 @@ tags:
   - motion-control
   - controller
 money_part: "Cabinet cooling fan / filter"
+most_likely_cause: "Control communication fault between CNC boards"
 ---
 
 ## Mazak Alarm 700 — What It Means

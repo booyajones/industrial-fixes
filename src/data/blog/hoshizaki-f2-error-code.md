@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - hoshizaki
 money_part: "Bin thermostat"
+most_likely_cause: "Ice bridging over the bin sensor"
 ---
 
 ## Hoshizaki F2 Error Code — What It Means

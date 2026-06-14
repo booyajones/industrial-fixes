@@ -11,6 +11,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Low pressure switch"
+most_likely_cause: "Low refrigerant charge or leak"
 ---
 
 ## Daikin E04 Error Code — What It Means

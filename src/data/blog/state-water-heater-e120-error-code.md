@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state-water-heaters
 money_part: "Air intake screen assembly"
+most_likely_cause: "Blocked air intake or intake screen"
 ---
 
 ## State Water Heater E120 Error Code — What It Means

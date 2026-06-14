@@ -11,6 +11,7 @@ tags:
   - mini-split
   - trane
 money_part: "T5-B discharge temperature sensor"
+most_likely_cause: "Failed T5-B thermistor"
 ---
 
 ## Trane E8 Error Code — What It Means

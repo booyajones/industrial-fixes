@@ -10,6 +10,7 @@ tags:
   - boiler
   - weil-mclain
 money_part: "Supply thermistor (S1)"
+most_likely_cause: "Failed supply or return thermistor"
 ---
 
 ## Weil-McLain E04 Error Code — What It Means

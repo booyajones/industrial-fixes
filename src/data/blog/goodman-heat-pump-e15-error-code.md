@@ -11,6 +11,7 @@ tags:
   - mini-split
   - goodman
 money_part: "Goodman control board"
+most_likely_cause: "Misread display or transposed digits"
 ---
 
 ## Goodman Heat Pump E15 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - comfortmaker
 money_part: "Flame sensor rod"
+most_likely_cause: "Ignition failure lockout"
 ---
 
 ## Comfortmaker Furnace E1 Error Code — What It Means

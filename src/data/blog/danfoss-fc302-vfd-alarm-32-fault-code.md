@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Motor output cable (3-phase power cable)"
+most_likely_cause: "Loose or broken motor lead on phase W"
 ---
 
 ## Danfoss FC302 Alarm 32 — What It Means

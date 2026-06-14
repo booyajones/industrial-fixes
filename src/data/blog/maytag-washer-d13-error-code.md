@@ -12,6 +12,7 @@ tags:
   - maytag
 diy_or_pro: "diy"
 money_part: "Drain pump"
+most_likely_cause: "Misread or model-specific display code"
 ---
 
 ## Maytag Washer d13 Error Code — What It Means

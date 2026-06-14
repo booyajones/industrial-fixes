@@ -11,6 +11,7 @@ tags:
   - refrigerator
   - amana
 money_part: "Ice maker assembly"
+most_likely_cause: "Failed ice maker assembly or motor"
 ---
 
 ## Amana Refrigerator IT Error Code — What It Means

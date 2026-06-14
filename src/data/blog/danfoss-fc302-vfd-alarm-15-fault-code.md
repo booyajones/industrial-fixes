@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Danfoss FC 302 compatible option card"
+most_likely_cause: "Wrong or incompatible option card installed"
 ---
 
 ## Danfoss FC302 VFD ALARM 15 — What It Means

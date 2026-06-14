@@ -11,6 +11,7 @@ tags:
   - mini-split
   - goodman
 money_part: "Outdoor condenser coil"
+most_likely_cause: "Dirty or blocked outdoor coil"
 ---
 
 ## Goodman Heat Pump E6 Error Code — What It Means

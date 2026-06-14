@@ -10,6 +10,7 @@ tags:
   - cnc
   - fanuc
 money_part: "No parts typically required"
+most_likely_cause: "Tool change or ATC sequence positioned axis into forbidden zone"
 ---
 
 ## Fanuc Alarm 5 — What It Means

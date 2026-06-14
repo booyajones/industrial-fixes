@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "Fieldbus communication cable"
+most_likely_cause: "Wrong control source or protocol setting"
 ---
 
 ## ABB ACS550 EFB 2 Fault — What It Means

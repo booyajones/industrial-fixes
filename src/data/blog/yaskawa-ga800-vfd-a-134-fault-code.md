@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 option card (communication or I/O module)"
+most_likely_cause: "Option card not seated or incompatible"
 diy_or_pro: "pro"
 ---
 

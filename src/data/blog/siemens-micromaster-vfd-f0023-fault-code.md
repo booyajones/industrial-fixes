@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Motor cable (shielded, 600V rated, three-conductor plus ground)"
+most_likely_cause: "Loose or open motor lead at the drive terminals"
 ---
 
 ## Siemens Micromaster F0023 — What It Means

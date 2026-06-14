@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Motor power cable (armored or shielded VFD-rated)"
+most_likely_cause: "Motor cable short circuit or ground fault"
 ---
 
 ## Siemens Micromaster F0001 — What It Means

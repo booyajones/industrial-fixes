@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Service manual for your exact Fujitsu model"
+most_likely_cause: "Incorrect code transcription"
 ---
 
 ## Fujitsu E:49 Error Code — What It Means

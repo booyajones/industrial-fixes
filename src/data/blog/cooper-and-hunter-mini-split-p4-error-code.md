@@ -11,6 +11,7 @@ tags:
   - mini-split
   - cooper-and-hunter
 money_part: "IPM inverter power module"
+most_likely_cause: "Wiring mistakes or loose connections"
 ---
 
 ## Cooper & Hunter Mini Split P4 Error — What It Means

@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - maytag
 money_part: "Dishwasher thermistor / temperature sensor"
+most_likely_cause: "Failed thermistor or temperature sensor"
 ---
 
 ## Maytag Dishwasher F3E2 Error Code — What It Means

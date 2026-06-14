@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Motor cable (three-phase shielded)"
+most_likely_cause: "Shorted motor cable"
 ---
 
 ## Danfoss FC302 VFD Alarm 16 — What It Means

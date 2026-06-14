@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Temperature sensor / thermistor"
+most_likely_cause: "Scale and mineral buildup on heat-transfer surfaces"
 ---
 
 ## State Water Heater E80 Error Code — What It Means

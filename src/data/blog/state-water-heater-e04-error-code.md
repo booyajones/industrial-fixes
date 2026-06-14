@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Water heater thermistor / temperature sensor"
+most_likely_cause: "Failed thermistor or temperature sensor"
 ---
 
 ## State Water Heater E04 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - senville
 money_part: "T2 indoor coil pipe temperature sensor (TS05-IDU for AURA series)"
+most_likely_cause: "Failed T2 thermistor"
 ---
 
 ## Senville Mini Split EH 61 Error Code — What It Means

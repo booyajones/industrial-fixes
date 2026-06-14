@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Input fuses (semiconductor)"
+most_likely_cause: "Low or missing input supply voltage"
 ---
 
 ## Yaskawa GA700 Fault UV1 — What It Means

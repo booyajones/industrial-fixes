@@ -10,6 +10,7 @@ tags:
   - hvac
   - mitsubishi
 money_part: "Refrigerant (R-410A or R-32)"
+most_likely_cause: "Service valves not fully open"
 ---
 
 ## Mitsubishi U3 Error Code — What It Means

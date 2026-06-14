@@ -10,6 +10,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Indoor ambient (room) thermistor"
+most_likely_cause: "Disconnected thermistor connector"
 ---
 
 ## Pioneer Mini Split Error Code F1 — What It Means

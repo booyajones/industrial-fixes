@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "ACS580 control board assembly"
+most_likely_cause: "Internal software fault in STO diagnostics"
 ---
 
 ## ABB ACS580 FF63 — What It Means

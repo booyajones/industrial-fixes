@@ -10,6 +10,7 @@ tags:
   - cnc
   - fanuc
 money_part: "Overtravel limit switch"
+most_likely_cause: "Reference (home) cycle overrun"
 ---
 
 ## Fanuc Alarm 3 — Overtravel Minus: What It Means

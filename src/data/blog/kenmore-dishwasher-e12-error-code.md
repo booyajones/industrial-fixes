@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - kenmore
 money_part: "Dishwasher descaling cleaner"
+most_likely_cause: "Hard water mineral deposits"
 ---
 
 ## Kenmore Dishwasher E12 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Hot-surface igniter"
+most_likely_cause: "Insufficient gas supply or pressure"
 ---
 
 ## State Water Heater E107 Error Code — What It Means

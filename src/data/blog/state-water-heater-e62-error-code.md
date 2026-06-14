@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state-water-heaters
 money_part: "Flame sensor / flame rod"
+most_likely_cause: "Blocked air intake or exhaust vent"
 ---
 
 ## State Water Heater E62 Error Code — What It Means

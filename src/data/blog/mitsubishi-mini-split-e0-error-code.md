@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi-electric
 money_part: "Mitsubishi remote controller"
+most_likely_cause: "Miswired or loose communication wiring"
 ---
 
 ## Mitsubishi Mini Split E0 Error Code — What It Means

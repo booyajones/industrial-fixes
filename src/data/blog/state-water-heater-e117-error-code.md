@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Electronic Thermostat (ET) for State Water Heater"
+most_likely_cause: "Model-specific fault not in general documentation"
 ---
 
 ## State Water Heater E117 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - tempstar
 money_part: "High-limit switch"
+most_likely_cause: "Restricted airflow from a dirty filter"
 ---
 
 ## Tempstar Furnace E4 Error Code — What It Means

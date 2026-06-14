@@ -11,6 +11,12 @@ tags:
   - dryer
   - frigidaire
 money_part: "Heating element assembly"
+free_checks:
+  - "Verify dryer is on Timed Dry cycle (AL 07 only appears in Auto Dry when heating element fails)"
+  - "Check for 240V at outlet with multimeter; confirm both legs present and breaker fully seated"
+  - "Inspect wire harness connectors at heating element housing for corrosion or looseness"
+part_price: "$35-75"
+most_likely_cause: "Failed or grounded heating element"
 ---
 
 ## Frigidaire Dryer AL-07 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Control board (model-specific)"
+most_likely_cause: "Misread or transposed code"
 ---
 
 ## State Water Heater E57 Error Code — What It Means

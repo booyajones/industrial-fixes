@@ -12,6 +12,7 @@ tags:
   - whirlpool
 diy_or_pro: "diy"
 money_part: "Whirlpool oven user interface / keypad assembly"
+most_likely_cause: "Misread or transient display fault"
 part_price: "$40-150"
 ---
 

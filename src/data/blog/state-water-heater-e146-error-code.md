@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "State water heater control board"
+most_likely_cause: "Model-specific fault definition"
 ---
 
 ## State Water Heater E146 Error Code — What It Means

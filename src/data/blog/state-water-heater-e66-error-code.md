@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Bypass Water Servo"
+most_likely_cause: "Loose or disconnected bypass servo plug"
 ---
 
 ## State Water Heater E66 Error — What It Means

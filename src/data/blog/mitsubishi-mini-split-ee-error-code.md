@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Indoor/outdoor interconnect control harness"
+most_likely_cause: "Damaged or miswired interconnect cable"
 ---
 
 ## Mitsubishi Mini Split EE Error Code — What It Means

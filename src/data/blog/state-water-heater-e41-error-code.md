@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Water temperature sensor (thermistor)"
+most_likely_cause: "Failed water temperature sensor"
 ---
 
 ## State Water Heater E41 Error Code — What It Means

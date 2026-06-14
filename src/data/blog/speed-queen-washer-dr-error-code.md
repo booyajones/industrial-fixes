@@ -11,6 +11,7 @@ tags:
   - washer
   - speed-queen
 money_part: "Speed Queen drain pump"
+most_likely_cause: "Clogged drain filter or foreign-object trap"
 ---
 
 ## Speed Queen Washer DR Error Code — What It Means

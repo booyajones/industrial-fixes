@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ecosmart
 money_part: "EcoSmart inlet thermistor"
+most_likely_cause: "Failed or disconnected thermistor"
 ---
 
 ## EcoSmart ECO 24 Error Codes — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Couplings, belts, or bearings"
+most_likely_cause: "Mechanical overload or binding"
 ---
 
 ## Yaskawa GA800 E11 Error Code — What It Means

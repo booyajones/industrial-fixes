@@ -11,6 +11,7 @@ tags:
   - mini-split
   - lg
 money_part: "LG outdoor fan motor"
+most_likely_cause: "Seized or jammed outdoor fan"
 ---
 
 ## LG Mini Split CH90 Error Code — What It Means

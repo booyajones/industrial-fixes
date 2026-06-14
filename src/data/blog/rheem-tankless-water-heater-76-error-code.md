@@ -10,6 +10,7 @@ tags:
   - water-heater
   - rheem
 money_part: "Rheem tankless remote control"
+most_likely_cause: "Faulty remote control"
 ---
 
 ## Rheem Tankless Water Heater Error 76 — What It Means

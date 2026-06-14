@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Motor thermistor (PTC sensor)"
+most_likely_cause: "Motor actually overheated"
 ---
 
 ## Yaskawa GA800 E03 Fault — What It Means

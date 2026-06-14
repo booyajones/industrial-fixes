@@ -10,6 +10,7 @@ tags:
   - water-heater
   - navien
 money_part: "Navien inlet water filter / screen"
+most_likely_cause: "Closed or partially closed isolation valve"
 ---
 
 ## Navien E002 Error Code — What It Means

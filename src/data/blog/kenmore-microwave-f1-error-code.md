@@ -11,6 +11,7 @@ tags:
   - microwave
   - kenmore
 money_part: "Microwave thermistor"
+most_likely_cause: "Open or failed thermistor"
 ---
 
 ## Kenmore Microwave F1 Error — What It Means

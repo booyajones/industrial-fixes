@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Tankless water heater descaling kit"
+most_likely_cause: "Scale accumulation in heat exchanger"
 ---
 
 ## State Tankless Water Heater LC Error Code — What It Means

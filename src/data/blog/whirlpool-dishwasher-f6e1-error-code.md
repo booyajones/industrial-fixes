@@ -12,6 +12,7 @@ tags:
   - whirlpool
 diy_or_pro: "diy"
 money_part: "Door latch assembly"
+most_likely_cause: "Door latch or switch fault"
 part_price: "$30-120"
 ---
 

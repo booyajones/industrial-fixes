@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens Micromaster replacement drive (same model and frame size)"
+most_likely_cause: "Corrupted EEPROM data"
 ---
 
 ## Siemens Micromaster F0051 — What It Means

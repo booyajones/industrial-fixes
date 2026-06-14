@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Danfoss VLT FC 302 cooling fan assembly"
+most_likely_cause: "Blocked or failed cooling fans"
 ---
 
 ## Danfoss FC302 VFD Alarm 29 — What It Means

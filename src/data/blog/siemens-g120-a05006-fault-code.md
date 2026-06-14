@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "G120 power unit cooling fan"
+most_likely_cause: "Sustained overload or high load cycle"
 ---
 
 ## Siemens G120 A05006 — What It Means

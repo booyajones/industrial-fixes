@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Gree outdoor ambient temperature sensor / thermistor"
+most_likely_cause: "Loose or corroded sensor connector"
 ---
 
 ## Gree F3 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Thermocouple or flame sensor"
+most_likely_cause: "Model-specific code definition missing"
 ---
 
 ## State Water Heater E174 Error Code — What It Means

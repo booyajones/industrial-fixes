@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ecosmart
 money_part: "Inlet thermistor"
+most_likely_cause: "Inlet thermistor fault (E1)"
 ---
 
 ## EcoSmart ECO31 Error Codes — What It Means

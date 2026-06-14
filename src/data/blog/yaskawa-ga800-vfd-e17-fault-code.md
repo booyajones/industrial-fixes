@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 option/communication card"
+most_likely_cause: "External stop or interlock circuit opened"
 ---
 
 ## Yaskawa GA800 E17 Fault — What It Means

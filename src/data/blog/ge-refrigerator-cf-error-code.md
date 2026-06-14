@@ -12,6 +12,7 @@ tags:
   - ge
 diy_or_pro: "diy"
 money_part: "GE refrigerator main control board"
+most_likely_cause: "Misread display"
 ---
 
 ## GE Refrigerator CF Error Code — What It Means

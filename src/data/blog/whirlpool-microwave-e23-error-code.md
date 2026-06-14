@@ -12,6 +12,7 @@ tags:
   - whirlpool
 diy_or_pro: "pro"
 money_part: "Microwave cavity temperature sensor"
+most_likely_cause: "Model-specific sensor or thermistor fault"
 ---
 
 ## Whirlpool Microwave E23 Error Code — What It Means

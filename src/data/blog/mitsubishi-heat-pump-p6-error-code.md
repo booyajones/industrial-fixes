@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Indoor air filter (Mitsubishi OEM or compatible)"
+most_likely_cause: "Dirty or clogged air filter"
 ---
 
 ## Mitsubishi P6 Error Code — What It Means

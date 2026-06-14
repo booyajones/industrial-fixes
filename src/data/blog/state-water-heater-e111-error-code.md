@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Ignition transformer / igniter assembly"
+most_likely_cause: "Low gas supply or delivery problem"
 ---
 
 ## State Water Heater E111 Error Code — What It Means

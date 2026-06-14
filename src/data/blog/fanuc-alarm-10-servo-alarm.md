@@ -10,6 +10,7 @@ tags:
   - cnc
   - fanuc
 money_part: "Fanuc servo amplifier (alpha-i or beta-i series)"
+most_likely_cause: "Servo amplifier fault"
 ---
 
 ## Fanuc Alarm 10 Servo Alarm — What It Means

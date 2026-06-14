@@ -11,6 +11,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Indoor heat exchanger temperature sensor (thermistor)"
+most_likely_cause: "Failed thermistor"
 ---
 
 ## Daikin C4 Error Code — What It Means

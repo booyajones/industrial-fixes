@@ -10,6 +10,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Start capacitor (outdoor unit)"
+most_likely_cause: "Low utility supply voltage"
 ---
 
 ## Daikin U2 Error Code — What It Means

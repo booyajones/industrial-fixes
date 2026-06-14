@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - samsung
 most_likely_cause: "Closed or partially closed house shutoff valve, or clogged inlet filter screen"
+free_checks:
+  - "Check inlet hoses for kinks and verify supply valves are fully open"
+  - "Clean inlet hose mesh screens at valve connection points"
+  - "Verify minimum 20 psi water pressure and check for drain hose siphoning"
+no_buy_pct: "60%"
 likelihood: "the most common real-world causes"
 diy_or_pro: "diy"
 money_part: "Water inlet valve (Samsung dishwasher)"

@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - nor-lake
 money_part: "NTC temperature sensor"
+most_likely_cause: "Failed NTC thermistor"
 ---
 
 ## Nor-Lake Refrigerator Error Code E1 — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - allen-bradley
 money_part: "Terminal block wire (18–22 AWG)"
+most_likely_cause: "External safety device open"
 ---
 
 ## Allen-Bradley PowerFlex Fault F002 — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - lg
 money_part: "Indoor unit outlet pipe temperature sensor (thermistor)"
+most_likely_cause: "Loose or unplugged sensor connector"
 ---
 
 ## LG Mini Split CH06 Error Code — What It Means

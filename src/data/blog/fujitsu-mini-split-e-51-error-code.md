@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Indoor fan motor"
+most_likely_cause: "Loose or disconnected fan motor connector"
 ---
 
 ## Fujitsu E:51 Error Code — What It Means

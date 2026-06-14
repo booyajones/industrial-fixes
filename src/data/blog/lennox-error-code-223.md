@@ -10,6 +10,7 @@ tags:
   - hvac
   - lennox
 money_part: "Induced draft motor"
+most_likely_cause: "Inducer motor failure"
 ---
 
 ## Lennox Error Code 223 — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
 money_part: "Hot surface igniter"
+most_likely_cause: "Failed hot surface igniter"
 ---
 
 ## Carrier 44 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - boiler
   - weil-mclain
 money_part: "Circulator pump"
+most_likely_cause: "No circulation / failed circulator pump"
 ---
 
 ## Weil-McLain E02 Error Code — What It Means

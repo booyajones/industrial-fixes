@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Indoor unit control board (PCB)"
+most_likely_cause: "Loose or corroded terminal connections"
 ---
 
 ## Mitsubishi E7 Error Code — What It Means

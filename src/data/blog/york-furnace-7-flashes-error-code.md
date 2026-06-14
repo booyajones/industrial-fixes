@@ -11,6 +11,7 @@ tags:
   - furnace
   - york
 money_part: "Flame sensor rod (York OEM or universal)"
+most_likely_cause: "Dirty or oxidized flame sensor"
 ---
 
 ## York Furnace 7 Flashes — What It Means

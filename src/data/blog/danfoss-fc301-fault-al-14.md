@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Motor output cable"
+most_likely_cause: "Motor insulation failure"
 ---
 
 ## Danfoss FC301 Fault AL 14 — What It Means

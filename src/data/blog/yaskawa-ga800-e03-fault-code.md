@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "External fault relay or safety interlock"
+most_likely_cause: "External interlock or safety device has tripped."
 ---
 
 ## Yaskawa GA800 E03 Fault Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - dryer
   - frigidaire
 money_part: "Main Electronic Control Board"
+most_likely_cause: "Transient control board fault"
 ---
 
 ## Frigidaire Dryer AL-10 Error Code — What It Means

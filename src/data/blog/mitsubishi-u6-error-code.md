@@ -10,6 +10,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Outdoor coil thermistor"
+most_likely_cause: "Failed outdoor coil thermistor"
 ---
 
 ## Mitsubishi U6 Error Code — What It Means

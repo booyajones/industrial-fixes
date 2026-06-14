@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "TH5 pipe thermistor (Mitsubishi indoor unit)"
+most_likely_cause: "Failed TH5 thermistor"
 ---
 
 ## Mitsubishi P9 Error Code — What It Means

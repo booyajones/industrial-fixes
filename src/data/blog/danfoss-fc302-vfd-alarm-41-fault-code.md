@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Replacement wiring harness or terminal block connector"
+most_likely_cause: "Excessive current draw from connected load"
 ---
 
 ## Danfoss FC302 VFD Alarm 41 — What It Means

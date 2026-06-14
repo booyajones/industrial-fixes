@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Outdoor pipe thermistor sensor"
+most_likely_cause: "Disconnected or loose sensor connector"
 ---
 
 ## Fujitsu E:06 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Temperature sensor or thermistor"
+most_likely_cause: "Sensor or probe failure"
 ---
 
 ## State Water Heater E116 Error Code — What It Means

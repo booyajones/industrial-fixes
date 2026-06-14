@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - scotsman
 money_part: "Water inlet valve"
+most_likely_cause: "Closed or restricted water supply"
 ---
 
 ## Scotsman Ice Machine Error Code 7 — What It Means

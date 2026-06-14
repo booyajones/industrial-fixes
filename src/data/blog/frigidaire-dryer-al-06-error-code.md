@@ -11,6 +11,7 @@ tags:
   - dryer
   - frigidaire
 money_part: "Thermal switch (heater safety)"
+most_likely_cause: "Failed thermal switch or thermal fuse"
 ---
 
 ## Frigidaire Dryer AL-06 Error Code — What It Means

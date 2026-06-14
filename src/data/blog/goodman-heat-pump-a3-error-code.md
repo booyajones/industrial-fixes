@@ -11,6 +11,7 @@ tags:
   - mini-split
   - goodman
 money_part: "Temperature sensor / thermistor"
+most_likely_cause: "Loose or disconnected sensor plug"
 ---
 
 ## Goodman A3 Error Code — What It Means

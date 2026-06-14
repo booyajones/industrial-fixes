@@ -10,6 +10,7 @@ tags:
   - mini-split
   - samsung
 money_part: "Samsung indoor temperature sensor (TA)"
+most_likely_cause: "Failed room temperature thermistor (TA sensor)"
 ---
 
 ## Samsung Mini Split E4-01 Error Code — What It Means

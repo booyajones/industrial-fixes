@@ -11,6 +11,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Indoor suction air thermistor"
+most_likely_cause: "Failed thermistor"
 ---
 
 ## Daikin C9 Error Code — What It Means

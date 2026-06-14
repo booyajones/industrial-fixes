@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - amana
 money_part: "Amana dishwasher door latch assembly"
+most_likely_cause: "Temporary control glitch"
 diy_or_pro: "diy"
 ---
 

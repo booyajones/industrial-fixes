@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Ignition transformer or igniter assembly"
+most_likely_cause: "Blocked or restricted air intake or exhaust vent"
 ---
 
 ## State Tankless Water Heater E11 Error Code — What It Means

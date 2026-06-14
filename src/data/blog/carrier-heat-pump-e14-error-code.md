@@ -11,6 +11,7 @@ tags:
   - mini-split
   - carrier
 money_part: "Tank temperature sensor / thermistor"
+most_likely_cause: "Loose or disconnected sensor plug"
 ---
 
 ## Carrier Heat Pump E14 Error Code — What It Means

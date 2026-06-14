@@ -11,6 +11,7 @@ tags:
   - yaskawa
 diy_or_pro: "pro"
 money_part: "Yaskawa GA800 cooling fan"
+most_likely_cause: "Misread or ambiguous display"
 ---
 
 ## Yaskawa GA800 E62 Fault — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Brake resistor (Danfoss compatible, match your drive's rating)"
+most_likely_cause: "Failed brake resistor with internal short"
 ---
 
 ## Danfoss FC302 Alarm 25 — What It Means

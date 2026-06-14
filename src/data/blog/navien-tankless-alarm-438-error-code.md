@@ -10,6 +10,7 @@ tags:
   - water-heater
   - navien
 money_part: "Navien circulation pump"
+most_likely_cause: "Closed or restricted return line"
 ---
 
 ## Navien Alarm 438 — What It Means

@@ -10,6 +10,7 @@ tags:
   - welding
   - lincoln-electric
 money_part: "Input contactor"
+most_likely_cause: "Failed input contactor coil"
 ---
 
 ## Lincoln Electric E12 Error Code — What It Means

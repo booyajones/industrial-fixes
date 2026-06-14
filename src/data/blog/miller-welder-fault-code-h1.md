@@ -10,6 +10,7 @@ tags:
   - welding
   - miller
 money_part: "Cooling fan assembly"
+most_likely_cause: "Duty cycle exceeded"
 ---
 
 ## Miller Welder H1 Fault Code — What It Means

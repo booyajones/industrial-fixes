@@ -10,6 +10,7 @@ tags:
   - vfd
   - mitsubishi
 money_part: "Braking resistor"
+most_likely_cause: "Failed braking transistor"
 ---
 
 ## Mitsubishi FR-E800 Fault E6 — What It Means

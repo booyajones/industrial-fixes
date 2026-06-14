@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Outdoor unit control board (PCB)"
+most_likely_cause: "Outdoor PCB or inverter board failure"
 ---
 
 ## Mitsubishi PL Error Code — What It Means

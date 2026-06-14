@@ -11,6 +11,7 @@ tags:
   - mini-split
   - goodman
 money_part: "Indoor blower motor assembly"
+most_likely_cause: "Equipment mismatch between outdoor and indoor units"
 ---
 
 ## Goodman D2 Error Code — What It Means

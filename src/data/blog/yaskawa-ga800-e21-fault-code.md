@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Encoder feedback cable"
+most_likely_cause: "Incorrect motor wiring"
 ---
 
 ## Yaskawa GA800 E21 Fault — What It Means

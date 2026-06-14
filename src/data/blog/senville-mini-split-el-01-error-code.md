@@ -11,6 +11,7 @@ tags:
   - mini-split
   - senville
 money_part: "Indoor control board (PCB)"
+most_likely_cause: "Loose or miswired interconnect terminals"
 ---
 
 ## Senville Mini Split EL 01 Error Code — What It Means

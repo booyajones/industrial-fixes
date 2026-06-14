@@ -10,6 +10,7 @@ tags:
   - cnc
   - mazak
 money_part: "Servo amplifier module"
+most_likely_cause: "Servo amplifier internal fault"
 ---
 
 ## Mazak Alarm 1 Servo Alarm — What It Means

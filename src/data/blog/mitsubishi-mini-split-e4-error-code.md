@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Indoor room temperature sensor (thermistor)"
+most_likely_cause: "Failed indoor fan motor or feedback circuit"
 ---
 
 ## Mitsubishi Mini Split E4 Error — What It Means

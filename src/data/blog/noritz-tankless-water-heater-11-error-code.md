@@ -10,6 +10,7 @@ tags:
   - water-heater
   - noritz
 money_part: "Ignition rod electrode assembly"
+most_likely_cause: "No or weak spark at the ignition rod"
 ---
 
 ## Noritz Error Code 11 — What It Means

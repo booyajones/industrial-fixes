@@ -11,6 +11,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Four-way reversing valve"
+most_likely_cause: "Reversing valve stuck or mechanically defective"
 ---
 
 ## Daikin EA Error Code — What It Means

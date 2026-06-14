@@ -11,6 +11,7 @@ tags:
   - mini-split
   - lg
 money_part: "LG mini split condensate pump"
+most_likely_cause: "Blocked drain line or pan"
 ---
 
 ## LG Mini Split CH04 Error Code — What It Means

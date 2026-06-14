@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens G120 Control Unit (CU) matching installed MLFB"
+most_likely_cause: "Wrong hardware selected during commissioning"
 ---
 
 ## Siemens G120 A01028 Fault — What It Means

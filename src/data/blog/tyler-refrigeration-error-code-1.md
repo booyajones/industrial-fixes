@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - tyler
 money_part: "Evaporator fan motor"
+most_likely_cause: "Refrigeration system failure"
 ---
 
 ## Tyler Refrigeration Error Code 1 — What It Means

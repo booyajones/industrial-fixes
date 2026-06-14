@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Inlet water filter (State/A. O. Smith tankless)"
+most_likely_cause: "Blocked air intake screen"
 ---
 
 ## State Water Heater E106 Error Code — What It Means

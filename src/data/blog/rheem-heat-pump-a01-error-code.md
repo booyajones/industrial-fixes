@@ -11,6 +11,7 @@ tags:
   - mini-split
   - rheem
 money_part: "Hot surface igniter"
+most_likely_cause: "No gas supply or closed valve"
 ---
 
 ## Rheem A01 Error Code — What It Means

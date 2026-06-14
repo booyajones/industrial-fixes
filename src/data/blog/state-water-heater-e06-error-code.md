@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Outlet Temperature Sensor (Thermistor)"
+most_likely_cause: "Outlet water exceeds the high-limit threshold"
 ---
 
 ## State Water Heater E06 Error Code — What It Means

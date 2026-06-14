@@ -10,6 +10,7 @@ tags:
   - cnc
   - mazak
 money_part: "Spindle drive cooling fan"
+most_likely_cause: "Spindle drive overtemperature"
 ---
 
 ## Mazak Alarm 100 — What It Means

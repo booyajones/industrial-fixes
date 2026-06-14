@@ -11,6 +11,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Outdoor main control board (PCB)"
+most_likely_cause: "Low or missing supply voltage"
 ---
 
 ## Daikin U2 Error Code — What It Means

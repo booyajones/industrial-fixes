@@ -10,6 +10,7 @@ tags:
   - cnc
   - num
 money_part: "Encoder or linear scale read head"
+most_likely_cause: "Mechanical binding or collision"
 ---
 
 ## NUM CNC Alarm E27 — What It Means

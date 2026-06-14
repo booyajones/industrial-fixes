@@ -11,6 +11,7 @@ tags:
   - mini-split
   - goodman
 money_part: "Goodman Integrated Control Module (communicating system)"
+most_likely_cause: "Incompatible or corrupt shared data"
 ---
 
 ## Goodman D1 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - carrier
 money_part: "Carrier outdoor control board / power board"
+most_likely_cause: "Loose or damaged communication wiring"
 ---
 
 ## Carrier E20 Error Code — What It Means

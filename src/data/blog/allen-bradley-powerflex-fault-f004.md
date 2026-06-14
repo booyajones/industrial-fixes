@@ -10,6 +10,7 @@ tags:
   - vfd
   - allen-bradley
 money_part: "Input fuses (class J or CC)"
+most_likely_cause: "Low AC input voltage"
 ---
 
 ## Allen-Bradley PowerFlex Fault F004 — What It Means

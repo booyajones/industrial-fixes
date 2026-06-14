@@ -10,6 +10,7 @@ tags:
   - hvac
   - gibson
 money_part: "Pressure switch hose"
+most_likely_cause: "Kinked or blocked pressure switch hose"
 ---
 
 ## Gibson Furnace E1 Error Code — What It Means

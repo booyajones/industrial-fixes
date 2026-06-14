@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state-water-heaters
 money_part: "Inlet water filter or screen"
+most_likely_cause: "Interrupted or inadequate gas supply"
 ---
 
 ## State Water Heater E161 Error Code — What It Means

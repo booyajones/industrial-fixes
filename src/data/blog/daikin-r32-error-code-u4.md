@@ -10,6 +10,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Outdoor inverter PCB"
+most_likely_cause: "Loose S (signal) wire at terminal block"
 ---
 
 ## Daikin R-32 U4 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Air Intake Filter or Screen"
+most_likely_cause: "Blocked or dirty air intake"
 ---
 
 ## State Water Heater E20 Error Code — What It Means

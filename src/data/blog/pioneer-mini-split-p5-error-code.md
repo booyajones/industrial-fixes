@@ -11,6 +11,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Indoor pipe temperature sensor (thermistor)"
+most_likely_cause: "Dirty or blocked indoor evaporator coil"
 ---
 
 ## Pioneer P5 Error Code — What It Means

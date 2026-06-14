@@ -10,6 +10,7 @@ tags:
   - mini-split
   - gree
 money_part: "Condenser fan capacitor"
+most_likely_cause: "Dirty or blocked outdoor condenser coil"
 ---
 
 ## Gree Mini Split E1 Error Code — What It Means

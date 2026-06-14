@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Motor (rewound or replacement)"
+most_likely_cause: "Deteriorated motor winding insulation"
 ---
 
 ## Danfoss VFD Fault AL 14 — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Daikin discharge pipe thermistor"
+most_likely_cause: "Low refrigerant charge or refrigerant leak"
 ---
 
 ## Daikin F3 Error Code — What It Means

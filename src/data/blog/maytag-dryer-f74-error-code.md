@@ -11,6 +11,7 @@ tags:
   - dryer
   - maytag
 money_part: "Main control board (electronic control)"
+most_likely_cause: "Misread or transient display fault"
 ---
 
 ## Maytag Dryer F74 Error Code — What It Means

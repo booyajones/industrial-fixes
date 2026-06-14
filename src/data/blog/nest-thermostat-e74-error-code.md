@@ -10,6 +10,7 @@ tags:
   - hvac
   - nest
 money_part: "HVAC control board fuse (3-amp standard blade)"
+most_likely_cause: "Tripped breaker or turned-off service switch"
 ---
 
 ## Nest Thermostat E74 Error — What It Means

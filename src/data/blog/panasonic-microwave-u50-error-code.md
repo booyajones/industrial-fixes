@@ -11,6 +11,7 @@ tags:
   - microwave
   - panasonic
 money_part: "Cooling fan motor (model-specific)"
+most_likely_cause: "Excessive back-to-back operation"
 ---
 
 ## Panasonic Microwave U50 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - kenmore
 money_part: "User interface control board"
+most_likely_cause: "Loose or corroded wiring connectors"
 ---
 
 ## Kenmore Dishwasher F2E2 Error — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Motor (oversized replacement)"
+most_likely_cause: "Mechanical overload"
 ---
 
 ## Danfoss VFD Fault OCL — What It Means

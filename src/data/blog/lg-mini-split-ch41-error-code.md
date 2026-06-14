@@ -11,6 +11,7 @@ tags:
   - mini-split
   - lg
 money_part: "LG mini split discharge temperature sensor"
+most_likely_cause: "Failed discharge sensor thermistor"
 ---
 
 ## LG Mini Split CH41 Error Code — What It Means

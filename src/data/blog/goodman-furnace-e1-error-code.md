@@ -10,6 +10,7 @@ tags:
   - hvac
   - goodman
 money_part: "Pressure switch"
+most_likely_cause: "Blocked condensate drain"
 ---
 
 ## Goodman Furnace E1 Error Code — What It Means

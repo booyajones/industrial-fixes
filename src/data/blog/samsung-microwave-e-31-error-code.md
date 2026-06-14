@@ -11,6 +11,7 @@ tags:
   - microwave
   - samsung
 money_part: "Gas sensor assembly"
+most_likely_cause: "Unplugged or loose sensor connector"
 ---
 
 ## Samsung Microwave E-31 Error — What It Means

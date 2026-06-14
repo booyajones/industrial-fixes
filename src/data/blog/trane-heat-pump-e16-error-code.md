@@ -11,6 +11,7 @@ tags:
   - mini-split
   - trane
 money_part: "Thermistor / Temperature Sensor"
+most_likely_cause: "Low refrigerant charge or leak"
 ---
 
 ## Trane E16 Error Code — What It Means

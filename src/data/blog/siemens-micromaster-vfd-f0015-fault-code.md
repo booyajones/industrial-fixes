@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Motor PTC temperature sensor"
+most_likely_cause: "Broken or open circuit in sensor wiring"
 ---
 
 ## Siemens Micromaster F0015 — What It Means

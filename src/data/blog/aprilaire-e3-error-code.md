@@ -10,6 +10,7 @@ tags:
   - hvac
   - aprilaire
 money_part: "Aprilaire outdoor temperature sensor"
+most_likely_cause: "Wrong control configuration (dehumidifier)"
 ---
 
 ## Aprilaire E3 Error Code — What It Means

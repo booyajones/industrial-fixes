@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Outdoor unit main control board (PCB)"
+most_likely_cause: "Low or unstable supply voltage"
 ---
 
 ## Gree HC Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "No parts typically needed"
+most_likely_cause: "Baseblock input signal stuck active"
 ---
 
 ## Yaskawa VFD Fault BB — What It Means

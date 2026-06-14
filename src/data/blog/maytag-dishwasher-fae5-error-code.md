@@ -12,6 +12,7 @@ tags:
   - maytag
 diy_or_pro: "pro"
 money_part: "Water inlet valve"
+most_likely_cause: "Flood switch or base pan float triggered"
 ---
 
 ## Maytag Dishwasher FAE5 Error Code — What It Means

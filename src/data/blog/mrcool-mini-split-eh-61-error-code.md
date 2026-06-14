@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mrcool
 money_part: "MRCOOL T2 evaporator coil temperature sensor"
+most_likely_cause: "Disconnected or loose sensor connector"
 ---
 
 ## MRCOOL EH 61 Error Code — What It Means

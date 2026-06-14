@@ -11,6 +11,7 @@ tags:
   - dryer
   - amana
 money_part: "User interface control board (console assembly)"
+most_likely_cause: "Stuck or failed button on the console"
 ---
 
 ## Amana Dryer F2E1 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - yaskawa
 diy_or_pro: "pro"
 money_part: "GA800 control board (PCB)"
+most_likely_cause: "Misread or mistyped fault code"
 ---
 
 ## Yaskawa GA800 E39 Fault — What It Means

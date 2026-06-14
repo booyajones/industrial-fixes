@@ -12,6 +12,7 @@ tags:
   - maytag
 diy_or_pro: "diy"
 money_part: "Main control board (electronic control board)"
+most_likely_cause: "Power surge or brownout"
 part_price: "$80-250"
 ---
 

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Outdoor unit thermistor sensor"
+most_likely_cause: "Failed outdoor thermistor"
 ---
 
 ## Mitsubishi U4 Error Code — What It Means

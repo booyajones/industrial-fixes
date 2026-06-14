@@ -10,6 +10,7 @@ tags:
   - vfd
   - mitsubishi
 money_part: "Control PCB (FR-A800)"
+most_likely_cause: "Control power supply instability"
 ---
 
 ## Mitsubishi FR-A800 Fault E7 — What It Means

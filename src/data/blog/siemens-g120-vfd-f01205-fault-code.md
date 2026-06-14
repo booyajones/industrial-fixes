@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "SINAMICS G120 Control Unit (CU)"
+most_likely_cause: "Internal firmware or CPU overload"
 ---
 
 ## Siemens G120 F01205 — What It Means

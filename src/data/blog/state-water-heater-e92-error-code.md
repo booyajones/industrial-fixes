@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Flame sensor rod"
+most_likely_cause: "Blocked air intake screens"
 ---
 
 ## State Water Heater E92 Error Code — What It Means

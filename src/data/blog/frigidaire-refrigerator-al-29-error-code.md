@@ -11,6 +11,7 @@ tags:
   - refrigerator
   - frigidaire
 money_part: "Frigidaire refrigerator door gasket"
+most_likely_cause: "Door left open or not fully closed"
 ---
 
 ## Frigidaire AL-29 Error Code — What It Means

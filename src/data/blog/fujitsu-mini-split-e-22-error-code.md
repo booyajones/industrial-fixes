@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Fujitsu return-air thermistor / indoor air sensor"
+most_likely_cause: "Open or failed return-air thermistor"
 ---
 
 ## Fujitsu E:22 Error Code — What It Means

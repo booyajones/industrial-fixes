@@ -11,6 +11,7 @@ tags:
   - microwave
   - whirlpool
 money_part: "Whirlpool microwave main control board"
+most_likely_cause: "Power surge or electrical transient"
 ---
 
 ## Whirlpool Microwave E61 Error Code — What It Means

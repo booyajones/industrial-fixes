@@ -10,6 +10,7 @@ tags:
   - hvac
   - coleman
 money_part: "Pressure switch"
+most_likely_cause: "Blocked flue or intake pipe"
 ---
 
 ## Coleman Furnace E2 Error Code — What It Means

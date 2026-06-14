@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ruud
 money_part: "Flame rod"
+most_likely_cause: "Dirty or fouled flame rod or igniter"
 ---
 
 ## Ruud E11 Error Code — What It Means

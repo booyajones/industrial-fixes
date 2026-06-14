@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
 money_part: "Communicating adapter board / indoor interface PCB"
+most_likely_cause: "Loose or poorly seated wiring connections"
 ---
 
 ## Carrier Error Code 16 — What It Means

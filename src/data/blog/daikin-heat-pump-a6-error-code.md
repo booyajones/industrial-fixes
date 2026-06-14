@@ -11,6 +11,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Daikin indoor fan motor / blower motor assembly"
+most_likely_cause: "Broken wires or disconnected connectors"
 ---
 
 ## Daikin A6 Error Code — What It Means

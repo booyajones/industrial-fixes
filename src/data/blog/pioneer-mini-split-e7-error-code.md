@@ -11,6 +11,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Pioneer indoor or outdoor control board / PCB"
+most_likely_cause: "Mode conflict on multi-zone systems"
 ---
 
 ## Pioneer Mini-Split E7 Error Code — What It Means

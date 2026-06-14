@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Replacement external fault device (relay, switch, or interlock)"
+most_likely_cause: "Digital input configured for external fault is active"
 ---
 
 ## Siemens Micromaster F0085 — What It Means

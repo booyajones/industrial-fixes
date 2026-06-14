@@ -10,6 +10,7 @@ tags:
   - cnc
   - haas
 money_part: "Spindle belt"
+most_likely_cause: "Spindle motor overload or overcurrent"
 ---
 
 ## Haas Alarm 119 — What It Means

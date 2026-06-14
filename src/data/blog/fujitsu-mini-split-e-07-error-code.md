@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Outdoor pipe thermistor (outdoor coil sensor)"
+most_likely_cause: "Failed outdoor pipe thermistor"
 ---
 
 ## Fujitsu E:07 Error Code — What It Means

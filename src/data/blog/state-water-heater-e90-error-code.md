@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state-water-heaters
 money_part: "Air intake filter or screen"
+most_likely_cause: "Blocked or restricted air intake"
 ---
 
 ## State Water Heater E90 Error Code — What It Means

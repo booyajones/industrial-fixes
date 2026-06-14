@@ -11,6 +11,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Indoor control PCB"
+most_likely_cause: "Loose or broken transmission wiring"
 ---
 
 ## Daikin U4 Error Code — What It Means

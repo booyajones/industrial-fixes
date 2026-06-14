@@ -10,6 +10,7 @@ tags:
   - boiler
   - buderus
 money_part: "NTC temperature sensor"
+most_likely_cause: "Failed boiler temperature sensor (NTC)"
 ---
 
 ## Buderus Boiler Fault Code A1 — What It Means

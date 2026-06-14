@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mrcool
 money_part: "Outdoor inverter control board (IPM module)"
+most_likely_cause: "Mode conflict on multi-zone systems"
 ---
 
 ## MRCOOL Mini Split P5 Error Code — What It Means

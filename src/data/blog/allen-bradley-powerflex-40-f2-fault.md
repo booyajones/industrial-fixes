@@ -10,6 +10,7 @@ tags:
   - vfd
   - allen-bradley
 money_part: "Motor replacement"
+most_likely_cause: "Motor winding ground fault"
 ---
 
 ## Allen Bradley PowerFlex 40 F2 Fault — What It Means

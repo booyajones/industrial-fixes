@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 Control Board"
+most_likely_cause: "Missing or incorrect fault table reference"
 ---
 
 ## Yaskawa GA800 E16 Fault Code — What It Means

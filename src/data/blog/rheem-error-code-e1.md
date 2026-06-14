@@ -10,6 +10,7 @@ tags:
   - hvac
   - rheem
 money_part: "EcoNet control board (indoor)"
+most_likely_cause: "Loose communication wiring"
 ---
 
 ## Rheem Air Handler E1 Error Code — What It Means

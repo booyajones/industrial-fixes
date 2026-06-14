@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Outdoor inverter PCB"
+most_likely_cause: "Low or high supply voltage"
 ---
 
 ## Fujitsu E:52 Error Code — What It Means

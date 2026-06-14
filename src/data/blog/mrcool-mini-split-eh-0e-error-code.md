@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mrcool
 money_part: "MRCOOL indoor control board / PCB"
+most_likely_cause: "Clogged or restricted condensate drain line"
 ---
 
 ## MRCOOL EH 0E Error Code — What It Means

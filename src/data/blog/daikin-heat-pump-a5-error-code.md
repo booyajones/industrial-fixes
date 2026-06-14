@@ -11,6 +11,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Daikin indoor heat-exchanger temperature sensor"
+most_likely_cause: "Restricted indoor airflow"
 ---
 
 ## Daikin A5 Error Code — What It Means

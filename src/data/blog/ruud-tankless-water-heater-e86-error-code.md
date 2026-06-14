@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ruud
 money_part: "Flame sensor (Ruud/Rheem tankless)"
+most_likely_cause: "Flame sensor contamination or failure"
 ---
 
 ## Ruud E86 Error Code — What It Means

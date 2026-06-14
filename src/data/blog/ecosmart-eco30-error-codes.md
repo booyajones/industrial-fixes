@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ecosmart
 money_part: "EcoSmart inlet thermistor (temperature sensor)"
+most_likely_cause: "Failed inlet or outlet thermistor"
 ---
 
 ## EcoSmart ECO 30 Error Codes — What It Means

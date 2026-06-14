@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Outdoor coil or discharge thermistor"
+most_likely_cause: "Low or lost refrigerant charge"
 ---
 
 ## Mitsubishi P8 Error Code — What It Means

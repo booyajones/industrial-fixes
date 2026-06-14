@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state-water-heaters
 money_part: "Cold water inlet filter screen"
+most_likely_cause: "Blocked or dirty air intake screens"
 ---
 
 ## State Water Heater E113 Error Code — What It Means

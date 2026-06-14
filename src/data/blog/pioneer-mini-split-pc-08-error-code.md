@@ -11,6 +11,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Pioneer outdoor control board (PCB)"
+most_likely_cause: "Loose or damaged outdoor wiring"
 ---
 
 ## Pioneer PC 08 Error Code — What It Means

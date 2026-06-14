@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Motor cable (shielded, rated for VFD use)"
+most_likely_cause: "Loose or damaged motor or power wiring"
 diy_or_pro: "pro"
 ---
 

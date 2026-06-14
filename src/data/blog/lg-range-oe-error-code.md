@@ -11,6 +11,7 @@ tags:
   - oven
   - lg
 money_part: "LG washer drain pump assembly"
+most_likely_cause: "Kinked or clogged drain hose"
 ---
 
 ## LG OE Error Code — What It Means

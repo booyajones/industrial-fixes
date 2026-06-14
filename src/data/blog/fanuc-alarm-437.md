@@ -10,6 +10,7 @@ tags:
   - cnc
   - fanuc
 money_part: "4th axis encoder/resolver"
+most_likely_cause: "Mechanical binding or overload on the 4th axis"
 ---
 
 ## Fanuc Alarm 437 — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - trane
 money_part: "ComfortLink II thermostat"
+most_likely_cause: "Code 79 - Communication loss"
 ---
 
 ## Trane ComfortLink II Error Codes — What They Mean

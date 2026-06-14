@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
 money_part: "Pressure switch"
+most_likely_cause: "Blocked or restricted venting"
 ---
 
 ## Carrier Error Code 20 — What It Means

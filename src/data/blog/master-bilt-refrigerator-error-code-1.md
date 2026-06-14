@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - master-bilt
 money_part: "Door gasket"
+most_likely_cause: "Door not sealing properly"
 ---
 
 ## Master-Bilt Refrigerator Error Code 1 — What It Means

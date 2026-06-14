@@ -11,6 +11,7 @@ tags:
   - dryer
   - kenmore
 money_part: "User interface control board"
+most_likely_cause: "Loose or corroded wire harness"
 ---
 
 ## Kenmore Dryer F77 Error Code — What It Means

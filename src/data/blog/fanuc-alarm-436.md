@@ -10,6 +10,7 @@ tags:
   - cnc
   - fanuc
 money_part: "Counterbalance cylinder / seals"
+most_likely_cause: "axis counterbalance or weight issue"
 ---
 
 ## Fanuc Alarm 436 — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Motor (replacement)"
+most_likely_cause: "Output short circuit"
 ---
 
 ## Siemens SINAMICS V20 F1 Fault — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - carrier
 money_part: "Indoor Control Board / PCB"
+most_likely_cause: "Loose or corroded wire connections"
 ---
 
 ## Carrier E17 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Brake resistor (matched to FC 302 model and application)"
+most_likely_cause: "Brake resistor failure or miswiring"
 ---
 
 ## Danfoss FC302 ALARM 27 — What It Means

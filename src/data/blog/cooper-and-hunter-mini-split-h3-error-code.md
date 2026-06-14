@@ -11,6 +11,7 @@ tags:
   - mini-split
   - cooper-and-hunter
 money_part: "Cooper & Hunter outdoor fan motor"
+most_likely_cause: "Blocked or dirty condenser coil"
 ---
 
 ## Cooper & Hunter H3 Error Code — What It Means

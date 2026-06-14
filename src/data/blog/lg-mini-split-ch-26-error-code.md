@@ -11,6 +11,7 @@ tags:
   - mini-split
   - lg
 money_part: "LG mini-split inverter compressor"
+most_likely_cause: "Compressor mechanical seizure or internal failure"
 ---
 
 ## LG CH 26 Error Code — What It Means

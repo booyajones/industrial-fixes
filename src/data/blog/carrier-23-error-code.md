@@ -12,6 +12,7 @@ tags:
   - furnace
   - pressure-switch
 money_part: "Pressure switch"
+most_likely_cause: "Blocked vent or flue"
 ---
 
 ## Carrier 23 Error Code — What It Means

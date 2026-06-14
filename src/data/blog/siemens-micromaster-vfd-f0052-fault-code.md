@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens Micromaster control board"
+most_likely_cause: "Internal power-stage or control hardware failure"
 ---
 
 ## Siemens Micromaster F0052 — What It Means

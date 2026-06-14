@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mrcool
 money_part: "MRCOOL outdoor control board (PCB)"
+most_likely_cause: "Refrigerant leak at line-set connections"
 ---
 
 ## MRCOOL Mini Split P0 Error Code — What It Means

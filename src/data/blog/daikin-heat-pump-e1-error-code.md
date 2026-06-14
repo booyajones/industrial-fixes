@@ -11,6 +11,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Outdoor unit PCB (printed circuit board)"
+most_likely_cause: "Failed outdoor printed circuit board"
 ---
 
 ## Daikin E1 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Remote controller (infrared)"
+most_likely_cause: "Dead or weak remote batteries"
 ---
 
 ## Mitsubishi Mini Split E3 Error — What It Means

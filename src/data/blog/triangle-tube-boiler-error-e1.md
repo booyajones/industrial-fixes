@@ -10,6 +10,7 @@ tags:
   - boiler
   - triangle-tube
 money_part: "Ionization electrode"
+most_likely_cause: "Ignition failure (no flame confirmed)"
 ---
 
 ## Triangle Tube Boiler Error E1 — What It Means

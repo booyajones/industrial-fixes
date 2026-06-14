@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Indoor evaporator coil thermistor"
+most_likely_cause: "Dirty air filters or blocked return air"
 ---
 
 ## Gree FH Error Code — What It Means

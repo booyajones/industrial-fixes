@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "Motor cable (XLPE, screened)"
+most_likely_cause: "Degraded motor winding insulation"
 ---
 
 ## ABB VFD Fault 3300 — What It Means

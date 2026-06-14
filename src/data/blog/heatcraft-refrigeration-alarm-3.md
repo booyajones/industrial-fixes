@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - heatcraft
 money_part: "Filter drier"
+most_likely_cause: "Low refrigerant charge (leak)"
 ---
 
 ## Heatcraft Refrigeration Alarm 3 — What It Means

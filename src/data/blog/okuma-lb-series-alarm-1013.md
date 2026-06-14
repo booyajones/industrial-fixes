@@ -10,6 +10,7 @@ tags:
   - cnc
   - okuma
 money_part: "Servo encoder cable"
+most_likely_cause: "Encoder cable damage or disconnection"
 ---
 
 ## Okuma LB-Series Alarm 1013 — What It Means

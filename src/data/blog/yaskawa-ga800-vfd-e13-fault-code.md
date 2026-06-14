@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "GA800 option card (communications, I/O, or safety)"
+most_likely_cause: "Parameter value out of range"
 ---
 
 ## Yaskawa GA800 E13 Error — What It Means

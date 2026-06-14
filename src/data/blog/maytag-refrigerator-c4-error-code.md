@@ -11,6 +11,7 @@ tags:
   - refrigerator
   - maytag
 money_part: "Freezer thermistor / defrost sensor"
+most_likely_cause: "Failed or out-of-range thermistor"
 ---
 
 ## Maytag Refrigerator C4 Error Code — What It Means

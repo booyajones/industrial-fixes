@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - amana
 money_part: "Water inlet valve assembly"
+most_likely_cause: "Clogged inlet valve screen"
 ---
 
 ## Amana Dishwasher F6E1 Error Code — What It Means

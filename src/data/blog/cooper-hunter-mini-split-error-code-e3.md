@@ -10,6 +10,7 @@ tags:
   - mini-split
   - cooper-hunter
 money_part: "Indoor air filter"
+most_likely_cause: "Refrigerant leak"
 ---
 
 ## Cooper & Hunter Mini Split E3 Error Code — What It Means

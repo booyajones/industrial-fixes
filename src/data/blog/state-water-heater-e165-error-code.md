@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state-water-heater
 money_part: "Air intake screen or filter assembly"
+most_likely_cause: "Blocked air intake or vent"
 ---
 
 ## State Water Heater E165 Error Code — What It Means

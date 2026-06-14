@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ao-smith
 money_part: "Thermistor / temperature sensor"
+most_likely_cause: "Failed or drifting thermistor sensor"
 ---
 
 ## A.O. Smith E2 Error Code — What It Means

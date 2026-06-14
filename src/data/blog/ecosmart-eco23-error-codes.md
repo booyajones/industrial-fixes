@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ecosmart
 money_part: "Inlet thermistor (temperature sensor)"
+most_likely_cause: "Failed inlet thermistor"
 ---
 
 ## EcoSmart ECO 23 Error Codes — What It Means

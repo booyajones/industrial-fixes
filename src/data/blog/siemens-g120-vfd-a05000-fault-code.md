@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens G120 cooling fan assembly"
+most_likely_cause: "Blocked or restricted airflow"
 ---
 
 ## Siemens G120 A05000 Alarm — What It Means

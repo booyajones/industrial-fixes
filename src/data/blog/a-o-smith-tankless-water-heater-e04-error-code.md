@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ao-smith
 money_part: "Inlet/outlet plumbing fittings"
+most_likely_cause: "Internal water leak"
 ---
 
 ## A.O. Smith Tankless E04 Error — What It Means

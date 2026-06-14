@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "G120 Control Unit Module (CU)"
+most_likely_cause: "Unstable or interrupted control power during startup"
 ---
 
 ## Siemens F01018 — What It Means

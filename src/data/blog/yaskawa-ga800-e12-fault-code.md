@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Motor output cable / leads"
+most_likely_cause: "Open phase or missing motor lead"
 ---
 
 ## Yaskawa GA800 E12 Fault Code — What It Means

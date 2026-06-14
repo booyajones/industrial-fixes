@@ -11,6 +11,7 @@ tags:
   - dryer
   - amana
 money_part: "Amana dryer main control board"
+most_likely_cause: "Control board glitch"
 diy_or_pro: "pro"
 ---
 

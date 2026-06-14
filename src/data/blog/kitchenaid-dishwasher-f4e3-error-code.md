@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - kitchenaid
 money_part: "Circulation motor assembly (wash motor)"
+most_likely_cause: "Control glitch after power disruption"
 ---
 
 ## KitchenAid F4E3 Error Code — What It Means

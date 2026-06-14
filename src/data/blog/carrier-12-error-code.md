@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
 money_part: "Air filter (1' or 4' media)"
+most_likely_cause: "High-limit switch tripped"
 ---
 
 ## Carrier 12 Error Code — What It Means

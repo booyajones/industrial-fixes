@@ -10,6 +10,7 @@ tags:
   - hvac
   - daikin
 money_part: "Daikin indoor unit PCB"
+most_likely_cause: "Two main remote controllers connected"
 ---
 
 ## Daikin U5 Error Code — What It Means

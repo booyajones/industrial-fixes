@@ -10,6 +10,7 @@ tags:
   - water-heater
   - bosch
 money_part: "Bosch tankless water heater temperature limiter (ECO sensor)"
+most_likely_cause: "Scale and lime buildup in the heat exchanger"
 ---
 
 ## Bosch E9 Error Code — What It Means

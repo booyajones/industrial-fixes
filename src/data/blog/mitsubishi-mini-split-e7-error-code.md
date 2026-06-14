@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Mitsubishi indoor unit control board (P.C. board)"
+most_likely_cause: "Disconnected or miswired connecting cable"
 ---
 
 ## Mitsubishi E7 Error Code — What It Means

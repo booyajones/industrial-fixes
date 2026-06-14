@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 option card (CN5-A compatible)"
+most_likely_cause: "Mis-seated or loose option card"
 ---
 
 ## Yaskawa GA800 E14 Fault — What It Means

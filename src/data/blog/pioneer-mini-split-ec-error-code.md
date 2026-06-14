@@ -11,6 +11,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "T2 indoor coil temperature sensor"
+most_likely_cause: "Refrigerant leak at flare or brazed joints"
 ---
 
 ## Pioneer Mini-Split EC Error Code — What It Means

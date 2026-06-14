@@ -10,6 +10,7 @@ tags:
   - hvac
   - daikin
 money_part: "Outdoor unit main PCB"
+most_likely_cause: "Check operation not performed"
 ---
 
 ## Daikin U3 Error Code — What It Means

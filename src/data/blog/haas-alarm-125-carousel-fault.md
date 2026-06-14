@@ -10,6 +10,7 @@ tags:
   - cnc
   - haas
 money_part: "Carousel proximity switch"
+most_likely_cause: "Carousel pocket obstruction"
 ---
 
 ## Haas Alarm 125 Tool Carousel Fault — What It Means

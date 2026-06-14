@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
 money_part: "Condensate trap"
+most_likely_cause: "Blocked condensate drain trap"
 ---
 
 ## Carrier 54 Error Code — What It Means

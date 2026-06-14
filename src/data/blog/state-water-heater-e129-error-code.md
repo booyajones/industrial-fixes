@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Air Intake Screen or Assembly"
+most_likely_cause: "Blocked air intake screens or path"
 ---
 
 ## State Water Heater E129 Error Code — What It Means

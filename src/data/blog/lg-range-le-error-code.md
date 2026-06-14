@@ -11,6 +11,7 @@ tags:
   - oven
   - lg
 money_part: "LG washer direct-drive motor assembly"
+most_likely_cause: "Overloaded washer"
 ---
 
 ## LG Washer LE Error Code — What It Means

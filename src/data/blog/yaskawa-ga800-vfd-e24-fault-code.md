@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "GA800 control board"
+most_likely_cause: "Misread or abbreviated fault code"
 ---
 
 ## Yaskawa GA800 E24 Fault Code — What It Means

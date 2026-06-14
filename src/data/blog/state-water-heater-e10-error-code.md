@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Temperature sensor / thermistor"
+most_likely_cause: "Failed temperature sensor or thermistor"
 ---
 
 ## State Water Heater E10 Error Code — What It Means

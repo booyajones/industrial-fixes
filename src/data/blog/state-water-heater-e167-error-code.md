@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "State water heater sensor (temperature or flow, model-specific)"
+most_likely_cause: "Model-specific code definition"
 ---
 
 ## State Water Heater E167 Error Code — What It Means

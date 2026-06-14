@@ -11,6 +11,7 @@ tags:
   - mini-split
   - bosch
 money_part: "T6A temperature sensor (or equivalent model-specific sensor)"
+most_likely_cause: "Open or shorted temperature sensor"
 ---
 
 ## Bosch Heat Pump F5 Error Code — What It Means

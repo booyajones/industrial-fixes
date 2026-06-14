@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Cold-water inlet filter / screen"
+most_likely_cause: "Blocked air intake screens"
 ---
 
 ## State Water Heater E95 Error Code — What It Means

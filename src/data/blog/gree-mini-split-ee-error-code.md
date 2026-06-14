@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Gree outdoor main control board"
+most_likely_cause: "Loose or incorrect jumper on the control board"
 ---
 
 ## Gree EE Error Code — What It Means

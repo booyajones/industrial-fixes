@@ -11,6 +11,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Pioneer indoor PCB / control board"
+most_likely_cause: "Misread or corrupted display"
 ---
 
 ## Pioneer Bf Error Code — What It Means

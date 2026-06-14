@@ -11,6 +11,7 @@ tags:
   - mini-split
   - carrier
 money_part: "Outdoor fan motor"
+most_likely_cause: "Blocked or dirty outdoor coil"
 ---
 
 ## Carrier E13 Error Code — What It Means

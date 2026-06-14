@@ -11,6 +11,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Outdoor air thermistor / outdoor ambient temperature sensor"
+most_likely_cause: "Loose or corroded sensor connector"
 ---
 
 ## Daikin H9 Error Code — What It Means

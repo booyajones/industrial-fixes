@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Outdoor unit pressure sensor (transducer)"
+most_likely_cause: "Failed outdoor pressure sensor"
 ---
 
 ## Fujitsu E:86 Error Code — What It Means

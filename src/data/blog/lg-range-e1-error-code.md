@@ -11,6 +11,7 @@ tags:
   - oven
   - lg
 money_part: "LG oven temperature sensor / thermistor"
+most_likely_cause: "Failed oven temperature sensor"
 ---
 
 ## LG Range E1 Error Code — What It Means

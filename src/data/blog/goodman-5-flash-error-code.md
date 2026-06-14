@@ -10,6 +10,7 @@ tags:
   - hvac
   - goodman
 money_part: "Flame sensor rod"
+most_likely_cause: "Leaking or sticking gas valve"
 ---
 
 ## Goodman 5 Flash Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Condensate drain pan tablets"
+most_likely_cause: "Clogged condensate drain line"
 ---
 
 ## Mitsubishi E4 Error Code — What It Means

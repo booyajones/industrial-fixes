@@ -10,6 +10,7 @@ tags:
   - boiler
   - navien
 money_part: "Outlet water temperature thermistor"
+most_likely_cause: "Very low water flow rate"
 ---
 
 ## Navien Error Code E007 — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Gree outdoor unit tube temperature sensor / thermistor"
+most_likely_cause: "Dirty or blocked outdoor condenser coil"
 ---
 
 ## Gree Mini Split H4 Error Code — What It Means

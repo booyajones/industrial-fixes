@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Air-Gas Mixer (AGM) assembly"
+most_likely_cause: "Failed Air-Gas Mixer assembly"
 ---
 
 ## State Water Heater E67 Error Code — What It Means

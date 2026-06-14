@@ -10,6 +10,7 @@ tags:
   - boiler
   - rinnai
 money_part: "Combustion fan assembly"
+most_likely_cause: "Failed combustion fan motor"
 ---
 
 ## Rinnai Error Code 61 — What It Means

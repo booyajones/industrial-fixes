@@ -11,6 +11,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Indoor unit control board (PCB)"
+most_likely_cause: "Heat and cool called simultaneously"
 ---
 
 ## Pioneer PA Error Code — What It Means

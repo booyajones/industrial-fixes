@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Motor cable assembly"
+most_likely_cause: "Loose or disconnected V-phase motor lead"
 ---
 
 ## Danfoss FC302 Alarm 31 — What It Means

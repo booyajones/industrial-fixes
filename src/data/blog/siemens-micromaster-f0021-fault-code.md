@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Motor output cable (3-conductor shielded VFD-rated)"
+most_likely_cause: "Motor cable insulation damage"
 ---
 
 ## Siemens Micromaster F0021 — What It Means

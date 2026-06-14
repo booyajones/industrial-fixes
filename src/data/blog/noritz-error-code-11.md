@@ -10,6 +10,7 @@ tags:
   - boiler
   - noritz
 money_part: "Igniter/spark electrode"
+most_likely_cause: "No gas or low gas pressure"
 ---
 
 ## Noritz Error Code 11 — What It Means

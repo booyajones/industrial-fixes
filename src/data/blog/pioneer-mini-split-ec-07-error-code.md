@@ -11,6 +11,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Outdoor DC fan motor"
+most_likely_cause: "Failed outdoor DC fan motor"
 ---
 
 ## Pioneer EC 07 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - boiler
   - navien
 money_part: "Air pressure sensor (APS)"
+most_likely_cause: "Blocked combustion air intake or exhaust vent"
 ---
 
 ## Navien Error Code E010 — What It Means

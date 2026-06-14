@@ -11,6 +11,7 @@ tags:
   - mini-split
   - lg
 money_part: "Discharge temperature sensor for LG outdoor unit"
+most_likely_cause: "Insufficient refrigerant charge or active leak"
 ---
 
 ## LG Mini Split CH32 Error Code — What It Means

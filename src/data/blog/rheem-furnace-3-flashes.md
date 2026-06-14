@@ -10,6 +10,7 @@ tags:
   - hvac
   - rheem
 money_part: "Draft pressure switch"
+most_likely_cause: "Blocked or restricted flue/vent pipe"
 ---
 
 ## Rheem Furnace 3 Flashes — What It Means

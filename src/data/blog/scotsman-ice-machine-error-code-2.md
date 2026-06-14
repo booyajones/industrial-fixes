@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - scotsman
 money_part: "Hot gas valve coil or valve assembly"
+most_likely_cause: "Scaled evaporator plate"
 ---
 
 ## Scotsman Ice Machine Error Code 2 — What It Means

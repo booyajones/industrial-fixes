@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "Safety relay (24VDC)"
+most_likely_cause: "Safety relay or safety PLC opened the STO circuit"
 ---
 
 ## ABB VFD Fault 5010 — What It Means

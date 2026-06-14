@@ -11,6 +11,7 @@ tags:
   - mini-split
   - cooper-and-hunter
 money_part: "Water level float switch"
+most_likely_cause: "Clogged drain hose"
 ---
 
 ## Cooper & Hunter EE Error Code — What It Means

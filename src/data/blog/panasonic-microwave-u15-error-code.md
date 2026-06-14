@@ -11,6 +11,7 @@ tags:
   - microwave
   - panasonic
 money_part: "Panasonic Steam Cap (Taste Catcher)"
+most_likely_cause: "Outer lid not fully closed"
 ---
 
 ## Panasonic U15 Error Code — What It Means

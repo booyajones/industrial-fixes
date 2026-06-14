@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - scotsman
 money_part: "Ice thickness sensor"
+most_likely_cause: "Low refrigerant charge"
 ---
 
 ## Scotsman Ice Machine Error Code 3 — What It Means

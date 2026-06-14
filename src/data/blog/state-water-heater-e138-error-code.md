@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Air Intake Screen / Filter"
+most_likely_cause: "Blocked air intake or intake screen"
 ---
 
 ## State Water Heater E138 Error Code — What It Means

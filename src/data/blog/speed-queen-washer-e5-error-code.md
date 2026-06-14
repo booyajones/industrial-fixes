@@ -11,6 +11,7 @@ tags:
   - washer
   - speed-queen
 money_part: "Speed Queen micro-wand programming tool"
+most_likely_cause: "Improper micro-wand alignment"
 ---
 
 ## Speed Queen Washer E5 Error Code — What It Means

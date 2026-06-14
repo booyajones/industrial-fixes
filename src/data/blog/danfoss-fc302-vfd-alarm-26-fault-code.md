@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "IGBT power module"
+most_likely_cause: "Failed IGBT or power module"
 ---
 
 ## Danfoss FC302 Alarm 26 — What It Means

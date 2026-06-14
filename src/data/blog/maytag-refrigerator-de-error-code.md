@@ -11,6 +11,7 @@ tags:
   - refrigerator
   - maytag
 money_part: "Door switch"
+most_likely_cause: "Defective door switch"
 ---
 
 ## Maytag Refrigerator dE Error Code — What It Means

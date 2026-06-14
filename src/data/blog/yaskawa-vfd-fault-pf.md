@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Input fuses (class J or similar)"
+most_likely_cause: "Blown fuse or tripped circuit breaker on one phase"
 ---
 
 ## Yaskawa VFD Fault PF — What It Means

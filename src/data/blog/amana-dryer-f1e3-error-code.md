@@ -11,6 +11,7 @@ tags:
   - dryer
   - amana
 money_part: "Amana dryer main control board"
+most_likely_cause: "Incoming power supply interruption"
 ---
 
 ## Amana Dryer F1E3 Error Code — What It Means

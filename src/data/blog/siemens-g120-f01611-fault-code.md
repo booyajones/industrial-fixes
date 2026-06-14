@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens G120 Control Unit (CU)"
+most_likely_cause: "Mismatch in the safety monitoring chain"
 ---
 
 ## Siemens G120 F01611 — What It Means

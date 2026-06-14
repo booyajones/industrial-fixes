@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - kenmore
 money_part: "Drain hose"
+most_likely_cause: "Kinked or pinched drain hose"
 part_price: "$15-80"
 diy_or_pro: "diy"
 ---

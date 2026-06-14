@@ -11,6 +11,7 @@ tags:
   - mini-split
   - cooper-and-hunter
 money_part: "Condenser temperature sensor (thermistor)"
+most_likely_cause: "Poor outdoor airflow or obstructions"
 ---
 
 ## Cooper and Hunter P5 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - water-heater
   - navien
 money_part: "Navien circulation pump assembly"
+most_likely_cause: "Pump motor failure"
 ---
 
 ## Navien Tankless E013 Error Code — What It Means

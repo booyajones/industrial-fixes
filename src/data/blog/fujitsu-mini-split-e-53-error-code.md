@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Indoor unit controller PCB (main board)"
+most_likely_cause: "Open, loose, or miswired interconnect cable"
 ---
 
 ## Fujitsu Mini Split E:53 Error — What It Means

@@ -1,0 +1,252 @@
+[
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check drain pump filter, sump area, and drain hose for clogs or debris and clear any obstructions",
+      "Inspect drain hose for kinks or installation above 35-inch maximum height",
+      "Run drain cycle to test pump operation; listen for hum indicating jammed impeller versus normal motor sound"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "3C water-level timeout is commonly caused by drainage blockages/kinks; 60% no-buy estimate is defensible for obstruction-first failures before pump replacement",
+    "slug": "samsung-dishwasher-3c-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check inlet hoses for kinks and verify supply valves are fully open",
+      "Clean inlet hose mesh screens at valve connection points",
+      "Verify minimum 20 psi water pressure and check for drain hose siphoning"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "4C water-fill errors are commonly supply-side issues (kinks, screens, pressure, valves) before inlet valve fails; 60% no-buy is defensible field estimate, checks are free and safe",
+    "slug": "samsung-dishwasher-4c-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check and clear drain hose for kinks or clogs at pump and sink connections",
+      "Clean drain filter/sump area and verify pump impeller spins freely",
+      "Verify drain hose height does not exceed 35 inches and has proper loop"
+    ],
+    "part_price_final": "$30-70",
+    "reason": "5C drain errors are commonly caused by clogs/kinks/debris before pump failure; 60% no-buy is defensible and checks are safe DIY tasks",
+    "slug": "samsung-dishwasher-5c-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check household water supply valve is fully open and water pressure is adequate (min 20 psi)",
+      "Inspect inlet hose for kinks, clogs, or closed inline shutoff valve",
+      "Clean inlet valve screen filter at hose connection for sediment/debris"
+    ],
+    "part_price_final": "$25-50",
+    "reason": "FE code commonly caused by supply/hose/filter issues before valve failure; 60% no-buy is defensible field estimate, checks are safe and free, part price accurate for inlet valve",
+    "slug": "lg-dishwasher-fe-error-code"
+  },
+  {
+    "verdict": "apply_qualitative",
+    "no_buy_pct_final": null,
+    "free_checks_final": [
+      "Reset dishwasher (power off 60 seconds) and verify error clears; confirm water heats during cycle",
+      "Inspect heating element wire harness connector for corrosion, looseness, or moisture damage",
+      "Test heating element continuity with multimeter (should read 15-30 ohms; infinite resistance = failed element)"
+    ],
+    "part_price_final": "$25-60",
+    "reason": "Checks are safe and correct; HE code overwhelmingly indicates failed heating element but no defensible field data exists to quantify the small percentage of connector/wiring-only cases, so null is appropriate.",
+    "slug": "lg-dishwasher-he-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check home water supply valve is fully open and inlet hose has no kinks",
+      "Clean inlet valve screen filter for sediment/debris blockage",
+      "Verify float assembly moves freely and isn't stuck in raised position"
+    ],
+    "part_price_final": "$25-50",
+    "reason": "IE code is defensibly often caused by water supply issues, kinked hoses, or clogged screens rather than valve failure; 60% no-buy estimate is reasonable and all checks are free/safe DIY tasks.",
+    "slug": "lg-dishwasher-ie-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "75%",
+    "free_checks_final": [
+      "Tilt dishwasher backward 45\u00b0 for 30 seconds to drain anti-flood pan and reset float switch",
+      "Inspect door seal, spray arm connections, and base pan for leaks or detergent residue triggering float",
+      "Verify drain hose has proper high loop or air gap to prevent siphon filling base pan"
+    ],
+    "part_price_final": "$15-35",
+    "reason": "E15 is anti-flood/base pan float; vast majority are false triggers from residue, siphoning, or old leak residue rather than actual inlet valve failure\u2014estimate defensible, checks safe and correct.",
+    "slug": "whirlpool-dishwasher-e15-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "40%",
+    "free_checks_final": [
+      "Turn off water supply, disconnect inlet hose, check and clean inlet valve screen for debris/sediment",
+      "Verify home water pressure is 20-120 psi; test faucet flow on same supply line",
+      "Check for kinked inlet hose or partially closed shut-off valve"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "E6 water-fill errors frequently caused by clogged screens, low pressure, or kinked hoses; 40% no-buy is defensible and checks are safe/free.",
+    "slug": "whirlpool-dishwasher-e6-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "10%",
+    "free_checks_final": [
+      "Reset dishwasher by turning off power for 5 minutes",
+      "Inspect wire connections at heating element terminals for corrosion or looseness"
+    ],
+    "part_price_final": "$40-80",
+    "reason": "E7 is typically a failed heating element; 10% no-buy for occasional wire/connection issues is defensible, checks are safe and free",
+    "slug": "whirlpool-dishwasher-e7-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "40%",
+    "free_checks_final": [
+      "Check drain pump filter/sump and drain hose for clogs; remove debris and food particles",
+      "Inspect drain hose for kinks or obstructions; verify proper air gap installation",
+      "Reset dishwasher by cutting power for 2 minutes; verify drain pump impeller spins freely by hand"
+    ],
+    "part_price_final": "$50-120",
+    "reason": "C1 drain fault commonly caused by clogs/blockages before pump failure; 40% no-buy is defensible for this code with accessible free checks.",
+    "slug": "ge-dishwasher-c1-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "40%",
+    "free_checks_final": [
+      "Check drain filter, sump, and air gap for clogs; clear debris",
+      "Inspect drain hose for kinks, loops above pump height, or blockages",
+      "With power OFF, manually rotate pump impeller to check for jammed obstruction"
+    ],
+    "part_price_final": "$60-120",
+    "reason": "C3 drain timeout has defensible ~40% clog/kink resolution rate before pump replacement; checks are safe and free.",
+    "slug": "ge-dishwasher-c3-error-code"
+  },
+  {
+    "verdict": "apply_qualitative",
+    "no_buy_pct_final": null,
+    "free_checks_final": [
+      "Reset dishwasher by flipping breaker off 60 seconds, then run diagnostic cycle to retest",
+      "Inspect heating element wire connectors for corrosion or looseness at element terminals",
+      "Test heating element continuity with multimeter (should read 15-30 ohms; infinite = failed element)"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "Heating elements are consumable parts that genuinely fail; while connector issues exist, no defensible field data supports a specific no-buy percentage\u2014tech correctly returned null.",
+    "slug": "ge-dishwasher-c6-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "30%",
+    "free_checks_final": [
+      "Check home water supply valve is fully open and inlet hose has no kinks or clogs at screen filter inside valve connection",
+      "Verify dishwasher door closes completely and latch engages properly",
+      "Test water pressure at nearby sink (minimum 20 psi required)"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "I30 fill timeout commonly caused by inlet valve failure, but supply/pressure/screen issues are defensible ~30% resolution rate; checks are safe and appropriate.",
+    "slug": "frigidaire-dishwasher-i30-error-code"
+  },
+  {
+    "verdict": "apply_qualitative",
+    "no_buy_pct_final": null,
+    "free_checks_final": [
+      "Verify dryer is on Timed Dry cycle (AL 07 only appears in Auto Dry when heating element fails)",
+      "Check for 240V at outlet with multimeter; confirm both legs present and breaker fully seated",
+      "Inspect wire harness connectors at heating element housing for corrosion or looseness"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "Heating element failure; checks are valid safety/voltage verifications but element itself is the typical fault per HARD HONESTY RULE, no defensible no-buy percentage.",
+    "slug": "frigidaire-dryer-al-07-error-code"
+  },
+  {
+    "verdict": "apply_qualitative",
+    "no_buy_pct_final": null,
+    "free_checks_final": [
+      "Unplug dryer for 60 seconds to clear transient fault",
+      "Check for 240V at outlet with multimeter (verify both legs present)",
+      "Inspect heating element wire harness connectors for corrosion or looseness"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "AL 16 indicates heating element failure; checks are valid due diligence but element itself (open/shorted coil) is the typical culprit\u2014no defensible no_buy estimate exists.",
+    "slug": "frigidaire-dryer-al-16-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check for clogs in drain hose, air gap, and garbage disposal knockout plug",
+      "Clean drain pump filter and sump area of food debris and foreign objects",
+      "Verify drain hose is not kinked and mounted below 35 inches"
+    ],
+    "part_price_final": "$50-120",
+    "reason": "E1 drain timeout is commonly caused by blockages/clogs before pump failure; 60% no-buy is defensible, checks are free and safe, pump replacement when motor/impeller fails is the part cost.",
+    "slug": "maytag-dishwasher-e1-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "40%",
+    "free_checks_final": [
+      "Check home water supply valve is fully open and inlet hose has no kinks",
+      "Clean inlet valve screen filter for debris/sediment buildup",
+      "Verify water pressure is adequate (20-120 psi) and test fill cycle after power reset"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "E6 fill timeout commonly caused by supply/screen issues before valve failure; 40% no-buy is defensible, checks are safe and correct, valve is genuinely cheap.",
+    "slug": "maytag-dishwasher-e6-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "10%",
+    "free_checks_final": [
+      "Reset dishwasher by turning off circuit breaker for 5 minutes then back on",
+      "Inspect wire harness connections at heating element terminals for corrosion or looseness",
+      "Verify drain pump operates and no standing water covers heating element"
+    ],
+    "part_price_final": "$50-120",
+    "reason": "E7 heating element codes overwhelmingly indicate burned-out element itself; 10% no-buy for connector/harness/reset fixes is defensible and appropriately conservative.",
+    "slug": "maytag-dishwasher-e7-error-code"
+  },
+  {
+    "verdict": "reject",
+    "no_buy_pct_final": null,
+    "free_checks_final": [
+      "Reset dishwasher (power off 5 min) and run diagnostic cycle to confirm E04 persists",
+      "Inspect heating element wire connectors for corrosion/looseness at element terminals"
+    ],
+    "part_price_final": "$60-130",
+    "reason": "E04 heating element fault is almost always the failed element itself per HARD HONESTY RULE; cannot label heating-element failure a 'cheap fix' \u2014 15% no-buy violates the rule.",
+    "slug": "bosch-dishwasher-e04-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "40%",
+    "free_checks_final": [
+      "Check for kinked inlet hose and verify water supply valve is fully open",
+      "Clean inlet valve screen filter at hose connection for debris and sediment",
+      "Verify adequate water pressure (minimum 20 PSI) at supply"
+    ],
+    "part_price_final": "$35-75",
+    "reason": "E17 fill timeout commonly caused by clogged screens, kinked hoses, or low pressure; 40% no-buy is defensible given these free-check resolves balance against frequent valve failures in older Bosch units",
+    "slug": "bosch-dishwasher-e17-error-code"
+  },
+  {
+    "verdict": "apply",
+    "no_buy_pct_final": "60%",
+    "free_checks_final": [
+      "Check and clear drain hose for kinks/clogs and clean filter basket under spray arm",
+      "Inspect drain pump impeller for debris (remove cover, manually rotate impeller)",
+      "Reset by powering off at breaker for 5 minutes, then test drain cycle"
+    ],
+    "part_price_final": "$80-150",
+    "reason": "E25 drain timeout commonly caused by blockages in filter/hose/impeller; 60% no-buy is defensible for these clearable obstructions before pump motor replacement needed",
+    "slug": "bosch-dishwasher-e25-error-code"
+  }
+]

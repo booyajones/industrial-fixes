@@ -11,6 +11,7 @@ tags:
   - oven
   - kenmore
 money_part: "Electronic oven control board (EOC)"
+most_likely_cause: "Failed electronic oven control board"
 ---
 
 ## Kenmore Oven F50 Error — What It Means

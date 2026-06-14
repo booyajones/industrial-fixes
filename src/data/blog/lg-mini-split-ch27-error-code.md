@@ -11,6 +11,7 @@ tags:
   - mini-split
   - lg
 money_part: "LG outdoor inverter PCB"
+most_likely_cause: "Low or abnormal supply voltage"
 ---
 
 ## LG Mini-Split CH27 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Analog input field cable"
+most_likely_cause: "Open circuit or loose terminal"
 ---
 
 ## Siemens G120 F03505 — What It Means

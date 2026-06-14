@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Fujitsu outdoor inverter control board (controller PCB)"
+most_likely_cause: "Defective outdoor inverter/controller PCB"
 ---
 
 ## Fujitsu Mini Split E:25 Error Code — What It Means

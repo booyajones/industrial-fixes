@@ -11,6 +11,7 @@ tags:
   - microwave
   - whirlpool
 money_part: "Door Latch Assembly"
+most_likely_cause: "Failed door latch assembly"
 ---
 
 ## Whirlpool F5 Error Code — What It Means

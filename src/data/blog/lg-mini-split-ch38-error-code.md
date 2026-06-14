@@ -10,6 +10,7 @@ tags:
   - mini-split
   - lg
 money_part: "Inverter PCB (outdoor unit)"
+most_likely_cause: "Low refrigerant charge"
 ---
 
 ## LG Mini-Split CH38 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Air intake screen or filter assembly"
+most_likely_cause: "Blocked air intake screens or intake path"
 ---
 
 ## State Water Heater E78 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Gree main control board"
+most_likely_cause: "Utility surge or lightning strike"
 ---
 
 ## Gree Mini Split L9 Error Code — What It Means

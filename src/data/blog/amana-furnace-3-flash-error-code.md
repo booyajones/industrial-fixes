@@ -10,6 +10,7 @@ tags:
   - hvac
   - amana
 money_part: "Inducer motor run capacitor"
+most_likely_cause: "Clogged condensate drain"
 ---
 
 ## Amana Furnace 3 Flash Error Code — What It Means

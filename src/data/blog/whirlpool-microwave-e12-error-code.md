@@ -11,6 +11,7 @@ tags:
   - microwave
   - whirlpool
 money_part: "Gas sensor (Whirlpool OTR microwave)"
+most_likely_cause: "Failed gas sensor"
 ---
 
 ## Whirlpool Microwave E12 Error Code — What It Means

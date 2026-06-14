@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
 money_part: "Condenser fan motor"
+most_likely_cause: "HP Trip (High Pressure)"
 ---
 
 ## Carrier 30XA Commercial Chiller Fault Codes — What They Mean

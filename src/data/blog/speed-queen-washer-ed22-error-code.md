@@ -11,6 +11,7 @@ tags:
   - washer
   - speed-queen
 money_part: "Speed Queen drive motor"
+most_likely_cause: "Overloaded washer"
 ---
 
 ## Speed Queen Ed22 Error Code — What It Means

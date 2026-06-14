@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Fieldbus communication cable"
+most_likely_cause: "Loss of communication from the master controller"
 ---
 
 ## Danfoss FC302 Alarm 17 — What It Means

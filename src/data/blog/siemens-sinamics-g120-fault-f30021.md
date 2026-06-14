@@ -11,6 +11,7 @@ tags:
   - siemens
   - sinamics
 money_part: "VFD-rated motor cable"
+most_likely_cause: "Motor winding short to ground"
 ---
 
 ## Siemens SINAMICS G120 Fault F30021, What It Means

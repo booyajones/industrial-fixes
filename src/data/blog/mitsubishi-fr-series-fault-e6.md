@@ -10,6 +10,7 @@ tags:
   - vfd
   - mitsubishi
 money_part: "Braking resistor"
+most_likely_cause: "Failed brake transistor (IGBT)"
 ---
 
 ## Mitsubishi FR Series Fault E6 — What It Means

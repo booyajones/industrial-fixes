@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa control board (PCB)"
+most_likely_cause: "Power interruption during parameter write"
 ---
 
 ## Yaskawa VFD Fault ER — What It Means

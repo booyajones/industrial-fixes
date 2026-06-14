@@ -11,6 +11,7 @@ tags:
   - yaskawa
 diy_or_pro: "pro"
 money_part: "GA800 Control Board"
+most_likely_cause: "Misread or transposed fault code"
 ---
 
 ## Yaskawa GA800 E82 Fault Code — What It Means

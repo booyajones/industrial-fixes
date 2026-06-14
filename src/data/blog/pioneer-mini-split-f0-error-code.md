@@ -11,6 +11,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Outdoor fan motor"
+most_likely_cause: "Loose or broken wiring in the outdoor unit"
 ---
 
 ## Pioneer Mini-Split F0 Error Code — What It Means

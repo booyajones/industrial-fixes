@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Gree discharge temperature sensor"
+most_likely_cause: "Sensor open or shorted"
 ---
 
 ## Gree Mini Split F5 Error Code — What It Means

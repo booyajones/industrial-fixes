@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "Input fuses (semiconductor type)"
+most_likely_cause: "Open fuse or circuit breaker on one phase"
 ---
 
 ## ABB ACS880 Fault 3130 — What It Means

@@ -10,6 +10,7 @@ tags:
   - water-heater
   - rinnai
 money_part: "Descaling solution (Rinnai-compatible)"
+most_likely_cause: "Hard water mineral scale"
 ---
 
 ## Rinnai LC Error Code — What It Means

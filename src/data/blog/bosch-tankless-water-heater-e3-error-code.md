@@ -10,6 +10,7 @@ tags:
   - water-heater
   - bosch
 money_part: "Bosch flue gas temperature sensor"
+most_likely_cause: "Disconnected or loose sensor wiring"
 ---
 
 ## Bosch E3 Error Code — What It Means

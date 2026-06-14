@@ -10,6 +10,7 @@ tags:
   - water-heater
   - navien
 money_part: "Navien air pressure sensor (APS)"
+most_likely_cause: "Blocked or improperly installed intake or exhaust venting"
 ---
 
 ## Navien E010 Error Code — What It Means

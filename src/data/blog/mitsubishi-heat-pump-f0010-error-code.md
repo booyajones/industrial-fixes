@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Indoor display PCB"
+most_likely_cause: "Misread or reformatted code"
 ---
 
 ## Mitsubishi F0010 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Fujitsu return-air thermistor"
+most_likely_cause: "Shorted return-air thermistor"
 ---
 
 ## Fujitsu E:37 Error Code — What It Means

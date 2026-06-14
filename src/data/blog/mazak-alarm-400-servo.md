@@ -10,6 +10,7 @@ tags:
   - cnc
   - mazak
 money_part: "Mitsubishi servo amplifier (MR-J series)"
+most_likely_cause: "Servo drive sub-fault (overcurrent or overvoltage)"
 ---
 
 ## Mazak Alarm 400 Servo Error — What It Means

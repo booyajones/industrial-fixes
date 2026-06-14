@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Control board replacement"
+most_likely_cause: "Wiring or connection fault"
 ---
 
 ## Yaskawa GA800 E19 Fault — What It Means

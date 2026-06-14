@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - amana
 money_part: "Electronic control board"
+most_likely_cause: "Transient control glitch"
 ---
 
 ## Amana Dishwasher FAE5 Error Code — What It Means

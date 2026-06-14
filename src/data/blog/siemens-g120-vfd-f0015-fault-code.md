@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Motor temperature sensor (thermistor)"
+most_likely_cause: "Open or broken motor thermistor wiring"
 ---
 
 ## Siemens G120 F0015 Fault — What It Means

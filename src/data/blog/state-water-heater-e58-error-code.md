@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Flame rod / ignition sensor"
+most_likely_cause: "Blocked air intake or venting"
 ---
 
 ## State Water Heater E58 Error Code — What It Means

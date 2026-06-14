@@ -11,6 +11,7 @@ tags:
   - yaskawa
 diy_or_pro: "pro"
 money_part: "Yaskawa GA800 control board (model-specific)"
+most_likely_cause: "Misread or corrupted display"
 ---
 
 ## Yaskawa GA800 E98 Fault Code — What It Means

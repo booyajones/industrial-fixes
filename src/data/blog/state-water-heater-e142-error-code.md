@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Flame rod sensor"
+most_likely_cause: "Blocked air intake or clogged inlet screen"
 ---
 
 ## State Water Heater E142 Error Code — What It Means

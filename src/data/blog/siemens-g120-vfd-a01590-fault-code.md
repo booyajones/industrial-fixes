@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Motor bearings"
+most_likely_cause: "Maintenance interval elapsed"
 ---
 
 ## Siemens G120 A01590 Alarm — What It Means

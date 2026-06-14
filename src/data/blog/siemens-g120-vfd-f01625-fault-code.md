@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens G120 Control Unit (CU)"
+most_likely_cause: "EMC or wiring interference"
 ---
 
 ## Siemens G120 F01625 — What It Means

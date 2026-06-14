@@ -10,6 +10,7 @@ tags:
   - cnc
   - haas
 money_part: "Tool-present proximity switch"
+most_likely_cause: "Tool missing from the programmed pocket"
 ---
 
 ## Haas Alarm 124 — What It Means

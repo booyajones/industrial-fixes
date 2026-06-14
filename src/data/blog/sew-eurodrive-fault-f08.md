@@ -10,6 +10,7 @@ tags:
   - vfd
   - sew-eurodrive
 money_part: "Braking resistor (correctly sized)"
+most_likely_cause: "Motor decelerating too quickly (regeneration)"
 ---
 
 ## SEW-Eurodrive Fault F08 — What It Means

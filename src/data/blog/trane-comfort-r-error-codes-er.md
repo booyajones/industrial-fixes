@@ -10,6 +10,7 @@ tags:
   - hvac
   - trane
 money_part: "Communication wire (18 AWG, 4-conductor)"
+most_likely_cause: "Loose or damaged communication wire"
 ---
 
 ## Trane ComfortR ER Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - airease
 money_part: "Hot surface igniter"
+most_likely_cause: "Failed or cracked hot surface igniter"
 ---
 
 ## AirEase Furnace E1 Error Code — What It Means

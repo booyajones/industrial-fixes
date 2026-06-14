@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ruud
 money_part: "Exhaust blower assembly"
+most_likely_cause: "Blocked or restricted exhaust vent"
 ---
 
 ## Ruud E99 Error Code — What It Means

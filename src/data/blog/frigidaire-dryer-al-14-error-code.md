@@ -11,6 +11,7 @@ tags:
   - dryer
   - frigidaire
 money_part: "Frigidaire dryer electronic control board"
+most_likely_cause: "Transient control glitch"
 diy_or_pro: "diy"
 ---
 

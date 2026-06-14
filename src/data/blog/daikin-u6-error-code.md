@@ -10,6 +10,7 @@ tags:
   - hvac
   - daikin
 money_part: "Daikin indoor unit PCB (control board)"
+most_likely_cause: "Loose, damaged, or miswired control terminals"
 ---
 
 ## Daikin U6 Error Code — What It Means

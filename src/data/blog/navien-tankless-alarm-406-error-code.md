@@ -10,6 +10,7 @@ tags:
   - water-heater
   - navien
 money_part: "Navien flow sensor"
+most_likely_cause: "Flow sensor not spinning"
 ---
 
 ## Navien 406 Error Code — What It Means

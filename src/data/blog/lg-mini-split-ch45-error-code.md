@@ -11,6 +11,7 @@ tags:
   - mini-split
   - lg
 money_part: "LG outdoor unit mid-condenser coil thermistor"
+most_likely_cause: "Open or shorted thermistor"
 ---
 
 ## LG CH45 Error Code — What It Means

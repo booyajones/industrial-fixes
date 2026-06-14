@@ -14,6 +14,7 @@ tags:
   - cnc
 description: "Yaskawa Sigma-7 SGD7S servo drive alarm codes explained — AL.10 overcurrent, AL.16 encoder error, AL.20 regenerative overload, AL.30 regen circuit, and more. Step-by-step fixes and parts table."
 money_part: "Encoder cable (Yaskawa Sigma-7 compatible)"
+most_likely_cause: "Encoder cable damage"
 ---
 
 ## Yaskawa Sigma-7 (SGD7S) Servo Drive Alarm Codes

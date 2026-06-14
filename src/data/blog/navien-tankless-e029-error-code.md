@@ -10,6 +10,7 @@ tags:
   - water-heater
   - navien
 money_part: "Air pressure sensor (switch)"
+most_likely_cause: "Faulty air pressure sensor or switch"
 ---
 
 ## Navien E029 Error Code — What It Means

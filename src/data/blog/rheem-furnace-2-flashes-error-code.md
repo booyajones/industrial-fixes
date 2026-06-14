@@ -11,6 +11,7 @@ tags:
   - furnace
   - rheem
 money_part: "Pressure switch"
+most_likely_cause: "Failed pressure switch"
 ---
 
 ## Rheem Furnace 2 Flashes — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 option card (communications or I/O)"
+most_likely_cause: "Loose or miswired control terminals"
 ---
 
 ## Yaskawa GA800 E25 Fault Code — What It Means

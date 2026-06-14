@@ -11,6 +11,7 @@ tags:
   - dryer
   - frigidaire
 money_part: "Heating Element Assembly"
+most_likely_cause: "Failed heater relay on the control board"
 ---
 
 ## Frigidaire Dryer AL-26 Error Code — What It Means

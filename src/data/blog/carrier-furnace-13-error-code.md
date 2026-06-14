@@ -11,6 +11,7 @@ tags:
   - furnace
   - carrier
 money_part: "Carrier high-limit switch"
+most_likely_cause: "Restricted airflow across the heat exchanger"
 ---
 
 ## Carrier Furnace Error Code 13 — What It Means

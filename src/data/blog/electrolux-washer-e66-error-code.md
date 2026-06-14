@@ -11,6 +11,7 @@ tags:
   - washer
   - electrolux
 money_part: "Thermal limiter / thermal cutoff"
+most_likely_cause: "Failed heater relay on the control board"
 ---
 
 ## Electrolux Washer E66 Error Code — What It Means

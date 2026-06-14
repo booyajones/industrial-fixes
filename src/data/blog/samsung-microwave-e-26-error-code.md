@@ -12,6 +12,7 @@ tags:
   - samsung
 diy_or_pro: "pro"
 money_part: "Temperature sensor assembly"
+most_likely_cause: "Faulty temperature sensor or sensing circuit"
 ---
 
 ## Samsung Microwave E-26 Error — What It Means

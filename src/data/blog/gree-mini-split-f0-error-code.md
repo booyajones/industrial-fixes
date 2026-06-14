@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Evaporator temperature sensor (thermistor)"
+most_likely_cause: "Refrigerant leak in line set or connections"
 ---
 
 ## Gree Mini Split F0 Error Code — What It Means

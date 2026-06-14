@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Main control PCB (indoor or outdoor)"
+most_likely_cause: "Incorrect line voltage"
 ---
 
 ## Fujitsu E:08 Error Code — What It Means

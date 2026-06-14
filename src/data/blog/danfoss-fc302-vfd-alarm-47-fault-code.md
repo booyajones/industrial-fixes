@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Danfoss FC302 control card"
+most_likely_cause: "Overloaded 24 V control circuit"
 ---
 
 ## Danfoss FC302 Alarm 47 — What It Means

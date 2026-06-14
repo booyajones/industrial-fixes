@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens Micromaster cooling fan assembly"
+most_likely_cause: "Blocked airflow or dust buildup"
 ---
 
 ## Siemens Micromaster F0024 — What It Means

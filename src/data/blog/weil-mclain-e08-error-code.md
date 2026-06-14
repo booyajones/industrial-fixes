@@ -10,6 +10,7 @@ tags:
   - boiler
   - weil-mclain
 money_part: "DHW thermistor/sensor"
+most_likely_cause: "Failed DHW thermistor"
 ---
 
 ## Weil-McLain Boiler Error Code E08 — What It Means

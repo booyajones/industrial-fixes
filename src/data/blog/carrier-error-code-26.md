@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
 money_part: "Carrier air filter (model-specific size)"
+most_likely_cause: "Restricted airflow from dirty filter or blocked ducts"
 ---
 
 ## Carrier Error Code 26 — What It Means

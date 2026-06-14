@@ -10,6 +10,7 @@ tags:
   - boiler
   - burnham
 money_part: "Pressure switch"
+most_likely_cause: "Blocked condensate drain on condensing models"
 ---
 
 ## Burnham Boiler E2 Error Code — What It Means

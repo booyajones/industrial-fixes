@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "ABB safety relay (compatible model for STO)"
+most_likely_cause: "Open or disconnected STO wiring"
 ---
 
 ## ABB ACS580 A5A0 Fault — What It Means

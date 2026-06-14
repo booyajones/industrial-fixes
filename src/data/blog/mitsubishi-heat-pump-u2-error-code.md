@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi-electric
 money_part: "49°C Inner Thermostat (Discharge Protection)"
+most_likely_cause: "Low refrigerant charge or leak"
 ---
 
 ## Mitsubishi U2 Error Code — What It Means

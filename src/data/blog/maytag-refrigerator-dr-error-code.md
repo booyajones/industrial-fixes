@@ -11,6 +11,7 @@ tags:
   - refrigerator
   - maytag
 money_part: "Door switch or reed switch"
+most_likely_cause: "Door not fully closing"
 ---
 
 ## Maytag Refrigerator dr Error Code — What It Means

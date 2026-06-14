@@ -12,6 +12,7 @@ tags:
   - spindle
   - overload
 money_part: "Spindle bearings"
+most_likely_cause: "Tool is dull or chipped"
 ---
 
 ## Fanuc Alarm 460 — What It Means

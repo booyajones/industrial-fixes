@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Input fuses (semiconductor type)"
+most_likely_cause: "Momentary power interruption"
 ---
 
 ## Yaskawa VFD Fault UV1 — What It Means

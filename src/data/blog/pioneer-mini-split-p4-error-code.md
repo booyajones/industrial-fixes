@@ -11,6 +11,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Outdoor inverter power module (IPM) board"
+most_likely_cause: "Failed compressor"
 ---
 
 ## Pioneer P4 Error Code — What It Means

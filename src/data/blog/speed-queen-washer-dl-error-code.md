@@ -11,6 +11,7 @@ tags:
   - washer
   - speed-queen
 money_part: "Door lock assembly"
+most_likely_cause: "Door not fully closed or misaligned"
 ---
 
 ## Speed Queen Washer dL Error Code — What It Means

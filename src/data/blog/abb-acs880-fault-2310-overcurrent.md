@@ -11,6 +11,7 @@ tags:
   - vfd
   - abb
 money_part: "Motor (replacement)"
+most_likely_cause: "Motor output short circuit"
 ---
 
 ## ABB ACS880 Fault 2310 Overcurrent — What It Means

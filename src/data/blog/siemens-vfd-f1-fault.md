@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Shielded VFD-rated motor cable"
+most_likely_cause: "Motor power mismatch in parameters"
 ---
 
 ## Siemens VFD F1 Fault — What It Means

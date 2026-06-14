@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "PCB jumper cap / configuration jumper"
+most_likely_cause: "Board replaced without transferring jumper"
 ---
 
 ## Gree Mini Split C5 Error Code — What It Means

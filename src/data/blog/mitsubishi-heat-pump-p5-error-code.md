@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Condensate drain pump assembly"
+most_likely_cause: "Failed condensate pump or weak motor"
 ---
 
 ## Mitsubishi P5 Error Code — What It Means

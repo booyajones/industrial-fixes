@@ -11,6 +11,7 @@ tags:
   - refrigerator
   - bosch
 money_part: "Bosch Refrigerator Main Control Board"
+most_likely_cause: "Faulty main control board"
 ---
 
 ## Bosch Refrigerator E01 Error Code — What It Means

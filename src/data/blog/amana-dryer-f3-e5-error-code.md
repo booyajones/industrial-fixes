@@ -11,6 +11,7 @@ tags:
   - dryer
   - amana
 money_part: "Electronic control board"
+most_likely_cause: "Temporary control board glitch"
 ---
 
 ## Amana Dryer F3 E5 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - water-heater
   - navien
 money_part: "Air pressure sensor"
+most_likely_cause: "Blocked or restricted venting"
 ---
 
 ## Navien E027 Error Code — What It Means

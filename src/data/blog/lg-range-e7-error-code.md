@@ -12,6 +12,7 @@ tags:
   - lg
 diy_or_pro: "pro"
 money_part: "LG range main control board (model-specific)"
+most_likely_cause: "Code is model-specific or undocumented"
 ---
 
 ## LG Range E7 Error Code — What It Means

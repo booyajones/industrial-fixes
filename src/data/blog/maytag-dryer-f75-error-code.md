@@ -12,6 +12,7 @@ tags:
   - maytag
 diy_or_pro: "pro"
 money_part: "Main control board"
+most_likely_cause: "Misread or misreported code"
 ---
 
 ## Maytag Dryer F75 Error Code — What It Means

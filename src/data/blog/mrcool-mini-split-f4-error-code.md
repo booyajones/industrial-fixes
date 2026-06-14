@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mrcool
 money_part: "Outdoor control board (PCB)"
+most_likely_cause: "Outdoor PCB failure or corrupted EEPROM data"
 ---
 
 ## MRCOOL F4 Error Code — What It Means

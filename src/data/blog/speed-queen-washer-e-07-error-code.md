@@ -11,6 +11,7 @@ tags:
   - washer
   - speed-queen
 money_part: "Front-end control board (user interface / display board)"
+most_likely_cause: "Loose or disconnected harness plugs"
 ---
 
 ## Speed Queen Washer E:07 Error Code — What It Means

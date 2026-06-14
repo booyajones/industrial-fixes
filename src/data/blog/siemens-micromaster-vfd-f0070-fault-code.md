@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens Micromaster communications board (CB module)"
+most_likely_cause: "Master or controller not sending setpoint"
 ---
 
 ## Siemens Micromaster F0070 — What It Means

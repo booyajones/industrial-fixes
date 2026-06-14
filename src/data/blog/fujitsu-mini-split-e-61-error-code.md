@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Room temperature thermistor (10 kΩ at 25°C)"
+most_likely_cause: "Loose or corroded sensor connector"
 ---
 
 ## Fujitsu E:61 Error Code — What It Means

@@ -12,6 +12,7 @@ tags:
   - atc
   - tool-changer
 money_part: "Proximity switch"
+most_likely_cause: "ATC arm is out of alignment"
 ---
 
 ## Haas Alarm 121 — What It Means

@@ -11,6 +11,10 @@ tags:
   - dishwasher
   - ge
 most_likely_cause: "water heater set too low or hot water depleted by other fixtures"
+free_checks:
+  - "Reset dishwasher by flipping breaker off 60 seconds, then run diagnostic cycle to retest"
+  - "Inspect heating element wire connectors for corrosion or looseness at element terminals"
+  - "Test heating element continuity with multimeter (should read 15-30 ohms; infinite = failed element)"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE dishwasher heating element"

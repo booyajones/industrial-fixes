@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Braking resistor"
+most_likely_cause: "Deceleration ramp too short"
 ---
 
 ## Siemens Micromaster F0002 — What It Means

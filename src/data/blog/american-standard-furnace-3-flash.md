@@ -10,6 +10,7 @@ tags:
   - hvac
   - american-standard
 money_part: "Pressure switch"
+most_likely_cause: "Clogged condensate drain or trap"
 ---
 
 ## American Standard Furnace 3 Flash Error Code — What It Means

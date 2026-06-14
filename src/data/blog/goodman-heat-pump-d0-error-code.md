@@ -11,6 +11,7 @@ tags:
   - mini-split
   - goodman
 money_part: "Goodman integrated control module"
+most_likely_cause: "Board never programmed after installation or replacement"
 ---
 
 ## Goodman d0 Error Code — What It Means

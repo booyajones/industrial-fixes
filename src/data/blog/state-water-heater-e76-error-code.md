@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Main control board (PCB)"
+most_likely_cause: "Loose, corroded, or damaged wiring and connectors"
 ---
 
 ## State Water Heater E76 Error Code — What It Means

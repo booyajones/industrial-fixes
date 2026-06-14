@@ -11,6 +11,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Outdoor inverter PCB (Daikin heat pump)"
+most_likely_cause: "Defective outdoor inverter PCB"
 ---
 
 ## Daikin H8 Error Code — What It Means

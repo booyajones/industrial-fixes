@@ -10,6 +10,7 @@ tags:
   - welding
   - esab
 money_part: "Cooling fan assembly"
+most_likely_cause: "Duty cycle exceeded"
 ---
 
 ## ESAB Welder F01 Fault Code — What It Means

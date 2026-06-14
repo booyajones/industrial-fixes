@@ -11,6 +11,7 @@ tags:
   - mini-split
   - cooper-and-hunter
 money_part: "IPM board (outdoor inverter module)"
+most_likely_cause: "Incoming power abnormality"
 ---
 
 ## Cooper and Hunter Mini Split P1 Error — What It Means

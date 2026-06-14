@@ -10,6 +10,7 @@ tags:
   - hvac
   - lennox
 money_part: "Outdoor unit control board"
+most_likely_cause: "Loose or damaged communication wiring at the outdoor unit"
 ---
 
 ## Lennox Error Code 434 — What It Means

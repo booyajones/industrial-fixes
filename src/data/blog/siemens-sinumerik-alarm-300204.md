@@ -10,6 +10,7 @@ tags:
   - cnc
   - siemens
 money_part: "Sinamics S120 motor module"
+most_likely_cause: "Mechanical binding or jam"
 ---
 
 ## Siemens Sinumerik Alarm 300204 — What It Means

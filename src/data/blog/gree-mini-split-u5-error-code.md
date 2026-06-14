@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Outdoor PCB assembly (inverter control board)"
+most_likely_cause: "Outdoor PCB current-sensing circuit failure"
 ---
 
 ## Gree Mini Split U5 Error Code — What It Means

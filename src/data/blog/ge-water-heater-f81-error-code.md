@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ge
 money_part: "Leak sensor battery"
+most_likely_cause: "Depleted leak sensor battery"
 ---
 
 ## GE Water Heater F81 Error Code — What It Means

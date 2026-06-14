@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Outdoor unit heat sink thermistor"
+most_likely_cause: "Failed heat sink thermistor"
 ---
 
 ## Fujitsu E:77 Error — What It Means

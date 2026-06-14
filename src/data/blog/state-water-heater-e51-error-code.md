@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Temperature sensor (thermistor)"
+most_likely_cause: "Failed thermistor"
 ---
 
 ## State Water Heater E51 Error Code — What It Means

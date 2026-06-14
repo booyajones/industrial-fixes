@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Relay coil or contactor coil"
+most_likely_cause: "Excessive current draw from connected load"
 ---
 
 ## Danfoss FC302 Alarm 42 — What It Means

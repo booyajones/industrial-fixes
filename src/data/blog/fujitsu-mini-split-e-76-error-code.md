@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Fujitsu outdoor unit operating valve thermistor"
+most_likely_cause: "Failed operating valve thermistor"
 ---
 
 ## Fujitsu E:76 Error — What It Means

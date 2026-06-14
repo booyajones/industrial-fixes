@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Safety relay"
+most_likely_cause: "External E-stop or safety device is active"
 ---
 
 ## Danfoss FC302 Alarm 24 — What It Means

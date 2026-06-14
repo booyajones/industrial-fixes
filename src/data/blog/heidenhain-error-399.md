@@ -10,6 +10,7 @@ tags:
   - cnc
   - heidenhain
 money_part: "Heidenhain encoder cable"
+most_likely_cause: "Mechanical binding or excessive load"
 ---
 
 ## Heidenhain TNC Error 399 — What It Means

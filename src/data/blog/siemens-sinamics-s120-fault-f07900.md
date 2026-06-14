@@ -15,6 +15,7 @@ tags:
   - cnc
 description: "Siemens SINAMICS S120 fault F07900 and F07901 motor overtemperature — causes, step-by-step fix, related faults F30001 and F30011, and parts table for the S120 servo/drive system."
 money_part: "KTY84-130 temperature sensor"
+most_likely_cause: "Sustained overload (F07900/F07901)"
 ---
 
 ## Siemens SINAMICS S120 Fault F07900 — Motor Overtemperature (Actual)

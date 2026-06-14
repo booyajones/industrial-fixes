@@ -11,6 +11,7 @@ tags:
   - mini-split
   - trane
 money_part: "Discharge temperature sensor (thermistor)"
+most_likely_cause: "Blocked airflow or dirty coils"
 ---
 
 ## Trane E18 Error Code — What It Means

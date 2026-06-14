@@ -11,6 +11,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Compressor sensor harness"
+most_likely_cause: "Disconnected or loose harness connector"
 ---
 
 ## Daikin H0 Error Code — What It Means

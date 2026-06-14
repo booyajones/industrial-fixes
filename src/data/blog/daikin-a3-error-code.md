@@ -10,6 +10,7 @@ tags:
   - hvac
   - daikin
 money_part: "Condensate pump (mini)"
+most_likely_cause: "Clogged condensate drain line"
 ---
 
 ## Daikin A3 Error Code — What It Means

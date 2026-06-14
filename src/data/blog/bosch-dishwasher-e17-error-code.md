@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - bosch
 money_part: "Bosch dishwasher water inlet valve"
+free_checks:
+  - "Check for kinked inlet hose and verify water supply valve is fully open"
+  - "Clean inlet valve screen filter at hose connection for debris and sediment"
+  - "Verify adequate water pressure (minimum 20 PSI) at supply"
+no_buy_pct: "40%"
 part_price: "$30-80"
 most_likely_cause: "Water supply shutoff valve closed or partially closed"
 likelihood: "the most common cause"

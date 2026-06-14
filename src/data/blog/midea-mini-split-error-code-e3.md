@@ -10,6 +10,7 @@ tags:
   - mini-split
   - midea
 money_part: "S-wire / communication wire"
+most_likely_cause: "Loose or corroded S-wire connection"
 ---
 
 ## Midea Mini Split Error Code E3 — What It Means

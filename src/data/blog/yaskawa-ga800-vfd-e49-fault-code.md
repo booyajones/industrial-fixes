@@ -11,6 +11,7 @@ tags:
   - yaskawa
 diy_or_pro: "pro"
 money_part: "Yaskawa GA800 control board (if specified by support)"
+most_likely_cause: "Faulty wiring or loose connections"
 ---
 
 ## Yaskawa GA800 E49 Fault — What It Means

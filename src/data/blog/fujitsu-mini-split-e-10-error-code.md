@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Indoor unit controller PCB"
+most_likely_cause: "Communication wiring fault"
 ---
 
 ## Fujitsu E:10 Error Code — What It Means

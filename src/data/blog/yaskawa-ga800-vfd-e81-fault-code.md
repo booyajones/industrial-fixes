@@ -11,6 +11,7 @@ tags:
   - yaskawa
 diy_or_pro: "pro"
 money_part: "Yaskawa GA800 control board"
+most_likely_cause: "Misread or transposed display"
 ---
 
 ## Yaskawa GA800 E81 Fault Code — What It Means

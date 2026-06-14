@@ -10,6 +10,7 @@ tags:
   - boiler
   - burnham
 money_part: "Supply water temperature sensor (NTC)"
+most_likely_cause: "Failed NTC thermistor"
 ---
 
 ## Burnham Boiler E5 Error Code — What It Means

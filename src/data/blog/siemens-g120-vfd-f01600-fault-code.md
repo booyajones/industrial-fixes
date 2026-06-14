@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "STO safety relay or contactor"
+most_likely_cause: "STO input wiring fault"
 ---
 
 ## Siemens G120 F01600 — What It Means

@@ -10,6 +10,7 @@ tags:
   - cnc
   - fanuc
 money_part: "Spindle motor cooling fan"
+most_likely_cause: "Excessive spindle load or duty cycle"
 ---
 
 ## Fanuc Alarm 700 — What It Means

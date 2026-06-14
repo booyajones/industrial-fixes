@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Fujitsu indoor room temperature sensor / thermistor"
+most_likely_cause: "Failed room thermistor"
 ---
 
 ## Fujitsu E:02 Error Code — What It Means

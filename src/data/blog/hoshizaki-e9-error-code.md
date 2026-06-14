@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - hoshizaki
 money_part: "Evaporator thermistor (E9 sensor)"
+most_likely_cause: "Failed thermistor"
 ---
 
 ## Hoshizaki E9 Error Code — What It Means

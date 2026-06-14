@@ -10,6 +10,7 @@ tags:
   - vfd
   - allen-bradley
 money_part: "Internal cooling fan (drive-specific)"
+most_likely_cause: "Clogged cooling fan or blocked vents"
 ---
 
 ## Allen Bradley PowerFlex 753 F35 Fault — What It Means

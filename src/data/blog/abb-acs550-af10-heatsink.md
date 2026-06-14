@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "Internal cooling fan"
+most_likely_cause: "Dirty internal cooling fan and heatsink fins"
 ---
 
 ## ABB ACS550 AF10 Fault — What It Means

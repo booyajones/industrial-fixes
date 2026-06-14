@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mrcool
 money_part: "Indoor PCB control board"
+most_likely_cause: "Loose or damaged wiring harness"
 ---
 
 ## MRCOOL FH 07 Error Code — What It Means

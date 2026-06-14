@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mrcool
 money_part: "Outdoor ambient temperature sensor (thermistor)"
+most_likely_cause: "Outdoor temperature below operating range"
 ---
 
 ## MRCOOL Mini Split P3 Error Code — What It Means

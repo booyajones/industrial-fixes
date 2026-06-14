@@ -11,6 +11,7 @@ tags:
   - mini-split
   - carrier
 money_part: "High/low pressure sensor (transducer)"
+most_likely_cause: "Defective pressure sensor"
 ---
 
 ## Carrier E22 Error Code — What It Means

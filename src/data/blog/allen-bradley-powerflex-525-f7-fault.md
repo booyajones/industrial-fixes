@@ -10,6 +10,7 @@ tags:
   - vfd
   - allen-bradley
 money_part: "PowerFlex 525 replacement drive"
+most_likely_cause: "Motor NP Amps (P033) not programmed"
 ---
 
 ## Allen Bradley PowerFlex 525 F7 Fault — What It Means

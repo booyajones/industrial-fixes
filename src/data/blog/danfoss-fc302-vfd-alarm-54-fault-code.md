@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Replacement motor (appropriate HP/kW rating)"
+most_likely_cause: "Motor undersized for AMA range"
 ---
 
 ## Danfoss FC302 Alarm 54 — What It Means

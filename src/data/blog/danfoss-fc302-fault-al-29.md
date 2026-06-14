@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "FC302 cooling fan assembly"
+most_likely_cause: "Clogged cooling fan or heat sink fins"
 ---
 
 ## Danfoss FC302 Alarm AL 29 — What It Means

@@ -11,6 +11,7 @@ tags:
   - yaskawa
 diy_or_pro: "pro"
 money_part: "Yaskawa GA800 control board"
+most_likely_cause: "Firmware-specific fault definition"
 ---
 
 ## Yaskawa GA800 E93 Fault — What It Means

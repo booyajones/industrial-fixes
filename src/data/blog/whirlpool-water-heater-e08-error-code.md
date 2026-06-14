@@ -10,6 +10,7 @@ tags:
   - water-heater
   - whirlpool
 money_part: "Whirlpool Energy Smart Module (ESM)"
+most_likely_cause: "Failed Energy Smart Module"
 ---
 
 ## Whirlpool E08 Error Code — What It Means

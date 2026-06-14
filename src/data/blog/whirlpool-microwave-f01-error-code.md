@@ -12,6 +12,7 @@ tags:
   - whirlpool
 diy_or_pro: "pro"
 money_part: "Oven temperature sensor"
+most_likely_cause: "Failed oven temperature sensor"
 ---
 
 ## Whirlpool Microwave F01 Error — What It Means

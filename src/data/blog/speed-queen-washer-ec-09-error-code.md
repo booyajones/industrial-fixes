@@ -11,6 +11,7 @@ tags:
   - washer
   - speed-queen
 money_part: "Speed Queen inlet water valve"
+most_likely_cause: "Inlet valve leaking internally"
 ---
 
 ## Speed Queen Washer EC:09 — What It Means

@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ao-smith
 money_part: "Temperature sensor (thermistor)"
+most_likely_cause: "Low or no flow through the heater"
 ---
 
 ## A.O. Smith Tankless E02 Error — What It Means

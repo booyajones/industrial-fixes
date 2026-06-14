@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "Load-side bearings or coupling"
+most_likely_cause: "Mechanical overload or jam"
 ---
 
 ## ABB VFD Fault 7121 — What It Means

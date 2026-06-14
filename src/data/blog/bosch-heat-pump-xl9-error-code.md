@@ -11,6 +11,7 @@ tags:
   - mini-split
   - bosch
 money_part: "Bosch heat pump compressor"
+most_likely_cause: "Unstable power supply"
 ---
 
 ## Bosch xL9 Error Code — What It Means

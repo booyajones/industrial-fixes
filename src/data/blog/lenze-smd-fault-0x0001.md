@@ -12,6 +12,7 @@ tags:
   - smd
   - overcurrent
 money_part: "VFD-rated motor cable"
+most_likely_cause: "Acceleration time is too short"
 ---
 
 ## Lenze SMD Fault 0x0001 — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Outdoor inverter power module (IPM) board"
+most_likely_cause: "Failing outdoor inverter power module (IPM) board"
 ---
 
 ## Pioneer Mini Split E9 Error Code — What It Means

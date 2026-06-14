@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 Control Board"
+most_likely_cause: "Misread or transposed fault code"
 ---
 
 ## Yaskawa GA800 E33 Fault Code — What It Means

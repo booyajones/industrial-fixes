@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - scotsman
 money_part: "Scotsman Ice Machine Cleaner (5 lb)"
+most_likely_cause: "Low refrigerant"
 ---
 
 ## Scotsman Ice Machine Error Code 4 — What It Means

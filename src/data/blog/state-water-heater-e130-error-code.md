@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Flue thermostat sensor (temperature sensor)"
+most_likely_cause: "Failed or misreading flue temperature sensor"
 ---
 
 ## State Water Heater E130 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - rheem
 money_part: "Suction thermistor"
+most_likely_cause: "Restricted airflow across the evaporator"
 ---
 
 ## Rheem A004 Error Code — What It Means

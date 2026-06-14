@@ -11,6 +11,7 @@ tags:
   - washer
   - samsung
 money_part: "Control panel / button membrane assembly"
+most_likely_cause: "Physically sticking button"
 ---
 
 ## Samsung bE8 Error Code — What It Means

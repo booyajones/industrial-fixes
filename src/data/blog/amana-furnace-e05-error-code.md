@@ -11,6 +11,7 @@ tags:
   - furnace
   - amana
 money_part: "Furnace control board fuse"
+most_likely_cause: "Blown control board fuse"
 ---
 
 ## Amana Furnace E05 Error Code — What It Means

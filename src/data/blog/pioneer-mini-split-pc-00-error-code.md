@@ -11,6 +11,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "IPM / inverter module board"
+most_likely_cause: "Failed IPM or inverter module"
 ---
 
 ## Pioneer PC 00 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - water-heater
   - rheem
 money_part: "Burner assembly (Rheem tankless)"
+most_likely_cause: "Normal combustion-hour accumulation"
 ---
 
 ## Rheem 401 Alarm — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
 money_part: "Flame sensor"
+most_likely_cause: "Grounded flame sensor rod"
 ---
 
 ## Carrier 25 Error Code — What It Means

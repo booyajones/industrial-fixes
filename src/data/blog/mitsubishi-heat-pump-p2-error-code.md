@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Mitsubishi pipe temperature thermistor (TH2)"
+most_likely_cause: "Open or shorted pipe thermistor"
 ---
 
 ## Mitsubishi P2 Error Code — What It Means

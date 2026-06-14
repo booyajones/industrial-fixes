@@ -11,6 +11,7 @@ tags:
   - mini-split
   - bosch
 money_part: "Bosch T5 outdoor coil temperature sensor"
+most_likely_cause: "Faulty T5 outdoor coil temperature sensor"
 ---
 
 ## Bosch Heat Pump E5 Error — What It Means

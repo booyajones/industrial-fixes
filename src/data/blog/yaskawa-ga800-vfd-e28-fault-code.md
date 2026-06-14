@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "GA800 control board (PCB)"
+most_likely_cause: "Misread or transposed fault code"
 ---
 
 ## Yaskawa GA800 E28 Fault Code — What It Means

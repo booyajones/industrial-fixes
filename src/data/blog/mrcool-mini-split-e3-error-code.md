@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mrcool
 money_part: "MRCOOL indoor fan motor (blower motor)"
+most_likely_cause: "Indoor fan motor malfunction"
 ---
 
 ## MRCOOL Mini Split E3 Error Code — What It Means

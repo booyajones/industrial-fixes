@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens G120 Power Module (PM)"
+most_likely_cause: "Insufficient cooling or blocked airflow"
 ---
 
 ## Siemens G120 A05001 Fault Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - daikin
 money_part: "Refrigerant charge"
+most_likely_cause: "Refrigerant leak at flare or braze joint"
 ---
 
 ## Daikin U4 Error Code — What It Means

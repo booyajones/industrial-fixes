@@ -10,6 +10,7 @@ tags:
   - cnc
   - okuma
 money_part: "ATC arm proximity switch"
+most_likely_cause: "ATC arm not completing its motion"
 ---
 
 ## Okuma CNC Alarm 1800 — What It Means

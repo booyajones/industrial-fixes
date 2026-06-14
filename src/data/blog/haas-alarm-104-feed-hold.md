@@ -10,6 +10,7 @@ tags:
   - cnc
   - haas
 money_part: "Door interlock switch"
+most_likely_cause: "Feed Hold button physically pressed"
 ---
 
 ## Haas Alarm 104 Feed Hold — What It Means

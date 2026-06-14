@@ -10,6 +10,7 @@ tags:
   - vfd
   - allen-bradley
 money_part: "Motor bearings"
+most_likely_cause: "Mechanical overload on the driven equipment"
 ---
 
 ## Allen-Bradley PowerFlex Fault F063 — What It Means

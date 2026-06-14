@@ -12,6 +12,7 @@ tags:
   - lg
 diy_or_pro: "pro"
 money_part: "LG direct-drive motor / stator assembly"
+most_likely_cause: "Loose or corroded motor harness connector"
 ---
 
 ## LG Washer SE Error Code — What It Means

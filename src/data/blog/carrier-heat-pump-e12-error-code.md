@@ -11,6 +11,7 @@ tags:
   - mini-split
   - carrier
 money_part: "Low-voltage control fuse (blade type)"
+most_likely_cause: "Blown low-voltage fuse on the control board"
 ---
 
 ## Carrier Heat Pump E12 Error Code — What It Means

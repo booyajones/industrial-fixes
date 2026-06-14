@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Igniter assembly"
+most_likely_cause: "Gas supply interrupted or pressure too low"
 ---
 
 ## State Water Heater E126 Error Code — What It Means

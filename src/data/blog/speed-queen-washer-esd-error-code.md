@@ -11,6 +11,7 @@ tags:
   - washer
   - speed-queen
 money_part: "Speed Queen washer main control board"
+most_likely_cause: "Utility over-voltage event"
 ---
 
 ## Speed Queen Washer ESd Error Code — What It Means

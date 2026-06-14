@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Braking resistor for Siemens G120"
+most_likely_cause: "Regenerative braking without proper dissipation"
 ---
 
 ## Siemens G120 F30002 — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Fujitsu thermistor sensor"
+most_likely_cause: "Incorrect code interpretation"
 ---
 
 ## Fujitsu Mini Split E:21 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - washer
   - speed-queen
 money_part: "Speed Queen unbalance switch"
+most_likely_cause: "Single bulky item or clumped laundry"
 ---
 
 ## Speed Queen UE Error Code — What It Means

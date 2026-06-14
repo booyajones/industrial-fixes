@@ -10,6 +10,7 @@ tags:
   - cnc
   - mitsubishi
 money_part: "MDS servo amplifier"
+most_likely_cause: "Mechanical binding or obstruction"
 ---
 
 ## Mitsubishi CNC Alarm 500 — What It Means

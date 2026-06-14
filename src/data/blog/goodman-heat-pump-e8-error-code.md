@@ -11,6 +11,7 @@ tags:
   - mini-split
   - goodman
 money_part: "Condenser fan motor (Goodman)"
+most_likely_cause: "Dirty or restricted condenser coil"
 ---
 
 ## Goodman E8 Error Code — What It Means

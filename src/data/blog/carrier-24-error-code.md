@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
 money_part: "3A mini blade fuse (AGC-3 or ATC-3)"
+most_likely_cause: "Short circuit in the thermostat wiring"
 ---
 
 ## Carrier 24 Error Code — What It Means

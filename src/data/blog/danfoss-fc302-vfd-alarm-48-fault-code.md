@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Danfoss FC 302 control card (control PCB)"
+most_likely_cause: "Defective control card"
 ---
 
 ## Danfoss FC302 Alarm 48 — What It Means

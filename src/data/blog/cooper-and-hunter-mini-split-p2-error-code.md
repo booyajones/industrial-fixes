@@ -11,6 +11,7 @@ tags:
   - mini-split
   - cooper-hunter
 money_part: "Overload protector (compressor)"
+most_likely_cause: "Blocked airflow at indoor or outdoor unit"
 ---
 
 ## Cooper & Hunter P2 Error Code — What It Means

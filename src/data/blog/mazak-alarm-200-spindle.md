@@ -10,6 +10,7 @@ tags:
   - cnc
   - mazak
 money_part: "Spindle drive belt"
+most_likely_cause: "Spindle belt slipping or broken"
 ---
 
 ## Mazak Alarm 200 — Spindle Speed Error: What It Means

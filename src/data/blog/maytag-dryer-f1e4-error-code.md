@@ -11,6 +11,7 @@ tags:
   - dryer
   - maytag
 money_part: "Appliance Control Board (ACU)"
+most_likely_cause: "Misread error code"
 ---
 
 ## Maytag Dryer F1E4 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - refrigerator
   - maytag
 money_part: "Main control board (model-specific)"
+most_likely_cause: "Mistaken code or display glitch"
 ---
 
 ## Maytag Refrigerator C6 Error Code — What It Means

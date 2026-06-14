@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Indoor unit control PCB"
+most_likely_cause: "Misread or transcribed code"
 ---
 
 ## Mitsubishi F0007 Error Code — What It Means

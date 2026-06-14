@@ -12,6 +12,7 @@ tags:
   - samsung
 diy_or_pro: "diy"
 money_part: "Weight or humidity sensor"
+most_likely_cause: "Transient control glitch"
 ---
 
 ## Samsung Microwave E-33 Error — What It Means

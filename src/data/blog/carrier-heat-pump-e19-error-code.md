@@ -11,6 +11,7 @@ tags:
   - mini-split
   - carrier
 money_part: "Carrier indoor unit control board"
+most_likely_cause: "Loose or disconnected interconnecting wiring"
 ---
 
 ## Carrier E19 Error Code — What It Means

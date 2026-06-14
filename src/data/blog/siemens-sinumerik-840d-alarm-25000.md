@@ -10,6 +10,7 @@ tags:
   - cnc
   - siemens
 money_part: "DRIVE-CLiQ cable"
+most_likely_cause: "Drive module overcurrent or overtemperature"
 ---
 
 ## Siemens Sinumerik 840D Alarm 25000 — What It Means

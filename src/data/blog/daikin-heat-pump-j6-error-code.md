@@ -11,6 +11,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Outdoor heat exchanger thermistor"
+most_likely_cause: "Failed thermistor"
 ---
 
 ## Daikin J6 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - water-heater
   - whirlpool
 money_part: "Whirlpool electronic thermostat (ET)"
+most_likely_cause: "Failed electronic thermostat module"
 ---
 
 ## Whirlpool Water Heater E12 Error Code — What It Means

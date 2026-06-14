@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - hoshizaki
 money_part: "Ice thickness sensor"
+most_likely_cause: "Mineral scale on ice thickness sensor"
 ---
 
 ## Hoshizaki E4 Error Code — What It Means

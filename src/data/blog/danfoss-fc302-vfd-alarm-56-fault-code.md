@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Danfoss FC 302 control keypad (LCP)"
+most_likely_cause: "Operator pressed stop during AMA"
 ---
 
 ## Danfoss FC302 VFD ALARM 56 — What It Means

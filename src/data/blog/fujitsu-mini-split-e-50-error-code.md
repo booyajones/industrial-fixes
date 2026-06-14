@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Fujitsu indoor coil thermistor"
+most_likely_cause: "Indoor coil thermistor shorted"
 ---
 
 ## Fujitsu E:50 Error Code — What It Means

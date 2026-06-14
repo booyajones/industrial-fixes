@@ -10,6 +10,7 @@ tags:
   - mini-split
   - lennox
 money_part: "S-wire / signal wire"
+most_likely_cause: "Loose S-wire at the outdoor terminal block"
 ---
 
 ## Lennox Mini Split Error Code E1 — What It Means

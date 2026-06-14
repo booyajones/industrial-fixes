@@ -11,6 +11,7 @@ tags:
   - mini-split
   - lg
 money_part: "LG outdoor unit inverter PCB"
+most_likely_cause: "Failed inverter PCB"
 ---
 
 ## LG Mini Split CH29 Error Code — What It Means

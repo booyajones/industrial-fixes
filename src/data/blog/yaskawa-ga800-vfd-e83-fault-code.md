@@ -11,6 +11,7 @@ tags:
   - yaskawa
 diy_or_pro: "pro"
 money_part: "Yaskawa GA800 communication option card"
+most_likely_cause: "Improperly seated option card"
 ---
 
 ## Yaskawa GA800 E83 Fault — What It Means

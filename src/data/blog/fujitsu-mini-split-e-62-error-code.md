@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Outdoor main PCB (control board)"
+most_likely_cause: "Failed outdoor main PCB"
 ---
 
 ## Fujitsu E:62 Error Code — What It Means

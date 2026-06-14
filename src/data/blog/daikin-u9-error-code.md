@@ -10,6 +10,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Condenser fan motor"
+most_likely_cause: "Dirty or blocked outdoor coil"
 ---
 
 ## Daikin U9 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - senville
 money_part: "TS06-N10 refrigerant leak sensor"
+most_likely_cause: "Faulty refrigerant leak-detection sensor (TS06-N10)"
 ---
 
 ## Senville Mini Split EH C2 Error Code — What It Means

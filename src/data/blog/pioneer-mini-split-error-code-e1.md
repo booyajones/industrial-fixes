@@ -10,6 +10,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Communication / signal wire (18 AWG)"
+most_likely_cause: "Damaged or miswired interconnecting communication wire"
 ---
 
 ## Pioneer Mini Split E1 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Communication wire (S wire)"
+most_likely_cause: "Damaged or disconnected communication wire"
 ---
 
 ## Pioneer Mini Split Error Code E6 — What It Means

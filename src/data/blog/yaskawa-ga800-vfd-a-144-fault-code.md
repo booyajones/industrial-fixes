@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Motor cable (shielded, VFD-rated)"
+most_likely_cause: "Misread or incorrect fault code"
 diy_or_pro: "pro"
 ---
 

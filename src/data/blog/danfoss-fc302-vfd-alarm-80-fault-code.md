@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Danfoss FC302 control card (PCB)"
+most_likely_cause: "Manual reset or initialization"
 ---
 
 ## Danfoss FC302 VFD Alarm 80 — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens Micromaster I/O board"
+most_likely_cause: "Shorted IGBT or DC-link overcurrent"
 ---
 
 ## Siemens Micromaster F0022 — What It Means

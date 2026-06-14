@@ -10,6 +10,7 @@ tags:
   - mini-split
   - klimaire
 money_part: "Outdoor unit control PCB"
+most_likely_cause: "Loose connection at terminal blocks"
 ---
 
 ## Klimaire Mini Split E1 Error Code — What It Means

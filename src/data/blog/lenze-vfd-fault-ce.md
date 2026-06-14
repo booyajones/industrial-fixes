@@ -10,6 +10,7 @@ tags:
   - vfd
   - lenze
 money_part: "Fieldbus cable (shielded)"
+most_likely_cause: "Fieldbus cable disconnected or damaged"
 ---
 
 ## Lenze VFD Fault CE — What It Means

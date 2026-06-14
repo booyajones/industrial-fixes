@@ -11,6 +11,7 @@ tags:
   - mini-split
   - senville
 money_part: "Refrigerant line-set or copper tubing"
+most_likely_cause: "Temporary sensor glitch"
 ---
 
 ## Senville EC C1 Error Code — What It Means

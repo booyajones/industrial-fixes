@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi-heavy-industries
 money_part: "Outdoor unit control PCB (printed circuit board)"
+most_likely_cause: "Outdoor control PCB or microcomputer failure"
 ---
 
 ## Mitsubishi E5 Error Code — What It Means

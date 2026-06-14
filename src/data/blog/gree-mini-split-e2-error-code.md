@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Indoor evaporator anti-freeze thermistor"
+most_likely_cause: "Dirty or clogged indoor air filter"
 ---
 
 ## Gree Mini Split E2 Error — What It Means

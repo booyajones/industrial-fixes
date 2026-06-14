@@ -11,6 +11,7 @@ tags:
   - washer
   - samsung
 money_part: "Samsung washer control panel assembly (user interface board)"
+most_likely_cause: "Stuck or jammed button"
 ---
 
 ## Samsung Washer bE7 Error Code — What It Means

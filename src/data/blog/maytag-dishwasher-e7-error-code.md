@@ -11,6 +11,13 @@ tags:
   - dishwasher
   - maytag
 money_part: "Dishwasher heating element"
+free_checks:
+  - "Reset dishwasher by turning off circuit breaker for 5 minutes then back on"
+  - "Inspect wire harness connections at heating element terminals for corrosion or looseness"
+  - "Verify drain pump operates and no standing water covers heating element"
+no_buy_pct: "10%"
+part_price: "$50-120"
+most_likely_cause: "Failed heating element"
 ---
 
 ## Maytag Dishwasher E7 Error Code — What It Means

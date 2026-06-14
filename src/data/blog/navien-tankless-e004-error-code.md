@@ -10,6 +10,7 @@ tags:
   - water-heater
   - navien
 money_part: "Flame rod / flame sensor assembly"
+most_likely_cause: "Exhaust or intake vent blockage"
 ---
 
 ## Navien E004 Error Code — What It Means

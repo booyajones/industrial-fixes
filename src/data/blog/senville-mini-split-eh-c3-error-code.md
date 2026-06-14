@@ -11,6 +11,7 @@ tags:
   - mini-split
   - senville
 money_part: "Senville TS05-N10 Refrigerant Sensor"
+most_likely_cause: "Failed refrigerant sensor element"
 ---
 
 ## Senville EH C3 Error Code — What It Means

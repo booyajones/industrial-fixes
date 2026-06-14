@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ge
 money_part: "Inlet temperature sensor (thermistor)"
+most_likely_cause: "Preheated inlet water"
 ---
 
 ## GE Water Heater F62 Error Code — What It Means

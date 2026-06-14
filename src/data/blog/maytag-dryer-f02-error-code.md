@@ -11,6 +11,7 @@ tags:
   - dryer
   - maytag
 money_part: "Main control board"
+most_likely_cause: "Control-board glitch"
 ---
 
 ## Maytag Dryer F02 Error Code — What It Means

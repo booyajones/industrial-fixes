@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - kenmore
 money_part: "Control board (if confirmed defective after diagnosis)"
+most_likely_cause: "Misidentified brand or model"
 diy_or_pro: "pro"
 ---
 

@@ -10,6 +10,7 @@ tags:
   - hvac
   - york
 money_part: "Hot surface igniter"
+most_likely_cause: "Failed hot surface igniter"
 ---
 
 ## York 8 Flashes Error Code — What It Means

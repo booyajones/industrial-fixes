@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - hoshizaki
 money_part: "Hot gas solenoid valve"
+most_likely_cause: "Low refrigerant charge"
 ---
 
 ## Hoshizaki E6 Error Code — What It Means

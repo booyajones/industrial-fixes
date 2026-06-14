@@ -10,6 +10,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "3-conductor shielded control cable (18 AWG)"
+most_likely_cause: "Damaged or loose control wiring"
 ---
 
 ## Mitsubishi E6 AC Error Code — What It Means

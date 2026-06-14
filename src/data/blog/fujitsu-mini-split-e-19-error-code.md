@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Fujitsu mini-split refrigerant line set"
+most_likely_cause: "Refrigerant leak at flare connections or joints"
 ---
 
 ## Fujitsu E:19 Error Code — What It Means

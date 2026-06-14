@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Indoor ambient temperature sensor (room thermistor)"
+most_likely_cause: "Loose or unplugged sensor connector"
 ---
 
 ## Gree Mini-Split F1 Error Code — What It Means

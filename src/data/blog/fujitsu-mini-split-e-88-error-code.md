@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Fujitsu indoor main control board"
+most_likely_cause: "Power interruption or unstable supply"
 ---
 
 ## Fujitsu E:88 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - schneider
 money_part: "No hardware typically needed"
+most_likely_cause: "Parameter restore from an incompatible source"
 ---
 
 ## Schneider Altivar Fault CFF — What It Means

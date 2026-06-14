@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state-water-heaters
 money_part: "Model-specific control board"
+most_likely_cause: "Code not recognized in manufacturer materials"
 ---
 
 ## State Water Heater E135 Error Code — What It Means

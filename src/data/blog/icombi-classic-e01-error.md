@@ -10,6 +10,7 @@ tags:
   - appliance
   - rational
 money_part: "Differential pressure sensor"
+most_likely_cause: "Unit too hot during calibration"
 ---
 
 ## Rational iCombi Classic E01 — What It Means

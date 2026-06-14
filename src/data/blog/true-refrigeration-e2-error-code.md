@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - true-refrigeration
 money_part: "Door gasket"
+most_likely_cause: "Door left open or door gasket failure"
 ---
 
 ## True Refrigeration E2 Error Code — What It Means

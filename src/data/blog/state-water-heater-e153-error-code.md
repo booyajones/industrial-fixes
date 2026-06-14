@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Condensate float switch"
+most_likely_cause: "Blocked condensate drain line"
 ---
 
 ## State Water Heater E153 Error Code — What It Means

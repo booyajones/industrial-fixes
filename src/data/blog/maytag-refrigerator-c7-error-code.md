@@ -11,6 +11,7 @@ tags:
   - refrigerator
   - maytag
 money_part: "Maytag refrigerator temperature sensor (thermistor)"
+most_likely_cause: "Failed thermistor or temperature sensor"
 ---
 
 ## Maytag Refrigerator C7 Error Code — What It Means

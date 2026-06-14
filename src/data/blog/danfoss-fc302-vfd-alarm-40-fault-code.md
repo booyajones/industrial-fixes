@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Field wiring for terminal 27"
+most_likely_cause: "Short circuit on terminal 27 wiring"
 ---
 
 ## Danfoss FC302 Alarm 40 — What It Means

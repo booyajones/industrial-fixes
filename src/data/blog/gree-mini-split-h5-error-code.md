@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Gree outdoor PCB / inverter board"
+most_likely_cause: "Restricted airflow"
 ---
 
 ## Gree Mini Split H5 Error Code — What It Means

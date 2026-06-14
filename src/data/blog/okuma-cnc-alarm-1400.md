@@ -10,6 +10,7 @@ tags:
   - cnc
   - okuma
 money_part: "Encoder backup battery"
+most_likely_cause: "Encoder battery low or dead"
 ---
 
 ## Okuma CNC Alarm 1400 — What It Means

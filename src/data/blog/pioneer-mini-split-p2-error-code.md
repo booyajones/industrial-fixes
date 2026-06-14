@@ -11,6 +11,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Compressor overload protector"
+most_likely_cause: "Restricted airflow through indoor or outdoor unit"
 ---
 
 ## Pioneer Mini Split P2 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens Startdrive commissioning software"
+most_likely_cause: "Reference parameter set to zero"
 ---
 
 ## Siemens G120 F01033 — What It Means

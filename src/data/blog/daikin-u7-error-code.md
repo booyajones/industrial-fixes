@@ -10,6 +10,7 @@ tags:
   - hvac
   - daikin
 money_part: "Inverter PCB"
+most_likely_cause: "Inverter or control PCB mismatch (Room Air units)"
 ---
 
 ## Daikin U7 Error Code — What It Means

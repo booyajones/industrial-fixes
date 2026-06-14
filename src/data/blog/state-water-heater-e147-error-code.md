@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Flame sensor rod"
+most_likely_cause: "Model-specific code not verified"
 ---
 
 ## State Water Heater E147 Error Code — What It Means

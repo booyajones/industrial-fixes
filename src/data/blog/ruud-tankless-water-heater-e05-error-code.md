@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ruud
 money_part: "Inlet filter screen"
+most_likely_cause: "Clogged inlet filter screen"
 ---
 
 ## Ruud E05 Error Code — What It Means

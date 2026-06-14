@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
 money_part: "Carrier integrated furnace control board"
+most_likely_cause: "Failed control board"
 ---
 
 ## Carrier 45 Error Code — What It Means

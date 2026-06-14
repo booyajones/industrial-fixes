@@ -11,6 +11,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Compressor wiring harness"
+most_likely_cause: "Loose or corroded compressor harness connector"
 ---
 
 ## Daikin H6 Error Code — What It Means

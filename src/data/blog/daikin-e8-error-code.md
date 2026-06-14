@@ -10,6 +10,7 @@ tags:
   - hvac
   - daikin
 money_part: "Daikin inverter compressor"
+most_likely_cause: "Failed compressor"
 ---
 
 ## Daikin E8 Error — What It Means

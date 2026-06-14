@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - delfield
 money_part: "Temperature probe / thermistor"
+most_likely_cause: "Failed temperature probe"
 ---
 
 ## Delfield Refrigerator Error Code E1 — What It Means

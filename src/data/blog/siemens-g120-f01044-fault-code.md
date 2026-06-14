@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens SINAMICS G120 Control Unit (CU)"
+most_likely_cause: "Corrupted parameter data"
 ---
 
 ## Siemens G120 F01044 — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Motor cooling fan or fan kit"
+most_likely_cause: "Motor overload"
 ---
 
 ## Siemens Micromaster F0011 — What It Means

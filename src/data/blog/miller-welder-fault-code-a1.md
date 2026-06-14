@@ -10,6 +10,7 @@ tags:
   - welding
   - miller
 money_part: "MIG gun / torch"
+most_likely_cause: "Direct short on the output"
 ---
 
 ## Miller Welder A1 Fault Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - welding
   - esab
 money_part: "Contact tip"
+most_likely_cause: "Dead short at the output"
 ---
 
 ## ESAB Welder F02 Fault Code — What It Means

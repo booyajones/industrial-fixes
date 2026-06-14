@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
 money_part: "Carrier slave thermostat"
+most_likely_cause: "Incorrect device addressing"
 ---
 
 ## Carrier Error Code 19 — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - bosch
 money_part: "T6B temperature sensor (thermistor)"
+most_likely_cause: "Failed or damaged T6B temperature sensor"
 ---
 
 ## Bosch Heat Pump F3 Error Code — What It Means

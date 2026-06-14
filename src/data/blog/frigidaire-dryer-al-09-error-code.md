@@ -11,6 +11,7 @@ tags:
   - dryer
   - frigidaire
 money_part: "Frigidaire Dryer User Interface Control Board"
+most_likely_cause: "Misreading E65 as AL-09"
 diy_or_pro: "diy"
 ---
 

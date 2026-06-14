@@ -11,6 +11,7 @@ tags:
   - dryer
   - frigidaire
 money_part: "Pressure switch / water-level sensor"
+most_likely_cause: "Kinked or blocked pressure tube"
 ---
 
 ## Frigidaire Dryer AL-29 Error Code — What It Means

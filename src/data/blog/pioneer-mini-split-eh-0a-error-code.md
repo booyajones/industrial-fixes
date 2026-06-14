@@ -11,6 +11,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Indoor unit main control board (PCB)"
+most_likely_cause: "Indoor control board EEPROM failure"
 ---
 
 ## Pioneer Mini Split EH 0A Error Code — What It Means

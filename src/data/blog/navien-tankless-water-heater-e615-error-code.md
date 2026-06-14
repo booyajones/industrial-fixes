@@ -10,6 +10,7 @@ tags:
   - water-heater
   - navien
 money_part: "Navien main control board / PCB"
+most_likely_cause: "Main control board failure"
 ---
 
 ## Navien E615 Error Code — What It Means

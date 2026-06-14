@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Fieldbus communication option card"
+most_likely_cause: "No active network connection"
 ---
 
 ## Danfoss FC302 Alarm 34 — What It Means

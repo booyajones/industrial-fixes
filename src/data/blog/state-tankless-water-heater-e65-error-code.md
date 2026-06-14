@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Air intake screen"
+most_likely_cause: "Incorrect model or brand family"
 ---
 
 ## State Tankless E65 Error — What It Means

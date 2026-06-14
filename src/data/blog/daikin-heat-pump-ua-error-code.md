@@ -11,6 +11,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Daikin outdoor unit PCB (control board)"
+most_likely_cause: "Wrong model combination"
 ---
 
 ## Daikin UA Error Code — What It Means

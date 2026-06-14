@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "G120 Control Unit (CU) with Safety Integrated"
+most_likely_cause: "EMC or cabinet wiring issues"
 ---
 
 ## Siemens G120 F01625 — What It Means

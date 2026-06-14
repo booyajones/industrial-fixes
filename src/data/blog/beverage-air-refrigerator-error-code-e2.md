@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - beverage-air
 money_part: "Evaporator sensor / probe"
+most_likely_cause: "Failed evaporator sensor"
 ---
 
 ## Beverage-Air Refrigerator Error Code E2 — What It Means

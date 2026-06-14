@@ -11,6 +11,7 @@ tags:
   - dryer
   - kenmore
 money_part: "Outlet thermistor / exhaust temperature sensor"
+most_likely_cause: "Restricted exhaust venting"
 ---
 
 ## Kenmore Dryer F75 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - welding
   - miller
 money_part: "Weld lead set"
+most_likely_cause: "Shorted weld leads or work clamp"
 ---
 
 ## Miller Welder Fault Code B1 — What It Means

@@ -10,6 +10,7 @@ tags:
   - water-heater
   - bosch
 money_part: "Hot water outlet sensor"
+most_likely_cause: "Scale buildup in heat exchanger"
 ---
 
 ## Bosch E1 Error Code — What It Means

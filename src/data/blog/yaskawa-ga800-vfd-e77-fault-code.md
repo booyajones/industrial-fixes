@@ -11,6 +11,7 @@ tags:
   - yaskawa
 diy_or_pro: "pro"
 money_part: "GA800 control board (PCB assembly)"
+most_likely_cause: "Misread or non-existent code"
 ---
 
 ## Yaskawa GA800 E77 Fault — What It Means

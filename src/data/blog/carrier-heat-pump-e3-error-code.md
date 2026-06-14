@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
 money_part: "Indoor blower motor"
+most_likely_cause: "Restricted airflow from dirty filter or blower wheel"
 ---
 
 ## Carrier Heat Pump E3 Error Code — What It Means

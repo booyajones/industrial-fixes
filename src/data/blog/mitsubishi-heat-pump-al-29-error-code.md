@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Indoor control PCB"
+most_likely_cause: "Misread or non-standard code display"
 ---
 
 ## Mitsubishi AL-29 Error Code — What It Means

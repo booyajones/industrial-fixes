@@ -11,6 +11,7 @@ tags:
   - mini-split
   - carrier
 money_part: "Air filter (correct size for your air handler)"
+most_likely_cause: "Model-specific code definition"
 ---
 
 ## Carrier E10 Error Code — What It Means

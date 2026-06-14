@@ -10,6 +10,7 @@ tags:
   - water-heater
   - noritz
 money_part: "Noritz Quick Connect Communication Cord"
+most_likely_cause: "Loose or disconnected quick-connect cord"
 ---
 
 ## Noritz F76 Error Code — What It Means

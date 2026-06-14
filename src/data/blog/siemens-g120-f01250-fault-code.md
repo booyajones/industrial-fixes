@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens G120 Control Unit (CU)"
+most_likely_cause: "Undocumented or firmware-specific fault code"
 ---
 
 ## Siemens G120 F01250 Fault Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - refrigerator
   - maytag
 money_part: "Door switch"
+most_likely_cause: "Power interruption or control reset"
 ---
 
 ## Maytag Refrigerator SA Error Code — What It Means

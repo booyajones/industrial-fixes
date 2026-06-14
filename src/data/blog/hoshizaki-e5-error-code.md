@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - hoshizaki
 money_part: "Condenser fan motor"
+most_likely_cause: "High ambient temperature"
 ---
 
 ## Hoshizaki E5 Error Code — What It Means

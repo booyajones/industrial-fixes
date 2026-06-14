@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens G120 Control Unit (CU)"
+most_likely_cause: "Corrupted parameter or data state"
 ---
 
 ## Siemens G120 F01000 — What It Means

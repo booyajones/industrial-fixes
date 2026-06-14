@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 control board"
+most_likely_cause: "Worn precharge relay"
 ---
 
 ## Yaskawa GA800 E27 Fault Code — What It Means

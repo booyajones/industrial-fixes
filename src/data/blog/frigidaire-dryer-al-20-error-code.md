@@ -11,6 +11,7 @@ tags:
   - dryer
   - frigidaire
 money_part: "Door switch (normally-open micro-switch)"
+most_likely_cause: "Door not fully latched"
 ---
 
 ## Frigidaire Dryer AL-20 Error Code — What It Means

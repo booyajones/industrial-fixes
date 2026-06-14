@@ -11,6 +11,7 @@ tags:
   - mini-split
   - trane
 money_part: "Trane inverter control board"
+most_likely_cause: "Low or high incoming line voltage"
 ---
 
 ## Trane Heat Pump E5 Error Code — What It Means

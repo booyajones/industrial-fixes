@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens SINAMICS G120 Control Unit (CU)"
+most_likely_cause: "Defective temperature sensor in the Control Unit"
 ---
 
 ## Siemens G120 A03520 — What It Means

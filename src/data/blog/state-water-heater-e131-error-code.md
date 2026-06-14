@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Circulation pump"
+most_likely_cause: "Pump failure or air in the system"
 ---
 
 ## State Water Heater E131 Error Code — What It Means

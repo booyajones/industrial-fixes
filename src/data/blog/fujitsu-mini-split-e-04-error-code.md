@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Fujitsu indoor unit pipe thermistor sensor"
+most_likely_cause: "Loose or unplugged sensor connector"
 ---
 
 ## Fujitsu E:04 Error Code — What It Means

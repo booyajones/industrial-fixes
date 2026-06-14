@@ -10,6 +10,7 @@ tags:
   - hvac
   - ducane
 money_part: "Pressure switch"
+most_likely_cause: "Clogged or kinked pressure switch hose"
 ---
 
 ## Ducane Furnace E1 Error Code — What It Means

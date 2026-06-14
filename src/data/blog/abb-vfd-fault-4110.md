@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "Internal cooling fan"
+most_likely_cause: "Inadequate enclosure ventilation"
 ---
 
 ## ABB VFD Fault 4110 — What It Means

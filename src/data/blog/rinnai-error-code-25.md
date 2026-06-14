@@ -10,6 +10,7 @@ tags:
   - boiler
   - rinnai
 money_part: "Thermal fuse (one-time trip)"
+most_likely_cause: "Blocked exhaust vent"
 ---
 
 ## Rinnai Error Code 25 — What It Means

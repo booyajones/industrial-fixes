@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Gree reversing valve coil"
+most_likely_cause: "Loose or damaged communication wiring"
 ---
 
 ## Gree U7 Error Code — What It Means

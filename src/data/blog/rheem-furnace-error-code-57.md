@@ -10,6 +10,7 @@ tags:
   - hvac
   - rheem
 money_part: "Low-stage pressure switch"
+most_likely_cause: "Blocked or kinked pressure switch hose"
 ---
 
 ## Rheem Furnace Error Code 57 — What It Means

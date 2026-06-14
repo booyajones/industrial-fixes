@@ -11,6 +11,7 @@ tags:
   - mini-split
   - senville
 money_part: "Senville indoor PCB (control board)"
+most_likely_cause: "Actual refrigerant leak or low charge"
 ---
 
 ## Senville Mini Split EL 0C Error Code — What It Means

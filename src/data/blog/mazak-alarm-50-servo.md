@@ -10,6 +10,7 @@ tags:
   - cnc
   - mazak
 money_part: "MDS servo amplifier"
+most_likely_cause: "Axis overcurrent"
 ---
 
 ## Mazak Alarm 50 Servo — What It Means

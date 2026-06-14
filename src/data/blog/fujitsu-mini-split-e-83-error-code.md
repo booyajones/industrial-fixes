@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Indoor unit main PCB"
+most_likely_cause: "Loose or disconnected wiring harness connectors"
 ---
 
 ## Fujitsu Mini Split E:83 Error — What It Means

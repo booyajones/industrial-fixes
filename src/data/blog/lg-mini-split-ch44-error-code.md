@@ -11,6 +11,7 @@ tags:
   - mini-split
   - lg
 money_part: "LG outdoor air temperature thermistor (inlet air sensor)"
+most_likely_cause: "Loose or unplugged sensor connector"
 ---
 
 ## LG Mini Split CH44 Error Code — What It Means

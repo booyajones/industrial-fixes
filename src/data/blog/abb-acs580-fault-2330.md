@@ -11,6 +11,7 @@ tags:
   - abb
   - acs580
 money_part: "VFD-rated motor cable"
+most_likely_cause: "Moisture in the motor or peckerhead"
 ---
 
 ## ABB ACS580 Fault 2330, What It Means

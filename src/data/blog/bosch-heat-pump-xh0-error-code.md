@@ -11,6 +11,7 @@ tags:
   - mini-split
   - bosch
 money_part: "Bosch outdoor control board"
+most_likely_cause: "Loose or poorly seated EEPROM chip"
 ---
 
 ## Bosch xH0 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens G120 Control Unit (CU)"
+most_likely_cause: "Corrupted non-volatile memory data"
 ---
 
 ## Siemens G120 F01044 — What It Means

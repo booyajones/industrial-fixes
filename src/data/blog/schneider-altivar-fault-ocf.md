@@ -10,6 +10,7 @@ tags:
   - vfd
   - schneider
 money_part: "Motor cable (VFD-rated, screened)"
+most_likely_cause: "Motor short circuit"
 ---
 
 ## Schneider Altivar Fault OCF — What It Means

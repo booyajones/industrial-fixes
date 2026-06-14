@@ -12,6 +12,7 @@ tags:
   - whirlpool
 diy_or_pro: "diy"
 money_part: "Main control board"
+most_likely_cause: "Model-specific fault logic"
 part_price: "$50-200"
 ---
 

@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ao-smith
 money_part: "A.O. Smith Electronic Thermostat Assembly"
+most_likely_cause: "Failed electronic thermostat assembly"
 ---
 
 ## A.O. Smith E2 Error Code — What It Means

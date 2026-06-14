@@ -10,6 +10,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Outdoor thermistor (discharge or ambient)"
+most_likely_cause: "Damaged or loose communication wiring"
 ---
 
 ## Mitsubishi Mini Split U4 Error Code — What It Means

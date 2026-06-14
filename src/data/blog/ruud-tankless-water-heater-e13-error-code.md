@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ruud
 money_part: "Gas valve"
+most_likely_cause: "Gas supply off or restricted"
 ---
 
 ## Ruud E13 Error Code — What It Means

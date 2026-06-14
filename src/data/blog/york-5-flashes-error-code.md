@@ -10,6 +10,7 @@ tags:
   - hvac
   - york
 money_part: "Flame sensor"
+most_likely_cause: "Oxidized flame sensor rod"
 ---
 
 ## York 5 Flashes Error Code — What It Means

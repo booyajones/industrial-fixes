@@ -11,6 +11,7 @@ tags:
   - washer
   - bosch
 money_part: "Bosch washer pressure sensor"
+most_likely_cause: "Transient control fault"
 ---
 
 ## Bosch Washer F25 Error Code — What It Means

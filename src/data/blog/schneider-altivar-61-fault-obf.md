@@ -10,6 +10,7 @@ tags:
   - vfd
   - schneider
 money_part: "Motor (if windings damaged)"
+most_likely_cause: "Motor running at sustained overcurrent"
 ---
 
 ## Schneider Altivar 61 OBF Fault — What It Means

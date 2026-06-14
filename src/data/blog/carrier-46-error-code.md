@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
 money_part: "IFC control board"
+most_likely_cause: "Short circuit in low-voltage (24V) wiring"
 ---
 
 ## Carrier 46 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - daikin
 money_part: "Indoor coil thermistor"
+most_likely_cause: "Failed indoor coil thermistor"
 ---
 
 ## Daikin C4 Error Code — What It Means

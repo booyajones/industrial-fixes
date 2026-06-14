@@ -10,6 +10,7 @@ tags:
   - hvac
   - trane
 money_part: "Flow switch (chilled or condenser side)"
+most_likely_cause: "Chilled / Condenser Water Flow Lost"
 ---
 
 ## Trane CenTraVac Chiller Fault Codes — What They Mean

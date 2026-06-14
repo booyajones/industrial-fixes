@@ -10,6 +10,7 @@ tags:
   - water-heater
   - whirlpool
 money_part: "Whirlpool Electronic Thermostat (ET) assembly"
+most_likely_cause: "Failed upper thermistor sensor inside the ET"
 ---
 
 ## Whirlpool Water Heater E03 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Air intake screen or filter"
+most_likely_cause: "Blocked air intake screen or filter"
 ---
 
 ## State Water Heater E86 Error Code — What It Means

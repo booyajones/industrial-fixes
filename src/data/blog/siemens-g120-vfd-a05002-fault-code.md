@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens G120 cooling fan"
+most_likely_cause: "Ambient temperature too high"
 ---
 
 ## Siemens G120 A05002 Fault — What It Means

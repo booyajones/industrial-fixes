@@ -10,6 +10,7 @@ tags:
   - cnc
   - fanuc
 money_part: "Backup battery"
+most_likely_cause: "Machine returned to wrong reference position"
 ---
 
 ## Fanuc Alarm 500 — What It Means

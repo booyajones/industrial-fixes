@@ -10,6 +10,7 @@ tags:
   - water-heater
   - rinnai
 money_part: "Flame rod (flame sensor electrode)"
+most_likely_cause: "Low or no gas supply"
 ---
 
 ## Rinnai Error Code 11 — What It Means

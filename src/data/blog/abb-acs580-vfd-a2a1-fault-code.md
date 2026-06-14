@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "VFD-rated motor cable"
+most_likely_cause: "Loose or corroded motor cable terminations"
 ---
 
 ## ABB ACS580 A2A1 Fault — What It Means

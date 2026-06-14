@@ -11,6 +11,7 @@ tags:
   - microwave
   - samsung
 money_part: "Gas/easy/pH sensor (Samsung OEM or equivalent)"
+most_likely_cause: "Failed gas/easy/pH sensor"
 ---
 
 ## Samsung Microwave C-10 Error Code — What It Means

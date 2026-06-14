@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - ge
 money_part: "Freezer door gasket"
+most_likely_cause: "Door not fully closed or gasket damaged"
 ---
 
 ## GE Dishwasher FF Error Code — What It Means

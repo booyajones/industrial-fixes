@@ -11,6 +11,7 @@ tags:
   - mini-split
   - lg
 money_part: "Outdoor unit main PCB"
+most_likely_cause: "Poor EEPROM chip contact"
 ---
 
 ## LG Mini Split CH60 Error — What It Means

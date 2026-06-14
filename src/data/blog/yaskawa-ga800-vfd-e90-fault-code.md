@@ -11,6 +11,7 @@ tags:
   - yaskawa
 diy_or_pro: "pro"
 money_part: "Yaskawa GA800 control board"
+most_likely_cause: "Parameter configuration mismatch"
 ---
 
 ## Yaskawa GA800 E90 Fault — What It Means

@@ -11,6 +11,7 @@ tags:
   - yaskawa
 diy_or_pro: "pro"
 money_part: "GA800 control board"
+most_likely_cause: "Misread or misidentified display"
 ---
 
 ## Yaskawa GA800 E66 Fault — What It Means

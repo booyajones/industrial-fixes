@@ -11,6 +11,7 @@ tags:
   - mini-split
   - cooper-and-hunter
 money_part: "Low-pressure switch"
+most_likely_cause: "Incorrect refrigerant charge"
 ---
 
 ## Cooper & Hunter Mini Split P6 Error — What It Means

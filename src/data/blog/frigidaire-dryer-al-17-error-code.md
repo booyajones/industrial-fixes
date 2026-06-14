@@ -11,6 +11,7 @@ tags:
   - dryer
   - frigidaire
 money_part: "Heating Element Assembly"
+most_likely_cause: "Misread or non-standard code"
 ---
 
 ## Frigidaire Dryer AL-17 Error Code — What It Means

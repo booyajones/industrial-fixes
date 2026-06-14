@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi-electric
 money_part: "Indoor controller board (indoor PCB)"
+most_likely_cause: "Failed indoor control PCB"
 ---
 
 ## Mitsubishi Fb Error Code — What It Means

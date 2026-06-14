@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens Micromaster 420 or 440 VFD (replacement drive)"
+most_likely_cause: "Corrupted parameter memory"
 ---
 
 ## Siemens Micromaster F0051 — What It Means

@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - manitowoc
 money_part: "Condenser fan motor"
+most_likely_cause: "Dirty or blocked condenser"
 ---
 
 ## Manitowoc Ice Machine E04 Error Code — What It Means

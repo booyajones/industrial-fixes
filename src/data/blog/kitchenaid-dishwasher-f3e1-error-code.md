@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - kitchenaid
 money_part: "Dishwasher wash motor / circulation pump assembly"
+most_likely_cause: "Misread display or non-standard code"
 diy_or_pro: "pro"
 free_checks:
   - "Power-cycle the dishwasher by switching off the circuit breaker for one minute, then turn it back on and run a test cycle to see if the fault clears."

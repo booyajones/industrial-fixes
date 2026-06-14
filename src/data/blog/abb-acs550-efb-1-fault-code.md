@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "Fieldbus communication cable"
+most_likely_cause: "Master or controller offline"
 ---
 
 ## ABB ACS550 EFB 1 Fault — What It Means

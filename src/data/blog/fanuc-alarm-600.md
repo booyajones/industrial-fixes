@@ -10,6 +10,7 @@ tags:
   - cnc
   - fanuc
 money_part: "Fanuc encoder backup battery"
+most_likely_cause: "Backup battery dead or low"
 ---
 
 ## Fanuc Alarm 600 — What It Means

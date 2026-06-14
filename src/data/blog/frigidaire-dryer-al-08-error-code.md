@@ -11,6 +11,7 @@ tags:
   - dryer
   - frigidaire
 money_part: "Control panel / keypad assembly"
+most_likely_cause: "Button mechanically stuck in console"
 ---
 
 ## Frigidaire Dryer AL-08 Error Code — What It Means

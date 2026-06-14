@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ruud
 money_part: "Inlet filter screen"
+most_likely_cause: "Closed or restricted gas supply"
 ---
 
 ## Ruud Tankless Water Heater E01 Error — What It Means

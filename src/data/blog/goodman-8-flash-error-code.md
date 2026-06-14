@@ -10,6 +10,7 @@ tags:
   - hvac
   - goodman
 money_part: "Hot surface ignitor"
+most_likely_cause: "Failed hot surface ignitor (HSI)"
 ---
 
 ## Goodman 8 Flash Error Code — What It Means

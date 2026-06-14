@@ -11,6 +11,7 @@ tags:
   - washer
   - speed-queen
 money_part: "Water inlet valve assembly"
+most_likely_cause: "Leaking inlet valve"
 ---
 
 ## Speed Queen Washer LE Error Code — What It Means

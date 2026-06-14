@@ -11,6 +11,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Inverter PCB (outdoor control board)"
+most_likely_cause: "Loose or damaged compressor wiring and connectors"
 ---
 
 ## Daikin E05 Error Code — What It Means

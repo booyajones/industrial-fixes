@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state-water-heaters
 money_part: "Air intake screen or filter kit"
+most_likely_cause: "Blocked air intake screen"
 ---
 
 ## State Water Heater E150 Error Code — What It Means

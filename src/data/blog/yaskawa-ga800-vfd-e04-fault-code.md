@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "GA800 Control Board"
+most_likely_cause: "Code from external controller"
 ---
 
 ## Yaskawa GA800 E04 Fault Code — What It Means

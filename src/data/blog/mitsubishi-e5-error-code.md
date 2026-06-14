@@ -10,6 +10,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Condensate drain pump"
+most_likely_cause: "Blocked condensate drain line"
 ---
 
 ## Mitsubishi E5 Error Code — What It Means

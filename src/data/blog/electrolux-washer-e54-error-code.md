@@ -11,6 +11,7 @@ tags:
   - washer
   - electrolux
 money_part: "Electronic control board (main PCB)"
+most_likely_cause: "Excessive load preventing motor start"
 ---
 
 ## Electrolux Washer E54 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - lg
 money_part: "LG outdoor main PCB (inverter PCB)"
+most_likely_cause: "Model-specific code not in public tables"
 ---
 
 ## LG Mini Split CH66 Error Code — What It Means

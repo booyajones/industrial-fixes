@@ -11,6 +11,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Daikin indoor unit control board (PCB)"
+most_likely_cause: "Defective indoor PCB or microcomputer failure"
 ---
 
 ## Daikin A1 Error Code — What It Means

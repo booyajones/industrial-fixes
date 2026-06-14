@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Fujitsu indoor unit switch board assembly"
+most_likely_cause: "Manual auto switch stuck or contaminated"
 ---
 
 ## Fujitsu E:35 Error — What It Means

@@ -11,6 +11,7 @@ tags:
   - refrigerator
   - maytag
 money_part: "User Interface / Display Control Board"
+most_likely_cause: "Loose or corroded wiring harness connections"
 ---
 
 ## Maytag Refrigerator C1 Error Code — What It Means

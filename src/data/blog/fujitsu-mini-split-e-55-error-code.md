@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Indoor controller PCB or main PCB"
+most_likely_cause: "Loose or miswired interconnect cable"
 ---
 
 ## Fujitsu Mini Split E:55 Error Code — What It Means

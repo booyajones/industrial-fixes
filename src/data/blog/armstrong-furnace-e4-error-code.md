@@ -10,6 +10,7 @@ tags:
   - hvac
   - armstrong
 money_part: "Hot surface ignitor"
+most_likely_cause: "Failed hot surface ignitor"
 ---
 
 ## Armstrong Furnace E4 Error Code — What It Means

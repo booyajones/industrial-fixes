@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens Micromaster communications board (CB module)"
+most_likely_cause: "Communications board not communicating"
 ---
 
 ## Siemens Micromaster F0070 — What It Means

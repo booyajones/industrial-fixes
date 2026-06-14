@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 control board"
+most_likely_cause: "Transient power event"
 ---
 
 ## Yaskawa GA800 E15 Fault Code — What It Means

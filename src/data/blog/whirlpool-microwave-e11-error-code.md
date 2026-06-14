@@ -11,6 +11,7 @@ tags:
   - microwave
   - whirlpool
 money_part: "Gas sensor"
+most_likely_cause: "Failed gas sensor"
 ---
 
 ## Whirlpool Microwave E11 Error Code — What It Means

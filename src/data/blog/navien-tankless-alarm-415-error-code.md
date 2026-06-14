@@ -10,6 +10,7 @@ tags:
   - water-heater
   - navien
 money_part: "Flow sensor"
+most_likely_cause: "Debris or scale in the flow sensor"
 ---
 
 ## Navien Alarm 415 — What It Means

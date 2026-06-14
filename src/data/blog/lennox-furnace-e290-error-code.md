@@ -11,6 +11,7 @@ tags:
   - furnace
   - lennox
 money_part: "Lennox hot-surface ignitor"
+most_likely_cause: "Open or failed hot-surface ignitor"
 ---
 
 ## Lennox E290 Error Code — What It Means

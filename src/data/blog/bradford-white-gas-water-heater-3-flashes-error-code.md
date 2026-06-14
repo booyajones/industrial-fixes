@@ -11,6 +11,7 @@ tags:
   - bradford-white
   - gas
 money_part: "Bradford White thermal well sensor"
+most_likely_cause: "Thermal well sensor damaged or disconnected"
 ---
 
 ## Bradford White 3 Flashes — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Motor power cable (3-phase shielded)"
+most_likely_cause: "Incorrect motor nameplate data entered during Auto-Tuning"
 ---
 
 ## Yaskawa GA800 E02 Fault — What It Means

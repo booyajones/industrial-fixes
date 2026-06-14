@@ -11,6 +11,7 @@ tags:
   - mini-split
   - senville
 money_part: "Senville compressor discharge temperature sensor (TP/T5)"
+most_likely_cause: "Failed or drifted TP/T5 sensor"
 ---
 
 ## Senville Mini Split EC 54 — What It Means

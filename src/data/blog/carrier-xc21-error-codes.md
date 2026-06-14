@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
 money_part: "Low-pressure switch"
+most_likely_cause: "Code 11 - Communication loss"
 ---
 
 ## Carrier Infinity XC21 Error Codes — What They Mean

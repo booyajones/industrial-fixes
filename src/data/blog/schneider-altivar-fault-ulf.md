@@ -10,6 +10,7 @@ tags:
   - vfd
   - schneider
 money_part: "Drive belt (V-belt or synchronous)"
+most_likely_cause: "Broken belt or coupling"
 ---
 
 ## Schneider Altivar Fault ULF — What It Means

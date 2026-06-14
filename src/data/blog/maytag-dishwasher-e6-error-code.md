@@ -11,6 +11,13 @@ tags:
   - dishwasher
   - maytag
 money_part: "Water inlet valve"
+free_checks:
+  - "Check home water supply valve is fully open and inlet hose has no kinks"
+  - "Clean inlet valve screen filter for debris/sediment buildup"
+  - "Verify water pressure is adequate (20-120 psi) and test fill cycle after power reset"
+no_buy_pct: "40%"
+part_price: "$35-75"
+most_likely_cause: "Glitched control panel"
 ---
 
 ## Maytag Dishwasher E6 Error Code — What It Means

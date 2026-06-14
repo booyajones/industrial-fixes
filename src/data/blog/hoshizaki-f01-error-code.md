@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - hoshizaki
 money_part: "Hoshizaki scale remover (nickel-safe)"
+most_likely_cause: "High ambient or water temperature"
 ---
 
 ## Hoshizaki F01 Error Code — What It Means

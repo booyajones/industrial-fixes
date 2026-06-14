@@ -10,6 +10,7 @@ tags:
   - vfd
   - schneider
 money_part: "Motor output cable"
+most_likely_cause: "Too-fast acceleration ramp"
 ---
 
 ## Schneider Altivar 212 Fault OCF — What It Means

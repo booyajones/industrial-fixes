@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Incoming line fuses or fuse holders"
+most_likely_cause: "Main supply voltage loss or sag"
 ---
 
 ## Siemens G120 F0003 — What It Means

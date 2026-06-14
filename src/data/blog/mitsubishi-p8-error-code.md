@@ -10,6 +10,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "IPM (Intelligent Power Module)"
+most_likely_cause: "Dirty outdoor condenser coil"
 ---
 
 ## Mitsubishi P8 Error Code — What It Means

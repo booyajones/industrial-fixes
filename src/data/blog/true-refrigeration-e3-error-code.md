@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - true-refrigeration
 money_part: "Defrost heater"
+most_likely_cause: "Failed defrost termination thermostat"
 ---
 
 ## True Refrigeration E3 Error Code — What It Means

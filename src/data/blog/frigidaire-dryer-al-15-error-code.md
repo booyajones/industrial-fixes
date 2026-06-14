@@ -11,6 +11,7 @@ tags:
   - dryer
   - frigidaire
 money_part: "Door switch and strike assembly"
+most_likely_cause: "Door not fully closed or obstructed"
 ---
 
 ## Frigidaire Dryer AL-15 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - senville
 money_part: "Senville indoor main PCB (TS01-IDU)"
+most_likely_cause: "Corrupted EEPROM parameter set"
 ---
 
 ## Senville EH 0A Error Code — What It Means

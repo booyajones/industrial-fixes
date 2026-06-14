@@ -10,6 +10,7 @@ tags:
   - hvac
   - daikin
 money_part: "Low Pressure Switch (LPS)"
+most_likely_cause: "Refrigerant leak or low charge"
 ---
 
 ## Daikin E4 Error Code — What It Means

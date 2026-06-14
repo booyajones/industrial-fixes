@@ -11,6 +11,7 @@ tags:
   - washer
   - kenmore
 money_part: "Water inlet valve assembly"
+most_likely_cause: "Closed or partially closed water supply valves"
 ---
 
 ## Kenmore Washer E14 Error Code — What It Means

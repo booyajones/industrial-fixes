@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Gree outdoor fan motor"
+most_likely_cause: "Blocked or dirty outdoor coil"
 ---
 
 ## Gree Mini Split F9 Error Code — What It Means

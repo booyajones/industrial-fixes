@@ -10,6 +10,7 @@ tags:
   - water-heater
   - whirlpool
 money_part: "High-Limit Thermostat Assembly"
+most_likely_cause: "Actual water overtemperature"
 ---
 
 ## Whirlpool E02 Error Code — What It Means

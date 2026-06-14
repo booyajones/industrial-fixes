@@ -10,6 +10,7 @@ tags:
   - mini-split
   - samsung
 money_part: "Indoor BLDC fan motor"
+most_likely_cause: "Dirty or jammed indoor fan (cross-flow blower)"
 ---
 
 ## Samsung Mini-Split E3-01 Error Code — What It Means

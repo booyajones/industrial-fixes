@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Air intake screen / filter"
+most_likely_cause: "Blocked air intake screens"
 ---
 
 ## State Water Heater E159 Error Code — What It Means

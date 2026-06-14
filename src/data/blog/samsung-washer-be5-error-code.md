@@ -11,6 +11,7 @@ tags:
   - washer
   - samsung
 money_part: "Drain pump assembly"
+most_likely_cause: "Blocked drain filter"
 ---
 
 ## Samsung Washer bE5 Error Code — What It Means

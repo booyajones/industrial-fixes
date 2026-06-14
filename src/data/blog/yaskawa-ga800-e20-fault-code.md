@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Encoder cable (Yaskawa-compatible)"
+most_likely_cause: "Incorrect fault code transcription"
 ---
 
 ## Yaskawa GA800 E20 Fault Code — What It Means

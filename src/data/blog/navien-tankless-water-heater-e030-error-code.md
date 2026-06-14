@@ -10,6 +10,7 @@ tags:
   - water-heater
   - navien
 money_part: "Navien cold-water inlet filter"
+most_likely_cause: "Blocked or restricted exhaust venting"
 ---
 
 ## Navien E030 Error Code — What It Means

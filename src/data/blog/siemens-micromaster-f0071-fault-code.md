@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "USS communication cable (RS-485 or RS-232)"
+most_likely_cause: "Master device not transmitting"
 ---
 
 ## Siemens Micromaster F0071 — What It Means

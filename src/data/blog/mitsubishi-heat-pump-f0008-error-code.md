@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Replacement air filter"
+most_likely_cause: "Dirty air filter or blocked coil"
 ---
 
 ## Mitsubishi F0008 Error Code — What It Means

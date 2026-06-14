@@ -11,6 +11,7 @@ tags:
   - dryer
   - frigidaire
 money_part: "Heating element"
+most_likely_cause: "Failed or open heating element"
 ---
 
 ## Frigidaire AL-28 Dryer Error — What It Means

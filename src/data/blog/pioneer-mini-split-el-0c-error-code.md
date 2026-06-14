@@ -11,6 +11,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "R-410A refrigerant"
+most_likely_cause: "Actual refrigerant leak"
 ---
 
 ## Pioneer EL 0C Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - boiler
   - navien
 money_part: "Expansion tank (2–4 gallon for residential)"
+most_likely_cause: "Water loss from a leak"
 ---
 
 ## Navien E302 Error Code — What It Means

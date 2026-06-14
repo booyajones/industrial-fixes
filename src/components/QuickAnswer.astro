@@ -2,8 +2,9 @@
 interface Props {
   description: string;
   title?: string;
+  hasPart?: boolean; // true on money pages — the no-buy card owns the parts path
 }
-const { description } = Astro.props;
+const { description, hasPart = false } = Astro.props;
 ---
 
 <div class="quick-answer-box">
@@ -11,7 +12,14 @@ const { description } = Astro.props;
   <p class="quick-answer-text">{description}</p>
   <div class="quick-answer-buttons">
     <a href="#step-by-step-fix" class="qa-btn qa-btn-primary" id="qa-fix-btn">Jump to Fix →</a>
-    <a href="#parts-that-may-need-replacement" class="qa-btn qa-btn-secondary" id="qa-parts-btn">View Parts →</a>
+    {/* "View Parts" is suppressed on money pages: it sat ABOVE the green no-buy
+        card and invited the reader to skip the free-fix gate and buy. The no-buy
+        card's "already ruled those out? see the exact part" skip-link is the
+        single, correctly-placed escape hatch (storm review). Non-money pages
+        keep it as a normal navigation aid. */}
+    {!hasPart && (
+      <a href="#parts-that-may-need-replacement" class="qa-btn qa-btn-secondary" id="qa-parts-btn">View Parts →</a>
+    )}
   </div>
 </div>
 

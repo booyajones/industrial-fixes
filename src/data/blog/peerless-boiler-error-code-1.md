@@ -10,6 +10,7 @@ tags:
   - boiler
   - peerless
 money_part: "Flame sensor"
+most_likely_cause: "Ignition failure"
 ---
 
 ## Peerless Boiler Code 1 — What It Means

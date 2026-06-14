@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - turbo-air
 money_part: "Door gasket"
+most_likely_cause: "Door not sealing or left ajar"
 ---
 
 ## Turbo Air Freezer Error Code E2 — What It Means

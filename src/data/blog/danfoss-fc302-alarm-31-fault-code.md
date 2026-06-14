@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Motor cable assembly (phase V conductor)"
+most_likely_cause: "Loose, broken, or disconnected motor wiring on phase V"
 ---
 
 ## Danfoss FC302 ALARM 31 — What It Means

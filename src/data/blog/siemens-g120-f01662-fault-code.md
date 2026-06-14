@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens G120 Control Unit (CU)"
+most_likely_cause: "Faulty control card or control unit"
 ---
 
 ## Siemens G120 F01662 — What It Means

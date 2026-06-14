@@ -11,6 +11,7 @@ tags:
   - oven
   - kenmore
 money_part: "Oven RTD temperature sensor probe"
+most_likely_cause: "Failed RTD temperature sensor probe"
 ---
 
 ## Kenmore Oven F33 Error Code — What It Means

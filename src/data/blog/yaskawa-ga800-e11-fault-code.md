@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 control board"
+most_likely_cause: "Mechanical overload or binding"
 ---
 
 ## Yaskawa GA800 E11 Fault Code — What It Means

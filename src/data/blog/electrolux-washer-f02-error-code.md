@@ -11,6 +11,7 @@ tags:
   - washer
   - electrolux
 money_part: "Drain pump assembly"
+most_likely_cause: "Kinked or clogged drain hose"
 ---
 
 ## Electrolux Washer F02 Error Code — What It Means

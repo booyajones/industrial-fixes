@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "Field signal device (potentiometer, transmitter, or PLC analog output)"
+most_likely_cause: "Open or loose wiring on AI1"
 ---
 
 ## ABB ACS550 AI1 LOSS — What It Means

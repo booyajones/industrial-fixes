@@ -10,6 +10,7 @@ tags:
   - hvac
   - mitsubishi
 money_part: "Drain pump assembly"
+most_likely_cause: "Failed drain pump motor"
 ---
 
 ## Mitsubishi P5 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - rheem
 money_part: "Rheem condensate sensor"
+most_likely_cause: "Tank not fully filled after installation or service"
 ---
 
 ## Rheem A008 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - refrigerator
   - bosch
 money_part: "Display control module (Bosch refrigerator)"
+most_likely_cause: "Temporary control board glitch"
 ---
 
 ## Bosch Refrigerator E11 Error Code — What It Means

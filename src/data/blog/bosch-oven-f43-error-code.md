@@ -11,6 +11,7 @@ tags:
   - oven
   - bosch
 money_part: "Carbon brushes (Bosch washer motor)"
+most_likely_cause: "Worn or damaged carbon brushes"
 ---
 
 ## Bosch Oven F43 Error Code — What It Means

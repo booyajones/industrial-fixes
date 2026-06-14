@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Temperature or pressure sensor"
+most_likely_cause: "Model-specific sensor failure"
 ---
 
 ## State Water Heater E77 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - dryer
   - amana
 money_part: "Main control board (user-interface or machine control)"
+most_likely_cause: "Main control board glitch or memory corruption"
 diy_or_pro: "pro"
 ---
 

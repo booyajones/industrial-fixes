@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Model-specific service manual"
+most_likely_cause: "Misread or transcribed code"
 ---
 
 ## Mitsubishi F0004 Error Code — What It Means

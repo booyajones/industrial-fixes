@@ -10,6 +10,7 @@ tags:
   - hvac
   - comfortmaker
 money_part: "Hot surface igniter"
+most_likely_cause: "Failed hot surface igniter (HSI)"
 ---
 
 ## Comfortmaker Furnace E4 Error Code — What It Means

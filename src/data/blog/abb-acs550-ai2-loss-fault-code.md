@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "Analog signal transmitter or sensor"
+most_likely_cause: "Lost or disconnected AI2 wiring"
 ---
 
 ## ABB ACS550 AI2 LOSS Fault — What It Means

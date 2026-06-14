@@ -10,6 +10,7 @@ tags:
   - water-heater
   - navien
 money_part: "Navien flow sensor assembly"
+most_likely_cause: "Flow sensor not spinning freely"
 ---
 
 ## Navien Alarm 401 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - rheem
 money_part: "Outlet polarity tester"
+most_likely_cause: "Swapped hot and neutral at the furnace disconnect"
 ---
 
 ## Rheem Furnace 9 Flashes — What It Means

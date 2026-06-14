@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state-water-heaters
 money_part: "PSRKIT-22 Triangle Tube IDHS aquastat kit"
+most_likely_cause: "Faulty dry-contact aquastat"
 ---
 
 ## State Water Heater E14 Error Code — What It Means

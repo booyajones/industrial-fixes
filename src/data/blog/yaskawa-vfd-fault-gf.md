@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Motor (replacement)"
+most_likely_cause: "Failed motor winding insulation"
 ---
 
 ## Yaskawa VFD Fault GF — What It Means

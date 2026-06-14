@@ -11,6 +11,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Evaporator temperature sensor / pipe-coil thermistor"
+most_likely_cause: "Loose or corroded sensor wiring"
 ---
 
 ## Pioneer Mini Split E2 Error Code — What It Means

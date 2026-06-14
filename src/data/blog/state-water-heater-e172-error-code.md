@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Air intake screen or filter"
+most_likely_cause: "Blocked air intake screen"
 ---
 
 ## State Water Heater E172 Error Code — What It Means

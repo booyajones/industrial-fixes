@@ -10,6 +10,7 @@ tags:
   - cnc
   - haas
 money_part: "Spindle drive communication cable"
+most_likely_cause: "Spindle drive fault or power loss"
 ---
 
 ## Haas Alarm 117 — What It Means

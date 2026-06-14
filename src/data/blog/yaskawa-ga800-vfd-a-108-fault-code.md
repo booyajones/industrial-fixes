@@ -11,6 +11,7 @@ tags:
   - yaskawa
 diy_or_pro: "pro"
 money_part: "Yaskawa GA800 control board"
+most_likely_cause: "Missing or incorrect fault-code documentation"
 ---
 
 ## Yaskawa GA800 A.108 Fault — What It Means

@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Control board (model-specific)"
+most_likely_cause: "Misidentified brand or equipment type"
 ---
 
 ## State Water Heater E123 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - trane
 money_part: "Trane T5-A discharge temperature sensor"
+most_likely_cause: "Failed T5-A discharge temperature sensor"
 ---
 
 ## Trane E7 Error Code — What It Means

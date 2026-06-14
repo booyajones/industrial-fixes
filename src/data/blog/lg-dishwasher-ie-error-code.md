@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - lg
 most_likely_cause: "Water supply valve under the sink is not fully open or house water supply is restricted"
+free_checks:
+  - "Check home water supply valve is fully open and inlet hose has no kinks"
+  - "Clean inlet valve screen filter for sediment/debris blockage"
+  - "Verify float assembly moves freely and isn't stuck in raised position"
+no_buy_pct: "60%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG dishwasher water inlet valve"

@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ao-smith
 money_part: "Temperature sensor / thermistor"
+most_likely_cause: "Faulty temperature sensor or thermostat"
 ---
 
 ## A.O. Smith E1 Error Code — What It Means

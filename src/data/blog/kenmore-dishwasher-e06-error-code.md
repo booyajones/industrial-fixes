@@ -11,6 +11,7 @@ tags:
   - dishwasher
   - kenmore
 money_part: "Dishwasher thermistor (temperature sensor)"
+most_likely_cause: "Failed thermistor"
 ---
 
 ## Kenmore Dishwasher E06 Error Code — What It Means

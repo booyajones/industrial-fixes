@@ -10,6 +10,7 @@ tags:
   - boiler
   - navien
 money_part: "Flame sensor"
+most_likely_cause: "Flame sensor contaminated or shorted"
 ---
 
 ## Navien Error Code E004 — What It Means

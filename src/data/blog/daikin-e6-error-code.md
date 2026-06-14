@@ -10,6 +10,7 @@ tags:
   - hvac
   - daikin
 money_part: "Daikin outdoor control PCB"
+most_likely_cause: "Locked or failing compressor"
 ---
 
 ## Daikin E6 Error Code — What It Means

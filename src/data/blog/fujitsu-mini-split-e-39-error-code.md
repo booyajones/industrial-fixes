@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Fujitsu outdoor main PCB (control board)"
+most_likely_cause: "Loose or disconnected wiring connectors"
 ---
 
 ## Fujitsu E:39 Error Code — What It Means

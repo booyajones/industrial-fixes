@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Compressor thermistor (Fujitsu mini-split outdoor unit)"
+most_likely_cause: "Loose or disconnected thermistor connector"
 ---
 
 ## Fujitsu E:72 Error Code — What It Means

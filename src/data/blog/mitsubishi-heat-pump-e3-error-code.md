@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi-electric
 money_part: "Mitsubishi Electric remote controller"
+most_likely_cause: "Faulty remote or controller PCB"
 ---
 
 ## Mitsubishi E3 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Gree indoor fan motor"
+most_likely_cause: "Failed indoor fan motor"
 ---
 
 ## Gree E8 Error Code — What It Means

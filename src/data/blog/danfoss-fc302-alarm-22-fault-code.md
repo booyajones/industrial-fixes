@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Hoist mechanical brake assembly"
+most_likely_cause: "Mechanical brake not releasing fully"
 ---
 
 ## Danfoss FC302 ALARM 22 — What It Means

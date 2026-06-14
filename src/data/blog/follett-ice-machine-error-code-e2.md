@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - follett
 money_part: "Water inlet valve"
+most_likely_cause: "Restricted water inlet valve"
 ---
 
 ## Follett Ice Machine Error Code E2 — What It Means

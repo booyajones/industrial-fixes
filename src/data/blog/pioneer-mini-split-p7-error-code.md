@@ -11,6 +11,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Evaporator coil temperature sensor (thermistor)"
+most_likely_cause: "Loose or reversed sensor connections"
 ---
 
 ## Pioneer Mini-Split P7 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - mini-split
   - bosch
 money_part: "Cold water inlet temperature sensor"
+most_likely_cause: "Sensor positioned incorrectly on pipe"
 ---
 
 ## Bosch Heat Pump E2 Error Code — What It Means

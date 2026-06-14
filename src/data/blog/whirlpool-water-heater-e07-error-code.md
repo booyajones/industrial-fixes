@@ -10,6 +10,7 @@ tags:
   - water-heater
   - whirlpool
 money_part: "Lower thermistor sensor"
+most_likely_cause: "Loose or disconnected wiring"
 ---
 
 ## Whirlpool Water Heater E07 Error — What It Means

@@ -14,6 +14,7 @@ tags:
   - fault-codes
 description: "Allen-Bradley PowerFlex 4M fault codes explained — F2 aux input, F4 undervoltage, F5 overvoltage, F7 motor overtemp, F12 HW overcurrent. Step-by-step fixes and parts table for the 22A drive."
 money_part: "PowerFlex 4M replacement drive (22A-D2P3N104)"
+most_likely_cause: "F 5 (overvoltage)"
 ---
 
 ## Allen-Bradley PowerFlex 4M (Catalog 22A) Fault Codes

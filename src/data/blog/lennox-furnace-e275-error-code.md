@@ -11,6 +11,7 @@ tags:
   - furnace
   - lennox
 money_part: "Gas valve"
+most_likely_cause: "Gas valve leaking by"
 ---
 
 ## Lennox Furnace E275 Error Code — What It Means

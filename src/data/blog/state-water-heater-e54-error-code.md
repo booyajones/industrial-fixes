@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Flame sensor or flame rod"
+most_likely_cause: "Blocked air intake screens"
 ---
 
 ## State Water Heater E54 Error Code — What It Means

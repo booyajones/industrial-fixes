@@ -11,6 +11,7 @@ tags:
   - washer
   - bosch
 money_part: "Motor carbon brush set"
+most_likely_cause: "Worn or damaged motor carbon brushes"
 ---
 
 ## Bosch E21 Error Code — What It Means

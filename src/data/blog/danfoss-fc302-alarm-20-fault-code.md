@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Motor thermistor or PTC temperature sensor"
+most_likely_cause: "Open or loose thermistor wiring"
 ---
 
 ## Danfoss FC302 Alarm 20 — What It Means

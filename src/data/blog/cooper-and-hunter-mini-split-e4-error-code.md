@@ -11,6 +11,7 @@ tags:
   - mini-split
   - cooper-hunter
 money_part: "Temperature sensor thermistor"
+most_likely_cause: "Loose or corroded sensor connector"
 ---
 
 ## Cooper&Hunter E4 Error Code — What It Means

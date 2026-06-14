@@ -10,6 +10,7 @@ tags:
   - cnc
   - fanuc
 money_part: "No parts typically required"
+most_likely_cause: "Workpiece or fixture placed outside the work envelope"
 ---
 
 ## Fanuc Alarm 4 — What It Means

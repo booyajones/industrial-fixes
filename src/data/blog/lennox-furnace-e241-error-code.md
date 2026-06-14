@@ -11,6 +11,7 @@ tags:
   - furnace
   - lennox
 money_part: "Flame sensor (flame rod)"
+most_likely_cause: "Dirty or oxidized flame sensor rod"
 ---
 
 ## Lennox E241 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Daikin inverter PCB (outdoor control board)"
+most_likely_cause: "Compressor mechanical lock or overload"
 ---
 
 ## Daikin E5 Error Code — What It Means

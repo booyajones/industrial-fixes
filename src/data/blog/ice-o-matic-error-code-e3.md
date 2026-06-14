@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - ice-o-matic
 money_part: "Water inlet valve assembly"
+most_likely_cause: "Water supply shut off or restricted"
 ---
 
 ## Ice-O-Matic Error Code E3 — What It Means

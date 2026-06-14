@@ -12,6 +12,7 @@ tags:
   - mx2
   - ground-fault
 money_part: "VFD-rated motor cable"
+most_likely_cause: "Motor winding insulation failure"
 ---
 
 ## Omron 3G3MX2 E04 Fault — What It Means

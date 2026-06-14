@@ -10,6 +10,7 @@ tags:
   - boiler
   - lochinvar
 money_part: "Hot surface igniter"
+most_likely_cause: "Failed hot surface igniter"
 ---
 
 ## Lochinvar Boiler Error Code E01 — What It Means

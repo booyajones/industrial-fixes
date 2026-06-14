@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "Input fuses"
+most_likely_cause: "Blown input fuse"
 ---
 
 ## ABB ACS355 Fault 3130 — What It Means

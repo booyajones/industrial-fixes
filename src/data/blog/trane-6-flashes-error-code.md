@@ -10,6 +10,7 @@ tags:
   - hvac
   - trane
 money_part: "Rollout switch (manual reset)"
+most_likely_cause: "Blocked or restricted flue"
 ---
 
 ## Trane 6 Flashes Error Code — What It Means

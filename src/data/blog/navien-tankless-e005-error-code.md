@@ -10,6 +10,7 @@ tags:
   - water-heater
   - navien
 money_part: "Navien flow sensor assembly"
+most_likely_cause: "Debris or scale blocking the flow sensor"
 ---
 
 ## Navien E005 Error Code — What It Means

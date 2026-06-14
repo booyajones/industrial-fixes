@@ -10,6 +10,7 @@ tags:
   - water-heater
   - rheem
 money_part: "Rheem tankless flame sensor"
+most_likely_cause: "Gas supply shut off or interrupted"
 ---
 
 ## Rheem Tankless Error Code 12 — What It Means

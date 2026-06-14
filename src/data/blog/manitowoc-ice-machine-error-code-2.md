@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - manitowoc
 money_part: "Harvest valve (hot gas solenoid)"
+most_likely_cause: "Dirty condenser"
 ---
 
 ## Manitowoc Ice Machine Error Code 2 — What It Means

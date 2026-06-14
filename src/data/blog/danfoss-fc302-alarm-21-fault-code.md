@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Danfoss FC302 LCP (Local Control Panel)"
+most_likely_cause: "Parameter value outside allowed range"
 ---
 
 ## Danfoss FC302 Alarm 21 — What It Means

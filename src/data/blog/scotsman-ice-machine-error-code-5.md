@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - scotsman
 money_part: "Water pump"
+most_likely_cause: "Dirty condenser coil"
 ---
 
 ## Scotsman Ice Machine Error Code 5 — What It Means

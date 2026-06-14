@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Air intake screen or filter kit"
+most_likely_cause: "Blocked air intake or vent screen"
 ---
 
 ## State Water Heater E151 Error Code — What It Means

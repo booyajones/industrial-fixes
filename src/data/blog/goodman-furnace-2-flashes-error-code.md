@@ -11,6 +11,7 @@ tags:
   - furnace
   - goodman
 money_part: "Goodman pressure switch"
+most_likely_cause: "Failed or mechanically stuck pressure switch"
 ---
 
 ## Goodman Furnace 2 Flashes — What It Means

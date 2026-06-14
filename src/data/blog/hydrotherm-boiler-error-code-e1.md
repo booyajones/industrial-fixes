@@ -10,6 +10,7 @@ tags:
   - boiler
   - hydrotherm
 money_part: "Flame sensor rod"
+most_likely_cause: "Failed or contaminated flame sensor"
 ---
 
 ## Hydrotherm Boiler Error Code E1 — What It Means

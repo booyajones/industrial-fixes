@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mrcool
 money_part: "Outdoor DC fan motor"
+most_likely_cause: "Loose or damaged wiring"
 ---
 
 ## MRCOOL F5 Error Code — What It Means

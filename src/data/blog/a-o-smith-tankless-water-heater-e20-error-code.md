@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ao-smith
 money_part: "Inlet thermistor / inlet temperature sensor"
+most_likely_cause: "Failed inlet thermistor"
 ---
 
 ## A.O. Smith Tankless E20 Error — What It Means

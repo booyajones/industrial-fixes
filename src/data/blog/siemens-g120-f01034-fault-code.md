@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens G120 Control Unit (CU)"
+most_likely_cause: "Reference parameter changed to incompatible value"
 ---
 
 ## Siemens G120 F01034 — What It Means

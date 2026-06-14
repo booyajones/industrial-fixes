@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Encoder or pulse generator"
+most_likely_cause: "Aggressive speed-loop tuning"
 ---
 
 ## Yaskawa GA800 E35 Fault — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Fujitsu thermistor sensor"
+most_likely_cause: "Loose or open connectors between boards"
 ---
 
 ## Fujitsu E:48 Mini Split Error — What It Means

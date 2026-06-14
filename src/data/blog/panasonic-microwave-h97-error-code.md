@@ -11,6 +11,7 @@ tags:
   - microwave
   - panasonic
 money_part: "Inverter board / Power PCB"
+most_likely_cause: "Failed inverter or Power PCB"
 ---
 
 ## Panasonic Microwave H97 Error Code — What It Means

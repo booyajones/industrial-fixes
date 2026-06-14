@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - true-refrigeration
 money_part: "Cabinet temperature probe (NTC)"
+most_likely_cause: "Failed cabinet temperature probe"
 ---
 
 ## True Refrigeration E1 Error Code — What It Means

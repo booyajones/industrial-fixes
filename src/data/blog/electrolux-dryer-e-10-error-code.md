@@ -11,6 +11,7 @@ tags:
   - dryer
   - electrolux
 money_part: "Water inlet valve"
+most_likely_cause: "Wrong appliance type or misread display"
 ---
 
 ## Electrolux Dryer E10 Error Code — What It Means

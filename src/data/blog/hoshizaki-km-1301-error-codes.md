@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - hoshizaki
 money_part: "Thermistor"
+most_likely_cause: "Long freeze cycle"
 ---
 
 ## Hoshizaki KM-1301 Error Codes — What It Means

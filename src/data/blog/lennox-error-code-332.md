@@ -10,6 +10,7 @@ tags:
   - hvac
   - lennox
 money_part: "Air filter (1' or 4' media)"
+most_likely_cause: "Dirty or clogged air filter"
 ---
 
 ## Lennox Error Code 332 — What It Means

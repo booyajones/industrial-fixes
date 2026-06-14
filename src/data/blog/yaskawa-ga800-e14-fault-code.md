@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "GA800 Control Board"
+most_likely_cause: "Misidentified drive model"
 ---
 
 ## Yaskawa GA800 E14 Fault — What It Means

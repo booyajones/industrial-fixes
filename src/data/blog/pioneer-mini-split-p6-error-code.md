@@ -11,6 +11,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Outdoor coil temperature sensor (IPT sensor)"
+most_likely_cause: "Dirty or blocked outdoor condenser coil"
 ---
 
 ## Pioneer Mini Split P6 Error — What It Means

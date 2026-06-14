@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Main control board (indoor or outdoor PCB)"
+most_likely_cause: "Loose or disconnected wiring between indoor and outdoor units"
 ---
 
 ## Fujitsu Mini Split E:90 Error Code — What It Means

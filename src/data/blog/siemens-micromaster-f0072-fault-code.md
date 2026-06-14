@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "RS485 communication cable"
+most_likely_cause: "Loss of USS master signal"
 ---
 
 ## Siemens Micromaster F0072 — What It Means

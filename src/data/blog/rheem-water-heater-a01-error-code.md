@@ -10,6 +10,7 @@ tags:
   - water-heater
   - rheem
 money_part: "Rheem flame sensor / flame rod"
+most_likely_cause: "Gas supply interrupted or inadequate"
 ---
 
 ## Rheem A01 Error Code — What It Means

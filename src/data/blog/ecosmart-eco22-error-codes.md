@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ecosmart
 money_part: "EcoSmart inlet thermistor"
+most_likely_cause: "Failed inlet or outlet thermistor"
 ---
 
 ## EcoSmart Eco 22 Error Codes — What It Means

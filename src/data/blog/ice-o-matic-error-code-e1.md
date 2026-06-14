@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - ice-o-matic
 money_part: "Harvest assist hot gas valve"
+most_likely_cause: "Low refrigerant charge"
 ---
 
 ## Ice-O-Matic Error Code E1 — What It Means

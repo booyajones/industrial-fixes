@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Motor coupling or belt"
+most_likely_cause: "Acceleration time set too short"
 ---
 
 ## Yaskawa GA800 E09 Fault — What It Means

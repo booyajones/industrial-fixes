@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Compressor"
+most_likely_cause: "Compressor mechanical lock or high load"
 ---
 
 ## Gree P5 Error Code — What It Means

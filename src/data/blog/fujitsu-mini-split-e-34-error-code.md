@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Main PCB (outdoor unit control board)"
+most_likely_cause: "Loose or miswired interconnect cable"
 ---
 
 ## Fujitsu E:34 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 option card (communication, encoder, or I/O)"
+most_likely_cause: "Misread or transient display code"
 diy_or_pro: "pro"
 ---
 

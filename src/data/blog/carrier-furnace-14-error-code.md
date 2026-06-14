@@ -11,6 +11,7 @@ tags:
   - furnace
   - carrier
 money_part: "Hot-surface igniter"
+most_likely_cause: "Dirty or failed flame sensor"
 ---
 
 ## Carrier Furnace Error Code 14 — What It Means

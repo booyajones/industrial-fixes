@@ -11,6 +11,7 @@ tags:
   - mini-split
   - cooper-and-hunter
 money_part: "Outdoor main control board (PCB)"
+most_likely_cause: "Loose or incorrect interconnect wiring"
 ---
 
 ## Cooper & Hunter Mini Split E1 Error — What It Means

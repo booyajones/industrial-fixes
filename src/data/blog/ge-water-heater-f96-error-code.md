@@ -11,6 +11,7 @@ tags:
   - water-heater
   - ge
 money_part: "Upper oven cooling fan motor assembly"
+most_likely_cause: "Failed or stalled upper cooling fan motor"
 ---
 
 ## GE F96 Error Code — What It Means

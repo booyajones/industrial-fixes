@@ -11,6 +11,7 @@ tags:
   - mini-split
   - senville
 money_part: "Senville T1 room temperature sensor / thermistor"
+most_likely_cause: "Loose or unplugged sensor connector"
 ---
 
 ## Senville EH 60 Error Code — What It Means

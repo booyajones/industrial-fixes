@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - hoshizaki
 money_part: "Hoshizaki Scale Away cleaner"
+most_likely_cause: "Dirty condenser coil"
 ---
 
 ## Hoshizaki KM Series E1 Error Code — What It Means

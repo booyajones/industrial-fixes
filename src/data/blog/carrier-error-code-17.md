@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
 money_part: "VFD inverter module"
+most_likely_cause: "High incoming line voltage"
 ---
 
 ## Carrier Error Code 17 — What It Means

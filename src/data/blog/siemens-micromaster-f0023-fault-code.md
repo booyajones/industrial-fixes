@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Motor cable (shielded three-conductor)"
+most_likely_cause: "Loose motor cable conductor"
 ---
 
 ## Siemens Micromaster F0023 — What It Means

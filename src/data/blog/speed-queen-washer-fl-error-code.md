@@ -11,6 +11,7 @@ tags:
   - washer
   - speed-queen
 money_part: "Inlet water valve assembly"
+most_likely_cause: "Supply valves not fully open"
 ---
 
 ## Speed Queen FL Error Code — What It Means

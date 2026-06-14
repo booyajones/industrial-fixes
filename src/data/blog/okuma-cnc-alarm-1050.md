@@ -10,6 +10,7 @@ tags:
   - cnc
   - okuma
 money_part: "Okuma servo drive"
+most_likely_cause: "Axis servo overcurrent"
 ---
 
 ## Okuma CNC Alarm 1050 — What It Means

@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "User interface / display board"
+most_likely_cause: "Loose or improperly seated wiring harness"
 ---
 
 ## State E52 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Outdoor discharge pipe thermistor (TH3)"
+most_likely_cause: "Failed thermistor"
 ---
 
 ## Mitsubishi Mini Split E9 Error Code — What It Means

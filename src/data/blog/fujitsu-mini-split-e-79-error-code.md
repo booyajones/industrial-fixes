@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Fujitsu thermistor sensor"
+most_likely_cause: "Open or shorted thermistor"
 ---
 
 ## Fujitsu E:79 Error Code — What It Means

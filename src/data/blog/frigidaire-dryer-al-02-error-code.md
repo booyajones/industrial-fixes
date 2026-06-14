@@ -11,6 +11,7 @@ tags:
   - dryer
   - frigidaire
 money_part: "Frigidaire Dryer Moisture Sensor Bar"
+most_likely_cause: "Misread or model-specific code"
 diy_or_pro: "diy"
 ---
 

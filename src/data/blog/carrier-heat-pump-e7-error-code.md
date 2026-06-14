@@ -11,6 +11,7 @@ tags:
   - mini-split
   - carrier
 money_part: "Indoor unit control board (PCB)"
+most_likely_cause: "Mode conflict across connected units"
 ---
 
 ## Carrier E7 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Input line fuses"
+most_likely_cause: "Missing or unbalanced input phase"
 ---
 
 ## Yaskawa GA800 E25 Fault — What It Means

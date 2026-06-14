@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - scotsman
 money_part: "Harvest assist solenoid valve"
+most_likely_cause: "Codes 1-5 (harvest/cycle faults)"
 ---
 
 ## Scotsman Prodigy Plus Error Codes — What They Mean

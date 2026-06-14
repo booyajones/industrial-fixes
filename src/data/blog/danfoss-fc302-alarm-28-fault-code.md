@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Danfoss brake resistor"
+most_likely_cause: "Brake resistor not connected"
 ---
 
 ## Danfoss FC302 ALARM 28 — What It Means

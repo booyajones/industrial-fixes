@@ -11,6 +11,7 @@ tags:
   - mini-split
   - lg
 money_part: "Indoor main PCB / control board"
+most_likely_cause: "Loose, miswired, or damaged communication cable"
 ---
 
 ## LG Mini Split CH53 Error Code — What It Means

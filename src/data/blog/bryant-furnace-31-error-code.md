@@ -10,6 +10,7 @@ tags:
   - hvac
   - bryant
 money_part: "Pressure switch"
+most_likely_cause: "Blocked condensate drain"
 ---
 
 ## Bryant Furnace 31 Error Code — What It Means

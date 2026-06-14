@@ -12,6 +12,7 @@ tags:
   - atc
   - carousel
 money_part: "Carousel proximity switch"
+most_likely_cause: "Carousel is jammed with chips or damaged toolholders"
 ---
 
 ## Haas Alarm 122 — What It Means

@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "State control board (model-specific)"
+most_likely_cause: "Model-specific fault definition"
 ---
 
 ## State Water Heater E143 Error Code — What It Means

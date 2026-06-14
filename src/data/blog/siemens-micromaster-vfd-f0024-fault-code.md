@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens Micromaster cooling fan"
+most_likely_cause: "Cooling fan failure"
 ---
 
 ## Siemens Micromaster F0024 — What It Means

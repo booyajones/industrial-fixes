@@ -11,6 +11,7 @@ tags:
   - mini-split
   - lg
 money_part: "Low-Pressure Sensor"
+most_likely_cause: "Service valve closed or restricted"
 ---
 
 ## LG Mini Split CH35 Error Code — What It Means

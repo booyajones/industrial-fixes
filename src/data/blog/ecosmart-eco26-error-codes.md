@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ecosmart
 money_part: "Inlet or outlet thermistor sensor"
+most_likely_cause: "Failed thermistor sensor"
 ---
 
 ## EcoSmart ECO 26 Error Codes — What It Means

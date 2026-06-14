@@ -12,6 +12,7 @@ tags:
   - kitchenaid
 diy_or_pro: "pro"
 money_part: "User interface board (display board)"
+most_likely_cause: "Transient control fault or memory glitch"
 ---
 
 ## KitchenAid Refrigerator E1 Error Code — What It Means

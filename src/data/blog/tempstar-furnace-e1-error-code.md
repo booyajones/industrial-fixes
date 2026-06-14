@@ -10,6 +10,7 @@ tags:
   - hvac
   - tempstar
 money_part: "Draft pressure switch"
+most_likely_cause: "Blocked flue or intake pipe"
 ---
 
 ## Tempstar Furnace E1 Error Code — What It Means

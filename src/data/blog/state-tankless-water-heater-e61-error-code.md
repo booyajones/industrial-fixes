@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Combustion fan blower motor assembly"
+most_likely_cause: "Blocked exhaust vent or intake termination"
 ---
 
 ## State Tankless Water Heater E61 Error Code — What It Means

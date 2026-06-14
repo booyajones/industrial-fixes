@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Indoor blower motor assembly"
+most_likely_cause: "Failed indoor blower motor"
 ---
 
 ## Gree H6 Error Code — What It Means

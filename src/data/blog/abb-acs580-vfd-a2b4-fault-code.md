@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "Shielded VFD-rated motor cable"
+most_likely_cause: "Damaged motor cable insulation"
 ---
 
 ## ABB ACS580 A2B4 Fault Code — What It Means

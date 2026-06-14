@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Outdoor unit control board (main PCB)"
+most_likely_cause: "Loose or damaged interconnect wiring"
 ---
 
 ## Mitsubishi F0003 Error Code — What It Means

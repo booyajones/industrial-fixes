@@ -11,6 +11,7 @@ tags:
   - mini-split
   - goodman
 money_part: "High-stage pressure switch"
+most_likely_cause: "Blocked or restricted venting or intake"
 ---
 
 ## Goodman B9 Error Code — What It Means

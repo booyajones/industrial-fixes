@@ -11,6 +11,7 @@ tags:
   - oven
   - frigidaire
 money_part: "Oven relay board"
+most_likely_cause: "Failed board-to-board communication"
 ---
 
 ## Frigidaire Range F19 Error Code — What It Means

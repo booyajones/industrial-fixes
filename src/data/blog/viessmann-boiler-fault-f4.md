@@ -10,6 +10,7 @@ tags:
   - boiler
   - viessmann
 money_part: "Ionization/ignition electrode"
+most_likely_cause: "No gas supply or low gas pressure"
 ---
 
 ## Viessmann Boiler Fault F4 — What It Means

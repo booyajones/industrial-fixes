@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Soft-charge bypass relay/contactor for GA800"
+most_likely_cause: "Failed or worn soft-charge bypass relay/contactor"
 ---
 
 ## Yaskawa GA800 E19 Fault — What It Means

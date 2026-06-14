@@ -11,6 +11,7 @@ tags:
   - mini-split
   - senville
 money_part: "Outdoor coil temperature sensor (T3 thermistor)"
+most_likely_cause: "Failed T3 thermistor"
 ---
 
 ## Senville EC 52 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - keeprite
 money_part: "Pressure switch"
+most_likely_cause: "Flue or intake blockage"
 ---
 
 ## Keeprite Furnace E1 Error Code — What It Means

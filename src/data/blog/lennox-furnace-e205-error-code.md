@@ -11,6 +11,7 @@ tags:
   - furnace
   - lennox
 money_part: "Lennox integrated furnace control board"
+most_likely_cause: "Damaged or shorted wiring harness"
 ---
 
 ## Lennox E205 Error Code — What It Means

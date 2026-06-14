@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Thermistor / temperature sensor"
+most_likely_cause: "Faulty thermistor or temperature sensor"
 ---
 
 ## State Tankless Water Heater E02 Error — What It Means

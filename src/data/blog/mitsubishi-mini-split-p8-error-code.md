@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Outdoor fan motor"
+most_likely_cause: "Outdoor unit airflow blockage"
 ---
 
 ## Mitsubishi Mini-Split P8 Error — What It Means

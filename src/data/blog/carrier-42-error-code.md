@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
 money_part: "Inducer motor assembly"
+most_likely_cause: "Failed inducer motor"
 ---
 
 ## Carrier 42 Error Code — What It Means

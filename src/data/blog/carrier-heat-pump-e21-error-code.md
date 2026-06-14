@@ -11,6 +11,7 @@ tags:
   - mini-split
   - carrier
 money_part: "Leak-detection sensor or module"
+most_likely_cause: "Actual refrigerant leak"
 ---
 
 ## Carrier E21 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mrcool
 money_part: "MRCOOL condenser outlet pipe temperature sensor"
+most_likely_cause: "Open or shorted thermistor"
 ---
 
 ## MRCOOL Mini-Split F2 Error Code — What It Means

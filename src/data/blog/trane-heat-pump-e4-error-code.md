@@ -11,6 +11,7 @@ tags:
   - mini-split
   - trane
 money_part: "Trane outdoor thermistor / temperature sensor"
+most_likely_cause: "Failed outdoor thermistor"
 ---
 
 ## Trane Heat Pump E4 Error Code — What It Means

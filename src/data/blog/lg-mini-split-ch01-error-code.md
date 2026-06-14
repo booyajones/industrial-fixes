@@ -10,6 +10,7 @@ tags:
   - mini-split
   - lg
 money_part: "LG indoor thermistor (room temp)"
+most_likely_cause: "Failed indoor room temperature thermistor"
 ---
 
 ## LG Mini Split CH01 Error Code — What It Means

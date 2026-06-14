@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - follett
 money_part: "Ice level sensor"
+most_likely_cause: "Ice bridge over the sensor"
 ---
 
 ## Follett Ice Machine Error Code E3 — What It Means

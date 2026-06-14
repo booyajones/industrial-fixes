@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mrcool
 money_part: "MRCOOL indoor control board (PCB)"
+most_likely_cause: "Failed indoor control board"
 ---
 
 ## MRCOOL Mini Split E2 Error Code — What It Means

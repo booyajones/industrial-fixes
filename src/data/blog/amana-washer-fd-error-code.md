@@ -11,6 +11,7 @@ tags:
   - washer
   - amana
 money_part: "Washing machine inlet hoses (pair)"
+most_likely_cause: "Supply valves closed or partially open"
 ---
 
 ## Amana Washer Fd Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - cnc
   - fanuc
 money_part: "Overtravel limit switch"
+most_likely_cause: "Manual jog or programmed move past the soft limit"
 ---
 
 ## Fanuc Alarm 2 — Overtravel Plus: What It Means

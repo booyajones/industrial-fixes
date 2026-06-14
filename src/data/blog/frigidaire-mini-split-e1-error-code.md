@@ -10,6 +10,7 @@ tags:
   - mini-split
   - frigidaire
 money_part: "Outdoor unit control PCB"
+most_likely_cause: "Loose or reversed communication wiring"
 ---
 
 ## Frigidaire Mini Split E1 Error Code — What It Means

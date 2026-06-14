@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "State control board (model-specific)"
+most_likely_cause: "Model-specific control board logic"
 ---
 
 ## State Water Heater E137 Error Code — What It Means

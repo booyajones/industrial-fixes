@@ -10,6 +10,7 @@ tags:
   - hvac
   - goodman
 money_part: "Communicating thermostat"
+most_likely_cause: "Loose or damaged communication wiring"
 ---
 
 ## Goodman Furnace EE2 Error Code — What It Means

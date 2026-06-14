@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ecosmart
 money_part: "EcoSmart thermistor / temperature sensor"
+most_likely_cause: "Failed thermistor"
 ---
 
 ## EcoSmart ECO 29 E1 Error — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens SINAMICS G120 Control Unit (CU)"
+most_likely_cause: "Power interruption during startup"
 ---
 
 ## Siemens G120 F01018 — What It Means

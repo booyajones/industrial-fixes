@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Danfoss FC 302 option card or communication module"
+most_likely_cause: "Wrong option type for drive model"
 ---
 
 ## Danfoss FC302 ALARM 15 — What It Means

@@ -10,6 +10,7 @@ tags:
   - boiler
   - noritz
 money_part: "Outlet thermistor"
+most_likely_cause: "Mineral scale in the heat exchanger"
 ---
 
 ## Noritz Error Code 16 — What It Means

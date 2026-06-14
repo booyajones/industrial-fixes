@@ -11,6 +11,7 @@ tags:
   - yaskawa
 diy_or_pro: "pro"
 money_part: "Yaskawa GA800 keypad / display module"
+most_likely_cause: "Misread or misinterpreted display"
 ---
 
 ## Yaskawa GA800 A.103 — What It Means

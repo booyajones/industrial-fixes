@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens G120 Control Unit (Safety Integrated compatible)"
+most_likely_cause: "Safety password not entered"
 ---
 
 ## Siemens G120 F01659 — What It Means

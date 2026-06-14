@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - hill-phoenix
 money_part: "NTC thermistor temperature sensor"
+most_likely_cause: "Failed NTC thermistor sensor"
 ---
 
 ## Hill Phoenix Display Case E1 Error Code — What It Means

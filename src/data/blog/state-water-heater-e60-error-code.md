@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Heat-pump water heater heating element"
+most_likely_cause: "Faulty heating element or circuit"
 ---
 
 ## State Water Heater E60 Error Code — What It Means

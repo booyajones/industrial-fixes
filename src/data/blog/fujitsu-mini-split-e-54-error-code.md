@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Indoor Unit Controller PCB"
+most_likely_cause: "Communication wiring fault"
 ---
 
 ## Fujitsu Mini Split E:54 Error — What It Means

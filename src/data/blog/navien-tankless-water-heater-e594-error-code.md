@@ -10,6 +10,7 @@ tags:
   - water-heater
   - navien
 money_part: "Navien main control board / PCB"
+most_likely_cause: "Failed or corrupted control board EEPROM"
 ---
 
 ## Navien E594 Error Code — What It Means

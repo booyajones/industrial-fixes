@@ -10,6 +10,7 @@ tags:
   - hvac
   - payne
 money_part: "High-limit switch"
+most_likely_cause: "Dirty air filter"
 ---
 
 ## Payne Furnace 33 Error Code — What It Means

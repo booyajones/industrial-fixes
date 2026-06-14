@@ -10,6 +10,7 @@ tags:
   - cnc
   - fanuc
 money_part: "Y-axis encoder cable"
+most_likely_cause: "axis mechanical binding"
 ---
 
 ## Fanuc Alarm 435 — What It Means

@@ -10,6 +10,7 @@ tags:
   - cnc
   - haas
 money_part: "Servo amplifier (axis drive)"
+most_likely_cause: "Axis servo drive overtemperature"
 ---
 
 ## Haas Alarm 110 — What It Means

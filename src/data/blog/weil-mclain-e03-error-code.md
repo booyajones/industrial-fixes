@@ -10,6 +10,7 @@ tags:
   - boiler
   - weil-mclain
 money_part: "Flame sensor"
+most_likely_cause: "Dirty or failed flame sensor"
 ---
 
 ## Weil-McLain E03 Error Code — What It Means

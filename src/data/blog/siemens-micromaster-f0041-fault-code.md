@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Motor cable (shielded power cable, appropriate gauge)"
+most_likely_cause: "Motor not connected during identification"
 ---
 
 ## Siemens Micromaster F0041 — What It Means

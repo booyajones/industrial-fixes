@@ -10,6 +10,7 @@ tags:
   - mini-split
   - gree
 money_part: "Communication wire (3-conductor, 18 AWG)"
+most_likely_cause: "Loose or miswired communication wire"
 ---
 
 ## Gree Mini-Split E6 Error Code — What It Means

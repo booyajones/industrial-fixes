@@ -11,6 +11,7 @@ tags:
   - refrigerator
   - amana
 money_part: "Ice maker assembly"
+most_likely_cause: "Ice maker not enabled or bin not seated"
 ---
 
 ## Amana Refrigerator CI Error Code — What It Means

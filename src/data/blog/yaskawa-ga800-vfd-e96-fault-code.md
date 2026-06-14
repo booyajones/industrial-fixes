@@ -11,6 +11,7 @@ tags:
   - yaskawa
 diy_or_pro: "pro"
 money_part: "GA800 control board"
+most_likely_cause: "Wiring or terminal issues"
 ---
 
 ## Yaskawa GA800 E96 Fault — What It Means

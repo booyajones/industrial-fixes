@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens G120 input rectifier module"
+most_likely_cause: "Incoming AC supply undervoltage or line dip"
 ---
 
 ## Siemens G120 F0008 Fault — What It Means

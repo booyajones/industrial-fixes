@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Danfoss FC 302 external cooling fan"
+most_likely_cause: "Blocked airflow around the drive"
 ---
 
 ## Danfoss FC302 ALARM 24 — What It Means

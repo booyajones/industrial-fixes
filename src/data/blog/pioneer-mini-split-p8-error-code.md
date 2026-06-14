@@ -11,6 +11,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Outdoor inverter power module (IPM board)"
+most_likely_cause: "Restricted outdoor coil or indoor filter"
 ---
 
 ## Pioneer Mini Split P8 Error — What It Means

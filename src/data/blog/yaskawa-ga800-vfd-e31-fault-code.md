@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "STO terminal jumper wire"
+most_likely_cause: "Missing or removed STO jumper"
 ---
 
 ## Yaskawa GA800 E31 Fault — What It Means

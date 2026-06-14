@@ -11,6 +11,7 @@ tags:
   - refrigerator
   - maytag
 money_part: "Refrigerator thermistor (temperature sensor)"
+most_likely_cause: "Misread or non-standard code"
 ---
 
 ## Maytag Refrigerator C2 Error Code — What It Means

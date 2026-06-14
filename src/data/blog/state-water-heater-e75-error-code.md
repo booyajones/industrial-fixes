@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Air Intake Screen Filter"
+most_likely_cause: "Blocked air intake screens"
 ---
 
 ## State Water Heater E75 Error Code — What It Means

@@ -12,6 +12,7 @@ tags:
   - micromaster
   - overcurrent
 money_part: "Motor cable"
+most_likely_cause: "Acceleration ramp too short"
 ---
 
 ## Siemens Micromaster 440 Fault F002 — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - trane
 money_part: "Indoor control board / user interface module"
+most_likely_cause: "Loose or damaged communication wiring"
 ---
 
 ## Trane E13 Error Code — What It Means

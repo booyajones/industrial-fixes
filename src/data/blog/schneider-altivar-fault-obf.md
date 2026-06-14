@@ -10,6 +10,7 @@ tags:
   - vfd
   - schneider
 money_part: "Replacement motor"
+most_likely_cause: "Mechanical overload on the driven equipment"
 ---
 
 ## Schneider Altivar Fault OBF — What It Means

@@ -11,6 +11,7 @@ tags:
   - microwave
   - panasonic
 money_part: "Door Interlock Switch"
+most_likely_cause: "Door interlock or latch fault"
 ---
 
 ## Panasonic Microwave U12 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens Micromaster drive (replacement unit)"
+most_likely_cause: "Internal power-stack data corruption"
 ---
 
 ## Siemens Micromaster F0052 — What It Means

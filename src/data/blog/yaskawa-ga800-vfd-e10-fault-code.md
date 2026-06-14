@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Motor overload relay"
+most_likely_cause: "Open external interlock or safety contact"
 ---
 
 ## Yaskawa GA800 E10 Fault — What It Means

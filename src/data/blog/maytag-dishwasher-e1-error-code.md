@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - maytag
 most_likely_cause: "Kinked, clogged, or improperly routed drain hose"
+free_checks:
+  - "Check for clogs in drain hose, air gap, and garbage disposal knockout plug"
+  - "Clean drain pump filter and sump area of food debris and foreign objects"
+  - "Verify drain hose is not kinked and mounted below 35 inches"
+no_buy_pct: "60%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Maytag dishwasher drain pump assembly"

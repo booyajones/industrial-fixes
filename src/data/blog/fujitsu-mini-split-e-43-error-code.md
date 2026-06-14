@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Controller PCB (Fujitsu mini split)"
+most_likely_cause: "Loose or miswired interconnect wiring"
 ---
 
 ## Fujitsu E:43 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - refrigeration
   - scotsman
 money_part: "Scotsman scale remover"
+most_likely_cause: "Scale or mineral buildup on the evaporator"
 ---
 
 ## Scotsman Ice Machine Error Code 6 — What It Means

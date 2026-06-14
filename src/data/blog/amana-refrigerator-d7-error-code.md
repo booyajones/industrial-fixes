@@ -11,6 +11,7 @@ tags:
   - refrigerator
   - amana
 money_part: "Refrigerator thermistor / temperature sensor"
+most_likely_cause: "Failed refrigerator thermistor"
 ---
 
 ## Amana D7 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state-water-heaters
 money_part: "Filling loop hose kit"
+most_likely_cause: "System leak"
 ---
 
 ## State Water Heater E118 Error Code — What It Means

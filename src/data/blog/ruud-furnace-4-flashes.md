@@ -10,6 +10,7 @@ tags:
   - hvac
   - ruud
 money_part: "Air filter"
+most_likely_cause: "Dirty air filter"
 ---
 
 ## Ruud Furnace 4 Flashes — What It Means

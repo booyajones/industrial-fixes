@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Outdoor control board (PCB / inverter board)"
+most_likely_cause: "Faulty current-sensing circuit on outdoor board"
 ---
 
 ## Gree U1 Error Code — What It Means

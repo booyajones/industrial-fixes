@@ -10,6 +10,7 @@ tags:
   - vfd
   - schneider
 money_part: "Altivar control card / board"
+most_likely_cause: "EEPROM or memory error"
 ---
 
 ## Schneider Altivar Fault INF — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 control board"
+most_likely_cause: "Worn or damaged soft-charge bypass relay or contactor"
 ---
 
 ## Yaskawa GA800 E26 Fault — What It Means

@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ge
 money_part: "GE GeoSpring air filter"
+most_likely_cause: "Dirty or clogged air filter"
 ---
 
 ## GE Water Heater F74 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "KTY84 motor temperature sensor"
+most_likely_cause: "True motor overheating"
 ---
 
 ## Siemens Micromaster F0020 — What It Means

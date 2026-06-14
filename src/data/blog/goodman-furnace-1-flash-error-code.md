@@ -11,6 +11,7 @@ tags:
   - furnace
   - goodman
 money_part: "Goodman hot surface igniter"
+most_likely_cause: "Dirty or failed flame sensor"
 ---
 
 ## Goodman Furnace 1-Flash Error Code — What It Means

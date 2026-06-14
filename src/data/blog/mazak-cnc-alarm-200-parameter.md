@@ -10,6 +10,7 @@ tags:
   - cnc
   - mazak
 money_part: "CMOS backup battery"
+most_likely_cause: "Parameter corruption after power interruption"
 ---
 
 ## Mazak CNC Alarm 200 Parameter Fault — What It Means

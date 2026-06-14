@@ -11,6 +11,7 @@ tags:
   - oven
   - bosch
 money_part: "Door lock assembly"
+most_likely_cause: "Failed door lock motor or latch"
 ---
 
 ## Bosch Oven ER6 Error Code — What It Means

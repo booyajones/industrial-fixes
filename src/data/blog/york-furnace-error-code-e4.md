@@ -10,6 +10,7 @@ tags:
   - hvac
   - york
 money_part: "Hot surface ignitor"
+most_likely_cause: "Dirty or failed hot surface ignitor (HSI)"
 ---
 
 ## York Furnace E4 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Motor PTC thermistor"
+most_likely_cause: "Motor thermistor activated"
 ---
 
 ## Danfoss VFD Fault E-Trip — What It Means

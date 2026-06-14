@@ -11,6 +11,7 @@ tags:
   - dryer
   - amana
 money_part: "Touchpad or user interface module"
+most_likely_cause: "Loose or damaged wiring harness"
 ---
 
 ## Amana Dryer F6 E1 Error Code — What It Means

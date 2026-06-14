@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Flame sensor or thermocouple"
+most_likely_cause: "Dirty or corroded flame sensor or thermocouple"
 ---
 
 ## State Water Heater E69 Error Code — What It Means

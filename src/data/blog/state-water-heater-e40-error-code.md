@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Inlet water filter screen"
+most_likely_cause: "Blocked air intake or vent termination"
 ---
 
 ## State Water Heater E40 Error Code — What It Means

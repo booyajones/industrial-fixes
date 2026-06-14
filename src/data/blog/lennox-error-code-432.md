@@ -10,6 +10,7 @@ tags:
   - hvac
   - lennox
 money_part: "ECM motor module (control module)"
+most_likely_cause: "ECM motor communication fault"
 ---
 
 ## Lennox Error Code 432 — What It Means

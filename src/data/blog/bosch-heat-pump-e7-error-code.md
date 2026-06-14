@@ -11,6 +11,7 @@ tags:
   - mini-split
   - bosch
 money_part: "Bosch discharge temperature sensor (thermistor)"
+most_likely_cause: "Failed discharge temperature sensor"
 ---
 
 ## Bosch Heat Pump E7 Error — What It Means

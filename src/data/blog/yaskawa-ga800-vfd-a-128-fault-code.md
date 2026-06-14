@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Encoder cable (shielded, matched to PG card)"
+most_likely_cause: "Misread or non-standard code"
 diy_or_pro: "pro"
 ---
 

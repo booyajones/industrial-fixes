@@ -11,6 +11,7 @@ tags:
   - mini-split
   - pioneer
 money_part: "Indoor main PCB (control board)"
+most_likely_cause: "Loose or miswired signal cable"
 ---
 
 ## Pioneer Mini Split EL 01 Error — What It Means

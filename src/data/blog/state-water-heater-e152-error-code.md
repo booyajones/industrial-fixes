@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state
 money_part: "Flame rod or flame sensor"
+most_likely_cause: "Incorrect code reference"
 ---
 
 ## State Water Heater E152 Error Code — What It Means

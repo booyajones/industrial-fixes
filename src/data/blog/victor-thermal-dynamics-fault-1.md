@@ -10,6 +10,7 @@ tags:
   - welding
   - thermal-dynamics
 money_part: "Electrode"
+most_likely_cause: "Missing or loose consumables"
 ---
 
 ## Thermal Dynamics Plasma Cutter Fault 1 — What It Means

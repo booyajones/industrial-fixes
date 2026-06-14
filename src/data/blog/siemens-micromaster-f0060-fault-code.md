@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens Micromaster 420 or 440 inverter (complete drive)"
+most_likely_cause: "Internal control electronics fault"
 ---
 
 ## Siemens Micromaster F0060 — What It Means

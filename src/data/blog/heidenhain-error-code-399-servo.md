@@ -10,6 +10,7 @@ tags:
   - cnc
   - heidenhain
 money_part: "Linear encoder read head"
+most_likely_cause: "Mechanical binding or overload on the axis"
 ---
 
 ## Heidenhain Error Code 399 — What It Means

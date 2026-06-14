@@ -10,6 +10,7 @@ tags:
   - boiler
   - rinnai
 money_part: "Thermal fuse (case or combustion type)"
+most_likely_cause: "Blocked or restricted exhaust vent"
 ---
 
 ## Rinnai Error Code 14 — What It Means

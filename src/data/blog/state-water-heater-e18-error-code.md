@@ -10,6 +10,7 @@ tags:
   - water-heater
   - state-water-heater
 money_part: "Circulation pump"
+most_likely_cause: "Air trapped in the system"
 ---
 
 ## State Water Heater E18 Error Code — What It Means

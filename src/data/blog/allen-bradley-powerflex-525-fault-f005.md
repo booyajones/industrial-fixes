@@ -11,6 +11,7 @@ tags:
   - allen-bradley
   - powerflex
 money_part: "Dynamic braking resistor"
+most_likely_cause: "Decel time set too short"
 ---
 
 ## Allen Bradley PowerFlex 525 F005 Fault, What It Means

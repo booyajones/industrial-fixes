@@ -10,6 +10,7 @@ tags:
   - vfd
   - yaskawa
 money_part: "Yaskawa GA800 cooling fan"
+most_likely_cause: "Excessive mechanical load or binding"
 ---
 
 ## Yaskawa GA800 E37 Fault — What It Means

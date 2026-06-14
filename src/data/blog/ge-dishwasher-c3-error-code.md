@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - ge
 most_likely_cause: "blocked filter, sump, or drain hose"
+free_checks:
+  - "Check drain filter, sump, and air gap for clogs; clear debris"
+  - "Inspect drain hose for kinks, loops above pump height, or blockages"
+  - "With power OFF, manually rotate pump impeller to check for jammed obstruction"
+no_buy_pct: "40%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "GE dishwasher drain pump"

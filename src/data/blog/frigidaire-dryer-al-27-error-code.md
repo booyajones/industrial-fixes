@@ -12,6 +12,7 @@ tags:
   - frigidaire
 diy_or_pro: "diy"
 money_part: "Heating Element"
+most_likely_cause: "Blocked airflow"
 part_price: "$20-80"
 ---
 

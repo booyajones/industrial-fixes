@@ -10,6 +10,7 @@ tags:
   - hvac
   - lennox
 money_part: "Pressure switch (heat speed rated)"
+most_likely_cause: "Partially blocked vent or exhaust pipe"
 ---
 
 ## Lennox Error Code 125 — What It Means

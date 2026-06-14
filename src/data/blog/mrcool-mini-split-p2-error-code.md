@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mrcool
 money_part: "MRCOOL outdoor main PCB / inverter board"
+most_likely_cause: "Restricted airflow at outdoor unit"
 ---
 
 ## MRCOOL P2 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - danfoss
 money_part: "Input fuses for Danfoss FC 302"
+most_likely_cause: "Blown or weak input fuses"
 ---
 
 ## Danfoss FC302 VFD Alarm 37 — What It Means

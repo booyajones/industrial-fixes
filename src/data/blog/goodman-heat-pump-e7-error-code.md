@@ -11,6 +11,7 @@ tags:
   - mini-split
   - goodman
 money_part: "Outdoor fan motor"
+most_likely_cause: "Failed outdoor fan motor"
 ---
 
 ## Goodman Heat Pump E7 Error Code — What It Means

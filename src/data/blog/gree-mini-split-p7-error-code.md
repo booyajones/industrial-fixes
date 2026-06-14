@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "IPM temperature sensor (thermistor)"
+most_likely_cause: "IPM temperature sensor loose or not seated"
 ---
 
 ## Gree P7 Error Code — What It Means

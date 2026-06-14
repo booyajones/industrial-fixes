@@ -10,6 +10,7 @@ tags:
   - cnc
   - haas
 money_part: "Spindle orientation sensor (Hall effect)"
+most_likely_cause: "Spindle encoder or orientation disk fault"
 ---
 
 ## Haas Alarm 118 — What It Means

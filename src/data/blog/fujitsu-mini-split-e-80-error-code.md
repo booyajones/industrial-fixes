@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Fujitsu indoor unit control PCB"
+most_likely_cause: "Wiring errors or loose connections"
 ---
 
 ## Fujitsu Mini Split E:80 Error — What It Means

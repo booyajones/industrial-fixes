@@ -10,6 +10,7 @@ tags:
   - cnc
   - okuma
 money_part: "Spindle amplifier cooling fan"
+most_likely_cause: "Aggressive cutting parameters"
 ---
 
 ## Okuma CNC Alarm 1201 — What It Means

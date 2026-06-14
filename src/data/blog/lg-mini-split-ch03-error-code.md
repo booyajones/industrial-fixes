@@ -11,6 +11,7 @@ tags:
   - mini-split
   - lg
 money_part: "LG indoor unit main PCB"
+most_likely_cause: "Indoor PCB malfunction"
 ---
 
 ## LG Mini-Split CH03 Error — What It Means

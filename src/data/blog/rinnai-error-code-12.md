@@ -10,6 +10,7 @@ tags:
   - boiler
   - rinnai
 money_part: "Flame rod / ionization sensor"
+most_likely_cause: "Gas supply interruption"
 ---
 
 ## Rinnai Error Code 12 — What It Means

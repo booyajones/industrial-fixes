@@ -11,6 +11,7 @@ tags:
   - furnace
   - lennox
 money_part: "High-limit switch"
+most_likely_cause: "Restricted airflow causing overheating"
 ---
 
 ## Lennox E250 Error Code — What It Means

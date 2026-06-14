@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Fujitsu indoor room-air thermistor"
+most_likely_cause: "Failed room-air thermistor"
 ---
 
 ## Fujitsu E:33 Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - vfd
   - johnson-controls
 money_part: "Drive cooling fan (internal)"
+most_likely_cause: "OC (Overcurrent)"
 ---
 
 ## Johnson Controls HVAC VFD Fault Codes — What They Mean

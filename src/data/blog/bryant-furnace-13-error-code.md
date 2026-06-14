@@ -10,6 +10,7 @@ tags:
   - hvac
   - bryant
 money_part: "High-limit switch"
+most_likely_cause: "Dirty air filter"
 ---
 
 ## Bryant Furnace 13 Error Code — What It Means

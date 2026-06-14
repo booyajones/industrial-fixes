@@ -11,6 +11,7 @@ tags:
   - yaskawa
 diy_or_pro: "pro"
 money_part: "Yaskawa GA800 control board"
+most_likely_cause: "Incorrect fault code read"
 ---
 
 ## Yaskawa GA800 E87 Fault — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - mitsubishi
 money_part: "Condensate pump (Mitsubishi mini-split)"
+most_likely_cause: "Clogged drain line or trap"
 ---
 
 ## Mitsubishi P5 Error Code — What It Means

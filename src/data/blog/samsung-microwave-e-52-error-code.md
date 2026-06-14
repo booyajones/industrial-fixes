@@ -11,6 +11,7 @@ tags:
   - samsung
 diy_or_pro: "pro"
 money_part: "Samsung refrigerator main PCB"
+most_likely_cause: "Defective main PCB (refrigerator 52E/52C)"
 ---
 
 ## Samsung E-52 Error Code — What It Means

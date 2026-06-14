@@ -11,6 +11,7 @@ tags:
   - mini-split
   - gree
 money_part: "Outdoor discharge temperature sensor / thermistor"
+most_likely_cause: "Restricted airflow at indoor or outdoor coil"
 ---
 
 ## Gree E4 Error Code — What It Means

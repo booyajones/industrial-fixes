@@ -10,6 +10,7 @@ tags:
   - mini-split
   - daikin
 money_part: "Indoor fan motor (BLDC)"
+most_likely_cause: "Obstructed or dirty indoor coil and fan"
 ---
 
 ## Daikin E3 Error Code — What It Means

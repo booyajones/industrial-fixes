@@ -11,6 +11,7 @@ tags:
   - furnace
   - carrier
 money_part: "Carrier flame sensor"
+most_likely_cause: "Dirty or failed flame sensor"
 ---
 
 ## Carrier Error Code 34 — What It Means

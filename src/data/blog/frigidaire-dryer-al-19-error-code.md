@@ -11,6 +11,7 @@ tags:
   - dryer
   - frigidaire
 money_part: "Frigidaire dryer door switch"
+most_likely_cause: "Door not fully closed"
 ---
 
 ## Frigidaire Dryer AL-19 Error Code — What It Means

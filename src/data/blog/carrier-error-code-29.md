@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
 money_part: "Condensate trap assembly"
+most_likely_cause: "Blocked condensate drain line"
 ---
 
 ## Carrier Error Code 29 — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - carrier
 money_part: "Indoor temperature sensor / room thermistor"
+most_likely_cause: "Failed indoor temperature sensor or thermistor"
 ---
 
 ## Carrier Heat Pump E2 Error Code — What It Means

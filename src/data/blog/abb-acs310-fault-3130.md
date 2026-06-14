@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "Input fuses (Class J or equivalent)"
+most_likely_cause: "Blown input fuse on one phase"
 ---
 
 ## ABB ACS310 Fault 3130 — What It Means

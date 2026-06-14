@@ -10,6 +10,7 @@ tags:
   - water-heater
   - ruud
 money_part: "Ruud tankless inlet water filter"
+most_likely_cause: "Normal maintenance interval reached"
 ---
 
 ## Ruud CO Error Code — What It Means

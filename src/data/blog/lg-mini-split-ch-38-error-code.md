@@ -11,6 +11,7 @@ tags:
   - mini-split
   - lg
 money_part: "Refrigerant line set flare repair kit"
+most_likely_cause: "Refrigerant leak at flare connections"
 ---
 
 ## LG Mini-Split CH38 Error Code — What It Means

@@ -11,6 +11,7 @@ tags:
   - washer
   - speed-queen
 money_part: "Water inlet valve assembly"
+most_likely_cause: "Excessive detergent or high-sudsing detergent"
 ---
 
 ## Speed Queen Washer OF Error Code — What It Means

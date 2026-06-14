@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Outdoor unit main PCB"
+most_likely_cause: "Loose or disconnected connectors"
 ---
 
 ## Fujitsu Mini Split E:27 Error Code — What It Means

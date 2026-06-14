@@ -11,6 +11,7 @@ tags:
   - dryer
   - electrolux
 money_part: "User Interface Control Board"
+most_likely_cause: "Mute mode enabled by user"
 ---
 
 ## Electrolux Dryer Mute Error Code — What It Means

@@ -10,6 +10,7 @@ tags:
   - hvac
   - goodman
 money_part: "Flame sensor"
+most_likely_cause: "Shorted or contaminated flame sensor circuit"
 ---
 
 ## Goodman Furnace 5 Flash Error Code — What It Means

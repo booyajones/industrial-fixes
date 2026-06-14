@@ -10,6 +10,7 @@ tags:
   - boiler
   - navien
 money_part: "Exhaust temperature sensor (thermistor)"
+most_likely_cause: "Blocked or undersized exhaust vent"
 ---
 
 ## Navien E030 Error Code — What It Means

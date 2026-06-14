@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Siemens BOP-2 Basic Operator Panel"
+most_likely_cause: "Commissioning or service parameter edited without saving"
 ---
 
 ## Siemens G120 VFD F01040 — What It Means

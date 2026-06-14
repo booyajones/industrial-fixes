@@ -11,6 +11,7 @@ tags:
   - mini-split
   - goodman
 money_part: "Indoor coil thermistor sensor"
+most_likely_cause: "Failed indoor coil thermistor"
 ---
 
 ## Goodman E4 Error Code — What It Means

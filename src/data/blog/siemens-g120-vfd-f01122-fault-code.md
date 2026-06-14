@@ -10,6 +10,7 @@ tags:
   - vfd
   - siemens
 money_part: "Measuring probe or encoder"
+most_likely_cause: "Sensor generating excessive pulse frequency"
 ---
 
 ## Siemens G120 F01122 — What It Means

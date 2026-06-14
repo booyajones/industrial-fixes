@@ -10,6 +10,7 @@ tags:
   - vfd
   - abb
 money_part: "Motor cable (shielded VFD-rated)"
+most_likely_cause: "Excessive motor load or mechanical jam"
 ---
 
 ## ABB Inverter Fault Code F0001 — What It Means

@@ -11,6 +11,7 @@ tags:
   - mini-split
   - fujitsu
 money_part: "Main controller PCB"
+most_likely_cause: "Loose or disconnected communication wiring"
 ---
 
 ## Fujitsu E:16 Error Code — What It Means
