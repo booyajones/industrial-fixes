@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - whirlpool
 most_likely_cause: "Door not fully closed or misaligned"
+free_checks:
+  - "Power-cycle the dishwasher (breaker off 2 minutes) to clear transient lock fault"
+  - "Inspect door strike alignment and latch catch; adjust if door doesn't close flush"
+  - "Check door lock wiring harness connector at control board for corrosion or looseness"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool door lock assembly (washer)"

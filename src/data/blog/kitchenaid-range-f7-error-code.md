@@ -11,6 +11,11 @@ tags:
   - oven
   - kitchenaid
 most_likely_cause: "Door latch assembly failure or loose latch wiring"
+free_checks:
+  - "Power cycle the range at breaker for 2 minutes to clear transient error"
+  - "Inspect door latch striker alignment and adjust if misaligned or bent"
+  - "Check wiring harness connections at latch assembly for looseness or corrosion"
+no_buy_pct: "15%"
 likelihood: "the most common cause for F7 E0"
 diy_or_pro: "diy"
 money_part: "KitchenAid Range Oven Door Latch Assembly"

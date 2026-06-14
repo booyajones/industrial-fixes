@@ -11,6 +11,11 @@ tags:
   - refrigerator
   - whirlpool
 most_likely_cause: "Control glitch or transient fault"
+free_checks:
+  - "Reset ice maker by holding test button 10 seconds or power-cycling unit for 5 minutes"
+  - "Verify freezer temperature is 0-5°F (warm freezer triggers E1)"
+  - "Inspect wire harness connectors between ice maker and control board for corrosion or loose connections"
+no_buy_pct: "40%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Ice maker assembly"

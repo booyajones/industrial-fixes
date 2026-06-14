@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - amana
 money_part: "Dishwasher inlet valve rubber washer (3/4-inch)"
+free_checks:
+  - "Check home water supply valve is fully open and inlet hose has no kinks or clogs"
+  - "Clean the inlet valve screen filter at the dishwasher connection for sediment/debris"
+  - "Verify adequate water pressure (20+ PSI) and test fill cycle after power-cycling the unit"
+no_buy_pct: "60%"
 part_price: "$10-40"
 most_likely_cause: "Leaking water supply connection at the inlet valve"
 likelihood: "the most common cause"

@@ -11,6 +11,11 @@ tags:
   - refrigerator
   - whirlpool
 most_likely_cause: "Ice maker not receiving water or restricted water flow"
+free_checks:
+  - "Remove ice bin and clear any ice jams in bucket or ejector mechanism"
+  - "Verify freezer temperature is 0-5°F and check door seal integrity"
+  - "Power-cycle ice maker using test/reset button (hold 10 seconds) or via control panel"
+no_buy_pct: "40%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Ice maker assembly"

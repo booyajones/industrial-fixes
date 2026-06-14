@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - amana
 money_part: "Water inlet valve (Amana dishwasher)"
+free_checks:
+  - "Check that household water supply valve is fully open and has adequate pressure (min 20 psi)"
+  - "Inspect inlet hose for kinks and clean the fine mesh screen inside the valve connection"
+  - "Power-cycle the unit (breaker off 2 minutes) to clear transient sensor errors"
+no_buy_pct: "40%"
 part_price: "$15-50"
 most_likely_cause: "shutoff valve under the sink not fully open"
 likelihood: "the most common cause"

@@ -11,6 +11,11 @@ tags:
   - oven
   - frigidaire
 most_likely_cause: "Failed or stuck door latch/lock assembly"
+free_checks:
+  - "Power cycle at breaker for 3 minutes to reset door lock module"
+  - "Check door latch strike alignment and clean latch mechanism of grease/debris"
+  - "Inspect wiring harness connector at door lock assembly for looseness or corrosion"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Door latch/lock assembly"

@@ -11,6 +11,11 @@ tags:
   - oven
   - bosch
 money_part: "Upper oven door latch assembly"
+free_checks:
+  - "Turn off breaker for 5 minutes to reset control board latch logic"
+  - "Inspect door latch striker alignment and clean latch mechanism of debris/grease"
+  - "Check wiring harness connector at latch for looseness or corrosion"
+part_price: "$85-180"
 most_likely_cause: "jammed or defective upper oven door latch mechanism"
 likelihood: "the most common cause"
 diy_or_pro: "pro"

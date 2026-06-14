@@ -11,6 +11,11 @@ tags:
   - oven
   - frigidaire
 most_likely_cause: "failed door lock assembly"
+free_checks:
+  - "Power cycle the range at the breaker for 3 minutes to clear control board glitch"
+  - "Inspect door latch alignment and manually verify latch rod moves freely without binding"
+no_buy_pct: "15%"
+part_price: "$60-$140"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
 money_part: "Frigidaire oven door lock assembly"

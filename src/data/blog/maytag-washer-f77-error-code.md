@@ -10,6 +10,11 @@ tags:
   - appliance
   - maytag
 most_likely_cause: "Overloaded load or shipping bolts still installed"
+free_checks:
+  - "Power-cycle washer (unplug 2 minutes) to clear transient motor control board glitch"
+  - "Check motor wire harness connector at control board and motor for corrosion/looseness"
+  - "Inspect motor mounting bolts and drum for obstruction preventing rotation"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Drive motor assembly"

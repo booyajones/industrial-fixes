@@ -11,6 +11,11 @@ tags:
   - washer
   - samsung
 most_likely_cause: "Hot and cold hoses connected to the wrong ports"
+free_checks:
+  - "Verify both hot and cold water supply valves are fully open and hoses are not kinked"
+  - "Clean inlet valve mesh screen filters for sediment or debris buildup"
+  - "Power-cycle the washer (unplug 2 minutes) to clear transient sensor errors"
+no_buy_pct: "60%"
 likelihood: "the most common cause for the nF1 variant"
 diy_or_pro: "diy"
 money_part: "Water inlet valve assembly"

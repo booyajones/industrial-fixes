@@ -11,6 +11,11 @@ tags:
   - washer
   - maytag
 most_likely_cause: "failed or sticking door latch and lock assembly"
+free_checks:
+  - "Power-cycle washer (unplug 2 minutes) to clear transient lock fault"
+  - "Inspect door strike alignment and check for obstructions preventing full latch engagement"
+  - "Verify wiring harness connector at door lock is fully seated and pins not corroded"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Door lock assembly (door latch)"

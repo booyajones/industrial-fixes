@@ -11,6 +11,9 @@ tags:
   - washer
   - electrolux
 money_part: "Electrolux washer heating element"
+free_checks:
+  - "Unplug 2 minutes to reset; verify drain pump filter is clear and drum spins freely"
+  - "Inspect wiring harness connections at heating element terminals for corrosion or looseness"
 part_price: "$30-80"
 most_likely_cause: "Failed heating element"
 likelihood: "the most common cause"

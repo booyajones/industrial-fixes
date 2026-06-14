@@ -11,6 +11,11 @@ tags:
   - oven
   - lg
 most_likely_cause: "Failed door lock motor or actuator assembly"
+free_checks:
+  - "Power cycle the oven (flip breaker for 2 minutes) to clear transient error"
+  - "Inspect door lock actuator wiring connector for looseness or corrosion"
+  - "Manually check door latch mechanism for obstruction or misalignment"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG Oven Door Lock Motor / Actuator Assembly"

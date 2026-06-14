@@ -11,6 +11,11 @@ tags:
   - refrigerator
   - lg
 most_likely_cause: "disconnected or failed ice maker sensor"
+free_checks:
+  - "Unplug fridge 60 seconds, plug back in to reset ice maker control board"
+  - "Check ice maker sensor wire harness for loose or corroded connector"
+  - "Inspect for ice buildup blocking sensor arm movement; defrost if needed"
+no_buy_pct: "40%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG ice maker sensor"

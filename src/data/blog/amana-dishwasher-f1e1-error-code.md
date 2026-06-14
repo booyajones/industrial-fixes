@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - amana
 money_part: "Drain pump for Amana dishwasher"
+free_checks:
+  - "Clear standing water and remove/clean the drain filter and sump area of all debris"
+  - "Inspect drain hose for kinks, clogs, or improper installation (high loop, standpipe depth)"
+  - "Power off at breaker for 5 minutes to reset, then test drain cycle"
+no_buy_pct: "60%"
 part_price: "$15-60"
 most_likely_cause: "Clogged or kinked drain hose"
 likelihood: "the most common cause"

@@ -11,6 +11,11 @@ tags:
   - washer
   - electrolux
 money_part: "Electrolux washer drain pump"
+free_checks:
+  - "Check drain hose for kinks, clogs, or improper installation (max 39' height); clear drain filter/coin trap of all debris"
+  - "Verify drain pump impeller spins freely by removing filter and manually rotating; remove any foreign objects"
+  - "Test drain pump resistance (should read 5-10 ohms) and listen for humming during drain cycle"
+no_buy_pct: "40%"
 part_price: "$50-120"
 most_likely_cause: "failed or intermittent drain pump"
 likelihood: "the most common cause"

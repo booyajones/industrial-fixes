@@ -11,6 +11,12 @@ tags:
   - dishwasher
   - amana
 money_part: "Amana dishwasher door latch assembly"
+free_checks:
+  - "Clean door latch striker and cavity with damp cloth; remove debris or detergent buildup preventing full engagement"
+  - "Open/close door firmly 5-6 times to reseat latch; verify door gasket isn't folding inward and blocking latch"
+  - "Unplug 60 seconds, restore power, then test door latch click and cycle start"
+no_buy_pct: "15%"
+part_price: "$35-75"
 most_likely_cause: "Temporary control glitch"
 diy_or_pro: "diy"
 ---

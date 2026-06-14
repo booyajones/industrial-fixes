@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - amana
 money_part: "Water inlet valve assembly"
+free_checks:
+  - "Check inlet valve screen/filter for debris and clean if clogged"
+  - "Verify home water supply valve is fully open and inlet hose has no kinks"
+  - "Test inlet valve coil resistance (should be 500-1500 ohms) with multimeter"
+no_buy_pct: "40%"
 part_price: "$40-120"
 most_likely_cause: "Stuck or failed water inlet valve"
 likelihood: "the most common cause"

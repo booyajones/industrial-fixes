@@ -11,6 +11,11 @@ tags:
   - washer
   - maytag
 most_likely_cause: "clothing or objects blocking the lid lock area"
+free_checks:
+  - "Power-cycle washer (unplug 60 seconds) to clear transient lock fault"
+  - "Inspect lid strike/magnet alignment and clean debris from latch contact area"
+  - "Check wiring harness connector at lid lock for corrosion or looseness"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Maytag washer lid lock or door lock assembly"

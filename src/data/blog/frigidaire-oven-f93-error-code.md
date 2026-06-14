@@ -11,6 +11,11 @@ tags:
   - oven
   - frigidaire
 most_likely_cause: "stuck or failed door lock motor/actuator"
+free_checks:
+  - "Power-cycle the oven at the breaker for 2 minutes to clear transient control-board glitches"
+  - "Inspect door latch striker alignment and wipe debris from latch mechanism"
+  - "Check the wiring harness connector at the door lock assembly for looseness or corrosion"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Door lock assembly (latch and motor)"

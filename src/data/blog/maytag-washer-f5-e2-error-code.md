@@ -10,6 +10,11 @@ tags:
   - appliance
   - maytag
 most_likely_cause: "Door not fully latched or clothing blocking closure"
+free_checks:
+  - "Power-cycle washer (unplug 60 seconds) to clear transient fault"
+  - "Inspect lid strike/magnet alignment and clean any debris preventing engagement"
+  - "Check wiring harness connector at lid lock for corrosion or loose pins"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Lid lock assembly or door lock assembly"

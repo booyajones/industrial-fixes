@@ -11,6 +11,11 @@ tags:
   - oven
   - kenmore
 money_part: "Oven Door Latch Assembly"
+free_checks:
+  - "Power cycle the oven at breaker for 3+ minutes to clear control board glitch"
+  - "Inspect door latch mechanism for obstructions or misalignment preventing full closure"
+  - "Check door latch wiring harness connector at control board for looseness or corrosion"
+no_buy_pct: "20%"
 part_price: "$30-80"
 most_likely_cause: "stuck or bent latch cam or rod"
 likelihood: "the most common cause"

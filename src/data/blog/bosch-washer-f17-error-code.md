@@ -11,6 +11,11 @@ tags:
   - washer
   - bosch
 money_part: "Bosch washer inlet valve (water inlet solenoid valve)"
+free_checks:
+  - "Verify both hot and cold water supply valves are fully open and hoses are not kinked"
+  - "Clean inlet valve screens/filters at hose connections (often clogged with sediment)"
+  - "Confirm home water pressure meets minimum 20 psi requirement"
+no_buy_pct: "60%"
 part_price: "$10-40"
 most_likely_cause: "closed or partly open supply tap, or blocked inlet screen"
 likelihood: "the most common cause"

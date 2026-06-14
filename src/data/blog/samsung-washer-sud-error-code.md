@@ -10,6 +10,12 @@ tags:
   - appliance
   - samsung
 most_likely_cause: "too much detergent or using non-HE detergent"
+free_checks:
+  - "Clean drain pump filter of debris, coins, and lint; check drain hose for kinks or clogs"
+  - "Run empty hot cycle with 1 cup white vinegar to clear residual soap buildup"
+  - "Verify correct HE detergent usage (non-HE soap causes excessive suds)"
+no_buy_pct: "80%"
+part_price: "$25-60"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Drain pump filter"

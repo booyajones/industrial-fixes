@@ -10,6 +10,11 @@ tags:
   - appliance
   - amana
 most_likely_cause: "clogged inlet screens or kinked/restricted supply hoses"
+free_checks:
+  - "Check water supply valve is fully open and inlet hose has no kinks or blockages"
+  - "Inspect inlet valve screen filter for sediment/debris buildup and clean if clogged"
+  - "Verify electrical connection to inlet valve is secure and test for 120V AC at valve terminals during fill cycle"
+no_buy_pct: "40%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Water inlet valve assembly"

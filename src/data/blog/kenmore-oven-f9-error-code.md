@@ -11,6 +11,11 @@ tags:
   - oven
   - kenmore
 money_part: "Door latch assembly"
+free_checks:
+  - "Power-cycle at breaker for 2 minutes to clear transient latch fault"
+  - "Inspect door latch striker alignment and manually cycle latch for binding or debris"
+  - "Check 6-pin latch harness connector at control board for looseness or corrosion"
+no_buy_pct: "15%"
 part_price: "$50-150"
 most_likely_cause: "seized or jammed door latch assembly"
 likelihood: "the most common cause"

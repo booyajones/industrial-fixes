@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - whirlpool
 diy_or_pro: "diy"
+free_checks:
+  - "Clean door latch strike and catch area of food debris; manually test latch for binding"
+  - "Open/close door firmly 5-6 times to reseat micro-switches; verify door alignment and hinge tightness"
+  - "Power cycle at breaker for 2 minutes to clear transient faults"
+no_buy_pct: "15%"
 money_part: "Door latch assembly"
 most_likely_cause: "Door latch or switch fault"
 part_price: "$30-120"

@@ -10,6 +10,11 @@ tags:
   - appliance
   - samsung
 most_likely_cause: "closed or partially closed water faucets, or clogged inlet mesh screens"
+free_checks:
+  - "Verify both hot and cold water supply valves are fully open and hoses are not kinked"
+  - "Remove inlet hoses and clean the mesh screens inside the valve ports"
+  - "Test home water pressure at another faucet to confirm adequate flow (minimum 20 psi required)"
+no_buy_pct: "60%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung washer water inlet valve assembly"

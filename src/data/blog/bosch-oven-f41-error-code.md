@@ -11,6 +11,11 @@ tags:
   - oven
   - bosch
 money_part: "Oven door latch assembly (motorized)"
+free_checks:
+  - "Power-cycle the oven at breaker for 2 minutes to clear transient latch fault"
+  - "Inspect door latch striker alignment and test for binding or obstructions"
+  - "Check wiring connectors at latch assembly for looseness or corrosion"
+no_buy_pct: "15%"
 part_price: "$50-150"
 most_likely_cause: "jammed or defective latch motor"
 likelihood: "the most common cause"

@@ -11,6 +11,11 @@ tags:
   - refrigerator
   - lg
 most_likely_cause: "frost or ice buildup around the evaporator fan area"
+free_checks:
+  - "Check for ice buildup blocking the evaporator fan; defrost manually if present"
+  - "Inspect fan blades for obstructions or damage preventing rotation"
+  - "Verify wire harness connector to fan motor is fully seated and not corroded"
+no_buy_pct: "25%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG refrigerator evaporator fan motor"

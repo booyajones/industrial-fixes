@@ -10,6 +10,11 @@ tags:
   - appliance
   - bosch
 money_part: "Bosch washer door lock / interlock assembly"
+free_checks:
+  - "Power-cycle washer (unplug 2 min) to reset door lock control board"
+  - "Inspect door strike alignment and clean debris from latch mechanism"
+  - "Check wiring harness connector at door lock for corrosion or looseness"
+no_buy_pct: "15%"
 part_price: "$50-120"
 most_likely_cause: "debris or clothing obstructing the latch area"
 likelihood: "the most common cause"

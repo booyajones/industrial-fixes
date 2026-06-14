@@ -10,6 +10,11 @@ tags:
   - appliance
   - electrolux
 money_part: "Electrolux washer water inlet valve assembly"
+free_checks:
+  - "Turn off water supply, disconnect inlet hoses, clean inlet valve screens of sediment/debris with toothbrush"
+  - "Check inlet hoses for kinks and verify home water supply has adequate pressure (min 20 psi)"
+  - "Power cycle washer (unplug 2 minutes) to clear transient sensor fault"
+no_buy_pct: "40%"
 part_price: "$30-80"
 most_likely_cause: "water inlet valve stuck open or leaking"
 likelihood: "the most common cause"

@@ -11,6 +11,11 @@ tags:
   - washer
   - maytag
 most_likely_cause: "faulty door lock assembly"
+free_checks:
+  - "Power-cycle washer (unplug 60 seconds) to reset door lock fault"
+  - "Inspect door strike alignment and clear debris blocking latch engagement"
+  - "Check door lock wire harness connector for looseness or corrosion"
+no_buy_pct: "20%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Door lock assembly (Maytag front-load washer)"

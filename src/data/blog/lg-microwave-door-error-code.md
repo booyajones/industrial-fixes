@@ -11,6 +11,11 @@ tags:
   - microwave
   - lg
 most_likely_cause: "Foreign material, packaging, crumbs, or grease preventing full latch engagement"
+free_checks:
+  - "Inspect door strike area and latch for obstructions (food debris, packaging) and clean thoroughly"
+  - "Check door hinge alignment and test that latch mechanism clicks firmly when door closes"
+  - "Unplug 30 seconds to reset control board, then test door with firm press until audible click"
+no_buy_pct: "40%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG microwave door latch assembly"

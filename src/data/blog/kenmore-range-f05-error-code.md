@@ -11,6 +11,11 @@ tags:
   - oven
   - kenmore
 most_likely_cause: "jammed or bent latch mechanism"
+free_checks:
+  - "Power cycle range at breaker for 5 minutes to reset control board"
+  - "Inspect door latch striker alignment and adjust if misaligned"
+  - "Check door latch wiring harness connector for looseness or corrosion"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Door latch assembly"

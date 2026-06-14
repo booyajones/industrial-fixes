@@ -11,6 +11,11 @@ tags:
   - washer
   - bosch
 most_likely_cause: "Blocked drain pump filter or pump chamber"
+free_checks:
+  - "Check and clear drain pump filter and drain hose for clogs, coins, or debris"
+  - "Inspect drain hose for kinks or excessive standpipe insertion (air-lock)"
+  - "Run empty spin cycle to test pump activation and listen for jammed impeller"
+no_buy_pct: "60%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Bosch washer drain pump"

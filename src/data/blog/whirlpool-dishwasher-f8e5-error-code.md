@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - whirlpool
 most_likely_cause: "water in the drip tray or base pan from a leak or loose inlet connection"
+free_checks:
+  - "Turn off water supply, disconnect inlet hose, check and clean inlet valve screen for debris"
+  - "Verify home water pressure is 20-120 PSI and supply valve is fully open"
+  - "Inspect inlet hose for kinks or restrictions"
+no_buy_pct: "40%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Whirlpool dishwasher water inlet valve"

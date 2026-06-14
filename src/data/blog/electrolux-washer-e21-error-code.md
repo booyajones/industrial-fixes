@@ -11,6 +11,11 @@ tags:
   - washer
   - electrolux
 money_part: "Electrolux washer drain pump filter"
+free_checks:
+  - "Clean drain pump filter by twisting counterclockwise and removing debris, coins, and lint"
+  - "Check drain hose for kinks, clogs, and ensure it's not inserted more than 4-5 inches into standpipe"
+  - "Verify all hose connections are secure and drain path is clear"
+no_buy_pct: "60%"
 part_price: "$15-50"
 most_likely_cause: "Kinked or restricted drain hose"
 likelihood: "the most common cause"

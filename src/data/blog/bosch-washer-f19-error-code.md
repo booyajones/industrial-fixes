@@ -11,6 +11,11 @@ tags:
   - washer
   - bosch
 money_part: "Bosch washer heating element"
+free_checks:
+  - "Reset washer (unplug 60 seconds) and verify vent hose is not kinked or clogged"
+  - "Check wiring harness connections to heating element and NTC thermistor for corrosion or looseness"
+  - "Test heating element continuity with multimeter (should read 20-50 ohms; infinite = failed open)"
+part_price: "$40-85"
 most_likely_cause: "failed heating element"
 likelihood: "the most common cause"
 diy_or_pro: "pro"

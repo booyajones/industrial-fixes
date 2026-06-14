@@ -11,6 +11,9 @@ tags:
   - washer
   - electrolux
 money_part: "Electrolux washer heating element"
+free_checks:
+  - "Unplug washer for 60 seconds to clear transient fault codes"
+  - "Inspect heating element wire harness connections for corrosion or looseness"
 part_price: "$30-80"
 most_likely_cause: "defective heating element"
 likelihood: "the most common cause"

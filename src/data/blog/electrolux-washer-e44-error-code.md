@@ -11,6 +11,11 @@ tags:
   - washer
   - electrolux
 money_part: "Door lock assembly (door interlock)"
+free_checks:
+  - "Power-cycle washer (unplug 2 min) to clear transient door-lock fault"
+  - "Inspect door strike alignment and ensure door closes firmly with audible click"
+  - "Check door lock wiring harness for loose connector at lock and main board"
+no_buy_pct: "15%"
 part_price: "$40-80"
 most_likely_cause: "Faulty door lock assembly"
 likelihood: "the most common cause"

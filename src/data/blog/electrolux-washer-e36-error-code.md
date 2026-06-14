@@ -11,6 +11,11 @@ tags:
   - washer
   - electrolux
 money_part: "Electrolux washer drain pump"
+free_checks:
+  - "Check drain hose for kinks or clogs; remove and clear pump filter/coin trap of debris"
+  - "Verify drain hose is not inserted more than 4.5 inches into standpipe (air-gap required)"
+  - "Inspect pump impeller through filter housing; remove any socks, coins, or foreign objects"
+no_buy_pct: "40%"
 part_price: "$15-80"
 most_likely_cause: "blocked drain filter or clogged drain hose"
 likelihood: "the most common cause"

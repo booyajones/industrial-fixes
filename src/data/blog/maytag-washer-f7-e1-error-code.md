@@ -10,6 +10,12 @@ tags:
   - appliance
   - maytag
 most_likely_cause: "Shipping bolts or spacers not removed on a front-load washer"
+free_checks:
+  - "Unplug 5 minutes, check for jammed drum or foreign object in pump/belt area causing motor lockup"
+  - "Inspect motor wire harness connector for corrosion, loose pins, or water damage"
+  - "Manually rotate drum to ensure free spin and verify belt is on motor pulley correctly"
+no_buy_pct: "20%"
+part_price: "$120-220"
 likelihood: "the most common cause on recently installed or moved machines"
 diy_or_pro: "diy"
 money_part: "Drive motor"

@@ -11,6 +11,11 @@ tags:
   - washer
   - maytag
 most_likely_cause: "Obstruction, debris, lint, or residue around the lock or strike area"
+free_checks:
+  - "Power-cycle washer (unplug 60 seconds) to clear transient lock fault"
+  - "Inspect door striker alignment and clean door seal/latch area for debris blocking engagement"
+  - "Check door lock wiring harness connector for corrosion or looseness"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Maytag washer door lock or lid lock assembly"

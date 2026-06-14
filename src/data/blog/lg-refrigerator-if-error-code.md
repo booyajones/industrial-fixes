@@ -11,6 +11,11 @@ tags:
   - refrigerator
   - lg
 most_likely_cause: "Frost or ice buildup around the ice maker fan assembly"
+free_checks:
+  - "Check for ice buildup blocking the ice maker fan; defrost and clear any obstructions"
+  - "Verify the ice maker fan connector is fully seated and not corroded"
+  - "Power-cycle the refrigerator (unplug 60 seconds) to reset the ice maker module"
+no_buy_pct: "20%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG ice maker fan motor (ice maker blower fan motor)"

@@ -11,6 +11,11 @@ tags:
   - oven
   - kitchenaid
 most_likely_cause: "defective or stuck oven door latch assembly"
+free_checks:
+  - "Power cycle the range at the breaker for 60 seconds to clear transient control board glitches"
+  - "Inspect and reseat the wire harness connector on the door latch assembly for looseness or corrosion"
+  - "Manually verify the door latch rod moves freely and is not binding or misaligned"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "KitchenAid Oven Door Latch Assembly"

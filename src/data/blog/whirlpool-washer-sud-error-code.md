@@ -11,6 +11,12 @@ tags:
   - washer
   - whirlpool
 most_likely_cause: "Too much detergent or non-HE detergent"
+free_checks:
+  - "Run tub-clean cycle or hot water cycle with no detergent to clear excess suds; verify HE detergent usage"
+  - "Check drain hose for kinks/clogs and verify proper height (25-96 inches)"
+  - "Inspect drain pump filter and impeller for debris obstruction causing slow drain"
+no_buy_pct: "60%"
+part_price: "$35-75"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Drain pump"

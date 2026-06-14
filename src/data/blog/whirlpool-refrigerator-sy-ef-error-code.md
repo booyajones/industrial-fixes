@@ -11,6 +11,11 @@ tags:
   - refrigerator
   - whirlpool
 diy_or_pro: "diy"
+free_checks:
+  - "Check for ice buildup blocking evaporator fan blade; manually spin fan to confirm it's not frozen or jammed"
+  - "Inspect wire harness connector at evaporator fan motor for corrosion, frost damage, or loose pins"
+  - "Clear any frost from evaporator coils and verify airflow path isn't obstructed"
+no_buy_pct: "15%"
 money_part: "Evaporator fan motor assembly"
 most_likely_cause: "Ice buildup blocking the evaporator fan"
 part_price: "$40-120"

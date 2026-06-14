@@ -11,6 +11,11 @@ tags:
   - oven
   - lg
 most_likely_cause: "failed heating element or loose relay connector"
+free_checks:
+  - "Power cycle the oven at breaker for 60 seconds to clear transient fault"
+  - "Visually inspect bake element for visible breaks, blistering, or separation"
+  - "Check wire connectors at bake element terminals for corrosion or looseness"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG oven bake element"

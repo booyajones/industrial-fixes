@@ -11,6 +11,12 @@ tags:
   - dishwasher
   - whirlpool
 diy_or_pro: "diy"
+free_checks:
+  - "Turn off water supply, disconnect inlet hose, clean inlet screen/filter with toothbrush"
+  - "Check household water pressure (needs 20+ PSI) by testing faucet flow"
+  - "Inspect inlet hose for kinks and verify shut-off valve is fully open"
+no_buy_pct: "40%"
+part_price: "$35-75"
 money_part: "Water inlet valve (dishwasher)"
 most_likely_cause: "Code display error or model-specific variant"
 ---

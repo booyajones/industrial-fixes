@@ -11,6 +11,11 @@ tags:
   - refrigerator
   - whirlpool
 most_likely_cause: "Failed ice maker module or motor"
+free_checks:
+  - "Power-cycle the refrigerator for 5+ minutes to clear transient sensor errors"
+  - "Inspect ice maker fill tube and trough for ice blockage preventing proper fill detection"
+  - "Check wiring harness connections between ice maker and control board for corrosion or looseness"
+no_buy_pct: "40%"
 likelihood: "the most common cause when E2 is tied to ice-maker diagnostics"
 diy_or_pro: "diy"
 money_part: "Whirlpool ice maker assembly or module"

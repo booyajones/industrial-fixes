@@ -10,6 +10,11 @@ tags:
   - appliance
   - maytag
 most_likely_cause: "blocked or restricted drain pump"
+free_checks:
+  - "Remove front lower panel and clean drain pump filter/coin trap of debris"
+  - "Check drain hose for kinks, clogs, and verify not elevated above 96 inches"
+  - "Run drain cycle and listen for pump hum indicating stuck impeller from debris"
+no_buy_pct: "60%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Drain pump assembly"

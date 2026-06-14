@@ -11,6 +11,11 @@ tags:
   - oven
   - kitchenaid
 money_part: "KitchenAid oven door lock assembly"
+free_checks:
+  - "Power cycle at breaker for 2 minutes to clear potential false lock error"
+  - "Check door lock mechanism for obstructions or binding when oven is cool"
+  - "Inspect wiring connections at lock assembly and control board for looseness or corrosion"
+no_buy_pct: "15%"
 part_price: "$50-150"
 most_likely_cause: "Stuck or failed door lock switch"
 likelihood: "the most common cause"

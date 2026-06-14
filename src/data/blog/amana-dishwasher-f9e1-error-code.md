@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - amana
 money_part: "Drain pump assembly"
+free_checks:
+  - "Clear debris and food particles from drain pump filter and sump area"
+  - "Inspect drain hose for kinks, clogs, and proper high-loop installation"
+  - "Verify drain pump wire harness connections are secure and free of corrosion"
+no_buy_pct: "40%"
 part_price: "$15-80"
 most_likely_cause: "blocked drain path or garbage disposer knockout plug left in place"
 likelihood: "the most common cause"

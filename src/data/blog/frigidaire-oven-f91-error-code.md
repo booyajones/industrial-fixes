@@ -11,6 +11,10 @@ tags:
   - oven
   - frigidaire
 most_likely_cause: "door lock assembly failure"
+free_checks:
+  - "Power cycle the oven at breaker for 5 minutes to clear electronic glitch"
+  - "Inspect door latch rod and strike for obstructions or misalignment preventing full retraction"
+no_buy_pct: "10%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Frigidaire oven door latch motor assembly"

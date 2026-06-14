@@ -11,6 +11,11 @@ tags:
   - dishwasher
   - samsung
 most_likely_cause: "dirty inlet filter screen or kinked supply hose"
+free_checks:
+  - "Check home water supply valve is fully open and has adequate pressure (min 20 psi)"
+  - "Inspect inlet hose for kinks, clogs, or closed inline shutoff; clean inlet screen filter at valve connection"
+  - "Power-cycle dishwasher for 5 minutes to reset flow sensor fault memory"
+no_buy_pct: "60%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Samsung dishwasher water inlet valve assembly"

@@ -11,6 +11,12 @@ tags:
   - washer
   - electrolux
 money_part: "Electrolux washer drive motor assembly"
+free_checks:
+  - "Unplug for 60 seconds to reset motor control board; check if error clears after power cycle"
+  - "Inspect wire harness connector at motor for corrosion, loose pins, or water damage; reseat firmly"
+  - "Manually rotate drum to check for jammed objects or bearing seizure causing motor overload"
+no_buy_pct: "15%"
+part_price: "$180-$320"
 most_likely_cause: "failed motor tachometer or speed sensor"
 likelihood: "the most common cause"
 diy_or_pro: "pro"

@@ -11,6 +11,12 @@ tags:
   - refrigerator
   - frigidaire
 most_likely_cause: "Ice or frost accumulation blocking the evaporator fan"
+free_checks:
+  - "Check for ice buildup blocking evaporator fan blades and defrost manually if frozen"
+  - "Inspect fan blade for physical obstructions and verify it spins freely by hand"
+  - "Verify wire harness connector is fully seated and wires are intact"
+no_buy_pct: "15%"
+part_price: "$35-80"
 likelihood: "the most common cause"
 diy_or_pro: "pro"
 money_part: "Evaporator fan motor assembly"

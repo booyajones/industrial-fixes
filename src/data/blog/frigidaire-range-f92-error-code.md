@@ -11,6 +11,10 @@ tags:
   - oven
   - frigidaire
 most_likely_cause: "transient control glitch or latched lock state"
+free_checks:
+  - "Power-cycle the range at breaker for 3 minutes to reset control board"
+  - "Inspect door lock assembly wiring harness for loose or corroded connectors at control board"
+no_buy_pct: "10%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Frigidaire oven door lock assembly / motor"

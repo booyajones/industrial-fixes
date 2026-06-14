@@ -11,6 +11,11 @@ tags:
   - washer
   - electrolux
 money_part: "Door lock assembly (door interlock)"
+free_checks:
+  - "Power-cycle washer (unplug 2 min) to reset door lock fault memory"
+  - "Inspect door strike alignment and ensure door closes fully without obstruction"
+  - "Check wiring harness connector at door lock for looseness or corrosion"
+no_buy_pct: "15%"
 part_price: "$50-120"
 most_likely_cause: "Failed door lock assembly"
 likelihood: "the most common cause"

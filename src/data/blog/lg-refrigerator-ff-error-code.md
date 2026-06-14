@@ -11,6 +11,11 @@ tags:
   - refrigerator
   - lg
 most_likely_cause: "Ice or frost accumulation locking the freezer fan blade"
+free_checks:
+  - "Unplug unit 60 seconds, restore power to clear transient fault code"
+  - "Inspect freezer fan grille and evaporator area for ice buildup blocking blade rotation"
+  - "Check fan wire harness connector at main board for corrosion or looseness"
+no_buy_pct: "20%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "LG refrigerator freezer fan motor (evaporator fan motor)"

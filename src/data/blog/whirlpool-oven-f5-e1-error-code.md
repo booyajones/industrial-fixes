@@ -11,6 +11,11 @@ tags:
   - oven
   - whirlpool
 most_likely_cause: "Failed door latch motor or actuator"
+free_checks:
+  - "Power-cycle the oven at breaker for 5 minutes to reset control board glitch"
+  - "Inspect door latch mechanism for obstructions or misalignment preventing full closure"
+  - "Check door strike alignment and gasket for warping preventing proper door engagement"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Door latch motor assembly"

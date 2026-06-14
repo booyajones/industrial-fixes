@@ -10,6 +10,10 @@ tags:
   - appliance
   - frigidaire
 most_likely_cause: "failed door lock assembly"
+free_checks:
+  - "Power cycle the oven at breaker for 5 minutes to clear transient electronic fault"
+  - "Inspect door latch striker alignment and manually operate door lock mechanism to check for mechanical binding or obstruction"
+no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
 money_part: "Door lock motor assembly"
