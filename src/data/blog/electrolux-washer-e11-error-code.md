@@ -1,8 +1,8 @@
 ---
-title: "Electrolux Washer E11 Error Code - Causes & Fix"
-description: "E11 means the washer isn't filling with water during the wash phase. Check that both shutoff valves are fully open and hoses aren't kinked."
-pubDatetime: 2026-06-10T15:47:13Z
-modDatetime: 2026-06-10T15:47:13Z
+title: "Electrolux Washer E11 Error - Causes & Fix"
+description: "E11 means the washer took too long to fill with water. Most often caused by low water pressure or clogged inlet screens."
+pubDatetime: 2026-06-13T22:38:16Z
+modDatetime: 2026-06-13T22:38:16Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,74 +10,74 @@ tags:
   - appliance
   - washer
   - electrolux
-money_part: "Water inlet valve"
-free_checks:
-  - "Check inlet hose screens/filters for debris and clean; verify hoses aren't kinked"
-  - "Confirm household water supply valves are fully open and water pressure is adequate (≥20 psi)"
-  - "Inspect wiring harness connector at inlet valve for corrosion or looseness"
-no_buy_pct: "60%"
-part_price: "$15-50"
-most_likely_cause: "closed or partially closed water supply valve"
+money_part: "Water inlet valve assembly"
+most_likely_cause: "Clogged inlet valve screens or low water supply pressure"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+free_checks:
+  - "Turn both hot and cold faucets fully open and check for kinks in the inlet hoses"
+  - "Disconnect hoses and clean the mesh inlet screens inside the washer valve ports"
+  - "Verify hot and cold water lines are connected to the correct inlets (not reversed)"
+part_price: "$30-60"
+no_buy_pct: "60%"
 ---
 
-## Electrolux Washer E11 Error Code — What It Means
+## Electrolux Washer E11 Error — What It Means
 
-E11 on an Electrolux front-load washer signals a long fill time fault. The washer is not reaching the expected water level during the wash phase within the allowed time. Electrolux states the unit may run for up to 6 minutes before the fault locks in and the code displays. The washer is attempting to fill but cannot complete the fill cycle in the normal window.
+The E11 error code indicates a long fill time. Your washer did not fill with the required amount of water within the expected timeframe at the start of the cycle. In front-loading models, this fault may also cause the unit to lock for up to 6 minutes. Resetting the washer by unplugging and plugging it back in will clear the lock, but the underlying problem must still be fixed.
 
-This is almost always a water supply problem rather than an electronic failure. The most common causes are shutoff valves that are partially or fully closed, kinked supply hoses, clogged inlet screens, or reversed hot and cold connections. Less often the water inlet valve itself has failed and cannot open properly to admit water.
+The code triggers when the pressure sensor does not detect the correct water level after a set period. This can happen because water is not flowing into the tub quickly enough, water is not entering at all, or the sensor itself cannot read the water level properly.
 
 ## Before You Replace Anything
 
-Many people replace the water inlet valve or control board before checking the basics. Before ordering parts, verify both shutoff valves are fully open, hoses are not kinked, and hot and cold connections match the correct ports.
+Many people replace the water inlet valve without first checking the inlet screens (mesh filters) inside the valve ports. Clean the screens and verify water pressure before buying a valve.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Water supply shutoff valve closed or partially closed (~35%)** Both hot and cold valves must be fully open for the washer to fill at the expected rate.
-- **Hot and cold hoses reversed (~20%)** Electrolux specifically calls out reversed hose connections as a known installation issue that can trigger E11.
-- **Kinked or damaged fill hose (~15%)** A pinched or bent hose restricts flow and prevents the washer from filling within the allowed time.
-- **Clogged inlet screens (~15%)** Sediment and debris collect in the fine mesh screens at the water inlet valve and block flow.
-- **Failed water inlet valve (~10%)** A weak or stuck inlet valve solenoid will not open correctly to admit water even if supply pressure is good.
-- **Control board or sensor issue (~5%)** Less commonly, a control board or related sensing problem can prevent the washer from commanding proper fill.
+- **Clogged inlet valve screens (~35%)** Sediment or debris blocks the mesh filters inside the water inlet valve ports, restricting flow so the tub fills too slowly.
+- **Low water supply pressure (~25%)** House water pressure below 30 PSI or faucets not fully open prevent the washer from filling in the allotted time.
+- **Kinked or restricted inlet hoses (~15%)** Tight bends, kinks, or damaged hoses reduce water flow into the machine.
+- **Faulty water inlet valve solenoid (~12%)** The solenoid coils inside the valve fail electrically (outside 800 ohms ±7%) or mechanically stick closed, blocking water entry.
+- **Pressure sensor or air tube problem (~10%)** The plastic air tube is kinked, disconnected, or has a hole, or the sensor itself is bad, so the control board cannot detect the water level.
+- **Hot and cold lines reversed (~3%)** If the hot supply is connected to the cold inlet and vice versa, some models will not fill properly and throw E11.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Are both hot and cold shutoff valves behind the washer fully open?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Supply is reaching the machine. Move on to inspect hoses and connections.<br><strong>No:</strong> Turn both valves fully counterclockwise to open. Run a cycle to see if E11 clears.</div>
+<details class="dtree"><summary>Are both hot and cold faucets fully open and is water pressure strong at other fixtures?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Water supply is good. Move to hose and inlet screen inspection.<br><strong>No:</strong> Turn faucets fully open or call a plumber to restore house pressure to 30-120 PSI.</div>
 </details>
 
-<details class="dtree"><summary>When you disconnect a supply hose at the washer, does water flow freely from the valve?</summary>
-<div class="dtree-body"><strong>Yes:</strong> House supply is good. The restriction is in the hose, inlet screens, or inlet valve.<br><strong>No:</strong> Low house pressure or a plumbing issue upstream. Check the main water supply and other fixtures.</div>
+<details class="dtree"><summary>When you disconnect the hoses, are the mesh screens inside the washer valve ports clean and clear?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Screens are good. Test the inlet valve solenoids for proper resistance (about 800 ohms ±7%).<br><strong>No:</strong> Clean the screens with a brush and flush debris, then reconnect and test.</div>
 </details>
 
-<details class="dtree"><summary>Are the hot and cold hoses connected to the correct ports on the back of the washer?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Connections are correct. Focus on screens, hoses, and the inlet valve itself.<br><strong>No:</strong> Swap the hoses so hot connects to the hot port and cold to the cold port, then test again.</div>
+<details class="dtree"><summary>Does the washer fill at a normal rate when you start a cycle after cleaning the screens?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Problem solved. Run a full cycle to confirm E11 does not return.<br><strong>No:</strong> Test the inlet valve solenoids and inspect the pressure sensor air tube for damage or kinks.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Unplug the washer** and turn off both hot and cold water supply valves behind the machine.
-2. **Check that both shutoff valves are fully open.** Turn each valve fully counterclockwise and confirm water flows when you disconnect a hose at the washer end.
-3. **Inspect both fill hoses** for kinks, pinches, or visible damage along their length and straighten or replace any damaged hose.
-4. **Verify hot and cold connections.** Confirm the hot supply hose connects to the hot inlet on the washer and the cold hose connects to the cold inlet. Swap them if they are reversed.
-5. **Remove and clean the inlet screens.** Use pliers to unscrew each fill hose from the back of the washer, pull out the small mesh screens with needle-nose pliers, rinse them under running water, and reinstall.
-6. **Test the water inlet valve.** If screens are clean and hoses are good but the washer still will not fill, the inlet valve solenoid may be stuck or weak and should be replaced.
-7. **Reconnect everything, turn on the water, plug in the washer, and run a test cycle.** Electrolux notes the fault can take up to 6 minutes to lock in, so wait through an initial fill attempt before concluding the repair is complete.
+1. **Turn off both hot and cold water faucets** behind the washer and unplug the machine from the wall outlet.
+2. **Disconnect the inlet hoses** from the back of the washer. Inspect the hoses for kinks, tight bends, or cracks. Straighten or replace damaged hoses.
+3. **Inspect and clean the inlet valve screens** inside the washer ports where the hoses attach. Use a small brush or pick to remove sediment from the mesh filters, then flush with water.
+4. **Reconnect the hoses** and verify the hot line connects to the hot inlet and the cold line to the cold inlet. Turn the faucets fully open.
+5. **Test the water inlet valve solenoids** if the problem persists. Turn off power, disconnect the wiring harness from each solenoid, and use a multimeter set to ohms. Measure resistance across the solenoid posts. Spec is approximately 800 ohms ±7%. Replace the valve assembly if readings are out of range.
+6. **Inspect the pressure sensor air tube** running from the sensor to the tub. Look for kinks, holes, or disconnections. Reseat the wiring harness connector on the sensor firmly. Replace the sensor if the tube is intact but the error remains.
+7. **Run a diagnostic test cycle** if your model supports it. Power on, select Normal Wash, and hold the temperature and option buttons to enter diagnostics. Use Test 13 to view stored error codes and individual fill tests to isolate the faulty valve or sensor. Clear the error history and run a full normal cycle to verify the fix.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Water inlet valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-washer-e11-error-code&k=Water+inlet+valve&tag=errorcodefixes-20) \| Match your model number. Single or dual solenoid depending on washer. |
-| Fill hose pair (hot and cold) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-washer-e11-error-code&k=Fill+hose+pair+%28hot+and+cold%29&tag=errorcodefixes-20) \| Reinforced rubber or stainless-steel braided, typically 4-6 ft length. |
+| Water inlet valve assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-washer-e11-error-code&k=Water+inlet+valve+assembly&tag=errorcodefixes-20) \| Includes solenoid coils and mounting bracket. Match model number for correct port configuration. |
+| Pressure sensor (water level sensor) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-washer-e11-error-code&k=Pressure+sensor+%28water+level+sensor%29&tag=errorcodefixes-20) \| Controls fill level detection. Verify the air tube is intact before replacing the sensor itself. |
 
 ## When to Call a Pro
 
-Call a technician if you have verified that both water supplies are on and delivering good pressure, hoses are not kinked, inlet screens are clean, and hot and cold connections are correct, yet the washer still displays E11. At that point the fault is likely a failed inlet valve or a control board issue that requires diagnostic tools and experience. Also call if you are not comfortable working with water connections or if the washer is still under warranty.
+Call a professional if you have cleaned the inlet screens, verified proper water pressure, and tested the inlet valve solenoids but the E11 code still appears. A technician can test the pressure sensor with diagnostic equipment, trace wiring between the sensor and control board, and check for main board signal faults. Also call a pro if you are uncomfortable working with multimeters or removing internal components. If the control board itself is sending incorrect voltage signals to the valves, replacement requires careful handling of connectors and firmware considerations.
 
-**Rough cost:** DIY runs about $15-50 in parts, 30-60 min. A pro service call runs about $150-300.
+**Rough cost:** DIY runs about $30-80 in parts, 30-60 min. A pro service call runs about $150-300.

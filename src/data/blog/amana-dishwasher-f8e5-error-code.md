@@ -1,8 +1,8 @@
 ---
-title: "Amana Dishwasher F8E5 Error - Causes & Fix"
-description: "F8E5 means overfill or drain fault in Amana dishwashers. Most likely fix: replace stuck water inlet valve that won't close after fill."
-pubDatetime: 2026-06-10T18:28:31Z
-modDatetime: 2026-06-10T18:28:31Z
+title: "Amana Dishwasher F8E5 - Causes & Fix"
+description: "F8E5 means overfill detected. The dishwasher drains and stops. Most often a stuck-open water inlet valve or blocked float."
+pubDatetime: 2026-06-13T22:46:18Z
+modDatetime: 2026-06-13T22:46:18Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,74 +10,73 @@ tags:
   - appliance
   - dishwasher
   - amana
-money_part: "Water inlet valve assembly"
-free_checks:
-  - "Check inlet valve screen/filter for debris and clean if clogged"
-  - "Verify home water supply valve is fully open and inlet hose has no kinks"
-  - "Test inlet valve coil resistance (should be 500-1500 ohms) with multimeter"
-no_buy_pct: "40%"
-part_price: "$40-120"
-most_likely_cause: "Stuck or failed water inlet valve"
+money_part: "Water inlet valve (Amana dishwasher)"
+most_likely_cause: "water inlet valve stuck open or leaking by"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+free_checks:
+  - "Remove any standing water in the tub and check that the float or overfill sensor moves freely without debris or suds holding it up"
+  - "Inspect the base pan and door area for water pooling that may indicate a past flood event"
+  - "Turn off water and power, wait five minutes, then restore power to see if the code clears on its own after draining completes"
+part_price: "$40-75"
+no_buy_pct: "25%"
 ---
 
-## Amana Dishwasher F8E5 Error — What It Means
+## Amana Dishwasher F8E5 — What It Means
 
-The F8E5 code signals an overfill error or drain failure. The dishwasher control unit detects that water level has exceeded the safe limit or that the machine cannot successfully drain. When this happens, the machine immediately starts a drain cycle to remove excess water and locks the user interface to prevent further operation until the fault is cleared.
+The F8E5 code on your Amana dishwasher signals an overfill or high-water fault. When the control detects an unsafe water level, it initiates a drain sequence and prevents normal operation to protect against flooding. Amana product help instructs you to turn off both water supply and power immediately, then investigate the cause of the overfill condition.
 
-This code is specific to Amana dishwashers and indicates a problem with the water fill system, the float switch that monitors water level, the drain pump, or the control board. The machine will not resume normal operation until the underlying cause is repaired and the code is cleared.
+This code can appear because the tub actually filled too high, or because the float sensor is stuck in the tripped position. The machine will not resume washing until the underlying problem is corrected and the fault is cleared.
 
 ## Before You Replace Anything
 
-Many people replace the control board first. Test the float switch for proper resistance (open when down, closed when up) and check the inlet valve for proper closing before replacing any electronics.
+Many people replace the control board first, thinking the board is faulty. Instead, check whether the inlet valve is passing water when it should be closed and verify the float moves freely. Those checks cost nothing and identify the real culprit nine times out of ten.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Stuck or open water inlet valve (~45%)** The valve fails to close after the fill cycle, allowing water to continue flowing into the tub and triggering the overfill sensor.
-- **Float switch failure (~25%)** The float switch is stuck in the down position or fails to move up with rising water, preventing the control board from stopping the fill.
-- **Faulty drain pump (~15%)** The pump cannot remove water during the drain cycle, causing buildup that triggers the overfill fault.
-- **Float switch wiring or connector fault (~10%)** A broken wire or corroded connection between the float switch and control board prevents accurate water level signals.
-- **Kinked or blocked drain hose (~5%)** Physical obstruction or improper installation prevents water from exiting the machine during the drain cycle.
+- **Water inlet valve stuck open or leaking by (~55%)** The valve continues to pass water even when the control is not calling for a fill, causing the tub to overfill and trip the float sensor.
+- **Float or overfill sensor stuck in the tripped position (~25%)** Debris, soap buildup, or mechanical binding keeps the float raised, so the control thinks the machine is overfilled even when it is not.
+- **Control or wiring energizing the valve incorrectly (~12%)** The main control board or a damaged wire supplies continuous power to the inlet valve, commanding unwanted fill cycles.
+- **Excess water from a drain restriction or previous cycle (~8%)** A clogged drain hose or pump allows water to rise too high during normal fill, triggering the overfill sensor.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Does the float (small plastic piece at the bottom of the tub) move freely up and down without obstruction?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The float mechanism is working. Check the inlet valve and drain hose next.<br><strong>No:</strong> Clean debris from around the float and test again. If still stuck, the float switch assembly may need replacement.</div>
+<details class="dtree"><summary>Is there standing water in the tub or around the base of the dishwasher?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Remove the water safely, then inspect the float area and drain system for blockages or soap buildup before testing further.<br><strong>No:</strong> The sensor may be stuck or the valve may be leaking slowly. Proceed to check the float and valve.</div>
 </details>
 
-<details class="dtree"><summary>Can you hear the drain pump running when you cancel a cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The pump is attempting to drain. Check for kinked or clogged drain hose and blocked air gap.<br><strong>No:</strong> The drain pump may be faulty or not receiving power. Test the pump or call a technician.</div>
+<details class="dtree"><summary>Does the float or overfill sensor move freely up and down without sticking?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The sensor mechanism is probably fine. Test the water inlet valve for power when it should be off, or for leakage when closed.<br><strong>No:</strong> Clean or replace the float assembly. Debris or suds are holding it in the tripped position.</div>
 </details>
 
-<details class="dtree"><summary>After turning off water supply and resetting power, does the code clear and the machine start normally?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The fault may have been temporary. Monitor for repeat occurrences that point to an intermittent valve or switch issue.<br><strong>No:</strong> The fault is persistent. Proceed with electrical testing of the float switch and inlet valve.</div>
+<details class="dtree"><summary>With water and power off, does the inlet valve shut completely and stop dripping?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The valve body is likely fine. Check wiring and control-side signals to the valve for an electrical fault.<br><strong>No:</strong> Replace the water inlet valve because it is mechanically stuck or the solenoid seal has failed.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Turn off water and power.** Shut the water supply valve to the dishwasher and turn off power at the circuit breaker. Wait one minute before restoring power to attempt a reset.
-2. **Inspect the drain hose.** Pull the dishwasher out and check the drain hose for kinks, clogs, or improper installation. The hose should not be elevated higher than the bottom of the sink and should have a proper air gap.
-3. **Test the float switch manually.** Remove the lower dish rack and locate the float assembly at the bottom of the tub. Lift it up and down several times to verify free movement. Clean any debris or grease buildup around the float.
-4. **Test float switch resistance.** Remove the lower access panel and locate the float switch. Disconnect the wire harness and use a multimeter set to resistance. With the float down, you should read open circuit (infinite resistance). With the float up, you should read closed circuit (near zero resistance). Replace the switch if readings are incorrect.
-5. **Test the water inlet valve.** Locate the inlet valve behind the lower kickplate. Disconnect the water supply and electrical connections. Use a multimeter to measure resistance across the valve coil terminals. Consult your model's wiring diagram for the correct resistance specification. Also inspect the valve for debris or mineral buildup that prevents proper closing.
-6. **Check the drain pump.** Access the drain pump (usually under the sump assembly). Disconnect power and check for debris in the impeller. Test the pump motor for resistance according to your model's specifications. Verify the pump is not mechanically seized.
-7. **Clear the code and test.** After repairs, restore water and power. Run a short cycle and monitor for proper fill and drain. The F8E5 code should not return if the faulty component has been replaced.
+1. **Shut off the water supply** at the shutoff valve under the sink and disconnect power at the breaker or unplug the dishwasher.
+2. **Remove any standing water** from the tub using a wet-dry vacuum or towels, and check the base pan for pooling that indicates a past flood.
+3. **Locate the float or overfill sensor** (typically in the base pan or lower tub corner) and verify it moves freely without debris, suds, or mechanical obstruction.
+4. **Test the water inlet valve** by checking whether it receives voltage only when the control calls for a fill (consult your model's wiring diagram for the correct terminals). If the valve is powered continuously, the fault is in the control or harness.
+5. **Inspect the valve for mechanical leakage** by observing whether water drips through when the valve is not energized. If it does, replace the inlet valve.
+6. **Check wiring and connectors** between the overfill sensor, inlet valve, and control board for damaged insulation, corroded terminals, or loose pins.
+7. **Restore power and water**, then run a short rinse cycle to verify the fault is cleared and the machine fills and stops at the correct level without tripping F8E5 again.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Water inlet valve assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dishwasher-f8e5-error-code&k=Water+inlet+valve+assembly&tag=errorcodefixes-20) \| Verify your exact Amana model number for correct valve type and coil voltage. |
-| Float switch | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dishwasher-f8e5-error-code&k=Float+switch&tag=errorcodefixes-20) \| Often sold as part of the float assembly. Check if your model requires the full assembly or switch only. |
-| Drain pump | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dishwasher-f8e5-error-code&k=Drain+pump&tag=errorcodefixes-20) \| Match the pump motor specifications to your model. Some pumps include the housing and some are motor-only replacements. |
+| Water inlet valve (Amana dishwasher) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dishwasher-f8e5-error-code&k=Water+inlet+valve+%28Amana+dishwasher%29&tag=errorcodefixes-20) \| Match your model number from the door-frame label. Most valves are two-solenoid 120-V AC units. |
+| Float or overfill sensor assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dishwasher-f8e5-error-code&k=Float+or+overfill+sensor+assembly&tag=errorcodefixes-20) \| Includes the float switch and mounting bracket. Verify the part number for your exact model before ordering. |
+| Main control board (ACU) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dishwasher-f8e5-error-code&k=Main+control+board+%28ACU%29&tag=errorcodefixes-20) \| Replace only after confirming the valve and float are good and the board is commanding fill incorrectly. |
 
 ## When to Call a Pro
 
-Call a professional if you are not comfortable working with electrical testing using a multimeter, if the control board shows signs of damage or corrosion, or if the fault persists after replacing the inlet valve and float switch. A technician can perform advanced diagnostics on the control board and wiring harness, and has the tools to test components under load. Also call a pro if you find water damage around the base of the dishwasher that suggests a long-term leak, as this may require inspection of the tub seal and base pan in addition to the overfill components.
+Call a pro if you are not comfortable working with 120-V wiring or if you have verified that both the inlet valve and float assembly are good but the code persists. A technician can perform control-side voltage checks, use a wiring diagram to trace the overfill circuit, and diagnose whether the main board is misreading the sensor or energizing the valve at the wrong time. Also call a pro if you find water pooling in the base pan and suspect a leak from the tub, door seal, or pump, because those repairs often require disassembly and special tools.
 
-**Rough cost:** DIY runs about $40-120 in parts, 1-2 hours. A pro service call runs about $150-280.
+**Rough cost:** DIY runs about $50-90 in parts, 45-90 min. A pro service call runs about $150-280.

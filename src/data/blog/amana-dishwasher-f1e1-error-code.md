@@ -1,8 +1,8 @@
 ---
 title: "Amana Dishwasher F1E1 Error Code - Causes & Fix"
-description: "F1E1 means the dishwasher detects water not draining properly. Most likely cause: clogged or kinked drain hose blocking water flow."
-pubDatetime: 2026-06-10T18:25:30Z
-modDatetime: 2026-06-10T18:25:30Z
+description: "F1E1 means the drain starts but the dishwasher stops and won't continue. Most often a failed sump thermistor or loose wiring."
+pubDatetime: 2026-06-13T22:45:57Z
+modDatetime: 2026-06-13T22:45:57Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,74 +10,73 @@ tags:
   - appliance
   - dishwasher
   - amana
-money_part: "Drain pump for Amana dishwasher"
-free_checks:
-  - "Clear standing water and remove/clean the drain filter and sump area of all debris"
-  - "Inspect drain hose for kinks, clogs, or improper installation (high loop, standpipe depth)"
-  - "Power off at breaker for 5 minutes to reset, then test drain cycle"
-no_buy_pct: "60%"
-part_price: "$15-60"
-most_likely_cause: "Clogged or kinked drain hose"
+money_part: "Dishwasher sump thermistor / NTC sensor"
+most_likely_cause: "Failed sump thermistor or NTC temperature sensor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+free_checks:
+  - "Turn off the dishwasher at the breaker for 1 minute, then restore power and run a test cycle to see if the code clears."
+  - "Remove the lower spray arm and filter assembly, then inspect the thermistor connector in the sump for moisture, corrosion, or loose terminals."
+part_price: "$15-35"
+no_buy_pct: "25%"
 ---
 
 ## Amana Dishwasher F1E1 Error Code — What It Means
 
-The F1E1 (or E1F1) error code on an Amana dishwasher indicates a water level or drainage fault. The control board has detected that water is not draining to the expected empty level after the drain cycle runs, or the machine senses an incorrect water level that prevents the cycle from continuing. This code stops the dishwasher from operating until the problem is resolved.
+The F1E1 error code on an Amana dishwasher indicates that the drain sequence will begin but the unit will not continue operating once the code appears. Amana's official error-code documentation confirms this specific behavior. The underlying fault is typically related to the sump thermistor (also called an NTC temperature sensor) circuit being outside the control board's acceptable range. The sensor monitors water temperature in the sump area, and when it reads open, shorted, or out of range, the control board halts the cycle and displays F1E1.
 
-The machine relies on a water level sensor (pressure switch or flow sensor) to confirm the tub is empty before moving to the next phase. When the sensor detects water still present after draining, or when the drain pump fails to remove water, the control board throws F1E1 and halts the cycle to prevent overflow or damage.
+This is a temperature-sensing fault, not a drain problem. The dishwasher may drain successfully at first, but the control will not advance to wash or rinse cycles because it cannot verify proper water temperature. The error can occasionally result from a transient electrical glitch, but if it recurs immediately after a power reset, the fault is almost always in the thermistor, its wiring harness, or the control board's sensor-input circuit.
 
 ## Before You Replace Anything
 
-Many people replace the control board first, assuming an electronic failure. Before replacing any boards, physically inspect the drain hose for kinks and blockages, and check the drain pump for debris jamming the impeller.
+Many people replace the control board first when F1E1 appears. Test the thermistor resistance and inspect the wiring harness in the door hinge area and base pan routing before buying any control board, since a $15 sensor or a corroded connector fixes most cases.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Clogged or kinked drain hose (~40%)** Food debris, grease buildup, or a physical kink in the hose prevents water from exiting the tub, leaving the sensor to detect water when it should read empty.
-- **Faulty or jammed drain pump (~25%)** The pump motor may be burnt out, the impeller broken, or debris (glass, pits, plastic) may be physically jamming the pump so it cannot spin and remove water.
-- **Malfunctioning water level sensor (~20%)** The pressure switch or flow sensor may be clogged with sediment, have a dirty sensing port, or have failed electronically, sending a false high-water signal to the control board.
-- **Sump area obstruction (~10%)** Food debris, broken glass, or other objects trapped in the bottom of the tub (sump) block water from reaching the pump or obstruct the sensor intake.
-- **Control board failure (~5%)** The main control board may fail to process sensor signals correctly or fail to send the 120V command to the drain pump, though this is less common than mechanical blockages.
+- **Failed thermistor or NTC sensor in the sump (~55%)** The temperature sensor reads open, shorted, or out of the control board's acceptable resistance window, halting the cycle after drain.
+- **Loose, damaged, or corroded wiring between thermistor and control board (~25%)** Harness connections in the door hinge area or base pan can fray, corrode, or lose contact, breaking the sensor circuit.
+- **Transient electrical glitch or control-board interpretation fault (~10%)** A brief power fluctuation or board memory error can trigger F1E1 once but clear after a full power reset.
+- **Failed control board sensor-input circuit (~10%)** If the thermistor and wiring both test good but the code persists, the control board's NTC input stage may be defective.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Is there visible standing water in the bottom of the tub after the error appears?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The drain system is not removing water. Check the drain hose for kinks and blockages, then inspect the drain pump for debris or mechanical failure.<br><strong>No:</strong> The water may have drained but the sensor is malfunctioning or clogged. Inspect the water level sensor and its tubing for blockages or damage.</div>
+<details class="dtree"><summary>Does the F1E1 code clear after turning the dishwasher off at the breaker for 1 minute and then restoring power?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault was likely a transient glitch. Monitor the dishwasher over the next few cycles; if F1E1 does not return, no part is needed.<br><strong>No:</strong> The fault is persistent. Proceed to test the thermistor and wiring, since a hardware failure is present.</div>
 </details>
 
-<details class="dtree"><summary>Does the drain pump make any noise or hum when the error occurs?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The pump is receiving power but may be jammed by debris or have a broken impeller. Remove the pump cover and inspect the impeller for obstructions.<br><strong>No:</strong> The pump may not be receiving power, or the motor is completely dead. Test for 120V AC at the pump terminals during a drain cycle, or check for a tripped breaker.</div>
+<details class="dtree"><summary>Can you access the sump area (under the filter) and see the thermistor connector without discoloration, corrosion, or loose pins?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The connector looks clean, so disconnect the thermistor and test its resistance with a multimeter at room temperature (expect around 50,000 ohms) and in warm water (around 15,000 ohms at 110°F).<br><strong>No:</strong> Clean or replace the corroded or loose connector, reassemble, and retest before buying a thermistor.</div>
 </details>
 
-<details class="dtree"><summary>Can you see or feel any kinks in the drain hose under the dishwasher or at the sink connection?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Straighten the hose or replace it if the kink is permanent. A kinked hose is one of the most common causes of F1E1.<br><strong>No:</strong> Disconnect the hose and run water through it to check for internal blockages or sediment buildup that may not be visible from the outside.</div>
+<details class="dtree"><summary>Does the thermistor resistance measure approximately 50,000 ohms at room temperature and drop to around 15,000 ohms in 110°F water?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The thermistor is good. Check wiring continuity from the sensor connector back to the control board; if continuity is intact and the code remains, the control board is the likely fault.<br><strong>No:</strong> The thermistor is failed (open, shorted, or fixed reading). Replace it and retest the dishwasher.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Disconnect power** to the dishwasher at the breaker or unplug the unit, then wait five minutes to allow the control board to reset.
-2. **Inspect the drain hose** from the dishwasher to the sink drain or garbage disposal. Look for visible kinks, twists, or tight bends that restrict water flow.
-3. **Disconnect the drain hose** at both ends and run water through it over a bucket to confirm it is not blocked by grease, food debris, or sediment buildup.
-4. **Open the dishwasher tub** and remove the lower dish rack. Check the sump area (the bottom center of the tub) for food debris, glass, or other objects that may block the drain pump intake.
-5. **Remove the drain pump cover** (if your model has a removable filter or cover) and inspect the impeller. Spin it by hand to confirm it rotates freely and is not jammed by debris.
-6. **Test the drain pump electrically** by setting a multimeter to AC voltage and checking for 120V at the pump terminals while running a drain cycle. If voltage is present but the pump does not run, replace the pump. If no voltage is present, inspect the wiring or control board.
-7. **Inspect the water level sensor** and its air tube (if accessible). Clean any sediment or debris from the sensor port and tubing, and make sure the tubing is not kinked or disconnected.
+1. **Turn off power** at the circuit breaker and wait 1 minute, then restore power and run a test cycle to see if F1E1 returns.
+2. **Verify the symptom** by starting a normal wash cycle and confirming that the drain sequence begins, then the dishwasher halts and displays F1E1.
+3. **Remove the lower spray arm** by twisting or lifting it off its mount, then lift out the filter assembly to expose the sump area.
+4. **Locate the thermistor** in the sump base (a small sensor with two wires) and inspect its connector for moisture, corrosion, loose pins, or damaged insulation along the harness.
+5. **Disconnect the thermistor** and measure resistance with a multimeter: expect around 50,000 ohms at room temperature and around 15,000 ohms when immersed in 110°F water.
+6. **Replace the thermistor** if the reading is open (infinite), shorted (near zero), or does not change with temperature. Part number WPW10467289 is cited as a common replacement.
+7. **Test wiring continuity** from the thermistor connector back to the control-board connector if the sensor tests good but the code persists, and repair or replace the harness if continuity is lost.
+8. **Replace the control board** if the thermistor and wiring both pass all tests and the F1E1 code returns immediately after reset and retest.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Drain pump for Amana dishwasher | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dishwasher-f1e1-error-code&k=Drain+pump+for+Amana+dishwasher&tag=errorcodefixes-20) \| Match your model number. Most Amana models use a 120V AC drain pump with a threaded or snap-fit housing. |
-| Dishwasher drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dishwasher-f1e1-error-code&k=Dishwasher+drain+hose&tag=errorcodefixes-20) \| Universal hose will work for most models. Confirm the inner diameter matches your existing hose (typically 3/4 inch or 1 inch). |
-| Water level sensor (pressure switch) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dishwasher-f1e1-error-code&k=Water+level+sensor+%28pressure+switch%29&tag=errorcodefixes-20) \| Consult your model's wiring diagram to confirm the sensor type. Some models use a flow sensor instead of a pressure switch. |
+| Dishwasher sump thermistor / NTC sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dishwasher-f1e1-error-code&k=Dishwasher+sump+thermistor+%2F+NTC+sensor&tag=errorcodefixes-20) \| WPW10467289 is a common Amana replacement; verify fit for your model. |
+| Wiring harness or connector set | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dishwasher-f1e1-error-code&k=Wiring+harness+or+connector+set&tag=errorcodefixes-20) \| Only if harness continuity is lost or terminals are badly corroded; match your model's harness routing. |
+| Dishwasher control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-amana-dishwasher-f1e1-error-code&k=Dishwasher+control+board&tag=errorcodefixes-20) \| Replace only if the thermistor and wiring test good and the code persists after all other checks. |
 
 ## When to Call a Pro
 
-Call a professional if you have tested the drain pump and confirmed it receives 120V during the drain cycle but still does not run, as this may indicate a control board failure that requires diagnostic tools and board replacement. Also call a pro if you are uncomfortable working with 120V electrical connections, if the wiring shows signs of damage or corrosion, or if you have cleared all blockages and replaced the drain pump and sensor but the F1E1 code persists. A technician can perform voltage and continuity tests on the control board and wiring harness to isolate the fault without replacing parts by trial and error.
+Call a professional if you are not comfortable working with electrical connectors or multimeter testing, or if you have replaced the thermistor and verified wiring continuity but F1E1 still appears after a power reset. Control-board diagnosis and replacement on dishwashers involves multiple connectors and proper programming or adaptation in some models, so a technician with Amana service literature and the correct board will save time and avoid mismatched parts. Also call a pro if you find evidence of water leakage into the base pan or door-hinge area, since moisture intrusion can damage both the harness and the control board and may require sump-seal or door-gasket work beyond a simple sensor swap.
 
-**Rough cost:** DIY runs about $15-60 in parts, 30-90 min. A pro service call runs about $150-280.
+**Rough cost:** DIY runs about $15-50 in parts, 30-60 min. A pro service call runs about $150-250.

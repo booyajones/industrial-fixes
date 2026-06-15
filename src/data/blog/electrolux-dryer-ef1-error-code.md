@@ -1,8 +1,8 @@
 ---
 title: "Electrolux Dryer EF1 Error Code - Causes & Fix"
-description: "EF1 means blocked exhaust vent or airflow fault. Clean the lint screen, check the entire vent path, and clear any blockages."
-pubDatetime: 2026-06-10T15:44:27Z
-modDatetime: 2026-06-10T15:44:27Z
+description: "EF1 means blocked vent or restricted airflow. Most common fix: clean lint filter, housing, and entire exhaust duct run from dryer to outside."
+pubDatetime: 2026-06-13T22:37:26Z
+modDatetime: 2026-06-13T22:37:26Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,75 +10,77 @@ tags:
   - appliance
   - dryer
   - electrolux
-money_part: "Thermal limiter or thermal fuse"
-free_checks:
-  - "Clean lint from entire exhaust duct, outdoor vent flap, and internal blower housing"
-  - "Verify vent run is <25 feet with minimal elbows; check for crushed/kinked duct"
-  - "Inspect and clean lint buildup around thermal limiter on heater housing"
-no_buy_pct: "60%"
-part_price: "$15-80"
-most_likely_cause: "blocked exhaust vent or lint buildup"
+money_part: "Exhaust thermistor (Electrolux dryer)"
+most_likely_cause: "lint blockage in the filter, housing, duct, or exterior vent"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+free_checks:
+  - "Remove and clean the lint filter and inspect the filter housing for packed lint"
+  - "Disconnect the exhaust duct from the back of the dryer and inspect the entire vent run for blockages or crushed sections"
+  - "Check the exterior vent cap outside to confirm the damper opens freely and no lint or debris is blocking the opening"
+no_buy_pct: "70%"
 ---
 
 ## Electrolux Dryer EF1 Error Code — What It Means
 
-The EF1 code on an Electrolux dryer indicates a vent or airflow problem. The dryer has detected restricted exhaust flow or a fault in the thermal safety circuit. This is most commonly caused by a blocked vent, clogged exhaust ducting, or lint buildup anywhere in the airflow path from the lint screen to the exterior termination.
+EF1 on Electrolux and Frigidaire dryers is a vent-airflow restriction fault. The dryer believes exhaust airflow is blocked or inadequate. This is not a moisture-sensor code. The control board monitors airflow using thermistors (temperature sensors) near the blower and exhaust path, and when it detects abnormal heat buildup or poor air movement, it triggers EF1 to protect the machine from overheating.
 
-If the vent path is completely clear and airflow is good, the code points to a failed thermal limiter, thermistor, or related temperature-sensing component in the exhaust path. A damaged wiring harness to these sensors or, less commonly, a control-board fault can also trigger EF1. The code is not primarily a moisture-sensor issue, despite some third-party descriptions. Always verify the exact model documentation, as code definitions can vary.
+The code will appear during or after a cycle and may prevent the dryer from running until the fault is cleared. In most cases the cause is physical lint buildup somewhere in the vent system. Less often, a thermistor or wiring fault can trigger EF1 even when airflow is actually clear.
 
 ## Before You Replace Anything
 
-Many people replace the control board first. Before replacing any electronic parts, clean the entire vent path and use a multimeter to test the thermal limiter and thermistor for continuity.
+Many people replace the control board or thermistors before inspecting the entire vent run. Always disconnect and inspect the full duct path and exterior vent cap first, since a hidden blockage will cause EF1 even with new sensors.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Clogged exhaust vent ducting (~50%)** Lint, debris, or crushed flex duct inside the home or at the exterior termination restricts airflow and triggers the fault.
-- **Lint screen or trap housing blockage (~25%)** Heavy lint buildup on the screen or inside the lint trap housing reduces airflow enough to set the code.
-- **Failed thermal limiter or thermistor (~15%)** The thermal safety device or temperature sensor has opened or failed, even if venting is clear.
-- **Damaged wiring harness to sensing components (~7%)** Corroded connectors or broken wires between the thermal limiter, thermistor, and control board cause an open circuit.
-- **Control board fault (~3%)** The electronic control board misreads sensor inputs or has failed logic, triggering EF1 when all field parts test normal.
+- **Lint screen or filter housing clogged (~40%)** Lint buildup on the filter itself or packed into the filter slot and blower area restricts airflow and triggers EF1.
+- **Exhaust duct or hose blocked (~30%)** Lint accumulation, crushed sections, or poor routing anywhere along the vent run from the dryer to the outside cap will reduce airflow and set the fault.
+- **Exterior vent cap restricted or closed (~15%)** A stuck damper, bird nest, or debris at the outside termination prevents exhaust and causes the dryer to overheat.
+- **Failed exhaust or inlet thermistor (~10%)** When airflow is clear but a thermistor reads out of spec or has damaged wiring, the control board thinks there is a blockage and displays EF1.
+- **Control board fault (~5%)** If sensors and wiring test good and the vent is clean, the control board may be misreading inputs or have an internal fault.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Is the lint screen clean and the vent duct free of visible blockages or kinks?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The vent path is likely clear. Proceed to test the thermal limiter and thermistor with a multimeter for continuity.<br><strong>No:</strong> Remove and clean the lint screen thoroughly, then disconnect and inspect the entire vent duct from dryer to exterior for lint, debris, or crushed sections. Clear any blockages and retest.</div>
+<details class="dtree"><summary>Does EF1 clear when you run the dryer with the exhaust duct disconnected from the back panel?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The blockage is in the external vent run or exterior cap. Inspect and clean the entire duct path and outside vent.<br><strong>No:</strong> The problem is inside the dryer (blower lint buildup, thermistor, wiring, or control board). Proceed with internal cleaning and sensor checks.</div>
 </details>
 
-<details class="dtree"><summary>Can you feel strong airflow at the exterior vent hood while the dryer is running?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Airflow is adequate. The fault is likely a failed thermal limiter, thermistor, or wiring issue. Unplug the dryer and test these components.<br><strong>No:</strong> Airflow is restricted. Disconnect the vent duct at the dryer, run a test cycle, and check airflow at the dryer outlet. If strong, the duct is blocked. If weak, inspect internal lint trap housing and blower wheel.</div>
+<details class="dtree"><summary>Is the lint filter clean and undamaged, and can you see light through it when held to a lamp?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The filter itself is good. Check the filter housing and internal blower area for packed lint.<br><strong>No:</strong> Replace or thoroughly clean the filter and retest. A clogged filter is the fastest way to trigger EF1.</div>
 </details>
 
-<details class="dtree"><summary>Does the dryer heat normally during a cycle before the code appears?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The heating element works but airflow or thermal sensing is faulty. Focus on vent cleaning and thermal component testing.<br><strong>No:</strong> If the dryer does not heat at all, check the thermal fuse and high-limit thermostat in addition to the vent path and thermistor.</div>
+<details class="dtree"><summary>When you inspect the exhaust duct and exterior vent, do you find any visible lint, debris, or crushed sections?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Clear the blockage, straighten any crushed duct, and retest. This is the most common fix.<br><strong>No:</strong> Airflow path is clear. Locate and test the exhaust and inlet thermistors with a multimeter, or call a technician if you are not comfortable with electrical diagnostics.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Unplug the dryer** from the wall outlet and turn off the gas supply if applicable.
-2. **Remove and clean the lint screen** completely, then inspect the lint trap housing with a flashlight and vacuum out any accumulated lint.
-3. **Disconnect the exhaust vent duct** from the back of the dryer and pull the dryer away from the wall for access.
-4. **Inspect the entire vent duct** from the dryer to the exterior termination for lint buildup, crushed flex duct, bird nests, or blocked exterior hood, and clear any restrictions.
-5. **Reconnect the vent duct** securely, plug in the dryer, and run a short test cycle to check for strong airflow at the exterior vent and confirm the code clears.
-6. **If the code persists and venting is clear**, unplug the dryer again and locate the thermal limiter and thermistor on the blower housing or exhaust duct (consult your model's wiring diagram for exact location).
-7. **Test the thermal limiter and thermistor** with a multimeter for continuity and check the wiring harness for damage or loose connectors, then replace any open or intermittent component and retest the dryer.
+1. **Unplug the dryer** from the wall outlet or turn off the circuit breaker to kill all power before any inspection or disassembly.
+2. **Remove and clean the lint filter** thoroughly under running water with a soft brush, and inspect it for tears or damage that would let lint bypass into the housing.
+3. **Vacuum the lint filter housing and blower area** using a long crevice tool to remove any lint that has packed into the slot or around the blower inlet.
+4. **Disconnect the exhaust duct** from the back of the dryer and inspect the entire vent run from the dryer to the outside cap for lint blockage, crushed or kinked sections, and proper slope.
+5. **Inspect the exterior vent termination** outside the house to confirm the damper opens freely and no lint, bird nests, or debris are blocking the opening.
+6. **Run a test cycle with the vent disconnected** (only as a diagnostic step) to see if EF1 clears. If it does, the blockage is in the external duct. If it remains, the problem is internal (sensors or control board).
+7. **Locate the exhaust and inlet thermistors** near the blower housing or air duct (consult your model's service manual or wiring diagram for exact positions), photograph the wiring, and disconnect each thermistor connector.
+8. **Measure each thermistor's resistance** with a multimeter set to ohms and compare the readings to the values on your model's technical sheet. Replace any thermistor that reads open, shorted, or out of spec.
+9. **Inspect all wiring and terminals** for heat damage, corrosion, or loose connections, and repair or replace any damaged harness segments.
+10. **Reassemble the dryer, reconnect the vent duct securely**, restore power, and run a test cycle to confirm EF1 is cleared.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Thermal limiter or thermal fuse | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-dryer-ef1-error-code&k=Thermal+limiter+or+thermal+fuse&tag=errorcodefixes-20) \| Replace if it tests open with a multimeter. Check your model's service manual for the correct part number. |
-| Thermistor or thermostat | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-dryer-ef1-error-code&k=Thermistor+or+thermostat&tag=errorcodefixes-20) \| Order the exact replacement for your Electrolux dryer model. Resistance values vary by design. |
-| Exhaust vent duct or exterior vent hood | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-dryer-ef1-error-code&k=Exhaust+vent+duct+or+exterior+vent+hood&tag=errorcodefixes-20) \| Use rigid or semi-rigid metal ducting. Avoid vinyl or foil flex duct, which collapses and traps lint. |
-| Wiring harness or connector | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-dryer-ef1-error-code&k=Wiring+harness+or+connector&tag=errorcodefixes-20) \| Replace if corroded or damaged between the sensing device and control board. |
+| Exhaust thermistor (Electrolux dryer) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-dryer-ef1-error-code&k=Exhaust+thermistor+%28Electrolux+dryer%29&tag=errorcodefixes-20) \| Replace if resistance reads out of spec or wiring is heat-damaged. |
+| Inlet thermistor (Electrolux dryer) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-dryer-ef1-error-code&k=Inlet+thermistor+%28Electrolux+dryer%29&tag=errorcodefixes-20) \| Replace if resistance reads out of spec or wiring is heat-damaged. |
+| Dryer vent hose or duct kit | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-dryer-ef1-error-code&k=Dryer+vent+hose+or+duct+kit&tag=errorcodefixes-20) \| Use rigid or semi-rigid metal duct, not flexible plastic, and keep the run as short and straight as possible. |
+| Lint filter / lint trap | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-dryer-ef1-error-code&k=Lint+filter+%2F+lint+trap&tag=errorcodefixes-20) \| Replace if torn or warped so lint bypasses into the housing. |
 
 ## When to Call a Pro
 
-Call a professional if you are not comfortable working with multimeters or disassembling the dryer cabinet to access internal components. A technician should also be called if you have cleared the entire vent path, tested all thermal sensing components with a multimeter, and the code still appears. At that point the control board may need evaluation or replacement, which requires proper diagnostics and part programming in some models. If your dryer is still under warranty, professional service is often covered and avoids voiding coverage by attempting repairs yourself.
+Call a technician if you have cleaned the entire vent system and the code persists, or if you are not comfortable using a multimeter to test thermistors and inspect dryer wiring. A pro can quickly isolate whether the fault is a sensor, wiring harness, or control board, and can access the blower housing and internal air path more easily. Also call if the dryer requires disassembly beyond removing the top or rear panel, or if the control board needs replacement and you want a warranty on the repair.
 
-**Rough cost:** DIY runs about $15-80 in parts, 45-90 min. A pro service call runs about $150-300.
+**Rough cost:** DIY runs about $0-40 in parts (if vent hose or filter needs replacement), 30-90 min. A pro service call runs about $100-250.

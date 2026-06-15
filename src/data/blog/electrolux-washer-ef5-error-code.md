@@ -1,80 +1,81 @@
 ---
 title: "Electrolux EF5 Error Code - Causes & Fix"
-description: "EF5 means unbalanced load during spin. The washer skips the final spin. Redistribute laundry evenly in the drum and restart the cycle."
-pubDatetime: 2026-06-10T16:04:00Z
-modDatetime: 2026-06-10T16:04:00Z
+description: "EF5 means unbalanced load / spin imbalance. The washer stopped the final spin to protect the machine. Redistribute laundry evenly."
+pubDatetime: 2026-06-13T22:44:13Z
+modDatetime: 2026-06-13T22:44:13Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - electrolux
-money_part: "Drain pump filter (Electrolux washer)"
-free_checks:
-  - "Clean drain pump filter of lint, coins, and debris; check drain hose for kinks or clogs"
-  - "Verify drain hose is inserted no more than 5 inches into standpipe with proper venting"
-  - "Run empty spin cycle after clearing obstructions to reset error"
-no_buy_pct: "80%"
-part_price: "$35-75"
-most_likely_cause: "Laundry bunched or tangled on one side of the drum"
+money_part: "Shock absorbers (pair or set of 4, model-specific)"
+most_likely_cause: "laundry bunched to one side or tangled into a lopsided bundle"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
+free_checks:
+  - "Open the door, redistribute laundry evenly, and separate any tangled sheets or towels"
+  - "Use a spirit level front-to-back and side-to-side, adjust the feet until the machine does not rock"
+  - "Run an empty or small balanced test spin (Drain & Spin or Rinse & Spin) and watch for excessive walking or banging"
+part_price: "$30-60 per shock absorber"
+no_buy_pct: "70%"
 ---
 
 ## Electrolux EF5 Error Code — What It Means
 
-The EF5 code on an Electrolux washer or washer-dryer signals that the control has detected an unbalanced load during the spin sequence. When this fault occurs, the machine typically skips or aborts the final spin phase, leaving your laundry wetter than normal. The washer's control system monitors vibration and load distribution, and if it senses that items have bunched to one side or the drum cannot spin smoothly, it stops the spin cycle and throws the code.
+The EF5 code on an Electrolux washer indicates an unbalanced load or spin imbalance fault. The control board has detected that the drum load is too uneven for safe high-speed spinning, so it stops or skips the final spin phase to protect the machine from damage. In practical terms, the laundry mass is concentrated to one side of the drum, or the machine itself is not stable enough to ramp up to full spin speed.
 
-This code is primarily a load-distribution issue rather than a component failure. Electrolux support documentation identifies EF5 as an unbalanced load condition. The machine is designed to protect itself and the installation from damage caused by excessive vibration. While the code points to imbalance, poor drainage or an unlevel installation can also prevent the drum from reaching full spin speed, which the control may interpret as a balance fault.
+This fault is the washer's self-protection against excessive vibration and mechanical stress. When the load is too lopsided or the unit is not level, the tub can bounce violently during spin-up. The control stops the cycle and displays EF5 rather than risking broken suspension parts or a walking machine.
 
 ## Before You Replace Anything
 
-Homeowners sometimes replace the control board or suspension dampers when EF5 appears repeatedly. Before ordering parts, redistribute the load, level the machine, and clean the drain filter. Most EF5 codes clear with those three steps.
+Homeowners sometimes replace the control board or motor thinking EF5 is an electrical fault. Always redistribute the load, level the machine, and inspect the shock absorbers and suspension springs first. Most EF5 errors clear after balancing the laundry or adjusting the feet.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Unbalanced load distribution (~50%)** One heavy item such as a comforter, or a small load that has tangled and clumped to one side of the drum, prevents smooth spinning.
-- **Machine not level (~25%)** The washer sits on an uneven floor or one or more leveling feet need adjustment, causing the drum to rock during spin.
-- **Drain filter or hose blockage (~15%)** A clogged drain filter or kinked drain hose leaves water in the tub, making the load heavier on one side and interfering with spin-up.
-- **Suspended or flexible floor (~10%)** The appliance is installed on a suspended floor or other unstable platform that amplifies vibration and triggers the balance sensor.
+- **Laundry bunched to one side (~50%)** A single heavy item or sheets and towels wrapped together create a lopsided load that the control cannot safely spin at high speed.
+- **Machine not level or on unstable floor (~25%)** An unlevel washer or one sitting on a suspended or weak floor cannot stabilize the tub during spin-up, triggering the imbalance fault.
+- **Worn shock absorbers (~15%)** Shock absorbers that have lost damping fluid or compression resistance let the tub bounce excessively, causing repeated EF5 even with a small balanced load.
+- **Broken or detached suspension springs (~8%)** A missing or broken spring allows the tub to tilt or swing unevenly, preventing the control from reaching full spin speed.
+- **Incomplete draining (~2%)** A clogged drain filter, pump, or hose can leave water in the tub, adding unbalanced weight and contributing to spin failure.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Does the laundry feel evenly spread when you open the door after the code appears?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The load distribution is acceptable. Check that the washer is sitting level and that the drain filter is clean.<br><strong>No:</strong> The load is bunched or tangled. Redistribute items evenly around the drum and restart the spin cycle.</div>
+<details class="dtree"><summary>Does the drum spin freely by hand when empty, with no grinding or rumbling noise?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Bearings and motor are likely fine. Focus on load distribution, leveling, and suspension components.<br><strong>No:</strong> Worn drum bearings or a seized bearing can add vibration and imbalance. Inspect bearings and consider professional repair if growling or rough rotation is present.</div>
 </details>
 
-<details class="dtree"><summary>Is the washer sitting level front-to-back and side-to-side?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Installation level is correct. Inspect the drain path and check whether the floor is suspended or flexes under the machine.<br><strong>No:</strong> Adjust the leveling feet until the washer does not rock and a spirit level reads true on the top surface.</div>
+<details class="dtree"><summary>Does the machine walk, bang loudly, or shake violently during the spin attempt?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Suspension parts (shock absorbers or springs) are likely worn or broken. Inspect them for oil leakage, detachment, or visible damage.<br><strong>No:</strong> The machine may simply be unlevel or the load may be too uneven. Recheck leveling and redistribute laundry before testing again.</div>
 </details>
 
-<details class="dtree"><summary>Does water drain quickly when you run a rinse cycle, or does it pool in the drum?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Drainage is working. If EF5 persists with a level machine and balanced load, contact Electrolux service.<br><strong>No:</strong> Clean the drain filter at the front lower corner and inspect the drain hose for kinks or blockages.</div>
+<details class="dtree"><summary>Does water remain in the drum after the cycle ends?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Check and clean the drain filter, pump blade, and drain hose. Incomplete draining can add weight and worsen imbalance. Retest after clearing the drain path.<br><strong>No:</strong> Draining is working. The fault is purely load or suspension related. Proceed with load redistribution and suspension inspection.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Pause the cycle and redistribute the load.** Open the door and untangle items. Spread laundry evenly around the drum so no heavy clump sits on one side. Close the door and restart the spin cycle.
-2. **Check and adjust the leveling feet.** Place a spirit level on the top of the washer front-to-back and side-to-side. Turn the feet clockwise to lower or counter-clockwise to raise each corner until the unit sits stable and level.
-3. **Clean the drain filter.** Open the small access door at the front lower corner. Place a shallow pan beneath the filter, unscrew the cap slowly, and remove lint, coins, and debris. Rinse the filter under running water and reinstall it.
-4. **Inspect the drain hose.** Pull the washer forward and check that the drain hose is not kinked or crushed. Follow it to the sink trap or standpipe and confirm water flows freely.
-5. **Verify the installation surface.** If the washer is on a suspended wood floor or platform, check that the floor does not flex when the machine spins. Add bracing or move the appliance to a more stable location if needed.
-6. **Reset the machine.** Unplug the washer for 60 seconds, then plug it back in. Run a short spin cycle with a balanced test load to confirm the code is cleared.
-7. **Contact Electrolux service if EF5 returns.** When the code persists after load redistribution, leveling, and drain checks, quote the EF5 code and your model number when you call for an engineer visit.
+1. **Open the door and redistribute the laundry.** Separate tangled sheets or towels and spread items evenly around the drum. For a single large item like a comforter, add a few smaller towels to improve balance.
+2. **Check and adjust machine leveling.** Place a spirit level on top of the washer front-to-back and side-to-side. Adjust the front feet until the unit is perfectly level and does not rock when pushed. Tighten the lock nuts.
+3. **Run a test spin cycle.** Select Drain & Spin or Rinse & Spin with the door closed. Watch and listen for excessive walking, banging, or shaking during the spin ramp-up.
+4. **Inspect the shock absorbers.** Unplug the washer and tilt or remove the front or rear panel (model dependent). Check each shock absorber for oil leakage, loss of resistance, or physical damage. Push the tub down and release it. It should rebound slowly and smoothly.
+5. **Inspect the suspension springs.** Look at the top and bottom attachment points of each spring. Confirm that all springs are intact and securely attached. Replace any broken or detached springs.
+6. **Check and clean the drain filter and pump.** Open the small service door at the front lower corner. Place a towel and shallow pan underneath, then unscrew the drain filter. Remove lint, coins, and debris. Spin the pump impeller by hand to confirm it turns freely. Reinstall the filter and run another test cycle.
+7. **Verify floor stability.** If the washer is on a suspended wood floor or raised platform, confirm the floor does not flex during spin. Add bracing under the floor or relocate the washer to a concrete slab if vibration cannot be controlled.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Drain pump filter (Electrolux washer) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-washer-ef5-error-code&k=Drain+pump+filter+%28Electrolux+washer%29&tag=errorcodefixes-20) \| The removable filter cap and screen at the front lower corner. Clean rather than replace unless damaged. |
-| Drain hose (Electrolux washer) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-washer-ef5-error-code&k=Drain+hose+%28Electrolux+washer%29&tag=errorcodefixes-20) \| Replace if kinked, cracked, or crushed. Confirm the internal diameter matches your model. |
+| Shock absorbers (pair or set of 4, model-specific) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-washer-ef5-error-code&k=Shock+absorbers+%28pair+or+set+of+4%2C+model-specific%29&tag=errorcodefixes-20) \| Match the part number from your model tag or service manual. Sold individually or in pairs. |
+| Suspension springs (set of 3 or 4, model-specific) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-electrolux-washer-ef5-error-code&k=Suspension+springs+%28set+of+3+or+4%2C+model-specific%29&tag=errorcodefixes-20) \| Verify the hook length and wire gauge against your model's specification. |
 
 ## When to Call a Pro
 
-Call a professional if the EF5 code returns after you have redistributed the load, leveled the machine, cleaned the drain filter, and inspected the drain hose. Persistent imbalance codes can indicate worn suspension springs, dampers, or shock absorbers that a technician will test and replace. Also contact Electrolux service if your washer is installed on a suspended floor and you cannot stabilize the platform yourself. The manufacturer recommends quoting the exact error code and your model number when you arrange the visit so the technician arrives with the correct diagnostic tools and parts.
+Call a professional if you have redistributed the load, leveled the machine, and run multiple test spins but EF5 returns every time with even a small balanced load. A technician will inspect the suspension system, drum bearings, and tub assembly for damage that requires disassembly or special tools. Also call a pro if you hear loud grinding or rumbling during spin, which points to bearing failure. If the machine is installed on a suspended floor and you cannot stabilize it by adjusting feet alone, a technician can recommend floor reinforcement or relocation. Finally, if you are uncomfortable tilting the washer, removing panels, or working with heavy springs under tension, professional service is the safer choice.
 
-**Rough cost:** DIY runs about $0-15 (drain filter cleaning), 10-20 min. A pro service call runs about $100-200 if a service call is needed to adjust installation or clear a drain blockage.
+**Rough cost:** DIY runs about $0-80 in parts (if suspension parts needed), 20-60 min. A pro service call runs about $150-300.
