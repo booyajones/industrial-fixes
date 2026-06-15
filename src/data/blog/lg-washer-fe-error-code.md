@@ -1,8 +1,8 @@
 ---
 title: "LG Washer FE Error Code - Causes & Fix"
-description: "FE means overfill detected. Most common cause: failed inlet water valve stuck open, allowing water in when it should not. Turn off supply and drain."
-pubDatetime: 2026-06-08T04:27:43Z
-modDatetime: 2026-06-08T04:27:43Z
+description: "FE means overfill error on LG washers. Water inlet valve stuck open is the most common cause. Shut off supply, unplug, replace valve."
+pubDatetime: 2026-06-13T05:32:03Z
+modDatetime: 2026-06-13T05:32:03Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,76 +10,78 @@ tags:
   - appliance
   - washer
   - lg
-most_likely_cause: "Failed inlet water valve stuck open"
-free_checks:
-  - "Check inlet hose screens at valve for debris/clogs and clean; verify both hot and cold supply valves fully open"
-  - "Confirm household water pressure is 20-120 psi (low pressure common cause); test by running other faucets"
-  - "Inspect drain hose for kinks/clogs causing slow drain that triggers premature FE code"
-no_buy_pct: "60%"
+money_part: "LG washer water inlet valve assembly"
+most_likely_cause: "Water inlet valve stuck open or leaking"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-money_part: "LG washer water inlet valve assembly"
-part_price: "$25-80"
+free_checks:
+  - "Shut off the water supply immediately, unplug the washer, and check if water continues to enter the tub with power removed."
+  - "Remove the inlet hoses and clean the mesh screens at both the hose ends and valve inlet."
+  - "Run a drain or spin cycle (with water off) to empty residual water and see if the code clears once the tub is drained."
+part_price: "$35–75"
 ---
 
 ## LG Washer FE Error Code — What It Means
 
-The FE code on an LG washer indicates an overfill condition. The machine has detected that the water level in the tub is higher than expected for the selected load or cycle, or that a fill-control fault is allowing too much water to enter. This can happen during a cycle or even when the washer is powered off, if a component is leaking or stuck.
+FE on an LG washer indicates an overfilling condition during the fill cycle. The control board has detected that water level rose too high, either because water continues to enter when it should not or because the machine cannot accurately sense the level inside the tub.
 
-LG's support documentation confirms FE as an overfilling error. The code triggers when the washer's pressure-sensing system or control logic sees water accumulating beyond safe or programmed limits. The fault can stem from mechanical failure in the fill valve, a blocked or disconnected pressure-sensing tube, clogged inlet screens that confuse the fill sequence, or poor draining that leaves excess water in the tub.
+In most cases this means the water inlet valve has failed and is stuck open or leaking internally. Less often, a kinked or blocked pressure-switch air tube prevents the washer from knowing when to stop filling. A failed pressure switch or control-board fault can also cause the code, but these are less common than valve failure.
 
 ## Before You Replace Anything
 
-Homeowners often replace the control board first, assuming an electronics fault. Before ordering a new board, check the inlet valve for leakage with the machine unpowered. If water still enters the tub or dispenser with power off and water supply on, the valve is not sealing and needs replacement.
+Homeowners sometimes replace the pressure switch or control board before testing the inlet valve. With the machine unplugged and water supply on, check whether water still flows into the tub. If it does, the valve is faulty and the switch or board are likely fine.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed inlet water valve (~50%)** The valve's solenoid or internal diaphragm is stuck open or leaking, allowing water to enter the tub even when the machine is idle or powered off.
-- **Clogged inlet screens or filters (~20%)** Sediment or debris in the mesh screens at the rear water-hose connections restricts normal fill flow and confuses the level-control sequence.
-- **Pressure switch or air tube problem (~15%)** The air tube to the pressure switch is kinked, blocked, disconnected, or filled with water, preventing accurate level sensing.
-- **Drain pump filter blockage (~10%)** A clogged drain filter or poor draining leaves excess water in the tub after the previous cycle, triggering the overfill sensor at the next start.
-- **Wiring or control-board fault (~5%)** Damaged connectors, corroded terminals, or a control-board defect in the valve-drive or pressure-sensing circuit allows uncontrolled filling.
+- **Water inlet valve stuck open or leaking (~60%)** The valve solenoid or internal diaphragm fails, allowing water to flow even when the control sends no signal, and the tub overfills.
+- **Pressure-switch air tube kinked, blocked, or disconnected (~20%)** The air-pressure tube that signals water level to the pressure switch is obstructed or pulled loose, so the switch cannot tell the valve to close.
+- **Inlet hose screens or filters clogged (~10%)** Debris or sediment restricts normal flow and can contribute to abnormal fill behavior that the control interprets as overfilling.
+- **Pressure switch failure (~5%)** The switch itself malfunctions and misreports water level, causing the control to leave the valve open too long.
+- **Wiring or connector damage to inlet valve or pressure switch (~3%)** Broken wires, corroded terminals, or loose connectors prevent the control from commanding the valve or reading the switch correctly.
+- **Main control board fault (~2%)** Rare, but a failed relay or driver circuit on the control board can prevent it from closing the inlet valve or interpreting level signals.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Does water continue to enter the washer with the machine unplugged and the water supply turned on?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The inlet valve is stuck open and not sealing. Replace the water inlet valve assembly.<br><strong>No:</strong> The valve is sealing mechanically. Move on to check inlet screens, pressure switch, air tube, and drain filter for blockages or disconnection.</div>
+<details class="dtree"><summary>With the washer unplugged and water supply on, does water still flow into the tub or dispenser?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The inlet valve is mechanically stuck open and must be replaced.<br><strong>No:</strong> Move on to check the pressure system and hose screens.</div>
 </details>
 
-<details class="dtree"><summary>Are the inlet hose screens at the back of the washer visibly clogged or restricted?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Clean or replace the inlet screens. Restricted screens can confuse fill logic and cause overfill errors.<br><strong>No:</strong> Screens are clear. Inspect the pressure-switch air tube for kinks, blockages, or water inside, and check the drain pump filter for debris.</div>
+<details class="dtree"><summary>After cleaning the inlet-hose screens and running a drain cycle, does the FE code return on the next fill?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The valve or pressure-sensing system is faulty. Inspect the air tube and pressure switch next.<br><strong>No:</strong> The screens were clogged. Monitor the next few loads to confirm the fix.</div>
 </details>
 
-<details class="dtree"><summary>Does the error clear after a power reset and running a drain-only or spin-only cycle to empty excess water?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The fault may have been a one-time event from a blockage or temporary overfill. Monitor the next few cycles for recurrence.<br><strong>No:</strong> The fault is persistent. Systematically test the inlet valve, pressure switch, air tube, and wiring, then consider control-board failure if all components check good.</div>
+<details class="dtree"><summary>Is the pressure-switch air tube kinked, blocked with water or debris, or disconnected from the switch or tub connection?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Clear or replace the tube, secure both ends, and test. If the code persists, replace the pressure switch.<br><strong>No:</strong> The tube is clear, so test or replace the pressure switch, then the inlet valve if the switch tests good.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Turn off the water supply** at the hoses immediately to stop any active overfilling or uncontrolled water entry.
-2. **Unplug the washer** and wait 60 seconds to reset the control board and clear temporary faults.
-3. **Drain the excess water** using the washer's drain-only or spin-only cycle function, or manually lower the drain hose into a bucket if the machine will not power on.
-4. **Check the inlet hoses and screens** at the rear water connections for sediment, debris, kinks, or damage, and clean or replace the mesh filters as needed.
-5. **Inspect the inlet valve for leakage** by turning the water supply back on with the machine still unplugged. If water enters the tub or dispenser, the valve is stuck open and must be replaced.
-6. **Inspect the pressure switch and air tube** (if your model uses one) for kinks, blockages, loose connections, or water inside the tube. Clear any blockage, dry the tube, and reseat the connections.
-7. **Check wiring and connectors** to the inlet valve, pressure switch, and control board for corrosion, loose terminals, or damaged insulation, and repair or replace as required.
-8. **Run a test fill cycle** with the water supply on and the machine plugged in to confirm the tub fills to the correct level and the FE code does not return.
+1. **Shut off the water supply** at the wall valves immediately to prevent flooding.
+2. **Unplug the washer** from the outlet to remove all power.
+3. **Drain any standing water** by selecting a drain or spin-only cycle (water supply still off) or by using the drain hose into a bucket if your model allows manual drain mode.
+4. **Check for continuous water entry** by turning the water supply back on with the machine still unplugged. If water flows into the tub or dispenser, the inlet valve is stuck and must be replaced.
+5. **Remove and clean the inlet-hose screens** by unscrewing both hot and cold hoses from the back of the washer, pulling out the mesh filters, rinsing them under running water, and reinstalling them.
+6. **Inspect the pressure-switch air tube** by opening the top or rear panel (consult your model's service access diagram), locating the small rubber or vinyl tube from the outer tub to the pressure switch, and checking for kinks, blockage, disconnection, or water inside. Clear or replace the tube as needed.
+7. **Test or replace the pressure switch** if the air tube is clear but the fault persists. Consult your model's service manual for continuity and pressure-point values, or replace the switch if you lack test equipment.
+8. **Check wiring and connectors** to the inlet valve, pressure switch, and control board for breaks, corrosion, or loose terminals. Repair or replace damaged wiring.
+9. **Replace the inlet valve** if the above checks do not reveal the fault. The valve is usually secured by two screws or a mounting bracket behind the water-inlet connections; disconnect the hoses, unplug the wire harness, install the new valve, and reconnect everything.
+10. **Reassemble the washer**, restore water supply and power, and run a short test cycle or diagnostic rinse mode to confirm normal fill behavior and no return of the FE code.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| LG washer water inlet valve assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-fe-error-code&k=LG+washer+water+inlet+valve+assembly&tag=errorcodefixes-20) \| Verify by your model number. Look for dual-solenoid valves on front-load and some top-load models. |
-| Inlet hose screens or filters | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-fe-error-code&k=Inlet+hose+screens+or+filters&tag=errorcodefixes-20) \| Fine mesh filters that fit inside the threaded hose connections at the back of the machine. |
-| Pressure switch or air tube | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-fe-error-code&k=Pressure+switch+or+air+tube&tag=errorcodefixes-20) \| Consult your model's wiring diagram to locate. Not all LG washers use the same pressure-sensing design. |
-| Drain pump filter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-fe-error-code&k=Drain+pump+filter&tag=errorcodefixes-20) \| Usually accessible behind a small panel at the front lower corner of front-load models. |
+| LG washer water inlet valve assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-fe-error-code&k=LG+washer+water+inlet+valve+assembly&tag=errorcodefixes-20) \| Match your model number; most LG top-load and front-load valves are model-specific two-solenoid assemblies. |
+| LG washer pressure switch | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-fe-error-code&k=LG+washer+pressure+switch&tag=errorcodefixes-20) \| Verify part number from your service sheet; air-pressure switches vary by drum size and control generation. |
+| Pressure-switch air tube / air hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-fe-error-code&k=Pressure-switch+air+tube+%2F+air+hose&tag=errorcodefixes-20) \| If the original tube is cracked or split; measure length and inside diameter before ordering. |
+| Inlet hose filter screens | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-lg-washer-fe-error-code&k=Inlet+hose+filter+screens&tag=errorcodefixes-20) \| Universal or LG-branded replacement mesh screens if the originals are damaged or missing. |
 
 ## When to Call a Pro
 
-Call a professional if you have tested the inlet valve, cleaned all screens and filters, inspected the pressure switch and air tube, checked all wiring, and the FE code still appears. Persistent overfill after those repairs usually points to a control-board fault or a complex sensing-circuit problem that requires diagnostic equipment and firmware knowledge. Also call a pro if you are not comfortable working with water shut-off valves, removing the rear panel, or interpreting wiring diagrams for your specific model.
+Call a technician if you are uncomfortable working with water connections or accessing internal components, if the washer continues to overfill after you have replaced the inlet valve and pressure switch, or if you find damaged wiring or suspect a control-board fault that requires bench testing. A qualified appliance tech can perform continuity checks on the valve solenoids, measure pressure-switch actuation points, and swap the control board if necessary. Also call a pro if your washer is still under warranty, since DIY repairs may void coverage.
 
-**Rough cost:** DIY runs about $25-80 in parts, 45-90 min. A pro service call runs about $150-300.
+**Rough cost:** DIY runs about $40–90 in parts, 30–60 min. A pro service call runs about $150–250.

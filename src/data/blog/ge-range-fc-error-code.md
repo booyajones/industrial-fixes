@@ -1,8 +1,8 @@
 ---
 title: "GE Range FC Error Code - Causes & Fix"
-description: "FC means a door lock circuit failure. Most often the door latch/lock motor assembly has failed. Power-cycle the breaker first."
-pubDatetime: 2026-06-08T06:40:26Z
-modDatetime: 2026-06-08T06:40:26Z
+description: "FC means door-lock circuit fault on GE ranges. Most often a failed oven door latch/lock assembly, especially after self-clean."
+pubDatetime: 2026-06-13T05:41:13Z
+modDatetime: 2026-06-13T05:41:13Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,72 +10,71 @@ tags:
   - appliance
   - oven
   - ge
-most_likely_cause: "door latch/lock motor assembly"
-free_checks:
-  - "Power-cycle the range at breaker for 2 minutes to reset the control board"
-  - "Inspect door latch/lock assembly connector for looseness or corrosion"
-no_buy_pct: "15%"
+money_part: "GE oven door lock assembly"
+most_likely_cause: "failed oven door lock assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-money_part: "GE oven door latch/lock motor assembly"
-part_price: "$80-180"
+free_checks:
+  - "Power down the range at the breaker for 5 minutes, then restore power to see if the code clears after a full reset."
+  - "Open and close the oven door slowly to check for binding, unusual resistance, or a latch that does not return to the unlocked position on its own."
+  - "Inspect the wire harness and connectors at the door lock assembly and control board for loose pins, corrosion, or visibly damaged wires."
+part_price: "$40-70"
 ---
 
 ## GE Range FC Error Code — What It Means
 
-The FC error code on a GE range signals a failure somewhere in the door lock circuit. This means the range control has detected a problem with the system that locks and unlocks the oven door, typically after a self-clean cycle or during a lock/unlock operation. GE states that FC usually means a component has failed in the door lock circuit.
+The FC code on a GE range indicates a door-lock circuit fault. The control board is receiving conflicting or invalid door-lock signals, typically one switch reporting the door is locked while another reports it is unlocked at the same time. This error most often appears after a self-clean cycle or when the door lock mechanism has jammed or failed.
 
-The fault can involve the physical lock mechanism, the wiring that connects it to the control board, or the electronic oven control (EOC) itself. The code is designed for trained service technicians. GE advises that if the code appears you should schedule service, though cycling power at the breaker can sometimes clear the code if the fault was transient.
+The fault usually points to a problem in the oven door lock assembly, the latch position switches inside that assembly, or the wiring harness connecting them to the control board. Less commonly, the control board itself can send the fault code if the circuit logic fails. GE technicians typically diagnose FC by inspecting the mechanical latch for binding, testing the lock switches for continuity, and checking connector pins and wiring for damage.
 
 ## Before You Replace Anything
 
-Homeowners often replace the main control board first, but the door latch/lock assembly fails far more often. Inspect the lock hardware and check connectors before buying a control board.
+Homeowners sometimes replace the control board first when the real problem is a stuck or damaged door latch assembly. Always inspect the latch mechanism for binding and test the latch switches with a multimeter before ordering a new board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed door latch/lock motor assembly (~55%)** The actuator or motor in the lock mechanism burns out, binds mechanically, or fails to report position, triggering the FC code.
-- **Defective door lock switch or position switch (~20%)** A separate microswitch or sensor that confirms lock position fails open or closed, so the control cannot verify the door state.
-- **Damaged wiring or connectors in the lock circuit (~15%)** Heat, vibration, or age causes a wire to break, a connector to corrode, or a terminal to burn, opening the circuit between the EOC and lock assembly.
-- **Faulty electronic oven control (EOC) or control board (~10%)** The board's relay, driver circuit, or input that monitors the lock fails, incorrectly reporting an FC fault even when the lock hardware is good.
+- **Failed door lock assembly (~60%)** The oven door latch mechanism or its internal position switches have failed, sending conflicting lock/unlock signals to the control board.
+- **Damaged or loose wiring harness (~20%)** Disconnected, corroded, or broken wires in the harness between the door lock and the control board prevent proper communication.
+- **Bad latch position switches (~10%)** The micro-switches inside the lock assembly that report lock and unlock status have worn contacts or mechanical failure.
+- **Failing control board (~10%)** The electronic range control reads or processes the door-lock signals incorrectly, even when the latch and wiring are intact.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Did the FC code appear immediately after or during a self-clean cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The lock mechanism likely overheated or jammed. Turn off power at the breaker for two minutes, then turn it back on. If the code clears and the door unlocks, the fault was transient. If it remains, the latch assembly is the most likely failure.<br><strong>No:</strong> The code may be due to a wiring or control-board issue. Continue diagnosis by inspecting connectors and testing the lock assembly.</div>
+<details class="dtree"><summary>Does the oven door latch move smoothly and return fully to the unlocked position when you open and close the door by hand?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The latch mechanism is not binding. Check the wiring harness and connectors for damage or loose pins, then test the latch switches with a multimeter.<br><strong>No:</strong> The latch is stuck or binding. The door lock assembly is likely damaged and should be replaced.</div>
 </details>
 
-<details class="dtree"><summary>Is the oven door physically stuck in the locked position?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The latch motor or mechanism has failed mid-stroke or is binding. You will need to replace the door latch/lock assembly once you disconnect power.<br><strong>No:</strong> The door moves freely, so the fault is likely electrical: a bad position switch, damaged wiring, or control-board fault.</div>
+<details class="dtree"><summary>Does the FC code clear and stay away after you power down the range at the breaker for 5 minutes?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault was a temporary glitch. Monitor the range for a few cycles. If the code returns, proceed with latch and wiring inspection.<br><strong>No:</strong> The fault is persistent. Inspect the door lock assembly, latch switches, and wiring harness for physical damage or failed switches.</div>
 </details>
 
-<details class="dtree"><summary>Does the code clear after cycling the circuit breaker for one minute, then stay off during normal operation?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The fault was transient, possibly from a power surge or momentary glitch. Monitor the range; if FC does not return, no repair is needed.<br><strong>No:</strong> The fault is persistent. Replace the door latch/lock assembly first, then check wiring and the control board if the new latch does not resolve the code.</div>
+<details class="dtree"><summary>Do the latch position switches show correct continuity when tested with a multimeter (lock switch closed in lock position, unlock switch closed in unlock position)?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The switches are good. Check the wire harness and board connectors for damage, and suspect the control board if all wiring is intact.<br><strong>No:</strong> One or both switches have failed. Replace the door lock assembly.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Turn off power at the breaker or fuse box** and wait at least one full minute, then restore power to see if the control resets and the FC code clears.
-2. **If the code remains, disconnect power again** and remove the oven door (if your model allows) or open the rear access panel to reach the door lock assembly mounted near the top of the oven cavity.
-3. **Inspect the door latch/lock assembly** for visible damage, melted plastic, burn marks, or mechanical binding in the latch arm or motor.
-4. **Disconnect the wiring harness** from the lock assembly and examine the connector pins and terminals for corrosion, heat damage, or loose contacts.
-5. **Remove the mounting screws** that secure the latch/lock assembly to the oven frame and pull the assembly free.
-6. **Install the new door latch/lock assembly** in the reverse order, ensuring the latch arm engages the door striker and the connector seats fully.
-7. **Restore power and test** the door lock by running a short self-clean cycle or using the manual lock feature (if available) to confirm the door locks and unlocks without error and the FC code does not return.
+1. **Turn off power** at the circuit breaker and wait 5 minutes, then restore power to see if the code clears after a full reset.
+2. **Open the oven door** and visually inspect the latch mechanism for binding, broken plastic, or a latch arm that does not return to the unlocked position.
+3. **Remove the door** (lift straight up at a slight angle after opening halfway) to gain access to the door lock assembly mounting screws on the oven frame.
+4. **Disconnect the wire harness** from the door lock assembly and inspect connector pins for corrosion, bent contacts, or loose wires.
+5. **Test the latch switches** with a multimeter set to continuity mode. The lock switch should show continuity when the latch is in the locked position, and the unlock switch should show continuity when unlocked.
+6. **Replace the door lock assembly** if the latch is damaged, binding, or if either switch fails the continuity test. GE part WB14T10069 is documented as an oven latch assembly for some GE ranges with FC errors.
+7. **Reinstall the door**, restore power, and run a short bake cycle to verify the FC code does not return and the door lock operates normally.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| GE oven door latch/lock motor assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-range-fc-error-code&k=GE+oven+door+latch%2Flock+motor+assembly&tag=errorcodefixes-20) \| Verify your model number on the rating plate; GE offers model-specific latch assemblies. |
-| Door lock wiring harness (if damaged) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-range-fc-error-code&k=Door+lock+wiring+harness+%28if+damaged%29&tag=errorcodefixes-20) \| Only if inspection shows burned or broken wires; often sold as a pigtail repair kit. |
-| Electronic oven control board (EOC) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-range-fc-error-code&k=Electronic+oven+control+board+%28EOC%29&tag=errorcodefixes-20) \| Replace only after confirming the latch assembly and wiring are good; the board is the least common cause of FC. |
+| GE oven door lock assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-range-fc-error-code&k=GE+oven+door+lock+assembly&tag=errorcodefixes-20) \| Verify your model number before ordering. WB14T10069 is documented for some GE ranges with FC faults. |
+| Wire harness (door lock to control board) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-range-fc-error-code&k=Wire+harness+%28door+lock+to+control+board%29&tag=errorcodefixes-20) \| Only needed if wires are cut, burned, or connector pins are broken beyond repair. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if you are uncomfortable working with the range's wiring, if you cannot access the door lock assembly safely, or if replacing the latch assembly and inspecting connectors does not clear the FC code. A technician has the service manual, wiring diagrams, and meters to trace the lock circuit from the control board through every switch and connection. Professional diagnosis is also advisable if your range is still under warranty or if you suspect the electronic oven control board itself has failed, since board-level troubleshooting requires component-level testing that goes beyond typical DIY work.
+Call a technician if you are uncomfortable working around live household voltage or if the fault persists after you have replaced the door lock assembly, verified all wiring, and confirmed the latch switches test correctly. A pro can isolate control-board faults with specialized diagnostic tools and safely replace the electronic range control if needed. Also call for service if the range is still under warranty, since self-repair may void coverage.
 
-**Rough cost:** DIY runs about $80–180 in parts, 45–90 min. A pro service call runs about $150–350.
+**Rough cost:** DIY runs about $40-80 in parts, 30-60 min. A pro service call runs about $150-300.

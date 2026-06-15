@@ -1,8 +1,8 @@
 ---
 title: "GE Dishwasher C6 Error Code - Causes & Fix"
-description: "C6 means incoming water temperature is too low. Most often your water heater is set below 120°F or another fixture is draining hot supply."
-pubDatetime: 2026-06-08T08:20:16Z
-modDatetime: 2026-06-08T08:20:16Z
+description: "C6 means low inlet water temperature. Run the hot tap until steaming before starting the cycle, or raise your water heater to 120°F."
+pubDatetime: 2026-06-13T05:39:44Z
+modDatetime: 2026-06-13T05:39:44Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,74 +10,75 @@ tags:
   - appliance
   - dishwasher
   - ge
-most_likely_cause: "water heater set too low or hot water depleted by other fixtures"
-free_checks:
-  - "Reset dishwasher by flipping breaker off 60 seconds, then run diagnostic cycle to retest"
-  - "Inspect heating element wire connectors for corrosion or looseness at element terminals"
-  - "Test heating element continuity with multimeter (should read 15-30 ohms; infinite = failed element)"
+money_part: "Water inlet valve"
+most_likely_cause: "Water heater set too low or hot water not reaching the dishwasher fast enough"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-money_part: "GE dishwasher heating element"
-part_price: "$25-80"
+free_checks:
+  - "Run the kitchen faucet hot until steaming, then immediately start the dishwasher to confirm the machine receives hot water"
+  - "Inspect the supply line under the sink for kinks or restrictions that slow flow"
+  - "Turn off power at the breaker for 60 seconds, then restore and re-test to reset the control"
+part_price: "$20-45"
+no_buy_pct: "70%"
 ---
 
 ## GE Dishwasher C6 Error Code — What It Means
 
-A C6 code on a GE dishwasher signals that the machine is not detecting hot enough water entering the tub. The dishwasher expects incoming supply water at approximately 120°F to clean dishes properly. When the temperature falls short, the cycle pauses or refuses to start and displays the fault.
+The C6 code on a GE dishwasher signals a low inlet water temperature fault. The machine is detecting incoming water that is colder than the controller expects for the fill and heating sequence. In most cases this is not a component failure but a supply-side issue: either your water heater is set too low, the hot water line has cooled down between uses, or flow restrictions are preventing the dishwasher from filling quickly with hot water.
 
-This is a temperature-inlet fault, not a control board failure in most cases. The code appears when cold water reaches the inlet valve, when your water heater is set too low, or when other fixtures draw hot water away before the dishwasher fills. Occasionally a kinked supply line, restricted inlet valve, or faulty temperature sensor can also trigger the code even when the water heater is set correctly.
+Because the publicly available GE documentation for this code is limited, always confirm the exact meaning for your model by checking the service label inside the door frame or your owner's manual. The consistent field interpretation is that C6 points to water-temperature problems rather than a generic control-board fault.
 
 ## Before You Replace Anything
 
-Homeowners often replace the control board or inlet valve first. Before ordering parts, run hot water at the kitchen tap for 30 seconds and verify it reaches at least 120°F with a thermometer.
+Many people replace the main control board when C6 appears, but the code almost always points to cold incoming water or a restricted inlet valve. Verify hot water at the tap and check the supply line and inlet screen before ordering any electronic parts.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Water heater set too low (~40%)** The tank thermostat is below 120°F, so incoming water never reaches the temperature the dishwasher expects.
-- **Hot water depleted by other fixtures (~25%)** A shower, washing machine, or sink empties the hot-water tank before the dishwasher fills, leaving only cold supply.
-- **Long run from heater to dishwasher (~15%)** Water cools in a lengthy supply line before it reaches the machine, especially in cold weather or uninsulated walls.
-- **Kinked or restricted supply line (~10%)** A bent flex line or partially closed shut-off valve reduces flow and can deliver cooler water.
-- **Blocked or failing inlet valve (~7%)** Sediment or mineral buildup on the valve screen restricts flow and can lower the effective inlet temperature.
-- **Faulty temperature sensor or thermistor (~3%)** The machine reads incoming water as colder than it actually is, reporting C6 even when supply temperature is correct.
+- **Water heater set too low or line cooled down (~40%)** The water heater thermostat is below 120°F or the hot supply line is long and water has cooled before the dishwasher fills.
+- **Restricted inlet valve or screen (~25%)** Debris in the inlet valve screen or a partially clogged valve body limits flow and prevents the machine from filling with hot water quickly.
+- **Kinked or partially blocked supply line (~15%)** The braided supply hose under the sink is bent or pinched, reducing water pressure and flow rate to the dishwasher.
+- **Low household water pressure (~10%)** Overall water pressure to the home is low or a shutoff valve is only partially open, slowing the fill cycle.
+- **Temperature sensor or wiring fault (~7%)** The thermistor or its connector has corroded or failed, sending an incorrect temperature reading to the control board.
+- **Control board misreading temperature input (~3%)** The main control has water damage, a loose connector, or internal failure that causes it to register cold water even when the supply is hot.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Does the kitchen faucet deliver hot water (at least 120°F) after running for 30 seconds?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Your water heater and supply are working. The fault is likely downstream at the dishwasher inlet valve, supply line, or temperature sensor.<br><strong>No:</strong> Your water heater is set too low, the tank is drained, or a shut-off valve is partially closed. Raise the heater thermostat or wait for recovery before running the dishwasher.</div>
+<details class="dtree"><summary>Does hot water flow at full pressure when you run the kitchen faucet for 30 seconds?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The supply side is probably fine. Move to checking the inlet valve, screen, and supply line for restrictions or blockage.<br><strong>No:</strong> The problem is upstream. Raise your water heater thermostat to 120°F and confirm the shutoff valve under the sink is fully open, then re-test.</div>
 </details>
 
-<details class="dtree"><summary>Did the code appear immediately after someone used a shower, washing machine, or another hot-water fixture?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The tank was depleted. Wait 30–60 minutes for the heater to recover, then start the cycle again.<br><strong>No:</strong> The problem is not simple depletion. Check the supply line for kinks and inspect the inlet valve for blockage.</div>
+<details class="dtree"><summary>Does the error clear after you power-cycle the dishwasher at the breaker and pre-run the hot tap?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The issue was likely a one-time cold fill. Monitor the next few cycles to confirm it does not return.<br><strong>No:</strong> Proceed to inspect the inlet valve screen and supply line for restrictions, or test the temperature sensor and control wiring if water is confirmed hot.</div>
 </details>
 
-<details class="dtree"><summary>Does the code clear after you power-cycle the dishwasher (flip the breaker for 60 seconds)?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The fault may have been transient. Monitor the next few cycles. If it returns, inspect the inlet valve and temperature sensor.<br><strong>No:</strong> The underlying condition persists. Verify water temperature at the tap, then inspect the inlet valve, supply line, and thermistor circuit.</div>
+<details class="dtree"><summary>Is the inlet valve screen visibly clogged with sediment or mineral buildup?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Clean or replace the screen and inlet valve, then test. Restricted flow is a common trigger for low-temperature faults.<br><strong>No:</strong> The valve and supply are clear. Check wiring harness connections at the temperature sensor and control board for corrosion or loose pins, or call a technician for sensor and board diagnosis.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Turn off power** at the circuit breaker and close the water shut-off valve under the sink before you begin any inspection or part replacement.
-2. **Run the kitchen faucet** for 30 seconds and measure the temperature with a cooking or infrared thermometer. If it is below 120°F, increase your water heater thermostat and wait 30–60 minutes for the tank to reheat.
-3. **Inspect the supply line** behind the dishwasher for kinks, sharp bends, or a partially closed shut-off valve. Straighten any kinks and open the valve fully.
-4. **Remove and clean the inlet valve screen** by disconnecting the supply line at the valve, pulling out the small mesh filter, and rinsing it under running water. Replace the valve if the screen is damaged or the valve body shows corrosion.
-5. **Check household water pressure** at an outdoor hose bib or laundry faucet. Low pressure (below about 20 psi) can reduce fill performance and contribute to temperature faults.
-6. **Power-cycle the dishwasher** by switching the breaker off for 60 seconds, then back on. Run a short rinse cycle to see whether the code clears now that water temperature and flow are correct.
-7. **Test or replace the thermistor** if the code persists and supply water is verified hot. Consult your model's wiring diagram for the sensor location and resistance specification, or call a technician for circuit-level diagnostics.
+1. **Kill power** at the circuit breaker or unplug the dishwasher before opening any panels or touching internal components.
+2. **Run the kitchen faucet hot** for 30 seconds until the water is steaming, then start the dishwasher immediately to confirm it receives hot water during the fill.
+3. **Inspect the supply line** under the sink for kinks, bends, or blockage, and confirm the shutoff valve is fully open and not restricting flow.
+4. **Check the inlet valve screen** by shutting off the water, disconnecting the supply line, and removing the screen from the valve body. Clean or replace if clogged with sediment.
+5. **Verify household water pressure** is adequate (typically 20-120 psi) and that the dishwasher fills normally during the cycle.
+6. **Reset the control** by removing power for 60 seconds, then restore and re-test the machine after confirming hot water supply.
+7. **Inspect wiring and connectors** at the temperature sensor and control board for loose, corroded, or heat-damaged pins. If the code persists and the water is confirmed hot, consult the service manual for sensor resistance values or call a technician for control-board and sensor diagnosis.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| GE dishwasher water inlet valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-dishwasher-c6-error-code&k=GE+dishwasher+water+inlet+valve&tag=errorcodefixes-20) \| Match your model number; includes screen and solenoid. |
-| Dishwasher water supply line (braided stainless) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-dishwasher-c6-error-code&k=Dishwasher+water+supply+line+%28braided+stainless%29&tag=errorcodefixes-20) \| 3/8-inch compression fittings; replace if kinked or corroded. |
-| Dishwasher thermistor or temperature sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-dishwasher-c6-error-code&k=Dishwasher+thermistor+or+temperature+sensor&tag=errorcodefixes-20) \| Model-specific part; consult service manual for resistance spec. |
+| Water inlet valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-dishwasher-c6-error-code&k=Water+inlet+valve&tag=errorcodefixes-20) \| Match the valve to your exact GE model number from the door-frame label; includes the internal screen. |
+| Water temperature sensor (thermistor) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-dishwasher-c6-error-code&k=Water+temperature+sensor+%28thermistor%29&tag=errorcodefixes-20) \| Only needed if wiring and supply checks confirm the sensor is faulty; consult your model's service manual for resistance specs. |
+| Main control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-dishwasher-c6-error-code&k=Main+control+board&tag=errorcodefixes-20) \| Replace only after verifying the sensor, wiring, and water supply are all correct and the board shows visible damage or water intrusion. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if you have verified that hot water reaches the kitchen tap at 120°F or higher, the inlet valve is clean, the supply line is clear, and the code still appears after a power cycle. At that point the fault lies in the temperature-sensing circuit or control board, and diagnosis requires a multimeter, wiring diagram, and experience with GE dishwasher electronics. Also call a pro if you are uncomfortable working with water connections under the sink or if you need to adjust a gas water heater thermostat safely.
+Call a professional if you have confirmed that hot water reaches the dishwasher inlet, the supply line and valve are clear, and the code still appears after a control reset. At that point the fault is likely a temperature-sensor wiring issue or a control-board input problem that requires service-manual diagnostics and possibly live voltage testing. Also call a pro if you find signs of water intrusion on the control board, burned connectors, or corrosion in the wiring harness, since those repairs involve soldering or board replacement that can be tricky without experience. If your water heater is gas-fired and you need to adjust its thermostat, follow the manufacturer's instructions carefully or hire a plumber to raise the setpoint safely.
 
-**Rough cost:** DIY runs about $25–80 in parts, 30–60 min. A pro service call runs about $150–250.
+**Rough cost:** DIY runs about $15-50 in parts if a valve or screen needs replacement, 30-60 min. A pro service call runs about $150-250 for a service call and inlet-valve replacement.

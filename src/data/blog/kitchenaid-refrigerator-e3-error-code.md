@@ -1,8 +1,8 @@
 ---
 title: "KitchenAid Refrigerator E3 Error Code - Causes & Fix"
-description: "E3 means ice maker thermistor fault on most KitchenAid refrigerators. Replace the ice maker thermistor sensor or repair its wiring harness."
-pubDatetime: 2026-06-08T06:54:20Z
-modDatetime: 2026-06-08T06:54:20Z
+description: "E3 on a KitchenAid refrigerator signals an ice maker thermistor fault. Most often the sensor itself has failed and needs replacement."
+pubDatetime: 2026-06-13T05:44:39Z
+modDatetime: 2026-06-13T05:44:39Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,72 +10,73 @@ tags:
   - appliance
   - refrigerator
   - kitchenaid
+money_part: "Ice Maker Thermistor (KitchenAid)"
 most_likely_cause: "Failed ice maker thermistor"
-free_checks:
-  - "Unplug unit 60+ seconds, restore power to clear transient sensor glitch"
-  - "Inspect thermistor connector at ice maker for corrosion, moisture, or loose pins"
-no_buy_pct: "15%"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-money_part: "KitchenAid ice maker thermistor"
-part_price: "$30-80"
+free_checks:
+  - "Power down the refrigerator at the breaker for one minute, then restore power to clear temporary glitches."
+  - "Inspect the ice maker wiring harness connector for corrosion, frost buildup, or loose pins."
+  - "Enter service diagnostic mode and run the ice maker thermistor test to confirm failure or short before ordering parts."
+part_price: "$20-50"
+no_buy_pct: "25%"
 ---
 
 ## KitchenAid Refrigerator E3 Error Code — What It Means
 
-On KitchenAid refrigerators, E3 most commonly indicates an ice maker thermistor fault. The thermistor is a temperature sensor inside the ice maker assembly that tells the control board when conditions are right to harvest ice. When the sensor fails, reads out of range, or has a wiring problem, the control logs an E3 error. KitchenAid's service tech sheet explicitly lists E3 as Thermistor Faulty in the error list for refrigerator diagnostic systems, and service references identify it specifically as an ice maker thermistor fault on models that display ice-maker diagnostic codes.
+The E3 error code on a KitchenAid refrigerator indicates an ice maker thermistor fault. The control board has detected that the resistance reading from the temperature sensor inside the ice maker assembly is outside the acceptable range. This may mean the sensor is reading too high, too low, shorted, or completely open (broken circuit). Unlike general thermistor faults that affect the main compartment, E3 is a sub-code tied specifically to the ice maker module diagnostics. The fault typically appears during an ice maker test cycle such as harvest or fill.
 
-Because KitchenAid uses multiple control platforms across its refrigerator lineup, the exact meaning of E3 can vary by model. Always verify your model number and consult the service tech sheet behind the hinge cover or inside the cabinet before ordering parts. If your display shows F8 E3 instead of plain E3, KitchenAid's consumer troubleshooting instructs you to reset power for one minute and call for service if the code returns.
+The code tells you the control board cannot trust the temperature data from the ice maker sensor. The refrigerator may continue to cool normally, but ice production will stop or behave erratically until the fault is cleared. The sensor itself is a small thermistor embedded in or near the ice maker mold, and it allows the control to monitor the freeze cycle and trigger harvest at the correct temperature.
 
 ## Before You Replace Anything
 
-Many people replace the entire ice maker assembly when only the thermistor or its connector is bad. Inspect the thermistor harness for loose pins, corrosion, or broken wires before buying an ice maker.
+Many people replace the entire ice maker assembly or the main control board when only the thermistor or its connector is bad. Test the thermistor resistance with a multimeter and inspect the wiring harness before ordering expensive modules.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed thermistor (~50%)** The ice maker thermistor itself is open, shorted, or reading out of specification and must be replaced.
-- **Loose or corroded connector (~25%)** The wiring harness plug at the thermistor has corroded pins, poor contact, or is not fully seated.
-- **Damaged harness wiring (~15%)** A wire in the thermistor harness is pinched, broken, or has lost continuity between the sensor and the control board.
-- **Control board input circuit fault (~7%)** The control board's thermistor input circuit is damaged and cannot read a valid signal even when the sensor is good.
-- **Ice maker assembly problem (~3%)** A mechanical or electrical fault in the ice maker assembly prevents valid temperature sensing during the diagnostic sequence.
+- **Malfunctioning ice maker thermistor (~55%)** The sensor has drifted out of range, shorted internally, or opened completely, and the control board reads a resistance that does not match the expected temperature profile.
+- **Loose or corroded wiring connections (~20%)** The harness connector between the thermistor and the control board has corroded pins, loose contacts, or broken wires that interrupt or distort the signal.
+- **Ice maker assembly damage (~15%)** Water intrusion, freezing, or mechanical damage to the ice maker module has damaged the integrated thermistor or its internal traces.
+- **Main control board input circuit defect (~5%)** The control board's thermistor input circuit is faulty and misreads a healthy sensor, though this is uncommon.
+- **Excessive frost or incorrect freezer temperature (~5%)** Heavy frost buildup around the ice maker or an out-of-range freezer temperature causes the sensor to read a value the control interprets as a fault during the cycle.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Does the error disappear for more than a day after unplugging the refrigerator for one minute?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The fault is intermittent, often caused by a loose connector or harness that shifts with vibration. Inspect all ice maker harness connections.<br><strong>No:</strong> The fault is constant, pointing to a failed thermistor or a control board input problem. Proceed with thermistor testing and inspection.</div>
+<details class="dtree"><summary>Does the E3 code reappear immediately after a one-minute power reset?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault is persistent, not a temporary glitch. Proceed to test the thermistor and wiring.<br><strong>No:</strong> The error may have been a one-time event. Monitor the refrigerator through several ice cycles. If it stays clear, no repair is needed.</div>
 </details>
 
-<details class="dtree"><summary>Can you see or feel any loose, corroded, or damaged pins in the thermistor connector?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Clean the connector with contact cleaner, reseat it firmly, and test. If the code returns, replace the thermistor.<br><strong>No:</strong> The harness looks good. Measure the thermistor resistance or replace it if you cannot access test points.</div>
+<details class="dtree"><summary>Can you enter service diagnostics and run the ice maker thermistor test?</summary>
+<div class="dtree-body"><strong>Yes:</strong> If the display shows FAIL or SHORT, the thermistor or wiring is defective. If it shows PASS, the control board input may be at fault or the error was intermittent.<br><strong>No:</strong> Consult your owner's manual for the button sequence to enter diagnostics, or proceed directly to manual resistance testing of the thermistor.</div>
 </details>
 
-<details class="dtree"><summary>After replacing the thermistor, does the E3 code still appear?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The control board's input circuit or the ice maker assembly is faulty. Call a technician to diagnose the board or replace the ice maker.<br><strong>No:</strong> The thermistor was the problem. The repair is complete.</div>
+<details class="dtree"><summary>When you measure thermistor resistance, does the meter read 0Ω (short) or infinite resistance (open)?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The thermistor is failed. Replace it or the ice maker assembly if the sensor is not sold separately.<br><strong>No:</strong> If resistance is in the thousands of ohms and changes slightly with temperature, the sensor may be good. Inspect the wiring harness and connectors for damage or corrosion, then test the control board if all else checks out.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Verify the model number** by checking the label inside the refrigerator cabinet or on the side wall, and confirm that E3 is listed as an ice maker thermistor fault in your model's service documentation.
-2. **Reset power** by unplugging the refrigerator or switching off its circuit breaker for one full minute, then restore power and see whether the E3 code returns immediately or after a few hours.
-3. **Access the ice maker** by removing the ice bin and any cover screws, then locate the thermistor connector on the ice maker assembly or the wire harness leading to it.
-4. **Inspect the thermistor harness and connector** for loose pins, corrosion, broken wires, or pinched insulation, and clean or reseat the connector if any contact issues are visible.
-5. **Measure the thermistor resistance** at the component using a multimeter set to ohms, and compare the reading to the resistance chart in your model's service sheet if available, or replace the thermistor if it reads open, shorted, or wildly out of range for room temperature.
-6. **Replace the ice maker thermistor** by disconnecting the old sensor, installing the new one in the same position, and reconnecting the harness plug firmly.
-7. **Run a test cycle** by entering service diagnostics using your model's key sequence or simply allowing the ice maker to cycle, then check whether the E3 code clears and ice production resumes.
+1. **Disconnect power** at the circuit breaker or unplug the refrigerator. Wait one minute, then restore power to clear temporary faults. If E3 returns, proceed with testing.
+2. **Enter service diagnostic mode** by pressing the Ice Mode and Light buttons simultaneously for three seconds (button combination varies by model, consult your owner's manual). Navigate to the ice maker thermistor test and observe the result. A FAIL or SHORT reading confirms the fault.
+3. **Access the ice maker compartment** by opening the freezer door and removing any shelves or bins that block the ice maker. Locate the wiring harness connector at the back or side of the ice maker module.
+4. **Inspect the connector and wiring** for corrosion, frost, or loose pins. Disconnect the harness and look for water damage or broken wires. Clean any corrosion with electrical contact cleaner and reseat the connector firmly.
+5. **Test thermistor resistance** with a multimeter set to ohms. Disconnect the thermistor leads at the ice maker connector and measure across the two terminals. At typical freezer temperatures, expect resistance in the thousands of ohms. A reading of 0Ω indicates a short, and infinite resistance indicates an open circuit. Either condition means the thermistor is failed.
+6. **Replace the thermistor or ice maker module** if the sensor is defective. On some models the thermistor is a separate part you can order and swap. On others it is integrated into the ice maker assembly and you must replace the entire module. Follow the removal instructions in your service manual, disconnect the wiring and mounting screws, install the new part, and reconnect.
+7. **Restore power and test** by running the ice maker through a manual harvest cycle in diagnostic mode or by waiting for the next automatic cycle. Verify the E3 code does not return and ice production resumes normally.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| KitchenAid ice maker thermistor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kitchenaid-refrigerator-e3-error-code&k=KitchenAid+ice+maker+thermistor&tag=errorcodefixes-20) \| Match to your refrigerator model number; often sold as part of a sensor kit. |
-| Ice maker wiring harness | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kitchenaid-refrigerator-e3-error-code&k=Ice+maker+wiring+harness&tag=errorcodefixes-20) \| Order if the existing harness has broken conductors or damaged connectors. |
+| Ice Maker Thermistor (KitchenAid) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kitchenaid-refrigerator-e3-error-code&k=Ice+Maker+Thermistor+%28KitchenAid%29&tag=errorcodefixes-20) \| Order by model number; some units integrate the sensor into the ice maker module and require full assembly replacement. |
+| Ice Maker Assembly (KitchenAid) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-kitchenaid-refrigerator-e3-error-code&k=Ice+Maker+Assembly+%28KitchenAid%29&tag=errorcodefixes-20) \| Complete module with integrated thermistor, mold, and motor; necessary when the thermistor is not sold separately or the assembly is damaged. |
 
 ## When to Call a Pro
 
-Call a technician if the E3 code persists after you have replaced the thermistor and confirmed the harness has good continuity. At that point the control board's input circuit or the ice maker assembly itself is likely faulty, and both require diagnostic tools and experience to condemn correctly. Also call for service if your model displays F8 E3 and you are not comfortable entering service diagnostics, or if you cannot locate the thermistor because your ice maker design is unfamiliar. A pro can pull the correct service sheet for your platform, run the full diagnostic sequence, and replace only the component that has actually failed.
+Call a professional if you are uncomfortable working with electrical connections or removing the ice maker assembly. A technician has the tools to perform precise resistance measurements, access manufacturer diagnostic software, and safely test the control board input circuits. If you have replaced the thermistor and cleaned all connections but the E3 code persists, the main control board may have a defective input circuit that requires board-level repair or replacement. Pros can also verify proper freezer temperature and airflow, which occasionally contribute to sensor faults. If your refrigerator is still under warranty, contact KitchenAid or an authorized service center before attempting any repair.
 
-**Rough cost:** DIY runs about $30–80 in parts, 30–60 min. A pro service call runs about $150–280.
+**Rough cost:** DIY runs about $30-80 in parts, 45-90 min. A pro service call runs about $150-300.

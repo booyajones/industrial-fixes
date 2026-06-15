@@ -1,8 +1,8 @@
 ---
 title: "Frigidaire Range F92 Error Code - Causes & Fix"
-description: "F92 is a door lock issue on Frigidaire electric ranges. Most often a control glitch or stuck lock state that clears with a 30-second power reset."
-pubDatetime: 2026-06-08T06:06:37Z
-modDatetime: 2026-06-08T06:06:37Z
+description: "F92 means maximum oven door open time exceeded. Door lock motor or latch is stuck. Most cases need a new door lock assembly."
+pubDatetime: 2026-06-13T05:38:51Z
+modDatetime: 2026-06-13T05:38:51Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,74 +10,72 @@ tags:
   - appliance
   - oven
   - frigidaire
-most_likely_cause: "transient control glitch or latched lock state"
-free_checks:
-  - "Power-cycle the range at breaker for 3 minutes to reset control board"
-  - "Inspect door lock assembly wiring harness for loose or corroded connectors at control board"
-no_buy_pct: "10%"
+money_part: "Door lock assembly (motor and latch)"
+most_likely_cause: "Failed door lock motor or latch motor"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-money_part: "Frigidaire oven door lock assembly / motor"
-part_price: "$50-150"
+free_checks:
+  - "Power-cycle the range (flip breaker or unplug for 30 seconds) to clear temporary glitches."
+  - "Inspect the door latch for debris, bent metal, or visible damage that would prevent smooth travel."
+  - "Open and close the door manually to confirm the latch moves freely and engages the strike plate."
+part_price: "$45-90"
 ---
 
 ## Frigidaire Range F92 Error Code — What It Means
 
-Frigidaire identifies F92 as a door lock issue on electric ranges. This code belongs to a family of lock-related faults (F90, F91, F92, F93, F94) that signal the control board cannot complete or verify a lock or unlock cycle. The oven may be stuck in a locked state, the lock motor may have failed to respond, or the control system may have latched a false error after a power event or software glitch.
+The F92 error code means the oven's control system detected that the door lock mechanism remained in the open position for longer than the factory-preset safety limit (typically 120 seconds or 2 minutes). The code triggers when the system fails to confirm that the door has fully locked when a self-clean or lockout cycle is initiated, or when the latch does not return to the unlocked position within the allowed time. F92 is part of a family of door lock codes (F90 through F94) that all signal different timeout or failure conditions in the latch assembly.
 
-Frigidaire's first recommended step is a power reset, which clears many transient lock-state errors. If the code returns after the reset, the underlying cause is usually a failed door lock assembly, damaged wiring between the control board and the lock motor, or a defective relay or control board that cannot drive the lock mechanism correctly.
+This code does not mean the door is physically ajar. It means the electronic lock cannot complete its cycle. The control board sends power to the door lock motor to move the metal latch into the locked position, and a microswitch signals back to confirm the lock is engaged. If the board never receives that confirmation signal within the timeout window, it throws F92 and halts the oven cycle for safety.
 
 ## Before You Replace Anything
 
-Homeowners often replace the control board first. Before ordering a new board, inspect the wiring harness to the door lock assembly for loose or broken connections and test the lock motor for continuity (about 2,000 ohms across the motor terminals). A failed lock motor is less expensive and more common than a bad control board.
+Many homeowners replace the main control board first, assuming an electronics fault. Always test the door lock motor resistance with a multimeter and inspect the latch for physical jams before swapping the board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Transient control glitch or latched lock state (~40%)** A momentary power event or software fault causes the control to log a false lock error that persists until power is cycled.
-- **Failed door lock assembly or motor (~30%)** The lock motor windings are open, shorted, or mechanically jammed so the motor cannot complete the lock or unlock cycle.
-- **Loose, broken, or corroded wiring harness (~15%)** Conductors between the control board (or relay board) and the door lock assembly are damaged, loose, or corroded, preventing voltage from reaching the motor.
-- **Defective oven relay board or control board (~10%)** The relay board or main control board fails to output the correct voltage to drive the lock motor, or it sends a continuous signal that holds the lock in one state.
-- **Range left in lock mode by user (~5%)** The oven lock feature was activated intentionally or accidentally and needs to be canceled from the control panel.
+- **Failed door lock motor (latch motor) (~45%)** The motor that physically moves the latch is worn out, has broken windings, or is internally stuck, preventing it from pulling the latch into the locked position or releasing it completely.
+- **Obstructed or broken latch mechanism (~25%)** The metal latch hook is bent, jammed by debris, or the linkage connecting the motor to the latch is broken, preventing smooth movement.
+- **Faulty door lock switch (microswitch) (~15%)** The switch that tells the control board the door is locked or unlocked is stuck open, shorted, or has lost contact, so the board never receives the confirmation signal and times out.
+- **Wiring harness issues (~10%)** Broken wires, frayed connectors, or corroded terminals between the door lock motor, the microswitch, and the main control board prevent proper signal transmission.
+- **Control board (ERC/main board) failure (~5%)** The logic board may be sending incorrect voltage to the motor or failing to read the microswitch signal correctly due to a failed relay or damaged component on the board.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Does the error clear and stay off after you disconnect power for 30 seconds and restore it?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The fault was a transient control glitch. Monitor the range over the next few cycles. If F92 does not return, no parts are needed.<br><strong>No:</strong> The fault is persistent. Move to the next check to isolate the lock assembly or wiring.</div>
+<details class="dtree"><summary>Does the latch move smoothly by hand when you open and close the door?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The mechanical linkage is likely intact. The problem is electrical (motor, switch, or wiring). Proceed to multimeter testing of the motor and switch.<br><strong>No:</strong> The latch is obstructed or broken. Remove the door or inner panel to inspect the latch assembly for bent parts, debris, or broken linkage before testing electrical components.</div>
 </details>
 
-<details class="dtree"><summary>Is the control panel showing a lock icon or does the oven door feel physically locked?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Cancel the lock feature using your model's unlock procedure (typically press and hold a lock or cancel button). If F92 persists after unlock, the lock assembly or control may be faulty.<br><strong>No:</strong> The lock mechanism itself is likely stuck or the lock motor or wiring has failed. Proceed to inspect the lock assembly and harness.</div>
+<details class="dtree"><summary>After a power reset (30 seconds unplugged), does the F92 code return immediately when you start a self-clean cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault is persistent hardware (motor, switch, or board). Begin resistance testing of the motor and switch.<br><strong>No:</strong> The code may have been a temporary glitch or a one-time event. Monitor the oven for a few cycles. If it does not return, no repair is needed.</div>
 </details>
 
-<details class="dtree"><summary>When you command a lock or unlock cycle, do you hear the lock motor run?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The motor is receiving power but may be mechanically jammed or the position sensor is faulty. Inspect the door lock assembly for obstructions or replace it.<br><strong>No:</strong> No motor sound means either no voltage is reaching the lock motor (check wiring and relay board) or the motor itself is open (measure resistance across motor terminals, should be about 2,000 ohms).</div>
+<details class="dtree"><summary>When you measure resistance across the door lock motor terminals, do you get a reading between 200 and 400 Ohms?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The motor windings are intact. Check the microswitch and wiring harness for continuity. If those pass, suspect the control board.<br><strong>No:</strong> A reading of 0 Ohms (short) or infinite/OL (open windings) confirms a failed motor. Replace the door lock assembly.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Disconnect power at the circuit breaker** and wait 30 seconds. Restore power and observe whether F92 clears. Frigidaire recommends this reset as the first troubleshooting step for all F9x lock codes.
-2. **Check the control panel lock status.** If a lock icon is displayed or the oven door is physically locked, press and hold the lock or cancel button (consult your model's owner manual for the exact sequence) to unlock the oven. Wait a moment to see if the code clears.
-3. **If F92 returns, disconnect power again and remove the back or bottom access panel** to expose the oven door lock assembly and wiring harness. Locate the lock motor, which is typically mounted near the top of the door frame and connected by a two- or three-wire harness to the relay board or main control.
-4. **Inspect the wiring harness** for loose, broken, or corroded spade terminals and connectors. Push each connector firmly onto its terminal and look for charring or discoloration. Repair or replace any damaged wiring before proceeding.
-5. **Measure resistance across the lock motor terminals** with a multimeter set to ohms. A healthy motor will read about 2,000 ohms. An open circuit (infinite ohms) or a near-short (very low resistance) indicates a failed lock assembly that should be replaced.
-6. **Restore power and command a lock cycle** (usually by pressing a lock button or starting a self-clean cycle). Use a voltmeter to check for 120 VAC at the motor terminals when the lock is commanded. If 120 VAC is present but the motor does not move, replace the door lock assembly. If no voltage appears, the fault is in the relay board or main control board.
-7. **Replace the failed component** (lock assembly, relay board, or control board as diagnosed), reassemble all panels, restore power, and verify that F92 does not return and that the door completes a full lock and unlock cycle without error.
+1. **Disconnect power** to the range by unplugging it or flipping the circuit breaker off. Wait 30 seconds, then restore power and test if the code clears.
+2. **Open the oven door** and manually inspect the latch assembly. Look for bent metal, debris in the latch track, or broken linkage. Clean any obstructions and confirm the latch slides freely.
+3. **Remove the oven door** (if needed for access) by opening it fully, releasing the hinge locks, and lifting straight up. Set it aside on a protected surface.
+4. **Access the door lock assembly** by removing the inner door panel or top control panel (consult your model's service manual for screw locations). Disconnect the wire harness from the motor and microswitch.
+5. **Test the door lock motor** with a multimeter set to resistance (Ohms). Measure across the motor terminals. A healthy motor typically reads 200 to 400 Ohms. A reading of 0 Ohms (short) or infinite/OL (open) means the motor is failed.
+6. **Test the door lock microswitch** for continuity. The switch should show continuity (closed circuit) in one position and open circuit in the other as you manually move the latch. No change indicates a stuck or failed switch.
+7. **Replace the door lock assembly** if the motor or switch is defective. Install the new assembly, reconnect the wire harness, and reassemble the door or panel. Restore power and run a test cycle to confirm the code is cleared.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Frigidaire oven door lock assembly / motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-range-f92-error-code&k=Frigidaire+oven+door+lock+assembly+%2F+motor&tag=errorcodefixes-20) \| Match the part number to your model's wiring diagram or service label. Common for ranges with self-clean. |
-| Frigidaire oven relay board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-range-f92-error-code&k=Frigidaire+oven+relay+board&tag=errorcodefixes-20) \| Supplies lock motor drive signals. Located behind the control panel or rear panel depending on model. |
-| Frigidaire range main control board / user interface | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-range-f92-error-code&k=Frigidaire+range+main+control+board+%2F+user+interface&tag=errorcodefixes-20) \| Replace only if diagnostics confirm no output to the relay board and the relay board itself is good. |
-| Wiring harness (control to lock assembly) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-range-f92-error-code&k=Wiring+harness+%28control+to+lock+assembly%29&tag=errorcodefixes-20) \| Typically sold as a repair kit if individual conductors are damaged or corroded. |
+| Door lock assembly (motor and latch) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-range-f92-error-code&k=Door+lock+assembly+%28motor+and+latch%29&tag=errorcodefixes-20) \| Verify your model number on the Frigidaire parts site. Many assemblies include motor, latch, and microswitch as one unit. |
+| Door lock microswitch | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-range-f92-error-code&k=Door+lock+microswitch&tag=errorcodefixes-20) \| Available separately on some models if the motor tests good and only the switch is faulty. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if you are not comfortable working with 120 VAC circuits, if you cannot identify which board or harness is at fault after basic checks, or if the range is still under warranty. A technician will have the service manual, meter skills, and replacement boards on hand to complete the diagnosis in one visit. Professional service is also recommended if the door lock assembly is difficult to reach (for example, requiring removal of the oven cavity or heavy lifting), or if multiple error codes appear together, suggesting a more complex control-board failure that needs specialized troubleshooting.
+Call a professional if you are uncomfortable working with live voltage testing or disassembling the oven door and control panels. A technician has the wiring diagrams and can quickly isolate whether the fault is in the lock assembly, the harness, or the main control board. Also call a pro if you have replaced the door lock assembly and the F92 code persists, since that points to a control board or wiring fault that requires trace-level diagnostics and possibly a board swap under warranty.
 
-**Rough cost:** DIY runs about $50–150 in parts, 30–90 min. A pro service call runs about $150–300.
+**Rough cost:** DIY runs about $50-120 in parts, 45-90 min. A pro service call runs about $150-300.
