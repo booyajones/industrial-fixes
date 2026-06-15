@@ -1,84 +1,84 @@
 ---
 title: "Frigidaire i30 Error Code - Causes & Fix"
-description: "i30 means water detected in the base pan (leak or anti-flood triggered). Most common fix: dry the base pan and find the leak source."
-pubDatetime: 2026-06-08T22:28:46Z
-modDatetime: 2026-06-08T22:28:46Z
+description: "i30 means water leaked into the base pan under your Frigidaire dishwasher. Most common fix: dry the pan, find and seal the leak."
+pubDatetime: 2026-06-13T14:49:24Z
+modDatetime: 2026-06-13T14:49:24Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - frigidaire
-most_likely_cause: "water in the base pan from a leak"
-free_checks:
-  - "Check home water supply valve is fully open and inlet hose has no kinks or clogs at screen filter inside valve connection"
-  - "Verify dishwasher door closes completely and latch engages properly"
-  - "Test water pressure at nearby sink (minimum 20 psi required)"
-no_buy_pct: "30%"
+money_part: "Dishwasher door gasket (Frigidaire)"
+most_likely_cause: "water leaked into the base pan from a hose, seal, or oversudsing event"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-money_part: "Inlet valve (water fill valve)"
-part_price: "$15-80"
+free_checks:
+  - "Pull the dishwasher forward and check the base pan for standing water; dry it with a shop vac or towels so the float can drop."
+  - "Open the door and inspect the tub for excessive suds, standing water, or debris in the filter and sump."
+  - "Check that you are using the correct low-sudsing dishwasher detergent and not overloading the dispenser."
+part_price: "$15-50"
+no_buy_pct: "60%"
 ---
 
 ## Frigidaire i30 Error Code — What It Means
 
-The i30 code on Frigidaire dishwashers indicates the machine has detected water in the base pan or leak tray. The anti-flood or leak-detection system has been triggered by water collecting in the base of the unit. When the float or leak switch activates, the dishwasher stops the cycle to prevent flooding your kitchen.
+The i30 code on Frigidaire dishwashers signals that water has been detected in the leak pan (overflow pan) beneath the tub. A float or leak sensor in that base pan has lifted or tripped, putting the machine into a protective state. You will often hear the drain pump running continuously when this code is active. This is a leak-detection event, not a drain fault by itself. The machine is telling you that water escaped from somewhere in the system and collected under the tub.
 
-This is a leak-detection fault, not a simple drain problem. The dishwasher believes there is an active leak or overflow condition. Water may come from a leaking door gasket, a loose supply line, internal hose or pump seals, or from foam overflow caused by too much detergent or the wrong detergent type. Until the water is removed from the base pan and the leak source is repaired, the i30 code will persist.
+The code can come from an actual mechanical leak (a loose hose, worn seal, or cracked pump housing), from oversudsing that pushes water out of the tub, from a door gasket that no longer seals, or even from a one-time spill that filled the pan without an ongoing problem. If i30 appears together with i20, a clogged drain or standing water in the tub may be contributing to overflow. The key diagnostic step is to pull the machine out, inspect the base pan for water, dry it completely so the float drops, then trace the source of the leak before running another cycle.
 
 ## Before You Replace Anything
 
-Many people replace the drain pump first, thinking i30 is a drain fault. Before ordering parts, tilt the dishwasher or remove the toe kick to check for standing water in the base pan and inspect visible hoses, clamps, and the door gasket for signs of leaking.
+Many people replace the main control board or drain pump thinking i30 is an electronics or drainage fault. The real cause is almost always water in the base pan. Pull the machine out, inspect the pan and connections, and dry it before replacing any parts.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Water in the base pan (~40%)** An actual leak from any component collects in the base tray and triggers the float or leak switch, stopping the cycle.
-- **Door gasket leak (~25%)** A worn, torn, or improperly seated door seal allows water to escape during the wash cycle and drip into the base.
-- **Foam overflow (~15%)** Too much detergent or the wrong type (especially hand-dish soap) creates excessive suds that overflow the tub and enter the base pan.
-- **Internal hose or clamp leak (~12%)** Loose hose clamps, cracked hoses, or failed sump or pump seals let water drip into the base during operation.
-- **Supply-line or inlet-valve leak (~5%)** A loose connection at the water supply or an inlet valve that does not close fully can drip water into the base even when the dishwasher is off.
-- **Stuck or failed leak switch (~3%)** The base float or leak sensor itself can stick in the triggered position or fail, falsely reporting water when the pan is dry.
+- **Water in the base pan from a hose or connection leak (~35%)** A loose clamp, cracked inlet hose, or drain hose connection can drip into the base pan and trip the float sensor.
+- **Oversudsing from too much or wrong detergent (~25%)** Excess suds push water out of the tub area and into the leak pan, triggering i30 even when there is no mechanical leak.
+- **Worn or damaged door gasket (~20%)** If the door seal is torn, misaligned, or clogged with debris, water escapes during the wash and collects underneath.
+- **Pump or pump-housing seal leak (~10%)** A crack or failed seal at the circulation pump or drain pump allows water to drip into the base pan.
+- **One-time spill or tub overflow (~10%)** A blocked sump or drain filter can cause the tub to overflow once, filling the pan without an ongoing leak.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Is there visible standing water in the base pan when you tilt the dishwasher or remove the toe kick?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Water is present. Dry the pan, restore power, and watch closely during a test cycle to identify where the leak originates (door, hose, pump, or supply line).<br><strong>No:</strong> The pan is dry. The leak switch may be stuck or there was a one-time overflow. Reset the dishwasher and run a short test cycle. If i30 returns immediately, inspect the float mechanism and leak switch for free movement or continuity.</div>
+<details class="dtree"><summary>Is there standing water or excessive suds visible in the tub?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Clean the filter and sump, check for i20 drain blockage, and verify you are using low-sudsing dishwasher detergent before inspecting the base pan.<br><strong>No:</strong> Pull the machine forward and inspect the base pan for water; if dry, the float may be stuck up or the sensor is faulty.</div>
 </details>
 
-<details class="dtree"><summary>Do you see excessive suds or foam in the tub when you open the door?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Foam overflow is the likely cause. Stop using too much detergent or any hand-dish soap, run rinse cycles to clear residue, then retest.<br><strong>No:</strong> Detergent is not the issue. Inspect all internal hoses, clamps, the door gasket, and the sump area for wet spots or drips.</div>
+<details class="dtree"><summary>Does the drain pump run continuously even when the tub is empty?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Water is likely in the base pan; dry it completely to allow the float to drop and the pump to stop.<br><strong>No:</strong> The code may have been triggered by a one-time event; clear the code and run a short cycle to see if it returns.</div>
 </details>
 
-<details class="dtree"><summary>Does the i30 code clear after unplugging the dishwasher for 5-10 minutes and drying the base pan?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The code was triggered by a past leak or transient overflow. Monitor the next few cycles for recurrence and check for slow drips at hoses and the door seal.<br><strong>No:</strong> The leak switch remains triggered. Either water is still present in a hidden pocket of the base, or the float or sensor is stuck or faulty. Inspect and test the leak-switch assembly.</div>
+<details class="dtree"><summary>Can you see or feel dampness around the door seal, hose connections, or lower pump area?</summary>
+<div class="dtree-body"><strong>Yes:</strong> That is your leak point; tighten clamps, replace the leaking hose or gasket, then dry the pan and test.<br><strong>No:</strong> The leak may be internal or intermittent; inspect the base pan and all lower fittings with the machine pulled out and the lower insulation removed.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Stop the cycle and shut off water.** Press Cancel to halt the dishwasher, turn off the water supply valve under the sink, and unplug the unit if water is visible or the pump continues running.
-2. **Access and dry the base pan.** Remove the toe-kick panel at the bottom front of the dishwasher and use towels to soak up any standing water. If needed, carefully tilt the dishwasher backward (with help) to drain trapped water from the leak tray.
-3. **Reset the dishwasher.** After the base is completely dry, plug the unit back in and press Start or Cancel to clear the i30 code. Wait a few minutes to see if the code reappears on its own.
-4. **Inspect for active leaks.** Run a short rinse or test cycle while watching the door gasket, supply line, drain hose connections, hose clamps, and sump area for drips or wet spots. Use a flashlight and check beneath the unit if accessible.
-5. **Check for foam or detergent issues.** Open the door mid-cycle and look for excessive suds. If foam is present, stop the cycle, scoop out suds, run a rinse-only cycle, and verify you are using the correct type and amount of dishwasher detergent.
-6. **Test the leak switch.** Locate the base float or leak-sensor assembly (often a small white or clear plastic float in the base pan). Press it down and release it to confirm it moves freely. If it is stuck or the i30 persists with a dry pan, test the switch for continuity or replace it.
-7. **Run a controlled diagnostic cycle.** After repair, start a full wash cycle and inspect closely for the first 10-15 minutes. Watch all suspected leak points. If the cycle completes without error and no new water appears in the base, the repair is successful.
+1. **Turn off power** at the circuit breaker and shut off the water supply valve under the sink before moving the dishwasher.
+2. **Check for related codes** by pressing the control panel buttons (consult your model's manual); if i20 also appears, address drainage and filter blockage first.
+3. **Open the dishwasher door** and remove the lower rack, then pull out the filter assembly and inspect the sump for debris, standing water, or excessive suds.
+4. **Pull the dishwasher forward** far enough to access the base pan underneath; you may need to remove lower kick-plate panels or side insulation to see the pan clearly.
+5. **Inspect the base pan** for standing water and use a shop vacuum or towels to dry it completely so the styrofoam float can drop back down.
+6. **Trace the leak source** by checking the inlet hose connection, drain hose connection, door gasket, pump area, and all visible clamps and fittings for dampness or drips.
+7. **Repair or replace** the leaking component (tighten a loose clamp, swap a cracked hose, replace a torn door seal, or reseat a pump connection), then reassemble the machine.
+8. **Restore power and water**, run a short rinse cycle, and confirm the i30 code clears and the drain pump stops running continuously.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Base leak switch or anti-flood sensor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dishwasher-i30-error-code&k=Base+leak+switch+or+anti-flood+sensor&tag=errorcodefixes-20) \| Confirm your model number to order the correct float and switch assembly for the base pan. |
-| Door gasket | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dishwasher-i30-error-code&k=Door+gasket&tag=errorcodefixes-20) \| Measure the old gasket or check your dishwasher's parts diagram for the exact replacement seal. |
-| Hose clamps and internal hoses | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dishwasher-i30-error-code&k=Hose+clamps+and+internal+hoses&tag=errorcodefixes-20) \| Replace any cracked or brittle hoses and loose stainless or spring clamps at the sump, pump, or drain connections. |
-| Water inlet valve | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dishwasher-i30-error-code&k=Water+inlet+valve&tag=errorcodefixes-20) \| Order by model number if the valve is leaking or not closing fully after the fill cycle. |
+| Dishwasher door gasket (Frigidaire) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dishwasher-i30-error-code&k=Dishwasher+door+gasket+%28Frigidaire%29&tag=errorcodefixes-20) \| Match your exact model number; check the seal for tears, cracks, or misalignment. |
+| Dishwasher inlet hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dishwasher-i30-error-code&k=Dishwasher+inlet+hose&tag=errorcodefixes-20) \| Universal or OEM; replace if cracked or leaking at the connection. |
+| Drain hose or hose clamps | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dishwasher-i30-error-code&k=Drain+hose+or+hose+clamps&tag=errorcodefixes-20) \| Stainless clamps and reinforced drain hose; make sure the drain hose is routed at least 32 inches high per Frigidaire spec. |
+| Leak sensor / float assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-dishwasher-i30-error-code&k=Leak+sensor+%2F+float+assembly&tag=errorcodefixes-20) \| Only if the float is damaged or the sensor is stuck; rare cause unless the pan is dry and the code persists. |
 
 ## When to Call a Pro
 
-Call a professional if you cannot locate the leak source after inspecting all visible hoses, the door gasket, and the supply line, or if water reappears in the base pan within minutes of drying it with no obvious drip. A technician can perform a pressure test of the sump and pump seals, access internal components that require disassembly of the tub or base, and test the leak-switch circuit with a multimeter. Also call if you are uncomfortable working around water and electrical connections, or if the dishwasher is still under warranty and you want factory-authorized service.
+Call a technician if you have dried the base pan and inspected all accessible hoses and seals but cannot locate the leak, if the leak is coming from inside the pump housing or tub weldment and requires disassembly of the lower hydraulic components, or if the i30 code returns immediately after drying the pan with no visible water source. A pro can pull the full lower assembly, pressure-test connections, and replace internal seals or the circulation pump. Also call if you are uncomfortable disconnecting water and electrical lines or moving the dishwasher out of the cabinet space.
 
-**Rough cost:** DIY runs about $15-80 in parts (gasket, clamps, or leak switch), 45-90 min. A pro service call runs about $150-250 service call plus parts.
+**Rough cost:** DIY runs about $10-80 in parts (hose clamp, door gasket, or inlet hose), 45-90 min. A pro service call runs about $150-300.

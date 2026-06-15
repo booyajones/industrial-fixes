@@ -1,8 +1,8 @@
 ---
 title: "Frigidaire Range F8 Error Code - Causes & Fix"
-description: "F8 on a Frigidaire range signals a door lock/latch fault. Most often the door latch assembly has failed or is stuck after a self-clean cycle."
-pubDatetime: 2026-06-08T06:05:37Z
-modDatetime: 2026-06-08T06:05:37Z
+description: "F8 means a door lock or latch fault. Most often the door latch assembly has failed or is stuck and needs replacement."
+pubDatetime: 2026-06-13T14:37:57Z
+modDatetime: 2026-06-13T14:37:57Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,74 +10,72 @@ tags:
   - appliance
   - oven
   - frigidaire
-most_likely_cause: "Failed or stuck door latch/lock assembly"
-free_checks:
-  - "Power cycle at breaker for 3 minutes to reset door lock module"
-  - "Check door latch strike alignment and clean latch mechanism of grease/debris"
-  - "Inspect wiring harness connector at door lock assembly for looseness or corrosion"
-no_buy_pct: "15%"
+money_part: "Door latch assembly"
+most_likely_cause: "failed door latch assembly"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-money_part: "Door latch/lock assembly"
-part_price: "$40-80"
+free_checks:
+  - "Disconnect power at the breaker for 2–3 minutes, then restore and check if the code clears."
+  - "Manually inspect the door latch for obstructions, debris, or binding in the lock strike and blade."
+part_price: "$50–120"
 ---
 
 ## Frigidaire Range F8 Error Code — What It Means
 
-The F8 error code on a Frigidaire range indicates the electronic oven control has detected a problem with the door lock system. This system locks the oven door during self-clean cycles and includes the latch mechanism, lock motor, door switches, and the wiring that connects them. The control board is reporting that the lock cannot complete its cycle, the latch is stuck in one position, or a lock switch is reading an incorrect state.
+On Frigidaire ranges the F8 error code signals a door lock or latch problem. The electronic control detects that the oven door lock mechanism is not operating correctly. It may believe the door is locked when it should be unlocked, or that the latch is not transitioning properly during a self-clean cycle or unlock command.
 
-Because Frigidaire uses multiple control platforms across its range models, the exact symptom can vary. You may see F8 at the end of a self-clean cycle when the door refuses to unlock, or the code may appear when the control tries to lock the door at the start of a clean cycle. In either case, the root issue is a fault in the door lock circuit rather than a temperature or sensor problem.
+The fault typically points to the door latch assembly itself, a stuck or obstructed lock mechanism, a failed door switch in the lock circuit, damaged wiring or connectors, or a control board that cannot correctly drive or read the lock position. Because the code is tied to the lock hardware rather than temperature sensors or heating elements, the repair usually centers on the mechanical latch assembly and its associated switches.
 
 ## Before You Replace Anything
 
-Many owners replace the electronic oven control board first, spending $150–300, when a simple visual check of the latch mechanism for binding or a continuity test of the lock motor usually identifies a $40 latch assembly as the real culprit.
+Many people replace the main control board first, but a stuck or defective door latch assembly causes most F8 codes. Inspect the lock mechanism and test the latch switch before condemning the board.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Failed door latch/lock assembly (~50%)** The latch motor or mechanical linkage inside the assembly wears out or seizes, especially after repeated high-heat self-clean cycles.
-- **Stuck or mispositioned latch (~25%)** Heat expansion or debris causes the latch arm to bind in the locked or unlocked position, and the control reads a timeout or mismatch.
-- **Open or shorted wiring to the lock assembly (~15%)** Harness connectors at the back of the range loosen from vibration, or wires near the oven cavity suffer heat damage and lose continuity.
-- **Faulty door lock switch or micro-switch (~8%)** A door-position switch inside the latch assembly fails to change state when the latch moves, so the control thinks the door is not locked or unlocked.
-- **Failed electronic oven control board (~2%)** If all lock hardware and wiring test good, the control board itself may have a failed relay or logic circuit that drives the lock motor.
+- **Failed door latch assembly (~60%)** The motor, switch, or mechanical parts inside the latch unit wear out or seize, preventing the control from sensing or completing lock cycles.
+- **Stuck or obstructed lock mechanism (~20%)** Food debris, grease buildup, or a bent latch blade stops the lock from moving freely, triggering a lock-state fault.
+- **Bad door switch or lock switch (~10%)** The switch that reports latch position to the control fails open or closed, sending an incorrect lock signal.
+- **Damaged wiring or connectors (~5%)** Broken wires, burned terminals, or loose plugs in the lock circuit interrupt communication between the latch assembly and the control board.
+- **Faulty electronic oven control (~5%)** If the latch hardware and wiring test good, the main control may have a failed relay or lock-drive circuit that cannot properly cycle the lock.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Does the door latch move freely by hand when you gently push or pull the latch arm (with power off)?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The mechanical linkage is not binding. Focus testing on the lock motor continuity and wiring connections at the latch assembly.<br><strong>No:</strong> The latch is stuck. Inspect for bent parts, debris in the strike, or a warped door frame. Free the latch or replace the assembly.</div>
+<details class="dtree"><summary>Does the code clear after a 2–3 minute power reset and stay off?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The fault was transient. Monitor the range during the next self-clean or lock cycle to see if it returns.<br><strong>No:</strong> The control sees a persistent lock-circuit problem. Continue diagnosis of the latch and wiring.</div>
 </details>
 
-<details class="dtree"><summary>Did the F8 code appear immediately after or during a self-clean cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Heat often causes the latch to bind or a switch to fail. Power-cycle the range and check the latch for free movement. If it moves freely, test the lock motor.<br><strong>No:</strong> The fault may be intermittent wiring or a failing lock motor. Inspect the harness connectors and run a continuity test on the motor coil.</div>
+<details class="dtree"><summary>Can you manually move the door latch blade freely without binding or obstruction?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The mechanical path is clear. Proceed to test the latch assembly and lock switch for continuity and correct operation.<br><strong>No:</strong> Clean or remove the obstruction, then check if the latch moves smoothly. If it remains stuck, replace the latch assembly.</div>
 </details>
 
-<details class="dtree"><summary>After you power-cycle the range at the breaker for two minutes, does the F8 code return as soon as you turn the oven on?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The fault is persistent. The latch assembly or its wiring is the likely cause. Verify continuity and replace the assembly if the motor or switches are open.<br><strong>No:</strong> The fault may be a loose connector that re-seated during the power-off. Monitor for recurrence and inspect all lock-circuit connectors for secure fit.</div>
+<details class="dtree"><summary>With power off, do the wiring harness connectors at the latch assembly seat firmly and show no burn marks or corrosion?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Wiring is intact. The latch assembly or control board is likely at fault. Replace the latch assembly first.<br><strong>No:</strong> Repair or replace the damaged wiring harness and connectors, then retest.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Turn off power** at the circuit breaker and confirm zero voltage at the range terminal block before touching any internal components.
-2. **Pull the range forward** and remove the rear access panel or cooktop (consult your model's service manual for the specific path to the door latch assembly).
-3. **Locate the door latch/lock assembly** at the top front of the oven cavity and inspect the latch arm for free movement, bent parts, or debris in the strike plate.
-4. **Disconnect the wiring harness** from the lock assembly and use a multimeter to test continuity across the lock motor terminals (typically two wires). A good motor shows low resistance (a few ohms). Also check each door switch for continuity change when you manually move the latch.
-5. **Inspect all wiring and connectors** between the lock assembly and the main control board for heat damage, loose pins, or broken insulation. Repair or replace any damaged harness sections.
-6. **Reconnect power and observe** the latch operation while the oven attempts a lock cycle (or press the door-lock pad if your model has one). If the motor hums but the latch does not move, the gearbox inside the assembly is stripped.
-7. **Replace the door latch/lock assembly** if the motor or switches test open, the latch binds, or the motor hums without movement. If the new assembly still triggers F8 and all wiring is sound, replace the electronic oven control board.
+1. **Disconnect power** at the circuit breaker or unplug the range and wait 2–3 minutes to reset the control, then restore power and check if F8 returns.
+2. **Open the oven door** and locate the door latch assembly, usually mounted at the top corner of the door frame or near the control panel on the front frame.
+3. **Inspect the latch mechanism** for obstructions, grease, or debris that would prevent free movement, and clean any buildup with a degreaser and soft brush.
+4. **Check wiring and connectors** at the latch assembly for loose plugs, broken wires, burned terminals, or corrosion, and repair or replace as needed.
+5. **Test the door latch assembly** by disconnecting its harness and using a multimeter to check switch continuity through the lock and unlock positions, or replace the assembly if it does not operate smoothly or the switch does not change state.
+6. **Reinstall or replace the latch assembly**, reconnect the harness, restore power, and run a lock cycle or self-clean initiation to verify the F8 code does not return.
+7. **Replace the electronic oven control** only if the latch assembly and wiring are confirmed good, the lock mechanism moves freely, and the code persists after all other checks.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Door latch/lock assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-range-f8-error-code&k=Door+latch%2Flock+assembly&tag=errorcodefixes-20) \| Includes motor, switches, and linkage. Verify the part number against your exact model and serial. One common Frigidaire assembly is AP2128406. |
-| Wiring harness (oven door lock circuit) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-range-f8-error-code&k=Wiring+harness+%28oven+door+lock+circuit%29&tag=errorcodefixes-20) \| Order if you find melted or broken wires between the control and lock assembly. Confirm harness length and connector type for your model. |
-| Electronic oven control board (EOC/ERC) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-range-f8-error-code&k=Electronic+oven+control+board+%28EOC%2FERC%29&tag=errorcodefixes-20) \| Replace only after confirming the latch assembly and all wiring test good. Match the board part number to your model exactly. |
+| Door latch assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-range-f8-error-code&k=Door+latch+assembly&tag=errorcodefixes-20) \| Match your Frigidaire model number; includes motor, lock mechanism, and position switch. |
+| Wiring harness (door lock circuit) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-range-f8-error-code&k=Wiring+harness+%28door+lock+circuit%29&tag=errorcodefixes-20) \| Order if connectors or wires are melted, cut, or corroded beyond repair. |
+| Electronic oven control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-range-f8-error-code&k=Electronic+oven+control+board&tag=errorcodefixes-20) \| Replace only after confirming the latch assembly and wiring are not at fault. |
 
 ## When to Call a Pro
 
-Call a professional if you are uncomfortable working inside a 240-volt appliance, if the range is built-in or slide-in and cannot be safely pulled forward without damaging countertops or cabinetry, or if you have replaced both the door latch assembly and verified all wiring yet the F8 code persists. A technician has the service manual wiring diagrams and can run voltage tests on the control board's lock-drive circuit to confirm whether the board itself has failed. Also call a pro if you discover gas-line interference when pulling the range (for dual-fuel models) or if the lock assembly is welded or riveted in place and requires metal fabrication to remove.
+Call a pro if you are not comfortable working inside the range cabinet, if high-voltage connections make you uncertain, or if you have replaced the door latch assembly and checked all wiring but the F8 code still appears. A technician can use a wiring diagram and a multimeter to trace the lock circuit end to end, verify control-board output signals, and determine whether the main control needs replacement. Professional diagnosis saves the cost of trial-and-error part swaps when the root cause is not obvious.
 
-**Rough cost:** DIY runs about $40–80 in parts, 45–90 min. A pro service call runs about $150–300.
+**Rough cost:** DIY runs about $50–120 in parts, 30–60 minutes. A pro service call runs about $150–250.

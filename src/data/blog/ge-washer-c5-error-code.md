@@ -1,8 +1,8 @@
 ---
 title: "GE Washer C5 Error Code - Causes & Fix"
-description: "C5 is not a standard GE washer code. Check your manual for the exact meaning. Most often it indicates a drain problem or control glitch."
-pubDatetime: 2026-06-08T02:46:14Z
-modDatetime: 2026-06-08T02:46:14Z
+description: "C5 on GE combo washer/dryers means a drain restriction. Clean the pump filter first-it's clogged in most cases. Model-specific."
+pubDatetime: 2026-06-13T14:36:29Z
+modDatetime: 2026-06-13T14:36:29Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,76 +10,72 @@ tags:
   - appliance
   - washer
   - ge
-most_likely_cause: "drain hose kink, blockage, or pump filter obstruction"
-free_checks:
-  - "Check drain hose for kinks, clogs, and verify insertion depth is less than 4.5 inches into standpipe"
-  - "Remove and clean pump filter, inspect impeller for obstructions (coins, fabric, debris)"
-  - "Verify drain hose height is 39-96 inches and not creating siphon condition"
-no_buy_pct: "60%"
+money_part: "Drain pump filter (lint filter)"
+most_likely_cause: "Clogged pump filter or lint filter"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-money_part: "GE washer drain pump assembly"
-part_price: "$15-80"
+free_checks:
+  - "Clean the drain pump filter per your owner's manual"
+  - "Inspect the drain area and pump housing for foreign objects or lint buildup"
+  - "Check the drain hose for kinks, crushing, or blockage along its full length"
+no_buy_pct: "75%"
 ---
 
 ## GE Washer C5 Error Code — What It Means
 
-GE does not publish a standard C5 error code for its washers in available service documentation. The code may be specific to certain models, a display glitch, or confusion with similar codes like 5C or 5E used by other brands. In GE dishwashers, C5 indicates an internal control board diagnostic anomaly, but that does not translate directly to washers. If your GE washer shows C5, consult your model's tech sheet or service manual to confirm the exact meaning, since error codes vary widely by model and year.
+The C5 error code on GE washing machines is not universal across all models. For the GE Profile UltraFast Combo Washer/Dryer, C5 specifically indicates a restriction in the drain area, and the manufacturer recommends checking and cleaning the pump filter as the first action. Because GE uses model-specific error codes, the exact meaning of C5 can vary by platform. If you see C5 on a different GE washer model, consult your owner's manual or the wiring diagram inside the cabinet to confirm the fault definition for your machine.
 
-When a washer displays an unfamiliar code, the most common underlying issues are drain system blockages, faulty pressure sensing, or control board communication faults. GE washer troubleshooting for drain-related errors (such as the documented code 18 on the UltraFast Combo) focuses on clearing the pump filter, checking hose routing, and verifying the drain pump operates. Without manufacturer confirmation of C5, treat it as a prompt to inspect the drain path, water-level sensing, and control wiring before replacing any components.
+On the combo washer/dryer units where C5 is documented, the code typically appears when the machine cannot drain properly due to a blockage or restriction in the pump, filter, or drain path. The control board expects water to exit within a certain time window, and when flow is restricted the cycle stops and displays the code. The fix is almost always mechanical cleaning rather than an electrical part failure.
 
 ## Before You Replace Anything
 
-Homeowners often replace the main control board assuming any unusual code means board failure. Before ordering a board, verify the drain hose is not kinked, the pump filter is clean, and the drain pump actually runs when commanded.
+Homeowners often replace the drain pump when the real problem is a clogged filter or debris lodged in the pump housing. Pull and clean the filter first, then inspect the pump inlet for coins, bobby pins, or lint before buying a new pump.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Drain hose kinked, crushed, or inserted too deep into standpipe (~35%)** A restricted drain path prevents water from leaving the tub, triggering drain-related faults or confusing the control into showing an atypical code.
-- **Clogged pump filter or coin trap (~30%)** Debris such as coins, buttons, or lint blocks the pump inlet, stopping drainage and often causing the washer to display an error.
-- **Failed drain pump or jammed impeller (~20%)** The pump motor may not spin, or the impeller may be locked by a foreign object, preventing water evacuation.
-- **Pressure switch or water-level sensor fault (~10%)** A blocked pressure hose, disconnected hose, or failed sensor can cause the control to misread water level and display an error.
-- **Control board communication glitch or connector corrosion (~5%)** Loose harness connectors, corroded pins, or a control-board self-check fault can produce unfamiliar codes not listed in standard documentation.
+- **Clogged pump filter or lint filter (~55%)** Lint, fabric fibers, and detergent residue accumulate in the filter over time and block water flow, triggering the drain restriction code.
+- **Foreign objects in the drain pump (~20%)** Coins, hair pins, buttons, or small items slip past the filter and jam the pump impeller or housing, preventing normal drainage.
+- **Kinked or blocked drain hose (~15%)** The drain hose can become kinked behind the machine, crushed by the cabinet, or internally blocked by lint buildup, restricting flow even when the filter is clean.
+- **Debris in the drain pump housing (~7%)** Even after cleaning the filter, lint and gunk can coat the pump inlet chamber or impeller blades, reducing flow enough to trip the code.
+- **Failed drain pump (~3%)** The pump motor or impeller itself can wear out or crack, but this is far less common than simple blockages and should only be considered after all drain paths are verified clear.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Does the washer drain at all when you run a spin cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The pump and basic drain path work. Focus on pressure sensing, wiring, or a control glitch. Check the pressure hose for kinks and connectors for corrosion.<br><strong>No:</strong> The drain system is blocked or the pump is not running. Check the hose for kinks, clean the pump filter, and verify the pump energizes.</div>
+<details class="dtree"><summary>Does water remain in the drum at the end of the cycle?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Confirms a drain restriction. Pull and clean the pump filter first, then check for foreign objects in the pump housing.<br><strong>No:</strong> The machine may have drained slowly and still logged the code. Clean the filter and hose anyway, then run a test cycle to see if the code returns.</div>
 </details>
 
-<details class="dtree"><summary>Is the drain hose kinked, crushed, or inserted more than a few inches into the standpipe?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Fix the hose routing. GE documentation warns that excessive insertion or kinks restrict flow and cause drain errors.<br><strong>No:</strong> The hose routing is good. Move on to checking the pump filter and pump operation.</div>
+<details class="dtree"><summary>When you remove the pump filter, is it packed with lint or debris?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Clean the filter thoroughly, rinse it under running water, and inspect the filter cavity for additional buildup. Reinstall and test.<br><strong>No:</strong> Inspect the drain pump housing and impeller area for coins, bobby pins, or other foreign objects that bypass the filter.</div>
 </details>
 
-<details class="dtree"><summary>Can you hear the drain pump motor humming or clicking when the washer tries to drain?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The pump is receiving power but may have a jammed impeller or blocked outlet. Inspect the pump housing and filter for obstructions.<br><strong>No:</strong> The pump is not energized. Check wiring and connectors at the pump and control, or suspect a failed pump motor or control output.</div>
+<details class="dtree"><summary>Is the drain hose routed smoothly with no sharp bends or kinks?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The hose path is good. Focus on the filter, pump housing, and standpipe or drain connection for blockages.<br><strong>No:</strong> Straighten the hose, make sure it is not crushed behind the machine, and verify the standpipe height and diameter meet the installation manual specs.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Unplug the washer** and turn off the water supply valves before any inspection or service.
-2. **Locate your model and serial number** on the door frame or rear panel, then download the service manual or tech sheet from GE Appliances to verify whether C5 is documented and what it means for your exact model.
-3. **Inspect the drain hose** from the washer to the standpipe or laundry sink. Straighten any kinks, remove crushing, and pull the hose back if it is inserted more than four inches into the standpipe.
-4. **Clean the pump filter or coin trap** if your model has an access panel at the front lower edge. Place a shallow pan underneath, unscrew the filter cap, remove debris, rinse the filter, and reinstall it securely.
-5. **Check the drain pump operation** by running a drain or spin cycle and listening for the pump motor. If it hums but does not pump, remove the pump housing and clear any obstructions from the impeller.
-6. **Examine the pressure hose and switch** if drainage is normal but the code persists. The small-diameter hose runs from the tub sump to the pressure sensor on the control. Look for kinks, splits, or blockages.
-7. **Inspect all harness connectors** at the main control, pump, and pressure sensor for bent pins, corrosion, or looseness. Re-seat each connector firmly and look for signs of water intrusion or heat damage.
-8. **Power-cycle the washer** by leaving it unplugged for two minutes, then restore power and run a test cycle. If the code clears and does not return, it may have been a transient glitch.
+1. **Power off the washer** and unplug it from the wall. Turn off the water supply valves if you will be moving the machine.
+2. **Locate the drain pump filter access panel** on the front lower corner of the cabinet (consult your model's owner's manual for the exact location on combo washer/dryer units).
+3. **Place a shallow pan or towels** on the floor in front of the access panel. Slowly unscrew or unlatch the filter cap, allowing residual water to drain into the pan.
+4. **Remove the filter** and rinse it under running water. Use a soft brush to scrub away lint, detergent buildup, and debris. Inspect the filter housing cavity and pump inlet for coins, hair pins, or foreign objects and remove any you find.
+5. **Check the drain hose** from the pump outlet to the standpipe or drain connection. Straighten any kinks, verify the hose is not crushed, and disconnect it to flush out internal blockages if needed.
+6. **Reinstall the clean filter** and close the access panel securely. Reconnect the drain hose if you removed it, and plug the washer back in.
+7. **Run a short rinse-and-spin test cycle** with no laundry. Observe the drain cycle and confirm the C5 code does not return and water exits promptly.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| GE washer drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-washer-c5-error-code&k=GE+washer+drain+pump+assembly&tag=errorcodefixes-20) \| Match your model number; pumps differ by series. |
-| GE washer drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-washer-c5-error-code&k=GE+washer+drain+hose&tag=errorcodefixes-20) \| Measure length and diameter; standard 1-inch ID corrugated or smooth. |
-| Water-level pressure sensor (pressure switch) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-washer-c5-error-code&k=Water-level+pressure+sensor+%28pressure+switch%29&tag=errorcodefixes-20) \| Verify part number from your model's wiring diagram or service sheet. |
-| Main control board (electronic control) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-washer-c5-error-code&k=Main+control+board+%28electronic+control%29&tag=errorcodefixes-20) \| Order only after confirming all mechanical and wiring checks; control failures are less common than hose or pump issues. |
+| Drain pump filter (lint filter) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-washer-c5-error-code&k=Drain+pump+filter+%28lint+filter%29&tag=errorcodefixes-20) \| Model-specific; order by your full model number if the filter is damaged or missing. |
+| Drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-ge-washer-c5-error-code&k=Drain+pump+assembly&tag=errorcodefixes-20) \| Only needed if the impeller is cracked or the motor does not run after all blockages are cleared. |
 
 ## When to Call a Pro
 
-Call a qualified appliance technician if you have verified the drain hose is clear, the pump filter is clean, and the pump runs but the code persists. A pro can test control-board outputs with a multimeter, check water-level sensor calibration, and access service mode to read additional diagnostic data. Also call if you are uncomfortable working with harness connectors or if the washer has leaked and you suspect internal wiring damage. Professional diagnosis typically costs less than replacing a control board on a guess, and the tech will have model-specific fault-code tables not available to the public.
+Call a technician if you have cleaned the filter and drain path completely, confirmed the hose is not kinked, and the C5 code still appears after a test cycle. The drain pump itself may have failed, or there may be a wiring or control board fault that requires diagnostics with a multimeter and the service manual. Also call a pro if you are not comfortable disassembling the lower front panel, working with residual water, or inspecting the pump housing. For combo washer/dryer units, the pump and plumbing layout can be more complex than a standard top-load washer, and a service visit will include model-specific diagnostics and access to factory parts.
 
-**Rough cost:** DIY runs about $15-80 in parts (hose, filter, or pump), 30-90 min. A pro service call runs about $120-250 service call plus parts.
+**Rough cost:** DIY runs about $0-40 in parts if a hose or clamp is damaged, 20-45 min. A pro service call runs about $120-220 service call plus parts.

@@ -1,82 +1,84 @@
 ---
 title: "Frigidaire E1 Error Code - Causes & Fix"
-description: "E1 on Frigidaire washers means the machine is not filling with water fast enough. Check that both water supply valves are fully open."
-pubDatetime: 2026-06-09T05:07:19Z
-modDatetime: 2026-06-09T05:07:19Z
+description: "E1 on Frigidaire washers means water is not entering fast enough. Check that both hot and cold faucets are fully open and inlet screens are clean."
+pubDatetime: 2026-06-13T14:52:14Z
+modDatetime: 2026-06-13T14:52:14Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
 tags:
   - appliance
   - frigidaire
-most_likely_cause: "Water supply valves not fully open or kinked inlet hoses"
-free_checks:
-  - "Verify both hot and cold supply valves are fully open and hoses are not kinked"
-  - "Clean inlet valve mesh screens at hose connections (check for sediment buildup)"
-  - "Confirm home water pressure is at least 20 psi"
-no_buy_pct: "40%"
+money_part: "Inlet hose screen filter"
+most_likely_cause: "clogged inlet hose screens or partially closed supply valves"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-money_part: "Water inlet valve assembly"
-part_price: "$25-80"
+free_checks:
+  - "Verify both hot and cold supply faucets are turned fully open"
+  - "Confirm the washer lid is closed completely"
+  - "Remove inlet hoses and clean the filter screens inside each hose fitting"
+part_price: "$12-25"
+no_buy_pct: "65%"
 ---
 
 ## Frigidaire E1 Error Code — What It Means
 
-On Frigidaire washers, E1 is a long-fill or no-fill fault. The control board does not detect that the washer has reached the expected water level within the allowed fill time. This is a water supply or fill system issue, not a general electronic error. For other Frigidaire products (such as air fryers), E1 can mean something entirely different, so always confirm the appliance type and consult your owner's manual if you are working on a non-washer unit.
+On Frigidaire washers, the E1 error code means the control board is not detecting adequate water level rise within the allowed fill time window. The machine expects water to enter at a certain rate, and when the level sensor does not see enough water quickly enough, it flags a fill-time fault and stops the cycle. Frigidaire's owner documentation confirms E1 appears when water is not entering the washer or the fill time is too slow.
+
+Note that E1 is not universal across all Frigidaire products. On other appliances such as air fryers, E1 indicates a disconnected temperature sensor. Always confirm the meaning of E1 for your specific model by checking the owner's manual or wiring diagram, since the same code letters can mean different things on different product lines.
 
 ## Before You Replace Anything
 
-Many people replace the control board first, assuming an electronic fault. Test the water inlet valve and clean the inlet screens before spending money on electronics.
+Many people replace the water inlet valve or pressure switch first. Before buying parts, check that both hot and cold supply faucets are fully open, the inlet hose screens are clean, and the lid closes completely.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Water supply valves not fully open (~30%)** The hot and cold shutoff valves at the wall may be only partially turned on, reducing flow enough to trigger the E1 fault.
-- **Kinked, crushed, or frozen inlet hoses (~25%)** Hoses routed behind the washer can get pinched, bent, or even frozen in cold garages, blocking water flow.
-- **Clogged inlet screens (~20%)** Sediment, rust, and mineral deposits collect in the small mesh filters inside the hose connections or valve inlets, choking off supply.
-- **Failed water inlet valve (~15%)** The solenoid valve that controls fill can stick closed or fail electrically, preventing water from entering even when the control energizes it.
-- **Low household water pressure (~5%)** If your home supply is below normal pressure, the washer may not fill quickly enough to satisfy the timer.
-- **Pressure switch or water-level sensing issue (~5%)** If the washer is filling but the pressure switch or sensing circuit does not report the rising level to the control, the code will appear even when water is present.
+- **Clogged inlet hose screens (~35%)** Sediment and mineral deposits accumulate on the fine mesh screens inside the hose fittings at the back of the washer, restricting flow and slowing fill time.
+- **Supply valves not fully open (~25%)** Hot or cold water shutoff valves turned only partway reduce incoming pressure and trigger the slow-fill fault.
+- **Kinked or collapsed inlet hoses (~15%)** Hoses pinched behind the machine or bent sharply at the fittings restrict water flow and prevent normal fill speed.
+- **Lid not fully closed (~10%)** Frigidaire includes an open lid as a fill-code check item, since many washers disable the fill cycle when the lid switch is not engaged.
+- **Blocked or disconnected pressure hose (~10%)** The small air hose running from the tub to the pressure switch can become clogged with detergent residue or pull loose, preventing the control from sensing water level correctly.
+- **Failed pressure switch (~5%)** The water-level sensor may fail to signal the control board even when water is entering normally, causing a false slow-fill fault.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Are both hot and cold shutoff valves at the wall fully open and is there strong flow from a nearby faucet?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Your household supply is good. Move on to inspect the inlet hoses and screens.<br><strong>No:</strong> Turn both valves fully counterclockwise and verify strong flow at another tap. If pressure is still weak, call a plumber before servicing the washer.</div>
+<details class="dtree"><summary>Are both the hot and cold supply faucets behind the washer turned fully open?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Supply valves are not the issue. Move on to checking the inlet hoses and screens.<br><strong>No:</strong> Turn both faucets fully counterclockwise, then run a rinse cycle to see if the E1 clears.</div>
 </details>
 
-<details class="dtree"><summary>Do you hear the inlet valve click or hum when the washer tries to fill?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The valve is being energized but may be clogged or mechanically stuck. Remove and inspect the inlet screens and valve body.<br><strong>No:</strong> The valve may not be receiving power. Check the wiring harness and connectors at the valve, then test for voltage from the control during a fill cycle.</div>
+<details class="dtree"><summary>When you remove the inlet hoses at the back of the washer, do you see debris or buildup on the small mesh screens inside each port?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Clean or replace the screens, reconnect the hoses, and test a cycle. This is the most common fix.<br><strong>No:</strong> The screens are clear. Inspect the hoses themselves for kinks, and check that the lid closes fully and engages the switch.</div>
 </details>
 
-<details class="dtree"><summary>Does water enter the tub at all, even slowly?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The supply path is at least partially open. Focus on cleaning screens, replacing a weak valve, or checking the pressure-switch sensing circuit.<br><strong>No:</strong> No water means a complete blockage or valve failure. Inspect hoses for kinks, clean screens thoroughly, and test or replace the inlet valve.</div>
+<details class="dtree"><summary>Does the error clear after you clean the screens and confirm the hoses are not kinked, or does E1 reappear on the next fill?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The supply-side fix worked. No further parts are needed.<br><strong>No:</strong> The fault lies in the pressure-sensing circuit. Inspect the pressure hose for blockage or damage, and test or replace the pressure switch.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Power off and unplug** the washer, then turn off both hot and cold shutoff valves at the wall.
-2. **Pull the washer forward** enough to access the back panel and the inlet hose connections.
-3. **Disconnect both inlet hoses** from the back of the washer and inspect them for kinks, cracks, collapse, or internal blockage.
-4. **Remove and clean the inlet screens** at the valve ports on the washer using a small brush or toothpick to dislodge sediment, then rinse under running water.
-5. **Reconnect the hoses**, turn the supply valves fully open, restore power, and run a short fill test cycle to see if water enters at normal speed and the E1 clears.
-6. **Test the water inlet valve** if flow is still weak or absent by checking for voltage at the valve terminals during fill (consult your model's wiring diagram for expected values) and replacing the valve if it does not open.
-7. **Inspect the pressure switch and its air tube** for clogs, leaks, or loose connections if the washer fills but the code persists, indicating the control is not detecting the water level correctly.
-8. **Clear the error code** by powering the washer off for one minute, then run a complete fill and wash cycle to confirm normal operation.
+1. **Disconnect power** by unplugging the washer or switching off the circuit breaker, then turn off both hot and cold water supply valves at the wall.
+2. **Pull the washer forward** enough to access the rear panel and the inlet hose connections.
+3. **Remove both inlet hoses** from the back of the machine by turning the fittings counterclockwise, and inspect the small mesh screens inside each washer inlet port for sediment, rust, or mineral buildup.
+4. **Clean the screens** with a small brush and running water, or replace them if damaged or heavily clogged, then reinstall the hoses and check for kinks along the entire length.
+5. **Verify the lid closes completely** and that the lid switch clicks or engages when you press down on the lid.
+6. **Restore power and water**, turn both supply valves fully open, and run a rinse or small test cycle to see if the E1 fault clears.
+7. **If the error persists**, access the pressure switch by removing the console or top panel, inspect the small air hose for blockage or disconnection, and test the pressure switch for proper operation or replace it if faulty.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Water inlet valve (Frigidaire washer) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-washer-e1-error-code&k=Water+inlet+valve+%28Frigidaire+washer%29&tag=errorcodefixes-20) \| Match your model number; valves differ by number of solenoids (single, dual, or triple) and mounting style. |
-| Inlet hose pair (reinforced, burst-proof) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-washer-e1-error-code&k=Inlet+hose+pair+%28reinforced%2C+burst-proof%29&tag=errorcodefixes-20) \| Replace if kinked, cracked, or more than five years old to prevent leaks and flow restriction. |
-| Inlet screen filters | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-washer-e1-error-code&k=Inlet+screen+filters&tag=errorcodefixes-20) \| Sometimes sold as a service kit; check if yours are removable and replaceable rather than molded into the valve. |
+| Inlet hose screen filter | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-washer-e1-error-code&k=Inlet+hose+screen+filter&tag=errorcodefixes-20) \| Small mesh inserts that fit inside the inlet ports; sold individually or in pairs. |
+| Water inlet hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-washer-e1-error-code&k=Water+inlet+hose&tag=errorcodefixes-20) \| Replace if kinked, cracked, or the internal lining has collapsed. |
+| Pressure switch (water-level sensor) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-washer-e1-error-code&k=Pressure+switch+%28water-level+sensor%29&tag=errorcodefixes-20) \| Order the exact part number for your Frigidaire washer model, found on the wiring diagram or parts list. |
+| Pressure hose (air trap to switch) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-frigidaire-washer-e1-error-code&k=Pressure+hose+%28air+trap+to+switch%29&tag=errorcodefixes-20) \| The small-diameter tube connecting the tub air trap to the pressure switch; replace if cracked or blocked. |
 
 ## When to Call a Pro
 
-Call a professional if you have verified that both shutoff valves are open, hoses are clear, screens are clean, and the inlet valve still does not deliver water. A technician can safely test for control-board output voltage, diagnose pressure-switch and wiring faults, and replace the valve or sensing components with the correct OEM parts. Also call a pro if you are not comfortable working with water connections, if the washer is still under warranty, or if you suspect a control-board failure after ruling out all mechanical and supply issues.
+Call a technician if you have completed all supply-side checks (faucets open, screens clean, hoses not kinked, lid closing) and the E1 code still appears. At that point the fault lies in the pressure-sensing circuit or the control board itself, and diagnosis requires console removal, multimeter testing of the pressure switch, and sometimes tracing harness connections. A service visit is also the right choice if you discover a tub leak during inspection, since sealing a washer tub or replacing a tub gasket involves disassembly and alignment that most homeowners prefer to leave to a professional.
 
-**Rough cost:** DIY runs about $25-80 in parts (inlet valve or hoses), 30-90 min. A pro service call runs about $150-280 for diagnosis and inlet valve replacement.
+**Rough cost:** DIY runs about $15-50 in parts, 20-45 min. A pro service call runs about $150-250.

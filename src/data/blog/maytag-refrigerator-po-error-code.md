@@ -1,8 +1,8 @@
 ---
 title: "Maytag Refrigerator PO Error Code - Causes & Fix"
-description: "PO means Power Outage: freezer warmed to 18°F or higher during a power loss. Press MEASURED FILL under Confirm to clear the alarm."
-pubDatetime: 2026-06-08T07:12:07Z
-modDatetime: 2026-06-08T07:12:07Z
+description: "PO means power outage detected and freezer warmed to 18°F or above. Press MEASURED FILL under Confirm to clear the alarm after power returns."
+pubDatetime: 2026-06-13T14:39:15Z
+modDatetime: 2026-06-13T14:39:15Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,74 +10,76 @@ tags:
   - appliance
   - refrigerator
   - maytag
-most_likely_cause: "Utility power outage or home circuit breaker trip"
-free_checks:
-  - "Check for ice buildup blocking evaporator fan; manually defrost if frozen"
-  - "Inspect fan blade for obstructions or binding; spin manually to test"
-  - "Reseat wiring harness connector at evaporator fan motor"
-no_buy_pct: "15%"
-part_price: "$40-$85"
+money_part: "Freezer evaporator fan motor"
+most_likely_cause: "recent utility outage or breaker trip"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-money_part: "Evaporator fan motor"
+free_checks:
+  - "Confirm whether your home lost power or the refrigerator was unplugged recently"
+  - "Press MEASURED FILL under Confirm to acknowledge the alarm and watch whether it returns"
+  - "Check that the wall plug is fully seated and the breaker is not tripped or loose"
+part_price: "$40–90"
+no_buy_pct: "65%"
 ---
 
 ## Maytag Refrigerator PO Error Code — What It Means
 
-The PO code on a Maytag refrigerator stands for Power Outage. It appears when the unit lost electrical power and the freezer temperature rose to 18°F or higher before power was restored. The control sounds an alert and displays PO until you acknowledge it by pressing MEASURED FILL under Confirm on the user interface. This is an event indicator, not a component failure code. The refrigerator should resume normal cooling once you clear the alarm and power is stable.
+PO is a power outage indicator that appears when your Maytag refrigerator loses power and the freezer temperature rises to 18°F (-8°C) or higher. The display shows PO, an alert tone sounds three times, and Confirm blinks on the panel. This is an event notification, not proof of a component failure. The code tells you the unit experienced an interruption and temperatures rose enough that food safety may be a concern.
 
-If the PO code reappears or the refrigerator does not cool normally after you clear it, the issue is either a recurring power supply problem or a separate refrigeration fault that existed before or was triggered by the outage. Common underlying problems include a tripped breaker, a bad outlet or power cord connection, ice buildup blocking airflow, or a failed evaporator fan. Clearing the code does not fix those conditions. You need to troubleshoot the power supply and cooling system separately to prevent the alarm from returning.
+To acknowledge the alarm, press MEASURED FILL under Confirm on supported side-by-side models. Once you clear the code, the refrigerator should resume normal cooling if the power supply is stable. If PO keeps coming back or cooling does not recover properly, the underlying cause may be a damaged power cord, loose outlet connection, control board issue, or airflow problem such as a frozen evaporator preventing the freezer fan from running.
 
 ## Before You Replace Anything
 
-Homeowners sometimes replace the control board or user interface thinking PO is a board fault, but the code is only an event alarm. Check your home breaker, outlet, and power cord connections first, and clear the code with MEASURED FILL before replacing any parts.
+Homeowners sometimes replace the main control board when PO appears repeatedly, but the real cause is often a loose wall outlet, damaged power cord, or heavy ice buildup on the evaporator blocking the freezer fan. Check the plug, breaker, and evaporator before ordering electronics.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Utility power outage or brief line interruption (~40%)** A storm, grid event, or neighborhood transformer issue cut power long enough for the freezer to warm past 18°F.
-- **Tripped circuit breaker or bad connection at the panel (~30%)** The refrigerator breaker tripped due to overload, a loose wire at the panel, or a failing breaker contact.
-- **Loose or damaged power cord or outlet (~15%)** The plug was pulled partway out during cleaning, or the wall outlet has burned contacts or loose wiring that interrupted supply.
-- **Unplugging during cleaning or moving (~10%)** Someone intentionally disconnected power for maintenance or to move the unit, and the freezer warmed above 18°F before plugging back in.
-- **Recurring outages due to a failing outlet or cord (~5%)** Intermittent contact in the outlet, cord, or plug causes brief power drops that warm the freezer and trigger the PO alarm repeatedly.
+- **Utility outage or breaker trip (~55%)** A recent power interruption at the panel or from the grid triggers PO when the freezer warms to 18°F or above.
+- **Refrigerator unplugged during cleaning or moving (~20%)** Brief unplugging for service or floor cleaning can cause the code if the freezer temperature rises past the threshold.
+- **Loose outlet connection or damaged power cord (~10%)** Intermittent contact at the wall receptacle or a frayed cord creates repeated power interruptions that bring up PO.
+- **Heavy frost or ice on evaporator blocking freezer fan (~8%)** Ice buildup stops the evaporator fan from running, cooling recovery fails, and the unit may log PO as if power was lost.
+- **User interface or control board issue (~5%)** Water damage, corrosion, or electronic failure in the drawer UI assembly or main control can cause false PO alerts.
+- **Failed freezer evaporator fan motor (~2%)** A motor that does not spin freely or run after ice is removed prevents temperature recovery and may trigger PO.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Did you recently experience a storm, outage, or trip the breaker in your home?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The PO code is expected. Press MEASURED FILL under Confirm to clear it and monitor for normal cooling over the next few hours.<br><strong>No:</strong> Check the outlet and power cord for damage or loose connections, then clear the code. If PO returns, the refrigerator may have an intermittent electrical fault or a separate cooling problem.</div>
+<details class="dtree"><summary>Did your home lose power or was the refrigerator unplugged in the past 24 hours?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Press MEASURED FILL under Confirm to clear the code. If cooling resumes normally, no repair is needed.<br><strong>No:</strong> Check the wall outlet and power cord for loose connections or damage, and verify the breaker is not tripped.</div>
 </details>
 
-<details class="dtree"><summary>Does the PO code come back after you clear it and power has been stable?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Either the power supply is intermittent (inspect outlet, cord, breaker) or the refrigerator has an underlying refrigeration fault (ice buildup, failed evaporator fan, or defrost issue). Call a technician to diagnose.<br><strong>No:</strong> The alarm was a one-time event. No further action is needed unless cooling performance remains poor.</div>
+<details class="dtree"><summary>Does the PO code reappear within a few hours after you clear it?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Inspect the evaporator for heavy ice buildup and test the freezer fan for free rotation after defrost. If frost is excessive, a defrost or fan motor issue is likely.<br><strong>No:</strong> The event was a one-time outage. Monitor over the next day to confirm normal cooling.</div>
 </details>
 
-<details class="dtree"><summary>Is the refrigerator cooling normally after you clear the code?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The outage was brief and the unit has recovered. Monitor food safety and discard anything that warmed too long.<br><strong>No:</strong> Check for ice buildup on the evaporator coils or a stopped evaporator fan. If airflow is blocked or the fan does not run, you may need to defrost manually or replace the fan motor.</div>
+<details class="dtree"><summary>Are both compartments cooling normally after the code is cleared?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The alarm was informational. No further action is needed unless the code returns.<br><strong>No:</strong> Check airflow in the freezer, look for ice on the evaporator coils, and verify the evaporator fan is running. If airflow is blocked, defrost and test components.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Confirm the power has been restored** and the refrigerator is plugged in securely. Check that the circuit breaker is on and not tripped.
-2. **Press MEASURED FILL under Confirm** on the control panel to acknowledge and clear the PO alarm. The code and beeping should stop immediately.
-3. **Wait 2-4 hours** and verify the freezer temperature drops back to 0°F and the fresh-food compartment cools to 37°F or your set point.
-4. **Inspect the outlet and power cord** for burn marks, loose plugs, or damaged insulation. Test the outlet with a multimeter or plug in another appliance to confirm it delivers stable 120 V AC.
-5. **Check inside the freezer for ice buildup** on the back wall or around the evaporator fan cover. Remove the cover and confirm the fan spins freely and runs when the compressor is on.
-6. **Test the evaporator fan motor** by listening for airflow or spinning the blade by hand. If it does not run or is stiff, replace the motor.
-7. **If the PO code returns or cooling remains poor**, call a qualified appliance technician to inspect the defrost system, control board wiring, and refrigeration components for faults that may have occurred during the outage.
+1. **Confirm the power event.** Ask whether the home lost utility power, a breaker tripped, or the refrigerator was unplugged for any reason in the past day.
+2. **Acknowledge the alarm.** Press MEASURED FILL under Confirm on the display to clear the PO code and silence the alert tone.
+3. **Verify cooling recovery.** Wait 2–4 hours and check that both the refrigerator and freezer compartments are cooling to their set temperatures.
+4. **Inspect the power supply if PO does not make sense.** Remove the refrigerator plug, examine the cord for burn marks or fraying, and confirm the wall outlet is tight and the breaker is not loose.
+5. **Check the freezer evaporator for ice buildup if cooling is poor.** Remove the freezer back panel (unplug first) and look for heavy frost on the coils that would block airflow and stop the fan.
+6. **Test the evaporator fan motor after defrosting.** Once ice is melted, spin the fan blade by hand to confirm it turns freely, then restore power and listen for the motor to run.
+7. **Perform a power reset if the code persists without explanation.** Unplug the refrigerator for 5–10 minutes to reset control memory, then plug back in and monitor for code recurrence.
+8. **Replace the identified failed component.** If the fan motor is seized, the UI assembly is corroded, or the control board shows signs of damage, install the correct replacement part for your model.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Evaporator fan motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-refrigerator-po-error-code&k=Evaporator+fan+motor&tag=errorcodefixes-20) \| Model-specific. Replace if the fan does not run or is noisy after the outage and the freezer will not cool. |
-| Power cord | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-refrigerator-po-error-code&k=Power+cord&tag=errorcodefixes-20) \| Universal appliance cord rated 15 A 120 V. Replace if insulation is cracked or plug contacts are burned. |
-| Drawer user interface assembly (e.g. WPW10769076) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-refrigerator-po-error-code&k=Drawer+user+interface+assembly+%28e.g.+WPW10769076%29&tag=errorcodefixes-20) \| Model-specific. Replace only if the control is wet, corroded, or will not clear the PO code after following the correct procedure. |
+| Freezer evaporator fan motor | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-refrigerator-po-error-code&k=Freezer+evaporator+fan+motor&tag=errorcodefixes-20) \| Replace if the motor does not spin freely after defrost or will not run when power is restored. |
+| User interface control assembly (drawer UI) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-refrigerator-po-error-code&k=User+interface+control+assembly+%28drawer+UI%29&tag=errorcodefixes-20) \| Order if the display is unresponsive, corroded, or logs false PO codes with no actual power loss. |
+| Main refrigerator control board | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-refrigerator-po-error-code&k=Main+refrigerator+control+board&tag=errorcodefixes-20) \| Replace only after verifying the UI, power supply, and fan systems are all working correctly. |
 
 ## When to Call a Pro
 
-Call a technician if the PO code reappears after you clear it and verify stable power, if the refrigerator does not cool normally within four hours of restoring power, or if you find heavy ice buildup and the evaporator fan does not run. A pro can test the defrost heater, defrost thermostat, control board signals, and refrigerant charge to isolate faults that a simple reset will not fix. Also call if you are uncomfortable working inside the freezer compartment or testing electrical connections at the outlet and breaker panel.
+Call a refrigerator technician if the PO code returns repeatedly with no known power interruption, if you find heavy evaporator ice and are not comfortable defrosting or disassembling the freezer back panel, or if cooling does not recover after you clear the alarm and check the obvious power connections. Professionals have the tools to test control boards, measure fan motor windings, and diagnose defrost circuit faults that can mimic power-loss symptoms. Also call if you suspect a sealed-system or compressor issue, because refrigerant work requires an EPA-certified technician and specialized equipment.
 
-**Rough cost:** DIY runs about $0 if only clearing the alarm, $20-60 and 30-60 min if replacing outlet or power cord. A pro service call runs about $100-200 service call if a technician must diagnose underlying cooling or electrical faults.
+**Rough cost:** DIY runs about $15–80 in parts, 30–90 min. A pro service call runs about $150–350.

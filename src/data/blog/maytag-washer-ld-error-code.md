@@ -1,8 +1,8 @@
 ---
 title: "Maytag Washer LD Error Code - Causes & Fix"
-description: "LD means long drain: water is draining too slowly. Most often a kinked or clogged drain hose. Check hose routing and clear debris."
-pubDatetime: 2026-06-08T22:26:39Z
-modDatetime: 2026-06-08T22:26:39Z
+description: "LD means Long Drain: water isn't leaving fast enough. Most often a kinked or clogged drain hose or debris in the pump inlet is slowing flow."
+pubDatetime: 2026-06-13T14:48:34Z
+modDatetime: 2026-06-13T14:48:34Z
 author: "Error Code Fixes Editorial Team"
 featured: false
 draft: false
@@ -10,76 +10,73 @@ tags:
   - appliance
   - washer
   - maytag
-most_likely_cause: "drain hose installed incorrectly or kinked"
-free_checks:
-  - "Check drain pump filter/coin trap for debris, coins, or small objects and clean if clogged"
-  - "Inspect drain hose for kinks, clogs, or improper installation (max 96' length, 18-96' height)"
-  - "Verify drain hose is not inserted more than 4.5' into standpipe to prevent siphon/air lock"
-no_buy_pct: "60%"
+money_part: "Maytag washer drain pump assembly"
+most_likely_cause: "Kinked, clogged, or blocked drain hose"
 likelihood: "the most common cause"
 diy_or_pro: "diy"
-money_part: "Maytag washer drain pump"
-part_price: "$15-50"
+free_checks:
+  - "Check the drain hose for kinks, crushing, or pinching behind the washer"
+  - "Remove the drain hose and look inside for clogs or trapped fabric"
+  - "Inspect the pump inlet and impeller for coins, lint, or socks and clear any debris"
+part_price: "$30-60"
+no_buy_pct: "65%"
 ---
 
 ## Maytag Washer LD Error Code — What It Means
 
-The LD code on a Maytag washer stands for long drain and signals a drain pump system problem. The machine detected that water did not evacuate from the tub within the expected time window. In practical terms, the control is seeing a slow drain, a no-drain condition, or a drain slow enough to trip the timeout before the water-level control resets.
+LD on Maytag top-load washers stands for Long Drain. The control has detected that the water level is not dropping within the expected drain time window. In practical terms, the machine is seeing a drain cycle that is too slow for the pressure system to reset and confirm that the tub is empty. Maytag's related front-load long-drain guidance describes drain times longer than expected, typically over eight minutes, though community sources for Bravos-style units mention a five-minute threshold. The code is tied to failed drainage progress rather than a display or control glitch.
 
-This is not a sudden failure code. It means the washer is taking too long to pump out water, and Maytag identifies it specifically as a drain pump system problem that involves either the hose setup, a restriction in the drain path, or a weak or obstructed drain pump.
+The washer may pause mid-cycle or refuse to advance to the spin until it confirms the water has drained. You will usually see standing water in the tub or hear the pump running continuously without making progress. The fault is almost always mechanical, not electronic, so start with the drain path itself.
 
 ## Before You Replace Anything
 
-Many people replace the drain pump first. Before ordering a pump, unplug the machine and verify the drain hose is not kinked, clogged, inserted too far into the standpipe, or routed too low.
+Homeowners sometimes replace the drain pump when the real problem is a sock or coin stuck in the pump inlet or a crushed drain hose behind the machine. Always inspect and clear the hose and pump inlet before ordering a new pump.
 
 [Jump to Fix](#fix)
 
 ## Common Causes
 
-- **Drain hose installed incorrectly (~35%)** Hose extends more than 4.5 in. into the standpipe, is routed too low and causes siphoning, or is not secured with the correct form and retainer.
-- **Drain hose kinked or clogged (~25%)** The hose is crushed, bent sharply, or blocked by lint or detergent buildup inside.
-- **Drain pump obstruction (~20%)** Coins, lint, hairpins, fabric pieces, or other foreign material are restricting the pump impeller or inlet.
-- **Failed or weak drain pump (~15%)** The pump motor is running but no longer generates enough pressure to evacuate water in the expected time.
-- **Clogged pump filter or strainer (~5%)** On models with an accessible filter, debris in the filter restricts flow and slows the drain cycle.
+- **Kinked, clogged, or blocked drain hose (~40%)** A hose crushed by the washer cabinet, pinched during installation, or clogged with lint and fabric restricts flow and triggers the long-drain fault.
+- **Debris in drain pump inlet or impeller (~25%)** Coins, socks, lint, or fabric trapped in the pump inlet or wound around the impeller slow or block water movement.
+- **Improper drain hose installation (~15%)** A standpipe that is too tall, too short, or airtight prevents proper siphon and airflow, slowing drainage.
+- **Defective drain pump (~12%)** The pump runs but cannot move water at the normal rate because the impeller is cracked, worn, or the motor is weak.
+- **Lint or debris trapped in tub-to-pump path (~8%)** Fabric, threads, or lint accumulate in the elbow hoses or between the inner and outer tub, intermittently blocking flow.
 
 ## Quick Diagnosis
 
 Answer these to narrow it down fast.
 
-<details class="dtree"><summary>Is the drain hose kinked, crushed, or routed lower than the bottom of the washer tub?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Straighten the hose, route it so the end is higher than 36 in. from the floor, and limit standpipe insertion to 4.5 in. or less.<br><strong>No:</strong> Move to the next check.</div>
+<details class="dtree"><summary>Is the drain hose kinked, crushed, or visibly clogged?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Straighten or replace the hose, clear any blockage, and retest the washer.<br><strong>No:</strong> Move to the drain pump inlet and impeller to check for trapped objects or debris.</div>
 </details>
 
-<details class="dtree"><summary>When you remove the drain hose from the standpipe and place it in a bucket, does the washer drain normally during a drain/spin cycle?</summary>
-<div class="dtree-body"><strong>Yes:</strong> The house drain or standpipe is slow or blocked. Call a plumber to clear the plumbing.<br><strong>No:</strong> The restriction is inside the washer. Inspect the pump filter and pump for debris.</div>
+<details class="dtree"><summary>Can you spin the pump impeller freely by hand when you remove the inlet connections?</summary>
+<div class="dtree-body"><strong>Yes:</strong> The pump mechanism is probably intact. Clear the hose path, reassemble, and run a drain cycle to see if the code clears.<br><strong>No:</strong> The impeller is obstructed or the pump bearings have failed. Clear the obstruction or replace the pump assembly.</div>
 </details>
 
-<details class="dtree"><summary>Can you see or feel debris in the pump filter or inlet, or does the impeller not spin freely by hand?</summary>
-<div class="dtree-body"><strong>Yes:</strong> Remove the obstruction, clean the filter, and test a drain cycle.<br><strong>No:</strong> The drain pump itself has likely failed and needs replacement.</div>
+<details class="dtree"><summary>After clearing the hose and pump, does the washer still throw the LD code?</summary>
+<div class="dtree-body"><strong>Yes:</strong> Inspect deeper into the tub-to-pump path for trapped items or consider a water-level sensing fault that prevents the control from recognizing drainage completion.<br><strong>No:</strong> The repair is complete. The blockage was the cause.</div>
 </details>
 
 ## Step-by-Step Fix {#fix}
 
-1. **Unplug the washer** and turn off the water supply.
-2. **Pull the machine out** from the wall so you can reach the rear panel and the drain hose connection.
-3. **Check the drain hose routing** and confirm the end is higher than 36 in. from the floor and does not extend more than 4.5 in. into the standpipe.
-4. **Inspect the hose** along its entire length for kinks, crushing, or damage, and disconnect it at both ends to check for internal clogs or buildup.
-5. **Access the drain pump** (location varies by model, often behind a lower front panel or rear access panel) and remove the pump filter if your model has one, clearing any lint, coins, or debris.
-6. **Check the pump impeller** by hand to verify it spins freely and is not jammed by foreign material.
-7. **Replace the drain pump assembly** if the hose and filter are clear, the impeller is free, but the pump still does not evacuate water during a test drain cycle.
-8. **Reassemble, plug in, and run** a rinse/spin or drain/spin cycle to confirm the LD code is cleared and water drains in a normal time.
+1. **Unplug the washer** and shut off the water supply. Move the machine away from the wall to access the back panel and drain connections.
+2. **Inspect the drain hose** from the washer outlet to the standpipe or utility sink. Look for kinks, crushing, pinching, or clogs. Remove the hose and flush it with water if you see debris inside.
+3. **Verify proper drain hose installation.** Confirm the standpipe height and routing match the manufacturer's requirements and that the hose is not inserted too far or sealed airtight in the standpipe.
+4. **Access the drain pump.** Depending on your Maytag model, you may need to remove a front access panel, tip the washer back, or remove the pump through the bottom. Disconnect the inlet and outlet hoses from the pump.
+5. **Inspect the pump inlet and impeller.** Look inside the short elbow hoses and the pump body for coins, socks, lint, or fabric. Manually rotate the impeller to check for binding, looseness, or obstruction.
+6. **Clear all blockages** from the pump, hoses, and connections. Reinstall clamps securely and reconnect the hoses.
+7. **Reassemble and test.** Restore power and water, then run a drain/spin or service cycle. Confirm that water evacuates quickly and the LD code does not return. If the pump is unobstructed but still does not move water properly, replace the drain pump assembly.
 
 ## Parts Often Needed
 
 | Part | Notes |
 |------|-------|
-| Drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-washer-ld-error-code&k=Drain+pump+assembly&tag=errorcodefixes-20) \| Match your exact Maytag model number; pumps vary by series. |
-| Drain hose | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-washer-ld-error-code&k=Drain+hose&tag=errorcodefixes-20) \| If kinked, crushed, or cracked; measure length and diameter before ordering. |
-| Pump filter or screen | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-washer-ld-error-code&k=Pump+filter+or+screen&tag=errorcodefixes-20) \| On models with a serviceable filter; often sold with the pump. |
-| Hose clamps | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-washer-ld-error-code&k=Hose+clamps&tag=errorcodefixes-20) \| Replace any clamp disturbed during hose removal. |
+| Maytag washer drain pump assembly | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-washer-ld-error-code&k=Maytag+washer+drain+pump+assembly&tag=errorcodefixes-20) \| Match the part number to your model. Pumps vary by frame and connection style. |
+| Washer drain hose (universal or OEM) | [Amazon](https://www.amazon.com/s?ascsubtag=ecf-maytag-washer-ld-error-code&k=Washer+drain+hose+%28universal+or+OEM%29&tag=errorcodefixes-20) \| Replace if the original hose is cracked, split, or permanently kinked. |
 
 ## When to Call a Pro
 
-Call a pro if you are not comfortable pulling the washer out, accessing internal components, or working with hose clamps and pump assemblies. Also call if you have corrected the hose routing, cleared all visible obstructions, and replaced the drain pump but the LD code returns. A persistent code after parts replacement can point to a control-board issue, a wiring fault, or an intermittent pressure-switch problem that requires diagnostic tools and experience to isolate.
+Call a pro if you have cleared the hose and pump inlet, replaced the pump, and the LD code still appears. At that point the fault may involve trapped debris deep in the tub-to-pump path, a stuck or faulty water-level pressure switch, or a control board issue that requires model-specific diagnostics. Also call if you are uncomfortable tipping the washer, disconnecting hoses, or working around water and electrical connections. A technician can perform a full drain-system flow test and check the pressure sensing circuit to pinpoint the remaining cause.
 
-**Rough cost:** DIY runs about $15–50 in parts, 30–60 min. A pro service call runs about $150–250.
+**Rough cost:** DIY runs about $15-60 in parts (if pump needed), 30-90 min. A pro service call runs about $150-250.
